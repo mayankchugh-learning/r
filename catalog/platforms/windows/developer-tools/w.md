@@ -1,0 +1,24 @@
+# Windows · Developer Tools — W
+
+[A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · **W** · [Z](./z.md)
+
+16 of 252 extensions · [← Windows · Developer Tools](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) | Store and retrieve secrets with biometric authentication (Touch ID, Apple Watch, or Windows Hello) | etheirystech | macOS, Windows | [store](https://www.raycast.com/etheirystech/watchkey) |
+| [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
+| [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) | Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl, hsla, oklch and shows the closest Tailwind CSS color. | nielsvanrijn | macOS, Windows | [store](https://www.raycast.com/nielsvanrijn/web-converter) |
+| [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
+| [Webhook Sender](https://github.com/raycast/extensions/tree/main/extensions/webhook-sender) | Send HTTP webhooks instantly — with key-value or raw JSON body, automatic history, saved presets, and rich response inspection. | BinaryBlitz10 | macOS, Windows | [store](https://www.raycast.com/BinaryBlitz10/webhook-sender) |
+| [Webpage to Markdown](https://github.com/raycast/extensions/tree/main/extensions/webpage-to-markdown) | Convert any webpage to markdown just by providing the url. | treyg | macOS, Windows | [store](https://www.raycast.com/treyg/webpage-to-markdown) |
+| [WeChat DevTool](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool) | Quickly open WeChat mini program project via official CLI. | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/wechat-devtool) |
+| [WiFi Password Reveal](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal) | Reveal any saved WiFi Password on macOS or Windows | louishuyng | macOS, Windows | [store](https://www.raycast.com/louishuyng/wifi-password-reveal) |
+| [Windows Environment Variables](https://github.com/raycast/extensions/tree/main/extensions/windows-environment-variables) | View, search, edit and manage Windows environment variables and PATH entries. A keyboard-first alternative to the Windows Environment Variables dialog. | ohmycodedev | Windows | [store](https://www.raycast.com/ohmycodedev/windows-environment-variables) |
+| [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
+| [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |
+| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
+| [WinSCP](https://github.com/raycast/extensions/tree/main/extensions/winscp) | Launch WinSCP sessions quickly from Raycast. | bossdaily | Windows | [store](https://www.raycast.com/bossdaily/winscp) |
+| [WLED Controller](https://github.com/raycast/extensions/tree/main/extensions/wled-controller) | Control your WLED devices - manage devices, set colors, effects, and brightness directly from Raycast | creative-koda-lab | macOS, Windows | [store](https://www.raycast.com/creative-koda-lab/wled-controller) |
+| [WSL Manager](https://github.com/raycast/extensions/tree/main/extensions/wsl-manager) | Seamlessly manage WSL distributions and open projects in your preferred editor directly from Raycast. | luke_esterhuizen | Windows | [store](https://www.raycast.com/luke_esterhuizen/wsl-manager) |

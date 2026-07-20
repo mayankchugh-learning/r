@@ -2,57 +2,38 @@
 
 An organized, auto-maintained index of every extension in [raycast/extensions](https://github.com/raycast/extensions).
 
-**3079** extensions · **16** categories · **3051** macOS · **794** Windows · **766** cross-platform
+**3080** extensions · **16** categories · **2038** publishers
 
-## Browse by category
+## Browse
+
+| View | |
+| --- | --- |
+| [By category](./categories/README.md) | 16 categories; large ones split A–Z |
+| [By platform](./platforms/README.md) | macOS (3052) · Windows (795) · cross-platform (767), each by category |
+| [By publisher](./publishers/README.md) | 2038 publishers with all their extensions |
+| [Alphabetical](./alphabetical/0-9.md) | every extension, A–Z |
+| [Changelog](./CHANGELOG.md) | upstream additions, updates, removals per sync |
+
+## Categories at a glance
 
 | Category | Extensions |
 | --- | --- |
-| [Applications](./categories/applications.md) | 359 |
-| [Communication](./categories/communication.md) | 137 |
-| [Data](./categories/data.md) | 235 |
-| [Design Tools](./categories/design-tools.md) | 133 |
-| [Developer Tools](./categories/developer-tools.md) | 952 |
-| [Documentation](./categories/documentation.md) | 178 |
-| [Finance](./categories/finance.md) | 132 |
-| [Fun](./categories/fun.md) | 253 |
-| [Media](./categories/media.md) | 251 |
-| [News](./categories/news.md) | 81 |
-| [Other](./categories/other.md) | 183 |
-| [Productivity](./categories/productivity.md) | 1278 |
-| [Security](./categories/security.md) | 73 |
-| [System](./categories/system.md) | 215 |
-| [Uncategorized](./categories/uncategorized.md) | 330 |
-| [Web](./categories/web.md) | 423 |
-
-## Browse alphabetically
-
-[0-9](./alphabetical/0-9.md) · [A](./alphabetical/a.md) · [B](./alphabetical/b.md) · [C](./alphabetical/c.md) · [D](./alphabetical/d.md) · [E](./alphabetical/e.md) · [F](./alphabetical/f.md) · [G](./alphabetical/g.md) · [H](./alphabetical/h.md) · [I](./alphabetical/i.md) · [J](./alphabetical/j.md) · [K](./alphabetical/k.md) · [L](./alphabetical/l.md) · [M](./alphabetical/m.md) · [N](./alphabetical/n.md) · [O](./alphabetical/o.md) · [P](./alphabetical/p.md) · [Q](./alphabetical/q.md) · [R](./alphabetical/r.md) · [S](./alphabetical/s.md) · [T](./alphabetical/t.md) · [U](./alphabetical/u.md) · [V](./alphabetical/v.md) · [W](./alphabetical/w.md) · [X](./alphabetical/x.md) · [Y](./alphabetical/y.md) · [Z](./alphabetical/z.md)
-
-## Top publishers
-
-| Publisher | Extensions |
-| --- | --- |
-| [xmok](https://www.raycast.com/xmok) | 110 |
-| [koinzhang](https://www.raycast.com/koinzhang) | 50 |
-| [pernielsentikaer](https://www.raycast.com/pernielsentikaer) | 21 |
-| [EvanZhouDev](https://www.raycast.com/EvanZhouDev) | 19 |
-| [Aayush9029](https://www.raycast.com/Aayush9029) | 16 |
-| [alexi.build](https://www.raycast.com/alexi.build) | 16 |
-| [Visual-Studio-Coder](https://www.raycast.com/Visual-Studio-Coder) | 16 |
-| [ridemountainpig](https://www.raycast.com/ridemountainpig) | 15 |
-| [thomas](https://www.raycast.com/thomas) | 15 |
-| [vimtor](https://www.raycast.com/vimtor) | 15 |
-| [peduarte](https://www.raycast.com/peduarte) | 14 |
-| [tonka3000](https://www.raycast.com/tonka3000) | 14 |
-| [chrismessina](https://www.raycast.com/chrismessina) | 13 |
-| [j3lte](https://www.raycast.com/j3lte) | 13 |
-| [litomore](https://www.raycast.com/litomore) | 13 |
-| [0xdhrv](https://www.raycast.com/0xdhrv) | 11 |
-| [kud](https://www.raycast.com/kud) | 11 |
-| [raycast](https://www.raycast.com/raycast) | 11 |
-| [Yukai](https://www.raycast.com/Yukai) | 11 |
-| [andreaselia](https://www.raycast.com/andreaselia) | 10 |
+| [Applications](./categories/applications/README.md) | 359 |
+| [Communication](./categories/communication/README.md) | 137 |
+| [Data](./categories/data/README.md) | 235 |
+| [Design Tools](./categories/design-tools/README.md) | 133 |
+| [Developer Tools](./categories/developer-tools/README.md) | 952 |
+| [Documentation](./categories/documentation/README.md) | 178 |
+| [Finance](./categories/finance/README.md) | 132 |
+| [Fun](./categories/fun/README.md) | 253 |
+| [Media](./categories/media/README.md) | 251 |
+| [News](./categories/news/README.md) | 81 |
+| [Other](./categories/other/README.md) | 183 |
+| [Productivity](./categories/productivity/README.md) | 1279 |
+| [Security](./categories/security/README.md) | 74 |
+| [System](./categories/system/README.md) | 215 |
+| [Uncategorized](./categories/uncategorized/README.md) | 330 |
+| [Web](./categories/web/README.md) | 423 |
 
 ## How this stays up to date
 

@@ -1,0 +1,34 @@
+# Media — S
+
+[0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md)
+
+26 of 251 extensions · [← Media](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [SauceNAO - Reverse Image Search](https://github.com/raycast/extensions/tree/main/extensions/saucenao) | Reverse image search using SauceNAO APIs. | BrandonGiesing | macOS | [store](https://www.raycast.com/BrandonGiesing/saucenao) |
+| [Scrapbook](https://github.com/raycast/extensions/tree/main/extensions/scrapbook) | View hackclub's scrapbook posts and users from raycast. | fakerr | macOS | [store](https://www.raycast.com/fakerr/scrapbook) |
+| [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs) | Search for TV show ratings and get individual episode ratings, straight from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/series-rating-graphs) |
+| [setlist.fm](https://github.com/raycast/extensions/tree/main/extensions/setlist-fm) | Look up setlists on setlist.fm | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/setlist-fm) |
+| [ShareX](https://github.com/raycast/extensions/tree/main/extensions/sharex) | Browse and create ShareX screenshots, videos, and GIFs from Raycast | the_revolution | Windows | [store](https://www.raycast.com/the_revolution/sharex) |
+| [Slackmojis](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) | An unofficial directory of the best custom Slack emojis from slackmojis.com | timoransky | macOS | [store](https://www.raycast.com/timoransky/slackmojis) |
+| [Slowed + Reverb](https://github.com/raycast/extensions/tree/main/extensions/slowed-reverb) | Turn any song into a Slowed + Reverb version | tomo_myrman | macOS | [store](https://www.raycast.com/tomo_myrman/slowed-reverb) |
+| [SM.MS](https://github.com/raycast/extensions/tree/main/extensions/sm-ms) | SM.MS image hosting service to upload and share images. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/sm-ms) |
+| [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
+| [SomaFM](https://github.com/raycast/extensions/tree/main/extensions/somafm) | Browse and play SomaFM internet radio stations with smart player detection, favorites, and now playing information | mwarger | macOS | [store](https://www.raycast.com/mwarger/somafm) |
+| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
+| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
+| [Sonu](https://github.com/raycast/extensions/tree/main/extensions/sonu-stream) | Search sonu.stream for songs, artists, and vibes | bobringer | macOS | [store](https://www.raycast.com/bobringer/sonu-stream) |
+| [Sound Search](https://github.com/raycast/extensions/tree/main/extensions/sound-search) | Search for sounds across multiple services | soundraw (org) | macOS | [store](https://www.raycast.com/soundraw/sound-search) |
+| [Spanish TV Guide](https://github.com/raycast/extensions/tree/main/extensions/spanish-tv-guide) | Browse the Spanish TV Guide | doktor500 | macOS, Windows | [store](https://www.raycast.com/doktor500/spanish-tv-guide) |
+| [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
+| [Spoqify](https://github.com/raycast/extensions/tree/main/extensions/spoqify) | Spoqify is an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user | truex | macOS | [store](https://www.raycast.com/truex/spoqify) |
+| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS | [store](https://www.raycast.com/daniyal_master/sportssync) |
+| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
+| [Stagehand](https://github.com/raycast/extensions/tree/main/extensions/stagehand) | Control YouTube and other media playing in your browser without switching tabs. Works with Chrome, Arc, Brave, and Safari. | tamag0tcha | macOS | [store](https://www.raycast.com/tamag0tcha/stagehand) |
+| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
+| [SteamGridDB](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) | Download and share custom video game assets and personalize your gaming library. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/steamgriddb) |
+| [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
+| [Swipe Photo Cleaner](https://github.com/raycast/extensions/tree/main/extensions/swipe-photo-cleaner) | Clean your photo library with fast swipe decisions | nazarlysyi | macOS | [store](https://www.raycast.com/nazarlysyi/swipe-photo-cleaner) |
+| [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |
+| [Syntax.fm](https://github.com/raycast/extensions/tree/main/extensions/syntax-fm) | Syntax.fm at your fingertips. | msmps | macOS | [store](https://www.raycast.com/msmps/syntax-fm) |

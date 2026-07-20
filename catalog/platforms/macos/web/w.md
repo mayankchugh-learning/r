@@ -1,0 +1,28 @@
+# macOS · Web — W
+
+[0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · **W** · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
+
+20 of 422 extensions · [← macOS · Web](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
+| [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
+| [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) | Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl, hsla, oklch and shows the closest Tailwind CSS color. | nielsvanrijn | macOS, Windows | [store](https://www.raycast.com/nielsvanrijn/web-converter) |
+| [Web Dictionaries](https://github.com/raycast/extensions/tree/main/extensions/dictionary) | Search any word with multiple online dictionaries or translation engines in one place—lightweight, zero dependencies. | DrChai | macOS | [store](https://www.raycast.com/DrChai/dictionary) |
+| [Web Page Design Mode](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode) | Toggle the document.designMode property on your web page to control whether the entire document is editable. | danulqua | macOS | [store](https://www.raycast.com/danulqua/web-page-design-mode) |
+| [Web3 Profile](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) | Search for ENS names and view its profile — Avatar, description, social URLs and more! | peduarte | macOS | [store](https://www.raycast.com/peduarte/web3-profile) |
+| [WebBites](https://github.com/raycast/extensions/tree/main/extensions/webbites) | Search your WebBites.io bookmarks | elias_ruiz_monserrat | macOS | [store](https://www.raycast.com/elias_ruiz_monserrat/webbites) |
+| [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) | Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. | peeks | macOS | [store](https://www.raycast.com/peeks/webflow-sites) |
+| [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
+| [Website Blocker](https://github.com/raycast/extensions/tree/main/extensions/website-blocker) | Block websites by changing your hosts file automatically, directly from Raycast | gersomvg | macOS | [store](https://www.raycast.com/gersomvg/website-blocker) |
+| [WeRead Sync](https://github.com/raycast/extensions/tree/main/extensions/weread-sync) | Sync your highlights from WeRead to Readwise automatically | owen_wang | macOS | [store](https://www.raycast.com/owen_wang/weread-sync) |
+| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
+| [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Woo Marketplace Search](https://github.com/raycast/extensions/tree/main/extensions/woo-marketplace-search) | Search WooCommerce themes, extensions, and documentation directly from Raycast | shameemreza | macOS | [store](https://www.raycast.com/shameemreza/woo-marketplace-search) |
+| [WordPress Icon Finder](https://github.com/raycast/extensions/tree/main/extensions/wordpress-icon-finder) | It helps you search icons from the WordPress Icons Library. | javierarce | macOS | [store](https://www.raycast.com/javierarce/wordpress-icon-finder) |
+| [WordPress Manager](https://github.com/raycast/extensions/tree/main/extensions/wordpress-manager) | Manage your WordPress site directly from Raycast. Create posts, moderate comments, manage plugins, and more. | gaurav_tiwari | macOS | [store](https://www.raycast.com/gaurav_tiwari/wordpress-manager) |
+| [WordPress WP-CLI Commands Explorer](https://github.com/raycast/extensions/tree/main/extensions/wp-cli-command-explorer) | Browse and search WP-CLI commands with their descriptions and subcommands | aslamdoctor | macOS | [store](https://www.raycast.com/aslamdoctor/wp-cli-command-explorer) |
+| [WordReference Dictionary Translation](https://github.com/raycast/extensions/tree/main/extensions/wordreference) | Quickly find a word translation using WordReference | Katatsu | macOS, Windows | [store](https://www.raycast.com/Katatsu/wordreference) |
+| [Wrike](https://github.com/raycast/extensions/tree/main/extensions/wrike) | Interact with Wrike | Slus | macOS | [store](https://www.raycast.com/Slus/wrike) |

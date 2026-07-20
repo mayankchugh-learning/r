@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7f5db61f3969810676f52a424c5b197dd178d93d",
-  "generatedAt": "2026-07-20T17:57:14.450Z",
-  "count": 3079,
+  "commit": "f348847e814874c147213959ef7ee0a47d78d54f",
+  "generatedAt": "2026-07-20T22:04:07.380Z",
+  "count": 3080,
   "extensions": [
     {
       "dir": "0x0",
@@ -3068,7 +3068,7 @@
       ],
       "store": "https://www.raycast.com/litomore/badges",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/badges",
-      "treeSha": "83c7624008fe76e57fe28d55fc533d20a09b260d"
+      "treeSha": "a44de57f57de29d89b5f612b0b8c29796e126a73"
     },
     {
       "dir": "bahn-info",
@@ -12464,6 +12464,26 @@
       "store": "https://www.raycast.com/Fatpandac/docsearch",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/docsearch",
       "treeSha": "ac1b4718e5e514afa6e0b1c7f8899f861c4bb98e"
+    },
+    {
+      "dir": "docuseal",
+      "name": "docuseal",
+      "title": "DocuSeal",
+      "description": "Open Source Document Signing",
+      "author": "xmok",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Security"
+      ],
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/xmok/docuseal",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/docuseal",
+      "treeSha": "fe28ff54c0f65fd477d5dddc84518dd2982b3b05"
     },
     {
       "dir": "dodo-payments",
@@ -30775,7 +30795,7 @@
       ],
       "store": "https://www.raycast.com/mymind/mymind",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mymind",
-      "treeSha": "6c96dce0690fac3944c11573308c77a16b501169"
+      "treeSha": "4727e3f0b38a6519fc4ef5b0680789827e014b54"
     },
     {
       "dir": "mynaui-icons",
@@ -31149,7 +31169,7 @@
       ],
       "store": "https://www.raycast.com/xmok/neon",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/neon",
-      "treeSha": "3d485e0b10ba21d5c3664389aebe17d758323205"
+      "treeSha": "143d52f763161a3b103d8be14e6a305353757f51"
     },
     {
       "dir": "nepali-calendar",

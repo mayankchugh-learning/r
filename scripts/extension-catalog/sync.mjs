@@ -9,11 +9,15 @@
  * changed are downloaded on demand.
  *
  * Outputs (all under catalog/):
- *   data/extensions.json   machine-readable state, used for diffing runs
- *   README.md              stats + index
- *   categories/<slug>.md   per-category listings
- *   alphabetical/<a-z>.md  alphabetical listings
- *   CHANGELOG.md           added/updated/removed log, newest first
+ *   data/extensions.json      machine-readable state, used for diffing runs
+ *   README.md                 stats + master index
+ *   categories/<slug>/        one section per category; large categories are
+ *                             split into per-letter subpages
+ *   platforms/<platform>/     macOS / Windows / cross-platform, broken down
+ *                             by category
+ *   publishers/<letter>.md    every publisher with their extensions
+ *   alphabetical/<letter>.md  flat A–Z listings
+ *   CHANGELOG.md              added/updated/removed log, newest first
  *
  * Usage: node scripts/extension-catalog/sync.mjs [--force] [--commit] [--push]
  *   --force   regenerate even if upstream shows no extension changes
@@ -39,6 +43,9 @@ const CHANGELOG_FILE = path.join(CATALOG_DIR, "CHANGELOG.md");
 const UPSTREAM_URL = "https://github.com/raycast/extensions";
 const SOURCE_BASE = "https://github.com/raycast/extensions/tree/main/extensions";
 const STORE_BASE = "https://www.raycast.com";
+
+// Category sections larger than this get split into per-letter subpages.
+const SPLIT_THRESHOLD = 200;
 
 const args = new Set(process.argv.slice(2));
 const FORCE = args.has("--force");
@@ -172,8 +179,8 @@ function renderTable(entries) {
   return [...TABLE_HEADER, ...entries.map(extRow)].join("\n");
 }
 
-function letterBucket(e) {
-  const c = e.title.trim().charAt(0).toUpperCase();
+function letterOf(s) {
+  const c = String(s).trim().charAt(0).toUpperCase();
   return c >= "A" && c <= "Z" ? c : "0-9";
 }
 
@@ -181,110 +188,257 @@ function byTitle(a, b) {
   return a.title.localeCompare(b.title, "en") || a.dir.localeCompare(b.dir, "en");
 }
 
+function groupBy(items, keysOf) {
+  const groups = new Map();
+  for (const item of items) {
+    for (const key of keysOf(item)) {
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(item);
+    }
+  }
+  return groups;
+}
+
+function letterNav(letters, current, prefix = "./") {
+  return letters
+    .map((l) =>
+      l === current ? `**${l}**` : `[${l}](${prefix}${l.toLowerCase()}.md)`,
+    )
+    .join(" · ");
+}
+
+function writePage(relPath, lines) {
+  const file = path.join(CATALOG_DIR, relPath);
+  mkdirSync(path.dirname(file), { recursive: true });
+  writeFileSync(file, `${lines.join("\n")}\n`);
+}
+
+/**
+ * Writes one section (e.g. a category, or a platform×category slice) either as
+ * a single page with the full table, or — above SPLIT_THRESHOLD — as an index
+ * page plus per-letter subpages. Returns the link target for the section.
+ */
+function writeSection({ dirRel, title, entries, backLink, intro = [] }) {
+  const sorted = [...entries].sort(byTitle);
+  const count = `${sorted.length} extension${sorted.length === 1 ? "" : "s"}`;
+
+  if (sorted.length <= SPLIT_THRESHOLD) {
+    writePage(`${dirRel}/README.md`, [
+      `# ${title}`,
+      "",
+      `${count} · ${backLink}`,
+      ...intro,
+      "",
+      renderTable(sorted),
+    ]);
+    return;
+  }
+
+  const byLetter = groupBy(sorted, (e) => [letterOf(e.title)]);
+  const letters = [...byLetter.keys()].sort();
+  writePage(`${dirRel}/README.md`, [
+    `# ${title}`,
+    "",
+    `${count} · ${backLink}`,
+    ...intro,
+    "",
+    "| Section | Extensions |",
+    "| --- | --- |",
+    ...letters.map(
+      (l) => `| [${title} — ${l}](./${l.toLowerCase()}.md) | ${byLetter.get(l).length} |`,
+    ),
+  ]);
+  for (const letter of letters) {
+    writePage(`${dirRel}/${letter.toLowerCase()}.md`, [
+      `# ${title} — ${letter}`,
+      "",
+      letterNav(letters, letter),
+      "",
+      `${byLetter.get(letter).length} of ${count} · [← ${title}](./README.md)`,
+      "",
+      renderTable(byLetter.get(letter)),
+    ]);
+  }
+}
+
 function generateCatalog(entries) {
   const sorted = [...entries].sort(byTitle);
 
-  // Group by category and by first letter.
-  const byCategory = new Map();
-  const byLetter = new Map();
-  for (const e of sorted) {
-    for (const c of e.categories) {
-      if (!byCategory.has(c)) byCategory.set(c, []);
-      byCategory.get(c).push(e);
-    }
-    const l = letterBucket(e);
-    if (!byLetter.has(l)) byLetter.set(l, []);
-    byLetter.get(l).push(e);
+  for (const dir of ["categories", "alphabetical", "platforms", "publishers"]) {
+    rmSync(path.join(CATALOG_DIR, dir), { recursive: true, force: true });
   }
-
-  rmSync(path.join(CATALOG_DIR, "categories"), { recursive: true, force: true });
-  rmSync(path.join(CATALOG_DIR, "alphabetical"), { recursive: true, force: true });
-  mkdirSync(path.join(CATALOG_DIR, "categories"), { recursive: true });
-  mkdirSync(path.join(CATALOG_DIR, "alphabetical"), { recursive: true });
+  // Remove pages from the pre-directory layout, if any survive.
+  rmSync(path.join(CATALOG_DIR, "authors.md"), { force: true });
   mkdirSync(path.join(CATALOG_DIR, "data"), { recursive: true });
 
+  // ---- Categories (nested: category -> letter for large ones) ----
+  const byCategory = groupBy(sorted, (e) => e.categories);
   const categoryNames = [...byCategory.keys()].sort((a, b) => a.localeCompare(b, "en"));
   for (const cat of categoryNames) {
     const items = byCategory.get(cat);
-    const body = [
-      `# ${cat}`,
-      "",
-      `${items.length} extension${items.length === 1 ? "" : "s"} · [← catalog index](../README.md)`,
-      "",
-      renderTable(items),
-      "",
-    ].join("\n");
-    writeFileSync(path.join(CATALOG_DIR, "categories", `${slugify(cat)}.md`), body);
+    const mac = items.filter((e) => e.platforms.includes("macOS")).length;
+    const win = items.filter((e) => e.platforms.includes("Windows")).length;
+    writeSection({
+      dirRel: `categories/${slugify(cat)}`,
+      title: cat,
+      entries: items,
+      backLink: "[← all categories](../README.md)",
+      intro: ["", `macOS: ${mac} · Windows: ${win}`],
+    });
   }
+  writePage("categories/README.md", [
+    "# Categories",
+    "",
+    `${categoryNames.length} categories · [← catalog index](../README.md)`,
+    "",
+    "| Category | Extensions |",
+    "| --- | --- |",
+    ...categoryNames.map(
+      (c) => `| [${c}](./${slugify(c)}/README.md) | ${byCategory.get(c).length} |`,
+    ),
+  ]);
 
+  // ---- Platforms (nested: platform -> category) ----
+  const platformDefs = [
+    ["macOS", "macos", (e) => e.platforms.includes("macOS")],
+    ["Windows", "windows", (e) => e.platforms.includes("Windows")],
+    [
+      "Cross-platform",
+      "cross-platform",
+      (e) => e.platforms.includes("macOS") && e.platforms.includes("Windows"),
+    ],
+  ];
+  for (const [label, slug, match] of platformDefs) {
+    const items = sorted.filter(match);
+    const byCat = groupBy(items, (e) => e.categories);
+    const cats = [...byCat.keys()].sort((a, b) => a.localeCompare(b, "en"));
+    for (const cat of cats) {
+      writeSection({
+        dirRel: `platforms/${slug}/${slugify(cat)}`,
+        title: `${label} · ${cat}`,
+        entries: byCat.get(cat),
+        backLink: `[← ${label}](../README.md)`,
+      });
+    }
+    writePage(`platforms/${slug}/README.md`, [
+      `# ${label} extensions`,
+      "",
+      `${items.length} extensions · [← all platforms](../README.md)`,
+      "",
+      "| Category | Extensions |",
+      "| --- | --- |",
+      ...cats.map(
+        (c) => `| [${c}](./${slugify(c)}/README.md) | ${byCat.get(c).length} |`,
+      ),
+    ]);
+  }
+  writePage("platforms/README.md", [
+    "# Platforms",
+    "",
+    "[← catalog index](../README.md)",
+    "",
+    "| Platform | Extensions |",
+    "| --- | --- |",
+    ...platformDefs.map(
+      ([label, slug, match]) =>
+        `| [${label}](./${slug}/README.md) | ${sorted.filter(match).length} |`,
+    ),
+  ]);
+
+  // ---- Publishers (letter -> publisher with their extensions) ----
+  const byPublisher = groupBy(sorted, (e) => (e.owner || e.author ? [e.owner || e.author] : []));
+  const publishers = [...byPublisher.keys()].sort((a, b) =>
+    a.toLowerCase().localeCompare(b.toLowerCase(), "en") || a.localeCompare(b, "en"),
+  );
+  const pubByLetter = groupBy(publishers, (p) => [letterOf(p)]);
+  const pubLetters = [...pubByLetter.keys()].sort();
+  for (const letter of pubLetters) {
+    const rows = pubByLetter.get(letter).map((p) => {
+      const items = byPublisher.get(p).sort(byTitle);
+      const links = items.map((e) => `[${mdEscape(e.title, 60)}](${e.source})`).join(", ");
+      return `| [${mdEscape(p, 60)}](${STORE_BASE}/${p}) | ${items.length} | ${links} |`;
+    });
+    writePage(`publishers/${letter.toLowerCase()}.md`, [
+      `# Publishers — ${letter}`,
+      "",
+      letterNav(pubLetters, letter),
+      "",
+      `${pubByLetter.get(letter).length} publishers · [← publisher index](./README.md)`,
+      "",
+      "| Publisher | Extensions | Titles |",
+      "| --- | --- | --- |",
+      ...rows,
+    ]);
+  }
+  const topPublishers = publishers
+    .map((p) => [p, byPublisher.get(p).length])
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .slice(0, 25);
+  writePage("publishers/README.md", [
+    "# Publishers",
+    "",
+    `${publishers.length} publishers · [← catalog index](../README.md)`,
+    "",
+    letterNav(pubLetters, null),
+    "",
+    "## Most published",
+    "",
+    "| Publisher | Extensions |",
+    "| --- | --- |",
+    ...topPublishers.map(([p, n]) => `| [${p}](${STORE_BASE}/${p}) | ${n} |`),
+  ]);
+
+  // ---- Flat alphabetical listing ----
+  const byLetter = groupBy(sorted, (e) => [letterOf(e.title)]);
   const letters = [...byLetter.keys()].sort();
   for (const letter of letters) {
     const items = byLetter.get(letter);
-    const nav = letters
-      .map((l) => (l === letter ? `**${l}**` : `[${l}](./${l.toLowerCase()}.md)`))
-      .join(" · ");
-    const body = [
+    writePage(`alphabetical/${letter.toLowerCase()}.md`, [
       `# Extensions — ${letter}`,
       "",
-      `${nav}`,
+      letterNav(letters, letter),
       "",
       `${items.length} extension${items.length === 1 ? "" : "s"} · [← catalog index](../README.md)`,
       "",
       renderTable(items),
-      "",
-    ].join("\n");
-    writeFileSync(path.join(CATALOG_DIR, "alphabetical", `${letter.toLowerCase()}.md`), body);
+    ]);
   }
 
-  // Author leaderboard (org-owned extensions counted under the org handle).
-  const authorCounts = new Map();
-  for (const e of sorted) {
-    const handle = e.owner || e.author;
-    if (!handle) continue;
-    authorCounts.set(handle, (authorCounts.get(handle) || 0) + 1);
-  }
-  const topAuthors = [...authorCounts.entries()]
-    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
-    .slice(0, 20);
-
+  // ---- Master index ----
   const macCount = sorted.filter((e) => e.platforms.includes("macOS")).length;
   const winCount = sorted.filter((e) => e.platforms.includes("Windows")).length;
   const crossCount = sorted.filter(
     (e) => e.platforms.includes("macOS") && e.platforms.includes("Windows"),
   ).length;
-
-  const readme = [
+  writePage("README.md", [
     "# Raycast Extensions Catalog",
     "",
     `An organized, auto-maintained index of every extension in [raycast/extensions](${UPSTREAM_URL}).`,
     "",
-    `**${sorted.length}** extensions · **${categoryNames.length}** categories · ` +
-      `**${macCount}** macOS · **${winCount}** Windows · **${crossCount}** cross-platform`,
+    `**${sorted.length}** extensions · **${categoryNames.length}** categories · **${publishers.length}** publishers`,
     "",
-    "## Browse by category",
+    "## Browse",
+    "",
+    "| View | |",
+    "| --- | --- |",
+    `| [By category](./categories/README.md) | ${categoryNames.length} categories; large ones split A–Z |`,
+    `| [By platform](./platforms/README.md) | macOS (${macCount}) · Windows (${winCount}) · cross-platform (${crossCount}), each by category |`,
+    `| [By publisher](./publishers/README.md) | ${publishers.length} publishers with all their extensions |`,
+    `| [Alphabetical](./alphabetical/${letters[0].toLowerCase()}.md) | every extension, A–Z |`,
+    `| [Changelog](./CHANGELOG.md) | upstream additions, updates, removals per sync |`,
+    "",
+    "## Categories at a glance",
     "",
     "| Category | Extensions |",
     "| --- | --- |",
     ...categoryNames.map(
-      (c) => `| [${c}](./categories/${slugify(c)}.md) | ${byCategory.get(c).length} |`,
+      (c) => `| [${c}](./categories/${slugify(c)}/README.md) | ${byCategory.get(c).length} |`,
     ),
-    "",
-    "## Browse alphabetically",
-    "",
-    letters.map((l) => `[${l}](./alphabetical/${l.toLowerCase()}.md)`).join(" · "),
-    "",
-    "## Top publishers",
-    "",
-    "| Publisher | Extensions |",
-    "| --- | --- |",
-    ...topAuthors.map(([a, n]) => `| [${a}](${STORE_BASE}/${a}) | ${n} |`),
     "",
     "## How this stays up to date",
     "",
     `A scheduled job runs \`node scripts/extension-catalog/sync.mjs --push\`, which fetches the latest upstream tree, diffs every extension's tree SHA against [\`data/extensions.json\`](./data/extensions.json), downloads only the changed manifests, regenerates these pages, and records additions/updates/removals in [CHANGELOG.md](./CHANGELOG.md). Runs that find no extension changes make no commit.`,
-    "",
-  ].join("\n");
-  writeFileSync(path.join(CATALOG_DIR, "README.md"), readme);
+  ]);
 }
 
 // --- 5. Changelog -----------------------------------------------------------

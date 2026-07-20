@@ -1,0 +1,32 @@
+# Developer Tools — E
+
+[0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
+
+24 of 952 extensions · [← Developer Tools](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [e18e Module Replacements](https://github.com/raycast/extensions/tree/main/extensions/e18e-module-replacements) | Search and browse e18e's curated list of modern npm package replacements. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/e18e-module-replacements) |
+| [E2B Code Interpreter](https://github.com/raycast/extensions/tree/main/extensions/e2b) | E2B is a tool that allows you to execute code in a secure sandbox withing a Jupyter-like notebook cell and return result | e2b (org) | macOS | [store](https://www.raycast.com/e2b/e2b) |
+| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS | [store](https://www.raycast.com/isfeng/easydict) |
+| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
+| [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) | Convert Any Language Text into an English Variable Name | keleus | macOS, Windows | [store](https://www.raycast.com/keleus/easyvariable) |
+| [Effect Docs](https://github.com/raycast/extensions/tree/main/extensions/effect-docs) | Search Effect-TS documentation and API reference from Raycast | rvaccone | macOS | [store](https://www.raycast.com/rvaccone/effect-docs) |
+| [Elixir](https://github.com/raycast/extensions/tree/main/extensions/elixir) | Navigate Elixir's documentation without leaving Raycast. | dinocosta | macOS | [store](https://www.raycast.com/dinocosta/elixir) |
+| [Ember.js API Documentation](https://github.com/raycast/extensions/tree/main/extensions/ember-api-documentation) | Search Ember.js Api Documentation and open it in the browser | tdwesten | macOS | [store](https://www.raycast.com/tdwesten/ember-api-documentation) |
+| [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
+| [End of Life](https://github.com/raycast/extensions/tree/main/extensions/end-of-life) | An extension to bring endoflife.date into Raycast. Get End-of-life (EOL) and support information for various products | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/end-of-life) |
+| [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) | Search for envoyer projects, start new deploys and view recent deployments | thijsdewitt | macOS | [store](https://www.raycast.com/thijsdewitt/envoyer) |
+| [Epoch to Timestamp](https://github.com/raycast/extensions/tree/main/extensions/epoch-to-timestamp) | Quickly convert a Unix epoch, in seconds or milliseconds, to a human-readible timestamp. | bgreenlee | macOS | [store](https://www.raycast.com/bgreenlee/epoch-to-timestamp) |
+| [Escape RegExp Characters](https://github.com/raycast/extensions/tree/main/extensions/escape-regexp-characters) | Escape RegExp special characters. | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/escape-regexp-characters) |
+| [Esse Actions](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) | Uses the Esse app, which must already be installed, to perform operations on the passed text | bert | macOS | [store](https://www.raycast.com/bert/esse-actions) |
+| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS | [store](https://www.raycast.com/destiner/ethereum-utils) |
+| [Evaluate Math Expression](https://github.com/raycast/extensions/tree/main/extensions/evaluate-math-expression) | Reads current selection, evaluates the math expression, and shows it in a desired way | Dervex | macOS | [store](https://www.raycast.com/Dervex/evaluate-math-expression) |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [EVM Codes](https://github.com/raycast/extensions/tree/main/extensions/evm-codes) | Search for EVM opcodes on evm.codes | clabby | macOS | [store](https://www.raycast.com/clabby/evm-codes) |
+| [EVM Toolkit](https://github.com/raycast/extensions/tree/main/extensions/evm-toolkit) | A toolkit for Ethereum power users: explore addresses, transactions, and blocks across EVM chains | imqdee | macOS, Windows | [store](https://www.raycast.com/imqdee/evm-toolkit) |
+| [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
+| [Excalidraw](https://github.com/raycast/extensions/tree/main/extensions/excalidraw) | allow easy access to your excalidraw boards from Raycast! | slyguy5646 | macOS | [store](https://www.raycast.com/slyguy5646/excalidraw) |
+| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
+| [Explain Command](https://github.com/raycast/extensions/tree/main/extensions/explain-command) | Let ChatGPT explain a command for you | maantje | macOS | [store](https://www.raycast.com/maantje/explain-command) |
+| [Expo](https://github.com/raycast/extensions/tree/main/extensions/expo) | Manage your expo.dev Projects, Apple Devices and Environment Variables | patrick-web | macOS | [store](https://www.raycast.com/patrick-web/expo) |

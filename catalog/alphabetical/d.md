@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-164 extensions · [← catalog index](../README.md)
+165 extensions · [← catalog index](../README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -126,6 +126,7 @@
 | [DocKit - Document Toolkit](https://github.com/raycast/extensions/tree/main/extensions/dockit) | Fix formatting in Word, PowerPoint, and Excel files | zengtianli | macOS | [store](https://www.raycast.com/zengtianli/dockit) |
 | [DockLock Plus](https://github.com/raycast/extensions/tree/main/extensions/docklock-plus) | Control macOS Dock position and automation | IGHOR | macOS | [store](https://www.raycast.com/IGHOR/docklock-plus) |
 | [DocSearch](https://github.com/raycast/extensions/tree/main/extensions/docsearch) | Link all DocSearch into Raycast | Fatpandac | macOS | [store](https://www.raycast.com/Fatpandac/docsearch) |
+| [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
 | [Dodo Payments](https://github.com/raycast/extensions/tree/main/extensions/dodo-payments) | Manage all your Dodo Payments orders, payments, subscriptions, discounts, license keys, disputes, refunds and payouts, right from your keyboard. | dodopayments | macOS | [store](https://www.raycast.com/dodopayments/dodo-payments) |
 | [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images) | Get a random photo of a dog. | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/dog-images) |
 | [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy) | Deploy Anywhere with Total Freedom and Ease. | xmok | macOS | [store](https://www.raycast.com/xmok/dokploy) |

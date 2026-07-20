@@ -1,0 +1,28 @@
+# Productivity — U
+
+[0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · **U** · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
+
+20 of 1279 extensions · [← Productivity](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [U301 URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/u301-url-shortener) | Shorten URL using u301 service | shiny | macOS | [store](https://www.raycast.com/shiny/u301-url-shortener) |
+| [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
+| [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman) | View your Ultrahuman Ring data | joshmillgate | macOS | [store](https://www.raycast.com/joshmillgate/ultrahuman) |
+| [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
+| [Unblocked Answers](https://github.com/raycast/extensions/tree/main/extensions/unblocked-answers) | Ask questions and receive answers from the Unblocked Answers API, and review past questions and answers. | TetraTsunami | macOS | [store](https://www.raycast.com/TetraTsunami/unblocked-answers) |
+| [Unify Path Separator](https://github.com/raycast/extensions/tree/main/extensions/unify-path-separator) | Unifies path selectors in path copied to clipboard | patrick_dawson | macOS, Windows | [store](https://www.raycast.com/patrick_dawson/unify-path-separator) |
+| [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) | Convert currencies and look up exchange rates for any date back to 1999, powered by UniRateAPI. | rob_brown96cc | Windows, macOS | [store](https://www.raycast.com/rob_brown96cc/unirate-currency) |
+| [UniTex - LaTeX Math to Unicode Text.](https://github.com/raycast/extensions/tree/main/extensions/unitex) | Convert LaTeX math to Unicode Text. | jaykmody | macOS | [store](https://www.raycast.com/jaykmody/unitex) |
+| [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) | Runs configurable application shortcut depending on the frontmost application. | cyxn | macOS | [store](https://www.raycast.com/cyxn/universal-commands) |
+| [Universal Inbox](https://github.com/raycast/extensions/tree/main/extensions/universal-inbox) | Manage your notifications in a single Universal Inbox | dax42 | macOS | [store](https://www.raycast.com/dax42/universal-inbox) |
+| [Universal Website Search](https://github.com/raycast/extensions/tree/main/extensions/any-website-search) | Search any site on the web | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/any-website-search) |
+| [Unpackr](https://github.com/raycast/extensions/tree/main/extensions/unpackr) | Intelligently merges and organizes ZIP files with automatic deduplication. Works with Google Takeout or any ZIP files. | shak | macOS | [store](https://www.raycast.com/shak/unpackr) |
+| [Untis](https://github.com/raycast/extensions/tree/main/extensions/untis) | Webuntis extension for Raycast. | bengt | macOS, Windows | [store](https://www.raycast.com/bengt/untis) |
+| [Upcoming Holidays](https://github.com/raycast/extensions/tree/main/extensions/upcoming-holidays) | Show upcoming holidays for a country | rodrigouroz | macOS, Windows | [store](https://www.raycast.com/rodrigouroz/upcoming-holidays) |
+| [UploaderX](https://github.com/raycast/extensions/tree/main/extensions/uploaderx) | UploaderX lets you instantly upload files to your favorite cloud storage providers—directly from Raycast. Supports S3-compatible storage (AWS S3, Cloudflare R2… | scisaif | macOS | [store](https://www.raycast.com/scisaif/uploaderx) |
+| [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) | Take notes through Raycast in UpNote. | ujjwal1998 | macOS | [store](https://www.raycast.com/ujjwal1998/upnote) |
+| [URL Editor Pro](https://github.com/raycast/extensions/tree/main/extensions/url-editor-pro) | Parses any URL—including custom schemes—into its components, lets you edit each part. Easily copy the modified URL, save to history or generate a QR code for q… | CoyoteWaltz | macOS | [store](https://www.raycast.com/CoyoteWaltz/url-editor-pro) |
+| [Userplane](https://github.com/raycast/extensions/tree/main/extensions/userplane) | Create Userplane recording links, browse recordings and recording links, and open the Userplane dashboard — all from Raycast. | wizenheimer | macOS | [store](https://www.raycast.com/wizenheimer/userplane) |
+| [UTM Campaign Builder](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) | Create a campaign URL with UTM attributes | vimtor | macOS | [store](https://www.raycast.com/vimtor/utm-campaign-builder) |
+| [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) | Launch and control virtual machines in UTM. | alaidriel | macOS | [store](https://www.raycast.com/alaidriel/utm-virtual-machines) |

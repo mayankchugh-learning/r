@@ -1,0 +1,38 @@
+# macOS · Applications — S
+
+[0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
+
+30 of 350 extensions · [← macOS · Applications](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Safe Secret](https://github.com/raycast/extensions/tree/main/extensions/safe-secret) | Safely share text over the web | melonamin | macOS | [store](https://www.raycast.com/melonamin/safe-secret) |
+| [Salesforce Search](https://github.com/raycast/extensions/tree/main/extensions/salesforce-search) | Search for Salesforce records like accounts and contacts and dashboards and reports. | sven | macOS | [store](https://www.raycast.com/sven/salesforce) |
+| [SAP GUI Connector](https://github.com/raycast/extensions/tree/main/extensions/sap-logon) | Quickly connect to SAP systems with saved credentials | ginderellas | macOS | [store](https://www.raycast.com/ginderellas/sap-logon) |
+| [Say No to Notch](https://github.com/raycast/extensions/tree/main/extensions/say-no-to-notch) | Control MacBook Notch via Say No to Notch | honghao | macOS | [store](https://www.raycast.com/honghao/say-no-to-notch) |
+| [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) | Fast access to SayIntentions via keyboard shortcuts. Great for flight sim sessions where you don't want to speak but still want quick ATC communication. | kyleawayan | Windows, macOS | [store](https://www.raycast.com/kyleawayan/sayintentions) |
+| [Screen Studio](https://github.com/raycast/extensions/tree/main/extensions/screen-studio) | Raycast extension that allows controlling the Screen Studio app easily | screen-studio (org) | macOS | [store](https://www.raycast.com/screen-studio/screen-studio) |
+| [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
+| [Searchcaster](https://github.com/raycast/extensions/tree/main/extensions/searchcaster) | Search for content on Farcaster, a sufficiently decentralized social network. | gregskril | macOS | [store](https://www.raycast.com/gregskril/searchcaster) |
+| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
+| [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
+| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
+| [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) | Open Signal chats | leeraymond78 | macOS | [store](https://www.raycast.com/leeraymond78/signal) |
+| [Simulator Manager](https://github.com/raycast/extensions/tree/main/extensions/simulator-manager) | Manage iOS simulators and Android emulators with ease. Boot, shutdown, and open simulators directly from Raycast. | pauloedurezende | macOS | [store](https://www.raycast.com/pauloedurezende/simulator-manager) |
+| [SnapOCR Via Paddle](https://github.com/raycast/extensions/tree/main/extensions/snapocr-via-paddle) | Layout-aware multilingual OCR for complex documents, tables, and formulas with structured Markdown export via Baidu PaddleOCR | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/snapocr-via-paddle) |
+| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
+| [Splix](https://github.com/raycast/extensions/tree/main/extensions/splix) | Raycast interface for Splix (https://splix.app) to supercharge your productivity. | splix.app | macOS | [store](https://www.raycast.com/splix.app/splix) |
+| [Stacks](https://github.com/raycast/extensions/tree/main/extensions/stacks) | Search and manage your saved resources from Stacks | sourabh_rathour | macOS | [store](https://www.raycast.com/sourabh_rathour/stacks) |
+| [Stashpad Docs](https://github.com/raycast/extensions/tree/main/extensions/stashpad-docs) | Create and search for Stashpad Docs. | theo_marin | macOS | [store](https://www.raycast.com/theo_marin/stashpad-docs) |
+| [Stellate (formerly GraphCDN)](https://github.com/raycast/extensions/tree/main/extensions/graphcdn) | List your Stellate organizations and their services | mathieudutour | macOS | [store](https://www.raycast.com/mathieudutour/graphcdn) |
+| [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
+| [StoryTime](https://github.com/raycast/extensions/tree/main/extensions/storytime) | Generate a story using OpenAI and Upstash. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/storytime) |
+| [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |
+| [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |
+| [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
+| [Surfed](https://github.com/raycast/extensions/tree/main/extensions/surfed) | Search Collections, Tags, URLs and Browsing History | HOsy | macOS | [store](https://www.raycast.com/HOsy/surfed) |
+| [Surge Outbound Switcher](https://github.com/raycast/extensions/tree/main/extensions/surge-outbound-switcher) | Instantly switch Surge's outbound mode without using HTTP API | the3ash | macOS | [store](https://www.raycast.com/the3ash/surge-outbound-switcher) |
+| [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |

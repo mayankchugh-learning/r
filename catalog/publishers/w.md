@@ -1,0 +1,39 @@
+# Publishers — W
+
+[0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · **W** · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
+
+31 publishers · [← publisher index](./README.md)
+
+| Publisher | Extensions | Titles |
+| --- | --- | --- |
+| [waj](https://www.raycast.com/waj) | 1 | [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) |
+| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
+| [wdeu](https://www.raycast.com/wdeu) | 3 | [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc), [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup), [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync) |
+| [web3bio](https://www.raycast.com/web3bio) | 1 | [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) |
+| [webdiego](https://www.raycast.com/webdiego) | 1 | [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
+| [webpro](https://www.raycast.com/webpro) | 1 | [GitHub Search](https://github.com/raycast/extensions/tree/main/extensions/github-search) |
+| [weicodes](https://www.raycast.com/weicodes) | 1 | [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) |
+| [wellsgz](https://www.raycast.com/wellsgz) | 1 | [Handoff Toggle](https://github.com/raycast/extensions/tree/main/extensions/handoff-toggle) |
+| [WerrySs](https://www.raycast.com/WerrySs) | 1 | [PromptCast for Claude & Codex](https://github.com/raycast/extensions/tree/main/extensions/codex-claude-cli) |
+| [wesbaker](https://www.raycast.com/wesbaker) | 2 | [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos), [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) |
+| [wesleycoder](https://www.raycast.com/wesleycoder) | 1 | [Ntfy](https://github.com/raycast/extensions/tree/main/extensions/ntfy) |
+| [wesseljt](https://www.raycast.com/wesseljt) | 1 | [Letta Agents](https://github.com/raycast/extensions/tree/main/extensions/letta) |
+| [wey-gu](https://www.raycast.com/wey-gu) | 1 | [Nowledge Mem](https://github.com/raycast/extensions/tree/main/extensions/nowledge-mem) |
+| [whitebit-exchange](https://www.raycast.com/whitebit-exchange) | 1 | [WhiteBIT Exchange](https://github.com/raycast/extensions/tree/main/extensions/whitebit) |
+| [Whitespace](https://www.raycast.com/Whitespace) | 3 | [Aimlab Tracker](https://github.com/raycast/extensions/tree/main/extensions/aimlab), [gg.deals](https://github.com/raycast/extensions/tree/main/extensions/gg-deals), [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) |
+| [whosmadeer](https://www.raycast.com/whosmadeer) | 1 | [Shutdown Timer](https://github.com/raycast/extensions/tree/main/extensions/shutdown-timer) |
+| [willem_van_lent](https://www.raycast.com/willem_van_lent) | 1 | [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) |
+| [williamwelsh](https://www.raycast.com/williamwelsh) | 1 | [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) |
+| [willian](https://www.raycast.com/willian) | 1 | [Brasileirão Série A](https://github.com/raycast/extensions/tree/main/extensions/brasileirao-serie-a) |
+| [wilton](https://www.raycast.com/wilton) | 1 | [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) |
+| [winann](https://www.raycast.com/winann) | 1 | [Paste from Apple Books](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) |
+| [wisdom-plus](https://www.raycast.com/wisdom-plus) | 1 | [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) |
+| [wizenheimer](https://www.raycast.com/wizenheimer) | 1 | [Userplane](https://github.com/raycast/extensions/tree/main/extensions/userplane) |
+| [wong2](https://www.raycast.com/wong2) | 1 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) |
+| [wp-lai](https://www.raycast.com/wp-lai) | 1 | [DEX Screener](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) |
+| [wrick17](https://www.raycast.com/wrick17) | 1 | [Open Multiple Links](https://github.com/raycast/extensions/tree/main/extensions/multi-links) |
+| [wu.eth](https://www.raycast.com/wu.eth) | 1 | [Markdown Table to Excel](https://github.com/raycast/extensions/tree/main/extensions/md-to-excel) |
+| [wuyax](https://www.raycast.com/wuyax) | 1 | [TinyIMG](https://github.com/raycast/extensions/tree/main/extensions/tinyimg) |
+| [wuyuxiangX](https://www.raycast.com/wuyuxiangX) | 2 | [Network Proxy](https://github.com/raycast/extensions/tree/main/extensions/network-proxy), [Try](https://github.com/raycast/extensions/tree/main/extensions/try) |
+| [wxiaoyun](https://www.raycast.com/wxiaoyun) | 1 | [NUSMods](https://github.com/raycast/extensions/tree/main/extensions/nusmods) |
+| [wyattjoh](https://www.raycast.com/wyattjoh) | 2 | [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension), [NZBGet](https://github.com/raycast/extensions/tree/main/extensions/nzbget) |

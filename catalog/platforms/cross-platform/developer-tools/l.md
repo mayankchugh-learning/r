@@ -1,0 +1,23 @@
+# Cross-platform · Developer Tools — L
+
+[A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [Z](./z.md)
+
+15 of 242 extensions · [← Cross-platform · Developer Tools](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [LAPACK/BLAS Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/lapack-blas-documentation-search) | Quickly search through official LAPACK/BLAS documentation | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/lapack-blas-documentation-search) |
+| [Laravel Cloud](https://github.com/raycast/extensions/tree/main/extensions/laravel-cloud) | Manage your Laravel Cloud applications, deployments, logs, and more directly from Raycast. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/laravel-cloud) |
+| [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
+| [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
+| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
+| [Link Transformer](https://github.com/raycast/extensions/tree/main/extensions/link-transformer) | Link Transformer lets you save, search, and transform links using your own javascript custom actions. | dangkhoipro | macOS, Windows | [store](https://www.raycast.com/dangkhoipro/link-transformer) |
+| [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
+| [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats) | The largest collection of high-quality evaluations for every AI modality—language, vision, code, reasoning, and beyond | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/llm-stats) |
+| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
+| [LobeHub Icons](https://github.com/raycast/extensions/tree/main/extensions/lobehub-icons) | Popular AI / LLM Model Brand SVG Logo and Icon Collection | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/lobehub-icons) |
+| [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Lucide Animated](https://github.com/raycast/extensions/tree/main/extensions/lucide-animated) | Browse, search, and copy animated Lucide icons for your projects. | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/lucide-animated) |
+| [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
