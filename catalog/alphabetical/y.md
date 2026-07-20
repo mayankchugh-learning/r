@@ -1,0 +1,40 @@
+# Extensions — Y
+
+[0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · **Y** · [Z](./z.md)
+
+32 extensions · [← catalog index](../README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Y Combinator](https://github.com/raycast/extensions/tree/main/extensions/y-combinator) | Search all Y Combinator companies and get a countdown until demo day | thomas | macOS | [store](https://www.raycast.com/thomas/y-combinator) |
+| [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) | Control Yabai using Raycast. Requires yabai to be installed. | krzysztoff1 | macOS | [store](https://www.raycast.com/krzysztoff1/yabai) |
+| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
+| [Yamli](https://github.com/raycast/extensions/tree/main/extensions/yamli) | Convert English-Arabic transliteration to Arabic text using Yamli | menisy | macOS | [store](https://www.raycast.com/menisy/yamli) |
+| [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
+| [Yandex Smart Home](https://github.com/raycast/extensions/tree/main/extensions/yandex-smart-home) | Control Yandex Smart Home devices and run scenarios from Raycast. | devall | macOS, Windows | [store](https://www.raycast.com/devall/yandex-smart-home) |
+| [Yandex Telemost](https://github.com/raycast/extensions/tree/main/extensions/yandex-telemost) | Create and join Yandex Telemost meetings directly from Raycast. Requires macOS — uses AppleScript to automate your browser. | egor_chuzhin | macOS | [store](https://www.raycast.com/egor_chuzhin/yandex-telemost) |
+| [Yap](https://github.com/raycast/extensions/tree/main/extensions/yap) | Post on socials in a single click | chaseonraycast | macOS | [store](https://www.raycast.com/chaseonraycast/yap) |
+| [YASB](https://github.com/raycast/extensions/tree/main/extensions/yasb) | Raycast interface for the yasbc (YASB CLI) application | Deviljin112 | Windows | [store](https://www.raycast.com/Deviljin112/yasb) |
+| [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) | View your daily goals and calories in Yazio, and log food directly from Raycast. | zsombor_biro | Windows, macOS | [store](https://www.raycast.com/zsombor_biro/yazio-tracker) |
+| [Year in Progress](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) | Stay motivated by see the progress of the year. | thomas | macOS | [store](https://www.raycast.com/thomas/year-in-progress) |
+| [Yield Calculator](https://github.com/raycast/extensions/tree/main/extensions/yield-calculator) | Calculte your interests, APY / APR using our calculator. | Decrypt | macOS | [store](https://www.raycast.com/Decrypt/yield-calculator) |
+| [Yoink](https://github.com/raycast/extensions/tree/main/extensions/yoink) | Add selected or clipboard files to Yoink. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/yoink) |
+| [Yomicast – Offline Japanese-English Dictionary](https://github.com/raycast/extensions/tree/main/extensions/yomicast) | Offline Japanese-English dictionary. Instant search for kanji, kana, and English terms. | matchai | macOS | [store](https://www.raycast.com/matchai/yomicast) |
+| [Yopass](https://github.com/raycast/extensions/tree/main/extensions/yopass) | Secure sharing of secrets and passwords via Yopass | ricoberger | macOS | [store](https://www.raycast.com/ricoberger/yopass) |
+| [You.com Search](https://github.com/raycast/extensions/tree/main/extensions/you-com-search) | Search You.com directly from Raycast | salman_mian | macOS | [store](https://www.raycast.com/salman_mian/you-com-search) |
+| [Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/youdao-translate) | Translate text using Youdao | tiancheng92 | macOS | [store](https://www.raycast.com/tiancheng92/youdao-translate) |
+| [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |
+| [Your Name in Landsat](https://github.com/raycast/extensions/tree/main/extensions/your-name-in-landsat) | Generate your name in Landsat using Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/your-name-in-landsat) |
+| [YOURLS Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/yourls) | Create and view shortened links using YOURLS | firhan_ramadhan | macOS | [store](https://www.raycast.com/firhan_ramadhan/yourls) |
+| [YouTrack](https://github.com/raycast/extensions/tree/main/extensions/youtrack) | YouTrack 🔄 Raycast | tiulpin | macOS | [store](https://www.raycast.com/tiulpin/youtrack) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) | Collection of scripts to improve YouTube browsing experience | sasivarnan | macOS, Windows | [store](https://www.raycast.com/sasivarnan/youtube-companion) |
+| [YouTube Highlights](https://github.com/raycast/extensions/tree/main/extensions/youtube-highlights) | Capture and manage highlights from YouTube videos with timestamps | itskofio | macOS | [store](https://www.raycast.com/itskofio/youtube-highlights) |
+| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
+| [YouTube Search](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) | YouTube search with autosuggestions | muhammetakay | macOS | [store](https://www.raycast.com/muhammetakay/youtube-search) |
+| [YouTube Shorts to Normal Video Page](https://github.com/raycast/extensions/tree/main/extensions/youtube-shorts-to-normal-video-page) | One click to convert YouTube shorts url to regular url | b6pzeusbc54tvhw5jgpyw8pwz2x6gs | macOS | [store](https://www.raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/youtube-shorts-to-normal-video-page) |
+| [YouTube Subscriber Count](https://github.com/raycast/extensions/tree/main/extensions/youtube-subscriber-count) | Celebrates whenever you get a new subscriber with a confetti 🎉 | iman_neo | macOS | [store](https://www.raycast.com/iman_neo/youtube-subscriber-count) |
+| [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail) | View a YouTube video's thumbnail variants, then download the images or copy their URLs. | bensomething | macOS | [store](https://www.raycast.com/bensomething/youtube-thumbnail) |
+| [YouVersion Bible Suggest](https://github.com/raycast/extensions/tree/main/extensions/youversion-suggest) | Allows you to search the YouVersion Bible quickly and easily | caleb531 | macOS | [store](https://www.raycast.com/caleb531/youversion-suggest) |
+| [Yu-Gi-Oh! Card Lookup](https://github.com/raycast/extensions/tree/main/extensions/yu-gi-oh-card-lookup) | Find info on Yu-Gi-Oh TCG cards. | ApopeOS | macOS, Windows | [store](https://www.raycast.com/ApopeOS/yu-gi-oh-card-lookup) |
+| [YubiKey Code](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) | Easily get a OTP from your YubiKey | yoyoyeti | macOS | [store](https://www.raycast.com/yoyoyeti/yubikey-code) |
