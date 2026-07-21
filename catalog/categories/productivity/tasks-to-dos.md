@@ -2,34 +2,30 @@
 
 40 extensions · [← Productivity](./README.md)
 
+[Tasks ✦](#tasks) (28) · [Reminders ✦](#reminders) (5) · [General](#general) (7)
+
+*✦ auto-discovered topic group*
+
+## Tasks ✦
+
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
-| [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |
 | [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | Search for tasks & projects and log time in awork. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
 | [Backlog.md Manager](https://github.com/raycast/extensions/tree/main/extensions/backlog-md-manager) | Manage Backlog.md tasks from Raycast — create, browse, search, edit, and change status across multiple projects using the backlog CLI. | nicholas_ferguson | macOS, Windows | [store](https://www.raycast.com/nicholas_ferguson/backlog-md-manager) |
-| [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) | Manage your Beeminder goals from Raycast | vivgui | macOS | [store](https://www.raycast.com/vivgui/beeminder) |
 | [Braintick](https://github.com/raycast/extensions/tree/main/extensions/braintick) | Manage your tasks, projects, and time tracking with Braintick - your productivity companion | samarpit_santoki | macOS | [store](https://www.raycast.com/samarpit_santoki/braintick) |
 | [BusyCal](https://github.com/raycast/extensions/tree/main/extensions/busycal) | Create BusyCal events and tasks, search your schedule, and find the next free slot. | beehive | macOS | [store](https://www.raycast.com/beehive/busycal) |
 | [Charged: Starknet Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/charged) | Shorcuts for common web3 tasks | apoorv | macOS | [store](https://www.raycast.com/apoorv/charged) |
-| [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) | Create and work on checklists. | zeekrey | macOS | [store](https://www.raycast.com/zeekrey/checklist) |
 | [Dida365](https://github.com/raycast/extensions/tree/main/extensions/dida365) | Control Dida365 tasks from Raycast on Windows. | ctacta621 | macOS, Windows | [store](https://www.raycast.com/ctacta621/dida365) |
-| [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) | Create Fantastical events and reminders using Fantastical's natural language processing. | devahschaefers | macOS | [store](https://www.raycast.com/devahschaefers/fantastical) |
 | [FocusTask](https://github.com/raycast/extensions/tree/main/extensions/focustask) | Manage and search for tasks in FocusTask | vojto | macOS | [store](https://www.raycast.com/vojto/focustask) |
 | [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
-| [Habitica ToDos](https://github.com/raycast/extensions/tree/main/extensions/habitica-todos) | Unofficial extension to view and create ToDo's for Habitica | Sacrachan | Windows, macOS | [store](https://www.raycast.com/Sacrachan/habitica-todos) |
-| [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) | Manage Habitify habits from Raycast. | razz13 | macOS, Windows | [store](https://www.raycast.com/razz13/habitify-raycast) |
 | [Height](https://github.com/raycast/extensions/tree/main/extensions/height) | Search, create and manage tasks and lists in Height directly from Raycast. | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/height) |
 | [Intention Clarifier](https://github.com/raycast/extensions/tree/main/extensions/intention-clarifier) | This Raycast extension helps you articulate your intentions, mood, and reasons behind your tasks. It guides you through a simple form to clarify what you want… | skyline-123 | macOS | [store](https://www.raycast.com/skyline-123/intention-clarifier) |
 | [Kofa](https://github.com/raycast/extensions/tree/main/extensions/kofa) | Quickly capture tasks into Kofa, the minimalist todo and day planner. | petar_yovkov | macOS, Windows | [store](https://www.raycast.com/petar_yovkov/kofa) |
-| [Korean Add Calendar](https://github.com/raycast/extensions/tree/main/extensions/korean-add-calendar) | Create Apple Calendar events or reminders from Korean natural language. | hjm79 | macOS | [store](https://www.raycast.com/hjm79/korean-add-calendar) |
 | [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
-| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
-| [OmniFocus](https://github.com/raycast/extensions/tree/main/extensions/omnifocus) | Perform basic actions on your OmniFocus database. | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/omnifocus) |
 | [Pinwork](https://github.com/raycast/extensions/tree/main/extensions/pinwork) | Manage your tasks with Pinwork - a GTD-inspired task management app | adapting.tech | macOS | [store](https://www.raycast.com/adapting.tech/pinwork) |
-| [Simple Reminder](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) | Set your reminders in natural language without the need to have any application installed. | comoser | macOS | [store](https://www.raycast.com/comoser/simple-reminder) |
 | [SingularityApp](https://github.com/raycast/extensions/tree/main/extensions/singularityapp) | Check your SingularityApp tasks and add new ones quickly | alikhil | macOS, Windows | [store](https://www.raycast.com/alikhil/singularityapp) |
 | [Stashit](https://github.com/raycast/extensions/tree/main/extensions/stashit) | A priority queue for managing tasks with priorities | pmzi | macOS | [store](https://www.raycast.com/pmzi/stashit) |
 | [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |
@@ -39,8 +35,28 @@
 | [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) | Check and search tasks in TickTick via Raycast | appest | macOS | [store](https://www.raycast.com/appest/ticktick) |
 | [Time Logs](https://github.com/raycast/extensions/tree/main/extensions/time-logs) | Track, manage, and export time logs on tasks and projects. | madebydamien | macOS | [store](https://www.raycast.com/madebydamien/time-logs) |
 | [TimeCamp](https://github.com/raycast/extensions/tree/main/extensions/timecamp) | Start and stop TimeCamp tasks. | iAmKevinCruz | macOS | [store](https://www.raycast.com/iAmKevinCruz/timecamp) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
 | [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
 | [TXTodo](https://github.com/raycast/extensions/tree/main/extensions/txtodo) | Manage tasks in todo.txt plain-text format from Raycast | lacasa | macOS | [store](https://www.raycast.com/lacasa/txtodo) |
 | [Vikunja Task Manager](https://github.com/raycast/extensions/tree/main/extensions/vikunja) | Create and manage tasks in your self-hosted Vikunja instance | flexorflex | macOS | [store](https://www.raycast.com/flexorflex/vikunja) |
+
+## Reminders ✦
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
+| [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) | Create Fantastical events and reminders using Fantastical's natural language processing. | devahschaefers | macOS | [store](https://www.raycast.com/devahschaefers/fantastical) |
+| [Korean Add Calendar](https://github.com/raycast/extensions/tree/main/extensions/korean-add-calendar) | Create Apple Calendar events or reminders from Korean natural language. | hjm79 | macOS | [store](https://www.raycast.com/hjm79/korean-add-calendar) |
+| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
+| [Simple Reminder](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) | Set your reminders in natural language without the need to have any application installed. | comoser | macOS | [store](https://www.raycast.com/comoser/simple-reminder) |
+
+## General
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) | Manage your Beeminder goals from Raycast | vivgui | macOS | [store](https://www.raycast.com/vivgui/beeminder) |
+| [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) | Create and work on checklists. | zeekrey | macOS | [store](https://www.raycast.com/zeekrey/checklist) |
+| [Habitica ToDos](https://github.com/raycast/extensions/tree/main/extensions/habitica-todos) | Unofficial extension to view and create ToDo's for Habitica | Sacrachan | Windows, macOS | [store](https://www.raycast.com/Sacrachan/habitica-todos) |
+| [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) | Manage Habitify habits from Raycast. | razz13 | macOS, Windows | [store](https://www.raycast.com/razz13/habitify-raycast) |
+| [OmniFocus](https://github.com/raycast/extensions/tree/main/extensions/omnifocus) | Perform basic actions on your OmniFocus database. | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/omnifocus) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
 | [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) | View your daily goals and calories in Yazio, and log food directly from Raycast. | zsombor_biro | Windows, macOS | [store](https://www.raycast.com/zsombor_biro/yazio-tracker) |

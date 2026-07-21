@@ -6,11 +6,11 @@ macOS: 422 · Windows: 118
 
 | Topic | Extensions |
 | --- | --- |
-| [AI Services](./ai-services.md) | 31 |
+| [AI Services](./ai-services/README.md) | 31 |
 | [Social & Communities](./social-communities.md) | 21 |
 | [Search Engines](./search-engines.md) | 142 |
 | [Bookmarks & Read Later](./bookmarks-read-later.md) | 6 |
-| [URL & Domain Tools](./url-domain-tools.md) | 35 |
+| [URL & Domain Tools](./url-domain-tools/README.md) | 35 |
 | [Browsers & Tabs](./browsers-tabs.md) | 8 |
 | [Crypto & Markets](./crypto-markets.md) | 6 |
 | [Screenshots & Capture](./screenshots-capture.md) | 4 |

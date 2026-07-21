@@ -2,18 +2,18 @@
 
 43 extensions · [← Developer Tools](./README.md)
 
+[Git ✦](#git) (19) · [Github ✦](#github) (17) · [General](#general) (7)
+
+*✦ auto-discovered topic group*
+
+## Git ✦
+
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) | Search through Azure DevOps git repositories and find open Pull Requests | willem_van_lent | macOS, Windows | [store](https://www.raycast.com/willem_van_lent/ado-search) |
-| [Bitbucket Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/bitbucket-search-self-hosted) | The extension allow you to quickly access repositories and pull-requests in Bitbucket Server (Self-Hosted) | yuercl | macOS | [store](https://www.raycast.com/yuercl/bitbucket-search-self-hosted) |
 | [Cheetah](https://github.com/raycast/extensions/tree/main/extensions/cheetah) | Search for a local Git project and open it with the specified application. | ronglecat | macOS | [store](https://www.raycast.com/ronglecat/cheetah) |
 | [Code Stash](https://github.com/raycast/extensions/tree/main/extensions/code-stash) | Searching git.. now you have two problems. Store chunks of code and retrieve them later | ben-greenwood | macOS | [store](https://www.raycast.com/ben-greenwood/code-stash) |
 | [Commit Issue Parser](https://github.com/raycast/extensions/tree/main/extensions/commit-issue-parser) | Easily parse issue URLs to generate commit names and descriptions for use with Git | julesjuul | macOS | [store](https://www.raycast.com/julesjuul/commit-issue-parser) |
-| [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator) | Must have extension for any developer! | rokartur | macOS | [store](https://www.raycast.com/rokartur/commit-message-generator) |
-| [Commit Streak](https://github.com/raycast/extensions/tree/main/extensions/commit-streak) | Track your GitHub contribution streak in the menu bar. Stay motivated or get reminded. | aundu | macOS | [store](https://www.raycast.com/aundu/commit-streak) |
-| [Conventional Commits](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) | Provides a list of conventional commits prefixes and descriptions that can be inserted into your active window as well as example of how messages should be str… | niemtec | macOS | [store](https://www.raycast.com/niemtec/conventional-commits) |
-| [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) | Search, open, and crawl DeepWiki pages for GitHub repositories. | vivek | macOS | [store](https://www.raycast.com/vivek/deepwiki) |
-| [Gist Rocket](https://github.com/raycast/extensions/tree/main/extensions/gist-rocket) | Publish HTML or Markdown as a live web page in one keystroke. Powered by GitHub Gists. | tgrecojs | macOS | [store](https://www.raycast.com/tgrecojs/gist-rocket) |
 | [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
 | [Git Batch Tools](https://github.com/raycast/extensions/tree/main/extensions/git-batch-tools) | Batch git operations (pull, status) across multiple project groups | Logan-8f | macOS, Windows | [store](https://www.raycast.com/Logan-8f/git-batch-tools) |
 | [Git Branch Name Generator](https://github.com/raycast/extensions/tree/main/extensions/git-branch-name-generator) | Convert a string into a branch name | mbonner | macOS | [store](https://www.raycast.com/mbonner/git-branch-name-generator) |
@@ -23,7 +23,20 @@
 | [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
 | [Git Worktrees](https://github.com/raycast/extensions/tree/main/extensions/git-worktrees) | Efficiently managing Git worktrees with actions for cloning, listing, adding, renaming and removing worktrees within projects | philstainer | macOS | [store](https://www.raycast.com/philstainer/git-worktrees) |
 | [Git Worktrees](https://github.com/raycast/extensions/tree/main/extensions/worktrees) | View, add, and remove git worktrees. | canac | macOS | [store](https://www.raycast.com/canac/worktrees) |
-| [Gitea](https://github.com/raycast/extensions/tree/main/extensions/gitea) | Check your notifications and manage issues and pull requests. | mitsimi | macOS, Windows | [store](https://www.raycast.com/mitsimi/gitea) |
+| [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) | The tool for making Jira and Git work together smoothly as silk for a better development experience. | ipiranhaa | macOS | [store](https://www.raycast.com/ipiranhaa/jira2git) |
+| [Oh My Zsh Git Alias](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) | Quick search git alias. | yufeikang | macOS | [store](https://www.raycast.com/yufeikang/oh-my-zsh-git-alias) |
+| [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) | Quickly run git commands through Raycast | joshdales | macOS | [store](https://www.raycast.com/joshdales/quick-git) |
+| [Quick Jump](https://github.com/raycast/extensions/tree/main/extensions/quick-jump) | Quick access to your team's Git repositories, dashboards, databases, and internal tools. | akadir | macOS | [store](https://www.raycast.com/akadir/quick-jump) |
+| [Repository Manager](https://github.com/raycast/extensions/tree/main/extensions/repository-manager) | Project Manager for local git repositories | francesco_mecchi | macOS | [store](https://www.raycast.com/francesco_mecchi/repository-manager) |
+| [Zoxide Git Projects](https://github.com/raycast/extensions/tree/main/extensions/zoxide-git-projects) | Allows the user to select git repositories found by filtering a zoxide query, then open them in an application of choice. | theherk | macOS | [store](https://www.raycast.com/theherk/zoxide-git-projects) |
+
+## Github ✦
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Commit Streak](https://github.com/raycast/extensions/tree/main/extensions/commit-streak) | Track your GitHub contribution streak in the menu bar. Stay motivated or get reminded. | aundu | macOS | [store](https://www.raycast.com/aundu/commit-streak) |
+| [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) | Search, open, and crawl DeepWiki pages for GitHub repositories. | vivek | macOS | [store](https://www.raycast.com/vivek/deepwiki) |
+| [Gist Rocket](https://github.com/raycast/extensions/tree/main/extensions/gist-rocket) | Publish HTML or Markdown as a live web page in one keystroke. Powered by GitHub Gists. | tgrecojs | macOS | [store](https://www.raycast.com/tgrecojs/gist-rocket) |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [GitHub Codespaces](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) | Manage and launch codespaces | michael.wang | macOS | [store](https://www.raycast.com/michael.wang/github-codespaces) |
 | [GitHub Gist](https://github.com/raycast/extensions/tree/main/extensions/github-gist) | Create, search and display GitHub gists. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/github-gist) |
@@ -33,17 +46,20 @@
 | [GitHub Search](https://github.com/raycast/extensions/tree/main/extensions/github-search) | Open the GitHub Search web UI with pre-defined filters | webpro | macOS | [store](https://www.raycast.com/webpro/github-search) |
 | [GitHub Status](https://github.com/raycast/extensions/tree/main/extensions/github-status) | Quickly check why GitHub is down today | FezVrasta | macOS, Windows | [store](https://www.raycast.com/FezVrasta/github-status) |
 | [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
-| [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab) | Create, search and modify issues, manage merge requests, projects and more. | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gitlab) |
-| [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) | Explore your Grafbase projects, branches, deployments, and commit history. | grafbase (org) | macOS | [store](https://www.raycast.com/grafbase/grafbase) |
-| [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) | The tool for making Jira and Git work together smoothly as silk for a better development experience. | ipiranhaa | macOS | [store](https://www.raycast.com/ipiranhaa/jira2git) |
 | [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/MikeWhob/mach-triage) |
-| [Oh My Zsh Git Alias](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) | Quick search git alias. | yufeikang | macOS | [store](https://www.raycast.com/yufeikang/oh-my-zsh-git-alias) |
 | [Pretty PR Link](https://github.com/raycast/extensions/tree/main/extensions/pretty-pr-link) | Quickly copy the link of a GitHub Pull Request in a formatted way so you can share with your team and ask for reviews. | jopcmelo | macOS, Windows | [store](https://www.raycast.com/jopcmelo/pretty-pr-link) |
 | [Primer](https://github.com/raycast/extensions/tree/main/extensions/primer) | Search and navigate GitHub's Primer Design System | cole | macOS | [store](https://www.raycast.com/cole/primer) |
-| [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) | Quickly run git commands through Raycast | joshdales | macOS | [store](https://www.raycast.com/joshdales/quick-git) |
-| [Quick Jump](https://github.com/raycast/extensions/tree/main/extensions/quick-jump) | Quick access to your team's Git repositories, dashboards, databases, and internal tools. | akadir | macOS | [store](https://www.raycast.com/akadir/quick-jump) |
 | [Repo Launcher](https://github.com/raycast/extensions/tree/main/extensions/repo-launcher) | Launch code repositories in various applications and on GitHub.com, targeted primarily at developers. | gksander | macOS | [store](https://www.raycast.com/gksander/repo-launcher) |
-| [Repository Manager](https://github.com/raycast/extensions/tree/main/extensions/repository-manager) | Project Manager for local git repositories | francesco_mecchi | macOS | [store](https://www.raycast.com/francesco_mecchi/repository-manager) |
-| [Sourcetree](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) | Search and open Sourcetree repositories | i906 | macOS | [store](https://www.raycast.com/i906/sourcetree) |
 | [Swift Evolution](https://github.com/raycast/extensions/tree/main/extensions/swift-evolution) | Search and see details for the Swift language proposals from swift evolution web page https://apple.github.io/swift-evolution/ | BProg | macOS | [store](https://www.raycast.com/BProg/swift-evolution) |
-| [Zoxide Git Projects](https://github.com/raycast/extensions/tree/main/extensions/zoxide-git-projects) | Allows the user to select git repositories found by filtering a zoxide query, then open them in an application of choice. | theherk | macOS | [store](https://www.raycast.com/theherk/zoxide-git-projects) |
+
+## General
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Bitbucket Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/bitbucket-search-self-hosted) | The extension allow you to quickly access repositories and pull-requests in Bitbucket Server (Self-Hosted) | yuercl | macOS | [store](https://www.raycast.com/yuercl/bitbucket-search-self-hosted) |
+| [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator) | Must have extension for any developer! | rokartur | macOS | [store](https://www.raycast.com/rokartur/commit-message-generator) |
+| [Conventional Commits](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) | Provides a list of conventional commits prefixes and descriptions that can be inserted into your active window as well as example of how messages should be str… | niemtec | macOS | [store](https://www.raycast.com/niemtec/conventional-commits) |
+| [Gitea](https://github.com/raycast/extensions/tree/main/extensions/gitea) | Check your notifications and manage issues and pull requests. | mitsimi | macOS, Windows | [store](https://www.raycast.com/mitsimi/gitea) |
+| [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab) | Create, search and modify issues, manage merge requests, projects and more. | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gitlab) |
+| [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) | Explore your Grafbase projects, branches, deployments, and commit history. | grafbase (org) | macOS | [store](https://www.raycast.com/grafbase/grafbase) |
+| [Sourcetree](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) | Search and open Sourcetree repositories | i906 | macOS | [store](https://www.raycast.com/i906/sourcetree) |

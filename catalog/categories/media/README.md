@@ -6,7 +6,7 @@ macOS: 246 · Windows: 68
 
 | Topic | Extensions |
 | --- | --- |
-| [Music & Audio](./music-audio.md) | 54 |
+| [Music & Audio](./music-audio/README.md) | 54 |
 | [Video & Streaming](./video-streaming.md) | 21 |
 | [Images & Photos](./images-photos.md) | 44 |
 | [Wallpapers & Art](./wallpapers-art.md) | 8 |

@@ -49,13 +49,11 @@ const STORE_BASE = "https://www.raycast.com";
 // Sections larger than this get one page per subcategory instead of inline
 // subcategory sections on a single page.
 const SPLIT_THRESHOLD = 200;
-// Groups larger than this are split further by auto-discovered topic mining,
-// recursively, until groups are small enough or no coherent terms remain.
-const LEAF_SPLIT = 60;
-// Auto-discovered groups need at least this many members.
+// Auto-discovered groups need at least this many members. This is also the
+// only thing that bounds recursion depth: every group is split again until
+// mining can no longer produce two subgroups of this size.
 const MIN_GROUP = 4;
 const MAX_GROUPS = 15;
-const MAX_DEPTH = 5;
 
 const args = new Set(process.argv.slice(2));
 const FORCE = args.has("--force");
@@ -370,7 +368,9 @@ function mineGroups(entries, usedSlugs) {
     for (const t of terms) df.set(t, (df.get(t) || 0) + 1);
   }
   const candidates = [...df.entries()]
-    .filter(([, n]) => n >= MIN_GROUP)
+    // Terms present in every entry (e.g. the term that defined this group)
+    // cannot discriminate, so they are skipped.
+    .filter(([, n]) => n >= MIN_GROUP && n < entries.length)
     .sort(
       (a, b) =>
         b[1] - a[1] ||
@@ -403,9 +403,8 @@ function mineGroups(entries, usedSlugs) {
 // of "General" as auto-discovered groups (marked with a badge). Any group
 // still larger than LEAF_SPLIT is split again by topic mining, recursively.
 
-function deepen(node, depth) {
-  if (depth >= MAX_DEPTH) return;
-  if (node.entries.length <= LEAF_SPLIT) return;
+function deepen(node) {
+  if (node.entries.length < MIN_GROUP * 2) return;
   const { groups, residue } = mineGroups(node.entries, new Set([node.slug]));
   if (groups.length < 2) return;
   node.children = groups.map((g) => ({ ...g, auto: true, children: [] }));
@@ -413,7 +412,7 @@ function deepen(node, depth) {
     node.children.push({ title: "General", slug: "general", auto: false, entries: residue, children: [] });
   }
   for (const c of node.children) {
-    if (c.slug !== "general") deepen(c, depth + 1);
+    if (c.slug !== "general") deepen(c);
   }
 }
 
@@ -436,7 +435,7 @@ function buildCategoryTree(entries, category) {
     }
   }
   for (const n of nodes) {
-    if (n.slug !== "general") deepen(n, 2);
+    if (n.slug !== "general") deepen(n);
   }
   return nodes;
 }
@@ -694,7 +693,7 @@ function generateCatalog(entries) {
     "",
     `A scheduled job runs \`node scripts/extension-catalog/sync.mjs --push\`, which fetches the latest upstream tree, diffs every extension's tree SHA against [\`data/extensions.json\`](./data/extensions.json), downloads only the changed manifests, regenerates these pages, and records additions/updates/removals in [CHANGELOG.md](./CHANGELOG.md). Runs that find no extension changes make no commit.`,
     "",
-    `Subcategories are not a fixed list: curated keyword rules (\`scripts/extension-catalog/taxonomy.mjs\`) provide the first split, then frequent-term mining promotes emergent topics out of "General" (marked ✦) and keeps splitting any group larger than ${LEAF_SPLIT} extensions into deeper levels — so new tools trending upstream get their own group automatically on a future sync.`,
+    `Subcategories are not a fixed list: curated keyword rules (\`scripts/extension-catalog/taxonomy.mjs\`) provide the first split, then frequent-term mining promotes emergent topics out of "General" (marked ✦) and recursively splits every group for as long as it still yields at least two coherent subgroups of ${MIN_GROUP}+ extensions — depth is bounded only by the data, so new tools trending upstream get their own group automatically on a future sync.`,
   ]);
 }
 
