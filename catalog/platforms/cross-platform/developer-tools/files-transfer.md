@@ -1,0 +1,16 @@
+# Cross-platform · Developer Tools · Files & Transfer
+
+[AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · **Files & Transfer** · [General](./general.md)
+
+8 of 242 extensions · [← Cross-platform · Developer Tools](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
+| [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
+| [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
+| [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
+| [Manifest Viewer](https://github.com/raycast/extensions/tree/main/extensions/manifest-viewer) | View and navigate HLS/DASH manifest files with keyboard navigation to child variant playlists | stonko1994 | macOS, Windows | [store](https://www.raycast.com/stonko1994/manifest-viewer) |
+| [South African Fake ID Number Generator](https://github.com/raycast/extensions/tree/main/extensions/za-fake-id-number-generator) | Quickly generate South African ID numbers for testing, this will create a valid fake ID number and copy it to your clipboard. | runningdeveloper | macOS, Windows | [store](https://www.raycast.com/runningdeveloper/za-fake-id-number-generator) |
+| [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) | Upload files in a single click | pingdotgg (org) | Windows, macOS | [store](https://www.raycast.com/pingdotgg/uploadthing) |
+| [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |

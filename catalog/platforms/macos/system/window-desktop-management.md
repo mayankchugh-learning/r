@@ -1,0 +1,32 @@
+# macOS · System · Window & Desktop Management
+
+[Apps & Processes](./apps-processes.md) · **Window & Desktop Management** · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
+
+24 of 204 extensions · [← macOS · System](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [Battery Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/battery-menubar) | Battery capacity and power-draw information in the Menu Bar | panrafal | macOS | [store](https://www.raycast.com/panrafal/battery-menubar) |
+| [Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/desktop-manager) | Search and organize your desktop files | tykid | macOS | [store](https://www.raycast.com/tykid/desktop-manager) |
+| [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner) | Scan and clean developer caches, build artifacts, and orphaned dependencies to reclaim disk space | Undolog | macOS | [store](https://www.raycast.com/Undolog/dev-cache-cleaner) |
+| [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) | Analyze disk space usage and identify large files and folders in your home directory | easymikey | macOS | [store](https://www.raycast.com/easymikey/disk-usage) |
+| [Dock](https://github.com/raycast/extensions/tree/main/extensions/dock) | Change the dock's position to the left, right, or bottom edge of the screen. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/dock) |
+| [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |
+| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
+| [Hide Files](https://github.com/raycast/extensions/tree/main/extensions/hide-files) | Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/hide-files) |
+| [Keyboard Win Mac Switch](https://github.com/raycast/extensions/tree/main/extensions/keyboard-win-mac-switch) | This extension allow you to switch alt and window keys | fab_uleuh | macOS | [store](https://www.raycast.com/fab_uleuh/keyboard-win-mac-switch) |
+| [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
+| [Lockdock](https://github.com/raycast/extensions/tree/main/extensions/lockdock) | Lock the macOS Dock to a specific display | mishamyrt | macOS | [store](https://www.raycast.com/mishamyrt/lockdock) |
+| [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks) | Discover and toggle hidden macOS settings without the Terminal. Browse a curated catalog of defaults write tweaks for Finder, Dock, Screenshots, Animations, an… | Undolog | macOS | [store](https://www.raycast.com/Undolog/macos-tweaks) |
+| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
+| [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
+| [Network Menubar Monitor](https://github.com/raycast/extensions/tree/main/extensions/network-menubar-monitor) | Show current network bandwith | iaroslav_naiden | macOS | [store](https://www.raycast.com/iaroslav_naiden/network-menubar-monitor) |
+| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
+| [Sequoia Window Tiling](https://github.com/raycast/extensions/tree/main/extensions/sequoia-tiling) | Map macOS Sequoia tiling commands to Raycast actions with friendly shortcuts. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/sequoia-tiling) |
+| [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |
+| [Spacer](https://github.com/raycast/extensions/tree/main/extensions/spacer) | Name your spaces & more... | jd-solanki | macOS | [store](https://www.raycast.com/jd-solanki/spacer) |
+| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
+| [Toggle Desktop Visibility](https://github.com/raycast/extensions/tree/main/extensions/toggle-desktop-visibility) | Toggle Desktop file or folder visible and hidden | Haojen | macOS | [store](https://www.raycast.com/Haojen/toggle-desktop-visibility) |
+| [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
+| [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |

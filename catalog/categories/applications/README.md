@@ -4,32 +4,23 @@
 
 macOS: 350 · Windows: 76
 
-| Section | Extensions |
+| Subcategory | Extensions |
 | --- | --- |
-| [Applications — 0-9](./0-9.md) | 4 |
-| [Applications — A](./a.md) | 24 |
-| [Applications — B](./b.md) | 20 |
-| [Applications — C](./c.md) | 30 |
-| [Applications — D](./d.md) | 10 |
-| [Applications — E](./e.md) | 7 |
-| [Applications — F](./f.md) | 15 |
-| [Applications — G](./g.md) | 11 |
-| [Applications — H](./h.md) | 13 |
-| [Applications — I](./i.md) | 13 |
-| [Applications — J](./j.md) | 3 |
-| [Applications — K](./k.md) | 9 |
-| [Applications — L](./l.md) | 14 |
-| [Applications — M](./m.md) | 29 |
-| [Applications — N](./n.md) | 13 |
-| [Applications — O](./o.md) | 15 |
-| [Applications — P](./p.md) | 27 |
-| [Applications — Q](./q.md) | 4 |
-| [Applications — R](./r.md) | 13 |
-| [Applications — S](./s.md) | 30 |
-| [Applications — T](./t.md) | 22 |
-| [Applications — U](./u.md) | 3 |
-| [Applications — V](./v.md) | 9 |
-| [Applications — W](./w.md) | 10 |
-| [Applications — X](./x.md) | 2 |
-| [Applications — Y](./y.md) | 5 |
-| [Applications — Z](./z.md) | 4 |
+| [AI & Chat Apps](./ai-chat-apps.md) | 20 |
+| [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 28 |
+| [Productivity & Task Apps](./productivity-task-apps.md) | 14 |
+| [Music & Audio Apps](./music-audio-apps.md) | 9 |
+| [Media & Photo Apps](./media-photo-apps.md) | 18 |
+| [Reading & Library Apps](./reading-library-apps.md) | 4 |
+| [Automation & Input Apps](./automation-input-apps.md) | 10 |
+| [Content & CMS Apps](./content-cms-apps.md) | 12 |
+| [Network & Connection Apps](./network-connection-apps.md) | 10 |
+| [Analytics & Stats Apps](./analytics-stats-apps.md) | 4 |
+| [Developer Apps](./developer-apps.md) | 8 |
+| [Browsers](./browsers.md) | 10 |
+| [Window Managers & Utilities](./window-managers-utilities.md) | 10 |
+| [Apple & Built-in Apps](./apple-built-in-apps.md) | 14 |
+| [Files, Sync & Upload](./files-sync-upload.md) | 16 |
+| [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
+| [Launchers & App Control](./launchers-app-control.md) | 50 |
+| [General](./general.md) | 121 |

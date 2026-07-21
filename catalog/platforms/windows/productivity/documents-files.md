@@ -1,0 +1,25 @@
+# Windows · Productivity · Documents & Files
+
+[AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
+
+17 of 295 extensions · [← Windows · Productivity](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Blip](https://github.com/raycast/extensions/tree/main/extensions/blip-raycast) | Send files and folders to Blip from Raycast. | astroboii47 | macOS, Windows | [store](https://www.raycast.com/astroboii47/blip-raycast) |
+| [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
+| [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) | Upload files and manage your EdgeStore account. | ravi_s | macOS, Windows | [store](https://www.raycast.com/ravi_s/edgestore-raycast) |
+| [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
+| [Manifest Viewer](https://github.com/raycast/extensions/tree/main/extensions/manifest-viewer) | View and navigate HLS/DASH manifest files with keyboard navigation to child variant playlists | stonko1994 | macOS, Windows | [store](https://www.raycast.com/stonko1994/manifest-viewer) |
+| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
+| [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
+| [Modify Hash](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) | Batch modify the hash of media files, which can be simply used for uploading online disk to prevent censorship. | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/modify-hash) |
+| [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
+| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
+| [Open in Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) | Open current File Manager directory, selected folder or file in Visual Studio Code. | shubzkothekar | macOS, Windows | [store](https://www.raycast.com/shubzkothekar/open-in-visual-studio-code) |
+| [ownCloud](https://github.com/raycast/extensions/tree/main/extensions/owncloud) | share files and folders, easy and secure | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/owncloud) |
+| [Papra](https://github.com/raycast/extensions/tree/main/extensions/papra) | Simple & Secure Document Archiving for Long-Term Storage | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/papra) |
+| [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
+| [Subnoto - Confidential Electronic Signature](https://github.com/raycast/extensions/tree/main/extensions/subnoto) | Send and manage documents for electronic signature in Subnoto from Raycast | corentin_mors | macOS, Windows | [store](https://www.raycast.com/corentin_mors/subnoto) |
+| [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |

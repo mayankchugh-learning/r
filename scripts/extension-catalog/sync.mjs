@@ -11,10 +11,11 @@
  * Outputs (all under catalog/):
  *   data/extensions.json      machine-readable state, used for diffing runs
  *   README.md                 stats + master index
- *   categories/<slug>/        one section per category; large categories are
- *                             split into per-letter subpages
+ *   categories/<slug>/        one section per category, organized into
+ *                             topical subcategories (see taxonomy.mjs);
+ *                             large categories get one page per subcategory
  *   platforms/<platform>/     macOS / Windows / cross-platform, broken down
- *                             by category
+ *                             by category and the same subcategories
  *   publishers/<letter>.md    every publisher with their extensions
  *   alphabetical/<letter>.md  flat A–Z listings
  *   CHANGELOG.md              added/updated/removed log, newest first
@@ -35,6 +36,7 @@ import {
 } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { classify, subcategoriesOf } from "./taxonomy.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
 const CATALOG_DIR = path.join(ROOT, "catalog");
@@ -44,7 +46,8 @@ const UPSTREAM_URL = "https://github.com/raycast/extensions";
 const SOURCE_BASE = "https://github.com/raycast/extensions/tree/main/extensions";
 const STORE_BASE = "https://www.raycast.com";
 
-// Category sections larger than this get split into per-letter subpages.
+// Category sections larger than this get one page per subcategory instead of
+// inline subcategory sections on a single page.
 const SPLIT_THRESHOLD = 200;
 
 const args = new Set(process.argv.slice(2));
@@ -214,49 +217,61 @@ function writePage(relPath, lines) {
 }
 
 /**
- * Writes one section (e.g. a category, or a platform×category slice) either as
- * a single page with the full table, or — above SPLIT_THRESHOLD — as an index
- * page plus per-letter subpages. Returns the link target for the section.
+ * Writes one section (a category, or a platform×category slice) organized by
+ * topical subcategory (taxonomy.mjs). Small sections are one page with a
+ * subcategory table of contents and inline sections; above SPLIT_THRESHOLD
+ * each subcategory gets its own page behind an index.
  */
-function writeSection({ dirRel, title, entries, backLink, intro = [] }) {
+function writeSection({ dirRel, title, category, entries, backLink, intro = [] }) {
   const sorted = [...entries].sort(byTitle);
   const count = `${sorted.length} extension${sorted.length === 1 ? "" : "s"}`;
 
+  const bySub = groupBy(sorted, (e) => [classify(e, category)]);
+  const subs = subcategoriesOf(category).filter((s) => bySub.has(s));
+
   if (sorted.length <= SPLIT_THRESHOLD) {
-    writePage(`${dirRel}/README.md`, [
-      `# ${title}`,
-      "",
-      `${count} · ${backLink}`,
-      ...intro,
-      "",
-      renderTable(sorted),
-    ]);
+    const lines = [`# ${title}`, "", `${count} · ${backLink}`, ...intro, ""];
+    if (subs.length > 1) {
+      lines.push(
+        subs.map((s) => `[${s}](#${slugify(s)}) (${bySub.get(s).length})`).join(" · "),
+        "",
+      );
+      for (const sub of subs) {
+        lines.push(`## ${sub}`, "", renderTable(bySub.get(sub)), "");
+      }
+      while (lines[lines.length - 1] === "") lines.pop();
+    } else {
+      lines.push(renderTable(sorted));
+    }
+    writePage(`${dirRel}/README.md`, lines);
     return;
   }
 
-  const byLetter = groupBy(sorted, (e) => [letterOf(e.title)]);
-  const letters = [...byLetter.keys()].sort();
   writePage(`${dirRel}/README.md`, [
     `# ${title}`,
     "",
     `${count} · ${backLink}`,
     ...intro,
     "",
-    "| Section | Extensions |",
+    "| Subcategory | Extensions |",
     "| --- | --- |",
-    ...letters.map(
-      (l) => `| [${title} — ${l}](./${l.toLowerCase()}.md) | ${byLetter.get(l).length} |`,
+    ...subs.map(
+      (s) => `| [${s}](./${slugify(s)}.md) | ${bySub.get(s).length} |`,
     ),
   ]);
-  for (const letter of letters) {
-    writePage(`${dirRel}/${letter.toLowerCase()}.md`, [
-      `# ${title} — ${letter}`,
+  for (const sub of subs) {
+    const items = bySub.get(sub);
+    const nav = subs
+      .map((s) => (s === sub ? `**${s}**` : `[${s}](./${slugify(s)}.md)`))
+      .join(" · ");
+    writePage(`${dirRel}/${slugify(sub)}.md`, [
+      `# ${title} · ${sub}`,
       "",
-      letterNav(letters, letter),
+      nav,
       "",
-      `${byLetter.get(letter).length} of ${count} · [← ${title}](./README.md)`,
+      `${items.length} of ${count} · [← ${title}](./README.md)`,
       "",
-      renderTable(byLetter.get(letter)),
+      renderTable(items),
     ]);
   }
 }
@@ -281,6 +296,7 @@ function generateCatalog(entries) {
     writeSection({
       dirRel: `categories/${slugify(cat)}`,
       title: cat,
+      category: cat,
       entries: items,
       backLink: "[← all categories](../README.md)",
       intro: ["", `macOS: ${mac} · Windows: ${win}`],
@@ -316,6 +332,7 @@ function generateCatalog(entries) {
       writeSection({
         dirRel: `platforms/${slug}/${slugify(cat)}`,
         title: `${label} · ${cat}`,
+        category: cat,
         entries: byCat.get(cat),
         backLink: `[← ${label}](../README.md)`,
       });
@@ -421,7 +438,7 @@ function generateCatalog(entries) {
     "",
     "| View | |",
     "| --- | --- |",
-    `| [By category](./categories/README.md) | ${categoryNames.length} categories; large ones split A–Z |`,
+    `| [By category](./categories/README.md) | ${categoryNames.length} categories, each organized into topical subcategories |`,
     `| [By platform](./platforms/README.md) | macOS (${macCount}) · Windows (${winCount}) · cross-platform (${crossCount}), each by category |`,
     `| [By publisher](./publishers/README.md) | ${publishers.length} publishers with all their extensions |`,
     `| [Alphabetical](./alphabetical/${letters[0].toLowerCase()}.md) | every extension, A–Z |`,

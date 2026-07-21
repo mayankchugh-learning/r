@@ -1,0 +1,12 @@
+# Applications · Reading & Library Apps
+
+[AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · **Reading & Library Apps** · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
+
+4 of 359 extensions · [← Applications](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Bibmanager](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) | Search Bibmanager Database from Raycast | aaronschneider | macOS | [store](https://www.raycast.com/aaronschneider/bibmanager) |
+| [Calibre Library](https://github.com/raycast/extensions/tree/main/extensions/calibre-search) | Search your Calibre ebook library by title and author | BrunoMonteiro | macOS | [store](https://www.raycast.com/BrunoMonteiro/calibre-library) |
+| [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
+| [GoodLinks](https://github.com/raycast/extensions/tree/main/extensions/goodlinks) | Save, list, and open articles in GoodLinks | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/goodlinks) |

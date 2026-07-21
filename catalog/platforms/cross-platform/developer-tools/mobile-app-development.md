@@ -1,0 +1,9 @@
+# Cross-platform · Developer Tools · Mobile & App Development
+
+[AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · **Mobile & App Development** · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
+
+1 of 242 extensions · [← Cross-platform · Developer Tools](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |

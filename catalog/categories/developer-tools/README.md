@@ -4,32 +4,24 @@
 
 macOS: 942 · Windows: 252
 
-| Section | Extensions |
+| Subcategory | Extensions |
 | --- | --- |
-| [Developer Tools — 0-9](./0-9.md) | 2 |
-| [Developer Tools — A](./a.md) | 46 |
-| [Developer Tools — B](./b.md) | 23 |
-| [Developer Tools — C](./c.md) | 98 |
-| [Developer Tools — D](./d.md) | 49 |
-| [Developer Tools — E](./e.md) | 24 |
-| [Developer Tools — F](./f.md) | 36 |
-| [Developer Tools — G](./g.md) | 61 |
-| [Developer Tools — H](./h.md) | 26 |
-| [Developer Tools — I](./i.md) | 27 |
-| [Developer Tools — J](./j.md) | 15 |
-| [Developer Tools — K](./k.md) | 13 |
-| [Developer Tools — L](./l.md) | 39 |
-| [Developer Tools — M](./m.md) | 57 |
-| [Developer Tools — N](./n.md) | 28 |
-| [Developer Tools — O](./o.md) | 34 |
-| [Developer Tools — P](./p.md) | 79 |
-| [Developer Tools — Q](./q.md) | 13 |
-| [Developer Tools — R](./r.md) | 46 |
-| [Developer Tools — S](./s.md) | 100 |
-| [Developer Tools — T](./t.md) | 47 |
-| [Developer Tools — U](./u.md) | 16 |
-| [Developer Tools — V](./v.md) | 17 |
-| [Developer Tools — W](./w.md) | 36 |
-| [Developer Tools — X](./x.md) | 4 |
-| [Developer Tools — Y](./y.md) | 2 |
-| [Developer Tools — Z](./z.md) | 14 |
+| [AI & LLM Tools](./ai-llm-tools.md) | 107 |
+| [Git & Version Control](./git-version-control.md) | 43 |
+| [Mobile & App Development](./mobile-app-development.md) | 26 |
+| [Web3 & Blockchain](./web3-blockchain.md) | 12 |
+| [Issue Tracking & Projects](./issue-tracking-projects.md) | 9 |
+| [CI/CD & DevOps](./ci-cd-devops.md) | 6 |
+| [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 77 |
+| [Databases](./databases.md) | 13 |
+| [APIs & Networking](./apis-networking.md) | 52 |
+| [Monitoring & Logs](./monitoring-logs.md) | 19 |
+| [Terminal & Editors](./terminal-editors.md) | 38 |
+| [Package & Dependency Tools](./package-dependency-tools.md) | 36 |
+| [Web & Frontend](./web-frontend.md) | 56 |
+| [Design & Assets](./design-assets.md) | 32 |
+| [Automation & Scripting](./automation-scripting.md) | 10 |
+| [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 84 |
+| [Search & Reference](./search-reference.md) | 95 |
+| [Files & Transfer](./files-transfer.md) | 24 |
+| [General](./general.md) | 213 |

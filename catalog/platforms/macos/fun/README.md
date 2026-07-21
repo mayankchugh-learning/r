@@ -2,32 +2,18 @@
 
 252 extensions · [← macOS](../README.md)
 
-| Section | Extensions |
+| Subcategory | Extensions |
 | --- | --- |
-| [macOS · Fun — 0-9](./0-9.md) | 2 |
-| [macOS · Fun — A](./a.md) | 10 |
-| [macOS · Fun — B](./b.md) | 11 |
-| [macOS · Fun — C](./c.md) | 17 |
-| [macOS · Fun — D](./d.md) | 18 |
-| [macOS · Fun — E](./e.md) | 7 |
-| [macOS · Fun — F](./f.md) | 9 |
-| [macOS · Fun — G](./g.md) | 12 |
-| [macOS · Fun — H](./h.md) | 10 |
-| [macOS · Fun — I](./i.md) | 7 |
-| [macOS · Fun — J](./j.md) | 1 |
-| [macOS · Fun — K](./k.md) | 3 |
-| [macOS · Fun — L](./l.md) | 15 |
-| [macOS · Fun — M](./m.md) | 12 |
-| [macOS · Fun — N](./n.md) | 8 |
-| [macOS · Fun — O](./o.md) | 8 |
-| [macOS · Fun — P](./p.md) | 16 |
-| [macOS · Fun — Q](./q.md) | 1 |
-| [macOS · Fun — R](./r.md) | 15 |
-| [macOS · Fun — S](./s.md) | 22 |
-| [macOS · Fun — T](./t.md) | 24 |
-| [macOS · Fun — U](./u.md) | 6 |
-| [macOS · Fun — V](./v.md) | 4 |
-| [macOS · Fun — W](./w.md) | 6 |
-| [macOS · Fun — X](./x.md) | 3 |
-| [macOS · Fun — Y](./y.md) | 3 |
-| [macOS · Fun — Z](./z.md) | 2 |
+| [Games & Gaming](./games-gaming.md) | 37 |
+| [AI & Generative Fun](./ai-generative-fun.md) | 16 |
+| [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) | 10 |
+| [Jokes & Randomness](./jokes-randomness.md) | 28 |
+| [Sports](./sports.md) | 13 |
+| [Movies, TV & Anime](./movies-tv-anime.md) | 7 |
+| [Music & Instruments](./music-instruments.md) | 7 |
+| [Pop Culture & Fandom](./pop-culture-fandom.md) | 9 |
+| [Generators & Toys](./generators-toys.md) | 7 |
+| [Nature & Exploration](./nature-exploration.md) | 5 |
+| [Wallpapers & Effects](./wallpapers-effects.md) | 7 |
+| [Food & Drink](./food-drink.md) | 7 |
+| [General](./general.md) | 99 |

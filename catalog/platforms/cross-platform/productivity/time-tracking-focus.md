@@ -1,0 +1,10 @@
+# Cross-platform · Productivity · Time Tracking & Focus
+
+[AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · **Time Tracking & Focus** · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
+
+2 of 282 extensions · [← Cross-platform · Productivity](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [42 Api Tools](https://github.com/raycast/extensions/tree/main/extensions/42-api) | Track your logtime and find peers in 42 school clusters directly from Raycast | maujogue | macOS, Windows | [store](https://www.raycast.com/maujogue/42-api) |
+| [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |

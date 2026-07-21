@@ -4,31 +4,13 @@
 
 macOS: 246 · Windows: 68
 
-| Section | Extensions |
+| Subcategory | Extensions |
 | --- | --- |
-| [Media — 0-9](./0-9.md) | 3 |
-| [Media — A](./a.md) | 13 |
-| [Media — B](./b.md) | 10 |
-| [Media — C](./c.md) | 10 |
-| [Media — D](./d.md) | 9 |
-| [Media — E](./e.md) | 8 |
-| [Media — F](./f.md) | 9 |
-| [Media — G](./g.md) | 11 |
-| [Media — H](./h.md) | 4 |
-| [Media — I](./i.md) | 16 |
-| [Media — J](./j.md) | 4 |
-| [Media — K](./k.md) | 2 |
-| [Media — L](./l.md) | 9 |
-| [Media — M](./m.md) | 19 |
-| [Media — N](./n.md) | 10 |
-| [Media — O](./o.md) | 5 |
-| [Media — P](./p.md) | 23 |
-| [Media — Q](./q.md) | 3 |
-| [Media — R](./r.md) | 12 |
-| [Media — S](./s.md) | 26 |
-| [Media — T](./t.md) | 24 |
-| [Media — U](./u.md) | 3 |
-| [Media — V](./v.md) | 7 |
-| [Media — W](./w.md) | 5 |
-| [Media — X](./x.md) | 2 |
-| [Media — Y](./y.md) | 4 |
+| [Music & Audio](./music-audio.md) | 54 |
+| [Video & Streaming](./video-streaming.md) | 21 |
+| [Images & Photos](./images-photos.md) | 44 |
+| [Wallpapers & Art](./wallpapers-art.md) | 8 |
+| [Books & Papers](./books-papers.md) | 15 |
+| [AI Generation](./ai-generation.md) | 4 |
+| [Conversion, Upload & Download](./conversion-upload-download.md) | 12 |
+| [General](./general.md) | 93 |

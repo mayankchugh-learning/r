@@ -1,0 +1,24 @@
+# Data · Converters & Encoders
+
+**Converters & Encoders** · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · [APIs & Scraping](./apis-scraping.md) · [Lookups & References](./lookups-references.md) · [General](./general.md)
+
+16 of 235 extensions · [← Data](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Archiver](https://github.com/raycast/extensions/tree/main/extensions/archiver) | An archive tool for compressing or extracting, supporting multiple formats. | JinShi | macOS | [store](https://www.raycast.com/JinShi/archiver) |
+| [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) | Format list of items into an array. | matheus_de_paula_domingos | macOS | [store](https://www.raycast.com/matheus_de_paula_domingos/array-this) |
+| [Base64 to File](https://github.com/raycast/extensions/tree/main/extensions/base64-to-file) | convert base64 to file | forrestzh | macOS | [store](https://www.raycast.com/forrestzh/base64-to-file) |
+| [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) | Convert Any Language Text into an English Variable Name | keleus | macOS, Windows | [store](https://www.raycast.com/keleus/easyvariable) |
+| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
+| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
+| [James Webb Space Telescope](https://github.com/raycast/extensions/tree/main/extensions/james-webb-space-telescope) | List data from James Webb Space Telescope's observations, including images, csv, jsons and fits files. | Infonautica | macOS | [store](https://www.raycast.com/Infonautica/james-webb-space-telescope) |
+| [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) | Run queries on Json data using jq | vladimir-kotikov | macOS | [store](https://www.raycast.com/vladimir-kotikov/raycast-jq) |
+| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
+| [Protobuf2TypeScript](https://github.com/raycast/extensions/tree/main/extensions/protobuf2typescript) | A script which help front-end devloper to convert *.protobuf file into *.d.ts file. | 7gugu | macOS | [store](https://www.raycast.com/7gugu/protobuf2typescript) |
+| [Table Converter](https://github.com/raycast/extensions/tree/main/extensions/table-converter) | Convert tables from Clipboard to Markdown and vice versa. | naserowaimer | macOS | [store](https://www.raycast.com/naserowaimer/table-converter) |
+| [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
+| [Unix Timestamp](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp) | Convert between unix timestamp and human readable form date | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/unix-timestamp) |
+| [vatlayer](https://github.com/raycast/extensions/tree/main/extensions/vatlayer) | Validate VAT numbers, retrieve all or single EU VAT rates based on IP address or country code, convert prices in compliance with EU VAT rates and types, and mo… | xmok | macOS | [store](https://www.raycast.com/xmok/vatlayer) |
+| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
+| [Visitor Queue](https://github.com/raycast/extensions/tree/main/extensions/visitor-queue) | Identify, personalize, convert | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/visitor-queue) |

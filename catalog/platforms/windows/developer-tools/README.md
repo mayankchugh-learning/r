@@ -2,29 +2,23 @@
 
 252 extensions · [← Windows](../README.md)
 
-| Section | Extensions |
+| Subcategory | Extensions |
 | --- | --- |
-| [Windows · Developer Tools — A](./a.md) | 9 |
-| [Windows · Developer Tools — B](./b.md) | 5 |
-| [Windows · Developer Tools — C](./c.md) | 20 |
-| [Windows · Developer Tools — D](./d.md) | 14 |
-| [Windows · Developer Tools — E](./e.md) | 6 |
-| [Windows · Developer Tools — F](./f.md) | 14 |
-| [Windows · Developer Tools — G](./g.md) | 18 |
-| [Windows · Developer Tools — H](./h.md) | 5 |
-| [Windows · Developer Tools — I](./i.md) | 11 |
-| [Windows · Developer Tools — J](./j.md) | 6 |
-| [Windows · Developer Tools — K](./k.md) | 2 |
-| [Windows · Developer Tools — L](./l.md) | 15 |
-| [Windows · Developer Tools — M](./m.md) | 11 |
-| [Windows · Developer Tools — N](./n.md) | 8 |
-| [Windows · Developer Tools — O](./o.md) | 7 |
-| [Windows · Developer Tools — P](./p.md) | 23 |
-| [Windows · Developer Tools — Q](./q.md) | 3 |
-| [Windows · Developer Tools — R](./r.md) | 15 |
-| [Windows · Developer Tools — S](./s.md) | 21 |
-| [Windows · Developer Tools — T](./t.md) | 9 |
-| [Windows · Developer Tools — U](./u.md) | 5 |
-| [Windows · Developer Tools — V](./v.md) | 3 |
-| [Windows · Developer Tools — W](./w.md) | 16 |
-| [Windows · Developer Tools — Z](./z.md) | 6 |
+| [AI & LLM Tools](./ai-llm-tools.md) | 26 |
+| [Git & Version Control](./git-version-control.md) | 12 |
+| [Mobile & App Development](./mobile-app-development.md) | 1 |
+| [Web3 & Blockchain](./web3-blockchain.md) | 3 |
+| [Issue Tracking & Projects](./issue-tracking-projects.md) | 4 |
+| [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 26 |
+| [Databases](./databases.md) | 2 |
+| [APIs & Networking](./apis-networking.md) | 15 |
+| [Monitoring & Logs](./monitoring-logs.md) | 5 |
+| [Terminal & Editors](./terminal-editors.md) | 11 |
+| [Package & Dependency Tools](./package-dependency-tools.md) | 13 |
+| [Web & Frontend](./web-frontend.md) | 16 |
+| [Design & Assets](./design-assets.md) | 9 |
+| [Automation & Scripting](./automation-scripting.md) | 4 |
+| [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 26 |
+| [Search & Reference](./search-reference.md) | 23 |
+| [Files & Transfer](./files-transfer.md) | 8 |
+| [General](./general.md) | 48 |

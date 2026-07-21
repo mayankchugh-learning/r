@@ -1,0 +1,17 @@
+# macOS · Applications · Window Managers & Utilities
+
+[AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · **Window Managers & Utilities** · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
+
+9 of 350 extensions · [← macOS · Applications](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
+| [App Keeper Manager](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) | This extention offers users the ability to manage currently running applications, with options to choose which apps to keep open and which to close during clea… | edith | macOS | [store](https://www.raycast.com/edith/app-keeper-manager) |
+| [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
+| [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) | Interact with Bartender and menu bar icon apps | kmusick | macOS | [store](https://www.raycast.com/kmusick/bartender) |
+| [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) | Integrate beehiiv with Raycast, allowing you to search for posts, check statistics, show subscribers count in the menu bar, and more. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/beehiiv) |
+| [Pomo](https://github.com/raycast/extensions/tree/main/extensions/pomo) | Control Pomo, a minimal Pomodoro timer for your macOS menu bar | claud | macOS | [store](https://www.raycast.com/claud/pomo) |
+| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
+| [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) | Resize the focused window to pixel-perfect presets. | the3ash | macOS | [store](https://www.raycast.com/the3ash/window-sizer) |

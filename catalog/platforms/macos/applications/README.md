@@ -2,32 +2,23 @@
 
 350 extensions · [← macOS](../README.md)
 
-| Section | Extensions |
+| Subcategory | Extensions |
 | --- | --- |
-| [macOS · Applications — 0-9](./0-9.md) | 4 |
-| [macOS · Applications — A](./a.md) | 24 |
-| [macOS · Applications — B](./b.md) | 20 |
-| [macOS · Applications — C](./c.md) | 29 |
-| [macOS · Applications — D](./d.md) | 10 |
-| [macOS · Applications — E](./e.md) | 5 |
-| [macOS · Applications — F](./f.md) | 15 |
-| [macOS · Applications — G](./g.md) | 10 |
-| [macOS · Applications — H](./h.md) | 13 |
-| [macOS · Applications — I](./i.md) | 13 |
-| [macOS · Applications — J](./j.md) | 3 |
-| [macOS · Applications — K](./k.md) | 9 |
-| [macOS · Applications — L](./l.md) | 13 |
-| [macOS · Applications — M](./m.md) | 29 |
-| [macOS · Applications — N](./n.md) | 13 |
-| [macOS · Applications — O](./o.md) | 15 |
-| [macOS · Applications — P](./p.md) | 25 |
-| [macOS · Applications — Q](./q.md) | 4 |
-| [macOS · Applications — R](./r.md) | 13 |
-| [macOS · Applications — S](./s.md) | 30 |
-| [macOS · Applications — T](./t.md) | 22 |
-| [macOS · Applications — U](./u.md) | 3 |
-| [macOS · Applications — V](./v.md) | 9 |
-| [macOS · Applications — W](./w.md) | 9 |
-| [macOS · Applications — X](./x.md) | 2 |
-| [macOS · Applications — Y](./y.md) | 4 |
-| [macOS · Applications — Z](./z.md) | 4 |
+| [AI & Chat Apps](./ai-chat-apps.md) | 20 |
+| [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 28 |
+| [Productivity & Task Apps](./productivity-task-apps.md) | 14 |
+| [Music & Audio Apps](./music-audio-apps.md) | 9 |
+| [Media & Photo Apps](./media-photo-apps.md) | 18 |
+| [Reading & Library Apps](./reading-library-apps.md) | 4 |
+| [Automation & Input Apps](./automation-input-apps.md) | 10 |
+| [Content & CMS Apps](./content-cms-apps.md) | 11 |
+| [Network & Connection Apps](./network-connection-apps.md) | 10 |
+| [Analytics & Stats Apps](./analytics-stats-apps.md) | 4 |
+| [Developer Apps](./developer-apps.md) | 7 |
+| [Browsers](./browsers.md) | 10 |
+| [Window Managers & Utilities](./window-managers-utilities.md) | 9 |
+| [Apple & Built-in Apps](./apple-built-in-apps.md) | 14 |
+| [Files, Sync & Upload](./files-sync-upload.md) | 16 |
+| [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
+| [Launchers & App Control](./launchers-app-control.md) | 46 |
+| [General](./general.md) | 119 |

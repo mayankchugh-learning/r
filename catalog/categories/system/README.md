@@ -4,28 +4,16 @@
 
 macOS: 204 · Windows: 36
 
-| Section | Extensions |
+| Subcategory | Extensions |
 | --- | --- |
-| [System — A](./a.md) | 12 |
-| [System — B](./b.md) | 11 |
-| [System — C](./c.md) | 8 |
-| [System — D](./d.md) | 18 |
-| [System — E](./e.md) | 5 |
-| [System — F](./f.md) | 12 |
-| [System — G](./g.md) | 1 |
-| [System — H](./h.md) | 8 |
-| [System — I](./i.md) | 4 |
-| [System — K](./k.md) | 5 |
-| [System — L](./l.md) | 6 |
-| [System — M](./m.md) | 20 |
-| [System — N](./n.md) | 8 |
-| [System — O](./o.md) | 6 |
-| [System — P](./p.md) | 15 |
-| [System — Q](./q.md) | 4 |
-| [System — R](./r.md) | 11 |
-| [System — S](./s.md) | 21 |
-| [System — T](./t.md) | 16 |
-| [System — U](./u.md) | 5 |
-| [System — V](./v.md) | 8 |
-| [System — W](./w.md) | 9 |
-| [System — Z](./z.md) | 2 |
+| [Apps & Processes](./apps-processes.md) | 32 |
+| [Window & Desktop Management](./window-desktop-management.md) | 31 |
+| [Hardware & Devices](./hardware-devices.md) | 15 |
+| [Display & Appearance](./display-appearance.md) | 15 |
+| [Audio Control](./audio-control.md) | 1 |
+| [Power & Session](./power-session.md) | 8 |
+| [Clipboard & Input](./clipboard-input.md) | 9 |
+| [Files & Storage](./files-storage.md) | 24 |
+| [Network](./network.md) | 12 |
+| [Defaults & Services](./defaults-services.md) | 7 |
+| [General](./general.md) | 61 |

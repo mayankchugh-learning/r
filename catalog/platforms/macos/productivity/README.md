@@ -2,32 +2,21 @@
 
 1266 extensions · [← macOS](../README.md)
 
-| Section | Extensions |
+| Subcategory | Extensions |
 | --- | --- |
-| [macOS · Productivity — 0-9](./0-9.md) | 6 |
-| [macOS · Productivity — A](./a.md) | 65 |
-| [macOS · Productivity — B](./b.md) | 37 |
-| [macOS · Productivity — C](./c.md) | 123 |
-| [macOS · Productivity — D](./d.md) | 53 |
-| [macOS · Productivity — E](./e.md) | 26 |
-| [macOS · Productivity — F](./f.md) | 58 |
-| [macOS · Productivity — G](./g.md) | 56 |
-| [macOS · Productivity — H](./h.md) | 35 |
-| [macOS · Productivity — I](./i.md) | 28 |
-| [macOS · Productivity — J](./j.md) | 16 |
-| [macOS · Productivity — K](./k.md) | 23 |
-| [macOS · Productivity — L](./l.md) | 36 |
-| [macOS · Productivity — M](./m.md) | 84 |
-| [macOS · Productivity — N](./n.md) | 34 |
-| [macOS · Productivity — O](./o.md) | 57 |
-| [macOS · Productivity — P](./p.md) | 90 |
-| [macOS · Productivity — Q](./q.md) | 20 |
-| [macOS · Productivity — R](./r.md) | 68 |
-| [macOS · Productivity — S](./s.md) | 144 |
-| [macOS · Productivity — T](./t.md) | 82 |
-| [macOS · Productivity — U](./u.md) | 20 |
-| [macOS · Productivity — V](./v.md) | 26 |
-| [macOS · Productivity — W](./w.md) | 50 |
-| [macOS · Productivity — X](./x.md) | 3 |
-| [macOS · Productivity — Y](./y.md) | 12 |
-| [macOS · Productivity — Z](./z.md) | 14 |
+| [AI & Assistants](./ai-assistants.md) | 117 |
+| [Notes & Knowledge](./notes-knowledge.md) | 53 |
+| [Tasks & To-Dos](./tasks-to-dos.md) | 40 |
+| [Calendar & Scheduling](./calendar-scheduling.md) | 16 |
+| [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 57 |
+| [Window & Workspace Management](./window-workspace-management.md) | 35 |
+| [Time Tracking & Focus](./time-tracking-focus.md) | 23 |
+| [Email](./email.md) | 21 |
+| [Automation & Workflows](./automation-workflows.md) | 25 |
+| [Documents & Files](./documents-files.md) | 113 |
+| [Writing & Text Tools](./writing-text-tools.md) | 63 |
+| [Reading & Learning](./reading-learning.md) | 19 |
+| [Team & Business Tools](./team-business-tools.md) | 14 |
+| [Search & Bookmarks](./search-bookmarks.md) | 194 |
+| [Trackers & Monitors](./trackers-monitors.md) | 29 |
+| [General](./general.md) | 447 |

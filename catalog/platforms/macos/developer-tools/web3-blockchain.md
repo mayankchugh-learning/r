@@ -1,0 +1,20 @@
+# macOS · Developer Tools · Web3 & Blockchain
+
+[AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · **Web3 & Blockchain** · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
+
+12 of 942 extensions · [← macOS · Developer Tools](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Aave Contract Search](https://github.com/raycast/extensions/tree/main/extensions/aave-search) | Quickly search and access official Aave ecosystem smart contract addresses across multiple networks | smbdy | macOS | [store](https://www.raycast.com/smbdy/aave-search) |
+| [Algorand](https://github.com/raycast/extensions/tree/main/extensions/algorand) | Perform all of Algorand operations from your toolbar | raihan_khan | macOS, Windows | [store](https://www.raycast.com/raihan_khan/algorand) |
+| [AT Protocol Utilities](https://github.com/raycast/extensions/tree/main/extensions/atproto-utilities) | Utility commands for atproto development. | ftrstk | macOS | [store](https://www.raycast.com/ftrstk/atproto-utilities) |
+| [Bech32 Converter](https://github.com/raycast/extensions/tree/main/extensions/bech32-converter) | Converts Cosmos Bech32 addresses to a desired prefix | zygimantas_magelinskas | macOS | [store](https://www.raycast.com/zygimantas_magelinskas/bech32-converter) |
+| [Blockchain Explorer Search](https://github.com/raycast/extensions/tree/main/extensions/blockchain-explorer-search) | Search open links for address, transaction, block, token, and ens on Etherscan-like sites. | Namaskar | macOS | [store](https://www.raycast.com/Namaskar/blockchain-explorer-search) |
+| [Charged: Starknet Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/charged) | Shorcuts for common web3 tasks | apoorv | macOS | [store](https://www.raycast.com/apoorv/charged) |
+| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS | [store](https://www.raycast.com/destiner/ethereum-utils) |
+| [EVM Toolkit](https://github.com/raycast/extensions/tree/main/extensions/evm-toolkit) | A toolkit for Ethereum power users: explore addresses, transactions, and blocks across EVM chains | imqdee | macOS, Windows | [store](https://www.raycast.com/imqdee/evm-toolkit) |
+| [PDSls](https://github.com/raycast/extensions/tree/main/extensions/pdsls) | Browse the public data on atproto. | juliet_philippe | macOS, Windows | [store](https://www.raycast.com/juliet_philippe/pdsls) |
+| [Solana Nodes](https://github.com/raycast/extensions/tree/main/extensions/nodes) | Browse Solana Validator Stats from Stakewiz | jstnw10 | macOS | [store](https://www.raycast.com/jstnw10/solana_nodes) |
+| [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) | Introducing the Solana Wallet Generator, a powerful Raycast extension designed for developers and cryptocurrency enthusiasts seeking to efficiently create mult… | uladkaminski | macOS | [store](https://www.raycast.com/uladkaminski/solana-wallets-generation) |
+| [TON Address](https://github.com/raycast/extensions/tree/main/extensions/ton-address) | Convert TON blockchain addresses between different formats and resolve .ton domain names | drankou | macOS | [store](https://www.raycast.com/drankou/ton-address) |

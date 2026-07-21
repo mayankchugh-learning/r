@@ -2,41 +2,80 @@
 
 36 extensions · [← Windows](../README.md)
 
+[Apps & Processes](#apps-processes) (6) · [Window & Desktop Management](#window-desktop-management) (8) · [Hardware & Devices](#hardware-devices) (2) · [Display & Appearance](#display-appearance) (4) · [Clipboard & Input](#clipboard-input) (1) · [Files & Storage](#files-storage) (2) · [Network](#network) (2) · [General](#general) (11)
+
+## Apps & Processes
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
+| [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
+| [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
+| [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
+| [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
+
+## Window & Desktop Management
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
+| [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) | Toggle Windows HDR on individual monitors instead of all displays at once. | abdullah_shabib | Windows | [store](https://www.raycast.com/abdullah_shabib/hdr-toggle) |
+| [Scoop](https://github.com/raycast/extensions/tree/main/extensions/scoop) | Manage Scoop, the command-line installer for Windows. | zsombor_biro | Windows | [store](https://www.raycast.com/zsombor_biro/scoop) |
+| [Virtual Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/virtual-desktop-manager) | Manage Windows virtual desktops directly from Raycast using AutoHotkey. Brings hyprland like experience to windows. | sameed_majgaonkar | Windows | [store](https://www.raycast.com/sameed_majgaonkar/virtual-desktop-manager) |
+| [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers) | Easily change between the default Windows wallpapers without changing full themes | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windows-default-wallpapers) |
+| [Windows Environment Variables](https://github.com/raycast/extensions/tree/main/extensions/windows-environment-variables) | View, search, edit and manage Windows environment variables and PATH entries. A keyboard-first alternative to the Windows Environment Variables dialog. | ohmycodedev | Windows | [store](https://www.raycast.com/ohmycodedev/windows-environment-variables) |
+| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
+
+## Hardware & Devices
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+
+## Display & Appearance
+
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper) | Browse and set Arcane wallpapers. | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/arcane-wallpaper) |
 | [Blackr](https://github.com/raycast/extensions/tree/main/extensions/blackr) | Turn your main display black for quick screen cleaning. | li_jin | macOS, Windows | [store](https://www.raycast.com/li_jin/blackr) |
 | [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) | Quickly controls the brightness levels of your display | cali | macOS, Windows | [store](https://www.raycast.com/cali/brightness-control) |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+
+## Clipboard & Input
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
+
+## Files & Storage
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
+| [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) | List and choose a single disk to eject. | johndturn | Windows, macOS | [store](https://www.raycast.com/johndturn/single-disk-eject) |
+
+## Network
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+
+## General
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
 | [Command Scheduler](https://github.com/raycast/extensions/tree/main/extensions/scheduler) | Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. | cps | macOS, Windows | [store](https://www.raycast.com/cps/scheduler) |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
-| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
-| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
-| [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) | Toggle Windows HDR on individual monitors instead of all displays at once. | abdullah_shabib | Windows | [store](https://www.raycast.com/abdullah_shabib/hdr-toggle) |
-| [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
-| [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [OpenHue](https://github.com/raycast/extensions/tree/main/extensions/openhue) | Control your Philips Hue lightning system from Raycast | thibauult | macOS, Windows | [store](https://www.raycast.com/thibauult/openhue) |
-| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
-| [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
 | [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
-| [Scoop](https://github.com/raycast/extensions/tree/main/extensions/scoop) | Manage Scoop, the command-line installer for Windows. | zsombor_biro | Windows | [store](https://www.raycast.com/zsombor_biro/scoop) |
-| [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) | List and choose a single disk to eject. | johndturn | Windows, macOS | [store](https://www.raycast.com/johndturn/single-disk-eject) |
 | [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) | Control Tabby terminal with Raycast | chupi | macOS, Windows | [store](https://www.raycast.com/chupi/tabby) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
-| [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
-| [Virtual Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/virtual-desktop-manager) | Manage Windows virtual desktops directly from Raycast using AutoHotkey. Brings hyprland like experience to windows. | sameed_majgaonkar | Windows | [store](https://www.raycast.com/sameed_majgaonkar/virtual-desktop-manager) |
 | [Voicemeeter Control](https://github.com/raycast/extensions/tree/main/extensions/voicemeeter-raycast) | Control Voicemeeter strips and buses from Raycast. | Vorm-- | Windows | [store](https://www.raycast.com/Vorm--/voicemeeter-raycast) |
-| [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
-| [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers) | Easily change between the default Windows wallpapers without changing full themes | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windows-default-wallpapers) |
-| [Windows Environment Variables](https://github.com/raycast/extensions/tree/main/extensions/windows-environment-variables) | View, search, edit and manage Windows environment variables and PATH entries. A keyboard-first alternative to the Windows Environment Variables dialog. | ohmycodedev | Windows | [store](https://www.raycast.com/ohmycodedev/windows-environment-variables) |
-| [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
-| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |

@@ -1,0 +1,16 @@
+# Data · APIs & Scraping
+
+[Converters & Encoders](./converters-encoders.md) · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · **APIs & Scraping** · [Lookups & References](./lookups-references.md) · [General](./general.md)
+
+8 of 235 extensions · [← Data](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Abstract API](https://github.com/raycast/extensions/tree/main/extensions/abstract-api) | Automate routine dev work with Abstract's suite of APIs | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/abstract-api) |
+| [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
+| [Country Lookup](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) | Search and explore detailed data for every country: flags, capitals, languages, currencies, regions and more, powered by the REST Countries API. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/country-lookup) |
+| [DAWA - Danish Address Web API](https://github.com/raycast/extensions/tree/main/extensions/dawa) | Get information about addresses in Denmark by searching through the Danish Address Web API with the adgangsadresseid as value. | SimonJ | macOS | [store](https://www.raycast.com/SimonJ/denmarks-address-web-api) |
+| [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) | Manage your DeepL API usage with ease. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/deepl-api-usage) |
+| [Greip](https://github.com/raycast/extensions/tree/main/extensions/greip) | Use endpoint from greip.io directly from Raycast | ghadeer | macOS | [store](https://www.raycast.com/ghadeer/greip) |
+| [Liveblocks](https://github.com/raycast/extensions/tree/main/extensions/liveblocks) | Exposes the Liveblocks API via a pleasant and easy to use UI. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/liveblocks) |
+| [NUSMods](https://github.com/raycast/extensions/tree/main/extensions/nusmods) | Search and explore NUS courses with detailed module information, prerequisites, timetables, and exam schedules powered by NUSMods API | wxiaoyun | macOS, Windows | [store](https://www.raycast.com/wxiaoyun/nusmods) |

@@ -1,0 +1,12 @@
+# Media · AI Generation
+
+[Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · **AI Generation** · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
+
+4 of 251 extensions · [← Media](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
+| [GetSound](https://github.com/raycast/extensions/tree/main/extensions/getsound) | Get focused with GetSound.AI | getsound-ai (org) | macOS | [store](https://www.raycast.com/getsound-ai/getsound) |
+| [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
+| [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |

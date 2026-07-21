@@ -1,0 +1,17 @@
+# Fun · Pop Culture & Fandom
+
+[Games & Gaming](./games-gaming.md) · [AI & Generative Fun](./ai-generative-fun.md) · [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) · [Jokes & Randomness](./jokes-randomness.md) · [Sports](./sports.md) · [Movies, TV & Anime](./movies-tv-anime.md) · [Music & Instruments](./music-instruments.md) · **Pop Culture & Fandom** · [Generators & Toys](./generators-toys.md) · [Nature & Exploration](./nature-exploration.md) · [Wallpapers & Effects](./wallpapers-effects.md) · [Food & Drink](./food-drink.md) · [General](./general.md)
+
+9 of 253 extensions · [← Fun](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
+| [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
+| [Discord Spoiler Spammer](https://github.com/raycast/extensions/tree/main/extensions/spoiler-converter) | Discord Spoiler Spammer converts every character of the selected text into it's own spoiler. Laugh at your friends on Discord as they continue clicking to reve… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/spoiler-converter) |
+| [Disney](https://github.com/raycast/extensions/tree/main/extensions/disney) | Explore information about your beloved Disney characters by searching for them. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/disney) |
+| [Gift Stardew Valley](https://github.com/raycast/extensions/tree/main/extensions/gift-stardew-valley) | A database of gifts for Stardew Valley characters. | naorojas | macOS, Windows | [store](https://www.raycast.com/naorojas/gift-stardew-valley) |
+| [LEGO Bricks](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) | Look up LEGO sets, colors, bricks etc. | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/lego-bricks) |
+| [Lunaris](https://github.com/raycast/extensions/tree/main/extensions/lunaris) | Check Genshin Impact character, weapon & artifact information via Lunaris | sphygmus | macOS, Windows | [store](https://www.raycast.com/sphygmus/lunaris) |
+| [Potter DB](https://github.com/raycast/extensions/tree/main/extensions/potter-db) | Dive into the magical world of Harry Potter via Potter DB. | xmok | macOS | [store](https://www.raycast.com/xmok/potter-db) |
+| [Rick and Morty](https://github.com/raycast/extensions/tree/main/extensions/rick-and-morty) | Access characters, images, locations and episodes from the television show "Rick and Morty" | xmok | macOS | [store](https://www.raycast.com/xmok/rick-and-morty) |

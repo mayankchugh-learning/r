@@ -8,7 +8,7 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 
 | View | |
 | --- | --- |
-| [By category](./categories/README.md) | 16 categories; large ones split A–Z |
+| [By category](./categories/README.md) | 16 categories, each organized into topical subcategories |
 | [By platform](./platforms/README.md) | macOS (3052) · Windows (795) · cross-platform (767), each by category |
 | [By publisher](./publishers/README.md) | 2038 publishers with all their extensions |
 | [Alphabetical](./alphabetical/0-9.md) | every extension, A–Z |
