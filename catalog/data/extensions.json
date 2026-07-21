@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c3fcc8dae82df61b27d5e508c20fd6d0c183097b",
-  "generatedAt": "2026-07-21T13:10:00.231Z",
-  "count": 3082,
+  "commit": "db19796076e3fdec019f04f32307cb3767d52ee5",
+  "generatedAt": "2026-07-21T15:17:53.211Z",
+  "count": 3083,
   "extensions": [
     {
       "dir": "0x0",
@@ -3860,6 +3860,24 @@
       "store": "https://www.raycast.com/rokartur/betteraudio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/betteraudio",
       "treeSha": "c60d3f50eb2cb50302965def953f09387a0a6419"
+    },
+    {
+      "dir": "bettercapture",
+      "name": "bettercapture",
+      "title": "BetterCapture",
+      "description": "Extension to manage BetterCapture",
+      "author": "qlaffont",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/qlaffont/bettercapture",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/bettercapture",
+      "treeSha": "a08daac163a08430e017f097d9122e93398f3a05"
     },
     {
       "dir": "betterdiscord-search",
@@ -45918,7 +45936,7 @@
       ],
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
-      "treeSha": "20fb67283e4b8112ba6b432c0a87f0c15abd616a"
+      "treeSha": "7f8d553af21b93603e3e30567752341498247a4d"
     },
     {
       "dir": "slack-status",
@@ -57811,7 +57829,7 @@
       ],
       "store": "https://www.raycast.com/ewgenius/zed-recent-projects",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects",
-      "treeSha": "f1d5269ff61acf95ace29cebd1a7e4a0c516a59b"
+      "treeSha": "9c2b9a68fca2ff1f8dbc486fc7df0af2763fb2bf"
     },
     {
       "dir": "zefix",

@@ -2,13 +2,14 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · **General**
 
-119 of 350 extensions · [← macOS · Applications](./README.md)
+120 of 351 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [2FA Directory](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) | View a list of 2FA enabled sites. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/2fa-directory) |
 | [AList Downloder](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) | Mini AList downloader in Raycast | SGGb0nd | macOS | [store](https://www.raycast.com/SGGb0nd/alist-downloder) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
+| [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) | Extension to manage BetterCapture | qlaffont | macOS | [store](https://www.raycast.com/qlaffont/bettercapture) |
 | [CardPointers](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) | Search for any credit card details or Amex/Chase offer from the CardPointers database. | emcro | macOS | [store](https://www.raycast.com/emcro/cardpointers) |
 | [Chatwork Search](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) | Search chats through all the room | nagauta | macOS | [store](https://www.raycast.com/nagauta/chatwork-search) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |

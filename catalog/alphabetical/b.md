@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-122 extensions · [← catalog index](../README.md)
+123 extensions · [← catalog index](../README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -50,6 +50,7 @@
 | [Better Screenshoot](https://github.com/raycast/extensions/tree/main/extensions/better-screenshoot) | Capture your screen with a built-in editor from Raycast. | sriverogalan | macOS | [store](https://www.raycast.com/sriverogalan/better-screenshoot) |
 | [Better Uptime](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) | Check on your Better Uptime monitors, incidents and heartbeats. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/better-uptime) |
 | [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) | Control BetterAudio from Raycast — per-app volume, EQ, device routing, media controls, and more. | rokartur | macOS | [store](https://www.raycast.com/rokartur/betteraudio) |
+| [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) | Extension to manage BetterCapture | qlaffont | macOS | [store](https://www.raycast.com/qlaffont/bettercapture) |
 | [BetterDiscord Store](https://github.com/raycast/extensions/tree/main/extensions/betterdiscord-search) | Allows you to search and view BetterDiscord addons inside Raycast | TheCommieAxolotl | macOS | [store](https://www.raycast.com/TheCommieAxolotl/betterdiscord-store) |
 | [BetterDisplay](https://github.com/raycast/extensions/tree/main/extensions/betterdisplay) | Manage displays using BetterDisplay | pascal_burkhard | macOS | [store](https://www.raycast.com/pascal_burkhard/betterdisplay) |
 | [BetterStack Utils](https://github.com/raycast/extensions/tree/main/extensions/betterstack-utils) | View your BetterStack Primary on-call schedule | doktor500 | macOS | [store](https://www.raycast.com/doktor500/betterstack-utils) |

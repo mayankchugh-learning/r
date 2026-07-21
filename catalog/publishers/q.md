@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · **Q** · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-11 publishers · [← publisher index](./README.md)
+12 publishers · [← publisher index](./README.md)
 
 | Publisher | Extensions | Titles |
 | --- | --- | --- |
@@ -12,6 +12,7 @@
 | [Qetesh](https://www.raycast.com/Qetesh) | 1 | [Battery Optimizer](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) |
 | [qeude](https://www.raycast.com/qeude) | 4 | [CircleCI Workflows](https://github.com/raycast/extensions/tree/main/extensions/circle-ci), [Close Finder](https://github.com/raycast/extensions/tree/main/extensions/close-finder), [Color Shades](https://github.com/raycast/extensions/tree/main/extensions/color-shades), [Markdown Image to HTML](https://github.com/raycast/extensions/tree/main/extensions/markdown-image-to-html) |
 | [QIanGua](https://www.raycast.com/QIanGua) | 2 | [Hookmark Search](https://github.com/raycast/extensions/tree/main/extensions/search-hookmark), [Metaphor](https://github.com/raycast/extensions/tree/main/extensions/metaphor) |
+| [qlaffont](https://www.raycast.com/qlaffont) | 1 | [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) |
 | [quacksire](https://www.raycast.com/quacksire) | 1 | [Transit Departures (Catenary for Raycast)](https://github.com/raycast/extensions/tree/main/extensions/catenary-raycast) |
 | [Quentin23Soleil](https://www.raycast.com/Quentin23Soleil) | 3 | [Android Debug Bridge (Adb) Commands](https://github.com/raycast/extensions/tree/main/extensions/adb), [Music Link Converter](https://github.com/raycast/extensions/tree/main/extensions/music-link-converter), [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) |
 | [quentinved](https://www.raycast.com/quentinved) | 1 | [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) |

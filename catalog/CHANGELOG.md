@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-21 — upstream `db19796076`
+
+**Added (1):** [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture)
+
+**Updated (2):** [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack), [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects)
+
 ## 2026-07-21 — upstream `c3fcc8dae8`
 
 **Updated (2):** [Remo](https://github.com/raycast/extensions/tree/main/extensions/remo-notes), [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport)

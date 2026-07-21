@@ -1,12 +1,13 @@
 # General
 
-108 extensions · [← Applications](./README.md)
+109 extensions · [← Applications](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [2FA Directory](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) | View a list of 2FA enabled sites. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/2fa-directory) |
 | [AList Downloder](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) | Mini AList downloader in Raycast | SGGb0nd | macOS | [store](https://www.raycast.com/SGGb0nd/alist-downloder) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
+| [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) | Extension to manage BetterCapture | qlaffont | macOS | [store](https://www.raycast.com/qlaffont/bettercapture) |
 | [CardPointers](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) | Search for any credit card details or Amex/Chase offer from the CardPointers database. | emcro | macOS | [store](https://www.raycast.com/emcro/cardpointers) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Convert CSV to Excel](https://github.com/raycast/extensions/tree/main/extensions/csv-to-excel) | Convert CSV table to Excel compatible table. | VictoRD11 | macOS | [store](https://www.raycast.com/VictoRD11/csv-to-excel) |
