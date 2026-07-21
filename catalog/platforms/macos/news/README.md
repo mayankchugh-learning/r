@@ -4,7 +4,9 @@
 
 [Tech & Startup News](#tech-startup-news) (8) · [Feeds & Readers](#feeds-readers) (14) · [Sports & Esports News](#sports-esports-news) (11) · [Communities & Forums](#communities-forums) (3) · [Markets & Predictions](#markets-predictions) (3) · [World & Business](#world-business) (19) · [General](#general) (23)
 
-## Tech & Startup News
+## Topics
+
+### Tech & Startup News
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -17,26 +19,7 @@
 | [Recent News](https://github.com/raycast/extensions/tree/main/extensions/the-verge) | Check top articles on The Verge | klkvsky | macOS | [store](https://www.raycast.com/klkvsky/the-verge) |
 | [TechCrunch](https://github.com/raycast/extensions/tree/main/extensions/techcrunch) | Read the best news from TechCrunch | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/techcrunch) |
 
-## Feeds & Readers
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/shadeov/dtf) |
-| [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
-| [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
-| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
-| [Hatena Bookmark](https://github.com/raycast/extensions/tree/main/extensions/hatena-bookmark) | Read the hotentry of hatena bookmark. | inamuu | macOS | [store](https://www.raycast.com/inamuu/hatena-bookmark) |
-| [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) | Show posts on theinitium.com | unpopular | macOS | [store](https://www.raycast.com/unpopular/initium) |
-| [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
-| [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) | Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/jue-jin) |
-| [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) | Read and explore Kagi News articles and sources seamlessly in Raycast | mickaphd | macOS, Windows | [store](https://www.raycast.com/mickaphd/kagi-news) |
-| [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
-| [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) | Checkout all NYT posts | Antonwy | macOS | [store](https://www.raycast.com/Antonwy/new-york-times) |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
-| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
-| [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
-
-## Sports & Esports News
+### Sports & Esports News
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -52,23 +35,7 @@
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [Valorant Esports](https://github.com/raycast/extensions/tree/main/extensions/valorant-esports) | Search Valorant esports schedules and standings. | vimtor | macOS | [store](https://www.raycast.com/vimtor/valorant-esports) |
 
-## Communities & Forums
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
-| [IndieHackers](https://github.com/raycast/extensions/tree/main/extensions/indiehackers) | Browse IndieHackers | xmok | macOS | [store](https://www.raycast.com/xmok/indiehackers) |
-| [Raycafé](https://github.com/raycast/extensions/tree/main/extensions/raycafe) | Browse upcoming Raycast Community meetups and open event pages. | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/raycafe) |
-
-## Markets & Predictions
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
-| [Polymarket](https://github.com/raycast/extensions/tree/main/extensions/polymarket) | Search and view markets on Polymarket | Osprey | macOS | [store](https://www.raycast.com/Osprey/polymarket) |
-| [Rusbase](https://github.com/raycast/extensions/tree/main/extensions/rusbase) | Get sections, markets and companies from Rusbase directly in Raycast | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/rusbase) |
-
-## World & Business
+### World & Business
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -92,7 +59,44 @@
 | [TV2 - Denmark](https://github.com/raycast/extensions/tree/main/extensions/tv2---denmark) | Get the latest news from TV2 Denmark | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/tv2---denmark) |
 | [VC.ru Popular News](https://github.com/raycast/extensions/tree/main/extensions/vc-ru-news) | List popular news from VC.ru | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/vc-ru-news) |
 
-## General
+### Markets & Predictions
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
+| [Polymarket](https://github.com/raycast/extensions/tree/main/extensions/polymarket) | Search and view markets on Polymarket | Osprey | macOS | [store](https://www.raycast.com/Osprey/polymarket) |
+| [Rusbase](https://github.com/raycast/extensions/tree/main/extensions/rusbase) | Get sections, markets and companies from Rusbase directly in Raycast | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/rusbase) |
+
+## Read & Discuss
+
+### Feeds & Readers
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/shadeov/dtf) |
+| [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
+| [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
+| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
+| [Hatena Bookmark](https://github.com/raycast/extensions/tree/main/extensions/hatena-bookmark) | Read the hotentry of hatena bookmark. | inamuu | macOS | [store](https://www.raycast.com/inamuu/hatena-bookmark) |
+| [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) | Show posts on theinitium.com | unpopular | macOS | [store](https://www.raycast.com/unpopular/initium) |
+| [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
+| [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) | Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/jue-jin) |
+| [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) | Read and explore Kagi News articles and sources seamlessly in Raycast | mickaphd | macOS, Windows | [store](https://www.raycast.com/mickaphd/kagi-news) |
+| [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
+| [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) | Checkout all NYT posts | Antonwy | macOS | [store](https://www.raycast.com/Antonwy/new-york-times) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
+| [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
+
+### Communities & Forums
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
+| [IndieHackers](https://github.com/raycast/extensions/tree/main/extensions/indiehackers) | Browse IndieHackers | xmok | macOS | [store](https://www.raycast.com/xmok/indiehackers) |
+| [Raycafé](https://github.com/raycast/extensions/tree/main/extensions/raycafe) | Browse upcoming Raycast Community meetups and open event pages. | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/raycafe) |
+
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

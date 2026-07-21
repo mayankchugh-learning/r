@@ -4,7 +4,17 @@
 
 [Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (3) · [Currency & Exchange](#currency-exchange) (3) · [Business, Billing & Sales](#business-billing-sales) (9) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (2) · [Personal Finance & Budgeting](#personal-finance-budgeting) (7) · [General](#general) (6)
 
-## Crypto & Web3
+## Markets & Investing
+
+### Stocks & Trading
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
+| [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
+| [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
+
+### Crypto & Web3
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -16,15 +26,7 @@
 | [Starling](https://github.com/raycast/extensions/tree/main/extensions/starling) | Securely manage Starling accounts with your own personal access token | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/starling) |
 | [Zerodha Portfolio (Kite+Coin)](https://github.com/raycast/extensions/tree/main/extensions/zerodha-portfolio-kite-coin) | View your zerodha kite and zerodha coin portfolio | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/zerodha-portfolio-kite-coin) |
 
-## Stocks & Trading
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
-| [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
-| [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
-
-## Currency & Exchange
+### Currency & Exchange
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -32,7 +34,31 @@
 | [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) | View currency rates and all your accounts in monobank. | danulqua | macOS, Windows | [store](https://www.raycast.com/danulqua/monobank) |
 | [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) | Convert currencies and look up exchange rates for any date back to 1999, powered by UniRateAPI. | rob_brown96cc | Windows, macOS | [store](https://www.raycast.com/rob_brown96cc/unirate-currency) |
 
-## Business, Billing & Sales
+## Money Management
+
+### Personal Finance & Budgeting
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) | Search BC Assessment properties by address. | martins | macOS, Windows | [store](https://www.raycast.com/martins/bcassessment) |
+| [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) | Add transactions to your Ducat account | rahulchowdhury | macOS, Windows | [store](https://www.raycast.com/rahulchowdhury/ducat) |
+| [Firefly III](https://github.com/raycast/extensions/tree/main/extensions/firefly-iii) | A free and open source personal finance manager | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/firefly-iii) |
+| [Maybe](https://github.com/raycast/extensions/tree/main/extensions/maybe) | The personal finance app for everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/maybe) |
+| [Moneytree](https://github.com/raycast/extensions/tree/main/extensions/moneytree) | View and manage your finances from Moneytree via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/moneytree) |
+| [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
+| [Real Calc](https://github.com/raycast/extensions/tree/main/extensions/real-calc) | Update financial values based on various Brazilian price indices | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/real-calc) |
+
+### Banking & Payments
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
+| [VietQR Transfer Generator](https://github.com/raycast/extensions/tree/main/extensions/vietqr-transfer) | Quickly generate VietQR payment codes for Vietnamese banks with customizable templates, amounts, and descriptions. | annguyen | macOS, Windows | [store](https://www.raycast.com/annguyen/vietqr-transfer) |
+| [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) | A clear overview of your Wise balances in Raycast: spending, combined total and live rates. | jorgetoh | macOS, Windows | [store](https://www.raycast.com/jorgetoh/wise-lens) |
+
+## Business & Reference
+
+### Business, Billing & Sales
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -46,34 +72,14 @@
 | [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
 
-## Banking & Payments
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
-| [VietQR Transfer Generator](https://github.com/raycast/extensions/tree/main/extensions/vietqr-transfer) | Quickly generate VietQR payment codes for Vietnamese banks with customizable templates, amounts, and descriptions. | annguyen | macOS, Windows | [store](https://www.raycast.com/annguyen/vietqr-transfer) |
-| [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) | A clear overview of your Wise balances in Raycast: spending, combined total and live rates. | jorgetoh | macOS, Windows | [store](https://www.raycast.com/jorgetoh/wise-lens) |
-
-## Regional & Company Lookups
+### Regional & Company Lookups
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [India Toolkit](https://github.com/raycast/extensions/tree/main/extensions/india-toolkit) | Quick India utilities — GST calculator, IFSC code lookup, and pincode lookup. | kur_ankur | macOS, Windows | [store](https://www.raycast.com/kur_ankur/india-toolkit) |
 | [NIF - Portugal Tax Number Lookup](https://github.com/raycast/extensions/tree/main/extensions/nif) | Search and verify Tax Identification Number (NIF) for Portuguese companies. | rgllm | macOS, Windows | [store](https://www.raycast.com/rgllm/nif) |
 
-## Personal Finance & Budgeting
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) | Search BC Assessment properties by address. | martins | macOS, Windows | [store](https://www.raycast.com/martins/bcassessment) |
-| [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) | Add transactions to your Ducat account | rahulchowdhury | macOS, Windows | [store](https://www.raycast.com/rahulchowdhury/ducat) |
-| [Firefly III](https://github.com/raycast/extensions/tree/main/extensions/firefly-iii) | A free and open source personal finance manager | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/firefly-iii) |
-| [Maybe](https://github.com/raycast/extensions/tree/main/extensions/maybe) | The personal finance app for everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/maybe) |
-| [Moneytree](https://github.com/raycast/extensions/tree/main/extensions/moneytree) | View and manage your finances from Moneytree via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/moneytree) |
-| [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
-| [Real Calc](https://github.com/raycast/extensions/tree/main/extensions/real-calc) | Update financial values based on various Brazilian price indices | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/real-calc) |
-
-## General
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

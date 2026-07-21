@@ -4,7 +4,9 @@
 
 [Passwords & Secrets](#passwords-secrets) (34) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (6) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (9) · [General](#general) (16)
 
-## Passwords & Secrets
+## Credentials & Access
+
+### Passwords & Secrets
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -43,7 +45,7 @@
 | [XKCD Password Generator](https://github.com/raycast/extensions/tree/main/extensions/xkcd-password-generator) | Generate strong passwords according to the "xkcd" style: https://xkcd.com/936/ | nkcmr | macOS, Windows | [store](https://www.raycast.com/nkcmr/xkcd-password-generator) |
 | [Yopass](https://github.com/raycast/extensions/tree/main/extensions/yopass) | Secure sharing of secrets and passwords via Yopass | ricoberger | macOS | [store](https://www.raycast.com/ricoberger/yopass) |
 
-## 2FA & Authentication
+### 2FA & Authentication
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -56,7 +58,7 @@
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 | [YubiKey Code](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) | Easily get a OTP from your YubiKey | yoyoyeti | macOS | [store](https://www.raycast.com/yoyoyeti/yubikey-code) |
 
-## Access & Identity
+### Access & Identity
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -67,13 +69,15 @@
 | [Privileges](https://github.com/raycast/extensions/tree/main/extensions/privileges) | Grant and revoke admin permission with SAP Privileges (https://github.com/SAP/macOS-enterprise-privileges). Not affiliated with SAP. | ph00lt0 | macOS | [store](https://www.raycast.com/ph00lt0/privileges) |
 | [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) | Interact with teleport, the open infrastructure access platform | lamberttraccard | macOS | [store](https://www.raycast.com/lamberttraccard/teleport) |
 
-## Encryption & Hashing
+## Protect & Encrypt
+
+### Encryption & Hashing
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Certificate Viewer](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) | Quick download and decode certificates | gamerslouis | macOS | [store](https://www.raycast.com/gamerslouis/certificate-viewer) |
 
-## Network & Privacy
+### Network & Privacy
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -87,7 +91,7 @@
 | [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
 | [VivaPB](https://github.com/raycast/extensions/tree/main/extensions/vivapb) | Browse the web in privacy with the Vivaldi Browser. | Codrkoaz | macOS | [store](https://www.raycast.com/Codrkoaz/vivapb) |
 
-## General
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

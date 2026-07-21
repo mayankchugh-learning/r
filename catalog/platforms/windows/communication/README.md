@@ -4,7 +4,9 @@
 
 [Messaging & Chat](#messaging-chat) (9) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (12) · [Social & Fediverse](#social-fediverse) (2) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (2) · [General](#general) (17)
 
-## Messaging & Chat
+## Conversations
+
+### Messaging & Chat
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -18,14 +20,14 @@
 | [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram) | Browse chats, view messages, and send messages to your Telegram contacts and groups | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/telegram) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
 
-## Video Calls & Meetings
+### Video Calls & Meetings
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |
 
-## Email
+### Email
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -42,20 +44,25 @@
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 | [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 
-## Social & Fediverse
+## Social & Sharing
+
+### Social & Fediverse
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
 
-## Customer Support & CRM
+### Links & Sharing
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
-| [Chatbase](https://github.com/raycast/extensions/tree/main/extensions/chatbase) | AI agents for magical customer experiences | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/chatbase) |
+| [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) | Quickly shorten the selected URL or current clipboard URL with Bitly | blessanm86 | macOS, Windows | [store](https://www.raycast.com/blessanm86/bitly-url-shortener) |
+| [Kutt](https://github.com/raycast/extensions/tree/main/extensions/kutt) | Free & Open Source Modern URL Shortener | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/kutt) |
 
-## Contacts & People
+## People & Support
+
+### Contacts & People
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -63,20 +70,19 @@
 | [Bento](https://github.com/raycast/extensions/tree/main/extensions/bento-me) | Access a Bento profile. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/bento-me) |
 | [Google Contacts](https://github.com/raycast/extensions/tree/main/extensions/google-contacts) | Browse, search, and manage your Google Contacts directly from Raycast — create, edit, delete, and action contacts without leaving your keyboard. | aic | macOS, Windows | [store](https://www.raycast.com/aic/google-contacts) |
 
-## Language & Dictionaries
+### Customer Support & CRM
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Chatbase](https://github.com/raycast/extensions/tree/main/extensions/chatbase) | AI agents for magical customer experiences | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/chatbase) |
+
+### Language & Dictionaries
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Pronounce the Word](https://github.com/raycast/extensions/tree/main/extensions/pronounce-the-word) | Learn to pronounce any word you type | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/pronounce-the-word) |
 
-## Links & Sharing
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) | Quickly shorten the selected URL or current clipboard URL with Bitly | blessanm86 | macOS, Windows | [store](https://www.raycast.com/blessanm86/bitly-url-shortener) |
-| [Kutt](https://github.com/raycast/extensions/tree/main/extensions/kutt) | Free & Open Source Modern URL Shortener | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/kutt) |
-
-## General
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

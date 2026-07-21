@@ -4,17 +4,35 @@
 
 macOS: 132 · Windows: 40
 
+## Markets & Investing
+
 | Topic | Extensions |
 | --- | --- |
-| [Crypto & Web3](./crypto-web3.md) | 26 |
 | [Stocks & Trading](./stocks-trading.md) | 12 |
+| [Crypto & Web3](./crypto-web3.md) | 26 |
 | [Currency & Exchange](./currency-exchange.md) | 8 |
-| [Business, Billing & Sales](./business-billing-sales.md) | 23 |
-| [Banking & Payments](./banking-payments.md) | 8 |
-| [Energy & Utility Prices](./energy-utility-prices.md) | 2 |
-| [Regional & Company Lookups](./regional-company-lookups.md) | 6 |
+
+## Money Management
+
+| Topic | Extensions |
+| --- | --- |
 | [Personal Finance & Budgeting](./personal-finance-budgeting.md) | 19 |
+| [Banking & Payments](./banking-payments.md) | 8 |
+
+## Business & Reference
+
+| Topic | Extensions |
+| --- | --- |
+| [Business, Billing & Sales](./business-billing-sales.md) | 23 |
+| [Regional & Company Lookups](./regional-company-lookups.md) | 6 |
+| [Energy & Utility Prices](./energy-utility-prices.md) | 2 |
+
+## Discovered topics ✦
+
+| Topic | Extensions |
+| --- | --- |
 | [Calculator ✦](./calculator.md) | 5 |
-| [General](./general.md) | 23 |
+
+Plus [General](./general.md) — 23 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

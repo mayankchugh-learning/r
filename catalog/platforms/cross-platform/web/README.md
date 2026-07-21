@@ -4,33 +4,9 @@
 
 [AI Services](#ai-services) (12) · [Social & Communities](#social-communities) (4) · [Search Engines](#search-engines) (43) · [Bookmarks & Read Later](#bookmarks-read-later) (1) · [URL & Domain Tools](#url-domain-tools) (15) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (2) · [General](#general) (30)
 
-## AI Services
+## Browse & Search
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
-| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [CogniMemo](https://github.com/raycast/extensions/tree/main/extensions/cognimemo) | Add and search memories with your personal AI-powered knowledge base | sami_ullah_tufail | macOS, Windows | [store](https://www.raycast.com/sami_ullah_tufail/cognimemo) |
-| [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/shadeov/dtf) |
-| [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
-| [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | luolei | macOS, Windows | [store](https://www.raycast.com/luolei/karakeep) |
-| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
-| [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
-| [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
-| [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) | Summarize any YouTube Video with AI. Choose between Raycast, OpenAI or Anthropic. You have to either be a Raycast Pro Member or have an OpenAI/Anthropic API Ke… | kom | Windows, macOS | [store](https://www.raycast.com/kom/summarize-youtube-video-with-ai) |
-| [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
-
-## Social & Communities
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [AntiSocials](https://github.com/raycast/extensions/tree/main/extensions/antisocials) | Open social media URLs via privacy-friendly frontends (X, Instagram) | danny_vogel | macOS, Windows | [store](https://www.raycast.com/danny_vogel/antisocials) |
-| [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
-| [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
-| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
-
-## Search Engines
+### Search Engines
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -78,13 +54,21 @@
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
 | [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
 
-## Bookmarks & Read Later
+### Browsers & Tabs
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) | Identify and download fonts from any website. Disclaimer: FontSniper detects loaded browser fonts for testing/research only. Read more in README | riomadeit | macOS, Windows | [store](https://www.raycast.com/riomadeit/font-sniper) |
+
+### Bookmarks & Read Later
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) | Access your FAVORO bookmarks directly from Raycast, even faster | andworksGmbH | macOS, Windows | [store](https://www.raycast.com/andworksGmbH/favoro) |
 
-## URL & Domain Tools
+## Sites & Domains
+
+### URL & Domain Tools
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -104,26 +88,7 @@
 | [URL Unshortener](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) | Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/url-unshortener) |
 | [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
 
-## Browsers & Tabs
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) | Identify and download fonts from any website. Disclaimer: FontSniper detects loaded browser fonts for testing/research only. Read more in README | riomadeit | macOS, Windows | [store](https://www.raycast.com/riomadeit/font-sniper) |
-
-## Crypto & Markets
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Binance](https://github.com/raycast/extensions/tree/main/extensions/binance-exchange) | Stay on top of the crypto market and your Binance portfolio | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/binance-exchange) |
-
-## Screenshots & Capture
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Bklit Analytics](https://github.com/raycast/extensions/tree/main/extensions/bklit-analytics) | This extension allows you to see your analytics daily digest both in your menu bar and in a snapshot view. | uixmat | macOS, Windows | [store](https://www.raycast.com/uixmat/bklit-analytics) |
-| [Orshot](https://github.com/raycast/extensions/tree/main/extensions/orshot) | Generate Website and Tweet Screenshots | rishi | macOS, Windows | [store](https://www.raycast.com/rishi/orshot) |
-
-## Monitoring & SEO
+### Monitoring & SEO
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -132,21 +97,62 @@
 | [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |
 | [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
 
-## Downloads & Torrents
+### Screenshots & Capture
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Bklit Analytics](https://github.com/raycast/extensions/tree/main/extensions/bklit-analytics) | This extension allows you to see your analytics daily digest both in your menu bar and in a snapshot view. | uixmat | macOS, Windows | [store](https://www.raycast.com/uixmat/bklit-analytics) |
+| [Orshot](https://github.com/raycast/extensions/tree/main/extensions/orshot) | Generate Website and Tweet Screenshots | rishi | macOS, Windows | [store](https://www.raycast.com/rishi/orshot) |
+
+### Downloads & Torrents
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [BJ-Share](https://github.com/raycast/extensions/tree/main/extensions/bj-share) | This extension can provide quick access to BJ-Share torrents using RSS feed | alexandremt | macOS, Windows | [store](https://www.raycast.com/alexandremt/bj-share) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/spratch/sanity-icons) |
 
-## Web Apps & Services
+## Services & Communities
+
+### Web Apps & Services
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [AzTU LMS](https://github.com/raycast/extensions/tree/main/extensions/aztu-lms) | Quickly access and manage your AzTU LMS account. | yusifaliyevpro | macOS, Windows | [store](https://www.raycast.com/yusifaliyevpro/aztu-lms) |
 | [BambooHR](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) | Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. | Rob | Windows, macOS | [store](https://www.raycast.com/Rob/bamboohr) |
 
-## General
+### Social & Communities
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [AntiSocials](https://github.com/raycast/extensions/tree/main/extensions/antisocials) | Open social media URLs via privacy-friendly frontends (X, Instagram) | danny_vogel | macOS, Windows | [store](https://www.raycast.com/danny_vogel/antisocials) |
+| [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
+| [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
+| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
+
+### AI Services
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
+| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [CogniMemo](https://github.com/raycast/extensions/tree/main/extensions/cognimemo) | Add and search memories with your personal AI-powered knowledge base | sami_ullah_tufail | macOS, Windows | [store](https://www.raycast.com/sami_ullah_tufail/cognimemo) |
+| [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/shadeov/dtf) |
+| [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
+| [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | luolei | macOS, Windows | [store](https://www.raycast.com/luolei/karakeep) |
+| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
+| [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
+| [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
+| [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) | Summarize any YouTube Video with AI. Choose between Raycast, OpenAI or Anthropic. You have to either be a Raycast Pro Member or have an OpenAI/Anthropic API Ke… | kom | Windows, macOS | [store](https://www.raycast.com/kom/summarize-youtube-video-with-ai) |
+| [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
+
+### Crypto & Markets
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Binance](https://github.com/raycast/extensions/tree/main/extensions/binance-exchange) | Stay on top of the crypto market and your Binance portfolio | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/binance-exchange) |
+
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

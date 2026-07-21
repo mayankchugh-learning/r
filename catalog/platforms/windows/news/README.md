@@ -4,14 +4,43 @@
 
 [Tech & Startup News](#tech-startup-news) (2) · [Feeds & Readers](#feeds-readers) (7) · [Sports & Esports News](#sports-esports-news) (5) · [Communities & Forums](#communities-forums) (1) · [Markets & Predictions](#markets-predictions) (1) · [World & Business](#world-business) (4) · [General](#general) (6)
 
-## Tech & Startup News
+## Topics
+
+### Tech & Startup News
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
 | [Órbita](https://github.com/raycast/extensions/tree/main/extensions/orbita) | Follow the posts in the Órbita, the Brazilian hacker news | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/orbita) |
 
-## Feeds & Readers
+### Sports & Esports News
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
+| [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
+| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
+| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
+| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
+
+### World & Business
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) | Latest important cyber security news, ranked by severity. | goran_breivik | macOS, Windows | [store](https://www.raycast.com/goran_breivik/cyber-security-pulse) |
+| [Music News](https://github.com/raycast/extensions/tree/main/extensions/music-news) | Read the latest music news from various sources. | acler | macOS, Windows | [store](https://www.raycast.com/acler/music-news) |
+| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
+| [Publico](https://github.com/raycast/extensions/tree/main/extensions/publico) | A Raycast extension to receive the latest news from Público, keeping you informed in real time directly from your command bar. | caasols | macOS, Windows | [store](https://www.raycast.com/caasols/publico) |
+
+### Markets & Predictions
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
+
+## Read & Discuss
+
+### Feeds & Readers
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -23,38 +52,13 @@
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 | [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 
-## Sports & Esports News
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
-| [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
-| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
-| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
-| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
-
-## Communities & Forums
+### Communities & Forums
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Raycafé](https://github.com/raycast/extensions/tree/main/extensions/raycafe) | Browse upcoming Raycast Community meetups and open event pages. | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/raycafe) |
 
-## Markets & Predictions
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
-
-## World & Business
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) | Latest important cyber security news, ranked by severity. | goran_breivik | macOS, Windows | [store](https://www.raycast.com/goran_breivik/cyber-security-pulse) |
-| [Music News](https://github.com/raycast/extensions/tree/main/extensions/music-news) | Read the latest music news from various sources. | acler | macOS, Windows | [store](https://www.raycast.com/acler/music-news) |
-| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
-| [Publico](https://github.com/raycast/extensions/tree/main/extensions/publico) | A Raycast extension to receive the latest news from Público, keeping you informed in real time directly from your command bar. | caasols | macOS, Windows | [store](https://www.raycast.com/caasols/publico) |
-
-## General
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

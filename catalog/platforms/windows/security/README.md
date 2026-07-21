@@ -4,7 +4,9 @@
 
 [Passwords & Secrets](#passwords-secrets) (16) · [2FA & Authentication](#2fa-authentication) (4) · [Network & Privacy](#network-privacy) (2) · [General](#general) (4)
 
-## Passwords & Secrets
+## Credentials & Access
+
+### Passwords & Secrets
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -25,7 +27,7 @@
 | [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) | Share passwords, API keys, and private notes securely. Whisper creates encrypted links that expire or self-destruct after viewing. | quentinved | macOS, Windows | [store](https://www.raycast.com/quentinved/whisper) |
 | [XKCD Password Generator](https://github.com/raycast/extensions/tree/main/extensions/xkcd-password-generator) | Generate strong passwords according to the "xkcd" style: https://xkcd.com/936/ | nkcmr | macOS, Windows | [store](https://www.raycast.com/nkcmr/xkcd-password-generator) |
 
-## 2FA & Authentication
+### 2FA & Authentication
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -34,14 +36,16 @@
 | [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 
-## Network & Privacy
+## Protect & Encrypt
+
+### Network & Privacy
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Mullvad VPN](https://github.com/raycast/extensions/tree/main/extensions/mullvad) | Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. | 0x46616c6b | macOS, Windows | [store](https://www.raycast.com/0x46616c6b/mullvad) |
 | [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |
 
-## General
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

@@ -229,6 +229,100 @@ const GLOBAL_TAXONOMY = [
 const FALLBACK = "General";
 
 /**
+ * Editorial grouping of each category's subcategories into sections, used on
+ * category pages instead of one flat topic table. Subcategories that are
+ * missing here (renamed rules, drift) fall into a "More topics" section;
+ * auto-discovered groups always render under "Discovered topics". The "*"
+ * entry serves Other, Uncategorized, and any unknown category (they share the
+ * global taxonomy).
+ */
+export const SUBCATEGORY_SECTIONS = {
+  "Developer Tools": [
+    ["Code & Collaboration", ["Git & Version Control", "Issue Tracking & Projects", "Code, Snippets & Text Utilities", "Search & Reference"]],
+    ["Build, Ship & Operate", ["CI/CD & DevOps", "Cloud, Hosting & Infrastructure", "Databases", "APIs & Networking", "Monitoring & Logs"]],
+    ["Platforms & Ecosystems", ["AI & LLM Tools", "Web & Frontend", "Mobile & App Development", "Web3 & Blockchain"]],
+    ["Tooling & Workflow", ["Terminal & Editors", "Package & Dependency Tools", "Automation & Scripting", "Files & Transfer", "Design & Assets"]],
+  ],
+  Productivity: [
+    ["Organize & Plan", ["Tasks & To-Dos", "Calendar & Scheduling", "Notes & Knowledge", "Time Tracking & Focus"]],
+    ["Write & Create", ["AI & Assistants", "Writing & Text Tools", "Documents & Files", "Email"]],
+    ["Workflow & Speed", ["Automation & Workflows", "Clipboard & Text Expansion", "Window & Workspace Management", "Search & Bookmarks"]],
+    ["Learn & Collaborate", ["Reading & Learning", "Team & Business Tools", "Trackers & Monitors"]],
+  ],
+  Communication: [
+    ["Conversations", ["Messaging & Chat", "Video Calls & Meetings", "Email"]],
+    ["Social & Sharing", ["Social & Fediverse", "Links & Sharing", "Notifications & Push"]],
+    ["People & Support", ["Contacts & People", "Customer Support & CRM", "Language & Dictionaries"]],
+  ],
+  Data: [
+    ["Transform & Generate", ["Converters & Encoders", "Generators", "Text Processing", "Files & Archives"]],
+    ["Calculate & Measure", ["Calculators & Math", "Time & Dates", "Trackers & Monitors", "Weather & Environment"]],
+    ["Domain Data", ["Crypto & Blockchain Data", "Games & Esports Data", "Health, Nature & Science", "Travel & Geo Data", "Business & Databases"]],
+    ["Lookup & Fetch", ["Lookups & References", "Web & Network Intelligence", "APIs & Scraping"]],
+  ],
+  "Design Tools": [
+    ["Visual Elements", ["Colors & Palettes", "Icons & Assets", "Fonts & Typography"]],
+    ["Create & Capture", ["Design Apps & Whiteboards", "Screenshots & Mockups", "AI Generation", "3D & Motion"]],
+    ["Reference & Inspiration", ["Inspiration & Galleries", "Art & Wallpapers", "Calculators & Ratios"]],
+  ],
+  Documentation: [
+    ["Programming Docs", ["Language References", "Framework & Library Docs", "Developer References"]],
+    ["Quick Reference", ["Cheatsheets & Snippets", "Dictionaries & Language"]],
+    ["Knowledge & Community", ["Wikis & Knowledge Bases", "Communities & Blogs"]],
+  ],
+  Finance: [
+    ["Markets & Investing", ["Stocks & Trading", "Crypto & Web3", "Currency & Exchange"]],
+    ["Money Management", ["Personal Finance & Budgeting", "Banking & Payments"]],
+    ["Business & Reference", ["Business, Billing & Sales", "Regional & Company Lookups", "Energy & Utility Prices"]],
+  ],
+  Fun: [
+    ["Play", ["Games & Gaming", "Jokes & Randomness", "Generators & Toys", "AI & Generative Fun"]],
+    ["Watch & Listen", ["Movies, TV & Anime", "Music & Instruments", "Sports", "Pop Culture & Fandom"]],
+    ["Express & Explore", ["Emoji, GIFs & Symbols", "Wallpapers & Effects", "Nature & Exploration", "Food & Drink"]],
+  ],
+  Media: [
+    ["Listen & Watch", ["Music & Audio", "Video & Streaming"]],
+    ["Look & Read", ["Images & Photos", "Wallpapers & Art", "Books & Papers"]],
+    ["Create & Convert", ["AI Generation", "Conversion, Upload & Download"]],
+  ],
+  News: [
+    ["Topics", ["Tech & Startup News", "Sports & Esports News", "World & Business", "Markets & Predictions"]],
+    ["Read & Discuss", ["Feeds & Readers", "Communities & Forums"]],
+  ],
+  Security: [
+    ["Credentials & Access", ["Passwords & Secrets", "2FA & Authentication", "Access & Identity"]],
+    ["Protect & Encrypt", ["Encryption & Hashing", "Network & Privacy"]],
+  ],
+  System: [
+    ["Apps & Windows", ["Apps & Processes", "Window & Desktop Management"]],
+    ["Hardware & Output", ["Hardware & Devices", "Display & Appearance", "Audio Control"]],
+    ["Files & Input", ["Files & Storage", "Clipboard & Input"]],
+    ["Power, Network & Settings", ["Power & Session", "Network", "Defaults & Services"]],
+  ],
+  Web: [
+    ["Browse & Search", ["Search Engines", "Browsers & Tabs", "Bookmarks & Read Later"]],
+    ["Sites & Domains", ["URL & Domain Tools", "Monitoring & SEO", "Screenshots & Capture", "Downloads & Torrents"]],
+    ["Services & Communities", ["Web Apps & Services", "Social & Communities", "AI Services", "Crypto & Markets"]],
+  ],
+  Applications: [
+    ["Work & Knowledge Apps", ["Notes, PKM & Study Apps", "Productivity & Task Apps", "AI & Chat Apps", "Reading & Library Apps", "Content & CMS Apps"]],
+    ["Media & Creative Apps", ["Music & Audio Apps", "Media & Photo Apps", "Design Apps"]],
+    ["Developer & Power-User Apps", ["Developer Apps", "Automation & Input Apps", "Network & Connection Apps", "Analytics & Stats Apps", "Window Managers & Utilities"]],
+    ["Everyday Apps", ["Browsers", "Apple & Built-in Apps", "Files, Sync & Upload", "Faith & Lifestyle Apps", "Launchers & App Control"]],
+  ],
+  "*": [
+    ["Digital Tools", ["AI Tools", "Developer Utilities", "Productivity & Tasks", "Web & Search", "System & Hardware"]],
+    ["Life & World", ["Health & Lifestyle", "Travel & Transport", "Smart Home & IoT", "Education & Learning"]],
+    ["Media, Money & Words", ["Media & Entertainment", "Communication & Social", "Crypto & Trading", "Language & Translation"]],
+  ],
+};
+
+/** Section layout for a category's subcategories ("*" fallback). */
+export function sectionsForCategory(category) {
+  return SUBCATEGORY_SECTIONS[category] ?? SUBCATEGORY_SECTIONS["*"];
+}
+
+/**
  * Editorial grouping of the top-level store categories into sections, used
  * wherever a list of categories is rendered. Categories upstream introduces
  * that aren't listed here are appended in a trailing "More" section.

@@ -36,7 +36,7 @@ import {
 } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { CATEGORY_SECTIONS, classify, subcategoriesOf } from "./taxonomy.mjs";
+import { CATEGORY_SECTIONS, classify, sectionsForCategory, subcategoriesOf } from "./taxonomy.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
 const CATALOG_DIR = path.join(ROOT, "catalog");
@@ -222,10 +222,56 @@ function writePage(relPath, lines) {
 }
 
 /**
- * Writes one section (a category, or a platform×category slice) organized by
- * topical subcategory (taxonomy.mjs). Small sections are one page with a
- * subcategory table of contents and inline sections; above SPLIT_THRESHOLD
- * each subcategory gets its own page behind an index.
+ * Groups topic nodes (curated subcategories, auto-discovered groups, General)
+ * under the per-category editorial sections from taxonomy.mjs. Returns
+ * [sectionTitle, nodes[]] pairs plus the General node separately.
+ */
+function sectionizeNodes(category, nodes) {
+  const byName = new Map(nodes.map((n) => [n.title, n]));
+  const used = new Set();
+  const sections = [];
+  for (const [secTitle, subNames] of sectionsForCategory(category)) {
+    const list = subNames.map((s) => byName.get(s)).filter((n) => n && !n.auto);
+    if (!list.length) continue;
+    for (const n of list) used.add(n);
+    sections.push([secTitle, list]);
+  }
+  const leftover = nodes.filter((n) => !used.has(n) && !n.auto && n.slug !== "general");
+  if (leftover.length) sections.push(["More topics", leftover]);
+  const autos = nodes.filter((n) => n.auto);
+  if (autos.length) sections.push(["Discovered topics ✦", autos]);
+  return { sections, general: nodes.find((n) => n.slug === "general") ?? null };
+}
+
+/** Sectioned "table of topics" for an index page. */
+function sectionedTopicLines(category, nodes, linkOf) {
+  const { sections, general } = sectionizeNodes(category, nodes);
+  const lines = [];
+  for (const [secTitle, list] of sections) {
+    lines.push(
+      "",
+      `## ${secTitle}`,
+      "",
+      "| Topic | Extensions |",
+      "| --- | --- |",
+      ...list.map((n) => `| [${nodeLabel(n)}](${linkOf(n)}) | ${n.entries.length} |`),
+    );
+  }
+  if (general) {
+    lines.push(
+      "",
+      `Plus [General](${linkOf(general)}) — ${general.entries.length} extension${general.entries.length === 1 ? "" : "s"} that don't fit a topic yet.`,
+    );
+  }
+  if (nodes.some((n) => n.auto)) lines.push("", `*${AUTO_LEGEND}*`);
+  return lines;
+}
+
+/**
+ * Writes one platform×category slice organized by topical subcategory and
+ * grouped under the category's editorial sections. Small slices are one page
+ * with inline sections; above SPLIT_THRESHOLD each subcategory gets its own
+ * page behind a sectioned index.
  */
 function writeSection({ dirRel, title, category, entries, backLink, intro = [] }) {
   const sorted = [...entries].sort(byTitle);
@@ -233,20 +279,31 @@ function writeSection({ dirRel, title, category, entries, backLink, intro = [] }
 
   const bySub = groupBy(sorted, (e) => [classify(e, category)]);
   const subs = subcategoriesOf(category).filter((s) => bySub.has(s));
+  const nodes = subs.map((s) => ({
+    title: s,
+    slug: slugify(s),
+    auto: false,
+    entries: bySub.get(s),
+    children: [],
+  }));
 
   if (sorted.length <= SPLIT_THRESHOLD) {
-    const lines = [`# ${title}`, "", `${count} · ${backLink}`, ...intro, ""];
-    if (subs.length > 1) {
+    const lines = [`# ${title}`, "", `${count} · ${backLink}`, ...intro];
+    if (nodes.length > 1) {
+      const { sections, general } = sectionizeNodes(category, nodes);
+      const all = general ? [...sections, ["", [general]]] : sections;
       lines.push(
-        subs.map((s) => `[${s}](#${slugify(s)}) (${bySub.get(s).length})`).join(" · "),
         "",
+        nodes.map((n) => `[${n.title}](#${slugify(n.title)}) (${n.entries.length})`).join(" · "),
       );
-      for (const sub of subs) {
-        lines.push(`## ${sub}`, "", renderTable(bySub.get(sub)), "");
+      for (const [secTitle, list] of all) {
+        if (secTitle) lines.push("", `## ${secTitle}`);
+        for (const n of list) {
+          lines.push("", `### ${n.title}`, "", renderTable(n.entries));
+        }
       }
-      while (lines[lines.length - 1] === "") lines.pop();
     } else {
-      lines.push(renderTable(sorted));
+      lines.push("", renderTable(sorted));
     }
     writePage(`${dirRel}/README.md`, lines);
     return;
@@ -257,26 +314,20 @@ function writeSection({ dirRel, title, category, entries, backLink, intro = [] }
     "",
     `${count} · ${backLink}`,
     ...intro,
-    "",
-    "| Subcategory | Extensions |",
-    "| --- | --- |",
-    ...subs.map(
-      (s) => `| [${s}](./${slugify(s)}.md) | ${bySub.get(s).length} |`,
-    ),
+    ...sectionedTopicLines(category, nodes, (n) => `./${n.slug}.md`),
   ]);
-  for (const sub of subs) {
-    const items = bySub.get(sub);
-    const nav = subs
-      .map((s) => (s === sub ? `**${s}**` : `[${s}](./${slugify(s)}.md)`))
+  for (const node of nodes) {
+    const nav = nodes
+      .map((n) => (n === node ? `**${n.title}**` : `[${n.title}](./${n.slug}.md)`))
       .join(" · ");
-    writePage(`${dirRel}/${slugify(sub)}.md`, [
-      `# ${title} · ${sub}`,
+    writePage(`${dirRel}/${node.slug}.md`, [
+      `# ${title} · ${node.title}`,
       "",
       nav,
       "",
-      `${items.length} of ${count} · [← ${title}](./README.md)`,
+      `${node.entries.length} of ${count} · [← ${title}](./README.md)`,
       "",
-      renderTable(items),
+      renderTable(node.entries),
     ]);
   }
 }
@@ -556,20 +607,15 @@ function generateCatalog(entries) {
     const win = items.filter((e) => e.platforms.includes("Windows")).length;
     const tree = buildCategoryTree(items, cat);
     const dirRel = `categories/${slugify(cat)}`;
-    const childLinks = tree.map((n) => renderNode(n, dirRel, cat));
-    const lines = [
+    const linkOf = new Map(tree.map((n) => [n, renderNode(n, dirRel, cat)]));
+    writePage(`${dirRel}/README.md`, [
       `# ${cat}`,
       "",
       `${items.length} extension${items.length === 1 ? "" : "s"} · [← all categories](../README.md)`,
       "",
       `macOS: ${mac} · Windows: ${win}`,
-      "",
-      "| Topic | Extensions |",
-      "| --- | --- |",
-      ...tree.map((n, i) => `| [${nodeLabel(n)}](${childLinks[i]}) | ${n.entries.length} |`),
-    ];
-    if (tree.some((n) => n.auto)) lines.push("", `*${AUTO_LEGEND}*`);
-    writePage(`${dirRel}/README.md`, lines);
+      ...sectionedTopicLines(cat, tree, (n) => linkOf.get(n)),
+    ]);
   }
   writePage("categories/README.md", [
     "# Categories",

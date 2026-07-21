@@ -4,7 +4,26 @@
 
 [Crypto & Web3](#crypto-web3) (26) · [Stocks & Trading](#stocks-trading) (12) · [Currency & Exchange](#currency-exchange) (8) · [Business, Billing & Sales](#business-billing-sales) (23) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (6) · [Personal Finance & Budgeting](#personal-finance-budgeting) (19) · [General](#general) (28)
 
-## Crypto & Web3
+## Markets & Investing
+
+### Stocks & Trading
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Alpaca Trading](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) | Interact with your Alpaca trading account | stelo | macOS | [store](https://www.raycast.com/stelo/alpaca-trading) |
+| [Apple Stocks Search](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) | Apple Stocks Extension for Raycast with Autosuggestions | hayden_barnes | macOS | [store](https://www.raycast.com/hayden_barnes/apple-stocks-search) |
+| [Finary](https://github.com/raycast/extensions/tree/main/extensions/finary) | Fastest way to explore your Finary Portfolio & Investments. | jetaix | macOS | [store](https://www.raycast.com/jetaix/finary) |
+| [Google Finance](https://github.com/raycast/extensions/tree/main/extensions/google-finance) | Track stock prices powered by Google Finance | kyle_samani | macOS | [store](https://www.raycast.com/kyle_samani/google-finance) |
+| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
+| [Midas](https://github.com/raycast/extensions/tree/main/extensions/midas) | Midas is an AI Agent that manages on-chain trading, voting and more for you. | sunosuporno | macOS | [store](https://www.raycast.com/sunosuporno/midas) |
+| [Polymarket](https://github.com/raycast/extensions/tree/main/extensions/polymarket) | Search and view markets on Polymarket | Osprey | macOS | [store](https://www.raycast.com/Osprey/polymarket) |
+| [Position Size Calculator](https://github.com/raycast/extensions/tree/main/extensions/position-size-calculator) | The Position Size Calculator is a Raycast extension designed to help traders quickly and accurately determine the appropriate position size for their trades. I… | akhilesh_dalvi | macOS | [store](https://www.raycast.com/akhilesh_dalvi/position-size-calculator) |
+| [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
+| [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) | Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alp… | jones-sam | macOS | [store](https://www.raycast.com/jones-sam/stock-lookup) |
+| [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) | Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. | hmarr | macOS | [store](https://www.raycast.com/hmarr/stock-tracker) |
+| [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
+
+### Crypto & Web3
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -35,24 +54,7 @@
 | [Vortex](https://github.com/raycast/extensions/tree/main/extensions/vortex) | The fastest way to use bitcoin on macOS | saunter | macOS | [store](https://www.raycast.com/saunter/vortex) |
 | [Zerodha Portfolio (Kite+Coin)](https://github.com/raycast/extensions/tree/main/extensions/zerodha-portfolio-kite-coin) | View your zerodha kite and zerodha coin portfolio | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/zerodha-portfolio-kite-coin) |
 
-## Stocks & Trading
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Alpaca Trading](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) | Interact with your Alpaca trading account | stelo | macOS | [store](https://www.raycast.com/stelo/alpaca-trading) |
-| [Apple Stocks Search](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) | Apple Stocks Extension for Raycast with Autosuggestions | hayden_barnes | macOS | [store](https://www.raycast.com/hayden_barnes/apple-stocks-search) |
-| [Finary](https://github.com/raycast/extensions/tree/main/extensions/finary) | Fastest way to explore your Finary Portfolio & Investments. | jetaix | macOS | [store](https://www.raycast.com/jetaix/finary) |
-| [Google Finance](https://github.com/raycast/extensions/tree/main/extensions/google-finance) | Track stock prices powered by Google Finance | kyle_samani | macOS | [store](https://www.raycast.com/kyle_samani/google-finance) |
-| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
-| [Midas](https://github.com/raycast/extensions/tree/main/extensions/midas) | Midas is an AI Agent that manages on-chain trading, voting and more for you. | sunosuporno | macOS | [store](https://www.raycast.com/sunosuporno/midas) |
-| [Polymarket](https://github.com/raycast/extensions/tree/main/extensions/polymarket) | Search and view markets on Polymarket | Osprey | macOS | [store](https://www.raycast.com/Osprey/polymarket) |
-| [Position Size Calculator](https://github.com/raycast/extensions/tree/main/extensions/position-size-calculator) | The Position Size Calculator is a Raycast extension designed to help traders quickly and accurately determine the appropriate position size for their trades. I… | akhilesh_dalvi | macOS | [store](https://www.raycast.com/akhilesh_dalvi/position-size-calculator) |
-| [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
-| [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) | Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alp… | jones-sam | macOS | [store](https://www.raycast.com/jones-sam/stock-lookup) |
-| [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) | Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. | hmarr | macOS | [store](https://www.raycast.com/hmarr/stock-tracker) |
-| [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
-
-## Currency & Exchange
+### Currency & Exchange
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -65,7 +67,48 @@
 | [Wise Quotes](https://github.com/raycast/extensions/tree/main/extensions/wise-quotes) | Effortlessly calculate international money transfers between USD and any target currency using the Wise API. Instantly generate quotes, access exchange rates,… | hugoliconv | macOS | [store](https://www.raycast.com/hugoliconv/wise-quotes) |
 | [XPF to EUR Converter](https://github.com/raycast/extensions/tree/main/extensions/xpf-converter) | Convert Franc Pacifique (XPF) to Euros (EUR) with instant clipboard copy | vincent_perrot | macOS | [store](https://www.raycast.com/vincent_perrot/xpf-converter) |
 
-## Business, Billing & Sales
+## Money Management
+
+### Personal Finance & Budgeting
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) | Search BC Assessment properties by address. | martins | macOS, Windows | [store](https://www.raycast.com/martins/bcassessment) |
+| [Beancount Meta](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) | The more effecient Beancount Bookkeeping way | iwfan | macOS | [store](https://www.raycast.com/iwfan/beancount-meta) |
+| [Better Deal](https://github.com/raycast/extensions/tree/main/extensions/better-deal) | Calculates unit costs and tracks purchasing history to help you find the best deals. | juxtdesigncc | macOS | [store](https://www.raycast.com/juxtdesigncc/better-deal) |
+| [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) | Calculate the real cost of your camper van per day – track expenses, residual value, and yearly breakdown. | wdeu | macOS | [store](https://www.raycast.com/wdeu/camper-calc) |
+| [Cobalt Finance](https://github.com/raycast/extensions/tree/main/extensions/cobalt-finance) | Access your Cobalt finances from Raycast. | sriket_komali | macOS | [store](https://www.raycast.com/sriket_komali/cobalt-finance) |
+| [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) | Add transactions to your Ducat account | rahulchowdhury | macOS, Windows | [store](https://www.raycast.com/rahulchowdhury/ducat) |
+| [Firefly III](https://github.com/raycast/extensions/tree/main/extensions/firefly-iii) | A free and open source personal finance manager | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/firefly-iii) |
+| [Lunch Money](https://github.com/raycast/extensions/tree/main/extensions/lunchmoney) | Unofficial Lunch Money extension to manage your personal finances. | oppenheimer | macOS | [store](https://www.raycast.com/oppenheimer/lunchmoney) |
+| [Maybe](https://github.com/raycast/extensions/tree/main/extensions/maybe) | The personal finance app for everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/maybe) |
+| [MoneyLover](https://github.com/raycast/extensions/tree/main/extensions/moneylover) | MoneyLover is a personal finance app that helps you manage your money, budget, and track your spending. | lachero | macOS | [store](https://www.raycast.com/lachero/moneylover) |
+| [Moneytree](https://github.com/raycast/extensions/tree/main/extensions/moneytree) | View and manage your finances from Moneytree via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/moneytree) |
+| [Ozbargain Deals](https://github.com/raycast/extensions/tree/main/extensions/ozbargain-deals) | Your lightning-fast portal to the latest and hottest deals from OzBargain. Browse new bargains, check their popularity score, and jump straight to the deal or… | 55555 | macOS | [store](https://www.raycast.com/55555/ozbargain-deals) |
+| [Portuguese Tax Number](https://github.com/raycast/extensions/tree/main/extensions/nif-fresquinho) | Copy a new Portuguese Tax Number to the clipboard | poor666 | macOS | [store](https://www.raycast.com/poor666/nif-fresquinho) |
+| [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
+| [QuickFile](https://github.com/raycast/extensions/tree/main/extensions/quickfile) | Access your QuickFile account balances. | danielroe | macOS | [store](https://www.raycast.com/danielroe/quickfile) |
+| [Real Calc](https://github.com/raycast/extensions/tree/main/extensions/real-calc) | Update financial values based on various Brazilian price indices | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/real-calc) |
+| [Rewiser](https://github.com/raycast/extensions/tree/main/extensions/rewiser) | Track and manage your Rewiser transactions directly from Raycast | rewiser_io | macOS | [store](https://www.raycast.com/rewiser_io/rewiser) |
+| [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) | View the balances and add expenses to Splitwise | ilian | macOS | [store](https://www.raycast.com/ilian/splitwise) |
+| [Toncoin (TON) Price](https://github.com/raycast/extensions/tree/main/extensions/toncoin-price) | Keep an eye on Toncoin (TON) cryptocurrency price directly from your system menu bar | arthurn | macOS | [store](https://www.raycast.com/arthurn/toncoin-price) |
+
+### Banking & Payments
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
+| [CardPointers](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) | Search for any credit card details or Amex/Chase offer from the CardPointers database. | emcro | macOS | [store](https://www.raycast.com/emcro/cardpointers) |
+| [Loan Calculator](https://github.com/raycast/extensions/tree/main/extensions/loan-calculator) | Calculate loan payments with customizable terms and payment schedules | kylinwowo | macOS | [store](https://www.raycast.com/kylinwowo/loan-calculator) |
+| [Monse - Banking In Raycast](https://github.com/raycast/extensions/tree/main/extensions/monse) | Connect your bank account and see latest incomes, expenses, and details. | Falcon | macOS | [store](https://www.raycast.com/Falcon/monse) |
+| [Monzo](https://github.com/raycast/extensions/tree/main/extensions/monzo) | View your Monzo bank account balance and recent transactions. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/monzo) |
+| [VietQR Transfer Generator](https://github.com/raycast/extensions/tree/main/extensions/vietqr-transfer) | Quickly generate VietQR payment codes for Vietnamese banks with customizable templates, amounts, and descriptions. | annguyen | macOS, Windows | [store](https://www.raycast.com/annguyen/vietqr-transfer) |
+| [Wise Accounts](https://github.com/raycast/extensions/tree/main/extensions/wise-accounts) | View Wise Profiles, Balances, and Transactions | robsel118 | macOS | [store](https://www.raycast.com/robsel118/wise-accounts) |
+| [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) | A clear overview of your Wise balances in Raycast: spending, combined total and live rates. | jorgetoh | macOS, Windows | [store](https://www.raycast.com/jorgetoh/wise-lens) |
+
+## Business & Reference
+
+### Business, Billing & Sales
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -93,27 +136,7 @@
 | [Subwatch](https://github.com/raycast/extensions/tree/main/extensions/subwatch) | Turn subscription chaos into financial harmony | nirgn | macOS | [store](https://www.raycast.com/nirgn/subwatch) |
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
 
-## Banking & Payments
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
-| [CardPointers](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) | Search for any credit card details or Amex/Chase offer from the CardPointers database. | emcro | macOS | [store](https://www.raycast.com/emcro/cardpointers) |
-| [Loan Calculator](https://github.com/raycast/extensions/tree/main/extensions/loan-calculator) | Calculate loan payments with customizable terms and payment schedules | kylinwowo | macOS | [store](https://www.raycast.com/kylinwowo/loan-calculator) |
-| [Monse - Banking In Raycast](https://github.com/raycast/extensions/tree/main/extensions/monse) | Connect your bank account and see latest incomes, expenses, and details. | Falcon | macOS | [store](https://www.raycast.com/Falcon/monse) |
-| [Monzo](https://github.com/raycast/extensions/tree/main/extensions/monzo) | View your Monzo bank account balance and recent transactions. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/monzo) |
-| [VietQR Transfer Generator](https://github.com/raycast/extensions/tree/main/extensions/vietqr-transfer) | Quickly generate VietQR payment codes for Vietnamese banks with customizable templates, amounts, and descriptions. | annguyen | macOS, Windows | [store](https://www.raycast.com/annguyen/vietqr-transfer) |
-| [Wise Accounts](https://github.com/raycast/extensions/tree/main/extensions/wise-accounts) | View Wise Profiles, Balances, and Transactions | robsel118 | macOS | [store](https://www.raycast.com/robsel118/wise-accounts) |
-| [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) | A clear overview of your Wise balances in Raycast: spending, combined total and live rates. | jorgetoh | macOS, Windows | [store](https://www.raycast.com/jorgetoh/wise-lens) |
-
-## Energy & Utility Prices
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Nordic Energy Prices](https://github.com/raycast/extensions/tree/main/extensions/nordic-energy-prices) | Get today's energy prices in the Nordic countries (Denmark, Sweden, Norway, Finland) | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/nordic-energy-prices) |
-| [Octopus Energy](https://github.com/raycast/extensions/tree/main/extensions/octopus-energy) | Retrieve up-to-date Agile tariff prices for your region | mike182uk | macOS | [store](https://www.raycast.com/mike182uk/octopus-energy) |
-
-## Regional & Company Lookups
+### Regional & Company Lookups
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -124,31 +147,14 @@
 | [VAT Calculator](https://github.com/raycast/extensions/tree/main/extensions/vat-calculator) | Quickly calculates the VAT of a given value. By default, uses 16%, but the percentage can be adjusted. You can input either a number or an equation | justiniscoding | macOS | [store](https://www.raycast.com/justiniscoding/vat-calculator) |
 | [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) | A Raycast extension that looks up companies in the Swiss national trade register | cmdr | macOS | [store](https://www.raycast.com/cmdr/zefix) |
 
-## Personal Finance & Budgeting
+### Energy & Utility Prices
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
-| [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) | Search BC Assessment properties by address. | martins | macOS, Windows | [store](https://www.raycast.com/martins/bcassessment) |
-| [Beancount Meta](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) | The more effecient Beancount Bookkeeping way | iwfan | macOS | [store](https://www.raycast.com/iwfan/beancount-meta) |
-| [Better Deal](https://github.com/raycast/extensions/tree/main/extensions/better-deal) | Calculates unit costs and tracks purchasing history to help you find the best deals. | juxtdesigncc | macOS | [store](https://www.raycast.com/juxtdesigncc/better-deal) |
-| [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) | Calculate the real cost of your camper van per day – track expenses, residual value, and yearly breakdown. | wdeu | macOS | [store](https://www.raycast.com/wdeu/camper-calc) |
-| [Cobalt Finance](https://github.com/raycast/extensions/tree/main/extensions/cobalt-finance) | Access your Cobalt finances from Raycast. | sriket_komali | macOS | [store](https://www.raycast.com/sriket_komali/cobalt-finance) |
-| [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) | Add transactions to your Ducat account | rahulchowdhury | macOS, Windows | [store](https://www.raycast.com/rahulchowdhury/ducat) |
-| [Firefly III](https://github.com/raycast/extensions/tree/main/extensions/firefly-iii) | A free and open source personal finance manager | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/firefly-iii) |
-| [Lunch Money](https://github.com/raycast/extensions/tree/main/extensions/lunchmoney) | Unofficial Lunch Money extension to manage your personal finances. | oppenheimer | macOS | [store](https://www.raycast.com/oppenheimer/lunchmoney) |
-| [Maybe](https://github.com/raycast/extensions/tree/main/extensions/maybe) | The personal finance app for everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/maybe) |
-| [MoneyLover](https://github.com/raycast/extensions/tree/main/extensions/moneylover) | MoneyLover is a personal finance app that helps you manage your money, budget, and track your spending. | lachero | macOS | [store](https://www.raycast.com/lachero/moneylover) |
-| [Moneytree](https://github.com/raycast/extensions/tree/main/extensions/moneytree) | View and manage your finances from Moneytree via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/moneytree) |
-| [Ozbargain Deals](https://github.com/raycast/extensions/tree/main/extensions/ozbargain-deals) | Your lightning-fast portal to the latest and hottest deals from OzBargain. Browse new bargains, check their popularity score, and jump straight to the deal or… | 55555 | macOS | [store](https://www.raycast.com/55555/ozbargain-deals) |
-| [Portuguese Tax Number](https://github.com/raycast/extensions/tree/main/extensions/nif-fresquinho) | Copy a new Portuguese Tax Number to the clipboard | poor666 | macOS | [store](https://www.raycast.com/poor666/nif-fresquinho) |
-| [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
-| [QuickFile](https://github.com/raycast/extensions/tree/main/extensions/quickfile) | Access your QuickFile account balances. | danielroe | macOS | [store](https://www.raycast.com/danielroe/quickfile) |
-| [Real Calc](https://github.com/raycast/extensions/tree/main/extensions/real-calc) | Update financial values based on various Brazilian price indices | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/real-calc) |
-| [Rewiser](https://github.com/raycast/extensions/tree/main/extensions/rewiser) | Track and manage your Rewiser transactions directly from Raycast | rewiser_io | macOS | [store](https://www.raycast.com/rewiser_io/rewiser) |
-| [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) | View the balances and add expenses to Splitwise | ilian | macOS | [store](https://www.raycast.com/ilian/splitwise) |
-| [Toncoin (TON) Price](https://github.com/raycast/extensions/tree/main/extensions/toncoin-price) | Keep an eye on Toncoin (TON) cryptocurrency price directly from your system menu bar | arthurn | macOS | [store](https://www.raycast.com/arthurn/toncoin-price) |
+| [Nordic Energy Prices](https://github.com/raycast/extensions/tree/main/extensions/nordic-energy-prices) | Get today's energy prices in the Nordic countries (Denmark, Sweden, Norway, Finland) | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/nordic-energy-prices) |
+| [Octopus Energy](https://github.com/raycast/extensions/tree/main/extensions/octopus-energy) | Retrieve up-to-date Agile tariff prices for your region | mike182uk | macOS | [store](https://www.raycast.com/mike182uk/octopus-energy) |
 
-## General
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

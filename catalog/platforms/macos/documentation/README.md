@@ -4,7 +4,9 @@
 
 [Language References](#language-references) (6) · [Framework & Library Docs](#framework-library-docs) (20) · [Cheatsheets & Snippets](#cheatsheets-snippets) (19) · [Developer References](#developer-references) (16) · [Wikis & Knowledge Bases](#wikis-knowledge-bases) (49) · [Communities & Blogs](#communities-blogs) (3) · [Dictionaries & Language](#dictionaries-language) (6) · [General](#general) (59)
 
-## Language References
+## Programming Docs
+
+### Language References
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -15,7 +17,7 @@
 | [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
 | [TypeScript Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/typescript-documentation-search) | Search in TypeScript Documentation | chezhe | macOS | [store](https://www.raycast.com/chezhe/typescript-documentation-search) |
 
-## Framework & Library Docs
+### Framework & Library Docs
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -40,7 +42,30 @@
 | [Vue Router Docs](https://github.com/raycast/extensions/tree/main/extensions/vue-router-docs) | Quickly search Vue Router docs from Raycast | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vue-router-docs) |
 | [Vuetify Docs](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) | Search all Vuetify components and open the official documentation directly from Raycast. | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vuetify-docs) |
 
-## Cheatsheets & Snippets
+### Developer References
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [.NET API Browser](https://github.com/raycast/extensions/tree/main/extensions/dotnet-api-browser) | Quickly search the .NET API catalog. | vcsjones | macOS | [store](https://www.raycast.com/vcsjones/dotnet-api-browser) |
+| [.NET Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) | Search .NET API documentation. | huseyint | macOS | [store](https://www.raycast.com/huseyint/dotnet-docs-search) |
+| [Affine](https://github.com/raycast/extensions/tree/main/extensions/affine-raycast) | Search and open AFFiNE workspaces and documents from Raycast. Uses AFFiNE GraphQL API. | yassine_souilmi | macOS | [store](https://www.raycast.com/yassine_souilmi/affine) |
+| [Cache-Control Builder](https://github.com/raycast/extensions/tree/main/extensions/cache-control-builder) | Build a HTTP Cache-Control response header | rkusa | macOS | [store](https://www.raycast.com/rkusa/cache-control-builder) |
+| [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) | Search CoCart API documentation quickly, copy URLs, or open them in your browser. | cocart_headless | macOS, Windows | [store](https://www.raycast.com/cocart_headless/cocart-docs) |
+| [DevDocs](https://github.com/raycast/extensions/tree/main/extensions/devdocs) | Search through DevDocs documentation sets from Raycast. | djpowers | macOS, Windows | [store](https://www.raycast.com/djpowers/devdocs) |
+| [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
+| [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [Inkeep](https://github.com/raycast/extensions/tree/main/extensions/inkeep) | Interact with Inkeep Completions API to get AI-powered answers from your knowledge base. | marcklingen | macOS | [store](https://www.raycast.com/marcklingen/inkeep) |
+| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
+| [Man Pages](https://github.com/raycast/extensions/tree/main/extensions/man-pages) | Search through the macOS man pages | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/man-pages) |
+| [mittwald](https://github.com/raycast/extensions/tree/main/extensions/mittwald) | Search mittwald mStudio and API documentation. | danieldeichfuss | macOS | [store](https://www.raycast.com/danieldeichfuss/mittwald) |
+| [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) | Quickly find the docs you need for the Planning Center API. | thomas.harmond | macOS, Windows | [store](https://www.raycast.com/thomas.harmond/planning-center-api-docs) |
+| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
+| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
+
+## Quick Reference
+
+### Cheatsheets & Snippets
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -64,28 +89,20 @@
 | [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
 | [WordPress Docs](https://github.com/raycast/extensions/tree/main/extensions/wordpress-docs) | Search the WordPress code reference. | tillkruss | macOS | [store](https://www.raycast.com/tillkruss/wordpress-docs) |
 
-## Developer References
+### Dictionaries & Language
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
-| [.NET API Browser](https://github.com/raycast/extensions/tree/main/extensions/dotnet-api-browser) | Quickly search the .NET API catalog. | vcsjones | macOS | [store](https://www.raycast.com/vcsjones/dotnet-api-browser) |
-| [.NET Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) | Search .NET API documentation. | huseyint | macOS | [store](https://www.raycast.com/huseyint/dotnet-docs-search) |
-| [Affine](https://github.com/raycast/extensions/tree/main/extensions/affine-raycast) | Search and open AFFiNE workspaces and documents from Raycast. Uses AFFiNE GraphQL API. | yassine_souilmi | macOS | [store](https://www.raycast.com/yassine_souilmi/affine) |
-| [Cache-Control Builder](https://github.com/raycast/extensions/tree/main/extensions/cache-control-builder) | Build a HTTP Cache-Control response header | rkusa | macOS | [store](https://www.raycast.com/rkusa/cache-control-builder) |
-| [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) | Search CoCart API documentation quickly, copy URLs, or open them in your browser. | cocart_headless | macOS, Windows | [store](https://www.raycast.com/cocart_headless/cocart-docs) |
-| [DevDocs](https://github.com/raycast/extensions/tree/main/extensions/devdocs) | Search through DevDocs documentation sets from Raycast. | djpowers | macOS, Windows | [store](https://www.raycast.com/djpowers/devdocs) |
-| [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
-| [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
-| [Inkeep](https://github.com/raycast/extensions/tree/main/extensions/inkeep) | Interact with Inkeep Completions API to get AI-powered answers from your knowledge base. | marcklingen | macOS | [store](https://www.raycast.com/marcklingen/inkeep) |
-| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
-| [Man Pages](https://github.com/raycast/extensions/tree/main/extensions/man-pages) | Search through the macOS man pages | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/man-pages) |
-| [mittwald](https://github.com/raycast/extensions/tree/main/extensions/mittwald) | Search mittwald mStudio and API documentation. | danieldeichfuss | macOS | [store](https://www.raycast.com/danieldeichfuss/mittwald) |
-| [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) | Quickly find the docs you need for the Planning Center API. | thomas.harmond | macOS, Windows | [store](https://www.raycast.com/thomas.harmond/planning-center-api-docs) |
-| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
-| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
+| [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
+| [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
+| [Duden](https://github.com/raycast/extensions/tree/main/extensions/duden) | Search German words on Duden.de dictionary | c76b7srxxm | macOS, Windows | [store](https://www.raycast.com/c76b7srxxm/duden) |
+| [Mandarin Chinese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) | Mandarin Chinese Dictionary | CofCat | macOS | [store](https://www.raycast.com/CofCat/mandarin-chinese-dictionary) |
+| [Oxford Collocation Dictionary](https://github.com/raycast/extensions/tree/main/extensions/oxford-collocation-dictionary) | Query the Online Oxford Colocation Dictionary and display it's data | guilhermevictor | macOS | [store](https://www.raycast.com/guilhermevictor/oxford-collocation-dictionary) |
+| [Xiaohe Query](https://github.com/raycast/extensions/tree/main/extensions/xiaohe-query) | Query Xiaohe (Flypy) codes and decomposition for a single Chinese character. | dongqing | macOS | [store](https://www.raycast.com/dongqing/xiaohe-query) |
 
-## Wikis & Knowledge Bases
+## Knowledge & Community
+
+### Wikis & Knowledge Bases
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -139,7 +156,7 @@
 | [WebKit Developer Documentation](https://github.com/raycast/extensions/tree/main/extensions/webkit-developer-docs) | Search and view WebKit docs | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/webkit-developer-docs) |
 | [Zod Docs](https://github.com/raycast/extensions/tree/main/extensions/zod-documentation) | Search Zod docs and open in the browser | danieldeichfuss | macOS | [store](https://www.raycast.com/danieldeichfuss/zod-documentation) |
 
-## Communities & Blogs
+### Communities & Blogs
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -147,18 +164,7 @@
 | [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 
-## Dictionaries & Language
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
-| [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
-| [Duden](https://github.com/raycast/extensions/tree/main/extensions/duden) | Search German words on Duden.de dictionary | c76b7srxxm | macOS, Windows | [store](https://www.raycast.com/c76b7srxxm/duden) |
-| [Mandarin Chinese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) | Mandarin Chinese Dictionary | CofCat | macOS | [store](https://www.raycast.com/CofCat/mandarin-chinese-dictionary) |
-| [Oxford Collocation Dictionary](https://github.com/raycast/extensions/tree/main/extensions/oxford-collocation-dictionary) | Query the Online Oxford Colocation Dictionary and display it's data | guilhermevictor | macOS | [store](https://www.raycast.com/guilhermevictor/oxford-collocation-dictionary) |
-| [Xiaohe Query](https://github.com/raycast/extensions/tree/main/extensions/xiaohe-query) | Query Xiaohe (Flypy) codes and decomposition for a single Chinese character. | dongqing | macOS | [store](https://www.raycast.com/dongqing/xiaohe-query) |
-
-## General
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

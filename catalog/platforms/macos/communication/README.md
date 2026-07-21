@@ -4,7 +4,9 @@
 
 [Messaging & Chat](#messaging-chat) (26) · [Video Calls & Meetings](#video-calls-meetings) (12) · [Email](#email) (20) · [Social & Fediverse](#social-fediverse) (9) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (5) · [General](#general) (49)
 
-## Messaging & Chat
+## Conversations
+
+### Messaging & Chat
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -35,7 +37,7 @@
 | [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
 
-## Video Calls & Meetings
+### Video Calls & Meetings
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -52,7 +54,7 @@
 | [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |
 
-## Email
+### Email
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -77,7 +79,9 @@
 | [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [Zero](https://github.com/raycast/extensions/tree/main/extensions/zero) | 0.email extension for Raycast | jlokos | macOS | [store](https://www.raycast.com/jlokos/zero) |
 
-## Social & Fediverse
+## Social & Sharing
+
+### Social & Fediverse
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -91,41 +95,7 @@
 | [Raycaster](https://github.com/raycast/extensions/tree/main/extensions/raycaster) | Send casts to Farcaster from Raycast | stevedylandev | macOS | [store](https://www.raycast.com/stevedylandev/raycaster) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
 
-## Customer Support & CRM
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Chatbase](https://github.com/raycast/extensions/tree/main/extensions/chatbase) | AI agents for magical customer experiences | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/chatbase) |
-| [Chatwoot](https://github.com/raycast/extensions/tree/main/extensions/chatwoot) | The modern, open source, self-hosted customer support platform | xmok | macOS | [store](https://www.raycast.com/xmok/chatwoot) |
-| [Crisp](https://github.com/raycast/extensions/tree/main/extensions/crisp) | Manage Crisp conversations quickly, all websites conversations in one place | xmorse | macOS | [store](https://www.raycast.com/xmorse/crisp) |
-
-## Notifications & Push
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Lemmy](https://github.com/raycast/extensions/tree/main/extensions/lemmy) | Lightly browse your Lemmy communities and notifications. | http.james | macOS | [store](https://www.raycast.com/http.james/lemmy) |
-| [Nibit](https://github.com/raycast/extensions/tree/main/extensions/nibit) | Push to and from your Android phone with Nibit, a Raycast-style productivity layer. | jfox | macOS | [store](https://www.raycast.com/jfox/nibit) |
-| [Ntfy](https://github.com/raycast/extensions/tree/main/extensions/ntfy) | Send notifications to your devices using ntfy.sh | wesleycoder | macOS | [store](https://www.raycast.com/wesleycoder/ntfy) |
-
-## Contacts & People
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [BambooHR](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) | Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. | Rob | Windows, macOS | [store](https://www.raycast.com/Rob/bamboohr) |
-| [Bento](https://github.com/raycast/extensions/tree/main/extensions/bento-me) | Access a Bento profile. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/bento-me) |
-| [Google Contacts](https://github.com/raycast/extensions/tree/main/extensions/google-contacts) | Browse, search, and manage your Google Contacts directly from Raycast — create, edit, delete, and action contacts without leaving your keyboard. | aic | macOS, Windows | [store](https://www.raycast.com/aic/google-contacts) |
-| [HubSpot](https://github.com/raycast/extensions/tree/main/extensions/hubspot) | Search Hubspot Contacts, Companies and Deals | harisvsulaiman | macOS | [store](https://www.raycast.com/harisvsulaiman/hubspot) |
-
-## Language & Dictionaries
-
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Chinese Character](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) | Chinese character conversion tools. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/chinese-character) |
-| [Dutch Article (Het of De)](https://github.com/raycast/extensions/tree/main/extensions/dutch-article) | Look up whether a Dutch word uses 'het' or 'de' as its article | ahmeed83 | macOS | [store](https://www.raycast.com/ahmeed83/dutch-article) |
-| [Pronounce the Word](https://github.com/raycast/extensions/tree/main/extensions/pronounce-the-word) | Learn to pronounce any word you type | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/pronounce-the-word) |
-| [RAE Dictionary](https://github.com/raycast/extensions/tree/main/extensions/rae-dictionary-raycast) | Query words in the Royal Spanish Academy dictionary directly from Raycast. Get definitions, conjugations, and expressions quickly without opening a browser. Us… | sonirico | macOS | [store](https://www.raycast.com/sonirico/rae-dictionary-raycast) |
-
-## Links & Sharing
+### Links & Sharing
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -135,7 +105,43 @@
 | [Share My Code](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) | Quickly create shareable code snippet with ShareMyCode directly in your Raycast ecosystem. | jairaume | macOS | [store](https://www.raycast.com/jairaume/share-my-code) |
 | [UTM Campaign Builder](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) | Create a campaign URL with UTM attributes | vimtor | macOS | [store](https://www.raycast.com/vimtor/utm-campaign-builder) |
 
-## General
+### Notifications & Push
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Lemmy](https://github.com/raycast/extensions/tree/main/extensions/lemmy) | Lightly browse your Lemmy communities and notifications. | http.james | macOS | [store](https://www.raycast.com/http.james/lemmy) |
+| [Nibit](https://github.com/raycast/extensions/tree/main/extensions/nibit) | Push to and from your Android phone with Nibit, a Raycast-style productivity layer. | jfox | macOS | [store](https://www.raycast.com/jfox/nibit) |
+| [Ntfy](https://github.com/raycast/extensions/tree/main/extensions/ntfy) | Send notifications to your devices using ntfy.sh | wesleycoder | macOS | [store](https://www.raycast.com/wesleycoder/ntfy) |
+
+## People & Support
+
+### Contacts & People
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [BambooHR](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) | Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. | Rob | Windows, macOS | [store](https://www.raycast.com/Rob/bamboohr) |
+| [Bento](https://github.com/raycast/extensions/tree/main/extensions/bento-me) | Access a Bento profile. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/bento-me) |
+| [Google Contacts](https://github.com/raycast/extensions/tree/main/extensions/google-contacts) | Browse, search, and manage your Google Contacts directly from Raycast — create, edit, delete, and action contacts without leaving your keyboard. | aic | macOS, Windows | [store](https://www.raycast.com/aic/google-contacts) |
+| [HubSpot](https://github.com/raycast/extensions/tree/main/extensions/hubspot) | Search Hubspot Contacts, Companies and Deals | harisvsulaiman | macOS | [store](https://www.raycast.com/harisvsulaiman/hubspot) |
+
+### Customer Support & CRM
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Chatbase](https://github.com/raycast/extensions/tree/main/extensions/chatbase) | AI agents for magical customer experiences | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/chatbase) |
+| [Chatwoot](https://github.com/raycast/extensions/tree/main/extensions/chatwoot) | The modern, open source, self-hosted customer support platform | xmok | macOS | [store](https://www.raycast.com/xmok/chatwoot) |
+| [Crisp](https://github.com/raycast/extensions/tree/main/extensions/crisp) | Manage Crisp conversations quickly, all websites conversations in one place | xmorse | macOS | [store](https://www.raycast.com/xmorse/crisp) |
+
+### Language & Dictionaries
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Chinese Character](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) | Chinese character conversion tools. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/chinese-character) |
+| [Dutch Article (Het of De)](https://github.com/raycast/extensions/tree/main/extensions/dutch-article) | Look up whether a Dutch word uses 'het' or 'de' as its article | ahmeed83 | macOS | [store](https://www.raycast.com/ahmeed83/dutch-article) |
+| [Pronounce the Word](https://github.com/raycast/extensions/tree/main/extensions/pronounce-the-word) | Learn to pronounce any word you type | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/pronounce-the-word) |
+| [RAE Dictionary](https://github.com/raycast/extensions/tree/main/extensions/rae-dictionary-raycast) | Query words in the Royal Spanish Academy dictionary directly from Raycast. Get definitions, conjugations, and expressions quickly without opening a browser. Us… | sonirico | macOS | [store](https://www.raycast.com/sonirico/rae-dictionary-raycast) |
+
+### General
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
