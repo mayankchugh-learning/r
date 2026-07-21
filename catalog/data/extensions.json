@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e707426b13d12f9cc171559cbf00163ca63bf405",
-  "generatedAt": "2026-07-21T11:40:17.906Z",
+  "commit": "c3fcc8dae82df61b27d5e508c20fd6d0c183097b",
+  "generatedAt": "2026-07-21T13:10:00.231Z",
   "count": 3082,
   "extensions": [
     {
@@ -41929,7 +41929,7 @@
       ],
       "store": "https://www.raycast.com/alfredmouelle/remo-notes",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/remo-notes",
-      "treeSha": "a55ba36f088b2158eab93b14500eaa6ac5b3efc7"
+      "treeSha": "a0027d205b520261cf187f151866ca9e7dc1e055"
     },
     {
       "dir": "remote-desktop",
@@ -49536,7 +49536,7 @@
       ],
       "store": "https://www.raycast.com/lamberttraccard/teleport",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/teleport",
-      "treeSha": "5f76843e3ef19ae911604d865bb227004c79ccfa"
+      "treeSha": "be279cda221ef71331aa69a5f035a755830b2134"
     },
     {
       "dir": "tella",

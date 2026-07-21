@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-21 — upstream `c3fcc8dae8`
+
+**Updated (2):** [Remo](https://github.com/raycast/extensions/tree/main/extensions/remo-notes), [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport)
+
 ## 2026-07-21 — upstream `e707426b13`
 
 **Added (2):** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi), [Mailto Link Generator](https://github.com/raycast/extensions/tree/main/extensions/mailto-link-generator)
