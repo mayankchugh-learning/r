@@ -1,8 +1,6 @@
-# System · Network
+# Network
 
-[Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · **Network** · [Defaults & Services](./defaults-services.md) · [General](./general.md)
-
-12 of 215 extensions · [← System](./README.md)
+12 extensions · [← System](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

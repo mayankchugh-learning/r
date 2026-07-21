@@ -1,0 +1,12 @@
+# Dictionaries & Language
+
+6 extensions · [← Documentation](./README.md)
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
+| [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
+| [Duden](https://github.com/raycast/extensions/tree/main/extensions/duden) | Search German words on Duden.de dictionary | c76b7srxxm | macOS, Windows | [store](https://www.raycast.com/c76b7srxxm/duden) |
+| [Mandarin Chinese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) | Mandarin Chinese Dictionary | CofCat | macOS | [store](https://www.raycast.com/CofCat/mandarin-chinese-dictionary) |
+| [Oxford Collocation Dictionary](https://github.com/raycast/extensions/tree/main/extensions/oxford-collocation-dictionary) | Query the Online Oxford Colocation Dictionary and display it's data | guilhermevictor | macOS | [store](https://www.raycast.com/guilhermevictor/oxford-collocation-dictionary) |
+| [Xiaohe Query](https://github.com/raycast/extensions/tree/main/extensions/xiaohe-query) | Query Xiaohe (Flypy) codes and decomposition for a single Chinese character. | dongqing | macOS | [store](https://www.raycast.com/dongqing/xiaohe-query) |

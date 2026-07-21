@@ -1,8 +1,6 @@
-# Web · Bookmarks & Read Later
+# Bookmarks & Read Later
 
-[AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · **Bookmarks & Read Later** · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
-
-6 of 423 extensions · [← Web](./README.md)
+6 extensions · [← Web](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

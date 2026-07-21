@@ -1,8 +1,6 @@
-# Data · General
+# General
 
-[Converters & Encoders](./converters-encoders.md) · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · [APIs & Scraping](./apis-scraping.md) · [Lookups & References](./lookups-references.md) · **General**
-
-62 of 235 extensions · [← Data](./README.md)
+57 extensions · [← Data](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -19,7 +17,6 @@
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [Lightshot Gallery](https://github.com/raycast/extensions/tree/main/extensions/lightshot-gallery) | Easily access your Lightshot gallery | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/lightshot-gallery) |
 | [List Randomizer](https://github.com/raycast/extensions/tree/main/extensions/list-randomizer) | Randomizes a list of items | quuu | macOS | [store](https://www.raycast.com/quuu/list-randomizer) |
-| [LobeHub Icons](https://github.com/raycast/extensions/tree/main/extensions/lobehub-icons) | Popular AI / LLM Model Brand SVG Logo and Icon Collection | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/lobehub-icons) |
 | [M3O](https://github.com/raycast/extensions/tree/main/extensions/m3o) | Explore, discover and consume public APIs as simpler programmable building blocks. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/m3o) |
 | [Mikrus](https://github.com/raycast/extensions/tree/main/extensions/mikrus) | Integration with mikr.us | tkowalski29 | macOS | [store](https://www.raycast.com/tkowalski29/mikrus) |
 | [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) | Generate Minion Ipsum like: Minions ipsum hahaha wiiiii gelatooo poopayee aaaaaah. | vigosan | macOS | [store](https://www.raycast.com/vigosan/minion-ipsum) |
@@ -38,11 +35,8 @@
 | [Portuguese Tax Number](https://github.com/raycast/extensions/tree/main/extensions/nif-fresquinho) | Copy a new Portuguese Tax Number to the clipboard | poor666 | macOS | [store](https://www.raycast.com/poor666/nif-fresquinho) |
 | [Potter DB](https://github.com/raycast/extensions/tree/main/extensions/potter-db) | Dive into the magical world of Harry Potter via Potter DB. | xmok | macOS | [store](https://www.raycast.com/xmok/potter-db) |
 | [PrivateBin](https://github.com/raycast/extensions/tree/main/extensions/privatebin) | Share sensitive data using a PrivateBin web service | sedlacek-martin | macOS | [store](https://www.raycast.com/sedlacek-martin/privatebin) |
-| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
-| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
 | [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) | Run qalc calculator with Raycast | vlad2305m | macOS | [store](https://www.raycast.com/vlad2305m/qalc) |
 | [Ratio Calculator](https://github.com/raycast/extensions/tree/main/extensions/ratio-calculator) | A calculator for quickly calculating ratios/proportions. Replace multiple values on one side with variables such as x or y. Example syntax: "1:2 = x:4" outputs… | justiniscoding | macOS | [store](https://www.raycast.com/justiniscoding/ratio-calculator) |
-| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
 | [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |
 | [Retrac](https://github.com/raycast/extensions/tree/main/extensions/retrac) | Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast. | adi_amar | macOS | [store](https://www.raycast.com/adi_amar/retrac) |
 | [Running Page](https://github.com/raycast/extensions/tree/main/extensions/running-page) | running_page project extension | Lemon | macOS | [store](https://www.raycast.com/Lemon/running-page) |
@@ -59,7 +53,6 @@
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
 | [Turkish Identification Number Generator](https://github.com/raycast/extensions/tree/main/extensions/tc-no-generator) | Generate Turkish Identification Number and copy to clipboard | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/tc-no-generator) |
 | [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman) | View your Ultrahuman Ring data | joshmillgate | macOS | [store](https://www.raycast.com/joshmillgate/ultrahuman) |
-| [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
 | [Umami](https://github.com/raycast/extensions/tree/main/extensions/umami) | The modern analytics platform for effortless insights | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/umami) |
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |

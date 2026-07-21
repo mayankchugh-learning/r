@@ -4,7 +4,7 @@
 
 macOS: 252 · Windows: 74
 
-| Subcategory | Extensions |
+| Topic | Extensions |
 | --- | --- |
 | [Games & Gaming](./games-gaming.md) | 38 |
 | [AI & Generative Fun](./ai-generative-fun.md) | 16 |
@@ -18,4 +18,7 @@ macOS: 252 · Windows: 74
 | [Nature & Exploration](./nature-exploration.md) | 5 |
 | [Wallpapers & Effects](./wallpapers-effects.md) | 7 |
 | [Food & Drink](./food-drink.md) | 7 |
-| [General](./general.md) | 99 |
+| [Cards ✦](./cards.md) | 4 |
+| [General](./general.md) | 95 |
+
+*✦ auto-discovered topic group*

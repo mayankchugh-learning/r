@@ -46,9 +46,16 @@ const UPSTREAM_URL = "https://github.com/raycast/extensions";
 const SOURCE_BASE = "https://github.com/raycast/extensions/tree/main/extensions";
 const STORE_BASE = "https://www.raycast.com";
 
-// Category sections larger than this get one page per subcategory instead of
-// inline subcategory sections on a single page.
+// Sections larger than this get one page per subcategory instead of inline
+// subcategory sections on a single page.
 const SPLIT_THRESHOLD = 200;
+// Groups larger than this are split further by auto-discovered topic mining,
+// recursively, until groups are small enough or no coherent terms remain.
+const LEAF_SPLIT = 60;
+// Auto-discovered groups need at least this many members.
+const MIN_GROUP = 4;
+const MAX_GROUPS = 15;
+const MAX_DEPTH = 5;
 
 const args = new Set(process.argv.slice(2));
 const FORCE = args.has("--force");
@@ -276,6 +283,228 @@ function writeSection({ dirRel, title, category, entries, backLink, intro = [] }
   }
 }
 
+// --- Auto-discovered topic mining ------------------------------------------
+// Deterministically finds frequent terms (unigrams/bigrams of title +
+// description) among a set of extensions and groups them by the most common
+// term, first match wins. Used to promote emergent topics out of "General"
+// and to split any oversized group into deeper levels.
+
+const MINE_STOPWORDS = new Set(
+  `a an and are as at be been before best both browse browser by can check
+  checks click com control convert copy create created currently custom data
+  different direct directly display do does done down easily easy each edit
+  enable enables every extension extensions extention fast fastest favorite
+  favorites few file files find first for free from fully get gets give gives
+  has have help helps here how in info information inside instantly integrate
+  integration interact into is it item items its just keep keeps last latest
+  launch less let lets like list lists look looking mac macos made make makes
+  manage management many menu more most much multiple my need needs new no
+  not now of official on one only open opens or osx other our out over own
+  paste per plugin popular powerful quick quickly raycast read right run runs
+  search searches see select selected set sets show shows simple so some
+  status straight support supported supports switch than that the their them
+  then these they things this those through to today toolbar tool tools track
+  tracking two under unofficial up update updates us use used user users using
+  various very via view views want way we what when where which while will
+  with within without workspace workspaces you your yourself
+  access account accounts action actions add adds all allow allows also any
+  app application applications apps available client companion command
+  commands content current directly enabled feature features functionality
+  generate generator generators right specific using wrapper
+  project projects manager managers inspect time text word words link links
+  name names number numbers save saves saving`
+    .split(/\s+/)
+    .filter(Boolean),
+);
+const MINE_SHORT_OK = new Set(["ai", "3d", "2fa", "qr", "tv"]);
+const MINE_ACRONYMS = new Set(
+  "ai api css html sql dns llm cli ide iot gif qr 2fa 3d tv vpn ssh seo ocr rss nft gpt url pdf npm ios sdk cdn mcp obs nba nfl mlb ffmpeg".split(" "),
+);
+
+function mineTokenOk(t) {
+  if (MINE_STOPWORDS.has(t)) return false;
+  if (/^\d+$/.test(t)) return false;
+  return t.length >= 3 || MINE_SHORT_OK.has(t);
+}
+
+// Merge singular/plural surface forms ("server"/"servers") into one term.
+function mineCanonOf(t) {
+  if (t.length > 3 && t.endsWith("s") && !/(ss|us|is)$/.test(t)) return t.slice(0, -1);
+  return t;
+}
+
+function mineTermsOf(entry, surfaces) {
+  const raw = `${entry.title} ${entry.description}`
+    .toLowerCase()
+    .split(/[^a-z0-9+#]+/)
+    .filter(Boolean);
+  const terms = new Set();
+  const seen = (canon, surface) => {
+    terms.add(canon);
+    if (!surfaces.has(canon)) surfaces.set(canon, new Map());
+    const m = surfaces.get(canon);
+    m.set(surface, (m.get(surface) || 0) + 1);
+  };
+  for (let i = 0; i < raw.length; i++) {
+    if (!mineTokenOk(raw[i])) continue;
+    seen(mineCanonOf(raw[i]), raw[i]);
+    if (i + 1 < raw.length && mineTokenOk(raw[i + 1])) {
+      seen(`${mineCanonOf(raw[i])} ${mineCanonOf(raw[i + 1])}`, `${raw[i]} ${raw[i + 1]}`);
+    }
+  }
+  return terms;
+}
+
+function mineTitle(term) {
+  return term
+    .split(" ")
+    .map((w) => (MINE_ACRONYMS.has(w) ? w.toUpperCase() : w[0].toUpperCase() + w.slice(1)))
+    .join(" ");
+}
+
+function mineGroups(entries, usedSlugs) {
+  const surfaces = new Map();
+  const termSets = new Map(entries.map((e) => [e, mineTermsOf(e, surfaces)]));
+  const df = new Map();
+  for (const terms of termSets.values()) {
+    for (const t of terms) df.set(t, (df.get(t) || 0) + 1);
+  }
+  const candidates = [...df.entries()]
+    .filter(([, n]) => n >= MIN_GROUP)
+    .sort(
+      (a, b) =>
+        b[1] - a[1] ||
+        (b[0].includes(" ") ? 1 : 0) - (a[0].includes(" ") ? 1 : 0) ||
+        a[0].localeCompare(b[0]),
+    )
+    .map(([t]) => t);
+
+  const assigned = new Set();
+  const groups = [];
+  for (const term of candidates) {
+    if (groups.length >= MAX_GROUPS) break;
+    // Name the group after the most common surface form of the term.
+    const surface = [...surfaces.get(term).entries()].sort(
+      (a, b) => b[1] - a[1] || a[0].localeCompare(b[0]),
+    )[0][0];
+    const slug = slugify(surface);
+    if (!slug || usedSlugs.has(slug)) continue;
+    const members = entries.filter((e) => !assigned.has(e) && termSets.get(e).has(term));
+    if (members.length < MIN_GROUP) continue;
+    for (const m of members) assigned.add(m);
+    usedSlugs.add(slug);
+    groups.push({ title: mineTitle(surface), slug, entries: members.sort(byTitle) });
+  }
+  return { groups, residue: entries.filter((e) => !assigned.has(e)).sort(byTitle) };
+}
+
+// --- Recursive category tree ------------------------------------------------
+// Level 1: curated taxonomy (taxonomy.mjs). Emergent topics are promoted out
+// of "General" as auto-discovered groups (marked with a badge). Any group
+// still larger than LEAF_SPLIT is split again by topic mining, recursively.
+
+function deepen(node, depth) {
+  if (depth >= MAX_DEPTH) return;
+  if (node.entries.length <= LEAF_SPLIT) return;
+  const { groups, residue } = mineGroups(node.entries, new Set([node.slug]));
+  if (groups.length < 2) return;
+  node.children = groups.map((g) => ({ ...g, auto: true, children: [] }));
+  if (residue.length) {
+    node.children.push({ title: "General", slug: "general", auto: false, entries: residue, children: [] });
+  }
+  for (const c of node.children) {
+    if (c.slug !== "general") deepen(c, depth + 1);
+  }
+}
+
+function buildCategoryTree(entries, category) {
+  const bySub = groupBy(entries, (e) => [classify(e, category)]);
+  const nodes = [];
+  const usedSlugs = new Set();
+  for (const sub of subcategoriesOf(category)) {
+    if (sub === "General" || !bySub.has(sub)) continue;
+    const slug = slugify(sub);
+    usedSlugs.add(slug);
+    nodes.push({ title: sub, slug, auto: false, entries: bySub.get(sub).sort(byTitle), children: [] });
+  }
+  const general = (bySub.get("General") ?? []).sort(byTitle);
+  if (general.length) {
+    const { groups, residue } = mineGroups(general, usedSlugs);
+    for (const g of groups) nodes.push({ ...g, auto: true, children: [] });
+    if (residue.length) {
+      nodes.push({ title: "General", slug: "general", auto: false, entries: residue, children: [] });
+    }
+  }
+  for (const n of nodes) {
+    if (n.slug !== "general") deepen(n, 2);
+  }
+  return nodes;
+}
+
+const AUTO_BADGE = " ✦";
+const AUTO_LEGEND = "✦ auto-discovered topic group";
+
+function nodeLabel(node) {
+  return `${node.title}${node.auto ? AUTO_BADGE : ""}`;
+}
+
+/**
+ * Renders a tree node. Leaves become a table page; internal nodes small
+ * enough (and with only leaf children) become one page with inline sections;
+ * anything else becomes a directory with an index README plus child pages.
+ * Returns the relative link target for the node from its parent's directory.
+ */
+function renderNode(node, parentDirRel, parentTitle) {
+  const total = node.entries.length;
+  const count = `${total} extension${total === 1 ? "" : "s"}`;
+  const backSameDir = `[← ${parentTitle}](./README.md)`;
+  const backUpDir = `[← ${parentTitle}](../README.md)`;
+
+  if (!node.children.length) {
+    writePage(`${parentDirRel}/${node.slug}.md`, [
+      `# ${nodeLabel(node)}`,
+      "",
+      `${count} · ${backSameDir}`,
+      ...(node.auto ? ["", `*${AUTO_LEGEND}*`] : []),
+      "",
+      renderTable(node.entries),
+    ]);
+    return `./${node.slug}.md`;
+  }
+
+  const allLeaves = node.children.every((c) => !c.children.length);
+  if (total <= SPLIT_THRESHOLD && allLeaves) {
+    const lines = [
+      `# ${nodeLabel(node)}`,
+      "",
+      `${count} · ${backSameDir}`,
+      "",
+      node.children.map((c) => `[${nodeLabel(c)}](#${slugify(c.title)}) (${c.entries.length})`).join(" · "),
+    ];
+    if (node.children.some((c) => c.auto)) lines.push("", `*${AUTO_LEGEND}*`);
+    for (const c of node.children) {
+      lines.push("", `## ${nodeLabel(c)}`, "", renderTable(c.entries));
+    }
+    writePage(`${parentDirRel}/${node.slug}.md`, lines);
+    return `./${node.slug}.md`;
+  }
+
+  const dirRel = `${parentDirRel}/${node.slug}`;
+  const childLinks = node.children.map((c) => renderNode(c, dirRel, node.title));
+  const lines = [
+    `# ${nodeLabel(node)}`,
+    "",
+    `${count} · ${backUpDir}`,
+    "",
+    "| Topic | Extensions |",
+    "| --- | --- |",
+    ...node.children.map((c, i) => `| [${nodeLabel(c)}](${childLinks[i]}) | ${c.entries.length} |`),
+  ];
+  if (node.children.some((c) => c.auto)) lines.push("", `*${AUTO_LEGEND}*`);
+  writePage(`${dirRel}/README.md`, lines);
+  return `./${node.slug}/README.md`;
+}
+
 function generateCatalog(entries) {
   const sorted = [...entries].sort(byTitle);
 
@@ -286,21 +515,30 @@ function generateCatalog(entries) {
   rmSync(path.join(CATALOG_DIR, "authors.md"), { force: true });
   mkdirSync(path.join(CATALOG_DIR, "data"), { recursive: true });
 
-  // ---- Categories (nested: category -> letter for large ones) ----
+  // ---- Categories (recursive: curated subcategories, auto-discovered topic
+  // groups promoted out of General, oversized groups split further) ----
   const byCategory = groupBy(sorted, (e) => e.categories);
   const categoryNames = [...byCategory.keys()].sort((a, b) => a.localeCompare(b, "en"));
   for (const cat of categoryNames) {
     const items = byCategory.get(cat);
     const mac = items.filter((e) => e.platforms.includes("macOS")).length;
     const win = items.filter((e) => e.platforms.includes("Windows")).length;
-    writeSection({
-      dirRel: `categories/${slugify(cat)}`,
-      title: cat,
-      category: cat,
-      entries: items,
-      backLink: "[← all categories](../README.md)",
-      intro: ["", `macOS: ${mac} · Windows: ${win}`],
-    });
+    const tree = buildCategoryTree(items, cat);
+    const dirRel = `categories/${slugify(cat)}`;
+    const childLinks = tree.map((n) => renderNode(n, dirRel, cat));
+    const lines = [
+      `# ${cat}`,
+      "",
+      `${items.length} extension${items.length === 1 ? "" : "s"} · [← all categories](../README.md)`,
+      "",
+      `macOS: ${mac} · Windows: ${win}`,
+      "",
+      "| Topic | Extensions |",
+      "| --- | --- |",
+      ...tree.map((n, i) => `| [${nodeLabel(n)}](${childLinks[i]}) | ${n.entries.length} |`),
+    ];
+    if (tree.some((n) => n.auto)) lines.push("", `*${AUTO_LEGEND}*`);
+    writePage(`${dirRel}/README.md`, lines);
   }
   writePage("categories/README.md", [
     "# Categories",
@@ -438,7 +676,7 @@ function generateCatalog(entries) {
     "",
     "| View | |",
     "| --- | --- |",
-    `| [By category](./categories/README.md) | ${categoryNames.length} categories, each organized into topical subcategories |`,
+    `| [By category](./categories/README.md) | ${categoryNames.length} categories → curated subcategories → auto-discovered topic groups (✦), nested as deep as the data supports |`,
     `| [By platform](./platforms/README.md) | macOS (${macCount}) · Windows (${winCount}) · cross-platform (${crossCount}), each by category |`,
     `| [By publisher](./publishers/README.md) | ${publishers.length} publishers with all their extensions |`,
     `| [Alphabetical](./alphabetical/${letters[0].toLowerCase()}.md) | every extension, A–Z |`,
@@ -455,6 +693,8 @@ function generateCatalog(entries) {
     "## How this stays up to date",
     "",
     `A scheduled job runs \`node scripts/extension-catalog/sync.mjs --push\`, which fetches the latest upstream tree, diffs every extension's tree SHA against [\`data/extensions.json\`](./data/extensions.json), downloads only the changed manifests, regenerates these pages, and records additions/updates/removals in [CHANGELOG.md](./CHANGELOG.md). Runs that find no extension changes make no commit.`,
+    "",
+    `Subcategories are not a fixed list: curated keyword rules (\`scripts/extension-catalog/taxonomy.mjs\`) provide the first split, then frequent-term mining promotes emergent topics out of "General" (marked ✦) and keeps splitting any group larger than ${LEAF_SPLIT} extensions into deeper levels — so new tools trending upstream get their own group automatically on a future sync.`,
   ]);
 }
 

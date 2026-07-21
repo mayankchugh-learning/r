@@ -1,8 +1,6 @@
-# Data · Files & Archives
+# Files & Archives
 
-[Converters & Encoders](./converters-encoders.md) · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · **Files & Archives** · [APIs & Scraping](./apis-scraping.md) · [Lookups & References](./lookups-references.md) · [General](./general.md)
-
-13 of 235 extensions · [← Data](./README.md)
+13 extensions · [← Data](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

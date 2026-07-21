@@ -4,7 +4,7 @@
 
 macOS: 235 · Windows: 79
 
-| Subcategory | Extensions |
+| Topic | Extensions |
 | --- | --- |
 | [Converters & Encoders](./converters-encoders.md) | 16 |
 | [Generators](./generators.md) | 8 |
@@ -22,4 +22,7 @@ macOS: 235 · Windows: 79
 | [Files & Archives](./files-archives.md) | 13 |
 | [APIs & Scraping](./apis-scraping.md) | 8 |
 | [Lookups & References](./lookups-references.md) | 31 |
-| [General](./general.md) | 62 |
+| [AI ✦](./ai.md) | 5 |
+| [General](./general.md) | 57 |
+
+*✦ auto-discovered topic group*

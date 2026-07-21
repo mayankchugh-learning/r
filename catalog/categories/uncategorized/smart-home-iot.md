@@ -1,8 +1,6 @@
-# Uncategorized · Smart Home & IoT
+# Smart Home & IoT
 
-[AI Tools](./ai-tools.md) · [Crypto & Trading](./crypto-trading.md) · [Developer Utilities](./developer-utilities.md) · [Productivity & Tasks](./productivity-tasks.md) · [Media & Entertainment](./media-entertainment.md) · [Language & Translation](./language-translation.md) · [Health & Lifestyle](./health-lifestyle.md) · [Travel & Transport](./travel-transport.md) · **Smart Home & IoT** · [System & Hardware](./system-hardware.md) · [Web & Search](./web-search.md) · [Communication & Social](./communication-social.md) · [Education & Learning](./education-learning.md) · [General](./general.md)
-
-2 of 330 extensions · [← Uncategorized](./README.md)
+2 extensions · [← Uncategorized](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

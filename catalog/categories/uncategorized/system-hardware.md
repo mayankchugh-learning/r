@@ -1,8 +1,6 @@
-# Uncategorized · System & Hardware
+# System & Hardware
 
-[AI Tools](./ai-tools.md) · [Crypto & Trading](./crypto-trading.md) · [Developer Utilities](./developer-utilities.md) · [Productivity & Tasks](./productivity-tasks.md) · [Media & Entertainment](./media-entertainment.md) · [Language & Translation](./language-translation.md) · [Health & Lifestyle](./health-lifestyle.md) · [Travel & Transport](./travel-transport.md) · [Smart Home & IoT](./smart-home-iot.md) · **System & Hardware** · [Web & Search](./web-search.md) · [Communication & Social](./communication-social.md) · [Education & Learning](./education-learning.md) · [General](./general.md)
-
-20 of 330 extensions · [← Uncategorized](./README.md)
+20 extensions · [← Uncategorized](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

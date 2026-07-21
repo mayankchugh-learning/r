@@ -1,8 +1,6 @@
-# System · Audio Control
+# Audio Control
 
-[Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · **Audio Control** · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
-
-1 of 215 extensions · [← System](./README.md)
+1 extension · [← System](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

@@ -1,8 +1,6 @@
-# Applications · General
+# General
 
-[AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · **General**
-
-121 of 359 extensions · [← Applications](./README.md)
+108 extensions · [← Applications](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -10,7 +8,6 @@
 | [AList Downloder](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) | Mini AList downloader in Raycast | SGGb0nd | macOS | [store](https://www.raycast.com/SGGb0nd/alist-downloder) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
 | [CardPointers](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) | Search for any credit card details or Amex/Chase offer from the CardPointers database. | emcro | macOS | [store](https://www.raycast.com/emcro/cardpointers) |
-| [Chatwork Search](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) | Search chats through all the room | nagauta | macOS | [store](https://www.raycast.com/nagauta/chatwork-search) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Convert CSV to Excel](https://github.com/raycast/extensions/tree/main/extensions/csv-to-excel) | Convert CSV table to Excel compatible table. | VictoRD11 | macOS | [store](https://www.raycast.com/VictoRD11/csv-to-excel) |
 | [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
@@ -23,7 +20,6 @@
 | [Firecrawl](https://github.com/raycast/extensions/tree/main/extensions/firecrawl) | Scrape, search, and conduct in-depth research with Firecrawl | firecrawl (org) | macOS | [store](https://www.raycast.com/firecrawl/firecrawl) |
 | [Focus Anchor](https://github.com/raycast/extensions/tree/main/extensions/focus-anchor) | Anchor your focus on the most important thing | ashleyhindle | macOS | [store](https://www.raycast.com/ashleyhindle/focus-anchor) |
 | [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
-| [Fronius Inverter](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter) | A Raycast extension to monitor your Fronius Gen24 inverter with a realtime dashboard and background error monitoring. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/fronius-inverter) |
 | [Gitfox Repositories](https://github.com/raycast/extensions/tree/main/extensions/gitfox) | Navigate and open your repositories in Gitfox. | azlekov | macOS | [store](https://www.raycast.com/azlekov/gitfox) |
 | [Google Cloud Run](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-run) | Commands for Google Cloud Run | bhavya_muni | macOS | [store](https://www.raycast.com/bhavya_muni/google-cloud-run) |
 | [Gradle Plugins](https://github.com/raycast/extensions/tree/main/extensions/gradle-plugins) | Search for gradle plugins | alex-w0 | macOS | [store](https://www.raycast.com/alex-w0/gradle-plugins) |
@@ -37,7 +33,6 @@
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [Humaans](https://github.com/raycast/extensions/tree/main/extensions/humaans) | Interact with the Humaans platform | humaans (org) | macOS | [store](https://www.raycast.com/humaans/humaans) |
 | [Instapaper](https://github.com/raycast/extensions/tree/main/extensions/instapaper) | Quick add links from your clipboard to Instapaper. | suv | macOS | [store](https://www.raycast.com/suv/instapaper) |
-| [IP Info](https://github.com/raycast/extensions/tree/main/extensions/ipinfo) | An extension to use ipinfo.io's API to get information about IP addresses | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/ipinfo) |
 | [IVPN](https://github.com/raycast/extensions/tree/main/extensions/ivpn) | Extension for interacting with IVPN. | boradatti | macOS | [store](https://www.raycast.com/boradatti/ivpn) |
 | [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) | Run queries on Json data using jq | vladimir-kotikov | macOS | [store](https://www.raycast.com/vladimir-kotikov/raycast-jq) |
 | [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
@@ -53,17 +48,14 @@
 | [MacUpdater](https://github.com/raycast/extensions/tree/main/extensions/macupdater) | Get app updates and popular apps from macupdater.net | kall | macOS | [store](https://www.raycast.com/kall/macupdater) |
 | [MarginNote](https://github.com/raycast/extensions/tree/main/extensions/marginnote) | Offical Raycast Extensition of MarginNote | ourongxing | macOS | [store](https://www.raycast.com/ourongxing/marginnote) |
 | [Mayar](https://github.com/raycast/extensions/tree/main/extensions/mayar) | Mayar Raycast Extensions | friantom | macOS | [store](https://www.raycast.com/friantom/mayar) |
-| [Mem](https://github.com/raycast/extensions/tree/main/extensions/mem) | Access Mem functionality through Raycast using the Mem API. The Mem API is still growing and is currently very limited. | brianfakhoury | macOS | [store](https://www.raycast.com/brianfakhoury/mem) |
 | [Metabase](https://github.com/raycast/extensions/tree/main/extensions/metabase) | Search Metabase questions faster | vimtor | macOS | [store](https://www.raycast.com/vimtor/metabase) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
-| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams) |
 | [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
 | [Mikrus](https://github.com/raycast/extensions/tree/main/extensions/mikrus) | Integration with mikr.us | tkowalski29 | macOS | [store](https://www.raycast.com/tkowalski29/mikrus) |
 | [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) | Create Mindmap Quickly using Raycast | thuggyduck | macOS | [store](https://www.raycast.com/thuggyduck/mindnode) |
 | [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) | Raycast extension for MiniSim | okwasniewski | macOS | [store](https://www.raycast.com/okwasniewski/minisim) |
 | [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
 | [Mite](https://github.com/raycast/extensions/tree/main/extensions/mite) | Interact with your mite account via Raycast | paolo_ricciuti | macOS | [store](https://www.raycast.com/paolo_ricciuti/mite) |
-| [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
 | [Mouseless](https://github.com/raycast/extensions/tree/main/extensions/mouseless) | Controls the Mouseless app. Only works when using Mouseless v1.0 or later. | NextMerge | macOS, Windows | [store](https://www.raycast.com/NextMerge/mouseless) |
 | [Multi Viewer](https://github.com/raycast/extensions/tree/main/extensions/multiviewer) | Controls your MultiViewer for F1 setup | secustor | macOS | [store](https://www.raycast.com/secustor/multiviewer) |
 | [NameSilo](https://github.com/raycast/extensions/tree/main/extensions/namesilo) | View your Domains, Orders, Whois Info and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/namesilo) |
@@ -73,7 +65,6 @@
 | [OpenAI Translator](https://github.com/raycast/extensions/tree/main/extensions/openai-translator) | Translation based on Multiple LLMs. | douo | macOS | [store](https://www.raycast.com/douo/openai-translator) |
 | [Papago Translate](https://github.com/raycast/extensions/tree/main/extensions/papago-translate) | Language translation extension using Papago | rita_mordio | macOS | [store](https://www.raycast.com/rita_mordio/papago-translate) |
 | [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel) | Allow Parcel users to see upcoming and active deliveries | marcmagn1 | macOS, Windows | [store](https://www.raycast.com/marcmagn1/parcel) |
-| [Parcel Tracker - 17track](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) | A Raycast extension that allows you to track your packages using 17track's REST API. All supported agencies are those of 17track. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/package-tracker) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [PlanetScale](https://github.com/raycast/extensions/tree/main/extensions/planetscale) | Manage PlanetScale from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/planetscale) |
@@ -96,7 +87,6 @@
 | [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) | Fast access to SayIntentions via keyboard shortcuts. Great for flight sim sessions where you don't want to speak but still want quick ATC communication. | kyleawayan | Windows, macOS | [store](https://www.raycast.com/kyleawayan/sayintentions) |
 | [Screen Studio](https://github.com/raycast/extensions/tree/main/extensions/screen-studio) | Raycast extension that allows controlling the Screen Studio app easily | screen-studio (org) | macOS | [store](https://www.raycast.com/screen-studio/screen-studio) |
 | [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
-| [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) | Open Signal chats | leeraymond78 | macOS | [store](https://www.raycast.com/leeraymond78/signal) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
 | [Splix](https://github.com/raycast/extensions/tree/main/extensions/splix) | Raycast interface for Splix (https://splix.app) to supercharge your productivity. | splix.app | macOS | [store](https://www.raycast.com/splix.app/splix) |
 | [Stacks](https://github.com/raycast/extensions/tree/main/extensions/stacks) | Search and manage your saved resources from Stacks | sourabh_rathour | macOS | [store](https://www.raycast.com/sourabh_rathour/stacks) |
@@ -107,10 +97,8 @@
 | [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
 | [Surfed](https://github.com/raycast/extensions/tree/main/extensions/surfed) | Search Collections, Tags, URLs and Browsing History | HOsy | macOS | [store](https://www.raycast.com/HOsy/surfed) |
-| [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
 | [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Tana Paste](https://github.com/raycast/extensions/tree/main/extensions/tana-paste) | Converts text between Markdown and Tana Paste formats. | 3mdistal | macOS | [store](https://www.raycast.com/3mdistal/tana-paste) |
-| [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [TeslaMate](https://github.com/raycast/extensions/tree/main/extensions/teslamate) | View your TeslaMate data in Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/teslamate) |
 | [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
 | [TFL](https://github.com/raycast/extensions/tree/main/extensions/tfl) | Viewing public transport departures in London | haneenmahdin | macOS | [store](https://www.raycast.com/haneenmahdin/tfl) |
@@ -118,12 +106,9 @@
 | [Tyme 3 Time Tracker](https://github.com/raycast/extensions/tree/main/extensions/tyme-3-time-tracker) | Interact with Tyme 3 to track your time | melkstam | macOS | [store](https://www.raycast.com/melkstam/tyme-3-time-tracker) |
 | [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper) | Voice dictation, transcription history, and profile management for TypeWhisper | SeoFood | macOS, Windows | [store](https://www.raycast.com/SeoFood/typewhisper) |
 | [Update Clash Subscription](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) | Update clash subscription & insert custom rules | JakeYu | macOS | [store](https://www.raycast.com/JakeYu/update-clash-subscription) |
-| [UptimeRobot](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) | View Monitors and Account Details | xmok | macOS | [store](https://www.raycast.com/xmok/uptime-robot) |
 | [Vesslo](https://github.com/raycast/extensions/tree/main/extensions/vesslo) | Search and manage apps from Vesslo | hjm79 | macOS | [store](https://www.raycast.com/hjm79/vesslo) |
 | [Voicenotes](https://github.com/raycast/extensions/tree/main/extensions/voicenotes) | Search and manage your Voicenotes directly from Raycast. | parzival | macOS | [store](https://www.raycast.com/parzival/voicenotes) |
-| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
 | [WhiteBIT Exchange](https://github.com/raycast/extensions/tree/main/extensions/whitebit) | WhiteBIT exchange Raycast extension | whitebit-exchange (org) | macOS | [store](https://www.raycast.com/whitebit-exchange/whitebit) |
-| [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) | Your WHOOP data, now at your fingertips. Monitor your recovery, sleep, strain, workouts and more! Favourite the Overview command for quick access to your WHOOP… | josha1len | macOS | [store](https://www.raycast.com/josha1len/whoop) |
 | [YASB](https://github.com/raycast/extensions/tree/main/extensions/yasb) | Raycast interface for the yasbc (YASB CLI) application | Deviljin112 | Windows | [store](https://www.raycast.com/Deviljin112/yasb) |
 | [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) | View your daily goals and calories in Yazio, and log food directly from Raycast. | zsombor_biro | Windows, macOS | [store](https://www.raycast.com/zsombor_biro/yazio-tracker) |
 | [Zeitraum](https://github.com/raycast/extensions/tree/main/extensions/zeitraum) | Track time with tags to Zeitraum server | tensor | macOS | [store](https://www.raycast.com/tensor/zeitraum) |

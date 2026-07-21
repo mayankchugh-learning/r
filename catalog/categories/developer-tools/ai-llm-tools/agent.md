@@ -1,0 +1,13 @@
+# Agent ✦
+
+5 extensions · [← AI & LLM Tools](./README.md)
+
+*✦ auto-discovered topic group*
+
+| Extension | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- |
+| [Cursor Agents](https://github.com/raycast/extensions/tree/main/extensions/cursor-agents) | Create and manage background agents that work on your repositories | anysphere (org) | macOS, Windows | [store](https://www.raycast.com/anysphere/cursor-agents) |
+| [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
+| [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/jsonbored/heyclaude) |
+| [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) | Discover, triage, and manage papers from your local Paper Agent workflow in Raycast. | marvel940804836 | macOS | [store](https://www.raycast.com/marvel940804836/paper-agent) |
+| [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent) | Parses the User-Agent of the selected text | third774 | macOS | [store](https://www.raycast.com/third774/user-agent) |

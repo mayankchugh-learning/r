@@ -1,8 +1,6 @@
-# System · General
+# General
 
-[Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · **General**
-
-61 of 215 extensions · [← System](./README.md)
+57 extensions · [← System](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -11,7 +9,6 @@
 | [Background Sounds](https://github.com/raycast/extensions/tree/main/extensions/background-sounds) | Toggle macOS background sounds on and off. | sebdanielsson | macOS | [store](https://www.raycast.com/sebdanielsson/background-sounds) |
 | [Capture Raycast Metadata](https://github.com/raycast/extensions/tree/main/extensions/capture-raycast-metadata) | Capture a screenshot for Raycast extension's metadata. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/capture-raycast-metadata) |
 | [Command Scheduler](https://github.com/raycast/extensions/tree/main/extensions/scheduler) | Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. | cps | macOS, Windows | [store](https://www.raycast.com/cps/scheduler) |
-| [Connect Pritunl Vpn Tunnel](https://github.com/raycast/extensions/tree/main/extensions/pritunl) | Connects to VPN using Pritunl client | maksym_prokopov | macOS | [store](https://www.raycast.com/maksym_prokopov/pritunl) |
 | [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
 | [Deutscher Wetterdienst](https://github.com/raycast/extensions/tree/main/extensions/deutscherwetterdienst) | Shows current rain radar by the Deutscher Wetter Dienst | nicolai | macOS | [store](https://www.raycast.com/nicolai/deutscherwetterdienst) |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
@@ -33,7 +30,6 @@
 | [MirAIe AC Control](https://github.com/raycast/extensions/tree/main/extensions/miraie-ac-control) | Control Panasonic MirAIe air conditioners from Raycast. | ayush_saini | macOS | [store](https://www.raycast.com/ayush_saini/miraie-ac-control) |
 | [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |
 | [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) | Local NuGet package explorer | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/nuget-package-explorer) |
-| [Openfortivpn](https://github.com/raycast/extensions/tree/main/extensions/openfortivpn) | Connect to openfortivpn | rafalpetryka | macOS | [store](https://www.raycast.com/rafalpetryka/openfortivpn) |
 | [OpenHue](https://github.com/raycast/extensions/tree/main/extensions/openhue) | Control your Philips Hue lightning system from Raycast | thibauult | macOS, Windows | [store](https://www.raycast.com/thibauult/openhue) |
 | [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
 | [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) | Pieces for Developers Raycast Extension | pieces (org) | macOS | [store](https://www.raycast.com/pieces/pieces-raycast) |
@@ -60,9 +56,7 @@
 | [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
 | [Tmux Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet) | Provides easy access to tmux cheatsheet documentation for when you forget a command, or are just learning. | alikhatibak | macOS | [store](https://www.raycast.com/alikhatibak/tmux-cheatsheet) |
 | [Unifi](https://github.com/raycast/extensions/tree/main/extensions/unifi) | Manage Unifi Controllers | lewj | macOS | [store](https://www.raycast.com/lewj/unifi) |
-| [V2BOX VPN](https://github.com/raycast/extensions/tree/main/extensions/v2box-control) | Connect, disconnect, and check the status of your V2BOX VPN connection. | vanish2000 | macOS | [store](https://www.raycast.com/vanish2000/v2box-control) |
 | [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
-| [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
 | [Voicemeeter Control](https://github.com/raycast/extensions/tree/main/extensions/voicemeeter-raycast) | Control Voicemeeter strips and buses from Raycast. | Vorm-- | Windows | [store](https://www.raycast.com/Vorm--/voicemeeter-raycast) |
 | [Wake-On-LAN](https://github.com/raycast/extensions/tree/main/extensions/wol) | Simple wake on lan | Lemon | macOS | [store](https://www.raycast.com/Lemon/wol) |
 | [Wiz Controller](https://github.com/raycast/extensions/tree/main/extensions/wiz-controller) | Control your Wiz lights from Raycast | shail_antani | macOS | [store](https://www.raycast.com/shail_antani/wiz-controller) |

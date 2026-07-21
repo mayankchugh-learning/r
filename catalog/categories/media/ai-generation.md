@@ -1,8 +1,6 @@
-# Media · AI Generation
+# AI Generation
 
-[Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · **AI Generation** · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
-
-4 of 251 extensions · [← Media](./README.md)
+4 extensions · [← Media](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

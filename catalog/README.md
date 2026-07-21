@@ -8,7 +8,7 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 
 | View | |
 | --- | --- |
-| [By category](./categories/README.md) | 16 categories, each organized into topical subcategories |
+| [By category](./categories/README.md) | 16 categories → curated subcategories → auto-discovered topic groups (✦), nested as deep as the data supports |
 | [By platform](./platforms/README.md) | macOS (3052) · Windows (795) · cross-platform (767), each by category |
 | [By publisher](./publishers/README.md) | 2038 publishers with all their extensions |
 | [Alphabetical](./alphabetical/0-9.md) | every extension, A–Z |
@@ -38,3 +38,5 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 ## How this stays up to date
 
 A scheduled job runs `node scripts/extension-catalog/sync.mjs --push`, which fetches the latest upstream tree, diffs every extension's tree SHA against [`data/extensions.json`](./data/extensions.json), downloads only the changed manifests, regenerates these pages, and records additions/updates/removals in [CHANGELOG.md](./CHANGELOG.md). Runs that find no extension changes make no commit.
+
+Subcategories are not a fixed list: curated keyword rules (`scripts/extension-catalog/taxonomy.mjs`) provide the first split, then frequent-term mining promotes emergent topics out of "General" (marked ✦) and keeps splitting any group larger than 60 extensions into deeper levels — so new tools trending upstream get their own group automatically on a future sync.

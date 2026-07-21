@@ -4,9 +4,9 @@
 
 macOS: 942 · Windows: 252
 
-| Subcategory | Extensions |
+| Topic | Extensions |
 | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools.md) | 107 |
+| [AI & LLM Tools](./ai-llm-tools/README.md) | 107 |
 | [Git & Version Control](./git-version-control.md) | 43 |
 | [Mobile & App Development](./mobile-app-development.md) | 26 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 12 |
@@ -24,4 +24,16 @@ macOS: 942 · Windows: 252
 | [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 84 |
 | [Search & Reference](./search-reference.md) | 95 |
 | [Files & Transfer](./files-transfer.md) | 24 |
-| [General](./general.md) | 213 |
+| [Sites ✦](./sites.md) | 7 |
+| [Domains ✦](./domains.md) | 6 |
+| [Machines ✦](./machines.md) | 6 |
+| [Password ✦](./password.md) | 6 |
+| [Apple ✦](./apple.md) | 4 |
+| [Email ✦](./email.md) | 4 |
+| [Sessions ✦](./sessions.md) | 5 |
+| [Web ✦](./web.md) | 5 |
+| [Developers ✦](./developers.md) | 4 |
+| [Ease ✦](./ease.md) | 4 |
+| [General](./general.md) | 162 |
+
+*✦ auto-discovered topic group*

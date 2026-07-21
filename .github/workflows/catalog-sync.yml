@@ -1,0 +1,52 @@
+# Syncs catalog/ against upstream raycast/extensions every 20 minutes.
+#
+# NOTE: GitHub only runs scheduled workflows from the repository's DEFAULT
+# branch, so the cron below activates once this file lands on main. Until
+# then, trigger it manually via workflow_dispatch (Actions tab -> Catalog
+# sync -> Run workflow, picking the branch that carries the catalog), or rely
+# on the hourly Claude routine.
+name: Catalog sync
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    # Guard so the schedule never runs if this file ever reaches other forks
+    # or the upstream repository.
+    if: github.repository == 'mayankchugh-learning/r'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The repo is multi-gigabyte; fetch manifests only.
+          filter: blob:none
+          sparse-checkout: |
+            /*
+            !/extensions/
+            !/docs/
+            !/examples/
+            !/images/
+            !/migrations/
+            !/templates/
+            /extensions/*/package.json
+          sparse-checkout-cone-mode: false
+
+      - name: Sync catalog with upstream
+        run: |
+          if [ ! -f scripts/extension-catalog/sync.mjs ]; then
+            echo "catalog tooling is not on this branch; nothing to do"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          node scripts/extension-catalog/sync.mjs --push

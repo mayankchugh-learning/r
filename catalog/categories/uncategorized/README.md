@@ -4,7 +4,7 @@
 
 macOS: 330 · Windows: 65
 
-| Subcategory | Extensions |
+| Topic | Extensions |
 | --- | --- |
 | [AI Tools](./ai-tools.md) | 18 |
 | [Crypto & Trading](./crypto-trading.md) | 7 |
@@ -19,4 +19,8 @@ macOS: 330 · Windows: 65
 | [Web & Search](./web-search.md) | 59 |
 | [Communication & Social](./communication-social.md) | 6 |
 | [Education & Learning](./education-learning.md) | 1 |
-| [General](./general.md) | 105 |
+| [Day ✦](./day.md) | 4 |
+| [Memos ✦](./memos.md) | 4 |
+| [General](./general.md) | 97 |
+
+*✦ auto-discovered topic group*

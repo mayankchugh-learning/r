@@ -1,8 +1,6 @@
-# System · Files & Storage
+# Files & Storage
 
-[Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · **Files & Storage** · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
-
-24 of 215 extensions · [← System](./README.md)
+24 extensions · [← System](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

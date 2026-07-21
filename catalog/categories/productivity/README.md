@@ -4,9 +4,9 @@
 
 macOS: 1266 · Windows: 295
 
-| Subcategory | Extensions |
+| Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants.md) | 118 |
+| [AI & Assistants](./ai-assistants/README.md) | 118 |
 | [Notes & Knowledge](./notes-knowledge.md) | 53 |
 | [Tasks & To-Dos](./tasks-to-dos.md) | 40 |
 | [Calendar & Scheduling](./calendar-scheduling.md) | 16 |
@@ -21,4 +21,21 @@ macOS: 1266 · Windows: 295
 | [Team & Business Tools](./team-business-tools.md) | 14 |
 | [Search & Bookmarks](./search-bookmarks.md) | 195 |
 | [Trackers & Monitors](./trackers-monitors.md) | 29 |
-| [General](./general.md) | 451 |
+| [API ✦](./api.md) | 13 |
+| [Code ✦](./code.md) | 13 |
+| [Devices ✦](./devices.md) | 13 |
+| [URL ✦](./url.md) | 12 |
+| [Between ✦](./between.md) | 9 |
+| [Screen ✦](./screen.md) | 8 |
+| [Web ✦](./web.md) | 6 |
+| [Https ✦](./https.md) | 6 |
+| [Password ✦](./password.md) | 8 |
+| [Website ✦](./website.md) | 6 |
+| [Calculator ✦](./calculator.md) | 6 |
+| [Color ✦](./color.md) | 4 |
+| [Date ✦](./date.md) | 7 |
+| [Git ✦](./git.md) | 6 |
+| [Local ✦](./local.md) | 4 |
+| [General](./general.md) | 330 |
+
+*✦ auto-discovered topic group*

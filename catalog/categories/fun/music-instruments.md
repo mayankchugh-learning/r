@@ -1,8 +1,6 @@
-# Fun · Music & Instruments
+# Music & Instruments
 
-[Games & Gaming](./games-gaming.md) · [AI & Generative Fun](./ai-generative-fun.md) · [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) · [Jokes & Randomness](./jokes-randomness.md) · [Sports](./sports.md) · [Movies, TV & Anime](./movies-tv-anime.md) · **Music & Instruments** · [Pop Culture & Fandom](./pop-culture-fandom.md) · [Generators & Toys](./generators-toys.md) · [Nature & Exploration](./nature-exploration.md) · [Wallpapers & Effects](./wallpapers-effects.md) · [Food & Drink](./food-drink.md) · [General](./general.md)
-
-7 of 253 extensions · [← Fun](./README.md)
+7 extensions · [← Fun](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

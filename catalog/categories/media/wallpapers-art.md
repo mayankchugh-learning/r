@@ -1,8 +1,6 @@
-# Media · Wallpapers & Art
+# Wallpapers & Art
 
-[Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · **Wallpapers & Art** · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
-
-8 of 251 extensions · [← Media](./README.md)
+8 extensions · [← Media](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

@@ -1,8 +1,6 @@
-# System · Defaults & Services
+# Defaults & Services
 
-[Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · **Defaults & Services** · [General](./general.md)
-
-7 of 215 extensions · [← System](./README.md)
+7 extensions · [← System](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

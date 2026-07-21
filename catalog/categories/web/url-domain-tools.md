@@ -1,8 +1,6 @@
-# Web · URL & Domain Tools
+# URL & Domain Tools
 
-[AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · **URL & Domain Tools** · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
-
-35 of 423 extensions · [← Web](./README.md)
+35 extensions · [← Web](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

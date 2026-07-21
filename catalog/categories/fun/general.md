@@ -1,8 +1,6 @@
-# Fun · General
+# General
 
-[Games & Gaming](./games-gaming.md) · [AI & Generative Fun](./ai-generative-fun.md) · [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) · [Jokes & Randomness](./jokes-randomness.md) · [Sports](./sports.md) · [Movies, TV & Anime](./movies-tv-anime.md) · [Music & Instruments](./music-instruments.md) · [Pop Culture & Fandom](./pop-culture-fandom.md) · [Generators & Toys](./generators-toys.md) · [Nature & Exploration](./nature-exploration.md) · [Wallpapers & Effects](./wallpapers-effects.md) · [Food & Drink](./food-drink.md) · **General**
-
-99 of 253 extensions · [← Fun](./README.md)
+95 extensions · [← Fun](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -36,7 +34,6 @@
 | [Life Progress](https://github.com/raycast/extensions/tree/main/extensions/life-progress) | View life progress and custom Countdown Date. See how much time is left. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/life-progress) |
 | [LIFX](https://github.com/raycast/extensions/tree/main/extensions/lifx) | Control your LIFX lights directly from Raycast | felixb1010 | macOS | [store](https://www.raycast.com/felixb1010/lifx) |
 | [Lightning Time](https://github.com/raycast/extensions/tree/main/extensions/lightning-time) | Convert from traditional time to Lightning Time ⚡ | MatthewStanciu | macOS | [store](https://www.raycast.com/MatthewStanciu/lightning-time) |
-| [Lotus - MTG Companion](https://github.com/raycast/extensions/tree/main/extensions/lotus-mtg-companion) | A non-official tool to easily search for Magic The Gathering cards, sets, and rules - powered by Scryfall search. | madmaxmckinney | macOS | [store](https://www.raycast.com/madmaxmckinney/lotus-mtg-companion) |
 | [macOSIcons.com](https://github.com/raycast/extensions/tree/main/extensions/macosicons) | Raycast extension for browsing and applying icons from macOSicons.com | shldk | macOS | [store](https://www.raycast.com/shldk/macosicons) |
 | [MapleStory.gg](https://github.com/raycast/extensions/tree/main/extensions/maplestory-gg) | MapleStory's Definitive Database. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/maplestory-gg) |
 | [Minecast](https://github.com/raycast/extensions/tree/main/extensions/minecast) | Quickly view the status of Minecraft servers! | Dori7os | Windows, macOS | [store](https://www.raycast.com/Dori7os/minecast) |
@@ -64,7 +61,6 @@
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Say No to Notch](https://github.com/raycast/extensions/tree/main/extensions/say-no-to-notch) | Control MacBook Notch via Say No to Notch | honghao | macOS | [store](https://www.raycast.com/honghao/say-no-to-notch) |
 | [Scrapbook](https://github.com/raycast/extensions/tree/main/extensions/scrapbook) | View hackclub's scrapbook posts and users from raycast. | fakerr | macOS | [store](https://www.raycast.com/fakerr/scrapbook) |
-| [Scrycast](https://github.com/raycast/extensions/tree/main/extensions/scrycast) | Search for Magic: The Gathering cards on Scryfall or your collection | aayushpi | macOS | [store](https://www.raycast.com/aayushpi/scrycast) |
 | [Shakespearify](https://github.com/raycast/extensions/tree/main/extensions/shakespearify) | Convert plain boring English text to something like Shakespeare would write! | Binary-Bytes | macOS | [store](https://www.raycast.com/Binary-Bytes/shakespearify) |
 | [Social Network Trends](https://github.com/raycast/extensions/tree/main/extensions/social-network-trends) | Show trends on WeiBo, ZhiHu, DouYin，BaiDu, TouTiao, BiliBili. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/social-network-trends) |
 | [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
@@ -72,7 +68,6 @@
 | [Splatoon](https://github.com/raycast/extensions/tree/main/extensions/splatoon) | View Splatoon’s current schedules. Supports Splatoon 2 and Splatoon 3. | marcbouchenoire | macOS | [store](https://www.raycast.com/marcbouchenoire/splatoon) |
 | [Surf Check](https://github.com/raycast/extensions/tree/main/extensions/surf-check) | Get real-time surfing reports and forecasts for nearby locations | john_alexander | macOS | [store](https://www.raycast.com/john_alexander/surf-check) |
 | [Surfs Up](https://github.com/raycast/extensions/tree/main/extensions/surfs-up) | Search the weather and the ocean conditions in your favorite surfing spots | comoser | macOS | [store](https://www.raycast.com/comoser/surfs-up) |
-| [Tarot](https://github.com/raycast/extensions/tree/main/extensions/tarot) | Draw cards from a virtual tarot deck. | tsui_river | macOS | [store](https://www.raycast.com/tsui_river/tarot) |
 | [Tategaki](https://github.com/raycast/extensions/tree/main/extensions/tategaki) | Convert text to Japanese vertical writing | haruka_odenkun | macOS, Windows | [store](https://www.raycast.com/haruka_odenkun/tategaki) |
 | [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) | Control and view your Tesla | williamwelsh | macOS | [store](https://www.raycast.com/williamwelsh/tesla) |
 | [TeslaMate](https://github.com/raycast/extensions/tree/main/extensions/teslamate) | View your TeslaMate data in Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/teslamate) |
@@ -102,6 +97,5 @@
 | [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
 | [Year in Progress](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) | Stay motivated by see the progress of the year. | thomas | macOS | [store](https://www.raycast.com/thomas/year-in-progress) |
 | [Your Name in Landsat](https://github.com/raycast/extensions/tree/main/extensions/your-name-in-landsat) | Generate your name in Landsat using Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/your-name-in-landsat) |
-| [Yu-Gi-Oh! Card Lookup](https://github.com/raycast/extensions/tree/main/extensions/yu-gi-oh-card-lookup) | Find info on Yu-Gi-Oh TCG cards. | ApopeOS | macOS, Windows | [store](https://www.raycast.com/ApopeOS/yu-gi-oh-card-lookup) |
 | [Zalgo Text Generator](https://github.com/raycast/extensions/tree/main/extensions/zalgo-text) | Translates given text to Zalgo text | petermiles | macOS | [store](https://www.raycast.com/petermiles/zalgo-text) |
 | [Zodme](https://github.com/raycast/extensions/tree/main/extensions/zodme) | Look up a zodiac sign from a birthday | camib0b | macOS, Windows | [store](https://www.raycast.com/camib0b/zodme) |

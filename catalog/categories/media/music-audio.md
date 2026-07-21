@@ -1,8 +1,6 @@
-# Media · Music & Audio
+# Music & Audio
 
-**Music & Audio** · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
-
-54 of 251 extensions · [← Media](./README.md)
+54 extensions · [← Media](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

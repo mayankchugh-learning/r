@@ -1,8 +1,6 @@
-# Productivity · Tasks & To-Dos
+# Tasks & To-Dos
 
-[AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · **Tasks & To-Dos** · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
-
-40 of 1279 extensions · [← Productivity](./README.md)
+40 extensions · [← Productivity](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

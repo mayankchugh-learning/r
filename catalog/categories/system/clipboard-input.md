@@ -1,8 +1,6 @@
-# System · Clipboard & Input
+# Clipboard & Input
 
-[Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · **Clipboard & Input** · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
-
-9 of 215 extensions · [← System](./README.md)
+9 extensions · [← System](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |

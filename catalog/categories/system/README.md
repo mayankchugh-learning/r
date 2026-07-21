@@ -4,7 +4,7 @@
 
 macOS: 204 · Windows: 36
 
-| Subcategory | Extensions |
+| Topic | Extensions |
 | --- | --- |
 | [Apps & Processes](./apps-processes.md) | 32 |
 | [Window & Desktop Management](./window-desktop-management.md) | 31 |
@@ -16,4 +16,7 @@ macOS: 204 · Windows: 36
 | [Files & Storage](./files-storage.md) | 24 |
 | [Network](./network.md) | 12 |
 | [Defaults & Services](./defaults-services.md) | 7 |
-| [General](./general.md) | 61 |
+| [Connect ✦](./connect.md) | 4 |
+| [General](./general.md) | 57 |
+
+*✦ auto-discovered topic group*

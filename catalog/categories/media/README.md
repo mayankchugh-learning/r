@@ -4,7 +4,7 @@
 
 macOS: 246 · Windows: 68
 
-| Subcategory | Extensions |
+| Topic | Extensions |
 | --- | --- |
 | [Music & Audio](./music-audio.md) | 54 |
 | [Video & Streaming](./video-streaming.md) | 21 |
@@ -13,4 +13,11 @@ macOS: 246 · Windows: 68
 | [Books & Papers](./books-papers.md) | 15 |
 | [AI Generation](./ai-generation.md) | 4 |
 | [Conversion, Upload & Download](./conversion-upload-download.md) | 12 |
-| [General](./general.md) | 93 |
+| [Movies ✦](./movies.md) | 8 |
+| [Bar ✦](./bar.md) | 6 |
+| [Games ✦](./games.md) | 4 |
+| [Media ✦](./media.md) | 4 |
+| [Post ✦](./post.md) | 4 |
+| [General](./general.md) | 67 |
+
+*✦ auto-discovered topic group*

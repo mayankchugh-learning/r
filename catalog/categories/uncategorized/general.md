@@ -1,8 +1,6 @@
-# Uncategorized · General
+# General
 
-[AI Tools](./ai-tools.md) · [Crypto & Trading](./crypto-trading.md) · [Developer Utilities](./developer-utilities.md) · [Productivity & Tasks](./productivity-tasks.md) · [Media & Entertainment](./media-entertainment.md) · [Language & Translation](./language-translation.md) · [Health & Lifestyle](./health-lifestyle.md) · [Travel & Transport](./travel-transport.md) · [Smart Home & IoT](./smart-home-iot.md) · [System & Hardware](./system-hardware.md) · [Web & Search](./web-search.md) · [Communication & Social](./communication-social.md) · [Education & Learning](./education-learning.md) · **General**
-
-105 of 330 extensions · [← Uncategorized](./README.md)
+97 extensions · [← Uncategorized](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -18,8 +16,6 @@
 | [CPF/CNPJ Generator](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) | Generate CPF (Cadastro de Pessoa Físca) number or CNPJ (Cadastro Nacional de Pessoa Jurídica) number data for developers | gstvds | macOS | [store](https://www.raycast.com/gstvds/cpf-cnpj-generator) |
 | [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
 | [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter) | Convert timestamps and datetime strings into various formats. | yangxy | macOS | [store](https://www.raycast.com/yangxy/date-format-converter) |
-| [Day One](https://github.com/raycast/extensions/tree/main/extensions/day-one) | Add entries to Day One | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/day-one) |
-| [Days Until Christmas](https://github.com/raycast/extensions/tree/main/extensions/days-until-christmas) | Count down the days until Christmas | megapixel23 | macOS, Windows | [store](https://www.raycast.com/megapixel23/days-until-christmas) |
 | [debank](https://github.com/raycast/extensions/tree/main/extensions/debank) | A Raycast Extension to query DeBank data with its OpenAPI | Yukai | macOS | [store](https://www.raycast.com/Yukai/debank) |
 | [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
 | [Diki Translate](https://github.com/raycast/extensions/tree/main/extensions/raycast-diki) | Diki Translate with autosuggestions | blazej_kustra | macOS | [store](https://www.raycast.com/blazej_kustra/raycast-diki) |
@@ -28,7 +24,6 @@
 | [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
 | [Feedly](https://github.com/raycast/extensions/tree/main/extensions/feedly) | Browse Feedly through Raycast | shubham | macOS | [store](https://www.raycast.com/shubham/feedly) |
 | [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
-| [Footy Report](https://github.com/raycast/extensions/tree/main/extensions/footy-report) | Raycast extension to find your essential football match day info and stats | thuoe | macOS | [store](https://www.raycast.com/thuoe/footy-report) |
 | [French Verb Conjugation](https://github.com/raycast/extensions/tree/main/extensions/french-verb-conjugation) | Quickly conjugate french verbs on the fly | Joellee | macOS | [store](https://www.raycast.com/Joellee/french-verb-conjugation) |
 | [Fuelix](https://github.com/raycast/extensions/tree/main/extensions/fuelix) | Unofficial - Use Fuelix Platform from the comfort of Raycast | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/fuelix) |
 | [Geohash](https://github.com/raycast/extensions/tree/main/extensions/geohash-encode-decode) | Encode coordinates as geohash, or decode a geohash and get useful info | alrico88 | macOS | [store](https://www.raycast.com/alrico88/geohash-encode-decode) |
@@ -48,10 +43,8 @@
 | [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
 | [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
 | [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
-| [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
 | [Micro.blog](https://github.com/raycast/extensions/tree/main/extensions/microblog) | Post to Micro.blog and your connected crossposting accounts | tynanpurdy | macOS | [store](https://www.raycast.com/tynanpurdy/microblog) |
 | [Multipass](https://github.com/raycast/extensions/tree/main/extensions/multipass) | Manage Multipass instances | davibe | macOS | [store](https://www.raycast.com/davibe/multipass) |
-| [My Daily Log](https://github.com/raycast/extensions/tree/main/extensions/my-daily-log) | Log what you do every day. | frugoman | macOS | [store](https://www.raycast.com/frugoman/my-daily-log) |
 | [NetNewsWire](https://github.com/raycast/extensions/tree/main/extensions/netnewswire) | NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad | xmok | macOS | [store](https://www.raycast.com/xmok/netnewswire) |
 | [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
 | [ONES](https://github.com/raycast/extensions/tree/main/extensions/ones) | Raycast Extension for ONES | k8scat | macOS | [store](https://www.raycast.com/k8scat/ones) |
@@ -77,12 +70,10 @@
 | [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit) | Run Script Kit Command from Raycast | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/script-kit) |
 | [Run Zipper Applet](https://github.com/raycast/extensions/tree/main/extensions/zipper-run) | Run a zipper applet | ariel_conti | macOS | [store](https://www.raycast.com/ariel_conti/zipper-run) |
 | [SABnzbd](https://github.com/raycast/extensions/tree/main/extensions/sabnzbd) | Manage SABnzbd locally | jns | macOS | [store](https://www.raycast.com/jns/sabnzbd) |
-| [Send to flomo](https://github.com/raycast/extensions/tree/main/extensions/send-to-flomo) | Send your MEMOs to flomo | ahonn | macOS | [store](https://www.raycast.com/ahonn/send-to-flomo) |
 | [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
 | [Shopify Developer Changelog](https://github.com/raycast/extensions/tree/main/extensions/shopify-developer-changelog) | Most recent changes to Shopify's developer platform | sandypockets | macOS | [store](https://www.raycast.com/sandypockets/shopify-developer-changelog) |
 | [Simple Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) | This is a Youdao translation extension with simple interaction | xeric | macOS | [store](https://www.raycast.com/xeric/simple-youdao) |
 | [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch) | Frictionless Workspace Browsing | aesign | macOS | [store](https://www.raycast.com/aesign/sketch) |
-| [SnapJot](https://github.com/raycast/extensions/tree/main/extensions/snap-jot) | Create a memo with a timestamp | k41531 | macOS | [store](https://www.raycast.com/k41531/snap-jot) |
 | [Sniffer](https://github.com/raycast/extensions/tree/main/extensions/sniffer) | FInd who is connected to your network | night_coder | macOS | [store](https://www.raycast.com/night_coder/sniffer) |
 | [Solana Explorer](https://github.com/raycast/extensions/tree/main/extensions/solana-explorer) | Look up transactions and accounts on the various Solana clusters. | darklong | macOS | [store](https://www.raycast.com/darklong/solana-explorer) |
 | [Squeeze](https://github.com/raycast/extensions/tree/main/extensions/squeeze) | A simple utility for whitespace and line break removal. | daniel_ac | macOS | [store](https://www.raycast.com/daniel_ac/squeeze) |
@@ -100,7 +91,6 @@
 | [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses) | Use Ulysses with Raycast | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/ulysses) |
 | [Unsure Calc](https://github.com/raycast/extensions/tree/main/extensions/unsure-calc) | Lightweight probabilistic calculator that lets you type ranges (with `~`) and arithmetic to see exact bounds plus simulated outcomes and a text histogram. | PythonicNinja | macOS, Windows | [store](https://www.raycast.com/PythonicNinja/unsure-calc) |
 | [Upstash](https://github.com/raycast/extensions/tree/main/extensions/upstash) | Manage Redis Databases and Vector Indices | xmok | macOS | [store](https://www.raycast.com/xmok/upstash) |
-| [Usememos](https://github.com/raycast/extensions/tree/main/extensions/usememos) | Usememos is an extension for usememos/memos | zrr1999 | macOS | [store](https://www.raycast.com/zrr1999/usememos) |
 | [Vartiq](https://github.com/raycast/extensions/tree/main/extensions/vartiq) | Webhook Infra for High-Velocity Dev Teams | xmok | macOS | [store](https://www.raycast.com/xmok/vartiq) |
 | [VirtualBox Power Switch](https://github.com/raycast/extensions/tree/main/extensions/virtualbox-power-switch) | List your VirtualBox VMs, turn them on/off, or delete them. | diogo_ferrer | macOS | [store](https://www.raycast.com/diogo_ferrer/virtualbox-power-switch) |
 | [Vixai](https://github.com/raycast/extensions/tree/main/extensions/vixai) | Vixai extension for Raycast | vixaidev | macOS | [store](https://www.raycast.com/vixaidev/vixai) |

@@ -4,7 +4,7 @@
 
 macOS: 350 · Windows: 76
 
-| Subcategory | Extensions |
+| Topic | Extensions |
 | --- | --- |
 | [AI & Chat Apps](./ai-chat-apps.md) | 20 |
 | [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 28 |
@@ -23,4 +23,9 @@ macOS: 350 · Windows: 76
 | [Files, Sync & Upload](./files-sync-upload.md) | 16 |
 | [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
 | [Launchers & App Control](./launchers-app-control.md) | 50 |
-| [General](./general.md) | 121 |
+| [Chats ✦](./chats.md) | 5 |
+| [API ✦](./api.md) | 4 |
+| [Monitor ✦](./monitor.md) | 4 |
+| [General](./general.md) | 108 |
+
+*✦ auto-discovered topic group*
