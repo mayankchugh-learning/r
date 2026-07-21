@@ -228,6 +228,21 @@ const GLOBAL_TAXONOMY = [
 
 const FALLBACK = "General";
 
+/**
+ * Editorial grouping of the top-level store categories into sections, used
+ * wherever a list of categories is rendered. Categories upstream introduces
+ * that aren't listed here are appended in a trailing "More" section.
+ */
+export const CATEGORY_SECTIONS = [
+  ["Work & Productivity", ["Productivity", "Applications", "Communication"]],
+  ["Development", ["Developer Tools", "Documentation", "Data", "Security"]],
+  ["Creative & Media", ["Design Tools", "Media"]],
+  ["Web, Finance & News", ["Web", "Finance", "News"]],
+  ["System & Utilities", ["System", "Other"]],
+  ["Fun & Entertainment", ["Fun"]],
+  ["Uncategorized", ["Uncategorized"]],
+];
+
 /** Ordered subcategory names for a category (General always last). */
 export function subcategoriesOf(category) {
   const rules = TAXONOMIES[category] ?? GLOBAL_TAXONOMY;

@@ -36,7 +36,7 @@ import {
 } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { classify, subcategoriesOf } from "./taxonomy.mjs";
+import { CATEGORY_SECTIONS, classify, subcategoriesOf } from "./taxonomy.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
 const CATALOG_DIR = path.join(ROOT, "catalog");
@@ -504,6 +504,38 @@ function renderNode(node, parentDirRel, parentTitle) {
   return `./${node.slug}/README.md`;
 }
 
+/**
+ * Renders a list of categories grouped under the editorial sections from
+ * taxonomy.mjs (largest category first within each section) instead of one
+ * flat alphabetical table. Categories not present are skipped; categories not
+ * covered by any section land in a trailing "More" section.
+ */
+function categorySectionLines(catNames, countOf, linkOf) {
+  const present = new Set(catNames);
+  const covered = new Set(CATEGORY_SECTIONS.flatMap(([, cats]) => cats));
+  const sections = CATEGORY_SECTIONS.map(([title, cats]) => [
+    title,
+    cats.filter((c) => present.has(c)),
+  ]);
+  const extra = catNames.filter((c) => !covered.has(c));
+  if (extra.length) sections.push(["More", extra]);
+
+  const lines = [];
+  for (const [title, cats] of sections) {
+    if (!cats.length) continue;
+    const ordered = [...cats].sort((a, b) => countOf(b) - countOf(a) || a.localeCompare(b, "en"));
+    lines.push(
+      "",
+      `### ${title}`,
+      "",
+      "| Category | Extensions |",
+      "| --- | --- |",
+      ...ordered.map((c) => `| [${c}](${linkOf(c)}) | ${countOf(c)} |`),
+    );
+  }
+  return lines;
+}
+
 function generateCatalog(entries) {
   const sorted = [...entries].sort(byTitle);
 
@@ -543,11 +575,10 @@ function generateCatalog(entries) {
     "# Categories",
     "",
     `${categoryNames.length} categories · [← catalog index](../README.md)`,
-    "",
-    "| Category | Extensions |",
-    "| --- | --- |",
-    ...categoryNames.map(
-      (c) => `| [${c}](./${slugify(c)}/README.md) | ${byCategory.get(c).length} |`,
+    ...categorySectionLines(
+      categoryNames,
+      (c) => byCategory.get(c).length,
+      (c) => `./${slugify(c)}/README.md`,
     ),
   ]);
 
@@ -578,11 +609,10 @@ function generateCatalog(entries) {
       `# ${label} extensions`,
       "",
       `${items.length} extensions · [← all platforms](../README.md)`,
-      "",
-      "| Category | Extensions |",
-      "| --- | --- |",
-      ...cats.map(
-        (c) => `| [${c}](./${slugify(c)}/README.md) | ${byCat.get(c).length} |`,
+      ...categorySectionLines(
+        cats,
+        (c) => byCat.get(c).length,
+        (c) => `./${slugify(c)}/README.md`,
       ),
     ]);
   }
@@ -682,11 +712,10 @@ function generateCatalog(entries) {
     `| [Changelog](./CHANGELOG.md) | upstream additions, updates, removals per sync |`,
     "",
     "## Categories at a glance",
-    "",
-    "| Category | Extensions |",
-    "| --- | --- |",
-    ...categoryNames.map(
-      (c) => `| [${c}](./categories/${slugify(c)}/README.md) | ${byCategory.get(c).length} |`,
+    ...categorySectionLines(
+      categoryNames,
+      (c) => byCategory.get(c).length,
+      (c) => `./categories/${slugify(c)}/README.md`,
     ),
     "",
     "## How this stays up to date",

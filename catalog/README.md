@@ -16,24 +16,56 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 
 ## Categories at a glance
 
+### Work & Productivity
+
 | Category | Extensions |
 | --- | --- |
+| [Productivity](./categories/productivity/README.md) | 1279 |
 | [Applications](./categories/applications/README.md) | 359 |
 | [Communication](./categories/communication/README.md) | 137 |
-| [Data](./categories/data/README.md) | 235 |
-| [Design Tools](./categories/design-tools/README.md) | 133 |
+
+### Development
+
+| Category | Extensions |
+| --- | --- |
 | [Developer Tools](./categories/developer-tools/README.md) | 952 |
+| [Data](./categories/data/README.md) | 235 |
 | [Documentation](./categories/documentation/README.md) | 178 |
-| [Finance](./categories/finance/README.md) | 132 |
-| [Fun](./categories/fun/README.md) | 253 |
-| [Media](./categories/media/README.md) | 251 |
-| [News](./categories/news/README.md) | 81 |
-| [Other](./categories/other/README.md) | 183 |
-| [Productivity](./categories/productivity/README.md) | 1279 |
 | [Security](./categories/security/README.md) | 74 |
-| [System](./categories/system/README.md) | 215 |
-| [Uncategorized](./categories/uncategorized/README.md) | 330 |
+
+### Creative & Media
+
+| Category | Extensions |
+| --- | --- |
+| [Media](./categories/media/README.md) | 251 |
+| [Design Tools](./categories/design-tools/README.md) | 133 |
+
+### Web, Finance & News
+
+| Category | Extensions |
+| --- | --- |
 | [Web](./categories/web/README.md) | 423 |
+| [Finance](./categories/finance/README.md) | 132 |
+| [News](./categories/news/README.md) | 81 |
+
+### System & Utilities
+
+| Category | Extensions |
+| --- | --- |
+| [System](./categories/system/README.md) | 215 |
+| [Other](./categories/other/README.md) | 183 |
+
+### Fun & Entertainment
+
+| Category | Extensions |
+| --- | --- |
+| [Fun](./categories/fun/README.md) | 253 |
+
+### Uncategorized
+
+| Category | Extensions |
+| --- | --- |
+| [Uncategorized](./categories/uncategorized/README.md) | 330 |
 
 ## How this stays up to date
 
