@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-21 — upstream `349ef5afec`
+
+**Updated (1):** [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly)
+
 ## 2026-07-20 — upstream `f348847e81`
 
 **Added (1):** [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal)

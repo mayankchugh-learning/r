@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f348847e814874c147213959ef7ee0a47d78d54f",
-  "generatedAt": "2026-07-21T01:32:07.615Z",
+  "commit": "349ef5afec6f0ddc6eaed815345db08a95abf6e9",
+  "generatedAt": "2026-07-21T04:32:47.174Z",
   "count": 3080,
   "extensions": [
     {
@@ -40118,7 +40118,7 @@
       ],
       "store": "https://www.raycast.com/skroll/raycast-deskly",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly",
-      "treeSha": "738a6cf3602f85e1adfb4c62dfd94ec313d0b117"
+      "treeSha": "52339291dd8af42dd819ca44dd52e5e6504b605f"
     },
     {
       "dir": "raycast-diki",
