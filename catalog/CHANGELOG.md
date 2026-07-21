@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-21 — upstream `ba957de79f`
+
+**Updated (1):** [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive)
+
 ## 2026-07-21 — upstream `db19796076`
 
 **Added (1):** [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture)

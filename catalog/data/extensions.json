@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "db19796076e3fdec019f04f32307cb3767d52ee5",
-  "generatedAt": "2026-07-21T15:17:53.211Z",
+  "commit": "ba957de79fa3c9132f2c0486bbe2ac165e325350",
+  "generatedAt": "2026-07-21T19:51:27.566Z",
   "count": 3083,
   "extensions": [
     {
@@ -22846,7 +22846,7 @@
       ],
       "store": "https://www.raycast.com/alerix/is-it-alive",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/is-it-alive",
-      "treeSha": "dfcb7120ef9915094d87101e268bb7c3e01846aa"
+      "treeSha": "4d89b70eb42d60806ca634173686ee33aa95c302"
     },
     {
       "dir": "is-it-toxic-to",
