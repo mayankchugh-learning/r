@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · **APIs & Networking** · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-14 of 242 extensions · [← Cross-platform · Developer Tools](./README.md)
+14 of 243 extensions · [← Cross-platform · Developer Tools](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -15,7 +15,7 @@
 | [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) | This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) | meguoe | macOS, Windows | [store](https://www.raycast.com/meguoe/ip-tools) |
 | [OpenRouter Manager](https://github.com/raycast/extensions/tree/main/extensions/openrouter-manager) | View your OpenRouter credits and manage your API keys | ClaPalo | macOS, Windows | [store](https://www.raycast.com/ClaPalo/openrouter-manager) |
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
-| [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) | Quickly find the docs you need for the Planning Center API. | thomas.harmond | macOS, Windows | [store](https://www.raycast.com/thomas.harmond/planning-center-api-docs) |
+| [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) | Quickly find and copy the docs you need for the Planning Center API. | thomas.harmond | macOS, Windows | [store](https://www.raycast.com/thomas.harmond/planning-center-api-docs) |
 | [Port from Project Name](https://github.com/raycast/extensions/tree/main/extensions/port-from-project-name) | A tool that can generate a unique 4 digit port for a given project name | sopheakvethya_syna | Windows, macOS | [store](https://www.raycast.com/sopheakvethya_syna/port-from-project-name) |
 | [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
 | [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | Manage API Keys and Domains, and Send Emails using Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |

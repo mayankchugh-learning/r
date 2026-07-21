@@ -1,8 +1,8 @@
 # Search & Bookmarks
 
-195 extensions · [← Productivity](./README.md)
+196 extensions · [← Productivity](./README.md)
 
-[Bookmarks ✦](#bookmarks) (22) · [History ✦](#history) (12) · [Documentation ✦](#documentation) (15) · [Tabs ✦](#tabs) (4) · [Recent ✦](#recent) (8) · [Code ✦](#code) (6) · [Repositories ✦](#repositories) (5) · [Sites ✦](#sites) (6) · [Across ✦](#across) (5) · [Chats ✦](#chats) (5) · [Library ✦](#library) (5) · [Store ✦](#store) (4) · [General](#general) (98)
+[Bookmarks ✦](#bookmarks) (22) · [History ✦](#history) (12) · [Documentation ✦](#documentation) (15) · [Tabs ✦](#tabs) (4) · [Recent ✦](#recent) (8) · [Code ✦](#code) (6) · [Repositories ✦](#repositories) (5) · [Sites ✦](#sites) (6) · [Across ✦](#across) (5) · [Chats ✦](#chats) (5) · [Library ✦](#library) (5) · [Store ✦](#store) (4) · [General](#general) (99)
 
 *✦ auto-discovered topic group*
 
@@ -211,6 +211,7 @@
 | [List by FullForms](https://github.com/raycast/extensions/tree/main/extensions/list-by-fullforms) | Search, add, and edit abbreviations, full forms, and glossary terms from Raycast. | mithunmathew | macOS, Windows | [store](https://www.raycast.com/mithunmathew/list-by-fullforms) |
 | [Logtail](https://github.com/raycast/extensions/tree/main/extensions/logtail) | Search and View your Logtail logs at any time | Cavallando | macOS | [store](https://www.raycast.com/Cavallando/logtail) |
 | [Lucky Surf](https://github.com/raycast/extensions/tree/main/extensions/lucky-surf) | Say goodbye to scrolling through endless search results – simply trust your intuition and let serendipity guide you to the information you need, swiftly and ef… | popalay | macOS | [store](https://www.raycast.com/popalay/lucky-surf) |
+| [Mailto Link Generator](https://github.com/raycast/extensions/tree/main/extensions/mailto-link-generator) | Build mailto: links with every field — to, cc, bcc, subject and body — then copy them or open a draft. | stefan.imbesi | macOS | [store](https://www.raycast.com/stefan.imbesi/mailto-link-generator) |
 | [MAMP Utility](https://github.com/raycast/extensions/tree/main/extensions/mamp-utility) | Search and organize your MAMP hosted website. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/mamp-utility) |
 | [Metabase](https://github.com/raycast/extensions/tree/main/extensions/metabase) | Search Metabase questions faster | vimtor | macOS | [store](https://www.raycast.com/vimtor/metabase) |
 | [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |

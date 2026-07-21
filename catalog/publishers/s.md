@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-161 publishers · [← publisher index](./README.md)
+162 publishers · [← publisher index](./README.md)
 
 | Publisher | Extensions | Titles |
 | --- | --- | --- |
@@ -131,6 +131,7 @@
 | [stablecog](https://www.raycast.com/stablecog) | 1 | [Stablecog](https://github.com/raycast/extensions/tree/main/extensions/stablecog) |
 | [star_zero](https://www.raycast.com/star_zero) | 1 | [Android ADB Input](https://github.com/raycast/extensions/tree/main/extensions/android-adb-input) |
 | [stayallive](https://www.raycast.com/stayallive) | 1 | [Tny](https://github.com/raycast/extensions/tree/main/extensions/tny) |
+| [stefan.imbesi](https://www.raycast.com/stefan.imbesi) | 1 | [Mailto Link Generator](https://github.com/raycast/extensions/tree/main/extensions/mailto-link-generator) |
 | [stefanbd](https://www.raycast.com/stefanbd) | 1 | [Ring Intercom](https://github.com/raycast/extensions/tree/main/extensions/ring-intercom) |
 | [stefann](https://www.raycast.com/stefann) | 1 | [Vocabulary Builder](https://github.com/raycast/extensions/tree/main/extensions/vocabulary-builder) |
 | [steffenble](https://www.raycast.com/steffenble) | 1 | [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) |

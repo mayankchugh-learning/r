@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · **Search & Bookmarks** · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-194 of 1266 extensions · [← macOS · Productivity](./README.md)
+195 of 1268 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -93,6 +93,7 @@
 | [Logtail](https://github.com/raycast/extensions/tree/main/extensions/logtail) | Search and View your Logtail logs at any time | Cavallando | macOS | [store](https://www.raycast.com/Cavallando/logtail) |
 | [Lucky Surf](https://github.com/raycast/extensions/tree/main/extensions/lucky-surf) | Say goodbye to scrolling through endless search results – simply trust your intuition and let serendipity guide you to the information you need, swiftly and ef… | popalay | macOS | [store](https://www.raycast.com/popalay/lucky-surf) |
 | [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
+| [Mailto Link Generator](https://github.com/raycast/extensions/tree/main/extensions/mailto-link-generator) | Build mailto: links with every field — to, cc, bcc, subject and body — then copy them or open a draft. | stefan.imbesi | macOS | [store](https://www.raycast.com/stefan.imbesi/mailto-link-generator) |
 | [MAMP Utility](https://github.com/raycast/extensions/tree/main/extensions/mamp-utility) | Search and organize your MAMP hosted website. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/mamp-utility) |
 | [Mattermost](https://github.com/raycast/extensions/tree/main/extensions/mattermost) | Search for chats, see unread messages, and set your presence status. | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mattermost) |
 | [Metabase](https://github.com/raycast/extensions/tree/main/extensions/metabase) | Search Metabase questions faster | vimtor | macOS | [store](https://www.raycast.com/vimtor/metabase) |

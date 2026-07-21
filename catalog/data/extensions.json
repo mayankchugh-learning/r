@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "349ef5afec6f0ddc6eaed815345db08a95abf6e9",
-  "generatedAt": "2026-07-21T04:32:47.174Z",
-  "count": 3080,
+  "commit": "e707426b13d12f9cc171559cbf00163ca63bf405",
+  "generatedAt": "2026-07-21T11:40:17.906Z",
+  "count": 3082,
   "extensions": [
     {
       "dir": "0x0",
@@ -5679,7 +5679,7 @@
       ],
       "store": "https://www.raycast.com/steffenble/capacities",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/capacities",
-      "treeSha": "6b31c90448caac0fae1b292e7ee1f2d87cc84613"
+      "treeSha": "1f801a9bd4aaf95fd162bdc396ac2af3e89398de"
     },
     {
       "dir": "capture",
@@ -14472,6 +14472,26 @@
       "store": "https://www.raycast.com/artpi/evernote",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/evernote",
       "treeSha": "0ad60f547284069f1ea00ebc6e576d1cf5b64494"
+    },
+    {
+      "dir": "everyapi",
+      "name": "everyapi",
+      "title": "EveryAPI",
+      "description": "Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity.",
+      "author": "everyapi_dev",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/everyapi_dev/everyapi",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/everyapi",
+      "treeSha": "6d6f80fd638c9a4444b1bd3d090cf699d7463a37"
     },
     {
       "dir": "everything-search",
@@ -27546,6 +27566,25 @@
       "treeSha": "5ae590a0033d8e770c5bacdfdf32deb2a0db3b9b"
     },
     {
+      "dir": "mailto-link-generator",
+      "name": "mailto-link-generator",
+      "title": "Mailto Link Generator",
+      "description": "Build mailto: links with every field — to, cc, bcc, subject and body — then copy them or open a draft.",
+      "author": "stefan.imbesi",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Communication"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/stefan.imbesi/mailto-link-generator",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/mailto-link-generator",
+      "treeSha": "32267734880d82ee6c78c3017dd4165d456c5620"
+    },
+    {
       "dir": "mailtrap",
       "name": "mailtrap",
       "title": "Mailtrap",
@@ -36760,7 +36799,7 @@
       "dir": "planning-center-api-docs",
       "name": "planning-center-api-docs",
       "title": "Planning Center API Docs",
-      "description": "Quickly find the docs you need for the Planning Center API.",
+      "description": "Quickly find and copy the docs you need for the Planning Center API.",
       "author": "thomas.harmond",
       "owner": null,
       "contributors": 0,
@@ -36774,7 +36813,7 @@
       ],
       "store": "https://www.raycast.com/thomas.harmond/planning-center-api-docs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs",
-      "treeSha": "d6430b0f21e4ae96debdce576dd2228feaa68d6f"
+      "treeSha": "bda05e40c27d1b3f35321e5780e2a92007b168ff"
     },
     {
       "dir": "planwell",
@@ -45879,7 +45918,7 @@
       ],
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
-      "treeSha": "faf4a327836cbaeeb0dc58b99ab96c4ee23f76a5"
+      "treeSha": "20fb67283e4b8112ba6b432c0a87f0c15abd616a"
     },
     {
       "dir": "slack-status",
@@ -46785,7 +46824,7 @@
       ],
       "store": "https://www.raycast.com/doktor500/spanish-tv-guide",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spanish-tv-guide",
-      "treeSha": "ccf4259d9d59fa5cd6cf4c10d12e2c9491f3aff0"
+      "treeSha": "2fbdf2b18c9104e24e952c3a275bd795eb45026b"
     },
     {
       "dir": "spatie-documentation",
@@ -50400,7 +50439,7 @@
       "description": "Check and search tasks in TickTick via Raycast",
       "author": "appest",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Productivity"
       ],
@@ -50409,7 +50448,7 @@
       ],
       "store": "https://www.raycast.com/appest/ticktick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ticktick",
-      "treeSha": "d68a643e125312f896c27faa5c55bc9e49e60b0f"
+      "treeSha": "56fc2182c1fcbbf84bf156219baa3872c5ae4c5b"
     },
     {
       "dir": "tidal",

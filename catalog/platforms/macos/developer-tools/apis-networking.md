@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · **APIs & Networking** · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-51 of 942 extensions · [← macOS · Developer Tools](./README.md)
+51 of 943 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@
 | [OpenRouter Manager](https://github.com/raycast/extensions/tree/main/extensions/openrouter-manager) | View your OpenRouter credits and manage your API keys | ClaPalo | macOS, Windows | [store](https://www.raycast.com/ClaPalo/openrouter-manager) |
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
 | [Pinata](https://github.com/raycast/extensions/tree/main/extensions/pinata) | An extension to interact with the Pianta API | pinata (org) | macOS | [store](https://www.raycast.com/pinata/pinata) |
-| [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) | Quickly find the docs you need for the Planning Center API. | thomas.harmond | macOS, Windows | [store](https://www.raycast.com/thomas.harmond/planning-center-api-docs) |
+| [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) | Quickly find and copy the docs you need for the Planning Center API. | thomas.harmond | macOS, Windows | [store](https://www.raycast.com/thomas.harmond/planning-center-api-docs) |
 | [Port from Project Name](https://github.com/raycast/extensions/tree/main/extensions/port-from-project-name) | A tool that can generate a unique 4 digit port for a given project name | sopheakvethya_syna | Windows, macOS | [store](https://www.raycast.com/sopheakvethya_syna/port-from-project-name) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | Find open ports and close them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |

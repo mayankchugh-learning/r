@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · **Monitoring & Logs** · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-19 of 942 extensions · [← macOS · Developer Tools](./README.md)
+20 of 943 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -10,6 +10,7 @@
 | [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension) | Monitor and configure your systems managed by Beszel. | wyattjoh | macOS | [store](https://www.raycast.com/wyattjoh/beszel) |
 | [ChangeDetection.io](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) | Website Change Detection For Clever People | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/changedetection-io) |
 | [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
+| [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 | [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) | A Raycast extension to browse your website analytics coming from Fathom. | yannglt | macOS | [store](https://www.raycast.com/yannglt/fathom-analytics-stats) |
 | [HetrixTools](https://github.com/raycast/extensions/tree/main/extensions/hetrixtools) | Uptime Monitor & Blacklist Monitor | xmok | macOS | [store](https://www.raycast.com/xmok/hetrixtools) |
 | [Incident.io](https://github.com/raycast/extensions/tree/main/extensions/incident-io) | Gets the incidents from Incident.io | nkl | macOS | [store](https://www.raycast.com/nkl/incident-io) |

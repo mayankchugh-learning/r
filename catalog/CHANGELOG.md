@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-21 — upstream `e707426b13`
+
+**Added (2):** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi), [Mailto Link Generator](https://github.com/raycast/extensions/tree/main/extensions/mailto-link-generator)
+
+**Updated (5):** [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities), [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs), [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack), [Spanish TV Guide](https://github.com/raycast/extensions/tree/main/extensions/spanish-tv-guide), [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick)
+
 ## 2026-07-21 — upstream `349ef5afec`
 
 **Updated (1):** [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly)

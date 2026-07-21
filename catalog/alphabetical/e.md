@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-69 extensions · [← catalog index](../README.md)
+70 extensions · [← catalog index](../README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -62,6 +62,7 @@
 | [Evaluate Math Expression](https://github.com/raycast/extensions/tree/main/extensions/evaluate-math-expression) | Reads current selection, evaluates the math expression, and shows it in a desired way | Dervex | macOS | [store](https://www.raycast.com/Dervex/evaluate-math-expression) |
 | [Everhour Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/everhour) | Track time against projects | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/everhour) |
 | [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) | Search your Evernote notes instantly using the local database of the official Evernote client. | artpi | macOS, Windows | [store](https://www.raycast.com/artpi/evernote) |
+| [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Evil Insult](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) | Generate Evil Insults | j3lte | macOS | [store](https://www.raycast.com/j3lte/evil-insult) |
 | [EVM Codes](https://github.com/raycast/extensions/tree/main/extensions/evm-codes) | Search for EVM opcodes on evm.codes | clabby | macOS | [store](https://www.raycast.com/clabby/evm-codes) |

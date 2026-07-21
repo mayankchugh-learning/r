@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-71 publishers · [← publisher index](./README.md)
+72 publishers · [← publisher index](./README.md)
 
 | Publisher | Extensions | Titles |
 | --- | --- | --- |
@@ -68,6 +68,7 @@
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |
 | [eunchurn](https://www.raycast.com/eunchurn) | 1 | [Helm Chart](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) |
 | [EvanZhouDev](https://www.raycast.com/EvanZhouDev) | 19 | [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator), [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence), [Cerebras](https://github.com/raycast/extensions/tree/main/extensions/cerebras), [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution), [Colorify - Generate Themes From Images](https://github.com/raycast/extensions/tree/main/extensions/colorify), [Counter](https://github.com/raycast/extensions/tree/main/extensions/counter), [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research), [Google Bard](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai), [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini), [Google PaLM](https://github.com/raycast/extensions/tree/main/extensions/raycast-google-palm), [Link Lock - Password Locked Links](https://github.com/raycast/extensions/tree/main/extensions/raycast-link-lock), [Memory](https://github.com/raycast/extensions/tree/main/extensions/memory), [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp), [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade), [RayTerm](https://github.com/raycast/extensions/tree/main/extensions/rayterm), [SAT Scorer](https://github.com/raycast/extensions/tree/main/extensions/sat-scorer), [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri), [SVG64 - Convert SVGs to Base64 Strings](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64), [WCA](https://github.com/raycast/extensions/tree/main/extensions/raycast-wca) |
+| [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) |
 | [evilhex](https://www.raycast.com/evilhex) | 1 | [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) |
 | [eviscares](https://www.raycast.com/eviscares) | 1 | [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco) |
 | [evnm](https://www.raycast.com/evnm) | 1 | [The Lot Radio](https://github.com/raycast/extensions/tree/main/extensions/the-lot-radio) |

@@ -1,8 +1,8 @@
 # Trackers & Monitors
 
-29 extensions · [← Productivity](./README.md)
+30 extensions · [← Productivity](./README.md)
 
-[Monitor ✦](#monitor) (5) · [Tracker ✦](#tracker) (5) · [Stats ✦](#stats) (4) · [General](#general) (15)
+[Monitor ✦](#monitor) (6) · [Tracker ✦](#tracker) (5) · [Stats ✦](#stats) (4) · [General](#general) (15)
 
 *✦ auto-discovered topic group*
 
@@ -10,6 +10,7 @@
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
+| [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 | [GPU Fleet Monitor](https://github.com/raycast/extensions/tree/main/extensions/gpu-fleet-monitor) | Monitor GPU/CPU usage across SSH hosts. Connect via Ghostty, Cursor, or tmux. | kazzart | macOS | [store](https://www.raycast.com/kazzart/gpu-fleet-monitor) |
 | [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |

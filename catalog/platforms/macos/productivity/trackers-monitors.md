@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · **Trackers & Monitors** · [General](./general.md)
 
-29 of 1266 extensions · [← macOS · Productivity](./README.md)
+30 of 1268 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) | Manage your DeepL API usage with ease. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/deepl-api-usage) |
 | [Defichain Lottery](https://github.com/raycast/extensions/tree/main/extensions/defichain-lottery) | Stats and your tickets for the Defichain Lottery | adrian-schnell | macOS | [store](https://www.raycast.com/adrian-schnell/defichain-lottery) |
 | [Everhour Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/everhour) | Track time against projects | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/everhour) |
+| [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 | [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |
 | [German Train Info](https://github.com/raycast/extensions/tree/main/extensions/bahn-info) | Get real-time information about your Deutsche Bahn ICE journey including next stops, delays, speed, and connection status | arran-nz | macOS | [store](https://www.raycast.com/arran-nz/bahn-info) |
 | [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) | Compile GLES shader code with MaliOC and get performance stats. | RomanVPX | macOS | [store](https://www.raycast.com/RomanVPX/gles-to-malioc) |

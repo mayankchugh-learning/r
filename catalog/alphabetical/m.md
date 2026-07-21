@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-201 extensions · [← catalog index](../README.md)
+202 extensions · [← catalog index](../README.md)
 
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
@@ -27,6 +27,7 @@
 | [MailerLite Stats](https://github.com/raycast/extensions/tree/main/extensions/mailerlite-stats) | MailerLite Stats Raycast extension | nkl | macOS | [store](https://www.raycast.com/nkl/mailerlite-stats) |
 | [MailerSend](https://github.com/raycast/extensions/tree/main/extensions/mailersend) | View Domains, Users, Templates in MailerSend Account | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/mailersend) |
 | [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
+| [Mailto Link Generator](https://github.com/raycast/extensions/tree/main/extensions/mailto-link-generator) | Build mailto: links with every field — to, cc, bcc, subject and body — then copy them or open a draft. | stefan.imbesi | macOS | [store](https://www.raycast.com/stefan.imbesi/mailto-link-generator) |
 | [Mailtrap](https://github.com/raycast/extensions/tree/main/extensions/mailtrap) | Mailtrap - View Inboxes, Emails, Copy Subjects while marking as Read | samjwillis97 | macOS | [store](https://www.raycast.com/samjwillis97/mailtrap) |
 | [Mailwip](https://github.com/raycast/extensions/tree/main/extensions/mailwip) | Delete Domains, Manage Aliases, and View MailLog | xmok | macOS | [store](https://www.raycast.com/xmok/mailwip) |
 | [Main Library in University of St Andrews](https://github.com/raycast/extensions/tree/main/extensions/st-andrews-main-library-occupancy) | How busy is the main library now? | Harry_Huang | macOS | [store](https://www.raycast.com/Harry_Huang/st-andrews-main-library-occupancy) |

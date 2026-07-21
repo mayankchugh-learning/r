@@ -1,8 +1,8 @@
 # Monitoring & Logs
 
-19 extensions · [← Developer Tools](./README.md)
+20 extensions · [← Developer Tools](./README.md)
 
-[Monitor ✦](#monitor) (9) · [Logs ✦](#logs) (4) · [General](#general) (6)
+[Monitor ✦](#monitor) (10) · [Logs ✦](#logs) (4) · [General](#general) (6)
 
 *✦ auto-discovered topic group*
 
@@ -11,6 +11,7 @@
 | Extension | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- |
 | [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension) | Monitor and configure your systems managed by Beszel. | wyattjoh | macOS | [store](https://www.raycast.com/wyattjoh/beszel) |
+| [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 | [HetrixTools](https://github.com/raycast/extensions/tree/main/extensions/hetrixtools) | Uptime Monitor & Blacklist Monitor | xmok | macOS | [store](https://www.raycast.com/xmok/hetrixtools) |
 | [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) | Monitor status pages and check if your favorite services are operational. | alerix | macOS, Windows | [store](https://www.raycast.com/alerix/is-it-alive) |
 | [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
