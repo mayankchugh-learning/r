@@ -1,16 +1,26 @@
-# Syncs catalog/ against upstream raycast/extensions every 20 minutes.
+# Syncs catalog/ against upstream raycast/extensions.
+#
+# CADENCE REALITY: the cron below asks for every 20 minutes, but GitHub's
+# `schedule:` event is best-effort and heavily throttles frequent crons — in
+# practice these runs land roughly every 60-90 minutes, not every 20, and
+# some slots are skipped entirely under load. This is a documented GitHub
+# limitation, not a config error; there is no cron value that makes GitHub
+# honor sub-hourly scheduling. For true 20-minute cadence, drive the workflow
+# from an EXTERNAL scheduler via the `repository_dispatch` trigger below or the
+# workflow_dispatch API — those are not throttled the way `schedule` is.
+# Minutes are offset off :00/:20/:40 because the top-of-hour is the most
+# contended (and therefore most-delayed) slot on GitHub's scheduler.
 #
 # NOTE: GitHub only runs scheduled workflows from the repository's DEFAULT
-# branch, so the cron below activates once this file lands on main. Until
-# then, trigger it manually via workflow_dispatch (Actions tab -> Catalog
-# sync -> Run workflow, picking the branch that carries the catalog), or rely
-# on the hourly Claude routine.
+# branch, and pauses them after 60 days without repo activity.
 name: Catalog sync
 
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "7,27,47 * * * *"
   workflow_dispatch: {}
+  repository_dispatch:
+    types: [catalog-sync]
 
 permissions:
   contents: write
