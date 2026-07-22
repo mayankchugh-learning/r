@@ -10,7 +10,7 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 | --- | --- |
 | [By category](./categories/README.md) | 16 categories → curated subcategories → auto-discovered topic groups (✦), nested as deep as the data supports |
 | [By platform](./platforms/README.md) | macOS (3055) · Windows (796) · cross-platform (768), each by category |
-| [By publisher](./publishers/README.md) | 2041 publishers with all their extensions |
+| [By publisher](./publishers/README.md) | 2041 publishers ranked by total downloads; A–Z pages group each publisher's extensions by category |
 | [Alphabetical](./alphabetical/0-9.md) | every extension, A–Z |
 | [Changelog](./CHANGELOG.md) | upstream additions, updates, removals per sync |
 

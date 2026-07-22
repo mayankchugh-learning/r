@@ -4,12 +4,12 @@
 
 *✦ auto-discovered topic group*
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) | Interact with Anthropic's Claude API directly from Raycast | florisdobber | macOS | [store](https://www.raycast.com/florisdobber/claude) |
-| [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
-| [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) | Quickly switch between different Claude Code configurations and manage provider profiles | lavatorywang | macOS | [store](https://www.raycast.com/lavatorywang/claude-code-config-switcher) |
-| [Claude Session Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/claude-session-bookmarks) | Save and quickly open your Claude Code session links without keeping a pile of browser tabs around. | eaescob | macOS | [store](https://www.raycast.com/eaescob/claude-session-bookmarks) |
-| [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | [store](https://www.raycast.com/kud/claude-sessions) |
-| [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS | [store](https://www.raycast.com/qazi0/claudecast) |
-| [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/jsonbored/heyclaude) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) | 31,269 | Interact with Anthropic's Claude API directly from Raycast | florisdobber | macOS | [store](https://www.raycast.com/florisdobber/claude) |
+| [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 3,209 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
+| [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 1,788 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS | [store](https://www.raycast.com/qazi0/claudecast) |
+| [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) | 493 | Quickly switch between different Claude Code configurations and manage provider profiles | lavatorywang | macOS | [store](https://www.raycast.com/lavatorywang/claude-code-config-switcher) |
+| [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | 100 | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/jsonbored/heyclaude) |
+| [Claude Session Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/claude-session-bookmarks) | 4 | Save and quickly open your Claude Code session links without keeping a pile of browser tabs around. | eaescob | macOS | [store](https://www.raycast.com/eaescob/claude-session-bookmarks) |
+| [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | 0 | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | [store](https://www.raycast.com/kud/claude-sessions) |

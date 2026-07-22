@@ -4,11 +4,11 @@
 
 6 of 283 extensions · [← Cross-platform · Productivity](./README.md)
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
-| [Nepali Calendar](https://github.com/raycast/extensions/tree/main/extensions/nepali-calendar) | View and navigate the Nepali calendar (Bikram Sambat) with support for both English and Nepali languages. Customize your view by setting the first day of the w… | adarshdoesntcode | macOS, Windows | [store](https://www.raycast.com/adarshdoesntcode/nepali-calendar) |
-| [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
-| [Shape Calendar](https://github.com/raycast/extensions/tree/main/extensions/shape-calendar) | Plan your active life with Shape Calendar — search, create, and manage your training activities | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/shape-calendar) |
-| [Vietnamese Calendar](https://github.com/raycast/extensions/tree/main/extensions/vietnamese-calendar) | A comprehensive Vietnamese Lunar Calendar for Raycast. View Solar and Lunar dates, check holidays with anniversary counts, and navigate easily with shortcuts. | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/vietnamese-calendar) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 58,198 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 21,881 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
+| [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 188 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
+| [Nepali Calendar](https://github.com/raycast/extensions/tree/main/extensions/nepali-calendar) | 66 | View and navigate the Nepali calendar (Bikram Sambat) with support for both English and Nepali languages. Customize your view by setting the first day of the w… | adarshdoesntcode | macOS, Windows | [store](https://www.raycast.com/adarshdoesntcode/nepali-calendar) |
+| [Vietnamese Calendar](https://github.com/raycast/extensions/tree/main/extensions/vietnamese-calendar) | 25 | A comprehensive Vietnamese Lunar Calendar for Raycast. View Solar and Lunar dates, check holidays with anniversary counts, and navigate easily with shortcuts. | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/vietnamese-calendar) |
+| [Shape Calendar](https://github.com/raycast/extensions/tree/main/extensions/shape-calendar) | 18 | Plan your active life with Shape Calendar — search, create, and manage your training activities | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/shape-calendar) |

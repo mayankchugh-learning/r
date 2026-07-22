@@ -4,6 +4,6 @@
 
 1 of 204 extensions · [← macOS · System](./README.md)
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Zen Mode](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) | Hide Everything. Mute Everything. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/zen-mode) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Zen Mode](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) | 1,682 | Hide Everything. Mute Everything. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/zen-mode) |

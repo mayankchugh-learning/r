@@ -4,7 +4,7 @@
 
 2 of 296 extensions · [← Windows · Productivity](./README.md)
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [42 Api Tools](https://github.com/raycast/extensions/tree/main/extensions/42-api) | Track your logtime and find peers in 42 school clusters directly from Raycast | maujogue | macOS, Windows | [store](https://www.raycast.com/maujogue/42-api) |
-| [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,067 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
+| [42 Api Tools](https://github.com/raycast/extensions/tree/main/extensions/42-api) | 35 | Track your logtime and find peers in 42 school clusters directly from Raycast | maujogue | macOS, Windows | [store](https://www.raycast.com/maujogue/42-api) |

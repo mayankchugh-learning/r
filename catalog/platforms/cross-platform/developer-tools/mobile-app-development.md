@@ -4,6 +4,6 @@
 
 1 of 243 extensions · [← Cross-platform · Developer Tools](./README.md)
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | 101 | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |

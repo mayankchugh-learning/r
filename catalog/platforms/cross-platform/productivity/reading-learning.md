@@ -4,13 +4,13 @@
 
 8 of 283 extensions · [← Cross-platform · Productivity](./README.md)
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Bed Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/bed-time-calculator) | Calculate optimal sleep and wake times with color-coded quality indicators and natural language time input. | khlebobul | macOS, Windows | [store](https://www.raycast.com/khlebobul/bed-time-calculator) |
-| [Flight Search](https://github.com/raycast/extensions/tree/main/extensions/skyscanner-flights) | Search for flights with natural language and open results on Skyscanner.com | ayushtom | macOS, Windows | [store](https://www.raycast.com/ayushtom/skyscanner-flights) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
-| [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) | Opens books, verses or resources in Logos Bible Software | michael_marvive | macOS, Windows | [store](https://www.raycast.com/michael_marvive/logos-launcher) |
-| [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) | Semantic bookmark search - save any URL and find it later in natural language. | rithmic | macOS, Windows | [store](https://www.raycast.com/rithmic/raycall) |
-| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
-| [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
-| [Vocabulary Builder](https://github.com/raycast/extensions/tree/main/extensions/vocabulary-builder) | Build your vocabulary while learning a new language | stefann | macOS, Windows | [store](https://www.raycast.com/stefann/vocabulary-builder) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,904 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Bed Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/bed-time-calculator) | 495 | Calculate optimal sleep and wake times with color-coded quality indicators and natural language time input. | khlebobul | macOS, Windows | [store](https://www.raycast.com/khlebobul/bed-time-calculator) |
+| [Flight Search](https://github.com/raycast/extensions/tree/main/extensions/skyscanner-flights) | 432 | Search for flights with natural language and open results on Skyscanner.com | ayushtom | macOS, Windows | [store](https://www.raycast.com/ayushtom/skyscanner-flights) |
+| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 369 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
+| [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 297 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
+| [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) | 240 | Opens books, verses or resources in Logos Bible Software | michael_marvive | macOS, Windows | [store](https://www.raycast.com/michael_marvive/logos-launcher) |
+| [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) | 22 | Semantic bookmark search - save any URL and find it later in natural language. | rithmic | macOS, Windows | [store](https://www.raycast.com/rithmic/raycall) |
+| [Vocabulary Builder](https://github.com/raycast/extensions/tree/main/extensions/vocabulary-builder) | 8 | Build your vocabulary while learning a new language | stefann | macOS, Windows | [store](https://www.raycast.com/stefann/vocabulary-builder) |

@@ -4,11 +4,11 @@
 
 6 of 330 extensions · [← macOS · Uncategorized](./README.md)
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [CommitLint](https://github.com/raycast/extensions/tree/main/extensions/commitlint) | Generate commitlint message. Based on commitlint.io tool. | lardissone | macOS | [store](https://www.raycast.com/lardissone/commitlint) |
-| [Maxly.chat](https://github.com/raycast/extensions/tree/main/extensions/maxly-chat) | maxly.chat - branching canvas | maxplee8 | macOS, Windows | [store](https://www.raycast.com/maxplee8/maxly-chat) |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Postiz](https://github.com/raycast/extensions/tree/main/extensions/postiz) | The All-in-One Social Media Management Tool | xmok | macOS | [store](https://www.raycast.com/xmok/postiz) |
-| [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
-| [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 43,961 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [CommitLint](https://github.com/raycast/extensions/tree/main/extensions/commitlint) | 1,722 | Generate commitlint message. Based on commitlint.io tool. | lardissone | macOS | [store](https://www.raycast.com/lardissone/commitlint) |
+| [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,594 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
+| [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,117 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
+| [Postiz](https://github.com/raycast/extensions/tree/main/extensions/postiz) | 50 | The All-in-One Social Media Management Tool | xmok | macOS | [store](https://www.raycast.com/xmok/postiz) |
+| [Maxly.chat](https://github.com/raycast/extensions/tree/main/extensions/maxly-chat) | 25 | maxly.chat - branching canvas | maxplee8 | macOS, Windows | [store](https://www.raycast.com/maxplee8/maxly-chat) |

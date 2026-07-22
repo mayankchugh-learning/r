@@ -4,9 +4,9 @@
 
 4 of 351 extensions · [← macOS · Applications](./README.md)
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Bibmanager](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) | Search Bibmanager Database from Raycast | aaronschneider | macOS | [store](https://www.raycast.com/aaronschneider/bibmanager) |
-| [Calibre Library](https://github.com/raycast/extensions/tree/main/extensions/calibre-search) | Search your Calibre ebook library by title and author | BrunoMonteiro | macOS | [store](https://www.raycast.com/BrunoMonteiro/calibre-library) |
-| [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
-| [GoodLinks](https://github.com/raycast/extensions/tree/main/extensions/goodlinks) | Save, list, and open articles in GoodLinks | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/goodlinks) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [GoodLinks](https://github.com/raycast/extensions/tree/main/extensions/goodlinks) | 661 | Save, list, and open articles in GoodLinks | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/goodlinks) |
+| [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | 299 | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
+| [Bibmanager](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) | 114 | Search Bibmanager Database from Raycast | aaronschneider | macOS | [store](https://www.raycast.com/aaronschneider/bibmanager) |
+| [Calibre Library](https://github.com/raycast/extensions/tree/main/extensions/calibre-search) | 54 | Search your Calibre ebook library by title and author | BrunoMonteiro | macOS | [store](https://www.raycast.com/BrunoMonteiro/calibre-library) |

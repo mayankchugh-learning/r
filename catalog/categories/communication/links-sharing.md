@@ -2,11 +2,11 @@
 
 6 extensions · [← Communication](./README.md)
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) | Quickly shorten the selected URL or current clipboard URL with Bitly | blessanm86 | macOS, Windows | [store](https://www.raycast.com/blessanm86/bitly-url-shortener) |
-| [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
-| [Kutt](https://github.com/raycast/extensions/tree/main/extensions/kutt) | Free & Open Source Modern URL Shortener | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/kutt) |
-| [Mailto Link Generator](https://github.com/raycast/extensions/tree/main/extensions/mailto-link-generator) | Build mailto: links with every field — to, cc, bcc, subject and body — then copy them or open a draft. | stefan.imbesi | macOS | [store](https://www.raycast.com/stefan.imbesi/mailto-link-generator) |
-| [Share My Code](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) | Quickly create shareable code snippet with ShareMyCode directly in your Raycast ecosystem. | jairaume | macOS | [store](https://www.raycast.com/jairaume/share-my-code) |
-| [UTM Campaign Builder](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) | Create a campaign URL with UTM attributes | vimtor | macOS | [store](https://www.raycast.com/vimtor/utm-campaign-builder) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) | 8,228 | Quickly shorten the selected URL or current clipboard URL with Bitly | blessanm86 | macOS, Windows | [store](https://www.raycast.com/blessanm86/bitly-url-shortener) |
+| [UTM Campaign Builder](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) | 378 | Create a campaign URL with UTM attributes | vimtor | macOS | [store](https://www.raycast.com/vimtor/utm-campaign-builder) |
+| [Share My Code](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) | 319 | Quickly create shareable code snippet with ShareMyCode directly in your Raycast ecosystem. | jairaume | macOS | [store](https://www.raycast.com/jairaume/share-my-code) |
+| [Kutt](https://github.com/raycast/extensions/tree/main/extensions/kutt) | 69 | Free & Open Source Modern URL Shortener | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/kutt) |
+| [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 1 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
+| [Mailto Link Generator](https://github.com/raycast/extensions/tree/main/extensions/mailto-link-generator) | 1 | Build mailto: links with every field — to, cc, bcc, subject and body — then copy them or open a draft. | stefan.imbesi | macOS | [store](https://www.raycast.com/stefan.imbesi/mailto-link-generator) |

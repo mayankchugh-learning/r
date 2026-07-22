@@ -4,9 +4,9 @@
 
 4 of 253 extensions · [← Windows · Developer Tools](./README.md)
 
-| Extension | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- |
-| [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
-| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
-| [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,071 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 920 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
+| [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | 17 | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
+| [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | 16 | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |
