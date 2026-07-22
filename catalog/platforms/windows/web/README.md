@@ -49,7 +49,7 @@
 | [NeoDB](https://github.com/raycast/extensions/tree/main/extensions/neodb) | 42 | Search NeoDB items and view item details | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/neodb) |
 | [Link Transformer](https://github.com/raycast/extensions/tree/main/extensions/link-transformer) | 37 | Link Transformer lets you save, search, and transform links using your own javascript custom actions. | dangkhoipro | macOS, Windows | [store](https://www.raycast.com/dangkhoipro/link-transformer) |
 | [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) | 22 | Semantic bookmark search - save any URL and find it later in natural language. | rithmic | macOS, Windows | [store](https://www.raycast.com/rithmic/raycall) |
-| [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) | 9 | Search, browse, and manage your Keeply bookmarks | rolfkoenders | macOS, Windows | [store](https://www.raycast.com/rolfkoenders/keeply) |
+| [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) | 9 | Search, browse, and manage your Keeply bookmarks | rolfkoenders | macOS, Windows | [store](https://www.raycast.com/RolfKoenders/keeply) |
 | [Shopify Shop](https://github.com/raycast/extensions/tree/main/extensions/shopify-shop) | 6 | Browse and search products from a Shopify store. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shopify-shop) |
 | [TinyFish Search](https://github.com/raycast/extensions/tree/main/extensions/tinyfish-search) | 6 | Search the web with TinyFish, open result URLs, and fetch clean page content. | pranav_janakiraman | macOS, Windows | [store](https://www.raycast.com/pranav_janakiraman/tinyfish-search) |
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 3 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
@@ -109,7 +109,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 12 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/spratch/sanity-icons) |
+| [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 12 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [BJ-Share](https://github.com/raycast/extensions/tree/main/extensions/bj-share) | 4 | This extension can provide quick access to BJ-Share torrents using RSS feed | alexandremt | macOS, Windows | [store](https://www.raycast.com/alexandremt/bj-share) |
 
 ## Services & Communities
@@ -143,7 +143,7 @@
 | [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,231 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 810 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 642 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
-| [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 106 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/shadeov/dtf) |
+| [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 106 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [CogniMemo](https://github.com/raycast/extensions/tree/main/extensions/cognimemo) | 52 | Add and search memories with your personal AI-powered knowledge base | sami_ullah_tufail | macOS, Windows | [store](https://www.raycast.com/sami_ullah_tufail/cognimemo) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 3 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
 

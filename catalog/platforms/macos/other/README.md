@@ -39,7 +39,7 @@
 | [Pollen Count](https://github.com/raycast/extensions/tree/main/extensions/pollen-count) | 80 | Show current pollen data by the Deutscher Wetterdienst API (German Weather Services) | H16nning | macOS | [store](https://www.raycast.com/H16nning/pollen-count) |
 | [Veganify](https://github.com/raycast/extensions/tree/main/extensions/veganify-application) | 43 | Instantly verify the vegan status of food ingredients using the Veganify API. Perfect for quick checks while cooking or searching for recipes. Works in several… | philipbrembeck | macOS | [store](https://www.raycast.com/philipbrembeck/veganify-application) |
 | [NHK Program Search](https://github.com/raycast/extensions/tree/main/extensions/nhk-program-search) | 26 | Search NHK program guide by NHK API | sitogi | macOS | [store](https://www.raycast.com/sitogi/nhk-program-search) |
-| [Area & Country Codes](https://github.com/raycast/extensions/tree/main/extensions/area-code-lookup) | 20 | Quickly lookup area codes and country codes to see location and current timezone | dare | macOS | [store](https://www.raycast.com/dare/area-code-lookup) |
+| [Area & Country Codes](https://github.com/raycast/extensions/tree/main/extensions/area-code-lookup) | 20 | Quickly lookup area codes and country codes to see location and current timezone | dare | macOS | [store](https://www.raycast.com/Dare/area-code-lookup) |
 
 ### Productivity & Tasks
 
@@ -200,7 +200,7 @@
 | [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) | 705 | Real-Debrid client for Raycast NOT AN OFFICIAL CLIENT | Yamen | macOS | [store](https://www.raycast.com/Yamen/real-debrid-manager) |
 | [Clean Text](https://github.com/raycast/extensions/tree/main/extensions/clean-text) | 681 | Clean and format text with various text modification operations | GenuineCheddar | macOS | [store](https://www.raycast.com/GenuineCheddar/clean-text) |
 | [Recent Excel - Show Recent Excel Files](https://github.com/raycast/extensions/tree/main/extensions/recent-excel) | 670 | Shows recent excel files | aradbm | macOS | [store](https://www.raycast.com/aradbm/recent-excel) |
-| [V2EX](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer) | 630 | View V2EX in Raycast. | daikaiyu | macOS | [store](https://www.raycast.com/daikaiyu/v2ex-viewer) |
+| [V2EX](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer) | 630 | View V2EX in Raycast. | daikaiyu | macOS | [store](https://www.raycast.com/kvdo2/v2ex-viewer) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 625 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart) | 611 | Home automation with Tuya Smart | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/tuya-smart) |
 | [Is It Toxic To?](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) | 521 | Check if a plant is toxic to an animal | chesterhow | macOS | [store](https://www.raycast.com/chesterhow/is-it-toxic-to) |
@@ -238,7 +238,7 @@
 | [Intermittent Fasting](https://github.com/raycast/extensions/tree/main/extensions/intermittent-fasting) | 63 | Tracks intermittent fasting | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/intermittent-fasting) |
 | [Ring Intercom](https://github.com/raycast/extensions/tree/main/extensions/ring-intercom) | 56 | Interact with your Ring Intercom device | stefanbd | macOS | [store](https://www.raycast.com/stefanbd/ring-intercom) |
 | [Wemo](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) | 55 | Control your Wemo devices from Raycast | iamnatch | macOS | [store](https://www.raycast.com/iamnatch/raycast-wemo) |
-| [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) | 53 | Quickly go to a date on the Matrix of Destiny | unitech | macOS | [store](https://www.raycast.com/unitech/the-matrix-of-destiny) |
+| [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) | 53 | Quickly go to a date on the Matrix of Destiny | unitech | macOS | [store](https://www.raycast.com/ordin/the-matrix-of-destiny) |
 | [Swap Commas & Dots](https://github.com/raycast/extensions/tree/main/extensions/swap-commas-dots) | 50 | Swap commas and dots in selected text. | brunopicinin | macOS | [store](https://www.raycast.com/brunopicinin/swap-commas-dots) |
 | [Yandex Smart Home](https://github.com/raycast/extensions/tree/main/extensions/yandex-smart-home) | 48 | Control Yandex Smart Home devices and run scenarios from Raycast. | devall | macOS, Windows | [store](https://www.raycast.com/devall/yandex-smart-home) |
 | [Time Awareness](https://github.com/raycast/extensions/tree/main/extensions/time-awareness) | 47 | Track your activity sessions and intervals | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/time-awareness) |

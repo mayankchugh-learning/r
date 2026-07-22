@@ -34,10 +34,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 479,192 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) | 35,354 | Search your Raindrop.io bookmarks | lardissone | macOS, Windows | [store](https://www.raycast.com/lardissone/raindrop-io) |
 | [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,016 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
 | [Microsoft Edge](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) | 12,882 | Search open tabs, bookmarks, collections and history in Microsoft Edge. | KartikKumarSahoo | macOS | [store](https://www.raycast.com/KartikKumarSahoo/microsoft-edge) |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 0 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 
 ## General
 
@@ -46,7 +46,7 @@
 | [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 38,353 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
 | [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,153 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
 | [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,255 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
-| [AppGrid](https://github.com/raycast/extensions/tree/main/extensions/appgrid) | 427 | Smart app launcher with grid view and category grouping | jungwoon | macOS | [store](https://www.raycast.com/jungwoon/appgrid) |
+| [AppGrid](https://github.com/raycast/extensions/tree/main/extensions/appgrid) | 427 | Smart app launcher with grid view and category grouping | jungwoon | macOS | [store](https://www.raycast.com/Jungwoon/appgrid) |
 | [Google Calendar Epic Time Logger](https://github.com/raycast/extensions/tree/main/extensions/time-logger) | 399 | Helps you register your work to Google Calendar | aramikuto | macOS | [store](https://www.raycast.com/aramikuto/time-logger) |
 | [Focusflow - a Study Clock](https://github.com/raycast/extensions/tree/main/extensions/focus-flow) | 115 | A Raycast extension to help you Focus on your studies and Flow with your team. Engage with your friends in some friendly competition. | Ek217 | macOS | [store](https://www.raycast.com/Ek217/focus-flow) |
 | [Jitsi](https://github.com/raycast/extensions/tree/main/extensions/jitsi) | 55 | Create meetings with Jitsi Meet | tjwds | macOS | [store](https://www.raycast.com/tjwds/jitsi) |

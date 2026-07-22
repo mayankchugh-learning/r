@@ -59,5 +59,5 @@
 | [Mikrus](https://github.com/raycast/extensions/tree/main/extensions/mikrus) | 11 | Integration with mikr.us | tkowalski29 | macOS | [store](https://www.raycast.com/tkowalski29/mikrus) |
 | [Portuguese Tax Number](https://github.com/raycast/extensions/tree/main/extensions/nif-fresquinho) | 11 | Copy a new Portuguese Tax Number to the clipboard | poor666 | macOS | [store](https://www.raycast.com/poor666/nif-fresquinho) |
 | [NicNames](https://github.com/raycast/extensions/tree/main/extensions/nicnames) | 10 | Transparency with no surprises. Web3-friendly. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/nicnames) |
-| [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) | 3 | Inspect Kobbe analytics from Raycast. | michael_Andreuzza | macOS, Windows | [store](https://www.raycast.com/michael_Andreuzza/kobbe) |
+| [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) | 3 | Inspect Kobbe analytics from Raycast. | michael_Andreuzza | macOS, Windows | [store](https://www.raycast.com/michael_andreuzza/kobbe) |
 | [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) | 1 | Helper tools for Tibia including NPC prices, Rashid location, and imbuement guides | kjbakke | macOS | [store](https://www.raycast.com/kjbakke/tibia-helper) |

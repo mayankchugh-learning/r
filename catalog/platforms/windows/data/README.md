@@ -168,5 +168,5 @@
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 18 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
 | [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | 18 | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |
 | [NicNames](https://github.com/raycast/extensions/tree/main/extensions/nicnames) | 10 | Transparency with no surprises. Web3-friendly. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/nicnames) |
-| [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) | 3 | Inspect Kobbe analytics from Raycast. | michael_Andreuzza | macOS, Windows | [store](https://www.raycast.com/michael_Andreuzza/kobbe) |
+| [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) | 3 | Inspect Kobbe analytics from Raycast. | michael_Andreuzza | macOS, Windows | [store](https://www.raycast.com/michael_andreuzza/kobbe) |
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 2 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |

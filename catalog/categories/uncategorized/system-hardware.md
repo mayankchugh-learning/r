@@ -4,6 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 645,983 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 63,523 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
 | [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 8,434 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
 | [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 7,993 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
@@ -23,4 +24,3 @@
 | [Duck Facts](https://github.com/raycast/extensions/tree/main/extensions/duck-facts) | 97 | Displays interesting facts about ducks. | validate | macOS | [store](https://www.raycast.com/validate/duck-facts) |
 | [Glide](https://github.com/raycast/extensions/tree/main/extensions/glide) | 38 | Extension to open Glide Apps | titouanv | macOS | [store](https://www.raycast.com/titouanv/glide) |
 | [Farrago](https://github.com/raycast/extensions/tree/main/extensions/farrago) | 24 | An extension for interacting with the soundboard app Farrago. | boradatti | macOS | [store](https://www.raycast.com/boradatti/farrago) |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 0 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |

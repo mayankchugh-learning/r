@@ -49,7 +49,7 @@
 | [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 369 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 261 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 | [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 119 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
-| [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 106 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/shadeov/dtf) |
+| [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 106 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | 37 | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
 
 ### Communities & Forums

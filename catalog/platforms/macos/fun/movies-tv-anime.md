@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Anilist Airing Schedule](https://github.com/raycast/extensions/tree/main/extensions/anilist-airing-schedule) | 196 | Get airing schedule of anime from Anilist.co | yeskunall | Windows, macOS | [store](https://www.raycast.com/yeskunall/anilist-airing-schedule) |
-| [Torr Manager](https://github.com/raycast/extensions/tree/main/extensions/torr-manager) | 188 | Allows connect to selfhosted TorrServer, browse available torrents, select and watch movies directly from Raycast. | dannius | macOS | [store](https://www.raycast.com/dannius/torr-manager) |
+| [Torr Manager](https://github.com/raycast/extensions/tree/main/extensions/torr-manager) | 188 | Allows connect to selfhosted TorrServer, browse available torrents, select and watch movies directly from Raycast. | dannius | macOS | [store](https://www.raycast.com/danniuz/torr-manager) |
 | [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs) | 77 | Search for TV show ratings and get individual episode ratings, straight from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/series-rating-graphs) |
 | [Danbooru](https://github.com/raycast/extensions/tree/main/extensions/danbooru) | 70 | Search the anime image board Danbooru! | abel_roinsard | macOS | [store](https://www.raycast.com/abel_roinsard/danbooru) |
 | [Cinemas NOS](https://github.com/raycast/extensions/tree/main/extensions/cinemas-nos) | 35 | Shows all movies and sessions in display by Cinemas NOS. | diogo_ferrer | macOS | [store](https://www.raycast.com/diogo_ferrer/cinemas-nos) |

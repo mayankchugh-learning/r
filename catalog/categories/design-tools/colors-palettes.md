@@ -4,6 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 490,892 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,068 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,369 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,186 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
@@ -22,4 +23,3 @@
 | [Random Color](https://github.com/raycast/extensions/tree/main/extensions/random-color) | 245 | Pick a random color. | srcrip | macOS | [store](https://www.raycast.com/srcrip/random-color) |
 | [LEGO Bricks](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) | 222 | Look up LEGO sets, colors, bricks etc. | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/lego-bricks) |
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 28 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 0 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |

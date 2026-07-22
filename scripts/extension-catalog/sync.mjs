@@ -37,7 +37,7 @@ import {
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { CATEGORY_SECTIONS, classify, sectionsForCategory, subcategoriesOf } from "./taxonomy.mjs";
-import { downloadsFor, fetchDownloads } from "./downloads.mjs";
+import { resolveDownloads } from "./downloads.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
 const CATALOG_DIR = path.join(ROOT, "catalog");
@@ -171,8 +171,14 @@ function slugify(s) {
   return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 }
 
+// Downloads are number | null (unknown — not on the store). null renders as
+// "—" and sorts last, and is never conflated with a genuine 0.
 function fmtNum(n) {
-  return Number(n || 0).toLocaleString("en-US");
+  return n == null ? "—" : Number(n).toLocaleString("en-US");
+}
+
+function dlOf(e) {
+  return e.downloads == null ? -1 : e.downloads;
 }
 
 function extRow(e) {
@@ -203,7 +209,7 @@ function byTitle(a, b) {
 }
 
 function byDownloads(a, b) {
-  return (b.downloads || 0) - (a.downloads || 0) || byTitle(a, b);
+  return dlOf(b) - dlOf(a) || byTitle(a, b);
 }
 
 function groupBy(items, keysOf) {
@@ -689,10 +695,76 @@ function generateCatalog(entries) {
   // Org-owned extensions count under the org handle, otherwise the author.
   const byPublisher = groupBy(sorted, (e) => (e.owner || e.author ? [e.owner || e.author] : []));
   const publishers = [...byPublisher.keys()];
-  const pubDownloads = (p) => byPublisher.get(p).reduce((s, e) => s + (e.downloads || 0), 0);
+  // Sum only known counts; a publisher whose extensions are all unknown → null.
+  const pubDownloads = (p) => {
+    const known = byPublisher.get(p).filter((e) => e.downloads != null);
+    return known.length ? known.reduce((s, e) => s + e.downloads, 0) : null;
+  };
+  // Canonical store handle (correct case), from a resolved store URL, so
+  // publisher links never 404; publishers with no store presence aren't linked.
+  const pubHandle = (p) => {
+    for (const e of byPublisher.get(p)) {
+      const m = String(e.store || "").match(/raycast\.com\/([^/]+)/);
+      if (m) return m[1];
+    }
+    return null;
+  };
+  const pubLinked = (p) => {
+    const h = pubHandle(p);
+    return h ? `[${mdEscape(p, 60)}](${STORE_BASE}/${h})` : mdEscape(p, 60);
+  };
 
-  // Letter pages (A–Z lookup): one row per publisher, their extensions grouped
-  // by category and sorted by downloads within each.
+  // Publishers with enough extensions get their own page, where extensions are
+  // organised by category and — for large categories — a further subcategory
+  // level. Each extension is filed under its PRIMARY (first) category only, so
+  // it appears once rather than under every category it lists.
+  const BIG_PUBLISHER = 10;
+  const isBig = (p) => byPublisher.get(p).length >= BIG_PUBLISHER;
+  const pubSlug = new Map();
+  {
+    const used = new Set();
+    for (const p of publishers.filter(isBig)) {
+      let s = slugify(p) || "publisher";
+      while (used.has(s)) s += "-x";
+      used.add(s);
+      pubSlug.set(p, s);
+    }
+  }
+  const pubDisplay = (p) =>
+    isBig(p) ? `[${mdEscape(p, 60)}](./id/${pubSlug.get(p)}.md)` : pubLinked(p);
+  const primaryCat = (e) => e.categories[0];
+
+  for (const p of publishers.filter(isBig)) {
+    const items = byPublisher.get(p);
+    const byCat = groupBy(items, (e) => [primaryCat(e)]);
+    const catDl = (c) => byCat.get(c).reduce((s, e) => s + (e.downloads || 0), 0);
+    const cats = [...byCat.keys()].sort((a, b) => catDl(b) - catDl(a) || a.localeCompare(b, "en"));
+    const h = pubHandle(p);
+    const lines = [
+      `# ${mdEscape(p, 80)}`,
+      "",
+      `${items.length} extensions · ${fmtNum(pubDownloads(p))} downloads` +
+        (h ? ` · [store](${STORE_BASE}/${h})` : "") +
+        " · [← publishers](../README.md)",
+    ];
+    for (const c of cats) {
+      const cItems = byCat.get(c);
+      lines.push("", `## ${c} (${cItems.length})`);
+      if (cItems.length > 15) {
+        const bySub = groupBy(cItems, (e) => [classify(e, c)]);
+        for (const sub of subcategoriesOf(c)) {
+          if (!bySub.has(sub)) continue;
+          lines.push("", `### ${sub}`, "", renderTable(bySub.get(sub)));
+        }
+      } else {
+        lines.push("", renderTable(cItems));
+      }
+    }
+    writePage(`publishers/id/${pubSlug.get(p)}.md`, lines);
+  }
+
+  // Letter pages (A–Z lookup): one row per publisher. Big publishers link to
+  // their page; small ones inline their extensions by primary category.
   const alphaPublishers = [...publishers].sort(
     (a, b) => a.toLowerCase().localeCompare(b.toLowerCase(), "en") || a.localeCompare(b, "en"),
   );
@@ -701,29 +773,34 @@ function generateCatalog(entries) {
   for (const letter of pubLetters) {
     const rows = pubByLetter.get(letter).map((p) => {
       const items = byPublisher.get(p);
-      const byCat = groupBy(items, (e) => e.categories);
-      const cats = [...byCat.keys()].sort(
-        (a, b) =>
-          byCat.get(b).reduce((s, e) => s + (e.downloads || 0), 0) -
-            byCat.get(a).reduce((s, e) => s + (e.downloads || 0), 0) || a.localeCompare(b, "en"),
-      );
-      const cell = cats
-        .map((c) => {
-          const titles = [...byCat.get(c)]
-            .sort(byDownloads)
-            .map((e) => `[${mdEscape(e.title, 50)}](${e.source})`)
-            .join(", ");
-          return `**${c}:** ${titles}`;
-        })
-        .join("<br>");
-      return `| [${mdEscape(p, 60)}](${STORE_BASE}/${p}) | ${items.length} | ${fmtNum(pubDownloads(p))} | ${cell} |`;
+      let cell;
+      if (isBig(p)) {
+        cell = `[see all ${items.length} →](./id/${pubSlug.get(p)}.md)`;
+      } else {
+        const byCat = groupBy(items, (e) => [primaryCat(e)]);
+        const cats = [...byCat.keys()].sort(
+          (a, b) =>
+            byCat.get(b).reduce((s, e) => s + (e.downloads || 0), 0) -
+              byCat.get(a).reduce((s, e) => s + (e.downloads || 0), 0) || a.localeCompare(b, "en"),
+        );
+        cell = cats
+          .map((c) => {
+            const titles = [...byCat.get(c)]
+              .sort(byDownloads)
+              .map((e) => `[${mdEscape(e.title, 50)}](${e.source})`)
+              .join(", ");
+            return `**${c}:** ${titles}`;
+          })
+          .join("<br>");
+      }
+      return `| ${pubDisplay(p)} | ${items.length} | ${fmtNum(pubDownloads(p))} | ${cell} |`;
     });
     writePage(`publishers/${letter.toLowerCase()}.md`, [
       `# Publishers — ${letter}`,
       "",
       letterNav(pubLetters, letter),
       "",
-      `${pubByLetter.get(letter).length} publishers · A–Z · extensions grouped by category, sorted by downloads · [← publisher index](./README.md)`,
+      `${pubByLetter.get(letter).length} publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)`,
       "",
       "| Publisher | Extensions | Downloads | By category |",
       "| --- | --- | --- | --- |",
@@ -731,28 +808,44 @@ function generateCatalog(entries) {
     ]);
   }
 
-  // Leaderboard: every publisher, ranked by total downloads.
-  const leaderboard = publishers
-    .map((p) => ({ p, count: byPublisher.get(p).length, downloads: pubDownloads(p) }))
-    .sort(
-      (a, b) =>
-        b.downloads - a.downloads ||
-        b.count - a.count ||
-        a.p.toLowerCase().localeCompare(b.p.toLowerCase(), "en"),
-    );
-  writePage("publishers/README.md", [
+  // Leaderboard — every publisher, two orderings (toggle): by downloads and by
+  // extension count (downloads as tiebreaker).
+  const dlKey = (x) => (x == null ? -1 : x);
+  const stats = publishers.map((p) => ({
+    p,
+    count: byPublisher.get(p).length,
+    downloads: pubDownloads(p),
+  }));
+  const byDl = [...stats].sort(
+    (a, b) =>
+      dlKey(b.downloads) - dlKey(a.downloads) ||
+      b.count - a.count ||
+      a.p.toLowerCase().localeCompare(b.p.toLowerCase(), "en"),
+  );
+  const byCount = [...stats].sort(
+    (a, b) =>
+      b.count - a.count ||
+      dlKey(b.downloads) - dlKey(a.downloads) ||
+      a.p.toLowerCase().localeCompare(b.p.toLowerCase(), "en"),
+  );
+  const pubRow = (r, i) => `| ${i + 1} | ${pubDisplay(r.p)} | ${r.count} | ${fmtNum(r.downloads)} |`;
+  const pubHead = (activeDownloads) => [
     "# Publishers",
     "",
-    `${publishers.length} publishers, ranked by total downloads · [← catalog index](../README.md)`,
+    `${publishers.length} publishers · [← catalog index](../README.md)`,
+    "",
+    "**Sort:** " +
+      (activeDownloads ? "**Downloads**" : "[Downloads](./README.md)") +
+      " · " +
+      (activeDownloads ? "[Extensions](./by-extensions.md)" : "**Extensions**"),
     "",
     letterNav(pubLetters, null),
     "",
     "| # | Publisher | Extensions | Downloads |",
     "| --- | --- | --- | --- |",
-    ...leaderboard.map(
-      (r, i) => `| ${i + 1} | [${mdEscape(r.p, 60)}](${STORE_BASE}/${r.p}) | ${r.count} | ${fmtNum(r.downloads)} |`,
-    ),
-  ]);
+  ];
+  writePage("publishers/README.md", [...pubHead(true), ...byDl.map(pubRow)]);
+  writePage("publishers/by-extensions.md", [...pubHead(false), ...byCount.map(pubRow)]);
 
   // ---- Flat alphabetical listing ----
   const byLetter = groupBy(sorted, (e) => [letterOf(e.title)]);
@@ -770,12 +863,62 @@ function generateCatalog(entries) {
     ]);
   }
 
+  // ---- All extensions, ranked by downloads (paginated, slim table) ----
+  const ranked = [...sorted].sort(byDownloads);
+  const RANK_PAGE = 500;
+  const rankPages = Math.max(1, Math.ceil(ranked.length / RANK_PAGE));
+  const rankNav = (active) =>
+    Array.from({ length: rankPages }, (_, i) =>
+      i + 1 === active ? `**${i + 1}**` : `[${i + 1}](./${i + 1}.md)`,
+    ).join(" · ");
+  const rankRow = (e, rank) =>
+    `| ${rank} | [${mdEscape(e.title, 60)}](${e.source}) | ${fmtNum(e.downloads)} | ${primaryCat(e)} | ${
+      e.owner ? `${e.owner} (org)` : e.author || "—"
+    } |`;
+  for (let pageI = 0; pageI < rankPages; pageI++) {
+    const slice = ranked.slice(pageI * RANK_PAGE, (pageI + 1) * RANK_PAGE);
+    const from = pageI * RANK_PAGE + 1;
+    writePage(`ranked/${pageI + 1}.md`, [
+      `# Extensions by downloads — ${from}–${from + slice.length - 1}`,
+      "",
+      `of ${ranked.length} · [← catalog index](../README.md)`,
+      "",
+      rankPages > 1 ? rankNav(pageI + 1) : "",
+      "",
+      "| # | Extension | Downloads | Category | Author |",
+      "| --- | --- | --- | --- | --- |",
+      ...slice.map((e, j) => rankRow(e, from + j)),
+    ]);
+  }
+  writePage("ranked/README.md", [
+    "# Extensions by downloads",
+    "",
+    `All ${ranked.length} extensions ranked by installs · [← catalog index](../README.md)`,
+    "",
+    rankNav(0),
+    "",
+    "Begin at [page 1](./1.md) for the most-installed extensions.",
+  ]);
+
   // ---- Master index ----
   const macCount = sorted.filter((e) => e.platforms.includes("macOS")).length;
   const winCount = sorted.filter((e) => e.platforms.includes("Windows")).length;
   const crossCount = sorted.filter(
     (e) => e.platforms.includes("macOS") && e.platforms.includes("Windows"),
   ).length;
+  // Distinct-extension count per editorial section (for the compact root
+  // summary; the full per-category breakdown lives in categories/README.md).
+  const coveredCats = new Set(CATEGORY_SECTIONS.flatMap(([, cats]) => cats));
+  const sectionSummary = [
+    ...CATEGORY_SECTIONS.map(([title, cats]) => [title, cats.filter((c) => byCategory.has(c))]),
+    ["More", categoryNames.filter((c) => !coveredCats.has(c))],
+  ]
+    .filter(([, cats]) => cats.length)
+    .map(([title, cats]) => {
+      const set = new Set();
+      for (const c of cats) for (const e of byCategory.get(c)) set.add(e.dir);
+      return [title, cats, set.size];
+    });
   writePage("README.md", [
     "# Raycast Extensions Catalog",
     "",
@@ -787,17 +930,21 @@ function generateCatalog(entries) {
     "",
     "| View | |",
     "| --- | --- |",
+    `| [By downloads](./ranked/README.md) | every extension ranked by installs |`,
     `| [By category](./categories/README.md) | ${categoryNames.length} categories → curated subcategories → auto-discovered topic groups (✦), nested as deep as the data supports |`,
     `| [By platform](./platforms/README.md) | macOS (${macCount}) · Windows (${winCount}) · cross-platform (${crossCount}), each by category |`,
-    `| [By publisher](./publishers/README.md) | ${publishers.length} publishers ranked by total downloads; A–Z pages group each publisher's extensions by category |`,
+    `| [By publisher](./publishers/README.md) | ${publishers.length} publishers, sortable by downloads or extension count; big publishers get their own page |`,
     `| [Alphabetical](./alphabetical/${letters[0].toLowerCase()}.md) | every extension, A–Z |`,
     `| [Changelog](./CHANGELOG.md) | upstream additions, updates, removals per sync |`,
     "",
-    "## Categories at a glance",
-    ...categorySectionLines(
-      categoryNames,
-      (c) => byCategory.get(c).length,
-      (c) => `./categories/${slugify(c)}/README.md`,
+    "## By section",
+    "",
+    `${categoryNames.length} categories in ${sectionSummary.length} sections — full per-category breakdown in [categories/](./categories/README.md).`,
+    "",
+    "| Section | Categories | Extensions |",
+    "| --- | --- | --- |",
+    ...sectionSummary.map(
+      ([title, cats, count]) => `| ${title} | ${cats.join(", ")} | ${fmtNum(count)} |`,
     ),
     "",
     "## How this stays up to date",
@@ -876,9 +1023,6 @@ const ref = ensureUpstreamAndFetch();
 const commit = git(["rev-parse", ref]).trim();
 console.log(`source: ${ref} @ ${commit}`);
 
-const trees = listExtensionTrees(ref);
-console.log(`extensions upstream: ${trees.size}`);
-
 let oldState = null;
 if (existsSync(STATE_FILE)) {
   try {
@@ -887,6 +1031,30 @@ if (existsSync(STATE_FILE)) {
     oldState = null;
   }
 }
+
+// Download counts drift constantly, so they refresh on a capped cadence
+// rather than triggering a commit every run; manifest changes still apply
+// immediately.
+const DOWNLOADS_REFRESH_MS = 20 * 60 * 60 * 1000; // ~daily
+const lastDownloadsAt = Date.parse(oldState?.downloadsRefreshedAt ?? "") || 0;
+const downloadsStale = Date.now() - lastDownloadsAt > DOWNLOADS_REFRESH_MS;
+
+// Cheap guard: if upstream HEAD is unchanged and downloads aren't due, there is
+// nothing to do — so a blind every-minute web-cron trigger costs ~one git fetch
+// and exits here, without listing 3k trees or hitting the store API.
+if (
+  oldState?.commit === commit &&
+  !downloadsStale &&
+  !FORCE &&
+  existsSync(path.join(CATALOG_DIR, "README.md"))
+) {
+  console.log("catalog is up to date — upstream unchanged");
+  process.exit(0);
+}
+
+const trees = listExtensionTrees(ref);
+console.log(`extensions upstream: ${trees.size}`);
+
 const oldEntries = new Map((oldState?.extensions ?? []).map((e) => [e.dir, e]));
 const initial = oldEntries.size === 0;
 
@@ -902,13 +1070,6 @@ for (const [dir, e] of oldEntries) {
   if (!trees.has(dir)) removed.push(e);
 }
 
-// Download counts drift constantly, so they refresh on a capped cadence
-// rather than triggering a commit every run; manifest changes still apply
-// immediately.
-const DOWNLOADS_REFRESH_MS = 20 * 60 * 60 * 1000; // ~daily
-const lastDownloadsAt = Date.parse(oldState?.downloadsRefreshedAt ?? "") || 0;
-const downloadsStale = Date.now() - lastDownloadsAt > DOWNLOADS_REFRESH_MS;
-
 const changed = addedDirs.length + updatedDirs.length + removed.length > 0;
 if (!changed && !downloadsStale && !FORCE && existsSync(path.join(CATALOG_DIR, "README.md"))) {
   console.log("catalog is up to date — no extension changes upstream");
@@ -918,15 +1079,6 @@ console.log(
   `changes: +${addedDirs.length} added, ~${updatedDirs.length} updated, -${removed.length} removed` +
     (downloadsStale ? " · refreshing downloads" : ""),
 );
-
-// Fetch fresh download counts (best-effort; fall back to stored values).
-let dl = null;
-try {
-  dl = fetchDownloads();
-  console.log(`downloads fetched: ${dl.total} store listings`);
-} catch (err) {
-  console.warn(`warn: download fetch failed, reusing stored counts: ${err.message}`);
-}
 
 const entries = [];
 const added = [];
@@ -952,16 +1104,28 @@ for (const [dir, sha] of trees) {
   if (refreshed % 250 === 0) console.log(`  manifests loaded: ${refreshed}`);
 }
 
-// Attach download counts to every entry (reused or freshly loaded). When the
-// fetch failed, keep whatever count the entry already carried from last run.
-for (const entry of entries) {
-  if (dl) {
-    const d = downloadsFor(entry, dl);
-    if (d != null) entry.downloads = d;
-  }
-  if (entry.downloads == null) entry.downloads = 0;
+// Resolve download counts + canonical store URLs (best-effort). On success,
+// every entry's downloads/store are set authoritatively (null = unknown, not
+// on the store). On failure, entries keep whatever they carried from last run.
+let resolved = null;
+try {
+  resolved = resolveDownloads(entries);
+  console.log(
+    `downloads resolved: ${resolved.listings} listings, ${resolved.detailFetched} detail-fetched`,
+  );
+} catch (err) {
+  console.warn(`warn: download resolve failed, reusing stored values: ${err.message}`);
 }
-const downloadsRefreshedAt = dl
+for (const entry of entries) {
+  if (resolved) {
+    const r = resolved.map.get(entry.dir);
+    entry.downloads = r ? r.downloads : null;
+    entry.store = r ? r.storeUrl : null;
+  } else if (entry.downloads === undefined) {
+    entry.downloads = null;
+  }
+}
+const downloadsRefreshedAt = resolved
   ? new Date().toISOString()
   : oldState?.downloadsRefreshedAt ?? null;
 

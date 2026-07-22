@@ -95,7 +95,7 @@
 | [PlanetScale](https://github.com/raycast/extensions/tree/main/extensions/planetscale) | 90 | Manage PlanetScale from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/planetscale) |
 | [TeslaMate](https://github.com/raycast/extensions/tree/main/extensions/teslamate) | 85 | View your TeslaMate data in Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/teslamate) |
 | [NameSilo](https://github.com/raycast/extensions/tree/main/extensions/namesilo) | 84 | View your Domains, Orders, Whois Info and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/namesilo) |
-| [Voicenotes](https://github.com/raycast/extensions/tree/main/extensions/voicenotes) | 82 | Search and manage your Voicenotes directly from Raycast. | parzival | macOS | [store](https://www.raycast.com/parzival/voicenotes) |
+| [Voicenotes](https://github.com/raycast/extensions/tree/main/extensions/voicenotes) | 82 | Search and manage your Voicenotes directly from Raycast. | parzival | macOS | [store](https://www.raycast.com/Parzival/voicenotes) |
 | [Humaans](https://github.com/raycast/extensions/tree/main/extensions/humaans) | 71 | Interact with the Humaans platform | humaans (org) | macOS | [store](https://www.raycast.com/humaans/humaans) |
 | [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) | 68 | View your daily goals and calories in Yazio, and log food directly from Raycast. | zsombor_biro | Windows, macOS | [store](https://www.raycast.com/zsombor_biro/yazio-tracker) |
 | [Helldivers 2](https://github.com/raycast/extensions/tree/main/extensions/helldivers2) | 66 | View Galactic War Status from Helldivers II | alexstrnik | macOS, Windows | [store](https://www.raycast.com/alexstrnik/helldivers2) |

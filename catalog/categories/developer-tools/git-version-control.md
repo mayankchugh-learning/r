@@ -48,9 +48,9 @@
 | [Primer](https://github.com/raycast/extensions/tree/main/extensions/primer) | 195 | Search and navigate GitHub's Primer Design System | cole | macOS | [store](https://www.raycast.com/cole/primer) |
 | [Pretty PR Link](https://github.com/raycast/extensions/tree/main/extensions/pretty-pr-link) | 111 | Quickly copy the link of a GitHub Pull Request in a formatted way so you can share with your team and ask for reviews. | jopcmelo | macOS, Windows | [store](https://www.raycast.com/jopcmelo/pretty-pr-link) |
 | [Gist Rocket](https://github.com/raycast/extensions/tree/main/extensions/gist-rocket) | 18 | Publish HTML or Markdown as a live web page in one keystroke. Powered by GitHub Gists. | tgrecojs | macOS | [store](https://www.raycast.com/tgrecojs/gist-rocket) |
-| [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker) | 10 | Track unread pull request activity across your GitHub or GitHub Enterprise repositories from a single Raycast command. | oslen | macOS, Windows | [store](https://www.raycast.com/oslen/gh-pr-tracker) |
+| [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker) | 10 | Track unread pull request activity across your GitHub or GitHub Enterprise repositories from a single Raycast command. | oslen | macOS, Windows | [store](https://www.raycast.com/Oslen/gh-pr-tracker) |
 | [Commit Streak](https://github.com/raycast/extensions/tree/main/extensions/commit-streak) | 7 | Track your GitHub contribution streak in the menu bar. Stay motivated or get reminded. | aundu | macOS | [store](https://www.raycast.com/aundu/commit-streak) |
-| [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 1 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/MikeWhob/mach-triage) |
+| [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 1 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
 
 ## General
 

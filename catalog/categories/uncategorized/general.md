@@ -86,7 +86,7 @@
 | [Upstash](https://github.com/raycast/extensions/tree/main/extensions/upstash) | 63 | Manage Redis Databases and Vector Indices | xmok | macOS | [store](https://www.raycast.com/xmok/upstash) |
 | [ONES](https://github.com/raycast/extensions/tree/main/extensions/ones) | 60 | Raycast Extension for ONES | k8scat | macOS | [store](https://www.raycast.com/k8scat/ones) |
 | [Micro.blog](https://github.com/raycast/extensions/tree/main/extensions/microblog) | 56 | Post to Micro.blog and your connected crossposting accounts | tynanpurdy | macOS | [store](https://www.raycast.com/tynanpurdy/microblog) |
-| [Run Zipper Applet](https://github.com/raycast/extensions/tree/main/extensions/zipper-run) | 53 | Run a zipper applet | ariel_conti | macOS | [store](https://www.raycast.com/ariel_conti/zipper-run) |
+| [Run Zipper Applet](https://github.com/raycast/extensions/tree/main/extensions/zipper-run) | 53 | Run a zipper applet | ariel_conti | macOS | [store](https://www.raycast.com/arielconti10/zipper-run) |
 | [HomeBox](https://github.com/raycast/extensions/tree/main/extensions/homebox) | 52 | A simple home inventory management software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/homebox) |
 | [Yap](https://github.com/raycast/extensions/tree/main/extensions/yap) | 51 | Post on socials in a single click | chaseonraycast | macOS | [store](https://www.raycast.com/chaseonraycast/yap) |
 | [Unsure Calc](https://github.com/raycast/extensions/tree/main/extensions/unsure-calc) | 50 | Lightweight probabilistic calculator that lets you type ranges (with `~`) and arithmetic to see exact bounds plus simulated outcomes and a text histogram. | PythonicNinja | macOS, Windows | [store](https://www.raycast.com/PythonicNinja/unsure-calc) |

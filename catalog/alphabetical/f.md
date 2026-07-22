@@ -109,6 +109,7 @@
 | [FlyCheck](https://github.com/raycast/extensions/tree/main/extensions/flycheck-raycast) | 36 | Quickly lookup raw METAR weather data by ICAO code. | Sotong | macOS, Windows | [store](https://www.raycast.com/Sotong/flycheck-raycast) |
 | [Featurebase](https://github.com/raycast/extensions/tree/main/extensions/featurebase) | 35 | The next-gen support & feedback platform for modern teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/featurebase) |
 | [FHIR](https://github.com/raycast/extensions/tree/main/extensions/fhir) | 35 | Search FHIR packages and browse documentation | loris | macOS | [store](https://www.raycast.com/loris/fhir) |
+| [FuelX](https://github.com/raycast/extensions/tree/main/extensions/fuelx) | 34 | FUEL AI Agent in Raycast | naz3eh | macOS | [store](https://www.raycast.com/naz3eh/fuelx) |
 | [Figma Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/figma-shortcuts) | 32 | Search and copy Figma keyboard shortcuts for macOS and Windows | arturdz | macOS, Windows | [store](https://www.raycast.com/arturdz/figma-shortcuts) |
 | [Frill](https://github.com/raycast/extensions/tree/main/extensions/frill) | 32 | Capture, organize, and announce product feedback in one place | xmok | macOS | [store](https://www.raycast.com/xmok/frill) |
 | [Formizee](https://github.com/raycast/extensions/tree/main/extensions/formizee) | 31 | The Open-Source Forms Platform | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/formizee) |
@@ -136,4 +137,3 @@
 | [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 2 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
 | [From](https://github.com/raycast/extensions/tree/main/extensions/from) | 1 | Capture thoughts, search your notes and open your daily note in From — the outliner that understands what you write, so capture stays frictionless and fast. | alberto_lezaun | macOS | [store](https://www.raycast.com/alberto_lezaun/from) |
-| [FuelX](https://github.com/raycast/extensions/tree/main/extensions/fuelx) | 0 | FUEL AI Agent in Raycast | naz3eh | macOS | [store](https://www.raycast.com/naz3eh/fuelx) |

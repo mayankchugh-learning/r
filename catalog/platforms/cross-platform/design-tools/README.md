@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 490,892 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,186 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 663 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 28 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 0 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 
 ### Icons & Assets
 
@@ -29,7 +29,7 @@
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,206 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 473 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
 | [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 293 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
-| [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 12 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/spratch/sanity-icons) |
+| [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 12 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 5 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
 
 ### Fonts & Typography

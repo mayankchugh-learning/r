@@ -36,8 +36,8 @@
 | [nocal](https://github.com/raycast/extensions/tree/main/extensions/nocal) | 11 | Search notes and manage your day from Raycast with nocal. | nocal (org) | macOS | [store](https://www.raycast.com/nocal/nocal) |
 | [Mnemosyne](https://github.com/raycast/extensions/tree/main/extensions/mnemosyne) | 8 | Quickly save URLs and notes to your Mnemosyne knowledge library | dort | macOS, Windows | [store](https://www.raycast.com/dort/mnemosyne) |
 | [Stik](https://github.com/raycast/extensions/tree/main/extensions/stik) | 6 | Quick capture and browse your Stik notes. Create, search, organize, and manage markdown notes stored locally on your machine. | 0xMassi | macOS | [store](https://www.raycast.com/0xMassi/stik) |
+| [Noteman](https://github.com/raycast/extensions/tree/main/extensions/noteman) | 2 | Fast, local Markdown note-taking in Raycast | samuel_oldmark_se | macOS | [store](https://www.raycast.com/samuel_oldmark_se/noteman) |
 | [From](https://github.com/raycast/extensions/tree/main/extensions/from) | 1 | Capture thoughts, search your notes and open your daily note in From — the outliner that understands what you write, so capture stays frictionless and fast. | alberto_lezaun | macOS | [store](https://www.raycast.com/alberto_lezaun/from) |
-| [Noteman](https://github.com/raycast/extensions/tree/main/extensions/noteman) | 0 | Fast, local Markdown note-taking in Raycast | samuel_oldmark_se | macOS | [store](https://www.raycast.com/samuel_oldmark_se/noteman) |
 
 ## Capture ✦
 
@@ -59,7 +59,7 @@
 | [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) | 561 | Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. \| Set your Owledge workspace at: https://search.owledge.app \| Documentat… | Romain | macOS | [store](https://www.raycast.com/Romain/owledge-raycast) |
 | [Copy Notion Markdown Link](https://github.com/raycast/extensions/tree/main/extensions/copy-notion-markdown-link) | 108 | Copy the current Notion page as a Markdown link. Works with Notion desktop app only. | atsushi_kawamura | macOS | [store](https://www.raycast.com/atsushi_kawamura/copy-notion-markdown-link) |
 | [Make with Notion 2024](https://github.com/raycast/extensions/tree/main/extensions/make-with-notion-2024) | 95 | Quickly check the schedule for Make with Notion, in your local timezone. | alexs | macOS | [store](https://www.raycast.com/alexs/make-with-notion-2024) |
-| [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) | 48 | Extract, save, and organize Notion page and database IDs from the focused browser tab or clipboard. | sam.dsgn | macOS | [store](https://www.raycast.com/sam.dsgn/notion-url-to-id) |
+| [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) | 48 | Extract, save, and organize Notion page and database IDs from the focused browser tab or clipboard. | sam.dsgn | macOS | [store](https://www.raycast.com/Sam.Dsgn/notion-url-to-id) |
 | [PomoNotion Raycast Extension](https://github.com/raycast/extensions/tree/main/extensions/raycast-pomodoro-notion) | 5 | A Raycast Pomodoro timer with Notion logging, ambient audio, and active-minute tracking. | hk_raycast | macOS | [store](https://www.raycast.com/hk_raycast/raycast-pomodoro-notion) |
 
 ## General

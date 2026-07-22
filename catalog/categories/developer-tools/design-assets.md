@@ -33,7 +33,7 @@
 | [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) | 359 | Just a color picker | ZooHero | macOS | [store](https://www.raycast.com/ZooHero/justcolorpicker-raycast) |
 | [Random Color](https://github.com/raycast/extensions/tree/main/extensions/random-color) | 245 | Pick a random color. | srcrip | macOS | [store](https://www.raycast.com/srcrip/random-color) |
 | [WLED Controller](https://github.com/raycast/extensions/tree/main/extensions/wled-controller) | 94 | Control your WLED devices - manage devices, set colors, effects, and brightness directly from Raycast | creative-koda-lab | macOS, Windows | [store](https://www.raycast.com/creative-koda-lab/wled-controller) |
-| [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) | 77 | View and copy Minecraft chat color codes. | lafkpages | macOS | [store](https://www.raycast.com/lafkpages/minecraft-color-codes) |
+| [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) | 77 | View and copy Minecraft chat color codes. | lafkpages | macOS | [store](https://www.raycast.com/luisafk/minecraft-color-codes) |
 
 ## Icons ✦
 
@@ -47,7 +47,7 @@
 | [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler) | 718 | Copy & Paste Tabler Icons | zavbala | macOS | [store](https://www.raycast.com/zavbala/tabler) |
 | [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg) | 297 | Search, preview, and copy 5,600+ brand SVG icons from thesvg.org | thegdsks | macOS | [store](https://www.raycast.com/thegdsks/thesvg) |
 | [Lucide Animated](https://github.com/raycast/extensions/tree/main/extensions/lucide-animated) | 68 | Browse, search, and copy animated Lucide icons for your projects. | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/lucide-animated) |
-| [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 12 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/spratch/sanity-icons) |
+| [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 12 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 
 ## General
 

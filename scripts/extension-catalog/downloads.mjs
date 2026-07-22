@@ -1,63 +1,92 @@
 /**
- * Fetches per-extension download counts from the Raycast store backend.
+ * Resolves per-extension download counts + canonical store URLs from the
+ * Raycast store backend.
  *
- * The git manifests carry no download data, so it is pulled from the public
- * store-listings API (paginated, ~500/page). Counts change constantly, so the
- * caller refreshes them on a capped cadence rather than every run — see the
- * downloads-staleness gate in sync.mjs.
+ * The bulk `store_listings` endpoint is fast but (a) silently omits some
+ * extensions and (b) is only reliably matched by its exact, CASE-SENSITIVE
+ * store-URL path — so a naive join drops or zeroes real data (e.g. kill-process
+ * with 646k installs). This resolver therefore:
+ *   1. bulk-fetches store_listings, keyed by case-sensitive "handle/name",
+ *   2. joins each catalog entry by that path (then bare name as fallback),
+ *   3. detail-fetches the few misses from extensions/{handle}/{name},
+ *   4. leaves anything still unresolved as null (unknown — NOT zero), so
+ *      extensions that aren't on the store render "—" and get no store link.
  *
- * Uses curl (already a dependency via git) so the proxy/CA setup in restricted
- * environments is respected; in CI plain outbound works the same way.
+ * Uses curl (already a dependency via git) so proxy/CA setups are respected.
  */
 import { execFileSync } from "node:child_process";
 
-const API = "https://backend.raycast.com/api/v1/store_listings?per_page=500&page=";
-const PATH_RE = /raycast\.com\/(.+)$/;
+const BULK = "https://backend.raycast.com/api/v1/store_listings?per_page=1000&page=";
+const DETAIL = "https://backend.raycast.com/api/v1/extensions/";
+const MARKER = "raycast.com/";
+// Cap detail-fetches so a failed bulk fetch can't trigger thousands of calls.
+const MAX_DETAIL = 300;
 
-function fetchPage(page) {
-  const out = execFileSync("curl", ["-sS", "--fail", "--max-time", "45", `${API}${page}`], {
+function curlJson(url) {
+  const out = execFileSync("curl", ["-sS", "--fail", "--max-time", "45", url], {
     encoding: "utf8",
     maxBuffer: 256 * 1024 * 1024,
     timeout: 60_000,
     stdio: ["ignore", "pipe", "pipe"],
   });
-  const d = JSON.parse(out);
-  return Array.isArray(d) ? d : d.data ?? [];
+  return JSON.parse(out);
+}
+
+function storePath(storeUrl) {
+  const i = String(storeUrl || "").indexOf(MARKER);
+  return i < 0 ? null : storeUrl.slice(i + MARKER.length);
 }
 
 /**
- * Returns { byPath, byName }: download counts keyed by the store-URL path
- * ("handle/name", the precise key) and by bare name (fallback; deduped to the
- * max count when a name is shared across authors).
+ * @param entries catalog entries (need .dir, .name, .owner, .author)
+ * @returns { map: Map<dir,{downloads:number|null, storeUrl:string|null}>,
+ *            listings:number, detailFetched:number }
  */
-export function fetchDownloads() {
+export function resolveDownloads(entries) {
   const byPath = new Map();
   const byName = new Map();
-  let total = 0;
-  for (let page = 1; page <= 40; page++) {
-    const items = fetchPage(page);
+  let listings = 0;
+  for (let page = 1; page <= 15; page++) {
+    const d = curlJson(`${BULK}${page}`);
+    const items = Array.isArray(d) ? d : d.data ?? [];
     if (!items.length) break;
     for (const it of items) {
-      const count = Number(it.download_count) || 0;
-      total++;
-      const m = String(it.store_url || "").match(PATH_RE);
-      if (m) byPath.set(m[1].toLowerCase(), count);
-      const name = String(it.name || "").toLowerCase();
-      if (name) byName.set(name, Math.max(byName.get(name) ?? 0, count));
+      listings++;
+      const rec = { downloads: Number(it.download_count) || 0, storeUrl: it.store_url ?? null };
+      const p = storePath(it.store_url);
+      if (p) byPath.set(p, rec);
+      const n = String(it.name || "").toLowerCase();
+      if (n && !byName.has(n)) byName.set(n, rec);
     }
-    if (items.length < 500) break;
+    if (items.length < 1000) break;
   }
-  if (!total) throw new Error("store listings returned no rows");
-  return { byPath, byName, total };
-}
+  if (!listings) throw new Error("store listings returned no rows");
 
-/** Download count for one catalog entry, or null if the store has no match. */
-export function downloadsFor(entry, dl) {
-  const m = String(entry.store || "").match(PATH_RE);
-  if (m) {
-    const hit = dl.byPath.get(m[1].toLowerCase());
-    if (hit != null) return hit;
+  const map = new Map();
+  const misses = [];
+  for (const e of entries) {
+    const handle = e.owner || e.author || "";
+    const hit = (handle && byPath.get(`${handle}/${e.name}`)) || byName.get(String(e.name).toLowerCase());
+    if (hit) map.set(e.dir, { downloads: hit.downloads, storeUrl: hit.storeUrl });
+    else misses.push(e);
   }
-  const byName = dl.byName.get(String(entry.name || "").toLowerCase());
-  return byName != null ? byName : null;
+
+  let detailFetched = 0;
+  for (const e of misses) {
+    let res = { downloads: null, storeUrl: null };
+    const handle = e.owner || e.author || "";
+    if (handle && detailFetched < MAX_DETAIL) {
+      detailFetched++;
+      try {
+        const d = curlJson(`${DETAIL}${encodeURIComponent(handle)}/${encodeURIComponent(e.name)}`);
+        if (d && d.download_count != null && d.store_url) {
+          res = { downloads: Number(d.download_count), storeUrl: d.store_url };
+        }
+      } catch {
+        // 404 / network — genuinely not resolvable, stays null (unknown).
+      }
+    }
+    map.set(e.dir, res);
+  }
+  return { map, listings, detailFetched };
 }

@@ -40,7 +40,7 @@
 | [Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/desktop-manager) | 181 | Search and organize your desktop files | tykid | macOS | [store](https://www.raycast.com/tykid/desktop-manager) |
 | [Remote Desktop](https://github.com/raycast/extensions/tree/main/extensions/remote-desktop) | 173 | Manage Remote Desktop connections | tonka3000 | Windows | [store](https://www.raycast.com/tonka3000/remote-desktop) |
 | [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | 11 | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |
-| [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 1 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/MikeWhob/mach-triage) |
+| [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 1 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
 
 ## Spaces ✦
 
@@ -60,7 +60,7 @@
 | [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 52,439 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
 | [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 1,945 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
 | [Punto Switcher](https://github.com/raycast/extensions/tree/main/extensions/punto) | 643 | Changes the layout of selected text. Requires Accessibility access | red.avtovo | macOS | [store](https://www.raycast.com/red.avtovo/punto) |
-| [Respace](https://github.com/raycast/extensions/tree/main/extensions/respace) | 205 | Open apps, files, folders, URLs, and terminal commands in organized workspace bundles | royal-lobster | macOS | [store](https://www.raycast.com/royal-lobster/respace) |
+| [Respace](https://github.com/raycast/extensions/tree/main/extensions/respace) | 205 | Open apps, files, folders, URLs, and terminal commands in organized workspace bundles | royal-lobster | macOS | [store](https://www.raycast.com/Royal-lobster/respace) |
 | [Manage Monorepo Projects/Workspaces](https://github.com/raycast/extensions/tree/main/extensions/monorepo-manager) | 192 | A Raycast extension helps to manage monorepo projects/workspaces in your machine. It also list all packages in each monorepo project/workspace | tung-dang | macOS | [store](https://www.raycast.com/tung-dang/monorepo-manager) |
 | [Origami](https://github.com/raycast/extensions/tree/main/extensions/origami) | 45 | Access and control your Origami workspace | xilopaint | macOS | [store](https://www.raycast.com/xilopaint/origami) |
 | [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail) | 27 | Search for data in your Dovetail workspace from wherever you are. | barlow | macOS | [store](https://www.raycast.com/barlow/dovetail) |

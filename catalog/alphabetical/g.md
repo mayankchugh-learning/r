@@ -6,6 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 479,192 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 427,197 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 177,490 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 132,467 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
@@ -140,10 +141,9 @@
 | [Gokapi](https://github.com/raycast/extensions/tree/main/extensions/gokapi) | 15 | Manage your Gokapi server from Raycast | pascal_burkhard | macOS | [store](https://www.raycast.com/pascal_burkhard/gokapi) |
 | [Gram](https://github.com/raycast/extensions/tree/main/extensions/gram) | 15 | The easiest way to use Gram on Mac. Access projects and manage extensions from the comfort of Raycast. | justyt65 | macOS | [store](https://www.raycast.com/justyt65/gram) |
 | [Geoguesser](https://github.com/raycast/extensions/tree/main/extensions/geoguesser) | 13 | Allow you to check your profile, ranking and show you the current daily mission | boosteblume | macOS | [store](https://www.raycast.com/boosteblume/geoguesser) |
-| [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker) | 10 | Track unread pull request activity across your GitHub or GitHub Enterprise repositories from a single Raycast command. | oslen | macOS, Windows | [store](https://www.raycast.com/oslen/gh-pr-tracker) |
+| [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker) | 10 | Track unread pull request activity across your GitHub or GitHub Enterprise repositories from a single Raycast command. | oslen | macOS, Windows | [store](https://www.raycast.com/Oslen/gh-pr-tracker) |
 | [GeForce NOW](https://github.com/raycast/extensions/tree/main/extensions/geforce-now) | 4 | Launch your GeForce NOW games instantly | NvIte0o0 | Windows | [store](https://www.raycast.com/NvIte0o0/geforce-now) |
 | [Greptile](https://github.com/raycast/extensions/tree/main/extensions/greptile) | 4 | Browse Greptile pull requests, code reviews, and review comments from Raycast. | clins1994 | Windows, macOS | [store](https://www.raycast.com/clins1994/greptile) |
 | [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) | 3 | Compile GLES shader code with MaliOC and get performance stats. | RomanVPX | macOS | [store](https://www.raycast.com/RomanVPX/gles-to-malioc) |
-| [GitHub Spark](https://github.com/raycast/extensions/tree/main/extensions/github-spark) | 0 | Turn your ideas into personalized apps with GitHub Spark. | github-next (org) | macOS | [store](https://www.raycast.com/github-next/github-spark) |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 0 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Granite](https://github.com/raycast/extensions/tree/main/extensions/granite) | 0 | Search, browse, and ask your Granite document vault. | Shpigford | macOS | [store](https://www.raycast.com/Shpigford/granite) |
+| [GitHub Spark](https://github.com/raycast/extensions/tree/main/extensions/github-spark) | — | Turn your ideas into personalized apps with GitHub Spark. | github-next (org) | macOS | — |

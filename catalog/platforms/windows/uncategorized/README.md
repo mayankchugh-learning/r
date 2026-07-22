@@ -64,9 +64,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 645,983 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 63,523 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,850 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 0 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 
 ## Life & World
 

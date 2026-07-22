@@ -15,7 +15,7 @@
 | [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 141 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
 | [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | 107 | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |
 | [South African Fake ID Number Generator](https://github.com/raycast/extensions/tree/main/extensions/za-fake-id-number-generator) | 31 | Quickly generate South African ID numbers for testing, this will create a valid fake ID number and copy it to your clipboard. | runningdeveloper | macOS, Windows | [store](https://www.raycast.com/runningdeveloper/za-fake-id-number-generator) |
-| [BlurHash](https://github.com/raycast/extensions/tree/main/extensions/blurhash) | 10 | Generate blurhash from clipboard content or Finder | Freaktion | macOS | [store](https://www.raycast.com/Freaktion/blurhash) |
+| [BlurHash](https://github.com/raycast/extensions/tree/main/extensions/blurhash) | 10 | Generate blurhash from clipboard content or Finder | Freaktion | macOS | [store](https://www.raycast.com/freaktion/blurhash) |
 
 ## Finder ✦
 

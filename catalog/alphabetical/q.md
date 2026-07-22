@@ -42,7 +42,7 @@
 | [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) | 43 | Run qalc calculator with Raycast | vlad2305m | macOS | [store](https://www.raycast.com/vlad2305m/qalc) |
 | [Quikwallet](https://github.com/raycast/extensions/tree/main/extensions/quikwallet) | 19 | View Solana wallet balances and prepare transactions | devsargam | macOS | [store](https://www.raycast.com/devsargam/quikwallet) |
 | [Quick Access for zeroheight](https://github.com/raycast/extensions/tree/main/extensions/quick-access-for-zeroheight) | 11 | Find and view pages in zeroheight | zeroheight | macOS | [store](https://www.raycast.com/zeroheight/quick-access-for-zeroheight) |
-| [Qovery](https://github.com/raycast/extensions/tree/main/extensions/qovery) | 8 | Interact with your Qovery organization | RemiBonnet | macOS | [store](https://www.raycast.com/RemiBonnet/qovery) |
+| [Qovery](https://github.com/raycast/extensions/tree/main/extensions/qovery) | 8 | Interact with your Qovery organization | RemiBonnet | macOS | [store](https://www.raycast.com/remibonnet/qovery) |
 | [QuickLinker](https://github.com/raycast/extensions/tree/main/extensions/quicklinker) | 8 | Resolve your QuickLinker shortcuts directly from Raycast | n-winspear | macOS | [store](https://www.raycast.com/n-winspear/quicklinker) |
 | [QQ Mail](https://github.com/raycast/extensions/tree/main/extensions/qq-mail) | 6 | View and manage your QQ Mail inbox | ariesly15 | macOS, Windows | [store](https://www.raycast.com/ariesly15/qq-mail) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |

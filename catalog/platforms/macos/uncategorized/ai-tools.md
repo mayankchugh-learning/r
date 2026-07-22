@@ -22,5 +22,5 @@
 | [Qoder](https://github.com/raycast/extensions/tree/main/extensions/qoder) | 70 | Quick access to Qoder AI Editor | ezreal09 | macOS | [store](https://www.raycast.com/ezreal09/qoder) |
 | [DB Schema Explorer](https://github.com/raycast/extensions/tree/main/extensions/db-schema-explorer) | 64 | Get database schema (tables, columns, relations) from PostgreSQL and MongoDB for AI reference and context | scisaif | macOS, Windows | [store](https://www.raycast.com/scisaif/db-schema-explorer) |
 | [Autumn](https://github.com/raycast/extensions/tree/main/extensions/autumn) | 42 | Stripe made easy for AI Startups | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/autumn) |
+| [FuelX](https://github.com/raycast/extensions/tree/main/extensions/fuelx) | 34 | FUEL AI Agent in Raycast | naz3eh | macOS | [store](https://www.raycast.com/naz3eh/fuelx) |
 | [Botpress](https://github.com/raycast/extensions/tree/main/extensions/botpress) | 26 | Manage your Botpress chatbots | ermek_barmashev | macOS, Windows | [store](https://www.raycast.com/ermek_barmashev/botpress) |
-| [FuelX](https://github.com/raycast/extensions/tree/main/extensions/fuelx) | 0 | FUEL AI Agent in Raycast | naz3eh | macOS | [store](https://www.raycast.com/naz3eh/fuelx) |

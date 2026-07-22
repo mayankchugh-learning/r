@@ -87,7 +87,7 @@
 | [Valkey Commands Search](https://github.com/raycast/extensions/tree/main/extensions/valkey-commands-search) | 33 | Searches Valkey commands. | poiuj | macOS | [store](https://www.raycast.com/poiuj/valkey-commands-search) |
 | [NSIS Reference](https://github.com/raycast/extensions/tree/main/extensions/nsis-reference) | 11 | Search NSIS references | idleberg | macOS | [store](https://www.raycast.com/idleberg/nsis-reference) |
 | [Effect Docs](https://github.com/raycast/extensions/tree/main/extensions/effect-docs) | 10 | Search Effect-TS documentation and API reference from Raycast | rvaccone | macOS | [store](https://www.raycast.com/rvaccone/effect-docs) |
-| [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 0 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
+| [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
 
 ### Dictionaries & Language
 
@@ -95,7 +95,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Oxford Collocation Dictionary](https://github.com/raycast/extensions/tree/main/extensions/oxford-collocation-dictionary) | 740 | Query the Online Oxford Colocation Dictionary and display it's data | guilhermevictor | macOS | [store](https://www.raycast.com/guilhermevictor/oxford-collocation-dictionary) |
 | [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | 554 | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
-| [Mandarin Chinese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) | 149 | Mandarin Chinese Dictionary | CofCat | macOS | [store](https://www.raycast.com/CofCat/mandarin-chinese-dictionary) |
+| [Mandarin Chinese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) | 149 | Mandarin Chinese Dictionary | CofCat | macOS | [store](https://www.raycast.com/IlyaL/mandarin-chinese-dictionary) |
 | [Duden](https://github.com/raycast/extensions/tree/main/extensions/duden) | 58 | Search German words on Duden.de dictionary | c76b7srxxm | macOS, Windows | [store](https://www.raycast.com/c76b7srxxm/duden) |
 | [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | 29 | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
 | [Xiaohe Query](https://github.com/raycast/extensions/tree/main/extensions/xiaohe-query) | 4 | Query Xiaohe (Flypy) codes and decomposition for a single Chinese character. | dongqing | macOS | [store](https://www.raycast.com/dongqing/xiaohe-query) |
@@ -110,7 +110,7 @@
 | [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,449 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
 | [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor) | 1,490 | Search the Cursor Documentation right from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/cursor) |
 | [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,169 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
-| [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,064 | A simple emoji legend to help convey intention and added meaning in code review comments. | rus64 | macOS | [store](https://www.raycast.com/rus64/code-review-emojis) |
+| [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,064 | A simple emoji legend to help convey intention and added meaning in code review comments. | rus64 | macOS | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
 | [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) | 949 | Quickly view the Catppuccin color palette, userstyles, ports, and documentation. | dvhsh | macOS | [store](https://www.raycast.com/dvhsh/catppuccin) |
 | [GitHub CLI Manual](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) | 933 | Raycast extension to search GitHub CLI Manual. | demartini | macOS | [store](https://www.raycast.com/demartini/github-cli-manual) |
 | [Search Astro Documentation](https://github.com/raycast/extensions/tree/main/extensions/search-astro-docs) | 742 | Search the Astro Documentation right from Raycast | ElianCodes | macOS | [store](https://www.raycast.com/ElianCodes/search-astro-docs) |

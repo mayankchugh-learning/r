@@ -51,5 +51,5 @@
 | --- | --- | --- | --- | --- | --- |
 | [VirusTotal](https://github.com/raycast/extensions/tree/main/extensions/virustotal) | 1,412 | Check files, IP addresses, URLs, and hashes for malware using VirusTotal | sadv1r | macOS, Windows | [store](https://www.raycast.com/sadv1r/virustotal) |
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 437 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |
-| [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 3 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/Tomokisan/redactcast) |
+| [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 3 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 0 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |

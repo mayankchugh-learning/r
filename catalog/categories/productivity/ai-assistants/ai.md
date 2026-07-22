@@ -77,7 +77,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 1,899 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
-| [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) | 336 | Get quick answers to your quick questions with the power of AI with this free extension. | vaibhav_sisodiya | macOS | [store](https://www.raycast.com/vaibhav_sisodiya/vaib) |
+| [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) | 336 | Get quick answers to your quick questions with the power of AI with this free extension. | vaibhav_sisodiya | macOS | [store](https://www.raycast.com/Vaib215/vaib) |
 | [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask) | 180 | Get instant AI answers for your questions. | renzo | macOS | [store](https://www.raycast.com/renzo/snapask) |
 | [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 22 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
 | [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 1 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |

@@ -18,4 +18,4 @@
 | [Yandex Smart Home](https://github.com/raycast/extensions/tree/main/extensions/yandex-smart-home) | 48 | Control Yandex Smart Home devices and run scenarios from Raycast. | devall | macOS, Windows | [store](https://www.raycast.com/devall/yandex-smart-home) |
 | [Magic Home](https://github.com/raycast/extensions/tree/main/extensions/magic-home) | 14 | Interacts with Magic Home compatible devices | bruno_caruso | macOS | [store](https://www.raycast.com/bruno_caruso/magic-home) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 6 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |
-| [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | 0 | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | [store](https://www.raycast.com/multi/multi) |
+| [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

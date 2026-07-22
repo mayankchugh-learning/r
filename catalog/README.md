@@ -8,64 +8,26 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 
 | View | |
 | --- | --- |
+| [By downloads](./ranked/README.md) | every extension ranked by installs |
 | [By category](./categories/README.md) | 16 categories → curated subcategories → auto-discovered topic groups (✦), nested as deep as the data supports |
 | [By platform](./platforms/README.md) | macOS (3055) · Windows (796) · cross-platform (768), each by category |
-| [By publisher](./publishers/README.md) | 2041 publishers ranked by total downloads; A–Z pages group each publisher's extensions by category |
+| [By publisher](./publishers/README.md) | 2041 publishers, sortable by downloads or extension count; big publishers get their own page |
 | [Alphabetical](./alphabetical/0-9.md) | every extension, A–Z |
 | [Changelog](./CHANGELOG.md) | upstream additions, updates, removals per sync |
 
-## Categories at a glance
+## By section
 
-### Work & Productivity
+16 categories in 7 sections — full per-category breakdown in [categories/](./categories/README.md).
 
-| Category | Extensions |
-| --- | --- |
-| [Productivity](./categories/productivity/README.md) | 1281 |
-| [Applications](./categories/applications/README.md) | 360 |
-| [Communication](./categories/communication/README.md) | 138 |
-
-### Development
-
-| Category | Extensions |
-| --- | --- |
-| [Developer Tools](./categories/developer-tools/README.md) | 953 |
-| [Data](./categories/data/README.md) | 235 |
-| [Documentation](./categories/documentation/README.md) | 178 |
-| [Security](./categories/security/README.md) | 74 |
-
-### Creative & Media
-
-| Category | Extensions |
-| --- | --- |
-| [Media](./categories/media/README.md) | 251 |
-| [Design Tools](./categories/design-tools/README.md) | 133 |
-
-### Web, Finance & News
-
-| Category | Extensions |
-| --- | --- |
-| [Web](./categories/web/README.md) | 423 |
-| [Finance](./categories/finance/README.md) | 132 |
-| [News](./categories/news/README.md) | 81 |
-
-### System & Utilities
-
-| Category | Extensions |
-| --- | --- |
-| [System](./categories/system/README.md) | 215 |
-| [Other](./categories/other/README.md) | 183 |
-
-### Fun & Entertainment
-
-| Category | Extensions |
-| --- | --- |
-| [Fun](./categories/fun/README.md) | 253 |
-
-### Uncategorized
-
-| Category | Extensions |
-| --- | --- |
-| [Uncategorized](./categories/uncategorized/README.md) | 330 |
+| Section | Categories | Extensions |
+| --- | --- | --- |
+| Work & Productivity | Productivity, Applications, Communication | 1,512 |
+| Development | Developer Tools, Documentation, Data, Security | 1,240 |
+| Creative & Media | Design Tools, Media | 360 |
+| Web, Finance & News | Web, Finance, News | 596 |
+| System & Utilities | System, Other | 390 |
+| Fun & Entertainment | Fun | 253 |
+| Uncategorized | Uncategorized | 330 |
 
 ## How this stays up to date
 

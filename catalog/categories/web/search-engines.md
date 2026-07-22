@@ -23,7 +23,7 @@
 | [Iridium](https://github.com/raycast/extensions/tree/main/extensions/iridium) | 55 | Search open tabs, bookmarks and history in Iridium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/iridium) |
 | [TabStash](https://github.com/raycast/extensions/tree/main/extensions/tabstash) | 24 | Search, browse, and capture bookmarks with TabStash | mkhnsn | macOS | [store](https://www.raycast.com/mkhnsn/tabstash) |
 | [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) | 22 | Semantic bookmark search - save any URL and find it later in natural language. | rithmic | macOS, Windows | [store](https://www.raycast.com/rithmic/raycall) |
-| [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) | 9 | Search, browse, and manage your Keeply bookmarks | rolfkoenders | macOS, Windows | [store](https://www.raycast.com/rolfkoenders/keeply) |
+| [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) | 9 | Search, browse, and manage your Keeply bookmarks | rolfkoenders | macOS, Windows | [store](https://www.raycast.com/RolfKoenders/keeply) |
 
 ## Google ✦
 

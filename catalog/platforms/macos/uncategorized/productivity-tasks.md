@@ -6,6 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 479,192 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 133,922 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 38,353 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
 | [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 36,275 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
@@ -22,7 +23,7 @@
 | [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud) | 1,280 | Search files, deck, notes, favorites and activity in Nextcloud. | uetchy | macOS | [store](https://www.raycast.com/uetchy/nextcloud) |
 | [Yoink](https://github.com/raycast/extensions/tree/main/extensions/yoink) | 1,057 | Add selected or clipboard files to Yoink. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/yoink) |
 | [Copy GCP Icons](https://github.com/raycast/extensions/tree/main/extensions/copy-gcp-icons) | 445 | Copy Product Icons from Google Cloud Platform to Clipboard. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/copy-gcp-icons) |
-| [AppGrid](https://github.com/raycast/extensions/tree/main/extensions/appgrid) | 427 | Smart app launcher with grid view and category grouping | jungwoon | macOS | [store](https://www.raycast.com/jungwoon/appgrid) |
+| [AppGrid](https://github.com/raycast/extensions/tree/main/extensions/appgrid) | 427 | Smart app launcher with grid view and category grouping | jungwoon | macOS | [store](https://www.raycast.com/Jungwoon/appgrid) |
 | [Google Calendar Epic Time Logger](https://github.com/raycast/extensions/tree/main/extensions/time-logger) | 399 | Helps you register your work to Google Calendar | aramikuto | macOS | [store](https://www.raycast.com/aramikuto/time-logger) |
 | [Productboard](https://github.com/raycast/extensions/tree/main/extensions/productboard) | 318 | Add and view notes in Productboard quickly. Supports markdown. | honzatmn | macOS | [store](https://www.raycast.com/honzatmn/productboard) |
 | [Save Link](https://github.com/raycast/extensions/tree/main/extensions/save-link) | 176 | Get the current browser tab URL and generate a webloc file, then copy it to clipboard. | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/save-link) |
@@ -32,4 +33,3 @@
 | [Jitsi](https://github.com/raycast/extensions/tree/main/extensions/jitsi) | 55 | Create meetings with Jitsi Meet | tjwds | macOS | [store](https://www.raycast.com/tjwds/jitsi) |
 | [TeamGantt](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) | 29 | Finding and creating tasks in TeamGantt | knownasilya | macOS | [store](https://www.raycast.com/knownasilya/teamgantt) |
 | [Fifteen Million Merits](https://github.com/raycast/extensions/tree/main/extensions/fifteen-million-merits) | 24 | A persistent counter that triggers Raycast Focus mode when activity exceeds a specific threshold. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/fifteen-million-merits) |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 0 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |

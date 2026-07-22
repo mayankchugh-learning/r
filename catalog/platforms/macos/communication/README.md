@@ -194,4 +194,4 @@
 | [Area Code Search](https://github.com/raycast/extensions/tree/main/extensions/area-code-search) | 4 | Search US area codes by code, city, or state | mjking | macOS | [store](https://www.raycast.com/mjking/area-code-search) |
 | [Zenblog](https://github.com/raycast/extensions/tree/main/extensions/zenblog) | 4 | A tiny blogging CMS | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zenblog) |
 | [Manglish Keyboard](https://github.com/raycast/extensions/tree/main/extensions/manglish-keyboard) | 2 | Write in Manglish — transliterate English phonetics to Malayalam script. | mohammed_sherin_mohammed | macOS, Windows | [store](https://www.raycast.com/mohammed_sherin_mohammed/manglish-keyboard) |
-| [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | 0 | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | [store](https://www.raycast.com/multi/multi) |
+| [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
