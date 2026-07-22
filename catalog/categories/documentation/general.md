@@ -1,20 +1,23 @@
 # General
 
-51 extensions · [← Documentation](./README.md)
+56 extensions · [← Documentation](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Oh My Zsh Plugins](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) | 6,680 | Oh My Zsh Plugins | k8scat | macOS | [store](https://www.raycast.com/k8scat/ohmyzsh-plugins) |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,550 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) | 4,842 | List, Search and Download Files using the Raycast Extension for Dropbox. | chyroc | macOS | [store](https://www.raycast.com/chyroc/the-blue-cloud) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,284 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,122 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
-| [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 2,987 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 2,949 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
+| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,934 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
 | [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) | 2,445 | Search your code and public repositories with Sourcegraph. | bobheadxi | macOS | [store](https://www.raycast.com/bobheadxi/sourcegraph) |
+| [Send to flomo](https://github.com/raycast/extensions/tree/main/extensions/send-to-flomo) | 1,925 | Send your MEMOs to flomo | ahonn | macOS | [store](https://www.raycast.com/ahonn/send-to-flomo) |
 | [DocSearch](https://github.com/raycast/extensions/tree/main/extensions/docsearch) | 1,860 | Link all DocSearch into Raycast | Fatpandac | macOS | [store](https://www.raycast.com/Fatpandac/docsearch) |
 | [DLmoji](https://github.com/raycast/extensions/tree/main/extensions/dlmoji) | 1,538 | Semantic search for Emojis, powered by Deep Learning and intelligent APIs | Hydrapse | macOS | [store](https://www.raycast.com/Hydrapse/dlmoji) |
 | [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) | 1,421 | Lookup chord diagrams for guitar | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/guitar-chords) |
 | [Oh My Zsh Git Alias](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) | 1,216 | Quick search git alias. | yufeikang | macOS | [store](https://www.raycast.com/yufeikang/oh-my-zsh-git-alias) |
 | [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) | 1,213 | Create and work on checklists. | zeekrey | macOS | [store](https://www.raycast.com/zeekrey/checklist) |
+| [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,175 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
 | [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,133 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
 | [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,118 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
 | [Hugging Face](https://github.com/raycast/extensions/tree/main/extensions/hugging-face) | 1,113 | Search and explore the Hugging Face platform | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/hugging-face) |
@@ -23,10 +26,11 @@
 | [Parrot Translate](https://github.com/raycast/extensions/tree/main/extensions/parrot-translate) | 864 | Powerful and Easy to use translation, Support TTS and lowerCamelCase/ALL_UPPERCASE Copy mode, and more | Haojen | macOS | [store](https://www.raycast.com/Haojen/parrot-translate) |
 | [Terraform Doc](https://github.com/raycast/extensions/tree/main/extensions/terraform-doc) | 854 | Quickly access Terraform resources | shopping-jaws | macOS | [store](https://www.raycast.com/shopping-jaws/terraform-doc) |
 | [Markdown to Jira](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-jira) | 708 | Format a Markdown text into Jira markup. | theo_brlle | macOS | [store](https://www.raycast.com/theo_brlle/markdown-to-jira) |
-| [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 692 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
+| [Readwise to Tana](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) | 689 | Copy Readwise highlights to Tana | believer | macOS | [store](https://www.raycast.com/believer/readwise-to-tana) |
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 627 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [Figma Learn Companion](https://github.com/raycast/extensions/tree/main/extensions/figma-learn-companion) | 491 | Your companion for the Figma Learn help center that helps you quickly search for topics and updates. | madmaxmckinney | macOS | [store](https://www.raycast.com/madmaxmckinney/figma-learn-companion) |
 | [Emojify](https://github.com/raycast/extensions/tree/main/extensions/emojify) | 431 | Improve your text with emojis properly within the context | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/emojify) |
+| [SnapJot](https://github.com/raycast/extensions/tree/main/extensions/snap-jot) | 375 | Create a memo with a timestamp | k41531 | macOS | [store](https://www.raycast.com/k41531/snap-jot) |
 | [Chords and Tabs](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) | 363 | Find chords and tabs for your favorite songs and musical pieces! | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/chords-and-tabs) |
 | [Markdown Navigator](https://github.com/raycast/extensions/tree/main/extensions/markdown-navigator) | 337 | Efficiently manage and navigate your Markdown files. | chihkang | macOS | [store](https://www.raycast.com/chihkang/markdown-navigator) |
 | [CrawlDoc - Documentations Search Engine](https://github.com/raycast/extensions/tree/main/extensions/crawldoc) | 294 | Allow searching through multiple documentations platforms | johan-perso | macOS | [store](https://www.raycast.com/johan-perso/crawldoc) |
@@ -45,6 +49,7 @@
 | [Gleam Packages](https://github.com/raycast/extensions/tree/main/extensions/gleam-packages) | 85 | search for Gleam packages | ryanmiville | macOS | [store](https://www.raycast.com/ryanmiville/gleam-packages) |
 | [Drupal.org](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) | 80 | Get information from drupal.org | hussainweb | macOS | [store](https://www.raycast.com/hussainweb/drupal-org) |
 | [Textlint AWS Service Name](https://github.com/raycast/extensions/tree/main/extensions/textlint-rule-aws-service-name) | 80 | Check AWS services name typo | bun913 | macOS | [store](https://www.raycast.com/bun913/raycast-textlint-rule-aws-service-name) |
+| [ONES](https://github.com/raycast/extensions/tree/main/extensions/ones) | 60 | Raycast Extension for ONES | k8scat | macOS | [store](https://www.raycast.com/k8scat/ones) |
 | [Sefaria](https://github.com/raycast/extensions/tree/main/extensions/sefaria) | 43 | Unofficial Raycast extension for searching Sefaria's library of Jewish texts | danyeric123 | macOS | [store](https://www.raycast.com/danyeric123/sefaria) |
 | [Open Targets](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) | 37 | An (unofficial) entry point to the Open Targets ecosystem. | ireneisdoomed | macOS | [store](https://www.raycast.com/ireneisdoomed/open_targets) |
 | [Hyrule Compendium Search](https://github.com/raycast/extensions/tree/main/extensions/hyrule-compendium-search) | 32 | This extension allows you to access the Hyrule Compendium in Breath of the Wild. | MackoMaxo | macOS | [store](https://www.raycast.com/MackoMaxo/hyrule-compendium-search) |

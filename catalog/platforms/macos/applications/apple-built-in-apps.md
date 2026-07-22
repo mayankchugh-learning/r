@@ -2,7 +2,7 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · **Apple & Built-in Apps** · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
 
-14 of 351 extensions · [← macOS · Applications](./README.md)
+15 of 353 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,006 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
 | [Bob - Control Bob Translate](https://github.com/raycast/extensions/tree/main/extensions/bob) | 3,960 | Control the Bob Translate app for macOS with your keyboard. | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/bobcontrol) |
 | [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,085 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
+| [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) | 2,709 | Airport is the best place to discover new TestFlight apps from developers. | siddharthsharma94 | macOS | [store](https://www.raycast.com/siddharthsharma94/airport) |
 | [Klack](https://github.com/raycast/extensions/tree/main/extensions/klack) | 2,586 | Control Klack for macOS with Raycast | henrikruscon | macOS | [store](https://www.raycast.com/henrikruscon/klack) |
 | [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,086 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
 | [iWork](https://github.com/raycast/extensions/tree/main/extensions/iwork) | 1,239 | Control Pages, Numbers, and Keynote | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/iwork) |

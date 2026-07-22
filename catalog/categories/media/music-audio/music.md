@@ -1,8 +1,8 @@
 # Music ✦
 
-21 extensions · [← Music & Audio](./README.md)
+22 extensions · [← Music & Audio](./README.md)
 
-[Song ✦](#song) (6) · [Play ✦](#play) (4) · [General](#general) (11)
+[Song ✦](#song) (6) · [Keyboard ✦](#keyboard) (4) · [Play ✦](#play) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -16,6 +16,15 @@
 | [Music Assistant Controls](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) | 324 | Control music assistant and displays current song in the menu bar | yoerivd | macOS, Windows | [store](https://www.raycast.com/yoerivd/music-assistant-controls) |
 | [Navidrome](https://github.com/raycast/extensions/tree/main/extensions/navidrome) | 201 | Search and browse your Navidrome music library. Find artists, albums, songs, and playlists, then open them directly in your browser. | alexandervarney | macOS | [store](https://www.raycast.com/alexandervarney/navidrome) |
 | [Eurovision Song Contest](https://github.com/raycast/extensions/tree/main/extensions/eurovision-song-contest) | 40 | Discover information about the world's largest live music event | jacpd | macOS, Windows | [store](https://www.raycast.com/jacpd/eurovision-song-contest) |
+
+## Keyboard ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 87,411 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,158 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
+| [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,423 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
+| [QQ Music Controls](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) | 1,278 | Control the QQ Music app for macOS with your keyboard. | jwickers | macOS | [store](https://www.raycast.com/jwickers/qq-music-controls) |
 
 ## Play ✦
 
@@ -31,10 +40,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 419,058 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
-| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,158 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
 | [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) | 4,626 | Effortlessly convert music links between streaming services | sjdonado | macOS | [store](https://www.raycast.com/sjdonado/idonthavespotify) |
-| [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,423 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
-| [QQ Music Controls](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) | 1,278 | Control the QQ Music app for macOS with your keyboard. | jwickers | macOS | [store](https://www.raycast.com/jwickers/qq-music-controls) |
 | [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) | 579 | It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features | yusuf_akdeniz | macOS | [store](https://www.raycast.com/yusuf_akdeniz/nowplaying-cli) |
 | [Meta Music](https://github.com/raycast/extensions/tree/main/extensions/meta-music) | 340 | Manage the ID3 tags of audio files directly in Raycast! | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/meta-music) |
 | [Discogs Database Search](https://github.com/raycast/extensions/tree/main/extensions/discogs) | 324 | It will search discogs.com for a music release information specified by Label ID, Barcode, Artist or Album name | vigosan | Windows, macOS | [store](https://www.raycast.com/vigosan/discogs) |

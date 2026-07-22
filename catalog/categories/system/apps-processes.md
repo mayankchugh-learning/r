@@ -1,8 +1,8 @@
 # Apps & Processes
 
-32 extensions · [← System](./README.md)
+35 extensions · [← System](./README.md)
 
-[Close ✦](#close) (4) · [System ✦](#system) (4) · [General](#general) (24)
+[Close ✦](#close) (4) · [Cpu ✦](#cpu) (4) · [General](#general) (27)
 
 *✦ auto-discovered topic group*
 
@@ -15,14 +15,14 @@
 | [Single Focus](https://github.com/raycast/extensions/tree/main/extensions/single-focus) | 1,121 | Closes all the open apps except the frontmost one | Mmehdi06 | macOS | [store](https://www.raycast.com/Mmehdi06/single-focus) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 761 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
 
-## System ✦
+## Cpu ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 646,015 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 102,809 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
-| [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,557 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,278 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 353 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
+| [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) | 40 | See what's burning your CPU and spinning your fan | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/heatcheck) |
 
 ## General
 
@@ -34,7 +34,10 @@
 | [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,437 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 | [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,302 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
 | [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp) | 4,032 | Search Setapp apps | lardissone | macOS | [store](https://www.raycast.com/lardissone/setapp) |
+| [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,557 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,768 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
+| [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,454 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,278 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) | 1,166 | Runs configurable application shortcut depending on the frontmost application. | cyxn | macOS | [store](https://www.raycast.com/cyxn/universal-commands) |
 | [New Instance](https://github.com/raycast/extensions/tree/main/extensions/raycast-new-instance) | 1,014 | Launch a new instance of any installed application on your Mac | Caramel | macOS | [store](https://www.raycast.com/Caramel/raycast-new-instance) |
 | [Metal Performance HUD](https://github.com/raycast/extensions/tree/main/extensions/performance-hud) | 950 | Toggle macOS's built-in Metal performance HUD | say4n | macOS | [store](https://www.raycast.com/say4n/performance-hud) |
@@ -45,10 +48,10 @@
 | [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates) | 397 | Check for available updates of your installed macOS apps via Sparkle, Homebrew Cask, and Mac App Store | Undolog | macOS | [store](https://www.raycast.com/Undolog/app-updates) |
 | [Bundles](https://github.com/raycast/extensions/tree/main/extensions/bundles) | 219 | Organize applications, websites, and nested collections in custom bundles | Jace | macOS | [store](https://www.raycast.com/Jace/bundles) |
 | [Kill MCP Servers](https://github.com/raycast/extensions/tree/main/extensions/kill-mcp) | 199 | View and manage MCP (Model Context Protocol) servers running on your Mac. See RAM usage and kill processes. | baptiste-jn | macOS | [store](https://www.raycast.com/baptiste-jn/kill-mcp) |
+| [Node Release Notes](https://github.com/raycast/extensions/tree/main/extensions/node-release-notes) | 174 | Quickly browse and access detailed information of Node.js versions. Find release notes, publication dates, and documentation links for any Node.js version. Ide… | fil | macOS | [store](https://www.raycast.com/fil/node-release-notes) |
 | [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) | 160 | Control BetterAudio from Raycast — per-app volume, EQ, device routing, media controls, and more. | rokartur | macOS | [store](https://www.raycast.com/rokartur/betteraudio) |
 | [App Tag Manager](https://github.com/raycast/extensions/tree/main/extensions/app-tag-manager) | 129 | Organize and search macOS applications with tags | zaincheung | macOS | [store](https://www.raycast.com/zaincheung/app-tag-manager) |
 | [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) | 126 | Inspect extended attributes on macOS files, apps, and folders, then select which quarantined items to clear — individually or in bulk — removing the com.apple.… | nurkamol | macOS | [store](https://www.raycast.com/nurkamol/quarantine-manager) |
-| [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) | 40 | See what's burning your CPU and spinning your fan | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/heatcheck) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 36 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 | [Pivot](https://github.com/raycast/extensions/tree/main/extensions/pivot) | 33 | Bulk-change the default macOS app for many file extensions at once. | codythatsmee | macOS | [store](https://www.raycast.com/codythatsmee/pivot) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 3 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |

@@ -1,6 +1,6 @@
 # Sports
 
-13 extensions · [← Fun](./README.md)
+14 extensions · [← Fun](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | [Bundesliga](https://github.com/raycast/extensions/tree/main/extensions/bundesliga) | 351 | Stay up-to-date with the latest news, fixtures, results, and standings from the Bundesliga. | anhthang | macOS | [store](https://www.raycast.com/anhthang/bundesliga) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 201 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 176 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
+| [Footy Report](https://github.com/raycast/extensions/tree/main/extensions/footy-report) | 158 | Raycast extension to find your essential football match day info and stats | thuoe | macOS | [store](https://www.raycast.com/thuoe/footy-report) |
 | [Tennis Standings](https://github.com/raycast/extensions/tree/main/extensions/tennis-standings) | 140 | Get the ATP and WTA rankings | Zalgo_123 | macOS | [store](https://www.raycast.com/Zalgo_123/tennis-standings) |
 | [Fantasy Premier League](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) | 132 | See where you rank amongst in your league rivals in Fantasy Premier League within Raycast. | hwb | macOS | [store](https://www.raycast.com/hwb/fantasy-premier-league-rankings) |
 | [Brasileirão Série A](https://github.com/raycast/extensions/tree/main/extensions/brasileirao-serie-a) | 100 | View the Brazilian first division upcoming matches, standings and results. | willian | macOS | [store](https://www.raycast.com/willian/brasileirao-serie-a) |

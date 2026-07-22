@@ -1,11 +1,10 @@
 # General
 
-14 extensions · [← Music & Audio](./README.md)
+13 extensions · [← Music & Audio](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) | 7,944 | Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. | chrahe | macOS | [store](https://www.raycast.com/chrahe/airpods-noise-control) |
-| [Tidal Controller](https://github.com/raycast/extensions/tree/main/extensions/tidal-controller) | 1,510 | Control your local Tidal client with your keyboard. Note: You **must** enable Accessibility permissions for Raycast in order for this extension to work. | broc-dev | macOS | [store](https://www.raycast.com/broc-dev/tidal-controller) |
 | [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) | 1,421 | Lookup chord diagrams for guitar | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/guitar-chords) |
 | [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,185 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
 | [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,113 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |

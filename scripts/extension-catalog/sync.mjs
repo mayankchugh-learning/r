@@ -159,6 +159,44 @@ function toEntry(dir, treeSha, pkg) {
   };
 }
 
+// Raycast's top-level store categories, keyed by their seo_categories slug so
+// store data can be normalized back to the canonical display names. Used to
+// enrich extensions whose git manifest omitted `categories` (which the store
+// still categorizes) — eliminating most of the "Uncategorized" bucket.
+const CANONICAL_CATEGORIES = new Map([
+  ["ai", "AI"],
+  ["applications", "Applications"],
+  ["communication", "Communication"],
+  ["data", "Data"],
+  ["design-tools", "Design Tools"],
+  ["developer-tools", "Developer Tools"],
+  ["documentation", "Documentation"],
+  ["finance", "Finance"],
+  ["fun", "Fun"],
+  ["media", "Media"],
+  ["news", "News"],
+  ["productivity", "Productivity"],
+  ["security", "Security"],
+  ["system", "System"],
+  ["web", "Web"],
+  ["other", "Other"],
+]);
+
+// Maps store seo_categories (mixed case, plus finer SEO tags) to canonical
+// top-level category names, dropping tags that aren't real categories.
+function canonicalCategories(seo) {
+  const out = [];
+  for (const s of seo ?? []) {
+    const c = CANONICAL_CATEGORIES.get(String(s).toLowerCase().replace(/\s+/g, "-"));
+    if (c && !out.includes(c)) out.push(c);
+  }
+  return out;
+}
+
+const UNCATEGORIZED = "Uncategorized";
+const isManifestUncategorized = (e) =>
+  e.categories.length === 1 && e.categories[0] === UNCATEGORIZED;
+
 // --- 4. Markdown rendering --------------------------------------------------
 
 function mdEscape(text, max = 160) {
@@ -1121,6 +1159,11 @@ for (const entry of entries) {
     const r = resolved.map.get(entry.dir);
     entry.downloads = r ? r.downloads : null;
     entry.store = r ? r.storeUrl : null;
+    // Categorize from the store when the git manifest gave no categories.
+    if (r && isManifestUncategorized(entry)) {
+      const c = canonicalCategories(r.seo);
+      if (c.length) entry.categories = c;
+    }
   } else if (entry.downloads === undefined) {
     entry.downloads = null;
   }

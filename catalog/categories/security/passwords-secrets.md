@@ -1,8 +1,8 @@
 # Passwords & Secrets
 
-34 extensions · [← Security](./README.md)
+35 extensions · [← Security](./README.md)
 
-[Password ✦](#password) (20) · [Secrets ✦](#secrets) (8) · [Vault ✦](#vault) (4) · [General](#general) (2)
+[Password ✦](#password) (21) · [Secrets ✦](#secrets) (8) · [Vault ✦](#vault) (4) · [General](#general) (2)
 
 *✦ auto-discovered topic group*
 
@@ -16,6 +16,7 @@
 | [Apple-Like Password](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) | 1,498 | Copies a generated Apple Keychain-Like password directly to the clipboard in one step | breadone | macOS | [store](https://www.raycast.com/breadone/keychain-password-gen) |
 | [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) | 1,394 | Generates a set of random passwords using different generators. | omBratteng | macOS | [store](https://www.raycast.com/omBratteng/passphrase-generator) |
 | [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) | 1,101 | Search and manage your Proton Pass items, generate passwords, and get TOTP codes. | izyuumi | macOS | [store](https://www.raycast.com/izyuumi/proton-pass) |
+| [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 983 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
 | [Password Store](https://github.com/raycast/extensions/tree/main/extensions/password-store) | 756 | A Raycast Extension for managing passwordstore.org passwords | afok | macOS | [store](https://www.raycast.com/afok/password-store) |
 | [Gopass](https://github.com/raycast/extensions/tree/main/extensions/gopass) | 495 | Search and copy passwords from gopass password manager | bake | macOS | [store](https://www.raycast.com/bake/gopass) |
 | [Pass](https://github.com/raycast/extensions/tree/main/extensions/pass) | 489 | An extension to handle the standard unix password manager in a convenient way using Raycast | capipo | macOS | [store](https://www.raycast.com/capipo/pass) |

@@ -1,8 +1,8 @@
 # Cross-platform · Other
 
-33 extensions · [← Cross-platform](../README.md)
+35 extensions · [← Cross-platform](../README.md)
 
-[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Language & Translation](#language-translation) (2) · [Travel & Transport](#travel-transport) (3) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (6) · [Communication & Social](#communication-social) (1) · [General](#general) (11)
+[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Language & Translation](#language-translation) (2) · [Travel & Transport](#travel-transport) (4) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (6) · [Communication & Social](#communication-social) (1) · [General](#general) (12)
 
 ## Digital Tools
 
@@ -51,6 +51,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 39,146 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 201 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Transit Departures (Catenary for Raycast)](https://github.com/raycast/extensions/tree/main/extensions/catenary-raycast) | 54 | View real-time transit departures for any stop from anywhere using Catenary. | quacksire | macOS, Windows | [store](https://www.raycast.com/quacksire/catenary-raycast) |
 | [Bikeshare Station Status](https://github.com/raycast/extensions/tree/main/extensions/bikeshare-station-status) | 6 | Check bike availability at Lyft bikeshare stations, including Citibike (NYC), Bay Wheels (Bay Area), Capital Bikeshare (DC), Biketown (Portland), and Divvy (Ch… | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/bikeshare-station-status) |
@@ -86,6 +87,7 @@
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 625 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [Kill Node Modules](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) | 519 | Remove selected node_modules | NicolasMontone | macOS, Windows | [store](https://www.raycast.com/NicolasMontone/kill-node-modules) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 515 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
+| [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 262 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
 | [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 176 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 165 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
 | [Twenty](https://github.com/raycast/extensions/tree/main/extensions/twenty) | 138 | Create Object Record Instantly | NabhagMotivaras | macOS, Windows | [store](https://www.raycast.com/NabhagMotivaras/twenty) |

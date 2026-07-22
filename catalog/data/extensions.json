@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ba957de79fa3c9132f2c0486bbe2ac165e325350",
-  "generatedAt": "2026-07-22T01:44:17.637Z",
-  "downloadsRefreshedAt": "2026-07-22T01:44:11.957Z",
+  "commit": "5a985457b6fa9afb452e04cccfe4e821792a14bf",
+  "generatedAt": "2026-07-22T03:01:40.718Z",
+  "downloadsRefreshedAt": "2026-07-22T03:01:40.348Z",
   "count": 3083,
   "extensions": [
     {
@@ -769,7 +769,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "AI",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -986,7 +987,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Applications"
       ],
       "platforms": [
         "macOS"
@@ -1124,7 +1126,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -1143,7 +1145,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Web",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -1264,7 +1268,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Media",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -1479,7 +1485,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -1598,7 +1605,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Data",
+        "Documentation"
       ],
       "platforms": [
         "macOS",
@@ -1699,7 +1708,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Design Tools"
       ],
       "platforms": [
         "macOS"
@@ -2200,7 +2210,8 @@
       "owner": "raycast",
       "contributors": 13,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -2855,7 +2866,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -2914,7 +2926,8 @@
       "owner": null,
       "contributors": 15,
       "categories": [
-        "Uncategorized"
+        "System",
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -3359,7 +3372,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Finance",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -3520,7 +3534,9 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity",
+        "Data"
       ],
       "platforms": [
         "macOS",
@@ -3640,7 +3656,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -3718,7 +3735,8 @@
       "owner": null,
       "contributors": 7,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -4094,7 +4112,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Communication"
       ],
       "platforms": [
         "macOS"
@@ -4212,7 +4231,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -4390,7 +4409,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Finance"
       ],
       "platforms": [
         "macOS"
@@ -4566,7 +4585,8 @@
       "owner": null,
       "contributors": 7,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -4624,7 +4644,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Finance",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -5000,7 +5021,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Documentation",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -5279,7 +5301,8 @@
       "owner": null,
       "contributors": 15,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -5421,7 +5444,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -5538,7 +5562,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Security",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -5814,7 +5839,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Communication"
       ],
       "platforms": [
         "macOS"
@@ -5971,7 +5997,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Applications",
+        "Communication"
       ],
       "platforms": [
         "macOS"
@@ -6350,7 +6378,9 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -7137,7 +7167,7 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -7491,7 +7521,7 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -8405,7 +8435,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "AI"
       ],
       "platforms": [
         "macOS"
@@ -8541,7 +8572,8 @@
       "owner": null,
       "contributors": 13,
       "categories": [
-        "Uncategorized"
+        "System",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -8601,7 +8633,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Finance"
       ],
       "platforms": [
         "macOS"
@@ -8640,7 +8672,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Finance",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -8764,10 +8797,10 @@
         "macOS",
         "Windows"
       ],
-      "store": "https://www.raycast.com/thomas/color-picker",
+      "store": null,
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 490892
+      "downloads": null
     },
     {
       "dir": "color-shades",
@@ -9018,7 +9051,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -9157,7 +9190,9 @@
       "owner": null,
       "contributors": 6,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Security",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -9176,7 +9211,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "News"
       ],
       "platforms": [
         "macOS",
@@ -9296,7 +9332,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity",
+        "Documentation"
       ],
       "platforms": [
         "macOS",
@@ -9541,7 +9579,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Design Tools"
       ],
       "platforms": [
         "macOS"
@@ -9799,7 +9838,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -9858,7 +9898,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -10471,7 +10511,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Finance",
+        "Productivity"
       ],
       "platforms": [
         "Windows",
@@ -10613,7 +10654,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -11065,7 +11107,9 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Data",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -11166,7 +11210,9 @@
       "owner": null,
       "contributors": 6,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -11205,7 +11251,7 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -11224,7 +11270,7 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "Fun"
       ],
       "platforms": [
         "macOS",
@@ -11362,7 +11408,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Finance",
+        "Data",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -11461,7 +11509,7 @@
       "owner": null,
       "contributors": 11,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -11899,7 +11947,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "News"
       ],
       "platforms": [
         "macOS"
@@ -12819,7 +12868,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -13058,7 +13108,8 @@
       "owner": null,
       "contributors": 8,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS",
@@ -13078,7 +13129,9 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -13315,7 +13368,8 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Web"
       ],
       "platforms": [
         "macOS",
@@ -13971,7 +14025,7 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Fun"
       ],
       "platforms": [
         "macOS"
@@ -14471,7 +14525,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Media"
       ],
       "platforms": [
         "macOS"
@@ -14510,7 +14565,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -14849,7 +14904,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Finance",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -15590,7 +15646,7 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Communication"
       ],
       "platforms": [
         "macOS"
@@ -16168,7 +16224,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -16269,7 +16326,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -16310,7 +16368,8 @@
       "owner": null,
       "contributors": 5,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -17085,7 +17144,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -17104,7 +17164,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -17442,7 +17503,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "News",
+        "Fun",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -17824,7 +17887,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -18295,7 +18358,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -18561,7 +18625,7 @@
       ],
       "store": "https://www.raycast.com/Oslen/gh-pr-tracker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker",
-      "treeSha": "7ded3a8fb344f9d67013247aac61954e986f836e",
+      "treeSha": "cfdec4e69023fe4c80746f9bda67d29c78804a45",
       "downloads": 10
     },
     {
@@ -19114,7 +19178,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -19352,7 +19417,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Documentation",
+        "Developer Tools",
+        "Design Tools"
       ],
       "platforms": [
         "macOS"
@@ -19371,7 +19438,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -19667,7 +19735,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -19833,7 +19902,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 479192
+      "downloads": 479230
     },
     {
       "dir": "google-chrome-profiles",
@@ -19844,7 +19913,8 @@
       "owner": null,
       "contributors": 5,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -19863,7 +19933,10 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Data",
+        "Documentation",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -20145,7 +20218,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Data",
+        "News",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -20305,7 +20380,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -20351,7 +20427,7 @@
       ],
       "store": "https://www.raycast.com/justyt65/gram",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gram",
-      "treeSha": "6fb5f65ec033b86721eebab62030cd8a4c680a69",
+      "treeSha": "18d08277aa0dccdd754d106dce5f0295a11fd255",
       "downloads": 15
     },
     {
@@ -21089,7 +21165,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "News",
+        "Productivity",
+        "Communication"
       ],
       "platforms": [
         "macOS"
@@ -21425,7 +21503,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -21645,7 +21724,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -22469,7 +22549,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "AI",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -23084,7 +23165,8 @@
       "owner": null,
       "contributors": 5,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Fun"
       ],
       "platforms": [
         "macOS",
@@ -23344,7 +23426,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -23762,7 +23845,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Finance",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -24026,7 +24110,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Data",
+        "Other"
       ],
       "platforms": [
         "macOS"
@@ -24328,7 +24414,8 @@
       "owner": null,
       "contributors": 6,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -24388,7 +24475,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -24407,7 +24495,7 @@
       "owner": null,
       "contributors": 6,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -24446,7 +24534,7 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -24485,7 +24573,7 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -24722,7 +24810,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -24761,7 +24851,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Data",
+        "Documentation"
       ],
       "platforms": [
         "macOS",
@@ -25242,7 +25334,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -25458,7 +25551,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -25477,7 +25571,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -25637,7 +25732,9 @@
       "owner": null,
       "contributors": 10,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System",
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -25646,7 +25743,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 645983
+      "downloads": 646015
     },
     {
       "dir": "kimai",
@@ -25757,7 +25854,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Fun"
       ],
       "platforms": [
         "macOS"
@@ -25838,7 +25936,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "AI",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -26034,7 +26133,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -26091,7 +26191,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -26298,7 +26399,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -26439,7 +26540,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -26458,7 +26561,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -26538,7 +26642,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -26557,7 +26662,8 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -26576,7 +26682,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Documentation",
+        "Communication"
       ],
       "platforms": [
         "macOS"
@@ -26614,7 +26722,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Fun"
       ],
       "platforms": [
         "macOS",
@@ -27531,7 +27640,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -27708,7 +27817,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -27953,7 +28063,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "News",
+        "Media"
       ],
       "platforms": [
         "macOS"
@@ -28109,7 +28220,8 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Documentation"
       ],
       "platforms": [
         "macOS",
@@ -29553,7 +29665,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS",
@@ -29729,7 +29842,7 @@
       "owner": "markprompt",
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -30268,7 +30381,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Communication"
       ],
       "platforms": [
         "macOS",
@@ -30329,7 +30443,8 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "System",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -30406,7 +30521,8 @@
       "owner": null,
       "contributors": 8,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Communication"
       ],
       "platforms": [
         "macOS"
@@ -30488,7 +30604,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -30648,7 +30765,8 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -31230,7 +31348,10 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "AI",
+        "Data",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -31448,7 +31569,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -32118,7 +32239,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -32157,7 +32279,8 @@
       "owner": null,
       "contributors": 11,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Fun"
       ],
       "platforms": [
         "macOS"
@@ -32312,7 +32435,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Fun"
       ],
       "platforms": [
         "macOS"
@@ -32395,7 +32519,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -32714,7 +32838,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -32989,7 +33114,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -33721,7 +33847,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -33740,7 +33866,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -33841,7 +33969,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "News",
+        "Media"
       ],
       "platforms": [
         "macOS"
@@ -35232,7 +35361,8 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -35331,7 +35461,10 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools",
+        "Data",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -35992,7 +36125,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -36051,7 +36184,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "System",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -36092,7 +36227,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -36411,7 +36547,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -37035,7 +37171,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -37902,7 +38038,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -38125,7 +38262,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -39048,7 +39186,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -39190,7 +39329,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -39937,7 +40077,7 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -39956,7 +40096,8 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "News",
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -40485,7 +40626,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Data",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -40726,7 +40869,9 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "Windows",
@@ -40902,7 +41047,9 @@
       "owner": null,
       "contributors": 9,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools",
+        "Web"
       ],
       "platforms": [
         "macOS",
@@ -41108,7 +41255,7 @@
       "owner": null,
       "contributors": 3,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -41212,7 +41359,9 @@
       "owner": null,
       "contributors": 5,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS",
@@ -41748,7 +41897,8 @@
       "owner": null,
       "contributors": 14,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Web"
       ],
       "platforms": [
         "macOS",
@@ -41869,7 +42019,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools",
+        "Security"
       ],
       "platforms": [
         "macOS"
@@ -42105,7 +42257,8 @@
       "owner": null,
       "contributors": 7,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Design Tools"
       ],
       "platforms": [
         "macOS",
@@ -42308,7 +42461,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -42464,7 +42617,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS",
@@ -42524,7 +42678,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -43188,7 +43343,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity",
+        "Fun"
       ],
       "platforms": [
         "macOS"
@@ -43553,7 +43710,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -43811,7 +43969,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "News",
+        "Fun"
       ],
       "platforms": [
         "macOS",
@@ -44192,7 +44352,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "Media"
       ],
       "platforms": [
         "macOS"
@@ -44654,7 +44815,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Finance",
+        "Productivity",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -44732,7 +44895,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS",
@@ -44890,7 +45054,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Fun",
+        "Media"
       ],
       "platforms": [
         "macOS"
@@ -45027,7 +45192,9 @@
       "owner": null,
       "contributors": 5,
       "categories": [
-        "Uncategorized"
+        "News",
+        "Media",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -45267,7 +45434,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "System",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -45983,7 +46151,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -46002,7 +46171,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -46160,7 +46330,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -46301,7 +46472,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -46420,7 +46592,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -46619,7 +46792,10 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools",
+        "AI",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -46679,7 +46855,8 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -46797,7 +46974,8 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -47078,7 +47256,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -47521,7 +47700,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "News"
       ],
       "platforms": [
         "macOS"
@@ -48113,7 +48293,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Media"
       ],
       "platforms": [
         "macOS"
@@ -48292,7 +48473,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -48714,7 +48896,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Fun"
       ],
       "platforms": [
         "macOS",
@@ -48734,7 +48916,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -48930,7 +49113,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Finance",
+        "Data"
       ],
       "platforms": [
         "macOS"
@@ -49327,7 +49512,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -49725,7 +49911,8 @@
       "owner": null,
       "contributors": 9,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -49865,7 +50052,10 @@
       "owner": null,
       "contributors": 8,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools",
+        "Security",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -49904,7 +50094,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Other"
       ],
       "platforms": [
         "macOS"
@@ -50024,7 +50215,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Fun",
+        "Media",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -51009,7 +51202,9 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -51347,7 +51542,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Fun",
+        "Media"
       ],
       "platforms": [
         "macOS"
@@ -52065,7 +52261,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -52381,7 +52577,9 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -52765,7 +52963,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Data",
+        "Documentation"
       ],
       "platforms": [
         "macOS"
@@ -52861,7 +53061,9 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Fun",
+        "Other"
       ],
       "platforms": [
         "macOS",
@@ -53003,7 +53205,7 @@
       "owner": null,
       "contributors": 11,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -53342,7 +53544,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -53558,7 +53760,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -53597,7 +53799,7 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -53775,7 +53977,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Documentation"
       ],
       "platforms": [
         "macOS",
@@ -53975,7 +54178,7 @@
       "owner": null,
       "contributors": 9,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -54333,7 +54536,8 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -54769,7 +54973,10 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools",
+        "Security",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -54952,7 +55159,8 @@
       "owner": null,
       "contributors": 6,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Fun"
       ],
       "platforms": [
         "Windows",
@@ -55011,7 +55219,9 @@
       "owner": null,
       "contributors": 2,
       "categories": [
-        "Uncategorized"
+        "Communication",
+        "News",
+        "Media"
       ],
       "platforms": [
         "macOS",
@@ -55031,7 +55241,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "News",
+        "Communication",
+        "Media"
       ],
       "platforms": [
         "macOS"
@@ -55072,7 +55284,8 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Security",
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -55631,7 +55844,9 @@
       "owner": null,
       "contributors": 6,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Developer Tools",
+        "Design Tools"
       ],
       "platforms": [
         "macOS",
@@ -55931,7 +56146,9 @@
       "owner": null,
       "contributors": 5,
       "categories": [
-        "Uncategorized"
+        "Design Tools",
+        "Media",
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -56288,7 +56505,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -56307,7 +56525,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -56484,7 +56703,7 @@
       "owner": null,
       "contributors": 7,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS",
@@ -56543,7 +56762,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "News",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -56926,7 +57146,9 @@
       "owner": "vercel",
       "contributors": 9,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity",
+        "Web"
       ],
       "platforms": [
         "macOS",
@@ -57253,7 +57475,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -57372,7 +57595,7 @@
       "owner": null,
       "contributors": 9,
       "categories": [
-        "Uncategorized"
+        "Developer Tools"
       ],
       "platforms": [
         "macOS"
@@ -57391,7 +57614,8 @@
       "owner": null,
       "contributors": 28,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Productivity"
       ],
       "platforms": [
         "macOS",
@@ -57831,7 +58055,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -58029,7 +58254,8 @@
       "owner": null,
       "contributors": 4,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "Other"
       ],
       "platforms": [
         "macOS",
@@ -58129,7 +58355,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Data",
+        "Web"
       ],
       "platforms": [
         "macOS"
@@ -59352,7 +59580,9 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "AI",
+        "Data"
       ],
       "platforms": [
         "macOS",
@@ -60383,7 +60613,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity",
+        "System"
       ],
       "platforms": [
         "macOS"
@@ -60459,7 +60690,7 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Productivity"
       ],
       "platforms": [
         "macOS"
@@ -60557,7 +60788,8 @@
       "owner": null,
       "contributors": 6,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Fun"
       ],
       "platforms": [
         "macOS",
@@ -60675,7 +60907,8 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Media",
+        "Fun"
       ],
       "platforms": [
         "macOS"
@@ -61219,7 +61452,8 @@
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "System"
       ],
       "platforms": [
         "macOS"

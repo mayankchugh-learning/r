@@ -1,6 +1,6 @@
 # General
 
-57 extensions · [← System](./README.md)
+68 extensions · [← System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -8,6 +8,7 @@
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 71,730 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,175 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 50,845 | Find open ports and close them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,512 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 39,822 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 38,132 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 33,138 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
@@ -17,20 +18,28 @@
 | [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | 8,851 | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |
 | [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 8,815 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
 | [Text Replacements](https://github.com/raycast/extensions/tree/main/extensions/text-replacements) | 6,114 | Search, manage, and import your macOS text replacements. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/text-replacements) |
-| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,022 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,884 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [Shell History](https://github.com/raycast/extensions/tree/main/extensions/shell-history) | 4,719 | Search shell command history from zsh, bash, and fish. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/shell-history) |
+| [Tunnelblick](https://github.com/raycast/extensions/tree/main/extensions/tunnelblick) | 4,128 | Quickly enable and disable vpn connections | SamuelNitsche | macOS | [store](https://www.raycast.com/SamuelNitsche/tunnelblick) |
+| [Search Linux Commands](https://github.com/raycast/extensions/tree/main/extensions/linux-command) | 3,645 | Search through linux commands and get detailed information in Chinese. | jaywcjlove | macOS | [store](https://www.raycast.com/jaywcjlove/linux-command) |
+| [Large Type](https://github.com/raycast/extensions/tree/main/extensions/large-type) | 3,534 | Large Type allows you to show text in large characters across your screen | gbarba | macOS | [store](https://www.raycast.com/gbarba/large-type) |
 | [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,085 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
 | [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,746 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,664 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,531 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Background Sounds](https://github.com/raycast/extensions/tree/main/extensions/background-sounds) | 2,301 | Toggle macOS background sounds on and off. | sebdanielsson | macOS | [store](https://www.raycast.com/sebdanielsson/background-sounds) |
 | [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,248 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
 | [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) | 2,102 | Visibility control of your macbook's notch | zkondor | macOS | [store](https://www.raycast.com/zkondor/znotch) |
-| [Time Machine](https://github.com/raycast/extensions/tree/main/extensions/time-machine) | 2,008 | This extension is built to integrate MacOS system backup utility "TimeMachine" with Raycast. With the help of tmutil CLI Utility, it offers users the ability t… | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/time-machine) |
 | [macOSIcons.com](https://github.com/raycast/extensions/tree/main/extensions/macosicons) | 1,954 | Raycast extension for browsing and applying icons from macOSicons.com | shldk | macOS | [store](https://www.raycast.com/shldk/macosicons) |
 | [Tmux Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet) | 1,875 | Provides easy access to tmux cheatsheet documentation for when you forget a command, or are just learning. | alikhatibak | macOS | [store](https://www.raycast.com/alikhatibak/tmux-cheatsheet) |
 | [Command Scheduler](https://github.com/raycast/extensions/tree/main/extensions/scheduler) | 1,756 | Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. | cps | macOS, Windows | [store](https://www.raycast.com/cps/scheduler) |
 | [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) | 1,680 | Pieces for Developers Raycast Extension | pieces (org) | macOS | [store](https://www.raycast.com/pieces/pieces-raycast) |
+| [Karabiner Profile Switcher](https://github.com/raycast/extensions/tree/main/extensions/karabiner-profile-switcher) | 1,507 | List Karabiner Elements profiles and switch between them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/karabiner-profile-switcher) |
+| [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) | 1,477 | Switch between clusters from Raycast | oktay | macOS | [store](https://www.raycast.com/oktay/kubectx) |
+| [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,419 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
 | [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,365 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
+| [OpenWeatherMap](https://github.com/raycast/extensions/tree/main/extensions/openweathermap) | 1,357 | Get Weather via https://openweathermap.com | tonka3000 | macOS | [store](https://www.raycast.com/tonka3000/openweathermap) |
+| [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit) | 1,352 | Run Script Kit Command from Raycast | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/script-kit) |
 | [SSH Tunnel Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-tunnel-manager) | 1,220 | Manage ssh tunnels | MinatoHikari | macOS | [store](https://www.raycast.com/MinatoHikari/ssh-tunnel-manager) |
 | [Unifi](https://github.com/raycast/extensions/tree/main/extensions/unifi) | 1,093 | Manage Unifi Controllers | lewj | macOS | [store](https://www.raycast.com/lewj/unifi) |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 939 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
@@ -41,6 +50,7 @@
 | [Wake-On-LAN](https://github.com/raycast/extensions/tree/main/extensions/wol) | 731 | Simple wake on lan | Lemon | macOS | [store](https://www.raycast.com/Lemon/wol) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | 673 | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
 | [Punto Switcher](https://github.com/raycast/extensions/tree/main/extensions/punto) | 643 | Changes the layout of selected text. Requires Accessibility access | red.avtovo | macOS | [store](https://www.raycast.com/red.avtovo/punto) |
+| [SABnzbd](https://github.com/raycast/extensions/tree/main/extensions/sabnzbd) | 507 | Manage SABnzbd locally | jns | macOS | [store](https://www.raycast.com/jns/sabnzbd) |
 | [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 359 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
 | [PM2](https://github.com/raycast/extensions/tree/main/extensions/pm2) | 279 | Advanced, production process manager for Node.js. | litomore | macOS | [store](https://www.raycast.com/litomore/pm2) |
 | [Deutscher Wetterdienst](https://github.com/raycast/extensions/tree/main/extensions/deutscherwetterdienst) | 269 | Shows current rain radar by the Deutscher Wetter Dienst | nicolai | macOS | [store](https://www.raycast.com/nicolai/deutscherwetterdienst) |
@@ -49,14 +59,15 @@
 | [Rain Radars](https://github.com/raycast/extensions/tree/main/extensions/rain-radars) | 237 | Search for available rain radars for a location. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/rain-radars) |
 | [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) | 164 | Manage Fisher plugins for Fish Shell directly from Raycast | matheuschein | macOS | [store](https://www.raycast.com/matheuschein/fisher) |
 | [MAMP Utility](https://github.com/raycast/extensions/tree/main/extensions/mamp-utility) | 163 | Search and organize your MAMP hosted website. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/mamp-utility) |
+| [Multipass](https://github.com/raycast/extensions/tree/main/extensions/multipass) | 146 | Manage Multipass instances | davibe | macOS | [store](https://www.raycast.com/davibe/multipass) |
 | [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | 143 | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |
 | [Handoff Toggle](https://github.com/raycast/extensions/tree/main/extensions/handoff-toggle) | 138 | Toggle macOS Handoff feature on/off | wellsgz | macOS | [store](https://www.raycast.com/wellsgz/handoff-toggle) |
 | [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 126 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
 | [Geoping](https://github.com/raycast/extensions/tree/main/extensions/geoping) | 125 | Pings servers around the globe | chiroyce | macOS | [store](https://www.raycast.com/chiroyce/geoping) |
-| [OpenHue](https://github.com/raycast/extensions/tree/main/extensions/openhue) | 102 | Control your Philips Hue lightning system from Raycast | thibauult | macOS, Windows | [store](https://www.raycast.com/thibauult/openhue) |
 | [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) | 97 | Local NuGet package explorer | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/nuget-package-explorer) |
 | [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) | 92 | Control Tabby terminal with Raycast | chupi | macOS, Windows | [store](https://www.raycast.com/chupi/tabby) |
 | [Micro Snitch Logs](https://github.com/raycast/extensions/tree/main/extensions/micro-snitch-logs) | 64 | Visualize Micro Snitch logs with beautiful formatting | jorgetoh | macOS | [store](https://www.raycast.com/jorgetoh/micro-snitch-logs) |
+| [Run Zipper Applet](https://github.com/raycast/extensions/tree/main/extensions/zipper-run) | 53 | Run a zipper applet | ariel_conti | macOS | [store](https://www.raycast.com/arielconti10/zipper-run) |
 | [Wiz Controller](https://github.com/raycast/extensions/tree/main/extensions/wiz-controller) | 38 | Control your Wiz lights from Raycast | shail_antani | macOS | [store](https://www.raycast.com/shail_antani/wiz-controller) |
 | [Voicemeeter Control](https://github.com/raycast/extensions/tree/main/extensions/voicemeeter-raycast) | 16 | Control Voicemeeter strips and buses from Raycast. | Vorm-- | Windows | [store](https://www.raycast.com/Vorm--/voicemeeter-raycast) |
 | [MirAIe AC Control](https://github.com/raycast/extensions/tree/main/extensions/miraie-ac-control) | 8 | Control Panasonic MirAIe air conditioners from Raycast. | ayush_saini | macOS | [store](https://www.raycast.com/ayush_saini/miraie-ac-control) |

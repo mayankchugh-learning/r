@@ -16,16 +16,11 @@
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,531 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 749 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 
-## Uncategorized (1)
+## Developer Tools (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,489 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
-
-## Developer Tools (2)
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 939 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
 | [PM2](https://github.com/raycast/extensions/tree/main/extensions/pm2) | 279 | Advanced, production process manager for Node.js. | litomore | macOS | [store](https://www.raycast.com/litomore/pm2) |
 

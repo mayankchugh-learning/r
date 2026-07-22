@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-22 — upstream `5a985457b6`
+
+**Updated (2):** [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker), [Gram](https://github.com/raycast/extensions/tree/main/extensions/gram)
+
 ## 2026-07-21 — upstream `ba957de79f`
 
 **Updated (1):** [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive)

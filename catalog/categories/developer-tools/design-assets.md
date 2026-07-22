@@ -1,15 +1,32 @@
 # Design & Assets
 
-32 extensions · [← Developer Tools](./README.md)
+36 extensions · [← Developer Tools](./README.md)
 
-[Image ✦](#image) (10) · [Color ✦](#color) (9) · [Icons ✦](#icons) (9) · [General](#general) (4)
+[Color ✦](#color) (11) · [Images ✦](#images) (11) · [Icons ✦](#icons) (10) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
-## Image ✦
+## Color ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,068 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
+| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,369 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
+| [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 4,917 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
+| [Color Shades](https://github.com/raycast/extensions/tree/main/extensions/color-shades) | 2,301 | Generate color shades from a base color and manage your generated color shades palettes. | qeude | macOS | [store](https://www.raycast.com/qeude/color-shades) |
+| [Palette Colors](https://github.com/raycast/extensions/tree/main/extensions/palette-colors) | 2,245 | Pick nice palette colors directly from Raycast | douglas-pires | macOS | [store](https://www.raycast.com/douglas-pires/palette-colors) |
+| [Convert Color](https://github.com/raycast/extensions/tree/main/extensions/covert-color) | 2,119 | hsl, rgb, hexadecimal, convert to each other | yf_zhang | macOS | [store](https://www.raycast.com/yf_zhang/covert-color) |
+| [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) | 949 | Quickly view the Catppuccin color palette, userstyles, ports, and documentation. | dvhsh | macOS | [store](https://www.raycast.com/dvhsh/catppuccin) |
+| [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) | 359 | Just a color picker | ZooHero | macOS | [store](https://www.raycast.com/ZooHero/justcolorpicker-raycast) |
+| [Random Color](https://github.com/raycast/extensions/tree/main/extensions/random-color) | 245 | Pick a random color. | srcrip | macOS | [store](https://www.raycast.com/srcrip/random-color) |
+| [WLED Controller](https://github.com/raycast/extensions/tree/main/extensions/wled-controller) | 94 | Control your WLED devices - manage devices, set colors, effects, and brightness directly from Raycast | creative-koda-lab | macOS, Windows | [store](https://www.raycast.com/creative-koda-lab/wled-controller) |
+| [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) | 77 | View and copy Minecraft chat color codes. | lafkpages | macOS | [store](https://www.raycast.com/luisafk/minecraft-color-codes) |
+
+## Images ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 45,991 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
 | [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 40,093 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS | [store](https://www.raycast.com/kawamataryo/tinypng) |
 | [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 1,945 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |
 | [CodeSnap](https://github.com/raycast/extensions/tree/main/extensions/codesnap) | 1,686 | Creates a beautiful image of your code snippet | Mokkapps | macOS | [store](https://www.raycast.com/Mokkapps/codesnap) |
@@ -21,25 +38,12 @@
 | [LGTMeow](https://github.com/raycast/extensions/tree/main/extensions/lgtmeow) | 167 | Selecting and pasting LGTM images from LGTMeow in Markdown format. | snaka | macOS | [store](https://www.raycast.com/snaka/lgtmeow) |
 | [Image Hash Rename](https://github.com/raycast/extensions/tree/main/extensions/image-hash-rename) | 8 | Rename images in a folder by appending a content-based MD5 hash to the filename. | saury | macOS | [store](https://www.raycast.com/saury/image-hash-rename) |
 
-## Color ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,068 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
-| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,369 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
-| [Color Shades](https://github.com/raycast/extensions/tree/main/extensions/color-shades) | 2,301 | Generate color shades from a base color and manage your generated color shades palettes. | qeude | macOS | [store](https://www.raycast.com/qeude/color-shades) |
-| [Palette Colors](https://github.com/raycast/extensions/tree/main/extensions/palette-colors) | 2,245 | Pick nice palette colors directly from Raycast | douglas-pires | macOS | [store](https://www.raycast.com/douglas-pires/palette-colors) |
-| [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) | 949 | Quickly view the Catppuccin color palette, userstyles, ports, and documentation. | dvhsh | macOS | [store](https://www.raycast.com/dvhsh/catppuccin) |
-| [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) | 359 | Just a color picker | ZooHero | macOS | [store](https://www.raycast.com/ZooHero/justcolorpicker-raycast) |
-| [Random Color](https://github.com/raycast/extensions/tree/main/extensions/random-color) | 245 | Pick a random color. | srcrip | macOS | [store](https://www.raycast.com/srcrip/random-color) |
-| [WLED Controller](https://github.com/raycast/extensions/tree/main/extensions/wled-controller) | 94 | Control your WLED devices - manage devices, set colors, effects, and brightness directly from Raycast | creative-koda-lab | macOS, Windows | [store](https://www.raycast.com/creative-koda-lab/wled-controller) |
-| [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) | 77 | View and copy Minecraft chat color codes. | lafkpages | macOS | [store](https://www.raycast.com/luisafk/minecraft-color-codes) |
-
 ## Icons ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 24,908 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
+| [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 10,145 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |
 | [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 8,491 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
 | [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 7,556 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
 | [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,357 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |

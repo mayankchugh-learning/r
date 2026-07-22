@@ -1,8 +1,8 @@
 # Applications
 
-360 extensions · [← all categories](../README.md)
+362 extensions · [← all categories](../README.md)
 
-macOS: 351 · Windows: 76
+macOS: 353 · Windows: 76
 
 ## Work & Knowledge Apps
 
@@ -36,7 +36,7 @@ macOS: 351 · Windows: 76
 | Topic | Extensions |
 | --- | --- |
 | [Browsers](./browsers.md) | 10 |
-| [Apple & Built-in Apps](./apple-built-in-apps.md) | 14 |
+| [Apple & Built-in Apps](./apple-built-in-apps.md) | 15 |
 | [Files, Sync & Upload](./files-sync-upload.md) | 16 |
 | [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
 | [Launchers & App Control](./launchers-app-control.md) | 50 |
@@ -49,6 +49,6 @@ macOS: 351 · Windows: 76
 | [API ✦](./api.md) | 4 |
 | [Monitor ✦](./monitor.md) | 4 |
 
-Plus [General](./general.md) — 109 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 110 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

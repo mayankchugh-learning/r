@@ -1,8 +1,8 @@
 # Other
 
-183 extensions · [← all categories](../README.md)
+187 extensions · [← all categories](../README.md)
 
-macOS: 181 · Windows: 35
+macOS: 185 · Windows: 37
 
 ## Digital Tools
 
@@ -19,9 +19,9 @@ macOS: 181 · Windows: 35
 | Topic | Extensions |
 | --- | --- |
 | [Health & Lifestyle](./health-lifestyle.md) | 5 |
-| [Travel & Transport](./travel-transport.md) | 16 |
+| [Travel & Transport](./travel-transport.md) | 18 |
 | [Smart Home & IoT](./smart-home-iot.md) | 6 |
-| [Education & Learning](./education-learning.md) | 1 |
+| [Education & Learning](./education-learning.md) | 2 |
 
 ## Media, Money & Words
 
@@ -37,6 +37,6 @@ macOS: 181 · Windows: 35
 | --- | --- |
 | [Standing ✦](./standing.md) | 4 |
 
-Plus [General](./general.md) — 64 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 65 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

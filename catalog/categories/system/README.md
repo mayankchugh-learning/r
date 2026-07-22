@@ -1,45 +1,46 @@
 # System
 
-215 extensions · [← all categories](../README.md)
+249 extensions · [← all categories](../README.md)
 
-macOS: 204 · Windows: 36
+macOS: 238 · Windows: 41
 
 ## Apps & Windows
 
 | Topic | Extensions |
 | --- | --- |
-| [Apps & Processes](./apps-processes.md) | 32 |
-| [Window & Desktop Management](./window-desktop-management.md) | 31 |
+| [Apps & Processes](./apps-processes.md) | 35 |
+| [Window & Desktop Management](./window-desktop-management.md) | 34 |
 
 ## Hardware & Output
 
 | Topic | Extensions |
 | --- | --- |
-| [Hardware & Devices](./hardware-devices.md) | 15 |
-| [Display & Appearance](./display-appearance.md) | 15 |
+| [Hardware & Devices](./hardware-devices.md) | 18 |
+| [Display & Appearance](./display-appearance.md) | 16 |
 | [Audio Control](./audio-control.md) | 1 |
 
 ## Files & Input
 
 | Topic | Extensions |
 | --- | --- |
-| [Files & Storage](./files-storage.md) | 24 |
-| [Clipboard & Input](./clipboard-input.md) | 9 |
+| [Files & Storage](./files-storage.md) | 25 |
+| [Clipboard & Input](./clipboard-input.md) | 11 |
 
 ## Power, Network & Settings
 
 | Topic | Extensions |
 | --- | --- |
-| [Power & Session](./power-session.md) | 8 |
-| [Network](./network.md) | 12 |
-| [Defaults & Services](./defaults-services.md) | 7 |
+| [Power & Session](./power-session.md) | 10 |
+| [Network](./network.md) | 13 |
+| [Defaults & Services](./defaults-services.md) | 8 |
 
 ## Discovered topics ✦
 
 | Topic | Extensions |
 | --- | --- |
-| [Connect ✦](./connect.md) | 4 |
+| [Connect ✦](./connect.md) | 6 |
+| [System ✦](./system.md) | 4 |
 
-Plus [General](./general.md) — 57 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 68 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

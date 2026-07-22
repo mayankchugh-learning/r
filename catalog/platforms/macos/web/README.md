@@ -1,12 +1,12 @@
 # macOS · Web
 
-422 extensions · [← macOS](../README.md)
+449 extensions · [← macOS](../README.md)
 
 ## Browse & Search
 
 | Topic | Extensions |
 | --- | --- |
-| [Search Engines](./search-engines.md) | 142 |
+| [Search Engines](./search-engines.md) | 157 |
 | [Browsers & Tabs](./browsers-tabs.md) | 8 |
 | [Bookmarks & Read Later](./bookmarks-read-later.md) | 6 |
 
@@ -14,7 +14,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [URL & Domain Tools](./url-domain-tools.md) | 35 |
+| [URL & Domain Tools](./url-domain-tools.md) | 41 |
 | [Monitoring & SEO](./monitoring-seo.md) | 15 |
 | [Screenshots & Capture](./screenshots-capture.md) | 4 |
 | [Downloads & Torrents](./downloads-torrents.md) | 2 |
@@ -24,8 +24,8 @@
 | Topic | Extensions |
 | --- | --- |
 | [Web Apps & Services](./web-apps-services.md) | 30 |
-| [Social & Communities](./social-communities.md) | 21 |
+| [Social & Communities](./social-communities.md) | 24 |
 | [AI Services](./ai-services.md) | 31 |
 | [Crypto & Markets](./crypto-markets.md) | 6 |
 
-Plus [General](./general.md) — 122 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 125 extensions that don't fit a topic yet.

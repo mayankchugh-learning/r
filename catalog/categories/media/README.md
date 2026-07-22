@@ -1,23 +1,23 @@
 # Media
 
-251 extensions · [← all categories](../README.md)
+279 extensions · [← all categories](../README.md)
 
-macOS: 246 · Windows: 68
+macOS: 274 · Windows: 78
 
 ## Listen & Watch
 
 | Topic | Extensions |
 | --- | --- |
-| [Music & Audio](./music-audio/README.md) | 54 |
-| [Video & Streaming](./video-streaming.md) | 21 |
+| [Music & Audio](./music-audio/README.md) | 58 |
+| [Video & Streaming](./video-streaming.md) | 24 |
 
 ## Look & Read
 
 | Topic | Extensions |
 | --- | --- |
-| [Images & Photos](./images-photos.md) | 44 |
-| [Wallpapers & Art](./wallpapers-art.md) | 8 |
-| [Books & Papers](./books-papers.md) | 15 |
+| [Images & Photos](./images-photos.md) | 47 |
+| [Wallpapers & Art](./wallpapers-art.md) | 9 |
+| [Books & Papers](./books-papers.md) | 17 |
 
 ## Create & Convert
 
@@ -30,12 +30,12 @@ macOS: 246 · Windows: 68
 
 | Topic | Extensions |
 | --- | --- |
-| [Movies ✦](./movies.md) | 8 |
+| [Movies ✦](./movies.md) | 10 |
 | [Bar ✦](./bar.md) | 6 |
-| [Games ✦](./games.md) | 4 |
+| [Games ✦](./games.md) | 5 |
 | [Media ✦](./media.md) | 4 |
 | [Post ✦](./post.md) | 4 |
 
-Plus [General](./general.md) — 67 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 79 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

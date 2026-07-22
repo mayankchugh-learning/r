@@ -1,6 +1,6 @@
 # General
 
-109 extensions · [← Applications](./README.md)
+110 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -35,6 +35,7 @@
 | [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,133 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
 | [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,119 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [Salesforce Search](https://github.com/raycast/extensions/tree/main/extensions/salesforce-search) | 1,059 | Search for Salesforce records like accounts and contacts and dashboards and reports. | sven | macOS | [store](https://www.raycast.com/sven/salesforce) |
+| [CanvasCast](https://github.com/raycast/extensions/tree/main/extensions/canvascast) | 1,014 | Access the Canvas LMS from Raycast | Yoda | macOS | [store](https://www.raycast.com/Yoda/canvascast) |
 | [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) | 936 | Create Mindmap Quickly using Raycast | thuggyduck | macOS | [store](https://www.raycast.com/thuggyduck/mindnode) |
 | [Email Verifier](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) | 919 | A tool for email verification without sending any emails | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/email-verifier) |
 | [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 887 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |

@@ -1,8 +1,8 @@
 # APIs & Networking
 
-52 extensions · [← Developer Tools](./README.md)
+54 extensions · [← Developer Tools](./README.md)
 
-[API ✦](#api) (22) · [Network ✦](#network) (8) · [Http ✦](#http) (6) · [Port ✦](#port) (6) · [General](#general) (10)
+[API ✦](#api) (23) · [Network ✦](#network) (8) · [Http ✦](#http) (6) · [Port ✦](#port) (6) · [General](#general) (11)
 
 *✦ auto-discovered topic group*
 
@@ -24,6 +24,7 @@
 | [Hipster Ipsum](https://github.com/raycast/extensions/tree/main/extensions/hipster-ipsum) | 207 | Generate placeholder content using the official Hipster Ipsum API | plev | macOS | [store](https://www.raycast.com/plev/hipster-ipsum) |
 | [.NET API Browser](https://github.com/raycast/extensions/tree/main/extensions/dotnet-api-browser) | 170 | Quickly search the .NET API catalog. | vcsjones | macOS | [store](https://www.raycast.com/vcsjones/dotnet-api-browser) |
 | [Neon](https://github.com/raycast/extensions/tree/main/extensions/neon) | 157 | Manage Neon Projects and API Keys | xmok | macOS | [store](https://www.raycast.com/xmok/neon) |
+| [Laravel Vapor](https://github.com/raycast/extensions/tree/main/extensions/laravel-vapor) | 93 | Interacts with Laravel Vapor API | tcampbPPU | macOS | [store](https://www.raycast.com/tcampbPPU/laravel-vapor) |
 | [Pinata](https://github.com/raycast/extensions/tree/main/extensions/pinata) | 71 | An extension to interact with the Pianta API | pinata (org) | macOS | [store](https://www.raycast.com/pinata/pinata) |
 | [Ember.js API Documentation](https://github.com/raycast/extensions/tree/main/extensions/ember-api-documentation) | 47 | Search Ember.js Api Documentation and open it in the browser | tdwesten | macOS | [store](https://www.raycast.com/tdwesten/ember-api-documentation) |
 | [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) | 35 | Quickly find and copy the docs you need for the Planning Center API. | thomas.harmond | macOS, Windows | [store](https://www.raycast.com/thomas.harmond/planning-center-api-docs) |
@@ -75,6 +76,7 @@
 | [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,434 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,370 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
 | [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) | 3,552 | This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) | meguoe | macOS, Windows | [store](https://www.raycast.com/meguoe/ip-tools) |
+| [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,489 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
 | [CIDR Conversion](https://github.com/raycast/extensions/tree/main/extensions/cidr) | 676 | CIDR to IPv4 Conversion | Gnosnay | macOS | [store](https://www.raycast.com/Gnosnay/cidr) |
 | [Format GraphQL](https://github.com/raycast/extensions/tree/main/extensions/format-graphql) | 504 | Formats a GraphQL document | tngranados | macOS | [store](https://www.raycast.com/tngranados/format-graphql) |
 | [Certificate Viewer](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) | 155 | Quick download and decode certificates | gamerslouis | macOS | [store](https://www.raycast.com/gamerslouis/certificate-viewer) |

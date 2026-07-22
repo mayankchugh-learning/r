@@ -1,16 +1,16 @@
 # Finance
 
-132 extensions · [← all categories](../README.md)
+143 extensions · [← all categories](../README.md)
 
-macOS: 132 · Windows: 40
+macOS: 143 · Windows: 41
 
 ## Markets & Investing
 
 | Topic | Extensions |
 | --- | --- |
-| [Stocks & Trading](./stocks-trading.md) | 12 |
-| [Crypto & Web3](./crypto-web3.md) | 26 |
-| [Currency & Exchange](./currency-exchange.md) | 8 |
+| [Stocks & Trading](./stocks-trading.md) | 13 |
+| [Crypto & Web3](./crypto-web3.md) | 29 |
+| [Currency & Exchange](./currency-exchange.md) | 10 |
 
 ## Money Management
 
@@ -23,7 +23,7 @@ macOS: 132 · Windows: 40
 
 | Topic | Extensions |
 | --- | --- |
-| [Business, Billing & Sales](./business-billing-sales.md) | 23 |
+| [Business, Billing & Sales](./business-billing-sales.md) | 25 |
 | [Regional & Company Lookups](./regional-company-lookups.md) | 6 |
 | [Energy & Utility Prices](./energy-utility-prices.md) | 2 |
 
@@ -33,6 +33,6 @@ macOS: 132 · Windows: 40
 | --- | --- |
 | [Calculator ✦](./calculator.md) | 5 |
 
-Plus [General](./general.md) — 23 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 26 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

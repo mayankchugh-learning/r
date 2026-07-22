@@ -1,6 +1,6 @@
 # Trackers & Monitors
 
-13 extensions · [← Data](./README.md)
+14 extensions · [← Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -9,6 +9,7 @@
 | [Proton Version](https://github.com/raycast/extensions/tree/main/extensions/proton-version) | 641 | Keep track of the lastest version of Proton products | flavien.bonvin | macOS | [store](https://www.raycast.com/flavien.bonvin/proton-version) |
 | [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 502 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
 | [PulseMCP](https://github.com/raycast/extensions/tree/main/extensions/pulsemcp) | 220 | Search and discover MCP servers from the PulseMCP registry. Find Model Context Protocol servers with stats, connection options, and more. | ismi | macOS | [store](https://www.raycast.com/ismi/pulsemcp) |
+| [Footy Report](https://github.com/raycast/extensions/tree/main/extensions/footy-report) | 158 | Raycast extension to find your essential football match day info and stats | thuoe | macOS | [store](https://www.raycast.com/thuoe/footy-report) |
 | [AI Stats](https://github.com/raycast/extensions/tree/main/extensions/ai-stats) | 137 | AI model stats via Supabase | JonathanRReed | macOS | [store](https://www.raycast.com/JonathanRReed/ai-stats) |
 | [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | 93 | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
 | [Dota 2](https://github.com/raycast/extensions/tree/main/extensions/dota-2) | 85 | View various data about Dota 2, like heroes and their stats. | FlorianWendelborn | macOS | [store](https://www.raycast.com/FlorianWendelborn/dota-2) |

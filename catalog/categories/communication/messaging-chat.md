@@ -1,8 +1,8 @@
 # Messaging & Chat
 
-26 extensions · [← Communication](./README.md)
+27 extensions · [← Communication](./README.md)
 
-[Chats ✦](#chats) (11) · [Messages ✦](#messages) (5) · [General](#general) (10)
+[Chats ✦](#chats) (12) · [Messages ✦](#messages) (5) · [General](#general) (10)
 
 *✦ auto-discovered topic group*
 
@@ -12,6 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 279,041 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 47,520 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 43,961 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
 | [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 17,746 | Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams) |
 | [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | 6,669 | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
 | [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) | 2,776 | Open Signal chats | leeraymond78 | macOS | [store](https://www.raycast.com/leeraymond78/signal) |

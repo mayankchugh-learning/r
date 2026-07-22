@@ -2,11 +2,12 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · **Files & Storage** · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-24 of 204 extensions · [← macOS · System](./README.md)
+25 of 238 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 44,267 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
+| [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 28,979 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
 | [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,172 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
 | [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 17,728 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |
 | [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) | 8,322 | List and choose a single disk to eject. | johndturn | Windows, macOS | [store](https://www.raycast.com/johndturn/single-disk-eject) |

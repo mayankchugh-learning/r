@@ -1,10 +1,20 @@
 # Books & Papers
 
-15 extensions · [← Media](./README.md)
+17 extensions · [← Media](./README.md)
 
-[Aloud ✦](#aloud) (4) · [Library ✦](#library) (4) · [General](#general) (7)
+[Library ✦](#library) (5) · [Aloud ✦](#aloud) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
+
+## Library ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,284 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,035 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
+| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 819 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
+| [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 332 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
+| [CC0-LIB - Browse CC0 Content](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) | 29 | Browse library of CC0 content | 0xN1 | macOS | [store](https://www.raycast.com/0xN1/cc0-lib) |
 
 ## Aloud ✦
 
@@ -15,15 +25,6 @@
 | [MiniMax TTS](https://github.com/raycast/extensions/tree/main/extensions/minimax-tts) | 12 | Read selected text aloud with MiniMax TTS. Supports Chinese, English, and your own cloned voices. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/minimax-tts) |
 | [MiMo TTS](https://github.com/raycast/extensions/tree/main/extensions/raycast-mimo-tts) | 2 | Read selected or clipboard text aloud with Xiaomi MiMo TTS — Chinese and English voices, fine-grained style controls, and chunked long-text playback. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/raycast-mimo-tts) |
 
-## Library ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,035 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
-| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 819 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
-| [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 332 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
-| [CC0-LIB - Browse CC0 Content](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) | 29 | Browse library of CC0 content | 0xN1 | macOS | [store](https://www.raycast.com/0xN1/cc0-lib) |
-
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -33,5 +34,6 @@
 | [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,580 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,396 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | 474 | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |
+| [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 424 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
 | [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) | 163 | Search and manage books and lists. | hazelhedmine | macOS | [store](https://www.raycast.com/hazelhedmine/hardcover) |
 | [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) | 37 | Read the latest news of Thrasher Magazine | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/thrasher-magazine) |

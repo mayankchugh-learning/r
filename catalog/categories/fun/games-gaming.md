@@ -1,12 +1,14 @@
 # Games & Gaming
 
-38 extensions · [← Fun](./README.md)
+42 extensions · [← Fun](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,873 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
 | [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 8,693 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
+| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,684 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
 | [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 2,852 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
+| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,569 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,293 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,101 | Quickly start games on Chess.com | joshfarrant | macOS | [store](https://www.raycast.com/joshfarrant/chess-com) |
 | [Wordle](https://github.com/raycast/extensions/tree/main/extensions/wordle) | 845 | Play Wordle locally once a day. | chrisalxlng | macOS | [store](https://www.raycast.com/chrisalxlng/wordle) |
@@ -23,6 +25,8 @@
 | [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 338 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 318 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [Ray Clicker](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker) | 287 | Idle clicker game for Raycast with upgrades, prestige, and fun events. | JonathanRReed | macOS | [store](https://www.raycast.com/JonathanRReed/ray-clicker) |
+| [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox-games) | 239 | Searches for & launches Roblox places | TaylorRobinson | macOS | [store](https://www.raycast.com/TaylorRobinson/roblox-games) |
+| [Switch Game Play History](https://github.com/raycast/extensions/tree/main/extensions/switch-game-play-history) | 230 | Browse your Nintendo Switch gameplay history. Including information such as first played time, last played time, and total playtime for each game. | kvdo2 | macOS | [store](https://www.raycast.com/kvdo2/switch-game-play-history) |
 | [Balatro Compendium](https://github.com/raycast/extensions/tree/main/extensions/balatro-compendium) | 145 | Search through every piece of the Balatro collection entierly inside Raycast. Even offline. | azyz | macOS | [store](https://www.raycast.com/azyz/balatro-compendium) |
 | [Arc Helper](https://github.com/raycast/extensions/tree/main/extensions/arc-helper) | 142 | Search items, quests, events, and traders for Arc Raiders | pcho | macOS, Windows | [store](https://www.raycast.com/pcho/arc-helper) |
 | [Pokémon Tcg Pocket Binder](https://github.com/raycast/extensions/tree/main/extensions/pokemon-tcg-pocket-binder) | 132 | Browse the complete collection of Pokémon TCG Pocket Cards | azyz | macOS | [store](https://www.raycast.com/azyz/pokemon-tcg-pocket-binder) |

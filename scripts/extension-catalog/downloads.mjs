@@ -52,7 +52,11 @@ export function resolveDownloads(entries) {
     if (!items.length) break;
     for (const it of items) {
       listings++;
-      const rec = { downloads: Number(it.download_count) || 0, storeUrl: it.store_url ?? null };
+      const rec = {
+        downloads: Number(it.download_count) || 0,
+        storeUrl: it.store_url ?? null,
+        seo: Array.isArray(it.seo_categories) ? it.seo_categories : [],
+      };
       const p = storePath(it.store_url);
       if (p) byPath.set(p, rec);
       const n = String(it.name || "").toLowerCase();
@@ -67,20 +71,24 @@ export function resolveDownloads(entries) {
   for (const e of entries) {
     const handle = e.owner || e.author || "";
     const hit = (handle && byPath.get(`${handle}/${e.name}`)) || byName.get(String(e.name).toLowerCase());
-    if (hit) map.set(e.dir, { downloads: hit.downloads, storeUrl: hit.storeUrl });
+    if (hit) map.set(e.dir, { downloads: hit.downloads, storeUrl: hit.storeUrl, seo: hit.seo });
     else misses.push(e);
   }
 
   let detailFetched = 0;
   for (const e of misses) {
-    let res = { downloads: null, storeUrl: null };
+    let res = { downloads: null, storeUrl: null, seo: [] };
     const handle = e.owner || e.author || "";
     if (handle && detailFetched < MAX_DETAIL) {
       detailFetched++;
       try {
         const d = curlJson(`${DETAIL}${encodeURIComponent(handle)}/${encodeURIComponent(e.name)}`);
         if (d && d.download_count != null && d.store_url) {
-          res = { downloads: Number(d.download_count), storeUrl: d.store_url };
+          res = {
+            downloads: Number(d.download_count),
+            storeUrl: d.store_url,
+            seo: Array.isArray(d.seo_categories) ? d.seo_categories : [],
+          };
         }
       } catch {
         // 404 / network — genuinely not resolvable, stays null (unknown).

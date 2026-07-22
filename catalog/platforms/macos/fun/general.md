@@ -2,14 +2,17 @@
 
 [Games & Gaming](./games-gaming.md) · [AI & Generative Fun](./ai-generative-fun.md) · [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) · [Jokes & Randomness](./jokes-randomness.md) · [Sports](./sports.md) · [Movies, TV & Anime](./movies-tv-anime.md) · [Music & Instruments](./music-instruments.md) · [Pop Culture & Fandom](./pop-culture-fandom.md) · [Generators & Toys](./generators-toys.md) · [Nature & Exploration](./nature-exploration.md) · [Wallpapers & Effects](./wallpapers-effects.md) · [Food & Drink](./food-drink.md) · **General**
 
-99 of 252 extensions · [← macOS · Fun](./README.md)
+104 of 270 extensions · [← macOS · Fun](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 99,577 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
 | [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 41,376 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,481 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 17,980 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Year in Progress](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) | 10,102 | Stay motivated by see the progress of the year. | thomas | macOS | [store](https://www.raycast.com/thomas/year-in-progress) |
 | [Urban Dictionary Search](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) | 4,935 | Search on Urban Dictionary | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/urban-dictionary) |
+| [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,405 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |
 | [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,277 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,096 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,802 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
@@ -21,6 +24,7 @@
 | [Life Progress](https://github.com/raycast/extensions/tree/main/extensions/life-progress) | 2,185 | View life progress and custom Countdown Date. See how much time is left. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/life-progress) |
 | [macOSIcons.com](https://github.com/raycast/extensions/tree/main/extensions/macosicons) | 1,954 | Raycast extension for browsing and applying icons from macOSicons.com | shldk | macOS | [store](https://www.raycast.com/shldk/macosicons) |
 | [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 1,896 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
+| [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,850 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
 | [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) | 1,428 | Store and retrieve images quickly from Raycast! | ibll | macOS | [store](https://www.raycast.com/ibll/image-wallet) |
 | [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,185 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
 | [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) | 1,086 | Control and view your Tesla | williamwelsh | macOS | [store](https://www.raycast.com/williamwelsh/tesla) |
@@ -40,6 +44,7 @@
 | [GitHub Profile](https://github.com/raycast/extensions/tree/main/extensions/github-profile) | 425 | View GitHub profiles directly in Raycast | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/github-profile) |
 | [LIFX](https://github.com/raycast/extensions/tree/main/extensions/lifx) | 415 | Control your LIFX lights directly from Raycast | felixb1010 | macOS | [store](https://www.raycast.com/felixb1010/lifx) |
 | [Horoscope](https://github.com/raycast/extensions/tree/main/extensions/horoscope) | 284 | Get Daily, Weekly or Monthly Horoscope by Sign | xmok | macOS | [store](https://www.raycast.com/xmok/horoscope) |
+| [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 262 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
 | [Urban Dictionary Word of the Day](https://github.com/raycast/extensions/tree/main/extensions/raycast-urbandictionary-word-of-the-day) | 262 | UrbanDictionary's Word of the Day | r0hin | macOS | [store](https://www.raycast.com/r0hin/raycast-urbandictionary-word-of-the-day) |
 | [Perchance Generator](https://github.com/raycast/extensions/tree/main/extensions/perchance-generator) | 256 | Input the generator name and receive the generated text. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/perchance-generator) |
 | [IPA Translator](https://github.com/raycast/extensions/tree/main/extensions/ipa-translator) | 233 | Converts text to IPA (International Phonetic Alphabet) | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/ipa-translator) |

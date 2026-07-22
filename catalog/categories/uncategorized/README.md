@@ -1,44 +1,33 @@
 # Uncategorized
 
-330 extensions · [← all categories](../README.md)
+114 extensions · [← all categories](../README.md)
 
-macOS: 330 · Windows: 65
+macOS: 114 · Windows: 22
 
 ## Digital Tools
 
 | Topic | Extensions |
 | --- | --- |
-| [AI Tools](./ai-tools.md) | 18 |
-| [Developer Utilities](./developer-utilities.md) | 54 |
-| [Productivity & Tasks](./productivity-tasks.md) | 27 |
-| [Web & Search](./web-search.md) | 59 |
-| [System & Hardware](./system-hardware.md) | 20 |
+| [AI Tools](./ai-tools.md) | 14 |
+| [Developer Utilities](./developer-utilities.md) | 15 |
+| [Productivity & Tasks](./productivity-tasks.md) | 10 |
+| [Web & Search](./web-search.md) | 17 |
+| [System & Hardware](./system-hardware.md) | 10 |
 
 ## Life & World
 
 | Topic | Extensions |
 | --- | --- |
-| [Health & Lifestyle](./health-lifestyle.md) | 1 |
-| [Travel & Transport](./travel-transport.md) | 6 |
-| [Smart Home & IoT](./smart-home-iot.md) | 2 |
-| [Education & Learning](./education-learning.md) | 1 |
+| [Travel & Transport](./travel-transport.md) | 1 |
+| [Smart Home & IoT](./smart-home-iot.md) | 1 |
 
 ## Media, Money & Words
 
 | Topic | Extensions |
 | --- | --- |
-| [Media & Entertainment](./media-entertainment.md) | 17 |
-| [Communication & Social](./communication-social.md) | 6 |
-| [Crypto & Trading](./crypto-trading.md) | 7 |
-| [Language & Translation](./language-translation.md) | 7 |
+| [Media & Entertainment](./media-entertainment.md) | 3 |
+| [Communication & Social](./communication-social.md) | 2 |
+| [Crypto & Trading](./crypto-trading.md) | 1 |
+| [Language & Translation](./language-translation.md) | 1 |
 
-## Discovered topics ✦
-
-| Topic | Extensions |
-| --- | --- |
-| [Day ✦](./day.md) | 4 |
-| [Memos ✦](./memos.md) | 4 |
-
-Plus [General](./general.md) — 97 extensions that don't fit a topic yet.
-
-*✦ auto-discovered topic group*
+Plus [General](./general.md) — 39 extensions that don't fit a topic yet.

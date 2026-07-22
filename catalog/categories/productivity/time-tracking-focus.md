@@ -1,8 +1,8 @@
 # Time Tracking & Focus
 
-23 extensions · [← Productivity](./README.md)
+24 extensions · [← Productivity](./README.md)
 
-[Timer ✦](#timer) (11) · [Focus ✦](#focus) (7) · [General](#general) (5)
+[Timer ✦](#timer) (11) · [Focus ✦](#focus) (7) · [General](#general) (6)
 
 *✦ auto-discovered topic group*
 
@@ -38,6 +38,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,535 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
 | [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,067 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
 | [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 942 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
 | [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 887 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |

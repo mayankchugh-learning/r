@@ -2,10 +2,11 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · **Reading & Learning** · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-19 of 1268 extensions · [← macOS · Productivity](./README.md)
+21 of 1374 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 43,961 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
 | [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,904 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 5,907 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
 | [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,711 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
@@ -18,6 +19,7 @@
 | [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 297 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
 | [Distraction Tracker](https://github.com/raycast/extensions/tree/main/extensions/distraction-tracker) | 288 | Track your distractions and get indistractable. This extension is inspired by Nir Eyal's book indistractable. | danieldeichfuss | macOS | [store](https://www.raycast.com/danieldeichfuss/distraction-tracker) |
 | [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) | 240 | Opens books, verses or resources in Logos Bible Software | michael_marvive | macOS, Windows | [store](https://www.raycast.com/michael_marvive/logos-launcher) |
+| [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 216 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [Nowledge Mem](https://github.com/raycast/extensions/tree/main/extensions/nowledge-mem) | 170 | Search memories, add a quick memory, and read Working Memory from Raycast. | wey-gu | macOS | [store](https://www.raycast.com/wey-gu/nowledge-mem) |
 | [Cosmic Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/cosmic-bookmarks) | 83 | Read, visit and save Bookmarks to and from Cosmic CMS | kemiljk | macOS | [store](https://www.raycast.com/kemiljk/cosmic-bookmarks) |
 | [Letta Agents](https://github.com/raycast/extensions/tree/main/extensions/letta) | 30 | Chat with Letta stateful agents that remember and learn over time | wesseljt | macOS | [store](https://www.raycast.com/wesseljt/letta) |

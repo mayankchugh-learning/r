@@ -1,22 +1,22 @@
 # Communication
 
-138 extensions · [← all categories](../README.md)
+148 extensions · [← all categories](../README.md)
 
-macOS: 136 · Windows: 49
+macOS: 146 · Windows: 51
 
 ## Conversations
 
 | Topic | Extensions |
 | --- | --- |
-| [Messaging & Chat](./messaging-chat.md) | 26 |
-| [Video Calls & Meetings](./video-calls-meetings.md) | 12 |
+| [Messaging & Chat](./messaging-chat.md) | 27 |
+| [Video Calls & Meetings](./video-calls-meetings.md) | 14 |
 | [Email](./email.md) | 21 |
 
 ## Social & Sharing
 
 | Topic | Extensions |
 | --- | --- |
-| [Social & Fediverse](./social-fediverse.md) | 9 |
+| [Social & Fediverse](./social-fediverse.md) | 11 |
 | [Links & Sharing](./links-sharing.md) | 6 |
 | [Notifications & Push](./notifications-push.md) | 3 |
 
@@ -35,6 +35,6 @@ macOS: 136 · Windows: 49
 | [Domains ✦](./domains.md) | 5 |
 | [Phonetic ✦](./phonetic.md) | 4 |
 
-Plus [General](./general.md) — 41 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 46 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

@@ -1,8 +1,8 @@
 # Files & Transfer
 
-24 extensions · [← Developer Tools](./README.md)
+25 extensions · [← Developer Tools](./README.md)
 
-[Clipboard ✦](#clipboard) (6) · [Finder ✦](#finder) (4) · [General](#general) (14)
+[Clipboard ✦](#clipboard) (7) · [Finder ✦](#finder) (4) · [General](#general) (14)
 
 *✦ auto-discovered topic group*
 
@@ -12,6 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | 4,798 | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
 | [Pick Random](https://github.com/raycast/extensions/tree/main/extensions/pick-random) | 1,051 | Sometimes you need a random character / emojis / number, here is an extension that pick a random something and copy it in the clipboard | MatteoGauthier | macOS | [store](https://www.raycast.com/MatteoGauthier/pick-random-raycast-extension) |
+| [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) | 150 | Publish the picture in your clipboard to Aliyun oss, and return the URL. | yangxy | macOS | [store](https://www.raycast.com/yangxy/oss) |
 | [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 141 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
 | [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | 107 | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |
 | [South African Fake ID Number Generator](https://github.com/raycast/extensions/tree/main/extensions/za-fake-id-number-generator) | 31 | Quickly generate South African ID numbers for testing, this will create a valid fake ID number and copy it to your clipboard. | runningdeveloper | macOS, Windows | [store](https://www.raycast.com/runningdeveloper/za-fake-id-number-generator) |

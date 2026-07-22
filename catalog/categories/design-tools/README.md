@@ -1,23 +1,23 @@
 # Design Tools
 
-133 extensions · [← all categories](../README.md)
+148 extensions · [← all categories](../README.md)
 
-macOS: 133 · Windows: 36
+macOS: 148 · Windows: 41
 
 ## Visual Elements
 
 | Topic | Extensions |
 | --- | --- |
-| [Colors & Palettes](./colors-palettes.md) | 19 |
-| [Icons & Assets](./icons-assets.md) | 32 |
+| [Colors & Palettes](./colors-palettes.md) | 21 |
+| [Icons & Assets](./icons-assets.md) | 34 |
 | [Fonts & Typography](./fonts-typography.md) | 5 |
 
 ## Create & Capture
 
 | Topic | Extensions |
 | --- | --- |
-| [Design Apps & Whiteboards](./design-apps-whiteboards.md) | 8 |
-| [Screenshots & Mockups](./screenshots-mockups.md) | 10 |
+| [Design Apps & Whiteboards](./design-apps-whiteboards.md) | 10 |
+| [Screenshots & Mockups](./screenshots-mockups.md) | 11 |
 | [AI Generation](./ai-generation.md) | 12 |
 | [3D & Motion](./3d-motion.md) | 2 |
 
@@ -25,16 +25,17 @@ macOS: 133 · Windows: 36
 
 | Topic | Extensions |
 | --- | --- |
-| [Inspiration & Galleries](./inspiration-galleries.md) | 3 |
-| [Art & Wallpapers](./art-wallpapers.md) | 3 |
-| [Calculators & Ratios](./calculators-ratios.md) | 5 |
+| [Inspiration & Galleries](./inspiration-galleries.md) | 5 |
+| [Art & Wallpapers](./art-wallpapers.md) | 4 |
+| [Calculators & Ratios](./calculators-ratios.md) | 6 |
 
 ## Discovered topics ✦
 
 | Topic | Extensions |
 | --- | --- |
-| [Design ✦](./design.md) | 4 |
+| [Design ✦](./design.md) | 5 |
+| [Images ✦](./images.md) | 4 |
 
-Plus [General](./general.md) — 30 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 29 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

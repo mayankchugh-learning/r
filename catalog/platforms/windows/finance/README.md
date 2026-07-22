@@ -1,8 +1,8 @@
 # Windows · Finance
 
-40 extensions · [← Windows](../README.md)
+41 extensions · [← Windows](../README.md)
 
-[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (3) · [Currency & Exchange](#currency-exchange) (3) · [Business, Billing & Sales](#business-billing-sales) (9) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (2) · [Personal Finance & Budgeting](#personal-finance-budgeting) (7) · [General](#general) (6)
+[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (3) · [Currency & Exchange](#currency-exchange) (4) · [Business, Billing & Sales](#business-billing-sales) (9) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (2) · [Personal Finance & Budgeting](#personal-finance-budgeting) (7) · [General](#general) (6)
 
 ## Markets & Investing
 
@@ -30,6 +30,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 17,560 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
 | [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) | 166 | View currency rates and all your accounts in monobank. | danulqua | macOS, Windows | [store](https://www.raycast.com/danulqua/monobank) |
 | [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) | 11 | Convert currencies and look up exchange rates for any date back to 1999, powered by UniRateAPI. | rob_brown96cc | Windows, macOS | [store](https://www.raycast.com/rob_brown96cc/unirate-currency) |
 | [Chinese Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-converter) | 4 | Convert number input into Chinese formatted text, including uppercase RMB amount text. | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/chinese-converter) |

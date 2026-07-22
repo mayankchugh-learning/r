@@ -1,14 +1,14 @@
 # Web
 
-423 extensions · [← all categories](../README.md)
+450 extensions · [← all categories](../README.md)
 
-macOS: 422 · Windows: 118
+macOS: 449 · Windows: 122
 
 ## Browse & Search
 
 | Topic | Extensions |
 | --- | --- |
-| [Search Engines](./search-engines.md) | 142 |
+| [Search Engines](./search-engines.md) | 157 |
 | [Browsers & Tabs](./browsers-tabs.md) | 8 |
 | [Bookmarks & Read Later](./bookmarks-read-later.md) | 6 |
 
@@ -16,7 +16,7 @@ macOS: 422 · Windows: 118
 
 | Topic | Extensions |
 | --- | --- |
-| [URL & Domain Tools](./url-domain-tools/README.md) | 35 |
+| [URL & Domain Tools](./url-domain-tools/README.md) | 41 |
 | [Monitoring & SEO](./monitoring-seo.md) | 16 |
 | [Screenshots & Capture](./screenshots-capture.md) | 4 |
 | [Downloads & Torrents](./downloads-torrents.md) | 2 |
@@ -26,7 +26,7 @@ macOS: 422 · Windows: 118
 | Topic | Extensions |
 | --- | --- |
 | [Web Apps & Services](./web-apps-services.md) | 30 |
-| [Social & Communities](./social-communities.md) | 21 |
+| [Social & Communities](./social-communities.md) | 24 |
 | [AI Services](./ai-services/README.md) | 31 |
 | [Crypto & Markets](./crypto-markets.md) | 6 |
 
@@ -42,6 +42,6 @@ macOS: 422 · Windows: 118
 | [About ✦](./about.md) | 4 |
 | [Sites ✦](./sites.md) | 4 |
 
-Plus [General](./general.md) — 88 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 91 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

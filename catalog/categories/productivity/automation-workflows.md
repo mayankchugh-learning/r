@@ -1,8 +1,8 @@
 # Automation & Workflows
 
-25 extensions · [← Productivity](./README.md)
+27 extensions · [← Productivity](./README.md)
 
-[Shortcuts ✦](#shortcuts) (15) · [Hotkey ✦](#hotkey) (4) · [General](#general) (6)
+[Shortcuts ✦](#shortcuts) (15) · [Hotkey ✦](#hotkey) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -41,6 +41,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 177,490 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,071 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 8,434 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
+| [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 8,344 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
 | [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,570 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
 | [ChartMogul](https://github.com/raycast/extensions/tree/main/extensions/chartmogul) | 51 | A Raycast extension that gives you quick access to key business metrics from ChartMogul right from your command bar. Instantly view MRR, ARR, churn, customer c… | mattdelliott | macOS | [store](https://www.raycast.com/mattdelliott/chartmogul) |
 | [Make.com Scenarios](https://github.com/raycast/extensions/tree/main/extensions/make-dot-com) | 44 | Interact with Make.com scenarios from Raycast. | dj_z | macOS | [store](https://www.raycast.com/dj_z/make-dot-com) |

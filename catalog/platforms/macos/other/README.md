@@ -1,8 +1,8 @@
 # macOS · Other
 
-181 extensions · [← macOS](../README.md)
+185 extensions · [← macOS](../README.md)
 
-[AI Tools](#ai-tools) (15) · [Developer Utilities](#developer-utilities) (10) · [Productivity & Tasks](#productivity-tasks) (5) · [Media & Entertainment](#media-entertainment) (11) · [Language & Translation](#language-translation) (8) · [Health & Lifestyle](#health-lifestyle) (5) · [Travel & Transport](#travel-transport) (16) · [Smart Home & IoT](#smart-home-iot) (6) · [System & Hardware](#system-hardware) (7) · [Web & Search](#web-search) (26) · [Communication & Social](#communication-social) (3) · [Education & Learning](#education-learning) (1) · [General](#general) (68)
+[AI Tools](#ai-tools) (15) · [Developer Utilities](#developer-utilities) (10) · [Productivity & Tasks](#productivity-tasks) (5) · [Media & Entertainment](#media-entertainment) (11) · [Language & Translation](#language-translation) (8) · [Health & Lifestyle](#health-lifestyle) (5) · [Travel & Transport](#travel-transport) (18) · [Smart Home & IoT](#smart-home-iot) (6) · [System & Hardware](#system-hardware) (7) · [Web & Search](#web-search) (26) · [Communication & Social](#communication-social) (3) · [Education & Learning](#education-learning) (2) · [General](#general) (69)
 
 ## Digital Tools
 
@@ -110,6 +110,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 39,146 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 201 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Berlin Public Transportation](https://github.com/raycast/extensions/tree/main/extensions/berlin-public-transportation) | 117 | Departures for Berlin public transport stations using BVG (Berliner Verkehrsbetriebe) real-time traffic data | arjanski | macOS | [store](https://www.raycast.com/arjanski/berlin-public-transportation) |
 | [Norwegian Public Transport](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) | 112 | Real-time departures for Norwegian public transport. Data made available by Entur. | rosvik | macOS | [store](https://www.raycast.com/rosvik/raycast-norwegian-public-transport) |
@@ -119,6 +120,7 @@
 | [NYC Train Tracker - Realtime Train Departures](https://github.com/raycast/extensions/tree/main/extensions/nyc-train-tracker) | 59 | Look up train departures and service alerts for MTA, LIRR and MNR. | kcole93 | macOS | [store](https://www.raycast.com/kcole93/nyc-train-tracker) |
 | [Transit Departures (Catenary for Raycast)](https://github.com/raycast/extensions/tree/main/extensions/catenary-raycast) | 54 | View real-time transit departures for any stop from anywhere using Catenary. | quacksire | macOS, Windows | [store](https://www.raycast.com/quacksire/catenary-raycast) |
 | [Check Citi Bike Availability](https://github.com/raycast/extensions/tree/main/extensions/check-citi-bike-availability) | 32 | Check the availability of bikes/e-bikes at CitiBike NYC stations. | kcole93 | macOS | [store](https://www.raycast.com/kcole93/check-citi-bike-availability) |
+| [Irish Rail](https://github.com/raycast/extensions/tree/main/extensions/irish-rail) | 29 | Irish Rail departure information | dave-kav | macOS | [store](https://www.raycast.com/dave-kav/irish-rail) |
 | [Trenit](https://github.com/raycast/extensions/tree/main/extensions/trenit) | 27 | Italian Rail departure information | gianpiero_spinelli | macOS | [store](https://www.raycast.com/gianpiero_spinelli/trenit) |
 | [Elron Train Times](https://github.com/raycast/extensions/tree/main/extensions/elron) | 26 | Fetch train times for Elron train times | raimond | macOS | [store](https://www.raycast.com/raimond/elron) |
 | [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) | 24 | Gets departure times at train and bus stations in Switzerland. | etienne_gobeli | macOS | [store](https://www.raycast.com/etienne_gobeli/swiss-train-times) |
@@ -143,6 +145,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 5,907 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
+| [Main Library in University of St Andrews](https://github.com/raycast/extensions/tree/main/extensions/st-andrews-main-library-occupancy) | 16 | How busy is the main library now? | Harry_Huang | macOS | [store](https://www.raycast.com/Harry_Huang/st-andrews-main-library-occupancy) |
 
 ## Media, Money & Words
 
@@ -214,6 +217,7 @@
 | [Chords and Tabs](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) | 363 | Find chords and tabs for your favorite songs and musical pieces! | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/chords-and-tabs) |
 | [tldraw](https://github.com/raycast/extensions/tree/main/extensions/tldraw) | 360 | Creates and persists tldraw projects | zephraph | macOS | [store](https://www.raycast.com/zephraph/tldraw) |
 | [Convert 3D Models](https://github.com/raycast/extensions/tree/main/extensions/convert-3d-models) | 332 | An extension to convert 3D models to different formats. | mrnoisytiger | macOS | [store](https://www.raycast.com/mrnoisytiger/convert-3d-models) |
+| [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 262 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
 | [LEGO Bricks](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) | 222 | Look up LEGO sets, colors, bricks etc. | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/lego-bricks) |
 | [Control Viscosity](https://github.com/raycast/extensions/tree/main/extensions/control-viscosity) | 195 | Allows you to control Viscosity VPN client and connect to or disconnect from your VPN connections. | dionisis_lialios | macOS | [store](https://www.raycast.com/dionisis_lialios/control-viscosity) |
 | [Thingiverse](https://github.com/raycast/extensions/tree/main/extensions/thingiverse) | 189 | Browse Thingiverse | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/thingiverse) |

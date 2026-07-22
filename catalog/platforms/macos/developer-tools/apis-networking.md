@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · **APIs & Networking** · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-51 of 943 extensions · [← macOS · Developer Tools](./README.md)
+53 of 1051 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -17,6 +17,7 @@
 | [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,097 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |
 | [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,588 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
 | [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing) | 1,801 | Show All Your IPs, from Local Network and Multiple Sources | jason5ng32 | macOS | [store](https://www.raycast.com/jason5ng32/ipcheck-ing) |
+| [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,489 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
 | [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,414 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,360 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |
 | [Wifi Share QR-Code](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) | 1,356 | Share any saved wifi qr code to other devices to join the network | abul_kalam_robin | macOS | [store](https://www.raycast.com/abul_kalam_robin/wifi-share) |
@@ -43,6 +44,7 @@
 | [Cookie String](https://github.com/raycast/extensions/tree/main/extensions/cookie-string-parser) | 147 | Parses your cookie string | NicolasMontone | macOS | [store](https://www.raycast.com/NicolasMontone/cookie-string-parser) |
 | [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) | 118 | V2RayA Control is a Raycast extension that allows you to easily manage and control V2RayA, a powerful network proxy tool. Quickly toggle proxy modes, and check… | masoud_hamidzadeh | macOS | [store](https://www.raycast.com/masoud_hamidzadeh/v2raya-control) |
 | [vatlayer](https://github.com/raycast/extensions/tree/main/extensions/vatlayer) | 96 | Validate VAT numbers, retrieve all or single EU VAT rates based on IP address or country code, convert prices in compliance with EU VAT rates and types, and mo… | xmok | macOS | [store](https://www.raycast.com/xmok/vatlayer) |
+| [Laravel Vapor](https://github.com/raycast/extensions/tree/main/extensions/laravel-vapor) | 93 | Interacts with Laravel Vapor API | tcampbPPU | macOS | [store](https://www.raycast.com/tcampbPPU/laravel-vapor) |
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 90 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [Pinata](https://github.com/raycast/extensions/tree/main/extensions/pinata) | 71 | An extension to interact with the Pianta API | pinata (org) | macOS | [store](https://www.raycast.com/pinata/pinata) |
 | [Port from Project Name](https://github.com/raycast/extensions/tree/main/extensions/port-from-project-name) | 63 | A tool that can generate a unique 4 digit port for a given project name | sopheakvethya_syna | Windows, macOS | [store](https://www.raycast.com/sopheakvethya_syna/port-from-project-name) |

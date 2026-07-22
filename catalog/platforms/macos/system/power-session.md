@@ -2,10 +2,11 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · **Power & Session** · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-8 of 204 extensions · [← macOS · System](./README.md)
+10 of 238 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 120,604 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
 | [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) | 27,455 | Control Amphetamine sleep sessions from Raycast | gstvds | macOS | [store](https://www.raycast.com/gstvds/amphetamine) |
 | [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,316 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
 | [Power Management](https://github.com/raycast/extensions/tree/main/extensions/power-management) | 2,281 | Change Power Management Settings of the system | sasivarnan | macOS | [store](https://www.raycast.com/sasivarnan/power-management) |
@@ -14,3 +15,4 @@
 | [Uptime Kuma](https://github.com/raycast/extensions/tree/main/extensions/uptime-kuma) | 628 | View all your Uptime Kuma monitors and their status | MarlburroW | macOS | [store](https://www.raycast.com/MarlburroW/uptime-kuma) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 299 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
 | [Shutdown Timer](https://github.com/raycast/extensions/tree/main/extensions/shutdown-timer) | 242 | Schedule shutdowns and restarts on a timer | whosmadeer | macOS | [store](https://www.raycast.com/whosmadeer/shutdown-timer) |
+| [VirtualBox Power Switch](https://github.com/raycast/extensions/tree/main/extensions/virtualbox-power-switch) | 166 | List your VirtualBox VMs, turn them on/off, or delete them. | diogo_ferrer | macOS | [store](https://www.raycast.com/diogo_ferrer/virtualbox-power-switch) |

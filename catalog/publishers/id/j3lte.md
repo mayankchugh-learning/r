@@ -2,11 +2,12 @@
 
 13 extensions · 9,534 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
 
-## Uncategorized (1)
+## Media (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,284 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 332 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 
 ## Developer Tools (6)
 
@@ -32,12 +33,6 @@
 | --- | --- | --- | --- | --- | --- |
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 610 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
 | [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 176 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |
-
-## Media (1)
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 332 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 
 ## News (1)
 

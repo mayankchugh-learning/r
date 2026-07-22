@@ -329,7 +329,7 @@ export function sectionsForCategory(category) {
  */
 export const CATEGORY_SECTIONS = [
   ["Work & Productivity", ["Productivity", "Applications", "Communication"]],
-  ["Development", ["Developer Tools", "Documentation", "Data", "Security"]],
+  ["Development", ["Developer Tools", "AI", "Documentation", "Data", "Security"]],
   ["Creative & Media", ["Design Tools", "Media"]],
   ["Web, Finance & News", ["Web", "Finance", "News"]],
   ["System & Utilities", ["System", "Other"]],

@@ -2,13 +2,15 @@
 
 [Music & Audio](./music-audio.md) · **Video & Streaming** · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
 
-20 of 246 extensions · [← macOS · Media](./README.md)
+23 of 274 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 99,577 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,096 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,504 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
 | [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,746 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
+| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,569 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
 | [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) | 2,396 | Download videos from YouTube and other services through yt-dlp using MeTube. | dot | macOS, Windows | [store](https://www.raycast.com/dot/metube) |
 | [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,062 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
 | [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,377 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
@@ -18,6 +20,7 @@
 | [Stagehand](https://github.com/raycast/extensions/tree/main/extensions/stagehand) | 383 | Control YouTube and other media playing in your browser without switching tabs. Works with Chrome, Arc, Brave, and Safari. | tamag0tcha | macOS | [store](https://www.raycast.com/tamag0tcha/stagehand) |
 | [Threads Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/threads-video-downloader) | 309 | Download videos from Threads with ease | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/threads-video-downloader) |
 | [Immich](https://github.com/raycast/extensions/tree/main/extensions/immich) | 287 | Self-hosted photo and video management solution | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/immich) |
+| [YouTube Subscriber Count](https://github.com/raycast/extensions/tree/main/extensions/youtube-subscriber-count) | 239 | Celebrates whenever you get a new subscriber with a confetti 🎉 | iman_neo | macOS | [store](https://www.raycast.com/iman_neo/youtube-subscriber-count) |
 | [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 98 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 68 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [YouTube Highlights](https://github.com/raycast/extensions/tree/main/extensions/youtube-highlights) | 45 | Capture and manage highlights from YouTube videos with timestamps | itskofio | macOS | [store](https://www.raycast.com/itskofio/youtube-highlights) |

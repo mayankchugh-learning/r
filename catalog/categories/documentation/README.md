@@ -1,38 +1,39 @@
 # Documentation
 
-178 extensions · [← all categories](../README.md)
+209 extensions · [← all categories](../README.md)
 
-macOS: 178 · Windows: 56
+macOS: 209 · Windows: 62
 
 ## Programming Docs
 
 | Topic | Extensions |
 | --- | --- |
-| [Language References](./language-references.md) | 6 |
-| [Framework & Library Docs](./framework-library-docs.md) | 20 |
+| [Language References](./language-references.md) | 7 |
+| [Framework & Library Docs](./framework-library-docs.md) | 25 |
 | [Developer References](./developer-references.md) | 16 |
 
 ## Quick Reference
 
 | Topic | Extensions |
 | --- | --- |
-| [Cheatsheets & Snippets](./cheatsheets-snippets.md) | 19 |
+| [Cheatsheets & Snippets](./cheatsheets-snippets.md) | 22 |
 | [Dictionaries & Language](./dictionaries-language.md) | 6 |
 
 ## Knowledge & Community
 
 | Topic | Extensions |
 | --- | --- |
-| [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) | 49 |
+| [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) | 60 |
 | [Communities & Blogs](./communities-blogs.md) | 3 |
 
 ## Discovered topics ✦
 
 | Topic | Extensions |
 | --- | --- |
+| [Notes ✦](./notes.md) | 6 |
 | [AI ✦](./ai.md) | 4 |
 | [Preview ✦](./preview.md) | 4 |
 
-Plus [General](./general.md) — 51 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 56 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

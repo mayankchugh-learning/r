@@ -2,7 +2,7 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · **Clipboard & Input** · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-9 of 204 extensions · [← macOS · System](./README.md)
+11 of 238 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -10,6 +10,8 @@
 | [Open Path](https://github.com/raycast/extensions/tree/main/extensions/open-path) | 3,678 | Open path and link from selection or clipboard in Finder, browsers, terminal, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-path) |
 | [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) | 3,510 | Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. | joshtemple | macOS | [store](https://www.raycast.com/joshtemple/clipboard-formatter) |
 | [Append Clipboard](https://github.com/raycast/extensions/tree/main/extensions/append-clipboard) | 2,805 | Append or prepend selected text to your clipboard with different separators | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/append-clipboard) |
+| [Yoink](https://github.com/raycast/extensions/tree/main/extensions/yoink) | 1,057 | Add selected or clipboard files to Yoink. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/yoink) |
+| [Android ADB Input](https://github.com/raycast/extensions/tree/main/extensions/android-adb-input) | 760 | Run Android `adb shell input text` command. | star_zero | macOS | [store](https://www.raycast.com/star_zero/android-adb-input) |
 | [Input Source Switcher](https://github.com/raycast/extensions/tree/main/extensions/input-source-switcher) | 657 | Switch input source (English/Ukraine) of the provided text if you forgot to do it before typing. | danulqua | macOS | [store](https://www.raycast.com/danulqua/input-source-switcher) |
 | [Shell Alias](https://github.com/raycast/extensions/tree/main/extensions/shell-alias) | 456 | Quickly retrieve your shell aliases, paste and manage them directly from Raycast. | clement_cloux | macOS | [store](https://www.raycast.com/clement_cloux/shell-alias) |
 | [Toggle Scroll Bars Visibility](https://github.com/raycast/extensions/tree/main/extensions/toggle-scroll-bars-visibility) | 435 | Change scroll bars visibility in macOS. | danulqua | macOS | [store](https://www.raycast.com/danulqua/toggle-scroll-bars-visibility) |
