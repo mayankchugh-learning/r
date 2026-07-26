@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-26 — upstream `77e82d9359`
+
+**Updated (1):** [List by FullForms](https://github.com/raycast/extensions/tree/main/extensions/list-by-fullforms)
+
 ## 2026-07-26 — upstream `315c69e64e`
 
 **Updated (1):** [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers)
