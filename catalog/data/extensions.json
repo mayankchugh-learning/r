@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9a7d0556dbb3718b11cb442f36ec177fed186b48",
-  "generatedAt": "2026-07-26T06:52:25.817Z",
-  "downloadsRefreshedAt": "2026-07-26T06:52:24.850Z",
+  "commit": "3f56f6211838f1e6dc96f521c6b07e666ba8f5cc",
+  "generatedAt": "2026-07-26T06:53:19.101Z",
+  "downloadsRefreshedAt": "2026-07-26T06:53:18.046Z",
   "count": 3106,
   "extensions": [
     {
@@ -12173,7 +12173,7 @@
       ],
       "store": "https://www.raycast.com/tavlean/dev-servers",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dev-servers",
-      "treeSha": "80b65d7a54ac30cad6cd5ea497cab9aaf12d7909",
+      "treeSha": "261f9064d8ec3555e1de5166141edc610fb0f686",
       "downloads": 85
     },
     {
