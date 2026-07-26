@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 25,720 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,036 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 25,722 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,039 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,024 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
-| [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,023 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
+| [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,025 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,460 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,162 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
 | [Heroicons](https://github.com/raycast/extensions/tree/main/extensions/heroicons) | 4,062 | Search and preview Heroicons | johndoe123789 | macOS | [store](https://www.raycast.com/johndoe123789/heroicons) |
@@ -40,7 +40,7 @@
 | [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 513 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
 | [HubSpot Portal Launcher](https://github.com/raycast/extensions/tree/main/extensions/hubspot-portal-launcher) | 454 | A simple Raycast extension that allows you to quickly launch and navigate to different objects in your HubSpot portals | chriso | macOS | [store](https://www.raycast.com/chriso/hubspot-portal-launcher) |
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 439 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |
-| [Homepage](https://github.com/raycast/extensions/tree/main/extensions/homepage) | 434 | Homepage services and bookmarks in Raycast | bgiovand | macOS | [store](https://www.raycast.com/bgiovand/homepage) |
+| [Homepage](https://github.com/raycast/extensions/tree/main/extensions/homepage) | 435 | Homepage services and bookmarks in Raycast | bgiovand | macOS | [store](https://www.raycast.com/bgiovand/homepage) |
 | [Headlines](https://github.com/raycast/extensions/tree/main/extensions/headlines) | 405 | Super breif news extension. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/headlines) |
 | [Homey](https://github.com/raycast/extensions/tree/main/extensions/homey) | 396 | Homey Flows & Devices | DominicVonk | macOS, Windows | [store](https://www.raycast.com/DominicVonk/homey) |
 | [Hidden Icons](https://github.com/raycast/extensions/tree/main/extensions/hidden-icons) | 367 | A casual game to find a hidden icon. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/hidden-icons) |
@@ -69,8 +69,8 @@
 | [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) | 100 | Analyze and visualize HTTP/HTTPS request performance metrics including DNS lookup, TCP connection, TLS handshake, and content transfer times | liluo | macOS | [store](https://www.raycast.com/liluo/httpperf) |
 | [Heptabase](https://github.com/raycast/extensions/tree/main/extensions/heptabase) | 96 | Connect to Heptabase via MCP to manage your knowledge base | ARui | macOS | [store](https://www.raycast.com/ARui/heptabase) |
 | [Hevy](https://github.com/raycast/extensions/tree/main/extensions/hevy) | 87 | Your Hevy workout data at your fingertips via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/hevy) |
+| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 84 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 83 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
-| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 79 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [Humaans](https://github.com/raycast/extensions/tree/main/extensions/humaans) | 72 | Interact with the Humaans platform | humaans (org) | macOS | [store](https://www.raycast.com/humaans/humaans) |
 | [Habr News](https://github.com/raycast/extensions/tree/main/extensions/habr-media) | 67 | Best News From Habr | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/habr-media) |
 | [Helldivers 2](https://github.com/raycast/extensions/tree/main/extensions/helldivers2) | 66 | View Galactic War Status from Helldivers II | alexstrnik | macOS, Windows | [store](https://www.raycast.com/alexstrnik/helldivers2) |

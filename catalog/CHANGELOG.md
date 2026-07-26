@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-26 — upstream `315c69e64e`
+
+**Updated (1):** [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers)
+
 ## 2026-07-26 — upstream `3f56f62118`
 
 **Updated (1):** [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers)

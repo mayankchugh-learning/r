@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 51,051 | Find open ports and close them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/port-manager) |
-| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 24,941 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 51,057 | Find open ports and close them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 24,942 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,024 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,508 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,510 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,372 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,260 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,384 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
@@ -30,7 +30,7 @@
 | [CIDR Conversion](https://github.com/raycast/extensions/tree/main/extensions/cidr) | 682 | CIDR to IPv4 Conversion | Gnosnay | macOS | [store](https://www.raycast.com/Gnosnay/cidr) |
 | [IP Info](https://github.com/raycast/extensions/tree/main/extensions/ipinfo) | 598 | An extension to use ipinfo.io's API to get information about IP addresses | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/ipinfo) |
 | [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 552 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
-| [Ray Boop](https://github.com/raycast/extensions/tree/main/extensions/ray-boop) | 526 | Port of Boop to Raycast. Run any Boop script on clipboard content. | nathan_schwermann | macOS | [store](https://www.raycast.com/nathan_schwermann/ray-boop) |
+| [Ray Boop](https://github.com/raycast/extensions/tree/main/extensions/ray-boop) | 527 | Port of Boop to Raycast. Run any Boop script on clipboard content. | nathan_schwermann | macOS | [store](https://www.raycast.com/nathan_schwermann/ray-boop) |
 | [Format GraphQL](https://github.com/raycast/extensions/tree/main/extensions/format-graphql) | 504 | Formats a GraphQL document | tngranados | macOS | [store](https://www.raycast.com/tngranados/format-graphql) |
 | [Clipboard Type](https://github.com/raycast/extensions/tree/main/extensions/clipboard-type) | 497 | Clipboard Type allows you to paste values of your clipboard, in the places where direct pasting is not allowed, like many web forms or RDP where clipboard is n… | krishna_bhanushali | macOS | [store](https://www.raycast.com/krishna_bhanushali/clipboard-type) |
 | [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | 293 | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |
