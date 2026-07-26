@@ -1,8 +1,8 @@
 # Passwords & Secrets
 
-35 extensions · [← Security](./README.md)
+36 extensions · [← Security](./README.md)
 
-[Password ✦](#password) (21) · [Secrets ✦](#secrets) (8) · [Vault ✦](#vault) (4) · [General](#general) (2)
+[Password ✦](#password) (22) · [Secrets ✦](#secrets) (8) · [Vault ✦](#vault) (4) · [General](#general) (2)
 
 *✦ auto-discovered topic group*
 
@@ -31,6 +31,7 @@
 | [Passbolt](https://github.com/raycast/extensions/tree/main/extensions/passbolt) | 78 | Manage your Passbolt passwords from Raycast | adreatik_dedej | macOS, Windows | [store](https://www.raycast.com/adreatik_dedej/passbolt) |
 | [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) | 78 | Share passwords, API keys, and private notes securely. Whisper creates encrypted links that expire or self-destruct after viewing. | quentinved | macOS, Windows | [store](https://www.raycast.com/quentinved/whisper) |
 | [DinoPass](https://github.com/raycast/extensions/tree/main/extensions/dinopass) | 5 | Generate passwords from dinopass.com | campo | macOS, Windows | [store](https://www.raycast.com/campo/dinopass) |
+| [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 0 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 
 ## Secrets ✦
 

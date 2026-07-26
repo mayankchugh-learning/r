@@ -1,8 +1,8 @@
 # Cross-platform · Security
 
-26 extensions · [← Cross-platform](../README.md)
+27 extensions · [← Cross-platform](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (16) · [2FA & Authentication](#2fa-authentication) (4) · [Network & Privacy](#network-privacy) (2) · [General](#general) (4)
+[Passwords & Secrets](#passwords-secrets) (17) · [2FA & Authentication](#2fa-authentication) (4) · [Network & Privacy](#network-privacy) (2) · [General](#general) (4)
 
 ## Credentials & Access
 
@@ -26,6 +26,7 @@
 | [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) | 78 | Share passwords, API keys, and private notes securely. Whisper creates encrypted links that expire or self-destruct after viewing. | quentinved | macOS, Windows | [store](https://www.raycast.com/quentinved/whisper) |
 | [Shelve](https://github.com/raycast/extensions/tree/main/extensions/shelve) | 74 | Share secrets securely without an account. Set expiration time, control number of reads, and ensure encrypted transmission. | xulobeats | Windows, macOS | [store](https://www.raycast.com/xulobeats/shelve) |
 | [DinoPass](https://github.com/raycast/extensions/tree/main/extensions/dinopass) | 5 | Generate passwords from dinopass.com | campo | macOS, Windows | [store](https://www.raycast.com/campo/dinopass) |
+| [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 0 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 
 ### 2FA & Authentication
 

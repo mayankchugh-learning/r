@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "00eab119f3f584e2ed30b0ff60d1ad9c433b3f24",
-  "generatedAt": "2026-07-26T06:19:23.269Z",
-  "downloadsRefreshedAt": "2026-07-26T06:19:21.483Z",
-  "count": 3105,
+  "commit": "9a7d0556dbb3718b11cb442f36ec177fed186b48",
+  "generatedAt": "2026-07-26T06:52:25.817Z",
+  "downloadsRefreshedAt": "2026-07-26T06:52:24.850Z",
+  "count": 3106,
   "extensions": [
     {
       "dir": "0x0",
@@ -8838,7 +8838,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 493420
+      "downloads": 493431
     },
     {
       "dir": "color-shades",
@@ -20061,7 +20061,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 481780
+      "downloads": 481790
     },
     {
       "dir": "google-chrome-profiles",
@@ -25980,7 +25980,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649022
+      "downloads": 649036
     },
     {
       "dir": "kimai",
@@ -45517,6 +45517,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/rounding-number",
       "treeSha": "a9f7cbd1dc73f6e8d45723a05cf93d4a2a63c603",
       "downloads": 25
+    },
+    {
+      "dir": "rpass",
+      "name": "rpass",
+      "title": "RPass",
+      "description": "Search, edit, generate, and sync your pass-compatible passwords from Raycast.",
+      "author": "rxtsel",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Security"
+      ],
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/rxtsel/rpass",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/rpass",
+      "treeSha": "8de6aeb206a2ce87878067964dcab50feacc23ec",
+      "downloads": 0
     },
     {
       "dir": "rss-reader",

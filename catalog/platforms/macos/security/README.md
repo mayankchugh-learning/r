@@ -1,8 +1,8 @@
 # macOS · Security
 
-80 extensions · [← macOS](../README.md)
+81 extensions · [← macOS](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (35) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (11) · [General](#general) (18)
+[Passwords & Secrets](#passwords-secrets) (36) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (11) · [General](#general) (18)
 
 ## Credentials & Access
 
@@ -45,6 +45,7 @@
 | [2FAS Authenticator](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator) | 12 | Search and copy TOTP codes from 2FAS exports with a Keychain-encrypted local vault | Lock | macOS | [store](https://www.raycast.com/Lock/2fas-authenticator) |
 | [DinoPass](https://github.com/raycast/extensions/tree/main/extensions/dinopass) | 5 | Generate passwords from dinopass.com | campo | macOS, Windows | [store](https://www.raycast.com/campo/dinopass) |
 | [Vaulted — Secure Secret Sharing](https://github.com/raycast/extensions/tree/main/extensions/vaulted) | 5 | Zero-knowledge encrypted, self-destructing secret links from your launcher. | maxim_novak | macOS | [store](https://www.raycast.com/maxim_novak/vaulted) |
+| [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 0 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 
 ### 2FA & Authentication
 

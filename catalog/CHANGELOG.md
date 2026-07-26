@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-26 — upstream `9a7d0556db`
+
+**Added (1):** [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass)
+
 ## 2026-07-26 — upstream `00eab119f3`
 
 **Updated (1):** [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive)
