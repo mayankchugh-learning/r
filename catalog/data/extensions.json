@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "555aea4ed36c6b9232d64ae57bf62bb63c91f6d5",
-  "generatedAt": "2026-07-26T06:18:29.507Z",
-  "downloadsRefreshedAt": "2026-07-26T06:18:28.717Z",
+  "commit": "00eab119f3f584e2ed30b0ff60d1ad9c433b3f24",
+  "generatedAt": "2026-07-26T06:19:23.269Z",
+  "downloadsRefreshedAt": "2026-07-26T06:19:21.483Z",
   "count": 3105,
   "extensions": [
     {
@@ -24338,7 +24338,7 @@
       ],
       "store": "https://www.raycast.com/alerix/is-it-alive",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/is-it-alive",
-      "treeSha": "4d89b70eb42d60806ca634173686ee33aa95c302",
+      "treeSha": "1585401e0e215388a2a422e13b863c23f2a352e3",
       "downloads": 29
     },
     {

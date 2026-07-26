@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-26 — upstream `00eab119f3`
+
+**Updated (1):** [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive)
+
 ## 2026-07-26 — upstream `555aea4ed3`
 
 **Updated (1):** [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap)
