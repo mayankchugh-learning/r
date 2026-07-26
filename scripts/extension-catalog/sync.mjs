@@ -1029,6 +1029,27 @@ function sleep(ms) {
   execFileSync("sleep", [String(ms / 1000)]);
 }
 
+// Pushes once, capturing output so a non-fast-forward rejection (an
+// overlapping trigger won the race) can be told apart from a transient
+// failure (network blip, timeout).
+function tryPush(branch) {
+  try {
+    const out = execFileSync("git", ["push", "-u", "origin", branch], {
+      cwd: ROOT,
+      encoding: "utf8",
+      maxBuffer: 64 * 1024 * 1024,
+      timeout: 120_000,
+      stdio: ["ignore", "pipe", "pipe"],
+    });
+    if (out) process.stdout.write(out);
+    return { ok: true };
+  } catch (err) {
+    const combined = `${err.stdout || ""}${err.stderr || ""}`;
+    process.stderr.write(combined);
+    return { ok: false, rejected: /\[rejected\]|fetch first|non-fast-forward/i.test(combined), err };
+  }
+}
+
 function commitAndMaybePush(message) {
   git(["add", "catalog", "scripts/extension-catalog"]);
   const staged = git(["diff", "--cached", "--name-only"]).trim();
@@ -1043,15 +1064,26 @@ function commitAndMaybePush(message) {
   const branch = git(["rev-parse", "--abbrev-ref", "HEAD"]).trim();
   const delays = [2000, 4000, 8000, 16000];
   for (let attempt = 0; ; attempt++) {
-    try {
-      git(["push", "-u", "origin", branch], { stdio: ["ignore", "inherit", "inherit"] });
+    const res = tryPush(branch);
+    if (res.ok) {
       console.log(`pushed to origin/${branch}`);
       return;
-    } catch (err) {
-      if (attempt >= delays.length) throw err;
-      console.warn(`push failed, retrying in ${delays[attempt] / 1000}s...`);
-      sleep(delays[attempt]);
     }
+    if (res.rejected) {
+      // An overlapping trigger (poller + web-cron, two manual dispatches,
+      // etc.) already pushed a fresh regeneration to this branch. Every run
+      // rebuilds the whole catalog from scratch, so that commit is equally
+      // current — rebasing this run's commit on top would just conflict on
+      // regenerated content (timestamps, reordered tables) for no benefit.
+      // Skip cleanly; the next run stays in sync regardless.
+      console.warn(
+        `push rejected: origin/${branch} already has a newer regeneration from an overlapping trigger. Skipping — the next run stays in sync.`,
+      );
+      return;
+    }
+    if (attempt >= delays.length) throw res.err;
+    console.warn(`push failed, retrying in ${delays[attempt] / 1000}s...`);
+    sleep(delays[attempt]);
   }
 }
 
