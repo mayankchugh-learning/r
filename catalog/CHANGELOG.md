@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-26 — upstream `555aea4ed3`
+
+**Updated (1):** [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap)
+
 ## 2026-07-26 — upstream `d0d48b5179`
 
 **Added (22):** [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller), [Bump Name Match](https://github.com/raycast/extensions/tree/main/extensions/bumpnamematch), [Contra](https://github.com/raycast/extensions/tree/main/extensions/contra), [CoveCast](https://github.com/raycast/extensions/tree/main/extensions/cove-cast), [Descript](https://github.com/raycast/extensions/tree/main/extensions/descript), [English Irregular Verbs](https://github.com/raycast/extensions/tree/main/extensions/english-irregular-verbs), [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup), [Gather](https://github.com/raycast/extensions/tree/main/extensions/gatherit), [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr), [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid), [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily), [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit), [Lumen](https://github.com/raycast/extensions/tree/main/extensions/lumen), [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game), [OpenSearch DevTools](https://github.com/raycast/extensions/tree/main/extensions/opensearch), [Pixtuoid](https://github.com/raycast/extensions/tree/main/extensions/pixtuoid), [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz), [Sir.golf](https://github.com/raycast/extensions/tree/main/extensions/sir-golf), [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy), [Tabstack](https://github.com/raycast/extensions/tree/main/extensions/tabstack), [Threadlens](https://github.com/raycast/extensions/tree/main/extensions/threadlens), [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker)
