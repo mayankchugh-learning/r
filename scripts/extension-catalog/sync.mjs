@@ -136,9 +136,9 @@ function loadManifest(ref, dir) {
 }
 
 function toEntry(dir, treeSha, pkg) {
-  const categories = Array.isArray(pkg.categories) && pkg.categories.length
+  const manifestCategories = Array.isArray(pkg.categories) && pkg.categories.length
     ? pkg.categories.map(String)
-    : ["Uncategorized"];
+    : null;
   const platforms = Array.isArray(pkg.platforms) && pkg.platforms.length
     ? pkg.platforms.map(String)
     : ["macOS"]; // manifests without a platforms field are macOS-only
@@ -151,7 +151,12 @@ function toEntry(dir, treeSha, pkg) {
     author: String(pkg.author || ""),
     owner: pkg.owner ? String(pkg.owner) : null,
     contributors: Array.isArray(pkg.contributors) ? pkg.contributors.length : 0,
-    categories,
+    categories: manifestCategories ?? ["Uncategorized"],
+    // True when the manifest itself declared categories. Kept separate from
+    // `categories` (which store-enrichment may later overwrite) so re-runs
+    // can tell "genuinely manifest-categorized" apart from "was enriched
+    // from the store last time" — see needsStoreCategoryEnrichment below.
+    manifestCategorized: manifestCategories !== null,
     platforms,
     store: handle ? `${STORE_BASE}/${handle}/${pkg.name || dir}` : null,
     source: `${SOURCE_BASE}/${encodeURIComponent(dir)}`,
@@ -194,8 +199,18 @@ function canonicalCategories(seo) {
 }
 
 const UNCATEGORIZED = "Uncategorized";
-const isManifestUncategorized = (e) =>
-  e.categories.length === 1 && e.categories[0] === UNCATEGORIZED;
+
+// True when the manifest gave no categories, so store data should keep
+// filling the gap on every run (not just once) — the extension's store
+// categorization can change later even though its manifest never does.
+// Entries reused unchanged from before `manifestCategorized` existed fall
+// back to the old categories-based heuristic: identical to prior behavior
+// (no regression) until that entry's manifest is next re-read, at which
+// point toEntry() computes the flag correctly from raw manifest data.
+function needsStoreCategoryEnrichment(e) {
+  if (typeof e.manifestCategorized === "boolean") return !e.manifestCategorized;
+  return e.categories.length === 1 && e.categories[0] === UNCATEGORIZED;
+}
 
 // --- 4. Markdown rendering --------------------------------------------------
 
@@ -248,6 +263,17 @@ function byTitle(a, b) {
 
 function byDownloads(a, b) {
   return dlOf(b) - dlOf(a) || byTitle(a, b);
+}
+
+// Dirs of the top N entries by downloads. Used to detect whether a downloads
+// refresh moved anything worth regenerating the markdown catalog for — the
+// tail is thick with near-ties that reorder constantly and mean nothing.
+function topNDirs(entries, n) {
+  return [...entries].sort(byDownloads).slice(0, n).map((e) => e.dir);
+}
+
+function arraysEqual(a, b) {
+  return a.length === b.length && a.every((v, i) => v === b[i]);
 }
 
 function groupBy(items, keysOf) {
@@ -1102,12 +1128,20 @@ if (existsSync(STATE_FILE)) {
   }
 }
 
-// Download counts drift constantly, so they refresh on a capped cadence
-// rather than triggering a commit every run; manifest changes still apply
-// immediately.
+// Download counts drift constantly, so they're fetched on a capped cadence
+// rather than every run; manifest changes still apply immediately.
 const DOWNLOADS_REFRESH_MS = 20 * 60 * 60 * 1000; // ~daily
 const lastDownloadsAt = Date.parse(oldState?.downloadsRefreshedAt ?? "") || 0;
 const downloadsStale = Date.now() - lastDownloadsAt > DOWNLOADS_REFRESH_MS;
+
+// A fetched refresh always updates the JSON ground truth (data/extensions.json),
+// but only regenerates the 500+ markdown pages when it's actually worth
+// rewriting them for: the top RANK_WATCH_N ordering changed (the tail is
+// thick with near-ties that reorder constantly and mean nothing — see
+// catalog/CHANGELOG.md), or it's been a while regardless (so displayed
+// numbers don't visibly rot during a quiet stretch with a stable top).
+const RANK_WATCH_N = 250;
+const DOWNLOADS_MAX_STALE_MS = 7 * 24 * 60 * 60 * 1000; // 7 days
 
 // Cheap guard: if upstream HEAD is unchanged and downloads aren't due, there is
 // nothing to do — so a blind every-minute web-cron trigger costs ~one git fetch
@@ -1192,7 +1226,7 @@ for (const entry of entries) {
     entry.downloads = r ? r.downloads : null;
     entry.store = r ? r.storeUrl : null;
     // Categorize from the store when the git manifest gave no categories.
-    if (r && isManifestUncategorized(entry)) {
+    if (r && needsStoreCategoryEnrichment(entry)) {
       const c = canonicalCategories(r.seo);
       if (c.length) entry.categories = c;
     }
@@ -1204,10 +1238,22 @@ const downloadsRefreshedAt = resolved
   ? new Date().toISOString()
   : oldState?.downloadsRefreshedAt ?? null;
 
+// Did the refresh move the watched top-N ordering? (Skipped — and assumed
+// unchanged — when nothing was actually fetched this run.)
+const rankChanged =
+  resolved && !arraysEqual(topNDirs([...oldEntries.values()], RANK_WATCH_N), topNDirs(entries, RANK_WATCH_N));
+const pastMaxStale = resolved && Date.now() - lastDownloadsAt > DOWNLOADS_MAX_STALE_MS;
+const downloadsWorthRegenerating = resolved && (rankChanged || pastMaxStale);
+const shouldRegenerateMarkdown = changed || initial || downloadsWorthRegenerating || FORCE;
+
 entries.sort((a, b) => a.dir.localeCompare(b.dir, "en"));
-generateCatalog(entries);
-if (changed || initial) {
-  updateChangelog({ initial, added, updated, removed, commit, total: entries.length });
+if (shouldRegenerateMarkdown) {
+  generateCatalog(entries);
+  if (changed || initial) {
+    updateChangelog({ initial, added, updated, removed, commit, total: entries.length });
+  }
+} else {
+  console.log(`downloads refreshed, no top ${RANK_WATCH_N} change — updating data only, catalog pages untouched`);
 }
 
 mkdirSync(path.dirname(STATE_FILE), { recursive: true });
@@ -1234,8 +1280,15 @@ if (COMMIT) {
   if (!initial && added.length) parts.push(`${added.length} added`);
   if (!initial && updated.length) parts.push(`${updated.length} updated`);
   if (!initial && removed.length) parts.push(`${removed.length} removed`);
-  const message = parts.length
-    ? `catalog: sync with upstream (${parts.join(", ")})`
-    : "catalog: refresh download counts";
+  let message;
+  if (parts.length) {
+    message = `catalog: sync with upstream (${parts.join(", ")})`;
+  } else if (rankChanged) {
+    message = `catalog: refresh downloads (top ${RANK_WATCH_N} ranking changed)`;
+  } else if (pastMaxStale) {
+    message = `catalog: refresh downloads (periodic, ${Math.round(DOWNLOADS_MAX_STALE_MS / 86_400_000)}d since last meaningful change)`;
+  } else {
+    message = "catalog: update download counts (no ranking change)";
+  }
   commitAndMaybePush(message);
 }
