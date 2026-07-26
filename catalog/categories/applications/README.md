@@ -1,15 +1,15 @@
 # Applications
 
-362 extensions · [← all categories](../README.md)
+365 extensions · [← all categories](../README.md)
 
-macOS: 353 · Windows: 76
+macOS: 356 · Windows: 77
 
 ## Work & Knowledge Apps
 
 | Topic | Extensions |
 | --- | --- |
 | [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 28 |
-| [Productivity & Task Apps](./productivity-task-apps.md) | 14 |
+| [Productivity & Task Apps](./productivity-task-apps.md) | 15 |
 | [AI & Chat Apps](./ai-chat-apps.md) | 20 |
 | [Reading & Library Apps](./reading-library-apps.md) | 4 |
 | [Content & CMS Apps](./content-cms-apps.md) | 12 |
@@ -19,7 +19,7 @@ macOS: 353 · Windows: 76
 | Topic | Extensions |
 | --- | --- |
 | [Music & Audio Apps](./music-audio-apps.md) | 9 |
-| [Media & Photo Apps](./media-photo-apps.md) | 18 |
+| [Media & Photo Apps](./media-photo-apps.md) | 19 |
 
 ## Developer & Power-User Apps
 
@@ -49,6 +49,6 @@ macOS: 353 · Windows: 76
 | [API ✦](./api.md) | 4 |
 | [Monitor ✦](./monitor.md) | 4 |
 
-Plus [General](./general.md) — 110 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 111 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

@@ -1,13 +1,13 @@
 # macOS · Applications
 
-353 extensions · [← macOS](../README.md)
+356 extensions · [← macOS](../README.md)
 
 ## Work & Knowledge Apps
 
 | Topic | Extensions |
 | --- | --- |
 | [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 28 |
-| [Productivity & Task Apps](./productivity-task-apps.md) | 14 |
+| [Productivity & Task Apps](./productivity-task-apps.md) | 15 |
 | [AI & Chat Apps](./ai-chat-apps.md) | 20 |
 | [Reading & Library Apps](./reading-library-apps.md) | 4 |
 | [Content & CMS Apps](./content-cms-apps.md) | 11 |
@@ -17,7 +17,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Music & Audio Apps](./music-audio-apps.md) | 9 |
-| [Media & Photo Apps](./media-photo-apps.md) | 18 |
+| [Media & Photo Apps](./media-photo-apps.md) | 19 |
 
 ## Developer & Power-User Apps
 
@@ -39,4 +39,4 @@
 | [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
 | [Launchers & App Control](./launchers-app-control.md) | 46 |
 
-Plus [General](./general.md) — 121 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 122 extensions that don't fit a topic yet.

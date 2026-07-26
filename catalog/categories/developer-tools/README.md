@@ -1,8 +1,8 @@
 # Developer Tools
 
-1061 extensions · [← all categories](../README.md)
+1067 extensions · [← all categories](../README.md)
 
-macOS: 1051 · Windows: 274
+macOS: 1057 · Windows: 276
 
 ## Code & Collaboration
 
@@ -20,14 +20,14 @@ macOS: 1051 · Windows: 274
 | [CI/CD & DevOps](./ci-cd-devops.md) | 6 |
 | [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 86 |
 | [Databases](./databases.md) | 13 |
-| [APIs & Networking](./apis-networking.md) | 54 |
+| [APIs & Networking](./apis-networking.md) | 55 |
 | [Monitoring & Logs](./monitoring-logs.md) | 25 |
 
 ## Platforms & Ecosystems
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools/README.md) | 112 |
+| [AI & LLM Tools](./ai-llm-tools/README.md) | 114 |
 | [Web & Frontend](./web-frontend.md) | 60 |
 | [Mobile & App Development](./mobile-app-development.md) | 30 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 15 |
@@ -36,7 +36,7 @@ macOS: 1051 · Windows: 274
 
 | Topic | Extensions |
 | --- | --- |
-| [Terminal & Editors](./terminal-editors.md) | 43 |
+| [Terminal & Editors](./terminal-editors.md) | 44 |
 | [Package & Dependency Tools](./package-dependency-tools.md) | 39 |
 | [Automation & Scripting](./automation-scripting.md) | 11 |
 | [Files & Transfer](./files-transfer.md) | 25 |
@@ -52,13 +52,13 @@ macOS: 1051 · Windows: 274
 | [Email ✦](./email.md) | 6 |
 | [Machines ✦](./machines.md) | 6 |
 | [Password ✦](./password.md) | 5 |
+| [Web ✦](./web.md) | 6 |
 | [Apple ✦](./apple.md) | 4 |
 | [Between ✦](./between.md) | 5 |
 | [Sessions ✦](./sessions.md) | 5 |
-| [Web ✦](./web.md) | 5 |
 | [Ease ✦](./ease.md) | 4 |
 | [Shortcut ✦](./shortcut.md) | 4 |
 
-Plus [General](./general.md) — 171 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 172 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

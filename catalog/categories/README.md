@@ -6,17 +6,17 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 1387 |
-| [Applications](./applications/README.md) | 362 |
+| [Productivity](./productivity/README.md) | 1398 |
+| [Applications](./applications/README.md) | 365 |
 | [Communication](./communication/README.md) | 148 |
 
 ### Development
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 1061 |
-| [Data](./data/README.md) | 264 |
-| [Documentation](./documentation/README.md) | 209 |
+| [Developer Tools](./developer-tools/README.md) | 1067 |
+| [Data](./data/README.md) | 265 |
+| [Documentation](./documentation/README.md) | 210 |
 | [Security](./security/README.md) | 80 |
 | [AI](./ai/README.md) | 7 |
 
@@ -24,29 +24,29 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Media](./media/README.md) | 279 |
-| [Design Tools](./design-tools/README.md) | 148 |
+| [Media](./media/README.md) | 280 |
+| [Design Tools](./design-tools/README.md) | 150 |
 
 ### Web, Finance & News
 
 | Category | Extensions |
 | --- | --- |
-| [Web](./web/README.md) | 450 |
-| [Finance](./finance/README.md) | 143 |
+| [Web](./web/README.md) | 454 |
+| [Finance](./finance/README.md) | 146 |
 | [News](./news/README.md) | 95 |
 
 ### System & Utilities
 
 | Category | Extensions |
 | --- | --- |
-| [System](./system/README.md) | 249 |
+| [System](./system/README.md) | 250 |
 | [Other](./other/README.md) | 187 |
 
 ### Fun & Entertainment
 
 | Category | Extensions |
 | --- | --- |
-| [Fun](./fun/README.md) | 271 |
+| [Fun](./fun/README.md) | 274 |
 
 ### Uncategorized
 

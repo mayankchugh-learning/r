@@ -1,15 +1,15 @@
 # Finance
 
-143 extensions · [← all categories](../README.md)
+146 extensions · [← all categories](../README.md)
 
-macOS: 143 · Windows: 41
+macOS: 146 · Windows: 42
 
 ## Markets & Investing
 
 | Topic | Extensions |
 | --- | --- |
-| [Stocks & Trading](./stocks-trading.md) | 13 |
-| [Crypto & Web3](./crypto-web3.md) | 29 |
+| [Stocks & Trading](./stocks-trading.md) | 14 |
+| [Crypto & Web3](./crypto-web3.md) | 30 |
 | [Currency & Exchange](./currency-exchange.md) | 10 |
 
 ## Money Management
@@ -23,7 +23,7 @@ macOS: 143 · Windows: 41
 
 | Topic | Extensions |
 | --- | --- |
-| [Business, Billing & Sales](./business-billing-sales.md) | 25 |
+| [Business, Billing & Sales](./business-billing-sales.md) | 26 |
 | [Regional & Company Lookups](./regional-company-lookups.md) | 6 |
 | [Energy & Utility Prices](./energy-utility-prices.md) | 2 |
 

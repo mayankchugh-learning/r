@@ -1,12 +1,12 @@
 # macOS · Fun
 
-270 extensions · [← macOS](../README.md)
+273 extensions · [← macOS](../README.md)
 
 ## Play
 
 | Topic | Extensions |
 | --- | --- |
-| [Games & Gaming](./games-gaming.md) | 41 |
+| [Games & Gaming](./games-gaming.md) | 42 |
 | [Jokes & Randomness](./jokes-randomness.md) | 29 |
 | [Generators & Toys](./generators-toys.md) | 9 |
 | [AI & Generative Fun](./ai-generative-fun.md) | 16 |
@@ -17,7 +17,7 @@
 | --- | --- |
 | [Movies, TV & Anime](./movies-tv-anime.md) | 10 |
 | [Music & Instruments](./music-instruments.md) | 8 |
-| [Sports](./sports.md) | 14 |
+| [Sports](./sports.md) | 15 |
 | [Pop Culture & Fandom](./pop-culture-fandom.md) | 10 |
 
 ## Express & Explore
@@ -29,4 +29,4 @@
 | [Nature & Exploration](./nature-exploration.md) | 5 |
 | [Food & Drink](./food-drink.md) | 7 |
 
-Plus [General](./general.md) — 104 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 105 extensions that don't fit a topic yet.

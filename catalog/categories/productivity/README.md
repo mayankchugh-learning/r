@@ -1,14 +1,14 @@
 # Productivity
 
-1387 extensions · [← all categories](../README.md)
+1398 extensions · [← all categories](../README.md)
 
-macOS: 1374 · Windows: 319
+macOS: 1385 · Windows: 321
 
 ## Organize & Plan
 
 | Topic | Extensions |
 | --- | --- |
-| [Tasks & To-Dos](./tasks-to-dos.md) | 43 |
+| [Tasks & To-Dos](./tasks-to-dos.md) | 44 |
 | [Calendar & Scheduling](./calendar-scheduling.md) | 19 |
 | [Notes & Knowledge](./notes-knowledge/README.md) | 59 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 24 |
@@ -17,9 +17,9 @@ macOS: 1374 · Windows: 319
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants/README.md) | 118 |
+| [AI & Assistants](./ai-assistants/README.md) | 119 |
 | [Writing & Text Tools](./writing-text-tools.md) | 69 |
-| [Documents & Files](./documents-files.md) | 118 |
+| [Documents & Files](./documents-files.md) | 119 |
 | [Email](./email.md) | 22 |
 
 ## Workflow & Speed
@@ -27,17 +27,17 @@ macOS: 1374 · Windows: 319
 | Topic | Extensions |
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 27 |
-| [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 65 |
+| [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 66 |
 | [Window & Workspace Management](./window-workspace-management.md) | 45 |
-| [Search & Bookmarks](./search-bookmarks/README.md) | 214 |
+| [Search & Bookmarks](./search-bookmarks/README.md) | 216 |
 
 ## Learn & Collaborate
 
 | Topic | Extensions |
 | --- | --- |
 | [Reading & Learning](./reading-learning.md) | 21 |
-| [Team & Business Tools](./team-business-tools.md) | 14 |
-| [Trackers & Monitors](./trackers-monitors.md) | 33 |
+| [Team & Business Tools](./team-business-tools.md) | 15 |
+| [Trackers & Monitors](./trackers-monitors.md) | 35 |
 
 ## Discovered topics ✦
 
@@ -49,9 +49,9 @@ macOS: 1374 · Windows: 319
 | [URL ✦](./url.md) | 12 |
 | [Converter ✦](./converter.md) | 9 |
 | [Keyboard ✦](./keyboard.md) | 10 |
+| [Screen ✦](./screen.md) | 9 |
 | [Between ✦](./between.md) | 7 |
 | [Https ✦](./https.md) | 6 |
-| [Screen ✦](./screen.md) | 8 |
 | [Web ✦](./web.md) | 5 |
 | [Date ✦](./date.md) | 5 |
 | [Git ✦](./git.md) | 7 |
@@ -59,6 +59,6 @@ macOS: 1374 · Windows: 319
 | [Password ✦](./password.md) | 8 |
 | [Website ✦](./website.md) | 6 |
 
-Plus [General](./general.md) — 363 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 364 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

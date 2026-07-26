@@ -1,8 +1,8 @@
 # Web
 
-450 extensions · [← all categories](../README.md)
+454 extensions · [← all categories](../README.md)
 
-macOS: 449 · Windows: 122
+macOS: 453 · Windows: 125
 
 ## Browse & Search
 
@@ -25,8 +25,8 @@ macOS: 449 · Windows: 122
 
 | Topic | Extensions |
 | --- | --- |
-| [Web Apps & Services](./web-apps-services.md) | 30 |
-| [Social & Communities](./social-communities.md) | 24 |
+| [Web Apps & Services](./web-apps-services.md) | 31 |
+| [Social & Communities](./social-communities.md) | 25 |
 | [AI Services](./ai-services/README.md) | 31 |
 | [Crypto & Markets](./crypto-markets.md) | 6 |
 
@@ -34,14 +34,14 @@ macOS: 449 · Windows: 122
 
 | Topic | Extensions |
 | --- | --- |
+| [Web ✦](./web.md) | 7 |
 | [Code ✦](./code.md) | 6 |
-| [Web ✦](./web.md) | 6 |
 | [Explore ✦](./explore.md) | 5 |
 | [Translation ✦](./translation.md) | 5 |
 | [Website ✦](./website.md) | 4 |
 | [About ✦](./about.md) | 4 |
 | [Sites ✦](./sites.md) | 4 |
 
-Plus [General](./general.md) — 91 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 92 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

@@ -1,8 +1,8 @@
 # Design Tools
 
-148 extensions · [← all categories](../README.md)
+150 extensions · [← all categories](../README.md)
 
-macOS: 148 · Windows: 41
+macOS: 150 · Windows: 41
 
 ## Visual Elements
 
@@ -33,9 +33,9 @@ macOS: 148 · Windows: 41
 
 | Topic | Extensions |
 | --- | --- |
-| [Design ✦](./design.md) | 5 |
+| [Design ✦](./design.md) | 6 |
 | [Images ✦](./images.md) | 4 |
 
-Plus [General](./general.md) — 29 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 30 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

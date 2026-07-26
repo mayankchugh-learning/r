@@ -1,14 +1,14 @@
 # Fun
 
-271 extensions · [← all categories](../README.md)
+274 extensions · [← all categories](../README.md)
 
-macOS: 270 · Windows: 82
+macOS: 273 · Windows: 84
 
 ## Play
 
 | Topic | Extensions |
 | --- | --- |
-| [Games & Gaming](./games-gaming.md) | 42 |
+| [Games & Gaming](./games-gaming.md) | 43 |
 | [Jokes & Randomness](./jokes-randomness.md) | 29 |
 | [Generators & Toys](./generators-toys.md) | 9 |
 | [AI & Generative Fun](./ai-generative-fun.md) | 16 |
@@ -19,7 +19,7 @@ macOS: 270 · Windows: 82
 | --- | --- |
 | [Movies, TV & Anime](./movies-tv-anime.md) | 10 |
 | [Music & Instruments](./music-instruments.md) | 8 |
-| [Sports](./sports.md) | 14 |
+| [Sports](./sports.md) | 15 |
 | [Pop Culture & Fandom](./pop-culture-fandom.md) | 10 |
 
 ## Express & Explore
@@ -36,7 +36,8 @@ macOS: 270 · Windows: 82
 | Topic | Extensions |
 | --- | --- |
 | [Cards ✦](./cards.md) | 4 |
+| [Discover ✦](./discover.md) | 4 |
 
-Plus [General](./general.md) — 100 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 97 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

@@ -5,8 +5,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Jenkins](https://github.com/raycast/extensions/tree/main/extensions/jenkins) | 845 | Manage your Jenkins directly from Raycast. | k8scat | macOS | [store](https://www.raycast.com/k8scat/jenkins) |
-| [Bitrise](https://github.com/raycast/extensions/tree/main/extensions/bitrise) | 427 | Check your Bitrise CI builds and start new ones. | ofalvai | macOS | [store](https://www.raycast.com/ofalvai/bitrise) |
-| [Buildkite](https://github.com/raycast/extensions/tree/main/extensions/buildkite) | 387 | Search Buildkite pipelines and builds | mskelton | macOS | [store](https://www.raycast.com/mskelton/buildkite) |
-| [Cache-Control Builder](https://github.com/raycast/extensions/tree/main/extensions/cache-control-builder) | 296 | Build a HTTP Cache-Control response header | rkusa | macOS | [store](https://www.raycast.com/rkusa/cache-control-builder) |
-| [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner) | 106 | Scan and clean developer caches, build artifacts, and orphaned dependencies to reclaim disk space | Undolog | macOS | [store](https://www.raycast.com/Undolog/dev-cache-cleaner) |
+| [Bitrise](https://github.com/raycast/extensions/tree/main/extensions/bitrise) | 428 | Check your Bitrise CI builds and start new ones. | ofalvai | macOS | [store](https://www.raycast.com/ofalvai/bitrise) |
+| [Buildkite](https://github.com/raycast/extensions/tree/main/extensions/buildkite) | 388 | Search Buildkite pipelines and builds | mskelton | macOS | [store](https://www.raycast.com/mskelton/buildkite) |
+| [Cache-Control Builder](https://github.com/raycast/extensions/tree/main/extensions/cache-control-builder) | 297 | Build a HTTP Cache-Control response header | rkusa | macOS | [store](https://www.raycast.com/rkusa/cache-control-builder) |
+| [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner) | 114 | Scan and clean developer caches, build artifacts, and orphaned dependencies to reclaim disk space | Undolog | macOS | [store](https://www.raycast.com/Undolog/dev-cache-cleaner) |
 | [Codemagic](https://github.com/raycast/extensions/tree/main/extensions/codemagic) | 100 | Trigger and view builds and artifacts right from Raycast | imgkl | macOS | [store](https://www.raycast.com/imgkl/codemagic) |

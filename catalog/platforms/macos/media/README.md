@@ -1,6 +1,6 @@
 # macOS · Media
 
-274 extensions · [← macOS](../README.md)
+275 extensions · [← macOS](../README.md)
 
 ## Listen & Watch
 
@@ -24,4 +24,4 @@
 | [AI Generation](./ai-generation.md) | 4 |
 | [Conversion, Upload & Download](./conversion-upload-download.md) | 12 |
 
-Plus [General](./general.md) — 106 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 107 extensions that don't fit a topic yet.

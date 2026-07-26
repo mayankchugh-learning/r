@@ -1,22 +1,22 @@
 # macOS extensions
 
-3055 extensions · [← all platforms](../README.md)
+3076 extensions · [← all platforms](../README.md)
 
 ### Work & Productivity
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 1374 |
-| [Applications](./applications/README.md) | 353 |
+| [Productivity](./productivity/README.md) | 1385 |
+| [Applications](./applications/README.md) | 356 |
 | [Communication](./communication/README.md) | 146 |
 
 ### Development
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 1051 |
-| [Data](./data/README.md) | 264 |
-| [Documentation](./documentation/README.md) | 209 |
+| [Developer Tools](./developer-tools/README.md) | 1057 |
+| [Data](./data/README.md) | 265 |
+| [Documentation](./documentation/README.md) | 210 |
 | [Security](./security/README.md) | 80 |
 | [AI](./ai/README.md) | 7 |
 
@@ -24,15 +24,15 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Media](./media/README.md) | 274 |
-| [Design Tools](./design-tools/README.md) | 148 |
+| [Media](./media/README.md) | 275 |
+| [Design Tools](./design-tools/README.md) | 150 |
 
 ### Web, Finance & News
 
 | Category | Extensions |
 | --- | --- |
-| [Web](./web/README.md) | 449 |
-| [Finance](./finance/README.md) | 143 |
+| [Web](./web/README.md) | 453 |
+| [Finance](./finance/README.md) | 146 |
 | [News](./news/README.md) | 95 |
 
 ### System & Utilities
@@ -46,7 +46,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Fun](./fun/README.md) | 270 |
+| [Fun](./fun/README.md) | 273 |
 
 ### Uncategorized
 

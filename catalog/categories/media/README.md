@@ -1,8 +1,8 @@
 # Media
 
-279 extensions · [← all categories](../README.md)
+280 extensions · [← all categories](../README.md)
 
-macOS: 274 · Windows: 78
+macOS: 275 · Windows: 77
 
 ## Listen & Watch
 
@@ -33,7 +33,7 @@ macOS: 274 · Windows: 78
 | [Movies ✦](./movies.md) | 10 |
 | [Bar ✦](./bar.md) | 6 |
 | [Games ✦](./games.md) | 5 |
-| [Media ✦](./media.md) | 4 |
+| [Media ✦](./media.md) | 5 |
 | [Post ✦](./post.md) | 4 |
 
 Plus [General](./general.md) — 79 extensions that don't fit a topic yet.
