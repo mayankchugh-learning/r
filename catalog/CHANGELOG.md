@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-27 — upstream `7042deb7b1`
+
+**Added (1):** [Quran Quick Insert](https://github.com/raycast/extensions/tree/main/extensions/quran-quick-insert)
+
 ## 2026-07-27 — upstream `7c90e21b98`
 
 **Added (1):** [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse)
