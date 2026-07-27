@@ -1,14 +1,14 @@
 # Applications
 
-365 extensions · [← all categories](../README.md)
+366 extensions · [← all categories](../README.md)
 
-macOS: 356 · Windows: 77
+macOS: 357 · Windows: 77
 
 ## Work & Knowledge Apps
 
 | Topic | Extensions |
 | --- | --- |
-| [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 28 |
+| [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 29 |
 | [Productivity & Task Apps](./productivity-task-apps.md) | 15 |
 | [AI & Chat Apps](./ai-chat-apps.md) | 20 |
 | [Reading & Library Apps](./reading-library-apps.md) | 4 |

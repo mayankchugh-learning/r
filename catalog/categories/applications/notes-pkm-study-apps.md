@@ -1,8 +1,8 @@
 # Notes, PKM & Study Apps
 
-28 extensions · [← Applications](./README.md)
+29 extensions · [← Applications](./README.md)
 
-[Bookmarks ✦](#bookmarks) (15) · [Notes ✦](#notes) (7) · [General](#general) (6)
+[Bookmarks ✦](#bookmarks) (15) · [Notes ✦](#notes) (8) · [General](#general) (6)
 
 *✦ auto-discovered topic group*
 
@@ -37,6 +37,7 @@
 | [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 695 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
 | [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) | 109 | Manage your Collected Notes blog | txemaleon | macOS | [store](https://www.raycast.com/txemaleon/collected-notes) |
 | [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) | 63 | Quick capture for Minttr - save notes and links instantly | zayn_harris_dev | macOS | [store](https://www.raycast.com/zayn_harris_dev/minttr) |
+| [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 0 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
 
 ## General
 

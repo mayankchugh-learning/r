@@ -1,8 +1,8 @@
 # Notes ✦
 
-32 extensions · [← Notes & Knowledge](./README.md)
+33 extensions · [← Notes & Knowledge](./README.md)
 
-[Capture ✦](#capture) (7) · [Markdown ✦](#markdown) (4) · [General](#general) (21)
+[Capture ✦](#capture) (7) · [Daily ✦](#daily) (4) · [Markdown ✦](#markdown) (4) · [General](#general) (18)
 
 *✦ auto-discovered topic group*
 
@@ -17,6 +17,15 @@
 | [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) | 63 | Quick capture for Minttr - save notes and links instantly | zayn_harris_dev | macOS | [store](https://www.raycast.com/zayn_harris_dev/minttr) |
 | [Stik](https://github.com/raycast/extensions/tree/main/extensions/stik) | 6 | Quick capture and browse your Stik notes. Create, search, organize, and manage markdown notes stored locally on your machine. | 0xMassi | macOS | [store](https://www.raycast.com/0xMassi/stik) |
 | [From](https://github.com/raycast/extensions/tree/main/extensions/from) | 2 | Capture thoughts, search your notes and open your daily note in From — the outliner that understands what you write, so capture stays frictionless and fast. | alberto_lezaun | macOS | [store](https://www.raycast.com/alberto_lezaun/from) |
+
+## Daily ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 13,239 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
+| [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,001 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
+| [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) | 2,078 | Navigate within Reflect and quickly append to your daily notes. | ryon | macOS | [store](https://www.raycast.com/ryon/reflect) |
+| [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 0 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
 
 ## Markdown ✦
 
@@ -33,13 +42,10 @@
 | --- | --- | --- | --- | --- | --- |
 | [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 134,403 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,301 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
-| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 13,239 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,462 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,604 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote) | 3,746 | Search Microsoft OneNote notes | alewandowski | macOS | [store](https://www.raycast.com/alewandowski/onenote) |
-| [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,001 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [Antinote](https://github.com/raycast/extensions/tree/main/extensions/antinote) | 2,989 | Extension to control Antinote app. Create new notes, search notes and pin/unpin Antinote with Raycast. | sc0 | macOS | [store](https://www.raycast.com/sc0/antinote) |
-| [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) | 2,078 | Navigate within Reflect and quickly append to your daily notes. | ryon | macOS | [store](https://www.raycast.com/ryon/reflect) |
 | [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) | 1,017 | Search your Evernote notes instantly using the local database of the official Evernote client. | artpi | macOS, Windows | [store](https://www.raycast.com/artpi/evernote) |
 | [iA Writer](https://github.com/raycast/extensions/tree/main/extensions/raycast-ia-writer) | 796 | Create or search notes with Raycast | xvvhang | macOS | [store](https://www.raycast.com/xvvhang/raycast-ia-writer) |
 | [Memo](https://github.com/raycast/extensions/tree/main/extensions/memo) | 752 | All your bookmarks and notes in 1 Notion | mt40 | macOS | [store](https://www.raycast.com/mt40/memo) |

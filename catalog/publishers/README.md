@@ -1,6 +1,6 @@
 # Publishers
 
-2064 publishers · [← catalog index](../README.md)
+2065 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,078,904 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,078,965 |
 | 2 | [raycast](./id/raycast.md) | 11 | 772,991 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,798 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,449 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,885 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,529 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 430,362 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 425,310 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,033 |
@@ -2043,32 +2043,33 @@
 | 2033 | [samuel_oldmark_se](https://www.raycast.com/samuel_oldmark_se) | 1 | 2 |
 | 2034 | [bitski](https://www.raycast.com/bitski) | 1 | 1 |
 | 2035 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 |
-| 2036 | [davireisvieira](https://www.raycast.com/davireisvieira) | 1 | 1 |
-| 2037 | [drakulavich](https://www.raycast.com/drakulavich) | 1 | 1 |
-| 2038 | [figa](https://www.raycast.com/figa) | 1 | 1 |
-| 2039 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 1 |
-| 2040 | [humanfriend22](https://www.raycast.com/humanfriend22) | 1 | 1 |
-| 2041 | [IvanWng97](https://www.raycast.com/IvanWng97) | 1 | 1 |
-| 2042 | [jrl](https://www.raycast.com/jrl) | 1 | 1 |
-| 2043 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
-| 2044 | [MikeWhob](https://www.raycast.com/mikewhob) | 1 | 1 |
-| 2045 | [petar_yovkov](https://www.raycast.com/petar_yovkov) | 1 | 1 |
-| 2046 | [qlaffont](https://www.raycast.com/qlaffont) | 1 | 1 |
-| 2047 | [rxtsel](https://www.raycast.com/rxtsel) | 1 | 1 |
-| 2048 | [samuel_monteiro](https://www.raycast.com/samuel_monteiro) | 1 | 1 |
-| 2049 | [sansaxena789](https://www.raycast.com/sansaxena789) | 1 | 1 |
-| 2050 | [sfominx](https://www.raycast.com/sfominx) | 1 | 1 |
-| 2051 | [sriket_komali](https://www.raycast.com/sriket_komali) | 1 | 1 |
-| 2052 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 0 |
-| 2053 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
+| 2036 | [drakulavich](https://www.raycast.com/drakulavich) | 1 | 1 |
+| 2037 | [figa](https://www.raycast.com/figa) | 1 | 1 |
+| 2038 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 1 |
+| 2039 | [humanfriend22](https://www.raycast.com/humanfriend22) | 1 | 1 |
+| 2040 | [IvanWng97](https://www.raycast.com/IvanWng97) | 1 | 1 |
+| 2041 | [jrl](https://www.raycast.com/jrl) | 1 | 1 |
+| 2042 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
+| 2043 | [MikeWhob](https://www.raycast.com/mikewhob) | 1 | 1 |
+| 2044 | [petar_yovkov](https://www.raycast.com/petar_yovkov) | 1 | 1 |
+| 2045 | [qlaffont](https://www.raycast.com/qlaffont) | 1 | 1 |
+| 2046 | [rxtsel](https://www.raycast.com/rxtsel) | 1 | 1 |
+| 2047 | [samuel_monteiro](https://www.raycast.com/samuel_monteiro) | 1 | 1 |
+| 2048 | [sansaxena789](https://www.raycast.com/sansaxena789) | 1 | 1 |
+| 2049 | [sfominx](https://www.raycast.com/sfominx) | 1 | 1 |
+| 2050 | [sriket_komali](https://www.raycast.com/sriket_komali) | 1 | 1 |
+| 2051 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 0 |
+| 2052 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
+| 2053 | [davireisvieira](https://www.raycast.com/davireisvieira) | 1 | 0 |
 | 2054 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2055 | [Ethan_Cao](https://www.raycast.com/Ethan_Cao) | 1 | 0 |
 | 2056 | [faizhasim](https://www.raycast.com/faizhasim) | 1 | 0 |
 | 2057 | [garon](https://www.raycast.com/garon) | 1 | 0 |
 | 2058 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
-| 2059 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2060 | [tessak22](https://www.raycast.com/tessak22) | 1 | 0 |
-| 2061 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 0 |
-| 2062 | github-next | 2 | — |
-| 2063 | multi | 1 | — |
-| 2064 | sharat_visweswara | 1 | — |
+| 2059 | [jaseem_ts](https://www.raycast.com/jaseem_ts) | 1 | 0 |
+| 2060 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2061 | [tessak22](https://www.raycast.com/tessak22) | 1 | 0 |
+| 2062 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 0 |
+| 2063 | github-next | 2 | — |
+| 2064 | multi | 1 | — |
+| 2065 | sharat_visweswara | 1 | — |

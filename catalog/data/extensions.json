@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b6969a8c8dcf5a7a6ee35b635dcb8852185da6b5",
-  "generatedAt": "2026-07-27T11:14:49.884Z",
-  "downloadsRefreshedAt": "2026-07-27T11:14:49.313Z",
-  "count": 3113,
+  "commit": "3d9a18ad2c3078ff88d53750515fafa277e10752",
+  "generatedAt": "2026-07-27T13:08:35.159Z",
+  "downloadsRefreshedAt": "2026-07-27T13:08:34.774Z",
+  "count": 3114,
   "extensions": [
     {
       "dir": "0x0",
@@ -2160,7 +2160,7 @@
       "store": "https://www.raycast.com/davireisvieira/apple-container",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-container",
       "treeSha": "843fee02451162fd3956a168d629496c0a9ab15a",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "apple-developer-docs",
@@ -8899,7 +8899,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494082
+      "downloads": 494143
     },
     {
       "dir": "color-shades",
@@ -20166,7 +20166,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482449
+      "downloads": 482529
     },
     {
       "dir": "google-chrome-profiles",
@@ -26086,7 +26086,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649798
+      "downloads": 649885
     },
     {
       "dir": "kimai",
@@ -44569,6 +44569,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/reflect",
       "treeSha": "215125059bf1ae811a70564e89df5c5d0813781b",
       "downloads": 2078
+    },
+    {
+      "dir": "reflect-open",
+      "name": "reflect-open",
+      "title": "Reflect Open",
+      "description": "Quickly append thoughts and tasks to your Reflect Open daily note.",
+      "author": "jaseem_ts",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/jaseem_ts/reflect-open",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/reflect-open",
+      "treeSha": "f22df3b8f0cf51a67a728ae840a2c024eb7633e2",
+      "downloads": 0
     },
     {
       "dir": "refresh-browsers",
