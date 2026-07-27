@@ -2,16 +2,16 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · **Team & Business Tools** · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-15 of 1386 extensions · [← macOS · Productivity](./README.md)
+15 of 1387 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 280,295 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,103 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 280,443 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,107 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
 | [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,182 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
 | [Airtable](https://github.com/raycast/extensions/tree/main/extensions/airtable) | 2,374 | List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. | marks | macOS | [store](https://www.raycast.com/marks/raycast-airtable-extension) |
 | [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,466 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |
-| [Salesforce Search](https://github.com/raycast/extensions/tree/main/extensions/salesforce-search) | 1,063 | Search for Salesforce records like accounts and contacts and dashboards and reports. | sven | macOS | [store](https://www.raycast.com/sven/salesforce) |
+| [Salesforce Search](https://github.com/raycast/extensions/tree/main/extensions/salesforce-search) | 1,064 | Search for Salesforce records like accounts and contacts and dashboards and reports. | sven | macOS | [store](https://www.raycast.com/sven/salesforce) |
 | [Cacher - Code Snippet Organizer](https://github.com/raycast/extensions/tree/main/extensions/cacher) | 648 | Create and insert personal and team code snippets from anywhere. | cacherapp | macOS | [store](https://www.raycast.com/cacherapp/cacher) |
 | [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 176 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |
 | [esa Search](https://github.com/raycast/extensions/tree/main/extensions/esa-search) | 144 | Search for posts by your team's esa. No official esa.io product. | kawamataryo | macOS | [store](https://www.raycast.com/kawamataryo/esa-search) |
@@ -20,4 +20,4 @@
 | [Clarify](https://github.com/raycast/extensions/tree/main/extensions/clarify) | 71 | Interact with Clarify CRM directly from your command bar | getclarify (org) | macOS | [store](https://www.raycast.com/getclarify/clarify) |
 | [Retrac](https://github.com/raycast/extensions/tree/main/extensions/retrac) | 35 | Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast. | adi_amar | macOS | [store](https://www.raycast.com/adi_amar/retrac) |
 | [Sage HR](https://github.com/raycast/extensions/tree/main/extensions/sage-hr) | 16 | Integration with Sage HR to get a searchable list on who is out today | cyxn | macOS | [store](https://www.raycast.com/cyxn/sage-hr) |
-| [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup) | 3 | Look up Finnish businesses by name or Business ID using PRH YTJ open data | eljn | macOS | [store](https://www.raycast.com/eljn/finnish-business-lookup) |
+| [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup) | 4 | Look up Finnish businesses by name or Business ID using PRH YTJ open data | eljn | macOS | [store](https://www.raycast.com/eljn/finnish-business-lookup) |

@@ -1,6 +1,6 @@
 # alexi.build
 
-16 extensions · 1,687 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+16 extensions · 1,690 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -27,7 +27,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 146 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
+| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 147 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
 
 ## Developer Tools (1)
 
@@ -54,17 +54,17 @@
 | --- | --- | --- | --- | --- | --- |
 | [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 54 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
 
+## Other (1)
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Time Awareness](https://github.com/raycast/extensions/tree/main/extensions/time-awareness) | 49 | Track your activity sessions and intervals | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/time-awareness) |
+
 ## Documentation (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Zread.ai](https://github.com/raycast/extensions/tree/main/extensions/zread-ai) | 48 | Open zread.ai pages for GitHub repositories and browse trending repositories. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/zread-ai) |
-
-## Other (1)
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Time Awareness](https://github.com/raycast/extensions/tree/main/extensions/time-awareness) | 47 | Track your activity sessions and intervals | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/time-awareness) |
 
 ## Data (2)
 

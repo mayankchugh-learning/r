@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | 1,029 | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
+| [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | 1,033 | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
 | [Repository Manager](https://github.com/raycast/extensions/tree/main/extensions/repository-manager) | 964 | Project Manager for local git repositories | francesco_mecchi | macOS | [store](https://www.raycast.com/francesco_mecchi/repository-manager) |
 | [GitHub Commits Menu](https://github.com/raycast/extensions/tree/main/extensions/github-menu-bar) | 763 | Show new Git commits in the macOS menu bar. | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/github-menu-bar) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 753 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |

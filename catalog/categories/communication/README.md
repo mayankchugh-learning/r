@@ -1,8 +1,8 @@
 # Communication
 
-148 extensions · [← all categories](../README.md)
+149 extensions · [← all categories](../README.md)
 
-macOS: 146 · Windows: 51
+macOS: 147 · Windows: 51
 
 ## Conversations
 
@@ -35,6 +35,6 @@ macOS: 146 · Windows: 51
 | [Domains ✦](./domains.md) | 5 |
 | [Phonetic ✦](./phonetic.md) | 4 |
 
-Plus [General](./general.md) — 46 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 47 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

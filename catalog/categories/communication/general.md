@@ -1,13 +1,13 @@
 # General
 
-46 extensions · [← Communication](./README.md)
+47 extensions · [← Communication](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,598 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,532 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,630 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
-| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,945 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,604 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,533 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,631 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,948 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
 | [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,421 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
 | [Grammarix](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) | 1,343 | Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription,… | hakob_nersesian | macOS | [store](https://www.raycast.com/hakob_nersesian/grammari-x) |
 | [Time Zone Converter](https://github.com/raycast/extensions/tree/main/extensions/time-converter) | 1,032 | Convert times between different time zones and paste the results | alex_jones | macOS | [store](https://www.raycast.com/alex_jones/time-converter) |
@@ -18,19 +18,19 @@
 | [BetterDiscord Store](https://github.com/raycast/extensions/tree/main/extensions/betterdiscord-search) | 528 | Allows you to search and view BetterDiscord addons inside Raycast | TheCommieAxolotl | macOS | [store](https://www.raycast.com/TheCommieAxolotl/betterdiscord-store) |
 | [Redmine](https://github.com/raycast/extensions/tree/main/extensions/redmine) | 409 | Integrate with the Redmine issue system (https://www.redmine.org/) | jwickers | macOS | [store](https://www.raycast.com/jwickers/redmine) |
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 370 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
-| [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) | 361 | Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing. | valenradovich | macOS | [store](https://www.raycast.com/valenradovich/grammaring) |
+| [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) | 362 | Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing. | valenradovich | macOS | [store](https://www.raycast.com/valenradovich/grammaring) |
 | [GitHub Users Search](https://github.com/raycast/extensions/tree/main/extensions/github-users) | 358 | Search GitHub users | luisFilipePT | macOS | [store](https://www.raycast.com/luisFilipePT/github-users) |
 | [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 299 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
 | [Ask Notis](https://github.com/raycast/extensions/tree/main/extensions/notis) | 278 | Capture, organize, and find anything for you in your Notion workspace. | mindtheflo | macOS | [store](https://www.raycast.com/mindtheflo/notis) |
 | [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya) | 276 | Manage emails through Himalaya CLI | jns | macOS | [store](https://www.raycast.com/jns/himalaya) |
 | [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 266 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 216 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
-| [omg.lol](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) | 202 | Create, read, and update data in your omg.lol account. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/omg-lol) |
+| [omg.lol](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) | 203 | Create, read, and update data in your omg.lol account. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/omg-lol) |
 | [ImprovMX](https://github.com/raycast/extensions/tree/main/extensions/improvmx) | 197 | Interact with ImprovMX with the help of Raycast | ImprovMX | macOS | [store](https://www.raycast.com/ImprovMX/improvmx) |
 | [Control Viscosity](https://github.com/raycast/extensions/tree/main/extensions/control-viscosity) | 196 | Allows you to control Viscosity VPN client and connect to or disconnect from your VPN connections. | dionisis_lialios | macOS | [store](https://www.raycast.com/dionisis_lialios/control-viscosity) |
 | [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) | 191 | Control your AirSync app directly from Raycast | sameerasw | macOS | [store](https://www.raycast.com/sameerasw/airsync) |
 | [Designer Excuses](https://github.com/raycast/extensions/tree/main/extensions/designer-excuses) | 159 | Designer Excuses is a playful Raycast extension that generates lighthearted, witty excuses for designers | shreeram | macOS | [store](https://www.raycast.com/shreeram/designer-excuses) |
-| [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 152 | Control MuteDeck from Raycast | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/mutedeck) |
+| [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 153 | Control MuteDeck from Raycast | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/mutedeck) |
 | [Personio](https://github.com/raycast/extensions/tree/main/extensions/personio) | 131 | Track your time with Personio. | boosteblume | macOS | [store](https://www.raycast.com/boosteblume/personio) |
 | [Logtail](https://github.com/raycast/extensions/tree/main/extensions/logtail) | 128 | Search and View your Logtail logs at any time | Cavallando | macOS | [store](https://www.raycast.com/Cavallando/logtail) |
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 126 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
@@ -47,6 +47,7 @@
 | [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | 25 | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
 | [Pumble](https://github.com/raycast/extensions/tree/main/extensions/pumble) | 17 | Interact with Pumble within the ease of Raycast. | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/pumble) |
 | [Voicemeeter Control](https://github.com/raycast/extensions/tree/main/extensions/voicemeeter-raycast) | 16 | Control Voicemeeter strips and buses from Raycast. | Vorm-- | Windows | [store](https://www.raycast.com/Vorm--/voicemeeter-raycast) |
-| [Area Code Search](https://github.com/raycast/extensions/tree/main/extensions/area-code-search) | 4 | Search US area codes by code, city, or state | mjking | macOS | [store](https://www.raycast.com/mjking/area-code-search) |
+| [Area Code Search](https://github.com/raycast/extensions/tree/main/extensions/area-code-search) | 6 | Search US area codes by code, city, or state | mjking | macOS | [store](https://www.raycast.com/mjking/area-code-search) |
 | [Zenblog](https://github.com/raycast/extensions/tree/main/extensions/zenblog) | 4 | A tiny blogging CMS | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zenblog) |
+| [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 0 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
