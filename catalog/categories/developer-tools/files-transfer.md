@@ -1,8 +1,8 @@
 # Files & Transfer
 
-25 extensions · [← Developer Tools](./README.md)
+26 extensions · [← Developer Tools](./README.md)
 
-[Clipboard ✦](#clipboard) (7) · [Finder ✦](#finder) (4) · [General](#general) (14)
+[Clipboard ✦](#clipboard) (8) · [Finder ✦](#finder) (4) · [General](#general) (14)
 
 *✦ auto-discovered topic group*
 
@@ -17,6 +17,7 @@
 | [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | 109 | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |
 | [South African Fake ID Number Generator](https://github.com/raycast/extensions/tree/main/extensions/za-fake-id-number-generator) | 31 | Quickly generate South African ID numbers for testing, this will create a valid fake ID number and copy it to your clipboard. | runningdeveloper | macOS, Windows | [store](https://www.raycast.com/runningdeveloper/za-fake-id-number-generator) |
 | [BlurHash](https://github.com/raycast/extensions/tree/main/extensions/blurhash) | 10 | Generate blurhash from clipboard content or Finder | Freaktion | macOS | [store](https://www.raycast.com/freaktion/blurhash) |
+| [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) | 0 | Create zero-knowledge, ephemeral p00f links from Raycast. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/p00f) |
 
 ## Finder ✦
 

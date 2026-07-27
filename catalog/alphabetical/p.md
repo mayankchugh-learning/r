@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-204 extensions · [← catalog index](../README.md)
+205 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -210,3 +210,4 @@
 | [Portal Wholesale](https://github.com/raycast/extensions/tree/main/extensions/portal-wholesale) | 4 | Search and manage Portal Wholesale brands | nickdichev | macOS | [store](https://www.raycast.com/nickdichev/portal-wholesale) |
 | [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) | 3 | Manages and shows uptime status for services using Phare.io | ApopeOS | macOS | [store](https://www.raycast.com/ApopeOS/phare-io-uptime) |
 | [Pixtuoid](https://github.com/raycast/extensions/tree/main/extensions/pixtuoid) | 1 | Manage which AI coding-agent CLIs feed your Pixtuoid office, and launch the floating window — without leaving Raycast. | IvanWng97 | macOS | [store](https://www.raycast.com/IvanWng97/pixtuoid) |
+| [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) | 0 | Create zero-knowledge, ephemeral p00f links from Raycast. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/p00f) |

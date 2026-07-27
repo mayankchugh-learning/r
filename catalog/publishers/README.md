@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,079,059 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,079,068 |
 | 2 | [raycast](./id/raycast.md) | 11 | 772,991 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,992 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,610 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 650,002 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,622 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 430,362 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 425,310 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,033 |
@@ -1545,8 +1545,8 @@
 | 1535 | [sevem](https://www.raycast.com/sevem) | 1 | 70 |
 | 1536 | [yuri](https://www.raycast.com/yuri) | 1 | 70 |
 | 1537 | [zoffyzhang](https://www.raycast.com/zoffyzhang) | 1 | 69 |
-| 1538 | [ariesly15](https://www.raycast.com/ariesly15) | 2 | 68 |
-| 1539 | [miguel_caetano_dias](https://www.raycast.com/miguel_caetano_dias) | 2 | 68 |
+| 1538 | [miguel_caetano_dias](https://www.raycast.com/miguel_caetano_dias) | 3 | 68 |
+| 1539 | [ariesly15](https://www.raycast.com/ariesly15) | 2 | 68 |
 | 1540 | [alon.hearter](https://www.raycast.com/alon.hearter) | 1 | 68 |
 | 1541 | [grafbase](https://www.raycast.com/grafbase) | 1 | 68 |
 | 1542 | [Pierrad](https://www.raycast.com/Pierrad) | 1 | 68 |

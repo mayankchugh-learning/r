@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "fa2ea06f6545e58d0357a6a9704b9dd8caa45af6",
-  "generatedAt": "2026-07-27T15:25:36.644Z",
-  "downloadsRefreshedAt": "2026-07-27T15:25:36.364Z",
-  "count": 3114,
+  "commit": "60e14d4e59140a68b7af265d9f75108875b204e8",
+  "generatedAt": "2026-07-27T15:37:32.910Z",
+  "downloadsRefreshedAt": "2026-07-27T15:37:32.621Z",
+  "count": 3115,
   "extensions": [
     {
       "dir": "0x0",
@@ -8899,7 +8899,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494237
+      "downloads": 494246
     },
     {
       "dir": "color-shades",
@@ -20166,7 +20166,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482610
+      "downloads": 482622
     },
     {
       "dir": "google-chrome-profiles",
@@ -26086,7 +26086,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649992
+      "downloads": 650002
     },
     {
       "dir": "kimai",
@@ -37167,6 +37167,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ozbargain-deals",
       "treeSha": "fdc455cda491f7fed1ab2ded748d370e8e66f579",
       "downloads": 38
+    },
+    {
+      "dir": "p00f",
+      "name": "p00f",
+      "title": "P00f - Ephemeral Clipboard",
+      "description": "Create zero-knowledge, ephemeral p00f links from Raycast.",
+      "author": "miguel_caetano_dias",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Security",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/miguel_caetano_dias/p00f",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/p00f",
+      "treeSha": "a230333b3c292e3dcf678b269976f496a7af82a9",
+      "downloads": 0
     },
     {
       "dir": "package-tracker",
