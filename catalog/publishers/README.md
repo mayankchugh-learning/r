@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,078,767 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,078,769 |
 | 2 | [raycast](./id/raycast.md) | 11 | 772,972 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,631 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,313 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,632 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,315 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 430,362 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 425,310 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,033 |
@@ -2061,12 +2061,12 @@
 | 2051 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 0 |
 | 2052 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
 | 2053 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2054 | [garon](https://www.raycast.com/garon) | 1 | 0 |
-| 2055 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
-| 2056 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2057 | [tessak22](https://www.raycast.com/tessak22) | 1 | 0 |
-| 2058 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 0 |
-| 2059 | github-next | 2 | — |
-| 2060 | Ethan_Cao | 1 | — |
+| 2054 | [Ethan_Cao](https://www.raycast.com/Ethan_Cao) | 1 | 0 |
+| 2055 | [garon](https://www.raycast.com/garon) | 1 | 0 |
+| 2056 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
+| 2057 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2058 | [tessak22](https://www.raycast.com/tessak22) | 1 | 0 |
+| 2059 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 0 |
+| 2060 | github-next | 2 | — |
 | 2061 | multi | 1 | — |
 | 2062 | sharat_visweswara | 1 | — |

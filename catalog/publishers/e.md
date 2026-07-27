@@ -64,7 +64,7 @@
 | [esteban03](https://www.raycast.com/esteban03) | 2 | 18 | **Media:** [AniMe](https://github.com/raycast/extensions/tree/main/extensions/raycast-anime)<br>**Developer Tools:** [RUT Generator](https://github.com/raycast/extensions/tree/main/extensions/rut-generator) |
 | [etay_alony](https://www.raycast.com/etay_alony) | 1 | 24 | **Developer Tools:** [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) |
 | [eth-p](https://www.raycast.com/eth-p) | 1 | 4,813 | **Developer Tools:** [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) |
-| Ethan_Cao | 1 | — | **Developer Tools:** [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) |
+| [Ethan_Cao](https://www.raycast.com/Ethan_Cao) | 1 | 0 | **Developer Tools:** [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) |
 | [ethananderstandable](https://www.raycast.com/ethananderstandable) | 1 | 7 | **Finance:** [PayPal Invoices](https://github.com/raycast/extensions/tree/main/extensions/paypal-invoices) |
 | [etheirystech](https://www.raycast.com/etheirystech) | 1 | 84 | **Developer Tools:** [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) |
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 25 | **Other:** [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |

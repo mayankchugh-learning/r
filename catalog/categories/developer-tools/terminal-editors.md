@@ -21,7 +21,7 @@
 | [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) | 94 | Control Tabby terminal with Raycast | chupi | macOS, Windows | [store](https://www.raycast.com/chupi/tabby) |
 | [Terminal Image Paste](https://github.com/raycast/extensions/tree/main/extensions/terminal-image-paste) | 54 | Paste clipboard image as a file path — works in any terminal, SSH session, or TUI app | iisweetheartii | macOS | [store](https://www.raycast.com/iisweetheartii/terminal-image-paste) |
 | [ShiftPlus](https://github.com/raycast/extensions/tree/main/extensions/shiftplus) | 41 | Switch your full project context — browser profiles, apps, terminal, windows — from Raycast. | nghia_luong | macOS | [store](https://www.raycast.com/nghia_luong/shiftplus) |
-| [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | — | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | — |
+| [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | 0 | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | [store](https://www.raycast.com/Ethan_Cao/otty) |
 
 ## Editor ✦
 

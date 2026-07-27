@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1368873929df919e177c4e3f6ee66acfeddf17a3",
-  "generatedAt": "2026-07-27T07:08:34.891Z",
-  "downloadsRefreshedAt": "2026-07-27T07:08:34.139Z",
+  "commit": "1f88a64ef9f6db2822f73794c19e82fe2eb18b17",
+  "generatedAt": "2026-07-27T07:11:22.346Z",
+  "downloadsRefreshedAt": "2026-07-27T07:11:21.649Z",
   "count": 3109,
   "extensions": [
     {
@@ -8838,7 +8838,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 493945
+      "downloads": 493947
     },
     {
       "dir": "color-shades",
@@ -20083,7 +20083,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482313
+      "downloads": 482315
     },
     {
       "dir": "google-chrome-profiles",
@@ -26002,7 +26002,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649631
+      "downloads": 649632
     },
     {
       "dir": "kimai",
@@ -36893,10 +36893,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/Ethan_Cao/otty",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/otty",
       "treeSha": "711dc29171ccfab5d63f932503c12abde70ae826",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "oura",
@@ -53830,12 +53830,13 @@
       "categories": [
         "Productivity"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/appest/ticktick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ticktick",
-      "treeSha": "56fc2182c1fcbbf84bf156219baa3872c5ae4c5b",
+      "treeSha": "6f9eec8bd06626e5e7740eb2b0432454aca4a4f4",
       "downloads": 21671
     },
     {

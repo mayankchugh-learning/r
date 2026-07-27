@@ -48,4 +48,4 @@
 | [WeChat DevTool](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool) | 32 | Quickly open WeChat mini program project via official CLI. | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/wechat-devtool) |
 | [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit) | 1 | Offline microphone dictation powered by the Kesha Voice Kit CLI. Records locally, transcribes locally, and copies text to your clipboard. | drakulavich | macOS | [store](https://www.raycast.com/drakulavich/kesha-voice-kit) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
-| [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | — | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | — |
+| [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | 0 | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | [store](https://www.raycast.com/Ethan_Cao/otty) |

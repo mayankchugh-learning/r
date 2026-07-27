@@ -113,4 +113,4 @@
 | [OlaCV](https://github.com/raycast/extensions/tree/main/extensions/olacv) | 7 | Manage Domains and Contacts in our OlaCV account | xmok | macOS | [store](https://www.raycast.com/xmok/olacv) |
 | [OpenSearch DevTools](https://github.com/raycast/extensions/tree/main/extensions/opensearch) | 7 | Query and manage OpenSearch clusters — API explorer, command presets, and search, keyboard-first. | itggood2420 | macOS, Windows | [store](https://www.raycast.com/itggood2420/opensearch) |
 | [Oh-Shoot](https://github.com/raycast/extensions/tree/main/extensions/oh-shoot) | 5 | Search your oh-shoot screenshots by their OCR text and jump straight back into the oh-shoot app. | nico_pergande | macOS | [store](https://www.raycast.com/nico_pergande/oh-shoot) |
-| [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | — | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | — |
+| [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | 0 | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | [store](https://www.raycast.com/Ethan_Cao/otty) |
