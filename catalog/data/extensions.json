@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b4dffdbeaceffc179f19a1d3f8f0011453ba7b5d",
-  "generatedAt": "2026-07-27T10:56:21.683Z",
-  "downloadsRefreshedAt": "2026-07-27T10:56:21.279Z",
+  "commit": "6452833636a971ec515fecd4bb441ec7c037821a",
+  "generatedAt": "2026-07-27T10:57:19.075Z",
+  "downloadsRefreshedAt": "2026-07-27T10:57:18.643Z",
   "count": 3113,
   "extensions": [
     {
@@ -53922,7 +53922,7 @@
       ],
       "store": "https://www.raycast.com/appest/ticktick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ticktick",
-      "treeSha": "6f9eec8bd06626e5e7740eb2b0432454aca4a4f4",
+      "treeSha": "70f0e19fdba426ab1f9fab841920bf1d69df4683",
       "downloads": 21671
     },
     {
