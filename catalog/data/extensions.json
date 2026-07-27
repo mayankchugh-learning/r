@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6452833636a971ec515fecd4bb441ec7c037821a",
-  "generatedAt": "2026-07-27T10:57:19.075Z",
-  "downloadsRefreshedAt": "2026-07-27T10:57:18.643Z",
+  "commit": "b6969a8c8dcf5a7a6ee35b635dcb8852185da6b5",
+  "generatedAt": "2026-07-27T11:14:49.884Z",
+  "downloadsRefreshedAt": "2026-07-27T11:14:49.313Z",
   "count": 3113,
   "extensions": [
     {
@@ -2160,7 +2160,7 @@
       "store": "https://www.raycast.com/davireisvieira/apple-container",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-container",
       "treeSha": "843fee02451162fd3956a168d629496c0a9ab15a",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "apple-developer-docs",
@@ -8899,7 +8899,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494074
+      "downloads": 494082
     },
     {
       "dir": "color-shades",
@@ -20166,7 +20166,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482444
+      "downloads": 482449
     },
     {
       "dir": "google-chrome-profiles",
@@ -26086,7 +26086,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649787
+      "downloads": 649798
     },
     {
       "dir": "kimai",
@@ -31834,13 +31834,14 @@
       "categories": [
         "Uncategorized"
       ],
+      "manifestCategorized": false,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "f5ac12b97d1596b8e462ba8dbe927f08f5db68c0",
-      "downloads": 35768
+      "treeSha": "93df2b8ba2d41b8d0a839addbb8029ea62dec999",
+      "downloads": 35787
     },
     {
       "dir": "models-dev",
@@ -53923,7 +53924,7 @@
       "store": "https://www.raycast.com/appest/ticktick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ticktick",
       "treeSha": "70f0e19fdba426ab1f9fab841920bf1d69df4683",
-      "downloads": 21671
+      "downloads": 21675
     },
     {
       "dir": "tidal",

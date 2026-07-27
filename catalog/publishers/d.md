@@ -56,7 +56,7 @@
 | [davidosull](https://www.raycast.com/davidosull) | 1 | 19 | **Finance:** [Easy Invoice](https://github.com/raycast/extensions/tree/main/extensions/easy-invoice) |
 | [DavidPascaud](https://www.raycast.com/DavidPascaud) | 1 | 2,036 | **Documentation:** [Searching Vue.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/vuejs-documentation) |
 | [davidyannick](https://www.raycast.com/davidyannick) | 1 | 141 | **Applications:** [Printer Status](https://github.com/raycast/extensions/tree/main/extensions/printer-status) |
-| [davireisvieira](https://www.raycast.com/davireisvieira) | 1 | 0 | **Developer Tools:** [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) |
+| [davireisvieira](https://www.raycast.com/davireisvieira) | 1 | 1 | **Developer Tools:** [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) |
 | [dax42](https://www.raycast.com/dax42) | 1 | 253 | **Productivity:** [Universal Inbox](https://github.com/raycast/extensions/tree/main/extensions/universal-inbox) |
 | [dch09](https://www.raycast.com/dch09) | 1 | 1,018 | **Applications:** [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) |
 | [DDDDesign](https://www.raycast.com/DDDDesign) | 1 | 723 | **Developer Tools:** [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) |
