@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-27 — upstream `a134dd2daa`
+
+**Updated (1):** [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd)
+
 ## 2026-07-27 — upstream `89d593f39a`
 
 **Added (1):** [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "89d593f39a3c99513b38eefa35d50c71eca9fa85",
-  "generatedAt": "2026-07-27T10:02:22.105Z",
-  "downloadsRefreshedAt": "2026-07-27T10:02:21.824Z",
+  "commit": "a134dd2daaa067644ad09d9d2eddc4eb5d974a70",
+  "generatedAt": "2026-07-27T10:26:47.393Z",
+  "downloadsRefreshedAt": "2026-07-27T10:26:46.506Z",
   "count": 3110,
   "extensions": [
     {
@@ -8858,7 +8858,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494043
+      "downloads": 494058
     },
     {
       "dir": "color-shades",
@@ -20104,7 +20104,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482418
+      "downloads": 482432
     },
     {
       "dir": "google-chrome-profiles",
@@ -26024,7 +26024,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649755
+      "downloads": 649770
     },
     {
       "dir": "kimai",
@@ -27562,14 +27562,15 @@
       "categories": [
         "Media"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS",
         "Windows"
       ],
       "store": "https://www.raycast.com/rafael_garcia/letterboxd",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/letterboxd",
-      "treeSha": "026be013cd3392143f7c1d74810964d9756d10a0",
-      "downloads": 1527
+      "treeSha": "dda63b7131e313b9be0569d67776b982f060cae6",
+      "downloads": 1528
     },
     {
       "dir": "lgtmeow",
