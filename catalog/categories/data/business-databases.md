@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Manage Firebase Firestore Collections](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) | 186 | Extension to export and import Firestore Collections (backup and restore). Including using Spark (free) subscription. | mguyard | macOS | [store](https://www.raycast.com/mguyard/firebase-import-export) |
 | [SEC Filings Search](https://github.com/raycast/extensions/tree/main/extensions/sec-filings-search) | 185 | An extension to search company SEC Filings and open in browser. Currently only 8-K and 10-K forms. | chewhx | macOS | [store](https://www.raycast.com/chewhx/sec-filings-search) |
-| [Manage Firebase Firestore Collections](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) | 184 | Extension to export and import Firestore Collections (backup and restore). Including using Spark (free) subscription. | mguyard | macOS | [store](https://www.raycast.com/mguyard/firebase-import-export) |
 | [dbt Cloud](https://github.com/raycast/extensions/tree/main/extensions/dbtCloud) | 167 | Helps you get information about your dbt Cloud jobs | zsombor-flds | macOS | [store](https://www.raycast.com/zsombor-flds/dbtcloud) |
 | [Clarify](https://github.com/raycast/extensions/tree/main/extensions/clarify) | 71 | Interact with Clarify CRM directly from your command bar | getclarify (org) | macOS | [store](https://www.raycast.com/getclarify/clarify) |
 | [Grist](https://github.com/raycast/extensions/tree/main/extensions/grist) | 55 | Spreadsheet Software to End Data Chaos | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/grist) |

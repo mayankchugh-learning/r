@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-27 — upstream `f4c965e107`
+
+**Removed (1):** Central Icon System
+
 ## 2026-07-27 — upstream `60e14d4e59`
 
 **Added (1):** [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f)
