@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-27 — upstream `e4093c5b2a`
+
+**Updated (1):** [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully)
+
 ## 2026-07-27 — upstream `6f1adec7dd`
 
 **Updated (1):** [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f)

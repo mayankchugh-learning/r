@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6f1adec7dd2736bf17f73cd59bd1e9fe86bf1abe",
-  "generatedAt": "2026-07-27T18:54:36.649Z",
-  "downloadsRefreshedAt": "2026-07-27T18:54:35.978Z",
+  "commit": "e4093c5b2abc025c79e3796db7174b3b52e28149",
+  "generatedAt": "2026-07-27T18:57:34.078Z",
+  "downloadsRefreshedAt": "2026-07-27T18:57:33.222Z",
   "count": 3114,
   "extensions": [
     {
@@ -26065,7 +26065,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650103
+      "downloads": 650104
     },
     {
       "dir": "kimai",
@@ -56081,12 +56081,13 @@
         "Productivity",
         "Web"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/typefully/typefully",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/typefully",
-      "treeSha": "6aec2584f604270d48d49f74e96da05a95c99c65",
+      "treeSha": "5e7f48de459cf0dcb8150ddbfd1dc79a72acabbf",
       "downloads": 1725
     },
     {
