@@ -1,6 +1,6 @@
 # Claude ✦
 
-7 extensions · [← AI & Assistants](./README.md)
+8 extensions · [← AI & Assistants](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -12,4 +12,5 @@
 | [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) | 500 | Quickly switch between different Claude Code configurations and manage provider profiles | lavatorywang | macOS | [store](https://www.raycast.com/lavatorywang/claude-code-config-switcher) |
 | [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | 104 | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/JSONbored/heyclaude) |
 | [Claude Session Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/claude-session-bookmarks) | 9 | Save and quickly open your Claude Code session links without keeping a pile of browser tabs around. | eaescob | macOS | [store](https://www.raycast.com/eaescob/claude-session-bookmarks) |
+| [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 0 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |

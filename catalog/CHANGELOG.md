@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-27 — upstream `89d593f39a`
+
+**Added (1):** [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts)
+
 ## 2026-07-27 — upstream `255514a8a3`
 
 **Updated (1):** [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon)

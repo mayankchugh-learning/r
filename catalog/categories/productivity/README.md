@@ -1,8 +1,8 @@
 # Productivity
 
-1402 extensions · [← all categories](../README.md)
+1403 extensions · [← all categories](../README.md)
 
-macOS: 1389 · Windows: 323
+macOS: 1390 · Windows: 323
 
 ## Organize & Plan
 
@@ -17,7 +17,7 @@ macOS: 1389 · Windows: 323
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants/README.md) | 119 |
+| [AI & Assistants](./ai-assistants/README.md) | 120 |
 | [Writing & Text Tools](./writing-text-tools.md) | 69 |
 | [Documents & Files](./documents-files.md) | 120 |
 | [Email](./email.md) | 22 |
