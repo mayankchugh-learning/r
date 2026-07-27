@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f4c965e1076c77c699c10d992c707f8ab3f648b6",
-  "generatedAt": "2026-07-27T17:42:42.127Z",
-  "downloadsRefreshedAt": "2026-07-27T17:42:41.211Z",
+  "commit": "6f1adec7dd2736bf17f73cd59bd1e9fe86bf1abe",
+  "generatedAt": "2026-07-27T18:54:36.649Z",
+  "downloadsRefreshedAt": "2026-07-27T18:54:35.978Z",
   "count": 3114,
   "extensions": [
     {
@@ -8878,7 +8878,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494303
+      "downloads": 494336
     },
     {
       "dir": "color-shades",
@@ -20145,7 +20145,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482675
+      "downloads": 482705
     },
     {
       "dir": "google-chrome-profiles",
@@ -26065,7 +26065,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650067
+      "downloads": 650103
     },
     {
       "dir": "kimai",
@@ -37165,8 +37165,8 @@
       ],
       "store": "https://www.raycast.com/miguel_caetano_dias/p00f",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/p00f",
-      "treeSha": "a230333b3c292e3dcf678b269976f496a7af82a9",
-      "downloads": 1
+      "treeSha": "e2adc7f05379d6b1d14105a3063c7bea78d8f9c6",
+      "downloads": 2
     },
     {
       "dir": "package-tracker",
@@ -44589,7 +44589,7 @@
       "store": "https://www.raycast.com/jaseem_ts/reflect-open",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/reflect-open",
       "treeSha": "f22df3b8f0cf51a67a728ae840a2c024eb7633e2",
-      "downloads": 1
+      "downloads": 2
     },
     {
       "dir": "refresh-browsers",

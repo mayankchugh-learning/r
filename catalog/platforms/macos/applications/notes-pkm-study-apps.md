@@ -34,4 +34,4 @@
 | [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) | 64 | Quick capture for Minttr - save notes and links instantly | zayn_harris_dev | macOS | [store](https://www.raycast.com/zayn_harris_dev/minttr) |
 | [Iridium](https://github.com/raycast/extensions/tree/main/extensions/iridium) | 55 | Search open tabs, bookmarks and history in Iridium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/iridium) |
 | [Accordance](https://github.com/raycast/extensions/tree/main/extensions/accordance) | 25 | Access verses and search Accordance Bible modules from Raycast | entupo | macOS | [store](https://www.raycast.com/entupo/accordance) |
-| [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 1 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
+| [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 2 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
