@@ -1,8 +1,8 @@
 # Windows · Design Tools
 
-41 extensions · [← Windows](../README.md)
+42 extensions · [← Windows](../README.md)
 
-[AI Generation](#ai-generation) (3) · [Colors & Palettes](#colors-palettes) (4) · [Icons & Assets](#icons-assets) (13) · [Fonts & Typography](#fonts-typography) (2) · [Design Apps & Whiteboards](#design-apps-whiteboards) (2) · [Screenshots & Mockups](#screenshots-mockups) (3) · [Art & Wallpapers](#art-wallpapers) (3) · [General](#general) (11)
+[AI Generation](#ai-generation) (3) · [Colors & Palettes](#colors-palettes) (4) · [Icons & Assets](#icons-assets) (14) · [Fonts & Typography](#fonts-typography) (2) · [Design Apps & Whiteboards](#design-apps-whiteboards) (2) · [Screenshots & Mockups](#screenshots-mockups) (3) · [Art & Wallpapers](#art-wallpapers) (3) · [General](#general) (11)
 
 ## Visual Elements
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 494,068 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 494,074 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,200 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 664 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 29 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
@@ -32,6 +32,7 @@
 | [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 295 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 12 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 6 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
+| [Central Icon System](https://github.com/raycast/extensions/tree/main/extensions/central-icon-system) | 0 | Search and use Central Icon System Iconography from Raycast | chrismessina | Windows, macOS | [store](https://www.raycast.com/chrismessina/central-icon-system) |
 
 ### Fonts & Typography
 

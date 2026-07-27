@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-27 — upstream `b4dffdbeac`
+
+**Added (1):** [Central Icon System](https://github.com/raycast/extensions/tree/main/extensions/central-icon-system)
+
 ## 2026-07-27 — upstream `73599f5b82`
 
 **Added (1):** [Glean Search](https://github.com/raycast/extensions/tree/main/extensions/glean-search)

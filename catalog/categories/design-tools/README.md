@@ -1,15 +1,15 @@
 # Design Tools
 
-150 extensions · [← all categories](../README.md)
+151 extensions · [← all categories](../README.md)
 
-macOS: 150 · Windows: 41
+macOS: 151 · Windows: 42
 
 ## Visual Elements
 
 | Topic | Extensions |
 | --- | --- |
 | [Colors & Palettes](./colors-palettes.md) | 21 |
-| [Icons & Assets](./icons-assets.md) | 34 |
+| [Icons & Assets](./icons-assets.md) | 35 |
 | [Fonts & Typography](./fonts-typography.md) | 5 |
 
 ## Create & Capture

@@ -1,6 +1,6 @@
 # Icons & Assets
 
-34 extensions · [← Design Tools](./README.md)
+35 extensions · [← Design Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -38,3 +38,4 @@
 | [Remix Icon](https://github.com/raycast/extensions/tree/main/extensions/remix-icon) | 113 | Search and browse icons from Remix Icon library | tristan_heinig | macOS | [store](https://www.raycast.com/tristan_heinig/remix-icon) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 12 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 6 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
+| [Central Icon System](https://github.com/raycast/extensions/tree/main/extensions/central-icon-system) | 0 | Search and use Central Icon System Iconography from Raycast | chrismessina | Windows, macOS | [store](https://www.raycast.com/chrismessina/central-icon-system) |
