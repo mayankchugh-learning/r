@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-73 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+74 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -64,6 +64,7 @@
 | [esteban03](https://www.raycast.com/esteban03) | 2 | 18 | **Media:** [AniMe](https://github.com/raycast/extensions/tree/main/extensions/raycast-anime)<br>**Developer Tools:** [RUT Generator](https://github.com/raycast/extensions/tree/main/extensions/rut-generator) |
 | [etay_alony](https://www.raycast.com/etay_alony) | 1 | 24 | **Developer Tools:** [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) |
 | [eth-p](https://www.raycast.com/eth-p) | 1 | 4,813 | **Developer Tools:** [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) |
+| Ethan_Cao | 1 | — | **Developer Tools:** [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) |
 | [ethananderstandable](https://www.raycast.com/ethananderstandable) | 1 | 7 | **Finance:** [PayPal Invoices](https://github.com/raycast/extensions/tree/main/extensions/paypal-invoices) |
 | [etheirystech](https://www.raycast.com/etheirystech) | 1 | 84 | **Developer Tools:** [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) |
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 25 | **Other:** [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |

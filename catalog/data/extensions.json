@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7042deb7b1fad10cd363212c4194110deb431853",
-  "generatedAt": "2026-07-27T06:43:36.258Z",
-  "downloadsRefreshedAt": "2026-07-27T06:43:35.683Z",
-  "count": 3108,
+  "commit": "1368873929df919e177c4e3f6ee66acfeddf17a3",
+  "generatedAt": "2026-07-27T07:08:34.891Z",
+  "downloadsRefreshedAt": "2026-07-27T07:08:34.139Z",
+  "count": 3109,
   "extensions": [
     {
       "dir": "0x0",
@@ -8838,7 +8838,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 493932
+      "downloads": 493945
     },
     {
       "dir": "color-shades",
@@ -20083,7 +20083,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482300
+      "downloads": 482313
     },
     {
       "dir": "google-chrome-profiles",
@@ -26002,7 +26002,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649615
+      "downloads": 649631
     },
     {
       "dir": "kimai",
@@ -36876,6 +36876,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ottomatic",
       "treeSha": "0bd1b45f88214fd38cd68b59952f3edf2d87c218",
       "downloads": 46
+    },
+    {
+      "dir": "otty",
+      "name": "otty",
+      "title": "Otty",
+      "description": "Control the Otty terminal from Raycast.",
+      "author": "Ethan_Cao",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/otty",
+      "treeSha": "711dc29171ccfab5d63f932503c12abde70ae826",
+      "downloads": null
     },
     {
       "dir": "oura",

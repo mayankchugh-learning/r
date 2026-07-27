@@ -1,6 +1,6 @@
 # Publishers
 
-2061 publishers · [← catalog index](../README.md)
+2062 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,078,754 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,078,767 |
 | 2 | [raycast](./id/raycast.md) | 11 | 772,972 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,615 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,300 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,631 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,313 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 430,362 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 425,310 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,033 |
@@ -2067,5 +2067,6 @@
 | 2057 | [tessak22](https://www.raycast.com/tessak22) | 1 | 0 |
 | 2058 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 0 |
 | 2059 | github-next | 2 | — |
-| 2060 | multi | 1 | — |
-| 2061 | sharat_visweswara | 1 | — |
+| 2060 | Ethan_Cao | 1 | — |
+| 2061 | multi | 1 | — |
+| 2062 | sharat_visweswara | 1 | — |

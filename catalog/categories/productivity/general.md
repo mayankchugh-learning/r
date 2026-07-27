@@ -1,6 +1,6 @@
 # General
 
-364 extensions · [← Productivity](./README.md)
+365 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -368,3 +368,4 @@
 | [Thermostats](https://github.com/raycast/extensions/tree/main/extensions/thermostats) | 1 | Control your thermostats inside Raycast via Seam | humanfriend22 | macOS | [store](https://www.raycast.com/humanfriend22/thermostats) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | — | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | — |
