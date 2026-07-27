@@ -1,6 +1,6 @@
 # Publishers
 
-2062 publishers · [← catalog index](../README.md)
+2063 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -383,7 +383,7 @@
 | 373 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 7 |
 | 374 | github-next | 2 | — |
 | 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,770 |
-| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 482,432 |
+| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 482,433 |
 | 377 | [linear](https://www.raycast.com/linear) | 1 | 333,584 |
 | 378 | [mommertf](https://www.raycast.com/mommertf) | 1 | 280,443 |
 | 379 | [nhojb](https://www.raycast.com/nhojb) | 1 | 252,263 |
@@ -2061,12 +2061,13 @@
 | 2051 | [sriket_komali](https://www.raycast.com/sriket_komali) | 1 | 1 |
 | 2052 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 0 |
 | 2053 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
-| 2054 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2055 | [Ethan_Cao](https://www.raycast.com/Ethan_Cao) | 1 | 0 |
-| 2056 | [garon](https://www.raycast.com/garon) | 1 | 0 |
-| 2057 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
-| 2058 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2059 | [tessak22](https://www.raycast.com/tessak22) | 1 | 0 |
-| 2060 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 0 |
-| 2061 | multi | 1 | — |
-| 2062 | sharat_visweswara | 1 | — |
+| 2054 | [davireisvieira](https://www.raycast.com/davireisvieira) | 1 | 0 |
+| 2055 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2056 | [Ethan_Cao](https://www.raycast.com/Ethan_Cao) | 1 | 0 |
+| 2057 | [garon](https://www.raycast.com/garon) | 1 | 0 |
+| 2058 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
+| 2059 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2060 | [tessak22](https://www.raycast.com/tessak22) | 1 | 0 |
+| 2061 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 0 |
+| 2062 | multi | 1 | — |
+| 2063 | sharat_visweswara | 1 | — |

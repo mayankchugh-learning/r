@@ -1,8 +1,8 @@
 # Developer Tools
 
-1068 extensions · [← all categories](../README.md)
+1069 extensions · [← all categories](../README.md)
 
-macOS: 1058 · Windows: 276
+macOS: 1059 · Windows: 276
 
 ## Code & Collaboration
 
@@ -18,7 +18,7 @@ macOS: 1058 · Windows: 276
 | Topic | Extensions |
 | --- | --- |
 | [CI/CD & DevOps](./ci-cd-devops.md) | 6 |
-| [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 86 |
+| [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 87 |
 | [Databases](./databases.md) | 13 |
 | [APIs & Networking](./apis-networking.md) | 55 |
 | [Monitoring & Logs](./monitoring-logs.md) | 25 |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-141 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+142 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -56,6 +56,7 @@
 | [davidosull](https://www.raycast.com/davidosull) | 1 | 19 | **Finance:** [Easy Invoice](https://github.com/raycast/extensions/tree/main/extensions/easy-invoice) |
 | [DavidPascaud](https://www.raycast.com/DavidPascaud) | 1 | 2,036 | **Documentation:** [Searching Vue.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/vuejs-documentation) |
 | [davidyannick](https://www.raycast.com/davidyannick) | 1 | 141 | **Applications:** [Printer Status](https://github.com/raycast/extensions/tree/main/extensions/printer-status) |
+| [davireisvieira](https://www.raycast.com/davireisvieira) | 1 | 0 | **Developer Tools:** [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) |
 | [dax42](https://www.raycast.com/dax42) | 1 | 253 | **Productivity:** [Universal Inbox](https://github.com/raycast/extensions/tree/main/extensions/universal-inbox) |
 | [dch09](https://www.raycast.com/dch09) | 1 | 1,018 | **Applications:** [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) |
 | [DDDDesign](https://www.raycast.com/DDDDesign) | 1 | 723 | **Developer Tools:** [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) |

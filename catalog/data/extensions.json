@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a134dd2daaa067644ad09d9d2eddc4eb5d974a70",
-  "generatedAt": "2026-07-27T10:26:47.393Z",
-  "downloadsRefreshedAt": "2026-07-27T10:26:46.506Z",
-  "count": 3110,
+  "commit": "61757cea3263290eaedc77f126887e97e0e86d81",
+  "generatedAt": "2026-07-27T10:28:23.609Z",
+  "downloadsRefreshedAt": "2026-07-27T10:28:23.213Z",
+  "count": 3111,
   "extensions": [
     {
       "dir": "0x0",
@@ -2141,6 +2141,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-books",
       "treeSha": "8a4733448042b15f7981b86c9087063fc4fc56a9",
       "downloads": 3723
+    },
+    {
+      "dir": "apple-container",
+      "name": "apple-container",
+      "title": "Apple Container",
+      "description": "Manage containers, images, and volumes created by Apple's open-source container CLI.",
+      "author": "davireisvieira",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/davireisvieira/apple-container",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-container",
+      "treeSha": "843fee02451162fd3956a168d629496c0a9ab15a",
+      "downloads": 0
     },
     {
       "dir": "apple-developer-docs",
@@ -20104,7 +20124,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482432
+      "downloads": 482433
     },
     {
       "dir": "google-chrome-profiles",
