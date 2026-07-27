@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0aab51bfb429eefaeb437fca9fbf70f974b9acf1",
-  "generatedAt": "2026-07-27T09:47:06.287Z",
-  "downloadsRefreshedAt": "2026-07-27T09:47:05.871Z",
+  "commit": "5b0b3507d931efbb0b2458505a07616cbcc0dcc2",
+  "generatedAt": "2026-07-27T09:48:19.946Z",
+  "downloadsRefreshedAt": "2026-07-27T09:48:19.077Z",
   "count": 3109,
   "extensions": [
     {
@@ -25755,12 +25755,13 @@
         "Productivity",
         "Developer Tools"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/drakulavich/kesha-voice-kit",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit",
-      "treeSha": "91702e6857b08d38722871af942495bbffd7ee37",
+      "treeSha": "da4a90b62343ef103c9d7b9dad2061f05962b9c7",
       "downloads": 1
     },
     {
@@ -26002,7 +26003,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649741
+      "downloads": 649742
     },
     {
       "dir": "kimai",

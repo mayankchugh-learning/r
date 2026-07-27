@@ -382,7 +382,7 @@
 | 372 | [esteban03](https://www.raycast.com/esteban03) | 2 | 18 |
 | 373 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 7 |
 | 374 | github-next | 2 | — |
-| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,741 |
+| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,742 |
 | 376 | [Codely](https://www.raycast.com/Codely) | 1 | 482,408 |
 | 377 | [linear](https://www.raycast.com/linear) | 1 | 333,584 |
 | 378 | [mommertf](https://www.raycast.com/mommertf) | 1 | 280,443 |
