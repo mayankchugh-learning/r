@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-27 — upstream `fa2ea06f65`
+
+**Updated (1):** [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget)
+
 ## 2026-07-27 — upstream `3d9a18ad2c`
 
 **Added (1):** [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open)
