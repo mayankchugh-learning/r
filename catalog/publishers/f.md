@@ -2,13 +2,14 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-74 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+75 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [fab_uleuh](https://www.raycast.com/fab_uleuh) | 1 | 300 | **System:** [Keyboard Win Mac Switch](https://github.com/raycast/extensions/tree/main/extensions/keyboard-win-mac-switch) |
 | [facundo_prieto](https://www.raycast.com/facundo_prieto) | 1 | 1,032 | **Productivity:** [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) |
 | [fahl](https://www.raycast.com/fahl) | 1 | 652 | **Productivity:** [Rsync Commands](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) |
+| [faizhasim](https://www.raycast.com/faizhasim) | 1 | 0 | **Productivity:** [Glean Search](https://github.com/raycast/extensions/tree/main/extensions/glean-search) |
 | [fakerr](https://www.raycast.com/fakerr) | 1 | 55 | **Media:** [Scrapbook](https://github.com/raycast/extensions/tree/main/extensions/scrapbook) |
 | [Falcon](https://www.raycast.com/Falcon) | 2 | 9,902 | **Developer Tools:** [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws)<br>**Finance:** [Monse - Banking In Raycast](https://github.com/raycast/extensions/tree/main/extensions/monse) |
 | [fangbaiyu](https://www.raycast.com/fangbaiyu) | 1 | 16 | **Productivity:** [GetNote](https://github.com/raycast/extensions/tree/main/extensions/get-note) |

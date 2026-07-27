@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "61757cea3263290eaedc77f126887e97e0e86d81",
-  "generatedAt": "2026-07-27T10:28:23.609Z",
-  "downloadsRefreshedAt": "2026-07-27T10:28:23.213Z",
-  "count": 3111,
+  "commit": "73599f5b8206dd1508c4ceb49146654a91ed50da",
+  "generatedAt": "2026-07-27T10:49:21.194Z",
+  "downloadsRefreshedAt": "2026-07-27T10:49:20.804Z",
+  "count": 3112,
   "extensions": [
     {
       "dir": "0x0",
@@ -8878,7 +8878,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494058
+      "downloads": 494068
     },
     {
       "dir": "color-shades",
@@ -19692,6 +19692,27 @@
       "downloads": 85
     },
     {
+      "dir": "glean-search",
+      "name": "glean-search",
+      "title": "Glean Search",
+      "description": "Search your company's knowledge base via Glean",
+      "author": "faizhasim",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/faizhasim/glean-search",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/glean-search",
+      "treeSha": "ba7e4150eb6e742ac83e8b52b0a891e0baaf6b4b",
+      "downloads": 0
+    },
+    {
       "dir": "gles-to-malioc",
       "name": "gles-to-malioc",
       "title": "GLES to MaliOC",
@@ -20124,7 +20145,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482433
+      "downloads": 482442
     },
     {
       "dir": "google-chrome-profiles",
@@ -26044,7 +26065,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649770
+      "downloads": 649783
     },
     {
       "dir": "kimai",

@@ -1,6 +1,6 @@
 # Publishers
 
-2063 publishers · [← catalog index](../README.md)
+2064 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 147,775 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,174 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,690 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,078,880 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,078,890 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 295,310 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,665 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 401,033 |
@@ -382,8 +382,8 @@
 | 372 | [esteban03](https://www.raycast.com/esteban03) | 2 | 18 |
 | 373 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 7 |
 | 374 | github-next | 2 | — |
-| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,770 |
-| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 482,433 |
+| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,783 |
+| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 482,442 |
 | 377 | [linear](https://www.raycast.com/linear) | 1 | 333,584 |
 | 378 | [mommertf](https://www.raycast.com/mommertf) | 1 | 280,443 |
 | 379 | [nhojb](https://www.raycast.com/nhojb) | 1 | 252,263 |
@@ -2064,10 +2064,11 @@
 | 2054 | [davireisvieira](https://www.raycast.com/davireisvieira) | 1 | 0 |
 | 2055 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2056 | [Ethan_Cao](https://www.raycast.com/Ethan_Cao) | 1 | 0 |
-| 2057 | [garon](https://www.raycast.com/garon) | 1 | 0 |
-| 2058 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
-| 2059 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2060 | [tessak22](https://www.raycast.com/tessak22) | 1 | 0 |
-| 2061 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 0 |
-| 2062 | multi | 1 | — |
-| 2063 | sharat_visweswara | 1 | — |
+| 2057 | [faizhasim](https://www.raycast.com/faizhasim) | 1 | 0 |
+| 2058 | [garon](https://www.raycast.com/garon) | 1 | 0 |
+| 2059 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
+| 2060 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2061 | [tessak22](https://www.raycast.com/tessak22) | 1 | 0 |
+| 2062 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 0 |
+| 2063 | multi | 1 | — |
+| 2064 | sharat_visweswara | 1 | — |

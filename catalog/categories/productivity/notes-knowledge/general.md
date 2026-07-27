@@ -1,6 +1,6 @@
 # General
 
-8 extensions · [← Notes & Knowledge](./README.md)
+9 extensions · [← Notes & Knowledge](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -12,3 +12,4 @@
 | [OSRS Wiki](https://github.com/raycast/extensions/tree/main/extensions/osrs-wiki) | 72 | Queries the OSRS Wiki and returns links to relevant articles. | luizkc | macOS | [store](https://www.raycast.com/luizkc/osrs-wiki) |
 | [Done Bear](https://github.com/raycast/extensions/tree/main/extensions/done-bear) | 7 | Search and manage your Done Bear tasks from Raycast | mblode | macOS | [store](https://www.raycast.com/mblode/done-bear) |
 | [Vaulted — Secure Secret Sharing](https://github.com/raycast/extensions/tree/main/extensions/vaulted) | 5 | Zero-knowledge encrypted, self-destructing secret links from your launcher. | maxim_novak | macOS | [store](https://www.raycast.com/maxim_novak/vaulted) |
+| [Glean Search](https://github.com/raycast/extensions/tree/main/extensions/glean-search) | 0 | Search your company's knowledge base via Glean | faizhasim | macOS | [store](https://www.raycast.com/faizhasim/glean-search) |
