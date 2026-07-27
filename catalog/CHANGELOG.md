@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-27 — upstream `255514a8a3`
+
+**Updated (1):** [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon)
+
 ## 2026-07-27 — upstream `5b0b3507d9`
 
 **Updated (1):** [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5b0b3507d931efbb0b2458505a07616cbcc0dcc2",
-  "generatedAt": "2026-07-27T09:48:19.946Z",
-  "downloadsRefreshedAt": "2026-07-27T09:48:19.077Z",
+  "commit": "255514a8a3dbe9c4a0bc4978956100023f0e7a77",
+  "generatedAt": "2026-07-27T10:00:21.788Z",
+  "downloadsRefreshedAt": "2026-07-27T10:00:20.914Z",
   "count": 3109,
   "extensions": [
     {
@@ -8838,7 +8838,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494035
+      "downloads": 494041
     },
     {
       "dir": "color-shades",
@@ -18581,12 +18581,13 @@
         "Design Tools",
         "Developer Tools"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/chrismessina/get-app-icon",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/get-app-icon",
-      "treeSha": "20ac969596233b7354a4ff4151af432f98a02b75",
+      "treeSha": "75bff183cc6909f0ccaacda0bfd27cbbe2a98997",
       "downloads": 149
     },
     {
@@ -20083,7 +20084,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482408
+      "downloads": 482417
     },
     {
       "dir": "google-chrome-profiles",
@@ -26003,7 +26004,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649742
+      "downloads": 649752
     },
     {
       "dir": "kimai",
