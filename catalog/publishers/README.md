@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,078,769 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,078,857 |
 | 2 | [raycast](./id/raycast.md) | 11 | 772,972 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,632 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,315 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,741 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 482,408 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 430,362 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 425,310 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,033 |
@@ -963,7 +963,7 @@
 | 953 | [k41531](https://www.raycast.com/k41531) | 1 | 376 |
 | 954 | [kylinwowo](https://www.raycast.com/kylinwowo) | 3 | 373 |
 | 955 | [kayla](https://www.raycast.com/kayla) | 1 | 369 |
-| 956 | [jesper_sjoberg](https://www.raycast.com/jesper_sjoberg) | 1 | 364 |
+| 956 | [jesper_sjoberg](https://www.raycast.com/jesper_sjoberg) | 1 | 365 |
 | 957 | [Synacek](https://www.raycast.com/Synacek) | 1 | 364 |
 | 958 | [tiagomichaelsousa](https://www.raycast.com/tiagomichaelsousa) | 1 | 363 |
 | 959 | [valenradovich](https://www.raycast.com/valenradovich) | 1 | 362 |
@@ -1277,10 +1277,10 @@
 | 1267 | [ruiaureliano](https://www.raycast.com/ruiaureliano) | 1 | 156 |
 | 1268 | [akhilesh_dalvi](https://www.raycast.com/akhilesh_dalvi) | 1 | 155 |
 | 1269 | [chase_manning](https://www.raycast.com/chase_manning) | 1 | 155 |
-| 1270 | [damian_zachwieja](https://www.raycast.com/damian_zachwieja) | 2 | 154 |
-| 1271 | [ciko](https://www.raycast.com/ciko) | 1 | 154 |
-| 1272 | [dillionverma](https://www.raycast.com/dillionverma) | 1 | 154 |
-| 1273 | [tsui_river](https://www.raycast.com/tsui_river) | 1 | 154 |
+| 1270 | [tsui_river](https://www.raycast.com/tsui_river) | 1 | 155 |
+| 1271 | [damian_zachwieja](https://www.raycast.com/damian_zachwieja) | 2 | 154 |
+| 1272 | [ciko](https://www.raycast.com/ciko) | 1 | 154 |
+| 1273 | [dillionverma](https://www.raycast.com/dillionverma) | 1 | 154 |
 | 1274 | [orangelckc](https://www.raycast.com/orangelckc) | 1 | 153 |
 | 1275 | [kusthi](https://www.raycast.com/kusthi) | 1 | 152 |
 | 1276 | [RhysLees](https://www.raycast.com/RhysLees) | 1 | 152 |

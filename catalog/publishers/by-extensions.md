@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 147,775 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,174 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,690 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,078,769 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,078,857 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 295,310 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,665 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 401,033 |
@@ -382,8 +382,8 @@
 | 372 | [esteban03](https://www.raycast.com/esteban03) | 2 | 18 |
 | 373 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 7 |
 | 374 | github-next | 2 | — |
-| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,632 |
-| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 482,315 |
+| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 649,741 |
+| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 482,408 |
 | 377 | [linear](https://www.raycast.com/linear) | 1 | 333,584 |
 | 378 | [mommertf](https://www.raycast.com/mommertf) | 1 | 280,443 |
 | 379 | [nhojb](https://www.raycast.com/nhojb) | 1 | 252,263 |
@@ -1037,7 +1037,7 @@
 | 1027 | [jimluo](https://www.raycast.com/jimluo) | 1 | 376 |
 | 1028 | [k41531](https://www.raycast.com/k41531) | 1 | 376 |
 | 1029 | [kayla](https://www.raycast.com/kayla) | 1 | 369 |
-| 1030 | [jesper_sjoberg](https://www.raycast.com/jesper_sjoberg) | 1 | 364 |
+| 1030 | [jesper_sjoberg](https://www.raycast.com/jesper_sjoberg) | 1 | 365 |
 | 1031 | [Synacek](https://www.raycast.com/Synacek) | 1 | 364 |
 | 1032 | [tiagomichaelsousa](https://www.raycast.com/tiagomichaelsousa) | 1 | 363 |
 | 1033 | [valenradovich](https://www.raycast.com/valenradovich) | 1 | 362 |
@@ -1310,9 +1310,9 @@
 | 1300 | [ruiaureliano](https://www.raycast.com/ruiaureliano) | 1 | 156 |
 | 1301 | [akhilesh_dalvi](https://www.raycast.com/akhilesh_dalvi) | 1 | 155 |
 | 1302 | [chase_manning](https://www.raycast.com/chase_manning) | 1 | 155 |
-| 1303 | [ciko](https://www.raycast.com/ciko) | 1 | 154 |
-| 1304 | [dillionverma](https://www.raycast.com/dillionverma) | 1 | 154 |
-| 1305 | [tsui_river](https://www.raycast.com/tsui_river) | 1 | 154 |
+| 1303 | [tsui_river](https://www.raycast.com/tsui_river) | 1 | 155 |
+| 1304 | [ciko](https://www.raycast.com/ciko) | 1 | 154 |
+| 1305 | [dillionverma](https://www.raycast.com/dillionverma) | 1 | 154 |
 | 1306 | [orangelckc](https://www.raycast.com/orangelckc) | 1 | 153 |
 | 1307 | [kusthi](https://www.raycast.com/kusthi) | 1 | 152 |
 | 1308 | [RhysLees](https://www.raycast.com/RhysLees) | 1 | 152 |

@@ -116,7 +116,7 @@
 | [Twingate](https://github.com/raycast/extensions/tree/main/extensions/twingate) | 172 | Access your Twingate resources directly from Raycast | guy_scher | macOS | [store](https://www.raycast.com/guy_scher/twingate) |
 | [Tembo](https://github.com/raycast/extensions/tree/main/extensions/tembo) | 167 | Tembo Raycast Extension for task management and creation | tembo | macOS | [store](https://www.raycast.com/tembo/tembo) |
 | [Tny](https://github.com/raycast/extensions/tree/main/extensions/tny) | 163 | Shorten links with Tny by Chief Tools. | stayallive | macOS | [store](https://www.raycast.com/stayallive/tny) |
-| [Tarot](https://github.com/raycast/extensions/tree/main/extensions/tarot) | 154 | Draw cards from a virtual tarot deck. | tsui_river | macOS | [store](https://www.raycast.com/tsui_river/tarot) |
+| [Tarot](https://github.com/raycast/extensions/tree/main/extensions/tarot) | 155 | Draw cards from a virtual tarot deck. | tsui_river | macOS | [store](https://www.raycast.com/tsui_river/tarot) |
 | [Tynyfy - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/tynyfy) | 152 | Shortens your boring long URLs | kusthi | macOS | [store](https://www.raycast.com/kusthi/tynyfy) |
 | [Time Addition Calculator](https://github.com/raycast/extensions/tree/main/extensions/time-calculator) | 151 | Calculate total hours from multiple time entries supporting both HH:MM and decimal formats | marc.cinema | macOS | [store](https://www.raycast.com/marc.cinema/time-calculator) |
 | [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 150 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |

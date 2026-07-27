@@ -41,7 +41,7 @@
 | [JensAstrup](https://www.raycast.com/JensAstrup) | 1 | 32 | **Documentation:** [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) |
 | [jergensturdley](https://www.raycast.com/jergensturdley) | 1 | 63 | **Uncategorized:** [RG AdGuard Links](https://github.com/raycast/extensions/tree/main/extensions/rg-adguard-links) |
 | [jerome_soyer](https://www.raycast.com/jerome_soyer) | 1 | 209 | **Applications:** [Kitty](https://github.com/raycast/extensions/tree/main/extensions/kitty) |
-| [jesper_sjoberg](https://www.raycast.com/jesper_sjoberg) | 1 | 364 | **Productivity:** [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) |
+| [jesper_sjoberg](https://www.raycast.com/jesper_sjoberg) | 1 | 365 | **Productivity:** [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) |
 | [jetaix](https://www.raycast.com/jetaix) | 1 | 126 | **Finance:** [Finary](https://github.com/raycast/extensions/tree/main/extensions/finary) |
 | [jffrykkn](https://www.raycast.com/jffrykkn) | 1 | 10,052 | **Design Tools:** [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) |
 | [jfox](https://www.raycast.com/jfox) | 2 | 79 | **Productivity:** [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone), [Nibit](https://github.com/raycast/extensions/tree/main/extensions/nibit) |

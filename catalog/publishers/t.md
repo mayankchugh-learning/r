@@ -62,7 +62,7 @@
 | [thijsdewitt](https://www.raycast.com/thijsdewitt) | 1 | 143 | **Developer Tools:** [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) |
 | [third774](https://www.raycast.com/third774) | 3 | 60,646 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,382 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,078,769 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,078,857 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 36 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 55,079 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,268 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
@@ -111,7 +111,7 @@
 | [trungnghiatn](https://www.raycast.com/trungnghiatn) | 1 | 874 | **Productivity:** [Get Direct Link](https://github.com/raycast/extensions/tree/main/extensions/get-direct-link) |
 | [tsibog](https://www.raycast.com/tsibog) | 1 | 78 | **Communication:** [Translit](https://github.com/raycast/extensions/tree/main/extensions/translit) |
 | [tssujt](https://www.raycast.com/tssujt) | 1 | 106 | **Developer Tools:** [MongoDB ObjectId](https://github.com/raycast/extensions/tree/main/extensions/mongodb-objectid) |
-| [tsui_river](https://www.raycast.com/tsui_river) | 1 | 154 | **Fun:** [Tarot](https://github.com/raycast/extensions/tree/main/extensions/tarot) |
+| [tsui_river](https://www.raycast.com/tsui_river) | 1 | 155 | **Fun:** [Tarot](https://github.com/raycast/extensions/tree/main/extensions/tarot) |
 | [tuki0918](https://www.raycast.com/tuki0918) | 2 | 120 | **Security:** [Image Shield](https://github.com/raycast/extensions/tree/main/extensions/image-shield)<br>**Developer Tools:** [Git Profile](https://github.com/raycast/extensions/tree/main/extensions/git-profile) |
 | [tung-dang](https://www.raycast.com/tung-dang) | 1 | 192 | **Productivity:** [Manage Monorepo Projects/Workspaces](https://github.com/raycast/extensions/tree/main/extensions/monorepo-manager) |
 | [TuorTheBlessed](https://www.raycast.com/TuorTheBlessed) | 1 | 502 | **Productivity:** [RescueTime](https://github.com/raycast/extensions/tree/main/extensions/rescuetime-focus-session-trigger) |

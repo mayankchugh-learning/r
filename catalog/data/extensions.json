@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1f88a64ef9f6db2822f73794c19e82fe2eb18b17",
-  "generatedAt": "2026-07-27T07:11:22.346Z",
-  "downloadsRefreshedAt": "2026-07-27T07:11:21.649Z",
+  "commit": "0aab51bfb429eefaeb437fca9fbf70f974b9acf1",
+  "generatedAt": "2026-07-27T09:47:06.287Z",
+  "downloadsRefreshedAt": "2026-07-27T09:47:05.871Z",
   "count": 3109,
   "extensions": [
     {
@@ -8838,7 +8838,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 493947
+      "downloads": 494035
     },
     {
       "dir": "color-shades",
@@ -20083,7 +20083,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482315
+      "downloads": 482408
     },
     {
       "dir": "google-chrome-profiles",
@@ -26002,7 +26002,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 649632
+      "downloads": 649741
     },
     {
       "dir": "kimai",
@@ -30246,14 +30246,15 @@
         "Data",
         "System"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS",
         "Windows"
       ],
       "store": "https://www.raycast.com/jesper_sjoberg/math-functions",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/math-functions",
-      "treeSha": "3c9bfb10a02313f604c7c9e89b1b4f107d33bea6",
-      "downloads": 364
+      "treeSha": "841cbeee692ada4b8d5b19d53f0e1fd88322964f",
+      "downloads": 365
     },
     {
       "dir": "matter",
@@ -52577,7 +52578,7 @@
       "store": "https://www.raycast.com/tsui_river/tarot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tarot",
       "treeSha": "5766390867342fca68a1233363c3c38018c9b56a",
-      "downloads": 154
+      "downloads": 155
     },
     {
       "dir": "tasklink",
