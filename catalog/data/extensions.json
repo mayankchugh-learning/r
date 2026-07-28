@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5f6b4d1087671df576eca3fea6fd9cc0518a81de",
-  "generatedAt": "2026-07-28T15:10:35.247Z",
-  "downloadsRefreshedAt": "2026-07-28T15:10:34.863Z",
-  "count": 3118,
+  "commit": "0471aeed1e3c4a458202b190c985940169472595",
+  "generatedAt": "2026-07-28T15:36:42.022Z",
+  "downloadsRefreshedAt": "2026-07-28T15:36:41.626Z",
+  "count": 3119,
   "extensions": [
     {
       "dir": "0x0",
@@ -8879,7 +8879,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494915
+      "downloads": 494938
     },
     {
       "dir": "color-shades",
@@ -20168,7 +20168,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483304
+      "downloads": 483319
     },
     {
       "dir": "google-chrome-profiles",
@@ -26089,7 +26089,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650771
+      "downloads": 650791
     },
     {
       "dir": "kimai",
@@ -33433,6 +33433,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nepali-date-converter",
       "treeSha": "be79311d64e7e794e86abefb99c089161b605c6b",
       "downloads": 27
+    },
+    {
+      "dir": "nepali-typing",
+      "name": "nepali-typing",
+      "title": "Nepali Typing",
+      "description": "Convert romanized Nepali to Devanagari and paste it anywhere.",
+      "author": "viper_x",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/nepali-typing",
+      "treeSha": "884aa6934b368797f712a6907f6fd27812b8dbba",
+      "downloads": null
     },
     {
       "dir": "nerd-font-picker",

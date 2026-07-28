@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `0471aeed1e`
+
+**Added (1):** [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing)
+
 ## 2026-07-28 — upstream `5f6b4d1087`
 
 **Added (1):** [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder)
