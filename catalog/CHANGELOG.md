@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `903afaadea`
+
+**Updated (1):** [DevDocs](https://github.com/raycast/extensions/tree/main/extensions/devdocs)
+
 ## 2026-07-28 — upstream `0796e31f7c`
 
 **Updated (1):** [Claude Code Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage)

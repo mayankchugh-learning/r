@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0796e31f7c551a8ba735da947a37c2778186af2d",
-  "generatedAt": "2026-07-28T07:44:32.563Z",
-  "downloadsRefreshedAt": "2026-07-28T07:44:32.025Z",
+  "commit": "903afaadea33ae6397e805f855fbd6fd6607240b",
+  "generatedAt": "2026-07-28T07:48:22.427Z",
+  "downloadsRefreshedAt": "2026-07-28T07:48:21.585Z",
   "count": 3114,
   "extensions": [
     {
@@ -12269,13 +12269,14 @@
       "categories": [
         "Documentation"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS",
         "Windows"
       ],
       "store": "https://www.raycast.com/djpowers/devdocs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/devdocs",
-      "treeSha": "6a505ab0ced6d9271831c813c7321245379f69cb",
+      "treeSha": "d666c21e305f475366ff111d275c48eba8fc24db",
       "downloads": 8070
     },
     {
@@ -20146,7 +20147,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483013
+      "downloads": 483015
     },
     {
       "dir": "google-chrome-profiles",
@@ -26066,7 +26067,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650455
+      "downloads": 650456
     },
     {
       "dir": "kimai",
