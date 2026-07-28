@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f8edff0de6c16dfe9c0cf0329a71a1e125d751f0",
-  "generatedAt": "2026-07-28T18:39:42.503Z",
-  "downloadsRefreshedAt": "2026-07-28T18:39:41.484Z",
+  "commit": "0667f4659f63bed49afcdf63fbc8d72cd5eb589e",
+  "generatedAt": "2026-07-28T18:45:23.450Z",
+  "downloadsRefreshedAt": "2026-07-28T18:45:21.527Z",
   "count": 3124,
   "extensions": [
     {
@@ -548,18 +548,19 @@
       "description": "Aerospace Tiling Window Manager Extension for Raycast",
       "author": "limonkufu",
       "owner": null,
-      "contributors": 6,
+      "contributors": 7,
       "categories": [
         "Productivity",
         "Applications",
         "System"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/limonkufu/aerospace",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/aerospace",
-      "treeSha": "578f5cd76d3f47811b2aa1f11ebbc5b769ba1c3e",
+      "treeSha": "2e52a87be6355fb29d565bd5135db5745797fdc1",
       "downloads": 14521
     },
     {
@@ -8899,7 +8900,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 495028
+      "downloads": 495030
     },
     {
       "dir": "color-shades",
@@ -20232,7 +20233,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483417
+      "downloads": 483420
     },
     {
       "dir": "google-chrome-profiles",
@@ -26153,7 +26154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650892
+      "downloads": 650894
     },
     {
       "dir": "kimai",

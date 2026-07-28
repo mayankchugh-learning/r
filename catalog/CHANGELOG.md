@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `0667f4659f`
+
+**Updated (1):** [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace)
+
 ## 2026-07-28 — upstream `f8edff0de6`
 
 **Updated (1):** [Twenty](https://github.com/raycast/extensions/tree/main/extensions/twenty)
