@@ -1,6 +1,6 @@
 # Publishers
 
-2073 publishers · [← catalog index](../README.md)
+2074 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,080,666 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,080,675 |
 | 2 | [raycast](./id/raycast.md) | 11 | 773,969 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 650,862 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 483,391 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 650,868 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 483,396 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 430,978 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 425,934 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,408 |
@@ -2067,17 +2067,18 @@
 | 2057 | [tessak22](https://www.raycast.com/tessak22) | 1 | 1 |
 | 2058 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 1 |
 | 2059 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
-| 2060 | [alexminator1999](https://www.raycast.com/alexminator1999) | 1 | 0 |
-| 2061 | [drumst0ck](https://www.raycast.com/drumst0ck) | 1 | 0 |
-| 2062 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2063 | [faizhasim](https://www.raycast.com/faizhasim) | 1 | 0 |
-| 2064 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
-| 2065 | [robinradx](https://www.raycast.com/robinradx) | 1 | 0 |
-| 2066 | [sezai_c](https://www.raycast.com/sezai_c) | 1 | 0 |
-| 2067 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2068 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2069 | [yusoufu](https://www.raycast.com/yusoufu) | 1 | 0 |
-| 2070 | github-next | 2 | — |
-| 2071 | akshit_mehta | 1 | — |
-| 2072 | multi | 1 | — |
-| 2073 | sharat_visweswara | 1 | — |
+| 2060 | [akshit_mehta](https://www.raycast.com/akshit_mehta) | 1 | 0 |
+| 2061 | [alexminator1999](https://www.raycast.com/alexminator1999) | 1 | 0 |
+| 2062 | [drumst0ck](https://www.raycast.com/drumst0ck) | 1 | 0 |
+| 2063 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2064 | [faizhasim](https://www.raycast.com/faizhasim) | 1 | 0 |
+| 2065 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
+| 2066 | [robinradx](https://www.raycast.com/robinradx) | 1 | 0 |
+| 2067 | [sezai_c](https://www.raycast.com/sezai_c) | 1 | 0 |
+| 2068 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2069 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2070 | [yusoufu](https://www.raycast.com/yusoufu) | 1 | 0 |
+| 2071 | github-next | 2 | — |
+| 2072 | camille_maurel | 1 | — |
+| 2073 | multi | 1 | — |
+| 2074 | sharat_visweswara | 1 | — |

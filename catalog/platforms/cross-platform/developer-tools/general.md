@@ -2,11 +2,11 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · **General**
 
-50 of 269 extensions · [← Cross-platform · Developer Tools](./README.md)
+51 of 270 extensions · [← Cross-platform · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 650,862 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 650,868 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 157,784 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,108 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,257 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -56,3 +56,4 @@
 | [RUT Generator](https://github.com/raycast/extensions/tree/main/extensions/rut-generator) | 3 | Generate valid Chilean RUTs for development and testing. | esteban03 | macOS, Windows | [store](https://www.raycast.com/esteban03/rut-generator) |
 | [Bouncer Email Verifier](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 2 | Verify email deliverability with Bouncer from Raycast | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
 | [Tabstack](https://github.com/raycast/extensions/tree/main/extensions/tabstack) | 1 | Read, research, and act on the web from your keyboard. Powered by Tabstack. | tessak22 | macOS, Windows | [store](https://www.raycast.com/tessak22/tabstack) |
+| [Downdetector](https://github.com/raycast/extensions/tree/main/extensions/downdetector) | — | Instantly check if any service is down, see 24h report charts, and report problems — powered by Downdetector. | camille_maurel | macOS, Windows | — |

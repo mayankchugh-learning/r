@@ -138,4 +138,4 @@
 | [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 2 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
 | [From](https://github.com/raycast/extensions/tree/main/extensions/from) | 2 | Capture thoughts, search your notes and open your daily note in From — the outliner that understands what you write, so capture stays frictionless and fast. | alberto_lezaun | macOS | [store](https://www.raycast.com/alberto_lezaun/from) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | — | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | — |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 0 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |

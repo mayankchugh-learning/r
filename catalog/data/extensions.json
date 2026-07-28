@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3045e1ad5cbfd25ce647e9bc8f289aeefce16e5c",
-  "generatedAt": "2026-07-28T18:01:28.474Z",
-  "downloadsRefreshedAt": "2026-07-28T18:01:27.811Z",
-  "count": 3123,
+  "commit": "71291494834d3c6e891d80e71072d7703dc689d8",
+  "generatedAt": "2026-07-28T18:06:25.190Z",
+  "downloadsRefreshedAt": "2026-07-28T18:06:24.255Z",
+  "count": 3124,
   "extensions": [
     {
       "dir": "0x0",
@@ -8899,7 +8899,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 495002
+      "downloads": 495011
     },
     {
       "dir": "color-shades",
@@ -13858,6 +13858,28 @@
       "downloads": 27
     },
     {
+      "dir": "downdetector",
+      "name": "downdetector",
+      "title": "Downdetector",
+      "description": "Instantly check if any service is down, see 24h report charts, and report problems — powered by Downdetector.",
+      "author": "camille_maurel",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Web",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/downdetector",
+      "treeSha": "6d07f8374c27f66125449abff6f35a271880bd81",
+      "downloads": null
+    },
+    {
       "dir": "downloads-manager",
       "name": "downloads-manager",
       "title": "Downloads Manager",
@@ -17494,10 +17516,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/akshit_mehta/fmhy-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fmhy-search",
       "treeSha": "f9dd07e71dcaa92c052e6787243c0aaa6372c745",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "focus",
@@ -20210,7 +20232,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483391
+      "downloads": 483396
     },
     {
       "dir": "google-chrome-profiles",
@@ -26131,7 +26153,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650862
+      "downloads": 650868
     },
     {
       "dir": "kimai",

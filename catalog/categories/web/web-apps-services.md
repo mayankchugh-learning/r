@@ -1,6 +1,6 @@
 # Web Apps & Services
 
-31 extensions · [← Web](./README.md)
+32 extensions · [← Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -35,3 +35,4 @@
 | [Hakuna](https://github.com/raycast/extensions/tree/main/extensions/hakuna) | 48 | Raycast extention for hakuna.ch. Get your personal API token from app.hakuna.ch/token. | fratoro | macOS | [store](https://www.raycast.com/fratoro/hakuna) |
 | [AzTU LMS](https://github.com/raycast/extensions/tree/main/extensions/aztu-lms) | 9 | Quickly access and manage your AzTU LMS account. | yusifaliyevpro | macOS, Windows | [store](https://www.raycast.com/yusifaliyevpro/aztu-lms) |
 | [Sir.golf](https://github.com/raycast/extensions/tree/main/extensions/sir-golf) | 0 | Live golf leaderboards (PGA Tour, LPGA, DP World Tour), the full tour schedule with every major badged and one-tap Add to Calendar, plus season rankings — by s… | julianpaul | macOS, Windows | [store](https://www.raycast.com/julianpaul/sir-golf) |
+| [Downdetector](https://github.com/raycast/extensions/tree/main/extensions/downdetector) | — | Instantly check if any service is down, see 24h report charts, and report problems — powered by Downdetector. | camille_maurel | macOS, Windows | — |

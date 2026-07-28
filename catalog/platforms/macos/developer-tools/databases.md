@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · **Databases** · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-14 of 1064 extensions · [← macOS · Developer Tools](./README.md)
+14 of 1065 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -19,4 +19,4 @@
 | [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) | 48 | Extract, save, and organize Notion page and database IDs from the focused browser tab or clipboard. | sam.dsgn | macOS | [store](https://www.raycast.com/Sam.Dsgn/notion-url-to-id) |
 | [Perry](https://github.com/raycast/extensions/tree/main/extensions/perry) | 48 | Execute SQL queries on PostgreSQL databases | vmotta8 | macOS | [store](https://www.raycast.com/vmotta8/perry) |
 | [Shopinfo.app](https://github.com/raycast/extensions/tree/main/extensions/shopinfo-app) | 33 | Identify Shopify themes from your current browser tab using shopinfo.app's database | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopinfo-app) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | — | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | — |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 0 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |

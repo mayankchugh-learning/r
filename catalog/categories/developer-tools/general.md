@@ -1,10 +1,10 @@
 # General
 
-169 extensions · [← Developer Tools](./README.md)
+166 extensions · [← Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 650,862 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 650,868 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 157,784 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,108 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,257 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -92,7 +92,6 @@
 | [dbt Cloud](https://github.com/raycast/extensions/tree/main/extensions/dbtCloud) | 167 | Helps you get information about your dbt Cloud jobs | zsombor-flds | macOS | [store](https://www.raycast.com/zsombor-flds/dbtcloud) |
 | [Tembo](https://github.com/raycast/extensions/tree/main/extensions/tembo) | 167 | Tembo Raycast Extension for task management and creation | tembo | macOS | [store](https://www.raycast.com/tembo/tembo) |
 | [VirtualBox Power Switch](https://github.com/raycast/extensions/tree/main/extensions/virtualbox-power-switch) | 166 | List your VirtualBox VMs, turn them on/off, or delete them. | diogo_ferrer | macOS | [store](https://www.raycast.com/diogo_ferrer/virtualbox-power-switch) |
-| [Scaleway](https://github.com/raycast/extensions/tree/main/extensions/scaleway) | 164 | Quick access to your Scaleway services | philibea | macOS | [store](https://www.raycast.com/philibea/scaleway) |
 | [Rule of Three](https://github.com/raycast/extensions/tree/main/extensions/rule-of-three) | 161 | Calculate proportions using the rule of three (cross multiplication) | yaya12085 | macOS, Windows | [store](https://www.raycast.com/yaya12085/rule-of-three) |
 | [Websocket Debugging](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) | 152 | Allows you to debug Pusher | RhysLees | macOS | [store](https://www.raycast.com/RhysLees/websocket-debugging) |
 | [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | 147 | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |
@@ -139,7 +138,6 @@
 | [WPPB](https://github.com/raycast/extensions/tree/main/extensions/wppb) | 42 | WordPress Plugin Boilerplate | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/wppb) |
 | [Radicle](https://github.com/raycast/extensions/tree/main/extensions/radicle) | 39 | Interact with your Radicle storage. | sebastinez_rhizoma | macOS | [store](https://www.raycast.com/sebastinez_rhizoma/radicle) |
 | [Unleash Feature Toggle](https://github.com/raycast/extensions/tree/main/extensions/unleash-feature-toggle) | 39 | List all projects and feature toggles from Unleash | firhan_ramadhan | macOS | [store](https://www.raycast.com/firhan_ramadhan/unleash-feature-toggle) |
-| [Infomaniak](https://github.com/raycast/extensions/tree/main/extensions/infomaniak) | 37 | Sovereign Cloud Service Provider | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infomaniak) |
 | [Dodo Payments](https://github.com/raycast/extensions/tree/main/extensions/dodo-payments) | 35 | Manage all your Dodo Payments orders, payments, subscriptions, discounts, license keys, disputes, refunds and payouts, right from your keyboard. | dodopayments | macOS | [store](https://www.raycast.com/dodopayments/dodo-payments) |
 | [Retrac](https://github.com/raycast/extensions/tree/main/extensions/retrac) | 35 | Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast. | adi_amar | macOS | [store](https://www.raycast.com/adi_amar/retrac) |
 | [Vultr](https://github.com/raycast/extensions/tree/main/extensions/vultr) | 33 | Manage Users, View Account Information and Billing History | xmok | macOS | [store](https://www.raycast.com/xmok/vultr) |
@@ -152,7 +150,6 @@
 | [Vanguard Backup](https://github.com/raycast/extensions/tree/main/extensions/vanguard-backup) | 24 | Open Source Backup Solution | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/vanguard-backup) |
 | [Kafka UI](https://github.com/raycast/extensions/tree/main/extensions/kafka-ui) | 23 | Inspect Kafka consumer group lag, browse topics, and open Kafka UI dashboards. Powered by the Kafka UI open-source project. | nirrosh | macOS | [store](https://www.raycast.com/NirRosh/kafka-ui) |
 | [SolusVM 2](https://github.com/raycast/extensions/tree/main/extensions/solusvm-2) | 21 | Manage SolusVM 2 | xmok | macOS | [store](https://www.raycast.com/xmok/solusvm-2) |
-| [gRPC UI](https://github.com/raycast/extensions/tree/main/extensions/grpcui) | 18 | Quickly launch gRPC UI for your saved services directly from Raycast. | loqa-s | macOS | [store](https://www.raycast.com/loqa-s/grpcui) |
 | [Dagster](https://github.com/raycast/extensions/tree/main/extensions/dagster) | 17 | Browse Dagster assets, materializations, and runs | b-per | macOS | [store](https://www.raycast.com/b-per/dagster) |
 | [Spike](https://github.com/raycast/extensions/tree/main/extensions/spike) | 17 | Resolve incidents, check who is on-call, and add overrides from Raycast. | spike (org) | macOS | [store](https://www.raycast.com/spike/spike) |
 | [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick) | 16 | Quick launcher for TaskTick scheduled tasks | lifedever | macOS | [store](https://www.raycast.com/lifedever/tasktick) |
