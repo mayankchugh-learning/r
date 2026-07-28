@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `e6e03f380d`
+
+**Updated (1):** [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager)
+
 ## 2026-07-27 — upstream `e4093c5b2a`
 
 **Updated (1):** [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully)

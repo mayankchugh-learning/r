@@ -37,7 +37,7 @@
 | [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 695 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
 | [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) | 109 | Manage your Collected Notes blog | txemaleon | macOS | [store](https://www.raycast.com/txemaleon/collected-notes) |
 | [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) | 64 | Quick capture for Minttr - save notes and links instantly | zayn_harris_dev | macOS | [store](https://www.raycast.com/zayn_harris_dev/minttr) |
-| [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 2 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
+| [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 1 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
 
 ## General
 

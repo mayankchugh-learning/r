@@ -19,7 +19,7 @@
 | [janyk](https://www.raycast.com/janyk) | 1 | 33 | **Finance:** [Moneybird](https://github.com/raycast/extensions/tree/main/extensions/moneybird) |
 | [jaredliu233](https://www.raycast.com/jaredliu233) | 2 | 1,943 | **Productivity:** [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading)<br>**Data:** [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) |
 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 13,185 | **Productivity:** [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) |
-| [jaseem_ts](https://www.raycast.com/jaseem_ts) | 1 | 2 | **Applications:** [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) |
+| [jaseem_ts](https://www.raycast.com/jaseem_ts) | 1 | 1 | **Applications:** [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) |
 | [jason5ng32](https://www.raycast.com/jason5ng32) | 1 | 1,814 | **Developer Tools:** [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing) |
 | [jasoncarey](https://www.raycast.com/jasoncarey) | 1 | 136 | **Productivity:** [Kindle Paste](https://github.com/raycast/extensions/tree/main/extensions/paste-from-kindle) |
 | [jasonjiong](https://www.raycast.com/jasonjiong) | 1 | 220 | **Productivity:** [Translate and Send Webpage to Reader](https://github.com/raycast/extensions/tree/main/extensions/translate-send-webpage-to-reader) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e4093c5b2abc025c79e3796db7174b3b52e28149",
-  "generatedAt": "2026-07-27T18:57:34.078Z",
-  "downloadsRefreshedAt": "2026-07-27T18:57:33.222Z",
+  "commit": "e6e03f380dc4e253a3a03868ddbfdfc3c507ad72",
+  "generatedAt": "2026-07-28T02:05:35.693Z",
+  "downloadsRefreshedAt": "2026-07-28T02:05:35.050Z",
   "count": 3114,
   "extensions": [
     {
@@ -8878,7 +8878,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494336
+      "downloads": 494491
     },
     {
       "dir": "color-shades",
@@ -20145,7 +20145,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482705
+      "downloads": 482874
     },
     {
       "dir": "google-chrome-profiles",
@@ -26065,7 +26065,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650104
+      "downloads": 650290
     },
     {
       "dir": "kimai",
@@ -41559,12 +41559,13 @@
         "Developer Tools",
         "System"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/nurkamol/quarantine-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager",
-      "treeSha": "c6527670c89ac6f4f3f353b5d62014077e9cd21e",
+      "treeSha": "fe8c73d6927ec8cd9fd601176885f2579efd73ba",
       "downloads": 135
     },
     {
@@ -44589,7 +44590,7 @@
       "store": "https://www.raycast.com/jaseem_ts/reflect-open",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/reflect-open",
       "treeSha": "f22df3b8f0cf51a67a728ae840a2c024eb7633e2",
-      "downloads": 2
+      "downloads": 1
     },
     {
       "dir": "refresh-browsers",
