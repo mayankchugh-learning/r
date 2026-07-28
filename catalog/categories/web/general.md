@@ -4,13 +4,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,068 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 43,915 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,077 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 43,918 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 10,998 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
-| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,649 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
+| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,650 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,632 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,537 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
-| [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,387 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
+| [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,388 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
 | [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) | 5,043 | Collection of scripts to improve YouTube browsing experience | sasivarnan | macOS, Windows | [store](https://www.raycast.com/sasivarnan/youtube-companion) |
 | [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 3,976 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
 | [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | 2,404 | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
@@ -35,7 +35,7 @@
 | [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler) | 720 | Copy & Paste Tabler Icons | zavbala | macOS | [store](https://www.raycast.com/zavbala/tabler) |
 | [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 645 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS | [store](https://www.raycast.com/destiner/ethereum-utils) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 610 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
-| [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) | 593 | A simple way to preview markdown content | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/markdown-preview) |
+| [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) | 594 | A simple way to preview markdown content | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/markdown-preview) |
 | [Vocabulary.com](https://github.com/raycast/extensions/tree/main/extensions/vocab-search) | 519 | Retrieve Word definitions from vocab.com | datadeer | macOS | [store](https://www.raycast.com/datadeer/vocab) |
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 370 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
 | [Color Studio Picker](https://github.com/raycast/extensions/tree/main/extensions/color-studio-picker) | 364 | Helps you identify and pick colors from Automattic's Color Studio | Automattic_Inc | macOS | [store](https://www.raycast.com/Automattic_Inc/color-studio-picker) |
@@ -52,7 +52,7 @@
 | [Finnish Dictionary](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) | 199 | MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. | albertoxamin | macOS, Windows | [store](https://www.raycast.com/albertoxamin/finnish-dictionary) |
 | [Ntfy](https://github.com/raycast/extensions/tree/main/extensions/ntfy) | 186 | Send notifications to your devices using ntfy.sh | wesleycoder | macOS | [store](https://www.raycast.com/wesleycoder/ntfy) |
 | [Kinopio Inbox](https://github.com/raycast/extensions/tree/main/extensions/kinopio-inbox) | 177 | Add cards to your Kinopio inbox | pirijan | macOS | [store](https://www.raycast.com/pirijan/kinopio-inbox) |
-| [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 176 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |
+| [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 177 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |
 | [Smallpdf](https://github.com/raycast/extensions/tree/main/extensions/smallpdf) | 161 | Quick access to all the Smallpdf tools | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/smallpdf) |
 | [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) | 157 | See Pitchfork Album Reviews | koayon | macOS | [store](https://www.raycast.com/koayon/pitchfork) |
 | [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog) | 153 | The official Raycast extension for the German tech blog Caschys Blog (www.stadt-bremerhaven.de) | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/caschys-blog) |

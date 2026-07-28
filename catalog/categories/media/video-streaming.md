@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 99,897 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 99,903 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,123 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,538 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
 | [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,755 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
@@ -21,7 +21,7 @@
 | [Immich](https://github.com/raycast/extensions/tree/main/extensions/immich) | 288 | Self-hosted photo and video management solution | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/immich) |
 | [YouTube Subscriber Count](https://github.com/raycast/extensions/tree/main/extensions/youtube-subscriber-count) | 240 | Celebrates whenever you get a new subscriber with a confetti 🎉 | iman_neo | macOS | [store](https://www.raycast.com/iman_neo/youtube-subscriber-count) |
 | [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 100 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
-| [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 73 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
+| [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 74 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [YouTube Highlights](https://github.com/raycast/extensions/tree/main/extensions/youtube-highlights) | 46 | Capture and manage highlights from YouTube videos with timestamps | itskofio | macOS | [store](https://www.raycast.com/itskofio/youtube-highlights) |
 | [Apple TV Remote](https://github.com/raycast/extensions/tree/main/extensions/apple-tv-remote) | 42 | Control your Apple TV from Raycast with a visual remote, app launcher, deep links, and AI commands. No external installs required. | camschroedes | macOS | [store](https://www.raycast.com/camschroedes/apple-tv-remote) |
 | [Tella](https://github.com/raycast/extensions/tree/main/extensions/tella) | 34 | Browse videos, view transcripts, and manage playlists with Tella | jackmsvaughan | macOS | [store](https://www.raycast.com/jackmsvaughan/tella) |

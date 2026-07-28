@@ -1,12 +1,12 @@
 # pernielsentikaer
 
-21 extensions · 89,430 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
+21 extensions · 89,432 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
 
 ## Fun (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 41,569 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
+| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 41,570 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
 | [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 4,593 | Get a random dad joke | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
 | [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard) | 1,247 | Use Raycast as a soundboard and bind sounds to hotkeys | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/soundboard) |
 | [FIGlet](https://github.com/raycast/extensions/tree/main/extensions/figlet) | 191 | Generate a FIGlet | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/figlet) |
@@ -17,7 +17,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 9,410 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
+| [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 9,411 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
 | [Universal Website Search](https://github.com/raycast/extensions/tree/main/extensions/any-website-search) | 4,909 | Search any site on the web | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/any-website-search) |
 | [Remember the Date](https://github.com/raycast/extensions/tree/main/extensions/remember-the-date) | 1,263 | Creates and shows the most important date which should be remembered. | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/remember-the-date) |
 | [Open Latest URL from Clipboard](https://github.com/raycast/extensions/tree/main/extensions/open-latest-url-from-clipboard) | 172 | Opens the latest URL from Clipboard if one is found in the latest 6 entries | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/open-latest-url-from-clipboard) |

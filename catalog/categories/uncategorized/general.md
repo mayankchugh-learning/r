@@ -14,7 +14,7 @@
 | [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,217 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
 | [Feedly](https://github.com/raycast/extensions/tree/main/extensions/feedly) | 1,196 | Browse Feedly through Raycast | shubham | macOS | [store](https://www.raycast.com/shubham/feedly) |
 | [Simple Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) | 1,160 | This is a Youdao translation extension with simple interaction | xeric | macOS | [store](https://www.raycast.com/xeric/simple-youdao) |
-| [Color Hunt](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) | 949 | Color Palettes for Designers and Artists | Lemon | macOS | [store](https://www.raycast.com/Lemon/color-hunt) |
+| [Color Hunt](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) | 950 | Color Palettes for Designers and Artists | Lemon | macOS | [store](https://www.raycast.com/Lemon/color-hunt) |
 | [Sniffer](https://github.com/raycast/extensions/tree/main/extensions/sniffer) | 934 | FInd who is connected to your network | night_coder | macOS | [store](https://www.raycast.com/night_coder/sniffer) |
 | [Week Number](https://github.com/raycast/extensions/tree/main/extensions/week-number) | 880 | Show the current week of the year. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/week-number) |
 | [Kaalam](https://github.com/raycast/extensions/tree/main/extensions/kaalam) | 840 | Gives Current Time in all formats | heerthees | macOS | [store](https://www.raycast.com/heerthees/kaalam) |

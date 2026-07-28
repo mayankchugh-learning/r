@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Whisper Dictation](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) | 4,667 | A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. | finjo | macOS | [store](https://www.raycast.com/finjo/whisper-dictation) |
+| [Whisper Dictation](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) | 4,668 | A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. | finjo | macOS | [store](https://www.raycast.com/finjo/whisper-dictation) |
 | [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research) | 3,430 | Iterative Deep Research powered by Raycast AI Extensions. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/research) |
 | [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,247 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
 | [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,236 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
@@ -67,7 +67,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 3,333 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
+| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 3,334 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
 | [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder) | 2,645 | Prompt Builder helps you craft clear, consistent AI prompts through a simple form. Define roles, tone, audience, and constraints to get better results faster.… | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/prompt-builder) |
 | [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,458 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
 | [PromptNote](https://github.com/raycast/extensions/tree/main/extensions/promptnote) | 128 | Manage your AI prompts with versioning and cloud sync | dimpurr | macOS | [store](https://www.raycast.com/dimpurr/promptnote) |
@@ -76,7 +76,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 1,905 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
+| [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 1,906 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
 | [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) | 336 | Get quick answers to your quick questions with the power of AI with this free extension. | vaibhav_sisodiya | macOS | [store](https://www.raycast.com/Vaib215/vaib) |
 | [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask) | 183 | Get instant AI answers for your questions. | renzo | macOS | [store](https://www.raycast.com/renzo/snapask) |
 | [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 25 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
@@ -86,9 +86,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 36,704 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
+| [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 36,707 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
 | [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 12,984 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
-| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 11,995 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
+| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 11,996 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
 | [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 4,287 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
 | [Memory](https://github.com/raycast/extensions/tree/main/extensions/memory) | 3,838 | Knowledge Graph Memory for Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/memory) |
 | [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 2,690 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |

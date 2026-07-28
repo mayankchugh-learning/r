@@ -1,24 +1,24 @@
 # Aayush9029
 
-16 extensions · 147,883 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
+16 extensions · 147,901 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 104,864 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
+| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 104,875 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
 
 ## Productivity (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 26,782 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
+| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 26,788 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
 
 ## Communication (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 7,897 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
+| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 7,898 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
 
 ## Media (4)
 

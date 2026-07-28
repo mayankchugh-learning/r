@@ -1,6 +1,6 @@
 # j3lte
 
-13 extensions · 9,603 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
+13 extensions · 9,604 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
 
 ## Media (2)
 
@@ -32,7 +32,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 613 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
-| [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 176 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |
+| [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 177 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |
 
 ## News (1)
 

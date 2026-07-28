@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 25,756 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,063 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,041 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 25,758 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,065 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,042 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,029 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
-| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,469 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
+| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,470 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,167 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
 | [Heroicons](https://github.com/raycast/extensions/tree/main/extensions/heroicons) | 4,063 | Search and preview Heroicons | johndoe123789 | macOS | [store](https://www.raycast.com/johndoe123789/heroicons) |
 | [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 3,845 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS | [store](https://www.raycast.com/svenhofman/hidemyemail) |
@@ -42,7 +42,7 @@
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 439 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |
 | [Homepage](https://github.com/raycast/extensions/tree/main/extensions/homepage) | 435 | Homepage services and bookmarks in Raycast | bgiovand | macOS | [store](https://www.raycast.com/bgiovand/homepage) |
 | [Headlines](https://github.com/raycast/extensions/tree/main/extensions/headlines) | 408 | Super breif news extension. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/headlines) |
-| [Homey](https://github.com/raycast/extensions/tree/main/extensions/homey) | 397 | Homey Flows & Devices | DominicVonk | macOS, Windows | [store](https://www.raycast.com/DominicVonk/homey) |
+| [Homey](https://github.com/raycast/extensions/tree/main/extensions/homey) | 398 | Homey Flows & Devices | DominicVonk | macOS, Windows | [store](https://www.raycast.com/DominicVonk/homey) |
 | [Hidden Icons](https://github.com/raycast/extensions/tree/main/extensions/hidden-icons) | 367 | A casual game to find a hidden icon. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/hidden-icons) |
 | [HTML Colors](https://github.com/raycast/extensions/tree/main/extensions/html-colors) | 364 | Search through pallettes of standard HTML colors. Offers basic + extended set. Search by name or browse by looking at the color itself. | Synacek | macOS | [store](https://www.raycast.com/Synacek/html-colors) |
 | [Helm Documentation](https://github.com/raycast/extensions/tree/main/extensions/helm-docs) | 363 | Quickly search through the Helm docs directly from Raycast. | tiagomichaelsousa | macOS | [store](https://www.raycast.com/tiagomichaelsousa/helm-docs) |
@@ -95,7 +95,7 @@
 | [Hemolog](https://github.com/raycast/extensions/tree/main/extensions/hemolog) | 12 | View and log treatments with Hemolog.com | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/hemolog) |
 | [Hole Sandbox Launcher](https://github.com/raycast/extensions/tree/main/extensions/hole-sandbox-launcher) | 7 | Launches an AI agent sandbox using Hole application in a specified project. | lukashornych | macOS | [store](https://www.raycast.com/lukashornych/hole-sandbox-launcher) |
 | [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) | 5 | Manage Habitify habits from Raycast. | razz13 | macOS, Windows | [store](https://www.raycast.com/razz13/habitify-raycast) |
+| [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) | 3 | Toggle Windows HDR on individual monitors instead of all displays at once. | abdullah_shabib | Windows | [store](https://www.raycast.com/abdullah_shabib/hdr-toggle) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 3 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |
-| [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) | 2 | Toggle Windows HDR on individual monitors instead of all displays at once. | abdullah_shabib | Windows | [store](https://www.raycast.com/abdullah_shabib/hdr-toggle) |
 | [Hack Club CDN](https://github.com/raycast/extensions/tree/main/extensions/hack-club-cdn) | 1 | Upload files to the Hack Club CDN and manage your uploads from Raycast. Requires a Hack Club account (cdn.hackclub.com) and an API token. | garyhtou | macOS | [store](https://www.raycast.com/garyhtou/hack-club-cdn) |
 | [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid) | 0 | Browse Hyperliquid perp markets, track your positions and PnL, and pin live prices to your menu bar — all read-only. | insuline | macOS | [store](https://www.raycast.com/Insuline/hyperliquid) |

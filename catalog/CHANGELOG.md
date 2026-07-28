@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `0da9ac28ee`
+
+**Updated (1):** [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder)
+
 ## 2026-07-28 — upstream `8ce0ac6135`
 
 **Updated (1):** [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully)
