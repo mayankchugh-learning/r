@@ -13,7 +13,7 @@
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,402 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,044 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 825 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
-| [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | 477 | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |
+| [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | 478 | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |
 | [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 425 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 333 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 | [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) | 164 | Search and manage books and lists. | hazelhedmine | macOS | [store](https://www.raycast.com/hazelhedmine/hardcover) |

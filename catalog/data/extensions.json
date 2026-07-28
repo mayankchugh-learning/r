@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0da9ac28ee2bd011d28ba7feabf116779b519744",
-  "generatedAt": "2026-07-28T09:15:33.193Z",
-  "downloadsRefreshedAt": "2026-07-28T09:15:32.558Z",
-  "count": 3115,
+  "commit": "7be0302984c9142557637513b171601e3503387a",
+  "generatedAt": "2026-07-28T10:53:38.317Z",
+  "downloadsRefreshedAt": "2026-07-28T10:53:37.658Z",
+  "count": 3116,
   "extensions": [
     {
       "dir": "0x0",
@@ -103,7 +103,7 @@
       "store": "https://www.raycast.com/khasbilegt/1password",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/1password",
       "treeSha": "018d1cdc07e08a14bc6c2e5fd9662da58798886a",
-      "downloads": 205753
+      "downloads": 205773
     },
     {
       "dir": "2fa-directory",
@@ -481,7 +481,7 @@
       "store": "https://www.raycast.com/rocksack/advanced-replace",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/advanced-replace",
       "treeSha": "4c0561c135699a6351a8a0caf5e48f467561884d",
-      "downloads": 609
+      "downloads": 610
     },
     {
       "dir": "advanced-speech-to-text",
@@ -539,7 +539,7 @@
       "store": "https://www.raycast.com/bfayers/aegis",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/aegis",
       "treeSha": "50a8ca65561be0d9439bf5ef8a5cddfe4b0f278e",
-      "downloads": 321
+      "downloads": 322
     },
     {
       "dir": "aerospace",
@@ -560,7 +560,7 @@
       "store": "https://www.raycast.com/limonkufu/aerospace",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/aerospace",
       "treeSha": "578f5cd76d3f47811b2aa1f11ebbc5b769ba1c3e",
-      "downloads": 14513
+      "downloads": 14514
     },
     {
       "dir": "affine-raycast",
@@ -659,7 +659,7 @@
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
       "treeSha": "6ac9cec5e46c9428a47d1a90674799c4958eeaa5",
-      "downloads": 2343
+      "downloads": 2346
     },
     {
       "dir": "ai-agency",
@@ -1435,7 +1435,7 @@
       "store": "https://www.raycast.com/gstvds/amphetamine",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/amphetamine",
       "treeSha": "9b15f440f50646f20415d29097dbed2aeb11e749",
-      "downloads": 27631
+      "downloads": 27635
     },
     {
       "dir": "analog-film-library",
@@ -2061,7 +2061,7 @@
       "store": "https://www.raycast.com/dziad/appcleaner",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/appcleaner",
       "treeSha": "161ec60f0643842db8063f558c6740b908741dfe",
-      "downloads": 29746
+      "downloads": 29751
     },
     {
       "dir": "append-clipboard",
@@ -2219,7 +2219,7 @@
       "store": "https://www.raycast.com/djpowers/apple-maps-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search",
       "treeSha": "f7f7df2a77b62c3218d46de7d816c9f16bd26811",
-      "downloads": 16406
+      "downloads": 16408
     },
     {
       "dir": "apple-notes",
@@ -2239,7 +2239,7 @@
       "store": "https://www.raycast.com/raycast/apple-notes",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-notes",
       "treeSha": "a1285e5ee8f0365f797d9af91e3386286182b89d",
-      "downloads": 134502
+      "downloads": 134515
     },
     {
       "dir": "apple-passwords",
@@ -2299,7 +2299,7 @@
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
       "treeSha": "825f61a0f3f8b446e155d26a0da12b15ae66977c",
-      "downloads": 101877
+      "downloads": 101892
     },
     {
       "dir": "apple-stocks-search",
@@ -2436,7 +2436,7 @@
       "store": "https://www.raycast.com/the-browser-company/arc",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/arc",
       "treeSha": "a2d995b349dac1ae2c81074a16ecbb869bfea517",
-      "downloads": 223659
+      "downloads": 223674
     },
     {
       "dir": "arc-helper",
@@ -2935,7 +2935,7 @@
       "store": "https://www.raycast.com/xmok/attio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/attio",
       "treeSha": "08a2ef1a32b05b36e567b526e11a35b7bf84b38b",
-      "downloads": 176
+      "downloads": 177
     },
     {
       "dir": "audio-device",
@@ -2956,7 +2956,7 @@
       "store": "https://www.raycast.com/benvp/audio-device",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/audio-device",
       "treeSha": "4ca9923946c130feeff858e56e6c8b2544b826bc",
-      "downloads": 63896
+      "downloads": 63905
     },
     {
       "dir": "audio-writer",
@@ -3017,7 +3017,7 @@
       "store": "https://www.raycast.com/koinzhang/auto-quit-app",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app",
       "treeSha": "7ac3980ea29048ea28927c17ed1fa8bb4fb729c5",
-      "downloads": 4347
+      "downloads": 4348
     },
     {
       "dir": "autumn",
@@ -3503,7 +3503,7 @@
       "store": "https://www.raycast.com/kmusick/bartender",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bartender",
       "treeSha": "0bddd7c53141c5f78d149bb02ee659dbff00708a",
-      "downloads": 3801
+      "downloads": 3802
     },
     {
       "dir": "base-stats",
@@ -3565,7 +3565,7 @@
       "store": "https://www.raycast.com/DanielSinclair/base64",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/base64",
       "treeSha": "cbece190a692588381a700779e90f528580dc6f1",
-      "downloads": 36406
+      "downloads": 36412
     },
     {
       "dir": "base64-to-file",
@@ -3627,7 +3627,7 @@
       "store": "https://www.raycast.com/o1y/battery-health",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/battery-health",
       "treeSha": "66627b812bc144b53d19f67ef58637df06cd2dda",
-      "downloads": 19443
+      "downloads": 19445
     },
     {
       "dir": "battery-menubar",
@@ -3646,7 +3646,7 @@
       "store": "https://www.raycast.com/panrafal/battery-menubar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/battery-menubar",
       "treeSha": "a476a75611a43bd4e4dd50b6b95625edb776d1e5",
-      "downloads": 1967
+      "downloads": 1968
     },
     {
       "dir": "battery-optimizer",
@@ -3783,7 +3783,7 @@
       "store": "https://www.raycast.com/hmarr/bear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bear",
       "treeSha": "896dd1da64fa4bae1bd2b7c5989d4d1927a61e72",
-      "downloads": 13310
+      "downloads": 13311
     },
     {
       "dir": "beardtown",
@@ -4121,7 +4121,7 @@
       "store": "https://www.raycast.com/rokartur/betteraudio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/betteraudio",
       "treeSha": "c60d3f50eb2cb50302965def953f09387a0a6419",
-      "downloads": 173
+      "downloads": 174
     },
     {
       "dir": "bettercapture",
@@ -4179,7 +4179,7 @@
       "store": "https://www.raycast.com/pascal_burkhard/betterdisplay",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/betterdisplay",
       "treeSha": "f6a8dd4cc5f1b94a1c17dd14b028ccd22bcc7798",
-      "downloads": 4722
+      "downloads": 4723
     },
     {
       "dir": "betterstack-utils",
@@ -4218,7 +4218,7 @@
       "store": "https://www.raycast.com/dnnsmnstrr/bettertouchtool",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool",
       "treeSha": "73b5f62c319472c44fd791615fd9c872c77da4c3",
-      "downloads": 3532
+      "downloads": 3533
     },
     {
       "dir": "betterzip",
@@ -4496,7 +4496,7 @@
       "store": "https://www.raycast.com/maver1ck/bing-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bing-search",
       "treeSha": "caad83e5f9f999b772b2250a6bcc20d9d50bf75f",
-      "downloads": 2459
+      "downloads": 2460
     },
     {
       "dir": "bing-wallpaper",
@@ -4751,7 +4751,7 @@
       "store": "https://www.raycast.com/jomifepe/bitwarden",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bitwarden",
       "treeSha": "63719cd68bdafee4138cd3cef55a6fad74f6a26f",
-      "downloads": 57405
+      "downloads": 57412
     },
     {
       "dir": "bj-share",
@@ -5272,7 +5272,7 @@
       "store": "https://www.raycast.com/ron-myers/brave",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brave",
       "treeSha": "9f06cc605a122a13f10cab36bdf5d12148ed4017",
-      "downloads": 14499
+      "downloads": 14500
     },
     {
       "dir": "brave-search",
@@ -5310,7 +5310,7 @@
       "store": "https://www.raycast.com/electerious/brave-search-with-results",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brave-search-with-results",
       "treeSha": "3b572e789ebba0e31abf4ff6b26dff9e0bc76828",
-      "downloads": 669
+      "downloads": 670
     },
     {
       "dir": "brawlstars",
@@ -5349,7 +5349,7 @@
       "store": "https://www.raycast.com/nhojb/brew",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brew",
       "treeSha": "6e10638b912d739338b941e41ba23172923e1fd9",
-      "downloads": 252451
+      "downloads": 252477
     },
     {
       "dir": "brew-services",
@@ -5369,7 +5369,7 @@
       "store": "https://www.raycast.com/erics118/brew-services",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brew-services",
       "treeSha": "fa40feda8d8def9798b3bb2ef6a244353c62e2a2",
-      "downloads": 16939
+      "downloads": 16942
     },
     {
       "dir": "brightness-control",
@@ -5450,7 +5450,7 @@
       "store": "https://www.raycast.com/raycast/browser-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks",
       "treeSha": "3faac52ac5bcf3aca3c18f8598d425fcf57c0765",
-      "downloads": 56601
+      "downloads": 56603
     },
     {
       "dir": "browser-history",
@@ -5472,7 +5472,7 @@
       "store": "https://www.raycast.com/crisboarna/browser-history",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-history",
       "treeSha": "e8469d7eef33d64b4f8a6d33b4fb4266c658d11c",
-      "downloads": 9688
+      "downloads": 9689
     },
     {
       "dir": "browser-tabs",
@@ -5492,7 +5492,7 @@
       "store": "https://www.raycast.com/koinzhang/browser-tabs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-tabs",
       "treeSha": "8c13584a109b8ff19bdaabd31b12e3834cb08dec",
-      "downloads": 8156
+      "downloads": 8158
     },
     {
       "dir": "browsers-profiles",
@@ -5866,7 +5866,7 @@
       "store": "https://www.raycast.com/cal/cal-com-share-meeting-links",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links",
       "treeSha": "c6d8147ad45cb9148fe52a72a2610b2403b2d985",
-      "downloads": 4577
+      "downloads": 4578
     },
     {
       "dir": "calendar",
@@ -5886,7 +5886,7 @@
       "store": "https://www.raycast.com/fuksman/calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/calendar",
       "treeSha": "09dc694fe1717d24270b04cf3c762ad9b3294a58",
-      "downloads": 21986
+      "downloads": 21988
     },
     {
       "dir": "calendly",
@@ -6003,7 +6003,7 @@
       "store": "https://www.raycast.com/thomaslombart/can-i-use",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/can-i-use",
       "treeSha": "990297cbac0f74647af93cc7f481fead69cf8ada",
-      "downloads": 10906
+      "downloads": 10908
     },
     {
       "dir": "cangjie",
@@ -6106,7 +6106,7 @@
       "store": "https://www.raycast.com/syhchen/capture",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/capture",
       "treeSha": "c3b9c25c5a182398b89f79571ea5f55d7b538e8e",
-      "downloads": 505
+      "downloads": 506
     },
     {
       "dir": "capture-fullpage-of-website",
@@ -6325,7 +6325,7 @@
       "store": "https://www.raycast.com/nyatinte/ccusage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ccusage",
       "treeSha": "da3346f1a4693a65d5cd0137ad167f6a1685f35e",
-      "downloads": 11230
+      "downloads": 11232
     },
     {
       "dir": "cdnjs",
@@ -6468,7 +6468,7 @@
       "store": "https://www.raycast.com/erics118/change-case",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/change-case",
       "treeSha": "f2df5244461c0f3ea222bbb2a1c6feff1f3e9eca",
-      "downloads": 46207
+      "downloads": 46216
     },
     {
       "dir": "change-scroll-direction",
@@ -6642,7 +6642,7 @@
       "store": "https://www.raycast.com/abielzulio/chatgpt",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/chatgpt",
       "treeSha": "dc25db4ea3760eb7e3183c94683a7aa5a8dee81f",
-      "downloads": 237642
+      "downloads": 237651
     },
     {
       "dir": "chatgpt-atlas",
@@ -6781,7 +6781,7 @@
       "store": "https://www.raycast.com/destiner/cheatsheets",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cheatsheets",
       "treeSha": "b77a61cef289db00f5ccb2a3ccfbcebe03b46ea0",
-      "downloads": 38426
+      "downloads": 38428
     },
     {
       "dir": "cheatsheets-remastered",
@@ -7351,7 +7351,7 @@
       "store": "https://www.raycast.com/florisdobber/claude",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/claude",
       "treeSha": "006ed3039570209db54c7b5d8de126793fad2007",
-      "downloads": 31512
+      "downloads": 31514
     },
     {
       "dir": "claude-artifacts",
@@ -7390,7 +7390,7 @@
       "store": "https://www.raycast.com/harumeri/claude-code-cheatsheet",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/claude-code-cheatsheet",
       "treeSha": "4df40678997efc9c80708def7ea0f29e96317971",
-      "downloads": 4908
+      "downloads": 4910
     },
     {
       "dir": "claude-code-config-switcher",
@@ -7430,7 +7430,7 @@
       "store": "https://www.raycast.com/stephendolan/claude-code-launcher",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher",
       "treeSha": "fd29d4e171e7ea7bec5e235a7190674ca0444e9d",
-      "downloads": 3248
+      "downloads": 3249
     },
     {
       "dir": "claude-session-bookmarks",
@@ -7490,7 +7490,7 @@
       "store": "https://www.raycast.com/qazi0/claudecast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/claudecast",
       "treeSha": "ae242b3fe8c32775f2ab44d0e5581c2863d0570f",
-      "downloads": 1825
+      "downloads": 1826
     },
     {
       "dir": "clean-agent-text",
@@ -7532,7 +7532,7 @@
       "store": "https://www.raycast.com/ike-gg/clean-keyboard",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard",
       "treeSha": "c96615761daf1f920410f0f2682670dd14e59172",
-      "downloads": 62697
+      "downloads": 62710
     },
     {
       "dir": "clean-text",
@@ -7570,7 +7570,7 @@
       "store": "https://www.raycast.com/Aayush9029/cleanshotx",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cleanshotx",
       "treeSha": "06262da2afcce2509a20addfbdf24168e248f722",
-      "downloads": 104875
+      "downloads": 104884
     },
     {
       "dir": "clear-clipboard",
@@ -7589,7 +7589,7 @@
       "store": "https://www.raycast.com/d3caf/clear-clipboard",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard",
       "treeSha": "cfe51dc2f3b9128f731da0ce19c65400fb5d9262",
-      "downloads": 3225
+      "downloads": 3227
     },
     {
       "dir": "clickup",
@@ -7649,7 +7649,7 @@
       "store": "https://www.raycast.com/alin/cling",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cling",
       "treeSha": "c57ce0385448b630811944cfc7dc18a6a3773f93",
-      "downloads": 188
+      "downloads": 189
     },
     {
       "dir": "clip",
@@ -7708,7 +7708,7 @@
       "store": "https://www.raycast.com/pomdtr/clipboard-editor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/clipboard-editor",
       "treeSha": "e69a06aa5e1a1ddb2b9273a51872130ba10b65c5",
-      "downloads": 6814
+      "downloads": 6815
     },
     {
       "dir": "clipboard-formatter",
@@ -7728,7 +7728,7 @@
       "store": "https://www.raycast.com/joshtemple/clipboard-formatter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter",
       "treeSha": "9135c01c3619a46e98c51bc258bdb066438a7fab",
-      "downloads": 3538
+      "downloads": 3539
     },
     {
       "dir": "clipboard-sequential-paste",
@@ -8161,7 +8161,7 @@
       "store": "https://www.raycast.com/steve_occhipinti/cmux",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cmux",
       "treeSha": "091ae4730567ceb713d0ee387a85430450e7aa0a",
-      "downloads": 601
+      "downloads": 602
     },
     {
       "dir": "cnpj-lookup",
@@ -8325,7 +8325,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/code",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/code-execution",
       "treeSha": "939e7d6710e1cb345deecffc6fcc58d71ddf63e3",
-      "downloads": 4287
+      "downloads": 4288
     },
     {
       "dir": "code-quarkus",
@@ -8601,7 +8601,7 @@
       "store": "https://www.raycast.com/asifk/codex",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/codex",
       "treeSha": "d32d30a418e23fd3a10176eb3cfa35203096822e",
-      "downloads": 83
+      "downloads": 84
     },
     {
       "dir": "codex-claude-cli",
@@ -8620,7 +8620,7 @@
       "store": "https://www.raycast.com/WerrySs/codex-claude-cli",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/codex-claude-cli",
       "treeSha": "149d4ab44011b12ff0a3d97f469d115b5d144a9e",
-      "downloads": 22
+      "downloads": 23
     },
     {
       "dir": "codex-manager",
@@ -8660,7 +8660,7 @@
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
       "treeSha": "a6bc8d342887827c3262a2041a434241cd9cb7a8",
-      "downloads": 121722
+      "downloads": 121746
     },
     {
       "dir": "cognimemo",
@@ -8840,7 +8840,7 @@
       "store": "https://www.raycast.com/slavarazum/color-casket",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-casket",
       "treeSha": "bb19c3fed5f9c74ce0b8fee9bc03915b238c6da1",
-      "downloads": 8089
+      "downloads": 8090
     },
     {
       "dir": "color-hunt",
@@ -8879,7 +8879,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494696
+      "downloads": 494751
     },
     {
       "dir": "color-shades",
@@ -9258,7 +9258,7 @@
       "store": "https://www.raycast.com/tbrown/confluence",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/confluence-search",
       "treeSha": "c0b44227c5d316c156b45899a76fe0934cff0a91",
-      "downloads": 13508
+      "downloads": 13509
     },
     {
       "dir": "connect-to-vpn",
@@ -9300,7 +9300,7 @@
       "store": "https://www.raycast.com/fedevitaledev/consoledev",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/consoledev",
       "treeSha": "d410ebfd9907e70e67f2d95d27ee95a9e4669212",
-      "downloads": 2796
+      "downloads": 2797
     },
     {
       "dir": "contentful",
@@ -9568,7 +9568,7 @@
       "store": "https://www.raycast.com/koinzhang/converter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/converter",
       "treeSha": "d215aca5821df3bdcd93ea9fd73aadd03c1a6323",
-      "downloads": 4216
+      "downloads": 4218
     },
     {
       "dir": "convex",
@@ -9728,7 +9728,7 @@
       "store": "https://www.raycast.com/koinzhang/copy-path",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/copy-path",
       "treeSha": "c631ec8c98c87b49861a091f11f5e7687e7140e2",
-      "downloads": 19285
+      "downloads": 19289
     },
     {
       "dir": "copy-skeet-link",
@@ -10279,7 +10279,7 @@
       "store": "https://www.raycast.com/niall-maloney/cron-description",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cron-description",
       "treeSha": "4cadd6d793097880885349832106fb75db5f438a",
-      "downloads": 3332
+      "downloads": 3333
     },
     {
       "dir": "cron-manager",
@@ -10478,7 +10478,7 @@
       "store": "https://www.raycast.com/astrit/css-gg",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/css-gg",
       "treeSha": "f3b82a37c97e1300b28be9cc845b06634140a403",
-      "downloads": 3106
+      "downloads": 3107
     },
     {
       "dir": "css-tricks",
@@ -10619,7 +10619,7 @@
       "store": "https://www.raycast.com/jonathangiardino/curl",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/curl",
       "treeSha": "8866e8905dbc096fab6ddbbc7dcaf1db5bae77a1",
-      "downloads": 24965
+      "downloads": 24966
     },
     {
       "dir": "currency-exchange",
@@ -10640,7 +10640,7 @@
       "store": "https://www.raycast.com/xeric/currency-exchange",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/currency-exchange",
       "treeSha": "e52eaabb393eea23bfec2b3e2128109e6aa8fe2b",
-      "downloads": 17617
+      "downloads": 17618
     },
     {
       "dir": "cursor",
@@ -10743,7 +10743,7 @@
       "store": "https://www.raycast.com/degouville/cursor-recent-projects",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects",
       "treeSha": "13dedda3368b1e0527ce0f57cb6242c9e50ea8f2",
-      "downloads": 39319
+      "downloads": 39322
     },
     {
       "dir": "cursors",
@@ -10919,7 +10919,7 @@
       "store": "https://www.raycast.com/mblode/cyberchef",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cyberchef",
       "treeSha": "8853f5c07fe8e13f3bf280f66aac6a6f4cb59c43",
-      "downloads": 9127
+      "downloads": 9128
     },
     {
       "dir": "cyberduck",
@@ -11134,7 +11134,7 @@
       "store": "https://www.raycast.com/RSO/dash",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dash",
       "treeSha": "3221dcb0f6b33b621a15ee6139438780c0f8b991",
-      "downloads": 22307
+      "downloads": 22308
     },
     {
       "dir": "dash-off",
@@ -11318,7 +11318,7 @@
       "store": "https://www.raycast.com/asportnoy/date-converter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/date-converter",
       "treeSha": "9b58401d5e34b03b5b86a311707f7471826aebfa",
-      "downloads": 5356
+      "downloads": 5357
     },
     {
       "dir": "datetime-format-converter",
@@ -11339,7 +11339,7 @@
       "store": "https://www.raycast.com/yangxy/date-format-converter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter",
       "treeSha": "2a8341742a60f6a889bcee4c559f23d4370ea5cc",
-      "downloads": 8004
+      "downloads": 8007
     },
     {
       "dir": "dawa",
@@ -11617,7 +11617,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/research",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/deep-research",
       "treeSha": "13feed5d93b3f49fa1a5ddf69babb420d768459d",
-      "downloads": 3430
+      "downloads": 3431
     },
     {
       "dir": "deepcast",
@@ -11637,7 +11637,7 @@
       "store": "https://www.raycast.com/mooxl/deepcast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/deepcast",
       "treeSha": "73e7f0f0409d1ea5f542e2fc779184981485cd9d",
-      "downloads": 57516
+      "downloads": 57519
     },
     {
       "dir": "deepl-api-usage",
@@ -12136,7 +12136,7 @@
       "store": "https://www.raycast.com/michael_qiu/desktoprenamer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer",
       "treeSha": "522912ba2ff064dc9dd5b3ef7848d1bef746535b",
-      "downloads": 130
+      "downloads": 131
     },
     {
       "dir": "deta-space",
@@ -12237,7 +12237,7 @@
       "store": "https://www.raycast.com/lin/dev-to",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dev-to",
       "treeSha": "ccb43001c944f55c3cb340744316b1abf8908426",
-      "downloads": 477
+      "downloads": 478
     },
     {
       "dir": "devcontainer-features",
@@ -12277,7 +12277,7 @@
       "store": "https://www.raycast.com/djpowers/devdocs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/devdocs",
       "treeSha": "d666c21e305f475366ff111d275c48eba8fc24db",
-      "downloads": 8070
+      "downloads": 8074
     },
     {
       "dir": "developer-excuse",
@@ -12395,7 +12395,7 @@
       "store": "https://www.raycast.com/devutils/devutils",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/devutils",
       "treeSha": "b88192be8ee42ce13fe44e833421eb04b9b72cd5",
-      "downloads": 23352
+      "downloads": 23356
     },
     {
       "dir": "dex-screener",
@@ -12454,7 +12454,7 @@
       "store": "https://www.raycast.com/the-browser-company/dia",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dia",
       "treeSha": "48492f0e5cef0b2e81628f5194d018726d83a98e",
-      "downloads": 11984
+      "downloads": 11987
     },
     {
       "dir": "dia-skills",
@@ -12556,7 +12556,7 @@
       "store": "https://www.raycast.com/natterstefan/dict-cc",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dict-cc",
       "treeSha": "eb0f466230eef508ad363295129debe15fda5e98",
-      "downloads": 2483
+      "downloads": 2484
     },
     {
       "dir": "dictionary",
@@ -12618,7 +12618,7 @@
       "store": "https://www.raycast.com/destiner/diff-checker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/diff-checker",
       "treeSha": "ee049bb65b08308c72020014ec10faf324492c53",
-      "downloads": 18777
+      "downloads": 18780
     },
     {
       "dir": "diff-view",
@@ -13018,7 +13018,7 @@
       "store": "https://www.raycast.com/eluce2/displayplacer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/displayplacer",
       "treeSha": "67bd25fb303586aacd7bf42b7fa99223dbef212c",
-      "downloads": 8025
+      "downloads": 8026
     },
     {
       "dir": "distraction-tracker",
@@ -13179,7 +13179,7 @@
       "store": "https://www.raycast.com/yakitrak/do-not-disturb",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb",
       "treeSha": "7b379aa8400bd1c060da82e9349524830aab2071",
-      "downloads": 9604
+      "downloads": 9605
     },
     {
       "dir": "doccheck",
@@ -13259,7 +13259,7 @@
       "store": "https://www.raycast.com/priithaamer/docker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/docker",
       "treeSha": "68d2c65be2e1fe8f28103625d0db87e9df261690",
-      "downloads": 45679
+      "downloads": 45683
     },
     {
       "dir": "dockerhub",
@@ -13576,7 +13576,7 @@
       "store": "https://www.raycast.com/roele/doorstopper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/doorstopper",
       "treeSha": "a7e34cb7319fd05d4288d92892600a89641de870",
-      "downloads": 1014
+      "downloads": 1015
     },
     {
       "dir": "doppler-share-secrets",
@@ -13596,7 +13596,7 @@
       "store": "https://www.raycast.com/thomas/doppler-share-secrets",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets",
       "treeSha": "35dd1507eb9e390ecf7b646cb52fc1a40b14ffca",
-      "downloads": 1745
+      "downloads": 1746
     },
     {
       "dir": "dot-new",
@@ -13616,7 +13616,7 @@
       "store": "https://www.raycast.com/natterstefan/dot-new",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dot-new",
       "treeSha": "c94114ef1b2ae106d713c77832b20ad6f3f65c34",
-      "downloads": 577
+      "downloads": 578
     },
     {
       "dir": "dot-underscore-files-cleaner",
@@ -13835,7 +13835,7 @@
       "store": "https://www.raycast.com/thomas/downloads-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/downloads-manager",
       "treeSha": "4ac402678fdb36bf3a3a03e805c921bb9e9e919d",
-      "downloads": 72122
+      "downloads": 72128
     },
     {
       "dir": "dpm-lol",
@@ -13953,7 +13953,7 @@
       "store": "https://www.raycast.com/jag-k/dropover",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dropover",
       "treeSha": "93ab6c032a9af5704a81f3a40a33fdb680cb411c",
-      "downloads": 23753
+      "downloads": 23758
     },
     {
       "dir": "dropshare",
@@ -14276,7 +14276,7 @@
       "store": "https://www.raycast.com/albandum/dust-tt",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dust-tt",
       "treeSha": "dbe31b4d0ac6be50e915a89107ce8b5c62e8e3ad",
-      "downloads": 758
+      "downloads": 759
     },
     {
       "dir": "dutch-article",
@@ -14374,7 +14374,7 @@
       "store": "https://www.raycast.com/Yukai/eagle",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/eagle",
       "treeSha": "56c24bad7f7076a2561603755ebca093e7623ffc",
-      "downloads": 2543
+      "downloads": 2544
     },
     {
       "dir": "early-tools-news",
@@ -14452,7 +14452,7 @@
       "store": "https://www.raycast.com/koinzhang/easy-new-file",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easy-new-file",
       "treeSha": "52c435da75dddef237a967eac0ae6522c1fe519e",
-      "downloads": 11921
+      "downloads": 11923
     },
     {
       "dir": "easy-ocr",
@@ -14471,7 +14471,7 @@
       "store": "https://www.raycast.com/Rafo94/easy-ocr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easy-ocr",
       "treeSha": "d1013dbc87fc5fa293fa5ffdf7a4ca9a771433d8",
-      "downloads": 10195
+      "downloads": 10197
     },
     {
       "dir": "easydict",
@@ -14493,7 +14493,7 @@
       "store": "https://www.raycast.com/isfeng/easydict",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easydict",
       "treeSha": "48059715e3c50841728ae7a309fdc63737119454",
-      "downloads": 34357
+      "downloads": 34362
     },
     {
       "dir": "easyvariable",
@@ -14675,7 +14675,7 @@
       "store": "https://www.raycast.com/thomas/elgato-key-light",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light",
       "treeSha": "8161c38f12862f64f4828d4ac4d2fd26a570b88a",
-      "downloads": 2947
+      "downloads": 2948
     },
     {
       "dir": "elixir",
@@ -14832,7 +14832,7 @@
       "store": "https://www.raycast.com/FezVrasta/emoji",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/emoji",
       "treeSha": "dbb90d34eb4be92cf87195be940b922c3368cd0c",
-      "downloads": 64354
+      "downloads": 64356
     },
     {
       "dir": "emoji-kitchen",
@@ -15134,7 +15134,7 @@
       "store": "https://www.raycast.com/bgreenlee/epoch-to-timestamp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/epoch-to-timestamp",
       "treeSha": "9415e57fad79793eaf3696aeced38c7bf78ee65e",
-      "downloads": 3142
+      "downloads": 3143
     },
     {
       "dir": "esa-search",
@@ -15660,7 +15660,7 @@
       "store": "https://www.raycast.com/j3lte/exif",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/exif",
       "treeSha": "0c70cf625f23da78cc1100652e944ae6dbb6e1e7",
-      "downloads": 1196
+      "downloads": 1197
     },
     {
       "dir": "exivo",
@@ -15776,7 +15776,7 @@
       "store": "https://www.raycast.com/csigritz/f1-standings",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/f1-standings",
       "treeSha": "b6c182db0ae205d3e2a35ec340a357b3cd6d545a",
-      "downloads": 6898
+      "downloads": 6899
     },
     {
       "dir": "fabric",
@@ -15797,7 +15797,7 @@
       "store": "https://www.raycast.com/fbrc/fabric",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fabric",
       "treeSha": "80998563aee81c82466d74ba2f9dacae3b8985a7",
-      "downloads": 1964
+      "downloads": 1965
     },
     {
       "dir": "facetime",
@@ -15816,7 +15816,7 @@
       "store": "https://www.raycast.com/ron-myers/facetime",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/facetime",
       "treeSha": "da3881e37bc33a7701e14f1b360d3d51f31c480d",
-      "downloads": 14268
+      "downloads": 14269
     },
     {
       "dir": "fake-financial-data",
@@ -15935,7 +15935,7 @@
       "store": "https://www.raycast.com/peduarte/fancy-text",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fancy-text",
       "treeSha": "6c703e3443d1c71d6598ff68a329fa4b7593a381",
-      "downloads": 5158
+      "downloads": 5159
     },
     {
       "dir": "fantastical",
@@ -15955,7 +15955,7 @@
       "store": "https://www.raycast.com/devahschaefers/fantastical",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fantastical",
       "treeSha": "b6d3716b4cf6804867d69f2449c8f4e0f0ef8584",
-      "downloads": 19233
+      "downloads": 19234
     },
     {
       "dir": "fantasy-premier-league-rankings",
@@ -16115,7 +16115,7 @@
       "store": "https://www.raycast.com/yannglt/fathom-analytics-stats",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats",
       "treeSha": "7e710e99a57a08699e4f8fa25dfab79d8061b8fe",
-      "downloads": 136
+      "downloads": 137
     },
     {
       "dir": "favoro",
@@ -16396,7 +16396,7 @@
       "store": "https://www.raycast.com/michaelschultz/figma-files-raycast-extension",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/figma-files",
       "treeSha": "6ea108529bea50c9d7d77d1fd69bd7b229959f48",
-      "downloads": 44771
+      "downloads": 44773
     },
     {
       "dir": "figma-learn-companion",
@@ -16539,7 +16539,7 @@
       "store": "https://www.raycast.com/erics118/file-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/file-manager",
       "treeSha": "cb733f7cf5bcb7593be5eec85cd7665fe527e1f2",
-      "downloads": 29102
+      "downloads": 29103
     },
     {
       "dir": "file-organizer",
@@ -16776,7 +16776,7 @@
       "store": "https://www.raycast.com/edrf/finderutils",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/finderutils",
       "treeSha": "a7ff3b0ee8361ce3e30b81ef393d380869d50b4b",
-      "downloads": 3539
+      "downloads": 3540
     },
     {
       "dir": "findnearby",
@@ -17234,7 +17234,7 @@
       "store": "https://www.raycast.com/fayecat/floaty",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/floaty",
       "treeSha": "4bc860d9474b034e3d8241d198ee04a0d950cbf9",
-      "downloads": 910
+      "downloads": 912
     },
     {
       "dir": "flow",
@@ -17572,7 +17572,7 @@
       "store": "https://www.raycast.com/GastroGeek/folder-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/folder-search",
       "treeSha": "0efcadca716a08e3531bbaf1cd4da1e5c1a2c59a",
-      "downloads": 44481
+      "downloads": 44484
     },
     {
       "dir": "font-converter",
@@ -17655,7 +17655,7 @@
       "store": "https://www.raycast.com/dutzi/font-awesome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fontawesome",
       "treeSha": "d7731fb59f5d14d766957cdd145cf43adfb3424d",
-      "downloads": 8520
+      "downloads": 8521
     },
     {
       "dir": "foodle-recipes",
@@ -18309,7 +18309,7 @@
       "store": "https://www.raycast.com/ojowwalker77/g-cloud",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/g-cloud",
       "treeSha": "503830c34d41caae8d4f0bcf26c9108857e16521",
-      "downloads": 751
+      "downloads": 752
     },
     {
       "dir": "game-scout",
@@ -18689,7 +18689,7 @@
       "store": "https://www.raycast.com/vimtor/get-favicon",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/get-favicon",
       "treeSha": "a0f59451e23d74caaf282fb519c21ae310d78bfa",
-      "downloads": 1676
+      "downloads": 1677
     },
     {
       "dir": "get-note",
@@ -18728,7 +18728,7 @@
       "store": "https://www.raycast.com/Theon/get-ssh-key",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key",
       "treeSha": "4c9aff2b622d6ebcdc05bc398002b778ac25d885",
-      "downloads": 3455
+      "downloads": 3456
     },
     {
       "dir": "getcompress",
@@ -18868,7 +18868,7 @@
       "store": "https://www.raycast.com/jarry_chung/ghostty",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ghostty",
       "treeSha": "309e824fd74945d2033a0f181ec8ba7442704a98",
-      "downloads": 13198
+      "downloads": 13201
     },
     {
       "dir": "ghq",
@@ -18909,7 +18909,7 @@
       "store": "https://www.raycast.com/josephschmitt/gif-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gif-search",
       "treeSha": "5912a4ba9856b731dce94e3ca702a5e4c152f081",
-      "downloads": 89006
+      "downloads": 89019
     },
     {
       "dir": "gift-stardew-valley",
@@ -18990,7 +18990,7 @@
       "store": "https://www.raycast.com/ernest0n/git",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/git",
       "treeSha": "a13fac4af03ed33daf8926268180ebbf8463724b",
-      "downloads": 1036
+      "downloads": 1037
     },
     {
       "dir": "git-assistant",
@@ -19009,7 +19009,7 @@
       "store": "https://www.raycast.com/validate/git-assistant",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/git-assistant",
       "treeSha": "4690b40488fa00fbb81a643b7db653660a11e020",
-      "downloads": 1945
+      "downloads": 1946
     },
     {
       "dir": "git-batch-tools",
@@ -19110,7 +19110,7 @@
       "store": "https://www.raycast.com/manumorante/git-commands",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/git-commands",
       "treeSha": "8356b1ef893ba45a3e298f3e1c9a91519460f96b",
-      "downloads": 8949
+      "downloads": 8950
     },
     {
       "dir": "git-profile",
@@ -19150,7 +19150,7 @@
       "store": "https://www.raycast.com/moored/git-repos",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/git-repos",
       "treeSha": "6e69a822cf2e40bd2a27fd6fc103dd784e5ee070",
-      "downloads": 25756
+      "downloads": 25760
     },
     {
       "dir": "git-worktrees",
@@ -19271,7 +19271,7 @@
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
       "treeSha": "f206a8b3e19b0abb486b7e4c7cb84f5e16ed89e8",
-      "downloads": 178461
+      "downloads": 178480
     },
     {
       "dir": "github-cli-manual",
@@ -19331,7 +19331,7 @@
       "store": "https://www.raycast.com/github/github-copilot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github-copilot",
       "treeSha": "3c5188179c55a527a498ecfa828920025c3aa88f",
-      "downloads": 9401
+      "downloads": 9406
     },
     {
       "dir": "github-for-enterprise",
@@ -19350,7 +19350,7 @@
       "store": "https://www.raycast.com/Kinbaum/github-for-enterprise",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise",
       "treeSha": "4091da6e8b203d406daf2a4c126f9c4f908c213c",
-      "downloads": 4102
+      "downloads": 4103
     },
     {
       "dir": "github-gist",
@@ -19429,7 +19429,7 @@
       "store": "https://www.raycast.com/thomas/github-repository-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github-repository-search",
       "treeSha": "c38fca9a3c5b1860ea7b640efbbb66785611d11a",
-      "downloads": 15450
+      "downloads": 15454
     },
     {
       "dir": "github-review-requests",
@@ -19549,7 +19549,7 @@
       "store": "https://www.raycast.com/mikqi/github-trending",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github-trending",
       "treeSha": "6a3a485802c1c8f70c38b3bc6fe8932b3e321bce",
-      "downloads": 3283
+      "downloads": 3285
     },
     {
       "dir": "github-users",
@@ -19589,7 +19589,7 @@
       "store": "https://www.raycast.com/daniel-stoneuk/gitignore",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gitignore",
       "treeSha": "fd6aeca9cee706fdc7a1d271f890fee67cc4f8fd",
-      "downloads": 3740
+      "downloads": 3742
     },
     {
       "dir": "gitlab",
@@ -19609,7 +19609,7 @@
       "store": "https://www.raycast.com/tonka3000/gitlab",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gitlab",
       "treeSha": "1dc0ee690a0e3405012cd059ecddd8eac59ddda0",
-      "downloads": 20423
+      "downloads": 20427
     },
     {
       "dir": "gitlab-docs",
@@ -19871,7 +19871,7 @@
       "store": "https://www.raycast.com/tonka3000/gmail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gmail",
       "treeSha": "9e2ca6c6758d5abf66668596752954c8e239f439",
-      "downloads": 35099
+      "downloads": 35101
     },
     {
       "dir": "gmail-accounts",
@@ -20109,7 +20109,7 @@
       "store": "https://www.raycast.com/thomas/google-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-calendar",
       "treeSha": "a62123d1e8a03aecd62d4e70a8a36e5d39ce3158",
-      "downloads": 58626
+      "downloads": 58631
     },
     {
       "dir": "google-calendar-quickadd",
@@ -20147,7 +20147,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483079
+      "downloads": 483138
     },
     {
       "dir": "google-chrome-profiles",
@@ -20167,7 +20167,7 @@
       "store": "https://www.raycast.com/frouo/google-chrome-profiles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles",
       "treeSha": "08365dac0525764882f826c5baad856e779b5d50",
-      "downloads": 13098
+      "downloads": 13101
     },
     {
       "dir": "google-cloud-platform-search",
@@ -20291,7 +20291,7 @@
       "store": "https://www.raycast.com/GastroGeek/google-fonts",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-fonts",
       "treeSha": "babf2160643ba3bb488cff376ebc03378999c807",
-      "downloads": 26375
+      "downloads": 26378
     },
     {
       "dir": "google-lens",
@@ -20333,7 +20333,7 @@
       "store": "https://www.raycast.com/ratoru/google-maps-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-maps-search",
       "treeSha": "08374ded9020985d3efe0c692ac1ef1b80778b78",
-      "downloads": 45362
+      "downloads": 45365
     },
     {
       "dir": "google-maven-repository",
@@ -20372,7 +20372,7 @@
       "store": "https://www.raycast.com/vitoorgomes/google-meet",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-meet",
       "treeSha": "6b8bc6c46d690549cd3e4f6258b208ee953b706d",
-      "downloads": 31720
+      "downloads": 31725
     },
     {
       "dir": "google-scholar",
@@ -20411,7 +20411,7 @@
       "store": "https://www.raycast.com/mblode/google-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-search",
       "treeSha": "90b9450485d1b5f84cbe738753b7eca0406a14ab",
-      "downloads": 132982
+      "downloads": 132992
     },
     {
       "dir": "google-tasks",
@@ -20431,7 +20431,7 @@
       "store": "https://www.raycast.com/elliotdes/google-tasks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-tasks",
       "treeSha": "c71d304c5b9a2444ca2561612ba306c6948dcacc",
-      "downloads": 9879
+      "downloads": 9880
     },
     {
       "dir": "google-translate",
@@ -20452,7 +20452,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "86b0f5e9f012708e26cc1d8db4097dc0579888b5",
-      "downloads": 429741
+      "downloads": 429785
     },
     {
       "dir": "google-trends",
@@ -20493,7 +20493,7 @@
       "store": "https://www.raycast.com/raycast/google-workspace",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-workspace",
       "treeSha": "0c33a65633712d92bf8af20eab2ce45915906de8",
-      "downloads": 52674
+      "downloads": 52678
     },
     {
       "dir": "gopass",
@@ -20513,7 +20513,7 @@
       "store": "https://www.raycast.com/bake/gopass",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gopass",
       "treeSha": "f8ea20f64abd643209bc461665e12e12ed001e36",
-      "downloads": 496
+      "downloads": 497
     },
     {
       "dir": "gotify",
@@ -21201,7 +21201,7 @@
       "store": "https://www.raycast.com/thomas/hacker-news",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hacker-news",
       "treeSha": "305e8c28c5b2ccc95f578e09f73e4a8100bd4a99",
-      "downloads": 21065
+      "downloads": 21068
     },
     {
       "dir": "hacker-news-top-stories",
@@ -21320,7 +21320,7 @@
       "store": "https://www.raycast.com/mattiacolombomc/handy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/handy",
       "treeSha": "b77846c7a0c7fd187be5f44139636f4609c17499",
-      "downloads": 926
+      "downloads": 929
     },
     {
       "dir": "hardcover",
@@ -21519,7 +21519,7 @@
       "store": "https://www.raycast.com/ratoru/hazeover",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hazeover",
       "treeSha": "5f69fb78e8cb381b63cc83073677132e9971f9a5",
-      "downloads": 2715
+      "downloads": 2716
     },
     {
       "dir": "hdr-toggle",
@@ -21835,7 +21835,7 @@
       "store": "https://www.raycast.com/vlades/herdr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/herdr",
       "treeSha": "be5ec93f5361f6afa9293f19e537d4e8e8680b7e",
-      "downloads": 101
+      "downloads": 105
     },
     {
       "dir": "hermes-agent",
@@ -22057,7 +22057,7 @@
       "store": "https://www.raycast.com/peduarte/hide-all-apps",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps",
       "treeSha": "eb040b7a7f2b882f4bd038399b3768d0e49c9781",
-      "downloads": 7470
+      "downloads": 7471
     },
     {
       "dir": "hide-files",
@@ -22276,7 +22276,7 @@
       "store": "https://www.raycast.com/tonka3000/homeassistant",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/homeassistant",
       "treeSha": "6436e7857354cea154e68b1cc7a6781dbfa4dbf1",
-      "downloads": 25758
+      "downloads": 25761
     },
     {
       "dir": "homebox",
@@ -22638,7 +22638,7 @@
       "store": "https://www.raycast.com/Alex_/http-status-codes",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/http-status-codes",
       "treeSha": "0e8f40f67eabb6b96a805e9608837335a9fd4cc9",
-      "downloads": 18042
+      "downloads": 18045
     },
     {
       "dir": "http.cat",
@@ -23063,7 +23063,7 @@
       "store": "https://www.raycast.com/destiner/iconify",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/iconify",
       "treeSha": "c6f6a1847e779e930ddba32bfc83bcffbcc40582",
-      "downloads": 25032
+      "downloads": 25037
     },
     {
       "dir": "iconpark",
@@ -23222,7 +23222,7 @@
       "store": "https://www.raycast.com/mohamedk1/ilovepdf",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ilovepdf",
       "treeSha": "41490340c8edec9380ea2ed965a26e53118511b2",
-      "downloads": 2842
+      "downloads": 2843
     },
     {
       "dir": "image-base64",
@@ -23379,7 +23379,7 @@
       "store": "https://www.raycast.com/ridemountainpig/image-to-ascii",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii",
       "treeSha": "d96b5ead8866a3d84507f23f716b2fa4109081e0",
-      "downloads": 797
+      "downloads": 798
     },
     {
       "dir": "image-wallet",
@@ -23399,7 +23399,7 @@
       "store": "https://www.raycast.com/ibll/image-wallet",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/image-wallet",
       "treeSha": "cef2bf09cb8bd55824c1e9f3f8339d8644b291e6",
-      "downloads": 1440
+      "downloads": 1441
     },
     {
       "dir": "imagekit-uploader",
@@ -23459,7 +23459,7 @@
       "store": "https://www.raycast.com/ryan/imdb",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/imdb",
       "treeSha": "4fca5591b0971124ac5ac24c210c656bbff09c9d",
-      "downloads": 13108
+      "downloads": 13110
     },
     {
       "dir": "imessage-2fa",
@@ -23960,7 +23960,7 @@
       "store": "https://www.raycast.com/ridemountainpig/instagram-media-downloader",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader",
       "treeSha": "b9fdc84dc426e27fec0bae4fe49632ad4ab42461",
-      "downloads": 6309
+      "downloads": 6312
     },
     {
       "dir": "installed-extensions",
@@ -23980,7 +23980,7 @@
       "store": "https://www.raycast.com/pernielsentikaer/installed-extensions",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/installed-extensions",
       "treeSha": "4df004327c8ecbd2a03c864b8b1343d576c497b0",
-      "downloads": 41570
+      "downloads": 41574
     },
     {
       "dir": "instant-domain-search",
@@ -24241,7 +24241,7 @@
       "store": "https://www.raycast.com/koinzhang/ip-geolocation",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation",
       "treeSha": "d59d18d0bdb4566c6ba44e39f97ad61306ecb7d7",
-      "downloads": 23120
+      "downloads": 23121
     },
     {
       "dir": "ip-tools",
@@ -24262,7 +24262,7 @@
       "store": "https://www.raycast.com/meguoe/ip-tools",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ip-tools",
       "treeSha": "a3d50a9aece641eccaba3275500b1e5e11de86cc",
-      "downloads": 3572
+      "downloads": 3573
     },
     {
       "dir": "ipa-translator",
@@ -24320,7 +24320,7 @@
       "store": "https://www.raycast.com/jason5ng32/ipcheck-ing",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing",
       "treeSha": "b189092a86aa2dee4eadea251470a6abacf5380f",
-      "downloads": 1817
+      "downloads": 1818
     },
     {
       "dir": "ipinfo",
@@ -24548,7 +24548,7 @@
       "store": "https://www.raycast.com/JinShi/itranslate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/itranslate",
       "treeSha": "5758e53c531f48903bc9455e6f429bb83855abe7",
-      "downloads": 10596
+      "downloads": 10598
     },
     {
       "dir": "ivpn",
@@ -24707,7 +24707,7 @@
       "store": "https://www.raycast.com/gdsmith/jetbrains",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jetbrains",
       "treeSha": "470bc302796a5087d97299feb1b30b5d70635e4b",
-      "downloads": 30187
+      "downloads": 30191
     },
     {
       "dir": "jetpack-commands",
@@ -24748,7 +24748,7 @@
       "store": "https://www.raycast.com/raycast/jira",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jira",
       "treeSha": "cb0d48e89b9dfbd347eb637411082b71a0e3f992",
-      "downloads": 59038
+      "downloads": 59042
     },
     {
       "dir": "jira-search",
@@ -24768,7 +24768,7 @@
       "store": "https://www.raycast.com/sven/jira-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jira-search",
       "treeSha": "e58edaea546df46c167c214c60f1e64adfb942a2",
-      "downloads": 7922
+      "downloads": 7923
     },
     {
       "dir": "jira-search-self-hosted",
@@ -24787,7 +24787,7 @@
       "store": "https://www.raycast.com/emanguy/jira-search-self-hosted",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jira-search-self-hosted",
       "treeSha": "8199034f76337d2f36dcfb92838c874d43498cd9",
-      "downloads": 4558
+      "downloads": 4559
     },
     {
       "dir": "jira-self-hosted",
@@ -25040,7 +25040,7 @@
       "store": "https://www.raycast.com/HerbertLu/json-editor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/json-editor",
       "treeSha": "b782d90f124e6c953060860ae9abe929716ea6bc",
-      "downloads": 4461
+      "downloads": 4463
     },
     {
       "dir": "json-format",
@@ -25061,7 +25061,7 @@
       "store": "https://www.raycast.com/destiner/json-format",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/json-format",
       "treeSha": "c0f524e596cb80b33940c2cc47f031721768307b",
-      "downloads": 87376
+      "downloads": 87384
     },
     {
       "dir": "json-resume",
@@ -25262,7 +25262,7 @@
       "store": "https://www.raycast.com/HelloImSteven/jump",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jump",
       "treeSha": "1b651b8ee6c478b187e93f15ee1a3a7cd71ee941",
-      "downloads": 1677
+      "downloads": 1678
     },
     {
       "dir": "jupiter-aggregator",
@@ -25427,7 +25427,7 @@
       "store": "https://www.raycast.com/gdsmith/jwt-decoder",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder",
       "treeSha": "cb12baa3755a663baa60edae3a0f99c06efad925",
-      "downloads": 15524
+      "downloads": 15527
     },
     {
       "dir": "kaalam",
@@ -25446,7 +25446,7 @@
       "store": "https://www.raycast.com/heerthees/kaalam",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kaalam",
       "treeSha": "9825f791f1a2e61f00cc13dce0b83861b0818d28",
-      "downloads": 840
+      "downloads": 841
     },
     {
       "dir": "kafka",
@@ -25565,7 +25565,7 @@
       "store": "https://www.raycast.com/leitmotif/kaleidoscope",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope",
       "treeSha": "e8d81be7ffc1b64e9492f5e90c608e10c3e8658b",
-      "downloads": 857
+      "downloads": 858
     },
     {
       "dir": "kalshi",
@@ -25627,7 +25627,7 @@
       "store": "https://www.raycast.com/yalishanda/kaomoji-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search",
       "treeSha": "be900bb51a5581ccc031a1fcc1d6c3768bd44246",
-      "downloads": 4941
+      "downloads": 4947
     },
     {
       "dir": "karabiner-profile-switcher",
@@ -25667,7 +25667,7 @@
       "store": "https://www.raycast.com/luolei/karakeep",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/karakeep",
       "treeSha": "366852cb2bfea35f554ebd198c39e1df4d83c10f",
-      "downloads": 2072
+      "downloads": 2073
     },
     {
       "dir": "kaset-control",
@@ -25885,7 +25885,7 @@
       "store": "https://www.raycast.com/lucaschultz/input-switcher",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher",
       "treeSha": "f957b44212144e59392e1be50f60c9b41b813da9",
-      "downloads": 4476
+      "downloads": 4477
     },
     {
       "dir": "keyboard-maestro",
@@ -25905,7 +25905,7 @@
       "store": "https://www.raycast.com/eluce2/list-keyboard-maestro-macros",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro",
       "treeSha": "3d3b3106a8ed5486bc2251caef658a050f1ac72d",
-      "downloads": 8489
+      "downloads": 8490
     },
     {
       "dir": "keyboard-shortcut-sequences",
@@ -25926,7 +25926,7 @@
       "store": "https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences",
       "treeSha": "be3314a7f6888d4f0da46c697084c6cb2b53e699",
-      "downloads": 5516
+      "downloads": 5519
     },
     {
       "dir": "keyboard-win-mac-switch",
@@ -25964,7 +25964,7 @@
       "store": "https://www.raycast.com/breadone/keychain-password-gen",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen",
       "treeSha": "b9783980d899c1d22ef81e0265b1ba8ed7085248",
-      "downloads": 1511
+      "downloads": 1512
     },
     {
       "dir": "keygen",
@@ -26068,7 +26068,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650513
+      "downloads": 650574
     },
     {
       "dir": "kimai",
@@ -26229,7 +26229,7 @@
       "store": "https://www.raycast.com/jerome_soyer/kitty",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kitty",
       "treeSha": "bd9873f4b7d3880dc23566f4dede74f2f35b1553",
-      "downloads": 209
+      "downloads": 211
     },
     {
       "dir": "klack",
@@ -26467,7 +26467,7 @@
       "store": "https://www.raycast.com/oktay/kubectx",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kubectx",
       "treeSha": "699871f519360760dee8b20483180cee728526b9",
-      "downloads": 1481
+      "downloads": 1483
     },
     {
       "dir": "kubens",
@@ -26486,7 +26486,7 @@
       "store": "https://www.raycast.com/ChrisKohler/kubens",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kubens",
       "treeSha": "e0a9acc2b43587bdaa014285f310c9a5e2a59ea1",
-      "downloads": 760
+      "downloads": 762
     },
     {
       "dir": "kubernetes",
@@ -26691,7 +26691,7 @@
       "store": "https://www.raycast.com/lucastaonline/raycast-language-tool",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/language-tool",
       "treeSha": "36de7a269c841a6f4d156dd9d60214e0a0ff3a4c",
-      "downloads": 895
+      "downloads": 896
     },
     {
       "dir": "lapack-blas-documentation-search",
@@ -27158,7 +27158,7 @@
       "store": "https://www.raycast.com/JeffersonDing/latex-math-symbols",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/latex-math-symbols",
       "treeSha": "c6f31e72e3d3ad56a939a4cfeee1ce4e5d36a163",
-      "downloads": 4280
+      "downloads": 4281
     },
     {
       "dir": "lattice-scholar-extension",
@@ -27217,7 +27217,7 @@
       "store": "https://www.raycast.com/wesbaker/launchd-monitor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor",
       "treeSha": "14bfdfd7a6bd41598034ff8548b4ec7a9f737783",
-      "downloads": 85
+      "downloads": 86
     },
     {
       "dir": "launchdarkly",
@@ -27935,7 +27935,7 @@
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
       "treeSha": "dedb10270ea7f92e48c70947e726809d79be32c7",
-      "downloads": 334184
+      "downloads": 334234
     },
     {
       "dir": "lingo-rep-raycast",
@@ -27994,7 +27994,7 @@
       "store": "https://www.raycast.com/toni_birka/link-bundles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/link-bundles",
       "treeSha": "d91ae02eabdfbb268b0ee25fd410ef93d189685e",
-      "downloads": 558
+      "downloads": 559
     },
     {
       "dir": "link-cleaner",
@@ -28173,7 +28173,7 @@
       "store": "https://www.raycast.com/jaywcjlove/linux-command",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linux-command",
       "treeSha": "d7770490385f72919deaa75a49275597c7adb202",
-      "downloads": 3654
+      "downloads": 3655
     },
     {
       "dir": "lipsum",
@@ -28335,7 +28335,7 @@
       "store": "https://www.raycast.com/ernest0n/llm-stats",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/llm-stats",
       "treeSha": "9b03ee04f3a494591183105df3ee029ea06c8671",
-      "downloads": 1106
+      "downloads": 1107
     },
     {
       "dir": "llms-txt",
@@ -28763,7 +28763,7 @@
       "store": "https://www.raycast.com/AntonNiklasson/lorem-ipsum",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum",
       "treeSha": "5e0c9a5cd62da702349674b054a82d28b65802f5",
-      "downloads": 95077
+      "downloads": 95090
     },
     {
       "dir": "lorem-picsum",
@@ -28867,7 +28867,7 @@
       "store": "https://www.raycast.com/Sn0wye/lucide-icons",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/lucide-icons",
       "treeSha": "0eb7a3ebb150620c5ec6e3f457ffd15c25c0a473",
-      "downloads": 7600
+      "downloads": 7602
     },
     {
       "dir": "lucky-surf",
@@ -29144,7 +29144,7 @@
       "store": "https://www.raycast.com/say4n/mac-app-store-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search",
       "treeSha": "4fdd66daa18cfaefbfced58e8bd45ce1e203957b",
-      "downloads": 8357
+      "downloads": 8358
     },
     {
       "dir": "mac-mouse-fix",
@@ -29321,7 +29321,7 @@
       "store": "https://www.raycast.com/Tien-Lam/macshot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/macshot",
       "treeSha": "4984cabd470603cc615b27db8511b1cb5227b635",
-      "downloads": 51
+      "downloads": 52
     },
     {
       "dir": "macstories",
@@ -29419,7 +29419,7 @@
       "store": "https://www.raycast.com/yug2005/mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mail",
       "treeSha": "c8f4ef455dafdd040a956c6e1c93ca8c3a2da71b",
-      "downloads": 40049
+      "downloads": 40051
     },
     {
       "dir": "mail-to-self",
@@ -30042,7 +30042,7 @@
       "store": "https://www.raycast.com/codedbyjordan/markdown-reference",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/markdown-reference",
       "treeSha": "812062ec255778daa356eb9351d9a9b02f5cc62a",
-      "downloads": 11094
+      "downloads": 11096
     },
     {
       "dir": "markdown-slides",
@@ -30502,7 +30502,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/mcp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mcp",
       "treeSha": "4f522e7dbaccc6dce86bfc141b5383918430cb42",
-      "downloads": 7636
+      "downloads": 7639
     },
     {
       "dir": "md-to-excel",
@@ -30543,7 +30543,7 @@
       "store": "https://www.raycast.com/leandro.maia/media-converter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/media-converter",
       "treeSha": "9c21931f394e1a820702b6a55db54e4dc631a133",
-      "downloads": 23500
+      "downloads": 23501
     },
     {
       "dir": "medialister-marketplace-helper",
@@ -30660,7 +30660,7 @@
       "store": "https://www.raycast.com/timoransky/meme-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/meme-generator",
       "treeSha": "2d87fca6f3443fc894c86ba74014a56a59c8eefd",
-      "downloads": 13362
+      "downloads": 13363
     },
     {
       "dir": "memo",
@@ -30898,7 +30898,7 @@
       "store": "https://www.raycast.com/thomaslombart/messages",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/messages",
       "treeSha": "3729dd3dda528d8140f3b1db75cdc15cb33a181b",
-      "downloads": 44229
+      "downloads": 44231
     },
     {
       "dir": "meta-music",
@@ -31122,7 +31122,7 @@
       "store": "https://www.raycast.com/crisboarna/microsoft-azure",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure",
       "treeSha": "14aa10836951cf369421562bce136877bf926b47",
-      "downloads": 2387
+      "downloads": 2389
     },
     {
       "dir": "microsoft-edge",
@@ -31142,7 +31142,7 @@
       "store": "https://www.raycast.com/KartikKumarSahoo/microsoft-edge",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge",
       "treeSha": "27fa4d3fd3993d4c32563e0ed542dc0ea83f2888",
-      "downloads": 12914
+      "downloads": 12915
     },
     {
       "dir": "microsoft-office",
@@ -31202,7 +31202,7 @@
       "store": "https://www.raycast.com/sven/microsoft-teams",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams",
       "treeSha": "502dd576035f2e8c8a5b6ae83d4b4c0eb06ed5c1",
-      "downloads": 17815
+      "downloads": 17817
     },
     {
       "dir": "microsoft-teams-calling",
@@ -31262,7 +31262,7 @@
       "store": "https://www.raycast.com/carter/midjourney",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/midjourney",
       "treeSha": "42b8e9c0801cdf0ff2f1870e5fbe1f5ad45cb623",
-      "downloads": 3025
+      "downloads": 3026
     },
     {
       "dir": "migadu",
@@ -31844,7 +31844,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "93565674e687f7f3a83172892501aa922972fa6c",
-      "downloads": 35827
+      "downloads": 35830
     },
     {
       "dir": "models-dev",
@@ -31965,7 +31965,7 @@
       "store": "https://www.raycast.com/jlrochin/mole",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mole",
       "treeSha": "5843ed31c250b132cebdab7651fef6b3cdc5fce2",
-      "downloads": 9472
+      "downloads": 9481
     },
     {
       "dir": "mollie-for-raycast",
@@ -32022,7 +32022,7 @@
       "store": "https://www.raycast.com/freak4pc/monday-com",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/monday",
       "treeSha": "8d61e584199627d25327342f38a8079134b93653",
-      "downloads": 1665
+      "downloads": 1667
     },
     {
       "dir": "moneybird",
@@ -32123,7 +32123,7 @@
       "store": "https://www.raycast.com/MuhaddiMu/monitor-mate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/monitor-mate",
       "treeSha": "e0e59273973b98f051546dcc22b46d37c3fecd7d",
-      "downloads": 300
+      "downloads": 301
     },
     {
       "dir": "monkeytype",
@@ -32355,7 +32355,7 @@
       "store": "https://www.raycast.com/stevefrost/mouse-jiggle",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mouse-jiggle",
       "treeSha": "1147ebd103bc8eaa415fffebf694ac83c675e95c",
-      "downloads": 125
+      "downloads": 126
     },
     {
       "dir": "mousehunt-helper",
@@ -32458,7 +32458,7 @@
       "store": "https://www.raycast.com/crisboarna/mozilla-firefox",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox",
       "treeSha": "15d9993382c6f19dd1be7d5ef53136a4be5ecd32",
-      "downloads": 12303
+      "downloads": 12304
     },
     {
       "dir": "mozilla-vpn",
@@ -32657,7 +32657,7 @@
       "store": "https://www.raycast.com/fedevitaledev/music",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/music",
       "treeSha": "42fe5469f8247c0b64d9deac790cd50eca5cef00",
-      "downloads": 87786
+      "downloads": 87788
     },
     {
       "dir": "music-assistant-controls",
@@ -32696,7 +32696,7 @@
       "store": "https://www.raycast.com/Quentin23Soleil/music-link-converter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/music-link-converter",
       "treeSha": "6abbf8b88721477b2d96f5a15ba2f62cfc137808",
-      "downloads": 2572
+      "downloads": 2573
     },
     {
       "dir": "music-news",
@@ -32956,7 +32956,7 @@
       "store": "https://www.raycast.com/Kang/myip",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/myip",
       "treeSha": "432f3d917962e932fc3a7141d9903ac7e9352378",
-      "downloads": 43918
+      "downloads": 43925
     },
     {
       "dir": "mymind",
@@ -32977,7 +32977,7 @@
       "store": "https://www.raycast.com/mymind/mymind",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mymind",
       "treeSha": "4727e3f0b38a6519fc4ef5b0680789827e014b54",
-      "downloads": 1232
+      "downloads": 1233
     },
     {
       "dir": "mynaui-icons",
@@ -33550,7 +33550,7 @@
       "store": "https://www.raycast.com/hmarr/network-diagnostics",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics",
       "treeSha": "73f64c698a2ebc108c687d4c859c0d1937307609",
-      "downloads": 3514
+      "downloads": 3515
     },
     {
       "dir": "network-drive",
@@ -34245,7 +34245,7 @@
       "store": "https://www.raycast.com/Selfish/node-js-evaluate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/node-js-evaluate",
       "treeSha": "0c790b63350cb56f38e45985293dc7c0705367fc",
-      "downloads": 2552
+      "downloads": 2553
     },
     {
       "dir": "node-release-notes",
@@ -34526,7 +34526,7 @@
       "store": "https://www.raycast.com/notion/notion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/notion",
       "treeSha": "ad32727f828c441c4e591e0614d962632f8e345b",
-      "downloads": 243428
+      "downloads": 243447
     },
     {
       "dir": "notion_researcher",
@@ -34629,7 +34629,7 @@
       "store": "https://www.raycast.com/Rob/noun-project",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/noun-project",
       "treeSha": "3427ff1ddce585d6e76b66b7d5add44e9abe134c",
-      "downloads": 1215
+      "downloads": 1216
     },
     {
       "dir": "nouns",
@@ -35047,7 +35047,7 @@
       "store": "https://www.raycast.com/HugoRCD/nuxt",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nuxt",
       "treeSha": "82134965f5a011d525dcf35979effc33df37cb8e",
-      "downloads": 922
+      "downloads": 924
     },
     {
       "dir": "nyc-train-tracker",
@@ -35125,7 +35125,7 @@
       "store": "https://www.raycast.com/trevware/obs-clippings",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obs-clippings",
       "treeSha": "74b9e3cdd35ffa140d1662c3d029666a0f9672a1",
-      "downloads": 2690
+      "downloads": 2691
     },
     {
       "dir": "obs-control",
@@ -35164,7 +35164,7 @@
       "store": "https://www.raycast.com/marcjulian/obsidian",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian",
       "treeSha": "4608027ab524b2e00a4150131f1505fb6d90dc3e",
-      "downloads": 148622
+      "downloads": 148636
     },
     {
       "dir": "obsidian-bookmarks",
@@ -35185,7 +35185,7 @@
       "store": "https://www.raycast.com/dru89/obsidian-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks",
       "treeSha": "4d3a6b07802d28921f7656290921b06bb33fccb0",
-      "downloads": 6262
+      "downloads": 6263
     },
     {
       "dir": "obsidian-link-opener",
@@ -35223,7 +35223,7 @@
       "store": "https://www.raycast.com/millin_gabani/obsidian-smart-capture",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian-smart-capture",
       "treeSha": "4981950ad011cb9c161901b6d17799aaf8f0d99d",
-      "downloads": 13353
+      "downloads": 13356
     },
     {
       "dir": "obsidian-tasks",
@@ -35242,7 +35242,7 @@
       "store": "https://www.raycast.com/ozencb/obsidian-tasks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks",
       "treeSha": "4e20eb1446a56330dbcf9f9a1e3b89d4c6fbf018",
-      "downloads": 3699
+      "downloads": 3700
     },
     {
       "dir": "oci",
@@ -35481,7 +35481,7 @@
       "store": "https://www.raycast.com/k8scat/ohmyzsh-plugins",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins",
       "treeSha": "0f920cfea8304e7486488c6af40dcb0741c8ea44",
-      "downloads": 6705
+      "downloads": 6708
     },
     {
       "dir": "ok-json",
@@ -35781,7 +35781,7 @@
       "store": "https://www.raycast.com/lachero/one-time-password",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/one-time-password",
       "treeSha": "a0e835570a990e1605fe7e1eb1704b428dfe5771",
-      "downloads": 2043
+      "downloads": 2044
     },
     {
       "dir": "one-time-secret",
@@ -35840,7 +35840,7 @@
       "store": "https://www.raycast.com/alewandowski/onenote",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/onenote",
       "treeSha": "d23453a4366a65b2c815a34bc289bfc597510fb5",
-      "downloads": 3749
+      "downloads": 3750
     },
     {
       "dir": "ones",
@@ -35920,7 +35920,7 @@
       "store": "https://www.raycast.com/timothy_boye/open-folders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/open-folders",
       "treeSha": "3d2f139b33b8fc7f7978a6bf9ae01b50e203ff7c",
-      "downloads": 17821
+      "downloads": 17822
     },
     {
       "dir": "open-gem-documentation",
@@ -36061,7 +36061,7 @@
       "store": "https://www.raycast.com/anfalas/open-in-sublime-text",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text",
       "treeSha": "2ea0de87107866c21520fba0533e2c52d040cf77",
-      "downloads": 1865
+      "downloads": 1866
     },
     {
       "dir": "open-in-textmate",
@@ -36123,7 +36123,7 @@
       "store": "https://www.raycast.com/shubzkothekar/open-in-visual-studio-code",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code",
       "treeSha": "455558e14200d50fd611551ce9766db1a82f3a42",
-      "downloads": 11951
+      "downloads": 11952
     },
     {
       "dir": "open-laravel-herd-site",
@@ -36205,7 +36205,7 @@
       "store": "https://www.raycast.com/koinzhang/open-path",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/open-path",
       "treeSha": "11c1ee7de7ed8d1548636f6faf227c5da2102340",
-      "downloads": 3703
+      "downloads": 3705
     },
     {
       "dir": "open-props",
@@ -36267,7 +36267,7 @@
       "store": "https://www.raycast.com/fturcheti/open-with-app",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/open-with-app",
       "treeSha": "825064ddbc5f32e09e21d7cafbd6716df3e6111b",
-      "downloads": 13879
+      "downloads": 13881
     },
     {
       "dir": "openai-gpt",
@@ -36288,7 +36288,7 @@
       "store": "https://www.raycast.com/simicvm/openai-gpt",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/openai-gpt",
       "treeSha": "d47fd44acdd3199261de10d787a8bb14b72204f0",
-      "downloads": 58070
+      "downloads": 58073
     },
     {
       "dir": "openai-speak",
@@ -36307,7 +36307,7 @@
       "store": "https://www.raycast.com/jian_chao_man/openai-speak",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/openai-speak",
       "treeSha": "6183fb8bdd7d055409dac8485f9eae8f64eeb6e2",
-      "downloads": 1268
+      "downloads": 1269
     },
     {
       "dir": "openai-translator",
@@ -36327,7 +36327,7 @@
       "store": "https://www.raycast.com/douo/openai-translator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/openai-translator",
       "treeSha": "30b4c4078a862fe02d74772dbf60e8f0606790e4",
-      "downloads": 9549
+      "downloads": 9550
     },
     {
       "dir": "openclaw",
@@ -36366,7 +36366,7 @@
       "store": "https://www.raycast.com/mike182uk/opencode-sessions",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/opencode-sessions",
       "treeSha": "330c92a838eabc1fe93f12b41d3617c5554cf6fa",
-      "downloads": 807
+      "downloads": 809
     },
     {
       "dir": "openfortivpn",
@@ -36447,7 +36447,7 @@
       "store": "https://www.raycast.com/mutewinter/openrouter-model-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search",
       "treeSha": "2f3af42484cfe6b9b3fdbce8441abf4a94ea3482",
-      "downloads": 1477
+      "downloads": 1479
     },
     {
       "dir": "openrouter-models-finder",
@@ -36543,7 +36543,7 @@
       "store": "https://www.raycast.com/crisboarna/openstreetmap-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/openstreetmap-search",
       "treeSha": "2ee420419a4b785f937760cfc7029158f06284cf",
-      "downloads": 316
+      "downloads": 317
     },
     {
       "dir": "openverse",
@@ -36763,7 +36763,7 @@
       "store": "https://www.raycast.com/plonq/orion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/orion",
       "treeSha": "0dfd5b79f2f2cf3c8bdb6fc59d9f7d992c27e64e",
-      "downloads": 3326
+      "downloads": 3327
     },
     {
       "dir": "orshot",
@@ -37491,7 +37491,7 @@
       "store": "https://www.raycast.com/mihaeltomic/papersize",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/papersize",
       "treeSha": "79e9418455f64f8fd94ea07ff0b1897b5238b8ed",
-      "downloads": 207
+      "downloads": 208
     },
     {
       "dir": "paperspace",
@@ -37571,7 +37571,7 @@
       "store": "https://www.raycast.com/parachord/parachord",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/parachord",
       "treeSha": "8f4023a4dd924791d00c36aac70d64dbaaec155c",
-      "downloads": 25
+      "downloads": 26
     },
     {
       "dir": "parallels-virtual-machines",
@@ -37711,7 +37711,7 @@
       "store": "https://www.raycast.com/thomas/party-parrot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/party-parrot",
       "treeSha": "204eb1d2ba68c887157811244fb16a6b7a95d7c8",
-      "downloads": 3751
+      "downloads": 3752
     },
     {
       "dir": "pass",
@@ -37793,7 +37793,7 @@
       "store": "https://www.raycast.com/joshuaiz/password-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/password-generator",
       "treeSha": "9210fdc2d920bccead6aa168ba8f75c51c754736",
-      "downloads": 36190
+      "downloads": 36196
     },
     {
       "dir": "password-link",
@@ -37874,7 +37874,7 @@
       "store": "https://www.raycast.com/koinzhang/paste-as-plain-text",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text",
       "treeSha": "c2010437ec78634ef8ae4e330f43d828406aa12c",
-      "downloads": 22532
+      "downloads": 22534
     },
     {
       "dir": "paste-from-apple-books",
@@ -38198,7 +38198,7 @@
       "store": "https://www.raycast.com/birkhoff/pdf-compression",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/pdf-compression",
       "treeSha": "0650fd95ffb7ec83f193b9b63fc18d8683d5dc98",
-      "downloads": 1640
+      "downloads": 1641
     },
     {
       "dir": "pdf-expert",
@@ -38237,7 +38237,7 @@
       "store": "https://www.raycast.com/xilopaint/pdf-tools",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/pdf-tools",
       "treeSha": "50cd277f0f9fdbed5fa5c6ea8b2860bebb3ea3c4",
-      "downloads": 7408
+      "downloads": 7409
     },
     {
       "dir": "pdfsearch",
@@ -38396,7 +38396,7 @@
       "store": "https://www.raycast.com/say4n/performance-hud",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/performance-hud",
       "treeSha": "24e1c3dd2ea444b317992a8d44cc747faf43a737",
-      "downloads": 955
+      "downloads": 956
     },
     {
       "dir": "perplexity",
@@ -38418,7 +38418,7 @@
       "store": "https://www.raycast.com/third774/perplexity",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/perplexity",
       "treeSha": "cebb7eb6af59e33dd4e6f26c502046f9bfcb1992",
-      "downloads": 60245
+      "downloads": 60250
     },
     {
       "dir": "perplexity-api",
@@ -38640,7 +38640,7 @@
       "store": "https://www.raycast.com/marinsokol/phosphor-icons",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons",
       "treeSha": "fc3af34adf559c2a096dffaaa1b19a7e2823bb90",
-      "downloads": 1367
+      "downloads": 1368
     },
     {
       "dir": "photoroom-image-editing",
@@ -38903,7 +38903,7 @@
       "store": "https://www.raycast.com/pieces/pieces-raycast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast",
       "treeSha": "4dfb3803b4e5bf5e98b564d23322f5e97a12b198",
-      "downloads": 1687
+      "downloads": 1689
     },
     {
       "dir": "pika",
@@ -38944,7 +38944,7 @@
       "store": "https://www.raycast.com/tanb/pin",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/pin-raycast",
       "treeSha": "3e3cc1488295518a51d225869dea271fbdada6e5",
-      "downloads": 790
+      "downloads": 791
     },
     {
       "dir": "pinata",
@@ -39127,7 +39127,7 @@
       "store": "https://www.raycast.com/koinzhang/pip",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/pip",
       "treeSha": "4d55a65ebcd9518663da671a741e0eea2b4da924",
-      "downloads": 2080
+      "downloads": 2081
     },
     {
       "dir": "pipe-commands",
@@ -39888,7 +39888,7 @@
       "store": "https://www.raycast.com/asubbotin/pomodoro",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/pomodoro",
       "treeSha": "76fc4ce991ff7cf8065342e8f5809f5e4bfde3dd",
-      "downloads": 99791
+      "downloads": 99799
     },
     {
       "dir": "popcorn",
@@ -40009,7 +40009,7 @@
       "store": "https://www.raycast.com/lucaschultz/port-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/port-manager",
       "treeSha": "52aba9a1599816454f554d00ead547700b038f92",
-      "downloads": 51149
+      "downloads": 51160
     },
     {
       "dir": "portal-wholesale",
@@ -40229,7 +40229,7 @@
       "store": "https://www.raycast.com/tarikyildizci/postman",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/postman",
       "treeSha": "538ef84af814bd4813929b8e227d056fc3cc1fb5",
-      "downloads": 5388
+      "downloads": 5389
     },
     {
       "dir": "potter-db",
@@ -40312,7 +40312,7 @@
       "store": "https://www.raycast.com/anhthang/premier-league",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/premier-league",
       "treeSha": "99902ef0f8de79ad50ea98e0e2b3cb1fd1eacaea",
-      "downloads": 2830
+      "downloads": 2831
     },
     {
       "dir": "prettier",
@@ -40331,7 +40331,7 @@
       "store": "https://www.raycast.com/lin/prettier",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/prettier",
       "treeSha": "5b5c46942a3351db1a43f51ca2fee9cf971556de",
-      "downloads": 3698
+      "downloads": 3699
     },
     {
       "dir": "pretty-pr-link",
@@ -40697,7 +40697,7 @@
       "store": "https://www.raycast.com/koala1206/prompt-builder",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/prompt-builder",
       "treeSha": "1a630206e56d61c263868603bfac4cdeaee1466f",
-      "downloads": 2645
+      "downloads": 2646
     },
     {
       "dir": "prompt-stash",
@@ -40740,7 +40740,7 @@
       "store": "https://www.raycast.com/HelloImSteven/promptlab",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/promptlab",
       "treeSha": "0969c75fd9a6f46190250971a497c8e9fab2d677",
-      "downloads": 11996
+      "downloads": 11997
     },
     {
       "dir": "promptnote",
@@ -40883,7 +40883,7 @@
       "store": "https://www.raycast.com/izyuumi/proton-pass",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proton-pass",
       "treeSha": "bc6d1499273e0388b0f29edac7c33cd00ccaf2ed",
-      "downloads": 1127
+      "downloads": 1130
     },
     {
       "dir": "proton-version",
@@ -41309,7 +41309,7 @@
       "store": "https://www.raycast.com/ahmedivy/python",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/python",
       "treeSha": "39e1381eb9db2ea945d94e767c59f82bd092d1cb",
-      "downloads": 3224
+      "downloads": 3225
     },
     {
       "dir": "qalc",
@@ -41526,7 +41526,7 @@
       "store": "https://www.raycast.com/StevenRCE0/qr-code-scanner",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qr-code-scanner",
       "treeSha": "beb1333336a836d82558a0c1c037002b9a5f2d20",
-      "downloads": 15213
+      "downloads": 15217
     },
     {
       "dir": "qrcode-generator",
@@ -41548,7 +41548,7 @@
       "store": "https://www.raycast.com/Melvynx/qrcode-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator",
       "treeSha": "a42625b268467e5dc1d16f11fad9693948e27477",
-      "downloads": 31441
+      "downloads": 31444
     },
     {
       "dir": "qrcp",
@@ -41839,7 +41839,7 @@
       "store": "https://www.raycast.com/biknandy/quick-notes",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-notes",
       "treeSha": "77890e7d804ac0a0fb671b58fcb0d062cf75f0f9",
-      "downloads": 6778
+      "downloads": 6779
     },
     {
       "dir": "quick-open-project",
@@ -41861,7 +41861,7 @@
       "store": "https://www.raycast.com/zerowidth/quick-open-project",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-open-project",
       "treeSha": "c60f932fbe0d6b36650ccbac8083d23f1d9bdb6b",
-      "downloads": 1826
+      "downloads": 1827
     },
     {
       "dir": "quick-quit",
@@ -42040,7 +42040,7 @@
       "store": "https://www.raycast.com/pradeepb28/quicktime",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quicktime",
       "treeSha": "ba2b3e33aa38a97834d47fe7fbcd70149220c8b6",
-      "downloads": 13683
+      "downloads": 13685
     },
     {
       "dir": "quicktype",
@@ -42118,7 +42118,7 @@
       "store": "https://www.raycast.com/mackopes/quit-applications",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quit-applications",
       "treeSha": "698b4e29f8595a058b9c097f3d3489084b4a00a5",
-      "downloads": 43907
+      "downloads": 43910
     },
     {
       "dir": "quoterism",
@@ -42299,7 +42299,7 @@
       "store": "https://www.raycast.com/peduarte/radix",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/radix",
       "treeSha": "b10f25ebcfe777da45dd5a5ccfd56e04d99df87e",
-      "downloads": 1053
+      "downloads": 1054
     },
     {
       "dir": "rae-dictionary-raycast",
@@ -42419,7 +42419,7 @@
       "store": "https://www.raycast.com/lardissone/raindrop-io",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raindrop-io",
       "treeSha": "d70193871feff8edb8a67e76235e1df9eac0852e",
-      "downloads": 35504
+      "downloads": 35511
     },
     {
       "dir": "ram-prices",
@@ -42501,7 +42501,7 @@
       "store": "https://www.raycast.com/loris/random",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/random-data-generator",
       "treeSha": "2584c3009811184ec43c5bbb1c2a20f6e7df45f1",
-      "downloads": 31774
+      "downloads": 31780
     },
     {
       "dir": "random-date-generator",
@@ -42541,7 +42541,7 @@
       "store": "https://www.raycast.com/rkjaer/random-email",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/random-email",
       "treeSha": "2c6da65a5b23b048098b19c080aad614b07e6299",
-      "downloads": 1596
+      "downloads": 1597
     },
     {
       "dir": "random-fart",
@@ -42583,7 +42583,7 @@
       "store": "https://www.raycast.com/textnav/random-password-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/random-password-generator",
       "treeSha": "798db74b8377ea691829f8ee2503cf60c34ff647",
-      "downloads": 4393
+      "downloads": 4394
     },
     {
       "dir": "random-text-picker",
@@ -42779,7 +42779,7 @@
       "store": "https://www.raycast.com/garrett/ray-so",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ray-so",
       "treeSha": "c78c184bed0d2192038878c8f1c186d8ffc3723c",
-      "downloads": 46157
+      "downloads": 46161
     },
     {
       "dir": "raycafe",
@@ -42883,7 +42883,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence",
       "treeSha": "abd6528b37d5f94508cbd838d91c76c12ad795ef",
-      "downloads": 33305
+      "downloads": 33312
     },
     {
       "dir": "raycast-arcade",
@@ -42902,7 +42902,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/raycast-arcade",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade",
       "treeSha": "a5271b4a952cba75c86b1483042002917b403d53",
-      "downloads": 8728
+      "downloads": 8730
     },
     {
       "dir": "raycast-bard-ai",
@@ -43001,7 +43001,7 @@
       "store": "https://www.raycast.com/raycast/raycast-explorer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer",
       "treeSha": "ce5b703a07e829ab2eb25ac858676b7375fc95cf",
-      "downloads": 39895
+      "downloads": 39900
     },
     {
       "dir": "raycast-fly",
@@ -43039,7 +43039,7 @@
       "store": "https://www.raycast.com/dinocosta/raycast-focus-stats",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-focus-stats",
       "treeSha": "ba97d394ff13e11cb8594bc89a4ed32007aa35d3",
-      "downloads": 818
+      "downloads": 821
     },
     {
       "dir": "raycast-frc",
@@ -43079,7 +43079,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/raycast-gemini",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini",
       "treeSha": "4d0ec04db5f50d12755d082451130d4807130b6f",
-      "downloads": 74214
+      "downloads": 74221
     },
     {
       "dir": "raycast-google-palm",
@@ -43139,7 +43139,7 @@
       "store": "https://www.raycast.com/petr/raycast-icons",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-icons",
       "treeSha": "f8a4895a4d56a86e32e78dc6566425f92b384e53",
-      "downloads": 10189
+      "downloads": 10190
     },
     {
       "dir": "raycast-jq",
@@ -43359,7 +43359,7 @@
       "store": "https://www.raycast.com/maxnyby/raycast-notification",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-notification",
       "treeSha": "926ee1719086bdea20117e4f64feaf178ddede4e",
-      "downloads": 2706
+      "downloads": 2707
     },
     {
       "dir": "raycast-nrm",
@@ -43398,7 +43398,7 @@
       "store": "https://www.raycast.com/massimiliano_pasquini/raycast-ollama",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama",
       "treeSha": "5cfc2394e331b8c8c11eb980552c724be299e041",
-      "downloads": 36707
+      "downloads": 36708
     },
     {
       "dir": "raycast-ordbokene",
@@ -43520,7 +43520,7 @@
       "store": "https://www.raycast.com/chrismessina/raycast-store-updates",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates",
       "treeSha": "46ea6058fdafb611c69f7f41f65dccda6a3da826",
-      "downloads": 2007
+      "downloads": 2008
     },
     {
       "dir": "raycast-svg64",
@@ -43620,7 +43620,7 @@
       "store": "https://www.raycast.com/koinzhang/raycast-wallpaper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper",
       "treeSha": "739b44e4b8742ed041a445da5db5e1de0a75cb40",
-      "downloads": 20604
+      "downloads": 20606
     },
     {
       "dir": "raycast-wca",
@@ -44388,7 +44388,7 @@
       "store": "https://www.raycast.com/GastroGeek/recents",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/recents",
       "treeSha": "7fd0d047af7f21e1720bca5d61b8ed315dbeca75",
-      "downloads": 10766
+      "downloads": 10768
     },
     {
       "dir": "reclaim-ai",
@@ -44409,7 +44409,7 @@
       "store": "https://www.raycast.com/reclaim-ai/reclaim-ai",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai",
       "treeSha": "114fdbb0966d21264d246157c290dcc31ddd1d07",
-      "downloads": 12984
+      "downloads": 12985
     },
     {
       "dir": "rectangle",
@@ -44430,7 +44430,7 @@
       "store": "https://www.raycast.com/crickford/rectangle",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/rectangle",
       "treeSha": "4a89722e7be833ff0c95e39787da44d07c11f82e",
-      "downloads": 10905
+      "downloads": 10907
     },
     {
       "dir": "recurly",
@@ -44593,7 +44593,7 @@
       "store": "https://www.raycast.com/ryon/reflect",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/reflect",
       "treeSha": "215125059bf1ae811a70564e89df5c5d0813781b",
-      "downloads": 2081
+      "downloads": 2082
     },
     {
       "dir": "reflect-open",
@@ -44614,7 +44614,7 @@
       "store": "https://www.raycast.com/jaseem_ts/reflect-open",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/reflect-open",
       "treeSha": "f22df3b8f0cf51a67a728ae840a2c024eb7633e2",
-      "downloads": 4
+      "downloads": 5
     },
     {
       "dir": "refresh-browsers",
@@ -44715,7 +44715,7 @@
       "store": "https://www.raycast.com/allenan/regex-tester",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/regex-tester",
       "treeSha": "e798049d585710503a96d6dbf6feedb1e4a41fd2",
-      "downloads": 11823
+      "downloads": 11827
     },
     {
       "dir": "rehooks",
@@ -44894,7 +44894,7 @@
       "store": "https://www.raycast.com/maantje/remove-background",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/remove-background",
       "treeSha": "5ff2d937d67777f233c49ea340494ccab9fdb136",
-      "downloads": 15282
+      "downloads": 15284
     },
     {
       "dir": "remove-background---replicate-api",
@@ -44935,7 +44935,7 @@
       "store": "https://www.raycast.com/xmorse/remove-background-powered-by-mac",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac",
       "treeSha": "f6e115517458e50684c3a1edf0be80ea4a249cf6",
-      "downloads": 9777
+      "downloads": 9780
     },
     {
       "dir": "remove-paywall",
@@ -44955,7 +44955,7 @@
       "store": "https://www.raycast.com/tegola/remove-paywall",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/remove-paywall",
       "treeSha": "639a0ec0d0b478f4a8f889d087b94a9eccd05b25",
-      "downloads": 73207
+      "downloads": 73209
     },
     {
       "dir": "remove-window-from-set",
@@ -45015,7 +45015,7 @@
       "store": "https://www.raycast.com/theo_daguier/renaming",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/renaming",
       "treeSha": "b79d1e4df8039f44ae1e0b5724acf5efecab70e9",
-      "downloads": 5947
+      "downloads": 5949
     },
     {
       "dir": "render",
@@ -45117,7 +45117,7 @@
       "store": "https://www.raycast.com/francesco_mecchi/repository-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/repository-manager",
       "treeSha": "d7eb72831bef475f4d8f5d06a8f813db8f520546",
-      "downloads": 964
+      "downloads": 965
     },
     {
       "dir": "rescuetime-focus-session-trigger",
@@ -45237,7 +45237,7 @@
       "store": "https://www.raycast.com/muzhen_gaming/restart-system-processes",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes",
       "treeSha": "0b316d0271c15c952fe41f617bd20eb88e6b0969",
-      "downloads": 2586
+      "downloads": 2587
     },
     {
       "dir": "restore-photo",
@@ -45756,7 +45756,7 @@
       "store": "https://www.raycast.com/fuksman/rss-reader",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/rss-reader",
       "treeSha": "48afc4cadbad82ced8eab37e11f108e6923f38b7",
-      "downloads": 4452
+      "downloads": 4454
     },
     {
       "dir": "rsync-commands",
@@ -45857,7 +45857,7 @@
       "store": "https://www.raycast.com/anwarulislam/ruler",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ruler",
       "treeSha": "45a365ff52a51dae1210961d3056d7c67ba5794e",
-      "downloads": 36580
+      "downloads": 36582
     },
     {
       "dir": "runcloud",
@@ -46037,7 +46037,7 @@
       "store": "https://www.raycast.com/loris/safari",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/safari",
       "treeSha": "65f6cf016fb68cf64dbb161025efed6cd4ba805d",
-      "downloads": 52831
+      "downloads": 52839
     },
     {
       "dir": "safe-secret",
@@ -46420,7 +46420,7 @@
       "store": "https://www.raycast.com/cps/scheduler",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/scheduler",
       "treeSha": "12595a7a24b4dd3de2e78d17668b262df35a27fb",
-      "downloads": 1777
+      "downloads": 1778
     },
     {
       "dir": "schoology",
@@ -46656,7 +46656,7 @@
       "store": "https://www.raycast.com/huzef44/screenocr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/screenocr",
       "treeSha": "12cecb39cf0854cd9a2a3c645a19287623a0fd7c",
-      "downloads": 51129
+      "downloads": 51137
     },
     {
       "dir": "screenpipe",
@@ -46694,7 +46694,7 @@
       "store": "https://www.raycast.com/Aayush9029/screenshot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/screenshot",
       "treeSha": "809f3d3e9cc00a50e99382a957a4c789b7005899",
-      "downloads": 26788
+      "downloads": 26790
     },
     {
       "dir": "script-commands",
@@ -46714,7 +46714,7 @@
       "store": "https://www.raycast.com/tholanda/script-commands",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/script-commands",
       "treeSha": "225782c61b7ec2da7e61cb8ae819f48c5258df04",
-      "downloads": 8385
+      "downloads": 8386
     },
     {
       "dir": "script-kit",
@@ -47015,7 +47015,7 @@
       "store": "https://www.raycast.com/krzysztofzuraw/search-mdn",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/search-mdn",
       "treeSha": "5b97070f7e1889c751d10ee84d7654fbdf8ba341",
-      "downloads": 18106
+      "downloads": 18108
     },
     {
       "dir": "search-notion",
@@ -47035,7 +47035,7 @@
       "store": "https://www.raycast.com/reckoning-dev/search-notion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/search-notion",
       "treeSha": "65dae66e22c2d36d537250bc84c6f2c73e087e0f",
-      "downloads": 15789
+      "downloads": 15791
     },
     {
       "dir": "search-npm",
@@ -47055,7 +47055,7 @@
       "store": "https://www.raycast.com/mrmartineau/search-npm",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/search-npm",
       "treeSha": "427291cd436dbe0aca5817b52d884af0d930939e",
-      "downloads": 21521
+      "downloads": 21523
     },
     {
       "dir": "search-oeis",
@@ -47719,7 +47719,7 @@
       "store": "https://www.raycast.com/jameslyons/session",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/session",
       "treeSha": "d9f93204a5ff131a18b3df1c03f5dd61ae588cf2",
-      "downloads": 8090
+      "downloads": 8092
     },
     {
       "dir": "setapp",
@@ -47739,7 +47739,7 @@
       "store": "https://www.raycast.com/lardissone/setapp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/setapp",
       "treeSha": "b644e03a482db39e51eb78feca69b182b62bbeb6",
-      "downloads": 4054
+      "downloads": 4055
     },
     {
       "dir": "setlist-fm",
@@ -47819,7 +47819,7 @@
       "store": "https://www.raycast.com/jffrykkn/sf-symbols-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search",
       "treeSha": "a6618d3fafdc3bf0bbcb8aa18d35438a4e9633c4",
-      "downloads": 10064
+      "downloads": 10065
     },
     {
       "dir": "shadcn-svelte",
@@ -48019,7 +48019,7 @@
       "store": "https://www.raycast.com/asubbotin/shell",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shell",
       "treeSha": "054ee2891798e21e394a1798d4cde56041385832",
-      "downloads": 65167
+      "downloads": 65178
     },
     {
       "dir": "shell-alias",
@@ -48060,7 +48060,7 @@
       "store": "https://www.raycast.com/jebraat/shell-buddy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shell-buddy",
       "treeSha": "586628395e5633af139e9fb6f921249aa9c2c58a",
-      "downloads": 1458
+      "downloads": 1459
     },
     {
       "dir": "shell-history",
@@ -48122,7 +48122,7 @@
       "store": "https://www.raycast.com/nghia_luong/shiftplus",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shiftplus",
       "treeSha": "3cd99080e90757df7d2841b4627f90d28b521235",
-      "downloads": 41
+      "downloads": 42
     },
     {
       "dir": "shiori",
@@ -48403,7 +48403,7 @@
       "store": "https://www.raycast.com/solomkinmv/shortcuts-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search",
       "treeSha": "92e59ff31258b2d8c5b1175fd72ef25e3395dee5",
-      "downloads": 6742
+      "downloads": 6743
     },
     {
       "dir": "shottr",
@@ -48540,7 +48540,7 @@
       "store": "https://www.raycast.com/peduarte/silent-mention",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/silent-mention",
       "treeSha": "f4b887c2add522fda5a5e7356d3f5cd3d355345d",
-      "downloads": 1836
+      "downloads": 1837
     },
     {
       "dir": "silent-mode",
@@ -48698,7 +48698,7 @@
       "store": "https://www.raycast.com/litomore/simple-icons",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/simple-icons",
       "treeSha": "ca3fa321ac02da14f60117f25f75fe5d307cf47e",
-      "downloads": 4044
+      "downloads": 4045
     },
     {
       "dir": "simple-login",
@@ -48778,7 +48778,7 @@
       "store": "https://www.raycast.com/xeric/simple-youdao",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/simple-youdao",
       "treeSha": "a34ca6cfe2db628deef1f4372e9cdb7958c0d60e",
-      "downloads": 1160
+      "downloads": 1161
     },
     {
       "dir": "simplebackups",
@@ -48818,7 +48818,7 @@
       "store": "https://www.raycast.com/adrian-schnell/simplelogin",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/simplelogin",
       "treeSha": "99e64ccdb9005eb000abb3bd2e6605e7969442cb",
-      "downloads": 1104
+      "downloads": 1105
     },
     {
       "dir": "simpletexocr",
@@ -48976,7 +48976,7 @@
       "store": "https://www.raycast.com/HelloImSteven/sips",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sips",
       "treeSha": "a94639e07f0234b17efda17f4a78012cd3c2ed6b",
-      "downloads": 60344
+      "downloads": 60352
     },
     {
       "dir": "sir-golf",
@@ -49018,7 +49018,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/siri",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/siri",
       "treeSha": "ae299f72334c0e17eef1d66213235853256e7198",
-      "downloads": 8889
+      "downloads": 8890
     },
     {
       "dir": "sitespeakai",
@@ -49078,7 +49078,7 @@
       "store": "https://www.raycast.com/keito4/skills",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/skills",
       "treeSha": "72af7d874daebb95c97bffb444efe489fd390fe6",
-      "downloads": 7044
+      "downloads": 7045
     },
     {
       "dir": "skyscanner-flights",
@@ -49120,7 +49120,7 @@
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
       "treeSha": "2beb51ebca548b1b52e311c6546af08f178642eb",
-      "downloads": 280882
+      "downloads": 280925
     },
     {
       "dir": "slack-status",
@@ -49140,7 +49140,7 @@
       "store": "https://www.raycast.com/petr/slack-status",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack-status",
       "treeSha": "439057164dc92e731243cee65fa0792f6dc410d3",
-      "downloads": 17115
+      "downloads": 17117
     },
     {
       "dir": "slack-summarizer",
@@ -49481,7 +49481,7 @@
       "store": "https://www.raycast.com/tonka3000/snake",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/snake",
       "treeSha": "f946c5665e5b5f82616b0ca5e5bd9a14b77eed06",
-      "downloads": 8702
+      "downloads": 8704
     },
     {
       "dir": "snap-jot",
@@ -49560,7 +49560,7 @@
       "store": "https://www.raycast.com/chkzz/snapzy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/snapzy",
       "treeSha": "d569d757a48090957809536d51b13962ba7c8adf",
-      "downloads": 13
+      "downloads": 14
     },
     {
       "dir": "sncftraintimes",
@@ -49638,7 +49638,7 @@
       "store": "https://www.raycast.com/renfei_song/snippetslab",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/snippetslab",
       "treeSha": "1d0d72457d496031ace0f82b10faa74dad71efb0",
-      "downloads": 7587
+      "downloads": 7588
     },
     {
       "dir": "snippetsurfer",
@@ -50037,7 +50037,7 @@
       "store": "https://www.raycast.com/jd-solanki/spacer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spacer",
       "treeSha": "546f838b861d0953f51e6877ac63ca4b319d5f75",
-      "downloads": 109
+      "downloads": 110
     },
     {
       "dir": "spaces",
@@ -50220,7 +50220,7 @@
       "store": "https://www.raycast.com/tonka3000/speedtest",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/speedtest",
       "treeSha": "ab8313ae5b2b63361c3ba21742c8adb1d6c1ff34",
-      "downloads": 157738
+      "downloads": 157753
     },
     {
       "dir": "spell",
@@ -50496,7 +50496,7 @@
       "store": "https://www.raycast.com/mattisssa/spotify-beta",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spotify-beta",
       "treeSha": "34671550c2c3ba74d3ac8d28c619790bbcea5f1a",
-      "downloads": 3789
+      "downloads": 3790
     },
     {
       "dir": "spotify-controls",
@@ -50516,7 +50516,7 @@
       "store": "https://www.raycast.com/thomas/spotify-controls",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spotify-controls",
       "treeSha": "4105e4d413f4e9b9b4545e689cb5505f95cb9722",
-      "downloads": 42046
+      "downloads": 42048
     },
     {
       "dir": "spotify-player",
@@ -50537,7 +50537,7 @@
       "store": "https://www.raycast.com/mattisssa/spotify-player",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spotify-player",
       "treeSha": "94159c5c5de4f5e463a457210fd48839b1bc5279",
-      "downloads": 421545
+      "downloads": 421592
     },
     {
       "dir": "spring-initializr",
@@ -50659,7 +50659,7 @@
       "store": "https://www.raycast.com/dimagrossman/ssh-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ssh-manager",
       "treeSha": "be3c6d764c3ab5b8fa235e56e12bbdc13bd3032e",
-      "downloads": 10122
+      "downloads": 10125
     },
     {
       "dir": "ssh-tunnel-manager",
@@ -50740,7 +50740,7 @@
       "store": "https://www.raycast.com/reckoning-dev/stackoverflow",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/stackoverflow",
       "treeSha": "28f0e6278ab04406ac4b4d4ecc420c49bea4bdf7",
-      "downloads": 6747
+      "downloads": 6748
     },
     {
       "dir": "stacks",
@@ -50980,7 +50980,7 @@
       "store": "https://www.raycast.com/KevinBatdorf/steam",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/steam",
       "treeSha": "268b9ce8cbf1ccd4df7bf4afe59e01c5a4502b0a",
-      "downloads": 10897
+      "downloads": 10898
     },
     {
       "dir": "steam-player-counts",
@@ -51041,7 +51041,7 @@
       "store": "https://www.raycast.com/koinzhang/stickies",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/stickies",
       "treeSha": "42a2ea170c1b9d7a1a23fd35787772a4aaebb90b",
-      "downloads": 3112
+      "downloads": 3113
     },
     {
       "dir": "stik",
@@ -51080,7 +51080,7 @@
       "store": "https://www.raycast.com/jones-sam/stock-lookup",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/stock-lookup",
       "treeSha": "a3a8e624c9702257b357a103b2a26c2e08e12857",
-      "downloads": 1947
+      "downloads": 1948
     },
     {
       "dir": "stock-tracker",
@@ -51099,7 +51099,7 @@
       "store": "https://www.raycast.com/hmarr/stock-tracker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/stock-tracker",
       "treeSha": "3b47961fde19eb7c2fa857bace50e46de883fba1",
-      "downloads": 5686
+      "downloads": 5687
     },
     {
       "dir": "stockholm-public-transport",
@@ -51137,7 +51137,7 @@
       "store": "https://www.raycast.com/rrajath/stoicquotes",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/stoicquotes",
       "treeSha": "4ab1b775ae719919a448150cc065e23c8ea3a543",
-      "downloads": 1288
+      "downloads": 1289
     },
     {
       "dir": "storyblok",
@@ -51442,7 +51442,7 @@
       "store": "https://www.raycast.com/j3lte/substack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/substack",
       "treeSha": "06ae7a121bba03719c4a74f3bc5cb3b69726dc2d",
-      "downloads": 613
+      "downloads": 614
     },
     {
       "dir": "subwatch",
@@ -51933,7 +51933,7 @@
       "store": "https://www.raycast.com/1weiho/svgl",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/svgl",
       "treeSha": "0aa42bbd56fadf24d120b2b6bfb379b233af0d26",
-      "downloads": 36593
+      "downloads": 36598
     },
     {
       "dir": "svgo",
@@ -52265,7 +52265,7 @@
       "store": "https://www.raycast.com/Visual-Studio-Coder/system-information",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/system-information",
       "treeSha": "a34aecadacf5c382faf598697c1f9d60f388163e",
-      "downloads": 7253
+      "downloads": 7254
     },
     {
       "dir": "system-monitor",
@@ -52285,7 +52285,7 @@
       "store": "https://www.raycast.com/hossammourad/raycast-system-monitor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/system-monitor",
       "treeSha": "f97db3339a9250a93de1a8d2a782a5d75fc12c99",
-      "downloads": 103300
+      "downloads": 103308
     },
     {
       "dir": "t3-chat",
@@ -52572,7 +52572,7 @@
       "store": "https://www.raycast.com/tailscale/tailscale",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tailscale",
       "treeSha": "9e813aba682a495d0efb3753dfdd56500f5bd517",
-      "downloads": 13551
+      "downloads": 13553
     },
     {
       "dir": "tailwindcss",
@@ -52593,7 +52593,7 @@
       "store": "https://www.raycast.com/vimtor/tailwindcss",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tailwindcss",
       "treeSha": "16f3b97b5c86b79b2d679b2a73fedeb7b501aa6c",
-      "downloads": 70983
+      "downloads": 70990
     },
     {
       "dir": "tallinn-transport",
@@ -52734,6 +52734,26 @@
       "downloads": 94
     },
     {
+      "dir": "tasknotes",
+      "name": "tasknotes",
+      "title": "TaskNotes",
+      "description": "Manage TaskNotes tasks in Obsidian from Raycast.",
+      "author": "robinradx",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/robinradx/tasknotes",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/tasknotes",
+      "treeSha": "f7ea3b8543dbcdbfedbb14e87529e6d3060e02be",
+      "downloads": 0
+    },
+    {
       "dir": "taskplane",
       "name": "taskplane",
       "title": "Taskplane",
@@ -52868,7 +52888,7 @@
       "store": "https://www.raycast.com/david_nakhapetian/team-time",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/team-time",
       "treeSha": "4eec4ff69b7c6078b15a9c4d3fc1491e8e350b55",
-      "downloads": 1468
+      "downloads": 1469
     },
     {
       "dir": "teamgantt",
@@ -52965,7 +52985,7 @@
       "store": "https://www.raycast.com/ikupenov/telegram",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/telegram",
       "treeSha": "bee53802b48b38d946f9b404a50c8e757aab680b",
-      "downloads": 2189
+      "downloads": 2190
     },
     {
       "dir": "teleport",
@@ -52985,7 +53005,7 @@
       "store": "https://www.raycast.com/lamberttraccard/teleport",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/teleport",
       "treeSha": "be279cda221ef71331aa69a5f035a755830b2134",
-      "downloads": 269
+      "downloads": 270
     },
     {
       "dir": "tella",
@@ -53105,7 +53125,7 @@
       "store": "https://www.raycast.com/natterstefan/temporary-email",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/temporary-email",
       "treeSha": "f71b400209ad2ac4eaf65f9091da5589986eb963",
-      "downloads": 10998
+      "downloads": 11000
     },
     {
       "dir": "tennis-standings",
@@ -53146,7 +53166,7 @@
       "store": "https://www.raycast.com/ron-myers/terminal",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/terminal",
       "treeSha": "df05bd5681d836bbb12f3613cfe59f6acc2f63a7",
-      "downloads": 12925
+      "downloads": 12926
     },
     {
       "dir": "terminal-image-paste",
@@ -53184,7 +53204,7 @@
       "store": "https://www.raycast.com/terminaldotshop/terminaldotshop",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/terminaldotshop",
       "treeSha": "c30552f4635c75feed2bce3d27996fbfbd912f2a",
-      "downloads": 1232
+      "downloads": 1233
     },
     {
       "dir": "terminalfinder",
@@ -53205,7 +53225,7 @@
       "store": "https://www.raycast.com/yedongze/terminalfinder",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/terminalfinder",
       "treeSha": "61fb994052730b041dc0f564eedd5476e59449d4",
-      "downloads": 21829
+      "downloads": 21834
     },
     {
       "dir": "terraform-doc",
@@ -53485,7 +53505,7 @@
       "store": "https://www.raycast.com/alexi.build/textream",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/textream",
       "treeSha": "a019e75ce9a1447a788432bbc164ee3589f3e279",
-      "downloads": 147
+      "downloads": 148
     },
     {
       "dir": "texts",
@@ -53570,7 +53590,7 @@
       "store": "https://www.raycast.com/diazdesandi/thaw",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/thaw",
       "treeSha": "36360253301a5a1adb275f4eb9dee7c031f5202d",
-      "downloads": 384
+      "downloads": 386
     },
     {
       "dir": "the-blue-cloud",
@@ -53911,7 +53931,7 @@
       "store": "https://www.raycast.com/chrismessina/threads",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/threads",
       "treeSha": "15c624581f49bce3a485775b8401fe1a5436ed7b",
-      "downloads": 783
+      "downloads": 785
     },
     {
       "dir": "threads-video-downloader",
@@ -53971,7 +53991,7 @@
       "store": "https://www.raycast.com/appest/ticktick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ticktick",
       "treeSha": "70f0e19fdba426ab1f9fab841920bf1d69df4683",
-      "downloads": 21745
+      "downloads": 21748
     },
     {
       "dir": "tidal",
@@ -54009,7 +54029,7 @@
       "store": "https://www.raycast.com/broc-dev/tidal-controller",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tidal-controller",
       "treeSha": "36ed98d1c771160c5931e2998c2b355b3e9190aa",
-      "downloads": 1515
+      "downloads": 1516
     },
     {
       "dir": "tidyread---streamline-your-daily-reading",
@@ -54171,7 +54191,7 @@
       "store": "https://www.raycast.com/alex_jones/time-converter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/time-converter",
       "treeSha": "8cfc3916f4d6a76761888295d77f37012986e780",
-      "downloads": 1034
+      "downloads": 1035
     },
     {
       "dir": "time-logger",
@@ -54229,7 +54249,7 @@
       "store": "https://www.raycast.com/SuoweiHu/time-machine",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/time-machine",
       "treeSha": "6c093fa95e9d62237de56a6c6dffadd40c63a5c2",
-      "downloads": 2029
+      "downloads": 2032
     },
     {
       "dir": "time-teller",
@@ -54388,7 +54408,7 @@
       "store": "https://www.raycast.com/ThatNerd/timers",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/timers",
       "treeSha": "2d0352c59982c9033f3247d2c10d97dbecc7ffbe",
-      "downloads": 105155
+      "downloads": 105161
     },
     {
       "dir": "timeular",
@@ -54446,7 +54466,7 @@
       "store": "https://www.raycast.com/joao.mainka/raycast-timezone-converter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/timezone-converter",
       "treeSha": "b33b120752f49a570d9a67f58e935679907b8a48",
-      "downloads": 18664
+      "downloads": 18667
     },
     {
       "dir": "tinker",
@@ -54583,7 +54603,7 @@
       "store": "https://www.raycast.com/kawamataryo/tinypng",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tinypng",
       "treeSha": "7ea8687e3ad526c0e9a55100b9110613fc4edfac",
-      "downloads": 40319
+      "downloads": 40324
     },
     {
       "dir": "tip-calculator",
@@ -54727,7 +54747,7 @@
       "store": "https://www.raycast.com/alikhatibak/tmux-cheatsheet",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet",
       "treeSha": "2432054938ad889824107608de2706a474fd2b2b",
-      "downloads": 1892
+      "downloads": 1893
     },
     {
       "dir": "tmux-sessioner",
@@ -54746,7 +54766,7 @@
       "store": "https://www.raycast.com/louishuyng/tmux-sessioner",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner",
       "treeSha": "a5aa4027c6e33a35d12f61ac93f6020a5512fea2",
-      "downloads": 3162
+      "downloads": 3163
     },
     {
       "dir": "tny",
@@ -54807,7 +54827,7 @@
       "store": "https://www.raycast.com/maggie/todo-list",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/todo-list",
       "treeSha": "8c101316c86a472acf719b88b13140a6485ac199",
-      "downloads": 17107
+      "downloads": 17109
     },
     {
       "dir": "todoist",
@@ -54827,7 +54847,7 @@
       "store": "https://www.raycast.com/doist/todoist",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/todoist",
       "treeSha": "ac6d65599bd1d752c1ae326996bb852756c56d10",
-      "downloads": 84152
+      "downloads": 84157
     },
     {
       "dir": "toggl-track",
@@ -54867,7 +54887,7 @@
       "store": "https://www.raycast.com/Haojen/toggle-desktop-visibility",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/toggle-desktop-visibility",
       "treeSha": "0f519f7f9d82352ce05be52051cd78984c9b85e2",
-      "downloads": 4079
+      "downloads": 4080
     },
     {
       "dir": "toggle-fn",
@@ -54925,7 +54945,7 @@
       "store": "https://www.raycast.com/iamyeizi/toggle-menu-bar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar",
       "treeSha": "2b40620b6f8133664f988ed7abe58c338b0c8f1a",
-      "downloads": 10236
+      "downloads": 10238
     },
     {
       "dir": "toggle-proxy",
@@ -55101,7 +55121,7 @@
       "store": "https://www.raycast.com/Kang/toolbox",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/toolbox",
       "treeSha": "1c9d402be75f403c43df329cd8bf9e0cbc1d0daa",
-      "downloads": 9105
+      "downloads": 9106
     },
     {
       "dir": "toothpick",
@@ -55121,7 +55141,7 @@
       "store": "https://www.raycast.com/VladCuciureanu/toothpick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/toothpick",
       "treeSha": "a50995a0a76db17564ddfc1b85222acc908d70f2",
-      "downloads": 50403
+      "downloads": 50407
     },
     {
       "dir": "torbox",
@@ -55205,7 +55225,7 @@
       "store": "https://www.raycast.com/tdwesten/tower",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tower",
       "treeSha": "df78357c79bfba2693f769863758a5b14ac9c675",
-      "downloads": 2358
+      "downloads": 2359
     },
     {
       "dir": "trackflight",
@@ -55307,7 +55327,7 @@
       "store": "https://www.raycast.com/Idered/transform",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/transform",
       "treeSha": "bf54acd78c137fe243980b6b76a796454239dea9",
-      "downloads": 3698
+      "downloads": 3700
     },
     {
       "dir": "translate-send-webpage-to-reader",
@@ -55386,7 +55406,7 @@
       "store": "https://www.raycast.com/kennonb/transmit",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/transmit",
       "treeSha": "40b686955763ca1b607295b1b8e3c0549d343526",
-      "downloads": 2117
+      "downloads": 2118
     },
     {
       "dir": "transport-nsw",
@@ -55644,7 +55664,7 @@
       "store": "https://www.raycast.com/SamuelNitsche/tunnelblick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tunnelblick",
       "treeSha": "c754a8fa38b8575d1477714336ef53fad6ab94c7",
-      "downloads": 4143
+      "downloads": 4144
     },
     {
       "dir": "tuple",
@@ -55933,7 +55953,7 @@
       "store": "https://www.raycast.com/kaanrkaraman/twitter-video-downloader",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader",
       "treeSha": "c38891a3c1d2fa1d653e9f70ab2c19c96bd9d76e",
-      "downloads": 4123
+      "downloads": 4124
     },
     {
       "dir": "two-factor-authentication-code-generator",
@@ -55953,7 +55973,7 @@
       "store": "https://www.raycast.com/cjdenio/two-factor-authentication-code-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator",
       "treeSha": "8f16224b7ead263936aa136819835b9d8716a230",
-      "downloads": 6073
+      "downloads": 6074
     },
     {
       "dir": "twos",
@@ -56055,7 +56075,7 @@
       "store": "https://www.raycast.com/sawyerh/type-snob",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/type-snob",
       "treeSha": "7883cef7f51242f75ef6b2daee73d6db185b706b",
-      "downloads": 5632
+      "downloads": 5633
     },
     {
       "dir": "type-the-alphabet",
@@ -56115,7 +56135,7 @@
       "store": "https://www.raycast.com/typefully/typefully",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/typefully",
       "treeSha": "d61801f34f80331fb99691343571acbdbab5b9f6",
-      "downloads": 1726
+      "downloads": 1727
     },
     {
       "dir": "typeless-companion",
@@ -56215,7 +56235,7 @@
       "store": "https://www.raycast.com/SeoFood/typewhisper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/typewhisper",
       "treeSha": "42b90a8ccf0f543eeca9aeaddbc26e4c2fe7dc9f",
-      "downloads": 2585
+      "downloads": 2586
     },
     {
       "dir": "typographer",
@@ -56516,7 +56536,7 @@
       "store": "https://www.raycast.com/mmazzarolo/unicode-symbols",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols",
       "treeSha": "aa3bc8e945ce19a6ad7be882aa1e961775ca84bf",
-      "downloads": 17357
+      "downloads": 17359
     },
     {
       "dir": "unifi",
@@ -56699,7 +56719,7 @@
       "store": "https://www.raycast.com/destiner/unix-timestamp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp",
       "treeSha": "c392ca3ffa80f67ffe14c04d8231131da4397659",
-      "downloads": 27431
+      "downloads": 27436
     },
     {
       "dir": "unix-timestamp-converter",
@@ -56818,7 +56838,7 @@
       "store": "https://www.raycast.com/eggsy/unsplash",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/unsplash",
       "treeSha": "5883adccd5d5002efc85f5f7d8981e12ae8c40bf",
-      "downloads": 33685
+      "downloads": 33690
     },
     {
       "dir": "unsure-calc",
@@ -57175,7 +57195,7 @@
       "store": "https://www.raycast.com/Visual-Studio-Coder/url-shortener",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/url-shortener",
       "treeSha": "5be34cc29d02d2d3e03029e2f80ea0aea6e167f5",
-      "downloads": 10662
+      "downloads": 10665
     },
     {
       "dir": "url-tools",
@@ -57195,7 +57215,7 @@
       "store": "https://www.raycast.com/huzef44/url-tools",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/url-tools",
       "treeSha": "359444761faa1e864b500767766c9f6c55fab29c",
-      "downloads": 11999
+      "downloads": 12001
     },
     {
       "dir": "url-unshortener",
@@ -57373,7 +57393,7 @@
       "store": "https://www.raycast.com/jmaeso/uuid-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/uuid-generator",
       "treeSha": "3a6a6008939739c9eb96f5b3e89d6923c404ca3a",
-      "downloads": 30474
+      "downloads": 30480
     },
     {
       "dir": "v0-by-vercel",
@@ -57818,7 +57838,7 @@
       "store": "https://www.raycast.com/vercel/vercast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/vercast",
       "treeSha": "9ca61737d31bb2e6f2c003248f741ad8c5692614",
-      "downloads": 12227
+      "downloads": 12228
     },
     {
       "dir": "verify-number",
@@ -57964,7 +57984,7 @@
       "store": "https://www.raycast.com/vimtor/video-downloader",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/video-downloader",
       "treeSha": "d326430a2abb35d20905003f7802f5dd2b9dddee",
-      "downloads": 115869
+      "downloads": 115873
     },
     {
       "dir": "vietnamese-calendar",
@@ -58045,7 +58065,7 @@
       "store": "https://www.raycast.com/ajaypremshankar/vim-bro",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/vim-bro",
       "treeSha": "8f1afa49834a7f3d015778cd77810212488d9e07",
-      "downloads": 20098
+      "downloads": 20100
     },
     {
       "dir": "vim-leader-key",
@@ -58066,7 +58086,7 @@
       "store": "https://www.raycast.com/akshay_k/vim-leader-key",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key",
       "treeSha": "895810f7c1d4cb986011b34b8253c82cef6e983b",
-      "downloads": 566
+      "downloads": 567
     },
     {
       "dir": "virtfusion",
@@ -58264,7 +58284,7 @@
       "store": "https://www.raycast.com/MarkusLanger/vscode-project-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager",
       "treeSha": "9d90da99370a09a00e3f9634f20d8e5dc0d90836",
-      "downloads": 47519
+      "downloads": 47522
     },
     {
       "dir": "visual-studio-code-recent-projects",
@@ -58285,7 +58305,7 @@
       "store": "https://www.raycast.com/thomas/visual-studio-code",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects",
       "treeSha": "cff0f03da89d3d107fa758fd33f0e9c322658333",
-      "downloads": 350070
+      "downloads": 350113
     },
     {
       "dir": "vivaldi",
@@ -58824,7 +58844,7 @@
       "store": "https://www.raycast.com/warpdotdev/warp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/warp",
       "treeSha": "1cd40ffce70aaf42604025c5c297261196d2fdc3",
-      "downloads": 97500
+      "downloads": 97512
     },
     {
       "dir": "watchkey",
@@ -58925,7 +58945,7 @@
       "store": "https://www.raycast.com/tonka3000/weather",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/weather",
       "treeSha": "b961e8bd4cfe4fc6ea5c4d4fe4b40ac8ea48c505",
-      "downloads": 39306
+      "downloads": 39308
     },
     {
       "dir": "web-audit",
@@ -59173,7 +59193,7 @@
       "store": "https://www.raycast.com/treyg/webpage-to-markdown",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/webpage-to-markdown",
       "treeSha": "cda601f029031997605119f29ade036e7c091825",
-      "downloads": 5043
+      "downloads": 5044
     },
     {
       "dir": "website-blocker",
@@ -59350,7 +59370,7 @@
       "store": "https://www.raycast.com/vimtor/whatsapp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/whatsapp",
       "treeSha": "6d93547d268411a4d824c7f7ed4b940a71129880",
-      "downloads": 47717
+      "downloads": 47722
     },
     {
       "dir": "whentomeet",
@@ -59551,7 +59571,7 @@
       "store": "https://www.raycast.com/josha1len/whoop",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/whoop",
       "treeSha": "0f0211777acacf5b54c09f0ad847d467b9080dea",
-      "downloads": 565
+      "downloads": 566
     },
     {
       "dir": "whosampled",
@@ -59591,7 +59611,7 @@
       "store": "https://www.raycast.com/koinzhang/wi-fi",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wi-fi",
       "treeSha": "69df7a1ea59bf7e20b4eede31405084a2c93eb4a",
-      "downloads": 15697
+      "downloads": 15699
     },
     {
       "dir": "wifi-password-reveal",
@@ -59692,7 +59712,7 @@
       "store": "https://www.raycast.com/vimtor/wikipedia",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wikipedia",
       "treeSha": "2eb4e7273268974a0d21f5dbcf77e3a88ec149a4",
-      "downloads": 41498
+      "downloads": 41500
     },
     {
       "dir": "windmill",
@@ -59751,7 +59771,7 @@
       "store": "https://www.raycast.com/the3ash/window-sizer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/window-sizer",
       "treeSha": "a5b8fe3710b27db1c0e4692fec9d07ae74b1aa26",
-      "downloads": 1670
+      "downloads": 1671
     },
     {
       "dir": "window-walker",
@@ -60113,7 +60133,7 @@
       "store": "https://www.raycast.com/carterm/wispr-flow",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wispr-flow",
       "treeSha": "948c9c0daf00c6b39350b36d996893a8be95c149",
-      "downloads": 1065
+      "downloads": 1066
     },
     {
       "dir": "wistia",
@@ -60313,7 +60333,7 @@
       "store": "https://www.raycast.com/itsmingjie/word-count",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/word-count",
       "treeSha": "ca4b2041516f2c85c164e06b1d88d056f4e1af06",
-      "downloads": 35213
+      "downloads": 35217
     },
     {
       "dir": "word-research",
@@ -60353,7 +60373,7 @@
       "store": "https://www.raycast.com/rishabswift/word-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/word-search",
       "treeSha": "6c28fdf8cae1ec52a0aed1462a6220fa81786616",
-      "downloads": 24424
+      "downloads": 24426
     },
     {
       "dir": "word4you",
@@ -60968,7 +60988,7 @@
       "store": "https://www.raycast.com/maggie/xkcd",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/xkcd",
       "treeSha": "80cd88344e3f0ed2f34b619db6b031a622042d8d",
-      "downloads": 4288
+      "downloads": 4289
     },
     {
       "dir": "xkcd-password-generator",
@@ -61086,7 +61106,7 @@
       "store": "https://www.raycast.com/pablopunk/yafw",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/yafw",
       "treeSha": "d49f8e32cd9ea6d363c4d6de672124fbf09a5c17",
-      "downloads": 4652
+      "downloads": 4653
     },
     {
       "dir": "yamli",
@@ -61245,7 +61265,7 @@
       "store": "https://www.raycast.com/thomas/year-in-progress",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/year-in-progress",
       "treeSha": "396c756a3c979ccc14cbe49fff0b23e60313c031",
-      "downloads": 10156
+      "downloads": 10158
     },
     {
       "dir": "yield-calculator",
@@ -61360,7 +61380,7 @@
       "store": "https://www.raycast.com/tiancheng92/youdao-translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/youdao-translate",
       "treeSha": "be66149df7598a74b247a11176e8f7b2e8e0997e",
-      "downloads": 7313
+      "downloads": 7315
     },
     {
       "dir": "youform",
@@ -61460,7 +61480,7 @@
       "store": "https://www.raycast.com/tonka3000/youtube",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/youtube",
       "treeSha": "89899ef842f68215eada8c68c8a54bce8fc50cf7",
-      "downloads": 99903
+      "downloads": 99910
     },
     {
       "dir": "youtube-companion",
@@ -61520,7 +61540,7 @@
       "store": "https://www.raycast.com/danieldbird/youtube-music",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/youtube-music",
       "treeSha": "4afcd392a11f8b84b48816ffb53cdf4a57b14693",
-      "downloads": 21228
+      "downloads": 21231
     },
     {
       "dir": "youtube-search",
@@ -61778,7 +61798,7 @@
       "store": "https://www.raycast.com/ewgenius/zed-recent-projects",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects",
       "treeSha": "9c2b9a68fca2ff1f8dbc486fc7df0af2763fb2bf",
-      "downloads": 13183
+      "downloads": 13185
     },
     {
       "dir": "zefix",
@@ -61842,7 +61862,7 @@
       "store": "https://www.raycast.com/Keyruu/zen-browser",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zen-browser",
       "treeSha": "a4a7b74d698aeedcf0b90499df7f14ecf77bd655",
-      "downloads": 19932
+      "downloads": 19933
     },
     {
       "dir": "zen-mode",
@@ -62083,7 +62103,7 @@
       "store": "https://www.raycast.com/okooo5km/zipic",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zipic",
       "treeSha": "9a22dee2394b907ff607e4eb2ccdce406f477e03",
-      "downloads": 3533
+      "downloads": 3534
     },
     {
       "dir": "zipline",
@@ -62243,7 +62263,7 @@
       "store": "https://www.raycast.com/raycast/zoom",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zoom",
       "treeSha": "07188fdcfdba5af5650e35267893edc5837be6fa",
-      "downloads": 99312
+      "downloads": 99319
     },
     {
       "dir": "zoom-control",
@@ -62262,7 +62282,7 @@
       "store": "https://www.raycast.com/prashantv/zoom-meeting-control",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zoom-control",
       "treeSha": "c4be99755e503c0e67c0afa0d0e6fb15e6925287",
-      "downloads": 2623
+      "downloads": 2624
     },
     {
       "dir": "zotero",
