@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `14166263b0`
+
+**Updated (1):** [Time Machine](https://github.com/raycast/extensions/tree/main/extensions/time-machine)
+
 ## 2026-07-28 — upstream `e6e03f380d`
 
 **Updated (1):** [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager)
