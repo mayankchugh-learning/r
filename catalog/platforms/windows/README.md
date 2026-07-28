@@ -1,6 +1,6 @@
 # Windows extensions
 
-807 extensions · [← all platforms](../README.md)
+808 extensions · [← all platforms](../README.md)
 
 ### Work & Productivity
 
@@ -14,7 +14,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 277 |
+| [Developer Tools](./developer-tools/README.md) | 278 |
 | [Data](./data/README.md) | 84 |
 | [Documentation](./documentation/README.md) | 63 |
 | [Security](./security/README.md) | 27 |
@@ -25,7 +25,7 @@
 | Category | Extensions |
 | --- | --- |
 | [Media](./media/README.md) | 78 |
-| [Design Tools](./design-tools/README.md) | 41 |
+| [Design Tools](./design-tools/README.md) | 42 |
 
 ### Web, Finance & News
 

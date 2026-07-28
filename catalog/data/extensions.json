@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "bad036d137974e9170b4bd8bc39a705ddd4a5d32",
-  "generatedAt": "2026-07-28T17:41:53.292Z",
-  "downloadsRefreshedAt": "2026-07-28T17:41:52.494Z",
-  "count": 3121,
+  "commit": "9088e3eeea6541e5a431b71b3e906cf3e28bc9f9",
+  "generatedAt": "2026-07-28T17:53:28.254Z",
+  "downloadsRefreshedAt": "2026-07-28T17:53:27.302Z",
+  "count": 3122,
   "extensions": [
     {
       "dir": "0x0",
@@ -8899,7 +8899,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494990
+      "downloads": 494998
     },
     {
       "dir": "color-shades",
@@ -20188,7 +20188,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483381
+      "downloads": 483386
     },
     {
       "dir": "google-chrome-profiles",
@@ -26109,7 +26109,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650855
+      "downloads": 650860
     },
     {
       "dir": "kimai",
@@ -32458,6 +32458,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display",
       "treeSha": "2e72f1aa93b1c6a0f900d28f932054c3ba74dd6f",
       "downloads": 59
+    },
+    {
+      "dir": "mozaika",
+      "name": "mozaika",
+      "title": "Mozaika — Decode Design Systems",
+      "description": "Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast.",
+      "author": "sezai_c",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Design Tools",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/mozaika",
+      "treeSha": "7f96878f8374baa6bb6bfa95b9e1e274ad474e0c",
+      "downloads": null
     },
     {
       "dir": "mozeidon",

@@ -1,8 +1,8 @@
 # Package & Dependency Tools
 
-39 extensions · [← Developer Tools](./README.md)
+40 extensions · [← Developer Tools](./README.md)
 
-[Packages ✦](#packages) (24) · [Library ✦](#library) (6) · [General](#general) (9)
+[Packages ✦](#packages) (24) · [Library ✦](#library) (7) · [General](#general) (9)
 
 *✦ auto-discovered topic group*
 
@@ -45,6 +45,7 @@
 | [Remix Icon](https://github.com/raycast/extensions/tree/main/extensions/remix-icon) | 113 | Search and browse icons from Remix Icon library | tristan_heinig | macOS | [store](https://www.raycast.com/tristan_heinig/remix-icon) |
 | [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 88 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
 | [Typst Math Symbols](https://github.com/raycast/extensions/tree/main/extensions/typst-symbols) | 77 | Search through a library of typst math symbols and emojis | JeffersonDing | macOS | [store](https://www.raycast.com/JeffersonDing/typst-symbols) |
+| [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | — | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | — |
 
 ## General
 
