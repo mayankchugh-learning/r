@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b3bbf6ba2949caf4a72ce9850353df4687e0e362",
-  "generatedAt": "2026-07-28T07:54:18.801Z",
-  "downloadsRefreshedAt": "2026-07-28T07:54:18.417Z",
-  "count": 3114,
+  "commit": "8c73ceeb3804cc55e8e8b9a15cb8daf68034c452",
+  "generatedAt": "2026-07-28T07:57:25.747Z",
+  "downloadsRefreshedAt": "2026-07-28T07:57:25.154Z",
+  "count": 3115,
   "extensions": [
     {
       "dir": "0x0",
@@ -8879,7 +8879,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494638
+      "downloads": 494639
     },
     {
       "dir": "color-shades",
@@ -20147,7 +20147,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483019
+      "downloads": 483023
     },
     {
       "dir": "google-chrome-profiles",
@@ -26067,7 +26067,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650461
+      "downloads": 650463
     },
     {
       "dir": "kimai",
@@ -28113,6 +28113,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linkinize",
       "treeSha": "abe2103249070e8886a2239a5f2237730919551e",
       "downloads": 8
+    },
+    {
+      "dir": "links-folder",
+      "name": "links-folder",
+      "title": "Links Folder",
+      "description": "Browse link folders and open all links at once, like a browser favorites bar.",
+      "author": "Francescoparadiso",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/Francescoparadiso/links-folder",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/links-folder",
+      "treeSha": "8c974ad8d5371bfc540d8d54735e85f5583cbe3e",
+      "downloads": 0
     },
     {
       "dir": "linkwarden",
@@ -31822,7 +31843,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "93565674e687f7f3a83172892501aa922972fa6c",
-      "downloads": 35825
+      "downloads": 35827
     },
     {
       "dir": "models-dev",

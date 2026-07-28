@@ -1,6 +1,6 @@
 # Publishers
 
-2065 publishers · [← catalog index](../README.md)
+2066 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 147,883 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,189 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,691 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,080,014 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,080,015 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 295,476 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,679 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 401,279 |
@@ -24,7 +24,7 @@
 | 14 | [litomore](./id/litomore.md) | 13 | 12,284 |
 | 15 | [j3lte](./id/j3lte.md) | 13 | 9,603 |
 | 16 | [kud](./id/kud.md) | 12 | 5,846 |
-| 17 | [raycast](./id/raycast.md) | 11 | 773,647 |
+| 17 | [raycast](./id/raycast.md) | 11 | 773,649 |
 | 18 | [Rob](./id/rob.md) | 11 | 10,300 |
 | 19 | [Yukai](./id/yukai.md) | 11 | 9,271 |
 | 20 | [0xdhrv](./id/0xdhrv.md) | 11 | 1,213 |
@@ -382,8 +382,8 @@
 | 372 | [esteban03](https://www.raycast.com/esteban03) | 2 | 18 |
 | 373 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 7 |
 | 374 | github-next | 2 | — |
-| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 650,461 |
-| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 483,019 |
+| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 650,463 |
+| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 483,023 |
 | 377 | [linear](https://www.raycast.com/linear) | 1 | 334,096 |
 | 378 | [mommertf](https://www.raycast.com/mommertf) | 1 | 280,830 |
 | 379 | [nhojb](https://www.raycast.com/nhojb) | 1 | 252,426 |
@@ -2069,7 +2069,8 @@
 | 2059 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
 | 2060 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2061 | [faizhasim](https://www.raycast.com/faizhasim) | 1 | 0 |
-| 2062 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
-| 2063 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2064 | multi | 1 | — |
-| 2065 | sharat_visweswara | 1 | — |
+| 2062 | [Francescoparadiso](https://www.raycast.com/Francescoparadiso) | 1 | 0 |
+| 2063 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
+| 2064 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2065 | multi | 1 | — |
+| 2066 | sharat_visweswara | 1 | — |

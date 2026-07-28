@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `8c73ceeb38`
+
+**Added (1):** [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder)
+
 ## 2026-07-28 — upstream `b3bbf6ba29`
 
 **Updated (1):** [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr)

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-75 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+76 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -61,6 +61,7 @@
 | [fonimus](https://www.raycast.com/fonimus) | 2 | 1,431 | **Productivity:** [Vault Manager](https://github.com/raycast/extensions/tree/main/extensions/vault), [Kafka](https://github.com/raycast/extensions/tree/main/extensions/kafka) |
 | [forrestzh](https://www.raycast.com/forrestzh) | 1 | 438 | **Data:** [Base64 to File](https://github.com/raycast/extensions/tree/main/extensions/base64-to-file) |
 | [francesco_mecchi](https://www.raycast.com/francesco_mecchi) | 1 | 964 | **Productivity:** [Repository Manager](https://github.com/raycast/extensions/tree/main/extensions/repository-manager) |
+| [Francescoparadiso](https://www.raycast.com/Francescoparadiso) | 1 | 0 | **Productivity:** [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) |
 | [Francois](https://www.raycast.com/Francois) | 2 | 5,103 | **Developer Tools:** [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket), [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) |
 | [frank-miao](https://www.raycast.com/frank-miao) | 1 | 5 | **Documentation:** [Lattice Scholar Extension](https://github.com/raycast/extensions/tree/main/extensions/lattice-scholar-extension) |
 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 13,810 | **Productivity:** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)<br>**Web:** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router) |
