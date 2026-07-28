@@ -4,14 +4,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,108 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 43,930 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
-| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,001 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
-| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,652 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,633 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,114 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 43,934 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,002 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
+| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,653 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,636 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,538 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,391 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
-| [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) | 5,044 | Collection of scripts to improve YouTube browsing experience | sasivarnan | macOS, Windows | [store](https://www.raycast.com/sasivarnan/youtube-companion) |
+| [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) | 5,045 | Collection of scripts to improve YouTube browsing experience | sasivarnan | macOS, Windows | [store](https://www.raycast.com/sasivarnan/youtube-companion) |
 | [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 3,976 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
 | [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | 2,404 | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,390 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
@@ -55,7 +55,7 @@
 | [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 177 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |
 | [Smallpdf](https://github.com/raycast/extensions/tree/main/extensions/smallpdf) | 161 | Quick access to all the Smallpdf tools | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/smallpdf) |
 | [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) | 157 | See Pitchfork Album Reviews | koayon | macOS | [store](https://www.raycast.com/koayon/pitchfork) |
-| [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog) | 153 | The official Raycast extension for the German tech blog Caschys Blog (www.stadt-bremerhaven.de) | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/caschys-blog) |
+| [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog) | 154 | The official Raycast extension for the German tech blog Caschys Blog (www.stadt-bremerhaven.de) | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/caschys-blog) |
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | 147 | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
 | [Zerion](https://github.com/raycast/extensions/tree/main/extensions/zerion) | 147 | Browse Zerion from Raycast | imqdee | macOS | [store](https://www.raycast.com/imqdee/zerion) |
 | [Lightshot Gallery](https://github.com/raycast/extensions/tree/main/extensions/lightshot-gallery) | 142 | Easily access your Lightshot gallery | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/lightshot-gallery) |

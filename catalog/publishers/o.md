@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [o1y](https://www.raycast.com/o1y) | 1 | 19,451 | **Productivity:** [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) |
+| [o1y](https://www.raycast.com/o1y) | 1 | 19,454 | **Productivity:** [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) |
 | [obahareth](https://www.raycast.com/obahareth) | 1 | 343 | **Developer Tools:** [Ruby Evaluate](https://github.com/raycast/extensions/tree/main/extensions/ruby-evaluate) |
 | [ofalvai](https://www.raycast.com/ofalvai) | 1 | 428 | **Developer Tools:** [Bitrise](https://github.com/raycast/extensions/tree/main/extensions/bitrise) |
 | [oh-dear](https://www.raycast.com/oh-dear) | 1 | 173 | **Web:** [Oh Dear](https://github.com/raycast/extensions/tree/main/extensions/ohdear) |
@@ -14,15 +14,15 @@
 | [ojowwalker77](https://www.raycast.com/ojowwalker77) | 1 | 752 | **Developer Tools:** [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud) |
 | [OkanBilal](https://www.raycast.com/OkanBilal) | 1 | 144 | **Web:** [Literal](https://github.com/raycast/extensions/tree/main/extensions/literal) |
 | [okgloor](https://www.raycast.com/okgloor) | 1 | 112 | **Other:** [Steam Player Counts](https://github.com/raycast/extensions/tree/main/extensions/steam-player-counts) |
-| [okooo5km](https://www.raycast.com/okooo5km) | 1 | 3,535 | **Applications:** [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) |
+| [okooo5km](https://www.raycast.com/okooo5km) | 1 | 3,536 | **Applications:** [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) |
 | [oktay](https://www.raycast.com/oktay) | 1 | 1,485 | **Developer Tools:** [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) |
-| [okwasniewski](https://www.raycast.com/okwasniewski) | 1 | 1,164 | **Developer Tools:** [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) |
+| [okwasniewski](https://www.raycast.com/okwasniewski) | 1 | 1,165 | **Developer Tools:** [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) |
 | [olafhartong](https://www.raycast.com/olafhartong) | 1 | 22 | **Developer Tools:** [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) |
 | [olavgjerde](https://www.raycast.com/olavgjerde) | 1 | 260 | **System:** [LookSee - A MAC, OUI, IAB Lookup](https://github.com/raycast/extensions/tree/main/extensions/looksee) |
 | [oleksandr_oliynyk](https://www.raycast.com/oleksandr_oliynyk) | 1 | 95 | **Web:** [Lingorep - Translate, Repeat, Memorize](https://github.com/raycast/extensions/tree/main/extensions/lingo-rep-raycast) |
 | [oliverde8](https://www.raycast.com/oliverde8) | 1 | 394 | **Productivity:** [Excel Formula Beautifier](https://github.com/raycast/extensions/tree/main/extensions/excel-formula-beautifier) |
 | [oliverjanssen](https://www.raycast.com/oliverjanssen) | 1 | 876 | **Productivity:** [Morning Coffee](https://github.com/raycast/extensions/tree/main/extensions/morning-coffee) |
-| [Olli0103](https://www.raycast.com/Olli0103) | 2 | 169 | **Web:** [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog)<br>**Applications:** [Fronius Inverter](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter) |
+| [Olli0103](https://www.raycast.com/Olli0103) | 2 | 170 | **Web:** [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog)<br>**Applications:** [Fronius Inverter](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter) |
 | [omarshahine](https://www.raycast.com/omarshahine) | 1 | 95 | **Applications:** [PurpleAir](https://github.com/raycast/extensions/tree/main/extensions/purpleair) |
 | [omBratteng](https://www.raycast.com/omBratteng) | 1 | 1,402 | **Developer Tools:** [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) |
 | [omennia](https://www.raycast.com/omennia) | 1 | 22 | **Uncategorized:** [Search OEIS](https://github.com/raycast/extensions/tree/main/extensions/search-oeis) |

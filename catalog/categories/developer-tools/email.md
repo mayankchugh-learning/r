@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,597 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
+| [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,598 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
 | [mailboxlayer](https://github.com/raycast/extensions/tree/main/extensions/mailboxlayer) | 111 | Check and Verify email addresses using mailboxlayer | xmok | macOS | [store](https://www.raycast.com/xmok/mailboxlayer) |
 | [Have I Been Pwned](https://github.com/raycast/extensions/tree/main/extensions/have-i-been-pwned) | 107 | Check if your email or password has been exposed in a data breach | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/have-i-been-pwned) |
 | [Mailtrap](https://github.com/raycast/extensions/tree/main/extensions/mailtrap) | 95 | Mailtrap - View Inboxes, Emails, Copy Subjects while marking as Read | samjwillis97 | macOS | [store](https://www.raycast.com/samjwillis97/mailtrap) |

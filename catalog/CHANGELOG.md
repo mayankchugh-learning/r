@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `f8edff0de6`
+
+**Updated (1):** [Twenty](https://github.com/raycast/extensions/tree/main/extensions/twenty)
+
 ## 2026-07-28 — upstream `7129149483`
 
 **Added (1):** [Downdetector](https://github.com/raycast/extensions/tree/main/extensions/downdetector)

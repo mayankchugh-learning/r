@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 39,330 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
+| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 39,332 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
 | [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,093 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
 | [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 7,972 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,168 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
@@ -15,11 +15,11 @@
 | [OK JSON](https://github.com/raycast/extensions/tree/main/extensions/ok-json) | 2,702 | Control OK JSON with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/ok-json) |
 | [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 2,610 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,358 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
-| [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,482 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
+| [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,483 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
 | [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,413 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
 | [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,066 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
 | [New Instance](https://github.com/raycast/extensions/tree/main/extensions/raycast-new-instance) | 1,032 | Launch a new instance of any installed application on your Mac | Caramel | macOS | [store](https://www.raycast.com/Caramel/raycast-new-instance) |
-| [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 946 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
+| [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 947 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
 | [Say No to Notch](https://github.com/raycast/extensions/tree/main/extensions/say-no-to-notch) | 877 | Control MacBook Notch via Say No to Notch | honghao | macOS | [store](https://www.raycast.com/honghao/say-no-to-notch) |
 | [Focus](https://github.com/raycast/extensions/tree/main/extensions/focus) | 710 | Control Focus App – Website and App Blocker for Mac | ernest | macOS | [store](https://www.raycast.com/ernest/focus) |
 | [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) | 694 | Launch and manage your Minecraft Prism Launcher instances straight from Raycast. | lockieluke3389 | Windows, macOS | [store](https://www.raycast.com/lockieluke3389/prism-launcher) |
@@ -34,7 +34,7 @@
 | [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 193 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
 | [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) | 192 | Control your AirSync app directly from Raycast | sameerasw | macOS | [store](https://www.raycast.com/sameerasw/airsync) |
 | [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 153 | Control MuteDeck from Raycast | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/mutedeck) |
-| [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 131 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
+| [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 132 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
 | [Leafcast](https://github.com/raycast/extensions/tree/main/extensions/leafcast) | 130 | Control your Nanoleaf panels with Raycast! Toggle power, set the current scene, and more. | syropian | macOS | [store](https://www.raycast.com/syropian/leafcast) |
 | [OctoPrint](https://github.com/raycast/extensions/tree/main/extensions/octoprint) | 112 | Control your OctoPrint printer from Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/octoprint) |
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 93 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
