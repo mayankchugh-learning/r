@@ -1,6 +1,6 @@
 # Publishers
 
-2067 publishers · [← catalog index](../README.md)
+2068 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,080,479 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,080,524 |
 | 2 | [raycast](./id/raycast.md) | 11 | 773,885 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 650,716 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 483,254 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 650,771 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 483,304 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 430,922 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 425,883 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,379 |
@@ -2072,6 +2072,7 @@
 | 2062 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
 | 2063 | [robinradx](https://www.raycast.com/robinradx) | 1 | 0 |
 | 2064 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2065 | github-next | 2 | — |
-| 2066 | multi | 1 | — |
-| 2067 | sharat_visweswara | 1 | — |
+| 2065 | [yusoufu](https://www.raycast.com/yusoufu) | 1 | 0 |
+| 2066 | github-next | 2 | — |
+| 2067 | multi | 1 | — |
+| 2068 | sharat_visweswara | 1 | — |

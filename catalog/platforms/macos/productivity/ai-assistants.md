@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-119 of 1395 extensions · [← macOS · Productivity](./README.md)
+120 of 1396 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -123,5 +123,6 @@
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 4 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
 | [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 3 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 2 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
+| [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) | 0 | Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives. | yusoufu | macOS | [store](https://www.raycast.com/yusoufu/design-file-finder) |
 | [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 0 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |

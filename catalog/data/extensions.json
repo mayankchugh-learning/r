@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1367309ae0a345a5cf332b1a62312d7edd47ff31",
-  "generatedAt": "2026-07-28T14:00:35.380Z",
-  "downloadsRefreshedAt": "2026-07-28T14:00:34.812Z",
-  "count": 3117,
+  "commit": "5f6b4d1087671df576eca3fea6fd9cc0518a81de",
+  "generatedAt": "2026-07-28T15:10:35.247Z",
+  "downloadsRefreshedAt": "2026-07-28T15:10:34.863Z",
+  "count": 3118,
   "extensions": [
     {
       "dir": "0x0",
@@ -8879,7 +8879,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494870
+      "downloads": 494915
     },
     {
       "dir": "color-shades",
@@ -12035,6 +12035,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/desec",
       "treeSha": "08928b3f2abf485d3cc7ea5a6b01a7585a2e84a9",
       "downloads": 3
+    },
+    {
+      "dir": "design-file-finder",
+      "name": "design-file-finder",
+      "title": "Design File Finder",
+      "description": "Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives.",
+      "author": "yusoufu",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Design Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/yusoufu/design-file-finder",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/design-file-finder",
+      "treeSha": "cc595bdab77be7c35c13f15cb0dc090ecc764e05",
+      "downloads": 0
     },
     {
       "dir": "design-skills",
@@ -20147,7 +20168,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483254
+      "downloads": 483304
     },
     {
       "dir": "google-chrome-profiles",
@@ -26068,7 +26089,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650716
+      "downloads": 650771
     },
     {
       "dir": "kimai",
@@ -53284,10 +53305,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/TurboCoder13/tesla-clips",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tesla-clips",
       "treeSha": "a4811a741d78d9a684366b21fb94512dae072e9c",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "tesla-energy",

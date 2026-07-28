@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `5f6b4d1087`
+
+**Added (1):** [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder)
+
 ## 2026-07-28 — upstream `1367309ae0`
 
 **Added (1):** [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips)

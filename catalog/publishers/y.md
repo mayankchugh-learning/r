@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · **Y** · [Z](./z.md)
 
-42 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+43 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -45,6 +45,7 @@
 | [yukukotani](https://www.raycast.com/yukukotani) | 1 | 138 | **Documentation:** [Backstage](https://github.com/raycast/extensions/tree/main/extensions/backstage) |
 | [yuri](https://www.raycast.com/yuri) | 1 | 70 | **Developer Tools:** [Paperspace](https://github.com/raycast/extensions/tree/main/extensions/paperspace) |
 | [yusifaliyevpro](https://www.raycast.com/yusifaliyevpro) | 1 | 9 | **Web:** [AzTU LMS](https://github.com/raycast/extensions/tree/main/extensions/aztu-lms) |
+| [yusoufu](https://www.raycast.com/yusoufu) | 1 | 0 | **Design Tools:** [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) |
 | [yusuf_akdeniz](https://www.raycast.com/yusuf_akdeniz) | 1 | 582 | **Media:** [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) |
 | [yuta24](https://www.raycast.com/yuta24) | 1 | 565 | **Developer Tools:** [Xcode Cloud](https://github.com/raycast/extensions/tree/main/extensions/xcode-cloud) |
 | [yz3440](https://www.raycast.com/yz3440) | 1 | 9,006 | **Web:** [Library Genesis](https://github.com/raycast/extensions/tree/main/extensions/library-genesis) |

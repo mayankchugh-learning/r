@@ -1,6 +1,6 @@
 # AI Generation
 
-12 extensions · [← Design Tools](./README.md)
+13 extensions · [← Design Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -16,3 +16,4 @@
 | [Alloy](https://github.com/raycast/extensions/tree/main/extensions/alloy) | 39 | AI Prototyping for Product Management | alloyprototyping | macOS | [store](https://www.raycast.com/alloyprototyping/alloy) |
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 34 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
 | [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 6 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
+| [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) | 0 | Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives. | yusoufu | macOS | [store](https://www.raycast.com/yusoufu/design-file-finder) |

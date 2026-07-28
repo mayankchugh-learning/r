@@ -209,4 +209,4 @@
 | [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) | 1 | Helper tools for Tibia including NPC prices, Rashid location, and imbuement guides | kjbakke | macOS | [store](https://www.raycast.com/kjbakke/tibia-helper) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
 | [TaskNotes](https://github.com/raycast/extensions/tree/main/extensions/tasknotes) | 0 | Manage TaskNotes tasks in Obsidian from Raycast. | robinradx | macOS | [store](https://www.raycast.com/robinradx/tasknotes) |
-| [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | — | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | — |
+| [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 0 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |

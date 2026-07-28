@@ -1,8 +1,8 @@
 # AI ✦
 
-92 extensions · [← AI & Assistants](./README.md)
+93 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (8) · [Openai ✦](#openai) (7) · [Chat ✦](#chat) (6) · [Prompts ✦](#prompts) (4) · [Questions ✦](#questions) (5) · [General](#general) (46)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (8) · [Openai ✦](#openai) (7) · [Chat ✦](#chat) (6) · [Prompts ✦](#prompts) (4) · [Questions ✦](#questions) (5) · [General](#general) (47)
 
 *✦ auto-discovered topic group*
 
@@ -131,4 +131,5 @@
 | [SnipperApp](https://github.com/raycast/extensions/tree/main/extensions/snipperapp) | 6 | Search, paste, and capture code snippets from your SnipperApp library and the SnipperApp Hub — with workspaces, favorites, and AI. | teologov | macOS | [store](https://www.raycast.com/teologov/snipperapp) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 4 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 2 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
+| [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) | 0 | Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives. | yusoufu | macOS | [store](https://www.raycast.com/yusoufu/design-file-finder) |
 | [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 0 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
