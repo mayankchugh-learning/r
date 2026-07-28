@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · **General**
 
-235 of 1060 extensions · [← macOS · Developer Tools](./README.md)
+236 of 1061 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -239,5 +239,6 @@
 | [Userplane](https://github.com/raycast/extensions/tree/main/extensions/userplane) | 3 | Create Userplane recording links, browse recordings and recording links, and open the Userplane dashboard — all from Raycast. | wizenheimer | macOS | [store](https://www.raycast.com/wizenheimer/userplane) |
 | [Bouncer Email Verifier](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 2 | Verify email deliverability with Bouncer from Raycast | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
 | [Tabstack](https://github.com/raycast/extensions/tree/main/extensions/tabstack) | 1 | Read, research, and act on the web from your keyboard. Powered by Tabstack. | tessak22 | macOS, Windows | [store](https://www.raycast.com/tessak22/tabstack) |
+| [Anvil](https://github.com/raycast/extensions/tree/main/extensions/anvil) | — | Navigate Anvil's native developer toolbox from Raycast. | alexminator1999 | macOS | [store](https://www.raycast.com/alexminator1999/anvil) |
 | [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) | — | Manage Lume virtual machines on Apple Silicon | sharat_visweswara | macOS | — |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

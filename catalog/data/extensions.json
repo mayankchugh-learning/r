@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0471aeed1e3c4a458202b190c985940169472595",
-  "generatedAt": "2026-07-28T15:36:42.022Z",
+  "commit": "7cfb5cca6d3101e30c141a226c6ee49edb66bd40",
+  "generatedAt": "2026-07-28T17:17:37.681Z",
   "downloadsRefreshedAt": "2026-07-28T15:36:41.626Z",
-  "count": 3119,
+  "count": 3120,
   "extensions": [
     {
       "dir": "0x0",
@@ -1778,6 +1778,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/antisocials",
       "treeSha": "2ec58465f8f63b71cff9f9fd1e6dbb7b1c268464",
       "downloads": 107
+    },
+    {
+      "dir": "anvil",
+      "name": "anvil",
+      "title": "Anvil",
+      "description": "Navigate Anvil's native developer toolbox from Raycast.",
+      "author": "alexminator1999",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/alexminator1999/anvil",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/anvil",
+      "treeSha": "3fb8653466e894d7fc0ca9c29d158b822bc466b7",
+      "downloads": null
     },
     {
       "dir": "any-website-search",

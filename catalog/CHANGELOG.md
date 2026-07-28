@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `7cfb5cca6d`
+
+**Added (1):** [Anvil](https://github.com/raycast/extensions/tree/main/extensions/anvil)
+
 ## 2026-07-28 — upstream `0471aeed1e`
 
 **Added (1):** [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing)

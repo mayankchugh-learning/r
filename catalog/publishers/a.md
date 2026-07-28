@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-186 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+187 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -85,6 +85,7 @@
 | [alexandremt](https://www.raycast.com/alexandremt) | 1 | 4 | **Web:** [BJ-Share](https://github.com/raycast/extensions/tree/main/extensions/bj-share) |
 | [alexi.build](./id/alexi-build.md) | 16 | 1,694 | [see all 16 →](./id/alexi-build.md) |
 | [alexian853](https://www.raycast.com/alexian853) | 1 | 143 | **Productivity:** [Apply Inline Code](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) |
+| [alexminator1999](https://www.raycast.com/alexminator1999) | 1 | — | **Developer Tools:** [Anvil](https://github.com/raycast/extensions/tree/main/extensions/anvil) |
 | [alexs](https://www.raycast.com/alexs) | 3 | 270 | **Finance:** [Invoice Generator](https://github.com/raycast/extensions/tree/main/extensions/invoice-generator), [Rewardful](https://github.com/raycast/extensions/tree/main/extensions/rewardful)<br>**Productivity:** [Make with Notion 2024](https://github.com/raycast/extensions/tree/main/extensions/make-with-notion-2024) |
 | [alexstrnik](https://www.raycast.com/alexstrnik) | 2 | 1,492 | **Media:** [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music)<br>**Fun:** [Helldivers 2](https://github.com/raycast/extensions/tree/main/extensions/helldivers2) |
 | [alfredmouelle](https://www.raycast.com/alfredmouelle) | 1 | 20 | **Productivity:** [Remo](https://github.com/raycast/extensions/tree/main/extensions/remo-notes) |

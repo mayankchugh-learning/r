@@ -1,6 +1,6 @@
 # General
 
-172 extensions · [← Developer Tools](./README.md)
+169 extensions · [← Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -21,10 +21,8 @@
 | [Tunnelblick](https://github.com/raycast/extensions/tree/main/extensions/tunnelblick) | 4,144 | Quickly enable and disable vpn connections | SamuelNitsche | macOS | [store](https://www.raycast.com/SamuelNitsche/tunnelblick) |
 | [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq) | 3,044 | Use the powerful models via Groq from the comfort of Raycast. | ilian | macOS | [store](https://www.raycast.com/ilian/groq) |
 | [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) | 2,617 | Control Yabai using Raycast. Requires yabai to be installed. | krzysztoff1 | macOS | [store](https://www.raycast.com/krzysztoff1/yabai) |
-| [Tower Repositories](https://github.com/raycast/extensions/tree/main/extensions/tower) | 2,360 | Navigate and open your repositories in Tower. | tdwesten | macOS | [store](https://www.raycast.com/tdwesten/tower) |
 | [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,280 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
 | [Binary Tools](https://github.com/raycast/extensions/tree/main/extensions/bintools) | 1,894 | A calculator for binary, decimal, hex and octal numbers. | frostplexx | macOS | [store](https://www.raycast.com/frostplexx/bintools) |
-| [Proxyman](https://github.com/raycast/extensions/tree/main/extensions/proxyman) | 1,871 | Navigate and perform common actions in Proxyman faster | noah_tran | macOS | [store](https://www.raycast.com/noah_tran/proxyman) |
 | [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) | 1,852 | Quickly open PowerToys tools | LostViking09 | Windows | [store](https://www.raycast.com/LostViking09/powertoys-tool-runner) |
 | [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project) | 1,827 | Find and open projects on your system | zerowidth | macOS, Windows | [store](https://www.raycast.com/zerowidth/quick-open-project) |
 | [Doppler Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) | 1,746 | Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets | thomas | macOS | [store](https://www.raycast.com/thomas/doppler-share-secrets) |
@@ -63,7 +61,6 @@
 | [OrbStack](https://github.com/raycast/extensions/tree/main/extensions/orbstack) | 472 | Manage OrbStack with Raycast | nicholasq | macOS | [store](https://www.raycast.com/nicholasq/orbstack) |
 | [Gitpod](https://github.com/raycast/extensions/tree/main/extensions/gitpod) | 466 | A blazingly fast way to work with Gitpod | Henit-Palani | macOS | [store](https://www.raycast.com/Henit-Palani/gitpod) |
 | [Opsgenie](https://github.com/raycast/extensions/tree/main/extensions/opsgenie) | 403 | Manage Opsgenie alerts and incidents. | ricoberger | macOS | [store](https://www.raycast.com/ricoberger/opsgenie) |
-| [Gitfox Repositories](https://github.com/raycast/extensions/tree/main/extensions/gitfox) | 399 | Navigate and open your repositories in Gitfox. | azlekov | macOS | [store](https://www.raycast.com/azlekov/gitfox) |
 | [CUID Generator](https://github.com/raycast/extensions/tree/main/extensions/cuid-generator) | 385 | A quick way to generate CUIDs | dgrcode | macOS | [store](https://www.raycast.com/dgrcode/cuid-generator) |
 | [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 368 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
 | [Golden Ratio](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) | 347 | Gold ratio and silver ratio calculation tool | yang_monch | macOS | [store](https://www.raycast.com/yang_monch/golden-ratio) |

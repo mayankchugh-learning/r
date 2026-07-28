@@ -1,6 +1,6 @@
 # Publishers
 
-2069 publishers · [← catalog index](../README.md)
+2070 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -2074,6 +2074,7 @@
 | 2064 | [robinradx](https://www.raycast.com/robinradx) | 1 | 0 |
 | 2065 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
 | 2066 | [yusoufu](https://www.raycast.com/yusoufu) | 1 | 0 |
-| 2067 | multi | 1 | — |
-| 2068 | sharat_visweswara | 1 | — |
-| 2069 | viper_x | 1 | — |
+| 2067 | [alexminator1999](https://www.raycast.com/alexminator1999) | 1 | — |
+| 2068 | multi | 1 | — |
+| 2069 | sharat_visweswara | 1 | — |
+| 2070 | viper_x | 1 | — |

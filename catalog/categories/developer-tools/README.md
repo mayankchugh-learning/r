@@ -1,8 +1,8 @@
 # Developer Tools
 
-1070 extensions · [← all categories](../README.md)
+1071 extensions · [← all categories](../README.md)
 
-macOS: 1060 · Windows: 276
+macOS: 1061 · Windows: 276
 
 ## Code & Collaboration
 
@@ -46,19 +46,20 @@ macOS: 1060 · Windows: 276
 
 | Topic | Extensions |
 | --- | --- |
-| [Developers ✦](./developers.md) | 8 |
+| [Developers ✦](./developers.md) | 9 |
 | [Sites ✦](./sites.md) | 7 |
 | [Domains ✦](./domains.md) | 6 |
 | [Email ✦](./email.md) | 6 |
 | [Machines ✦](./machines.md) | 6 |
+| [Navigate ✦](./navigate.md) | 4 |
 | [Password ✦](./password.md) | 5 |
 | [Web ✦](./web.md) | 6 |
 | [Apple ✦](./apple.md) | 4 |
-| [Between ✦](./between.md) | 5 |
+| [Between ✦](./between.md) | 4 |
 | [Sessions ✦](./sessions.md) | 5 |
 | [Ease ✦](./ease.md) | 4 |
 | [Shortcut ✦](./shortcut.md) | 4 |
 
-Plus [General](./general.md) — 172 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 169 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*
