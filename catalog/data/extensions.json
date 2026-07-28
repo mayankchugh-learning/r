@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8c73ceeb3804cc55e8e8b9a15cb8daf68034c452",
-  "generatedAt": "2026-07-28T07:57:25.747Z",
-  "downloadsRefreshedAt": "2026-07-28T07:57:25.154Z",
+  "commit": "8ce0ac61351ad6c69fa61ce1c2b5f826a6e89293",
+  "generatedAt": "2026-07-28T08:12:27.152Z",
+  "downloadsRefreshedAt": "2026-07-28T08:12:26.876Z",
   "count": 3115,
   "extensions": [
     {
@@ -8879,7 +8879,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494639
+      "downloads": 494653
     },
     {
       "dir": "color-shades",
@@ -20147,7 +20147,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483023
+      "downloads": 483039
     },
     {
       "dir": "google-chrome-profiles",
@@ -26067,7 +26067,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650463
+      "downloads": 650476
     },
     {
       "dir": "kimai",
@@ -56102,7 +56102,7 @@
       "description": "Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon.",
       "author": "frankdilo",
       "owner": "typefully",
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "Productivity",
         "Web"
@@ -56113,7 +56113,7 @@
       ],
       "store": "https://www.raycast.com/typefully/typefully",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/typefully",
-      "treeSha": "5e7f48de459cf0dcb8150ddbfd1dc79a72acabbf",
+      "treeSha": "d61801f34f80331fb99691343571acbdbab5b9f6",
       "downloads": 1726
     },
     {
