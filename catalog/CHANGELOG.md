@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `0796e31f7c`
+
+**Updated (1):** [Claude Code Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage)
+
 ## 2026-07-28 — upstream `1dbb353122`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

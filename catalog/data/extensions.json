@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1dbb35312218cfcedf9e5d6079768e277ea282f1",
-  "generatedAt": "2026-07-28T07:05:20.999Z",
-  "downloadsRefreshedAt": "2026-07-28T07:05:20.129Z",
+  "commit": "0796e31f7c551a8ba735da947a37c2778186af2d",
+  "generatedAt": "2026-07-28T07:44:32.563Z",
+  "downloadsRefreshedAt": "2026-07-28T07:44:32.025Z",
   "count": 3114,
   "extensions": [
     {
@@ -6314,16 +6314,17 @@
       "description": "Monitor Claude Code usage with real-time tracking",
       "author": "nyatinte",
       "owner": null,
-      "contributors": 7,
+      "contributors": 8,
       "categories": [
         "Developer Tools"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/nyatinte/ccusage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ccusage",
-      "treeSha": "5cbeb25166baa7831482ecc29a454816910762fd",
+      "treeSha": "da3346f1a4693a65d5cd0137ad167f6a1685f35e",
       "downloads": 11229
     },
     {
@@ -8878,7 +8879,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494609
+      "downloads": 494632
     },
     {
       "dir": "color-shades",
@@ -20145,7 +20146,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 482995
+      "downloads": 483013
     },
     {
       "dir": "google-chrome-profiles",
@@ -26065,7 +26066,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650423
+      "downloads": 650455
     },
     {
       "dir": "kimai",
@@ -31820,7 +31821,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "558b00c3f53193398c4298b04c742498bac4b5f8",
-      "downloads": 35822
+      "downloads": 35825
     },
     {
       "dir": "models-dev",
