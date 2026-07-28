@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-132 extensions · [← catalog index](../README.md)
+133 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -138,3 +138,4 @@
 | [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 2 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
 | [From](https://github.com/raycast/extensions/tree/main/extensions/from) | 2 | Capture thoughts, search your notes and open your daily note in From — the outliner that understands what you write, so capture stays frictionless and fast. | alberto_lezaun | macOS | [store](https://www.raycast.com/alberto_lezaun/from) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | — | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | — |

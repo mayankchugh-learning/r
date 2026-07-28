@@ -2,7 +2,7 @@
 
 [AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · **Search Engines** · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-158 of 454 extensions · [← macOS · Web](./README.md)
+159 of 455 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -164,3 +164,4 @@
 | [Portal Wholesale](https://github.com/raycast/extensions/tree/main/extensions/portal-wholesale) | 4 | Search and manage Portal Wholesale brands | nickdichev | macOS | [store](https://www.raycast.com/nickdichev/portal-wholesale) |
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 4 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
 | [Glean Search](https://github.com/raycast/extensions/tree/main/extensions/glean-search) | 0 | Search your company's knowledge base via Glean | faizhasim | macOS | [store](https://www.raycast.com/faizhasim/glean-search) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | — | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | — |

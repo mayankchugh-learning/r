@@ -58,7 +58,7 @@
 | [sergigp](https://www.raycast.com/sergigp) | 1 | 24 | **Fun:** [Hearthstone Decks](https://github.com/raycast/extensions/tree/main/extensions/hsdecks) |
 | [sevem](https://www.raycast.com/sevem) | 1 | 70 | **Applications:** [WebDAV Uploader](https://github.com/raycast/extensions/tree/main/extensions/webdav-uploader) |
 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 930 | **Communication:** [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon), [Akkoma](https://github.com/raycast/extensions/tree/main/extensions/akkoma)<br>**News:** [Miniflux](https://github.com/raycast/extensions/tree/main/extensions/miniflux)<br>**Web:** [NeoDB](https://github.com/raycast/extensions/tree/main/extensions/neodb) |
-| sezai_c | 1 | — | **Design Tools:** [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) |
+| [sezai_c](https://www.raycast.com/sezai_c) | 1 | 0 | **Design Tools:** [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) |
 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 13,251 | **Productivity:** [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) |
 | [sfominx](https://www.raycast.com/sfominx) | 1 | 1 | **Security:** [Starline](https://github.com/raycast/extensions/tree/main/extensions/starline) |
 | [SGGb0nd](https://www.raycast.com/SGGb0nd) | 1 | 98 | **Web:** [AList Downloder](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) |

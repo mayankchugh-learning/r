@@ -1,6 +1,6 @@
 # Publishers
 
-2072 publishers · [← catalog index](../README.md)
+2073 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 147,950 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,199 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,695 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,080,662 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,080,666 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 295,579 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,688 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 401,408 |
@@ -382,8 +382,8 @@
 | 372 | [esteban03](https://www.raycast.com/esteban03) | 2 | 18 |
 | 373 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
 | 374 | github-next | 2 | — |
-| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 650,860 |
-| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 483,386 |
+| 375 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 650,862 |
+| 376 | [Codely](https://www.raycast.com/Codely) | 1 | 483,391 |
 | 377 | [linear](https://www.raycast.com/linear) | 1 | 334,381 |
 | 378 | [mommertf](https://www.raycast.com/mommertf) | 1 | 281,015 |
 | 379 | [nhojb](https://www.raycast.com/nhojb) | 1 | 252,524 |
@@ -2074,9 +2074,10 @@
 | 2064 | [faizhasim](https://www.raycast.com/faizhasim) | 1 | 0 |
 | 2065 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
 | 2066 | [robinradx](https://www.raycast.com/robinradx) | 1 | 0 |
-| 2067 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2068 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2069 | [yusoufu](https://www.raycast.com/yusoufu) | 1 | 0 |
-| 2070 | multi | 1 | — |
-| 2071 | sezai_c | 1 | — |
-| 2072 | sharat_visweswara | 1 | — |
+| 2067 | [sezai_c](https://www.raycast.com/sezai_c) | 1 | 0 |
+| 2068 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2069 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2070 | [yusoufu](https://www.raycast.com/yusoufu) | 1 | 0 |
+| 2071 | akshit_mehta | 1 | — |
+| 2072 | multi | 1 | — |
+| 2073 | sharat_visweswara | 1 | — |

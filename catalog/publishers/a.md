@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-187 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+188 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -64,6 +64,7 @@
 | [akgunberk](https://www.raycast.com/akgunberk) | 1 | 18 | **Finance:** [Pera Algorand Explorer](https://github.com/raycast/extensions/tree/main/extensions/pera-explorer) |
 | [akhilesh_dalvi](https://www.raycast.com/akhilesh_dalvi) | 1 | 155 | **Finance:** [Position Size Calculator](https://github.com/raycast/extensions/tree/main/extensions/position-size-calculator) |
 | [akshay_k](https://www.raycast.com/akshay_k) | 1 | 570 | **Productivity:** [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) |
+| akshit_mehta | 1 | — | **Web:** [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) |
 | [alaidriel](https://www.raycast.com/cecelot) | 1 | 1,117 | **Developer Tools:** [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) |
 | [AlanHuang](https://www.raycast.com/AlanHuang) | 1 | 167 | **Productivity:** [Send to E-Reader](https://github.com/raycast/extensions/tree/main/extensions/send-to-e-reader) |
 | [alanzchen](https://www.raycast.com/alanzchen) | 1 | 12,438 | **Productivity:** [ChatGPT Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) |

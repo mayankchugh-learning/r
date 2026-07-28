@@ -1,8 +1,8 @@
 # Cross-platform · Web
 
-124 extensions · [← Cross-platform](../README.md)
+125 extensions · [← Cross-platform](../README.md)
 
-[AI Services](#ai-services) (12) · [Social & Communities](#social-communities) (5) · [Search Engines](#search-engines) (45) · [Bookmarks & Read Later](#bookmarks-read-later) (1) · [URL & Domain Tools](#url-domain-tools) (17) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (3) · [General](#general) (31)
+[AI Services](#ai-services) (12) · [Social & Communities](#social-communities) (5) · [Search Engines](#search-engines) (46) · [Bookmarks & Read Later](#bookmarks-read-later) (1) · [URL & Domain Tools](#url-domain-tools) (17) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (3) · [General](#general) (31)
 
 ## Browse & Search
 
@@ -55,6 +55,7 @@
 | [Shopify Shop](https://github.com/raycast/extensions/tree/main/extensions/shopify-shop) | 7 | Browse and search products from a Shopify store. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shopify-shop) |
 | [TinyFish Search](https://github.com/raycast/extensions/tree/main/extensions/tinyfish-search) | 6 | Search the web with TinyFish, open result URLs, and fetch clean page content. | pranav_janakiraman | macOS, Windows | [store](https://www.raycast.com/pranav_janakiraman/tinyfish-search) |
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 4 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | — | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | — |
 
 ### Browsers & Tabs
 

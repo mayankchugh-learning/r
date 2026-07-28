@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `3045e1ad5c`
+
+**Added (1):** [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search)
+
 ## 2026-07-28 — upstream `9088e3eeea`
 
 **Added (1):** [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika)
