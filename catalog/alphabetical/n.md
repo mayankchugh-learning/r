@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 243,467 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 243,486 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
 | [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,794 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,382 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,271 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
@@ -17,7 +17,7 @@
 | [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,005 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 2,860 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
 | [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 2,760 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
-| [Node.js Evaluate](https://github.com/raycast/extensions/tree/main/extensions/node-js-evaluate) | 2,553 | Evaluate Javascript (Node.js) code on-the-fly | Selfish | macOS | [store](https://www.raycast.com/Selfish/node-js-evaluate) |
+| [Node.js Evaluate](https://github.com/raycast/extensions/tree/main/extensions/node-js-evaluate) | 2,554 | Evaluate Javascript (Node.js) code on-the-fly | Selfish | macOS | [store](https://www.raycast.com/Selfish/node-js-evaluate) |
 | [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,397 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,358 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
 | [Naver Search](https://github.com/raycast/extensions/tree/main/extensions/naver-search) | 2,109 | Naver search extension for Raycast | magneto | macOS | [store](https://www.raycast.com/magneto/naver-search) |
@@ -32,7 +32,7 @@
 | [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) | 1,031 | An extension to supercharge your research workflow with Notion | raz_gaon | macOS | [store](https://www.raycast.com/raz_gaon/notion_researcher) |
 | [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) | 985 | Serve Web Apps with one command ngrok is a simplified API-first ingress-as-a-service that adds connectivity, security, and observability to your apps in one li… | ubinatus | macOS | [store](https://www.raycast.com/ubinatus/ngrok) |
 | [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 924 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
-| [NATO Phonetic Alphabet](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet) | 866 | For knowing and conveniently using the NATO phonetic alphabet. | jns | macOS | [store](https://www.raycast.com/jns/nato-phonetic-alphabet) |
+| [NATO Phonetic Alphabet](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet) | 867 | For knowing and conveniently using the NATO phonetic alphabet. | jns | macOS | [store](https://www.raycast.com/jns/nato-phonetic-alphabet) |
 | [NextDNS](https://github.com/raycast/extensions/tree/main/extensions/nextdns) | 763 | Viewing and controlling NextDNS settings | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/nextdns) |
 | [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) | 704 | Checkout all NYT posts | Antonwy | macOS | [store](https://www.raycast.com/Antonwy/new-york-times) |
 | [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) | 582 | It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features | yusuf_akdeniz | macOS | [store](https://www.raycast.com/yusuf_akdeniz/nowplaying-cli) |
@@ -109,6 +109,6 @@
 | [Niuma Logs](https://github.com/raycast/extensions/tree/main/extensions/niuma-logs) | 3 | Every log line tells the story of a cyber workhorse. | mapleeit | macOS | [store](https://www.raycast.com/mapleeit/niuma-logs) |
 | [Nibit](https://github.com/raycast/extensions/tree/main/extensions/nibit) | 2 | Push to and from your Android phone with Nibit, a Raycast-style productivity layer. | jfox | macOS | [store](https://www.raycast.com/jfox/nibit) |
 | [Noteman](https://github.com/raycast/extensions/tree/main/extensions/noteman) | 2 | Fast, local Markdown note-taking in Raycast | samuel_oldmark_se | macOS | [store](https://www.raycast.com/samuel_oldmark_se/noteman) |
+| [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 0 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
 | [NetEase Mail](https://github.com/raycast/extensions/tree/main/extensions/netease-mail) | 0 | Read, search, verify codes, and send NetEase Mail from Raycast. | ctacta621 | Windows | [store](https://www.raycast.com/ctacta621/netease-mail) |
 | [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game) | 0 | What to Play Next - Smart Game Picker | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/next-game) |
-| [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | — | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | — |

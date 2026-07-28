@@ -1,12 +1,12 @@
 # litomore
 
-13 extensions · 12,291 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
+13 extensions · 12,296 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
 
 ## Design Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,045 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
+| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,047 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [TourBox](https://github.com/raycast/extensions/tree/main/extensions/tourbox) | 58 | Find Your Desired TourBox Preset | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/tourbox) |
 
 ## Communication (2)
@@ -21,14 +21,14 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,495 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
-| [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 951 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
+| [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 952 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
 | [PM2](https://github.com/raycast/extensions/tree/main/extensions/pm2) | 281 | Advanced, production process manager for Node.js. | litomore | macOS | [store](https://www.raycast.com/litomore/pm2) |
 
 ## Data (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 579 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
+| [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 580 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | 147 | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
 | [MapleStory.gg](https://github.com/raycast/extensions/tree/main/extensions/maplestory-gg) | 47 | MapleStory's Definitive Database. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/maplestory-gg) |
 
@@ -36,7 +36,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [SteamGridDB](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) | 505 | Download and share custom video game assets and personalize your gaming library. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/steamgriddb) |
+| [SteamGridDB](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) | 506 | Download and share custom video game assets and personalize your gaming library. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/steamgriddb) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 238 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 
 ## Documentation (1)

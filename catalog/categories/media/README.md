@@ -1,8 +1,8 @@
 # Media
 
-281 extensions · [← all categories](../README.md)
+282 extensions · [← all categories](../README.md)
 
-macOS: 276 · Windows: 77
+macOS: 277 · Windows: 78
 
 ## Listen & Watch
 
@@ -15,7 +15,7 @@ macOS: 276 · Windows: 77
 
 | Topic | Extensions |
 | --- | --- |
-| [Images & Photos](./images-photos.md) | 47 |
+| [Images & Photos](./images-photos.md) | 48 |
 | [Wallpapers & Art](./wallpapers-art.md) | 9 |
 | [Books & Papers](./books-papers.md) | 17 |
 

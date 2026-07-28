@@ -1,12 +1,12 @@
 # pernielsentikaer
 
-21 extensions · 89,448 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
+21 extensions · 89,456 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
 
 ## Fun (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 41,580 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
+| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 41,585 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
 | [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 4,594 | Get a random dad joke | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
 | [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard) | 1,248 | Use Raycast as a soundboard and bind sounds to hotkeys | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/soundboard) |
 | [FIGlet](https://github.com/raycast/extensions/tree/main/extensions/figlet) | 191 | Generate a FIGlet | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/figlet) |
@@ -33,13 +33,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [TablePlus](https://github.com/raycast/extensions/tree/main/extensions/tableplus) | 7,795 | Search and open database connections in TablePlus | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/tableplus) |
+| [TablePlus](https://github.com/raycast/extensions/tree/main/extensions/tableplus) | 7,796 | Search and open database connections in TablePlus | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/tableplus) |
 
 ## Media (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,276 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
+| [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,278 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
 | [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,676 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [forScore](https://github.com/raycast/extensions/tree/main/extensions/forscore) | 22 | Manage forScore directly from Raycast | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/forscore) |
 
