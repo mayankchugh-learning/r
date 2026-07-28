@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,312 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,313 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,044 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
-| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 825 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
+| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 826 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 333 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 | [CC0-LIB - Browse CC0 Content](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) | 29 | Browse library of CC0 content | 0xN1 | macOS | [store](https://www.raycast.com/0xN1/cc0-lib) |
 
@@ -23,7 +23,7 @@
 | [Gemini TTS](https://github.com/raycast/extensions/tree/main/extensions/gemini-tts) | 48 | Read selected text aloud with Gemini TTS. Supports Gemini 3.1 Flash TTS Preview plus Gemini 2.5 Flash and Pro Preview TTS. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/gemini-tts) |
 | [Doubao TTS](https://github.com/raycast/extensions/tree/main/extensions/doubao-tts) | 42 | Read selected text aloud using Volcengine Doubao TTS with 160+ Chinese and English voices | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/doubao-tts) |
 | [MiniMax TTS](https://github.com/raycast/extensions/tree/main/extensions/minimax-tts) | 12 | Read selected text aloud with MiniMax TTS. Supports Chinese, English, and your own cloned voices. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/minimax-tts) |
-| [MiMo TTS](https://github.com/raycast/extensions/tree/main/extensions/raycast-mimo-tts) | 2 | Read selected or clipboard text aloud with Xiaomi MiMo TTS — Chinese and English voices, fine-grained style controls, and chunked long-text playback. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/raycast-mimo-tts) |
+| [MiMo TTS](https://github.com/raycast/extensions/tree/main/extensions/raycast-mimo-tts) | 3 | Read selected or clipboard text aloud with Xiaomi MiMo TTS — Chinese and English voices, fine-grained style controls, and chunked long-text playback. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/raycast-mimo-tts) |
 
 ## General
 

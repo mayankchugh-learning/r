@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-28 — upstream `1367309ae0`
+
+**Added (1):** [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips)
+
 ## 2026-07-28 — upstream `7be0302984`
 
 **Added (1):** [TaskNotes](https://github.com/raycast/extensions/tree/main/extensions/tasknotes)

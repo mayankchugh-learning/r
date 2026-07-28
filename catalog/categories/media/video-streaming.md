@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 99,910 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 99,915 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,124 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,538 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
 | [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,755 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
@@ -12,7 +12,7 @@
 | [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) | 2,413 | Download videos from YouTube and other services through yt-dlp using MeTube. | dot | macOS, Windows | [store](https://www.raycast.com/dot/metube) |
 | [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,081 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
 | [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,380 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
-| [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail) | 998 | View a YouTube video's thumbnail variants, then download the images or copy their URLs. | bensomething | macOS | [store](https://www.raycast.com/bensomething/youtube-thumbnail) |
+| [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail) | 999 | View a YouTube video's thumbnail variants, then download the images or copy their URLs. | bensomething | macOS | [store](https://www.raycast.com/bensomething/youtube-thumbnail) |
 | [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 857 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
 | [ShareX](https://github.com/raycast/extensions/tree/main/extensions/sharex) | 564 | Browse and create ShareX screenshots, videos, and GIFs from Raycast | the_revolution | Windows | [store](https://www.raycast.com/the_revolution/sharex) |
 | [SteamGridDB](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) | 505 | Download and share custom video game assets and personalize your gaming library. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/steamgriddb) |

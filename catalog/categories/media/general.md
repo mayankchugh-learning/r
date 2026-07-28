@@ -1,20 +1,20 @@
 # General
 
-79 extensions · [← Media](./README.md)
+80 extensions · [← Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,356 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
+| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,359 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
 | [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,363 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,951 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
-| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,650 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
-| [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,454 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,953 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,652 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
+| [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,455 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
 | [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,820 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
 | [Transmission](https://github.com/raycast/extensions/tree/main/extensions/transmission) | 3,169 | View and manage torrents directly from Raycast. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/transmission) |
 | [Elgato Key Light](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) | 2,948 | Control your Elgato Key Lights with ease | thomas | macOS | [store](https://www.raycast.com/thomas/elgato-key-light) |
-| [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 2,866 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
-| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,675 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
-| [Klack](https://github.com/raycast/extensions/tree/main/extensions/klack) | 2,610 | Control Klack for macOS with Raycast | henrikruscon | macOS | [store](https://www.raycast.com/henrikruscon/klack) |
+| [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 2,867 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,676 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
+| [Klack](https://github.com/raycast/extensions/tree/main/extensions/klack) | 2,611 | Control Klack for macOS with Raycast | henrikruscon | macOS | [store](https://www.raycast.com/henrikruscon/klack) |
 | [Background Sounds](https://github.com/raycast/extensions/tree/main/extensions/background-sounds) | 2,322 | Toggle macOS background sounds on and off. | sebdanielsson | macOS | [store](https://www.raycast.com/sebdanielsson/background-sounds) |
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,857 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
 | [Slackmojis](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) | 1,288 | An unofficial directory of the best custom Slack emojis from slackmojis.com | timoransky | macOS | [store](https://www.raycast.com/timoransky/slackmojis) |
@@ -24,7 +24,7 @@
 | [Matter](https://github.com/raycast/extensions/tree/main/extensions/matter) | 762 | View your saved for later articles in your Matter account. | zan | macOS | [store](https://www.raycast.com/zan/matter) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 731 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) | 708 | Real-Debrid client for Raycast NOT AN OFFICIAL CLIENT | Yamen | macOS | [store](https://www.raycast.com/Yamen/real-debrid-manager) |
-| [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 707 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |
+| [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 708 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 635 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) | 566 | Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. \| Set your Owledge workspace at: https://search.owledge.app \| Documentat… | Romain | macOS | [store](https://www.raycast.com/Romain/owledge-raycast) |
 | [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 552 | Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/replicate) |
@@ -81,5 +81,6 @@
 | [Tuneblade](https://github.com/raycast/extensions/tree/main/extensions/tuneblade) | 12 | Control and manage Tuneblade devices | kibbewater | macOS, Windows | [store](https://www.raycast.com/kibbewater/tuneblade) |
 | [7TV Emotes Search](https://github.com/raycast/extensions/tree/main/extensions/seventv-search) | 8 | Search, preview, copy, and paste 7TV emotes from Raycast. | Paranjayy | macOS, Windows | [store](https://www.raycast.com/Paranjayy/seventv-search) |
 | [Pitchcast - Pitchfork Reviews Search](https://github.com/raycast/extensions/tree/main/extensions/pitchcast) | 8 | Search Pitchfork.com Reviews | stuartromanek | macOS | [store](https://www.raycast.com/stuartromanek/pitchcast) |
+| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 5 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
 | [BJ-Share](https://github.com/raycast/extensions/tree/main/extensions/bj-share) | 4 | This extension can provide quick access to BJ-Share torrents using RSS feed | alexandremt | macOS, Windows | [store](https://www.raycast.com/alexandremt/bj-share) |
-| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 4 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
+| [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | — | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | — |

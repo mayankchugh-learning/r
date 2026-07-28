@@ -1,6 +1,6 @@
 # kud
 
-12 extensions · 5,846 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+12 extensions · 5,847 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -41,7 +41,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 4 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
+| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 5 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
 
 ## Productivity (1)
 

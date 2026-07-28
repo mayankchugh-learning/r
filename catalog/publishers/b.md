@@ -27,9 +27,9 @@
 | [bengt](https://www.raycast.com/bengt) | 1 | 91 | **Productivity:** [Untis](https://github.com/raycast/extensions/tree/main/extensions/untis) |
 | [benkates](https://www.raycast.com/benkates) | 1 | 93 | **Applications:** [Datawrapper](https://github.com/raycast/extensions/tree/main/extensions/datawrapper) |
 | [bennettsh](https://www.raycast.com/bennettsh) | 1 | 580 | **Media:** [Playnite Launcher](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) |
-| [benostein](https://www.raycast.com/benostein) | 1 | 161 | **Productivity:** [KeyRaycast](https://github.com/raycast/extensions/tree/main/extensions/keyraycast) |
-| [bensomething](https://www.raycast.com/bensomething) | 3 | 1,106 | **Media:** [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail)<br>**Documentation:** [Craft CMS](https://github.com/raycast/extensions/tree/main/extensions/craft-cms-docs)<br>**Data:** [Beardtown](https://github.com/raycast/extensions/tree/main/extensions/beardtown) |
-| [benvp](https://www.raycast.com/benvp) | 1 | 63,905 | **System:** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) |
+| [benostein](https://www.raycast.com/benostein) | 1 | 162 | **Productivity:** [KeyRaycast](https://github.com/raycast/extensions/tree/main/extensions/keyraycast) |
+| [bensomething](https://www.raycast.com/bensomething) | 3 | 1,107 | **Media:** [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail)<br>**Documentation:** [Craft CMS](https://github.com/raycast/extensions/tree/main/extensions/craft-cms-docs)<br>**Data:** [Beardtown](https://github.com/raycast/extensions/tree/main/extensions/beardtown) |
+| [benvp](https://www.raycast.com/benvp) | 1 | 63,912 | **System:** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) |
 | [berkaydigital](https://www.raycast.com/berkaydigital) | 1 | 10 | **Productivity:** [Fakecrime Upload](https://github.com/raycast/extensions/tree/main/extensions/fakecrime-upload) |
 | [bert](https://www.raycast.com/bert) | 1 | 213 | **Applications:** [Esse Actions](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) |
 | [betty_van_aken](https://www.raycast.com/betty_van_aken) | 1 | 170 | **Fun:** [Learning Snacks](https://github.com/raycast/extensions/tree/main/extensions/learning-snacks) |
@@ -39,7 +39,7 @@
 | [bgnfu7re](https://www.raycast.com/bgnfu7re) | 5 | 9,541 | **Productivity:** [DEVONthink](https://github.com/raycast/extensions/tree/main/extensions/devonthink), [Timeular](https://github.com/raycast/extensions/tree/main/extensions/timeular)<br>**Design Tools:** [Flaticon — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/flaticon)<br>**Developer Tools:** [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog)<br>**Finance:** [Recurly](https://github.com/raycast/extensions/tree/main/extensions/recurly) |
 | [bgreenlee](https://www.raycast.com/bgreenlee) | 1 | 3,143 | **Developer Tools:** [Epoch to Timestamp](https://github.com/raycast/extensions/tree/main/extensions/epoch-to-timestamp) |
 | [bhavya_muni](https://www.raycast.com/bhavya_muni) | 1 | 242 | **Developer Tools:** [Google Cloud Run](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-run) |
-| [biknandy](https://www.raycast.com/biknandy) | 1 | 6,779 | **Productivity:** [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) |
+| [biknandy](https://www.raycast.com/biknandy) | 1 | 6,781 | **Productivity:** [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) |
 | [bilal_k](https://www.raycast.com/bilal_k) | 1 | 5 | **Productivity:** [WishApp](https://github.com/raycast/extensions/tree/main/extensions/wishapp) |
 | [Binary-Bytes](https://www.raycast.com/Binary-Bytes) | 1 | 141 | **Fun:** [Shakespearify](https://github.com/raycast/extensions/tree/main/extensions/shakespearify) |
 | [BinaryBlitz10](https://www.raycast.com/BinaryBlitz10) | 1 | 49 | **Developer Tools:** [Webhook Sender](https://github.com/raycast/extensions/tree/main/extensions/webhook-sender) |
@@ -54,7 +54,7 @@
 | [blazej_kustra](https://www.raycast.com/blazej_kustra) | 1 | 104 | **Productivity:** [Diki Translate](https://github.com/raycast/extensions/tree/main/extensions/raycast-diki) |
 | [blessanm86](https://www.raycast.com/blessanm86) | 1 | 8,251 | **Communication:** [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) |
 | [bobbymannino](https://www.raycast.com/bobbymannino) | 1 | 102 | **Design Tools:** [Penpot](https://github.com/raycast/extensions/tree/main/extensions/penpot) |
-| [bobheadxi](https://www.raycast.com/bobheadxi) | 1 | 2,449 | **Developer Tools:** [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) |
+| [bobheadxi](https://www.raycast.com/bobheadxi) | 1 | 2,451 | **Developer Tools:** [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) |
 | [bobringer](https://www.raycast.com/bobringer) | 1 | 36 | **Fun:** [Sonu](https://github.com/raycast/extensions/tree/main/extensions/sonu-stream) |
 | [boj](https://www.raycast.com/boj) | 1 | 80 | **Productivity:** [Go Links](https://github.com/raycast/extensions/tree/main/extensions/go-links) |
 | [boosteblume](https://www.raycast.com/boosteblume) | 2 | 145 | **Productivity:** [Personio](https://github.com/raycast/extensions/tree/main/extensions/personio)<br>**Fun:** [Geoguesser](https://github.com/raycast/extensions/tree/main/extensions/geoguesser) |
@@ -78,6 +78,6 @@
 | [brusik](https://www.raycast.com/brusik) | 1 | 73 | **Productivity:** [Append Text to File](https://github.com/raycast/extensions/tree/main/extensions/append-to-file) |
 | [bryantgillespie](https://www.raycast.com/bryantgillespie) | 1 | 152 | **Documentation:** [Directus](https://github.com/raycast/extensions/tree/main/extensions/directus) |
 | [bstncartwright](https://www.raycast.com/bstncartwright) | 1 | 1,244 | **Developer Tools:** [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) |
-| [bucketfish](https://www.raycast.com/bucketfish) | 1 | 520 | **Other:** [Moon Phrase](https://github.com/raycast/extensions/tree/main/extensions/moon-phrase) |
+| [bucketfish](https://www.raycast.com/bucketfish) | 1 | 521 | **Other:** [Moon Phrase](https://github.com/raycast/extensions/tree/main/extensions/moon-phrase) |
 | [bufo24](https://www.raycast.com/bufo24) | 1 | 71 | **Developer Tools:** [Search Lightning Nodes](https://github.com/raycast/extensions/tree/main/extensions/raycast-lighting-node-search) |
 | [bun913](https://www.raycast.com/bun913) | 1 | 81 | **Documentation:** [Textlint AWS Service Name](https://github.com/raycast/extensions/tree/main/extensions/textlint-rule-aws-service-name) |
