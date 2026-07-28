@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "32b13a766ded29fd49232aff8d9d96c85cfc1258",
-  "generatedAt": "2026-07-28T07:50:32.414Z",
-  "downloadsRefreshedAt": "2026-07-28T07:50:32.093Z",
+  "commit": "b3bbf6ba2949caf4a72ce9850353df4687e0e362",
+  "generatedAt": "2026-07-28T07:54:18.801Z",
+  "downloadsRefreshedAt": "2026-07-28T07:54:18.417Z",
   "count": 3114,
   "extensions": [
     {
@@ -6325,7 +6325,7 @@
       "store": "https://www.raycast.com/nyatinte/ccusage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ccusage",
       "treeSha": "da3346f1a4693a65d5cd0137ad167f6a1685f35e",
-      "downloads": 11229
+      "downloads": 11230
     },
     {
       "dir": "cdnjs",
@@ -8879,7 +8879,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 494636
+      "downloads": 494638
     },
     {
       "dir": "color-shades",
@@ -20147,7 +20147,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483018
+      "downloads": 483019
     },
     {
       "dir": "google-chrome-profiles",
@@ -26067,7 +26067,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 650460
+      "downloads": 650461
     },
     {
       "dir": "kimai",
@@ -48394,12 +48394,13 @@
       "categories": [
         "Applications"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/fernando_barrios/shottr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shottr",
-      "treeSha": "4c16795c514b93018816eb81db7412af6ad98f37",
+      "treeSha": "7ff5ba6b060eef3aa86b96ba4cb7be03bf6f005c",
       "downloads": 11014
     },
     {
