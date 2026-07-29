@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "449cfb6afdb175f0a0515f377b0489d83631d6ee",
-  "generatedAt": "2026-07-29T12:17:48.349Z",
-  "downloadsRefreshedAt": "2026-07-29T12:17:47.961Z",
-  "count": 3125,
+  "commit": "d9eb9b1fc673c457f300650047de2654a16b214d",
+  "generatedAt": "2026-07-29T12:19:20.632Z",
+  "downloadsRefreshedAt": "2026-07-29T12:19:20.026Z",
+  "count": 3126,
   "extensions": [
     {
       "dir": "0x0",
@@ -21702,6 +21702,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hebrew-date-zmanim",
       "treeSha": "cf33eca80107661f8ad2cfd2e3d91ba8cb2545a3",
       "downloads": 52
+    },
+    {
+      "dir": "heidisql-sessions",
+      "name": "heidisql-sessions",
+      "title": "HeidiSQL Sessions",
+      "description": "Search and launch your HeidiSQL sessions from Raycast.",
+      "author": "THEN00P",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions",
+      "treeSha": "a1d0d7faa28f6f75f492c29b633669d56394a7ae",
+      "downloads": null
     },
     {
       "dir": "height",

@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · **Search & Reference** · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-113 of 1065 extensions · [← macOS · Developer Tools](./README.md)
+114 of 1066 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -119,3 +119,4 @@
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 4 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
 | [FRC Programming](https://github.com/raycast/extensions/tree/main/extensions/frc-programming) | 3 | An all-in-one Raycast extension for FRC developers to instantly access WPILib docs and handle frequent unit conversions. | helloGithub326 | macOS, Windows | [store](https://www.raycast.com/helloGithub326/frc-programming) |
 | [IBM Bob](https://github.com/raycast/extensions/tree/main/extensions/ibm-bob-recent-projects) | 3 | Control IBM Bob directly from Raycast - Search and open recent projects, handle extensions and commands. | fbuetler | macOS | [store](https://www.raycast.com/fbuetler/ibm-bob-recent-projects) |
+| [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | — | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | — |

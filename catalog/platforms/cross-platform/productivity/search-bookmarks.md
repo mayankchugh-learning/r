@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · **Search & Bookmarks** · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-53 of 312 extensions · [← Cross-platform · Productivity](./README.md)
+54 of 313 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -59,3 +59,4 @@
 | [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 2 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 | [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) | 1 | Search CoCart API documentation quickly, copy URLs, or open them in your browser. | cocart_headless | macOS, Windows | [store](https://www.raycast.com/cocart_headless/cocart-docs) |
 | [Quran Quick Insert](https://github.com/raycast/extensions/tree/main/extensions/quran-quick-insert) | 1 | Search, copy, and insert Quran ayahs or ranges. | yshalsager | macOS, Windows | [store](https://www.raycast.com/yshalsager/quran-quick-insert) |
+| [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | — | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | — |

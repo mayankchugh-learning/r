@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-29 — upstream `d9eb9b1fc6`
+
+**Added (1):** [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions)
+
 ## 2026-07-29 — upstream `449cfb6afd`
 
 **Added (1):** [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix)

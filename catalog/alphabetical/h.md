@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · **H** · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-93 extensions · [← catalog index](../README.md)
+94 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -99,3 +99,4 @@
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 3 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |
 | [Hack Club CDN](https://github.com/raycast/extensions/tree/main/extensions/hack-club-cdn) | 1 | Upload files to the Hack Club CDN and manage your uploads from Raycast. Requires a Hack Club account (cdn.hackclub.com) and an API token. | garyhtou | macOS | [store](https://www.raycast.com/garyhtou/hack-club-cdn) |
 | [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid) | 0 | Browse Hyperliquid perp markets, track your positions and PnL, and pin live prices to your menu bar — all read-only. | insuline | macOS | [store](https://www.raycast.com/Insuline/hyperliquid) |
+| [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | — | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | — |

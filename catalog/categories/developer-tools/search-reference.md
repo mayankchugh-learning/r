@@ -1,8 +1,8 @@
 # Search & Reference
 
-115 extensions · [← Developer Tools](./README.md)
+116 extensions · [← Developer Tools](./README.md)
 
-[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Recent ✦](#recent) (5) · [Directory ✦](#directory) (4) · [General](#general) (55)
+[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Recent ✦](#recent) (5) · [Directory ✦](#directory) (4) · [General](#general) (56)
 
 *✦ auto-discovered topic group*
 
@@ -155,3 +155,4 @@
 | [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) | 22 | Look up KQL commands | olafhartong | macOS | [store](https://www.raycast.com/olafhartong/kusto-reference) |
 | [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 19 | Browse and call contacts, control your active call, and search transcripts from your Tuple pair programming sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 4 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
+| [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | — | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | — |

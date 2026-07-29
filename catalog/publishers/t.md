@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · **T** · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-115 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+116 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -49,6 +49,7 @@
 | [thedaviddias](https://www.raycast.com/thedaviddias) | 1 | 823 | **Developer Tools:** [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) |
 | [thegdsks](https://www.raycast.com/thegdsks) | 1 | 299 | **Design Tools:** [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg) |
 | [theherk](https://www.raycast.com/theherk) | 2 | 283 | **Developer Tools:** [Zoxide Git Projects](https://github.com/raycast/extensions/tree/main/extensions/zoxide-git-projects)<br>**Productivity:** [Ordbøkene - Norwegian Dictionary](https://github.com/raycast/extensions/tree/main/extensions/raycast-ordbokene) |
+| THEN00P | 1 | — | **Developer Tools:** [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) |
 | [TheNitai](https://www.raycast.com/TheNitai) | 1 | 17 | **Media:** [Razuna - Add and Browse Files in Razuna](https://github.com/raycast/extensions/tree/main/extensions/razuna) |
 | [theo_brlle](https://www.raycast.com/theo_brlle) | 1 | 712 | **Documentation:** [Markdown to Jira](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-jira) |
 | [theo_daguier](https://www.raycast.com/theo_daguier) | 2 | 6,094 | **Productivity:** [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming)<br>**Fun:** [ASCII Art Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/ascii-art-wallpaper) |
