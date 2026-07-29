@@ -1,6 +1,6 @@
 # Windows · Developer Tools
 
-281 extensions · [← Windows](../README.md)
+282 extensions · [← Windows](../README.md)
 
 ## Code & Collaboration
 
@@ -9,7 +9,7 @@
 | [Git & Version Control](./git-version-control.md) | 14 |
 | [Issue Tracking & Projects](./issue-tracking-projects.md) | 4 |
 | [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 31 |
-| [Search & Reference](./search-reference.md) | 26 |
+| [Search & Reference](./search-reference.md) | 27 |
 
 ## Build, Ship & Operate
 

@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,269 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,956 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,288 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,958 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 5,943 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
 | [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,726 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,287 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
@@ -26,4 +26,4 @@
 | [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) | 23 | Semantic bookmark search - save any URL and find it later in natural language. | rithmic | macOS, Windows | [store](https://www.raycast.com/rithmic/raycall) |
 | [Teamup Rooms](https://github.com/raycast/extensions/tree/main/extensions/teamup-rooms) | 18 | Check for open rooms and book using Teamup | drewwatkins11 | macOS | [store](https://www.raycast.com/drewwatkins11/teamup-rooms) |
 | [Research Sync](https://github.com/raycast/extensions/tree/main/extensions/read-this-later) | 10 | Browse and read your saved articles, and save the current browser tab. | shearm | macOS | [store](https://www.raycast.com/shearm/read-this-later) |
-| [Vocabulary Builder](https://github.com/raycast/extensions/tree/main/extensions/vocabulary-builder) | 8 | Build your vocabulary while learning a new language | stefann | macOS, Windows | [store](https://www.raycast.com/stefann/vocabulary-builder) |
+| [Vocabulary Builder](https://github.com/raycast/extensions/tree/main/extensions/vocabulary-builder) | 9 | Build your vocabulary while learning a new language | stefann | macOS, Windows | [store](https://www.raycast.com/stefann/vocabulary-builder) |
