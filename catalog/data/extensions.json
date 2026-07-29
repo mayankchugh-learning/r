@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d9eb9b1fc673c457f300650047de2654a16b214d",
-  "generatedAt": "2026-07-29T12:19:20.632Z",
-  "downloadsRefreshedAt": "2026-07-29T12:19:20.026Z",
-  "count": 3126,
+  "commit": "4f5f7bbbdcdc129e431d57fae58c17f788e01055",
+  "generatedAt": "2026-07-29T12:29:28.701Z",
+  "downloadsRefreshedAt": "2026-07-29T12:29:27.749Z",
+  "count": 3127,
   "extensions": [
     {
       "dir": "0x0",
@@ -8900,7 +8900,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 495443
+      "downloads": 495445
     },
     {
       "dir": "color-shades",
@@ -20233,7 +20233,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483869
+      "downloads": 483871
     },
     {
       "dir": "google-chrome-profiles",
@@ -21720,10 +21720,10 @@
         "Windows",
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/THEN00P/heidisql-sessions",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions",
       "treeSha": "a1d0d7faa28f6f75f492c29b633669d56394a7ae",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "height",
@@ -26176,7 +26176,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 651437
+      "downloads": 651442
     },
     {
       "dir": "kimai",
@@ -45887,6 +45887,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/rounding-number",
       "treeSha": "a9f7cbd1dc73f6e8d45723a05cf93d4a2a63c603",
       "downloads": 25
+    },
+    {
+      "dir": "royal-tsx",
+      "name": "royal-tsx",
+      "title": "Royal TSX",
+      "description": "Search and connect to Royal TSX connections",
+      "author": "carceneaux",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/royal-tsx",
+      "treeSha": "adcf4be6875cdb70d45843e93692d764fecd1820",
+      "downloads": null
     },
     {
       "dir": "rpass",

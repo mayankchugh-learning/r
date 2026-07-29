@@ -49,7 +49,7 @@
 | [thedaviddias](https://www.raycast.com/thedaviddias) | 1 | 823 | **Developer Tools:** [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) |
 | [thegdsks](https://www.raycast.com/thegdsks) | 1 | 299 | **Design Tools:** [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg) |
 | [theherk](https://www.raycast.com/theherk) | 2 | 283 | **Developer Tools:** [Zoxide Git Projects](https://github.com/raycast/extensions/tree/main/extensions/zoxide-git-projects)<br>**Productivity:** [Ordbøkene - Norwegian Dictionary](https://github.com/raycast/extensions/tree/main/extensions/raycast-ordbokene) |
-| THEN00P | 1 | — | **Developer Tools:** [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) |
+| [THEN00P](https://www.raycast.com/THEN00P) | 1 | 0 | **Developer Tools:** [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) |
 | [TheNitai](https://www.raycast.com/TheNitai) | 1 | 17 | **Media:** [Razuna - Add and Browse Files in Razuna](https://github.com/raycast/extensions/tree/main/extensions/razuna) |
 | [theo_brlle](https://www.raycast.com/theo_brlle) | 1 | 712 | **Documentation:** [Markdown to Jira](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-jira) |
 | [theo_daguier](https://www.raycast.com/theo_daguier) | 2 | 6,094 | **Productivity:** [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming)<br>**Fun:** [ASCII Art Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/ascii-art-wallpaper) |
@@ -63,7 +63,7 @@
 | [thijsdewitt](https://www.raycast.com/thijsdewitt) | 1 | 144 | **Developer Tools:** [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) |
 | [third774](https://www.raycast.com/third774) | 3 | 60,703 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,394 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,081,347 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,081,349 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 36 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 55,194 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,292 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |

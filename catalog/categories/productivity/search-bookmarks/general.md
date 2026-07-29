@@ -1,6 +1,6 @@
 # General
 
-107 extensions · [← Search & Bookmarks](./README.md)
+108 extensions · [← Search & Bookmarks](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -109,5 +109,6 @@
 | [Gather](https://github.com/raycast/extensions/tree/main/extensions/gatherit) | 2 | Search, copy, and save your Gather design references without leaving the keyboard. | samuel_monteiro | macOS | [store](https://www.raycast.com/samuel_monteiro/gatherit) |
 | [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 2 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 | [Quran Quick Insert](https://github.com/raycast/extensions/tree/main/extensions/quran-quick-insert) | 1 | Search, copy, and insert Quran ayahs or ranges. | yshalsager | macOS, Windows | [store](https://www.raycast.com/yshalsager/quran-quick-insert) |
-| [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | — | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | — |
+| [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | 0 | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | [store](https://www.raycast.com/THEN00P/heidisql-sessions) |
+| [Royal TSX](https://github.com/raycast/extensions/tree/main/extensions/royal-tsx) | — | Search and connect to Royal TSX connections | carceneaux | macOS | — |
 | [Search Blockchain](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) | — | Search Bitcoin (BTC), Cardano (ADA), EOS, Ethereum (ETH), Monero (XMR), NEO, Ontology (ONT), Polygon (DOT), Solana (SOL), Stellar (XLM), Tron (TRX), XRP and mo… | gutenye | macOS | — |
