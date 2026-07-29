@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-29 — upstream `c1bffae746`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-07-29 — upstream `8081f648aa`
 
 **Updated (1):** [NeteaseMusic](https://github.com/raycast/extensions/tree/main/extensions/netease-music)
