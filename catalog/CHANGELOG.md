@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-29 — upstream `2f93fd8825`
+
+**Updated (1):** [Claude Code Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage)
+
 ## 2026-07-28 — upstream `0667f4659f`
 
 **Updated (1):** [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace)
