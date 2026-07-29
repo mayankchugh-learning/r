@@ -78,4 +78,4 @@
 | [nunotomas](https://www.raycast.com/nunotomas) | 1 | 192 | **Developer Tools:** [IsDown](https://github.com/raycast/extensions/tree/main/extensions/isdown) |
 | [nurkamol](https://www.raycast.com/nurkamol) | 2 | 340 | **Developer Tools:** [Redirect Trace](https://github.com/raycast/extensions/tree/main/extensions/redirect-trace), [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) |
 | [NvIte0o0](https://www.raycast.com/NvIte0o0) | 1 | 4 | **Fun:** [GeForce NOW](https://github.com/raycast/extensions/tree/main/extensions/geforce-now) |
-| [nyatinte](https://www.raycast.com/nyatinte) | 1 | 11,245 | **Developer Tools:** [Claude Code Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) |
+| [nyatinte](https://www.raycast.com/nyatinte) | 1 | 11,245 | **Developer Tools:** [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2f93fd88256935956cd7b40f479c024b741049a5",
-  "generatedAt": "2026-07-29T06:20:29.317Z",
-  "downloadsRefreshedAt": "2026-07-29T06:20:28.040Z",
+  "commit": "7648043151bb2333e8753859cec28e9a5d05f089",
+  "generatedAt": "2026-07-29T06:21:18.996Z",
+  "downloadsRefreshedAt": "2026-07-29T06:21:17.881Z",
   "count": 3124,
   "extensions": [
     {
@@ -6331,7 +6331,7 @@
     {
       "dir": "ccusage",
       "name": "ccusage",
-      "title": "Claude Code Usage (ccusage)",
+      "title": "Claude Usage (ccusage)",
       "description": "Monitor Claude Code usage with real-time tracking",
       "author": "nyatinte",
       "owner": null,
@@ -6345,7 +6345,7 @@
       ],
       "store": "https://www.raycast.com/nyatinte/ccusage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ccusage",
-      "treeSha": "50aeff0bf4443b168cd7bc32b39a4da887304102",
+      "treeSha": "328ccb7a3e5f424ed289934263c9fac3538b7408",
       "downloads": 11245
     },
     {
