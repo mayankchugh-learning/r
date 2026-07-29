@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-29 — upstream `8081f648aa`
+
+**Updated (1):** [NeteaseMusic](https://github.com/raycast/extensions/tree/main/extensions/netease-music)
+
 ## 2026-07-29 — upstream `7648043151`
 
 **Updated (1):** [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage)

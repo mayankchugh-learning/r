@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7648043151bb2333e8753859cec28e9a5d05f089",
-  "generatedAt": "2026-07-29T06:21:18.996Z",
-  "downloadsRefreshedAt": "2026-07-29T06:21:17.881Z",
+  "commit": "8081f648aaf5a004293853522c9c5428ec691327",
+  "generatedAt": "2026-07-29T09:46:49.255Z",
+  "downloadsRefreshedAt": "2026-07-29T09:46:48.569Z",
   "count": 3124,
   "extensions": [
     {
@@ -8900,7 +8900,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 495269
+      "downloads": 495371
     },
     {
       "dir": "color-shades",
@@ -20233,7 +20233,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483682
+      "downloads": 483800
     },
     {
       "dir": "google-chrome-profiles",
@@ -26154,7 +26154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 651208
+      "downloads": 651341
     },
     {
       "dir": "kimai",
@@ -33609,17 +33609,18 @@
       "description": "Control the NeteaseMusic app with your keyboard",
       "author": "chyroc",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Media",
         "Productivity"
       ],
+      "manifestCategorized": false,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/chyroc/netease-music",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/netease-music",
-      "treeSha": "fc00a533f538b38787580428f477ca3ec4d90479",
+      "treeSha": "1a778604425d7bb7cbed646440be8b7891c34687",
       "downloads": 2083
     },
     {
