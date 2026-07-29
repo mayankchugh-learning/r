@@ -2,11 +2,11 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · **Issue Tracking & Projects** · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-11 of 1066 extensions · [← macOS · Developer Tools](./README.md)
+11 of 1067 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 334,870 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
+| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 334,896 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
 | [Jira Search](https://github.com/raycast/extensions/tree/main/extensions/jira-search) | 7,925 | Search for Jira issues (more tolerant and powerful than built-in), projects, boards and filters. | sven | macOS | [store](https://www.raycast.com/sven/jira-search) |
 | [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,287 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
 | [Jira Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-search-self-hosted) | 4,559 | Search for Jira issues (more tolerant and powerful than built-in), projects, and boards on Jira Server instances. | emanguy | macOS | [store](https://www.raycast.com/emanguy/jira-search-self-hosted) |

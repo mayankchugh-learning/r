@@ -1,12 +1,12 @@
 # General
 
-30 extensions · [← Design Tools](./README.md)
+31 extensions · [← Design Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,174 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 36,632 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
-| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,376 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,178 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 36,635 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,379 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,032 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,074 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,638 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
@@ -17,7 +17,7 @@
 | [Typographer: Make Text Pretty](https://github.com/raycast/extensions/tree/main/extensions/typographer) | 1,907 | Make the typography of your text pretty: fix quotes, dashes, and spaces. Works offline. | mikeozornin | macOS | [store](https://www.raycast.com/mikeozornin/typographer) |
 | [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,423 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
 | [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) | 1,073 | Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. | peeks | macOS | [store](https://www.raycast.com/peeks/webflow-sites) |
-| [iOS Human Interface Guidelines](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) | 1,046 | Shows you the iOS HIG's info for quick reference | eliperkins | macOS | [store](https://www.raycast.com/eliperkins/raycast-ios-hig) |
+| [iOS Human Interface Guidelines](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) | 1,047 | Shows you the iOS HIG's info for quick reference | eliperkins | macOS | [store](https://www.raycast.com/eliperkins/raycast-ios-hig) |
 | [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 880 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 635 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [Outline Page](https://github.com/raycast/extensions/tree/main/extensions/outline-page) | 635 | Check for CSS bugs by outlining all the elements in your web page. | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/outline-page) |
@@ -34,3 +34,4 @@
 | [Razuna - Add and Browse Files in Razuna](https://github.com/raycast/extensions/tree/main/extensions/razuna) | 17 | Upload, search, and browse files in your Razuna workspace directly from Raycast. | TheNitai | macOS | [store](https://www.raycast.com/TheNitai/razuna) |
 | [Quick Access for zeroheight](https://github.com/raycast/extensions/tree/main/extensions/quick-access-for-zeroheight) | 12 | Find and view pages in zeroheight | zeroheight | macOS | [store](https://www.raycast.com/zeroheight/quick-access-for-zeroheight) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
+| [Mobbin Search](https://github.com/raycast/extensions/tree/main/extensions/mobbin) | 0 | Search Mobbin screens, flows, and sections from Raycast. | noss | macOS | [store](https://www.raycast.com/noss/mobbin) |

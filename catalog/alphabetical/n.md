@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 243,679 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
-| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,798 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 243,686 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,799 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,387 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,275 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
-| [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,764 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
+| [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,765 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
 | [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,032 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
 | [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) | 3,519 | View diagnostic information about your network to help figure out why it's playing up. | hmarr | macOS | [store](https://www.raycast.com/hmarr/network-diagnostics) |
 | [NixPkgs Search](https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search) | 3,031 | Query NixPkgs like search.nixos.org | aiotter | macOS, Windows | [store](https://www.raycast.com/aiotter/nixpkgs-search) |

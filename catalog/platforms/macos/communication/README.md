@@ -10,13 +10,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 281,329 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 281,346 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 47,748 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,288 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,289 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
 | [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 17,835 | Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams) |
 | [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,122 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
 | [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 7,899 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
-| [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | 6,688 | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
+| [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | 6,689 | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
 | [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 2,868 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
 | [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) | 2,786 | Open Signal chats | leeraymond78 | macOS | [store](https://www.raycast.com/leeraymond78/signal) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,559 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
@@ -27,7 +27,7 @@
 | [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool) | 901 | Raycast extension that provides instant spelling and grammar correction using LanguageTool. Type any text, get real-time suggestions, and copy the improved ver… | lucastaonline | macOS, Windows | [store](https://www.raycast.com/lucastaonline/raycast-language-tool) |
 | [Fast Chat With Phone Number in IM Apps](https://github.com/raycast/extensions/tree/main/extensions/phonenumber-in-im) | 837 | A Raycast extension enables faster chatting with a target phone number in IM apps like WhatsApp and Telegram, eliminating the need to add contacts beforehand. | timonpeng | macOS | [store](https://www.raycast.com/timonpeng/phonenumber-in-im) |
 | [Mattermost](https://github.com/raycast/extensions/tree/main/extensions/mattermost) | 777 | Search for chats, see unread messages, and set your presence status. | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mattermost) |
-| [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 662 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
+| [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 663 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
 | [Slack Summarizer](https://github.com/raycast/extensions/tree/main/extensions/slack-summarizer) | 237 | Summarize Slack channels, threads and messages using OpenAI | hassan_ahmed | macOS | [store](https://www.raycast.com/hassan_ahmed/slack-summarizer) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | 195 | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
 | [Pushover](https://github.com/raycast/extensions/tree/main/extensions/pushover) | 157 | Send a message via the Pushover API. | mattstone | macOS | [store](https://www.raycast.com/mattstone/pushover) |
@@ -42,9 +42,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 99,437 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
-| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 31,743 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
-| [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 14,274 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 99,443 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 31,744 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
+| [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 14,275 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 8,908 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
 | [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 5,277 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
 | [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 4,581 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
@@ -61,7 +61,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 35,132 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
+| [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 35,134 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
 | [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,538 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
 | [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,561 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman) | 2,066 | Boost your email workflow with powerful contextual Superhuman integration. Draft emails with context and search your inbox using Superhuman's advanced operator… | jlokos | macOS | [store](https://www.raycast.com/jlokos/superhuman) |

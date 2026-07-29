@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 58,709 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
-| [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 38,555 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
-| [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 22,004 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 58,712 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 38,556 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
+| [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 22,005 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
 | [Google Calendar Epic Time Logger](https://github.com/raycast/extensions/tree/main/extensions/time-logger) | 401 | Helps you register your work to Google Calendar | aramikuto | macOS | [store](https://www.raycast.com/aramikuto/time-logger) |
 | [Nepali Calendar](https://github.com/raycast/extensions/tree/main/extensions/nepali-calendar) | 67 | View and navigate the Nepali calendar (Bikram Sambat) with support for both English and Nepali languages. Customize your view by setting the first day of the w… | adarshdoesntcode | macOS, Windows | [store](https://www.raycast.com/adarshdoesntcode/nepali-calendar) |
 | [Jalali Date Convertor](https://github.com/raycast/extensions/tree/main/extensions/jalali-date-convertor) | 53 | Converts Shamsi (Jalali) calendar dates to/from Gregorian calendar | amin_saedi | macOS | [store](https://www.raycast.com/amin_saedi/jalali-date-convertor) |

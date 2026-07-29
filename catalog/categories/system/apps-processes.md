@@ -19,7 +19,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 651,566 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 651,574 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 103,394 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 359 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) | 50 | See what's burning your CPU and spinning your fan | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/heatcheck) |
@@ -28,10 +28,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 43,947 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
-| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 29,780 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
-| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 13,890 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
-| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,476 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
+| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 43,950 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
+| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 29,782 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
+| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 13,891 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
+| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,478 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 | [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,357 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
 | [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp) | 4,057 | Search Setapp apps | lardissone | macOS | [store](https://www.raycast.com/lardissone/setapp) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,587 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |

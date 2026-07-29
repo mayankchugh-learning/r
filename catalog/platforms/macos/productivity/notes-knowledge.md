@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 243,679 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
-| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 148,773 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
-| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 134,624 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
-| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,798 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 243,686 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 148,777 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
+| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 134,627 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
+| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,799 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Obsidian Smart Capture](https://github.com/raycast/extensions/tree/main/extensions/obsidian-smart-capture) | 13,374 | Smart capture anything into Obsidian | millin_gabani | macOS | [store](https://www.raycast.com/millin_gabani/obsidian-smart-capture) |
 | [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,319 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
 | [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 13,259 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
@@ -17,7 +17,7 @@
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,468 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
 | [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) | 6,789 | Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! | biknandy | Windows, macOS | [store](https://www.raycast.com/biknandy/quick-notes) |
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,628 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 6,272 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
+| [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 6,273 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
 | [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,111 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
 | [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote) | 3,753 | Search Microsoft OneNote notes | alewandowski | macOS | [store](https://www.raycast.com/alewandowski/onenote) |
 | [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) | 3,706 | Manage your Obsidian Tasks through Raycast | ozencb | macOS | [store](https://www.raycast.com/ozencb/obsidian-tasks) |

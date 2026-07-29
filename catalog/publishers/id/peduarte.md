@@ -1,6 +1,6 @@
 # peduarte
 
-14 extensions · 25,609 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
+14 extensions · 25,611 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
 
 ## Fun (4)
 
@@ -15,7 +15,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,476 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
+| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,478 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 
 ## Web (6)
 

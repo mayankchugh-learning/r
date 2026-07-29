@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,082 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,083 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
 | [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,118 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
 | [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,287 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
 | [MacRumors](https://github.com/raycast/extensions/tree/main/extensions/macrumors) | 548 | Browse MacRumors headlines from the comfort of Raycast. | hughmcmillanv | macOS | [store](https://www.raycast.com/hughmcmillanv/macrumors) |
@@ -87,7 +87,7 @@
 | [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 376 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 | [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | 301 | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 262 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
-| [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | 185 | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
+| [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | 186 | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
 | [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 119 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 106 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) | 57 | Show posts on theinitium.com | unpopular | macOS | [store](https://www.raycast.com/unpopular/initium) |
@@ -108,7 +108,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 41,527 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 41,529 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
 | [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,956 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,235 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,798 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |

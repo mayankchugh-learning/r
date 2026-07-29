@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-29 — upstream `38d038b613`
+
+**Added (1):** [Mobbin Search](https://github.com/raycast/extensions/tree/main/extensions/mobbin)
+
 ## 2026-07-29 — upstream `50c6814e34`
 
 **Added (1):** [PuTTY Sessions](https://github.com/raycast/extensions/tree/main/extensions/putty-sessions)

@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 20,622 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
-| [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,097 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
-| [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 8,034 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
-| [Display Modes](https://github.com/raycast/extensions/tree/main/extensions/display-modes) | 6,073 | Manage displays modes (resolution, refresh rate...). | agustin.prats | macOS | [store](https://www.raycast.com/agustin.prats/display-modes) |
-| [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,764 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
-| [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) | 5,458 | Quickly controls the brightness levels of your display | cali | macOS, Windows | [store](https://www.raycast.com/cali/brightness-control) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 20,623 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,099 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
+| [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 8,035 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
+| [Display Modes](https://github.com/raycast/extensions/tree/main/extensions/display-modes) | 6,074 | Manage displays modes (resolution, refresh rate...). | agustin.prats | macOS | [store](https://www.raycast.com/agustin.prats/display-modes) |
+| [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,765 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
+| [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) | 5,459 | Quickly controls the brightness levels of your display | cali | macOS, Windows | [store](https://www.raycast.com/cali/brightness-control) |
 | [Bing Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/bing-wallpaper) | 2,077 | Get, set, auto-switch Bing wallpapers to explore the world. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bing-wallpaper) |
 | [Pick Your Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/pick-your-wallpaper) | 1,574 | Lets you pick a wallpaper from a folder of finder. | hugomarfani | macOS | [store](https://www.raycast.com/hugomarfani/pick-your-wallpaper) |
 | [Hellonext Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/hellonext-wallpapers) | 1,341 | Download and set Hellonext's exclusive wallpapers. | karthik | macOS | [store](https://www.raycast.com/karthik/hellonext-wallpapers) |

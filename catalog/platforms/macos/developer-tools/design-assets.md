@@ -2,13 +2,13 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · **Design & Assets** · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-37 of 1066 extensions · [← macOS · Developer Tools](./README.md)
+37 of 1067 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 46,191 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
+| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 46,192 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
 | [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 40,364 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS | [store](https://www.raycast.com/kawamataryo/tinypng) |
-| [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 36,632 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
+| [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 36,633 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
 | [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 25,055 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
 | [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 10,206 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |
 | [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 8,525 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
@@ -23,7 +23,7 @@
 | [Convert Color](https://github.com/raycast/extensions/tree/main/extensions/covert-color) | 2,132 | hsl, rgb, hexadecimal, convert to each other | yf_zhang | macOS | [store](https://www.raycast.com/yf_zhang/covert-color) |
 | [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 1,970 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |
 | [CodeSnap](https://github.com/raycast/extensions/tree/main/extensions/codesnap) | 1,693 | Creates a beautiful image of your code snippet | Mokkapps | macOS | [store](https://www.raycast.com/Mokkapps/codesnap) |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,502 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,503 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,369 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
 | [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,199 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
 | [MynaUI Icons](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons) | 1,034 | Search and Copy MynaUI Icons. | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/mynaui-icons) |

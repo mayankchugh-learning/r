@@ -4,14 +4,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 36,632 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
-| [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 23,381 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
-| [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime) | 13,700 | Start screen recording, movie recording and sound recording instantly. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/quicktime) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 36,635 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 23,382 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
+| [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime) | 13,701 | Start screen recording, movie recording and sound recording instantly. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/quicktime) |
 | [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,577 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
-| [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 10,926 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
+| [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 10,927 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
 | [OpenAI Translator](https://github.com/raycast/extensions/tree/main/extensions/openai-translator) | 9,555 | Translation based on Multiple LLMs. | douo | macOS | [store](https://www.raycast.com/douo/openai-translator) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,401 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
-| [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,394 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
+| [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,395 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
 | [Firecrawl](https://github.com/raycast/extensions/tree/main/extensions/firecrawl) | 4,947 | Scrape, search, and conduct in-depth research with Firecrawl | firecrawl (org) | macOS | [store](https://www.raycast.com/firecrawl/firecrawl) |
 | [Screen Studio](https://github.com/raycast/extensions/tree/main/extensions/screen-studio) | 4,633 | Raycast extension that allows controlling the Screen Studio app easily | screen-studio (org) | macOS | [store](https://www.raycast.com/screen-studio/screen-studio) |
 | [MacUpdater](https://github.com/raycast/extensions/tree/main/extensions/macupdater) | 3,683 | Get app updates and popular apps from macupdater.net | kall | macOS | [store](https://www.raycast.com/kall/macupdater) |

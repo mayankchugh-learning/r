@@ -31,7 +31,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Simple Dictionary](https://github.com/raycast/extensions/tree/main/extensions/simple-dictionary) | 1,775 | A simple dictionary to look up words and save your favourites | CT-7567 | macOS, Windows | [store](https://www.raycast.com/CT-7567/simple-dictionary) |
 | [Jisho - Japanese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/jisho) | 1,228 | Search Jisho.org | dmacdermott | macOS | [store](https://www.raycast.com/dmacdermott/jisho) |
-| [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,070 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
+| [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,071 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
 | [WordReference Dictionary Translation](https://github.com/raycast/extensions/tree/main/extensions/wordreference) | 1,050 | Quickly find a word translation using WordReference | Katatsu | macOS, Windows | [store](https://www.raycast.com/Katatsu/wordreference) |
 | [Handy](https://github.com/raycast/extensions/tree/main/extensions/handy) | 935 | Control Handy speech-to-text: transcription history, dictionary, model selection, and recording | mattiacolombomc | macOS | [store](https://www.raycast.com/mattiacolombomc/handy) |
 | [Jotoba — Japanese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/jotoba) | 405 | Search Jotoba.de from the comfort of Raycast. | clnhs | macOS | [store](https://www.raycast.com/clnhs/jotoba) |
@@ -44,7 +44,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) | 57,547 | Translate words, or entire sentences, into 27 different languages using DeepL. | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/deepcast) |
+| [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) | 57,548 | Translate words, or entire sentences, into 27 different languages using DeepL. | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/deepcast) |
 | [iTranslate](https://github.com/raycast/extensions/tree/main/extensions/itranslate) | 10,605 | Translate words or sentences, support 36 languages, OCR, history record and translating into multiple languages at the same time. | JinShi | macOS | [store](https://www.raycast.com/JinShi/itranslate) |
 | [Fix Language](https://github.com/raycast/extensions/tree/main/extensions/fix-language) | 607 | Switch the language input source of the text when you type and forget to change the language. | tin5451 | macOS | [store](https://www.raycast.com/tin5451/fix-language) |
 | [Korean Spell Checker](https://github.com/raycast/extensions/tree/main/extensions/korean-spell-checker) | 519 | Provides grammar/spelling suggestions for Korean language | jcha0713 | macOS | [store](https://www.raycast.com/jcha0713/korean-spell-checker) |
@@ -73,11 +73,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 51,213 | Extract text from screen captures locally via OCR | huzef44 | macOS | [store](https://www.raycast.com/huzef44/screenocr) |
-| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,484 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
+| [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 51,217 | Extract text from screen captures locally via OCR | huzef44 | macOS | [store](https://www.raycast.com/huzef44/screenocr) |
+| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,485 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
 | [Word Search](https://github.com/raycast/extensions/tree/main/extensions/word-search) | 24,440 | Search for synonyms, antonyms, spellings, rhymes and more | rishabswift | macOS, Windows | [store](https://www.raycast.com/rishabswift/word-search) |
 | [Regex Tester](https://github.com/raycast/extensions/tree/main/extensions/regex-tester) | 11,833 | Preview and test regular expressions | allenan | macOS, Windows | [store](https://www.raycast.com/allenan/regex-tester) |
-| [Easy OCR](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) | 10,205 | Use Tesseract OCR to extract text from screenshot | Rafo94 | macOS | [store](https://www.raycast.com/Rafo94/easy-ocr) |
+| [Easy OCR](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) | 10,208 | Use Tesseract OCR to extract text from screenshot | Rafo94 | macOS | [store](https://www.raycast.com/Rafo94/easy-ocr) |
 | [Superwhisper - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) | 8,801 | Start a recording, change Modes and open settings. Requires installing superwhisper. | nchudleigh | macOS | [store](https://www.raycast.com/nchudleigh/superwhisper) |
 | [Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/youdao-translate) | 7,317 | Translate text using Youdao | tiancheng92 | macOS | [store](https://www.raycast.com/tiancheng92/youdao-translate) |
 | [Open Link in Specific Browser](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) | 5,016 | Open link or search text in specific browser. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-link-in-specific-browser) |
@@ -89,7 +89,7 @@
 | [Synonyms](https://github.com/raycast/extensions/tree/main/extensions/synonyms) | 838 | Find synonyms for words and translate if necessary | xmorse | macOS | [store](https://www.raycast.com/xmorse/synonyms) |
 | [Eudic](https://github.com/raycast/extensions/tree/main/extensions/eudic) | 820 | Intetract with Eudic, seach any word via Raycast | tears330 | macOS | [store](https://www.raycast.com/tears330/eudic) |
 | [Open Multiple Links](https://github.com/raycast/extensions/tree/main/extensions/multi-links) | 672 | Opens all the links from the selected text in the default browser | wrick17 | macOS | [store](https://www.raycast.com/wrick17/multi-links) |
-| [Input Source Switcher](https://github.com/raycast/extensions/tree/main/extensions/input-source-switcher) | 657 | Switch input source (English/Ukraine) of the provided text if you forgot to do it before typing. | danulqua | macOS | [store](https://www.raycast.com/danulqua/input-source-switcher) |
+| [Input Source Switcher](https://github.com/raycast/extensions/tree/main/extensions/input-source-switcher) | 658 | Switch input source (English/Ukraine) of the provided text if you forgot to do it before typing. | danulqua | macOS | [store](https://www.raycast.com/danulqua/input-source-switcher) |
 | [Advanced Replace](https://github.com/raycast/extensions/tree/main/extensions/advanced-replace) | 611 | Extract and replace text using custom regex. | rocksack | macOS | [store](https://www.raycast.com/rocksack/advanced-replace) |
 | [Vocabulary.com](https://github.com/raycast/extensions/tree/main/extensions/vocab-search) | 520 | Retrieve Word definitions from vocab.com | datadeer | macOS | [store](https://www.raycast.com/datadeer/vocab) |
 | [Deduplicator](https://github.com/raycast/extensions/tree/main/extensions/deduplicator) | 490 | A text tool for de-duplicating text content. | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/deduplicator) |

@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 17,626 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
-| [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,392 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
+| [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,393 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
 | [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 10,675 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
 | [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 1,835 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
 | [Mem](https://github.com/raycast/extensions/tree/main/extensions/mem) | 1,171 | Access Mem functionality through Raycast using the Mem API. The Mem API is still growing and is currently very limited. | brianfakhoury | macOS | [store](https://www.raycast.com/brianfakhoury/mem) |

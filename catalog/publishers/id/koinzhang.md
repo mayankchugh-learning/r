@@ -1,6 +1,6 @@
 # koinzhang
 
-50 extensions · 250,529 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
+50 extensions · 250,542 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
 
 ## Developer Tools (18)
 
@@ -14,7 +14,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,145 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,147 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
 | [Short.io](https://github.com/raycast/extensions/tree/main/extensions/short-io) | 1,148 | Shorten and search links with your own domain via Short.io | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/short-io) |
 
 ### APIs & Networking
@@ -28,7 +28,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Shell History](https://github.com/raycast/extensions/tree/main/extensions/shell-history) | 4,751 | Search shell command history from zsh, bash, and fish. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/shell-history) |
-| [Open Path](https://github.com/raycast/extensions/tree/main/extensions/open-path) | 3,708 | Open path and link from selection or clipboard in Finder, browsers, terminal, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-path) |
+| [Open Path](https://github.com/raycast/extensions/tree/main/extensions/open-path) | 3,709 | Open path and link from selection or clipboard in Finder, browsers, terminal, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-path) |
 
 ### Package & Dependency Tools
 
@@ -41,7 +41,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,310 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
+| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,311 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
 | [Open Link in Specific Browser](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) | 5,016 | Open link or search text in specific browser. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-link-in-specific-browser) |
 | [Refresh Browsers](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) | 319 | Refresh all browser tabs | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/refresh-browsers) |
 
@@ -50,7 +50,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 22,557 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
-| [Text Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/text-shortcuts) | 7,128 | Use Text Shortcuts to handle text from the selection or clipboard | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/text-shortcuts) |
+| [Text Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/text-shortcuts) | 7,129 | Use Text Shortcuts to handle text from the selection or clipboard | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/text-shortcuts) |
 | [Append Clipboard](https://github.com/raycast/extensions/tree/main/extensions/append-clipboard) | 2,851 | Append or prepend selected text to your clipboard with different separators | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/append-clipboard) |
 
 ### Search & Reference
@@ -64,7 +64,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 11,939 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
-| [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,140 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
+| [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,141 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
 
 ### General
 
@@ -76,7 +76,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 20,622 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 20,623 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
 | [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,085 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
 | [Bing Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/bing-wallpaper) | 2,077 | Get, set, auto-switch Bing wallpapers to explore the world. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bing-wallpaper) |
 | [Capture Raycast Metadata](https://github.com/raycast/extensions/tree/main/extensions/capture-raycast-metadata) | 820 | Capture a screenshot for Raycast extension's metadata. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/capture-raycast-metadata) |
@@ -85,15 +85,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 15,709 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
-| [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) | 7,699 | Show current weather on the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-weather) |
+| [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 15,710 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
+| [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) | 7,700 | Show current weather on the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-weather) |
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,097 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
-| [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) | 8,173 | Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/browser-tabs) |
+| [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,099 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
+| [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) | 8,174 | Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/browser-tabs) |
 | [Hide Files](https://github.com/raycast/extensions/tree/main/extensions/hide-files) | 2,405 | Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/hide-files) |
 | [Common Directory](https://github.com/raycast/extensions/tree/main/extensions/common-directory) | 1,898 | Quickly open or show common directory in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/common-directory) |
 | [Yoink](https://github.com/raycast/extensions/tree/main/extensions/yoink) | 1,063 | Add selected or clipboard files to Yoink. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/yoink) |
@@ -102,7 +102,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,394 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
+| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,395 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
 | [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,357 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
 | [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,121 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,362 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |

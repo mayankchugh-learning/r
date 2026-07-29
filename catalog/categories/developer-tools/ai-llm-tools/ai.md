@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 7,651 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
+| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 7,652 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
 | [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,481 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 823 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Tokenizer](https://github.com/raycast/extensions/tree/main/extensions/tokenizer) | 468 | Quickly count tokens in selected text or clipboard content using popular AI model encodings. | ashleymavericks | macOS | [store](https://www.raycast.com/ashleymavericks/tokenizer) |
@@ -27,8 +27,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills) | 7,061 | Search and manage AI agent skills from Skills | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/skills) |
-| [Ray Code](https://github.com/raycast/extensions/tree/main/extensions/ray-code) | 1,792 | Turn AI Chat into a vibe coding agent | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/ray-code) |
+| [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills) | 7,062 | Search and manage AI agent skills from Skills | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/skills) |
+| [Ray Code](https://github.com/raycast/extensions/tree/main/extensions/ray-code) | 1,793 | Turn AI Chat into a vibe coding agent | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/ray-code) |
 | [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 619 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
 | [Agent Client Protocol](https://github.com/raycast/extensions/tree/main/extensions/agent-client-protocol) | 461 | Connect to AI agents via Agent Client Protocol for coding assistance | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/agent-client-protocol) |
 | [Clean Agent Text](https://github.com/raycast/extensions/tree/main/extensions/clean-agent-text) | 164 | Cleans text copied from AI agent TUIs by removing box-drawing characters, pipes, leading blank spaces, and reformatting | rhuk | macOS, Windows | [store](https://www.raycast.com/rhuk/clean-agent-text) |
@@ -42,7 +42,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 4,296 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
+| [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 4,298 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
 | [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats) | 1,109 | The largest collection of high-quality evaluations for every AI modality—language, vision, code, reasoning, and beyond | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/llm-stats) |
 | [AI Code Namer](https://github.com/raycast/extensions/tree/main/extensions/ai-code-namer) | 540 | AI Code Namer is a Raycast extension that leverages AI to help developers generate clear, descriptive, and context-appropriate names for various code elements… | HunterJi | macOS | [store](https://www.raycast.com/HunterJi/ai-code-namer) |
 | [CodeGeex](https://github.com/raycast/extensions/tree/main/extensions/codegeex) | 468 | CodeGeex AI code tools | MBearo | macOS | [store](https://www.raycast.com/MBearo/codegeex) |
@@ -85,11 +85,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 12,009 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
-| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,452 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
+| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 12,010 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
+| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,453 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,450 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,433 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
-| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,016 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
+| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,017 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
 | [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 977 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
 | [AI Git Assistant](https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant) | 752 | Your personal AI assistant for Git commit operations such as generating commit messages and PR descriptions | popalay | macOS | [store](https://www.raycast.com/popalay/ai-git-assistant) |
 | [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 723 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |

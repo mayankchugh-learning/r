@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 243,679 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
-| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 148,773 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 243,686 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 148,777 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,468 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
 | [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) | 6,789 | Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! | biknandy | Windows, macOS | [store](https://www.raycast.com/biknandy/quick-notes) |
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,628 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |

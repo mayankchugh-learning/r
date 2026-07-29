@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 350,562 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 115,990 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
-| [Visual Studio Code - Project Manager](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) | 47,540 | Search and open projects from Visual Studio Code Project Manager | MarkusLanger | macOS | [store](https://www.raycast.com/MarkusLanger/vscode-project-manager) |
-| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 20,116 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
+| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 350,575 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 115,994 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [Visual Studio Code - Project Manager](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) | 47,542 | Search and open projects from Visual Studio Code Project Manager | MarkusLanger | macOS | [store](https://www.raycast.com/MarkusLanger/vscode-project-manager) |
+| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 20,117 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
 | [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,238 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
 | [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 4,568 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
 | [Video Converter](https://github.com/raycast/extensions/tree/main/extensions/video-converter) | 1,793 | Converts video and audio to different formats | grosst | macOS | [store](https://www.raycast.com/grosst/video-converter) |

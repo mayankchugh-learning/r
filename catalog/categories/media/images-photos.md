@@ -10,15 +10,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 60,426 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
-| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 33,706 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
+| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 60,428 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
+| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 33,707 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
 | [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,289 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
-| [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) | 9,790 | Remove background from image with the Mac Vision API | xmorse | macOS | [store](https://www.raycast.com/xmorse/remove-background-powered-by-mac) |
+| [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) | 9,792 | Remove background from image with the Mac Vision API | xmorse | macOS | [store](https://www.raycast.com/xmorse/remove-background-powered-by-mac) |
 | [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,287 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
 | [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,752 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
 | [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu) | 3,009 | Easy retrieval of web emoji and GIF images while chatting. | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/doutu) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,571 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,502 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,503 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) | 1,443 | Store and retrieve images quickly from Raycast! | ibll | macOS | [store](https://www.raycast.com/ibll/image-wallet) |
 | [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,199 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
 | [Rename Images with AI](https://github.com/raycast/extensions/tree/main/extensions/rename-images-with-ai) | 1,079 | AI-powered images and screenshots renaming extension that intelligently names files based on their content | husnainfareed | macOS | [store](https://www.raycast.com/husnainfareed/rename-images-with-ai) |
@@ -60,7 +60,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 89,112 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
+| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 89,113 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
 | [Pika](https://github.com/raycast/extensions/tree/main/extensions/pika) | 888 | Beautify screenshots quickly using pika.style | rishi | macOS | [store](https://www.raycast.com/rishi/pika) |
 | [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 880 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
 | [Capture Raycast Metadata](https://github.com/raycast/extensions/tree/main/extensions/capture-raycast-metadata) | 820 | Capture a screenshot for Raycast extension's metadata. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/capture-raycast-metadata) |

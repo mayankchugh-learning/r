@@ -5,7 +5,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [TablePlus](https://github.com/raycast/extensions/tree/main/extensions/tableplus) | 7,803 | Search and open database connections in TablePlus | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/tableplus) |
-| [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 6,214 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
+| [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 6,215 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
 | [crates.io Search](https://github.com/raycast/extensions/tree/main/extensions/cratecast) | 2,113 | Explore crates.io | matt | macOS | [store](https://www.raycast.com/matt/cratecast) |
 | [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,678 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
 | [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) | 1,153 | Search Google Scholar for academic articles, papers, and research. | leandro.maia | macOS | [store](https://www.raycast.com/leandro.maia/google-scholar) |

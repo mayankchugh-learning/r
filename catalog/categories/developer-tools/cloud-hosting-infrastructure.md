@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,119 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
+| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,120 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
 | [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,371 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
 | [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,334 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
 | [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,108 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,145 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,147 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
 | [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,238 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
 | [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,072 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,556 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
@@ -55,7 +55,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,656 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,657 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 | [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) | 3,989 | DNS lookup and nameserver query using the built-in host command | danielbahl | macOS | [store](https://www.raycast.com/danielbahl/dig) |
 | [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) | 279 | Check DNS propagation instantly. | valentin_denis | macOS, Windows | [store](https://www.raycast.com/valentin_denis/dns-lookup) |
 | [FreeDNS](https://github.com/raycast/extensions/tree/main/extensions/freedns) | 197 | View and Change your DNS in freedns.afraid.org | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/freedns) |
@@ -102,7 +102,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,721 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,724 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,910 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 794 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
 | [Laravel Shift for Docker](https://github.com/raycast/extensions/tree/main/extensions/laravel-shift) | 123 | Run any of the Shifts for Laravel, Lumen, PHP, Django, and Tailwind completely locally using Raycast. | denniseilander | macOS | [store](https://www.raycast.com/denniseilander/laravel-shift) |

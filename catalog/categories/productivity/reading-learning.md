@@ -29,9 +29,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,288 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,958 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
-| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 5,943 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,289 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,959 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 5,945 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,402 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [Read Later](https://github.com/raycast/extensions/tree/main/extensions/later) | 377 | Read your tabs later | jimluo | macOS | [store](https://www.raycast.com/jimluo/later) |
 | [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 376 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |

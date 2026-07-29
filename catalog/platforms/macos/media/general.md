@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,390 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
+| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,393 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
 | [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,377 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,956 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,902 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
-| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,659 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
+| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,660 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,459 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
 | [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 3,889 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
 | [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,823 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
@@ -22,7 +22,7 @@
 | [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,677 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [Klack](https://github.com/raycast/extensions/tree/main/extensions/klack) | 2,614 | Control Klack for macOS with Raycast | henrikruscon | macOS | [store](https://www.raycast.com/henrikruscon/klack) |
 | [Background Sounds](https://github.com/raycast/extensions/tree/main/extensions/background-sounds) | 2,323 | Toggle macOS background sounds on and off. | sebdanielsson | macOS | [store](https://www.raycast.com/sebdanielsson/background-sounds) |
-| [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 1,918 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
+| [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 1,919 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,859 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
 | [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) | 1,530 | Search for movies on Letterboxd | rafael_garcia | macOS, Windows | [store](https://www.raycast.com/rafael_garcia/letterboxd) |
 | [Pinboard](https://github.com/raycast/extensions/tree/main/extensions/pinboard) | 1,508 | Post new bookmarks to Pinboard and search through your Pinboard bookmarks. Tip: Assign a global shortcut to the "Add Bookmark" command, select a URL, and then… | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/pinboard) |

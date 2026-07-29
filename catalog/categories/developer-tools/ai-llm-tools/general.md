@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 74,268 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
-| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,387 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS | [store](https://www.raycast.com/isfeng/easydict) |
-| [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) | 31,556 | Interact with Anthropic's Claude API directly from Raycast | florisdobber | macOS | [store](https://www.raycast.com/florisdobber/claude) |
+| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 74,270 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
+| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,388 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS | [store](https://www.raycast.com/isfeng/easydict) |
+| [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) | 31,558 | Interact with Anthropic's Claude API directly from Raycast | florisdobber | macOS | [store](https://www.raycast.com/florisdobber/claude) |
 | [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) | 1,394 | Use Huggingface models for summarization, translation, ... | ragnor | macOS | [store](https://www.raycast.com/ragnor/huggingcast) |
 | [Hugging Face](https://github.com/raycast/extensions/tree/main/extensions/hugging-face) | 1,128 | Search and explore the Hugging Face platform | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/hugging-face) |
 | [Alt-Text Generator](https://github.com/raycast/extensions/tree/main/extensions/alt-text-generator) | 623 | This extension makes it easy to generate descriptive alt-text for images. Simply provide an image URL, and the extension will make a call to the openai api to… | jack_casica | macOS | [store](https://www.raycast.com/jack_casica/alt-text-generator) |

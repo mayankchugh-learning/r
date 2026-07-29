@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 25,782 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,958 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 25,783 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,959 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [Code Stash](https://github.com/raycast/extensions/tree/main/extensions/code-stash) | 2,019 | Searching git.. now you have two problems. Store chunks of code and retrieve them later | ben-greenwood | macOS | [store](https://www.raycast.com/ben-greenwood/code-stash) |
 | [Oh My Zsh Git Alias](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) | 1,225 | Quick search git alias. | yufeikang | macOS | [store](https://www.raycast.com/yufeikang/oh-my-zsh-git-alias) |
-| [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | 1,045 | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
+| [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | 1,046 | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
 | [Repository Manager](https://github.com/raycast/extensions/tree/main/extensions/repository-manager) | 968 | Project Manager for local git repositories | francesco_mecchi | macOS | [store](https://www.raycast.com/francesco_mecchi/repository-manager) |
 | [GitHub Commits Menu](https://github.com/raycast/extensions/tree/main/extensions/github-menu-bar) | 764 | Show new Git commits in the macOS menu bar. | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/github-menu-bar) |
 | [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) | 691 | Search through Azure DevOps git repositories and find open Pull Requests | willem_van_lent | macOS, Windows | [store](https://www.raycast.com/willem_van_lent/ado-search) |
@@ -35,8 +35,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 178,666 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
-| [GitHub Repository Search](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) | 15,463 | Search repositories on GitHub and open previously visited ones faster. | thomas | macOS | [store](https://www.raycast.com/thomas/github-repository-search) |
+| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 178,674 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
+| [GitHub Repository Search](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) | 15,464 | Search repositories on GitHub and open previously visited ones faster. | thomas | macOS | [store](https://www.raycast.com/thomas/github-repository-search) |
 | [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 8,394 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
 | [GitHub Gist](https://github.com/raycast/extensions/tree/main/extensions/github-gist) | 5,264 | Create, search and display GitHub gists. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/github-gist) |
 | [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,287 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |

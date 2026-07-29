@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,390 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
-| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,387 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS | [store](https://www.raycast.com/isfeng/easydict) |
+| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,393 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
+| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,388 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS | [store](https://www.raycast.com/isfeng/easydict) |
 | [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 11,939 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
-| [Easy OCR](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) | 10,205 | Use Tesseract OCR to extract text from screenshot | Rafo94 | macOS | [store](https://www.raycast.com/Rafo94/easy-ocr) |
+| [Easy OCR](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) | 10,208 | Use Tesseract OCR to extract text from screenshot | Rafo94 | macOS | [store](https://www.raycast.com/Rafo94/easy-ocr) |
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,642 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | 4,827 | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
 | [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | 4,410 | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |

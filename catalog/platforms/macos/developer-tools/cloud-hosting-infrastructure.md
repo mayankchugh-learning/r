@@ -2,13 +2,13 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · **Cloud, Hosting & Infrastructure** · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-86 of 1066 extensions · [← macOS · Developer Tools](./README.md)
+86 of 1067 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,721 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,145 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,656 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,724 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,147 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,657 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 | [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,238 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
 | [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 9,771 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
 | [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,910 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
@@ -18,7 +18,7 @@
 | [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,398 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,390 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
 | [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,365 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
-| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,119 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
+| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,120 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
 | [Fastly Domain Search](https://github.com/raycast/extensions/tree/main/extensions/domainr) | 2,000 | Search domains availability with Fastly Domain Research API | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/domainr) |
 | [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,800 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
 | [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,371 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |

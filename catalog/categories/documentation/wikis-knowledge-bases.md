@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 22,324 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
+| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 22,325 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
 | [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,365 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
 | [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,800 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
 | [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor) | 1,502 | Search the Cursor Documentation right from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/cursor) |
@@ -74,9 +74,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,798 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
-| [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,520 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
+| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,799 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
+| [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,521 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
 | [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,074 | A simple emoji legend to help convey intention and added meaning in code review comments. | rus64 | macOS | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
-| [GitHub CLI Manual](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) | 944 | Raycast extension to search GitHub CLI Manual. | demartini | macOS | [store](https://www.raycast.com/demartini/github-cli-manual) |
+| [GitHub CLI Manual](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) | 945 | Raycast extension to search GitHub CLI Manual. | demartini | macOS | [store](https://www.raycast.com/demartini/github-cli-manual) |
 | [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) | 540 | Search, open, and crawl DeepWiki pages for GitHub repositories. | vivek | macOS | [store](https://www.raycast.com/vivek/deepwiki) |
 | [Raycast Manual](https://github.com/raycast/extensions/tree/main/extensions/raycast-manual) | 129 | Browse and search the Raycast Manual without leaving Raycast. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/raycast-manual) |

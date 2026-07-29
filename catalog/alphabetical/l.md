@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 334,870 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,174 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 9,882 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
+| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 334,896 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,178 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 9,883 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
 | [Library Genesis](https://github.com/raycast/extensions/tree/main/extensions/library-genesis) | 9,009 | Search books on Library Genesis and directly download them. | yz3440 | macOS | [store](https://www.raycast.com/yz3440/library-genesis) |
 | [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 7,615 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,468 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
@@ -23,7 +23,7 @@
 | [Linguee](https://github.com/raycast/extensions/tree/main/extensions/linguee) | 1,809 | Search Linguee translations for English, Chinese, German, Italian, Spanish, French. | geekdada | macOS | [store](https://www.raycast.com/geekdada/linguee) |
 | [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,775 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) | 1,530 | Search for movies on Letterboxd | rafael_garcia | macOS, Windows | [store](https://www.raycast.com/rafael_garcia/letterboxd) |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,502 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,503 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,413 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
 | [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,371 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
 | [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) | 1,349 | Provides quick access to Laravel Herd features and settings. | beyond-code (org) | macOS | [store](https://www.raycast.com/beyond-code/laravel-herd) |

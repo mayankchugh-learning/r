@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,036 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
-| [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) | 30,506 | A quick way to generate UUIDs without opening the browser | jmaeso | macOS, Windows | [store](https://www.raycast.com/jmaeso/uuid-generator) |
+| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,038 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
+| [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) | 30,508 | A quick way to generate UUIDs without opening the browser | jmaeso | macOS, Windows | [store](https://www.raycast.com/jmaeso/uuid-generator) |
 | [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 19,958 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
 | [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) | 10,930 | Can I Use provides up-to-date browser support for front-end web technologies on desktop and mobile web browsers. | thomaslombart | macOS, Windows | [store](https://www.raycast.com/thomaslombart/can-i-use) |
 | [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) | 7,605 | Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl, hsla, oklch and shows the closest Tailwind CSS color. | nielsvanrijn | macOS, Windows | [store](https://www.raycast.com/nielsvanrijn/web-converter) |

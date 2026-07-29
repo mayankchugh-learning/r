@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 43,963 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
-| [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 15,709 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,656 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 43,964 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 15,710 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,657 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,275 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [Refresh WiFi](https://github.com/raycast/extensions/tree/main/extensions/refresh-wifi) | 3,874 | Quickly turn your WiFi off and on again. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/refresh-wifi) |
 | [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) | 3,519 | View diagnostic information about your network to help figure out why it's playing up. | hmarr | macOS | [store](https://www.raycast.com/hmarr/network-diagnostics) |
