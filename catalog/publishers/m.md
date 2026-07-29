@@ -52,7 +52,7 @@
 | [martipops](https://www.raycast.com/martipops) | 1 | 1,203 | **Uncategorized:** [Popcorn - Explore Stremio Streams](https://github.com/raycast/extensions/tree/main/extensions/popcorn) |
 | [marvel940804836](https://www.raycast.com/marvel940804836) | 1 | 22 | **Developer Tools:** [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) |
 | [masoud_hamidzadeh](https://www.raycast.com/masoud_hamidzadeh) | 1 | 121 | **System:** [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) |
-| [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 2 | 37,077 | **Productivity:** [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama), [VMware VCenter](https://github.com/raycast/extensions/tree/main/extensions/vmware-vcenter) |
+| [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 37,077 | **Productivity:** [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama), [VMware VCenter](https://github.com/raycast/extensions/tree/main/extensions/vmware-vcenter), [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix) |
 | [matan](https://www.raycast.com/matan) | 1 | 158 | **Productivity:** [Silent Mode](https://github.com/raycast/extensions/tree/main/extensions/silent-mode) |
 | [matbrady](https://www.raycast.com/matbrady) | 1 | 5 | **Developer Tools:** [Pantheon Sites](https://github.com/raycast/extensions/tree/main/extensions/pantheon-sites) |
 | [matchai](https://www.raycast.com/matchai) | 1 | 128 | **Uncategorized:** [Yomicast – Offline Japanese-English Dictionary](https://github.com/raycast/extensions/tree/main/extensions/yomicast) |

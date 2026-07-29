@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c1bffae746abfa118f0a7f48f6f0a90829b3329f",
-  "generatedAt": "2026-07-29T09:58:35.482Z",
-  "downloadsRefreshedAt": "2026-07-29T09:58:35.009Z",
-  "count": 3124,
+  "commit": "449cfb6afdb175f0a0515f377b0489d83631d6ee",
+  "generatedAt": "2026-07-29T12:17:48.349Z",
+  "downloadsRefreshedAt": "2026-07-29T12:17:47.961Z",
+  "count": 3125,
   "extensions": [
     {
       "dir": "0x0",
@@ -8900,7 +8900,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 495374
+      "downloads": 495443
     },
     {
       "dir": "color-shades",
@@ -20233,7 +20233,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483806
+      "downloads": 483869
     },
     {
       "dir": "google-chrome-profiles",
@@ -26154,7 +26154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 651347
+      "downloads": 651437
     },
     {
       "dir": "kimai",
@@ -43812,6 +43812,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo",
       "treeSha": "813181ff439efa13773f5c58c3c3011c4231edf3",
       "downloads": 55
+    },
+    {
+      "dir": "raycast-zabbix",
+      "name": "raycast-zabbix",
+      "title": "Zabbix",
+      "description": "Manage Zabbix Problems, Hosts, Triggers and Latest Data directly from Raycast. Perform common monitoring and maintenance tasks without opening a browser.",
+      "author": "massimiliano_pasquini",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/massimiliano_pasquini/raycast-zabbix",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix",
+      "treeSha": "73b9a29f0e58bc16663c955414e64b4d94d64c07",
+      "downloads": 0
     },
     {
       "dir": "raycast-zoxide",

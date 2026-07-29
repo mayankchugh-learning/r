@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-29 — upstream `449cfb6afd`
+
+**Added (1):** [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix)
+
 ## 2026-07-29 — upstream `c1bffae746`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
