@@ -39,7 +39,7 @@
 | [inamuu](https://www.raycast.com/inamuu) | 1 | 53 | **News:** [Hatena Bookmark](https://github.com/raycast/extensions/tree/main/extensions/hatena-bookmark) |
 | [indykoning](https://www.raycast.com/indykoning) | 1 | 5,677 | **Documentation:** [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) |
 | [Infonautica](https://www.raycast.com/Infonautica) | 1 | 218 | **Data:** [James Webb Space Telescope](https://github.com/raycast/extensions/tree/main/extensions/james-webb-space-telescope) |
-| [IngoJ](https://www.raycast.com/IngoJ) | 1 | 256 | **Other:** [SmartThings Connector](https://github.com/raycast/extensions/tree/main/extensions/smartthings-connector) |
+| [IngoJ](https://www.raycast.com/IngoJ) | 2 | 256 | **Other:** [SmartThings Connector](https://github.com/raycast/extensions/tree/main/extensions/smartthings-connector)<br>**Productivity:** [AtomTick](https://github.com/raycast/extensions/tree/main/extensions/atomtick) |
 | [instantdomainsearch](https://www.raycast.com/instantdomainsearch) | 1 | 832 | **Data:** [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) |
 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 | **Finance:** [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid) |
 | [insv23](https://www.raycast.com/insv23) | 1 | 56 | **Productivity:** [Duan: Shorten and Manage Links](https://github.com/raycast/extensions/tree/main/extensions/duan-raycast-extension) |

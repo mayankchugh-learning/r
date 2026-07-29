@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "38d038b6137ff9981e7e6b3d6fcaa4f097cb8dd2",
-  "generatedAt": "2026-07-29T15:48:39.038Z",
-  "downloadsRefreshedAt": "2026-07-29T15:48:37.529Z",
-  "count": 3129,
+  "commit": "067b722f7ea063b8a6302250bf1affd6dd6d9666",
+  "generatedAt": "2026-07-29T16:17:36.908Z",
+  "downloadsRefreshedAt": "2026-07-29T16:17:36.608Z",
+  "count": 3130,
   "extensions": [
     {
       "dir": "0x0",
@@ -2917,6 +2917,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/atomic",
       "treeSha": "fe12d217c6251241876a4737979657d0b209c705",
       "downloads": 86
+    },
+    {
+      "dir": "atomtick",
+      "name": "atomtick",
+      "title": "AtomTick",
+      "description": "NTP-synchronized atomic reference time as a live analog clock face, with a digital readout underneath.",
+      "author": "IngoJ",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Fun"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/atomtick",
+      "treeSha": "4d98a0c095083840603d43fceee72ef97954bd9c",
+      "downloads": null
     },
     {
       "dir": "atproto-utilities",
@@ -8900,7 +8922,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 495563
+      "downloads": 495585
     },
     {
       "dir": "color-shades",
@@ -20233,7 +20255,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 483975
+      "downloads": 483993
     },
     {
       "dir": "google-chrome-profiles",
@@ -26176,7 +26198,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 651574
+      "downloads": 651597
     },
     {
       "dir": "kimai",

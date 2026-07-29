@@ -1,8 +1,8 @@
 # Windows · Fun
 
-84 extensions · [← Windows](../README.md)
+85 extensions · [← Windows](../README.md)
 
-[Games & Gaming](#games-gaming) (21) · [AI & Generative Fun](#ai-generative-fun) (2) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (2) · [Jokes & Randomness](#jokes-randomness) (7) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (1) · [Food & Drink](#food-drink) (2) · [General](#general) (31)
+[Games & Gaming](#games-gaming) (21) · [AI & Generative Fun](#ai-generative-fun) (2) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (2) · [Jokes & Randomness](#jokes-randomness) (7) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (1) · [Food & Drink](#food-drink) (2) · [General](#general) (32)
 
 ## Play
 
@@ -158,3 +158,4 @@
 | [Number Research](https://github.com/raycast/extensions/tree/main/extensions/number-research) | 12 | Research numbers and discover if they have been searched before on numberresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/number-research) |
 | [Tategaki](https://github.com/raycast/extensions/tree/main/extensions/tategaki) | 10 | Convert text to Japanese vertical writing | haruka_odenkun | macOS, Windows | [store](https://www.raycast.com/haruka_odenkun/tategaki) |
 | [Vocabulary Builder](https://github.com/raycast/extensions/tree/main/extensions/vocabulary-builder) | 9 | Build your vocabulary while learning a new language | stefann | macOS, Windows | [store](https://www.raycast.com/stefann/vocabulary-builder) |
+| [AtomTick](https://github.com/raycast/extensions/tree/main/extensions/atomtick) | — | NTP-synchronized atomic reference time as a live analog clock face, with a digital readout underneath. | IngoJ | macOS, Windows | — |

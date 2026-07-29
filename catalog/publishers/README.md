@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,081,757 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,081,779 |
 | 2 | [raycast](./id/raycast.md) | 11 | 774,621 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 651,574 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 483,975 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 651,597 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 483,993 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 431,390 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 426,325 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,638 |
@@ -1085,7 +1085,7 @@
 | 1075 | [kendaniels](https://www.raycast.com/kendaniels) | 2 | 258 |
 | 1076 | [zrr1999](https://www.raycast.com/zrr1999) | 2 | 257 |
 | 1077 | [thebrokenfinger](https://www.raycast.com/thebrokenfinger) | 1 | 257 |
-| 1078 | [IngoJ](https://www.raycast.com/IngoJ) | 1 | 256 |
+| 1078 | [IngoJ](https://www.raycast.com/IngoJ) | 2 | 256 |
 | 1079 | [xiangsanliu](https://www.raycast.com/xiangsanliu) | 1 | 256 |
 | 1080 | [atkinsmatt101](https://www.raycast.com/atkinsmatt101) | 1 | 255 |
 | 1081 | [x0ba](https://www.raycast.com/x0ba) | 1 | 255 |

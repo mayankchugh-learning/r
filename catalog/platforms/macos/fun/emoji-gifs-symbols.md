@@ -2,7 +2,7 @@
 
 [Games & Gaming](./games-gaming.md) · [AI & Generative Fun](./ai-generative-fun.md) · **Emoji, GIFs & Symbols** · [Jokes & Randomness](./jokes-randomness.md) · [Sports](./sports.md) · [Movies, TV & Anime](./movies-tv-anime.md) · [Music & Instruments](./music-instruments.md) · [Pop Culture & Fandom](./pop-culture-fandom.md) · [Generators & Toys](./generators-toys.md) · [Nature & Exploration](./nature-exploration.md) · [Wallpapers & Effects](./wallpapers-effects.md) · [Food & Drink](./food-drink.md) · [General](./general.md)
 
-10 of 273 extensions · [← macOS · Fun](./README.md)
+10 of 274 extensions · [← macOS · Fun](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |

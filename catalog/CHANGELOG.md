@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-29 — upstream `067b722f7e`
+
+**Added (1):** [AtomTick](https://github.com/raycast/extensions/tree/main/extensions/atomtick)
+
 ## 2026-07-29 — upstream `38d038b613`
 
 **Added (1):** [Mobbin Search](https://github.com/raycast/extensions/tree/main/extensions/mobbin)

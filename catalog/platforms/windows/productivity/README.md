@@ -1,6 +1,6 @@
 # Windows · Productivity
 
-327 extensions · [← Windows](../README.md)
+328 extensions · [← Windows](../README.md)
 
 ## Organize & Plan
 
@@ -37,4 +37,4 @@
 | [Team & Business Tools](./team-business-tools.md) | 5 |
 | [Trackers & Monitors](./trackers-monitors.md) | 8 |
 
-Plus [General](./general.md) — 107 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 108 extensions that don't fit a topic yet.
