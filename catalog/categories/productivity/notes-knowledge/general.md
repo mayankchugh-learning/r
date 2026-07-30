@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,050 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
-| [Roam Research](https://github.com/raycast/extensions/tree/main/extensions/roam-research) | 1,037 | Your Roam graphs at your fingertips! Quickly search, capture and navigate your Roam graphs. | roamresearch | macOS, Windows | [store](https://www.raycast.com/roamresearch/roam-research) |
-| [SupaHabits](https://github.com/raycast/extensions/tree/main/extensions/supahabits) | 306 | Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries | gbarba | macOS | [store](https://www.raycast.com/gbarba/habits) |
+| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,051 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
+| [Roam Research](https://github.com/raycast/extensions/tree/main/extensions/roam-research) | 1,038 | Your Roam graphs at your fingertips! Quickly search, capture and navigate your Roam graphs. | roamresearch | macOS, Windows | [store](https://www.raycast.com/roamresearch/roam-research) |
+| [SupaHabits](https://github.com/raycast/extensions/tree/main/extensions/supahabits) | 307 | Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries | gbarba | macOS | [store](https://www.raycast.com/gbarba/habits) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 107 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 | [Heptabase](https://github.com/raycast/extensions/tree/main/extensions/heptabase) | 97 | Connect to Heptabase via MCP to manage your knowledge base | ARui | macOS | [store](https://www.raycast.com/ARui/heptabase) |
 | [OSRS Wiki](https://github.com/raycast/extensions/tree/main/extensions/osrs-wiki) | 72 | Queries the OSRS Wiki and returns links to relevant articles. | luizkc | macOS | [store](https://www.raycast.com/luizkc/osrs-wiki) |
