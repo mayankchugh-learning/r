@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "526329ce6bb6715dc109a30607424d20a6c5332e",
-  "generatedAt": "2026-07-30T10:18:31.201Z",
-  "downloadsRefreshedAt": "2026-07-30T10:18:30.811Z",
-  "count": 3131,
+  "commit": "9e8f6c309fe1ee3603040f4781cdc8c22ba05c7f",
+  "generatedAt": "2026-07-30T12:43:36.260Z",
+  "downloadsRefreshedAt": "2026-07-30T12:43:35.935Z",
+  "count": 3132,
   "extensions": [
     {
       "dir": "0x0",
@@ -3103,6 +3103,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/avatar",
       "treeSha": "b6243e9d6ecdd7cb6fbfadb5289fcfcff5171474",
       "downloads": 880
+    },
+    {
+      "dir": "average-saham-indonesia",
+      "name": "average-saham-indonesia",
+      "title": "Average Saham Indonesia",
+      "description": "Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast.",
+      "author": "uluumbch",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Finance"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/uluumbch/average-saham-indonesia",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia",
+      "treeSha": "132d65c3fc0b6aa388d9a11e383ae50e8f505ee4",
+      "downloads": 0
     },
     {
       "dir": "awesome-mac",
@@ -8922,7 +8943,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 495997
+      "downloads": 496061
     },
     {
       "dir": "color-shades",
@@ -20257,7 +20278,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 484428
+      "downloads": 484498
     },
     {
       "dir": "google-chrome-profiles",
@@ -26200,7 +26221,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 652136
+      "downloads": 652231
     },
     {
       "dir": "kimai",

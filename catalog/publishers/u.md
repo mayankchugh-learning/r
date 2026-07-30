@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · **U** · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-17 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+18 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | [uixmat](https://www.raycast.com/uixmat) | 1 | 14 | **Web:** [Bklit Analytics](https://github.com/raycast/extensions/tree/main/extensions/bklit-analytics) |
 | [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 533 | **Productivity:** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) |
 | [uladkaminski](https://www.raycast.com/uladkaminski) | 1 | 49 | **Finance:** [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) |
+| [uluumbch](https://www.raycast.com/uluumbch) | 1 | 0 | **Finance:** [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) |
 | [umit_gul](https://www.raycast.com/umit_gul) | 1 | 329 | **Productivity:** [Kommand](https://github.com/raycast/extensions/tree/main/extensions/kommand) |
 | [Undolog](https://www.raycast.com/Undolog) | 5 | 2,213 | **System:** [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks), [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates)<br>**Productivity:** [Sync Folders](https://github.com/raycast/extensions/tree/main/extensions/sync-folders)<br>**Developer Tools:** [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner), [WP Bones](https://github.com/raycast/extensions/tree/main/extensions/wp-bones) |
 | [unitech](https://www.raycast.com/ordin) | 1 | 53 | **Other:** [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-30 — upstream `9e8f6c309f`
+
+**Added (1):** [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia)
+
 ## 2026-07-30 — upstream `526329ce6b`
 
 **Added (1):** [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti)

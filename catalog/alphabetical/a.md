@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-148 extensions · [← catalog index](../README.md)
+149 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -154,3 +154,4 @@
 | [Anvil](https://github.com/raycast/extensions/tree/main/extensions/anvil) | 1 | Navigate Anvil's native developer toolbox from Raycast. | alexminator1999 | macOS | [store](https://www.raycast.com/alexminator1999/anvil) |
 | [AtomTick](https://github.com/raycast/extensions/tree/main/extensions/atomtick) | 1 | NTP-synchronized atomic reference time as a live analog clock face, with a digital readout underneath. | IngoJ | macOS, Windows | [store](https://www.raycast.com/IngoJ/atomtick) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) | 0 | Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast. | uluumbch | macOS, Windows | [store](https://www.raycast.com/uluumbch/average-saham-indonesia) |

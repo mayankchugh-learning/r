@@ -1,8 +1,8 @@
 # macOS · Finance
 
-146 extensions · [← macOS](../README.md)
+147 extensions · [← macOS](../README.md)
 
-[Crypto & Web3](#crypto-web3) (30) · [Stocks & Trading](#stocks-trading) (14) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (6) · [Personal Finance & Budgeting](#personal-finance-budgeting) (19) · [General](#general) (31)
+[Crypto & Web3](#crypto-web3) (30) · [Stocks & Trading](#stocks-trading) (15) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (6) · [Personal Finance & Budgeting](#personal-finance-budgeting) (19) · [General](#general) (31)
 
 ## Markets & Investing
 
@@ -23,6 +23,7 @@
 | [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | 48 | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
 | [Alpaca Trading](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) | 46 | Interact with your Alpaca trading account | stelo | macOS | [store](https://www.raycast.com/stelo/alpaca-trading) |
 | [Midas](https://github.com/raycast/extensions/tree/main/extensions/midas) | 46 | Midas is an AI Agent that manages on-chain trading, voting and more for you. | sunosuporno | macOS | [store](https://www.raycast.com/sunosuporno/midas) |
+| [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) | 0 | Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast. | uluumbch | macOS, Windows | [store](https://www.raycast.com/uluumbch/average-saham-indonesia) |
 | [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid) | 0 | Browse Hyperliquid perp markets, track your positions and PnL, and pin live prices to your menu bar — all read-only. | insuline | macOS | [store](https://www.raycast.com/Insuline/hyperliquid) |
 
 ### Crypto & Web3

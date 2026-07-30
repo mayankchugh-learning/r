@@ -1,8 +1,8 @@
 # Cross-platform · Finance
 
-42 extensions · [← Cross-platform](../README.md)
+43 extensions · [← Cross-platform](../README.md)
 
-[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (3) · [Currency & Exchange](#currency-exchange) (4) · [Business, Billing & Sales](#business-billing-sales) (10) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (2) · [Personal Finance & Budgeting](#personal-finance-budgeting) (7) · [General](#general) (6)
+[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (4) · [Currency & Exchange](#currency-exchange) (4) · [Business, Billing & Sales](#business-billing-sales) (10) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (2) · [Personal Finance & Budgeting](#personal-finance-budgeting) (7) · [General](#general) (6)
 
 ## Markets & Investing
 
@@ -13,6 +13,7 @@
 | [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | 125 | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
 | [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | 93 | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
 | [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | 48 | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
+| [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) | 0 | Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast. | uluumbch | macOS, Windows | [store](https://www.raycast.com/uluumbch/average-saham-indonesia) |
 
 ### Crypto & Web3
 
