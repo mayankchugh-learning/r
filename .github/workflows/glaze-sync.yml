@@ -1,0 +1,60 @@
+# Syncs glaze/ against the Glaze app store (https://www.glaze.app/store).
+#
+# TRIGGERS: external only, same as catalog-sync.yml — GitHub's `schedule:`
+# event is throttled and never honors sub-hourly cadence, while dispatch is not.
+#   • repository_dispatch — accepts `catalog-sync` (so the existing web-cron
+#     fallback and the Vostro poller drive this too, no extra cron needed) and
+#     `glaze-sync` for triggering this catalog on its own.
+#   • workflow_dispatch — manual "Run workflow" button / API.
+#
+# There is no upstream git repo to watch here (unlike raycast/extensions), so
+# freshness comes from polling the store page: one request per run, and the sync
+# exits without committing unless something actually changed.
+#
+# NOTE: shares the `catalog-sync` concurrency group with catalog-sync.yml on
+# purpose — both push to the same branch, so serializing them avoids the
+# non-fast-forward push race entirely rather than relying on recovery.
+name: Glaze sync
+
+on:
+  workflow_dispatch: {}
+  repository_dispatch:
+    types: [catalog-sync, glaze-sync]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    # Guard so this never runs if the file ever reaches another fork.
+    if: github.repository == 'mayankchugh-learning/r'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The repo is multi-gigabyte and this catalog needs none of the
+          # vendored extensions, so exclude that tree entirely.
+          filter: blob:none
+          sparse-checkout: |
+            /*
+            !/extensions/
+            !/docs/
+            !/examples/
+            !/images/
+            !/migrations/
+            !/templates/
+          sparse-checkout-cone-mode: false
+
+      - name: Sync Glaze store catalog
+        run: |
+          if [ ! -f scripts/glaze-catalog/sync.mjs ]; then
+            echo "glaze catalog tooling is not on this branch; nothing to do"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          node scripts/glaze-catalog/sync.mjs --push
