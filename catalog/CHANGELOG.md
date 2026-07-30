@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-30 — upstream `20f2779433`
+
+**Updated (1):** [Wojak Picker](https://github.com/raycast/extensions/tree/main/extensions/wojak-picker)
+
 ## 2026-07-30 — upstream `62f7b496d8`
 
 **Updated (1):** [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker)

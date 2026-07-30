@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "62f7b496d824cefd40a254437804f14239d23d82",
-  "generatedAt": "2026-07-30T04:04:36.725Z",
-  "downloadsRefreshedAt": "2026-07-30T04:04:36.506Z",
+  "commit": "20f2779433d92033fee47bc6f62bbfa1dfbee1e8",
+  "generatedAt": "2026-07-30T04:38:37.579Z",
+  "downloadsRefreshedAt": "2026-07-30T04:38:37.177Z",
   "count": 3130,
   "extensions": [
     {
@@ -8922,7 +8922,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 495820
+      "downloads": 495829
     },
     {
       "dir": "color-shades",
@@ -20256,7 +20256,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 484263
+      "downloads": 484273
     },
     {
       "dir": "google-chrome-profiles",
@@ -26199,7 +26199,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 651931
+      "downloads": 651940
     },
     {
       "dir": "kimai",
@@ -60526,13 +60526,14 @@
       "categories": [
         "Fun"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS",
         "Windows"
       ],
       "store": "https://www.raycast.com/itsmeonli/wojak-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wojak-picker",
-      "treeSha": "231afa69d0203b46f33f8454b9dfe9510534a95e",
+      "treeSha": "9c99cf643204dfc2ece991e80394d0e7fbc7d3ca",
       "downloads": 17
     },
     {
