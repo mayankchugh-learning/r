@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "417956361989266040050390f7e09599a251e6fa",
-  "generatedAt": "2026-07-30T04:45:39.185Z",
-  "downloadsRefreshedAt": "2026-07-30T04:45:38.915Z",
+  "commit": "e55b8edf16d818d4eec7785b93a04dca5635b37e",
+  "generatedAt": "2026-07-30T04:46:20.181Z",
+  "downloadsRefreshedAt": "2026-07-30T04:46:19.057Z",
   "count": 3130,
   "extensions": [
     {
@@ -34312,17 +34312,18 @@
       "description": "Query NixPkgs like search.nixos.org",
       "author": "aiotter",
       "owner": null,
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "Developer Tools"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS",
         "Windows"
       ],
       "store": "https://www.raycast.com/aiotter/nixpkgs-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search",
-      "treeSha": "660cc925b04e1c3e8c9fda7be07021bdd6079b83",
+      "treeSha": "23624400f2d5be42535a41c499abc1b3116b2049",
       "downloads": 3033
     },
     {

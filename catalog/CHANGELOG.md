@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-30 — upstream `e55b8edf16`
+
+**Updated (1):** [NixPkgs Search](https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search)
+
 ## 2026-07-30 — upstream `4179563619`
 
 **Updated (1):** [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills)
