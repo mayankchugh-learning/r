@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [zach](https://www.raycast.com/zach) | 2 | 8,184 | **Productivity:** [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)<br>**Media:** [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) |
+| [zach](https://www.raycast.com/zach) | 2 | 8,185 | **Productivity:** [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)<br>**Media:** [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) |
 | [zachsea](https://www.raycast.com/zachsea) | 1 | 22 | **Other:** [Nightscout](https://github.com/raycast/extensions/tree/main/extensions/nightscout) |
 | [zaidmukaddam](https://www.raycast.com/zaidmukaddam) | 1 | 867 | **Web:** [Scira](https://github.com/raycast/extensions/tree/main/extensions/scira) |
 | [zaincheung](https://www.raycast.com/zaincheung) | 1 | 133 | **System:** [App Tag Manager](https://github.com/raycast/extensions/tree/main/extensions/app-tag-manager) |
@@ -17,7 +17,7 @@
 | [zcfan](https://www.raycast.com/zcfan) | 1 | 1,202 | **Developer Tools:** [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) |
 | [zcsabbagh](https://www.raycast.com/zcsabbagh) | 1 | 863 | **System:** [Toggle Grayscale](https://github.com/raycast/extensions/tree/main/extensions/toggle-grayscale) |
 | [zebapy](https://www.raycast.com/zebapy) | 1 | 90 | **Developer Tools:** [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) |
-| [zeekrey](https://www.raycast.com/zeekrey) | 1 | 1,222 | **Productivity:** [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) |
+| [zeekrey](https://www.raycast.com/zeekrey) | 1 | 1,223 | **Productivity:** [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) |
 | [zengtianli](https://www.raycast.com/zengtianli) | 1 | 46 | **Productivity:** [DocKit - Document Toolkit](https://github.com/raycast/extensions/tree/main/extensions/dockit) |
 | [zephraph](https://www.raycast.com/zephraph) | 1 | 362 | **Other:** [tldraw](https://github.com/raycast/extensions/tree/main/extensions/tldraw) |
 | [zeroheight](https://www.raycast.com/zeroheight) | 1 | 12 | **Documentation:** [Quick Access for zeroheight](https://github.com/raycast/extensions/tree/main/extensions/quick-access-for-zeroheight) |

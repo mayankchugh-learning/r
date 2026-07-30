@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,403 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,382 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,407 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,385 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,958 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
-| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,660 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
+| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,661 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,460 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
-| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,825 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
+| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,827 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
 | [Transmission](https://github.com/raycast/extensions/tree/main/extensions/transmission) | 3,171 | View and manage torrents directly from Raycast. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/transmission) |
 | [Elgato Key Light](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) | 2,952 | Control your Elgato Key Lights with ease | thomas | macOS | [store](https://www.raycast.com/thomas/elgato-key-light) |
 | [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 2,868 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
@@ -31,8 +31,8 @@
 | [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 524 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
 | [Text Wiggle](https://github.com/raycast/extensions/tree/main/extensions/wiggle-text) | 460 | Create wiggly text walls for spamming. Satisfying to scroll through... | PineappleRind | macOS | [store](https://www.raycast.com/PineappleRind/wiggle-text) |
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 309 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
+| [Deutscher Wetterdienst](https://github.com/raycast/extensions/tree/main/extensions/deutscherwetterdienst) | 270 | Shows current rain radar by the Deutscher Wetter Dienst | nicolai | macOS | [store](https://www.raycast.com/nicolai/deutscherwetterdienst) |
 | [NOS Nieuws](https://github.com/raycast/extensions/tree/main/extensions/nos-news) | 270 | Used to display the latest NOS nieuws from nos.nl | jorandob | macOS | [store](https://www.raycast.com/jorandob/nos-nieuws) |
-| [Deutscher Wetterdienst](https://github.com/raycast/extensions/tree/main/extensions/deutscherwetterdienst) | 269 | Shows current rain radar by the Deutscher Wetter Dienst | nicolai | macOS | [store](https://www.raycast.com/nicolai/deutscherwetterdienst) |
 | [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 267 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |
 | [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 264 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
 | [Markdown Slides](https://github.com/raycast/extensions/tree/main/extensions/markdown-slides) | 256 | Preview and manage markdown presentations | dnnsmnstrr | macOS | [store](https://www.raycast.com/dnnsmnstrr/markdown-slides) |

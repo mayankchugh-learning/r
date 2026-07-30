@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 43,966 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
-| [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 38,564 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
-| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,494 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
-| [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 22,011 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
-| [QR Code Scanner](https://github.com/raycast/extensions/tree/main/extensions/qr-code-scanner) | 15,235 | Simple on-screen QR code scanner. ("Screen recording" permission is required) | StevenRCE0 | macOS | [store](https://www.raycast.com/StevenRCE0/qr-code-scanner) |
+| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 43,968 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
+| [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 38,567 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
+| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,501 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
+| [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 22,016 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
+| [QR Code Scanner](https://github.com/raycast/extensions/tree/main/extensions/qr-code-scanner) | 15,239 | Simple on-screen QR code scanner. ("Screen recording" permission is required) | StevenRCE0 | macOS | [store](https://www.raycast.com/StevenRCE0/qr-code-scanner) |
 | [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime) | 13,703 | Start screen recording, movie recording and sound recording instantly. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/quicktime) |
 | [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) | 6,791 | Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! | biknandy | Windows, macOS | [store](https://www.raycast.com/biknandy/quick-notes) |
 | [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search) | 5,555 | Quickly search selected text or clipboard text via Google or Github or DeepL etc. | iwfan | macOS | [store](https://www.raycast.com/iwfan/quick-search) |

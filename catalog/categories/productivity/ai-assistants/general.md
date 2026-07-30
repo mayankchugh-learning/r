@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 74,289 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
+| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 74,296 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
 | [Google Bard](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai) | 12,252 | Perform Actions with Google Bard | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-bard-ai) |
 | [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | 9,429 | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,561 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
-| [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,036 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
+| [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,037 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
 | [Ollama Mind Map Generator](https://github.com/raycast/extensions/tree/main/extensions/ollama-mind-map-generator) | 951 | Generate interactive mind maps from clipboard content using local LLMs via Ollama | vojay | macOS | [store](https://www.raycast.com/vojay/ollama-mind-map-generator) |
 | [Gemini CLI](https://github.com/raycast/extensions/tree/main/extensions/gemini-cli) | 271 | Gemini CLI lists all the gemini cli sessions, stats and more | SandeepBaskaran | macOS | [store](https://www.raycast.com/SandeepBaskaran/gemini-cli) |
 | [QMD](https://github.com/raycast/extensions/tree/main/extensions/qmd) | 221 | Search your markdown files with QMD (Query Markup Documents) - fast BM25 keyword search, semantic vector search, and hybrid search with LLM reranking | karelvuong | macOS | [store](https://www.raycast.com/karelvuong/qmd) |

@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 252,753 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 16,957 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
-| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,707 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 252,774 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 16,959 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,709 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Toggle Fn](https://github.com/raycast/extensions/tree/main/extensions/toggle-fn) | 1,529 | Toggle the "Use all F1, F2, etc. keys as standard function keys" option in macOS System Preferences. | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/toggle-fn) |
-| [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 906 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
+| [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 907 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
 | [Toggle Grayscale](https://github.com/raycast/extensions/tree/main/extensions/toggle-grayscale) | 863 | Instantly toggle your Mac's Color Filters accessibility feature on/off without opening System Settings. Switch between color modes with a single command. | zcsabbagh | macOS | [store](https://www.raycast.com/zcsabbagh/toggle-grayscale) |
-| [Default Web Browser Manager](https://github.com/raycast/extensions/tree/main/extensions/default-web-browser-manager) | 564 | Conveniently set your default browser via Raycast commands | clins1994 | macOS | [store](https://www.raycast.com/clins1994/default-web-browser-manager) |
+| [Default Web Browser Manager](https://github.com/raycast/extensions/tree/main/extensions/default-web-browser-manager) | 565 | Conveniently set your default browser via Raycast commands | clins1994 | macOS | [store](https://www.raycast.com/clins1994/default-web-browser-manager) |
 | [HotCorner](https://github.com/raycast/extensions/tree/main/extensions/hotcorner) | 532 | macOS Hot Corners quick settings | mmmarcus | macOS | [store](https://www.raycast.com/mmmarcus/hotcorner) |

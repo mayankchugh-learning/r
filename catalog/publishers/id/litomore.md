@@ -1,6 +1,6 @@
 # litomore
 
-13 extensions · 12,311 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
+13 extensions · 12,312 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
 
 ## Design Tools (2)
 
@@ -22,7 +22,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,497 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 955 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
-| [PM2](https://github.com/raycast/extensions/tree/main/extensions/pm2) | 281 | Advanced, production process manager for Node.js. | litomore | macOS | [store](https://www.raycast.com/litomore/pm2) |
+| [PM2](https://github.com/raycast/extensions/tree/main/extensions/pm2) | 282 | Advanced, production process manager for Node.js. | litomore | macOS | [store](https://www.raycast.com/litomore/pm2) |
 
 ## Data (3)
 
