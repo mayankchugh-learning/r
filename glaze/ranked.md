@@ -1,12 +1,12 @@
 # Glaze apps by installs
 
-All 68 apps · 9,985 installs total · [← Glaze catalog](./README.md)
+All 68 apps · 9,986 installs total · [← Glaze catalog](./README.md)
 
 | # | App | Installs | Category | Publisher | Version |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 838 | Developer Tools | Boufford | 13.0.0 |
 | 2 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 834 | Developer Tools | alexi.build | 8.0.0 |
-| 3 | [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 701 | Developer Tools | Nichlas Wærnes Andersen | 6.0.0 |
+| 3 | [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 702 | Developer Tools | Nichlas Wærnes Andersen | 6.0.0 |
 | 4 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 603 | Developer Tools | Thomas Paul Mann | 1.0.0 |
 | 5 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 401 | Utilities | Thomas Paul Mann | 2.0.0 |
 | 6 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 397 | Media | Combustion Studio | 7.0.0 |
@@ -15,7 +15,7 @@ All 68 apps · 9,985 installs total · [← Glaze catalog](./README.md)
 | 9 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 336 | Utilities | Yann-Edern Gillet | 6.0.0 |
 | 10 | [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 317 | Developer Tools | Alex Antonov | 2.0.0 |
 | 11 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 299 | Developer Tools | Pedro Duarte | 5.0.0 |
-| 12 | [Sweep](https://www.glaze.app/app/308emF) | 274 | Utilities | melvin | 7.0.0 |
+| 12 | [Sweep](https://www.glaze.app/app/308emF) | 275 | Utilities | melvin | 7.0.0 |
 | 13 | [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) | 269 | Utilities | Hamzah Chaudhary | 1.0.1 |
 | 14 | [Yolo](https://www.glaze.app/app/yolo-PSjYlj) | 240 | Developer Tools | Alexandr Subbotin | 1.0.0 |
 | 15 | [Reading Corner](https://www.glaze.app/app/reading-corner-k3tfty) | 233 | Productivity | Ivo Fonseca | 7.0.0 |
@@ -42,7 +42,7 @@ All 68 apps · 9,985 installs total · [← Glaze catalog](./README.md)
 | 36 | [Sky Tracker](https://www.glaze.app/app/sky-tracker-azKgA5) | 80 | Utilities | Yukai Huang | 2.0.0 |
 | 37 | [Image Sequencer](https://www.glaze.app/app/IxkyCn) | 72 | Media | Nichlas Wærnes Andersen | 14.0.0 |
 | 38 | [Health Fusion](https://www.glaze.app/app/ikcWiD) | 67 | Utilities | Oliver Posselt | 2.0.0 |
-| 39 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 67 | Design | Noman | 10.0.0 |
+| 39 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 67 | Design | Noman | 11.0.0 |
 | 40 | [Chromatic](https://www.glaze.app/app/qRBanq) | 49 | Developer Tools | Jac Peregrine-Davies | 1.0.0 |
 | 41 | [Magnify](https://www.glaze.app/app/magnify-YWP3Aj) | 49 | Utilities | Jordan Amblin | 4.0.0 |
 | 42 | [Coin Flip](https://www.glaze.app/app/fRjllX) | 34 | Utilities | Jordan Amblin | 2.0.0 |
@@ -57,18 +57,18 @@ All 68 apps · 9,985 installs total · [← Glaze catalog](./README.md)
 | 51 | [Shashi’s Canvas](https://www.glaze.app/app/shashis-canvas-mhgWGL) | 2 | Design | Shashi Thakur | 1.0.0 |
 | 52 | [Agentic Desktop Island](https://www.glaze.app/app/agentic-desktop-island-FsvDgZ) | 1 | Developer Tools | Zachary Bensalem | 2.0.0 |
 | 53 | [Earthquake Monitor](https://www.glaze.app/app/earthquake-monitor-f34VTK) | 1 | Utilities | Travis Tang | 1.0.0 |
-| 54 | [Feed Harvest](https://www.glaze.app/app/feed-harvest-ghvGgH) | 1 | Productivity | John Hesch | 1.0.0 |
-| 55 | [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) | 1 | Utilities | Johannes Krejberg Haahr | 2.0.0 |
-| 56 | [RestQuest](https://www.glaze.app/app/restquest-v537AP) | 1 | Lifestyle | Harry Dhaliwal | 1.0.0 |
-| 57 | [Shark](https://www.glaze.app/app/shark-svB120) | 1 | Developer Tools | hgg end | 1.0.0 |
-| 58 | [TagBucket](https://www.glaze.app/app/tagbucket-GXYDVC) | 1 | Utilities | Roman Sv. | 1.0.0 |
-| 59 | [Tap](https://www.glaze.app/app/tap-2ruNjD) | 1 | Productivity | Adithya Jayasankar | 1.0.0 |
-| 60 | [Touch Grass (UV Index)](https://www.glaze.app/app/touch-grass-uv-index-hpowha) | 1 | Utilities | Marcus Wilter | 1.0.0 |
-| 61 | [AwayGame](https://www.glaze.app/app/awaygame-H38L85) | 0 | Productivity | JT Math | 1.0.0 |
-| 62 | [Blood Match](https://www.glaze.app/app/blood-match-epXOOZ) | 0 | Utilities | Parsifal02 | 1.0.0 |
-| 63 | [Book Atlas](https://www.glaze.app/app/book-atlas-jY0l0Z) | 0 | Media | Svitlana | 1.0.0 |
-| 64 | [Claude Notify](https://www.glaze.app/app/claude-notify-qCegNI) | 0 | Developer Tools | 12ian34psn | 1.0.0 |
-| 65 | [Media Bridge](https://www.glaze.app/app/media-bridge-VUm2cm) | 0 | Utilities | Yan Frossard | 3.0.0 |
+| 54 | [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) | 1 | Utilities | Johannes Krejberg Haahr | 2.0.0 |
+| 55 | [RestQuest](https://www.glaze.app/app/restquest-v537AP) | 1 | Lifestyle | Harry Dhaliwal | 1.0.0 |
+| 56 | [Shark](https://www.glaze.app/app/shark-svB120) | 1 | Developer Tools | hgg end | 1.0.0 |
+| 57 | [TagBucket](https://www.glaze.app/app/tagbucket-GXYDVC) | 1 | Utilities | Roman Sv. | 1.0.0 |
+| 58 | [Tap](https://www.glaze.app/app/tap-2ruNjD) | 1 | Productivity | Adithya Jayasankar | 1.0.0 |
+| 59 | [Touch Grass (UV Index)](https://www.glaze.app/app/touch-grass-uv-index-hpowha) | 1 | Utilities | Marcus Wilter | 1.0.0 |
+| 60 | [AwayGame](https://www.glaze.app/app/awaygame-H38L85) | 0 | Productivity | JT Math | 1.0.0 |
+| 61 | [Blood Match](https://www.glaze.app/app/blood-match-epXOOZ) | 0 | Utilities | Parsifal02 | 1.0.0 |
+| 62 | [Book Atlas](https://www.glaze.app/app/book-atlas-jY0l0Z) | 0 | Media | Svitlana | 1.0.0 |
+| 63 | [Claude Notify](https://www.glaze.app/app/claude-notify-qCegNI) | 0 | Developer Tools | 12ian34psn | 1.0.0 |
+| 64 | [Media Bridge](https://www.glaze.app/app/media-bridge-VUm2cm) | 0 | Utilities | Yan Frossard | 3.0.0 |
+| 65 | [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 0 | Productivity | Ermek Barmashev | 1.0.0 |
 | 66 | [Quick Translate](https://www.glaze.app/app/quick-translate-fRbhRn) | 0 | Productivity | Mickael Alves | 1.0.0 |
 | 67 | [RAID Calculator](https://www.glaze.app/app/raid-calculator-xF2vIw) | 0 | Developer Tools | Travis Tang | 1.0.0 |
 | 68 | [Verbatim](https://www.glaze.app/app/verbatim-oe1V7I) | 0 | Developer Tools | Lachlan | 2.0.0 |

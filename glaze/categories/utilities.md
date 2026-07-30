@@ -1,13 +1,13 @@
 # Utilities
 
-22 apps · 2,533 installs · sorted by installs · [← Glaze catalog](../README.md)
+22 apps · 2,534 installs · sorted by installs · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 401 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-14 |
 | [Peel](https://www.glaze.app/app/peel-esimhU) | 396 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 336 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
-| [Sweep](https://www.glaze.app/app/308emF) | 274 | Tinder for deleting files | melvin | 7.0.0 | 0.1 MB | 2026-07-17 |
+| [Sweep](https://www.glaze.app/app/308emF) | 275 | Tinder for deleting files | melvin | 7.0.0 | 0.1 MB | 2026-07-17 |
 | [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) | 269 | Track nearby aircraft in real-time and follow flights of interest | Hamzah Chaudhary | 1.0.1 | 1.0 MB | 2026-03-12 |
 | [Gesture Launch](https://www.glaze.app/app/74q23g) | 222 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 0.1 MB | 2026-05-14 |
 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 151 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |

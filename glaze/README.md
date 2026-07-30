@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**68** apps · **6** categories · **57** publishers · **9,985** installs
+**68** apps · **6** categories · **57** publishers · **9,986** installs
 
 ## Browse
 
@@ -18,9 +18,9 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Utilities](./categories/utilities.md) | 22 | 2,533 |
-| [Developer Tools](./categories/developer-tools.md) | 18 | 4,487 |
-| [Productivity](./categories/productivity.md) | 15 | 1,406 |
+| [Utilities](./categories/utilities.md) | 22 | 2,534 |
+| [Developer Tools](./categories/developer-tools.md) | 18 | 4,488 |
+| [Productivity](./categories/productivity.md) | 15 | 1,405 |
 | [Media](./categories/media.md) | 7 | 1,057 |
 | [Design](./categories/design.md) | 5 | 501 |
 | [Lifestyle](./categories/lifestyle.md) | 1 | 1 |
@@ -31,7 +31,7 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | --- | --- | --- | --- | --- |
 | 1 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 838 | Developer Tools | Boufford |
 | 2 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 834 | Developer Tools | alexi.build |
-| 3 | [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 701 | Developer Tools | Nichlas Wærnes Andersen |
+| 3 | [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 702 | Developer Tools | Nichlas Wærnes Andersen |
 | 4 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 603 | Developer Tools | Thomas Paul Mann |
 | 5 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 401 | Utilities | Thomas Paul Mann |
 | 6 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 397 | Media | Combustion Studio |

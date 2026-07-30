@@ -1,12 +1,12 @@
 # Developer Tools
 
-18 apps · 4,487 installs · sorted by installs · [← Glaze catalog](../README.md)
+18 apps · 4,488 installs · sorted by installs · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 838 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 0.1 MB | 2026-07-29 |
 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 834 | Browse local AI agent skills | alexi.build | 8.0.0 | 0.1 MB | 2026-07-16 |
-| [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 701 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 0.1 MB | 2026-04-15 |
+| [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 702 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 0.1 MB | 2026-04-15 |
 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 603 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 0.7 MB | 2026-05-26 |
 | [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 317 | Explore hotkey systems for Raycast | Alex Antonov | 2.0.0 | 0.1 MB | 2026-04-17 |
 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 299 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 0.3 MB | 2026-07-27 |

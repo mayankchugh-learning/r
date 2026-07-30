@@ -4,7 +4,8 @@ Newest 30 of 68 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 10.0.0 | 67 | Design | Noman |
+| [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 2026-07-30 | 1.0.0 | 0 | Productivity | Ermek Barmashev |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 11.0.0 | 67 | Design | Noman |
 | [Verbatim](https://www.glaze.app/app/verbatim-oe1V7I) | 2026-07-30 | 2.0.0 | 0 | Developer Tools | Lachlan |
 | [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) | 2026-07-30 | 2.0.0 | 1 | Utilities | Johannes Krejberg Haahr |
 | [Claude Notify](https://www.glaze.app/app/claude-notify-qCegNI) | 2026-07-30 | 1.0.0 | 0 | Developer Tools | 12ian34psn |
@@ -32,5 +33,4 @@ Newest 30 of 68 apps by last release · [← Glaze catalog](./README.md)
 | [RestQuest](https://www.glaze.app/app/restquest-v537AP) | 2026-07-29 | 1.0.0 | 1 | Lifestyle | Harry Dhaliwal |
 | [Shashi’s Canvas](https://www.glaze.app/app/shashis-canvas-mhgWGL) | 2026-07-29 | 1.0.0 | 2 | Design | Shashi Thakur |
 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 2026-07-28 | 6.0.0 | 336 | Utilities | Yann-Edern Gillet |
-| [Feed Harvest](https://www.glaze.app/app/feed-harvest-ghvGgH) | 2026-07-28 | 1.0.0 | 1 | Productivity | John Hesch |
 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 2026-07-28 | 8.0.0 | 151 | Utilities | Dmitry Novikov |

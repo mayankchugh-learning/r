@@ -5,7 +5,7 @@
 | # | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- | --- |
 | 1 | Thomas Paul Mann | 3 | 1,400 | [Highlight](https://www.glaze.app/app/highlight-puwjxR), [Defaults](https://www.glaze.app/app/defaults-G62ohp), [Peel](https://www.glaze.app/app/peel-esimhU) |
-| 2 | Nichlas Wærnes Andersen | 3 | 920 | [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6), [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr), [Image Sequencer](https://www.glaze.app/app/IxkyCn) |
+| 2 | Nichlas Wærnes Andersen | 3 | 921 | [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6), [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr), [Image Sequencer](https://www.glaze.app/app/IxkyCn) |
 | 3 | Boufford | 1 | 838 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) |
 | 4 | alexi.build | 1 | 834 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) |
 | 5 | Alex Antonov | 3 | 550 | [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W), [Winamp](https://www.glaze.app/app/naNtIA), [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) |
@@ -14,7 +14,7 @@
 | 8 | Khalid Hasan Zibon | 1 | 397 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) |
 | 9 | Yann-Edern Gillet | 1 | 336 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) |
 | 10 | Kristina Loewen | 2 | 312 | [This](https://www.glaze.app/app/this-STOdhd), [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) |
-| 11 | melvin | 1 | 274 | [Sweep](https://www.glaze.app/app/308emF) |
+| 11 | melvin | 1 | 275 | [Sweep](https://www.glaze.app/app/308emF) |
 | 12 | Hamzah Chaudhary | 1 | 269 | [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) |
 | 13 | Alexandr Subbotin | 1 | 240 | [Yolo](https://www.glaze.app/app/yolo-PSjYlj) |
 | 14 | Ivo Fonseca | 1 | 233 | [Reading Corner](https://www.glaze.app/app/reading-corner-k3tfty) |
@@ -50,11 +50,11 @@
 | 44 | Harry Dhaliwal | 1 | 1 | [RestQuest](https://www.glaze.app/app/restquest-v537AP) |
 | 45 | hgg end | 1 | 1 | [Shark](https://www.glaze.app/app/shark-svB120) |
 | 46 | Johannes Krejberg Haahr | 1 | 1 | [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) |
-| 47 | John Hesch | 1 | 1 | [Feed Harvest](https://www.glaze.app/app/feed-harvest-ghvGgH) |
-| 48 | Marcus Wilter | 1 | 1 | [Touch Grass (UV Index)](https://www.glaze.app/app/touch-grass-uv-index-hpowha) |
-| 49 | Roman Sv. | 1 | 1 | [TagBucket](https://www.glaze.app/app/tagbucket-GXYDVC) |
-| 50 | Zachary Bensalem | 1 | 1 | [Agentic Desktop Island](https://www.glaze.app/app/agentic-desktop-island-FsvDgZ) |
-| 51 | 12ian34psn | 1 | 0 | [Claude Notify](https://www.glaze.app/app/claude-notify-qCegNI) |
+| 47 | Marcus Wilter | 1 | 1 | [Touch Grass (UV Index)](https://www.glaze.app/app/touch-grass-uv-index-hpowha) |
+| 48 | Roman Sv. | 1 | 1 | [TagBucket](https://www.glaze.app/app/tagbucket-GXYDVC) |
+| 49 | Zachary Bensalem | 1 | 1 | [Agentic Desktop Island](https://www.glaze.app/app/agentic-desktop-island-FsvDgZ) |
+| 50 | 12ian34psn | 1 | 0 | [Claude Notify](https://www.glaze.app/app/claude-notify-qCegNI) |
+| 51 | Ermek Barmashev | 1 | 0 | [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) |
 | 52 | JT Math | 1 | 0 | [AwayGame](https://www.glaze.app/app/awaygame-H38L85) |
 | 53 | Lachlan | 1 | 0 | [Verbatim](https://www.glaze.app/app/verbatim-oe1V7I) |
 | 54 | Mickael Alves | 1 | 0 | [Quick Translate](https://www.glaze.app/app/quick-translate-fRbhRn) |
