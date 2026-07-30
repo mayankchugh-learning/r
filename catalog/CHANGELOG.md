@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-30 — upstream `6cd52a4cda`
+
+**Updated (1):** [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty)
+
 ## 2026-07-30 — upstream `3aab5e2cbf`
 
 **Updated (1):** [Git](https://github.com/raycast/extensions/tree/main/extensions/git)

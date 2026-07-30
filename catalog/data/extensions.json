@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3aab5e2cbf4ecee121603611f0dce91594f4e9e5",
-  "generatedAt": "2026-07-30T04:40:22.193Z",
-  "downloadsRefreshedAt": "2026-07-30T04:40:21.663Z",
+  "commit": "6cd52a4cdaadd219ca46502b96e82891c11a366a",
+  "generatedAt": "2026-07-30T04:42:21.143Z",
+  "downloadsRefreshedAt": "2026-07-30T04:42:20.072Z",
   "count": 3130,
   "extensions": [
     {
@@ -37181,7 +37181,7 @@
       ],
       "store": "https://www.raycast.com/Ethan_Cao/otty",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/otty",
-      "treeSha": "711dc29171ccfab5d63f932503c12abde70ae826",
+      "treeSha": "44d803a5b7634b0bf07a692c1caefb9ba346e116",
       "downloads": 2
     },
     {
