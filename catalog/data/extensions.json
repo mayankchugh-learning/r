@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "682406f9e828dc021a6410ed3f07fa837fd1e91a",
-  "generatedAt": "2026-07-30T10:16:25.990Z",
-  "downloadsRefreshedAt": "2026-07-30T10:16:24.600Z",
-  "count": 3130,
+  "commit": "526329ce6bb6715dc109a30607424d20a6c5332e",
+  "generatedAt": "2026-07-30T10:18:31.201Z",
+  "downloadsRefreshedAt": "2026-07-30T10:18:30.811Z",
+  "count": 3131,
   "extensions": [
     {
       "dir": "0x0",
@@ -8922,7 +8922,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 495996
+      "downloads": 495997
     },
     {
       "dir": "color-shades",
@@ -20257,7 +20257,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 484427
+      "downloads": 484428
     },
     {
       "dir": "google-chrome-profiles",
@@ -26200,7 +26200,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 652135
+      "downloads": 652136
     },
     {
       "dir": "kimai",
@@ -55990,6 +55990,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/turso",
       "treeSha": "53dd32d968e94e33f4226a5de395fa86c5be8243",
       "downloads": 104
+    },
+    {
+      "dir": "tutti",
+      "name": "tutti",
+      "title": "Tutti",
+      "description": "Control Tutti — play the same audio through many output devices at once — from the Raycast launcher.",
+      "author": "Barrybarrywu",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Media"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/Barrybarrywu/tutti",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/tutti",
+      "treeSha": "ff4ef5edc32cf7adf0e22b611fe1d73f9d0da488",
+      "downloads": 0
     },
     {
       "dir": "tuya-smart",

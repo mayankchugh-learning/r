@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-30 — upstream `526329ce6b`
+
+**Added (1):** [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti)
+
 ## 2026-07-30 — upstream `682406f9e8`
 
 **Updated (1):** [Tapo Smart Devices](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices)

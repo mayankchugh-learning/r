@@ -1,6 +1,6 @@
 # Publishers
 
-2077 publishers · [← catalog index](../README.md)
+2078 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 148,127 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,233 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,701 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,082,497 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,082,498 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 295,851 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,714 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 401,791 |
@@ -384,8 +384,8 @@
 | 374 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
 | 375 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 376 | github-next | 2 | — |
-| 377 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,135 |
-| 378 | [Codely](https://www.raycast.com/Codely) | 1 | 484,427 |
+| 377 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,136 |
+| 378 | [Codely](https://www.raycast.com/Codely) | 1 | 484,428 |
 | 379 | [linear](https://www.raycast.com/linear) | 1 | 335,209 |
 | 380 | [mommertf](https://www.raycast.com/mommertf) | 1 | 281,549 |
 | 381 | [nhojb](https://www.raycast.com/nhojb) | 1 | 252,774 |
@@ -2079,9 +2079,10 @@
 | 2069 | [tessak22](https://www.raycast.com/tessak22) | 1 | 1 |
 | 2070 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 1 |
 | 2071 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
-| 2072 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2073 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
-| 2074 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2075 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2076 | multi | 1 | — |
-| 2077 | sharat_visweswara | 1 | — |
+| 2072 | [Barrybarrywu](https://www.raycast.com/Barrybarrywu) | 1 | 0 |
+| 2073 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2074 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
+| 2075 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2076 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2077 | multi | 1 | — |
+| 2078 | sharat_visweswara | 1 | — |

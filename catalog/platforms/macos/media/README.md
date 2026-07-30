@@ -1,12 +1,12 @@
 # macOS · Media
 
-277 extensions · [← macOS](../README.md)
+278 extensions · [← macOS](../README.md)
 
 ## Listen & Watch
 
 | Topic | Extensions |
 | --- | --- |
-| [Music & Audio](./music-audio.md) | 57 |
+| [Music & Audio](./music-audio.md) | 58 |
 | [Video & Streaming](./video-streaming.md) | 23 |
 
 ## Look & Read

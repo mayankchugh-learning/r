@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-75 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+76 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | [baptiste-jn](https://www.raycast.com/baptiste-jn) | 1 | 208 | **Developer Tools:** [Kill MCP Servers](https://github.com/raycast/extensions/tree/main/extensions/kill-mcp) |
 | [baradusov](https://www.raycast.com/baradusov) | 1 | 87 | **Media:** [TorBox](https://github.com/raycast/extensions/tree/main/extensions/torbox) |
 | [barlow](https://www.raycast.com/barlow) | 2 | 40 | **Data:** [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail)<br>**Productivity:** [Transport NSW](https://github.com/raycast/extensions/tree/main/extensions/transport-nsw) |
+| [Barrybarrywu](https://www.raycast.com/Barrybarrywu) | 1 | 0 | **Media:** [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti) |
 | [beedhan](https://www.raycast.com/beedhan) | 1 | 27 | **Other:** [Nepali Date Converter](https://github.com/raycast/extensions/tree/main/extensions/nepali-date-converter) |
 | [beehive](https://www.raycast.com/beehive) | 1 | 80 | **Applications:** [BusyCal](https://github.com/raycast/extensions/tree/main/extensions/busycal) |
 | [believer](https://www.raycast.com/believer) | 1 | 695 | **Productivity:** [Readwise to Tana](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) |

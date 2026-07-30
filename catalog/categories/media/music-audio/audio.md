@@ -1,6 +1,6 @@
 # Audio ✦
 
-9 extensions · [← Music & Audio](./README.md)
+10 extensions · [← Music & Audio](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -15,3 +15,4 @@
 | [NFT Primitive Tools](https://github.com/raycast/extensions/tree/main/extensions/uranium-raycast-plugin) | 16 | Mint, list, manage, Conversion of any media: images, videos, audio, or documents. Permaweb storage. | uranium | macOS | [store](https://www.raycast.com/uranium/uranium-raycast-plugin) |
 | [Picmal](https://github.com/raycast/extensions/tree/main/extensions/picmal) | 13 | Convert and compress images, audio, and video with Picmal — straight from Raycast. | albertogalca | macOS | [store](https://www.raycast.com/albertogalca/picmal) |
 | [The Lot Radio](https://github.com/raycast/extensions/tree/main/extensions/the-lot-radio) | 3 | Play/pause the audio stream of The Lot Radio | evnm | macOS | [store](https://www.raycast.com/evnm/the-lot-radio) |
+| [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti) | 0 | Control Tutti — play the same audio through many output devices at once — from the Raycast launcher. | Barrybarrywu | macOS | [store](https://www.raycast.com/Barrybarrywu/tutti) |
