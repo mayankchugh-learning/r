@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "20f2779433d92033fee47bc6f62bbfa1dfbee1e8",
-  "generatedAt": "2026-07-30T04:38:37.579Z",
-  "downloadsRefreshedAt": "2026-07-30T04:38:37.177Z",
+  "commit": "5dc9c4186aacccb195ab7a599223edfc4c526fec",
+  "generatedAt": "2026-07-30T04:39:21.784Z",
+  "downloadsRefreshedAt": "2026-07-30T04:39:21.511Z",
   "count": 3130,
   "extensions": [
     {
@@ -53251,17 +53251,18 @@
       "description": "Interact with teleport, the open infrastructure access platform",
       "author": "lamberttraccard",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Developer Tools",
         "Security"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/lamberttraccard/teleport",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/teleport",
-      "treeSha": "be279cda221ef71331aa69a5f035a755830b2134",
+      "treeSha": "6c976c5ea2e2f01e2f04ec2025d4fec674bdb2e0",
       "downloads": 270
     },
     {
