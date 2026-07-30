@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e35bfcade4e0804b8ebc9d90762712c260be87bd",
-  "generatedAt": "2026-07-30T10:15:32.522Z",
-  "downloadsRefreshedAt": "2026-07-30T10:15:31.756Z",
+  "commit": "682406f9e828dc021a6410ed3f07fa837fd1e91a",
+  "generatedAt": "2026-07-30T10:16:25.990Z",
+  "downloadsRefreshedAt": "2026-07-30T10:16:24.600Z",
   "count": 3130,
   "extensions": [
     {
@@ -26200,7 +26200,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 652134
+      "downloads": 652135
     },
     {
       "dir": "kimai",
@@ -52947,13 +52947,14 @@
       "categories": [
         "Productivity"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS",
         "Windows"
       ],
       "store": "https://www.raycast.com/timrogers/raycast-tapo-smart-devices",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices",
-      "treeSha": "0367480eec0c0f6d627e871629d14a330cafba5b",
+      "treeSha": "17743261fdf16a7d213629916c4acc62ddb900b9",
       "downloads": 414
     },
     {

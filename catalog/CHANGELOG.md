@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-30 — upstream `682406f9e8`
+
+**Updated (1):** [Tapo Smart Devices](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices)
+
 ## 2026-07-30 — upstream `e35bfcade4`
 
 **Updated (1):** [Pushover](https://github.com/raycast/extensions/tree/main/extensions/pushover)

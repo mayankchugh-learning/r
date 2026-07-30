@@ -384,7 +384,7 @@
 | 374 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
 | 375 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 376 | github-next | 2 | — |
-| 377 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,134 |
+| 377 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,135 |
 | 378 | [Codely](https://www.raycast.com/Codely) | 1 | 484,427 |
 | 379 | [linear](https://www.raycast.com/linear) | 1 | 335,209 |
 | 380 | [mommertf](https://www.raycast.com/mommertf) | 1 | 281,549 |
