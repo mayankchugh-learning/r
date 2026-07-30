@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**69** apps · **6** categories · **58** publishers · **10,045** installs
+**68** apps · **6** categories · **57** publishers · **9,985** installs
 
 ## Browse
 
@@ -18,11 +18,11 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Utilities](./categories/utilities.md) | 22 | 2,530 |
-| [Developer Tools](./categories/developer-tools.md) | 18 | 4,485 |
+| [Utilities](./categories/utilities.md) | 22 | 2,533 |
+| [Developer Tools](./categories/developer-tools.md) | 18 | 4,487 |
 | [Productivity](./categories/productivity.md) | 15 | 1,406 |
-| [Media](./categories/media.md) | 8 | 1,123 |
-| [Design](./categories/design.md) | 5 | 500 |
+| [Media](./categories/media.md) | 7 | 1,057 |
+| [Design](./categories/design.md) | 5 | 501 |
 | [Lifestyle](./categories/lifestyle.md) | 1 | 1 |
 
 ## Most installed
@@ -33,7 +33,7 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | 2 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 834 | Developer Tools | alexi.build |
 | 3 | [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 701 | Developer Tools | Nichlas Wærnes Andersen |
 | 4 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 603 | Developer Tools | Thomas Paul Mann |
-| 5 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 400 | Utilities | Thomas Paul Mann |
+| 5 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 401 | Utilities | Thomas Paul Mann |
 | 6 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 397 | Media | Combustion Studio |
 | 7 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 397 | Productivity | Khalid Hasan Zibon |
 | 8 | [Peel](https://www.glaze.app/app/peel-esimhU) | 396 | Utilities | Thomas Paul Mann |
