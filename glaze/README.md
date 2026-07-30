@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**69** apps · **6** categories · **58** publishers · **10,033** installs
+**69** apps · **6** categories · **58** publishers · **10,045** installs
 
 ## Browse
 
@@ -18,10 +18,10 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Utilities](./categories/utilities.md) | 22 | 2,517 |
-| [Developer Tools](./categories/developer-tools.md) | 17 | 4,484 |
-| [Productivity](./categories/productivity.md) | 16 | 1,409 |
-| [Media](./categories/media.md) | 8 | 1,122 |
+| [Utilities](./categories/utilities.md) | 22 | 2,530 |
+| [Developer Tools](./categories/developer-tools.md) | 18 | 4,485 |
+| [Productivity](./categories/productivity.md) | 15 | 1,406 |
+| [Media](./categories/media.md) | 8 | 1,123 |
 | [Design](./categories/design.md) | 5 | 500 |
 | [Lifestyle](./categories/lifestyle.md) | 1 | 1 |
 
@@ -36,8 +36,8 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | 5 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 400 | Utilities | Thomas Paul Mann |
 | 6 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 397 | Media | Combustion Studio |
 | 7 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 397 | Productivity | Khalid Hasan Zibon |
-| 8 | [Peel](https://www.glaze.app/app/peel-esimhU) | 394 | Utilities | Thomas Paul Mann |
-| 9 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 335 | Utilities | Yann-Edern Gillet |
+| 8 | [Peel](https://www.glaze.app/app/peel-esimhU) | 396 | Utilities | Thomas Paul Mann |
+| 9 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 336 | Utilities | Yann-Edern Gillet |
 | 10 | [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 317 | Developer Tools | Alex Antonov |
 
 ## How this stays up to date

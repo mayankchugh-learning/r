@@ -1,6 +1,6 @@
 # Productivity
 
-16 apps · 1,409 installs · sorted by installs · [← Glaze catalog](../README.md)
+15 apps · 1,406 installs · sorted by installs · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,6 @@
 | [Zones](https://www.glaze.app/app/mHtfuc) | 127 | Your team's local time, at a glance. | Wayne Betts Jr | 10.0.0 | 0.1 MB | 2026-07-24 |
 | [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 96 | Track keystrokes and mouse clicks by app | Christian Alares | 3.0.0 | 0.1 MB | 2026-04-26 |
 | [Summer](https://www.glaze.app/app/summer-wcQqT0) | 28 | Quick tasks. Adorable cat. Pure focus | Steven Shoemaker | 3.0.0 | 0.1 MB | 2026-04-25 |
-| [Quill](https://www.glaze.app/app/quill-c9aP8w) | 3 | Write freely, think clearly | Cameron Schroeder | 3.0.0 | 0.2 MB | 2026-07-28 |
 | [Sei — Quick Actions for Finder](https://www.glaze.app/app/sei-quick-actions-for-finder-y9t2mE) | 3 | Faster file tasks, right from Finder | chottodare | 2.0.0 | 0.5 MB | 2026-07-29 |
 | [Stretch Break](https://www.glaze.app/app/stretch-break-wzibwW) | 3 | Stretch reminders for desk workers | Ruth Oxley | 2.0.0 | 0.1 MB | 2026-07-29 |
 | [Habit Periods](https://www.glaze.app/app/habit-periods-133jtm) | 2 | Not build habits, build habit periods | Samet Özkale | 1.0.0 | 0.1 MB | 2026-07-29 |
