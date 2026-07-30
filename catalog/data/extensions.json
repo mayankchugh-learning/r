@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6cd52a4cdaadd219ca46502b96e82891c11a366a",
-  "generatedAt": "2026-07-30T04:42:21.143Z",
-  "downloadsRefreshedAt": "2026-07-30T04:42:20.072Z",
+  "commit": "417956361989266040050390f7e09599a251e6fa",
+  "generatedAt": "2026-07-30T04:45:39.185Z",
+  "downloadsRefreshedAt": "2026-07-30T04:45:38.915Z",
   "count": 3130,
   "extensions": [
     {
@@ -49329,13 +49329,14 @@
       "categories": [
         "Developer Tools"
       ],
+      "manifestCategorized": true,
       "platforms": [
         "macOS",
         "Windows"
       ],
       "store": "https://www.raycast.com/keito4/skills",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/skills",
-      "treeSha": "72af7d874daebb95c97bffb444efe489fd390fe6",
+      "treeSha": "beb0689476656435678c217674e57c340b5c8997",
       "downloads": 7067
     },
     {
