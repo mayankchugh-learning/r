@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-30 — upstream `3aab5e2cbf`
+
+**Updated (1):** [Git](https://github.com/raycast/extensions/tree/main/extensions/git)
+
 ## 2026-07-30 — upstream `5dc9c4186a`
 
 **Updated (1):** [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport)
