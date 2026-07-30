@@ -1,10 +1,10 @@
 # URL & Domain Tools
 
-41 extensions · [← Web](../README.md)
+42 extensions · [← Web](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
-| [URL ✦](./url.md) | 23 |
+| [URL ✦](./url.md) | 24 |
 | [Domains ✦](./domains.md) | 8 |
 | [General](./general.md) | 10 |
 

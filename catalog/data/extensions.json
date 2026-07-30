@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9e8f6c309fe1ee3603040f4781cdc8c22ba05c7f",
-  "generatedAt": "2026-07-30T12:43:36.260Z",
-  "downloadsRefreshedAt": "2026-07-30T12:43:35.935Z",
-  "count": 3132,
+  "commit": "311bb98c1dbe914ed427b9fdf5f9d1349eca744d",
+  "generatedAt": "2026-07-30T14:38:40.570Z",
+  "downloadsRefreshedAt": "2026-07-30T14:38:39.900Z",
+  "count": 3133,
   "extensions": [
     {
       "dir": "0x0",
@@ -7359,6 +7359,28 @@
       "downloads": 7
     },
     {
+      "dir": "cl1p",
+      "name": "cl1p",
+      "title": "cl1p.net",
+      "description": "Save text to cl1p.net and copy the resulting URL",
+      "author": "meslva",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/cl1p",
+      "treeSha": "7077cec2440407730ca84a61928aa4b25d55d783",
+      "downloads": null
+    },
+    {
       "dir": "clarify",
       "name": "clarify",
       "title": "Clarify",
@@ -8943,7 +8965,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 496061
+      "downloads": 496128
     },
     {
       "dir": "color-shades",
@@ -19120,8 +19142,8 @@
       ],
       "store": "https://www.raycast.com/ernest0n/git",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/git",
-      "treeSha": "e254fa9db052ee0d631b79d09f722635ca890e6e",
-      "downloads": 1048
+      "treeSha": "abe83f508eaf5f69ba04612fe3b0615a9a3cc460",
+      "downloads": 1049
     },
     {
       "dir": "git-assistant",
@@ -20278,7 +20300,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 484498
+      "downloads": 484562
     },
     {
       "dir": "google-chrome-profiles",
@@ -26221,7 +26243,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 652231
+      "downloads": 652304
     },
     {
       "dir": "kimai",

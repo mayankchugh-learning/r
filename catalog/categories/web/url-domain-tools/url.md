@@ -1,8 +1,8 @@
 # URL ✦
 
-23 extensions · [← URL & Domain Tools](./README.md)
+24 extensions · [← URL & Domain Tools](./README.md)
 
-[URL Shortener ✦](#url-shortener) (6) · [Clipboard ✦](#clipboard) (5) · [General](#general) (12)
+[URL Shortener ✦](#url-shortener) (6) · [Clipboard ✦](#clipboard) (5) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
@@ -43,3 +43,4 @@
 | [S.EE](https://github.com/raycast/extensions/tree/main/extensions/sdotee) | 8 | Create short URLs, share text, and upload files with S.EE | missuo | macOS | [store](https://www.raycast.com/missuo/sdotee) |
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 6 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 2 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
+| [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | — | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | — |

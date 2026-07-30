@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-497 of 1401 extensions · [← macOS · Productivity](./README.md)
+497 of 1402 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -139,7 +139,7 @@
 | [Diskutil](https://github.com/raycast/extensions/tree/main/extensions/diskutil-mac) | 1,083 | View your disks and volumes. An implementation of the macOS 'diskutil' command with quicker access to functionality, providing a better overview and a more use… | Globolo | macOS | [store](https://www.raycast.com/Globolo/diskutil-mac) |
 | [Jira Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/jira-time-tracking) | 1,070 | Log time against Jira issues | niallpaterson | macOS | [store](https://www.raycast.com/niallpaterson/jira-time-tracking) |
 | [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) | 1,056 | Manage zsh aliases | espenbye | macOS | [store](https://www.raycast.com/espenbye/zsh-aliases) |
-| [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | 1,048 | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
+| [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | 1,049 | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
 | [CanvasCast](https://github.com/raycast/extensions/tree/main/extensions/canvascast) | 1,018 | Access the Canvas LMS from Raycast | Yoda | macOS | [store](https://www.raycast.com/Yoda/canvascast) |
 | [Airplane](https://github.com/raycast/extensions/tree/main/extensions/airplane) | 1,007 | Just like on iPhone, turn off the wireless features on your macOS anytime. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/airplane) |
 | [YubiKey Code](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) | 991 | Easily get a OTP from your YubiKey | yoyoyeti | macOS | [store](https://www.raycast.com/yoyoyeti/yubikey-code) |

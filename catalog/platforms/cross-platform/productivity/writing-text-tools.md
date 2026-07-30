@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · **Writing & Text Tools** · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-18 of 314 extensions · [← Cross-platform · Productivity](./README.md)
+19 of 315 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,4 @@
 | [Delphitools](https://github.com/raycast/extensions/tree/main/extensions/delphi-tools-raycast-extension) | 11 | Run local design and text utilities from delphitools in Raycast | abeldebruijn | Windows, macOS | [store](https://www.raycast.com/abeldebruijn/delphi-tools-raycast-extension) |
 | [MEMO to flomo](https://github.com/raycast/extensions/tree/main/extensions/memo-to-flomo) | 4 | Quickly send Markdown memos to flomo with tag history | moose_zhang | macOS, Windows | [store](https://www.raycast.com/moose_zhang/memo-to-flomo) |
 | [VN Textify](https://github.com/raycast/extensions/tree/main/extensions/vn-textify) | 2 | Transform Vietnam's Telex text to Vietnamese text | locnguyen1842 | macOS, Windows | [store](https://www.raycast.com/locnguyen1842/vn-textify) |
+| [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | — | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | — |

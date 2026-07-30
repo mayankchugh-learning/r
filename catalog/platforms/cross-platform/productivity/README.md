@@ -1,6 +1,6 @@
 # Cross-platform · Productivity
 
-314 extensions · [← Cross-platform](../README.md)
+315 extensions · [← Cross-platform](../README.md)
 
 ## Organize & Plan
 
@@ -16,7 +16,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [AI & Assistants](./ai-assistants.md) | 27 |
-| [Writing & Text Tools](./writing-text-tools.md) | 18 |
+| [Writing & Text Tools](./writing-text-tools.md) | 19 |
 | [Documents & Files](./documents-files.md) | 20 |
 | [Email](./email.md) | 6 |
 

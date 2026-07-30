@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-164 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+165 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -98,6 +98,7 @@
 | [menisy](https://www.raycast.com/menisy) | 1 | 60 | **Productivity:** [Yamli](https://github.com/raycast/extensions/tree/main/extensions/yamli) |
 | [merklefruit](https://www.raycast.com/merklefruit) | 1 | 132 | **Developer Tools:** [Foundry Cast CLI](https://github.com/raycast/extensions/tree/main/extensions/foundry-cast-cli) |
 | [meshal](https://www.raycast.com/meshal) | 3 | 3,517 | **Applications:** [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity)<br>**Developer Tools:** [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter), [JSON to TOON Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-toon-converter) |
+| meslva | 1 | — | **Productivity:** [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) |
 | [metakirby5](https://www.raycast.com/metakirby5) | 1 | 60 | **Developer Tools:** [DOTween Eases](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) |
 | [metrovoc](https://www.raycast.com/metrovoc) | 1 | 119 | **Productivity:** [VoiceInk](https://github.com/raycast/extensions/tree/main/extensions/voiceink) |
 | [mguyard](https://www.raycast.com/mguyard) | 1 | 186 | **Data:** [Manage Firebase Firestore Collections](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) |

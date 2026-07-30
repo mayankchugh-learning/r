@@ -1,6 +1,6 @@
 # Publishers
 
-2079 publishers · [← catalog index](../README.md)
+2080 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 148,127 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,233 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,701 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,082,562 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,082,629 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 295,851 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,714 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 401,791 |
@@ -49,7 +49,7 @@
 | 39 | [eluce2](https://www.raycast.com/eluce2) | 6 | 22,618 |
 | 40 | [pomdtr](https://www.raycast.com/pomdtr) | 6 | 20,721 |
 | 41 | [k8scat](https://www.raycast.com/k8scat) | 6 | 14,445 |
-| 42 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 4,452 |
+| 42 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 4,453 |
 | 43 | [xianwei_zhang](https://www.raycast.com/xianwei_zhang) | 6 | 172 |
 | 44 | [mblode](https://www.raycast.com/mblode) | 5 | 180,931 |
 | 45 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 85,677 |
@@ -384,8 +384,8 @@
 | 374 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
 | 375 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 376 | github-next | 2 | — |
-| 377 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,231 |
-| 378 | [Codely](https://www.raycast.com/Codely) | 1 | 484,498 |
+| 377 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,304 |
+| 378 | [Codely](https://www.raycast.com/Codely) | 1 | 484,562 |
 | 379 | [linear](https://www.raycast.com/linear) | 1 | 335,209 |
 | 380 | [mommertf](https://www.raycast.com/mommertf) | 1 | 281,549 |
 | 381 | [nhojb](https://www.raycast.com/nhojb) | 1 | 252,774 |
@@ -2085,5 +2085,6 @@
 | 2075 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
 | 2076 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 0 |
 | 2077 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2078 | multi | 1 | — |
-| 2079 | sharat_visweswara | 1 | — |
+| 2078 | meslva | 1 | — |
+| 2079 | multi | 1 | — |
+| 2080 | sharat_visweswara | 1 | — |

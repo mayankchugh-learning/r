@@ -1,8 +1,8 @@
 # Writing & Text Tools
 
-69 extensions · [← Productivity](./README.md)
+70 extensions · [← Productivity](./README.md)
 
-[Markdown ✦](#markdown) (14) · [Dictionary ✦](#dictionary) (10) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (31)
+[Markdown ✦](#markdown) (14) · [Dictionary ✦](#dictionary) (10) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (32)
 
 *✦ auto-discovered topic group*
 
@@ -104,3 +104,4 @@
 | [Delphitools](https://github.com/raycast/extensions/tree/main/extensions/delphi-tools-raycast-extension) | 11 | Run local design and text utilities from delphitools in Raycast | abeldebruijn | Windows, macOS | [store](https://www.raycast.com/abeldebruijn/delphi-tools-raycast-extension) |
 | [Oh-Shoot](https://github.com/raycast/extensions/tree/main/extensions/oh-shoot) | 6 | Search your oh-shoot screenshots by their OCR text and jump straight back into the oh-shoot app. | nico_pergande | macOS | [store](https://www.raycast.com/nico_pergande/oh-shoot) |
 | [VN Textify](https://github.com/raycast/extensions/tree/main/extensions/vn-textify) | 2 | Transform Vietnam's Telex text to Vietnamese text | locnguyen1842 | macOS, Windows | [store](https://www.raycast.com/locnguyen1842/vn-textify) |
+| [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | — | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | — |

@@ -1,8 +1,8 @@
 # Windows · Web
 
-127 extensions · [← Windows](../README.md)
+128 extensions · [← Windows](../README.md)
 
-[AI Services](#ai-services) (12) · [Social & Communities](#social-communities) (5) · [Search Engines](#search-engines) (46) · [Bookmarks & Read Later](#bookmarks-read-later) (1) · [URL & Domain Tools](#url-domain-tools) (17) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (31)
+[AI Services](#ai-services) (12) · [Social & Communities](#social-communities) (5) · [Search Engines](#search-engines) (46) · [Bookmarks & Read Later](#bookmarks-read-later) (1) · [URL & Domain Tools](#url-domain-tools) (18) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (31)
 
 ## Browse & Search
 
@@ -92,6 +92,7 @@
 | [Clip - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/clip) | 66 | Shorten URLs using multiple services (bit.ly, cutt.ly, tinyurl, is.gd, v.gd) | benbenbang | macOS, Windows | [store](https://www.raycast.com/benbenbang/raycast-clip) |
 | [Rdir](https://github.com/raycast/extensions/tree/main/extensions/rdir) | 42 | Free URL shortener | krakowiak | macOS, Windows | [store](https://www.raycast.com/krakowiak/rdir) |
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 6 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
+| [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | — | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | — |
 
 ### Monitoring & SEO
 

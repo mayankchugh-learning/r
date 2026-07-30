@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-30 — upstream `311bb98c1d`
+
+**Added (1):** [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p)
+
+**Updated (1):** [Git](https://github.com/raycast/extensions/tree/main/extensions/git)
+
 ## 2026-07-30 — upstream `9e8f6c309f`
 
 **Added (1):** [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia)

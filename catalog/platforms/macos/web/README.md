@@ -1,6 +1,6 @@
 # macOS · Web
 
-456 extensions · [← macOS](../README.md)
+457 extensions · [← macOS](../README.md)
 
 ## Browse & Search
 
@@ -14,7 +14,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [URL & Domain Tools](./url-domain-tools.md) | 41 |
+| [URL & Domain Tools](./url-domain-tools.md) | 42 |
 | [Monitoring & SEO](./monitoring-seo.md) | 15 |
 | [Screenshots & Capture](./screenshots-capture.md) | 4 |
 | [Downloads & Torrents](./downloads-torrents.md) | 2 |
