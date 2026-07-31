@@ -197,15 +197,30 @@ function discoverSearchFn(html) {
   throw new Error("could not locate the Glaze store-search server function");
 }
 
+/**
+ * Response strings arrive escaped one level too many — a description reads
+ * `logs.\n\nKey Features:` with literal backslash-n rather than newlines.
+ * Left as-is this corrupts both display and word tokenization (`\n\nKey`
+ * tokenizes to "n"+"key" → a bogus "nkey" topic), so undo that level here.
+ */
+function unescapeText(s) {
+  if (typeof s !== "string" || !s.includes("\\")) return s;
+  return s
+    .replace(/\\r\\n|\\n|\\r/g, "\n")
+    .replace(/\\t/g, "\t")
+    .replace(/\\u([0-9a-fA-F]{4})/g, (_, h) => String.fromCharCode(parseInt(h, 16)))
+    .replace(/\\(["'`\\/])/g, "$1");
+}
+
 function toApp(raw, canonical) {
   const slug = raw.category ?? null;
   const publicId = raw.public_id;
   const prof = raw.profiles ?? {};
   return {
     publicId,
-    name: raw.display_name,
-    tagline: raw.description ?? "",
-    description: raw.full_description ?? "",
+    name: unescapeText(raw.display_name),
+    tagline: unescapeText(raw.description ?? ""),
+    description: unescapeText(raw.full_description ?? ""),
     categorySlug: slug,
     category: categoryName(slug),
     installs: raw.installs_count ?? null,

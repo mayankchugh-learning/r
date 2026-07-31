@@ -2,29 +2,28 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**1553** apps · **7** categories · **1152** publishers · **25,972** installs
+**1,553** apps · **7** categories · **1,152** publishers · **25,980** installs
 
 ## Browse
 
 | View | |
 | --- | --- |
 | [By installs](./ranked/README.md) | every app ranked by install count |
-| [By category](#categories) | the store's own categories, install-sorted |
-| [By publisher](./publishers.md) | every publisher, ranked by total installs |
+| [By category](./categories/README.md) | 7 categories → curated topics → auto-discovered groups (✦), nested as deep as the data supports |
+| [By publisher](./publishers/README.md) | 1,152 publishers, sortable by installs or app count |
+| [Alphabetical](./alphabetical/a.md) | every app, A–Z |
 | [Recent](./recent.md) | newest releases and updates |
 | [Changelog](./CHANGELOG.md) | apps added, removed, and updated per sync |
 
-## Categories
+## By section
 
-| Category | Apps | Installs |
-| --- | --- | --- |
-| [Productivity](./categories/productivity.md) | 499 | 5,447 |
-| [Utilities](./categories/utilities.md) | 383 | 5,819 |
-| [Developer Tools](./categories/developer-tools.md) | 311 | 7,490 |
-| [Media](./categories/media.md) | 130 | 4,564 |
-| [Design](./categories/design.md) | 93 | 1,494 |
-| [Games & Fun](./categories/games-fun.md) | 85 | 771 |
-| [Lifestyle](./categories/lifestyle.md) | 52 | 387 |
+| Section | Categories | Apps | Installs |
+| --- | --- | --- | --- |
+| Work & Productivity | Productivity | 499 | 5,454 |
+| Development | Developer Tools | 311 | 7,490 |
+| System & Utilities | Utilities | 383 | 5,819 |
+| Creative & Media | Design, Media | 223 | 6,059 |
+| Life & Play | Lifestyle, Games & Fun | 137 | 1,158 |
 
 ## Most installed
 
@@ -43,4 +42,6 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 ## How this stays up to date
 
-A scheduled job runs `node scripts/glaze-catalog/sync.mjs --push`. Glaze's backend requires an API key, so the store page's server-rendered payload is parsed instead — one request, no credentials. Every run diffs against [`data/apps.json`](./data/apps.json); the JSON always tracks current install counts, while these pages are regenerated when an app is added, removed or updated, when the top 50 install ranking moves, or once a day regardless. Runs that find nothing meaningful make no commit.
+A scheduled job runs `node scripts/glaze-catalog/sync.mjs --push`. Glaze's backend requires an API key, so the store's own public search endpoint is queried per category — one request each, no credentials — and the union is the whole store. Every run diffs against [`data/apps.json`](./data/apps.json); the JSON always tracks current install counts, while these pages are regenerated when an app is added, removed or updated, when the top 50 install ranking moves, or once a day regardless.
+
+Topics below each category are not a fixed list: curated keyword rules (`scripts/glaze-catalog/taxonomy.mjs`) provide the first split, then frequent-term mining promotes emergent topics out of "General" (marked ✦) and keeps splitting any group that still yields at least two coherent subgroups of 4+ apps.

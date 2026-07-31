@@ -2,22 +2,23 @@
 /**
  * Glaze app store catalog generator & sync.
  *
- * Companion to scripts/extension-catalog for https://www.glaze.app/store.
- * Same idea — an organized, auto-maintained, install-ranked index that only
- * commits when something meaningful changed — but flatter: the Glaze store is
- * ~1,550 apps across 7 first-party categories, and unlike Raycast extensions
- * those categories have no sub-structure to mine, while most publishers ship
- * a single app. So this generates ~15 pages rather than the extension
- * catalog's ~650, paginating only the full ranking.
+ * Companion to scripts/extension-catalog for https://www.glaze.app/store,
+ * organized the same way: categories grouped under editorial sections, each
+ * category split into curated topics (taxonomy.mjs) with emergent topics
+ * mined out of the remainder and nested as deep as the data supports
+ * (../shared/organize.mjs), plus publisher, alphabetical and ranked views.
+ * Glaze ships only 7 flat categories and no sub-structure of its own, so that
+ * second level is derived here.
  *
  * Outputs (all under glaze/):
- *   data/apps.json          machine-readable state, used for diffing runs
- *   README.md               stats + index + top installs
- *   ranked/                 every app ranked by installs (paginated)
- *   categories/<slug>.md    one page per Glaze category
- *   publishers.md           every publisher, ranked by total installs
- *   recent.md               recently published/updated apps
- *   CHANGELOG.md            added/removed/updated log, newest first
+ *   data/apps.json           machine-readable state, used for diffing runs
+ *   README.md                stats + section summary + top installs
+ *   categories/<slug>/       topic tree per category (nested)
+ *   ranked/                  every app ranked by installs (paginated)
+ *   publishers/              leaderboard (2 orderings), A–Z, per-publisher pages
+ *   alphabetical/<letter>.md every app, A–Z
+ *   recent.md                recently published/updated apps
+ *   CHANGELOG.md             added/removed/updated log, newest first
  *
  * Usage: node scripts/glaze-catalog/sync.mjs [--force] [--commit] [--push]
  */
@@ -26,6 +27,13 @@ import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { fetchGlazeApps } from "./fetch.mjs";
+import { classify, subcategoriesOf, sectionsForCategory, CATEGORY_SECTIONS } from "./taxonomy.mjs";
+import {
+  AUTO_LEGEND,
+  buildCategoryTree,
+  nodeLabel,
+  sectionizeNodes,
+} from "../shared/organize.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
 const OUT_DIR = path.join(ROOT, "glaze");
@@ -40,6 +48,12 @@ const RANK_WATCH_N = 50;
 const MAX_STALE_MS = 24 * 60 * 60 * 1000;
 // Rows per page in the ranked view (the store is ~1.5k apps).
 const RANK_PAGE = 500;
+// A topic node bigger than this gets its own page per child instead of inline
+// sections; auto-discovered groups need at least MIN_GROUP members.
+const SPLIT_THRESHOLD = 120;
+const MIN_GROUP = 4;
+// Publishers with at least this many apps get their own page.
+const BIG_PUBLISHER = 4;
 
 const args = new Set(process.argv.slice(2));
 const FORCE = args.has("--force");
@@ -80,6 +94,18 @@ const slugOf = (s) =>
   String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
 
 const installsOf = (a) => (a.installs == null ? -1 : a.installs);
+
+/** First letter for A–Z bucketing; anything non-alphabetic lands in "0-9". */
+function letterOf(s) {
+  const c = String(s).trim().charAt(0).toUpperCase();
+  return c >= "A" && c <= "Z" ? c : "0-9";
+}
+
+function letterNav(letters, current, prefix = "./") {
+  return letters
+    .map((l) => (l === current ? `**${l}**` : `[${l}](${prefix}${l.toLowerCase()}.md)`))
+    .join(" · ");
+}
 
 function byName(a, b) {
   return a.name.localeCompare(b.name, "en") || a.publicId.localeCompare(b.publicId);
@@ -122,9 +148,12 @@ const detailRow = (a) =>
 const detailTable = (apps) => [...DETAIL_HEAD, ...[...apps].sort(byInstalls).map(detailRow)].join("\n");
 
 // --- page generation --------------------------------------------------------
-
 function generate(apps) {
-  rmSync(path.join(OUT_DIR, "categories"), { recursive: true, force: true });
+  for (const d of ["categories", "ranked", "publishers", "alphabetical"]) {
+    rmSync(path.join(OUT_DIR, d), { recursive: true, force: true });
+  }
+  // Older builds emitted flat pages at these paths; drop them so they can't linger.
+  for (const f of ["ranked.md", "publishers.md"]) rmSync(path.join(OUT_DIR, f), { force: true });
   mkdirSync(path.join(OUT_DIR, "data"), { recursive: true });
 
   const ranked = [...apps].sort(byInstalls);
@@ -132,42 +161,43 @@ function generate(apps) {
 
   const byCat = groupBy(apps, (a) => a.category);
   const catInstalls = (c) => byCat.get(c).reduce((s, a) => s + (a.installs ?? 0), 0);
-  const cats = [...byCat.keys()].sort(
-    (a, b) => byCat.get(b).length - byCat.get(a).length || a.localeCompare(b, "en"),
-  );
+  const cats = [...byCat.keys()];
 
-  const byPub = groupBy(
-    apps.filter((a) => a.publisher),
-    (a) => a.publisher,
-  );
-  const pubInstalls = (p) => byPub.get(p).reduce((s, a) => s + (a.installs ?? 0), 0);
+  const treeOpts = {
+    classify,
+    subcategoriesOf,
+    slugify: slugOf,
+    sortEntries: byInstalls,
+    textOf: (a) => `${a.name} ${a.tagline} ${a.description}`,
+    minGroup: MIN_GROUP,
+  };
 
-  // ---- categories ----
+  // ---- categories: sections -> curated subcategories -> mined topics ----
   for (const c of cats) {
     const items = byCat.get(c);
-    writePage(`categories/${slugOf(c)}.md`, [
+    const tree = buildCategoryTree(items, c, treeOpts);
+    const dirRel = `categories/${slugOf(c)}`;
+    const linkOf = new Map(tree.map((n) => [n, renderNode(n, dirRel, c)]));
+    writePage(`${dirRel}/README.md`, [
       `# ${c}`,
       "",
-      `${items.length} app${items.length === 1 ? "" : "s"} · ${fmtNum(catInstalls(c))} installs · sorted by installs · [← Glaze catalog](../README.md)`,
-      "",
-      detailTable(items),
+      `${items.length} app${items.length === 1 ? "" : "s"} · ${fmtNum(catInstalls(c))} installs · [← all categories](../README.md)`,
+      ...sectionedTopicLines(c, tree, (n) => linkOf.get(n)),
     ]);
   }
+  writePage("categories/README.md", [
+    "# Categories",
+    "",
+    `${cats.length} categories · [← Glaze catalog](../README.md)`,
+    ...categorySectionLines(cats, (c) => byCat.get(c).length, (c) => `./${slugOf(c)}/README.md`, catInstalls),
+  ]);
 
   // ---- ranked (paginated) ----
-  rmSync(path.join(OUT_DIR, "ranked"), { recursive: true, force: true });
-  // Older builds emitted a single ranked.md; drop it so it can't linger stale.
-  rmSync(path.join(OUT_DIR, "ranked.md"), { force: true });
   const rankPages = Math.max(1, Math.ceil(ranked.length / RANK_PAGE));
   const rankNav = (active) =>
     Array.from({ length: rankPages }, (_, i) =>
       i + 1 === active ? `**${i + 1}**` : `[${i + 1}](./${i + 1}.md)`,
     ).join(" · ");
-  const rankRow = (a, i) =>
-    `| ${i} | ${appLink(a)} | ${fmtNum(a.installs)} | ${a.category} | ${mdEscape(
-      a.publisher ?? "—",
-      40,
-    )} | ${a.version ?? "—"} |`;
   for (let p = 0; p < rankPages; p++) {
     const slice = ranked.slice(p * RANK_PAGE, (p + 1) * RANK_PAGE);
     const from = p * RANK_PAGE + 1;
@@ -180,7 +210,13 @@ function generate(apps) {
       "",
       "| # | App | Installs | Category | Publisher | Version |",
       "| --- | --- | --- | --- | --- | --- |",
-      ...slice.map((a, j) => rankRow(a, from + j)),
+      ...slice.map(
+        (a, j) =>
+          `| ${from + j} | ${appLink(a)} | ${fmtNum(a.installs)} | ${a.category} | ${mdEscape(
+            a.publisher ?? "—",
+            40,
+          )} | ${a.version ?? "—"} |`,
+      ),
     ]);
   }
   writePage("ranked/README.md", [
@@ -193,32 +229,116 @@ function generate(apps) {
     "Start at [page 1](./1.md) for the most-installed apps.",
   ]);
 
-  // ---- publishers ----
-  const pubRows = [...byPub.keys()]
-    .sort(
+  // ---- publishers: leaderboard (two orderings) + A–Z + pages for big ones ----
+  const byPub = groupBy(apps.filter((a) => a.publisher), (a) => a.publisher);
+  const publishers = [...byPub.keys()];
+  const pubInstalls = (p) => byPub.get(p).reduce((s, a) => s + (a.installs ?? 0), 0);
+  const isBig = (p) => byPub.get(p).length >= BIG_PUBLISHER;
+
+  const pubSlug = new Map();
+  {
+    const used = new Set();
+    for (const p of publishers.filter(isBig)) {
+      let s = slugOf(p) || "publisher";
+      while (used.has(s)) s += "-x";
+      used.add(s);
+      pubSlug.set(p, s);
+    }
+  }
+  const pubDisplay = (p) =>
+    isBig(p) ? `[${mdEscape(p, 60)}](./id/${pubSlug.get(p)}.md)` : mdEscape(p, 60);
+
+  // A page per prolific publisher, their apps grouped by category.
+  for (const p of publishers.filter(isBig)) {
+    const items = byPub.get(p);
+    const grouped = groupBy(items, (a) => a.category);
+    const gcats = [...grouped.keys()].sort(
       (a, b) =>
-        pubInstalls(b) - pubInstalls(a) ||
-        byPub.get(b).length - byPub.get(a).length ||
-        a.toLowerCase().localeCompare(b.toLowerCase(), "en"),
-    )
-    .map((p, i) => {
+        grouped.get(b).reduce((s, x) => s + (x.installs ?? 0), 0) -
+          grouped.get(a).reduce((s, x) => s + (x.installs ?? 0), 0) || a.localeCompare(b, "en"),
+    );
+    const lines = [
+      `# ${mdEscape(p, 80)}`,
+      "",
+      `${items.length} apps · ${fmtNum(pubInstalls(p))} installs · [← publishers](../README.md)`,
+    ];
+    for (const c of gcats) {
+      lines.push("", `## ${c} (${grouped.get(c).length})`, "", detailTable(grouped.get(c)));
+    }
+    writePage(`publishers/id/${pubSlug.get(p)}.md`, lines);
+  }
+
+  // A–Z lookup pages.
+  const alphaPubs = [...publishers].sort(
+    (a, b) => a.toLowerCase().localeCompare(b.toLowerCase(), "en") || a.localeCompare(b, "en"),
+  );
+  const pubByLetter = groupBy(alphaPubs, (p) => letterOf(p));
+  const pubLetters = [...pubByLetter.keys()].sort();
+  for (const letter of pubLetters) {
+    const rows = pubByLetter.get(letter).map((p) => {
       const items = [...byPub.get(p)].sort(byInstalls);
-      return `| ${i + 1} | ${mdEscape(p, 60)} | ${items.length} | ${fmtNum(pubInstalls(p))} | ${items
-        .map(appLink)
-        .join(", ")} |`;
+      const cell = isBig(p)
+        ? `[see all ${items.length} →](./id/${pubSlug.get(p)}.md)`
+        : items.map((a) => `${appLink(a)} *(${a.category})*`).join(", ");
+      return `| ${pubDisplay(p)} | ${items.length} | ${fmtNum(pubInstalls(p))} | ${cell} |`;
     });
-  writePage("publishers.md", [
+    writePage(`publishers/${letter.toLowerCase()}.md`, [
+      `# Publishers — ${letter}`,
+      "",
+      letterNav(pubLetters, letter),
+      "",
+      `${pubByLetter.get(letter).length} publishers · [← publisher index](./README.md)`,
+      "",
+      "| Publisher | Apps | Installs | Apps |",
+      "| --- | --- | --- | --- |",
+      ...rows,
+    ]);
+  }
+
+  const stats = publishers.map((p) => ({ p, count: byPub.get(p).length, installs: pubInstalls(p) }));
+  const byInst = [...stats].sort(
+    (a, b) => b.installs - a.installs || b.count - a.count || a.p.toLowerCase().localeCompare(b.p.toLowerCase(), "en"),
+  );
+  const byCount = [...stats].sort(
+    (a, b) => b.count - a.count || b.installs - a.installs || a.p.toLowerCase().localeCompare(b.p.toLowerCase(), "en"),
+  );
+  const pubRow = (r, i) => `| ${i + 1} | ${pubDisplay(r.p)} | ${r.count} | ${fmtNum(r.installs)} |`;
+  const pubHead = (activeInstalls) => [
     "# Publishers",
     "",
-    `${byPub.size} publishers, ranked by total installs · [← Glaze catalog](./README.md)`,
+    `${publishers.length} publishers · [← Glaze catalog](../README.md)`,
     "",
-    "| # | Publisher | Apps | Installs | Apps |",
-    "| --- | --- | --- | --- | --- |",
-    ...pubRows,
-  ]);
+    "**Sort:** " +
+      (activeInstalls ? "**Installs**" : "[Installs](./README.md)") +
+      " · " +
+      (activeInstalls ? "[Apps](./by-apps.md)" : "**Apps**"),
+    "",
+    letterNav(pubLetters, null),
+    "",
+    "| # | Publisher | Apps | Installs |",
+    "| --- | --- | --- | --- |",
+  ];
+  writePage("publishers/README.md", [...pubHead(true), ...byInst.map(pubRow)]);
+  writePage("publishers/by-apps.md", [...pubHead(false), ...byCount.map(pubRow)]);
+
+  // ---- alphabetical ----
+  const byLetter = groupBy(apps, (a) => letterOf(a.name));
+  const letters = [...byLetter.keys()].sort();
+  for (const letter of letters) {
+    const items = [...byLetter.get(letter)].sort((a, b) => byName(a, b));
+    writePage(`alphabetical/${letter.toLowerCase()}.md`, [
+      `# Apps — ${letter}`,
+      "",
+      letterNav(letters, letter),
+      "",
+      `${items.length} app${items.length === 1 ? "" : "s"} · [← Glaze catalog](../README.md)`,
+      "",
+      detailTable(items),
+    ]);
+  }
 
   // ---- recent ----
-  const recent = [...apps].sort(byUpdated).slice(0, 30);
+  const recent = [...apps].sort(byUpdated).slice(0, 60);
   writePage("recent.md", [
     "# Recently published & updated",
     "",
@@ -235,31 +355,45 @@ function generate(apps) {
   ]);
 
   // ---- index ----
+  const coveredCats = new Set(CATEGORY_SECTIONS.flatMap(([, cs]) => cs));
+  const sectionSummary = [
+    ...CATEGORY_SECTIONS.map(([title, cs]) => [title, cs.filter((c) => byCat.has(c))]),
+    ["More", cats.filter((c) => !coveredCats.has(c))],
+  ]
+    .filter(([, cs]) => cs.length)
+    .map(([title, cs]) => [
+      title,
+      cs,
+      cs.reduce((s, c) => s + byCat.get(c).length, 0),
+      cs.reduce((s, c) => s + catInstalls(c), 0),
+    ]);
+
   writePage("README.md", [
     "# Glaze Store Catalog",
     "",
     `An organized, auto-maintained index of every public app in the [Glaze Store](${STORE_URL}).`,
     "",
-    `**${apps.length}** apps · **${cats.length}** categories · **${byPub.size}** publishers · **${fmtNum(
-      totalInstalls,
-    )}** installs`,
+    `**${fmtNum(apps.length)}** apps · **${cats.length}** categories · **${fmtNum(
+      publishers.length,
+    )}** publishers · **${fmtNum(totalInstalls)}** installs`,
     "",
     "## Browse",
     "",
     "| View | |",
     "| --- | --- |",
     "| [By installs](./ranked/README.md) | every app ranked by install count |",
-    "| [By category](#categories) | the store's own categories, install-sorted |",
-    "| [By publisher](./publishers.md) | every publisher, ranked by total installs |",
+    `| [By category](./categories/README.md) | ${cats.length} categories → curated topics → auto-discovered groups (✦), nested as deep as the data supports |`,
+    `| [By publisher](./publishers/README.md) | ${fmtNum(publishers.length)} publishers, sortable by installs or app count |`,
+    `| [Alphabetical](./alphabetical/${letters[0].toLowerCase()}.md) | every app, A–Z |`,
     "| [Recent](./recent.md) | newest releases and updates |",
     "| [Changelog](./CHANGELOG.md) | apps added, removed, and updated per sync |",
     "",
-    "## Categories",
+    "## By section",
     "",
-    "| Category | Apps | Installs |",
-    "| --- | --- | --- |",
-    ...cats.map(
-      (c) => `| [${c}](./categories/${slugOf(c)}.md) | ${byCat.get(c).length} | ${fmtNum(catInstalls(c))} |`,
+    "| Section | Categories | Apps | Installs |",
+    "| --- | --- | --- | --- |",
+    ...sectionSummary.map(
+      ([title, cs, n, inst]) => `| ${title} | ${cs.join(", ")} | ${fmtNum(n)} | ${fmtNum(inst)} |`,
     ),
     "",
     "## Most installed",
@@ -278,8 +412,119 @@ function generate(apps) {
     "",
     "## How this stays up to date",
     "",
-    `A scheduled job runs \`node scripts/glaze-catalog/sync.mjs --push\`. Glaze's backend requires an API key, so the store page's server-rendered payload is parsed instead — one request, no credentials. Every run diffs against [\`data/apps.json\`](./data/apps.json); the JSON always tracks current install counts, while these pages are regenerated when an app is added, removed or updated, when the top ${RANK_WATCH_N} install ranking moves, or once a day regardless. Runs that find nothing meaningful make no commit.`,
+    `A scheduled job runs \`node scripts/glaze-catalog/sync.mjs --push\`. Glaze's backend requires an API key, so the store's own public search endpoint is queried per category — one request each, no credentials — and the union is the whole store. Every run diffs against [\`data/apps.json\`](./data/apps.json); the JSON always tracks current install counts, while these pages are regenerated when an app is added, removed or updated, when the top ${RANK_WATCH_N} install ranking moves, or once a day regardless.`,
+    "",
+    `Topics below each category are not a fixed list: curated keyword rules (\`scripts/glaze-catalog/taxonomy.mjs\`) provide the first split, then frequent-term mining promotes emergent topics out of "General" (marked ✦) and keeps splitting any group that still yields at least two coherent subgroups of ${MIN_GROUP}+ apps.`,
   ]);
+}
+
+/** Sectioned "table of topics" for a category index page. */
+function sectionedTopicLines(category, nodes, linkOf) {
+  const { sections, general } = sectionizeNodes(nodes, sectionsForCategory(category));
+  const lines = [];
+  for (const [title, list] of sections) {
+    lines.push(
+      "",
+      `## ${title}`,
+      "",
+      "| Topic | Apps | Installs |",
+      "| --- | --- | --- |",
+      ...list.map(
+        (n) =>
+          `| [${nodeLabel(n)}](${linkOf(n)}) | ${n.entries.length} | ${fmtNum(
+            n.entries.reduce((s, a) => s + (a.installs ?? 0), 0),
+          )} |`,
+      ),
+    );
+  }
+  if (general) {
+    lines.push(
+      "",
+      `Plus [General](${linkOf(general)}) — ${general.entries.length} app${
+        general.entries.length === 1 ? "" : "s"
+      } that don't fit a topic yet.`,
+    );
+  }
+  if (nodes.some((n) => n.auto)) lines.push("", `*${AUTO_LEGEND}*`);
+  return lines;
+}
+
+/** Categories grouped under editorial sections instead of one flat table. */
+function categorySectionLines(catNames, countOf, linkOf, installsOfCat) {
+  const present = new Set(catNames);
+  const covered = new Set(CATEGORY_SECTIONS.flatMap(([, cs]) => cs));
+  const sections = CATEGORY_SECTIONS.map(([title, cs]) => [title, cs.filter((c) => present.has(c))]);
+  const extra = catNames.filter((c) => !covered.has(c));
+  if (extra.length) sections.push(["More", extra]);
+
+  const lines = [];
+  for (const [title, cs] of sections) {
+    if (!cs.length) continue;
+    const ordered = [...cs].sort((a, b) => countOf(b) - countOf(a) || a.localeCompare(b, "en"));
+    lines.push(
+      "",
+      `## ${title}`,
+      "",
+      "| Category | Apps | Installs |",
+      "| --- | --- | --- |",
+      ...ordered.map((c) => `| [${c}](${linkOf(c)}) | ${countOf(c)} | ${fmtNum(installsOfCat(c))} |`),
+    );
+  }
+  return lines;
+}
+
+/**
+ * Renders a topic node. Leaves become a table page; small internal nodes
+ * render inline sections on one page; larger ones become a directory with an
+ * index plus child pages. Returns the link target from the parent's directory.
+ */
+function renderNode(node, parentDirRel, parentTitle) {
+  const total = node.entries.length;
+  const count = `${total} app${total === 1 ? "" : "s"}`;
+  const backSame = `[← ${parentTitle}](./README.md)`;
+  const backUp = `[← ${parentTitle}](../README.md)`;
+
+  if (!node.children.length) {
+    writePage(`${parentDirRel}/${node.slug}.md`, [
+      `# ${nodeLabel(node)}`,
+      "",
+      `${count} · ${backSame}`,
+      ...(node.auto ? ["", `*${AUTO_LEGEND}*`] : []),
+      "",
+      detailTable(node.entries),
+    ]);
+    return `./${node.slug}.md`;
+  }
+
+  const allLeaves = node.children.every((c) => !c.children.length);
+  if (total <= SPLIT_THRESHOLD && allLeaves) {
+    const lines = [
+      `# ${nodeLabel(node)}`,
+      "",
+      `${count} · ${backSame}`,
+      "",
+      node.children.map((c) => `[${nodeLabel(c)}](#${slugOf(c.title)}) (${c.entries.length})`).join(" · "),
+    ];
+    if (node.children.some((c) => c.auto)) lines.push("", `*${AUTO_LEGEND}*`);
+    for (const c of node.children) lines.push("", `## ${nodeLabel(c)}`, "", detailTable(c.entries));
+    writePage(`${parentDirRel}/${node.slug}.md`, lines);
+    return `./${node.slug}.md`;
+  }
+
+  const dirRel = `${parentDirRel}/${node.slug}`;
+  const childLinks = node.children.map((c) => renderNode(c, dirRel, node.title));
+  const lines = [
+    `# ${nodeLabel(node)}`,
+    "",
+    `${count} · ${backUp}`,
+    "",
+    "| Topic | Apps |",
+    "| --- | --- |",
+    ...node.children.map((c, i) => `| [${nodeLabel(c)}](${childLinks[i]}) | ${c.entries.length} |`),
+  ];
+  if (node.children.some((c) => c.auto)) lines.push("", `*${AUTO_LEGEND}*`);
+  writePage(`${dirRel}/README.md`, lines);
+  return `./${node.slug}/README.md`;
 }
 
 // --- changelog --------------------------------------------------------------

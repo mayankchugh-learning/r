@@ -1,0 +1,11 @@
+# Typing & Reflex
+
+5 apps · [← Games & Fun](./README.md)
+
+| App | Installs | Description | Publisher | Version | Size | Updated |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Silly Sounds](https://www.glaze.app/app/e8Qzum) | 77 | Play hilarious sound effects at the tap of a button for instant entertainment | Thomas Paul Mann | 1.0.1 | 0.6 MB | 2026-03-05 |
+| [FreeToGame](https://www.glaze.app/app/HX7ecf) | 14 | Discover the best free-to-play PC games! | alexi.build | 3.0.0 | 0.1 MB | 2026-07-05 |
+| [TapSense](https://www.glaze.app/app/YVEeWb) | 3 | Measure your reaction time and rhythm | Srinivas Jonna | 1.0.0 | 0.0 MB | 2026-05-01 |
+| [Hoops](https://www.glaze.app/app/FhuF5w) | 1 | Throw some hoops ! | Soeren.Poppe | 1.0.0 | 0.0 MB | 2026-07-27 |
+| [Lero Lero](https://www.glaze.app/app/8DA6Ry) | 0 | Generate hilarious tech jokes instantly | Olavo Parno | 1.0.0 | 0.1 MB | 2026-07-18 |

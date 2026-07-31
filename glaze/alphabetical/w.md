@@ -1,0 +1,62 @@
+# Apps — W
+
+[A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · **W** · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
+
+54 apps · [← Glaze catalog](../README.md)
+
+| App | Installs | Description | Publisher | Version | Size | Updated |
+| --- | --- | --- | --- | --- | --- | --- |
+| [World Cup 2026](https://www.glaze.app/app/PtePF9) | 1,468 | Browse World Cup 2026 matches and teams | Thomas Paul Mann | 29.0.0 | 0.7 MB | 2026-07-19 |
+| [Winamp](https://www.glaze.app/app/naNtIA) | 131 | The classic music player, now on macOS | Alex Antonov | 1.0.0 | 0.3 MB | 2026-04-16 |
+| [Window](https://www.glaze.app/app/RXSuMU) | 24 | Weather, reimagined as light. | Sean Thomas Stuart | 2.0.0 | 0.1 MB | 2026-07-19 |
+| [Word Guesser](https://www.glaze.app/app/nAsjJi) | 23 | Guess the five-letter word in six tries with helpful color feedback | Andreas Elia | 2.0.1 | 0.1 MB | 2026-03-09 |
+| [Weekly Ship](https://www.glaze.app/app/nXlknB) | 22 | Summarize your GitHub week with AI | Samuel Kraft | 3.0.0 | 0.0 MB | 2026-06-04 |
+| [Whoosh](https://www.glaze.app/app/X9IHOo) | 19 | Generate cinematic whoosh sound effects | Unreal | 1.0.0 | 0.1 MB | 2026-07-06 |
+| [Worktree Manager](https://www.glaze.app/app/bjWS2n) | 19 | Organize all your git worktrees easily | Mario Juárez | 1.0.0 | 0.1 MB | 2026-07-02 |
+| [World Reader](https://www.glaze.app/app/rj9keL) | 17 | Discover books from every country through personalized recommendations and track your global reading journey | Alexis d'Amecourt | 1.0.1 | 0.4 MB | 2026-03-12 |
+| [Wheel Launcher](https://www.glaze.app/app/SmYxn5) | 14 | Quick app switching | ajnart | 1.0.0 | 0.1 MB | 2026-06-20 |
+| [World FM Cassette](https://www.glaze.app/app/POhOpF) | 12 | Stream radio stations Cassette | sergio frassanito | 1.0.0 | 0.1 MB | 2026-07-01 |
+| [Webhook Hub](https://www.glaze.app/app/He88jf) | 11 | Create & manage webhooks, local or cloud | Ch1rag | 6.0.0 | 0.1 MB | 2026-07-10 |
+| [Wordle Daily](https://www.glaze.app/app/PK5SJc) | 11 | Guess the word in six tries every day | extrastu | 1.0.0 | 0.1 MB | 2026-07-02 |
+| [Wolog](https://www.glaze.app/app/bDdnf8) | 10 | Your work, remembered. | Akshara Hegde | 1.0.0 | 0.1 MB | 2026-07-04 |
+| [Window Peek](https://www.glaze.app/app/K1ZTpe) | 9 | Preview windows without app switching | Saidheeraj Gollu | 1.0.0 | 0.1 MB | 2026-04-29 |
+| [Window Switcher](https://www.glaze.app/app/uBBU8D) | 8 | Switch between Mac windows like Windows | Amethesh Lgp | 1.0.0 | 0.1 MB | 2026-07-24 |
+| [Week Counter](https://www.glaze.app/app/U3roAD) | 7 | Track weeks and days from any date | Glazeapp | 1.0.0 | 0.1 MB | 2026-07-05 |
+| [WidgetGrid](https://www.glaze.app/app/oil9CK) | 7 | Design your Mac's desktop, your way. | Soeren.Poppe | 4.0.0 | 0.2 MB | 2026-07-29 |
+| [Wordmark](https://www.glaze.app/app/S0LAXC) | 7 | Select a word, keep it, learn it. | Mickey Oh | 1.0.0 | 0.1 MB | 2026-07-28 |
+| [Worklog](https://www.glaze.app/app/cYeMGn) | 7 | Log your day with timestamps and tasks | Hugo Schmitt | 1.0.0 | 0.1 MB | 2026-07-02 |
+| [World Cup Tracker](https://www.glaze.app/app/ORfSc3) | 7 | Track live World Cup scores | Michael Zahn | 1.0.0 | 0.1 MB | 2026-07-04 |
+| [Wallpaper Selector](https://www.glaze.app/app/F2kOkt) | 6 | Change wallpapers from your menu bar | Zmikula | 2.0.0 | 0.1 MB | 2026-07-04 |
+| [White Noise](https://www.glaze.app/app/Tr2BwL) | 6 | Real-time white noise for focus | Tommy | 1.0.0 | 0.1 MB | 2026-07-10 |
+| [Winamp macOS](https://www.glaze.app/app/dPhFjU) | 6 | Play your MP3s and WAVs locally on Mac | Ruslan Magzum | 3.0.0 | 0.2 MB | 2026-07-24 |
+| [Word Connections](https://www.glaze.app/app/Xt8TcC) | 6 | Find hidden connections between words by grouping related terms into categories | Andreas Elia | 1.0.1 | 0.2 MB | 2026-03-06 |
+| [Wayfinding](https://www.glaze.app/app/joKzw2) | 5 | Discover every app on your Mac instantly | Shuhari | 1.0.0 | 0.1 MB | 2026-07-01 |
+| [Whisper Wrapper](https://www.glaze.app/app/VWE4ie) | 5 | Transcribe and summarize meetings | Eldar Khuzin | 1.0.0 | 0.1 MB | 2026-06-12 |
+| [Wishlist](https://www.glaze.app/app/bdkrvX) | 5 | Curate and organize items you want to | Leonidas Fragkioudakis | 1.0.0 | 0.1 MB | 2026-07-06 |
+| [Worktree](https://www.glaze.app/app/ki2IFx) | 5 | Manage git worktrees effortlessly | Eitel Dagnin | 1.0.0 | 0.1 MB | 2026-07-03 |
+| [WriteOn](https://www.glaze.app/app/Vunquu) | 5 | Modern word processor with classic feels | Lee Sherman | 5.0.0 | 0.1 MB | 2026-07-13 |
+| [webp to PNG](https://www.glaze.app/app/ms1HCr) | 4 | Convert WebP images to PNG instantly | TONOS | 2.0.0 | 0.3 MB | 2026-07-02 |
+| [Western ExpatMap](https://www.glaze.app/app/VTRYM0) | 4 | Find your ideal Western country to live | Check My blog (www.lhumain.info) | 4.0.0 | 0.1 MB | 2026-07-05 |
+| [Window Arrange](https://www.glaze.app/app/xBybc5) | 4 | Snap windows into perfect layouts fast | Juan Alejandre | 1.0.0 | 0.1 MB | 2026-07-26 |
+| [Word Counter](https://www.glaze.app/app/weVv8k) | 4 | Instantly count words and characters | Shearm | 3.0.0 | 0.1 MB | 2026-06-25 |
+| [Word of the Day](https://www.glaze.app/app/6q8hl9) | 4 | Build your vocabulary every single day. | Zeeshan Ahmad | 1.0.0 | 0.1 MB | 2026-06-27 |
+| [Writ](https://www.glaze.app/app/2zQc99) | 4 | Write like in Craft, but all local | Rubens Nook | 1.0.0 | 0.1 MB | 2026-07-13 |
+| [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) | 3 | Set and manage Mac desktop backgrounds | freddy | 1.0.0 | 0.1 MB | 2026-07-17 |
+| [Watch Later](https://www.glaze.app/app/07KEGm) | 3 | Save videos, organize, watch anytime. | Kofi Amoussou | 6.0.0 | 0.1 MB | 2026-07-27 |
+| [Watch Later](https://www.glaze.app/app/yD6S6w) | 3 | Save and organize YouTube videos to | Goran Vukovic | 2.0.0 | 0.1 MB | 2026-07-26 |
+| [WatterBuddy](https://www.glaze.app/app/dwjGG5) | 3 | Get friendly reminders to drink water | Bhavik Hingu | 2.0.0 | 2.4 MB | 2026-07-13 |
+| [Web to MD](https://www.glaze.app/app/7jKDdm) | 3 | Turn any webpage into clean Markdown | Gleb Shalimov | 2.0.0 | 5.3 MB | 2026-07-23 |
+| [What should I play?](https://www.glaze.app/app/ZzCJLk) | 3 | Never wonder what game to play again | Markus Käding | 4.0.0 | 0.1 MB | 2026-07-29 |
+| [WordPress Recon](https://www.glaze.app/app/zBgB3y) | 3 | See what your WordPress site reveals | Dmytro Lobov | 6.0.0 | 0.1 MB | 2026-07-29 |
+| [Web Wallpaper](https://www.glaze.app/app/AimmJ2) | 2 | Turn any webpage into your wallpaper | Max Battleman | 1.0.0 | 0.1 MB | 2026-07-20 |
+| [while...](https://www.glaze.app/app/hk0xeC) | 2 | Quick games, whenever you need a break | Alex | 1.0.0 | 0.0 MB | 2026-07-27 |
+| [Who’s LIVE](https://www.glaze.app/app/nqAnwL) | 2 | Track live streams from every platform | Delvison Marte | 1.0.0 | 0.1 MB | 2026-06-27 |
+| [World Time](https://www.glaze.app/app/HDtRH3) | 2 | View multiple time zones at a glance | Yash | 1.0.0 | 0.1 MB | 2026-07-02 |
+| [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) | 1 | Fresh walls, every day on autopilot | Elior Boukhobza | 2.0.0 | 0.1 MB | 2026-07-27 |
+| [Watermark PRO](https://www.glaze.app/app/vIfGnp) | 1 | Batch watermark images and videos | Aleksandra Gramatchikova | 1.0.0 | 0.1 MB | 2026-07-13 |
+| [Whisker Rewards](https://www.glaze.app/app/imwPlX) | 1 | Cat-themed Reward Chart for Kids | Michael Clear | 1.0.0 | 0.1 MB | 2026-07-12 |
+| [WooPulse AI](https://www.glaze.app/app/cd6wTA) | 1 | Manage your WooCommerce store orders | Pedro Fonseca | 2.0.0 | 0.1 MB | 2026-07-29 |
+| [Work Faces](https://www.glaze.app/app/F11CCr) | 1 | Match names to faces on your Slack team | Tyom Semonov | 1.0.0 | 0.1 MB | 2026-07-07 |
+| [Worksheet Tracker](https://www.glaze.app/app/RGmoKM) | 1 | Track PDF worksheets and completion | Mary-Ann Horley | 2.0.0 | 1.6 MB | 2026-07-25 |
+| [Wrapped Desk](https://www.glaze.app/app/cnkwi6) | 1 | Summarize your work week with shareable | Priyanshu Jha | 1.0.0 | 0.1 MB | 2026-07-26 |
+| [Wallpaper Creator](https://www.glaze.app/app/FasYwi) | 0 | Wallpapers from Videos and Images | Max Battleman | 2.0.0 | 0.1 MB | 2026-07-27 |
