@@ -1,20 +1,20 @@
 # EvanZhouDev
 
-19 extensions · 162,882 downloads · [store](https://www.raycast.com/EvanZhouDev) · [← publishers](../README.md)
+19 extensions · 162,902 downloads · [store](https://www.raycast.com/EvanZhouDev) · [← publishers](../README.md)
 
 ## Productivity (10)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 74,345 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
-| [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 33,373 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
+| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 74,355 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
+| [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 33,378 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
 | [Google Bard](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai) | 12,254 | Perform Actions with Google Bard | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-bard-ai) |
 | [Memory](https://github.com/raycast/extensions/tree/main/extensions/memory) | 3,854 | Knowledge Graph Memory for Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/memory) |
 | [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research) | 3,446 | Iterative Deep Research powered by Raycast AI Extensions. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/research) |
-| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,017 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
+| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,018 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
 | [Google PaLM](https://github.com/raycast/extensions/tree/main/extensions/raycast-google-palm) | 826 | Use the Google PaLM 2 API in Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-google-palm) |
 | [Counter](https://github.com/raycast/extensions/tree/main/extensions/counter) | 670 | A simple counter, in the comfort of Raycast root! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/counter) |
-| [SVG64 - Convert SVGs to Base64 Strings](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) | 529 | Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-svg64) |
+| [SVG64 - Convert SVGs to Base64 Strings](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) | 530 | Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-svg64) |
 | [Link Lock - Password Locked Links](https://github.com/raycast/extensions/tree/main/extensions/raycast-link-lock) | 234 | Using shrtcode, protect any link with a password! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-link-lock) |
 
 ## Developer Tools (4)
@@ -38,10 +38,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 8,931 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
+| [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 8,933 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
 
 ## Other (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [SAT Scorer](https://github.com/raycast/extensions/tree/main/extensions/sat-scorer) | 21 | Calculate your SAT score based on problems correct. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/sat-scorer) |
+| [SAT Scorer](https://github.com/raycast/extensions/tree/main/extensions/sat-scorer) | 22 | Calculate your SAT score based on problems correct. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/sat-scorer) |

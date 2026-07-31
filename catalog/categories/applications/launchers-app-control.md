@@ -4,14 +4,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 39,412 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
-| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,101 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
-| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 7,978 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
-| [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,177 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
-| [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox) | 4,990 | Control Anybox with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/anybox) |
+| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 39,417 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
+| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,104 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
+| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 7,979 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
+| [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,178 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
+| [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox) | 4,991 | Control Anybox with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/anybox) |
 | [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity) | 3,231 | Control Antigravity directly from Raycast - Search and open recent projects, handle extensions and commands. | meshal | macOS | [store](https://www.raycast.com/meshal/antigravity) |
 | [OK JSON](https://github.com/raycast/extensions/tree/main/extensions/ok-json) | 2,709 | Control OK JSON with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/ok-json) |
-| [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 2,616 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
+| [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 2,617 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,368 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
 | [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,484 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
 | [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,413 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
@@ -34,7 +34,7 @@
 | [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) | 194 | Control your AirSync app directly from Raycast | sameerasw | macOS | [store](https://www.raycast.com/sameerasw/airsync) |
 | [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 153 | Control MuteDeck from Raycast | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/mutedeck) |
 | [WinSCP](https://github.com/raycast/extensions/tree/main/extensions/winscp) | 149 | Launch WinSCP sessions quickly from Raycast. | bossdaily | Windows | [store](https://www.raycast.com/bossdaily/winscp) |
-| [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 134 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
+| [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 135 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
 | [Leafcast](https://github.com/raycast/extensions/tree/main/extensions/leafcast) | 130 | Control your Nanoleaf panels with Raycast! Toggle power, set the current scene, and more. | syropian | macOS | [store](https://www.raycast.com/syropian/leafcast) |
 | [OctoPrint](https://github.com/raycast/extensions/tree/main/extensions/octoprint) | 112 | Control your OctoPrint printer from Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/octoprint) |
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 96 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |

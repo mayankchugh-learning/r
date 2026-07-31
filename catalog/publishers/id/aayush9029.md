@@ -1,18 +1,18 @@
 # Aayush9029
 
-16 extensions · 148,275 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
+16 extensions · 148,286 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 105,153 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
+| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 105,163 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
 
 ## Productivity (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 26,864 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
+| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 26,865 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
 
 ## Communication (1)
 

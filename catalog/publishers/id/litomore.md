@@ -1,6 +1,6 @@
 # litomore
 
-13 extensions · 12,328 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
+13 extensions · 12,330 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
 
 ## Design Tools (2)
 
@@ -13,8 +13,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,562 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
-| [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 758 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
+| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,563 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
+| [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 759 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 
 ## Developer Tools (3)
 
