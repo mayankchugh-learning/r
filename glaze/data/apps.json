@@ -1,9 +1,9 @@
 {
   "source": "https://www.glaze.app/store",
-  "fetchedAt": "2026-07-31T14:41:23.003Z",
+  "fetchedAt": "2026-07-31T14:43:22.339Z",
   "pagesGeneratedAt": "2026-07-31T14:37:26.472Z",
   "count": 1560,
-  "totalInstalls": 26303,
+  "totalInstalls": 26304,
   "apps": [
     {
       "publicId": "01mB0U",
@@ -25631,10 +25631,10 @@
       "description": "Your year as a landscape, your day as a circle.\n\nTraditional calendars are good at showing your next event, but not how your time fits together. Yearly / monthly views can often lose context or become too crowded, and the level of information given doesn’t match the view. \n\nRadical is a visual calendar, where you can see your time in new ways, ooo! Step back to understand your whole year and bigger plans, then zoom into a circular 24-hour view to focus on today.  \n\n- See the year at a glance: spot busy periods, open stretches and bigger plans in one continuous view. Show or hide the details depending on what you want to see.\n\n- See the shape of your day: events on a 24-hour clock can help visual thinkers and fellow neurodivergent folks like me! \n\n- Create events by typing naturally: type “tomorrow at 2pm” or “next Friday”. \n\n- Interact with your calendar, Raycast-style: navigate dates, switch views and create events with fast shortcuts.\n\n- Understand global time: see other time zones directly against your own day (ideal for distributed teams!).",
       "categorySlug": "productivity",
       "category": "Productivity",
-      "installs": 288,
+      "installs": 289,
       "sizeBytes": 154282,
       "version": "5.0.0",
-      "updatedAt": "2026-07-31 14:16:59.247223+00",
+      "updatedAt": "2026-07-31 14:42:09.217861+00",
       "createdAt": "2026-07-28 00:39:47.750296+00",
       "publishedAt": "2026-07-30T14:33:22.971Z",
       "publisher": "Maya Avendaño",
