@@ -1,9 +1,12 @@
 # Recently published & updated
 
-Newest 60 of 1556 apps by last release · [← Glaze catalog](./README.md)
+Newest 60 of 1557 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
+| [Neovim Notes](https://www.glaze.app/app/35eP2I) | 2026-07-31 | 8.0.0 | 3 | Productivity | Daniele Avitabile |
+| [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 2026-07-31 | 16.0.0 | 31 | Developer Tools | Dhruv Suthar |
+| [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 2026-07-31 | 1.0.0 | 1 | Utilities | Volodymyr Slipak |
 | [Sleepwalker](https://www.glaze.app/app/sleepwalker-Twm2r3) | 2026-07-31 | 2.0.0 | 1 | Utilities | Léo Tuil |
 | [LinkChecker](https://www.glaze.app/app/qVMVv9) | 2026-07-31 | 6.0.0 | 3 | Developer Tools | Dmytro Lobov |
 | [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 2026-07-31 | 8.0.0 | 1 | Media | Davidestevens |
@@ -37,10 +40,10 @@ Newest 60 of 1556 apps by last release · [← Glaze catalog](./README.md)
 | [After Sweep](https://www.glaze.app/app/after-sweep-V06h0g) | 2026-07-30 | 1.0.0 | 0 | Developer Tools | Jeff Watson |
 | [Tagger](https://www.glaze.app/app/tagger-RQxdqF) | 2026-07-30 | 2.0.0 | 1 | Utilities | Davidestevens |
 | [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) | 2026-07-30 | 2.0.0 | 1 | Developer Tools | WebSmith |
-| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 2026-07-30 | 9.0.0 | 89 | Utilities | lexav |
+| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 2026-07-30 | 9.0.0 | 90 | Utilities | lexav |
 | [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 2026-07-30 | 1.0.0 | 2 | Productivity | Ermek Barmashev |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 11.0.0 | 176 | Design | Noman |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 2026-07-30 | 5.0.0 | 279 | Productivity | Maya Avendaño |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 11.0.0 | 178 | Design | Noman |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 2026-07-30 | 5.0.0 | 284 | Productivity | Maya Avendaño |
 | [Verbatim](https://www.glaze.app/app/verbatim-oe1V7I) | 2026-07-30 | 2.0.0 | 3 | Developer Tools | Lachlan |
 | [SoloTrack](https://www.glaze.app/app/cvMkSD) | 2026-07-30 | 13.0.0 | 10 | Productivity | Nick Hart |
 | [Task & Mochi](https://www.glaze.app/app/JmydrY) | 2026-07-30 | 17.0.0 | 5 | Productivity | Denys Chebotaiev |
@@ -61,6 +64,3 @@ Newest 60 of 1556 apps by last release · [← Glaze catalog](./README.md)
 | [TagBucket](https://www.glaze.app/app/tagbucket-GXYDVC) | 2026-07-30 | 1.0.0 | 1 | Utilities | Roman Sv. |
 | [re:Work](https://www.glaze.app/app/aqeLBX) | 2026-07-30 | 6.0.0 | 6 | Productivity | Benji Schwartz-Gilbert |
 | [Earthquake Monitor](https://www.glaze.app/app/earthquake-monitor-f34VTK) | 2026-07-30 | 1.0.0 | 2 | Utilities | Travis Tang |
-| [RAID Calculator](https://www.glaze.app/app/raid-calculator-xF2vIw) | 2026-07-30 | 1.0.0 | 0 | Developer Tools | Travis Tang |
-| [Lynxview](https://www.glaze.app/app/VidXHE) | 2026-07-30 | 4.0.0 | 2 | Utilities | Maicol Oliveira |
-| [Folder Iconizer](https://www.glaze.app/app/W4eu14) | 2026-07-30 | 3.0.0 | 9 | Utilities | Aryan Gupta |

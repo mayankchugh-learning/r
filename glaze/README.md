@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**1,556** apps · **7** categories · **1,153** publishers · **26,185** installs
+**1,557** apps · **7** categories · **1,154** publishers · **26,203** installs
 
 ## Browse
 
@@ -10,7 +10,7 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | --- | --- |
 | [By installs](./ranked/README.md) | every app ranked by install count |
 | [By category](./categories/README.md) | 7 categories → curated topics → auto-discovered groups (✦), nested as deep as the data supports |
-| [By publisher](./publishers/README.md) | 1,153 publishers, sortable by installs or app count |
+| [By publisher](./publishers/README.md) | 1,154 publishers, sortable by installs or app count |
 | [Alphabetical](./alphabetical/a.md) | every app, A–Z |
 | [Recent](./recent.md) | newest releases and updates |
 | [Changelog](./CHANGELOG.md) | apps added, removed, and updated per sync |
@@ -19,10 +19,10 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Section | Categories | Apps | Installs |
 | --- | --- | --- | --- |
-| Work & Productivity | Productivity | 500 | 5,539 |
-| Development | Developer Tools | 311 | 7,504 |
-| System & Utilities | Utilities | 385 | 5,842 |
-| Creative & Media | Design, Media | 223 | 6,135 |
+| Work & Productivity | Productivity | 500 | 5,549 |
+| Development | Developer Tools | 311 | 7,505 |
+| System & Utilities | Utilities | 386 | 5,846 |
+| Creative & Media | Design, Media | 223 | 6,138 |
 | Life & Play | Lifestyle, Games & Fun | 137 | 1,165 |
 
 ## Most installed
@@ -36,7 +36,7 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | 5 | [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 703 | Developer Tools | Nichlas Wærnes Andersen |
 | 6 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 608 | Developer Tools | Thomas Paul Mann |
 | 7 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 487 | Utilities | Jordan Amblin |
-| 8 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 412 | Utilities | Thomas Paul Mann |
+| 8 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 413 | Utilities | Thomas Paul Mann |
 | 9 | [Peel](https://www.glaze.app/app/peel-esimhU) | 402 | Utilities | Thomas Paul Mann |
 | 10 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 400 | Productivity | Khalid Hasan Zibon |
 

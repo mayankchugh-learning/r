@@ -33,7 +33,7 @@
 | [News Flow](https://www.glaze.app/app/LmfyXP) | 4 | One AI-ranked feed for news and video | WheelHugger | 1.0.0 | 0.5 MB | 2026-07-28 |
 | [NotePad](https://www.glaze.app/app/Zyffcj) | 4 | Take notes and organize with folders | Evan | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Now Playing](https://www.glaze.app/app/wTArrC) | 4 | Display currently playing Spotify track | Peter Brinck | 3.0.0 | 0.1 MB | 2026-07-20 |
-| [Neovim Notes](https://www.glaze.app/app/35eP2I) | 3 | Take notes in your Neovim editor | Daniele Avitabile | 7.0.0 | 15.2 MB | 2026-07-27 |
+| [Neovim Notes](https://www.glaze.app/app/35eP2I) | 3 | Take notes in your Neovim editor | Daniele Avitabile | 8.0.0 | 15.2 MB | 2026-07-31 |
 | [Nightshift](https://www.glaze.app/app/Iv56bT) | 3 | Crack AI-generated noir detective cases | spencersmith.site | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Nix manager](https://www.glaze.app/app/8Wu2Rz) | 3 | Manage + explore Nix profiles and flakes | tyler.earth 🌎 | 1.0.0 | 0.1 MB | 2026-07-10 |
 | [Note Draw](https://www.glaze.app/app/g2Qdz5) | 3 | Write and sketch your thoughts instantly | Abhishek Meena | 5.0.0 | 0.1 MB | 2026-07-23 |

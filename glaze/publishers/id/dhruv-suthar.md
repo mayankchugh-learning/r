@@ -22,7 +22,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 31 | Open apps and links on macOS via network | Dhruv Suthar | 15.0.0 | 1.1 MB | 2026-05-06 |
+| [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 31 | Open apps and links on macOS via network | Dhruv Suthar | 16.0.0 | 1.2 MB | 2026-07-31 |
 | [Strudel Glaze](https://www.glaze.app/app/LUN37X) | 10 | Create generative music by coding live | Dhruv Suthar | 1.0.0 | 0.5 MB | 2026-04-23 |
 | [Run It](https://www.glaze.app/app/rBFkeX) | 6 | run code in swift, python and javascript | Dhruv Suthar | 1.0.0 | 11.7 MB | 2026-04-08 |
 

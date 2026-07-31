@@ -28,7 +28,7 @@
 | Ricardo Patel | 1 | 10 | [Stream](https://www.glaze.app/app/cLg8Tt) *(Productivity)* |
 | Rich Washburn | 3 | 18 | [PromptPocket](https://www.glaze.app/app/8alvwL) *(Developer Tools)*, [Arrival](https://www.glaze.app/app/WecBem) *(Utilities)*, [Ember Control](https://www.glaze.app/app/29btrn) *(Utilities)* |
 | Richard Middleton | 1 | 1 | [Times Up](https://www.glaze.app/app/tx1b9T) *(Productivity)* |
-| Riche-Fitte Tristan | 1 | 4 | [Clipboard](https://www.glaze.app/app/Ckewdc) *(Utilities)* |
+| Riche-Fitte Tristan | 1 | 5 | [Clipboard](https://www.glaze.app/app/Ckewdc) *(Utilities)* |
 | Rick Wilkes | 1 | 22 | [Markdown View](https://www.glaze.app/app/fep2id) *(Developer Tools)* |
 | Ringmaster | 1 | 5 | [Dungeon Sketch](https://www.glaze.app/app/fL7gUZ) *(Design)* |
 | Ritik Jain | 1 | 0 | [Copy Grab](https://www.glaze.app/app/heEz1P) *(Utilities)* |

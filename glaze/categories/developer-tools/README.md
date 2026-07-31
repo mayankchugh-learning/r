@@ -1,6 +1,6 @@
 # Developer Tools
 
-311 apps · 7,504 installs · [← all categories](../README.md)
+311 apps · 7,505 installs · [← all categories](../README.md)
 
 ## Code & Collaboration
 
@@ -23,7 +23,7 @@
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools/README.md) | 108 | 3,141 |
+| [AI & LLM Tools](./ai-llm-tools/README.md) | 108 | 3,142 |
 | [Raycast & Glaze](./raycast-glaze.md) | 4 | 350 |
 
 ## Craft

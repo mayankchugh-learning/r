@@ -15,7 +15,7 @@
 | [Ghosted](https://www.glaze.app/app/h3nZXl) | 18 | Ghost newsletters with a swipe | Azlan Ibrahim | 8.0.0 | 0.1 MB | 2026-07-27 |
 | [GitHub Actions Monitor](https://www.glaze.app/app/OxiQZL) | 18 | Monitor GitHub Actions in your menu bar | Adil Erchouk | 2.0.0 | 0.1 MB | 2026-07-02 |
 | [Glazul](https://www.glaze.app/app/tS95LY) | 18 | Play a relaxing solo version of Azul | João Neves | 9.0.0 | 0.1 MB | 2026-06-04 |
-| [Glaze Installs](https://www.glaze.app/app/glaze-installs-zh80kP) | 16 | See your apps exact install counts | WheelHugger | 1.0.0 | 0.1 MB | 2026-07-29 |
+| [Glaze Installs](https://www.glaze.app/app/zh80kP) | 16 | See your apps exact install counts | WheelHugger | 1.0.0 | 0.1 MB | 2026-07-29 |
 | [Glasshouse](https://www.glaze.app/app/VhRMAU) | 15 | The town square for Glaze ecosystem! | Mike | 6.0.0 | 0.1 MB | 2026-07-28 |
 | [GitHub Star Sync](https://www.glaze.app/app/SfluD7) | 14 | Quickly access your GitHub Stars | Mike Bracco | 1.0.0 | 0.2 MB | 2026-06-09 |
 | [Gaze](https://www.glaze.app/app/lIYdXQ) | 13 | Rest your eyes every 20 minutes | Giulio | 1.0.0 | 0.0 MB | 2026-06-04 |

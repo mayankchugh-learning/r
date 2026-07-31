@@ -1,8 +1,8 @@
 # Video & Audio Tools
 
-37 apps · [← Utilities](./README.md)
+38 apps · [← Utilities](./README.md)
 
-[Audio ✦](#audio) (16) · [Bar ✦](#bar) (8) · [Microphone ✦](#microphone) (4) · [General](#general) (9)
+[Audio ✦](#audio) (16) · [Bar ✦](#bar) (8) · [Microphone ✦](#microphone) (4) · [Organize ✦](#organize) (4) · [General](#general) (6)
 
 *✦ auto-discovered topic group*
 
@@ -49,16 +49,22 @@
 | [Mic Mute](https://www.glaze.app/app/mic-mute-zPTfs6) | 3 | Instantly mute all system microphones | Glaze | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [Input Guard](https://www.glaze.app/app/ymBx6p) | 0 | Prevent automatic mic change | Cezar | 2.0.0 | 0.1 MB | 2026-07-24 |
 
+## Organize ✦
+
+| App | Installs | Description | Publisher | Version | Size | Updated |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Multi Browser](https://www.glaze.app/app/cn7ND6) | 14 | Browse with Chrome and Firefox | Apex Hos | 1.0.0 | 0.1 MB | 2026-07-01 |
+| [Vinyl Vault](https://www.glaze.app/app/n2HZ3b) | 4 | Organize your vinyl record collection. | Kevin Rodgers | 1.0.0 | 0.1 MB | 2026-06-12 |
+| [Pronounce Notes](https://www.glaze.app/app/8VxH9e) | 2 | Correctly pronounce any word. | Amit Shinde | 2.0.0 | 0.7 MB | 2026-07-22 |
+| [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 1 | Perly.io | Volodymyr Slipak | 1.0.0 | 12.8 MB | 2026-07-31 |
+
 ## General
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Better YouTube Search](https://www.glaze.app/app/2UTzVS) | 15 | Search YouTube video transcripts | DevTK0 | 1.0.0 | 120.2 MB | 2026-07-06 |
 | [Scorebug](https://www.glaze.app/app/gwd46m) | 15 | A sports broadcast scorebug for your Mac | Brice Gramm | 8.0.0 | 0.4 MB | 2026-07-29 |
-| [Multi Browser](https://www.glaze.app/app/cn7ND6) | 14 | Browse with Chrome and Firefox | Apex Hos | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [SpeedTester](https://www.glaze.app/app/VQqxHM) | 8 | Instantly test internet speed and more | Andrew Schreiber | 2.0.0 | 0.1 MB | 2026-07-23 |
-| [Vinyl Vault](https://www.glaze.app/app/n2HZ3b) | 4 | Organize your vinyl record collection. | Kevin Rodgers | 1.0.0 | 0.1 MB | 2026-06-12 |
 | [Librarian](https://www.glaze.app/app/bLW0OB) | 3 | Calibre-compatible ebook library manager | RobM | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Open Voz](https://www.glaze.app/app/TS9jS0) | 3 | Your words. Your voice. On-device. | Himanshu Rattan | 5.0.0 | 0.1 MB | 2026-07-28 |
-| [Pronounce Notes](https://www.glaze.app/app/8VxH9e) | 2 | Correctly pronounce any word. | Amit Shinde | 2.0.0 | 0.7 MB | 2026-07-22 |
 | [Videophone '76](https://www.glaze.app/app/LfmCUl) | 1 | Video calls through telephone lines | Olivia Rukavina | 1.0.0 | 0.1 MB | 2026-07-03 |

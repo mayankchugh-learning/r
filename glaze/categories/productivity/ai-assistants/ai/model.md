@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [aiMessage](https://www.glaze.app/app/oEx7Rj) | 25 | Chat with AI, texting style | Thomas Paul Mann | 1.0.0 | 0.1 MB | 2026-07-24 |
+| [aiMessage](https://www.glaze.app/app/oEx7Rj) | 26 | Chat with AI, texting style | Thomas Paul Mann | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [Cahier](https://www.glaze.app/app/daTMf7) | 15 | Learn a language by writing | Bruno Reis | 3.0.0 | 0.3 MB | 2026-07-23 |
 | [Screenshot Renamer](https://www.glaze.app/app/6GSlSm) | 11 | Smart names for every screenshot | John Hesch | 2.0.0 | 0.1 MB | 2026-07-26 |
 | [Nexus](https://www.glaze.app/app/eOX5SB) | 7 | Search all your AI chats in one place | Joost Reus | 2.0.0 | 0.8 MB | 2026-07-28 |

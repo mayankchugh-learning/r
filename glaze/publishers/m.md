@@ -58,7 +58,7 @@
 | Maxim B | 1 | 4 | [Bubble Break](https://www.glaze.app/app/BixbZm) *(Games & Fun)* |
 | Maxime Le Bec | 1 | 1 | [FitPlan](https://www.glaze.app/app/1VCZdn) *(Productivity)* |
 | May Zhou | 1 | 9 | [snap sort](https://www.glaze.app/app/Ic87j0) *(Utilities)* |
-| Maya Avendaño | 1 | 279 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
+| Maya Avendaño | 1 | 284 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
 | mboeru | 1 | 1 | [TeamsToDeck Commands](https://www.glaze.app/app/5kyOs4) *(Productivity)* |
 | mcfoton | 1 | 2 | [Cabled](https://www.glaze.app/app/KRIVgd) *(Developer Tools)* |
 | Me | 1 | 6 | [Markdown Notes](https://www.glaze.app/app/myI9Nz) *(Productivity)* |

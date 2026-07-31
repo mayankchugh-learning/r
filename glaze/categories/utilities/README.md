@@ -1,21 +1,21 @@
 # Utilities
 
-385 apps · 5,842 installs · [← all categories](../README.md)
+386 apps · 5,846 installs · [← all categories](../README.md)
 
 ## Files & Media
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Files & Disk](./files-disk/README.md) | 170 | 2,860 |
+| [Files & Disk](./files-disk/README.md) | 170 | 2,861 |
 | [Image Tools](./image-tools/README.md) | 35 | 1,016 |
-| [Video & Audio Tools](./video-audio-tools.md) | 37 | 272 |
+| [Video & Audio Tools](./video-audio-tools.md) | 38 | 273 |
 
 ## System & Desktop
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [System & Performance](./system-performance/README.md) | 32 | 278 |
-| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 640 |
+| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 641 |
 | [Display & Wallpaper](./display-wallpaper.md) | 18 | 185 |
 
 ## Input & Text
@@ -23,7 +23,7 @@
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [Input & Gestures](./input-gestures.md) | 22 | 91 |
-| [Text & Clipboard](./text-clipboard.md) | 8 | 30 |
+| [Text & Clipboard](./text-clipboard.md) | 8 | 31 |
 
 ## Network & Safety
 

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · **V** · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-26 publishers · [← publisher index](./README.md)
+27 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
@@ -29,6 +29,7 @@
 | Vladislav Markov | 1 | 3 | [Downshift](https://www.glaze.app/app/g289AH) *(Utilities)* |
 | Vladislav Volkhonskii | 1 | 19 | [Crate](https://www.glaze.app/app/BZS01f) *(Media)* |
 | vo1dee | 1 | 1 | [Pocket Dancer](https://www.glaze.app/app/X5YflW) *(Media)* |
+| Volodymyr Slipak | 1 | 1 | [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) *(Utilities)* |
 | Vova | 1 | 4 | [Picked](https://www.glaze.app/app/CICev7) *(Games & Fun)* |
 | vovayaa | 1 | 5 | [dropsize](https://www.glaze.app/app/XM2TL3) *(Utilities)* |
 | vr | 1 | 8 | [Ghostie](https://www.glaze.app/app/RvmVhm) *(Utilities)* |

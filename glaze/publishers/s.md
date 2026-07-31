@@ -17,7 +17,7 @@
 | Sai Prem | 1 | 7 | [PDF Unlocker](https://www.glaze.app/app/eLy5mQ) *(Utilities)* |
 | Saidheeraj Gollu | 1 | 9 | [Window Peek](https://www.glaze.app/app/K1ZTpe) *(Productivity)* |
 | Saif Hussain | 1 | 3 | [ZenTypst](https://www.glaze.app/app/4No2Go) *(Developer Tools)* |
-| Sakino | 1 | 46 | [Subtotal](https://www.glaze.app/app/K0cZAJ) *(Developer Tools)* |
+| Sakino | 1 | 47 | [Subtotal](https://www.glaze.app/app/K0cZAJ) *(Developer Tools)* |
 | sakshi ranglani | 1 | 4 | [SKECHE](https://www.glaze.app/app/vUHlzf) *(Design)* |
 | Sam Parker | 1 | 9 | [Sheet Pro](https://www.glaze.app/app/1mqpDb) *(Productivity)* |
 | Sam Sitar | 1 | 5 | [Caption Craft](https://www.glaze.app/app/D4916q) *(Media)* |

@@ -2,14 +2,14 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-121 apps · [← Glaze catalog](../README.md)
+122 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Peel](https://www.glaze.app/app/peel-esimhU) | 402 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 338 | Simple project planning | Kristina Loewen | 6.0.0 | 0.1 MB | 2026-07-05 |
 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 299 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 0.3 MB | 2026-07-27 |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 89 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 90 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 | [ProjectBase](https://www.glaze.app/app/w5CAic) | 42 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 0.3 MB | 2026-07-29 |
 | [Port Monitor](https://www.glaze.app/app/EEfaTw) | 40 | Track open ports and their apps | Domint | 1.0.0 | 0.1 MB | 2026-06-29 |
@@ -108,6 +108,7 @@
 | [Paste Guard](https://www.glaze.app/app/1Xa88Q) | 1 | Control What Gets Pasted Into Your Apps | alexi.build | 1.0.0 | 0.1 MB | 2026-07-12 |
 | [PDF Style](https://www.glaze.app/app/p12USo) | 1 | Edit PDF text with custom styling | Abhishek | 1.0.0 | 0.7 MB | 2026-07-27 |
 | [Peep](https://www.glaze.app/app/rncFT4) | 1 | Preview contents of archive files | Sean | 1.0.0 | 1.0 MB | 2026-07-09 |
+| [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 1 | Perly.io | Volodymyr Slipak | 1.0.0 | 12.8 MB | 2026-07-31 |
 | [PitchMaster](https://www.glaze.app/app/1aHd47) | 1 | Practice your pitch and speaking skills | Ac0 | 5.0.0 | 0.3 MB | 2026-07-28 |
 | [Planted](https://www.glaze.app/app/YujFy8) | 1 | Grow what you plant, season after season | Crystal | 1.0.0 | 0.1 MB | 2026-07-25 |
 | [Pocket Dancer](https://www.glaze.app/app/X5YflW) | 1 | Master dance moves to your music | vo1dee | 2.0.0 | 0.1 MB | 2026-07-19 |

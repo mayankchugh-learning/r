@@ -13,8 +13,8 @@
 | [Silly Sounds](https://www.glaze.app/app/e8Qzum) | 77 | Play hilarious sound effects at the tap of a button for instant entertainment | Thomas Paul Mann | 1.0.1 | 0.6 MB | 2026-03-05 |
 | [Shader](https://www.glaze.app/app/4kgfQf) | 58 | Visualize real-time shadows from mountains, buildings, and trees at any location, date, and time | Samuel Kraft | 3.0.1 | 1.1 MB | 2026-03-06 |
 | [Shiori](https://www.glaze.app/app/iPTitC) | 52 | A beautifully simple read-it-later glaze app | Dhruv Suthar | 2.0.1 | 2.1 MB | 2026-03-05 |
+| [Subtotal](https://www.glaze.app/app/K0cZAJ) | 47 | A receipt for every coding day. | Sakino | 5.0.0 | 1.0 MB | 2026-07-29 |
 | [SF Symbols Picker](https://www.glaze.app/app/mLt3F7) | 46 | Insert SF Symbols with fuzzy search | Tim Van Damme | 3.0.0 | 0.1 MB | 2026-07-08 |
-| [Subtotal](https://www.glaze.app/app/K0cZAJ) | 46 | A receipt for every coding day. | Sakino | 5.0.0 | 1.0 MB | 2026-07-29 |
 | [Skill Vault](https://www.glaze.app/app/vDXO9z) | 36 | Centralize and manage all your AI skills | Mete Polat | 1.0.0 | 0.1 MB | 2026-05-05 |
 | [Skills](https://www.glaze.app/app/9liD6w) | 33 | Browse, preview & install agent skills | Kth | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Slackify](https://www.glaze.app/app/pDgHRA) | 33 | Convert any format into Slack messages | Ryan Rich | 1.0.0 | 0.0 MB | 2026-06-08 |

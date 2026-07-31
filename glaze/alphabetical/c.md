@@ -80,6 +80,7 @@
 | [Container](https://www.glaze.app/app/qRcAZy) | 6 | Manage containers from your menu bar | Martin.Enzinger | 4.0.0 | 0.1 MB | 2026-07-03 |
 | [Course Notes](https://www.glaze.app/app/9CV3EH) | 6 | Keep learning organized in one place. | Kofi Amoussou | 6.0.0 | 2.1 MB | 2026-07-27 |
 | [Caption Craft](https://www.glaze.app/app/D4916q) | 5 | Phrase-smart, scene-aware video captions | Sam Sitar | 2.0.0 | 33.6 MB | 2026-07-28 |
+| [Clipboard](https://www.glaze.app/app/Ckewdc) | 5 | Your clipboard history, always at hand | Riche-Fitte Tristan | 2.0.0 | 0.1 MB | 2026-07-24 |
 | [Clipboard History](https://www.glaze.app/app/bmzUaY) | 5 | Access your clipboard history instantly | Birzhan Abishev | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Clipfloat](https://www.glaze.app/app/0DLNYu) | 5 | AI-guided copy and paste made effortless | James Coy (JC) | 1.0.0 | 0.1 MB | 2026-07-16 |
 | [Color History](https://www.glaze.app/app/ZDXqLl) | 5 | Never lose a color you pick again | Denys | 1.0.0 | 0.1 MB | 2026-07-02 |
@@ -95,7 +96,6 @@
 | [Cherish](https://www.glaze.app/app/VlIhRC) | 4 | Belongings Management Tool | Ting Chun Wang | 2.0.0 | 2.1 MB | 2026-07-27 |
 | [Chess Board Battle](https://www.glaze.app/app/cYLkAx) | 4 | Master chess tactics in competitive | X9 | 2.0.0 | 0.6 MB | 2026-07-28 |
 | [Claud + Chatgpt Quota Watch](https://www.glaze.app/app/nZ04u4) | 4 | Monitor your API usage limits | Arthesth Aadhran | 1.0.0 | 0.1 MB | 2026-07-18 |
-| [Clipboard](https://www.glaze.app/app/Ckewdc) | 4 | Your clipboard history, always at hand | Riche-Fitte Tristan | 2.0.0 | 0.1 MB | 2026-07-24 |
 | [Clipboard](https://www.glaze.app/app/p3RRIf) | 4 | Copy, paste, and organize with templates | Utkarsh Bhardwaj | 1.0.0 | 0.1 MB | 2026-05-29 |
 | [Clipboard Tray](https://www.glaze.app/app/6cecvM) | 4 | Keep your copied text within reach | רועי ריקמן | 3.0.0 | 0.1 MB | 2026-07-26 |
 | [Code Quest](https://www.glaze.app/app/K85SfV) | 4 | Learn programming through visual puzzles | benface | 1.0.0 | 0.1 MB | 2026-07-08 |

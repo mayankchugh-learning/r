@@ -1,6 +1,6 @@
 # Thomas Paul Mann
 
-12 apps · 3,368 installs · [← publishers](../README.md)
+12 apps · 3,370 installs · [← publishers](../README.md)
 
 ## Media (1)
 
@@ -12,7 +12,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 412 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-14 |
+| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 413 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-14 |
 | [Peel](https://www.glaze.app/app/peel-esimhU) | 402 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [Compressor](https://www.glaze.app/app/rISkCt) | 62 | Compress videos in seconds, any quality | Thomas Paul Mann | 3.0.0 | 0.1 MB | 2026-07-01 |
 
@@ -35,7 +35,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Yapped](https://www.glaze.app/app/48kFgW) | 57 | Spotify Wrapped for your iMessages | Thomas Paul Mann | 1.0.0 | 0.1 MB | 2026-07-10 |
-| [aiMessage](https://www.glaze.app/app/oEx7Rj) | 25 | Chat with AI, texting style | Thomas Paul Mann | 1.0.0 | 0.1 MB | 2026-07-24 |
+| [aiMessage](https://www.glaze.app/app/oEx7Rj) | 26 | Chat with AI, texting style | Thomas Paul Mann | 1.0.0 | 0.1 MB | 2026-07-24 |
 
 ## Games & Fun (1)
 

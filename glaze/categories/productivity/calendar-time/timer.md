@@ -12,7 +12,7 @@
 | [Client Mate](https://www.glaze.app/app/cdQv2e) | 7 | Track billable hours, clients & capacity | Izak Jackson | 7.0.0 | 0.1 MB | 2026-07-23 |
 | [Pomo](https://www.glaze.app/app/Nvojrt) | 7 | Track pomodoro sessions and productivity | nanbing liu | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Cat Break](https://www.glaze.app/app/dtcl92) | 6 | Take breaks from social media with | Dhruv Suthar | 1.0.0 | 16.3 MB | 2026-05-16 |
+| [Tiny Timer](https://www.glaze.app/app/e0Dbb6) | 2 | The tiniest timer widget | lexav | 1.0.0 | 0.4 MB | 2026-07-27 |
 | [Stretch Break](https://www.glaze.app/app/Y7qUx0) | 1 | Get reminders to stretch throughout | Pedro Ladeira | 1.0.0 | 0.1 MB | 2026-07-20 |
-| [Tiny Timer](https://www.glaze.app/app/e0Dbb6) | 1 | The tiniest timer widget | lexav | 1.0.0 | 0.4 MB | 2026-07-27 |
 | [Realistic Cat Owner Simulator](https://www.glaze.app/app/bZ5OSN) | 0 | Very real cat walks across your keyboard | Kenworthe | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Timer Tracker](https://www.glaze.app/app/a16qmM) | 0 | Track human effort across customers and | Ian Hsiao | 3.0.0 | 0.1 MB | 2026-07-23 |

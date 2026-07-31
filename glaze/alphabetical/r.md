@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [ray.fm](https://www.glaze.app/app/Af8oi9) | 837 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 279 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 284 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
 | [Reading Corner](https://www.glaze.app/app/k3tfty) | 236 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 0.8 MB | 2026-07-19 |
 | [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 109 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 0.1 MB | 2026-07-20 |
 | [Repo Scout](https://www.glaze.app/app/repo-scout-P3pbfd) | 102 | Discover and manage git repos | Yiwei Ho | 6.0.0 | 0.1 MB | 2026-07-07 |

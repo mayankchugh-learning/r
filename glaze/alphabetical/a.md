@@ -16,8 +16,8 @@
 | [ACE](https://www.glaze.app/app/97rUBQ) | 27 | Teleprompter with live speaking support | Danial Siddiki | 3.0.0 | 6.9 MB | 2026-07-29 |
 | [App Manager](https://www.glaze.app/app/j7Tz2M) | 27 | Organize all your apps in one place | Mr Rajput | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [App Screenshots](https://www.glaze.app/app/tpdPU6) | 27 | Create localized app store screenshots | Branik | 5.0.0 | 6.4 MB | 2026-07-24 |
+| [aiMessage](https://www.glaze.app/app/oEx7Rj) | 26 | Chat with AI, texting style | Thomas Paul Mann | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [Activity Monitor in Menubar](https://www.glaze.app/app/5HAQEi) | 25 | Monitor CPU, GPU, and memory usage | Anubhav Tyagi | 3.0.0 | 0.1 MB | 2026-06-29 |
-| [aiMessage](https://www.glaze.app/app/oEx7Rj) | 25 | Chat with AI, texting style | Thomas Paul Mann | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [ATLAS](https://www.glaze.app/app/ovPml8) | 24 | Learn Earth's geography interactively. | Cornelius | 3.0.0 | 0.1 MB | 2026-04-30 |
 | [Art Wallpapers](https://www.glaze.app/app/iioZNd) | 23 | Another boring piece. Daily (ex. Basalt) | alexi.build | 3.0.0 | 0.1 MB | 2026-07-12 |
 | [AutoSort](https://www.glaze.app/app/LBbFpr) | 19 | Organize files automatically with AI | Ben Smith | 1.0.0 | 0.1 MB | 2026-07-03 |

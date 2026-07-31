@@ -67,6 +67,7 @@
 | [Boox2Obsidian](https://www.glaze.app/app/Hwm75B) | 2 | Convert Boox notes to Obsidian markdown | Mr. S | 5.0.0 | 0.1 MB | 2026-07-09 |
 | [Bright Shot](https://www.glaze.app/app/YZ2Zxr) | 2 | Capture clear selfies even in dim light | Chase Broyles | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Bench](https://www.glaze.app/app/ndizSO) | 1 | The dev tools you use every day | Elijah Oreoluwa | 1.0.0 | 0.1 MB | 2026-07-25 |
+| [Better Timer](https://www.glaze.app/app/Pkv2ta) | 1 | A timer better than them all | Karim Abdelali | 1.0.0 | 0.9 MB | 2026-07-22 |
 | [Biomarker Calculator](https://www.glaze.app/app/Tb1E4K) | 1 | Bedside pain biomarker assessment | Huscruz | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [Bloom](https://www.glaze.app/app/fg4EbW) | 1 | Plan your day, grow your garden | Hakeem Adjei | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [Book Atlas](https://www.glaze.app/app/jY0l0Z) | 1 | Book folders by country, or random pick | Svitlana | 1.0.0 | 0.1 MB | 2026-07-29 |
@@ -74,6 +75,5 @@
 | [Breakaway](https://www.glaze.app/app/mGV0jt) | 1 | Follow pro cycling races live | Daniel Calmon | 1.0.0 | 0.6 MB | 2026-07-12 |
 | [Brønnøysund Search](https://www.glaze.app/app/YNvNnf) | 1 | Search Norwegian company registry data | Nichlas L-D | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Balinese Calendar](https://www.glaze.app/app/vRpmzw) | 0 | Easy access to the Balinese calendar | Tirta Wulandari | 1.0.0 | 0.2 MB | 2026-04-07 |
-| [Better Timer](https://www.glaze.app/app/Pkv2ta) | 0 | A timer better than them all | Karim Abdelali | 1.0.0 | 0.9 MB | 2026-07-22 |
 | [Blood Match](https://www.glaze.app/app/blood-match-epXOOZ) | 0 | Find compatible blood donors instantly | Parsifal02 | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [BridgeDesk](https://www.glaze.app/app/XLK7X9) | 0 | AI tools for chambers of commerce | Madan Chaolla Park | 2.0.0 | 0.1 MB | 2026-07-28 |

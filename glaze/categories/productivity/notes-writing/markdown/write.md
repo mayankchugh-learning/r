@@ -15,7 +15,7 @@
 | [Markdown Studio](https://www.glaze.app/app/USIGGW) | 6 | Write and organize Markdown notes | Yahya | 1.0.0 | 0.7 MB | 2026-07-13 |
 | [WriteOn](https://www.glaze.app/app/Vunquu) | 5 | Modern word processor with classic feels | Lee Sherman | 5.0.0 | 0.1 MB | 2026-07-13 |
 | [Loci](https://www.glaze.app/app/n5g6AF) | 4 | Collect wisdom, revisit it daily | Jason Covington | 1.0.0 | 142.7 MB | 2026-07-24 |
-| [Neovim Notes](https://www.glaze.app/app/35eP2I) | 3 | Take notes in your Neovim editor | Daniele Avitabile | 7.0.0 | 15.2 MB | 2026-07-27 |
+| [Neovim Notes](https://www.glaze.app/app/35eP2I) | 3 | Take notes in your Neovim editor | Daniele Avitabile | 8.0.0 | 15.2 MB | 2026-07-31 |
 | [Notex](https://www.glaze.app/app/gR2sUk) | 3 | Write and save notes in multiple formats | Dipanjan Roy | 2.0.0 | 0.1 MB | 2026-07-22 |
 | [stick this](https://www.glaze.app/app/LwpGny) | 3 | MD notes as stickies, for you & agents | harssha vardan | 1.0.0 | 0.2 MB | 2026-07-22 |
 
