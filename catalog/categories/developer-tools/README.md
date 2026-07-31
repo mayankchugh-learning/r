@@ -1,8 +1,8 @@
 # Developer Tools
 
-1078 extensions · [← all categories](../README.md)
+1079 extensions · [← all categories](../README.md)
 
-macOS: 1067 · Windows: 282
+macOS: 1068 · Windows: 283
 
 ## Code & Collaboration
 
@@ -61,6 +61,6 @@ macOS: 1067 · Windows: 282
 | [Ease ✦](./ease.md) | 4 |
 | [Shortcut ✦](./shortcut.md) | 4 |
 
-Plus [General](./general.md) — 166 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 167 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*
