@@ -1,6 +1,6 @@
 # Developer Tools
 
-311 apps · 7,491 installs · [← all categories](../README.md)
+311 apps · 7,492 installs · [← all categories](../README.md)
 
 ## Code & Collaboration
 
@@ -31,7 +31,7 @@
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [Design & UI Development](./design-ui-development.md) | 17 | 324 |
-| [Debugging & Inspection](./debugging-inspection.md) | 20 | 164 |
+| [Debugging & Inspection](./debugging-inspection.md) | 20 | 165 |
 
 ## Discovered topics ✦
 

@@ -4,7 +4,7 @@ Newest 60 of 1555 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
-| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 2026-07-31 | 1.0.0 | 0 | Utilities | Karim Abdelali |
+| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 2026-07-31 | 2.0.0 | 0 | Utilities | Karim Abdelali |
 | [Brez](https://www.glaze.app/app/nx6Oj0) | 2026-07-31 | 6.0.0 | 44 | Productivity | fra.raw |
 | [Gloss](https://www.glaze.app/app/wkIuar) | 2026-07-31 | 8.0.0 | 11 | Productivity | Abed |
 | [Workshop Flow](https://www.glaze.app/app/workshop-flow-713b98) | 2026-07-31 | 1.0.0 | 1 | Productivity | Antony Mayfield |
@@ -37,7 +37,7 @@ Newest 60 of 1555 apps by last release · [← Glaze catalog](./README.md)
 | [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) | 2026-07-30 | 2.0.0 | 1 | Developer Tools | WebSmith |
 | [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 2026-07-30 | 9.0.0 | 86 | Utilities | lexav |
 | [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 2026-07-30 | 1.0.0 | 2 | Productivity | Ermek Barmashev |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 11.0.0 | 153 | Design | Noman |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 11.0.0 | 156 | Design | Noman |
 | [Radical](https://www.glaze.app/app/radical-s4LsSN) | 2026-07-30 | 5.0.0 | 262 | Productivity | Maya Avendaño |
 | [Verbatim](https://www.glaze.app/app/verbatim-oe1V7I) | 2026-07-30 | 2.0.0 | 3 | Developer Tools | Lachlan |
 | [SoloTrack](https://www.glaze.app/app/cvMkSD) | 2026-07-30 | 13.0.0 | 10 | Productivity | Nick Hart |

@@ -74,7 +74,7 @@
 | Jonathan Nyst | 1 | 6 | [Star Keeper](https://www.glaze.app/app/qdA2Jc) *(Developer Tools)* |
 | Jonathan.fusellier | 1 | 17 | [Air Monitor](https://www.glaze.app/app/9iA1yL) *(Utilities)* |
 | Joost Reus | 1 | 7 | [Nexus](https://www.glaze.app/app/eOX5SB) *(Productivity)* |
-| [Jordan Amblin](./id/jordan-amblin.md) | 11 | 698 | [see all 11 →](./id/jordan-amblin.md) |
+| [Jordan Amblin](./id/jordan-amblin.md) | 11 | 699 | [see all 11 →](./id/jordan-amblin.md) |
 | Jordan Gilroy | 1 | 16 | [Cursor Usage](https://www.glaze.app/app/bfEiF9) *(Developer Tools)* |
 | Jorge | 1 | 2 | [App Revenue](https://www.glaze.app/app/bhkScP) *(Developer Tools)* |
 | Jørgen Arnor | 2 | 8 | [Pickup](https://www.glaze.app/app/fZmn3c) *(Media)*, [On This Day](https://www.glaze.app/app/fbkJca) *(Lifestyle)* |

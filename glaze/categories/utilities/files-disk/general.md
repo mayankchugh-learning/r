@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 171 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
+| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 172 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
 | [Compressor](https://www.glaze.app/app/rISkCt) | 62 | Compress videos in seconds, any quality | Thomas Paul Mann | 3.0.0 | 0.1 MB | 2026-07-01 |
 | [Notch Island](https://www.glaze.app/app/ZBGs4Q) | 27 | Dynamic island for Mac. | Leo Catherine | 3.0.0 | 0.1 MB | 2026-07-08 |
 | [PDF Resize](https://www.glaze.app/app/7md7Fi) | 11 | Compress or expand PDFs with size | Mr Rajput | 1.0.0 | 0.1 MB | 2026-07-02 |

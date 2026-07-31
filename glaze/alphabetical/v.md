@@ -9,7 +9,7 @@
 | [Video Downloader](https://www.glaze.app/app/SXUqd9) | 68 | Download videos from thousands of sites | Anwarul Islam | 1.0.0 | 0.1 MB | 2026-06-27 |
 | [Voxel Studio](https://www.glaze.app/app/W1Zhxy) | 36 | Build large-scale 3D worlds with millions of voxels using professional tools and real-time rendering | Thomas Mauconduit | 6.0.1 | 6.6 MB | 2026-03-26 |
 | [Vitrine](https://www.glaze.app/app/JSshUC) | 31 | Make your app look worth downloading. | Emmanuel Umoru | 4.0.0 | 84.7 MB | 2026-07-27 |
-| [Video Wallpaper](https://www.glaze.app/app/OxrCyA) | 14 | Set videos as your macOS wallpaper | Víctor Navarro | 1.0.0 | 0.1 MB | 2026-07-21 |
+| [Video Wallpaper](https://www.glaze.app/app/OxrCyA) | 15 | Set videos as your macOS wallpaper | Víctor Navarro | 1.0.0 | 0.1 MB | 2026-07-21 |
 | [VibeTracker](https://www.glaze.app/app/iMP1xj) | 10 | Track your beats, master your music | João Neves | 1.0.0 | 0.1 MB | 2026-06-05 |
 | [Vim Keys](https://www.glaze.app/app/gFNoBq) | 10 | Learn Vim shortcuts interactively | Juan Vera | 1.0.0 | 0.1 MB | 2026-07-07 |
 | [Vectorize](https://www.glaze.app/app/ofgONv) | 9 | Convert pixel shapes to clean vectors | Raycast | 1.0.0 | 0.1 MB | 2026-07-17 |

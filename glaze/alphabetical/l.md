@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 171 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
+| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 172 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
 | [Logos](https://www.glaze.app/app/QKNEHI) | 117 | Browse and explore brand logos | Pedro Duarte | 4.0.0 | 0.1 MB | 2026-07-27 |
 | [Le Tour Hub](https://www.glaze.app/app/t510tX) | 29 | Follow Tour de France 2026 | Jordan Amblin | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [Listly](https://www.glaze.app/app/G4AEnv) | 13 | Tasks organized, nothing forgotten | İlker Çalım | 3.0.0 | 0.1 MB | 2026-07-12 |

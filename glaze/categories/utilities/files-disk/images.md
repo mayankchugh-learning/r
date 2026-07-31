@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Magnify](https://www.glaze.app/app/magnify-YWP3Aj) | 50 | Zoom in on any image detail, then save | Jordan Amblin | 4.0.0 | 0.0 MB | 2026-04-15 |
+| [Magnify](https://www.glaze.app/app/magnify-YWP3Aj) | 51 | Zoom in on any image detail, then save | Jordan Amblin | 4.0.0 | 0.0 MB | 2026-04-15 |
 | [Compresso](https://www.glaze.app/app/PvRxIA) | 22 | Shrink images and GIFs fast | Jac Peregrine-Davies | 4.0.0 | 0.0 MB | 2026-04-13 |
 | [Convert](https://www.glaze.app/app/lSbAX2) | 20 | Instantly convert any files, any format | Sahil Patel | 1.0.0 | 176.8 MB | 2026-07-09 |
 | [Image Convert](https://www.glaze.app/app/rbU02h) | 13 | Convert and optimize images instantly | Chris Malone | 2.0.0 | 7.4 MB | 2026-06-13 |

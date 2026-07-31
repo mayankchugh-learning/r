@@ -61,4 +61,4 @@
 | [Workshop Flow](https://www.glaze.app/app/workshop-flow-713b98) | 1 | Plan workshops that fit your schedule | Antony Mayfield | 1.0.0 | 0.1 MB | 2026-07-31 |
 | [Wrapped Desk](https://www.glaze.app/app/cnkwi6) | 1 | Summarize your work week with shareable | Priyanshu Jha | 1.0.0 | 0.1 MB | 2026-07-26 |
 | [Wallpaper Creator](https://www.glaze.app/app/FasYwi) | 0 | Wallpapers from Videos and Images | Max Battleman | 2.0.0 | 0.1 MB | 2026-07-27 |
-| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 0 | Display a Windows lock screen on Mac | Karim Abdelali | 1.0.0 | 0.1 MB | 2026-07-31 |
+| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 0 | Display a Windows lock screen on Mac | Karim Abdelali | 2.0.0 | 0.1 MB | 2026-07-31 |

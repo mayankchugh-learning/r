@@ -25,7 +25,7 @@
 | Addo Bari | 1 | 3 | [Bookshelf](https://www.glaze.app/app/ncYQdY) *(Media)* |
 | Adedoyin Emmanuel | 1 | 6 | [Blueprint](https://www.glaze.app/app/Ahtha9) *(Developer Tools)* |
 | [Adi Goldstein](./id/adi-goldstein.md) | 4 | 9 | [see all 4 →](./id/adi-goldstein.md) |
-| Adil Erchouk | 2 | 75 | [User Defaults Inspector](https://www.glaze.app/app/7AW5vv) *(Developer Tools)*, [GitHub Actions Monitor](https://www.glaze.app/app/OxiQZL) *(Developer Tools)* |
+| Adil Erchouk | 2 | 76 | [User Defaults Inspector](https://www.glaze.app/app/7AW5vv) *(Developer Tools)*, [GitHub Actions Monitor](https://www.glaze.app/app/OxiQZL) *(Developer Tools)* |
 | Adithya Jayasankar | 2 | 6 | [Telltale](https://www.glaze.app/app/ZPeaME) *(Developer Tools)*, [Tap](https://www.glaze.app/app/tap-2ruNjD) *(Productivity)* |
 | Adrian Luna Diaz | 1 | 3 | [CUE](https://www.glaze.app/app/2uuKlm) *(Productivity)* |
 | Afonso Ramos | 1 | 3 | [Gitify](https://www.glaze.app/app/d2qvZN) *(Developer Tools)* |

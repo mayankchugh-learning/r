@@ -8,16 +8,16 @@
 
 | # | Publisher | Apps | Installs |
 | --- | --- | --- | --- |
-| 1 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,363 |
+| 1 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,365 |
 | 2 | [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,093 |
 | 3 | [Nichlas Wærnes Andersen](./id/nichlas-w-rnes-andersen.md) | 5 | 1,036 |
 | 4 | [alexi.build](./id/alexi-build.md) | 10 | 1,003 |
 | 5 | Boufford | 3 | 869 |
 | 6 | [Kristina Loewen](./id/kristina-loewen.md) | 5 | 705 |
-| 7 | [Jordan Amblin](./id/jordan-amblin.md) | 11 | 698 |
+| 7 | [Jordan Amblin](./id/jordan-amblin.md) | 11 | 699 |
 | 8 | [Pedro Duarte](./id/pedro-duarte.md) | 5 | 556 |
 | 9 | Alex Antonov | 3 | 555 |
-| 10 | Yann-Edern Gillet | 3 | 525 |
+| 10 | Yann-Edern Gillet | 3 | 526 |
 | 11 | [Dhruv Suthar](./id/dhruv-suthar.md) | 16 | 475 |
 | 12 | Khalid Hasan Zibon | 1 | 399 |
 | 13 | Combustion Studio | 1 | 397 |
@@ -32,9 +32,9 @@
 | 22 | Petr Nikolaev | 1 | 197 |
 | 23 | Tuxu | 1 | 192 |
 | 24 | Daniela Muntyan | 1 | 184 |
-| 25 | @zenithquinn | 3 | 177 |
-| 26 | Dmitry Novikov | 1 | 171 |
-| 27 | Noman | 2 | 166 |
+| 25 | @zenithquinn | 3 | 179 |
+| 26 | Dmitry Novikov | 1 | 172 |
+| 27 | Noman | 2 | 169 |
 | 28 | LitoMore | 3 | 140 |
 | 29 | [WheelHugger](./id/wheelhugger.md) | 7 | 132 |
 | 30 | Wayne Betts Jr | 1 | 129 |
@@ -53,8 +53,8 @@
 | 43 | lexav | 2 | 87 |
 | 44 | gowhith kanisetty | 1 | 81 |
 | 45 | Ajay Odedra | 1 | 79 |
-| 46 | [Dmytro Lobov](./id/dmytro-lobov.md) | 16 | 75 |
-| 47 | Adil Erchouk | 2 | 75 |
+| 46 | Adil Erchouk | 2 | 76 |
+| 47 | [Dmytro Lobov](./id/dmytro-lobov.md) | 16 | 75 |
 | 48 | [Sean Thomas Stuart](./id/sean-thomas-stuart.md) | 7 | 70 |
 | 49 | Anwarul Islam | 2 | 70 |
 | 50 | [Lee Sherman](./id/lee-sherman.md) | 15 | 69 |
@@ -67,7 +67,7 @@
 | 57 | Vincent de Lagabbe | 1 | 52 |
 | 58 | Bat the Cat | 3 | 51 |
 | 59 | [Werner Deuermeier](./id/werner-deuermeier.md) | 7 | 50 |
-| 60 | Víctor Navarro | 3 | 49 |
+| 60 | Víctor Navarro | 3 | 50 |
 | 61 | James Dawson | 1 | 49 |
 | 62 | Sakino | 1 | 46 |
 | 63 | Tim Van Damme | 1 | 46 |

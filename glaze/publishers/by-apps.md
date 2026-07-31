@@ -11,8 +11,8 @@
 | 1 | [Dhruv Suthar](./id/dhruv-suthar.md) | 16 | 475 |
 | 2 | [Dmytro Lobov](./id/dmytro-lobov.md) | 16 | 75 |
 | 3 | [Lee Sherman](./id/lee-sherman.md) | 15 | 69 |
-| 4 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,363 |
-| 5 | [Jordan Amblin](./id/jordan-amblin.md) | 11 | 698 |
+| 4 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,365 |
+| 5 | [Jordan Amblin](./id/jordan-amblin.md) | 11 | 699 |
 | 6 | [João Neves](./id/jo-o-neves.md) | 11 | 128 |
 | 7 | [alexi.build](./id/alexi-build.md) | 10 | 1,003 |
 | 8 | [Shearm](./id/shearm.md) | 10 | 65 |
@@ -44,14 +44,14 @@
 | 34 | [lukrencijus](./id/lukrencijus.md) | 4 | 7 |
 | 35 | Boufford | 3 | 869 |
 | 36 | Alex Antonov | 3 | 555 |
-| 37 | Yann-Edern Gillet | 3 | 525 |
-| 38 | @zenithquinn | 3 | 177 |
+| 37 | Yann-Edern Gillet | 3 | 526 |
+| 38 | @zenithquinn | 3 | 179 |
 | 39 | LitoMore | 3 | 140 |
 | 40 | 騎山豬跑山 | 3 | 93 |
 | 41 | Beth Staff | 3 | 89 |
 | 42 | Cornelius | 3 | 63 |
 | 43 | Bat the Cat | 3 | 51 |
-| 44 | Víctor Navarro | 3 | 49 |
+| 44 | Víctor Navarro | 3 | 50 |
 | 45 | extrastu | 3 | 42 |
 | 46 | Andreas Elia | 3 | 37 |
 | 47 | Mario Juárez | 3 | 35 |
@@ -81,12 +81,12 @@
 | 71 | Alexandr Subbotin | 2 | 275 |
 | 72 | Ivo Fonseca | 2 | 257 |
 | 73 | David Ferguson | 2 | 231 |
-| 74 | Noman | 2 | 166 |
+| 74 | Noman | 2 | 169 |
 | 75 | Niall | 2 | 109 |
 | 76 | Yiwei Ho | 2 | 105 |
 | 77 | Oliver Posselt | 2 | 100 |
 | 78 | lexav | 2 | 87 |
-| 79 | Adil Erchouk | 2 | 75 |
+| 79 | Adil Erchouk | 2 | 76 |
 | 80 | Anwarul Islam | 2 | 70 |
 | 81 | Rory Killingley | 2 | 63 |
 | 82 | Ch1rag | 2 | 60 |
@@ -219,7 +219,7 @@
 | 209 | Petr Nikolaev | 1 | 197 |
 | 210 | Tuxu | 1 | 192 |
 | 211 | Daniela Muntyan | 1 | 184 |
-| 212 | Dmitry Novikov | 1 | 171 |
+| 212 | Dmitry Novikov | 1 | 172 |
 | 213 | Wayne Betts Jr | 1 | 129 |
 | 214 | Alexander Artsvuni | 1 | 125 |
 | 215 | Justin Lancaster | 1 | 104 |

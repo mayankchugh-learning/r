@@ -1,13 +1,13 @@
 # Jordan Amblin
 
-11 apps · 698 installs · [← publishers](../README.md)
+11 apps · 699 installs · [← publishers](../README.md)
 
 ## Utilities (7)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 487 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 0.1 MB | 2026-04-15 |
-| [Magnify](https://www.glaze.app/app/magnify-YWP3Aj) | 50 | Zoom in on any image detail, then save | Jordan Amblin | 4.0.0 | 0.0 MB | 2026-04-15 |
+| [Magnify](https://www.glaze.app/app/magnify-YWP3Aj) | 51 | Zoom in on any image detail, then save | Jordan Amblin | 4.0.0 | 0.0 MB | 2026-04-15 |
 | [Coin Flip](https://www.glaze.app/app/fRjllX) | 35 | Flip a coin, get instant heads or tails | Jordan Amblin | 2.0.0 | 0.0 MB | 2026-04-15 |
 | [Batch Crop](https://www.glaze.app/app/tYEQoH) | 28 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
 | [Show My Fan](https://www.glaze.app/app/ZL8Vdh) | 15 | Watch your Mac's fan spin in real time | Jordan Amblin | 1.0.0 | 0.1 MB | 2026-07-03 |

@@ -19,7 +19,7 @@
 | [Snowfall](https://www.glaze.app/app/hW6nB2) | 2 | Bring a peaceful snowstorm to your | Gary Rogers | 2.0.0 | 0.0 MB | 2026-07-09 |
 | [Copy Grab](https://www.glaze.app/app/heEz1P) | 0 | Capture and copy any text from screen | Ritik Jain | 1.0.0 | 0.1 MB | 2026-07-15 |
 | [Luma](https://www.glaze.app/app/hKajc0) | 0 | Every app, made understandable. | Ankesh Meena | 1.0.0 | 0.1 MB | 2026-07-27 |
-| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 0 | Display a Windows lock screen on Mac | Karim Abdelali | 1.0.0 | 0.1 MB | 2026-07-31 |
+| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 0 | Display a Windows lock screen on Mac | Karim Abdelali | 2.0.0 | 0.1 MB | 2026-07-31 |
 
 ## Between ✦
 

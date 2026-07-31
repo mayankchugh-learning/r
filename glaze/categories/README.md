@@ -12,20 +12,20 @@
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 311 | 7,491 |
+| [Developer Tools](./developer-tools/README.md) | 311 | 7,492 |
 
 ## System & Utilities
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Utilities](./utilities/README.md) | 384 | 5,822 |
+| [Utilities](./utilities/README.md) | 384 | 5,828 |
 
 ## Creative & Media
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Media](./media/README.md) | 130 | 4,576 |
-| [Design](./design/README.md) | 93 | 1,500 |
+| [Media](./media/README.md) | 130 | 4,578 |
+| [Design](./design/README.md) | 93 | 1,503 |
 
 ## Life & Play
 

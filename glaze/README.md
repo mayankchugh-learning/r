@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**1,555** apps · **7** categories · **1,153** publishers · **26,029** installs
+**1,555** apps · **7** categories · **1,153** publishers · **26,041** installs
 
 ## Browse
 
@@ -20,9 +20,9 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | Section | Categories | Apps | Installs |
 | --- | --- | --- | --- |
 | Work & Productivity | Productivity | 500 | 5,480 |
-| Development | Developer Tools | 311 | 7,491 |
-| System & Utilities | Utilities | 384 | 5,822 |
-| Creative & Media | Design, Media | 223 | 6,076 |
+| Development | Developer Tools | 311 | 7,492 |
+| System & Utilities | Utilities | 384 | 5,828 |
+| Creative & Media | Design, Media | 223 | 6,081 |
 | Life & Play | Lifestyle, Games & Fun | 137 | 1,160 |
 
 ## Most installed
@@ -36,7 +36,7 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | 5 | [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 703 | Developer Tools | Nichlas Wærnes Andersen |
 | 6 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 606 | Developer Tools | Thomas Paul Mann |
 | 7 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 487 | Utilities | Jordan Amblin |
-| 8 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 410 | Utilities | Thomas Paul Mann |
+| 8 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 412 | Utilities | Thomas Paul Mann |
 | 9 | [Peel](https://www.glaze.app/app/peel-esimhU) | 401 | Utilities | Thomas Paul Mann |
 | 10 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 399 | Productivity | Khalid Hasan Zibon |
 
