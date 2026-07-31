@@ -2,6 +2,6 @@
 
 Store changes detected by each sync run, newest first.
 
-## 2026-07-30
+## 2026-07-31
 
-Initial catalog build: 69 apps indexed.
+Initial catalog build: 1553 apps indexed.

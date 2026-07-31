@@ -1,26 +1,53 @@
 /**
- * Fetches the Glaze app store catalog from https://www.glaze.app/store.
+ * Fetches the Glaze app store catalog from https://www.glaze.app.
  *
- * Glaze's backend (api.glazeapp.com) is Supabase/PostgREST and requires an API
- * key, so this reads the store page's server-rendered payload instead — no
- * credentials needed. The store route (TanStack Start) embeds every public
- * app's full record in a `$R[n]=` reference graph: a JS object literal, not
- * JSON, so it can't be JSON.parse'd. Rather than eval'ing remote script (never
- * do that), this walks the text with a string-aware brace scanner:
+ * Uses the store's own public search endpoint — the one the store UI calls
+ * when you pick a category — rather than scraping the page. This matters:
+ * the store page only server-renders a curated subset (~69 apps across
+ * featured/trending/latest), so scraping it under-reports the store by ~20x.
+ * Querying every category instead returns the full ~1,550 apps, and since
+ * each app carries exactly one `category`, the union of all categories is
+ * the whole store.
  *
- *   1. record the span of every {...} object in the document
- *   2. every real app record contains `installs_count:` — section entries only
- *      reference apps by public_id — so the *smallest* object span enclosing
- *      each `installs_count:` occurrence is exactly one app record
- *   3. pull known scalar fields out of that span by targeted match
+ * (There is a second, similar-looking endpoint returning ~513 apps that all
+ * carry `is_awards_entry` — that's the Awards collection, not the store, and
+ * it excludes most store apps. Don't confuse the two.)
  *
- * Verified against the rendered pages: counts and sizes match what the site
- * displays (e.g. Icon Keeper 335 installs, 9.7 MiB).
+ * Glaze is a TanStack Start app, so server functions live at
+ * `/_serverFn/<id>` and speak seroval-encoded JSON (not plain JSON) with an
+ * `x-tsr-serverFn: true` header. Both the encoding for our payload shape and
+ * the decoding of the response subset are implemented here in a few lines, so
+ * this has no npm dependencies and runs on a bare Node in CI. (Verified
+ * byte-identical to seroval's own `toJSON` output for these payloads.)
+ *
+ * Function ids are build-time hashes that change when Glaze redeploys, so the
+ * search function is *discovered at runtime* from the client bundle, with a
+ * known-good id tried first.
  */
 import { execFileSync } from "node:child_process";
 
-const STORE_URL = "https://www.glaze.app/store";
-export const APP_BASE = "https://www.glaze.app/app";
+const ORIGIN = "https://www.glaze.app";
+export const APP_BASE = `${ORIGIN}/app`;
+
+// Last known-good id for the public store-search server function.
+const FALLBACK_SEARCH_FN = "5ab82a3e34e3be6afe0dadc58c0c9c825b809b3f9093508eb5ac2c08b9b9c286";
+
+// Search requires a category (an empty query returns nothing), so the catalog
+// is assembled by querying each. Seeded with the known slugs and extended at
+// runtime with any slug seen on the store page, so a newly added category is
+// picked up rather than silently dropped.
+const SEED_CATEGORY_SLUGS = [
+  "productivity",
+  "utilities",
+  "developer-tools",
+  "media",
+  "design",
+  "games-and-fun",
+  "lifestyle",
+];
+
+const UA =
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36";
 
 // Glaze's category slugs → display names.
 const CATEGORY_NAMES = new Map([
@@ -30,10 +57,11 @@ const CATEGORY_NAMES = new Map([
   ["media", "Media"],
   ["design", "Design"],
   ["lifestyle", "Lifestyle"],
-  ["games", "Games"],
+  ["games-and-fun", "Games & Fun"],
   ["education", "Education"],
   ["social", "Social"],
   ["finance", "Finance"],
+  ["health", "Health"],
 ]);
 
 /** Display name for a category slug; unknown slugs are title-cased. */
@@ -43,124 +71,218 @@ export function categoryName(slug) {
     CATEGORY_NAMES.get(slug) ??
     slug
       .split("-")
-      .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+      .map((w) => (w === "and" ? "&" : w.charAt(0).toUpperCase() + w.slice(1)))
       .join(" ")
   );
 }
 
-function fetchStoreHtml() {
-  return execFileSync(
-    "curl",
-    ["-sS", "--fail", "--compressed", "--max-time", "45", STORE_URL],
-    {
-      encoding: "utf8",
-      maxBuffer: 64 * 1024 * 1024,
-      timeout: 60_000,
-      stdio: ["ignore", "pipe", "pipe"],
+function curl(args) {
+  return execFileSync("curl", ["-sS", "--fail", "--compressed", "--max-time", "60", ...args], {
+    encoding: "utf8",
+    maxBuffer: 256 * 1024 * 1024,
+    timeout: 90_000,
+    stdio: ["ignore", "pipe", "pipe"],
+  });
+}
+
+// --- seroval codec (only the subset these endpoints use) --------------------
+
+/** Encodes {data:{...}} of string/number values exactly as seroval's toJSON. */
+function encodePayload(data) {
+  const keys = Object.keys(data);
+  const values = keys.map((k) => {
+    const v = data[k];
+    return typeof v === "number" ? { t: 0, s: v } : { t: 1, s: String(v) };
+  });
+  return {
+    t: {
+      t: 10,
+      i: 0,
+      p: {
+        k: ["data"],
+        v: [{ t: 10, i: 1, p: { k: keys, v: values }, o: 0 }],
+      },
+      o: 0,
     },
-  );
+    f: 127,
+    m: [],
+  };
 }
 
-/** Spans of every {...} object in the text, ignoring braces inside strings. */
-function objectSpans(text) {
-  const spans = [];
-  const stack = [];
-  let quote = null;
-  for (let i = 0; i < text.length; i++) {
-    const ch = text[i];
-    if (quote) {
-      if (ch === "\\") {
-        i++;
-        continue;
-      }
-      if (ch === quote) quote = null;
-      continue;
+const CONSTANTS = { 1: null, 2: true, 3: false };
+
+/** Decodes the seroval node tree returned by these endpoints. */
+function decode(node, reg = new Map()) {
+  if (node == null) return node;
+  switch (node.t) {
+    case 10:
+    case 11: {
+      const o = {};
+      if (node.i != null) reg.set(node.i, o);
+      const k = node.p?.k ?? [];
+      const v = node.p?.v ?? [];
+      k.forEach((key, i) => {
+        o[key] = decode(v[i], reg);
+      });
+      return o;
     }
-    if (ch === '"' || ch === "'" || ch === "`") quote = ch;
-    else if (ch === "{") stack.push(i);
-    else if (ch === "}" && stack.length) spans.push([stack.pop(), i + 1]);
+    case 9: {
+      const a = [];
+      if (node.i != null) reg.set(node.i, a);
+      for (const x of node.a ?? []) a.push(decode(x, reg));
+      return a;
+    }
+    case 0:
+    case 1:
+      return node.s;
+    case 2:
+      return CONSTANTS[node.s] ?? null;
+    case 4:
+      return reg.get(node.i);
+    default:
+      return node.s !== undefined ? node.s : null;
   }
-  return spans;
 }
 
-function unescapeJs(s) {
-  return s
-    .replace(/\\n/g, "\n")
-    .replace(/\\r/g, "\r")
-    .replace(/\\t/g, "\t")
-    .replace(/\\u([0-9a-fA-F]{4})/g, (_, h) => String.fromCharCode(parseInt(h, 16)))
-    .replace(/\\(["'`\\/])/g, "$1");
-}
-
-function strField(obj, key) {
-  const m = obj.match(new RegExp(`\\b${key}:"((?:[^"\\\\]|\\\\.)*)"`));
-  return m ? unescapeJs(m[1]) : null;
-}
-
-function numField(obj, key) {
-  const m = obj.match(new RegExp(`\\b${key}:(-?\\d+)`));
-  return m ? Number(m[1]) : null;
+function callServerFn(id, data) {
+  const payload = encodeURIComponent(JSON.stringify(encodePayload(data)));
+  const body = curl([
+    "-H",
+    "x-tsr-serverFn: true",
+    "-H",
+    `user-agent: ${UA}`,
+    "-H",
+    `referer: ${ORIGIN}/store`,
+    "-H",
+    `origin: ${ORIGIN}`,
+    "-H",
+    "accept: application/json",
+    `${ORIGIN}/_serverFn/${id}?payload=${payload}`,
+  ]);
+  const decoded = decode(JSON.parse(body));
+  if (decoded?.error) throw new Error(`server function returned an error: ${JSON.stringify(decoded.error).slice(0, 200)}`);
+  return decoded?.result ?? {};
 }
 
 /**
- * @returns {{apps: Array<object>, fetchedAt: string}} every public store app
+ * Server function ids are build-time hashes that change on redeploy, so find
+ * the store-search function by probing ids from the current client bundle for
+ * one that returns apps for a known category. Falls back to the known-good id.
+ *
+ * The probe deliberately requires a non-empty result for a real category:
+ * the Awards listing has the same {apps,total} shape, so shape alone would
+ * pick the wrong endpoint.
+ */
+function discoverSearchFn(html) {
+  let ids = [];
+  try {
+    const entry = html.match(/\/assets\/index-[A-Za-z0-9_-]+\.js/);
+    if (entry) {
+      const bundle = curl([`${ORIGIN}${entry[0]}`]);
+      ids = [...new Set([...bundle.matchAll(/`([0-9a-f]{64})`/g)].map((m) => m[1]))];
+    }
+  } catch {
+    // fall through to the known-good id
+  }
+  const probe = SEED_CATEGORY_SLUGS[0];
+  for (const id of [FALLBACK_SEARCH_FN, ...ids.filter((i) => i !== FALLBACK_SEARCH_FN)]) {
+    try {
+      const r = callServerFn(id, { category: probe });
+      const apps = r.apps ?? [];
+      if (apps.length && apps.every((a) => !a.is_awards_entry)) return id;
+    } catch {
+      // not this one
+    }
+  }
+  throw new Error("could not locate the Glaze store-search server function");
+}
+
+function toApp(raw, canonical) {
+  const slug = raw.category ?? null;
+  const publicId = raw.public_id;
+  const prof = raw.profiles ?? {};
+  return {
+    publicId,
+    name: raw.display_name,
+    tagline: raw.description ?? "",
+    description: raw.full_description ?? "",
+    categorySlug: slug,
+    category: categoryName(slug),
+    installs: raw.installs_count ?? null,
+    sizeBytes: raw.build_size_bytes ?? null,
+    version: raw.latest_version ?? null,
+    updatedAt: raw.updated_at ?? null,
+    createdAt: raw.created_at ?? null,
+    publishedAt: raw.last_version_published_at ?? null,
+    publisher: prof.display_name || prof.username || null,
+    publisherHandle: prof.username || null,
+    publisherWebsite: prof.website_url || null,
+    aiCapability: raw.ai_capability ?? null,
+    screenshots: Array.isArray(raw.screenshot_urls) ? raw.screenshot_urls.length : 0,
+    awardsEntry: Boolean(raw.is_awards_entry),
+    url: canonical.get(publicId) ?? `${APP_BASE}/${publicId}`,
+  };
+}
+
+/**
+ * @returns {{apps: Array<object>, categories: Array<string>, fetchedAt: string}}
  */
 export function fetchGlazeApps() {
-  const html = fetchStoreHtml();
-  const spans = objectSpans(html);
-  // Smallest spans first, so the first hit enclosing an anchor is the tightest.
-  spans.sort((a, b) => a[1] - a[0] - (b[1] - b[0]));
+  let html = "";
+  try {
+    html = curl([`${ORIGIN}/store`]);
+  } catch {
+    // the store page is only needed for canonical links + category discovery
+  }
 
-  // The page links apps as /app/<slug>-<publicId>. Both that and the bare
-  // /app/<publicId> resolve, but prefer the site's own canonical path so links
-  // read the way Glaze presents them. Keyed by the trailing public id.
+  // The store page links apps as /app/<slug>-<publicId>; both that and the
+  // bare id resolve, but prefer the site's own canonical path where known.
   const canonical = new Map();
   for (const m of html.matchAll(/href="\/app\/([A-Za-z0-9-]+-)?([A-Za-z0-9]{6})"/g)) {
     canonical.set(m[2], `${APP_BASE}/${m[1] ?? ""}${m[2]}`);
   }
 
-  const byId = new Map();
-  const anchor = /installs_count:/g;
-  let m;
-  while ((m = anchor.exec(html)) !== null) {
-    const at = m.index;
-    const span = spans.find(([st, en]) => st < at && at < en);
-    if (!span) continue;
-    const obj = html.slice(span[0], span[1]);
-    const publicId = strField(obj, "public_id");
-    if (!publicId || byId.has(publicId)) continue;
+  // Category slugs: the seeds plus anything the store page mentions, so a new
+  // category appearing in featured/latest is queried rather than missed.
+  const slugs = new Set(SEED_CATEGORY_SLUGS);
+  for (const m of html.matchAll(/category:"([a-z][a-z0-9-]{2,40})"/g)) slugs.add(m[1]);
 
-    // profiles:{...} holds the publisher; scope publisher lookups to it so its
-    // display_name can't be confused with the app's own.
-    const prof = obj.match(/profiles:(?:\$R\[\d+\]=)?\{((?:[^{}]|\{[^{}]*\})*)\}/);
-    const pblock = prof ? prof[1] : "";
+  const searchFn = discoverSearchFn(html);
+  const seen = new Map();
+  const counts = new Map();
+  const queried = new Set();
+  const queue = [...slugs];
 
-    const slug = strField(obj, "category");
-    const name = strField(obj, "display_name");
-    if (!name) continue;
+  while (queue.length) {
+    const slug = queue.shift();
+    if (queried.has(slug)) continue;
+    queried.add(slug);
 
-    byId.set(publicId, {
-      publicId,
-      name,
-      tagline: strField(obj, "description") ?? "",
-      description: strField(obj, "full_description") ?? "",
-      categorySlug: slug,
-      category: categoryName(slug),
-      installs: numField(obj, "installs_count"),
-      sizeBytes: numField(obj, "build_size_bytes"),
-      version: strField(obj, "latest_version"),
-      updatedAt: strField(obj, "updated_at"),
-      createdAt: strField(obj, "created_at"),
-      publishedAt: strField(obj, "last_version_published_at"),
-      publisher: strField(pblock, "display_name") || strField(pblock, "username") || null,
-      publisherHandle: strField(pblock, "username") || null,
-      publisherWebsite: strField(pblock, "website_url") || null,
-      aiCapability: strField(obj, "ai_capability"),
-      url: canonical.get(publicId) ?? `${APP_BASE}/${publicId}`,
-    });
+    let res;
+    try {
+      res = callServerFn(searchFn, { category: slug });
+    } catch (err) {
+      console.warn(`warn: category "${slug}" failed: ${err.message.slice(0, 120)}`);
+      continue;
+    }
+    const batch = res.apps ?? [];
+    if (!batch.length) continue;
+    counts.set(slug, batch.length);
+    if (res.total != null && batch.length < res.total) {
+      console.warn(`warn: category "${slug}" returned ${batch.length} of ${res.total}`);
+    }
+    for (const raw of batch) {
+      if (!raw?.public_id || seen.has(raw.public_id)) continue;
+      seen.set(raw.public_id, toApp(raw, canonical));
+      // Any unfamiliar category slug on a returned app gets queried too.
+      if (raw.category && !queried.has(raw.category)) queue.push(raw.category);
+    }
   }
 
-  const apps = [...byId.values()];
-  if (!apps.length) throw new Error("no apps parsed from store payload (page structure may have changed)");
-  return { apps, fetchedAt: new Date().toISOString() };
+  const apps = [...seen.values()];
+  if (!apps.length) throw new Error("Glaze store search returned no apps");
+  console.log(
+    `categories: ${[...counts.entries()].sort((a, b) => b[1] - a[1]).map(([s, n]) => `${s} ${n}`).join(", ")}`,
+  );
+  return { apps, categories: [...counts.keys()], fetchedAt: new Date().toISOString() };
 }

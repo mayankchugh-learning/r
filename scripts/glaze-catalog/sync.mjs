@@ -4,16 +4,16 @@
  *
  * Companion to scripts/extension-catalog for https://www.glaze.app/store.
  * Same idea — an organized, auto-maintained, install-ranked index that only
- * commits when something meaningful changed — but deliberately much flatter:
- * the Glaze store is ~69 apps across 6 first-party categories, where the
- * Raycast catalog covers ~3,100 across 16. Recursive topic-mining and
- * per-publisher pages would be cargo-culting at this size (most publishers
- * ship exactly one app), so this generates ~10 pages, not ~650.
+ * commits when something meaningful changed — but flatter: the Glaze store is
+ * ~1,550 apps across 7 first-party categories, and unlike Raycast extensions
+ * those categories have no sub-structure to mine, while most publishers ship
+ * a single app. So this generates ~15 pages rather than the extension
+ * catalog's ~650, paginating only the full ranking.
  *
  * Outputs (all under glaze/):
  *   data/apps.json          machine-readable state, used for diffing runs
  *   README.md               stats + index + top installs
- *   ranked.md               every app ranked by installs
+ *   ranked/                 every app ranked by installs (paginated)
  *   categories/<slug>.md    one page per Glaze category
  *   publishers.md           every publisher, ranked by total installs
  *   recent.md               recently published/updated apps
@@ -36,8 +36,10 @@ const STORE_URL = "https://www.glaze.app/store";
 // Install counts creep constantly. Regenerate the markdown when the top of the
 // ranking actually moves, or as a periodic floor so displayed numbers don't
 // visibly rot — otherwise update the JSON ground truth only.
-const RANK_WATCH_N = 25;
+const RANK_WATCH_N = 50;
 const MAX_STALE_MS = 24 * 60 * 60 * 1000;
+// Rows per page in the ranked view (the store is ~1.5k apps).
+const RANK_PAGE = 500;
 
 const args = new Set(process.argv.slice(2));
 const FORCE = args.has("--force");
@@ -152,21 +154,43 @@ function generate(apps) {
     ]);
   }
 
-  // ---- ranked ----
-  writePage("ranked.md", [
+  // ---- ranked (paginated) ----
+  rmSync(path.join(OUT_DIR, "ranked"), { recursive: true, force: true });
+  // Older builds emitted a single ranked.md; drop it so it can't linger stale.
+  rmSync(path.join(OUT_DIR, "ranked.md"), { force: true });
+  const rankPages = Math.max(1, Math.ceil(ranked.length / RANK_PAGE));
+  const rankNav = (active) =>
+    Array.from({ length: rankPages }, (_, i) =>
+      i + 1 === active ? `**${i + 1}**` : `[${i + 1}](./${i + 1}.md)`,
+    ).join(" · ");
+  const rankRow = (a, i) =>
+    `| ${i} | ${appLink(a)} | ${fmtNum(a.installs)} | ${a.category} | ${mdEscape(
+      a.publisher ?? "—",
+      40,
+    )} | ${a.version ?? "—"} |`;
+  for (let p = 0; p < rankPages; p++) {
+    const slice = ranked.slice(p * RANK_PAGE, (p + 1) * RANK_PAGE);
+    const from = p * RANK_PAGE + 1;
+    writePage(`ranked/${p + 1}.md`, [
+      `# Glaze apps by installs — ${from}–${from + slice.length - 1}`,
+      "",
+      `of ${ranked.length} apps · ${fmtNum(totalInstalls)} installs total · [← Glaze catalog](../README.md)`,
+      "",
+      rankPages > 1 ? rankNav(p + 1) : undefined,
+      "",
+      "| # | App | Installs | Category | Publisher | Version |",
+      "| --- | --- | --- | --- | --- | --- |",
+      ...slice.map((a, j) => rankRow(a, from + j)),
+    ]);
+  }
+  writePage("ranked/README.md", [
     "# Glaze apps by installs",
     "",
-    `All ${ranked.length} apps · ${fmtNum(totalInstalls)} installs total · [← Glaze catalog](./README.md)`,
+    `All ${ranked.length} apps ranked by installs · [← Glaze catalog](../README.md)`,
     "",
-    "| # | App | Installs | Category | Publisher | Version |",
-    "| --- | --- | --- | --- | --- | --- |",
-    ...ranked.map(
-      (a, i) =>
-        `| ${i + 1} | ${appLink(a)} | ${fmtNum(a.installs)} | ${a.category} | ${mdEscape(
-          a.publisher ?? "—",
-          40,
-        )} | ${a.version ?? "—"} |`,
-    ),
+    rankNav(0),
+    "",
+    "Start at [page 1](./1.md) for the most-installed apps.",
   ]);
 
   // ---- publishers ----
@@ -224,7 +248,7 @@ function generate(apps) {
     "",
     "| View | |",
     "| --- | --- |",
-    "| [By installs](./ranked.md) | every app ranked by install count |",
+    "| [By installs](./ranked/README.md) | every app ranked by install count |",
     "| [By category](#categories) | the store's own categories, install-sorted |",
     "| [By publisher](./publishers.md) | every publisher, ranked by total installs |",
     "| [Recent](./recent.md) | newest releases and updates |",
@@ -266,10 +290,17 @@ function updateChangelog({ initial, added, removed, changed, total }) {
   if (initial) {
     lines.push(`Initial catalog build: ${total} apps indexed.`, "");
   } else {
-    const list = (xs) => xs.map((a) => `[${mdEscape(a.name, 60)}](${a.url})`).join(", ");
-    if (added.length) lines.push(`**Added (${added.length}):** ${list(added)}`, "");
+    // Cap long lists — a bulk change can span >1k apps, which is unreadable
+    // and bloats the file; the full set is always in data/apps.json.
+    const CAP = 40;
+    const cap = (xs, render) => {
+      const shown = xs.slice(0, CAP).map(render).join(", ");
+      return xs.length > CAP ? `${shown} …and ${xs.length - CAP} more` : shown;
+    };
+    const link = (a) => `[${mdEscape(a.name, 60)}](${a.url})`;
+    if (added.length) lines.push(`**Added (${added.length}):** ${cap(added, link)}`, "");
     if (removed.length)
-      lines.push(`**Removed (${removed.length}):** ${removed.map((a) => mdEscape(a.name, 60)).join(", ")}`, "");
+      lines.push(`**Removed (${removed.length}):** ${cap(removed, (a) => mdEscape(a.name, 60))}`, "");
     for (const c of changed) {
       if (c.notes.length) lines.push(`**${mdEscape(c.app.name, 60)}:** ${c.notes.join("; ")}`, "");
     }
