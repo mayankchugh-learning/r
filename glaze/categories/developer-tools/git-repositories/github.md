@@ -33,7 +33,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 703 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 0.1 MB | 2026-04-15 |
+| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 703 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 0.1 MB | 2026-04-15 |
 | [GitHub Actions Monitor](https://www.glaze.app/app/OxiQZL) | 18 | Monitor GitHub Actions in your menu bar | Adil Erchouk | 2.0.0 | 0.1 MB | 2026-07-02 |
 | [Flaremail](https://www.glaze.app/app/hB2ADe) | 14 | Native opensource email client & server | Fayaz Ahmed | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [Dev Secrets](https://www.glaze.app/app/6wpfCy) | 11 | Store and manage local dev environment | Peter Kracik | 1.0.0 | 0.1 MB | 2026-07-02 |

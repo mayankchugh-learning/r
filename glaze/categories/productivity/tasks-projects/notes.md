@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Mia Calendar](https://www.glaze.app/app/mia-calendar-N2NgPq) | 184 | Plan your days with your own handwriting | Daniela Muntyan | 13.0.0 | 3.3 MB | 2026-07-27 |
-| [Mooboard](https://www.glaze.app/app/dqGeIk) | 47 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
+| [Mooboard](https://www.glaze.app/app/dqGeIk) | 48 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
 | [Cling](https://www.glaze.app/app/akdslE) | 13 | Sticky notes that actually stick | Denis Ljubimov | 2.0.0 | 0.3 MB | 2026-07-30 |
 | [Onionskin](https://www.glaze.app/app/ZaTZYW) | 8 | A notebook that behaves like a notebook | Geoff Silva | 4.0.0 | 2.0 MB | 2026-07-24 |
 | [Noted](https://www.glaze.app/app/6gIagm) | 7 | A quiet place for your notes. | Yash Kotha | 4.0.0 | 0.2 MB | 2026-07-29 |

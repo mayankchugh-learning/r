@@ -28,7 +28,7 @@
 | Flo | 1 | 25 | [Skill Map](https://www.glaze.app/app/CMgPDh) *(Developer Tools)* |
 | Florentin Eckl | 1 | 13 | [Recommand](https://www.glaze.app/app/ZDQIep) *(Productivity)* |
 | Florian.Mascaro | 1 | 9 | [Image Lighter](https://www.glaze.app/app/BxZAHu) *(Developer Tools)* |
-| fra.raw | 1 | 42 | [Brez](https://www.glaze.app/app/nx6Oj0) *(Productivity)* |
+| fra.raw | 1 | 44 | [Brez](https://www.glaze.app/app/nx6Oj0) *(Productivity)* |
 | Frajjco | 1 | 1 | [Outfit of the Day](https://www.glaze.app/app/dcpdLg) *(Lifestyle)* |
 | Frame City | 1 | 0 | [Pomodoro Focus](https://www.glaze.app/app/C7Sc4O) *(Productivity)* |
 | Francesco Maisano | 1 | 5 | [Blunder](https://www.glaze.app/app/0dUOLc) *(Games & Fun)* |

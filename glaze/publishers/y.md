@@ -12,7 +12,7 @@
 | Yahya | 1 | 6 | [Markdown Studio](https://www.glaze.app/app/USIGGW) *(Productivity)* |
 | [Yan Frossard](./id/yan-frossard.md) | 4 | 9 | [see all 4 →](./id/yan-frossard.md) |
 | Yan Hladchenko | 1 | 7 | [Rolls](https://www.glaze.app/app/Lqc3eM) *(Media)* |
-| Yann-Edern Gillet | 3 | 521 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) *(Utilities)*, [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) *(Productivity)*, [Breakout Dock](https://www.glaze.app/app/EEcNPI) *(Games & Fun)* |
+| Yann-Edern Gillet | 3 | 523 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) *(Utilities)*, [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) *(Productivity)*, [Breakout Dock](https://www.glaze.app/app/EEcNPI) *(Games & Fun)* |
 | Yaroslav Vovchenko | 1 | 1 | [Voyageur - AI Travel Companion](https://www.glaze.app/app/5E6b7O) *(Productivity)* |
 | Yaseenmb11 | 1 | 11 | [Lil finder](https://www.glaze.app/app/FDsxpL) *(Utilities)* |
 | Yash | 1 | 2 | [World Time](https://www.glaze.app/app/HDtRH3) *(Productivity)* |

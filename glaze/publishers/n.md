@@ -40,7 +40,7 @@
 | Nitrous | 1 | 6 | [Specimen](https://www.glaze.app/app/L1APKo) *(Design)* |
 | Noah Czelusta | 1 | 7 | [Break Time](https://www.glaze.app/app/f5AsqN) *(Productivity)* |
 | Noah Lloyd | 1 | 20 | [YouTube Video Downloader](https://www.glaze.app/app/N3FDOF) *(Utilities)* |
-| Noman | 2 | 160 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) *(Design)*, [Taken](https://www.glaze.app/app/7ZhgBb) *(Utilities)* |
+| Noman | 2 | 161 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) *(Design)*, [Taken](https://www.glaze.app/app/7ZhgBb) *(Utilities)* |
 | Noud Adrichem | 1 | 10 | [Diffable](https://www.glaze.app/app/ijgHph) *(Developer Tools)* |
 | npurja | 1 | 4 | [Type In Motion](https://www.glaze.app/app/tuIhlE) *(Design)* |
 | Nurkamol Vakhidov | 3 | 30 | [FlareDesk](https://www.glaze.app/app/2kFpvb) *(Developer Tools)*, [Replay](https://www.glaze.app/app/4fgahp) *(Utilities)*, [Quarantine Manager](https://www.glaze.app/app/Mpbkzr) *(Utilities)* |

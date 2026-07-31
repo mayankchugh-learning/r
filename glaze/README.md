@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**1,553** apps · **7** categories · **1,152** publishers · **25,980** installs
+**1,554** apps · **7** categories · **1,153** publishers · **26,001** installs
 
 ## Browse
 
@@ -10,7 +10,7 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | --- | --- |
 | [By installs](./ranked/README.md) | every app ranked by install count |
 | [By category](./categories/README.md) | 7 categories → curated topics → auto-discovered groups (✦), nested as deep as the data supports |
-| [By publisher](./publishers/README.md) | 1,152 publishers, sortable by installs or app count |
+| [By publisher](./publishers/README.md) | 1,153 publishers, sortable by installs or app count |
 | [Alphabetical](./alphabetical/a.md) | every app, A–Z |
 | [Recent](./recent.md) | newest releases and updates |
 | [Changelog](./CHANGELOG.md) | apps added, removed, and updated per sync |
@@ -19,11 +19,11 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Section | Categories | Apps | Installs |
 | --- | --- | --- | --- |
-| Work & Productivity | Productivity | 499 | 5,454 |
+| Work & Productivity | Productivity | 500 | 5,466 |
 | Development | Developer Tools | 311 | 7,490 |
-| System & Utilities | Utilities | 383 | 5,819 |
-| Creative & Media | Design, Media | 223 | 6,059 |
-| Life & Play | Lifestyle, Games & Fun | 137 | 1,158 |
+| System & Utilities | Utilities | 383 | 5,820 |
+| Creative & Media | Design, Media | 223 | 6,065 |
+| Life & Play | Lifestyle, Games & Fun | 137 | 1,160 |
 
 ## Most installed
 
@@ -33,7 +33,7 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | 2 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 839 | Developer Tools | Boufford |
 | 3 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 838 | Developer Tools | alexi.build |
 | 4 | [ray.fm](https://www.glaze.app/app/Af8oi9) | 837 | Media | Samuel Kraft |
-| 5 | [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 703 | Developer Tools | Nichlas Wærnes Andersen |
+| 5 | [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 703 | Developer Tools | Nichlas Wærnes Andersen |
 | 6 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 606 | Developer Tools | Thomas Paul Mann |
 | 7 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 487 | Utilities | Jordan Amblin |
 | 8 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 410 | Utilities | Thomas Paul Mann |

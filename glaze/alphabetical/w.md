@@ -2,7 +2,7 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · **W** · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-54 apps · [← Glaze catalog](../README.md)
+55 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -60,3 +60,4 @@
 | [Worksheet Tracker](https://www.glaze.app/app/RGmoKM) | 1 | Track PDF worksheets and completion | Mary-Ann Horley | 2.0.0 | 1.6 MB | 2026-07-25 |
 | [Wrapped Desk](https://www.glaze.app/app/cnkwi6) | 1 | Summarize your work week with shareable | Priyanshu Jha | 1.0.0 | 0.1 MB | 2026-07-26 |
 | [Wallpaper Creator](https://www.glaze.app/app/FasYwi) | 0 | Wallpapers from Videos and Images | Max Battleman | 2.0.0 | 0.1 MB | 2026-07-27 |
+| [Workshop Flow](https://www.glaze.app/app/713b98) | 0 | Plan workshops that fit your schedule | Antony Mayfield | 1.0.0 | 0.1 MB | 2026-07-31 |

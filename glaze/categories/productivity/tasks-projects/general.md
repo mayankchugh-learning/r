@@ -1,6 +1,6 @@
 # General
 
-8 apps · [← Tasks & Projects](./README.md)
+9 apps · [← Tasks & Projects](./README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,3 +12,4 @@
 | [Mortgage Compass](https://www.glaze.app/app/lRnWp3) | 3 | Navigate your mortgage with confidence | Josiah Ayres | 1.0.0 | 0.7 MB | 2026-07-25 |
 | [STANDING APP](https://www.glaze.app/app/mJumkL) | 1 | Track sitting and standing habits | Bill Bishop's BIG Idea Show | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Tab Launcher](https://www.glaze.app/app/bpviHa) | 1 | Open multiple tabs on startup | David Pellerin | 1.0.0 | 0.1 MB | 2026-07-19 |
+| [Workshop Flow](https://www.glaze.app/app/713b98) | 0 | Plan workshops that fit your schedule | Antony Mayfield | 1.0.0 | 0.1 MB | 2026-07-31 |

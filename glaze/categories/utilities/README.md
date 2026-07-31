@@ -1,6 +1,6 @@
 # Utilities
 
-383 apps · 5,819 installs · [← all categories](../README.md)
+383 apps · 5,820 installs · [← all categories](../README.md)
 
 ## Files & Media
 
@@ -15,7 +15,7 @@
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [System & Performance](./system-performance/README.md) | 31 | 277 |
-| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 632 |
+| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 633 |
 | [Display & Wallpaper](./display-wallpaper.md) | 17 | 184 |
 
 ## Input & Text
