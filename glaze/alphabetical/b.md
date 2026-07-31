@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Brui](https://www.glaze.app/app/eOPXRV) | 108 | Visual interface for Homebrew package | Niall | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 0.2 MB | 2026-07-13 |
-| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 49 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
+| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 50 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
 | [Breakout Dock](https://www.glaze.app/app/EEcNPI) | 37 | Smash through your installed apps in a breakout-style game where bricks are apps and your dock controls the paddle | Yann-Edern Gillet | 1.0.1 | 0.2 MB | 2026-03-25 |
 | [Batch Crop](https://www.glaze.app/app/tYEQoH) | 28 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
 | [Brand Icons](https://www.glaze.app/app/IydK5q) | 21 | Get brand icons from Simple Icons | LitoMore | 3.0.0 | 2.3 MB | 2026-04-26 |
@@ -36,13 +36,13 @@
 | [Better Finder](https://www.glaze.app/app/PV8dgl) | 6 | better fs for windows/mac fs refuges!! | Paranjay Khachar | 2.0.0 | 0.1 MB | 2026-07-26 |
 | [Bloodline](https://www.glaze.app/app/3t8E2Y) | 6 | Your blood tests, explained over time! | BLCNYY | 24.0.0 | 0.7 MB | 2026-07-28 |
 | [Blueprint](https://www.glaze.app/app/Ahtha9) | 6 | Turn ideas into software blueprints | Adedoyin Emmanuel | 1.0.0 | 2.1 MB | 2026-07-27 |
+| [Bondfire](https://www.glaze.app/app/g9yKcF) | 6 | The cheat code for staying connected. | Kim Nehzaty | 3.0.0 | 0.2 MB | 2026-07-28 |
 | [Bookie](https://www.glaze.app/app/Z2swLA) | 6 | Convert eBooks with perfect formatting | Timothy Jones | 1.0.0 | 0.3 MB | 2026-04-16 |
 | [Bookmarks](https://www.glaze.app/app/ihUztq) | 6 | Bookmarks in your menu bar | Dmytro Lobov | 7.0.0 | 0.1 MB | 2026-07-26 |
 | [Briefed](https://www.glaze.app/app/pFXQt7) | 6 | Wake up, Get Briefed. | lagon20ms | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [BearMark](https://www.glaze.app/app/BhCTVn) | 5 | Markdown notes with Beeerr's simplicity | Hong Linh Vu | 1.0.0 | 0.3 MB | 2026-07-06 |
 | [Bitrate Inspector](https://www.glaze.app/app/K56QgJ) | 5 | Check audio bitrate in seconds | Ivo Tanev | 2.0.0 | 0.1 MB | 2026-07-18 |
 | [Blunder](https://www.glaze.app/app/0dUOLc) | 5 | Learn from your own mistakes. | Francesco Maisano | 6.0.0 | 6.4 MB | 2026-07-31 |
-| [Bondfire](https://www.glaze.app/app/g9yKcF) | 5 | The cheat code for staying connected. | Kim Nehzaty | 3.0.0 | 0.2 MB | 2026-07-28 |
 | [Balance Sheet](https://www.glaze.app/app/qitbAW) | 4 | Track bills and projected balances | Matt Elliott | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [BatteryPulse](https://www.glaze.app/app/g1iPS4) | 4 | Real watts, measured. Not estimated. | Tommy Chiam | 2.0.0 | 0.1 MB | 2026-07-28 |
 | [Better ToDo App](https://www.glaze.app/app/F32Gah) | 4 | Assign Monetary Value to Your Tasks | alexi.build | 5.0.0 | 0.1 MB | 2026-07-14 |

@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [ray.fm](https://www.glaze.app/app/Af8oi9) | 838 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 288 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 296 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
 | [Reading Corner](https://www.glaze.app/app/k3tfty) | 236 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 0.8 MB | 2026-07-19 |
 | [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 109 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 0.1 MB | 2026-07-20 |
 | [Repo Scout](https://www.glaze.app/app/repo-scout-P3pbfd) | 102 | Discover and manage git repos | Yiwei Ho | 6.0.0 | 0.1 MB | 2026-07-07 |
@@ -65,12 +65,12 @@
 | [Reminders Menu](https://www.glaze.app/app/zCOORx) | 2 | Quick access to your macOS reminders | Kevin | 6.0.0 | 0.1 MB | 2026-07-24 |
 | [Render Queue](https://www.glaze.app/app/01mB0U) | 2 | Batch render After Effects projects fast | Eduard Simota | 5.0.0 | 0.1 MB | 2026-07-06 |
 | [Ribbit](https://www.glaze.app/app/JhZvqe) | 2 | Save rings, compare, say yes. | gumadeiars | 3.0.0 | 3.0 MB | 2026-07-27 |
+| [RTK Status](https://www.glaze.app/app/rDkfQr) | 2 | Monitor RTK in real time | Torsten Bergler | 1.0.0 | 0.1 MB | 2026-07-16 |
 | [Ravenry](https://www.glaze.app/app/37HXLi) | 1 | Collect and organize design inspiration | Jamie | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Razzball Scout](https://www.glaze.app/app/oUzkbi) | 1 | Search Razzball for player mentions | Razzball LLC | 1.0.0 | 0.1 MB | 2026-07-11 |
 | [Repo Pulse](https://www.glaze.app/app/Pd0Skf) | 1 | Track your GitHub repository growth | Artem Novichkov | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [RER E Planner](https://www.glaze.app/app/ciQhnY) | 1 | RER E trains, tracked in real time | Loic.Goyet | 8.0.0 | 0.1 MB | 2026-07-25 |
 | [RestQuest](https://www.glaze.app/app/v537AP) | 1 | Turn sleep into quests and rest better. | Harry Dhaliwal | 1.0.0 | 0.1 MB | 2026-07-29 |
-| [RTK Status](https://www.glaze.app/app/rDkfQr) | 1 | Monitor RTK in real time | Torsten Bergler | 1.0.0 | 0.1 MB | 2026-07-16 |
 | [RAID Calculator](https://www.glaze.app/app/xF2vIw) | 0 | Calculate RAID storage capacity | Travis Tang | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [RayMatch](https://www.glaze.app/app/fgUoYm) | 0 | Match pairs faster than your opponent | Lorenzo Fazioli | 1.0.0 | 0.1 MB | 2026-07-05 |
 | [Realistic Cat Owner Simulator](https://www.glaze.app/app/bZ5OSN) | 0 | Very real cat walks across your keyboard | Kenworthe | 2.0.0 | 0.1 MB | 2026-07-27 |

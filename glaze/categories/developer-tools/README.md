@@ -1,12 +1,12 @@
 # Developer Tools
 
-313 apps · 7,528 installs · [← all categories](../README.md)
+313 apps · 7,536 installs · [← all categories](../README.md)
 
 ## Code & Collaboration
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Git & Repositories](./git-repositories/README.md) | 34 | 1,309 |
+| [Git & Repositories](./git-repositories/README.md) | 34 | 1,312 |
 | [Docs & Reference](./docs-reference.md) | 13 | 167 |
 | [Testing & Quality](./testing-quality.md) | 4 | 8 |
 
@@ -16,14 +16,14 @@
 | --- | --- | --- |
 | [Terminal & Shell](./terminal-shell.md) | 29 | 587 |
 | [Packages & Environments](./packages-environments.md) | 8 | 40 |
-| [APIs & Networking](./apis-networking/README.md) | 36 | 300 |
+| [APIs & Networking](./apis-networking/README.md) | 36 | 302 |
 | [Databases & Data](./databases-data.md) | 3 | 8 |
 
 ## Platforms
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools/README.md) | 109 | 3,154 |
+| [AI & LLM Tools](./ai-llm-tools/README.md) | 109 | 3,157 |
 | [Raycast & Glaze](./raycast-glaze.md) | 4 | 350 |
 
 ## Craft

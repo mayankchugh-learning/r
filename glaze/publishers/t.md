@@ -25,7 +25,7 @@
 | Thiago Holanda | 1 | 212 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) *(Developer Tools)* |
 | Thomas Jost | 1 | 6 | [Dice Order](https://www.glaze.app/app/367A43) *(Games & Fun)* |
 | Thomas Mauconduit | 1 | 36 | [Voxel Studio](https://www.glaze.app/app/W1Zhxy) *(Design)* |
-| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,373 | [see all 12 →](./id/thomas-paul-mann.md) |
+| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,374 | [see all 12 →](./id/thomas-paul-mann.md) |
 | Thomas Williams | 1 | 23 | [My Budget](https://www.glaze.app/app/GEeFXC) *(Productivity)* |
 | Thomaspetrie | 1 | 3 | [Clipboard Flow](https://www.glaze.app/app/xkNePH) *(Utilities)* |
 | Thorpemeister | 2 | 6 | [Radio Player](https://www.glaze.app/app/pTydQH) *(Media)*, [Slumber](https://www.glaze.app/app/BJGDDY) *(Utilities)* |
@@ -43,16 +43,16 @@
 | Tod Maffin | 1 | 0 | [StingDeck](https://www.glaze.app/app/t4LGgz) *(Productivity)* |
 | Tom Barrelo | 1 | 1 | [Portfolio Sentinel](https://www.glaze.app/app/Skxj2W) *(Utilities)* |
 | Tom Panos | 2 | 14 | [DailyType](https://www.glaze.app/app/XCK3wC) *(Productivity)*, [MyNews](https://www.glaze.app/app/3Qu8Hb) *(Productivity)* |
-| Tom Sullivan | 1 | 5 | [Diffy McDiffFace](https://www.glaze.app/app/jHMfRO) *(Developer Tools)* |
+| Tom Sullivan | 1 | 6 | [Diffy McDiffFace](https://www.glaze.app/app/jHMfRO) *(Developer Tools)* |
 | TomasNoMas | 1 | 3 | [FlashFinder](https://www.glaze.app/app/62gVI9) *(Utilities)* |
 | Tommaso Dematté | 1 | 3 | [Token Watch](https://www.glaze.app/app/INTXtZ) *(Developer Tools)* |
 | Tommy | 1 | 6 | [White Noise](https://www.glaze.app/app/Tr2BwL) *(Productivity)* |
 | Tommy Chiam | 1 | 4 | [BatteryPulse](https://www.glaze.app/app/g1iPS4) *(Utilities)* |
 | tonoizer | 1 | 3 | [Nudge](https://www.glaze.app/app/39gt88) *(Productivity)* |
 | TONOS | 1 | 4 | [webp to PNG](https://www.glaze.app/app/ms1HCr) *(Utilities)* |
-| Torsten Bergler | 1 | 1 | [RTK Status](https://www.glaze.app/app/rDkfQr) *(Developer Tools)* |
+| Torsten Bergler | 1 | 2 | [RTK Status](https://www.glaze.app/app/rDkfQr) *(Developer Tools)* |
 | Torsten Lemke | 1 | 10 | [GitLab Client](https://www.glaze.app/app/OJT881) *(Developer Tools)* |
-| Tran Mau Tri Tam | 1 | 37 | [Ding!](https://www.glaze.app/app/oRbL7g) *(Lifestyle)* |
+| Tran Mau Tri Tam | 1 | 38 | [Ding!](https://www.glaze.app/app/oRbL7g) *(Lifestyle)* |
 | Travis Roe | 1 | 0 | [Expiry Watch](https://www.glaze.app/app/expiry-watch-lWtbu3) *(Productivity)* |
 | Travis Tang | 2 | 2 | [Earthquake Monitor](https://www.glaze.app/app/f34VTK) *(Utilities)*, [RAID Calculator](https://www.glaze.app/app/xF2vIw) *(Developer Tools)* |
 | Trevor Hall | 1 | 2 | [Items](https://www.glaze.app/app/9kLuYj) *(Productivity)* |

@@ -16,7 +16,7 @@
 | [Keyboard Lock](https://www.glaze.app/app/X6GQGk) | 7 | Lock your keyboard and trackpad. | Marcus do Nascimento | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [KVF](https://www.glaze.app/app/fs0rfD) | 6 | Stream live TV and radio from KVF | Steingrím Ósá | 5.0.0 | 0.1 MB | 2026-07-27 |
 | [Kanban Board](https://www.glaze.app/app/Z4sDK3) | 5 | Visualize your workflow in columns | 荒井翔 | 1.0.0 | 0.1 MB | 2026-07-08 |
-| [KeyFlow](https://www.glaze.app/app/jzKRnC) | 5 | Master typing with precision and speed | Aryan Gupta | 4.0.0 | 0.2 MB | 2026-07-24 |
+| [KeyFlow](https://www.glaze.app/app/jzKRnC) | 5 | Master typing with precision and speed | Aryan Gupta | 5.0.0 | 0.2 MB | 2026-07-31 |
 | [Knob](https://www.glaze.app/app/ah13w5) | 5 | Say what you want. Find the setting. | Andrei Muntean | 3.0.0 | 0.1 MB | 2026-07-29 |
 | [Kwik-GIF](https://www.glaze.app/app/jOlUSf) | 5 | Fast screen recordings to shareable GIFs | Pardoe | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [K9s](https://www.glaze.app/app/CME6cv) | 4 | Manage Kubernetes clusters and resources | Kishan Dadhania | 13.0.0 | 15.5 MB | 2026-07-26 |

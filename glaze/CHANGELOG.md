@@ -4,6 +4,18 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-07-31
 
+**Markdown Preview:** version 1.0.0 → 2.0.0
+
+**Tempo:** version 5.0.0 → 6.0.0
+
+**KeyFlow:** version 4.0.0 → 5.0.0
+
+**Canvas Audio:** version 15.0.0 → 16.0.0
+
+**Lynxview - Image Viewer:** version 4.0.0 → 5.0.0; name Lynxview → Lynxview - Image Viewer; tagline Browse and view images across folders → "View all your photos in one place"
+
+## 2026-07-31
+
 **Added (2):** [Markdown Preview](https://www.glaze.app/app/markdown-preview-41iQyN), [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT)
 
 **SEOInspector:** version 7.0.0 → 8.0.0

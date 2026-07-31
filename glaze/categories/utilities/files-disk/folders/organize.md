@@ -42,7 +42,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [TimeCapsule](https://www.glaze.app/app/vk8pxo) | 16 | Read Later, Organized Your Way | Tobias Bannwart | 28.0.0 | 8.9 MB | 2026-07-30 |
-| [Folder Iconizer](https://www.glaze.app/app/W4eu14) | 9 | Auto-customize icons by folder content | Aryan Gupta | 3.0.0 | 6.2 MB | 2026-07-30 |
+| [Folder Iconizer](https://www.glaze.app/app/W4eu14) | 10 | Auto-customize icons by folder content | Aryan Gupta | 3.0.0 | 6.2 MB | 2026-07-30 |
 | [Harbor](https://www.glaze.app/app/BeFnak) | 6 | Fast media downloads, every time | Tanzir Rahman | 2.0.0 | 0.1 MB | 2026-07-22 |
 | [Partbin](https://www.glaze.app/app/ENkp3g) | 6 | Organize your 3D printing library | Dennis Muensterer | 7.0.0 | 3.2 MB | 2026-07-27 |
 | [OST](https://www.glaze.app/app/kRyJEL) | 3 | Play custom sounds on demand | Artem Pendiurin | 3.0.0 | 0.2 MB | 2026-07-04 |

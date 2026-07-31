@@ -10,9 +10,9 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 288 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
-| [Tempo](https://www.glaze.app/app/eJfpqe) | 25 | Quick access calendar in your menu bar | Mehul Chokshi | 5.0.0 | 0.1 MB | 2026-07-31 |
-| [My Cockpit](https://www.glaze.app/app/Nilzou) | 13 | Your cockpit for news, Youtube & more | Bruno | 1.0.0 | 0.1 MB | 2026-06-27 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 296 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
+| [Tempo](https://www.glaze.app/app/eJfpqe) | 25 | Quick access calendar in your menu bar | Mehul Chokshi | 6.0.0 | 0.1 MB | 2026-07-31 |
+| [My Cockpit](https://www.glaze.app/app/Nilzou) | 14 | Your cockpit for news, Youtube & more | Bruno | 1.0.0 | 0.1 MB | 2026-06-27 |
 | [Desktop Events](https://www.glaze.app/app/lWaw3B) | 7 | Stay on top of your upcoming events | David Ferguson | 7.0.0 | 0.4 MB | 2026-07-27 |
 | [Yes, But](https://www.glaze.app/app/bXJPCo) | 4 | See the real cost of saying yes | Nils | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Calendar 1976](https://www.glaze.app/app/YMctC6) | 3 | Schedule events the retro way | Olivia Rukavina | 1.0.0 | 0.1 MB | 2026-07-03 |

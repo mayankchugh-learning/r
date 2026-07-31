@@ -1,6 +1,6 @@
 # Dmytro Lobov
 
-16 apps · 76 installs · [← publishers](../README.md)
+16 apps · 78 installs · [← publishers](../README.md)
 
 ## Developer Tools (9)
 
@@ -10,8 +10,8 @@
 | [SEOInspector](https://www.glaze.app/app/FwJNp5) | 9 | Every SEO check your site needs | Dmytro Lobov | 8.0.0 | 0.7 MB | 2026-07-31 |
 | [Foldery](https://www.glaze.app/app/5sZbpN) | 6 | Launch folders in your favorite app | Dmytro Lobov | 23.0.0 | 0.2 MB | 2026-07-30 |
 | [ExposureScanner](https://www.glaze.app/app/CkIqVF) | 4 | Find exposed .env and config files | Dmytro Lobov | 6.0.0 | 0.1 MB | 2026-07-22 |
-| [LinkChecker](https://www.glaze.app/app/qVMVv9) | 3 | Find broken links and bad redirects | Dmytro Lobov | 6.0.0 | 0.7 MB | 2026-07-31 |
-| [SitePulse](https://www.glaze.app/app/CGEXg6) | 3 | Monitor website uptime in real time | Dmytro Lobov | 1.0.0 | 0.1 MB | 2026-07-23 |
+| [LinkChecker](https://www.glaze.app/app/qVMVv9) | 4 | Find broken links and bad redirects | Dmytro Lobov | 6.0.0 | 0.7 MB | 2026-07-31 |
+| [SitePulse](https://www.glaze.app/app/CGEXg6) | 4 | Monitor website uptime in real time | Dmytro Lobov | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [WordPress Recon](https://www.glaze.app/app/zBgB3y) | 3 | See what your WordPress site reveals | Dmytro Lobov | 6.0.0 | 0.1 MB | 2026-07-29 |
 | [HostDeck](https://www.glaze.app/app/eOQYjk) | 2 | Manage /etc/hosts without the terminal | Dmytro Lobov | 4.0.0 | 0.1 MB | 2026-07-22 |
 | [GeoLens](https://www.glaze.app/app/p9eAgc) | 1 | Browse your site as any country sees it | Dmytro Lobov | 2.0.0 | 0.1 MB | 2026-07-23 |

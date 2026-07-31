@@ -14,7 +14,7 @@
 | [Sampler](https://www.glaze.app/app/daIOtZ) | 7 | Sample, slice and export any audio | LukeberryPi | 3.0.0 | 0.1 MB | 2026-07-30 |
 | [Chop](https://www.glaze.app/app/650NIo) | 6 | Remove silence from media | Rubens Nook | 3.0.0 | 0.1 MB | 2026-07-13 |
 | [Caption Craft](https://www.glaze.app/app/D4916q) | 5 | Phrase-smart, scene-aware video captions | Sam Sitar | 2.0.0 | 33.6 MB | 2026-07-28 |
-| [Canvas Audio](https://www.glaze.app/app/PFiJ1z) | 4 | Arrange audio simply and intuitively | Davidestevens | 15.0.0 | 0.1 MB | 2026-07-27 |
+| [Canvas Audio](https://www.glaze.app/app/PFiJ1z) | 4 | Arrange audio simply and intuitively | Davidestevens | 16.0.0 | 0.1 MB | 2026-07-31 |
 | [Audio Splice](https://www.glaze.app/app/9UnhpT) | 1 | Merge audio files with markers | Davidestevens | 3.0.0 | 23.1 MB | 2026-07-16 |
 | [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 1 | Preview, organize, and export audio | Davidestevens | 10.0.0 | 0.1 MB | 2026-07-31 |
 | [Scenes](https://www.glaze.app/app/dQg97x) | 1 | Edit videos without the complexity | Yan Frossard | 1.0.0 | 0.1 MB | 2026-07-28 |

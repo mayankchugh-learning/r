@@ -16,7 +16,7 @@
 | [Contrasty](https://www.glaze.app/app/KBTe9V) | 2 | Check WCAG compliance easily | Sven | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Cura](https://www.glaze.app/app/HP0tKT) | 2 | Switch Cursor accounts without friction | Erbil Nas | 6.0.0 | 0.1 MB | 2026-07-13 |
 | [Spice Lab](https://www.glaze.app/app/dphdR8) | 1 | Design and simulate circuits instantly | Jovan James Binoj | 1.0.0 | 5.5 MB | 2026-07-26 |
-| [Markdown Preview](https://www.glaze.app/app/markdown-preview-41iQyN) | 0 | View Markdown instantly, skip the IDE | freddy | 1.0.0 | 1.9 MB | 2026-07-31 |
+| [Markdown Preview](https://www.glaze.app/app/markdown-preview-41iQyN) | 0 | View Markdown instantly, skip the IDE | freddy | 2.0.0 | 1.9 MB | 2026-07-31 |
 
 ## Icons ✦
 

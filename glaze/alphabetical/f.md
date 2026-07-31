@@ -31,12 +31,12 @@
 | [Feed Reader](https://www.glaze.app/app/W1JbFH) | 10 | Aggregate news from your favorite sites | Mariane Pocai | 1.0.0 | 0.2 MB | 2026-07-10 |
 | [fn](https://www.glaze.app/app/Ng26Oh) | 10 | Instant answers to any question | Manoj Kumar | 10.0.0 | 2.3 MB | 2026-05-30 |
 | [Focus Light](https://www.glaze.app/app/2BRyPC) | 10 | Highlight where your mouse is pointing | gutek | 1.0.0 | 0.0 MB | 2026-06-01 |
+| [Folder Iconizer](https://www.glaze.app/app/W4eu14) | 10 | Auto-customize icons by folder content | Aryan Gupta | 3.0.0 | 6.2 MB | 2026-07-30 |
 | [FFmpeg Studio](https://www.glaze.app/app/IAM83X) | 9 | Convert media with visual presets | Lee Sherman | 1.0.0 | 0.1 MB | 2026-07-12 |
 | [File Sorter](https://www.glaze.app/app/2n5jTs) | 9 | Auto-organize files with AI | Shearm | 3.0.0 | 0.1 MB | 2026-06-25 |
 | [File Sorter](https://www.glaze.app/app/mst1DY) | 9 | Automatically organize files by type | John Hesch | 5.0.0 | 0.1 MB | 2026-07-12 |
 | [FlowTime](https://www.glaze.app/app/uB17ag) | 9 | Compare global time zones at a glance | Roxana⚡️ | 2.0.0 | 0.1 MB | 2026-07-28 |
 | [Focus Rail](https://www.glaze.app/app/r5i5x7) | 9 | Stay visually anchored while reading | Jesse Dugas | 2.0.0 | 0.1 MB | 2026-06-07 |
-| [Folder Iconizer](https://www.glaze.app/app/W4eu14) | 9 | Auto-customize icons by folder content | Aryan Gupta | 3.0.0 | 6.2 MB | 2026-07-30 |
 | [ForgetMeNot](https://www.glaze.app/app/nOh0wO) | 9 | Too small to plan, too big to forget | Giedrė Blekaitė | 2.0.0 | 0.1 MB | 2026-06-02 |
 | [FIP Radio](https://www.glaze.app/app/wnfQZz) | 8 | Stream live French radio with audio | Dhruv Suthar | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Flag Study](https://www.glaze.app/app/Ct17Wh) | 8 | Learn and master world flags | Shane Jeffers | 3.0.0 | 2.4 MB | 2026-07-28 |

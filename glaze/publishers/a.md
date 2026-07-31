@@ -9,7 +9,7 @@
 | A Lee | 1 | 0 | [Furigana Reader](https://www.glaze.app/app/WRt2U3) *(Utilities)* |
 | Aanya Singh | 1 | 4 | [Bloop](https://www.glaze.app/app/RRfc1h) *(Productivity)* |
 | Aaresvic | 2 | 4 | [Cookie scanner](https://www.glaze.app/app/nLD8Qi) *(Developer Tools)*, [Vercel analytics](https://www.glaze.app/app/ZLF9f0) *(Developer Tools)* |
-| Aaron Rich | 1 | 4 | [DiffCheck](https://www.glaze.app/app/72vYWq) *(Developer Tools)* |
+| Aaron Rich | 1 | 5 | [DiffCheck](https://www.glaze.app/app/72vYWq) *(Developer Tools)* |
 | Aayush Iyer | 1 | 2 | [Scrycast](https://www.glaze.app/app/g53BKY) *(Utilities)* |
 | Abdul Raheem | 1 | 0 | [Film Production Budget](https://www.glaze.app/app/5UmQXz) *(Productivity)* |
 | Abed | 1 | 11 | [Gloss](https://www.glaze.app/app/wkIuar) *(Productivity)* |
@@ -35,7 +35,7 @@
 | Ahmet Güler | 1 | 11 | [Darkroom Studio](https://www.glaze.app/app/5aumRY) *(Media)* |
 | AI4Marketing | 1 | 0 | [AI4Marketing.cz](https://www.glaze.app/app/L82rD4) *(Productivity)* |
 | AJ Batac | 1 | 4 | [Kulay (Color)](https://www.glaze.app/app/bbzPPl) *(Design)* |
-| Ajay Odedra | 1 | 98 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
+| Ajay Odedra | 1 | 108 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
 | ajnart | 1 | 14 | [Wheel Launcher](https://www.glaze.app/app/SmYxn5) *(Productivity)* |
 | Ak Deepankar | 1 | 9 | [Mac Flow](https://www.glaze.app/app/FKfVNE) *(Design)* |
 | Akanbi Toheeb | 1 | 3 | [Cehua](https://www.glaze.app/app/osrdrz) *(Developer Tools)* |
@@ -80,14 +80,14 @@
 | Andre Garcia | 1 | 2 | [Clock Face](https://www.glaze.app/app/Eeaypf) *(Utilities)* |
 | Andre Martins | 1 | 3 | [TaxNomad](https://www.glaze.app/app/XmV8Yu) *(Utilities)* |
 | Andre N. | 1 | 13 | [Mori](https://www.glaze.app/app/2R9BrO) *(Productivity)* |
-| André Pinto | 1 | 76 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) *(Media)* |
+| André Pinto | 1 | 81 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) *(Media)* |
 | Andre Yamazaki | 2 | 9 | [PDF to Image](https://www.glaze.app/app/s38kIA) *(Utilities)*, [Label Converter](https://www.glaze.app/app/m67Wr2) *(Utilities)* |
 | Andrea Cipriani | 1 | 25 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) *(Productivity)* |
 | Andrea Montinovo | 1 | 9 | [Download Time Calculator](https://www.glaze.app/app/PeVPLM) *(Utilities)* |
 | Andreas Elia | 3 | 37 | [Word Guesser](https://www.glaze.app/app/nAsjJi) *(Games & Fun)*, [Underground Driver](https://www.glaze.app/app/sLCDOf) *(Games & Fun)*, [Word Connections](https://www.glaze.app/app/Xt8TcC) *(Games & Fun)* |
 | Andreas Persson | 2 | 12 | [all the ports](https://www.glaze.app/app/aDVzGP) *(Developer Tools)*, [AuthReach](https://www.glaze.app/app/gT8Mjv) *(Utilities)* |
 | Andrei Muntean | 1 | 5 | [Knob](https://www.glaze.app/app/ah13w5) *(Utilities)* |
-| Andrew Bondarenko | 1 | 40 | [One Note](https://www.glaze.app/app/one-note-DhbXQo) *(Productivity)* |
+| Andrew Bondarenko | 1 | 43 | [One Note](https://www.glaze.app/app/one-note-DhbXQo) *(Productivity)* |
 | Andrew Kerr | 1 | 6 | [Pixel Measure](https://www.glaze.app/app/g3fVjP) *(Developer Tools)* |
 | Andrew Lindstrom | 1 | 10 | [Copy That](https://www.glaze.app/app/QYtGUY) *(Utilities)* |
 | Andrew Schreiber | 1 | 8 | [SpeedTester](https://www.glaze.app/app/VQqxHM) *(Utilities)* |
@@ -117,7 +117,7 @@
 | Artem Pendiurin | 1 | 3 | [OST](https://www.glaze.app/app/kRyJEL) *(Utilities)* |
 | Arthesth Aadhran | 1 | 4 | [Claud + Chatgpt Quota Watch](https://www.glaze.app/app/nZ04u4) *(Developer Tools)* |
 | Arun Jayanthi | 1 | 22 | [F1](https://www.glaze.app/app/VaZOM1) *(Lifestyle)* |
-| Aryan Gupta | 2 | 14 | [Folder Iconizer](https://www.glaze.app/app/W4eu14) *(Utilities)*, [KeyFlow](https://www.glaze.app/app/jzKRnC) *(Productivity)* |
+| Aryan Gupta | 2 | 15 | [Folder Iconizer](https://www.glaze.app/app/W4eu14) *(Utilities)*, [KeyFlow](https://www.glaze.app/app/jzKRnC) *(Productivity)* |
 | Aseem Taneja | 1 | 5 | [Contextphobia for Claude Code](https://www.glaze.app/app/PhIHl7) *(Developer Tools)* |
 | ashing zheng | 1 | 5 | [Domain Checker](https://www.glaze.app/app/JPwyCH) *(Developer Tools)* |
 | Ashot Grigoryan | 1 | 7 | [Captured.](https://www.glaze.app/app/4wSYz1) *(Utilities)* |

@@ -86,9 +86,10 @@
 | [Color History](https://www.glaze.app/app/ZDXqLl) | 5 | Never lose a color you pick again | Denys | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Contact Diff](https://www.glaze.app/app/T45AgQ) | 5 | Instantly find and fix duplicates | Shearm | 2.0.0 | 0.0 MB | 2026-04-16 |
 | [Contextphobia for Claude Code](https://www.glaze.app/app/PhIHl7) | 5 | Tokens per session in your menubar | Aseem Taneja | 3.0.0 | 0.0 MB | 2026-07-06 |
+| [Crawler Visibility Checker by Prerender Buddy](https://www.glaze.app/app/ETVfdR) | 5 | Check if crawlers can read your website | Jonas Tmb | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [CrossSwords](https://www.glaze.app/app/GhcCR9) | 5 | Create crosswords | Qualigraphe.com | 2.0.0 | 0.2 MB | 2026-07-08 |
 | [Crypto Arbitrage Scanner](https://www.glaze.app/app/Tdpieh) | 5 | Track crypto arbitrage opportunities | Manuel de Cara | 3.0.0 | 0.1 MB | 2026-07-09 |
-| [Canvas Audio](https://www.glaze.app/app/PFiJ1z) | 4 | Arrange audio simply and intuitively | Davidestevens | 15.0.0 | 0.1 MB | 2026-07-27 |
+| [Canvas Audio](https://www.glaze.app/app/PFiJ1z) | 4 | Arrange audio simply and intuitively | Davidestevens | 16.0.0 | 0.1 MB | 2026-07-31 |
 | [Caps Blink](https://www.glaze.app/app/ZBKtA9) | 4 | Turn Caps Lock into a Codex status light | vansh | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Card Vault](https://www.glaze.app/app/OZEFGP) | 4 | Flashcards from your plain text files | Neeldhara Misra | 1.0.0 | 7.3 MB | 2026-07-28 |
 | [Cartographer](https://www.glaze.app/app/LyllLm) | 4 | Visual file navigation made simple. | Jstlykdat | 2.0.0 | 0.1 MB | 2026-07-27 |
@@ -100,7 +101,6 @@
 | [Clipboard Tray](https://www.glaze.app/app/6cecvM) | 4 | Keep your copied text within reach | רועי ריקמן | 3.0.0 | 0.1 MB | 2026-07-26 |
 | [Code Quest](https://www.glaze.app/app/K85SfV) | 4 | Learn programming through visual puzzles | benface | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [Codex Credit](https://www.glaze.app/app/Xr6eVF) | 4 | Estimate your monthly Codex Credit spend | Nando | 1.0.0 | 0.1 MB | 2026-07-03 |
-| [Crawler Visibility Checker by Prerender Buddy](https://www.glaze.app/app/ETVfdR) | 4 | Check if crawlers can read your website | Jonas Tmb | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [Cue](https://www.glaze.app/app/uLM0B8) | 4 | Schedule text input into any app. | Roydanielr | 2.0.0 | 0.1 MB | 2026-07-28 |
 | [Cyber Toolkit](https://www.glaze.app/app/WsncJp) | 4 | Security and coding tools in one place | Lorenzo Fazioli | 1.0.0 | 0.1 MB | 2026-07-05 |
 | [Calendar 1976](https://www.glaze.app/app/YMctC6) | 3 | Schedule events the retro way | Olivia Rukavina | 1.0.0 | 0.1 MB | 2026-07-03 |
@@ -115,6 +115,7 @@
 | [Commonplace](https://www.glaze.app/app/RtaYUX) | 3 | A commonplace book for digital libraries | Benjamin Siens | 6.0.0 | 21.6 MB | 2026-07-28 |
 | [CompareMe](https://www.glaze.app/app/X2Kdbe) | 3 | Spot what changed between files fast | Adi Goldstein | 2.0.0 | 1.6 MB | 2026-07-27 |
 | [Contrast Control](https://www.glaze.app/app/kHVzuV) | 3 | Adjust Mac display contrast from menu | Philipp.Herzig | 2.0.0 | 0.1 MB | 2026-06-28 |
+| [Contxt](https://www.glaze.app/app/aefWQ2) | 3 | Create visual context for AI websites. | Mark Yaasi | 4.0.0 | 1.6 MB | 2026-07-28 |
 | [Cookie scanner](https://www.glaze.app/app/nLD8Qi) | 3 | Scan websites for hidden trackers | Aaresvic | 3.0.0 | 0.1 MB | 2026-07-04 |
 | [Crate](https://www.glaze.app/app/VylNZA) | 3 | A unified music player for collectors | Renier Botha | 1.0.0 | 8.4 MB | 2026-07-23 |
 | [Crude Watch](https://www.glaze.app/app/nbXx15) | 3 | Track oil prices, get instant alerts | @zenithquinn | 1.0.0 | 0.1 MB | 2026-07-01 |
@@ -132,7 +133,6 @@
 | [CodeVault](https://www.glaze.app/app/CqhCSJ) | 2 | Premium code editor with advanced | credesasq | 1.0.0 | 15.5 MB | 2026-07-25 |
 | [Collector’s Catalog](https://www.glaze.app/app/gX4n0Q) | 2 | Organize and Display your Collection | Brittany Smith | 1.0.0 | 0.7 MB | 2026-07-27 |
 | [Contrasty](https://www.glaze.app/app/KBTe9V) | 2 | Check WCAG compliance easily | Sven | 1.0.0 | 0.1 MB | 2026-07-02 |
-| [Contxt](https://www.glaze.app/app/aefWQ2) | 2 | Create visual context for AI websites. | Mark Yaasi | 4.0.0 | 1.6 MB | 2026-07-28 |
 | [Crop](https://www.glaze.app/app/lGQeJB) | 2 | Design layouts in seconds, not hours | Nicholas | 5.0.0 | 0.1 MB | 2026-07-28 |
 | [Cue Master](https://www.glaze.app/app/qP6LN2) | 2 | Cueing for Live Shows - Made Easy | Ziggy Bornas | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Cura](https://www.glaze.app/app/HP0tKT) | 2 | Switch Cursor accounts without friction | Erbil Nas | 6.0.0 | 0.1 MB | 2026-07-13 |

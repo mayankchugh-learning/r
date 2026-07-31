@@ -13,7 +13,7 @@
 | Jake Donlan | 1 | 7 | [Typecard](https://www.glaze.app/app/cbo0CY) *(Design)* |
 | Jaladhi Pujara | 1 | 5 | [Provenance](https://www.glaze.app/app/TOCKAe) *(Productivity)* |
 | James Coy (JC) | 1 | 5 | [Clipfloat](https://www.glaze.app/app/0DLNYu) *(Developer Tools)* |
-| James Dawson | 1 | 56 | [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) *(Productivity)* |
+| James Dawson | 1 | 58 | [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) *(Productivity)* |
 | James Jackson | 1 | 7 | [nib](https://www.glaze.app/app/RJAlJp) *(Productivity)* |
 | James Jeffery | 1 | 6 | [Ripple](https://www.glaze.app/app/FQfYOf) *(Media)* |
 | James Victor | 1 | 4 | [Activity Ridge](https://www.glaze.app/app/f2dURs) *(Productivity)* |
@@ -69,7 +69,7 @@
 | John Stark | 1 | 3 | [Sound Mix](https://www.glaze.app/app/h70zSs) *(Utilities)* |
 | John.Gatev | 1 | 15 | [Priority Matrix](https://www.glaze.app/app/erfrci) *(Productivity)* |
 | Jon Martin Stuberg | 1 | 18 | [Claude Monitor](https://www.glaze.app/app/bdjdQb) *(Developer Tools)* |
-| Jonas Tmb | 2 | 7 | [Crawler Visibility Checker by Prerender Buddy](https://www.glaze.app/app/ETVfdR) *(Developer Tools)*, [Handle It](https://www.glaze.app/app/Cs4rjZ) *(Productivity)* |
+| Jonas Tmb | 2 | 8 | [Crawler Visibility Checker by Prerender Buddy](https://www.glaze.app/app/ETVfdR) *(Developer Tools)*, [Handle It](https://www.glaze.app/app/Cs4rjZ) *(Productivity)* |
 | Jonathan Millar | 1 | 0 | [Campfires NB](https://www.glaze.app/app/ARGRWo) *(Utilities)* |
 | Jonathan Nyst | 1 | 6 | [Star Keeper](https://www.glaze.app/app/qdA2Jc) *(Developer Tools)* |
 | Jonathan.fusellier | 1 | 17 | [Air Monitor](https://www.glaze.app/app/9iA1yL) *(Utilities)* |
@@ -96,5 +96,5 @@
 | Justin Harris | 1 | 3 | [Highlighter](https://www.glaze.app/app/DuaGT4) *(Productivity)* |
 | Justin Kerby | 1 | 5 | [Today Tasks](https://www.glaze.app/app/X5rZJ4) *(Productivity)* |
 | Justin Lancaster | 1 | 104 | [MicCheck](https://www.glaze.app/app/miccheck-TRFqOJ) *(Utilities)* |
-| Justis Faulkner | 1 | 8 | [Diff](https://www.glaze.app/app/XshMGr) *(Developer Tools)* |
+| Justis Faulkner | 1 | 9 | [Diff](https://www.glaze.app/app/XshMGr) *(Developer Tools)* |
 | jyu sung | 1 | 16 | [JSON Viewer](https://www.glaze.app/app/TVM4IK) *(Developer Tools)* |

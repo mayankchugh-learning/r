@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [One Note](https://www.glaze.app/app/one-note-DhbXQo) | 40 | Leave a note on their Mac | Andrew Bondarenko | 3.0.0 | 0.1 MB | 2026-07-28 |
+| [One Note](https://www.glaze.app/app/one-note-DhbXQo) | 43 | Leave a note on their Mac | Andrew Bondarenko | 3.0.0 | 0.1 MB | 2026-07-28 |
 | [Obsidian Task Dashboard](https://www.glaze.app/app/YgUf4O) | 20 | Organize Obsidian tasks by folder | Jose Ryu Leonesta | 2.0.0 | 0.1 MB | 2026-07-02 |
 | [Outside](https://www.glaze.app/app/bkH281) | 20 | Sync your desktop with the weather | Tan | 3.0.0 | 0.1 MB | 2026-07-23 |
 | [og:inspect](https://www.glaze.app/app/FxW58J) | 19 | Preview OG metadata alongside your site | Jac Peregrine-Davies | 2.0.0 | 0.1 MB | 2026-07-01 |

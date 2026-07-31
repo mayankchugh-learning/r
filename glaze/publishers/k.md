@@ -6,7 +6,7 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| ka | 1 | 2 | [Paper Toy Studio](https://www.glaze.app/app/C8ahWx) *(Design)* |
+| ka | 1 | 3 | [Paper Toy Studio](https://www.glaze.app/app/C8ahWx) *(Design)* |
 | Kaiyu Lei | 1 | 0 | [Stock Pulse](https://www.glaze.app/app/Dcbp8Q) *(Productivity)* |
 | Kakasf158 | 1 | 4 | [Emerald](https://www.glaze.app/app/rh8pT9) *(Productivity)* |
 | Kami | 1 | 1 | [Cull](https://www.glaze.app/app/pCwJOf) *(Utilities)* |
@@ -28,7 +28,7 @@
 | Kevin Rodgers | 1 | 4 | [Vinyl Vault](https://www.glaze.app/app/n2HZ3b) *(Utilities)* |
 | Khalid Hasan Zibon | 1 | 400 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) *(Productivity)* |
 | Kieran McGrady | 1 | 5 | [MP3PLAYER](https://www.glaze.app/app/HZazF0) *(Media)* |
-| Kim Nehzaty | 1 | 5 | [Bondfire](https://www.glaze.app/app/g9yKcF) *(Lifestyle)* |
+| Kim Nehzaty | 1 | 6 | [Bondfire](https://www.glaze.app/app/g9yKcF) *(Lifestyle)* |
 | KIN HEI SHING | 1 | 0 | [Social Hub](https://www.glaze.app/app/yMQLG8) *(Productivity)* |
 | Kinsley Ogunmola | 1 | 3 | [PlantUML Editor](https://www.glaze.app/app/R4hr68) *(Developer Tools)* |
 | Kiril Kirov | 1 | 4 | [Image Hub](https://www.glaze.app/app/8hOlab) *(Media)* |

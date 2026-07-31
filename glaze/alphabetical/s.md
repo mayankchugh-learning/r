@@ -109,6 +109,7 @@
 | [Saulamandra](https://www.glaze.app/app/xCAmiz) | 4 | The assistant for the freelance lawyer | Marc Valderrama | 7.0.0 | 0.4 MB | 2026-07-28 |
 | [Screen Balance](https://www.glaze.app/app/v7bnAv) | 4 | Monitor app usage and set screentime | Satyaachanti1710 | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Shoebox](https://www.glaze.app/app/fZLDUl) | 4 | Find any screenshot by what it says | Favour Olaboye | 4.0.0 | 0.1 MB | 2026-07-28 |
+| [SitePulse](https://www.glaze.app/app/CGEXg6) | 4 | Monitor website uptime in real time | Dmytro Lobov | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [SKECHE](https://www.glaze.app/app/vUHlzf) | 4 | Your Screen, Vectorized Instantly. | sakshi ranglani | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Slice](https://www.glaze.app/app/kaCR16) | 4 | Remove a strip from an image | Michaël Maarek | 2.0.0 | 0.1 MB | 2026-07-01 |
 | [Snake Game](https://www.glaze.app/app/KfGlMs) | 4 | Classic snake gameplay | Eason Bao | 1.0.0 | 0.1 MB | 2026-07-07 |
@@ -125,7 +126,6 @@
 | [Sei — Quick Actions for Finder](https://www.glaze.app/app/y9t2mE) | 3 | Faster file tasks, right from Finder | chottodare | 2.0.0 | 0.5 MB | 2026-07-29 |
 | [Sheaf](https://www.glaze.app/app/GxIxXb) | 3 | Live markdown editor, side by side | Colin Butts | 1.0.0 | 2.3 MB | 2026-07-18 |
 | [Shelf](https://www.glaze.app/app/VOwCXA) | 3 | For the people who still have the discs | Dankay | 3.0.0 | 0.1 MB | 2026-07-28 |
-| [SitePulse](https://www.glaze.app/app/CGEXg6) | 3 | Monitor website uptime in real time | Dmytro Lobov | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [Solar Weekly Forecast](https://www.glaze.app/app/5hULnd) | 3 | Forecast how much solar can make | Dave Wong | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [SolveBase Water Reminder](https://www.glaze.app/app/6bFtte) | 3 | Stay hydrated, stay healthy every day. | Solve Base | 1.0.0 | 0.1 MB | 2026-07-12 |
 | [Sorty](https://www.glaze.app/app/hccR53) | 3 | Auto-organize media by date instantly | Ugo Possenti | 1.0.0 | 0.1 MB | 2026-07-02 |

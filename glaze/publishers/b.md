@@ -56,7 +56,7 @@
 | Brice Gramm | 1 | 15 | [Scorebug](https://www.glaze.app/app/gwd46m) *(Utilities)* |
 | Brittany Smith | 1 | 2 | [Collector’s Catalog](https://www.glaze.app/app/gX4n0Q) *(Productivity)* |
 | Bruce Makes | 2 | 15 | [Clean My Keyboard](https://www.glaze.app/app/HWMqY1) *(Utilities)*, [Noted](https://www.glaze.app/app/O03e66) *(Productivity)* |
-| Bruno | 1 | 13 | [My Cockpit](https://www.glaze.app/app/Nilzou) *(Productivity)* |
+| Bruno | 1 | 14 | [My Cockpit](https://www.glaze.app/app/Nilzou) *(Productivity)* |
 | Bruno Reis | 3 | 25 | [Cahier](https://www.glaze.app/app/daTMf7) *(Productivity)*, [meets](https://www.glaze.app/app/FQ2bvX) *(Developer Tools)*, [In Formation](https://www.glaze.app/app/hHqNpB) *(Design)* |
 | Bruno Totoro | 2 | 12 | [Chord Forge](https://www.glaze.app/app/vMN18E) *(Media)*, [Tab Reader](https://www.glaze.app/app/KaaTzt) *(Utilities)* |
 | Bryan Reed | 1 | 2 | [Gator Football Hub](https://www.glaze.app/app/h9AAVX) *(Media)* |

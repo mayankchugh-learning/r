@@ -34,6 +34,7 @@
 | [Lantern](https://www.glaze.app/app/p27CtZ) | 6 | See what's missing before you ship. | Lori Collins | 2.0.0 | 0.1 MB | 2026-07-23 |
 | [Links Kanban](https://www.glaze.app/app/Fk71ao) | 6 | Simple Raindrop + Jira bookmarks manager | Eldar Khuzin | 1.0.0 | 0.2 MB | 2026-06-12 |
 | [Lore](https://www.glaze.app/app/KfX7wd) | 6 | Search your folders with AI instantly | Werner Deuermeier | 3.0.0 | 1.8 MB | 2026-07-28 |
+| [LinkChecker](https://www.glaze.app/app/qVMVv9) | 4 | Find broken links and bad redirects | Dmytro Lobov | 6.0.0 | 0.7 MB | 2026-07-31 |
 | [Local Server](https://www.glaze.app/app/Lk3DCH) | 4 | Start and manage local servers | Sander Schat | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Loci](https://www.glaze.app/app/n5g6AF) | 4 | Collect wisdom, revisit it daily | Jason Covington | 1.0.0 | 142.7 MB | 2026-07-24 |
 | [Looma.Fm](https://www.glaze.app/app/e5Ex91) | 4 | Unwind with curated relaxation music | Adi Goldstein | 5.0.0 | 1.9 MB | 2026-07-27 |
@@ -41,9 +42,8 @@
 | [La Galerie](https://www.glaze.app/app/zfoAhM) | 3 | The best Mac artwork visualizer. | Stiven Orlando Triana | 2.0.0 | 0.4 MB | 2026-07-27 |
 | [Last Call](https://www.glaze.app/app/U5pAi1) | 3 | Know when to stop coffee before bed | Martin Gorol | 7.0.0 | 0.5 MB | 2026-07-27 |
 | [Librarian](https://www.glaze.app/app/bLW0OB) | 3 | Calibre-compatible ebook library manager | RobM | 1.0.0 | 0.1 MB | 2026-07-04 |
-| [LinkChecker](https://www.glaze.app/app/qVMVv9) | 3 | Find broken links and bad redirects | Dmytro Lobov | 6.0.0 | 0.7 MB | 2026-07-31 |
 | [Long Play](https://www.glaze.app/app/Vzaw38) | 3 | Play long songs on your speaker | Pieter Moorman | 1.0.0 | 0.1 MB | 2026-07-02 |
-| [Lynxview](https://www.glaze.app/app/VidXHE) | 3 | Browse and view images across folders | Maicol Oliveira | 4.0.0 | 0.1 MB | 2026-07-30 |
+| [Lynxview - Image Viewer](https://www.glaze.app/app/VidXHE) | 3 | "View all your photos in one place" | Maicol Oliveira | 5.0.0 | 0.1 MB | 2026-07-31 |
 | [Lyricsmith](https://www.glaze.app/app/6dYvei) | 3 | Song-Writers Toolbox | Jeff Augustin | 1.0.0 | 0.3 MB | 2026-07-24 |
 | [LinkedIn Pulse](https://www.glaze.app/app/mC2jGB) | 2 | Optimize your LinkedIn growth strategy | Alistair4312 | 4.0.0 | 0.1 MB | 2026-07-23 |
 | [log-lite](https://www.glaze.app/app/6ldf4h) | 2 | No nonsense time logging for busy people | Frederic Lierman | 1.0.0 | 0.3 MB | 2026-07-17 |
