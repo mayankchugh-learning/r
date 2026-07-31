@@ -1,6 +1,6 @@
 # Publishers
 
-2082 publishers · [← catalog index](../README.md)
+2083 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,083,559 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,083,588 |
 | 2 | [raycast](./id/raycast.md) | 11 | 775,576 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,920 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 485,099 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,952 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 485,120 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 431,974 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 426,912 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,973 |
@@ -39,7 +39,7 @@
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 97,731 |
 | 30 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 92,755 |
 | 31 | [erics118](https://www.raycast.com/erics118) | 3 | 92,429 |
-| 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 89,594 |
+| 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 89,595 |
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 89,405 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 89,355 |
 | 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 85,714 |
@@ -229,7 +229,7 @@
 | 219 | [HerbertLu](https://www.raycast.com/HerbertLu) | 4 | 6,093 |
 | 220 | [cjdenio](https://www.raycast.com/cjdenio) | 1 | 6,087 |
 | 221 | [agustin.prats](https://www.raycast.com/agustin.prats) | 1 | 6,081 |
-| 222 | [chrismessina](./id/chrismessina.md) | 14 | 6,070 |
+| 222 | [chrismessina](./id/chrismessina.md) | 14 | 6,072 |
 | 223 | [anton-suprun](https://www.raycast.com/anton-suprun) | 1 | 5,949 |
 | 224 | [anysphere](https://www.raycast.com/anysphere) | 1 | 5,942 |
 | 225 | [kud](./id/kud.md) | 12 | 5,876 |
@@ -2087,6 +2087,7 @@
 | 2077 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
 | 2078 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
 | 2079 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2080 | github-next | 2 | — |
-| 2081 | multi | 1 | — |
-| 2082 | sharat_visweswara | 1 | — |
+| 2080 | [ysrazsingh](https://www.raycast.com/ysrazsingh) | 1 | 0 |
+| 2081 | github-next | 2 | — |
+| 2082 | multi | 1 | — |
+| 2083 | sharat_visweswara | 1 | — |

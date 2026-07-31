@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7c4010acad3590f2360209e9f2af53fca73bbacf",
-  "generatedAt": "2026-07-31T10:47:30.521Z",
-  "downloadsRefreshedAt": "2026-07-31T10:47:29.674Z",
-  "count": 3135,
+  "commit": "57feab1f407834540063ec5391964075242ad9ce",
+  "generatedAt": "2026-07-31T11:47:24.902Z",
+  "downloadsRefreshedAt": "2026-07-31T11:47:24.516Z",
+  "count": 3136,
   "extensions": [
     {
       "dir": "0x0",
@@ -9427,7 +9427,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 496651
+      "downloads": 496680
     },
     {
       "dir": "color-shades",
@@ -21319,7 +21319,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 485099
+      "downloads": 485120
     },
     {
       "dir": "google-chrome-profiles",
@@ -27134,7 +27134,7 @@
       ],
       "store": "https://www.raycast.com/luolei/karakeep",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/karakeep",
-      "treeSha": "366852cb2bfea35f554ebd198c39e1df4d83c10f",
+      "treeSha": "9a22ec5ec5fe10ac89b9390723725c7712cd68c5",
       "downloads": 2077
     },
     {
@@ -27555,7 +27555,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 652920
+      "downloads": 652952
     },
     {
       "dir": "kimai",
@@ -43698,7 +43698,7 @@
       "store": "https://www.raycast.com/pernielsentikaer/qbitorrent",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qbittorrent",
       "treeSha": "aed8e39ba24e8fa5d174cfd75ca7f6ecc781b9f9",
-      "downloads": 2681
+      "downloads": 2682
     },
     {
       "dir": "qmd",
@@ -45972,8 +45972,8 @@
       ],
       "store": "https://www.raycast.com/chrismessina/raycast-store-updates",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates",
-      "treeSha": "46ea6058fdafb611c69f7f41f65dccda6a3da826",
-      "downloads": 2025
+      "treeSha": "0fe05fd577760dd227800158f2fdc012a8b92453",
+      "downloads": 2027
     },
     {
       "dir": "raycast-svg64",
@@ -57025,6 +57025,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ticktick",
       "treeSha": "70f0e19fdba426ab1f9fab841920bf1d69df4683",
       "downloads": 21787
+    },
+    {
+      "dir": "ticktick-plus",
+      "name": "ticktick-plus",
+      "title": "TickTick+",
+      "description": "Manage TickTick tasks, projects, habits, and focus sessions from Raycast.",
+      "author": "ysrazsingh",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/ysrazsingh/ticktick-plus",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ticktick-plus",
+      "treeSha": "d9df91563002ea7135b6b0a032a82cb94e7393b3",
+      "downloads": 0
     },
     {
       "dir": "tidal",

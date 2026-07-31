@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · **Y** · [Z](./z.md)
 
-43 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+44 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -37,6 +37,7 @@
 | [YourMCGeek](https://www.raycast.com/YourMCGeek) | 1 | 11 | **Web:** [BuiltByBit](https://github.com/raycast/extensions/tree/main/extensions/builtbybit) |
 | [yoyoyeti](https://www.raycast.com/yoyoyeti) | 1 | 991 | **Productivity:** [YubiKey Code](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) |
 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 1 | **Productivity:** [Quran Quick Insert](https://github.com/raycast/extensions/tree/main/extensions/quran-quick-insert) |
+| [ysrazsingh](https://www.raycast.com/ysrazsingh) | 1 | 0 | **Productivity:** [TickTick+](https://github.com/raycast/extensions/tree/main/extensions/ticktick-plus) |
 | [yuercl](https://www.raycast.com/yuercl) | 2 | 34,884 | **Productivity:** [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa)<br>**Developer Tools:** [Bitbucket Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/bitbucket-search-self-hosted) |
 | [yufeikang](https://www.raycast.com/yufeikang) | 1 | 1,225 | **Developer Tools:** [Oh My Zsh Git Alias](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) |
 | [yug2005](https://www.raycast.com/yug2005) | 4 | 46,042 | **Applications:** [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail)<br>**Design Tools:** [Icons8](https://github.com/raycast/extensions/tree/main/extensions/icons8), [React Icons](https://github.com/raycast/extensions/tree/main/extensions/react-icons)<br>**Productivity:** [Random US Phone Number](https://github.com/raycast/extensions/tree/main/extensions/random-us-phone-number) |

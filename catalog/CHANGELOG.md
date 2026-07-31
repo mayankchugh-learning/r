@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-31 — upstream `57feab1f40`
+
+**Added (1):** [TickTick+](https://github.com/raycast/extensions/tree/main/extensions/ticktick-plus)
+
+**Updated (2):** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep), [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates)
+
 ## 2026-07-31 — upstream `7c4010acad`
 
 **Updated (3):** [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent), [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti), [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)
