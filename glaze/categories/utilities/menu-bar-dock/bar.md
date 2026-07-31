@@ -44,6 +44,6 @@
 | [Contrast Control](https://www.glaze.app/app/kHVzuV) | 3 | Adjust Mac display contrast from menu | Philipp.Herzig | 2.0.0 | 0.1 MB | 2026-06-28 |
 | [Got the Time?](https://www.glaze.app/app/Hp0Ot3) | 3 | Track multiple timezones from your menu | Byron Rode | 1.0.0 | 0.1 MB | 2026-06-30 |
 | [Menu Bar Score Board](https://www.glaze.app/app/lhjiy9) | 3 | Track sports scores and fantasy teams | Silas Howe | 1.0.0 | 0.1 MB | 2026-07-11 |
-| [Touch Grass (UV Index)](https://www.glaze.app/app/touch-grass-uv-index-hpowha) | 1 | Monitor UV levels and stay healthy | Marcus Wilter | 1.0.0 | 0.1 MB | 2026-07-29 |
+| [Touch Grass (UV Index)](https://www.glaze.app/app/hpowha) | 1 | Monitor UV levels and stay healthy | Marcus Wilter | 1.0.0 | 0.1 MB | 2026-07-29 |
 | [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) | 1 | Fresh walls, every day on autopilot | Elior Boukhobza | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Meridian](https://www.glaze.app/app/HyLo8Z) | 0 | Track time across multiple cities | Prabu Weerasinghe | 4.0.0 | 0.2 MB | 2026-07-28 |

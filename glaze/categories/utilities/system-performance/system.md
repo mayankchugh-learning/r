@@ -25,7 +25,7 @@
 | [Caffeinat](https://www.glaze.app/app/1YAMhR) | 7 | Keep your Mac awake on demand | Dmytro Lobov | 5.0.0 | 0.0 MB | 2026-07-29 |
 | [SupaKey](https://www.glaze.app/app/Cn8bz8) | 6 | More shortcuts, more modifier keys! | WheelHugger | 3.0.0 | 0.1 MB | 2026-07-15 |
 | [Browser Switch](https://www.glaze.app/app/rDT1xC) | 4 | Choose your browser for every link | Guilherme Bomfim | 3.0.0 | 0.1 MB | 2026-07-22 |
-| [Infinite Wallpapers](https://www.glaze.app/app/infinite-wallpapers-YflqIT) | 3 | Auto-refresh desktop wallpapers by theme | Fahd Badran | 2.0.0 | 0.1 MB | 2026-07-29 |
+| [Infinite Wallpapers](https://www.glaze.app/app/YflqIT) | 3 | Auto-refresh desktop wallpapers by theme | Fahd Badran | 2.0.0 | 0.1 MB | 2026-07-29 |
 | [PrintDrop](https://www.glaze.app/app/uqEnbr) | 1 | Drag and drop files to print | 聂超群 | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [Caffeine Manager](https://www.glaze.app/app/ssty8w) | 0 | Keep Mac awake while your agents run | Grzegorz Zalewski | 4.0.0 | 0.1 MB | 2026-07-24 |
 

@@ -58,6 +58,6 @@
 | Prakhar Shekhar Parthasarthi | 2 | 9 | [Hotstar Floater](https://www.glaze.app/app/nKcxtD) *(Productivity)*, [YakStack](https://www.glaze.app/app/5PDfu9) *(Productivity)* |
 | Precontation | 1 | 7 | [Clippr](https://www.glaze.app/app/SqP3g5) *(Utilities)* |
 | Prem Sathisha | 1 | 4 | [DMG Auto Installer](https://www.glaze.app/app/YM2dCP) *(Utilities)* |
-| Prithav Jha | 2 | 2 | [Prompt Vault](https://www.glaze.app/app/8EdxXh) *(Productivity)*, [Capture](https://www.glaze.app/app/odVkOm) *(Productivity)* |
+| Prithav Jha | 2 | 3 | [Prompt Vault](https://www.glaze.app/app/8EdxXh) *(Productivity)*, [Capture](https://www.glaze.app/app/odVkOm) *(Productivity)* |
 | Priyanshu Jha | 1 | 1 | [Wrapped Desk](https://www.glaze.app/app/cnkwi6) *(Productivity)* |
 | Psychthrone | 1 | 0 | [Verilog Quest](https://www.glaze.app/app/vkYQZY) *(Developer Tools)* |

@@ -6,7 +6,7 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| Fahd Badran | 1 | 3 | [Infinite Wallpapers](https://www.glaze.app/app/infinite-wallpapers-YflqIT) *(Utilities)* |
+| Fahd Badran | 1 | 3 | [Infinite Wallpapers](https://www.glaze.app/app/YflqIT) *(Utilities)* |
 | Faisal F Rafat | 1 | 10 | [Markdown Reader](https://www.glaze.app/app/haPRqs) *(Utilities)* |
 | Farhan K. | 1 | 4 | [On-Brand](https://www.glaze.app/app/DhmLaD) *(Design)* |
 | Favour Olaboye | 1 | 4 | [Shoebox](https://www.glaze.app/app/fZLDUl) *(Productivity)* |

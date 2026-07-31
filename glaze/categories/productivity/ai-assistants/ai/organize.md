@@ -12,7 +12,7 @@
 | [Task & Mochi](https://www.glaze.app/app/JmydrY) | 5 | Anti-procrastination companion | Denys Chebotaiev | 17.0.0 | 0.1 MB | 2026-07-30 |
 | [Apfel Chat](https://www.glaze.app/app/Qr8Sml) | 3 | Chat with Apfel through a GUI | Lee Sherman | 1.0.0 | 0.2 MB | 2026-07-23 |
 | [Handle It](https://www.glaze.app/app/Cs4rjZ) | 3 | Drop it in. Understand it. Handle it. | Jonas Tmb | 2.0.0 | 1.7 MB | 2026-07-26 |
-| [Prompt Vault](https://www.glaze.app/app/8EdxXh) | 2 | Store your AI Prompts & Outputs. | Prithav Jha | 1.0.0 | 0.1 MB | 2026-07-27 |
+| [Prompt Vault](https://www.glaze.app/app/8EdxXh) | 3 | Store your AI Prompts & Outputs. | Prithav Jha | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [VoiceFrame](https://www.glaze.app/app/2ehSvS) | 2 | Speech to structure | Sonia Toqqe | 2.0.0 | 0.6 MB | 2026-07-29 |
 | [Conference Hub](https://www.glaze.app/app/mZEeCf) | 1 | Track AI/ML conferences and key dates | Charles Ji | 1.0.0 | 0.2 MB | 2026-07-09 |
 | [Voyageur - AI Travel Companion](https://www.glaze.app/app/5E6b7O) | 1 | Plan trips day-by-day with AI | Yaroslav Vovchenko | 2.0.0 | 0.1 MB | 2026-07-24 |

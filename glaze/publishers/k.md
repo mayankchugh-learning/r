@@ -12,7 +12,7 @@
 | Kami | 1 | 1 | [Cull](https://www.glaze.app/app/pCwJOf) *(Utilities)* |
 | Kamran Abdul Aziz | 1 | 13 | [Harbor](https://www.glaze.app/app/EMF2zu) *(Developer Tools)* |
 | Kapta Fu | 1 | 28 | [Port Manager](https://www.glaze.app/app/3gWdcg) *(Developer Tools)* |
-| Karim Abdelali | 1 | 0 | [Better Timer](https://www.glaze.app/app/Pkv2ta) *(Productivity)* |
+| Karim Abdelali | 2 | 0 | [Better Timer](https://www.glaze.app/app/Pkv2ta) *(Productivity)*, [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) *(Utilities)* |
 | Karlo König | 1 | 7 | [DraftCalendar](https://www.glaze.app/app/wer6wS) *(Productivity)* |
 | Kartik | 1 | 42 | [Claude Usage](https://www.glaze.app/app/Iz8ofo) *(Developer Tools)* |
 | Kaushik Sivakumar | 1 | 10 | [Large Files](https://www.glaze.app/app/tsKCTY) *(Utilities)* |

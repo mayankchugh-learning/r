@@ -10,7 +10,7 @@
 | Eaugum | 1 | 3 | [Ping Check](https://www.glaze.app/app/3JKav5) *(Utilities)* |
 | ecklc | 1 | 3 | [Rollcall](https://www.glaze.app/app/rEmUl2) *(Utilities)* |
 | Ed117 | 1 | 6 | [Fooseroni](https://www.glaze.app/app/ZvJWBN) *(Games & Fun)* |
-| Edoardo Galati | 1 | 6 | [Instant Organizer](https://www.glaze.app/app/ePD2w0) *(Media)* |
+| Edoardo Galati | 1 | 7 | [Instant Organizer](https://www.glaze.app/app/ePD2w0) *(Media)* |
 | Eduard Simota | 2 | 4 | [Hourly](https://www.glaze.app/app/b0nw4X) *(Productivity)*, [Render Queue](https://www.glaze.app/app/01mB0U) *(Developer Tools)* |
 | Eduardo Sonnino | 1 | 3 | [Guitar Tuner](https://www.glaze.app/app/Bfn04z) *(Utilities)* |
 | EdwardC | 1 | 3 | [Verdigris](https://www.glaze.app/app/R7o50e) *(Productivity)* |
@@ -37,7 +37,7 @@
 | Eric McQuesten | 1 | 3 | [Goal Focus](https://www.glaze.app/app/s3vTde) *(Productivity)* |
 | Erik | 1 | 1 | [AudioPair](https://www.glaze.app/app/DKqhsm) *(Utilities)* |
 | Erik Blomqvist | 1 | 11 | [Cursor Cube](https://www.glaze.app/app/38i83u) *(Games & Fun)* |
-| Ermek Barmashev | 1 | 1 | [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) *(Productivity)* |
+| Ermek Barmashev | 1 | 2 | [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) *(Productivity)* |
 | Esteban Dalel R | 1 | 0 | [Relieve](https://www.glaze.app/app/fLmAia) *(Productivity)* |
 | Ethan Darling | 1 | 3 | [QR Reader](https://www.glaze.app/app/qaM0d4) *(Utilities)* |
 | Ethan Figueroa | 1 | 9 | [PR Reviewer](https://www.glaze.app/app/4jkFFX) *(Developer Tools)* |

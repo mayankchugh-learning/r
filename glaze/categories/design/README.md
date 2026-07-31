@@ -1,12 +1,12 @@
 # Design
 
-93 apps · 1,495 installs · [← all categories](../README.md)
+93 apps · 1,500 installs · [← all categories](../README.md)
 
 ## Visual Elements
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Color & Palettes](./color-palettes.md) | 30 | 553 |
+| [Color & Palettes](./color-palettes.md) | 30 | 558 |
 | [Fonts & Typography](./fonts-typography.md) | 7 | 185 |
 | [Icons & Logos](./icons-logos.md) | 9 | 184 |
 

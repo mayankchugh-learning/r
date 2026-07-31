@@ -18,13 +18,13 @@
 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) | 9 | Design icons for any platform. | Sambit Biswas | 2.0.0 | 0.7 MB | 2026-07-28 |
 | [Image Lighter](https://www.glaze.app/app/BxZAHu) | 9 | Compress images for faster web loading | Florian.Mascaro | 1.0.0 | 7.1 MB | 2026-07-01 |
 | [Inkling](https://www.glaze.app/app/3hA871) | 9 | Rich text editing for markdown files | Martin Nystrom | 1.0.0 | 0.2 MB | 2026-07-04 |
-| [Instant Organizer](https://www.glaze.app/app/ePD2w0) | 6 | Snap, sort, and simplify your whole life | Edoardo Galati | 3.0.0 | 10.8 MB | 2026-07-28 |
+| [Instant Organizer](https://www.glaze.app/app/ePD2w0) | 7 | Snap, sort, and simplify your whole life | Edoardo Galati | 3.0.0 | 10.8 MB | 2026-07-28 |
 | [Instant MCP](https://www.glaze.app/app/nYciYl) | 5 | Your local files, ready for Claude | Mamaswain1990 | 1.0.0 | 0.2 MB | 2026-07-28 |
 | [Icon Collector](https://www.glaze.app/app/X5epC2) | 4 | Grab every app icon you need in seconds | S.Peacock | 1.0.0 | 0.1 MB | 2026-07-20 |
 | [Image Hub](https://www.glaze.app/app/8hOlab) | 4 | All your photos, perfectly organized | Kiril Kirov | 2.0.0 | 0.2 MB | 2026-07-27 |
 | [Inkflow](https://www.glaze.app/app/yN9eVR) | 4 | Write and publish newsletters locally | MrNetwork | 3.0.0 | 0.7 MB | 2026-07-27 |
 | [i18Next++](https://www.glaze.app/app/WFI9hH) | 3 | Faster way to translate i18next files | Hamza Y. | 2.0.0 | 0.1 MB | 2026-05-06 |
-| [Infinite Wallpapers](https://www.glaze.app/app/infinite-wallpapers-YflqIT) | 3 | Auto-refresh desktop wallpapers by theme | Fahd Badran | 2.0.0 | 0.1 MB | 2026-07-29 |
+| [Infinite Wallpapers](https://www.glaze.app/app/YflqIT) | 3 | Auto-refresh desktop wallpapers by theme | Fahd Badran | 2.0.0 | 0.1 MB | 2026-07-29 |
 | [Instagram Data Visualizer](https://www.glaze.app/app/WMp7yt) | 3 | View your Instagram stats in private. | Antônio Sérgio Spagnuolo Filho | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Image Editor](https://www.glaze.app/app/LjoEy3) | 2 | Edit, Crop, Resize, and Enhance photos | Anwarul Islam | 1.0.0 | 0.2 MB | 2026-07-25 |
 | [Image Joiner](https://www.glaze.app/app/PQbrzf) | 2 | Combine images automatically | Bowen Winter | 2.0.0 | 0.1 MB | 2026-07-04 |

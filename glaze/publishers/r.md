@@ -26,7 +26,7 @@
 | Renier Botha | 1 | 3 | [Crate](https://www.glaze.app/app/VylNZA) *(Media)* |
 | Reza Ilmi | 1 | 14 | [Plan Board](https://www.glaze.app/app/UQ6c8s) *(Developer Tools)* |
 | Ricardo Patel | 1 | 10 | [Stream](https://www.glaze.app/app/cLg8Tt) *(Productivity)* |
-| Rich Washburn | 3 | 17 | [PromptPocket](https://www.glaze.app/app/8alvwL) *(Developer Tools)*, [Arrival](https://www.glaze.app/app/WecBem) *(Utilities)*, [Ember Control](https://www.glaze.app/app/29btrn) *(Utilities)* |
+| Rich Washburn | 3 | 18 | [PromptPocket](https://www.glaze.app/app/8alvwL) *(Developer Tools)*, [Arrival](https://www.glaze.app/app/WecBem) *(Utilities)*, [Ember Control](https://www.glaze.app/app/29btrn) *(Utilities)* |
 | Richard Middleton | 1 | 1 | [Times Up](https://www.glaze.app/app/tx1b9T) *(Productivity)* |
 | Riche-Fitte Tristan | 1 | 4 | [Clipboard](https://www.glaze.app/app/Ckewdc) *(Utilities)* |
 | Rick Wilkes | 1 | 22 | [Markdown View](https://www.glaze.app/app/fep2id) *(Developer Tools)* |

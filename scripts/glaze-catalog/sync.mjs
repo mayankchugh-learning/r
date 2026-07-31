@@ -55,6 +55,19 @@ const MIN_GROUP = 4;
 // Publishers with at least this many apps get their own page.
 const BIG_PUBLISHER = 4;
 
+// Phrasing that shows up in most Glaze listings and so names no real topic.
+// Scoped to this catalog rather than the shared engine — "note", say, is
+// boilerplate here but a genuine topic in the extension catalog.
+const STORE_BOILERPLATE = new Set(
+  `key keys highlight highlights overview note notes
+   work works working stay stays real really across automatically automatic
+   powered powering entire later turn turns bring brings built building
+   designed seamlessly effortlessly never always plus whether once again
+   based including include includes such well also either both`
+    .split(/\s+/)
+    .filter(Boolean),
+);
+
 const args = new Set(process.argv.slice(2));
 const FORCE = args.has("--force");
 const PUSH = args.has("--push");
@@ -170,6 +183,7 @@ function generate(apps) {
     sortEntries: byInstalls,
     textOf: (a) => `${a.name} ${a.tagline} ${a.description}`,
     minGroup: MIN_GROUP,
+    extraStopwords: STORE_BOILERPLATE,
   };
 
   // ---- categories: sections -> curated subcategories -> mined topics ----

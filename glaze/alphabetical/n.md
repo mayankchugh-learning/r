@@ -45,11 +45,11 @@
 | [NeuroRoutine](https://www.glaze.app/app/8aevDt) | 2 | Autism & ADHD kids routine and planner | Masudur Rahman | 3.0.0 | 0.1 MB | 2026-07-28 |
 | [Not sticky](https://www.glaze.app/app/DDK3Hb) | 2 | Notes made simple and clean | Sumit Bedi | 1.0.0 | 0.1 MB | 2026-07-13 |
 | [Noted](https://www.glaze.app/app/O03e66) | 2 | Powerful notetaker just one hotkey away | Bruce Makes | 11.0.0 | 0.2 MB | 2026-07-28 |
+| [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 2 | Notifications - Gmail, Slack and Linear | Ermek Barmashev | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [nvALT++](https://www.glaze.app/app/z1ebw9) | 2 | Your nostalgic note-taking app. | Andy Nguyen | 2.0.0 | 0.1 MB | 2026-07-25 |
 | [NarcWise](https://www.glaze.app/app/cEpCAc) | 1 | Navigate conflict with confidence! | Sergio DeSoto | 1.0.0 | 0.3 MB | 2026-07-22 |
 | [NetRunway](https://www.glaze.app/app/xitP8w) | 1 | Watch your internet traffic take flight | Akshara Hegde | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [Next Prompt](https://www.glaze.app/app/jlq28W) | 1 | Organize prompts. Ship projects faster | Sai Bhaskar Devatha | 1.0.0 | 0.5 MB | 2026-07-22 |
-| [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 1 | Notifications - Gmail, Slack and Linear | Ermek Barmashev | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [Numble Today](https://www.glaze.app/app/2fZiNh) | 1 | Play the daily number puzzle | Shaun Trennery | 1.0.0 | 0.0 MB | 2026-07-09 |
 | [Next Time](https://www.glaze.app/app/oCOqhz) | 0 | Remember it right before you meet | Harinder Singh | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Nextcloud News](https://www.glaze.app/app/zXIS7O) | 0 | Read your Nextcloud News feed | René Henrich | 1.0.0 | 0.1 MB | 2026-07-20 |

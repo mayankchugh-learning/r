@@ -9,7 +9,6 @@
 | [Between ✦](./between.md) | 7 |
 | [Complete ✦](./complete.md) | 4 |
 | [Daily ✦](./daily.md) | 4 |
-| [Notes ✦](./notes.md) | 4 |
-| [General](./general.md) | 5 |
+| [General](./general.md) | 9 |
 
 *✦ auto-discovered topic group*
