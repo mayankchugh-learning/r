@@ -9,7 +9,7 @@ Newest 60 of 1556 apps by last release · [← Glaze catalog](./README.md)
 | [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 2026-07-31 | 8.0.0 | 1 | Media | Davidestevens |
 | [Blunder](https://www.glaze.app/app/0dUOLc) | 2026-07-31 | 5.0.0 | 5 | Games & Fun | Francesco Maisano |
 | [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 2026-07-31 | 2.0.0 | 0 | Utilities | Karim Abdelali |
-| [Brez](https://www.glaze.app/app/nx6Oj0) | 2026-07-31 | 6.0.0 | 47 | Productivity | fra.raw |
+| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 2026-07-31 | 6.0.0 | 47 | Productivity | fra.raw |
 | [Gloss](https://www.glaze.app/app/wkIuar) | 2026-07-31 | 8.0.0 | 11 | Productivity | Abed |
 | [Workshop Flow](https://www.glaze.app/app/workshop-flow-713b98) | 2026-07-31 | 1.0.0 | 1 | Productivity | Antony Mayfield |
 | [Hold](https://www.glaze.app/app/GvHeQR) | 2026-07-31 | 2.0.0 | 6 | Productivity | Samuel Monteiro |
@@ -39,14 +39,14 @@ Newest 60 of 1556 apps by last release · [← Glaze catalog](./README.md)
 | [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) | 2026-07-30 | 2.0.0 | 1 | Developer Tools | WebSmith |
 | [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 2026-07-30 | 9.0.0 | 89 | Utilities | lexav |
 | [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 2026-07-30 | 1.0.0 | 2 | Productivity | Ermek Barmashev |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 11.0.0 | 174 | Design | Noman |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 2026-07-30 | 5.0.0 | 278 | Productivity | Maya Avendaño |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 11.0.0 | 176 | Design | Noman |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 2026-07-30 | 5.0.0 | 279 | Productivity | Maya Avendaño |
 | [Verbatim](https://www.glaze.app/app/verbatim-oe1V7I) | 2026-07-30 | 2.0.0 | 3 | Developer Tools | Lachlan |
 | [SoloTrack](https://www.glaze.app/app/cvMkSD) | 2026-07-30 | 13.0.0 | 10 | Productivity | Nick Hart |
 | [Task & Mochi](https://www.glaze.app/app/JmydrY) | 2026-07-30 | 17.0.0 | 5 | Productivity | Denys Chebotaiev |
 | [Budgie](https://www.glaze.app/app/4aFFRA) | 2026-07-30 | 5.0.0 | 3 | Productivity | Mike Valstar |
 | [Audio Router](https://www.glaze.app/app/9blIKL) | 2026-07-30 | 7.0.0 | 3 | Utilities | Bradley Gibson |
-| [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) | 2026-07-30 | 7.0.0 | 150 | Productivity | Yann-Edern Gillet |
+| [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) | 2026-07-30 | 7.0.0 | 151 | Productivity | Yann-Edern Gillet |
 | [Snippets](https://www.glaze.app/app/aj3dwQ) | 2026-07-30 | 8.0.0 | 5 | Productivity | Dmytro Lobov |
 | [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) | 2026-07-30 | 2.0.0 | 1 | Utilities | Johannes Krejberg Haahr |
 | [TabSet](https://www.glaze.app/app/pYwgOi) | 2026-07-30 | 6.0.0 | 8 | Productivity | Dmytro Lobov |

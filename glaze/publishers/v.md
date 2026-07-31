@@ -24,7 +24,7 @@
 | Vira Tkachenko | 1 | 8 | [Paint Studio](https://www.glaze.app/app/BXfWqp) *(Design)* |
 | Vishwanath Mathpati | 1 | 3 | [Stay Focus](https://www.glaze.app/app/4fKCfc) *(Productivity)* |
 | Vitaly Veber | 1 | 19 | [Strudel Studio](https://www.glaze.app/app/HCgGlV) *(Developer Tools)* |
-| Vlad Bahara | 1 | 38 | [Amber](https://www.glaze.app/app/vZzCwc) *(Lifestyle)* |
+| Vlad Bahara | 1 | 38 | [Amber](https://www.glaze.app/app/amber-vZzCwc) *(Lifestyle)* |
 | Vladimirkorolev0 | 1 | 1 | [Autopilot](https://www.glaze.app/app/c7aV6t) *(Developer Tools)* |
 | Vladislav Markov | 1 | 3 | [Downshift](https://www.glaze.app/app/g289AH) *(Utilities)* |
 | Vladislav Volkhonskii | 1 | 19 | [Crate](https://www.glaze.app/app/BZS01f) *(Media)* |

@@ -44,7 +44,7 @@
 | 34 | [lukrencijus](./id/lukrencijus.md) | 4 | 7 |
 | 35 | Boufford | 3 | 870 |
 | 36 | Alex Antonov | 3 | 556 |
-| 37 | Yann-Edern Gillet | 3 | 544 |
+| 37 | Yann-Edern Gillet | 3 | 545 |
 | 38 | @zenithquinn | 3 | 202 |
 | 39 | LitoMore | 3 | 141 |
 | 40 | 騎山豬跑山 | 3 | 94 |
@@ -81,7 +81,7 @@
 | 71 | Alexandr Subbotin | 2 | 275 |
 | 72 | Ivo Fonseca | 2 | 257 |
 | 73 | David Ferguson | 2 | 231 |
-| 74 | Noman | 2 | 187 |
+| 74 | Noman | 2 | 189 |
 | 75 | Niall | 2 | 109 |
 | 76 | Yiwei Ho | 2 | 105 |
 | 77 | Oliver Posselt | 2 | 100 |
@@ -213,7 +213,7 @@
 | 203 | Parsifal02 | 2 | 0 |
 | 204 | Khalid Hasan Zibon | 1 | 400 |
 | 205 | Combustion Studio | 1 | 397 |
-| 206 | Maya Avendaño | 1 | 278 |
+| 206 | Maya Avendaño | 1 | 279 |
 | 207 | Hamzah Chaudhary | 1 | 269 |
 | 208 | Thiago Holanda | 1 | 212 |
 | 209 | Daniel Hollick | 1 | 206 |
@@ -227,8 +227,8 @@
 | 217 | Christian Alares | 1 | 96 |
 | 218 | Ajay Odedra | 1 | 89 |
 | 219 | gowhith kanisetty | 1 | 81 |
-| 220 | André Pinto | 1 | 72 |
-| 221 | James Dawson | 1 | 52 |
+| 220 | André Pinto | 1 | 73 |
+| 221 | James Dawson | 1 | 53 |
 | 222 | Vincent de Lagabbe | 1 | 52 |
 | 223 | fra.raw | 1 | 47 |
 | 224 | Sakino | 1 | 46 |

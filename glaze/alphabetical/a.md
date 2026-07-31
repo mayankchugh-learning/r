@@ -10,7 +10,7 @@
 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 212 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 0.1 MB | 2026-04-15 |
 | [Arnie](https://www.glaze.app/app/tqkV16) | 59 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 0.2 MB | 2026-06-30 |
 | [AI Models Database](https://www.glaze.app/app/VzvbvJ) | 43 | Browse AI Models, Providers, and Labs | alexi.build | 5.0.0 | 0.1 MB | 2026-07-11 |
-| [Amber](https://www.glaze.app/app/vZzCwc) | 38 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 0.1 MB | 2026-07-28 |
+| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 38 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 0.1 MB | 2026-07-28 |
 | [ASCII Capture](https://www.glaze.app/app/KxyppG) | 36 | Convert photos into customizable ASCII art and export as images or SVG for web use | Yassine A | 1.0.1 | 0.2 MB | 2026-03-25 |
 | [Airwave](https://www.glaze.app/app/4OhADX) | 28 | Your music, perfectly in tune | Scoop | 7.0.0 | 1.4 MB | 2026-07-26 |
 | [ACE](https://www.glaze.app/app/97rUBQ) | 27 | Teleprompter with live speaking support | Danial Siddiki | 3.0.0 | 6.9 MB | 2026-07-29 |

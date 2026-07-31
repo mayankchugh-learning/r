@@ -80,14 +80,14 @@
 | Andre Garcia | 1 | 2 | [Clock Face](https://www.glaze.app/app/Eeaypf) *(Utilities)* |
 | Andre Martins | 1 | 3 | [TaxNomad](https://www.glaze.app/app/XmV8Yu) *(Utilities)* |
 | Andre N. | 1 | 13 | [Mori](https://www.glaze.app/app/2R9BrO) *(Productivity)* |
-| André Pinto | 1 | 72 | [Mini Piano](https://www.glaze.app/app/vo46Jg) *(Media)* |
+| André Pinto | 1 | 73 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) *(Media)* |
 | Andre Yamazaki | 2 | 9 | [PDF to Image](https://www.glaze.app/app/s38kIA) *(Utilities)*, [Label Converter](https://www.glaze.app/app/m67Wr2) *(Utilities)* |
 | Andrea Cipriani | 1 | 25 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) *(Productivity)* |
 | Andrea Montinovo | 1 | 9 | [Download Time Calculator](https://www.glaze.app/app/PeVPLM) *(Utilities)* |
 | Andreas Elia | 3 | 37 | [Word Guesser](https://www.glaze.app/app/nAsjJi) *(Games & Fun)*, [Underground Driver](https://www.glaze.app/app/sLCDOf) *(Games & Fun)*, [Word Connections](https://www.glaze.app/app/Xt8TcC) *(Games & Fun)* |
 | Andreas Persson | 2 | 12 | [all the ports](https://www.glaze.app/app/aDVzGP) *(Developer Tools)*, [AuthReach](https://www.glaze.app/app/gT8Mjv) *(Utilities)* |
 | Andrei Muntean | 1 | 5 | [Knob](https://www.glaze.app/app/ah13w5) *(Utilities)* |
-| Andrew Bondarenko | 1 | 40 | [One Note](https://www.glaze.app/app/DhbXQo) *(Productivity)* |
+| Andrew Bondarenko | 1 | 40 | [One Note](https://www.glaze.app/app/one-note-DhbXQo) *(Productivity)* |
 | Andrew Kerr | 1 | 6 | [Pixel Measure](https://www.glaze.app/app/g3fVjP) *(Developer Tools)* |
 | Andrew Lindstrom | 1 | 10 | [Copy That](https://www.glaze.app/app/QYtGUY) *(Utilities)* |
 | Andrew Schreiber | 1 | 8 | [SpeedTester](https://www.glaze.app/app/VQqxHM) *(Utilities)* |

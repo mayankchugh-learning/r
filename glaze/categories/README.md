@@ -6,7 +6,7 @@
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Productivity](./productivity/README.md) | 500 | 5,536 |
+| [Productivity](./productivity/README.md) | 500 | 5,539 |
 
 ## Development
 
@@ -24,8 +24,8 @@
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Media](./media/README.md) | 130 | 4,607 |
-| [Design](./design/README.md) | 93 | 1,525 |
+| [Media](./media/README.md) | 130 | 4,608 |
+| [Design](./design/README.md) | 93 | 1,527 |
 
 ## Life & Play
 

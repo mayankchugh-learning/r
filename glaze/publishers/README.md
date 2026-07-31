@@ -17,12 +17,12 @@
 | 7 | [Jordan Amblin](./id/jordan-amblin.md) | 11 | 699 |
 | 8 | [Pedro Duarte](./id/pedro-duarte.md) | 5 | 557 |
 | 9 | Alex Antonov | 3 | 556 |
-| 10 | Yann-Edern Gillet | 3 | 544 |
+| 10 | Yann-Edern Gillet | 3 | 545 |
 | 11 | [Dhruv Suthar](./id/dhruv-suthar.md) | 16 | 476 |
 | 12 | Khalid Hasan Zibon | 1 | 400 |
 | 13 | Combustion Studio | 1 | 397 |
 | 14 | [melvin](./id/melvin.md) | 6 | 354 |
-| 15 | Maya Avendaño | 1 | 278 |
+| 15 | Maya Avendaño | 1 | 279 |
 | 16 | Alexandr Subbotin | 2 | 275 |
 | 17 | Hamzah Chaudhary | 1 | 269 |
 | 18 | Ivo Fonseca | 2 | 257 |
@@ -32,7 +32,7 @@
 | 22 | @zenithquinn | 3 | 202 |
 | 23 | Petr Nikolaev | 1 | 197 |
 | 24 | Tuxu | 1 | 193 |
-| 25 | Noman | 2 | 187 |
+| 25 | Noman | 2 | 189 |
 | 26 | Daniela Muntyan | 1 | 184 |
 | 27 | Dmitry Novikov | 1 | 175 |
 | 28 | LitoMore | 3 | 141 |
@@ -55,7 +55,7 @@
 | 45 | gowhith kanisetty | 1 | 81 |
 | 46 | Adil Erchouk | 2 | 76 |
 | 47 | [Dmytro Lobov](./id/dmytro-lobov.md) | 16 | 75 |
-| 48 | André Pinto | 1 | 72 |
+| 48 | André Pinto | 1 | 73 |
 | 49 | [Sean Thomas Stuart](./id/sean-thomas-stuart.md) | 7 | 70 |
 | 50 | Anwarul Islam | 2 | 70 |
 | 51 | [Lee Sherman](./id/lee-sherman.md) | 15 | 69 |
@@ -64,7 +64,7 @@
 | 54 | Rory Killingley | 2 | 63 |
 | 55 | Ch1rag | 2 | 60 |
 | 56 | [Johan Thorell](./id/johan-thorell.md) | 4 | 55 |
-| 57 | James Dawson | 1 | 52 |
+| 57 | James Dawson | 1 | 53 |
 | 58 | Vincent de Lagabbe | 1 | 52 |
 | 59 | Bat the Cat | 3 | 51 |
 | 60 | [Werner Deuermeier](./id/werner-deuermeier.md) | 7 | 50 |
