@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 399 | Never lose track of what you pay for | Khalid Hasan Zibon | 4.0.0 | 0.1 MB | 2026-07-29 |
 | [Sweep](https://www.glaze.app/app/308emF) | 276 | Tinder for deleting files | melvin | 7.0.0 | 0.1 MB | 2026-07-17 |
-| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 190 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 0.1 MB | 2026-07-09 |
+| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 192 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 0.1 MB | 2026-07-09 |
 | [Sky Tracker](https://www.glaze.app/app/sky-tracker-azKgA5) | 80 | Track every plane in the sky, live | Yukai Huang | 2.0.0 | 0.3 MB | 2026-04-21 |
 | [Silly Sounds](https://www.glaze.app/app/e8Qzum) | 77 | Play hilarious sound effects at the tap of a button for instant entertainment | Thomas Paul Mann | 1.0.1 | 0.6 MB | 2026-03-05 |
 | [Shader](https://www.glaze.app/app/4kgfQf) | 58 | Visualize real-time shadows from mountains, buildings, and trees at any location, date, and time | Samuel Kraft | 3.0.1 | 1.1 MB | 2026-03-06 |

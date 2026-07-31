@@ -32,7 +32,7 @@
 | Marc Valderrama | 2 | 10 | [AI Projects Hub](https://www.glaze.app/app/sloIJ1) *(Productivity)*, [Saulamandra](https://www.glaze.app/app/xCAmiz) *(Productivity)* |
 | marcus Allen | 1 | 11 | [Soundscape](https://www.glaze.app/app/Ndlwai) *(Productivity)* |
 | Marcus do Nascimento | 2 | 8 | [Keyboard Lock](https://www.glaze.app/app/X6GQGk) *(Utilities)*, [Flannel](https://www.glaze.app/app/Zofg4b) *(Utilities)* |
-| Marcus Wilter | 1 | 1 | [Touch Grass (UV Index)](https://www.glaze.app/app/touch-grass-uv-index-hpowha) *(Utilities)* |
+| Marcus Wilter | 1 | 1 | [Touch Grass (UV Index)](https://www.glaze.app/app/hpowha) *(Utilities)* |
 | Marek Wituszynski | 1 | 3 | [Recast](https://www.glaze.app/app/vMN6h9) *(Design)* |
 | Mariane Pocai | 1 | 10 | [Feed Reader](https://www.glaze.app/app/W1JbFH) *(Productivity)* |
 | Mario Juárez | 3 | 35 | [Worktree Manager](https://www.glaze.app/app/bjWS2n) *(Developer Tools)*, [Mermaid Studio](https://www.glaze.app/app/eLAlAB) *(Developer Tools)*, [Meal Luck](https://www.glaze.app/app/tIogAF) *(Productivity)* |
@@ -58,7 +58,7 @@
 | Maxim B | 1 | 4 | [Bubble Break](https://www.glaze.app/app/BixbZm) *(Games & Fun)* |
 | Maxime Le Bec | 1 | 1 | [FitPlan](https://www.glaze.app/app/1VCZdn) *(Productivity)* |
 | May Zhou | 1 | 9 | [snap sort](https://www.glaze.app/app/Ic87j0) *(Utilities)* |
-| Maya Avendaño | 1 | 258 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
+| Maya Avendaño | 1 | 262 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
 | mboeru | 1 | 1 | [TeamsToDeck Commands](https://www.glaze.app/app/5kyOs4) *(Productivity)* |
 | mcfoton | 1 | 2 | [Cabled](https://www.glaze.app/app/KRIVgd) *(Developer Tools)* |
 | Me | 1 | 6 | [Markdown Notes](https://www.glaze.app/app/myI9Nz) *(Productivity)* |

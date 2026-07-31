@@ -2,17 +2,19 @@
  * Generic catalog organization engine: topical subcategories, auto-discovered
  * topic mining, and recursive nesting bounded only by the data.
  *
- * This is the same approach the Raycast extension catalog uses (see
- * scripts/extension-catalog/sync.mjs, which still carries an older inlined
- * copy and should migrate here): a curated keyword taxonomy provides the first
- * split, then frequent-term mining promotes emergent topics out of "General"
- * and keeps splitting any group that still yields two coherent subgroups.
+ * Shared by the Raycast extension catalog and the Glaze store catalog: a
+ * curated keyword taxonomy provides the first split, then frequent-term mining
+ * promotes emergent topics out of "General" and keeps splitting any group that
+ * still yields two coherent subgroups.
  *
  * Everything here is parameterized over the entity shape, so it works for any
  * catalog that can supply an id and some searchable text per entry.
  */
 
-// Terms too generic to name a topic group.
+// Terms too generic to name a topic group anywhere. Catalog-specific noise
+// (a store's boilerplate phrasing, say) belongs in `extraStopwords` on the
+// caller's options rather than here, so one catalog's boilerplate can't
+// suppress another's legitimate topic.
 const STOPWORDS = new Set(
   `a an and are as at be been before best both browse browser by can check
   checks click com control convert copy create created currently custom data
@@ -36,13 +38,7 @@ const STOPWORDS = new Set(
   commands content current directly enabled feature features functionality
   generate generator generators specific using wrapper
   project projects manager managers inspect time text word words link links
-  name names number numbers save saves saving glaze desktop native seconds
-  everything anything something instant instantly beautiful simply perfect
-  key keys highlight highlights overview note
-  work works working stay stays real really across automatically automatic
-  powered powering entire later turn turns bring brings built building
-  designed seamlessly effortlessly never always plus whether once again
-  based including include includes such well also either both`
+  name names number numbers save saves saving`
     .split(/\s+/)
     .filter(Boolean),
 );
@@ -52,8 +48,8 @@ const ACRONYMS = new Set(
   "ai api css html sql dns llm cli ide iot gif qr 2fa 3d tv vpn ssh seo ocr rss nft gpt url pdf npm ios sdk cdn mcp obs nba nfl mlb ffmpeg f1 os ui ux".split(" "),
 );
 
-function tokenOk(t) {
-  if (STOPWORDS.has(t)) return false;
+function tokenOk(t, extra) {
+  if (STOPWORDS.has(t) || extra?.has(t)) return false;
   if (/^\d+$/.test(t)) return false;
   return t.length >= 3 || SHORT_OK.has(t);
 }
@@ -64,7 +60,7 @@ function canonOf(t) {
   return t;
 }
 
-function termsOf(text, surfaces) {
+function termsOf(text, surfaces, extra) {
   const raw = String(text).toLowerCase().split(/[^a-z0-9+#]+/).filter(Boolean);
   const terms = new Set();
   const seen = (canon, surface) => {
@@ -74,9 +70,9 @@ function termsOf(text, surfaces) {
     m.set(surface, (m.get(surface) || 0) + 1);
   };
   for (let i = 0; i < raw.length; i++) {
-    if (!tokenOk(raw[i])) continue;
+    if (!tokenOk(raw[i], extra)) continue;
     seen(canonOf(raw[i]), raw[i]);
-    if (i + 1 < raw.length && tokenOk(raw[i + 1])) {
+    if (i + 1 < raw.length && tokenOk(raw[i + 1], extra)) {
       seen(`${canonOf(raw[i])} ${canonOf(raw[i + 1])}`, `${raw[i]} ${raw[i + 1]}`);
     }
   }
@@ -95,9 +91,9 @@ function titleize(term) {
  * Terms present in every entry can't discriminate and are skipped.
  */
 export function mineGroups(entries, usedSlugs, opts) {
-  const { textOf, slugify, minGroup = 4, maxGroups = 15 } = opts;
+  const { textOf, slugify, minGroup = 4, maxGroups = 15, extraStopwords } = opts;
   const surfaces = new Map();
-  const termSets = new Map(entries.map((e) => [e, termsOf(textOf(e), surfaces)]));
+  const termSets = new Map(entries.map((e) => [e, termsOf(textOf(e), surfaces, extraStopwords)]));
   const df = new Map();
   for (const terms of termSets.values()) for (const t of terms) df.set(t, (df.get(t) || 0) + 1);
 

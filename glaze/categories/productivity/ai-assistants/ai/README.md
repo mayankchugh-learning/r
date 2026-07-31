@@ -4,14 +4,14 @@
 
 | Topic | Apps |
 | --- | --- |
-| [Local ✦](./local.md) | 22 |
+| [Local ✦](./local/README.md) | 22 |
 | [Model ✦](./model.md) | 13 |
 | [Organize ✦](./organize.md) | 13 |
 | [Tasks ✦](./tasks.md) | 10 |
 | [History ✦](./history.md) | 10 |
-| [Bar ✦](./bar.md) | 4 |
-| [Learn ✦](./learn.md) | 4 |
+| [Instant ✦](./instant.md) | 5 |
+| [Clean ✦](./clean.md) | 4 |
 | [Organized ✦](./organized.md) | 4 |
-| [General](./general.md) | 9 |
+| [General](./general.md) | 8 |
 
 *✦ auto-discovered topic group*

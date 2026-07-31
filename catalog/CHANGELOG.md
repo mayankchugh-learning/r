@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-31 — upstream `9c67f60b35`
+
+**Added (2):** [Clerk](https://github.com/raycast/extensions/tree/main/extensions/clerk), [Meeting Room Check](https://github.com/raycast/extensions/tree/main/extensions/meeting-room-check)
+
 ## 2026-07-30 — upstream `311bb98c1d`
 
 **Added (1):** [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p)

@@ -58,6 +58,6 @@
 | [Provenance](https://www.glaze.app/app/TOCKAe) | 5 | Track your paintings and their history | Jaladhi Pujara | 6.0.0 | 1.0 MB | 2026-07-27 |
 | [Afterward](https://www.glaze.app/app/XvboTp) | 2 | Decide today, understand tomorrow | Abhishek | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Bible Layers](https://www.glaze.app/app/2yOhs5) | 2 | Learn original vocab in the Bible text. | John Punt | 2.0.0 | 0.1 MB | 2026-07-24 |
+| [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 2 | Notifications - Gmail, Slack and Linear | Ermek Barmashev | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [TrainBook](https://www.glaze.app/app/knp7O6) | 2 | Book train journeys across Europe | Joeri | 1.0.0 | 0.1 MB | 2026-07-23 |
-| [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 1 | Notifications - Gmail, Slack and Linear | Ermek Barmashev | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [Libra](https://www.glaze.app/app/k9C0RU) | 0 | Modern e-book management app. | Wei Su | 1.0.0 | 0.1 MB | 2026-07-27 |

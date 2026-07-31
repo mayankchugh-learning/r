@@ -7,9 +7,9 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 0.4 MB | 2026-07-28 |
-| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 160 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
+| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 167 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
 | [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr) | 147 | Task planner | Nichlas Wærnes Andersen | 10.0.0 | 5.2 MB | 2026-07-19 |
-| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 84 | Your mac deserves a better dock | lexav | 9.0.0 | 0.1 MB | 2026-07-30 |
+| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 86 | Your mac deserves a better dock | lexav | 9.0.0 | 0.1 MB | 2026-07-30 |
 | [Tap Beats](https://www.glaze.app/app/uIyOY5) | 52 | Create music by tapping a grid-based trackpad with 12 buttons arranged in columns and rows | Vincent de Lagabbe | 2.0.1 | 0.2 MB | 2026-03-25 |
 | [Trend Builder](https://www.glaze.app/app/ApW3oA) | 49 | Build the app everyone’s searching for | Ch1rag | 6.0.0 | 0.8 MB | 2026-07-10 |
 | [Typewriter](https://www.glaze.app/app/k9uymc) | 46 | Write freely, share instantly. | Beth Staff | 3.0.0 | 0.0 MB | 2026-04-28 |
@@ -126,7 +126,7 @@
 | [Tiny Timer](https://www.glaze.app/app/e0Dbb6) | 1 | The tiniest timer widget | lexav | 1.0.0 | 0.4 MB | 2026-07-27 |
 | [TippiTap](https://www.glaze.app/app/YPT013) | 1 | Unlock passwords through playful tapping | Glazeapp | 2.0.0 | 0.1 MB | 2026-07-24 |
 | [Touch Grass](https://www.glaze.app/app/HLpQnJ) | 1 | Less scrolling. More living. | Drained99 | 1.0.0 | 0.2 MB | 2026-07-25 |
-| [Touch Grass (UV Index)](https://www.glaze.app/app/touch-grass-uv-index-hpowha) | 1 | Monitor UV levels and stay healthy | Marcus Wilter | 1.0.0 | 0.1 MB | 2026-07-29 |
+| [Touch Grass (UV Index)](https://www.glaze.app/app/hpowha) | 1 | Monitor UV levels and stay healthy | Marcus Wilter | 1.0.0 | 0.1 MB | 2026-07-29 |
 | [Timer Tracker](https://www.glaze.app/app/a16qmM) | 0 | Track human effort across customers and | Ian Hsiao | 3.0.0 | 0.1 MB | 2026-07-23 |
 | [Trades Visualised](https://www.glaze.app/app/RmeBYY) | 0 | Visualize backtests offline, locally | Jules.Vdz13 | 1.0.0 | 0.3 MB | 2026-07-23 |
 | [Trivial Party](https://www.glaze.app/app/j7ebRx) | 0 | Quiz battles with your friends, anytime | Jeremy.Jacquemont | 1.0.0 | 0.3 MB | 2026-07-24 |

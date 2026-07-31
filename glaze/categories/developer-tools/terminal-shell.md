@@ -2,7 +2,7 @@
 
 29 apps · [← Developer Tools](./README.md)
 
-[Terminal ✦](#terminal) (12) · [Code ✦](#code) (5) · [Interface ✦](#interface) (4) · [General](#general) (8)
+[Terminal ✦](#terminal) (12) · [Code ✦](#code) (5) · [Desktop ✦](#desktop) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -33,24 +33,24 @@
 | [PlantUML Editor](https://www.glaze.app/app/R4hr68) | 3 | Diagrams in real time, code your way | Kinsley Ogunmola | 1.0.0 | 0.2 MB | 2026-07-04 |
 | [DDEV](https://www.glaze.app/app/1EtdCc) | 0 | Managing local DDEV projects with GUI. | Suowei Hu | 3.0.0 | 0.1 MB | 2026-07-08 |
 
-## Interface ✦
+## Desktop ✦
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Brui](https://www.glaze.app/app/eOPXRV) | 108 | Visual interface for Homebrew package | Niall | 2.0.0 | 0.1 MB | 2026-07-11 |
-| [Chmod Manager](https://www.glaze.app/app/MXi8To) | 14 | Control file permissions with ease | S.Peacock | 6.0.0 | 0.1 MB | 2026-07-27 |
+| [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 0.2 MB | 2026-07-13 |
 | [Network Utility](https://www.glaze.app/app/WWGiYi) | 5 | Monitor and diagnose network connections | thejasonhowell | 2.0.0 | 0.1 MB | 2026-07-09 |
 | [Alias them all](https://www.glaze.app/app/vaMT1g) | 3 | Manage shell aliases easily | violetpurpleish | 3.0.0 | 0.2 MB | 2026-07-28 |
+| [Render Queue](https://www.glaze.app/app/01mB0U) | 2 | Batch render After Effects projects fast | Eduard Simota | 5.0.0 | 0.1 MB | 2026-07-06 |
 
 ## General
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 0.2 MB | 2026-07-13 |
+| [Brui](https://www.glaze.app/app/eOPXRV) | 108 | Visual interface for Homebrew package | Niall | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [SF Symbols Picker](https://www.glaze.app/app/mLt3F7) | 46 | Insert SF Symbols with fuzzy search | Tim Van Damme | 3.0.0 | 0.1 MB | 2026-07-08 |
 | [Hotkey Reference](https://www.glaze.app/app/RDE7aj) | 15 | Hotkeys at your fingertips, anytime | Shearm | 3.0.0 | 0.1 MB | 2026-06-25 |
+| [Chmod Manager](https://www.glaze.app/app/MXi8To) | 14 | Control file permissions with ease | S.Peacock | 6.0.0 | 0.1 MB | 2026-07-27 |
 | [Junior](https://www.glaze.app/app/j3JEdV) | 6 | Speak to Junior. He can help you. | Alvi Dervishaj | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [PyDrop](https://www.glaze.app/app/9evSfc) | 5 | Drag, drop, run Python instantly. | S.Peacock | 1.0.0 | 0.1 MB | 2026-07-14 |
 | [Local Server](https://www.glaze.app/app/Lk3DCH) | 4 | Start and manage local servers | Sander Schat | 1.0.0 | 0.1 MB | 2026-07-02 |
-| [Render Queue](https://www.glaze.app/app/01mB0U) | 2 | Batch render After Effects projects fast | Eduard Simota | 5.0.0 | 0.1 MB | 2026-07-06 |
 | [Type](https://www.glaze.app/app/bfSoRG) | 0 | Text without distraction | Yeshe | 3.0.0 | 0.1 MB | 2026-07-20 |

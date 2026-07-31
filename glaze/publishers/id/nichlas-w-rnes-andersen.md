@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Mac Setup](https://www.glaze.app/app/mac-setup-ZtKVr6) | 703 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 0.1 MB | 2026-04-15 |
+| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 703 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 0.1 MB | 2026-04-15 |
 | [CoWorker](https://www.glaze.app/app/rJNjmM) | 48 | Code with ambient office typing sounds | Nichlas Wærnes Andersen | 3.0.0 | 5.1 MB | 2026-05-08 |
 
 ## Productivity (2)

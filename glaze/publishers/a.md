@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-127 publishers · [← publisher index](./README.md)
+128 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
@@ -35,7 +35,7 @@
 | Ahmet Güler | 1 | 10 | [Darkroom Studio](https://www.glaze.app/app/5aumRY) *(Media)* |
 | AI4Marketing | 1 | 0 | [AI4Marketing.cz](https://www.glaze.app/app/L82rD4) *(Productivity)* |
 | AJ Batac | 1 | 4 | [Kulay (Color)](https://www.glaze.app/app/bbzPPl) *(Design)* |
-| Ajay Odedra | 1 | 71 | [PDF Toolkit](https://www.glaze.app/app/wmBfSO) *(Productivity)* |
+| Ajay Odedra | 1 | 79 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
 | ajnart | 1 | 14 | [Wheel Launcher](https://www.glaze.app/app/SmYxn5) *(Productivity)* |
 | Ak Deepankar | 1 | 9 | [Mac Flow](https://www.glaze.app/app/FKfVNE) *(Design)* |
 | Akanbi Toheeb | 1 | 3 | [Cehua](https://www.glaze.app/app/osrdrz) *(Developer Tools)* |
@@ -80,7 +80,7 @@
 | Andre Garcia | 1 | 2 | [Clock Face](https://www.glaze.app/app/Eeaypf) *(Utilities)* |
 | Andre Martins | 1 | 3 | [TaxNomad](https://www.glaze.app/app/XmV8Yu) *(Utilities)* |
 | Andre N. | 1 | 13 | [Mori](https://www.glaze.app/app/2R9BrO) *(Productivity)* |
-| André Pinto | 1 | 64 | [Mini Piano](https://www.glaze.app/app/vo46Jg) *(Media)* |
+| André Pinto | 1 | 67 | [Mini Piano](https://www.glaze.app/app/vo46Jg) *(Media)* |
 | Andre Yamazaki | 2 | 9 | [PDF to Image](https://www.glaze.app/app/s38kIA) *(Utilities)*, [Label Converter](https://www.glaze.app/app/m67Wr2) *(Utilities)* |
 | Andrea Cipriani | 1 | 25 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) *(Productivity)* |
 | Andrea Montinovo | 1 | 9 | [Download Time Calculator](https://www.glaze.app/app/PeVPLM) *(Utilities)* |
@@ -103,6 +103,7 @@
 | Anton Kuznetsov | 1 | 0 | [My Travels](https://www.glaze.app/app/H0Q8mr) *(Lifestyle)* |
 | Anton Lenev | 1 | 0 | [CraigForDiscord Transcriber](https://www.glaze.app/app/WRTFbN) *(Developer Tools)* |
 | Antônio Sérgio Spagnuolo Filho | 1 | 3 | [Instagram Data Visualizer](https://www.glaze.app/app/WMp7yt) *(Utilities)* |
+| Antony Mayfield | 1 | 1 | [Workshop Flow](https://www.glaze.app/app/workshop-flow-713b98) *(Productivity)* |
 | Anubhav Tyagi | 2 | 45 | [Activity Monitor in Menubar](https://www.glaze.app/app/5HAQEi) *(Utilities)*, [Reminders in Menubar](https://www.glaze.app/app/NvSEbg) *(Productivity)* |
 | Anwarul Islam | 2 | 70 | [Video Downloader](https://www.glaze.app/app/SXUqd9) *(Utilities)*, [Image Editor](https://www.glaze.app/app/LjoEy3) *(Media)* |
 | Apex Hos | 1 | 14 | [Multi Browser](https://www.glaze.app/app/cn7ND6) *(Utilities)* |

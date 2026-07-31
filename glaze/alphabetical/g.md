@@ -19,7 +19,7 @@
 | [Glasshouse](https://www.glaze.app/app/VhRMAU) | 15 | The town square for Glaze ecosystem! | Mike | 6.0.0 | 0.1 MB | 2026-07-28 |
 | [GitHub Star Sync](https://www.glaze.app/app/SfluD7) | 14 | Quickly access your GitHub Stars | Mike Bracco | 1.0.0 | 0.2 MB | 2026-06-09 |
 | [Gaze](https://www.glaze.app/app/lIYdXQ) | 13 | Rest your eyes every 20 minutes | Giulio | 1.0.0 | 0.0 MB | 2026-06-04 |
-| [Gloss](https://www.glaze.app/app/wkIuar) | 11 | Tell Gloss what you want to learn | Abed | 6.0.0 | 0.2 MB | 2026-07-30 |
+| [Gloss](https://www.glaze.app/app/wkIuar) | 11 | Tell Gloss what you want to learn | Abed | 8.0.0 | 0.2 MB | 2026-07-31 |
 | [GitLab Client](https://www.glaze.app/app/OJT881) | 10 | Browse GitLab repositories and pipelines | Torsten Lemke | 1.0.0 | 0.1 MB | 2026-06-29 |
 | [Grove](https://www.glaze.app/app/5VhVgW) | 10 | Downloads, finally organized | Jafar Umoru | 2.0.0 | 4.4 MB | 2026-07-27 |
 | [Ghost](https://www.glaze.app/app/n7fZjc) | 8 | Build with your codebase context | ImisiD | 1.0.0 | 0.1 MB | 2026-07-28 |

@@ -1,6 +1,6 @@
 # Folder ✦
 
-4 apps · [← Notes](./README.md)
+4 apps · [← Notes & Writing](./README.md)
 
 *✦ auto-discovered topic group*
 
