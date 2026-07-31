@@ -15,8 +15,8 @@
 | [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) | 19 | Explains commands before you run them | Brad Chin | 3.0.0 | 0.2 MB | 2026-07-28 |
 | [Agent Dashboard](https://www.glaze.app/app/6cHyYB) | 18 | Visualize and track local agent activity | jasonbla | 5.0.0 | 0.1 MB | 2026-07-13 |
 | [MCP&Skill Manager](https://www.glaze.app/app/rRZDwG) | 15 | Manage all your MCP servers in one | Giovanni | 2.0.0 | 0.1 MB | 2026-07-25 |
+| [Reclaim](https://www.glaze.app/app/ed33HB) | 13 | Your AI is quietly eating up your disk | Abubakr Jimoh | 4.0.0 | 0.2 MB | 2026-07-27 |
 | [Agent Skills Manager](https://www.glaze.app/app/GhFNA9) | 12 | Manage AI coding-agent skills from one | Oryam Nehoray | 1.0.0 | 0.1 MB | 2026-07-21 |
-| [Reclaim](https://www.glaze.app/app/ed33HB) | 12 | Your AI is quietly eating up your disk | Abubakr Jimoh | 4.0.0 | 0.2 MB | 2026-07-27 |
 | [Relay](https://www.glaze.app/app/mvjsAA) | 12 | API Endpoints to tools for AI agents | Nikhil | 8.0.0 | 0.4 MB | 2026-07-28 |
 | [Agent Meter](https://www.glaze.app/app/PHZFWg) | 8 | Your Codex and Claude usage in real time | Ivo Tanev | 2.0.0 | 0.1 MB | 2026-07-24 |
 | [Patchlight](https://www.glaze.app/app/H7qQ7w) | 4 | See what your AI coding agent changed. | Fifo | 1.0.0 | 0.1 MB | 2026-07-23 |
@@ -27,7 +27,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Skill Vault](https://www.glaze.app/app/vDXO9z) | 36 | Centralize and manage all your AI skills | Mete Polat | 1.0.0 | 0.1 MB | 2026-05-05 |
-| [TokenLens](https://www.glaze.app/app/Gy3hAw) | 21 | Track AI token usage and costs | Liel Azulay | 3.0.0 | 1.3 MB | 2026-06-21 |
+| [TokenLens](https://www.glaze.app/app/Gy3hAw) | 22 | Track AI token usage and costs | Liel Azulay | 3.0.0 | 1.3 MB | 2026-06-21 |
 | [Handoff](https://www.glaze.app/app/rIHUKk) | 8 | Your AI work, ready for review. | Youssef Toufik | 1.0.0 | 0.1 MB | 2026-07-26 |
 | [AI Usage](https://www.glaze.app/app/fvzrm3) | 1 | Track AI usage | Miraj Chokshi | 2.0.0 | 0.1 MB | 2026-07-24 |
 
@@ -35,7 +35,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 16 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 0.1 MB | 2026-07-29 |
+| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 17 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 0.1 MB | 2026-07-29 |
 | [Clipfloat](https://www.glaze.app/app/0DLNYu) | 5 | AI-guided copy and paste made effortless | James Coy (JC) | 1.0.0 | 0.1 MB | 2026-07-16 |
 | [Repo Pulse](https://www.glaze.app/app/0o8uwf) | 3 | Stay updated on repos with AI insights | Yossi Zahn | 3.0.0 | 0.1 MB | 2026-07-27 |
 | [PG-Glaze](https://www.glaze.app/app/aNPalD) | 2 | Browse and query your PostgreSQL | Frank | 3.0.0 | 0.5 MB | 2026-07-02 |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-55 publishers · [← publisher index](./README.md)
+56 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
@@ -30,7 +30,7 @@
 | Pedro Ladeira | 1 | 1 | [Stretch Break](https://www.glaze.app/app/Y7qUx0) *(Productivity)* |
 | Pedro Marvarez | 1 | 12 | [Flow](https://www.glaze.app/app/v9gzNN) *(Productivity)* |
 | [Per Nielsen Tikær](./id/per-nielsen-tik-r.md) | 6 | 111 | [see all 6 →](./id/per-nielsen-tik-r.md) |
-| Petar Stoyanov | 2 | 12 | [The Jarvis](https://www.glaze.app/app/8pGlBl) *(Productivity)*, [Githuby](https://www.glaze.app/app/pmFFrb) *(Developer Tools)* |
+| Petar Stoyanov | 2 | 13 | [The Jarvis](https://www.glaze.app/app/8pGlBl) *(Productivity)*, [Githuby](https://www.glaze.app/app/pmFFrb) *(Developer Tools)* |
 | Petar Yovkov | 2 | 6 | [Comma Chameleon](https://www.glaze.app/app/RWDn2J) *(Utilities)*, [Ringtone Cutter](https://www.glaze.app/app/zhwq3k) *(Utilities)* |
 | Pete Ware | 1 | 2 | [Photo Filter](https://www.glaze.app/app/KrNFl6) *(Utilities)* |
 | Peter Brinck | 1 | 4 | [Now Playing](https://www.glaze.app/app/wTArrC) *(Utilities)* |
@@ -48,6 +48,7 @@
 | Pierre | 1 | 13 | [Local Mind](https://www.glaze.app/app/gXDcGx) *(Developer Tools)* |
 | Pierre Guilmin | 1 | 10 | [Earshot](https://www.glaze.app/app/G4xftZ) *(Utilities)* |
 | Pieter Moorman | 1 | 3 | [Long Play](https://www.glaze.app/app/Vzaw38) *(Media)* |
+| Piyushh Bhutoria | 1 | 1 | [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) *(Developer Tools)* |
 | PlumbRRRRRR | 1 | 3 | [Kip](https://www.glaze.app/app/aWB3Se) *(Productivity)* |
 | Pm.Delvern | 1 | 2 | [Lyric Finder](https://www.glaze.app/app/5Uepfq) *(Media)* |
 | Pocetox | 1 | 2 | [ForgeBoard](https://www.glaze.app/app/ESOFef) *(Developer Tools)* |

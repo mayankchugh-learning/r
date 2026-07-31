@@ -20,11 +20,11 @@
 | Léo Tuil | 2 | 4 | [Thermal Monitor](https://www.glaze.app/app/d8QTlA) *(Utilities)*, [Sleepwalker](https://www.glaze.app/app/sleepwalker-Twm2r3) *(Utilities)* |
 | Leonidas Fragkioudakis | 1 | 5 | [Wishlist](https://www.glaze.app/app/bdkrvX) *(Productivity)* |
 | Lertad Supadhiloke | 1 | 8 | [TOM.FM](https://www.glaze.app/app/M7kFKo) *(Media)* |
-| lexav | 2 | 92 | [The Dock](https://www.glaze.app/app/the-dock-u2upth) *(Utilities)*, [Tiny Timer](https://www.glaze.app/app/e0Dbb6) *(Productivity)* |
+| lexav | 2 | 93 | [The Dock](https://www.glaze.app/app/the-dock-u2upth) *(Utilities)*, [Tiny Timer](https://www.glaze.app/app/e0Dbb6) *(Productivity)* |
 | Li Jin | 1 | 9 | [Lucky Spin](https://www.glaze.app/app/2ihORJ) *(Games & Fun)* |
 | Liam Merlyn | 2 | 9 | [Clientworth](https://www.glaze.app/app/81XlgQ) *(Productivity)*, [TypeScale](https://www.glaze.app/app/d6x4u2) *(Developer Tools)* |
 | Liam Moore | 1 | 4 | [Arbor](https://www.glaze.app/app/Z2nW2k) *(Games & Fun)* |
-| Liel Azulay | 2 | 25 | [TokenLens](https://www.glaze.app/app/Gy3hAw) *(Developer Tools)*, [Celly](https://www.glaze.app/app/dPRQz9) *(Productivity)* |
+| Liel Azulay | 2 | 26 | [TokenLens](https://www.glaze.app/app/Gy3hAw) *(Developer Tools)*, [Celly](https://www.glaze.app/app/dPRQz9) *(Productivity)* |
 | LitoMore | 3 | 141 | [Glaze Playground](https://www.glaze.app/app/vE1ZTK) *(Developer Tools)*, [Iconify](https://www.glaze.app/app/UedCjG) *(Developer Tools)*, [Brand Icons](https://www.glaze.app/app/IydK5q) *(Design)* |
 | Lmelerski | 1 | 2 | [MeetSpace](https://www.glaze.app/app/75M7kk) *(Productivity)* |
 | Loic.Goyet | 2 | 4 | [Sablier](https://www.glaze.app/app/AYaR7q) *(Productivity)*, [RER E Planner](https://www.glaze.app/app/ciQhnY) *(Productivity)* |

@@ -17,7 +17,7 @@
 | Magnus Digitalisering | 1 | 2 | [Aside](https://www.glaze.app/app/9T6P7P) *(Utilities)* |
 | Mahesh Chambhare | 1 | 3 | [MCRudra Compress](https://www.glaze.app/app/6nwL0X) *(Developer Tools)* |
 | Mahesh Shantaram | 1 | 1 | [Quick2AVault](https://www.glaze.app/app/Ez7tQc) *(Productivity)* |
-| Maicol Oliveira | 1 | 2 | [Lynxview](https://www.glaze.app/app/VidXHE) *(Utilities)* |
+| Maicol Oliveira | 1 | 3 | [Lynxview](https://www.glaze.app/app/VidXHE) *(Utilities)* |
 | Maik Klotz | 1 | 6 | [Toob](https://www.glaze.app/app/riVQfp) *(Media)* |
 | Majesticwalrusz | 1 | 2 | [Vinyl](https://www.glaze.app/app/lD6nEv) *(Media)* |
 | MajorLaser | 1 | 2 | [Plex Converter](https://www.glaze.app/app/IIUGLl) *(Utilities)* |
@@ -58,7 +58,7 @@
 | Maxim B | 1 | 4 | [Bubble Break](https://www.glaze.app/app/BixbZm) *(Games & Fun)* |
 | Maxime Le Bec | 1 | 1 | [FitPlan](https://www.glaze.app/app/1VCZdn) *(Productivity)* |
 | May Zhou | 1 | 9 | [snap sort](https://www.glaze.app/app/Ic87j0) *(Utilities)* |
-| Maya Avendaño | 1 | 284 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
+| Maya Avendaño | 1 | 288 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
 | mboeru | 1 | 1 | [TeamsToDeck Commands](https://www.glaze.app/app/5kyOs4) *(Productivity)* |
 | mcfoton | 1 | 2 | [Cabled](https://www.glaze.app/app/KRIVgd) *(Developer Tools)* |
 | Me | 1 | 6 | [Markdown Notes](https://www.glaze.app/app/myI9Nz) *(Productivity)* |

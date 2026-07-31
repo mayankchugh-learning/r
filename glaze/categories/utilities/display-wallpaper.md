@@ -17,9 +17,9 @@
 | [AK ScreenCap](https://www.glaze.app/app/isCi9d) | 2 | Capture, edit, and share screenshots | Mohammad Akteruzzaman | 1.0.0 | 0.3 MB | 2026-07-22 |
 | [ChromaEye](https://www.glaze.app/app/P0AfSz) | 2 | Know any color, instantly. | Wil | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [Snowfall](https://www.glaze.app/app/hW6nB2) | 2 | Bring a peaceful snowstorm to your | Gary Rogers | 2.0.0 | 0.0 MB | 2026-07-09 |
+| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 1 | Display a Windows lock screen on Mac | Karim Abdelali | 2.0.0 | 0.1 MB | 2026-07-31 |
 | [Copy Grab](https://www.glaze.app/app/heEz1P) | 0 | Capture and copy any text from screen | Ritik Jain | 1.0.0 | 0.1 MB | 2026-07-15 |
 | [Luma](https://www.glaze.app/app/hKajc0) | 0 | Every app, made understandable. | Ankesh Meena | 1.0.0 | 0.1 MB | 2026-07-27 |
-| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 0 | Display a Windows lock screen on Mac | Karim Abdelali | 2.0.0 | 0.1 MB | 2026-07-31 |
 
 ## Between ✦
 

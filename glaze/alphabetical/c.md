@@ -6,8 +6,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 840 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 0.1 MB | 2026-07-29 |
-| [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 397 | Analog warmth meets digital synthesis | Combustion Studio | 7.0.0 | 1.4 MB | 2026-07-17 |
+| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 842 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 0.1 MB | 2026-07-29 |
+| [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 398 | Analog warmth meets digital synthesis | Combustion Studio | 7.0.0 | 1.4 MB | 2026-07-17 |
 | [Curves](https://www.glaze.app/app/a8OtIv) | 111 | Browse, compare and create bezier curves visually to find the perfect easing function for your design | Thomas Paul Mann | 2.0.1 | 0.2 MB | 2026-03-18 |
 | [Countdown Widget](https://www.glaze.app/app/Z15mua) | 66 | Track every moment until it arrives | Nichlas Wærnes Andersen | 4.0.0 | 0.1 MB | 2026-04-15 |
 | [Compressor](https://www.glaze.app/app/rISkCt) | 62 | Compress videos in seconds, any quality | Thomas Paul Mann | 3.0.0 | 0.1 MB | 2026-07-01 |
@@ -18,7 +18,7 @@
 | [Coin Flip](https://www.glaze.app/app/fRjllX) | 35 | Flip a coin, get instant heads or tails | Jordan Amblin | 2.0.0 | 0.0 MB | 2026-04-15 |
 | [Cooking Core](https://www.glaze.app/app/sXamfD) | 33 | Make interactive cooking recipes in minutes. Drag and drop elements to build and use gestures so mess doesn’t transfer from hand to screen. | Rory Killingley | 3.0.1 | 0.3 MB | 2026-04-03 |
 | [Clean My Ray](https://www.glaze.app/app/jPQsxk) | 32 | Optimize macOS performance and system | Randy | 1.0.0 | 0.1 MB | 2026-07-04 |
-| [Claude Inspector](https://www.glaze.app/app/21ITy2) | 30 | Track your Claude plugins, skills, tools | Aydın Dağdelenler | 1.0.0 | 0.1 MB | 2026-07-10 |
+| [Claude Inspector](https://www.glaze.app/app/21ITy2) | 31 | Track your Claude plugins, skills, tools | Aydın Dağdelenler | 1.0.0 | 0.1 MB | 2026-07-10 |
 | [Clean Disk](https://www.glaze.app/app/mX1eWK) | 30 | Remove clutter and manage disk space | Emre ŞEN | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Cleanup](https://www.glaze.app/app/ZeU0rI) | 24 | Scan, sort and cleanup your files | Benjy.desprets | 5.0.1 | 0.6 MB | 2026-03-26 |
 | [Compresso](https://www.glaze.app/app/PvRxIA) | 22 | Shrink images and GIFs fast | Jac Peregrine-Davies | 4.0.0 | 0.0 MB | 2026-04-13 |
@@ -35,9 +35,9 @@
 | [Collections](https://www.glaze.app/app/rlLRUx) | 16 | Organize your visual inspiration | Aum Chauhan | 8.0.0 | 1.0 MB | 2026-07-27 |
 | [Cursor Usage](https://www.glaze.app/app/bfEiF9) | 16 | Monitor your Cursor API consumption | Jordan Gilroy | 3.0.0 | 0.1 MB | 2026-07-13 |
 | [Cahier](https://www.glaze.app/app/daTMf7) | 15 | Learn a language by writing | Bruno Reis | 3.0.0 | 0.3 MB | 2026-07-23 |
+| [Chmod Manager](https://www.glaze.app/app/MXi8To) | 15 | Control file permissions with ease | S.Peacock | 6.0.0 | 0.1 MB | 2026-07-27 |
 | [Claude Quick](https://www.glaze.app/app/hom5Jn) | 15 | Claude at your fingertips, always ready | Coldfinch | 4.0.0 | 14.9 MB | 2026-07-08 |
 | [Clipboard Intelligence Hub](https://www.glaze.app/app/v3KrOy) | 15 | Automatically capture, classify, and search everything you copy with smart contextual actions | Pasha Andreevski | 1.0.1 | 0.2 MB | 2026-03-25 |
-| [Chmod Manager](https://www.glaze.app/app/MXi8To) | 14 | Control file permissions with ease | S.Peacock | 6.0.0 | 0.1 MB | 2026-07-27 |
 | [Click Counter](https://www.glaze.app/app/oOdff8) | 14 | Track every click on your computer | Jordan Amblin | 2.0.0 | 0.0 MB | 2026-04-16 |
 | [Chromate](https://www.glaze.app/app/6cx0ui) | 13 | Convert colors, any format, instantly | Sean Thomas Stuart | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Clean My Keyboard](https://www.glaze.app/app/HWMqY1) | 13 | Lock your Mac to clean your keyboard! | Bruce Makes | 5.0.0 | 0.1 MB | 2026-07-26 |
@@ -51,13 +51,13 @@
 | [Chirp Chirrup](https://www.glaze.app/app/2z2j75) | 10 | Discover birds in your area by season | Pavlo Haidamak | 3.0.0 | 0.1 MB | 2026-07-16 |
 | [Chords](https://www.glaze.app/app/9tzIy4) | 10 | Keep track of your repertoire | Aydin Genchsoy | 3.0.0 | 2.5 MB | 2026-07-13 |
 | [CineRoulette](https://www.glaze.app/app/PogX5d) | 10 | Letterboxd Movie Picker | Paul Seagull | 1.0.0 | 0.1 MB | 2026-06-30 |
+| [Claude Meter](https://www.glaze.app/app/zyWYVY) | 10 | Monitor Claude API usage limits | Wesam Abuznadah | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [Clip That!](https://www.glaze.app/app/h1OVuq) | 10 | Save motion inspiration from any video. | Lefty | 5.0.0 | 0.6 MB | 2026-07-29 |
 | [CodeCanvas](https://www.glaze.app/app/r9V0pc) | 10 | Visual node map for your local codebase. | OM CHANDANKAR | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Copy That](https://www.glaze.app/app/QYtGUY) | 10 | Copy the uncopyable | Andrew Lindstrom | 2.0.0 | 0.3 MB | 2026-07-28 |
 | [Cache](https://www.glaze.app/app/kBv5VM) | 9 | Think and organize in a beautiful space | Dominik Keller | 3.0.0 | 0.1 MB | 2026-07-09 |
 | [Chord Forge](https://www.glaze.app/app/vMN18E) | 9 | Create chord progressions instantly. | Bruno Totoro | 4.0.0 | 0.1 MB | 2026-07-17 |
 | [Chord Visualizer](https://www.glaze.app/app/1uSWup) | 9 | See every chord shape on your fretboard | Timur Turianytsia | 1.0.0 | 0.1 MB | 2026-07-16 |
-| [Claude Meter](https://www.glaze.app/app/zyWYVY) | 9 | Monitor Claude API usage limits | Wesam Abuznadah | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [Copy Shelf](https://www.glaze.app/app/DO5ttX) | 9 | Bring back what you copied | Sabik Biswas | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Cropzor](https://www.glaze.app/app/Cm2M0P) | 9 | Crop, resize, and compress images | ickas | 1.0.0 | 0.1 MB | 2026-07-15 |
 | [Claude Tracker](https://www.glaze.app/app/U6uslr) | 8 | Monitor Claude Desktop app usage | Backrock Studios | 1.0.0 | 0.1 MB | 2026-07-03 |
@@ -117,6 +117,7 @@
 | [Contrast Control](https://www.glaze.app/app/kHVzuV) | 3 | Adjust Mac display contrast from menu | Philipp.Herzig | 2.0.0 | 0.1 MB | 2026-06-28 |
 | [Cookie scanner](https://www.glaze.app/app/nLD8Qi) | 3 | Scan websites for hidden trackers | Aaresvic | 3.0.0 | 0.1 MB | 2026-07-04 |
 | [Crate](https://www.glaze.app/app/VylNZA) | 3 | A unified music player for collectors | Renier Botha | 1.0.0 | 8.4 MB | 2026-07-23 |
+| [Crude Watch](https://www.glaze.app/app/nbXx15) | 3 | Track oil prices, get instant alerts | @zenithquinn | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [CSV to JSON](https://www.glaze.app/app/kJbs0Y) | 3 | Convert CSV or TSV files to JSON | Eric Cheung | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [CUE](https://www.glaze.app/app/2uuKlm) | 3 | Read your notes during calls, unseen | Adrian Luna Diaz | 1.0.0 | 0.9 MB | 2026-07-04 |
 | [Cabled](https://www.glaze.app/app/KRIVgd) | 2 | Patch your MIDI gear with cables | mcfoton | 2.0.0 | 1.0 MB | 2026-07-26 |
@@ -133,7 +134,6 @@
 | [Contrasty](https://www.glaze.app/app/KBTe9V) | 2 | Check WCAG compliance easily | Sven | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Contxt](https://www.glaze.app/app/aefWQ2) | 2 | Create visual context for AI websites. | Mark Yaasi | 4.0.0 | 1.6 MB | 2026-07-28 |
 | [Crop](https://www.glaze.app/app/lGQeJB) | 2 | Design layouts in seconds, not hours | Nicholas | 5.0.0 | 0.1 MB | 2026-07-28 |
-| [Crude Watch](https://www.glaze.app/app/nbXx15) | 2 | Track oil prices, get instant alerts | @zenithquinn | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Cue Master](https://www.glaze.app/app/qP6LN2) | 2 | Cueing for Live Shows - Made Easy | Ziggy Bornas | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Cura](https://www.glaze.app/app/HP0tKT) | 2 | Switch Cursor accounts without friction | Erbil Nas | 6.0.0 | 0.1 MB | 2026-07-13 |
 | [Currency Converter](https://www.glaze.app/app/mPmaas) | 2 | Convert currencies instantly | fkhwaja | 1.0.0 | 0.0 MB | 2026-05-28 |

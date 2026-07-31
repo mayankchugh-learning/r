@@ -15,8 +15,8 @@
 | [PR Reviewer](https://www.glaze.app/app/4jkFFX) | 9 | Review and merge GitHub pull requests | Ethan Figueroa | 1.0.0 | 0.2 MB | 2026-07-03 |
 | [Repo Pulse](https://www.glaze.app/app/NOIZGl) | 6 | Track your GitHub repos in real time | Sean Thomas Stuart | 1.0.0 | 0.1 MB | 2026-07-12 |
 | [Github PR Dashboard](https://www.glaze.app/app/bhjgfa) | 4 | Monitor your GitHub pull requests | Mike Valstar | 2.0.0 | 0.1 MB | 2026-07-24 |
+| [Githuby](https://www.glaze.app/app/pmFFrb) | 4 | Github PRs glance in one place. | Petar Stoyanov | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [GitHub Pulse](https://www.glaze.app/app/oFScU5) | 3 | Monitor pull requests and action runs across your GitHub projects in one dashboard | Daniel Fry | 1.0.1 | 0.2 MB | 2026-03-20 |
-| [Githuby](https://www.glaze.app/app/pmFFrb) | 3 | Github PRs glance in one place. | Petar Stoyanov | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Gitify](https://www.glaze.app/app/d2qvZN) | 3 | GitHub notifications on your menubar | Afonso Ramos | 2.0.0 | 0.1 MB | 2026-07-28 |
 | [Repo Pulse](https://www.glaze.app/app/Pd0Skf) | 1 | Track your GitHub repository growth | Artem Novichkov | 1.0.0 | 0.1 MB | 2026-07-04 |
 

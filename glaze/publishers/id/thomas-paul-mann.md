@@ -1,6 +1,6 @@
 # Thomas Paul Mann
 
-12 apps · 3,370 installs · [← publishers](../README.md)
+12 apps · 3,373 installs · [← publishers](../README.md)
 
 ## Media (1)
 
@@ -12,7 +12,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 413 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-14 |
+| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 414 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-14 |
 | [Peel](https://www.glaze.app/app/peel-esimhU) | 402 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [Compressor](https://www.glaze.app/app/rISkCt) | 62 | Compress videos in seconds, any quality | Thomas Paul Mann | 3.0.0 | 0.1 MB | 2026-07-01 |
 
@@ -20,7 +20,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 608 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 0.7 MB | 2026-05-26 |
+| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 610 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 0.7 MB | 2026-05-26 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 
 ## Design (2)

@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 47 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
+| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 49 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
 | [Summer](https://www.glaze.app/app/summer-wcQqT0) | 29 | Quick tasks. Adorable cat. Pure focus | Steven Shoemaker | 3.0.0 | 0.1 MB | 2026-04-25 |
 | [Flow](https://www.glaze.app/app/v9gzNN) | 12 | Visual & Minimal Task Manager | Pedro Marvarez | 9.0.0 | 0.2 MB | 2026-07-28 |
 | [Next up?](https://www.glaze.app/app/A8aXwn) | 11 | See all your tasks and events at once | Peter Scheurer | 1.0.0 | 0.3 MB | 2026-07-12 |

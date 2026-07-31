@@ -6,8 +6,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ray.fm](https://www.glaze.app/app/Af8oi9) | 837 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 284 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
+| [ray.fm](https://www.glaze.app/app/Af8oi9) | 838 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 288 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
 | [Reading Corner](https://www.glaze.app/app/k3tfty) | 236 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 0.8 MB | 2026-07-19 |
 | [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 109 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 0.1 MB | 2026-07-20 |
 | [Repo Scout](https://www.glaze.app/app/repo-scout-P3pbfd) | 102 | Discover and manage git repos | Yiwei Ho | 6.0.0 | 0.1 MB | 2026-07-07 |
@@ -16,8 +16,8 @@
 | [Rams Radio](https://www.glaze.app/app/hefCaI) | 21 | Listen to your favorite stations anytime | Ivo Fonseca | 2.0.0 | 0.3 MB | 2026-07-27 |
 | [Reminders in Menubar](https://www.glaze.app/app/NvSEbg) | 20 | Access apple reminders from your menubar | Anubhav Tyagi | 2.0.0 | 0.1 MB | 2026-06-29 |
 | [Raywind](https://www.glaze.app/app/BFSbLz) | 17 | Instant screen replay for QA testing. | Per Nielsen Tikær | 4.0.0 | 0.5 MB | 2026-04-30 |
+| [Reclaim](https://www.glaze.app/app/ed33HB) | 13 | Your AI is quietly eating up your disk | Abubakr Jimoh | 4.0.0 | 0.2 MB | 2026-07-27 |
 | [Recommand](https://www.glaze.app/app/ZDQIep) | 13 | Quick app switching with Right Command | Florentin Eckl | 12.0.0 | 2.7 MB | 2026-07-30 |
-| [Reclaim](https://www.glaze.app/app/ed33HB) | 12 | Your AI is quietly eating up your disk | Abubakr Jimoh | 4.0.0 | 0.2 MB | 2026-07-27 |
 | [Relay](https://www.glaze.app/app/mvjsAA) | 12 | API Endpoints to tools for AI agents | Nikhil | 8.0.0 | 0.4 MB | 2026-07-28 |
 | [Room Planner](https://www.glaze.app/app/yvEH29) | 11 | Design your perfect space in minutes | Cindy Wincek | 2.0.0 | 0.1 MB | 2026-07-24 |
 | [RAM Prices](https://www.glaze.app/app/wrahvi) | 10 | Track RAM Prices | alexi.build | 2.0.0 | 0.1 MB | 2026-07-06 |
@@ -71,7 +71,7 @@
 | [RER E Planner](https://www.glaze.app/app/ciQhnY) | 1 | RER E trains, tracked in real time | Loic.Goyet | 8.0.0 | 0.1 MB | 2026-07-25 |
 | [RestQuest](https://www.glaze.app/app/v537AP) | 1 | Turn sleep into quests and rest better. | Harry Dhaliwal | 1.0.0 | 0.1 MB | 2026-07-29 |
 | [RTK Status](https://www.glaze.app/app/rDkfQr) | 1 | Monitor RTK in real time | Torsten Bergler | 1.0.0 | 0.1 MB | 2026-07-16 |
-| [RAID Calculator](https://www.glaze.app/app/raid-calculator-xF2vIw) | 0 | Calculate RAID storage capacity | Travis Tang | 1.0.0 | 0.1 MB | 2026-07-30 |
+| [RAID Calculator](https://www.glaze.app/app/xF2vIw) | 0 | Calculate RAID storage capacity | Travis Tang | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [RayMatch](https://www.glaze.app/app/fgUoYm) | 0 | Match pairs faster than your opponent | Lorenzo Fazioli | 1.0.0 | 0.1 MB | 2026-07-05 |
 | [Realistic Cat Owner Simulator](https://www.glaze.app/app/bZ5OSN) | 0 | Very real cat walks across your keyboard | Kenworthe | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Relieve](https://www.glaze.app/app/fLmAia) | 0 | Collaborate on academic papers | Esteban Dalel R | 1.0.0 | 1.5 MB | 2026-07-27 |

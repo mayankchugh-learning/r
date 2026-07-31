@@ -16,7 +16,7 @@
 | [Caption Craft](https://www.glaze.app/app/D4916q) | 5 | Phrase-smart, scene-aware video captions | Sam Sitar | 2.0.0 | 33.6 MB | 2026-07-28 |
 | [Canvas Audio](https://www.glaze.app/app/PFiJ1z) | 4 | Arrange audio simply and intuitively | Davidestevens | 15.0.0 | 0.1 MB | 2026-07-27 |
 | [Audio Splice](https://www.glaze.app/app/9UnhpT) | 1 | Merge audio files with markers | Davidestevens | 3.0.0 | 23.1 MB | 2026-07-16 |
-| [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 1 | Preview, organize, and export audio | Davidestevens | 8.0.0 | 0.1 MB | 2026-07-31 |
+| [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 1 | Preview, organize, and export audio | Davidestevens | 10.0.0 | 0.1 MB | 2026-07-31 |
 | [Scenes](https://www.glaze.app/app/dQg97x) | 1 | Edit videos without the complexity | Yan Frossard | 1.0.0 | 0.1 MB | 2026-07-28 |
 
 ## Playback ✦
@@ -37,4 +37,4 @@
 | [Rams Radio](https://www.glaze.app/app/hefCaI) | 21 | Listen to your favorite stations anytime | Ivo Fonseca | 2.0.0 | 0.3 MB | 2026-07-27 |
 | [BPM](https://www.glaze.app/app/xasg5A) | 17 | BPM Analyzer: get the BPM value of the live audio, from a file, or analyze manually by tapping the spacebar. | Roy van Rooijen | 1.0.1 | 0.2 MB | 2026-03-04 |
 | [Food Web](https://www.glaze.app/app/add6B0) | 5 | Explore predator and prey relationships | Alexander.K.Wright | 1.0.0 | 7.7 MB | 2026-07-27 |
-| [Mono to Stereo](https://www.glaze.app/app/afMOfJ) | 0 | Convert paired mono files to stereo | Davidestevens | 1.0.0 | 0.1 MB | 2026-07-31 |
+| [Mono to Stereo](https://www.glaze.app/app/mono-to-stereo-afMOfJ) | 0 | Convert paired mono files to stereo | Davidestevens | 1.0.0 | 0.1 MB | 2026-07-31 |

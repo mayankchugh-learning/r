@@ -2,18 +2,18 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-130 apps · [← Glaze catalog](../README.md)
+131 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 703 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 0.1 MB | 2026-04-15 |
 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) | 197 | Convert Markdown to Slack messages fast | Petr Nikolaev | 4.0.0 | 0.6 MB | 2026-04-17 |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 188 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [Mia Calendar](https://www.glaze.app/app/mia-calendar-N2NgPq) | 184 | Plan your days with your own handwriting | Daniela Muntyan | 13.0.0 | 3.3 MB | 2026-07-27 |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 180 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [MicCheck](https://www.glaze.app/app/miccheck-TRFqOJ) | 104 | Never miss a muted mic again | Justin Lancaster | 2.0.0 | 0.1 MB | 2026-07-17 |
 | [macHealth](https://www.glaze.app/app/C9jYcO) | 81 | Find out why your Mac is slow, instantly | gowhith kanisetty | 1.0.0 | 0.2 MB | 2026-05-11 |
-| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 73 | Your keyboard is now a piano | André Pinto | 3.0.0 | 0.1 MB | 2026-07-28 |
-| [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) | 55 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
+| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 76 | Your keyboard is now a piano | André Pinto | 3.0.0 | 0.1 MB | 2026-07-28 |
+| [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) | 56 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
 | [Magnify](https://www.glaze.app/app/magnify-YWP3Aj) | 51 | Zoom in on any image detail, then save | Jordan Amblin | 4.0.0 | 0.0 MB | 2026-04-15 |
 | [Moni](https://www.glaze.app/app/BDcrao) | 46 | Track your spending. Set budgets. See where your money goes. Import CSV bank statements or add transactions manually. No bank connection required. Op… | Kristina Loewen | 10.0.1 | 4.1 MB | 2026-04-09 |
 | [Marginalia](https://www.glaze.app/app/UFusOy) | 33 | Write and read markdown with elegance | Luiz Vinicius de Andrade | 5.0.0 | 0.1 MB | 2026-07-31 |
@@ -108,6 +108,7 @@
 | [MeetSpace](https://www.glaze.app/app/75M7kk) | 2 | Work on Slack. Connect on MeetSpace. | Lmelerski | 1.0.0 | 0.1 MB | 2026-07-26 |
 | [Mic Lock](https://www.glaze.app/app/af0Wa6) | 2 | Stop apps from hijacking your microphone | Philip Han | 2.0.0 | 0.1 MB | 2026-07-03 |
 | [Mirror](https://www.glaze.app/app/g8CfO5) | 2 | Quick self-check mirror on your menu bar | Ariazad Kazanjian | 4.0.0 | 0.0 MB | 2026-07-28 |
+| [MQTT Monitor](https://www.glaze.app/app/uGO568) | 2 | Real-time MQTT monitoring | Jelte Lagendijk | 3.0.0 | 0.2 MB | 2026-07-02 |
 | [My Radio Commander](https://www.glaze.app/app/aPbifY) | 2 | Auto-switch public radio | M Sour | 3.0.0 | 0.1 MB | 2026-07-19 |
 | [MyEisenhower](https://www.glaze.app/app/hE4Is3) | 2 | Prioritize what matters most, right now | John Punt | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Mail Deck](https://www.glaze.app/app/bXcgoO) | 1 | Inbox Therapy for Apple Mail | Kreela | 1.0.0 | 0.1 MB | 2026-07-23 |
@@ -124,15 +125,15 @@
 | [MetaBurn](https://www.glaze.app/app/g7Tz5a) | 1 | Burn metadata from photos and videos. | Cody Cochran | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [MiniDisc Studio](https://www.glaze.app/app/kBYOMd) | 1 | Record and manage MiniDisc audio | João Neves | 1.0.0 | 23.8 MB | 2026-05-15 |
 | [Monocle](https://www.glaze.app/app/4a0H2k) | 1 | See or hear your screen better | Vidura Gunawardana | 2.0.0 | 0.1 MB | 2026-07-27 |
-| [MQTT Monitor](https://www.glaze.app/app/uGO568) | 1 | Real-time MQTT monitoring | Jelte Lagendijk | 3.0.0 | 0.2 MB | 2026-07-02 |
 | [Music Quiz](https://www.glaze.app/app/Od3fcu) | 1 | Compete in music trivia with your team | Steingrím Ósá | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [MacFlow](https://www.glaze.app/app/3uEh6X) | 0 | Keep your Mac running at full speed | credesasq | 1.0.0 | 0.1 MB | 2026-07-25 |
+| [Markdown Preview](https://www.glaze.app/app/markdown-preview-41iQyN) | 0 | View Markdown instantly, skip the IDE | freddy | 1.0.0 | 1.9 MB | 2026-07-31 |
 | [Meal Luck](https://www.glaze.app/app/tIogAF) | 0 | Decide what to eat, no more thinking | Mario Juárez | 2.0.0 | 0.1 MB | 2026-07-28 |
 | [Media Bridge](https://www.glaze.app/app/VUm2cm) | 0 | Transfer midia from old iPhones | Yan Frossard | 3.0.0 | 0.1 MB | 2026-07-29 |
 | [Meridian](https://www.glaze.app/app/HyLo8Z) | 0 | Track time across multiple cities | Prabu Weerasinghe | 4.0.0 | 0.2 MB | 2026-07-28 |
 | [Metro Victoria](https://www.glaze.app/app/5N5NOk) | 0 | Real-time train info for Victoria | Daniel | 2.0.0 | 0.1 MB | 2026-07-24 |
 | [Monatel](https://www.glaze.app/app/ZD7pWP) | 0 | Craft your beast and fight for glory | Raycast.dmwnn | 1.0.0 | 0.1 MB | 2026-07-27 |
-| [Mono to Stereo](https://www.glaze.app/app/afMOfJ) | 0 | Convert paired mono files to stereo | Davidestevens | 1.0.0 | 0.1 MB | 2026-07-31 |
+| [Mono to Stereo](https://www.glaze.app/app/mono-to-stereo-afMOfJ) | 0 | Convert paired mono files to stereo | Davidestevens | 1.0.0 | 0.1 MB | 2026-07-31 |
 | [Mood Journal](https://www.glaze.app/app/95zb9l) | 0 | Track your daily mood and reflect | Lars Wetendorff Nielsen | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [My Travels](https://www.glaze.app/app/H0Q8mr) | 0 | Track and explore your travel history | Anton Kuznetsov | 1.0.0 | 3.9 MB | 2026-07-27 |
 | [Mystical Mazes](https://www.glaze.app/app/h3vE3M) | 0 | Solve puzzles, sharpen minds together. | Jason Konn | 1.0.0 | 0.1 MB | 2026-07-27 |

@@ -33,13 +33,13 @@
 | [Gatewatch](https://www.glaze.app/app/EPcefe) | 4 | See app network activity in real time | Jhonniey Gunk | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Gesto](https://www.glaze.app/app/1h8UN4) | 4 | Practice gesture drawing with timed | davi | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Github PR Dashboard](https://www.glaze.app/app/bhjgfa) | 4 | Monitor your GitHub pull requests | Mike Valstar | 2.0.0 | 0.1 MB | 2026-07-24 |
+| [Githuby](https://www.glaze.app/app/pmFFrb) | 4 | Github PRs glance in one place. | Petar Stoyanov | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Glance](https://www.glaze.app/app/G8Us2o) | 4 | Rest your eyes, refocus your mind | Giorgos Karapiperidis | 1.0.0 | 0.0 MB | 2026-07-24 |
 | [Glassbar](https://www.glaze.app/app/vFp4rP) | 4 | Stay hydrated every day with Glassbar | Gabriel García Fernández | 1.0.0 | 0.0 MB | 2026-06-06 |
 | [Granata Companion](https://www.glaze.app/app/ycPmzp) | 4 | Less mental load. More room to create. | Pamela | 7.0.0 | 0.1 MB | 2026-07-27 |
 | [Grok](https://www.glaze.app/app/1Sgx0k) | 4 | Bundle and package Grok conversations | Andy Zhu | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Galaga 1983](https://www.glaze.app/app/WWwcYw) | 3 | Relive the classic arcade shooter | Giovambattista Fazioli | 1.0.0 | 0.1 MB | 2026-07-12 |
 | [GitHub Pulse](https://www.glaze.app/app/oFScU5) | 3 | Monitor pull requests and action runs across your GitHub projects in one dashboard | Daniel Fry | 1.0.1 | 0.2 MB | 2026-03-20 |
-| [Githuby](https://www.glaze.app/app/pmFFrb) | 3 | Github PRs glance in one place. | Petar Stoyanov | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Gitify](https://www.glaze.app/app/d2qvZN) | 3 | GitHub notifications on your menubar | Afonso Ramos | 2.0.0 | 0.1 MB | 2026-07-28 |
 | [Goal Focus](https://www.glaze.app/app/s3vTde) | 3 | Keep your top goals visible daily | Eric McQuesten | 1.0.0 | 0.1 MB | 2026-07-17 |
 | [Got the Time?](https://www.glaze.app/app/Hp0Ot3) | 3 | Track multiple timezones from your menu | Byron Rode | 1.0.0 | 0.1 MB | 2026-06-30 |

@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Network Inspector](https://www.glaze.app/app/T1dGR9) | 28 | Monitor all devices on your network | Cold Frog | 2.0.0 | 0.1 MB | 2026-05-28 |
+| [Network Inspector](https://www.glaze.app/app/T1dGR9) | 29 | Monitor all devices on your network | Cold Frog | 2.0.0 | 0.1 MB | 2026-05-28 |
 | [Notch Island](https://www.glaze.app/app/ZBGs4Q) | 27 | Dynamic island for Mac. | Leo Catherine | 3.0.0 | 0.1 MB | 2026-07-08 |
 | [Notebook](https://www.glaze.app/app/EFiejT) | 22 | Write without distractions. | asingoat | 4.0.0 | 11.2 MB | 2026-07-22 |
 | [Nexus](https://www.glaze.app/app/Dln2VU) | 19 | Connect your desktop tools in one place. | Colm Lenehan | 1.0.0 | 0.1 MB | 2026-06-27 |
@@ -26,8 +26,8 @@
 | [nib](https://www.glaze.app/app/RJAlJp) | 7 | The app that refuses to write for you | James Jackson | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Noted](https://www.glaze.app/app/6gIagm) | 7 | A quiet place for your notes. | Yash Kotha | 4.0.0 | 0.2 MB | 2026-07-29 |
 | [Notion Memory](https://www.glaze.app/app/6F9TVc) | 7 | Remember everything you learn in Notion | Xuan | 2.0.0 | 0.1 MB | 2026-07-04 |
+| [Network Utility](https://www.glaze.app/app/WWGiYi) | 6 | Monitor and diagnose network connections | thejasonhowell | 2.0.0 | 0.1 MB | 2026-07-09 |
 | [Notepad for Mac](https://www.glaze.app/app/4cOMSP) | 6 | Notes, simplified for Mac | Jirawat Thaenthong | 1.0.0 | 0.1 MB | 2026-07-14 |
-| [Network Utility](https://www.glaze.app/app/WWGiYi) | 5 | Monitor and diagnose network connections | thejasonhowell | 2.0.0 | 0.1 MB | 2026-07-09 |
 | [Net Worth](https://www.glaze.app/app/XWEEaF) | 4 | Track all your assets and liabilities | Matt Lovett | 2.0.0 | 0.1 MB | 2026-06-07 |
 | [NetWatch](https://www.glaze.app/app/1Ds4iP) | 4 | Monitor network speed, ping, and system | Iaroslav Naiden | 1.0.0 | 0.1 MB | 2026-07-05 |
 | [News Flow](https://www.glaze.app/app/LmfyXP) | 4 | One AI-ranked feed for news and video | WheelHugger | 1.0.0 | 0.5 MB | 2026-07-28 |

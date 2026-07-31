@@ -6,7 +6,7 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| Fahd Badran | 1 | 3 | [Infinite Wallpapers](https://www.glaze.app/app/YflqIT) *(Utilities)* |
+| Fahd Badran | 1 | 4 | [Infinite Wallpapers](https://www.glaze.app/app/YflqIT) *(Utilities)* |
 | Faisal F Rafat | 1 | 10 | [Markdown Reader](https://www.glaze.app/app/haPRqs) *(Utilities)* |
 | Farhan K. | 1 | 4 | [On-Brand](https://www.glaze.app/app/DhmLaD) *(Design)* |
 | Favour Olaboye | 1 | 4 | [Shoebox](https://www.glaze.app/app/fZLDUl) *(Productivity)* |
@@ -28,11 +28,11 @@
 | Flo | 1 | 25 | [Skill Map](https://www.glaze.app/app/CMgPDh) *(Developer Tools)* |
 | Florentin Eckl | 1 | 13 | [Recommand](https://www.glaze.app/app/ZDQIep) *(Productivity)* |
 | Florian.Mascaro | 1 | 9 | [Image Lighter](https://www.glaze.app/app/BxZAHu) *(Developer Tools)* |
-| fra.raw | 1 | 47 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
+| fra.raw | 1 | 49 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
 | Frajjco | 1 | 1 | [Outfit of the Day](https://www.glaze.app/app/dcpdLg) *(Lifestyle)* |
 | Frame City | 1 | 0 | [Pomodoro Focus](https://www.glaze.app/app/C7Sc4O) *(Productivity)* |
 | Francesco Maisano | 1 | 5 | [Blunder](https://www.glaze.app/app/0dUOLc) *(Games & Fun)* |
 | Frank | 1 | 2 | [PG-Glaze](https://www.glaze.app/app/aNPalD) *(Developer Tools)* |
 | Frank Olien | 1 | 2 | [Handoff](https://www.glaze.app/app/C86y01) *(Productivity)* |
-| freddy | 1 | 3 | [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) *(Utilities)* |
+| freddy | 2 | 3 | [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) *(Utilities)*, [Markdown Preview](https://www.glaze.app/app/markdown-preview-41iQyN) *(Developer Tools)* |
 | Frederic Lierman | 1 | 2 | [log-lite](https://www.glaze.app/app/6ldf4h) *(Productivity)* |

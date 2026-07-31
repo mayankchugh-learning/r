@@ -21,7 +21,7 @@
 | [FeedBagel](https://www.glaze.app/app/AozKi4) | 22 | The internet, freshly baked (RSS) | Graeme Fulton | 2.0.0 | 9.5 MB | 2026-07-29 |
 | [Flappy Lid](https://www.glaze.app/app/xpXvt6) | 17 | Control a Flappy Bird game using your MacBook's lid angle | Dhruv Suthar | 2.0.1 | 0.4 MB | 2026-03-06 |
 | [Flor](https://www.glaze.app/app/8Q7yXM) | 17 | Check in with yourself daily | David Martín Suárez | 5.0.0 | 45.1 MB | 2026-07-29 |
-| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 16 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 0.1 MB | 2026-07-29 |
+| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 17 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 0.1 MB | 2026-07-29 |
 | [File Sort](https://www.glaze.app/app/JIFzUZ) | 14 | Auto-organize files by type | Rémi Leclercq | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Flaremail](https://www.glaze.app/app/hB2ADe) | 14 | Native opensource email client & server | Fayaz Ahmed | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [FreeToGame](https://www.glaze.app/app/HX7ecf) | 14 | Discover the best free-to-play PC games! | alexi.build | 3.0.0 | 0.1 MB | 2026-07-05 |

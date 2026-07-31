@@ -6,7 +6,7 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| [S.Peacock](./id/s-peacock.md) | 6 | 37 | [see all 6 →](./id/s-peacock.md) |
+| [S.Peacock](./id/s-peacock.md) | 6 | 38 | [see all 6 →](./id/s-peacock.md) |
 | Sabik Biswas | 1 | 9 | [Copy Shelf](https://www.glaze.app/app/DO5ttX) *(Utilities)* |
 | Sachin | 1 | 10 | [Saturn](https://www.glaze.app/app/ewPgBX) *(Productivity)* |
 | Saeed Vaziry | 1 | 6 | [Task List](https://www.glaze.app/app/0mqTCb) *(Productivity)* |
@@ -25,8 +25,8 @@
 | Sam.Minton | 1 | 27 | [Moodboard](https://www.glaze.app/app/0LJlsa) *(Design)* |
 | Sambit Biswas | 1 | 10 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) *(Design)* |
 | Samet Özkale | 1 | 2 | [Habit Periods](https://www.glaze.app/app/133jtm) *(Productivity)* |
-| [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,093 | [see all 7 →](./id/samuel-kraft.md) |
-| Samuel Lee | 1 | 12 | [Ludus](https://www.glaze.app/app/4RDpwn) *(Productivity)* |
+| [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,094 | [see all 7 →](./id/samuel-kraft.md) |
+| Samuel Lee | 1 | 13 | [Ludus](https://www.glaze.app/app/4RDpwn) *(Productivity)* |
 | Samuel Monteiro | 1 | 6 | [Hold](https://www.glaze.app/app/GvHeQR) *(Productivity)* |
 | Sander Schat | 1 | 4 | [Local Server](https://www.glaze.app/app/Lk3DCH) *(Developer Tools)* |
 | Sandipan Kundu | 1 | 3 | [Spotlight](https://www.glaze.app/app/ks65fD) *(Developer Tools)* |
@@ -82,7 +82,7 @@
 | Solomon Adzape | 1 | 3 | [Relay](https://www.glaze.app/app/OcQkmG) *(Productivity)* |
 | Solve Base | 3 | 11 | [Task List](https://www.glaze.app/app/9HYu19) *(Productivity)*, [Habit Tracker](https://www.glaze.app/app/nOfsDB) *(Productivity)*, [SolveBase Water Reminder](https://www.glaze.app/app/6bFtte) *(Productivity)* |
 | Song Qian | 1 | 4 | [Deskmate](https://www.glaze.app/app/ki1c5r) *(Productivity)* |
-| Sonia Kahn | 1 | 12 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) *(Productivity)* |
+| Sonia Kahn | 1 | 13 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) *(Productivity)* |
 | Sonia Toqqe | 1 | 2 | [VoiceFrame](https://www.glaze.app/app/2ehSvS) *(Productivity)* |
 | spencersmith.site | 1 | 3 | [Nightshift](https://www.glaze.app/app/Iv56bT) *(Games & Fun)* |
 | Square Rabbit | 1 | 9 | [Reel Scout](https://www.glaze.app/app/D2po61) *(Media)* |

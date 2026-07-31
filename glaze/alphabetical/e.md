@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) | 151 | When you need to be somewhere else | Yann-Edern Gillet | 7.0.0 | 34.5 MB | 2026-07-30 |
+| [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) | 157 | When you need to be somewhere else | Yann-Edern Gillet | 7.0.0 | 34.5 MB | 2026-07-30 |
 | [Electron Detector](https://www.glaze.app/app/R0hiOb) | 24 | Discover apps built with Electron.js | Donald Mok | 2.0.0 | 0.1 MB | 2026-07-01 |
 | [Emoji Generator](https://www.glaze.app/app/AOV7jA) | 14 | Generate custom emoji w/ OpenAI API key | Gavin Scott-Miller | 2.0.0 | 0.1 MB | 2026-07-14 |
 | [ElevenLingo](https://www.glaze.app/app/CM11Am) | 12 | Learn languages with ElevenLabs TTS | Taha Tesser | 5.0.0 | 0.1 MB | 2026-07-12 |
@@ -20,7 +20,7 @@
 | [Ember Control](https://www.glaze.app/app/bOZVk8) | 3 | Control your Ember mug via Bluetooth | D | 2.0.0 | 2.0 MB | 2026-07-23 |
 | [Enough](https://www.glaze.app/app/VfLP49) | 3 | Start small, finish strong | Dominique Feterman | 3.0.0 | 0.1 MB | 2026-07-27 |
 | [Eye Break](https://www.glaze.app/app/F4zgsi) | 3 | Prevent eye strain with regular breaks | Mschaffelder | 2.0.0 | 0.1 MB | 2026-07-09 |
-| [Earthquake Monitor](https://www.glaze.app/app/earthquake-monitor-f34VTK) | 2 | Track seismic activity worldwide | Travis Tang | 1.0.0 | 0.1 MB | 2026-07-30 |
+| [Earthquake Monitor](https://www.glaze.app/app/f34VTK) | 2 | Track seismic activity worldwide | Travis Tang | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [English to Chinese](https://www.glaze.app/app/QPtyhn) | 2 | Translate English words to Chinese | Elston Yee | 1.0.0 | 0.2 MB | 2026-07-01 |
 | [Engram](https://www.glaze.app/app/Js72PP) | 2 | Type a topic. Get a course and cards. | Andrew Woodruff | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [EZQR](https://www.glaze.app/app/wwduiY) | 2 | Generate QR codes entirely offline | EK | 2.0.0 | 0.1 MB | 2026-07-09 |

@@ -7,30 +7,30 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 487 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 0.1 MB | 2026-04-15 |
-| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 413 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-14 |
+| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 414 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-14 |
 | [Dynamic Island](https://www.glaze.app/app/Om758X) | 47 | iPhone-style Dynamic Islan for your Mac | alexi.build | 1.0.0 | 0.0 MB | 2026-04-22 |
-| [Ding!](https://www.glaze.app/app/oRbL7g) | 36 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 0.1 MB | 2026-07-30 |
+| [Ding!](https://www.glaze.app/app/oRbL7g) | 37 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 0.1 MB | 2026-07-30 |
 | [Drop2Markdown](https://www.glaze.app/app/E8OW9Q) | 33 | Drop anything. Get Markdown. | Oliver Posselt | 3.0.0 | 96.3 MB | 2026-04-20 |
 | [Drum Padzzor](https://www.glaze.app/app/fFPlup) | 26 | Create beats with a 3x3 keyboard drum machine, load samples, and control via MIDI | Johan Thorell | 1.0.1 | 0.2 MB | 2026-03-04 |
 | [DITHERMINT](https://www.glaze.app/app/C5rwqe) | 22 | YOUR 1 BIT ART STUDIO | Jac Peregrine-Davies | 2.0.0 | 0.4 MB | 2026-06-03 |
 | [DiskMap](https://www.glaze.app/app/ZEZ4dk) | 20 | Visualize and manage disk space usage | WheelHugger | 3.0.0 | 0.3 MB | 2026-07-13 |
 | [DROP](https://www.glaze.app/app/PtgApl) | 19 | Drag, save, and reuse files anywhere | melvin | 1.0.0 | 0.1 MB | 2026-06-02 |
 | [Desktop Buddy](https://www.glaze.app/app/EZebyp) | 15 | Your digital friend for daily wellness | Jingxi Huang | 2.0.0 | 56.8 MB | 2026-04-29 |
-| [DayReceipt](https://www.glaze.app/app/7NQDsc) | 13 | Execute your daily notes as actionable | 1lsang | 2.0.0 | 0.4 MB | 2026-07-28 |
+| [DayReceipt](https://www.glaze.app/app/7NQDsc) | 14 | Execute your daily notes as actionable | 1lsang | 2.0.0 | 0.4 MB | 2026-07-28 |
 | [Disk Diag](https://www.glaze.app/app/E11IfY) | 13 | See what's eating your disk space | Felix | 1.0.0 | 0.1 MB | 2026-07-06 |
 | [Dustline MK1](https://www.glaze.app/app/Q7pilo) | 12 | Turn single notes into full chords | Benjamin Dauton | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Darkroom](https://www.glaze.app/app/nhpgO9) | 11 | Catalog and organize all your film rolls | Michał Zuch | 3.0.0 | 7.4 MB | 2026-05-09 |
+| [Darkroom Studio](https://www.glaze.app/app/5aumRY) | 11 | Turn every shoot into your best work | Ahmet Güler | 1.0.0 | 8.2 MB | 2026-07-28 |
 | [Desktop Cat](https://www.glaze.app/app/ugw7nJ) | 11 | Keep a virtual cat on your desktop | tatsuo yokoyama | 1.0.0 | 0.1 MB | 2026-06-12 |
 | [Dev Secrets](https://www.glaze.app/app/6wpfCy) | 11 | Store and manage local dev environment | Peter Kracik | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [DailyType](https://www.glaze.app/app/XCK3wC) | 10 | Practice typing with speed challenges | Tom Panos | 4.0.0 | 0.1 MB | 2026-07-09 |
-| [Darkroom Studio](https://www.glaze.app/app/5aumRY) | 10 | Turn every shoot into your best work | Ahmet Güler | 1.0.0 | 8.2 MB | 2026-07-28 |
 | [Diffable](https://www.glaze.app/app/ijgHph) | 10 | Compare text changes side-by-side | Noud Adrichem | 1.0.0 | 0.1 MB | 2026-07-07 |
 | [DocMD](https://www.glaze.app/app/Y4sDbq) | 9 | Convert Documents to Markdown with AI | Calvin White | 1.0.0 | 0.1 MB | 2026-07-06 |
 | [Download Time Calculator](https://www.glaze.app/app/PeVPLM) | 9 | Calculate download ETAs instantly | Andrea Montinovo | 2.0.0 | 0.1 MB | 2026-07-13 |
 | [DevPal](https://www.glaze.app/app/ruf8ih) | 8 | Essential utilities for developers | Stephen Fang | 2.0.0 | 0.1 MB | 2026-07-05 |
 | [Diff](https://www.glaze.app/app/XshMGr) | 8 | See what changed, instantly | Justis Faulkner | 1.0.0 | 0.1 MB | 2026-07-13 |
+| [Dispatch](https://www.glaze.app/app/zM8HY8) | 8 | Send writing to your Kindle instantly | Gareth Chainey | 1.0.0 | 0.6 MB | 2026-07-28 |
 | [Desktop Events](https://www.glaze.app/app/lWaw3B) | 7 | Stay on top of your upcoming events | David Ferguson | 7.0.0 | 0.4 MB | 2026-07-27 |
-| [Dispatch](https://www.glaze.app/app/zM8HY8) | 7 | Send writing to your Kindle instantly | Gareth Chainey | 1.0.0 | 0.6 MB | 2026-07-28 |
 | [DraftCalendar](https://www.glaze.app/app/wer6wS) | 7 | Plan, track, and improve your posts | Karlo König | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [Dumpster Fire](https://www.glaze.app/app/m1gBzP) | 7 | 🔥 Downloads folder, but it fights back | tobua | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Daymark](https://www.glaze.app/app/MX1yNN) | 6 | A daily note for every day | Iamgregb | 11.0.0 | 1.3 MB | 2026-07-30 |

@@ -10,7 +10,7 @@
 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 212 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 0.1 MB | 2026-04-15 |
 | [Arnie](https://www.glaze.app/app/tqkV16) | 59 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 0.2 MB | 2026-06-30 |
 | [AI Models Database](https://www.glaze.app/app/VzvbvJ) | 43 | Browse AI Models, Providers, and Labs | alexi.build | 5.0.0 | 0.1 MB | 2026-07-11 |
-| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 38 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 0.1 MB | 2026-07-28 |
+| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 39 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 0.1 MB | 2026-07-28 |
 | [ASCII Capture](https://www.glaze.app/app/KxyppG) | 36 | Convert photos into customizable ASCII art and export as images or SVG for web use | Yassine A | 1.0.1 | 0.2 MB | 2026-03-25 |
 | [Airwave](https://www.glaze.app/app/4OhADX) | 28 | Your music, perfectly in tune | Scoop | 7.0.0 | 1.4 MB | 2026-07-26 |
 | [ACE](https://www.glaze.app/app/97rUBQ) | 27 | Teleprompter with live speaking support | Danial Siddiki | 3.0.0 | 6.9 MB | 2026-07-29 |
@@ -82,7 +82,7 @@
 | [Audio Glance](https://www.glaze.app/app/fzHAcI) | 1 | Monitor audio devices from menu bar | Felix Kaiser | 1.0.0 | 0.0 MB | 2026-06-18 |
 | [Audio Splice](https://www.glaze.app/app/9UnhpT) | 1 | Merge audio files with markers | Davidestevens | 3.0.0 | 23.1 MB | 2026-07-16 |
 | [AudioBook Builder](https://www.glaze.app/app/eOM0Mt) | 1 | Audio to Apple Audiobook Converter | Ivane Shaishmelashvili | 1.0.0 | 0.1 MB | 2026-07-25 |
-| [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 1 | Preview, organize, and export audio | Davidestevens | 8.0.0 | 0.1 MB | 2026-07-31 |
+| [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 1 | Preview, organize, and export audio | Davidestevens | 10.0.0 | 0.1 MB | 2026-07-31 |
 | [AudioPair](https://www.glaze.app/app/DKqhsm) | 1 | Auto-connect and route audio | Erik | 3.0.0 | 0.1 MB | 2026-07-02 |
 | [Autopilot](https://www.glaze.app/app/c7aV6t) | 1 | Auto-fix GitHub PRs with AI review | Vladimirkorolev0 | 1.0.0 | 0.1 MB | 2026-06-28 |
 | [Aegis](https://www.glaze.app/app/lr6s0B) | 0 | Review Solidity before attackers do | Mustapha Alex | 1.0.0 | 0.1 MB | 2026-07-28 |

@@ -30,11 +30,11 @@
 | [Volume Display](https://www.glaze.app/app/MzFiNY) | 3 | See your Mac's exact volume level | Montaser Sawi | 3.0.0 | 0.1 MB | 2026-06-14 |
 | [VAT Calculator](https://www.glaze.app/app/ApSwEv) | 2 | Calculate VAT on any amount instantly | Seth Carnill | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Verbatim - Article Reader](https://www.glaze.app/app/verbatim-article-reader-hZ8i9m) | 2 | Listening is easier than reading | Ryan O'Connell | 1.0.0 | 0.2 MB | 2026-07-30 |
+| [Vibemaxx](https://www.glaze.app/app/KpAO18) | 2 | Stop shipping flat UI. Start vibemaxxing | Rizal Ramadhan | 1.0.0 | 0.3 MB | 2026-07-28 |
 | [Vinyl](https://www.glaze.app/app/lD6nEv) | 2 | Vinyl audio visualiser for your music | Majesticwalrusz | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [Visus : Personal Dashboards](https://www.glaze.app/app/arOO8W) | 2 | Glance at everything. Open nothing | Mohammad Nabhan | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [VoiceFrame](https://www.glaze.app/app/2ehSvS) | 2 | Speech to structure | Sonia Toqqe | 2.0.0 | 0.6 MB | 2026-07-29 |
 | [Vercel analytics](https://www.glaze.app/app/ZLF9f0) | 1 | Monitor analytics in your Mac menu bar | Aaresvic | 1.0.0 | 0.1 MB | 2026-07-04 |
-| [Vibemaxx](https://www.glaze.app/app/KpAO18) | 1 | Stop shipping flat UI. Start vibemaxxing | Rizal Ramadhan | 1.0.0 | 0.3 MB | 2026-07-28 |
 | [Videophone '76](https://www.glaze.app/app/LfmCUl) | 1 | Video calls through telephone lines | Olivia Rukavina | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [VNC Hub](https://www.glaze.app/app/nFdbGH) | 1 | Store and connect to VNC endpoints | Alberto Navarro | 1.0.0 | 0.1 MB | 2026-07-19 |
 | [Voyageur - AI Travel Companion](https://www.glaze.app/app/5E6b7O) | 1 | Plan trips day-by-day with AI | Yaroslav Vovchenko | 2.0.0 | 0.1 MB | 2026-07-24 |

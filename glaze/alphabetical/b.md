@@ -2,13 +2,13 @@
 
 [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-71 apps · [← Glaze catalog](../README.md)
+72 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Brui](https://www.glaze.app/app/eOPXRV) | 108 | Visual interface for Homebrew package | Niall | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 0.2 MB | 2026-07-13 |
-| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 47 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
+| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 49 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
 | [Breakout Dock](https://www.glaze.app/app/EEcNPI) | 37 | Smash through your installed apps in a breakout-style game where bricks are apps and your dock controls the paddle | Yann-Edern Gillet | 1.0.1 | 0.2 MB | 2026-03-25 |
 | [Batch Crop](https://www.glaze.app/app/tYEQoH) | 28 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
 | [Brand Icons](https://www.glaze.app/app/IydK5q) | 21 | Get brand icons from Simple Icons | LitoMore | 3.0.0 | 2.3 MB | 2026-04-26 |
@@ -67,6 +67,7 @@
 | [Boox2Obsidian](https://www.glaze.app/app/Hwm75B) | 2 | Convert Boox notes to Obsidian markdown | Mr. S | 5.0.0 | 0.1 MB | 2026-07-09 |
 | [Bright Shot](https://www.glaze.app/app/YZ2Zxr) | 2 | Capture clear selfies even in dim light | Chase Broyles | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Bench](https://www.glaze.app/app/ndizSO) | 1 | The dev tools you use every day | Elijah Oreoluwa | 1.0.0 | 0.1 MB | 2026-07-25 |
+| [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) | 1 | Transform raw prompts into structured | Piyushh Bhutoria | 1.0.0 | 0.1 MB | 2026-07-31 |
 | [Better Timer](https://www.glaze.app/app/Pkv2ta) | 1 | A timer better than them all | Karim Abdelali | 1.0.0 | 0.9 MB | 2026-07-22 |
 | [Biomarker Calculator](https://www.glaze.app/app/Tb1E4K) | 1 | Bedside pain biomarker assessment | Huscruz | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [Bloom](https://www.glaze.app/app/fg4EbW) | 1 | Plan your day, grow your garden | Hakeem Adjei | 1.0.0 | 0.1 MB | 2026-07-23 |

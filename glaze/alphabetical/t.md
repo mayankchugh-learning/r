@@ -7,9 +7,9 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 0.4 MB | 2026-07-28 |
-| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 193 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
+| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 201 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
 | [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr) | 147 | Task planner | Nichlas Wærnes Andersen | 10.0.0 | 5.2 MB | 2026-07-19 |
-| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 90 | Your mac deserves a better dock | lexav | 9.0.0 | 0.1 MB | 2026-07-30 |
+| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 91 | Your mac deserves a better dock | lexav | 9.0.0 | 0.1 MB | 2026-07-30 |
 | [Tap Beats](https://www.glaze.app/app/uIyOY5) | 52 | Create music by tapping a grid-based trackpad with 12 buttons arranged in columns and rows | Vincent de Lagabbe | 2.0.1 | 0.2 MB | 2026-03-25 |
 | [Trend Builder](https://www.glaze.app/app/ApW3oA) | 49 | Build the app everyone’s searching for | Ch1rag | 6.0.0 | 0.8 MB | 2026-07-10 |
 | [Typewriter](https://www.glaze.app/app/k9uymc) | 46 | Write freely, share instantly. | Beth Staff | 3.0.0 | 0.0 MB | 2026-04-28 |
@@ -20,7 +20,7 @@
 | [TreeDrive](https://www.glaze.app/app/4HRfkE) | 26 | Free up space on your Mac | Ben Stein | 1.0.0 | 1.3 MB | 2026-06-14 |
 | [Tempo](https://www.glaze.app/app/eJfpqe) | 25 | Quick access calendar in your menu bar | Mehul Chokshi | 5.0.0 | 0.1 MB | 2026-07-31 |
 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) | 25 | Monitor your computer usage and time | Andrea Cipriani | 17.0.0 | 0.3 MB | 2026-07-24 |
-| [TokenLens](https://www.glaze.app/app/Gy3hAw) | 21 | Track AI token usage and costs | Liel Azulay | 3.0.0 | 1.3 MB | 2026-06-21 |
+| [TokenLens](https://www.glaze.app/app/Gy3hAw) | 22 | Track AI token usage and costs | Liel Azulay | 3.0.0 | 1.3 MB | 2026-06-21 |
 | [Tomato Focus](https://www.glaze.app/app/4wSVNN) | 20 | Track tasks with pomodoro timer | Benjamin | 4.0.0 | 0.1 MB | 2026-07-15 |
 | [T-yperminator](https://www.glaze.app/app/S7MTRH) | 19 | Type faster, boost your vocab power | Vapa | 3.0.0 | 2.8 MB | 2026-07-10 |
 | [Tomorrow](https://www.glaze.app/app/Cn6TXl) | 18 | Never lose your train of thought | Astral | 1.0.0 | 0.1 MB | 2026-07-28 |
@@ -101,7 +101,7 @@
 | [Twiddle](https://www.glaze.app/app/SqSg4t) | 3 | Where did you hours go? | Rubens Nook | 2.0.0 | 0.1 MB | 2026-07-13 |
 | [TypeScale](https://www.glaze.app/app/d6x4u2) | 3 | Convert pixel sizes to relative CSS | Liam Merlyn | 1.0.0 | 0.1 MB | 2026-07-20 |
 | [Tagsonomy](https://www.glaze.app/app/caQyoK) | 2 | Move & Copy to your tagged folders | Qualigraphe.com | 2.0.0 | 0.8 MB | 2026-07-30 |
-| [Tap](https://www.glaze.app/app/tap-2ruNjD) | 2 | Deliver critical alerts through calm | Adithya Jayasankar | 1.0.0 | 0.0 MB | 2026-07-30 |
+| [Tap](https://www.glaze.app/app/2ruNjD) | 2 | Deliver critical alerts through calm | Adithya Jayasankar | 1.0.0 | 0.0 MB | 2026-07-30 |
 | [Task Polisher](https://www.glaze.app/app/WRybtU) | 2 | Professional task descriptions for Zoho | Sergio DeSoto | 1.0.0 | 0.2 MB | 2026-07-21 |
 | [Terminal Here](https://www.glaze.app/app/NDgyLy) | 2 | Open terminal from any Finder window | SidThatsMoi | 2.0.0 | 0.1 MB | 2026-07-23 |
 | [Tesla Energy](https://www.glaze.app/app/I6VIKJ) | 2 | Monitor your Tesla solar production | Chris Messina | 2.0.0 | 0.3 MB | 2026-07-27 |

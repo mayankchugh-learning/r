@@ -9,14 +9,14 @@
 | [Peel](https://www.glaze.app/app/peel-esimhU) | 402 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 338 | Simple project planning | Kristina Loewen | 6.0.0 | 0.1 MB | 2026-07-05 |
 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 299 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 0.3 MB | 2026-07-27 |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 92 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 98 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 | [ProjectBase](https://www.glaze.app/app/w5CAic) | 42 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 0.3 MB | 2026-07-29 |
 | [Port Monitor](https://www.glaze.app/app/EEfaTw) | 40 | Track open ports and their apps | Domint | 1.0.0 | 0.1 MB | 2026-06-29 |
 | [Pixel Runner](https://www.glaze.app/app/dZpJ2d) | 34 | Run, jump, and dodge obstacles in this retro-style endless runner! Choose your character, compete for high scores, and climb the leaderboard. | Per Nielsen Tikær | 1.0.1 | 0.2 MB | 2026-03-04 |
 | [Posture Pod](https://www.glaze.app/app/vEXG8w) | 32 | Get posture reminders using your AirPods | Víctor Navarro | 1.0.0 | 0.1 MB | 2026-06-28 |
 | [Pulse](https://www.glaze.app/app/3BmuDS) | 32 | Real-time Claude & Codex usage tracking | Ken Adams | 2.0.0 | 0.1 MB | 2026-06-23 |
-| [Port Manager](https://www.glaze.app/app/3gWdcg) | 28 | Monitor and manage system port usage | Kapta Fu | 1.0.0 | 0.1 MB | 2026-07-02 |
+| [Port Manager](https://www.glaze.app/app/3gWdcg) | 29 | Monitor and manage system port usage | Kapta Fu | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Punch Mac](https://www.glaze.app/app/fKAUbt) | 25 | Punch your MacBook | Dhruv Suthar | 4.0.0 | 0.2 MB | 2026-04-08 |
 | [PromptVault](https://www.glaze.app/app/N0xoJh) | 23 | Save and organize your prompts and | office Roy Ribak | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Pac-Man Classic](https://www.glaze.app/app/WC9u94) | 21 | Play the iconic 80s arcade game | Giovambattista Fazioli | 1.0.0 | 0.1 MB | 2026-07-12 |
@@ -47,13 +47,13 @@
 | [Pantone Studio](https://www.glaze.app/app/kTjaPE) | 8 | Match and organize colors like a pro | Lee Sherman | 1.0.0 | 0.1 MB | 2026-07-16 |
 | [PDF to Image](https://www.glaze.app/app/s38kIA) | 8 | Convert PDFs to PNG and JPG images | Andre Yamazaki | 1.0.0 | 0.5 MB | 2026-07-02 |
 | [Pokédex Ultra](https://www.glaze.app/app/16g4nM) | 8 | Explore and catalog Pokémon across generations with detailed stats, abilities, and evolution chains | Paul Angeles | 2.0.1 | 0.3 MB | 2026-03-26 |
+| [Pomo](https://www.glaze.app/app/Nvojrt) | 8 | Track pomodoro sessions and productivity | nanbing liu | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [PrettyShots](https://www.glaze.app/app/XHcKQ0) | 8 | Beautiful product screenshots in seconds | Ilai Szpiezak | 2.0.0 | 23.3 MB | 2026-07-28 |
 | [Prosody](https://www.glaze.app/app/4eQt0V) | 8 | Everything you read, read to you. | Oscar Hernandez | 3.0.0 | 76.9 MB | 2026-07-28 |
 | [PDF Unlocker](https://www.glaze.app/app/eLy5mQ) | 7 | Remove PDF passwords instantly, locally. | Sai Prem | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Pinstruct](https://www.glaze.app/app/WxB8jL) | 7 | Point. Instruct. Ship. | Dennis Eilander | 5.0.0 | 0.2 MB | 2026-07-28 |
 | [Pixel Runner](https://www.glaze.app/app/v2kFzv) | 7 | Jump, dodge, and dash through arcade ! | Brakoceuvisei 8875 | 3.0.0 | 0.2 MB | 2026-07-03 |
 | [Polite Package](https://www.glaze.app/app/Ah56UM) | 7 | Send folders that look professional | Vaarun Sinha | 1.0.0 | 0.1 MB | 2026-07-28 |
-| [Pomo](https://www.glaze.app/app/Nvojrt) | 7 | Track pomodoro sessions and productivity | nanbing liu | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Port Sense](https://www.glaze.app/app/Wu4nA6) | 7 | Monitor ports, see which apps use them | Yacolate | 2.0.0 | 0.1 MB | 2026-06-17 |
 | [Power goes where](https://www.glaze.app/app/yjzo2s) | 7 | Monitor your Mac's power draw | violetpurpleish | 3.0.0 | 0.1 MB | 2026-07-18 |
 | [Private AI](https://www.glaze.app/app/uWfxtQ) | 7 | Chat privately with AI models | fertilis.ai | 2.0.0 | 0.1 MB | 2026-07-02 |
@@ -105,10 +105,11 @@
 | [Pole Position](https://www.glaze.app/app/gjRKc2) | 2 | Race the arcade classic | Giovambattista Fazioli | 1.0.0 | 0.1 MB | 2026-07-12 |
 | [PosturePulse](https://www.glaze.app/app/FoWeOC) | 2 | Posture-blink-break-stretch.One glance | Korhan7992 | 3.0.0 | 13.6 MB | 2026-07-28 |
 | [Pronounce Notes](https://www.glaze.app/app/8VxH9e) | 2 | Correctly pronounce any word. | Amit Shinde | 2.0.0 | 0.7 MB | 2026-07-22 |
+| [Parcel](https://www.glaze.app/app/wLeO87) | 1 | Sanitize your project before sending it | undefined | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Paste Guard](https://www.glaze.app/app/1Xa88Q) | 1 | Control What Gets Pasted Into Your Apps | alexi.build | 1.0.0 | 0.1 MB | 2026-07-12 |
 | [PDF Style](https://www.glaze.app/app/p12USo) | 1 | Edit PDF text with custom styling | Abhishek | 1.0.0 | 0.7 MB | 2026-07-27 |
 | [Peep](https://www.glaze.app/app/rncFT4) | 1 | Preview contents of archive files | Sean | 1.0.0 | 1.0 MB | 2026-07-09 |
-| [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 1 | Perly.io | Volodymyr Slipak | 1.0.0 | 12.8 MB | 2026-07-31 |
+| [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 1 | Perly.io | Volodymyr | 1.0.0 | 12.8 MB | 2026-07-31 |
 | [PitchMaster](https://www.glaze.app/app/1aHd47) | 1 | Practice your pitch and speaking skills | Ac0 | 5.0.0 | 0.3 MB | 2026-07-28 |
 | [Planted](https://www.glaze.app/app/YujFy8) | 1 | Grow what you plant, season after season | Crystal | 1.0.0 | 0.1 MB | 2026-07-25 |
 | [Pocket Dancer](https://www.glaze.app/app/X5YflW) | 1 | Master dance moves to your music | vo1dee | 2.0.0 | 0.1 MB | 2026-07-19 |
@@ -119,7 +120,6 @@
 | [Process Web Audio](https://www.glaze.app/app/nQLsj0) | 1 | Convert audio to MP3s for web use | David Sutrin | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Project Hub](https://www.glaze.app/app/A4Laxi) | 1 | Centralize all your projects resources | Ben Mason | 2.0.0 | 0.1 MB | 2026-07-28 |
 | [Package Steward](https://www.glaze.app/app/rc8Rli) | 0 | Keep all your packages current | Adam Lindberg | 1.0.0 | 0.1 MB | 2026-07-17 |
-| [Parcel](https://www.glaze.app/app/wLeO87) | 0 | Sanitize your project before sending it | undefined | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Pawday](https://www.glaze.app/app/cKmvNk) | 0 | Your pet's daily care, made simple | Ggabric97 | 1.0.0 | 0.1 MB | 2026-07-25 |
 | [Pebble](https://www.glaze.app/app/GD8dvN) | 0 | Hold temporary items in a floating stone | Barbietunnie+Raycast | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [PhotoGeo](https://www.glaze.app/app/fBfPxY) | 0 | Add locations to photos instantly | Avi | 4.0.0 | 0.1 MB | 2026-07-27 |

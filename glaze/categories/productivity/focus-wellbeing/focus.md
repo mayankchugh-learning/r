@@ -35,6 +35,6 @@
 | [LearnCards](https://www.glaze.app/app/YpeusW) | 11 | Learn efficiently with intelligent | Pasipepe | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Focus Rail](https://www.glaze.app/app/r5i5x7) | 9 | Stay visually anchored while reading | Jesse Dugas | 2.0.0 | 0.1 MB | 2026-06-07 |
 | [White Noise](https://www.glaze.app/app/Tr2BwL) | 6 | Real-time white noise for focus | Tommy | 1.0.0 | 0.1 MB | 2026-07-10 |
-| [Crude Watch](https://www.glaze.app/app/nbXx15) | 2 | Track oil prices, get instant alerts | @zenithquinn | 1.0.0 | 0.1 MB | 2026-07-01 |
+| [Crude Watch](https://www.glaze.app/app/nbXx15) | 3 | Track oil prices, get instant alerts | @zenithquinn | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Court Watch](https://www.glaze.app/app/X6XfCa) | 0 | Track NBA player moves and trades | boubatunechi | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [Focus Lock](https://www.glaze.app/app/VU2t82) | 0 | Block distracting apps and websites | Waseem Ahmed | 1.0.0 | 0.1 MB | 2026-07-27 |

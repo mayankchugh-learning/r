@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 608 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 0.7 MB | 2026-05-26 |
+| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 610 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 0.7 MB | 2026-05-26 |
 | [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 323 | Explore hotkey systems for Raycast | Alex Antonov | 2.0.0 | 0.1 MB | 2026-04-17 |
 | [Health Fusion](https://www.glaze.app/app/ikcWiD) | 67 | Your Apple Health & WHOOP data, unified. | Oliver Posselt | 2.0.0 | 0.2 MB | 2026-04-19 |
 | [Hackerfeed](https://www.glaze.app/app/f22UqI) | 41 | Browse Hacker News stories and comments in a streamlined, distraction-free interface | Michael Nielsen | 2.0.1 | 0.2 MB | 2026-03-04 |
@@ -27,7 +27,7 @@
 | [Hold](https://www.glaze.app/app/GvHeQR) | 6 | Hold your place. Pick up where you left | Samuel Monteiro | 2.0.0 | 0.1 MB | 2026-07-31 |
 | [Handy Tools](https://www.glaze.app/app/AcZqw2) | 5 | Format, convert, and debug code fast | Devzstudio | 1.0.0 | 1.6 MB | 2026-07-04 |
 | [Hotstar Floater](https://www.glaze.app/app/nKcxtD) | 5 | Watch live streams while you multitask | Prakhar Shekhar Parthasarthi | 1.0.0 | 0.1 MB | 2026-07-04 |
-| [HyperFlow](https://www.glaze.app/app/eRwCvu) | 4 | Master your focus, guard your energy | WebSmith | 9.0.0 | 1.1 MB | 2026-07-30 |
+| [HyperFlow](https://www.glaze.app/app/eRwCvu) | 5 | Master your focus, guard your energy | WebSmith | 9.0.0 | 1.1 MB | 2026-07-30 |
 | [Habit Streak](https://www.glaze.app/app/4xVcUZ) | 3 | Build habits with daily check-ins | benben | 1.0.0 | 0.1 MB | 2026-05-30 |
 | [Habit Tracker](https://www.glaze.app/app/nOfsDB) | 3 | Build and maintain daily habits | Solve Base | 1.0.0 | 0.1 MB | 2026-07-11 |
 | [Handle It](https://www.glaze.app/app/Cs4rjZ) | 3 | Drop it in. Understand it. Handle it. | Jonas Tmb | 2.0.0 | 1.7 MB | 2026-07-26 |

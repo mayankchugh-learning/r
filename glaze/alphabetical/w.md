@@ -55,10 +55,10 @@
 | [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) | 1 | Fresh walls, every day on autopilot | Elior Boukhobza | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Watermark PRO](https://www.glaze.app/app/vIfGnp) | 1 | Batch watermark images and videos | Aleksandra Gramatchikova | 1.0.0 | 0.1 MB | 2026-07-13 |
 | [Whisker Rewards](https://www.glaze.app/app/imwPlX) | 1 | Cat-themed Reward Chart for Kids | Michael Clear | 1.0.0 | 0.1 MB | 2026-07-12 |
+| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 1 | Display a Windows lock screen on Mac | Karim Abdelali | 2.0.0 | 0.1 MB | 2026-07-31 |
 | [WooPulse AI](https://www.glaze.app/app/cd6wTA) | 1 | Manage your WooCommerce store orders | Pedro Fonseca | 2.0.0 | 0.1 MB | 2026-07-29 |
 | [Work Faces](https://www.glaze.app/app/F11CCr) | 1 | Match names to faces on your Slack team | Tyom Semonov | 1.0.0 | 0.1 MB | 2026-07-07 |
 | [Worksheet Tracker](https://www.glaze.app/app/RGmoKM) | 1 | Track PDF worksheets and completion | Mary-Ann Horley | 2.0.0 | 1.6 MB | 2026-07-25 |
 | [Workshop Flow](https://www.glaze.app/app/workshop-flow-713b98) | 1 | Plan workshops that fit your schedule | Antony Mayfield | 1.0.0 | 0.1 MB | 2026-07-31 |
 | [Wrapped Desk](https://www.glaze.app/app/cnkwi6) | 1 | Summarize your work week with shareable | Priyanshu Jha | 1.0.0 | 0.1 MB | 2026-07-26 |
 | [Wallpaper Creator](https://www.glaze.app/app/FasYwi) | 0 | Wallpapers from Videos and Images | Max Battleman | 2.0.0 | 0.1 MB | 2026-07-27 |
-| [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 0 | Display a Windows lock screen on Mac | Karim Abdelali | 2.0.0 | 0.1 MB | 2026-07-31 |

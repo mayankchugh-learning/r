@@ -11,7 +11,7 @@
 | Calvin White | 1 | 9 | [DocMD](https://www.glaze.app/app/Y4sDbq) *(Developer Tools)* |
 | Cameron Schroeder | 1 | 3 | [Quill](https://www.glaze.app/app/c9aP8w) *(Productivity)* |
 | ccmxigua | 1 | 6 | [Scholar](https://www.glaze.app/app/V6uTQV) *(Productivity)* |
-| Cezar | 2 | 1 | [ClearCall](https://www.glaze.app/app/uhHWh8) *(Utilities)*, [Input Guard](https://www.glaze.app/app/ymBx6p) *(Utilities)* |
+| Cezar | 2 | 2 | [ClearCall](https://www.glaze.app/app/uhHWh8) *(Utilities)*, [Input Guard](https://www.glaze.app/app/ymBx6p) *(Utilities)* |
 | cg crew | 1 | 5 | [Dayshift](https://www.glaze.app/app/an3PsD) *(Utilities)* |
 | Ch1rag | 2 | 60 | [Trend Builder](https://www.glaze.app/app/ApW3oA) *(Developer Tools)*, [Webhook Hub](https://www.glaze.app/app/He88jf) *(Developer Tools)* |
 | champv 12 | 1 | 16 | [Codex Usage Tracker](https://www.glaze.app/app/x3iNod) *(Developer Tools)* |
@@ -40,13 +40,13 @@
 | Cloudy Qin | 1 | 2 | [ScribeNotes for MacOS](https://www.glaze.app/app/yDaBZu) *(Productivity)* |
 | Clovisprovost | 1 | 1 | [Longueur d'Onde](https://www.glaze.app/app/hunThz) *(Games & Fun)* |
 | Cody Cochran | 1 | 1 | [MetaBurn](https://www.glaze.app/app/g7Tz5a) *(Utilities)* |
-| Cold Frog | 1 | 28 | [Network Inspector](https://www.glaze.app/app/T1dGR9) *(Developer Tools)* |
+| Cold Frog | 1 | 29 | [Network Inspector](https://www.glaze.app/app/T1dGR9) *(Developer Tools)* |
 | Coldfinch | 1 | 15 | [Claude Quick](https://www.glaze.app/app/hom5Jn) *(Developer Tools)* |
 | Colin Begemann | 1 | 1 | [Fun Notes](https://www.glaze.app/app/5gglqK) *(Productivity)* |
 | Colin Butts | 1 | 3 | [Sheaf](https://www.glaze.app/app/GxIxXb) *(Productivity)* |
 | Colin DiCarlo | 1 | 1 | [Exposure](https://www.glaze.app/app/TV1xcx) *(Design)* |
 | Colm Lenehan | 1 | 19 | [Nexus](https://www.glaze.app/app/Dln2VU) *(Utilities)* |
-| Combustion Studio | 1 | 397 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) *(Media)* |
+| Combustion Studio | 1 | 398 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) *(Media)* |
 | Cornelius | 3 | 63 | [Skim](https://www.glaze.app/app/vEYysi) *(Productivity)*, [ATLAS](https://www.glaze.app/app/ovPml8) *(Productivity)*, [Quire](https://www.glaze.app/app/y5aT7t) *(Utilities)* |
 | [credesasq](./id/credesasq.md) | 5 | 3 | [see all 5 →](./id/credesasq.md) |
 | Crystal | 1 | 1 | [Planted](https://www.glaze.app/app/YujFy8) *(Lifestyle)* |

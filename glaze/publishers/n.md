@@ -6,7 +6,7 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| nanbing liu | 1 | 7 | [Pomo](https://www.glaze.app/app/Nvojrt) *(Productivity)* |
+| nanbing liu | 1 | 8 | [Pomo](https://www.glaze.app/app/Nvojrt) *(Productivity)* |
 | Nando | 1 | 4 | [Codex Credit](https://www.glaze.app/app/Xr6eVF) *(Developer Tools)* |
 | Naniss Sisa | 1 | 4 | [Sticky Notes](https://www.glaze.app/app/D0Y6Gb) *(Productivity)* |
 | Nathan Tracey | 1 | 4 | [Sweep](https://www.glaze.app/app/w0rF27) *(Utilities)* |
@@ -40,7 +40,7 @@
 | Nitrous | 1 | 6 | [Specimen](https://www.glaze.app/app/L1APKo) *(Design)* |
 | Noah Czelusta | 1 | 7 | [Break Time](https://www.glaze.app/app/f5AsqN) *(Productivity)* |
 | Noah Lloyd | 1 | 20 | [YouTube Video Downloader](https://www.glaze.app/app/N3FDOF) *(Utilities)* |
-| Noman | 2 | 193 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) *(Design)*, [Taken](https://www.glaze.app/app/7ZhgBb) *(Utilities)* |
+| Noman | 2 | 201 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) *(Design)*, [Taken](https://www.glaze.app/app/7ZhgBb) *(Utilities)* |
 | Noud Adrichem | 1 | 10 | [Diffable](https://www.glaze.app/app/ijgHph) *(Developer Tools)* |
 | npurja | 1 | 4 | [Type In Motion](https://www.glaze.app/app/tuIhlE) *(Design)* |
 | Nurkamol Vakhidov | 3 | 30 | [FlareDesk](https://www.glaze.app/app/2kFpvb) *(Developer Tools)*, [Replay](https://www.glaze.app/app/4fgahp) *(Utilities)*, [Quarantine Manager](https://www.glaze.app/app/Mpbkzr) *(Utilities)* |

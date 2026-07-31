@@ -1,13 +1,13 @@
 # Dmytro Lobov
 
-16 apps · 75 installs · [← publishers](../README.md)
+16 apps · 76 installs · [← publishers](../README.md)
 
 ## Developer Tools (9)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SiteLens](https://www.glaze.app/app/Dw8vob) | 10 | Everything a URL can tell you | Dmytro Lobov | 7.0.0 | 0.1 MB | 2026-07-25 |
-| [SEOInspector](https://www.glaze.app/app/FwJNp5) | 9 | Every SEO check your site needs | Dmytro Lobov | 7.0.0 | 0.7 MB | 2026-07-29 |
+| [SiteLens](https://www.glaze.app/app/Dw8vob) | 11 | Everything a URL can tell you | Dmytro Lobov | 7.0.0 | 0.1 MB | 2026-07-25 |
+| [SEOInspector](https://www.glaze.app/app/FwJNp5) | 9 | Every SEO check your site needs | Dmytro Lobov | 8.0.0 | 0.7 MB | 2026-07-31 |
 | [Foldery](https://www.glaze.app/app/5sZbpN) | 6 | Launch folders in your favorite app | Dmytro Lobov | 23.0.0 | 0.2 MB | 2026-07-30 |
 | [ExposureScanner](https://www.glaze.app/app/CkIqVF) | 4 | Find exposed .env and config files | Dmytro Lobov | 6.0.0 | 0.1 MB | 2026-07-22 |
 | [LinkChecker](https://www.glaze.app/app/qVMVv9) | 3 | Find broken links and bad redirects | Dmytro Lobov | 6.0.0 | 0.7 MB | 2026-07-31 |

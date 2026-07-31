@@ -47,7 +47,7 @@
 | [Tune](https://www.glaze.app/app/R3jpBK) | 4 | Get your guitar perfectly in tune | Nimesh Nayaju | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Guitar Tuner](https://www.glaze.app/app/Bfn04z) | 3 | Tune your guitar using your microphone | Eduardo Sonnino | 1.0.0 | 0.1 MB | 2026-07-14 |
 | [Mic Mute](https://www.glaze.app/app/mic-mute-zPTfs6) | 3 | Instantly mute all system microphones | Glaze | 1.0.0 | 0.1 MB | 2026-07-30 |
-| [Input Guard](https://www.glaze.app/app/ymBx6p) | 0 | Prevent automatic mic change | Cezar | 2.0.0 | 0.1 MB | 2026-07-24 |
+| [Input Guard](https://www.glaze.app/app/ymBx6p) | 1 | Prevent automatic mic change | Cezar | 2.0.0 | 0.1 MB | 2026-07-24 |
 
 ## Organize ✦
 
@@ -56,7 +56,7 @@
 | [Multi Browser](https://www.glaze.app/app/cn7ND6) | 14 | Browse with Chrome and Firefox | Apex Hos | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [Vinyl Vault](https://www.glaze.app/app/n2HZ3b) | 4 | Organize your vinyl record collection. | Kevin Rodgers | 1.0.0 | 0.1 MB | 2026-06-12 |
 | [Pronounce Notes](https://www.glaze.app/app/8VxH9e) | 2 | Correctly pronounce any word. | Amit Shinde | 2.0.0 | 0.7 MB | 2026-07-22 |
-| [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 1 | Perly.io | Volodymyr Slipak | 1.0.0 | 12.8 MB | 2026-07-31 |
+| [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 1 | Perly.io | Volodymyr | 1.0.0 | 12.8 MB | 2026-07-31 |
 
 ## General
 

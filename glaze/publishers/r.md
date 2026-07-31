@@ -14,7 +14,7 @@
 | Randy | 1 | 32 | [Clean My Ray](https://www.glaze.app/app/jPQsxk) *(Utilities)* |
 | Raph | 1 | 6 | [Mindfulness Bell](https://www.glaze.app/app/kccHuE) *(Productivity)* |
 | Raphael Grötsch | 1 | 4 | [Trace](https://www.glaze.app/app/XhO42n) *(Productivity)* |
-| Ravi Madabhushi | 1 | 1 | [Scalekit DevTools](https://www.glaze.app/app/scalekit-devtools-HFeNHW) *(Developer Tools)* |
+| Ravi Madabhushi | 1 | 2 | [Scalekit DevTools](https://www.glaze.app/app/scalekit-devtools-HFeNHW) *(Developer Tools)* |
 | Ravi Vasavan | 1 | 3 | [Pixed](https://www.glaze.app/app/XqXJfA) *(Design)* |
 | Raycast | 2 | 12 | [Vectorize](https://www.glaze.app/app/ofgONv) *(Design)*, [Release Notes Translator](https://www.glaze.app/app/NNjPWV) *(Developer Tools)* |
 | Raycast.dmwnn | 1 | 0 | [Monatel](https://www.glaze.app/app/ZD7pWP) *(Games & Fun)* |
@@ -33,7 +33,7 @@
 | Ringmaster | 1 | 5 | [Dungeon Sketch](https://www.glaze.app/app/fL7gUZ) *(Design)* |
 | Ritik Jain | 1 | 0 | [Copy Grab](https://www.glaze.app/app/heEz1P) *(Utilities)* |
 | Ritul Mishra | 1 | 10 | [Shoebox](https://www.glaze.app/app/cJ5iTe) *(Developer Tools)* |
-| Rizal Ramadhan | 1 | 1 | [Vibemaxx](https://www.glaze.app/app/KpAO18) *(Developer Tools)* |
+| Rizal Ramadhan | 1 | 2 | [Vibemaxx](https://www.glaze.app/app/KpAO18) *(Developer Tools)* |
 | Rizky Fathul | 1 | 1 | [Salat & Fasting Time](https://www.glaze.app/app/TKxqBB) *(Lifestyle)* |
 | Robert Adamczewski | 1 | 1 | [Garage Ledger](https://www.glaze.app/app/vpkKgP) *(Utilities)* |
 | Robert Kreft | 1 | 42 | [ProjectBase](https://www.glaze.app/app/w5CAic) *(Productivity)* |

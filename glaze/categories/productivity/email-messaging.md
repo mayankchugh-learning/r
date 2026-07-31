@@ -23,7 +23,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Unsubscribe Manager](https://www.glaze.app/app/bsErmw) | 35 | Clean inbox, ditched junk mail | Luke | 1.0.0 | 0.1 MB | 2026-06-27 |
-| [Dispatch](https://www.glaze.app/app/zM8HY8) | 7 | Send writing to your Kindle instantly | Gareth Chainey | 1.0.0 | 0.6 MB | 2026-07-28 |
+| [Dispatch](https://www.glaze.app/app/zM8HY8) | 8 | Send writing to your Kindle instantly | Gareth Chainey | 1.0.0 | 0.6 MB | 2026-07-28 |
 | [Family Organiser](https://www.glaze.app/app/ceH4sD) | 5 | Keep your family on the same schedule | Mark Bulling | 3.0.0 | 0.2 MB | 2026-07-24 |
 | [Snippets](https://www.glaze.app/app/aj3dwQ) | 5 | Your snippets, one keystroke away | Dmytro Lobov | 8.0.0 | 0.1 MB | 2026-07-30 |
 | [Mail Deck](https://www.glaze.app/app/bXcgoO) | 1 | Inbox Therapy for Apple Mail | Kreela | 1.0.0 | 0.1 MB | 2026-07-23 |

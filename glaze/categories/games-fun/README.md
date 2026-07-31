@@ -1,6 +1,6 @@
 # Games & Fun
 
-85 apps · 771 installs · [← all categories](../README.md)
+85 apps · 772 installs · [← all categories](../README.md)
 
 ## Play
 

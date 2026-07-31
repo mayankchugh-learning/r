@@ -6,13 +6,13 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 175 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
+| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 178 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
 | [Logos](https://www.glaze.app/app/QKNEHI) | 117 | Browse and explore brand logos | Pedro Duarte | 4.0.0 | 0.1 MB | 2026-07-27 |
 | [Le Tour Hub](https://www.glaze.app/app/t510tX) | 29 | Follow Tour de France 2026 | Jordan Amblin | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [Listly](https://www.glaze.app/app/G4AEnv) | 13 | Tasks organized, nothing forgotten | İlker Çalım | 3.0.0 | 0.1 MB | 2026-07-12 |
 | [Local Mind](https://www.glaze.app/app/gXDcGx) | 13 | AI on your device, offline & free! | Pierre | 1.0.0 | 0.1 MB | 2026-07-02 |
+| [Ludus](https://www.glaze.app/app/4RDpwn) | 13 | Your private university | Samuel Lee | 1.0.0 | 1.5 MB | 2026-07-28 |
 | [Lens](https://www.glaze.app/app/SqWbe5) | 12 | Select anything. Do the next thing. | Anca-Gabriela Hagiu | 3.0.0 | 0.1 MB | 2026-07-25 |
-| [Ludus](https://www.glaze.app/app/4RDpwn) | 12 | Your private university | Samuel Lee | 1.0.0 | 1.5 MB | 2026-07-28 |
 | [LearnCards](https://www.glaze.app/app/YpeusW) | 11 | Learn efficiently with intelligent | Pasipepe | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Lil finder](https://www.glaze.app/app/FDsxpL) | 11 | Your files super app | Yaseenmb11 | 1.0.0 | 0.7 MB | 2026-07-09 |
 | [Lyric Notch](https://www.glaze.app/app/j8XBuU) | 11 | Follow synced lyrics while you listen | Luann Silva | 1.0.0 | 0.1 MB | 2026-07-02 |
@@ -20,9 +20,9 @@
 | [Lid Angle](https://www.glaze.app/app/lCX75u) | 10 | Monitor your MacBook's screen angle | Grass “Grass” | 1.0.0 | 1.8 MB | 2026-07-03 |
 | [Logo Fetch](https://www.glaze.app/app/1EEPcF) | 10 | Grab logos from domain names | Jawad Shreim | 1.0.0 | 0.1 MB | 2026-07-14 |
 | [Learn it!](https://www.glaze.app/app/eiQRDY) | 9 | Learn anything, your way | Jesse Dugas | 1.0.0 | 0.2 MB | 2026-07-25 |
+| [Light Cycle](https://www.glaze.app/app/IFzPKs) | 9 | The grid calls you. Are you ready, User? | @zenithquinn | 4.0.0 | 2.0 MB | 2026-07-03 |
 | [Lucky Spin](https://www.glaze.app/app/2ihORJ) | 9 | Spin, chase, win, repeat the thrill. | Li Jin | 1.0.0 | 0.5 MB | 2026-07-08 |
 | [License Vault](https://www.glaze.app/app/pGkhli) | 8 | Quick access to your software licenses | syn | 2.0.0 | 0.2 MB | 2026-06-28 |
-| [Light Cycle](https://www.glaze.app/app/IFzPKs) | 8 | The grid calls you. Are you ready, User? | @zenithquinn | 4.0.0 | 2.0 MB | 2026-07-03 |
 | [Linear Tasks](https://www.glaze.app/app/p5xQyA) | 8 | Manage tasks synced to Linear | syn | 4.0.0 | 0.3 MB | 2026-06-28 |
 | [Linear Terminal](https://www.glaze.app/app/inTffb) | 8 | Manage Linear tasks with terminal style | Ari Alkalay | 1.0.0 | 0.1 MB | 2026-07-14 |
 | [Loud - Better Activity Monitor](https://www.glaze.app/app/kW6Bh5) | 8 | See what's slowing down your Mac | Diana Durkota | 2.0.0 | 0.0 MB | 2026-07-25 |
@@ -43,11 +43,11 @@
 | [Librarian](https://www.glaze.app/app/bLW0OB) | 3 | Calibre-compatible ebook library manager | RobM | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [LinkChecker](https://www.glaze.app/app/qVMVv9) | 3 | Find broken links and bad redirects | Dmytro Lobov | 6.0.0 | 0.7 MB | 2026-07-31 |
 | [Long Play](https://www.glaze.app/app/Vzaw38) | 3 | Play long songs on your speaker | Pieter Moorman | 1.0.0 | 0.1 MB | 2026-07-02 |
+| [Lynxview](https://www.glaze.app/app/VidXHE) | 3 | Browse and view images across folders | Maicol Oliveira | 4.0.0 | 0.1 MB | 2026-07-30 |
 | [Lyricsmith](https://www.glaze.app/app/6dYvei) | 3 | Song-Writers Toolbox | Jeff Augustin | 1.0.0 | 0.3 MB | 2026-07-24 |
 | [LinkedIn Pulse](https://www.glaze.app/app/mC2jGB) | 2 | Optimize your LinkedIn growth strategy | Alistair4312 | 4.0.0 | 0.1 MB | 2026-07-23 |
 | [log-lite](https://www.glaze.app/app/6ldf4h) | 2 | No nonsense time logging for busy people | Frederic Lierman | 1.0.0 | 0.3 MB | 2026-07-17 |
 | [Lorelei](https://www.glaze.app/app/Eehl8W) | 2 | Add laser eyes effect to your photos | João Neves | 1.0.0 | 0.1 MB | 2026-06-15 |
-| [Lynxview](https://www.glaze.app/app/VidXHE) | 2 | Browse and view images across folders | Maicol Oliveira | 4.0.0 | 0.1 MB | 2026-07-30 |
 | [Lyric Finder](https://www.glaze.app/app/5Uepfq) | 2 | Search and view song lyrics instantly | Pm.Delvern | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Label Converter](https://www.glaze.app/app/m67Wr2) | 1 | Resize PDFs to shipping label dimensions | Andre Yamazaki | 1.0.0 | 0.7 MB | 2026-07-06 |
 | [Longueur d'Onde](https://www.glaze.app/app/hunThz) | 1 | Generate words for Wavelength | Clovisprovost | 1.0.0 | 0.1 MB | 2026-07-27 |

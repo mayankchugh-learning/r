@@ -13,7 +13,7 @@
 | Jake Donlan | 1 | 7 | [Typecard](https://www.glaze.app/app/cbo0CY) *(Design)* |
 | Jaladhi Pujara | 1 | 5 | [Provenance](https://www.glaze.app/app/TOCKAe) *(Productivity)* |
 | James Coy (JC) | 1 | 5 | [Clipfloat](https://www.glaze.app/app/0DLNYu) *(Developer Tools)* |
-| James Dawson | 1 | 55 | [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) *(Productivity)* |
+| James Dawson | 1 | 56 | [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) *(Productivity)* |
 | James Jackson | 1 | 7 | [nib](https://www.glaze.app/app/RJAlJp) *(Productivity)* |
 | James Jeffery | 1 | 6 | [Ripple](https://www.glaze.app/app/FQfYOf) *(Media)* |
 | James Victor | 1 | 4 | [Activity Ridge](https://www.glaze.app/app/f2dURs) *(Productivity)* |
@@ -35,7 +35,7 @@
 | Jean DOUTRIAUX | 1 | 2 | [Plate Track](https://www.glaze.app/app/xnR615) *(Lifestyle)* |
 | Jeff Augustin | 1 | 3 | [Lyricsmith](https://www.glaze.app/app/6dYvei) *(Design)* |
 | Jeff Watson | 1 | 0 | [After Sweep](https://www.glaze.app/app/after-sweep-V06h0g) *(Developer Tools)* |
-| Jelte Lagendijk | 1 | 1 | [MQTT Monitor](https://www.glaze.app/app/uGO568) *(Developer Tools)* |
+| Jelte Lagendijk | 1 | 2 | [MQTT Monitor](https://www.glaze.app/app/uGO568) *(Developer Tools)* |
 | Jenningsebailey | 1 | 10 | [Mickey.md](https://www.glaze.app/app/WCodee) *(Productivity)* |
 | Jenny Dougherty | 1 | 9 | [Backyard Garden Planner](https://www.glaze.app/app/cNg3uV) *(Design)* |
 | Jensen | 1 | 22 | [F1 Grid Pass](https://www.glaze.app/app/sFfxxn) *(Media)* |

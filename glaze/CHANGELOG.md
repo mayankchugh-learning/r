@@ -4,6 +4,18 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-07-31
 
+**Added (2):** [Markdown Preview](https://www.glaze.app/app/markdown-preview-41iQyN), [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT)
+
+**SEOInspector:** version 7.0.0 → 8.0.0
+
+**Audiofile Preview:** version 8.0.0 → 10.0.0
+
+**Perly.io:** publisher Volodymyr Slipak → Volodymyr
+
+**Yoto MYO Card Assistant:** version 3.0.0 → 4.0.0
+
+## 2026-07-31
+
 **Added (1):** [Mono to Stereo](https://www.glaze.app/app/afMOfJ)
 
 **Blunder:** version 5.0.0 → 6.0.0

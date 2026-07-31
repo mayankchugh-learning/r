@@ -7,7 +7,7 @@
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
 | Gabriel García Fernández | 2 | 10 | [AI Model Fit](https://www.glaze.app/app/p8lgcd) *(Developer Tools)*, [Glassbar](https://www.glaze.app/app/vFp4rP) *(Utilities)* |
-| Gareth Chainey | 1 | 7 | [Dispatch](https://www.glaze.app/app/zM8HY8) *(Productivity)* |
+| Gareth Chainey | 1 | 8 | [Dispatch](https://www.glaze.app/app/zM8HY8) *(Productivity)* |
 | Gary Rogers | 1 | 2 | [Snowfall](https://www.glaze.app/app/hW6nB2) *(Utilities)* |
 | Gavin Scott-Miller | 2 | 20 | [Emoji Generator](https://www.glaze.app/app/AOV7jA) *(Design)*, [Memebank](https://www.glaze.app/app/9fPrCS) *(Utilities)* |
 | Geoff Silva | 2 | 8 | [Onionskin](https://www.glaze.app/app/ZaTZYW) *(Productivity)*, [Focus Timer](https://www.glaze.app/app/WQLoHA) *(Productivity)* |
