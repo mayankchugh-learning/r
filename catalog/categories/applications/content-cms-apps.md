@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover) | 23,802 | Add selected files or clipboard content to Dropover | jag-k | macOS | [store](https://www.raycast.com/jag-k/dropover) |
+| [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover) | 23,807 | Add selected files or clipboard content to Dropover | jag-k | macOS | [store](https://www.raycast.com/jag-k/dropover) |
 | [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) | 865 | Compare or open content from Raycast in Kaleidoscope. | leitmotif (org) | macOS | [store](https://www.raycast.com/leitmotif/kaleidoscope) |
 | [Lark AppLink](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) | 657 | Open Lark AppLink | chyroc | macOS | [store](https://www.raycast.com/chyroc/lark-applink) |
 | [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) | 627 | Create Feishu/Lark online document quickly using native Feishu/Lark URLs. | rokcso | macOS | [store](https://www.raycast.com/rokcso/feishu-document-creator) |
-| [Searchcaster](https://github.com/raycast/extensions/tree/main/extensions/searchcaster) | 247 | Search for content on Farcaster, a sufficiently decentralized social network. | gregskril | macOS | [store](https://www.raycast.com/gregskril/searchcaster) |
-| [Quick AirDrop](https://github.com/raycast/extensions/tree/main/extensions/quick-airdrop) | 146 | Trigger the macOS AirDrop sheet for files, URLs, and clipboard contents — straight from Raycast | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/quick-airdrop) |
+| [Searchcaster](https://github.com/raycast/extensions/tree/main/extensions/searchcaster) | 249 | Search for content on Farcaster, a sufficiently decentralized social network. | gregskril | macOS | [store](https://www.raycast.com/gregskril/searchcaster) |
+| [Quick AirDrop](https://github.com/raycast/extensions/tree/main/extensions/quick-airdrop) | 147 | Trigger the macOS AirDrop sheet for files, URLs, and clipboard contents — straight from Raycast | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/quick-airdrop) |
 | [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) | 107 | Browse and search Contentful content and assets library | ewgenius | macOS | [store](https://www.raycast.com/ewgenius/contentful) |
 | [Datawrapper](https://github.com/raycast/extensions/tree/main/extensions/datawrapper) | 94 | An unofficial extension for searching your Datawrapper charts, viewing recent Datawrapper charts, and other handy functions. | benkates | macOS | [store](https://www.raycast.com/benkates/datawrapper) |
 | [Chinese Character Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-character-converter) | 46 | Auto convert clipboard content between Traditional and Simplified Chinese | simon_lai | Windows | [store](https://www.raycast.com/simon_lai/chinese-character-converter) |

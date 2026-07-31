@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-31 — upstream `9a1a066a73`
+
+**Updated (3):** [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com), [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon), [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize)
+
 ## 2026-07-31 — upstream `57feab1f40`
 
 **Added (1):** [TickTick+](https://github.com/raycast/extensions/tree/main/extensions/ticktick-plus)

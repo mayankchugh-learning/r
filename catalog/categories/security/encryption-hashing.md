@@ -4,4 +4,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Certificate Viewer](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) | 160 | Quick download and decode certificates | gamerslouis | macOS | [store](https://www.raycast.com/gamerslouis/certificate-viewer) |
+| [Certificate Viewer](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) | 161 | Quick download and decode certificates | gamerslouis | macOS | [store](https://www.raycast.com/gamerslouis/certificate-viewer) |

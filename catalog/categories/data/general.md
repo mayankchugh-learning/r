@@ -5,8 +5,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 8,634 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,912 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
-| [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,850 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,913 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,852 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,762 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,280 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,624 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
@@ -21,7 +21,7 @@
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 520 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [StoryTime](https://github.com/raycast/extensions/tree/main/extensions/storytime) | 373 | Generate a story using OpenAI and Upstash. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/storytime) |
 | [List Randomizer](https://github.com/raycast/extensions/tree/main/extensions/list-randomizer) | 236 | Randomizes a list of items | quuu | macOS | [store](https://www.raycast.com/quuu/list-randomizer) |
-| [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) | 220 | Generate Minion Ipsum like: Minions ipsum hahaha wiiiii gelatooo poopayee aaaaaah. | vigosan | macOS | [store](https://www.raycast.com/vigosan/minion-ipsum) |
+| [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) | 221 | Generate Minion Ipsum like: Minions ipsum hahaha wiiiii gelatooo poopayee aaaaaah. | vigosan | macOS | [store](https://www.raycast.com/vigosan/minion-ipsum) |
 | [Solana Explorer](https://github.com/raycast/extensions/tree/main/extensions/solana-explorer) | 213 | Look up transactions and accounts on the various Solana clusters. | darklong | macOS | [store](https://www.raycast.com/darklong/solana-explorer) |
 | [OSS Browser](https://github.com/raycast/extensions/tree/main/extensions/oss-browser) | 168 | Browse and manage Aliyun Object Storage Service | JinShi | macOS | [store](https://www.raycast.com/JinShi/oss-browser) |
 | [SendAI](https://github.com/raycast/extensions/tree/main/extensions/send-ai) | 149 | Your shortcut to everything Solana. At your command bar. | sendai (org) | macOS | [store](https://www.raycast.com/sendai/send-ai) |
@@ -50,7 +50,7 @@
 | [Umami](https://github.com/raycast/extensions/tree/main/extensions/umami) | 58 | The modern analytics platform for effortless insights | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/umami) |
 | [Mixpanel](https://github.com/raycast/extensions/tree/main/extensions/mixpanel) | 54 | Collection of handful handles for Mixpanel | iamsmaso | macOS | [store](https://www.raycast.com/iamsmaso/mixpanel) |
 | [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) | 50 | A Raycast extension that looks up companies in the Swiss national trade register | cmdr | macOS | [store](https://www.raycast.com/cmdr/zefix) |
-| [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) | 43 | Run qalc calculator with Raycast | vlad2305m | macOS | [store](https://www.raycast.com/vlad2305m/qalc) |
+| [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) | 44 | Run qalc calculator with Raycast | vlad2305m | macOS | [store](https://www.raycast.com/vlad2305m/qalc) |
 | [Open Targets](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) | 39 | An (unofficial) entry point to the Open Targets ecosystem. | ireneisdoomed | macOS | [store](https://www.raycast.com/ireneisdoomed/open_targets) |
 | [Retrac](https://github.com/raycast/extensions/tree/main/extensions/retrac) | 35 | Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast. | adi_amar | macOS | [store](https://www.raycast.com/adi_amar/retrac) |
 | [MouseHunt Helper](https://github.com/raycast/extensions/tree/main/extensions/mousehunt-helper) | 33 | Find the best attraction rates for different mice | chesterhow | macOS | [store](https://www.raycast.com/chesterhow/mousehunt-helper) |
