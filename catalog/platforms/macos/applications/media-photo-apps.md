@@ -2,7 +2,7 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · **Media & Photo Apps** · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
 
-19 of 357 extensions · [← macOS · Applications](./README.md)
+20 of 358 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,4 @@
 | [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 23 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 17 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [Better Screenshoot](https://github.com/raycast/extensions/tree/main/extensions/better-screenshoot) | 16 | Capture your screen with a built-in editor from Raycast. | sriverogalan | macOS | [store](https://www.raycast.com/sriverogalan/better-screenshoot) |
+| [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) | 0 | Capture, translate, and manage screenshots with ScreenLex. | chunkithwang | macOS | [store](https://www.raycast.com/chunkithwang/screenlex) |

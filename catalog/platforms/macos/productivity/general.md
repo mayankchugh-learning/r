@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-497 of 1405 extensions · [← macOS · Productivity](./README.md)
+498 of 1406 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -502,4 +502,5 @@
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 1 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) | 0 | Capture, translate, and manage screenshots with ScreenLex. | chunkithwang | macOS | [store](https://www.raycast.com/chunkithwang/screenlex) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

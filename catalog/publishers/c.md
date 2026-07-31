@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · **C** · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-112 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+113 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -57,6 +57,7 @@
 | [Chuck](https://www.raycast.com/Chuck) | 1 | 1,005 | **Uncategorized:** [Phind Search](https://github.com/raycast/extensions/tree/main/extensions/phind-search) |
 | [chuck-38](https://www.raycast.com/chuck-38) | 1 | 6 | **Productivity:** [Caaals Food Tracker](https://github.com/raycast/extensions/tree/main/extensions/caaals) |
 | [ChucKN0risK](https://www.raycast.com/ChucKN0risK) | 1 | 59 | **Media:** [MusicThread](https://github.com/raycast/extensions/tree/main/extensions/musicthread) |
+| [chunkithwang](https://www.raycast.com/chunkithwang) | 1 | 0 | **Applications:** [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) |
 | [chupi](https://www.raycast.com/chupi) | 1 | 95 | **Applications:** [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) |
 | [chyroc](https://www.raycast.com/chyroc) | 5 | 8,659 | **Productivity:** [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud), [Coze](https://github.com/raycast/extensions/tree/main/extensions/coze)<br>**Media:** [NeteaseMusic](https://github.com/raycast/extensions/tree/main/extensions/netease-music)<br>**Developer Tools:** [json-to-go](https://github.com/raycast/extensions/tree/main/extensions/json-to-go)<br>**Applications:** [Lark AppLink](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) |
 | [ciko](https://www.raycast.com/ciko) | 1 | 155 | **Security:** [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) |
@@ -74,7 +75,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 50 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,115 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 485,271 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 485,287 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,354 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 105 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 689 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |

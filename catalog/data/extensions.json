@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a66f4b579e4d91abe8469d7bdbf01522dd6950fc",
-  "generatedAt": "2026-07-31T16:22:32.602Z",
-  "downloadsRefreshedAt": "2026-07-31T16:22:31.929Z",
-  "count": 3138,
+  "commit": "bcc2fc74fa3e2236effef10636ce9ba86511d6db",
+  "generatedAt": "2026-07-31T17:00:43.530Z",
+  "downloadsRefreshedAt": "2026-07-31T17:00:42.857Z",
+  "count": 3139,
   "extensions": [
     {
       "dir": "0x0",
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 496821
+      "downloads": 496845
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 485271
+      "downloads": 485287
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 653129
+      "downloads": 653146
     },
     {
       "dir": "kimai",
@@ -49308,6 +49308,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/screen-studio",
       "treeSha": "844ce8b10977a885f0e1ec2e57d00a141ec57b20",
       "downloads": 4634
+    },
+    {
+      "dir": "screenlex",
+      "name": "screenlex",
+      "title": "ScreenLex",
+      "description": "Capture, translate, and manage screenshots with ScreenLex.",
+      "author": "chunkithwang",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/chunkithwang/screenlex",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/screenlex",
+      "treeSha": "b6f329d82359d52615ce653c509dc2b0c151189d",
+      "downloads": 0
     },
     {
       "dir": "screenocr",

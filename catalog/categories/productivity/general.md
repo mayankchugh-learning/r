@@ -1,6 +1,6 @@
 # General
 
-367 extensions · [← Productivity](./README.md)
+368 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -371,3 +371,4 @@
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 1 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) | 0 | Capture, translate, and manage screenshots with ScreenLex. | chunkithwang | macOS | [store](https://www.raycast.com/chunkithwang/screenlex) |

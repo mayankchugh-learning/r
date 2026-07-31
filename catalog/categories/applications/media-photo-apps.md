@@ -1,8 +1,8 @@
 # Media & Photo Apps
 
-19 extensions · [← Applications](./README.md)
+20 extensions · [← Applications](./README.md)
 
-[Capture ✦](#capture) (6) · [Image ✦](#image) (6) · [Video ✦](#video) (4) · [General](#general) (3)
+[Capture ✦](#capture) (7) · [Image ✦](#image) (6) · [Video ✦](#video) (4) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -16,6 +16,7 @@
 | [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 23 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 17 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [Better Screenshoot](https://github.com/raycast/extensions/tree/main/extensions/better-screenshoot) | 16 | Capture your screen with a built-in editor from Raycast. | sriverogalan | macOS | [store](https://www.raycast.com/sriverogalan/better-screenshoot) |
+| [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) | 0 | Capture, translate, and manage screenshots with ScreenLex. | chunkithwang | macOS | [store](https://www.raycast.com/chunkithwang/screenlex) |
 
 ## Image ✦
 

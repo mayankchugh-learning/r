@@ -1,6 +1,6 @@
 # Publishers
 
-2085 publishers · [← catalog index](../README.md)
+2086 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,084,002 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,084,026 |
 | 2 | [raycast](./id/raycast.md) | 11 | 775,880 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 653,129 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 485,271 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 653,146 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 485,287 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 432,193 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 427,102 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 402,089 |
@@ -2083,13 +2083,14 @@
 | 2073 | [ysrazsingh](https://www.raycast.com/ysrazsingh) | 1 | 1 |
 | 2074 | [abstyle](https://www.raycast.com/abstyle) | 1 | 0 |
 | 2075 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
-| 2076 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2077 | [fhf1121](https://www.raycast.com/fhf1121) | 1 | 0 |
-| 2078 | [filiph](https://www.raycast.com/filiph) | 1 | 0 |
-| 2079 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
-| 2080 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
-| 2081 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2082 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2083 | github-next | 2 | — |
-| 2084 | multi | 1 | — |
-| 2085 | sharat_visweswara | 1 | — |
+| 2076 | [chunkithwang](https://www.raycast.com/chunkithwang) | 1 | 0 |
+| 2077 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2078 | [fhf1121](https://www.raycast.com/fhf1121) | 1 | 0 |
+| 2079 | [filiph](https://www.raycast.com/filiph) | 1 | 0 |
+| 2080 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
+| 2081 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
+| 2082 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2083 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2084 | github-next | 2 | — |
+| 2085 | multi | 1 | — |
+| 2086 | sharat_visweswara | 1 | — |

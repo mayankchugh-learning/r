@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-31 — upstream `bcc2fc74fa`
+
+**Added (1):** [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex)
+
 ## 2026-07-31 — upstream `a66f4b579e`
 
 **Added (1):** [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy)
