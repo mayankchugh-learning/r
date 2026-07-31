@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-77 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+78 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -37,6 +37,7 @@
 | [feyli](https://www.raycast.com/feyli) | 2 | 1,110 | **Applications:** [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider)<br>**Data:** [Lightshot Gallery](https://github.com/raycast/extensions/tree/main/extensions/lightshot-gallery) |
 | [FezVrasta](https://www.raycast.com/FezVrasta) | 5 | 69,912 | **System:** [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji)<br>**Applications:** [Transmission](https://github.com/raycast/extensions/tree/main/extensions/transmission)<br>**Developer Tools:** [GitHub Status](https://github.com/raycast/extensions/tree/main/extensions/github-status)<br>**Other:** [Acqua](https://github.com/raycast/extensions/tree/main/extensions/acqua)<br>**Finance:** [Banca d'Italia Currency Converter](https://github.com/raycast/extensions/tree/main/extensions/banca-d-italia-currency-converter) |
 | [fgeierst](https://www.raycast.com/fgeierst) | 1 | 270 | **Documentation:** [WCAG](https://github.com/raycast/extensions/tree/main/extensions/wcag) |
+| [fhf1121](https://www.raycast.com/fhf1121) | 1 | 0 | **Productivity:** [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy) |
 | [figa](https://www.raycast.com/figa) | 1 | 1 | **Finance:** [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) |
 | [fil](https://www.raycast.com/fil) | 1 | 175 | **Developer Tools:** [Node Release Notes](https://github.com/raycast/extensions/tree/main/extensions/node-release-notes) |
 | [filipawaits](https://www.raycast.com/filipawaits) | 1 | 63 | **Finance:** [Portfolio Tracker](https://github.com/raycast/extensions/tree/main/extensions/portfolio-tracker) |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e370ad16c081133614fce5573526f9ae8a51a4ef",
-  "generatedAt": "2026-07-31T16:05:37.143Z",
-  "downloadsRefreshedAt": "2026-07-31T16:05:36.389Z",
-  "count": 3137,
+  "commit": "a66f4b579e4d91abe8469d7bdbf01522dd6950fc",
+  "generatedAt": "2026-07-31T16:22:32.602Z",
+  "downloadsRefreshedAt": "2026-07-31T16:22:31.929Z",
+  "count": 3138,
   "extensions": [
     {
       "dir": "0x0",
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 496813
+      "downloads": 496821
     },
     {
       "dir": "color-shades",
@@ -17556,6 +17556,27 @@
       "downloads": 38
     },
     {
+      "dir": "file-tidy",
+      "name": "file-tidy",
+      "title": "File Tidy",
+      "description": "Organize folders into type/year-month archives with byte-level duplicate detection and one-step undo",
+      "author": "fhf1121",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/fhf1121/file-tidy",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/file-tidy",
+      "treeSha": "4fe698d3f6152d4119fb97c234c21cb639782645",
+      "downloads": 0
+    },
+    {
       "dir": "file-tree-generator",
       "name": "file-tree-generator",
       "title": "File Tree Generator",
@@ -21320,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 485264
+      "downloads": 485271
     },
     {
       "dir": "google-chrome-profiles",
@@ -27556,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 653119
+      "downloads": 653129
     },
     {
       "dir": "kimai",

@@ -1,8 +1,8 @@
 # Documents & Files
 
-121 extensions · [← Productivity](./README.md)
+122 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (27) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Upload ✦](#upload) (13) · [Download ✦](#download) (8) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (5) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (33)
+[Folder ✦](#folder) (28) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Upload ✦](#upload) (13) · [Download ✦](#download) (8) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (5) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (33)
 
 *✦ auto-discovered topic group*
 
@@ -37,6 +37,7 @@
 | [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) | 67 | Open selected Finder file or folder in TextMate | fannarfreyr | macOS | [store](https://www.raycast.com/fannarfreyr/open-in-textmate) |
 | [ownCloud](https://github.com/raycast/extensions/tree/main/extensions/owncloud) | 31 | share files and folders, easy and secure | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/owncloud) |
 | [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) | 5 | Browse link folders and open all links at once, like a browser favorites bar. | Francescoparadiso | macOS, Windows | [store](https://www.raycast.com/Francescoparadiso/links-folder) |
+| [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy) | 0 | Organize folders into type/year-month archives with byte-level duplicate detection and one-step undo | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/file-tidy) |
 
 ## Documents ✦
 

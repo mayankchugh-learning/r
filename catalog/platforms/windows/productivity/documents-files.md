@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-20 of 331 extensions · [← Windows · Productivity](./README.md)
+21 of 332 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,4 @@
 | [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) | 5 | Browse link folders and open all links at once, like a browser favorites bar. | Francescoparadiso | macOS, Windows | [store](https://www.raycast.com/Francescoparadiso/links-folder) |
 | [Subnoto - Confidential Electronic Signature](https://github.com/raycast/extensions/tree/main/extensions/subnoto) | 3 | Send and manage documents for electronic signature in Subnoto from Raycast | corentin_mors | macOS, Windows | [store](https://www.raycast.com/corentin_mors/subnoto) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 0 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
+| [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy) | 0 | Organize folders into type/year-month archives with byte-level duplicate detection and one-step undo | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/file-tidy) |
