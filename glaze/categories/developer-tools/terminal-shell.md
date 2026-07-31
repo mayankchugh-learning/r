@@ -53,4 +53,4 @@
 | [Junior](https://www.glaze.app/app/j3JEdV) | 6 | Speak to Junior. He can help you. | Alvi Dervishaj | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [PyDrop](https://www.glaze.app/app/9evSfc) | 5 | Drag, drop, run Python instantly. | S.Peacock | 1.0.0 | 0.1 MB | 2026-07-14 |
 | [Local Server](https://www.glaze.app/app/Lk3DCH) | 4 | Start and manage local servers | Sander Schat | 1.0.0 | 0.1 MB | 2026-07-02 |
-| [Type](https://www.glaze.app/app/bfSoRG) | 0 | Text without distraction | Yeshe | 3.0.0 | 0.1 MB | 2026-07-20 |
+| [Type](https://www.glaze.app/app/bfSoRG) | 1 | Text without distraction | Yeshe | 3.0.0 | 0.1 MB | 2026-07-20 |

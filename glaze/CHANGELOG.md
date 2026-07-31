@@ -4,6 +4,16 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-07-31
 
+**Added (1):** [Sleepwalker](https://www.glaze.app/app/sleepwalker-Twm2r3)
+
+**Blunder:** version 4.0.0 → 5.0.0
+
+**Audiofile Preview:** version 7.0.0 → 8.0.0
+
+**LinkChecker:** version 5.0.0 → 6.0.0
+
+## 2026-07-31
+
 **Windows Lock Screen:** version 1.0.0 → 2.0.0
 
 ## 2026-07-31

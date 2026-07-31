@@ -13,7 +13,7 @@
 | Jake Donlan | 1 | 7 | [Typecard](https://www.glaze.app/app/cbo0CY) *(Design)* |
 | Jaladhi Pujara | 1 | 5 | [Provenance](https://www.glaze.app/app/TOCKAe) *(Productivity)* |
 | James Coy (JC) | 1 | 5 | [Clipfloat](https://www.glaze.app/app/0DLNYu) *(Developer Tools)* |
-| James Dawson | 1 | 49 | [Mooboard](https://www.glaze.app/app/dqGeIk) *(Productivity)* |
+| James Dawson | 1 | 52 | [Mooboard](https://www.glaze.app/app/dqGeIk) *(Productivity)* |
 | James Jackson | 1 | 7 | [nib](https://www.glaze.app/app/RJAlJp) *(Productivity)* |
 | James Jeffery | 1 | 6 | [Ripple](https://www.glaze.app/app/FQfYOf) *(Media)* |
 | James Victor | 1 | 4 | [Activity Ridge](https://www.glaze.app/app/f2dURs) *(Productivity)* |
@@ -79,7 +79,7 @@
 | Jorge | 1 | 2 | [App Revenue](https://www.glaze.app/app/bhkScP) *(Developer Tools)* |
 | Jørgen Arnor | 2 | 8 | [Pickup](https://www.glaze.app/app/fZmn3c) *(Media)*, [On This Day](https://www.glaze.app/app/fbkJca) *(Lifestyle)* |
 | Jose Ryu Leonesta | 1 | 20 | [Obsidian Task Dashboard](https://www.glaze.app/app/YgUf4O) *(Productivity)* |
-| Josh Davenport-Smith | 1 | 15 | [Claudelog](https://www.glaze.app/app/3pBqWZ) *(Developer Tools)* |
+| Josh Davenport-Smith | 1 | 17 | [Claudelog](https://www.glaze.app/app/3pBqWZ) *(Developer Tools)* |
 | Josiah Ayres | 1 | 3 | [Mortgage Compass](https://www.glaze.app/app/lRnWp3) *(Productivity)* |
 | Jovan James Binoj | 1 | 1 | [Spice Lab](https://www.glaze.app/app/dphdR8) *(Developer Tools)* |
 | jpmm21 | 2 | 44 | [SSH Connect](https://www.glaze.app/app/e6UHlE) *(Developer Tools)*, [Mine Sweeper](https://www.glaze.app/app/7BYKeO) *(Games & Fun)* |

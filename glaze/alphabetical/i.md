@@ -6,18 +6,18 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 355 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
+| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 357 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
 | [Image Converter](https://www.glaze.app/app/XzP6Ry) | 206 | Convert images between formats and automatically process folders using customizable rules | Daniel Hollick | 2.0.1 | 8.0 MB | 2026-03-04 |
 | [Image Sequencer](https://www.glaze.app/app/IxkyCn) | 72 | Create animations from image sequences. | Nichlas Wærnes Andersen | 14.0.0 | 0.1 MB | 2026-04-25 |
 | [Iconify](https://www.glaze.app/app/UedCjG) | 28 | Browse and organize icons locally | LitoMore | 1.0.0 | 0.0 MB | 2026-04-30 |
 | [Image Convert](https://www.glaze.app/app/rbU02h) | 13 | Convert and optimize images instantly | Chris Malone | 2.0.0 | 7.4 MB | 2026-06-13 |
 | [Image Converter](https://www.glaze.app/app/4nScHZ) | 13 | Convert and compress images instantly | Mohamed Kerroudj | 1.0.0 | 7.1 MB | 2026-07-07 |
+| [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) | 10 | Design icons for any platform. | Sambit Biswas | 2.0.0 | 0.7 MB | 2026-07-28 |
 | [Icon Grab](https://www.glaze.app/app/udkxUC) | 10 | Extract and save app icons easily | Alex E | 1.0.0 | 0.1 MB | 2026-07-05 |
 | [Icon Swap](https://www.glaze.app/app/lQw8Ty) | 10 | Change file and folder icons instantly | thejasonhowell | 1.0.0 | 0.1 MB | 2026-07-10 |
 | [InkLayer](https://www.glaze.app/app/EccBVZ) | 10 | Turn your screen into a canvas | Jessi.Nowski | 5.0.0 | 0.1 MB | 2026-07-27 |
-| [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) | 9 | Design icons for any platform. | Sambit Biswas | 2.0.0 | 0.7 MB | 2026-07-28 |
+| [Inkling](https://www.glaze.app/app/3hA871) | 10 | Rich text editing for markdown files | Martin Nystrom | 1.0.0 | 0.2 MB | 2026-07-04 |
 | [Image Lighter](https://www.glaze.app/app/BxZAHu) | 9 | Compress images for faster web loading | Florian.Mascaro | 1.0.0 | 7.1 MB | 2026-07-01 |
-| [Inkling](https://www.glaze.app/app/3hA871) | 9 | Rich text editing for markdown files | Martin Nystrom | 1.0.0 | 0.2 MB | 2026-07-04 |
 | [Instant Organizer](https://www.glaze.app/app/ePD2w0) | 7 | Snap, sort, and simplify your whole life | Edoardo Galati | 3.0.0 | 10.8 MB | 2026-07-28 |
 | [Instant MCP](https://www.glaze.app/app/nYciYl) | 5 | Your local files, ready for Claude | Mamaswain1990 | 1.0.0 | 0.2 MB | 2026-07-28 |
 | [Icon Collector](https://www.glaze.app/app/X5epC2) | 4 | Grab every app icon you need in seconds | S.Peacock | 1.0.0 | 0.1 MB | 2026-07-20 |

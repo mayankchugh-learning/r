@@ -1,6 +1,6 @@
 # Yeshe
 
-5 apps · 33 installs · [← publishers](../README.md)
+5 apps · 34 installs · [← publishers](../README.md)
 
 ## Utilities (2)
 
@@ -19,5 +19,5 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Type](https://www.glaze.app/app/bfSoRG) | 0 | Text without distraction | Yeshe | 3.0.0 | 0.1 MB | 2026-07-20 |
+| [Type](https://www.glaze.app/app/bfSoRG) | 1 | Text without distraction | Yeshe | 3.0.0 | 0.1 MB | 2026-07-20 |
 | [Unpack](https://www.glaze.app/app/EuGCDr) | 0 | Extract and upgrade Modrinth modpacks | Yeshe | 2.0.0 | 0.1 MB | 2026-07-20 |

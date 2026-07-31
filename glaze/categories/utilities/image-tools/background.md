@@ -34,6 +34,6 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Peel](https://www.glaze.app/app/peel-esimhU) | 401 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
-| [Gesture Launch](https://www.glaze.app/app/74q23g) | 222 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 0.1 MB | 2026-05-14 |
+| [Peel](https://www.glaze.app/app/peel-esimhU) | 402 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
+| [Gesture Launch](https://www.glaze.app/app/74q23g) | 223 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 0.1 MB | 2026-05-14 |
 | [AppLock](https://www.glaze.app/app/Muzmgp) | 1 | Require auth to launch said app | yuvan michael | 2.0.0 | 0.1 MB | 2026-07-27 |

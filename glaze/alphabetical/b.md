@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Brui](https://www.glaze.app/app/eOPXRV) | 108 | Visual interface for Homebrew package | Niall | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 0.2 MB | 2026-07-13 |
-| [Brez](https://www.glaze.app/app/nx6Oj0) | 44 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
+| [Brez](https://www.glaze.app/app/nx6Oj0) | 47 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
 | [Breakout Dock](https://www.glaze.app/app/EEcNPI) | 37 | Smash through your installed apps in a breakout-style game where bricks are apps and your dock controls the paddle | Yann-Edern Gillet | 1.0.1 | 0.2 MB | 2026-03-25 |
 | [Batch Crop](https://www.glaze.app/app/tYEQoH) | 28 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
 | [Brand Icons](https://www.glaze.app/app/IydK5q) | 21 | Get brand icons from Simple Icons | LitoMore | 3.0.0 | 2.3 MB | 2026-04-26 |
@@ -41,7 +41,7 @@
 | [Briefed](https://www.glaze.app/app/pFXQt7) | 6 | Wake up, Get Briefed. | lagon20ms | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [BearMark](https://www.glaze.app/app/BhCTVn) | 5 | Markdown notes with Beeerr's simplicity | Hong Linh Vu | 1.0.0 | 0.3 MB | 2026-07-06 |
 | [Bitrate Inspector](https://www.glaze.app/app/K56QgJ) | 5 | Check audio bitrate in seconds | Ivo Tanev | 2.0.0 | 0.1 MB | 2026-07-18 |
-| [Blunder](https://www.glaze.app/app/0dUOLc) | 5 | Learn from your own mistakes. | Francesco Maisano | 4.0.0 | 6.4 MB | 2026-07-31 |
+| [Blunder](https://www.glaze.app/app/0dUOLc) | 5 | Learn from your own mistakes. | Francesco Maisano | 5.0.0 | 6.4 MB | 2026-07-31 |
 | [Bondfire](https://www.glaze.app/app/g9yKcF) | 5 | The cheat code for staying connected. | Kim Nehzaty | 3.0.0 | 0.2 MB | 2026-07-28 |
 | [Balance Sheet](https://www.glaze.app/app/qitbAW) | 4 | Track bills and projected balances | Matt Elliott | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [BatteryPulse](https://www.glaze.app/app/g1iPS4) | 4 | Real watts, measured. Not estimated. | Tommy Chiam | 2.0.0 | 0.1 MB | 2026-07-28 |

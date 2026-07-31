@@ -37,6 +37,7 @@
 | [DNS Digger](https://www.glaze.app/app/Dwnv1M) | 6 | Deep dive into DNS records and verify. | Nick Lobeck | 1.0.0 | 0.4 MB | 2026-07-17 |
 | [Dayline - Work Tracker](https://www.glaze.app/app/utcNUa) | 5 | Your day on a private timeline. | Ruben.Vibe2prod | 5.0.0 | 0.3 MB | 2026-07-27 |
 | [Daymark](https://www.glaze.app/app/MX1yNN) | 5 | A daily note for every day | Iamgregb | 11.0.0 | 1.3 MB | 2026-07-30 |
+| [Dayshift](https://www.glaze.app/app/an3PsD) | 5 | Dynamic wallpapers that change with time | cg crew | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Decision matrix](https://www.glaze.app/app/CoqolO) | 5 | Prioritize tasks with an Eisenhower grid | tyler.earth 🌎 | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Diffy McDiffFace](https://www.glaze.app/app/jHMfRO) | 5 | Diff anything. Upload nothing | Tom Sullivan | 1.0.0 | 2.1 MB | 2026-07-27 |
 | [Disk Intelligence](https://www.glaze.app/app/qRgf9Y) | 5 | Understand and reclaim your disk space | Mikhail Borodin | 1.0.0 | 0.1 MB | 2026-07-25 |
@@ -45,7 +46,6 @@
 | [Dreama](https://www.glaze.app/app/Te4eW8) | 5 | Generate images with ease | BLCNYY | 4.0.0 | 0.0 MB | 2026-04-25 |
 | [dropsize](https://www.glaze.app/app/XM2TL3) | 5 | compress images or videos instantly | vovayaa | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [Dungeon Sketch](https://www.glaze.app/app/fL7gUZ) | 5 | Design dungeon maps for Dungeonblocks | Ringmaster | 2.0.0 | 0.1 MB | 2026-07-12 |
-| [Dayshift](https://www.glaze.app/app/an3PsD) | 4 | Dynamic wallpapers that change with time | cg crew | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Decision Clarifier](https://www.glaze.app/app/B5fDxN) | 4 | Work through decisions step by step | Alistair4312 | 1.0.0 | 0.1 MB | 2026-07-15 |
 | [Deploy Desk](https://www.glaze.app/app/dbSUVq) | 4 | Monitor deployments right from your Mac | Sean Thomas Stuart | 4.0.0 | 0.3 MB | 2026-07-20 |
 | [Deskmate](https://www.glaze.app/app/ki1c5r) | 4 | A little creature that feels your day | Song Qian | 2.0.0 | 0.1 MB | 2026-07-27 |

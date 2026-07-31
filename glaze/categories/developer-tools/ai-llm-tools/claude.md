@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 839 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 0.1 MB | 2026-07-29 |
+| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 840 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 0.1 MB | 2026-07-29 |
 | [Claude Usage](https://www.glaze.app/app/Iz8ofo) | 42 | Track your Claude API usage | Kartik | 3.0.0 | 0.1 MB | 2026-07-02 |
 | [Pulse](https://www.glaze.app/app/3BmuDS) | 32 | Real-time Claude & Codex usage tracking | Ken Adams | 2.0.0 | 0.1 MB | 2026-06-23 |
 | [Claude Inspector](https://www.glaze.app/app/21ITy2) | 30 | Track your Claude plugins, skills, tools | Aydın Dağdelenler | 1.0.0 | 0.1 MB | 2026-07-10 |
@@ -26,7 +26,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Claudelog](https://www.glaze.app/app/3pBqWZ) | 15 | Harness your Claude Code sessions | Josh Davenport-Smith | 4.0.0 | 0.1 MB | 2026-07-27 |
+| [Claudelog](https://www.glaze.app/app/3pBqWZ) | 17 | Harness your Claude Code sessions | Josh Davenport-Smith | 4.0.0 | 0.1 MB | 2026-07-27 |
 | [hostit!](https://www.glaze.app/app/pHU2XV) | 14 | Share localhost in one click! | Maddie D. Reese | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Skill Manager](https://www.glaze.app/app/g1ZCh2) | 13 | Track and organize your coding skills | oberon lai | 1.0.0 | 0.1 MB | 2026-07-10 |
 | [Contextphobia for Claude Code](https://www.glaze.app/app/PhIHl7) | 5 | Tokens per session in your menubar | Aseem Taneja | 3.0.0 | 0.0 MB | 2026-07-06 |

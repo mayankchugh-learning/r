@@ -24,7 +24,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Markdown Slides](https://www.glaze.app/app/NeUWnQ) | 16 | Create presentations from markdown | alexi.build | 1.0.0 | 0.1 MB | 2026-05-02 |
-| [Inkling](https://www.glaze.app/app/3hA871) | 9 | Rich text editing for markdown files | Martin Nystrom | 1.0.0 | 0.2 MB | 2026-07-04 |
+| [Inkling](https://www.glaze.app/app/3hA871) | 10 | Rich text editing for markdown files | Martin Nystrom | 1.0.0 | 0.2 MB | 2026-07-04 |
 | [Scritch](https://www.glaze.app/app/YAfWNx) | 7 | Jot down ideas before they slip away | Muhammad Yassin | 2.0.0 | 0.1 MB | 2026-07-23 |
 | [Notepad for Mac](https://www.glaze.app/app/4cOMSP) | 6 | Notes, simplified for Mac | Jirawat Thaenthong | 1.0.0 | 0.1 MB | 2026-07-14 |
 

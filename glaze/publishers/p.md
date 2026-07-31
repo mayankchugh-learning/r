@@ -24,8 +24,8 @@
 | Paulo Duarte | 1 | 3 | [Spin the Wheel](https://www.glaze.app/app/Nl4AlJ) *(Games & Fun)* |
 | Paulo Lobo | 1 | 2 | [Scope](https://www.glaze.app/app/MRB1TC) *(Productivity)* |
 | Pavlina Schuster | 1 | 3 | [Dock Shifter](https://www.glaze.app/app/rXJ5CI) *(Utilities)* |
-| Pavlo Haidamak | 2 | 26 | [Apptopsy](https://www.glaze.app/app/kWwP7l) *(Developer Tools)*, [Chirp Chirrup](https://www.glaze.app/app/2z2j75) *(Lifestyle)* |
-| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 556 | [see all 5 →](./id/pedro-duarte.md) |
+| Pavlo Haidamak | 2 | 27 | [Apptopsy](https://www.glaze.app/app/kWwP7l) *(Developer Tools)*, [Chirp Chirrup](https://www.glaze.app/app/2z2j75) *(Lifestyle)* |
+| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 557 | [see all 5 →](./id/pedro-duarte.md) |
 | Pedro Fonseca | 2 | 1 | [WooPulse AI](https://www.glaze.app/app/cd6wTA) *(Productivity)*, [Unlink](https://www.glaze.app/app/Y2Xn6B) *(Utilities)* |
 | Pedro Ladeira | 1 | 1 | [Stretch Break](https://www.glaze.app/app/Y7qUx0) *(Productivity)* |
 | Pedro Marvarez | 1 | 12 | [Flow](https://www.glaze.app/app/v9gzNN) *(Productivity)* |

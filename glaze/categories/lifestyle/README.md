@@ -1,13 +1,13 @@
 # Lifestyle
 
-52 apps · 389 installs · [← all categories](../README.md)
+52 apps · 394 installs · [← all categories](../README.md)
 
 ## Body
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [Health & Fitness](./health-fitness.md) | 12 | 161 |
-| [Hydration & Nutrition](./hydration-nutrition.md) | 6 | 64 |
+| [Hydration & Nutrition](./hydration-nutrition.md) | 6 | 69 |
 | [Food & Drink](./food-drink.md) | 2 | 6 |
 
 ## Mind

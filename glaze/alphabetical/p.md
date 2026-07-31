@@ -6,10 +6,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Peel](https://www.glaze.app/app/peel-esimhU) | 401 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
+| [Peel](https://www.glaze.app/app/peel-esimhU) | 402 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 338 | Simple project planning | Kristina Loewen | 6.0.0 | 0.1 MB | 2026-07-05 |
 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 299 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 0.3 MB | 2026-07-27 |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 79 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 89 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 | [ProjectBase](https://www.glaze.app/app/w5CAic) | 42 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 0.3 MB | 2026-07-29 |
 | [Port Monitor](https://www.glaze.app/app/EEfaTw) | 40 | Track open ports and their apps | Domint | 1.0.0 | 0.1 MB | 2026-06-29 |
@@ -52,6 +52,7 @@
 | [PDF Unlocker](https://www.glaze.app/app/eLy5mQ) | 7 | Remove PDF passwords instantly, locally. | Sai Prem | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Pinstruct](https://www.glaze.app/app/WxB8jL) | 7 | Point. Instruct. Ship. | Dennis Eilander | 5.0.0 | 0.2 MB | 2026-07-28 |
 | [Pixel Runner](https://www.glaze.app/app/v2kFzv) | 7 | Jump, dodge, and dash through arcade ! | Brakoceuvisei 8875 | 3.0.0 | 0.2 MB | 2026-07-03 |
+| [Polite Package](https://www.glaze.app/app/Ah56UM) | 7 | Send folders that look professional | Vaarun Sinha | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Pomo](https://www.glaze.app/app/Nvojrt) | 7 | Track pomodoro sessions and productivity | nanbing liu | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Port Sense](https://www.glaze.app/app/Wu4nA6) | 7 | Monitor ports, see which apps use them | Yacolate | 2.0.0 | 0.1 MB | 2026-06-17 |
 | [Power goes where](https://www.glaze.app/app/yjzo2s) | 7 | Monitor your Mac's power draw | violetpurpleish | 3.0.0 | 0.1 MB | 2026-07-18 |
@@ -63,7 +64,6 @@
 | [PhotoForge](https://www.glaze.app/app/Hj2RYz) | 6 | Edit, convert, and customize photos | Caleb Tew | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Pinboard](https://www.glaze.app/app/0Ms1ZW) | 6 | Pin notes to your virtual board | Vincent Grabowiecki (Triangles) | 1.0.0 | 0.8 MB | 2026-07-17 |
 | [Pixel Measure](https://www.glaze.app/app/g3fVjP) | 6 | A pixel measurement tool for any app | Andrew Kerr | 1.0.0 | 0.1 MB | 2026-07-06 |
-| [Polite Package](https://www.glaze.app/app/Ah56UM) | 6 | Send folders that look professional | Vaarun Sinha | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Portal Fetch](https://www.glaze.app/app/4gzZIB) | 6 | Download Landscape 6k+ videos for free. | Oli ver | 2.0.0 | 0.1 MB | 2026-06-20 |
 | [Priority Matrix](https://www.glaze.app/app/EPDnC5) | 6 | Organize tasks by urgency and importance | Milo | 2.0.0 | 0.1 MB | 2026-07-06 |
 | [Pandora Player](https://www.glaze.app/app/zs85E5) | 5 | Pandora Desktop Player | John Hunter | 2.0.0 | 0.1 MB | 2026-07-24 |

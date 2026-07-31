@@ -43,7 +43,7 @@
 | Bob Weisbecker | 1 | 5 | [Pixel Icon Studio](https://www.glaze.app/app/hoPF96) *(Design)* |
 | Bomakalu | 1 | 6 | [Terminator](https://www.glaze.app/app/k8JKg8) *(Utilities)* |
 | boubatunechi | 1 | 0 | [Court Watch](https://www.glaze.app/app/X6XfCa) *(Productivity)* |
-| Boufford | 3 | 869 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) *(Developer Tools)*, [Minimal Control](https://www.glaze.app/app/evNrhb) *(Utilities)*, [Scratch&&Sniff](https://www.glaze.app/app/mXeTGg) *(Developer Tools)* |
+| Boufford | 3 | 870 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) *(Developer Tools)*, [Minimal Control](https://www.glaze.app/app/evNrhb) *(Utilities)*, [Scratch&&Sniff](https://www.glaze.app/app/mXeTGg) *(Developer Tools)* |
 | Bourne jason | 2 | 22 | [App Library](https://www.glaze.app/app/EeU4Tr) *(Utilities)*, [MStudio](https://www.glaze.app/app/PP2I8B) *(Productivity)* |
 | Bowen Winter | 1 | 2 | [Image Joiner](https://www.glaze.app/app/PQbrzf) *(Design)* |
 | Brad Chin | 1 | 19 | [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) *(Developer Tools)* |
@@ -51,7 +51,7 @@
 | Braily Estevez | 1 | 8 | [QuickConvert](https://www.glaze.app/app/Uyki23) *(Utilities)* |
 | Brakoceuvisei 8875 | 1 | 7 | [Pixel Runner](https://www.glaze.app/app/v2kFzv) *(Games & Fun)* |
 | Brandon Strittmatter | 1 | 19 | [Cloudflare Drop](https://www.glaze.app/app/a6H1CL) *(Developer Tools)* |
-| Branik | 1 | 26 | [App Screenshots](https://www.glaze.app/app/tpdPU6) *(Developer Tools)* |
+| Branik | 1 | 27 | [App Screenshots](https://www.glaze.app/app/tpdPU6) *(Developer Tools)* |
 | Brent Hoover | 1 | 5 | [Study Buddy](https://www.glaze.app/app/ZZxk63) *(Productivity)* |
 | Brice Gramm | 1 | 15 | [Scorebug](https://www.glaze.app/app/gwd46m) *(Utilities)* |
 | Brittany Smith | 1 | 2 | [Collector’s Catalog](https://www.glaze.app/app/gX4n0Q) *(Productivity)* |

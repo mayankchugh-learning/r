@@ -31,7 +31,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Glaze Playground](https://www.glaze.app/app/vE1ZTK) | 91 | Play Glaze components and APIs visually | LitoMore | 5.0.0 | 0.1 MB | 2026-07-01 |
+| [Glaze Playground](https://www.glaze.app/app/vE1ZTK) | 92 | Play Glaze components and APIs visually | LitoMore | 5.0.0 | 0.1 MB | 2026-07-01 |
 | [Chromatic](https://www.glaze.app/app/qRBanq) | 49 | Test your color contrast instantly | Jac Peregrine-Davies | 1.0.0 | 0.0 MB | 2026-04-14 |
 | [Framework Detective](https://www.glaze.app/app/G7cmDl) | 23 | Identify every app's framework instantly | Misha Nya | 7.0.0 | 0.1 MB | 2026-07-24 |
 | [Pixel Measure](https://www.glaze.app/app/g3fVjP) | 6 | A pixel measurement tool for any app | Andrew Kerr | 1.0.0 | 0.1 MB | 2026-07-06 |

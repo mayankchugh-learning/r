@@ -28,8 +28,8 @@
 | [MyLibrary](https://www.glaze.app/app/A5XSe8) | 4 | "Organize all your books in one place" | 83 Sipper Steamer | 1.0.0 | 0.9 MB | 2026-07-28 |
 | [Watch Later](https://www.glaze.app/app/07KEGm) | 3 | Save videos, organize, watch anytime. | Kofi Amoussou | 6.0.0 | 0.1 MB | 2026-07-27 |
 | [FrameBites](https://www.glaze.app/app/86GqqN) | 2 | Clip, loop & tag YouTube & local videos | Alfonso (Poncho) Aceves | 5.0.0 | 0.1 MB | 2026-07-30 |
+| [Skrim](https://www.glaze.app/app/skrim-hHjG9l) | 1 | Read at your own pace, your way. | Dany С | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [Film Production Budget](https://www.glaze.app/app/5UmQXz) | 0 | Scene-by-scene budgeting made simple | Abdul Raheem | 1.0.0 | 0.1 MB | 2026-07-26 |
-| [Skrim](https://www.glaze.app/app/skrim-hHjG9l) | 0 | Read at your own pace, your way. | Dany С | 1.0.0 | 0.1 MB | 2026-07-30 |
 
 ## Reading ✦
 

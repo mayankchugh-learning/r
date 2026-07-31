@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [One Note](https://www.glaze.app/app/DhbXQo) | 39 | Leave a note on their Mac | Andrew Bondarenko | 3.0.0 | 0.1 MB | 2026-07-28 |
+| [One Note](https://www.glaze.app/app/DhbXQo) | 40 | Leave a note on their Mac | Andrew Bondarenko | 3.0.0 | 0.1 MB | 2026-07-28 |
 | [Obsidian Task Dashboard](https://www.glaze.app/app/YgUf4O) | 20 | Organize Obsidian tasks by folder | Jose Ryu Leonesta | 2.0.0 | 0.1 MB | 2026-07-02 |
 | [Outside](https://www.glaze.app/app/bkH281) | 20 | Sync your desktop with the weather | Tan | 3.0.0 | 0.1 MB | 2026-07-23 |
 | [og:inspect](https://www.glaze.app/app/FxW58J) | 19 | Preview OG metadata alongside your site | Jac Peregrine-Davies | 2.0.0 | 0.1 MB | 2026-07-01 |
@@ -18,8 +18,8 @@
 | [Onionskin](https://www.glaze.app/app/ZaTZYW) | 8 | A notebook that behaves like a notebook | Geoff Silva | 4.0.0 | 2.0 MB | 2026-07-24 |
 | [Outfit Check](https://www.glaze.app/app/eiLASD) | 7 | Plan your outfit before heading out | Jason Lang | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [Overheard - Podcast knowledge](https://www.glaze.app/app/MMw100) | 7 | Turn podcasts into reusable knowledge | Ac0 | 10.0.0 | 0.4 MB | 2026-07-29 |
+| [Overtype](https://www.glaze.app/app/PKj6yw) | 7 | Fast and fluid font editing | Kaylen Castle | 1.0.0 | 0.8 MB | 2026-07-25 |
 | [OuijAI](https://www.glaze.app/app/csPCmo) | 6 | Talk to AI spirits. Get weird answers. | David Claridge | 2.0.0 | 36.7 MB | 2026-07-01 |
-| [Overtype](https://www.glaze.app/app/PKj6yw) | 6 | Fast and fluid font editing | Kaylen Castle | 1.0.0 | 0.8 MB | 2026-07-25 |
 | [Orbit](https://www.glaze.app/app/wSy5lt) | 5 | Stay close to the people who matter most | Maxi | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [On track](https://www.glaze.app/app/QfAX61) | 4 | Stay on track with funny cats | Rushikesh Jadhav | 6.0.0 | 0.1 MB | 2026-07-28 |
 | [On-Brand](https://www.glaze.app/app/DhmLaD) | 4 | Stay on-brand with every choice | Farhan K. | 3.0.0 | 0.5 MB | 2026-07-28 |

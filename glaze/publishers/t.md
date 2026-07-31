@@ -25,7 +25,7 @@
 | Thiago Holanda | 1 | 212 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) *(Developer Tools)* |
 | Thomas Jost | 1 | 6 | [Dice Order](https://www.glaze.app/app/367A43) *(Games & Fun)* |
 | Thomas Mauconduit | 1 | 36 | [Voxel Studio](https://www.glaze.app/app/W1Zhxy) *(Design)* |
-| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,365 | [see all 12 →](./id/thomas-paul-mann.md) |
+| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,368 | [see all 12 →](./id/thomas-paul-mann.md) |
 | Thomas Williams | 1 | 23 | [My Budget](https://www.glaze.app/app/GEeFXC) *(Productivity)* |
 | Thomaspetrie | 1 | 3 | [Clipboard Flow](https://www.glaze.app/app/xkNePH) *(Utilities)* |
 | Thorpemeister | 2 | 6 | [Radio Player](https://www.glaze.app/app/pTydQH) *(Media)*, [Slumber](https://www.glaze.app/app/BJGDDY) *(Utilities)* |
@@ -59,7 +59,7 @@
 | Trijste | 1 | 5 | [Standard Ebooks Reader](https://www.glaze.app/app/EFC9ox) *(Media)* |
 | Trueman | 1 | 12 | [Collect](https://www.glaze.app/app/eG7IS4) *(Productivity)* |
 | Tuna E | 1 | 11 | [Spectrum](https://www.glaze.app/app/dQhEZg) *(Media)* |
-| Tuxu | 1 | 192 | [Syndi](https://www.glaze.app/app/syndi-pFjfCk) *(Productivity)* |
+| Tuxu | 1 | 193 | [Syndi](https://www.glaze.app/app/syndi-pFjfCk) *(Productivity)* |
 | Tya Tiwi | 1 | 3 | [Ducky - Desktop Buddy](https://www.glaze.app/app/0KGjs2) *(Productivity)* |
 | [tyler.earth 🌎](./id/tyler-earth.md) | 4 | 20 | [see all 4 →](./id/tyler-earth.md) |
 | Tylilo | 3 | 9 | [Radio Echoes](https://www.glaze.app/app/ZrP0DL) *(Media)*, [Secure Erase](https://www.glaze.app/app/5lj2vu) *(Utilities)*, [No Agenda Companion](https://www.glaze.app/app/d6tgQg) *(Media)* |

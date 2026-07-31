@@ -10,12 +10,12 @@
 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 212 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 0.1 MB | 2026-04-15 |
 | [Arnie](https://www.glaze.app/app/tqkV16) | 59 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 0.2 MB | 2026-06-30 |
 | [AI Models Database](https://www.glaze.app/app/VzvbvJ) | 43 | Browse AI Models, Providers, and Labs | alexi.build | 5.0.0 | 0.1 MB | 2026-07-11 |
+| [Amber](https://www.glaze.app/app/vZzCwc) | 38 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 0.1 MB | 2026-07-28 |
 | [ASCII Capture](https://www.glaze.app/app/KxyppG) | 36 | Convert photos into customizable ASCII art and export as images or SVG for web use | Yassine A | 1.0.1 | 0.2 MB | 2026-03-25 |
-| [Amber](https://www.glaze.app/app/vZzCwc) | 33 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 0.1 MB | 2026-07-28 |
 | [Airwave](https://www.glaze.app/app/4OhADX) | 28 | Your music, perfectly in tune | Scoop | 7.0.0 | 1.4 MB | 2026-07-26 |
 | [ACE](https://www.glaze.app/app/97rUBQ) | 27 | Teleprompter with live speaking support | Danial Siddiki | 3.0.0 | 6.9 MB | 2026-07-29 |
 | [App Manager](https://www.glaze.app/app/j7Tz2M) | 27 | Organize all your apps in one place | Mr Rajput | 1.0.0 | 0.1 MB | 2026-07-02 |
-| [App Screenshots](https://www.glaze.app/app/tpdPU6) | 26 | Create localized app store screenshots | Branik | 5.0.0 | 6.4 MB | 2026-07-24 |
+| [App Screenshots](https://www.glaze.app/app/tpdPU6) | 27 | Create localized app store screenshots | Branik | 5.0.0 | 6.4 MB | 2026-07-24 |
 | [Activity Monitor in Menubar](https://www.glaze.app/app/5HAQEi) | 25 | Monitor CPU, GPU, and memory usage | Anubhav Tyagi | 3.0.0 | 0.1 MB | 2026-06-29 |
 | [aiMessage](https://www.glaze.app/app/oEx7Rj) | 25 | Chat with AI, texting style | Thomas Paul Mann | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [ATLAS](https://www.glaze.app/app/ovPml8) | 24 | Learn Earth's geography interactively. | Cornelius | 3.0.0 | 0.1 MB | 2026-04-30 |
@@ -24,8 +24,8 @@
 | [Agent Dashboard](https://www.glaze.app/app/6cHyYB) | 18 | Visualize and track local agent activity | jasonbla | 5.0.0 | 0.1 MB | 2026-07-13 |
 | [App Library](https://www.glaze.app/app/EeU4Tr) | 18 | Organize, filter, and manage macOS apps | Bourne jason | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Air Monitor](https://www.glaze.app/app/9iA1yL) | 17 | Know your air quality right now | Jonathan.fusellier | 5.0.0 | 0.1 MB | 2026-07-26 |
+| [Apptopsy](https://www.glaze.app/app/kWwP7l) | 17 | See what's inside your apps | Pavlo Haidamak | 11.0.0 | 0.2 MB | 2026-07-31 |
 | [AudioRoute Pro](https://www.glaze.app/app/3Wmvmo) | 17 | Audio That Follows Your Workflow | Parth Parikh | 1.0.0 | 0.1 MB | 2026-06-19 |
-| [Apptopsy](https://www.glaze.app/app/kWwP7l) | 16 | See what's inside your apps | Pavlo Haidamak | 11.0.0 | 0.2 MB | 2026-07-31 |
 | [APEX](https://www.glaze.app/app/G9U92C) | 13 | All things Formula 1 | RSRK | 2.0.0 | 1.6 MB | 2026-07-28 |
 | [Agent Skills Manager](https://www.glaze.app/app/GhFNA9) | 12 | Manage AI coding-agent skills from one | Oryam Nehoray | 1.0.0 | 0.1 MB | 2026-07-21 |
 | [AI Radio Station](https://www.glaze.app/app/LUipMT) | 11 | AI radio station powered by your Spotify | Maxi | 1.0.0 | 0.6 MB | 2026-07-10 |
@@ -82,7 +82,7 @@
 | [Audio Glance](https://www.glaze.app/app/fzHAcI) | 1 | Monitor audio devices from menu bar | Felix Kaiser | 1.0.0 | 0.0 MB | 2026-06-18 |
 | [Audio Splice](https://www.glaze.app/app/9UnhpT) | 1 | Merge audio files with markers | Davidestevens | 3.0.0 | 23.1 MB | 2026-07-16 |
 | [AudioBook Builder](https://www.glaze.app/app/eOM0Mt) | 1 | Audio to Apple Audiobook Converter | Ivane Shaishmelashvili | 1.0.0 | 0.1 MB | 2026-07-25 |
-| [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 1 | Preview, organize, and export audio | Davidestevens | 7.0.0 | 0.1 MB | 2026-07-30 |
+| [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 1 | Preview, organize, and export audio | Davidestevens | 8.0.0 | 0.1 MB | 2026-07-31 |
 | [AudioPair](https://www.glaze.app/app/DKqhsm) | 1 | Auto-connect and route audio | Erik | 3.0.0 | 0.1 MB | 2026-07-02 |
 | [Autopilot](https://www.glaze.app/app/c7aV6t) | 1 | Auto-fix GitHub PRs with AI review | Vladimirkorolev0 | 1.0.0 | 0.1 MB | 2026-06-28 |
 | [Aegis](https://www.glaze.app/app/lr6s0B) | 0 | Review Solidity before attackers do | Mustapha Alex | 1.0.0 | 0.1 MB | 2026-07-28 |

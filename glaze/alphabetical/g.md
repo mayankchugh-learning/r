@@ -6,8 +6,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Gesture Launch](https://www.glaze.app/app/74q23g) | 222 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 0.1 MB | 2026-05-14 |
-| [Glaze Playground](https://www.glaze.app/app/vE1ZTK) | 91 | Play Glaze components and APIs visually | LitoMore | 5.0.0 | 0.1 MB | 2026-07-01 |
+| [Gesture Launch](https://www.glaze.app/app/74q23g) | 223 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 0.1 MB | 2026-05-14 |
+| [Glaze Playground](https://www.glaze.app/app/vE1ZTK) | 92 | Play Glaze components and APIs visually | LitoMore | 5.0.0 | 0.1 MB | 2026-07-01 |
 | [Glaze](https://www.glaze.app/app/5SiZjz) | 35 | Create mesmerizing audio-reactive 3D ribbon visualizations with interactive controls | Dhruv Suthar | 4.0.1 | 0.9 MB | 2026-03-18 |
 | [Gradient Wallpaper](https://www.glaze.app/app/AJuY62) | 32 | Custom gradients for every screen | Adam Molina | 1.0.0 | 0.1 MB | 2026-05-08 |
 | [Glint](https://www.glaze.app/app/PcFJPH) | 21 | Messages – without the mess | Henri Chabrand | 1.0.0 | 14.0 MB | 2026-07-25 |
@@ -51,7 +51,7 @@
 | [GlazeWallet](https://www.glaze.app/app/iG5Vh7) | 2 | Your favorite macOS desktop wallet | DruxAMB | 4.0.0 | 1.7 MB | 2026-07-28 |
 | [Go Links Manager](https://www.glaze.app/app/k7PWdn) | 2 | Manage your URL shortcuts and aliases | Rodrigo.Medina.Neri | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Good Finds](https://www.glaze.app/app/kD0iH7) | 2 | Curate and share your favorite | Eason Bao | 2.0.0 | 0.1 MB | 2026-07-07 |
-| [Google Maps Photo Extractor](https://www.glaze.app/app/google-maps-photo-extractor-3kUVKM) | 2 | Download Google Maps photos in high | Alfredo Martínez Ramírez | 2.0.0 | 0.1 MB | 2026-07-29 |
+| [Google Maps Photo Extractor](https://www.glaze.app/app/3kUVKM) | 2 | Download Google Maps photos in high | Alfredo Martínez Ramírez | 2.0.0 | 0.1 MB | 2026-07-29 |
 | [GTA VI Countdown](https://www.glaze.app/app/Kt399L) | 2 | Almost time to revist Vice City | Jac Peregrine-Davies | 1.0.0 | 0.0 MB | 2026-07-07 |
 | [Game Forge](https://www.glaze.app/app/k4zJoK) | 1 | Build real games without coding | credesasq | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Game Plan](https://www.glaze.app/app/DPqVNc) | 1 | All your games, one calendar | Sean Quinn | 1.0.0 | 0.1 MB | 2026-05-04 |

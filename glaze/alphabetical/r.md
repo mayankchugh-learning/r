@@ -7,11 +7,11 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [ray.fm](https://www.glaze.app/app/Af8oi9) | 837 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 262 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 278 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
 | [Reading Corner](https://www.glaze.app/app/k3tfty) | 236 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 0.8 MB | 2026-07-19 |
 | [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 109 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 0.1 MB | 2026-07-20 |
 | [Repo Scout](https://www.glaze.app/app/repo-scout-P3pbfd) | 102 | Discover and manage git repos | Yiwei Ho | 6.0.0 | 0.1 MB | 2026-07-07 |
-| [Raycast Maze](https://www.glaze.app/app/raycast-maze-Meh4qI) | 87 | Explore Raycast through interactive | 騎山豬跑山 | 1.0.0 | 1.1 MB | 2026-04-15 |
+| [Raycast Maze](https://www.glaze.app/app/raycast-maze-Meh4qI) | 88 | Explore Raycast through interactive | 騎山豬跑山 | 1.0.0 | 1.1 MB | 2026-04-15 |
 | [Raycast Events Map](https://www.glaze.app/app/kGKUOU) | 26 | See Raycast's company events on a map with locations and event details at a glance. You can also go on a virtual world tour. | Beth Staff | 5.0.1 | 0.9 MB | 2026-03-20 |
 | [Rams Radio](https://www.glaze.app/app/hefCaI) | 21 | Listen to your favorite stations anytime | Ivo Fonseca | 2.0.0 | 0.3 MB | 2026-07-27 |
 | [Reminders in Menubar](https://www.glaze.app/app/NvSEbg) | 20 | Access apple reminders from your menubar | Anubhav Tyagi | 2.0.0 | 0.1 MB | 2026-06-29 |

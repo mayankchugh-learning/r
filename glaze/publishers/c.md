@@ -12,7 +12,7 @@
 | Cameron Schroeder | 1 | 3 | [Quill](https://www.glaze.app/app/c9aP8w) *(Productivity)* |
 | ccmxigua | 1 | 6 | [Scholar](https://www.glaze.app/app/V6uTQV) *(Productivity)* |
 | Cezar | 2 | 1 | [ClearCall](https://www.glaze.app/app/uhHWh8) *(Utilities)*, [Input Guard](https://www.glaze.app/app/ymBx6p) *(Utilities)* |
-| cg crew | 1 | 4 | [Dayshift](https://www.glaze.app/app/an3PsD) *(Utilities)* |
+| cg crew | 1 | 5 | [Dayshift](https://www.glaze.app/app/an3PsD) *(Utilities)* |
 | Ch1rag | 2 | 60 | [Trend Builder](https://www.glaze.app/app/ApW3oA) *(Developer Tools)*, [Webhook Hub](https://www.glaze.app/app/He88jf) *(Developer Tools)* |
 | champv 12 | 1 | 16 | [Codex Usage Tracker](https://www.glaze.app/app/x3iNod) *(Developer Tools)* |
 | Charles Ji | 1 | 1 | [Conference Hub](https://www.glaze.app/app/mZEeCf) *(Productivity)* |

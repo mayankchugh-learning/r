@@ -8,11 +8,11 @@
 | --- | --- | --- | --- |
 | Yacolate | 1 | 7 | [Port Sense](https://www.glaze.app/app/Wu4nA6) *(Developer Tools)* |
 | yafyx | 1 | 2 | [Junimo](https://www.glaze.app/app/BsttxH) *(Utilities)* |
-| Yahir Rivera | 2 | 14 | [KeyFlow](https://www.glaze.app/app/SgQPcc) *(Developer Tools)*, [Screen Time Tracker](https://www.glaze.app/app/qBK9pU) *(Productivity)* |
+| Yahir Rivera | 2 | 15 | [KeyFlow](https://www.glaze.app/app/SgQPcc) *(Developer Tools)*, [Screen Time Tracker](https://www.glaze.app/app/qBK9pU) *(Productivity)* |
 | Yahya | 1 | 6 | [Markdown Studio](https://www.glaze.app/app/USIGGW) *(Productivity)* |
 | [Yan Frossard](./id/yan-frossard.md) | 4 | 9 | [see all 4 →](./id/yan-frossard.md) |
 | Yan Hladchenko | 1 | 7 | [Rolls](https://www.glaze.app/app/Lqc3eM) *(Media)* |
-| Yann-Edern Gillet | 3 | 526 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) *(Utilities)*, [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) *(Productivity)*, [Breakout Dock](https://www.glaze.app/app/EEcNPI) *(Games & Fun)* |
+| Yann-Edern Gillet | 3 | 544 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) *(Utilities)*, [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) *(Productivity)*, [Breakout Dock](https://www.glaze.app/app/EEcNPI) *(Games & Fun)* |
 | Yaroslav Vovchenko | 1 | 1 | [Voyageur - AI Travel Companion](https://www.glaze.app/app/5E6b7O) *(Productivity)* |
 | Yaseenmb11 | 1 | 11 | [Lil finder](https://www.glaze.app/app/FDsxpL) *(Utilities)* |
 | Yash | 1 | 2 | [World Time](https://www.glaze.app/app/HDtRH3) *(Productivity)* |
@@ -20,7 +20,7 @@
 | Yassine A | 1 | 36 | [ASCII Capture](https://www.glaze.app/app/KxyppG) *(Design)* |
 | Ybmontez | 1 | 10 | [Hydrate](https://www.glaze.app/app/BwkTSV) *(Lifestyle)* |
 | yelo cole | 1 | 6 | [Astral Guide](https://www.glaze.app/app/4Z7QVe) *(Lifestyle)* |
-| [Yeshe](./id/yeshe.md) | 5 | 33 | [see all 5 →](./id/yeshe.md) |
+| [Yeshe](./id/yeshe.md) | 5 | 34 | [see all 5 →](./id/yeshe.md) |
 | Yiwei Ho | 2 | 105 | [Repo Scout](https://www.glaze.app/app/repo-scout-P3pbfd) *(Developer Tools)*, [Meta Inspector](https://www.glaze.app/app/bjRu3f) *(Developer Tools)* |
 | Yossi Zahn | 1 | 3 | [Repo Pulse](https://www.glaze.app/app/0o8uwf) *(Developer Tools)* |
 | Youssef Tarek | 1 | 15 | [Notepad](https://www.glaze.app/app/BUoXPe) *(Productivity)* |

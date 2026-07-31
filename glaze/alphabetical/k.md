@@ -11,8 +11,8 @@
 | [Kalcy](https://www.glaze.app/app/gSzJCA) | 14 | Do math with natural language, instantly | Shivraj Roy | 3.0.0 | 0.3 MB | 2026-07-27 |
 | [Keep](https://www.glaze.app/app/M2eK2r) | 10 | Native Google Keep with offline access | Andy Zhu | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [KeyLock](https://www.glaze.app/app/cB6pzV) | 10 | Lock keyboard and clean your keyboard. | Suvesh Moza | 1.0.0 | 0.1 MB | 2026-07-14 |
+| [KeyFlow](https://www.glaze.app/app/SgQPcc) | 9 | Design and organize keyboard shortcuts | Yahir Rivera | 2.0.0 | 0.1 MB | 2026-07-23 |
 | [Kept](https://www.glaze.app/app/FtwSCJ) | 8 | Your memory, offloaded | Mati from Kavaju Resa | 11.0.0 | 0.4 MB | 2026-07-28 |
-| [KeyFlow](https://www.glaze.app/app/SgQPcc) | 8 | Design and organize keyboard shortcuts | Yahir Rivera | 2.0.0 | 0.1 MB | 2026-07-23 |
 | [Keyboard Lock](https://www.glaze.app/app/X6GQGk) | 7 | Lock your keyboard and trackpad. | Marcus do Nascimento | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [KVF](https://www.glaze.app/app/fs0rfD) | 6 | Stream live TV and radio from KVF | Steingrím Ósá | 5.0.0 | 0.1 MB | 2026-07-27 |
 | [Kanban Board](https://www.glaze.app/app/Z4sDK3) | 5 | Visualize your workflow in columns | 荒井翔 | 1.0.0 | 0.1 MB | 2026-07-08 |

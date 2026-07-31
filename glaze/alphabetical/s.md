@@ -2,13 +2,13 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-186 apps · [← Glaze catalog](../README.md)
+187 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 399 | Never lose track of what you pay for | Khalid Hasan Zibon | 4.0.0 | 0.1 MB | 2026-07-29 |
+| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 400 | Never lose track of what you pay for | Khalid Hasan Zibon | 4.0.0 | 0.1 MB | 2026-07-29 |
 | [Sweep](https://www.glaze.app/app/308emF) | 276 | Tinder for deleting files | melvin | 7.0.0 | 0.1 MB | 2026-07-17 |
-| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 192 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 0.1 MB | 2026-07-09 |
+| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 193 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 0.1 MB | 2026-07-09 |
 | [Sky Tracker](https://www.glaze.app/app/sky-tracker-azKgA5) | 80 | Track every plane in the sky, live | Yukai Huang | 2.0.0 | 0.3 MB | 2026-04-21 |
 | [Silly Sounds](https://www.glaze.app/app/e8Qzum) | 77 | Play hilarious sound effects at the tap of a button for instant entertainment | Thomas Paul Mann | 1.0.1 | 0.6 MB | 2026-03-05 |
 | [Shader](https://www.glaze.app/app/4kgfQf) | 58 | Visualize real-time shadows from mountains, buildings, and trees at any location, date, and time | Samuel Kraft | 3.0.1 | 1.1 MB | 2026-03-06 |
@@ -20,8 +20,8 @@
 | [Slackify](https://www.glaze.app/app/pDgHRA) | 33 | Convert any format into Slack messages | Ryan Rich | 1.0.0 | 0.0 MB | 2026-06-08 |
 | [Skim](https://www.glaze.app/app/vEYysi) | 31 | Summarize and learn more from videos | Cornelius | 1.0.0 | 0.3 MB | 2026-05-01 |
 | [Step Guide](https://www.glaze.app/app/58NLvW) | 29 | Execute workflows one step at a time | Bakari Chavanu | 1.0.0 | 0.1 MB | 2026-06-28 |
+| [Summer](https://www.glaze.app/app/summer-wcQqT0) | 29 | Quick tasks. Adorable cat. Pure focus | Steven Shoemaker | 3.0.0 | 0.1 MB | 2026-04-25 |
 | [SHADER~1.EXE](https://www.glaze.app/app/5hYFKQ) | 28 | ShaderToy-inspired shader editor | João Neves | 18.0.0 | 1.1 MB | 2026-06-08 |
-| [Summer](https://www.glaze.app/app/summer-wcQqT0) | 28 | Quick tasks. Adorable cat. Pure focus | Steven Shoemaker | 3.0.0 | 0.1 MB | 2026-04-25 |
 | [seesaw](https://www.glaze.app/app/YRdevl) | 27 | visualize your app usage | Elizabeth Lin | 1.0.0 | 0.1 MB | 2026-05-02 |
 | [Shader Walls](https://www.glaze.app/app/r63Yjl) | 27 | Generate dynamic shader wallpapers | extrastu | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [SSH Connect](https://www.glaze.app/app/e6UHlE) | 26 | Manage SSH connections with ease | jpmm21 | 3.0.0 | 1.3 MB | 2026-06-12 |
@@ -166,6 +166,8 @@
 | [Shark](https://www.glaze.app/app/svB120) | 1 | Instant terminal at your fingertips | hgg end | 1.0.0 | 14.9 MB | 2026-07-29 |
 | [Sift](https://www.glaze.app/app/FiPFKv) | 1 | Select the signal. Sift the system. | Damilolamustaphaa | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Sit Stand Buddy](https://www.glaze.app/app/ZcmHvQ) | 1 | Move more, sit less, feel better at work | Nelson Mendes | 2.0.0 | 0.1 MB | 2026-07-16 |
+| [Skrim](https://www.glaze.app/app/skrim-hHjG9l) | 1 | Read at your own pace, your way. | Dany С | 1.0.0 | 0.1 MB | 2026-07-30 |
+| [Sleepwalker](https://www.glaze.app/app/sleepwalker-Twm2r3) | 1 | Keep your Mac awake for your agents | Léo Tuil | 2.0.0 | 0.1 MB | 2026-07-31 |
 | [SLICE](https://www.glaze.app/app/eFPisy) | 1 | Slice your pics | melvin | 1.0.0 | 0.1 MB | 2026-07-14 |
 | [Slumber](https://www.glaze.app/app/BJGDDY) | 1 | Set a sleep timer and fade to black | Thorpemeister | 1.0.0 | 0.1 MB | 2026-06-22 |
 | [SnapVault](https://www.glaze.app/app/be1HUR) | 1 | Search screenshots with natural language | Berenger Zantangni | 1.0.0 | 0.1 MB | 2026-07-25 |
@@ -187,7 +189,6 @@
 | [Shogi Viewer](https://www.glaze.app/app/E1Wkdy) | 0 | View and analyze shogi game records | 増井敏克 | 1.0.0 | 0.1 MB | 2026-06-27 |
 | [SitBreak](https://www.glaze.app/app/eJ9cEO) | 0 | Sit and stand throughout your workday | Felix Lyu | 2.0.0 | 0.1 MB | 2026-07-04 |
 | [Site Builder (ALPHA BUILD)](https://www.glaze.app/app/ZgNa80) | 0 | Build real websites without coding | credesasq | 1.0.0 | 0.1 MB | 2026-07-26 |
-| [Skrim](https://www.glaze.app/app/skrim-hHjG9l) | 0 | Read at your own pace, your way. | Dany С | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [Social Hub](https://www.glaze.app/app/yMQLG8) | 0 | Seamless social dock for Mac | KIN HEI SHING | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [Sports Minute](https://www.glaze.app/app/cggXCg) | 0 | Sports scores and news for your teams | William Finkel | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [StingDeck](https://www.glaze.app/app/t4LGgz) | 0 | Stingray Music At Your Fingertips | Tod Maffin | 1.0.0 | 0.0 MB | 2026-07-22 |

@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Mooboard](https://www.glaze.app/app/dqGeIk) | 49 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
+| [Mooboard](https://www.glaze.app/app/dqGeIk) | 52 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
 | [Slash](https://www.glaze.app/app/5TheyF) | 25 | Slash – the first DO app | Aleksey Bykhun | 1.0.0 | 0.1 MB | 2026-04-29 |
 | [Onionskin](https://www.glaze.app/app/ZaTZYW) | 8 | A notebook that behaves like a notebook | Geoff Silva | 4.0.0 | 2.0 MB | 2026-07-24 |
 | [Links Kanban](https://www.glaze.app/app/Fk71ao) | 6 | Simple Raindrop + Jira bookmarks manager | Eldar Khuzin | 1.0.0 | 0.2 MB | 2026-06-12 |

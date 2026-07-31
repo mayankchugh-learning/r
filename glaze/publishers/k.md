@@ -17,7 +17,7 @@
 | Kartik | 1 | 42 | [Claude Usage](https://www.glaze.app/app/Iz8ofo) *(Developer Tools)* |
 | Kaushik Sivakumar | 1 | 10 | [Large Files](https://www.glaze.app/app/tsKCTY) *(Utilities)* |
 | Kaustav Das Biswas | 1 | 3 | [Pocket Watch](https://www.glaze.app/app/Ct96il) *(Utilities)* |
-| Kaylen Castle | 1 | 6 | [Overtype](https://www.glaze.app/app/PKj6yw) *(Design)* |
+| Kaylen Castle | 1 | 7 | [Overtype](https://www.glaze.app/app/PKj6yw) *(Design)* |
 | Kazuhiro Hashimoto | 1 | 7 | [Sparkle Cam](https://www.glaze.app/app/OZYpKC) *(Media)* |
 | Ke Xiong | 1 | 2 | [Sleep Time](https://www.glaze.app/app/GJ8DEd) *(Utilities)* |
 | Keenan Pinto | 1 | 1 | [Forecast](https://www.glaze.app/app/wf3MSH) *(Productivity)* |
@@ -26,7 +26,7 @@
 | Kenworthe | 1 | 0 | [Realistic Cat Owner Simulator](https://www.glaze.app/app/bZ5OSN) *(Productivity)* |
 | Kevin | 2 | 2 | [Reminders Menu](https://www.glaze.app/app/zCOORx) *(Productivity)*, [Earn Counter](https://www.glaze.app/app/0ZZmuF) *(Productivity)* |
 | Kevin Rodgers | 1 | 4 | [Vinyl Vault](https://www.glaze.app/app/n2HZ3b) *(Utilities)* |
-| Khalid Hasan Zibon | 1 | 399 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) *(Productivity)* |
+| Khalid Hasan Zibon | 1 | 400 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) *(Productivity)* |
 | Kieran McGrady | 1 | 5 | [MP3PLAYER](https://www.glaze.app/app/HZazF0) *(Media)* |
 | Kim Nehzaty | 1 | 5 | [Bondfire](https://www.glaze.app/app/g9yKcF) *(Lifestyle)* |
 | KIN HEI SHING | 1 | 0 | [Social Hub](https://www.glaze.app/app/yMQLG8) *(Productivity)* |

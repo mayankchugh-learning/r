@@ -1,14 +1,14 @@
 # Design
 
-93 apps · 1,503 installs · [← all categories](../README.md)
+93 apps · 1,525 installs · [← all categories](../README.md)
 
 ## Visual Elements
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Color & Palettes](./color-palettes.md) | 30 | 561 |
-| [Fonts & Typography](./fonts-typography.md) | 7 | 185 |
-| [Icons & Logos](./icons-logos.md) | 9 | 184 |
+| [Color & Palettes](./color-palettes.md) | 30 | 579 |
+| [Fonts & Typography](./fonts-typography.md) | 7 | 187 |
+| [Icons & Logos](./icons-logos.md) | 9 | 185 |
 
 ## Create & Capture
 
@@ -22,7 +22,7 @@
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Boards & Inspiration](./boards-inspiration.md) | 4 | 38 |
+| [Boards & Inspiration](./boards-inspiration.md) | 4 | 39 |
 | [Layout & Planning](./layout-planning.md) | 2 | 34 |
 
 ## Discovered topics ✦

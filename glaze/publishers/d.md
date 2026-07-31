@@ -12,7 +12,7 @@
 | Daisy Tian | 1 | 0 | [Emotion Garden](https://www.glaze.app/app/t8jW3j) *(Lifestyle)* |
 | Damilolamustaphaa | 1 | 1 | [Sift](https://www.glaze.app/app/FiPFKv) *(Design)* |
 | Danial Siddiki | 1 | 27 | [ACE](https://www.glaze.app/app/97rUBQ) *(Productivity)* |
-| [Daniel](./id/daniel.md) | 4 | 16 | [see all 4 →](./id/daniel.md) |
+| [Daniel](./id/daniel.md) | 4 | 17 | [see all 4 →](./id/daniel.md) |
 | Daniel Calmon | 1 | 1 | [Breakaway](https://www.glaze.app/app/mGV0jt) *(Media)* |
 | Daniel Fry | 1 | 3 | [GitHub Pulse](https://www.glaze.app/app/oFScU5) *(Developer Tools)* |
 | Daniel Hollick | 1 | 206 | [Image Converter](https://www.glaze.app/app/XzP6Ry) *(Utilities)* |
@@ -21,7 +21,7 @@
 | Daniele Avitabile | 1 | 3 | [Neovim Notes](https://www.glaze.app/app/35eP2I) *(Productivity)* |
 | Danieljgilmore11 | 1 | 3 | [Recall](https://www.glaze.app/app/jSrchg) *(Productivity)* |
 | Dankay | 1 | 3 | [Shelf](https://www.glaze.app/app/VOwCXA) *(Media)* |
-| Dany С | 1 | 0 | [Skrim](https://www.glaze.app/app/skrim-hHjG9l) *(Productivity)* |
+| Dany С | 1 | 1 | [Skrim](https://www.glaze.app/app/skrim-hHjG9l) *(Productivity)* |
 | Danylo Zalizchuk | 1 | 12 | [Command X](https://www.glaze.app/app/rKoO7f) *(Utilities)* |
 | Dariusz Sułtanowski | 1 | 2 | [Soloeer](https://www.glaze.app/app/LFSfH8) *(Productivity)* |
 | DARREN BERICH | 1 | 7 | [LogicVoice](https://www.glaze.app/app/uWbUe9) *(Utilities)* |
@@ -59,7 +59,7 @@
 | Deyan Todorov | 1 | 3 | [Road Rules](https://www.glaze.app/app/GizaoN) *(Productivity)* |
 | DFLAME | 1 | 22 | [Meridian](https://www.glaze.app/app/PqegNZ) *(Lifestyle)* |
 | Dheeraj Marda | 1 | 0 | [Vouch](https://www.glaze.app/app/h1Qlmk) *(Utilities)* |
-| [Dhruv Suthar](./id/dhruv-suthar.md) | 16 | 475 | [see all 16 →](./id/dhruv-suthar.md) |
+| [Dhruv Suthar](./id/dhruv-suthar.md) | 16 | 476 | [see all 16 →](./id/dhruv-suthar.md) |
 | Diana Durkota | 1 | 8 | [Loud - Better Activity Monitor](https://www.glaze.app/app/kW6Bh5) *(Utilities)* |
 | Diana García | 1 | 3 | [YUME](https://www.glaze.app/app/MlguKz) *(Productivity)* |
 | DIba | 1 | 2 | [RecallOS](https://www.glaze.app/app/Iw6iZz) *(Productivity)* |
@@ -70,7 +70,7 @@
 | Dipanjan Roy | 1 | 3 | [Notex](https://www.glaze.app/app/gR2sUk) *(Productivity)* |
 | discountry | 1 | 4 | [MenuTune](https://www.glaze.app/app/dg8YWS) *(Media)* |
 | Dmitrii Verv | 1 | 4 | [Meanwhile](https://www.glaze.app/app/u3xmpq) *(Productivity)* |
-| Dmitry Novikov | 1 | 172 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
+| Dmitry Novikov | 1 | 175 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
 | [Dmytro Lobov](./id/dmytro-lobov.md) | 16 | 75 | [see all 16 →](./id/dmytro-lobov.md) |
 | Dmytro Shevchenko | 1 | 2 | [DoseTail](https://www.glaze.app/app/malQjQ) *(Utilities)* |
 | Dominik Keller | 1 | 9 | [Cache](https://www.glaze.app/app/kBv5VM) *(Productivity)* |

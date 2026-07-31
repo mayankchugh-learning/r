@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [SHADER~1.EXE](https://www.glaze.app/app/5hYFKQ) | 28 | ShaderToy-inspired shader editor | João Neves | 18.0.0 | 1.1 MB | 2026-06-08 |
-| [Apptopsy](https://www.glaze.app/app/kWwP7l) | 16 | See what's inside your apps | Pavlo Haidamak | 11.0.0 | 0.2 MB | 2026-07-31 |
+| [Apptopsy](https://www.glaze.app/app/kWwP7l) | 17 | See what's inside your apps | Pavlo Haidamak | 11.0.0 | 0.2 MB | 2026-07-31 |
 | [PromptPocket](https://www.glaze.app/app/8alvwL) | 12 | Your notes, always at your fingertips | Rich Washburn | 6.0.0 | 0.9 MB | 2026-07-13 |
 | [Only](https://www.glaze.app/app/otSeMd) | 9 | Share the point, not your screen. | Tim | 1.0.0 | 13.8 MB | 2026-07-28 |
 | [SEOInspector](https://www.glaze.app/app/FwJNp5) | 9 | Every SEO check your site needs | Dmytro Lobov | 7.0.0 | 0.7 MB | 2026-07-29 |

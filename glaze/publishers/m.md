@@ -42,7 +42,7 @@
 | Markus Käding | 1 | 3 | [What should I play?](https://www.glaze.app/app/ZzCJLk) *(Games & Fun)* |
 | Martin Gorol | 2 | 5 | [Last Call](https://www.glaze.app/app/U5pAi1) *(Productivity)*, [Kobako](https://www.glaze.app/app/3ZijTd) *(Productivity)* |
 | Martin Mikušát | 1 | 1 | [hw_branches](https://www.glaze.app/app/ypu7uw) *(Productivity)* |
-| Martin Nystrom | 1 | 9 | [Inkling](https://www.glaze.app/app/3hA871) *(Productivity)* |
+| Martin Nystrom | 1 | 10 | [Inkling](https://www.glaze.app/app/3hA871) *(Productivity)* |
 | Martin Sedláček | 1 | 1 | [Tempo Track](https://www.glaze.app/app/uo8WCc) *(Developer Tools)* |
 | Martin.Enzinger | 1 | 6 | [Container](https://www.glaze.app/app/qRcAZy) *(Developer Tools)* |
 | Mary-Ann Horley | 1 | 1 | [Worksheet Tracker](https://www.glaze.app/app/RGmoKM) *(Productivity)* |
@@ -58,7 +58,7 @@
 | Maxim B | 1 | 4 | [Bubble Break](https://www.glaze.app/app/BixbZm) *(Games & Fun)* |
 | Maxime Le Bec | 1 | 1 | [FitPlan](https://www.glaze.app/app/1VCZdn) *(Productivity)* |
 | May Zhou | 1 | 9 | [snap sort](https://www.glaze.app/app/Ic87j0) *(Utilities)* |
-| Maya Avendaño | 1 | 262 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
+| Maya Avendaño | 1 | 278 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
 | mboeru | 1 | 1 | [TeamsToDeck Commands](https://www.glaze.app/app/5kyOs4) *(Productivity)* |
 | mcfoton | 1 | 2 | [Cabled](https://www.glaze.app/app/KRIVgd) *(Developer Tools)* |
 | Me | 1 | 6 | [Markdown Notes](https://www.glaze.app/app/myI9Nz) *(Productivity)* |

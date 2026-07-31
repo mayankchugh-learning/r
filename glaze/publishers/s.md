@@ -20,10 +20,10 @@
 | Sakino | 1 | 46 | [Subtotal](https://www.glaze.app/app/K0cZAJ) *(Developer Tools)* |
 | sakshi ranglani | 1 | 4 | [SKECHE](https://www.glaze.app/app/vUHlzf) *(Design)* |
 | Sam Parker | 1 | 9 | [Sheet Pro](https://www.glaze.app/app/1mqpDb) *(Productivity)* |
-| Sam Sitar | 1 | 4 | [Caption Craft](https://www.glaze.app/app/D4916q) *(Media)* |
+| Sam Sitar | 1 | 5 | [Caption Craft](https://www.glaze.app/app/D4916q) *(Media)* |
 | Sam Underwood | 1 | 5 | [Series Rename](https://www.glaze.app/app/yoYsjM) *(Utilities)* |
-| Sam.Minton | 1 | 26 | [Moodboard](https://www.glaze.app/app/0LJlsa) *(Design)* |
-| Sambit Biswas | 1 | 9 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) *(Design)* |
+| Sam.Minton | 1 | 27 | [Moodboard](https://www.glaze.app/app/0LJlsa) *(Design)* |
+| Sambit Biswas | 1 | 10 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) *(Design)* |
 | Samet Özkale | 1 | 2 | [Habit Periods](https://www.glaze.app/app/133jtm) *(Productivity)* |
 | [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,093 | [see all 7 →](./id/samuel-kraft.md) |
 | Samuel Lee | 1 | 12 | [Ludus](https://www.glaze.app/app/4RDpwn) *(Productivity)* |
@@ -90,7 +90,7 @@
 | [Steingrím Ósá](./id/steingr-m-s.md) | 5 | 24 | [see all 5 →](./id/steingr-m-s.md) |
 | Stephen Fang | 1 | 8 | [DevPal](https://www.glaze.app/app/ruf8ih) *(Developer Tools)* |
 | Steven Emmons | 1 | 1 | [Station Log](https://www.glaze.app/app/wdk0Cs) *(Productivity)* |
-| Steven Shoemaker | 1 | 28 | [Summer](https://www.glaze.app/app/summer-wcQqT0) *(Productivity)* |
+| Steven Shoemaker | 1 | 29 | [Summer](https://www.glaze.app/app/summer-wcQqT0) *(Productivity)* |
 | Stijn | 1 | 18 | [SVG Cleaner](https://www.glaze.app/app/i4NO8G) *(Developer Tools)* |
 | Stiven Orlando Triana | 1 | 3 | [La Galerie](https://www.glaze.app/app/zfoAhM) *(Design)* |
 | Subsaf | 1 | 7 | [Meeting Notes](https://www.glaze.app/app/0nerAv) *(Productivity)* |

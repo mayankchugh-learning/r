@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Typewriter](https://www.glaze.app/app/k9uymc) | 46 | Write freely, share instantly. | Beth Staff | 3.0.0 | 0.0 MB | 2026-04-28 |
-| [One Note](https://www.glaze.app/app/DhbXQo) | 39 | Leave a note on their Mac | Andrew Bondarenko | 3.0.0 | 0.1 MB | 2026-07-28 |
+| [One Note](https://www.glaze.app/app/DhbXQo) | 40 | Leave a note on their Mac | Andrew Bondarenko | 3.0.0 | 0.1 MB | 2026-07-28 |
 | [Mindmap](https://www.glaze.app/app/xpmGrN) | 22 | Think in bubbles. Visualize ideas! | Christian.kn | 1.0.0 | 0.1 MB | 2026-05-28 |
 | [Paperwork](https://www.glaze.app/app/7UkeE4) | 12 | Create documents visually, then export | João Neves | 2.0.0 | 5.6 MB | 2026-05-19 |
 | [nib](https://www.glaze.app/app/RJAlJp) | 7 | The app that refuses to write for you | James Jackson | 2.0.0 | 0.1 MB | 2026-07-27 |

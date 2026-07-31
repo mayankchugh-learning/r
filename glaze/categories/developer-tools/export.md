@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [App Screenshots](https://www.glaze.app/app/tpdPU6) | 26 | Create localized app store screenshots | Branik | 5.0.0 | 6.4 MB | 2026-07-24 |
+| [App Screenshots](https://www.glaze.app/app/tpdPU6) | 27 | Create localized app store screenshots | Branik | 5.0.0 | 6.4 MB | 2026-07-24 |
 | [CLIP IT](https://www.glaze.app/app/IhoT2V) | 18 | Record your screen. Ship it polished. | neromtoobad | 10.0.0 | 15.1 MB | 2026-07-27 |
 | [SVG Cleaner](https://www.glaze.app/app/i4NO8G) | 18 | Optimize SVGs in bulk | Stijn | 2.0.0 | 0.4 MB | 2026-07-13 |
 | [ScreenZer](https://www.glaze.app/app/RGUoDP) | 17 | Screen capture made simple. | Johann | 1.0.0 | 0.1 MB | 2026-05-20 |

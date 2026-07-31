@@ -6,8 +6,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 606 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 0.7 MB | 2026-05-26 |
-| [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 322 | Explore hotkey systems for Raycast | Alex Antonov | 2.0.0 | 0.1 MB | 2026-04-17 |
+| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 608 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 0.7 MB | 2026-05-26 |
+| [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 323 | Explore hotkey systems for Raycast | Alex Antonov | 2.0.0 | 0.1 MB | 2026-04-17 |
 | [Health Fusion](https://www.glaze.app/app/ikcWiD) | 67 | Your Apple Health & WHOOP data, unified. | Oliver Posselt | 2.0.0 | 0.2 MB | 2026-04-19 |
 | [Hackerfeed](https://www.glaze.app/app/f22UqI) | 41 | Browse Hacker News stories and comments in a streamlined, distraction-free interface | Michael Nielsen | 2.0.1 | 0.2 MB | 2026-03-04 |
 | [Hacker News Reader](https://www.glaze.app/app/6JMi6H) | 28 | Stay updated on tech news fast | Emilio Escobar | 2.0.0 | 0.1 MB | 2026-05-31 |

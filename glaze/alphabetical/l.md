@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 172 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
+| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 175 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
 | [Logos](https://www.glaze.app/app/QKNEHI) | 117 | Browse and explore brand logos | Pedro Duarte | 4.0.0 | 0.1 MB | 2026-07-27 |
 | [Le Tour Hub](https://www.glaze.app/app/t510tX) | 29 | Follow Tour de France 2026 | Jordan Amblin | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [Listly](https://www.glaze.app/app/G4AEnv) | 13 | Tasks organized, nothing forgotten | İlker Çalım | 3.0.0 | 0.1 MB | 2026-07-12 |
@@ -41,7 +41,7 @@
 | [La Galerie](https://www.glaze.app/app/zfoAhM) | 3 | The best Mac artwork visualizer. | Stiven Orlando Triana | 2.0.0 | 0.4 MB | 2026-07-27 |
 | [Last Call](https://www.glaze.app/app/U5pAi1) | 3 | Know when to stop coffee before bed | Martin Gorol | 7.0.0 | 0.5 MB | 2026-07-27 |
 | [Librarian](https://www.glaze.app/app/bLW0OB) | 3 | Calibre-compatible ebook library manager | RobM | 1.0.0 | 0.1 MB | 2026-07-04 |
-| [LinkChecker](https://www.glaze.app/app/qVMVv9) | 3 | Find broken links and bad redirects | Dmytro Lobov | 5.0.0 | 0.7 MB | 2026-07-22 |
+| [LinkChecker](https://www.glaze.app/app/qVMVv9) | 3 | Find broken links and bad redirects | Dmytro Lobov | 6.0.0 | 0.7 MB | 2026-07-31 |
 | [Long Play](https://www.glaze.app/app/Vzaw38) | 3 | Play long songs on your speaker | Pieter Moorman | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Lyricsmith](https://www.glaze.app/app/6dYvei) | 3 | Song-Writers Toolbox | Jeff Augustin | 1.0.0 | 0.3 MB | 2026-07-24 |
 | [LinkedIn Pulse](https://www.glaze.app/app/mC2jGB) | 2 | Optimize your LinkedIn growth strategy | Alistair4312 | 4.0.0 | 0.1 MB | 2026-07-23 |

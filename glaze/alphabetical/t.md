@@ -7,9 +7,9 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 0.4 MB | 2026-07-28 |
-| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 169 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
+| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 192 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
 | [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr) | 147 | Task planner | Nichlas Wærnes Andersen | 10.0.0 | 5.2 MB | 2026-07-19 |
-| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 86 | Your mac deserves a better dock | lexav | 9.0.0 | 0.1 MB | 2026-07-30 |
+| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 89 | Your mac deserves a better dock | lexav | 9.0.0 | 0.1 MB | 2026-07-30 |
 | [Tap Beats](https://www.glaze.app/app/uIyOY5) | 52 | Create music by tapping a grid-based trackpad with 12 buttons arranged in columns and rows | Vincent de Lagabbe | 2.0.1 | 0.2 MB | 2026-03-25 |
 | [Trend Builder](https://www.glaze.app/app/ApW3oA) | 49 | Build the app everyone’s searching for | Ch1rag | 6.0.0 | 0.8 MB | 2026-07-10 |
 | [Typewriter](https://www.glaze.app/app/k9uymc) | 46 | Write freely, share instantly. | Beth Staff | 3.0.0 | 0.0 MB | 2026-04-28 |
@@ -26,12 +26,12 @@
 | [Tomorrow](https://www.glaze.app/app/Cn6TXl) | 18 | Never lose your train of thought | Astral | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [TimeNow](https://www.glaze.app/app/2yQ3yc) | 17 | Display the current time with second-precision in a clean, straightforward interface. Has a pin feature to keep the window floating. Allows customisa… | Baran B | 2.0.1 | 0.3 MB | 2026-04-01 |
 | [TimeCapsule](https://www.glaze.app/app/vk8pxo) | 16 | Read Later, Organized Your Way | Tobias Bannwart | 28.0.0 | 8.9 MB | 2026-07-30 |
+| [Teleprompter](https://www.glaze.app/app/36pCwv) | 14 | Invisible teleprompter for on-screen | ankita singh | 2.0.0 | 0.1 MB | 2026-07-28 |
 | [Token Studio](https://www.glaze.app/app/QpotqD) | 14 | Create custom VS Code themes with live syntax highlighting | Samuel Kraft | 1.0.1 | 4.1 MB | 2026-03-23 |
 | [TopNotch Clipboard](https://www.glaze.app/app/M5owZ0) | 14 | Save & Organize Your Clipboard via Notch | Invictus | 2.0.0 | 0.1 MB | 2026-07-07 |
 | [Tube Float](https://www.glaze.app/app/RxZ5tQ) | 14 | Watch YouTube anywhere on your screen | John Kappa | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [Tailscale ACL Manager](https://www.glaze.app/app/qYaLsk) | 13 | Control your Tailscale network visually | Steingrím Ósá | 4.0.0 | 0.2 MB | 2026-07-02 |
 | [Taken](https://www.glaze.app/app/7ZhgBb) | 13 | Screen recorder for your 9th take. | Noman | 5.0.0 | 0.1 MB | 2026-07-23 |
-| [Teleprompter](https://www.glaze.app/app/36pCwv) | 13 | Invisible teleprompter for on-screen | ankita singh | 2.0.0 | 0.1 MB | 2026-07-28 |
 | [Talkie-Walkie](https://www.glaze.app/app/VR9tcY) | 12 | A Fun Walkie Talkie For Mac | vaibhav | 3.0.0 | 0.1 MB | 2026-07-25 |
 | [TaskFlow](https://www.glaze.app/app/EDczBf) | 10 | Save and complete tasks with delightful | Mads Terpelle | 2.0.0 | 0.1 MB | 2026-07-03 |
 | [Tempo](https://www.glaze.app/app/1m4pLi) | 9 | Focus with music and customizable timers | Akhil Konduru | 2.0.0 | 0.1 MB | 2026-07-05 |
@@ -127,7 +127,7 @@
 | [TippiTap](https://www.glaze.app/app/YPT013) | 1 | Unlock passwords through playful tapping | Glazeapp | 2.0.0 | 0.1 MB | 2026-07-24 |
 | [Touch Grass](https://www.glaze.app/app/HLpQnJ) | 1 | Less scrolling. More living. | Drained99 | 1.0.0 | 0.2 MB | 2026-07-25 |
 | [Touch Grass (UV Index)](https://www.glaze.app/app/hpowha) | 1 | Monitor UV levels and stay healthy | Marcus Wilter | 1.0.0 | 0.1 MB | 2026-07-29 |
+| [Type](https://www.glaze.app/app/bfSoRG) | 1 | Text without distraction | Yeshe | 3.0.0 | 0.1 MB | 2026-07-20 |
 | [Timer Tracker](https://www.glaze.app/app/a16qmM) | 0 | Track human effort across customers and | Ian Hsiao | 3.0.0 | 0.1 MB | 2026-07-23 |
 | [Trades Visualised](https://www.glaze.app/app/RmeBYY) | 0 | Visualize backtests offline, locally | Jules.Vdz13 | 1.0.0 | 0.3 MB | 2026-07-23 |
 | [Trivial Party](https://www.glaze.app/app/j7ebRx) | 0 | Quiz battles with your friends, anytime | Jeremy.Jacquemont | 1.0.0 | 0.3 MB | 2026-07-24 |
-| [Type](https://www.glaze.app/app/bfSoRG) | 0 | Text without distraction | Yeshe | 3.0.0 | 0.1 MB | 2026-07-20 |
