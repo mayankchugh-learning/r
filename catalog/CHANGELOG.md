@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-07-31 — upstream `7c4010acad`
+
+**Updated (3):** [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent), [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti), [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)
+
 ## 2026-07-31 — upstream `9c67f60b35`
 
 **Added (2):** [Clerk](https://github.com/raycast/extensions/tree/main/extensions/clerk), [Meeting Room Check](https://github.com/raycast/extensions/tree/main/extensions/meeting-room-check)

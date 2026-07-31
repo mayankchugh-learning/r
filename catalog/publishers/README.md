@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,083,459 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,083,559 |
 | 2 | [raycast](./id/raycast.md) | 11 | 775,576 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,808 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 484,995 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 652,920 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 485,099 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 431,974 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 426,912 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 401,973 |
@@ -539,7 +539,7 @@
 | 529 | [rafal_zawadzki](https://www.raycast.com/rafal_zawadzki) | 2 | 1,352 |
 | 530 | [beyond-code](https://www.raycast.com/beyond-code) | 1 | 1,349 |
 | 531 | [hakob_nersesian](https://www.raycast.com/hakob_nersesian) | 1 | 1,345 |
-| 532 | [TurboCoder13](https://www.raycast.com/TurboCoder13) | 3 | 1,341 |
+| 532 | [TurboCoder13](https://www.raycast.com/TurboCoder13) | 3 | 1,342 |
 | 533 | [karthik](https://www.raycast.com/karthik) | 1 | 1,341 |
 | 534 | [scottaglia](https://www.raycast.com/scottaglia) | 1 | 1,339 |
 | 535 | [naqet](https://www.raycast.com/naqet) | 1 | 1,335 |

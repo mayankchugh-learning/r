@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9c67f60b35245e09696d31e5b0579e66156f9b53",
-  "generatedAt": "2026-07-31T07:55:07.805Z",
-  "downloadsRefreshedAt": "2026-07-31T07:55:07.411Z",
+  "commit": "7c4010acad3590f2360209e9f2af53fca73bbacf",
+  "generatedAt": "2026-07-31T10:47:30.521Z",
+  "downloadsRefreshedAt": "2026-07-31T10:47:29.674Z",
   "count": 3135,
   "extensions": [
     {
@@ -9427,7 +9427,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 496551
+      "downloads": 496651
     },
     {
       "dir": "color-shades",
@@ -21319,7 +21319,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 484995
+      "downloads": 485099
     },
     {
       "dir": "google-chrome-profiles",
@@ -27555,7 +27555,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 652808
+      "downloads": 652920
     },
     {
       "dir": "kimai",
@@ -43684,7 +43684,7 @@
       "description": "Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow.",
       "author": "pernielsentikaer",
       "owner": null,
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "Media",
         "Developer Tools",
@@ -43697,7 +43697,7 @@
       ],
       "store": "https://www.raycast.com/pernielsentikaer/qbitorrent",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qbittorrent",
-      "treeSha": "2f419b3c41a82adb9aa84aebb607a55f2715ab16",
+      "treeSha": "aed8e39ba24e8fa5d174cfd75ca7f6ecc781b9f9",
       "downloads": 2681
     },
     {
@@ -58841,7 +58841,7 @@
       ],
       "store": "https://www.raycast.com/Barrybarrywu/tutti",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tutti",
-      "treeSha": "ff4ef5edc32cf7adf0e22b611fe1d73f9d0da488",
+      "treeSha": "793707aaa84b3f94d0a567a32bb9d3d931e52f0d",
       "downloads": 1
     },
     {
@@ -65871,8 +65871,8 @@
       ],
       "store": "https://www.raycast.com/TurboCoder13/zshrc-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager",
-      "treeSha": "7b5568f9966ad13865d944be26de33785687644f",
-      "downloads": 1330
+      "treeSha": "2be2e68f2f905264a9d3fadfe47e87de50ef8f88",
+      "downloads": 1331
     },
     {
       "dir": "zyntra",
