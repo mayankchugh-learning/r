@@ -35,7 +35,7 @@
 | Ahmet Güler | 1 | 10 | [Darkroom Studio](https://www.glaze.app/app/5aumRY) *(Media)* |
 | AI4Marketing | 1 | 0 | [AI4Marketing.cz](https://www.glaze.app/app/L82rD4) *(Productivity)* |
 | AJ Batac | 1 | 4 | [Kulay (Color)](https://www.glaze.app/app/bbzPPl) *(Design)* |
-| Ajay Odedra | 1 | 90 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
+| Ajay Odedra | 1 | 92 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
 | ajnart | 1 | 14 | [Wheel Launcher](https://www.glaze.app/app/SmYxn5) *(Productivity)* |
 | Ak Deepankar | 1 | 9 | [Mac Flow](https://www.glaze.app/app/FKfVNE) *(Design)* |
 | Akanbi Toheeb | 1 | 3 | [Cehua](https://www.glaze.app/app/osrdrz) *(Developer Tools)* |

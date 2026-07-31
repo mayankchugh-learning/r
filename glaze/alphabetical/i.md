@@ -29,10 +29,10 @@
 | [Image Editor](https://www.glaze.app/app/LjoEy3) | 2 | Edit, Crop, Resize, and Enhance photos | Anwarul Islam | 1.0.0 | 0.2 MB | 2026-07-25 |
 | [Image Joiner](https://www.glaze.app/app/PQbrzf) | 2 | Combine images automatically | Bowen Winter | 2.0.0 | 0.1 MB | 2026-07-04 |
 | [In Formation](https://www.glaze.app/app/hHqNpB) | 2 | Soccer formation designer | Bruno Reis | 1.0.0 | 0.3 MB | 2026-07-07 |
+| [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) | 2 | Smart Keep-Awake Utility for Developers | WebSmith | 2.0.0 | 0.1 MB | 2026-07-30 |
 | [Inspired](https://www.glaze.app/app/uNUgMN) | 2 | Capture ideas. Build with Inspiration | Nikki Nguyen | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [Items](https://www.glaze.app/app/9kLuYj) | 2 | One ID. Every tool. One clear picture. | Trevor Hall | 6.0.0 | 0.2 MB | 2026-07-30 |
 | [Indivisible](https://www.glaze.app/app/NNLHgC) | 1 | Find the nearest indivisible number | David.Tannenbaum | 1.0.0 | 0.1 MB | 2026-07-10 |
-| [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) | 1 | Smart Keep-Awake Utility for Developers | WebSmith | 2.0.0 | 0.1 MB | 2026-07-30 |
 | [IBAN Validator](https://www.glaze.app/app/8Bahfk) | 0 | Validate IBAN format locally | André | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [InCheck](https://www.glaze.app/app/TTPlNl) | 0 | Track transactions and account balance | Shop | 2.0.0 | 0.1 MB | 2026-07-29 |
 | [Input Guard](https://www.glaze.app/app/ymBx6p) | 0 | Prevent automatic mic change | Cezar | 2.0.0 | 0.1 MB | 2026-07-24 |

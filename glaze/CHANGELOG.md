@@ -4,6 +4,12 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-07-31
 
+**Added (1):** [Mono to Stereo](https://www.glaze.app/app/afMOfJ)
+
+**Blunder:** version 5.0.0 → 6.0.0
+
+## 2026-07-31
+
 **Added (1):** [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW)
 
 **Neovim Notes:** version 7.0.0 → 8.0.0

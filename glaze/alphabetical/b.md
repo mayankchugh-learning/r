@@ -41,7 +41,7 @@
 | [Briefed](https://www.glaze.app/app/pFXQt7) | 6 | Wake up, Get Briefed. | lagon20ms | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [BearMark](https://www.glaze.app/app/BhCTVn) | 5 | Markdown notes with Beeerr's simplicity | Hong Linh Vu | 1.0.0 | 0.3 MB | 2026-07-06 |
 | [Bitrate Inspector](https://www.glaze.app/app/K56QgJ) | 5 | Check audio bitrate in seconds | Ivo Tanev | 2.0.0 | 0.1 MB | 2026-07-18 |
-| [Blunder](https://www.glaze.app/app/0dUOLc) | 5 | Learn from your own mistakes. | Francesco Maisano | 5.0.0 | 6.4 MB | 2026-07-31 |
+| [Blunder](https://www.glaze.app/app/0dUOLc) | 5 | Learn from your own mistakes. | Francesco Maisano | 6.0.0 | 6.4 MB | 2026-07-31 |
 | [Bondfire](https://www.glaze.app/app/g9yKcF) | 5 | The cheat code for staying connected. | Kim Nehzaty | 3.0.0 | 0.2 MB | 2026-07-28 |
 | [Balance Sheet](https://www.glaze.app/app/qitbAW) | 4 | Track bills and projected balances | Matt Elliott | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [BatteryPulse](https://www.glaze.app/app/g1iPS4) | 4 | Real watts, measured. Not estimated. | Tommy Chiam | 2.0.0 | 0.1 MB | 2026-07-28 |

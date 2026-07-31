@@ -1,12 +1,12 @@
 # Productivity
 
-500 apps · 5,549 installs · [← all categories](../README.md)
+500 apps · 5,553 installs · [← all categories](../README.md)
 
 ## Plan & Organize
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Tasks & Projects](./tasks-projects/README.md) | 97 | 1,268 |
+| [Tasks & Projects](./tasks-projects/README.md) | 97 | 1,272 |
 | [Calendar & Time](./calendar-time/README.md) | 47 | 1,089 |
 | [Files & Organization](./files-organization.md) | 13 | 74 |
 

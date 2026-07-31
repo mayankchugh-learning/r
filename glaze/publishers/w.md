@@ -10,7 +10,7 @@
 | Waseem Ahmed | 1 | 0 | [Focus Lock](https://www.glaze.app/app/VU2t82) *(Productivity)* |
 | Wayne Betts Jr | 1 | 129 | [Zones](https://www.glaze.app/app/mHtfuc) *(Productivity)* |
 | wdchen | 1 | 4 | [Films](https://www.glaze.app/app/kZjYPm) *(Productivity)* |
-| WebSmith | 2 | 5 | [HyperFlow](https://www.glaze.app/app/eRwCvu) *(Productivity)*, [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) *(Developer Tools)* |
+| WebSmith | 2 | 6 | [HyperFlow](https://www.glaze.app/app/eRwCvu) *(Productivity)*, [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) *(Developer Tools)* |
 | Wei Su | 1 | 0 | [Libra](https://www.glaze.app/app/k9C0RU) *(Productivity)* |
 | [Werner Deuermeier](./id/werner-deuermeier.md) | 7 | 50 | [see all 7 →](./id/werner-deuermeier.md) |
 | Wesam Abuznadah | 2 | 15 | [Claude Meter](https://www.glaze.app/app/zyWYVY) *(Developer Tools)*, [Markdown Viewer & Editor](https://www.glaze.app/app/wj5i6Y) *(Developer Tools)* |

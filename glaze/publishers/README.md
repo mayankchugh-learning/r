@@ -31,8 +31,8 @@
 | 21 | Daniel Hollick | 1 | 206 |
 | 22 | @zenithquinn | 3 | 203 |
 | 23 | Petr Nikolaev | 1 | 197 |
-| 24 | Tuxu | 1 | 193 |
-| 25 | Noman | 2 | 191 |
+| 24 | Noman | 2 | 193 |
+| 25 | Tuxu | 1 | 193 |
 | 26 | Daniela Muntyan | 1 | 184 |
 | 27 | Dmitry Novikov | 1 | 175 |
 | 28 | LitoMore | 3 | 141 |
@@ -50,7 +50,7 @@
 | 40 | Christian Alares | 1 | 96 |
 | 41 | 騎山豬跑山 | 3 | 94 |
 | 42 | lexav | 2 | 92 |
-| 43 | Ajay Odedra | 1 | 90 |
+| 43 | Ajay Odedra | 1 | 92 |
 | 44 | Beth Staff | 3 | 89 |
 | 45 | gowhith kanisetty | 1 | 81 |
 | 46 | Adil Erchouk | 2 | 76 |
@@ -64,11 +64,11 @@
 | 54 | Rory Killingley | 2 | 63 |
 | 55 | Ch1rag | 2 | 60 |
 | 56 | [Johan Thorell](./id/johan-thorell.md) | 4 | 55 |
-| 57 | James Dawson | 1 | 54 |
-| 58 | Vincent de Lagabbe | 1 | 52 |
-| 59 | Bat the Cat | 3 | 51 |
-| 60 | [Werner Deuermeier](./id/werner-deuermeier.md) | 7 | 50 |
-| 61 | Víctor Navarro | 3 | 50 |
+| 57 | James Dawson | 1 | 55 |
+| 58 | Víctor Navarro | 3 | 52 |
+| 59 | Vincent de Lagabbe | 1 | 52 |
+| 60 | Bat the Cat | 3 | 51 |
+| 61 | [Werner Deuermeier](./id/werner-deuermeier.md) | 7 | 50 |
 | 62 | fra.raw | 1 | 47 |
 | 63 | Sakino | 1 | 47 |
 | 64 | Tim Van Damme | 1 | 46 |
@@ -438,7 +438,7 @@
 | 428 | Vira Tkachenko | 1 | 8 |
 | 429 | vr | 1 | 8 |
 | 430 | Yusuf Kınataş | 1 | 8 |
-| 431 | [Davidestevens](./id/davidestevens.md) | 4 | 7 |
+| 431 | [Davidestevens](./id/davidestevens.md) | 5 | 7 |
 | 432 | [lukrencijus](./id/lukrencijus.md) | 4 | 7 |
 | 433 | Amit Shinde | 2 | 7 |
 | 434 | Dennis Muensterer | 2 | 7 |
@@ -505,94 +505,94 @@
 | 495 | Kishan Dadhania | 2 | 6 |
 | 496 | Petar Yovkov | 2 | 6 |
 | 497 | Thorpemeister | 2 | 6 |
-| 498 | Adedoyin Emmanuel | 1 | 6 |
-| 499 | Akash Mondal | 1 | 6 |
-| 500 | Alison Bays | 1 | 6 |
-| 501 | Alvi Dervishaj | 1 | 6 |
-| 502 | Andrew Kerr | 1 | 6 |
-| 503 | Balu G Menon | 1 | 6 |
-| 504 | Benji Schwartz-Gilbert | 1 | 6 |
-| 505 | Bomakalu | 1 | 6 |
-| 506 | Caleb Tew | 1 | 6 |
-| 507 | ccmxigua | 1 | 6 |
-| 508 | Christos Bouronikos | 1 | 6 |
-| 509 | Daanbruins155 | 1 | 6 |
-| 510 | Davidleininger | 1 | 6 |
-| 511 | Dipangshu Roy | 1 | 6 |
-| 512 | Ed117 | 1 | 6 |
-| 513 | egor | 1 | 6 |
-| 514 | groremus | 1 | 6 |
-| 515 | Hittanshu Bhanderi | 1 | 6 |
-| 516 | Jake | 1 | 6 |
-| 517 | James Jeffery | 1 | 6 |
-| 518 | Jamie Wood | 1 | 6 |
-| 519 | Jaswanth | 1 | 6 |
-| 520 | Jirawat Thaenthong | 1 | 6 |
-| 521 | Jituiitm | 1 | 6 |
-| 522 | Jonathan Nyst | 1 | 6 |
-| 523 | lagon20ms | 1 | 6 |
-| 524 | Lori Collins | 1 | 6 |
-| 525 | Maik Klotz | 1 | 6 |
-| 526 | Martin.Enzinger | 1 | 6 |
-| 527 | Me | 1 | 6 |
-| 528 | Milo | 1 | 6 |
-| 529 | Mohamed Fauzaan | 1 | 6 |
-| 530 | Nick Lobeck | 1 | 6 |
-| 531 | Nick Radford | 1 | 6 |
-| 532 | Niharika pundlik | 1 | 6 |
-| 533 | Nitrous | 1 | 6 |
-| 534 | Oli ver | 1 | 6 |
-| 535 | Patrice Scheidt | 1 | 6 |
-| 536 | Ralbright | 1 | 6 |
-| 537 | Raph | 1 | 6 |
-| 538 | Roman Kyryliuk | 1 | 6 |
-| 539 | Rony Kati | 1 | 6 |
-| 540 | Ruslan Magzum | 1 | 6 |
-| 541 | Saeed Vaziry | 1 | 6 |
-| 542 | Samuel Monteiro | 1 | 6 |
-| 543 | Sasha Derivanov | 1 | 6 |
-| 544 | Saurishs1215 | 1 | 6 |
-| 545 | Scott Newbury | 1 | 6 |
-| 546 | Sepehr | 1 | 6 |
-| 547 | Shahin F | 1 | 6 |
-| 548 | Shane | 1 | 6 |
-| 549 | Taichi Hirano | 1 | 6 |
-| 550 | Thomas Jost | 1 | 6 |
-| 551 | Timothy Jones | 1 | 6 |
-| 552 | Tommy | 1 | 6 |
-| 553 | Vincent Grabowiecki (Triangles) | 1 | 6 |
-| 554 | xander | 1 | 6 |
-| 555 | Yahya | 1 | 6 |
-| 556 | yelo cole | 1 | 6 |
-| 557 | Zmikula | 1 | 6 |
-| 558 | Martin Gorol | 2 | 5 |
-| 559 | Mohammad Akteruzzaman | 2 | 5 |
-| 560 | Utkarsh Bhardwaj | 2 | 5 |
-| 561 | WebSmith | 2 | 5 |
-| 562 | X9 | 2 | 5 |
-| 563 | Ahmad Nurfadilah | 1 | 5 |
-| 564 | Alexander.K.Wright | 1 | 5 |
-| 565 | Alston Albarado | 1 | 5 |
-| 566 | Amit Desai | 1 | 5 |
-| 567 | Andrei Muntean | 1 | 5 |
-| 568 | Aseem Taneja | 1 | 5 |
-| 569 | ashing zheng | 1 | 5 |
-| 570 | Attila Suli | 1 | 5 |
-| 571 | BELUX | 1 | 5 |
-| 572 | Birzhan Abishev | 1 | 5 |
-| 573 | Bob Weisbecker | 1 | 5 |
-| 574 | Brent Hoover | 1 | 5 |
-| 575 | cg crew | 1 | 5 |
-| 576 | Denys | 1 | 5 |
-| 577 | Denys Chebotaiev | 1 | 5 |
-| 578 | Devzstudio | 1 | 5 |
-| 579 | Eitel Dagnin | 1 | 5 |
-| 580 | Emanuele Moricci | 1 | 5 |
-| 581 | Emk920 | 1 | 5 |
-| 582 | Francesco Maisano | 1 | 5 |
-| 583 | Han | 1 | 5 |
-| 584 | Hong Linh Vu | 1 | 5 |
-| 585 | Iamgregb | 1 | 5 |
+| 498 | WebSmith | 2 | 6 |
+| 499 | Adedoyin Emmanuel | 1 | 6 |
+| 500 | Akash Mondal | 1 | 6 |
+| 501 | Alison Bays | 1 | 6 |
+| 502 | Alvi Dervishaj | 1 | 6 |
+| 503 | Andrew Kerr | 1 | 6 |
+| 504 | Balu G Menon | 1 | 6 |
+| 505 | Benji Schwartz-Gilbert | 1 | 6 |
+| 506 | Bomakalu | 1 | 6 |
+| 507 | Caleb Tew | 1 | 6 |
+| 508 | ccmxigua | 1 | 6 |
+| 509 | Christos Bouronikos | 1 | 6 |
+| 510 | Daanbruins155 | 1 | 6 |
+| 511 | Davidleininger | 1 | 6 |
+| 512 | Dipangshu Roy | 1 | 6 |
+| 513 | Ed117 | 1 | 6 |
+| 514 | egor | 1 | 6 |
+| 515 | groremus | 1 | 6 |
+| 516 | Hittanshu Bhanderi | 1 | 6 |
+| 517 | Iamgregb | 1 | 6 |
+| 518 | Jake | 1 | 6 |
+| 519 | James Jeffery | 1 | 6 |
+| 520 | Jamie Wood | 1 | 6 |
+| 521 | Jaswanth | 1 | 6 |
+| 522 | Jirawat Thaenthong | 1 | 6 |
+| 523 | Jituiitm | 1 | 6 |
+| 524 | Jonathan Nyst | 1 | 6 |
+| 525 | lagon20ms | 1 | 6 |
+| 526 | Lori Collins | 1 | 6 |
+| 527 | Maik Klotz | 1 | 6 |
+| 528 | Martin.Enzinger | 1 | 6 |
+| 529 | Me | 1 | 6 |
+| 530 | Milo | 1 | 6 |
+| 531 | Mohamed Fauzaan | 1 | 6 |
+| 532 | Nick Lobeck | 1 | 6 |
+| 533 | Nick Radford | 1 | 6 |
+| 534 | Niharika pundlik | 1 | 6 |
+| 535 | Nitrous | 1 | 6 |
+| 536 | Oli ver | 1 | 6 |
+| 537 | Patrice Scheidt | 1 | 6 |
+| 538 | Ralbright | 1 | 6 |
+| 539 | Raph | 1 | 6 |
+| 540 | Roman Kyryliuk | 1 | 6 |
+| 541 | Rony Kati | 1 | 6 |
+| 542 | Ruslan Magzum | 1 | 6 |
+| 543 | Saeed Vaziry | 1 | 6 |
+| 544 | Samuel Monteiro | 1 | 6 |
+| 545 | Sasha Derivanov | 1 | 6 |
+| 546 | Saurishs1215 | 1 | 6 |
+| 547 | Scott Newbury | 1 | 6 |
+| 548 | Sepehr | 1 | 6 |
+| 549 | Shahin F | 1 | 6 |
+| 550 | Shane | 1 | 6 |
+| 551 | Taichi Hirano | 1 | 6 |
+| 552 | Thomas Jost | 1 | 6 |
+| 553 | Timothy Jones | 1 | 6 |
+| 554 | Tommy | 1 | 6 |
+| 555 | Vincent Grabowiecki (Triangles) | 1 | 6 |
+| 556 | xander | 1 | 6 |
+| 557 | Yahya | 1 | 6 |
+| 558 | yelo cole | 1 | 6 |
+| 559 | Zmikula | 1 | 6 |
+| 560 | Martin Gorol | 2 | 5 |
+| 561 | Mohammad Akteruzzaman | 2 | 5 |
+| 562 | Utkarsh Bhardwaj | 2 | 5 |
+| 563 | X9 | 2 | 5 |
+| 564 | Ahmad Nurfadilah | 1 | 5 |
+| 565 | Alexander.K.Wright | 1 | 5 |
+| 566 | Alston Albarado | 1 | 5 |
+| 567 | Amit Desai | 1 | 5 |
+| 568 | Andrei Muntean | 1 | 5 |
+| 569 | Aseem Taneja | 1 | 5 |
+| 570 | ashing zheng | 1 | 5 |
+| 571 | Attila Suli | 1 | 5 |
+| 572 | BELUX | 1 | 5 |
+| 573 | Birzhan Abishev | 1 | 5 |
+| 574 | Bob Weisbecker | 1 | 5 |
+| 575 | Brent Hoover | 1 | 5 |
+| 576 | cg crew | 1 | 5 |
+| 577 | Denys | 1 | 5 |
+| 578 | Denys Chebotaiev | 1 | 5 |
+| 579 | Devzstudio | 1 | 5 |
+| 580 | Eitel Dagnin | 1 | 5 |
+| 581 | Emanuele Moricci | 1 | 5 |
+| 582 | Emk920 | 1 | 5 |
+| 583 | Francesco Maisano | 1 | 5 |
+| 584 | Han | 1 | 5 |
+| 585 | Hong Linh Vu | 1 | 5 |
 | 586 | Ivan | 1 | 5 |
 | 587 | Jaladhi Pujara | 1 | 5 |
 | 588 | James Coy (JC) | 1 | 5 |

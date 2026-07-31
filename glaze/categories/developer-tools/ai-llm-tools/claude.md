@@ -38,5 +38,5 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Instant MCP](https://www.glaze.app/app/nYciYl) | 5 | Your local files, ready for Claude | Mamaswain1990 | 1.0.0 | 0.2 MB | 2026-07-28 |
-| [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) | 1 | Smart Keep-Awake Utility for Developers | WebSmith | 2.0.0 | 0.1 MB | 2026-07-30 |
+| [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) | 2 | Smart Keep-Awake Utility for Developers | WebSmith | 2.0.0 | 0.1 MB | 2026-07-30 |
 | [Vibemaxx](https://www.glaze.app/app/KpAO18) | 1 | Stop shipping flat UI. Start vibemaxxing | Rizal Ramadhan | 1.0.0 | 0.3 MB | 2026-07-28 |

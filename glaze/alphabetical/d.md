@@ -33,10 +33,10 @@
 | [Dispatch](https://www.glaze.app/app/zM8HY8) | 7 | Send writing to your Kindle instantly | Gareth Chainey | 1.0.0 | 0.6 MB | 2026-07-28 |
 | [DraftCalendar](https://www.glaze.app/app/wer6wS) | 7 | Plan, track, and improve your posts | Karlo König | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [Dumpster Fire](https://www.glaze.app/app/m1gBzP) | 7 | 🔥 Downloads folder, but it fights back | tobua | 1.0.0 | 0.1 MB | 2026-07-28 |
+| [Daymark](https://www.glaze.app/app/MX1yNN) | 6 | A daily note for every day | Iamgregb | 11.0.0 | 1.3 MB | 2026-07-30 |
 | [Dice Order](https://www.glaze.app/app/367A43) | 6 | Roll dice to settle who goes first | Thomas Jost | 4.0.0 | 0.1 MB | 2026-05-11 |
 | [DNS Digger](https://www.glaze.app/app/Dwnv1M) | 6 | Deep dive into DNS records and verify. | Nick Lobeck | 1.0.0 | 0.4 MB | 2026-07-17 |
 | [Dayline - Work Tracker](https://www.glaze.app/app/utcNUa) | 5 | Your day on a private timeline. | Ruben.Vibe2prod | 5.0.0 | 0.3 MB | 2026-07-27 |
-| [Daymark](https://www.glaze.app/app/MX1yNN) | 5 | A daily note for every day | Iamgregb | 11.0.0 | 1.3 MB | 2026-07-30 |
 | [Dayshift](https://www.glaze.app/app/an3PsD) | 5 | Dynamic wallpapers that change with time | cg crew | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Decision matrix](https://www.glaze.app/app/CoqolO) | 5 | Prioritize tasks with an Eisenhower grid | tyler.earth 🌎 | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Diffy McDiffFace](https://www.glaze.app/app/jHMfRO) | 5 | Diff anything. Upload nothing | Tom Sullivan | 1.0.0 | 2.1 MB | 2026-07-27 |

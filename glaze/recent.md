@@ -1,16 +1,17 @@
 # Recently published & updated
 
-Newest 60 of 1557 apps by last release · [← Glaze catalog](./README.md)
+Newest 60 of 1558 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
+| [Mono to Stereo](https://www.glaze.app/app/afMOfJ) | 2026-07-31 | 1.0.0 | 0 | Media | Davidestevens |
+| [Blunder](https://www.glaze.app/app/0dUOLc) | 2026-07-31 | 6.0.0 | 5 | Games & Fun | Francesco Maisano |
 | [Neovim Notes](https://www.glaze.app/app/35eP2I) | 2026-07-31 | 8.0.0 | 3 | Productivity | Daniele Avitabile |
 | [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 2026-07-31 | 16.0.0 | 31 | Developer Tools | Dhruv Suthar |
 | [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 2026-07-31 | 1.0.0 | 1 | Utilities | Volodymyr Slipak |
 | [Sleepwalker](https://www.glaze.app/app/sleepwalker-Twm2r3) | 2026-07-31 | 2.0.0 | 1 | Utilities | Léo Tuil |
 | [LinkChecker](https://www.glaze.app/app/qVMVv9) | 2026-07-31 | 6.0.0 | 3 | Developer Tools | Dmytro Lobov |
 | [Audiofile Preview](https://www.glaze.app/app/glCSSc) | 2026-07-31 | 8.0.0 | 1 | Media | Davidestevens |
-| [Blunder](https://www.glaze.app/app/0dUOLc) | 2026-07-31 | 5.0.0 | 5 | Games & Fun | Francesco Maisano |
 | [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) | 2026-07-31 | 2.0.0 | 0 | Utilities | Karim Abdelali |
 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 2026-07-31 | 6.0.0 | 47 | Productivity | fra.raw |
 | [Gloss](https://www.glaze.app/app/wkIuar) | 2026-07-31 | 8.0.0 | 11 | Productivity | Abed |
@@ -39,10 +40,10 @@ Newest 60 of 1557 apps by last release · [← Glaze catalog](./README.md)
 | [TOM.FM](https://www.glaze.app/app/M7kFKo) | 2026-07-30 | 7.0.0 | 8 | Media | Lertad Supadhiloke |
 | [After Sweep](https://www.glaze.app/app/after-sweep-V06h0g) | 2026-07-30 | 1.0.0 | 0 | Developer Tools | Jeff Watson |
 | [Tagger](https://www.glaze.app/app/tagger-RQxdqF) | 2026-07-30 | 2.0.0 | 1 | Utilities | Davidestevens |
-| [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) | 2026-07-30 | 2.0.0 | 1 | Developer Tools | WebSmith |
+| [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) | 2026-07-30 | 2.0.0 | 2 | Developer Tools | WebSmith |
 | [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 2026-07-30 | 9.0.0 | 90 | Utilities | lexav |
 | [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) | 2026-07-30 | 1.0.0 | 2 | Productivity | Ermek Barmashev |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 11.0.0 | 178 | Design | Noman |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 2026-07-30 | 11.0.0 | 180 | Design | Noman |
 | [Radical](https://www.glaze.app/app/radical-s4LsSN) | 2026-07-30 | 5.0.0 | 284 | Productivity | Maya Avendaño |
 | [Verbatim](https://www.glaze.app/app/verbatim-oe1V7I) | 2026-07-30 | 2.0.0 | 3 | Developer Tools | Lachlan |
 | [SoloTrack](https://www.glaze.app/app/cvMkSD) | 2026-07-30 | 13.0.0 | 10 | Productivity | Nick Hart |
@@ -54,7 +55,7 @@ Newest 60 of 1557 apps by last release · [← Glaze catalog](./README.md)
 | [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) | 2026-07-30 | 2.0.0 | 1 | Utilities | Johannes Krejberg Haahr |
 | [TabSet](https://www.glaze.app/app/pYwgOi) | 2026-07-30 | 6.0.0 | 8 | Productivity | Dmytro Lobov |
 | [Sampler](https://www.glaze.app/app/daIOtZ) | 2026-07-30 | 3.0.0 | 7 | Media | LukeberryPi |
-| [Daymark](https://www.glaze.app/app/MX1yNN) | 2026-07-30 | 11.0.0 | 5 | Productivity | Iamgregb |
+| [Daymark](https://www.glaze.app/app/MX1yNN) | 2026-07-30 | 11.0.0 | 6 | Productivity | Iamgregb |
 | [Claude Notify](https://www.glaze.app/app/claude-notify-qCegNI) | 2026-07-30 | 1.0.0 | 0 | Developer Tools | 12ian34psn |
 | [Saturn](https://www.glaze.app/app/ewPgBX) | 2026-07-30 | 7.0.0 | 10 | Productivity | Sachin |
 | [Blood Match](https://www.glaze.app/app/blood-match-epXOOZ) | 2026-07-30 | 1.0.0 | 0 | Utilities | Parsifal02 |
@@ -63,4 +64,3 @@ Newest 60 of 1557 apps by last release · [← Glaze catalog](./README.md)
 | [Foldery](https://www.glaze.app/app/5sZbpN) | 2026-07-30 | 23.0.0 | 6 | Developer Tools | Dmytro Lobov |
 | [TagBucket](https://www.glaze.app/app/tagbucket-GXYDVC) | 2026-07-30 | 1.0.0 | 1 | Utilities | Roman Sv. |
 | [re:Work](https://www.glaze.app/app/aqeLBX) | 2026-07-30 | 6.0.0 | 6 | Productivity | Benji Schwartz-Gilbert |
-| [Earthquake Monitor](https://www.glaze.app/app/earthquake-monitor-f34VTK) | 2026-07-30 | 1.0.0 | 2 | Utilities | Travis Tang |

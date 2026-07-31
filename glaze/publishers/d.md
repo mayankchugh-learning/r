@@ -40,7 +40,7 @@
 | David Wunderlich | 1 | 2 | [Meals Planned](https://www.glaze.app/app/xf67yI) *(Productivity)* |
 | David.Tannenbaum | 1 | 1 | [Indivisible](https://www.glaze.app/app/NNLHgC) *(Utilities)* |
 | Davide | 1 | 8 | [Angry Draft](https://www.glaze.app/app/MV5O0a) *(Productivity)* |
-| [Davidestevens](./id/davidestevens.md) | 4 | 7 | [see all 4 →](./id/davidestevens.md) |
+| [Davidestevens](./id/davidestevens.md) | 5 | 7 | [see all 5 →](./id/davidestevens.md) |
 | Davidleininger | 1 | 6 | [Media Smasher](https://www.glaze.app/app/H9eEba) *(Utilities)* |
 | Davos639 | 1 | 3 | [sums](https://www.glaze.app/app/vycKjG) *(Utilities)* |
 | Debarshee Chakraborty | 1 | 9 | [System Status](https://www.glaze.app/app/PCutQu) *(Utilities)* |

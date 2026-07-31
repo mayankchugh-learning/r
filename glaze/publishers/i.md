@@ -6,7 +6,7 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| Iamgregb | 1 | 5 | [Daymark](https://www.glaze.app/app/MX1yNN) *(Productivity)* |
+| Iamgregb | 1 | 6 | [Daymark](https://www.glaze.app/app/MX1yNN) *(Productivity)* |
 | Ian Hsiao | 1 | 0 | [Timer Tracker](https://www.glaze.app/app/a16qmM) *(Productivity)* |
 | Iaroslav Naiden | 1 | 4 | [NetWatch](https://www.glaze.app/app/1Ds4iP) *(Utilities)* |
 | Ibrahim Pima | 1 | 3 | [Rico](https://www.glaze.app/app/Uy3sMv) *(Productivity)* |

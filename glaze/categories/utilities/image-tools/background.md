@@ -11,7 +11,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Minimal Control](https://www.glaze.app/app/evNrhb) | 24 | Minimal brightness and volume UI | Boufford | 7.0.0 | 0.1 MB | 2026-07-18 |
-| [Video Wallpaper](https://www.glaze.app/app/OxrCyA) | 15 | Set videos as your macOS wallpaper | Víctor Navarro | 1.0.0 | 0.1 MB | 2026-07-21 |
+| [Video Wallpaper](https://www.glaze.app/app/OxrCyA) | 17 | Set videos as your macOS wallpaper | Víctor Navarro | 1.0.0 | 0.1 MB | 2026-07-21 |
 | [Lid Angle](https://www.glaze.app/app/lCX75u) | 10 | Monitor your MacBook's screen angle | Grass “Grass” | 1.0.0 | 1.8 MB | 2026-07-03 |
 | [BackdropRemove](https://www.glaze.app/app/G8dm5F) | 7 | Remove image backgrounds instantly | Clement.Jonghmans | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Quit Guard](https://www.glaze.app/app/i7nUZQ) | 7 | Prevent Accidental App Closures | alexi.build | 4.0.0 | 0.0 MB | 2026-07-17 |

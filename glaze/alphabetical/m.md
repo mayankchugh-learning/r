@@ -2,18 +2,18 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-129 apps · [← Glaze catalog](../README.md)
+130 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 703 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 0.1 MB | 2026-04-15 |
 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) | 197 | Convert Markdown to Slack messages fast | Petr Nikolaev | 4.0.0 | 0.6 MB | 2026-04-17 |
 | [Mia Calendar](https://www.glaze.app/app/mia-calendar-N2NgPq) | 184 | Plan your days with your own handwriting | Daniela Muntyan | 13.0.0 | 3.3 MB | 2026-07-27 |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 178 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 180 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [MicCheck](https://www.glaze.app/app/miccheck-TRFqOJ) | 104 | Never miss a muted mic again | Justin Lancaster | 2.0.0 | 0.1 MB | 2026-07-17 |
 | [macHealth](https://www.glaze.app/app/C9jYcO) | 81 | Find out why your Mac is slow, instantly | gowhith kanisetty | 1.0.0 | 0.2 MB | 2026-05-11 |
 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 73 | Your keyboard is now a piano | André Pinto | 3.0.0 | 0.1 MB | 2026-07-28 |
-| [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) | 54 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
+| [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) | 55 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
 | [Magnify](https://www.glaze.app/app/magnify-YWP3Aj) | 51 | Zoom in on any image detail, then save | Jordan Amblin | 4.0.0 | 0.0 MB | 2026-04-15 |
 | [Moni](https://www.glaze.app/app/BDcrao) | 46 | Track your spending. Set budgets. See where your money goes. Import CSV bank statements or add transactions manually. No bank connection required. Op… | Kristina Loewen | 10.0.1 | 4.1 MB | 2026-04-09 |
 | [Marginalia](https://www.glaze.app/app/UFusOy) | 33 | Write and read markdown with elegance | Luiz Vinicius de Andrade | 5.0.0 | 0.1 MB | 2026-07-31 |
@@ -132,6 +132,7 @@
 | [Meridian](https://www.glaze.app/app/HyLo8Z) | 0 | Track time across multiple cities | Prabu Weerasinghe | 4.0.0 | 0.2 MB | 2026-07-28 |
 | [Metro Victoria](https://www.glaze.app/app/5N5NOk) | 0 | Real-time train info for Victoria | Daniel | 2.0.0 | 0.1 MB | 2026-07-24 |
 | [Monatel](https://www.glaze.app/app/ZD7pWP) | 0 | Craft your beast and fight for glory | Raycast.dmwnn | 1.0.0 | 0.1 MB | 2026-07-27 |
+| [Mono to Stereo](https://www.glaze.app/app/afMOfJ) | 0 | Convert paired mono files to stereo | Davidestevens | 1.0.0 | 0.1 MB | 2026-07-31 |
 | [Mood Journal](https://www.glaze.app/app/95zb9l) | 0 | Track your daily mood and reflect | Lars Wetendorff Nielsen | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [My Travels](https://www.glaze.app/app/H0Q8mr) | 0 | Track and explore your travel history | Anton Kuznetsov | 1.0.0 | 3.9 MB | 2026-07-27 |
 | [Mystical Mazes](https://www.glaze.app/app/h3vE3M) | 0 | Solve puzzles, sharpen minds together. | Jason Konn | 1.0.0 | 0.1 MB | 2026-07-27 |

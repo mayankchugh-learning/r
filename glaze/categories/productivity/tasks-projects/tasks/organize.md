@@ -23,7 +23,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 90 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 92 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
 | [Worklog](https://www.glaze.app/app/cYeMGn) | 7 | Log your day with timestamps and tasks | Hugo Schmitt | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Priority Matrix](https://www.glaze.app/app/EPDnC5) | 6 | Organize tasks by urgency and importance | Milo | 2.0.0 | 0.1 MB | 2026-07-06 |
 | [Task List](https://www.glaze.app/app/9HYu19) | 5 | Stay organized, one task at a time. | Solve Base | 1.0.0 | 0.1 MB | 2026-07-12 |

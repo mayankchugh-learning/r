@@ -14,7 +14,7 @@
 | Vassil.Krumov | 1 | 1 | [Grid Pass](https://www.glaze.app/app/o97qMc) *(Productivity)* |
 | veloi | 1 | 3 | [Tuck](https://www.glaze.app/app/sO1HdY) *(Productivity)* |
 | Vicbringas | 1 | 5 | [Manuscript](https://www.glaze.app/app/8l5TMB) *(Productivity)* |
-| Víctor Navarro | 3 | 50 | [Posture Pod](https://www.glaze.app/app/vEXG8w) *(Productivity)*, [Video Wallpaper](https://www.glaze.app/app/OxrCyA) *(Utilities)*, [Browser Redirects](https://www.glaze.app/app/fSuxOo) *(Developer Tools)* |
+| Víctor Navarro | 3 | 52 | [Posture Pod](https://www.glaze.app/app/vEXG8w) *(Productivity)*, [Video Wallpaper](https://www.glaze.app/app/OxrCyA) *(Utilities)*, [Browser Redirects](https://www.glaze.app/app/fSuxOo) *(Developer Tools)* |
 | Vidura Gunawardana | 1 | 1 | [Monocle](https://www.glaze.app/app/4a0H2k) *(Utilities)* |
 | Vikram Aggarwal | 1 | 4 | [Discount Scout](https://www.glaze.app/app/b6Z3K4) *(Productivity)* |
 | Vincent de Lagabbe | 1 | 52 | [Tap Beats](https://www.glaze.app/app/uIyOY5) *(Media)* |
