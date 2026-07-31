@@ -1,9 +1,9 @@
 {
   "source": "https://www.glaze.app/store",
-  "fetchedAt": "2026-07-31T10:48:22.857Z",
+  "fetchedAt": "2026-07-31T10:50:26.562Z",
   "pagesGeneratedAt": "2026-07-31T10:48:23.768Z",
   "count": 1556,
-  "totalInstalls": 26179,
+  "totalInstalls": 26180,
   "apps": [
     {
       "publicId": "01mB0U",
@@ -8141,10 +8141,10 @@
       "description": "Design your macOS folders to match your taste using an intuitive design canvas. Apply designs instantly to any Finder folder, reuse them across multiple folders or export them for sharing.\n\nEverything stays private and local on your Mac.\n\nKey features:\n\n• Customize folders with colors, drawings, images, stamps, graffiti, or your own SVG icons  \n• Adjust artwork color, opacity, scale, and placement  \n• Apply one design to multiple existing folders  \n• Edit and manage saved folder designs  \n• Search your personal design library and export icons as PNG files",
       "categorySlug": "design",
       "category": "Design",
-      "installs": 174,
+      "installs": 175,
       "sizeBytes": 12344504,
       "version": "11.0.0",
-      "updatedAt": "2026-07-31 10:40:18.168658+00",
+      "updatedAt": "2026-07-31 10:48:29.340703+00",
       "createdAt": "2026-07-27 10:35:48.635071+00",
       "publishedAt": "2026-07-30T14:47:59.264Z",
       "publisher": "Noman",
@@ -9482,7 +9482,7 @@
       "aiCapability": null,
       "screenshots": 3,
       "awardsEntry": false,
-      "url": "https://www.glaze.app/app/DhbXQo"
+      "url": "https://www.glaze.app/app/one-note-DhbXQo"
     },
     {
       "publicId": "DhmLaD",
@@ -9879,7 +9879,7 @@
       },
       "screenshots": 6,
       "awardsEntry": false,
-      "url": "https://www.glaze.app/app/dqGeIk"
+      "url": "https://www.glaze.app/app/mooboard-dqGeIk"
     },
     {
       "publicId": "dQhEZg",
@@ -20990,7 +20990,7 @@
       "aiCapability": null,
       "screenshots": 6,
       "awardsEntry": false,
-      "url": "https://www.glaze.app/app/nx6Oj0"
+      "url": "https://www.glaze.app/app/brez-nx6Oj0"
     },
     {
       "publicId": "nXJKqK",
@@ -28586,7 +28586,7 @@
       "aiCapability": null,
       "screenshots": 6,
       "awardsEntry": false,
-      "url": "https://www.glaze.app/app/vo46Jg"
+      "url": "https://www.glaze.app/app/mini-piano-vo46Jg"
     },
     {
       "publicId": "VOwCXA",
@@ -29215,7 +29215,7 @@
       "aiCapability": null,
       "screenshots": 5,
       "awardsEntry": false,
-      "url": "https://www.glaze.app/app/vZzCwc"
+      "url": "https://www.glaze.app/app/amber-vZzCwc"
     },
     {
       "publicId": "w0rF27",
