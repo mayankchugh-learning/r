@@ -1,14 +1,14 @@
 # Media
 
-283 extensions · [← all categories](../README.md)
+284 extensions · [← all categories](../README.md)
 
-macOS: 278 · Windows: 78
+macOS: 279 · Windows: 79
 
 ## Listen & Watch
 
 | Topic | Extensions |
 | --- | --- |
-| [Music & Audio](./music-audio/README.md) | 59 |
+| [Music & Audio](./music-audio/README.md) | 60 |
 | [Video & Streaming](./video-streaming.md) | 24 |
 
 ## Look & Read
