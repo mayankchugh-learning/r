@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-128 publishers · [← publisher index](./README.md)
+129 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
@@ -12,20 +12,21 @@
 | Aaron Rich | 1 | 5 | [DiffCheck](https://www.glaze.app/app/72vYWq) *(Developer Tools)* |
 | Aayush Iyer | 1 | 2 | [Scrycast](https://www.glaze.app/app/g53BKY) *(Utilities)* |
 | Abdul Raheem | 1 | 0 | [Film Production Budget](https://www.glaze.app/app/5UmQXz) *(Productivity)* |
-| Abed | 1 | 11 | [Gloss](https://www.glaze.app/app/wkIuar) *(Productivity)* |
+| Abdullah Alghamdi | 1 | 0 | [Jamal](https://www.glaze.app/app/jamal-JN0yZw) *(Productivity)* |
+| Abed | 1 | 12 | [Gloss](https://www.glaze.app/app/wkIuar) *(Productivity)* |
 | Abhi P | 1 | 4 | [Tic Tac Toe](https://www.glaze.app/app/p2RgUb) *(Games & Fun)* |
 | Abhijeet S | 1 | 13 | [MoveBro](https://www.glaze.app/app/bq0oPJ) *(Lifestyle)* |
 | Abhishek | 3 | 3 | [Afterward](https://www.glaze.app/app/XvboTp) *(Productivity)*, [PDF Style](https://www.glaze.app/app/p12USo) *(Utilities)*, [Glaze Draw](https://www.glaze.app/app/gchGo1) *(Design)* |
 | Abhishek Meena | 1 | 3 | [Note Draw](https://www.glaze.app/app/g2Qdz5) *(Productivity)* |
 | abhishek wasekar | 1 | 11 | [Sargam](https://www.glaze.app/app/DknIof) *(Utilities)* |
-| Abubakr Jimoh | 1 | 13 | [Reclaim](https://www.glaze.app/app/ed33HB) *(Developer Tools)* |
+| Abubakr Jimoh | 1 | 14 | [Reclaim](https://www.glaze.app/app/ed33HB) *(Developer Tools)* |
 | Ac0 | 2 | 8 | [Overheard - Podcast knowledge](https://www.glaze.app/app/MMw100) *(Productivity)*, [PitchMaster](https://www.glaze.app/app/1aHd47) *(Productivity)* |
 | Adam Lindberg | 1 | 0 | [Package Steward](https://www.glaze.app/app/rc8Rli) *(Developer Tools)* |
 | Adam Molina | 2 | 44 | [Gradient Wallpaper](https://www.glaze.app/app/AJuY62) *(Design)*, [NASA Gallery](https://www.glaze.app/app/j1MpkP) *(Media)* |
 | Addo Bari | 1 | 3 | [Bookshelf](https://www.glaze.app/app/ncYQdY) *(Media)* |
 | Adedoyin Emmanuel | 1 | 6 | [Blueprint](https://www.glaze.app/app/Ahtha9) *(Developer Tools)* |
 | [Adi Goldstein](./id/adi-goldstein.md) | 4 | 9 | [see all 4 →](./id/adi-goldstein.md) |
-| Adil Erchouk | 2 | 76 | [User Defaults Inspector](https://www.glaze.app/app/7AW5vv) *(Developer Tools)*, [GitHub Actions Monitor](https://www.glaze.app/app/OxiQZL) *(Developer Tools)* |
+| Adil Erchouk | 2 | 77 | [User Defaults Inspector](https://www.glaze.app/app/7AW5vv) *(Developer Tools)*, [GitHub Actions Monitor](https://www.glaze.app/app/OxiQZL) *(Developer Tools)* |
 | Adithya Jayasankar | 2 | 6 | [Telltale](https://www.glaze.app/app/ZPeaME) *(Developer Tools)*, [Tap](https://www.glaze.app/app/2ruNjD) *(Productivity)* |
 | Adrian Luna Diaz | 1 | 3 | [CUE](https://www.glaze.app/app/2uuKlm) *(Productivity)* |
 | Afonso Ramos | 1 | 3 | [Gitify](https://www.glaze.app/app/d2qvZN) *(Developer Tools)* |
@@ -35,7 +36,7 @@
 | Ahmet Güler | 1 | 11 | [Darkroom Studio](https://www.glaze.app/app/5aumRY) *(Media)* |
 | AI4Marketing | 1 | 0 | [AI4Marketing.cz](https://www.glaze.app/app/L82rD4) *(Productivity)* |
 | AJ Batac | 1 | 4 | [Kulay (Color)](https://www.glaze.app/app/bbzPPl) *(Design)* |
-| Ajay Odedra | 1 | 108 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
+| Ajay Odedra | 1 | 145 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
 | ajnart | 1 | 14 | [Wheel Launcher](https://www.glaze.app/app/SmYxn5) *(Productivity)* |
 | Ak Deepankar | 1 | 9 | [Mac Flow](https://www.glaze.app/app/FKfVNE) *(Design)* |
 | Akanbi Toheeb | 1 | 3 | [Cehua](https://www.glaze.app/app/osrdrz) *(Developer Tools)* |
@@ -51,14 +52,14 @@
 | Aleksandra Gramatchikova | 1 | 1 | [Watermark PRO](https://www.glaze.app/app/vIfGnp) *(Design)* |
 | Aleksey Bykhun | 1 | 25 | [Slash](https://www.glaze.app/app/5TheyF) *(Productivity)* |
 | Alex | 2 | 9 | [Stellata](https://www.glaze.app/app/bygln0) *(Media)*, [while...](https://www.glaze.app/app/hk0xeC) *(Games & Fun)* |
-| Alex Antonov | 3 | 556 | [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) *(Developer Tools)*, [Winamp](https://www.glaze.app/app/naNtIA) *(Media)*, [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) *(Media)* |
+| Alex Antonov | 3 | 559 | [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) *(Developer Tools)*, [Winamp](https://www.glaze.app/app/naNtIA) *(Media)*, [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) *(Media)* |
 | Alex E | 1 | 10 | [Icon Grab](https://www.glaze.app/app/udkxUC) *(Developer Tools)* |
 | Alex Mathew | 1 | 3 | [Reed](https://www.glaze.app/app/tu91GA) *(Productivity)* |
-| Alexander Artsvuni | 1 | 126 | [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) *(Design)* |
+| Alexander Artsvuni | 1 | 128 | [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) *(Design)* |
 | Alexander Gekov | 1 | 11 | [CineSchedule](https://www.glaze.app/app/G1DNgr) *(Media)* |
 | Alexander.K.Wright | 1 | 5 | [Food Web](https://www.glaze.app/app/add6B0) *(Media)* |
-| Alexandr Subbotin | 2 | 277 | [Yolo](https://www.glaze.app/app/yolo-PSjYlj) *(Developer Tools)*, [Feed Reader](https://www.glaze.app/app/2Db0Ny) *(Productivity)* |
-| [alexi.build](./id/alexi-build.md) | 10 | 1,003 | [see all 10 →](./id/alexi-build.md) |
+| Alexandr Subbotin | 2 | 278 | [Yolo](https://www.glaze.app/app/yolo-PSjYlj) *(Developer Tools)*, [Feed Reader](https://www.glaze.app/app/2Db0Ny) *(Productivity)* |
+| [alexi.build](./id/alexi-build.md) | 10 | 1,007 | [see all 10 →](./id/alexi-build.md) |
 | Alexis d'Amecourt | 1 | 17 | [World Reader](https://www.glaze.app/app/rj9keL) *(Media)* |
 | Alfonso (Poncho) Aceves | 1 | 2 | [FrameBites](https://www.glaze.app/app/86GqqN) *(Productivity)* |
 | Alfred MOUELLE | 1 | 7 | [Remo](https://www.glaze.app/app/fYfuxd) *(Productivity)* |
@@ -67,7 +68,7 @@
 | Alin Panaitiu | 1 | 16 | [Meander](https://www.glaze.app/app/QWCebM) *(Media)* |
 | Alireza Sarabchi | 1 | 2 | [Blurish Wall](https://www.glaze.app/app/R1LN8Q) *(Design)* |
 | Alison Bays | 1 | 6 | [LabLens](https://www.glaze.app/app/GkByoP) *(Utilities)* |
-| Alistair4312 | 2 | 6 | [Decision Clarifier](https://www.glaze.app/app/B5fDxN) *(Productivity)*, [LinkedIn Pulse](https://www.glaze.app/app/mC2jGB) *(Productivity)* |
+| Alistair4312 | 2 | 7 | [Decision Clarifier](https://www.glaze.app/app/B5fDxN) *(Productivity)*, [LinkedIn Pulse](https://www.glaze.app/app/mC2jGB) *(Productivity)* |
 | Alston Albarado | 1 | 5 | [File Handler](https://www.glaze.app/app/XmXQ3c) *(Utilities)* |
 | Alvi Dervishaj | 1 | 6 | [Junior](https://www.glaze.app/app/j3JEdV) *(Developer Tools)* |
 | Alyssa Holland | 1 | 8 | [Treehouse](https://www.glaze.app/app/c7UeuV) *(Developer Tools)* |
@@ -80,14 +81,14 @@
 | Andre Garcia | 1 | 2 | [Clock Face](https://www.glaze.app/app/Eeaypf) *(Utilities)* |
 | Andre Martins | 1 | 3 | [TaxNomad](https://www.glaze.app/app/XmV8Yu) *(Utilities)* |
 | Andre N. | 1 | 13 | [Mori](https://www.glaze.app/app/2R9BrO) *(Productivity)* |
-| André Pinto | 1 | 81 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) *(Media)* |
+| André Pinto | 1 | 90 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) *(Media)* |
 | Andre Yamazaki | 2 | 9 | [PDF to Image](https://www.glaze.app/app/s38kIA) *(Utilities)*, [Label Converter](https://www.glaze.app/app/m67Wr2) *(Utilities)* |
 | Andrea Cipriani | 1 | 25 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) *(Productivity)* |
 | Andrea Montinovo | 1 | 9 | [Download Time Calculator](https://www.glaze.app/app/PeVPLM) *(Utilities)* |
 | Andreas Elia | 3 | 37 | [Word Guesser](https://www.glaze.app/app/nAsjJi) *(Games & Fun)*, [Underground Driver](https://www.glaze.app/app/sLCDOf) *(Games & Fun)*, [Word Connections](https://www.glaze.app/app/Xt8TcC) *(Games & Fun)* |
 | Andreas Persson | 2 | 12 | [all the ports](https://www.glaze.app/app/aDVzGP) *(Developer Tools)*, [AuthReach](https://www.glaze.app/app/gT8Mjv) *(Utilities)* |
 | Andrei Muntean | 1 | 5 | [Knob](https://www.glaze.app/app/ah13w5) *(Utilities)* |
-| Andrew Bondarenko | 1 | 43 | [One Note](https://www.glaze.app/app/one-note-DhbXQo) *(Productivity)* |
+| Andrew Bondarenko | 1 | 46 | [One Note](https://www.glaze.app/app/one-note-DhbXQo) *(Productivity)* |
 | Andrew Kerr | 1 | 6 | [Pixel Measure](https://www.glaze.app/app/g3fVjP) *(Developer Tools)* |
 | Andrew Lindstrom | 1 | 10 | [Copy That](https://www.glaze.app/app/QYtGUY) *(Utilities)* |
 | Andrew Schreiber | 1 | 8 | [SpeedTester](https://www.glaze.app/app/VQqxHM) *(Utilities)* |
@@ -105,7 +106,7 @@
 | Antônio Sérgio Spagnuolo Filho | 1 | 3 | [Instagram Data Visualizer](https://www.glaze.app/app/WMp7yt) *(Utilities)* |
 | Antony Mayfield | 1 | 1 | [Workshop Flow](https://www.glaze.app/app/workshop-flow-713b98) *(Productivity)* |
 | Anubhav Tyagi | 2 | 45 | [Activity Monitor in Menubar](https://www.glaze.app/app/5HAQEi) *(Utilities)*, [Reminders in Menubar](https://www.glaze.app/app/NvSEbg) *(Productivity)* |
-| Anwarul Islam | 2 | 70 | [Video Downloader](https://www.glaze.app/app/SXUqd9) *(Utilities)*, [Image Editor](https://www.glaze.app/app/LjoEy3) *(Media)* |
+| Anwarul Islam | 2 | 71 | [Video Downloader](https://www.glaze.app/app/SXUqd9) *(Utilities)*, [Image Editor](https://www.glaze.app/app/LjoEy3) *(Media)* |
 | Apex Hos | 1 | 14 | [Multi Browser](https://www.glaze.app/app/cn7ND6) *(Utilities)* |
 | Aravind | 1 | 0 | [PlanCal](https://www.glaze.app/app/9x2hCJ) *(Productivity)* |
 | Ari Alkalay | 1 | 8 | [Linear Terminal](https://www.glaze.app/app/inTffb) *(Developer Tools)* |
@@ -125,7 +126,7 @@
 | Astral | 1 | 18 | [Tomorrow](https://www.glaze.app/app/Cn6TXl) *(Productivity)* |
 | Atharv kumar | 1 | 2 | [DMG installer](https://www.glaze.app/app/euUHv8) *(Utilities)* |
 | Attila Suli | 1 | 5 | [Sip](https://www.glaze.app/app/UK8UsA) *(Lifestyle)* |
-| Aum Chauhan | 1 | 16 | [Collections](https://www.glaze.app/app/rlLRUx) *(Design)* |
+| Aum Chauhan | 1 | 17 | [Collections](https://www.glaze.app/app/rlLRUx) *(Design)* |
 | Aurélien Pénavaire | 1 | 1 | [Cortex](https://www.glaze.app/app/lA4t5y) *(Productivity)* |
 | Aust.Crim | 1 | 1 | [Dittie](https://www.glaze.app/app/HD6zxW) *(Media)* |
 | Austin Soares | 1 | 0 | [GlyphCraft](https://www.glaze.app/app/glyphcraft-j4lgVt) *(Design)* |

@@ -1,12 +1,12 @@
 # Dhruv Suthar
 
-16 apps · 476 installs · [← publishers](../README.md)
+16 apps · 477 installs · [← publishers](../README.md)
 
 ## Utilities (2)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Gesture Launch](https://www.glaze.app/app/74q23g) | 223 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 0.1 MB | 2026-05-14 |
+| [Gesture Launch](https://www.glaze.app/app/74q23g) | 224 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 0.1 MB | 2026-05-14 |
 | [Oneko](https://www.glaze.app/app/AnIyLw) | 15 | Keep a cat floating on your screen | Dhruv Suthar | 2.0.0 | 0.0 MB | 2026-04-21 |
 
 ## Productivity (4)

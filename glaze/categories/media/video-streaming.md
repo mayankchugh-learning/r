@@ -10,14 +10,14 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Floating Youtube](https://www.glaze.app/app/floating-youtube-JUv9e2) | 224 | Floating Youtube video player | David Ferguson | 2.0.0 | 0.1 MB | 2026-07-26 |
-| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 208 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
+| [Floating Youtube](https://www.glaze.app/app/floating-youtube-JUv9e2) | 226 | Floating Youtube video player | David Ferguson | 2.0.0 | 0.1 MB | 2026-07-26 |
+| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 221 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
 | [Image Sequencer](https://www.glaze.app/app/IxkyCn) | 72 | Create animations from image sequences. | Nichlas Wærnes Andersen | 14.0.0 | 0.1 MB | 2026-04-25 |
 | [Capture Studio](https://www.glaze.app/app/0c5CW4) | 19 | Simple screen recording for creators. | Philipp.Herzig | 1.0.0 | 0.1 MB | 2026-06-27 |
 | [One-Take Teleprompter](https://www.glaze.app/app/BwnGQY) | 10 | Record videos with on-screen script | Artem Novichkov | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Sparkle Cam](https://www.glaze.app/app/OZYpKC) | 7 | Take adorable photos with kawaii beauty | Kazuhiro Hashimoto | 1.0.0 | 6.4 MB | 2026-07-02 |
 | [Toob](https://www.glaze.app/app/riVQfp) | 6 | Anything you watch, retro-warm. | Maik Klotz | 2.0.0 | 8.4 MB | 2026-07-28 |
-| [News Flow](https://www.glaze.app/app/LmfyXP) | 4 | One AI-ranked feed for news and video | WheelHugger | 1.0.0 | 0.5 MB | 2026-07-28 |
+| [News Flow](https://www.glaze.app/app/LmfyXP) | 4 | One AI-ranked feed for news and video | WheelHugger | 2.0.0 | 0.5 MB | 2026-07-31 |
 | [Chapter Timeline](https://www.glaze.app/app/wcCCV9) | 2 | Generate chapter timeline video | Huakun Shen | 1.0.0 | 0.1 MB | 2026-07-14 |
 | [Shibori](https://www.glaze.app/app/QuzRLe) | 2 | Browse, preview, and organize media | Eric Cheung | 2.0.0 | 0.1 MB | 2026-07-12 |
 | [DVD Composer](https://www.glaze.app/app/e4gPPz) | 1 | Create custom DVDs with video menus | Kreela | 1.0.0 | 0.1 MB | 2026-07-22 |
@@ -31,7 +31,7 @@
 | [StreamHub](https://www.glaze.app/app/CPEGJi) | 14 | Watch all your streamers in one place | Delvison Marte | 14.0.0 | 0.4 MB | 2026-07-26 |
 | [APEX](https://www.glaze.app/app/G9U92C) | 13 | All things Formula 1 | RSRK | 2.0.0 | 1.6 MB | 2026-07-28 |
 | [CineSchedule](https://www.glaze.app/app/G1DNgr) | 11 | Never miss what you want to watch | Alexander Gekov | 2.0.0 | 0.1 MB | 2026-06-19 |
-| [Reel Scout](https://www.glaze.app/app/D2po61) | 9 | Discover and track movies | Square Rabbit | 1.0.0 | 0.1 MB | 2026-07-23 |
+| [Reel Scout](https://www.glaze.app/app/D2po61) | 10 | Discover and track movies | Square Rabbit | 1.0.0 | 0.1 MB | 2026-07-23 |
 | [Twitter Stream Hub](https://www.glaze.app/app/BANgqm) | 8 | Watch Twitch streams in one place | Per Nielsen Tikær | 2.0.0 | 0.1 MB | 2026-05-04 |
 | [Strange New Episodes](https://www.glaze.app/app/7Idm6x) | 5 | Find your next Star Trek episode | JD Hartley | 1.0.0 | 0.2 MB | 2026-07-09 |
 | [StreamingTracker](https://www.glaze.app/app/3NCxki) | 4 | Track watches across all platforms | Niklas Arhöfer | 1.0.0 | 0.1 MB | 2026-07-23 |

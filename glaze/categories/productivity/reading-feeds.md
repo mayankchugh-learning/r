@@ -24,28 +24,28 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Reading Corner](https://www.glaze.app/app/k3tfty) | 236 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 0.8 MB | 2026-07-19 |
+| [Reading Corner](https://www.glaze.app/app/k3tfty) | 238 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 0.8 MB | 2026-07-19 |
 | [MyLibrary](https://www.glaze.app/app/A5XSe8) | 4 | "Organize all your books in one place" | 83 Sipper Steamer | 1.0.0 | 0.9 MB | 2026-07-28 |
 | [Watch Later](https://www.glaze.app/app/07KEGm) | 3 | Save videos, organize, watch anytime. | Kofi Amoussou | 6.0.0 | 0.1 MB | 2026-07-27 |
 | [FrameBites](https://www.glaze.app/app/86GqqN) | 2 | Clip, loop & tag YouTube & local videos | Alfonso (Poncho) Aceves | 5.0.0 | 0.1 MB | 2026-07-30 |
-| [Skrim](https://www.glaze.app/app/skrim-hHjG9l) | 1 | Read at your own pace, your way. | Dany С | 1.0.0 | 0.1 MB | 2026-07-30 |
+| [Skrim](https://www.glaze.app/app/skrim-hHjG9l) | 2 | Read at your own pace, your way. | Dany С | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [Film Production Budget](https://www.glaze.app/app/5UmQXz) | 0 | Scene-by-scene budgeting made simple | Abdul Raheem | 1.0.0 | 0.1 MB | 2026-07-26 |
 
 ## Reading ✦
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Saturn](https://www.glaze.app/app/ewPgBX) | 10 | Never lose a bookmark again | Sachin | 7.0.0 | 7.7 MB | 2026-07-30 |
+| [Saturn](https://www.glaze.app/app/ewPgBX) | 11 | Never lose a bookmark again | Sachin | 7.0.0 | 7.7 MB | 2026-07-30 |
 | [Speed Reader](https://www.glaze.app/app/q8upcu) | 7 | Read more in less time | Zachary Daniels | 1.0.0 | 0.2 MB | 2026-07-12 |
-| [Verbatim - Article Reader](https://www.glaze.app/app/verbatim-article-reader-hZ8i9m) | 2 | Listening is easier than reading | Ryan O'Connell | 1.0.0 | 0.2 MB | 2026-07-30 |
+| [Verbatim - Article Reader](https://www.glaze.app/app/verbatim-article-reader-hZ8i9m) | 3 | Listening is easier than reading | Ryan O'Connell | 1.0.0 | 0.2 MB | 2026-07-30 |
 | [Feedvault](https://www.glaze.app/app/1o69du) | 1 | Aggregate and curate your reading | Gmoneyman10 | 1.0.0 | 0.3 MB | 2026-07-26 |
 
 ## Nothing ✦
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Ghosted](https://www.glaze.app/app/h3nZXl) | 18 | Ghost newsletters with a swipe | Azlan Ibrahim | 8.0.0 | 0.1 MB | 2026-07-27 |
-| [OTPop](https://www.glaze.app/app/6OxvwV) | 16 | OTPs at your fingertips | Manuele Sarfatti | 10.0.0 | 0.7 MB | 2026-07-27 |
+| [Ghosted](https://www.glaze.app/app/h3nZXl) | 18 | Ghost newsletters with a swipe | Azlan Ibrahim | 9.0.0 | 0.2 MB | 2026-08-01 |
+| [OTPop](https://www.glaze.app/app/6OxvwV) | 17 | OTPs at your fingertips | Manuele Sarfatti | 10.0.0 | 0.7 MB | 2026-07-27 |
 | [Verdigris](https://www.glaze.app/app/R7o50e) | 3 | What your day looks like | EdwardC | 3.0.0 | 0.4 MB | 2026-07-27 |
 | [Visus : Personal Dashboards](https://www.glaze.app/app/arOO8W) | 2 | Glance at everything. Open nothing | Mohammad Nabhan | 2.0.0 | 0.1 MB | 2026-07-27 |
 

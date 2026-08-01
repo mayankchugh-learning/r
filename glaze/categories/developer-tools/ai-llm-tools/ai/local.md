@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Subtotal](https://www.glaze.app/app/K0cZAJ) | 47 | A receipt for every coding day. | Sakino | 5.0.0 | 1.0 MB | 2026-07-29 |
+| [Subtotal](https://www.glaze.app/app/K0cZAJ) | 49 | A receipt for every coding day. | Sakino | 5.0.0 | 1.0 MB | 2026-07-29 |
 | [Local Mind](https://www.glaze.app/app/gXDcGx) | 13 | AI on your device, offline & free! | Pierre | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [AppleAI](https://www.glaze.app/app/d0fNs4) | 6 | AIHub with in built apple intelligence. | Jaswanth | 1.0.0 | 0.4 MB | 2026-07-26 |
 | [Vision Alt](https://www.glaze.app/app/DgIoKm) | 6 | Image title & alt-text with a local LLM | Pastenes | 3.0.0 | 0.1 MB | 2026-07-26 |

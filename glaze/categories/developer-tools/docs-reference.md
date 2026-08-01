@@ -31,5 +31,5 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Trend Builder](https://www.glaze.app/app/ApW3oA) | 49 | Build the app everyone’s searching for | Ch1rag | 6.0.0 | 0.8 MB | 2026-07-10 |
-| [Hackerfeed](https://www.glaze.app/app/f22UqI) | 41 | Browse Hacker News stories and comments in a streamlined, distraction-free interface | Michael Nielsen | 2.0.1 | 0.2 MB | 2026-03-04 |
+| [Hackerfeed](https://www.glaze.app/app/f22UqI) | 42 | Browse Hacker News stories and comments in a streamlined, distraction-free interface | Michael Nielsen | 2.0.1 | 0.2 MB | 2026-03-04 |
 | [Vim Keys](https://www.glaze.app/app/gFNoBq) | 10 | Learn Vim shortcuts interactively | Juan Vera | 1.0.0 | 0.1 MB | 2026-07-07 |

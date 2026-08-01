@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-43 publishers · [← publisher index](./README.md)
+44 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | Ed117 | 1 | 6 | [Fooseroni](https://www.glaze.app/app/ZvJWBN) *(Games & Fun)* |
 | Edoardo Galati | 1 | 7 | [Instant Organizer](https://www.glaze.app/app/ePD2w0) *(Media)* |
 | Eduard Simota | 2 | 4 | [Hourly](https://www.glaze.app/app/b0nw4X) *(Productivity)*, [Render Queue](https://www.glaze.app/app/01mB0U) *(Developer Tools)* |
+| Eduardo Javier Garcia Lopez | 1 | 2 | [Paperclip Slack](https://www.glaze.app/app/TQZY3R) *(Developer Tools)* |
 | Eduardo Sonnino | 1 | 3 | [Guitar Tuner](https://www.glaze.app/app/Bfn04z) *(Utilities)* |
 | EdwardC | 1 | 3 | [Verdigris](https://www.glaze.app/app/R7o50e) *(Productivity)* |
 | egill smari | 1 | 2 | [Sigil](https://www.glaze.app/app/lrhbBL) *(Developer Tools)* |
@@ -45,7 +46,7 @@
 | Eugen Walcher | 1 | 8 | [Minesweeper](https://www.glaze.app/app/td2sah) *(Games & Fun)* |
 | Eugene Kruglov | 1 | 1 | [Only You App](https://www.glaze.app/app/XL46aE) *(Productivity)* |
 | Evan | 2 | 9 | [Stash](https://www.glaze.app/app/PhdJyc) *(Utilities)*, [NotePad](https://www.glaze.app/app/Zyffcj) *(Productivity)* |
-| Evancris | 1 | 11 | [PkgSweep](https://www.glaze.app/app/ZPO2IL) *(Developer Tools)* |
+| Evancris | 1 | 12 | [PkgSweep](https://www.glaze.app/app/ZPO2IL) *(Developer Tools)* |
 | Evangel Oladipo | 1 | 1 | [Focus Guard](https://www.glaze.app/app/oJlU7g) *(Productivity)* |
-| Ewa Kustra | 1 | 3 | [Planty](https://www.glaze.app/app/BfOZau) *(Productivity)* |
+| Ewa Kustra | 1 | 4 | [Planty](https://www.glaze.app/app/BfOZau) *(Productivity)* |
 | extrastu | 3 | 42 | [Shader Walls](https://www.glaze.app/app/r63Yjl) *(Design)*, [Wordle Daily](https://www.glaze.app/app/PK5SJc) *(Games & Fun)*, [Bing wallpaper](https://www.glaze.app/app/aXcAT1) *(Utilities)* |

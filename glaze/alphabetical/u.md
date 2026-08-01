@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [User Defaults Inspector](https://www.glaze.app/app/7AW5vv) | 58 | Inspect and edit app User Defaults | Adil Erchouk | 7.0.0 | 0.1 MB | 2026-07-29 |
+| [User Defaults Inspector](https://www.glaze.app/app/7AW5vv) | 59 | Inspect and edit app User Defaults | Adil Erchouk | 7.0.0 | 0.1 MB | 2026-07-29 |
 | [Unsubscribe Manager](https://www.glaze.app/app/bsErmw) | 35 | Clean inbox, ditched junk mail | Luke | 1.0.0 | 0.1 MB | 2026-06-27 |
 | [Underground Driver](https://www.glaze.app/app/sLCDOf) | 8 | Drive a London tube train through | Andreas Elia | 5.0.0 | 0.2 MB | 2026-06-23 |
 | [Until](https://www.glaze.app/app/F9ExKa) | 5 | Count down to every moment that matters | Peter Ptok | 1.0.0 | 0.1 MB | 2026-07-06 |

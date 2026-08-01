@@ -6,12 +6,12 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Peel](https://www.glaze.app/app/peel-esimhU) | 403 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
+| [Peel](https://www.glaze.app/app/peel-esimhU) | 410 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 338 | Simple project planning | Kristina Loewen | 6.0.0 | 0.1 MB | 2026-07-05 |
 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 299 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 0.3 MB | 2026-07-27 |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 108 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 145 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
-| [ProjectBase](https://www.glaze.app/app/w5CAic) | 42 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 0.3 MB | 2026-07-29 |
+| [ProjectBase](https://www.glaze.app/app/w5CAic) | 44 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 0.3 MB | 2026-07-29 |
 | [Port Monitor](https://www.glaze.app/app/EEfaTw) | 40 | Track open ports and their apps | Domint | 1.0.0 | 0.1 MB | 2026-06-29 |
 | [Pixel Runner](https://www.glaze.app/app/dZpJ2d) | 34 | Run, jump, and dodge obstacles in this retro-style endless runner! Choose your character, compete for high scores, and climb the leaderboard. | Per Nielsen Tikær | 1.0.1 | 0.2 MB | 2026-03-04 |
 | [Posture Pod](https://www.glaze.app/app/vEXG8w) | 32 | Get posture reminders using your AirPods | Víctor Navarro | 1.0.0 | 0.1 MB | 2026-06-28 |
@@ -30,9 +30,9 @@
 | [Pinfont](https://www.glaze.app/app/7IetoU) | 14 | Preview any text across all your local fonts instantly with live customization of size, color, weight, and style. | Dhruv Suthar | 4.0.1 | 0.2 MB | 2026-03-24 |
 | [Plan Board](https://www.glaze.app/app/UQ6c8s) | 14 | Kanban view for your plan.md files | Reza Ilmi | 2.0.0 | 0.1 MB | 2026-07-02 |
 | [Paperwork](https://www.glaze.app/app/7UkeE4) | 12 | Create documents visually, then export | João Neves | 2.0.0 | 5.6 MB | 2026-05-19 |
+| [PkgSweep](https://www.glaze.app/app/ZPO2IL) | 12 | Approve and upgrade all your package | Evancris | 1.0.0 | 0.1 MB | 2026-07-06 |
 | [PromptPocket](https://www.glaze.app/app/8alvwL) | 12 | Your notes, always at your fingertips | Rich Washburn | 6.0.0 | 0.9 MB | 2026-07-13 |
 | [PDF Resize](https://www.glaze.app/app/7md7Fi) | 11 | Compress or expand PDFs with size | Mr Rajput | 1.0.0 | 0.1 MB | 2026-07-02 |
-| [PkgSweep](https://www.glaze.app/app/ZPO2IL) | 11 | Approve and upgrade all your package | Evancris | 1.0.0 | 0.1 MB | 2026-07-06 |
 | [PR Tracker](https://www.glaze.app/app/JVnAGF) | 11 | Track GitHub PRs from your menu bar | João Melo | 2.0.0 | 0.1 MB | 2026-05-13 |
 | [Pause](https://www.glaze.app/app/RwYJah) | 10 | Take breaks. Feel better. | Sey | 1.0.0 | 0.6 MB | 2026-07-27 |
 | [PixelFlow](https://www.glaze.app/app/MRd2ab) | 10 | Your team's cozy virtual office | Roxana⚡️ | 3.0.0 | 5.1 MB | 2026-07-28 |
@@ -83,8 +83,8 @@
 | [PhotoCull](https://www.glaze.app/app/rjxyXc) | 4 | Sort through your shots, fast | theantmos | 2.0.0 | 0.1 MB | 2026-07-26 |
 | [Pick One](https://www.glaze.app/app/K7On2J) | 4 | Randomly select a person from your list | Andriy99milan | 2.0.0 | 0.1 MB | 2026-07-20 |
 | [Picked](https://www.glaze.app/app/CICev7) | 4 | Find your next game in seconds | Vova | 1.0.0 | 0.1 MB | 2026-07-26 |
+| [Planty](https://www.glaze.app/app/BfOZau) | 4 | Your plants, alive on your desktop | Ewa Kustra | 5.0.0 | 0.1 MB | 2026-07-27 |
 | [PR Flow](https://www.glaze.app/app/KlUOjI) | 4 | Track your GitHub PR status locally | Jamie Lawrence | 2.0.0 | 0.2 MB | 2026-07-09 |
-| [Paper Toy Studio](https://www.glaze.app/app/C8ahWx) | 3 | Turn photos into printable paper toys | ka | 3.0.0 | 0.4 MB | 2026-07-28 |
 | [Pause Before Purchase](https://www.glaze.app/app/9UusOE) | 3 | Pause and reconsider before buying | Suyash Junnarkar | 1.0.0 | 0.1 MB | 2026-07-26 |
 | [Pet Hatch](https://www.glaze.app/app/Zk6Mtn) | 3 | Type your way to a pet companion | Ilseong Na | 9.0.0 | 0.1 MB | 2026-07-29 |
 | [Ping Check](https://www.glaze.app/app/3JKav5) | 3 | Stay connected, know your ping | Eaugum | 5.0.0 | 0.1 MB | 2026-07-30 |
@@ -92,11 +92,11 @@
 | [Pixed](https://www.glaze.app/app/XqXJfA) | 3 | Make pixel family portraits instantly | Ravi Vasavan | 1.0.0 | 0.1 MB | 2026-07-13 |
 | [PlainType](https://www.glaze.app/app/zUfgFg) | 3 | Formatting in, plain text out | Jason Csizmadi | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [PlantUML Editor](https://www.glaze.app/app/R4hr68) | 3 | Diagrams in real time, code your way | Kinsley Ogunmola | 1.0.0 | 0.2 MB | 2026-07-04 |
-| [Planty](https://www.glaze.app/app/BfOZau) | 3 | Your plants, alive on your desktop | Ewa Kustra | 5.0.0 | 0.1 MB | 2026-07-27 |
 | [Pocket Watch](https://www.glaze.app/app/Ct96il) | 3 | Save YouTube for later — calmly. | Kaustav Das Biswas | 5.0.0 | 0.2 MB | 2026-07-29 |
 | [PR Dashboard](https://www.glaze.app/app/hxs3K2) | 3 | Monitor pull requests and reviews | Akonwi Ngoh | 1.0.0 | 0.1 MB | 2026-07-06 |
 | [Prompt Vault](https://www.glaze.app/app/8EdxXh) | 3 | Store your AI Prompts & Outputs. | Prithav Jha | 1.0.0 | 0.1 MB | 2026-07-27 |
 | [Paddock](https://www.glaze.app/app/AM58Qz) | 2 | Your Home for Formula 1 | Sahil Yadav | 4.0.0 | 0.3 MB | 2026-07-26 |
+| [Paperclip Slack](https://www.glaze.app/app/TQZY3R) | 2 | Chat with your agents in real time | Eduardo Javier Garcia Lopez | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [PG-Glaze](https://www.glaze.app/app/aNPalD) | 2 | Browse and query your PostgreSQL | Frank | 3.0.0 | 0.5 MB | 2026-07-02 |
 | [Photo Filter](https://www.glaze.app/app/KrNFl6) | 2 | Filter photos with flexible search | Pete Ware | 2.0.0 | 0.1 MB | 2026-07-09 |
 | [PinShuffle](https://www.glaze.app/app/7v8Bdt) | 2 | Practice drawing with timed Pinterest | Yukai Huang | 3.0.0 | 0.1 MB | 2026-04-22 |

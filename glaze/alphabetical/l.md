@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 178 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
+| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 188 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 0.1 MB | 2026-07-28 |
 | [Logos](https://www.glaze.app/app/QKNEHI) | 117 | Browse and explore brand logos | Pedro Duarte | 4.0.0 | 0.1 MB | 2026-07-27 |
 | [Le Tour Hub](https://www.glaze.app/app/t510tX) | 29 | Follow Tour de France 2026 | Jordan Amblin | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [Listly](https://www.glaze.app/app/G4AEnv) | 13 | Tasks organized, nothing forgotten | İlker Çalım | 3.0.0 | 0.1 MB | 2026-07-12 |
@@ -26,12 +26,12 @@
 | [Linear Tasks](https://www.glaze.app/app/p5xQyA) | 8 | Manage tasks synced to Linear | syn | 4.0.0 | 0.3 MB | 2026-06-28 |
 | [Linear Terminal](https://www.glaze.app/app/inTffb) | 8 | Manage Linear tasks with terminal style | Ari Alkalay | 1.0.0 | 0.1 MB | 2026-07-14 |
 | [Loud - Better Activity Monitor](https://www.glaze.app/app/kW6Bh5) | 8 | See what's slowing down your Mac | Diana Durkota | 2.0.0 | 0.0 MB | 2026-07-25 |
+| [Lantern](https://www.glaze.app/app/p27CtZ) | 7 | See what's missing before you ship. | Lori Collins | 2.0.0 | 0.1 MB | 2026-07-23 |
 | [Link Lift](https://www.glaze.app/app/9bJYZh) | 7 | Upload files, share links instantly | Shearm | 3.0.0 | 0.0 MB | 2026-07-10 |
 | [Liquid Designer](https://www.glaze.app/app/L6dLhl) | 7 | Draw seamlessly with Liquid Glass | Yeshe | 1.0.0 | 0.1 MB | 2026-07-11 |
 | [Loculus](https://www.glaze.app/app/XjRX2m) | 7 | Organize downloads like a to-do list | Charles.Escat | 2.0.0 | 0.1 MB | 2026-06-20 |
 | [LogicVoice](https://www.glaze.app/app/uWbUe9) | 7 | Just Say it - Voice + Dictation for Mac. | DARREN BERICH | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [LabLens](https://www.glaze.app/app/GkByoP) | 6 | Understand your labs, privately | Alison Bays | 2.0.0 | 2.0 MB | 2026-07-27 |
-| [Lantern](https://www.glaze.app/app/p27CtZ) | 6 | See what's missing before you ship. | Lori Collins | 2.0.0 | 0.1 MB | 2026-07-23 |
 | [Links Kanban](https://www.glaze.app/app/Fk71ao) | 6 | Simple Raindrop + Jira bookmarks manager | Eldar Khuzin | 1.0.0 | 0.2 MB | 2026-06-12 |
 | [Lore](https://www.glaze.app/app/KfX7wd) | 6 | Search your folders with AI instantly | Werner Deuermeier | 3.0.0 | 1.8 MB | 2026-07-28 |
 | [LinkChecker](https://www.glaze.app/app/qVMVv9) | 4 | Find broken links and bad redirects | Dmytro Lobov | 6.0.0 | 0.7 MB | 2026-07-31 |
@@ -42,10 +42,10 @@
 | [La Galerie](https://www.glaze.app/app/zfoAhM) | 3 | The best Mac artwork visualizer. | Stiven Orlando Triana | 2.0.0 | 0.4 MB | 2026-07-27 |
 | [Last Call](https://www.glaze.app/app/U5pAi1) | 3 | Know when to stop coffee before bed | Martin Gorol | 7.0.0 | 0.5 MB | 2026-07-27 |
 | [Librarian](https://www.glaze.app/app/bLW0OB) | 3 | Calibre-compatible ebook library manager | RobM | 1.0.0 | 0.1 MB | 2026-07-04 |
+| [LinkedIn Pulse](https://www.glaze.app/app/mC2jGB) | 3 | Optimize your LinkedIn growth strategy | Alistair4312 | 4.0.0 | 0.1 MB | 2026-07-23 |
 | [Long Play](https://www.glaze.app/app/Vzaw38) | 3 | Play long songs on your speaker | Pieter Moorman | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Lynxview - Image Viewer](https://www.glaze.app/app/VidXHE) | 3 | "View all your photos in one place" | Maicol Oliveira | 5.0.0 | 0.1 MB | 2026-07-31 |
 | [Lyricsmith](https://www.glaze.app/app/6dYvei) | 3 | Song-Writers Toolbox | Jeff Augustin | 1.0.0 | 0.3 MB | 2026-07-24 |
-| [LinkedIn Pulse](https://www.glaze.app/app/mC2jGB) | 2 | Optimize your LinkedIn growth strategy | Alistair4312 | 4.0.0 | 0.1 MB | 2026-07-23 |
 | [log-lite](https://www.glaze.app/app/6ldf4h) | 2 | No nonsense time logging for busy people | Frederic Lierman | 1.0.0 | 0.3 MB | 2026-07-17 |
 | [Lorelei](https://www.glaze.app/app/Eehl8W) | 2 | Add laser eyes effect to your photos | João Neves | 1.0.0 | 0.1 MB | 2026-06-15 |
 | [Lyric Finder](https://www.glaze.app/app/5Uepfq) | 2 | Search and view song lyrics instantly | Pm.Delvern | 1.0.0 | 0.1 MB | 2026-07-09 |

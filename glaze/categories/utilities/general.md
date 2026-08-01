@@ -9,7 +9,7 @@
 | [Cleanup](https://www.glaze.app/app/ZeU0rI) | 24 | Scan, sort and cleanup your files | Benjy.desprets | 5.0.1 | 0.6 MB | 2026-03-26 |
 | [DROP](https://www.glaze.app/app/PtgApl) | 19 | Drag, save, and reuse files anywhere | melvin | 1.0.0 | 0.1 MB | 2026-06-02 |
 | [Lil finder](https://www.glaze.app/app/FDsxpL) | 11 | Your files super app | Yaseenmb11 | 1.0.0 | 0.7 MB | 2026-07-09 |
-| [Graze](https://www.glaze.app/app/x4aWfd) | 7 | Explore the most interesting information | Shearm | 10.0.0 | 0.3 MB | 2026-07-27 |
+| [Graze](https://www.glaze.app/app/x4aWfd) | 8 | Explore the most interesting information | Shearm | 10.0.0 | 0.3 MB | 2026-07-27 |
 | [Better Finder](https://www.glaze.app/app/PV8dgl) | 6 | better fs for windows/mac fs refuges!! | Paranjay Khachar | 2.0.0 | 0.1 MB | 2026-07-26 |
 | [Persona](https://www.glaze.app/app/yUNcps) | 6 | Your Mac's AI companion with personality | M Sour | 3.0.0 | 0.4 MB | 2026-07-27 |
 | [Contact Diff](https://www.glaze.app/app/T45AgQ) | 5 | Instantly find and fix duplicates | Shearm | 2.0.0 | 0.0 MB | 2026-04-16 |

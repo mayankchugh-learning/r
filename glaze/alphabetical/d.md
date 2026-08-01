@@ -6,10 +6,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 487 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 0.1 MB | 2026-04-15 |
-| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 414 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-14 |
+| [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 488 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 0.1 MB | 2026-04-15 |
+| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 420 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 0.1 MB | 2026-07-14 |
 | [Dynamic Island](https://www.glaze.app/app/Om758X) | 47 | iPhone-style Dynamic Islan for your Mac | alexi.build | 1.0.0 | 0.0 MB | 2026-04-22 |
-| [Ding!](https://www.glaze.app/app/oRbL7g) | 38 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 0.1 MB | 2026-07-30 |
+| [Ding!](https://www.glaze.app/app/oRbL7g) | 39 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 0.1 MB | 2026-07-30 |
 | [Drop2Markdown](https://www.glaze.app/app/E8OW9Q) | 33 | Drop anything. Get Markdown. | Oliver Posselt | 3.0.0 | 96.3 MB | 2026-04-20 |
 | [Drum Padzzor](https://www.glaze.app/app/fFPlup) | 26 | Create beats with a 3x3 keyboard drum machine, load samples, and control via MIDI | Johan Thorell | 1.0.1 | 0.2 MB | 2026-03-04 |
 | [DITHERMINT](https://www.glaze.app/app/C5rwqe) | 22 | YOUR 1 BIT ART STUDIO | Jac Peregrine-Davies | 2.0.0 | 0.4 MB | 2026-06-03 |
@@ -30,15 +30,15 @@
 | [Download Time Calculator](https://www.glaze.app/app/PeVPLM) | 9 | Calculate download ETAs instantly | Andrea Montinovo | 2.0.0 | 0.1 MB | 2026-07-13 |
 | [DevPal](https://www.glaze.app/app/ruf8ih) | 8 | Essential utilities for developers | Stephen Fang | 2.0.0 | 0.1 MB | 2026-07-05 |
 | [Dispatch](https://www.glaze.app/app/zM8HY8) | 8 | Send writing to your Kindle instantly | Gareth Chainey | 1.0.0 | 0.6 MB | 2026-07-28 |
+| [Dumpster Fire](https://www.glaze.app/app/m1gBzP) | 8 | 🔥 Downloads folder, but it fights back | tobua | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Desktop Events](https://www.glaze.app/app/lWaw3B) | 7 | Stay on top of your upcoming events | David Ferguson | 7.0.0 | 0.4 MB | 2026-07-27 |
 | [DraftCalendar](https://www.glaze.app/app/wer6wS) | 7 | Plan, track, and improve your posts | Karlo König | 1.0.0 | 0.3 MB | 2026-07-01 |
-| [Dumpster Fire](https://www.glaze.app/app/m1gBzP) | 7 | 🔥 Downloads folder, but it fights back | tobua | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Daymark](https://www.glaze.app/app/MX1yNN) | 6 | A daily note for every day | Iamgregb | 11.0.0 | 1.3 MB | 2026-07-30 |
+| [Dayshift](https://www.glaze.app/app/an3PsD) | 6 | Dynamic wallpapers that change with time | cg crew | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Dice Order](https://www.glaze.app/app/367A43) | 6 | Roll dice to settle who goes first | Thomas Jost | 4.0.0 | 0.1 MB | 2026-05-11 |
 | [Diffy McDiffFace](https://www.glaze.app/app/jHMfRO) | 6 | Diff anything. Upload nothing | Tom Sullivan | 1.0.0 | 2.1 MB | 2026-07-27 |
 | [DNS Digger](https://www.glaze.app/app/Dwnv1M) | 6 | Deep dive into DNS records and verify. | Nick Lobeck | 1.0.0 | 0.4 MB | 2026-07-17 |
 | [Dayline - Work Tracker](https://www.glaze.app/app/utcNUa) | 5 | Your day on a private timeline. | Ruben.Vibe2prod | 5.0.0 | 0.3 MB | 2026-07-27 |
-| [Dayshift](https://www.glaze.app/app/an3PsD) | 5 | Dynamic wallpapers that change with time | cg crew | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Decision matrix](https://www.glaze.app/app/CoqolO) | 5 | Prioritize tasks with an Eisenhower grid | tyler.earth 🌎 | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [DiffCheck](https://www.glaze.app/app/72vYWq) | 5 | Compare text side-by-side instantly | Aaron Rich | 1.0.0 | 0.1 MB | 2026-07-13 |
 | [Disk Intelligence](https://www.glaze.app/app/qRgf9Y) | 5 | Understand and reclaim your disk space | Mikhail Borodin | 1.0.0 | 0.1 MB | 2026-07-25 |
@@ -47,13 +47,13 @@
 | [Dreama](https://www.glaze.app/app/Te4eW8) | 5 | Generate images with ease | BLCNYY | 4.0.0 | 0.0 MB | 2026-04-25 |
 | [dropsize](https://www.glaze.app/app/XM2TL3) | 5 | compress images or videos instantly | vovayaa | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [Dungeon Sketch](https://www.glaze.app/app/fL7gUZ) | 5 | Design dungeon maps for Dungeonblocks | Ringmaster | 2.0.0 | 0.1 MB | 2026-07-12 |
+| [Day Letter](https://www.glaze.app/app/x6jB95) | 4 | Summarize your day through browser | d41 pvt. | 1.0.0 | 0.1 MB | 2026-07-26 |
 | [Decision Clarifier](https://www.glaze.app/app/B5fDxN) | 4 | Work through decisions step by step | Alistair4312 | 1.0.0 | 0.1 MB | 2026-07-15 |
 | [Deploy Desk](https://www.glaze.app/app/dbSUVq) | 4 | Monitor deployments right from your Mac | Sean Thomas Stuart | 4.0.0 | 0.3 MB | 2026-07-20 |
 | [Deskmate](https://www.glaze.app/app/ki1c5r) | 4 | A little creature that feels your day | Song Qian | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Discount Scout](https://www.glaze.app/app/b6Z3K4) | 4 | Find cashback, coupons, and student | Vikram Aggarwal | 2.0.0 | 0.1 MB | 2026-07-09 |
 | [DMG Auto Installer](https://www.glaze.app/app/YM2dCP) | 4 | Install apps from DMG files instantly | Prem Sathisha | 2.0.0 | 0.1 MB | 2026-07-24 |
 | [Do, Did, Done](https://www.glaze.app/app/QB45LB) | 4 | Track habits with GitHub-style streaks | Akhil Theerthala | 1.0.0 | 0.1 MB | 2026-06-06 |
-| [Day Letter](https://www.glaze.app/app/x6jB95) | 3 | Summarize your day through browser | d41 pvt. | 1.0.0 | 0.1 MB | 2026-07-26 |
 | [Dayline](https://www.glaze.app/app/YFSGD1) | 3 | One line each day, memories forever | Lawrence Millard | 3.0.0 | 0.3 MB | 2026-07-16 |
 | [Desk Ritual](https://www.glaze.app/app/TSJXW0) | 3 | Capture and Replay your Window Sessions. | miks | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Dice Roll](https://www.glaze.app/app/5cmQqo) | 3 | Are you ready to roll the dice? | Felipe de Castro Kondo | 1.0.0 | 0.1 MB | 2026-07-18 |

@@ -1,8 +1,8 @@
 # Organize ✦
 
-19 apps · [← Tasks](./README.md)
+20 apps · [← Tasks](./README.md)
 
-[Dates ✦](#dates) (8) · [Complete ✦](#complete) (4) · [General](#general) (7)
+[Dates ✦](#dates) (8) · [Complete ✦](#complete) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -23,7 +23,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 108 | Drop. Edit. Download. Done. | Ajay Odedra | 8.0.0 | 2.8 MB | 2026-07-29 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 145 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
 | [Worklog](https://www.glaze.app/app/cYeMGn) | 7 | Log your day with timestamps and tasks | Hugo Schmitt | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Priority Matrix](https://www.glaze.app/app/EPDnC5) | 6 | Organize tasks by urgency and importance | Milo | 2.0.0 | 0.1 MB | 2026-07-06 |
 | [Task List](https://www.glaze.app/app/9HYu19) | 5 | Stay organized, one task at a time. | Solve Base | 1.0.0 | 0.1 MB | 2026-07-12 |
@@ -39,3 +39,4 @@
 | [Items](https://www.glaze.app/app/9kLuYj) | 2 | One ID. Every tool. One clear picture. | Trevor Hall | 6.0.0 | 0.2 MB | 2026-07-30 |
 | [MyEisenhower](https://www.glaze.app/app/hE4Is3) | 2 | Prioritize what matters most, right now | John Punt | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Scope](https://www.glaze.app/app/MRB1TC) | 2 | Track creative time and bill smarter | Paulo Lobo | 1.0.0 | 0.1 MB | 2026-07-04 |
+| [Wondher Pulse](https://www.glaze.app/app/wondher-pulse-EHeN4w) | 2 | Take control of your time, your way | Brian Mendes | 2.0.0 | 0.1 MB | 2026-07-31 |

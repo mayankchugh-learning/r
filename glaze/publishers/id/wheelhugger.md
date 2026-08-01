@@ -22,4 +22,4 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [News Flow](https://www.glaze.app/app/LmfyXP) | 4 | One AI-ranked feed for news and video | WheelHugger | 1.0.0 | 0.5 MB | 2026-07-28 |
+| [News Flow](https://www.glaze.app/app/LmfyXP) | 4 | One AI-ranked feed for news and video | WheelHugger | 2.0.0 | 0.5 MB | 2026-07-31 |

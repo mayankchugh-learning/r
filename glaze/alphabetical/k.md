@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 96 | Track keystrokes and mouse clicks by app | Christian Alares | 3.0.0 | 0.1 MB | 2026-04-26 |
+| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 97 | Track keystrokes and mouse clicks by app | Christian Alares | 3.0.0 | 0.1 MB | 2026-04-26 |
 | [KeyMap](https://www.glaze.app/app/WuhRnA) | 31 | Record your daily keystrokes and optimize your keyboard layout for ergonomic efficiency | Mathieu Dutour | 1.0.1 | 1.2 MB | 2026-03-06 |
 | [Kalcy](https://www.glaze.app/app/gSzJCA) | 14 | Do math with natural language, instantly | Shivraj Roy | 3.0.0 | 0.3 MB | 2026-07-27 |
 | [Keep](https://www.glaze.app/app/M2eK2r) | 10 | Native Google Keep with offline access | Andy Zhu | 1.0.0 | 0.1 MB | 2026-07-04 |
@@ -27,5 +27,5 @@
 | [Kip](https://www.glaze.app/app/aWB3Se) | 3 | Reading to learning in one shortcut | PlumbRRRRRR | 8.0.0 | 0.2 MB | 2026-07-28 |
 | [Keep It](https://www.glaze.app/app/BgFHXx) | 2 | A little companion to keep your files. | Andrey Zertsalov | 3.0.0 | 2.1 MB | 2026-07-27 |
 | [Kobako](https://www.glaze.app/app/3ZijTd) | 2 | Your anime, up next in the menu bar. | Martin Gorol | 1.0.0 | 0.1 MB | 2026-07-25 |
-| [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) | 1 | Transform text, instantly from clipboard | Johannes Krejberg Haahr | 2.0.0 | 0.2 MB | 2026-07-30 |
+| [KlipTekst](https://www.glaze.app/app/ECER4Y) | 1 | Transform text, instantly from clipboard | Johannes Krejberg Haahr | 2.0.0 | 0.2 MB | 2026-07-30 |
 | [Koi](https://www.glaze.app/app/AeIWHC) | 0 | Your private wellness companion | neekhil vatsa | 1.0.0 | 114.9 MB | 2026-07-28 |

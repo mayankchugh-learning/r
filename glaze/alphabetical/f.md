@@ -6,12 +6,12 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) | 269 | Track nearby aircraft in real-time and follow flights of interest | Hamzah Chaudhary | 1.0.1 | 1.0 MB | 2026-03-12 |
-| [Floating Youtube](https://www.glaze.app/app/floating-youtube-JUv9e2) | 224 | Floating Youtube video player | David Ferguson | 2.0.0 | 0.1 MB | 2026-07-26 |
+| [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) | 271 | Track nearby aircraft in real-time and follow flights of interest | Hamzah Chaudhary | 1.0.1 | 1.0 MB | 2026-03-12 |
+| [Floating Youtube](https://www.glaze.app/app/floating-youtube-JUv9e2) | 226 | Floating Youtube video player | David Ferguson | 2.0.0 | 0.1 MB | 2026-07-26 |
 | [Funky Mirror](https://www.glaze.app/app/yHoT78) | 135 | Apply fun filters to your webcam | Samuel Kraft | 1.0.0 | 12.8 MB | 2026-05-12 |
-| [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) | 126 | Quickly preview local fonts in context | Alexander Artsvuni | 7.0.0 | 0.5 MB | 2026-07-29 |
-| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 114 | Make your text fancy | Pedro Duarte | 7.0.0 | 0.1 MB | 2026-07-20 |
-| [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) | 102 | Explore History of Football Tournaments | Alex Antonov | 6.0.0 | 0.3 MB | 2026-07-21 |
+| [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) | 128 | Quickly preview local fonts in context | Alexander Artsvuni | 7.0.0 | 0.5 MB | 2026-07-29 |
+| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 116 | Make your text fancy | Pedro Duarte | 7.0.0 | 0.1 MB | 2026-07-20 |
+| [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) | 103 | Explore History of Football Tournaments | Alex Antonov | 6.0.0 | 0.3 MB | 2026-07-21 |
 | [Feed Reader](https://www.glaze.app/app/2Db0Ny) | 34 | Read your feeds and blogs in one place | Alexandr Subbotin | 11.0.0 | 3.9 MB | 2026-07-13 |
 | [Foam Case Designer](https://www.glaze.app/app/4ItSi9) | 29 | Visually plan and optimize foam insert layouts for hard cases with precise camera gear cutouts and padding guidance. | João Neves | 2.0.1 | 0.3 MB | 2026-03-25 |
 | [FlareDesk](https://www.glaze.app/app/2kFpvb) | 23 | The ultimate client for Cloudflare | Nurkamol Vakhidov | 7.0.0 | 0.1 MB | 2026-07-11 |
@@ -60,7 +60,7 @@
 | [Fabric Calculator](https://www.glaze.app/app/sjVPIu) | 3 | Calculate fabric requirements based on your sewing pattern details | Tirta Wulandari | 2.0.1 | 0.2 MB | 2026-03-04 |
 | [Face Finder](https://www.glaze.app/app/NCIzxf) | 3 | Find anyone in your photos instantly | Michael O'Sullivan | 2.0.0 | 0.4 MB | 2026-07-26 |
 | [Fineprint](https://www.glaze.app/app/RRjYmo) | 3 | Understand contracts, not confusion | Werner Deuermeier | 3.0.0 | 1.8 MB | 2026-07-28 |
-| [FlashFinder](https://www.glaze.app/app/62gVI9) | 3 | Quickly view and manage files & music | TomasNoMas | 13.0.0 | 0.9 MB | 2026-07-29 |
+| [FlashFinder](https://www.glaze.app/app/62gVI9) | 3 | Quickly view and manage files & music | TomasNoMas | 14.0.0 | 0.9 MB | 2026-07-31 |
 | [FlighteZ](https://www.glaze.app/app/kP1NZx) | 3 | Track flights in real time, anywhere | Hash | 2.0.0 | 0.1 MB | 2026-07-26 |
 | [Floating Lofi Timer](https://www.glaze.app/app/qG16XJ) | 3 | Floating timer with lofi music | Nihar | 1.0.0 | 0.1 MB | 2026-07-26 |
 | [Folder Customizer](https://www.glaze.app/app/bfGhVQ) | 3 | Customize folder icons | Elior Boukhobza | 1.0.0 | 0.1 MB | 2026-07-27 |

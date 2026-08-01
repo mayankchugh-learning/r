@@ -2,7 +2,7 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-8 apps · [← Glaze catalog](../README.md)
+9 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,3 +14,4 @@
 | [Jawbreaker](https://www.glaze.app/app/zfhbto) | 2 | Flap through twisting pipe mazes. | Per Nielsen Tikær | 1.0.0 | 0.5 MB | 2026-05-06 |
 | [Junimo](https://www.glaze.app/app/BsttxH) | 2 | Stardew Valley mods made easy for Mac | yafyx | 3.0.0 | 0.1 MB | 2026-07-28 |
 | [Just Now](https://www.glaze.app/app/KeirxU) | 2 | A dashcam for your screen. | anish jain | 1.0.0 | 0.0 MB | 2026-07-27 |
+| [Jamal](https://www.glaze.app/app/jamal-JN0yZw) | 0 | Voice-triggered custom shortcuts menu | Abdullah Alghamdi | 1.0.0 | 0.1 MB | 2026-07-31 |

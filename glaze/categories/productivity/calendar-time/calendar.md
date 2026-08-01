@@ -10,8 +10,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 296 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
-| [Tempo](https://www.glaze.app/app/eJfpqe) | 25 | Quick access calendar in your menu bar | Mehul Chokshi | 6.0.0 | 0.1 MB | 2026-07-31 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 318 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 0.1 MB | 2026-07-30 |
+| [Tempo](https://www.glaze.app/app/eJfpqe) | 26 | Quick access calendar in your menu bar | Mehul Chokshi | 6.0.0 | 0.1 MB | 2026-07-31 |
 | [My Cockpit](https://www.glaze.app/app/Nilzou) | 14 | Your cockpit for news, Youtube & more | Bruno | 1.0.0 | 0.1 MB | 2026-06-27 |
 | [Desktop Events](https://www.glaze.app/app/lWaw3B) | 7 | Stay on top of your upcoming events | David Ferguson | 7.0.0 | 0.4 MB | 2026-07-27 |
 | [Yes, But](https://www.glaze.app/app/bXJPCo) | 4 | See the real cost of saying yes | Nils | 1.0.0 | 0.1 MB | 2026-07-27 |
@@ -33,7 +33,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 400 | Never lose track of what you pay for | Khalid Hasan Zibon | 4.0.0 | 0.1 MB | 2026-07-29 |
+| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 402 | Never lose track of what you pay for | Khalid Hasan Zibon | 4.0.0 | 0.1 MB | 2026-07-29 |
 | [Meeting Glow](https://www.glaze.app/app/fFmwaY) | 17 | Custom alerts for meetings | Mel Lent | 4.0.0 | 0.1 MB | 2026-05-10 |
 | [Orbit](https://www.glaze.app/app/wSy5lt) | 5 | Stay close to the people who matter most | Maxi | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Focus Guard](https://www.glaze.app/app/oJlU7g) | 1 | Enforce Focus, Fight Distractions | Evangel Oladipo | 2.0.0 | 0.1 MB | 2026-07-28 |

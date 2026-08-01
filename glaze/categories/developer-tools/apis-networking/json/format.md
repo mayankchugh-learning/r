@@ -20,7 +20,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Attribute Inspector](https://www.glaze.app/app/BExoVn) | 3 | View and edit file extended attributes | Serhii Popov | 1.0.0 | 0.1 MB | 2026-07-03 |
+| [Attribute Inspector](https://www.glaze.app/app/BExoVn) | 4 | View and edit file extended attributes | Serhii Popov | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [CSV to JSON](https://www.glaze.app/app/kJbs0Y) | 3 | Convert CSV or TSV files to JSON | Eric Cheung | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Helix](https://www.glaze.app/app/nSaq7x) | 3 | Scientific data analysis, simplified | mickaphd | 4.0.0 | 73.6 MB | 2026-07-24 |
 | [Jayson](https://www.glaze.app/app/uay4Jg) | 3 | View, format, and explore JSON data | Gökhan Efe | 2.0.0 | 0.1 MB | 2026-07-21 |

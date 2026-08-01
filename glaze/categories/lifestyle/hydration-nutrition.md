@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 41 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 0.1 MB | 2026-07-28 |
+| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 45 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 0.1 MB | 2026-07-28 |
 | [AmIWiredYet](https://www.glaze.app/app/9jT9Zv) | 11 | Track your caffeine intake and find out just how wired you are. | Jordan Amblin | 1.0.1 | 1.0 MB | 2026-03-02 |
 | [Hydrate](https://www.glaze.app/app/BwkTSV) | 10 | Stay hydrated with smart reminders | Ybmontez | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [Bondfire](https://www.glaze.app/app/g9yKcF) | 6 | The cheat code for staying connected. | Kim Nehzaty | 3.0.0 | 0.2 MB | 2026-07-28 |

@@ -25,7 +25,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Spectrum](https://www.glaze.app/app/dQhEZg) | 11 | Visualize music with dynamic colors | Tuna E | 2.0.0 | 0.1 MB | 2026-07-12 |
-| [TOM.FM](https://www.glaze.app/app/M7kFKo) | 8 | Background radio you won’t tire of | Lertad Supadhiloke | 7.0.0 | 0.1 MB | 2026-07-30 |
+| [TOM.FM](https://www.glaze.app/app/M7kFKo) | 11 | Background radio you won’t tire of | Lertad Supadhiloke | 7.0.0 | 0.1 MB | 2026-07-30 |
 | [Melodyy](https://www.glaze.app/app/UExrEP) | 3 | Make music, easily anytime | Ọláníyì Olúfẹ́mi | 3.0.0 | 0.7 MB | 2026-07-27 |
 | [Song Vote](https://www.glaze.app/app/C4o76l) | 1 | Vote on music, find hits together | ilkay ozboyar | 5.0.0 | 0.1 MB | 2026-07-25 |
 
@@ -33,10 +33,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ray.fm](https://www.glaze.app/app/Af8oi9) | 838 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 81 | Your keyboard is now a piano | André Pinto | 3.0.0 | 0.1 MB | 2026-07-28 |
+| [ray.fm](https://www.glaze.app/app/Af8oi9) | 839 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
+| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 90 | Your keyboard is now a piano | André Pinto | 3.0.0 | 0.1 MB | 2026-07-28 |
 | [Meander](https://www.glaze.app/app/QWCebM) | 16 | Lo-fi groove improv on the trackpad | Alin Panaitiu | 5.0.0 | 0.2 MB | 2026-07-29 |
-| [Scroblytics](https://www.glaze.app/app/Lf9vBU) | 13 | Visualize your Last.fm Scrobbles | thebluch | 31.0.0 | 0.4 MB | 2026-07-29 |
+| [Scroblytics](https://www.glaze.app/app/Lf9vBU) | 13 | Visualize your Last.fm Scrobbles | thebluch | 32.0.0 | 0.4 MB | 2026-08-01 |
 | [Chord Forge](https://www.glaze.app/app/vMN18E) | 9 | Create chord progressions instantly. | Bruno Totoro | 4.0.0 | 0.1 MB | 2026-07-17 |
 | [MP3PLAYER](https://www.glaze.app/app/HZazF0) | 5 | iPod style music player | Kieran McGrady | 2.0.0 | 0.2 MB | 2026-07-24 |
 | [Raum](https://www.glaze.app/app/Oh0j4Y) | 5 | Bring your home into tune | Ivan | 1.0.0 | 0.3 MB | 2026-07-23 |

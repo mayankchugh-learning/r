@@ -33,7 +33,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Copy Shelf](https://www.glaze.app/app/DO5ttX) | 9 | Bring back what you copied | Sabik Biswas | 1.0.0 | 0.1 MB | 2026-07-28 |
+| [Copy Shelf](https://www.glaze.app/app/DO5ttX) | 10 | Bring back what you copied | Sabik Biswas | 1.0.0 | 0.1 MB | 2026-07-28 |
 | [Trash Eras](https://www.glaze.app/app/9LmJqb) | 5 | Customize your Mac trash can icon | Lee Sherman | 8.0.0 | 0.5 MB | 2026-07-24 |
 | [Print Eras](https://www.glaze.app/app/nzc7EX) | 1 | Drag and drop files to print instantly | Lee Sherman | 4.0.0 | 0.5 MB | 2026-07-24 |
 | [Furigana Reader](https://www.glaze.app/app/WRt2U3) | 0 | Read furigana of any on-screen Kanji | A Lee | 2.0.0 | 0.1 MB | 2026-06-27 |

@@ -1,12 +1,12 @@
 # Yukai Huang
 
-5 apps · 119 installs · [← publishers](../README.md)
+5 apps · 120 installs · [← publishers](../README.md)
 
 ## Utilities (1)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Sky Tracker](https://www.glaze.app/app/sky-tracker-azKgA5) | 80 | Track every plane in the sky, live | Yukai Huang | 2.0.0 | 0.3 MB | 2026-04-21 |
+| [Sky Tracker](https://www.glaze.app/app/sky-tracker-azKgA5) | 81 | Track every plane in the sky, live | Yukai Huang | 2.0.0 | 0.3 MB | 2026-04-21 |
 
 ## Games & Fun (2)
 

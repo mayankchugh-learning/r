@@ -1,6 +1,6 @@
 # Yan Frossard
 
-4 apps · 9 installs · [← publishers](../README.md)
+4 apps · 10 installs · [← publishers](../README.md)
 
 ## Design (1)
 
@@ -19,4 +19,4 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Scenes](https://www.glaze.app/app/dQg97x) | 1 | Edit videos without the complexity | Yan Frossard | 1.0.0 | 0.1 MB | 2026-07-28 |
+| [Scenes](https://www.glaze.app/app/dQg97x) | 2 | Edit videos without the complexity | Yan Frossard | 1.0.0 | 0.1 MB | 2026-07-28 |

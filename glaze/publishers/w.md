@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Wael | 1 | 7 | [Alto](https://www.glaze.app/app/cvSTku) *(Productivity)* |
 | Waseem Ahmed | 1 | 0 | [Focus Lock](https://www.glaze.app/app/VU2t82) *(Productivity)* |
-| Wayne Betts Jr | 1 | 130 | [Zones](https://www.glaze.app/app/mHtfuc) *(Productivity)* |
+| Wayne Betts Jr | 1 | 131 | [Zones](https://www.glaze.app/app/mHtfuc) *(Productivity)* |
 | wdchen | 1 | 4 | [Films](https://www.glaze.app/app/kZjYPm) *(Productivity)* |
 | WebSmith | 2 | 7 | [HyperFlow](https://www.glaze.app/app/eRwCvu) *(Productivity)*, [Insomniac](https://www.glaze.app/app/insomniac-rqWLco) *(Developer Tools)* |
 | Wei Su | 1 | 0 | [Libra](https://www.glaze.app/app/k9C0RU) *(Productivity)* |

@@ -2,7 +2,7 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · **W** · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-56 apps · [← Glaze catalog](../README.md)
+57 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -15,8 +15,8 @@
 | [Worktree Manager](https://www.glaze.app/app/bjWS2n) | 19 | Organize all your git worktrees easily | Mario Juárez | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [World Reader](https://www.glaze.app/app/rj9keL) | 17 | Discover books from every country through personalized recommendations and track your global reading journey | Alexis d'Amecourt | 1.0.1 | 0.4 MB | 2026-03-12 |
 | [Wheel Launcher](https://www.glaze.app/app/SmYxn5) | 14 | Quick app switching | ajnart | 1.0.0 | 0.1 MB | 2026-06-20 |
+| [Webhook Hub](https://www.glaze.app/app/He88jf) | 12 | Create & manage webhooks, local or cloud | Ch1rag | 6.0.0 | 0.1 MB | 2026-07-10 |
 | [World FM Cassette](https://www.glaze.app/app/POhOpF) | 12 | Stream radio stations Cassette | sergio frassanito | 1.0.0 | 0.1 MB | 2026-07-01 |
-| [Webhook Hub](https://www.glaze.app/app/He88jf) | 11 | Create & manage webhooks, local or cloud | Ch1rag | 6.0.0 | 0.1 MB | 2026-07-10 |
 | [Wordle Daily](https://www.glaze.app/app/PK5SJc) | 11 | Guess the word in six tries every day | extrastu | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Wolog](https://www.glaze.app/app/bDdnf8) | 10 | Your work, remembered. | Akshara Hegde | 1.0.0 | 0.1 MB | 2026-07-04 |
 | [Window Peek](https://www.glaze.app/app/K1ZTpe) | 9 | Preview windows without app switching | Saidheeraj Gollu | 1.0.0 | 0.1 MB | 2026-04-29 |
@@ -51,6 +51,7 @@
 | [Web Wallpaper](https://www.glaze.app/app/AimmJ2) | 2 | Turn any webpage into your wallpaper | Max Battleman | 1.0.0 | 0.1 MB | 2026-07-20 |
 | [while...](https://www.glaze.app/app/hk0xeC) | 2 | Quick games, whenever you need a break | Alex | 1.0.0 | 0.0 MB | 2026-07-27 |
 | [Who’s LIVE](https://www.glaze.app/app/nqAnwL) | 2 | Track live streams from every platform | Delvison Marte | 1.0.0 | 0.1 MB | 2026-06-27 |
+| [Wondher Pulse](https://www.glaze.app/app/wondher-pulse-EHeN4w) | 2 | Take control of your time, your way | Brian Mendes | 2.0.0 | 0.1 MB | 2026-07-31 |
 | [World Time](https://www.glaze.app/app/HDtRH3) | 2 | View multiple time zones at a glance | Yash | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) | 1 | Fresh walls, every day on autopilot | Elior Boukhobza | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Watermark PRO](https://www.glaze.app/app/vIfGnp) | 1 | Batch watermark images and videos | Aleksandra Gramatchikova | 1.0.0 | 0.1 MB | 2026-07-13 |

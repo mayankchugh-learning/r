@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [User Defaults Inspector](https://www.glaze.app/app/7AW5vv) | 58 | Inspect and edit app User Defaults | Adil Erchouk | 7.0.0 | 0.1 MB | 2026-07-29 |
+| [User Defaults Inspector](https://www.glaze.app/app/7AW5vv) | 59 | Inspect and edit app User Defaults | Adil Erchouk | 7.0.0 | 0.1 MB | 2026-07-29 |
 | [og:inspect](https://www.glaze.app/app/FxW58J) | 19 | Preview OG metadata alongside your site | Jac Peregrine-Davies | 2.0.0 | 0.1 MB | 2026-07-01 |
 | [Network Diagnostics](https://www.glaze.app/app/inj1x1) | 12 | Monitor network and diagnose issues | Johan Thorell | 1.0.0 | 1.6 MB | 2026-04-05 |
 | [Status Hub](https://www.glaze.app/app/BwUAqT) | 12 | All your service status in one place | Grzegorz Krukowski | 8.0.0 | 0.1 MB | 2026-06-28 |

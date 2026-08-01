@@ -6,10 +6,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 208 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
+| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 221 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
 | [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 0.4 MB | 2026-07-28 |
 | [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr) | 147 | Task planner | Nichlas Wærnes Andersen | 10.0.0 | 5.2 MB | 2026-07-19 |
-| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 92 | Your mac deserves a better dock | lexav | 9.0.0 | 0.1 MB | 2026-07-30 |
+| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 104 | Your mac deserves a better dock | lexav | 9.0.0 | 0.1 MB | 2026-07-30 |
 | [Tap Beats](https://www.glaze.app/app/uIyOY5) | 52 | Create music by tapping a grid-based trackpad with 12 buttons arranged in columns and rows | Vincent de Lagabbe | 2.0.1 | 0.2 MB | 2026-03-25 |
 | [Trend Builder](https://www.glaze.app/app/ApW3oA) | 49 | Build the app everyone’s searching for | Ch1rag | 6.0.0 | 0.8 MB | 2026-07-10 |
 | [Typewriter](https://www.glaze.app/app/k9uymc) | 46 | Write freely, share instantly. | Beth Staff | 3.0.0 | 0.0 MB | 2026-04-28 |
@@ -17,8 +17,8 @@
 | [Templater](https://www.glaze.app/app/fWJVl6) | 34 | Create folder structure with one click | melvin | 1.0.0 | 0.1 MB | 2026-05-10 |
 | [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 31 | Open apps and links on macOS via network | Dhruv Suthar | 16.0.0 | 1.2 MB | 2026-07-31 |
 | [Tetris](https://www.glaze.app/app/E9eDcb) | 30 | Just classic Tetris | Bat the Cat | 3.0.0 | 0.1 MB | 2026-07-01 |
+| [Tempo](https://www.glaze.app/app/eJfpqe) | 26 | Quick access calendar in your menu bar | Mehul Chokshi | 6.0.0 | 0.1 MB | 2026-07-31 |
 | [TreeDrive](https://www.glaze.app/app/4HRfkE) | 26 | Free up space on your Mac | Ben Stein | 1.0.0 | 1.3 MB | 2026-06-14 |
-| [Tempo](https://www.glaze.app/app/eJfpqe) | 25 | Quick access calendar in your menu bar | Mehul Chokshi | 6.0.0 | 0.1 MB | 2026-07-31 |
 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) | 25 | Monitor your computer usage and time | Andrea Cipriani | 17.0.0 | 0.3 MB | 2026-07-24 |
 | [TokenLens](https://www.glaze.app/app/Gy3hAw) | 22 | Track AI token usage and costs | Liel Azulay | 3.0.0 | 1.3 MB | 2026-06-21 |
 | [Tomato Focus](https://www.glaze.app/app/4wSVNN) | 20 | Track tasks with pomodoro timer | Benjamin | 4.0.0 | 0.1 MB | 2026-07-15 |
@@ -33,14 +33,14 @@
 | [Tailscale ACL Manager](https://www.glaze.app/app/qYaLsk) | 13 | Control your Tailscale network visually | Steingrím Ósá | 4.0.0 | 0.2 MB | 2026-07-02 |
 | [Taken](https://www.glaze.app/app/7ZhgBb) | 13 | Screen recorder for your 9th take. | Noman | 5.0.0 | 0.1 MB | 2026-07-23 |
 | [Talkie-Walkie](https://www.glaze.app/app/VR9tcY) | 12 | A Fun Walkie Talkie For Mac | vaibhav | 3.0.0 | 0.1 MB | 2026-07-25 |
+| [TOM.FM](https://www.glaze.app/app/M7kFKo) | 11 | Background radio you won’t tire of | Lertad Supadhiloke | 7.0.0 | 0.1 MB | 2026-07-30 |
 | [TaskFlow](https://www.glaze.app/app/EDczBf) | 10 | Save and complete tasks with delightful | Mads Terpelle | 2.0.0 | 0.1 MB | 2026-07-03 |
 | [Tempo](https://www.glaze.app/app/1m4pLi) | 9 | Focus with music and customizable timers | Akhil Konduru | 2.0.0 | 0.1 MB | 2026-07-05 |
 | [The Jarvis](https://www.glaze.app/app/8pGlBl) | 9 | Voice commands for your workflows 🤖 | Petar Stoyanov | 3.0.0 | 0.1 MB | 2026-07-04 |
 | [TypeMeter](https://www.glaze.app/app/KljnFe) | 9 | Beat the clock, master your typing | Prahesa Kusuma Setia | 1.0.0 | 0.1 MB | 2026-07-01 |
-| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 6.0.0 | 0.1 MB | 2026-07-30 |
+| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 7.0.0 | 0.1 MB | 2026-08-01 |
 | [Taped](https://www.glaze.app/app/9re1VL) | 8 | Keep track of everything you own | Mose | 3.0.0 | 1.0 MB | 2026-07-28 |
 | [Task Finder](https://www.glaze.app/app/3t7ryx) | 8 | Centralize tasks from all your apps | Sai Bhushan | 1.0.0 | 0.1 MB | 2026-07-08 |
-| [TOM.FM](https://www.glaze.app/app/M7kFKo) | 8 | Background radio you won’t tire of | Lertad Supadhiloke | 7.0.0 | 0.1 MB | 2026-07-30 |
 | [Translate](https://www.glaze.app/app/NTmoY8) | 8 | Instant translation from your menu bar | Oleh Yeroshkin | 1.0.0 | 0.1 MB | 2026-07-02 |
 | [Treehouse](https://www.glaze.app/app/c7UeuV) | 8 | Git worktrees, without the friction. | Alyssa Holland | 7.0.0 | 1.2 MB | 2026-07-30 |
 | [Trial Tripwire](https://www.glaze.app/app/kXSaZS) | 8 | Never miss a subscription deadline again | Werner Deuermeier | 4.0.0 | 0.1 MB | 2026-07-28 |
@@ -116,7 +116,7 @@
 | [Transcribington](https://www.glaze.app/app/3BJil2) | 2 | Turn audio episodes into searchable text | David Sutrin | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Trophy Tracker](https://www.glaze.app/app/FiHZnj) | 2 | Track achievements across all gaming | Shaun | 4.0.0 | 0.1 MB | 2026-07-02 |
 | [Tab Launcher](https://www.glaze.app/app/bpviHa) | 1 | Open multiple tabs on startup | David Pellerin | 1.0.0 | 0.1 MB | 2026-07-19 |
-| [TagBucket](https://www.glaze.app/app/tagbucket-GXYDVC) | 1 | Organize and explore your stuff | Roman Sv. | 1.0.0 | 8.7 MB | 2026-07-30 |
+| [TagBucket](https://www.glaze.app/app/GXYDVC) | 1 | Organize and explore your stuff | Roman Sv. | 1.0.0 | 8.7 MB | 2026-07-30 |
 | [Tagger](https://www.glaze.app/app/tagger-RQxdqF) | 1 | Easily tag apps | Davidestevens | 2.0.0 | 0.1 MB | 2026-07-30 |
 | [Talk to Action](https://www.glaze.app/app/RkDte1) | 1 | Capture a thought, turn it into action. | 倉木良樹 | 2.0.0 | 0.1 MB | 2026-07-27 |
 | [Tarot Cards](https://www.glaze.app/app/wLBd4b) | 1 | Daily guidance in a single draw | Maggie.ou | 1.0.0 | 0.1 MB | 2026-07-27 |

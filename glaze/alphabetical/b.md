@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Brui](https://www.glaze.app/app/eOPXRV) | 108 | Visual interface for Homebrew package | Niall | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 0.2 MB | 2026-07-13 |
-| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 50 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
+| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 54 | Breathing companion for calm focus | fra.raw | 6.0.0 | 0.8 MB | 2026-07-31 |
 | [Breakout Dock](https://www.glaze.app/app/EEcNPI) | 37 | Smash through your installed apps in a breakout-style game where bricks are apps and your dock controls the paddle | Yann-Edern Gillet | 1.0.1 | 0.2 MB | 2026-03-25 |
 | [Batch Crop](https://www.glaze.app/app/tYEQoH) | 28 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
 | [Brand Icons](https://www.glaze.app/app/IydK5q) | 21 | Get brand icons from Simple Icons | LitoMore | 3.0.0 | 2.3 MB | 2026-04-26 |
@@ -29,6 +29,7 @@
 | [Beat Survivor](https://www.glaze.app/app/nv14PV) | 8 | Defeat enemies with rhythmic beat | Yusuf Kınataş | 1.0.0 | 0.1 MB | 2026-07-01 |
 | [BackdropRemove](https://www.glaze.app/app/G8dm5F) | 7 | Remove image backgrounds instantly | Clement.Jonghmans | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Bepulse](https://www.glaze.app/app/4sJ7h2) | 7 | Real-time debugging dashboard that instantly displays code logs and data from any language in organized channels | Per Nielsen Tikær | 1.0.1 | 0.3 MB | 2026-03-09 |
+| [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) | 7 | Transform raw prompts into structured | Piyushh Bhutoria | 2.0.0 | 0.1 MB | 2026-07-31 |
 | [Break Time](https://www.glaze.app/app/f5AsqN) | 7 | Hourly reminders to move and rest | Noah Czelusta | 2.0.0 | 0.1 MB | 2026-07-06 |
 | [Brew Commander](https://www.glaze.app/app/3miw5s) | 7 | Point and click your Homebrew commands | S.Peacock | 1.0.0 | 0.1 MB | 2026-07-12 |
 | [BrewStuff](https://www.glaze.app/app/EtjGKj) | 7 | Homebrew management at your fingertips | Hash | 4.0.0 | 0.1 MB | 2026-07-26 |
@@ -67,7 +68,6 @@
 | [Boox2Obsidian](https://www.glaze.app/app/Hwm75B) | 2 | Convert Boox notes to Obsidian markdown | Mr. S | 5.0.0 | 0.1 MB | 2026-07-09 |
 | [Bright Shot](https://www.glaze.app/app/YZ2Zxr) | 2 | Capture clear selfies even in dim light | Chase Broyles | 1.0.0 | 0.1 MB | 2026-07-09 |
 | [Bench](https://www.glaze.app/app/ndizSO) | 1 | The dev tools you use every day | Elijah Oreoluwa | 1.0.0 | 0.1 MB | 2026-07-25 |
-| [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) | 1 | Transform raw prompts into structured | Piyushh Bhutoria | 1.0.0 | 0.1 MB | 2026-07-31 |
 | [Better Timer](https://www.glaze.app/app/Pkv2ta) | 1 | A timer better than them all | Karim Abdelali | 1.0.0 | 0.9 MB | 2026-07-22 |
 | [Biomarker Calculator](https://www.glaze.app/app/Tb1E4K) | 1 | Bedside pain biomarker assessment | Huscruz | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [Bloom](https://www.glaze.app/app/fg4EbW) | 1 | Plan your day, grow your garden | Hakeem Adjei | 1.0.0 | 0.1 MB | 2026-07-23 |

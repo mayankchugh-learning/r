@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 114 | Make your text fancy | Pedro Duarte | 7.0.0 | 0.1 MB | 2026-07-20 |
+| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 116 | Make your text fancy | Pedro Duarte | 7.0.0 | 0.1 MB | 2026-07-20 |
 | [Ghostie](https://www.glaze.app/app/RvmVhm) | 8 | Your cursor's adorable ghostly companion | vr | 1.0.0 | 0.1 MB | 2026-05-02 |
 | [ScreenSnap](https://www.glaze.app/app/RCpVeN) | 6 | Extract text from any screen area | Shahin F | 2.0.0 | 0.1 MB | 2026-07-04 |
 | [QR Reader](https://www.glaze.app/app/qaM0d4) | 3 | Extract text from QR codes instantly | Ethan Darling | 1.0.0 | 0.1 MB | 2026-07-05 |

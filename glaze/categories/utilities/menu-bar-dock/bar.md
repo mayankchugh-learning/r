@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 361 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
+| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 369 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
 | [Tube Float](https://www.glaze.app/app/RxZ5tQ) | 14 | Watch YouTube anywhere on your screen | John Kappa | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [Quickdrop Shelf](https://www.glaze.app/app/3MhuXt) | 6 | Temporarily hold files and folders | Christos Bouronikos | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [Timezone Shift](https://www.glaze.app/app/uJGLv4) | 5 | Compare timezones and adjust time | Mehul Chokshi | 2.0.0 | 0.1 MB | 2026-07-15 |
@@ -19,7 +19,7 @@
 | [Apple Music Quitter](https://www.glaze.app/app/TpW6J5) | 2 | Prevent Apple Music from auto-starting | Byron Davies | 2.0.0 | 0.1 MB | 2026-07-12 |
 | [Big Text](https://www.glaze.app/app/gAyQND) | 2 | Big text, fullscreen | Jordan Amblin | 1.0.0 | 0.1 MB | 2026-07-08 |
 | [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 3.0.0 | 0.1 MB | 2026-07-29 |
-| [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) | 1 | Transform text, instantly from clipboard | Johannes Krejberg Haahr | 2.0.0 | 0.2 MB | 2026-07-30 |
+| [KlipTekst](https://www.glaze.app/app/ECER4Y) | 1 | Transform text, instantly from clipboard | Johannes Krejberg Haahr | 2.0.0 | 0.2 MB | 2026-07-30 |
 | [Clipboard Menu](https://www.glaze.app/app/1gxvnh) | 0 | Quick access to clipboard history | Elisac | 1.0.0 | 0.1 MB | 2026-07-23 |
 
 ## Toggle ✦
@@ -37,8 +37,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Click Counter](https://www.glaze.app/app/oOdff8) | 14 | Track every click on your computer | Jordan Amblin | 2.0.0 | 0.0 MB | 2026-04-16 |
 | [Now Playing](https://www.glaze.app/app/cRnRhJ) | 12 | Display current song in your menu bar | Nick Tassone | 3.0.0 | 0.1 MB | 2026-07-16 |
+| [AppDater](https://www.glaze.app/app/OwBOvL) | 8 | Update all your Mac apps in one place | Sérgio Brandão | 26.0.0 | 0.2 MB | 2026-07-30 |
 | [Translate](https://www.glaze.app/app/NTmoY8) | 8 | Instant translation from your menu bar | Oleh Yeroshkin | 1.0.0 | 0.1 MB | 2026-07-02 |
-| [AppDater](https://www.glaze.app/app/OwBOvL) | 7 | Update all your Mac apps in one place | Sérgio Brandão | 26.0.0 | 0.2 MB | 2026-07-30 |
 | [Wallpaper Selector](https://www.glaze.app/app/F2kOkt) | 6 | Change wallpapers from your menu bar | Zmikula | 2.0.0 | 0.1 MB | 2026-07-04 |
 | [Menu Music](https://www.glaze.app/app/bP67GH) | 4 | Control Apple Music from menu bar | Elisac | 1.0.0 | 0.1 MB | 2026-07-05 |
 | [Contrast Control](https://www.glaze.app/app/kHVzuV) | 3 | Adjust Mac display contrast from menu | Philipp.Herzig | 2.0.0 | 0.1 MB | 2026-06-28 |

@@ -58,7 +58,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 96 | Track keystrokes and mouse clicks by app | Christian Alares | 3.0.0 | 0.1 MB | 2026-04-26 |
+| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 97 | Track keystrokes and mouse clicks by app | Christian Alares | 3.0.0 | 0.1 MB | 2026-04-26 |
 | [Le Tour Hub](https://www.glaze.app/app/t510tX) | 29 | Follow Tour de France 2026 | Jordan Amblin | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [ElevenLingo](https://www.glaze.app/app/CM11Am) | 12 | Learn languages with ElevenLabs TTS | Taha Tesser | 5.0.0 | 0.1 MB | 2026-07-12 |
 | [Cherish](https://www.glaze.app/app/VlIhRC) | 4 | Belongings Management Tool | Ting Chun Wang | 2.0.0 | 2.1 MB | 2026-07-27 |

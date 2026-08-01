@@ -2,14 +2,14 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · **H** · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-43 apps · [← Glaze catalog](../README.md)
+44 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 610 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 0.7 MB | 2026-05-26 |
-| [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 323 | Explore hotkey systems for Raycast | Alex Antonov | 2.0.0 | 0.1 MB | 2026-04-17 |
-| [Health Fusion](https://www.glaze.app/app/ikcWiD) | 67 | Your Apple Health & WHOOP data, unified. | Oliver Posselt | 2.0.0 | 0.2 MB | 2026-04-19 |
-| [Hackerfeed](https://www.glaze.app/app/f22UqI) | 41 | Browse Hacker News stories and comments in a streamlined, distraction-free interface | Michael Nielsen | 2.0.1 | 0.2 MB | 2026-03-04 |
+| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 612 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 0.7 MB | 2026-05-26 |
+| [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 325 | Explore hotkey systems for Raycast | Alex Antonov | 2.0.0 | 0.1 MB | 2026-04-17 |
+| [Health Fusion](https://www.glaze.app/app/ikcWiD) | 69 | Your Apple Health & WHOOP data, unified. | Oliver Posselt | 2.0.0 | 0.2 MB | 2026-04-19 |
+| [Hackerfeed](https://www.glaze.app/app/f22UqI) | 42 | Browse Hacker News stories and comments in a streamlined, distraction-free interface | Michael Nielsen | 2.0.1 | 0.2 MB | 2026-03-04 |
 | [Hacker News Reader](https://www.glaze.app/app/6JMi6H) | 28 | Stay updated on tech news fast | Emilio Escobar | 2.0.0 | 0.1 MB | 2026-05-31 |
 | [Habit Loop](https://www.glaze.app/app/noeGNp) | 16 | Build better habits, one day at a time | Dhruv Suthar | 2.0.0 | 0.1 MB | 2026-04-27 |
 | [Hotkey Reference](https://www.glaze.app/app/RDE7aj) | 15 | Hotkeys at your fingertips, anytime | Shearm | 3.0.0 | 0.1 MB | 2026-06-25 |
@@ -27,7 +27,7 @@
 | [Hold](https://www.glaze.app/app/GvHeQR) | 6 | Hold your place. Pick up where you left | Samuel Monteiro | 2.0.0 | 0.1 MB | 2026-07-31 |
 | [Handy Tools](https://www.glaze.app/app/AcZqw2) | 5 | Format, convert, and debug code fast | Devzstudio | 1.0.0 | 1.6 MB | 2026-07-04 |
 | [Hotstar Floater](https://www.glaze.app/app/nKcxtD) | 5 | Watch live streams while you multitask | Prakhar Shekhar Parthasarthi | 1.0.0 | 0.1 MB | 2026-07-04 |
-| [HyperFlow](https://www.glaze.app/app/eRwCvu) | 5 | Master your focus, guard your energy | WebSmith | 9.0.0 | 1.1 MB | 2026-07-30 |
+| [HyperFlow](https://www.glaze.app/app/eRwCvu) | 5 | Master your focus, guard your energy | WebSmith | 10.0.0 | 1.1 MB | 2026-07-31 |
 | [Habit Streak](https://www.glaze.app/app/4xVcUZ) | 3 | Build habits with daily check-ins | benben | 1.0.0 | 0.1 MB | 2026-05-30 |
 | [Habit Tracker](https://www.glaze.app/app/nOfsDB) | 3 | Build and maintain daily habits | Solve Base | 1.0.0 | 0.1 MB | 2026-07-11 |
 | [Handle It](https://www.glaze.app/app/Cs4rjZ) | 3 | Drop it in. Understand it. Handle it. | Jonas Tmb | 2.0.0 | 1.7 MB | 2026-07-26 |
@@ -49,3 +49,4 @@
 | [hw_branches](https://www.glaze.app/app/ypu7uw) | 1 | Explore branching conversation paths | Martin Mikušát | 1.0.0 | 0.1 MB | 2026-07-25 |
 | [HyperGlass](https://www.glaze.app/app/3a4sfw) | 1 | Build card stacks visually | Lee Sherman | 5.0.0 | 0.1 MB | 2026-07-23 |
 | [Hanabi](https://www.glaze.app/app/PQ9tJk) | 0 | See the safe view before you share | Ulugbek Karimov | 1.0.0 | 0.7 MB | 2026-07-25 |
+| [Hex Savings](https://www.glaze.app/app/hex-savings-wKaY12) | 0 | Hex voice typing, tracked and rewarded | Christian Boyle | 1.0.0 | 0.1 MB | 2026-07-31 |

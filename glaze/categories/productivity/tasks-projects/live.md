@@ -1,6 +1,6 @@
 # Live ✦
 
-5 apps · [← Tasks & Projects](./README.md)
+4 apps · [← Tasks & Projects](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -10,4 +10,3 @@
 | [Pit Wall](https://www.glaze.app/app/rBw8O2) | 5 | Your personal race engineer on macOS | Shahshank Reddy Ponnala | 1.0.0 | 0.1 MB | 2026-06-29 |
 | [Temp Notes](https://www.glaze.app/app/zoWhyz) | 5 | Notes with built-in calculations | Sanjay | 2.0.0 | 0.2 MB | 2026-07-14 |
 | [meridian os](https://www.glaze.app/app/8ku3ER) | 3 | Plot your career trajectory in space | ラン凌 | 1.0.0 | 98.3 MB | 2026-07-28 |
-| [Opus](https://www.glaze.app/app/ppI2Yp) | 2 | From idea to sync-ready, on your Mac. | Željko Prša | 1.0.0 | 0.9 MB | 2026-07-07 |

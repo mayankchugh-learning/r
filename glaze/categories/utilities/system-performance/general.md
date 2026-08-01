@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Sky Tracker](https://www.glaze.app/app/sky-tracker-azKgA5) | 80 | Track every plane in the sky, live | Yukai Huang | 2.0.0 | 0.3 MB | 2026-04-21 |
+| [Sky Tracker](https://www.glaze.app/app/sky-tracker-azKgA5) | 81 | Track every plane in the sky, live | Yukai Huang | 2.0.0 | 0.3 MB | 2026-04-21 |
 | [Activity Monitor in Menubar](https://www.glaze.app/app/5HAQEi) | 25 | Monitor CPU, GPU, and memory usage | Anubhav Tyagi | 3.0.0 | 0.1 MB | 2026-06-29 |
 | [Show My Fan](https://www.glaze.app/app/ZL8Vdh) | 15 | Watch your Mac's fan spin in real time | Jordan Amblin | 1.0.0 | 0.1 MB | 2026-07-03 |
 | [RAM Prices](https://www.glaze.app/app/wrahvi) | 10 | Track RAM Prices | alexi.build | 2.0.0 | 0.1 MB | 2026-07-06 |

@@ -23,5 +23,5 @@
 | [Quarantine Manager](https://www.glaze.app/app/Mpbkzr) | 3 | Safely restore your quarantined files | Nurkamol Vakhidov | 1.0.0 | 0.1 MB | 2026-07-07 |
 | [Quill](https://www.glaze.app/app/c9aP8w) | 3 | Write freely, think clearly | Cameron Schroeder | 3.0.0 | 0.2 MB | 2026-07-28 |
 | [Quest Log](https://www.glaze.app/app/f7zukt) | 2 | Create tasks by speaking naturally | Charlie Day | 1.0.0 | 0.1 MB | 2026-07-14 |
-| [Quick Translate](https://www.glaze.app/app/quick-translate-fRbhRn) | 1 | Translate selected text instantly | Mickael Alves | 1.0.0 | 0.1 MB | 2026-07-30 |
+| [Quick Translate](https://www.glaze.app/app/fRbhRn) | 1 | Translate selected text instantly | Mickael Alves | 1.0.0 | 0.1 MB | 2026-07-30 |
 | [Quick2AVault](https://www.glaze.app/app/Ez7tQc) | 1 | Who’s the boss of your cash? You are! | Mahesh Shantaram | 9.0.0 | 4.0 MB | 2026-07-30 |

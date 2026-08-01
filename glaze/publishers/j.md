@@ -13,7 +13,7 @@
 | Jake Donlan | 1 | 7 | [Typecard](https://www.glaze.app/app/cbo0CY) *(Design)* |
 | Jaladhi Pujara | 1 | 5 | [Provenance](https://www.glaze.app/app/TOCKAe) *(Productivity)* |
 | James Coy (JC) | 1 | 5 | [Clipfloat](https://www.glaze.app/app/0DLNYu) *(Developer Tools)* |
-| James Dawson | 1 | 58 | [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) *(Productivity)* |
+| James Dawson | 1 | 67 | [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) *(Productivity)* |
 | James Jackson | 1 | 7 | [nib](https://www.glaze.app/app/RJAlJp) *(Productivity)* |
 | James Jeffery | 1 | 6 | [Ripple](https://www.glaze.app/app/FQfYOf) *(Media)* |
 | James Victor | 1 | 4 | [Activity Ridge](https://www.glaze.app/app/f2dURs) *(Productivity)* |
@@ -34,7 +34,7 @@
 | Jean | 1 | 1 | [Meridian](https://www.glaze.app/app/fWYUXH) *(Lifestyle)* |
 | Jean DOUTRIAUX | 1 | 2 | [Plate Track](https://www.glaze.app/app/xnR615) *(Lifestyle)* |
 | Jeff Augustin | 1 | 3 | [Lyricsmith](https://www.glaze.app/app/6dYvei) *(Design)* |
-| Jeff Watson | 1 | 0 | [After Sweep](https://www.glaze.app/app/after-sweep-V06h0g) *(Developer Tools)* |
+| Jeff Watson | 1 | 2 | [After Sweep](https://www.glaze.app/app/after-sweep-V06h0g) *(Developer Tools)* |
 | Jelte Lagendijk | 1 | 2 | [MQTT Monitor](https://www.glaze.app/app/uGO568) *(Developer Tools)* |
 | Jenningsebailey | 1 | 10 | [Mickey.md](https://www.glaze.app/app/WCodee) *(Productivity)* |
 | Jenny Dougherty | 1 | 9 | [Backyard Garden Planner](https://www.glaze.app/app/cNg3uV) *(Design)* |
@@ -60,7 +60,7 @@
 | Joeri | 1 | 2 | [TrainBook](https://www.glaze.app/app/knp7O6) *(Productivity)* |
 | [Johan Thorell](./id/johan-thorell.md) | 4 | 55 | [see all 4 →](./id/johan-thorell.md) |
 | Johann | 1 | 17 | [ScreenZer](https://www.glaze.app/app/RGUoDP) *(Developer Tools)* |
-| Johannes Krejberg Haahr | 1 | 1 | [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) *(Utilities)* |
+| Johannes Krejberg Haahr | 1 | 1 | [KlipTekst](https://www.glaze.app/app/ECER4Y) *(Utilities)* |
 | John Doeet | 1 | 1 | [Sauropod](https://www.glaze.app/app/zCiuE5) *(Developer Tools)* |
 | John Hesch | 3 | 21 | [Screenshot Renamer](https://www.glaze.app/app/6GSlSm) *(Productivity)*, [File Sorter](https://www.glaze.app/app/mst1DY) *(Utilities)*, [Feed Harvest](https://www.glaze.app/app/ghvGgH) *(Productivity)* |
 | John Hunter | 1 | 5 | [Pandora Player](https://www.glaze.app/app/zs85E5) *(Media)* |
@@ -73,8 +73,8 @@
 | Jonathan Millar | 1 | 0 | [Campfires NB](https://www.glaze.app/app/ARGRWo) *(Utilities)* |
 | Jonathan Nyst | 1 | 6 | [Star Keeper](https://www.glaze.app/app/qdA2Jc) *(Developer Tools)* |
 | Jonathan.fusellier | 1 | 17 | [Air Monitor](https://www.glaze.app/app/9iA1yL) *(Utilities)* |
-| Joost Reus | 1 | 7 | [Nexus](https://www.glaze.app/app/eOX5SB) *(Productivity)* |
-| [Jordan Amblin](./id/jordan-amblin.md) | 11 | 699 | [see all 11 →](./id/jordan-amblin.md) |
+| Joost Reus | 1 | 8 | [Nexus](https://www.glaze.app/app/eOX5SB) *(Productivity)* |
+| [Jordan Amblin](./id/jordan-amblin.md) | 11 | 700 | [see all 11 →](./id/jordan-amblin.md) |
 | Jordan Gilroy | 1 | 16 | [Cursor Usage](https://www.glaze.app/app/bfEiF9) *(Developer Tools)* |
 | Jorge | 1 | 2 | [App Revenue](https://www.glaze.app/app/bhkScP) *(Developer Tools)* |
 | Jørgen Arnor | 2 | 8 | [Pickup](https://www.glaze.app/app/fZmn3c) *(Media)*, [On This Day](https://www.glaze.app/app/fbkJca) *(Lifestyle)* |

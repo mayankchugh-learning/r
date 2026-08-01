@@ -34,10 +34,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 487 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 0.1 MB | 2026-04-15 |
+| [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 488 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 0.1 MB | 2026-04-15 |
 | [Cropzor](https://www.glaze.app/app/Cm2M0P) | 9 | Crop, resize, and compress images | ickas | 1.0.0 | 0.1 MB | 2026-07-15 |
 | [PDF & Image Merger](https://www.glaze.app/app/ZAgAgC) | 6 | Merge PDFs and images into a single file | UV | 1.0.0 | 0.3 MB | 2026-04-24 |
 | [dropsize](https://www.glaze.app/app/XM2TL3) | 5 | compress images or videos instantly | vovayaa | 1.0.0 | 0.1 MB | 2026-07-24 |
 | [File Handler](https://www.glaze.app/app/XmXQ3c) | 5 | Control which app opens each file type | Alston Albarado | 1.0.0 | 0.1 MB | 2026-07-06 |
 | [Bing wallpaper](https://www.glaze.app/app/aXcAT1) | 4 | Daily Bing wallpapers in Chinese | extrastu | 2.0.0 | 0.1 MB | 2026-07-02 |
-| [Aside](https://www.glaze.app/app/9T6P7P) | 2 | Put it aside. Pick up when it matters. | Magnus Digitalisering | 3.0.0 | 0.1 MB | 2026-07-28 |
+| [Aside](https://www.glaze.app/app/9T6P7P) | 3 | Put it aside. Pick up when it matters. | Magnus Digitalisering | 3.0.0 | 0.1 MB | 2026-07-28 |

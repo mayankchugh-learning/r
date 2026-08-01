@@ -1,6 +1,6 @@
 # Pedro Duarte
 
-5 apps · 557 installs · [← publishers](../README.md)
+5 apps · 559 installs · [← publishers](../README.md)
 
 ## Developer Tools (1)
 
@@ -18,7 +18,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 114 | Make your text fancy | Pedro Duarte | 7.0.0 | 0.1 MB | 2026-07-20 |
+| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 116 | Make your text fancy | Pedro Duarte | 7.0.0 | 0.1 MB | 2026-07-20 |
 
 ## Productivity (1)
 

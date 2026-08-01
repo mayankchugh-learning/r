@@ -4,12 +4,12 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 226 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 0.4 MB | 2026-07-28 |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 196 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [Gradient Wallpaper](https://www.glaze.app/app/AJuY62) | 32 | Custom gradients for every screen | Adam Molina | 1.0.0 | 0.1 MB | 2026-05-08 |
 | [DITHERMINT](https://www.glaze.app/app/C5rwqe) | 22 | YOUR 1 BIT ART STUDIO | Jac Peregrine-Davies | 2.0.0 | 0.4 MB | 2026-06-03 |
+| [Collections](https://www.glaze.app/app/rlLRUx) | 17 | Organize your visual inspiration | Aum Chauhan | 8.0.0 | 1.0 MB | 2026-07-27 |
 | [Palette](https://www.glaze.app/app/65yIqh) | 17 | Color extraction - the easy way. | melvin | 1.0.0 | 0.0 MB | 2026-04-28 |
-| [Collections](https://www.glaze.app/app/rlLRUx) | 16 | Organize your visual inspiration | Aum Chauhan | 8.0.0 | 1.0 MB | 2026-07-27 |
 | [Pinfont](https://www.glaze.app/app/7IetoU) | 14 | Preview any text across all your local fonts instantly with live customization of size, color, weight, and style. | Dhruv Suthar | 4.0.1 | 0.2 MB | 2026-03-24 |
 | [Backyard Garden Planner](https://www.glaze.app/app/cNg3uV) | 9 | Design and maintain your garden layout | Jenny Dougherty | 1.0.0 | 0.1 MB | 2026-07-05 |
 | [ContrastKit](https://www.glaze.app/app/Ryg1Il) | 8 | Verify color accessibility compliance | Sean Thomas Stuart | 1.0.0 | 0.1 MB | 2026-07-06 |

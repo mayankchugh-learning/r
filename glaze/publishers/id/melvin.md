@@ -1,12 +1,12 @@
 # melvin
 
-6 apps · 354 installs · [← publishers](../README.md)
+6 apps · 355 installs · [← publishers](../README.md)
 
 ## Utilities (3)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Sweep](https://www.glaze.app/app/308emF) | 276 | Tinder for deleting files | melvin | 7.0.0 | 0.1 MB | 2026-07-17 |
+| [Sweep](https://www.glaze.app/app/308emF) | 277 | Tinder for deleting files | melvin | 7.0.0 | 0.1 MB | 2026-07-17 |
 | [DROP](https://www.glaze.app/app/PtgApl) | 19 | Drag, save, and reuse files anywhere | melvin | 1.0.0 | 0.1 MB | 2026-06-02 |
 | [Renamer](https://www.glaze.app/app/YwwX4c) | 7 | Rename pdfs based on list name matching | melvin | 2.0.0 | 0.8 MB | 2026-07-17 |
 

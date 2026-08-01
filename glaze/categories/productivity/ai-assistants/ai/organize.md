@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 194 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 0.1 MB | 2026-07-09 |
+| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 195 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 0.1 MB | 2026-07-09 |
 | [Collect](https://www.glaze.app/app/eG7IS4) | 12 | Save what matters, and review them later | Trueman | 1.0.0 | 3.8 MB | 2026-07-01 |
 | [Papier](https://www.glaze.app/app/LOGFpd) | 6 | Todo app with personality | Hamza Y. | 5.0.0 | 0.8 MB | 2026-07-29 |
 | [Task & Mochi](https://www.glaze.app/app/JmydrY) | 5 | Anti-procrastination companion | Denys Chebotaiev | 17.0.0 | 0.1 MB | 2026-07-30 |

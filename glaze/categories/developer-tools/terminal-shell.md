@@ -27,7 +27,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 212 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 0.1 MB | 2026-04-15 |
+| [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 214 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 0.1 MB | 2026-04-15 |
 | [Diffable](https://www.glaze.app/app/ijgHph) | 10 | Compare text changes side-by-side | Noud Adrichem | 1.0.0 | 0.1 MB | 2026-07-07 |
 | [FTP & SFTP Client](https://www.glaze.app/app/3K5iSj) | 3 | Secure remote file access made simple. | UV | 1.0.0 | 1.8 MB | 2026-04-24 |
 | [PlantUML Editor](https://www.glaze.app/app/R4hr68) | 3 | Diagrams in real time, code your way | Kinsley Ogunmola | 1.0.0 | 0.2 MB | 2026-07-04 |
@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Brui](https://www.glaze.app/app/eOPXRV) | 108 | Visual interface for Homebrew package | Niall | 2.0.0 | 0.1 MB | 2026-07-11 |
 | [SF Symbols Picker](https://www.glaze.app/app/mLt3F7) | 46 | Insert SF Symbols with fuzzy search | Tim Van Damme | 3.0.0 | 0.1 MB | 2026-07-08 |
-| [Chmod Manager](https://www.glaze.app/app/MXi8To) | 15 | Control file permissions with ease | S.Peacock | 6.0.0 | 0.1 MB | 2026-07-27 |
+| [Chmod Manager](https://www.glaze.app/app/MXi8To) | 15 | Control file permissions with ease | S.Peacock | 7.0.0 | 0.1 MB | 2026-07-31 |
 | [Hotkey Reference](https://www.glaze.app/app/RDE7aj) | 15 | Hotkeys at your fingertips, anytime | Shearm | 3.0.0 | 0.1 MB | 2026-06-25 |
 | [Junior](https://www.glaze.app/app/j3JEdV) | 6 | Speak to Junior. He can help you. | Alvi Dervishaj | 1.0.0 | 0.3 MB | 2026-07-01 |
 | [PyDrop](https://www.glaze.app/app/9evSfc) | 5 | Drag, drop, run Python instantly. | S.Peacock | 1.0.0 | 0.1 MB | 2026-07-14 |
