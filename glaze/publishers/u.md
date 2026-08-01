@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Ugo Possenti | 1 | 3 | [Sorty](https://www.glaze.app/app/hccR53) *(Utilities)* |
 | Ulugbek Karimov | 1 | 0 | [Hanabi](https://www.glaze.app/app/PQ9tJk) *(Productivity)* |
-| undefined | 1 | 0 | [Parcel](https://www.glaze.app/app/wLeO87) *(Developer Tools)* |
+| undefined | 1 | 1 | [Parcel](https://www.glaze.app/app/wLeO87) *(Developer Tools)* |
 | Unreal | 1 | 19 | [Whoosh](https://www.glaze.app/app/X9IHOo) *(Media)* |
 | Uros Durdevic | 1 | 3 | [Map My Moments](https://www.glaze.app/app/7oWYzk) *(Lifestyle)* |
 | Utkarsh Bhardwaj | 2 | 5 | [Clipboard](https://www.glaze.app/app/p3RRIf) *(Productivity)*, [Claim Finder](https://www.glaze.app/app/51G14Q) *(Utilities)* |

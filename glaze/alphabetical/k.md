@@ -6,26 +6,26 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 96 | Track keystrokes and mouse clicks by app | Christian Alares | 3.0.0 | 0.1 MB | 2026-04-26 |
+| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 97 | Track keystrokes and mouse clicks by app | Christian Alares | 3.0.0 | 135 KB | 2026-04-26 |
 | [KeyMap](https://www.glaze.app/app/WuhRnA) | 31 | Record your daily keystrokes and optimize your keyboard layout for ergonomic efficiency | Mathieu Dutour | 1.0.1 | 1.2 MB | 2026-03-06 |
-| [Kalcy](https://www.glaze.app/app/gSzJCA) | 14 | Do math with natural language, instantly | Shivraj Roy | 3.0.0 | 0.3 MB | 2026-07-27 |
-| [Keep](https://www.glaze.app/app/M2eK2r) | 10 | Native Google Keep with offline access | Andy Zhu | 1.0.0 | 0.1 MB | 2026-07-04 |
-| [KeyLock](https://www.glaze.app/app/cB6pzV) | 10 | Lock keyboard and clean your keyboard. | Suvesh Moza | 1.0.0 | 0.1 MB | 2026-07-14 |
-| [Kept](https://www.glaze.app/app/FtwSCJ) | 8 | Your memory, offloaded | Mati from Kavaju Resa | 11.0.0 | 0.4 MB | 2026-07-28 |
-| [KeyFlow](https://www.glaze.app/app/SgQPcc) | 8 | Design and organize keyboard shortcuts | Yahir Rivera | 2.0.0 | 0.1 MB | 2026-07-23 |
-| [Keyboard Lock](https://www.glaze.app/app/X6GQGk) | 7 | Lock your keyboard and trackpad. | Marcus do Nascimento | 1.0.0 | 0.1 MB | 2026-07-03 |
-| [KVF](https://www.glaze.app/app/fs0rfD) | 6 | Stream live TV and radio from KVF | Steingrím Ósá | 5.0.0 | 0.1 MB | 2026-07-27 |
-| [Kanban Board](https://www.glaze.app/app/Z4sDK3) | 5 | Visualize your workflow in columns | 荒井翔 | 1.0.0 | 0.1 MB | 2026-07-08 |
-| [KeyFlow](https://www.glaze.app/app/jzKRnC) | 5 | Master typing with precision and speed | Aryan Gupta | 4.0.0 | 0.2 MB | 2026-07-24 |
-| [Knob](https://www.glaze.app/app/ah13w5) | 5 | Say what you want. Find the setting. | Andrei Muntean | 3.0.0 | 0.1 MB | 2026-07-29 |
-| [Kwik-GIF](https://www.glaze.app/app/jOlUSf) | 5 | Fast screen recordings to shareable GIFs | Pardoe | 2.0.0 | 0.1 MB | 2026-07-27 |
+| [Kalcy](https://www.glaze.app/app/gSzJCA) | 14 | Do math with natural language, instantly | Shivraj Roy | 3.0.0 | 272 KB | 2026-07-27 |
+| [Keep](https://www.glaze.app/app/M2eK2r) | 10 | Native Google Keep with offline access | Andy Zhu | 1.0.0 | 54 KB | 2026-07-04 |
+| [KeyLock](https://www.glaze.app/app/cB6pzV) | 10 | Lock keyboard and clean your keyboard. | Suvesh Moza | 1.0.0 | 63 KB | 2026-07-14 |
+| [KeyFlow](https://www.glaze.app/app/SgQPcc) | 9 | Design and organize keyboard shortcuts | Yahir Rivera | 2.0.0 | 72 KB | 2026-07-23 |
+| [Kept](https://www.glaze.app/app/FtwSCJ) | 8 | Your memory, offloaded | Mati from Kavaju Resa | 11.0.0 | 420 KB | 2026-07-28 |
+| [Keyboard Lock](https://www.glaze.app/app/X6GQGk) | 7 | Lock your keyboard and trackpad. | Marcus do Nascimento | 1.0.0 | 58 KB | 2026-07-03 |
+| [KVF](https://www.glaze.app/app/fs0rfD) | 6 | Stream live TV and radio from KVF | Steingrím Ósá | 5.0.0 | 110 KB | 2026-07-27 |
+| [Kanban Board](https://www.glaze.app/app/Z4sDK3) | 5 | Visualize your workflow in columns | 荒井翔 | 1.0.0 | 63 KB | 2026-07-08 |
+| [KeyFlow](https://www.glaze.app/app/jzKRnC) | 5 | Master typing with precision and speed | Aryan Gupta | 5.0.0 | 223 KB | 2026-07-31 |
+| [Knob](https://www.glaze.app/app/ah13w5) | 5 | Say what you want. Find the setting. | Andrei Muntean | 3.0.0 | 84 KB | 2026-07-29 |
+| [Kwik-GIF](https://www.glaze.app/app/jOlUSf) | 5 | Fast screen recordings to shareable GIFs | Pardoe | 2.0.0 | 75 KB | 2026-07-27 |
 | [K9s](https://www.glaze.app/app/CME6cv) | 4 | Manage Kubernetes clusters and resources | Kishan Dadhania | 13.0.0 | 15.5 MB | 2026-07-26 |
-| [Keen Eye](https://www.glaze.app/app/Oenw7Q) | 4 | Track anything. Miss nothing. | Xedrah iOS | 1.0.0 | 0.1 MB | 2026-07-27 |
-| [Keystroke Paste](https://www.glaze.app/app/fdyEG8) | 4 | Type what you can't paste | Steingrím Ósá | 2.0.0 | 0.1 MB | 2026-07-02 |
-| [Kulay (Color)](https://www.glaze.app/app/bbzPPl) | 4 | Pick colors and generate palettes | AJ Batac | 1.0.0 | 0.3 MB | 2026-07-04 |
-| [Key Guard](https://www.glaze.app/app/A6Hce6) | 3 | Clean safely with keyboard lock | Eric Cheung | 1.0.0 | 0.1 MB | 2026-07-09 |
-| [Kip](https://www.glaze.app/app/aWB3Se) | 3 | Reading to learning in one shortcut | PlumbRRRRRR | 8.0.0 | 0.2 MB | 2026-07-28 |
+| [Keen Eye](https://www.glaze.app/app/Oenw7Q) | 4 | Track anything. Miss nothing. | Xedrah iOS | 1.0.0 | 70 KB | 2026-07-27 |
+| [Keystroke Paste](https://www.glaze.app/app/fdyEG8) | 4 | Type what you can't paste | Steingrím Ósá | 2.0.0 | 58 KB | 2026-07-02 |
+| [Kulay (Color)](https://www.glaze.app/app/bbzPPl) | 4 | Pick colors and generate palettes | AJ Batac | 1.0.0 | 332 KB | 2026-07-04 |
+| [Key Guard](https://www.glaze.app/app/A6Hce6) | 3 | Clean safely with keyboard lock | Eric Cheung | 1.0.0 | 58 KB | 2026-07-09 |
+| [Kip](https://www.glaze.app/app/aWB3Se) | 3 | Reading to learning in one shortcut | PlumbRRRRRR | 8.0.0 | 220 KB | 2026-07-28 |
 | [Keep It](https://www.glaze.app/app/BgFHXx) | 2 | A little companion to keep your files. | Andrey Zertsalov | 3.0.0 | 2.1 MB | 2026-07-27 |
-| [Kobako](https://www.glaze.app/app/3ZijTd) | 2 | Your anime, up next in the menu bar. | Martin Gorol | 1.0.0 | 0.1 MB | 2026-07-25 |
-| [KlipTekst](https://www.glaze.app/app/kliptekst-ECER4Y) | 1 | Transform text, instantly from clipboard | Johannes Krejberg Haahr | 2.0.0 | 0.2 MB | 2026-07-30 |
+| [Kobako](https://www.glaze.app/app/3ZijTd) | 2 | Your anime, up next in the menu bar. | Martin Gorol | 1.0.0 | 66 KB | 2026-07-25 |
+| [KlipTekst](https://www.glaze.app/app/ECER4Y) | 1 | Transform text, instantly from clipboard | Johannes Krejberg Haahr | 2.0.0 | 167 KB | 2026-07-30 |
 | [Koi](https://www.glaze.app/app/AeIWHC) | 0 | Your private wellness companion | neekhil vatsa | 1.0.0 | 114.9 MB | 2026-07-28 |

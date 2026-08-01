@@ -18,10 +18,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AudioFlow](https://www.glaze.app/app/74VR9L) | 2 | Convert audio between formats instantly | Adi Goldstein | 1.0.0 | 0.1 MB | 2026-07-27 |
+| [AudioFlow](https://www.glaze.app/app/74VR9L) | 2 | Convert audio between formats instantly | Adi Goldstein | 1.0.0 | 64 KB | 2026-07-27 |
 
 ## Design (1)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Color Magnifi](https://www.glaze.app/app/x1Q3OS) | 0 | Pick any color, use it instantly. | Adi Goldstein | 1.0.0 | 0.1 MB | 2026-07-27 |
+| [Color Magnifi](https://www.glaze.app/app/x1Q3OS) | 0 | Pick any color, use it instantly. | Adi Goldstein | 1.0.0 | 62 KB | 2026-07-27 |

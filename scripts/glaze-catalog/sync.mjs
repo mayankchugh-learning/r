@@ -15,6 +15,7 @@
  *   README.md                stats + section summary + top installs
  *   categories/<slug>/       topic tree per category (nested)
  *   ranked/                  every app ranked by installs (paginated)
+ *   sizes/                   every app ranked by download size (paginated)
  *   publishers/              leaderboard (2 orderings), A–Z, per-publisher pages
  *   alphabetical/<letter>.md every app, A–Z
  *   recent.md                recently published/updated apps
@@ -94,8 +95,16 @@ function mdEscape(text, max = 150) {
 
 const fmtNum = (n) => (n == null ? "—" : Number(n).toLocaleString("en-US"));
 
-// Glaze displays binary units (9.7 MB for 10,206,602 bytes), so match that.
-const fmtSize = (b) => (b == null ? "—" : `${(b / 1048576).toFixed(1)} MB`);
+// Binary units, matching Glaze's own display (it shows 9.7 MB for 10,206,602
+// bytes). Scaled rather than MB-only because 87% of the store is under 1 MB
+// (median ~85 KB), which MB-only would flatten to a uniform "0.1 MB".
+function fmtSize(b) {
+  if (b == null) return "—";
+  const KB = 1024, MB = KB * 1024, GB = MB * 1024;
+  if (b >= GB) return `${(b / GB).toFixed(2)} GB`;
+  if (b >= MB) return `${(b / MB).toFixed(1)} MB`;
+  return `${Math.round(b / KB).toLocaleString("en-US")} KB`;
+}
 
 const fmtDate = (s) => {
   if (!s) return "—";
@@ -125,6 +134,10 @@ function byName(a, b) {
 }
 function byInstalls(a, b) {
   return installsOf(b) - installsOf(a) || byName(a, b);
+}
+const bytesOf = (a) => (a.sizeBytes == null ? -1 : a.sizeBytes);
+function bySize(a, b) {
+  return bytesOf(b) - bytesOf(a) || byName(a, b);
 }
 function byUpdated(a, b) {
   return String(b.publishedAt ?? b.updatedAt ?? "").localeCompare(String(a.publishedAt ?? a.updatedAt ?? "")) || byName(a, b);
@@ -162,7 +175,7 @@ const detailTable = (apps) => [...DETAIL_HEAD, ...[...apps].sort(byInstalls).map
 
 // --- page generation --------------------------------------------------------
 function generate(apps) {
-  for (const d of ["categories", "ranked", "publishers", "alphabetical"]) {
+  for (const d of ["categories", "ranked", "sizes", "publishers", "alphabetical"]) {
     rmSync(path.join(OUT_DIR, d), { recursive: true, force: true });
   }
   // Older builds emitted flat pages at these paths; drop them so they can't linger.
@@ -171,6 +184,9 @@ function generate(apps) {
 
   const ranked = [...apps].sort(byInstalls);
   const totalInstalls = apps.reduce((s, a) => s + (a.installs ?? 0), 0);
+  const knownBytes = apps.map((a) => a.sizeBytes).filter((b) => b != null).sort((x, y) => x - y);
+  const totalBytes = knownBytes.reduce((s, b) => s + b, 0);
+  const medianBytes = knownBytes.length ? knownBytes[Math.floor(knownBytes.length / 2)] : null;
 
   const byCat = groupBy(apps, (a) => a.category);
   const catInstalls = (c) => byCat.get(c).reduce((s, a) => s + (a.installs ?? 0), 0);
@@ -206,42 +222,78 @@ function generate(apps) {
     ...categorySectionLines(cats, (c) => byCat.get(c).length, (c) => `./${slugOf(c)}/README.md`, catInstalls),
   ]);
 
-  // ---- ranked (paginated) ----
-  const rankPages = Math.max(1, Math.ceil(ranked.length / RANK_PAGE));
-  const rankNav = (active) =>
-    Array.from({ length: rankPages }, (_, i) =>
-      i + 1 === active ? `**${i + 1}**` : `[${i + 1}](./${i + 1}.md)`,
-    ).join(" · ");
-  for (let p = 0; p < rankPages; p++) {
-    const slice = ranked.slice(p * RANK_PAGE, (p + 1) * RANK_PAGE);
-    const from = p * RANK_PAGE + 1;
-    writePage(`ranked/${p + 1}.md`, [
-      `# Glaze apps by installs — ${from}–${from + slice.length - 1}`,
+  // ---- rankings (paginated): by installs and by size, cross-linked ----
+  const RANKINGS = [
+    {
+      dir: "ranked",
+      label: "Installs",
+      title: "installs",
+      order: byInstalls,
+      metric: "Installs",
+      valueOf: (a) => fmtNum(a.installs),
+      summary: `${fmtNum(totalInstalls)} installs total`,
+      lead: "most-installed",
+    },
+    {
+      dir: "sizes",
+      label: "Size",
+      title: "size",
+      order: bySize,
+      metric: "Size",
+      valueOf: (a) => fmtSize(a.sizeBytes),
+      summary: `${fmtSize(totalBytes)} total · median ${fmtSize(medianBytes)}`,
+      lead: "largest",
+    },
+  ];
+  for (const view of RANKINGS) {
+    const list = [...apps].sort(view.order);
+    const pages = Math.max(1, Math.ceil(list.length / RANK_PAGE));
+    const nav = (active) =>
+      Array.from({ length: pages }, (_, i) =>
+        i + 1 === active ? `**${i + 1}**` : `[${i + 1}](./${i + 1}.md)`,
+      ).join(" · ");
+    // Toggle between the two orderings, mirroring the publishers leaderboard.
+    const toggle = (self) =>
+      "**Sort:** " +
+      RANKINGS.map((v) =>
+        v.dir === self ? `**${v.label}**` : `[${v.label}](../${v.dir}/README.md)`,
+      ).join(" · ");
+
+    for (let p = 0; p < pages; p++) {
+      const slice = list.slice(p * RANK_PAGE, (p + 1) * RANK_PAGE);
+      const from = p * RANK_PAGE + 1;
+      writePage(`${view.dir}/${p + 1}.md`, [
+        `# Glaze apps by ${view.title} — ${from}–${from + slice.length - 1}`,
+        "",
+        `of ${list.length} apps · ${view.summary} · [← Glaze catalog](../README.md)`,
+        "",
+        toggle(view.dir),
+        "",
+        pages > 1 ? nav(p + 1) : undefined,
+        "",
+        `| # | App | ${view.metric} | Category | Publisher | Version |`,
+        "| --- | --- | --- | --- | --- | --- |",
+        ...slice.map(
+          (a, j) =>
+            `| ${from + j} | ${appLink(a)} | ${view.valueOf(a)} | ${a.category} | ${mdEscape(
+              a.publisher ?? "—",
+              40,
+            )} | ${a.version ?? "—"} |`,
+        ),
+      ]);
+    }
+    writePage(`${view.dir}/README.md`, [
+      `# Glaze apps by ${view.title}`,
       "",
-      `of ${ranked.length} apps · ${fmtNum(totalInstalls)} installs total · [← Glaze catalog](../README.md)`,
+      `All ${list.length} apps ranked by ${view.title} · [← Glaze catalog](../README.md)`,
       "",
-      rankPages > 1 ? rankNav(p + 1) : undefined,
+      toggle(view.dir),
       "",
-      "| # | App | Installs | Category | Publisher | Version |",
-      "| --- | --- | --- | --- | --- | --- |",
-      ...slice.map(
-        (a, j) =>
-          `| ${from + j} | ${appLink(a)} | ${fmtNum(a.installs)} | ${a.category} | ${mdEscape(
-            a.publisher ?? "—",
-            40,
-          )} | ${a.version ?? "—"} |`,
-      ),
+      nav(0),
+      "",
+      `Start at [page 1](./1.md) for the ${view.lead} apps.`,
     ]);
   }
-  writePage("ranked/README.md", [
-    "# Glaze apps by installs",
-    "",
-    `All ${ranked.length} apps ranked by installs · [← Glaze catalog](../README.md)`,
-    "",
-    rankNav(0),
-    "",
-    "Start at [page 1](./1.md) for the most-installed apps.",
-  ]);
 
   // ---- publishers: leaderboard (two orderings) + A–Z + pages for big ones ----
   const byPub = groupBy(apps.filter((a) => a.publisher), (a) => a.publisher);
@@ -389,13 +441,16 @@ function generate(apps) {
     "",
     `**${fmtNum(apps.length)}** apps · **${cats.length}** categories · **${fmtNum(
       publishers.length,
-    )}** publishers · **${fmtNum(totalInstalls)}** installs`,
+    )}** publishers · **${fmtNum(totalInstalls)}** installs · **${fmtSize(totalBytes)}** total, median **${fmtSize(
+      medianBytes,
+    )}**`,
     "",
     "## Browse",
     "",
     "| View | |",
     "| --- | --- |",
     "| [By installs](./ranked/README.md) | every app ranked by install count |",
+    "| [By size](./sizes/README.md) | every app ranked by download size |",
     `| [By category](./categories/README.md) | ${cats.length} categories → curated topics → auto-discovered groups (✦), nested as deep as the data supports |`,
     `| [By publisher](./publishers/README.md) | ${fmtNum(publishers.length)} publishers, sortable by installs or app count |`,
     `| [Alphabetical](./alphabetical/${letters[0].toLowerCase()}.md) | every app, A–Z |`,

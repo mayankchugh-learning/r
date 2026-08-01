@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-55 publishers · [← publisher index](./README.md)
+56 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
@@ -19,18 +19,18 @@
 | Patrick Nielsen | 2 | 9 | [Terso](https://www.glaze.app/app/Y3F1BS) *(Utilities)*, [Nyeste](https://www.glaze.app/app/c5MZye) *(Utilities)* |
 | Patryk Lasek | 1 | 13 | [FrameShot](https://www.glaze.app/app/mN49V5) *(Design)* |
 | Paul Angeles | 1 | 8 | [Pokédex Ultra](https://www.glaze.app/app/16g4nM) *(Games & Fun)* |
-| Paul Contreras | 1 | 1 | [Stash](https://www.glaze.app/app/e3AIsd) *(Productivity)* |
+| Paul Contreras | 1 | 2 | [Stash](https://www.glaze.app/app/e3AIsd) *(Productivity)* |
 | Paul Seagull | 1 | 10 | [CineRoulette](https://www.glaze.app/app/PogX5d) *(Media)* |
 | Paulo Duarte | 1 | 3 | [Spin the Wheel](https://www.glaze.app/app/Nl4AlJ) *(Games & Fun)* |
 | Paulo Lobo | 1 | 2 | [Scope](https://www.glaze.app/app/MRB1TC) *(Productivity)* |
 | Pavlina Schuster | 1 | 3 | [Dock Shifter](https://www.glaze.app/app/rXJ5CI) *(Utilities)* |
-| Pavlo Haidamak | 2 | 26 | [Apptopsy](https://www.glaze.app/app/kWwP7l) *(Developer Tools)*, [Chirp Chirrup](https://www.glaze.app/app/2z2j75) *(Lifestyle)* |
-| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 556 | [see all 5 →](./id/pedro-duarte.md) |
+| Pavlo Haidamak | 2 | 27 | [Apptopsy](https://www.glaze.app/app/kWwP7l) *(Developer Tools)*, [Chirp Chirrup](https://www.glaze.app/app/2z2j75) *(Lifestyle)* |
+| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 559 | [see all 5 →](./id/pedro-duarte.md) |
 | Pedro Fonseca | 2 | 1 | [WooPulse AI](https://www.glaze.app/app/cd6wTA) *(Productivity)*, [Unlink](https://www.glaze.app/app/Y2Xn6B) *(Utilities)* |
-| Pedro Ladeira | 1 | 1 | [Stretch Break](https://www.glaze.app/app/Y7qUx0) *(Productivity)* |
+| Pedro Ladeira | 1 | 2 | [Stretch Break](https://www.glaze.app/app/Y7qUx0) *(Productivity)* |
 | Pedro Marvarez | 1 | 12 | [Flow](https://www.glaze.app/app/v9gzNN) *(Productivity)* |
 | [Per Nielsen Tikær](./id/per-nielsen-tik-r.md) | 6 | 111 | [see all 6 →](./id/per-nielsen-tik-r.md) |
-| Petar Stoyanov | 2 | 12 | [The Jarvis](https://www.glaze.app/app/8pGlBl) *(Productivity)*, [Githuby](https://www.glaze.app/app/pmFFrb) *(Developer Tools)* |
+| Petar Stoyanov | 2 | 13 | [The Jarvis](https://www.glaze.app/app/8pGlBl) *(Productivity)*, [Githuby](https://www.glaze.app/app/pmFFrb) *(Developer Tools)* |
 | Petar Yovkov | 2 | 6 | [Comma Chameleon](https://www.glaze.app/app/RWDn2J) *(Utilities)*, [Ringtone Cutter](https://www.glaze.app/app/zhwq3k) *(Utilities)* |
 | Pete Ware | 1 | 2 | [Photo Filter](https://www.glaze.app/app/KrNFl6) *(Utilities)* |
 | Peter Brinck | 1 | 4 | [Now Playing](https://www.glaze.app/app/wTArrC) *(Utilities)* |
@@ -40,7 +40,7 @@
 | Peter Ptok | 1 | 5 | [Until](https://www.glaze.app/app/F9ExKa) *(Productivity)* |
 | Peter Scheurer | 1 | 11 | [Next up?](https://www.glaze.app/app/A8aXwn) *(Productivity)* |
 | Peter Theill | 1 | 1 | [Clipboard Share](https://www.glaze.app/app/eelDDd) *(Utilities)* |
-| Petr Nikolaev | 1 | 197 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) *(Developer Tools)* |
+| Petr Nikolaev | 1 | 198 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) *(Developer Tools)* |
 | Petrus Pierre | 1 | 4 | [ThreeD](https://www.glaze.app/app/a0GwiK) *(Utilities)* |
 | Philip Han | 1 | 2 | [Mic Lock](https://www.glaze.app/app/af0Wa6) *(Utilities)* |
 | Philipp.Herzig | 2 | 22 | [Capture Studio](https://www.glaze.app/app/0c5CW4) *(Media)*, [Contrast Control](https://www.glaze.app/app/kHVzuV) *(Utilities)* |
@@ -48,6 +48,7 @@
 | Pierre | 1 | 13 | [Local Mind](https://www.glaze.app/app/gXDcGx) *(Developer Tools)* |
 | Pierre Guilmin | 1 | 10 | [Earshot](https://www.glaze.app/app/G4xftZ) *(Utilities)* |
 | Pieter Moorman | 1 | 3 | [Long Play](https://www.glaze.app/app/Vzaw38) *(Media)* |
+| Piyushh Bhutoria | 1 | 9 | [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) *(Developer Tools)* |
 | PlumbRRRRRR | 1 | 3 | [Kip](https://www.glaze.app/app/aWB3Se) *(Productivity)* |
 | Pm.Delvern | 1 | 2 | [Lyric Finder](https://www.glaze.app/app/5Uepfq) *(Media)* |
 | Pocetox | 1 | 2 | [ForgeBoard](https://www.glaze.app/app/ESOFef) *(Developer Tools)* |

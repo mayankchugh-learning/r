@@ -6,7 +6,7 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| Iamgregb | 1 | 5 | [Daymark](https://www.glaze.app/app/MX1yNN) *(Productivity)* |
+| Iamgregb | 1 | 6 | [Daymark](https://www.glaze.app/app/MX1yNN) *(Productivity)* |
 | Ian Hsiao | 1 | 0 | [Timer Tracker](https://www.glaze.app/app/a16qmM) *(Productivity)* |
 | Iaroslav Naiden | 1 | 4 | [NetWatch](https://www.glaze.app/app/1Ds4iP) *(Utilities)* |
 | Ibrahim Pima | 1 | 3 | [Rico](https://www.glaze.app/app/Uy3sMv) *(Productivity)* |
@@ -21,6 +21,6 @@
 | ipchanwang | 1 | 1 | [Gyme](https://www.glaze.app/app/pqmk90) *(Lifestyle)* |
 | Ivan | 1 | 5 | [Raum](https://www.glaze.app/app/Oh0j4Y) *(Media)* |
 | Ivane Shaishmelashvili | 1 | 1 | [AudioBook Builder](https://www.glaze.app/app/eOM0Mt) *(Utilities)* |
-| Ivo Fonseca | 2 | 257 | [Reading Corner](https://www.glaze.app/app/k3tfty) *(Productivity)*, [Rams Radio](https://www.glaze.app/app/hefCaI) *(Media)* |
-| Ivo Tanev | 3 | 16 | [Agent Meter](https://www.glaze.app/app/PHZFWg) *(Developer Tools)*, [Bitrate Inspector](https://www.glaze.app/app/K56QgJ) *(Developer Tools)*, [Monitor Snap](https://www.glaze.app/app/2DiSf1) *(Utilities)* |
+| Ivo Fonseca | 2 | 259 | [Reading Corner](https://www.glaze.app/app/k3tfty) *(Productivity)*, [Rams Radio](https://www.glaze.app/app/hefCaI) *(Media)* |
+| Ivo Tanev | 3 | 17 | [Agent Meter](https://www.glaze.app/app/PHZFWg) *(Developer Tools)*, [Bitrate Inspector](https://www.glaze.app/app/K56QgJ) *(Developer Tools)*, [Monitor Snap](https://www.glaze.app/app/2DiSf1) *(Utilities)* |
 | Izak Jackson | 1 | 7 | [Client Mate](https://www.glaze.app/app/cdQv2e) *(Productivity)* |

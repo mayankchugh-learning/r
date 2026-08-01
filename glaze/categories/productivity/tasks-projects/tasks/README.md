@@ -1,10 +1,10 @@
 # Tasks ✦
 
-55 apps · [← Tasks & Projects](../README.md)
+56 apps · [← Tasks & Projects](../README.md)
 
 | Topic | Apps |
 | --- | --- |
-| [Organize ✦](./organize.md) | 19 |
+| [Organize ✦](./organize.md) | 20 |
 | [Focus ✦](./focus.md) | 12 |
 | [Between ✦](./between.md) | 7 |
 | [Complete ✦](./complete.md) | 4 |

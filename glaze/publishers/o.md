@@ -6,7 +6,7 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| oberon lai | 1 | 13 | [Skill Manager](https://www.glaze.app/app/g1ZCh2) *(Developer Tools)* |
+| oberon lai | 1 | 14 | [Skill Manager](https://www.glaze.app/app/g1ZCh2) *(Developer Tools)* |
 | OctaneXyz | 1 | 2 | [Almost](https://www.glaze.app/app/J7lOcF) *(Productivity)* |
 | Office | 1 | 4 | [Token Watch](https://www.glaze.app/app/q4eH7B) *(Developer Tools)* |
 | office Roy Ribak | 1 | 23 | [PromptVault](https://www.glaze.app/app/N0xoJh) *(Productivity)* |
@@ -16,12 +16,12 @@
 | Oleh Yeroshkin | 1 | 8 | [Translate](https://www.glaze.app/app/NTmoY8) *(Utilities)* |
 | Oli ver | 1 | 6 | [Portal Fetch](https://www.glaze.app/app/4gzZIB) *(Utilities)* |
 | Oliver | 1 | 1 | [Media Meta](https://www.glaze.app/app/DSbjUR) *(Utilities)* |
-| Oliver Posselt | 2 | 100 | [Health Fusion](https://www.glaze.app/app/ikcWiD) *(Utilities)*, [Drop2Markdown](https://www.glaze.app/app/E8OW9Q) *(Utilities)* |
+| Oliver Posselt | 2 | 103 | [Health Fusion](https://www.glaze.app/app/ikcWiD) *(Utilities)*, [Drop2Markdown](https://www.glaze.app/app/E8OW9Q) *(Utilities)* |
 | [Olivia Rukavina](./id/olivia-rukavina.md) | 4 | 9 | [see all 4 →](./id/olivia-rukavina.md) |
 | Ololade Stephen | 1 | 3 | [Mamori](https://www.glaze.app/app/dKCots) *(Productivity)* |
 | OM CHANDANKAR | 1 | 10 | [CodeCanvas](https://www.glaze.app/app/r9V0pc) *(Developer Tools)* |
 | Oryam Nehoray | 1 | 12 | [Agent Skills Manager](https://www.glaze.app/app/GhFNA9) *(Developer Tools)* |
-| Oscar Hernandez | 1 | 8 | [Prosody](https://www.glaze.app/app/4eQt0V) *(Utilities)* |
+| Oscar Hernandez | 1 | 9 | [Prosody](https://www.glaze.app/app/4eQt0V) *(Utilities)* |
 | Oskar Piekielniak | 1 | 7 | [radiomore.love](https://www.glaze.app/app/v1dchB) *(Media)* |
 | Otiete Ayebanua | 1 | 4 | [Orb](https://www.glaze.app/app/IS4qqc) *(Productivity)* |
 | Oussama Mohamed | 1 | 1 | [Agent Watch](https://www.glaze.app/app/VeBjRh) *(Developer Tools)* |
