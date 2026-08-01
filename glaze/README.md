@@ -2,13 +2,14 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**1,563** apps · **7** categories · **1,158** publishers · **26,690** installs
+**1,563** apps · **7** categories · **1,158** publishers · **26,881** installs · **2.65 GB** total, median **84 KB**
 
 ## Browse
 
 | View | |
 | --- | --- |
 | [By installs](./ranked/README.md) | every app ranked by install count |
+| [By size](./sizes/README.md) | every app ranked by download size |
 | [By category](./categories/README.md) | 7 categories → curated topics → auto-discovered groups (✦), nested as deep as the data supports |
 | [By publisher](./publishers/README.md) | 1,158 publishers, sortable by installs or app count |
 | [Alphabetical](./alphabetical/a.md) | every app, A–Z |
@@ -19,26 +20,26 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Section | Categories | Apps | Installs |
 | --- | --- | --- | --- |
-| Work & Productivity | Productivity | 503 | 5,748 |
-| Development | Developer Tools | 314 | 7,579 |
-| System & Utilities | Utilities | 386 | 5,927 |
-| Creative & Media | Design, Media | 223 | 6,256 |
-| Life & Play | Lifestyle, Games & Fun | 137 | 1,180 |
+| Work & Productivity | Productivity | 503 | 5,828 |
+| Development | Developer Tools | 314 | 7,600 |
+| System & Utilities | Utilities | 386 | 5,973 |
+| Creative & Media | Design, Media | 223 | 6,293 |
+| Life & Play | Lifestyle, Games & Fun | 137 | 1,187 |
 
 ## Most installed
 
 | # | App | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- |
 | 1 | [World Cup 2026](https://www.glaze.app/app/PtePF9) | 1,468 | Media | Thomas Paul Mann |
-| 2 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 844 | Developer Tools | Boufford |
-| 3 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 842 | Developer Tools | alexi.build |
+| 2 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 846 | Developer Tools | alexi.build |
+| 3 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 846 | Developer Tools | Boufford |
 | 4 | [ray.fm](https://www.glaze.app/app/Af8oi9) | 839 | Media | Samuel Kraft |
 | 5 | [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 704 | Developer Tools | Nichlas Wærnes Andersen |
-| 6 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 612 | Developer Tools | Thomas Paul Mann |
-| 7 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 488 | Utilities | Jordan Amblin |
-| 8 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 420 | Utilities | Thomas Paul Mann |
-| 9 | [Peel](https://www.glaze.app/app/peel-esimhU) | 410 | Utilities | Thomas Paul Mann |
-| 10 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 402 | Productivity | Khalid Hasan Zibon |
+| 6 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 614 | Developer Tools | Thomas Paul Mann |
+| 7 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 489 | Utilities | Jordan Amblin |
+| 8 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 426 | Utilities | Thomas Paul Mann |
+| 9 | [Peel](https://www.glaze.app/app/peel-esimhU) | 412 | Utilities | Thomas Paul Mann |
+| 10 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 405 | Productivity | Khalid Hasan Zibon |
 
 ## How this stays up to date
 

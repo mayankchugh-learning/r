@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [S.Peacock](./id/s-peacock.md) | 6 | 38 | [see all 6 →](./id/s-peacock.md) |
 | Sabik Biswas | 1 | 10 | [Copy Shelf](https://www.glaze.app/app/DO5ttX) *(Utilities)* |
-| Sachin | 1 | 11 | [Saturn](https://www.glaze.app/app/ewPgBX) *(Productivity)* |
+| Sachin | 1 | 12 | [Saturn](https://www.glaze.app/app/ewPgBX) *(Productivity)* |
 | Saeed Vaziry | 1 | 6 | [Task List](https://www.glaze.app/app/0mqTCb) *(Productivity)* |
 | Sahil Patel | 1 | 20 | [Convert](https://www.glaze.app/app/lSbAX2) *(Utilities)* |
 | Sahil Yadav | 2 | 4 | [ClipTidy](https://www.glaze.app/app/xraQAF) *(Productivity)*, [Paddock](https://www.glaze.app/app/AM58Qz) *(Media)* |
@@ -30,11 +30,11 @@
 | Samuel Monteiro | 1 | 6 | [Hold](https://www.glaze.app/app/GvHeQR) *(Productivity)* |
 | Sander Schat | 1 | 4 | [Local Server](https://www.glaze.app/app/Lk3DCH) *(Developer Tools)* |
 | Sandipan Kundu | 1 | 3 | [Spotlight](https://www.glaze.app/app/ks65fD) *(Developer Tools)* |
-| Sandra Booker | 1 | 1 | [Headroom](https://www.glaze.app/app/hgpQYO) *(Utilities)* |
+| Sandra Booker | 1 | 2 | [Headroom](https://www.glaze.app/app/hgpQYO) *(Utilities)* |
 | Sanjay | 1 | 5 | [Temp Notes](https://www.glaze.app/app/zoWhyz) *(Productivity)* |
 | Sasha Derivanov | 1 | 6 | [Vibe Capture](https://www.glaze.app/app/08MTux) *(Developer Tools)* |
 | Satyaachanti1710 | 1 | 4 | [Screen Balance](https://www.glaze.app/app/v7bnAv) *(Productivity)* |
-| Saurishs1215 | 1 | 8 | [Clouded](https://www.glaze.app/app/oB6cWu) *(Productivity)* |
+| Saurishs1215 | 1 | 9 | [Clouded](https://www.glaze.app/app/oB6cWu) *(Productivity)* |
 | Scoop | 1 | 28 | [Airwave](https://www.glaze.app/app/4OhADX) *(Media)* |
 | Scott Newbury | 1 | 6 | [Simple ToDo](https://www.glaze.app/app/tFumaz) *(Productivity)* |
 | Scott Steinhardt | 1 | 9 | [Actually](https://www.glaze.app/app/9SRDcb) *(Productivity)* |
@@ -82,7 +82,7 @@
 | Solomon Adzape | 1 | 3 | [Relay](https://www.glaze.app/app/OcQkmG) *(Productivity)* |
 | Solve Base | 3 | 11 | [Task List](https://www.glaze.app/app/9HYu19) *(Productivity)*, [Habit Tracker](https://www.glaze.app/app/nOfsDB) *(Productivity)*, [SolveBase Water Reminder](https://www.glaze.app/app/6bFtte) *(Productivity)* |
 | Song Qian | 1 | 4 | [Deskmate](https://www.glaze.app/app/ki1c5r) *(Productivity)* |
-| Sonia Kahn | 1 | 16 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) *(Productivity)* |
+| Sonia Kahn | 1 | 18 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) *(Productivity)* |
 | Sonia Toqqe | 1 | 2 | [VoiceFrame](https://www.glaze.app/app/2ehSvS) *(Productivity)* |
 | spencersmith.site | 1 | 3 | [Nightshift](https://www.glaze.app/app/Iv56bT) *(Games & Fun)* |
 | Square Rabbit | 1 | 10 | [Reel Scout](https://www.glaze.app/app/D2po61) *(Media)* |

@@ -39,5 +39,5 @@
 | Grzegorz Zalewski | 1 | 0 | [Caffeine Manager](https://www.glaze.app/app/ssty8w) *(Utilities)* |
 | Guilherme Bomfim | 1 | 4 | [Browser Switch](https://www.glaze.app/app/rDT1xC) *(Utilities)* |
 | gumadeiars | 1 | 2 | [Ribbit](https://www.glaze.app/app/JhZvqe) *(Lifestyle)* |
-| gutek | 2 | 14 | [Focus Light](https://www.glaze.app/app/2BRyPC) *(Utilities)*, [BitPerfect](https://www.glaze.app/app/yYGHPD) *(Utilities)* |
+| gutek | 2 | 15 | [Focus Light](https://www.glaze.app/app/2BRyPC) *(Utilities)*, [BitPerfect](https://www.glaze.app/app/yYGHPD) *(Utilities)* |
 | GYEONGMO KIM | 1 | 13 | [Clean Your Mac](https://www.glaze.app/app/QwRrMO) *(Utilities)* |

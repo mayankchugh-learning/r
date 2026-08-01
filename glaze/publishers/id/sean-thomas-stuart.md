@@ -6,15 +6,15 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Window](https://www.glaze.app/app/RXSuMU) | 24 | Weather, reimagined as light. | Sean Thomas Stuart | 2.0.0 | 0.1 MB | 2026-07-19 |
+| [Window](https://www.glaze.app/app/RXSuMU) | 24 | Weather, reimagined as light. | Sean Thomas Stuart | 2.0.0 | 71 KB | 2026-07-19 |
 
 ## Developer Tools (3)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Chromate](https://www.glaze.app/app/6cx0ui) | 13 | Convert colors, any format, instantly | Sean Thomas Stuart | 1.0.0 | 0.1 MB | 2026-07-02 |
-| [Repo Pulse](https://www.glaze.app/app/NOIZGl) | 6 | Track your GitHub repos in real time | Sean Thomas Stuart | 1.0.0 | 0.1 MB | 2026-07-12 |
-| [Deploy Desk](https://www.glaze.app/app/dbSUVq) | 4 | Monitor deployments right from your Mac | Sean Thomas Stuart | 4.0.0 | 0.3 MB | 2026-07-20 |
+| [Chromate](https://www.glaze.app/app/6cx0ui) | 13 | Convert colors, any format, instantly | Sean Thomas Stuart | 1.0.0 | 73 KB | 2026-07-02 |
+| [Repo Pulse](https://www.glaze.app/app/NOIZGl) | 6 | Track your GitHub repos in real time | Sean Thomas Stuart | 1.0.0 | 84 KB | 2026-07-12 |
+| [Deploy Desk](https://www.glaze.app/app/dbSUVq) | 4 | Monitor deployments right from your Mac | Sean Thomas Stuart | 4.0.0 | 339 KB | 2026-07-20 |
 
 ## Productivity (2)
 
@@ -27,4 +27,4 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ContrastKit](https://www.glaze.app/app/Ryg1Il) | 8 | Verify color accessibility compliance | Sean Thomas Stuart | 1.0.0 | 0.1 MB | 2026-07-06 |
+| [ContrastKit](https://www.glaze.app/app/Ryg1Il) | 8 | Verify color accessibility compliance | Sean Thomas Stuart | 1.0.0 | 90 KB | 2026-07-06 |

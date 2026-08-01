@@ -6,6 +6,6 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Zones](https://www.glaze.app/app/mHtfuc) | 131 | Your team's local time, at a glance. | Wayne Betts Jr | 10.0.0 | 0.1 MB | 2026-07-24 |
-| [ZenTypst](https://www.glaze.app/app/4No2Go) | 3 | A Zen Typst editor | Saif Hussain | 1.0.0 | 0.7 MB | 2026-06-12 |
-| [Zipper](https://www.glaze.app/app/JdJyJW) | 1 | Compress files | Lee Sherman | 1.0.0 | 0.1 MB | 2026-07-16 |
+| [Zones](https://www.glaze.app/app/mHtfuc) | 131 | Your team's local time, at a glance. | Wayne Betts Jr | 10.0.0 | 96 KB | 2026-07-24 |
+| [ZenTypst](https://www.glaze.app/app/4No2Go) | 3 | A Zen Typst editor | Saif Hussain | 1.0.0 | 751 KB | 2026-06-12 |
+| [Zipper](https://www.glaze.app/app/JdJyJW) | 1 | Compress files | Lee Sherman | 1.0.0 | 67 KB | 2026-07-16 |

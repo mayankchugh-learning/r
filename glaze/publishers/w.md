@@ -15,7 +15,7 @@
 | [Werner Deuermeier](./id/werner-deuermeier.md) | 7 | 50 | [see all 7 →](./id/werner-deuermeier.md) |
 | Wesam Abuznadah | 2 | 16 | [Claude Meter](https://www.glaze.app/app/zyWYVY) *(Developer Tools)*, [Markdown Viewer & Editor](https://www.glaze.app/app/wj5i6Y) *(Developer Tools)* |
 | Wesley Budding | 1 | 1 | [DDNews](https://www.glaze.app/app/0Znbeo) *(Productivity)* |
-| [WheelHugger](./id/wheelhugger.md) | 7 | 133 | [see all 7 →](./id/wheelhugger.md) |
+| [WheelHugger](./id/wheelhugger.md) | 7 | 134 | [see all 7 →](./id/wheelhugger.md) |
 | Wil | 1 | 2 | [ChromaEye](https://www.glaze.app/app/P0AfSz) *(Utilities)* |
 | Will Fischer | 1 | 19 | [ClockScreen](https://www.glaze.app/app/x4d5qo) *(Utilities)* |
 | Will.Fitzgerald | 1 | 1 | [SQLite Studio](https://www.glaze.app/app/s9kJ2z) *(Developer Tools)* |

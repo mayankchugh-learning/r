@@ -24,7 +24,7 @@
 | chottodare | 1 | 3 | [Sei — Quick Actions for Finder](https://www.glaze.app/app/y9t2mE) *(Productivity)* |
 | Chris | 1 | 1 | [Day Pie](https://www.glaze.app/app/SzJwkh) *(Productivity)* |
 | Chris Durham | 1 | 7 | [TicTac](https://www.glaze.app/app/WQIbaK) *(Productivity)* |
-| Chris Lacorte | 1 | 1 | [Timber](https://www.glaze.app/app/Q1ISdK) *(Lifestyle)* |
+| Chris Lacorte | 1 | 2 | [Timber](https://www.glaze.app/app/Q1ISdK) *(Lifestyle)* |
 | Chris Malone | 1 | 13 | [Image Convert](https://www.glaze.app/app/rbU02h) *(Utilities)* |
 | Chris Messina | 1 | 2 | [Tesla Energy](https://www.glaze.app/app/I6VIKJ) *(Utilities)* |
 | Chris Stoddard | 1 | 12 | [Beat Maker](https://www.glaze.app/app/cA7hhz) *(Media)* |
@@ -43,11 +43,11 @@
 | Cody Cochran | 1 | 1 | [MetaBurn](https://www.glaze.app/app/g7Tz5a) *(Utilities)* |
 | Cold Frog | 1 | 29 | [Network Inspector](https://www.glaze.app/app/T1dGR9) *(Developer Tools)* |
 | Coldfinch | 1 | 15 | [Claude Quick](https://www.glaze.app/app/hom5Jn) *(Developer Tools)* |
-| Colin Begemann | 1 | 1 | [Fun Notes](https://www.glaze.app/app/5gglqK) *(Productivity)* |
+| Colin Begemann | 1 | 2 | [Fun Notes](https://www.glaze.app/app/5gglqK) *(Productivity)* |
 | Colin Butts | 1 | 3 | [Sheaf](https://www.glaze.app/app/GxIxXb) *(Productivity)* |
 | Colin DiCarlo | 1 | 1 | [Exposure](https://www.glaze.app/app/TV1xcx) *(Design)* |
 | Colm Lenehan | 1 | 19 | [Nexus](https://www.glaze.app/app/Dln2VU) *(Utilities)* |
-| Combustion Studio | 1 | 399 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) *(Media)* |
+| Combustion Studio | 1 | 400 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) *(Media)* |
 | Cornelius | 3 | 63 | [Skim](https://www.glaze.app/app/vEYysi) *(Productivity)*, [ATLAS](https://www.glaze.app/app/ovPml8) *(Productivity)*, [Quire](https://www.glaze.app/app/y5aT7t) *(Utilities)* |
 | [credesasq](./id/credesasq.md) | 5 | 3 | [see all 5 →](./id/credesasq.md) |
 | Crystal | 1 | 1 | [Planted](https://www.glaze.app/app/YujFy8) *(Lifestyle)* |

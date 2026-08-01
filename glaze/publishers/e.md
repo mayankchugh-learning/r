@@ -23,16 +23,16 @@
 | Elijah Oreoluwa | 1 | 1 | [Bench](https://www.glaze.app/app/ndizSO) *(Developer Tools)* |
 | Elior Boukhobza | 3 | 4 | [Folder Customizer](https://www.glaze.app/app/bfGhVQ) *(Utilities)*, [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) *(Utilities)*, [Pokémon Quiz Master](https://www.glaze.app/app/9fs8mk) *(Games & Fun)* |
 | Elisac | 2 | 4 | [Menu Music](https://www.glaze.app/app/bP67GH) *(Utilities)*, [Clipboard Menu](https://www.glaze.app/app/1gxvnh) *(Utilities)* |
-| Elizabeth Lin | 1 | 27 | [seesaw](https://www.glaze.app/app/YRdevl) *(Productivity)* |
+| Elizabeth Lin | 1 | 28 | [seesaw](https://www.glaze.app/app/YRdevl) *(Productivity)* |
 | Elliott Mangham | 1 | 10 | [Agent Arcade](https://www.glaze.app/app/vBkDof) *(Games & Fun)* |
 | Elston Yee | 1 | 2 | [English to Chinese](https://www.glaze.app/app/QPtyhn) *(Utilities)* |
-| Elvis | 1 | 2 | [Smeenshot](https://www.glaze.app/app/lGCEpP) *(Utilities)* |
+| Elvis | 1 | 3 | [Smeenshot](https://www.glaze.app/app/lGCEpP) *(Utilities)* |
 | Emanuele Moricci | 1 | 5 | [Gesture It!](https://www.glaze.app/app/RBxcah) *(Design)* |
 | Emilio Escobar | 1 | 28 | [Hacker News Reader](https://www.glaze.app/app/6JMi6H) *(Developer Tools)* |
 | Emir Amanbekov | 1 | 2 | [Timelines](https://www.glaze.app/app/J6ZdKS) *(Utilities)* |
 | Emk920 | 1 | 5 | [Recall - Instant Image Indexing](https://www.glaze.app/app/uxEadg) *(Utilities)* |
 | Emmanuel Umoru | 1 | 31 | [Vitrine](https://www.glaze.app/app/JSshUC) *(Developer Tools)* |
-| Emre ŞEN | 1 | 30 | [Clean Disk](https://www.glaze.app/app/mX1eWK) *(Utilities)* |
+| Emre ŞEN | 1 | 31 | [Clean Disk](https://www.glaze.app/app/mX1eWK) *(Utilities)* |
 | Erbil Nas | 3 | 6 | [Don't Be AFK](https://www.glaze.app/app/2SXArO) *(Utilities)*, [Cura](https://www.glaze.app/app/HP0tKT) *(Developer Tools)*, [Git Persona](https://www.glaze.app/app/l3UPlC) *(Developer Tools)* |
 | [Eric Cheung](./id/eric-cheung.md) | 4 | 12 | [see all 4 →](./id/eric-cheung.md) |
 | Eric McQuesten | 1 | 3 | [Goal Focus](https://www.glaze.app/app/s3vTde) *(Productivity)* |

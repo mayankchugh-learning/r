@@ -36,9 +36,9 @@
 | Rizal Ramadhan | 1 | 2 | [Vibemaxx](https://www.glaze.app/app/KpAO18) *(Developer Tools)* |
 | Rizky Fathul | 1 | 1 | [Salat & Fasting Time](https://www.glaze.app/app/TKxqBB) *(Lifestyle)* |
 | Robert Adamczewski | 1 | 1 | [Garage Ledger](https://www.glaze.app/app/vpkKgP) *(Utilities)* |
-| Robert Kreft | 1 | 44 | [ProjectBase](https://www.glaze.app/app/w5CAic) *(Productivity)* |
+| Robert Kreft | 1 | 45 | [ProjectBase](https://www.glaze.app/app/w5CAic) *(Productivity)* |
 | RobM | 2 | 4 | [Librarian](https://www.glaze.app/app/bLW0OB) *(Utilities)*, [Mail Reader](https://www.glaze.app/app/Iwcd7u) *(Utilities)* |
-| Rodrigo Rodrigues da Silva | 1 | 2 | [Folder Sentinel](https://www.glaze.app/app/rBx4d7) *(Utilities)* |
+| Rodrigo Rodrigues da Silva | 1 | 3 | [Folder Sentinel](https://www.glaze.app/app/rBx4d7) *(Utilities)* |
 | Rodrigo.Medina.Neri | 1 | 2 | [Go Links Manager](https://www.glaze.app/app/k7PWdn) *(Productivity)* |
 | Roland Woldt | 1 | 5 | [Grid Dock](https://www.glaze.app/app/lM5xRB) *(Productivity)* |
 | Romain Malaterre | 1 | 2 | [Don’t stop to dance](https://www.glaze.app/app/qspYJb) *(Media)* |
@@ -48,10 +48,10 @@
 | Rony Kati | 1 | 7 | [Make a Quote](https://www.glaze.app/app/HbkEf1) *(Design)* |
 | Rory Killingley | 2 | 63 | [Cooking Core](https://www.glaze.app/app/sXamfD) *(Lifestyle)*, [QR Studio](https://www.glaze.app/app/2uEgRy) *(Utilities)* |
 | Rowan Marshall | 1 | 2 | [CaptionMe](https://www.glaze.app/app/ooBJ3t) *(Design)* |
-| Roxana⚡️ | 2 | 19 | [PixelFlow](https://www.glaze.app/app/MRd2ab) *(Productivity)*, [FlowTime](https://www.glaze.app/app/uB17ag) *(Productivity)* |
+| Roxana⚡️ | 2 | 20 | [PixelFlow](https://www.glaze.app/app/MRd2ab) *(Productivity)*, [FlowTime](https://www.glaze.app/app/uB17ag) *(Productivity)* |
 | Roy van Rooijen | 1 | 17 | [BPM](https://www.glaze.app/app/xasg5A) *(Media)* |
 | Roydanielr | 1 | 4 | [Cue](https://www.glaze.app/app/uLM0B8) *(Developer Tools)* |
-| Rpanaitiu | 1 | 2 | [Shift Control](https://www.glaze.app/app/k9ulSW) *(Utilities)* |
+| Rpanaitiu | 1 | 3 | [Shift Control](https://www.glaze.app/app/k9ulSW) *(Utilities)* |
 | RSRK | 1 | 13 | [APEX](https://www.glaze.app/app/G9U92C) *(Media)* |
 | Ruben.Vibe2prod | 1 | 5 | [Dayline - Work Tracker](https://www.glaze.app/app/utcNUa) *(Productivity)* |
 | Rubens Nook | 3 | 13 | [Chop](https://www.glaze.app/app/650NIo) *(Media)*, [Writ](https://www.glaze.app/app/2zQc99) *(Productivity)*, [Twiddle](https://www.glaze.app/app/SqSg4t) *(Productivity)* |

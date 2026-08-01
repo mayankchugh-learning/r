@@ -13,14 +13,14 @@
 | Naveen | 1 | 3 | [Growth Squad](https://www.glaze.app/app/kxmeCb) *(Productivity)* |
 | neekhil vatsa | 1 | 0 | [Koi](https://www.glaze.app/app/AeIWHC) *(Productivity)* |
 | Neeldhara Misra | 1 | 4 | [Card Vault](https://www.glaze.app/app/OZEFGP) *(Productivity)* |
-| Nelson Mendes | 1 | 1 | [Sit Stand Buddy](https://www.glaze.app/app/ZcmHvQ) *(Lifestyle)* |
+| Nelson Mendes | 1 | 2 | [Sit Stand Buddy](https://www.glaze.app/app/ZcmHvQ) *(Lifestyle)* |
 | Neo I | 1 | 7 | [Agent Sandboxes](https://www.glaze.app/app/hzPbZ5) *(Developer Tools)* |
 | neromtoobad | 1 | 18 | [CLIP IT](https://www.glaze.app/app/IhoT2V) *(Developer Tools)* |
 | Niall | 2 | 109 | [Brui](https://www.glaze.app/app/eOPXRV) *(Developer Tools)*, [Concert Log](https://www.glaze.app/app/bBj9yY) *(Lifestyle)* |
 | Nichlas L-D | 1 | 1 | [Brønnøysund Search](https://www.glaze.app/app/YNvNnf) *(Utilities)* |
-| [Nichlas Wærnes Andersen](./id/nichlas-w-rnes-andersen.md) | 5 | 1,037 | [see all 5 →](./id/nichlas-w-rnes-andersen.md) |
+| [Nichlas Wærnes Andersen](./id/nichlas-w-rnes-andersen.md) | 5 | 1,038 | [see all 5 →](./id/nichlas-w-rnes-andersen.md) |
 | Nicholas | 1 | 2 | [Crop](https://www.glaze.app/app/lGQeJB) *(Utilities)* |
-| Nicholas Lortz | 1 | 1 | [Construction Drawing Tracker](https://www.glaze.app/app/a5cQZS) *(Productivity)* |
+| Nicholas Lortz | 1 | 2 | [Construction Drawing Tracker](https://www.glaze.app/app/a5cQZS) *(Productivity)* |
 | Nick Hart | 1 | 10 | [SoloTrack](https://www.glaze.app/app/cvMkSD) *(Productivity)* |
 | Nick Linthorne | 1 | 5 | [Simple Countdowns](https://www.glaze.app/app/xUoVkF) *(Productivity)* |
 | Nick Lobeck | 1 | 6 | [DNS Digger](https://www.glaze.app/app/Dwnv1M) *(Developer Tools)* |
@@ -34,13 +34,13 @@
 | Nikki Nguyen | 1 | 3 | [Inspired](https://www.glaze.app/app/uNUgMN) *(Productivity)* |
 | Niklas Arhöfer | 1 | 4 | [StreamingTracker](https://www.glaze.app/app/3NCxki) *(Media)* |
 | Niklas Hohn | 1 | 3 | [Mailchat](https://www.glaze.app/app/doRr2i) *(Productivity)* |
-| Nils | 2 | 12 | [Service Control](https://www.glaze.app/app/aWolBa) *(Developer Tools)*, [Yes, But](https://www.glaze.app/app/bXJPCo) *(Productivity)* |
-| Nimesh Nayaju | 1 | 4 | [Tune](https://www.glaze.app/app/R3jpBK) *(Utilities)* |
+| Nils | 2 | 13 | [Service Control](https://www.glaze.app/app/aWolBa) *(Developer Tools)*, [Yes, But](https://www.glaze.app/app/bXJPCo) *(Productivity)* |
+| Nimesh Nayaju | 1 | 5 | [Tune](https://www.glaze.app/app/R3jpBK) *(Utilities)* |
 | Nisa Fatima | 1 | 9 | [Nudge](https://www.glaze.app/app/FcpBsO) *(Developer Tools)* |
 | Nitrous | 1 | 6 | [Specimen](https://www.glaze.app/app/L1APKo) *(Design)* |
 | Noah Czelusta | 1 | 7 | [Break Time](https://www.glaze.app/app/f5AsqN) *(Productivity)* |
 | Noah Lloyd | 1 | 20 | [YouTube Video Downloader](https://www.glaze.app/app/N3FDOF) *(Utilities)* |
-| Noman | 2 | 239 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) *(Design)*, [Taken](https://www.glaze.app/app/7ZhgBb) *(Utilities)* |
+| Noman | 2 | 251 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) *(Design)*, [Taken](https://www.glaze.app/app/7ZhgBb) *(Utilities)* |
 | Noud Adrichem | 1 | 10 | [Diffable](https://www.glaze.app/app/ijgHph) *(Developer Tools)* |
 | npurja | 1 | 4 | [Type In Motion](https://www.glaze.app/app/tuIhlE) *(Design)* |
 | Nurkamol Vakhidov | 3 | 30 | [FlareDesk](https://www.glaze.app/app/2kFpvb) *(Developer Tools)*, [Replay](https://www.glaze.app/app/4fgahp) *(Utilities)*, [Quarantine Manager](https://www.glaze.app/app/Mpbkzr) *(Utilities)* |

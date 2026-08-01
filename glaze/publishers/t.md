@@ -18,14 +18,14 @@
 | Thalles Barreto | 1 | 4 | [TzGlobe](https://www.glaze.app/app/EMisAd) *(Productivity)* |
 | The Self Agency LLC | 1 | 17 | [Postmaster](https://www.glaze.app/app/rbQIdY) *(Productivity)* |
 | theantmos | 1 | 4 | [PhotoCull](https://www.glaze.app/app/rjxyXc) *(Media)* |
-| thebluch | 1 | 13 | [Scroblytics](https://www.glaze.app/app/Lf9vBU) *(Media)* |
+| thebluch | 1 | 14 | [Scroblytics](https://www.glaze.app/app/Lf9vBU) *(Media)* |
 | thejasonhowell | 3 | 23 | [Icon Swap](https://www.glaze.app/app/lQw8Ty) *(Design)*, [Transcode](https://www.glaze.app/app/iGYFu1) *(Utilities)*, [Network Utility](https://www.glaze.app/app/WWGiYi) *(Developer Tools)* |
 | Therecruiter33sq | 1 | 0 | [Odds](https://www.glaze.app/app/dTVNj4) *(Utilities)* |
 | Thiago Chu | 1 | 0 | [awol](https://www.glaze.app/app/czXLeI) *(Utilities)* |
-| Thiago Holanda | 1 | 214 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) *(Developer Tools)* |
+| Thiago Holanda | 1 | 215 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) *(Developer Tools)* |
 | Thomas Jost | 1 | 6 | [Dice Order](https://www.glaze.app/app/367A43) *(Games & Fun)* |
 | Thomas Mauconduit | 1 | 36 | [Voxel Studio](https://www.glaze.app/app/W1Zhxy) *(Design)* |
-| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,392 | [see all 12 →](./id/thomas-paul-mann.md) |
+| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,402 | [see all 12 →](./id/thomas-paul-mann.md) |
 | Thomas Williams | 1 | 23 | [My Budget](https://www.glaze.app/app/GEeFXC) *(Productivity)* |
 | Thomaspetrie | 1 | 3 | [Clipboard Flow](https://www.glaze.app/app/xkNePH) *(Utilities)* |
 | Thorpemeister | 2 | 6 | [Radio Player](https://www.glaze.app/app/pTydQH) *(Media)*, [Slumber](https://www.glaze.app/app/BJGDDY) *(Utilities)* |
@@ -37,7 +37,7 @@
 | Ting Chun Wang | 1 | 4 | [Cherish](https://www.glaze.app/app/VlIhRC) *(Productivity)* |
 | Tirta Wulandari | 3 | 16 | [Scoville](https://www.glaze.app/app/72moda) *(Games & Fun)*, [Fabric Calculator](https://www.glaze.app/app/sjVPIu) *(Utilities)*, [Balinese Calendar](https://www.glaze.app/app/vRpmzw) *(Lifestyle)* |
 | Tobias Bannwart | 2 | 21 | [TimeCapsule](https://www.glaze.app/app/vk8pxo) *(Utilities)*, [ProxyFlow](https://www.glaze.app/app/VVh83N) *(Utilities)* |
-| Tobias Schmücker | 1 | 14 | [Skills Sync](https://www.glaze.app/app/5g96Vy) *(Developer Tools)* |
+| Tobias Schmücker | 1 | 15 | [Skills Sync](https://www.glaze.app/app/5g96Vy) *(Developer Tools)* |
 | tobua | 1 | 8 | [Dumpster Fire](https://www.glaze.app/app/m1gBzP) *(Productivity)* |
 | Toby Robinson | 1 | 5 | [Mac Clipping](https://www.glaze.app/app/WnPjcN) *(Utilities)* |
 | Tod Maffin | 1 | 0 | [StingDeck](https://www.glaze.app/app/t4LGgz) *(Productivity)* |
@@ -52,14 +52,14 @@
 | TONOS | 1 | 4 | [webp to PNG](https://www.glaze.app/app/ms1HCr) *(Utilities)* |
 | Torsten Bergler | 1 | 3 | [RTK Status](https://www.glaze.app/app/rDkfQr) *(Developer Tools)* |
 | Torsten Lemke | 1 | 10 | [GitLab Client](https://www.glaze.app/app/OJT881) *(Developer Tools)* |
-| Tran Mau Tri Tam | 1 | 39 | [Ding!](https://www.glaze.app/app/oRbL7g) *(Lifestyle)* |
+| Tran Mau Tri Tam | 1 | 40 | [Ding!](https://www.glaze.app/app/oRbL7g) *(Lifestyle)* |
 | Travis Roe | 1 | 0 | [Expiry Watch](https://www.glaze.app/app/expiry-watch-lWtbu3) *(Productivity)* |
 | Travis Tang | 2 | 2 | [Earthquake Monitor](https://www.glaze.app/app/f34VTK) *(Utilities)*, [RAID Calculator](https://www.glaze.app/app/xF2vIw) *(Developer Tools)* |
-| Trevor Hall | 1 | 2 | [Items](https://www.glaze.app/app/9kLuYj) *(Productivity)* |
+| Trevor Hall | 1 | 3 | [Items](https://www.glaze.app/app/9kLuYj) *(Productivity)* |
 | Trijste | 1 | 6 | [Standard Ebooks Reader](https://www.glaze.app/app/EFC9ox) *(Media)* |
 | Trueman | 1 | 12 | [Collect](https://www.glaze.app/app/eG7IS4) *(Productivity)* |
 | Tuna E | 1 | 11 | [Spectrum](https://www.glaze.app/app/dQhEZg) *(Media)* |
-| Tuxu | 1 | 195 | [Syndi](https://www.glaze.app/app/syndi-pFjfCk) *(Productivity)* |
+| Tuxu | 1 | 197 | [Syndi](https://www.glaze.app/app/syndi-pFjfCk) *(Productivity)* |
 | Tya Tiwi | 1 | 3 | [Ducky - Desktop Buddy](https://www.glaze.app/app/0KGjs2) *(Productivity)* |
 | [tyler.earth 🌎](./id/tyler-earth.md) | 4 | 20 | [see all 4 →](./id/tyler-earth.md) |
 | Tylilo | 3 | 9 | [Radio Echoes](https://www.glaze.app/app/ZrP0DL) *(Media)*, [Secure Erase](https://www.glaze.app/app/5lj2vu) *(Utilities)*, [No Agenda Companion](https://www.glaze.app/app/d6tgQg) *(Media)* |

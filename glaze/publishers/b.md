@@ -17,7 +17,7 @@
 | Bdillahu | 1 | 15 | [Photo Library](https://www.glaze.app/app/yXbvWH) *(Media)* |
 | beanie | 1 | 4 | [API-client](https://www.glaze.app/app/fDe2gg) *(Developer Tools)* |
 | BELUX | 1 | 5 | [Meal Calendar](https://www.glaze.app/app/MycHzs) *(Productivity)* |
-| Ben Mason | 1 | 1 | [Project Hub](https://www.glaze.app/app/A4Laxi) *(Productivity)* |
+| Ben Mason | 1 | 2 | [Project Hub](https://www.glaze.app/app/A4Laxi) *(Productivity)* |
 | Ben McMurry | 1 | 11 | [Codex Report](https://www.glaze.app/app/VXld10) *(Developer Tools)* |
 | Ben Smith | 1 | 19 | [AutoSort](https://www.glaze.app/app/LBbFpr) *(Utilities)* |
 | Ben Stein | 1 | 26 | [TreeDrive](https://www.glaze.app/app/4HRfkE) *(Utilities)* |
@@ -43,18 +43,18 @@
 | Bob Weisbecker | 1 | 5 | [Pixel Icon Studio](https://www.glaze.app/app/hoPF96) *(Design)* |
 | Bomakalu | 1 | 6 | [Terminator](https://www.glaze.app/app/k8JKg8) *(Utilities)* |
 | boubatunechi | 1 | 0 | [Court Watch](https://www.glaze.app/app/X6XfCa) *(Productivity)* |
-| Boufford | 3 | 874 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) *(Developer Tools)*, [Minimal Control](https://www.glaze.app/app/evNrhb) *(Utilities)*, [Scratch&&Sniff](https://www.glaze.app/app/mXeTGg) *(Developer Tools)* |
+| Boufford | 3 | 876 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) *(Developer Tools)*, [Minimal Control](https://www.glaze.app/app/evNrhb) *(Utilities)*, [Scratch&&Sniff](https://www.glaze.app/app/mXeTGg) *(Developer Tools)* |
 | Bourne jason | 2 | 22 | [App Library](https://www.glaze.app/app/EeU4Tr) *(Utilities)*, [MStudio](https://www.glaze.app/app/PP2I8B) *(Productivity)* |
 | Bowen Winter | 1 | 2 | [Image Joiner](https://www.glaze.app/app/PQbrzf) *(Design)* |
 | Brad Chin | 1 | 21 | [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) *(Developer Tools)* |
-| Bradley Gibson | 1 | 3 | [Audio Router](https://www.glaze.app/app/9blIKL) *(Utilities)* |
+| Bradley Gibson | 1 | 4 | [Audio Router](https://www.glaze.app/app/9blIKL) *(Utilities)* |
 | Braily Estevez | 1 | 8 | [QuickConvert](https://www.glaze.app/app/Uyki23) *(Utilities)* |
 | Brakoceuvisei 8875 | 1 | 7 | [Pixel Runner](https://www.glaze.app/app/v2kFzv) *(Games & Fun)* |
 | Brandon Strittmatter | 1 | 19 | [Cloudflare Drop](https://www.glaze.app/app/a6H1CL) *(Developer Tools)* |
 | Branik | 1 | 27 | [App Screenshots](https://www.glaze.app/app/tpdPU6) *(Developer Tools)* |
 | Brent Hoover | 1 | 5 | [Study Buddy](https://www.glaze.app/app/ZZxk63) *(Productivity)* |
-| Brian Mendes | 1 | 2 | [Wondher Pulse](https://www.glaze.app/app/wondher-pulse-EHeN4w) *(Productivity)* |
-| Brice Gramm | 1 | 15 | [Scorebug](https://www.glaze.app/app/gwd46m) *(Utilities)* |
+| Brian Mendes | 1 | 3 | [Wondher Pulse](https://www.glaze.app/app/wondher-pulse-EHeN4w) *(Productivity)* |
+| Brice Gramm | 1 | 16 | [Scorebug](https://www.glaze.app/app/gwd46m) *(Utilities)* |
 | Brittany Smith | 1 | 2 | [Collector’s Catalog](https://www.glaze.app/app/gX4n0Q) *(Productivity)* |
 | Bruce Makes | 2 | 15 | [Clean My Keyboard](https://www.glaze.app/app/HWMqY1) *(Utilities)*, [Noted](https://www.glaze.app/app/O03e66) *(Productivity)* |
 | Bruno | 1 | 14 | [My Cockpit](https://www.glaze.app/app/Nilzou) *(Productivity)* |

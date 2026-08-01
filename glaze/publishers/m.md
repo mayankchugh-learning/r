@@ -58,7 +58,7 @@
 | Maxim B | 1 | 4 | [Bubble Break](https://www.glaze.app/app/BixbZm) *(Games & Fun)* |
 | Maxime Le Bec | 1 | 1 | [FitPlan](https://www.glaze.app/app/1VCZdn) *(Productivity)* |
 | May Zhou | 1 | 9 | [snap sort](https://www.glaze.app/app/Ic87j0) *(Utilities)* |
-| Maya Avendaño | 1 | 318 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
+| Maya Avendaño | 1 | 337 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
 | mboeru | 1 | 1 | [TeamsToDeck Commands](https://www.glaze.app/app/5kyOs4) *(Productivity)* |
 | mcfoton | 1 | 2 | [Cabled](https://www.glaze.app/app/KRIVgd) *(Developer Tools)* |
 | Me | 1 | 6 | [Markdown Notes](https://www.glaze.app/app/myI9Nz) *(Productivity)* |
@@ -93,7 +93,7 @@
 | Mohamed Kerroudj | 1 | 13 | [Image Converter](https://www.glaze.app/app/4nScHZ) *(Utilities)* |
 | Mohammad Akteruzzaman | 2 | 5 | [AK Paint](https://www.glaze.app/app/o9b0QK) *(Design)*, [AK ScreenCap](https://www.glaze.app/app/isCi9d) *(Utilities)* |
 | Mohammad Nabhan | 1 | 2 | [Visus : Personal Dashboards](https://www.glaze.app/app/arOO8W) *(Productivity)* |
-| Mohd Danish Yusuf | 2 | 28 | [SuperDev Pro](https://www.glaze.app/app/oUJ9UR) *(Utilities)*, [Magpie](https://www.glaze.app/app/Ybi9fe) *(Design)* |
+| Mohd Danish Yusuf | 2 | 29 | [SuperDev Pro](https://www.glaze.app/app/oUJ9UR) *(Utilities)*, [Magpie](https://www.glaze.app/app/Ybi9fe) *(Design)* |
 | Montaser Sawi | 1 | 3 | [Volume Display](https://www.glaze.app/app/MzFiNY) *(Utilities)* |
 | Montoya | 1 | 2 | [Scores](https://www.glaze.app/app/Rtuf5n) *(Games & Fun)* |
 | Morgan Ridley-Smith | 1 | 4 | [File Type Converter](https://www.glaze.app/app/1fM6y0) *(Utilities)* |

@@ -1,12 +1,12 @@
 # Games & Fun
 
-85 apps · 772 installs · [← all categories](../README.md)
+85 apps · 774 installs · [← all categories](../README.md)
 
 ## Play
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Arcade & Classics](./arcade-classics/README.md) | 29 | 358 |
+| [Arcade & Classics](./arcade-classics/README.md) | 29 | 359 |
 | [Puzzle & Word Games](./puzzle-word-games.md) | 20 | 81 |
 | [Card, Board & Casino](./card-board-casino.md) | 3 | 13 |
 

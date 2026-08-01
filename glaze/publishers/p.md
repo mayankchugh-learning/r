@@ -48,7 +48,7 @@
 | Pierre | 1 | 13 | [Local Mind](https://www.glaze.app/app/gXDcGx) *(Developer Tools)* |
 | Pierre Guilmin | 1 | 10 | [Earshot](https://www.glaze.app/app/G4xftZ) *(Utilities)* |
 | Pieter Moorman | 1 | 3 | [Long Play](https://www.glaze.app/app/Vzaw38) *(Media)* |
-| Piyushh Bhutoria | 1 | 7 | [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) *(Developer Tools)* |
+| Piyushh Bhutoria | 1 | 9 | [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) *(Developer Tools)* |
 | PlumbRRRRRR | 1 | 3 | [Kip](https://www.glaze.app/app/aWB3Se) *(Productivity)* |
 | Pm.Delvern | 1 | 2 | [Lyric Finder](https://www.glaze.app/app/5Uepfq) *(Media)* |
 | Pocetox | 1 | 2 | [ForgeBoard](https://www.glaze.app/app/ESOFef) *(Developer Tools)* |
