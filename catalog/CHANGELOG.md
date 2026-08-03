@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `3106b141b3`
+
+**Updated (2):** [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit), [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck)
+
 ## 2026-08-03 — upstream `c4c8741c1a`
 
 **Updated (1):** [Sleevy - Manage Your Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/sleevy)

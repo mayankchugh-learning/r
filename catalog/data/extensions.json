@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c4c8741c1abd272c3168fab08e237eb180c43b9c",
-  "generatedAt": "2026-08-03T04:27:26.382Z",
-  "downloadsRefreshedAt": "2026-08-03T04:27:26.088Z",
+  "commit": "3106b141b34ab5359960481219e23bd0547e37fb",
+  "generatedAt": "2026-08-03T04:32:25.603Z",
+  "downloadsRefreshedAt": "2026-08-03T04:32:25.237Z",
   "count": 3140,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498046
+      "downloads": 498047
     },
     {
       "dir": "color-shades",
@@ -27323,7 +27323,7 @@
       ],
       "store": "https://www.raycast.com/drakulavich/kesha-voice-kit",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit",
-      "treeSha": "da4a90b62343ef103c9d7b9dad2061f05962b9c7",
+      "treeSha": "2ee83fc1cb6f931a2b309b23561480be8bdb4f44",
       "downloads": 4
     },
     {
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654569
+      "downloads": 654570
     },
     {
       "dir": "kimai",
@@ -34762,7 +34762,7 @@
       ],
       "store": "https://www.raycast.com/chad_walters/mutedeck",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mutedeck",
-      "treeSha": "3ac7bb8af5a69919b53b5bdb6e4764e4f3b0d40f",
+      "treeSha": "5e63b90849a35051fe5ac23b1f887cb8308cc3ba",
       "downloads": 155
     },
     {
