@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 148,535 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,302 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,711 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,086,255 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,086,261 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 296,406 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,790 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 402,541 |
@@ -24,7 +24,7 @@
 | 14 | [litomore](./id/litomore.md) | 13 | 12,353 |
 | 15 | [j3lte](./id/j3lte.md) | 13 | 9,656 |
 | 16 | [kud](./id/kud.md) | 12 | 5,890 |
-| 17 | [raycast](./id/raycast.md) | 11 | 777,043 |
+| 17 | [raycast](./id/raycast.md) | 11 | 777,050 |
 | 18 | [Rob](./id/rob.md) | 11 | 10,351 |
 | 19 | [Yukai](./id/yukai.md) | 11 | 9,302 |
 | 20 | [0xdhrv](./id/0xdhrv.md) | 11 | 1,239 |
@@ -384,8 +384,8 @@
 | 374 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
 | 375 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 376 | github-next | 2 | — |
-| 377 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,608 |
-| 378 | [Codely](https://www.raycast.com/Codely) | 1 | 486,562 |
+| 377 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,615 |
+| 378 | [Codely](https://www.raycast.com/Codely) | 1 | 486,567 |
 | 379 | [linear](https://www.raycast.com/linear) | 1 | 336,944 |
 | 380 | [mommertf](https://www.raycast.com/mommertf) | 1 | 282,315 |
 | 381 | [nhojb](https://www.raycast.com/nhojb) | 1 | 253,303 |
@@ -443,7 +443,7 @@
 | 433 | [allenan](https://www.raycast.com/allenan) | 1 | 11,860 |
 | 434 | [nyatinte](https://www.raycast.com/nyatinte) | 1 | 11,309 |
 | 435 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,127 |
-| 436 | [reboot](https://www.raycast.com/reboot) | 1 | 11,038 |
+| 436 | [reboot](https://www.raycast.com/reboot) | 1 | 11,039 |
 | 437 | [crickford](https://www.raycast.com/crickford) | 1 | 10,968 |
 | 438 | [iamyeizi](https://www.raycast.com/iamyeizi) | 1 | 10,276 |
 | 439 | [Rafo94](https://www.raycast.com/Rafo94) | 1 | 10,258 |
