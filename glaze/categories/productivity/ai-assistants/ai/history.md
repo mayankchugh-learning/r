@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Skim](https://www.glaze.app/app/vEYysi) | 31 | Summarize and learn more from videos | Cornelius | 1.0.0 | 274 KB | 2026-05-01 |
+| [Skim](https://www.glaze.app/app/vEYysi) | 32 | Summarize and learn more from videos | Cornelius | 1.0.0 | 274 KB | 2026-05-01 |
 | [Angry Draft](https://www.glaze.app/app/MV5O0a) | 8 | Say what matters. Skip the regret. | Davide | 2.0.0 | 538 KB | 2026-07-27 |
 | [Wordmark](https://www.glaze.app/app/S0LAXC) | 7 | Select a word, keep it, learn it. | Mickey Oh | 1.0.0 | 126 KB | 2026-07-28 |
 | [Dayline - Work Tracker](https://www.glaze.app/app/utcNUa) | 5 | Your day on a private timeline. | Ruben.Vibe2prod | 5.0.0 | 317 KB | 2026-07-27 |

@@ -1,12 +1,12 @@
 # Adi Goldstein
 
-4 apps · 9 installs · [← publishers](../README.md)
+4 apps · 10 installs · [← publishers](../README.md)
 
 ## Media (1)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Looma.Fm](https://www.glaze.app/app/e5Ex91) | 4 | Unwind with curated relaxation music | Adi Goldstein | 5.0.0 | 1.9 MB | 2026-07-27 |
+| [Looma.Fm](https://www.glaze.app/app/e5Ex91) | 5 | Unwind with curated relaxation music | Adi Goldstein | 5.0.0 | 1.9 MB | 2026-07-27 |
 
 ## Developer Tools (1)
 

@@ -2,46 +2,46 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-83 apps · [← Glaze catalog](../README.md)
+84 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) | 271 | Track nearby aircraft in real-time and follow flights of interest | Hamzah Chaudhary | 1.0.1 | 978 KB | 2026-03-12 |
 | [Floating Youtube](https://www.glaze.app/app/floating-youtube-JUv9e2) | 227 | Floating Youtube video player | David Ferguson | 2.0.0 | 60 KB | 2026-07-26 |
+| [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) | 142 | Quickly preview local fonts in context | Alexander Artsvuni | 7.0.0 | 547 KB | 2026-07-29 |
 | [Funky Mirror](https://www.glaze.app/app/yHoT78) | 135 | Apply fun filters to your webcam | Samuel Kraft | 1.0.0 | 12.8 MB | 2026-05-12 |
-| [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) | 130 | Quickly preview local fonts in context | Alexander Artsvuni | 7.0.0 | 547 KB | 2026-07-29 |
-| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 116 | Make your text fancy | Pedro Duarte | 7.0.0 | 65 KB | 2026-07-20 |
-| [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) | 103 | Explore History of Football Tournaments | Alex Antonov | 6.0.0 | 313 KB | 2026-07-21 |
-| [Feed Reader](https://www.glaze.app/app/2Db0Ny) | 34 | Read your feeds and blogs in one place | Alexandr Subbotin | 11.0.0 | 3.9 MB | 2026-07-13 |
+| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 124 | Make your text fancy | Pedro Duarte | 7.0.0 | 65 KB | 2026-07-20 |
+| [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) | 105 | Explore History of Football Tournaments | Alex Antonov | 6.0.0 | 313 KB | 2026-07-21 |
+| [Feed Reader](https://www.glaze.app/app/2Db0Ny) | 35 | Read your feeds and blogs in one place | Alexandr Subbotin | 11.0.0 | 3.9 MB | 2026-07-13 |
 | [Foam Case Designer](https://www.glaze.app/app/4ItSi9) | 29 | Visually plan and optimize foam insert layouts for hard cases with precise camera gear cutouts and padding guidance. | João Neves | 2.0.1 | 263 KB | 2026-03-25 |
-| [FlareDesk](https://www.glaze.app/app/2kFpvb) | 23 | The ultimate client for Cloudflare | Nurkamol Vakhidov | 7.0.0 | 137 KB | 2026-07-11 |
+| [FeedBagel](https://www.glaze.app/app/AozKi4) | 25 | The internet, freshly baked (RSS) | Graeme Fulton | 2.0.0 | 9.5 MB | 2026-07-29 |
+| [FlareDesk](https://www.glaze.app/app/2kFpvb) | 24 | The ultimate client for Cloudflare | Nurkamol Vakhidov | 7.0.0 | 137 KB | 2026-07-11 |
 | [Framework Detective](https://www.glaze.app/app/G7cmDl) | 23 | Identify every app's framework instantly | Misha Nya | 7.0.0 | 71 KB | 2026-07-24 |
 | [F1](https://www.glaze.app/app/VaZOM1) | 22 | Every F1 season, all in one place | Arun Jayanthi | 2.0.0 | 245 KB | 2026-07-27 |
 | [F1 Grid Pass](https://www.glaze.app/app/sFfxxn) | 22 | Track every race, standings, and update | Jensen | 2.0.0 | 98 KB | 2026-06-12 |
-| [FeedBagel](https://www.glaze.app/app/AozKi4) | 22 | The internet, freshly baked (RSS) | Graeme Fulton | 2.0.0 | 9.5 MB | 2026-07-29 |
-| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 18 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 67 KB | 2026-07-29 |
+| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 20 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 67 KB | 2026-07-29 |
 | [Flappy Lid](https://www.glaze.app/app/xpXvt6) | 17 | Control a Flappy Bird game using your MacBook's lid angle | Dhruv Suthar | 2.0.1 | 418 KB | 2026-03-06 |
 | [Flor](https://www.glaze.app/app/8Q7yXM) | 17 | Check in with yourself daily | David Martín Suárez | 5.0.0 | 45.1 MB | 2026-07-29 |
+| [Flow](https://www.glaze.app/app/v9gzNN) | 15 | Visual & Minimal Task Manager | Pedro Marvarez | 9.0.0 | 191 KB | 2026-07-28 |
 | [File Sort](https://www.glaze.app/app/JIFzUZ) | 14 | Auto-organize files by type | Rémi Leclercq | 1.0.0 | 61 KB | 2026-07-01 |
 | [Flaremail](https://www.glaze.app/app/hB2ADe) | 14 | Native opensource email client & server | Fayaz Ahmed | 1.0.0 | 95 KB | 2026-07-23 |
 | [FreeToGame](https://www.glaze.app/app/HX7ecf) | 14 | Discover the best free-to-play PC games! | alexi.build | 3.0.0 | 61 KB | 2026-07-05 |
 | [Focus Soundboard](https://www.glaze.app/app/FHMSS5) | 13 | Layer sounds, find your focus | Dhruv Suthar | 3.0.0 | 61 KB | 2026-05-05 |
 | [FrameShot](https://www.glaze.app/app/mN49V5) | 13 | Screenshot capture and beautification | Patryk Lasek | 1.0.0 | 89 KB | 2026-07-06 |
-| [Flow](https://www.glaze.app/app/v9gzNN) | 12 | Visual & Minimal Task Manager | Pedro Marvarez | 9.0.0 | 191 KB | 2026-07-28 |
-| [Folder Iconizer](https://www.glaze.app/app/W4eu14) | 11 | Auto-customize icons by folder content | Aryan Gupta | 3.0.0 | 6.2 MB | 2026-07-30 |
-| [Feed Reader](https://www.glaze.app/app/W1JbFH) | 10 | Aggregate news from your favorite sites | Mariane Pocai | 1.0.0 | 245 KB | 2026-07-10 |
+| [Folder Iconizer](https://www.glaze.app/app/W4eu14) | 12 | Auto-customize icons by folder content | Aryan Gupta | 3.0.0 | 6.2 MB | 2026-07-30 |
+| [Feed Reader](https://www.glaze.app/app/W1JbFH) | 11 | Aggregate news from your favorite sites | Mariane Pocai | 1.0.0 | 245 KB | 2026-07-10 |
 | [fn](https://www.glaze.app/app/Ng26Oh) | 10 | Instant answers to any question | Manoj Kumar | 10.0.0 | 2.3 MB | 2026-05-30 |
 | [Focus Light](https://www.glaze.app/app/2BRyPC) | 10 | Highlight where your mouse is pointing | gutek | 1.0.0 | 50 KB | 2026-06-01 |
 | [FFmpeg Studio](https://www.glaze.app/app/IAM83X) | 9 | Convert media with visual presets | Lee Sherman | 1.0.0 | 67 KB | 2026-07-12 |
 | [File Sorter](https://www.glaze.app/app/2n5jTs) | 9 | Auto-organize files with AI | Shearm | 3.0.0 | 63 KB | 2026-06-25 |
 | [File Sorter](https://www.glaze.app/app/mst1DY) | 9 | Automatically organize files by type | John Hesch | 5.0.0 | 65 KB | 2026-07-12 |
 | [FlowTime](https://www.glaze.app/app/uB17ag) | 9 | Compare global time zones at a glance | Roxana⚡️ | 2.0.0 | 68 KB | 2026-07-28 |
+| [Focus Paper 🎯](https://www.glaze.app/app/6gb4Ux) | 9 | Todo List as Desktop Wallpaper | Shivam | 4.0.0 | 67 KB | 2026-07-29 |
 | [Focus Rail](https://www.glaze.app/app/r5i5x7) | 9 | Stay visually anchored while reading | Jesse Dugas | 2.0.0 | 81 KB | 2026-06-07 |
 | [ForgetMeNot](https://www.glaze.app/app/nOh0wO) | 9 | Too small to plan, too big to forget | Giedrė Blekaitė | 2.0.0 | 61 KB | 2026-06-02 |
+| [Findle](https://www.glaze.app/app/t3xcsJ) | 8 | Skip Finder, move files faster. | Etienne Idoux | 4.0.0 | 57 KB | 2026-07-27 |
 | [FIP Radio](https://www.glaze.app/app/wnfQZz) | 8 | Stream live French radio with audio | Dhruv Suthar | 1.0.0 | 101 KB | 2026-07-01 |
 | [Flag Study](https://www.glaze.app/app/Ct17Wh) | 8 | Learn and master world flags | Shane Jeffers | 3.0.0 | 2.4 MB | 2026-07-28 |
-| [Findle](https://www.glaze.app/app/t3xcsJ) | 7 | Skip Finder, move files faster. | Etienne Idoux | 4.0.0 | 57 KB | 2026-07-27 |
-| [Focus Paper 🎯](https://www.glaze.app/app/6gb4Ux) | 7 | Todo List as Desktop Wallpaper | Shivam | 4.0.0 | 67 KB | 2026-07-29 |
 | [Focus Window](https://www.glaze.app/app/TxfmdO) | 6 | Dim everything except your active window | Jamie Wood | 1.0.0 | 62 KB | 2026-07-10 |
 | [Folder Cabinet](https://www.glaze.app/app/z1mZsi) | 6 | Visualize your folder structure | Lee Sherman | 2.0.0 | 68 KB | 2026-07-22 |
 | [Foldery](https://www.glaze.app/app/5sZbpN) | 6 | Launch folders in your favorite app | Dmytro Lobov | 23.0.0 | 166 KB | 2026-07-30 |
@@ -60,9 +60,10 @@
 | [Fabric Calculator](https://www.glaze.app/app/sjVPIu) | 3 | Calculate fabric requirements based on your sewing pattern details | Tirta Wulandari | 2.0.1 | 202 KB | 2026-03-04 |
 | [Face Finder](https://www.glaze.app/app/NCIzxf) | 3 | Find anyone in your photos instantly | Michael O'Sullivan | 2.0.0 | 378 KB | 2026-07-26 |
 | [Fineprint](https://www.glaze.app/app/RRjYmo) | 3 | Understand contracts, not confusion | Werner Deuermeier | 3.0.0 | 1.8 MB | 2026-07-28 |
-| [FlashFinder](https://www.glaze.app/app/62gVI9) | 3 | Quickly view and manage files & music | TomasNoMas | 14.0.0 | 922 KB | 2026-07-31 |
+| [FlashFinder](https://www.glaze.app/app/62gVI9) | 3 | Quickly view and manage files & music | TomasNoMas | 17.0.0 | 15.9 MB | 2026-08-01 |
 | [FlighteZ](https://www.glaze.app/app/kP1NZx) | 3 | Track flights in real time, anywhere | Hash | 2.0.0 | 72 KB | 2026-07-26 |
 | [Floating Lofi Timer](https://www.glaze.app/app/qG16XJ) | 3 | Floating timer with lofi music | Nihar | 1.0.0 | 62 KB | 2026-07-26 |
+| [FlowCheck](https://www.glaze.app/app/flowcheck-LpK4p1) | 3 | Run checklists from your menu bar | Aanya Singh | 7.0.0 | 81 KB | 2026-08-02 |
 | [Folder Customizer](https://www.glaze.app/app/bfGhVQ) | 3 | Customize folder icons | Elior Boukhobza | 1.0.0 | 66 KB | 2026-07-27 |
 | [Folder Sentinel](https://www.glaze.app/app/rBx4d7) | 3 | Auto-organize files with smart rules | Rodrigo Rodrigues da Silva | 1.0.0 | 101 KB | 2026-07-23 |
 | [FTP & SFTP Client](https://www.glaze.app/app/3K5iSj) | 3 | Secure remote file access made simple. | UV | 1.0.0 | 1.8 MB | 2026-04-24 |

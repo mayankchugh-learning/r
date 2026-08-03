@@ -23,7 +23,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [StreamFindr](https://www.glaze.app/app/7xDw68) | 16 | Find any show or movie instantly | David Eiken | 4.0.0 | 1.1 MB | 2026-07-23 |
 | [HomeSky](https://www.glaze.app/app/XYuB6Z) | 8 | Personal weather at a glance | Mannycast | 7.0.0 | 82 KB | 2026-07-27 |
-| [Blood Match](https://www.glaze.app/app/blood-match-epXOOZ) | 0 | Find compatible blood donors instantly | Parsifal02 | 1.0.0 | 58 KB | 2026-07-30 |
+| [Blood Match](https://www.glaze.app/app/epXOOZ) | 0 | Find compatible blood donors instantly | Parsifal02 | 1.0.0 | 58 KB | 2026-07-30 |
 | [Metro Victoria](https://www.glaze.app/app/5N5NOk) | 0 | Real-time train info for Victoria | Daniel | 2.0.0 | 77 KB | 2026-07-24 |
 
 ## General
@@ -40,5 +40,5 @@
 | [TaxNomad](https://www.glaze.app/app/XmV8Yu) | 3 | Track tax residency and compliance | Andre Martins | 3.0.0 | 108 KB | 2026-07-27 |
 | [GlazeWallet](https://www.glaze.app/app/iG5Vh7) | 2 | Your favorite macOS desktop wallet | DruxAMB | 4.0.0 | 1.7 MB | 2026-07-28 |
 | [VAT Calculator](https://www.glaze.app/app/ApSwEv) | 2 | Calculate VAT on any amount instantly | Seth Carnill | 1.0.0 | 56 KB | 2026-07-09 |
-| [Tagger](https://www.glaze.app/app/tagger-RQxdqF) | 1 | Easily tag apps | Davidestevens | 2.0.0 | 71 KB | 2026-07-30 |
+| [Tagger](https://www.glaze.app/app/RQxdqF) | 1 | Easily tag apps | Davidestevens | 2.0.0 | 71 KB | 2026-07-30 |
 | [Odds](https://www.glaze.app/app/dTVNj4) | 0 | Know your train's arrival odds instantly | Therecruiter33sq | 1.0.0 | 1.0 MB | 2026-07-08 |

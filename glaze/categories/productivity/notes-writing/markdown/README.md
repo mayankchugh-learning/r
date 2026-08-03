@@ -1,12 +1,12 @@
 # Markdown ✦
 
-29 apps · [← Notes & Writing](../README.md)
+30 apps · [← Notes & Writing](../README.md)
 
 | Topic | Apps |
 | --- | --- |
-| [Write ✦](./write.md) | 14 |
-| [Clean ✦](./clean.md) | 5 |
+| [Write ✦](./write.md) | 15 |
+| [Organize ✦](./organize.md) | 4 |
 | [Export ✦](./export.md) | 4 |
-| [General](./general.md) | 6 |
+| [General](./general.md) | 7 |
 
 *✦ auto-discovered topic group*

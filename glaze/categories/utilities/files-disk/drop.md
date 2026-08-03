@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Transcode](https://www.glaze.app/app/iGYFu1) | 7 | Compress and convert video, photo, audio | thejasonhowell | 1.0.0 | 65 KB | 2026-07-08 |
+| [Transcode](https://www.glaze.app/app/iGYFu1) | 8 | Compress and convert video, photo, audio | thejasonhowell | 1.0.0 | 65 KB | 2026-07-08 |
 | [Stash](https://www.glaze.app/app/PhdJyc) | 5 | Quick file sharing in one click | Evan | 1.0.0 | 297 KB | 2026-07-16 |
 | [File Type Converter](https://www.glaze.app/app/1fM6y0) | 4 | Convert video and audio files instantly | Morgan Ridley-Smith | 1.0.0 | 62 KB | 2026-07-26 |
 | [PDF Unlock](https://www.glaze.app/app/MDMPGt) | 4 | Remove passwords from protected PDFs | Yan Frossard | 1.0.0 | 8.1 MB | 2026-07-09 |

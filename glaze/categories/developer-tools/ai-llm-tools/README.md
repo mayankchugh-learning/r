@@ -1,10 +1,10 @@
 # AI & LLM Tools
 
-110 apps · [← Developer Tools](../README.md)
+109 apps · [← Developer Tools](../README.md)
 
 | Topic | Apps |
 | --- | --- |
-| [AI ✦](./ai/README.md) | 67 |
+| [AI ✦](./ai/README.md) | 66 |
 | [Claude ✦](./claude.md) | 20 |
 | [Local ✦](./local.md) | 6 |
 | [Agent ✦](./agent.md) | 6 |

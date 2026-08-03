@@ -1,12 +1,12 @@
 # Yeshe
 
-5 apps · 35 installs · [← publishers](../README.md)
+5 apps · 36 installs · [← publishers](../README.md)
 
 ## Utilities (2)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [YouDownload](https://www.glaze.app/app/4NQXSp) | 22 | Effortlessly download YouTube videos | Yeshe | 2.0.0 | 66 KB | 2026-07-24 |
+| [YouDownload](https://www.glaze.app/app/4NQXSp) | 23 | Effortlessly download YouTube videos | Yeshe | 2.0.0 | 66 KB | 2026-07-24 |
 | [Rewind](https://www.glaze.app/app/kNEoC0) | 5 | Track every action on your computer | Yeshe | 2.0.0 | 69 KB | 2026-07-20 |
 
 ## Design (1)

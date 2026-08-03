@@ -1,22 +1,22 @@
 # Utilities
 
-386 apps · 5,973 installs · [← all categories](../README.md)
+387 apps · 6,144 installs · [← all categories](../README.md)
 
 ## Files & Media
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Files & Disk](./files-disk/README.md) | 170 | 2,912 |
-| [Image Tools](./image-tools/README.md) | 35 | 1,035 |
-| [Video & Audio Tools](./video-audio-tools.md) | 38 | 278 |
+| [Files & Disk](./files-disk/README.md) | 171 | 2,983 |
+| [Image Tools](./image-tools/README.md) | 36 | 1,050 |
+| [Video & Audio Tools](./video-audio-tools/README.md) | 38 | 281 |
 
 ## System & Desktop
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [System & Performance](./system-performance/README.md) | 32 | 284 |
-| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 681 |
-| [Display & Wallpaper](./display-wallpaper.md) | 18 | 188 |
+| [System & Performance](./system-performance/README.md) | 31 | 289 |
+| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 746 |
+| [Display & Wallpaper](./display-wallpaper.md) | 18 | 198 |
 
 ## Input & Text
 

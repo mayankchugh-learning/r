@@ -19,15 +19,15 @@
 | [Man Pages](https://www.glaze.app/app/tn3iXn) | 5 | Browse Unix manual pages visually | Lee Sherman | 1.0.0 | 63 KB | 2026-07-16 |
 | [K9s](https://www.glaze.app/app/CME6cv) | 4 | Manage Kubernetes clusters and resources | Kishan Dadhania | 13.0.0 | 15.5 MB | 2026-07-26 |
 | [CodeVault](https://www.glaze.app/app/CqhCSJ) | 2 | Premium code editor with advanced | credesasq | 1.0.0 | 15.5 MB | 2026-07-25 |
+| [Shark](https://www.glaze.app/app/svB120) | 2 | Instant terminal at your fingertips | hgg end | 1.0.0 | 14.9 MB | 2026-07-29 |
 | [Terminal Here](https://www.glaze.app/app/NDgyLy) | 2 | Open terminal from any Finder window | SidThatsMoi | 2.0.0 | 57 KB | 2026-07-23 |
 | [Command Runner](https://www.glaze.app/app/oQOwCc) | 1 | Run scripts anywhere, instantly | S.Peacock | 3.0.0 | 65 KB | 2026-07-28 |
-| [Shark](https://www.glaze.app/app/svB120) | 1 | Instant terminal at your fingertips | hgg end | 1.0.0 | 14.9 MB | 2026-07-29 |
 
 ## Code ✦
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 215 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 105 KB | 2026-04-15 |
+| [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 218 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 105 KB | 2026-04-15 |
 | [Diffable](https://www.glaze.app/app/ijgHph) | 10 | Compare text changes side-by-side | Noud Adrichem | 1.0.0 | 82 KB | 2026-07-07 |
 | [FTP & SFTP Client](https://www.glaze.app/app/3K5iSj) | 3 | Secure remote file access made simple. | UV | 1.0.0 | 1.8 MB | 2026-04-24 |
 | [PlantUML Editor](https://www.glaze.app/app/R4hr68) | 3 | Diagrams in real time, code your way | Kinsley Ogunmola | 1.0.0 | 185 KB | 2026-07-04 |
@@ -46,7 +46,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Brui](https://www.glaze.app/app/eOPXRV) | 108 | Visual interface for Homebrew package | Niall | 2.0.0 | 65 KB | 2026-07-11 |
+| [Brui](https://www.glaze.app/app/eOPXRV) | 109 | Visual interface for Homebrew package | Niall | 2.0.0 | 65 KB | 2026-07-11 |
 | [SF Symbols Picker](https://www.glaze.app/app/mLt3F7) | 46 | Insert SF Symbols with fuzzy search | Tim Van Damme | 3.0.0 | 111 KB | 2026-07-08 |
 | [Chmod Manager](https://www.glaze.app/app/MXi8To) | 15 | Control file permissions with ease | S.Peacock | 7.0.0 | 84 KB | 2026-07-31 |
 | [Hotkey Reference](https://www.glaze.app/app/RDE7aj) | 15 | Hotkeys at your fingertips, anytime | Shearm | 3.0.0 | 57 KB | 2026-06-25 |

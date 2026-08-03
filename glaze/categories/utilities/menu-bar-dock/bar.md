@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 371 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
+| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 394 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
 | [Tube Float](https://www.glaze.app/app/RxZ5tQ) | 14 | Watch YouTube anywhere on your screen | John Kappa | 1.0.0 | 57 KB | 2026-07-03 |
 | [Quickdrop Shelf](https://www.glaze.app/app/3MhuXt) | 6 | Temporarily hold files and folders | Christos Bouronikos | 1.0.0 | 64 KB | 2026-07-03 |
 | [Timezone Shift](https://www.glaze.app/app/uJGLv4) | 5 | Compare timezones and adjust time | Mehul Chokshi | 2.0.0 | 71 KB | 2026-07-15 |
@@ -18,7 +18,7 @@
 | [Tide Tracker](https://www.glaze.app/app/2lZJZY) | 3 | Menu Bar monitor ocean tide levels | Don | 2.0.0 | 69 KB | 2026-07-10 |
 | [Apple Music Quitter](https://www.glaze.app/app/TpW6J5) | 2 | Prevent Apple Music from auto-starting | Byron Davies | 2.0.0 | 58 KB | 2026-07-12 |
 | [Big Text](https://www.glaze.app/app/gAyQND) | 2 | Big text, fullscreen | Jordan Amblin | 1.0.0 | 56 KB | 2026-07-08 |
-| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 3.0.0 | 68 KB | 2026-07-29 |
+| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 4.0.0 | 72 KB | 2026-08-03 |
 | [KlipTekst](https://www.glaze.app/app/ECER4Y) | 1 | Transform text, instantly from clipboard | Johannes Krejberg Haahr | 2.0.0 | 167 KB | 2026-07-30 |
 | [Clipboard Menu](https://www.glaze.app/app/1gxvnh) | 0 | Quick access to clipboard history | Elisac | 1.0.0 | 57 KB | 2026-07-23 |
 
@@ -27,7 +27,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Command X](https://www.glaze.app/app/rKoO7f) | 12 | Cut/paste using Command+X and Command+V | Danylo Zalizchuk | 1.0.0 | 63 KB | 2026-06-29 |
-| [Copy That](https://www.glaze.app/app/QYtGUY) | 10 | Copy the uncopyable | Andrew Lindstrom | 2.0.0 | 324 KB | 2026-07-28 |
+| [Copy That](https://www.glaze.app/app/QYtGUY) | 11 | Copy the uncopyable | Andrew Lindstrom | 2.0.0 | 324 KB | 2026-07-28 |
 | [Paste Guard](https://www.glaze.app/app/1Xa88Q) | 1 | Control What Gets Pasted Into Your Apps | alexi.build | 1.0.0 | 63 KB | 2026-07-12 |
 | [awol](https://www.glaze.app/app/czXLeI) | 0 | Disable AWDL for smooth game streaming | Thiago Chu | 1.0.0 | 57 KB | 2026-07-27 |
 

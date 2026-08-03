@@ -6,11 +6,11 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Brui](https://www.glaze.app/app/eOPXRV) | 108 | Visual interface for Homebrew package | Niall | 2.0.0 | 65 KB | 2026-07-11 |
+| [Brui](https://www.glaze.app/app/eOPXRV) | 109 | Visual interface for Homebrew package | Niall | 2.0.0 | 65 KB | 2026-07-11 |
+| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 68 | Breathing companion for calm focus | fra.raw | 6.0.0 | 855 KB | 2026-07-31 |
 | [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 193 KB | 2026-07-13 |
-| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 54 | Breathing companion for calm focus | fra.raw | 6.0.0 | 855 KB | 2026-07-31 |
 | [Breakout Dock](https://www.glaze.app/app/EEcNPI) | 37 | Smash through your installed apps in a breakout-style game where bricks are apps and your dock controls the paddle | Yann-Edern Gillet | 1.0.1 | 180 KB | 2026-03-25 |
-| [Batch Crop](https://www.glaze.app/app/tYEQoH) | 28 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
+| [Batch Crop](https://www.glaze.app/app/tYEQoH) | 29 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
 | [Brand Icons](https://www.glaze.app/app/IydK5q) | 21 | Get brand icons from Simple Icons | LitoMore | 3.0.0 | 2.3 MB | 2026-04-26 |
 | [Bookface](https://www.glaze.app/app/OsxW20) | 19 | A native macOS client for YC Bookface. | Christopher Burns | 13.0.0 | 4.4 MB | 2026-04-10 |
 | [Breakfast](https://www.glaze.app/app/oix8d9) | 19 | Personalized newspaper | J.Taehee | 3.0.0 | 709 KB | 2026-07-28 |
@@ -18,32 +18,32 @@
 | [Bassics](https://www.glaze.app/app/NYi58U) | 15 | Learn electric bass from the ground up | Lee Sherman | 9.0.0 | 609 KB | 2026-07-24 |
 | [Better YouTube Search](https://www.glaze.app/app/2UTzVS) | 15 | Search YouTube video transcripts | DevTK0 | 1.0.0 | 120.2 MB | 2026-07-06 |
 | [Brick Breaker](https://www.glaze.app/app/Bo9fhY) | 15 | Smash bricks with bouncing balls | Yukai Huang | 1.0.0 | 47 KB | 2026-04-17 |
-| [Buckets](https://www.glaze.app/app/KbGT5M) | 13 | S3-compatible bucket browser | Fe9lix 084c | 6.0.0 | 2.2 MB | 2026-04-29 |
+| [Buckets](https://www.glaze.app/app/KbGT5M) | 14 | S3-compatible bucket browser | Fe9lix 084c | 6.0.0 | 2.2 MB | 2026-04-29 |
 | [Burrow](https://www.glaze.app/app/lRFO1G) | 13 | Find what's eating your Mac's speed | birobirobiro | 1.0.0 | 90 KB | 2026-07-06 |
 | [Beat Maker](https://www.glaze.app/app/cA7hhz) | 12 | Create complex beats with sound boards | Chris Stoddard | 1.0.0 | 64 KB | 2026-07-14 |
+| [BackdropRemove](https://www.glaze.app/app/G8dm5F) | 10 | Remove image backgrounds instantly | Clement.Jonghmans | 1.0.0 | 71 KB | 2026-07-09 |
 | [Batch Rename](https://www.glaze.app/app/cSKIlT) | 10 | Rename multiple files in seconds | Ahmed Raafat | 1.0.0 | 64 KB | 2026-07-05 |
 | [Beat Studio](https://www.glaze.app/app/ZEpRfE) | 10 | Beat-making and music | Leo Enin | 1.0.0 | 96 KB | 2026-07-09 |
+| [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) | 10 | Transform raw prompts into structured | Piyushh Bhutoria | 2.0.0 | 66 KB | 2026-07-31 |
 | [Box Breath](https://www.glaze.app/app/1kgWwj) | 10 | Breathe square. Reset your mind at work | Jeremy Caplan | 1.0.0 | 47 KB | 2026-05-02 |
 | [Backyard Garden Planner](https://www.glaze.app/app/cNg3uV) | 9 | Design and maintain your garden layout | Jenny Dougherty | 1.0.0 | 91 KB | 2026-07-05 |
-| [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) | 9 | Transform raw prompts into structured | Piyushh Bhutoria | 2.0.0 | 66 KB | 2026-07-31 |
 | [Breathe](https://www.glaze.app/app/AB5RAV) | 9 | Find calm through guided breath work | Glaze | 1.0.0 | 65 KB | 2026-07-01 |
 | [Beat Survivor](https://www.glaze.app/app/nv14PV) | 8 | Defeat enemies with rhythmic beat | Yusuf Kınataş | 1.0.0 | 74 KB | 2026-07-01 |
-| [BackdropRemove](https://www.glaze.app/app/G8dm5F) | 7 | Remove image backgrounds instantly | Clement.Jonghmans | 1.0.0 | 71 KB | 2026-07-09 |
+| [Bookmarks](https://www.glaze.app/app/ihUztq) | 8 | Bookmarks in your menu bar | Dmytro Lobov | 7.0.0 | 54 KB | 2026-07-26 |
 | [Bepulse](https://www.glaze.app/app/4sJ7h2) | 7 | Real-time debugging dashboard that instantly displays code logs and data from any language in organized channels | Per Nielsen Tikær | 1.0.1 | 300 KB | 2026-03-09 |
+| [Bondfire](https://www.glaze.app/app/g9yKcF) | 7 | The cheat code for staying connected. | Kim Nehzaty | 3.0.0 | 162 KB | 2026-07-28 |
 | [Break Time](https://www.glaze.app/app/f5AsqN) | 7 | Hourly reminders to move and rest | Noah Czelusta | 2.0.0 | 66 KB | 2026-07-06 |
 | [Brew Commander](https://www.glaze.app/app/3miw5s) | 7 | Point and click your Homebrew commands | S.Peacock | 1.0.0 | 59 KB | 2026-07-12 |
 | [BrewStuff](https://www.glaze.app/app/EtjGKj) | 7 | Homebrew management at your fingertips | Hash | 4.0.0 | 68 KB | 2026-07-26 |
 | [Bandcamp Player](https://www.glaze.app/app/t3QI7q) | 6 | Discover and stream music on Bandcamp | Patrice Scheidt | 5.0.0 | 80 KB | 2026-07-29 |
 | [Better Finder](https://www.glaze.app/app/PV8dgl) | 6 | better fs for windows/mac fs refuges!! | Paranjay Khachar | 2.0.0 | 86 KB | 2026-07-26 |
+| [Bitrate Inspector](https://www.glaze.app/app/K56QgJ) | 6 | Check audio bitrate in seconds | Ivo Tanev | 2.0.0 | 68 KB | 2026-07-18 |
 | [Bloodline](https://www.glaze.app/app/3t8E2Y) | 6 | Your blood tests, explained over time! | BLCNYY | 24.0.0 | 765 KB | 2026-07-28 |
 | [Blueprint](https://www.glaze.app/app/Ahtha9) | 6 | Turn ideas into software blueprints | Adedoyin Emmanuel | 1.0.0 | 2.1 MB | 2026-07-27 |
-| [Bondfire](https://www.glaze.app/app/g9yKcF) | 6 | The cheat code for staying connected. | Kim Nehzaty | 3.0.0 | 162 KB | 2026-07-28 |
 | [Bookie](https://www.glaze.app/app/Z2swLA) | 6 | Convert eBooks with perfect formatting | Timothy Jones | 1.0.0 | 344 KB | 2026-04-16 |
-| [Bookmarks](https://www.glaze.app/app/ihUztq) | 6 | Bookmarks in your menu bar | Dmytro Lobov | 7.0.0 | 54 KB | 2026-07-26 |
 | [Briefed](https://www.glaze.app/app/pFXQt7) | 6 | Wake up, Get Briefed. | lagon20ms | 1.0.0 | 81 KB | 2026-07-27 |
 | [BearMark](https://www.glaze.app/app/BhCTVn) | 5 | Markdown notes with Beeerr's simplicity | Hong Linh Vu | 1.0.0 | 276 KB | 2026-07-06 |
 | [BitPerfect](https://www.glaze.app/app/yYGHPD) | 5 | Apple Music lossless, played perfectly | gutek | 1.0.0 | 20 KB | 2026-06-01 |
-| [Bitrate Inspector](https://www.glaze.app/app/K56QgJ) | 5 | Check audio bitrate in seconds | Ivo Tanev | 2.0.0 | 68 KB | 2026-07-18 |
 | [Blunder](https://www.glaze.app/app/0dUOLc) | 5 | Learn from your own mistakes. | Francesco Maisano | 6.0.0 | 6.4 MB | 2026-07-31 |
 | [Balance Sheet](https://www.glaze.app/app/qitbAW) | 4 | Track bills and projected balances | Matt Elliott | 1.0.0 | 65 KB | 2026-07-01 |
 | [BatteryPulse](https://www.glaze.app/app/g1iPS4) | 4 | Real watts, measured. Not estimated. | Tommy Chiam | 2.0.0 | 68 KB | 2026-07-28 |
@@ -76,5 +76,5 @@
 | [Breakaway](https://www.glaze.app/app/mGV0jt) | 1 | Follow pro cycling races live | Daniel Calmon | 1.0.0 | 634 KB | 2026-07-12 |
 | [Brønnøysund Search](https://www.glaze.app/app/YNvNnf) | 1 | Search Norwegian company registry data | Nichlas L-D | 1.0.0 | 67 KB | 2026-07-01 |
 | [Balinese Calendar](https://www.glaze.app/app/vRpmzw) | 0 | Easy access to the Balinese calendar | Tirta Wulandari | 1.0.0 | 193 KB | 2026-04-07 |
-| [Blood Match](https://www.glaze.app/app/blood-match-epXOOZ) | 0 | Find compatible blood donors instantly | Parsifal02 | 1.0.0 | 58 KB | 2026-07-30 |
+| [Blood Match](https://www.glaze.app/app/epXOOZ) | 0 | Find compatible blood donors instantly | Parsifal02 | 1.0.0 | 58 KB | 2026-07-30 |
 | [BridgeDesk](https://www.glaze.app/app/XLK7X9) | 0 | AI tools for chambers of commerce | Madan Chaolla Park | 2.0.0 | 79 KB | 2026-07-28 |

@@ -5,7 +5,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Funky Mirror](https://www.glaze.app/app/yHoT78) | 135 | Apply fun filters to your webcam | Samuel Kraft | 1.0.0 | 12.8 MB | 2026-05-12 |
-| [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) | 103 | Explore History of Football Tournaments | Alex Antonov | 6.0.0 | 313 KB | 2026-07-21 |
+| [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) | 105 | Explore History of Football Tournaments | Alex Antonov | 6.0.0 | 313 KB | 2026-07-21 |
 | [Monochrome](https://www.glaze.app/app/mE6ebz) | 19 | Take black and white photos | Samuel Kraft | 1.0.1 | 138 KB | 2026-03-04 |
 | [Photo Library](https://www.glaze.app/app/yXbvWH) | 15 | Organize and search your photos | Bdillahu | 1.0.0 | 74 KB | 2026-07-03 |
 | [NASA Gallery](https://www.glaze.app/app/j1MpkP) | 12 | Explore NASA's official space | Adam Molina | 1.0.0 | 55 KB | 2026-05-08 |

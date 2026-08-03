@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 31 | Open apps and links on macOS via network | Dhruv Suthar | 16.0.0 | 1.2 MB | 2026-07-31 |
 | [Glaze Installs](https://www.glaze.app/app/zh80kP) | 16 | See your apps exact install counts | WheelHugger | 1.0.0 | 83 KB | 2026-07-29 |
-| [Buckets](https://www.glaze.app/app/KbGT5M) | 13 | S3-compatible bucket browser | Fe9lix 084c | 6.0.0 | 2.2 MB | 2026-04-29 |
+| [Buckets](https://www.glaze.app/app/KbGT5M) | 14 | S3-compatible bucket browser | Fe9lix 084c | 6.0.0 | 2.2 MB | 2026-04-29 |
 | [Crypto Arbitrage Scanner](https://www.glaze.app/app/Tdpieh) | 5 | Track crypto arbitrage opportunities | Manuel de Cara | 3.0.0 | 99 KB | 2026-07-09 |
 | [Domain Checker](https://www.glaze.app/app/JPwyCH) | 5 | Check domain availability instantly | ashing zheng | 1.0.0 | 60 KB | 2026-07-02 |
 | [API-client](https://www.glaze.app/app/fDe2gg) | 4 | Test APIs locally without the hassle | beanie | 1.0.0 | 466 KB | 2026-07-08 |

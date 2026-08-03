@@ -6,8 +6,8 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| Zach Weismann | 1 | 1 | [D$shboard](https://www.glaze.app/app/09ueHS) *(Productivity)* |
-| Zachary Daniels | 1 | 7 | [Speed Reader](https://www.glaze.app/app/q8upcu) *(Productivity)* |
+| Zach Weismann | 1 | 2 | [D$shboard](https://www.glaze.app/app/09ueHS) *(Productivity)* |
+| Zachary Daniels | 1 | 8 | [Speed Reader](https://www.glaze.app/app/q8upcu) *(Productivity)* |
 | Zakria | 1 | 4 | [Verba](https://www.glaze.app/app/RDCKBF) *(Productivity)* |
 | Zeeshan Ahmad | 1 | 4 | [Word of the Day](https://www.glaze.app/app/6q8hl9) *(Productivity)* |
 | Zeroibc | 1 | 2 | [Time Format](https://www.glaze.app/app/lY68xN) *(Developer Tools)* |

@@ -1,6 +1,6 @@
 # João Neves
 
-11 apps · 129 installs · [← publishers](../README.md)
+11 apps · 130 installs · [← publishers](../README.md)
 
 ## Media (5)
 
@@ -36,4 +36,4 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Paperwork](https://www.glaze.app/app/7UkeE4) | 13 | Create documents visually, then export | João Neves | 2.0.0 | 5.6 MB | 2026-05-19 |
+| [Paperwork](https://www.glaze.app/app/7UkeE4) | 14 | Create documents visually, then export | João Neves | 2.0.0 | 5.6 MB | 2026-05-19 |

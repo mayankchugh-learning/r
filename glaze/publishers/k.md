@@ -11,7 +11,7 @@
 | Kami | 1 | 1 | [Cull](https://www.glaze.app/app/pCwJOf) *(Utilities)* |
 | Kamran Abdul Aziz | 1 | 13 | [Harbor](https://www.glaze.app/app/EMF2zu) *(Developer Tools)* |
 | Kapta Fu | 1 | 29 | [Port Manager](https://www.glaze.app/app/3gWdcg) *(Developer Tools)* |
-| Karim Abdelali | 2 | 2 | [Better Timer](https://www.glaze.app/app/Pkv2ta) *(Productivity)*, [Windows Lock Screen](https://www.glaze.app/app/windows-lock-screen-tRVDWz) *(Utilities)* |
+| Karim Abdelali | 2 | 2 | [Better Timer](https://www.glaze.app/app/Pkv2ta) *(Productivity)*, [Windows Lock Screen](https://www.glaze.app/app/tRVDWz) *(Utilities)* |
 | Karlo König | 1 | 7 | [DraftCalendar](https://www.glaze.app/app/wer6wS) *(Productivity)* |
 | Kartik | 1 | 42 | [Claude Usage](https://www.glaze.app/app/Iz8ofo) *(Developer Tools)* |
 | Kaushik Sivakumar | 1 | 10 | [Large Files](https://www.glaze.app/app/tsKCTY) *(Utilities)* |
@@ -21,24 +21,24 @@
 | Ke Xiong | 1 | 2 | [Sleep Time](https://www.glaze.app/app/GJ8DEd) *(Utilities)* |
 | Keenan Pinto | 1 | 1 | [Forecast](https://www.glaze.app/app/wf3MSH) *(Productivity)* |
 | keith moc | 1 | 3 | [AgentLens](https://www.glaze.app/app/VNQXvw) *(Developer Tools)* |
-| Ken Adams | 2 | 37 | [Pulse](https://www.glaze.app/app/3BmuDS) *(Developer Tools)*, [Foundry](https://www.glaze.app/app/wSg01p) *(Developer Tools)* |
+| Ken Adams | 2 | 38 | [Pulse](https://www.glaze.app/app/3BmuDS) *(Developer Tools)*, [Foundry](https://www.glaze.app/app/wSg01p) *(Developer Tools)* |
 | Kenworthe | 1 | 0 | [Realistic Cat Owner Simulator](https://www.glaze.app/app/bZ5OSN) *(Productivity)* |
 | Kevin | 2 | 3 | [Reminders Menu](https://www.glaze.app/app/zCOORx) *(Productivity)*, [Earn Counter](https://www.glaze.app/app/0ZZmuF) *(Productivity)* |
 | Kevin Rodgers | 1 | 4 | [Vinyl Vault](https://www.glaze.app/app/n2HZ3b) *(Utilities)* |
-| Khalid Hasan Zibon | 1 | 405 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) *(Productivity)* |
-| Kieran McGrady | 1 | 5 | [MP3PLAYER](https://www.glaze.app/app/HZazF0) *(Media)* |
-| Kim Nehzaty | 1 | 6 | [Bondfire](https://www.glaze.app/app/g9yKcF) *(Lifestyle)* |
+| Khalid Hasan Zibon | 1 | 411 | [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) *(Productivity)* |
+| Kieran McGrady | 1 | 8 | [MP3PLAYER](https://www.glaze.app/app/HZazF0) *(Media)* |
+| Kim Nehzaty | 1 | 7 | [Bondfire](https://www.glaze.app/app/g9yKcF) *(Lifestyle)* |
 | KIN HEI SHING | 1 | 0 | [Social Hub](https://www.glaze.app/app/yMQLG8) *(Productivity)* |
 | Kinsley Ogunmola | 1 | 3 | [PlantUML Editor](https://www.glaze.app/app/R4hr68) *(Developer Tools)* |
 | Kiril Kirov | 1 | 4 | [Image Hub](https://www.glaze.app/app/8hOlab) *(Media)* |
 | Kishan Dadhania | 2 | 6 | [K9s](https://www.glaze.app/app/CME6cv) *(Developer Tools)*, [Board & Timer](https://www.glaze.app/app/Su57hK) *(Productivity)* |
 | kitrouille | 1 | 3 | [Scholar MD](https://www.glaze.app/app/uClfem) *(Productivity)* |
 | Koby Ofek | 1 | 1 | [Done or Else](https://www.glaze.app/app/QATdeU) *(Productivity)* |
-| Kofi Amoussou | 3 | 11 | [Course Notes](https://www.glaze.app/app/9CV3EH) *(Productivity)*, [Watch Later](https://www.glaze.app/app/07KEGm) *(Productivity)*, [Dependency Hub](https://www.glaze.app/app/VplSta) *(Developer Tools)* |
+| Kofi Amoussou | 3 | 13 | [Course Notes](https://www.glaze.app/app/9CV3EH) *(Productivity)*, [Watch Later](https://www.glaze.app/app/07KEGm) *(Productivity)*, [Dependency Hub](https://www.glaze.app/app/VplSta) *(Developer Tools)* |
 | Korhan7992 | 1 | 3 | [PosturePulse](https://www.glaze.app/app/FoWeOC) *(Utilities)* |
-| Kosuke Imai | 1 | 23 | [Quick Transparent](https://www.glaze.app/app/ggTRMi) *(Design)* |
+| Kosuke Imai | 1 | 27 | [Quick Transparent](https://www.glaze.app/app/ggTRMi) *(Design)* |
 | Kreela | 3 | 3 | [Catfish](https://www.glaze.app/app/MyJzAn) *(Games & Fun)*, [DVD Composer](https://www.glaze.app/app/e4gPPz) *(Media)*, [Mail Deck](https://www.glaze.app/app/bXcgoO) *(Productivity)* |
-| [Kristina Loewen](./id/kristina-loewen.md) | 5 | 713 | [see all 5 →](./id/kristina-loewen.md) |
+| [Kristina Loewen](./id/kristina-loewen.md) | 5 | 719 | [see all 5 →](./id/kristina-loewen.md) |
 | Kth | 1 | 34 | [Skills](https://www.glaze.app/app/9liD6w) *(Developer Tools)* |
 | Kush Thakker | 1 | 22 | [Sheet Viewer](https://www.glaze.app/app/mNoKcf) *(Productivity)* |
 | Kyle Gilbert | 1 | 2 | [Story Archive](https://www.glaze.app/app/bFEYq8) *(Productivity)* |

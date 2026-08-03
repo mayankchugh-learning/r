@@ -21,14 +21,14 @@
 | Heavy.River | 1 | 9 | [Rain Line](https://www.glaze.app/app/sMrxqc) *(Utilities)* |
 | Helion | 1 | 0 | [Notes2Files](https://www.glaze.app/app/heged1) *(Productivity)* |
 | Henri Chabrand | 1 | 21 | [Glint](https://www.glaze.app/app/PcFJPH) *(Productivity)* |
-| hgg end | 1 | 1 | [Shark](https://www.glaze.app/app/svB120) *(Developer Tools)* |
+| hgg end | 1 | 2 | [Shark](https://www.glaze.app/app/svB120) *(Developer Tools)* |
 | Hi | 1 | 3 | [Scrobble](https://www.glaze.app/app/TbwZ8T) *(Utilities)* |
-| Himanshu Jha | 1 | 2 | [SnapPlan](https://www.glaze.app/app/PahWmW) *(Productivity)* |
+| Himanshu Jha | 1 | 3 | [SnapPlan](https://www.glaze.app/app/PahWmW) *(Productivity)* |
 | Himanshu Rattan | 1 | 3 | [Open Voz](https://www.glaze.app/app/TS9jS0) *(Utilities)* |
 | Hittanshu Bhanderi | 1 | 6 | [JobRadar](https://www.glaze.app/app/VqvPRI) *(Productivity)* |
 | Hong Linh Vu | 1 | 5 | [BearMark](https://www.glaze.app/app/BhCTVn) *(Productivity)* |
 | hottubjohn | 2 | 6 | [Minesweeper 95](https://www.glaze.app/app/cjWyek) *(Games & Fun)*, [TI+](https://www.glaze.app/app/lfe86S) *(Utilities)* |
-| Huakun Shen | 1 | 2 | [Chapter Timeline](https://www.glaze.app/app/wcCCV9) *(Media)* |
+| Huakun Shen | 1 | 3 | [Chapter Timeline](https://www.glaze.app/app/wcCCV9) *(Media)* |
 | Huang Chung YI | 1 | 4 | [Patchbay](https://www.glaze.app/app/EBNlob) *(Productivity)* |
 | Hugo Schmitt | 1 | 7 | [Worklog](https://www.glaze.app/app/cYeMGn) *(Productivity)* |
 | Huscruz | 1 | 1 | [Biomarker Calculator](https://www.glaze.app/app/Tb1E4K) *(Utilities)* |

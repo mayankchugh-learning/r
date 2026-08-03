@@ -6,15 +6,15 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [One Note](https://www.glaze.app/app/one-note-DhbXQo) | 48 | Leave a note on their Mac | Andrew Bondarenko | 3.0.0 | 87 KB | 2026-07-28 |
-| [Obsidian Task Dashboard](https://www.glaze.app/app/YgUf4O) | 20 | Organize Obsidian tasks by folder | Jose Ryu Leonesta | 2.0.0 | 71 KB | 2026-07-02 |
+| [One Note](https://www.glaze.app/app/one-note-DhbXQo) | 58 | Leave a note on their Mac | Andrew Bondarenko | 3.0.0 | 87 KB | 2026-07-28 |
+| [Obsidian Task Dashboard](https://www.glaze.app/app/YgUf4O) | 21 | Organize Obsidian tasks by folder | Jose Ryu Leonesta | 2.0.0 | 71 KB | 2026-07-02 |
 | [Outside](https://www.glaze.app/app/bkH281) | 20 | Sync your desktop with the weather | Tan | 3.0.0 | 57 KB | 2026-07-23 |
 | [og:inspect](https://www.glaze.app/app/FxW58J) | 19 | Preview OG metadata alongside your site | Jac Peregrine-Davies | 2.0.0 | 66 KB | 2026-07-01 |
-| [OTPop](https://www.glaze.app/app/6OxvwV) | 17 | OTPs at your fingertips | Manuele Sarfatti | 10.0.0 | 685 KB | 2026-07-27 |
+| [OTPop](https://www.glaze.app/app/6OxvwV) | 18 | OTPs at your fingertips | Manuele Sarfatti | 10.0.0 | 685 KB | 2026-07-27 |
 | [Oneko](https://www.glaze.app/app/AnIyLw) | 15 | Keep a cat floating on your screen | Dhruv Suthar | 2.0.0 | 48 KB | 2026-04-21 |
 | [OG Image Generator](https://www.glaze.app/app/axpi98) | 10 | Beautiful Open Graph images on your Mac | Sujeevan Nagarajah | 1.0.0 | 302 KB | 2026-07-26 |
 | [One-Take Teleprompter](https://www.glaze.app/app/BwnGQY) | 10 | Record videos with on-screen script | Artem Novichkov | 1.0.0 | 68 KB | 2026-07-04 |
-| [Only](https://www.glaze.app/app/otSeMd) | 9 | Share the point, not your screen. | Tim | 1.0.0 | 13.8 MB | 2026-07-28 |
+| [Only](https://www.glaze.app/app/otSeMd) | 10 | Share the point, not your screen. | Tim | 1.0.0 | 13.8 MB | 2026-07-28 |
 | [Onionskin](https://www.glaze.app/app/ZaTZYW) | 8 | A notebook that behaves like a notebook | Geoff Silva | 4.0.0 | 2.0 MB | 2026-07-24 |
 | [Outfit Check](https://www.glaze.app/app/eiLASD) | 7 | Plan your outfit before heading out | Jason Lang | 1.0.0 | 59 KB | 2026-07-08 |
 | [Overheard - Podcast knowledge](https://www.glaze.app/app/MMw100) | 7 | Turn podcasts into reusable knowledge | Ac0 | 10.0.0 | 371 KB | 2026-07-29 |

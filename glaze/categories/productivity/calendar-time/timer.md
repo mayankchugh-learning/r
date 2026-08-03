@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Countdown Widget](https://www.glaze.app/app/Z15mua) | 66 | Track every moment until it arrives | Nichlas Wærnes Andersen | 4.0.0 | 66 KB | 2026-04-15 |
+| [Countdown Widget](https://www.glaze.app/app/Z15mua) | 68 | Track every moment until it arrives | Nichlas Wærnes Andersen | 4.0.0 | 66 KB | 2026-04-15 |
 | [Tomato Focus](https://www.glaze.app/app/4wSVNN) | 20 | Track tasks with pomodoro timer | Benjamin | 4.0.0 | 108 KB | 2026-07-15 |
 | [Tempo](https://www.glaze.app/app/1m4pLi) | 9 | Focus with music and customizable timers | Akhil Konduru | 2.0.0 | 71 KB | 2026-07-05 |
 | [Pomo](https://www.glaze.app/app/Nvojrt) | 8 | Track pomodoro sessions and productivity | nanbing liu | 1.0.0 | 65 KB | 2026-07-02 |

@@ -9,9 +9,9 @@
 | Fahd Badran | 1 | 4 | [Infinite Wallpapers](https://www.glaze.app/app/YflqIT) *(Utilities)* |
 | Faisal F Rafat | 1 | 10 | [Markdown Reader](https://www.glaze.app/app/haPRqs) *(Utilities)* |
 | Farhan K. | 1 | 4 | [On-Brand](https://www.glaze.app/app/DhmLaD) *(Design)* |
-| Favour Olaboye | 1 | 4 | [Shoebox](https://www.glaze.app/app/fZLDUl) *(Productivity)* |
+| Favour Olaboye | 1 | 5 | [Shoebox](https://www.glaze.app/app/fZLDUl) *(Productivity)* |
 | Fayaz Ahmed | 1 | 14 | [Flaremail](https://www.glaze.app/app/hB2ADe) *(Developer Tools)* |
-| Fe9lix 084c | 1 | 13 | [Buckets](https://www.glaze.app/app/KbGT5M) *(Developer Tools)* |
+| Fe9lix 084c | 1 | 14 | [Buckets](https://www.glaze.app/app/KbGT5M) *(Developer Tools)* |
 | Federico Vitale | 1 | 9 | [Heatkey](https://www.glaze.app/app/hBTHKN) *(Developer Tools)* |
 | Federico Zivolo | 1 | 2 | [Dataset Forge](https://www.glaze.app/app/rq6e5C) *(Developer Tools)* |
 | Felipe de Castro Kondo | 1 | 3 | [Dice Roll](https://www.glaze.app/app/5cmQqo) *(Games & Fun)* |
@@ -28,11 +28,11 @@
 | Flo | 1 | 26 | [Skill Map](https://www.glaze.app/app/CMgPDh) *(Developer Tools)* |
 | Florentin Eckl | 1 | 13 | [Recommand](https://www.glaze.app/app/ZDQIep) *(Productivity)* |
 | Florian.Mascaro | 1 | 9 | [Image Lighter](https://www.glaze.app/app/BxZAHu) *(Developer Tools)* |
-| fra.raw | 1 | 54 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
+| fra.raw | 1 | 68 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
 | Frajjco | 1 | 1 | [Outfit of the Day](https://www.glaze.app/app/dcpdLg) *(Lifestyle)* |
 | Frame City | 1 | 0 | [Pomodoro Focus](https://www.glaze.app/app/C7Sc4O) *(Productivity)* |
 | Francesco Maisano | 1 | 5 | [Blunder](https://www.glaze.app/app/0dUOLc) *(Games & Fun)* |
 | Frank | 1 | 2 | [PG-Glaze](https://www.glaze.app/app/aNPalD) *(Developer Tools)* |
 | Frank Olien | 1 | 2 | [Handoff](https://www.glaze.app/app/C86y01) *(Productivity)* |
-| freddy | 2 | 6 | [Markdown Preview](https://www.glaze.app/app/markdown-preview-41iQyN) *(Developer Tools)*, [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) *(Utilities)* |
+| freddy | 2 | 13 | [Markdown Preview](https://www.glaze.app/app/markdown-preview-41iQyN) *(Developer Tools)*, [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) *(Utilities)* |
 | Frederic Lierman | 1 | 2 | [log-lite](https://www.glaze.app/app/6ldf4h) *(Productivity)* |

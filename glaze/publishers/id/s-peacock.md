@@ -1,6 +1,6 @@
 # S.Peacock
 
-6 apps · 38 installs · [← publishers](../README.md)
+6 apps · 39 installs · [← publishers](../README.md)
 
 ## Developer Tools (5)
 
@@ -16,4 +16,4 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Icon Collector](https://www.glaze.app/app/X5epC2) | 4 | Grab every app icon you need in seconds | S.Peacock | 2.0.0 | 62 KB | 2026-07-31 |
+| [Icon Collector](https://www.glaze.app/app/X5epC2) | 5 | Grab every app icon you need in seconds | S.Peacock | 2.0.0 | 62 KB | 2026-07-31 |

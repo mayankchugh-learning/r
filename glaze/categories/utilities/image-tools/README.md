@@ -1,10 +1,10 @@
 # Image Tools
 
-35 apps · [← Utilities](../README.md)
+36 apps · [← Utilities](../README.md)
 
 | Topic | Apps |
 | --- | --- |
-| [Background ✦](./background.md) | 17 |
+| [Background ✦](./background.md) | 18 |
 | [Bar ✦](./bar.md) | 5 |
 | [Images ✦](./images.md) | 4 |
 | [AI ✦](./ai.md) | 5 |

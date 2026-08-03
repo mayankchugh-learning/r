@@ -7,5 +7,5 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Xcode Cleanup](https://www.glaze.app/app/ZIb72j) | 21 | Scan and remove junk files created by Xcode including simulators, device support, derived data, and caches | Jordan Amblin | 1.0.1 | 167 KB | 2026-03-02 |
-| [X Search](https://www.glaze.app/app/tjeqT2) | 16 | The fastest way to find anything on X | Daniel | 3.0.0 | 253 KB | 2026-07-29 |
+| [X Search](https://www.glaze.app/app/tjeqT2) | 18 | The fastest way to find anything on X | Daniel | 3.0.0 | 253 KB | 2026-07-29 |
 | [XML to CSV](https://www.glaze.app/app/mEiNld) | 0 | Transform XML data into CSV tables | Albert Berlanga | 1.0.0 | 92 KB | 2026-07-20 |

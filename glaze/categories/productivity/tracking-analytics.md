@@ -50,8 +50,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Priority Matrix](https://www.glaze.app/app/erfrci) | 15 | Organize tasks by urgency and importance | John.Gatev | 1.0.0 | 67 KB | 2026-06-29 |
 | [Wishlist](https://www.glaze.app/app/bdkrvX) | 5 | Curate and organize items you want to | Leonidas Fragkioudakis | 1.0.0 | 71 KB | 2026-07-06 |
+| [Clipboard Shelf](https://www.glaze.app/app/2Mw1lq) | 3 | Collect and organize clipboard items | Rahul Bakshi | 1.0.0 | 65 KB | 2026-07-27 |
 | [Substriki](https://www.glaze.app/app/S7IRAU) | 3 | Track every subscription in one place | Shajib Bhuiyan | 1.0.0 | 65 KB | 2026-07-02 |
-| [Clipboard Shelf](https://www.glaze.app/app/2Mw1lq) | 2 | Collect and organize clipboard items | Rahul Bakshi | 1.0.0 | 65 KB | 2026-07-27 |
 | [Collector’s Catalog](https://www.glaze.app/app/gX4n0Q) | 2 | Organize and Display your Collection | Brittany Smith | 1.0.0 | 713 KB | 2026-07-27 |
 
 ## General

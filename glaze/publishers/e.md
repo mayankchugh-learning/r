@@ -19,30 +19,30 @@
 | egor | 1 | 6 | [Try To Bite Me](https://www.glaze.app/app/98txqx) *(Games & Fun)* |
 | Eitel Dagnin | 1 | 5 | [Worktree](https://www.glaze.app/app/ki2IFx) *(Developer Tools)* |
 | EK | 1 | 2 | [EZQR](https://www.glaze.app/app/wwduiY) *(Utilities)* |
-| Eldar Khuzin | 2 | 11 | [Links Kanban](https://www.glaze.app/app/Fk71ao) *(Productivity)*, [Whisper Wrapper](https://www.glaze.app/app/VWE4ie) *(Productivity)* |
+| Eldar Khuzin | 2 | 12 | [Links Kanban](https://www.glaze.app/app/Fk71ao) *(Productivity)*, [Whisper Wrapper](https://www.glaze.app/app/VWE4ie) *(Productivity)* |
 | Elijah Oreoluwa | 1 | 1 | [Bench](https://www.glaze.app/app/ndizSO) *(Developer Tools)* |
 | Elior Boukhobza | 3 | 4 | [Folder Customizer](https://www.glaze.app/app/bfGhVQ) *(Utilities)*, [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) *(Utilities)*, [Pokémon Quiz Master](https://www.glaze.app/app/9fs8mk) *(Games & Fun)* |
 | Elisac | 2 | 4 | [Menu Music](https://www.glaze.app/app/bP67GH) *(Utilities)*, [Clipboard Menu](https://www.glaze.app/app/1gxvnh) *(Utilities)* |
 | Elizabeth Lin | 1 | 28 | [seesaw](https://www.glaze.app/app/YRdevl) *(Productivity)* |
 | Elliott Mangham | 1 | 10 | [Agent Arcade](https://www.glaze.app/app/vBkDof) *(Games & Fun)* |
 | Elston Yee | 1 | 2 | [English to Chinese](https://www.glaze.app/app/QPtyhn) *(Utilities)* |
-| Elvis | 1 | 3 | [Smeenshot](https://www.glaze.app/app/lGCEpP) *(Utilities)* |
+| Elvis | 1 | 4 | [Smeenshot](https://www.glaze.app/app/lGCEpP) *(Utilities)* |
 | Emanuele Moricci | 1 | 5 | [Gesture It!](https://www.glaze.app/app/RBxcah) *(Design)* |
 | Emilio Escobar | 1 | 28 | [Hacker News Reader](https://www.glaze.app/app/6JMi6H) *(Developer Tools)* |
 | Emir Amanbekov | 1 | 2 | [Timelines](https://www.glaze.app/app/J6ZdKS) *(Utilities)* |
 | Emk920 | 1 | 5 | [Recall - Instant Image Indexing](https://www.glaze.app/app/uxEadg) *(Utilities)* |
 | Emmanuel Umoru | 1 | 31 | [Vitrine](https://www.glaze.app/app/JSshUC) *(Developer Tools)* |
-| Emre ŞEN | 1 | 31 | [Clean Disk](https://www.glaze.app/app/mX1eWK) *(Utilities)* |
+| Emre ŞEN | 1 | 32 | [Clean Disk](https://www.glaze.app/app/mX1eWK) *(Utilities)* |
 | Erbil Nas | 3 | 6 | [Don't Be AFK](https://www.glaze.app/app/2SXArO) *(Utilities)*, [Cura](https://www.glaze.app/app/HP0tKT) *(Developer Tools)*, [Git Persona](https://www.glaze.app/app/l3UPlC) *(Developer Tools)* |
 | [Eric Cheung](./id/eric-cheung.md) | 4 | 12 | [see all 4 →](./id/eric-cheung.md) |
 | Eric McQuesten | 1 | 3 | [Goal Focus](https://www.glaze.app/app/s3vTde) *(Productivity)* |
 | Erik | 1 | 1 | [AudioPair](https://www.glaze.app/app/DKqhsm) *(Utilities)* |
 | Erik Blomqvist | 1 | 11 | [Cursor Cube](https://www.glaze.app/app/38i83u) *(Games & Fun)* |
-| Ermek Barmashev | 1 | 2 | [Notify Hub](https://www.glaze.app/app/notify-hub-tW3kxb) *(Productivity)* |
+| Ermek Barmashev | 1 | 2 | [Notify Hub](https://www.glaze.app/app/tW3kxb) *(Productivity)* |
 | Esteban Dalel R | 1 | 0 | [Relieve](https://www.glaze.app/app/fLmAia) *(Productivity)* |
-| Ethan Darling | 1 | 3 | [QR Reader](https://www.glaze.app/app/qaM0d4) *(Utilities)* |
+| Ethan Darling | 1 | 4 | [QR Reader](https://www.glaze.app/app/qaM0d4) *(Utilities)* |
 | Ethan Figueroa | 1 | 9 | [PR Reviewer](https://www.glaze.app/app/4jkFFX) *(Developer Tools)* |
-| Etienne Idoux | 1 | 7 | [Findle](https://www.glaze.app/app/t3xcsJ) *(Utilities)* |
+| Etienne Idoux | 1 | 8 | [Findle](https://www.glaze.app/app/t3xcsJ) *(Utilities)* |
 | Eugen Walcher | 1 | 8 | [Minesweeper](https://www.glaze.app/app/td2sah) *(Games & Fun)* |
 | Eugene Kruglov | 1 | 1 | [Only You App](https://www.glaze.app/app/XL46aE) *(Productivity)* |
 | Evan | 2 | 9 | [Stash](https://www.glaze.app/app/PhdJyc) *(Utilities)*, [NotePad](https://www.glaze.app/app/Zyffcj) *(Productivity)* |

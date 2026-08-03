@@ -8,6 +8,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Bloodline](https://www.glaze.app/app/3t8E2Y) | 6 | Your blood tests, explained over time! | BLCNYY | 24.0.0 | 765 KB | 2026-07-28 |
 | [LabLens](https://www.glaze.app/app/GkByoP) | 6 | Understand your labs, privately | Alison Bays | 2.0.0 | 2.0 MB | 2026-07-27 |
-| [Pocket Watch](https://www.glaze.app/app/Ct96il) | 3 | Save YouTube for later — calmly. | Kaustav Das Biswas | 5.0.0 | 239 KB | 2026-07-29 |
+| [Pocket Watch](https://www.glaze.app/app/Ct96il) | 3 | Save YouTube for later — calmly. | Kaustav Das Biswas | 6.0.0 | 242 KB | 2026-08-02 |
 | [Rollcall](https://www.glaze.app/app/rEmUl2) | 3 | Know what’s missing before you leave. | ecklc | 3.0.0 | 2.7 MB | 2026-07-27 |
 | [Monocle](https://www.glaze.app/app/4a0H2k) | 1 | See or hear your screen better | Vidura Gunawardana | 2.0.0 | 74 KB | 2026-07-27 |

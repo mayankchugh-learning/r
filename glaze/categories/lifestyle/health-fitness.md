@@ -5,10 +5,10 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Arnie](https://www.glaze.app/app/tqkV16) | 60 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 182 KB | 2026-06-30 |
-| [Ding!](https://www.glaze.app/app/oRbL7g) | 40 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 62 KB | 2026-07-30 |
+| [Ding!](https://www.glaze.app/app/oRbL7g) | 41 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 62 KB | 2026-07-30 |
 | [Bassics](https://www.glaze.app/app/NYi58U) | 15 | Learn electric bass from the ground up | Lee Sherman | 9.0.0 | 609 KB | 2026-07-24 |
 | [Desktop Buddy](https://www.glaze.app/app/EZebyp) | 15 | Your digital friend for daily wellness | Jingxi Huang | 2.0.0 | 56.8 MB | 2026-04-29 |
-| [MoveBro](https://www.glaze.app/app/bq0oPJ) | 13 | Workouts at home, peace of mind included | Abhijeet S | 4.0.0 | 7.4 MB | 2026-07-28 |
+| [MoveBro](https://www.glaze.app/app/bq0oPJ) | 14 | Workouts at home, peace of mind included | Abhijeet S | 4.0.0 | 7.4 MB | 2026-07-28 |
 | [Desktop Cat](https://www.glaze.app/app/ugw7nJ) | 11 | Keep a virtual cat on your desktop | tatsuo yokoyama | 1.0.0 | 73 KB | 2026-06-12 |
 | [Golden Hour](https://www.glaze.app/app/Q8aOJn) | 6 | The light where you are, all day long | Jituiitm | 1.0.0 | 69 KB | 2026-07-28 |
 | [Ribbit](https://www.glaze.app/app/JhZvqe) | 2 | Save rings, compare, say yes. | gumadeiars | 3.0.0 | 3.0 MB | 2026-07-27 |

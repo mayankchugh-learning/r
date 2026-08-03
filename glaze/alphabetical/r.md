@@ -6,22 +6,22 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ray.fm](https://www.glaze.app/app/Af8oi9) | 839 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 337 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 151 KB | 2026-07-30 |
-| [Reading Corner](https://www.glaze.app/app/k3tfty) | 238 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 790 KB | 2026-07-19 |
-| [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 116 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 67 KB | 2026-07-20 |
-| [Repo Scout](https://www.glaze.app/app/repo-scout-P3pbfd) | 102 | Discover and manage git repos | Yiwei Ho | 6.0.0 | 63 KB | 2026-07-07 |
-| [Raycast Maze](https://www.glaze.app/app/raycast-maze-Meh4qI) | 89 | Explore Raycast through interactive | 騎山豬跑山 | 1.0.0 | 1.1 MB | 2026-04-15 |
+| [ray.fm](https://www.glaze.app/app/Af8oi9) | 843 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 396 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 151 KB | 2026-07-30 |
+| [Reading Corner](https://www.glaze.app/app/k3tfty) | 244 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 790 KB | 2026-07-19 |
+| [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 120 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 67 KB | 2026-07-20 |
+| [Repo Scout](https://www.glaze.app/app/repo-scout-P3pbfd) | 103 | Discover and manage git repos | Yiwei Ho | 6.0.0 | 63 KB | 2026-07-07 |
+| [Raycast Maze](https://www.glaze.app/app/raycast-maze-Meh4qI) | 90 | Explore Raycast through interactive | 騎山豬跑山 | 1.0.0 | 1.1 MB | 2026-04-15 |
 | [Raycast Events Map](https://www.glaze.app/app/kGKUOU) | 26 | See Raycast's company events on a map with locations and event details at a glance. You can also go on a virtual world tour. | Beth Staff | 5.0.1 | 894 KB | 2026-03-20 |
-| [Rams Radio](https://www.glaze.app/app/hefCaI) | 21 | Listen to your favorite stations anytime | Ivo Fonseca | 2.0.0 | 261 KB | 2026-07-27 |
+| [Rams Radio](https://www.glaze.app/app/hefCaI) | 22 | Listen to your favorite stations anytime | Ivo Fonseca | 2.0.0 | 261 KB | 2026-07-27 |
 | [Reminders in Menubar](https://www.glaze.app/app/NvSEbg) | 20 | Access apple reminders from your menubar | Anubhav Tyagi | 2.0.0 | 67 KB | 2026-06-29 |
 | [Raywind](https://www.glaze.app/app/BFSbLz) | 17 | Instant screen replay for QA testing. | Per Nielsen Tikær | 4.0.0 | 522 KB | 2026-04-30 |
-| [Reclaim](https://www.glaze.app/app/ed33HB) | 14 | Your AI is quietly eating up your disk | Abubakr Jimoh | 4.0.0 | 236 KB | 2026-07-27 |
+| [Reclaim](https://www.glaze.app/app/ed33HB) | 15 | Your AI is quietly eating up your disk | Abubakr Jimoh | 4.0.0 | 236 KB | 2026-07-27 |
 | [Recommand](https://www.glaze.app/app/ZDQIep) | 13 | Quick app switching with Right Command | Florentin Eckl | 12.0.0 | 2.7 MB | 2026-07-30 |
+| [Reel Scout](https://www.glaze.app/app/D2po61) | 12 | Discover and track movies | Square Rabbit | 1.0.0 | 75 KB | 2026-07-23 |
 | [Relay](https://www.glaze.app/app/mvjsAA) | 12 | API Endpoints to tools for AI agents | Nikhil | 8.0.0 | 394 KB | 2026-07-28 |
 | [Room Planner](https://www.glaze.app/app/yvEH29) | 11 | Design your perfect space in minutes | Cindy Wincek | 2.0.0 | 93 KB | 2026-07-24 |
 | [RAM Prices](https://www.glaze.app/app/wrahvi) | 10 | Track RAM Prices | alexi.build | 2.0.0 | 152 KB | 2026-07-06 |
-| [Reel Scout](https://www.glaze.app/app/D2po61) | 10 | Discover and track movies | Square Rabbit | 1.0.0 | 75 KB | 2026-07-23 |
 | [Rain Line](https://www.glaze.app/app/sMrxqc) | 9 | View 7-day weather in hourly line graphs | Heavy.River | 4.0.0 | 73 KB | 2026-07-13 |
 | [Resonance Game](https://www.glaze.app/app/eV10Z5) | 9 | Discover your cognitive reasoning style | Srinivas Jonna | 1.0.0 | 50 KB | 2026-05-01 |
 | [re:Work](https://www.glaze.app/app/aqeLBX) | 8 | Know where your day went. Automatically. | Benji Schwartz-Gilbert | 7.0.0 | 123 KB | 2026-07-31 |
@@ -42,14 +42,14 @@
 | [Recall - Instant Image Indexing](https://www.glaze.app/app/uxEadg) | 5 | AI-Powered Searchable Image Library | Emk920 | 3.0.0 | 290 KB | 2026-07-06 |
 | [Rewind](https://www.glaze.app/app/kNEoC0) | 5 | Track every action on your computer | Yeshe | 2.0.0 | 69 KB | 2026-07-20 |
 | [Roam](https://www.glaze.app/app/90ZLHY) | 5 | The world, as you've lived it | Shaig Allahyarli | 1.0.0 | 2.1 MB | 2026-07-27 |
+| [Recast](https://www.glaze.app/app/vMN6h9) | 4 | Redesign your room before you renovate | Marek Wituszynski | 2.0.0 | 21.1 MB | 2026-07-27 |
 | [Receipt Scanner](https://www.glaze.app/app/48i3H9) | 4 | Extract receipt data automatically | Shearm | 3.0.0 | 68 KB | 2026-06-25 |
+| [Reed](https://www.glaze.app/app/tu91GA) | 4 | Stretch on schedule, feel better daily | Alex Mathew | 2.0.0 | 76 KB | 2026-07-27 |
 | [Replay](https://www.glaze.app/app/4fgahp) | 4 | A private memory companion for your Mac | Nurkamol Vakhidov | 11.0.0 | 692 KB | 2026-07-26 |
 | [Replenish](https://www.glaze.app/app/nXJKqK) | 4 | Track household purchases and reorder | Bakari Chavanu | 1.0.0 | 69 KB | 2026-06-30 |
 | [Rock Paper Scissors](https://www.glaze.app/app/Lngfr4) | 4 | Master the timeless hand game | hyeonggi kwon | 1.0.0 | 57 KB | 2026-06-29 |
 | [Recall](https://www.glaze.app/app/dYlD2n) | 3 | Keep every copy you make | Chin Peerapat | 1.0.0 | 54 KB | 2026-06-14 |
 | [Recall](https://www.glaze.app/app/jSrchg) | 3 | Recall every copy | Danieljgilmore11 | 1.0.0 | 84 KB | 2026-07-24 |
-| [Recast](https://www.glaze.app/app/vMN6h9) | 3 | Redesign your room before you renovate | Marek Wituszynski | 2.0.0 | 21.1 MB | 2026-07-27 |
-| [Reed](https://www.glaze.app/app/tu91GA) | 3 | Stretch on schedule, feel better daily | Alex Mathew | 2.0.0 | 76 KB | 2026-07-27 |
 | [Relay](https://www.glaze.app/app/OcQkmG) | 3 | Capture anything, send it anywhere. | Solomon Adzape | 2.0.0 | 90 KB | 2026-07-25 |
 | [Release Notes Translator](https://www.glaze.app/app/NNjPWV) | 3 | Translate + upload your release notes | Raycast | 1.0.0 | 100 KB | 2026-07-22 |
 | [Remind](https://www.glaze.app/app/EdllP7) | 3 | Schedule tasks with recurring | Mehmet Kose | 1.0.0 | 62 KB | 2026-06-28 |

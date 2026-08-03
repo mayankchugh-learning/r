@@ -1,8 +1,8 @@
 # Focus ✦
 
-18 apps · [← Focus & Wellbeing](./README.md)
+17 apps · [← Focus & Wellbeing](./README.md)
 
-[Sessions ✦](#sessions) (7) · [Bar ✦](#bar) (4) · [General](#general) (7)
+[Sessions ✦](#sessions) (7) · [Bar ✦](#bar) (4) · [General](#general) (6)
 
 *✦ auto-discovered topic group*
 
@@ -31,10 +31,9 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Notebook](https://www.glaze.app/app/EFiejT) | 22 | Write without distractions. | asingoat | 4.0.0 | 11.2 MB | 2026-07-22 |
+| [Notebook](https://www.glaze.app/app/EFiejT) | 23 | Write without distractions. | asingoat | 4.0.0 | 11.2 MB | 2026-07-22 |
 | [LearnCards](https://www.glaze.app/app/YpeusW) | 11 | Learn efficiently with intelligent | Pasipepe | 1.0.0 | 100 KB | 2026-07-02 |
 | [Focus Rail](https://www.glaze.app/app/r5i5x7) | 9 | Stay visually anchored while reading | Jesse Dugas | 2.0.0 | 81 KB | 2026-06-07 |
 | [White Noise](https://www.glaze.app/app/Tr2BwL) | 6 | Real-time white noise for focus | Tommy | 1.0.0 | 58 KB | 2026-07-10 |
 | [Crude Watch](https://www.glaze.app/app/nbXx15) | 3 | Track oil prices, get instant alerts | @zenithquinn | 1.0.0 | 67 KB | 2026-07-01 |
-| [Court Watch](https://www.glaze.app/app/X6XfCa) | 0 | Track NBA player moves and trades | boubatunechi | 1.0.0 | 64 KB | 2026-07-24 |
 | [Focus Lock](https://www.glaze.app/app/VU2t82) | 0 | Block distracting apps and websites | Waseem Ahmed | 1.0.0 | 73 KB | 2026-07-27 |

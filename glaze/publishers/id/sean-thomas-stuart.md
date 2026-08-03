@@ -1,12 +1,12 @@
 # Sean Thomas Stuart
 
-7 apps · 70 installs · [← publishers](../README.md)
+7 apps · 71 installs · [← publishers](../README.md)
 
 ## Utilities (1)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Window](https://www.glaze.app/app/RXSuMU) | 24 | Weather, reimagined as light. | Sean Thomas Stuart | 2.0.0 | 71 KB | 2026-07-19 |
+| [Window](https://www.glaze.app/app/RXSuMU) | 25 | Weather, reimagined as light. | Sean Thomas Stuart | 2.0.0 | 71 KB | 2026-07-19 |
 
 ## Developer Tools (3)
 

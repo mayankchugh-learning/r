@@ -1,12 +1,12 @@
 # Daniel
 
-4 apps · 19 installs · [← publishers](../README.md)
+4 apps · 21 installs · [← publishers](../README.md)
 
 ## Productivity (1)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [X Search](https://www.glaze.app/app/tjeqT2) | 16 | The fastest way to find anything on X | Daniel | 3.0.0 | 253 KB | 2026-07-29 |
+| [X Search](https://www.glaze.app/app/tjeqT2) | 18 | The fastest way to find anything on X | Daniel | 3.0.0 | 253 KB | 2026-07-29 |
 
 ## Developer Tools (1)
 

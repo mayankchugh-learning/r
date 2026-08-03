@@ -1,12 +1,12 @@
 # Per Nielsen Tikær
 
-6 apps · 111 installs · [← publishers](../README.md)
+6 apps · 112 installs · [← publishers](../README.md)
 
 ## Games & Fun (3)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Coin Pusher](https://www.glaze.app/app/vlhYng) | 43 | Play a 3D arcade coin pusher game where you drop coins and watch them cascade off the edge for points. | Per Nielsen Tikær | 1.0.1 | 984 KB | 2026-03-09 |
+| [Coin Pusher](https://www.glaze.app/app/vlhYng) | 44 | Play a 3D arcade coin pusher game where you drop coins and watch them cascade off the edge for points. | Per Nielsen Tikær | 1.0.1 | 984 KB | 2026-03-09 |
 | [Pixel Runner](https://www.glaze.app/app/dZpJ2d) | 34 | Run, jump, and dodge obstacles in this retro-style endless runner! Choose your character, compete for high scores, and climb the leaderboard. | Per Nielsen Tikær | 1.0.1 | 195 KB | 2026-03-04 |
 | [Jawbreaker](https://www.glaze.app/app/zfhbto) | 2 | Flap through twisting pipe mazes. | Per Nielsen Tikær | 1.0.0 | 466 KB | 2026-05-06 |
 

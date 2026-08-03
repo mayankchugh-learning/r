@@ -1,10 +1,10 @@
 # Focus & Wellbeing
 
-37 apps · [← Productivity](../README.md)
+36 apps · [← Productivity](../README.md)
 
 | Topic | Apps |
 | --- | --- |
-| [Focus ✦](./focus.md) | 18 |
+| [Focus ✦](./focus.md) | 17 |
 | [Daily ✦](./daily.md) | 9 |
 | [Day ✦](./day.md) | 5 |
 | [General](./general.md) | 5 |

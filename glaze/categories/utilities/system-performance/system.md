@@ -1,22 +1,10 @@
 # System ✦
 
-17 apps · [← System & Performance](./README.md)
+16 apps · [← System & Performance](./README.md)
 
-[Monitor ✦](#monitor) (7) · [Choose ✦](#choose) (6) · [Drag ✦](#drag) (4)
+[Choose ✦](#choose) (6) · [Monitor ✦](#monitor) (6) · [Drag ✦](#drag) (4)
 
 *✦ auto-discovered topic group*
-
-## Monitor ✦
-
-| App | Installs | Description | Publisher | Version | Size | Updated |
-| --- | --- | --- | --- | --- | --- | --- |
-| [App Manager](https://www.glaze.app/app/j7Tz2M) | 27 | Organize all your apps in one place | Mr Rajput | 1.0.0 | 81 KB | 2026-07-02 |
-| [Memory Guard](https://www.glaze.app/app/Gp2Q8T) | 16 | Monitor RAM and optimize memory usage | David Cortizo | 3.0.0 | 75 KB | 2026-07-24 |
-| [Loud - Better Activity Monitor](https://www.glaze.app/app/kW6Bh5) | 8 | See what's slowing down your Mac | Diana Durkota | 2.0.0 | 45 KB | 2026-07-25 |
-| [Ping Check](https://www.glaze.app/app/3JKav5) | 3 | Stay connected, know your ping | Eaugum | 5.0.0 | 64 KB | 2026-07-30 |
-| [Thermal Monitor](https://www.glaze.app/app/d8QTlA) | 3 | Monitor CPU and system temperatures | Léo Tuil | 4.0.0 | 129 KB | 2026-08-01 |
-| [Tesla Energy](https://www.glaze.app/app/I6VIKJ) | 2 | Monitor your Tesla solar production | Chris Messina | 2.0.0 | 292 KB | 2026-07-27 |
-| [Who’s LIVE](https://www.glaze.app/app/nqAnwL) | 2 | Track live streams from every platform | Delvison Marte | 1.0.0 | 77 KB | 2026-06-27 |
 
 ## Choose ✦
 
@@ -29,11 +17,22 @@
 | [PrintDrop](https://www.glaze.app/app/uqEnbr) | 1 | Drag and drop files to print | 聂超群 | 1.0.0 | 58 KB | 2026-07-23 |
 | [Caffeine Manager](https://www.glaze.app/app/ssty8w) | 0 | Keep Mac awake while your agents run | Grzegorz Zalewski | 4.0.0 | 74 KB | 2026-07-24 |
 
+## Monitor ✦
+
+| App | Installs | Description | Publisher | Version | Size | Updated |
+| --- | --- | --- | --- | --- | --- | --- |
+| [App Manager](https://www.glaze.app/app/j7Tz2M) | 28 | Organize all your apps in one place | Mr Rajput | 1.0.0 | 81 KB | 2026-07-02 |
+| [Memory Guard](https://www.glaze.app/app/Gp2Q8T) | 16 | Monitor RAM and optimize memory usage | David Cortizo | 3.0.0 | 75 KB | 2026-07-24 |
+| [Loud - Better Activity Monitor](https://www.glaze.app/app/kW6Bh5) | 8 | See what's slowing down your Mac | Diana Durkota | 2.0.0 | 45 KB | 2026-07-25 |
+| [Ping Check](https://www.glaze.app/app/3JKav5) | 3 | Stay connected, know your ping | Eaugum | 5.0.0 | 64 KB | 2026-07-30 |
+| [Thermal Monitor](https://www.glaze.app/app/d8QTlA) | 3 | Monitor CPU and system temperatures | Léo Tuil | 4.0.0 | 129 KB | 2026-08-01 |
+| [Tesla Energy](https://www.glaze.app/app/I6VIKJ) | 2 | Monitor your Tesla solar production | Chris Messina | 2.0.0 | 292 KB | 2026-07-27 |
+
 ## Drag ✦
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Copy Shelf](https://www.glaze.app/app/DO5ttX) | 10 | Bring back what you copied | Sabik Biswas | 1.0.0 | 80 KB | 2026-07-28 |
+| [Copy Shelf](https://www.glaze.app/app/DO5ttX) | 12 | Bring back what you copied | Sabik Biswas | 1.0.0 | 80 KB | 2026-07-28 |
 | [Trash Eras](https://www.glaze.app/app/9LmJqb) | 5 | Customize your Mac trash can icon | Lee Sherman | 8.0.0 | 495 KB | 2026-07-24 |
 | [Print Eras](https://www.glaze.app/app/nzc7EX) | 1 | Drag and drop files to print instantly | Lee Sherman | 4.0.0 | 526 KB | 2026-07-24 |
 | [Furigana Reader](https://www.glaze.app/app/WRt2U3) | 0 | Read furigana of any on-screen Kanji | A Lee | 2.0.0 | 113 KB | 2026-06-27 |

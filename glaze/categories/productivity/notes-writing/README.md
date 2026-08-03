@@ -1,10 +1,10 @@
 # Notes & Writing
 
-77 apps · [← Productivity](../README.md)
+78 apps · [← Productivity](../README.md)
 
 | Topic | Apps |
 | --- | --- |
-| [Markdown ✦](./markdown/README.md) | 29 |
+| [Markdown ✦](./markdown/README.md) | 30 |
 | [Organize ✦](./organize.md) | 17 |
 | [Write ✦](./write.md) | 9 |
 | [Folder ✦](./folder.md) | 4 |

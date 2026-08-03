@@ -1,12 +1,12 @@
 # Dhruv Suthar
 
-16 apps · 477 installs · [← publishers](../README.md)
+16 apps · 479 installs · [← publishers](../README.md)
 
 ## Utilities (2)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Gesture Launch](https://www.glaze.app/app/74q23g) | 224 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 92 KB | 2026-05-14 |
+| [Gesture Launch](https://www.glaze.app/app/74q23g) | 225 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 92 KB | 2026-05-14 |
 | [Oneko](https://www.glaze.app/app/AnIyLw) | 15 | Keep a cat floating on your screen | Dhruv Suthar | 2.0.0 | 48 KB | 2026-04-21 |
 
 ## Productivity (4)
@@ -30,7 +30,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Punch Mac](https://www.glaze.app/app/fKAUbt) | 25 | Punch your MacBook | Dhruv Suthar | 4.0.0 | 169 KB | 2026-04-08 |
+| [Punch Mac](https://www.glaze.app/app/fKAUbt) | 26 | Punch your MacBook | Dhruv Suthar | 4.0.0 | 169 KB | 2026-04-08 |
 | [Flappy Lid](https://www.glaze.app/app/xpXvt6) | 17 | Control a Flappy Bird game using your MacBook's lid angle | Dhruv Suthar | 2.0.1 | 418 KB | 2026-03-06 |
 | [Tumblewords Solver](https://www.glaze.app/app/rxJ4r1) | 3 | Find optimal letter arrangements and word paths to maximize scores in Tumblewords puzzles | Dhruv Suthar | 1.0.1 | 1.8 MB | 2026-03-27 |
 

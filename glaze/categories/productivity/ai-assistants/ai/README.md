@@ -1,12 +1,12 @@
 # AI ✦
 
-89 apps · [← AI & Assistants](../README.md)
+90 apps · [← AI & Assistants](../README.md)
 
 | Topic | Apps |
 | --- | --- |
 | [Local ✦](./local/README.md) | 22 |
-| [Model ✦](./model.md) | 13 |
-| [Organize ✦](./organize.md) | 13 |
+| [Organize ✦](./organize.md) | 18 |
+| [Model ✦](./model.md) | 9 |
 | [Tasks ✦](./tasks.md) | 10 |
 | [History ✦](./history.md) | 10 |
 | [Instant ✦](./instant.md) | 5 |

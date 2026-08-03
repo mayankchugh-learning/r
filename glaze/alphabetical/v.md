@@ -6,10 +6,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://www.glaze.app/app/SXUqd9) | 69 | Download videos from thousands of sites | Anwarul Islam | 1.0.0 | 76 KB | 2026-06-27 |
+| [Video Downloader](https://www.glaze.app/app/SXUqd9) | 70 | Download videos from thousands of sites | Anwarul Islam | 1.0.0 | 76 KB | 2026-06-27 |
 | [Voxel Studio](https://www.glaze.app/app/W1Zhxy) | 36 | Build large-scale 3D worlds with millions of voxels using professional tools and real-time rendering | Thomas Mauconduit | 6.0.1 | 6.6 MB | 2026-03-26 |
 | [Vitrine](https://www.glaze.app/app/JSshUC) | 31 | Make your app look worth downloading. | Emmanuel Umoru | 4.0.0 | 84.7 MB | 2026-07-27 |
-| [Video Wallpaper](https://www.glaze.app/app/OxrCyA) | 21 | Set videos as your macOS wallpaper | Víctor Navarro | 1.0.0 | 64 KB | 2026-07-21 |
+| [Video Wallpaper](https://www.glaze.app/app/OxrCyA) | 23 | Set videos as your macOS wallpaper | Víctor Navarro | 1.0.0 | 64 KB | 2026-07-21 |
 | [VibeTracker](https://www.glaze.app/app/iMP1xj) | 10 | Track your beats, master your music | João Neves | 1.0.0 | 59 KB | 2026-06-05 |
 | [Vim Keys](https://www.glaze.app/app/gFNoBq) | 10 | Learn Vim shortcuts interactively | Juan Vera | 1.0.0 | 65 KB | 2026-07-07 |
 | [Vectorize](https://www.glaze.app/app/ofgONv) | 9 | Convert pixel shapes to clean vectors | Raycast | 1.0.0 | 63 KB | 2026-07-17 |
@@ -19,12 +19,12 @@
 | [Vim Quest](https://www.glaze.app/app/9vPLYI) | 6 | Escape the maze by mastering vim | Shane | 1.0.0 | 54 KB | 2026-06-06 |
 | [Vision Alt](https://www.glaze.app/app/DgIoKm) | 6 | Image title & alt-text with a local LLM | Pastenes | 3.0.0 | 82 KB | 2026-07-26 |
 | [Volt](https://www.glaze.app/app/XJ2B5x) | 6 | Real-time battery tracking at a glance | Akash Mondal | 2.0.0 | 76 KB | 2026-07-23 |
+| [Verbatim](https://www.glaze.app/app/oe1V7I) | 5 | Compare text | Lachlan | 2.0.0 | 62 KB | 2026-07-30 |
 | [Video Analyzer](https://www.glaze.app/app/pSgMFf) | 5 | Transcribe and summarize videos | Okan YILMAZ | 1.0.0 | 138 KB | 2026-07-05 |
 | [Verba](https://www.glaze.app/app/RDCKBF) | 4 | Turn any audio into text instantly | Zakria | 1.0.0 | 99 KB | 2026-06-13 |
-| [Verbatim](https://www.glaze.app/app/verbatim-oe1V7I) | 4 | Compare text | Lachlan | 2.0.0 | 62 KB | 2026-07-30 |
 | [Vinyl Vault](https://www.glaze.app/app/n2HZ3b) | 4 | Organize your vinyl record collection. | Kevin Rodgers | 1.0.0 | 56 KB | 2026-06-12 |
 | [Voice Scribe](https://www.glaze.app/app/jR86EE) | 4 | Turn your voice into written words, fast | Fields Marshall | 1.0.0 | 65 KB | 2026-07-10 |
-| [Verbatim - Article Reader](https://www.glaze.app/app/verbatim-article-reader-hZ8i9m) | 3 | Listening is easier than reading | Ryan O'Connell | 1.0.0 | 173 KB | 2026-07-30 |
+| [Verbatim - Article Reader](https://www.glaze.app/app/hZ8i9m) | 3 | Listening is easier than reading | Ryan O'Connell | 1.0.0 | 173 KB | 2026-07-30 |
 | [Verdigris](https://www.glaze.app/app/R7o50e) | 3 | What your day looks like | EdwardC | 3.0.0 | 364 KB | 2026-07-27 |
 | [Vidange.exe](https://www.glaze.app/app/MV530M) | 3 | Prise de notes rapides & éphémères | Julia | 1.0.0 | 56 KB | 2026-07-05 |
 | [Vocalize](https://www.glaze.app/app/RlyPGR) | 3 | Read PDFs aloud with natural voices | Gomezdn7 | 7.0.0 | 6.3 MB | 2026-07-28 |

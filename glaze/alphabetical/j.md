@@ -9,9 +9,9 @@
 | [JSON Viewer](https://www.glaze.app/app/TVM4IK) | 16 | Format and explore JSON locally | jyu sung | 2.0.0 | 66 KB | 2026-07-02 |
 | [JobRadar](https://www.glaze.app/app/VqvPRI) | 6 | Find and Track jobs tailored for you | Hittanshu Bhanderi | 1.0.0 | 113 KB | 2026-07-24 |
 | [Junior](https://www.glaze.app/app/j3JEdV) | 6 | Speak to Junior. He can help you. | Alvi Dervishaj | 1.0.0 | 281 KB | 2026-07-01 |
-| [Jayson](https://www.glaze.app/app/uay4Jg) | 3 | View, format, and explore JSON data | Gökhan Efe | 2.0.0 | 70 KB | 2026-07-21 |
+| [Jayson](https://www.glaze.app/app/uay4Jg) | 4 | View, format, and explore JSON data | Gökhan Efe | 2.0.0 | 70 KB | 2026-07-21 |
 | [Jumbotron](https://www.glaze.app/app/kXzIJm) | 3 | Your personal sports control center | Sean Quinn | 1.0.0 | 82 KB | 2026-05-04 |
 | [Jawbreaker](https://www.glaze.app/app/zfhbto) | 2 | Flap through twisting pipe mazes. | Per Nielsen Tikær | 1.0.0 | 466 KB | 2026-05-06 |
 | [Junimo](https://www.glaze.app/app/BsttxH) | 2 | Stardew Valley mods made easy for Mac | yafyx | 3.0.0 | 113 KB | 2026-07-28 |
 | [Just Now](https://www.glaze.app/app/KeirxU) | 2 | A dashcam for your screen. | anish jain | 1.0.0 | 45 KB | 2026-07-27 |
-| [Jamal](https://www.glaze.app/app/jamal-JN0yZw) | 0 | Voice-triggered custom shortcuts menu | Abdullah Alghamdi | 1.0.0 | 68 KB | 2026-07-31 |
+| [Jamal](https://www.glaze.app/app/jamal-JN0yZw) | 1 | Voice-triggered custom shortcuts menu | Abdullah Alghamdi | 1.0.0 | 68 KB | 2026-07-31 |

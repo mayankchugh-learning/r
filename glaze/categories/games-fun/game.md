@@ -13,8 +13,8 @@
 | [Vim Quest](https://www.glaze.app/app/9vPLYI) | 6 | Escape the maze by mastering vim | Shane | 1.0.0 | 54 KB | 2026-06-06 |
 | [Bubble Break](https://www.glaze.app/app/BixbZm) | 4 | The game to make you move. | Maxim B | 2.0.0 | 5.3 MB | 2026-07-27 |
 | [Code Quest](https://www.glaze.app/app/K85SfV) | 4 | Learn programming through visual puzzles | benface | 1.0.0 | 70 KB | 2026-07-08 |
+| [What should I play?](https://www.glaze.app/app/ZzCJLk) | 4 | Never wonder what game to play again | Markus Käding | 4.0.0 | 134 KB | 2026-07-29 |
 | [Cartridges](https://www.glaze.app/app/6NKJNV) | 3 | Launch all your games from one place | Baba | 1.0.0 | 75 KB | 2026-07-05 |
-| [What should I play?](https://www.glaze.app/app/ZzCJLk) | 3 | Never wonder what game to play again | Markus Käding | 4.0.0 | 134 KB | 2026-07-29 |
 | [NBA® #2K32](https://www.glaze.app/app/Utauda) | 2 | NBA® #2K32 | Grant Smith | 2.0.0 | 200 KB | 2026-07-19 |
 | [Trophy Tracker](https://www.glaze.app/app/FiHZnj) | 2 | Track achievements across all gaming | Shaun | 4.0.0 | 75 KB | 2026-07-02 |
 | [while...](https://www.glaze.app/app/hk0xeC) | 2 | Quick games, whenever you need a break | Alex | 1.0.0 | 43 KB | 2026-07-27 |

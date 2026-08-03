@@ -1,6 +1,6 @@
 # melvin
 
-6 apps · 355 installs · [← publishers](../README.md)
+6 apps · 357 installs · [← publishers](../README.md)
 
 ## Utilities (3)
 
@@ -14,11 +14,11 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Templater](https://www.glaze.app/app/fWJVl6) | 34 | Create folder structure with one click | melvin | 1.0.0 | 53 KB | 2026-05-10 |
+| [Templater](https://www.glaze.app/app/fWJVl6) | 35 | Create folder structure with one click | melvin | 1.0.0 | 53 KB | 2026-05-10 |
 
 ## Design (2)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Palette](https://www.glaze.app/app/65yIqh) | 17 | Color extraction - the easy way. | melvin | 1.0.0 | 49 KB | 2026-04-28 |
+| [Palette](https://www.glaze.app/app/65yIqh) | 18 | Color extraction - the easy way. | melvin | 1.0.0 | 49 KB | 2026-04-28 |
 | [SLICE](https://www.glaze.app/app/eFPisy) | 1 | Slice your pics | melvin | 1.0.0 | 95 KB | 2026-07-14 |

@@ -2,19 +2,20 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · **R** · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-56 publishers · [← publisher index](./README.md)
+59 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
 | Rachit Khurana | 1 | 16 | [Module Cleaner](https://www.glaze.app/app/2gUjsa) *(Developer Tools)* |
-| Rahul Bakshi | 1 | 2 | [Clipboard Shelf](https://www.glaze.app/app/2Mw1lq) *(Productivity)* |
+| Rahul Bakshi | 1 | 3 | [Clipboard Shelf](https://www.glaze.app/app/2Mw1lq) *(Productivity)* |
 | Rainer Selvet | 1 | 5 | [System Monitor](https://www.glaze.app/app/hy5CCK) *(Utilities)* |
 | Rajeev Dassani | 1 | 4 | [TV Tracker](https://www.glaze.app/app/pc1XFI) *(Productivity)* |
 | Ralbright | 1 | 6 | [Code Duel](https://www.glaze.app/app/Vu61vP) *(Developer Tools)* |
-| Randy | 1 | 32 | [Clean My Ray](https://www.glaze.app/app/jPQsxk) *(Utilities)* |
+| Randy | 1 | 34 | [Clean My Ray](https://www.glaze.app/app/jPQsxk) *(Utilities)* |
+| Randy Pitcher II | 1 | 1 | [mvt - Music Viz Tool](https://www.glaze.app/app/mvt-music-viz-tool-7CE4oc) *(Media)* |
 | Raph | 1 | 7 | [Mindfulness Bell](https://www.glaze.app/app/kccHuE) *(Productivity)* |
 | Raphael Grötsch | 1 | 4 | [Trace](https://www.glaze.app/app/XhO42n) *(Productivity)* |
-| Ravi Madabhushi | 1 | 3 | [Scalekit DevTools](https://www.glaze.app/app/scalekit-devtools-HFeNHW) *(Developer Tools)* |
+| Ravi Madabhushi | 1 | 3 | [Scalekit DevTools](https://www.glaze.app/app/HFeNHW) *(Developer Tools)* |
 | Ravi Vasavan | 1 | 3 | [Pixed](https://www.glaze.app/app/XqXJfA) *(Design)* |
 | Raycast | 2 | 12 | [Vectorize](https://www.glaze.app/app/ofgONv) *(Design)*, [Release Notes Translator](https://www.glaze.app/app/NNjPWV) *(Developer Tools)* |
 | Raycast.dmwnn | 1 | 0 | [Monatel](https://www.glaze.app/app/ZD7pWP) *(Games & Fun)* |
@@ -32,11 +33,11 @@
 | Rick Wilkes | 1 | 22 | [Markdown View](https://www.glaze.app/app/fep2id) *(Developer Tools)* |
 | Ringmaster | 1 | 5 | [Dungeon Sketch](https://www.glaze.app/app/fL7gUZ) *(Design)* |
 | Ritik Jain | 1 | 0 | [Copy Grab](https://www.glaze.app/app/heEz1P) *(Utilities)* |
-| Ritul Mishra | 1 | 10 | [Shoebox](https://www.glaze.app/app/cJ5iTe) *(Developer Tools)* |
+| Ritul Mishra | 1 | 12 | [Shoebox](https://www.glaze.app/app/cJ5iTe) *(Developer Tools)* |
 | Rizal Ramadhan | 1 | 2 | [Vibemaxx](https://www.glaze.app/app/KpAO18) *(Developer Tools)* |
 | Rizky Fathul | 1 | 1 | [Salat & Fasting Time](https://www.glaze.app/app/TKxqBB) *(Lifestyle)* |
 | Robert Adamczewski | 1 | 1 | [Garage Ledger](https://www.glaze.app/app/vpkKgP) *(Utilities)* |
-| Robert Kreft | 1 | 45 | [ProjectBase](https://www.glaze.app/app/w5CAic) *(Productivity)* |
+| Robert Kreft | 1 | 47 | [ProjectBase](https://www.glaze.app/app/w5CAic) *(Productivity)* |
 | RobM | 2 | 4 | [Librarian](https://www.glaze.app/app/bLW0OB) *(Utilities)*, [Mail Reader](https://www.glaze.app/app/Iwcd7u) *(Utilities)* |
 | Rodrigo Rodrigues da Silva | 1 | 3 | [Folder Sentinel](https://www.glaze.app/app/rBx4d7) *(Utilities)* |
 | Rodrigo.Medina.Neri | 1 | 2 | [Go Links Manager](https://www.glaze.app/app/k7PWdn) *(Productivity)* |
@@ -55,10 +56,12 @@
 | RSRK | 1 | 13 | [APEX](https://www.glaze.app/app/G9U92C) *(Media)* |
 | Ruben.Vibe2prod | 1 | 5 | [Dayline - Work Tracker](https://www.glaze.app/app/utcNUa) *(Productivity)* |
 | Rubens Nook | 3 | 13 | [Chop](https://www.glaze.app/app/650NIo) *(Media)*, [Writ](https://www.glaze.app/app/2zQc99) *(Productivity)*, [Twiddle](https://www.glaze.app/app/SqSg4t) *(Productivity)* |
+| Rui Tang (Rey) | 1 | 1 | [Style Capture](https://www.glaze.app/app/style-capture-RXLBAl) *(Design)* |
 | Rushikesh Jadhav | 1 | 4 | [On track](https://www.glaze.app/app/QfAX61) *(Productivity)* |
 | Ruslan | 1 | 3 | [BitMessage](https://www.glaze.app/app/l8wKdq) *(Utilities)* |
 | Ruslan Magzum | 1 | 6 | [Winamp macOS](https://www.glaze.app/app/dPhFjU) *(Media)* |
 | Ruth Oxley | 1 | 4 | [Stretch Break](https://www.glaze.app/app/wzibwW) *(Productivity)* |
 | Ry2k | 1 | 3 | [Anoto AI](https://www.glaze.app/app/zvec7a) *(Developer Tools)* |
-| Ryan O'Connell | 2 | 4 | [Verbatim - Article Reader](https://www.glaze.app/app/verbatim-article-reader-hZ8i9m) *(Productivity)*, [Atoz - Media Organizer](https://www.glaze.app/app/P7FCRo) *(Media)* |
+| Ryan O'Connell | 2 | 4 | [Verbatim - Article Reader](https://www.glaze.app/app/hZ8i9m) *(Productivity)*, [Atoz - Media Organizer](https://www.glaze.app/app/P7FCRo) *(Media)* |
 | Ryan Rich | 1 | 33 | [Slackify](https://www.glaze.app/app/pDgHRA) *(Developer Tools)* |
+| Ryun Li | 1 | 0 | [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) *(Design)* |

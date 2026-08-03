@@ -5,8 +5,8 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Clipboard Intelligence Hub](https://www.glaze.app/app/v3KrOy) | 15 | Automatically capture, classify, and search everything you copy with smart contextual actions | Pasha Andreevski | 1.0.1 | 218 KB | 2026-03-25 |
+| [SnapClip](https://www.glaze.app/app/mLzkmr) | 14 | Screenshot and annotate with instant | Tarun Kumar | 2.0.0 | 59 KB | 2026-06-10 |
 | [TopNotch Clipboard](https://www.glaze.app/app/M5owZ0) | 14 | Save & Organize Your Clipboard via Notch | Invictus | 2.0.0 | 87 KB | 2026-07-07 |
-| [SnapClip](https://www.glaze.app/app/mLzkmr) | 13 | Screenshot and annotate with instant | Tarun Kumar | 2.0.0 | 59 KB | 2026-06-10 |
 | [Link Lift](https://www.glaze.app/app/9bJYZh) | 7 | Upload files, share links instantly | Shearm | 3.0.0 | 42 KB | 2026-07-10 |
 | [SqueezePress](https://www.glaze.app/app/yaaBdX) | 5 | Extract video & audio transcripts to .md | Junnan Ma | 3.0.0 | 64 KB | 2026-07-29 |
 | [Clipboard](https://www.glaze.app/app/p3RRIf) | 4 | Copy, paste, and organize with templates | Utkarsh Bhardwaj | 1.0.0 | 58 KB | 2026-05-29 |

@@ -1,12 +1,12 @@
 # Yan Frossard
 
-4 apps · 10 installs · [← publishers](../README.md)
+4 apps · 11 installs · [← publishers](../README.md)
 
 ## Design (1)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Luminox](https://www.glaze.app/app/occzS1) | 4 | free photo editing app for macOS | Yan Frossard | 2.0.0 | 82 KB | 2026-07-25 |
+| [Luminox](https://www.glaze.app/app/occzS1) | 5 | free photo editing app for macOS | Yan Frossard | 2.0.0 | 82 KB | 2026-07-25 |
 
 ## Utilities (2)
 

@@ -1,10 +1,10 @@
 # Music & Instruments
 
-76 apps · [← Media](../README.md)
+79 apps · [← Media](../README.md)
 
 | Topic | Apps |
 | --- | --- |
-| [Music ✦](./music/README.md) | 41 |
+| [Music ✦](./music/README.md) | 44 |
 | [Audio ✦](./audio.md) | 18 |
 | [Playback ✦](./playback.md) | 4 |
 | [Radio ✦](./radio.md) | 5 |

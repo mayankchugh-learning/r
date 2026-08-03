@@ -26,19 +26,19 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [TOM.FM](https://www.glaze.app/app/M7kFKo) | 12 | Background radio you won’t tire of | Lertad Supadhiloke | 7.0.0 | 103 KB | 2026-07-30 |
 | [Spectrum](https://www.glaze.app/app/dQhEZg) | 11 | Visualize music with dynamic colors | Tuna E | 2.0.0 | 101 KB | 2026-07-12 |
-| [Melodyy](https://www.glaze.app/app/UExrEP) | 3 | Make music, easily anytime | Ọláníyì Olúfẹ́mi | 3.0.0 | 731 KB | 2026-07-27 |
+| [Melodyy](https://www.glaze.app/app/UExrEP) | 4 | Make music, easily anytime | Ọláníyì Olúfẹ́mi | 3.0.0 | 731 KB | 2026-07-27 |
 | [Song Vote](https://www.glaze.app/app/C4o76l) | 1 | Vote on music, find hits together | ilkay ozboyar | 5.0.0 | 79 KB | 2026-07-25 |
 
 ## General
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ray.fm](https://www.glaze.app/app/Af8oi9) | 839 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 92 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
+| [ray.fm](https://www.glaze.app/app/Af8oi9) | 843 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
+| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 112 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
 | [Meander](https://www.glaze.app/app/QWCebM) | 16 | Lo-fi groove improv on the trackpad | Alin Panaitiu | 5.0.0 | 248 KB | 2026-07-29 |
 | [Scroblytics](https://www.glaze.app/app/Lf9vBU) | 14 | Visualize your Last.fm Scrobbles | thebluch | 32.0.0 | 381 KB | 2026-08-01 |
 | [Chord Forge](https://www.glaze.app/app/vMN18E) | 9 | Create chord progressions instantly. | Bruno Totoro | 4.0.0 | 73 KB | 2026-07-17 |
-| [MP3PLAYER](https://www.glaze.app/app/HZazF0) | 5 | iPod style music player | Kieran McGrady | 2.0.0 | 166 KB | 2026-07-24 |
+| [MP3PLAYER](https://www.glaze.app/app/HZazF0) | 8 | iPod style music player | Kieran McGrady | 2.0.0 | 166 KB | 2026-07-24 |
 | [Raum](https://www.glaze.app/app/Oh0j4Y) | 5 | Bring your home into tune | Ivan | 1.0.0 | 266 KB | 2026-07-23 |
 | [Long Play](https://www.glaze.app/app/Vzaw38) | 3 | Play long songs on your speaker | Pieter Moorman | 1.0.0 | 58 KB | 2026-07-02 |
 | [Tabla Ambient](https://www.glaze.app/app/T5dCwo) | 3 | Generate endless ambient drone music | Shirakami | 1.0.0 | 63 KB | 2026-07-23 |
