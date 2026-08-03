@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9bdba7f5e12b0b67312664f5b7c2a4dca3e5ac74",
-  "generatedAt": "2026-08-03T06:02:35.858Z",
-  "downloadsRefreshedAt": "2026-08-03T06:02:35.466Z",
+  "commit": "966008f9a7674c4d2c870cff277a4984ec6ca9da",
+  "generatedAt": "2026-08-03T06:03:48.321Z",
+  "downloadsRefreshedAt": "2026-08-03T06:03:47.623Z",
   "count": 3141,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498094
+      "downloads": 498095
     },
     {
       "dir": "color-shades",
@@ -21577,7 +21577,7 @@
       "store": "https://www.raycast.com/vitoorgomes/google-meet",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-meet",
       "treeSha": "774489ffb7f9ad999c650d54f806172a89874b63",
-      "downloads": 31816
+      "downloads": 31818
     },
     {
       "dir": "google-scholar",
@@ -24516,7 +24516,7 @@
       "description": "Effortlessly convert music links between streaming services",
       "author": "sjdonado",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Media"
       ],
@@ -24526,7 +24526,7 @@
       ],
       "store": "https://www.raycast.com/sjdonado/idonthavespotify",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify",
-      "treeSha": "aad10e47aa82014755dc6323356ecbb75281a589",
+      "treeSha": "08a8f4215e941309616868e541fc8cc28a4495a6",
       "downloads": 4662
     },
     {
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654615
+      "downloads": 654616
     },
     {
       "dir": "kimai",

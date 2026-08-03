@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `966008f9a7`
+
+**Updated (1):** [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify)
+
 ## 2026-08-03 — upstream `9bdba7f5e1`
 
 **Updated (1):** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet)

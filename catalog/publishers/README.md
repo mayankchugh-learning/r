@@ -8,9 +8,9 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,086,261 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,086,262 |
 | 2 | [raycast](./id/raycast.md) | 11 | 777,050 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,615 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,616 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 486,567 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 433,090 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 427,940 |
@@ -77,7 +77,7 @@
 | 67 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 35,364 |
 | 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 35,338 |
 | 69 | [yuercl](https://www.raycast.com/yuercl) | 2 | 34,950 |
-| 70 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 31,816 |
+| 70 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 31,818 |
 | 71 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 31,719 |
 | 72 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 31,587 |
 | 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 31,476 |
