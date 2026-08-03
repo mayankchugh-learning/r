@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3106b141b34ab5359960481219e23bd0547e37fb",
-  "generatedAt": "2026-08-03T04:32:25.603Z",
-  "downloadsRefreshedAt": "2026-08-03T04:32:25.237Z",
+  "commit": "b7b68cd1074aa299dd379351ac683cae2e64cbc0",
+  "generatedAt": "2026-08-03T04:34:19.852Z",
+  "downloadsRefreshedAt": "2026-08-03T04:34:19.149Z",
   "count": 3140,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498047
+      "downloads": 498048
     },
     {
       "dir": "color-shades",
@@ -65978,7 +65978,7 @@
       ],
       "store": "https://www.raycast.com/TurboCoder13/zshrc-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager",
-      "treeSha": "2be2e68f2f905264a9d3fadfe47e87de50ef8f88",
+      "treeSha": "1fd506b8ba02501b174fa23d22fd1d104cb18211",
       "downloads": 1349
     },
     {

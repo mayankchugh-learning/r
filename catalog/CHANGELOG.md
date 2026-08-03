@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `b7b68cd107`
+
+**Updated (1):** [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)
+
 ## 2026-08-03 — upstream `3106b141b3`
 
 **Updated (2):** [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit), [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck)
