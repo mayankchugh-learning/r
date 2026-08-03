@@ -4,8 +4,8 @@ Newest 60 of 1578 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
+| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 2026-08-03 | 7.0.0 | 1 | Utilities | Lee Sherman |
 | [Quick Translate EN↔RU](https://www.glaze.app/app/quick-translate-enru-boRTfT) | 2026-08-03 | 1.0.0 | 0 | Productivity | Eugene Stepanov |
-| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 2026-08-03 | 6.0.0 | 1 | Utilities | Lee Sherman |
 | [Squish](https://www.glaze.app/app/squish-cWRtaY) | 2026-08-03 | 1.0.0 | 1 | Utilities | Nicholas |
 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 2026-08-03 | 1.0.0 | 1 | Productivity | Sam Stephenson |
 | [MDed](https://www.glaze.app/app/6WfoWC) | 2026-08-03 | 3.0.0 | 3 | Developer Tools | Smart King |

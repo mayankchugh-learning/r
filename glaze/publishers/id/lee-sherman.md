@@ -10,7 +10,7 @@
 | [Folder Cabinet](https://www.glaze.app/app/z1mZsi) | 6 | Visualize your folder structure | Lee Sherman | 2.0.0 | 68 KB | 2026-07-22 |
 | [Dock Eras](https://www.glaze.app/app/GuJcuW) | 5 | Your retro dock, your way | Lee Sherman | 5.0.0 | 525 KB | 2026-07-26 |
 | [Trash Eras](https://www.glaze.app/app/9LmJqb) | 5 | Customize your Mac trash can icon | Lee Sherman | 8.0.0 | 495 KB | 2026-07-24 |
-| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 6.0.0 | 72 KB | 2026-08-03 |
+| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 7.0.0 | 72 KB | 2026-08-03 |
 | [Print Eras](https://www.glaze.app/app/nzc7EX) | 1 | Drag and drop files to print instantly | Lee Sherman | 4.0.0 | 526 KB | 2026-07-24 |
 | [Zipper](https://www.glaze.app/app/JdJyJW) | 1 | Compress files | Lee Sherman | 1.0.0 | 67 KB | 2026-07-16 |
 

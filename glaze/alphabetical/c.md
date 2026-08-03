@@ -144,7 +144,7 @@
 | [ClearCall](https://www.glaze.app/app/uhHWh8) | 1 | Enhance call audio in real time | Cezar | 1.0.0 | 190 KB | 2026-07-27 |
 | [ClipBins](https://www.glaze.app/app/JBkMkO) | 1 | Organized clipboard items for macOS | Icha Victory | 1.0.0 | 75 KB | 2026-07-26 |
 | [Clipboard Share](https://www.glaze.app/app/eelDDd) | 1 | Share clipboard content as public | Peter Theill | 1.0.0 | 58 KB | 2026-07-06 |
-| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 6.0.0 | 72 KB | 2026-08-03 |
+| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 7.0.0 | 72 KB | 2026-08-03 |
 | [Command Runner](https://www.glaze.app/app/oQOwCc) | 1 | Run scripts anywhere, instantly | S.Peacock | 3.0.0 | 65 KB | 2026-07-28 |
 | [Comply](https://www.glaze.app/app/VrFiB2) | 1 | Automate your SOC2 certification | Shreyans Bhansali | 1.0.0 | 95 KB | 2026-07-27 |
 | [Concert Log](https://www.glaze.app/app/bBj9yY) | 1 | Track and relive your concert memories | Niall | 1.0.0 | 56 KB | 2026-06-15 |
