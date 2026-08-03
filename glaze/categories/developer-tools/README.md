@@ -1,12 +1,12 @@
 # Developer Tools
 
-314 apps · 7,667 installs · [← all categories](../README.md)
+313 apps · 7,675 installs · [← all categories](../README.md)
 
 ## Code & Collaboration
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Git & Repositories](./git-repositories/README.md) | 35 | 1,332 |
+| [Git & Repositories](./git-repositories/README.md) | 35 | 1,334 |
 | [Docs & Reference](./docs-reference.md) | 13 | 169 |
 | [Testing & Quality](./testing-quality.md) | 4 | 8 |
 
@@ -14,16 +14,16 @@
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Terminal & Shell](./terminal-shell.md) | 29 | 595 |
-| [Packages & Environments](./packages-environments.md) | 8 | 43 |
-| [APIs & Networking](./apis-networking/README.md) | 37 | 312 |
+| [Terminal & Shell](./terminal-shell.md) | 29 | 596 |
+| [Packages & Environments](./packages-environments.md) | 8 | 44 |
+| [APIs & Networking](./apis-networking/README.md) | 37 | 313 |
 | [Databases & Data](./databases-data.md) | 3 | 10 |
 
 ## Platforms
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools/README.md) | 109 | 3,199 |
+| [AI & LLM Tools](./ai-llm-tools/README.md) | 108 | 3,202 |
 | [Raycast & Glaze](./raycast-glaze.md) | 4 | 355 |
 
 ## Craft

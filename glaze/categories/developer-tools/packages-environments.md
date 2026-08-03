@@ -4,8 +4,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
+| [CodeCanvas](https://www.glaze.app/app/r9V0pc) | 12 | Visual node map for your local codebase. | OM CHANDANKAR | 1.0.0 | 69 KB | 2026-07-27 |
 | [PkgSweep](https://www.glaze.app/app/ZPO2IL) | 12 | Approve and upgrade all your package | Evancris | 1.0.0 | 62 KB | 2026-07-06 |
-| [CodeCanvas](https://www.glaze.app/app/r9V0pc) | 11 | Visual node map for your local codebase. | OM CHANDANKAR | 1.0.0 | 69 KB | 2026-07-27 |
 | [Since](https://www.glaze.app/app/S0Yycc) | 8 | Track what changed on your Mac | Tim | 1.0.0 | 79 KB | 2026-07-23 |
 | [Container](https://www.glaze.app/app/qRcAZy) | 6 | Manage containers from your menu bar | Martin.Enzinger | 4.0.0 | 95 KB | 2026-07-03 |
 | [Grok](https://www.glaze.app/app/1Sgx0k) | 4 | Bundle and package Grok conversations | Andy Zhu | 1.0.0 | 54 KB | 2026-07-04 |

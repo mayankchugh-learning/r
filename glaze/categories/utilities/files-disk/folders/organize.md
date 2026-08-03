@@ -13,7 +13,7 @@
 | [AutoSort](https://www.glaze.app/app/LBbFpr) | 19 | Organize files automatically with AI | Ben Smith | 1.0.0 | 77 KB | 2026-07-03 |
 | [Stash](https://www.glaze.app/app/lboYiN) | 11 | Quick file access from your menu bar | Tanzir Rahman | 2.0.0 | 35 KB | 2026-07-23 |
 | [File Sorter](https://www.glaze.app/app/2n5jTs) | 9 | Auto-organize files with AI | Shearm | 3.0.0 | 63 KB | 2026-06-25 |
-| [Dayshift](https://www.glaze.app/app/an3PsD) | 7 | Dynamic wallpapers that change with time | cg crew | 1.0.0 | 72 KB | 2026-07-28 |
+| [Dayshift](https://www.glaze.app/app/an3PsD) | 8 | Dynamic wallpapers that change with time | cg crew | 1.0.0 | 72 KB | 2026-07-28 |
 | [Recall - Instant Image Indexing](https://www.glaze.app/app/uxEadg) | 5 | AI-Powered Searchable Image Library | Emk920 | 3.0.0 | 290 KB | 2026-07-06 |
 | [Arrival](https://www.glaze.app/app/WecBem) | 3 | Connected drives into workflows. | Rich Washburn | 2.0.0 | 86 KB | 2026-07-13 |
 | [Folder Sentinel](https://www.glaze.app/app/rBx4d7) | 3 | Auto-organize files with smart rules | Rodrigo Rodrigues da Silva | 1.0.0 | 101 KB | 2026-07-23 |

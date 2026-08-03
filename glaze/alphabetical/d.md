@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 491 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 59 KB | 2026-04-15 |
-| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 446 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 85 KB | 2026-07-14 |
+| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 447 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 85 KB | 2026-07-14 |
 | [Dynamic Island](https://www.glaze.app/app/Om758X) | 49 | iPhone-style Dynamic Islan for your Mac | alexi.build | 1.0.0 | 50 KB | 2026-04-22 |
 | [Ding!](https://www.glaze.app/app/oRbL7g) | 41 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 62 KB | 2026-07-30 |
 | [Drop2Markdown](https://www.glaze.app/app/E8OW9Q) | 34 | Drop anything. Get Markdown. | Oliver Posselt | 3.0.0 | 96.3 MB | 2026-04-20 |
@@ -18,9 +18,9 @@
 | [DayReceipt](https://www.glaze.app/app/7NQDsc) | 16 | Execute your daily notes as actionable | 1lsang | 2.0.0 | 456 KB | 2026-07-28 |
 | [Desktop Buddy](https://www.glaze.app/app/EZebyp) | 15 | Your digital friend for daily wellness | Jingxi Huang | 2.0.0 | 56.8 MB | 2026-04-29 |
 | [Disk Diag](https://www.glaze.app/app/E11IfY) | 13 | See what's eating your disk space | Felix | 1.0.0 | 72 KB | 2026-07-06 |
+| [Darkroom Studio](https://www.glaze.app/app/5aumRY) | 12 | Turn every shoot into your best work | Ahmet Güler | 1.0.0 | 8.2 MB | 2026-07-28 |
 | [Dustline MK1](https://www.glaze.app/app/Q7pilo) | 12 | Turn single notes into full chords | Benjamin Dauton | 1.0.0 | 133 KB | 2026-07-01 |
 | [Darkroom](https://www.glaze.app/app/nhpgO9) | 11 | Catalog and organize all your film rolls | Michał Zuch | 3.0.0 | 7.4 MB | 2026-05-09 |
-| [Darkroom Studio](https://www.glaze.app/app/5aumRY) | 11 | Turn every shoot into your best work | Ahmet Güler | 1.0.0 | 8.2 MB | 2026-07-28 |
 | [Desktop Cat](https://www.glaze.app/app/ugw7nJ) | 11 | Keep a virtual cat on your desktop | tatsuo yokoyama | 1.0.0 | 73 KB | 2026-06-12 |
 | [Dev Secrets](https://www.glaze.app/app/6wpfCy) | 11 | Store and manage local dev environment | Peter Kracik | 1.0.0 | 78 KB | 2026-07-02 |
 | [DailyType](https://www.glaze.app/app/XCK3wC) | 10 | Practice typing with speed challenges | Tom Panos | 4.0.0 | 64 KB | 2026-07-09 |
@@ -29,13 +29,13 @@
 | [Dispatch](https://www.glaze.app/app/zM8HY8) | 9 | Send writing to your Kindle instantly | Gareth Chainey | 1.0.0 | 599 KB | 2026-07-28 |
 | [DocMD](https://www.glaze.app/app/Y4sDbq) | 9 | Convert Documents to Markdown with AI | Calvin White | 1.0.0 | 114 KB | 2026-07-06 |
 | [Download Time Calculator](https://www.glaze.app/app/PeVPLM) | 9 | Calculate download ETAs instantly | Andrea Montinovo | 2.0.0 | 65 KB | 2026-07-13 |
+| [Dayshift](https://www.glaze.app/app/an3PsD) | 8 | Dynamic wallpapers that change with time | cg crew | 1.0.0 | 72 KB | 2026-07-28 |
 | [DevPal](https://www.glaze.app/app/ruf8ih) | 8 | Essential utilities for developers | Stephen Fang | 2.0.0 | 126 KB | 2026-07-05 |
 | [Dumpster Fire](https://www.glaze.app/app/m1gBzP) | 8 | 🔥 Downloads folder, but it fights back | tobua | 1.0.0 | 74 KB | 2026-07-28 |
 | [Daymark](https://www.glaze.app/app/MX1yNN) | 7 | A daily note for every day | Iamgregb | 11.0.0 | 1.3 MB | 2026-07-30 |
-| [Dayshift](https://www.glaze.app/app/an3PsD) | 7 | Dynamic wallpapers that change with time | cg crew | 1.0.0 | 72 KB | 2026-07-28 |
 | [Desktop Events](https://www.glaze.app/app/lWaw3B) | 7 | Stay on top of your upcoming events | David Ferguson | 7.0.0 | 408 KB | 2026-07-27 |
 | [DraftCalendar](https://www.glaze.app/app/wer6wS) | 7 | Plan, track, and improve your posts | Karlo König | 1.0.0 | 277 KB | 2026-07-01 |
-| [dropsize](https://www.glaze.app/app/XM2TL3) | 7 | compress images or videos instantly | vovayaa | 1.0.0 | 65 KB | 2026-07-24 |
+| [dropsize](https://www.glaze.app/app/XM2TL3) | 7 | compress images or videos instantly | vovayaa | 2.0.0 | 66 KB | 2026-08-03 |
 | [Dice Order](https://www.glaze.app/app/367A43) | 6 | Roll dice to settle who goes first | Thomas Jost | 4.0.0 | 54 KB | 2026-05-11 |
 | [Diffy McDiffFace](https://www.glaze.app/app/jHMfRO) | 6 | Diff anything. Upload nothing | Tom Sullivan | 1.0.0 | 2.1 MB | 2026-07-27 |
 | [DNS Digger](https://www.glaze.app/app/Dwnv1M) | 6 | Deep dive into DNS records and verify. | Nick Lobeck | 1.0.0 | 375 KB | 2026-07-17 |

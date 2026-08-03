@@ -15,7 +15,7 @@
 | Eduardo Javier Garcia Lopez | 1 | 2 | [Paperclip Slack](https://www.glaze.app/app/TQZY3R) *(Developer Tools)* |
 | Eduardo Sonnino | 1 | 3 | [Guitar Tuner](https://www.glaze.app/app/Bfn04z) *(Utilities)* |
 | EdwardC | 1 | 3 | [Verdigris](https://www.glaze.app/app/R7o50e) *(Productivity)* |
-| egill smari | 1 | 2 | [Sigil](https://www.glaze.app/app/lrhbBL) *(Developer Tools)* |
+| egill smari | 1 | 3 | [Sigil](https://www.glaze.app/app/lrhbBL) *(Developer Tools)* |
 | egor | 1 | 6 | [Try To Bite Me](https://www.glaze.app/app/98txqx) *(Games & Fun)* |
 | Eitel Dagnin | 1 | 5 | [Worktree](https://www.glaze.app/app/ki2IFx) *(Developer Tools)* |
 | EK | 1 | 2 | [EZQR](https://www.glaze.app/app/wwduiY) *(Utilities)* |

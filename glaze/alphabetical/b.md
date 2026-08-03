@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Brui](https://www.glaze.app/app/eOPXRV) | 109 | Visual interface for Homebrew package | Niall | 2.0.0 | 65 KB | 2026-07-11 |
-| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 72 | Breathing companion for calm focus | fra.raw | 6.0.0 | 855 KB | 2026-07-31 |
+| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 73 | Breathing companion for calm focus | fra.raw | 6.0.0 | 855 KB | 2026-07-31 |
 | [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 193 KB | 2026-07-13 |
 | [Breakout Dock](https://www.glaze.app/app/EEcNPI) | 37 | Smash through your installed apps in a breakout-style game where bricks are apps and your dock controls the paddle | Yann-Edern Gillet | 1.0.1 | 180 KB | 2026-03-25 |
 | [Batch Crop](https://www.glaze.app/app/tYEQoH) | 29 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
@@ -71,7 +71,7 @@
 | [Better Timer](https://www.glaze.app/app/Pkv2ta) | 1 | A timer better than them all | Karim Abdelali | 1.0.0 | 967 KB | 2026-07-22 |
 | [Biomarker Calculator](https://www.glaze.app/app/Tb1E4K) | 1 | Bedside pain biomarker assessment | Huscruz | 1.0.0 | 77 KB | 2026-07-08 |
 | [Bloom](https://www.glaze.app/app/fg4EbW) | 1 | Plan your day, grow your garden | Hakeem Adjei | 1.0.0 | 109 KB | 2026-07-23 |
-| [Book Atlas](https://www.glaze.app/app/jY0l0Z) | 1 | Book folders by country, or random pick | Svitlana | 1.0.0 | 70 KB | 2026-07-29 |
+| [Book Atlas](https://www.glaze.app/app/jY0l0Z) | 1 | Book folders by country, or random pick | Svitlana Demchenko | 1.0.0 | 70 KB | 2026-07-29 |
 | [Box Clock](https://www.glaze.app/app/YhtxGF) | 1 | CrossFit workout timer and clock | Mads | 1.0.0 | 63 KB | 2026-07-27 |
 | [Breakaway](https://www.glaze.app/app/mGV0jt) | 1 | Follow pro cycling races live | Daniel Calmon | 1.0.0 | 634 KB | 2026-07-12 |
 | [Brønnøysund Search](https://www.glaze.app/app/YNvNnf) | 1 | Search Norwegian company registry data | Nichlas L-D | 1.0.0 | 67 KB | 2026-07-01 |

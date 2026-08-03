@@ -15,7 +15,7 @@
 | [Daniel](./id/daniel.md) | 4 | 21 | [see all 4 →](./id/daniel.md) |
 | Daniel Calmon | 1 | 1 | [Breakaway](https://www.glaze.app/app/mGV0jt) *(Media)* |
 | Daniel Fry | 1 | 3 | [GitHub Pulse](https://www.glaze.app/app/oFScU5) *(Developer Tools)* |
-| Daniel Hollick | 1 | 206 | [Image Converter](https://www.glaze.app/app/XzP6Ry) *(Utilities)* |
+| Daniel Hollick | 1 | 207 | [Image Converter](https://www.glaze.app/app/XzP6Ry) *(Utilities)* |
 | Daniel Martin | 1 | 1 | [Mail Flow](https://www.glaze.app/app/72oOAu) *(Productivity)* |
 | Daniela Muntyan | 1 | 188 | [Mia Calendar](https://www.glaze.app/app/N2NgPq) *(Productivity)* |
 | Daniele Avitabile | 1 | 3 | [Neovim Notes](https://www.glaze.app/app/35eP2I) *(Productivity)* |
@@ -23,7 +23,7 @@
 | Dankay | 1 | 3 | [Shelf](https://www.glaze.app/app/VOwCXA) *(Media)* |
 | Dany С | 1 | 2 | [Skrim](https://www.glaze.app/app/hHjG9l) *(Productivity)* |
 | Danylo Zalizchuk | 1 | 12 | [Command X](https://www.glaze.app/app/rKoO7f) *(Utilities)* |
-| Dariusz Sułtanowski | 1 | 3 | [Soloeer](https://www.glaze.app/app/LFSfH8) *(Productivity)* |
+| Dariusz Sułtanowski | 1 | 4 | [Soloeer](https://www.glaze.app/app/LFSfH8) *(Productivity)* |
 | DARREN BERICH | 1 | 7 | [LogicVoice](https://www.glaze.app/app/uWbUe9) *(Utilities)* |
 | Darshil | 1 | 4 | [Twisted Arcade](https://www.glaze.app/app/VzvXYg) *(Games & Fun)* |
 | Dave Wong | 2 | 6 | [Memory Float](https://www.glaze.app/app/duk2u9) *(Developer Tools)*, [Solar Weekly Forecast](https://www.glaze.app/app/5hULnd) *(Utilities)* |
@@ -70,7 +70,7 @@
 | Dipanjan Roy | 1 | 3 | [Notex](https://www.glaze.app/app/gR2sUk) *(Productivity)* |
 | discountry | 1 | 4 | [MenuTune](https://www.glaze.app/app/dg8YWS) *(Media)* |
 | Dmitrii Verv | 1 | 4 | [Meanwhile](https://www.glaze.app/app/u3xmpq) *(Productivity)* |
-| Dmitry Novikov | 1 | 206 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
+| Dmitry Novikov | 1 | 207 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
 | [Dmytro Lobov](./id/dmytro-lobov.md) | 17 | 84 | [see all 17 →](./id/dmytro-lobov.md) |
 | Dmytro Shevchenko | 1 | 2 | [DoseTail](https://www.glaze.app/app/malQjQ) *(Utilities)* |
 | Dominik Keller | 1 | 9 | [Cache](https://www.glaze.app/app/kBv5VM) *(Productivity)* |

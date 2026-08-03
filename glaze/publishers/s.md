@@ -101,5 +101,5 @@
 | Suvesh Moza | 1 | 11 | [KeyLock](https://www.glaze.app/app/cB6pzV) *(Utilities)* |
 | Suyash Junnarkar | 1 | 3 | [Pause Before Purchase](https://www.glaze.app/app/9UusOE) *(Productivity)* |
 | Sven | 1 | 2 | [Contrasty](https://www.glaze.app/app/KBTe9V) *(Developer Tools)* |
-| Svitlana | 1 | 1 | [Book Atlas](https://www.glaze.app/app/jY0l0Z) *(Media)* |
+| Svitlana Demchenko | 1 | 1 | [Book Atlas](https://www.glaze.app/app/jY0l0Z) *(Media)* |
 | syn | 2 | 17 | [License Vault](https://www.glaze.app/app/pGkhli) *(Productivity)*, [Linear Tasks](https://www.glaze.app/app/p5xQyA) *(Productivity)* |

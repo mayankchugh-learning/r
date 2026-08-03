@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Arnie](https://www.glaze.app/app/tqkV16) | 60 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 182 KB | 2026-06-30 |
+| [Arnie](https://www.glaze.app/app/tqkV16) | 61 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 182 KB | 2026-06-30 |
 | [Ding!](https://www.glaze.app/app/oRbL7g) | 41 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 62 KB | 2026-07-30 |
 | [Bassics](https://www.glaze.app/app/NYi58U) | 15 | Learn electric bass from the ground up | Lee Sherman | 9.0.0 | 609 KB | 2026-07-24 |
 | [Desktop Buddy](https://www.glaze.app/app/EZebyp) | 15 | Your digital friend for daily wellness | Jingxi Huang | 2.0.0 | 56.8 MB | 2026-04-29 |

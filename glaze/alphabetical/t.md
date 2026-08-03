@@ -2,13 +2,13 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · **T** · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-126 apps · [← Glaze catalog](../README.md)
+125 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 277 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
+| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 281 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
 | [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 460 KB | 2026-07-28 |
-| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 156 | Your mac deserves a better dock | lexav | 9.0.0 | 93 KB | 2026-07-30 |
+| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 157 | Your mac deserves a better dock | lexav | 9.0.0 | 93 KB | 2026-07-30 |
 | [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr) | 149 | Task planner | Nichlas Wærnes Andersen | 10.0.0 | 5.2 MB | 2026-07-19 |
 | [Tap Beats](https://www.glaze.app/app/uIyOY5) | 53 | Create music by tapping a grid-based trackpad with 12 buttons arranged in columns and rows | Vincent de Lagabbe | 2.0.1 | 183 KB | 2026-03-25 |
 | [Trend Builder](https://www.glaze.app/app/ApW3oA) | 49 | Build the app everyone’s searching for | Ch1rag | 6.0.0 | 770 KB | 2026-07-10 |
@@ -78,7 +78,6 @@
 | [Tic Tac Toe](https://www.glaze.app/app/p2RgUb) | 4 | An amazing spin on Tic Tac Toe | Abhi P | 1.0.0 | 57 KB | 2026-07-01 |
 | [Time Tracker](https://www.glaze.app/app/HqCbuy) | 4 | Monitor laptop usage and take breaks | Diego Carrillo | 1.0.0 | 60 KB | 2026-07-01 |
 | [Token Watch](https://www.glaze.app/app/INTXtZ) | 4 | Monitor API usage across accounts | Tommaso Dematté | 1.0.0 | 68 KB | 2026-07-07 |
-| [Token Watch](https://www.glaze.app/app/q4eH7B) | 4 | Claude token and environment usage | Office | 1.0.0 | 66 KB | 2026-07-27 |
 | [Trace](https://www.glaze.app/app/XhO42n) | 4 | Trace what changed. Know what comes next | Raphael Grötsch | 1.0.0 | 1.0 MB | 2026-07-26 |
 | [Tuck](https://www.glaze.app/app/sO1HdY) | 4 | Tuck away a task for later | veloi | 1.0.0 | 96 KB | 2026-07-27 |
 | [TV Tracker](https://www.glaze.app/app/pc1XFI) | 4 | Track shows you watch and plan | Rajeev Dassani | 1.0.0 | 66 KB | 2026-07-12 |

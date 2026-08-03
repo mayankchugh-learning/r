@@ -1,8 +1,8 @@
 # Claude ✦
 
-20 apps · [← AI & LLM Tools](./README.md)
+19 apps · [← AI & LLM Tools](./README.md)
 
-[Monitor ✦](#monitor) (11) · [Code ✦](#code) (6) · [General](#general) (3)
+[Monitor ✦](#monitor) (10) · [Code ✦](#code) (6) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 852 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
+| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 853 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
 | [Claude Usage](https://www.glaze.app/app/Iz8ofo) | 42 | Track your Claude API usage | Kartik | 3.0.0 | 62 KB | 2026-07-02 |
 | [Pulse](https://www.glaze.app/app/3BmuDS) | 33 | Real-time Claude & Codex usage tracking | Ken Adams | 2.0.0 | 74 KB | 2026-06-23 |
 | [Claude Inspector](https://www.glaze.app/app/21ITy2) | 32 | Track your Claude plugins, skills, tools | Aydın Dağdelenler | 1.0.0 | 68 KB | 2026-07-10 |
@@ -20,7 +20,6 @@
 | [Claude Tracker](https://www.glaze.app/app/U6uslr) | 8 | Monitor Claude Desktop app usage | Backrock Studios | 1.0.0 | 67 KB | 2026-07-03 |
 | [Claud + Chatgpt Quota Watch](https://www.glaze.app/app/nZ04u4) | 4 | Monitor your API usage limits | Arthesth Aadhran | 1.0.0 | 75 KB | 2026-07-18 |
 | [Token Watch](https://www.glaze.app/app/INTXtZ) | 4 | Monitor API usage across accounts | Tommaso Dematté | 1.0.0 | 68 KB | 2026-07-07 |
-| [Token Watch](https://www.glaze.app/app/q4eH7B) | 4 | Claude token and environment usage | Office | 1.0.0 | 66 KB | 2026-07-27 |
 
 ## Code ✦
 

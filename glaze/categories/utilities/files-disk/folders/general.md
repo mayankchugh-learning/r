@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Sweep](https://www.glaze.app/app/308emF) | 277 | Tinder for deleting files | melvin | 7.0.0 | 97 KB | 2026-07-17 |
+| [Sweep](https://www.glaze.app/app/308emF) | 277 | Tinder for deleting files | melvin | 8.0.0 | 535 KB | 2026-08-03 |
 | [YouTube Video Downloader](https://www.glaze.app/app/N3FDOF) | 20 | Download YouTube videos instantly | Noah Lloyd | 1.0.0 | 65 KB | 2026-07-02 |
 | [Instagram Data Visualizer](https://www.glaze.app/app/WMp7yt) | 3 | View your Instagram stats in private. | Antônio Sérgio Spagnuolo Filho | 1.0.0 | 72 KB | 2026-07-02 |
 | [Secure Erase](https://www.glaze.app/app/5lj2vu) | 3 | Permanently delete files | Tylilo | 1.0.0 | 62 KB | 2026-07-09 |

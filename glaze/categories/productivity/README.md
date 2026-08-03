@@ -1,20 +1,20 @@
 # Productivity
 
-507 apps · 6,222 installs · [← all categories](../README.md)
+507 apps · 6,251 installs · [← all categories](../README.md)
 
 ## Plan & Organize
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Tasks & Projects](./tasks-projects/README.md) | 99 | 1,547 |
-| [Calendar & Time](./calendar-time/README.md) | 47 | 1,240 |
+| [Tasks & Projects](./tasks-projects/README.md) | 99 | 1,559 |
+| [Calendar & Time](./calendar-time/README.md) | 47 | 1,250 |
 | [Files & Organization](./files-organization.md) | 13 | 75 |
 
 ## Capture & Read
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Notes & Writing](./notes-writing/README.md) | 78 | 568 |
+| [Notes & Writing](./notes-writing/README.md) | 78 | 569 |
 | [Reading & Feeds](./reading-feeds.md) | 31 | 480 |
 | [Email & Messaging](./email-messaging.md) | 16 | 175 |
 
@@ -22,15 +22,15 @@
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [AI & Assistants](./ai-assistants/README.md) | 101 | 1,227 |
+| [AI & Assistants](./ai-assistants/README.md) | 101 | 1,231 |
 | [Search & Launch](./search-launch.md) | 19 | 164 |
-| [Tracking & Analytics](./tracking-analytics.md) | 40 | 334 |
+| [Tracking & Analytics](./tracking-analytics.md) | 40 | 335 |
 
 ## Wellbeing
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Focus & Wellbeing](./focus-wellbeing/README.md) | 36 | 240 |
+| [Focus & Wellbeing](./focus-wellbeing/README.md) | 36 | 241 |
 
 ## Discovered topics ✦
 

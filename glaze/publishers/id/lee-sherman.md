@@ -1,6 +1,6 @@
 # Lee Sherman
 
-16 apps · 71 installs · [← publishers](../README.md)
+16 apps · 72 installs · [← publishers](../README.md)
 
 ## Utilities (7)
 
@@ -34,7 +34,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [WriteOn](https://www.glaze.app/app/Vunquu) | 5 | Modern word processor with classic feels | Lee Sherman | 5.0.0 | 84 KB | 2026-07-13 |
 | [Apfel Chat](https://www.glaze.app/app/Qr8Sml) | 3 | Chat with Apfel through a GUI | Lee Sherman | 1.0.0 | 160 KB | 2026-07-23 |
-| [Wish Manifest](https://www.glaze.app/app/wish-manifest-U3ZrvL) | 1 | Save your wants in one place | Lee Sherman | 2.0.0 | 65 KB | 2026-08-03 |
+| [Wish Manifest](https://www.glaze.app/app/wish-manifest-U3ZrvL) | 2 | Save your wants in one place | Lee Sherman | 2.0.0 | 65 KB | 2026-08-03 |
 
 ## Developer Tools (2)
 

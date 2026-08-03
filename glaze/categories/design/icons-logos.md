@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Logos](https://www.glaze.app/app/QKNEHI) | 119 | Browse and explore brand logos | Pedro Duarte | 4.0.0 | 81 KB | 2026-07-27 |
+| [Logos](https://www.glaze.app/app/QKNEHI) | 120 | Browse and explore brand logos | Pedro Duarte | 4.0.0 | 81 KB | 2026-07-27 |
 | [Brand Icons](https://www.glaze.app/app/IydK5q) | 21 | Get brand icons from Simple Icons | LitoMore | 3.0.0 | 2.3 MB | 2026-04-26 |
 | [Emoji Generator](https://www.glaze.app/app/AOV7jA) | 14 | Generate custom emoji w/ OpenAI API key | Gavin Scott-Miller | 2.0.0 | 68 KB | 2026-07-14 |
 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) | 12 | Design icons for any platform. | Sambit Biswas | 2.0.0 | 701 KB | 2026-07-28 |

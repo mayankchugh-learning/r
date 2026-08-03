@@ -27,7 +27,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 218 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 105 KB | 2026-04-15 |
+| [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 219 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 105 KB | 2026-04-15 |
 | [Diffable](https://www.glaze.app/app/ijgHph) | 10 | Compare text changes side-by-side | Noud Adrichem | 1.0.0 | 82 KB | 2026-07-07 |
 | [FTP & SFTP Client](https://www.glaze.app/app/3K5iSj) | 3 | Secure remote file access made simple. | UV | 1.0.0 | 1.8 MB | 2026-04-24 |
 | [PlantUML Editor](https://www.glaze.app/app/R4hr68) | 3 | Diagrams in real time, code your way | Kinsley Ogunmola | 1.0.0 | 185 KB | 2026-07-04 |

@@ -52,13 +52,13 @@
 | [Wallpaper Creator](https://www.glaze.app/app/FasYwi) | 2 | Wallpapers from Videos and Images | Max Battleman | 2.0.0 | 68 KB | 2026-07-27 |
 | [Web Wallpaper](https://www.glaze.app/app/AimmJ2) | 2 | Turn any webpage into your wallpaper | Max Battleman | 1.0.0 | 60 KB | 2026-07-20 |
 | [while...](https://www.glaze.app/app/hk0xeC) | 2 | Quick games, whenever you need a break | Alex | 1.0.0 | 43 KB | 2026-07-27 |
+| [Wish Manifest](https://www.glaze.app/app/wish-manifest-U3ZrvL) | 2 | Save your wants in one place | Lee Sherman | 2.0.0 | 65 KB | 2026-08-03 |
 | [World Time](https://www.glaze.app/app/HDtRH3) | 2 | View multiple time zones at a glance | Yash | 1.0.0 | 80 KB | 2026-07-02 |
 | [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) | 1 | Fresh walls, every day on autopilot | Elior Boukhobza | 2.0.0 | 62 KB | 2026-07-27 |
 | [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) | 1 | Protect photos with custom watermarks | Ryun Li | 1.0.0 | 59 KB | 2026-08-03 |
 | [Watermark PRO](https://www.glaze.app/app/vIfGnp) | 1 | Batch watermark images and videos | Aleksandra Gramatchikova | 1.0.0 | 74 KB | 2026-07-13 |
 | [Whisker Rewards](https://www.glaze.app/app/imwPlX) | 1 | Cat-themed Reward Chart for Kids | Michael Clear | 1.0.0 | 72 KB | 2026-07-12 |
 | [Windows Lock Screen](https://www.glaze.app/app/tRVDWz) | 1 | Display a Windows lock screen on Mac | Karim Abdelali | 2.0.0 | 56 KB | 2026-07-31 |
-| [Wish Manifest](https://www.glaze.app/app/wish-manifest-U3ZrvL) | 1 | Save your wants in one place | Lee Sherman | 2.0.0 | 65 KB | 2026-08-03 |
 | [WooPulse AI](https://www.glaze.app/app/cd6wTA) | 1 | Manage your WooCommerce store orders | Pedro Fonseca | 2.0.0 | 85 KB | 2026-07-29 |
 | [Work Faces](https://www.glaze.app/app/F11CCr) | 1 | Match names to faces on your Slack team | Tyom Semonov | 1.0.0 | 72 KB | 2026-07-07 |
 | [Worksheet Tracker](https://www.glaze.app/app/RGmoKM) | 1 | Track PDF worksheets and completion | Mary-Ann Horley | 2.0.0 | 1.6 MB | 2026-07-25 |

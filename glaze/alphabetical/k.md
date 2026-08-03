@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 97 | Track keystrokes and mouse clicks by app | Christian Alares | 3.0.0 | 135 KB | 2026-04-26 |
+| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 97 | Track keystrokes and mouse clicks by app | Christian Alares | 4.0.0 | 151 KB | 2026-08-03 |
 | [KeyMap](https://www.glaze.app/app/WuhRnA) | 31 | Record your daily keystrokes and optimize your keyboard layout for ergonomic efficiency | Mathieu Dutour | 1.0.1 | 1.2 MB | 2026-03-06 |
 | [Kalcy](https://www.glaze.app/app/gSzJCA) | 14 | Do math with natural language, instantly | Shivraj Roy | 3.0.0 | 272 KB | 2026-07-27 |
 | [Keep](https://www.glaze.app/app/M2eK2r) | 11 | Native Google Keep with offline access | Andy Zhu | 1.0.0 | 54 KB | 2026-07-04 |

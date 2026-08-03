@@ -8,9 +8,9 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) | 272 | Track nearby aircraft in real-time and follow flights of interest | Hamzah Chaudhary | 1.0.1 | 978 KB | 2026-03-12 |
 | [Floating Youtube](https://www.glaze.app/app/floating-youtube-JUv9e2) | 227 | Floating Youtube video player | David Ferguson | 2.0.0 | 60 KB | 2026-07-26 |
-| [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) | 142 | Quickly preview local fonts in context | Alexander Artsvuni | 7.0.0 | 547 KB | 2026-07-29 |
+| [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) | 144 | Quickly preview local fonts in context | Alexander Artsvuni | 7.0.0 | 547 KB | 2026-07-29 |
 | [Funky Mirror](https://www.glaze.app/app/yHoT78) | 135 | Apply fun filters to your webcam | Samuel Kraft | 1.0.0 | 12.8 MB | 2026-05-12 |
-| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 124 | Make your text fancy | Pedro Duarte | 7.0.0 | 65 KB | 2026-07-20 |
+| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 125 | Make your text fancy | Pedro Duarte | 7.0.0 | 65 KB | 2026-07-20 |
 | [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) | 105 | Explore History of Football Tournaments | Alex Antonov | 6.0.0 | 313 KB | 2026-07-21 |
 | [Feed Reader](https://www.glaze.app/app/2Db0Ny) | 35 | Read your feeds and blogs in one place | Alexandr Subbotin | 11.0.0 | 3.9 MB | 2026-07-13 |
 | [Foam Case Designer](https://www.glaze.app/app/4ItSi9) | 29 | Visually plan and optimize foam insert layouts for hard cases with precise camera gear cutouts and padding guidance. | João Neves | 2.0.1 | 263 KB | 2026-03-25 |

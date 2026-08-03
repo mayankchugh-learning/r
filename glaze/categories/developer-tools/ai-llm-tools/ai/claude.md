@@ -10,9 +10,9 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 859 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
-| [Skills](https://www.glaze.app/app/9liD6w) | 34 | Browse, preview & install agent skills | Kth | 1.0.0 | 69 KB | 2026-07-04 |
-| [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) | 23 | Explains commands before you run them | Brad Chin | 3.0.0 | 175 KB | 2026-07-28 |
+| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 860 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
+| [Skills](https://www.glaze.app/app/9liD6w) | 35 | Browse, preview & install agent skills | Kth | 1.0.0 | 69 KB | 2026-07-04 |
+| [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) | 25 | Explains commands before you run them | Brad Chin | 3.0.0 | 175 KB | 2026-07-28 |
 | [Agent Dashboard](https://www.glaze.app/app/6cHyYB) | 18 | Visualize and track local agent activity | jasonbla | 5.0.0 | 71 KB | 2026-07-13 |
 | [MCP&Skill Manager](https://www.glaze.app/app/rRZDwG) | 16 | Manage all your MCP servers in one | Giovanni | 2.0.0 | 92 KB | 2026-07-25 |
 | [Reclaim](https://www.glaze.app/app/ed33HB) | 15 | Your AI is quietly eating up your disk | Abubakr Jimoh | 4.0.0 | 236 KB | 2026-07-27 |

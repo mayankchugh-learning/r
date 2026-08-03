@@ -33,10 +33,10 @@
 | Ahmad Alani | 1 | 3 | [Braid](https://www.glaze.app/app/wqVB7E) *(Utilities)* |
 | Ahmad Nurfadilah | 1 | 5 | [Airlock](https://www.glaze.app/app/ECzuJo) *(Utilities)* |
 | Ahmed Raafat | 1 | 10 | [Batch Rename](https://www.glaze.app/app/cSKIlT) *(Utilities)* |
-| Ahmet Güler | 1 | 11 | [Darkroom Studio](https://www.glaze.app/app/5aumRY) *(Media)* |
+| Ahmet Güler | 1 | 12 | [Darkroom Studio](https://www.glaze.app/app/5aumRY) *(Media)* |
 | AI4Marketing | 1 | 0 | [AI4Marketing.cz](https://www.glaze.app/app/L82rD4) *(Productivity)* |
 | AJ Batac | 1 | 5 | [Kulay (Color)](https://www.glaze.app/app/bbzPPl) *(Design)* |
-| Ajay Odedra | 1 | 244 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
+| Ajay Odedra | 1 | 252 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
 | ajnart | 1 | 14 | [Wheel Launcher](https://www.glaze.app/app/SmYxn5) *(Productivity)* |
 | Ak Deepankar | 1 | 9 | [Mac Flow](https://www.glaze.app/app/FKfVNE) *(Design)* |
 | Akanbi Toheeb | 1 | 4 | [Cehua](https://www.glaze.app/app/osrdrz) *(Developer Tools)* |
@@ -55,11 +55,11 @@
 | Alex Antonov | 3 | 563 | [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) *(Developer Tools)*, [Winamp](https://www.glaze.app/app/naNtIA) *(Media)*, [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) *(Media)* |
 | Alex E | 1 | 10 | [Icon Grab](https://www.glaze.app/app/udkxUC) *(Developer Tools)* |
 | Alex Mathew | 1 | 4 | [Reed](https://www.glaze.app/app/tu91GA) *(Productivity)* |
-| Alexander Artsvuni | 1 | 142 | [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) *(Design)* |
+| Alexander Artsvuni | 1 | 144 | [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) *(Design)* |
 | Alexander Gekov | 1 | 11 | [CineSchedule](https://www.glaze.app/app/G1DNgr) *(Media)* |
 | Alexander.K.Wright | 1 | 5 | [Food Web](https://www.glaze.app/app/add6B0) *(Media)* |
 | Alexandr Subbotin | 2 | 284 | [Yolo](https://www.glaze.app/app/yolo-PSjYlj) *(Developer Tools)*, [Feed Reader](https://www.glaze.app/app/2Db0Ny) *(Productivity)* |
-| [alexi.build](./id/alexi-build.md) | 10 | 1,026 | [see all 10 →](./id/alexi-build.md) |
+| [alexi.build](./id/alexi-build.md) | 10 | 1,027 | [see all 10 →](./id/alexi-build.md) |
 | Alexis d'Amecourt | 1 | 17 | [World Reader](https://www.glaze.app/app/rj9keL) *(Media)* |
 | Alfonso (Poncho) Aceves | 1 | 2 | [FrameBites](https://www.glaze.app/app/86GqqN) *(Productivity)* |
 | Alfred MOUELLE | 1 | 7 | [Remo](https://www.glaze.app/app/fYfuxd) *(Productivity)* |
@@ -82,7 +82,7 @@
 | André Marques | 1 | 2 | [Karabiner Commander](https://www.glaze.app/app/karabiner-commander-5ovsm5) *(Developer Tools)* |
 | Andre Martins | 1 | 3 | [TaxNomad](https://www.glaze.app/app/XmV8Yu) *(Utilities)* |
 | Andre N. | 1 | 14 | [Mori](https://www.glaze.app/app/2R9BrO) *(Productivity)* |
-| André Pinto | 1 | 115 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) *(Media)* |
+| André Pinto | 1 | 116 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) *(Media)* |
 | Andre Yamazaki | 2 | 10 | [PDF to Image](https://www.glaze.app/app/s38kIA) *(Utilities)*, [Label Converter](https://www.glaze.app/app/m67Wr2) *(Utilities)* |
 | Andrea Cipriani | 1 | 25 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) *(Productivity)* |
 | Andrea Montinovo | 1 | 9 | [Download Time Calculator](https://www.glaze.app/app/PeVPLM) *(Utilities)* |

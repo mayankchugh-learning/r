@@ -12,17 +12,17 @@
 | [og:inspect](https://www.glaze.app/app/FxW58J) | 19 | Preview OG metadata alongside your site | Jac Peregrine-Davies | 2.0.0 | 66 KB | 2026-07-01 |
 | [OTPop](https://www.glaze.app/app/6OxvwV) | 18 | OTPs at your fingertips | Manuele Sarfatti | 10.0.0 | 685 KB | 2026-07-27 |
 | [Oneko](https://www.glaze.app/app/AnIyLw) | 15 | Keep a cat floating on your screen | Dhruv Suthar | 2.0.0 | 48 KB | 2026-04-21 |
+| [Only](https://www.glaze.app/app/otSeMd) | 11 | Share the point, not your screen. | Tim | 1.0.0 | 13.8 MB | 2026-07-28 |
 | [OG Image Generator](https://www.glaze.app/app/axpi98) | 10 | Beautiful Open Graph images on your Mac | Sujeevan Nagarajah | 1.0.0 | 302 KB | 2026-07-26 |
 | [One-Take Teleprompter](https://www.glaze.app/app/BwnGQY) | 10 | Record videos with on-screen script | Artem Novichkov | 1.0.0 | 68 KB | 2026-07-04 |
-| [Only](https://www.glaze.app/app/otSeMd) | 10 | Share the point, not your screen. | Tim | 1.0.0 | 13.8 MB | 2026-07-28 |
 | [Onionskin](https://www.glaze.app/app/ZaTZYW) | 8 | A notebook that behaves like a notebook | Geoff Silva | 4.0.0 | 2.0 MB | 2026-07-24 |
 | [Outfit Check](https://www.glaze.app/app/eiLASD) | 7 | Plan your outfit before heading out | Jason Lang | 1.0.0 | 59 KB | 2026-07-08 |
 | [Overheard - Podcast knowledge](https://www.glaze.app/app/MMw100) | 7 | Turn podcasts into reusable knowledge | Ac0 | 10.0.0 | 371 KB | 2026-07-29 |
 | [Overtype](https://www.glaze.app/app/PKj6yw) | 7 | Fast and fluid font editing | Kaylen Castle | 1.0.0 | 786 KB | 2026-07-25 |
 | [OuijAI](https://www.glaze.app/app/csPCmo) | 6 | Talk to AI spirits. Get weird answers. | David Claridge | 2.0.0 | 36.7 MB | 2026-07-01 |
+| [On-Brand](https://www.glaze.app/app/DhmLaD) | 5 | Stay on-brand with every choice | Farhan K. | 3.0.0 | 475 KB | 2026-07-28 |
 | [Orbit](https://www.glaze.app/app/wSy5lt) | 5 | Stay close to the people who matter most | Maxi | 2.0.0 | 84 KB | 2026-07-27 |
 | [On track](https://www.glaze.app/app/QfAX61) | 4 | Stay on track with funny cats | Rushikesh Jadhav | 6.0.0 | 77 KB | 2026-07-28 |
-| [On-Brand](https://www.glaze.app/app/DhmLaD) | 4 | Stay on-brand with every choice | Farhan K. | 3.0.0 | 475 KB | 2026-07-28 |
 | [Orb](https://www.glaze.app/app/IS4qqc) | 4 | One orb. Every workspace. One click. | Otiete Ayebanua | 3.0.0 | 118 KB | 2026-07-26 |
 | [On This Day](https://www.glaze.app/app/fbkJca) | 3 | Relive memories and events from the past | Jørgen Arnor | 1.0.0 | 73 KB | 2026-07-09 |
 | [Open Voz](https://www.glaze.app/app/TS9jS0) | 3 | Your words. Your voice. On-device. | Himanshu Rattan | 5.0.0 | 95 KB | 2026-07-28 |

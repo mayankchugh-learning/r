@@ -8,14 +8,14 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Peel](https://www.glaze.app/app/esimhU) | 417 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 340 | Simple project planning | Kristina Loewen | 6.0.0 | 130 KB | 2026-07-05 |
-| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 303 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 244 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
+| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 304 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 252 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 | [ProjectBase](https://www.glaze.app/app/w5CAic) | 49 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 281 KB | 2026-07-29 |
 | [Port Monitor](https://www.glaze.app/app/EEfaTw) | 40 | Track open ports and their apps | Domint | 1.0.0 | 73 KB | 2026-06-29 |
 | [Pixel Runner](https://www.glaze.app/app/dZpJ2d) | 34 | Run, jump, and dodge obstacles in this retro-style endless runner! Choose your character, compete for high scores, and climb the leaderboard. | Per Nielsen Tikær | 1.0.1 | 195 KB | 2026-03-04 |
+| [Posture Pod](https://www.glaze.app/app/vEXG8w) | 33 | Get posture reminders using your AirPods | Víctor Navarro | 1.0.0 | 66 KB | 2026-06-28 |
 | [Pulse](https://www.glaze.app/app/3BmuDS) | 33 | Real-time Claude & Codex usage tracking | Ken Adams | 2.0.0 | 74 KB | 2026-06-23 |
-| [Posture Pod](https://www.glaze.app/app/vEXG8w) | 32 | Get posture reminders using your AirPods | Víctor Navarro | 1.0.0 | 66 KB | 2026-06-28 |
 | [Port Manager](https://www.glaze.app/app/3gWdcg) | 29 | Monitor and manage system port usage | Kapta Fu | 1.0.0 | 64 KB | 2026-07-02 |
 | [Punch Mac](https://www.glaze.app/app/fKAUbt) | 26 | Punch your MacBook | Dhruv Suthar | 4.0.0 | 169 KB | 2026-04-08 |
 | [PromptVault](https://www.glaze.app/app/N0xoJh) | 23 | Save and organize your prompts and | office Roy Ribak | 1.0.0 | 71 KB | 2026-07-02 |
@@ -37,6 +37,7 @@
 | [PixelFlow](https://www.glaze.app/app/MRd2ab) | 11 | Your team's cozy virtual office | Roxana⚡️ | 3.0.0 | 5.1 MB | 2026-07-28 |
 | [PR Tracker](https://www.glaze.app/app/JVnAGF) | 11 | Track GitHub PRs from your menu bar | João Melo | 2.0.0 | 56 KB | 2026-05-13 |
 | [Prism](https://www.glaze.app/app/O7xZdX) | 11 | Work smarter, without leaving your app. | Drained99 | 15.0.0 | 213 KB | 2026-07-28 |
+| [Polite Package](https://www.glaze.app/app/Ah56UM) | 10 | Send folders that look professional | Vaarun Sinha | 1.0.0 | 67 KB | 2026-07-28 |
 | [PortPilot](https://www.glaze.app/app/a2nCql) | 10 | Monitor local TCP ports and running dev | zxpzdtom | 1.0.0 | 69 KB | 2026-07-02 |
 | [PrettyShots](https://www.glaze.app/app/XHcKQ0) | 10 | Beautiful product screenshots in seconds | Ilai Szpiezak | 2.0.0 | 23.3 MB | 2026-07-28 |
 | [Prosody](https://www.glaze.app/app/4eQt0V) | 10 | Everything you read, read to you. | Oscar Hernandez | 3.0.0 | 76.9 MB | 2026-07-28 |
@@ -49,7 +50,6 @@
 | [Paint Studio](https://www.glaze.app/app/BXfWqp) | 8 | Draw and edit images easily | Vira Tkachenko | 2.0.0 | 62 KB | 2026-07-15 |
 | [Palette](https://www.glaze.app/app/uk1Og5) | 8 | Create and view your color schemes! | Benjy.desprets | 3.0.0 | 112 KB | 2026-07-27 |
 | [Pokédex Ultra](https://www.glaze.app/app/16g4nM) | 8 | Explore and catalog Pokémon across generations with detailed stats, abilities, and evolution chains | Paul Angeles | 2.0.1 | 270 KB | 2026-03-26 |
-| [Polite Package](https://www.glaze.app/app/Ah56UM) | 8 | Send folders that look professional | Vaarun Sinha | 1.0.0 | 67 KB | 2026-07-28 |
 | [Pomo](https://www.glaze.app/app/Nvojrt) | 8 | Track pomodoro sessions and productivity | nanbing liu | 1.0.0 | 65 KB | 2026-07-02 |
 | [Papier](https://www.glaze.app/app/LOGFpd) | 7 | Todo app with personality | Hamza Y. | 5.0.0 | 844 KB | 2026-07-29 |
 | [PDF Unlocker](https://www.glaze.app/app/eLy5mQ) | 7 | Remove PDF passwords instantly, locally. | Sai Prem | 1.0.0 | 59 KB | 2026-07-04 |
@@ -87,7 +87,7 @@
 | [PR Flow](https://www.glaze.app/app/KlUOjI) | 4 | Track your GitHub PR status locally | Jamie Lawrence | 2.0.0 | 166 KB | 2026-07-09 |
 | [Project Hub](https://www.glaze.app/app/A4Laxi) | 4 | Centralize all your projects resources | Ben Mason | 2.0.0 | 128 KB | 2026-07-28 |
 | [Pause Before Purchase](https://www.glaze.app/app/9UusOE) | 3 | Pause and reconsider before buying | Suyash Junnarkar | 1.0.0 | 74 KB | 2026-07-26 |
-| [Pet Hatch](https://www.glaze.app/app/Zk6Mtn) | 3 | Type your way to a pet companion | Ilseong Na | 9.0.0 | 85 KB | 2026-07-29 |
+| [Pet Hatch](https://www.glaze.app/app/Zk6Mtn) | 3 | Type your way to a pet companion | Ilseong Na | 10.0.0 | 87 KB | 2026-08-03 |
 | [Ping Check](https://www.glaze.app/app/3JKav5) | 3 | Stay connected, know your ping | Eaugum | 5.0.0 | 64 KB | 2026-07-30 |
 | [Pixabot Pal](https://www.glaze.app/app/OnNz7i) | 3 | Meet random Pixabot characters | Anthony.verga | 1.0.0 | 46 KB | 2026-05-20 |
 | [Pixed](https://www.glaze.app/app/XqXJfA) | 3 | Make pixel family portraits instantly | Ravi Vasavan | 1.0.0 | 75 KB | 2026-07-13 |

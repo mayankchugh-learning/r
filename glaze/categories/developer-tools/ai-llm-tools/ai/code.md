@@ -9,7 +9,7 @@
 | [SHADER~1.EXE](https://www.glaze.app/app/5hYFKQ) | 28 | ShaderToy-inspired shader editor | João Neves | 18.0.0 | 1.1 MB | 2026-06-08 |
 | [Apptopsy](https://www.glaze.app/app/kWwP7l) | 17 | See what's inside your apps | Pavlo Haidamak | 12.0.0 | 229 KB | 2026-08-01 |
 | [PromptPocket](https://www.glaze.app/app/8alvwL) | 12 | Your notes, always at your fingertips | Rich Washburn | 6.0.0 | 886 KB | 2026-07-13 |
-| [Only](https://www.glaze.app/app/otSeMd) | 10 | Share the point, not your screen. | Tim | 1.0.0 | 13.8 MB | 2026-07-28 |
+| [Only](https://www.glaze.app/app/otSeMd) | 11 | Share the point, not your screen. | Tim | 1.0.0 | 13.8 MB | 2026-07-28 |
 | [SEOInspector](https://www.glaze.app/app/FwJNp5) | 10 | Every SEO check your site needs | Dmytro Lobov | 8.0.0 | 741 KB | 2026-07-31 |
 | [Treehouse](https://www.glaze.app/app/c7UeuV) | 9 | Git worktrees, without the friction. | Alyssa Holland | 7.0.0 | 1.2 MB | 2026-07-30 |
 | [Code Duel](https://www.glaze.app/app/Vu61vP) | 6 | Solve real-world coding challenges | Ralbright | 1.0.0 | 288 KB | 2026-07-02 |
@@ -17,4 +17,4 @@
 | [Text Capture](https://www.glaze.app/app/2ZwhpN) | 5 | Extract text from any screen area | Michael O'Sullivan | 2.0.0 | 60 KB | 2026-07-15 |
 | [Telltale](https://www.glaze.app/app/ZPeaME) | 4 | See your Mac's state. Don't read it. | Adithya Jayasankar | 11.0.0 | 138 KB | 2026-07-30 |
 | [PlainType](https://www.glaze.app/app/zUfgFg) | 3 | Formatting in, plain text out | Jason Csizmadi | 1.0.0 | 62 KB | 2026-07-03 |
-| [Sigil](https://www.glaze.app/app/lrhbBL) | 2 | Know which SSH key your Mac will use | egill smari | 1.0.0 | 79 KB | 2026-07-28 |
+| [Sigil](https://www.glaze.app/app/lrhbBL) | 3 | Know which SSH key your Mac will use | egill smari | 1.0.0 | 79 KB | 2026-07-28 |

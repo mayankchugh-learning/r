@@ -51,14 +51,14 @@
 | [Priority Matrix](https://www.glaze.app/app/erfrci) | 15 | Organize tasks by urgency and importance | John.Gatev | 1.0.0 | 67 KB | 2026-06-29 |
 | [Wishlist](https://www.glaze.app/app/bdkrvX) | 5 | Curate and organize items you want to | Leonidas Fragkioudakis | 1.0.0 | 71 KB | 2026-07-06 |
 | [Clipboard Shelf](https://www.glaze.app/app/2Mw1lq) | 3 | Collect and organize clipboard items | Rahul Bakshi | 1.0.0 | 65 KB | 2026-07-27 |
+| [Collector’s Catalog](https://www.glaze.app/app/gX4n0Q) | 3 | Organize and Display your Collection | Brittany Smith | 1.0.0 | 713 KB | 2026-07-27 |
 | [Substriki](https://www.glaze.app/app/S7IRAU) | 3 | Track every subscription in one place | Shajib Bhuiyan | 1.0.0 | 65 KB | 2026-07-02 |
-| [Collector’s Catalog](https://www.glaze.app/app/gX4n0Q) | 2 | Organize and Display your Collection | Brittany Smith | 1.0.0 | 713 KB | 2026-07-27 |
 
 ## General
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 97 | Track keystrokes and mouse clicks by app | Christian Alares | 3.0.0 | 135 KB | 2026-04-26 |
+| [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) | 97 | Track keystrokes and mouse clicks by app | Christian Alares | 4.0.0 | 151 KB | 2026-08-03 |
 | [Le Tour Hub](https://www.glaze.app/app/t510tX) | 29 | Follow Tour de France 2026 | Jordan Amblin | 1.0.0 | 357 KB | 2026-07-01 |
 | [ElevenLingo](https://www.glaze.app/app/CM11Am) | 12 | Learn languages with ElevenLabs TTS | Taha Tesser | 5.0.0 | 76 KB | 2026-07-12 |
 | [Cherish](https://www.glaze.app/app/VlIhRC) | 4 | Belongings Management Tool | Ting Chun Wang | 2.0.0 | 2.1 MB | 2026-07-27 |

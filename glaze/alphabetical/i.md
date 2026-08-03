@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 396 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
-| [Image Converter](https://www.glaze.app/app/XzP6Ry) | 206 | Convert images between formats and automatically process folders using customizable rules | Daniel Hollick | 2.0.1 | 8.0 MB | 2026-03-04 |
+| [Image Converter](https://www.glaze.app/app/XzP6Ry) | 207 | Convert images between formats and automatically process folders using customizable rules | Daniel Hollick | 2.0.1 | 8.0 MB | 2026-03-04 |
 | [Image Sequencer](https://www.glaze.app/app/IxkyCn) | 72 | Create animations from image sequences. | Nichlas Wærnes Andersen | 14.0.0 | 57 KB | 2026-04-25 |
 | [Iconify](https://www.glaze.app/app/UedCjG) | 29 | Browse and organize icons locally | LitoMore | 1.0.0 | 51 KB | 2026-04-30 |
 | [Image Converter](https://www.glaze.app/app/4nScHZ) | 14 | Convert and compress images instantly | Mohamed Kerroudj | 1.0.0 | 7.1 MB | 2026-07-07 |

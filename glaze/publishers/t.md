@@ -22,14 +22,14 @@
 | thejasonhowell | 3 | 24 | [Icon Swap](https://www.glaze.app/app/lQw8Ty) *(Design)*, [Transcode](https://www.glaze.app/app/iGYFu1) *(Utilities)*, [Network Utility](https://www.glaze.app/app/WWGiYi) *(Developer Tools)* |
 | Therecruiter33sq | 1 | 0 | [Odds](https://www.glaze.app/app/dTVNj4) *(Utilities)* |
 | Thiago Chu | 1 | 0 | [awol](https://www.glaze.app/app/czXLeI) *(Utilities)* |
-| Thiago Holanda | 1 | 218 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) *(Developer Tools)* |
+| Thiago Holanda | 1 | 219 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) *(Developer Tools)* |
 | Thomas Jost | 1 | 6 | [Dice Order](https://www.glaze.app/app/367A43) *(Games & Fun)* |
 | Thomas Mauconduit | 1 | 36 | [Voxel Studio](https://www.glaze.app/app/W1Zhxy) *(Design)* |
-| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,438 | [see all 12 →](./id/thomas-paul-mann.md) |
+| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,440 | [see all 12 →](./id/thomas-paul-mann.md) |
 | Thomas Williams | 1 | 23 | [My Budget](https://www.glaze.app/app/GEeFXC) *(Productivity)* |
 | Thomaspetrie | 1 | 3 | [Clipboard Flow](https://www.glaze.app/app/xkNePH) *(Utilities)* |
 | Thorpemeister | 2 | 6 | [Radio Player](https://www.glaze.app/app/pTydQH) *(Media)*, [Slumber](https://www.glaze.app/app/BJGDDY) *(Utilities)* |
-| Tim | 3 | 20 | [Only](https://www.glaze.app/app/otSeMd) *(Developer Tools)*, [Since](https://www.glaze.app/app/S0Yycc) *(Developer Tools)*, [Too Much Cricket](https://www.glaze.app/app/jO3LKT) *(Productivity)* |
+| Tim | 3 | 21 | [Only](https://www.glaze.app/app/otSeMd) *(Developer Tools)*, [Since](https://www.glaze.app/app/S0Yycc) *(Developer Tools)*, [Too Much Cricket](https://www.glaze.app/app/jO3LKT) *(Productivity)* |
 | Tim Van Damme | 1 | 46 | [SF Symbols Picker](https://www.glaze.app/app/mLt3F7) *(Developer Tools)* |
 | Timo Bechtel | 1 | 25 | [Soundboard](https://www.glaze.app/app/I1hRxZ) *(Media)* |
 | Timothy Jones | 1 | 6 | [Bookie](https://www.glaze.app/app/Z2swLA) *(Utilities)* |

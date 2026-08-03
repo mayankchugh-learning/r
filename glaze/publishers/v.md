@@ -6,15 +6,15 @@
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
-| Vaarun Sinha | 1 | 8 | [Polite Package](https://www.glaze.app/app/Ah56UM) *(Utilities)* |
+| Vaarun Sinha | 1 | 10 | [Polite Package](https://www.glaze.app/app/Ah56UM) *(Utilities)* |
 | vaibhav | 1 | 12 | [Talkie-Walkie](https://www.glaze.app/app/VR9tcY) *(Utilities)* |
 | Van The Third | 1 | 2 | [Harbor](https://www.glaze.app/app/hqUDGS) *(Productivity)* |
-| vansh | 1 | 4 | [Caps Blink](https://www.glaze.app/app/ZBKtA9) *(Developer Tools)* |
+| vansh | 1 | 5 | [Caps Blink](https://www.glaze.app/app/ZBKtA9) *(Developer Tools)* |
 | Vapa | 1 | 19 | [T-yperminator](https://www.glaze.app/app/S7MTRH) *(Games & Fun)* |
 | Vassil.Krumov | 1 | 1 | [Grid Pass](https://www.glaze.app/app/o97qMc) *(Productivity)* |
 | veloi | 1 | 4 | [Tuck](https://www.glaze.app/app/sO1HdY) *(Productivity)* |
 | Vicbringas | 1 | 5 | [Manuscript](https://www.glaze.app/app/8l5TMB) *(Productivity)* |
-| Víctor Navarro | 3 | 58 | [Posture Pod](https://www.glaze.app/app/vEXG8w) *(Productivity)*, [Video Wallpaper](https://www.glaze.app/app/OxrCyA) *(Utilities)*, [Browser Redirects](https://www.glaze.app/app/fSuxOo) *(Developer Tools)* |
+| Víctor Navarro | 3 | 59 | [Posture Pod](https://www.glaze.app/app/vEXG8w) *(Productivity)*, [Video Wallpaper](https://www.glaze.app/app/OxrCyA) *(Utilities)*, [Browser Redirects](https://www.glaze.app/app/fSuxOo) *(Developer Tools)* |
 | Vidura Gunawardana | 1 | 1 | [Monocle](https://www.glaze.app/app/4a0H2k) *(Utilities)* |
 | Vikram Aggarwal | 1 | 4 | [Discount Scout](https://www.glaze.app/app/b6Z3K4) *(Productivity)* |
 | Vincent de Lagabbe | 1 | 53 | [Tap Beats](https://www.glaze.app/app/uIyOY5) *(Media)* |

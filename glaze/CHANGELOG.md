@@ -4,6 +4,26 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-08-03
 
+**Added (1):** [EXTRCT](https://www.glaze.app/app/extrct-BG49j0)
+
+**Removed (1):** Token Watch
+
+**Sweep:** version 7.0.0 → 8.0.0
+
+**Eternal Return:** version 2.0.0 → 3.0.0
+
+**Book Atlas:** publisher Svitlana → Svitlana Demchenko
+
+**Elsewhere:** version 8.0.0 → 9.0.0
+
+**KeyStat:** version 3.0.0 → 4.0.0
+
+**dropsize:** version 1.0.0 → 2.0.0
+
+**Pet Hatch:** version 9.0.0 → 10.0.0
+
+## 2026-08-03
+
 **Uncertainty Calculator:** version 1.0.0 → 2.0.0
 
 **Elsewhere:** version 7.0.0 → 8.0.0

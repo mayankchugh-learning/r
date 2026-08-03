@@ -58,7 +58,7 @@
 | Maxim B | 1 | 4 | [Bubble Break](https://www.glaze.app/app/BixbZm) *(Games & Fun)* |
 | Maxime Le Bec | 1 | 1 | [FitPlan](https://www.glaze.app/app/1VCZdn) *(Productivity)* |
 | May Zhou | 1 | 9 | [snap sort](https://www.glaze.app/app/Ic87j0) *(Utilities)* |
-| Maya Avendaño | 1 | 406 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
+| Maya Avendaño | 1 | 415 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
 | mboeru | 1 | 1 | [TeamsToDeck Commands](https://www.glaze.app/app/5kyOs4) *(Productivity)* |
 | mcfoton | 1 | 2 | [Cabled](https://www.glaze.app/app/KRIVgd) *(Developer Tools)* |
 | Me | 1 | 6 | [Markdown Notes](https://www.glaze.app/app/myI9Nz) *(Productivity)* |
@@ -66,7 +66,7 @@
 | Mehran Bahrami Samani | 1 | 5 | [Focus Track](https://www.glaze.app/app/YZpR5B) *(Productivity)* |
 | Mehul Chokshi | 2 | 32 | [Tempo](https://www.glaze.app/app/eJfpqe) *(Productivity)*, [Timezone Shift](https://www.glaze.app/app/uJGLv4) *(Utilities)* |
 | Mel Lent | 1 | 17 | [Meeting Glow](https://www.glaze.app/app/fFmwaY) *(Productivity)* |
-| [melvin](./id/melvin.md) | 6 | 357 | [see all 6 →](./id/melvin.md) |
+| [melvin](./id/melvin.md) | 7 | 358 | [see all 7 →](./id/melvin.md) |
 | mert can demir | 1 | 4 | [quackchestra](https://www.glaze.app/app/6FX1X0) *(Media)* |
 | Mete Polat | 1 | 37 | [Skill Vault](https://www.glaze.app/app/vDXO9z) *(Developer Tools)* |
 | Michael Clear | 1 | 1 | [Whisker Rewards](https://www.glaze.app/app/imwPlX) *(Productivity)* |
@@ -94,7 +94,7 @@
 | Mohamed Kerroudj | 1 | 14 | [Image Converter](https://www.glaze.app/app/4nScHZ) *(Utilities)* |
 | Mohammad Akteruzzaman | 2 | 5 | [AK Paint](https://www.glaze.app/app/o9b0QK) *(Design)*, [AK ScreenCap](https://www.glaze.app/app/isCi9d) *(Utilities)* |
 | Mohammad Nabhan | 1 | 2 | [Visus : Personal Dashboards](https://www.glaze.app/app/arOO8W) *(Productivity)* |
-| Mohd Danish Yusuf | 2 | 30 | [SuperDev Pro](https://www.glaze.app/app/oUJ9UR) *(Utilities)*, [Magpie](https://www.glaze.app/app/Ybi9fe) *(Design)* |
+| Mohd Danish Yusuf | 2 | 31 | [SuperDev Pro](https://www.glaze.app/app/oUJ9UR) *(Utilities)*, [Magpie](https://www.glaze.app/app/Ybi9fe) *(Design)* |
 | Montaser Sawi | 1 | 3 | [Volume Display](https://www.glaze.app/app/MzFiNY) *(Utilities)* |
 | Montoya | 1 | 2 | [Scores](https://www.glaze.app/app/Rtuf5n) *(Games & Fun)* |
 | Morgan Ridley-Smith | 1 | 4 | [File Type Converter](https://www.glaze.app/app/1fM6y0) *(Utilities)* |
