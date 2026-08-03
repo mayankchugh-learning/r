@@ -28,7 +28,7 @@
 | [Cropzor](https://www.glaze.app/app/Cm2M0P) | 9 | Crop, resize, and compress images | ickas | 1.0.0 | 66 KB | 2026-07-15 |
 | [Social Resize](https://www.glaze.app/app/NbPzaq) | 9 | Resize images for any social platform | Roman Schurter | 3.0.0 | 64 KB | 2026-06-27 |
 | [Media Smasher](https://www.glaze.app/app/H9eEba) | 7 | Compress and convert images and videos | Davidleininger | 2.0.0 | 10.2 MB | 2026-07-04 |
-| [Squish](https://www.glaze.app/app/cWRtaY) | 1 | Compress images and remove metadata | Nicholas | 1.0.0 | 8.0 MB | 2026-08-03 |
+| [Squish](https://www.glaze.app/app/squish-cWRtaY) | 1 | Compress images and remove metadata | Nicholas | 1.0.0 | 8.0 MB | 2026-08-03 |
 
 ## General
 

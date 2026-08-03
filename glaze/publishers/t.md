@@ -25,7 +25,7 @@
 | Thiago Holanda | 1 | 218 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) *(Developer Tools)* |
 | Thomas Jost | 1 | 6 | [Dice Order](https://www.glaze.app/app/367A43) *(Games & Fun)* |
 | Thomas Mauconduit | 1 | 36 | [Voxel Studio](https://www.glaze.app/app/W1Zhxy) *(Design)* |
-| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,434 | [see all 12 →](./id/thomas-paul-mann.md) |
+| [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,435 | [see all 12 →](./id/thomas-paul-mann.md) |
 | Thomas Williams | 1 | 23 | [My Budget](https://www.glaze.app/app/GEeFXC) *(Productivity)* |
 | Thomaspetrie | 1 | 3 | [Clipboard Flow](https://www.glaze.app/app/xkNePH) *(Utilities)* |
 | Thorpemeister | 2 | 6 | [Radio Player](https://www.glaze.app/app/pTydQH) *(Media)*, [Slumber](https://www.glaze.app/app/BJGDDY) *(Utilities)* |

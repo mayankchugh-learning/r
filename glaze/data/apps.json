@@ -1,9 +1,9 @@
 {
   "source": "https://www.glaze.app/store",
-  "fetchedAt": "2026-08-03T04:20:21.766Z",
-  "pagesGeneratedAt": "2026-08-03T04:20:22.081Z",
+  "fetchedAt": "2026-08-03T04:30:23.921Z",
+  "pagesGeneratedAt": "2026-08-03T04:30:24.524Z",
   "count": 1577,
-  "totalInstalls": 27673,
+  "totalInstalls": 27675,
   "apps": [
     {
       "publicId": "01mB0U",
@@ -9142,7 +9142,7 @@
       "aiCapability": null,
       "screenshots": 2,
       "awardsEntry": false,
-      "url": "https://www.glaze.app/app/cWRtaY"
+      "url": "https://www.glaze.app/app/squish-cWRtaY"
     },
     {
       "publicId": "cYeMGn",
@@ -13175,10 +13175,10 @@
       "description": "Access and modify hidden macOS system settings that Apple hides from System Preferences. Adjust Dock behavior, Finder options, Desktop appearance, Mission Control, animations, keyboard input, trackpad sensitivity, screenshot locations, window management, file handling, security settings, and system updates. All from one organized interface.\n\nKey Features:\n- Browse and edit 100+ hidden macOS defaults organized by category\n- See which settings you've modified and easily reset individual changes or revert everything\n- Search across all available settings to find exactly what you need",
       "categorySlug": "utilities",
       "category": "Utilities",
-      "installs": 444,
+      "installs": 445,
       "sizeBytes": 86624,
       "version": "2.0.0",
-      "updatedAt": "2026-08-03 03:00:00.509782+00",
+      "updatedAt": "2026-08-03 04:24:03.105657+00",
       "createdAt": "2026-07-14 15:18:58.185297+00",
       "publishedAt": "2026-07-14T19:43:26.967Z",
       "publisher": "Thomas Paul Mann",
@@ -13449,11 +13449,11 @@
       "categorySlug": "utilities",
       "category": "Utilities",
       "installs": 1,
-      "sizeBytes": 73734,
-      "version": "5.0.0",
-      "updatedAt": "2026-08-03 04:06:45.701758+00",
+      "sizeBytes": 73733,
+      "version": "6.0.0",
+      "updatedAt": "2026-08-03 04:20:59.951442+00",
       "createdAt": "2026-07-22 17:06:23.244586+00",
-      "publishedAt": "2026-08-03T04:06:45.798Z",
+      "publishedAt": "2026-08-03T04:21:00.054Z",
       "publisher": "Lee Sherman",
       "publisherHandle": "lsherman",
       "publisherWebsite": null,
@@ -25477,7 +25477,7 @@
       "aiCapability": null,
       "screenshots": 2,
       "awardsEntry": false,
-      "url": "https://www.glaze.app/app/perlyio-RsLTkW"
+      "url": "https://www.glaze.app/app/RsLTkW"
     },
     {
       "publicId": "RtaYUX",
@@ -30185,10 +30185,10 @@
       "description": "PDF Toolkit is an all-in-one productivity app for macOS that brings together the essential tools you use every day for PDFs, images, and videos in one fast, native application. Instead of switching between multiple websites, uploading files to the cloud, or installing different utilities for every task, everything happens locally on your Mac with a seamless, privacy-first experience.\n\nEvery feature is built around a simple 3-step workflow: Drop your files, Organize or Edit them, and Download the final result. Whether you're merging PDFs before submitting an assignment, compressing a presentation for email, converting image formats, resizing photos, trimming videos, or extracting pages from a document, every task takes just a few clicks.\n\nBuilt specifically for macOS, PDF Toolkit is significantly faster than browser-based alternatives because all processing happens directly on your device. There's no waiting for uploads, no internet dependency, and no unnecessary delays. Most importantly, your files never leave your Mac, giving you complete privacy and security without trusting third-party servers with sensitive documents.\n\nPDF Toolkit includes a growing collection of powerful tools across three categories:\n1. PDF Tools: Merge, split, compress, convert, rearrange, rotate, extract pages, password protect or unlock PDFs, OCR, sign documents, and more.\n2. Image Tools: Convert formats, compress, resize, crop, optimize, remove backgrounds, and perform everyday image editing tasks.\n3. Video Tools: Compress videos, convert formats, trim clips, extract audio, create GIFs, optimize files for sharing, and more.\n\nPDF Toolkit is designed for the people who work with documents every day:\n1. Students submitting assignments, lecture notes, resumes, and project reports.\n2. College graduates preparing job applications, portfolios, certificates, and important documents.\n3. Professionals and corporate employees handling contracts, invoices, presentations, reports, HR documents, and client files.\n\nWhether you're preparing a last-minute assignment, applying for your dream job, or managing documents at work, PDF Toolkit eliminates repetitive file-management tasks with a clean, intuitive interface that feels right at home on macOS.\n\nOne app. Three simple steps. Hundreds of everyday document, image, and video tools. Blazing fast, completely private, and built for the modern Mac user.",
       "categorySlug": "productivity",
       "category": "Productivity",
-      "installs": 233,
+      "installs": 234,
       "sizeBytes": 2942041,
       "version": "10.0.0",
-      "updatedAt": "2026-08-03 03:10:36.42022+00",
+      "updatedAt": "2026-08-03 04:23:07.175454+00",
       "createdAt": "2026-07-27 07:56:58.646013+00",
       "publishedAt": "2026-07-31T21:39:32.870Z",
       "publisher": "Ajay Odedra",

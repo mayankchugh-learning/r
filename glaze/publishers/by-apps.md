@@ -11,7 +11,7 @@
 | 1 | [Dhruv Suthar](./id/dhruv-suthar.md) | 16 | 479 |
 | 2 | [Dmytro Lobov](./id/dmytro-lobov.md) | 16 | 82 |
 | 3 | [Lee Sherman](./id/lee-sherman.md) | 16 | 70 |
-| 4 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,434 |
+| 4 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,435 |
 | 5 | [Jordan Amblin](./id/jordan-amblin.md) | 11 | 705 |
 | 6 | [João Neves](./id/jo-o-neves.md) | 11 | 130 |
 | 7 | [alexi.build](./id/alexi-build.md) | 10 | 1,024 |
@@ -219,7 +219,7 @@
 | 209 | Combustion Studio | 1 | 401 |
 | 210 | Maya Avendaño | 1 | 397 |
 | 211 | Hamzah Chaudhary | 1 | 271 |
-| 212 | Ajay Odedra | 1 | 233 |
+| 212 | Ajay Odedra | 1 | 234 |
 | 213 | Thiago Holanda | 1 | 218 |
 | 214 | Daniel Hollick | 1 | 206 |
 | 215 | Dmitry Novikov | 1 | 204 |

@@ -1,12 +1,12 @@
 # Utilities
 
-388 apps · 6,146 installs · [← all categories](../README.md)
+388 apps · 6,147 installs · [← all categories](../README.md)
 
 ## Files & Media
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Files & Disk](./files-disk/README.md) | 172 | 2,985 |
+| [Files & Disk](./files-disk/README.md) | 172 | 2,986 |
 | [Image Tools](./image-tools/README.md) | 36 | 1,050 |
 | [Video & Audio Tools](./video-audio-tools/README.md) | 38 | 281 |
 

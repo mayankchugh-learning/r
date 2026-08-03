@@ -8,7 +8,7 @@
 
 | # | Publisher | Apps | Installs |
 | --- | --- | --- | --- |
-| 1 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,434 |
+| 1 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,435 |
 | 2 | [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,099 |
 | 3 | [Nichlas Wærnes Andersen](./id/nichlas-w-rnes-andersen.md) | 5 | 1,047 |
 | 4 | [alexi.build](./id/alexi-build.md) | 10 | 1,024 |
@@ -29,7 +29,7 @@
 | 19 | Hamzah Chaudhary | 1 | 271 |
 | 20 | Ivo Fonseca | 2 | 266 |
 | 21 | David Ferguson | 2 | 234 |
-| 22 | Ajay Odedra | 1 | 233 |
+| 22 | Ajay Odedra | 1 | 234 |
 | 23 | Thiago Holanda | 1 | 218 |
 | 24 | Daniel Hollick | 1 | 206 |
 | 25 | Dmitry Novikov | 1 | 204 |

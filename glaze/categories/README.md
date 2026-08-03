@@ -6,7 +6,7 @@
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Productivity](./productivity/README.md) | 506 | 6,170 |
+| [Productivity](./productivity/README.md) | 506 | 6,171 |
 
 ## Development
 
@@ -18,7 +18,7 @@
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Utilities](./utilities/README.md) | 388 | 6,146 |
+| [Utilities](./utilities/README.md) | 388 | 6,147 |
 
 ## Creative & Media
 

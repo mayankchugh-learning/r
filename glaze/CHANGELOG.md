@@ -4,6 +4,10 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-08-03
 
+**Clipboard View:** version 5.0.0 → 6.0.0
+
+## 2026-08-03
+
 **Added (1):** [Squish](https://www.glaze.app/app/cWRtaY)
 
 **Clipboard View:** version 4.0.0 → 5.0.0

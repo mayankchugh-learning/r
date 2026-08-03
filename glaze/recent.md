@@ -4,8 +4,8 @@ Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
-| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 2026-08-03 | 5.0.0 | 1 | Utilities | Lee Sherman |
-| [Squish](https://www.glaze.app/app/cWRtaY) | 2026-08-03 | 1.0.0 | 1 | Utilities | Nicholas |
+| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 2026-08-03 | 6.0.0 | 1 | Utilities | Lee Sherman |
+| [Squish](https://www.glaze.app/app/squish-cWRtaY) | 2026-08-03 | 1.0.0 | 1 | Utilities | Nicholas |
 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 2026-08-03 | 1.0.0 | 1 | Productivity | Sam Stephenson |
 | [MDed](https://www.glaze.app/app/6WfoWC) | 2026-08-03 | 3.0.0 | 3 | Developer Tools | Smart King |
 | [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) | 2026-08-03 | 1.0.0 | 1 | Design | Ryun Li |
@@ -43,7 +43,7 @@ Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
 | [Apptopsy](https://www.glaze.app/app/kWwP7l) | 2026-08-01 | 12.0.0 | 17 | Developer Tools | Pavlo Haidamak |
 | [Scroblytics](https://www.glaze.app/app/Lf9vBU) | 2026-08-01 | 32.0.0 | 14 | Media | thebluch |
 | [Ghosted](https://www.glaze.app/app/h3nZXl) | 2026-08-01 | 9.0.0 | 18 | Productivity | Azlan Ibrahim |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 2026-07-31 | 10.0.0 | 233 | Productivity | Ajay Odedra |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 2026-07-31 | 10.0.0 | 234 | Productivity | Ajay Odedra |
 | [Noted](https://www.glaze.app/app/6gIagm) | 2026-07-31 | 5.0.0 | 11 | Productivity | Yash Kotha |
 | [re:Work](https://www.glaze.app/app/aqeLBX) | 2026-07-31 | 7.0.0 | 8 | Productivity | Benji Schwartz-Gilbert |
 | [Jamal](https://www.glaze.app/app/jamal-JN0yZw) | 2026-07-31 | 1.0.0 | 1 | Productivity | Abdullah Alghamdi |
@@ -62,5 +62,5 @@ Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
 | [Blunder](https://www.glaze.app/app/0dUOLc) | 2026-07-31 | 6.0.0 | 5 | Games & Fun | Francesco Maisano |
 | [Neovim Notes](https://www.glaze.app/app/35eP2I) | 2026-07-31 | 8.0.0 | 3 | Productivity | Daniele Avitabile |
 | [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 2026-07-31 | 16.0.0 | 31 | Developer Tools | Dhruv Suthar |
-| [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 2026-07-31 | 1.0.0 | 1 | Utilities | Volodymyr |
+| [Perly.io](https://www.glaze.app/app/RsLTkW) | 2026-07-31 | 1.0.0 | 1 | Utilities | Volodymyr |
 | [Sleepwalker](https://www.glaze.app/app/Twm2r3) | 2026-07-31 | 2.0.0 | 5 | Utilities | Léo Tuil |

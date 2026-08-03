@@ -19,7 +19,7 @@
 | Niall | 2 | 110 | [Brui](https://www.glaze.app/app/eOPXRV) *(Developer Tools)*, [Concert Log](https://www.glaze.app/app/bBj9yY) *(Lifestyle)* |
 | Nichlas L-D | 1 | 1 | [Brønnøysund Search](https://www.glaze.app/app/YNvNnf) *(Utilities)* |
 | [Nichlas Wærnes Andersen](./id/nichlas-w-rnes-andersen.md) | 5 | 1,047 | [see all 5 →](./id/nichlas-w-rnes-andersen.md) |
-| Nicholas | 2 | 3 | [Crop](https://www.glaze.app/app/lGQeJB) *(Utilities)*, [Squish](https://www.glaze.app/app/cWRtaY) *(Utilities)* |
+| Nicholas | 2 | 3 | [Crop](https://www.glaze.app/app/lGQeJB) *(Utilities)*, [Squish](https://www.glaze.app/app/squish-cWRtaY) *(Utilities)* |
 | Nicholas Lortz | 1 | 2 | [Construction Drawing Tracker](https://www.glaze.app/app/a5cQZS) *(Productivity)* |
 | Nick Hart | 1 | 10 | [SoloTrack](https://www.glaze.app/app/cvMkSD) *(Productivity)* |
 | Nick Linthorne | 1 | 5 | [Simple Countdowns](https://www.glaze.app/app/xUoVkF) *(Productivity)* |

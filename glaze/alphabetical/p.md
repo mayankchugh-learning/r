@@ -9,7 +9,7 @@
 | [Peel](https://www.glaze.app/app/esimhU) | 417 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 340 | Simple project planning | Kristina Loewen | 6.0.0 | 130 KB | 2026-07-05 |
 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 302 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 233 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 234 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 | [ProjectBase](https://www.glaze.app/app/w5CAic) | 47 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 281 KB | 2026-07-29 |
 | [Port Monitor](https://www.glaze.app/app/EEfaTw) | 40 | Track open ports and their apps | Domint | 1.0.0 | 73 KB | 2026-06-29 |
@@ -111,7 +111,7 @@
 | [Pawday](https://www.glaze.app/app/cKmvNk) | 1 | Your pet's daily care, made simple | Ggabric97 | 1.0.0 | 84 KB | 2026-07-25 |
 | [PDF Style](https://www.glaze.app/app/p12USo) | 1 | Edit PDF text with custom styling | Abhishek | 1.0.0 | 712 KB | 2026-07-27 |
 | [Peep](https://www.glaze.app/app/rncFT4) | 1 | Preview contents of archive files | Sean | 1.0.0 | 981 KB | 2026-07-09 |
-| [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 1 | Perly.io | Volodymyr | 1.0.0 | 12.8 MB | 2026-07-31 |
+| [Perly.io](https://www.glaze.app/app/RsLTkW) | 1 | Perly.io | Volodymyr | 1.0.0 | 12.8 MB | 2026-07-31 |
 | [PitchMaster](https://www.glaze.app/app/1aHd47) | 1 | Practice your pitch and speaking skills | Ac0 | 5.0.0 | 321 KB | 2026-07-28 |
 | [Pixelman](https://www.glaze.app/app/BSV0GD) | 1 | Quick Screenshots - That’s it! | slowcrow | 1.0.0 | 70 KB | 2026-07-24 |
 | [Planted](https://www.glaze.app/app/YujFy8) | 1 | Grow what you plant, season after season | Crystal | 1.0.0 | 73 KB | 2026-07-25 |
