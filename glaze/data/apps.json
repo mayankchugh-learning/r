@@ -1,9 +1,9 @@
 {
   "source": "https://www.glaze.app/store",
-  "fetchedAt": "2026-08-03T04:30:23.921Z",
+  "fetchedAt": "2026-08-03T04:36:28.032Z",
   "pagesGeneratedAt": "2026-08-03T04:30:24.524Z",
   "count": 1577,
-  "totalInstalls": 27675,
+  "totalInstalls": 27676,
   "apps": [
     {
       "publicId": "01mB0U",
@@ -6237,10 +6237,10 @@
       "description": "RSS reader where you can drive around in a bagel car.",
       "categorySlug": "media",
       "category": "Media",
-      "installs": 25,
+      "installs": 26,
       "sizeBytes": 9953077,
       "version": "2.0.0",
-      "updatedAt": "2026-08-03 03:00:00.509782+00",
+      "updatedAt": "2026-08-03 04:34:29.217598+00",
       "createdAt": "2026-07-28 07:04:33.726136+00",
       "publishedAt": "2026-07-29T06:48:13.146Z",
       "publisher": "Graeme Fulton",
@@ -33889,7 +33889,7 @@
       "installs": 5,
       "sizeBytes": 75585,
       "version": "3.0.0",
-      "updatedAt": "2026-08-03 00:25:14.566735+00",
+      "updatedAt": "2026-08-03 04:32:34.888344+00",
       "createdAt": "2026-07-01 18:04:04.190667+00",
       "publishedAt": "2026-08-03T00:25:14.663Z",
       "publisher": "John Hunter",
