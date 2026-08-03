@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 622 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 683 KB | 2026-05-26 |
+| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 623 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 683 KB | 2026-05-26 |
 | [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 327 | Explore hotkey systems for Raycast | Alex Antonov | 2.0.0 | 54 KB | 2026-04-17 |
 | [Health Fusion](https://www.glaze.app/app/ikcWiD) | 71 | Your Apple Health & WHOOP data, unified. | Oliver Posselt | 2.0.0 | 226 KB | 2026-04-19 |
 | [Hackerfeed](https://www.glaze.app/app/f22UqI) | 42 | Browse Hacker News stories and comments in a streamlined, distraction-free interface | Michael Nielsen | 2.0.1 | 171 KB | 2026-03-04 |
@@ -14,18 +14,18 @@
 | [Habit Loop](https://www.glaze.app/app/noeGNp) | 16 | Build better habits, one day at a time | Dhruv Suthar | 2.0.0 | 95 KB | 2026-04-27 |
 | [hostit!](https://www.glaze.app/app/pHU2XV) | 15 | Share localhost in one click! | Maddie D. Reese | 2.0.0 | 122 KB | 2026-07-27 |
 | [Hotkey Reference](https://www.glaze.app/app/RDE7aj) | 15 | Hotkeys at your fingertips, anytime | Shearm | 3.0.0 | 57 KB | 2026-06-25 |
+| [Halo](https://www.glaze.app/app/az3PkQ) | 13 | Raycast for your cursor | Akhil Konduru | 33.0.0 | 181 KB | 2026-07-29 |
 | [Harbor](https://www.glaze.app/app/EMF2zu) | 13 | Localhost, under control. | Kamran Abdul Aziz | 4.0.0 | 91 KB | 2026-07-28 |
-| [Halo](https://www.glaze.app/app/az3PkQ) | 12 | Raycast for your cursor | Akhil Konduru | 33.0.0 | 181 KB | 2026-07-29 |
+| [Heatkey](https://www.glaze.app/app/hBTHKN) | 10 | Visualize your keyboard usage patterns | Federico Vitale | 3.0.0 | 220 KB | 2026-07-25 |
 | [Hydrate](https://www.glaze.app/app/BwkTSV) | 10 | Stay hydrated with smart reminders | Ybmontez | 1.0.0 | 65 KB | 2026-07-03 |
-| [Heatkey](https://www.glaze.app/app/hBTHKN) | 9 | Visualize your keyboard usage patterns | Federico Vitale | 3.0.0 | 220 KB | 2026-07-25 |
 | [HyperTray](https://www.glaze.app/app/Ow82ik) | 9 | Your menu bar, on autopilot | Alik | 11.0.0 | 1.0 MB | 2026-07-29 |
 | [Handoff](https://www.glaze.app/app/rIHUKk) | 8 | Your AI work, ready for review. | Youssef Toufik | 1.0.0 | 105 KB | 2026-07-26 |
 | [HideIt!](https://www.glaze.app/app/aE8kQR) | 8 | Hide apps in your Dock | Mannycast | 1.0.0 | 63 KB | 2026-07-18 |
 | [HomeSky](https://www.glaze.app/app/XYuB6Z) | 8 | Personal weather at a glance | Mannycast | 7.0.0 | 82 KB | 2026-07-27 |
 | [Hue Notch](https://www.glaze.app/app/cCJXJ7) | 8 | Pick colors with intuitive notch control | Dexter Morgan | 1.0.0 | 66 KB | 2026-07-06 |
+| [Halo](https://www.glaze.app/app/halo-JuaORD) | 6 | Good pauses throughout the work day | Philip Dren | 3.0.0 | 49 KB | 2026-08-03 |
 | [Harbor](https://www.glaze.app/app/BeFnak) | 6 | Fast media downloads, every time | Tanzir Rahman | 2.0.0 | 79 KB | 2026-07-22 |
 | [Hold](https://www.glaze.app/app/GvHeQR) | 6 | Hold your place. Pick up where you left | Samuel Monteiro | 2.0.0 | 133 KB | 2026-07-31 |
-| [Halo](https://www.glaze.app/app/halo-JuaORD) | 5 | Good pauses throughout the work day | Philip Dren | 3.0.0 | 49 KB | 2026-08-03 |
 | [Handy Tools](https://www.glaze.app/app/AcZqw2) | 5 | Format, convert, and debug code fast | Devzstudio | 1.0.0 | 1.6 MB | 2026-07-04 |
 | [Hotstar Floater](https://www.glaze.app/app/nKcxtD) | 5 | Watch live streams while you multitask | Prakhar Shekhar Parthasarthi | 1.0.0 | 53 KB | 2026-07-04 |
 | [HyperFlow](https://www.glaze.app/app/eRwCvu) | 5 | Master your focus, guard your energy | WebSmith | 11.0.0 | 1.1 MB | 2026-08-01 |

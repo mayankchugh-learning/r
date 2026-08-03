@@ -1,12 +1,12 @@
 # Samuel Kraft
 
-7 apps · 1,099 installs · [← publishers](../README.md)
+7 apps · 1,100 installs · [← publishers](../README.md)
 
 ## Media (4)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ray.fm](https://www.glaze.app/app/Af8oi9) | 843 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
+| [ray.fm](https://www.glaze.app/app/Af8oi9) | 844 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
 | [Funky Mirror](https://www.glaze.app/app/yHoT78) | 135 | Apply fun filters to your webcam | Samuel Kraft | 1.0.0 | 12.8 MB | 2026-05-12 |
 | [Monochrome](https://www.glaze.app/app/mE6ebz) | 19 | Take black and white photos | Samuel Kraft | 1.0.1 | 138 KB | 2026-03-04 |
 | [Swedish Radio](https://www.glaze.app/app/FZXOj3) | 8 | Stream Swedish radio from your menu bar | Samuel Kraft | 3.0.0 | 45 KB | 2026-06-05 |

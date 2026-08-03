@@ -9,7 +9,7 @@
 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 859 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 218 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 105 KB | 2026-04-15 |
 | [Arnie](https://www.glaze.app/app/tqkV16) | 60 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 182 KB | 2026-06-30 |
-| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 56 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 143 KB | 2026-07-28 |
+| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 57 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 143 KB | 2026-07-28 |
 | [AI Models Database](https://www.glaze.app/app/VzvbvJ) | 43 | Browse AI Models, Providers, and Labs | alexi.build | 5.0.0 | 64 KB | 2026-07-11 |
 | [ASCII Capture](https://www.glaze.app/app/KxyppG) | 37 | Convert photos into customizable ASCII art and export as images or SVG for web use | Yassine A | 1.0.1 | 211 KB | 2026-03-25 |
 | [ACE](https://www.glaze.app/app/97rUBQ) | 33 | Teleprompter with live speaking support | Danial Siddiki | 3.0.0 | 6.9 MB | 2026-07-29 |

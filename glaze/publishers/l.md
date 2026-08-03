@@ -20,7 +20,7 @@
 | Léo Tuil | 2 | 8 | [Sleepwalker](https://www.glaze.app/app/Twm2r3) *(Utilities)*, [Thermal Monitor](https://www.glaze.app/app/d8QTlA) *(Utilities)* |
 | Leonidas Fragkioudakis | 1 | 5 | [Wishlist](https://www.glaze.app/app/bdkrvX) *(Productivity)* |
 | Lertad Supadhiloke | 1 | 12 | [TOM.FM](https://www.glaze.app/app/M7kFKo) *(Media)* |
-| lexav | 2 | 157 | [The Dock](https://www.glaze.app/app/the-dock-u2upth) *(Utilities)*, [Tiny Timer](https://www.glaze.app/app/e0Dbb6) *(Productivity)* |
+| lexav | 2 | 158 | [The Dock](https://www.glaze.app/app/the-dock-u2upth) *(Utilities)*, [Tiny Timer](https://www.glaze.app/app/e0Dbb6) *(Productivity)* |
 | Li Jin | 1 | 9 | [Lucky Spin](https://www.glaze.app/app/2ihORJ) *(Games & Fun)* |
 | Liam Merlyn | 2 | 9 | [Clientworth](https://www.glaze.app/app/81XlgQ) *(Productivity)*, [TypeScale](https://www.glaze.app/app/d6x4u2) *(Developer Tools)* |
 | Liam Moore | 1 | 5 | [Arbor](https://www.glaze.app/app/Z2nW2k) *(Games & Fun)* |

@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 276 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
+| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 277 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
 | [Floating Youtube](https://www.glaze.app/app/floating-youtube-JUv9e2) | 227 | Floating Youtube video player | David Ferguson | 2.0.0 | 60 KB | 2026-07-26 |
 | [Image Sequencer](https://www.glaze.app/app/IxkyCn) | 72 | Create animations from image sequences. | Nichlas Wærnes Andersen | 14.0.0 | 57 KB | 2026-04-25 |
 | [Capture Studio](https://www.glaze.app/app/0c5CW4) | 19 | Simple screen recording for creators. | Philipp.Herzig | 1.0.0 | 68 KB | 2026-06-27 |

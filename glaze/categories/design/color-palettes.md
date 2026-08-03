@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 299 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 301 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 460 KB | 2026-07-28 |
 | [Gradient Wallpaper](https://www.glaze.app/app/AJuY62) | 33 | Custom gradients for every screen | Adam Molina | 1.0.0 | 54 KB | 2026-05-08 |
 | [DITHERMINT](https://www.glaze.app/app/C5rwqe) | 22 | YOUR 1 BIT ART STUDIO | Jac Peregrine-Davies | 2.0.0 | 362 KB | 2026-06-03 |

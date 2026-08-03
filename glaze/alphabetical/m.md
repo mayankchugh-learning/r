@@ -7,12 +7,12 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 711 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 111 KB | 2026-04-15 |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 299 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 301 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) | 200 | Convert Markdown to Slack messages fast | Petr Nikolaev | 4.0.0 | 617 KB | 2026-04-17 |
 | [Mia Calendar](https://www.glaze.app/app/N2NgPq) | 188 | Plan your days with your own handwriting | Daniela Muntyan | 13.0.0 | 3.3 MB | 2026-07-27 |
-| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 114 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
+| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 115 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
 | [MicCheck](https://www.glaze.app/app/miccheck-TRFqOJ) | 105 | Never miss a muted mic again | Justin Lancaster | 2.0.0 | 65 KB | 2026-07-17 |
-| [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) | 87 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
+| [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) | 91 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
 | [macHealth](https://www.glaze.app/app/C9jYcO) | 81 | Find out why your Mac is slow, instantly | gowhith kanisetty | 1.0.0 | 179 KB | 2026-05-11 |
 | [Magnify](https://www.glaze.app/app/magnify-YWP3Aj) | 52 | Zoom in on any image detail, then save | Jordan Amblin | 4.0.0 | 48 KB | 2026-04-15 |
 | [Moni](https://www.glaze.app/app/BDcrao) | 47 | Track your spending. Set budgets. See where your money goes. Import CSV bank statements or add transactions manually. No bank connection required. Op… | Kristina Loewen | 10.0.1 | 4.1 MB | 2026-04-09 |

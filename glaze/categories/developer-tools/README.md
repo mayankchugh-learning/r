@@ -1,13 +1,13 @@
 # Developer Tools
 
-314 apps · 7,665 installs · [← all categories](../README.md)
+314 apps · 7,667 installs · [← all categories](../README.md)
 
 ## Code & Collaboration
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [Git & Repositories](./git-repositories/README.md) | 35 | 1,332 |
-| [Docs & Reference](./docs-reference.md) | 13 | 168 |
+| [Docs & Reference](./docs-reference.md) | 13 | 169 |
 | [Testing & Quality](./testing-quality.md) | 4 | 8 |
 
 ## Build & Run

@@ -25,7 +25,7 @@
 | Sam.Minton | 1 | 28 | [Moodboard](https://www.glaze.app/app/0LJlsa) *(Design)* |
 | Sambit Biswas | 1 | 12 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) *(Design)* |
 | Samet Özkale | 1 | 2 | [Habit Periods](https://www.glaze.app/app/133jtm) *(Productivity)* |
-| [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,099 | [see all 7 →](./id/samuel-kraft.md) |
+| [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,100 | [see all 7 →](./id/samuel-kraft.md) |
 | Samuel Lee | 1 | 15 | [Ludus](https://www.glaze.app/app/4RDpwn) *(Productivity)* |
 | Samuel Monteiro | 1 | 6 | [Hold](https://www.glaze.app/app/GvHeQR) *(Productivity)* |
 | Sander Schat | 1 | 4 | [Local Server](https://www.glaze.app/app/Lk3DCH) *(Developer Tools)* |

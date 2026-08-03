@@ -36,13 +36,13 @@
 | Ahmet Güler | 1 | 11 | [Darkroom Studio](https://www.glaze.app/app/5aumRY) *(Media)* |
 | AI4Marketing | 1 | 0 | [AI4Marketing.cz](https://www.glaze.app/app/L82rD4) *(Productivity)* |
 | AJ Batac | 1 | 5 | [Kulay (Color)](https://www.glaze.app/app/bbzPPl) *(Design)* |
-| Ajay Odedra | 1 | 240 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
+| Ajay Odedra | 1 | 244 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) *(Productivity)* |
 | ajnart | 1 | 14 | [Wheel Launcher](https://www.glaze.app/app/SmYxn5) *(Productivity)* |
 | Ak Deepankar | 1 | 9 | [Mac Flow](https://www.glaze.app/app/FKfVNE) *(Design)* |
 | Akanbi Toheeb | 1 | 4 | [Cehua](https://www.glaze.app/app/osrdrz) *(Developer Tools)* |
 | Akash Mondal | 1 | 6 | [Volt](https://www.glaze.app/app/XJ2B5x) *(Utilities)* |
 | Akhil K Thomas | 1 | 7 | [Thooval](https://www.glaze.app/app/Uorrjg) *(Productivity)* |
-| Akhil Konduru | 2 | 21 | [Halo](https://www.glaze.app/app/az3PkQ) *(Utilities)*, [Tempo](https://www.glaze.app/app/1m4pLi) *(Productivity)* |
+| Akhil Konduru | 2 | 22 | [Halo](https://www.glaze.app/app/az3PkQ) *(Utilities)*, [Tempo](https://www.glaze.app/app/1m4pLi) *(Productivity)* |
 | Akhil Theerthala | 1 | 4 | [Do, Did, Done](https://www.glaze.app/app/QB45LB) *(Productivity)* |
 | Akonwi Ngoh | 1 | 3 | [PR Dashboard](https://www.glaze.app/app/hxs3K2) *(Developer Tools)* |
 | Akshara Hegde | 3 | 15 | [Wolog](https://www.glaze.app/app/bDdnf8) *(Productivity)*, [Monochrome](https://www.glaze.app/app/pVnMBs) *(Media)*, [NetRunway](https://www.glaze.app/app/xitP8w) *(Utilities)* |
@@ -82,14 +82,14 @@
 | André Marques | 1 | 2 | [Karabiner Commander](https://www.glaze.app/app/karabiner-commander-5ovsm5) *(Developer Tools)* |
 | Andre Martins | 1 | 3 | [TaxNomad](https://www.glaze.app/app/XmV8Yu) *(Utilities)* |
 | Andre N. | 1 | 14 | [Mori](https://www.glaze.app/app/2R9BrO) *(Productivity)* |
-| André Pinto | 1 | 114 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) *(Media)* |
+| André Pinto | 1 | 115 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) *(Media)* |
 | Andre Yamazaki | 2 | 10 | [PDF to Image](https://www.glaze.app/app/s38kIA) *(Utilities)*, [Label Converter](https://www.glaze.app/app/m67Wr2) *(Utilities)* |
 | Andrea Cipriani | 1 | 25 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) *(Productivity)* |
 | Andrea Montinovo | 1 | 9 | [Download Time Calculator](https://www.glaze.app/app/PeVPLM) *(Utilities)* |
 | Andreas Elia | 3 | 37 | [Word Guesser](https://www.glaze.app/app/nAsjJi) *(Games & Fun)*, [Underground Driver](https://www.glaze.app/app/sLCDOf) *(Games & Fun)*, [Word Connections](https://www.glaze.app/app/Xt8TcC) *(Games & Fun)* |
 | Andreas Persson | 2 | 12 | [all the ports](https://www.glaze.app/app/aDVzGP) *(Developer Tools)*, [AuthReach](https://www.glaze.app/app/gT8Mjv) *(Utilities)* |
 | Andrei Muntean | 1 | 5 | [Knob](https://www.glaze.app/app/ah13w5) *(Utilities)* |
-| Andrew Bondarenko | 1 | 58 | [One Note](https://www.glaze.app/app/one-note-DhbXQo) *(Productivity)* |
+| Andrew Bondarenko | 1 | 61 | [One Note](https://www.glaze.app/app/one-note-DhbXQo) *(Productivity)* |
 | Andrew Kerr | 1 | 6 | [Pixel Measure](https://www.glaze.app/app/g3fVjP) *(Developer Tools)* |
 | Andrew Lindstrom | 1 | 11 | [Copy That](https://www.glaze.app/app/QYtGUY) *(Utilities)* |
 | Andrew Schreiber | 1 | 8 | [SpeedTester](https://www.glaze.app/app/VQqxHM) *(Utilities)* |

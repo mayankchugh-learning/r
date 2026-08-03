@@ -33,8 +33,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ray.fm](https://www.glaze.app/app/Af8oi9) | 843 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 114 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
+| [ray.fm](https://www.glaze.app/app/Af8oi9) | 844 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
+| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 115 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
 | [Meander](https://www.glaze.app/app/QWCebM) | 16 | Lo-fi groove improv on the trackpad | Alin Panaitiu | 5.0.0 | 248 KB | 2026-07-29 |
 | [Scroblytics](https://www.glaze.app/app/Lf9vBU) | 14 | Visualize your Last.fm Scrobbles | thebluch | 32.0.0 | 381 KB | 2026-08-01 |
 | [Chord Forge](https://www.glaze.app/app/vMN18E) | 9 | Create chord progressions instantly. | Bruno Totoro | 4.0.0 | 73 KB | 2026-07-17 |

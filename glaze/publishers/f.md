@@ -12,7 +12,7 @@
 | Favour Olaboye | 1 | 5 | [Shoebox](https://www.glaze.app/app/fZLDUl) *(Productivity)* |
 | Fayaz Ahmed | 1 | 14 | [Flaremail](https://www.glaze.app/app/hB2ADe) *(Developer Tools)* |
 | Fe9lix 084c | 1 | 14 | [Buckets](https://www.glaze.app/app/KbGT5M) *(Developer Tools)* |
-| Federico Vitale | 1 | 9 | [Heatkey](https://www.glaze.app/app/hBTHKN) *(Developer Tools)* |
+| Federico Vitale | 1 | 10 | [Heatkey](https://www.glaze.app/app/hBTHKN) *(Developer Tools)* |
 | Federico Zivolo | 1 | 2 | [Dataset Forge](https://www.glaze.app/app/rq6e5C) *(Developer Tools)* |
 | Felipe de Castro Kondo | 1 | 3 | [Dice Roll](https://www.glaze.app/app/5cmQqo) *(Games & Fun)* |
 | Felix | 2 | 16 | [Disk Diag](https://www.glaze.app/app/E11IfY) *(Utilities)*, [MeetingBrain](https://www.glaze.app/app/4OWfTA) *(Productivity)* |
@@ -28,7 +28,7 @@
 | Flo | 1 | 26 | [Skill Map](https://www.glaze.app/app/CMgPDh) *(Developer Tools)* |
 | Florentin Eckl | 1 | 13 | [Recommand](https://www.glaze.app/app/ZDQIep) *(Productivity)* |
 | Florian.Mascaro | 1 | 9 | [Image Lighter](https://www.glaze.app/app/BxZAHu) *(Developer Tools)* |
-| fra.raw | 1 | 71 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
+| fra.raw | 1 | 72 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
 | Frajjco | 1 | 1 | [Outfit of the Day](https://www.glaze.app/app/dcpdLg) *(Lifestyle)* |
 | Frame City | 1 | 0 | [Pomodoro Focus](https://www.glaze.app/app/C7Sc4O) *(Productivity)* |
 | Francesco Maisano | 1 | 5 | [Blunder](https://www.glaze.app/app/0dUOLc) *(Games & Fun)* |

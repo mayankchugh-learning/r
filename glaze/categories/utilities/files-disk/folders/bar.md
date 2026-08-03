@@ -11,7 +11,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Drop2Markdown](https://www.glaze.app/app/E8OW9Q) | 34 | Drop anything. Get Markdown. | Oliver Posselt | 3.0.0 | 96.3 MB | 2026-04-20 |
-| [Halo](https://www.glaze.app/app/az3PkQ) | 12 | Raycast for your cursor | Akhil Konduru | 33.0.0 | 181 KB | 2026-07-29 |
+| [Halo](https://www.glaze.app/app/az3PkQ) | 13 | Raycast for your cursor | Akhil Konduru | 33.0.0 | 181 KB | 2026-07-29 |
 | [Clippr](https://www.glaze.app/app/SqP3g5) | 8 | Capture screenshots and text | Precontation | 4.0.0 | 42 KB | 2026-07-10 |
 | [Findle](https://www.glaze.app/app/t3xcsJ) | 8 | Skip Finder, move files faster. | Etienne Idoux | 4.0.0 | 57 KB | 2026-07-27 |
 | [LogicVoice](https://www.glaze.app/app/uWbUe9) | 7 | Just Say it - Voice + Dictation for Mac. | DARREN BERICH | 1.0.0 | 55 KB | 2026-07-04 |

@@ -11,7 +11,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Strudel Studio](https://www.glaze.app/app/HCgGlV) | 19 | Make music by writing code in real time | Vitaly Veber | 1.0.0 | 424 KB | 2026-07-01 |
-| [Heatkey](https://www.glaze.app/app/hBTHKN) | 9 | Visualize your keyboard usage patterns | Federico Vitale | 3.0.0 | 220 KB | 2026-07-25 |
+| [Heatkey](https://www.glaze.app/app/hBTHKN) | 10 | Visualize your keyboard usage patterns | Federico Vitale | 3.0.0 | 220 KB | 2026-07-25 |
 | [CompareMe](https://www.glaze.app/app/X2Kdbe) | 3 | Spot what changed between files fast | Adi Goldstein | 2.0.0 | 1.6 MB | 2026-07-27 |
 | [Cookie scanner](https://www.glaze.app/app/nLD8Qi) | 3 | Scan websites for hidden trackers | Aaresvic | 3.0.0 | 72 KB | 2026-07-04 |
 | [Meta Inspector](https://www.glaze.app/app/bjRu3f) | 3 | Extract and display Open Graph metadata | Yiwei Ho | 1.0.0 | 77 KB | 2026-07-26 |

@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 622 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 683 KB | 2026-05-26 |
+| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 623 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 683 KB | 2026-05-26 |
 | [Markdown Reader](https://www.glaze.app/app/iG1HzP) | 20 | Read and edit markdown, instantly | Bilal | 1.0.0 | 372 KB | 2026-07-13 |
 | [Plasmid Designer](https://www.glaze.app/app/6EkLmL) | 5 | Design and construct plasmids by easily copying and arranging genetic sequences | João Neves | 1.0.1 | 269 KB | 2026-03-26 |
 | [Cyber Toolkit](https://www.glaze.app/app/WsncJp) | 4 | Security and coding tools in one place | Lorenzo Fazioli | 1.0.0 | 69 KB | 2026-07-05 |

@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**1,578** apps · **7** categories · **1,166** publishers · **27,743** installs · **2.67 GB** total, median **83 KB**
+**1,578** apps · **7** categories · **1,166** publishers · **27,774** installs · **2.67 GB** total, median **83 KB**
 
 ## Browse
 
@@ -20,11 +20,11 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Section | Categories | Apps | Installs |
 | --- | --- | --- | --- |
-| Work & Productivity | Productivity | 507 | 6,204 |
-| Development | Developer Tools | 314 | 7,665 |
-| System & Utilities | Utilities | 389 | 6,156 |
-| Creative & Media | Design, Media | 228 | 6,502 |
-| Life & Play | Lifestyle, Games & Fun | 140 | 1,216 |
+| Work & Productivity | Productivity | 507 | 6,222 |
+| Development | Developer Tools | 314 | 7,667 |
+| System & Utilities | Utilities | 389 | 6,159 |
+| Creative & Media | Design, Media | 228 | 6,508 |
+| Life & Play | Lifestyle, Games & Fun | 140 | 1,218 |
 
 ## Most installed
 
@@ -33,9 +33,9 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | 1 | [World Cup 2026](https://www.glaze.app/app/PtePF9) | 1,468 | Media | Thomas Paul Mann |
 | 2 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 859 | Developer Tools | alexi.build |
 | 3 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 852 | Developer Tools | Boufford |
-| 4 | [ray.fm](https://www.glaze.app/app/Af8oi9) | 843 | Media | Samuel Kraft |
+| 4 | [ray.fm](https://www.glaze.app/app/Af8oi9) | 844 | Media | Samuel Kraft |
 | 5 | [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 711 | Developer Tools | Nichlas Wærnes Andersen |
-| 6 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 622 | Developer Tools | Thomas Paul Mann |
+| 6 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 623 | Developer Tools | Thomas Paul Mann |
 | 7 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 491 | Utilities | Jordan Amblin |
 | 8 | [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 446 | Utilities | Thomas Paul Mann |
 | 9 | [Peel](https://www.glaze.app/app/esimhU) | 417 | Utilities | Thomas Paul Mann |

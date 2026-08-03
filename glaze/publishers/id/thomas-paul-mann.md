@@ -1,6 +1,6 @@
 # Thomas Paul Mann
 
-12 apps · 3,437 installs · [← publishers](../README.md)
+12 apps · 3,438 installs · [← publishers](../README.md)
 
 ## Media (1)
 
@@ -20,7 +20,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 622 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 683 KB | 2026-05-26 |
+| [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 623 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 683 KB | 2026-05-26 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 
 ## Design (2)

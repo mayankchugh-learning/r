@@ -40,7 +40,7 @@
 | David Wunderlich | 1 | 2 | [Meals Planned](https://www.glaze.app/app/xf67yI) *(Productivity)* |
 | David.Tannenbaum | 1 | 1 | [Indivisible](https://www.glaze.app/app/NNLHgC) *(Utilities)* |
 | Davide | 1 | 8 | [Angry Draft](https://www.glaze.app/app/MV5O0a) *(Productivity)* |
-| [Davidestevens](./id/davidestevens.md) | 6 | 8 | [see all 6 →](./id/davidestevens.md) |
+| [Davidestevens](./id/davidestevens.md) | 6 | 9 | [see all 6 →](./id/davidestevens.md) |
 | Davidleininger | 1 | 7 | [Media Smasher](https://www.glaze.app/app/H9eEba) *(Utilities)* |
 | Davos639 | 1 | 3 | [sums](https://www.glaze.app/app/vycKjG) *(Utilities)* |
 | Debarshee Chakraborty | 1 | 9 | [System Status](https://www.glaze.app/app/PCutQu) *(Utilities)* |
@@ -70,7 +70,7 @@
 | Dipanjan Roy | 1 | 3 | [Notex](https://www.glaze.app/app/gR2sUk) *(Productivity)* |
 | discountry | 1 | 4 | [MenuTune](https://www.glaze.app/app/dg8YWS) *(Media)* |
 | Dmitrii Verv | 1 | 4 | [Meanwhile](https://www.glaze.app/app/u3xmpq) *(Productivity)* |
-| Dmitry Novikov | 1 | 205 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
+| Dmitry Novikov | 1 | 206 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
 | [Dmytro Lobov](./id/dmytro-lobov.md) | 17 | 84 | [see all 17 →](./id/dmytro-lobov.md) |
 | Dmytro Shevchenko | 1 | 2 | [DoseTail](https://www.glaze.app/app/malQjQ) *(Utilities)* |
 | Dominik Keller | 1 | 9 | [Cache](https://www.glaze.app/app/kBv5VM) *(Productivity)* |
