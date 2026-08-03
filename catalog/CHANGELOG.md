@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `1c99f0210c`
+
+**Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)
+
 ## 2026-08-03 — upstream `d87087b962`
 
 **Added (1):** [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine)
