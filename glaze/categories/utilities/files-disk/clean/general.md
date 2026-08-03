@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Clean My Ray](https://www.glaze.app/app/jPQsxk) | 34 | Optimize macOS performance and system | Randy | 1.0.0 | 86 KB | 2026-07-04 |
 | [QR Studio](https://www.glaze.app/app/2uEgRy) | 30 | Create clean QR codes using a variety of themes and customisation. Store them in the app and access at any time. | Rory Killingley | 3.0.1 | 388 KB | 2026-04-03 |
-| [ClockScreen](https://www.glaze.app/app/x4d5qo) | 19 | Your Mac's display, reimagined your way | Will Fischer | 13.0.0 | 629 KB | 2026-07-28 |
+| [ClockScreen](https://www.glaze.app/app/x4d5qo) | 20 | Your Mac's display, reimagined your way | Will Fischer | 13.0.0 | 629 KB | 2026-07-28 |
 | [App Library](https://www.glaze.app/app/EeU4Tr) | 18 | Organize, filter, and manage macOS apps | Bourne jason | 1.0.0 | 69 KB | 2026-07-02 |
 | [Metadata Cleaner](https://www.glaze.app/app/cIfs1T) | 7 | Remove metadata from files and images | M | 3.0.0 | 61 KB | 2026-07-03 |
 | [Power goes where](https://www.glaze.app/app/yjzo2s) | 7 | Monitor your Mac's power draw | violetpurpleish | 3.0.0 | 71 KB | 2026-07-18 |

@@ -31,7 +31,7 @@
 | [Image Joiner](https://www.glaze.app/app/PQbrzf) | 2 | Combine images automatically | Bowen Winter | 2.0.0 | 67 KB | 2026-07-04 |
 | [Exposure](https://www.glaze.app/app/TV1xcx) | 1 | Batch edit photos without slowing down | Colin DiCarlo | 1.0.0 | 8.1 MB | 2026-06-21 |
 | [Sift](https://www.glaze.app/app/FiPFKv) | 1 | Select the signal. Sift the system. | Damilolamustaphaa | 1.0.0 | 72 KB | 2026-07-28 |
+| [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) | 1 | Protect photos with custom watermarks | Ryun Li | 1.0.0 | 59 KB | 2026-08-03 |
 | [Color Magnifi](https://www.glaze.app/app/x1Q3OS) | 0 | Pick any color, use it instantly. | Adi Goldstein | 1.0.0 | 62 KB | 2026-07-27 |
 | [Frame Align](https://www.glaze.app/app/tyb1g9) | 0 | Prepare and align animation frames | Andrey Zertsalov | 1.0.0 | 73 KB | 2026-07-27 |
 | [GlyphCraft](https://www.glaze.app/app/j4lgVt) | 0 | ASCII Image Customization | Austin Soares | 1.0.0 | 66 KB | 2026-07-30 |
-| [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) | 0 | Protect photos with custom watermarks | Ryun Li | 1.0.0 | 59 KB | 2026-08-03 |

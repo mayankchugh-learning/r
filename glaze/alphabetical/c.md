@@ -23,11 +23,11 @@
 | [Cleanup](https://www.glaze.app/app/ZeU0rI) | 26 | Scan, sort and cleanup your files | Benjy.desprets | 5.0.1 | 630 KB | 2026-03-26 |
 | [Compresso](https://www.glaze.app/app/PvRxIA) | 22 | Shrink images and GIFs fast | Jac Peregrine-Davies | 4.0.0 | 44 KB | 2026-04-13 |
 | [Convert](https://www.glaze.app/app/lSbAX2) | 21 | Instantly convert any files, any format | Sahil Patel | 1.0.0 | 176.8 MB | 2026-07-09 |
+| [ClockScreen](https://www.glaze.app/app/x4d5qo) | 20 | Your Mac's display, reimagined your way | Will Fischer | 13.0.0 | 629 KB | 2026-07-28 |
 | [Capture Studio](https://www.glaze.app/app/0c5CW4) | 19 | Simple screen recording for creators. | Philipp.Herzig | 1.0.0 | 68 KB | 2026-06-27 |
 | [Claude Monitor](https://www.glaze.app/app/bdjdQb) | 19 | Track Claude API usage in real time | Jon Martin Stuberg | 1.0.0 | 62 KB | 2026-07-10 |
 | [Claudelog](https://www.glaze.app/app/3pBqWZ) | 19 | Harness your Claude Code sessions | Josh Davenport-Smith | 4.0.0 | 136 KB | 2026-07-27 |
 | [CLIP IT](https://www.glaze.app/app/IhoT2V) | 19 | Record your screen. Ship it polished. | neromtoobad | 10.0.0 | 15.1 MB | 2026-07-27 |
-| [ClockScreen](https://www.glaze.app/app/x4d5qo) | 19 | Your Mac's display, reimagined your way | Will Fischer | 13.0.0 | 629 KB | 2026-07-28 |
 | [Cloudflare Drop](https://www.glaze.app/app/a6H1CL) | 19 | Share files instantly with Cloudflare | Brandon Strittmatter | 2.0.0 | 490 KB | 2026-07-14 |
 | [Crate](https://www.glaze.app/app/BZS01f) | 19 | Your analog collection, organized | Vladislav Volkhonskii | 3.0.0 | 597 KB | 2026-07-07 |
 | [Cling](https://www.glaze.app/app/akdslE) | 18 | Sticky notes that actually stick | Denis Ljubimov | 2.0.0 | 277 KB | 2026-07-30 |
@@ -144,7 +144,7 @@
 | [ClearCall](https://www.glaze.app/app/uhHWh8) | 1 | Enhance call audio in real time | Cezar | 1.0.0 | 190 KB | 2026-07-27 |
 | [ClipBins](https://www.glaze.app/app/JBkMkO) | 1 | Organized clipboard items for macOS | Icha Victory | 1.0.0 | 75 KB | 2026-07-26 |
 | [Clipboard Share](https://www.glaze.app/app/eelDDd) | 1 | Share clipboard content as public | Peter Theill | 1.0.0 | 58 KB | 2026-07-06 |
-| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 4.0.0 | 72 KB | 2026-08-03 |
+| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 5.0.0 | 72 KB | 2026-08-03 |
 | [Command Runner](https://www.glaze.app/app/oQOwCc) | 1 | Run scripts anywhere, instantly | S.Peacock | 3.0.0 | 65 KB | 2026-07-28 |
 | [Comply](https://www.glaze.app/app/VrFiB2) | 1 | Automate your SOC2 certification | Shreyans Bhansali | 1.0.0 | 95 KB | 2026-07-27 |
 | [Concert Log](https://www.glaze.app/app/bBj9yY) | 1 | Track and relive your concert memories | Niall | 1.0.0 | 56 KB | 2026-06-15 |

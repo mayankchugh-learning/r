@@ -21,7 +21,7 @@
 | 11 | [Dhruv Suthar](./id/dhruv-suthar.md) | 16 | 479 |
 | 12 | Khalid Hasan Zibon | 1 | 411 |
 | 13 | Combustion Studio | 1 | 401 |
-| 14 | Maya Avendaño | 1 | 396 |
+| 14 | Maya Avendaño | 1 | 397 |
 | 15 | [melvin](./id/melvin.md) | 6 | 357 |
 | 16 | Noman | 2 | 311 |
 | 17 | @zenithquinn | 3 | 285 |
@@ -166,21 +166,21 @@
 | 156 | Bilal | 1 | 20 |
 | 157 | Noah Lloyd | 1 | 20 |
 | 158 | Tan | 1 | 20 |
-| 159 | Ivo Tanev | 3 | 19 |
-| 160 | Ben Smith | 1 | 19 |
-| 161 | Brandon Strittmatter | 1 | 19 |
-| 162 | Christopher Burns | 1 | 19 |
-| 163 | Colm Lenehan | 1 | 19 |
-| 164 | Deepto | 1 | 19 |
-| 165 | J.Taehee | 1 | 19 |
-| 166 | Jon Martin Stuberg | 1 | 19 |
-| 167 | Josh Davenport-Smith | 1 | 19 |
-| 168 | neromtoobad | 1 | 19 |
-| 169 | Unreal | 1 | 19 |
-| 170 | Vapa | 1 | 19 |
-| 171 | Vitaly Veber | 1 | 19 |
-| 172 | Vladislav Volkhonskii | 1 | 19 |
-| 173 | Will Fischer | 1 | 19 |
+| 159 | Will Fischer | 1 | 20 |
+| 160 | Ivo Tanev | 3 | 19 |
+| 161 | Ben Smith | 1 | 19 |
+| 162 | Brandon Strittmatter | 1 | 19 |
+| 163 | Christopher Burns | 1 | 19 |
+| 164 | Colm Lenehan | 1 | 19 |
+| 165 | Deepto | 1 | 19 |
+| 166 | J.Taehee | 1 | 19 |
+| 167 | Jon Martin Stuberg | 1 | 19 |
+| 168 | Josh Davenport-Smith | 1 | 19 |
+| 169 | neromtoobad | 1 | 19 |
+| 170 | Unreal | 1 | 19 |
+| 171 | Vapa | 1 | 19 |
+| 172 | Vitaly Veber | 1 | 19 |
+| 173 | Vladislav Volkhonskii | 1 | 19 |
 | 174 | Rich Washburn | 3 | 18 |
 | 175 | Bruce Makes | 2 | 18 |
 | 176 | Jesse Dugas | 2 | 18 |
@@ -776,193 +776,193 @@
 | 766 | Benjamin Siens | 2 | 3 |
 | 767 | David Sutrin | 2 | 3 |
 | 768 | Kevin | 2 | 3 |
-| 769 | Olavo Parno | 2 | 3 |
-| 770 | Prithav Jha | 2 | 3 |
-| 771 | Sergio DeSoto | 2 | 3 |
-| 772 | Abhishek Meena | 1 | 3 |
-| 773 | Addo Bari | 1 | 3 |
-| 774 | Adrian Luna Diaz | 1 | 3 |
-| 775 | Ahmad Alani | 1 | 3 |
-| 776 | Akonwi Ngoh | 1 | 3 |
-| 777 | Aleksandr Pasevin | 1 | 3 |
-| 778 | Andre Martins | 1 | 3 |
-| 779 | Anthony.verga | 1 | 3 |
-| 780 | Antônio Sérgio Spagnuolo Filho | 1 | 3 |
-| 781 | Artem Pendiurin | 1 | 3 |
-| 782 | Baba | 1 | 3 |
-| 783 | benben | 1 | 3 |
-| 784 | Bhavik Hingu | 1 | 3 |
-| 785 | Byron Rode | 1 | 3 |
-| 786 | Cameron Schroeder | 1 | 3 |
-| 787 | Chin Peerapat | 1 | 3 |
-| 788 | chottodare | 1 | 3 |
-| 789 | Christophe Kafrouni | 1 | 3 |
-| 790 | Colin Butts | 1 | 3 |
-| 791 | D | 1 | 3 |
-| 792 | Daniel Fry | 1 | 3 |
-| 793 | Daniele Avitabile | 1 | 3 |
-| 794 | Danieljgilmore11 | 1 | 3 |
-| 795 | Dankay | 1 | 3 |
-| 796 | Dariusz Sułtanowski | 1 | 3 |
-| 797 | David Dodlek | 1 | 3 |
-| 798 | Davos639 | 1 | 3 |
-| 799 | Deyan Todorov | 1 | 3 |
-| 800 | Diana García | 1 | 3 |
-| 801 | Dipanjan Roy | 1 | 3 |
-| 802 | Dominique Feterman | 1 | 3 |
-| 803 | Don | 1 | 3 |
-| 804 | Drew Grossmann | 1 | 3 |
-| 805 | Eaugum | 1 | 3 |
-| 806 | ecklc | 1 | 3 |
-| 807 | Eduardo Sonnino | 1 | 3 |
-| 808 | EdwardC | 1 | 3 |
-| 809 | Eric McQuesten | 1 | 3 |
-| 810 | Felipe de Castro Kondo | 1 | 3 |
-| 811 | Georg.Trede | 1 | 3 |
-| 812 | Gleb Shalimov | 1 | 3 |
-| 813 | Gomezdn7 | 1 | 3 |
-| 814 | Goran Vukovic | 1 | 3 |
-| 815 | harssha vardan | 1 | 3 |
-| 816 | Hi | 1 | 3 |
-| 817 | Himanshu Jha | 1 | 3 |
-| 818 | Himanshu Rattan | 1 | 3 |
-| 819 | Huakun Shen | 1 | 3 |
-| 820 | Ibrahim Pima | 1 | 3 |
-| 821 | Ilseong Na | 1 | 3 |
-| 822 | Jason Csizmadi | 1 | 3 |
-| 823 | Jeff Augustin | 1 | 3 |
-| 824 | John Stark | 1 | 3 |
-| 825 | Julia | 1 | 3 |
-| 826 | Justin Harris | 1 | 3 |
-| 827 | Kaustav Das Biswas | 1 | 3 |
-| 828 | keith moc | 1 | 3 |
-| 829 | Kinsley Ogunmola | 1 | 3 |
-| 830 | kitrouille | 1 | 3 |
-| 831 | Korhan7992 | 1 | 3 |
-| 832 | Lawrence Millard | 1 | 3 |
-| 833 | Magnus Digitalisering | 1 | 3 |
-| 834 | Mahesh Chambhare | 1 | 3 |
-| 835 | Maicol Oliveira | 1 | 3 |
-| 836 | Manoj Vignesh | 1 | 3 |
-| 837 | Mark Yaasi | 1 | 3 |
-| 838 | Mehmet Kose | 1 | 3 |
-| 839 | miks | 1 | 3 |
-| 840 | Montaser Sawi | 1 | 3 |
-| 841 | Mostafa ElGanzory | 1 | 3 |
-| 842 | Mschaffelder | 1 | 3 |
-| 843 | Naveen | 1 | 3 |
-| 844 | Nihar | 1 | 3 |
-| 845 | Nikki Nguyen | 1 | 3 |
-| 846 | Niklas Hohn | 1 | 3 |
-| 847 | Ololade Stephen | 1 | 3 |
-| 848 | Paulo Duarte | 1 | 3 |
-| 849 | Pavlina Schuster | 1 | 3 |
-| 850 | Peter Kollreider | 1 | 3 |
-| 851 | Pieter Moorman | 1 | 3 |
-| 852 | PlumbRRRRRR | 1 | 3 |
-| 853 | Qredence | 1 | 3 |
-| 854 | Rahul Bakshi | 1 | 3 |
-| 855 | Ravi Madabhushi | 1 | 3 |
-| 856 | Ravi Vasavan | 1 | 3 |
-| 857 | Renier Botha | 1 | 3 |
-| 858 | Rodrigo Rodrigues da Silva | 1 | 3 |
-| 859 | Rpanaitiu | 1 | 3 |
-| 860 | Ruslan | 1 | 3 |
-| 861 | Ry2k | 1 | 3 |
-| 862 | Saif Hussain | 1 | 3 |
-| 863 | Sandipan Kundu | 1 | 3 |
-| 864 | Shajib Bhuiyan | 1 | 3 |
-| 865 | Shawn Roos | 1 | 3 |
-| 866 | Shirakami | 1 | 3 |
-| 867 | Silas Howe | 1 | 3 |
-| 868 | Smart King | 1 | 3 |
-| 869 | Soham Dasgupta | 1 | 3 |
-| 870 | Solomon Adzape | 1 | 3 |
-| 871 | spencersmith.site | 1 | 3 |
-| 872 | Stiven Orlando Triana | 1 | 3 |
-| 873 | Suyash Junnarkar | 1 | 3 |
-| 874 | Thomaspetrie | 1 | 3 |
-| 875 | TomasNoMas | 1 | 3 |
-| 876 | tonoizer | 1 | 3 |
-| 877 | Torsten Bergler | 1 | 3 |
-| 878 | Trevor Hall | 1 | 3 |
-| 879 | Ugo Possenti | 1 | 3 |
-| 880 | Uros Durdevic | 1 | 3 |
-| 881 | Vishwanath Mathpati | 1 | 3 |
-| 882 | Vladislav Markov | 1 | 3 |
-| 883 | Yossi Zahn | 1 | 3 |
-| 884 | Andrey Zertsalov | 2 | 2 |
-| 885 | Cezar | 2 | 2 |
-| 886 | Karim Abdelali | 2 | 2 |
-| 887 | Travis Tang | 2 | 2 |
-| 888 | Ziggy Bornas | 2 | 2 |
-| 889 | Aayush Iyer | 1 | 2 |
-| 890 | Alfonso (Poncho) Aceves | 1 | 2 |
-| 891 | Alfredo Martínez Ramírez | 1 | 2 |
-| 892 | Alireza Sarabchi | 1 | 2 |
-| 893 | Andre Garcia | 1 | 2 |
-| 894 | André Marques | 1 | 2 |
-| 895 | Andrew Woodruff | 1 | 2 |
-| 896 | Andy Nguyen | 1 | 2 |
-| 897 | anish jain | 1 | 2 |
-| 898 | Ariazad Kazanjian | 1 | 2 |
-| 899 | Arlton Lowry | 1 | 2 |
-| 900 | Atharv kumar | 1 | 2 |
-| 901 | Bowen Winter | 1 | 2 |
-| 902 | Brittany Smith | 1 | 2 |
-| 903 | Bryan Reed | 1 | 2 |
-| 904 | Byron Davies | 1 | 2 |
-| 905 | Charlie Day | 1 | 2 |
-| 906 | Chase Broyles | 1 | 2 |
-| 907 | Chris Lacorte | 1 | 2 |
-| 908 | Chris Messina | 1 | 2 |
-| 909 | Cloudy Qin | 1 | 2 |
-| 910 | Colin Begemann | 1 | 2 |
-| 911 | Dany С | 1 | 2 |
-| 912 | David Wunderlich | 1 | 2 |
-| 913 | Dennis Bruijn | 1 | 2 |
-| 914 | DIba | 1 | 2 |
-| 915 | Dmytro Shevchenko | 1 | 2 |
-| 916 | DruxAMB | 1 | 2 |
-| 917 | Eduardo Javier Garcia Lopez | 1 | 2 |
-| 918 | egill smari | 1 | 2 |
-| 919 | EK | 1 | 2 |
-| 920 | Elston Yee | 1 | 2 |
-| 921 | Emir Amanbekov | 1 | 2 |
-| 922 | Ermek Barmashev | 1 | 2 |
-| 923 | Federico Zivolo | 1 | 2 |
-| 924 | fkhwaja | 1 | 2 |
-| 925 | Frank | 1 | 2 |
-| 926 | Frank Olien | 1 | 2 |
-| 927 | Frederic Lierman | 1 | 2 |
-| 928 | Gary Rogers | 1 | 2 |
-| 929 | GGUF | 1 | 2 |
-| 930 | Grant Smith | 1 | 2 |
-| 931 | gumadeiars | 1 | 2 |
-| 932 | H3yfranki3 | 1 | 2 |
-| 933 | Hamza Khan | 1 | 2 |
-| 934 | Hamza Merzic | 1 | 2 |
-| 935 | Haris Sulaiman | 1 | 2 |
-| 936 | hgg end | 1 | 2 |
-| 937 | Jean DOUTRIAUX | 1 | 2 |
-| 938 | Jeff Watson | 1 | 2 |
-| 939 | Jelte Lagendijk | 1 | 2 |
-| 940 | Joeri | 1 | 2 |
-| 941 | Jorge | 1 | 2 |
-| 942 | Ke Xiong | 1 | 2 |
-| 943 | Kyle Gilbert | 1 | 2 |
-| 944 | Leandro Viscome | 1 | 2 |
-| 945 | Lmelerski | 1 | 2 |
-| 946 | LuisAFK | 1 | 2 |
-| 947 | Majesticwalrusz | 1 | 2 |
-| 948 | MajorLaser | 1 | 2 |
-| 949 | Masudur Rahman | 1 | 2 |
-| 950 | mcfoton | 1 | 2 |
-| 951 | Mohammad Nabhan | 1 | 2 |
-| 952 | Montoya | 1 | 2 |
-| 953 | Mr. S | 1 | 2 |
-| 954 | Nelson Mendes | 1 | 2 |
-| 955 | Nicholas | 1 | 2 |
+| 769 | Nicholas | 2 | 3 |
+| 770 | Olavo Parno | 2 | 3 |
+| 771 | Prithav Jha | 2 | 3 |
+| 772 | Sergio DeSoto | 2 | 3 |
+| 773 | Abhishek Meena | 1 | 3 |
+| 774 | Addo Bari | 1 | 3 |
+| 775 | Adrian Luna Diaz | 1 | 3 |
+| 776 | Ahmad Alani | 1 | 3 |
+| 777 | Akonwi Ngoh | 1 | 3 |
+| 778 | Aleksandr Pasevin | 1 | 3 |
+| 779 | Andre Martins | 1 | 3 |
+| 780 | Anthony.verga | 1 | 3 |
+| 781 | Antônio Sérgio Spagnuolo Filho | 1 | 3 |
+| 782 | Artem Pendiurin | 1 | 3 |
+| 783 | Baba | 1 | 3 |
+| 784 | benben | 1 | 3 |
+| 785 | Bhavik Hingu | 1 | 3 |
+| 786 | Byron Rode | 1 | 3 |
+| 787 | Cameron Schroeder | 1 | 3 |
+| 788 | Chin Peerapat | 1 | 3 |
+| 789 | chottodare | 1 | 3 |
+| 790 | Christophe Kafrouni | 1 | 3 |
+| 791 | Colin Butts | 1 | 3 |
+| 792 | D | 1 | 3 |
+| 793 | Daniel Fry | 1 | 3 |
+| 794 | Daniele Avitabile | 1 | 3 |
+| 795 | Danieljgilmore11 | 1 | 3 |
+| 796 | Dankay | 1 | 3 |
+| 797 | Dariusz Sułtanowski | 1 | 3 |
+| 798 | David Dodlek | 1 | 3 |
+| 799 | Davos639 | 1 | 3 |
+| 800 | Deyan Todorov | 1 | 3 |
+| 801 | Diana García | 1 | 3 |
+| 802 | Dipanjan Roy | 1 | 3 |
+| 803 | Dominique Feterman | 1 | 3 |
+| 804 | Don | 1 | 3 |
+| 805 | Drew Grossmann | 1 | 3 |
+| 806 | Eaugum | 1 | 3 |
+| 807 | ecklc | 1 | 3 |
+| 808 | Eduardo Sonnino | 1 | 3 |
+| 809 | EdwardC | 1 | 3 |
+| 810 | Eric McQuesten | 1 | 3 |
+| 811 | Felipe de Castro Kondo | 1 | 3 |
+| 812 | Georg.Trede | 1 | 3 |
+| 813 | Gleb Shalimov | 1 | 3 |
+| 814 | Gomezdn7 | 1 | 3 |
+| 815 | Goran Vukovic | 1 | 3 |
+| 816 | harssha vardan | 1 | 3 |
+| 817 | Hi | 1 | 3 |
+| 818 | Himanshu Jha | 1 | 3 |
+| 819 | Himanshu Rattan | 1 | 3 |
+| 820 | Huakun Shen | 1 | 3 |
+| 821 | Ibrahim Pima | 1 | 3 |
+| 822 | Ilseong Na | 1 | 3 |
+| 823 | Jason Csizmadi | 1 | 3 |
+| 824 | Jeff Augustin | 1 | 3 |
+| 825 | John Stark | 1 | 3 |
+| 826 | Julia | 1 | 3 |
+| 827 | Justin Harris | 1 | 3 |
+| 828 | Kaustav Das Biswas | 1 | 3 |
+| 829 | keith moc | 1 | 3 |
+| 830 | Kinsley Ogunmola | 1 | 3 |
+| 831 | kitrouille | 1 | 3 |
+| 832 | Korhan7992 | 1 | 3 |
+| 833 | Lawrence Millard | 1 | 3 |
+| 834 | Magnus Digitalisering | 1 | 3 |
+| 835 | Mahesh Chambhare | 1 | 3 |
+| 836 | Maicol Oliveira | 1 | 3 |
+| 837 | Manoj Vignesh | 1 | 3 |
+| 838 | Mark Yaasi | 1 | 3 |
+| 839 | Mehmet Kose | 1 | 3 |
+| 840 | miks | 1 | 3 |
+| 841 | Montaser Sawi | 1 | 3 |
+| 842 | Mostafa ElGanzory | 1 | 3 |
+| 843 | Mschaffelder | 1 | 3 |
+| 844 | Naveen | 1 | 3 |
+| 845 | Nihar | 1 | 3 |
+| 846 | Nikki Nguyen | 1 | 3 |
+| 847 | Niklas Hohn | 1 | 3 |
+| 848 | Ololade Stephen | 1 | 3 |
+| 849 | Paulo Duarte | 1 | 3 |
+| 850 | Pavlina Schuster | 1 | 3 |
+| 851 | Peter Kollreider | 1 | 3 |
+| 852 | Pieter Moorman | 1 | 3 |
+| 853 | PlumbRRRRRR | 1 | 3 |
+| 854 | Qredence | 1 | 3 |
+| 855 | Rahul Bakshi | 1 | 3 |
+| 856 | Ravi Madabhushi | 1 | 3 |
+| 857 | Ravi Vasavan | 1 | 3 |
+| 858 | Renier Botha | 1 | 3 |
+| 859 | Rodrigo Rodrigues da Silva | 1 | 3 |
+| 860 | Rpanaitiu | 1 | 3 |
+| 861 | Ruslan | 1 | 3 |
+| 862 | Ry2k | 1 | 3 |
+| 863 | Saif Hussain | 1 | 3 |
+| 864 | Sandipan Kundu | 1 | 3 |
+| 865 | Shajib Bhuiyan | 1 | 3 |
+| 866 | Shawn Roos | 1 | 3 |
+| 867 | Shirakami | 1 | 3 |
+| 868 | Silas Howe | 1 | 3 |
+| 869 | Smart King | 1 | 3 |
+| 870 | Soham Dasgupta | 1 | 3 |
+| 871 | Solomon Adzape | 1 | 3 |
+| 872 | spencersmith.site | 1 | 3 |
+| 873 | Stiven Orlando Triana | 1 | 3 |
+| 874 | Suyash Junnarkar | 1 | 3 |
+| 875 | Thomaspetrie | 1 | 3 |
+| 876 | TomasNoMas | 1 | 3 |
+| 877 | tonoizer | 1 | 3 |
+| 878 | Torsten Bergler | 1 | 3 |
+| 879 | Trevor Hall | 1 | 3 |
+| 880 | Ugo Possenti | 1 | 3 |
+| 881 | Uros Durdevic | 1 | 3 |
+| 882 | Vishwanath Mathpati | 1 | 3 |
+| 883 | Vladislav Markov | 1 | 3 |
+| 884 | Yossi Zahn | 1 | 3 |
+| 885 | Andrey Zertsalov | 2 | 2 |
+| 886 | Cezar | 2 | 2 |
+| 887 | Karim Abdelali | 2 | 2 |
+| 888 | Travis Tang | 2 | 2 |
+| 889 | Ziggy Bornas | 2 | 2 |
+| 890 | Aayush Iyer | 1 | 2 |
+| 891 | Alfonso (Poncho) Aceves | 1 | 2 |
+| 892 | Alfredo Martínez Ramírez | 1 | 2 |
+| 893 | Alireza Sarabchi | 1 | 2 |
+| 894 | Andre Garcia | 1 | 2 |
+| 895 | André Marques | 1 | 2 |
+| 896 | Andrew Woodruff | 1 | 2 |
+| 897 | Andy Nguyen | 1 | 2 |
+| 898 | anish jain | 1 | 2 |
+| 899 | Ariazad Kazanjian | 1 | 2 |
+| 900 | Arlton Lowry | 1 | 2 |
+| 901 | Atharv kumar | 1 | 2 |
+| 902 | Bowen Winter | 1 | 2 |
+| 903 | Brittany Smith | 1 | 2 |
+| 904 | Bryan Reed | 1 | 2 |
+| 905 | Byron Davies | 1 | 2 |
+| 906 | Charlie Day | 1 | 2 |
+| 907 | Chase Broyles | 1 | 2 |
+| 908 | Chris Lacorte | 1 | 2 |
+| 909 | Chris Messina | 1 | 2 |
+| 910 | Cloudy Qin | 1 | 2 |
+| 911 | Colin Begemann | 1 | 2 |
+| 912 | Dany С | 1 | 2 |
+| 913 | David Wunderlich | 1 | 2 |
+| 914 | Dennis Bruijn | 1 | 2 |
+| 915 | DIba | 1 | 2 |
+| 916 | Dmytro Shevchenko | 1 | 2 |
+| 917 | DruxAMB | 1 | 2 |
+| 918 | Eduardo Javier Garcia Lopez | 1 | 2 |
+| 919 | egill smari | 1 | 2 |
+| 920 | EK | 1 | 2 |
+| 921 | Elston Yee | 1 | 2 |
+| 922 | Emir Amanbekov | 1 | 2 |
+| 923 | Ermek Barmashev | 1 | 2 |
+| 924 | Federico Zivolo | 1 | 2 |
+| 925 | fkhwaja | 1 | 2 |
+| 926 | Frank | 1 | 2 |
+| 927 | Frank Olien | 1 | 2 |
+| 928 | Frederic Lierman | 1 | 2 |
+| 929 | Gary Rogers | 1 | 2 |
+| 930 | GGUF | 1 | 2 |
+| 931 | Grant Smith | 1 | 2 |
+| 932 | gumadeiars | 1 | 2 |
+| 933 | H3yfranki3 | 1 | 2 |
+| 934 | Hamza Khan | 1 | 2 |
+| 935 | Hamza Merzic | 1 | 2 |
+| 936 | Haris Sulaiman | 1 | 2 |
+| 937 | hgg end | 1 | 2 |
+| 938 | Jean DOUTRIAUX | 1 | 2 |
+| 939 | Jeff Watson | 1 | 2 |
+| 940 | Jelte Lagendijk | 1 | 2 |
+| 941 | Joeri | 1 | 2 |
+| 942 | Jorge | 1 | 2 |
+| 943 | Ke Xiong | 1 | 2 |
+| 944 | Kyle Gilbert | 1 | 2 |
+| 945 | Leandro Viscome | 1 | 2 |
+| 946 | Lmelerski | 1 | 2 |
+| 947 | LuisAFK | 1 | 2 |
+| 948 | Majesticwalrusz | 1 | 2 |
+| 949 | MajorLaser | 1 | 2 |
+| 950 | Masudur Rahman | 1 | 2 |
+| 951 | mcfoton | 1 | 2 |
+| 952 | Mohammad Nabhan | 1 | 2 |
+| 953 | Montoya | 1 | 2 |
+| 954 | Mr. S | 1 | 2 |
+| 955 | Nelson Mendes | 1 | 2 |
 | 956 | Nicholas Lortz | 1 | 2 |
 | 957 | OctaneXyz | 1 | 2 |
 | 958 | Okoyeprosper475 | 1 | 2 |
@@ -1084,80 +1084,80 @@
 | 1074 | Robert Adamczewski | 1 | 1 |
 | 1075 | Roman Sv. | 1 | 1 |
 | 1076 | Rui Tang (Rey) | 1 | 1 |
-| 1077 | Sai Bhaskar Devatha | 1 | 1 |
-| 1078 | Sean | 1 | 1 |
-| 1079 | Sebastian Lathangue | 1 | 1 |
-| 1080 | Shaun Trennery | 1 | 1 |
-| 1081 | Shreyans Bhansali | 1 | 1 |
-| 1082 | slowcrow | 1 | 1 |
-| 1083 | Steven Emmons | 1 | 1 |
-| 1084 | Svitlana | 1 | 1 |
-| 1085 | Tom Barrelo | 1 | 1 |
-| 1086 | Tyom Semonov | 1 | 1 |
-| 1087 | Vassil.Krumov | 1 | 1 |
-| 1088 | Vidura Gunawardana | 1 | 1 |
-| 1089 | Vladimirkorolev0 | 1 | 1 |
-| 1090 | vo1dee | 1 | 1 |
-| 1091 | Volodymyr | 1 | 1 |
-| 1092 | Wesley Budding | 1 | 1 |
-| 1093 | Yaroslav Vovchenko | 1 | 1 |
-| 1094 | yuvan michael | 1 | 1 |
-| 1095 | Александр Сенотов | 1 | 1 |
-| 1096 | 倉木良樹 | 1 | 1 |
-| 1097 | 火柴 小 | 1 | 1 |
-| 1098 | Parsifal02 | 2 | 0 |
-| 1099 | 12ian34psn | 1 | 0 |
-| 1100 | A Lee | 1 | 0 |
-| 1101 | Abdul Raheem | 1 | 0 |
-| 1102 | Adam Lindberg | 1 | 0 |
-| 1103 | AI4Marketing | 1 | 0 |
-| 1104 | Albert Berlanga | 1 | 0 |
-| 1105 | André | 1 | 0 |
-| 1106 | Ankesh Meena | 1 | 0 |
-| 1107 | Anton Kuznetsov | 1 | 0 |
-| 1108 | Anton Lenev | 1 | 0 |
-| 1109 | Aravind | 1 | 0 |
-| 1110 | Arpankashyap744 | 1 | 0 |
-| 1111 | Austin Soares | 1 | 0 |
-| 1112 | Avi | 1 | 0 |
-| 1113 | Barbietunnie+Raycast | 1 | 0 |
-| 1114 | Bibhav Adhikari | 1 | 0 |
-| 1115 | Christian | 1 | 0 |
-| 1116 | Christian Boyle | 1 | 0 |
-| 1117 | Clay Vickers | 1 | 0 |
-| 1118 | Daisy Tian | 1 | 0 |
-| 1119 | Dheeraj Marda | 1 | 0 |
-| 1120 | Esteban Dalel R | 1 | 0 |
-| 1121 | Felix Lyu | 1 | 0 |
-| 1122 | Frame City | 1 | 0 |
-| 1123 | Giovanni Cassanelli | 1 | 0 |
-| 1124 | Grzegorz Zalewski | 1 | 0 |
-| 1125 | Harinder Singh | 1 | 0 |
-| 1126 | Helion | 1 | 0 |
-| 1127 | Ian Hsiao | 1 | 0 |
-| 1128 | Jason Konn | 1 | 0 |
-| 1129 | Jeremy.Jacquemont | 1 | 0 |
-| 1130 | Jonathan Millar | 1 | 0 |
-| 1131 | JT Math | 1 | 0 |
-| 1132 | Jules.Vdz13 | 1 | 0 |
-| 1133 | Kaiyu Lei | 1 | 0 |
-| 1134 | Kenworthe | 1 | 0 |
-| 1135 | KIN HEI SHING | 1 | 0 |
-| 1136 | Lars Wetendorff Nielsen | 1 | 0 |
-| 1137 | Lukas Pospisil | 1 | 0 |
-| 1138 | Madan Chaolla Park | 1 | 0 |
-| 1139 | Maliakkaya | 1 | 0 |
-| 1140 | Matt.Borgmeyer | 1 | 0 |
-| 1141 | Mustapha Alex | 1 | 0 |
-| 1142 | Otto Vanluchene | 1 | 0 |
-| 1143 | Prabu Weerasinghe | 1 | 0 |
-| 1144 | Psychthrone | 1 | 0 |
-| 1145 | Raycast.dmwnn | 1 | 0 |
-| 1146 | Reet Singh | 1 | 0 |
-| 1147 | René Henrich | 1 | 0 |
-| 1148 | Ritik Jain | 1 | 0 |
-| 1149 | Ryun Li | 1 | 0 |
-| 1150 | Sam Stephenson | 1 | 0 |
+| 1077 | Ryun Li | 1 | 1 |
+| 1078 | Sai Bhaskar Devatha | 1 | 1 |
+| 1079 | Sam Stephenson | 1 | 1 |
+| 1080 | Sean | 1 | 1 |
+| 1081 | Sebastian Lathangue | 1 | 1 |
+| 1082 | Shaun Trennery | 1 | 1 |
+| 1083 | Shreyans Bhansali | 1 | 1 |
+| 1084 | slowcrow | 1 | 1 |
+| 1085 | Steven Emmons | 1 | 1 |
+| 1086 | Svitlana | 1 | 1 |
+| 1087 | Tom Barrelo | 1 | 1 |
+| 1088 | Tyom Semonov | 1 | 1 |
+| 1089 | Vassil.Krumov | 1 | 1 |
+| 1090 | Vidura Gunawardana | 1 | 1 |
+| 1091 | Vladimirkorolev0 | 1 | 1 |
+| 1092 | vo1dee | 1 | 1 |
+| 1093 | Volodymyr | 1 | 1 |
+| 1094 | Wesley Budding | 1 | 1 |
+| 1095 | Yaroslav Vovchenko | 1 | 1 |
+| 1096 | yuvan michael | 1 | 1 |
+| 1097 | Александр Сенотов | 1 | 1 |
+| 1098 | 倉木良樹 | 1 | 1 |
+| 1099 | 火柴 小 | 1 | 1 |
+| 1100 | Parsifal02 | 2 | 0 |
+| 1101 | 12ian34psn | 1 | 0 |
+| 1102 | A Lee | 1 | 0 |
+| 1103 | Abdul Raheem | 1 | 0 |
+| 1104 | Adam Lindberg | 1 | 0 |
+| 1105 | AI4Marketing | 1 | 0 |
+| 1106 | Albert Berlanga | 1 | 0 |
+| 1107 | André | 1 | 0 |
+| 1108 | Ankesh Meena | 1 | 0 |
+| 1109 | Anton Kuznetsov | 1 | 0 |
+| 1110 | Anton Lenev | 1 | 0 |
+| 1111 | Aravind | 1 | 0 |
+| 1112 | Arpankashyap744 | 1 | 0 |
+| 1113 | Austin Soares | 1 | 0 |
+| 1114 | Avi | 1 | 0 |
+| 1115 | Barbietunnie+Raycast | 1 | 0 |
+| 1116 | Bibhav Adhikari | 1 | 0 |
+| 1117 | Christian | 1 | 0 |
+| 1118 | Christian Boyle | 1 | 0 |
+| 1119 | Clay Vickers | 1 | 0 |
+| 1120 | Daisy Tian | 1 | 0 |
+| 1121 | Dheeraj Marda | 1 | 0 |
+| 1122 | Esteban Dalel R | 1 | 0 |
+| 1123 | Felix Lyu | 1 | 0 |
+| 1124 | Frame City | 1 | 0 |
+| 1125 | Giovanni Cassanelli | 1 | 0 |
+| 1126 | Grzegorz Zalewski | 1 | 0 |
+| 1127 | Harinder Singh | 1 | 0 |
+| 1128 | Helion | 1 | 0 |
+| 1129 | Ian Hsiao | 1 | 0 |
+| 1130 | Jason Konn | 1 | 0 |
+| 1131 | Jeremy.Jacquemont | 1 | 0 |
+| 1132 | Jonathan Millar | 1 | 0 |
+| 1133 | JT Math | 1 | 0 |
+| 1134 | Jules.Vdz13 | 1 | 0 |
+| 1135 | Kaiyu Lei | 1 | 0 |
+| 1136 | Kenworthe | 1 | 0 |
+| 1137 | KIN HEI SHING | 1 | 0 |
+| 1138 | Lars Wetendorff Nielsen | 1 | 0 |
+| 1139 | Lukas Pospisil | 1 | 0 |
+| 1140 | Madan Chaolla Park | 1 | 0 |
+| 1141 | Maliakkaya | 1 | 0 |
+| 1142 | Matt.Borgmeyer | 1 | 0 |
+| 1143 | Mustapha Alex | 1 | 0 |
+| 1144 | Otto Vanluchene | 1 | 0 |
+| 1145 | Prabu Weerasinghe | 1 | 0 |
+| 1146 | Psychthrone | 1 | 0 |
+| 1147 | Raycast.dmwnn | 1 | 0 |
+| 1148 | Reet Singh | 1 | 0 |
+| 1149 | René Henrich | 1 | 0 |
+| 1150 | Ritik Jain | 1 | 0 |
 | 1151 | Setthapong Kiankhao | 1 | 0 |
 | 1152 | Shop | 1 | 0 |
 | 1153 | Suowei Hu | 1 | 0 |

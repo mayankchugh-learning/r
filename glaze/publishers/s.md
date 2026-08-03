@@ -20,7 +20,7 @@
 | sakshi ranglani | 1 | 6 | [SKECHE](https://www.glaze.app/app/vUHlzf) *(Design)* |
 | Sam Parker | 1 | 9 | [Sheet Pro](https://www.glaze.app/app/1mqpDb) *(Productivity)* |
 | Sam Sitar | 1 | 6 | [Caption Craft](https://www.glaze.app/app/D4916q) *(Media)* |
-| Sam Stephenson | 1 | 0 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) *(Productivity)* |
+| Sam Stephenson | 1 | 1 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) *(Productivity)* |
 | Sam Underwood | 1 | 5 | [Series Rename](https://www.glaze.app/app/yoYsjM) *(Utilities)* |
 | Sam.Minton | 1 | 28 | [Moodboard](https://www.glaze.app/app/0LJlsa) *(Design)* |
 | Sambit Biswas | 1 | 12 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) *(Design)* |

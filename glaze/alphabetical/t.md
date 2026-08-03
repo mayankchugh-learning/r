@@ -123,12 +123,12 @@
 | [Tarot Cards](https://www.glaze.app/app/wLBd4b) | 1 | Daily guidance in a single draw | Maggie.ou | 1.0.0 | 76 KB | 2026-07-27 |
 | [TeamsToDeck Commands](https://www.glaze.app/app/5kyOs4) | 1 | Control Teams calls from Stream Deck | mboeru | 3.0.0 | 84 KB | 2026-07-23 |
 | [Tempo Track](https://www.glaze.app/app/uo8WCc) | 1 | Log Jira time in seconds, not minutes | Martin Sedláček | 2.0.0 | 96 KB | 2026-07-24 |
+| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 1 | Start your mac, stay focused | Sam Stephenson | 1.0.0 | 63 KB | 2026-08-03 |
 | [Times Up](https://www.glaze.app/app/tx1b9T) | 1 | Log tasks and track time by client | Richard Middleton | 2.0.0 | 64 KB | 2026-07-08 |
 | [TippiTap](https://www.glaze.app/app/YPT013) | 1 | Unlock passwords through playful tapping | Glazeapp | 2.0.0 | 144 KB | 2026-07-24 |
 | [Touch Grass](https://www.glaze.app/app/HLpQnJ) | 1 | Less scrolling. More living. | Drained99 | 1.0.0 | 223 KB | 2026-07-25 |
 | [Touch Grass (UV Index)](https://www.glaze.app/app/hpowha) | 1 | Monitor UV levels and stay healthy | Marcus Wilter | 1.0.0 | 64 KB | 2026-07-29 |
 | [Type](https://www.glaze.app/app/bfSoRG) | 1 | Text without distraction | Yeshe | 3.0.0 | 77 KB | 2026-07-20 |
-| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 0 | Start your mac, stay focused | Sam Stephenson | 1.0.0 | 63 KB | 2026-08-03 |
 | [Timer Tracker](https://www.glaze.app/app/a16qmM) | 0 | Track human effort across customers and | Ian Hsiao | 3.0.0 | 72 KB | 2026-07-23 |
 | [Trades Visualised](https://www.glaze.app/app/RmeBYY) | 0 | Visualize backtests offline, locally | Jules.Vdz13 | 1.0.0 | 355 KB | 2026-07-23 |
 | [Trivial Party](https://www.glaze.app/app/j7ebRx) | 0 | Quiz battles with your friends, anytime | Jeremy.Jacquemont | 1.0.0 | 290 KB | 2026-07-24 |

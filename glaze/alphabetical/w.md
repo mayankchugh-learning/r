@@ -54,6 +54,7 @@
 | [while...](https://www.glaze.app/app/hk0xeC) | 2 | Quick games, whenever you need a break | Alex | 1.0.0 | 43 KB | 2026-07-27 |
 | [World Time](https://www.glaze.app/app/HDtRH3) | 2 | View multiple time zones at a glance | Yash | 1.0.0 | 80 KB | 2026-07-02 |
 | [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) | 1 | Fresh walls, every day on autopilot | Elior Boukhobza | 2.0.0 | 62 KB | 2026-07-27 |
+| [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) | 1 | Protect photos with custom watermarks | Ryun Li | 1.0.0 | 59 KB | 2026-08-03 |
 | [Watermark PRO](https://www.glaze.app/app/vIfGnp) | 1 | Batch watermark images and videos | Aleksandra Gramatchikova | 1.0.0 | 74 KB | 2026-07-13 |
 | [Whisker Rewards](https://www.glaze.app/app/imwPlX) | 1 | Cat-themed Reward Chart for Kids | Michael Clear | 1.0.0 | 72 KB | 2026-07-12 |
 | [Windows Lock Screen](https://www.glaze.app/app/tRVDWz) | 1 | Display a Windows lock screen on Mac | Karim Abdelali | 2.0.0 | 56 KB | 2026-07-31 |
@@ -63,4 +64,3 @@
 | [Worksheet Tracker](https://www.glaze.app/app/RGmoKM) | 1 | Track PDF worksheets and completion | Mary-Ann Horley | 2.0.0 | 1.6 MB | 2026-07-25 |
 | [Workshop Flow](https://www.glaze.app/app/713b98) | 1 | Plan workshops that fit your schedule | Antony Mayfield | 2.0.0 | 96 KB | 2026-08-01 |
 | [Wrapped Desk](https://www.glaze.app/app/cnkwi6) | 1 | Summarize your work week with shareable | Priyanshu Jha | 1.0.0 | 66 KB | 2026-07-26 |
-| [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) | 0 | Protect photos with custom watermarks | Ryun Li | 1.0.0 | 59 KB | 2026-08-03 |

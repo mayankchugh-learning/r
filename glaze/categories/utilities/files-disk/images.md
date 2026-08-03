@@ -1,8 +1,8 @@
 # Images ✦
 
-21 apps · [← Files & Disk](./README.md)
+22 apps · [← Files & Disk](./README.md)
 
-[Drop ✦](#drop) (10) · [Batch ✦](#batch) (4) · [General](#general) (7)
+[Drop ✦](#drop) (10) · [Format ✦](#format) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -21,21 +21,22 @@
 | [Airlock](https://www.glaze.app/app/ECzuJo) | 5 | A privacy checkpoint for every file | Ahmad Nurfadilah | 1.0.0 | 51.9 MB | 2026-07-27 |
 | [webp to PNG](https://www.glaze.app/app/ms1HCr) | 4 | Convert WebP images to PNG instantly | TONOS | 2.0.0 | 352 KB | 2026-07-02 |
 
-## Batch ✦
+## Format ✦
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Batch Crop](https://www.glaze.app/app/tYEQoH) | 29 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
-| [SuperDev Pro](https://www.glaze.app/app/oUJ9UR) | 22 | Edit, convert, and manage PDFs anywhere | Mohd Danish Yusuf | 2.0.0 | 1.3 MB | 2026-07-02 |
+| [Cropzor](https://www.glaze.app/app/Cm2M0P) | 9 | Crop, resize, and compress images | ickas | 1.0.0 | 66 KB | 2026-07-15 |
 | [Social Resize](https://www.glaze.app/app/NbPzaq) | 9 | Resize images for any social platform | Roman Schurter | 3.0.0 | 64 KB | 2026-06-27 |
 | [Media Smasher](https://www.glaze.app/app/H9eEba) | 7 | Compress and convert images and videos | Davidleininger | 2.0.0 | 10.2 MB | 2026-07-04 |
+| [Squish](https://www.glaze.app/app/cWRtaY) | 1 | Compress images and remove metadata | Nicholas | 1.0.0 | 8.0 MB | 2026-08-03 |
 
 ## General
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 491 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 59 KB | 2026-04-15 |
-| [Cropzor](https://www.glaze.app/app/Cm2M0P) | 9 | Crop, resize, and compress images | ickas | 1.0.0 | 66 KB | 2026-07-15 |
+| [Batch Crop](https://www.glaze.app/app/tYEQoH) | 29 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
+| [SuperDev Pro](https://www.glaze.app/app/oUJ9UR) | 22 | Edit, convert, and manage PDFs anywhere | Mohd Danish Yusuf | 2.0.0 | 1.3 MB | 2026-07-02 |
 | [dropsize](https://www.glaze.app/app/XM2TL3) | 7 | compress images or videos instantly | vovayaa | 1.0.0 | 65 KB | 2026-07-24 |
 | [PDF & Image Merger](https://www.glaze.app/app/ZAgAgC) | 6 | Merge PDFs and images into a single file | UV | 1.0.0 | 272 KB | 2026-04-24 |
 | [File Handler](https://www.glaze.app/app/XmXQ3c) | 5 | Control which app opens each file type | Alston Albarado | 1.0.0 | 62 KB | 2026-07-06 |

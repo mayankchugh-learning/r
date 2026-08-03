@@ -1,12 +1,12 @@
 # Files & Disk
 
-171 apps · [← Utilities](../README.md)
+172 apps · [← Utilities](../README.md)
 
 | Topic | Apps |
 | --- | --- |
 | [Folders ✦](./folders/README.md) | 67 |
 | [Clean ✦](./clean/README.md) | 39 |
-| [Images ✦](./images.md) | 21 |
+| [Images ✦](./images.md) | 22 |
 | [Drop ✦](./drop.md) | 7 |
 | [Organize ✦](./organize.md) | 6 |
 | [Format ✦](./format.md) | 4 |

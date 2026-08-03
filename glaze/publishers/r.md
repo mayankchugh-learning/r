@@ -64,4 +64,4 @@
 | Ry2k | 1 | 3 | [Anoto AI](https://www.glaze.app/app/zvec7a) *(Developer Tools)* |
 | Ryan O'Connell | 2 | 4 | [Verbatim - Article Reader](https://www.glaze.app/app/hZ8i9m) *(Productivity)*, [Atoz - Media Organizer](https://www.glaze.app/app/P7FCRo) *(Media)* |
 | Ryan Rich | 1 | 33 | [Slackify](https://www.glaze.app/app/pDgHRA) *(Developer Tools)* |
-| Ryun Li | 1 | 0 | [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) *(Design)* |
+| Ryun Li | 1 | 1 | [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) *(Design)* |

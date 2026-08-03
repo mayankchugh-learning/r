@@ -2,7 +2,7 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-188 apps · [← Glaze catalog](../README.md)
+189 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -178,6 +178,7 @@
 | [Song Vote](https://www.glaze.app/app/C4o76l) | 1 | Vote on music, find hits together | ilkay ozboyar | 5.0.0 | 79 KB | 2026-07-25 |
 | [SpeaKlear](https://www.glaze.app/app/jLaVwH) | 1 | Practice English pronunciation | moshik | 2.0.0 | 114.9 MB | 2026-05-16 |
 | [Spice Lab](https://www.glaze.app/app/dphdR8) | 1 | Design and simulate circuits instantly | Jovan James Binoj | 1.0.0 | 5.5 MB | 2026-07-26 |
+| [Squish](https://www.glaze.app/app/cWRtaY) | 1 | Compress images and remove metadata | Nicholas | 1.0.0 | 8.0 MB | 2026-08-03 |
 | [Stack](https://www.glaze.app/app/MO4cOg) | 1 | Reading, made beautiful | Joefree Semilla | 1.0.0 | 331 KB | 2026-07-27 |
 | [STANDING APP](https://www.glaze.app/app/mJumkL) | 1 | Track sitting and standing habits | Bill Bishop's BIG Idea Show | 1.0.0 | 64 KB | 2026-07-09 |
 | [Station Log](https://www.glaze.app/app/wdk0Cs) | 1 | Report shifts and technical issues | Steven Emmons | 3.0.0 | 148 KB | 2026-07-22 |

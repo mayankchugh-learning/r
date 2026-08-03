@@ -1,13 +1,14 @@
 # Recently published & updated
 
-Newest 60 of 1576 apps by last release · [← Glaze catalog](./README.md)
+Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
-| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 2026-08-03 | 4.0.0 | 1 | Utilities | Lee Sherman |
-| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 2026-08-03 | 1.0.0 | 0 | Productivity | Sam Stephenson |
+| [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 2026-08-03 | 5.0.0 | 1 | Utilities | Lee Sherman |
+| [Squish](https://www.glaze.app/app/cWRtaY) | 2026-08-03 | 1.0.0 | 1 | Utilities | Nicholas |
+| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 2026-08-03 | 1.0.0 | 1 | Productivity | Sam Stephenson |
 | [MDed](https://www.glaze.app/app/6WfoWC) | 2026-08-03 | 3.0.0 | 3 | Developer Tools | Smart King |
-| [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) | 2026-08-03 | 1.0.0 | 0 | Design | Ryun Li |
+| [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) | 2026-08-03 | 1.0.0 | 1 | Design | Ryun Li |
 | [Wish Manifest](https://www.glaze.app/app/wish-manifest-U3ZrvL) | 2026-08-03 | 2.0.0 | 1 | Productivity | Lee Sherman |
 | [mvt - Music Viz Tool](https://www.glaze.app/app/mvt-music-viz-tool-7CE4oc) | 2026-08-03 | 1.0.0 | 1 | Media | Randy Pitcher II |
 | [Pandora Player](https://www.glaze.app/app/zs85E5) | 2026-08-03 | 3.0.0 | 5 | Media | John Hunter |
@@ -63,4 +64,3 @@ Newest 60 of 1576 apps by last release · [← Glaze catalog](./README.md)
 | [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 2026-07-31 | 16.0.0 | 31 | Developer Tools | Dhruv Suthar |
 | [Perly.io](https://www.glaze.app/app/perlyio-RsLTkW) | 2026-07-31 | 1.0.0 | 1 | Utilities | Volodymyr |
 | [Sleepwalker](https://www.glaze.app/app/Twm2r3) | 2026-07-31 | 2.0.0 | 5 | Utilities | Léo Tuil |
-| [LinkChecker](https://www.glaze.app/app/qVMVv9) | 2026-07-31 | 6.0.0 | 4 | Developer Tools | Dmytro Lobov |

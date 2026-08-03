@@ -17,8 +17,8 @@
 | [Maternity Manager](https://www.glaze.app/app/c6u6jh) | 1 | Manage maternity house rooms and | 火柴 小 | 2.0.0 | 73 KB | 2026-07-08 |
 | [Quick Translate](https://www.glaze.app/app/fRbhRn) | 1 | Translate selected text instantly | Mickael Alves | 1.0.0 | 66 KB | 2026-07-30 |
 | [Station Log](https://www.glaze.app/app/wdk0Cs) | 1 | Report shifts and technical issues | Steven Emmons | 3.0.0 | 148 KB | 2026-07-22 |
+| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 1 | Start your mac, stay focused | Sam Stephenson | 1.0.0 | 63 KB | 2026-08-03 |
 | [Whisker Rewards](https://www.glaze.app/app/imwPlX) | 1 | Cat-themed Reward Chart for Kids | Michael Clear | 1.0.0 | 72 KB | 2026-07-12 |
 | [Dinner Dice](https://www.glaze.app/app/oaBAMr) | 0 | Three easy dinners from what you | Lukas Pospisil | 1.0.0 | 1.0 MB | 2026-07-26 |
 | [Meal Luck](https://www.glaze.app/app/tIogAF) | 0 | Decide what to eat, no more thinking | Mario Juárez | 2.0.0 | 63 KB | 2026-07-28 |
-| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 0 | Start your mac, stay focused | Sam Stephenson | 1.0.0 | 63 KB | 2026-08-03 |
 | [Video Ads Tracker](https://www.glaze.app/app/MZ9Qgs) | 0 | Manage podcast video ad bookings | Clay Vickers | 1.0.0 | 68 KB | 2026-07-22 |
