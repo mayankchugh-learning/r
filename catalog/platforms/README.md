@@ -5,5 +5,5 @@
 | Platform | Extensions |
 | --- | --- |
 | [macOS](./macos/README.md) | 3109 |
-| [Windows](./windows/README.md) | 823 |
+| [Windows](./windows/README.md) | 824 |
 | [Cross-platform](./cross-platform/README.md) | 792 |

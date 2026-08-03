@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "de9db747a98833a2e7feed2a1a17eb26e02171ad",
-  "generatedAt": "2026-08-03T04:52:30.955Z",
-  "downloadsRefreshedAt": "2026-08-03T04:52:30.103Z",
-  "count": 3140,
+  "commit": "d87087b9621660882f461521e520dc0d8aeba6a4",
+  "generatedAt": "2026-08-03T05:51:41.132Z",
+  "downloadsRefreshedAt": "2026-08-03T05:51:40.500Z",
+  "count": 3141,
   "extensions": [
     {
       "dir": "0x0",
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498062
+      "downloads": 498086
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 486529
+      "downloads": 486559
     },
     {
       "dir": "google-chrome-profiles",
@@ -24263,7 +24263,7 @@
       "description": "Fastest Notion to-do app ever",
       "author": "reboot.studio",
       "owner": "reboot",
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Developer Tools",
         "Design Tools",
@@ -24275,7 +24275,7 @@
       ],
       "store": "https://www.raycast.com/reboot/hypersonic",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hypersonic",
-      "treeSha": "700df8f20ae7693db86c2b756f35946e06ed08df",
+      "treeSha": "3eecfcb52ee134c509a8eb601eda1864ef0a62b0",
       "downloads": 11038
     },
     {
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654583
+      "downloads": 654606
     },
     {
       "dir": "kimai",
@@ -62223,6 +62223,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wallhaven",
       "treeSha": "6f8a6617ab6a71f6d302745e1872020dc211abcf",
       "downloads": 199
+    },
+    {
+      "dir": "wallpaperengine",
+      "name": "wallpaperengine",
+      "title": "WallpaperEngine",
+      "description": "Raycast Extension for controlling WallpaperEngine",
+      "author": "hunter_dermott",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications",
+        "System",
+        "Media"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/hunter_dermott/wallpaperengine",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine",
+      "treeSha": "b7714fd90a7483cadbd5986d901e56ae9d43a8aa",
+      "downloads": 0
     },
     {
       "dir": "warp",

@@ -1,6 +1,6 @@
 # Publishers
 
-2087 publishers · [← catalog index](../README.md)
+2088 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,086,229 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,086,253 |
 | 2 | [raycast](./id/raycast.md) | 11 | 777,043 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,583 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 486,529 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,606 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 486,559 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 433,090 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 427,940 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 402,541 |
@@ -2088,10 +2088,11 @@
 | 2078 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
 | 2079 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2080 | [filiph](https://www.raycast.com/filiph) | 1 | 0 |
-| 2081 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
-| 2082 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
-| 2083 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2084 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2085 | github-next | 2 | — |
-| 2086 | multi | 1 | — |
-| 2087 | sharat_visweswara | 1 | — |
+| 2081 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2082 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
+| 2083 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
+| 2084 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2085 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2086 | github-next | 2 | — |
+| 2087 | multi | 1 | — |
+| 2088 | sharat_visweswara | 1 | — |

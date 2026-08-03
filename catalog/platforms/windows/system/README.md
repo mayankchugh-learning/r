@@ -1,8 +1,8 @@
 # Windows · System
 
-43 extensions · [← Windows](../README.md)
+44 extensions · [← Windows](../README.md)
 
-[Apps & Processes](#apps-processes) (8) · [Window & Desktop Management](#window-desktop-management) (9) · [Hardware & Devices](#hardware-devices) (3) · [Display & Appearance](#display-appearance) (4) · [Clipboard & Input](#clipboard-input) (1) · [Files & Storage](#files-storage) (2) · [Network](#network) (2) · [General](#general) (14)
+[Apps & Processes](#apps-processes) (8) · [Window & Desktop Management](#window-desktop-management) (9) · [Hardware & Devices](#hardware-devices) (3) · [Display & Appearance](#display-appearance) (4) · [Clipboard & Input](#clipboard-input) (1) · [Files & Storage](#files-storage) (2) · [Network](#network) (2) · [General](#general) (15)
 
 ## Apps & Windows
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 654,583 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 654,606 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,779 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,284 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 767 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
@@ -94,3 +94,4 @@
 | [OpenHue](https://github.com/raycast/extensions/tree/main/extensions/openhue) | 105 | Control your Philips Hue lightning system from Raycast | thibauult | macOS, Windows | [store](https://www.raycast.com/thibauult/openhue) |
 | [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) | 96 | Control Tabby terminal with Raycast | chupi | macOS, Windows | [store](https://www.raycast.com/chupi/tabby) |
 | [Voicemeeter Control](https://github.com/raycast/extensions/tree/main/extensions/voicemeeter-raycast) | 16 | Control Voicemeeter strips and buses from Raycast. | Vorm-- | Windows | [store](https://www.raycast.com/Vorm--/voicemeeter-raycast) |
+| [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 0 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |

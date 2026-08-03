@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · **H** · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-64 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+65 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -60,6 +60,7 @@
 | [humaans](https://www.raycast.com/humaans) | 1 | 72 | **Productivity:** [Humaans](https://github.com/raycast/extensions/tree/main/extensions/humaans) |
 | [humanfriend22](https://www.raycast.com/humanfriend22) | 1 | 2 | **Productivity:** [Thermostats](https://github.com/raycast/extensions/tree/main/extensions/thermostats) |
 | [Humber](https://www.raycast.com/Humber) | 1 | 933 | **Applications:** [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) |
+| [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 | **Applications:** [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) |
 | [HunterJi](https://www.raycast.com/HunterJi) | 2 | 2,294 | **Design Tools:** [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator)<br>**Developer Tools:** [AI Code Namer](https://github.com/raycast/extensions/tree/main/extensions/ai-code-namer) |
 | [huseyint](https://www.raycast.com/huseyint) | 1 | 324 | **Documentation:** [.NET Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) |
 | [huskii](https://www.raycast.com/huskii) | 1 | 171 | **Documentation:** [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack) |

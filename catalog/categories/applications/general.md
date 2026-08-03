@@ -1,6 +1,6 @@
 # General
 
-111 extensions · [← Applications](./README.md)
+112 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -115,3 +115,4 @@
 | [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) | 1 | Extension to manage BetterCapture | qlaffont | macOS | [store](https://www.raycast.com/qlaffont/bettercapture) |
 | [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game) | 1 | What to Play Next - Smart Game Picker | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/next-game) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
+| [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 0 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |

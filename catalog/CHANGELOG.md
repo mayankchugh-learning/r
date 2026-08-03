@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `d87087b962`
+
+**Added (1):** [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine)
+
+**Updated (1):** [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic)
+
 ## 2026-08-03 — upstream `de9db747a9`
 
 **Updated (1):** [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers)
