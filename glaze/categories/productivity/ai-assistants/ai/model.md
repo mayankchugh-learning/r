@@ -26,7 +26,7 @@
 | [Nexus](https://www.glaze.app/app/eOX5SB) | 9 | Search all your AI chats in one place | Joost Reus | 2.0.0 | 773 KB | 2026-07-28 |
 | [Verba](https://www.glaze.app/app/RDCKBF) | 4 | Turn any audio into text instantly | Zakria | 1.0.0 | 99 KB | 2026-06-13 |
 | [Instatagged](https://www.glaze.app/app/pFW6Zt) | 0 | Auto-tag your Instapaper articles | Benjamin Siens | 5.0.0 | 75 KB | 2026-07-27 |
-| [Quick Translate EN↔RU](https://www.glaze.app/app/quick-translate-enru-boRTfT) | 0 | Translate any text in seconds, perfectly | Eugene Stepanov | 1.0.0 | 44 KB | 2026-08-03 |
+| [Quick Translate EN↔RU](https://www.glaze.app/app/quick-translate-enru-boRTfT) | 0 | Translate any text in seconds, perfectly | Eugene Stepanov | 2.0.0 | 46 KB | 2026-08-03 |
 
 ## General
 

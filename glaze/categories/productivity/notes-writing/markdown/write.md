@@ -33,5 +33,5 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Hindsight](https://www.glaze.app/app/NuyLC9) | 3 | Seal your decisions. Meet them later. | David Dodlek | 1.0.0 | 1.6 MB | 2026-07-28 |
+| [Hindsight](https://www.glaze.app/app/NuyLC9) | 4 | Seal your decisions. Meet them later. | David Dodlek | 1.0.0 | 1.6 MB | 2026-07-28 |
 | [Scholar MD](https://www.glaze.app/app/uClfem) | 3 | Markdown writing for academics. | kitrouille | 2.0.0 | 216 KB | 2026-07-24 |

@@ -25,7 +25,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Cursor Cube](https://www.glaze.app/app/38i83u) | 11 | Solve a Rubik's Cube while you wait | Erik Blomqvist | 2.0.0 | 159 KB | 2026-07-08 |
+| [Cursor Cube](https://www.glaze.app/app/38i83u) | 12 | Solve a Rubik's Cube while you wait | Erik Blomqvist | 2.0.0 | 159 KB | 2026-07-08 |
 | [Quokka](https://www.glaze.app/app/jKQxa8) | 4 | Fill grids with logic jumps and number | Giovambattista Fazioli | 1.0.0 | 71 KB | 2026-07-01 |
 | [Tumblewords Solver](https://www.glaze.app/app/rxJ4r1) | 3 | Find optimal letter arrangements and word paths to maximize scores in Tumblewords puzzles | Dhruv Suthar | 1.0.1 | 1.8 MB | 2026-03-27 |
 | [Numble Today](https://www.glaze.app/app/2fZiNh) | 1 | Play the daily number puzzle | Shaun Trennery | 1.0.0 | 26 KB | 2026-07-09 |

@@ -11,7 +11,7 @@
 | Hamza Khan | 1 | 2 | [Catch](https://www.glaze.app/app/fb9gYZ) *(Productivity)* |
 | Hamza Merzic | 1 | 2 | [Beat Maker](https://www.glaze.app/app/7NGuuZ) *(Media)* |
 | Hamza Y. | 2 | 10 | [Papier](https://www.glaze.app/app/LOGFpd) *(Productivity)*, [i18Next++](https://www.glaze.app/app/WFI9hH) *(Developer Tools)* |
-| Hamzah Chaudhary | 1 | 271 | [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) *(Utilities)* |
+| Hamzah Chaudhary | 1 | 272 | [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) *(Utilities)* |
 | Han | 1 | 5 | [Agent Analytics](https://www.glaze.app/app/lviOXL) *(Developer Tools)* |
 | Harinder Singh | 1 | 0 | [Next Time](https://www.glaze.app/app/oCOqhz) *(Productivity)* |
 | Haris Sulaiman | 1 | 2 | [Salah Time](https://www.glaze.app/app/SR2yd0) *(Productivity)* |

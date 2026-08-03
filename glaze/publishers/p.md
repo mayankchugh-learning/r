@@ -41,7 +41,7 @@
 | Peter Theill | 1 | 1 | [Clipboard Share](https://www.glaze.app/app/eelDDd) *(Utilities)* |
 | Petr Nikolaev | 1 | 200 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) *(Developer Tools)* |
 | Petrus Pierre | 1 | 4 | [ThreeD](https://www.glaze.app/app/a0GwiK) *(Utilities)* |
-| Philip Dren | 1 | 4 | [Halo](https://www.glaze.app/app/halo-JuaORD) *(Lifestyle)* |
+| Philip Dren | 1 | 5 | [Halo](https://www.glaze.app/app/halo-JuaORD) *(Lifestyle)* |
 | Philip Han | 1 | 2 | [Mic Lock](https://www.glaze.app/app/af0Wa6) *(Utilities)* |
 | Philipp.Herzig | 2 | 22 | [Capture Studio](https://www.glaze.app/app/0c5CW4) *(Media)*, [Contrast Control](https://www.glaze.app/app/kHVzuV) *(Utilities)* |
 | Philippos | 1 | 8 | [Nudge](https://www.glaze.app/app/M9narB) *(Productivity)* |

@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**1,578** apps · **7** categories · **1,166** publishers · **27,714** installs · **2.67 GB** total, median **83 KB**
+**1,578** apps · **7** categories · **1,166** publishers · **27,731** installs · **2.67 GB** total, median **83 KB**
 
 ## Browse
 
@@ -20,11 +20,11 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Section | Categories | Apps | Installs |
 | --- | --- | --- | --- |
-| Work & Productivity | Productivity | 507 | 6,193 |
-| Development | Developer Tools | 314 | 7,659 |
-| System & Utilities | Utilities | 389 | 6,151 |
-| Creative & Media | Design, Media | 228 | 6,499 |
-| Life & Play | Lifestyle, Games & Fun | 140 | 1,212 |
+| Work & Productivity | Productivity | 507 | 6,202 |
+| Development | Developer Tools | 314 | 7,661 |
+| System & Utilities | Utilities | 389 | 6,153 |
+| Creative & Media | Design, Media | 228 | 6,500 |
+| Life & Play | Lifestyle, Games & Fun | 140 | 1,215 |
 
 ## Most installed
 
@@ -32,7 +32,7 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | --- | --- | --- | --- | --- |
 | 1 | [World Cup 2026](https://www.glaze.app/app/PtePF9) | 1,468 | Media | Thomas Paul Mann |
 | 2 | [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 858 | Developer Tools | alexi.build |
-| 3 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 851 | Developer Tools | Boufford |
+| 3 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 852 | Developer Tools | Boufford |
 | 4 | [ray.fm](https://www.glaze.app/app/Af8oi9) | 843 | Media | Samuel Kraft |
 | 5 | [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 710 | Developer Tools | Nichlas Wærnes Andersen |
 | 6 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 621 | Developer Tools | Thomas Paul Mann |

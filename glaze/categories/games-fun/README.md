@@ -1,13 +1,13 @@
 # Games & Fun
 
-87 apps · 778 installs · [← all categories](../README.md)
+87 apps · 780 installs · [← all categories](../README.md)
 
 ## Play
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [Arcade & Classics](./arcade-classics/README.md) | 29 | 360 |
-| [Puzzle & Word Games](./puzzle-word-games.md) | 20 | 81 |
+| [Puzzle & Word Games](./puzzle-word-games.md) | 20 | 82 |
 | [Card, Board & Casino](./card-board-casino.md) | 3 | 13 |
 
 ## Skill & Toys
@@ -27,7 +27,7 @@
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Game ✦](./game.md) | 13 | 74 |
+| [Game ✦](./game.md) | 13 | 75 |
 
 Plus [General](./general.md) — 8 apps that don't fit a topic yet.
 

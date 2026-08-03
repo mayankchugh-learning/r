@@ -9,7 +9,7 @@
 | [Mia Calendar](https://www.glaze.app/app/N2NgPq) | 188 | Plan your days with your own handwriting | Daniela Muntyan | 13.0.0 | 3.3 MB | 2026-07-27 |
 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) | 25 | Monitor your computer usage and time | Andrea Cipriani | 17.0.0 | 333 KB | 2026-07-24 |
 | [Noted](https://www.glaze.app/app/6gIagm) | 11 | A quiet place for your notes. | Yash Kotha | 5.0.0 | 212 KB | 2026-07-31 |
-| [re:Work](https://www.glaze.app/app/aqeLBX) | 8 | Know where your day went. Automatically. | Benji Schwartz-Gilbert | 7.0.0 | 123 KB | 2026-07-31 |
+| [re:Work](https://www.glaze.app/app/aqeLBX) | 9 | Know where your day went. Automatically. | Benji Schwartz-Gilbert | 7.0.0 | 123 KB | 2026-07-31 |
 | [Daymark](https://www.glaze.app/app/MX1yNN) | 7 | A daily note for every day | Iamgregb | 11.0.0 | 1.3 MB | 2026-07-30 |
 | [Sole](https://www.glaze.app/app/Oe1tk1) | 6 | One thing, one day — always in view | Dipangshu Roy | 3.0.0 | 81 KB | 2026-07-27 |
 | [Deskmate](https://www.glaze.app/app/ki1c5r) | 4 | A little creature that feels your day | Song Qian | 2.0.0 | 69 KB | 2026-07-27 |

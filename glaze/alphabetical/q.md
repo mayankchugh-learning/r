@@ -25,4 +25,4 @@
 | [Quest Log](https://www.glaze.app/app/f7zukt) | 2 | Create tasks by speaking naturally | Charlie Day | 1.0.0 | 70 KB | 2026-07-14 |
 | [Quick Translate](https://www.glaze.app/app/fRbhRn) | 1 | Translate selected text instantly | Mickael Alves | 1.0.0 | 66 KB | 2026-07-30 |
 | [Quick2AVault](https://www.glaze.app/app/Ez7tQc) | 1 | Who’s the boss of your cash? You are! | Mahesh Shantaram | 9.0.0 | 4.0 MB | 2026-07-30 |
-| [Quick Translate EN↔RU](https://www.glaze.app/app/quick-translate-enru-boRTfT) | 0 | Translate any text in seconds, perfectly | Eugene Stepanov | 1.0.0 | 44 KB | 2026-08-03 |
+| [Quick Translate EN↔RU](https://www.glaze.app/app/quick-translate-enru-boRTfT) | 0 | Translate any text in seconds, perfectly | Eugene Stepanov | 2.0.0 | 46 KB | 2026-08-03 |

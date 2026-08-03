@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 851 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
+| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 852 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 401 | Analog warmth meets digital synthesis | Combustion Studio | 7.0.0 | 1.4 MB | 2026-07-17 |
 | [Curves](https://www.glaze.app/app/a8OtIv) | 112 | Browse, compare and create bezier curves visually to find the perfect easing function for your design | Thomas Paul Mann | 2.0.1 | 184 KB | 2026-03-18 |
 | [Countdown Widget](https://www.glaze.app/app/Z15mua) | 68 | Track every moment until it arrives | Nichlas Wærnes Andersen | 4.0.0 | 66 KB | 2026-04-15 |
@@ -47,6 +47,7 @@
 | [Collect](https://www.glaze.app/app/eG7IS4) | 12 | Save what matters, and review them later | Trueman | 1.0.0 | 3.8 MB | 2026-07-01 |
 | [Command X](https://www.glaze.app/app/rKoO7f) | 12 | Cut/paste using Command+X and Command+V | Danylo Zalizchuk | 1.0.0 | 63 KB | 2026-06-29 |
 | [Copy Shelf](https://www.glaze.app/app/DO5ttX) | 12 | Bring back what you copied | Sabik Biswas | 1.0.0 | 80 KB | 2026-07-28 |
+| [Cursor Cube](https://www.glaze.app/app/38i83u) | 12 | Solve a Rubik's Cube while you wait | Erik Blomqvist | 2.0.0 | 159 KB | 2026-07-08 |
 | [CineRoulette](https://www.glaze.app/app/PogX5d) | 11 | Letterboxd Movie Picker | Paul Seagull | 1.0.0 | 60 KB | 2026-06-30 |
 | [CineSchedule](https://www.glaze.app/app/G1DNgr) | 11 | Never miss what you want to watch | Alexander Gekov | 2.0.0 | 67 KB | 2026-06-19 |
 | [Claude Meter](https://www.glaze.app/app/zyWYVY) | 11 | Monitor Claude API usage limits | Wesam Abuznadah | 1.0.0 | 67 KB | 2026-07-08 |
@@ -54,7 +55,6 @@
 | [CodeCanvas](https://www.glaze.app/app/r9V0pc) | 11 | Visual node map for your local codebase. | OM CHANDANKAR | 1.0.0 | 69 KB | 2026-07-27 |
 | [Codex Report](https://www.glaze.app/app/VXld10) | 11 | View code usage stats in menu bar | Ben McMurry | 1.0.0 | 62 KB | 2026-07-07 |
 | [Copy That](https://www.glaze.app/app/QYtGUY) | 11 | Copy the uncopyable | Andrew Lindstrom | 2.0.0 | 324 KB | 2026-07-28 |
-| [Cursor Cube](https://www.glaze.app/app/38i83u) | 11 | Solve a Rubik's Cube while you wait | Erik Blomqvist | 2.0.0 | 159 KB | 2026-07-08 |
 | [Chirp Chirrup](https://www.glaze.app/app/2z2j75) | 10 | Discover birds in your area by season | Pavlo Haidamak | 3.0.0 | 116 KB | 2026-07-16 |
 | [Chord Visualizer](https://www.glaze.app/app/1uSWup) | 10 | See every chord shape on your fretboard | Timur Turianytsia | 1.0.0 | 84 KB | 2026-07-16 |
 | [Chords](https://www.glaze.app/app/9tzIy4) | 10 | Keep track of your repertoire | Aydin Genchsoy | 3.0.0 | 2.5 MB | 2026-07-13 |

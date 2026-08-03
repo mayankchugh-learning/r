@@ -15,7 +15,7 @@
 | [Linear Terminal](https://www.glaze.app/app/inTffb) | 8 | Manage Linear tasks with terminal style | Ari Alkalay | 1.0.0 | 75 KB | 2026-07-14 |
 | [Brew Commander](https://www.glaze.app/app/3miw5s) | 7 | Point and click your Homebrew commands | S.Peacock | 1.0.0 | 59 KB | 2026-07-12 |
 | [BrewStuff](https://www.glaze.app/app/EtjGKj) | 7 | Homebrew management at your fingertips | Hash | 4.0.0 | 68 KB | 2026-07-26 |
-| [Foldery](https://www.glaze.app/app/5sZbpN) | 6 | Launch folders in your favorite app | Dmytro Lobov | 23.0.0 | 166 KB | 2026-07-30 |
+| [Foldery](https://www.glaze.app/app/5sZbpN) | 6 | Launch folders in your favorite app | Dmytro Lobov | 24.0.0 | 174 KB | 2026-08-03 |
 | [Man Pages](https://www.glaze.app/app/tn3iXn) | 5 | Browse Unix manual pages visually | Lee Sherman | 1.0.0 | 63 KB | 2026-07-16 |
 | [K9s](https://www.glaze.app/app/CME6cv) | 4 | Manage Kubernetes clusters and resources | Kishan Dadhania | 13.0.0 | 15.5 MB | 2026-07-26 |
 | [CodeVault](https://www.glaze.app/app/CqhCSJ) | 2 | Premium code editor with advanced | credesasq | 1.0.0 | 15.5 MB | 2026-07-25 |

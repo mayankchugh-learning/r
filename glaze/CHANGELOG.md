@@ -4,6 +4,14 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-08-03
 
+**Foldery:** version 23.0.0 → 24.0.0
+
+**Quick Translate EN↔RU:** version 1.0.0 → 2.0.0
+
+**Halo:** version 2.0.0 → 3.0.0; tagline Meditate and breathe throughout your day → Good pauses throughout the work day
+
+## 2026-08-03
+
 **Added (1):** [Imagery](https://www.glaze.app/app/imagery-6MoowR)
 
 **Removed (1):** Planted

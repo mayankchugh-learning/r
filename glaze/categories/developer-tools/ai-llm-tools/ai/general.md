@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Raycast Maze](https://www.glaze.app/app/raycast-maze-Meh4qI) | 90 | Explore Raycast through interactive | 騎山豬跑山 | 1.0.0 | 1.1 MB | 2026-04-15 |
+| [Raycast Maze](https://www.glaze.app/app/raycast-maze-Meh4qI) | 91 | Explore Raycast through interactive | 騎山豬跑山 | 1.0.0 | 1.1 MB | 2026-04-15 |
 | [Hacker News Reader](https://www.glaze.app/app/6JMi6H) | 28 | Stay updated on tech news fast | Emilio Escobar | 2.0.0 | 54 KB | 2026-05-31 |
 | [Weekly Ship](https://www.glaze.app/app/nXlknB) | 22 | Summarize your GitHub week with AI | Samuel Kraft | 3.0.0 | 49 KB | 2026-06-04 |
 | [Ghost](https://www.glaze.app/app/n7fZjc) | 9 | Build with your codebase context | ImisiD | 1.0.0 | 75 KB | 2026-07-28 |

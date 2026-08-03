@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [SiteLens](https://www.glaze.app/app/Dw8vob) | 11 | Everything a URL can tell you | Dmytro Lobov | 8.0.0 | 215 KB | 2026-08-01 |
 | [SEOInspector](https://www.glaze.app/app/FwJNp5) | 10 | Every SEO check your site needs | Dmytro Lobov | 8.0.0 | 741 KB | 2026-07-31 |
-| [Foldery](https://www.glaze.app/app/5sZbpN) | 6 | Launch folders in your favorite app | Dmytro Lobov | 23.0.0 | 166 KB | 2026-07-30 |
+| [Foldery](https://www.glaze.app/app/5sZbpN) | 6 | Launch folders in your favorite app | Dmytro Lobov | 24.0.0 | 174 KB | 2026-08-03 |
 | [SitePulse](https://www.glaze.app/app/CGEXg6) | 5 | Monitor website uptime in real time | Dmytro Lobov | 1.0.0 | 65 KB | 2026-07-23 |
 | [ExposureScanner](https://www.glaze.app/app/CkIqVF) | 4 | Find exposed .env and config files | Dmytro Lobov | 6.0.0 | 90 KB | 2026-07-22 |
 | [LinkChecker](https://www.glaze.app/app/qVMVv9) | 4 | Find broken links and bad redirects | Dmytro Lobov | 6.0.0 | 713 KB | 2026-07-31 |

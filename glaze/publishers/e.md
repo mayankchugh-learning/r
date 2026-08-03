@@ -37,7 +37,7 @@
 | [Eric Cheung](./id/eric-cheung.md) | 4 | 12 | [see all 4 →](./id/eric-cheung.md) |
 | Eric McQuesten | 1 | 3 | [Goal Focus](https://www.glaze.app/app/s3vTde) *(Productivity)* |
 | Erik | 1 | 1 | [AudioPair](https://www.glaze.app/app/DKqhsm) *(Utilities)* |
-| Erik Blomqvist | 1 | 11 | [Cursor Cube](https://www.glaze.app/app/38i83u) *(Games & Fun)* |
+| Erik Blomqvist | 1 | 12 | [Cursor Cube](https://www.glaze.app/app/38i83u) *(Games & Fun)* |
 | Ermek Barmashev | 1 | 2 | [Notify Hub](https://www.glaze.app/app/tW3kxb) *(Productivity)* |
 | Esteban Dalel R | 1 | 0 | [Relieve](https://www.glaze.app/app/fLmAia) *(Productivity)* |
 | Ethan Darling | 1 | 4 | [QR Reader](https://www.glaze.app/app/qaM0d4) *(Utilities)* |

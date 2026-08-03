@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 275 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
 | [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 460 KB | 2026-07-28 |
-| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 154 | Your mac deserves a better dock | lexav | 9.0.0 | 93 KB | 2026-07-30 |
+| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 155 | Your mac deserves a better dock | lexav | 9.0.0 | 93 KB | 2026-07-30 |
 | [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr) | 149 | Task planner | Nichlas Wærnes Andersen | 10.0.0 | 5.2 MB | 2026-07-19 |
 | [Tap Beats](https://www.glaze.app/app/uIyOY5) | 53 | Create music by tapping a grid-based trackpad with 12 buttons arranged in columns and rows | Vincent de Lagabbe | 2.0.1 | 183 KB | 2026-03-25 |
 | [Trend Builder](https://www.glaze.app/app/ApW3oA) | 49 | Build the app everyone’s searching for | Ch1rag | 6.0.0 | 770 KB | 2026-07-10 |

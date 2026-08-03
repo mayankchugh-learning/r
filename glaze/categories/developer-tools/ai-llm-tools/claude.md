@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 851 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
+| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 852 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
 | [Claude Usage](https://www.glaze.app/app/Iz8ofo) | 42 | Track your Claude API usage | Kartik | 3.0.0 | 62 KB | 2026-07-02 |
 | [Pulse](https://www.glaze.app/app/3BmuDS) | 33 | Real-time Claude & Codex usage tracking | Ken Adams | 2.0.0 | 74 KB | 2026-06-23 |
 | [Claude Inspector](https://www.glaze.app/app/21ITy2) | 32 | Track your Claude plugins, skills, tools | Aydın Dağdelenler | 1.0.0 | 68 KB | 2026-07-10 |

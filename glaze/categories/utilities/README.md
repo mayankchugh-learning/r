@@ -1,6 +1,6 @@
 # Utilities
 
-389 apps · 6,151 installs · [← all categories](../README.md)
+389 apps · 6,153 installs · [← all categories](../README.md)
 
 ## Files & Media
 
@@ -15,7 +15,7 @@
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [System & Performance](./system-performance/README.md) | 31 | 289 |
-| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 748 |
+| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 749 |
 | [Display & Wallpaper](./display-wallpaper.md) | 18 | 198 |
 
 ## Input & Text
@@ -31,6 +31,6 @@
 | --- | --- | --- |
 | [Network & Connectivity](./network-connectivity.md) | 3 | 9 |
 | [Security & Privacy](./security-privacy.md) | 1 | 1 |
-| [Trackers & Monitors](./trackers-monitors.md) | 4 | 275 |
+| [Trackers & Monitors](./trackers-monitors.md) | 4 | 276 |
 
 Plus [General](./general.md) — 20 apps that don't fit a topic yet.

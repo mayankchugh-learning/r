@@ -31,7 +31,7 @@
 | David | 1 | 13 | [Shelf](https://www.glaze.app/app/QlUd8A) *(Utilities)* |
 | David Claridge | 2 | 14 | [Glazer Blast!](https://www.glaze.app/app/sFhKRR) *(Games & Fun)*, [OuijAI](https://www.glaze.app/app/csPCmo) *(Games & Fun)* |
 | David Cortizo | 1 | 16 | [Memory Guard](https://www.glaze.app/app/Gp2Q8T) *(Utilities)* |
-| David Dodlek | 1 | 3 | [Hindsight](https://www.glaze.app/app/NuyLC9) *(Productivity)* |
+| David Dodlek | 1 | 4 | [Hindsight](https://www.glaze.app/app/NuyLC9) *(Productivity)* |
 | David Eiken | 1 | 16 | [StreamFindr](https://www.glaze.app/app/7xDw68) *(Utilities)* |
 | David Ferguson | 2 | 234 | [Floating Youtube](https://www.glaze.app/app/floating-youtube-JUv9e2) *(Media)*, [Desktop Events](https://www.glaze.app/app/lWaw3B) *(Productivity)* |
 | David Martín Suárez | 1 | 17 | [Flor](https://www.glaze.app/app/8Q7yXM) *(Productivity)* |
@@ -44,7 +44,7 @@
 | Davidleininger | 1 | 7 | [Media Smasher](https://www.glaze.app/app/H9eEba) *(Utilities)* |
 | Davos639 | 1 | 3 | [sums](https://www.glaze.app/app/vycKjG) *(Utilities)* |
 | Debarshee Chakraborty | 1 | 9 | [System Status](https://www.glaze.app/app/PCutQu) *(Utilities)* |
-| Deepto | 1 | 20 | [Speck](https://www.glaze.app/app/GQz6OW) *(Productivity)* |
+| Deepto | 1 | 21 | [Speck](https://www.glaze.app/app/GQz6OW) *(Productivity)* |
 | Delvison Marte | 3 | 20 | [StreamHub](https://www.glaze.app/app/CPEGJi) *(Media)*, [TCGVault](https://www.glaze.app/app/gBFQ7D) *(Utilities)*, [Discord Companion](https://www.glaze.app/app/discord-companion-Nnu2hA) *(Utilities)* |
 | Denis Ljubimov | 1 | 18 | [Cling](https://www.glaze.app/app/akdslE) *(Productivity)* |
 | Dennis Bruijn | 1 | 2 | [Findroid](https://www.glaze.app/app/FdgfJg) *(Utilities)* |

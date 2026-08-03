@@ -9,7 +9,7 @@
 | [Peel](https://www.glaze.app/app/esimhU) | 417 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 340 | Simple project planning | Kristina Loewen | 6.0.0 | 130 KB | 2026-07-05 |
 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 303 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 238 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 240 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 | [ProjectBase](https://www.glaze.app/app/w5CAic) | 49 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 281 KB | 2026-07-29 |
 | [Port Monitor](https://www.glaze.app/app/EEfaTw) | 40 | Track open ports and their apps | Domint | 1.0.0 | 73 KB | 2026-06-29 |

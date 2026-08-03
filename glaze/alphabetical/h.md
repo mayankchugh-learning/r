@@ -25,18 +25,18 @@
 | [Hue Notch](https://www.glaze.app/app/cCJXJ7) | 8 | Pick colors with intuitive notch control | Dexter Morgan | 1.0.0 | 66 KB | 2026-07-06 |
 | [Harbor](https://www.glaze.app/app/BeFnak) | 6 | Fast media downloads, every time | Tanzir Rahman | 2.0.0 | 79 KB | 2026-07-22 |
 | [Hold](https://www.glaze.app/app/GvHeQR) | 6 | Hold your place. Pick up where you left | Samuel Monteiro | 2.0.0 | 133 KB | 2026-07-31 |
+| [Halo](https://www.glaze.app/app/halo-JuaORD) | 5 | Good pauses throughout the work day | Philip Dren | 3.0.0 | 49 KB | 2026-08-03 |
 | [Handy Tools](https://www.glaze.app/app/AcZqw2) | 5 | Format, convert, and debug code fast | Devzstudio | 1.0.0 | 1.6 MB | 2026-07-04 |
 | [Hotstar Floater](https://www.glaze.app/app/nKcxtD) | 5 | Watch live streams while you multitask | Prakhar Shekhar Parthasarthi | 1.0.0 | 53 KB | 2026-07-04 |
 | [HyperFlow](https://www.glaze.app/app/eRwCvu) | 5 | Master your focus, guard your energy | WebSmith | 11.0.0 | 1.1 MB | 2026-08-01 |
-| [Halo](https://www.glaze.app/app/halo-JuaORD) | 4 | Meditate and breathe throughout your day | Philip Dren | 2.0.0 | 45 KB | 2026-08-02 |
 | [Headroom](https://www.glaze.app/app/hgpQYO) | 4 | Get warned before your Mac slows down | Sandra Booker | 2.0.0 | 65 KB | 2026-07-28 |
+| [Hindsight](https://www.glaze.app/app/NuyLC9) | 4 | Seal your decisions. Meet them later. | David Dodlek | 1.0.0 | 1.6 MB | 2026-07-28 |
 | [Habit Streak](https://www.glaze.app/app/4xVcUZ) | 3 | Build habits with daily check-ins | benben | 1.0.0 | 65 KB | 2026-05-30 |
 | [Habit Tracker](https://www.glaze.app/app/nOfsDB) | 3 | Build and maintain daily habits | Solve Base | 1.0.0 | 60 KB | 2026-07-11 |
 | [Handle It](https://www.glaze.app/app/Cs4rjZ) | 3 | Drop it in. Understand it. Handle it. | Jonas Tmb | 2.0.0 | 1.7 MB | 2026-07-26 |
 | [Helix](https://www.glaze.app/app/nSaq7x) | 3 | Scientific data analysis, simplified | mickaphd | 4.0.0 | 73.6 MB | 2026-07-24 |
 | [Hermes Commander](https://www.glaze.app/app/Li1r6b) | 3 | Control your Hermes agent from anywhere | Soham Dasgupta | 12.0.0 | 210 KB | 2026-07-31 |
 | [Highlighter](https://www.glaze.app/app/DuaGT4) | 3 | Remember what moved you. | Justin Harris | 1.0.0 | 98 KB | 2026-07-28 |
-| [Hindsight](https://www.glaze.app/app/NuyLC9) | 3 | Seal your decisions. Meet them later. | David Dodlek | 1.0.0 | 1.6 MB | 2026-07-28 |
 | [Habit Periods](https://www.glaze.app/app/133jtm) | 2 | Not build habits, build habit periods | Samet Özkale | 1.0.0 | 64 KB | 2026-07-29 |
 | [Handoff](https://www.glaze.app/app/C86y01) | 2 | Document decisions. Stay aligned. | Frank Olien | 1.0.0 | 69 KB | 2026-07-27 |
 | [Harbor](https://www.glaze.app/app/hqUDGS) | 2 | Track tasks and battery life together! | Van The Third | 2.0.0 | 101 KB | 2026-07-27 |

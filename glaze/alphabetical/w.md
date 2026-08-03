@@ -31,6 +31,7 @@
 | [Winamp macOS](https://www.glaze.app/app/dPhFjU) | 6 | Play your MP3s and WAVs locally on Mac | Ruslan Magzum | 3.0.0 | 162 KB | 2026-07-24 |
 | [Word Connections](https://www.glaze.app/app/Xt8TcC) | 6 | Find hidden connections between words by grouping related terms into categories | Andreas Elia | 1.0.1 | 174 KB | 2026-03-06 |
 | [Wayfinding](https://www.glaze.app/app/joKzw2) | 5 | Discover every app on your Mac instantly | Shuhari | 1.0.0 | 65 KB | 2026-07-01 |
+| [What should I play?](https://www.glaze.app/app/ZzCJLk) | 5 | Never wonder what game to play again | Markus Käding | 4.0.0 | 134 KB | 2026-07-29 |
 | [Whisper Wrapper](https://www.glaze.app/app/VWE4ie) | 5 | Transcribe and summarize meetings | Eldar Khuzin | 1.0.0 | 71 KB | 2026-06-12 |
 | [Wishlist](https://www.glaze.app/app/bdkrvX) | 5 | Curate and organize items you want to | Leonidas Fragkioudakis | 1.0.0 | 71 KB | 2026-07-06 |
 | [Worktree](https://www.glaze.app/app/ki2IFx) | 5 | Manage git worktrees effortlessly | Eitel Dagnin | 1.0.0 | 121 KB | 2026-07-03 |
@@ -38,7 +39,6 @@
 | [Watch Later](https://www.glaze.app/app/07KEGm) | 4 | Save videos, organize, watch anytime. | Kofi Amoussou | 6.0.0 | 130 KB | 2026-07-27 |
 | [webp to PNG](https://www.glaze.app/app/ms1HCr) | 4 | Convert WebP images to PNG instantly | TONOS | 2.0.0 | 352 KB | 2026-07-02 |
 | [Western ExpatMap](https://www.glaze.app/app/VTRYM0) | 4 | Find your ideal Western country to live | Check My blog (www.lhumain.info) | 4.0.0 | 122 KB | 2026-07-05 |
-| [What should I play?](https://www.glaze.app/app/ZzCJLk) | 4 | Never wonder what game to play again | Markus Käding | 4.0.0 | 134 KB | 2026-07-29 |
 | [Window Arrange](https://www.glaze.app/app/xBybc5) | 4 | Snap windows into perfect layouts fast | Juan Alejandre | 1.0.0 | 66 KB | 2026-07-26 |
 | [Wondher Pulse](https://www.glaze.app/app/wondher-pulse-EHeN4w) | 4 | Take control of your time, your way | Brian Mendes | 3.0.0 | 92 KB | 2026-08-01 |
 | [Word Counter](https://www.glaze.app/app/weVv8k) | 4 | Instantly count words and characters | Shearm | 3.0.0 | 54 KB | 2026-06-25 |

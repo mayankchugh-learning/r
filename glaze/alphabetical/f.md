@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) | 271 | Track nearby aircraft in real-time and follow flights of interest | Hamzah Chaudhary | 1.0.1 | 978 KB | 2026-03-12 |
+| [Flight Watch](https://www.glaze.app/app/flight-watch-DwoG93) | 272 | Track nearby aircraft in real-time and follow flights of interest | Hamzah Chaudhary | 1.0.1 | 978 KB | 2026-03-12 |
 | [Floating Youtube](https://www.glaze.app/app/floating-youtube-JUv9e2) | 227 | Floating Youtube video player | David Ferguson | 2.0.0 | 60 KB | 2026-07-26 |
 | [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) | 142 | Quickly preview local fonts in context | Alexander Artsvuni | 7.0.0 | 547 KB | 2026-07-29 |
 | [Funky Mirror](https://www.glaze.app/app/yHoT78) | 135 | Apply fun filters to your webcam | Samuel Kraft | 1.0.0 | 12.8 MB | 2026-05-12 |
@@ -44,7 +44,7 @@
 | [Flag Study](https://www.glaze.app/app/Ct17Wh) | 8 | Learn and master world flags | Shane Jeffers | 3.0.0 | 2.4 MB | 2026-07-28 |
 | [Focus Window](https://www.glaze.app/app/TxfmdO) | 6 | Dim everything except your active window | Jamie Wood | 1.0.0 | 62 KB | 2026-07-10 |
 | [Folder Cabinet](https://www.glaze.app/app/z1mZsi) | 6 | Visualize your folder structure | Lee Sherman | 2.0.0 | 68 KB | 2026-07-22 |
-| [Foldery](https://www.glaze.app/app/5sZbpN) | 6 | Launch folders in your favorite app | Dmytro Lobov | 23.0.0 | 166 KB | 2026-07-30 |
+| [Foldery](https://www.glaze.app/app/5sZbpN) | 6 | Launch folders in your favorite app | Dmytro Lobov | 24.0.0 | 174 KB | 2026-08-03 |
 | [Fooseroni](https://www.glaze.app/app/ZvJWBN) | 6 | Organize a quick foosball game | Ed117 | 7.0.0 | 90 KB | 2026-05-04 |
 | [Frame Sheet](https://www.glaze.app/app/7wL1zH) | 6 | Convert videos into contact sheets | Nick Radford | 1.0.0 | 69 KB | 2026-06-24 |
 | [Family Organiser](https://www.glaze.app/app/ceH4sD) | 5 | Keep your family on the same schedule | Mark Bulling | 3.0.0 | 156 KB | 2026-07-24 |
