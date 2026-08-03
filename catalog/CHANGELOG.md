@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `de9db747a9`
+
+**Updated (1):** [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers)
+
 ## 2026-08-03 — upstream `11d85eb15a`
 
 **Updated (1):** [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer)
