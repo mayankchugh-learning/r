@@ -6,19 +6,19 @@
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Productivity](./productivity/README.md) | 507 | 6,191 |
+| [Productivity](./productivity/README.md) | 507 | 6,193 |
 
 ## Development
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 314 | 7,657 |
+| [Developer Tools](./developer-tools/README.md) | 314 | 7,659 |
 
 ## System & Utilities
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Utilities](./utilities/README.md) | 388 | 6,150 |
+| [Utilities](./utilities/README.md) | 389 | 6,151 |
 
 ## Creative & Media
 
@@ -32,4 +32,4 @@
 | Category | Apps | Installs |
 | --- | --- | --- |
 | [Games & Fun](./games-fun/README.md) | 87 | 778 |
-| [Lifestyle](./lifestyle/README.md) | 54 | 435 |
+| [Lifestyle](./lifestyle/README.md) | 53 | 434 |

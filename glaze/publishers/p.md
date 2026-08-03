@@ -25,7 +25,7 @@
 | Paulo Lobo | 1 | 2 | [Scope](https://www.glaze.app/app/MRB1TC) *(Productivity)* |
 | Pavlina Schuster | 1 | 3 | [Dock Shifter](https://www.glaze.app/app/rXJ5CI) *(Utilities)* |
 | Pavlo Haidamak | 2 | 27 | [Apptopsy](https://www.glaze.app/app/kWwP7l) *(Developer Tools)*, [Chirp Chirrup](https://www.glaze.app/app/2z2j75) *(Lifestyle)* |
-| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 572 | [see all 5 →](./id/pedro-duarte.md) |
+| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 573 | [see all 5 →](./id/pedro-duarte.md) |
 | Pedro Fonseca | 2 | 1 | [WooPulse AI](https://www.glaze.app/app/cd6wTA) *(Productivity)*, [Unlink](https://www.glaze.app/app/Y2Xn6B) *(Utilities)* |
 | Pedro Ladeira | 1 | 2 | [Stretch Break](https://www.glaze.app/app/Y7qUx0) *(Productivity)* |
 | Pedro Marvarez | 1 | 15 | [Flow](https://www.glaze.app/app/v9gzNN) *(Productivity)* |
@@ -48,7 +48,7 @@
 | Pierre | 1 | 13 | [Local Mind](https://www.glaze.app/app/gXDcGx) *(Developer Tools)* |
 | Pierre Guilmin | 1 | 10 | [Earshot](https://www.glaze.app/app/G4xftZ) *(Utilities)* |
 | Pieter Moorman | 1 | 3 | [Long Play](https://www.glaze.app/app/Vzaw38) *(Media)* |
-| Piyushh Bhutoria | 1 | 10 | [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) *(Developer Tools)* |
+| Piyushh Bhutoria | 1 | 10 | [Better Prompt](https://www.glaze.app/app/iRsavT) *(Developer Tools)* |
 | PlumbRRRRRR | 1 | 3 | [Kip](https://www.glaze.app/app/aWB3Se) *(Productivity)* |
 | Pm.Delvern | 1 | 2 | [Lyric Finder](https://www.glaze.app/app/5Uepfq) *(Media)* |
 | Pocetox | 1 | 2 | [ForgeBoard](https://www.glaze.app/app/ESOFef) *(Developer Tools)* |

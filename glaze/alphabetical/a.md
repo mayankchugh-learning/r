@@ -36,12 +36,12 @@
 | [Antigravity Usage](https://www.glaze.app/app/Qoakia) | 10 | Monitor Antigravity usage | Dima Hinev | 2.0.0 | 59 KB | 2026-07-04 |
 | [Actually](https://www.glaze.app/app/9SRDcb) | 9 | AI assistant that executes tasks for you | Scott Steinhardt | 1.0.0 | 70 KB | 2026-05-02 |
 | [all the ports](https://www.glaze.app/app/aDVzGP) | 9 | Monitor and manage local ports | Andreas Persson | 1.0.0 | 54 KB | 2026-06-13 |
+| [Alto](https://www.glaze.app/app/cvSTku) | 8 | Nurture your focus and movement 🌿 | Wael | 2.0.0 | 4.9 MB | 2026-07-28 |
 | [Angry Draft](https://www.glaze.app/app/MV5O0a) | 8 | Say what matters. Skip the regret. | Davide | 2.0.0 | 538 KB | 2026-07-27 |
 | [AppDater](https://www.glaze.app/app/OwBOvL) | 8 | Update all your Mac apps in one place | Sérgio Brandão | 26.0.0 | 179 KB | 2026-07-30 |
 | [Agent Sandboxes](https://www.glaze.app/app/hzPbZ5) | 7 | Manage and view Docker containers | Neo I | 1.0.0 | 64 KB | 2026-07-07 |
 | [AI Model Fit](https://www.glaze.app/app/p8lgcd) | 7 | Find the best AI model for you | Gabriel García Fernández | 1.0.0 | 75 KB | 2026-07-25 |
 | [alembro](https://www.glaze.app/app/CdHNAP) | 7 | Language learning notebook | matheusjprates | 4.0.0 | 369 KB | 2026-07-19 |
-| [Alto](https://www.glaze.app/app/cvSTku) | 7 | Nurture your focus and movement 🌿 | Wael | 2.0.0 | 4.9 MB | 2026-07-28 |
 | [AI Projects Hub](https://www.glaze.app/app/sloIJ1) | 6 | Track AI-powered projects and | Marc Valderrama | 1.0.0 | 84 KB | 2026-07-09 |
 | [App Inventory](https://www.glaze.app/app/xzGXO8) | 6 | Track every app you have installed | S.Peacock | 2.0.0 | 64 KB | 2026-07-14 |
 | [AppleAI](https://www.glaze.app/app/d0fNs4) | 6 | AIHub with in built apple intelligence. | Jaswanth | 1.0.0 | 442 KB | 2026-07-26 |

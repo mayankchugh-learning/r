@@ -2,13 +2,13 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-123 apps · [← Glaze catalog](../README.md)
+122 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Peel](https://www.glaze.app/app/esimhU) | 417 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 340 | Simple project planning | Kristina Loewen | 6.0.0 | 130 KB | 2026-07-05 |
-| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 302 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
+| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 303 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
 | [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 238 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 | [ProjectBase](https://www.glaze.app/app/w5CAic) | 49 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 281 KB | 2026-07-29 |
@@ -114,7 +114,6 @@
 | [Perly.io](https://www.glaze.app/app/RsLTkW) | 1 | Perly.io | Volodymyr | 1.0.0 | 12.8 MB | 2026-07-31 |
 | [PitchMaster](https://www.glaze.app/app/1aHd47) | 1 | Practice your pitch and speaking skills | Ac0 | 5.0.0 | 321 KB | 2026-07-28 |
 | [Pixelman](https://www.glaze.app/app/BSV0GD) | 1 | Quick Screenshots - That’s it! | slowcrow | 1.0.0 | 70 KB | 2026-07-24 |
-| [Planted](https://www.glaze.app/app/YujFy8) | 1 | Grow what you plant, season after season | Crystal | 1.0.0 | 73 KB | 2026-07-25 |
 | [Pocket Dancer](https://www.glaze.app/app/X5YflW) | 1 | Master dance moves to your music | vo1dee | 2.0.0 | 64 KB | 2026-07-19 |
 | [Portfolio Sentinel](https://www.glaze.app/app/Skxj2W) | 1 | Monitor your multi-chain crypto holdings | Tom Barrelo | 1.0.0 | 74 KB | 2026-07-13 |
 | [Price Scout](https://www.glaze.app/app/hvAqO2) | 1 | Save more on your grocery shopping! | Kyo | 1.0.0 | 66 KB | 2026-07-24 |

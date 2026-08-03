@@ -24,7 +24,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 302 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
+| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 303 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
 | [Markdown View](https://www.glaze.app/app/fep2id) | 22 | Markdown Preview and Auto-Updating | Rick Wilkes | 2.0.0 | 166 KB | 2026-07-03 |
 | [Glasshouse](https://www.glaze.app/app/VhRMAU) | 17 | The town square for Glaze ecosystem! | Mike | 6.0.0 | 110 KB | 2026-07-28 |
 | [Applause](https://www.glaze.app/app/0La79U) | 2 | Celebrate GitHub stars on your repos in | Giovambattista Fazioli | 1.0.0 | 70 KB | 2026-07-01 |

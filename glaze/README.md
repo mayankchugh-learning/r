@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**1,578** apps · **7** categories · **1,167** publishers · **27,710** installs · **2.67 GB** total, median **83 KB**
+**1,578** apps · **7** categories · **1,166** publishers · **27,714** installs · **2.67 GB** total, median **83 KB**
 
 ## Browse
 
@@ -11,7 +11,7 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 | [By installs](./ranked/README.md) | every app ranked by install count |
 | [By size](./sizes/README.md) | every app ranked by download size |
 | [By category](./categories/README.md) | 7 categories → curated topics → auto-discovered groups (✦), nested as deep as the data supports |
-| [By publisher](./publishers/README.md) | 1,167 publishers, sortable by installs or app count |
+| [By publisher](./publishers/README.md) | 1,166 publishers, sortable by installs or app count |
 | [Alphabetical](./alphabetical/a.md) | every app, A–Z |
 | [Recent](./recent.md) | newest releases and updates |
 | [Changelog](./CHANGELOG.md) | apps added, removed, and updated per sync |
@@ -20,11 +20,11 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Section | Categories | Apps | Installs |
 | --- | --- | --- | --- |
-| Work & Productivity | Productivity | 507 | 6,191 |
-| Development | Developer Tools | 314 | 7,657 |
-| System & Utilities | Utilities | 388 | 6,150 |
+| Work & Productivity | Productivity | 507 | 6,193 |
+| Development | Developer Tools | 314 | 7,659 |
+| System & Utilities | Utilities | 389 | 6,151 |
 | Creative & Media | Design, Media | 228 | 6,499 |
-| Life & Play | Lifestyle, Games & Fun | 141 | 1,213 |
+| Life & Play | Lifestyle, Games & Fun | 140 | 1,212 |
 
 ## Most installed
 

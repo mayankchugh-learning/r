@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · **C** · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-45 publishers · [← publisher index](./README.md)
+44 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
@@ -50,4 +50,3 @@
 | Combustion Studio | 1 | 401 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) *(Media)* |
 | Cornelius | 3 | 64 | [Skim](https://www.glaze.app/app/vEYysi) *(Productivity)*, [ATLAS](https://www.glaze.app/app/ovPml8) *(Productivity)*, [Quire](https://www.glaze.app/app/y5aT7t) *(Utilities)* |
 | [credesasq](./id/credesasq.md) | 5 | 3 | [see all 5 →](./id/credesasq.md) |
-| Crystal | 1 | 1 | [Planted](https://www.glaze.app/app/YujFy8) *(Lifestyle)* |

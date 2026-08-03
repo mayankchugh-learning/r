@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Yolo](https://www.glaze.app/app/yolo-PSjYlj) | 248 | A distraction-free terminal | Alexandr Subbotin | 1.0.0 | 19.7 MB | 2026-05-27 |
+| [Yolo](https://www.glaze.app/app/yolo-PSjYlj) | 249 | A distraction-free terminal | Alexandr Subbotin | 1.0.0 | 19.7 MB | 2026-05-27 |
 | [Yapped](https://www.glaze.app/app/48kFgW) | 57 | Spotify Wrapped for your iMessages | Thomas Paul Mann | 1.0.0 | 132 KB | 2026-07-10 |
 | [YouDownload](https://www.glaze.app/app/4NQXSp) | 23 | Effortlessly download YouTube videos | Yeshe | 2.0.0 | 66 KB | 2026-07-24 |
 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) | 22 | Create custom Yoto cards from your media | Sonia Kahn | 4.0.0 | 19.9 MB | 2026-07-31 |

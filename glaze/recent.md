@@ -4,6 +4,8 @@ Newest 60 of 1578 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
+| [TabSet](https://www.glaze.app/app/pYwgOi) | 2026-08-03 | 8.0.0 | 8 | Productivity | Dmytro Lobov |
+| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 2026-08-03 | 1.0.0 | 1 | Utilities | Dmytro Lobov |
 | [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 2026-08-03 | 7.0.0 | 1 | Utilities | Lee Sherman |
 | [Quick Translate EN↔RU](https://www.glaze.app/app/quick-translate-enru-boRTfT) | 2026-08-03 | 1.0.0 | 0 | Productivity | Eugene Stepanov |
 | [Squish](https://www.glaze.app/app/squish-cWRtaY) | 2026-08-03 | 1.0.0 | 1 | Utilities | Nicholas |
@@ -40,7 +42,6 @@ Newest 60 of 1578 apps by last release · [← Glaze catalog](./README.md)
 | [Thermal Monitor](https://www.glaze.app/app/d8QTlA) | 2026-08-01 | 4.0.0 | 3 | Utilities | Léo Tuil |
 | [Workshop Flow](https://www.glaze.app/app/713b98) | 2026-08-01 | 2.0.0 | 1 | Productivity | Antony Mayfield |
 | [SiteLens](https://www.glaze.app/app/Dw8vob) | 2026-08-01 | 8.0.0 | 11 | Developer Tools | Dmytro Lobov |
-| [TabSet](https://www.glaze.app/app/pYwgOi) | 2026-08-01 | 7.0.0 | 8 | Productivity | Dmytro Lobov |
 | [Apptopsy](https://www.glaze.app/app/kWwP7l) | 2026-08-01 | 12.0.0 | 17 | Developer Tools | Pavlo Haidamak |
 | [Scroblytics](https://www.glaze.app/app/Lf9vBU) | 2026-08-01 | 32.0.0 | 14 | Media | thebluch |
 | [Ghosted](https://www.glaze.app/app/h3nZXl) | 2026-08-01 | 9.0.0 | 18 | Productivity | Azlan Ibrahim |
@@ -50,7 +51,7 @@ Newest 60 of 1578 apps by last release · [← Glaze catalog](./README.md)
 | [Jamal](https://www.glaze.app/app/jamal-JN0yZw) | 2026-07-31 | 1.0.0 | 1 | Productivity | Abdullah Alghamdi |
 | [Chmod Manager](https://www.glaze.app/app/MXi8To) | 2026-07-31 | 7.0.0 | 15 | Developer Tools | S.Peacock |
 | [Icon Collector](https://www.glaze.app/app/X5epC2) | 2026-07-31 | 2.0.0 | 5 | Design | S.Peacock |
-| [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) | 2026-07-31 | 2.0.0 | 10 | Developer Tools | Piyushh Bhutoria |
+| [Better Prompt](https://www.glaze.app/app/iRsavT) | 2026-07-31 | 2.0.0 | 10 | Developer Tools | Piyushh Bhutoria |
 | [News Flow](https://www.glaze.app/app/LmfyXP) | 2026-07-31 | 2.0.0 | 4 | Media | WheelHugger |
 | [Hex Savings](https://www.glaze.app/app/hex-savings-wKaY12) | 2026-07-31 | 1.0.0 | 0 | Productivity | Christian Boyle |
 | [Markdown Preview](https://www.glaze.app/app/markdown-preview-41iQyN) | 2026-07-31 | 2.0.0 | 10 | Developer Tools | freddy |
@@ -63,4 +64,3 @@ Newest 60 of 1578 apps by last release · [← Glaze catalog](./README.md)
 | [Blunder](https://www.glaze.app/app/0dUOLc) | 2026-07-31 | 6.0.0 | 5 | Games & Fun | Francesco Maisano |
 | [Neovim Notes](https://www.glaze.app/app/35eP2I) | 2026-07-31 | 8.0.0 | 3 | Productivity | Daniele Avitabile |
 | [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 2026-07-31 | 16.0.0 | 31 | Developer Tools | Dhruv Suthar |
-| [Perly.io](https://www.glaze.app/app/RsLTkW) | 2026-07-31 | 1.0.0 | 1 | Utilities | Volodymyr |

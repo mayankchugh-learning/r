@@ -40,7 +40,7 @@
 | [The Jarvis](https://www.glaze.app/app/8pGlBl) | 9 | Voice commands for your workflows 🤖 | Petar Stoyanov | 3.0.0 | 74 KB | 2026-07-04 |
 | [Treehouse](https://www.glaze.app/app/c7UeuV) | 9 | Git worktrees, without the friction. | Alyssa Holland | 7.0.0 | 1.2 MB | 2026-07-30 |
 | [TypeMeter](https://www.glaze.app/app/KljnFe) | 9 | Beat the clock, master your typing | Prahesa Kusuma Setia | 1.0.0 | 62 KB | 2026-07-01 |
-| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 7.0.0 | 63 KB | 2026-08-01 |
+| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 8.0.0 | 63 KB | 2026-08-03 |
 | [Taped](https://www.glaze.app/app/9re1VL) | 8 | Keep track of everything you own | Mose | 3.0.0 | 1,009 KB | 2026-07-28 |
 | [Transcode](https://www.glaze.app/app/iGYFu1) | 8 | Compress and convert video, photo, audio | thejasonhowell | 1.0.0 | 65 KB | 2026-07-08 |
 | [Translate](https://www.glaze.app/app/NTmoY8) | 8 | Instant translation from your menu bar | Oleh Yeroshkin | 1.0.0 | 55 KB | 2026-07-02 |

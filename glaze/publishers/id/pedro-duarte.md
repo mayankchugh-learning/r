@@ -1,12 +1,12 @@
 # Pedro Duarte
 
-5 apps · 572 installs · [← publishers](../README.md)
+5 apps · 573 installs · [← publishers](../README.md)
 
 ## Developer Tools (1)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 302 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
+| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 303 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
 
 ## Utilities (1)
 

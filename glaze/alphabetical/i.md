@@ -2,7 +2,7 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · **I** · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-32 apps · [← Glaze catalog](../README.md)
+33 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -32,6 +32,7 @@
 | [Image Joiner](https://www.glaze.app/app/PQbrzf) | 2 | Combine images automatically | Bowen Winter | 2.0.0 | 67 KB | 2026-07-04 |
 | [In Formation](https://www.glaze.app/app/hHqNpB) | 2 | Soccer formation designer | Bruno Reis | 1.0.0 | 300 KB | 2026-07-07 |
 | [Insomniac](https://www.glaze.app/app/rqWLco) | 2 | Smart Keep-Awake Utility for Developers | WebSmith | 2.0.0 | 75 KB | 2026-07-30 |
+| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 1 | Compress images and see the result | Dmytro Lobov | 1.0.0 | 341 KB | 2026-08-03 |
 | [Indivisible](https://www.glaze.app/app/NNLHgC) | 1 | Find the nearest indivisible number | David.Tannenbaum | 1.0.0 | 56 KB | 2026-07-10 |
 | [Input Guard](https://www.glaze.app/app/ymBx6p) | 1 | Prevent automatic mic change | Cezar | 2.0.0 | 76 KB | 2026-07-24 |
 | [IBAN Validator](https://www.glaze.app/app/8Bahfk) | 0 | Validate IBAN format locally | André | 1.0.0 | 61 KB | 2026-07-04 |

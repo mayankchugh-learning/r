@@ -1,6 +1,6 @@
 # Dmytro Lobov
 
-16 apps · 82 installs · [← publishers](../README.md)
+17 apps · 83 installs · [← publishers](../README.md)
 
 ## Developer Tools (9)
 
@@ -21,14 +21,15 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Bookmarks](https://www.glaze.app/app/ihUztq) | 8 | Bookmarks in your menu bar | Dmytro Lobov | 7.0.0 | 54 KB | 2026-07-26 |
-| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 7.0.0 | 63 KB | 2026-08-01 |
+| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 8.0.0 | 63 KB | 2026-08-03 |
 | [Snippets](https://www.glaze.app/app/aj3dwQ) | 5 | Your snippets, one keystroke away | Dmytro Lobov | 8.0.0 | 111 KB | 2026-07-30 |
 | [TextGenie](https://www.glaze.app/app/UBkg0q) | 4 | AI text actions from your menu bar | Dmytro Lobov | 7.0.0 | 116 KB | 2026-07-29 |
 | [MarketPeek](https://www.glaze.app/app/6HvkTX) | 1 | Track currency and stock prices | Dmytro Lobov | 3.0.0 | 71 KB | 2026-07-22 |
 
-## Utilities (2)
+## Utilities (3)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Caffeinat](https://www.glaze.app/app/1YAMhR) | 7 | Keep your Mac awake on demand | Dmytro Lobov | 5.0.0 | 34 KB | 2026-07-29 |
 | [AccessLens](https://www.glaze.app/app/MhGGpr) | 3 | See who can access your Mac | Dmytro Lobov | 2.0.0 | 62 KB | 2026-07-22 |
+| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 1 | Compress images and see the result | Dmytro Lobov | 1.0.0 | 341 KB | 2026-08-03 |

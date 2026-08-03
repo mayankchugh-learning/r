@@ -24,7 +24,7 @@
 | [BackdropRemove](https://www.glaze.app/app/G8dm5F) | 10 | Remove image backgrounds instantly | Clement.Jonghmans | 1.0.0 | 71 KB | 2026-07-09 |
 | [Batch Rename](https://www.glaze.app/app/cSKIlT) | 10 | Rename multiple files in seconds | Ahmed Raafat | 1.0.0 | 64 KB | 2026-07-05 |
 | [Beat Studio](https://www.glaze.app/app/ZEpRfE) | 10 | Beat-making and music | Leo Enin | 1.0.0 | 96 KB | 2026-07-09 |
-| [Better Prompt](https://www.glaze.app/app/better-prompt-iRsavT) | 10 | Transform raw prompts into structured | Piyushh Bhutoria | 2.0.0 | 66 KB | 2026-07-31 |
+| [Better Prompt](https://www.glaze.app/app/iRsavT) | 10 | Transform raw prompts into structured | Piyushh Bhutoria | 2.0.0 | 66 KB | 2026-07-31 |
 | [Box Breath](https://www.glaze.app/app/1kgWwj) | 10 | Breathe square. Reset your mind at work | Jeremy Caplan | 1.0.0 | 47 KB | 2026-05-02 |
 | [Backyard Garden Planner](https://www.glaze.app/app/cNg3uV) | 9 | Design and maintain your garden layout | Jenny Dougherty | 1.0.0 | 91 KB | 2026-07-05 |
 | [Breathe](https://www.glaze.app/app/AB5RAV) | 9 | Find calm through guided breath work | Glaze | 1.0.0 | 65 KB | 2026-07-01 |

@@ -4,6 +4,14 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-08-03
 
+**Added (1):** [Imagery](https://www.glaze.app/app/imagery-6MoowR)
+
+**Removed (1):** Planted
+
+**TabSet:** version 7.0.0 → 8.0.0
+
+## 2026-08-03
+
 **Clipboard View:** version 6.0.0 → 7.0.0
 
 ## 2026-08-03

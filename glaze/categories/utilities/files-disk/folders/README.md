@@ -1,11 +1,11 @@
 # Folders ✦
 
-67 apps · [← Files & Disk](../README.md)
+68 apps · [← Files & Disk](../README.md)
 
 | Topic | Apps |
 | --- | --- |
 | [Organize ✦](./organize.md) | 23 |
-| [Bar ✦](./bar.md) | 13 |
+| [Bar ✦](./bar.md) | 14 |
 | [Drag ✦](./drag.md) | 8 |
 | [Images ✦](./images.md) | 5 |
 | [Preview ✦](./preview.md) | 4 |

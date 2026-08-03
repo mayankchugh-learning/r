@@ -1,6 +1,6 @@
 # Lifestyle
 
-54 apps · 435 installs · [← all categories](../README.md)
+53 apps · 434 installs · [← all categories](../README.md)
 
 ## Body
 
@@ -23,6 +23,6 @@
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [Travel & Places](./travel-places.md) | 7 | 68 |
-| [Nature & Outdoors](./nature-outdoors.md) | 4 | 15 |
+| [Nature & Outdoors](./nature-outdoors.md) | 3 | 14 |
 
 Plus [General](./general.md) — 8 apps that don't fit a topic yet.
