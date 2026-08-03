@@ -6,6 +6,6 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,595 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
-| [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,083 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
+| [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,602 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
+| [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,085 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
 | [42 Api Tools](https://github.com/raycast/extensions/tree/main/extensions/42-api) | 35 | Track your logtime and find peers in 42 school clusters directly from Raycast | maujogue | macOS, Windows | [store](https://www.raycast.com/maujogue/42-api) |

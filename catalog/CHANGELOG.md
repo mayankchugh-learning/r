@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `484657b1fe`
+
+**Updated (2):** [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming), [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm)
+
 ## 2026-08-01 — upstream `3d0cc66768`
 
 **Added (1):** [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader)

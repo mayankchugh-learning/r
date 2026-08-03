@@ -10,25 +10,25 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,109 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
-| [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,128 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
-| [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,292 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
-| [MacRumors](https://github.com/raycast/extensions/tree/main/extensions/macrumors) | 548 | Browse MacRumors headlines from the comfort of Raycast. | hughmcmillanv | macOS | [store](https://www.raycast.com/hughmcmillanv/macrumors) |
-| [Recent News](https://github.com/raycast/extensions/tree/main/extensions/the-verge) | 527 | Check top articles on The Verge | klkvsky | macOS | [store](https://www.raycast.com/klkvsky/the-verge) |
-| [TechCrunch](https://github.com/raycast/extensions/tree/main/extensions/techcrunch) | 526 | Read the best news from TechCrunch | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/techcrunch) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,127 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,133 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
+| [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,295 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
+| [MacRumors](https://github.com/raycast/extensions/tree/main/extensions/macrumors) | 551 | Browse MacRumors headlines from the comfort of Raycast. | hughmcmillanv | macOS | [store](https://www.raycast.com/hughmcmillanv/macrumors) |
+| [Recent News](https://github.com/raycast/extensions/tree/main/extensions/the-verge) | 528 | Check top articles on The Verge | klkvsky | macOS | [store](https://www.raycast.com/klkvsky/the-verge) |
+| [TechCrunch](https://github.com/raycast/extensions/tree/main/extensions/techcrunch) | 528 | Read the best news from TechCrunch | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/techcrunch) |
 | [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 425 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
-| [Hacker News Top Stories](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories) | 222 | A menubar extension to view top stories on Hacker News based on a configurable points threshold. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/hacker-news-top-stories) |
-| [Ars Technica](https://github.com/raycast/extensions/tree/main/extensions/ars-technica) | 186 | Get the latest Ars Technica stories. | edwin-dd-ong | macOS | [store](https://www.raycast.com/edwin-dd-ong/ars-technica) |
+| [Hacker News Top Stories](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories) | 223 | A menubar extension to view top stories on Hacker News based on a configurable points threshold. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/hacker-news-top-stories) |
+| [Ars Technica](https://github.com/raycast/extensions/tree/main/extensions/ars-technica) | 187 | Get the latest Ars Technica stories. | edwin-dd-ong | macOS | [store](https://www.raycast.com/edwin-dd-ong/ars-technica) |
 | [Órbita](https://github.com/raycast/extensions/tree/main/extensions/orbita) | 15 | Follow the posts in the Órbita, the Brazilian hacker news | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/orbita) |
 
 ### Sports & Esports News
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,534 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
-| [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,452 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
-| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,314 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS | [store](https://www.raycast.com/daniyal_master/sportssync) |
-| [CricketCast](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) | 685 | Check the cricket score and news through Raycast! | sampoder | macOS | [store](https://www.raycast.com/sampoder/cricketcast) |
+| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,535 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
+| [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,453 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
+| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,316 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS | [store](https://www.raycast.com/daniyal_master/sportssync) |
+| [CricketCast](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) | 686 | Check the cricket score and news through Raycast! | sampoder | macOS | [store](https://www.raycast.com/sampoder/cricketcast) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 319 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 309 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [ESPN News](https://github.com/raycast/extensions/tree/main/extensions/espn) | 228 | Read the best news from ESPN directly from Raycast | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/espn) |
@@ -44,19 +44,19 @@
 | --- | --- | --- | --- | --- | --- |
 | [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 699 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
 | [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 671 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
-| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 544 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
-| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 521 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
+| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 546 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
+| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 523 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [Headlines](https://github.com/raycast/extensions/tree/main/extensions/headlines) | 409 | Super breif news extension. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/headlines) |
-| [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 328 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
+| [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 330 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 216 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
-| [early.tools news](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) | 170 | Long-form updates from 80+ of the greatest entrepreneurs on the web. | julianpaul | macOS | [store](https://www.raycast.com/julianpaul/early-tools-news) |
+| [early.tools news](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) | 172 | Long-form updates from 80+ of the greatest entrepreneurs on the web. | julianpaul | macOS | [store](https://www.raycast.com/julianpaul/early-tools-news) |
 | [ifanr](https://github.com/raycast/extensions/tree/main/extensions/ifanr) | 98 | Read the latest news from ifanr | madcodelife | macOS | [store](https://www.raycast.com/madcodelife/ifanr) |
 | [Habr News](https://github.com/raycast/extensions/tree/main/extensions/habr-media) | 67 | Best News From Habr | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/habr-media) |
 | [VC.ru Popular News](https://github.com/raycast/extensions/tree/main/extensions/vc-ru-news) | 64 | List popular news from VC.ru | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/vc-ru-news) |
 | [Omni News](https://github.com/raycast/extensions/tree/main/extensions/omni-news) | 63 | Fetching news from omni.se | MacRayCast | macOS | [store](https://www.raycast.com/MacRayCast/omni-news) |
 | [Meduza](https://github.com/raycast/extensions/tree/main/extensions/meduza) | 49 | Every day, we bring you the most important news and feature stories from hundreds of sources in Russia and across the former Soviet Union. Our team includes so… | castletaste | macOS | [store](https://www.raycast.com/castletaste/meduza) |
 | [NU Nieuws](https://github.com/raycast/extensions/tree/main/extensions/nu-nieuws) | 49 | Used to display the latest (Dutch) news from nu.nl | j3lte | macOS | [store](https://www.raycast.com/j3lte/nu-nieuws) |
-| [NL News Headlines](https://github.com/raycast/extensions/tree/main/extensions/nl-news-headlines) | 47 | Provides news headlines about the Netherlands from websites reporting in Dutch or English | ernest | macOS | [store](https://www.raycast.com/ernest/nl-news-headlines) |
+| [NL News Headlines](https://github.com/raycast/extensions/tree/main/extensions/nl-news-headlines) | 48 | Provides news headlines about the Netherlands from websites reporting in Dutch or English | ernest | macOS | [store](https://www.raycast.com/ernest/nl-news-headlines) |
 | [DR News](https://github.com/raycast/extensions/tree/main/extensions/dr-news) | 42 | Showcases news updates from DR, Denmark's premier broadcaster, categorized by various topics. | kenanbendz | macOS | [store](https://www.raycast.com/kenanbendz/dr-news) |
 | [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) | 37 | Read the latest news of Thrasher Magazine | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/thrasher-magazine) |
 | [TV2 - Denmark](https://github.com/raycast/extensions/tree/main/extensions/tv2---denmark) | 25 | Get the latest news from TV2 Denmark | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/tv2---denmark) |
@@ -69,7 +69,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Polymarket](https://github.com/raycast/extensions/tree/main/extensions/polymarket) | 293 | Search and view markets on Polymarket | Osprey | macOS | [store](https://www.raycast.com/Osprey/polymarket) |
-| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | 126 | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
+| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | 128 | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
 | [Rusbase](https://github.com/raycast/extensions/tree/main/extensions/rusbase) | 14 | Get sections, markets and companies from Rusbase directly in Raycast | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/rusbase) |
 
 ## Read & Discuss
@@ -78,15 +78,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,463 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
-| [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,237 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
+| [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,467 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
+| [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,238 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
 | [v2ex](https://github.com/raycast/extensions/tree/main/extensions/v2ex) | 779 | You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your… | leo | macOS | [store](https://www.raycast.com/leo/v2ex) |
-| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 733 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
-| [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) | 705 | Checkout all NYT posts | Antonwy | macOS | [store](https://www.raycast.com/Antonwy/new-york-times) |
-| [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) | 525 | Read and explore Kagi News articles and sources seamlessly in Raycast | mickaphd | macOS, Windows | [store](https://www.raycast.com/mickaphd/kagi-news) |
-| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 376 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
-| [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | 302 | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 262 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 742 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
+| [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) | 706 | Checkout all NYT posts | Antonwy | macOS | [store](https://www.raycast.com/Antonwy/new-york-times) |
+| [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) | 527 | Read and explore Kagi News articles and sources seamlessly in Raycast | mickaphd | macOS, Windows | [store](https://www.raycast.com/mickaphd/kagi-news) |
+| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 379 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
+| [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | 303 | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 263 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 | [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | 188 | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
 | [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 119 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 106 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
@@ -99,7 +99,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,686 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,710 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
 | [IndieHackers](https://github.com/raycast/extensions/tree/main/extensions/indiehackers) | 145 | Browse IndieHackers | xmok | macOS | [store](https://www.raycast.com/xmok/indiehackers) |
 | [Raycafé](https://github.com/raycast/extensions/tree/main/extensions/raycafe) | 58 | Browse upcoming Raycast Community meetups and open event pages. | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/raycafe) |
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 0 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
@@ -108,20 +108,20 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 41,566 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,965 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
-| [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,239 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
-| [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,800 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
-| [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,190 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
-| [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,119 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 41,595 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,969 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,243 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
+| [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,802 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
+| [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,191 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
+| [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,120 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
 | [Adhan Time](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) | 1,048 | This extension helps you to search prayer time for the user location | mzaien | macOS, Windows | [store](https://www.raycast.com/mzaien/adhan-time) |
 | [Social Network Trends](https://github.com/raycast/extensions/tree/main/extensions/social-network-trends) | 806 | Show trends on WeiBo, ZhiHu, DouYin，BaiDu, TouTiao, BiliBili. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/social-network-trends) |
-| [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 632 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
-| [Daily Sites - Site Launcher](https://github.com/raycast/extensions/tree/main/extensions/daily-sites) | 312 | Access frequently visited sites with ease. | dubsdotla | macOS | [store](https://www.raycast.com/dubsdotla/daily-sites) |
+| [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 633 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
+| [Daily Sites - Site Launcher](https://github.com/raycast/extensions/tree/main/extensions/daily-sites) | 314 | Access frequently visited sites with ease. | dubsdotla | macOS | [store](https://www.raycast.com/dubsdotla/daily-sites) |
 | [Shopify Developer Changelog](https://github.com/raycast/extensions/tree/main/extensions/shopify-developer-changelog) | 285 | Most recent changes to Shopify's developer platform | sandypockets | macOS | [store](https://www.raycast.com/sandypockets/shopify-developer-changelog) |
 | [NOS Nieuws](https://github.com/raycast/extensions/tree/main/extensions/nos-news) | 270 | Used to display the latest NOS nieuws from nos.nl | jorandob | macOS | [store](https://www.raycast.com/jorandob/nos-nieuws) |
 | [Miniflux](https://github.com/raycast/extensions/tree/main/extensions/miniflux) | 239 | A Raycast extension for Miniflux | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/miniflux) |
-| [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) | 157 | See Pitchfork Album Reviews | koayon | macOS | [store](https://www.raycast.com/koayon/pitchfork) |
+| [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) | 158 | See Pitchfork Album Reviews | koayon | macOS | [store](https://www.raycast.com/koayon/pitchfork) |
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | 147 | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
 | [CCF Conference](https://github.com/raycast/extensions/tree/main/extensions/ccfddl) | 127 | Look up CS conference details and DDLs | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/ccfddl) |
 | [Vision Directory](https://github.com/raycast/extensions/tree/main/extensions/vision-directory) | 121 | Discover the latest Apple Vision Pro apps | marckohlbrugge | macOS | [store](https://www.raycast.com/marckohlbrugge/vision-directory) |

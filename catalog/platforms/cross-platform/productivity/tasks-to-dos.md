@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 84,387 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,139 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
-| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 9,908 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
-| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,379 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
+| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 84,484 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,148 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 9,920 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,385 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 726 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
-| [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 103 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
+| [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 106 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 86 | Search for tasks & projects and log time in awork. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
 | [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) | 68 | View your daily goals and calories in Yazio, and log food directly from Raycast. | zsombor_biro | Windows, macOS | [store](https://www.raycast.com/zsombor_biro/yazio-tracker) |
 | [Backlog.md Manager](https://github.com/raycast/extensions/tree/main/extensions/backlog-md-manager) | 41 | Manage Backlog.md tasks from Raycast — create, browse, search, edit, and change status across multiple projects using the backlog CLI. | nicholas_ferguson | macOS, Windows | [store](https://www.raycast.com/nicholas_ferguson/backlog-md-manager) |
