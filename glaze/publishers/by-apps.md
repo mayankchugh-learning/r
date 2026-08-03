@@ -1,6 +1,6 @@
 # Publishers
 
-1166 publishers · [← Glaze catalog](../README.md)
+1165 publishers · [← Glaze catalog](../README.md)
 
 **Sort:** [Installs](./README.md) · **Apps**
 
@@ -43,7 +43,7 @@
 | 33 | [Olivia Rukavina](./id/olivia-rukavina.md) | 4 | 9 |
 | 34 | [lukrencijus](./id/lukrencijus.md) | 4 | 8 |
 | 35 | Boufford | 3 | 882 |
-| 36 | Yann-Edern Gillet | 3 | 679 |
+| 36 | Yann-Edern Gillet | 3 | 680 |
 | 37 | Alex Antonov | 3 | 563 |
 | 38 | @zenithquinn | 3 | 288 |
 | 39 | LitoMore | 3 | 143 |
@@ -233,7 +233,7 @@
 | 223 | Christian Alares | 1 | 97 |
 | 224 | James Dawson | 1 | 87 |
 | 225 | gowhith kanisetty | 1 | 81 |
-| 226 | fra.raw | 1 | 70 |
+| 226 | fra.raw | 1 | 71 |
 | 227 | Andrew Bondarenko | 1 | 58 |
 | 228 | Vlad Bahara | 1 | 56 |
 | 229 | Vincent de Lagabbe | 1 | 53 |
@@ -949,102 +949,102 @@
 | 939 | Hamza Merzic | 1 | 2 |
 | 940 | Haris Sulaiman | 1 | 2 |
 | 941 | hgg end | 1 | 2 |
-| 942 | Jean DOUTRIAUX | 1 | 2 |
-| 943 | Jeff Watson | 1 | 2 |
-| 944 | Jelte Lagendijk | 1 | 2 |
-| 945 | Joeri | 1 | 2 |
-| 946 | Jorge | 1 | 2 |
-| 947 | Ke Xiong | 1 | 2 |
-| 948 | Kyle Gilbert | 1 | 2 |
-| 949 | Leandro Viscome | 1 | 2 |
-| 950 | Lmelerski | 1 | 2 |
-| 951 | LuisAFK | 1 | 2 |
-| 952 | Majesticwalrusz | 1 | 2 |
-| 953 | MajorLaser | 1 | 2 |
-| 954 | Masudur Rahman | 1 | 2 |
-| 955 | mcfoton | 1 | 2 |
-| 956 | Mohammad Nabhan | 1 | 2 |
-| 957 | Montoya | 1 | 2 |
-| 958 | Mr. S | 1 | 2 |
-| 959 | Nelson Mendes | 1 | 2 |
-| 960 | Nicholas Lortz | 1 | 2 |
-| 961 | OctaneXyz | 1 | 2 |
-| 962 | Okoyeprosper475 | 1 | 2 |
-| 963 | Pan Rada | 1 | 2 |
-| 964 | Paul Contreras | 1 | 2 |
-| 965 | Paulo Lobo | 1 | 2 |
-| 966 | Pedro Ladeira | 1 | 2 |
-| 967 | Pete Ware | 1 | 2 |
-| 968 | Philip Han | 1 | 2 |
-| 969 | Pm.Delvern | 1 | 2 |
-| 970 | Pocetox | 1 | 2 |
-| 971 | pokeban | 1 | 2 |
-| 972 | Rizal Ramadhan | 1 | 2 |
-| 973 | Rodrigo.Medina.Neri | 1 | 2 |
-| 974 | Romain Malaterre | 1 | 2 |
-| 975 | Rowan Marshall | 1 | 2 |
-| 976 | Samet Özkale | 1 | 2 |
-| 977 | Sefat Anam | 1 | 2 |
-| 978 | Sender Oppenheimer | 1 | 2 |
-| 979 | Seth Carnill | 1 | 2 |
-| 980 | Shashi Thakur | 1 | 2 |
-| 981 | Shaun | 1 | 2 |
-| 982 | SidThatsMoi | 1 | 2 |
-| 983 | Sohail Lajevardi | 1 | 2 |
-| 984 | Sonia Toqqe | 1 | 2 |
-| 985 | Sumit Bedi | 1 | 2 |
-| 986 | Sven | 1 | 2 |
-| 987 | undefined | 1 | 2 |
-| 988 | Van The Third | 1 | 2 |
-| 989 | Wil | 1 | 2 |
-| 990 | yafyx | 1 | 2 |
-| 991 | Yash | 1 | 2 |
-| 992 | Zach Weismann | 1 | 2 |
-| 993 | Željko Prša | 1 | 2 |
-| 994 | Zeroibc | 1 | 2 |
-| 995 | Abdullah Alghamdi | 1 | 1 |
-| 996 | Aleksandra Gramatchikova | 1 | 1 |
-| 997 | Antony Mayfield | 1 | 1 |
-| 998 | Artem | 1 | 1 |
-| 999 | Aurélien Pénavaire | 1 | 1 |
-| 1000 | Aust.Crim | 1 | 1 |
-| 1001 | benmjsim | 1 | 1 |
-| 1002 | Berenger Zantangni | 1 | 1 |
-| 1003 | Bill Bishop's BIG Idea Show | 1 | 1 |
-| 1004 | Bill.Daniels | 1 | 1 |
-| 1005 | Charles Ji | 1 | 1 |
-| 1006 | Chris | 1 | 1 |
-| 1007 | Clovisprovost | 1 | 1 |
-| 1008 | Cody Cochran | 1 | 1 |
-| 1009 | Colin DiCarlo | 1 | 1 |
-| 1010 | Damilolamustaphaa | 1 | 1 |
-| 1011 | Daniel Calmon | 1 | 1 |
-| 1012 | Daniel Martin | 1 | 1 |
-| 1013 | David Pellerin | 1 | 1 |
-| 1014 | David.Tannenbaum | 1 | 1 |
-| 1015 | dtrain | 1 | 1 |
-| 1016 | Elijah Oreoluwa | 1 | 1 |
-| 1017 | Erik | 1 | 1 |
-| 1018 | Eugene Kruglov | 1 | 1 |
-| 1019 | Evangel Oladipo | 1 | 1 |
-| 1020 | Felix Kaiser | 1 | 1 |
-| 1021 | Filipz.08 | 1 | 1 |
-| 1022 | Frajjco | 1 | 1 |
-| 1023 | Ggabric97 | 1 | 1 |
-| 1024 | Glazeapp.Xty | 1 | 1 |
-| 1025 | Gmoneyman10 | 1 | 1 |
-| 1026 | Hakeem Adjei | 1 | 1 |
-| 1027 | Harry Dhaliwal | 1 | 1 |
-| 1028 | Huscruz | 1 | 1 |
-| 1029 | Hxii | 1 | 1 |
-| 1030 | Icha Victory | 1 | 1 |
-| 1031 | ilkay ozboyar | 1 | 1 |
-| 1032 | ipchanwang | 1 | 1 |
-| 1033 | Ivane Shaishmelashvili | 1 | 1 |
-| 1034 | Jamie | 1 | 1 |
-| 1035 | Jamie Allen | 1 | 1 |
-| 1036 | Jason Dunn | 1 | 1 |
-| 1037 | Jean | 1 | 1 |
+| 942 | Jean | 1 | 2 |
+| 943 | Jean DOUTRIAUX | 1 | 2 |
+| 944 | Jeff Watson | 1 | 2 |
+| 945 | Jelte Lagendijk | 1 | 2 |
+| 946 | Joeri | 1 | 2 |
+| 947 | Jorge | 1 | 2 |
+| 948 | Ke Xiong | 1 | 2 |
+| 949 | Kyle Gilbert | 1 | 2 |
+| 950 | Leandro Viscome | 1 | 2 |
+| 951 | Lmelerski | 1 | 2 |
+| 952 | LuisAFK | 1 | 2 |
+| 953 | Majesticwalrusz | 1 | 2 |
+| 954 | MajorLaser | 1 | 2 |
+| 955 | Masudur Rahman | 1 | 2 |
+| 956 | mcfoton | 1 | 2 |
+| 957 | Mohammad Nabhan | 1 | 2 |
+| 958 | Montoya | 1 | 2 |
+| 959 | Mr. S | 1 | 2 |
+| 960 | Nelson Mendes | 1 | 2 |
+| 961 | Nicholas Lortz | 1 | 2 |
+| 962 | OctaneXyz | 1 | 2 |
+| 963 | Okoyeprosper475 | 1 | 2 |
+| 964 | Pan Rada | 1 | 2 |
+| 965 | Paul Contreras | 1 | 2 |
+| 966 | Paulo Lobo | 1 | 2 |
+| 967 | Pedro Ladeira | 1 | 2 |
+| 968 | Pete Ware | 1 | 2 |
+| 969 | Philip Han | 1 | 2 |
+| 970 | Pm.Delvern | 1 | 2 |
+| 971 | Pocetox | 1 | 2 |
+| 972 | pokeban | 1 | 2 |
+| 973 | Rizal Ramadhan | 1 | 2 |
+| 974 | Rodrigo.Medina.Neri | 1 | 2 |
+| 975 | Romain Malaterre | 1 | 2 |
+| 976 | Rowan Marshall | 1 | 2 |
+| 977 | Samet Özkale | 1 | 2 |
+| 978 | Sefat Anam | 1 | 2 |
+| 979 | Sender Oppenheimer | 1 | 2 |
+| 980 | Seth Carnill | 1 | 2 |
+| 981 | Shashi Thakur | 1 | 2 |
+| 982 | Shaun | 1 | 2 |
+| 983 | SidThatsMoi | 1 | 2 |
+| 984 | Sohail Lajevardi | 1 | 2 |
+| 985 | Sonia Toqqe | 1 | 2 |
+| 986 | Sumit Bedi | 1 | 2 |
+| 987 | Sven | 1 | 2 |
+| 988 | undefined | 1 | 2 |
+| 989 | Van The Third | 1 | 2 |
+| 990 | Wil | 1 | 2 |
+| 991 | yafyx | 1 | 2 |
+| 992 | Yash | 1 | 2 |
+| 993 | Zach Weismann | 1 | 2 |
+| 994 | Željko Prša | 1 | 2 |
+| 995 | Zeroibc | 1 | 2 |
+| 996 | Abdullah Alghamdi | 1 | 1 |
+| 997 | Aleksandra Gramatchikova | 1 | 1 |
+| 998 | Antony Mayfield | 1 | 1 |
+| 999 | Artem | 1 | 1 |
+| 1000 | Aurélien Pénavaire | 1 | 1 |
+| 1001 | Aust.Crim | 1 | 1 |
+| 1002 | benmjsim | 1 | 1 |
+| 1003 | Berenger Zantangni | 1 | 1 |
+| 1004 | Bill Bishop's BIG Idea Show | 1 | 1 |
+| 1005 | Bill.Daniels | 1 | 1 |
+| 1006 | Charles Ji | 1 | 1 |
+| 1007 | Chris | 1 | 1 |
+| 1008 | Clovisprovost | 1 | 1 |
+| 1009 | Cody Cochran | 1 | 1 |
+| 1010 | Colin DiCarlo | 1 | 1 |
+| 1011 | Damilolamustaphaa | 1 | 1 |
+| 1012 | Daniel Calmon | 1 | 1 |
+| 1013 | Daniel Martin | 1 | 1 |
+| 1014 | David Pellerin | 1 | 1 |
+| 1015 | David.Tannenbaum | 1 | 1 |
+| 1016 | dtrain | 1 | 1 |
+| 1017 | Elijah Oreoluwa | 1 | 1 |
+| 1018 | Erik | 1 | 1 |
+| 1019 | Eugene Kruglov | 1 | 1 |
+| 1020 | Evangel Oladipo | 1 | 1 |
+| 1021 | Felix Kaiser | 1 | 1 |
+| 1022 | Filipz.08 | 1 | 1 |
+| 1023 | Frajjco | 1 | 1 |
+| 1024 | Ggabric97 | 1 | 1 |
+| 1025 | Glazeapp.Xty | 1 | 1 |
+| 1026 | Gmoneyman10 | 1 | 1 |
+| 1027 | Hakeem Adjei | 1 | 1 |
+| 1028 | Harry Dhaliwal | 1 | 1 |
+| 1029 | Huscruz | 1 | 1 |
+| 1030 | Hxii | 1 | 1 |
+| 1031 | Icha Victory | 1 | 1 |
+| 1032 | ilkay ozboyar | 1 | 1 |
+| 1033 | ipchanwang | 1 | 1 |
+| 1034 | Ivane Shaishmelashvili | 1 | 1 |
+| 1035 | Jamie | 1 | 1 |
+| 1036 | Jamie Allen | 1 | 1 |
+| 1037 | Jason Dunn | 1 | 1 |
 | 1038 | Jesse Beck | 1 | 1 |
 | 1039 | Joe Chen | 1 | 1 |
 | 1040 | Joefree Semilla | 1 | 1 |
@@ -1129,48 +1129,47 @@
 | 1119 | Daisy Tian | 1 | 0 |
 | 1120 | Dheeraj Marda | 1 | 0 |
 | 1121 | Esteban Dalel R | 1 | 0 |
-| 1122 | Eugene Stepanov | 1 | 0 |
-| 1123 | Felix Lyu | 1 | 0 |
-| 1124 | Frame City | 1 | 0 |
-| 1125 | Giovanni Cassanelli | 1 | 0 |
-| 1126 | Grzegorz Zalewski | 1 | 0 |
-| 1127 | Harinder Singh | 1 | 0 |
-| 1128 | Helion | 1 | 0 |
-| 1129 | Ian Hsiao | 1 | 0 |
-| 1130 | Jason Konn | 1 | 0 |
-| 1131 | Jeremy.Jacquemont | 1 | 0 |
-| 1132 | Jonathan Millar | 1 | 0 |
-| 1133 | JT Math | 1 | 0 |
-| 1134 | Jules.Vdz13 | 1 | 0 |
-| 1135 | Kaiyu Lei | 1 | 0 |
-| 1136 | Kenworthe | 1 | 0 |
-| 1137 | KIN HEI SHING | 1 | 0 |
-| 1138 | Lars Wetendorff Nielsen | 1 | 0 |
-| 1139 | Lukas Pospisil | 1 | 0 |
-| 1140 | Madan Chaolla Park | 1 | 0 |
-| 1141 | Maliakkaya | 1 | 0 |
-| 1142 | Matt.Borgmeyer | 1 | 0 |
-| 1143 | Mustapha Alex | 1 | 0 |
-| 1144 | Otto Vanluchene | 1 | 0 |
-| 1145 | Prabu Weerasinghe | 1 | 0 |
-| 1146 | Psychthrone | 1 | 0 |
-| 1147 | Raycast.dmwnn | 1 | 0 |
-| 1148 | Reet Singh | 1 | 0 |
-| 1149 | René Henrich | 1 | 0 |
-| 1150 | Ritik Jain | 1 | 0 |
-| 1151 | Setthapong Kiankhao | 1 | 0 |
-| 1152 | Shop | 1 | 0 |
-| 1153 | Suowei Hu | 1 | 0 |
-| 1154 | Tamanya | 1 | 0 |
-| 1155 | Therecruiter33sq | 1 | 0 |
-| 1156 | Thiago Chu | 1 | 0 |
-| 1157 | Tod Maffin | 1 | 0 |
-| 1158 | Travis Roe | 1 | 0 |
-| 1159 | Ulugbek Karimov | 1 | 0 |
-| 1160 | Vintila Catalin | 1 | 0 |
-| 1161 | Waseem Ahmed | 1 | 0 |
-| 1162 | Wei Su | 1 | 0 |
-| 1163 | William Finkel | 1 | 0 |
-| 1164 | Yugha S | 1 | 0 |
-| 1165 | Zvi | 1 | 0 |
-| 1166 | 増井敏克 | 1 | 0 |
+| 1122 | Felix Lyu | 1 | 0 |
+| 1123 | Frame City | 1 | 0 |
+| 1124 | Giovanni Cassanelli | 1 | 0 |
+| 1125 | Grzegorz Zalewski | 1 | 0 |
+| 1126 | Harinder Singh | 1 | 0 |
+| 1127 | Helion | 1 | 0 |
+| 1128 | Ian Hsiao | 1 | 0 |
+| 1129 | Jason Konn | 1 | 0 |
+| 1130 | Jeremy.Jacquemont | 1 | 0 |
+| 1131 | Jonathan Millar | 1 | 0 |
+| 1132 | JT Math | 1 | 0 |
+| 1133 | Jules.Vdz13 | 1 | 0 |
+| 1134 | Kaiyu Lei | 1 | 0 |
+| 1135 | Kenworthe | 1 | 0 |
+| 1136 | KIN HEI SHING | 1 | 0 |
+| 1137 | Lars Wetendorff Nielsen | 1 | 0 |
+| 1138 | Lukas Pospisil | 1 | 0 |
+| 1139 | Madan Chaolla Park | 1 | 0 |
+| 1140 | Maliakkaya | 1 | 0 |
+| 1141 | Matt.Borgmeyer | 1 | 0 |
+| 1142 | Mustapha Alex | 1 | 0 |
+| 1143 | Otto Vanluchene | 1 | 0 |
+| 1144 | Prabu Weerasinghe | 1 | 0 |
+| 1145 | Psychthrone | 1 | 0 |
+| 1146 | Raycast.dmwnn | 1 | 0 |
+| 1147 | Reet Singh | 1 | 0 |
+| 1148 | René Henrich | 1 | 0 |
+| 1149 | Ritik Jain | 1 | 0 |
+| 1150 | Setthapong Kiankhao | 1 | 0 |
+| 1151 | Shop | 1 | 0 |
+| 1152 | Suowei Hu | 1 | 0 |
+| 1153 | Tamanya | 1 | 0 |
+| 1154 | Therecruiter33sq | 1 | 0 |
+| 1155 | Thiago Chu | 1 | 0 |
+| 1156 | Tod Maffin | 1 | 0 |
+| 1157 | Travis Roe | 1 | 0 |
+| 1158 | Ulugbek Karimov | 1 | 0 |
+| 1159 | Vintila Catalin | 1 | 0 |
+| 1160 | Waseem Ahmed | 1 | 0 |
+| 1161 | Wei Su | 1 | 0 |
+| 1162 | William Finkel | 1 | 0 |
+| 1163 | Yugha S | 1 | 0 |
+| 1164 | Zvi | 1 | 0 |
+| 1165 | 増井敏克 | 1 | 0 |

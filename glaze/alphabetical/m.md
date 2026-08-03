@@ -108,6 +108,7 @@
 | [Mac Backup](https://www.glaze.app/app/Lhn8Qk) | 2 | Backup your Mac setup to version control | lukrencijus | 1.0.0 | 184 KB | 2026-07-25 |
 | [Meals Planned](https://www.glaze.app/app/xf67yI) | 2 | Your AI powered meal planning assistant | David Wunderlich | 3.0.0 | 1.7 MB | 2026-07-27 |
 | [MeetSpace](https://www.glaze.app/app/75M7kk) | 2 | Work on Slack. Connect on MeetSpace. | Lmelerski | 1.0.0 | 80 KB | 2026-07-26 |
+| [Meridian](https://www.glaze.app/app/fWYUXH) | 2 | The Chinese organ clock for your Mac | Jean | 1.0.0 | 38 KB | 2026-07-28 |
 | [Mic Lock](https://www.glaze.app/app/af0Wa6) | 2 | Stop apps from hijacking your microphone | Philip Han | 2.0.0 | 58 KB | 2026-07-03 |
 | [Mirror](https://www.glaze.app/app/g8CfO5) | 2 | Quick self-check mirror on your menu bar | Ariazad Kazanjian | 4.0.0 | 50 KB | 2026-07-28 |
 | [MP3 Looper](https://www.glaze.app/app/mp3-looper-UCC4pP) | 2 | Loop sections of your music | M | 1.0.0 | 63 KB | 2026-08-02 |
@@ -123,7 +124,6 @@
 | [Media File Date Cloner](https://www.glaze.app/app/1w0N4W) | 1 | Sync file timestamps across paired files | Jason Dunn | 2.0.0 | 48 KB | 2026-04-23 |
 | [Media Meta](https://www.glaze.app/app/DSbjUR) | 1 | Manage and edit media metadata | Oliver | 1.0.0 | 457 KB | 2026-07-24 |
 | [Meeting Timer](https://www.glaze.app/app/Fp1Noh) | 1 | Track today's meetings in your menu bar | Александр Сенотов | 3.0.0 | 62 KB | 2026-07-27 |
-| [Meridian](https://www.glaze.app/app/fWYUXH) | 1 | The Chinese organ clock for your Mac | Jean | 1.0.0 | 38 KB | 2026-07-28 |
 | [Message Time](https://www.glaze.app/app/MGzqvO) | 1 | Send messages across decades | Olivia Rukavina | 1.0.0 | 65 KB | 2026-07-03 |
 | [MetaBurn](https://www.glaze.app/app/g7Tz5a) | 1 | Burn metadata from photos and videos. | Cody Cochran | 1.0.0 | 65 KB | 2026-07-03 |
 | [MiniDisc Studio](https://www.glaze.app/app/kBYOMd) | 1 | Record and manage MiniDisc audio | João Neves | 1.0.0 | 23.8 MB | 2026-05-15 |

@@ -31,7 +31,7 @@
 | Jaswanth | 1 | 6 | [AppleAI](https://www.glaze.app/app/d0fNs4) *(Developer Tools)* |
 | Jawad Shreim | 1 | 10 | [Logo Fetch](https://www.glaze.app/app/1EEPcF) *(Developer Tools)* |
 | JD Hartley | 1 | 5 | [Strange New Episodes](https://www.glaze.app/app/7Idm6x) *(Media)* |
-| Jean | 1 | 1 | [Meridian](https://www.glaze.app/app/fWYUXH) *(Lifestyle)* |
+| Jean | 1 | 2 | [Meridian](https://www.glaze.app/app/fWYUXH) *(Lifestyle)* |
 | Jean DOUTRIAUX | 1 | 2 | [Plate Track](https://www.glaze.app/app/xnR615) *(Lifestyle)* |
 | Jeff Augustin | 1 | 3 | [Lyricsmith](https://www.glaze.app/app/6dYvei) *(Design)* |
 | Jeff Watson | 1 | 2 | [After Sweep](https://www.glaze.app/app/V06h0g) *(Developer Tools)* |

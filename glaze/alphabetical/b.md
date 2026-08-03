@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Brui](https://www.glaze.app/app/eOPXRV) | 109 | Visual interface for Homebrew package | Niall | 2.0.0 | 65 KB | 2026-07-11 |
-| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 70 | Breathing companion for calm focus | fra.raw | 6.0.0 | 855 KB | 2026-07-31 |
+| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 71 | Breathing companion for calm focus | fra.raw | 6.0.0 | 855 KB | 2026-07-31 |
 | [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 193 KB | 2026-07-13 |
 | [Breakout Dock](https://www.glaze.app/app/EEcNPI) | 37 | Smash through your installed apps in a breakout-style game where bricks are apps and your dock controls the paddle | Yann-Edern Gillet | 1.0.1 | 180 KB | 2026-03-25 |
 | [Batch Crop](https://www.glaze.app/app/tYEQoH) | 29 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |

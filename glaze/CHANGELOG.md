@@ -4,6 +4,10 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-08-03
 
+**Removed (1):** Quick Translate EN↔RU
+
+## 2026-08-03
+
 **Foldery:** version 23.0.0 → 24.0.0
 
 **Quick Translate EN↔RU:** version 1.0.0 → 2.0.0

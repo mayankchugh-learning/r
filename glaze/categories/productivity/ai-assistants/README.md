@@ -1,10 +1,10 @@
 # AI & Assistants
 
-101 apps · [← Productivity](../README.md)
+100 apps · [← Productivity](../README.md)
 
 | Topic | Apps |
 | --- | --- |
-| [AI ✦](./ai/README.md) | 91 |
+| [AI ✦](./ai/README.md) | 90 |
 | [Local ✦](./local.md) | 5 |
 | [General](./general.md) | 5 |
 

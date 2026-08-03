@@ -6,7 +6,7 @@
 
 | Category | Apps | Installs |
 | --- | --- | --- |
-| [Productivity](./productivity/README.md) | 507 | 6,202 |
+| [Productivity](./productivity/README.md) | 506 | 6,204 |
 
 ## Development
 
@@ -32,4 +32,4 @@
 | Category | Apps | Installs |
 | --- | --- | --- |
 | [Games & Fun](./games-fun/README.md) | 87 | 780 |
-| [Lifestyle](./lifestyle/README.md) | 53 | 435 |
+| [Lifestyle](./lifestyle/README.md) | 53 | 436 |
