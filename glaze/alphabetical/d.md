@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 491 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 59 KB | 2026-04-15 |
-| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 445 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 85 KB | 2026-07-14 |
+| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 446 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 85 KB | 2026-07-14 |
 | [Dynamic Island](https://www.glaze.app/app/Om758X) | 49 | iPhone-style Dynamic Islan for your Mac | alexi.build | 1.0.0 | 50 KB | 2026-04-22 |
 | [Ding!](https://www.glaze.app/app/oRbL7g) | 41 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 62 KB | 2026-07-30 |
 | [Drop2Markdown](https://www.glaze.app/app/E8OW9Q) | 34 | Drop anything. Get Markdown. | Oliver Posselt | 3.0.0 | 96.3 MB | 2026-04-20 |

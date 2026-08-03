@@ -1,6 +1,6 @@
 # Dmytro Lobov
 
-17 apps · 83 installs · [← publishers](../README.md)
+17 apps · 84 installs · [← publishers](../README.md)
 
 ## Developer Tools (9)
 
@@ -32,4 +32,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Caffeinat](https://www.glaze.app/app/1YAMhR) | 7 | Keep your Mac awake on demand | Dmytro Lobov | 5.0.0 | 34 KB | 2026-07-29 |
 | [AccessLens](https://www.glaze.app/app/MhGGpr) | 3 | See who can access your Mac | Dmytro Lobov | 2.0.0 | 62 KB | 2026-07-22 |
-| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 1 | Compress images and see the result | Dmytro Lobov | 1.0.0 | 341 KB | 2026-08-03 |
+| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 2 | Compress images and see the result | Dmytro Lobov | 1.0.0 | 341 KB | 2026-08-03 |

@@ -26,8 +26,8 @@
 | [Smeenshot](https://www.glaze.app/app/lGCEpP) | 4 | Smart screenshot cleanup for Mac | Elvis | 2.0.0 | 51 KB | 2026-07-27 |
 | [Sweep](https://www.glaze.app/app/w0rF27) | 4 | Remove apps and all their leftover files | Nathan Tracey | 1.0.0 | 86 KB | 2026-07-16 |
 | [AccessLens](https://www.glaze.app/app/MhGGpr) | 3 | See who can access your Mac | Dmytro Lobov | 2.0.0 | 62 KB | 2026-07-22 |
+| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 2 | Compress images and see the result | Dmytro Lobov | 1.0.0 | 341 KB | 2026-08-03 |
 | [Plex Converter](https://www.glaze.app/app/IIUGLl) | 2 | Direct Play every video, every device | MajorLaser | 2.0.0 | 107 KB | 2026-07-03 |
-| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 1 | Compress images and see the result | Dmytro Lobov | 1.0.0 | 341 KB | 2026-08-03 |
 
 ## General
 

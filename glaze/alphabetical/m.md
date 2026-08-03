@@ -6,8 +6,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 710 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 111 KB | 2026-04-15 |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 298 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
+| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 711 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 111 KB | 2026-04-15 |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 299 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) | 200 | Convert Markdown to Slack messages fast | Petr Nikolaev | 4.0.0 | 617 KB | 2026-04-17 |
 | [Mia Calendar](https://www.glaze.app/app/N2NgPq) | 188 | Plan your days with your own handwriting | Daniela Muntyan | 13.0.0 | 3.3 MB | 2026-07-27 |
 | [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 114 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |

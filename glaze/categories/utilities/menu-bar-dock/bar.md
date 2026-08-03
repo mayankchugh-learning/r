@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 395 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
+| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 396 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
 | [Tube Float](https://www.glaze.app/app/RxZ5tQ) | 14 | Watch YouTube anywhere on your screen | John Kappa | 1.0.0 | 57 KB | 2026-07-03 |
 | [Quickdrop Shelf](https://www.glaze.app/app/3MhuXt) | 6 | Temporarily hold files and folders | Christos Bouronikos | 1.0.0 | 64 KB | 2026-07-03 |
 | [Timezone Shift](https://www.glaze.app/app/uJGLv4) | 5 | Compare timezones and adjust time | Mehul Chokshi | 2.0.0 | 71 KB | 2026-07-15 |

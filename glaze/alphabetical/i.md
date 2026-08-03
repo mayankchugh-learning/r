@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 395 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
+| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 396 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
 | [Image Converter](https://www.glaze.app/app/XzP6Ry) | 206 | Convert images between formats and automatically process folders using customizable rules | Daniel Hollick | 2.0.1 | 8.0 MB | 2026-03-04 |
 | [Image Sequencer](https://www.glaze.app/app/IxkyCn) | 72 | Create animations from image sequences. | Nichlas Wærnes Andersen | 14.0.0 | 57 KB | 2026-04-25 |
 | [Iconify](https://www.glaze.app/app/UedCjG) | 29 | Browse and organize icons locally | LitoMore | 1.0.0 | 51 KB | 2026-04-30 |
@@ -30,9 +30,9 @@
 | [Items](https://www.glaze.app/app/9kLuYj) | 3 | One ID. Every tool. One clear picture. | Trevor Hall | 6.0.0 | 171 KB | 2026-07-30 |
 | [Image Editor](https://www.glaze.app/app/LjoEy3) | 2 | Edit, Crop, Resize, and Enhance photos | Anwarul Islam | 1.0.0 | 166 KB | 2026-07-25 |
 | [Image Joiner](https://www.glaze.app/app/PQbrzf) | 2 | Combine images automatically | Bowen Winter | 2.0.0 | 67 KB | 2026-07-04 |
+| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 2 | Compress images and see the result | Dmytro Lobov | 1.0.0 | 341 KB | 2026-08-03 |
 | [In Formation](https://www.glaze.app/app/hHqNpB) | 2 | Soccer formation designer | Bruno Reis | 1.0.0 | 300 KB | 2026-07-07 |
 | [Insomniac](https://www.glaze.app/app/rqWLco) | 2 | Smart Keep-Awake Utility for Developers | WebSmith | 2.0.0 | 75 KB | 2026-07-30 |
-| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 1 | Compress images and see the result | Dmytro Lobov | 1.0.0 | 341 KB | 2026-08-03 |
 | [Indivisible](https://www.glaze.app/app/NNLHgC) | 1 | Find the nearest indivisible number | David.Tannenbaum | 1.0.0 | 56 KB | 2026-07-10 |
 | [Input Guard](https://www.glaze.app/app/ymBx6p) | 1 | Prevent automatic mic change | Cezar | 2.0.0 | 76 KB | 2026-07-24 |
 | [IBAN Validator](https://www.glaze.app/app/8Bahfk) | 0 | Validate IBAN format locally | André | 1.0.0 | 61 KB | 2026-07-04 |

@@ -1,13 +1,14 @@
 # Recently published & updated
 
-Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
+Newest 60 of 1578 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
+| [Quick Translate EN↔RU](https://www.glaze.app/app/NtORrE) | 2026-08-03 | 1.0.0 | 0 | Productivity | Eugene Stepanov |
 | [Foldery](https://www.glaze.app/app/5sZbpN) | 2026-08-03 | 24.0.0 | 6 | Developer Tools | Dmytro Lobov |
 | [Halo](https://www.glaze.app/app/halo-JuaORD) | 2026-08-03 | 3.0.0 | 5 | Lifestyle | Philip Dren |
 | [TabSet](https://www.glaze.app/app/pYwgOi) | 2026-08-03 | 8.0.0 | 8 | Productivity | Dmytro Lobov |
-| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 2026-08-03 | 1.0.0 | 1 | Utilities | Dmytro Lobov |
+| [Imagery](https://www.glaze.app/app/imagery-6MoowR) | 2026-08-03 | 1.0.0 | 2 | Utilities | Dmytro Lobov |
 | [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 2026-08-03 | 7.0.0 | 1 | Utilities | Lee Sherman |
 | [Squish](https://www.glaze.app/app/squish-cWRtaY) | 2026-08-03 | 1.0.0 | 1 | Utilities | Nicholas |
 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 2026-08-03 | 1.0.0 | 1 | Productivity | Sam Stephenson |
@@ -63,4 +64,3 @@ Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) | 2026-07-31 | 4.0.0 | 22 | Productivity | Sonia Kahn |
 | [Blunder](https://www.glaze.app/app/0dUOLc) | 2026-07-31 | 6.0.0 | 5 | Games & Fun | Francesco Maisano |
 | [Neovim Notes](https://www.glaze.app/app/35eP2I) | 2026-07-31 | 8.0.0 | 3 | Productivity | Daniele Avitabile |
-| [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 2026-07-31 | 16.0.0 | 31 | Developer Tools | Dhruv Suthar |

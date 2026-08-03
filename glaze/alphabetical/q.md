@@ -2,7 +2,7 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · **Q** · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-19 apps · [← Glaze catalog](../README.md)
+20 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -25,3 +25,4 @@
 | [Quest Log](https://www.glaze.app/app/f7zukt) | 2 | Create tasks by speaking naturally | Charlie Day | 1.0.0 | 70 KB | 2026-07-14 |
 | [Quick Translate](https://www.glaze.app/app/fRbhRn) | 1 | Translate selected text instantly | Mickael Alves | 1.0.0 | 66 KB | 2026-07-30 |
 | [Quick2AVault](https://www.glaze.app/app/Ez7tQc) | 1 | Who’s the boss of your cash? You are! | Mahesh Shantaram | 9.0.0 | 4.0 MB | 2026-07-30 |
+| [Quick Translate EN↔RU](https://www.glaze.app/app/NtORrE) | 0 | Translate any text in seconds, perfectly | Eugene Stepanov | 1.0.0 | 46 KB | 2026-08-03 |

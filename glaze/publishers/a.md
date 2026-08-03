@@ -59,7 +59,7 @@
 | Alexander Gekov | 1 | 11 | [CineSchedule](https://www.glaze.app/app/G1DNgr) *(Media)* |
 | Alexander.K.Wright | 1 | 5 | [Food Web](https://www.glaze.app/app/add6B0) *(Media)* |
 | Alexandr Subbotin | 2 | 284 | [Yolo](https://www.glaze.app/app/yolo-PSjYlj) *(Developer Tools)*, [Feed Reader](https://www.glaze.app/app/2Db0Ny) *(Productivity)* |
-| [alexi.build](./id/alexi-build.md) | 10 | 1,025 | [see all 10 →](./id/alexi-build.md) |
+| [alexi.build](./id/alexi-build.md) | 10 | 1,026 | [see all 10 →](./id/alexi-build.md) |
 | Alexis d'Amecourt | 1 | 17 | [World Reader](https://www.glaze.app/app/rj9keL) *(Media)* |
 | Alfonso (Poncho) Aceves | 1 | 2 | [FrameBites](https://www.glaze.app/app/86GqqN) *(Productivity)* |
 | Alfred MOUELLE | 1 | 7 | [Remo](https://www.glaze.app/app/fYfuxd) *(Productivity)* |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-44 publishers · [← publisher index](./README.md)
+45 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
@@ -45,6 +45,7 @@
 | Etienne Idoux | 1 | 8 | [Findle](https://www.glaze.app/app/t3xcsJ) *(Utilities)* |
 | Eugen Walcher | 1 | 8 | [Minesweeper](https://www.glaze.app/app/td2sah) *(Games & Fun)* |
 | Eugene Kruglov | 1 | 1 | [Only You App](https://www.glaze.app/app/XL46aE) *(Productivity)* |
+| Eugene Stepanov | 1 | 0 | [Quick Translate EN↔RU](https://www.glaze.app/app/NtORrE) *(Productivity)* |
 | Evan | 2 | 9 | [Stash](https://www.glaze.app/app/PhdJyc) *(Utilities)*, [NotePad](https://www.glaze.app/app/Zyffcj) *(Productivity)* |
 | Evancris | 1 | 12 | [PkgSweep](https://www.glaze.app/app/ZPO2IL) *(Developer Tools)* |
 | Evangel Oladipo | 1 | 1 | [Focus Guard](https://www.glaze.app/app/oJlU7g) *(Productivity)* |

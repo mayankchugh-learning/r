@@ -1,6 +1,6 @@
 # Publishers
 
-1165 publishers · [← Glaze catalog](../README.md)
+1166 publishers · [← Glaze catalog](../README.md)
 
 **Sort:** **Installs** · [Apps](./by-apps.md)
 
@@ -8,14 +8,14 @@
 
 | # | Publisher | Apps | Installs |
 | --- | --- | --- | --- |
-| 1 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,435 |
+| 1 | [Thomas Paul Mann](./id/thomas-paul-mann.md) | 12 | 3,437 |
 | 2 | [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,099 |
-| 3 | [Nichlas Wærnes Andersen](./id/nichlas-w-rnes-andersen.md) | 5 | 1,047 |
-| 4 | [alexi.build](./id/alexi-build.md) | 10 | 1,025 |
+| 3 | [Nichlas Wærnes Andersen](./id/nichlas-w-rnes-andersen.md) | 5 | 1,048 |
+| 4 | [alexi.build](./id/alexi-build.md) | 10 | 1,026 |
 | 5 | Boufford | 3 | 882 |
 | 6 | [Kristina Loewen](./id/kristina-loewen.md) | 5 | 719 |
 | 7 | [Jordan Amblin](./id/jordan-amblin.md) | 11 | 705 |
-| 8 | Yann-Edern Gillet | 3 | 680 |
+| 8 | Yann-Edern Gillet | 3 | 681 |
 | 9 | [Pedro Duarte](./id/pedro-duarte.md) | 5 | 573 |
 | 10 | Alex Antonov | 3 | 563 |
 | 11 | [Dhruv Suthar](./id/dhruv-suthar.md) | 16 | 479 |
@@ -23,8 +23,8 @@
 | 13 | Maya Avendaño | 1 | 404 |
 | 14 | Combustion Studio | 1 | 401 |
 | 15 | [melvin](./id/melvin.md) | 6 | 357 |
-| 16 | Noman | 2 | 312 |
-| 17 | @zenithquinn | 3 | 288 |
+| 16 | Noman | 2 | 313 |
+| 17 | @zenithquinn | 3 | 289 |
 | 18 | Alexandr Subbotin | 2 | 284 |
 | 19 | Hamzah Chaudhary | 1 | 272 |
 | 20 | Ivo Fonseca | 2 | 266 |
@@ -54,7 +54,7 @@
 | 44 | Christian Alares | 1 | 97 |
 | 45 | Beth Staff | 3 | 89 |
 | 46 | James Dawson | 1 | 87 |
-| 47 | [Dmytro Lobov](./id/dmytro-lobov.md) | 17 | 83 |
+| 47 | [Dmytro Lobov](./id/dmytro-lobov.md) | 17 | 84 |
 | 48 | gowhith kanisetty | 1 | 81 |
 | 49 | Adil Erchouk | 2 | 77 |
 | 50 | Anwarul Islam | 2 | 72 |
@@ -493,62 +493,62 @@
 | 483 | JeremyJaydan | 1 | 7 |
 | 484 | Jirawat Thaenthong | 1 | 7 |
 | 485 | Joel Quevedo | 1 | 7 |
-| 486 | Karlo König | 1 | 7 |
-| 487 | Kaylen Castle | 1 | 7 |
-| 488 | Kazuhiro Hashimoto | 1 | 7 |
-| 489 | Kim Nehzaty | 1 | 7 |
-| 490 | Lori Collins | 1 | 7 |
-| 491 | matheusjprates | 1 | 7 |
-| 492 | Michael Zahn | 1 | 7 |
-| 493 | Mickey Oh | 1 | 7 |
-| 494 | mynameistom | 1 | 7 |
-| 495 | Neo I | 1 | 7 |
-| 496 | Nicolas Schmidt | 1 | 7 |
-| 497 | Niharika pundlik | 1 | 7 |
-| 498 | Noah Czelusta | 1 | 7 |
-| 499 | Oskar Piekielniak | 1 | 7 |
-| 500 | Raph | 1 | 7 |
-| 501 | Rony Kati | 1 | 7 |
-| 502 | Sai Prem | 1 | 7 |
-| 503 | Subsaf | 1 | 7 |
-| 504 | Teun de Witte | 1 | 7 |
-| 505 | vovayaa | 1 | 7 |
-| 506 | Xuan | 1 | 7 |
-| 507 | Yacolate | 1 | 7 |
-| 508 | Yan Hladchenko | 1 | 7 |
-| 509 | Erbil Nas | 3 | 6 |
-| 510 | Adithya Jayasankar | 2 | 6 |
-| 511 | Dave Wong | 2 | 6 |
-| 512 | Eason Bao | 2 | 6 |
-| 513 | hottubjohn | 2 | 6 |
-| 514 | Kishan Dadhania | 2 | 6 |
-| 515 | Martin Gorol | 2 | 6 |
-| 516 | Petar Yovkov | 2 | 6 |
-| 517 | Thorpemeister | 2 | 6 |
-| 518 | Adedoyin Emmanuel | 1 | 6 |
-| 519 | Akash Mondal | 1 | 6 |
-| 520 | Alison Bays | 1 | 6 |
-| 521 | Alvi Dervishaj | 1 | 6 |
-| 522 | Andrew Kerr | 1 | 6 |
-| 523 | Aseem Taneja | 1 | 6 |
-| 524 | Balu G Menon | 1 | 6 |
-| 525 | Bomakalu | 1 | 6 |
-| 526 | Caleb Tew | 1 | 6 |
-| 527 | ccmxigua | 1 | 6 |
-| 528 | Christos Bouronikos | 1 | 6 |
-| 529 | Daanbruins155 | 1 | 6 |
-| 530 | Dipangshu Roy | 1 | 6 |
-| 531 | Ed117 | 1 | 6 |
-| 532 | egor | 1 | 6 |
-| 533 | groremus | 1 | 6 |
-| 534 | Hittanshu Bhanderi | 1 | 6 |
-| 535 | Jake | 1 | 6 |
-| 536 | James Jeffery | 1 | 6 |
-| 537 | Jamie Wood | 1 | 6 |
-| 538 | Jaswanth | 1 | 6 |
-| 539 | Jituiitm | 1 | 6 |
-| 540 | Jonathan Nyst | 1 | 6 |
-| 541 | Justin Alva | 1 | 6 |
+| 486 | Justin Alva | 1 | 7 |
+| 487 | Karlo König | 1 | 7 |
+| 488 | Kaylen Castle | 1 | 7 |
+| 489 | Kazuhiro Hashimoto | 1 | 7 |
+| 490 | Kim Nehzaty | 1 | 7 |
+| 491 | Lori Collins | 1 | 7 |
+| 492 | matheusjprates | 1 | 7 |
+| 493 | Michael Zahn | 1 | 7 |
+| 494 | Mickey Oh | 1 | 7 |
+| 495 | mynameistom | 1 | 7 |
+| 496 | Neo I | 1 | 7 |
+| 497 | Nicolas Schmidt | 1 | 7 |
+| 498 | Niharika pundlik | 1 | 7 |
+| 499 | Noah Czelusta | 1 | 7 |
+| 500 | Oskar Piekielniak | 1 | 7 |
+| 501 | Raph | 1 | 7 |
+| 502 | Rony Kati | 1 | 7 |
+| 503 | Sai Prem | 1 | 7 |
+| 504 | Subsaf | 1 | 7 |
+| 505 | Teun de Witte | 1 | 7 |
+| 506 | vovayaa | 1 | 7 |
+| 507 | Xuan | 1 | 7 |
+| 508 | Yacolate | 1 | 7 |
+| 509 | Yan Hladchenko | 1 | 7 |
+| 510 | Erbil Nas | 3 | 6 |
+| 511 | Adithya Jayasankar | 2 | 6 |
+| 512 | Dave Wong | 2 | 6 |
+| 513 | Eason Bao | 2 | 6 |
+| 514 | hottubjohn | 2 | 6 |
+| 515 | Kishan Dadhania | 2 | 6 |
+| 516 | Martin Gorol | 2 | 6 |
+| 517 | Petar Yovkov | 2 | 6 |
+| 518 | Thorpemeister | 2 | 6 |
+| 519 | Adedoyin Emmanuel | 1 | 6 |
+| 520 | Akash Mondal | 1 | 6 |
+| 521 | Alison Bays | 1 | 6 |
+| 522 | Alvi Dervishaj | 1 | 6 |
+| 523 | Andrew Kerr | 1 | 6 |
+| 524 | Aseem Taneja | 1 | 6 |
+| 525 | Balu G Menon | 1 | 6 |
+| 526 | Bomakalu | 1 | 6 |
+| 527 | Caleb Tew | 1 | 6 |
+| 528 | ccmxigua | 1 | 6 |
+| 529 | Christos Bouronikos | 1 | 6 |
+| 530 | Daanbruins155 | 1 | 6 |
+| 531 | Dipangshu Roy | 1 | 6 |
+| 532 | Ed117 | 1 | 6 |
+| 533 | egor | 1 | 6 |
+| 534 | groremus | 1 | 6 |
+| 535 | Hittanshu Bhanderi | 1 | 6 |
+| 536 | Jake | 1 | 6 |
+| 537 | James Jeffery | 1 | 6 |
+| 538 | Jamie Wood | 1 | 6 |
+| 539 | Jaswanth | 1 | 6 |
+| 540 | Jituiitm | 1 | 6 |
+| 541 | Jonathan Nyst | 1 | 6 |
 | 542 | lagon20ms | 1 | 6 |
 | 543 | Maik Klotz | 1 | 6 |
 | 544 | Mamaswain1990 | 1 | 6 |
@@ -1129,47 +1129,48 @@
 | 1119 | Daisy Tian | 1 | 0 |
 | 1120 | Dheeraj Marda | 1 | 0 |
 | 1121 | Esteban Dalel R | 1 | 0 |
-| 1122 | Felix Lyu | 1 | 0 |
-| 1123 | Frame City | 1 | 0 |
-| 1124 | Giovanni Cassanelli | 1 | 0 |
-| 1125 | Grzegorz Zalewski | 1 | 0 |
-| 1126 | Harinder Singh | 1 | 0 |
-| 1127 | Helion | 1 | 0 |
-| 1128 | Ian Hsiao | 1 | 0 |
-| 1129 | Jason Konn | 1 | 0 |
-| 1130 | Jeremy.Jacquemont | 1 | 0 |
-| 1131 | Jonathan Millar | 1 | 0 |
-| 1132 | JT Math | 1 | 0 |
-| 1133 | Jules.Vdz13 | 1 | 0 |
-| 1134 | Kaiyu Lei | 1 | 0 |
-| 1135 | Kenworthe | 1 | 0 |
-| 1136 | KIN HEI SHING | 1 | 0 |
-| 1137 | Lars Wetendorff Nielsen | 1 | 0 |
-| 1138 | Lukas Pospisil | 1 | 0 |
-| 1139 | Madan Chaolla Park | 1 | 0 |
-| 1140 | Maliakkaya | 1 | 0 |
-| 1141 | Matt.Borgmeyer | 1 | 0 |
-| 1142 | Mustapha Alex | 1 | 0 |
-| 1143 | Otto Vanluchene | 1 | 0 |
-| 1144 | Prabu Weerasinghe | 1 | 0 |
-| 1145 | Psychthrone | 1 | 0 |
-| 1146 | Raycast.dmwnn | 1 | 0 |
-| 1147 | Reet Singh | 1 | 0 |
-| 1148 | René Henrich | 1 | 0 |
-| 1149 | Ritik Jain | 1 | 0 |
-| 1150 | Setthapong Kiankhao | 1 | 0 |
-| 1151 | Shop | 1 | 0 |
-| 1152 | Suowei Hu | 1 | 0 |
-| 1153 | Tamanya | 1 | 0 |
-| 1154 | Therecruiter33sq | 1 | 0 |
-| 1155 | Thiago Chu | 1 | 0 |
-| 1156 | Tod Maffin | 1 | 0 |
-| 1157 | Travis Roe | 1 | 0 |
-| 1158 | Ulugbek Karimov | 1 | 0 |
-| 1159 | Vintila Catalin | 1 | 0 |
-| 1160 | Waseem Ahmed | 1 | 0 |
-| 1161 | Wei Su | 1 | 0 |
-| 1162 | William Finkel | 1 | 0 |
-| 1163 | Yugha S | 1 | 0 |
-| 1164 | Zvi | 1 | 0 |
-| 1165 | 増井敏克 | 1 | 0 |
+| 1122 | Eugene Stepanov | 1 | 0 |
+| 1123 | Felix Lyu | 1 | 0 |
+| 1124 | Frame City | 1 | 0 |
+| 1125 | Giovanni Cassanelli | 1 | 0 |
+| 1126 | Grzegorz Zalewski | 1 | 0 |
+| 1127 | Harinder Singh | 1 | 0 |
+| 1128 | Helion | 1 | 0 |
+| 1129 | Ian Hsiao | 1 | 0 |
+| 1130 | Jason Konn | 1 | 0 |
+| 1131 | Jeremy.Jacquemont | 1 | 0 |
+| 1132 | Jonathan Millar | 1 | 0 |
+| 1133 | JT Math | 1 | 0 |
+| 1134 | Jules.Vdz13 | 1 | 0 |
+| 1135 | Kaiyu Lei | 1 | 0 |
+| 1136 | Kenworthe | 1 | 0 |
+| 1137 | KIN HEI SHING | 1 | 0 |
+| 1138 | Lars Wetendorff Nielsen | 1 | 0 |
+| 1139 | Lukas Pospisil | 1 | 0 |
+| 1140 | Madan Chaolla Park | 1 | 0 |
+| 1141 | Maliakkaya | 1 | 0 |
+| 1142 | Matt.Borgmeyer | 1 | 0 |
+| 1143 | Mustapha Alex | 1 | 0 |
+| 1144 | Otto Vanluchene | 1 | 0 |
+| 1145 | Prabu Weerasinghe | 1 | 0 |
+| 1146 | Psychthrone | 1 | 0 |
+| 1147 | Raycast.dmwnn | 1 | 0 |
+| 1148 | Reet Singh | 1 | 0 |
+| 1149 | René Henrich | 1 | 0 |
+| 1150 | Ritik Jain | 1 | 0 |
+| 1151 | Setthapong Kiankhao | 1 | 0 |
+| 1152 | Shop | 1 | 0 |
+| 1153 | Suowei Hu | 1 | 0 |
+| 1154 | Tamanya | 1 | 0 |
+| 1155 | Therecruiter33sq | 1 | 0 |
+| 1156 | Thiago Chu | 1 | 0 |
+| 1157 | Tod Maffin | 1 | 0 |
+| 1158 | Travis Roe | 1 | 0 |
+| 1159 | Ulugbek Karimov | 1 | 0 |
+| 1160 | Vintila Catalin | 1 | 0 |
+| 1161 | Waseem Ahmed | 1 | 0 |
+| 1162 | Wei Su | 1 | 0 |
+| 1163 | William Finkel | 1 | 0 |
+| 1164 | Yugha S | 1 | 0 |
+| 1165 | Zvi | 1 | 0 |
+| 1166 | 増井敏克 | 1 | 0 |

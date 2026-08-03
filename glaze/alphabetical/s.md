@@ -79,6 +79,7 @@
 | [Snapnym](https://www.glaze.app/app/Paezwp) | 7 | Name your screenshots instantly | Werner Deuermeier | 2.0.0 | 78 KB | 2026-07-28 |
 | [Sparkle Cam](https://www.glaze.app/app/OZYpKC) | 7 | Take adorable photos with kawaii beauty | Kazuhiro Hashimoto | 1.0.0 | 6.4 MB | 2026-07-02 |
 | [Stellata](https://www.glaze.app/app/bygln0) | 7 | Explore the universe in 3D | Alex | 1.0.0 | 55 KB | 2026-07-24 |
+| [Switchyard](https://www.glaze.app/app/9m7nIa) | 7 | X-ray of your dev workspace | Justin Alva | 3.0.0 | 224 KB | 2026-07-29 |
 | [Scent Journal](https://www.glaze.app/app/Q1UZjn) | 6 | Track every scent you own and love | Jake | 3.0.0 | 264 KB | 2026-06-06 |
 | [Scholar](https://www.glaze.app/app/V6uTQV) | 6 | Learn smarter, retain longer | ccmxigua | 6.0.0 | 147 KB | 2026-07-25 |
 | [Scratch&&Sniff](https://www.glaze.app/app/mXeTGg) | 6 | Crawl and collect the web | Boufford | 4.0.0 | 5.4 MB | 2026-07-29 |
@@ -92,7 +93,6 @@
 | [Star Keeper](https://www.glaze.app/app/qdA2Jc) | 6 | Keep track of your starred GitHub repos | Jonathan Nyst | 2.0.0 | 63 KB | 2026-06-24 |
 | [StudyPlanner](https://www.glaze.app/app/pC0ocL) | 6 | Organize your schoolwork and schedule | Daanbruins155 | 3.0.0 | 65 KB | 2026-07-24 |
 | [SupaKey](https://www.glaze.app/app/Cn8bz8) | 6 | More shortcuts, more modifier keys! | WheelHugger | 3.0.0 | 144 KB | 2026-07-15 |
-| [Switchyard](https://www.glaze.app/app/9m7nIa) | 6 | X-ray of your dev workspace | Justin Alva | 3.0.0 | 224 KB | 2026-07-29 |
 | [System Monitor](https://www.glaze.app/app/4FPpZe) | 6 | A retro themed system resources monitor | Balu G Menon | 2.0.0 | 128 KB | 2026-07-24 |
 | [Screenshot Butler](https://www.glaze.app/app/WIPXm9) | 5 | Organize what matters instantly | Sean Thomas Stuart | 1.0.0 | 5.8 MB | 2026-07-26 |
 | [Series Rename](https://www.glaze.app/app/yoYsjM) | 5 | Rename and organize your TV series | Sam Underwood | 1.0.0 | 70 KB | 2026-07-05 |

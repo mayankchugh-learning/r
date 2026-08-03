@@ -4,6 +4,10 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-08-03
 
+**Added (1):** [Quick Translate EN↔RU](https://www.glaze.app/app/NtORrE)
+
+## 2026-08-03
+
 **Removed (1):** Quick Translate EN↔RU
 
 ## 2026-08-03
