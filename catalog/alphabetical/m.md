@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-205 extensions · [← catalog index](../README.md)
+206 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -210,4 +210,5 @@
 | [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 1 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
 | [Meeting Room Check](https://github.com/raycast/extensions/tree/main/extensions/meeting-room-check) | 1 | See which meeting rooms are free right now and block one instantly. | Ticsi | macOS, Windows | [store](https://www.raycast.com/Ticsi/meeting-room-check) |
+| [MediaFlow](https://github.com/raycast/extensions/tree/main/extensions/media-flow) | 0 | Universal now-playing monitor and audio device switcher for macOS. | egorxyz | macOS | [store](https://www.raycast.com/egorxyz/media-flow) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

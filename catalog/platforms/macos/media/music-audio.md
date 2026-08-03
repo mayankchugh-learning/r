@@ -2,7 +2,7 @@
 
 **Music & Audio** · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
 
-59 of 279 extensions · [← macOS · Media](./README.md)
+60 of 280 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -65,3 +65,4 @@
 | [The Lot Radio](https://github.com/raycast/extensions/tree/main/extensions/the-lot-radio) | 3 | Play/pause the audio stream of The Lot Radio | evnm | macOS | [store](https://www.raycast.com/evnm/the-lot-radio) |
 | [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti) | 2 | Control Tutti — play the same audio through many output devices at once — from the Raycast launcher. | Barrybarrywu | macOS | [store](https://www.raycast.com/Barrybarrywu/tutti) |
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 1 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
+| [MediaFlow](https://github.com/raycast/extensions/tree/main/extensions/media-flow) | 0 | Universal now-playing monitor and audio device switcher for macOS. | egorxyz | macOS | [store](https://www.raycast.com/egorxyz/media-flow) |

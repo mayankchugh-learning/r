@@ -1,6 +1,6 @@
 # Audio ✦
 
-11 extensions · [← Music & Audio](./README.md)
+12 extensions · [← Music & Audio](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -17,3 +17,4 @@
 | [The Lot Radio](https://github.com/raycast/extensions/tree/main/extensions/the-lot-radio) | 3 | Play/pause the audio stream of The Lot Radio | evnm | macOS | [store](https://www.raycast.com/evnm/the-lot-radio) |
 | [Tutti](https://github.com/raycast/extensions/tree/main/extensions/tutti) | 2 | Control Tutti — play the same audio through many output devices at once — from the Raycast launcher. | Barrybarrywu | macOS | [store](https://www.raycast.com/Barrybarrywu/tutti) |
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 1 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
+| [MediaFlow](https://github.com/raycast/extensions/tree/main/extensions/media-flow) | 0 | Universal now-playing monitor and audio device switcher for macOS. | egorxyz | macOS | [store](https://www.raycast.com/egorxyz/media-flow) |

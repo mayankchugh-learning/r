@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `9787751feb`
+
+**Added (1):** [MediaFlow](https://github.com/raycast/extensions/tree/main/extensions/media-flow)
+
+**Updated (1):** [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts)
+
 ## 2026-08-03 — upstream `966008f9a7`
 
 **Updated (1):** [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify)

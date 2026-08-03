@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-74 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+75 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -20,6 +20,7 @@
 | [eggsy](https://www.raycast.com/eggsy) | 5 | 36,490 | **Design Tools:** [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash)<br>**Media:** [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm), [Must](https://github.com/raycast/extensions/tree/main/extensions/must)<br>**Productivity:** [Fix Link Embeds](https://github.com/raycast/extensions/tree/main/extensions/fix-link-embeds), [Apfel](https://github.com/raycast/extensions/tree/main/extensions/apfel) |
 | [egirlevadniy](https://www.raycast.com/egirlevadniy) | 1 | 173 | **Design Tools:** [iShader](https://github.com/raycast/extensions/tree/main/extensions/ishader) |
 | [egor_chuzhin](https://www.raycast.com/egor_chuzhin) | 1 | 13 | **Communication:** [Yandex Telemost](https://github.com/raycast/extensions/tree/main/extensions/yandex-telemost) |
+| [egorxyz](https://www.raycast.com/egorxyz) | 1 | 0 | **Media:** [MediaFlow](https://github.com/raycast/extensions/tree/main/extensions/media-flow) |
 | [egovelox](https://www.raycast.com/egovelox) | 1 | 764 | **Applications:** [Mozeidon](https://github.com/raycast/extensions/tree/main/extensions/mozeidon) |
 | [EinLinuus](https://www.raycast.com/EinLinuus) | 1 | 4,168 | **Productivity:** [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) |
 | [Ek217](https://www.raycast.com/Ek217) | 5 | 3,547 | **Data:** [Remember This](https://github.com/raycast/extensions/tree/main/extensions/remember-this)<br>**Uncategorized:** [Checksum](https://github.com/raycast/extensions/tree/main/extensions/checksum), [Tidal](https://github.com/raycast/extensions/tree/main/extensions/tidal), [Focusflow - a Study Clock](https://github.com/raycast/extensions/tree/main/extensions/focus-flow)<br>**Fun:** [LetMeGoogleThat](https://github.com/raycast/extensions/tree/main/extensions/let-me-google-that) |

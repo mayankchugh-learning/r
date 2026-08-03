@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "966008f9a7674c4d2c870cff277a4984ec6ca9da",
-  "generatedAt": "2026-08-03T06:03:48.321Z",
-  "downloadsRefreshedAt": "2026-08-03T06:03:47.623Z",
-  "count": 3141,
+  "commit": "9787751feb8c1288bbb42111fe78c42d575b2cf9",
+  "generatedAt": "2026-08-03T06:26:25.418Z",
+  "downloadsRefreshedAt": "2026-08-03T06:26:24.666Z",
+  "count": 3142,
   "extensions": [
     {
       "dir": "0x0",
@@ -7822,7 +7822,7 @@
       ],
       "store": "https://www.raycast.com/chrismessina/claude-artifacts",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts",
-      "treeSha": "535896d118fde31ed55483877d7dba21df1b989a",
+      "treeSha": "ef4813f6f1ed2e0ce44023520cf3c36a8f36513b",
       "downloads": 18
     },
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498095
+      "downloads": 498110
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 486567
+      "downloads": 486584
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654616
+      "downloads": 654635
     },
     {
       "dir": "kimai",
@@ -32272,6 +32272,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/media-converter",
       "treeSha": "9c21931f394e1a820702b6a55db54e4dc631a133",
       "downloads": 23640
+    },
+    {
+      "dir": "media-flow",
+      "name": "media-flow",
+      "title": "MediaFlow",
+      "description": "Universal now-playing monitor and audio device switcher for macOS.",
+      "author": "egorxyz",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Media"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/egorxyz/media-flow",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/media-flow",
+      "treeSha": "f8bf8eea3aac434d750b74248fe13e977f45985c",
+      "downloads": 0
     },
     {
       "dir": "medialister-marketplace-helper",
