@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "99e6c6b4bd4a7d10a071f03ab517044b69c3481d",
-  "generatedAt": "2026-08-03T06:36:30.638Z",
-  "downloadsRefreshedAt": "2026-08-03T06:36:29.814Z",
+  "commit": "9920ee01c017408b93f566930adcfcd1eef8c8a8",
+  "generatedAt": "2026-08-03T06:46:37.327Z",
+  "downloadsRefreshedAt": "2026-08-03T06:46:36.659Z",
   "count": 3142,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498114
+      "downloads": 498123
     },
     {
       "dir": "color-shades",
@@ -10376,7 +10376,7 @@
       "platforms": [
         "macOS"
       ],
-      "store": "https://www.raycast.com/Mehdi_Hp/copymoveto",
+      "store": "https://www.raycast.com/kumamaki/copymoveto",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/copymoveto",
       "treeSha": "0232c3805efee9ba4b62f08129ce91f3a1c68698",
       "downloads": 653
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 486588
+      "downloads": 486599
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654640
+      "downloads": 654653
     },
     {
       "dir": "kimai",
@@ -52131,7 +52131,7 @@
       "description": "A quick way to slugify text",
       "author": "unreadablename",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Developer Tools",
         "Productivity",
@@ -52143,7 +52143,7 @@
       ],
       "store": "https://www.raycast.com/unreadablename/slugify",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slugify",
-      "treeSha": "9f1a2199800a558db087f2ff83d5b9c5e5900834",
+      "treeSha": "2b7894bf1762d82f8c93e767c1765aa3adf8b263",
       "downloads": 1087
     },
     {

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,086,281 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,086,290 |
 | 2 | [raycast](./id/raycast.md) | 11 | 777,050 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,640 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 486,588 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,653 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 486,599 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 433,090 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 427,940 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 402,541 |
@@ -747,7 +747,7 @@
 | 737 | [theo_brlle](https://www.raycast.com/theo_brlle) | 1 | 713 |
 | 738 | [jopcmelo](https://www.raycast.com/jopcmelo) | 2 | 712 |
 | 739 | [roelvan](https://www.raycast.com/roelvan) | 1 | 711 |
-| 740 | [kumamaki](https://www.raycast.com/Mehdi_Hp) | 2 | 707 |
+| 740 | [kumamaki](https://www.raycast.com/kumamaki) | 2 | 707 |
 | 741 | [Antonwy](https://www.raycast.com/Antonwy) | 1 | 706 |
 | 742 | [stablecog](https://www.raycast.com/stablecog) | 1 | 705 |
 | 743 | [GenuineCheddar](https://www.raycast.com/GenuineCheddar) | 1 | 704 |
