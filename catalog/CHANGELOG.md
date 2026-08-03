@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `c4c8741c1a`
+
+**Updated (1):** [Sleevy - Manage Your Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/sleevy)
+
 ## 2026-08-03 — upstream `9bc5bafbf6`
 
 **Updated (2):** [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges), [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant)
