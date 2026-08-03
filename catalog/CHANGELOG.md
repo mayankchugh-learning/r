@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `9bc5bafbf6`
+
+**Updated (2):** [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges), [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant)
+
 ## 2026-08-03 — upstream `484657b1fe`
 
 **Updated (2):** [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming), [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm)
