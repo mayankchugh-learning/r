@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1c99f0210c3901ad79e682dee5d5421aa6458ec6",
-  "generatedAt": "2026-08-03T05:54:22.756Z",
-  "downloadsRefreshedAt": "2026-08-03T05:54:22.334Z",
+  "commit": "7c09360d4d9488f70805909f56229bde493c94f1",
+  "generatedAt": "2026-08-03T05:55:26.395Z",
+  "downloadsRefreshedAt": "2026-08-03T05:55:25.716Z",
   "count": 3141,
   "extensions": [
     {
@@ -4998,7 +4998,7 @@
       "description": "Quickly shorten the selected URL or current clipboard URL with Bitly",
       "author": "blessanm86",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Communication"
       ],
@@ -5009,7 +5009,7 @@
       ],
       "store": "https://www.raycast.com/blessanm86/bitly-url-shortener",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener",
-      "treeSha": "4911902d9205fa781ae7d50b24ed8f6b2fc3aa9f",
+      "treeSha": "b35dc9817c4051e06a5c3a907696d705a224526d",
       "downloads": 8273
     },
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498087
+      "downloads": 498088
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 486560
+      "downloads": 486562
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654607
+      "downloads": 654608
     },
     {
       "dir": "kimai",
