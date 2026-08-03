@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "49527d9b1e03c43f7f51251c277e021707770fae",
-  "generatedAt": "2026-08-03T15:57:40.154Z",
-  "downloadsRefreshedAt": "2026-08-03T15:57:39.777Z",
+  "commit": "efe3de3dc169c405ccc158523ed68a0af6048247",
+  "generatedAt": "2026-08-03T20:51:41.630Z",
+  "downloadsRefreshedAt": "2026-08-03T20:51:40.728Z",
   "count": 3143,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498495
+      "downloads": 498644
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 486993
+      "downloads": 487131
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 655149
+      "downloads": 655328
     },
     {
       "dir": "kimai",
@@ -55309,7 +55309,7 @@
       "description": "Show information and usage related to CPU, memory, power, network and temperature",
       "author": "hossammourad",
       "owner": null,
-      "contributors": 7,
+      "contributors": 8,
       "categories": [
         "Productivity",
         "System"
@@ -55320,8 +55320,8 @@
       ],
       "store": "https://www.raycast.com/hossammourad/raycast-system-monitor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/system-monitor",
-      "treeSha": "f97db3339a9250a93de1a8d2a782a5d75fc12c99",
-      "downloads": 103671
+      "treeSha": "3cd8162f85904ac58a86fb82da821328b595ee31",
+      "downloads": 103683
     },
     {
       "dir": "t3-chat",
