@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d5a2fb23d09213db500699c5d7a2dd0d0970fdfb",
-  "generatedAt": "2026-08-03T04:38:18.604Z",
-  "downloadsRefreshedAt": "2026-08-03T04:38:17.945Z",
+  "commit": "11d85eb15a602736933e0c88fc8b1a8f956488b8",
+  "generatedAt": "2026-08-03T04:39:17.013Z",
+  "downloadsRefreshedAt": "2026-08-03T04:39:16.616Z",
   "count": 3140,
   "extensions": [
     {
@@ -12868,7 +12868,7 @@
       ],
       "store": "https://www.raycast.com/michael_qiu/desktoprenamer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer",
-      "treeSha": "522912ba2ff064dc9dd5b3ef7848d1bef746535b",
+      "treeSha": "9eb226c538e4b9888888a2cc3e0bcf595909ebfe",
       "downloads": 139
     },
     {
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654571
+      "downloads": 654572
     },
     {
       "dir": "kimai",
