@@ -1,9 +1,9 @@
 {
   "source": "https://www.glaze.app/store",
-  "fetchedAt": "2026-08-03T06:47:24.071Z",
+  "fetchedAt": "2026-08-03T06:53:18.836Z",
   "pagesGeneratedAt": "2026-08-03T06:47:24.387Z",
   "count": 1578,
-  "totalInstalls": 27714,
+  "totalInstalls": 27715,
   "apps": [
     {
       "publicId": "01mB0U",
@@ -19697,10 +19697,10 @@
       "description": "Learn Raycast's powerful features by navigating an interactive maze. Discover 14 essential tools and power features through exploration, guided by the co-founders themselves. Walk through glowing beacons to unlock lessons about search, hotkeys, clipboard history, snippets, the extension store, AI capabilities, and more. Navigate the maze, find all stations, and master Raycast's full potential.\n\nKey Features:\n- Explore an interactive maze filled with 14 discoverable Raycast features\n- Learn directly from Thomas and Pedro as you encounter them throughout the maze\n- Unlock feature cards that explain essential tools and advanced capabilities",
       "categorySlug": "developer-tools",
       "category": "Developer Tools",
-      "installs": 90,
+      "installs": 91,
       "sizeBytes": 1201327,
       "version": "1.0.0",
-      "updatedAt": "2026-08-01 19:02:35.703055+00",
+      "updatedAt": "2026-08-03 06:50:40.15159+00",
       "createdAt": "2026-04-15 15:33:19.319498+00",
       "publishedAt": "2026-04-15T15:33:19.365Z",
       "publisher": "騎山豬跑山",
