@@ -2,13 +2,13 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-97 publishers · [← publisher index](./README.md)
+96 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
 | [S.Peacock](./id/s-peacock.md) | 6 | 39 | [see all 6 →](./id/s-peacock.md) |
 | Sabik Biswas | 1 | 12 | [Copy Shelf](https://www.glaze.app/app/DO5ttX) *(Utilities)* |
-| Sachin | 1 | 12 | [Saturn](https://www.glaze.app/app/ewPgBX) *(Productivity)* |
+| Sachin | 1 | 13 | [Saturn](https://www.glaze.app/app/ewPgBX) *(Productivity)* |
 | Saeed Vaziry | 1 | 6 | [Task List](https://www.glaze.app/app/0mqTCb) *(Productivity)* |
 | Sahil Patel | 1 | 21 | [Convert](https://www.glaze.app/app/lSbAX2) *(Utilities)* |
 | Sahil Yadav | 2 | 4 | [ClipTidy](https://www.glaze.app/app/xraQAF) *(Productivity)*, [Paddock](https://www.glaze.app/app/AM58Qz) *(Media)* |
@@ -20,10 +20,10 @@
 | sakshi ranglani | 1 | 6 | [SKECHE](https://www.glaze.app/app/vUHlzf) *(Design)* |
 | Sam Parker | 1 | 9 | [Sheet Pro](https://www.glaze.app/app/1mqpDb) *(Productivity)* |
 | Sam Sitar | 1 | 6 | [Caption Craft](https://www.glaze.app/app/D4916q) *(Media)* |
-| Sam Stephenson | 1 | 1 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) *(Productivity)* |
+| Sam Stephenson | 1 | 3 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) *(Productivity)* |
 | Sam Underwood | 1 | 5 | [Series Rename](https://www.glaze.app/app/yoYsjM) *(Utilities)* |
-| Sam.Minton | 1 | 28 | [Moodboard](https://www.glaze.app/app/0LJlsa) *(Design)* |
-| Sambit Biswas | 1 | 12 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) *(Design)* |
+| Sam.Minton | 1 | 29 | [Moodboard](https://www.glaze.app/app/0LJlsa) *(Design)* |
+| Sambit Biswas | 1 | 13 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) *(Design)* |
 | Samet Özkale | 1 | 2 | [Habit Periods](https://www.glaze.app/app/133jtm) *(Productivity)* |
 | [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,100 | [see all 7 →](./id/samuel-kraft.md) |
 | Samuel Lee | 1 | 15 | [Ludus](https://www.glaze.app/app/4RDpwn) *(Productivity)* |
@@ -52,7 +52,6 @@
 | Serhii Popov | 1 | 4 | [Attribute Inspector](https://www.glaze.app/app/BExoVn) *(Developer Tools)* |
 | Seth Carnill | 1 | 2 | [VAT Calculator](https://www.glaze.app/app/ApSwEv) *(Utilities)* |
 | Setthapong Kiankhao | 1 | 0 | [Calculator - Demo](https://www.glaze.app/app/y9bE2a) *(Utilities)* |
-| Sey | 1 | 11 | [Pause](https://www.glaze.app/app/RwYJah) *(Productivity)* |
 | Shahin F | 1 | 6 | [ScreenSnap](https://www.glaze.app/app/RCpVeN) *(Utilities)* |
 | Shahshank Reddy Ponnala | 1 | 5 | [Pit Wall](https://www.glaze.app/app/rBw8O2) *(Productivity)* |
 | Shaig Allahyarli | 1 | 5 | [Roam](https://www.glaze.app/app/90ZLHY) *(Lifestyle)* |
@@ -82,7 +81,7 @@
 | Solomon Adzape | 1 | 3 | [Relay](https://www.glaze.app/app/OcQkmG) *(Productivity)* |
 | Solve Base | 3 | 11 | [Task List](https://www.glaze.app/app/9HYu19) *(Productivity)*, [Habit Tracker](https://www.glaze.app/app/nOfsDB) *(Productivity)*, [SolveBase Water Reminder](https://www.glaze.app/app/6bFtte) *(Productivity)* |
 | Song Qian | 1 | 4 | [Deskmate](https://www.glaze.app/app/ki1c5r) *(Productivity)* |
-| Sonia Kahn | 1 | 22 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) *(Productivity)* |
+| Sonia Kahn | 1 | 23 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) *(Productivity)* |
 | Sonia Toqqe | 1 | 2 | [VoiceFrame](https://www.glaze.app/app/2ehSvS) *(Productivity)* |
 | spencersmith.site | 1 | 3 | [Nightshift](https://www.glaze.app/app/Iv56bT) *(Games & Fun)* |
 | Square Rabbit | 1 | 12 | [Reel Scout](https://www.glaze.app/app/D2po61) *(Media)* |

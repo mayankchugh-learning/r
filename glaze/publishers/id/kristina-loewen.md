@@ -1,6 +1,6 @@
 # Kristina Loewen
 
-5 apps · 720 installs · [← publishers](../README.md)
+5 apps · 723 installs · [← publishers](../README.md)
 
 ## Productivity (2)
 
@@ -13,8 +13,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 460 KB | 2026-07-28 |
-| [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 121 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 67 KB | 2026-07-20 |
+| [This](https://www.glaze.app/app/this-STOdhd) | 206 | Annotate this and that | Kristina Loewen | 10.0.0 | 460 KB | 2026-07-28 |
+| [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 123 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 67 KB | 2026-07-20 |
 
 ## Games & Fun (1)
 

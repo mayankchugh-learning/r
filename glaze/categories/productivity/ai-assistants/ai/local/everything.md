@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [PromptVault](https://www.glaze.app/app/N0xoJh) | 23 | Save and organize your prompts and | office Roy Ribak | 1.0.0 | 71 KB | 2026-07-02 |
+| [PromptVault](https://www.glaze.app/app/N0xoJh) | 24 | Save and organize your prompts and | office Roy Ribak | 1.0.0 | 71 KB | 2026-07-02 |
 | [Thooval](https://www.glaze.app/app/Uorrjg) | 7 | Write. Publish. Own. | Akhil K Thomas | 5.0.0 | 476 KB | 2026-07-27 |
 | [AI Projects Hub](https://www.glaze.app/app/sloIJ1) | 6 | Track AI-powered projects and | Marc Valderrama | 1.0.0 | 84 KB | 2026-07-09 |
 | [Talk to Action](https://www.glaze.app/app/RkDte1) | 1 | Capture a thought, turn it into action. | 倉木良樹 | 2.0.0 | 110 KB | 2026-07-27 |

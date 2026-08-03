@@ -42,7 +42,7 @@
 | BLCNYY | 2 | 11 | [Bloodline](https://www.glaze.app/app/3t8E2Y) *(Utilities)*, [Dreama](https://www.glaze.app/app/Te4eW8) *(Design)* |
 | Bob Weisbecker | 1 | 5 | [Pixel Icon Studio](https://www.glaze.app/app/hoPF96) *(Design)* |
 | Bomakalu | 1 | 6 | [Terminator](https://www.glaze.app/app/k8JKg8) *(Utilities)* |
-| Boufford | 3 | 883 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) *(Developer Tools)*, [Minimal Control](https://www.glaze.app/app/evNrhb) *(Utilities)*, [Scratch&&Sniff](https://www.glaze.app/app/mXeTGg) *(Developer Tools)* |
+| Boufford | 3 | 885 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) *(Developer Tools)*, [Minimal Control](https://www.glaze.app/app/evNrhb) *(Utilities)*, [Scratch&&Sniff](https://www.glaze.app/app/mXeTGg) *(Developer Tools)* |
 | Bourne jason | 2 | 22 | [App Library](https://www.glaze.app/app/EeU4Tr) *(Utilities)*, [MStudio](https://www.glaze.app/app/PP2I8B) *(Productivity)* |
 | Bowen Winter | 1 | 2 | [Image Joiner](https://www.glaze.app/app/PQbrzf) *(Design)* |
 | Brad Chin | 1 | 25 | [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) *(Developer Tools)* |

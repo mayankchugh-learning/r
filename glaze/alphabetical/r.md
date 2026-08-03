@@ -7,9 +7,9 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [ray.fm](https://www.glaze.app/app/Af8oi9) | 844 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 415 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 151 KB | 2026-07-30 |
-| [Reading Corner](https://www.glaze.app/app/k3tfty) | 244 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 790 KB | 2026-07-19 |
-| [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 121 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 67 KB | 2026-07-20 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 428 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 151 KB | 2026-07-30 |
+| [Reading Corner](https://www.glaze.app/app/k3tfty) | 245 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 790 KB | 2026-07-19 |
+| [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 123 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 67 KB | 2026-07-20 |
 | [Repo Scout](https://www.glaze.app/app/repo-scout-P3pbfd) | 103 | Discover and manage git repos | Yiwei Ho | 6.0.0 | 63 KB | 2026-07-07 |
 | [Raycast Maze](https://www.glaze.app/app/raycast-maze-Meh4qI) | 91 | Explore Raycast through interactive | 騎山豬跑山 | 1.0.0 | 1.1 MB | 2026-04-15 |
 | [Raycast Events Map](https://www.glaze.app/app/kGKUOU) | 26 | See Raycast's company events on a map with locations and event details at a glance. You can also go on a virtual world tour. | Beth Staff | 5.0.1 | 894 KB | 2026-03-20 |
@@ -69,7 +69,7 @@
 | [Ravenry](https://www.glaze.app/app/37HXLi) | 1 | Collect and organize design inspiration | Jamie | 1.0.0 | 74 KB | 2026-07-27 |
 | [Razzball Scout](https://www.glaze.app/app/oUzkbi) | 1 | Search Razzball for player mentions | Razzball LLC | 1.0.0 | 60 KB | 2026-07-11 |
 | [Repo Pulse](https://www.glaze.app/app/Pd0Skf) | 1 | Track your GitHub repository growth | Artem Novichkov | 1.0.0 | 81 KB | 2026-07-04 |
-| [RER E Planner](https://www.glaze.app/app/ciQhnY) | 1 | RER E trains, tracked in real time | Loic.Goyet | 8.0.0 | 85 KB | 2026-07-25 |
+| [RER E Planner](https://www.glaze.app/app/ciQhnY) | 1 | RER E trains, tracked in real time | Loic.Goyet | 9.0.0 | 87 KB | 2026-08-03 |
 | [RestQuest](https://www.glaze.app/app/v537AP) | 1 | Turn sleep into quests and rest better. | Harry Dhaliwal | 1.0.0 | 76 KB | 2026-07-29 |
 | [RAID Calculator](https://www.glaze.app/app/xF2vIw) | 0 | Calculate RAID storage capacity | Travis Tang | 1.0.0 | 60 KB | 2026-07-30 |
 | [RayMatch](https://www.glaze.app/app/fgUoYm) | 0 | Match pairs faster than your opponent | Lorenzo Fazioli | 1.0.0 | 62 KB | 2026-07-05 |

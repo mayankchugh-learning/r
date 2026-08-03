@@ -11,7 +11,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Whoosh](https://www.glaze.app/app/X9IHOo) | 19 | Generate cinematic whoosh sound effects | Unreal | 1.0.0 | 68 KB | 2026-07-06 |
-| [Sampler](https://www.glaze.app/app/daIOtZ) | 7 | Sample, slice and export any audio | LukeberryPi | 3.0.0 | 77 KB | 2026-07-30 |
+| [Sampler](https://www.glaze.app/app/daIOtZ) | 9 | Sample, slice and export any audio | LukeberryPi | 3.0.0 | 77 KB | 2026-07-30 |
 | [Caption Craft](https://www.glaze.app/app/D4916q) | 6 | Phrase-smart, scene-aware video captions | Sam Sitar | 2.0.0 | 33.6 MB | 2026-07-28 |
 | [Chop](https://www.glaze.app/app/650NIo) | 6 | Remove silence from media | Rubens Nook | 3.0.0 | 70 KB | 2026-07-13 |
 | [Canvas Audio](https://www.glaze.app/app/PFiJ1z) | 4 | Arrange audio simply and intuitively | Davidestevens | 18.0.0 | 160 KB | 2026-08-01 |

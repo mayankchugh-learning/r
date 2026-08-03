@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [FFmpeg Studio](https://www.glaze.app/app/IAM83X) | 9 | Convert media with visual presets | Lee Sherman | 1.0.0 | 67 KB | 2026-07-12 |
+| [FFmpeg Studio](https://www.glaze.app/app/IAM83X) | 10 | Convert media with visual presets | Lee Sherman | 1.0.0 | 67 KB | 2026-07-12 |
 | [Transcode](https://www.glaze.app/app/iGYFu1) | 8 | Compress and convert video, photo, audio | thejasonhowell | 1.0.0 | 65 KB | 2026-07-08 |
 | [Stash](https://www.glaze.app/app/PhdJyc) | 5 | Quick file sharing in one click | Evan | 1.0.0 | 297 KB | 2026-07-16 |
 | [File Type Converter](https://www.glaze.app/app/1fM6y0) | 4 | Convert video and audio files instantly | Morgan Ridley-Smith | 1.0.0 | 62 KB | 2026-07-26 |

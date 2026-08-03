@@ -13,7 +13,7 @@
 | [License Vault](https://www.glaze.app/app/pGkhli) | 9 | Quick access to your software licenses | syn | 2.0.0 | 160 KB | 2026-06-28 |
 | [The Jarvis](https://www.glaze.app/app/8pGlBl) | 9 | Voice commands for your workflows 🤖 | Petar Stoyanov | 3.0.0 | 74 KB | 2026-07-04 |
 | [Bookmarks](https://www.glaze.app/app/ihUztq) | 8 | Bookmarks in your menu bar | Dmytro Lobov | 7.0.0 | 54 KB | 2026-07-26 |
-| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 8.0.0 | 63 KB | 2026-08-03 |
+| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 9.0.0 | 66 KB | 2026-08-03 |
 | [TicTac](https://www.glaze.app/app/WQIbaK) | 7 | Spreadsheet Scratchpad, no Excel needed | Chris Durham | 3.0.0 | 641 KB | 2026-07-10 |
 | [Celly](https://www.glaze.app/app/dPRQz9) | 5 | Edit and explore CSV files with ease | Liel Azulay | 4.0.0 | 489 KB | 2026-07-27 |
 | [Desk Ritual](https://www.glaze.app/app/TSJXW0) | 3 | Capture and Replay your Window Sessions. | miks | 2.0.0 | 100 KB | 2026-07-27 |

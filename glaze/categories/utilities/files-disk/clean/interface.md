@@ -20,7 +20,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [YouDownload](https://www.glaze.app/app/4NQXSp) | 23 | Effortlessly download YouTube videos | Yeshe | 2.0.0 | 66 KB | 2026-07-24 |
+| [YouDownload](https://www.glaze.app/app/4NQXSp) | 24 | Effortlessly download YouTube videos | Yeshe | 2.0.0 | 66 KB | 2026-07-24 |
 | [TimeNow](https://www.glaze.app/app/2yQ3yc) | 17 | Display the current time with second-precision in a clean, straightforward interface. Has a pin feature to keep the window floating. Allows customisa… | Baran B | 2.0.1 | 268 KB | 2026-04-01 |
 | [Twircle](https://www.glaze.app/app/Gz4wph) | 4 | Experience Twitter, IRC-style | Shokunin | 1.0.0 | 46 KB | 2026-04-29 |
 | [AudioBook Builder](https://www.glaze.app/app/eOM0Mt) | 1 | Audio to Apple Audiobook Converter | Ivane Shaishmelashvili | 1.0.0 | 73 KB | 2026-07-25 |

@@ -8,7 +8,7 @@
 | [Coin Flip](https://www.glaze.app/app/fRjllX) | 35 | Flip a coin, get instant heads or tails | Jordan Amblin | 2.0.0 | 42 KB | 2026-04-15 |
 | [Cleanup](https://www.glaze.app/app/ZeU0rI) | 26 | Scan, sort and cleanup your files | Benjy.desprets | 5.0.1 | 630 KB | 2026-03-26 |
 | [DROP](https://www.glaze.app/app/PtgApl) | 19 | Drag, save, and reuse files anywhere | melvin | 1.0.0 | 57 KB | 2026-06-02 |
-| [Lil finder](https://www.glaze.app/app/FDsxpL) | 11 | Your files super app | Yaseenmb11 | 1.0.0 | 755 KB | 2026-07-09 |
+| [Lil finder](https://www.glaze.app/app/FDsxpL) | 12 | Your files super app | Yaseenmb11 | 1.0.0 | 755 KB | 2026-07-09 |
 | [Graze](https://www.glaze.app/app/x4aWfd) | 8 | Explore the most interesting information | Shearm | 10.0.0 | 269 KB | 2026-07-27 |
 | [Better Finder](https://www.glaze.app/app/PV8dgl) | 6 | better fs for windows/mac fs refuges!! | Paranjay Khachar | 2.0.0 | 86 KB | 2026-07-26 |
 | [Persona](https://www.glaze.app/app/yUNcps) | 6 | Your Mac's AI companion with personality | M Sour | 6.0.0 | 422 KB | 2026-08-01 |

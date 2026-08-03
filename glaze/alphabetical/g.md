@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Gesture Launch](https://www.glaze.app/app/74q23g) | 225 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 92 KB | 2026-05-14 |
-| [Glaze Playground](https://www.glaze.app/app/vE1ZTK) | 93 | Play Glaze components and APIs visually | LitoMore | 5.0.0 | 125 KB | 2026-07-01 |
+| [Glaze Playground](https://www.glaze.app/app/vE1ZTK) | 94 | Play Glaze components and APIs visually | LitoMore | 5.0.0 | 125 KB | 2026-07-01 |
 | [Glaze](https://www.glaze.app/app/5SiZjz) | 35 | Create mesmerizing audio-reactive 3D ribbon visualizations with interactive controls | Dhruv Suthar | 4.0.1 | 925 KB | 2026-03-18 |
 | [Gradient Wallpaper](https://www.glaze.app/app/AJuY62) | 33 | Custom gradients for every screen | Adam Molina | 1.0.0 | 54 KB | 2026-05-08 |
 | [Glint](https://www.glaze.app/app/PcFJPH) | 21 | Messages – without the mess | Henri Chabrand | 1.0.0 | 14.0 MB | 2026-07-25 |
@@ -16,12 +16,12 @@
 | [GitHub Actions Monitor](https://www.glaze.app/app/OxiQZL) | 18 | Monitor GitHub Actions in your menu bar | Adil Erchouk | 2.0.0 | 75 KB | 2026-07-02 |
 | [Glazul](https://www.glaze.app/app/tS95LY) | 18 | Play a relaxing solo version of Azul | João Neves | 9.0.0 | 59 KB | 2026-06-04 |
 | [Glasshouse](https://www.glaze.app/app/VhRMAU) | 17 | The town square for Glaze ecosystem! | Mike | 6.0.0 | 110 KB | 2026-07-28 |
-| [Glaze Installs](https://www.glaze.app/app/zh80kP) | 16 | See your apps exact install counts | WheelHugger | 1.0.0 | 83 KB | 2026-07-29 |
+| [Glaze Installs](https://www.glaze.app/app/zh80kP) | 17 | See your apps exact install counts | WheelHugger | 1.0.0 | 83 KB | 2026-07-29 |
 | [GitHub Star Sync](https://www.glaze.app/app/SfluD7) | 14 | Quickly access your GitHub Stars | Mike Bracco | 1.0.0 | 162 KB | 2026-06-09 |
 | [Gloss](https://www.glaze.app/app/wkIuar) | 14 | Tell Gloss what you want to learn | Abed | 8.0.0 | 216 KB | 2026-07-31 |
 | [Gaze](https://www.glaze.app/app/lIYdXQ) | 13 | Rest your eyes every 20 minutes | Giulio | 1.0.0 | 50 KB | 2026-06-04 |
+| [GitLab Client](https://www.glaze.app/app/OJT881) | 11 | Browse GitLab repositories and pipelines | Torsten Lemke | 1.0.0 | 124 KB | 2026-06-29 |
 | [Grove](https://www.glaze.app/app/5VhVgW) | 11 | Downloads, finally organized | Jafar Umoru | 2.0.0 | 4.4 MB | 2026-07-27 |
-| [GitLab Client](https://www.glaze.app/app/OJT881) | 10 | Browse GitLab repositories and pipelines | Torsten Lemke | 1.0.0 | 124 KB | 2026-06-29 |
 | [Ghost](https://www.glaze.app/app/n7fZjc) | 9 | Build with your codebase context | ImisiD | 1.0.0 | 75 KB | 2026-07-28 |
 | [Ghostie](https://www.glaze.app/app/RvmVhm) | 8 | Your cursor's adorable ghostly companion | vr | 1.0.0 | 53 KB | 2026-05-02 |
 | [Glazer Blast!](https://www.glaze.app/app/sFhKRR) | 8 | Blast away all the Glaze… things... | David Claridge | 2.0.0 | 60 KB | 2026-07-01 |

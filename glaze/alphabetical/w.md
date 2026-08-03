@@ -36,23 +36,23 @@
 | [Wishlist](https://www.glaze.app/app/bdkrvX) | 5 | Curate and organize items you want to | Leonidas Fragkioudakis | 1.0.0 | 71 KB | 2026-07-06 |
 | [Worktree](https://www.glaze.app/app/ki2IFx) | 5 | Manage git worktrees effortlessly | Eitel Dagnin | 1.0.0 | 121 KB | 2026-07-03 |
 | [WriteOn](https://www.glaze.app/app/Vunquu) | 5 | Modern word processor with classic feels | Lee Sherman | 5.0.0 | 84 KB | 2026-07-13 |
+| [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) | 4 | Set and manage Mac desktop backgrounds | freddy | 1.0.0 | 64 KB | 2026-07-17 |
 | [Watch Later](https://www.glaze.app/app/07KEGm) | 4 | Save videos, organize, watch anytime. | Kofi Amoussou | 6.0.0 | 130 KB | 2026-07-27 |
 | [webp to PNG](https://www.glaze.app/app/ms1HCr) | 4 | Convert WebP images to PNG instantly | TONOS | 2.0.0 | 352 KB | 2026-07-02 |
 | [Western ExpatMap](https://www.glaze.app/app/VTRYM0) | 4 | Find your ideal Western country to live | Check My blog (www.lhumain.info) | 4.0.0 | 122 KB | 2026-07-05 |
 | [Window Arrange](https://www.glaze.app/app/xBybc5) | 4 | Snap windows into perfect layouts fast | Juan Alejandre | 1.0.0 | 66 KB | 2026-07-26 |
-| [Wondher Pulse](https://www.glaze.app/app/wondher-pulse-EHeN4w) | 4 | Take control of your time, your way | Brian Mendes | 3.0.0 | 92 KB | 2026-08-01 |
+| [Wondher Pulse](https://www.glaze.app/app/wondher-pulse-EHeN4w) | 4 | Take control of your time, your way | Brian Mendes | 4.0.0 | 93 KB | 2026-08-03 |
 | [Word Counter](https://www.glaze.app/app/weVv8k) | 4 | Instantly count words and characters | Shearm | 3.0.0 | 54 KB | 2026-06-25 |
 | [Word of the Day](https://www.glaze.app/app/6q8hl9) | 4 | Build your vocabulary every single day. | Zeeshan Ahmad | 1.0.0 | 67 KB | 2026-06-27 |
 | [Writ](https://www.glaze.app/app/2zQc99) | 4 | Write like in Craft, but all local | Rubens Nook | 1.0.0 | 66 KB | 2026-07-13 |
-| [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) | 3 | Set and manage Mac desktop backgrounds | freddy | 1.0.0 | 64 KB | 2026-07-17 |
 | [Watch Later](https://www.glaze.app/app/yD6S6w) | 3 | Save and organize YouTube videos to | Goran Vukovic | 2.0.0 | 66 KB | 2026-07-26 |
 | [WatterBuddy](https://www.glaze.app/app/dwjGG5) | 3 | Get friendly reminders to drink water | Bhavik Hingu | 2.0.0 | 2.4 MB | 2026-07-13 |
 | [Web to MD](https://www.glaze.app/app/7jKDdm) | 3 | Turn any webpage into clean Markdown | Gleb Shalimov | 2.0.0 | 5.3 MB | 2026-07-23 |
+| [Wish Manifest](https://www.glaze.app/app/wish-manifest-U3ZrvL) | 3 | Save your wants in one place | Lee Sherman | 2.0.0 | 65 KB | 2026-08-03 |
 | [WordPress Recon](https://www.glaze.app/app/zBgB3y) | 3 | See what your WordPress site reveals | Dmytro Lobov | 6.0.0 | 116 KB | 2026-07-29 |
 | [Wallpaper Creator](https://www.glaze.app/app/FasYwi) | 2 | Wallpapers from Videos and Images | Max Battleman | 2.0.0 | 68 KB | 2026-07-27 |
 | [Web Wallpaper](https://www.glaze.app/app/AimmJ2) | 2 | Turn any webpage into your wallpaper | Max Battleman | 1.0.0 | 60 KB | 2026-07-20 |
 | [while...](https://www.glaze.app/app/hk0xeC) | 2 | Quick games, whenever you need a break | Alex | 1.0.0 | 43 KB | 2026-07-27 |
-| [Wish Manifest](https://www.glaze.app/app/wish-manifest-U3ZrvL) | 2 | Save your wants in one place | Lee Sherman | 2.0.0 | 65 KB | 2026-08-03 |
 | [World Time](https://www.glaze.app/app/HDtRH3) | 2 | View multiple time zones at a glance | Yash | 1.0.0 | 80 KB | 2026-07-02 |
 | [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) | 1 | Fresh walls, every day on autopilot | Elior Boukhobza | 2.0.0 | 62 KB | 2026-07-27 |
 | [Watermark Pro](https://www.glaze.app/app/watermark-pro-5U4OwT) | 1 | Protect photos with custom watermarks | Ryun Li | 1.0.0 | 59 KB | 2026-08-03 |

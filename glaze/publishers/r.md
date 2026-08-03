@@ -12,7 +12,7 @@
 | Rajeev Dassani | 1 | 4 | [TV Tracker](https://www.glaze.app/app/pc1XFI) *(Productivity)* |
 | Ralbright | 1 | 6 | [Code Duel](https://www.glaze.app/app/Vu61vP) *(Developer Tools)* |
 | Randy | 1 | 34 | [Clean My Ray](https://www.glaze.app/app/jPQsxk) *(Utilities)* |
-| Randy Pitcher II | 1 | 1 | [mvt - Music Viz Tool](https://www.glaze.app/app/mvt-music-viz-tool-7CE4oc) *(Media)* |
+| Randy Pitcher II | 1 | 4 | [mvt - Music Viz Tool](https://www.glaze.app/app/mvt-music-viz-tool-7CE4oc) *(Media)* |
 | Raph | 1 | 7 | [Mindfulness Bell](https://www.glaze.app/app/kccHuE) *(Productivity)* |
 | Raphael Grötsch | 1 | 4 | [Trace](https://www.glaze.app/app/XhO42n) *(Productivity)* |
 | Ravi Madabhushi | 1 | 3 | [Scalekit DevTools](https://www.glaze.app/app/HFeNHW) *(Developer Tools)* |

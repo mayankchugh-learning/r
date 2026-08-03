@@ -10,11 +10,11 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 860 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
+| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 861 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
 | [Skills](https://www.glaze.app/app/9liD6w) | 35 | Browse, preview & install agent skills | Kth | 1.0.0 | 69 KB | 2026-07-04 |
 | [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) | 25 | Explains commands before you run them | Brad Chin | 3.0.0 | 175 KB | 2026-07-28 |
 | [Agent Dashboard](https://www.glaze.app/app/6cHyYB) | 18 | Visualize and track local agent activity | jasonbla | 5.0.0 | 71 KB | 2026-07-13 |
-| [MCP&Skill Manager](https://www.glaze.app/app/rRZDwG) | 16 | Manage all your MCP servers in one | Giovanni | 2.0.0 | 92 KB | 2026-07-25 |
+| [MCP&Skill Manager](https://www.glaze.app/app/rRZDwG) | 17 | Manage all your MCP servers in one | Giovanni | 2.0.0 | 92 KB | 2026-07-25 |
 | [Reclaim](https://www.glaze.app/app/ed33HB) | 15 | Your AI is quietly eating up your disk | Abubakr Jimoh | 4.0.0 | 236 KB | 2026-07-27 |
 | [Agent Skills Manager](https://www.glaze.app/app/GhFNA9) | 12 | Manage AI coding-agent skills from one | Oryam Nehoray | 1.0.0 | 117 KB | 2026-07-21 |
 | [Relay](https://www.glaze.app/app/mvjsAA) | 12 | API Endpoints to tools for AI agents | Nikhil | 8.0.0 | 394 KB | 2026-07-28 |
@@ -35,7 +35,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 20 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 67 KB | 2026-07-29 |
+| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 21 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 67 KB | 2026-07-29 |
 | [Clipfloat](https://www.glaze.app/app/0DLNYu) | 5 | AI-guided copy and paste made effortless | James Coy (JC) | 1.0.0 | 64 KB | 2026-07-16 |
 | [Repo Pulse](https://www.glaze.app/app/0o8uwf) | 3 | Stay updated on repos with AI insights | Yossi Zahn | 3.0.0 | 114 KB | 2026-07-27 |
 | [PG-Glaze](https://www.glaze.app/app/aNPalD) | 2 | Browse and query your PostgreSQL | Frank | 3.0.0 | 520 KB | 2026-07-02 |

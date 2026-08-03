@@ -17,7 +17,7 @@
 | Giedrė Blekaitė | 1 | 9 | [ForgetMeNot](https://www.glaze.app/app/nOh0wO) *(Productivity)* |
 | Giorgos Karapiperidis | 1 | 4 | [Glance](https://www.glaze.app/app/G8Us2o) *(Productivity)* |
 | [Giovambattista Fazioli](./id/giovambattista-fazioli.md) | 5 | 32 | [see all 5 →](./id/giovambattista-fazioli.md) |
-| Giovanni | 1 | 16 | [MCP&Skill Manager](https://www.glaze.app/app/rRZDwG) *(Developer Tools)* |
+| Giovanni | 1 | 17 | [MCP&Skill Manager](https://www.glaze.app/app/rRZDwG) *(Developer Tools)* |
 | Giovanni Cassanelli | 1 | 0 | [Estremi Rimedi](https://www.glaze.app/app/XY0nRx) *(Productivity)* |
 | Giulio | 1 | 13 | [Gaze](https://www.glaze.app/app/lIYdXQ) *(Utilities)* |
 | Glazapp | 1 | 4 | [Age Encrypt](https://www.glaze.app/app/JEVK1b) *(Developer Tools)* |
@@ -25,12 +25,12 @@
 | Glazeapp | 2 | 8 | [Week Counter](https://www.glaze.app/app/U3roAD) *(Productivity)*, [TippiTap](https://www.glaze.app/app/YPT013) *(Utilities)* |
 | Glazeapp.Xty | 1 | 1 | [Drink Tracker](https://www.glaze.app/app/drink-tracker-JWG872) *(Lifestyle)* |
 | Gleb Shalimov | 1 | 3 | [Web to MD](https://www.glaze.app/app/7jKDdm) *(Developer Tools)* |
-| Gmoneyman10 | 1 | 1 | [Feedvault](https://www.glaze.app/app/1o69du) *(Productivity)* |
+| Gmoneyman10 | 1 | 2 | [Feedvault](https://www.glaze.app/app/1o69du) *(Productivity)* |
 | Gökhan Efe | 1 | 4 | [Jayson](https://www.glaze.app/app/uay4Jg) *(Developer Tools)* |
 | goldzulu | 1 | 4 | [Markdown Ninja](https://www.glaze.app/app/MzVKWz) *(Utilities)* |
 | Gomezdn7 | 1 | 3 | [Vocalize](https://www.glaze.app/app/RlyPGR) *(Productivity)* |
 | Goran Vukovic | 1 | 3 | [Watch Later](https://www.glaze.app/app/yD6S6w) *(Productivity)* |
-| gowhith kanisetty | 1 | 81 | [macHealth](https://www.glaze.app/app/C9jYcO) *(Utilities)* |
+| gowhith kanisetty | 1 | 82 | [macHealth](https://www.glaze.app/app/C9jYcO) *(Utilities)* |
 | Graeme Fulton | 1 | 26 | [FeedBagel](https://www.glaze.app/app/AozKi4) *(Media)* |
 | Grant Smith | 1 | 2 | [NBA® #2K32](https://www.glaze.app/app/Utauda) *(Games & Fun)* |
 | Grass “Grass” | 1 | 10 | [Lid Angle](https://www.glaze.app/app/lCX75u) *(Utilities)* |

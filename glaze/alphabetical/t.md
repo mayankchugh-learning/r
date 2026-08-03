@@ -6,9 +6,9 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 281 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
-| [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 460 KB | 2026-07-28 |
-| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 157 | Your mac deserves a better dock | lexav | 9.0.0 | 93 KB | 2026-07-30 |
+| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 294 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
+| [This](https://www.glaze.app/app/this-STOdhd) | 206 | Annotate this and that | Kristina Loewen | 10.0.0 | 460 KB | 2026-07-28 |
+| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 163 | Your mac deserves a better dock | lexav | 9.0.0 | 93 KB | 2026-07-30 |
 | [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr) | 149 | Task planner | Nichlas Wærnes Andersen | 10.0.0 | 5.2 MB | 2026-07-19 |
 | [Tap Beats](https://www.glaze.app/app/uIyOY5) | 53 | Create music by tapping a grid-based trackpad with 12 buttons arranged in columns and rows | Vincent de Lagabbe | 2.0.1 | 183 KB | 2026-03-25 |
 | [Trend Builder](https://www.glaze.app/app/ApW3oA) | 49 | Build the app everyone’s searching for | Ch1rag | 6.0.0 | 770 KB | 2026-07-10 |
@@ -25,7 +25,7 @@
 | [Tomato Focus](https://www.glaze.app/app/4wSVNN) | 20 | Track tasks with pomodoro timer | Benjamin | 4.0.0 | 108 KB | 2026-07-15 |
 | [T-yperminator](https://www.glaze.app/app/S7MTRH) | 19 | Type faster, boost your vocab power | Vapa | 3.0.0 | 2.8 MB | 2026-07-10 |
 | [Teleprompter](https://www.glaze.app/app/36pCwv) | 18 | Invisible teleprompter for on-screen | ankita singh | 2.0.0 | 67 KB | 2026-07-28 |
-| [TimeCapsule](https://www.glaze.app/app/vk8pxo) | 17 | Read Later, Organized Your Way | Tobias Bannwart | 28.0.0 | 8.9 MB | 2026-07-30 |
+| [TimeCapsule](https://www.glaze.app/app/vk8pxo) | 17 | Read Later, Organized Your Way | Tobias Bannwart | 29.0.0 | 8.9 MB | 2026-08-03 |
 | [TimeNow](https://www.glaze.app/app/2yQ3yc) | 17 | Display the current time with second-precision in a clean, straightforward interface. Has a pin feature to keep the window floating. Allows customisa… | Baran B | 2.0.1 | 268 KB | 2026-04-01 |
 | [Taken](https://www.glaze.app/app/7ZhgBb) | 14 | Screen recorder for your 9th take. | Noman | 5.0.0 | 62 KB | 2026-07-23 |
 | [Token Studio](https://www.glaze.app/app/QpotqD) | 14 | Create custom VS Code themes with live syntax highlighting | Samuel Kraft | 1.0.1 | 4.1 MB | 2026-03-23 |
@@ -40,7 +40,7 @@
 | [The Jarvis](https://www.glaze.app/app/8pGlBl) | 9 | Voice commands for your workflows 🤖 | Petar Stoyanov | 3.0.0 | 74 KB | 2026-07-04 |
 | [Treehouse](https://www.glaze.app/app/c7UeuV) | 9 | Git worktrees, without the friction. | Alyssa Holland | 7.0.0 | 1.2 MB | 2026-07-30 |
 | [TypeMeter](https://www.glaze.app/app/KljnFe) | 9 | Beat the clock, master your typing | Prahesa Kusuma Setia | 1.0.0 | 62 KB | 2026-07-01 |
-| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 8.0.0 | 63 KB | 2026-08-03 |
+| [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 9.0.0 | 66 KB | 2026-08-03 |
 | [Taped](https://www.glaze.app/app/9re1VL) | 8 | Keep track of everything you own | Mose | 3.0.0 | 1,009 KB | 2026-07-28 |
 | [Transcode](https://www.glaze.app/app/iGYFu1) | 8 | Compress and convert video, photo, audio | thejasonhowell | 1.0.0 | 65 KB | 2026-07-08 |
 | [Translate](https://www.glaze.app/app/NTmoY8) | 8 | Instant translation from your menu bar | Oleh Yeroshkin | 1.0.0 | 55 KB | 2026-07-02 |
@@ -74,6 +74,7 @@
 | [Team Clock](https://www.glaze.app/app/XTGtUV) | 4 | See your team's workday at a glance | Nico Van Zyl | 1.0.0 | 62 KB | 2026-07-01 |
 | [Telltale](https://www.glaze.app/app/ZPeaME) | 4 | See your Mac's state. Don't read it. | Adithya Jayasankar | 11.0.0 | 138 KB | 2026-07-30 |
 | [TextGenie](https://www.glaze.app/app/UBkg0q) | 4 | AI text actions from your menu bar | Dmytro Lobov | 7.0.0 | 116 KB | 2026-07-29 |
+| [Thermal Monitor](https://www.glaze.app/app/d8QTlA) | 4 | Monitor CPU and system temperatures | Léo Tuil | 5.0.0 | 129 KB | 2026-08-03 |
 | [ThreeD](https://www.glaze.app/app/a0GwiK) | 4 | View and organize 3D model files | Petrus Pierre | 1.0.0 | 196 KB | 2026-06-30 |
 | [Tic Tac Toe](https://www.glaze.app/app/p2RgUb) | 4 | An amazing spin on Tic Tac Toe | Abhi P | 1.0.0 | 57 KB | 2026-07-01 |
 | [Time Tracker](https://www.glaze.app/app/HqCbuy) | 4 | Monitor laptop usage and take breaks | Diego Carrillo | 1.0.0 | 60 KB | 2026-07-01 |
@@ -92,9 +93,9 @@
 | [TaxNomad](https://www.glaze.app/app/XmV8Yu) | 3 | Track tax residency and compliance | Andre Martins | 3.0.0 | 108 KB | 2026-07-27 |
 | [Test Recorder](https://www.glaze.app/app/ePs3cg) | 3 | Test and record websites with ease | Olavo Parno | 5.0.0 | 3.4 MB | 2026-07-19 |
 | [Theme Extractor](https://www.glaze.app/app/Zp7E8g) | 3 | Create a live appendix of your Notes app | Drew Grossmann | 1.0.0 | 61 KB | 2026-07-17 |
-| [Thermal Monitor](https://www.glaze.app/app/d8QTlA) | 3 | Monitor CPU and system temperatures | Léo Tuil | 4.0.0 | 129 KB | 2026-08-01 |
 | [TI+](https://www.glaze.app/app/lfe86S) | 3 | Classic calculators, modern design | hottubjohn | 3.0.0 | 67 KB | 2026-07-06 |
 | [Tide Tracker](https://www.glaze.app/app/2lZJZY) | 3 | Menu Bar monitor ocean tide levels | Don | 2.0.0 | 69 KB | 2026-07-10 |
+| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 3 | Start your mac, stay focused | Sam Stephenson | 1.0.0 | 63 KB | 2026-08-03 |
 | [TradingView Alerts](https://www.glaze.app/app/fEvGNa) | 3 | Get notified of TradingView alerts | Aleksandr Pasevin | 2.0.0 | 61 KB | 2026-06-14 |
 | [Tumblewords Solver](https://www.glaze.app/app/rxJ4r1) | 3 | Find optimal letter arrangements and word paths to maximize scores in Tumblewords puzzles | Dhruv Suthar | 1.0.1 | 1.8 MB | 2026-03-27 |
 | [Twiddle](https://www.glaze.app/app/SqSg4t) | 3 | Where did you hours go? | Rubens Nook | 2.0.0 | 88 KB | 2026-07-13 |
@@ -122,7 +123,6 @@
 | [Tarot Cards](https://www.glaze.app/app/wLBd4b) | 1 | Daily guidance in a single draw | Maggie.ou | 1.0.0 | 76 KB | 2026-07-27 |
 | [TeamsToDeck Commands](https://www.glaze.app/app/5kyOs4) | 1 | Control Teams calls from Stream Deck | mboeru | 3.0.0 | 84 KB | 2026-07-23 |
 | [Tempo Track](https://www.glaze.app/app/uo8WCc) | 1 | Log Jira time in seconds, not minutes | Martin Sedláček | 2.0.0 | 96 KB | 2026-07-24 |
-| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 1 | Start your mac, stay focused | Sam Stephenson | 1.0.0 | 63 KB | 2026-08-03 |
 | [Times Up](https://www.glaze.app/app/tx1b9T) | 1 | Log tasks and track time by client | Richard Middleton | 2.0.0 | 64 KB | 2026-07-08 |
 | [TippiTap](https://www.glaze.app/app/YPT013) | 1 | Unlock passwords through playful tapping | Glazeapp | 2.0.0 | 144 KB | 2026-07-24 |
 | [Touch Grass](https://www.glaze.app/app/HLpQnJ) | 1 | Less scrolling. More living. | Drained99 | 1.0.0 | 223 KB | 2026-07-25 |

@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Highlight](https://www.glaze.app/app/highlight-puwjxR) | 623 | Show all your clicks and keystrokes | Thomas Paul Mann | 1.0.0 | 683 KB | 2026-05-26 |
-| [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 327 | Explore hotkey systems for Raycast | Alex Antonov | 2.0.0 | 54 KB | 2026-04-17 |
+| [Hotkey Explorer](https://www.glaze.app/app/hotkey-explorer-Lu5b3W) | 328 | Explore hotkey systems for Raycast | Alex Antonov | 2.0.0 | 54 KB | 2026-04-17 |
 | [Health Fusion](https://www.glaze.app/app/ikcWiD) | 71 | Your Apple Health & WHOOP data, unified. | Oliver Posselt | 2.0.0 | 226 KB | 2026-04-19 |
 | [Hackerfeed](https://www.glaze.app/app/f22UqI) | 42 | Browse Hacker News stories and comments in a streamlined, distraction-free interface | Michael Nielsen | 2.0.1 | 171 KB | 2026-03-04 |
 | [Hacker News Reader](https://www.glaze.app/app/6JMi6H) | 28 | Stay updated on tech news fast | Emilio Escobar | 2.0.0 | 54 KB | 2026-05-31 |
@@ -50,4 +50,4 @@
 | [hw_branches](https://www.glaze.app/app/ypu7uw) | 1 | Explore branching conversation paths | Martin Mikušát | 1.0.0 | 129 KB | 2026-07-25 |
 | [HyperGlass](https://www.glaze.app/app/3a4sfw) | 1 | Build card stacks visually | Lee Sherman | 5.0.0 | 90 KB | 2026-07-23 |
 | [Hanabi](https://www.glaze.app/app/PQ9tJk) | 0 | See the safe view before you share | Ulugbek Karimov | 1.0.0 | 674 KB | 2026-07-25 |
-| [Hex Savings](https://www.glaze.app/app/hex-savings-wKaY12) | 0 | Hex voice typing, tracked and rewarded | Christian Boyle | 1.0.0 | 75 KB | 2026-07-31 |
+| [Hex Savings](https://www.glaze.app/app/wKaY12) | 0 | Hex voice typing, tracked and rewarded | Christian Boyle | 1.0.0 | 75 KB | 2026-07-31 |

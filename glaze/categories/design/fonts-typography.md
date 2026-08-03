@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Font Finder](https://www.glaze.app/app/font-finder-O2kYPe) | 144 | Quickly preview local fonts in context | Alexander Artsvuni | 7.0.0 | 547 KB | 2026-07-29 |
+| [Font Finder](https://www.glaze.app/app/O2kYPe) | 144 | Quickly preview local fonts in context | Alexander Artsvuni | 7.0.0 | 547 KB | 2026-07-29 |
 | [ASCII Capture](https://www.glaze.app/app/KxyppG) | 37 | Convert photos into customizable ASCII art and export as images or SVG for web use | Yassine A | 1.0.1 | 211 KB | 2026-03-25 |
 | [Room Planner](https://www.glaze.app/app/yvEH29) | 11 | Design your perfect space in minutes | Cindy Wincek | 2.0.0 | 93 KB | 2026-07-24 |
 | [Overtype](https://www.glaze.app/app/PKj6yw) | 7 | Fast and fluid font editing | Kaylen Castle | 1.0.0 | 786 KB | 2026-07-25 |

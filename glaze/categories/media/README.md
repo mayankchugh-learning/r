@@ -1,13 +1,13 @@
 # Media
 
-134 apps · 4,796 installs · [← all categories](../README.md)
+134 apps · 4,824 installs · [← all categories](../README.md)
 
 ## Listen & Watch
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Music & Instruments](./music-instruments/README.md) | 79 | 2,125 |
-| [Video & Streaming](./video-streaming.md) | 30 | 2,217 |
+| [Music & Instruments](./music-instruments/README.md) | 79 | 2,139 |
+| [Video & Streaming](./video-streaming.md) | 30 | 2,230 |
 | [Sound Effects & Boards](./sound-effects-boards.md) | 1 | 12 |
 
 ## Look & Read

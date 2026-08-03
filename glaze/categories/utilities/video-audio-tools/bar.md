@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [MicCheck](https://www.glaze.app/app/miccheck-TRFqOJ) | 105 | Never miss a muted mic again | Justin Lancaster | 2.0.0 | 65 KB | 2026-07-17 |
+| [MicCheck](https://www.glaze.app/app/miccheck-TRFqOJ) | 107 | Never miss a muted mic again | Justin Lancaster | 2.0.0 | 65 KB | 2026-07-17 |
 | [Sonos Control](https://www.glaze.app/app/rXTnqL) | 16 | Control your Sonos speakers | Pastenes | 7.0.0 | 246 KB | 2026-07-28 |
 | [TellyKeys](https://www.glaze.app/app/agSOKB) | 5 | Your Mac keyboard is now your TV remote | WheelHugger | 7.0.0 | 296 KB | 2026-07-26 |
 | [NetWatch](https://www.glaze.app/app/1Ds4iP) | 4 | Monitor network speed, ping, and system | Iaroslav Naiden | 1.0.0 | 75 KB | 2026-07-05 |

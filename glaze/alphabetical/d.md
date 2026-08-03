@@ -2,12 +2,12 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-75 apps · [← Glaze catalog](../README.md)
+74 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 491 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 59 KB | 2026-04-15 |
-| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 447 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 85 KB | 2026-07-14 |
+| [Dynamic Wallpaper](https://www.glaze.app/app/xJvbba) | 492 | Wallpapers that match your system theme | Jordan Amblin | 3.0.0 | 59 KB | 2026-04-15 |
+| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 450 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 85 KB | 2026-07-14 |
 | [Dynamic Island](https://www.glaze.app/app/Om758X) | 49 | iPhone-style Dynamic Islan for your Mac | alexi.build | 1.0.0 | 50 KB | 2026-04-22 |
 | [Ding!](https://www.glaze.app/app/oRbL7g) | 41 | Hydrate more, move better every day | Tran Mau Tri Tam | 8.0.0 | 62 KB | 2026-07-30 |
 | [Drop2Markdown](https://www.glaze.app/app/E8OW9Q) | 34 | Drop anything. Get Markdown. | Oliver Posselt | 3.0.0 | 96.3 MB | 2026-04-20 |
@@ -43,7 +43,7 @@
 | [Decision matrix](https://www.glaze.app/app/CoqolO) | 5 | Prioritize tasks with an Eisenhower grid | tyler.earth 🌎 | 1.0.0 | 67 KB | 2026-07-09 |
 | [DiffCheck](https://www.glaze.app/app/72vYWq) | 5 | Compare text side-by-side instantly | Aaron Rich | 1.0.0 | 73 KB | 2026-07-13 |
 | [Disk Intelligence](https://www.glaze.app/app/qRgf9Y) | 5 | Understand and reclaim your disk space | Mikhail Borodin | 1.0.0 | 115 KB | 2026-07-25 |
-| [Dock Eras](https://www.glaze.app/app/GuJcuW) | 5 | Your retro dock, your way | Lee Sherman | 5.0.0 | 525 KB | 2026-07-26 |
+| [Dock Eras](https://www.glaze.app/app/GuJcuW) | 5 | Your retro dock, your way | Lee Sherman | 6.0.0 | 544 KB | 2026-08-03 |
 | [Domain Checker](https://www.glaze.app/app/JPwyCH) | 5 | Check domain availability instantly | ashing zheng | 1.0.0 | 60 KB | 2026-07-02 |
 | [Dreama](https://www.glaze.app/app/Te4eW8) | 5 | Generate images with ease | BLCNYY | 4.0.0 | 51 KB | 2026-04-25 |
 | [Dungeon Sketch](https://www.glaze.app/app/fL7gUZ) | 5 | Design dungeon maps for Dungeonblocks | Ringmaster | 2.0.0 | 77 KB | 2026-07-12 |
@@ -66,7 +66,6 @@
 | [Dataset Forge](https://www.glaze.app/app/rq6e5C) | 2 | Prepare LoRA training datasets | Federico Zivolo | 1.0.0 | 171 KB | 2026-07-12 |
 | [Desktop Toggle](https://www.glaze.app/app/RJxUQh) | 2 | Clean and Distraction-Free Desktop | Arlton Lowry | 1.0.0 | 53 KB | 2026-07-15 |
 | [Discord Companion](https://www.glaze.app/app/discord-companion-Nnu2hA) | 2 | Quick Discord access from your menu bar | Delvison Marte | 1.0.0 | 87 KB | 2026-08-01 |
-| [DMG installer](https://www.glaze.app/app/euUHv8) | 2 | Extract and organize apps from DMG files | Atharv kumar | 2.0.0 | 59 KB | 2026-07-17 |
 | [Don’t stop to dance](https://www.glaze.app/app/qspYJb) | 2 | AI keeps your music moving seamlessly | Romain Malaterre | 1.0.0 | 311 KB | 2026-06-29 |
 | [DoseTail](https://www.glaze.app/app/malQjQ) | 2 | Never miss your pet’s medication | Dmytro Shevchenko | 2.0.0 | 336 KB | 2026-07-28 |
 | [Date Clipper](https://www.glaze.app/app/pdy6Ve) | 1 | Copy dates to clipboard in ISO format | Bill.Daniels | 1.0.0 | 59 KB | 2026-07-25 |

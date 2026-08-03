@@ -1,29 +1,29 @@
 # Utilities
 
-390 apps · 6,169 installs · [← all categories](../README.md)
+390 apps · 6,210 installs · [← all categories](../README.md)
 
 ## Files & Media
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Files & Disk](./files-disk/README.md) | 173 | 2,998 |
+| [Files & Disk](./files-disk/README.md) | 173 | 3,021 |
 | [Image Tools](./image-tools/README.md) | 36 | 1,051 |
-| [Video & Audio Tools](./video-audio-tools/README.md) | 38 | 281 |
+| [Video & Audio Tools](./video-audio-tools/README.md) | 38 | 283 |
 
 ## System & Desktop
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [System & Performance](./system-performance/README.md) | 31 | 289 |
-| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 752 |
-| [Display & Wallpaper](./display-wallpaper.md) | 18 | 199 |
+| [System & Performance](./system-performance/README.md) | 31 | 292 |
+| [Menu Bar & Dock](./menu-bar-dock/README.md) | 35 | 758 |
+| [Display & Wallpaper](./display-wallpaper.md) | 18 | 201 |
 
 ## Input & Text
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
 | [Input & Gestures](./input-gestures.md) | 22 | 91 |
-| [Text & Clipboard](./text-clipboard.md) | 9 | 32 |
+| [Text & Clipboard](./text-clipboard.md) | 9 | 36 |
 
 ## Network & Safety
 

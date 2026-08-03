@@ -28,11 +28,11 @@
 | Flo | 1 | 26 | [Skill Map](https://www.glaze.app/app/CMgPDh) *(Developer Tools)* |
 | Florentin Eckl | 1 | 13 | [Recommand](https://www.glaze.app/app/ZDQIep) *(Productivity)* |
 | Florian.Mascaro | 1 | 9 | [Image Lighter](https://www.glaze.app/app/BxZAHu) *(Developer Tools)* |
-| fra.raw | 1 | 73 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
+| fra.raw | 1 | 75 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
 | Frajjco | 1 | 1 | [Outfit of the Day](https://www.glaze.app/app/dcpdLg) *(Lifestyle)* |
 | Frame City | 1 | 0 | [Pomodoro Focus](https://www.glaze.app/app/C7Sc4O) *(Productivity)* |
 | Francesco Maisano | 1 | 5 | [Blunder](https://www.glaze.app/app/0dUOLc) *(Games & Fun)* |
 | Frank | 1 | 2 | [PG-Glaze](https://www.glaze.app/app/aNPalD) *(Developer Tools)* |
 | Frank Olien | 1 | 2 | [Handoff](https://www.glaze.app/app/C86y01) *(Productivity)* |
-| freddy | 2 | 13 | [Markdown Preview](https://www.glaze.app/app/41iQyN) *(Developer Tools)*, [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) *(Utilities)* |
+| freddy | 2 | 15 | [Markdown Preview](https://www.glaze.app/app/41iQyN) *(Developer Tools)*, [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) *(Utilities)* |
 | Frederic Lierman | 1 | 2 | [log-lite](https://www.glaze.app/app/6ldf4h) *(Productivity)* |

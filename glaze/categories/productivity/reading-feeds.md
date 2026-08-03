@@ -16,7 +16,7 @@
 | [Feed Reader](https://www.glaze.app/app/W1JbFH) | 11 | Aggregate news from your favorite sites | Mariane Pocai | 1.0.0 | 245 KB | 2026-07-10 |
 | [Giga Chat](https://www.glaze.app/app/LpdKW8) | 6 | All your chats, organized your way | Caio Lins | 2.0.0 | 93 KB | 2026-07-03 |
 | [Highlighter](https://www.glaze.app/app/DuaGT4) | 3 | Remember what moved you. | Justin Harris | 1.0.0 | 98 KB | 2026-07-28 |
-| [Feed Harvest](https://www.glaze.app/app/ghvGgH) | 1 | Lightweight Feed Reader | John Hesch | 1.0.0 | 136 KB | 2026-07-28 |
+| [Feed Harvest](https://www.glaze.app/app/ghvGgH) | 1 | Lightweight Feed Reader | John Hesch | 3.0.0 | 137 KB | 2026-08-03 |
 | [Nextcloud News](https://www.glaze.app/app/zXIS7O) | 0 | Read your Nextcloud News feed | René Henrich | 1.0.0 | 80 KB | 2026-07-20 |
 | [Social Hub](https://www.glaze.app/app/yMQLG8) | 0 | Seamless social dock for Mac | KIN HEI SHING | 1.0.0 | 62 KB | 2026-07-24 |
 
@@ -24,7 +24,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Reading Corner](https://www.glaze.app/app/k3tfty) | 244 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 790 KB | 2026-07-19 |
+| [Reading Corner](https://www.glaze.app/app/k3tfty) | 245 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 790 KB | 2026-07-19 |
 | [MyLibrary](https://www.glaze.app/app/A5XSe8) | 4 | "Organize all your books in one place" | 83 Sipper Steamer | 1.0.0 | 968 KB | 2026-07-28 |
 | [Watch Later](https://www.glaze.app/app/07KEGm) | 4 | Save videos, organize, watch anytime. | Kofi Amoussou | 6.0.0 | 130 KB | 2026-07-27 |
 | [FrameBites](https://www.glaze.app/app/86GqqN) | 2 | Clip, loop & tag YouTube & local videos | Alfonso (Poncho) Aceves | 5.0.0 | 111 KB | 2026-07-30 |
@@ -35,10 +35,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Saturn](https://www.glaze.app/app/ewPgBX) | 12 | Never lose a bookmark again | Sachin | 7.0.0 | 7.7 MB | 2026-07-30 |
+| [Saturn](https://www.glaze.app/app/ewPgBX) | 13 | Never lose a bookmark again | Sachin | 7.0.0 | 7.7 MB | 2026-07-30 |
 | [Speed Reader](https://www.glaze.app/app/q8upcu) | 8 | Read more in less time | Zachary Daniels | 1.0.0 | 161 KB | 2026-07-12 |
 | [Verbatim - Article Reader](https://www.glaze.app/app/hZ8i9m) | 3 | Listening is easier than reading | Ryan O'Connell | 1.0.0 | 173 KB | 2026-07-30 |
-| [Feedvault](https://www.glaze.app/app/1o69du) | 1 | Aggregate and curate your reading | Gmoneyman10 | 1.0.0 | 351 KB | 2026-07-26 |
+| [Feedvault](https://www.glaze.app/app/1o69du) | 2 | Aggregate and curate your reading | Gmoneyman10 | 1.0.0 | 351 KB | 2026-07-26 |
 
 ## Nothing ✦
 
@@ -60,4 +60,4 @@
 | [Bible Layers](https://www.glaze.app/app/2yOhs5) | 2 | Learn original vocab in the Bible text. | John Punt | 2.0.0 | 69 KB | 2026-07-24 |
 | [Notify Hub](https://www.glaze.app/app/tW3kxb) | 2 | Notifications - Gmail, Slack and Linear | Ermek Barmashev | 1.0.0 | 70 KB | 2026-07-30 |
 | [TrainBook](https://www.glaze.app/app/knp7O6) | 2 | Book train journeys across Europe | Joeri | 1.0.0 | 73 KB | 2026-07-23 |
-| [Libra](https://www.glaze.app/app/k9C0RU) | 0 | Modern e-book management app. | Wei Su | 1.0.0 | 148 KB | 2026-07-27 |
+| [Libra](https://www.glaze.app/app/k9C0RU) | 1 | Modern e-book management app. | Wei Su | 1.0.0 | 148 KB | 2026-07-27 |

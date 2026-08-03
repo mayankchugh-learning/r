@@ -18,7 +18,7 @@
 | [Neovim Notes](https://www.glaze.app/app/35eP2I) | 3 | Take notes in your Neovim editor | Daniele Avitabile | 8.0.0 | 15.2 MB | 2026-07-31 |
 | [Notex](https://www.glaze.app/app/gR2sUk) | 3 | Write and save notes in multiple formats | Dipanjan Roy | 2.0.0 | 76 KB | 2026-07-22 |
 | [stick this](https://www.glaze.app/app/LwpGny) | 3 | MD notes as stickies, for you & agents | harssha vardan | 1.0.0 | 213 KB | 2026-07-22 |
-| [Uncertainty Calculator](https://www.glaze.app/app/uncertainty-calculator-2hemh6) | 1 | Notebook, Calculator and Uncertainty | VollBio | 2.0.0 | 337 KB | 2026-08-03 |
+| [Uncertainty Calculator](https://www.glaze.app/app/uncertainty-calculator-2hemh6) | 2 | Notebook, Calculator and Uncertainty | VollBio | 2.0.0 | 337 KB | 2026-08-03 |
 
 ## Clean ✦
 

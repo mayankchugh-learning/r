@@ -24,8 +24,8 @@
 | [App Manager](https://www.glaze.app/app/j7Tz2M) | 28 | Organize all your apps in one place | Mr Rajput | 1.0.0 | 81 KB | 2026-07-02 |
 | [Memory Guard](https://www.glaze.app/app/Gp2Q8T) | 16 | Monitor RAM and optimize memory usage | David Cortizo | 3.0.0 | 75 KB | 2026-07-24 |
 | [Loud - Better Activity Monitor](https://www.glaze.app/app/kW6Bh5) | 8 | See what's slowing down your Mac | Diana Durkota | 2.0.0 | 45 KB | 2026-07-25 |
+| [Thermal Monitor](https://www.glaze.app/app/d8QTlA) | 4 | Monitor CPU and system temperatures | Léo Tuil | 5.0.0 | 129 KB | 2026-08-03 |
 | [Ping Check](https://www.glaze.app/app/3JKav5) | 3 | Stay connected, know your ping | Eaugum | 5.0.0 | 64 KB | 2026-07-30 |
-| [Thermal Monitor](https://www.glaze.app/app/d8QTlA) | 3 | Monitor CPU and system temperatures | Léo Tuil | 4.0.0 | 129 KB | 2026-08-01 |
 | [Tesla Energy](https://www.glaze.app/app/I6VIKJ) | 2 | Monitor your Tesla solar production | Chris Messina | 2.0.0 | 292 KB | 2026-07-27 |
 
 ## Drag ✦

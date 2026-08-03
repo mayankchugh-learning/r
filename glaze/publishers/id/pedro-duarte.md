@@ -1,6 +1,6 @@
 # Pedro Duarte
 
-5 apps · 576 installs · [← publishers](../README.md)
+5 apps · 577 installs · [← publishers](../README.md)
 
 ## Developer Tools (1)
 
@@ -30,4 +30,4 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Meme Generator](https://www.glaze.app/app/jZ8Jrg) | 8 | Generate memes with custom text | Pedro Duarte | 1.0.0 | 60 KB | 2026-07-27 |
+| [Meme Generator](https://www.glaze.app/app/jZ8Jrg) | 9 | Generate memes with custom text | Pedro Duarte | 1.0.0 | 60 KB | 2026-07-27 |

@@ -6,9 +6,9 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 413 | Never lose track of what you pay for | Khalid Hasan Zibon | 5.0.0 | 83 KB | 2026-08-02 |
-| [Sweep](https://www.glaze.app/app/308emF) | 277 | Tinder for deleting files | melvin | 8.0.0 | 535 KB | 2026-08-03 |
-| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 199 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 121 KB | 2026-07-09 |
+| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 414 | Never lose track of what you pay for | Khalid Hasan Zibon | 5.0.0 | 83 KB | 2026-08-02 |
+| [Sweep](https://www.glaze.app/app/308emF) | 278 | Tinder for deleting files | melvin | 8.0.0 | 535 KB | 2026-08-03 |
+| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 201 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 121 KB | 2026-07-09 |
 | [Sky Tracker](https://www.glaze.app/app/sky-tracker-azKgA5) | 81 | Track every plane in the sky, live | Yukai Huang | 2.0.0 | 349 KB | 2026-04-21 |
 | [Silly Sounds](https://www.glaze.app/app/e8Qzum) | 77 | Play hilarious sound effects at the tap of a button for instant entertainment | Thomas Paul Mann | 1.0.1 | 595 KB | 2026-03-05 |
 | [Shader](https://www.glaze.app/app/4kgfQf) | 58 | Visualize real-time shadows from mountains, buildings, and trees at any location, date, and time | Samuel Kraft | 3.0.1 | 1.1 MB | 2026-03-06 |
@@ -45,9 +45,9 @@
 | [SnapClip](https://www.glaze.app/app/mLzkmr) | 14 | Screenshot and annotate with instant | Tarun Kumar | 2.0.0 | 59 KB | 2026-06-10 |
 | [Soniqq](https://www.glaze.app/app/Z5udq4) | 14 | Retro music with custom visuals | João Neves | 7.0.0 | 58 KB | 2026-04-27 |
 | [StreamHub](https://www.glaze.app/app/CPEGJi) | 14 | Watch all your streamers in one place | Delvison Marte | 14.0.0 | 381 KB | 2026-07-26 |
+| [Saturn](https://www.glaze.app/app/ewPgBX) | 13 | Never lose a bookmark again | Sachin | 7.0.0 | 7.7 MB | 2026-07-30 |
 | [Scoville](https://www.glaze.app/app/72moda) | 13 | Grow and harvest peppers to create the spiciest dishes in this strategic farming game | Tirta Wulandari | 2.0.1 | 203 KB | 2026-03-25 |
 | [Shelf](https://www.glaze.app/app/QlUd8A) | 13 | Hold files temporarily, organize later | David | 1.0.0 | 64 KB | 2026-07-02 |
-| [Saturn](https://www.glaze.app/app/ewPgBX) | 12 | Never lose a bookmark again | Sachin | 7.0.0 | 7.7 MB | 2026-07-30 |
 | [Shoebox](https://www.glaze.app/app/cJ5iTe) | 12 | The screenshot library devs deserve | Ritul Mishra | 8.0.0 | 118 KB | 2026-07-27 |
 | [Status Hub](https://www.glaze.app/app/BwUAqT) | 12 | All your service status in one place | Grzegorz Krukowski | 8.0.0 | 68 KB | 2026-06-28 |
 | [StoryCut](https://www.glaze.app/app/dNOAQe) | 12 | Split long videos into Instagram Stories | Youssef Toufik | 1.0.0 | 70 KB | 2026-07-01 |
@@ -60,9 +60,10 @@
 | [Stash](https://www.glaze.app/app/lboYiN) | 11 | Quick file access from your menu bar | Tanzir Rahman | 2.0.0 | 35 KB | 2026-07-23 |
 | [SEOInspector](https://www.glaze.app/app/FwJNp5) | 10 | Every SEO check your site needs | Dmytro Lobov | 8.0.0 | 741 KB | 2026-07-31 |
 | [Snip Cat](https://www.glaze.app/app/Hscggu) | 10 | Instant background removal for any photo | Bat the Cat | 3.0.0 | 74 KB | 2026-07-08 |
-| [SoloTrack](https://www.glaze.app/app/cvMkSD) | 10 | Time tracking, reporting, invoicing | Nick Hart | 13.0.0 | 96 KB | 2026-07-30 |
+| [SoloTrack](https://www.glaze.app/app/cvMkSD) | 10 | Time tracking, reporting, invoicing | Nick Hart | 14.0.0 | 320 KB | 2026-08-03 |
 | [Stream](https://www.glaze.app/app/cLg8Tt) | 10 | Your day, remembered before you have to. | Ricardo Patel | 1.0.0 | 95 KB | 2026-07-28 |
 | [Strudel Glaze](https://www.glaze.app/app/LUN37X) | 10 | Create generative music by coding live | Dhruv Suthar | 1.0.0 | 548 KB | 2026-04-23 |
+| [Sampler](https://www.glaze.app/app/daIOtZ) | 9 | Sample, slice and export any audio | LukeberryPi | 3.0.0 | 77 KB | 2026-07-30 |
 | [Sheet Pro](https://www.glaze.app/app/1mqpDb) | 9 | Create and share spreadsheets free | Sam Parker | 2.0.0 | 587 KB | 2026-06-19 |
 | [snap sort](https://www.glaze.app/app/Ic87j0) | 9 | Quickly sort and organize screenshots | May Zhou | 1.0.0 | 99 KB | 2026-05-04 |
 | [Social Resize](https://www.glaze.app/app/NbPzaq) | 9 | Resize images for any social platform | Roman Schurter | 3.0.0 | 64 KB | 2026-06-27 |
@@ -74,8 +75,8 @@
 | [Speed Reader](https://www.glaze.app/app/q8upcu) | 8 | Read more in less time | Zachary Daniels | 1.0.0 | 161 KB | 2026-07-12 |
 | [SpeedTester](https://www.glaze.app/app/VQqxHM) | 8 | Instantly test internet speed and more | Andrew Schreiber | 2.0.0 | 64 KB | 2026-07-23 |
 | [Swedish Radio](https://www.glaze.app/app/FZXOj3) | 8 | Stream Swedish radio from your menu bar | Samuel Kraft | 3.0.0 | 45 KB | 2026-06-05 |
-| [Sampler](https://www.glaze.app/app/daIOtZ) | 7 | Sample, slice and export any audio | LukeberryPi | 3.0.0 | 77 KB | 2026-07-30 |
 | [Scratch Pad](https://www.glaze.app/app/JfEggl) | 7 | For when a calculator just isn’t enough. | Nicolas Schmidt | 4.0.0 | 69 KB | 2026-07-23 |
+| [Sleepwalker](https://www.glaze.app/app/Twm2r3) | 7 | Keep your Mac awake for your agents | Léo Tuil | 2.0.0 | 61 KB | 2026-07-31 |
 | [Snapnym](https://www.glaze.app/app/Paezwp) | 7 | Name your screenshots instantly | Werner Deuermeier | 2.0.0 | 78 KB | 2026-07-28 |
 | [Sparkle Cam](https://www.glaze.app/app/OZYpKC) | 7 | Take adorable photos with kawaii beauty | Kazuhiro Hashimoto | 1.0.0 | 6.4 MB | 2026-07-02 |
 | [Stellata](https://www.glaze.app/app/bygln0) | 7 | Explore the universe in 3D | Alex | 1.0.0 | 55 KB | 2026-07-24 |
@@ -101,7 +102,7 @@
 | [Simple Countdowns](https://www.glaze.app/app/xUoVkF) | 5 | Track what’s important | Nick Linthorne | 2.0.0 | 65 KB | 2026-06-22 |
 | [Sip](https://www.glaze.app/app/UK8UsA) | 5 | Mix, save, and discover cocktails | Attila Suli | 1.0.0 | 94 KB | 2026-07-04 |
 | [SitePulse](https://www.glaze.app/app/CGEXg6) | 5 | Monitor website uptime in real time | Dmytro Lobov | 1.0.0 | 65 KB | 2026-07-23 |
-| [Sleepwalker](https://www.glaze.app/app/Twm2r3) | 5 | Keep your Mac awake for your agents | Léo Tuil | 2.0.0 | 61 KB | 2026-07-31 |
+| [Smeenshot](https://www.glaze.app/app/lGCEpP) | 5 | Smart screenshot cleanup for Mac | Elvis | 2.0.0 | 51 KB | 2026-07-27 |
 | [Snippet Expander](https://www.glaze.app/app/KmSWai) | 5 | Type less, expand more across apps | Manob Biswas | 5.0.0 | 78 KB | 2026-07-29 |
 | [Snippets](https://www.glaze.app/app/aj3dwQ) | 5 | Your snippets, one keystroke away | Dmytro Lobov | 8.0.0 | 111 KB | 2026-07-30 |
 | [Split](https://www.glaze.app/app/xYpGiJ) | 5 | Write, compare, merge text side by side | Joaquin Tournier | 3.0.0 | 153 KB | 2026-07-27 |
@@ -113,10 +114,10 @@
 | [Saulamandra](https://www.glaze.app/app/xCAmiz) | 4 | The assistant for the freelance lawyer | Marc Valderrama | 7.0.0 | 457 KB | 2026-07-28 |
 | [Screen Balance](https://www.glaze.app/app/v7bnAv) | 4 | Monitor app usage and set screentime | Satyaachanti1710 | 1.0.0 | 69 KB | 2026-07-09 |
 | [Slice](https://www.glaze.app/app/kaCR16) | 4 | Remove a strip from an image | Michaël Maarek | 2.0.0 | 63 KB | 2026-07-01 |
-| [Smeenshot](https://www.glaze.app/app/lGCEpP) | 4 | Smart screenshot cleanup for Mac | Elvis | 2.0.0 | 51 KB | 2026-07-27 |
 | [Snake Game](https://www.glaze.app/app/KfGlMs) | 4 | Classic snake gameplay | Eason Bao | 1.0.0 | 57 KB | 2026-07-07 |
 | [Soloeer](https://www.glaze.app/app/LFSfH8) | 4 | Manage your projects – locally. | Dariusz Sułtanowski | 2.0.0 | 143 KB | 2026-07-28 |
 | [SoundShare](https://www.glaze.app/app/1wl1zp) | 4 | Send audio to multiple Bluetooth | LuiAr | 2.0.0 | 72 KB | 2026-07-23 |
+| [Squish](https://www.glaze.app/app/squish-cWRtaY) | 4 | Compress images and remove metadata | Nicholas | 1.0.0 | 8.0 MB | 2026-08-03 |
 | [Sticky Notes](https://www.glaze.app/app/D0Y6Gb) | 4 | Create and organize colorful notes | Naniss Sisa | 1.0.0 | 86 KB | 2026-07-18 |
 | [StreamingTracker](https://www.glaze.app/app/3NCxki) | 4 | Track watches across all platforms | Niklas Arhöfer | 1.0.0 | 82 KB | 2026-07-23 |
 | [Stretch Break](https://www.glaze.app/app/wzibwW) | 4 | Stretch reminders for desk workers | Ruth Oxley | 2.0.0 | 62 KB | 2026-07-29 |
@@ -153,6 +154,7 @@
 | [Scrycast](https://www.glaze.app/app/g53BKY) | 2 | Search MTG cards and your collection | Aayush Iyer | 1.0.0 | 78 KB | 2026-07-04 |
 | [Shark](https://www.glaze.app/app/svB120) | 2 | Instant terminal at your fingertips | hgg end | 1.0.0 | 14.9 MB | 2026-07-29 |
 | [Shashi’s Canvas](https://www.glaze.app/app/mhgWGL) | 2 | Draw your ideas with ease on trackpad | Shashi Thakur | 1.0.0 | 70 KB | 2026-07-29 |
+| [Shelf](https://www.glaze.app/app/shelf-RWtMIh) | 2 | Organize all your professional tools | Michaela Šimůnková | 1.0.0 | 87 KB | 2026-08-02 |
 | [Shibori](https://www.glaze.app/app/QuzRLe) | 2 | Browse, preview, and organize media | Eric Cheung | 2.0.0 | 80 KB | 2026-07-12 |
 | [Singularity Tasks](https://www.glaze.app/app/85vhnq) | 2 | Track tasks with Singularity | Alik | 1.0.0 | 71 KB | 2026-07-01 |
 | [Sit Stand Buddy](https://www.glaze.app/app/ZcmHvQ) | 2 | Move more, sit less, feel better at work | Nelson Mendes | 2.0.0 | 70 KB | 2026-07-16 |
@@ -162,7 +164,6 @@
 | [Source symphony](https://www.glaze.app/app/Ua7EJC) | 2 | Generate music as files change | tyler.earth 🌎 | 3.0.0 | 70 KB | 2026-07-05 |
 | [Sprint](https://www.glaze.app/app/tH9kEi) | 2 | Track deadlines and focus on work | Okoyeprosper475 | 4.0.0 | 73 KB | 2026-07-27 |
 | [Squint](https://www.glaze.app/app/GlaNCz) | 2 | See your thumbnails the way viewers do | pokeban | 1.0.0 | 67 KB | 2026-07-28 |
-| [Squish](https://www.glaze.app/app/squish-cWRtaY) | 2 | Compress images and remove metadata | Nicholas | 1.0.0 | 8.0 MB | 2026-08-03 |
 | [Stash](https://www.glaze.app/app/e3AIsd) | 2 | Keep links and snippets in context | Paul Contreras | 3.0.0 | 89 KB | 2026-07-28 |
 | [Story Archive](https://www.glaze.app/app/bFEYq8) | 2 | Become an epic storyteller! | Kyle Gilbert | 1.0.0 | 67 KB | 2026-07-09 |
 | [Stretch Break](https://www.glaze.app/app/Y7qUx0) | 2 | Get reminders to stretch throughout | Pedro Ladeira | 1.0.0 | 66 KB | 2026-07-20 |
@@ -170,7 +171,6 @@
 | [Sauropod](https://www.glaze.app/app/zCiuE5) | 1 | Visual page editor for Docusaurus | John Doeet | 3.0.0 | 585 KB | 2026-08-01 |
 | [ScreenMark](https://www.glaze.app/app/U0e7xZ) | 1 | Grab, mark, and share screenshots fast | Luke | 1.0.0 | 61 KB | 2026-07-17 |
 | [Screenpipe Studio](https://www.glaze.app/app/YonIrn) | 1 | Control Screenpipe with ease, visually. | Lee Sherman | 2.0.0 | 78 KB | 2026-07-15 |
-| [Shelf](https://www.glaze.app/app/shelf-RWtMIh) | 1 | Organize all your professional tools | Michaela Šimůnková | 1.0.0 | 87 KB | 2026-08-02 |
 | [Sift](https://www.glaze.app/app/FiPFKv) | 1 | Select the signal. Sift the system. | Damilolamustaphaa | 1.0.0 | 72 KB | 2026-07-28 |
 | [SLICE](https://www.glaze.app/app/eFPisy) | 1 | Slice your pics | melvin | 1.0.0 | 95 KB | 2026-07-14 |
 | [Slumber](https://www.glaze.app/app/BJGDDY) | 1 | Set a sleep timer and fade to black | Thorpemeister | 1.0.0 | 59 KB | 2026-06-22 |

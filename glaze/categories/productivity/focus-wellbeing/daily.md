@@ -14,4 +14,4 @@
 | [Habit Periods](https://www.glaze.app/app/133jtm) | 2 | Not build habits, build habit periods | Samet Özkale | 1.0.0 | 64 KB | 2026-07-29 |
 | [Eye Rest](https://www.glaze.app/app/VP5QPw) | 1 | Blink more, strain less, see better | lukrencijus | 1.0.0 | 67 KB | 2026-07-25 |
 | [Habit Lager](https://www.glaze.app/app/zZScaq) | 1 | Build habits one pint at a time | Jesse Beck | 3.0.0 | 72 KB | 2026-07-28 |
-| [Hex Savings](https://www.glaze.app/app/hex-savings-wKaY12) | 0 | Hex voice typing, tracked and rewarded | Christian Boyle | 1.0.0 | 75 KB | 2026-07-31 |
+| [Hex Savings](https://www.glaze.app/app/wKaY12) | 0 | Hex voice typing, tracked and rewarded | Christian Boyle | 1.0.0 | 75 KB | 2026-07-31 |

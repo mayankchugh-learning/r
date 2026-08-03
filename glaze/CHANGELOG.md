@@ -4,6 +4,32 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-08-03
 
+**Added (1):** [ImageWizard](https://www.glaze.app/app/imagewizard-guENVw)
+
+**Removed (1):** Pause
+
+**RER E Planner:** version 8.0.0 → 9.0.0
+
+**SoloTrack:** version 13.0.0 → 14.0.0
+
+**Thermal Monitor:** version 4.0.0 → 5.0.0
+
+**Wondher Pulse:** version 3.0.0 → 4.0.0
+
+**App Installer:** version 2.0.0 → 3.0.0; name DMG installer → App Installer
+
+**Feed Harvest:** version 1.0.0 → 3.0.0
+
+**Dock Eras:** version 5.0.0 → 6.0.0
+
+**TabSet:** version 8.0.0 → 9.0.0
+
+**TimeCapsule:** version 28.0.0 → 29.0.0
+
+**Yoto MYO Card Assistant:** version 4.0.0 → 6.0.0
+
+## 2026-08-03
+
 **Added (1):** [EXTRCT](https://www.glaze.app/app/extrct-BG49j0)
 
 **Removed (1):** Token Watch

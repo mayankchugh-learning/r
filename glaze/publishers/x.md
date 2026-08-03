@@ -8,6 +8,6 @@
 | --- | --- | --- | --- |
 | X9 | 2 | 5 | [Chess Board Battle](https://www.glaze.app/app/cYLkAx) *(Games & Fun)*, [Anki FocusDeck](https://www.glaze.app/app/aOFsEb) *(Productivity)* |
 | xander | 1 | 6 | [Mic Guard](https://www.glaze.app/app/rYujJV) *(Utilities)* |
-| Xedrah iOS | 1 | 4 | [Keen Eye](https://www.glaze.app/app/Oenw7Q) *(Productivity)* |
+| Xedrah iOS | 1 | 5 | [Keen Eye](https://www.glaze.app/app/Oenw7Q) *(Productivity)* |
 | xuam yonh | 1 | 11 | [Mac Cleaner](https://www.glaze.app/app/B0VGAn) *(Utilities)* |
 | Xuan | 1 | 7 | [Notion Memory](https://www.glaze.app/app/6F9TVc) *(Productivity)* |

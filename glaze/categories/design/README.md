@@ -1,28 +1,28 @@
 # Design
 
-94 apps · 1,731 installs · [← all categories](../README.md)
+95 apps · 1,753 installs · [← all categories](../README.md)
 
 ## Visual Elements
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Color & Palettes](./color-palettes.md) | 31 | 728 |
+| [Color & Palettes](./color-palettes.md) | 31 | 744 |
 | [Fonts & Typography](./fonts-typography.md) | 7 | 207 |
-| [Icons & Logos](./icons-logos.md) | 9 | 195 |
+| [Icons & Logos](./icons-logos.md) | 9 | 196 |
 
 ## Create & Capture
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Screenshots & Mockups](./screenshots-mockups.md) | 6 | 161 |
-| [Images & Backgrounds](./images-backgrounds.md) | 17 | 143 |
+| [Screenshots & Mockups](./screenshots-mockups.md) | 6 | 164 |
+| [Images & Backgrounds](./images-backgrounds.md) | 18 | 144 |
 | [3D, Shaders & Geometry](./3d-shaders-geometry.md) | 4 | 185 |
 
 ## Organize & Plan
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Boards & Inspiration](./boards-inspiration.md) | 4 | 40 |
+| [Boards & Inspiration](./boards-inspiration.md) | 4 | 41 |
 | [Layout & Planning](./layout-planning.md) | 2 | 34 |
 
 ## Discovered topics ✦

@@ -41,7 +41,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [TimeCapsule](https://www.glaze.app/app/vk8pxo) | 17 | Read Later, Organized Your Way | Tobias Bannwart | 28.0.0 | 8.9 MB | 2026-07-30 |
+| [TimeCapsule](https://www.glaze.app/app/vk8pxo) | 17 | Read Later, Organized Your Way | Tobias Bannwart | 29.0.0 | 8.9 MB | 2026-08-03 |
 | [Folder Iconizer](https://www.glaze.app/app/W4eu14) | 12 | Auto-customize icons by folder content | Aryan Gupta | 3.0.0 | 6.2 MB | 2026-07-30 |
 | [Harbor](https://www.glaze.app/app/BeFnak) | 6 | Fast media downloads, every time | Tanzir Rahman | 2.0.0 | 79 KB | 2026-07-22 |
 | [Partbin](https://www.glaze.app/app/ENkp3g) | 6 | Organize your 3D printing library | Dennis Muensterer | 7.0.0 | 3.2 MB | 2026-07-27 |
@@ -52,4 +52,4 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [File Sort](https://www.glaze.app/app/JIFzUZ) | 14 | Auto-organize files by type | Rémi Leclercq | 1.0.0 | 61 KB | 2026-07-01 |
-| [DMG installer](https://www.glaze.app/app/euUHv8) | 2 | Extract and organize apps from DMG files | Atharv kumar | 2.0.0 | 59 KB | 2026-07-17 |
+| [App Installer](https://www.glaze.app/app/euUHv8) | 2 | Extract and organize apps from DMG files | Atharv kumar | 3.0.0 | 60 KB | 2026-08-03 |

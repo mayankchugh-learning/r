@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 853 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
+| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 855 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 401 | Analog warmth meets digital synthesis | Combustion Studio | 7.0.0 | 1.4 MB | 2026-07-17 |
 | [Curves](https://www.glaze.app/app/a8OtIv) | 112 | Browse, compare and create bezier curves visually to find the perfect easing function for your design | Thomas Paul Mann | 2.0.1 | 184 KB | 2026-03-18 |
 | [Countdown Widget](https://www.glaze.app/app/Z15mua) | 68 | Track every moment until it arrives | Nichlas Wærnes Andersen | 4.0.0 | 66 KB | 2026-04-15 |
@@ -16,9 +16,9 @@
 | [Coin Pusher](https://www.glaze.app/app/vlhYng) | 44 | Play a 3D arcade coin pusher game where you drop coins and watch them cascade off the edge for points. | Per Nielsen Tikær | 1.0.1 | 984 KB | 2026-03-09 |
 | [Claude Usage](https://www.glaze.app/app/Iz8ofo) | 42 | Track your Claude API usage | Kartik | 3.0.0 | 62 KB | 2026-07-02 |
 | [Coin Flip](https://www.glaze.app/app/fRjllX) | 35 | Flip a coin, get instant heads or tails | Jordan Amblin | 2.0.0 | 42 KB | 2026-04-15 |
+| [Claude Inspector](https://www.glaze.app/app/21ITy2) | 34 | Track your Claude plugins, skills, tools | Aydın Dağdelenler | 1.0.0 | 68 KB | 2026-07-10 |
 | [Clean My Ray](https://www.glaze.app/app/jPQsxk) | 34 | Optimize macOS performance and system | Randy | 1.0.0 | 86 KB | 2026-07-04 |
 | [Cooking Core](https://www.glaze.app/app/sXamfD) | 33 | Make interactive cooking recipes in minutes. Drag and drop elements to build and use gestures so mess doesn’t transfer from hand to screen. | Rory Killingley | 3.0.1 | 337 KB | 2026-04-03 |
-| [Claude Inspector](https://www.glaze.app/app/21ITy2) | 32 | Track your Claude plugins, skills, tools | Aydın Dağdelenler | 1.0.0 | 68 KB | 2026-07-10 |
 | [Clean Disk](https://www.glaze.app/app/mX1eWK) | 32 | Remove clutter and manage disk space | Emre ŞEN | 1.0.0 | 72 KB | 2026-07-01 |
 | [Cleanup](https://www.glaze.app/app/ZeU0rI) | 26 | Scan, sort and cleanup your files | Benjy.desprets | 5.0.1 | 630 KB | 2026-03-26 |
 | [Compresso](https://www.glaze.app/app/PvRxIA) | 22 | Shrink images and GIFs fast | Jac Peregrine-Davies | 4.0.0 | 44 KB | 2026-04-13 |
@@ -103,6 +103,7 @@
 | [Clipboard Tray](https://www.glaze.app/app/6cecvM) | 4 | Keep your copied text within reach | רועי ריקמן | 3.0.0 | 81 KB | 2026-07-26 |
 | [Code Quest](https://www.glaze.app/app/K85SfV) | 4 | Learn programming through visual puzzles | benface | 1.0.0 | 70 KB | 2026-07-08 |
 | [Codex Credit](https://www.glaze.app/app/Xr6eVF) | 4 | Estimate your monthly Codex Credit spend | Nando | 1.0.0 | 60 KB | 2026-07-03 |
+| [Crude Watch](https://www.glaze.app/app/nbXx15) | 4 | Track oil prices, get instant alerts | @zenithquinn | 1.0.0 | 67 KB | 2026-07-01 |
 | [Cue](https://www.glaze.app/app/uLM0B8) | 4 | Schedule text input into any app. | Roydanielr | 2.0.0 | 67 KB | 2026-07-28 |
 | [Cyber Toolkit](https://www.glaze.app/app/WsncJp) | 4 | Security and coding tools in one place | Lorenzo Fazioli | 1.0.0 | 69 KB | 2026-07-05 |
 | [Calendar 1976](https://www.glaze.app/app/YMctC6) | 3 | Schedule events the retro way | Olivia Rukavina | 1.0.0 | 60 KB | 2026-07-03 |
@@ -121,7 +122,6 @@
 | [Contxt](https://www.glaze.app/app/aefWQ2) | 3 | Create visual context for AI websites. | Mark Yaasi | 4.0.0 | 1.6 MB | 2026-07-28 |
 | [Cookie scanner](https://www.glaze.app/app/nLD8Qi) | 3 | Scan websites for hidden trackers | Aaresvic | 3.0.0 | 72 KB | 2026-07-04 |
 | [Crate](https://www.glaze.app/app/VylNZA) | 3 | A unified music player for collectors | Renier Botha | 1.0.0 | 8.4 MB | 2026-07-23 |
-| [Crude Watch](https://www.glaze.app/app/nbXx15) | 3 | Track oil prices, get instant alerts | @zenithquinn | 1.0.0 | 67 KB | 2026-07-01 |
 | [CSV to JSON](https://www.glaze.app/app/kJbs0Y) | 3 | Convert CSV or TSV files to JSON | Eric Cheung | 1.0.0 | 59 KB | 2026-07-02 |
 | [CUE](https://www.glaze.app/app/2uuKlm) | 3 | Read your notes during calls, unseen | Adrian Luna Diaz | 1.0.0 | 932 KB | 2026-07-04 |
 | [Cabled](https://www.glaze.app/app/KRIVgd) | 2 | Patch your MIDI gear with cables | mcfoton | 2.0.0 | 1.0 MB | 2026-07-26 |

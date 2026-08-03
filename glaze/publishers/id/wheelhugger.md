@@ -1,14 +1,14 @@
 # WheelHugger
 
-7 apps · 137 installs · [← publishers](../README.md)
+7 apps · 139 installs · [← publishers](../README.md)
 
 ## Developer Tools (3)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 193 KB | 2026-07-13 |
-| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 20 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 67 KB | 2026-07-29 |
-| [Glaze Installs](https://www.glaze.app/app/zh80kP) | 16 | See your apps exact install counts | WheelHugger | 1.0.0 | 83 KB | 2026-07-29 |
+| [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 21 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 67 KB | 2026-07-29 |
+| [Glaze Installs](https://www.glaze.app/app/zh80kP) | 17 | See your apps exact install counts | WheelHugger | 1.0.0 | 83 KB | 2026-07-29 |
 
 ## Utilities (3)
 

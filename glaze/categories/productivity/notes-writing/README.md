@@ -1,6 +1,6 @@
 # Notes & Writing
 
-78 apps · [← Productivity](../README.md)
+77 apps · [← Productivity](../README.md)
 
 | Topic | Apps |
 | --- | --- |
@@ -8,8 +8,7 @@
 | [Organize ✦](./organize.md) | 17 |
 | [Write ✦](./write.md) | 9 |
 | [Folder ✦](./folder.md) | 4 |
-| [Thoughts ✦](./thoughts.md) | 4 |
 | [Watch ✦](./watch.md) | 5 |
-| [General](./general.md) | 9 |
+| [General](./general.md) | 12 |
 
 *✦ auto-discovered topic group*

@@ -2,15 +2,15 @@
 
 [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-122 apps · [← Glaze catalog](../README.md)
+121 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Peel](https://www.glaze.app/app/esimhU) | 417 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 340 | Simple project planning | Kristina Loewen | 6.0.0 | 130 KB | 2026-07-05 |
 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 304 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 252 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
-| [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 261 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
+| [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 70 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
 | [ProjectBase](https://www.glaze.app/app/w5CAic) | 49 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 281 KB | 2026-07-29 |
 | [Port Monitor](https://www.glaze.app/app/EEfaTw) | 40 | Track open ports and their apps | Domint | 1.0.0 | 73 KB | 2026-06-29 |
 | [Pixel Runner](https://www.glaze.app/app/dZpJ2d) | 34 | Run, jump, and dodge obstacles in this retro-style endless runner! Choose your character, compete for high scores, and climb the leaderboard. | Per Nielsen Tikær | 1.0.1 | 195 KB | 2026-03-04 |
@@ -18,7 +18,7 @@
 | [Pulse](https://www.glaze.app/app/3BmuDS) | 33 | Real-time Claude & Codex usage tracking | Ken Adams | 2.0.0 | 74 KB | 2026-06-23 |
 | [Port Manager](https://www.glaze.app/app/3gWdcg) | 29 | Monitor and manage system port usage | Kapta Fu | 1.0.0 | 64 KB | 2026-07-02 |
 | [Punch Mac](https://www.glaze.app/app/fKAUbt) | 26 | Punch your MacBook | Dhruv Suthar | 4.0.0 | 169 KB | 2026-04-08 |
-| [PromptVault](https://www.glaze.app/app/N0xoJh) | 23 | Save and organize your prompts and | office Roy Ribak | 1.0.0 | 71 KB | 2026-07-02 |
+| [PromptVault](https://www.glaze.app/app/N0xoJh) | 24 | Save and organize your prompts and | office Roy Ribak | 1.0.0 | 71 KB | 2026-07-02 |
 | [Pac-Man Classic](https://www.glaze.app/app/WC9u94) | 21 | Play the iconic 80s arcade game | Giovambattista Fazioli | 1.0.0 | 61 KB | 2026-07-12 |
 | [Pixel Desk Pets](https://www.glaze.app/app/VcNAeS) | 19 | Your tiny desktop companion reacts to | Yukai Huang | 1.0.0 | 48 KB | 2026-04-18 |
 | [Product Hunt Tracker](https://www.glaze.app/app/kp5w5q) | 19 | Track Product Hunt launches | Pedro Duarte | 1.0.0 | 64 KB | 2026-07-03 |
@@ -32,7 +32,6 @@
 | [Plan Board](https://www.glaze.app/app/UQ6c8s) | 14 | Kanban view for your plan.md files | Reza Ilmi | 2.0.0 | 135 KB | 2026-07-02 |
 | [PkgSweep](https://www.glaze.app/app/ZPO2IL) | 12 | Approve and upgrade all your package | Evancris | 1.0.0 | 62 KB | 2026-07-06 |
 | [PromptPocket](https://www.glaze.app/app/8alvwL) | 12 | Your notes, always at your fingertips | Rich Washburn | 6.0.0 | 886 KB | 2026-07-13 |
-| [Pause](https://www.glaze.app/app/RwYJah) | 11 | Take breaks. Feel better. | Sey | 1.0.0 | 652 KB | 2026-07-27 |
 | [PDF Resize](https://www.glaze.app/app/7md7Fi) | 11 | Compress or expand PDFs with size | Mr Rajput | 1.0.0 | 63 KB | 2026-07-02 |
 | [PixelFlow](https://www.glaze.app/app/MRd2ab) | 11 | Your team's cozy virtual office | Roxana⚡️ | 3.0.0 | 5.1 MB | 2026-07-28 |
 | [PR Tracker](https://www.glaze.app/app/JVnAGF) | 11 | Track GitHub PRs from your menu bar | João Melo | 2.0.0 | 56 KB | 2026-05-13 |
@@ -83,6 +82,7 @@
 | [PhotoCull](https://www.glaze.app/app/rjxyXc) | 4 | Sort through your shots, fast | theantmos | 2.0.0 | 108 KB | 2026-07-26 |
 | [Pick One](https://www.glaze.app/app/K7On2J) | 4 | Randomly select a person from your list | Andriy99milan | 2.0.0 | 57 KB | 2026-07-20 |
 | [Picked](https://www.glaze.app/app/CICev7) | 4 | Find your next game in seconds | Vova | 1.0.0 | 96 KB | 2026-07-26 |
+| [PlantUML Editor](https://www.glaze.app/app/R4hr68) | 4 | Diagrams in real time, code your way | Kinsley Ogunmola | 1.0.0 | 185 KB | 2026-07-04 |
 | [Planty](https://www.glaze.app/app/BfOZau) | 4 | Your plants, alive on your desktop | Ewa Kustra | 5.0.0 | 83 KB | 2026-07-27 |
 | [PR Flow](https://www.glaze.app/app/KlUOjI) | 4 | Track your GitHub PR status locally | Jamie Lawrence | 2.0.0 | 166 KB | 2026-07-09 |
 | [Project Hub](https://www.glaze.app/app/A4Laxi) | 4 | Centralize all your projects resources | Ben Mason | 2.0.0 | 128 KB | 2026-07-28 |
@@ -92,7 +92,6 @@
 | [Pixabot Pal](https://www.glaze.app/app/OnNz7i) | 3 | Meet random Pixabot characters | Anthony.verga | 1.0.0 | 46 KB | 2026-05-20 |
 | [Pixed](https://www.glaze.app/app/XqXJfA) | 3 | Make pixel family portraits instantly | Ravi Vasavan | 1.0.0 | 75 KB | 2026-07-13 |
 | [PlainType](https://www.glaze.app/app/zUfgFg) | 3 | Formatting in, plain text out | Jason Csizmadi | 1.0.0 | 62 KB | 2026-07-03 |
-| [PlantUML Editor](https://www.glaze.app/app/R4hr68) | 3 | Diagrams in real time, code your way | Kinsley Ogunmola | 1.0.0 | 185 KB | 2026-07-04 |
 | [Pocket Watch](https://www.glaze.app/app/Ct96il) | 3 | Save YouTube for later — calmly. | Kaustav Das Biswas | 6.0.0 | 242 KB | 2026-08-02 |
 | [PosturePulse](https://www.glaze.app/app/FoWeOC) | 3 | Posture-blink-break-stretch.One glance | Korhan7992 | 3.0.0 | 13.6 MB | 2026-07-28 |
 | [PR Dashboard](https://www.glaze.app/app/hxs3K2) | 3 | Monitor pull requests and reviews | Akonwi Ngoh | 1.0.0 | 60 KB | 2026-07-06 |

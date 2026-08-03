@@ -8,6 +8,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Codex Usage Tracker](https://www.glaze.app/app/x3iNod) | 16 | Track your Codex Usage | champv 12 | 2.0.0 | 64 KB | 2026-07-10 |
 | [Cursor Usage](https://www.glaze.app/app/bfEiF9) | 16 | Monitor your Cursor API consumption | Jordan Gilroy | 3.0.0 | 66 KB | 2026-07-13 |
-| [GitLab Client](https://www.glaze.app/app/OJT881) | 10 | Browse GitLab repositories and pipelines | Torsten Lemke | 1.0.0 | 124 KB | 2026-06-29 |
+| [GitLab Client](https://www.glaze.app/app/OJT881) | 11 | Browse GitLab repositories and pipelines | Torsten Lemke | 1.0.0 | 124 KB | 2026-06-29 |
 | [Codex Credit](https://www.glaze.app/app/Xr6eVF) | 4 | Estimate your monthly Codex Credit spend | Nando | 1.0.0 | 60 KB | 2026-07-03 |
 | [Gitlab Pipeline Subscriber](https://www.glaze.app/app/wvb0oU) | 1 | Real-time GitLab pipeline notifications | Filipz.08 | 2.0.0 | 69 KB | 2026-07-24 |

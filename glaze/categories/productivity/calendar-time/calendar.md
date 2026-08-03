@@ -10,11 +10,11 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 415 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 151 KB | 2026-07-30 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 428 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 151 KB | 2026-07-30 |
 | [Tempo](https://www.glaze.app/app/eJfpqe) | 27 | Quick access calendar in your menu bar | Mehul Chokshi | 6.0.0 | 85 KB | 2026-07-31 |
 | [My Cockpit](https://www.glaze.app/app/Nilzou) | 14 | Your cockpit for news, Youtube & more | Bruno | 1.0.0 | 152 KB | 2026-06-27 |
 | [Desktop Events](https://www.glaze.app/app/lWaw3B) | 7 | Stay on top of your upcoming events | David Ferguson | 7.0.0 | 408 KB | 2026-07-27 |
-| [Yes, But](https://www.glaze.app/app/bXJPCo) | 5 | See the real cost of saying yes | Nils | 1.0.0 | 72 KB | 2026-07-27 |
+| [Yes, But](https://www.glaze.app/app/bXJPCo) | 6 | See the real cost of saying yes | Nils | 1.0.0 | 72 KB | 2026-07-27 |
 | [Calendar 1976](https://www.glaze.app/app/YMctC6) | 3 | Schedule events the retro way | Olivia Rukavina | 1.0.0 | 60 KB | 2026-07-03 |
 | [Hourly](https://www.glaze.app/app/b0nw4X) | 2 | Automatic Timesheets from Your Calendar | Eduard Simota | 1.0.0 | 62 KB | 2026-07-09 |
 | [DDNews](https://www.glaze.app/app/0Znbeo) | 1 | Your personal morning newspaper in one | Wesley Budding | 1.0.0 | 119 KB | 2026-07-24 |
@@ -33,7 +33,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 413 | Never lose track of what you pay for | Khalid Hasan Zibon | 5.0.0 | 83 KB | 2026-08-02 |
+| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 414 | Never lose track of what you pay for | Khalid Hasan Zibon | 5.0.0 | 83 KB | 2026-08-02 |
 | [Meeting Glow](https://www.glaze.app/app/fFmwaY) | 17 | Custom alerts for meetings | Mel Lent | 4.0.0 | 73 KB | 2026-05-10 |
 | [Orbit](https://www.glaze.app/app/wSy5lt) | 5 | Stay close to the people who matter most | Maxi | 2.0.0 | 84 KB | 2026-07-27 |
 | [Focus Guard](https://www.glaze.app/app/oJlU7g) | 1 | Enforce Focus, Fight Distractions | Evangel Oladipo | 2.0.0 | 91 KB | 2026-07-28 |

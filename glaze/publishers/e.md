@@ -26,7 +26,7 @@
 | Elizabeth Lin | 1 | 28 | [seesaw](https://www.glaze.app/app/YRdevl) *(Productivity)* |
 | Elliott Mangham | 1 | 10 | [Agent Arcade](https://www.glaze.app/app/vBkDof) *(Games & Fun)* |
 | Elston Yee | 1 | 2 | [English to Chinese](https://www.glaze.app/app/QPtyhn) *(Utilities)* |
-| Elvis | 1 | 4 | [Smeenshot](https://www.glaze.app/app/lGCEpP) *(Utilities)* |
+| Elvis | 1 | 5 | [Smeenshot](https://www.glaze.app/app/lGCEpP) *(Utilities)* |
 | Emanuele Moricci | 1 | 5 | [Gesture It!](https://www.glaze.app/app/RBxcah) *(Design)* |
 | Emilio Escobar | 1 | 28 | [Hacker News Reader](https://www.glaze.app/app/6JMi6H) *(Developer Tools)* |
 | Emir Amanbekov | 1 | 2 | [Timelines](https://www.glaze.app/app/J6ZdKS) *(Utilities)* |
@@ -42,7 +42,7 @@
 | Esteban Dalel R | 1 | 0 | [Relieve](https://www.glaze.app/app/fLmAia) *(Productivity)* |
 | Ethan Darling | 1 | 4 | [QR Reader](https://www.glaze.app/app/qaM0d4) *(Utilities)* |
 | Ethan Figueroa | 1 | 9 | [PR Reviewer](https://www.glaze.app/app/4jkFFX) *(Developer Tools)* |
-| Etienne Idoux | 1 | 8 | [Findle](https://www.glaze.app/app/t3xcsJ) *(Utilities)* |
+| Etienne Idoux | 1 | 9 | [Findle](https://www.glaze.app/app/t3xcsJ) *(Utilities)* |
 | Eugen Walcher | 1 | 8 | [Minesweeper](https://www.glaze.app/app/td2sah) *(Games & Fun)* |
 | Eugene Kruglov | 1 | 1 | [Only You App](https://www.glaze.app/app/XL46aE) *(Productivity)* |
 | Eugene Stepanov | 1 | 0 | [Quick Translate EN↔RU](https://www.glaze.app/app/quick-translate-enru-NtORrE) *(Productivity)* |

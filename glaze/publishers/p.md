@@ -17,7 +17,7 @@
 | Pastenes | 2 | 22 | [Sonos Control](https://www.glaze.app/app/rXTnqL) *(Utilities)*, [Vision Alt](https://www.glaze.app/app/DgIoKm) *(Developer Tools)* |
 | Patrice Scheidt | 1 | 6 | [Bandcamp Player](https://www.glaze.app/app/t3QI7q) *(Media)* |
 | Patrick Nielsen | 2 | 9 | [Terso](https://www.glaze.app/app/Y3F1BS) *(Utilities)*, [Nyeste](https://www.glaze.app/app/c5MZye) *(Utilities)* |
-| Patryk Lasek | 1 | 13 | [FrameShot](https://www.glaze.app/app/mN49V5) *(Design)* |
+| Patryk Lasek | 1 | 14 | [FrameShot](https://www.glaze.app/app/mN49V5) *(Design)* |
 | Paul Angeles | 1 | 8 | [Pokédex Ultra](https://www.glaze.app/app/16g4nM) *(Games & Fun)* |
 | Paul Contreras | 1 | 2 | [Stash](https://www.glaze.app/app/e3AIsd) *(Productivity)* |
 | Paul Seagull | 1 | 11 | [CineRoulette](https://www.glaze.app/app/PogX5d) *(Media)* |
@@ -25,7 +25,7 @@
 | Paulo Lobo | 1 | 2 | [Scope](https://www.glaze.app/app/MRB1TC) *(Productivity)* |
 | Pavlina Schuster | 1 | 3 | [Dock Shifter](https://www.glaze.app/app/rXJ5CI) *(Utilities)* |
 | Pavlo Haidamak | 2 | 27 | [Apptopsy](https://www.glaze.app/app/kWwP7l) *(Developer Tools)*, [Chirp Chirrup](https://www.glaze.app/app/2z2j75) *(Lifestyle)* |
-| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 576 | [see all 5 →](./id/pedro-duarte.md) |
+| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 577 | [see all 5 →](./id/pedro-duarte.md) |
 | Pedro Fonseca | 2 | 1 | [WooPulse AI](https://www.glaze.app/app/cd6wTA) *(Productivity)*, [Unlink](https://www.glaze.app/app/Y2Xn6B) *(Utilities)* |
 | Pedro Ladeira | 1 | 2 | [Stretch Break](https://www.glaze.app/app/Y7qUx0) *(Productivity)* |
 | Pedro Marvarez | 1 | 15 | [Flow](https://www.glaze.app/app/v9gzNN) *(Productivity)* |

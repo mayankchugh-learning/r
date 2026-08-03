@@ -29,8 +29,8 @@
 | Chris Messina | 1 | 2 | [Tesla Energy](https://www.glaze.app/app/I6VIKJ) *(Utilities)* |
 | Chris Stoddard | 1 | 12 | [Beat Maker](https://www.glaze.app/app/cA7hhz) *(Media)* |
 | Christian | 1 | 0 | [Scene Marker](https://www.glaze.app/app/JXGYK5) *(Media)* |
-| Christian Alares | 1 | 97 | [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) *(Productivity)* |
-| Christian Boyle | 1 | 0 | [Hex Savings](https://www.glaze.app/app/hex-savings-wKaY12) *(Productivity)* |
+| Christian Alares | 1 | 99 | [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) *(Productivity)* |
+| Christian Boyle | 1 | 0 | [Hex Savings](https://www.glaze.app/app/wKaY12) *(Productivity)* |
 | Christian.kn | 1 | 22 | [Mindmap](https://www.glaze.app/app/xpmGrN) *(Productivity)* |
 | Christophe Kafrouni | 1 | 3 | [Screen Ruler](https://www.glaze.app/app/YArhQq) *(Developer Tools)* |
 | Christopher Burns | 1 | 19 | [Bookface](https://www.glaze.app/app/OsxW20) *(Productivity)* |

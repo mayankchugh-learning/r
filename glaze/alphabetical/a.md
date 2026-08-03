@@ -2,15 +2,15 @@
 
 **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-88 apps · [← Glaze catalog](../README.md)
+89 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 860 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
-| [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 219 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 105 KB | 2026-04-15 |
+| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 861 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
+| [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 221 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 105 KB | 2026-04-15 |
 | [Arnie](https://www.glaze.app/app/tqkV16) | 61 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 182 KB | 2026-06-30 |
-| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 57 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 143 KB | 2026-07-28 |
-| [AI Models Database](https://www.glaze.app/app/VzvbvJ) | 43 | Browse AI Models, Providers, and Labs | alexi.build | 5.0.0 | 64 KB | 2026-07-11 |
+| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 58 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 143 KB | 2026-07-28 |
+| [AI Models Database](https://www.glaze.app/app/VzvbvJ) | 44 | Browse AI Models, Providers, and Labs | alexi.build | 5.0.0 | 64 KB | 2026-07-11 |
 | [ASCII Capture](https://www.glaze.app/app/KxyppG) | 37 | Convert photos into customizable ASCII art and export as images or SVG for web use | Yassine A | 1.0.1 | 211 KB | 2026-03-25 |
 | [ACE](https://www.glaze.app/app/97rUBQ) | 33 | Teleprompter with live speaking support | Danial Siddiki | 3.0.0 | 6.9 MB | 2026-07-29 |
 | [Airwave](https://www.glaze.app/app/4OhADX) | 28 | Your music, perfectly in tune | Scoop | 7.0.0 | 1.4 MB | 2026-07-26 |
@@ -70,6 +70,7 @@
 | [Alibi](https://www.glaze.app/app/N7Zu7y) | 2 | Book your time before they do | Pan Rada | 13.0.0 | 929 KB | 2026-07-27 |
 | [Almost](https://www.glaze.app/app/J7lOcF) | 2 | Return to the work you left behind. | OctaneXyz | 1.0.0 | 73 KB | 2026-07-27 |
 | [Alt Text](https://www.glaze.app/app/BIhUQz) | 2 | Generate accessible alt text for images | H3yfranki3 | 1.0.0 | 376 KB | 2026-07-08 |
+| [App Installer](https://www.glaze.app/app/euUHv8) | 2 | Extract and organize apps from DMG files | Atharv kumar | 3.0.0 | 60 KB | 2026-08-03 |
 | [App Revenue](https://www.glaze.app/app/bhkScP) | 2 | Monitor iOS app earnings in real time. | Jorge | 1.0.0 | 168 KB | 2026-07-18 |
 | [Applause](https://www.glaze.app/app/0La79U) | 2 | Celebrate GitHub stars on your repos in | Giovambattista Fazioli | 1.0.0 | 70 KB | 2026-07-01 |
 | [Apple Music Quitter](https://www.glaze.app/app/TpW6J5) | 2 | Prevent Apple Music from auto-starting | Byron Davies | 2.0.0 | 58 KB | 2026-07-12 |

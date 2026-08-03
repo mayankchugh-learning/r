@@ -15,4 +15,4 @@
 | [Deskmate](https://www.glaze.app/app/ki1c5r) | 4 | A little creature that feels your day | Song Qian | 2.0.0 | 69 KB | 2026-07-27 |
 | [Screen Balance](https://www.glaze.app/app/v7bnAv) | 4 | Monitor app usage and set screentime | Satyaachanti1710 | 1.0.0 | 69 KB | 2026-07-09 |
 | [Alibi](https://www.glaze.app/app/N7Zu7y) | 2 | Book your time before they do | Pan Rada | 13.0.0 | 929 KB | 2026-07-27 |
-| [RER E Planner](https://www.glaze.app/app/ciQhnY) | 1 | RER E trains, tracked in real time | Loic.Goyet | 8.0.0 | 85 KB | 2026-07-25 |
+| [RER E Planner](https://www.glaze.app/app/ciQhnY) | 1 | RER E trains, tracked in real time | Loic.Goyet | 9.0.0 | 87 KB | 2026-08-03 |
