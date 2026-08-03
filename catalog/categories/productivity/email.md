@@ -15,7 +15,7 @@
 | [Workflowy Inbox](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) | 654 | Quickly add items to your Workflowy inbox. (This is an independent extension and is not created by Workflowy.) | cameron_pak | macOS, Windows | [store](https://www.raycast.com/cameron_pak/workflowy-inbox) |
 | [Universal Inbox](https://github.com/raycast/extensions/tree/main/extensions/universal-inbox) | 253 | Manage your notifications in a single Universal Inbox | dax42 | macOS | [store](https://www.raycast.com/dax42/universal-inbox) |
 | [Kinopio Inbox](https://github.com/raycast/extensions/tree/main/extensions/kinopio-inbox) | 177 | Add cards to your Kinopio inbox | pirijan | macOS | [store](https://www.raycast.com/pirijan/kinopio-inbox) |
-| [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 156 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
+| [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 157 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 | [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) | 96 | Send a quick subject + body to your inbox over SMTP without leaving Raycast. | MrMage | macOS | [store](https://www.raycast.com/MrMage/mail-to-self) |
 
 ## Email Address ✦
@@ -31,13 +31,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) | 34,433 | View 2FA codes from iMessage and Email | yuercl | macOS | [store](https://www.raycast.com/yuercl/imessage-2fa) |
+| [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) | 34,440 | View 2FA codes from iMessage and Email | yuercl | macOS | [store](https://www.raycast.com/yuercl/imessage-2fa) |
 | [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,029 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
 | [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 3,873 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS | [store](https://www.raycast.com/svenhofman/hidemyemail) |
-| [Gmail Accounts](https://github.com/raycast/extensions/tree/main/extensions/gmail-accounts) | 1,607 | Quickly access your Gmail accounts in Chrome (requires Google Chrome) | lachero | macOS | [store](https://www.raycast.com/lachero/gmail-accounts) |
+| [Gmail Accounts](https://github.com/raycast/extensions/tree/main/extensions/gmail-accounts) | 1,609 | Quickly access your Gmail accounts in Chrome (requires Google Chrome) | lachero | macOS | [store](https://www.raycast.com/lachero/gmail-accounts) |
 | [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) | 1,401 | Manage masked emails with Fastmail | LightQuantum | macOS | [store](https://www.raycast.com/LightQuantum/fastmail-masked-email) |
-| [Dash Off](https://github.com/raycast/extensions/tree/main/extensions/dash-off) | 1,062 | The fastest way to dash off a quick email to yourself and others | peduarte | macOS | [store](https://www.raycast.com/peduarte/dash-off) |
-| [DuckDuckGo Email](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) | 795 | A simple extension that generate DuckDuckGo email alias | Hugo-Persson | macOS | [store](https://www.raycast.com/Hugo-Persson/duckduckgo-email) |
+| [Dash Off](https://github.com/raycast/extensions/tree/main/extensions/dash-off) | 1,063 | The fastest way to dash off a quick email to yourself and others | peduarte | macOS | [store](https://www.raycast.com/peduarte/dash-off) |
+| [DuckDuckGo Email](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) | 796 | A simple extension that generate DuckDuckGo email alias | Hugo-Persson | macOS | [store](https://www.raycast.com/Hugo-Persson/duckduckgo-email) |
 | [Addy](https://github.com/raycast/extensions/tree/main/extensions/anonaddy) | 559 | Easily generate and manage your Addy email aliases directly from your keyboard. | http.james | macOS, Windows | [store](https://www.raycast.com/http.james/anonaddy) |
 | [Cloudflare Email Routing](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-email-routing) | 184 | Create, list, edit, and delete Cloudflare email aliases directly from Raycast. | erayack | macOS | [store](https://www.raycast.com/erayack/cloudflare-email-routing) |
 | [Bento Email](https://github.com/raycast/extensions/tree/main/extensions/bento) | 24 | Interact with Bento (bentonow.com) to add subscribers, view broadcasts, reports, and other utility features. | zeromana | macOS | [store](https://www.raycast.com/zeromana/bento) |

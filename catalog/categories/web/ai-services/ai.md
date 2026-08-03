@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | 4,426 | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
-| [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research) | 3,453 | Iterative Deep Research powered by Raycast AI Extensions. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/research) |
-| [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,257 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
+| [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | 4,427 | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
+| [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research) | 3,454 | Iterative Deep Research powered by Raycast AI Extensions. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/research) |
+| [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,258 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
 | [Scira](https://github.com/raycast/extensions/tree/main/extensions/scira) | 869 | AI-powered search engine | zaidmukaddam | macOS | [store](https://www.raycast.com/zaidmukaddam/scira) |
 | [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 642 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 106 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
@@ -24,21 +24,21 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | 10,692 | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |
+| [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | 10,693 | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |
 | [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,038 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,489 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
-| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 828 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
+| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 829 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Alice AI - Your Daily AI Actions Companion](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) | 420 | Alice helps with your daily tasks by providing quick access to reusable AI actions across OpenAI and Gemini models. | quiknull | macOS | [store](https://www.raycast.com/quiknull/alice-ai) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) | 58,145 | Interact with OpenAI GPT AI | simicvm | macOS | [store](https://www.raycast.com/simicvm/openai-gpt) |
-| [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) | 14,916 | Summarize any YouTube Video with AI. Choose between Raycast, OpenAI or Anthropic. You have to either be a Raycast Pro Member or have an OpenAI/Anthropic API Ke… | kom | Windows, macOS | [store](https://www.raycast.com/kom/summarize-youtube-video-with-ai) |
-| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 2,706 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
-| [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep) | 2,085 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | luolei | macOS, Windows | [store](https://www.raycast.com/luolei/karakeep) |
-| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,484 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
+| [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) | 58,153 | Interact with OpenAI GPT AI | simicvm | macOS | [store](https://www.raycast.com/simicvm/openai-gpt) |
+| [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) | 14,925 | Summarize any YouTube Video with AI. Choose between Raycast, OpenAI or Anthropic. You have to either be a Raycast Pro Member or have an OpenAI/Anthropic API Ke… | kom | Windows, macOS | [store](https://www.raycast.com/kom/summarize-youtube-video-with-ai) |
+| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 2,707 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
+| [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep) | 2,086 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | luolei | macOS, Windows | [store](https://www.raycast.com/luolei/karakeep) |
+| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,490 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,451 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,192 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 34 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
