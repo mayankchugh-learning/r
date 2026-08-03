@@ -31,7 +31,7 @@
 | Gomezdn7 | 1 | 3 | [Vocalize](https://www.glaze.app/app/RlyPGR) *(Productivity)* |
 | Goran Vukovic | 1 | 3 | [Watch Later](https://www.glaze.app/app/yD6S6w) *(Productivity)* |
 | gowhith kanisetty | 1 | 81 | [macHealth](https://www.glaze.app/app/C9jYcO) *(Utilities)* |
-| Graeme Fulton | 1 | 25 | [FeedBagel](https://www.glaze.app/app/AozKi4) *(Media)* |
+| Graeme Fulton | 1 | 26 | [FeedBagel](https://www.glaze.app/app/AozKi4) *(Media)* |
 | Grant Smith | 1 | 2 | [NBA® #2K32](https://www.glaze.app/app/Utauda) *(Games & Fun)* |
 | Grass “Grass” | 1 | 10 | [Lid Angle](https://www.glaze.app/app/lCX75u) *(Utilities)* |
 | Greg Barbosa | 1 | 4 | [Quick Import](https://www.glaze.app/app/rkQyax) *(Utilities)* |

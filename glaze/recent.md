@@ -1,9 +1,10 @@
 # Recently published & updated
 
-Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
+Newest 60 of 1578 apps by last release · [← Glaze catalog](./README.md)
 
 | App | Released | Version | Installs | Category | Publisher |
 | --- | --- | --- | --- | --- | --- |
+| [Quick Translate EN↔RU](https://www.glaze.app/app/quick-translate-enru-boRTfT) | 2026-08-03 | 1.0.0 | 0 | Productivity | Eugene Stepanov |
 | [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 2026-08-03 | 6.0.0 | 1 | Utilities | Lee Sherman |
 | [Squish](https://www.glaze.app/app/squish-cWRtaY) | 2026-08-03 | 1.0.0 | 1 | Utilities | Nicholas |
 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 2026-08-03 | 1.0.0 | 1 | Productivity | Sam Stephenson |
@@ -17,7 +18,7 @@ Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
 | [Uncertainty Calculator](https://www.glaze.app/app/uncertainty-calculator-2hemh6) | 2026-08-02 | 1.0.0 | 1 | Productivity | VollBio |
 | [Eternal Return](https://www.glaze.app/app/eternal-return-hUd8Xj) | 2026-08-02 | 2.0.0 | 1 | Media | Davidestevens |
 | [Movie Battle](https://www.glaze.app/app/movie-battle-bRhpGo) | 2026-08-02 | 1.0.0 | 0 | Games & Fun | Otto Vanluchene |
-| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 2026-08-02 | 5.0.0 | 411 | Productivity | Khalid Hasan Zibon |
+| [SubsTrack](https://www.glaze.app/app/substrack-Sxg9zV) | 2026-08-02 | 5.0.0 | 412 | Productivity | Khalid Hasan Zibon |
 | [MP3 Looper](https://www.glaze.app/app/mp3-looper-UCC4pP) | 2026-08-02 | 1.0.0 | 2 | Utilities | M |
 | [Shelf](https://www.glaze.app/app/shelf-RWtMIh) | 2026-08-02 | 1.0.0 | 1 | Utilities | Michaela Šimůnková |
 | [Pixel Strike](https://www.glaze.app/app/pixel-strike-glslft) | 2026-08-02 | 1.0.0 | 0 | Games & Fun | VollBio |
@@ -35,7 +36,7 @@ Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
 | [Persona](https://www.glaze.app/app/yUNcps) | 2026-08-01 | 6.0.0 | 6 | Utilities | M Sour |
 | [Style Capture](https://www.glaze.app/app/style-capture-RXLBAl) | 2026-08-01 | 1.0.0 | 1 | Design | Rui Tang (Rey) |
 | [My Radio Commander](https://www.glaze.app/app/aPbifY) | 2026-08-01 | 4.0.0 | 2 | Media | M Sour |
-| [Mono to Stereo](https://www.glaze.app/app/mono-to-stereo-afMOfJ) | 2026-08-01 | 2.0.0 | 0 | Media | Davidestevens |
+| [Mono to Stereo](https://www.glaze.app/app/afMOfJ) | 2026-08-01 | 2.0.0 | 0 | Media | Davidestevens |
 | [Thermal Monitor](https://www.glaze.app/app/d8QTlA) | 2026-08-01 | 4.0.0 | 3 | Utilities | Léo Tuil |
 | [Workshop Flow](https://www.glaze.app/app/713b98) | 2026-08-01 | 2.0.0 | 1 | Productivity | Antony Mayfield |
 | [SiteLens](https://www.glaze.app/app/Dw8vob) | 2026-08-01 | 8.0.0 | 11 | Developer Tools | Dmytro Lobov |
@@ -43,7 +44,7 @@ Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
 | [Apptopsy](https://www.glaze.app/app/kWwP7l) | 2026-08-01 | 12.0.0 | 17 | Developer Tools | Pavlo Haidamak |
 | [Scroblytics](https://www.glaze.app/app/Lf9vBU) | 2026-08-01 | 32.0.0 | 14 | Media | thebluch |
 | [Ghosted](https://www.glaze.app/app/h3nZXl) | 2026-08-01 | 9.0.0 | 18 | Productivity | Azlan Ibrahim |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 2026-07-31 | 10.0.0 | 234 | Productivity | Ajay Odedra |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 2026-07-31 | 10.0.0 | 237 | Productivity | Ajay Odedra |
 | [Noted](https://www.glaze.app/app/6gIagm) | 2026-07-31 | 5.0.0 | 11 | Productivity | Yash Kotha |
 | [re:Work](https://www.glaze.app/app/aqeLBX) | 2026-07-31 | 7.0.0 | 8 | Productivity | Benji Schwartz-Gilbert |
 | [Jamal](https://www.glaze.app/app/jamal-JN0yZw) | 2026-07-31 | 1.0.0 | 1 | Productivity | Abdullah Alghamdi |
@@ -63,4 +64,3 @@ Newest 60 of 1577 apps by last release · [← Glaze catalog](./README.md)
 | [Neovim Notes](https://www.glaze.app/app/35eP2I) | 2026-07-31 | 8.0.0 | 3 | Productivity | Daniele Avitabile |
 | [Trigger Mac](https://www.glaze.app/app/jz2gnv) | 2026-07-31 | 16.0.0 | 31 | Developer Tools | Dhruv Suthar |
 | [Perly.io](https://www.glaze.app/app/RsLTkW) | 2026-07-31 | 1.0.0 | 1 | Utilities | Volodymyr |
-| [Sleepwalker](https://www.glaze.app/app/Twm2r3) | 2026-07-31 | 2.0.0 | 5 | Utilities | Léo Tuil |

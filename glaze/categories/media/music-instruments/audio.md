@@ -37,4 +37,4 @@
 | [Rams Radio](https://www.glaze.app/app/hefCaI) | 22 | Listen to your favorite stations anytime | Ivo Fonseca | 2.0.0 | 261 KB | 2026-07-27 |
 | [BPM](https://www.glaze.app/app/xasg5A) | 17 | BPM Analyzer: get the BPM value of the live audio, from a file, or analyze manually by tapping the spacebar. | Roy van Rooijen | 1.0.1 | 188 KB | 2026-03-04 |
 | [Food Web](https://www.glaze.app/app/add6B0) | 5 | Explore predator and prey relationships | Alexander.K.Wright | 1.0.0 | 7.7 MB | 2026-07-27 |
-| [Mono to Stereo](https://www.glaze.app/app/mono-to-stereo-afMOfJ) | 0 | Convert paired mono files to stereo | Davidestevens | 2.0.0 | 63 KB | 2026-08-01 |
+| [Mono to Stereo](https://www.glaze.app/app/afMOfJ) | 0 | Convert paired mono files to stereo | Davidestevens | 2.0.0 | 63 KB | 2026-08-01 |

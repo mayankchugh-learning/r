@@ -6,9 +6,9 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 272 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
+| [The Last Blockbuster](https://www.glaze.app/app/the-last-blockbuster-oRLCOs) | 274 | Rewind the tape, unlock the truth. | @zenithquinn | 6.0.0 | 77.8 MB | 2026-07-29 |
 | [This](https://www.glaze.app/app/this-STOdhd) | 205 | Annotate this and that | Kristina Loewen | 10.0.0 | 460 KB | 2026-07-28 |
-| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 153 | Your mac deserves a better dock | lexav | 9.0.0 | 93 KB | 2026-07-30 |
+| [The Dock](https://www.glaze.app/app/the-dock-u2upth) | 154 | Your mac deserves a better dock | lexav | 9.0.0 | 93 KB | 2026-07-30 |
 | [TUI-DO](https://www.glaze.app/app/tui-do-xG6gfr) | 149 | Task planner | Nichlas Wærnes Andersen | 10.0.0 | 5.2 MB | 2026-07-19 |
 | [Tap Beats](https://www.glaze.app/app/uIyOY5) | 53 | Create music by tapping a grid-based trackpad with 12 buttons arranged in columns and rows | Vincent de Lagabbe | 2.0.1 | 183 KB | 2026-03-25 |
 | [Trend Builder](https://www.glaze.app/app/ApW3oA) | 49 | Build the app everyone’s searching for | Ch1rag | 6.0.0 | 770 KB | 2026-07-10 |
@@ -21,8 +21,8 @@
 | [TreeDrive](https://www.glaze.app/app/4HRfkE) | 26 | Free up space on your Mac | Ben Stein | 1.0.0 | 1.3 MB | 2026-06-14 |
 | [Time Tracker](https://www.glaze.app/app/xGJrCZ) | 25 | Monitor your computer usage and time | Andrea Cipriani | 17.0.0 | 333 KB | 2026-07-24 |
 | [TokenLens](https://www.glaze.app/app/Gy3hAw) | 22 | Track AI token usage and costs | Liel Azulay | 3.0.0 | 1.3 MB | 2026-06-21 |
+| [Tomorrow](https://www.glaze.app/app/Cn6TXl) | 21 | Never lose your train of thought | Astral | 1.0.0 | 107 KB | 2026-07-28 |
 | [Tomato Focus](https://www.glaze.app/app/4wSVNN) | 20 | Track tasks with pomodoro timer | Benjamin | 4.0.0 | 108 KB | 2026-07-15 |
-| [Tomorrow](https://www.glaze.app/app/Cn6TXl) | 20 | Never lose your train of thought | Astral | 1.0.0 | 107 KB | 2026-07-28 |
 | [T-yperminator](https://www.glaze.app/app/S7MTRH) | 19 | Type faster, boost your vocab power | Vapa | 3.0.0 | 2.8 MB | 2026-07-10 |
 | [Teleprompter](https://www.glaze.app/app/36pCwv) | 18 | Invisible teleprompter for on-screen | ankita singh | 2.0.0 | 67 KB | 2026-07-28 |
 | [TimeCapsule](https://www.glaze.app/app/vk8pxo) | 17 | Read Later, Organized Your Way | Tobias Bannwart | 28.0.0 | 8.9 MB | 2026-07-30 |

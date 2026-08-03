@@ -18,5 +18,5 @@
 | [WheelHugger](./id/wheelhugger.md) | 7 | 137 | [see all 7 →](./id/wheelhugger.md) |
 | Wil | 1 | 2 | [ChromaEye](https://www.glaze.app/app/P0AfSz) *(Utilities)* |
 | Will Fischer | 1 | 20 | [ClockScreen](https://www.glaze.app/app/x4d5qo) *(Utilities)* |
-| Will.Fitzgerald | 1 | 2 | [SQLite Studio](https://www.glaze.app/app/s9kJ2z) *(Developer Tools)* |
+| Will.Fitzgerald | 1 | 3 | [SQLite Studio](https://www.glaze.app/app/s9kJ2z) *(Developer Tools)* |
 | William Finkel | 1 | 0 | [Sports Minute](https://www.glaze.app/app/cggXCg) *(Media)* |

@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 857 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
+| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 858 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 218 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 105 KB | 2026-04-15 |
 | [Arnie](https://www.glaze.app/app/tqkV16) | 60 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 182 KB | 2026-06-30 |
 | [Amber](https://www.glaze.app/app/amber-vZzCwc) | 56 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 143 KB | 2026-07-28 |

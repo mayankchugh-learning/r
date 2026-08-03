@@ -14,10 +14,10 @@
 | [Football Archive](https://www.glaze.app/app/football-archive-VuO8cD) | 105 | Explore History of Football Tournaments | Alex Antonov | 6.0.0 | 313 KB | 2026-07-21 |
 | [Feed Reader](https://www.glaze.app/app/2Db0Ny) | 35 | Read your feeds and blogs in one place | Alexandr Subbotin | 11.0.0 | 3.9 MB | 2026-07-13 |
 | [Foam Case Designer](https://www.glaze.app/app/4ItSi9) | 29 | Visually plan and optimize foam insert layouts for hard cases with precise camera gear cutouts and padding guidance. | João Neves | 2.0.1 | 263 KB | 2026-03-25 |
-| [FeedBagel](https://www.glaze.app/app/AozKi4) | 25 | The internet, freshly baked (RSS) | Graeme Fulton | 2.0.0 | 9.5 MB | 2026-07-29 |
+| [FeedBagel](https://www.glaze.app/app/AozKi4) | 26 | The internet, freshly baked (RSS) | Graeme Fulton | 2.0.0 | 9.5 MB | 2026-07-29 |
 | [FlareDesk](https://www.glaze.app/app/2kFpvb) | 24 | The ultimate client for Cloudflare | Nurkamol Vakhidov | 7.0.0 | 137 KB | 2026-07-11 |
+| [F1](https://www.glaze.app/app/VaZOM1) | 23 | Every F1 season, all in one place | Arun Jayanthi | 2.0.0 | 245 KB | 2026-07-27 |
 | [Framework Detective](https://www.glaze.app/app/G7cmDl) | 23 | Identify every app's framework instantly | Misha Nya | 7.0.0 | 71 KB | 2026-07-24 |
-| [F1](https://www.glaze.app/app/VaZOM1) | 22 | Every F1 season, all in one place | Arun Jayanthi | 2.0.0 | 245 KB | 2026-07-27 |
 | [F1 Grid Pass](https://www.glaze.app/app/sFfxxn) | 22 | Track every race, standings, and update | Jensen | 2.0.0 | 98 KB | 2026-06-12 |
 | [Free Coder for Glaze](https://www.glaze.app/app/vTAfQM) | 20 | Build Glaze apps with your own Claude | WheelHugger | 4.0.0 | 67 KB | 2026-07-29 |
 | [Flappy Lid](https://www.glaze.app/app/xpXvt6) | 17 | Control a Flappy Bird game using your MacBook's lid angle | Dhruv Suthar | 2.0.1 | 418 KB | 2026-03-06 |

@@ -13,18 +13,18 @@
 | Lauren | 2 | 4 | [Capture Text](https://www.glaze.app/app/lANgsC) *(Productivity)*, [Timezone](https://www.glaze.app/app/4v1BH7) *(Productivity)* |
 | Lawrence Millard | 1 | 3 | [Dayline](https://www.glaze.app/app/YFSGD1) *(Lifestyle)* |
 | Leandro Viscome | 1 | 2 | [FireScreen](https://www.glaze.app/app/1ldeX8) *(Utilities)* |
-| [Lee Sherman](./id/lee-sherman.md) | 16 | 70 | [see all 16 →](./id/lee-sherman.md) |
+| [Lee Sherman](./id/lee-sherman.md) | 16 | 71 | [see all 16 →](./id/lee-sherman.md) |
 | Lefty | 1 | 12 | [Clip That!](https://www.glaze.app/app/h1OVuq) *(Design)* |
 | Leo Catherine | 1 | 29 | [Notch Island](https://www.glaze.app/app/ZBGs4Q) *(Utilities)* |
 | Leo Enin | 1 | 10 | [Beat Studio](https://www.glaze.app/app/ZEpRfE) *(Media)* |
 | Léo Tuil | 2 | 8 | [Sleepwalker](https://www.glaze.app/app/Twm2r3) *(Utilities)*, [Thermal Monitor](https://www.glaze.app/app/d8QTlA) *(Utilities)* |
 | Leonidas Fragkioudakis | 1 | 5 | [Wishlist](https://www.glaze.app/app/bdkrvX) *(Productivity)* |
 | Lertad Supadhiloke | 1 | 12 | [TOM.FM](https://www.glaze.app/app/M7kFKo) *(Media)* |
-| lexav | 2 | 155 | [The Dock](https://www.glaze.app/app/the-dock-u2upth) *(Utilities)*, [Tiny Timer](https://www.glaze.app/app/e0Dbb6) *(Productivity)* |
+| lexav | 2 | 156 | [The Dock](https://www.glaze.app/app/the-dock-u2upth) *(Utilities)*, [Tiny Timer](https://www.glaze.app/app/e0Dbb6) *(Productivity)* |
 | Li Jin | 1 | 9 | [Lucky Spin](https://www.glaze.app/app/2ihORJ) *(Games & Fun)* |
 | Liam Merlyn | 2 | 9 | [Clientworth](https://www.glaze.app/app/81XlgQ) *(Productivity)*, [TypeScale](https://www.glaze.app/app/d6x4u2) *(Developer Tools)* |
 | Liam Moore | 1 | 5 | [Arbor](https://www.glaze.app/app/Z2nW2k) *(Games & Fun)* |
-| Liel Azulay | 2 | 26 | [TokenLens](https://www.glaze.app/app/Gy3hAw) *(Developer Tools)*, [Celly](https://www.glaze.app/app/dPRQz9) *(Productivity)* |
+| Liel Azulay | 2 | 27 | [TokenLens](https://www.glaze.app/app/Gy3hAw) *(Developer Tools)*, [Celly](https://www.glaze.app/app/dPRQz9) *(Productivity)* |
 | LitoMore | 3 | 143 | [Glaze Playground](https://www.glaze.app/app/vE1ZTK) *(Developer Tools)*, [Iconify](https://www.glaze.app/app/UedCjG) *(Developer Tools)*, [Brand Icons](https://www.glaze.app/app/IydK5q) *(Design)* |
 | Lmelerski | 1 | 2 | [MeetSpace](https://www.glaze.app/app/75M7kk) *(Productivity)* |
 | Loic.Goyet | 2 | 4 | [Sablier](https://www.glaze.app/app/AYaR7q) *(Productivity)*, [RER E Planner](https://www.glaze.app/app/ciQhnY) *(Productivity)* |

@@ -10,7 +10,7 @@
 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 297 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) | 199 | Convert Markdown to Slack messages fast | Petr Nikolaev | 4.0.0 | 617 KB | 2026-04-17 |
 | [Mia Calendar](https://www.glaze.app/app/N2NgPq) | 188 | Plan your days with your own handwriting | Daniela Muntyan | 13.0.0 | 3.3 MB | 2026-07-27 |
-| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 112 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
+| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 114 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
 | [MicCheck](https://www.glaze.app/app/miccheck-TRFqOJ) | 105 | Never miss a muted mic again | Justin Lancaster | 2.0.0 | 65 KB | 2026-07-17 |
 | [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) | 87 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
 | [macHealth](https://www.glaze.app/app/C9jYcO) | 81 | Find out why your Mac is slow, instantly | gowhith kanisetty | 1.0.0 | 179 KB | 2026-05-11 |
@@ -136,7 +136,7 @@
 | [Meridian](https://www.glaze.app/app/HyLo8Z) | 0 | Track time across multiple cities | Prabu Weerasinghe | 4.0.0 | 176 KB | 2026-07-28 |
 | [Metro Victoria](https://www.glaze.app/app/5N5NOk) | 0 | Real-time train info for Victoria | Daniel | 2.0.0 | 77 KB | 2026-07-24 |
 | [Monatel](https://www.glaze.app/app/ZD7pWP) | 0 | Craft your beast and fight for glory | Raycast.dmwnn | 1.0.0 | 88 KB | 2026-07-27 |
-| [Mono to Stereo](https://www.glaze.app/app/mono-to-stereo-afMOfJ) | 0 | Convert paired mono files to stereo | Davidestevens | 2.0.0 | 63 KB | 2026-08-01 |
+| [Mono to Stereo](https://www.glaze.app/app/afMOfJ) | 0 | Convert paired mono files to stereo | Davidestevens | 2.0.0 | 63 KB | 2026-08-01 |
 | [Mood Journal](https://www.glaze.app/app/95zb9l) | 0 | Track your daily mood and reflect | Lars Wetendorff Nielsen | 1.0.0 | 63 KB | 2026-07-24 |
 | [Movie Battle](https://www.glaze.app/app/movie-battle-bRhpGo) | 0 | Movie Ranking by doing battles | Otto Vanluchene | 1.0.0 | 83 KB | 2026-08-02 |
 | [My Travels](https://www.glaze.app/app/H0Q8mr) | 0 | Track and explore your travel history | Anton Kuznetsov | 1.0.0 | 3.9 MB | 2026-07-27 |

@@ -15,7 +15,7 @@
 | [Bookmarks](https://www.glaze.app/app/ihUztq) | 8 | Bookmarks in your menu bar | Dmytro Lobov | 7.0.0 | 54 KB | 2026-07-26 |
 | [TabSet](https://www.glaze.app/app/pYwgOi) | 8 | Switch apps like you switch tabs | Dmytro Lobov | 7.0.0 | 63 KB | 2026-08-01 |
 | [TicTac](https://www.glaze.app/app/WQIbaK) | 7 | Spreadsheet Scratchpad, no Excel needed | Chris Durham | 3.0.0 | 641 KB | 2026-07-10 |
-| [Celly](https://www.glaze.app/app/dPRQz9) | 4 | Edit and explore CSV files with ease | Liel Azulay | 4.0.0 | 489 KB | 2026-07-27 |
+| [Celly](https://www.glaze.app/app/dPRQz9) | 5 | Edit and explore CSV files with ease | Liel Azulay | 4.0.0 | 489 KB | 2026-07-27 |
 | [Desk Ritual](https://www.glaze.app/app/TSJXW0) | 3 | Capture and Replay your Window Sessions. | miks | 2.0.0 | 100 KB | 2026-07-27 |
 | [Reminders Menu](https://www.glaze.app/app/zCOORx) | 3 | Quick access to your macOS reminders | Kevin | 6.0.0 | 57 KB | 2026-07-24 |
 | [YUME](https://www.glaze.app/app/MlguKz) | 3 | Find jobs that match who you are | Diana García | 1.0.0 | 252 KB | 2026-07-28 |

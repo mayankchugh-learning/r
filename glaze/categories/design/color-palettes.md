@@ -12,14 +12,14 @@
 | [Palette](https://www.glaze.app/app/65yIqh) | 18 | Color extraction - the easy way. | melvin | 1.0.0 | 49 KB | 2026-04-28 |
 | [Pinfont](https://www.glaze.app/app/7IetoU) | 14 | Preview any text across all your local fonts instantly with live customization of size, color, weight, and style. | Dhruv Suthar | 4.0.1 | 247 KB | 2026-03-24 |
 | [Backyard Garden Planner](https://www.glaze.app/app/cNg3uV) | 9 | Design and maintain your garden layout | Jenny Dougherty | 1.0.0 | 91 KB | 2026-07-05 |
+| [Pantone Studio](https://www.glaze.app/app/kTjaPE) | 9 | Match and organize colors like a pro | Lee Sherman | 1.0.0 | 121 KB | 2026-07-16 |
 | [ContrastKit](https://www.glaze.app/app/Ryg1Il) | 8 | Verify color accessibility compliance | Sean Thomas Stuart | 1.0.0 | 90 KB | 2026-07-06 |
 | [Hue Notch](https://www.glaze.app/app/cCJXJ7) | 8 | Pick colors with intuitive notch control | Dexter Morgan | 1.0.0 | 66 KB | 2026-07-06 |
 | [Magpie](https://www.glaze.app/app/Ybi9fe) | 8 | Collect ideas, keep what matters most. | Mohd Danish Yusuf | 3.0.0 | 591 KB | 2026-07-27 |
 | [Palette](https://www.glaze.app/app/uk1Og5) | 8 | Create and view your color schemes! | Benjy.desprets | 3.0.0 | 112 KB | 2026-07-27 |
-| [Pantone Studio](https://www.glaze.app/app/kTjaPE) | 8 | Match and organize colors like a pro | Lee Sherman | 1.0.0 | 121 KB | 2026-07-16 |
+| [Specimen](https://www.glaze.app/app/L1APKo) | 8 | The screenshots you keep, made useful | Nitrous | 2.0.0 | 82 KB | 2026-07-28 |
 | [Liquid Designer](https://www.glaze.app/app/L6dLhl) | 7 | Draw seamlessly with Liquid Glass | Yeshe | 1.0.0 | 64 KB | 2026-07-11 |
 | [QuotePop](https://www.glaze.app/app/ASjIay) | 7 | Share beautiful quotes in seconds | Jeremy Caplan | 1.0.0 | 77 KB | 2026-05-03 |
-| [Specimen](https://www.glaze.app/app/L1APKo) | 7 | The screenshots you keep, made useful | Nitrous | 2.0.0 | 82 KB | 2026-07-28 |
 | [Color History](https://www.glaze.app/app/ZDXqLl) | 5 | Never lose a color you pick again | Denys | 1.0.0 | 74 KB | 2026-07-02 |
 | [Kulay (Color)](https://www.glaze.app/app/bbzPPl) | 5 | Pick colors and generate palettes | AJ Batac | 1.0.0 | 332 KB | 2026-07-04 |
 | [Uniform](https://www.glaze.app/app/kGOcbw) | 5 | Make every image match your brand | Miguel Sanchez | 2.0.0 | 72 KB | 2026-07-26 |

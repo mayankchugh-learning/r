@@ -4,7 +4,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ProjectBase](https://www.glaze.app/app/w5CAic) | 47 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 281 KB | 2026-07-29 |
+| [ProjectBase](https://www.glaze.app/app/w5CAic) | 49 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 281 KB | 2026-07-29 |
 | [Kept](https://www.glaze.app/app/FtwSCJ) | 8 | Your memory, offloaded | Mati from Kavaju Resa | 11.0.0 | 420 KB | 2026-07-28 |
 | [Better ToDo App](https://www.glaze.app/app/F32Gah) | 4 | Assign Monetary Value to Your Tasks | alexi.build | 5.0.0 | 101 KB | 2026-07-14 |
 | [Patchbay](https://www.glaze.app/app/EBNlob) | 4 | Tasks that file themselves. | Huang Chung YI | 1.0.0 | 90 KB | 2026-07-24 |

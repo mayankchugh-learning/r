@@ -81,6 +81,7 @@
 | [Code Duel](https://www.glaze.app/app/Vu61vP) | 6 | Solve real-world coding challenges | Ralbright | 1.0.0 | 288 KB | 2026-07-02 |
 | [Container](https://www.glaze.app/app/qRcAZy) | 6 | Manage containers from your menu bar | Martin.Enzinger | 4.0.0 | 95 KB | 2026-07-03 |
 | [Contextphobia for Claude Code](https://www.glaze.app/app/PhIHl7) | 6 | Tokens per session in your menubar | Aseem Taneja | 3.0.0 | 40 KB | 2026-07-06 |
+| [Celly](https://www.glaze.app/app/dPRQz9) | 5 | Edit and explore CSV files with ease | Liel Azulay | 4.0.0 | 489 KB | 2026-07-27 |
 | [Clipboard](https://www.glaze.app/app/Ckewdc) | 5 | Your clipboard history, always at hand | Riche-Fitte Tristan | 2.0.0 | 65 KB | 2026-07-24 |
 | [Clipboard History](https://www.glaze.app/app/bmzUaY) | 5 | Access your clipboard history instantly | Birzhan Abishev | 1.0.0 | 61 KB | 2026-07-01 |
 | [Clipfloat](https://www.glaze.app/app/0DLNYu) | 5 | AI-guided copy and paste made effortless | James Coy (JC) | 1.0.0 | 64 KB | 2026-07-16 |
@@ -94,7 +95,6 @@
 | [Card Vault](https://www.glaze.app/app/OZEFGP) | 4 | Flashcards from your plain text files | Neeldhara Misra | 1.0.0 | 7.3 MB | 2026-07-28 |
 | [Cartographer](https://www.glaze.app/app/LyllLm) | 4 | Visual file navigation made simple. | Jstlykdat | 2.0.0 | 86 KB | 2026-07-27 |
 | [Cehua](https://www.glaze.app/app/osrdrz) | 4 | The fastest path from thought to plan. | Akanbi Toheeb | 1.0.0 | 2.1 MB | 2026-07-28 |
-| [Celly](https://www.glaze.app/app/dPRQz9) | 4 | Edit and explore CSV files with ease | Liel Azulay | 4.0.0 | 489 KB | 2026-07-27 |
 | [Cherish](https://www.glaze.app/app/VlIhRC) | 4 | Belongings Management Tool | Ting Chun Wang | 2.0.0 | 2.1 MB | 2026-07-27 |
 | [Chess Board Battle](https://www.glaze.app/app/cYLkAx) | 4 | Master chess tactics in competitive | X9 | 2.0.0 | 588 KB | 2026-07-28 |
 | [ChromaKit](https://www.glaze.app/app/dIpDYs) | 4 | Discover harmonious colors instantly | Dinil Thilakarathne | 2.0.0 | 124 KB | 2026-07-28 |

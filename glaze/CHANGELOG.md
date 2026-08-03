@@ -4,6 +4,10 @@ Store changes detected by each sync run, newest first.
 
 ## 2026-08-03
 
+**Added (1):** [Quick Translate EN↔RU](https://www.glaze.app/app/quick-translate-enru-boRTfT)
+
+## 2026-08-03
+
 **Clipboard View:** version 5.0.0 → 6.0.0
 
 ## 2026-08-03

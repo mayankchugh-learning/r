@@ -9,9 +9,9 @@
 | [Peel](https://www.glaze.app/app/esimhU) | 417 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
 | [Plain](https://www.glaze.app/app/FjHFA0) | 340 | Simple project planning | Kristina Loewen | 6.0.0 | 130 KB | 2026-07-05 |
 | [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 302 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 234 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 237 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
 | [Parallel Chat](https://www.glaze.app/app/GWDvTs) | 68 | Compare LLM responses side by side | Thomas Paul Mann | 1.0.0 | 1.3 MB | 2026-07-09 |
-| [ProjectBase](https://www.glaze.app/app/w5CAic) | 47 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 281 KB | 2026-07-29 |
+| [ProjectBase](https://www.glaze.app/app/w5CAic) | 49 | Project notes, tasks, files and links. | Robert Kreft | 7.0.0 | 281 KB | 2026-07-29 |
 | [Port Monitor](https://www.glaze.app/app/EEfaTw) | 40 | Track open ports and their apps | Domint | 1.0.0 | 73 KB | 2026-06-29 |
 | [Pixel Runner](https://www.glaze.app/app/dZpJ2d) | 34 | Run, jump, and dodge obstacles in this retro-style endless runner! Choose your character, compete for high scores, and climb the leaderboard. | Per Nielsen Tikær | 1.0.1 | 195 KB | 2026-03-04 |
 | [Pulse](https://www.glaze.app/app/3BmuDS) | 33 | Real-time Claude & Codex usage tracking | Ken Adams | 2.0.0 | 74 KB | 2026-06-23 |
@@ -40,6 +40,7 @@
 | [PortPilot](https://www.glaze.app/app/a2nCql) | 10 | Monitor local TCP ports and running dev | zxpzdtom | 1.0.0 | 69 KB | 2026-07-02 |
 | [PrettyShots](https://www.glaze.app/app/XHcKQ0) | 10 | Beautiful product screenshots in seconds | Ilai Szpiezak | 2.0.0 | 23.3 MB | 2026-07-28 |
 | [Prosody](https://www.glaze.app/app/4eQt0V) | 10 | Everything you read, read to you. | Oscar Hernandez | 3.0.0 | 76.9 MB | 2026-07-28 |
+| [Pantone Studio](https://www.glaze.app/app/kTjaPE) | 9 | Match and organize colors like a pro | Lee Sherman | 1.0.0 | 121 KB | 2026-07-16 |
 | [PDF to Image](https://www.glaze.app/app/s38kIA) | 9 | Convert PDFs to PNG and JPG images | Andre Yamazaki | 1.0.0 | 547 KB | 2026-07-02 |
 | [Pluvian](https://www.glaze.app/app/wlnkQR) | 9 | Ambient rain sounds with occult essence | mothnode | 1.0.0 | 67 KB | 2026-06-14 |
 | [Pocket Synth](https://www.glaze.app/app/Yk7V2Y) | 9 | Chain synthesizers into modular tracks | João Neves | 1.0.0 | 79 KB | 2026-07-07 |
@@ -47,7 +48,6 @@
 | [Prompt View](https://www.glaze.app/app/lcfSXD) | 9 | Teleprompter for video calls | Luann Silva | 1.0.0 | 67 KB | 2026-07-02 |
 | [Paint Studio](https://www.glaze.app/app/BXfWqp) | 8 | Draw and edit images easily | Vira Tkachenko | 2.0.0 | 62 KB | 2026-07-15 |
 | [Palette](https://www.glaze.app/app/uk1Og5) | 8 | Create and view your color schemes! | Benjy.desprets | 3.0.0 | 112 KB | 2026-07-27 |
-| [Pantone Studio](https://www.glaze.app/app/kTjaPE) | 8 | Match and organize colors like a pro | Lee Sherman | 1.0.0 | 121 KB | 2026-07-16 |
 | [Pokédex Ultra](https://www.glaze.app/app/16g4nM) | 8 | Explore and catalog Pokémon across generations with detailed stats, abilities, and evolution chains | Paul Angeles | 2.0.1 | 270 KB | 2026-03-26 |
 | [Polite Package](https://www.glaze.app/app/Ah56UM) | 8 | Send folders that look professional | Vaarun Sinha | 1.0.0 | 67 KB | 2026-07-28 |
 | [Pomo](https://www.glaze.app/app/Nvojrt) | 8 | Track pomodoro sessions and productivity | nanbing liu | 1.0.0 | 65 KB | 2026-07-02 |

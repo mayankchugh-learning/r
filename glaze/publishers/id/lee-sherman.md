@@ -1,6 +1,6 @@
 # Lee Sherman
 
-16 apps · 70 installs · [← publishers](../README.md)
+16 apps · 71 installs · [← publishers](../README.md)
 
 ## Utilities (7)
 
@@ -25,7 +25,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Pantone Studio](https://www.glaze.app/app/kTjaPE) | 8 | Match and organize colors like a pro | Lee Sherman | 1.0.0 | 121 KB | 2026-07-16 |
+| [Pantone Studio](https://www.glaze.app/app/kTjaPE) | 9 | Match and organize colors like a pro | Lee Sherman | 1.0.0 | 121 KB | 2026-07-16 |
 | [HyperGlass](https://www.glaze.app/app/3a4sfw) | 1 | Build card stacks visually | Lee Sherman | 5.0.0 | 90 KB | 2026-07-23 |
 
 ## Productivity (3)

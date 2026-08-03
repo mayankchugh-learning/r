@@ -37,7 +37,7 @@
 | Nils | 2 | 13 | [Service Control](https://www.glaze.app/app/aWolBa) *(Developer Tools)*, [Yes, But](https://www.glaze.app/app/bXJPCo) *(Productivity)* |
 | Nimesh Nayaju | 1 | 5 | [Tune](https://www.glaze.app/app/R3jpBK) *(Utilities)* |
 | Nisa Fatima | 1 | 10 | [Nudge](https://www.glaze.app/app/FcpBsO) *(Developer Tools)* |
-| Nitrous | 1 | 7 | [Specimen](https://www.glaze.app/app/L1APKo) *(Design)* |
+| Nitrous | 1 | 8 | [Specimen](https://www.glaze.app/app/L1APKo) *(Design)* |
 | Noah Czelusta | 1 | 7 | [Break Time](https://www.glaze.app/app/f5AsqN) *(Productivity)* |
 | Noah Lloyd | 1 | 20 | [YouTube Video Downloader](https://www.glaze.app/app/N3FDOF) *(Utilities)* |
 | Noman | 2 | 311 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) *(Design)*, [Taken](https://www.glaze.app/app/7ZhgBb) *(Utilities)* |
