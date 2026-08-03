@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-165 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+164 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -89,7 +89,6 @@
 | [mega_bananas](https://www.raycast.com/mega_bananas) | 1 | 71 | **Data:** [Fake Swedish Personal Number](https://github.com/raycast/extensions/tree/main/extensions/fake-swedish-personal-number) |
 | [megapixel23](https://www.raycast.com/megapixel23) | 1 | 1,123 | **Fun:** [Days Until Christmas](https://github.com/raycast/extensions/tree/main/extensions/days-until-christmas) |
 | [meguoe](https://www.raycast.com/meguoe) | 1 | 3,585 | **Developer Tools:** [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) |
-| [Mehdi_Hp](https://www.raycast.com/Mehdi_Hp) | 1 | 653 | **Productivity:** [CopyMoveTo](https://github.com/raycast/extensions/tree/main/extensions/copymoveto) |
 | [melkstam](https://www.raycast.com/melkstam) | 1 | 551 | **Productivity:** [Tyme 3 Time Tracker](https://github.com/raycast/extensions/tree/main/extensions/tyme-3-time-tracker) |
 | [melonamin](https://www.raycast.com/melonamin) | 1 | 156 | **Productivity:** [Safe Secret](https://github.com/raycast/extensions/tree/main/extensions/safe-secret) |
 | [MelvinBrem](https://www.raycast.com/MelvinBrem) | 1 | 9 | **Uncategorized:** [DeployHQ](https://github.com/raycast/extensions/tree/main/extensions/deployhq) |

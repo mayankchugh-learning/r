@@ -73,7 +73,7 @@
 | [krzysztofzuraw](https://www.raycast.com/krzysztofzuraw) | 2 | 19,323 | **Productivity:** [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn)<br>**Developer Tools:** [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) |
 | [KthKuang](https://www.raycast.com/KthKuang) | 1 | 157 | **Productivity:** [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) |
 | [kud](./id/kud.md) | 12 | 5,890 | [see all 12 →](./id/kud.md) |
-| [kumamaki](https://www.raycast.com/kumamaki) | 1 | 54 | **System:** [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) |
+| [kumamaki](https://www.raycast.com/Mehdi_Hp) | 2 | 707 | **Productivity:** [CopyMoveTo](https://github.com/raycast/extensions/tree/main/extensions/copymoveto)<br>**System:** [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) |
 | [kumare_agape](https://www.raycast.com/kumare_agape) | 1 | 11 | **Productivity:** [Lumen](https://github.com/raycast/extensions/tree/main/extensions/lumen) |
 | [kur_ankur](https://www.raycast.com/kur_ankur) | 1 | 7 | **Productivity:** [India Toolkit](https://github.com/raycast/extensions/tree/main/extensions/india-toolkit) |
 | [kurslog](https://www.raycast.com/kurslog) | 1 | 9 | **Finance:** [Kurslog](https://github.com/raycast/extensions/tree/main/extensions/kurslog) |

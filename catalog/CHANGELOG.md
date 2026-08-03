@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `99e6c6b4bd`
+
+**Updated (1):** [CopyMoveTo](https://github.com/raycast/extensions/tree/main/extensions/copymoveto)
+
 ## 2026-08-03 — upstream `9787751feb`
 
 **Added (1):** [MediaFlow](https://github.com/raycast/extensions/tree/main/extensions/media-flow)
