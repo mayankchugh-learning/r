@@ -19,7 +19,7 @@
 | [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) | 19,502 | Shows live information about the battery in your Mac! | o1y | macOS | [store](https://www.raycast.com/o1y/battery-health) |
 | [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) | 13,328 | Control Ghostty with Raycast | jarry_chung | macOS | [store](https://www.raycast.com/jarry_chung/ghostty) |
 | [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 12,989 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
-| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,280 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
+| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,281 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
 | [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,338 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
 | [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 10,968 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
 | [Deepseek Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/deepseeker) | 10,432 | Performs one-shot actions with DeepSeek and more | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/deepseeker) |

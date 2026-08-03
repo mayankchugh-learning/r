@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 148,535 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,302 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,711 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,086,290 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,086,309 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 296,406 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,790 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 402,541 |
@@ -191,7 +191,7 @@
 | 181 | [maantje](https://www.raycast.com/maantje) | 2 | 16,107 |
 | 182 | [StevenRCE0](https://www.raycast.com/StevenRCE0) | 2 | 15,512 |
 | 183 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 13,845 |
-| 184 | [vercel](https://www.raycast.com/vercel) | 2 | 12,560 |
+| 184 | [vercel](https://www.raycast.com/vercel) | 2 | 12,561 |
 | 185 | [jameslyons](https://www.raycast.com/jameslyons) | 2 | 10,892 |
 | 186 | [douo](https://www.raycast.com/douo) | 2 | 10,645 |
 | 187 | [dimagrossman](https://www.raycast.com/dimagrossman) | 2 | 10,316 |
@@ -385,11 +385,11 @@
 | 375 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
 | 376 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 377 | github-next | 2 | — |
-| 378 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,653 |
-| 379 | [Codely](https://www.raycast.com/Codely) | 1 | 486,599 |
+| 378 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,677 |
+| 379 | [Codely](https://www.raycast.com/Codely) | 1 | 486,617 |
 | 380 | [linear](https://www.raycast.com/linear) | 1 | 336,944 |
 | 381 | [mommertf](https://www.raycast.com/mommertf) | 1 | 282,315 |
-| 382 | [nhojb](https://www.raycast.com/nhojb) | 1 | 253,303 |
+| 382 | [nhojb](https://www.raycast.com/nhojb) | 1 | 253,324 |
 | 383 | [notion](https://www.raycast.com/notion) | 1 | 244,393 |
 | 384 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 206,762 |
 | 385 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 105,649 |

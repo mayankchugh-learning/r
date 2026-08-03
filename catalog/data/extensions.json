@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9920ee01c017408b93f566930adcfcd1eef8c8a8",
-  "generatedAt": "2026-08-03T06:46:37.327Z",
-  "downloadsRefreshedAt": "2026-08-03T06:46:36.659Z",
+  "commit": "1fcf98e990caeb631b0b61ebb92f3e2d25ef57ba",
+  "generatedAt": "2026-08-03T07:07:56.985Z",
+  "downloadsRefreshedAt": "2026-08-03T07:07:56.236Z",
   "count": 3142,
   "extensions": [
     {
@@ -5678,8 +5678,8 @@
       ],
       "store": "https://www.raycast.com/nhojb/brew",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brew",
-      "treeSha": "6e10638b912d739338b941e41ba23172923e1fd9",
-      "downloads": 253303
+      "treeSha": "135f360fa8250846d095845657c54ee91d416ab8",
+      "downloads": 253324
     },
     {
       "dir": "brew-services",
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498123
+      "downloads": 498142
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 486599
+      "downloads": 486617
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654653
+      "downloads": 654677
     },
     {
       "dir": "kimai",
@@ -61207,8 +61207,8 @@
       ],
       "store": "https://www.raycast.com/vercel/vercast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/vercast",
-      "treeSha": "9ca61737d31bb2e6f2c003248f741ad8c5692614",
-      "downloads": 12280
+      "treeSha": "b414a392bd72f050c7e2a6f601c0cee50181512b",
+      "downloads": 12281
     },
     {
       "dir": "verify-number",

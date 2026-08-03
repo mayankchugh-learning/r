@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `1fcf98e990`
+
+**Updated (2):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew), [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast)
+
 ## 2026-08-03 — upstream `9920ee01c0`
 
 **Updated (1):** [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify)
