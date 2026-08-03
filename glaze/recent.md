@@ -44,7 +44,7 @@ Newest 60 of 1578 apps by last release · [← Glaze catalog](./README.md)
 | [Apptopsy](https://www.glaze.app/app/kWwP7l) | 2026-08-01 | 12.0.0 | 17 | Developer Tools | Pavlo Haidamak |
 | [Scroblytics](https://www.glaze.app/app/Lf9vBU) | 2026-08-01 | 32.0.0 | 14 | Media | thebluch |
 | [Ghosted](https://www.glaze.app/app/h3nZXl) | 2026-08-01 | 9.0.0 | 18 | Productivity | Azlan Ibrahim |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 2026-07-31 | 10.0.0 | 237 | Productivity | Ajay Odedra |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 2026-07-31 | 10.0.0 | 238 | Productivity | Ajay Odedra |
 | [Noted](https://www.glaze.app/app/6gIagm) | 2026-07-31 | 5.0.0 | 11 | Productivity | Yash Kotha |
 | [re:Work](https://www.glaze.app/app/aqeLBX) | 2026-07-31 | 7.0.0 | 8 | Productivity | Benji Schwartz-Gilbert |
 | [Jamal](https://www.glaze.app/app/jamal-JN0yZw) | 2026-07-31 | 1.0.0 | 1 | Productivity | Abdullah Alghamdi |

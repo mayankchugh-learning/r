@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every public app in the [Glaze Store](https://www.glaze.app/store).
 
-**1,578** apps · **7** categories · **1,167** publishers · **27,704** installs · **2.67 GB** total, median **83 KB**
+**1,578** apps · **7** categories · **1,167** publishers · **27,710** installs · **2.67 GB** total, median **83 KB**
 
 ## Browse
 
@@ -20,10 +20,10 @@ An organized, auto-maintained index of every public app in the [Glaze Store](htt
 
 | Section | Categories | Apps | Installs |
 | --- | --- | --- | --- |
-| Work & Productivity | Productivity | 507 | 6,188 |
-| Development | Developer Tools | 314 | 7,656 |
-| System & Utilities | Utilities | 388 | 6,149 |
-| Creative & Media | Design, Media | 228 | 6,498 |
+| Work & Productivity | Productivity | 507 | 6,191 |
+| Development | Developer Tools | 314 | 7,657 |
+| System & Utilities | Utilities | 388 | 6,150 |
+| Creative & Media | Design, Media | 228 | 6,499 |
 | Life & Play | Lifestyle, Games & Fun | 141 | 1,213 |
 
 ## Most installed

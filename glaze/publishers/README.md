@@ -15,7 +15,7 @@
 | 5 | Boufford | 3 | 881 |
 | 6 | [Kristina Loewen](./id/kristina-loewen.md) | 5 | 719 |
 | 7 | [Jordan Amblin](./id/jordan-amblin.md) | 11 | 705 |
-| 8 | Yann-Edern Gillet | 3 | 676 |
+| 8 | Yann-Edern Gillet | 3 | 677 |
 | 9 | [Pedro Duarte](./id/pedro-duarte.md) | 5 | 572 |
 | 10 | Alex Antonov | 3 | 563 |
 | 11 | [Dhruv Suthar](./id/dhruv-suthar.md) | 16 | 479 |
@@ -24,16 +24,16 @@
 | 14 | Maya Avendaño | 1 | 401 |
 | 15 | [melvin](./id/melvin.md) | 6 | 357 |
 | 16 | Noman | 2 | 311 |
-| 17 | @zenithquinn | 3 | 287 |
+| 17 | @zenithquinn | 3 | 288 |
 | 18 | Alexandr Subbotin | 2 | 283 |
 | 19 | Hamzah Chaudhary | 1 | 271 |
 | 20 | Ivo Fonseca | 2 | 266 |
-| 21 | Ajay Odedra | 1 | 237 |
+| 21 | Ajay Odedra | 1 | 238 |
 | 22 | David Ferguson | 2 | 234 |
 | 23 | Thiago Holanda | 1 | 218 |
 | 24 | Daniel Hollick | 1 | 206 |
-| 25 | Dmitry Novikov | 1 | 204 |
-| 26 | Petr Nikolaev | 1 | 199 |
+| 25 | Dmitry Novikov | 1 | 205 |
+| 26 | Petr Nikolaev | 1 | 200 |
 | 27 | Tuxu | 1 | 199 |
 | 28 | Daniela Muntyan | 1 | 188 |
 | 29 | lexav | 2 | 156 |
@@ -164,15 +164,15 @@
 | 154 | Youssef Toufik | 2 | 20 |
 | 155 | Benjamin | 1 | 20 |
 | 156 | Bilal | 1 | 20 |
-| 157 | Noah Lloyd | 1 | 20 |
-| 158 | Tan | 1 | 20 |
-| 159 | Will Fischer | 1 | 20 |
-| 160 | Ivo Tanev | 3 | 19 |
-| 161 | Ben Smith | 1 | 19 |
-| 162 | Brandon Strittmatter | 1 | 19 |
-| 163 | Christopher Burns | 1 | 19 |
-| 164 | Colm Lenehan | 1 | 19 |
-| 165 | Deepto | 1 | 19 |
+| 157 | Deepto | 1 | 20 |
+| 158 | Noah Lloyd | 1 | 20 |
+| 159 | Tan | 1 | 20 |
+| 160 | Will Fischer | 1 | 20 |
+| 161 | Ivo Tanev | 3 | 19 |
+| 162 | Ben Smith | 1 | 19 |
+| 163 | Brandon Strittmatter | 1 | 19 |
+| 164 | Christopher Burns | 1 | 19 |
+| 165 | Colm Lenehan | 1 | 19 |
 | 166 | J.Taehee | 1 | 19 |
 | 167 | Jon Martin Stuberg | 1 | 19 |
 | 168 | Josh Davenport-Smith | 1 | 19 |

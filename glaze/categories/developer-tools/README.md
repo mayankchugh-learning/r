@@ -1,6 +1,6 @@
 # Developer Tools
 
-314 apps · 7,656 installs · [← all categories](../README.md)
+314 apps · 7,657 installs · [← all categories](../README.md)
 
 ## Code & Collaboration
 
@@ -37,7 +37,7 @@
 
 | Topic | Apps | Installs |
 | --- | --- | --- |
-| [Code ✦](./code.md) | 9 | 294 |
+| [Code ✦](./code.md) | 9 | 295 |
 | [Export ✦](./export.md) | 8 | 102 |
 | [Drag ✦](./drag.md) | 4 | 21 |
 | [Scan ✦](./scan.md) | 4 | 64 |

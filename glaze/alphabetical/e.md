@@ -6,7 +6,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) | 244 | When you need to be somewhere else | Yann-Edern Gillet | 7.0.0 | 34.5 MB | 2026-07-30 |
+| [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) | 245 | When you need to be somewhere else | Yann-Edern Gillet | 7.0.0 | 34.5 MB | 2026-07-30 |
 | [Electron Detector](https://www.glaze.app/app/R0hiOb) | 25 | Discover apps built with Electron.js | Donald Mok | 2.0.0 | 59 KB | 2026-07-01 |
 | [Emoji Generator](https://www.glaze.app/app/AOV7jA) | 14 | Generate custom emoji w/ OpenAI API key | Gavin Scott-Miller | 2.0.0 | 68 KB | 2026-07-14 |
 | [ElevenLingo](https://www.glaze.app/app/CM11Am) | 12 | Learn languages with ElevenLabs TTS | Taha Tesser | 5.0.0 | 76 KB | 2026-07-12 |

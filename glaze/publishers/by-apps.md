@@ -43,9 +43,9 @@
 | 33 | [Olivia Rukavina](./id/olivia-rukavina.md) | 4 | 9 |
 | 34 | [lukrencijus](./id/lukrencijus.md) | 4 | 8 |
 | 35 | Boufford | 3 | 881 |
-| 36 | Yann-Edern Gillet | 3 | 676 |
+| 36 | Yann-Edern Gillet | 3 | 677 |
 | 37 | Alex Antonov | 3 | 563 |
-| 38 | @zenithquinn | 3 | 287 |
+| 38 | @zenithquinn | 3 | 288 |
 | 39 | LitoMore | 3 | 143 |
 | 40 | 騎山豬跑山 | 3 | 98 |
 | 41 | Beth Staff | 3 | 89 |
@@ -219,11 +219,11 @@
 | 209 | Combustion Studio | 1 | 401 |
 | 210 | Maya Avendaño | 1 | 401 |
 | 211 | Hamzah Chaudhary | 1 | 271 |
-| 212 | Ajay Odedra | 1 | 237 |
+| 212 | Ajay Odedra | 1 | 238 |
 | 213 | Thiago Holanda | 1 | 218 |
 | 214 | Daniel Hollick | 1 | 206 |
-| 215 | Dmitry Novikov | 1 | 204 |
-| 216 | Petr Nikolaev | 1 | 199 |
+| 215 | Dmitry Novikov | 1 | 205 |
+| 216 | Petr Nikolaev | 1 | 200 |
 | 217 | Tuxu | 1 | 199 |
 | 218 | Daniela Muntyan | 1 | 188 |
 | 219 | Alexander Artsvuni | 1 | 142 |
@@ -291,14 +291,14 @@
 | 281 | Sahil Patel | 1 | 21 |
 | 282 | Benjamin | 1 | 20 |
 | 283 | Bilal | 1 | 20 |
-| 284 | Noah Lloyd | 1 | 20 |
-| 285 | Tan | 1 | 20 |
-| 286 | Will Fischer | 1 | 20 |
-| 287 | Ben Smith | 1 | 19 |
-| 288 | Brandon Strittmatter | 1 | 19 |
-| 289 | Christopher Burns | 1 | 19 |
-| 290 | Colm Lenehan | 1 | 19 |
-| 291 | Deepto | 1 | 19 |
+| 284 | Deepto | 1 | 20 |
+| 285 | Noah Lloyd | 1 | 20 |
+| 286 | Tan | 1 | 20 |
+| 287 | Will Fischer | 1 | 20 |
+| 288 | Ben Smith | 1 | 19 |
+| 289 | Brandon Strittmatter | 1 | 19 |
+| 290 | Christopher Burns | 1 | 19 |
+| 291 | Colm Lenehan | 1 | 19 |
 | 292 | J.Taehee | 1 | 19 |
 | 293 | Jon Martin Stuberg | 1 | 19 |
 | 294 | Josh Davenport-Smith | 1 | 19 |

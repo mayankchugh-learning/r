@@ -44,7 +44,7 @@
 | Davidleininger | 1 | 7 | [Media Smasher](https://www.glaze.app/app/H9eEba) *(Utilities)* |
 | Davos639 | 1 | 3 | [sums](https://www.glaze.app/app/vycKjG) *(Utilities)* |
 | Debarshee Chakraborty | 1 | 9 | [System Status](https://www.glaze.app/app/PCutQu) *(Utilities)* |
-| Deepto | 1 | 19 | [Speck](https://www.glaze.app/app/GQz6OW) *(Productivity)* |
+| Deepto | 1 | 20 | [Speck](https://www.glaze.app/app/GQz6OW) *(Productivity)* |
 | Delvison Marte | 3 | 20 | [StreamHub](https://www.glaze.app/app/CPEGJi) *(Media)*, [TCGVault](https://www.glaze.app/app/gBFQ7D) *(Utilities)*, [Discord Companion](https://www.glaze.app/app/discord-companion-Nnu2hA) *(Utilities)* |
 | Denis Ljubimov | 1 | 18 | [Cling](https://www.glaze.app/app/akdslE) *(Productivity)* |
 | Dennis Bruijn | 1 | 2 | [Findroid](https://www.glaze.app/app/FdgfJg) *(Utilities)* |
@@ -70,7 +70,7 @@
 | Dipanjan Roy | 1 | 3 | [Notex](https://www.glaze.app/app/gR2sUk) *(Productivity)* |
 | discountry | 1 | 4 | [MenuTune](https://www.glaze.app/app/dg8YWS) *(Media)* |
 | Dmitrii Verv | 1 | 4 | [Meanwhile](https://www.glaze.app/app/u3xmpq) *(Productivity)* |
-| Dmitry Novikov | 1 | 204 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
+| Dmitry Novikov | 1 | 205 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
 | [Dmytro Lobov](./id/dmytro-lobov.md) | 16 | 82 | [see all 16 →](./id/dmytro-lobov.md) |
 | Dmytro Shevchenko | 1 | 2 | [DoseTail](https://www.glaze.app/app/malQjQ) *(Utilities)* |
 | Dominik Keller | 1 | 9 | [Cache](https://www.glaze.app/app/kBv5VM) *(Productivity)* |

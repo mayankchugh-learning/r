@@ -29,7 +29,7 @@
 | [Soundboard](https://www.glaze.app/app/I1hRxZ) | 25 | Create custom ambient soundscapes | Timo Bechtel | 2.0.0 | 63 KB | 2026-05-15 |
 | [Sheet Viewer](https://www.glaze.app/app/mNoKcf) | 22 | Minimalistic Excel | Kush Thakker | 1.0.0 | 463 KB | 2026-07-03 |
 | [SuperDev Pro](https://www.glaze.app/app/oUJ9UR) | 22 | Edit, convert, and manage PDFs anywhere | Mohd Danish Yusuf | 2.0.0 | 1.3 MB | 2026-07-02 |
-| [Speck](https://www.glaze.app/app/GQz6OW) | 19 | Speak, don’t type. | Deepto | 10.0.0 | 86.2 MB | 2026-07-28 |
+| [Speck](https://www.glaze.app/app/GQz6OW) | 20 | Speak, don’t type. | Deepto | 10.0.0 | 86.2 MB | 2026-07-28 |
 | [Strudel Studio](https://www.glaze.app/app/HCgGlV) | 19 | Make music by writing code in real time | Vitaly Veber | 1.0.0 | 424 KB | 2026-07-01 |
 | [StreamFind](https://www.glaze.app/app/iZ37Rg) | 18 | Find any stream, anywhere, safely | Mmgc2013 | 1.0.0 | 55 KB | 2026-04-23 |
 | [SVG Cleaner](https://www.glaze.app/app/i4NO8G) | 18 | Optimize SVGs in bulk | Stijn | 2.0.0 | 374 KB | 2026-07-13 |
