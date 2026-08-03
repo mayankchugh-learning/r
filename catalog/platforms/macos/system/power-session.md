@@ -2,12 +2,12 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · **Power & Session** · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-10 of 238 extensions · [← macOS · System](./README.md)
+10 of 239 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 122,666 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
-| [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) | 27,760 | Control Amphetamine sleep sessions from Raycast | gstvds | macOS | [store](https://www.raycast.com/gstvds/amphetamine) |
+| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 122,697 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
+| [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) | 27,763 | Control Amphetamine sleep sessions from Raycast | gstvds | macOS | [store](https://www.raycast.com/gstvds/amphetamine) |
 | [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,343 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
 | [Power Management](https://github.com/raycast/extensions/tree/main/extensions/power-management) | 2,308 | Change Power Management Settings of the system | sasivarnan | macOS | [store](https://www.raycast.com/sasivarnan/power-management) |
 | [Uptime](https://github.com/raycast/extensions/tree/main/extensions/uptime) | 1,278 | Show how long ago your mac was turned on | iaroslav_naiden | macOS | [store](https://www.raycast.com/iaroslav_naiden/uptime) |

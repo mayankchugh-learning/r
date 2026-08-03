@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `3d2dd3583b`
+
+**Added (1):** [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking)
+
 ## 2026-08-03 — upstream `787345ba0a`
 
 **Updated (1):** [VoiceInk](https://github.com/raycast/extensions/tree/main/extensions/voiceink)

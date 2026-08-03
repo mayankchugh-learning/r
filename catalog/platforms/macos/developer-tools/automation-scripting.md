@@ -2,13 +2,13 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · **Automation & Scripting** · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-11 of 1068 extensions · [← macOS · Developer Tools](./README.md)
+11 of 1069 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,129 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,130 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
 | [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,343 | Convert cron expressions into human readable descriptions | niall-maloney | macOS | [store](https://www.raycast.com/niall-maloney/cron-description) |
-| [Raycast Notification](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) | 2,726 | This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast inter… | maxnyby | macOS | [store](https://www.raycast.com/maxnyby/raycast-notification) |
+| [Raycast Notification](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) | 2,727 | This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast inter… | maxnyby | macOS | [store](https://www.raycast.com/maxnyby/raycast-notification) |
 | [Pipe Commands](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) | 2,179 | Pipe your selection or clipboard to custom scripts defined in any language. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/pipe-commands) |
 | [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit) | 1,363 | Run Script Kit Command from Raycast | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/script-kit) |
 | [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 926 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |

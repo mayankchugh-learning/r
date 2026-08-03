@@ -13,7 +13,7 @@
 | [Music Link Converter](https://github.com/raycast/extensions/tree/main/extensions/music-link-converter) | 2,578 | Convert a music link to another provider, for example you can convert Spotify links to Apple music links (also works with many other providers), using song.lin… | Quentin23Soleil | macOS | [store](https://www.raycast.com/Quentin23Soleil/music-link-converter) |
 | [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,063 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
 | [Odesli](https://github.com/raycast/extensions/tree/main/extensions/odesli) | 457 | Convert song/album links to Odesli links. Odesli is a service that provides smart music links. These links show a list of platforms you can hear the song/album… | annedouwe | macOS, Windows | [store](https://www.raycast.com/annedouwe/odesli) |
-| [Music Assistant Controls](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) | 329 | Control music assistant and displays current song in the menu bar | yoerivd | macOS, Windows | [store](https://www.raycast.com/yoerivd/music-assistant-controls) |
+| [Music Assistant Controls](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) | 330 | Control music assistant and displays current song in the menu bar | yoerivd | macOS, Windows | [store](https://www.raycast.com/yoerivd/music-assistant-controls) |
 | [Navidrome](https://github.com/raycast/extensions/tree/main/extensions/navidrome) | 209 | Search and browse your Navidrome music library. Find artists, albums, songs, and playlists, then open them directly in your browser. | alexandervarney | macOS | [store](https://www.raycast.com/alexandervarney/navidrome) |
 | [Eurovision Song Contest](https://github.com/raycast/extensions/tree/main/extensions/eurovision-song-contest) | 40 | Discover information about the world's largest live music event | jacpd | macOS, Windows | [store](https://www.raycast.com/jacpd/eurovision-song-contest) |
 
@@ -21,10 +21,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 88,102 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
-| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,311 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 88,112 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,316 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
 | [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,430 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
-| [QQ Music Controls](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) | 1,285 | Control the QQ Music app for macOS with your keyboard. | jwickers | macOS | [store](https://www.raycast.com/jwickers/qq-music-controls) |
+| [QQ Music Controls](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) | 1,286 | Control the QQ Music app for macOS with your keyboard. | jwickers | macOS | [store](https://www.raycast.com/jwickers/qq-music-controls) |
 
 ## Play ✦
 
@@ -39,8 +39,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 423,773 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
-| [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) | 4,664 | Effortlessly convert music links between streaming services | sjdonado | macOS | [store](https://www.raycast.com/sjdonado/idonthavespotify) |
+| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 423,834 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
+| [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) | 4,667 | Effortlessly convert music links between streaming services | sjdonado | macOS | [store](https://www.raycast.com/sjdonado/idonthavespotify) |
 | [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) | 582 | It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features | yusuf_akdeniz | macOS | [store](https://www.raycast.com/yusuf_akdeniz/nowplaying-cli) |
 | [Meta Music](https://github.com/raycast/extensions/tree/main/extensions/meta-music) | 341 | Manage the ID3 tags of audio files directly in Raycast! | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/meta-music) |
 | [Discogs Database Search](https://github.com/raycast/extensions/tree/main/extensions/discogs) | 330 | It will search discogs.com for a music release information specified by Label ID, Barcode, Artist or Album name | vigosan | Windows, macOS | [store](https://www.raycast.com/vigosan/discogs) |

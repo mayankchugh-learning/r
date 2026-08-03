@@ -6,7 +6,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 1422 |
+| [Productivity](./productivity/README.md) | 1423 |
 | [Applications](./applications/README.md) | 369 |
 | [Communication](./communication/README.md) | 149 |
 
@@ -14,7 +14,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 1079 |
+| [Developer Tools](./developer-tools/README.md) | 1080 |
 | [Data](./data/README.md) | 265 |
 | [Documentation](./documentation/README.md) | 210 |
 | [Security](./security/README.md) | 82 |
@@ -39,7 +39,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [System](./system/README.md) | 252 |
+| [System](./system/README.md) | 253 |
 | [Other](./other/README.md) | 187 |
 
 ### Fun & Entertainment

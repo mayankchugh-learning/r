@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 238,084 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 74,469 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
-| [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | 9,462 | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
-| [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills) | 7,116 | Search and manage AI agent skills from Skills | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/skills) |
-| [Cursor Agents](https://github.com/raycast/extensions/tree/main/extensions/cursor-agents) | 5,953 | Create and manage background agents that work on your repositories | anysphere (org) | macOS, Windows | [store](https://www.raycast.com/anysphere/cursor-agents) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 238,097 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 74,475 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
+| [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | 9,466 | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
+| [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills) | 7,117 | Search and manage AI agent skills from Skills | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/skills) |
+| [Cursor Agents](https://github.com/raycast/extensions/tree/main/extensions/cursor-agents) | 5,957 | Create and manage background agents that work on your repositories | anysphere (org) | macOS, Windows | [store](https://www.raycast.com/anysphere/cursor-agents) |
 | [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | 4,426 | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
 | [Ray Code](https://github.com/raycast/extensions/tree/main/extensions/ray-code) | 1,804 | Turn AI Chat into a vibe coding agent | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/ray-code) |
 | [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,489 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
