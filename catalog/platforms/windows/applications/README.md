@@ -1,8 +1,8 @@
 # Windows · Applications
 
-78 extensions · [← Windows](../README.md)
+79 extensions · [← Windows](../README.md)
 
-[AI & Chat Apps](#ai-chat-apps) (5) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (4) · [Productivity & Task Apps](#productivity-task-apps) (4) · [Music & Audio Apps](#music-audio-apps) (1) · [Media & Photo Apps](#media-photo-apps) (6) · [Automation & Input Apps](#automation-input-apps) (2) · [Content & CMS Apps](#content-cms-apps) (1) · [Network & Connection Apps](#network-connection-apps) (3) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (2) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (1) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (9) · [General](#general) (32)
+[AI & Chat Apps](#ai-chat-apps) (5) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (4) · [Productivity & Task Apps](#productivity-task-apps) (4) · [Music & Audio Apps](#music-audio-apps) (1) · [Media & Photo Apps](#media-photo-apps) (7) · [Automation & Input Apps](#automation-input-apps) (2) · [Content & CMS Apps](#content-cms-apps) (1) · [Network & Connection Apps](#network-connection-apps) (3) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (2) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (1) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (9) · [General](#general) (32)
 
 ## Work & Knowledge Apps
 
@@ -58,6 +58,7 @@
 | [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 801 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 77 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 50 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
+| [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 21 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 
 ## Developer & Power-User Apps
 

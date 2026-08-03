@@ -14,7 +14,7 @@
 | [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 11,102 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
 | [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) | 509 | Quickly create records in Capture with Raycast. | syhchen | macOS | [store](https://www.raycast.com/syhchen/capture) |
 | [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 25 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
-| [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 21 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
+| [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 21 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [Better Screenshoot](https://github.com/raycast/extensions/tree/main/extensions/better-screenshoot) | 17 | Capture your screen with a built-in editor from Raycast. | sriverogalan | macOS | [store](https://www.raycast.com/sriverogalan/better-screenshoot) |
 | [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) | 1 | Capture, translate, and manage screenshots with ScreenLex. | chunkithwang | macOS | [store](https://www.raycast.com/chunkithwang/screenlex) |
 

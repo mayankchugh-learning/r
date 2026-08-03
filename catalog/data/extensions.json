@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b7b68cd1074aa299dd379351ac683cae2e64cbc0",
-  "generatedAt": "2026-08-03T04:34:19.852Z",
-  "downloadsRefreshedAt": "2026-08-03T04:34:19.149Z",
+  "commit": "d5a2fb23d09213db500699c5d7a2dd0d0970fdfb",
+  "generatedAt": "2026-08-03T04:38:18.604Z",
+  "downloadsRefreshedAt": "2026-08-03T04:38:17.945Z",
   "count": 3140,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498048
+      "downloads": 498050
     },
     {
       "dir": "color-shades",
@@ -12375,7 +12375,7 @@
       "description": "Search, open, and crawl DeepWiki pages for GitHub repositories.",
       "author": "vivek",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Documentation",
         "Developer Tools"
@@ -12386,7 +12386,7 @@
       ],
       "store": "https://www.raycast.com/vivek/deepwiki",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/deepwiki",
-      "treeSha": "69eac4872847abccc12d77b25ef09736024deb1b",
+      "treeSha": "785505e2e4d44cc8b1b4e2af1f7049052ad1180e",
       "downloads": 545
     },
     {
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 486518
+      "downloads": 486520
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654570
+      "downloads": 654571
     },
     {
       "dir": "kimai",
@@ -64054,11 +64054,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/rodolfo_lopez/workflowy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/workflowy",
-      "treeSha": "f431ddacdce5e8472475128ef070ca43c06fefb0",
+      "treeSha": "fb9028ff2a23210845267eb3fd11e3617d464ae0",
       "downloads": 21
     },
     {

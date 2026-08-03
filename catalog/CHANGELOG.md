@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `d5a2fb23d0`
+
+**Updated (2):** [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki), [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy)
+
 ## 2026-08-03 — upstream `b7b68cd107`
 
 **Updated (1):** [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)

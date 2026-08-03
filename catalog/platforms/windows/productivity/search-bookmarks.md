@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · **Search & Bookmarks** · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-56 of 333 extensions · [← Windows · Productivity](./README.md)
+57 of 334 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@
 | [Link Transformer](https://github.com/raycast/extensions/tree/main/extensions/link-transformer) | 38 | Link Transformer lets you save, search, and transform links using your own javascript custom actions. | dangkhoipro | macOS, Windows | [store](https://www.raycast.com/dangkhoipro/link-transformer) |
 | [Pandas Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/pandas-documentation-search) | 33 | Quickly search through official Pandas documentation | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/pandas-documentation-search) |
 | [Polars Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/polars-documentation-search) | 23 | Quickly search through official Polars documentation | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/polars-documentation-search) |
+| [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 21 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [Paperform](https://github.com/raycast/extensions/tree/main/extensions/paperform) | 17 | Search forms and view submissions from Paperform | parterburn | macOS, Windows | [store](https://www.raycast.com/parterburn/paperform) |
 | [Migros](https://github.com/raycast/extensions/tree/main/extensions/migros) | 15 | Search Migros products and check if they are in stock in a store near you | amuelli | macOS, Windows | [store](https://www.raycast.com/amuelli/migros) |
 | [LAPACK/BLAS Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/lapack-blas-documentation-search) | 13 | Quickly search through official LAPACK/BLAS documentation | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/lapack-blas-documentation-search) |
