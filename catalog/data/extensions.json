@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1fcf98e990caeb631b0b61ebb92f3e2d25ef57ba",
-  "generatedAt": "2026-08-03T07:07:56.985Z",
-  "downloadsRefreshedAt": "2026-08-03T07:07:56.236Z",
+  "commit": "1c2e3918cccc5a75f2838394e35eeaef003548a9",
+  "generatedAt": "2026-08-03T07:36:52.145Z",
+  "downloadsRefreshedAt": "2026-08-03T07:36:51.748Z",
   "count": 3142,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498142
+      "downloads": 498164
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 486617
+      "downloads": 486640
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 654677
+      "downloads": 654701
     },
     {
       "dir": "kimai",
@@ -33697,8 +33697,8 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "fc4549896c3cd173b071b8e4d55e2fa8c1903b02",
-      "downloads": 36052
+      "treeSha": "567c3bcd360ae6fc53c6f279cce09f9102dfc512",
+      "downloads": 36057
     },
     {
       "dir": "models-dev",
@@ -34477,10 +34477,10 @@
       "dir": "multi-links",
       "name": "multi-links",
       "title": "Open Multiple Links",
-      "description": "Opens all the links from the selected text in the default browser",
+      "description": "Opens all the links from the selected text in the default browser.",
       "author": "wrick17",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Productivity"
       ],
@@ -34490,7 +34490,7 @@
       ],
       "store": "https://www.raycast.com/wrick17/multi-links",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/multi-links",
-      "treeSha": "21e015245da2f923701e1b96cc8ab039f65d9783",
+      "treeSha": "cafe0ac31dc64891c3642208466609592923fc71",
       "downloads": 676
     },
     {
@@ -37862,7 +37862,7 @@
       "description": "Generate time-based one-time passwords",
       "author": "lachero",
       "owner": null,
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "Security",
         "Productivity"
@@ -37874,8 +37874,8 @@
       ],
       "store": "https://www.raycast.com/lachero/one-time-password",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/one-time-password",
-      "treeSha": "a0e835570a990e1605fe7e1eb1704b428dfe5771",
-      "downloads": 2053
+      "treeSha": "ee31e40f3dd37155e37ffb12de0af766ee9e1a7c",
+      "downloads": 2054
     },
     {
       "dir": "one-time-secret",

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,086,309 |
-| 2 | [raycast](./id/raycast.md) | 11 | 777,050 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,677 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 486,617 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,086,331 |
+| 2 | [raycast](./id/raycast.md) | 11 | 777,055 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 654,701 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 486,640 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 433,090 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 427,940 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 402,541 |
@@ -272,7 +272,7 @@
 | 262 | [textnav](https://www.raycast.com/textnav) | 1 | 4,404 |
 | 263 | [JeffersonDing](https://www.raycast.com/JeffersonDing) | 2 | 4,368 |
 | 264 | [Coun1er](https://www.raycast.com/Coun1er) | 1 | 4,324 |
-| 265 | [lachero](https://www.raycast.com/lachero) | 4 | 4,225 |
+| 265 | [lachero](https://www.raycast.com/lachero) | 4 | 4,226 |
 | 266 | [cojmeister](https://www.raycast.com/cojmeister) | 2 | 4,223 |
 | 267 | [magicjaqk](https://www.raycast.com/magicjaqk) | 1 | 4,209 |
 | 268 | [EinLinuus](https://www.raycast.com/EinLinuus) | 1 | 4,168 |
