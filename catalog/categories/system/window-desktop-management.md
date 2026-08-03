@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 21,910 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
-| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,588 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 21,915 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
+| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,589 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,649 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | 4,508 | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |
 | [Sequoia Window Tiling](https://github.com/raycast/extensions/tree/main/extensions/sequoia-tiling) | 962 | Map macOS Sequoia tiling commands to Raycast actions with friendly shortcuts. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/sequoia-tiling) |
@@ -30,9 +30,9 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | 10,276 | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
-| [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 9,433 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
+| [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 9,434 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
 | [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) | 7,713 | Show current weather on the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-weather) |
-| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,409 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
+| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,410 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
 | [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,191 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
 | [Battery Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/battery-menubar) | 1,973 | Battery capacity and power-draw information in the Menu Bar | panrafal | macOS | [store](https://www.raycast.com/panrafal/battery-menubar) |
 | [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 433 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
@@ -51,7 +51,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,045 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
+| [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,046 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
 | [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) | 877 | Analyze disk space usage and identify large files and folders in your home directory | easymikey | macOS | [store](https://www.raycast.com/easymikey/disk-usage) |
 | [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner) | 127 | Scan and clean developer caches, build artifacts, and orphaned dependencies to reclaim disk space | Undolog | macOS | [store](https://www.raycast.com/Undolog/dev-cache-cleaner) |
 | [Spacer](https://github.com/raycast/extensions/tree/main/extensions/spacer) | 113 | Name your spaces & more... | jd-solanki | macOS | [store](https://www.raycast.com/jd-solanki/spacer) |
@@ -61,8 +61,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | 6,279 | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |
-| [Dock](https://github.com/raycast/extensions/tree/main/extensions/dock) | 1,906 | Change the dock's position to the left, right, or bottom edge of the screen. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/dock) |
-| [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks) | 929 | Discover and toggle hidden macOS settings without the Terminal. Browse a curated catalog of defaults write tweaks for Finder, Dock, Screenshots, Animations, an… | Undolog | macOS | [store](https://www.raycast.com/Undolog/macos-tweaks) |
+| [Dock](https://github.com/raycast/extensions/tree/main/extensions/dock) | 1,907 | Change the dock's position to the left, right, or bottom edge of the screen. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/dock) |
+| [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks) | 930 | Discover and toggle hidden macOS settings without the Terminal. Browse a curated catalog of defaults write tweaks for Finder, Dock, Screenshots, Animations, an… | Undolog | macOS | [store](https://www.raycast.com/Undolog/macos-tweaks) |
 | [Lockdock](https://github.com/raycast/extensions/tree/main/extensions/lockdock) | 25 | Lock the macOS Dock to a specific display | mishamyrt | macOS | [store](https://www.raycast.com/mishamyrt/lockdock) |
 
 ## General

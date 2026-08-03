@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `04ae87f1fe`
+
+**Updated (1):** [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects)
+
 ## 2026-08-03 — upstream `1c2e3918cc`
 
 **Updated (3):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry), [Open Multiple Links](https://github.com/raycast/extensions/tree/main/extensions/multi-links), [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password)

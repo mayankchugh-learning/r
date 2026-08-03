@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 97,936 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
-| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 52,878 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 97,956 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 52,883 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,649 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 1,974 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,779 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
@@ -17,6 +17,6 @@
 | [Remote Desktop](https://github.com/raycast/extensions/tree/main/extensions/remote-desktop) | 175 | Manage Remote Desktop connections | tonka3000 | Windows | [store](https://www.raycast.com/tonka3000/remote-desktop) |
 | [Windows Domain](https://github.com/raycast/extensions/tree/main/extensions/windows-domain) | 77 | Get Information from your current Windows Domain | tonka3000 | Windows | [store](https://www.raycast.com/tonka3000/windows-domain) |
 | [Figma Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/figma-shortcuts) | 34 | Search and copy Figma keyboard shortcuts for macOS and Windows | arturdz | macOS, Windows | [store](https://www.raycast.com/arturdz/figma-shortcuts) |
+| [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 2 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
-| [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 1 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 0 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |

@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 282,315 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 47,837 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,434 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 17,872 | Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 282,423 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 47,842 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,437 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 17,874 | Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams) |
 | [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | 6,700 | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
 | [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) | 2,788 | Open Signal chats | leeraymond78 | macOS | [store](https://www.raycast.com/leeraymond78/signal) |
 | [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram) | 2,227 | Browse chats, view messages, and send messages to your Telegram contacts and groups | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/telegram) |
@@ -37,7 +37,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,143 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
+| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,144 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
 | [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 2,869 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,567 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Discord Timestamps](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) | 1,558 | Generate a Discord timestamp | theshadowdev | macOS, Windows | [store](https://www.raycast.com/theshadowdev/discord-timestamps) |

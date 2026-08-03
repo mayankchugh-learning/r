@@ -4,18 +4,18 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,451 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,068 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
-| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,027 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
-| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,679 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,468 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,073 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,028 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
+| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,682 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,650 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
-| [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,554 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
-| [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,407 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
+| [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,556 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
+| [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,408 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
 | [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) | 5,050 | Collection of scripts to improve YouTube browsing experience | sasivarnan | macOS, Windows | [store](https://www.raycast.com/sasivarnan/youtube-companion) |
 | [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,001 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
 | [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | 2,409 | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,396 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
-| [Dashlane](https://github.com/raycast/extensions/tree/main/extensions/dashlane) | 2,347 | Access your Dashlane vault directly from Raycast | dpnick | macOS | [store](https://www.raycast.com/dpnick/dashlane) |
+| [Dashlane](https://github.com/raycast/extensions/tree/main/extensions/dashlane) | 2,348 | Access your Dashlane vault directly from Raycast | dpnick | macOS | [store](https://www.raycast.com/dpnick/dashlane) |
 | [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) | 2,283 | Discover how many hours you need to beat a game. | Cronos87 | macOS, Windows | [store](https://www.raycast.com/Cronos87/howlongtobeat) |
 | [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,124 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
 | [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,090 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
@@ -24,7 +24,7 @@
 | [OpenWeatherMap](https://github.com/raycast/extensions/tree/main/extensions/openweathermap) | 1,361 | Get Weather via https://openweathermap.com | tonka3000 | macOS | [store](https://www.raycast.com/tonka3000/openweathermap) |
 | [Open in JSON Hero](https://github.com/raycast/extensions/tree/main/extensions/open-in-json-hero) | 1,283 | Opens JSON in your pasteboard in JSON Hero | maverickdotdev | macOS | [store](https://www.raycast.com/maverickdotdev/open-in-json-hero) |
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,110 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
-| [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) | 1,087 | A quick way to slugify text | unreadablename | macOS | [store](https://www.raycast.com/unreadablename/slugify) |
+| [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) | 1,089 | A quick way to slugify text | unreadablename | macOS | [store](https://www.raycast.com/unreadablename/slugify) |
 | [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 988 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
 | [Libraries.io](https://github.com/raycast/extensions/tree/main/extensions/libraries-io) | 935 | Look up packages and dependency information via Libraries.io | djpowers | macOS | [store](https://www.raycast.com/djpowers/libraries-io) |
 | [Terraform Doc](https://github.com/raycast/extensions/tree/main/extensions/terraform-doc) | 868 | Quickly access Terraform resources | shopping-jaws | macOS | [store](https://www.raycast.com/shopping-jaws/terraform-doc) |

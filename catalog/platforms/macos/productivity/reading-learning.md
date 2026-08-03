@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,434 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,437 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
 | [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,979 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
-| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 5,960 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
-| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,737 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
+| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 5,961 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
+| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,738 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,295 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,405 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [Bed Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/bed-time-calculator) | 503 | Calculate optimal sleep and wake times with color-coded quality indicators and natural language time input. | khlebobul | macOS, Windows | [store](https://www.raycast.com/khlebobul/bed-time-calculator) |

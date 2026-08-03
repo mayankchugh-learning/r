@@ -37,7 +37,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,215 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
+| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,223 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
 | [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) | 7,616 | Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl, hsla, oklch and shows the closest Tailwind CSS color. | nielsvanrijn | macOS, Windows | [store](https://www.raycast.com/nielsvanrijn/web-converter) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,209 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Color Palette Picker](https://github.com/raycast/extensions/tree/main/extensions/palette-picker) | 1,449 | A simple color picker for Tailwind CSS and Radix UI color palettes. | juliusmarminge | macOS | [store](https://www.raycast.com/juliusmarminge/palette-picker) |
@@ -65,17 +65,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,025 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
-| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,383 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
-| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,736 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
+| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,029 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
+| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,387 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
+| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,739 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Refresh Browsers](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) | 319 | Refresh all browser tabs | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/refresh-browsers) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) | 30,574 | A quick way to generate UUIDs without opening the browser | jmaeso | macOS, Windows | [store](https://www.raycast.com/jmaeso/uuid-generator) |
-| [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) | 10,981 | Can I Use provides up-to-date browser support for front-end web technologies on desktop and mobile web browsers. | thomaslombart | macOS, Windows | [store](https://www.raycast.com/thomaslombart/can-i-use) |
+| [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) | 30,577 | A quick way to generate UUIDs without opening the browser | jmaeso | macOS, Windows | [store](https://www.raycast.com/jmaeso/uuid-generator) |
+| [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) | 10,986 | Can I Use provides up-to-date browser support for front-end web technologies on desktop and mobile web browsers. | thomaslombart | macOS, Windows | [store](https://www.raycast.com/thomaslombart/can-i-use) |
 | [Open Link in Specific Browser](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) | 5,027 | Open link or search text in specific browser. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-link-in-specific-browser) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,282 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
 | [Markdown This](https://github.com/raycast/extensions/tree/main/extensions/markdown-this) | 1,523 | Convert Markdown text in clipboard to HTML | aravindballa | macOS | [store](https://www.raycast.com/aravindballa/markdown-this) |

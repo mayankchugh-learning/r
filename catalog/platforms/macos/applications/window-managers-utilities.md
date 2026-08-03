@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 29,916 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
-| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,588 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
-| [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,376 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
-| [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) | 3,826 | Interact with Bartender and menu bar icon apps | kmusick | macOS | [store](https://www.raycast.com/kmusick/bartender) |
+| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 29,918 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
+| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,589 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,377 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
+| [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) | 3,827 | Interact with Bartender and menu bar icon apps | kmusick | macOS | [store](https://www.raycast.com/kmusick/bartender) |
 | [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) | 1,690 | Resize the focused window to pixel-perfect presets. | the3ash | macOS | [store](https://www.raycast.com/the3ash/window-sizer) |
 | [App Keeper Manager](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) | 1,421 | This extention offers users the ability to manage currently running applications, with options to choose which apps to keep open and which to close during clea… | edith | macOS | [store](https://www.raycast.com/edith/app-keeper-manager) |
 | [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 433 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |

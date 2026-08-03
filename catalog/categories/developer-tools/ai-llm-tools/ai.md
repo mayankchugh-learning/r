@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 7,678 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
+| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 7,679 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
 | [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,489 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 828 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Tokenizer](https://github.com/raycast/extensions/tree/main/extensions/tokenizer) | 470 | Quickly count tokens in selected text or clipboard content using popular AI model encodings. | ashleymavericks | macOS | [store](https://www.raycast.com/ashleymavericks/tokenizer) |
@@ -27,9 +27,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills) | 7,114 | Search and manage AI agent skills from Skills | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/skills) |
-| [Ray Code](https://github.com/raycast/extensions/tree/main/extensions/ray-code) | 1,803 | Turn AI Chat into a vibe coding agent | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/ray-code) |
-| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 637 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
+| [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills) | 7,116 | Search and manage AI agent skills from Skills | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/skills) |
+| [Ray Code](https://github.com/raycast/extensions/tree/main/extensions/ray-code) | 1,804 | Turn AI Chat into a vibe coding agent | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/ray-code) |
+| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 638 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
 | [Agent Client Protocol](https://github.com/raycast/extensions/tree/main/extensions/agent-client-protocol) | 462 | Connect to AI agents via Agent Client Protocol for coding assistance | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/agent-client-protocol) |
 | [Clean Agent Text](https://github.com/raycast/extensions/tree/main/extensions/clean-agent-text) | 166 | Cleans text copied from AI agent TUIs by removing box-drawing characters, pipes, leading blank spaces, and reformatting | rhuk | macOS, Windows | [store](https://www.raycast.com/rhuk/clean-agent-text) |
 | [AI Agency](https://github.com/raycast/extensions/tree/main/extensions/ai-agency) | 141 | Browse AI Agency agents by division, view specialties and copy prompts. | marcin-91 | macOS | [store](https://www.raycast.com/marcin-91/ai-agency) |
@@ -47,7 +47,7 @@
 | [AI Code Namer](https://github.com/raycast/extensions/tree/main/extensions/ai-code-namer) | 541 | AI Code Namer is a Raycast extension that leverages AI to help developers generate clear, descriptive, and context-appropriate names for various code elements… | HunterJi | macOS | [store](https://www.raycast.com/HunterJi/ai-code-namer) |
 | [CodeGeex](https://github.com/raycast/extensions/tree/main/extensions/codegeex) | 471 | CodeGeex AI code tools | MBearo | macOS | [store](https://www.raycast.com/MBearo/codegeex) |
 | [Project Code to Text](https://github.com/raycast/extensions/tree/main/extensions/project-code-to-text) | 314 | Consolidates project source code, structure, and metadata into a single text file optimized for AI analysis or archiving. | borzov | macOS | [store](https://www.raycast.com/borzov/project-code-to-text) |
-| [Token Track](https://github.com/raycast/extensions/tree/main/extensions/tokentrack) | 99 | Track Token Usage across AI editors - Codex, Claude Code, Cursor. | liel_azulay | macOS | [store](https://www.raycast.com/liel_azulay/tokentrack) |
+| [Token Track](https://github.com/raycast/extensions/tree/main/extensions/tokentrack) | 100 | Track Token Usage across AI editors - Codex, Claude Code, Cursor. | liel_azulay | macOS | [store](https://www.raycast.com/liel_azulay/tokentrack) |
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 34 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
 | [SnipperApp](https://github.com/raycast/extensions/tree/main/extensions/snipperapp) | 7 | Search, paste, and capture code snippets from your SnipperApp library and the SnipperApp Hub — with workspaces, favorites, and AI. | teologov | macOS | [store](https://www.raycast.com/teologov/snipperapp) |
 
@@ -55,7 +55,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Whisper Dictation](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) | 4,693 | A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. | finjo | macOS | [store](https://www.raycast.com/finjo/whisper-dictation) |
+| [Whisper Dictation](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) | 4,694 | A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. | finjo | macOS | [store](https://www.raycast.com/finjo/whisper-dictation) |
 | [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | 4,426 | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
 | [Git Assistant](https://github.com/raycast/extensions/tree/main/extensions/git-assistant) | 1,955 | Streamline your git workflow with AI-powered conventional commits and repository management. | validate | macOS | [store](https://www.raycast.com/validate/git-assistant) |
 | [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 642 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
@@ -68,7 +68,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,112 | Chat with your local OpenClaw AI assistant | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
-| [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) | 604 | Search, browse, and copy AI prompts from prompts.chat - the community platform for ChatGPT and AI prompts | fka | macOS | [store](https://www.raycast.com/fka/prompts-chat) |
+| [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) | 605 | Search, browse, and copy AI prompts from prompts.chat - the community platform for ChatGPT and AI prompts | fka | macOS | [store](https://www.raycast.com/fka/prompts-chat) |
 | [Corcel AI](https://github.com/raycast/extensions/tree/main/extensions/corcel) | 446 | Use AI Chat and Image Generation | corcel.io | macOS | [store](https://www.raycast.com/corcel.io/corcel) |
 | [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 233 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
 
@@ -76,7 +76,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 3,363 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
+| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 3,364 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
 | [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,465 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
 | [Swift Command](https://github.com/raycast/extensions/tree/main/extensions/swift-command) | 425 | Minimalist Linux command and AI prompt management | aaron_lin | macOS, Windows | [store](https://www.raycast.com/aaron_lin/swift-command) |
 | [PromptNote](https://github.com/raycast/extensions/tree/main/extensions/promptnote) | 130 | Manage your AI prompts with versioning and cloud sync | dimpurr | macOS | [store](https://www.raycast.com/dimpurr/promptnote) |
@@ -85,8 +85,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 12,043 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
-| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,483 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
+| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 12,044 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
+| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,484 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,451 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,437 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
 | [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,023 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |

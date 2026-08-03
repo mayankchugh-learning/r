@@ -21,7 +21,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Gemini TTS](https://github.com/raycast/extensions/tree/main/extensions/gemini-tts) | 50 | Read selected text aloud with Gemini TTS. Supports Gemini 3.1 Flash TTS Preview plus Gemini 2.5 Flash and Pro Preview TTS. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/gemini-tts) |
-| [Doubao TTS](https://github.com/raycast/extensions/tree/main/extensions/doubao-tts) | 43 | Read selected text aloud using Volcengine Doubao TTS with 160+ Chinese and English voices | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/doubao-tts) |
+| [Doubao TTS](https://github.com/raycast/extensions/tree/main/extensions/doubao-tts) | 44 | Read selected text aloud using Volcengine Doubao TTS with 160+ Chinese and English voices | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/doubao-tts) |
 | [MiniMax TTS](https://github.com/raycast/extensions/tree/main/extensions/minimax-tts) | 15 | Read selected text aloud with MiniMax TTS. Supports Chinese, English, and your own cloned voices. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/minimax-tts) |
 | [MiMo TTS](https://github.com/raycast/extensions/tree/main/extensions/raycast-mimo-tts) | 4 | Read selected or clipboard text aloud with Xiaomi MiMo TTS — Chinese and English voices, fine-grained style controls, and chunked long-text playback. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/raycast-mimo-tts) |
 
@@ -29,9 +29,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,737 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
+| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,738 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,857 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
-| [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,594 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
+| [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,595 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,405 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | 479 | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |
 | [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 425 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
