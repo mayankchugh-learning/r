@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "efe3de3dc169c405ccc158523ed68a0af6048247",
-  "generatedAt": "2026-08-03T20:51:41.630Z",
-  "downloadsRefreshedAt": "2026-08-03T20:51:40.728Z",
+  "commit": "2ded14b027a9ba1a79732d581a94d0e83df37b3c",
+  "generatedAt": "2026-08-03T20:52:26.812Z",
+  "downloadsRefreshedAt": "2026-08-03T20:52:25.914Z",
   "count": 3143,
   "extensions": [
     {
@@ -66043,7 +66043,7 @@
       ],
       "store": "https://www.raycast.com/TurboCoder13/zshrc-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager",
-      "treeSha": "1fd506b8ba02501b174fa23d22fd1d104cb18211",
+      "treeSha": "bb157f591f4f88acba51fe7c54909bc5bef34fe4",
       "downloads": 1350
     },
     {

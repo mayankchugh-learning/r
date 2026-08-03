@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-03 — upstream `2ded14b027`
+
+**Updated (1):** [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)
+
 ## 2026-08-03 — upstream `efe3de3dc1`
 
 **Updated (1):** [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor)
