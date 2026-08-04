@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `2cb6b7d4f2`
+
+**Updated (1):** [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor)
+
 ## 2026-08-04 — upstream `2a6ea1624f`
 
 **Added (1):** [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2a6ea1624f5ccf44ce5cc50b31dc24edd8fb5d1f",
-  "generatedAt": "2026-08-04T13:47:36.029Z",
-  "downloadsRefreshedAt": "2026-08-04T13:47:35.308Z",
+  "commit": "2cb6b7d4f246c13515c4559d693e0a29c78b9faf",
+  "generatedAt": "2026-08-04T14:07:33.717Z",
+  "downloadsRefreshedAt": "2026-08-04T14:07:33.440Z",
   "count": 3146,
   "extensions": [
     {
@@ -9342,10 +9342,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/nabecite/cold-turkey-blocker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker",
       "treeSha": "b32e7734e4dcf3508aff87f09649136d55ceda2b",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "colima",
@@ -9449,7 +9449,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499108
+      "downloads": 499122
     },
     {
       "dir": "color-shades",
@@ -21362,7 +21362,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487615
+      "downloads": 487630
     },
     {
       "dir": "google-chrome-profiles",
@@ -27598,7 +27598,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 655906
+      "downloads": 655922
     },
     {
       "dir": "kimai",
@@ -55384,8 +55384,8 @@
       ],
       "store": "https://www.raycast.com/hossammourad/raycast-system-monitor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/system-monitor",
-      "treeSha": "3cd8162f85904ac58a86fb82da821328b595ee31",
-      "downloads": 103757
+      "treeSha": "7a766d34e260d7bd2d888c544ebdd5067f6a6b40",
+      "downloads": 103804
     },
     {
       "dir": "t3-chat",

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,087,918 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,087,932 |
 | 2 | [raycast](./id/raycast.md) | 11 | 777,812 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 655,906 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 487,615 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 655,922 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 487,630 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 433,534 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 428,378 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 402,807 |
@@ -33,7 +33,7 @@
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 148,668 |
 | 24 | [loris](https://www.raycast.com/loris) | 6 | 122,615 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 105,752 |
-| 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 103,757 |
+| 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 103,804 |
 | 27 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 100,545 |
 | 28 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 100,135 |
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 98,042 |
@@ -2092,11 +2092,11 @@
 | 2082 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
 | 2083 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
 | 2084 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
-| 2085 | [pvnkmnk](https://www.raycast.com/pvnkmnk) | 1 | 0 |
-| 2086 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2087 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 0 |
-| 2088 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2089 | github-next | 2 | — |
-| 2090 | multi | 1 | — |
-| 2091 | nabecite | 1 | — |
+| 2085 | [nabecite](https://www.raycast.com/nabecite) | 1 | 0 |
+| 2086 | [pvnkmnk](https://www.raycast.com/pvnkmnk) | 1 | 0 |
+| 2087 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2088 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 0 |
+| 2089 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2090 | github-next | 2 | — |
+| 2091 | multi | 1 | — |
 | 2092 | sharat_visweswara | 1 | — |

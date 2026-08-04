@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [n_seiji](https://www.raycast.com/n_seiji) | 1 | 41 | **Productivity:** [Vanishlink](https://github.com/raycast/extensions/tree/main/extensions/vanishlink) |
 | [n-winspear](https://www.raycast.com/n-winspear) | 1 | 8 | **Productivity:** [QuickLinker](https://github.com/raycast/extensions/tree/main/extensions/quicklinker) |
-| nabecite | 1 | — | **Productivity:** [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) |
+| [nabecite](https://www.raycast.com/nabecite) | 1 | 0 | **Productivity:** [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) |
 | [NabhagMotivaras](https://www.raycast.com/NabhagMotivaras) | 1 | 141 | **Productivity:** [Twenty](https://github.com/raycast/extensions/tree/main/extensions/twenty) |
 | [nac-39](https://www.raycast.com/nac-39) | 1 | 58 | **Developer Tools:** [Tex2Typst](https://github.com/raycast/extensions/tree/main/extensions/tex2typst) |
 | [nagauta](https://www.raycast.com/nagauta) | 3 | 687 | **Productivity:** [Sequel Ace](https://github.com/raycast/extensions/tree/main/extensions/sequel-ace)<br>**Applications:** [Nippon Colors](https://github.com/raycast/extensions/tree/main/extensions/nippon-colors)<br>**Communication:** [Chatwork Search](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) |
