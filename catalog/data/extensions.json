@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9de2bc885832578d2555be6345a12c83168f2412",
-  "generatedAt": "2026-08-04T11:09:59.159Z",
-  "downloadsRefreshedAt": "2026-08-04T11:09:58.470Z",
+  "commit": "af37a5aad1b8f921a120632fdf9309138d275faf",
+  "generatedAt": "2026-08-04T11:30:04.244Z",
+  "downloadsRefreshedAt": "2026-08-04T11:30:03.640Z",
   "count": 3145,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499020
+      "downloads": 499028
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487519
+      "downloads": 487525
     },
     {
       "dir": "google-chrome-profiles",
@@ -22572,7 +22572,7 @@
       "store": "https://www.raycast.com/mattiacolombomc/handy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/handy",
       "treeSha": "eb6efbea205d5034f0f358cd514009e4bebd88ec",
-      "downloads": 970
+      "downloads": 971
     },
     {
       "dir": "hardcover",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 655804
+      "downloads": 655813
     },
     {
       "dir": "kimai",
@@ -66086,8 +66086,8 @@
       ],
       "store": "https://www.raycast.com/TurboCoder13/zshrc-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager",
-      "treeSha": "bb157f591f4f88acba51fe7c54909bc5bef34fe4",
-      "downloads": 1350
+      "treeSha": "3717f0d8bf42cb75c8bb3cfab04104b5b6a7eed8",
+      "downloads": 1351
     },
     {
       "dir": "zyntra",

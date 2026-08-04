@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,087,830 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,087,838 |
 | 2 | [raycast](./id/raycast.md) | 11 | 777,812 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 655,804 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 487,519 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 655,813 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 487,525 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 433,534 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 428,378 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 402,807 |
@@ -534,7 +534,7 @@
 | 524 | [JulienLacr0ix](https://www.raycast.com/JulienLacr0ix) | 1 | 1,387 |
 | 525 | [islamtayeb](https://www.raycast.com/islamtayeb) | 1 | 1,386 |
 | 526 | [abul_kalam_robin](https://www.raycast.com/abul_kalam_robin) | 1 | 1,372 |
-| 527 | [TurboCoder13](https://www.raycast.com/TurboCoder13) | 3 | 1,362 |
+| 527 | [TurboCoder13](https://www.raycast.com/TurboCoder13) | 3 | 1,363 |
 | 528 | [gkpln3](https://www.raycast.com/gkpln3) | 1 | 1,359 |
 | 529 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,357 |
 | 530 | [rafal_zawadzki](https://www.raycast.com/rafal_zawadzki) | 2 | 1,353 |
@@ -615,8 +615,8 @@
 | 605 | [hayden_barnes](https://www.raycast.com/hayden_barnes) | 1 | 1,058 |
 | 606 | [Katatsu](https://www.raycast.com/Katatsu) | 1 | 1,055 |
 | 607 | [sublime](https://www.raycast.com/sublime) | 1 | 1,054 |
-| 608 | [eliperkins](https://www.raycast.com/eliperkins) | 1 | 1,051 |
-| 609 | [mattiacolombomc](https://www.raycast.com/mattiacolombomc) | 3 | 1,050 |
+| 608 | [mattiacolombomc](https://www.raycast.com/mattiacolombomc) | 3 | 1,051 |
+| 609 | [eliperkins](https://www.raycast.com/eliperkins) | 1 | 1,051 |
 | 610 | [mzaien](https://www.raycast.com/mzaien) | 1 | 1,049 |
 | 611 | [Caramel](https://www.raycast.com/Caramel) | 1 | 1,047 |
 | 612 | [talha_balaj](https://www.raycast.com/talha_balaj) | 1 | 1,046 |

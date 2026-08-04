@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 655,804 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 655,813 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 158,391 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,540 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,438 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -53,7 +53,7 @@
 | [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,426 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
 | [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) | 1,404 | Generates a set of random passwords using different generators. | omBratteng | macOS | [store](https://www.raycast.com/omBratteng/passphrase-generator) |
 | [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) | 1,352 | Provides quick access to Laravel Herd features and settings. | beyond-code (org) | macOS | [store](https://www.raycast.com/beyond-code/laravel-herd) |
-| [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager) | 1,350 | View and manage your ~/.zshrc from Raycast | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/zshrc-manager) |
+| [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager) | 1,351 | View and manage your ~/.zshrc from Raycast | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/zshrc-manager) |
 | [SwitchHosts](https://github.com/raycast/extensions/tree/main/extensions/switchhosts) | 1,270 | An extension for hosts management & switching | tiancheng92 | macOS | [store](https://www.raycast.com/tiancheng92/switchhosts) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,241 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Vault Manager](https://github.com/raycast/extensions/tree/main/extensions/vault) | 1,220 | Vault extension for Raycast | fonimus | macOS | [store](https://www.raycast.com/fonimus/vault-manager) |
