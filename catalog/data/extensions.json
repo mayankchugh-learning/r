@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "349541f06ce21f5b85d3493454d7df5b4d97e408",
-  "generatedAt": "2026-08-04T05:24:23.160Z",
-  "downloadsRefreshedAt": "2026-08-04T05:24:22.402Z",
+  "commit": "5b3d29f649c724b2a563e380680a41ce3a85245c",
+  "generatedAt": "2026-08-04T06:24:44.337Z",
+  "downloadsRefreshedAt": "2026-08-04T06:24:44.005Z",
   "count": 3144,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498830
+      "downloads": 498858
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487329
+      "downloads": 487353
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 655573
+      "downloads": 655606
     },
     {
       "dir": "kimai",
@@ -57974,7 +57974,7 @@
       "description": "Quick Tmux Session Switcher",
       "author": "louishuyng",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Developer Tools"
       ],
@@ -57984,7 +57984,7 @@
       ],
       "store": "https://www.raycast.com/louishuyng/tmux-sessioner",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner",
-      "treeSha": "a5aa4027c6e33a35d12f61ac93f6020a5512fea2",
+      "treeSha": "0fa4d969b3709c51443aad225933f5892acb5763",
       "downloads": 3189
     },
     {

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `5b3d29f649`
+
+**Updated (1):** [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner)
+
 ## 2026-08-04 — upstream `349541f06c`
 
 **Updated (1):** [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy)
