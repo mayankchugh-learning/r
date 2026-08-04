@@ -1,6 +1,6 @@
 # Publishers
 
-2093 publishers · [← catalog index](../README.md)
+2094 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -2100,4 +2100,5 @@
 | 2090 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
 | 2091 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
 | 2092 | multi | 1 | — |
-| 2093 | sharat_visweswara | 1 | — |
+| 2093 | p2m | 1 | — |
+| 2094 | sharat_visweswara | 1 | — |

@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · **Calendar & Scheduling** · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-20 of 1411 extensions · [← macOS · Productivity](./README.md)
+21 of 1412 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,4 @@
 | [Tldv Meetings](https://github.com/raycast/extensions/tree/main/extensions/tldv) | 15 | Browse and view your tl;dv meeting recordings | keito4 | macOS | [store](https://www.raycast.com/keito4/tldv) |
 | [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) | 9 | Companion extension for PlanWell - the markdown-native teacher planning app. View today's classes, upcoming events, and todos. Requires a PlanWell vault (planw… | Raynold | macOS | [store](https://www.raycast.com/Raynold/planwell) |
 | [Meeting Room Check](https://github.com/raycast/extensions/tree/main/extensions/meeting-room-check) | 2 | See which meeting rooms are free right now and block one instantly. | Ticsi | macOS, Windows | [store](https://www.raycast.com/Ticsi/meeting-room-check) |
+| [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation) | — | Automate Raycast Focus sessions from your calendar. | p2m | macOS | — |

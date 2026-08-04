@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `ac1c609668`
+
+**Added (1):** [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation)
+
 ## 2026-08-04 — upstream `a5c08bbb3c`
 
 **Added (1):** [Flashcards](https://github.com/raycast/extensions/tree/main/extensions/flashcards)

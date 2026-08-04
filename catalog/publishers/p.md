@@ -2,11 +2,12 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-83 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+84 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [p-koenig](https://www.raycast.com/p-koenig) | 1 | 3 | **Developer Tools:** [Slurm](https://github.com/raycast/extensions/tree/main/extensions/slurm) |
+| p2m | 1 | — | **Productivity:** [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation) |
 | [pa1ar](https://www.raycast.com/pa1ar) | 1 | 2,573 | **Productivity:** [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) |
 | [pablo_medina](https://www.raycast.com/pablo_medina) | 1 | 28 | **Other:** [Dexcom Reader](https://github.com/raycast/extensions/tree/main/extensions/dexcom-reader) |
 | [pablopunk](https://www.raycast.com/pablopunk) | 1 | 4,688 | **Productivity:** [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) |

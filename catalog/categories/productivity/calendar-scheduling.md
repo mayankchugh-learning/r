@@ -1,8 +1,8 @@
 # Calendar & Scheduling
 
-20 extensions · [← Productivity](./README.md)
+21 extensions · [← Productivity](./README.md)
 
-[Calendar ✦](#calendar) (10) · [Meeting ✦](#meeting) (7) · [General](#general) (3)
+[Calendar ✦](#calendar) (11) · [Meeting ✦](#meeting) (7) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -20,6 +20,7 @@
 | [Days 2 - Google Calendar Countdown](https://github.com/raycast/extensions/tree/main/extensions/days2) | 29 | Countdown to all-day events from Google Calendar — see how many days until your next birthday, holiday, deadline, or milestone. | datboi | macOS | [store](https://www.raycast.com/datboi/days2) |
 | [Vietnamese Calendar](https://github.com/raycast/extensions/tree/main/extensions/vietnamese-calendar) | 25 | A comprehensive Vietnamese Lunar Calendar for Raycast. View Solar and Lunar dates, check holidays with anniversary counts, and navigate easily with shortcuts. | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/vietnamese-calendar) |
 | [Shape Calendar](https://github.com/raycast/extensions/tree/main/extensions/shape-calendar) | 20 | Plan your active life with Shape Calendar — search, create, and manage your training activities | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/shape-calendar) |
+| [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation) | — | Automate Raycast Focus sessions from your calendar. | p2m | macOS | — |
 
 ## Meeting ✦
 

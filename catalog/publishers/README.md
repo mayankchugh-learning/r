@@ -1,6 +1,6 @@
 # Publishers
 
-2093 publishers · [← catalog index](../README.md)
+2094 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -2100,4 +2100,5 @@
 | 2090 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
 | 2091 | github-next | 2 | — |
 | 2092 | multi | 1 | — |
-| 2093 | sharat_visweswara | 1 | — |
+| 2093 | p2m | 1 | — |
+| 2094 | sharat_visweswara | 1 | — |

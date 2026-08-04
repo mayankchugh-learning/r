@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a5c08bbb3ce7facadc9c2fe3e3f9cc83e223682f",
-  "generatedAt": "2026-08-04T16:23:44.702Z",
-  "downloadsRefreshedAt": "2026-08-04T16:23:43.939Z",
-  "count": 3147,
+  "commit": "ac1c609668340de9cf08f423031e34a75efb48ed",
+  "generatedAt": "2026-08-04T16:25:41.313Z",
+  "downloadsRefreshedAt": "2026-08-04T16:25:41.040Z",
+  "count": 3148,
   "extensions": [
     {
       "dir": "0x0",
@@ -18580,6 +18580,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/focus-anchor",
       "treeSha": "e4b2ca3ee60b181309f764db415d2a0c416817b6",
       "downloads": 352
+    },
+    {
+      "dir": "focus-automation",
+      "name": "focus-automation",
+      "title": "Focus Automation",
+      "description": "Automate Raycast Focus sessions from your calendar.",
+      "author": "p2m",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/focus-automation",
+      "treeSha": "9a591f3e3d352e3a2f88c5dd741486e15821ec17",
+      "downloads": null
     },
     {
       "dir": "focus-flow",
