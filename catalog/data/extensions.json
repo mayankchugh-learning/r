@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ecb91d1f8273efdcdd5f27a21053cb6a65e48c52",
-  "generatedAt": "2026-08-04T11:54:30.560Z",
-  "downloadsRefreshedAt": "2026-08-04T11:54:30.182Z",
-  "count": 3145,
+  "commit": "2a6ea1624f5ccf44ce5cc50b31dc24edd8fb5d1f",
+  "generatedAt": "2026-08-04T13:47:36.029Z",
+  "downloadsRefreshedAt": "2026-08-04T13:47:35.308Z",
+  "count": 3146,
   "extensions": [
     {
       "dir": "0x0",
@@ -9327,6 +9327,27 @@
       "downloads": 772
     },
     {
+      "dir": "cold-turkey-blocker",
+      "name": "cold-turkey-blocker",
+      "title": "Cold Turkey Blocker",
+      "description": "Manage Cold Turkey blocks, create them with optional initial websites and exceptions, and control starts, locks, device schedules, and breaks.",
+      "author": "nabecite",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker",
+      "treeSha": "b32e7734e4dcf3508aff87f09649136d55ceda2b",
+      "downloads": null
+    },
+    {
       "dir": "colima",
       "name": "colima",
       "title": "Colima",
@@ -9428,7 +9449,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499040
+      "downloads": 499108
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21362,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487540
+      "downloads": 487615
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27598,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 655826
+      "downloads": 655906
     },
     {
       "dir": "kimai",
@@ -34429,7 +34450,7 @@
       "store": "https://www.raycast.com/stiven_gonzalez/mule-secure-properties",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties",
       "treeSha": "86fff1599283a14381093bd6e8c37b09e9b19a35",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "mullvad",

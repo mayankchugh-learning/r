@@ -1,6 +1,6 @@
 # Windows · Productivity
 
-335 extensions · [← Windows](../README.md)
+336 extensions · [← Windows](../README.md)
 
 ## Organize & Plan
 
@@ -9,7 +9,7 @@
 | [Tasks & To-Dos](./tasks-to-dos.md) | 17 |
 | [Calendar & Scheduling](./calendar-scheduling.md) | 7 |
 | [Notes & Knowledge](./notes-knowledge.md) | 12 |
-| [Time Tracking & Focus](./time-tracking-focus.md) | 3 |
+| [Time Tracking & Focus](./time-tracking-focus.md) | 4 |
 
 ## Write & Create
 

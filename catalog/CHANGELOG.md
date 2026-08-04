@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `2a6ea1624f`
+
+**Added (1):** [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker)
+
 ## 2026-08-04 — upstream `ecb91d1f82`
 
 **Updated (1):** [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons)

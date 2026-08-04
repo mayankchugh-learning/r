@@ -2,12 +2,13 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · **N** · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-74 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+75 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [n_seiji](https://www.raycast.com/n_seiji) | 1 | 41 | **Productivity:** [Vanishlink](https://github.com/raycast/extensions/tree/main/extensions/vanishlink) |
 | [n-winspear](https://www.raycast.com/n-winspear) | 1 | 8 | **Productivity:** [QuickLinker](https://github.com/raycast/extensions/tree/main/extensions/quicklinker) |
+| nabecite | 1 | — | **Productivity:** [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) |
 | [NabhagMotivaras](https://www.raycast.com/NabhagMotivaras) | 1 | 141 | **Productivity:** [Twenty](https://github.com/raycast/extensions/tree/main/extensions/twenty) |
 | [nac-39](https://www.raycast.com/nac-39) | 1 | 58 | **Developer Tools:** [Tex2Typst](https://github.com/raycast/extensions/tree/main/extensions/tex2typst) |
 | [nagauta](https://www.raycast.com/nagauta) | 3 | 687 | **Productivity:** [Sequel Ace](https://github.com/raycast/extensions/tree/main/extensions/sequel-ace)<br>**Applications:** [Nippon Colors](https://github.com/raycast/extensions/tree/main/extensions/nippon-colors)<br>**Communication:** [Chatwork Search](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) |

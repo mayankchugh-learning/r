@@ -1,8 +1,8 @@
 # Time Tracking & Focus
 
-24 extensions · [← Productivity](./README.md)
+25 extensions · [← Productivity](./README.md)
 
-[Timer ✦](#timer) (11) · [Focus ✦](#focus) (7) · [General](#general) (6)
+[Timer ✦](#timer) (11) · [Focus ✦](#focus) (7) · [Breaks ✦](#breaks) (4) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -34,13 +34,19 @@
 | [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist) | 91 | Ambient sound mixer for focus and relaxation. Layer multiple sounds, save presets, and control from your menu bar. | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/moodist) |
 | [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 5 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
 
+## Breaks ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 953 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
+| [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 897 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |
+| [Leave Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/leave-time-calculator) | 29 | Calculate your leave time based on start time and break duration | harunonsystem | macOS | [store](https://www.raycast.com/harunonsystem/leave-time-calculator) |
+| [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) | — | Manage Cold Turkey blocks, create them with optional initial websites and exceptions, and control starts, locks, device schedules, and breaks. | nabecite | macOS, Windows | — |
+
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,610 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
 | [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,086 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
-| [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 953 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
-| [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 897 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |
 | [42 Api Tools](https://github.com/raycast/extensions/tree/main/extensions/42-api) | 35 | Track your logtime and find peers in 42 school clusters directly from Raycast | maujogue | macOS, Windows | [store](https://www.raycast.com/maujogue/42-api) |
-| [Leave Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/leave-time-calculator) | 29 | Calculate your leave time based on start time and break duration | harunonsystem | macOS | [store](https://www.raycast.com/harunonsystem/leave-time-calculator) |
