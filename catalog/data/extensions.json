@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "af37a5aad1b8f921a120632fdf9309138d275faf",
-  "generatedAt": "2026-08-04T11:30:04.244Z",
-  "downloadsRefreshedAt": "2026-08-04T11:30:03.640Z",
+  "commit": "ecb91d1f8273efdcdd5f27a21053cb6a65e48c52",
+  "generatedAt": "2026-08-04T11:54:30.560Z",
+  "downloadsRefreshedAt": "2026-08-04T11:54:30.182Z",
   "count": 3145,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499028
+      "downloads": 499040
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487525
+      "downloads": 487540
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 655813
+      "downloads": 655826
     },
     {
       "dir": "kimai",
@@ -59682,7 +59682,6 @@
       "contributors": 0,
       "categories": [
         "Web",
-        "Communication",
         "Productivity"
       ],
       "manifestCategorized": true,
@@ -59692,7 +59691,7 @@
       ],
       "store": "https://www.raycast.com/dharmendra/udemy-coupons",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons",
-      "treeSha": "ae246ad8c407b12255b6e7c77fc11eb14e6c786e",
+      "treeSha": "3c04e9ac5d41ab2cf349742e130d725b0fc91b67",
       "downloads": 301
     },
     {

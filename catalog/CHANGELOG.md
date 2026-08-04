@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `ecb91d1f82`
+
+**Updated (1):** [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons)
+
 ## 2026-08-04 — upstream `af37a5aad1`
 
 **Updated (1):** [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)

@@ -1,6 +1,6 @@
 # General
 
-47 extensions · [← Communication](./README.md)
+46 extensions · [← Communication](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,6 @@
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 375 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
 | [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) | 364 | Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing. | valenradovich | macOS | [store](https://www.raycast.com/valenradovich/grammaring) |
 | [GitHub Users Search](https://github.com/raycast/extensions/tree/main/extensions/github-users) | 359 | Search GitHub users | luisFilipePT | macOS | [store](https://www.raycast.com/luisFilipePT/github-users) |
-| [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 301 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
 | [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya) | 281 | Manage emails through Himalaya CLI | jns | macOS | [store](https://www.raycast.com/jns/himalaya) |
 | [Ask Notis](https://github.com/raycast/extensions/tree/main/extensions/notis) | 279 | Capture, organize, and find anything for you in your Notion workspace. | mindtheflo | macOS | [store](https://www.raycast.com/mindtheflo/notis) |
 | [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 267 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |

@@ -1,8 +1,8 @@
 # Cross-platform · Communication
 
-49 extensions · [← Cross-platform](../README.md)
+48 extensions · [← Cross-platform](../README.md)
 
-[Messaging & Chat](#messaging-chat) (9) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (11) · [Social & Fediverse](#social-fediverse) (3) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (2) · [General](#general) (17)
+[Messaging & Chat](#messaging-chat) (9) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (11) · [Social & Fediverse](#social-fediverse) (3) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (2) · [General](#general) (16)
 
 ## Conversations
 
@@ -94,7 +94,6 @@
 | [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,120 | Manage API Keys and Domains, and Send Emails using Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 764 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 | [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 568 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
-| [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 301 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 127 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
 | [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 93 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
 | [Purelymail](https://github.com/raycast/extensions/tree/main/extensions/purelymail) | 63 | Manage Purelymail - Domains, Users, Routing Rules and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/purelymail) |
