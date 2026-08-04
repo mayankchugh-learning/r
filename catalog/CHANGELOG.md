@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `1ac4d5a9c5`
+
+**Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
+
 ## 2026-08-04 — upstream `0db64df6e9`
 
 **Added (1):** [Mule Secure Properties](https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties)

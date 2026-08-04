@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 253,535 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 253,572 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
 | [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 31,884 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
 | [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,581 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
 | [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,004 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
