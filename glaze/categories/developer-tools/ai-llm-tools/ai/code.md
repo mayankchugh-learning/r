@@ -13,8 +13,8 @@
 | [SEOInspector](https://www.glaze.app/app/FwJNp5) | 10 | Every SEO check your site needs | Dmytro Lobov | 8.0.0 | 741 KB | 2026-07-31 |
 | [Treehouse](https://www.glaze.app/app/c7UeuV) | 9 | Git worktrees, without the friction. | Alyssa Holland | 7.0.0 | 1.2 MB | 2026-07-30 |
 | [Code Duel](https://www.glaze.app/app/Vu61vP) | 6 | Solve real-world coding challenges | Ralbright | 1.0.0 | 288 KB | 2026-07-02 |
+| [Telltale](https://www.glaze.app/app/ZPeaME) | 6 | See your Mac's state. Don't read it. | Adithya Jayasankar | 11.0.0 | 138 KB | 2026-07-30 |
 | [Prompt Guy](https://www.glaze.app/app/LF9DgA) | 5 | Engineer and manage prompts locally | M.Hilgert | 1.0.0 | 91 KB | 2026-07-13 |
 | [Text Capture](https://www.glaze.app/app/2ZwhpN) | 5 | Extract text from any screen area | Michael O'Sullivan | 2.0.0 | 60 KB | 2026-07-15 |
-| [Telltale](https://www.glaze.app/app/ZPeaME) | 4 | See your Mac's state. Don't read it. | Adithya Jayasankar | 11.0.0 | 138 KB | 2026-07-30 |
 | [PlainType](https://www.glaze.app/app/zUfgFg) | 3 | Formatting in, plain text out | Jason Csizmadi | 1.0.0 | 62 KB | 2026-07-03 |
 | [Sigil](https://www.glaze.app/app/lrhbBL) | 3 | Know which SSH key your Mac will use | egill smari | 1.0.0 | 79 KB | 2026-07-28 |

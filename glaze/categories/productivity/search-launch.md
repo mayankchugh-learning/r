@@ -7,8 +7,8 @@
 | [Step Guide](https://www.glaze.app/app/58NLvW) | 29 | Execute workflows one step at a time | Bakari Chavanu | 1.0.0 | 67 KB | 2026-06-28 |
 | [Sheet Viewer](https://www.glaze.app/app/mNoKcf) | 22 | Minimalistic Excel | Kush Thakker | 1.0.0 | 463 KB | 2026-07-03 |
 | [X Search](https://www.glaze.app/app/tjeqT2) | 18 | The fastest way to find anything on X | Daniel | 3.0.0 | 253 KB | 2026-07-29 |
+| [Recommand](https://www.glaze.app/app/ZDQIep) | 14 | Quick app switching with Right Command | Florentin Eckl | 12.0.0 | 2.7 MB | 2026-07-30 |
 | [Wheel Launcher](https://www.glaze.app/app/SmYxn5) | 14 | Quick app switching | ajnart | 1.0.0 | 72 KB | 2026-06-20 |
-| [Recommand](https://www.glaze.app/app/ZDQIep) | 13 | Quick app switching with Right Command | Florentin Eckl | 12.0.0 | 2.7 MB | 2026-07-30 |
 | [FlowTime](https://www.glaze.app/app/uB17ag) | 9 | Compare global time zones at a glance | Roxana⚡️ | 2.0.0 | 68 KB | 2026-07-28 |
 | [License Vault](https://www.glaze.app/app/pGkhli) | 9 | Quick access to your software licenses | syn | 2.0.0 | 160 KB | 2026-06-28 |
 | [The Jarvis](https://www.glaze.app/app/8pGlBl) | 9 | Voice commands for your workflows 🤖 | Petar Stoyanov | 3.0.0 | 74 KB | 2026-07-04 |

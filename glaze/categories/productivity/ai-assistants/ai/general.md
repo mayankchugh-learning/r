@@ -5,7 +5,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Moni](https://www.glaze.app/app/BDcrao) | 47 | Track your spending. Set budgets. See where your money goes. Import CSV bank statements or add transactions manually. No bank connection required. Op… | Kristina Loewen | 10.0.1 | 4.1 MB | 2026-04-09 |
-| [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) | 23 | Create custom Yoto cards from your media | Sonia Kahn | 6.0.0 | 19.9 MB | 2026-08-03 |
+| [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) | 24 | Create custom Yoto cards from your media | Sonia Kahn | 6.0.0 | 19.9 MB | 2026-08-03 |
 | [Gloss](https://www.glaze.app/app/wkIuar) | 14 | Tell Gloss what you want to learn | Abed | 8.0.0 | 216 KB | 2026-07-31 |
 | [Lore](https://www.glaze.app/app/KfX7wd) | 6 | Search your folders with AI instantly | Werner Deuermeier | 3.0.0 | 1.8 MB | 2026-07-28 |
 | [Recall](https://www.glaze.app/app/oiluiq) | 5 | AI-powered spaced repetition for | Ludvig | 1.0.0 | 1.2 MB | 2026-07-24 |

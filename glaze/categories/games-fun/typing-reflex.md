@@ -9,4 +9,4 @@
 | [TapSense](https://www.glaze.app/app/YVEeWb) | 3 | Measure your reaction time and rhythm | Srinivas Jonna | 1.0.0 | 48 KB | 2026-05-01 |
 | [Hoops](https://www.glaze.app/app/FhuF5w) | 1 | Throw some hoops ! | Soeren.Poppe | 1.0.0 | 33 KB | 2026-07-27 |
 | [Lero Lero](https://www.glaze.app/app/8DA6Ry) | 0 | Generate hilarious tech jokes instantly | Olavo Parno | 1.0.0 | 62 KB | 2026-07-18 |
-| [Pixel Strike](https://www.glaze.app/app/pixel-strike-glslft) | 0 | Click pixel figures to strike them with | VollBio | 1.0.0 | 58 KB | 2026-08-02 |
+| [Pixel Strike](https://www.glaze.app/app/glslft) | 0 | Click pixel figures to strike them with | VollBio | 1.0.0 | 58 KB | 2026-08-02 |

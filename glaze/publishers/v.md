@@ -13,8 +13,8 @@
 | Vapa | 1 | 19 | [T-yperminator](https://www.glaze.app/app/S7MTRH) *(Games & Fun)* |
 | Vassil.Krumov | 1 | 1 | [Grid Pass](https://www.glaze.app/app/o97qMc) *(Productivity)* |
 | veloi | 1 | 4 | [Tuck](https://www.glaze.app/app/sO1HdY) *(Productivity)* |
-| Vicbringas | 1 | 5 | [Manuscript](https://www.glaze.app/app/8l5TMB) *(Productivity)* |
-| Víctor Navarro | 3 | 59 | [Posture Pod](https://www.glaze.app/app/vEXG8w) *(Productivity)*, [Video Wallpaper](https://www.glaze.app/app/OxrCyA) *(Utilities)*, [Browser Redirects](https://www.glaze.app/app/fSuxOo) *(Developer Tools)* |
+| Vicbringas | 1 | 6 | [Manuscript](https://www.glaze.app/app/8l5TMB) *(Productivity)* |
+| Víctor Navarro | 3 | 60 | [Posture Pod](https://www.glaze.app/app/vEXG8w) *(Productivity)*, [Video Wallpaper](https://www.glaze.app/app/OxrCyA) *(Utilities)*, [Browser Redirects](https://www.glaze.app/app/fSuxOo) *(Developer Tools)* |
 | Vidura Gunawardana | 1 | 1 | [Monocle](https://www.glaze.app/app/4a0H2k) *(Utilities)* |
 | Vikram Aggarwal | 1 | 4 | [Discount Scout](https://www.glaze.app/app/b6Z3K4) *(Productivity)* |
 | Vincent de Lagabbe | 1 | 53 | [Tap Beats](https://www.glaze.app/app/uIyOY5) *(Media)* |
@@ -24,12 +24,12 @@
 | Vira Tkachenko | 1 | 8 | [Paint Studio](https://www.glaze.app/app/BXfWqp) *(Design)* |
 | Vishwanath Mathpati | 1 | 3 | [Stay Focus](https://www.glaze.app/app/4fKCfc) *(Productivity)* |
 | Vitaly Veber | 1 | 19 | [Strudel Studio](https://www.glaze.app/app/HCgGlV) *(Developer Tools)* |
-| Vlad Bahara | 1 | 58 | [Amber](https://www.glaze.app/app/amber-vZzCwc) *(Lifestyle)* |
+| Vlad Bahara | 1 | 59 | [Amber](https://www.glaze.app/app/amber-vZzCwc) *(Lifestyle)* |
 | Vladimirkorolev0 | 1 | 1 | [Autopilot](https://www.glaze.app/app/c7aV6t) *(Developer Tools)* |
 | Vladislav Markov | 1 | 3 | [Downshift](https://www.glaze.app/app/g289AH) *(Utilities)* |
 | Vladislav Volkhonskii | 1 | 19 | [Crate](https://www.glaze.app/app/BZS01f) *(Media)* |
 | vo1dee | 1 | 1 | [Pocket Dancer](https://www.glaze.app/app/X5YflW) *(Media)* |
-| VollBio | 2 | 2 | [Uncertainty Calculator](https://www.glaze.app/app/uncertainty-calculator-2hemh6) *(Productivity)*, [Pixel Strike](https://www.glaze.app/app/pixel-strike-glslft) *(Games & Fun)* |
+| VollBio | 2 | 2 | [Uncertainty Calculator](https://www.glaze.app/app/uncertainty-calculator-2hemh6) *(Productivity)*, [Pixel Strike](https://www.glaze.app/app/glslft) *(Games & Fun)* |
 | Volodymyr | 1 | 1 | [Perly.io](https://www.glaze.app/app/RsLTkW) *(Utilities)* |
 | Vova | 1 | 4 | [Picked](https://www.glaze.app/app/CICev7) *(Games & Fun)* |
 | vovayaa | 1 | 7 | [dropsize](https://www.glaze.app/app/XM2TL3) *(Utilities)* |

@@ -1,12 +1,12 @@
 # Nichlas Wærnes Andersen
 
-5 apps · 1,050 installs · [← publishers](../README.md)
+5 apps · 1,051 installs · [← publishers](../README.md)
 
 ## Developer Tools (2)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 713 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 111 KB | 2026-04-15 |
+| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 714 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 111 KB | 2026-04-15 |
 | [CoWorker](https://www.glaze.app/app/rJNjmM) | 48 | Code with ambient office typing sounds | Nichlas Wærnes Andersen | 3.0.0 | 5.1 MB | 2026-05-08 |
 
 ## Productivity (2)

@@ -18,7 +18,7 @@
 | neromtoobad | 1 | 19 | [CLIP IT](https://www.glaze.app/app/IhoT2V) *(Developer Tools)* |
 | Niall | 2 | 110 | [Brui](https://www.glaze.app/app/eOPXRV) *(Developer Tools)*, [Concert Log](https://www.glaze.app/app/bBj9yY) *(Lifestyle)* |
 | Nichlas L-D | 1 | 1 | [Brønnøysund Search](https://www.glaze.app/app/YNvNnf) *(Utilities)* |
-| [Nichlas Wærnes Andersen](./id/nichlas-w-rnes-andersen.md) | 5 | 1,050 | [see all 5 →](./id/nichlas-w-rnes-andersen.md) |
+| [Nichlas Wærnes Andersen](./id/nichlas-w-rnes-andersen.md) | 5 | 1,051 | [see all 5 →](./id/nichlas-w-rnes-andersen.md) |
 | Nicholas | 2 | 6 | [Squish](https://www.glaze.app/app/squish-cWRtaY) *(Utilities)*, [Crop](https://www.glaze.app/app/lGQeJB) *(Utilities)* |
 | Nicholas Lortz | 1 | 2 | [Construction Drawing Tracker](https://www.glaze.app/app/a5cQZS) *(Productivity)* |
 | Nick Hart | 1 | 10 | [SoloTrack](https://www.glaze.app/app/cvMkSD) *(Productivity)* |
@@ -30,7 +30,7 @@
 | Nicolas Schmidt | 1 | 7 | [Scratch Pad](https://www.glaze.app/app/JfEggl) *(Productivity)* |
 | Nihar | 1 | 3 | [Floating Lofi Timer](https://www.glaze.app/app/qG16XJ) *(Productivity)* |
 | Niharika pundlik | 1 | 7 | [Trace](https://www.glaze.app/app/lSvA7M) *(Productivity)* |
-| Nikhil | 1 | 12 | [Relay](https://www.glaze.app/app/mvjsAA) *(Developer Tools)* |
+| Nikhil | 1 | 13 | [Relay](https://www.glaze.app/app/mvjsAA) *(Developer Tools)* |
 | Nikki Nguyen | 1 | 3 | [Inspired](https://www.glaze.app/app/uNUgMN) *(Productivity)* |
 | Niklas Arhöfer | 1 | 4 | [StreamingTracker](https://www.glaze.app/app/3NCxki) *(Media)* |
 | Niklas Hohn | 1 | 3 | [Mailchat](https://www.glaze.app/app/doRr2i) *(Productivity)* |
@@ -40,7 +40,7 @@
 | Nitrous | 1 | 9 | [Specimen](https://www.glaze.app/app/L1APKo) *(Design)* |
 | Noah Czelusta | 1 | 7 | [Break Time](https://www.glaze.app/app/f5AsqN) *(Productivity)* |
 | Noah Lloyd | 1 | 20 | [YouTube Video Downloader](https://www.glaze.app/app/N3FDOF) *(Utilities)* |
-| Noman | 2 | 336 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) *(Design)*, [Taken](https://www.glaze.app/app/7ZhgBb) *(Utilities)* |
+| Noman | 2 | 350 | [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) *(Design)*, [Taken](https://www.glaze.app/app/7ZhgBb) *(Utilities)* |
 | Noud Adrichem | 1 | 10 | [Diffable](https://www.glaze.app/app/ijgHph) *(Developer Tools)* |
 | npurja | 1 | 5 | [Type In Motion](https://www.glaze.app/app/tuIhlE) *(Design)* |
 | Nurkamol Vakhidov | 3 | 31 | [FlareDesk](https://www.glaze.app/app/2kFpvb) *(Developer Tools)*, [Replay](https://www.glaze.app/app/4fgahp) *(Utilities)*, [Quarantine Manager](https://www.glaze.app/app/Mpbkzr) *(Utilities)* |

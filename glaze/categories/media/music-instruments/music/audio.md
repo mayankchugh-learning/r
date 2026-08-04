@@ -8,8 +8,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Soniqq](https://www.glaze.app/app/Z5udq4) | 14 | Retro music with custom visuals | João Neves | 7.0.0 | 58 KB | 2026-04-27 |
 | [VibeTracker](https://www.glaze.app/app/iMP1xj) | 10 | Track your beats, master your music | João Neves | 1.0.0 | 59 KB | 2026-06-05 |
+| [mvt - Music Viz Tool](https://www.glaze.app/app/mvt-music-viz-tool-7CE4oc) | 7 | 00’s-Style Music Visualization App 💪 | Randy Pitcher II | 2.0.0 | 89 KB | 2026-08-04 |
 | [MenuTune](https://www.glaze.app/app/dg8YWS) | 4 | Control music right from your menu. | discountry | 1.0.0 | 163 KB | 2026-07-04 |
-| [mvt - Music Viz Tool](https://www.glaze.app/app/mvt-music-viz-tool-7CE4oc) | 4 | 00’s-Style Music Visualization App 💪 | Randy Pitcher II | 1.0.0 | 89 KB | 2026-08-03 |
 | [Eternal Return](https://www.glaze.app/app/eternal-return-hUd8Xj) | 3 | Loops changing sounds through time | Davidestevens | 3.0.0 | 101 KB | 2026-08-03 |
 | [Cue Master](https://www.glaze.app/app/qP6LN2) | 2 | Cueing for Live Shows - Made Easy | Ziggy Bornas | 1.0.0 | 91 KB | 2026-07-27 |
 | [Vinyl](https://www.glaze.app/app/lD6nEv) | 2 | Vinyl audio visualiser for your music | Majesticwalrusz | 1.0.0 | 82 KB | 2026-07-23 |

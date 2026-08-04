@@ -2,12 +2,12 @@
 
 [A](./a.md) · [B](./b.md) · **C** · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-158 apps · [← Glaze catalog](../README.md)
+159 apps · [← Glaze catalog](../README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 855 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
-| [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 401 | Analog warmth meets digital synthesis | Combustion Studio | 7.0.0 | 1.4 MB | 2026-07-17 |
+| [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) | 856 | Monitor Claude Pro usage and reset time | Boufford | 13.0.0 | 68 KB | 2026-07-29 |
+| [CS Glaze Synth](https://www.glaze.app/app/9TGenH) | 402 | Analog warmth meets digital synthesis | Combustion Studio | 7.0.0 | 1.4 MB | 2026-07-17 |
 | [Curves](https://www.glaze.app/app/a8OtIv) | 112 | Browse, compare and create bezier curves visually to find the perfect easing function for your design | Thomas Paul Mann | 2.0.1 | 184 KB | 2026-03-18 |
 | [Countdown Widget](https://www.glaze.app/app/Z15mua) | 68 | Track every moment until it arrives | Nichlas Wærnes Andersen | 4.0.0 | 66 KB | 2026-04-15 |
 | [Compressor](https://www.glaze.app/app/rISkCt) | 65 | Compress videos in seconds, any quality | Thomas Paul Mann | 3.0.0 | 64 KB | 2026-07-01 |
@@ -23,10 +23,10 @@
 | [Cleanup](https://www.glaze.app/app/ZeU0rI) | 26 | Scan, sort and cleanup your files | Benjy.desprets | 5.0.1 | 630 KB | 2026-03-26 |
 | [Compresso](https://www.glaze.app/app/PvRxIA) | 22 | Shrink images and GIFs fast | Jac Peregrine-Davies | 4.0.0 | 44 KB | 2026-04-13 |
 | [Convert](https://www.glaze.app/app/lSbAX2) | 21 | Instantly convert any files, any format | Sahil Patel | 1.0.0 | 176.8 MB | 2026-07-09 |
+| [Claudelog](https://www.glaze.app/app/3pBqWZ) | 20 | Harness your Claude Code sessions | Josh Davenport-Smith | 4.0.0 | 136 KB | 2026-07-27 |
 | [ClockScreen](https://www.glaze.app/app/x4d5qo) | 20 | Your Mac's display, reimagined your way | Will Fischer | 13.0.0 | 629 KB | 2026-07-28 |
 | [Capture Studio](https://www.glaze.app/app/0c5CW4) | 19 | Simple screen recording for creators. | Philipp.Herzig | 1.0.0 | 68 KB | 2026-06-27 |
 | [Claude Monitor](https://www.glaze.app/app/bdjdQb) | 19 | Track Claude API usage in real time | Jon Martin Stuberg | 1.0.0 | 62 KB | 2026-07-10 |
-| [Claudelog](https://www.glaze.app/app/3pBqWZ) | 19 | Harness your Claude Code sessions | Josh Davenport-Smith | 4.0.0 | 136 KB | 2026-07-27 |
 | [CLIP IT](https://www.glaze.app/app/IhoT2V) | 19 | Record your screen. Ship it polished. | neromtoobad | 10.0.0 | 15.1 MB | 2026-07-27 |
 | [Cloudflare Drop](https://www.glaze.app/app/a6H1CL) | 19 | Share files instantly with Cloudflare | Brandon Strittmatter | 2.0.0 | 490 KB | 2026-07-14 |
 | [Crate](https://www.glaze.app/app/BZS01f) | 19 | Your analog collection, organized | Vladislav Volkhonskii | 3.0.0 | 597 KB | 2026-07-07 |
@@ -43,18 +43,18 @@
 | [Clean Your Mac](https://www.glaze.app/app/QwRrMO) | 14 | Safely remove unused files and apps | GYEONGMO KIM | 2.0.0 | 67 KB | 2026-07-12 |
 | [Click Counter](https://www.glaze.app/app/oOdff8) | 14 | Track every click on your computer | Jordan Amblin | 2.0.0 | 49 KB | 2026-04-16 |
 | [Chromate](https://www.glaze.app/app/6cx0ui) | 13 | Convert colors, any format, instantly | Sean Thomas Stuart | 1.0.0 | 73 KB | 2026-07-02 |
+| [Copy Shelf](https://www.glaze.app/app/DO5ttX) | 13 | Bring back what you copied | Sabik Biswas | 1.0.0 | 80 KB | 2026-07-28 |
+| [Copy That](https://www.glaze.app/app/QYtGUY) | 13 | Copy the uncopyable | Andrew Lindstrom | 2.0.0 | 324 KB | 2026-07-28 |
 | [Clip That!](https://www.glaze.app/app/h1OVuq) | 12 | Save motion inspiration from any video. | Lefty | 5.0.0 | 633 KB | 2026-07-29 |
 | [CodeCanvas](https://www.glaze.app/app/r9V0pc) | 12 | Visual node map for your local codebase. | OM CHANDANKAR | 1.0.0 | 69 KB | 2026-07-27 |
 | [Collect](https://www.glaze.app/app/eG7IS4) | 12 | Save what matters, and review them later | Trueman | 1.0.0 | 3.8 MB | 2026-07-01 |
 | [Command X](https://www.glaze.app/app/rKoO7f) | 12 | Cut/paste using Command+X and Command+V | Danylo Zalizchuk | 1.0.0 | 63 KB | 2026-06-29 |
-| [Copy Shelf](https://www.glaze.app/app/DO5ttX) | 12 | Bring back what you copied | Sabik Biswas | 1.0.0 | 80 KB | 2026-07-28 |
 | [Cursor Cube](https://www.glaze.app/app/38i83u) | 12 | Solve a Rubik's Cube while you wait | Erik Blomqvist | 2.0.0 | 159 KB | 2026-07-08 |
 | [CineRoulette](https://www.glaze.app/app/PogX5d) | 11 | Letterboxd Movie Picker | Paul Seagull | 1.0.0 | 60 KB | 2026-06-30 |
 | [CineSchedule](https://www.glaze.app/app/G1DNgr) | 11 | Never miss what you want to watch | Alexander Gekov | 2.0.0 | 67 KB | 2026-06-19 |
 | [Claude Meter](https://www.glaze.app/app/zyWYVY) | 11 | Monitor Claude API usage limits | Wesam Abuznadah | 1.0.0 | 67 KB | 2026-07-08 |
 | [Clouded](https://www.glaze.app/app/oB6cWu) | 11 | Remember what you want to do. | Saurishs1215 | 3.0.0 | 423 KB | 2026-07-28 |
 | [Codex Report](https://www.glaze.app/app/VXld10) | 11 | View code usage stats in menu bar | Ben McMurry | 1.0.0 | 62 KB | 2026-07-07 |
-| [Copy That](https://www.glaze.app/app/QYtGUY) | 11 | Copy the uncopyable | Andrew Lindstrom | 2.0.0 | 324 KB | 2026-07-28 |
 | [Chirp Chirrup](https://www.glaze.app/app/2z2j75) | 10 | Discover birds in your area by season | Pavlo Haidamak | 3.0.0 | 116 KB | 2026-07-16 |
 | [Chord Visualizer](https://www.glaze.app/app/1uSWup) | 10 | See every chord shape on your fretboard | Timur Turianytsia | 1.0.0 | 84 KB | 2026-07-16 |
 | [Chords](https://www.glaze.app/app/9tzIy4) | 10 | Keep track of your repertoire | Aydin Genchsoy | 3.0.0 | 2.5 MB | 2026-07-13 |
@@ -82,6 +82,7 @@
 | [Container](https://www.glaze.app/app/qRcAZy) | 6 | Manage containers from your menu bar | Martin.Enzinger | 4.0.0 | 95 KB | 2026-07-03 |
 | [Contextphobia for Claude Code](https://www.glaze.app/app/PhIHl7) | 6 | Tokens per session in your menubar | Aseem Taneja | 3.0.0 | 40 KB | 2026-07-06 |
 | [Caps Blink](https://www.glaze.app/app/ZBKtA9) | 5 | Turn Caps Lock into a Codex status light | vansh | 1.0.0 | 86 KB | 2026-07-27 |
+| [Cehua](https://www.glaze.app/app/osrdrz) | 5 | The fastest path from thought to plan. | Akanbi Toheeb | 1.0.0 | 2.1 MB | 2026-07-28 |
 | [Celly](https://www.glaze.app/app/dPRQz9) | 5 | Edit and explore CSV files with ease | Liel Azulay | 4.0.0 | 489 KB | 2026-07-27 |
 | [Clipboard](https://www.glaze.app/app/Ckewdc) | 5 | Your clipboard history, always at hand | Riche-Fitte Tristan | 2.0.0 | 65 KB | 2026-07-24 |
 | [Clipboard History](https://www.glaze.app/app/bmzUaY) | 5 | Access your clipboard history instantly | Birzhan Abishev | 1.0.0 | 61 KB | 2026-07-01 |
@@ -94,7 +95,6 @@
 | [Canvas Audio](https://www.glaze.app/app/PFiJ1z) | 4 | Arrange audio simply and intuitively | Davidestevens | 18.0.0 | 160 KB | 2026-08-01 |
 | [Card Vault](https://www.glaze.app/app/OZEFGP) | 4 | Flashcards from your plain text files | Neeldhara Misra | 1.0.0 | 7.3 MB | 2026-07-28 |
 | [Cartographer](https://www.glaze.app/app/LyllLm) | 4 | Visual file navigation made simple. | Jstlykdat | 2.0.0 | 86 KB | 2026-07-27 |
-| [Cehua](https://www.glaze.app/app/osrdrz) | 4 | The fastest path from thought to plan. | Akanbi Toheeb | 1.0.0 | 2.1 MB | 2026-07-28 |
 | [Cherish](https://www.glaze.app/app/VlIhRC) | 4 | Belongings Management Tool | Ting Chun Wang | 2.0.0 | 2.1 MB | 2026-07-27 |
 | [Chess Board Battle](https://www.glaze.app/app/cYLkAx) | 4 | Master chess tactics in competitive | X9 | 2.0.0 | 588 KB | 2026-07-28 |
 | [ChromaKit](https://www.glaze.app/app/dIpDYs) | 4 | Discover harmonious colors instantly | Dinil Thilakarathne | 2.0.0 | 124 KB | 2026-07-28 |
@@ -125,31 +125,33 @@
 | [CSV to JSON](https://www.glaze.app/app/kJbs0Y) | 3 | Convert CSV or TSV files to JSON | Eric Cheung | 1.0.0 | 59 KB | 2026-07-02 |
 | [CUE](https://www.glaze.app/app/2uuKlm) | 3 | Read your notes during calls, unseen | Adrian Luna Diaz | 1.0.0 | 932 KB | 2026-07-04 |
 | [Cabled](https://www.glaze.app/app/KRIVgd) | 2 | Patch your MIDI gear with cables | mcfoton | 2.0.0 | 1.0 MB | 2026-07-26 |
+| [Caffeinate](https://www.glaze.app/app/caffeinate-hjeU4M) | 2 | Keep your Mac awake on your schedule | syn | 2.0.0 | 61 KB | 2026-08-04 |
 | [CaptionMe](https://www.glaze.app/app/ooBJ3t) | 2 | Caption images in seconds, effortlessly. | Rowan Marshall | 1.0.0 | 66 KB | 2026-07-24 |
 | [Capture Text](https://www.glaze.app/app/lANgsC) | 2 | Extract text from anywhere instantly | Lauren | 1.0.0 | 62 KB | 2026-07-03 |
 | [Catch](https://www.glaze.app/app/fb9gYZ) | 2 | Quick capture space in your menubar | Hamza Khan | 1.0.0 | 60 KB | 2026-07-20 |
-| [ChromaEye](https://www.glaze.app/app/P0AfSz) | 2 | Know any color, instantly. | Wil | 1.0.0 | 72 KB | 2026-07-24 |
 | [ClipTidy](https://www.glaze.app/app/xraQAF) | 2 | AI-powered clipboard assistant for your | Sahil Yadav | 2.0.0 | 76 KB | 2026-07-15 |
 | [Clock Face](https://www.glaze.app/app/Eeaypf) | 2 | Always-visible digital clock on screen | Andre Garcia | 2.0.0 | 55 KB | 2026-07-12 |
 | [CodeVault](https://www.glaze.app/app/CqhCSJ) | 2 | Premium code editor with advanced | credesasq | 1.0.0 | 15.5 MB | 2026-07-25 |
 | [Construction Drawing Tracker](https://www.glaze.app/app/a5cQZS) | 2 | Track construction drawings by project, | Nicholas Lortz | 1.0.0 | 100 KB | 2026-07-28 |
+| [ContextShelf](https://www.glaze.app/app/OMbGyo) | 2 | Intelligent staging ground for clips | Michael O'Sullivan | 6.0.0 | 2.1 MB | 2026-07-26 |
 | [Contrasty](https://www.glaze.app/app/KBTe9V) | 2 | Check WCAG compliance easily | Sven | 1.0.0 | 58 KB | 2026-07-02 |
 | [Crop](https://www.glaze.app/app/lGQeJB) | 2 | Design layouts in seconds, not hours | Nicholas | 5.0.0 | 98 KB | 2026-07-28 |
 | [Cue Master](https://www.glaze.app/app/qP6LN2) | 2 | Cueing for Live Shows - Made Easy | Ziggy Bornas | 1.0.0 | 91 KB | 2026-07-27 |
 | [Cura](https://www.glaze.app/app/HP0tKT) | 2 | Switch Cursor accounts without friction | Erbil Nas | 6.0.0 | 70 KB | 2026-07-13 |
 | [Currency Converter](https://www.glaze.app/app/mPmaas) | 2 | Convert currencies instantly | fkhwaja | 1.0.0 | 47 KB | 2026-05-28 |
 | [Camera Offload (for Sony)](https://www.glaze.app/app/TwywQS) | 1 | Auto-offload Sony camera footage from SD | benmjsim | 3.0.0 | 65 KB | 2026-07-06 |
+| [Capture](https://www.glaze.app/app/odVkOm) | 1 | Save every moment that matters. | Prithav Jha | 2.0.0 | 83 KB | 2026-07-27 |
 | [Catfish](https://www.glaze.app/app/MyJzAn) | 1 | Game to learn phishing awareness | Kreela | 1.0.0 | 79 KB | 2026-07-23 |
 | [Claim Finder](https://www.glaze.app/app/51G14Q) | 1 | Discover your unclaimed settlement | Utkarsh Bhardwaj | 1.0.0 | 67 KB | 2026-07-26 |
 | [ClearCall](https://www.glaze.app/app/uhHWh8) | 1 | Enhance call audio in real time | Cezar | 1.0.0 | 190 KB | 2026-07-27 |
 | [ClipBins](https://www.glaze.app/app/JBkMkO) | 1 | Organized clipboard items for macOS | Icha Victory | 1.0.0 | 75 KB | 2026-07-26 |
 | [Clipboard Share](https://www.glaze.app/app/eelDDd) | 1 | Share clipboard content as public | Peter Theill | 1.0.0 | 58 KB | 2026-07-06 |
 | [Clipboard View](https://www.glaze.app/app/GEg8HJ) | 1 | View clipboard contents on your desktop | Lee Sherman | 7.0.0 | 72 KB | 2026-08-03 |
+| [cmprssr](https://www.glaze.app/app/cmprssr-cUtDHN) | 1 | cDNG compressor | art.WORK | 1.0.0 | 68 KB | 2026-08-04 |
 | [Command Runner](https://www.glaze.app/app/oQOwCc) | 1 | Run scripts anywhere, instantly | S.Peacock | 3.0.0 | 65 KB | 2026-07-28 |
 | [Comply](https://www.glaze.app/app/VrFiB2) | 1 | Automate your SOC2 certification | Shreyans Bhansali | 1.0.0 | 95 KB | 2026-07-27 |
 | [Concert Log](https://www.glaze.app/app/bBj9yY) | 1 | Track and relive your concert memories | Niall | 1.0.0 | 56 KB | 2026-06-15 |
 | [Conference Hub](https://www.glaze.app/app/mZEeCf) | 1 | Track AI/ML conferences and key dates | Charles Ji | 1.0.0 | 158 KB | 2026-07-09 |
-| [ContextShelf](https://www.glaze.app/app/OMbGyo) | 1 | Intelligent staging ground for clips | Michael O'Sullivan | 6.0.0 | 2.1 MB | 2026-07-26 |
 | [Cortex](https://www.glaze.app/app/lA4t5y) | 1 | Your private digital memory storage | Aurélien Pénavaire | 1.0.0 | 186 KB | 2026-07-27 |
 | [CSV Viewer](https://www.glaze.app/app/cynseM) | 1 | Filter and view large CSV files | Joe Chen | 1.0.0 | 63 KB | 2026-07-15 |
 | [Cull](https://www.glaze.app/app/pCwJOf) | 1 | Quickly review media. Keep what matters. | Kami | 4.0.0 | 96 KB | 2026-07-28 |
@@ -157,7 +159,6 @@
 | [Calculator - Demo](https://www.glaze.app/app/y9bE2a) | 0 | Calculate numbers instantly | Setthapong Kiankhao | 1.0.0 | 58 KB | 2026-07-15 |
 | [Campfires NB](https://www.glaze.app/app/ARGRWo) | 0 | Check campfire restrictions and weather | Jonathan Millar | 1.0.0 | 70 KB | 2026-07-07 |
 | [Canvas Collaborate](https://www.glaze.app/app/BNgDdI) | 0 | Design together in real-time | credesasq | 1.0.0 | 85 KB | 2026-07-26 |
-| [Capture](https://www.glaze.app/app/odVkOm) | 0 | Save every moment that matters. | Prithav Jha | 2.0.0 | 83 KB | 2026-07-27 |
 | [Certify](https://www.glaze.app/app/zk7341) | 0 | Request and install SSL certificates | Steingrím Ósá | 1.0.0 | 359 KB | 2026-07-16 |
 | [Claude Notify](https://www.glaze.app/app/qCegNI) | 0 | Claude task updates in real time | 12ian34psn | 1.0.0 | 65 KB | 2026-07-30 |
 | [Clipboard Menu](https://www.glaze.app/app/1gxvnh) | 0 | Quick access to clipboard history | Elisac | 1.0.0 | 57 KB | 2026-07-23 |

@@ -1,6 +1,6 @@
 # Code ✦
 
-9 apps · [← Developer Tools](./README.md)
+10 apps · [← Developer Tools](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -15,3 +15,4 @@
 | [MDed](https://www.glaze.app/app/6WfoWC) | 3 | Real-time markdown reading and editing | Smart King | 3.0.0 | 105 KB | 2026-08-03 |
 | [Source symphony](https://www.glaze.app/app/Ua7EJC) | 2 | Generate music as files change | tyler.earth 🌎 | 3.0.0 | 70 KB | 2026-07-05 |
 | [Comply](https://www.glaze.app/app/VrFiB2) | 1 | Automate your SOC2 certification | Shreyans Bhansali | 1.0.0 | 95 KB | 2026-07-27 |
+| [PR Queue](https://www.glaze.app/app/pr-queue-kGqLAT) | 0 | Track and prioritize pending code | J | 1.0.0 | 74 KB | 2026-08-04 |

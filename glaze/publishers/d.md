@@ -45,10 +45,10 @@
 | Davos639 | 1 | 3 | [sums](https://www.glaze.app/app/vycKjG) *(Utilities)* |
 | Debarshee Chakraborty | 1 | 9 | [System Status](https://www.glaze.app/app/PCutQu) *(Utilities)* |
 | Deepto | 1 | 21 | [Speck](https://www.glaze.app/app/GQz6OW) *(Productivity)* |
-| Delvison Marte | 3 | 20 | [StreamHub](https://www.glaze.app/app/CPEGJi) *(Media)*, [TCGVault](https://www.glaze.app/app/gBFQ7D) *(Utilities)*, [Discord Companion](https://www.glaze.app/app/discord-companion-Nnu2hA) *(Utilities)* |
+| Delvison Marte | 3 | 20 | [StreamHub](https://www.glaze.app/app/CPEGJi) *(Media)*, [TCGVault](https://www.glaze.app/app/gBFQ7D) *(Utilities)*, [Discord Companion](https://www.glaze.app/app/Nnu2hA) *(Utilities)* |
 | Denis Ljubimov | 1 | 18 | [Cling](https://www.glaze.app/app/akdslE) *(Productivity)* |
 | Dennis Bruijn | 1 | 3 | [Findroid](https://www.glaze.app/app/FdgfJg) *(Utilities)* |
-| Dennis Eilander | 1 | 7 | [Pinstruct](https://www.glaze.app/app/WxB8jL) *(Developer Tools)* |
+| Dennis Eilander | 1 | 8 | [Pinstruct](https://www.glaze.app/app/WxB8jL) *(Developer Tools)* |
 | Dennis Muensterer | 2 | 7 | [Partbin](https://www.glaze.app/app/ENkp3g) *(Utilities)*, [Supabase Restore](https://www.glaze.app/app/lM7AjS) *(Developer Tools)* |
 | Denys | 1 | 5 | [Color History](https://www.glaze.app/app/ZDXqLl) *(Design)* |
 | Denys Chebotaiev | 1 | 5 | [Task & Mochi](https://www.glaze.app/app/JmydrY) *(Productivity)* |
@@ -69,17 +69,17 @@
 | Dipangshu Roy | 1 | 6 | [Sole](https://www.glaze.app/app/Oe1tk1) *(Productivity)* |
 | Dipanjan Roy | 1 | 3 | [Notex](https://www.glaze.app/app/gR2sUk) *(Productivity)* |
 | discountry | 1 | 4 | [MenuTune](https://www.glaze.app/app/dg8YWS) *(Media)* |
-| Dmitrii Verv | 1 | 4 | [Meanwhile](https://www.glaze.app/app/u3xmpq) *(Productivity)* |
-| Dmitry Novikov | 1 | 212 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
-| [Dmytro Lobov](./id/dmytro-lobov.md) | 17 | 87 | [see all 17 →](./id/dmytro-lobov.md) |
+| Dmitrii Verv | 1 | 5 | [Meanwhile](https://www.glaze.app/app/u3xmpq) *(Productivity)* |
+| Dmitry Novikov | 1 | 213 | [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) *(Utilities)* |
+| [Dmytro Lobov](./id/dmytro-lobov.md) | 17 | 89 | [see all 17 →](./id/dmytro-lobov.md) |
 | Dmytro Shevchenko | 1 | 2 | [DoseTail](https://www.glaze.app/app/malQjQ) *(Utilities)* |
 | Dominik Keller | 1 | 9 | [Cache](https://www.glaze.app/app/kBv5VM) *(Productivity)* |
 | Dominique Feterman | 1 | 3 | [Enough](https://www.glaze.app/app/VfLP49) *(Productivity)* |
 | Domint | 1 | 40 | [Port Monitor](https://www.glaze.app/app/EEfaTw) *(Developer Tools)* |
 | Don | 1 | 3 | [Tide Tracker](https://www.glaze.app/app/2lZJZY) *(Utilities)* |
 | Donald Mok | 1 | 25 | [Electron Detector](https://www.glaze.app/app/R0hiOb) *(Developer Tools)* |
-| Douglas Tam | 1 | 10 | [Metube](https://www.glaze.app/app/metube-IhoQbh) *(Media)* |
-| Drained99 | 2 | 12 | [Prism](https://www.glaze.app/app/O7xZdX) *(Productivity)*, [Touch Grass](https://www.glaze.app/app/HLpQnJ) *(Lifestyle)* |
+| Douglas Tam | 1 | 10 | [Metube](https://www.glaze.app/app/IhoQbh) *(Media)* |
+| Drained99 | 2 | 13 | [Prism](https://www.glaze.app/app/O7xZdX) *(Productivity)*, [Touch Grass](https://www.glaze.app/app/HLpQnJ) *(Lifestyle)* |
 | Drew Grossmann | 1 | 3 | [Theme Extractor](https://www.glaze.app/app/Zp7E8g) *(Productivity)* |
 | DruxAMB | 1 | 2 | [GlazeWallet](https://www.glaze.app/app/iG5Vh7) *(Utilities)* |
 | dtrain | 1 | 1 | [Destiny 2 Exotic Ornament Sets](https://www.glaze.app/app/V3eaJD) *(Games & Fun)* |

@@ -1,12 +1,12 @@
 # Giovambattista Fazioli
 
-5 apps · 32 installs · [← publishers](../README.md)
+5 apps · 33 installs · [← publishers](../README.md)
 
 ## Games & Fun (4)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Pac-Man Classic](https://www.glaze.app/app/WC9u94) | 21 | Play the iconic 80s arcade game | Giovambattista Fazioli | 1.0.0 | 61 KB | 2026-07-12 |
+| [Pac-Man Classic](https://www.glaze.app/app/WC9u94) | 22 | Play the iconic 80s arcade game | Giovambattista Fazioli | 1.0.0 | 61 KB | 2026-07-12 |
 | [Quokka](https://www.glaze.app/app/jKQxa8) | 4 | Fill grids with logic jumps and number | Giovambattista Fazioli | 1.0.0 | 71 KB | 2026-07-01 |
 | [Galaga 1983](https://www.glaze.app/app/WWwcYw) | 3 | Relive the classic arcade shooter | Giovambattista Fazioli | 1.0.0 | 61 KB | 2026-07-12 |
 | [Pole Position](https://www.glaze.app/app/gjRKc2) | 2 | Race the arcade classic | Giovambattista Fazioli | 1.0.0 | 61 KB | 2026-07-12 |

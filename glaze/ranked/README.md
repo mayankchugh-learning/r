@@ -1,6 +1,6 @@
 # Glaze apps by installs
 
-All 1578 apps ranked by installs · [← Glaze catalog](../README.md)
+All 1587 apps ranked by installs · [← Glaze catalog](../README.md)
 
 **Sort:** **Installs** · [Size](../sizes/README.md)
 

@@ -6,10 +6,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 212 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 78 KB | 2026-07-28 |
+| [Liquid Commander](https://www.glaze.app/app/liquid-commander-84kacm) | 213 | Manage files faster with dual panes | Dmitry Novikov | 8.0.0 | 78 KB | 2026-07-28 |
 | [Logos](https://www.glaze.app/app/QKNEHI) | 120 | Browse and explore brand logos | Pedro Duarte | 4.0.0 | 81 KB | 2026-07-27 |
 | [Le Tour Hub](https://www.glaze.app/app/t510tX) | 29 | Follow Tour de France 2026 | Jordan Amblin | 1.0.0 | 357 KB | 2026-07-01 |
-| [Ludus](https://www.glaze.app/app/4RDpwn) | 15 | Your private university | Samuel Lee | 1.0.0 | 1.5 MB | 2026-07-28 |
+| [Ludus](https://www.glaze.app/app/4RDpwn) | 16 | Your private university | Samuel Lee | 1.0.0 | 1.5 MB | 2026-07-28 |
 | [Listly](https://www.glaze.app/app/G4AEnv) | 14 | Tasks organized, nothing forgotten | İlker Çalım | 3.0.0 | 84 KB | 2026-07-12 |
 | [Local Mind](https://www.glaze.app/app/gXDcGx) | 13 | AI on your device, offline & free! | Pierre | 1.0.0 | 116 KB | 2026-07-02 |
 | [Lens](https://www.glaze.app/app/SqWbe5) | 12 | Select anything. Do the next thing. | Anca-Gabriela Hagiu | 3.0.0 | 96 KB | 2026-07-25 |

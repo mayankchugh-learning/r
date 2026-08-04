@@ -1,6 +1,6 @@
 # Images & Backgrounds
 
-18 apps · [← Design](./README.md)
+19 apps · [← Design](./README.md)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,8 @@
 | [Recast](https://www.glaze.app/app/vMN6h9) | 4 | Redesign your room before you renovate | Marek Wituszynski | 2.0.0 | 21.1 MB | 2026-07-27 |
 | [Canvas Composer](https://www.glaze.app/app/dUzJmL) | 3 | Create photo layouts on custom canvases | Okan YILMAZ | 1.0.0 | 63 KB | 2026-07-01 |
 | [Blurish Wall](https://www.glaze.app/app/R1LN8Q) | 2 | Blur your walls exactly how you want. | Alireza Sarabchi | 1.0.0 | 79 KB | 2026-07-17 |
+| [ImageWizard](https://www.glaze.app/app/imagewizard-guENVw) | 2 | Transform images with visual effects | Lee Sherman | 1.0.0 | 85 KB | 2026-08-03 |
 | [In Formation](https://www.glaze.app/app/hHqNpB) | 2 | Soccer formation designer | Bruno Reis | 1.0.0 | 300 KB | 2026-07-07 |
 | [PinShuffle](https://www.glaze.app/app/7v8Bdt) | 2 | Practice drawing with timed Pinterest | Yukai Huang | 3.0.0 | 54 KB | 2026-04-22 |
 | [SLICE](https://www.glaze.app/app/eFPisy) | 1 | Slice your pics | melvin | 1.0.0 | 95 KB | 2026-07-14 |
-| [ImageWizard](https://www.glaze.app/app/imagewizard-guENVw) | 0 | Transform images with visual effects | Lee Sherman | 1.0.0 | 85 KB | 2026-08-03 |
+| [Watermark +](https://www.glaze.app/app/watermark-5U4OwT) | 1 | Mark your files, own your art. | Ryun Li | 2.0.0 | 721 KB | 2026-08-04 |

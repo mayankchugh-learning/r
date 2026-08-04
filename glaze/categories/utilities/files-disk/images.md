@@ -1,8 +1,8 @@
 # Images ✦
 
-22 apps · [← Files & Disk](./README.md)
+23 apps · [← Files & Disk](./README.md)
 
-[Drop ✦](#drop) (10) · [Format ✦](#format) (4) · [General](#general) (8)
+[Drop ✦](#drop) (10) · [Format ✦](#format) (4) · [General](#general) (9)
 
 *✦ auto-discovered topic group*
 
@@ -15,9 +15,9 @@
 | [Convert](https://www.glaze.app/app/lSbAX2) | 21 | Instantly convert any files, any format | Sahil Patel | 1.0.0 | 176.8 MB | 2026-07-09 |
 | [Image Converter](https://www.glaze.app/app/4nScHZ) | 14 | Convert and compress images instantly | Mohamed Kerroudj | 1.0.0 | 7.1 MB | 2026-07-07 |
 | [Image Convert](https://www.glaze.app/app/rbU02h) | 13 | Convert and optimize images instantly | Chris Malone | 2.0.0 | 7.4 MB | 2026-06-13 |
+| [WidgetGrid](https://www.glaze.app/app/oil9CK) | 9 | Design your Mac's desktop, your way. | Soeren.Poppe | 4.0.0 | 207 KB | 2026-07-29 |
 | [QuickConvert](https://www.glaze.app/app/Uyki23) | 8 | Convert media files locally with ease | Braily Estevez | 1.0.0 | 64 KB | 2026-06-29 |
 | [Quire](https://www.glaze.app/app/y5aT7t) | 8 | Handle your PDFs like paper | Cornelius | 8.0.0 | 1.2 MB | 2026-07-26 |
-| [WidgetGrid](https://www.glaze.app/app/oil9CK) | 8 | Design your Mac's desktop, your way. | Soeren.Poppe | 4.0.0 | 207 KB | 2026-07-29 |
 | [Airlock](https://www.glaze.app/app/ECzuJo) | 5 | A privacy checkpoint for every file | Ahmad Nurfadilah | 1.0.0 | 51.9 MB | 2026-07-27 |
 | [webp to PNG](https://www.glaze.app/app/ms1HCr) | 4 | Convert WebP images to PNG instantly | TONOS | 2.0.0 | 352 KB | 2026-07-02 |
 
@@ -42,3 +42,4 @@
 | [File Handler](https://www.glaze.app/app/XmXQ3c) | 5 | Control which app opens each file type | Alston Albarado | 1.0.0 | 62 KB | 2026-07-06 |
 | [Bing wallpaper](https://www.glaze.app/app/aXcAT1) | 4 | Daily Bing wallpapers in Chinese | extrastu | 2.0.0 | 61 KB | 2026-07-02 |
 | [Aside](https://www.glaze.app/app/9T6P7P) | 3 | Put it aside. Pick up when it matters. | Magnus Digitalisering | 3.0.0 | 74 KB | 2026-07-28 |
+| [Image to Email](https://www.glaze.app/app/image-to-email-TMeBIj) | 1 | Resize and compress images for email | Alexander Artsvuni | 1.0.0 | 1.5 MB | 2026-08-03 |

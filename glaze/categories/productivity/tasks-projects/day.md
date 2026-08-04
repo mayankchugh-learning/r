@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Mia Calendar](https://www.glaze.app/app/N2NgPq) | 188 | Plan your days with your own handwriting | Daniela Muntyan | 13.0.0 | 3.3 MB | 2026-07-27 |
-| [Time Tracker](https://www.glaze.app/app/xGJrCZ) | 25 | Monitor your computer usage and time | Andrea Cipriani | 17.0.0 | 333 KB | 2026-07-24 |
+| [Time Tracker](https://www.glaze.app/app/xGJrCZ) | 26 | Monitor your computer usage and time | Andrea Cipriani | 17.0.0 | 333 KB | 2026-07-24 |
 | [Noted](https://www.glaze.app/app/6gIagm) | 11 | A quiet place for your notes. | Yash Kotha | 5.0.0 | 212 KB | 2026-07-31 |
 | [re:Work](https://www.glaze.app/app/aqeLBX) | 10 | Know where your day went. Automatically. | Benji Schwartz-Gilbert | 7.0.0 | 123 KB | 2026-07-31 |
 | [Daymark](https://www.glaze.app/app/MX1yNN) | 7 | A daily note for every day | Iamgregb | 11.0.0 | 1.3 MB | 2026-07-30 |

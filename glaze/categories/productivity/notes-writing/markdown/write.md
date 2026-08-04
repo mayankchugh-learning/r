@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Marginalia](https://www.glaze.app/app/UFusOy) | 33 | Write and read markdown with elegance | Luiz Vinicius de Andrade | 5.0.0 | 81 KB | 2026-07-31 |
 | [Markdown Velocity](https://www.glaze.app/app/XH41cP) | 8 | Fast notes like Notational Velocity | sdnnvs | 2.0.0 | 124 KB | 2026-07-08 |
-| [Markdown Studio](https://www.glaze.app/app/USIGGW) | 6 | Write and organize Markdown notes | Yahya | 1.0.0 | 702 KB | 2026-07-13 |
+| [Markdown Studio](https://www.glaze.app/app/USIGGW) | 7 | Write and organize Markdown notes | Yahya | 1.0.0 | 702 KB | 2026-07-13 |
 | [WriteOn](https://www.glaze.app/app/Vunquu) | 5 | Modern word processor with classic feels | Lee Sherman | 5.0.0 | 84 KB | 2026-07-13 |
 | [Loci](https://www.glaze.app/app/n5g6AF) | 4 | Collect wisdom, revisit it daily | Jason Covington | 1.0.0 | 142.7 MB | 2026-07-24 |
 | [Neovim Notes](https://www.glaze.app/app/35eP2I) | 3 | Take notes in your Neovim editor | Daniele Avitabile | 8.0.0 | 15.2 MB | 2026-07-31 |

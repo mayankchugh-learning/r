@@ -16,7 +16,7 @@
 | Ilai Szpiezak | 1 | 10 | [PrettyShots](https://www.glaze.app/app/XHcKQ0) *(Design)* |
 | ilkay ozboyar | 1 | 1 | [Song Vote](https://www.glaze.app/app/C4o76l) *(Media)* |
 | Ilseong Na | 1 | 3 | [Pet Hatch](https://www.glaze.app/app/Zk6Mtn) *(Games & Fun)* |
-| ImisiD | 1 | 9 | [Ghost](https://www.glaze.app/app/n7fZjc) *(Developer Tools)* |
+| ImisiD | 1 | 10 | [Ghost](https://www.glaze.app/app/n7fZjc) *(Developer Tools)* |
 | Invictus | 1 | 14 | [TopNotch Clipboard](https://www.glaze.app/app/M5owZ0) *(Productivity)* |
 | ipchanwang | 1 | 1 | [Gyme](https://www.glaze.app/app/pqmk90) *(Lifestyle)* |
 | Ivan | 1 | 5 | [Raum](https://www.glaze.app/app/Oh0j4Y) *(Media)* |

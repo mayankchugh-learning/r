@@ -2,18 +2,20 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-92 publishers · [← publisher index](./README.md)
+94 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
+| J | 1 | 0 | [PR Queue](https://www.glaze.app/app/pr-queue-kGqLAT) *(Developer Tools)* |
 | J.Taehee | 1 | 19 | [Breakfast](https://www.glaze.app/app/oix8d9) *(Media)* |
 | [Jac Peregrine-Davies](./id/jac-peregrine-davies.md) | 5 | 114 | [see all 5 →](./id/jac-peregrine-davies.md) |
+| Jackson Graddon | 1 | 0 | [Focus Break](https://www.glaze.app/app/focus-break-EzbjzE) *(Productivity)* |
 | Jafar Umoru | 1 | 11 | [Grove](https://www.glaze.app/app/5VhVgW) *(Utilities)* |
 | Jake | 1 | 6 | [Scent Journal](https://www.glaze.app/app/Q1UZjn) *(Lifestyle)* |
 | Jake Donlan | 1 | 7 | [Typecard](https://www.glaze.app/app/cbo0CY) *(Design)* |
 | Jaladhi Pujara | 1 | 5 | [Provenance](https://www.glaze.app/app/TOCKAe) *(Productivity)* |
 | James Coy (JC) | 1 | 5 | [Clipfloat](https://www.glaze.app/app/0DLNYu) *(Developer Tools)* |
-| James Dawson | 1 | 96 | [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) *(Productivity)* |
+| James Dawson | 1 | 100 | [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) *(Productivity)* |
 | James Jackson | 1 | 7 | [nib](https://www.glaze.app/app/RJAlJp) *(Productivity)* |
 | James Jeffery | 1 | 6 | [Ripple](https://www.glaze.app/app/FQfYOf) *(Media)* |
 | James Victor | 1 | 4 | [Activity Ridge](https://www.glaze.app/app/f2dURs) *(Productivity)* |
@@ -28,7 +30,7 @@
 | Jason Lang | 1 | 7 | [Outfit Check](https://www.glaze.app/app/eiLASD) *(Lifestyle)* |
 | Jason2009hk | 1 | 4 | [Markdown Opener](https://www.glaze.app/app/ACEtji) *(Productivity)* |
 | jasonbla | 1 | 18 | [Agent Dashboard](https://www.glaze.app/app/6cHyYB) *(Developer Tools)* |
-| Jaswanth | 1 | 6 | [AppleAI](https://www.glaze.app/app/d0fNs4) *(Developer Tools)* |
+| Jaswanth | 1 | 7 | [AppleAI](https://www.glaze.app/app/d0fNs4) *(Developer Tools)* |
 | Jawad Shreim | 1 | 10 | [Logo Fetch](https://www.glaze.app/app/1EEPcF) *(Developer Tools)* |
 | JD Hartley | 1 | 5 | [Strange New Episodes](https://www.glaze.app/app/7Idm6x) *(Media)* |
 | Jean | 1 | 2 | [Meridian](https://www.glaze.app/app/fWYUXH) *(Lifestyle)* |
@@ -62,14 +64,14 @@
 | Johann | 1 | 17 | [ScreenZer](https://www.glaze.app/app/RGUoDP) *(Developer Tools)* |
 | Johannes Krejberg Haahr | 1 | 1 | [KlipTekst](https://www.glaze.app/app/ECER4Y) *(Utilities)* |
 | John Doeet | 1 | 1 | [Sauropod](https://www.glaze.app/app/zCiuE5) *(Developer Tools)* |
-| John Hesch | 3 | 21 | [Screenshot Renamer](https://www.glaze.app/app/6GSlSm) *(Productivity)*, [File Sorter](https://www.glaze.app/app/mst1DY) *(Utilities)*, [Feed Harvest](https://www.glaze.app/app/ghvGgH) *(Productivity)* |
+| John Hesch | 3 | 22 | [Screenshot Renamer](https://www.glaze.app/app/6GSlSm) *(Productivity)*, [File Sorter](https://www.glaze.app/app/mst1DY) *(Utilities)*, [Feed Harvest](https://www.glaze.app/app/ghvGgH) *(Productivity)* |
 | John Hunter | 1 | 5 | [Pandora Player](https://www.glaze.app/app/zs85E5) *(Media)* |
 | John Kappa | 1 | 14 | [Tube Float](https://www.glaze.app/app/RxZ5tQ) *(Utilities)* |
 | John Punt | 2 | 4 | [Bible Layers](https://www.glaze.app/app/2yOhs5) *(Productivity)*, [MyEisenhower](https://www.glaze.app/app/hE4Is3) *(Productivity)* |
 | John Stark | 1 | 3 | [Sound Mix](https://www.glaze.app/app/h70zSs) *(Utilities)* |
 | John.Gatev | 1 | 15 | [Priority Matrix](https://www.glaze.app/app/erfrci) *(Productivity)* |
 | Jon Martin Stuberg | 1 | 19 | [Claude Monitor](https://www.glaze.app/app/bdjdQb) *(Developer Tools)* |
-| Jonas Tmb | 2 | 8 | [Crawler Visibility Checker by Prerender Buddy](https://www.glaze.app/app/ETVfdR) *(Developer Tools)*, [Handle It](https://www.glaze.app/app/Cs4rjZ) *(Productivity)* |
+| Jonas Tmb | 2 | 9 | [Crawler Visibility Checker by Prerender Buddy](https://www.glaze.app/app/ETVfdR) *(Developer Tools)*, [Handle It](https://www.glaze.app/app/Cs4rjZ) *(Productivity)* |
 | Jonathan Millar | 1 | 0 | [Campfires NB](https://www.glaze.app/app/ARGRWo) *(Utilities)* |
 | Jonathan Nyst | 1 | 6 | [Star Keeper](https://www.glaze.app/app/qdA2Jc) *(Developer Tools)* |
 | Jonathan.fusellier | 1 | 17 | [Air Monitor](https://www.glaze.app/app/9iA1yL) *(Utilities)* |
@@ -79,7 +81,7 @@
 | Jorge | 1 | 2 | [App Revenue](https://www.glaze.app/app/bhkScP) *(Developer Tools)* |
 | Jørgen Arnor | 2 | 8 | [Pickup](https://www.glaze.app/app/fZmn3c) *(Media)*, [On This Day](https://www.glaze.app/app/fbkJca) *(Lifestyle)* |
 | Jose Ryu Leonesta | 1 | 21 | [Obsidian Task Dashboard](https://www.glaze.app/app/YgUf4O) *(Productivity)* |
-| Josh Davenport-Smith | 1 | 19 | [Claudelog](https://www.glaze.app/app/3pBqWZ) *(Developer Tools)* |
+| Josh Davenport-Smith | 1 | 20 | [Claudelog](https://www.glaze.app/app/3pBqWZ) *(Developer Tools)* |
 | Josiah Ayres | 1 | 4 | [Mortgage Compass](https://www.glaze.app/app/lRnWp3) *(Productivity)* |
 | Jovan James Binoj | 1 | 1 | [Spice Lab](https://www.glaze.app/app/dphdR8) *(Developer Tools)* |
 | jpmm21 | 2 | 44 | [SSH Connect](https://www.glaze.app/app/e6UHlE) *(Developer Tools)*, [Mine Sweeper](https://www.glaze.app/app/7BYKeO) *(Games & Fun)* |

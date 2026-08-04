@@ -25,7 +25,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Pac-Man Classic](https://www.glaze.app/app/WC9u94) | 21 | Play the iconic 80s arcade game | Giovambattista Fazioli | 1.0.0 | 61 KB | 2026-07-12 |
+| [Pac-Man Classic](https://www.glaze.app/app/WC9u94) | 22 | Play the iconic 80s arcade game | Giovambattista Fazioli | 1.0.0 | 61 KB | 2026-07-12 |
 | [Glazul](https://www.glaze.app/app/tS95LY) | 18 | Play a relaxing solo version of Azul | João Neves | 9.0.0 | 59 KB | 2026-06-04 |
 | [Agent Arcade](https://www.glaze.app/app/vBkDof) | 10 | Play arcade games while you wait | Elliott Mangham | 3.0.0 | 70 KB | 2026-07-10 |
 | [Rock Paper Scissors](https://www.glaze.app/app/Lngfr4) | 4 | Master the timeless hand game | hyeonggi kwon | 1.0.0 | 57 KB | 2026-06-29 |
@@ -36,4 +36,4 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Spin the Wheel](https://www.glaze.app/app/Nl4AlJ) | 3 | Pick a winner, the fun way. | Paulo Duarte | 3.0.0 | 74 KB | 2026-07-27 |
+| [Spin the Wheel](https://www.glaze.app/app/Nl4AlJ) | 4 | Pick a winner, the fun way. | Paulo Duarte | 3.0.0 | 74 KB | 2026-07-27 |

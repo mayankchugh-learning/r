@@ -7,7 +7,7 @@
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
 | Caio Lins | 2 | 8 | [Giga Chat](https://www.glaze.app/app/LpdKW8) *(Productivity)*, [Folks](https://www.glaze.app/app/r8rcKU) *(Productivity)* |
-| Caleb Tew | 1 | 6 | [PhotoForge](https://www.glaze.app/app/Hj2RYz) *(Design)* |
+| Caleb Tew | 1 | 7 | [PhotoForge](https://www.glaze.app/app/Hj2RYz) *(Design)* |
 | Calvin White | 1 | 9 | [DocMD](https://www.glaze.app/app/Y4sDbq) *(Developer Tools)* |
 | Cameron Schroeder | 1 | 3 | [Quill](https://www.glaze.app/app/c9aP8w) *(Productivity)* |
 | ccmxigua | 1 | 6 | [Scholar](https://www.glaze.app/app/V6uTQV) *(Productivity)* |
@@ -26,7 +26,7 @@
 | Chris Durham | 1 | 7 | [TicTac](https://www.glaze.app/app/WQIbaK) *(Productivity)* |
 | Chris Lacorte | 1 | 2 | [Timber](https://www.glaze.app/app/Q1ISdK) *(Lifestyle)* |
 | Chris Malone | 1 | 13 | [Image Convert](https://www.glaze.app/app/rbU02h) *(Utilities)* |
-| Chris Messina | 1 | 2 | [Tesla Energy](https://www.glaze.app/app/I6VIKJ) *(Utilities)* |
+| Chris Messina | 2 | 4 | [Icon Maker](https://www.glaze.app/app/icon-maker-dGIx1b) *(Developer Tools)*, [Tesla Energy](https://www.glaze.app/app/I6VIKJ) *(Utilities)* |
 | Chris Stoddard | 1 | 12 | [Beat Maker](https://www.glaze.app/app/cA7hhz) *(Media)* |
 | Christian | 1 | 0 | [Scene Marker](https://www.glaze.app/app/JXGYK5) *(Media)* |
 | Christian Alares | 1 | 99 | [KeyStat](https://www.glaze.app/app/keystat-RWb2UZ) *(Productivity)* |
@@ -38,7 +38,7 @@
 | Cindy Wincek | 1 | 11 | [Room Planner](https://www.glaze.app/app/yvEH29) *(Design)* |
 | Clay Vickers | 1 | 0 | [Video Ads Tracker](https://www.glaze.app/app/MZ9Qgs) *(Productivity)* |
 | Clement.Jonghmans | 1 | 10 | [BackdropRemove](https://www.glaze.app/app/G8dm5F) *(Utilities)* |
-| Cloudy Qin | 1 | 2 | [ScribeNotes for MacOS](https://www.glaze.app/app/yDaBZu) *(Productivity)* |
+| Cloudy Qin | 1 | 4 | [ScribeNotes for MacOS](https://www.glaze.app/app/yDaBZu) *(Productivity)* |
 | Clovisprovost | 1 | 1 | [Longueur d'Onde](https://www.glaze.app/app/hunThz) *(Games & Fun)* |
 | Cody Cochran | 1 | 1 | [MetaBurn](https://www.glaze.app/app/g7Tz5a) *(Utilities)* |
 | Cold Frog | 1 | 30 | [Network Inspector](https://www.glaze.app/app/T1dGR9) *(Developer Tools)* |
@@ -47,6 +47,6 @@
 | Colin Butts | 1 | 3 | [Sheaf](https://www.glaze.app/app/GxIxXb) *(Productivity)* |
 | Colin DiCarlo | 1 | 1 | [Exposure](https://www.glaze.app/app/TV1xcx) *(Design)* |
 | Colm Lenehan | 1 | 19 | [Nexus](https://www.glaze.app/app/Dln2VU) *(Utilities)* |
-| Combustion Studio | 1 | 401 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) *(Media)* |
+| Combustion Studio | 1 | 402 | [CS Glaze Synth](https://www.glaze.app/app/9TGenH) *(Media)* |
 | Cornelius | 3 | 64 | [Skim](https://www.glaze.app/app/vEYysi) *(Productivity)*, [ATLAS](https://www.glaze.app/app/ovPml8) *(Productivity)*, [Quire](https://www.glaze.app/app/y5aT7t) *(Utilities)* |
 | [credesasq](./id/credesasq.md) | 5 | 3 | [see all 5 →](./id/credesasq.md) |

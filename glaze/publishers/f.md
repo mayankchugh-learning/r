@@ -2,13 +2,14 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-30 publishers · [← publisher index](./README.md)
+31 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
 | Fahd Badran | 1 | 4 | [Infinite Wallpapers](https://www.glaze.app/app/YflqIT) *(Utilities)* |
 | Faisal F Rafat | 1 | 10 | [Markdown Reader](https://www.glaze.app/app/haPRqs) *(Utilities)* |
-| Farhan K. | 1 | 5 | [On-Brand](https://www.glaze.app/app/DhmLaD) *(Design)* |
+| Farhan K. | 1 | 6 | [On-Brand](https://www.glaze.app/app/DhmLaD) *(Design)* |
+| Faruk Parhat | 1 | 0 | [World Time](https://www.glaze.app/app/world-time-gWPgIn) *(Utilities)* |
 | Favour Olaboye | 1 | 6 | [Shoebox](https://www.glaze.app/app/fZLDUl) *(Productivity)* |
 | Fayaz Ahmed | 1 | 14 | [Flaremail](https://www.glaze.app/app/hB2ADe) *(Developer Tools)* |
 | Fe9lix 084c | 1 | 14 | [Buckets](https://www.glaze.app/app/KbGT5M) *(Developer Tools)* |
@@ -26,12 +27,12 @@
 | FixColumnCode | 1 | 11 | [App Updater](https://www.glaze.app/app/ApX23Y) *(Utilities)* |
 | fkhwaja | 1 | 2 | [Currency Converter](https://www.glaze.app/app/mPmaas) *(Utilities)* |
 | Flo | 1 | 26 | [Skill Map](https://www.glaze.app/app/CMgPDh) *(Developer Tools)* |
-| Florentin Eckl | 1 | 13 | [Recommand](https://www.glaze.app/app/ZDQIep) *(Productivity)* |
+| Florentin Eckl | 1 | 14 | [Recommand](https://www.glaze.app/app/ZDQIep) *(Productivity)* |
 | Florian.Mascaro | 1 | 9 | [Image Lighter](https://www.glaze.app/app/BxZAHu) *(Developer Tools)* |
-| fra.raw | 1 | 75 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
+| fra.raw | 1 | 79 | [Brez](https://www.glaze.app/app/brez-nx6Oj0) *(Productivity)* |
 | Frajjco | 1 | 1 | [Outfit of the Day](https://www.glaze.app/app/dcpdLg) *(Lifestyle)* |
 | Frame City | 1 | 0 | [Pomodoro Focus](https://www.glaze.app/app/C7Sc4O) *(Productivity)* |
-| Francesco Maisano | 1 | 5 | [Blunder](https://www.glaze.app/app/0dUOLc) *(Games & Fun)* |
+| Francesco Maisano | 1 | 6 | [Blunder](https://www.glaze.app/app/0dUOLc) *(Games & Fun)* |
 | Frank | 1 | 2 | [PG-Glaze](https://www.glaze.app/app/aNPalD) *(Developer Tools)* |
 | Frank Olien | 1 | 2 | [Handoff](https://www.glaze.app/app/C86y01) *(Productivity)* |
 | freddy | 2 | 15 | [Markdown Preview](https://www.glaze.app/app/41iQyN) *(Developer Tools)*, [Wallpaper Studio](https://www.glaze.app/app/7yiRqb) *(Utilities)* |

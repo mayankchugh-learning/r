@@ -6,19 +6,19 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 713 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 111 KB | 2026-04-15 |
-| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 322 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
+| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 714 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 111 KB | 2026-04-15 |
+| [My Stash](https://www.glaze.app/app/my-stash-CDBw9Z) | 336 | Photoshop for your macOS folders | Noman | 11.0.0 | 11.8 MB | 2026-07-30 |
 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) | 200 | Convert Markdown to Slack messages fast | Petr Nikolaev | 4.0.0 | 617 KB | 2026-04-17 |
 | [Mia Calendar](https://www.glaze.app/app/N2NgPq) | 188 | Plan your days with your own handwriting | Daniela Muntyan | 13.0.0 | 3.3 MB | 2026-07-27 |
-| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 123 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
+| [Mini Piano](https://www.glaze.app/app/mini-piano-vo46Jg) | 126 | Your keyboard is now a piano | André Pinto | 3.0.0 | 119 KB | 2026-07-28 |
 | [MicCheck](https://www.glaze.app/app/miccheck-TRFqOJ) | 107 | Never miss a muted mic again | Justin Lancaster | 2.0.0 | 65 KB | 2026-07-17 |
-| [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) | 96 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
+| [Mooboard](https://www.glaze.app/app/mooboard-dqGeIk) | 100 | Visual spaces for all your folders. | James Dawson | 6.0.0 | 6.3 MB | 2026-07-27 |
 | [macHealth](https://www.glaze.app/app/C9jYcO) | 82 | Find out why your Mac is slow, instantly | gowhith kanisetty | 1.0.0 | 179 KB | 2026-05-11 |
 | [Magnify](https://www.glaze.app/app/magnify-YWP3Aj) | 52 | Zoom in on any image detail, then save | Jordan Amblin | 4.0.0 | 48 KB | 2026-04-15 |
 | [Moni](https://www.glaze.app/app/BDcrao) | 47 | Track your spending. Set budgets. See where your money goes. Import CSV bank statements or add transactions manually. No bank connection required. Op… | Kristina Loewen | 10.0.1 | 4.1 MB | 2026-04-09 |
 | [Marginalia](https://www.glaze.app/app/UFusOy) | 33 | Write and read markdown with elegance | Luiz Vinicius de Andrade | 5.0.0 | 81 KB | 2026-07-31 |
 | [Moodboard](https://www.glaze.app/app/0LJlsa) | 29 | Organize creative reference files | Sam.Minton | 1.0.0 | 119 KB | 2026-07-02 |
-| [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) | 25 | Explains commands before you run them | Brad Chin | 3.0.0 | 175 KB | 2026-07-28 |
+| [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) | 26 | Explains commands before you run them | Brad Chin | 3.0.0 | 175 KB | 2026-07-28 |
 | [Meridian](https://www.glaze.app/app/PqegNZ) | 24 | Your life, on a globe | DFLAME | 2.0.0 | 2.4 MB | 2026-07-26 |
 | [Minimal Control](https://www.glaze.app/app/evNrhb) | 24 | Minimal brightness and volume UI | Boufford | 7.0.0 | 64 KB | 2026-07-18 |
 | [MoleCleaner4Mac](https://www.glaze.app/app/1GlMHL) | 23 | Mac cleaning made simple | Dung Huynh Duc | 4.0.0 | 72 KB | 2026-07-04 |
@@ -27,8 +27,8 @@
 | [Mindmap](https://www.glaze.app/app/xpmGrN) | 22 | Think in bubbles. Visualize ideas! | Christian.kn | 1.0.0 | 106 KB | 2026-05-28 |
 | [Markdown Reader](https://www.glaze.app/app/iG1HzP) | 20 | Read and edit markdown, instantly | Bilal | 1.0.0 | 372 KB | 2026-07-13 |
 | [Monochrome](https://www.glaze.app/app/mE6ebz) | 19 | Take black and white photos | Samuel Kraft | 1.0.1 | 138 KB | 2026-03-04 |
+| [MCP&Skill Manager](https://www.glaze.app/app/rRZDwG) | 18 | Manage all your MCP servers in one | Giovanni | 2.0.0 | 92 KB | 2026-07-25 |
 | [Mine Sweeper](https://www.glaze.app/app/7BYKeO) | 18 | Tap tiles, dodge mines, win the game | jpmm21 | 1.0.0 | 53 KB | 2026-04-23 |
-| [MCP&Skill Manager](https://www.glaze.app/app/rRZDwG) | 17 | Manage all your MCP servers in one | Giovanni | 2.0.0 | 92 KB | 2026-07-25 |
 | [Meeting Glow](https://www.glaze.app/app/fFmwaY) | 17 | Custom alerts for meetings | Mel Lent | 4.0.0 | 73 KB | 2026-05-10 |
 | [Mermaid Studio](https://www.glaze.app/app/eLAlAB) | 17 | Create and edit Mermaid diagrams | Mario Juárez | 2.0.0 | 1.1 MB | 2026-07-14 |
 | [Markdown Slides](https://www.glaze.app/app/NeUWnQ) | 16 | Create presentations from markdown | alexi.build | 1.0.0 | 98 KB | 2026-05-02 |
@@ -44,11 +44,11 @@
 | [Markdown Preview](https://www.glaze.app/app/41iQyN) | 11 | View Markdown instantly, skip the IDE | freddy | 2.0.0 | 1.9 MB | 2026-07-31 |
 | [Markdown Reader](https://www.glaze.app/app/ycE3n8) | 11 | Read markdown richly formatted. | Mark with a K | 1.0.0 | 228 KB | 2026-07-08 |
 | [Mickey.md](https://www.glaze.app/app/WCodee) | 11 | Edit markdown files in a floating window | Jenningsebailey | 3.0.0 | 686 KB | 2026-07-02 |
+| [Magpie](https://www.glaze.app/app/Ybi9fe) | 10 | Collect ideas, keep what matters most. | Mohd Danish Yusuf | 3.0.0 | 591 KB | 2026-07-27 |
 | [Markdown galaxy](https://www.glaze.app/app/pK3o33) | 10 | Visualize notes as a cosmic scene | tyler.earth 🌎 | 2.0.0 | 73 KB | 2026-07-07 |
 | [Markdown Reader](https://www.glaze.app/app/haPRqs) | 10 | Browse and read markdown files | Faisal F Rafat | 1.0.0 | 78 KB | 2026-07-03 |
-| [Metube](https://www.glaze.app/app/metube-IhoQbh) | 10 | Download YouTube videos as MP3/MP4 | Douglas Tam | 2.0.0 | 73 KB | 2026-08-01 |
+| [Metube](https://www.glaze.app/app/IhoQbh) | 10 | Download YouTube videos as MP3/MP4 | Douglas Tam | 2.0.0 | 73 KB | 2026-08-01 |
 | [Mac Flow](https://www.glaze.app/app/FKfVNE) | 9 | Build AI Workflows Visually | Ak Deepankar | 1.0.0 | 85 KB | 2026-07-24 |
-| [Magpie](https://www.glaze.app/app/Ybi9fe) | 9 | Collect ideas, keep what matters most. | Mohd Danish Yusuf | 3.0.0 | 591 KB | 2026-07-27 |
 | [Meme Generator](https://www.glaze.app/app/jZ8Jrg) | 9 | Generate memes with custom text | Pedro Duarte | 1.0.0 | 60 KB | 2026-07-27 |
 | [Momo](https://www.glaze.app/app/qUas7h) | 9 | Tasks, focus & files, minus the effort | Muhammad | 1.0.0 | 80 KB | 2026-07-26 |
 | [Markdown Velocity](https://www.glaze.app/app/XH41cP) | 8 | Fast notes like Notational Velocity | sdnnvs | 2.0.0 | 124 KB | 2026-07-08 |
@@ -57,6 +57,7 @@
 | [More Cowbell](https://www.glaze.app/app/wkmdnB) | 8 | I got a fever, and the only prescription is more cowbell. | Johan Thorell | 1.0.1 | 161 KB | 2026-03-04 |
 | [MP3PLAYER](https://www.glaze.app/app/HZazF0) | 8 | iPod style music player | Kieran McGrady | 2.0.0 | 166 KB | 2026-07-24 |
 | [Make a Quote](https://www.glaze.app/app/HbkEf1) | 7 | Create stunning quote images | Rony Kati | 1.0.0 | 64 KB | 2026-07-23 |
+| [Markdown Studio](https://www.glaze.app/app/USIGGW) | 7 | Write and organize Markdown notes | Yahya | 1.0.0 | 702 KB | 2026-07-13 |
 | [Media Smasher](https://www.glaze.app/app/H9eEba) | 7 | Compress and convert images and videos | Davidleininger | 2.0.0 | 10.2 MB | 2026-07-04 |
 | [Meeting Notes](https://www.glaze.app/app/0nerAv) | 7 | Capture every meeting, forget nothing | Subsaf | 2.0.0 | 75 KB | 2026-07-05 |
 | [Memory Cats](https://www.glaze.app/app/hdNjzJ) | 7 | Test your memory with colorful cat cards | Kristina Loewen | 4.0.0 | 61 KB | 2026-04-11 |
@@ -64,8 +65,9 @@
 | [Metadata Explorer](https://www.glaze.app/app/KohnCG) | 7 | View and edit file metadata | mickaphd | 2.0.0 | 69 KB | 2026-07-02 |
 | [Mindfulness Bell](https://www.glaze.app/app/kccHuE) | 7 | Pause. Breathe. Return to now. | Raph | 1.0.0 | 56 KB | 2026-07-23 |
 | [Minesweeper+](https://www.glaze.app/app/dOZdPx) | 7 | Clear the board, avoid the mines | Joel Quevedo | 1.0.0 | 70 KB | 2026-07-09 |
+| [mvt - Music Viz Tool](https://www.glaze.app/app/mvt-music-viz-tool-7CE4oc) | 7 | 00’s-Style Music Visualization App 💪 | Randy Pitcher II | 2.0.0 | 89 KB | 2026-08-04 |
+| [Manuscript](https://www.glaze.app/app/8l5TMB) | 6 | Track every draft of your writing | Vicbringas | 2.0.0 | 140 KB | 2026-07-15 |
 | [Markdown Notes](https://www.glaze.app/app/myI9Nz) | 6 | Sticky notes backed by Markdown files. | Me | 1.0.0 | 237 KB | 2026-07-05 |
-| [Markdown Studio](https://www.glaze.app/app/USIGGW) | 6 | Write and organize Markdown notes | Yahya | 1.0.0 | 702 KB | 2026-07-13 |
 | [Markdown Viewer & Editor](https://www.glaze.app/app/wj5i6Y) | 6 | View & edit formatted markdown files | Wesam Abuznadah | 1.0.0 | 1.1 MB | 2026-07-05 |
 | [Markii](https://www.glaze.app/app/lHfLY3) | 6 | Flip through time with satisfying clicks | Laura Escobar | 4.0.0 | 92 KB | 2026-07-30 |
 | [Memebank](https://www.glaze.app/app/9fPrCS) | 6 | Organize, tag, & create memes | Gavin Scott-Miller | 1.0.0 | 88 KB | 2026-07-14 |
@@ -74,22 +76,21 @@
 | [Mooring](https://www.glaze.app/app/xhpPCJ) | 6 | Pause work without losing your place. | sndrnz | 1.0.0 | 72 KB | 2026-07-26 |
 | [Mac Clipping](https://www.glaze.app/app/WnPjcN) | 5 | Save the last moments instantly | Toby Robinson | 1.0.0 | 62 KB | 2026-07-07 |
 | [Man Pages](https://www.glaze.app/app/tn3iXn) | 5 | Browse Unix manual pages visually | Lee Sherman | 1.0.0 | 63 KB | 2026-07-16 |
-| [Manuscript](https://www.glaze.app/app/8l5TMB) | 5 | Track every draft of your writing | Vicbringas | 2.0.0 | 140 KB | 2026-07-15 |
 | [Meal Calendar](https://www.glaze.app/app/MycHzs) | 5 | Plan your weekly meals visually | BELUX | 2.0.0 | 95 KB | 2026-07-19 |
+| [Meanwhile](https://www.glaze.app/app/u3xmpq) | 5 | Did you mean to be doing this? | Dmitrii Verv | 7.0.0 | 80 KB | 2026-07-28 |
+| [Melodyy](https://www.glaze.app/app/UExrEP) | 5 | Make music, easily anytime | Ọláníyì Olúfẹ́mi | 3.0.0 | 731 KB | 2026-07-27 |
 | [MP3 Tag Editor](https://www.glaze.app/app/VvBT0Z) | 5 | Edit MP3 metadata in seconds | M | 2.0.0 | 452 KB | 2026-07-08 |
 | [Markdown Ninja](https://www.glaze.app/app/MzVKWz) | 4 | View And Work on Multiple MD Formats | goldzulu | 3.0.0 | 5.0 MB | 2026-07-30 |
 | [Markdown Opener](https://www.glaze.app/app/ACEtji) | 4 | View and edit markdown documents | Jason2009hk | 1.0.0 | 101 KB | 2026-07-03 |
-| [Meanwhile](https://www.glaze.app/app/u3xmpq) | 4 | Did you mean to be doing this? | Dmitrii Verv | 7.0.0 | 80 KB | 2026-07-28 |
-| [Melodyy](https://www.glaze.app/app/UExrEP) | 4 | Make music, easily anytime | Ọláníyì Olúfẹ́mi | 3.0.0 | 731 KB | 2026-07-27 |
 | [Melvin](https://www.glaze.app/app/WV6AfY) | 4 | Small steps toward real connection | Amy Milford | 3.0.0 | 75 KB | 2026-07-28 |
 | [Menu Music](https://www.glaze.app/app/bP67GH) | 4 | Control Apple Music from menu bar | Elisac | 1.0.0 | 53 KB | 2026-07-05 |
 | [MenuTune](https://www.glaze.app/app/dg8YWS) | 4 | Control music right from your menu. | discountry | 1.0.0 | 163 KB | 2026-07-04 |
 | [meridian os](https://www.glaze.app/app/8ku3ER) | 4 | Plot your career trajectory in space | ラン凌 | 1.0.0 | 98.3 MB | 2026-07-28 |
-| [Mic Mute](https://www.glaze.app/app/zPTfs6) | 4 | Instantly mute all system microphones | Glaze | 1.0.0 | 59 KB | 2026-07-30 |
+| [Meta Inspector](https://www.glaze.app/app/bjRu3f) | 4 | Extract and display Open Graph metadata | Yiwei Ho | 1.0.0 | 77 KB | 2026-07-26 |
+| [Mic Mute](https://www.glaze.app/app/zPTfs6) | 4 | Instantly mute all system microphones | Glaze | 2.0.0 | 63 KB | 2026-08-04 |
 | [Morning Reel](https://www.glaze.app/app/eJ0HOq) | 4 | Your daily recap from yesterday's work | Raynjoroge4 | 1.0.0 | 1.0 MB | 2026-07-24 |
 | [Mortgage Compass](https://www.glaze.app/app/lRnWp3) | 4 | Navigate your mortgage with confidence | Josiah Ayres | 1.0.0 | 678 KB | 2026-07-25 |
 | [MStudio](https://www.glaze.app/app/PP2I8B) | 4 | Write and format markdown documents | Bourne jason | 1.0.0 | 1.8 MB | 2026-07-02 |
-| [mvt - Music Viz Tool](https://www.glaze.app/app/mvt-music-viz-tool-7CE4oc) | 4 | 00’s-Style Music Visualization App 💪 | Randy Pitcher II | 1.0.0 | 89 KB | 2026-08-03 |
 | [MyLibrary](https://www.glaze.app/app/A5XSe8) | 4 | "Organize all your books in one place" | 83 Sipper Steamer | 1.0.0 | 968 KB | 2026-07-28 |
 | [MyNews](https://www.glaze.app/app/3Qu8Hb) | 4 | Your news, organized your way | Tom Panos | 2.0.0 | 661 KB | 2026-07-09 |
 | [Mailchat](https://www.glaze.app/app/doRr2i) | 3 | Email organized like conversations | Niklas Hohn | 1.0.0 | 1.1 MB | 2026-07-17 |
@@ -101,7 +102,6 @@
 | [MeetingBrain](https://www.glaze.app/app/4OWfTA) | 3 | Local Meeting Transcription and more | Felix | 6.0.0 | 2.7 MB | 2026-07-27 |
 | [Memory Float](https://www.glaze.app/app/duk2u9) | 3 | Monitor real-time memory usage by app | Dave Wong | 1.0.0 | 57 KB | 2026-07-15 |
 | [Menu Bar Score Board](https://www.glaze.app/app/lhjiy9) | 3 | Track sports scores and fantasy teams | Silas Howe | 1.0.0 | 76 KB | 2026-07-11 |
-| [Meta Inspector](https://www.glaze.app/app/bjRu3f) | 3 | Extract and display Open Graph metadata | Yiwei Ho | 1.0.0 | 77 KB | 2026-07-26 |
 | [MIDI Bay](https://www.glaze.app/app/6W5ed6) | 3 | Midi Control Center for your Synths | Shawn Roos | 1.0.0 | 10.2 MB | 2026-07-04 |
 | [Minesweeper 95](https://www.glaze.app/app/cjWyek) | 3 | Clear the board, avoid the mines, win | hottubjohn | 1.0.0 | 61 KB | 2026-07-17 |
 | [Monitor Snap](https://www.glaze.app/app/2DiSf1) | 3 | Auto-organize windows on ultrawide | Ivo Tanev | 1.0.0 | 62 KB | 2026-07-18 |

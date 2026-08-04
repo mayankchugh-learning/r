@@ -1,6 +1,6 @@
 # Bar ✦
 
-10 apps · [← Calendar & Time](./README.md)
+11 apps · [← Calendar & Time](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -16,3 +16,4 @@
 | [Nudge](https://www.glaze.app/app/39gt88) | 3 | Health reminders in your Mac's notch | tonoizer | 2.0.0 | 51 KB | 2026-07-23 |
 | [Timezone](https://www.glaze.app/app/4v1BH7) | 2 | Find any time, anywhere, instantly | Lauren | 2.0.0 | 60 KB | 2026-07-03 |
 | [World Time](https://www.glaze.app/app/HDtRH3) | 2 | View multiple time zones at a glance | Yash | 1.0.0 | 80 KB | 2026-07-02 |
+| [Focus Break](https://www.glaze.app/app/focus-break-EzbjzE) | 0 | Work focused, rest your eyes regularly | Jackson Graddon | 1.0.0 | 68 KB | 2026-08-04 |

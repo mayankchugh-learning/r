@@ -7,7 +7,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Brui](https://www.glaze.app/app/eOPXRV) | 109 | Visual interface for Homebrew package | Niall | 2.0.0 | 65 KB | 2026-07-11 |
-| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 75 | Breathing companion for calm focus | fra.raw | 6.0.0 | 855 KB | 2026-07-31 |
+| [Brez](https://www.glaze.app/app/brez-nx6Oj0) | 79 | Breathing companion for calm focus | fra.raw | 6.0.0 | 855 KB | 2026-07-31 |
 | [BrewStore](https://www.glaze.app/app/HWO3ZX) | 65 | Browse apps from Homebrew | WheelHugger | 1.0.0 | 193 KB | 2026-07-13 |
 | [Breakout Dock](https://www.glaze.app/app/EEcNPI) | 37 | Smash through your installed apps in a breakout-style game where bricks are apps and your dock controls the paddle | Yann-Edern Gillet | 1.0.1 | 180 KB | 2026-03-25 |
 | [Batch Crop](https://www.glaze.app/app/tYEQoH) | 29 | Crop multiple images identically at once | Jordan Amblin | 2.0.0 | 7.4 MB | 2026-04-15 |
@@ -30,21 +30,21 @@
 | [Breathe](https://www.glaze.app/app/AB5RAV) | 9 | Find calm through guided breath work | Glaze | 1.0.0 | 65 KB | 2026-07-01 |
 | [Beat Survivor](https://www.glaze.app/app/nv14PV) | 8 | Defeat enemies with rhythmic beat | Yusuf Kınataş | 1.0.0 | 74 KB | 2026-07-01 |
 | [Bookmarks](https://www.glaze.app/app/ihUztq) | 8 | Bookmarks in your menu bar | Dmytro Lobov | 7.0.0 | 54 KB | 2026-07-26 |
+| [Bandcamp Player](https://www.glaze.app/app/t3QI7q) | 7 | Discover and stream music on Bandcamp | Patrice Scheidt | 5.0.0 | 80 KB | 2026-07-29 |
 | [Bepulse](https://www.glaze.app/app/4sJ7h2) | 7 | Real-time debugging dashboard that instantly displays code logs and data from any language in organized channels | Per Nielsen Tikær | 1.0.1 | 300 KB | 2026-03-09 |
 | [Bondfire](https://www.glaze.app/app/g9yKcF) | 7 | The cheat code for staying connected. | Kim Nehzaty | 3.0.0 | 162 KB | 2026-07-28 |
 | [Break Time](https://www.glaze.app/app/f5AsqN) | 7 | Hourly reminders to move and rest | Noah Czelusta | 2.0.0 | 66 KB | 2026-07-06 |
 | [Brew Commander](https://www.glaze.app/app/3miw5s) | 7 | Point and click your Homebrew commands | S.Peacock | 1.0.0 | 59 KB | 2026-07-12 |
 | [BrewStuff](https://www.glaze.app/app/EtjGKj) | 7 | Homebrew management at your fingertips | Hash | 4.0.0 | 68 KB | 2026-07-26 |
-| [Bandcamp Player](https://www.glaze.app/app/t3QI7q) | 6 | Discover and stream music on Bandcamp | Patrice Scheidt | 5.0.0 | 80 KB | 2026-07-29 |
 | [Better Finder](https://www.glaze.app/app/PV8dgl) | 6 | better fs for windows/mac fs refuges!! | Paranjay Khachar | 2.0.0 | 86 KB | 2026-07-26 |
 | [Bitrate Inspector](https://www.glaze.app/app/K56QgJ) | 6 | Check audio bitrate in seconds | Ivo Tanev | 2.0.0 | 68 KB | 2026-07-18 |
 | [Bloodline](https://www.glaze.app/app/3t8E2Y) | 6 | Your blood tests, explained over time! | BLCNYY | 24.0.0 | 765 KB | 2026-07-28 |
 | [Blueprint](https://www.glaze.app/app/Ahtha9) | 6 | Turn ideas into software blueprints | Adedoyin Emmanuel | 1.0.0 | 2.1 MB | 2026-07-27 |
+| [Blunder](https://www.glaze.app/app/0dUOLc) | 6 | Learn from your own mistakes. | Francesco Maisano | 6.0.0 | 6.4 MB | 2026-07-31 |
 | [Bookie](https://www.glaze.app/app/Z2swLA) | 6 | Convert eBooks with perfect formatting | Timothy Jones | 1.0.0 | 344 KB | 2026-04-16 |
 | [Briefed](https://www.glaze.app/app/pFXQt7) | 6 | Wake up, Get Briefed. | lagon20ms | 1.0.0 | 81 KB | 2026-07-27 |
 | [BearMark](https://www.glaze.app/app/BhCTVn) | 5 | Markdown notes with Beeerr's simplicity | Hong Linh Vu | 1.0.0 | 276 KB | 2026-07-06 |
 | [BitPerfect](https://www.glaze.app/app/yYGHPD) | 5 | Apple Music lossless, played perfectly | gutek | 1.0.0 | 20 KB | 2026-06-01 |
-| [Blunder](https://www.glaze.app/app/0dUOLc) | 5 | Learn from your own mistakes. | Francesco Maisano | 6.0.0 | 6.4 MB | 2026-07-31 |
 | [Balance Sheet](https://www.glaze.app/app/qitbAW) | 4 | Track bills and projected balances | Matt Elliott | 1.0.0 | 65 KB | 2026-07-01 |
 | [BatteryPulse](https://www.glaze.app/app/g1iPS4) | 4 | Real watts, measured. Not estimated. | Tommy Chiam | 2.0.0 | 68 KB | 2026-07-28 |
 | [Better ToDo App](https://www.glaze.app/app/F32Gah) | 4 | Assign Monetary Value to Your Tasks | alexi.build | 5.0.0 | 101 KB | 2026-07-14 |

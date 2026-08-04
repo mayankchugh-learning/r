@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-105 publishers · [← publisher index](./README.md)
+106 publishers · [← publisher index](./README.md)
 
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
@@ -18,7 +18,7 @@
 | Mahesh Chambhare | 1 | 3 | [MCRudra Compress](https://www.glaze.app/app/6nwL0X) *(Developer Tools)* |
 | Mahesh Shantaram | 1 | 1 | [Quick2AVault](https://www.glaze.app/app/Ez7tQc) *(Productivity)* |
 | Maicol Oliveira | 1 | 3 | [Lynxview - Image Viewer](https://www.glaze.app/app/VidXHE) *(Utilities)* |
-| Maik Klotz | 1 | 6 | [Toob](https://www.glaze.app/app/riVQfp) *(Media)* |
+| Maik Klotz | 1 | 7 | [Toob](https://www.glaze.app/app/riVQfp) *(Media)* |
 | Majesticwalrusz | 1 | 2 | [Vinyl](https://www.glaze.app/app/lD6nEv) *(Media)* |
 | MajorLaser | 1 | 2 | [Plex Converter](https://www.glaze.app/app/IIUGLl) *(Utilities)* |
 | Maliakkaya | 1 | 0 | [AI Parking Lot](https://www.glaze.app/app/CPeGbJ) *(Productivity)* |
@@ -49,7 +49,7 @@
 | Masudur Rahman | 1 | 2 | [NeuroRoutine](https://www.glaze.app/app/8aevDt) *(Productivity)* |
 | matheusjprates | 1 | 7 | [alembro](https://www.glaze.app/app/CdHNAP) *(Productivity)* |
 | Mathieu Dutour | 1 | 31 | [KeyMap](https://www.glaze.app/app/WuhRnA) *(Productivity)* |
-| Mati from Kavaju Resa | 1 | 8 | [Kept](https://www.glaze.app/app/FtwSCJ) *(Productivity)* |
+| Mati from Kavaju Resa | 1 | 9 | [Kept](https://www.glaze.app/app/FtwSCJ) *(Productivity)* |
 | Matt Elliott | 1 | 4 | [Balance Sheet](https://www.glaze.app/app/qitbAW) *(Productivity)* |
 | Matt Lovett | 2 | 15 | [Site Check](https://www.glaze.app/app/dTsGOe) *(Developer Tools)*, [Net Worth](https://www.glaze.app/app/XWEEaF) *(Productivity)* |
 | Matt.Borgmeyer | 1 | 0 | [Interval Timer](https://www.glaze.app/app/iSpPO5) *(Utilities)* |
@@ -58,7 +58,7 @@
 | Maxim B | 1 | 4 | [Bubble Break](https://www.glaze.app/app/BixbZm) *(Games & Fun)* |
 | Maxime Le Bec | 1 | 1 | [FitPlan](https://www.glaze.app/app/1VCZdn) *(Productivity)* |
 | May Zhou | 1 | 9 | [snap sort](https://www.glaze.app/app/Ic87j0) *(Utilities)* |
-| Maya Avendaño | 1 | 428 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
+| Maya Avendaño | 1 | 439 | [Radical](https://www.glaze.app/app/radical-s4LsSN) *(Productivity)* |
 | mboeru | 1 | 1 | [TeamsToDeck Commands](https://www.glaze.app/app/5kyOs4) *(Productivity)* |
 | mcfoton | 1 | 2 | [Cabled](https://www.glaze.app/app/KRIVgd) *(Developer Tools)* |
 | Me | 1 | 6 | [Markdown Notes](https://www.glaze.app/app/myI9Nz) *(Productivity)* |
@@ -66,13 +66,14 @@
 | Mehran Bahrami Samani | 1 | 5 | [Focus Track](https://www.glaze.app/app/YZpR5B) *(Productivity)* |
 | Mehul Chokshi | 2 | 32 | [Tempo](https://www.glaze.app/app/eJfpqe) *(Productivity)*, [Timezone Shift](https://www.glaze.app/app/uJGLv4) *(Utilities)* |
 | Mel Lent | 1 | 17 | [Meeting Glow](https://www.glaze.app/app/fFmwaY) *(Productivity)* |
-| [melvin](./id/melvin.md) | 7 | 363 | [see all 7 →](./id/melvin.md) |
+| [melvin](./id/melvin.md) | 7 | 367 | [see all 7 →](./id/melvin.md) |
 | mert can demir | 1 | 4 | [quackchestra](https://www.glaze.app/app/6FX1X0) *(Media)* |
 | Mete Polat | 1 | 37 | [Skill Vault](https://www.glaze.app/app/vDXO9z) *(Developer Tools)* |
+| Michael Brisk | 1 | 1 | [Hubby](https://www.glaze.app/app/hubby-5PcH53) *(Utilities)* |
 | Michael Clear | 1 | 1 | [Whisker Rewards](https://www.glaze.app/app/imwPlX) *(Productivity)* |
 | Michaël Maarek | 1 | 4 | [Slice](https://www.glaze.app/app/kaCR16) *(Utilities)* |
 | Michael Nielsen | 1 | 42 | [Hackerfeed](https://www.glaze.app/app/f22UqI) *(Developer Tools)* |
-| Michael O'Sullivan | 3 | 9 | [Text Capture](https://www.glaze.app/app/2ZwhpN) *(Developer Tools)*, [Face Finder](https://www.glaze.app/app/NCIzxf) *(Utilities)*, [ContextShelf](https://www.glaze.app/app/OMbGyo) *(Productivity)* |
+| Michael O'Sullivan | 3 | 10 | [Text Capture](https://www.glaze.app/app/2ZwhpN) *(Developer Tools)*, [Face Finder](https://www.glaze.app/app/NCIzxf) *(Utilities)*, [ContextShelf](https://www.glaze.app/app/OMbGyo) *(Productivity)* |
 | Michael Zahn | 1 | 7 | [World Cup Tracker](https://www.glaze.app/app/ORfSc3) *(Productivity)* |
 | Michaela Šimůnková | 1 | 2 | [Shelf](https://www.glaze.app/app/shelf-RWtMIh) *(Utilities)* |
 | Michał Zuch | 1 | 11 | [Darkroom](https://www.glaze.app/app/nhpgO9) *(Utilities)* |
@@ -93,8 +94,8 @@
 | Mohamed Fauzaan | 1 | 6 | [RequestHub](https://www.glaze.app/app/a5Yz62) *(Developer Tools)* |
 | Mohamed Kerroudj | 1 | 14 | [Image Converter](https://www.glaze.app/app/4nScHZ) *(Utilities)* |
 | Mohammad Akteruzzaman | 2 | 5 | [AK Paint](https://www.glaze.app/app/o9b0QK) *(Design)*, [AK ScreenCap](https://www.glaze.app/app/isCi9d) *(Utilities)* |
-| Mohammad Nabhan | 1 | 2 | [Visus : Personal Dashboards](https://www.glaze.app/app/arOO8W) *(Productivity)* |
-| Mohd Danish Yusuf | 2 | 31 | [SuperDev Pro](https://www.glaze.app/app/oUJ9UR) *(Utilities)*, [Magpie](https://www.glaze.app/app/Ybi9fe) *(Design)* |
+| Mohammad Nabhan | 1 | 3 | [Visus : Personal Dashboards](https://www.glaze.app/app/arOO8W) *(Productivity)* |
+| Mohd Danish Yusuf | 2 | 32 | [SuperDev Pro](https://www.glaze.app/app/oUJ9UR) *(Utilities)*, [Magpie](https://www.glaze.app/app/Ybi9fe) *(Design)* |
 | Montaser Sawi | 1 | 3 | [Volume Display](https://www.glaze.app/app/MzFiNY) *(Utilities)* |
 | Montoya | 1 | 2 | [Scores](https://www.glaze.app/app/Rtuf5n) *(Games & Fun)* |
 | Morgan Ridley-Smith | 1 | 4 | [File Type Converter](https://www.glaze.app/app/1fM6y0) *(Utilities)* |

@@ -28,10 +28,10 @@
 | [Notepad for Mac](https://www.glaze.app/app/4cOMSP) | 7 | Notes, simplified for Mac | Jirawat Thaenthong | 1.0.0 | 111 KB | 2026-07-14 |
 | [Notion Memory](https://www.glaze.app/app/6F9TVc) | 7 | Remember everything you learn in Notion | Xuan | 2.0.0 | 120 KB | 2026-07-04 |
 | [Network Utility](https://www.glaze.app/app/WWGiYi) | 6 | Monitor and diagnose network connections | thejasonhowell | 2.0.0 | 70 KB | 2026-07-09 |
+| [Noted](https://www.glaze.app/app/O03e66) | 5 | Powerful notetaker just one hotkey away | Bruce Makes | 11.0.0 | 207 KB | 2026-07-28 |
 | [Net Worth](https://www.glaze.app/app/XWEEaF) | 4 | Track all your assets and liabilities | Matt Lovett | 2.0.0 | 87 KB | 2026-06-07 |
 | [NetWatch](https://www.glaze.app/app/1Ds4iP) | 4 | Monitor network speed, ping, and system | Iaroslav Naiden | 1.0.0 | 75 KB | 2026-07-05 |
 | [News Flow](https://www.glaze.app/app/LmfyXP) | 4 | One AI-ranked feed for news and video | WheelHugger | 2.0.0 | 518 KB | 2026-07-31 |
-| [Noted](https://www.glaze.app/app/O03e66) | 4 | Powerful notetaker just one hotkey away | Bruce Makes | 11.0.0 | 207 KB | 2026-07-28 |
 | [NotePad](https://www.glaze.app/app/Zyffcj) | 4 | Take notes and organize with folders | Evan | 1.0.0 | 82 KB | 2026-07-01 |
 | [Now Playing](https://www.glaze.app/app/wTArrC) | 4 | Display currently playing Spotify track | Peter Brinck | 3.0.0 | 79 KB | 2026-07-20 |
 | [Neovim Notes](https://www.glaze.app/app/35eP2I) | 3 | Take notes in your Neovim editor | Daniele Avitabile | 8.0.0 | 15.2 MB | 2026-07-31 |

@@ -11,7 +11,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Wordle Daily](https://www.glaze.app/app/PK5SJc) | 11 | Guess the word in six tries every day | extrastu | 1.0.0 | 63 KB | 2026-07-02 |
-| [Blunder](https://www.glaze.app/app/0dUOLc) | 5 | Learn from your own mistakes. | Francesco Maisano | 6.0.0 | 6.4 MB | 2026-07-31 |
+| [Blunder](https://www.glaze.app/app/0dUOLc) | 6 | Learn from your own mistakes. | Francesco Maisano | 6.0.0 | 6.4 MB | 2026-07-31 |
 | [Picked](https://www.glaze.app/app/CICev7) | 4 | Find your next game in seconds | Vova | 1.0.0 | 96 KB | 2026-07-26 |
 | [Scores](https://www.glaze.app/app/Rtuf5n) | 2 | A daily word game with persistent stats. | Montoya | 1.0.0 | 193 KB | 2026-07-02 |
 | [Game Plan](https://www.glaze.app/app/DPqVNc) | 1 | All your games, one calendar | Sean Quinn | 1.0.0 | 62 KB | 2026-05-04 |

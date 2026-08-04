@@ -22,7 +22,7 @@
 | [Gaze](https://www.glaze.app/app/lIYdXQ) | 13 | Rest your eyes every 20 minutes | Giulio | 1.0.0 | 50 KB | 2026-06-04 |
 | [GitLab Client](https://www.glaze.app/app/OJT881) | 11 | Browse GitLab repositories and pipelines | Torsten Lemke | 1.0.0 | 124 KB | 2026-06-29 |
 | [Grove](https://www.glaze.app/app/5VhVgW) | 11 | Downloads, finally organized | Jafar Umoru | 2.0.0 | 4.4 MB | 2026-07-27 |
-| [Ghost](https://www.glaze.app/app/n7fZjc) | 9 | Build with your codebase context | ImisiD | 1.0.0 | 75 KB | 2026-07-28 |
+| [Ghost](https://www.glaze.app/app/n7fZjc) | 10 | Build with your codebase context | ImisiD | 1.0.0 | 75 KB | 2026-07-28 |
 | [Ghostie](https://www.glaze.app/app/RvmVhm) | 8 | Your cursor's adorable ghostly companion | vr | 1.0.0 | 53 KB | 2026-05-02 |
 | [Glazer Blast!](https://www.glaze.app/app/sFhKRR) | 8 | Blast away all the Glaze… things... | David Claridge | 2.0.0 | 60 KB | 2026-07-01 |
 | [Graze](https://www.glaze.app/app/x4aWfd) | 8 | Explore the most interesting information | Shearm | 10.0.0 | 269 KB | 2026-07-27 |

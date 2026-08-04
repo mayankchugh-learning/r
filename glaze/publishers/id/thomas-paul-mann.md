@@ -1,6 +1,6 @@
 # Thomas Paul Mann
 
-12 apps · 3,445 installs · [← publishers](../README.md)
+12 apps · 3,449 installs · [← publishers](../README.md)
 
 ## Media (1)
 
@@ -12,8 +12,8 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 450 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 85 KB | 2026-07-14 |
-| [Peel](https://www.glaze.app/app/esimhU) | 417 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
+| [Defaults](https://www.glaze.app/app/defaults-G62ohp) | 452 | Access hidden macOS settings easily | Thomas Paul Mann | 2.0.0 | 85 KB | 2026-07-14 |
+| [Peel](https://www.glaze.app/app/esimhU) | 419 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
 | [Compressor](https://www.glaze.app/app/rISkCt) | 65 | Compress videos in seconds, any quality | Thomas Paul Mann | 3.0.0 | 64 KB | 2026-07-01 |
 
 ## Developer Tools (2)

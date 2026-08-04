@@ -1,12 +1,12 @@
 # LukeberryPi
 
-4 apps · 23 installs · [← publishers](../README.md)
+4 apps · 25 installs · [← publishers](../README.md)
 
 ## Media (2)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Sampler](https://www.glaze.app/app/daIOtZ) | 9 | Sample, slice and export any audio | LukeberryPi | 3.0.0 | 77 KB | 2026-07-30 |
+| [Sampler](https://www.glaze.app/app/daIOtZ) | 11 | Sample, slice and export any audio | LukeberryPi | 3.0.0 | 77 KB | 2026-07-30 |
 | [VinylMaster](https://www.glaze.app/app/rc1Lkd) | 9 | Master vinyl beat-matching | LukeberryPi | 1.0.0 | 80 KB | 2026-07-28 |
 
 ## Games & Fun (1)

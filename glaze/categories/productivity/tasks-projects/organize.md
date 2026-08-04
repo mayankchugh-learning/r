@@ -9,7 +9,7 @@
 | [Loculus](https://www.glaze.app/app/XjRX2m) | 7 | Organize downloads like a to-do list | Charles.Escat | 2.0.0 | 81 KB | 2026-06-20 |
 | [Meal Calendar](https://www.glaze.app/app/MycHzs) | 5 | Plan your weekly meals visually | BELUX | 2.0.0 | 95 KB | 2026-07-19 |
 | [Project Hub](https://www.glaze.app/app/A4Laxi) | 4 | Centralize all your projects resources | Ben Mason | 2.0.0 | 128 KB | 2026-07-28 |
-| [FlowCheck](https://www.glaze.app/app/flowcheck-LpK4p1) | 3 | Run checklists from your menu bar | Aanya Singh | 7.0.0 | 81 KB | 2026-08-02 |
+| [FlowCheck](https://www.glaze.app/app/LpK4p1) | 3 | Run checklists from your menu bar | Aanya Singh | 7.0.0 | 81 KB | 2026-08-02 |
 | [Inspired](https://www.glaze.app/app/uNUgMN) | 3 | Capture ideas. Build with Inspiration | Nikki Nguyen | 1.0.0 | 70 KB | 2026-07-23 |
 | [Stay Focus](https://www.glaze.app/app/4fKCfc) | 3 | Own your time, stay focused | Vishwanath Mathpati | 1.0.0 | 118 KB | 2026-07-27 |
 | [Construction Drawing Tracker](https://www.glaze.app/app/a5cQZS) | 2 | Track construction drawings by project, | Nicholas Lortz | 1.0.0 | 100 KB | 2026-07-28 |

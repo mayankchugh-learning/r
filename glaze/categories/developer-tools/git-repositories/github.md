@@ -24,7 +24,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 304 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
+| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 305 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
 | [Markdown View](https://www.glaze.app/app/fep2id) | 22 | Markdown Preview and Auto-Updating | Rick Wilkes | 2.0.0 | 166 KB | 2026-07-03 |
 | [Glasshouse](https://www.glaze.app/app/VhRMAU) | 17 | The town square for Glaze ecosystem! | Mike | 6.0.0 | 110 KB | 2026-07-28 |
 | [Applause](https://www.glaze.app/app/0La79U) | 2 | Celebrate GitHub stars on your repos in | Giovambattista Fazioli | 1.0.0 | 70 KB | 2026-07-01 |
@@ -33,7 +33,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 713 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 111 KB | 2026-04-15 |
+| [Mac Setup](https://www.glaze.app/app/ZtKVr6) | 714 | Sync your Mac setup | Nichlas Wærnes Andersen | 6.0.0 | 111 KB | 2026-04-15 |
 | [GitHub Actions Monitor](https://www.glaze.app/app/OxiQZL) | 18 | Monitor GitHub Actions in your menu bar | Adil Erchouk | 2.0.0 | 75 KB | 2026-07-02 |
 | [Flaremail](https://www.glaze.app/app/hB2ADe) | 14 | Native opensource email client & server | Fayaz Ahmed | 1.0.0 | 95 KB | 2026-07-23 |
 | [Dev Secrets](https://www.glaze.app/app/6wpfCy) | 11 | Store and manage local dev environment | Peter Kracik | 1.0.0 | 78 KB | 2026-07-02 |

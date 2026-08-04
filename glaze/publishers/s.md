@@ -7,7 +7,7 @@
 | Publisher | Apps | Installs | Apps |
 | --- | --- | --- | --- |
 | [S.Peacock](./id/s-peacock.md) | 6 | 39 | [see all 6 →](./id/s-peacock.md) |
-| Sabik Biswas | 1 | 12 | [Copy Shelf](https://www.glaze.app/app/DO5ttX) *(Utilities)* |
+| Sabik Biswas | 1 | 13 | [Copy Shelf](https://www.glaze.app/app/DO5ttX) *(Utilities)* |
 | Sachin | 1 | 13 | [Saturn](https://www.glaze.app/app/ewPgBX) *(Productivity)* |
 | Saeed Vaziry | 1 | 6 | [Task List](https://www.glaze.app/app/0mqTCb) *(Productivity)* |
 | Sahil Patel | 1 | 21 | [Convert](https://www.glaze.app/app/lSbAX2) *(Utilities)* |
@@ -20,13 +20,13 @@
 | sakshi ranglani | 1 | 6 | [SKECHE](https://www.glaze.app/app/vUHlzf) *(Design)* |
 | Sam Parker | 1 | 9 | [Sheet Pro](https://www.glaze.app/app/1mqpDb) *(Productivity)* |
 | Sam Sitar | 1 | 6 | [Caption Craft](https://www.glaze.app/app/D4916q) *(Media)* |
-| Sam Stephenson | 1 | 3 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) *(Productivity)* |
+| Sam Stephenson | 1 | 4 | [Tidy](https://www.glaze.app/app/tidy-kZaPoj) *(Productivity)* |
 | Sam Underwood | 1 | 5 | [Series Rename](https://www.glaze.app/app/yoYsjM) *(Utilities)* |
 | Sam.Minton | 1 | 29 | [Moodboard](https://www.glaze.app/app/0LJlsa) *(Design)* |
-| Sambit Biswas | 1 | 13 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) *(Design)* |
+| Sambit Biswas | 1 | 15 | [Icon Composer Pro Max](https://www.glaze.app/app/T84s2x) *(Design)* |
 | Samet Özkale | 1 | 2 | [Habit Periods](https://www.glaze.app/app/133jtm) *(Productivity)* |
-| [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,100 | [see all 7 →](./id/samuel-kraft.md) |
-| Samuel Lee | 1 | 15 | [Ludus](https://www.glaze.app/app/4RDpwn) *(Productivity)* |
+| [Samuel Kraft](./id/samuel-kraft.md) | 7 | 1,104 | [see all 7 →](./id/samuel-kraft.md) |
+| Samuel Lee | 1 | 16 | [Ludus](https://www.glaze.app/app/4RDpwn) *(Productivity)* |
 | Samuel Monteiro | 1 | 6 | [Hold](https://www.glaze.app/app/GvHeQR) *(Productivity)* |
 | Sander Schat | 1 | 4 | [Local Server](https://www.glaze.app/app/Lk3DCH) *(Developer Tools)* |
 | Sandipan Kundu | 1 | 3 | [Spotlight](https://www.glaze.app/app/ks65fD) *(Developer Tools)* |
@@ -42,7 +42,7 @@
 | Sean | 1 | 1 | [Peep](https://www.glaze.app/app/rncFT4) *(Utilities)* |
 | Sean Quinn | 2 | 4 | [Jumbotron](https://www.glaze.app/app/kXzIJm) *(Media)*, [Game Plan](https://www.glaze.app/app/DPqVNc) *(Games & Fun)* |
 | [Sean Thomas Stuart](./id/sean-thomas-stuart.md) | 7 | 71 | [see all 7 →](./id/sean-thomas-stuart.md) |
-| Sebastian Lathangue | 1 | 1 | [Freehold](https://www.glaze.app/app/ceEpX8) *(Utilities)* |
+| Sebastian Lathangue | 1 | 2 | [Freehold](https://www.glaze.app/app/ceEpX8) *(Utilities)* |
 | Sefat Anam | 1 | 2 | [Harmony](https://www.glaze.app/app/AABNF4) *(Media)* |
 | Sender Oppenheimer | 1 | 2 | [Flow Type](https://www.glaze.app/app/5eHueU) *(Productivity)* |
 | Sepehr | 1 | 6 | [Metronome](https://www.glaze.app/app/iIugrA) *(Utilities)* |
@@ -75,13 +75,13 @@
 | slowcrow | 1 | 1 | [Pixelman](https://www.glaze.app/app/BSV0GD) *(Utilities)* |
 | Smart King | 1 | 3 | [MDed](https://www.glaze.app/app/6WfoWC) *(Developer Tools)* |
 | sndrnz | 1 | 6 | [Mooring](https://www.glaze.app/app/xhpPCJ) *(Productivity)* |
-| Soeren.Poppe | 2 | 9 | [WidgetGrid](https://www.glaze.app/app/oil9CK) *(Utilities)*, [Hoops](https://www.glaze.app/app/FhuF5w) *(Games & Fun)* |
+| Soeren.Poppe | 2 | 10 | [WidgetGrid](https://www.glaze.app/app/oil9CK) *(Utilities)*, [Hoops](https://www.glaze.app/app/FhuF5w) *(Games & Fun)* |
 | Sohail Lajevardi | 1 | 2 | [GeoMeister](https://www.glaze.app/app/eZf6dm) *(Utilities)* |
-| Soham Dasgupta | 1 | 3 | [Hermes Commander](https://www.glaze.app/app/Li1r6b) *(Developer Tools)* |
+| Soham Dasgupta | 1 | 4 | [Hermes Commander](https://www.glaze.app/app/Li1r6b) *(Developer Tools)* |
 | Solomon Adzape | 1 | 3 | [Relay](https://www.glaze.app/app/OcQkmG) *(Productivity)* |
 | Solve Base | 3 | 11 | [Task List](https://www.glaze.app/app/9HYu19) *(Productivity)*, [Habit Tracker](https://www.glaze.app/app/nOfsDB) *(Productivity)*, [SolveBase Water Reminder](https://www.glaze.app/app/6bFtte) *(Productivity)* |
 | Song Qian | 1 | 4 | [Deskmate](https://www.glaze.app/app/ki1c5r) *(Productivity)* |
-| Sonia Kahn | 1 | 23 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) *(Productivity)* |
+| Sonia Kahn | 1 | 24 | [Yoto MYO Card Assistant](https://www.glaze.app/app/Vso2jl) *(Productivity)* |
 | Sonia Toqqe | 1 | 2 | [VoiceFrame](https://www.glaze.app/app/2ehSvS) *(Productivity)* |
 | spencersmith.site | 1 | 3 | [Nightshift](https://www.glaze.app/app/Iv56bT) *(Games & Fun)* |
 | Square Rabbit | 1 | 12 | [Reel Scout](https://www.glaze.app/app/D2po61) *(Media)* |
@@ -93,7 +93,7 @@
 | Stijn | 1 | 18 | [SVG Cleaner](https://www.glaze.app/app/i4NO8G) *(Developer Tools)* |
 | Stiven Orlando Triana | 1 | 3 | [La Galerie](https://www.glaze.app/app/zfoAhM) *(Design)* |
 | Subsaf | 1 | 7 | [Meeting Notes](https://www.glaze.app/app/0nerAv) *(Productivity)* |
-| Sujeevan Nagarajah | 1 | 10 | [OG Image Generator](https://www.glaze.app/app/axpi98) *(Design)* |
+| Sujeevan Nagarajah | 1 | 11 | [OG Image Generator](https://www.glaze.app/app/axpi98) *(Design)* |
 | Sumit Bedi | 1 | 2 | [Not sticky](https://www.glaze.app/app/DDK3Hb) *(Productivity)* |
 | Suowei Hu | 1 | 0 | [DDEV](https://www.glaze.app/app/1EtdCc) *(Developer Tools)* |
 | Suthep Yonphimai | 1 | 5 | [Task Bridge](https://www.glaze.app/app/fMUmix) *(Productivity)* |
@@ -101,4 +101,4 @@
 | Suyash Junnarkar | 1 | 3 | [Pause Before Purchase](https://www.glaze.app/app/9UusOE) *(Productivity)* |
 | Sven | 1 | 2 | [Contrasty](https://www.glaze.app/app/KBTe9V) *(Developer Tools)* |
 | Svitlana Demchenko | 1 | 1 | [Book Atlas](https://www.glaze.app/app/jY0l0Z) *(Media)* |
-| syn | 2 | 17 | [License Vault](https://www.glaze.app/app/pGkhli) *(Productivity)*, [Linear Tasks](https://www.glaze.app/app/p5xQyA) *(Productivity)* |
+| syn | 3 | 19 | [License Vault](https://www.glaze.app/app/pGkhli) *(Productivity)*, [Linear Tasks](https://www.glaze.app/app/p5xQyA) *(Productivity)*, [Caffeinate](https://www.glaze.app/app/caffeinate-hjeU4M) *(Utilities)* |

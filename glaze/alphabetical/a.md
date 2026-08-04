@@ -6,10 +6,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 861 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
+| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 862 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
 | [Awesome Script Commands](https://www.glaze.app/app/awesome-script-commands-Hi544G) | 221 | Code automation made simple and fast. | Thiago Holanda | 2.0.0 | 105 KB | 2026-04-15 |
 | [Arnie](https://www.glaze.app/app/tqkV16) | 61 | Search and explore fitness exercises | Thomas Paul Mann | 2.0.0 | 182 KB | 2026-06-30 |
-| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 58 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 143 KB | 2026-07-28 |
+| [Amber](https://www.glaze.app/app/amber-vZzCwc) | 59 | Perfect your coffee every single time | Vlad Bahara | 6.0.0 | 143 KB | 2026-07-28 |
 | [AI Models Database](https://www.glaze.app/app/VzvbvJ) | 44 | Browse AI Models, Providers, and Labs | alexi.build | 5.0.0 | 64 KB | 2026-07-11 |
 | [ASCII Capture](https://www.glaze.app/app/KxyppG) | 37 | Convert photos into customizable ASCII art and export as images or SVG for web use | Yassine A | 1.0.1 | 211 KB | 2026-03-25 |
 | [ACE](https://www.glaze.app/app/97rUBQ) | 33 | Teleprompter with live speaking support | Danial Siddiki | 3.0.0 | 6.9 MB | 2026-07-29 |
@@ -38,19 +38,20 @@
 | [all the ports](https://www.glaze.app/app/aDVzGP) | 9 | Monitor and manage local ports | Andreas Persson | 1.0.0 | 54 KB | 2026-06-13 |
 | [Alto](https://www.glaze.app/app/cvSTku) | 8 | Nurture your focus and movement 🌿 | Wael | 2.0.0 | 4.9 MB | 2026-07-28 |
 | [Angry Draft](https://www.glaze.app/app/MV5O0a) | 8 | Say what matters. Skip the regret. | Davide | 2.0.0 | 538 KB | 2026-07-27 |
-| [AppDater](https://www.glaze.app/app/OwBOvL) | 8 | Update all your Mac apps in one place | Sérgio Brandão | 26.0.0 | 179 KB | 2026-07-30 |
+| [AppDater](https://www.glaze.app/app/OwBOvL) | 8 | Update all your Mac apps in one place | Sérgio Brandão | 27.0.0 | 180 KB | 2026-08-03 |
 | [Agent Sandboxes](https://www.glaze.app/app/hzPbZ5) | 7 | Manage and view Docker containers | Neo I | 1.0.0 | 64 KB | 2026-07-07 |
 | [AI Model Fit](https://www.glaze.app/app/p8lgcd) | 7 | Find the best AI model for you | Gabriel García Fernández | 1.0.0 | 75 KB | 2026-07-25 |
 | [alembro](https://www.glaze.app/app/CdHNAP) | 7 | Language learning notebook | matheusjprates | 4.0.0 | 369 KB | 2026-07-19 |
+| [AppleAI](https://www.glaze.app/app/d0fNs4) | 7 | AIHub with in built apple intelligence. | Jaswanth | 1.0.0 | 442 KB | 2026-07-26 |
 | [AI Projects Hub](https://www.glaze.app/app/sloIJ1) | 6 | Track AI-powered projects and | Marc Valderrama | 1.0.0 | 84 KB | 2026-07-09 |
 | [App Inventory](https://www.glaze.app/app/xzGXO8) | 6 | Track every app you have installed | S.Peacock | 2.0.0 | 64 KB | 2026-07-14 |
-| [AppleAI](https://www.glaze.app/app/d0fNs4) | 6 | AIHub with in built apple intelligence. | Jaswanth | 1.0.0 | 442 KB | 2026-07-26 |
 | [Astral Guide](https://www.glaze.app/app/4Z7QVe) | 6 | Daily astrological insights from your | yelo cole | 1.0.0 | 310 KB | 2026-07-03 |
 | [Agent Analytics](https://www.glaze.app/app/lviOXL) | 5 | Monitor and optimize your AI agent usage | Han | 2.0.0 | 77 KB | 2026-07-03 |
 | [Airlock](https://www.glaze.app/app/ECzuJo) | 5 | A privacy checkpoint for every file | Ahmad Nurfadilah | 1.0.0 | 51.9 MB | 2026-07-27 |
 | [Arbor](https://www.glaze.app/app/Z2nW2k) | 5 | Grow Forests, Grow planets | Liam Moore | 1.0.0 | 75 KB | 2026-07-08 |
 | [Activity Ridge](https://www.glaze.app/app/f2dURs) | 4 | The activity journal that writes itself. | James Victor | 1.0.0 | 72 KB | 2026-07-25 |
 | [Age Encrypt](https://www.glaze.app/app/JEVK1b) | 4 | Encrypt text and files with age | Glazapp | 1.0.0 | 101 KB | 2026-07-08 |
+| [Apfel Chat](https://www.glaze.app/app/Qr8Sml) | 4 | Chat with Apfel through a GUI | Lee Sherman | 1.0.0 | 160 KB | 2026-07-23 |
 | [API-client](https://www.glaze.app/app/fDe2gg) | 4 | Test APIs locally without the hassle | beanie | 1.0.0 | 466 KB | 2026-07-08 |
 | [Attribute Inspector](https://www.glaze.app/app/BExoVn) | 4 | View and edit file extended attributes | Serhii Popov | 1.0.0 | 75 KB | 2026-07-03 |
 | [Audio Router](https://www.glaze.app/app/9blIKL) | 4 | Route audio the right way, every time. | Bradley Gibson | 7.0.0 | 63 KB | 2026-07-30 |
@@ -60,7 +61,6 @@
 | [AK Paint](https://www.glaze.app/app/o9b0QK) | 3 | Create, Edit and Share like MS Paint | Mohammad Akteruzzaman | 1.0.0 | 67 KB | 2026-07-22 |
 | [Alias them all](https://www.glaze.app/app/vaMT1g) | 3 | Manage shell aliases easily | violetpurpleish | 3.0.0 | 190 KB | 2026-07-28 |
 | [Anoto AI](https://www.glaze.app/app/zvec7a) | 3 | Chat with agents in your docs. | Ry2k | 3.0.0 | 296 KB | 2026-07-24 |
-| [Apfel Chat](https://www.glaze.app/app/Qr8Sml) | 3 | Chat with Apfel through a GUI | Lee Sherman | 1.0.0 | 160 KB | 2026-07-23 |
 | [Arrival](https://www.glaze.app/app/WecBem) | 3 | Connected drives into workflows. | Rich Washburn | 2.0.0 | 86 KB | 2026-07-13 |
 | [Aside](https://www.glaze.app/app/9T6P7P) | 3 | Put it aside. Pick up when it matters. | Magnus Digitalisering | 3.0.0 | 74 KB | 2026-07-28 |
 | [AuthReach](https://www.glaze.app/app/gT8Mjv) | 3 | Quick access to one-time passwords | Andreas Persson | 4.0.0 | 1.0 MB | 2026-07-27 |

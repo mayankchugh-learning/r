@@ -6,14 +6,14 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) | 262 | When you need to be somewhere else | Yann-Edern Gillet | 9.0.0 | 34.5 MB | 2026-08-03 |
+| [Elsewhere](https://www.glaze.app/app/elsewhere-khfW1h) | 270 | When you need to be somewhere else | Yann-Edern Gillet | 9.0.0 | 34.5 MB | 2026-08-03 |
 | [Electron Detector](https://www.glaze.app/app/R0hiOb) | 25 | Discover apps built with Electron.js | Donald Mok | 2.0.0 | 59 KB | 2026-07-01 |
 | [Emoji Generator](https://www.glaze.app/app/AOV7jA) | 14 | Generate custom emoji w/ OpenAI API key | Gavin Scott-Miller | 2.0.0 | 68 KB | 2026-07-14 |
 | [ElevenLingo](https://www.glaze.app/app/CM11Am) | 12 | Learn languages with ElevenLabs TTS | Taha Tesser | 5.0.0 | 76 KB | 2026-07-12 |
 | [Earshot](https://www.glaze.app/app/G4xftZ) | 10 | Share your audio, not your headphones | Pierre Guilmin | 4.0.0 | 144 KB | 2026-07-29 |
+| [EXTRCT](https://www.glaze.app/app/extrct-BG49j0) | 8 | YouTube / Soundcloud to MP3 - but easy. | melvin | 1.0.0 | 62 KB | 2026-08-03 |
 | [Easy Markdown Tables](https://www.glaze.app/app/ZN7QGj) | 5 | Tables to markdown in seconds | Joe Casabona | 1.0.0 | 61 KB | 2026-07-11 |
-| [EXTRCT](https://www.glaze.app/app/extrct-BG49j0) | 5 | YouTube / Soundcloud to MP3 - but easy. | melvin | 1.0.0 | 62 KB | 2026-08-03 |
-| [Educlopedia: Email for Testing](https://www.glaze.app/app/flq7iw) | 4 | Generate disposable emails instantly | Depa Panjie Purnama | 1.0.0 | 68 KB | 2026-07-28 |
+| [Educlopedia: Email for Testing](https://www.glaze.app/app/flq7iw) | 4 | Generate disposable emails, instantly. | Depa Panjie Purnama | 4.0.0 | 68 KB | 2026-08-04 |
 | [Emerald](https://www.glaze.app/app/rh8pT9) | 4 | Organize notes in nested hierarchies | Kakasf158 | 1.0.0 | 268 KB | 2026-07-07 |
 | [ExposureScanner](https://www.glaze.app/app/CkIqVF) | 4 | Find exposed .env and config files | Dmytro Lobov | 6.0.0 | 90 KB | 2026-07-22 |
 | [Eye Care](https://www.glaze.app/app/8tajKO) | 4 | Monitor screen time and rest your eyes | Yukai Huang | 4.0.0 | 55 KB | 2026-04-30 |

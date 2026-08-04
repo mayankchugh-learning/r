@@ -1,6 +1,6 @@
 # Tasks & Projects
 
-99 apps · [← Productivity](../README.md)
+100 apps · [← Productivity](../README.md)
 
 | Topic | Apps |
 | --- | --- |
@@ -9,7 +9,7 @@
 | [Day ✦](./day.md) | 10 |
 | [Everything ✦](./everything.md) | 5 |
 | [Live ✦](./live.md) | 4 |
-| [Focus ✦](./focus.md) | 4 |
-| [General](./general.md) | 10 |
+| [Bar ✦](./bar.md) | 4 |
+| [General](./general.md) | 11 |
 
 *✦ auto-discovered topic group*

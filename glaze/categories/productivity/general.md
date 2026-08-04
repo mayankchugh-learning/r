@@ -11,10 +11,10 @@
 | [Whisper Wrapper](https://www.glaze.app/app/VWE4ie) | 5 | Transcribe and summarize meetings | Eldar Khuzin | 1.0.0 | 71 KB | 2026-06-12 |
 | [Day Letter](https://www.glaze.app/app/x6jB95) | 4 | Summarize your day through browser | d41 pvt. | 1.0.0 | 70 KB | 2026-07-26 |
 | [Decision Clarifier](https://www.glaze.app/app/B5fDxN) | 4 | Work through decisions step by step | Alistair4312 | 1.0.0 | 69 KB | 2026-07-15 |
+| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 4 | Start your mac, stay focused | Sam Stephenson | 1.0.0 | 63 KB | 2026-08-03 |
 | [LinkedIn Pulse](https://www.glaze.app/app/mC2jGB) | 3 | Optimize your LinkedIn growth strategy | Alistair4312 | 4.0.0 | 72 KB | 2026-07-23 |
-| [Tidy](https://www.glaze.app/app/tidy-kZaPoj) | 3 | Start your mac, stay focused | Sam Stephenson | 1.0.0 | 63 KB | 2026-08-03 |
 | [Salah Time](https://www.glaze.app/app/SR2yd0) | 2 | Stay on time with every prayer | Haris Sulaiman | 6.0.0 | 86 KB | 2026-07-09 |
-| [Jamal](https://www.glaze.app/app/jamal-JN0yZw) | 1 | Voice-triggered custom shortcuts menu | Abdullah Alghamdi | 1.0.0 | 68 KB | 2026-07-31 |
+| [Jamal](https://www.glaze.app/app/JN0yZw) | 1 | Voice-triggered custom shortcuts menu | Abdullah Alghamdi | 1.0.0 | 68 KB | 2026-07-31 |
 | [Maternity Manager](https://www.glaze.app/app/c6u6jh) | 1 | Manage maternity house rooms and | 火柴 小 | 2.0.0 | 73 KB | 2026-07-08 |
 | [Quick Translate](https://www.glaze.app/app/fRbhRn) | 1 | Translate selected text instantly | Mickael Alves | 1.0.0 | 66 KB | 2026-07-30 |
 | [Station Log](https://www.glaze.app/app/wdk0Cs) | 1 | Report shifts and technical issues | Steven Emmons | 3.0.0 | 148 KB | 2026-07-22 |

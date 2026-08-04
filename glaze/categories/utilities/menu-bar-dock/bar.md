@@ -1,8 +1,8 @@
 # Bar ✦
 
-27 apps · [← Menu Bar & Dock](./README.md)
+29 apps · [← Menu Bar & Dock](./README.md)
 
-[Icon ✦](#icon) (11) · [Toggle ✦](#toggle) (4) · [General](#general) (12)
+[Icon ✦](#icon) (11) · [Toggle ✦](#toggle) (5) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
@@ -10,7 +10,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 396 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
+| [Icon Keeper](https://www.glaze.app/app/icon-keeper-x9TGum) | 401 | Life’s too short to use native icons | Yann-Edern Gillet | 6.0.0 | 9.7 MB | 2026-07-28 |
 | [Tube Float](https://www.glaze.app/app/RxZ5tQ) | 14 | Watch YouTube anywhere on your screen | John Kappa | 1.0.0 | 57 KB | 2026-07-03 |
 | [Quickdrop Shelf](https://www.glaze.app/app/3MhuXt) | 6 | Temporarily hold files and folders | Christos Bouronikos | 1.0.0 | 64 KB | 2026-07-03 |
 | [Timezone Shift](https://www.glaze.app/app/uJGLv4) | 5 | Compare timezones and adjust time | Mehul Chokshi | 2.0.0 | 71 KB | 2026-07-15 |
@@ -26,8 +26,9 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Copy That](https://www.glaze.app/app/QYtGUY) | 13 | Copy the uncopyable | Andrew Lindstrom | 2.0.0 | 324 KB | 2026-07-28 |
 | [Command X](https://www.glaze.app/app/rKoO7f) | 12 | Cut/paste using Command+X and Command+V | Danylo Zalizchuk | 1.0.0 | 63 KB | 2026-06-29 |
-| [Copy That](https://www.glaze.app/app/QYtGUY) | 11 | Copy the uncopyable | Andrew Lindstrom | 2.0.0 | 324 KB | 2026-07-28 |
+| [Caffeinate](https://www.glaze.app/app/caffeinate-hjeU4M) | 2 | Keep your Mac awake on your schedule | syn | 2.0.0 | 61 KB | 2026-08-04 |
 | [Paste Guard](https://www.glaze.app/app/1Xa88Q) | 1 | Control What Gets Pasted Into Your Apps | alexi.build | 1.0.0 | 63 KB | 2026-07-12 |
 | [awol](https://www.glaze.app/app/czXLeI) | 0 | Disable AWDL for smooth game streaming | Thiago Chu | 1.0.0 | 57 KB | 2026-07-27 |
 
@@ -37,7 +38,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Click Counter](https://www.glaze.app/app/oOdff8) | 14 | Track every click on your computer | Jordan Amblin | 2.0.0 | 49 KB | 2026-04-16 |
 | [Now Playing](https://www.glaze.app/app/cRnRhJ) | 12 | Display current song in your menu bar | Nick Tassone | 3.0.0 | 67 KB | 2026-07-16 |
-| [AppDater](https://www.glaze.app/app/OwBOvL) | 8 | Update all your Mac apps in one place | Sérgio Brandão | 26.0.0 | 179 KB | 2026-07-30 |
+| [AppDater](https://www.glaze.app/app/OwBOvL) | 8 | Update all your Mac apps in one place | Sérgio Brandão | 27.0.0 | 180 KB | 2026-08-03 |
 | [Translate](https://www.glaze.app/app/NTmoY8) | 8 | Instant translation from your menu bar | Oleh Yeroshkin | 1.0.0 | 55 KB | 2026-07-02 |
 | [Wallpaper Selector](https://www.glaze.app/app/F2kOkt) | 6 | Change wallpapers from your menu bar | Zmikula | 2.0.0 | 75 KB | 2026-07-04 |
 | [Menu Music](https://www.glaze.app/app/bP67GH) | 4 | Control Apple Music from menu bar | Elisac | 1.0.0 | 53 KB | 2026-07-05 |
@@ -47,3 +48,4 @@
 | [Touch Grass (UV Index)](https://www.glaze.app/app/hpowha) | 1 | Monitor UV levels and stay healthy | Marcus Wilter | 1.0.0 | 64 KB | 2026-07-29 |
 | [Wallhaven Switcher](https://www.glaze.app/app/0qxpi0) | 1 | Fresh walls, every day on autopilot | Elior Boukhobza | 2.0.0 | 62 KB | 2026-07-27 |
 | [Meridian](https://www.glaze.app/app/HyLo8Z) | 0 | Track time across multiple cities | Prabu Weerasinghe | 4.0.0 | 176 KB | 2026-07-28 |
+| [World Time](https://www.glaze.app/app/world-time-gWPgIn) | 0 | Track time zones from your menu bar | Faruk Parhat | 1.0.0 | 60 KB | 2026-08-04 |

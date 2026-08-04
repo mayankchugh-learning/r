@@ -47,7 +47,7 @@
 | [Ghosted](https://www.glaze.app/app/h3nZXl) | 18 | Ghost newsletters with a swipe | Azlan Ibrahim | 9.0.0 | 180 KB | 2026-08-01 |
 | [OTPop](https://www.glaze.app/app/6OxvwV) | 18 | OTPs at your fingertips | Manuele Sarfatti | 10.0.0 | 685 KB | 2026-07-27 |
 | [Verdigris](https://www.glaze.app/app/R7o50e) | 3 | What your day looks like | EdwardC | 3.0.0 | 364 KB | 2026-07-27 |
-| [Visus : Personal Dashboards](https://www.glaze.app/app/arOO8W) | 2 | Glance at everything. Open nothing | Mohammad Nabhan | 2.0.0 | 110 KB | 2026-07-27 |
+| [Visus : Personal Dashboards](https://www.glaze.app/app/arOO8W) | 3 | Glance at everything. Open nothing | Mohammad Nabhan | 2.0.0 | 110 KB | 2026-07-27 |
 
 ## General
 

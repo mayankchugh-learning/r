@@ -24,7 +24,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Shelf](https://www.glaze.app/app/QlUd8A) | 13 | Hold files temporarily, organize later | David | 1.0.0 | 64 KB | 2026-07-02 |
-| [File Sorter](https://www.glaze.app/app/mst1DY) | 9 | Automatically organize files by type | John Hesch | 5.0.0 | 65 KB | 2026-07-12 |
+| [File Sorter](https://www.glaze.app/app/mst1DY) | 10 | Automatically organize files by type | John Hesch | 5.0.0 | 65 KB | 2026-07-12 |
 | [snap sort](https://www.glaze.app/app/Ic87j0) | 9 | Quickly sort and organize screenshots | May Zhou | 1.0.0 | 99 KB | 2026-05-04 |
 | [Series Rename](https://www.glaze.app/app/yoYsjM) | 5 | Rename and organize your TV series | Sam Underwood | 1.0.0 | 70 KB | 2026-07-05 |
 

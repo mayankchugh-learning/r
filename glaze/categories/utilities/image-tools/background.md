@@ -11,7 +11,7 @@
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Minimal Control](https://www.glaze.app/app/evNrhb) | 24 | Minimal brightness and volume UI | Boufford | 7.0.0 | 64 KB | 2026-07-18 |
-| [Video Wallpaper](https://www.glaze.app/app/OxrCyA) | 23 | Set videos as your macOS wallpaper | Víctor Navarro | 1.0.0 | 64 KB | 2026-07-21 |
+| [Video Wallpaper](https://www.glaze.app/app/OxrCyA) | 24 | Set videos as your macOS wallpaper | Víctor Navarro | 1.0.0 | 64 KB | 2026-07-21 |
 | [BackdropRemove](https://www.glaze.app/app/G8dm5F) | 10 | Remove image backgrounds instantly | Clement.Jonghmans | 1.0.0 | 71 KB | 2026-07-09 |
 | [Lid Angle](https://www.glaze.app/app/lCX75u) | 10 | Monitor your MacBook's screen angle | Grass “Grass” | 1.0.0 | 1.8 MB | 2026-07-03 |
 | [Quit Guard](https://www.glaze.app/app/i7nUZQ) | 7 | Prevent Accidental App Closures | alexi.build | 4.0.0 | 34 KB | 2026-07-17 |
@@ -19,7 +19,7 @@
 | [Glassbar](https://www.glaze.app/app/vFp4rP) | 4 | Stay hydrated every day with Glassbar | Gabriel García Fernández | 1.0.0 | 51 KB | 2026-06-06 |
 | [Monitor Snap](https://www.glaze.app/app/2DiSf1) | 3 | Auto-organize windows on ultrawide | Ivo Tanev | 1.0.0 | 62 KB | 2026-07-18 |
 | [PosturePulse](https://www.glaze.app/app/FoWeOC) | 3 | Posture-blink-break-stretch.One glance | Korhan7992 | 3.0.0 | 13.6 MB | 2026-07-28 |
-| [Discord Companion](https://www.glaze.app/app/discord-companion-Nnu2hA) | 2 | Quick Discord access from your menu bar | Delvison Marte | 1.0.0 | 87 KB | 2026-08-01 |
+| [Discord Companion](https://www.glaze.app/app/Nnu2hA) | 2 | Quick Discord access from your menu bar | Delvison Marte | 1.0.0 | 87 KB | 2026-08-01 |
 | [ClearCall](https://www.glaze.app/app/uhHWh8) | 1 | Enhance call audio in real time | Cezar | 1.0.0 | 190 KB | 2026-07-27 |
 
 ## Screen ✦
@@ -35,6 +35,6 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Peel](https://www.glaze.app/app/esimhU) | 417 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
+| [Peel](https://www.glaze.app/app/esimhU) | 419 | Remove backgrounds from images | Thomas Paul Mann | 2.0.0 | 98 KB | 2026-07-11 |
 | [Gesture Launch](https://www.glaze.app/app/74q23g) | 225 | Control apps with hand gestures | Dhruv Suthar | 3.0.0 | 92 KB | 2026-05-14 |
 | [AppLock](https://www.glaze.app/app/Muzmgp) | 1 | Require auth to launch said app | yuvan michael | 2.0.0 | 68 KB | 2026-07-27 |

@@ -15,17 +15,17 @@
 | Pasha Andreevski | 1 | 15 | [Clipboard Intelligence Hub](https://www.glaze.app/app/v3KrOy) *(Productivity)* |
 | Pasipepe | 1 | 11 | [LearnCards](https://www.glaze.app/app/YpeusW) *(Productivity)* |
 | Pastenes | 2 | 22 | [Sonos Control](https://www.glaze.app/app/rXTnqL) *(Utilities)*, [Vision Alt](https://www.glaze.app/app/DgIoKm) *(Developer Tools)* |
-| Patrice Scheidt | 1 | 6 | [Bandcamp Player](https://www.glaze.app/app/t3QI7q) *(Media)* |
+| Patrice Scheidt | 1 | 7 | [Bandcamp Player](https://www.glaze.app/app/t3QI7q) *(Media)* |
 | Patrick Nielsen | 2 | 9 | [Terso](https://www.glaze.app/app/Y3F1BS) *(Utilities)*, [Nyeste](https://www.glaze.app/app/c5MZye) *(Utilities)* |
 | Patryk Lasek | 1 | 14 | [FrameShot](https://www.glaze.app/app/mN49V5) *(Design)* |
 | Paul Angeles | 1 | 8 | [Pokédex Ultra](https://www.glaze.app/app/16g4nM) *(Games & Fun)* |
 | Paul Contreras | 1 | 2 | [Stash](https://www.glaze.app/app/e3AIsd) *(Productivity)* |
 | Paul Seagull | 1 | 11 | [CineRoulette](https://www.glaze.app/app/PogX5d) *(Media)* |
-| Paulo Duarte | 1 | 3 | [Spin the Wheel](https://www.glaze.app/app/Nl4AlJ) *(Games & Fun)* |
+| Paulo Duarte | 1 | 4 | [Spin the Wheel](https://www.glaze.app/app/Nl4AlJ) *(Games & Fun)* |
 | Paulo Lobo | 1 | 2 | [Scope](https://www.glaze.app/app/MRB1TC) *(Productivity)* |
 | Pavlina Schuster | 1 | 3 | [Dock Shifter](https://www.glaze.app/app/rXJ5CI) *(Utilities)* |
 | Pavlo Haidamak | 2 | 27 | [Apptopsy](https://www.glaze.app/app/kWwP7l) *(Developer Tools)*, [Chirp Chirrup](https://www.glaze.app/app/2z2j75) *(Lifestyle)* |
-| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 577 | [see all 5 →](./id/pedro-duarte.md) |
+| [Pedro Duarte](./id/pedro-duarte.md) | 5 | 579 | [see all 5 →](./id/pedro-duarte.md) |
 | Pedro Fonseca | 2 | 1 | [WooPulse AI](https://www.glaze.app/app/cd6wTA) *(Productivity)*, [Unlink](https://www.glaze.app/app/Y2Xn6B) *(Utilities)* |
 | Pedro Ladeira | 1 | 2 | [Stretch Break](https://www.glaze.app/app/Y7qUx0) *(Productivity)* |
 | Pedro Marvarez | 1 | 15 | [Flow](https://www.glaze.app/app/v9gzNN) *(Productivity)* |
@@ -41,7 +41,7 @@
 | Peter Theill | 1 | 1 | [Clipboard Share](https://www.glaze.app/app/eelDDd) *(Utilities)* |
 | Petr Nikolaev | 1 | 200 | [Markdown to Slack](https://www.glaze.app/app/markdown-to-slack-sm6D9l) *(Developer Tools)* |
 | Petrus Pierre | 1 | 4 | [ThreeD](https://www.glaze.app/app/a0GwiK) *(Utilities)* |
-| Philip Dren | 1 | 6 | [Halo](https://www.glaze.app/app/halo-JuaORD) *(Lifestyle)* |
+| Philip Dren | 1 | 6 | [Halo](https://www.glaze.app/app/JuaORD) *(Lifestyle)* |
 | Philip Han | 1 | 2 | [Mic Lock](https://www.glaze.app/app/af0Wa6) *(Utilities)* |
 | Philipp.Herzig | 2 | 22 | [Capture Studio](https://www.glaze.app/app/0c5CW4) *(Media)*, [Contrast Control](https://www.glaze.app/app/kHVzuV) *(Utilities)* |
 | Philippos | 1 | 8 | [Nudge](https://www.glaze.app/app/M9narB) *(Productivity)* |
@@ -59,6 +59,6 @@
 | Prakhar Shekhar Parthasarthi | 2 | 9 | [Hotstar Floater](https://www.glaze.app/app/nKcxtD) *(Productivity)*, [YakStack](https://www.glaze.app/app/5PDfu9) *(Productivity)* |
 | Precontation | 1 | 8 | [Clippr](https://www.glaze.app/app/SqP3g5) *(Utilities)* |
 | Prem Sathisha | 1 | 4 | [DMG Auto Installer](https://www.glaze.app/app/YM2dCP) *(Utilities)* |
-| Prithav Jha | 2 | 3 | [Prompt Vault](https://www.glaze.app/app/8EdxXh) *(Productivity)*, [Capture](https://www.glaze.app/app/odVkOm) *(Productivity)* |
+| Prithav Jha | 2 | 4 | [Prompt Vault](https://www.glaze.app/app/8EdxXh) *(Productivity)*, [Capture](https://www.glaze.app/app/odVkOm) *(Productivity)* |
 | Priyanshu Jha | 1 | 1 | [Wrapped Desk](https://www.glaze.app/app/cnkwi6) *(Productivity)* |
 | Psychthrone | 1 | 0 | [Verilog Quest](https://www.glaze.app/app/vkYQZY) *(Developer Tools)* |

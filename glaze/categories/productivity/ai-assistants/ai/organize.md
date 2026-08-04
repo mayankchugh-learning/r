@@ -6,12 +6,12 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 201 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 121 KB | 2026-07-09 |
+| [Syndi](https://www.glaze.app/app/syndi-pFjfCk) | 202 | Syndi, a really simple reader. | Tuxu | 5.0.0 | 121 KB | 2026-07-09 |
 | [Collect](https://www.glaze.app/app/eG7IS4) | 12 | Save what matters, and review them later | Trueman | 1.0.0 | 3.8 MB | 2026-07-01 |
 | [Papier](https://www.glaze.app/app/LOGFpd) | 7 | Todo app with personality | Hamza Y. | 5.0.0 | 844 KB | 2026-07-29 |
 | [Task & Mochi](https://www.glaze.app/app/JmydrY) | 5 | Anti-procrastination companion | Denys Chebotaiev | 17.0.0 | 79 KB | 2026-07-30 |
-| [Apfel Chat](https://www.glaze.app/app/Qr8Sml) | 3 | Chat with Apfel through a GUI | Lee Sherman | 1.0.0 | 160 KB | 2026-07-23 |
-| [Handle It](https://www.glaze.app/app/Cs4rjZ) | 3 | Drop it in. Understand it. Handle it. | Jonas Tmb | 2.0.0 | 1.7 MB | 2026-07-26 |
+| [Apfel Chat](https://www.glaze.app/app/Qr8Sml) | 4 | Chat with Apfel through a GUI | Lee Sherman | 1.0.0 | 160 KB | 2026-07-23 |
+| [Handle It](https://www.glaze.app/app/Cs4rjZ) | 4 | Drop it in. Understand it. Handle it. | Jonas Tmb | 2.0.0 | 1.7 MB | 2026-07-26 |
 | [Prompt Vault](https://www.glaze.app/app/8EdxXh) | 3 | Store your AI Prompts & Outputs. | Prithav Jha | 1.0.0 | 78 KB | 2026-07-27 |
 | [Wish Manifest](https://www.glaze.app/app/wish-manifest-U3ZrvL) | 3 | Save your wants in one place | Lee Sherman | 2.0.0 | 65 KB | 2026-08-03 |
 | [VoiceFrame](https://www.glaze.app/app/2ehSvS) | 2 | Speech to structure | Sonia Toqqe | 2.0.0 | 574 KB | 2026-07-29 |

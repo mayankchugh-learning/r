@@ -6,10 +6,10 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ray.fm](https://www.glaze.app/app/Af8oi9) | 844 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
-| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 428 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 151 KB | 2026-07-30 |
+| [ray.fm](https://www.glaze.app/app/Af8oi9) | 848 | Retro curated radio stations | Samuel Kraft | 2.0.0 | 34.7 MB | 2026-04-15 |
+| [Radical](https://www.glaze.app/app/radical-s4LsSN) | 439 | The visual calendar; time, reimagined. | Maya Avendaño | 5.0.0 | 151 KB | 2026-07-30 |
 | [Reading Corner](https://www.glaze.app/app/k3tfty) | 245 | Browse and read your PDF library | Ivo Fonseca | 7.0.0 | 790 KB | 2026-07-19 |
-| [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 123 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 67 KB | 2026-07-20 |
+| [Radius Match](https://www.glaze.app/app/radius-match-6p1dce) | 124 | Calculate concentric corner radii | Kristina Loewen | 2.0.0 | 67 KB | 2026-07-20 |
 | [Repo Scout](https://www.glaze.app/app/repo-scout-P3pbfd) | 103 | Discover and manage git repos | Yiwei Ho | 6.0.0 | 63 KB | 2026-07-07 |
 | [Raycast Maze](https://www.glaze.app/app/raycast-maze-Meh4qI) | 91 | Explore Raycast through interactive | 騎山豬跑山 | 1.0.0 | 1.1 MB | 2026-04-15 |
 | [Raycast Events Map](https://www.glaze.app/app/kGKUOU) | 26 | See Raycast's company events on a map with locations and event details at a glance. You can also go on a virtual world tour. | Beth Staff | 5.0.1 | 894 KB | 2026-03-20 |
@@ -17,9 +17,9 @@
 | [Reminders in Menubar](https://www.glaze.app/app/NvSEbg) | 20 | Access apple reminders from your menubar | Anubhav Tyagi | 2.0.0 | 67 KB | 2026-06-29 |
 | [Raywind](https://www.glaze.app/app/BFSbLz) | 17 | Instant screen replay for QA testing. | Per Nielsen Tikær | 4.0.0 | 522 KB | 2026-04-30 |
 | [Reclaim](https://www.glaze.app/app/ed33HB) | 15 | Your AI is quietly eating up your disk | Abubakr Jimoh | 4.0.0 | 236 KB | 2026-07-27 |
-| [Recommand](https://www.glaze.app/app/ZDQIep) | 13 | Quick app switching with Right Command | Florentin Eckl | 12.0.0 | 2.7 MB | 2026-07-30 |
+| [Recommand](https://www.glaze.app/app/ZDQIep) | 14 | Quick app switching with Right Command | Florentin Eckl | 12.0.0 | 2.7 MB | 2026-07-30 |
+| [Relay](https://www.glaze.app/app/mvjsAA) | 13 | API Endpoints to tools for AI agents | Nikhil | 8.0.0 | 394 KB | 2026-07-28 |
 | [Reel Scout](https://www.glaze.app/app/D2po61) | 12 | Discover and track movies | Square Rabbit | 1.0.0 | 75 KB | 2026-07-23 |
-| [Relay](https://www.glaze.app/app/mvjsAA) | 12 | API Endpoints to tools for AI agents | Nikhil | 8.0.0 | 394 KB | 2026-07-28 |
 | [Room Planner](https://www.glaze.app/app/yvEH29) | 11 | Design your perfect space in minutes | Cindy Wincek | 2.0.0 | 93 KB | 2026-07-24 |
 | [RAM Prices](https://www.glaze.app/app/wrahvi) | 10 | Track RAM Prices | alexi.build | 2.0.0 | 152 KB | 2026-07-06 |
 | [re:Work](https://www.glaze.app/app/aqeLBX) | 10 | Know where your day went. Automatically. | Benji Schwartz-Gilbert | 7.0.0 | 123 KB | 2026-07-31 |

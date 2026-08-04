@@ -12,18 +12,18 @@
 | [Keep](https://www.glaze.app/app/M2eK2r) | 11 | Native Google Keep with offline access | Andy Zhu | 1.0.0 | 54 KB | 2026-07-04 |
 | [KeyLock](https://www.glaze.app/app/cB6pzV) | 11 | Lock keyboard and clean your keyboard. | Suvesh Moza | 1.0.0 | 63 KB | 2026-07-14 |
 | [KeyFlow](https://www.glaze.app/app/SgQPcc) | 10 | Design and organize keyboard shortcuts | Yahir Rivera | 2.0.0 | 72 KB | 2026-07-23 |
-| [Kept](https://www.glaze.app/app/FtwSCJ) | 8 | Your memory, offloaded | Mati from Kavaju Resa | 11.0.0 | 420 KB | 2026-07-28 |
+| [Kept](https://www.glaze.app/app/FtwSCJ) | 9 | Your memory, offloaded | Mati from Kavaju Resa | 11.0.0 | 420 KB | 2026-07-28 |
 | [Keyboard Lock](https://www.glaze.app/app/X6GQGk) | 7 | Lock your keyboard and trackpad. | Marcus do Nascimento | 1.0.0 | 58 KB | 2026-07-03 |
+| [Kulay (Color)](https://www.glaze.app/app/bbzPPl) | 6 | Pick colors and generate palettes | AJ Batac | 1.0.0 | 332 KB | 2026-07-04 |
 | [KVF](https://www.glaze.app/app/fs0rfD) | 6 | Stream live TV and radio from KVF | Steingrím Ósá | 5.0.0 | 110 KB | 2026-07-27 |
 | [Kanban Board](https://www.glaze.app/app/Z4sDK3) | 5 | Visualize your workflow in columns | 荒井翔 | 1.0.0 | 63 KB | 2026-07-08 |
 | [Keen Eye](https://www.glaze.app/app/Oenw7Q) | 5 | Track anything. Miss nothing. | Xedrah iOS | 1.0.0 | 70 KB | 2026-07-27 |
 | [KeyFlow](https://www.glaze.app/app/jzKRnC) | 5 | Master typing with precision and speed | Aryan Gupta | 5.0.0 | 223 KB | 2026-07-31 |
 | [Knob](https://www.glaze.app/app/ah13w5) | 5 | Say what you want. Find the setting. | Andrei Muntean | 3.0.0 | 84 KB | 2026-07-29 |
-| [Kulay (Color)](https://www.glaze.app/app/bbzPPl) | 5 | Pick colors and generate palettes | AJ Batac | 1.0.0 | 332 KB | 2026-07-04 |
 | [Kwik-GIF](https://www.glaze.app/app/jOlUSf) | 5 | Fast screen recordings to shareable GIFs | Pardoe | 2.0.0 | 75 KB | 2026-07-27 |
 | [K9s](https://www.glaze.app/app/CME6cv) | 4 | Manage Kubernetes clusters and resources | Kishan Dadhania | 13.0.0 | 15.5 MB | 2026-07-26 |
 | [Keystroke Paste](https://www.glaze.app/app/fdyEG8) | 4 | Type what you can't paste | Steingrím Ósá | 2.0.0 | 58 KB | 2026-07-02 |
-| [Karabiner Commander](https://www.glaze.app/app/karabiner-commander-5ovsm5) | 3 | Manage Karabiner complex modifications | André Marques | 1.0.0 | 72 KB | 2026-08-01 |
+| [Karabiner Commander](https://www.glaze.app/app/5ovsm5) | 3 | Manage Karabiner complex modifications | André Marques | 1.0.0 | 72 KB | 2026-08-01 |
 | [Key Guard](https://www.glaze.app/app/A6Hce6) | 3 | Clean safely with keyboard lock | Eric Cheung | 1.0.0 | 58 KB | 2026-07-09 |
 | [Kip](https://www.glaze.app/app/aWB3Se) | 3 | Reading to learning in one shortcut | PlumbRRRRRR | 8.0.0 | 220 KB | 2026-07-28 |
 | [Kobako](https://www.glaze.app/app/3ZijTd) | 3 | Your anime, up next in the menu bar. | Martin Gorol | 1.0.0 | 66 KB | 2026-07-25 |

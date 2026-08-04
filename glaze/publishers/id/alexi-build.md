@@ -1,12 +1,12 @@
 # alexi.build
 
-10 apps · 1,029 installs · [← publishers](../README.md)
+10 apps · 1,030 installs · [← publishers](../README.md)
 
 ## Developer Tools (2)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 861 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
+| [AI Skills Browser](https://www.glaze.app/app/ai-skills-browser-vMg0FR) | 862 | Browse local AI agent skills | alexi.build | 8.0.0 | 107 KB | 2026-07-16 |
 | [AI Models Database](https://www.glaze.app/app/VzvbvJ) | 44 | Browse AI Models, Providers, and Labs | alexi.build | 5.0.0 | 64 KB | 2026-07-11 |
 
 ## Utilities (4)

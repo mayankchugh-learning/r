@@ -30,7 +30,7 @@
 | Benjy.desprets | 2 | 34 | [Cleanup](https://www.glaze.app/app/ZeU0rI) *(Utilities)*, [Palette](https://www.glaze.app/app/uk1Og5) *(Design)* |
 | benmjsim | 1 | 1 | [Camera Offload (for Sony)](https://www.glaze.app/app/TwywQS) *(Utilities)* |
 | Berenger Zantangni | 1 | 1 | [SnapVault](https://www.glaze.app/app/be1HUR) *(Productivity)* |
-| Beth Staff | 3 | 89 | [Typewriter](https://www.glaze.app/app/k9uymc) *(Productivity)*, [Raycast Events Map](https://www.glaze.app/app/kGKUOU) *(Productivity)*, [Claude Code Status](https://www.glaze.app/app/xr43NC) *(Developer Tools)* |
+| Beth Staff | 3 | 90 | [Typewriter](https://www.glaze.app/app/k9uymc) *(Productivity)*, [Raycast Events Map](https://www.glaze.app/app/kGKUOU) *(Productivity)*, [Claude Code Status](https://www.glaze.app/app/xr43NC) *(Developer Tools)* |
 | Bhavik Hingu | 1 | 3 | [WatterBuddy](https://www.glaze.app/app/dwjGG5) *(Lifestyle)* |
 | Bibhav Adhikari | 1 | 0 | [Drowse](https://www.glaze.app/app/Gp5glj) *(Utilities)* |
 | Bilal | 1 | 20 | [Markdown Reader](https://www.glaze.app/app/iG1HzP) *(Developer Tools)* |
@@ -42,20 +42,20 @@
 | BLCNYY | 2 | 11 | [Bloodline](https://www.glaze.app/app/3t8E2Y) *(Utilities)*, [Dreama](https://www.glaze.app/app/Te4eW8) *(Design)* |
 | Bob Weisbecker | 1 | 5 | [Pixel Icon Studio](https://www.glaze.app/app/hoPF96) *(Design)* |
 | Bomakalu | 1 | 6 | [Terminator](https://www.glaze.app/app/k8JKg8) *(Utilities)* |
-| Boufford | 3 | 885 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) *(Developer Tools)*, [Minimal Control](https://www.glaze.app/app/evNrhb) *(Utilities)*, [Scratch&&Sniff](https://www.glaze.app/app/mXeTGg) *(Developer Tools)* |
+| Boufford | 3 | 886 | [Claude Usage](https://www.glaze.app/app/claude-usage-2iVSvr) *(Developer Tools)*, [Minimal Control](https://www.glaze.app/app/evNrhb) *(Utilities)*, [Scratch&&Sniff](https://www.glaze.app/app/mXeTGg) *(Developer Tools)* |
 | Bourne jason | 2 | 22 | [App Library](https://www.glaze.app/app/EeU4Tr) *(Utilities)*, [MStudio](https://www.glaze.app/app/PP2I8B) *(Productivity)* |
 | Bowen Winter | 1 | 2 | [Image Joiner](https://www.glaze.app/app/PQbrzf) *(Design)* |
-| Brad Chin | 1 | 25 | [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) *(Developer Tools)* |
+| Brad Chin | 1 | 26 | [Mina — Terminal Companion](https://www.glaze.app/app/XwFKfD) *(Developer Tools)* |
 | Bradley Gibson | 1 | 4 | [Audio Router](https://www.glaze.app/app/9blIKL) *(Utilities)* |
 | Braily Estevez | 1 | 8 | [QuickConvert](https://www.glaze.app/app/Uyki23) *(Utilities)* |
 | Brakoceuvisei 8875 | 1 | 7 | [Pixel Runner](https://www.glaze.app/app/v2kFzv) *(Games & Fun)* |
 | Brandon Strittmatter | 1 | 19 | [Cloudflare Drop](https://www.glaze.app/app/a6H1CL) *(Developer Tools)* |
 | Branik | 1 | 27 | [App Screenshots](https://www.glaze.app/app/tpdPU6) *(Developer Tools)* |
 | Brent Hoover | 1 | 5 | [Study Buddy](https://www.glaze.app/app/ZZxk63) *(Productivity)* |
-| Brian Mendes | 1 | 4 | [Wondher Pulse](https://www.glaze.app/app/wondher-pulse-EHeN4w) *(Productivity)* |
+| Brian Mendes | 1 | 4 | [Wondher Pulse](https://www.glaze.app/app/EHeN4w) *(Productivity)* |
 | Brice Gramm | 1 | 17 | [Scorebug](https://www.glaze.app/app/gwd46m) *(Utilities)* |
 | Brittany Smith | 1 | 3 | [Collector’s Catalog](https://www.glaze.app/app/gX4n0Q) *(Productivity)* |
-| Bruce Makes | 2 | 18 | [Clean My Keyboard](https://www.glaze.app/app/HWMqY1) *(Utilities)*, [Noted](https://www.glaze.app/app/O03e66) *(Productivity)* |
+| Bruce Makes | 2 | 19 | [Clean My Keyboard](https://www.glaze.app/app/HWMqY1) *(Utilities)*, [Noted](https://www.glaze.app/app/O03e66) *(Productivity)* |
 | Bruno | 1 | 14 | [My Cockpit](https://www.glaze.app/app/Nilzou) *(Productivity)* |
 | Bruno Reis | 3 | 25 | [Cahier](https://www.glaze.app/app/daTMf7) *(Productivity)*, [meets](https://www.glaze.app/app/FQ2bvX) *(Developer Tools)*, [In Formation](https://www.glaze.app/app/hHqNpB) *(Design)* |
 | Bruno Totoro | 2 | 12 | [Chord Forge](https://www.glaze.app/app/vMN18E) *(Media)*, [Tab Reader](https://www.glaze.app/app/KaaTzt) *(Utilities)* |

@@ -23,7 +23,7 @@
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 261 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
+| [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO) | 269 | Drop. Edit. Download. Done. | Ajay Odedra | 10.0.0 | 2.8 MB | 2026-07-31 |
 | [Worklog](https://www.glaze.app/app/cYeMGn) | 7 | Log your day with timestamps and tasks | Hugo Schmitt | 1.0.0 | 60 KB | 2026-07-02 |
 | [Priority Matrix](https://www.glaze.app/app/EPDnC5) | 6 | Organize tasks by urgency and importance | Milo | 2.0.0 | 61 KB | 2026-07-06 |
 | [Task List](https://www.glaze.app/app/9HYu19) | 5 | Stay organized, one task at a time. | Solve Base | 1.0.0 | 57 KB | 2026-07-12 |
@@ -36,7 +36,7 @@
 | [Markdown Reader](https://www.glaze.app/app/ycE3n8) | 11 | Read markdown richly formatted. | Mark with a K | 1.0.0 | 228 KB | 2026-07-08 |
 | [Task List](https://www.glaze.app/app/0mqTCb) | 6 | Organize and track your daily tasks | Saeed Vaziry | 1.0.0 | 62 KB | 2026-07-01 |
 | [Today/Tomorrow](https://www.glaze.app/app/HcAyZz) | 6 | Focus on today, plan tomorrow, queue | davi | 1.0.0 | 62 KB | 2026-07-09 |
-| [Wondher Pulse](https://www.glaze.app/app/wondher-pulse-EHeN4w) | 4 | Take control of your time, your way | Brian Mendes | 4.0.0 | 93 KB | 2026-08-03 |
+| [Wondher Pulse](https://www.glaze.app/app/EHeN4w) | 4 | Take control of your time, your way | Brian Mendes | 4.0.0 | 93 KB | 2026-08-03 |
 | [Items](https://www.glaze.app/app/9kLuYj) | 3 | One ID. Every tool. One clear picture. | Trevor Hall | 6.0.0 | 171 KB | 2026-07-30 |
 | [MyEisenhower](https://www.glaze.app/app/hE4Is3) | 2 | Prioritize what matters most, right now | John Punt | 2.0.0 | 70 KB | 2026-07-27 |
 | [Scope](https://www.glaze.app/app/MRB1TC) | 2 | Track creative time and bill smarter | Paulo Lobo | 1.0.0 | 83 KB | 2026-07-04 |

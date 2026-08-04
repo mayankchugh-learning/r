@@ -2,6 +2,34 @@
 
 Store changes detected by each sync run, newest first.
 
+## 2026-08-04
+
+**Added (10):** [Hubby](https://www.glaze.app/app/hubby-5PcH53), [cmprssr](https://www.glaze.app/app/cmprssr-cUtDHN), [Stationary](https://www.glaze.app/app/stationary-D1DhOD), [Icon Maker](https://www.glaze.app/app/icon-maker-dGIx1b), [Focus Break](https://www.glaze.app/app/focus-break-EzbjzE), [stmmr](https://www.glaze.app/app/stmmr-GviW1x), [World Time](https://www.glaze.app/app/world-time-gWPgIn), [Caffeinate](https://www.glaze.app/app/caffeinate-hjeU4M), [PR Queue](https://www.glaze.app/app/pr-queue-kGqLAT), [Image to Email](https://www.glaze.app/app/image-to-email-TMeBIj)
+
+**Removed (1):** ChromaEye
+
+**Watermark +:** version 1.0.0 → 2.0.0; name Watermark Pro → Watermark +; tagline Protect photos with custom watermarks → Mark your files, own your art.
+
+**Imagery:** version 1.0.0 → 2.0.0
+
+**mvt - Music Viz Tool:** version 1.0.0 → 2.0.0
+
+**StreamHub:** version 14.0.0 → 15.0.0
+
+**Educlopedia: Email for Testing:** version 1.0.0 → 4.0.0; tagline Generate disposable emails instantly → Generate disposable emails, instantly.
+
+**AppDater:** version 26.0.0 → 27.0.0
+
+**PDF to Image:** version 1.0.0 → 2.0.0
+
+**PrettyShots:** version 2.0.0 → 3.0.0
+
+**Persona:** version 6.0.0 → 7.0.0
+
+**Pet Hatch:** version 10.0.0 → 11.0.0
+
+**Mic Mute:** version 1.0.0 → 2.0.0
+
 ## 2026-08-03
 
 **Added (1):** [ImageWizard](https://www.glaze.app/app/imagewizard-guENVw)

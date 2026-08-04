@@ -14,4 +14,4 @@
 | [Jawbreaker](https://www.glaze.app/app/zfhbto) | 2 | Flap through twisting pipe mazes. | Per Nielsen Tikær | 1.0.0 | 466 KB | 2026-05-06 |
 | [Junimo](https://www.glaze.app/app/BsttxH) | 2 | Stardew Valley mods made easy for Mac | yafyx | 3.0.0 | 113 KB | 2026-07-28 |
 | [Just Now](https://www.glaze.app/app/KeirxU) | 2 | A dashcam for your screen. | anish jain | 1.0.0 | 45 KB | 2026-07-27 |
-| [Jamal](https://www.glaze.app/app/jamal-JN0yZw) | 1 | Voice-triggered custom shortcuts menu | Abdullah Alghamdi | 1.0.0 | 68 KB | 2026-07-31 |
+| [Jamal](https://www.glaze.app/app/JN0yZw) | 1 | Voice-triggered custom shortcuts menu | Abdullah Alghamdi | 1.0.0 | 68 KB | 2026-07-31 |

@@ -1,18 +1,18 @@
 # Pedro Duarte
 
-5 apps · 577 installs · [← publishers](../README.md)
+5 apps · 579 installs · [← publishers](../README.md)
 
 ## Developer Tools (1)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 304 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
+| [Paper Shaders](https://www.glaze.app/app/paper-shaders-bjDU1y) | 305 | Preview and customize Paper Shaders | Pedro Duarte | 5.0.0 | 286 KB | 2026-07-27 |
 
 ## Utilities (1)
 
 | App | Installs | Description | Publisher | Version | Size | Updated |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 125 | Make your text fancy | Pedro Duarte | 7.0.0 | 65 KB | 2026-07-20 |
+| [Fancy Text](https://www.glaze.app/app/fancy-text-4ErPgM) | 126 | Make your text fancy | Pedro Duarte | 7.0.0 | 65 KB | 2026-07-20 |
 
 ## Design (1)
 

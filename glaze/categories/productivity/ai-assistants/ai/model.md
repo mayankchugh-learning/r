@@ -13,8 +13,8 @@
 | [aiMessage](https://www.glaze.app/app/oEx7Rj) | 26 | Chat with AI, texting style | Thomas Paul Mann | 1.0.0 | 83 KB | 2026-07-24 |
 | [Screenshot Renamer](https://www.glaze.app/app/6GSlSm) | 11 | Smart names for every screenshot | John Hesch | 2.0.0 | 73 KB | 2026-07-26 |
 | [Scholar](https://www.glaze.app/app/V6uTQV) | 6 | Learn smarter, retain longer | ccmxigua | 6.0.0 | 147 KB | 2026-07-25 |
+| [Orb](https://www.glaze.app/app/IS4qqc) | 5 | One orb. Every workspace. One click. | Otiete Ayebanua | 3.0.0 | 118 KB | 2026-07-26 |
 | [Ducky - Desktop Buddy](https://www.glaze.app/app/0KGjs2) | 4 | Your desktop's helpful AI sidekick | Tya Tiwi | 2.0.0 | 384 KB | 2026-07-25 |
-| [Orb](https://www.glaze.app/app/IS4qqc) | 4 | One orb. Every workspace. One click. | Otiete Ayebanua | 3.0.0 | 118 KB | 2026-07-26 |
 | [Receipt Scanner](https://www.glaze.app/app/48i3H9) | 4 | Extract receipt data automatically | Shearm | 3.0.0 | 68 KB | 2026-06-25 |
 | [Kip](https://www.glaze.app/app/aWB3Se) | 3 | Reading to learning in one shortcut | PlumbRRRRRR | 8.0.0 | 220 KB | 2026-07-28 |
 | [Alt Text](https://www.glaze.app/app/BIhUQz) | 2 | Generate accessible alt text for images | H3yfranki3 | 1.0.0 | 376 KB | 2026-07-08 |

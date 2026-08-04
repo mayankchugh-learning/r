@@ -23,7 +23,7 @@
 | Henri Chabrand | 1 | 21 | [Glint](https://www.glaze.app/app/PcFJPH) *(Productivity)* |
 | hgg end | 1 | 2 | [Shark](https://www.glaze.app/app/svB120) *(Developer Tools)* |
 | Hi | 1 | 3 | [Scrobble](https://www.glaze.app/app/TbwZ8T) *(Utilities)* |
-| Himanshu Jha | 1 | 3 | [SnapPlan](https://www.glaze.app/app/PahWmW) *(Productivity)* |
+| Himanshu Jha | 1 | 4 | [SnapPlan](https://www.glaze.app/app/PahWmW) *(Productivity)* |
 | Himanshu Rattan | 1 | 3 | [Open Voz](https://www.glaze.app/app/TS9jS0) *(Utilities)* |
 | Hittanshu Bhanderi | 1 | 6 | [JobRadar](https://www.glaze.app/app/VqvPRI) *(Productivity)* |
 | Hong Linh Vu | 1 | 5 | [BearMark](https://www.glaze.app/app/BhCTVn) *(Productivity)* |

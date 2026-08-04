@@ -1,6 +1,6 @@
 # Drag ✦
 
-8 apps · [← Folders](./README.md)
+9 apps · [← Folders](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -14,3 +14,4 @@
 | [Peep](https://www.glaze.app/app/rncFT4) | 1 | Preview contents of archive files | Sean | 1.0.0 | 981 KB | 2026-07-09 |
 | [Process Web Audio](https://www.glaze.app/app/nQLsj0) | 1 | Convert audio to MP3s for web use | David Sutrin | 1.0.0 | 77 KB | 2026-07-27 |
 | [Zipper](https://www.glaze.app/app/JdJyJW) | 1 | Compress files | Lee Sherman | 1.0.0 | 67 KB | 2026-07-16 |
+| [stmmr](https://www.glaze.app/app/stmmr-GviW1x) | 0 | STEM1 | art.WORK | 1.0.0 | 66 KB | 2026-08-04 |
