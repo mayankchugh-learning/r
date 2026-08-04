@@ -1,13 +1,13 @@
 # kud
 
-12 extensions · 5,893 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+12 extensions · 5,903 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,783 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
-| [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 442 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,785 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 443 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
 
 ## Developer Tools (5)
 
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,381 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
+| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,387 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
 
 ## Design Tools (1)
 
@@ -41,7 +41,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 9 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
+| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 10 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
 
 ## Productivity (1)
 

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `a3d09ceaa3`
+
+**Added (1):** [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity)
+
 ## 2026-08-03 — upstream `2ded14b027`
 
 **Updated (1):** [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)

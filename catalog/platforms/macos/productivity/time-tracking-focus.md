@@ -2,23 +2,23 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · **Time Tracking & Focus** · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-24 of 1408 extensions · [← macOS · Productivity](./README.md)
+24 of 1409 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 105,708 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
-| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,178 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
-| [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,605 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
-| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,110 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
-| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 7,986 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
+| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 105,752 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
+| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,196 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
+| [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,610 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
+| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,111 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
+| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 7,987 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Work Time Countdown](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) | 2,766 | A simple timer to help you keep productive during work time. | thomas | macOS | [store](https://www.raycast.com/thomas/work-time-countdown) |
 | [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,343 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
-| [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,085 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
+| [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,086 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
 | [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,414 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
 | [Music Timer](https://github.com/raycast/extensions/tree/main/extensions/music-timer) | 1,387 | Music Timer is the ultimate productivity app that fuses the Pomodoro Technique with your favorite tracks from Spotify and Apple Music! | JulienLacr0ix | macOS | [store](https://www.raycast.com/JulienLacr0ix/music-timer) |
 | [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 953 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
-| [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 896 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |
-| [Raycast Focus Stats](https://github.com/raycast/extensions/tree/main/extensions/raycast-focus-stats) | 826 | View Raycast's Focus session statistics. | dinocosta | macOS | [store](https://www.raycast.com/dinocosta/raycast-focus-stats) |
+| [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 897 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |
+| [Raycast Focus Stats](https://github.com/raycast/extensions/tree/main/extensions/raycast-focus-stats) | 827 | View Raycast's Focus session statistics. | dinocosta | macOS | [store](https://www.raycast.com/dinocosta/raycast-focus-stats) |
 | [Tomito Controls](https://github.com/raycast/extensions/tree/main/extensions/tomito-controls) | 826 | Control the Tomito app, a Pomodoro timer for macOS | elyse | macOS | [store](https://www.raycast.com/elyse/tomito-controls) |
 | [Focus](https://github.com/raycast/extensions/tree/main/extensions/focus) | 713 | Control Focus App – Website and App Blocker for Mac | ernest | macOS | [store](https://www.raycast.com/ernest/focus) |
 | [Tim](https://github.com/raycast/extensions/tree/main/extensions/tim) | 426 | Manage your timers for Tim from Raycast | tm.wrnr | macOS | [store](https://www.raycast.com/tm.wrnr/tim) |

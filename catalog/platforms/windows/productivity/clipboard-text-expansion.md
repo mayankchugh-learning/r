@@ -2,13 +2,13 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · **Clipboard & Text Expansion** · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-16 of 334 extensions · [← Windows · Productivity](./README.md)
+16 of 335 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 36,540 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
-| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 22,630 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
-| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,433 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
+| [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 36,546 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
+| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 22,638 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
+| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,440 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,181 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
 | [Parse - Speed Reader](https://github.com/raycast/extensions/tree/main/extensions/parse) | 1,142 | Speed read copied text one word at a time. | traf | macOS, Windows | [store](https://www.raycast.com/traf/parse) |
 | [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 622 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
@@ -19,6 +19,6 @@
 | [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) | 106 | Instantly annotate images from your clipboard, Finder selection, or web URLs with Annotely. | codiini | macOS, Windows | [store](https://www.raycast.com/codiini/annotely) |
 | [Demo Flow](https://github.com/raycast/extensions/tree/main/extensions/demo-flow) | 59 | Demo Flow is a Raycast extension that lets you organize demo snippets and quickly paste the next/previous snippet during a walkthrough. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/demo-flow) |
 | [Unify Path Separator](https://github.com/raycast/extensions/tree/main/extensions/unify-path-separator) | 51 | Unifies path selectors in path copied to clipboard | patrick_dawson | macOS, Windows | [store](https://www.raycast.com/patrick_dawson/unify-path-separator) |
+| [Reading Time](https://github.com/raycast/extensions/tree/main/extensions/reading-time) | 48 | Estimate clipboard reading time as X min read | fromserg | macOS, Windows | [store](https://www.raycast.com/fromserg/reading-time) |
 | [Chinese Character Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-character-converter) | 47 | Auto convert clipboard content between Traditional and Simplified Chinese | simon_lai | Windows | [store](https://www.raycast.com/simon_lai/chinese-character-converter) |
-| [Reading Time](https://github.com/raycast/extensions/tree/main/extensions/reading-time) | 47 | Estimate clipboard reading time as X min read | fromserg | macOS, Windows | [store](https://www.raycast.com/fromserg/reading-time) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 38 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |

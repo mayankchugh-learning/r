@@ -1,18 +1,18 @@
 # Visual-Studio-Coder
 
-16 extensions · 25,318 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
+16 extensions · 25,326 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
 
 ## Productivity (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 10,706 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
+| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 10,711 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
 
 ## Developer Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 7,298 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
+| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 7,299 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 | [Markdown Table Generator](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) | 1,506 | Specify your width and height, and receive a markdown table that you can input your own values into. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/markdown-table-generator) |
 
 ## Uncategorized (1)
@@ -43,7 +43,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 743 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
-| [Masked Link Generator](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) | 270 | Input a destination URL and the title of the link and receive a masked link in your clipboard. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/masked-link-generator) |
+| [Masked Link Generator](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) | 271 | Input a destination URL and the title of the link and receive a masked link in your clipboard. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/masked-link-generator) |
 
 ## Finance (2)
 
@@ -56,4 +56,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 34 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
+| [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 35 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |

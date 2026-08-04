@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 8,643 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
+| [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 8,644 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
 | [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,923 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,854 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,764 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
@@ -14,7 +14,7 @@
 | [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,429 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
 | [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,301 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
 | [Ratio Calculator](https://github.com/raycast/extensions/tree/main/extensions/ratio-calculator) | 1,133 | A calculator for quickly calculating ratios/proportions. Replace multiple values on one side with variables such as x or y. Example syntax: "1:2 = x:4" outputs… | justiniscoding | macOS | [store](https://www.raycast.com/justiniscoding/ratio-calculator) |
-| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,131 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
+| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,132 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) | 1,104 | Control and view your Tesla | williamwelsh | macOS | [store](https://www.raycast.com/williamwelsh/tesla) |
 | [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) | 759 | Raycast Commands for Searching Different ML APIs | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/mldocs) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 628 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
@@ -34,7 +34,7 @@
 | [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 120 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
 | [BMW](https://github.com/raycast/extensions/tree/main/extensions/bmw) | 115 | Control and view your BMW | aesign | macOS | [store](https://www.raycast.com/aesign/bmw) |
 | [Subwatch](https://github.com/raycast/extensions/tree/main/extensions/subwatch) | 113 | Turn subscription chaos into financial harmony | nirgn | macOS | [store](https://www.raycast.com/nirgn/subwatch) |
-| [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman) | 110 | View your Ultrahuman Ring data | joshmillgate | macOS | [store](https://www.raycast.com/joshmillgate/ultrahuman) |
+| [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman) | 111 | View your Ultrahuman Ring data | joshmillgate | macOS | [store](https://www.raycast.com/joshmillgate/ultrahuman) |
 | [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) | 103 | Discover ENS, Farcaster, Lens and Web3 universal profiles | web3bio | macOS | [store](https://www.raycast.com/web3bio/web3bio) |
 | [PrivateBin](https://github.com/raycast/extensions/tree/main/extensions/privatebin) | 101 | Share sensitive data using a PrivateBin web service | sedlacek-martin | macOS | [store](https://www.raycast.com/sedlacek-martin/privatebin) |
 | [TFL](https://github.com/raycast/extensions/tree/main/extensions/tfl) | 92 | Viewing public transport departures in London | haneenmahdin | macOS | [store](https://www.raycast.com/haneenmahdin/tfl) |
@@ -60,7 +60,7 @@
 | [Groundhog Day](https://github.com/raycast/extensions/tree/main/extensions/groundhog-day) | 22 | Free, accurate, and portable data on prognosticating groundhogs and their yearly predictions | xmok | macOS | [store](https://www.raycast.com/xmok/groundhog-day) |
 | [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) | 22 | Look up KQL commands | olafhartong | macOS | [store](https://www.raycast.com/olafhartong/kusto-reference) |
 | [Rewardful](https://github.com/raycast/extensions/tree/main/extensions/rewardful) | 19 | Unofficial Rewardful extension | alexs | macOS | [store](https://www.raycast.com/alexs/rewardful) |
-| [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 18 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
+| [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 19 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
 | [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | 18 | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |
 | [Gokapi](https://github.com/raycast/extensions/tree/main/extensions/gokapi) | 15 | Manage your Gokapi server from Raycast | pascal_burkhard | macOS | [store](https://www.raycast.com/pascal_burkhard/gokapi) |
 | [Bitfinex](https://github.com/raycast/extensions/tree/main/extensions/bitfinex) | 13 | A Raycast extension built for Bitfinex margin funding | Yukai | macOS | [store](https://www.raycast.com/Yukai/bitfinex) |
