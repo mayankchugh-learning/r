@@ -1,8 +1,8 @@
 # Stocks & Trading
 
-15 extensions · [← Finance](./README.md)
+16 extensions · [← Finance](./README.md)
 
-[Stock ✦](#stock) (6) · [Markets ✦](#markets) (4) · [General](#general) (5)
+[Stock ✦](#stock) (6) · [Markets ✦](#markets) (4) · [General](#general) (6)
 
 *✦ auto-discovered topic group*
 
@@ -35,3 +35,4 @@
 | [Finary](https://github.com/raycast/extensions/tree/main/extensions/finary) | 126 | Fastest way to explore your Finary Portfolio & Investments. | jetaix | macOS | [store](https://www.raycast.com/jetaix/finary) |
 | [Midas](https://github.com/raycast/extensions/tree/main/extensions/midas) | 47 | Midas is an AI Agent that manages on-chain trading, voting and more for you. | sunosuporno | macOS | [store](https://www.raycast.com/sunosuporno/midas) |
 | [Alpaca Trading](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) | 46 | Interact with your Alpaca trading account | stelo | macOS | [store](https://www.raycast.com/stelo/alpaca-trading) |
+| [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) | — | View your Charles Schwab brokerage accounts, positions, and charts | drew_levinson | macOS, Windows | — |

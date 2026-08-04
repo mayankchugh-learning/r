@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "64ae6c4b39419d43ad43c6ad4ec98e05553095a1",
-  "generatedAt": "2026-08-04T20:36:57.265Z",
-  "downloadsRefreshedAt": "2026-08-04T20:36:56.863Z",
-  "count": 3148,
+  "commit": "3acaba11f4ee839b65d6b98f3e7374f83b4de901",
+  "generatedAt": "2026-08-04T20:46:21.867Z",
+  "downloadsRefreshedAt": "2026-08-04T20:46:21.287Z",
+  "count": 3149,
   "extensions": [
     {
       "dir": "0x0",
@@ -9449,7 +9449,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499314
+      "downloads": 499318
     },
     {
       "dir": "color-shades",
@@ -21403,7 +21403,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487849
+      "downloads": 487853
     },
     {
       "dir": "google-chrome-profiles",
@@ -27639,7 +27639,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656194
+      "downloads": 656196
     },
     {
       "dir": "kimai",
@@ -49227,6 +49227,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/schoology",
       "treeSha": "80d3e8bc5cf377402c38e23e8d19dce55b546a96",
       "downloads": 105
+    },
+    {
+      "dir": "schwab-portfolio",
+      "name": "schwab-portfolio",
+      "title": "Schwab Portfolio",
+      "description": "View your Charles Schwab brokerage accounts, positions, and charts",
+      "author": "drew_levinson",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Finance"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio",
+      "treeSha": "88a27f5c484539cf00bc810782a565efa7f46993",
+      "downloads": null
     },
     {
       "dir": "scira",

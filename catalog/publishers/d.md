@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-143 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+144 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -136,6 +136,7 @@
 | [drankou](https://www.raycast.com/drankou) | 1 | 20 | **Developer Tools:** [TON Address](https://github.com/raycast/extensions/tree/main/extensions/ton-address) |
 | [DrChai](https://www.raycast.com/DrChai) | 1 | 2,072 | **Productivity:** [Web Dictionaries](https://github.com/raycast/extensions/tree/main/extensions/dictionary) |
 | [dreetje](https://www.raycast.com/dreetje) | 1 | 395 | **Applications:** [Inbox AI](https://github.com/raycast/extensions/tree/main/extensions/inbox-ai) |
+| drew_levinson | 1 | — | **Finance:** [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) |
 | [drewwatkins11](https://www.raycast.com/drewwatkins11) | 1 | 18 | **Productivity:** [Teamup Rooms](https://github.com/raycast/extensions/tree/main/extensions/teamup-rooms) |
 | [dru89](https://www.raycast.com/dru89) | 1 | 6,297 | **Productivity:** [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) |
 | [drumst0ck](https://www.raycast.com/drumst0ck) | 1 | 1 | **Developer Tools:** [UploadKit Image Uploader](https://github.com/raycast/extensions/tree/main/extensions/uploadkit) |

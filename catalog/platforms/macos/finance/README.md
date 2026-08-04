@@ -1,8 +1,8 @@
 # macOS · Finance
 
-147 extensions · [← macOS](../README.md)
+148 extensions · [← macOS](../README.md)
 
-[Crypto & Web3](#crypto-web3) (30) · [Stocks & Trading](#stocks-trading) (15) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (6) · [Personal Finance & Budgeting](#personal-finance-budgeting) (19) · [General](#general) (31)
+[Crypto & Web3](#crypto-web3) (30) · [Stocks & Trading](#stocks-trading) (16) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (6) · [Personal Finance & Budgeting](#personal-finance-budgeting) (19) · [General](#general) (31)
 
 ## Markets & Investing
 
@@ -25,6 +25,7 @@
 | [Alpaca Trading](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) | 46 | Interact with your Alpaca trading account | stelo | macOS | [store](https://www.raycast.com/stelo/alpaca-trading) |
 | [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) | 1 | Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast. | uluumbch | macOS, Windows | [store](https://www.raycast.com/uluumbch/average-saham-indonesia) |
 | [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid) | 0 | Browse Hyperliquid perp markets, track your positions and PnL, and pin live prices to your menu bar — all read-only. | insuline | macOS | [store](https://www.raycast.com/Insuline/hyperliquid) |
+| [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) | — | View your Charles Schwab brokerage accounts, positions, and charts | drew_levinson | macOS, Windows | — |
 
 ### Crypto & Web3
 
