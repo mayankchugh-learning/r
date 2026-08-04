@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-82 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+83 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -26,6 +26,7 @@
 | [patrick_dawson](https://www.raycast.com/patrick_dawson) | 1 | 51 | **Productivity:** [Unify Path Separator](https://github.com/raycast/extensions/tree/main/extensions/unify-path-separator) |
 | [patrick-ehimen](https://www.raycast.com/patrick-ehimen) | 1 | 89 | **Documentation:** [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) |
 | [patrick-web](https://www.raycast.com/patrick-web) | 1 | 253 | **Developer Tools:** [Expo](https://github.com/raycast/extensions/tree/main/extensions/expo) |
+| [Paul12169](https://www.raycast.com/Paul12169) | 1 | 0 | **Productivity:** [Flashcards](https://github.com/raycast/extensions/tree/main/extensions/flashcards) |
 | [pauloedurezende](https://www.raycast.com/pauloedurezende) | 1 | 951 | **Developer Tools:** [Simulator Manager](https://github.com/raycast/extensions/tree/main/extensions/simulator-manager) |
 | [paulovictor237](https://www.raycast.com/paulovictor237) | 1 | 301 | **Productivity:** [NumPad](https://github.com/raycast/extensions/tree/main/extensions/numpad) |
 | [pavzagor](https://www.raycast.com/pavzagor) | 1 | 129 | **System:** [Extend Display](https://github.com/raycast/extensions/tree/main/extensions/extend-display) |

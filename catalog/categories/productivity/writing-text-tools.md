@@ -1,8 +1,8 @@
 # Writing & Text Tools
 
-70 extensions · [← Productivity](./README.md)
+71 extensions · [← Productivity](./README.md)
 
-[Markdown ✦](#markdown) (14) · [Dictionary ✦](#dictionary) (10) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (32)
+[Markdown ✦](#markdown) (15) · [Dictionary ✦](#dictionary) (10) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (32)
 
 *✦ auto-discovered topic group*
 
@@ -24,6 +24,7 @@
 | [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap) | 83 | Wrap and unwrap text using Markdown-aware reflow. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/wrap-unwrap) |
 | [Gist Rocket](https://github.com/raycast/extensions/tree/main/extensions/gist-rocket) | 22 | Publish HTML or Markdown as a live web page in one keystroke. Powered by GitHub Gists. | tgrecojs | macOS | [store](https://www.raycast.com/tgrecojs/gist-rocket) |
 | [MEMO to flomo](https://github.com/raycast/extensions/tree/main/extensions/memo-to-flomo) | 4 | Quickly send Markdown memos to flomo with tag history | moose_zhang | macOS, Windows | [store](https://www.raycast.com/moose_zhang/memo-to-flomo) |
+| [Flashcards](https://github.com/raycast/extensions/tree/main/extensions/flashcards) | 0 | Create and study flashcards with Markdown syntax | Paul12169 | macOS, Windows | [store](https://www.raycast.com/Paul12169/flashcards) |
 
 ## Dictionary ✦
 

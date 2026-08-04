@@ -1,6 +1,6 @@
 # Publishers
 
-2092 publishers · [← catalog index](../README.md)
+2093 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 148,728 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,336 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,718 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,088,309 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,088,310 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 296,692 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,813 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 402,937 |
@@ -385,8 +385,8 @@
 | 375 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
 | 376 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 377 | github-next | 2 | — |
-| 378 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,025 |
-| 379 | [Codely](https://www.raycast.com/Codely) | 1 | 487,712 |
+| 378 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,028 |
+| 379 | [Codely](https://www.raycast.com/Codely) | 1 | 487,715 |
 | 380 | [linear](https://www.raycast.com/linear) | 1 | 337,830 |
 | 381 | [mommertf](https://www.raycast.com/mommertf) | 1 | 283,012 |
 | 382 | [nhojb](https://www.raycast.com/nhojb) | 1 | 253,637 |
@@ -2096,7 +2096,8 @@
 | 2086 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
 | 2087 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
 | 2088 | [nabecite](https://www.raycast.com/nabecite) | 1 | 0 |
-| 2089 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2090 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2091 | multi | 1 | — |
-| 2092 | sharat_visweswara | 1 | — |
+| 2089 | [Paul12169](https://www.raycast.com/Paul12169) | 1 | 0 |
+| 2090 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2091 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2092 | multi | 1 | — |
+| 2093 | sharat_visweswara | 1 | — |

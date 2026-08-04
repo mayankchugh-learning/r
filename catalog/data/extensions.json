@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9cb8394dc47ed054264addc024582d583f6caafd",
-  "generatedAt": "2026-08-04T16:20:45.865Z",
-  "downloadsRefreshedAt": "2026-08-04T16:20:45.053Z",
-  "count": 3146,
+  "commit": "a5c08bbb3ce7facadc9c2fe3e3f9cc83e223682f",
+  "generatedAt": "2026-08-04T16:23:44.702Z",
+  "downloadsRefreshedAt": "2026-08-04T16:23:43.939Z",
+  "count": 3147,
   "extensions": [
     {
       "dir": "0x0",
@@ -9449,7 +9449,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499188
+      "downloads": 499189
     },
     {
       "dir": "color-shades",
@@ -18166,6 +18166,27 @@
       "downloads": 93
     },
     {
+      "dir": "flashcards",
+      "name": "flashcards",
+      "title": "Flashcards",
+      "description": "Create and study flashcards with Markdown syntax",
+      "author": "Paul12169",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/Paul12169/flashcards",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/flashcards",
+      "treeSha": "628cffbc56d2c92beab1ddc05423f3629d9105d1",
+      "downloads": 0
+    },
+    {
       "dir": "flashspace",
       "name": "flashspace",
       "title": "FlashSpace",
@@ -21362,7 +21383,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487712
+      "downloads": 487715
     },
     {
       "dir": "google-chrome-profiles",
@@ -27598,7 +27619,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656025
+      "downloads": 656028
     },
     {
       "dir": "kimai",
