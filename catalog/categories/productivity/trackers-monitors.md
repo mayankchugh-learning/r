@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 103,804 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
+| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 103,809 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) | 570 | Your WHOOP data, now at your fingertips. Monitor your recovery, sleep, strain, workouts and more! Favourite the Overview command for quick access to your WHOOP… | josha1len | macOS | [store](https://www.raycast.com/josha1len/whoop) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 301 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
 | [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 88 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Monkeytype](https://github.com/raycast/extensions/tree/main/extensions/monkeytype) | 1,334 | Quick access to Monkeytype sections - typing tests, stats, leaderboards, and settings | radouane-tamouss | macOS | [store](https://www.raycast.com/radouane-tamouss/monkeytype) |
+| [Monkeytype](https://github.com/raycast/extensions/tree/main/extensions/monkeytype) | 1,335 | Quick access to Monkeytype sections - typing tests, stats, leaderboards, and settings | radouane-tamouss | macOS | [store](https://www.raycast.com/radouane-tamouss/monkeytype) |
 | [Wakatime](https://github.com/raycast/extensions/tree/main/extensions/wakatime) | 1,096 | Show your Wakatime Activity Stats, Projects and Leaderboards | iammola | macOS | [store](https://www.raycast.com/iammola/wakatime) |
 | [Defichain Lottery](https://github.com/raycast/extensions/tree/main/extensions/defichain-lottery) | 13 | Stats and your tickets for the Defichain Lottery | adrian-schnell | macOS | [store](https://www.raycast.com/adrian-schnell/defichain-lottery) |
 | [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) | 4 | Compile GLES shader code with MaliOC and get performance stats. | RomanVPX | macOS | [store](https://www.raycast.com/RomanVPX/gles-to-malioc) |
@@ -42,14 +42,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 655,922 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,176 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 656,025 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,177 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,241 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) | 710 | Manage your DeepL API usage with ease. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/deepl-api-usage) |
 | [Everhour Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/everhour) | 576 | Track time against projects | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/everhour) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 398 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
 | [Timeular](https://github.com/raycast/extensions/tree/main/extensions/timeular) | 389 | Track time with Timeular | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-timeular) |
-| [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs) | 375 | Track your Cursor costs in real-time directly from macOS menu bar | shadeov | macOS | [store](https://www.raycast.com/Shadeov/cursor-costs) |
+| [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs) | 377 | Track your Cursor costs in real-time directly from macOS menu bar | shadeov | macOS | [store](https://www.raycast.com/Shadeov/cursor-costs) |
 | [Personio](https://github.com/raycast/extensions/tree/main/extensions/personio) | 132 | Track your time with Personio. | boosteblume | macOS | [store](https://www.raycast.com/boosteblume/personio) |
 | [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) | 121 | V2RayA Control is a Raycast extension that allows you to easily manage and control V2RayA, a powerful network proxy tool. Quickly toggle proxy modes, and check… | masoud_hamidzadeh | macOS | [store](https://www.raycast.com/masoud_hamidzadeh/v2raya-control) |
 | [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 58 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |

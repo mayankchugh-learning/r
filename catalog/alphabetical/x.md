@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,031 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
-| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,305 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,034 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,309 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,143 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,114 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
 | [Xcodes](https://github.com/raycast/extensions/tree/main/extensions/xcodes) | 620 | Manage several versions of Xcode | pacadil | macOS | [store](https://www.raycast.com/adil.dev/xcodes) |

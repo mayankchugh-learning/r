@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [u-ran](https://www.raycast.com/u-ran) | 1 | 897 | **Applications:** [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) |
+| [u-ran](https://www.raycast.com/u-ran) | 1 | 898 | **Applications:** [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) |
 | [ubergraham](https://www.raycast.com/ubergraham) | 1 | 85 | **Other:** [ICD10 Lookup](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) |
 | [ubinatus](https://www.raycast.com/ubinatus) | 1 | 993 | **Developer Tools:** [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) |
 | [ubuntudroid](https://www.raycast.com/ubuntudroid) | 1 | 392 | **Developer Tools:** [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) |
@@ -16,11 +16,11 @@
 | [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 533 | **Productivity:** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) |
 | [uladkaminski](https://www.raycast.com/uladkaminski) | 1 | 49 | **Finance:** [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) |
 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 | **Finance:** [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) |
-| [umit_gul](https://www.raycast.com/umit_gul) | 1 | 337 | **Productivity:** [Kommand](https://github.com/raycast/extensions/tree/main/extensions/kommand) |
-| [Undolog](https://www.raycast.com/Undolog) | 5 | 2,260 | **System:** [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks), [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates)<br>**Productivity:** [Sync Folders](https://github.com/raycast/extensions/tree/main/extensions/sync-folders)<br>**Developer Tools:** [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner), [WP Bones](https://github.com/raycast/extensions/tree/main/extensions/wp-bones) |
+| [umit_gul](https://www.raycast.com/umit_gul) | 1 | 338 | **Productivity:** [Kommand](https://github.com/raycast/extensions/tree/main/extensions/kommand) |
+| [Undolog](https://www.raycast.com/Undolog) | 5 | 2,265 | **System:** [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks), [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates)<br>**Productivity:** [Sync Folders](https://github.com/raycast/extensions/tree/main/extensions/sync-folders)<br>**Developer Tools:** [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner), [WP Bones](https://github.com/raycast/extensions/tree/main/extensions/wp-bones) |
 | [unitech](https://www.raycast.com/ordin) | 1 | 53 | **Other:** [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) |
 | [unpopular](https://www.raycast.com/unpopular) | 1 | 57 | **News:** [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) |
-| [unreadablename](https://www.raycast.com/unreadablename) | 1 | 1,096 | **Developer Tools:** [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) |
+| [unreadablename](https://www.raycast.com/unreadablename) | 1 | 1,098 | **Developer Tools:** [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) |
 | [untitledpng](https://www.raycast.com/untitledpng) | 1 | 66 | **Productivity:** [Save Clipboard](https://github.com/raycast/extensions/tree/main/extensions/save-clipboard) |
 | [uranium](https://www.raycast.com/uranium) | 1 | 16 | **Media:** [NFT Primitive Tools](https://github.com/raycast/extensions/tree/main/extensions/uranium-raycast-plugin) |
 | [user_c640ee8bc38faa8cdb2f](https://www.raycast.com/user_c640ee8bc38faa8cdb2f) | 1 | 76 | **Web:** [Recap](https://github.com/raycast/extensions/tree/main/extensions/recap) |

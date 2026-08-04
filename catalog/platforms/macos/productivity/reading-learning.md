@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,471 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,985 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
-| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 5,964 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,497 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 8,987 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 5,967 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
 | [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,741 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,296 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,405 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
@@ -18,7 +18,7 @@
 | [Read Later](https://github.com/raycast/extensions/tree/main/extensions/later) | 377 | Read your tabs later | jimluo | macOS | [store](https://www.raycast.com/jimluo/later) |
 | [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 301 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
 | [Distraction Tracker](https://github.com/raycast/extensions/tree/main/extensions/distraction-tracker) | 291 | Track your distractions and get indistractable. This extension is inspired by Nir Eyal's book indistractable. | danieldeichfuss | macOS | [store](https://www.raycast.com/danieldeichfuss/distraction-tracker) |
-| [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) | 244 | Opens books, verses or resources in Logos Bible Software | michael_marvive | macOS, Windows | [store](https://www.raycast.com/michael_marvive/logos-launcher) |
+| [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) | 246 | Opens books, verses or resources in Logos Bible Software | michael_marvive | macOS, Windows | [store](https://www.raycast.com/michael_marvive/logos-launcher) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 216 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [Nowledge Mem](https://github.com/raycast/extensions/tree/main/extensions/nowledge-mem) | 181 | Search memories, add a quick memory, and read Working Memory from Raycast. | wey-gu | macOS | [store](https://www.raycast.com/wey-gu/nowledge-mem) |
 | [Cosmic Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/cosmic-bookmarks) | 84 | Read, visit and save Bookmarks to and from Cosmic CMS | kemiljk | macOS | [store](https://www.raycast.com/kemiljk/cosmic-bookmarks) |

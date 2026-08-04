@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 22,362 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
-| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,820 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
-| [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,551 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
+| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 22,367 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
+| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,824 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
+| [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,558 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
 | [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,372 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
 | [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,805 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
 | [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor) | 1,505 | Search the Cursor Documentation right from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/cursor) |
@@ -17,7 +17,7 @@
 | [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) | 965 | Quickly view the Catppuccin color palette, userstyles, ports, and documentation. | dvhsh | macOS | [store](https://www.raycast.com/dvhsh/catppuccin) |
 | [GitHub CLI Manual](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) | 947 | Raycast extension to search GitHub CLI Manual. | demartini | macOS | [store](https://www.raycast.com/demartini/github-cli-manual) |
 | [Search Astro Documentation](https://github.com/raycast/extensions/tree/main/extensions/search-astro-docs) | 750 | Search the Astro Documentation right from Raycast | ElianCodes | macOS | [store](https://www.raycast.com/ElianCodes/search-astro-docs) |
-| [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 642 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
+| [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 643 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
 | [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 642 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
 | [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) | 547 | Search, open, and crawl DeepWiki pages for GitHub repositories. | vivek | macOS | [store](https://www.raycast.com/vivek/deepwiki) |
 | [MUI Documentation](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) | 533 | Search the online MUI documentation. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/mui-documentation) |

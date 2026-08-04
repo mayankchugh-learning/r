@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `9cb8394dc4`
+
+**Updated (1):** [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup)
+
 ## 2026-08-04 — upstream `2cb6b7d4f2`
 
 **Updated (1):** [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor)

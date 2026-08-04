@@ -1,6 +1,6 @@
 # xmok
 
-111 extensions · 11,239 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+111 extensions · 11,240 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -165,7 +165,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kutt](https://github.com/raycast/extensions/tree/main/extensions/kutt) | 71 | Free & Open Source Modern URL Shortener | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/kutt) |
+| [Kutt](https://github.com/raycast/extensions/tree/main/extensions/kutt) | 72 | Free & Open Source Modern URL Shortener | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/kutt) |
 
 ### General
 
