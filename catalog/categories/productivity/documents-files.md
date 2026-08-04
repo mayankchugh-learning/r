@@ -36,7 +36,7 @@
 | [Files Shelf](https://github.com/raycast/extensions/tree/main/extensions/files-shelf) | 209 | Batch move, copy, or rename files and folders from different directories | haythem_gataa | macOS | [store](https://www.raycast.com/haythem_gataa/files-shelf) |
 | [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) | 67 | Open selected Finder file or folder in TextMate | fannarfreyr | macOS | [store](https://www.raycast.com/fannarfreyr/open-in-textmate) |
 | [ownCloud](https://github.com/raycast/extensions/tree/main/extensions/owncloud) | 31 | share files and folders, easy and secure | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/owncloud) |
-| [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy) | 7 | Organize folders into type/year-month archives with byte-level duplicate detection and one-step undo | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/file-tidy) |
+| [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy) | 7 | Organize folders into prefixed category archives with byte-level dedup, near-duplicate and similar-image detection, and one-step undo | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/file-tidy) |
 | [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) | 5 | Browse link folders and open all links at once, like a browser favorites bar. | Francescoparadiso | macOS, Windows | [store](https://www.raycast.com/Francescoparadiso/links-folder) |
 
 ## Documents ✦

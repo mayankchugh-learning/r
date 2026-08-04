@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cca91efb4697fe49d2ac06881e6aebe6a55f0b47",
-  "generatedAt": "2026-08-04T05:22:23.243Z",
-  "downloadsRefreshedAt": "2026-08-04T05:22:22.428Z",
+  "commit": "349541f06ce21f5b85d3493454d7df5b4d97e408",
+  "generatedAt": "2026-08-04T05:24:23.160Z",
+  "downloadsRefreshedAt": "2026-08-04T05:24:22.402Z",
   "count": 3144,
   "extensions": [
     {
@@ -17559,7 +17559,7 @@
       "dir": "file-tidy",
       "name": "file-tidy",
       "title": "File Tidy",
-      "description": "Organize folders into type/year-month archives with byte-level duplicate detection and one-step undo",
+      "description": "Organize folders into prefixed category archives with byte-level dedup, near-duplicate and similar-image detection, and one-step undo",
       "author": "fhf1121",
       "owner": null,
       "contributors": 0,
@@ -17573,7 +17573,7 @@
       ],
       "store": "https://www.raycast.com/fhf1121/file-tidy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/file-tidy",
-      "treeSha": "4fe698d3f6152d4119fb97c234c21cb639782645",
+      "treeSha": "806a77132ed383bd6b6f5a0bc51c1fdbd86b0e2c",
       "downloads": 7
     },
     {
