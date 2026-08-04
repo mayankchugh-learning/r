@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1ac4d5a9c5ba0cf6d7af3ec26aa26e1c88549525",
-  "generatedAt": "2026-08-04T09:41:45.339Z",
-  "downloadsRefreshedAt": "2026-08-04T09:41:44.932Z",
+  "commit": "9de2bc885832578d2555be6345a12c83168f2412",
+  "generatedAt": "2026-08-04T11:09:59.159Z",
+  "downloadsRefreshedAt": "2026-08-04T11:09:58.470Z",
   "count": 3145,
   "extensions": [
     {
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498972
+      "downloads": 499020
     },
     {
       "dir": "color-shades",
@@ -14650,7 +14650,7 @@
       ],
       "store": "https://www.raycast.com/camille_maurel/downdetector",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/downdetector",
-      "treeSha": "6d07f8374c27f66125449abff6f35a271880bd81",
+      "treeSha": "f2fc6515dca32dfdf98ffe4514afb8513c0dba75",
       "downloads": 22
     },
     {
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487481
+      "downloads": 487519
     },
     {
       "dir": "google-chrome-profiles",
@@ -22571,7 +22571,7 @@
       ],
       "store": "https://www.raycast.com/mattiacolombomc/handy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/handy",
-      "treeSha": "b77846c7a0c7fd187be5f44139636f4609c17499",
+      "treeSha": "eb6efbea205d5034f0f358cd514009e4bebd88ec",
       "downloads": 970
     },
     {
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 655752
+      "downloads": 655804
     },
     {
       "dir": "kimai",

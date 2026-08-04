@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `9de2bc8858`
+
+**Updated (2):** [Downdetector](https://github.com/raycast/extensions/tree/main/extensions/downdetector), [Handy](https://github.com/raycast/extensions/tree/main/extensions/handy)
+
 ## 2026-08-04 — upstream `1ac4d5a9c5`
 
 **Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
