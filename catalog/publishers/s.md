@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-165 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+166 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -148,6 +148,7 @@
 | [stevefrost](https://www.raycast.com/stevefrost) | 1 | 144 | **System:** [Mouse Jiggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-jiggle) |
 | [StevenRCE0](https://www.raycast.com/StevenRCE0) | 2 | 15,530 | **Productivity:** [QR Code Scanner](https://github.com/raycast/extensions/tree/main/extensions/qr-code-scanner), [KDE Connect](https://github.com/raycast/extensions/tree/main/extensions/kde-connect) |
 | [stevensd2m](https://www.raycast.com/stevensd2m) | 2 | 3,804 | **Developer Tools:** [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping)<br>**Uncategorized:** [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) |
+| [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 0 | **Developer Tools:** [Mule Secure Properties](https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties) |
 | [stonko1994](https://www.raycast.com/stonko1994) | 1 | 44 | **Developer Tools:** [Manifest Viewer](https://github.com/raycast/extensions/tree/main/extensions/manifest-viewer) |
 | [storm](https://www.raycast.com/storm) | 1 | 545 | **Design Tools:** [Cursors](https://github.com/raycast/extensions/tree/main/extensions/cursors) |
 | [strikeraryu](https://www.raycast.com/strikeraryu) | 1 | 131 | **Uncategorized:** [Clipyai](https://github.com/raycast/extensions/tree/main/extensions/clipyai) |

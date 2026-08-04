@@ -1,8 +1,8 @@
 # macOS · Security
 
-82 extensions · [← macOS](../README.md)
+83 extensions · [← macOS](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (36) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (11) · [General](#general) (19)
+[Passwords & Secrets](#passwords-secrets) (36) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (2) · [Network & Privacy](#network-privacy) (11) · [General](#general) (19)
 
 ## Credentials & Access
 
@@ -79,6 +79,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Certificate Viewer](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) | 163 | Quick download and decode certificates | gamerslouis | macOS | [store](https://www.raycast.com/gamerslouis/certificate-viewer) |
+| [Mule Secure Properties](https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties) | 0 | Encrypt and decrypt MuleSoft secure property values with the official Secure Properties Tool. | stiven_gonzalez | macOS, Windows | [store](https://www.raycast.com/stiven_gonzalez/mule-secure-properties) |
 
 ### Network & Privacy
 

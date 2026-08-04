@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5b3d29f649c724b2a563e380680a41ce3a85245c",
-  "generatedAt": "2026-08-04T06:24:44.337Z",
-  "downloadsRefreshedAt": "2026-08-04T06:24:44.005Z",
-  "count": 3144,
+  "commit": "0db64df6e97f21d04565c95f32e98602bf3a030f",
+  "generatedAt": "2026-08-04T07:28:02.637Z",
+  "downloadsRefreshedAt": "2026-08-04T07:28:02.314Z",
+  "count": 3145,
   "extensions": [
     {
       "dir": "0x0",
@@ -9428,7 +9428,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 498858
+      "downloads": 498900
     },
     {
       "dir": "color-shades",
@@ -21341,7 +21341,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487353
+      "downloads": 487397
     },
     {
       "dir": "google-chrome-profiles",
@@ -27577,7 +27577,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 655606
+      "downloads": 655654
     },
     {
       "dir": "kimai",
@@ -34408,6 +34408,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mui-documentation",
       "treeSha": "5e44534f7297ce22a1d28a2be11402b5646ed204",
       "downloads": 533
+    },
+    {
+      "dir": "mule-secure-properties",
+      "name": "mule-secure-properties",
+      "title": "Mule Secure Properties",
+      "description": "Encrypt and decrypt MuleSoft secure property values with the official Secure Properties Tool.",
+      "author": "stiven_gonzalez",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Security"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/stiven_gonzalez/mule-secure-properties",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties",
+      "treeSha": "86fff1599283a14381093bd6e8c37b09e9b19a35",
+      "downloads": 0
     },
     {
       "dir": "mullvad",

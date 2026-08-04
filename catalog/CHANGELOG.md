@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `0db64df6e9`
+
+**Added (1):** [Mule Secure Properties](https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties)
+
 ## 2026-08-04 — upstream `5b3d29f649`
 
 **Updated (1):** [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner)

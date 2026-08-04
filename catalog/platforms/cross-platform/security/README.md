@@ -1,8 +1,8 @@
 # Cross-platform · Security
 
-27 extensions · [← Cross-platform](../README.md)
+28 extensions · [← Cross-platform](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (17) · [2FA & Authentication](#2fa-authentication) (4) · [Network & Privacy](#network-privacy) (2) · [General](#general) (4)
+[Passwords & Secrets](#passwords-secrets) (17) · [2FA & Authentication](#2fa-authentication) (4) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (2) · [General](#general) (4)
 
 ## Credentials & Access
 
@@ -38,6 +38,12 @@
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 157 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 
 ## Protect & Encrypt
+
+### Encryption & Hashing
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Mule Secure Properties](https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties) | 0 | Encrypt and decrypt MuleSoft secure property values with the official Secure Properties Tool. | stiven_gonzalez | macOS, Windows | [store](https://www.raycast.com/stiven_gonzalez/mule-secure-properties) |
 
 ### Network & Privacy
 

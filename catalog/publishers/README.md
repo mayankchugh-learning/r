@@ -1,6 +1,6 @@
 # Publishers
 
-2090 publishers · [← catalog index](../README.md)
+2091 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,087,668 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,087,710 |
 | 2 | [raycast](./id/raycast.md) | 11 | 777,812 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 655,606 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 487,353 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 655,654 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 487,397 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 433,534 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 428,378 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 402,807 |
@@ -2094,7 +2094,8 @@
 | 2084 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
 | 2085 | [pvnkmnk](https://www.raycast.com/pvnkmnk) | 1 | 0 |
 | 2086 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2087 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2088 | github-next | 2 | — |
-| 2089 | multi | 1 | — |
-| 2090 | sharat_visweswara | 1 | — |
+| 2087 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 0 |
+| 2088 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2089 | github-next | 2 | — |
+| 2090 | multi | 1 | — |
+| 2091 | sharat_visweswara | 1 | — |
