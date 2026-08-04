@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ac1c609668340de9cf08f423031e34a75efb48ed",
-  "generatedAt": "2026-08-04T16:25:41.313Z",
-  "downloadsRefreshedAt": "2026-08-04T16:25:41.040Z",
+  "commit": "64ae6c4b39419d43ad43c6ad4ec98e05553095a1",
+  "generatedAt": "2026-08-04T20:36:57.265Z",
+  "downloadsRefreshedAt": "2026-08-04T20:36:56.863Z",
   "count": 3148,
   "extensions": [
     {
@@ -9449,7 +9449,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499189
+      "downloads": 499314
     },
     {
       "dir": "color-shades",
@@ -18596,10 +18596,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/p2m/focus-automation",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/focus-automation",
       "treeSha": "9a591f3e3d352e3a2f88c5dd741486e15821ec17",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "focus-flow",
@@ -21403,7 +21403,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 487715
+      "downloads": 487849
     },
     {
       "dir": "google-chrome-profiles",
@@ -27639,7 +27639,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656028
+      "downloads": 656194
     },
     {
       "dir": "kimai",
@@ -43967,7 +43967,7 @@
       ],
       "store": "https://www.raycast.com/remibonnet/qovery",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qovery",
-      "treeSha": "d0b1191b687d549a6f592fe00b48625a7ca0b410",
+      "treeSha": "837c3ce2c099194135f9d4db973b839e2b0460ca",
       "downloads": 8
     },
     {

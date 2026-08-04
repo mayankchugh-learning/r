@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-04 — upstream `64ae6c4b39`
+
+**Updated (1):** [Qovery](https://github.com/raycast/extensions/tree/main/extensions/qovery)
+
 ## 2026-08-04 — upstream `ac1c609668`
 
 **Added (1):** [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation)

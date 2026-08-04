@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,088,310 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,088,435 |
 | 2 | [raycast](./id/raycast.md) | 11 | 778,157 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,028 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 487,715 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,194 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 487,849 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 433,774 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 428,603 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 402,937 |
@@ -2095,10 +2095,10 @@
 | 2085 | [insuline](https://www.raycast.com/Insuline) | 1 | 0 |
 | 2086 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
 | 2087 | [nabecite](https://www.raycast.com/nabecite) | 1 | 0 |
-| 2088 | [Paul12169](https://www.raycast.com/Paul12169) | 1 | 0 |
-| 2089 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2090 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2091 | github-next | 2 | — |
-| 2092 | multi | 1 | — |
-| 2093 | p2m | 1 | — |
+| 2088 | [p2m](https://www.raycast.com/p2m) | 1 | 0 |
+| 2089 | [Paul12169](https://www.raycast.com/Paul12169) | 1 | 0 |
+| 2090 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2091 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2092 | github-next | 2 | — |
+| 2093 | multi | 1 | — |
 | 2094 | sharat_visweswara | 1 | — |

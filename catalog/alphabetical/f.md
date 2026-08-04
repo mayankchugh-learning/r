@@ -141,4 +141,4 @@
 | [From](https://github.com/raycast/extensions/tree/main/extensions/from) | 2 | Capture thoughts, search your notes and open your daily note in From — the outliner that understands what you write, so capture stays frictionless and fast. | alberto_lezaun | macOS | [store](https://www.raycast.com/alberto_lezaun/from) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
 | [Flashcards](https://github.com/raycast/extensions/tree/main/extensions/flashcards) | 0 | Create and study flashcards with Markdown syntax | Paul12169 | macOS, Windows | [store](https://www.raycast.com/Paul12169/flashcards) |
-| [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation) | — | Automate Raycast Focus sessions from your calendar. | p2m | macOS | — |
+| [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation) | 0 | Automate Raycast Focus sessions from your calendar. | p2m | macOS | [store](https://www.raycast.com/p2m/focus-automation) |
