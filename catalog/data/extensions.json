@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "84f5b0a4109588015d07d7907d8eca5966ef5742",
-  "generatedAt": "2026-08-05T07:16:52.761Z",
-  "downloadsRefreshedAt": "2026-08-05T07:16:51.896Z",
+  "commit": "c347ee7779a5a2aa974b15edb462b568a6bbe1a0",
+  "generatedAt": "2026-08-05T07:28:44.877Z",
+  "downloadsRefreshedAt": "2026-08-05T07:28:44.108Z",
   "count": 3150,
   "extensions": [
     {
@@ -9471,7 +9471,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499528
+      "downloads": 499535
     },
     {
       "dir": "color-shades",
@@ -21425,7 +21425,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488124
+      "downloads": 488132
     },
     {
       "dir": "google-chrome-profiles",
@@ -27661,7 +27661,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656435
+      "downloads": 656443
     },
     {
       "dir": "kimai",
@@ -39139,7 +39139,7 @@
       ],
       "store": "https://www.raycast.com/k8scat/ossinsight",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ossinsight",
-      "treeSha": "b59f64364570eda20340b8800dd753d50d0ced8a",
+      "treeSha": "60478a7caede4537e650818aed0183ded6e85a2b",
       "downloads": 263
     },
     {
@@ -55469,7 +55469,7 @@
       "store": "https://www.raycast.com/hossammourad/raycast-system-monitor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/system-monitor",
       "treeSha": "6e6178d8d5e3d6a6b6876ca147f02d28503cd956",
-      "downloads": 103857
+      "downloads": 103866
     },
     {
       "dir": "t3-chat",

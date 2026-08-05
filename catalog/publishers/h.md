@@ -48,7 +48,7 @@
 | [hongkiulam](https://www.raycast.com/hongkiulam) | 1 | 1,837 | **Developer Tools:** [RegEx REPL](https://github.com/raycast/extensions/tree/main/extensions/regex-repl) |
 | [honzatmn](https://www.raycast.com/honzatmn) | 1 | 320 | **Productivity:** [Productboard](https://github.com/raycast/extensions/tree/main/extensions/productboard) |
 | [horimislime](https://www.raycast.com/horimislime) | 1 | 398 | **Developer Tools:** [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) |
-| [hossammourad](https://www.raycast.com/hossammourad) | 1 | 103,857 | **Productivity:** [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) |
+| [hossammourad](https://www.raycast.com/hossammourad) | 1 | 103,866 | **Productivity:** [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) |
 | [HOsy](https://www.raycast.com/HOsy) | 1 | 333 | **Applications:** [Surfed](https://github.com/raycast/extensions/tree/main/extensions/surfed) |
 | [hrishabhn](https://www.raycast.com/hrishabhn) | 1 | 1,806 | **Uncategorized:** [Flighty](https://github.com/raycast/extensions/tree/main/extensions/flighty) |
 | [http.james](https://www.raycast.com/http.james) | 4 | 2,791 | **Productivity:** [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt), [Addy](https://github.com/raycast/extensions/tree/main/extensions/anonaddy), [Control D](https://github.com/raycast/extensions/tree/main/extensions/control-d)<br>**Communication:** [Lemmy](https://github.com/raycast/extensions/tree/main/extensions/lemmy) |
