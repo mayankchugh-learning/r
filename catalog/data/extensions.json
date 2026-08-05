@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7a170ff44630a436410c6a6ce0b979f103d2b374",
-  "generatedAt": "2026-08-05T12:00:41.199Z",
-  "downloadsRefreshedAt": "2026-08-05T12:00:40.843Z",
+  "commit": "b952620e2e7c328aea312003bd245c9e5985c50f",
+  "generatedAt": "2026-08-05T12:04:28.151Z",
+  "downloadsRefreshedAt": "2026-08-05T12:04:27.419Z",
   "count": 3150,
   "extensions": [
     {
@@ -9472,7 +9472,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499686
+      "downloads": 499689
     },
     {
       "dir": "color-shades",
@@ -15563,7 +15563,7 @@
       "dir": "elevenlabs-tts",
       "name": "elevenlabs-tts",
       "title": "ElevenLabs TTS",
-      "description": "Convert selected text to lifelike speech using ElevenLabs' premium AI voices",
+      "description": "Convert selected or copied text to lifelike speech using ElevenLabs' premium AI voices",
       "author": "lachie_james",
       "owner": null,
       "contributors": 1,
@@ -15577,7 +15577,7 @@
       ],
       "store": "https://www.raycast.com/lachie_james/elevenlabs-tts",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts",
-      "treeSha": "5c209b164b7f78095f88c6cd1118117438261256",
+      "treeSha": "dab3e99004c7e9556f0a16bc467416f992b9fdcd",
       "downloads": 2114
     },
     {
@@ -21426,7 +21426,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488284
+      "downloads": 488285
     },
     {
       "dir": "google-chrome-profiles",
@@ -27662,7 +27662,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656621
+      "downloads": 656625
     },
     {
       "dir": "kimai",
