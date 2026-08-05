@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-05 — upstream `92efe090b3`
+
+**Added (1):** [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control)
+
 ## 2026-08-05 — upstream `92a1665bd0`
 
 **Added (1):** [Dondori](https://github.com/raycast/extensions/tree/main/extensions/dondori)

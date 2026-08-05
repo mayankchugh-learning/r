@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "92a1665bd0094752deca7f0e1d8ea6a0beb9af38",
-  "generatedAt": "2026-08-05T14:42:54.123Z",
+  "commit": "92efe090b39721bf659a1674693a4168e156bf24",
+  "generatedAt": "2026-08-05T15:55:05.924Z",
   "downloadsRefreshedAt": "2026-08-05T14:42:53.351Z",
-  "count": 3152,
+  "count": 3153,
   "extensions": [
     {
       "dir": "0x0",
@@ -3168,6 +3168,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/audio-writer",
       "treeSha": "2e12cc605ad1cef533ed7ed73ca2f79e5e120403",
       "downloads": 1160
+    },
+    {
+      "dir": "audiocast-control",
+      "name": "audiocast-control",
+      "title": "AudioCast Control",
+      "description": "Control your AudioCast device using Raycast",
+      "author": "RomiC",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Media"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/RomiC/audiocast-control",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/audiocast-control",
+      "treeSha": "654fbb22e9c29876c86173d0692d1424b6445efd",
+      "downloads": null
     },
     {
       "dir": "auth0-management",

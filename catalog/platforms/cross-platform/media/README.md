@@ -1,8 +1,8 @@
 # Cross-platform · Media
 
-74 extensions · [← Cross-platform](../README.md)
+75 extensions · [← Cross-platform](../README.md)
 
-[Music & Audio](#music-audio) (12) · [Video & Streaming](#video-streaming) (10) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (4) · [Books & Papers](#books-papers) (2) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (3) · [General](#general) (28)
+[Music & Audio](#music-audio) (12) · [Video & Streaming](#video-streaming) (10) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (4) · [Books & Papers](#books-papers) (2) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (3) · [General](#general) (29)
 
 ## Listen & Watch
 
@@ -123,3 +123,4 @@
 | [Tuneblade](https://github.com/raycast/extensions/tree/main/extensions/tuneblade) | 12 | Control and manage Tuneblade devices | kibbewater | macOS, Windows | [store](https://www.raycast.com/kibbewater/tuneblade) |
 | [7TV Emotes Search](https://github.com/raycast/extensions/tree/main/extensions/seventv-search) | 8 | Search, preview, copy, and paste 7TV emotes from Raycast. | Paranjayy | macOS, Windows | [store](https://www.raycast.com/Paranjayy/seventv-search) |
 | [BJ-Share](https://github.com/raycast/extensions/tree/main/extensions/bj-share) | 4 | This extension can provide quick access to BJ-Share torrents using RSS feed | alexandremt | macOS, Windows | [store](https://www.raycast.com/alexandremt/bj-share) |
+| [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) | — | Control your AudioCast device using Raycast | RomiC | macOS, Windows | [store](https://www.raycast.com/RomiC/audiocast-control) |

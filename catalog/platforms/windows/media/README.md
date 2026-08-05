@@ -1,8 +1,8 @@
 # Windows · Media
 
-80 extensions · [← Windows](../README.md)
+81 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (5) · [Books & Papers](#books-papers) (2) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (3) · [General](#general) (31)
+[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (5) · [Books & Papers](#books-papers) (2) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (3) · [General](#general) (32)
 
 ## Listen & Watch
 
@@ -129,3 +129,4 @@
 | [7TV Emotes Search](https://github.com/raycast/extensions/tree/main/extensions/seventv-search) | 8 | Search, preview, copy, and paste 7TV emotes from Raycast. | Paranjayy | macOS, Windows | [store](https://www.raycast.com/Paranjayy/seventv-search) |
 | [BJ-Share](https://github.com/raycast/extensions/tree/main/extensions/bj-share) | 4 | This extension can provide quick access to BJ-Share torrents using RSS feed | alexandremt | macOS, Windows | [store](https://www.raycast.com/alexandremt/bj-share) |
 | [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 0 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |
+| [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) | — | Control your AudioCast device using Raycast | RomiC | macOS, Windows | [store](https://www.raycast.com/RomiC/audiocast-control) |

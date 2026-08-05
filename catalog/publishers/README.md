@@ -1,6 +1,6 @@
 # Publishers
 
-2098 publishers · [← catalog index](../README.md)
+2099 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -2105,4 +2105,5 @@
 | 2095 | github-next | 2 | — |
 | 2096 | buffer | 1 | — |
 | 2097 | multi | 1 | — |
-| 2098 | sharat_visweswara | 1 | — |
+| 2098 | [RomiC](https://www.raycast.com/RomiC) | 1 | — |
+| 2099 | sharat_visweswara | 1 | — |
