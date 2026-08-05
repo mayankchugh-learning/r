@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-05 — upstream `e5c203feca`
+
+**Added (1):** [Buffer](https://github.com/raycast/extensions/tree/main/extensions/buffer)
+
 ## 2026-08-05 — upstream `b952620e2e`
 
 **Updated (1):** [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts)

@@ -1,6 +1,6 @@
 # Publishers
 
-2096 publishers · [← catalog index](../README.md)
+2097 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,089,150 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,089,158 |
 | 2 | [raycast](./id/raycast.md) | 11 | 778,609 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,625 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 488,285 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,632 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 488,296 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 434,069 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 428,884 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 403,106 |
@@ -415,7 +415,7 @@
 | 405 | [kennonb](https://www.raycast.com/kennonb) | 1 | 2,124 |
 | 406 | [matt](https://www.raycast.com/matt) | 1 | 2,117 |
 | 407 | [magneto](https://www.raycast.com/magneto) | 1 | 2,116 |
-| 408 | [lachie_james](https://www.raycast.com/lachie_james) | 1 | 2,114 |
+| 408 | [lachie_james](https://www.raycast.com/lachie_james) | 1 | 2,115 |
 | 409 | [madebyankur](https://www.raycast.com/madebyankur) | 3 | 2,097 |
 | 410 | [ryon](https://www.raycast.com/ryon) | 1 | 2,095 |
 | 411 | [csharp](https://www.raycast.com/csharp) | 2 | 2,089 |
@@ -2102,5 +2102,6 @@
 | 2092 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
 | 2093 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
 | 2094 | github-next | 2 | — |
-| 2095 | multi | 1 | — |
-| 2096 | sharat_visweswara | 1 | — |
+| 2095 | buffer | 1 | — |
+| 2096 | multi | 1 | — |
+| 2097 | sharat_visweswara | 1 | — |

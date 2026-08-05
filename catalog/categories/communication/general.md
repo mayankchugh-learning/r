@@ -1,6 +1,6 @@
 # General
 
-46 extensions · [← Communication](./README.md)
+47 extensions · [← Communication](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -49,4 +49,5 @@
 | [Area Code Search](https://github.com/raycast/extensions/tree/main/extensions/area-code-search) | 9 | Search US area codes by code, city, or state | mjking | macOS | [store](https://www.raycast.com/mjking/area-code-search) |
 | [Zenblog](https://github.com/raycast/extensions/tree/main/extensions/zenblog) | 4 | A tiny blogging CMS | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zenblog) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 1 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
+| [Buffer](https://github.com/raycast/extensions/tree/main/extensions/buffer) | — | Create posts and ideas in Buffer | buffer (org) | macOS | — |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b952620e2e7c328aea312003bd245c9e5985c50f",
-  "generatedAt": "2026-08-05T12:04:28.151Z",
-  "downloadsRefreshedAt": "2026-08-05T12:04:27.419Z",
-  "count": 3150,
+  "commit": "e5c203fecac630fc726af8bbb2c7cc7b4d6163dd",
+  "generatedAt": "2026-08-05T12:17:37.386Z",
+  "downloadsRefreshedAt": "2026-08-05T12:17:36.973Z",
+  "count": 3151,
   "extensions": [
     {
       "dir": "0x0",
@@ -5958,6 +5958,26 @@
       "downloads": 81
     },
     {
+      "dir": "buffer",
+      "name": "buffer",
+      "title": "Buffer",
+      "description": "Create posts and ideas in Buffer",
+      "author": "hitherejoe",
+      "owner": "buffer",
+      "contributors": 0,
+      "categories": [
+        "Communication"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/buffer",
+      "treeSha": "cd60538d85d868544b236989ff599587bcfdae7a",
+      "downloads": null
+    },
+    {
       "dir": "bugmenot",
       "name": "bugmenot",
       "title": "BugMeNot",
@@ -9472,7 +9492,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499689
+      "downloads": 499697
     },
     {
       "dir": "color-shades",
@@ -15578,7 +15598,7 @@
       "store": "https://www.raycast.com/lachie_james/elevenlabs-tts",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts",
       "treeSha": "dab3e99004c7e9556f0a16bc467416f992b9fdcd",
-      "downloads": 2114
+      "downloads": 2115
     },
     {
       "dir": "elgato-key-light",
@@ -21426,7 +21446,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488285
+      "downloads": 488296
     },
     {
       "dir": "google-chrome-profiles",
@@ -27662,7 +27682,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656625
+      "downloads": 656632
     },
     {
       "dir": "kimai",

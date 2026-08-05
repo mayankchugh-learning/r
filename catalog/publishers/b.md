@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-76 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+77 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -80,5 +80,6 @@
 | [bryantgillespie](https://www.raycast.com/bryantgillespie) | 1 | 152 | **Documentation:** [Directus](https://github.com/raycast/extensions/tree/main/extensions/directus) |
 | [bstncartwright](https://www.raycast.com/bstncartwright) | 1 | 1,247 | **Developer Tools:** [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) |
 | [bucketfish](https://www.raycast.com/bucketfish) | 1 | 522 | **Other:** [Moon Phrase](https://github.com/raycast/extensions/tree/main/extensions/moon-phrase) |
+| buffer | 1 | — | **Communication:** [Buffer](https://github.com/raycast/extensions/tree/main/extensions/buffer) |
 | [bufo24](https://www.raycast.com/bufo24) | 1 | 71 | **Developer Tools:** [Search Lightning Nodes](https://github.com/raycast/extensions/tree/main/extensions/raycast-lighting-node-search) |
 | [bun913](https://www.raycast.com/bun913) | 1 | 82 | **Documentation:** [Textlint AWS Service Name](https://github.com/raycast/extensions/tree/main/extensions/textlint-rule-aws-service-name) |

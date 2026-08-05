@@ -1,8 +1,8 @@
 # macOS · Communication
 
-147 extensions · [← macOS](../README.md)
+148 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (27) · [Video Calls & Meetings](#video-calls-meetings) (14) · [Email](#email) (21) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (54)
+[Messaging & Chat](#messaging-chat) (27) · [Video Calls & Meetings](#video-calls-meetings) (14) · [Email](#email) (21) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (55)
 
 ## Conversations
 
@@ -205,4 +205,5 @@
 | [Zenblog](https://github.com/raycast/extensions/tree/main/extensions/zenblog) | 4 | A tiny blogging CMS | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zenblog) |
 | [Manglish Keyboard](https://github.com/raycast/extensions/tree/main/extensions/manglish-keyboard) | 2 | Write in Manglish — transliterate English phonetics to Malayalam script. | mohammed_sherin_mohammed | macOS, Windows | [store](https://www.raycast.com/mohammed_sherin_mohammed/manglish-keyboard) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 1 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
+| [Buffer](https://github.com/raycast/extensions/tree/main/extensions/buffer) | — | Create posts and ideas in Buffer | buffer (org) | macOS | — |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
