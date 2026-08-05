@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-05 — upstream `8e644d7eee`
+
+**Updated (1):** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet)
+
 ## 2026-08-05 — upstream `a2c198b966`
 
 **Updated (1):** [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)
