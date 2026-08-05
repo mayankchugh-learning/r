@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "45947aa4557a8b6ca35cc3a438bf3525ee89c8f2",
-  "generatedAt": "2026-08-05T14:32:00.922Z",
-  "downloadsRefreshedAt": "2026-08-05T14:32:00.180Z",
+  "commit": "a60ed825eeeb4dbb1af72042787d4518b0a781bf",
+  "generatedAt": "2026-08-05T14:34:43.296Z",
+  "downloadsRefreshedAt": "2026-08-05T14:34:43.076Z",
   "count": 3151,
   "extensions": [
     {
@@ -5492,7 +5492,7 @@
       ],
       "store": "https://www.raycast.com/eKamran/bouncer-email-verifier",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier",
-      "treeSha": "c744386c3899176a6a8112aa475a203c436f2615",
+      "treeSha": "fef2630bca8a6bedcfccf7be03a999aba970c0cc",
       "downloads": 2
     },
     {
@@ -9492,7 +9492,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499770
+      "downloads": 499771
     },
     {
       "dir": "color-shades",
@@ -21446,7 +21446,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488378
+      "downloads": 488379
     },
     {
       "dir": "google-chrome-profiles",
@@ -27682,7 +27682,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656723
+      "downloads": 656724
     },
     {
       "dir": "kimai",

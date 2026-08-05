@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-05 — upstream `a60ed825ee`
+
+**Updated (1):** [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier)
+
 ## 2026-08-05 — upstream `45947aa455`
 
 **Updated (1):** [Qovery](https://github.com/raycast/extensions/tree/main/extensions/qovery)
