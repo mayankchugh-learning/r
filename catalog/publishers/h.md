@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · **H** · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-65 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+66 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -41,6 +41,7 @@
 | [hjm79](https://www.raycast.com/hjm79) | 2 | 44 | **Productivity:** [Korean Add Calendar](https://github.com/raycast/extensions/tree/main/extensions/korean-add-calendar)<br>**Applications:** [Vesslo](https://github.com/raycast/extensions/tree/main/extensions/vesslo) |
 | [hk_raycast](https://www.raycast.com/hk_raycast) | 1 | 6 | **Productivity:** [PomoNotion Raycast Extension](https://github.com/raycast/extensions/tree/main/extensions/raycast-pomodoro-notion) |
 | [hmarr](https://www.raycast.com/hmarr) | 3 | 22,620 | **Productivity:** [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear)<br>**Finance:** [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker)<br>**System:** [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) |
+| [hmims](https://www.raycast.com/hmims) | 1 | 0 | **Developer Tools:** [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy) |
 | [ho991217](https://www.raycast.com/ho991217) | 1 | 48 | **Productivity:** [Control Kef](https://github.com/raycast/extensions/tree/main/extensions/kef-control) |
 | [hoando](https://www.raycast.com/hoando) | 2 | 30 | **Productivity:** [Vietnamese Calendar](https://github.com/raycast/extensions/tree/main/extensions/vietnamese-calendar), [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) |
 | [honghao](https://www.raycast.com/honghao) | 1 | 883 | **Applications:** [Say No to Notch](https://github.com/raycast/extensions/tree/main/extensions/say-no-to-notch) |

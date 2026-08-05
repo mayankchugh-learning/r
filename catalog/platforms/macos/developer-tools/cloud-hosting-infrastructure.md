@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · **Cloud, Hosting & Infrastructure** · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-86 of 1070 extensions · [← macOS · Developer Tools](./README.md)
+87 of 1071 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -92,3 +92,4 @@
 | [Cloudflare Images](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-images) | 9 | Upload images to Cloudflare Images from your clipboard, Finder, or anywhere on your Mac. Includes a browser for your uploaded images. Unofficial. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/cloudflare-images) |
 | [DreamHost](https://github.com/raycast/extensions/tree/main/extensions/dreamhost) | 9 | Manage DreamHost DNS Records | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/dreamhost) |
 | [deSEC](https://github.com/raycast/extensions/tree/main/extensions/desec) | 5 | Modern DNS Hosting for Everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/desec) |
+| [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy) | 0 | Browse, launch, and monitor AWX job templates and running jobs. | hmims | macOS, Windows | [store](https://www.raycast.com/hmims/awx-deploy) |

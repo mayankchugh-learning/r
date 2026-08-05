@@ -1,8 +1,8 @@
 # Trackers & Monitors
 
-35 extensions · [← Productivity](./README.md)
+36 extensions · [← Productivity](./README.md)
 
-[Monitor ✦](#monitor) (7) · [Tracker ✦](#tracker) (6) · [Stats ✦](#stats) (4) · [General](#general) (18)
+[Monitor ✦](#monitor) (8) · [Tracker ✦](#tracker) (6) · [Stats ✦](#stats) (4) · [General](#general) (18)
 
 *✦ auto-discovered topic group*
 
@@ -17,6 +17,7 @@
 | [GPU Fleet Monitor](https://github.com/raycast/extensions/tree/main/extensions/gpu-fleet-monitor) | 41 | Monitor GPU/CPU usage across SSH hosts. Connect via Ghostty, Cursor, or tmux. | kazzart | macOS | [store](https://www.raycast.com/kazzart/gpu-fleet-monitor) |
 | [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | 14 | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 | [Descript](https://github.com/raycast/extensions/tree/main/extensions/descript) | 5 | Import media, browse projects, monitor jobs, and run Underlord prompts in Descript without leaving Raycast. | luarmr | macOS | [store](https://www.raycast.com/luarmr/descript) |
+| [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy) | 0 | Browse, launch, and monitor AWX job templates and running jobs. | hmims | macOS, Windows | [store](https://www.raycast.com/hmims/awx-deploy) |
 
 ## Tracker ✦
 
@@ -42,7 +43,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 656,389 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 656,431 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,177 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,241 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) | 711 | Manage your DeepL API usage with ease. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/deepl-api-usage) |

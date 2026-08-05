@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1c19c043ee19d2154874b17f451eaaf50581ab6b",
-  "generatedAt": "2026-08-05T05:49:56.294Z",
-  "downloadsRefreshedAt": "2026-08-05T05:49:55.914Z",
-  "count": 3149,
+  "commit": "168f97f97102346020f089a957207ae303cabcf3",
+  "generatedAt": "2026-08-05T07:13:47.701Z",
+  "downloadsRefreshedAt": "2026-08-05T07:13:46.829Z",
+  "count": 3150,
   "extensions": [
     {
       "dir": "0x0",
@@ -3318,6 +3318,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/awork",
       "treeSha": "2fd98bf53838dd77d37d7d1c300dd548698e52c4",
       "downloads": 87
+    },
+    {
+      "dir": "awx-deploy",
+      "name": "awx-deploy",
+      "title": "AWX Deploy",
+      "description": "Browse, launch, and monitor AWX job templates and running jobs.",
+      "author": "hmims",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/hmims/awx-deploy",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/awx-deploy",
+      "treeSha": "20ef74e9215a7e17595154b24d0af65e24f6e06b",
+      "downloads": 0
     },
     {
       "dir": "axios-docs",
@@ -9449,7 +9471,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499485
+      "downloads": 499526
     },
     {
       "dir": "color-shades",
@@ -21403,7 +21425,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488058
+      "downloads": 488120
     },
     {
       "dir": "google-chrome-profiles",
@@ -27639,7 +27661,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656389
+      "downloads": 656431
     },
     {
       "dir": "kimai",

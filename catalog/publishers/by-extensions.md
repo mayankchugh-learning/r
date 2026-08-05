@@ -1,6 +1,6 @@
 # Publishers
 
-2095 publishers · [← catalog index](../README.md)
+2096 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 148,780 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,343 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,720 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,088,821 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,088,862 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 296,767 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,817 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 403,043 |
@@ -385,8 +385,8 @@
 | 375 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
 | 376 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 377 | github-next | 2 | — |
-| 378 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,389 |
-| 379 | [Codely](https://www.raycast.com/Codely) | 1 | 488,058 |
+| 378 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,431 |
+| 379 | [Codely](https://www.raycast.com/Codely) | 1 | 488,120 |
 | 380 | [linear](https://www.raycast.com/linear) | 1 | 338,071 |
 | 381 | [mommertf](https://www.raycast.com/mommertf) | 1 | 283,148 |
 | 382 | [nhojb](https://www.raycast.com/nhojb) | 1 | 253,714 |
@@ -2096,10 +2096,11 @@
 | 2086 | [drew_levinson](https://www.raycast.com/drew_levinson) | 1 | 0 |
 | 2087 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2088 | [filiph](https://www.raycast.com/filiph) | 1 | 0 |
-| 2089 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2090 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
-| 2091 | [p2m](https://www.raycast.com/p2m) | 1 | 0 |
-| 2092 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2093 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2094 | multi | 1 | — |
-| 2095 | sharat_visweswara | 1 | — |
+| 2089 | [hmims](https://www.raycast.com/hmims) | 1 | 0 |
+| 2090 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2091 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
+| 2092 | [p2m](https://www.raycast.com/p2m) | 1 | 0 |
+| 2093 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2094 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2095 | multi | 1 | — |
+| 2096 | sharat_visweswara | 1 | — |

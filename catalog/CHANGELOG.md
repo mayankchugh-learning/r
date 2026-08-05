@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-05 — upstream `168f97f971`
+
+**Added (1):** [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy)
+
 ## 2026-08-05 — upstream `1c19c043ee`
 
 **Updated (1):** [Tempo](https://github.com/raycast/extensions/tree/main/extensions/tempo)

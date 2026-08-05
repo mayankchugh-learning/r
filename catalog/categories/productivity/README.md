@@ -1,8 +1,8 @@
 # Productivity
 
-1427 extensions · [← all categories](../README.md)
+1428 extensions · [← all categories](../README.md)
 
-macOS: 1412 · Windows: 337
+macOS: 1413 · Windows: 338
 
 ## Organize & Plan
 
@@ -37,7 +37,7 @@ macOS: 1412 · Windows: 337
 | --- | --- |
 | [Reading & Learning](./reading-learning.md) | 21 |
 | [Team & Business Tools](./team-business-tools.md) | 15 |
-| [Trackers & Monitors](./trackers-monitors.md) | 35 |
+| [Trackers & Monitors](./trackers-monitors.md) | 36 |
 
 ## Discovered topics ✦
 

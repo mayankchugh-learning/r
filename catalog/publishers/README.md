@@ -1,6 +1,6 @@
 # Publishers
 
-2095 publishers · [← catalog index](../README.md)
+2096 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,088,821 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,088,862 |
 | 2 | [raycast](./id/raycast.md) | 11 | 778,480 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,389 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 488,058 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,431 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 488,120 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 433,975 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 428,798 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 403,043 |
@@ -2095,11 +2095,12 @@
 | 2085 | [drew_levinson](https://www.raycast.com/drew_levinson) | 1 | 0 |
 | 2086 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2087 | [filiph](https://www.raycast.com/filiph) | 1 | 0 |
-| 2088 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2089 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
-| 2090 | [p2m](https://www.raycast.com/p2m) | 1 | 0 |
-| 2091 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2092 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2093 | github-next | 2 | — |
-| 2094 | multi | 1 | — |
-| 2095 | sharat_visweswara | 1 | — |
+| 2088 | [hmims](https://www.raycast.com/hmims) | 1 | 0 |
+| 2089 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2090 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
+| 2091 | [p2m](https://www.raycast.com/p2m) | 1 | 0 |
+| 2092 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2093 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2094 | github-next | 2 | — |
+| 2095 | multi | 1 | — |
+| 2096 | sharat_visweswara | 1 | — |

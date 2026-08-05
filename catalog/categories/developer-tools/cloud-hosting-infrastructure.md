@@ -1,8 +1,8 @@
 # Cloud, Hosting & Infrastructure
 
-87 extensions · [← Developer Tools](./README.md)
+88 extensions · [← Developer Tools](./README.md)
 
-[Servers ✦](#servers) (18) · [Domains ✦](#domains) (17) · [DNS ✦](#dns) (8) · [Cloud ✦](#cloud) (9) · [Instance ✦](#instance) (6) · [Resources ✦](#resources) (4) · [Docker ✦](#docker) (4) · [General](#general) (21)
+[Servers ✦](#servers) (18) · [Domains ✦](#domains) (17) · [DNS ✦](#dns) (8) · [Cloud ✦](#cloud) (9) · [Instance ✦](#instance) (6) · [Resources ✦](#resources) (4) · [Docker ✦](#docker) (4) · [General](#general) (22)
 
 *✦ auto-discovered topic group*
 
@@ -132,3 +132,4 @@
 | [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) | 23 | Monitor Supabase pg_cron jobs and run history. | adrianmarten | macOS | [store](https://www.raycast.com/adrianmarten/supabase-cron-monitor) |
 | [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) | 12 | Manage containers, images, and volumes created by Apple's open-source container CLI. | davireisvieira | macOS | [store](https://www.raycast.com/davireisvieira/apple-container) |
 | [Cloudflare Images](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-images) | 9 | Upload images to Cloudflare Images from your clipboard, Finder, or anywhere on your Mac. Includes a browser for your uploaded images. Unofficial. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/cloudflare-images) |
+| [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy) | 0 | Browse, launch, and monitor AWX job templates and running jobs. | hmims | macOS, Windows | [store](https://www.raycast.com/hmims/awx-deploy) |
