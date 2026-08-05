@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-05 — upstream `84f5b0a410`
+
+**Updated (1):** [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor)
+
 ## 2026-08-05 — upstream `168f97f971`
 
 **Added (1):** [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy)
