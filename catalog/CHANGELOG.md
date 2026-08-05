@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-05 — upstream `461dfead09`
+
+**Added (1):** [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd)
+
 ## 2026-08-05 — upstream `a13abb6613`
 
 **Updated (1):** [Python](https://github.com/raycast/extensions/tree/main/extensions/python)

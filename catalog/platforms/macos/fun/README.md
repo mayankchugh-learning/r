@@ -1,6 +1,6 @@
 # macOS · Fun
 
-274 extensions · [← macOS](../README.md)
+275 extensions · [← macOS](../README.md)
 
 ## Play
 
@@ -9,7 +9,7 @@
 | [Games & Gaming](./games-gaming.md) | 42 |
 | [Jokes & Randomness](./jokes-randomness.md) | 29 |
 | [Generators & Toys](./generators-toys.md) | 9 |
-| [AI & Generative Fun](./ai-generative-fun.md) | 16 |
+| [AI & Generative Fun](./ai-generative-fun.md) | 17 |
 
 ## Watch & Listen
 

@@ -2,11 +2,11 @@
 
 [Games & Gaming](./games-gaming.md) · [AI & Generative Fun](./ai-generative-fun.md) · [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) · [Jokes & Randomness](./jokes-randomness.md) · [Sports](./sports.md) · [Movies, TV & Anime](./movies-tv-anime.md) · **Music & Instruments** · [Pop Culture & Fandom](./pop-culture-fandom.md) · [Generators & Toys](./generators-toys.md) · [Nature & Exploration](./nature-exploration.md) · [Wallpapers & Effects](./wallpapers-effects.md) · [Food & Drink](./food-drink.md) · [General](./general.md)
 
-8 of 274 extensions · [← macOS · Fun](./README.md)
+8 of 275 extensions · [← macOS · Fun](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 88,229 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 88,242 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
 | [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,064 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
 | [Music Recognition](https://github.com/raycast/extensions/tree/main/extensions/music-recognition) | 314 | Recognize music via a macOS Shortcuts proxy (Shazam) | lemikeone | macOS | [store](https://www.raycast.com/lemikeone/music-recognition) |
 | [Slowed + Reverb](https://github.com/raycast/extensions/tree/main/extensions/slowed-reverb) | 222 | Turn any song into a Slowed + Reverb version | tomo_myrman | macOS | [store](https://www.raycast.com/tomo_myrman/slowed-reverb) |
