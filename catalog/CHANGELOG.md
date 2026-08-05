@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-05 — upstream `45947aa455`
+
+**Updated (1):** [Qovery](https://github.com/raycast/extensions/tree/main/extensions/qovery)
+
 ## 2026-08-05 — upstream `e5c203feca`
 
 **Added (1):** [Buffer](https://github.com/raycast/extensions/tree/main/extensions/buffer)

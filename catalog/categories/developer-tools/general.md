@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 656,632 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 656,723 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 158,521 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,638 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,469 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -159,9 +159,9 @@
 | [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra) | 11 | View, manage, and create content with Notra directly from Raycast. | dominikdev | macOS, Windows | [store](https://www.raycast.com/dominikdev/notra) |
 | [Paynow.gg](https://github.com/raycast/extensions/tree/main/extensions/paynow) | 11 | Unofficial PayNow.gg extension | maxijonson | macOS, Windows | [store](https://www.raycast.com/maxijonson/paynow) |
 | [alwaysdata](https://github.com/raycast/extensions/tree/main/extensions/alwaysdata) | 10 | The European Cloud | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/alwaysdata) |
+| [Qovery](https://github.com/raycast/extensions/tree/main/extensions/qovery) | 10 | Interact with your Qovery organization | RemiBonnet | macOS | [store](https://www.raycast.com/remibonnet/qovery) |
 | [MyIdlers](https://github.com/raycast/extensions/tree/main/extensions/my-idlers) | 9 | View Summary and details of your idlers | xmok | macOS | [store](https://www.raycast.com/xmok/myidlers) |
 | [Marble](https://github.com/raycast/extensions/tree/main/extensions/marble) | 8 | Manage your Marble content including posts, authors, categories, and tags | dominikdev | macOS, Windows | [store](https://www.raycast.com/dominikdev/marble) |
-| [Qovery](https://github.com/raycast/extensions/tree/main/extensions/qovery) | 8 | Interact with your Qovery organization | RemiBonnet | macOS | [store](https://www.raycast.com/remibonnet/qovery) |
 | [ZeroSSL](https://github.com/raycast/extensions/tree/main/extensions/zerossl) | 8 | Manage ZeroSSL Certificates | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zerossl) |
 | [SerialCast](https://github.com/raycast/extensions/tree/main/extensions/serialcast) | 7 | Control SerialPlotter through Raycast. | asboy2035 | macOS | [store](https://www.raycast.com/asboy2035/serialcast) |
 | [Vaulted — Secure Secret Sharing](https://github.com/raycast/extensions/tree/main/extensions/vaulted) | 7 | Zero-knowledge encrypted, self-destructing secret links from your launcher. | maxim_novak | macOS | [store](https://www.raycast.com/maxim_novak/vaulted) |
