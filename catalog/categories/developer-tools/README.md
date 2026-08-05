@@ -18,7 +18,7 @@ macOS: 1071 · Windows: 285
 | Topic | Extensions |
 | --- | --- |
 | [CI/CD & DevOps](./ci-cd-devops.md) | 6 |
-| [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 88 |
+| [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 89 |
 | [Databases](./databases.md) | 14 |
 | [APIs & Networking](./apis-networking.md) | 55 |
 | [Monitoring & Logs](./monitoring-logs.md) | 25 |
@@ -49,13 +49,13 @@ macOS: 1071 · Windows: 285
 | [Developers ✦](./developers.md) | 9 |
 | [Sites ✦](./sites.md) | 7 |
 | [Domains ✦](./domains.md) | 6 |
-| [Email ✦](./email.md) | 6 |
 | [Machines ✦](./machines.md) | 6 |
 | [Navigate ✦](./navigate.md) | 4 |
-| [Password ✦](./password.md) | 5 |
+| [Password ✦](./password.md) | 6 |
 | [Web ✦](./web.md) | 6 |
 | [Apple ✦](./apple.md) | 4 |
 | [Between ✦](./between.md) | 4 |
+| [Email ✦](./email.md) | 4 |
 | [Service ✦](./service.md) | 4 |
 | [Sessions ✦](./sessions.md) | 5 |
 | [Ease ✦](./ease.md) | 4 |

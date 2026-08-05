@@ -8,7 +8,7 @@
 | --- | --- |
 | [Productivity](./productivity/README.md) | 1413 |
 | [Applications](./applications/README.md) | 358 |
-| [Communication](./communication/README.md) | 146 |
+| [Communication](./communication/README.md) | 147 |
 
 ### Development
 

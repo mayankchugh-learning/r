@@ -1,6 +1,6 @@
 # peduarte
 
-14 extensions · 25,689 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
+14 extensions · 25,692 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
 
 ## Fun (4)
 
@@ -15,7 +15,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,508 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
+| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,510 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 
 ## Web (6)
 
@@ -32,7 +32,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dash Off](https://github.com/raycast/extensions/tree/main/extensions/dash-off) | 1,063 | The fastest way to dash off a quick email to yourself and others | peduarte | macOS | [store](https://www.raycast.com/peduarte/dash-off) |
+| [Dash Off](https://github.com/raycast/extensions/tree/main/extensions/dash-off) | 1,064 | The fastest way to dash off a quick email to yourself and others | peduarte | macOS | [store](https://www.raycast.com/peduarte/dash-off) |
 | [Descript to YouTube Chapters](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) | 374 | Convert Descript's transcript file into YouTube Chapters | peduarte | macOS | [store](https://www.raycast.com/peduarte/descript-to-youtube-chapters) |
 
 ## Uncategorized (1)

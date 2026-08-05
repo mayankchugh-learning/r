@@ -16,7 +16,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [CI/CD & DevOps](./ci-cd-devops.md) | 6 |
-| [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 87 |
+| [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 88 |
 | [Databases](./databases.md) | 14 |
 | [APIs & Networking](./apis-networking.md) | 54 |
 | [Monitoring & Logs](./monitoring-logs.md) | 25 |
@@ -40,4 +40,4 @@
 | [Files & Transfer](./files-transfer.md) | 26 |
 | [Design & Assets](./design-assets.md) | 37 |
 
-Plus [General](./general.md) — 240 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 239 extensions that don't fit a topic yet.
