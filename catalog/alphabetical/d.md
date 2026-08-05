@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-168 extensions · [← catalog index](../README.md)
+169 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -174,3 +174,4 @@
 | [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) | 2 | Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives. | yusoufu | macOS | [store](https://www.raycast.com/yusoufu/design-file-finder) |
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 2 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 0 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
+| [Dondori](https://github.com/raycast/extensions/tree/main/extensions/dondori) | 0 | Control Dondori: today's tasks, quick add, timers, and window shortcuts. | ruslan-korneev | macOS | [store](https://www.raycast.com/ruslan-korneev/dondori) |

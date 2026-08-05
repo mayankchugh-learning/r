@@ -1,8 +1,8 @@
 # Tasks & To-Dos
 
-47 extensions · [← Productivity](./README.md)
+48 extensions · [← Productivity](./README.md)
 
-[Tasks ✦](#tasks) (34) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
+[Tasks ✦](#tasks) (35) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -43,6 +43,7 @@
 | [TickTick+](https://github.com/raycast/extensions/tree/main/extensions/ticktick-plus) | 3 | Manage TickTick tasks, projects, habits, and focus sessions from Raycast. | ysrazsingh | macOS | [store](https://www.raycast.com/ysrazsingh/ticktick-plus) |
 | [Kofa](https://github.com/raycast/extensions/tree/main/extensions/kofa) | 1 | Quickly capture tasks into Kofa, the minimalist todo and day planner. | petar_yovkov | macOS, Windows | [store](https://www.raycast.com/petar_yovkov/kofa) |
 | [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 1 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |
+| [Dondori](https://github.com/raycast/extensions/tree/main/extensions/dondori) | 0 | Control Dondori: today's tasks, quick add, timers, and window shortcuts. | ruslan-korneev | macOS | [store](https://www.raycast.com/ruslan-korneev/dondori) |
 | [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix) | 0 | Manage Zabbix Problems, Hosts, Triggers and Latest Data directly from Raycast. Perform common monitoring and maintenance tasks without opening a browser. | massimiliano_pasquini | Windows, macOS | [store](https://www.raycast.com/massimiliano_pasquini/raycast-zabbix) |
 
 ## Reminders ✦

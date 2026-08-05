@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a60ed825eeeb4dbb1af72042787d4518b0a781bf",
-  "generatedAt": "2026-08-05T14:34:43.296Z",
-  "downloadsRefreshedAt": "2026-08-05T14:34:43.076Z",
-  "count": 3151,
+  "commit": "92a1665bd0094752deca7f0e1d8ea6a0beb9af38",
+  "generatedAt": "2026-08-05T14:42:54.123Z",
+  "downloadsRefreshedAt": "2026-08-05T14:42:53.351Z",
+  "count": 3152,
   "extensions": [
     {
       "dir": "0x0",
@@ -9492,7 +9492,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499771
+      "downloads": 499773
     },
     {
       "dir": "color-shades",
@@ -14384,6 +14384,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/domainr",
       "treeSha": "5f8b0266dbce70957ff8ab4e5f2564d305d1f2c8",
       "downloads": 2003
+    },
+    {
+      "dir": "dondori",
+      "name": "dondori",
+      "title": "Dondori",
+      "description": "Control Dondori: today's tasks, quick add, timers, and window shortcuts.",
+      "author": "ruslan-korneev",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/ruslan-korneev/dondori",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/dondori",
+      "treeSha": "7a8aeb2ad7668d784e97c55f92ce057096dc7ccc",
+      "downloads": 0
     },
     {
       "dir": "done-bear",
@@ -21446,7 +21466,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488379
+      "downloads": 488381
     },
     {
       "dir": "google-chrome-profiles",
@@ -27682,7 +27702,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656724
+      "downloads": 656726
     },
     {
       "dir": "kimai",

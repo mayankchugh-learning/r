@@ -1,6 +1,6 @@
 # Publishers
 
-2097 publishers · [← catalog index](../README.md)
+2098 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 148,814 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,346 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,721 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,089,232 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,089,234 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 296,812 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,824 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 403,106 |
@@ -385,8 +385,8 @@
 | 375 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
 | 376 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 377 | github-next | 2 | — |
-| 378 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,724 |
-| 379 | [Codely](https://www.raycast.com/Codely) | 1 | 488,379 |
+| 378 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 656,726 |
+| 379 | [Codely](https://www.raycast.com/Codely) | 1 | 488,381 |
 | 380 | [linear](https://www.raycast.com/linear) | 1 | 338,197 |
 | 381 | [mommertf](https://www.raycast.com/mommertf) | 1 | 283,245 |
 | 382 | [nhojb](https://www.raycast.com/nhojb) | 1 | 253,756 |
@@ -2100,8 +2100,9 @@
 | 2090 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
 | 2091 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
 | 2092 | [p2m](https://www.raycast.com/p2m) | 1 | 0 |
-| 2093 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2094 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
-| 2095 | buffer | 1 | — |
-| 2096 | multi | 1 | — |
-| 2097 | sharat_visweswara | 1 | — |
+| 2093 | [ruslan-korneev](https://www.raycast.com/ruslan-korneev) | 1 | 0 |
+| 2094 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2095 | [viper_x](https://www.raycast.com/viper_x) | 1 | 0 |
+| 2096 | buffer | 1 | — |
+| 2097 | multi | 1 | — |
+| 2098 | sharat_visweswara | 1 | — |
