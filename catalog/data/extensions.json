@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "64281f375d4b594c8476a798f1833c132b8e75a2",
-  "generatedAt": "2026-08-05T10:35:44.206Z",
-  "downloadsRefreshedAt": "2026-08-05T10:35:43.219Z",
+  "commit": "7a170ff44630a436410c6a6ce0b979f103d2b374",
+  "generatedAt": "2026-08-05T12:00:41.199Z",
+  "downloadsRefreshedAt": "2026-08-05T12:00:40.843Z",
   "count": 3150,
   "extensions": [
     {
@@ -9472,7 +9472,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 499641
+      "downloads": 499686
     },
     {
       "dir": "color-shades",
@@ -21426,7 +21426,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488243
+      "downloads": 488284
     },
     {
       "dir": "google-chrome-profiles",
@@ -27662,7 +27662,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 656571
+      "downloads": 656621
     },
     {
       "dir": "kimai",
@@ -47235,7 +47235,7 @@
       "description": "Integrate with the Redmine issue system (https://www.redmine.org/)",
       "author": "jwickers",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Productivity",
         "Communication",
@@ -47247,7 +47247,7 @@
       ],
       "store": "https://www.raycast.com/jwickers/redmine",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/redmine",
-      "treeSha": "ca80a56055b0c8d52fe2a8d94b22f71256ba560f",
+      "treeSha": "ec46ebf214e277777ffa51fea051c384d6ca3bba",
       "downloads": 413
     },
     {

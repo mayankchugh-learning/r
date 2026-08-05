@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-05 — upstream `7a170ff446`
+
+**Updated (1):** [Redmine](https://github.com/raycast/extensions/tree/main/extensions/redmine)
+
 ## 2026-08-05 — upstream `64281f375d`
 
 **Updated (1):** [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier)
