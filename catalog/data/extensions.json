@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "92efe090b39721bf659a1674693a4168e156bf24",
-  "generatedAt": "2026-08-05T15:55:05.924Z",
+  "commit": "a13abb6613884c7de7edab54b68da9ba5d6a7067",
+  "generatedAt": "2026-08-05T15:56:21.494Z",
   "downloadsRefreshedAt": "2026-08-05T14:42:53.351Z",
   "count": 3153,
   "extensions": [
@@ -43874,7 +43874,7 @@
       "description": "Search Python Packages on PyPi",
       "author": "ahmedivy",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Developer Tools"
       ],
@@ -43885,8 +43885,8 @@
       ],
       "store": "https://www.raycast.com/ahmedivy/python",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/python",
-      "treeSha": "39e1381eb9db2ea945d94e767c59f82bd092d1cb",
-      "downloads": 3245
+      "treeSha": "6e5069b019679a31c89ec2e788d2661b7954d08a",
+      "downloads": null
     },
     {
       "dir": "qalc",
