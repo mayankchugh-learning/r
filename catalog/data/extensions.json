@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ab4ef784897ceef74d55c4d2570fa0d35c0d2bf9",
-  "generatedAt": "2026-08-06T03:55:38.429Z",
-  "downloadsRefreshedAt": "2026-08-06T03:55:36.392Z",
+  "commit": "2d269e2d4b6b2a4d039f1e1f0ffa870bd3497fc7",
+  "generatedAt": "2026-08-06T04:01:27.009Z",
+  "downloadsRefreshedAt": "2026-08-06T04:01:26.002Z",
   "count": 3155,
   "extensions": [
     {
@@ -21487,7 +21487,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488730
+      "downloads": 488731
     },
     {
       "dir": "google-chrome-profiles",
@@ -27723,7 +27723,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 657131
+      "downloads": 657132
     },
     {
       "dir": "kimai",
@@ -42925,7 +42925,7 @@
       ],
       "store": "https://www.raycast.com/lockieluke3389/prism-launcher",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/prism-launcher",
-      "treeSha": "00a874ca83df50fcf1de5a77d347a99f20190e03",
+      "treeSha": "16bf69da102dc05578077a419e01518f28886462",
       "downloads": 698
     },
     {
