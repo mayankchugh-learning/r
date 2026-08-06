@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · **X** · [Y](./y.md) · [Z](./z.md)
 
-12 extensions · [← catalog index](../README.md)
+13 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -18,3 +18,4 @@
 | [Xbox Friends](https://github.com/raycast/extensions/tree/main/extensions/xbox-friends) | 11 | See which Xbox Live friends are online and what they're playing | maxpaolucci | macOS | [store](https://www.raycast.com/MaxPaolucci/xbox-friends) |
 | [XPF to EUR Converter](https://github.com/raycast/extensions/tree/main/extensions/xpf-converter) | 5 | Convert Franc Pacifique (XPF) to Euros (EUR) with instant clipboard copy | vincent_perrot | macOS | [store](https://www.raycast.com/vincent_perrot/xpf-converter) |
 | [Xiaohe Query](https://github.com/raycast/extensions/tree/main/extensions/xiaohe-query) | 4 | Query Xiaohe (Flypy) codes and decomposition for a single Chinese character. | dongqing | macOS | [store](https://www.raycast.com/dongqing/xiaohe-query) |
+| [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager) | 0 | Manage the xkeen (Xray) proxy client on Keenetic routers over SSH: status, server profiles, routing rules, backups and health checks | vbrs | macOS | [store](https://www.raycast.com/vbrs/xkeen-manager) |

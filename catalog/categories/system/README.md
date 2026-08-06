@@ -1,8 +1,8 @@
 # System
 
-253 extensions · [← all categories](../README.md)
+254 extensions · [← all categories](../README.md)
 
-macOS: 239 · Windows: 44
+macOS: 240 · Windows: 44
 
 ## Apps & Windows
 
@@ -31,7 +31,7 @@ macOS: 239 · Windows: 44
 | Topic | Extensions |
 | --- | --- |
 | [Power & Session](./power-session.md) | 10 |
-| [Network](./network.md) | 13 |
+| [Network](./network.md) | 14 |
 | [Defaults & Services](./defaults-services.md) | 8 |
 
 ## Discovered topics ✦

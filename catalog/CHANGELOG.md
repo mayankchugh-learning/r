@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-06 — upstream `e8630bfd92`
+
+**Added (1):** [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager)
+
 ## 2026-08-06 — upstream `d43ce07492`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

@@ -1,8 +1,8 @@
 # macOS · Security
 
-83 extensions · [← macOS](../README.md)
+84 extensions · [← macOS](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (36) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (2) · [Network & Privacy](#network-privacy) (11) · [General](#general) (19)
+[Passwords & Secrets](#passwords-secrets) (36) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (2) · [Network & Privacy](#network-privacy) (12) · [General](#general) (19)
 
 ## Credentials & Access
 
@@ -96,6 +96,7 @@
 | [Mozilla VPN Connect](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) | 154 | Interact with the Mozilla VPN from Raycast. | natew | macOS | [store](https://www.raycast.com/natew/mozilla-vpn) |
 | [VivaPB](https://github.com/raycast/extensions/tree/main/extensions/vivapb) | 74 | Browse the web in privacy with the Vivaldi Browser. | Codrkoaz | macOS | [store](https://www.raycast.com/Codrkoaz/vivapb) |
 | [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | 25 | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
+| [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager) | 0 | Manage the xkeen (Xray) proxy client on Keenetic routers over SSH: status, server profiles, routing rules, backups and health checks | vbrs | macOS | [store](https://www.raycast.com/vbrs/xkeen-manager) |
 
 ### General
 

@@ -1,8 +1,8 @@
 # Security
 
-83 extensions · [← all categories](../README.md)
+84 extensions · [← all categories](../README.md)
 
-macOS: 83 · Windows: 28
+macOS: 84 · Windows: 28
 
 ## Credentials & Access
 
@@ -17,6 +17,6 @@ macOS: 83 · Windows: 28
 | Topic | Extensions |
 | --- | --- |
 | [Encryption & Hashing](./encryption-hashing.md) | 2 |
-| [Network & Privacy](./network-privacy.md) | 11 |
+| [Network & Privacy](./network-privacy.md) | 12 |
 
 Plus [General](./general.md) — 19 extensions that don't fit a topic yet.

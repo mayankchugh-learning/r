@@ -1,6 +1,6 @@
 # macOS · System
 
-239 extensions · [← macOS](../README.md)
+240 extensions · [← macOS](../README.md)
 
 ## Apps & Windows
 
@@ -29,7 +29,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Power & Session](./power-session.md) | 10 |
-| [Network](./network.md) | 13 |
+| [Network](./network.md) | 14 |
 | [Defaults & Services](./defaults-services.md) | 8 |
 
 Plus [General](./general.md) — 77 extensions that don't fit a topic yet.

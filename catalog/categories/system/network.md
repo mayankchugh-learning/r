@@ -1,6 +1,6 @@
 # Network
 
-13 extensions · [← System](./README.md)
+14 extensions · [← System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -17,3 +17,4 @@
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 97 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [Toggle Proxy](https://github.com/raycast/extensions/tree/main/extensions/toggle-proxy) | 22 | Toggle SOCKS proxy, manage Xray configs, and convert VLESS URLs on macOS | kaidstor | macOS | [store](https://www.raycast.com/kaidstor/toggle-proxy) |
 | [DNS Quick Change](https://github.com/raycast/extensions/tree/main/extensions/dns-quick-change) | 16 | It's always DNS, take control: switch DNS with presets, create your own, or revert to DHCP-provided DNS. | natew | macOS | [store](https://www.raycast.com/natew/dns-quick-change) |
+| [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager) | 0 | Manage the xkeen (Xray) proxy client on Keenetic routers over SSH: status, server profiles, routing rules, backups and health checks | vbrs | macOS | [store](https://www.raycast.com/vbrs/xkeen-manager) |
