@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,273 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
-| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,308 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,274 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,310 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
 | [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,105 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,579 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,410 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
@@ -103,7 +103,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,912 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,913 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,929 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 804 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
 | [Laravel Shift for Docker](https://github.com/raycast/extensions/tree/main/extensions/laravel-shift) | 123 | Run any of the Shifts for Laravel, Lumen, PHP, Django, and Tailwind completely locally using Raycast. | denniseilander | macOS | [store](https://www.raycast.com/denniseilander/laravel-shift) |
@@ -131,6 +131,6 @@
 | [Firebase - Remote Config](https://github.com/raycast/extensions/tree/main/extensions/firebase-remote-config-admin) | 33 | Inspect, compare, edit, publish, delete, and roll back Firebase Remote Config across multiple projects | danilorequena | macOS, Windows | [store](https://www.raycast.com/danilorequena/firebase-remote-config-admin) |
 | [Aiven](https://github.com/raycast/extensions/tree/main/extensions/aiven) | 23 | Manage Aiven Projects and Services | xmok | macOS | [store](https://www.raycast.com/xmok/aiven) |
 | [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) | 23 | Monitor Supabase pg_cron jobs and run history. | adrianmarten | macOS | [store](https://www.raycast.com/adrianmarten/supabase-cron-monitor) |
-| [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) | 13 | Manage containers, images, and volumes created by Apple's open-source container CLI. | davireisvieira | macOS | [store](https://www.raycast.com/davireisvieira/apple-container) |
+| [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) | 14 | Manage containers, images, and volumes created by Apple's open-source container CLI. | davireisvieira | macOS | [store](https://www.raycast.com/davireisvieira/apple-container) |
 | [Cloudflare Images](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-images) | 9 | Upload images to Cloudflare Images from your clipboard, Finder, or anywhere on your Mac. Includes a browser for your uploaded images. Unofficial. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/cloudflare-images) |
 | [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy) | 0 | Browse, launch, and monitor AWX job templates and running jobs. | hmims | macOS, Windows | [store](https://www.raycast.com/hmims/awx-deploy) |

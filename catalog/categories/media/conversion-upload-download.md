@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,371 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,372 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 342 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/radarr) |
 | [Prowlarr](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) | 301 | Search and add to download clients with Prowlarr | elcaten | macOS | [store](https://www.raycast.com/elcaten/prowlarr) |
 | [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | 134 | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |

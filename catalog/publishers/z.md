@@ -28,7 +28,7 @@
 | [zisoft](https://www.raycast.com/zisoft) | 1 | 4 | **Web:** [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) |
 | [zkondor](https://www.raycast.com/zkondor) | 1 | 2,126 | **System:** [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) |
 | [zoffyzhang](https://www.raycast.com/zoffyzhang) | 1 | 70 | **Finance:** [Fluctuation](https://github.com/raycast/extensions/tree/main/extensions/fluctuation) |
-| [ZooHero](https://www.raycast.com/ZooHero) | 1 | 362 | **Developer Tools:** [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) |
+| [ZooHero](https://www.raycast.com/ZooHero) | 1 | 363 | **Developer Tools:** [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) |
 | [zrr1999](https://www.raycast.com/zrr1999) | 2 | 257 | **Uncategorized:** [Commit Message Formatter](https://github.com/raycast/extensions/tree/main/extensions/commit-message-formatter), [Usememos](https://github.com/raycast/extensions/tree/main/extensions/usememos) |
 | [zsombor_biro](https://www.raycast.com/zsombor_biro) | 2 | 660 | **Developer Tools:** [Scoop](https://github.com/raycast/extensions/tree/main/extensions/scoop)<br>**Applications:** [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) |
 | [zsombor-flds](https://www.raycast.com/zsombor-flds) | 1 | 167 | **Data:** [dbt Cloud](https://github.com/raycast/extensions/tree/main/extensions/dbtCloud) |

@@ -6,17 +6,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 135,277 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
-| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,378 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
+| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 135,289 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
+| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,379 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,484 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
 | [Oh My Zsh Plugins](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) | 6,741 | Oh My Zsh Plugins | k8scat | macOS | [store](https://www.raycast.com/k8scat/ohmyzsh-plugins) |
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,688 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) | 4,873 | List, Search and Download Files using the Raycast Extension for Dropbox. | chyroc | macOS | [store](https://www.raycast.com/chyroc/the-blue-cloud) |
+| [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) | 4,875 | List, Search and Download Files using the Raycast Extension for Dropbox. | chyroc | macOS | [store](https://www.raycast.com/chyroc/the-blue-cloud) |
 | [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,352 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,181 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Heroicons](https://github.com/raycast/extensions/tree/main/extensions/heroicons) | 4,079 | Search and preview Heroicons | johndoe123789 | macOS | [store](https://www.raycast.com/johndoe123789/heroicons) |
 | [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,017 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
-| [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 2,977 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
+| [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 2,978 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
 | [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,971 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
 | [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) | 2,460 | Search your code and public repositories with Sourcegraph. | bobheadxi | macOS | [store](https://www.raycast.com/bobheadxi/sourcegraph) |
 | [Send to flomo](https://github.com/raycast/extensions/tree/main/extensions/send-to-flomo) | 1,935 | Send your MEMOs to flomo | ahonn | macOS | [store](https://www.raycast.com/ahonn/send-to-flomo) |

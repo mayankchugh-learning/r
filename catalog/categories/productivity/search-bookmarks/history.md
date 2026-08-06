@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 224,621 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
-| [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) | 12,141 | Search your open tabs and browsing history in Dia | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/dia) |
-| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,768 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
+| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 224,635 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
+| [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) | 12,145 | Search your open tabs and browsing history in Dia | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/dia) |
+| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,769 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Shell History](https://github.com/raycast/extensions/tree/main/extensions/shell-history) | 4,782 | Search shell command history from zsh, bash, and fish. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/shell-history) |
 | [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper) | 2,646 | Voice dictation, transcription history, and profile management for TypeWhisper | SeoFood | macOS, Windows | [store](https://www.raycast.com/SeoFood/typewhisper) |
 | [Surfed](https://github.com/raycast/extensions/tree/main/extensions/surfed) | 333 | Search Collections, Tags, URLs and Browsing History | HOsy | macOS | [store](https://www.raycast.com/HOsy/surfed) |

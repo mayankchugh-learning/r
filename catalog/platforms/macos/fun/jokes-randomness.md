@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,446 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,447 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 4,603 | Get a random dad joke | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
 | [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) | 2,123 | Quickly and easily make random decisions or generate a random number | yonbergman | macOS, Windows | [store](https://www.raycast.com/yonbergman/dice-and-coin) |
 | [Developer Excuses](https://github.com/raycast/extensions/tree/main/extensions/developer-excuse) | 1,874 | Insert a random developer excuse for not doing your work. | niemtec | macOS | [store](https://www.raycast.com/niemtec/developer-excuse) |
@@ -25,8 +25,8 @@
 | [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts) | 200 | Get facts about numbers, dates, and years | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/number-facts) |
 | [Chuck Norris Facts](https://github.com/raycast/extensions/tree/main/extensions/chuck-norris-facts) | 176 | This extension uses the chucknorris.io site which is a free JSON API for hand curated Chuck Norris facts. | jorgecortesdev | macOS | [store](https://www.raycast.com/jorgecortesdev/chuck-norris-facts) |
 | [Advice Slip](https://github.com/raycast/extensions/tree/main/extensions/advice-slip) | 163 | Get a random advice slip | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/advice-slip) |
+| [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images) | 160 | Get a random photo of a dog. | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/dog-images) |
 | [Designer Excuses](https://github.com/raycast/extensions/tree/main/extensions/designer-excuses) | 159 | Designer Excuses is a playful Raycast extension that generates lighthearted, witty excuses for designers | shreeram | macOS | [store](https://www.raycast.com/shreeram/designer-excuses) |
-| [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images) | 159 | Get a random photo of a dog. | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/dog-images) |
 | [Bored](https://github.com/raycast/extensions/tree/main/extensions/bored) | 147 | Let's find you something to do! | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/bored) |
 | [Duck Facts](https://github.com/raycast/extensions/tree/main/extensions/duck-facts) | 97 | Displays interesting facts about ducks. | validate | macOS | [store](https://www.raycast.com/validate/duck-facts) |
 | [Cat Images](https://github.com/raycast/extensions/tree/main/extensions/get-cat-images) | 92 | Fetch random cat images | luiggircardoso | macOS | [store](https://www.raycast.com/luiggircardoso/get-cat-images) |

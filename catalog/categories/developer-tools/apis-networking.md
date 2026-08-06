@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,442 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
 | [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,118 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |
-| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,630 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
+| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,631 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
 | [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,121 | Manage API Keys and Domains, and Send Emails using Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,044 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
 | [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) | 996 | Serve Web Apps with one command ngrok is a simplified API-first ingress-as-a-service that adds connectivity, security, and observability to your apps in one li… | ubinatus | macOS | [store](https://www.raycast.com/ubinatus/ngrok) |
@@ -39,11 +39,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,308 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
+| [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,309 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing) | 1,834 | Show All Your IPs, from Local Network and Multiple Sources | jason5ng32 | macOS | [store](https://www.raycast.com/jason5ng32/ipcheck-ing) |
 | [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,440 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,378 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |
-| [Wifi Share QR-Code](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) | 1,376 | Share any saved wifi qr code to other devices to join the network | abul_kalam_robin | macOS | [store](https://www.raycast.com/abul_kalam_robin/wifi-share) |
+| [Wifi Share QR-Code](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) | 1,378 | Share any saved wifi qr code to other devices to join the network | abul_kalam_robin | macOS | [store](https://www.raycast.com/abul_kalam_robin/wifi-share) |
 | [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer) | 263 | Lists and changes current network location on Mac. | rcouto | macOS | [store](https://www.raycast.com/rcouto/mac-network-location-changer) |
 | [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) | 121 | V2RayA Control is a Raycast extension that allows you to easily manage and control V2RayA, a powerful network proxy tool. Quickly toggle proxy modes, and check… | masoud_hamidzadeh | macOS | [store](https://www.raycast.com/masoud_hamidzadeh/v2raya-control) |
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 98 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
@@ -63,7 +63,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 51,546 | Find open ports and close them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 51,550 | Find open ports and close them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,285 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 964 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
 | [Ray Boop](https://github.com/raycast/extensions/tree/main/extensions/ray-boop) | 542 | Port of Boop to Raycast. Run any Boop script on clipboard content. | nathan_schwermann | macOS | [store](https://www.raycast.com/nathan_schwermann/ray-boop) |
@@ -74,7 +74,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,718 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,719 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,414 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
 | [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) | 3,592 | This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) | meguoe | macOS, Windows | [store](https://www.raycast.com/meguoe/ip-tools) |
 | [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,499 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |

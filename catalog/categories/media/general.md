@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,574 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,446 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,979 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,577 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,447 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,980 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,701 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,473 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
 | [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,844 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
@@ -60,7 +60,7 @@
 | [TorBox](https://github.com/raycast/extensions/tree/main/extensions/torbox) | 92 | Control downloads in your TorBox | baradusov | macOS, Windows | [store](https://www.raycast.com/baradusov/torbox) |
 | [Stardew Vally Character Search](https://github.com/raycast/extensions/tree/main/extensions/stardew-valley-wiki) | 81 | Search and open Stardew Valley's characters in the wiki | pokie | macOS | [store](https://www.raycast.com/pokie/stardew-valley-wiki) |
 | [NZBGet](https://github.com/raycast/extensions/tree/main/extensions/nzbget) | 80 | Manage your NZBGet application from the comfort of Raycast. | wyattjoh | macOS | [store](https://www.raycast.com/wyattjoh/nzbget) |
-| [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs) | 79 | Search for TV show ratings and get individual episode ratings, straight from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/series-rating-graphs) |
+| [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs) | 80 | Search for TV show ratings and get individual episode ratings, straight from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/series-rating-graphs) |
 | [Paperspace](https://github.com/raycast/extensions/tree/main/extensions/paperspace) | 70 | Control your Paperspace machines | yuri | macOS | [store](https://www.raycast.com/yuri/paperspace) |
 | [Potter DB](https://github.com/raycast/extensions/tree/main/extensions/potter-db) | 69 | Dive into the magical world of Harry Potter via Potter DB. | xmok | macOS | [store](https://www.raycast.com/xmok/potter-db) |
 | [MusicThread](https://github.com/raycast/extensions/tree/main/extensions/musicthread) | 59 | Create a thread and add links to a thread in MusicThread | ChucKN0risK | macOS | [store](https://www.raycast.com/ChucKN0risK/musicthread) |

@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,367 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
+| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,368 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
 | [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq) | 3,050 | Use the powerful models via Groq from the comfort of Raycast. | ilian | macOS | [store](https://www.raycast.com/ilian/groq) |
-| [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,767 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
+| [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,768 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) | 1,431 | Lookup chord diagrams for guitar | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/guitar-chords) |
 | [Stoic Quotes](https://github.com/raycast/extensions/tree/main/extensions/stoicquotes) | 1,298 | Gives a random quote from one of the stoic philosophers - Marcus Aurelius, Seneca or Epictetus | rrajath | macOS | [store](https://www.raycast.com/rrajath/stoicquotes) |
 | [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,122 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
@@ -51,8 +51,8 @@
 | [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | 67 | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
 | [Intermittent Fasting](https://github.com/raycast/extensions/tree/main/extensions/intermittent-fasting) | 66 | Tracks intermittent fasting | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/intermittent-fasting) |
 | [Ring Intercom](https://github.com/raycast/extensions/tree/main/extensions/ring-intercom) | 56 | Interact with your Ring Intercom device | stefanbd | macOS | [store](https://www.raycast.com/stefanbd/ring-intercom) |
+| [Yandex Smart Home](https://github.com/raycast/extensions/tree/main/extensions/yandex-smart-home) | 56 | Control Yandex Smart Home devices and run scenarios from Raycast. | devall | macOS, Windows | [store](https://www.raycast.com/devall/yandex-smart-home) |
 | [Wemo](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) | 55 | Control your Wemo devices from Raycast | iamnatch | macOS | [store](https://www.raycast.com/iamnatch/raycast-wemo) |
-| [Yandex Smart Home](https://github.com/raycast/extensions/tree/main/extensions/yandex-smart-home) | 55 | Control Yandex Smart Home devices and run scenarios from Raycast. | devall | macOS, Windows | [store](https://www.raycast.com/devall/yandex-smart-home) |
 | [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) | 53 | Quickly go to a date on the Matrix of Destiny | unitech | macOS | [store](https://www.raycast.com/ordin/the-matrix-of-destiny) |
 | [Swap Commas & Dots](https://github.com/raycast/extensions/tree/main/extensions/swap-commas-dots) | 51 | Swap commas and dots in selected text. | brunopicinin | macOS | [store](https://www.raycast.com/brunopicinin/swap-commas-dots) |
 | [Time Awareness](https://github.com/raycast/extensions/tree/main/extensions/time-awareness) | 50 | Track your activity sessions and intervals | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/time-awareness) |

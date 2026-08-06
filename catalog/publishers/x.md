@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [x0ba](https://www.raycast.com/x0ba) | 1 | 258 | **Productivity:** [Johnny.Decimal](https://github.com/raycast/extensions/tree/main/extensions/johnny-decimal) |
+| [x0ba](https://www.raycast.com/x0ba) | 1 | 259 | **Productivity:** [Johnny.Decimal](https://github.com/raycast/extensions/tree/main/extensions/johnny-decimal) |
 | [xela92](https://www.raycast.com/xela92) | 1 | 330 | **Applications:** [pCloud](https://github.com/raycast/extensions/tree/main/extensions/pcloud) |
 | [xeretis](https://www.raycast.com/xeretis) | 1 | 354 | **Web:** [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) |
 | [xeric](https://www.raycast.com/xeric) | 2 | 18,853 | **Finance:** [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange)<br>**Uncategorized:** [Simple Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) |
@@ -15,8 +15,8 @@
 | [xiaoluoboding](https://www.raycast.com/xiaoluoboding) | 1 | 472 | **Productivity:** [One Tab Group](https://github.com/raycast/extensions/tree/main/extensions/one-tab-group) |
 | [xilopaint](./id/xilopaint.md) | 10 | 19,539 | [see all 10 →](./id/xilopaint.md) |
 | [xjo_nd](https://www.raycast.com/xjo_nd) | 3 | 5,227 | **Web:** [Comet](https://github.com/raycast/extensions/tree/main/extensions/comet)<br>**Productivity:** [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview)<br>**Media:** [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) |
-| [xmok](./id/xmok.md) | 111 | 11,254 | [see all 111 →](./id/xmok.md) |
-| [xmorse](https://www.raycast.com/xmorse) | 5 | 11,372 | **System:** [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac)<br>**Productivity:** [Synonyms](https://github.com/raycast/extensions/tree/main/extensions/synonyms), [Split Video Scenes](https://github.com/raycast/extensions/tree/main/extensions/split-video-scenes), [Crisp](https://github.com/raycast/extensions/tree/main/extensions/crisp)<br>**Developer Tools:** [Spiceblow - Sql Database Management](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) |
+| [xmok](./id/xmok.md) | 111 | 11,256 | [see all 111 →](./id/xmok.md) |
+| [xmorse](https://www.raycast.com/xmorse) | 5 | 11,373 | **System:** [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac)<br>**Productivity:** [Synonyms](https://github.com/raycast/extensions/tree/main/extensions/synonyms), [Split Video Scenes](https://github.com/raycast/extensions/tree/main/extensions/split-video-scenes), [Crisp](https://github.com/raycast/extensions/tree/main/extensions/crisp)<br>**Developer Tools:** [Spiceblow - Sql Database Management](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) |
 | [xoshbin](https://www.raycast.com/xoshbin) | 1 | 34 | **Other:** [RTL Reader](https://github.com/raycast/extensions/tree/main/extensions/rtl-reader) |
 | [xulobeats](https://www.raycast.com/xulobeats) | 1 | 74 | **Developer Tools:** [Shelve](https://github.com/raycast/extensions/tree/main/extensions/shelve) |
 | [xvvhang](https://www.raycast.com/xvvhang) | 1 | 801 | **Productivity:** [iA Writer](https://github.com/raycast/extensions/tree/main/extensions/raycast-ia-writer) |

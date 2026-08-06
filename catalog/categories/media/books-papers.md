@@ -30,7 +30,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,747 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
-| [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,860 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
+| [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,862 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
 | [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,599 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,405 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | 479 | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |

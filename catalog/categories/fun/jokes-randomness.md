@@ -19,7 +19,7 @@
 | [Roll D20](https://github.com/raycast/extensions/tree/main/extensions/roll-d20) | 369 | Rolls a d20, in other words, displays a random number between 1 and 20. | kayla | macOS | [store](https://www.raycast.com/kayla/roll-d20) |
 | [Random Text Picker](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) | 363 | Pick a random item from a list by entering multiple text inputs, ala Wheel of Names | ezzylan | macOS | [store](https://www.raycast.com/ezzylan/random-text-picker) |
 | [Advice Slip](https://github.com/raycast/extensions/tree/main/extensions/advice-slip) | 163 | Get a random advice slip | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/advice-slip) |
-| [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images) | 159 | Get a random photo of a dog. | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/dog-images) |
+| [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images) | 160 | Get a random photo of a dog. | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/dog-images) |
 | [Cat Images](https://github.com/raycast/extensions/tree/main/extensions/get-cat-images) | 92 | Fetch random cat images | luiggircardoso | macOS | [store](https://www.raycast.com/luiggircardoso/get-cat-images) |
 | [Metaphorpsum](https://github.com/raycast/extensions/tree/main/extensions/metaphorpsum) | 41 | An extension for generating random text from the metaphorpsum API. | jsumnersmith | macOS | [store](https://www.raycast.com/jsumnersmith/metaphorpsum) |
 | [Kind Words](https://github.com/raycast/extensions/tree/main/extensions/kind-words) | 24 | Random compliments and gratitude prompts to lift the mood. | tim_gailey | macOS, Windows | [store](https://www.raycast.com/tim_gailey/kind-words) |
@@ -37,7 +37,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,446 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,447 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Time Until I Do](https://github.com/raycast/extensions/tree/main/extensions/time-until-i-do) | 1,396 | Time Until 'The Big Day' is a customizable Raycast extension that helps you keep track of the time left until your upcoming event. Whether you're counting down… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/time-until-i-do) |
 | [KnowYourMeme](https://github.com/raycast/extensions/tree/main/extensions/knowyourmeme) | 672 | Search KnowYourMeme.com memes directly from Raycast and get details! | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/knowyourmeme) |
 | [LetMeGoogleThat](https://github.com/raycast/extensions/tree/main/extensions/let-me-google-that) | 657 | LetMeGoogleThat is a Raycast extension that generates links to the popular 'Let Me Google That For You' website. With just a few clicks, you can create a custo… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/let-me-google-that) |

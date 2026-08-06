@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-06 — upstream `058a33dcb0`
+
+**Updated (1):** [SimpleTexOCR](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr)
+
 ## 2026-08-06 — upstream `d99966d92f`
 
 **Added (1):** [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere)

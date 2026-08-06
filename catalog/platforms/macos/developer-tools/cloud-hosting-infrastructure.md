@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,912 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,273 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,913 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,274 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
 | [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,726 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
-| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,308 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
+| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,310 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
 | [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 9,808 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
 | [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,929 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,105 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
@@ -88,7 +88,7 @@
 | [Globalping](https://github.com/raycast/extensions/tree/main/extensions/globalping) | 21 | Run ping, traceroute, MTR, DNS and HTTP tests from 3700+ probes distributed worldwide. Powered by the Globalping network. | globalping (org) | macOS, Windows | [store](https://www.raycast.com/globalping/globalping) |
 | [Virtualizor Enduser](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) | 20 | Manage Virtualizor Enduser instance | xmok | macOS | [store](https://www.raycast.com/xmok/virtualizor-enduser) |
 | [SolusVM 1 Client](https://github.com/raycast/extensions/tree/main/extensions/solusvm-1-client) | 15 | Fetch Information and Manage SolusVM 1 Virtual Server | xmok | macOS | [store](https://www.raycast.com/xmok/solusvm-1-client) |
-| [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) | 13 | Manage containers, images, and volumes created by Apple's open-source container CLI. | davireisvieira | macOS | [store](https://www.raycast.com/davireisvieira/apple-container) |
+| [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) | 14 | Manage containers, images, and volumes created by Apple's open-source container CLI. | davireisvieira | macOS | [store](https://www.raycast.com/davireisvieira/apple-container) |
 | [Cloudflare Images](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-images) | 9 | Upload images to Cloudflare Images from your clipboard, Finder, or anywhere on your Mac. Includes a browser for your uploaded images. Unofficial. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/cloudflare-images) |
 | [DreamHost](https://github.com/raycast/extensions/tree/main/extensions/dreamhost) | 9 | Manage DreamHost DNS Records | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/dreamhost) |
 | [deSEC](https://github.com/raycast/extensions/tree/main/extensions/desec) | 5 | Modern DNS Hosting for Everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/desec) |

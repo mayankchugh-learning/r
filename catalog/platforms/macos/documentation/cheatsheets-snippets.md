@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 38,546 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
+| [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 38,547 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
 | [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 20,182 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
 | [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) | 11,150 | Markdown documentation at your fingertips | codedbyjordan | macOS, Windows | [store](https://www.raycast.com/codedbyjordan/markdown-reference) |
 | [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 9,893 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
@@ -20,7 +20,7 @@
 | [Code Smells Search](https://github.com/raycast/extensions/tree/main/extensions/code-smells) | 215 | Discover all code smells and how to solve them based on Code Smells Catalog created by Marcel J. | omorest | macOS | [store](https://www.raycast.com/omorest/code-smells) |
 | [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) | 183 | Quickly search and use Prisma CLI Commands along with command details. | raj_asha | macOS | [store](https://www.raycast.com/raj_asha/prisma-cli-commands) |
 | [Shopify Theme Resources](https://github.com/raycast/extensions/tree/main/extensions/shopify-theme-resources) | 158 | Quickly reference and search Shopify theme resources, like input settings, fonts, and more for Shopify theme development. | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopify-theme-resources) |
-| [Backstage](https://github.com/raycast/extensions/tree/main/extensions/backstage) | 139 | Shortcuts for Backstage | yukukotani | macOS | [store](https://www.raycast.com/yukukotani/backstage) |
+| [Backstage](https://github.com/raycast/extensions/tree/main/extensions/backstage) | 140 | Shortcuts for Backstage | yukukotani | macOS | [store](https://www.raycast.com/yukukotani/backstage) |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 138 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
 | [Quick References](https://github.com/raycast/extensions/tree/main/extensions/quick-references) | 50 | Search and browse Fechin/reference cheat sheets with favorites and offline support. | daniel_schoeman | macOS | [store](https://www.raycast.com/daniel_schoeman/quick-references) |
 | [AT Protocol Utilities](https://github.com/raycast/extensions/tree/main/extensions/atproto-utilities) | 46 | Utility commands for atproto development. | ftrstk | macOS | [store](https://www.raycast.com/ftrstk/atproto-utilities) |

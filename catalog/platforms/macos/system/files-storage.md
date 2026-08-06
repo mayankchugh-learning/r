@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 44,771 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
+| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 44,772 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
 | [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 29,249 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
 | [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,440 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
-| [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 17,982 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |
-| [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) | 8,389 | List and choose a single disk to eject. | johndturn | Windows, macOS | [store](https://www.raycast.com/johndturn/single-disk-eject) |
+| [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 17,984 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |
+| [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) | 8,390 | List and choose a single disk to eject. | johndturn | Windows, macOS | [store](https://www.raycast.com/johndturn/single-disk-eject) |
 | [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 5,995 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
 | [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,162 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
 | [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) | 2,584 | Perform actions (move, copy, create) on selected Finder files and folders | pa1ar | macOS | [store](https://www.raycast.com/pa1ar/finder-file-actions) |

@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 283,520 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 47,918 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,556 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 17,905 | Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams) |
-| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,179 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 283,575 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 47,920 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,559 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 17,907 | Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams) |
+| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,181 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
 | [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 7,919 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
 | [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | 6,709 | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
 | [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 2,875 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
@@ -43,13 +43,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,140 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
-| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 31,918 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
-| [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 14,304 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,151 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 31,925 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
+| [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 14,305 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 8,951 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
-| [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 5,297 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
+| [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 5,300 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
 | [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 4,604 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
-| [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,278 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
+| [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,279 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
 | [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 2,640 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
 | [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 863 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
 | [Gather](https://github.com/raycast/extensions/tree/main/extensions/gather) | 621 | Control Gather from Raycast | yannglt | macOS | [store](https://www.raycast.com/yannglt/gather) |
@@ -62,7 +62,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 35,363 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
+| [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 35,365 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
 | [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,571 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
 | [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,569 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman) | 2,086 | Boost your email workflow with powerful contextual Superhuman integration. Draft emails with context and search your inbox using Superhuman's advanced operator… | jlokos | macOS | [store](https://www.raycast.com/jlokos/superhuman) |
@@ -90,7 +90,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,979 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,980 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,194 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
 | [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,121 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 634 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
@@ -106,7 +106,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) | 8,292 | Quickly shorten the selected URL or current clipboard URL with Bitly | blessanm86 | macOS, Windows | [store](https://www.raycast.com/blessanm86/bitly-url-shortener) |
+| [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) | 8,293 | Quickly shorten the selected URL or current clipboard URL with Bitly | blessanm86 | macOS, Windows | [store](https://www.raycast.com/blessanm86/bitly-url-shortener) |
 | [UTM Campaign Builder](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) | 385 | Create a campaign URL with UTM attributes | vimtor | macOS | [store](https://www.raycast.com/vimtor/utm-campaign-builder) |
 | [Share My Code](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) | 322 | Quickly create shareable code snippet with ShareMyCode directly in your Raycast ecosystem. | jairaume | macOS | [store](https://www.raycast.com/jairaume/share-my-code) |
 | [Kutt](https://github.com/raycast/extensions/tree/main/extensions/kutt) | 72 | Free & Open Source Modern URL Shortener | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/kutt) |
@@ -155,7 +155,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,688 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,588 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,658 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,659 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,971 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,579 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,427 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |

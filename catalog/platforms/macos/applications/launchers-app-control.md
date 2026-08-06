@@ -6,17 +6,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 39,551 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
+| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 39,555 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
 | [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,120 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
 | [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 7,994 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,200 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
-| [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox) | 5,011 | Control Anybox with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/anybox) |
+| [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox) | 5,012 | Control Anybox with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/anybox) |
 | [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity) | 3,249 | Control Antigravity directly from Raycast - Search and open recent projects, handle extensions and commands. | meshal | macOS | [store](https://www.raycast.com/meshal/antigravity) |
 | [OK JSON](https://github.com/raycast/extensions/tree/main/extensions/ok-json) | 2,720 | Control OK JSON with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/ok-json) |
 | [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 2,620 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,379 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
 | [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,485 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
-| [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,415 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
+| [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,416 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
 | [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,096 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
 | [New Instance](https://github.com/raycast/extensions/tree/main/extensions/raycast-new-instance) | 1,053 | Launch a new instance of any installed application on your Mac | Caramel | macOS | [store](https://www.raycast.com/Caramel/raycast-new-instance) |
 | [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 955 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
