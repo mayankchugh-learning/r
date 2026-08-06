@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a0691dcb084a78a4fd545c879eb676104f874b81",
-  "generatedAt": "2026-08-06T04:06:44.465Z",
-  "downloadsRefreshedAt": "2026-08-06T04:06:44.086Z",
+  "commit": "a7a9ecc4509798a847e9fd654dddf64d0d3ecb40",
+  "generatedAt": "2026-08-06T04:13:41.352Z",
+  "downloadsRefreshedAt": "2026-08-06T04:13:40.396Z",
   "count": 3155,
   "extensions": [
     {
@@ -9513,7 +9513,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 500104
+      "downloads": 500105
     },
     {
       "dir": "color-shades",
@@ -21434,7 +21434,7 @@
       "description": "Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule.",
       "author": "thomas",
       "owner": null,
-      "contributors": 7,
+      "contributors": 8,
       "categories": [
         "Productivity",
         "Applications"
@@ -21446,7 +21446,7 @@
       ],
       "store": "https://www.raycast.com/thomas/google-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-calendar",
-      "treeSha": "a62123d1e8a03aecd62d4e70a8a36e5d39ce3158",
+      "treeSha": "d727fd1f61345c8eaedd6464e03ac222f0f016cc",
       "downloads": 59161
     },
     {
@@ -21487,7 +21487,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488733
+      "downloads": 488737
     },
     {
       "dir": "google-chrome-profiles",
@@ -27723,7 +27723,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 657134
+      "downloads": 657137
     },
     {
       "dir": "kimai",
