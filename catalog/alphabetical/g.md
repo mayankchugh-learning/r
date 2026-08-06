@@ -16,7 +16,6 @@
 | [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 53,006 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
 | [Google Maps Search](https://github.com/raycast/extensions/tree/main/extensions/google-maps-search) | 45,582 | Quickly search Google Maps or get directions. | ratoru | macOS, Windows | [store](https://www.raycast.com/ratoru/google-maps-search) |
 | [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 35,361 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
-| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 31,916 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
 | [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) | 28,924 | Fuzzy search files in the mounted Google Drive | vishaltelangre | macOS | [store](https://www.raycast.com/vishaltelangre/google-drive) |
 | [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 26,507 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
 | [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 25,885 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
@@ -150,3 +149,4 @@
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 1 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
 | [Granite](https://github.com/raycast/extensions/tree/main/extensions/granite) | 0 | Search, browse, and ask your Granite document vault. | Shpigford | macOS | [store](https://www.raycast.com/Shpigford/granite) |
 | [GitHub Spark](https://github.com/raycast/extensions/tree/main/extensions/github-spark) | — | Turn your ideas into personalized apps with GitHub Spark. | github-next (org) | macOS | — |
+| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | — | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |

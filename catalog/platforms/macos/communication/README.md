@@ -44,7 +44,6 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,124 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
-| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 31,916 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
 | [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 14,304 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 8,951 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
 | [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 5,296 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
@@ -57,6 +56,7 @@
 | [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 25 | Browse and call contacts, control your active call, and search transcripts from your Tuple pair programming sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
 | [Yandex Telemost](https://github.com/raycast/extensions/tree/main/extensions/yandex-telemost) | 14 | Create and join Yandex Telemost meetings directly from Raycast. Requires macOS — uses AppleScript to automate your browser. | egor_chuzhin | macOS | [store](https://www.raycast.com/egor_chuzhin/yandex-telemost) |
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | 6 | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |
+| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | — | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
 
 ### Email
 

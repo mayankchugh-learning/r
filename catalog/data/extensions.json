@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cd464b91f31190ecd5f1b053872e3d1cbd5e60a9",
-  "generatedAt": "2026-08-06T04:49:53.072Z",
+  "commit": "e92bbc4eca25a2d5cf00169a85b54853fe2837de",
+  "generatedAt": "2026-08-06T05:40:49.309Z",
   "downloadsRefreshedAt": "2026-08-06T04:49:52.712Z",
   "count": 3155,
   "extensions": [
@@ -21722,8 +21722,8 @@
       ],
       "store": "https://www.raycast.com/vitoorgomes/google-meet",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-meet",
-      "treeSha": "b9552995ec2a7b45fb88ff6d9c3f774f51a48ee0",
-      "downloads": 31916
+      "treeSha": "3427195977ea41622bb6f133411c51659b8b84e9",
+      "downloads": null
     },
     {
       "dir": "google-scholar",
