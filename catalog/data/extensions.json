@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "69dc93c27e96ba0557dc1cff2c7ce8c56090b922",
-  "generatedAt": "2026-08-06T14:59:51.894Z",
-  "downloadsRefreshedAt": "2026-08-06T14:59:51.478Z",
+  "commit": "94413547463eabd37e85c1536a94109aa5319a8c",
+  "generatedAt": "2026-08-06T15:03:38.859Z",
+  "downloadsRefreshedAt": "2026-08-06T15:03:38.106Z",
   "count": 3156,
   "extensions": [
     {
@@ -21509,7 +21509,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 489109
+      "downloads": 489110
     },
     {
       "dir": "google-chrome-profiles",
@@ -27745,7 +27745,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 657567
+      "downloads": 657568
     },
     {
       "dir": "kimai",
@@ -60397,7 +60397,7 @@
       "description": "Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast!",
       "author": "eggsy",
       "owner": null,
-      "contributors": 5,
+      "contributors": 6,
       "categories": [
         "Design Tools",
         "Media",
@@ -60410,7 +60410,7 @@
       ],
       "store": "https://www.raycast.com/eggsy/unsplash",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/unsplash",
-      "treeSha": "5883adccd5d5002efc85f5f7d8981e12ae8c40bf",
+      "treeSha": "22ca55ab140ea210d4b7e6aa8c1968f697909a29",
       "downloads": 33803
     },
     {

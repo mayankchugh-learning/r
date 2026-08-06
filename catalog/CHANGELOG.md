@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-06 — upstream `9441354746`
+
+**Updated (1):** [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash)
+
 ## 2026-08-06 — upstream `69dc93c27e`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
