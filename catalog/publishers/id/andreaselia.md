@@ -1,6 +1,6 @@
 # andreaselia
 
-10 extensions · 3,777 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
+10 extensions · 3,778 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
 
 ## Data (7)
 
@@ -25,4 +25,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [2FA Directory](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) | 269 | View a list of 2FA enabled sites. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/2fa-directory) |
+| [2FA Directory](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) | 270 | View a list of 2FA enabled sites. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/2fa-directory) |

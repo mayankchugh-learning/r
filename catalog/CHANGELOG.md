@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-06 — upstream `ab4ef78489`
+
+**Updated (1):** [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana)
+
 ## 2026-08-06 — upstream `e8630bfd92`
 
 **Added (1):** [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager)
