@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-06 — upstream `cd464b91f3`
+
+**Updated (1):** [OSS Insight](https://github.com/raycast/extensions/tree/main/extensions/ossinsight)
+
 ## 2026-08-06 — upstream `1ccb91f3ab`
 
 **Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)

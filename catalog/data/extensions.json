@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1ccb91f3ab7fc8c21338086f05cd966d78c3e5de",
-  "generatedAt": "2026-08-06T04:21:37.296Z",
-  "downloadsRefreshedAt": "2026-08-06T04:21:36.634Z",
+  "commit": "cd464b91f31190ecd5f1b053872e3d1cbd5e60a9",
+  "generatedAt": "2026-08-06T04:49:53.072Z",
+  "downloadsRefreshedAt": "2026-08-06T04:49:52.712Z",
   "count": 3155,
   "extensions": [
     {
@@ -9513,7 +9513,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 500107
+      "downloads": 500118
     },
     {
       "dir": "color-shades",
@@ -20569,7 +20569,7 @@
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
       "treeSha": "f1b492e81a42d2702076449dff110973e517a19a",
-      "downloads": 179741
+      "downloads": 179743
     },
     {
       "dir": "github-cli-manual",
@@ -21487,7 +21487,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 488742
+      "downloads": 488750
     },
     {
       "dir": "google-chrome-profiles",
@@ -27723,7 +27723,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 657140
+      "downloads": 657150
     },
     {
       "dir": "kimai",
@@ -39201,7 +39201,7 @@
       ],
       "store": "https://www.raycast.com/k8scat/ossinsight",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ossinsight",
-      "treeSha": "60478a7caede4537e650818aed0183ded6e85a2b",
+      "treeSha": "bdfb729dd551910a1c7186c88d594c4eb29b780d",
       "downloads": 264
     },
     {
