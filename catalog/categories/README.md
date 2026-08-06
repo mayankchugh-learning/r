@@ -6,8 +6,8 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 1429 |
-| [Applications](./applications/README.md) | 369 |
+| [Productivity](./productivity/README.md) | 1430 |
+| [Applications](./applications/README.md) | 370 |
 | [Communication](./communication/README.md) | 151 |
 
 ### Development
@@ -24,7 +24,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Media](./media/README.md) | 287 |
+| [Media](./media/README.md) | 288 |
 | [Design Tools](./design-tools/README.md) | 153 |
 
 ### Web, Finance & News

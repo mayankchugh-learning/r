@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-06 — upstream `d99966d92f`
+
+**Added (1):** [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere)
+
 ## 2026-08-06 — upstream `e92bbc4eca`
 
 **Updated (1):** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet)

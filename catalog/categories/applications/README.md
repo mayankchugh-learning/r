@@ -1,8 +1,8 @@
 # Applications
 
-369 extensions · [← all categories](../README.md)
+370 extensions · [← all categories](../README.md)
 
-macOS: 358 · Windows: 80
+macOS: 359 · Windows: 80
 
 ## Work & Knowledge Apps
 
@@ -18,7 +18,7 @@ macOS: 358 · Windows: 80
 
 | Topic | Extensions |
 | --- | --- |
-| [Music & Audio Apps](./music-audio-apps.md) | 9 |
+| [Music & Audio Apps](./music-audio-apps.md) | 10 |
 | [Media & Photo Apps](./media-photo-apps.md) | 20 |
 
 ## Developer & Power-User Apps

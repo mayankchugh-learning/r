@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 53,160 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 53,166 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
 | [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) | 5,622 | Identify and download fonts from any website. Disclaimer: FontSniper detects loaded browser fonts for testing/research only. Read more in README | riomadeit | macOS, Windows | [store](https://www.raycast.com/riomadeit/font-sniper) |
 | [Refresh Browsers](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) | 320 | Refresh all browser tabs | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/refresh-browsers) |
-| [Fathom Analytics](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics) | 223 | Gain quick insights into your Fathom Analytics sites, check stats and open a browser directly to the dashboard or site. | danielferguson | macOS | [store](https://www.raycast.com/danielferguson/fathom-analytics) |
+| [Fathom Analytics](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics) | 224 | Gain quick insights into your Fathom Analytics sites, check stats and open a browser directly to the dashboard or site. | danielferguson | macOS | [store](https://www.raycast.com/danielferguson/fathom-analytics) |
 | [RAE Dictionary](https://github.com/raycast/extensions/tree/main/extensions/rae-dictionary-raycast) | 137 | Query words in the Royal Spanish Academy dictionary directly from Raycast. Get definitions, conjugations, and expressions quickly without opening a browser. Us… | sonirico | macOS | [store](https://www.raycast.com/sonirico/rae-dictionary-raycast) |
 | [VivaPB](https://github.com/raycast/extensions/tree/main/extensions/vivapb) | 74 | Browse the web in privacy with the Vivaldi Browser. | Codrkoaz | macOS | [store](https://www.raycast.com/Codrkoaz/vivapb) |
 | [Shopinfo.app](https://github.com/raycast/extensions/tree/main/extensions/shopinfo-app) | 35 | Identify Shopify themes from your current browser tab using shopinfo.app's database | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopinfo-app) |
