@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 699 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
+| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 700 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
 | [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 672 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
 | [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 547 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 524 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
@@ -23,5 +23,5 @@
 | [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) | 37 | Read the latest news of Thrasher Magazine | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/thrasher-magazine) |
 | [TV2 - Denmark](https://github.com/raycast/extensions/tree/main/extensions/tv2---denmark) | 25 | Get the latest news from TV2 Denmark | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/tv2---denmark) |
 | [Music News](https://github.com/raycast/extensions/tree/main/extensions/music-news) | 20 | Read the latest music news from various sources. | acler | macOS, Windows | [store](https://www.raycast.com/acler/music-news) |
+| [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) | 14 | Latest important cyber security news, ranked by severity. | goran_breivik | macOS, Windows | [store](https://www.raycast.com/goran_breivik/cyber-security-pulse) |
 | [Publico](https://github.com/raycast/extensions/tree/main/extensions/publico) | 14 | A Raycast extension to receive the latest news from Público, keeping you informed in real time directly from your command bar. | caasols | macOS, Windows | [store](https://www.raycast.com/caasols/publico) |
-| [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) | 13 | Latest important cyber security news, ranked by severity. | goran_breivik | macOS, Windows | [store](https://www.raycast.com/goran_breivik/cyber-security-pulse) |

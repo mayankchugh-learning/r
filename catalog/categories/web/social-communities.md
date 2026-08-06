@@ -33,8 +33,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,194 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
-| [Pinboard](https://github.com/raycast/extensions/tree/main/extensions/pinboard) | 1,511 | Post new bookmarks to Pinboard and search through your Pinboard bookmarks. Tip: Assign a global shortcut to the "Add Bookmark" command, select a URL, and then… | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/pinboard) |
+| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,195 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
+| [Pinboard](https://github.com/raycast/extensions/tree/main/extensions/pinboard) | 1,512 | Post new bookmarks to Pinboard and search through your Pinboard bookmarks. Tip: Assign a global shortcut to the "Add Bookmark" command, select a URL, and then… | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/pinboard) |
 | [v2ex](https://github.com/raycast/extensions/tree/main/extensions/v2ex) | 779 | You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your… | leo | macOS | [store](https://www.raycast.com/leo/v2ex) |
 | [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) | 63 | Integrate beehiiv with Raycast, allowing you to search for posts, check statistics, show subscribers count in the menu bar, and more. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/beehiiv) |
 | [WordPress Manager](https://github.com/raycast/extensions/tree/main/extensions/wordpress-manager) | 46 | Manage your WordPress site directly from Raycast. Create posts, moderate comments, manage plugins, and more. | gaurav_tiwari | macOS | [store](https://www.raycast.com/gaurav_tiwari/wordpress-manager) |
@@ -43,8 +43,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,748 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
-| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,154 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,752 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,155 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 634 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Mastodon Search](https://github.com/raycast/extensions/tree/main/extensions/mastodon-search) | 336 | Search for People or Hashtags on Mastodon. | daveverwer | macOS | [store](https://www.raycast.com/daveverwer/mastodon-search) |
 | [Copy Skeet Link](https://github.com/raycast/extensions/tree/main/extensions/copy-skeet-link) | 36 | Create a rich Bluesky skeet link using skeeet.xyz. | justinw | macOS | [store](https://www.raycast.com/justinw/copy-skeet-link) |

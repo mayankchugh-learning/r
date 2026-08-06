@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,368 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
-| [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq) | 3,050 | Use the powerful models via Groq from the comfort of Raycast. | ilian | macOS | [store](https://www.raycast.com/ilian/groq) |
+| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,369 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
+| [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq) | 3,051 | Use the powerful models via Groq from the comfort of Raycast. | ilian | macOS | [store](https://www.raycast.com/ilian/groq) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,768 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) | 1,431 | Lookup chord diagrams for guitar | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/guitar-chords) |
 | [Stoic Quotes](https://github.com/raycast/extensions/tree/main/extensions/stoicquotes) | 1,298 | Gives a random quote from one of the stoic philosophers - Marcus Aurelius, Seneca or Epictetus | rrajath | macOS | [store](https://www.raycast.com/rrajath/stoicquotes) |
@@ -16,7 +16,7 @@
 | [Raycast MonkeyType Theme Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-monkeytype-theme) | 862 | This "Raycast MonkeyType Theme" extension provides MonkeyType themes for Raycast. | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/raycast-monkeytype-theme) |
 | [Clean Text](https://github.com/raycast/extensions/tree/main/extensions/clean-text) | 711 | Clean and format text with various text modification operations | GenuineCheddar | macOS | [store](https://www.raycast.com/GenuineCheddar/clean-text) |
 | [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) | 711 | Real-Debrid client for Raycast NOT AN OFFICIAL CLIENT | Yamen | macOS | [store](https://www.raycast.com/Yamen/real-debrid-manager) |
-| [Recent Excel - Show Recent Excel Files](https://github.com/raycast/extensions/tree/main/extensions/recent-excel) | 676 | Shows recent excel files | aradbm | macOS | [store](https://www.raycast.com/aradbm/recent-excel) |
+| [Recent Excel - Show Recent Excel Files](https://github.com/raycast/extensions/tree/main/extensions/recent-excel) | 677 | Shows recent excel files | aradbm | macOS | [store](https://www.raycast.com/aradbm/recent-excel) |
 | [V2EX](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer) | 632 | View V2EX in Raycast. | daikaiyu | macOS | [store](https://www.raycast.com/kvdo2/v2ex-viewer) |
 | [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart) | 621 | Home automation with Tuya Smart | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/tuya-smart) |
 | [Kill Node Modules](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) | 536 | Remove selected node_modules | NicolasMontone | macOS, Windows | [store](https://www.raycast.com/NicolasMontone/kill-node-modules) |
@@ -30,7 +30,7 @@
 | [Chords and Tabs](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) | 366 | Find chords and tabs for your favorite songs and musical pieces! | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/chords-and-tabs) |
 | [tldraw](https://github.com/raycast/extensions/tree/main/extensions/tldraw) | 363 | Creates and persists tldraw projects | zephraph | macOS | [store](https://www.raycast.com/zephraph/tldraw) |
 | [Convert 3D Models](https://github.com/raycast/extensions/tree/main/extensions/convert-3d-models) | 334 | An extension to convert 3D models to different formats. | mrnoisytiger | macOS | [store](https://www.raycast.com/mrnoisytiger/convert-3d-models) |
-| [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 265 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
+| [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 266 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
 | [LEGO Bricks](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) | 223 | Look up LEGO sets, colors, bricks etc. | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/lego-bricks) |
 | [Control Viscosity](https://github.com/raycast/extensions/tree/main/extensions/control-viscosity) | 198 | Allows you to control Viscosity VPN client and connect to or disconnect from your VPN connections. | dionisis_lialios | macOS | [store](https://www.raycast.com/dionisis_lialios/control-viscosity) |
 | [Thingiverse](https://github.com/raycast/extensions/tree/main/extensions/thingiverse) | 191 | Browse Thingiverse | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/thingiverse) |

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,151 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,152 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
 | [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,352 | Convert cron expressions into human readable descriptions | niall-maloney | macOS | [store](https://www.raycast.com/niall-maloney/cron-description) |
 | [Raycast Notification](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) | 2,737 | This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast inter… | maxnyby | macOS | [store](https://www.raycast.com/maxnyby/raycast-notification) |
 | [Pipe Commands](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) | 2,181 | Pipe your selection or clipboard to custom scripts defined in any language. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/pipe-commands) |
@@ -16,4 +16,4 @@
 | [Windmill](https://github.com/raycast/extensions/tree/main/extensions/windmill) | 143 | Windmill Extension to run workflows directly from Raycast | emiliobool | macOS | [store](https://www.raycast.com/emiliobool/windmill) |
 | [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | 18 | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
 | [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | 18 | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |
-| [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) | 7 | Search, view, and manage Temporal workflows from Raycast | applauselab | macOS | [store](https://www.raycast.com/applauselab/temporal) |
+| [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) | 8 | Search, view, and manage Temporal workflows from Raycast | applauselab | macOS | [store](https://www.raycast.com/applauselab/temporal) |

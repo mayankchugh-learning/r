@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 158,627 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
-| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,080 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 158,637 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,082 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
 | [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 3,824 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
 | [Cloudflare WARP](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) | 1,773 | Manage Cloudflare WARP | anandubajith | macOS | [store](https://www.raycast.com/anandubajith/cloudflare-warp) |
 | [Cyberduck](https://github.com/raycast/extensions/tree/main/extensions/cyberduck) | 1,341 | Quickly open your cyberduck connections | scottaglia | macOS | [store](https://www.raycast.com/scottaglia/cyberduck) |

@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 10,836 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
+| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 10,837 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
 | [8 Ball](https://github.com/raycast/extensions/tree/main/extensions/8ball) | 1,982 | Returns an 8 ball like answer to questions | rocksack | macOS | [store](https://www.raycast.com/rocksack/8-ball) |
 | [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,790 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses) | 1,765 | Use Ulysses with Raycast | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/ulysses) |
-| [Easings](https://github.com/raycast/extensions/tree/main/extensions/easings) | 1,751 | Quickly find and grab your favorite easings. | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/easings) |
+| [Easings](https://github.com/raycast/extensions/tree/main/extensions/easings) | 1,752 | Quickly find and grab your favorite easings. | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/easings) |
 | [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) | 1,665 | PDF Compression using native PDFKit | birkhoff | macOS | [store](https://www.raycast.com/birkhoff/pdf-compression) |
 | [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) | 1,613 | A Raycast Extension that instantly pastes rich text or HTML content into Markdown. | weicodes | macOS | [store](https://www.raycast.com/weicodes/paste-to-markdown) |
 | [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,239 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
@@ -18,7 +18,7 @@
 | [Sniffer](https://github.com/raycast/extensions/tree/main/extensions/sniffer) | 940 | FInd who is connected to your network | night_coder | macOS | [store](https://www.raycast.com/night_coder/sniffer) |
 | [Week Number](https://github.com/raycast/extensions/tree/main/extensions/week-number) | 890 | Show the current week of the year. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/week-number) |
 | [Kaalam](https://github.com/raycast/extensions/tree/main/extensions/kaalam) | 845 | Gives Current Time in all formats | heerthees | macOS | [store](https://www.raycast.com/heerthees/kaalam) |
-| [Squeeze](https://github.com/raycast/extensions/tree/main/extensions/squeeze) | 658 | A simple utility for whitespace and line break removal. | daniel_ac | macOS | [store](https://www.raycast.com/daniel_ac/squeeze) |
+| [Squeeze](https://github.com/raycast/extensions/tree/main/extensions/squeeze) | 659 | A simple utility for whitespace and line break removal. | daniel_ac | macOS | [store](https://www.raycast.com/daniel_ac/squeeze) |
 | [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 554 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
 | [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 440 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
 | [What Happened Today](https://github.com/raycast/extensions/tree/main/extensions/what-happened-today) | 349 | Discover historical events, notable birthdays, and milestones on any date. | nikhil_tiwari | macOS | [store](https://www.raycast.com/nikhil_tiwari/what-happened-today) |

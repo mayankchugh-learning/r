@@ -7,20 +7,20 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [waj](https://www.raycast.com/waj) | 1 | 172 | **Developer Tools:** [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) |
-| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 98,228 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
+| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 98,233 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
 | [wdeu](https://www.raycast.com/wdeu) | 3 | 24 | **Developer Tools:** [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync)<br>**Finance:** [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc)<br>**Documentation:** [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup) |
 | [web3bio](https://www.raycast.com/web3bio) | 1 | 103 | **Developer Tools:** [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) |
-| [webdiego](https://www.raycast.com/webdiego) | 1 | 2,529 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
+| [webdiego](https://www.raycast.com/webdiego) | 1 | 2,530 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
 | [webpro](https://www.raycast.com/webpro) | 1 | 820 | **Developer Tools:** [GitHub Search](https://github.com/raycast/extensions/tree/main/extensions/github-search) |
 | [weicodes](https://www.raycast.com/weicodes) | 1 | 1,613 | **Uncategorized:** [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) |
 | [wellsgz](https://www.raycast.com/wellsgz) | 1 | 142 | **System:** [Handoff Toggle](https://github.com/raycast/extensions/tree/main/extensions/handoff-toggle) |
 | [WerrySs](https://www.raycast.com/WerrySs) | 1 | 35 | **Developer Tools:** [PromptCast for Claude & Codex](https://github.com/raycast/extensions/tree/main/extensions/codex-claude-cli) |
-| [wesbaker](https://www.raycast.com/wesbaker) | 2 | 906 | **Media:** [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos)<br>**Developer Tools:** [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) |
+| [wesbaker](https://www.raycast.com/wesbaker) | 2 | 908 | **Media:** [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos)<br>**Developer Tools:** [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) |
 | [wesleycoder](https://www.raycast.com/wesleycoder) | 1 | 186 | **Productivity:** [Ntfy](https://github.com/raycast/extensions/tree/main/extensions/ntfy) |
 | [wesseljt](https://www.raycast.com/wesseljt) | 1 | 31 | **Productivity:** [Letta Agents](https://github.com/raycast/extensions/tree/main/extensions/letta) |
 | [wey-gu](https://www.raycast.com/wey-gu) | 1 | 181 | **Productivity:** [Nowledge Mem](https://github.com/raycast/extensions/tree/main/extensions/nowledge-mem) |
 | [whitebit-exchange](https://www.raycast.com/whitebit-exchange) | 1 | 34 | **Applications:** [WhiteBIT Exchange](https://github.com/raycast/extensions/tree/main/extensions/whitebit) |
-| [Whitespace](https://www.raycast.com/Whitespace) | 3 | 150 | **Web:** [gg.deals](https://github.com/raycast/extensions/tree/main/extensions/gg-deals), [Aimlab Tracker](https://github.com/raycast/extensions/tree/main/extensions/aimlab)<br>**News:** [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) |
+| [Whitespace](https://www.raycast.com/Whitespace) | 3 | 151 | **Web:** [gg.deals](https://github.com/raycast/extensions/tree/main/extensions/gg-deals), [Aimlab Tracker](https://github.com/raycast/extensions/tree/main/extensions/aimlab)<br>**News:** [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) |
 | [whosmadeer](https://www.raycast.com/whosmadeer) | 1 | 251 | **System:** [Shutdown Timer](https://github.com/raycast/extensions/tree/main/extensions/shutdown-timer) |
 | [willem_van_lent](https://www.raycast.com/willem_van_lent) | 1 | 697 | **Developer Tools:** [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) |
 | [williamwelsh](https://www.raycast.com/williamwelsh) | 1 | 1,104 | **Data:** [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) |

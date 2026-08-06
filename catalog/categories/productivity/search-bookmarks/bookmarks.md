@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) | 35,707 | Search your Raindrop.io bookmarks | lardissone | macOS, Windows | [store](https://www.raycast.com/lardissone/raindrop-io) |
-| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,090 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
+| [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) | 35,711 | Search your Raindrop.io bookmarks | lardissone | macOS, Windows | [store](https://www.raycast.com/lardissone/raindrop-io) |
+| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,095 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
 | [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,215 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
 | [Microsoft Edge](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) | 12,953 | Search open tabs, bookmarks, collections and history in Microsoft Edge. | KartikKumarSahoo | macOS | [store](https://www.raycast.com/KartikKumarSahoo/microsoft-edge) |
-| [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 12,366 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
-| [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 4,590 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
+| [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 12,369 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
+| [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 4,592 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
 | [Comet](https://github.com/raycast/extensions/tree/main/extensions/comet) | 4,279 | Search open tabs, bookmarks and history in Comet. | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/comet) |
 | [Pocket](https://github.com/raycast/extensions/tree/main/extensions/pocket) | 3,551 | Manage Pocket bookmarks from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/pocket) |
 | [(Basic) Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/bmrks) | 1,721 | Companion bookmarking utility for bmrks.com | rauno | macOS | [store](https://www.raycast.com/rauno/bmrks) |
@@ -23,7 +23,7 @@
 | [1Bookmark](https://github.com/raycast/extensions/tree/main/extensions/1bookmark) | 210 | One Bookmark Solution for Teams and Personal Use. | onebookmark | macOS | [store](https://www.raycast.com/onebookmark/1bookmark) |
 | [WebBites](https://github.com/raycast/extensions/tree/main/extensions/webbites) | 133 | Search your WebBites.io bookmarks | elias_ruiz_monserrat | macOS | [store](https://www.raycast.com/elias_ruiz_monserrat/webbites) |
 | [Readeck](https://github.com/raycast/extensions/tree/main/extensions/readeck) | 106 | This extension allows you to manage your Readeck bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly. | shichen437 | macOS | [store](https://www.raycast.com/shichen437/readeck) |
-| [Bird](https://github.com/raycast/extensions/tree/main/extensions/bird) | 96 | View your X/Twitter bookmarks and likes using the bird CLI | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/bird) |
+| [Bird](https://github.com/raycast/extensions/tree/main/extensions/bird) | 97 | View your X/Twitter bookmarks and likes using the bird CLI | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/bird) |
 | [Otter Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/otter) | 67 | Companion bookmarking utility for Otter bookmarks | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/otter) |
 | [Iridium](https://github.com/raycast/extensions/tree/main/extensions/iridium) | 55 | Search open tabs, bookmarks and history in Iridium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/iridium) |
 | [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori) | 54 | Interact with Shiori the bookmark manager | namiwang | macOS | [store](https://www.raycast.com/namiwang/shiori) |

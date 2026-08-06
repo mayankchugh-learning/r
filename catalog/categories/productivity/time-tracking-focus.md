@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 105,975 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
-| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,355 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
+| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 105,985 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
+| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,362 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
 | [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,120 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
 | [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 7,994 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Work Time Countdown](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) | 2,771 | A simple timer to help you keep productive during work time. | thomas | macOS | [store](https://www.raycast.com/thomas/work-time-countdown) |
@@ -31,7 +31,7 @@
 | [Focus](https://github.com/raycast/extensions/tree/main/extensions/focus) | 713 | Control Focus App – Website and App Blocker for Mac | ernest | macOS | [store](https://www.raycast.com/ernest/focus) |
 | [Focus Anchor](https://github.com/raycast/extensions/tree/main/extensions/focus-anchor) | 352 | Anchor your focus on the most important thing | ashleyhindle | macOS | [store](https://www.raycast.com/ashleyhindle/focus-anchor) |
 | [Hyper Focus](https://github.com/raycast/extensions/tree/main/extensions/hyper-focus) | 260 | Controls the hyper-focus command line daemon which blocks distracting websites and apps. | iloveitaly | macOS | [store](https://www.raycast.com/iloveitaly/hyper-focus) |
-| [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist) | 92 | Ambient sound mixer for focus and relaxation. Layer multiple sounds, save presets, and control from your menu bar. | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/moodist) |
+| [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist) | 93 | Ambient sound mixer for focus and relaxation. Layer multiple sounds, save presets, and control from your menu bar. | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/moodist) |
 | [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 5 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
 
 ## Breaks ✦
@@ -40,7 +40,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 955 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
 | [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 900 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |
-| [Leave Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/leave-time-calculator) | 29 | Calculate your leave time based on start time and break duration | harunonsystem | macOS | [store](https://www.raycast.com/harunonsystem/leave-time-calculator) |
+| [Leave Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/leave-time-calculator) | 30 | Calculate your leave time based on start time and break duration | harunonsystem | macOS | [store](https://www.raycast.com/harunonsystem/leave-time-calculator) |
 | [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) | 2 | Manage Cold Turkey blocks, create them with optional initial websites and exceptions, and control starts, locks, device schedules, and breaks. | nabecite | macOS, Windows | [store](https://www.raycast.com/nabecite/cold-turkey-blocker) |
 
 ## General

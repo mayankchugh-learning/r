@@ -1,6 +1,6 @@
 # chrismessina
 
-14 extensions · 6,132 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+14 extensions · 6,134 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -22,7 +22,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 788 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
+| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 789 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
 | [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 154 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 
 ## Web (1)
@@ -37,7 +37,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger) | 238 | Like dig but for the web. Comprehensive website intelligence and metadata extraction. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/digger) |
 | [Asset Catalog Extractor](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) | 200 | Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/asset-catalog-extractor) |
-| [Trimmy](https://github.com/raycast/extensions/tree/main/extensions/trimmy) | 136 | "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/trimmy) |
+| [Trimmy](https://github.com/raycast/extensions/tree/main/extensions/trimmy) | 137 | "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/trimmy) |
 
 ## News (1)
 

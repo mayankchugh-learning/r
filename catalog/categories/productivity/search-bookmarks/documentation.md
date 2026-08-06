@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 22,384 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
+| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 22,386 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
 | [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 2,769 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
 | [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,631 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
 | [PHP Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/php-docs) | 1,901 | Quickly search through official PHP documentation | comes | macOS | [store](https://www.raycast.com/comes/php-docs) |

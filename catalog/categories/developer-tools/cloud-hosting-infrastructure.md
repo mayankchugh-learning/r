@@ -10,14 +10,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,274 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,275 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
 | [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,310 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
-| [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,105 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
+| [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,106 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,579 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,410 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
-| [Fastly Domain Search](https://github.com/raycast/extensions/tree/main/extensions/domainr) | 2,007 | Search domains availability with Fastly Domain Research API | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/domainr) |
+| [Fastly Domain Search](https://github.com/raycast/extensions/tree/main/extensions/domainr) | 2,008 | Search domains availability with Fastly Domain Research API | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/domainr) |
 | [Short.io](https://github.com/raycast/extensions/tree/main/extensions/short-io) | 1,162 | Shorten and search links with your own domain via Short.io | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/short-io) |
-| [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 841 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
+| [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 842 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
 | [Render](https://github.com/raycast/extensions/tree/main/extensions/render) | 413 | View your Render services, deploys, and custom domains | destiner | macOS | [store](https://www.raycast.com/destiner/render) |
 | [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 262 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
 | [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 244 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
@@ -56,8 +56,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,726 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
-| [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) | 4,006 | DNS lookup and nameserver query using the built-in host command | danielbahl | macOS | [store](https://www.raycast.com/danielbahl/dig) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,727 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) | 4,008 | DNS lookup and nameserver query using the built-in host command | danielbahl | macOS | [store](https://www.raycast.com/danielbahl/dig) |
 | [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) | 283 | Check DNS propagation instantly. | valentin_denis | macOS, Windows | [store](https://www.raycast.com/valentin_denis/dns-lookup) |
 | [FreeDNS](https://github.com/raycast/extensions/tree/main/extensions/freedns) | 199 | View and Change your DNS in freedns.afraid.org | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/freedns) |
 | [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) | 105 | Analyze and visualize HTTP/HTTPS request performance metrics including DNS lookup, TCP connection, TLS handshake, and content transfer times | liluo | macOS | [store](https://www.raycast.com/liluo/httpperf) |
@@ -69,10 +69,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,372 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
+| [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,373 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
 | [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud) | 757 | A lightweight Raycast extension for managing Google Cloud resources efficiently. Access and control your GCP projects, services, IAM, storage, and more—all wit… | ojowwalker77 | macOS, Windows | [store](https://www.raycast.com/ojowwalker77/g-cloud) |
 | [Copy GCP Icons](https://github.com/raycast/extensions/tree/main/extensions/copy-gcp-icons) | 450 | Copy Product Icons from Google Cloud Platform to Clipboard. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/copy-gcp-icons) |
-| [Google Cloud Run](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-run) | 243 | Commands for Google Cloud Run | bhavya_muni | macOS | [store](https://www.raycast.com/bhavya_muni/google-cloud-run) |
+| [Google Cloud Run](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-run) | 244 | Commands for Google Cloud Run | bhavya_muni | macOS | [store](https://www.raycast.com/bhavya_muni/google-cloud-run) |
 | [Cloud CLI Login Statuses](https://github.com/raycast/extensions/tree/main/extensions/cloud-cli-login-statuses) | 202 | Check if you are logged in AWS, Google Cloud and Azure CLIs | adam_vyborny | macOS | [store](https://www.raycast.com/adam_vyborny/cloud-cli-login-statuses) |
 | [Oracle Cloud](https://github.com/raycast/extensions/tree/main/extensions/oci) | 97 | Manage Oracle Cloud Infrastructure | xmok | macOS | [store](https://www.raycast.com/xmok/oci) |
 | [UploaderX](https://github.com/raycast/extensions/tree/main/extensions/uploaderx) | 81 | UploaderX lets you instantly upload files to your favorite cloud storage providers—directly from Raycast. Supports S3-compatible storage (AWS S3, Cloudflare R2… | scisaif | macOS | [store](https://www.raycast.com/scisaif/uploaderx) |
@@ -86,7 +86,7 @@
 | [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 354 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
 | [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 150 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |
 | [Colima](https://github.com/raycast/extensions/tree/main/extensions/colima) | 114 | Manage Colima virtual machine instances and Docker environments directly from Raycast | MiskaMyasa | macOS | [store](https://www.raycast.com/MiskaMyasa/colima) |
-| [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 52 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |
+| [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 53 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |
 | [Virtualizor Enduser](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) | 20 | Manage Virtualizor Enduser instance | xmok | macOS | [store](https://www.raycast.com/xmok/virtualizor-enduser) |
 | [ArchiSteamFarm](https://github.com/raycast/extensions/tree/main/extensions/archisteamfarm) | 18 | Interact with your locally hosted ASF instance via Raycast! | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/archisteamfarm) |
 
@@ -97,14 +97,14 @@
 | [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 9,808 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,398 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
 | [Terraform Doc](https://github.com/raycast/extensions/tree/main/extensions/terraform-doc) | 871 | Quickly access Terraform resources | shopping-jaws | macOS | [store](https://www.raycast.com/shopping-jaws/terraform-doc) |
-| [DigitalOcean](https://github.com/raycast/extensions/tree/main/extensions/digitalocean) | 600 | Quickly find resources in your DigitalOcean team | shukantpal | macOS | [store](https://www.raycast.com/shukantpal/digitalocean) |
+| [DigitalOcean](https://github.com/raycast/extensions/tree/main/extensions/digitalocean) | 601 | Quickly find resources in your DigitalOcean team | shukantpal | macOS | [store](https://www.raycast.com/shukantpal/digitalocean) |
 
 ## Docker ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,913 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,929 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,918 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,930 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 804 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
 | [Laravel Shift for Docker](https://github.com/raycast/extensions/tree/main/extensions/laravel-shift) | 123 | Run any of the Shifts for Laravel, Lumen, PHP, Django, and Tailwind completely locally using Raycast. | denniseilander | macOS | [store](https://www.raycast.com/denniseilander/laravel-shift) |
 
@@ -128,7 +128,7 @@
 | [Deno Deploy](https://github.com/raycast/extensions/tree/main/extensions/deno-deploy) | 129 | View and modify your Deno Deploy projects | j3lte | macOS | [store](https://www.raycast.com/j3lte/deno-deploy) |
 | [Appwrite](https://github.com/raycast/extensions/tree/main/extensions/appwrite) | 55 | Add Projects and View Services | xmok | macOS | [store](https://www.raycast.com/xmok/appwrite) |
 | [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) | 55 | Browse, upload, download, and manage files on your VPS via Raycast! | Abdullah-Dev115 | macOS | [store](https://www.raycast.com/Abdullah-Dev115/vps-explorer) |
-| [Firebase - Remote Config](https://github.com/raycast/extensions/tree/main/extensions/firebase-remote-config-admin) | 33 | Inspect, compare, edit, publish, delete, and roll back Firebase Remote Config across multiple projects | danilorequena | macOS, Windows | [store](https://www.raycast.com/danilorequena/firebase-remote-config-admin) |
+| [Firebase - Remote Config](https://github.com/raycast/extensions/tree/main/extensions/firebase-remote-config-admin) | 34 | Inspect, compare, edit, publish, delete, and roll back Firebase Remote Config across multiple projects | danilorequena | macOS, Windows | [store](https://www.raycast.com/danilorequena/firebase-remote-config-admin) |
 | [Aiven](https://github.com/raycast/extensions/tree/main/extensions/aiven) | 23 | Manage Aiven Projects and Services | xmok | macOS | [store](https://www.raycast.com/xmok/aiven) |
 | [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) | 23 | Monitor Supabase pg_cron jobs and run history. | adrianmarten | macOS | [store](https://www.raycast.com/adrianmarten/supabase-cron-monitor) |
 | [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) | 14 | Manage containers, images, and volumes created by Apple's open-source container CLI. | davireisvieira | macOS | [store](https://www.raycast.com/davireisvieira/apple-container) |
