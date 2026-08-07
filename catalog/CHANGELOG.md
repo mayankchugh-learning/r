@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-07 — upstream `e875fd18fc`
+
+**Updated (1):** [TickTick+](https://github.com/raycast/extensions/tree/main/extensions/ticktick-plus)
+
 ## 2026-08-07 — upstream `391f44e9f9`
 
 **Updated (1):** [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture)

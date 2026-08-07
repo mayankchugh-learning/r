@@ -176,7 +176,7 @@
 | [asportnoy](https://www.raycast.com/asportnoy) | 1 | 5,405 | **Developer Tools:** [Date Converter](https://github.com/raycast/extensions/tree/main/extensions/date-converter) |
 | [astrit](https://www.raycast.com/astrit) | 2 | 3,708 | **Productivity:** [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg), [Cron](https://github.com/raycast/extensions/tree/main/extensions/cron) |
 | [astroboii47](https://www.raycast.com/astroboii47) | 1 | 232 | **Productivity:** [Blip](https://github.com/raycast/extensions/tree/main/extensions/blip-raycast) |
-| [astronight](https://www.raycast.com/astronight) | 1 | 1,426 | **Developer Tools:** [Snippet Surfer](https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer) |
+| [astronight](https://www.raycast.com/astronight) | 1 | 1,427 | **Developer Tools:** [Snippet Surfer](https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer) |
 | [astroon](https://www.raycast.com/astroon) | 1 | 95 | **Finance:** [Envato Sales, Purchases and Search](https://github.com/raycast/extensions/tree/main/extensions/envato) |
 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 166,006 | **Productivity:** [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro)<br>**Developer Tools:** [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) |
 | [Atiipik](https://www.raycast.com/Atiipik) | 1 | 312 | **Developer Tools:** [Pixels to Viewport Width or Height](https://github.com/raycast/extensions/tree/main/extensions/convert-px-to-vw-vh) |
