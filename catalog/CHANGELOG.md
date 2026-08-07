@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-07 — upstream `65a163be73`
+
+**Updated (1):** [Ray Code](https://github.com/raycast/extensions/tree/main/extensions/ray-code)
+
 ## 2026-08-07 — upstream `997cfc2862`
 
 **Added (1):** [Chmod Lookup](https://github.com/raycast/extensions/tree/main/extensions/chmod-lookup)
