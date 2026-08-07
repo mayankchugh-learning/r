@@ -1,8 +1,8 @@
 # Code, Snippets & Text Utilities
 
-96 extensions · [← Developer Tools](./README.md)
+97 extensions · [← Developer Tools](./README.md)
 
-[Code ✦](#code) (28) · [Format ✦](#format) (12) · [Markdown ✦](#markdown) (9) · [Clipboard ✦](#clipboard) (7) · [Json ✦](#json) (6) · [Between ✦](#between) (5) · [General](#general) (29)
+[Code ✦](#code) (28) · [Format ✦](#format) (12) · [Markdown ✦](#markdown) (9) · [Clipboard ✦](#clipboard) (7) · [Json ✦](#json) (6) · [Between ✦](#between) (6) · [General](#general) (29)
 
 *✦ auto-discovered topic group*
 
@@ -102,6 +102,7 @@
 | [Hexlify](https://github.com/raycast/extensions/tree/main/extensions/hexlify) | 1,359 | Convert between hex and binary representations | gkpln3 | macOS | [store](https://www.raycast.com/gkpln3/hexlify) |
 | [ThermoConvert](https://github.com/raycast/extensions/tree/main/extensions/thermo-convert) | 54 | Instantly convert between all major temperature scales | kud | macOS, Windows | [store](https://www.raycast.com/kud/thermoconvert) |
 | [Coordinate Converter](https://github.com/raycast/extensions/tree/main/extensions/geoconverter) | 42 | Convert coordinates between geodetic and projected coordinate systems | kylinwowo | macOS | [store](https://www.raycast.com/kylinwowo/geoconverter) |
+| [Chmod Lookup](https://github.com/raycast/extensions/tree/main/extensions/chmod-lookup) | 0 | Convert Unix permissions between numeric (octal) and symbolic notation | taha_harradi | macOS, Windows | [store](https://www.raycast.com/taha_harradi/chmod-lookup) |
 
 ## General
 

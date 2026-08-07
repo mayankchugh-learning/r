@@ -2,12 +2,13 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · **T** · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-117 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+118 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [Taewenn](https://www.raycast.com/Taewenn) | 1 | 41 | **Productivity:** [Odoo Companion](https://github.com/raycast/extensions/tree/main/extensions/odoo-companion) |
 | [tafhyseni](https://www.raycast.com/tafhyseni) | 1 | 1,316 | **Developer Tools:** [Laravel Livewire](https://github.com/raycast/extensions/tree/main/extensions/laravel-livewire) |
+| [taha_harradi](https://www.raycast.com/taha_harradi) | 1 | 0 | **Developer Tools:** [Chmod Lookup](https://github.com/raycast/extensions/tree/main/extensions/chmod-lookup) |
 | [tahazahit](https://www.raycast.com/tahazahit) | 1 | 175 | **Developer Tools:** [Cron Manager](https://github.com/raycast/extensions/tree/main/extensions/cron-manager) |
 | [tai](https://www.raycast.com/tai) | 1 | 5 | **Productivity:** [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) |
 | [tailscale](https://www.raycast.com/tailscale) | 1 | 13,738 | **Developer Tools:** [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) |
@@ -63,7 +64,7 @@
 | [thijsdewitt](https://www.raycast.com/thijsdewitt) | 1 | 144 | **Developer Tools:** [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) |
 | [third774](https://www.raycast.com/third774) | 3 | 60,950 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,441 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,091,141 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,091,142 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 36 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 55,625 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,387 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |

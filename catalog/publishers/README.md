@@ -1,6 +1,6 @@
 # Publishers
 
-2101 publishers · [← catalog index](../README.md)
+2102 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,091,141 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,091,142 |
 | 2 | [raycast](./id/raycast.md) | 11 | 779,696 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 657,945 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 489,441 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 657,946 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 489,443 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 434,776 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 429,585 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 403,556 |
@@ -2104,8 +2104,9 @@
 | 2094 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2095 | [ruslan-korneev](https://www.raycast.com/ruslan-korneev) | 1 | 0 |
 | 2096 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2097 | [vbrs](https://www.raycast.com/vbrs) | 1 | 0 |
-| 2098 | github-next | 2 | — |
-| 2099 | buffer | 1 | — |
-| 2100 | multi | 1 | — |
-| 2101 | sharat_visweswara | 1 | — |
+| 2097 | [taha_harradi](https://www.raycast.com/taha_harradi) | 1 | 0 |
+| 2098 | [vbrs](https://www.raycast.com/vbrs) | 1 | 0 |
+| 2099 | github-next | 2 | — |
+| 2100 | buffer | 1 | — |
+| 2101 | multi | 1 | — |
+| 2102 | sharat_visweswara | 1 | — |

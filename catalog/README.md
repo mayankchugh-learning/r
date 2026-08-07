@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every extension in [raycast/extensions](https://github.com/raycast/extensions).
 
-**3156** extensions · **17** categories · **2101** publishers
+**3157** extensions · **17** categories · **2102** publishers
 
 ## Browse
 
@@ -10,8 +10,8 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 | --- | --- |
 | [By downloads](./ranked/README.md) | every extension ranked by installs |
 | [By category](./categories/README.md) | 17 categories → curated subcategories → auto-discovered topic groups (✦), nested as deep as the data supports |
-| [By platform](./platforms/README.md) | macOS (3124) · Windows (832) · cross-platform (800), each by category |
-| [By publisher](./publishers/README.md) | 2101 publishers, sortable by downloads or extension count; big publishers get their own page |
+| [By platform](./platforms/README.md) | macOS (3125) · Windows (833) · cross-platform (801), each by category |
+| [By publisher](./publishers/README.md) | 2102 publishers, sortable by downloads or extension count; big publishers get their own page |
 | [Alphabetical](./alphabetical/0-9.md) | every extension, A–Z |
 | [Changelog](./CHANGELOG.md) | upstream additions, updates, removals per sync |
 
@@ -22,7 +22,7 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 | Section | Categories | Extensions |
 | --- | --- | --- |
 | Work & Productivity | Productivity, Applications, Communication | 1,670 |
-| Development | Developer Tools, AI, Documentation, Data, Security | 1,394 |
+| Development | Developer Tools, AI, Documentation, Data, Security | 1,395 |
 | Creative & Media | Design Tools, Media | 415 |
 | Web, Finance & News | Web, Finance, News | 658 |
 | System & Utilities | System, Other | 433 |

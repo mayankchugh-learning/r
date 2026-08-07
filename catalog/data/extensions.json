@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6c1114db3bba7262b0d66e0ffafd6acf7c4f9427",
-  "generatedAt": "2026-08-07T04:32:35.461Z",
-  "downloadsRefreshedAt": "2026-08-07T04:32:34.691Z",
-  "count": 3156,
+  "commit": "997cfc28621c07dfd92223e87a5b736c73697ec8",
+  "generatedAt": "2026-08-07T04:35:27.446Z",
+  "downloadsRefreshedAt": "2026-08-07T04:35:26.320Z",
+  "count": 3157,
   "extensions": [
     {
       "dir": "0x0",
@@ -7539,6 +7539,27 @@
       "downloads": 353
     },
     {
+      "dir": "chmod-lookup",
+      "name": "chmod-lookup",
+      "title": "Chmod Lookup",
+      "description": "Convert Unix permissions between numeric (octal) and symbolic notation",
+      "author": "taha_harradi",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/taha_harradi/chmod-lookup",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/chmod-lookup",
+      "treeSha": "b45a3a24b561b598a389a5b655fad6336526789a",
+      "downloads": 0
+    },
+    {
       "dir": "choose-a-license",
       "name": "choose-a-license",
       "title": "Choose a License",
@@ -9513,7 +9534,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 500721
+      "downloads": 500722
     },
     {
       "dir": "color-shades",
@@ -21509,7 +21530,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 489441
+      "downloads": 489443
     },
     {
       "dir": "google-chrome-profiles",
@@ -27745,7 +27766,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 657945
+      "downloads": 657946
     },
     {
       "dir": "kimai",
