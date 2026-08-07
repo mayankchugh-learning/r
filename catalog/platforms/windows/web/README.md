@@ -1,8 +1,8 @@
 # Windows · Web
 
-129 extensions · [← Windows](../README.md)
+130 extensions · [← Windows](../README.md)
 
-[AI Services](#ai-services) (12) · [Social & Communities](#social-communities) (5) · [Search Engines](#search-engines) (46) · [Bookmarks & Read Later](#bookmarks-read-later) (1) · [URL & Domain Tools](#url-domain-tools) (18) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
+[AI Services](#ai-services) (12) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (46) · [Bookmarks & Read Later](#bookmarks-read-later) (1) · [URL & Domain Tools](#url-domain-tools) (18) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
 
 ## Browse & Search
 
@@ -135,6 +135,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,760 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,159 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
+| [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) | 1,740 | Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon. | typefully (org) | macOS, Windows | [store](https://www.raycast.com/typefully/typefully) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 634 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 618 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
 | [AntiSocials](https://github.com/raycast/extensions/tree/main/extensions/antisocials) | 108 | Open social media URLs via privacy-friendly frontends (X, Instagram) | danny_vogel | macOS, Windows | [store](https://www.raycast.com/danny_vogel/antisocials) |

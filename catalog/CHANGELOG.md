@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-07 — upstream `cf2a86f962`
+
+**Updated (1):** [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully)
+
 ## 2026-08-07 — upstream `e6150a43a8`
 
 **Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e6150a43a85155f8c4b967c7df73a0617aa6fb80",
-  "generatedAt": "2026-08-07T06:13:29.871Z",
-  "downloadsRefreshedAt": "2026-08-07T06:13:29.163Z",
+  "commit": "cf2a86f9629c3e17755d9ef717b44ac6938edcc5",
+  "generatedAt": "2026-08-07T06:21:25.210Z",
+  "downloadsRefreshedAt": "2026-08-07T06:21:24.936Z",
   "count": 3157,
   "extensions": [
     {
@@ -9534,7 +9534,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 500761
+      "downloads": 500768
     },
     {
       "dir": "color-shades",
@@ -20612,7 +20612,7 @@
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
       "treeSha": "0cf1c128d3bef792697c25ba0d1a8cb10ada6152",
-      "downloads": 179888
+      "downloads": 179898
     },
     {
       "dir": "github-cli-manual",
@@ -21530,7 +21530,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 489481
+      "downloads": 489486
     },
     {
       "dir": "google-chrome-profiles",
@@ -27766,7 +27766,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 657993
+      "downloads": 658001
     },
     {
       "dir": "kimai",
@@ -59690,11 +59690,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/typefully/typefully",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/typefully",
-      "treeSha": "d61801f34f80331fb99691343571acbdbab5b9f6",
+      "treeSha": "2ca0749419648a3d80f1034c5af052f600d6bd81",
       "downloads": 1740
     },
     {
