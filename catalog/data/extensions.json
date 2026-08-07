@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5a7b50857570b0e1aa35a434c6da2016b5ea7c48",
-  "generatedAt": "2026-08-07T04:27:35.745Z",
-  "downloadsRefreshedAt": "2026-08-07T04:27:35.321Z",
+  "commit": "54db602f8e77e881f5a12eca341af19e4d2ed255",
+  "generatedAt": "2026-08-07T04:30:19.484Z",
+  "downloadsRefreshedAt": "2026-08-07T04:30:19.210Z",
   "count": 3156,
   "extensions": [
     {
@@ -21509,7 +21509,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 489436
+      "downloads": 489438
     },
     {
       "dir": "google-chrome-profiles",
@@ -27745,7 +27745,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 657941
+      "downloads": 657942
     },
     {
       "dir": "kimai",
@@ -43615,8 +43615,8 @@
     {
       "dir": "publico",
       "name": "publico",
-      "title": "Publico",
-      "description": "A Raycast extension to receive the latest news from Público, keeping you informed in real time directly from your command bar.",
+      "title": "Público",
+      "description": "Browse, search, and read the latest news from Público directly from your command bar.",
       "author": "caasols",
       "owner": null,
       "contributors": 0,
@@ -43630,7 +43630,7 @@
       ],
       "store": "https://www.raycast.com/caasols/publico",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/publico",
-      "treeSha": "dd78b5b2b394e500511083f0a1f164de3ed9090b",
+      "treeSha": "8eb604daecce87fcec2254d587ac9aadccf1c82b",
       "downloads": 14
     },
     {

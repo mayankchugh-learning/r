@@ -31,7 +31,7 @@
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 525 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [Music News](https://github.com/raycast/extensions/tree/main/extensions/music-news) | 20 | Read the latest music news from various sources. | acler | macOS, Windows | [store](https://www.raycast.com/acler/music-news) |
 | [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) | 14 | Latest important cyber security news, ranked by severity. | goran_breivik | macOS, Windows | [store](https://www.raycast.com/goran_breivik/cyber-security-pulse) |
-| [Publico](https://github.com/raycast/extensions/tree/main/extensions/publico) | 14 | A Raycast extension to receive the latest news from Público, keeping you informed in real time directly from your command bar. | caasols | macOS, Windows | [store](https://www.raycast.com/caasols/publico) |
+| [Público](https://github.com/raycast/extensions/tree/main/extensions/publico) | 14 | Browse, search, and read the latest news from Público directly from your command bar. | caasols | macOS, Windows | [store](https://www.raycast.com/caasols/publico) |
 
 ### Markets & Predictions
 

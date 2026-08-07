@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-07 — upstream `54db602f8e`
+
+**Updated (1):** [Público](https://github.com/raycast/extensions/tree/main/extensions/publico)
+
 ## 2026-08-07 — upstream `5a7b508575`
 
 **Updated (1):** [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions)
