@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "54db602f8e77e881f5a12eca341af19e4d2ed255",
-  "generatedAt": "2026-08-07T04:30:19.484Z",
-  "downloadsRefreshedAt": "2026-08-07T04:30:19.210Z",
+  "commit": "6c1114db3bba7262b0d66e0ffafd6acf7c4f9427",
+  "generatedAt": "2026-08-07T04:32:35.461Z",
+  "downloadsRefreshedAt": "2026-08-07T04:32:34.691Z",
   "count": 3156,
   "extensions": [
     {
@@ -9513,7 +9513,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 500720
+      "downloads": 500721
     },
     {
       "dir": "color-shades",
@@ -21509,7 +21509,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 489438
+      "downloads": 489441
     },
     {
       "dir": "google-chrome-profiles",
@@ -21744,7 +21744,7 @@
       ],
       "store": "https://www.raycast.com/vitoorgomes/google-meet",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-meet",
-      "treeSha": "3427195977ea41622bb6f133411c51659b8b84e9",
+      "treeSha": "5966c710185e09ce34cfc5f743e1c984c5aec1ce",
       "downloads": 31945
     },
     {
@@ -27745,7 +27745,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 657942
+      "downloads": 657945
     },
     {
       "dir": "kimai",
