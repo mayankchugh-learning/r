@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-07 — upstream `e3c3809358`
+
+**Updated (1):** [Snippet Surfer](https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer)
+
 ## 2026-08-07 — upstream `21fab9d497`
 
 **Updated (1):** [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun)

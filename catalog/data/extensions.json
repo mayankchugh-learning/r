@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "21fab9d4972173e8e49dad7976128bfef638da91",
-  "generatedAt": "2026-08-07T08:50:40.791Z",
-  "downloadsRefreshedAt": "2026-08-07T08:50:40.411Z",
+  "commit": "e3c380935826b3350fbdb7da7eb6ec5dd83bebec",
+  "generatedAt": "2026-08-07T10:10:54.628Z",
+  "downloadsRefreshedAt": "2026-08-07T10:10:53.821Z",
   "count": 3157,
   "extensions": [
     {
@@ -9534,7 +9534,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 500852
+      "downloads": 500880
     },
     {
       "dir": "color-shades",
@@ -21530,7 +21530,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 489584
+      "downloads": 489622
     },
     {
       "dir": "google-chrome-profiles",
@@ -27766,7 +27766,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 658094
+      "downloads": 658131
     },
     {
       "dir": "kimai",
@@ -52761,7 +52761,7 @@
       "description": "SnippetSurfer is a Raycast extension designed to swiftly navigate through snippets of information. You can effortlessly skim through text excerpts, code snippets, or any other brief segments of content and copy them to the clipboard. The snippets are read from a folder of markdown or yaml files.",
       "author": "astronight",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Developer Tools"
       ],
@@ -52771,7 +52771,7 @@
       ],
       "store": "https://www.raycast.com/astronight/snippetsurfer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer",
-      "treeSha": "9b77013d0a78da92a223340b737f31266a0ca1bf",
+      "treeSha": "2e7e7f5ebdf44196b27780e33054471fd754aaa7",
       "downloads": 1426
     },
     {
