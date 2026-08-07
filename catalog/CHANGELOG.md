@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-07 — upstream `21fab9d497`
+
+**Updated (1):** [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun)
+
 ## 2026-08-07 — upstream `9e9458444d`
 
 **Updated (1):** [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs)
