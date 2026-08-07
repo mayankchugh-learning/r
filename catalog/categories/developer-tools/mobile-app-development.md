@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,055 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,060 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
 | [Swift Package Index](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) | 815 | Search for Swift Packages via https://swiftpackageindex.com | maximkrouk | macOS | [store](https://www.raycast.com/maximkrouk/swift-package-index) |
 | [Hephaestus - JSON Tools](https://github.com/raycast/extensions/tree/main/extensions/hephaestus) | 214 | A collection of useful developer tools and utilities, including JSON to Swift, Objective-C, TypeScript, and more. | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/hephaestus) |
 | [Swift REPL](https://github.com/raycast/extensions/tree/main/extensions/swift-repl) | 206 | Run lil swift snippets | nakajima | macOS | [store](https://www.raycast.com/nakajima/swift-repl) |
@@ -42,9 +42,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,427 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
+| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,431 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
 | [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) | 2,715 | Airport is the best place to discover new TestFlight apps from developers. | siddharthsharma94 | macOS | [store](https://www.raycast.com/siddharthsharma94/airport) |
-| [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) | 1,601 | Adds commands to control the Alacritty terminal emulator. | jose-elias-alvarez | macOS | [store](https://www.raycast.com/jose-elias-alvarez/alacritty) |
+| [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) | 1,602 | Adds commands to control the Alacritty terminal emulator. | jose-elias-alvarez | macOS | [store](https://www.raycast.com/jose-elias-alvarez/alacritty) |
 | [Simulator Control](https://github.com/raycast/extensions/tree/main/extensions/simctl) | 1,392 | Control Apple Simulator devices | noppefoxwolf | macOS | [store](https://www.raycast.com/noppefoxwolf/simulator-control) |
 | [iOS Human Interface Guidelines](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) | 1,051 | Shows you the iOS HIG's info for quick reference | eliperkins | macOS | [store](https://www.raycast.com/eliperkins/raycast-ios-hig) |
 | [Xcodes](https://github.com/raycast/extensions/tree/main/extensions/xcodes) | 621 | Manage several versions of Xcode | pacadil | macOS | [store](https://www.raycast.com/adil.dev/xcodes) |

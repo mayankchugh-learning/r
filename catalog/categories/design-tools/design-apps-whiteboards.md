@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 45,048 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
-| [Excalidraw](https://github.com/raycast/extensions/tree/main/extensions/excalidraw) | 1,528 | allow easy access to your excalidraw boards from Raycast! | slyguy5646 | macOS | [store](https://www.raycast.com/slyguy5646/excalidraw) |
+| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 45,063 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
+| [Excalidraw](https://github.com/raycast/extensions/tree/main/extensions/excalidraw) | 1,529 | allow easy access to your excalidraw boards from Raycast! | slyguy5646 | macOS | [store](https://www.raycast.com/slyguy5646/excalidraw) |
 | [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch) | 907 | Frictionless Workspace Browsing | aesign | macOS | [store](https://www.raycast.com/aesign/sketch) |
 | [Figma Variables](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) | 730 | Access Figma variables in Raycast | martin_molcrette | macOS | [store](https://www.raycast.com/martin_molcrette/figma-variables) |
-| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 343 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
+| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 344 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
 | [Framer Motion](https://github.com/raycast/extensions/tree/main/extensions/framer-motion) | 329 | Documentation for Framer Motion | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/framer-motion) |
 | [Zeplin Project Search](https://github.com/raycast/extensions/tree/main/extensions/zeplin-project-search) | 275 | List and Search Zeplin Projects | dorukgunes | macOS | [store](https://www.raycast.com/dorukgunes/zeplin-project-raycast-extension) |
 | [Motion Preview](https://github.com/raycast/extensions/tree/main/extensions/raycast-motion-preview) | 241 | Preview Lottie and Rive Animations in Raycast | ayarse | macOS | [store](https://www.raycast.com/ayarse/raycast-motion-preview) |

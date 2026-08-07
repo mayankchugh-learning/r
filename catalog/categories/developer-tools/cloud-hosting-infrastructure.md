@@ -10,17 +10,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,275 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
-| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,310 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
-| [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,106 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
-| [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,579 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
-| [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,410 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,278 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,317 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
+| [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,110 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
+| [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,580 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
+| [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,412 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
 | [Fastly Domain Search](https://github.com/raycast/extensions/tree/main/extensions/domainr) | 2,008 | Search domains availability with Fastly Domain Research API | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/domainr) |
 | [Short.io](https://github.com/raycast/extensions/tree/main/extensions/short-io) | 1,162 | Shorten and search links with your own domain via Short.io | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/short-io) |
 | [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 842 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
-| [Render](https://github.com/raycast/extensions/tree/main/extensions/render) | 413 | View your Render services, deploys, and custom domains | destiner | macOS | [store](https://www.raycast.com/destiner/render) |
+| [Render](https://github.com/raycast/extensions/tree/main/extensions/render) | 414 | View your Render services, deploys, and custom domains | destiner | macOS | [store](https://www.raycast.com/destiner/render) |
 | [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 262 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
-| [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 244 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
+| [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 245 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
 | [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 84 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
 | [Query.Domains](https://github.com/raycast/extensions/tree/main/extensions/query-domains) | 76 | Check domain WHOIS, availability, traffic, and tech stack in one place | nextwalkerovo | macOS, Windows | [store](https://www.raycast.com/nextwalkerovo/query-domains) |
 | [Host.io](https://github.com/raycast/extensions/tree/main/extensions/host-io) | 45 | A Powerful and Fast Domain Name Data API | xmok | macOS | [store](https://www.raycast.com/xmok/host-io) |
@@ -33,16 +33,16 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,124 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
+| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,125 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
 | [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,375 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
 | [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,338 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
-| [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,115 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
+| [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,118 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
 | [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 516 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
 | [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi) | 469 | View and manage your ploi.io servers and sites | ploi (org) | macOS | [store](https://www.raycast.com/ploi/ploi) |
 | [Sendme File Share](https://github.com/raycast/extensions/tree/main/extensions/sendme) | 311 | Send and receive files peer-to-peer directly from Raycast with no intermediary servers or accounts required | nazif_ishrak | macOS | [store](https://www.raycast.com/nazif_ishrak/sendme) |
 | [Simple Http](https://github.com/raycast/extensions/tree/main/extensions/simple-http) | 164 | A simplistic local Http server | roele | macOS | [store](https://www.raycast.com/roele/simple-http) |
 | [Geoping](https://github.com/raycast/extensions/tree/main/extensions/geoping) | 127 | Pings servers around the globe | chiroyce | macOS | [store](https://www.raycast.com/chiroyce/geoping) |
-| [Hop](https://github.com/raycast/extensions/tree/main/extensions/hop) | 114 | Fast, elegant SSH connection manager. Fuzzy search and connect to servers from your hop config. | danmartuszewski | macOS | [store](https://www.raycast.com/danmartuszewski/hop) |
+| [Hop](https://github.com/raycast/extensions/tree/main/extensions/hop) | 115 | Fast, elegant SSH connection manager. Fuzzy search and connect to servers from your hop config. | danmartuszewski | macOS | [store](https://www.raycast.com/danmartuszewski/hop) |
 | [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers) | 108 | Project-grouped dashboard for every dev server running on your Mac. Start, restart, and kill them without leaving Raycast, with the framework (Next, Svelte, As… | tavlean | macOS | [store](https://www.raycast.com/tavlean/dev-servers) |
 | [Rsync File Transfer](https://github.com/raycast/extensions/tree/main/extensions/raycast-rsync-extension) | 100 | Transfer files between local and remote servers using rsync with SSH config integration | dytsou | macOS | [store](https://www.raycast.com/dytsou/raycast-rsync-extension) |
 | [Atomic Data](https://github.com/raycast/extensions/tree/main/extensions/atomic) | 86 | Search inside your Atomic-Server data | joepio | macOS | [store](https://www.raycast.com/joepio/atomic) |
@@ -56,8 +56,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,727 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
-| [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) | 4,008 | DNS lookup and nameserver query using the built-in host command | danielbahl | macOS | [store](https://www.raycast.com/danielbahl/dig) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,728 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) | 4,013 | DNS lookup and nameserver query using the built-in host command | danielbahl | macOS | [store](https://www.raycast.com/danielbahl/dig) |
 | [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) | 283 | Check DNS propagation instantly. | valentin_denis | macOS, Windows | [store](https://www.raycast.com/valentin_denis/dns-lookup) |
 | [FreeDNS](https://github.com/raycast/extensions/tree/main/extensions/freedns) | 199 | View and Change your DNS in freedns.afraid.org | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/freedns) |
 | [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) | 105 | Analyze and visualize HTTP/HTTPS request performance metrics including DNS lookup, TCP connection, TLS handshake, and content transfer times | liluo | macOS | [store](https://www.raycast.com/liluo/httpperf) |
@@ -69,7 +69,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,373 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
+| [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,375 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
 | [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud) | 757 | A lightweight Raycast extension for managing Google Cloud resources efficiently. Access and control your GCP projects, services, IAM, storage, and more—all wit… | ojowwalker77 | macOS, Windows | [store](https://www.raycast.com/ojowwalker77/g-cloud) |
 | [Copy GCP Icons](https://github.com/raycast/extensions/tree/main/extensions/copy-gcp-icons) | 450 | Copy Product Icons from Google Cloud Platform to Clipboard. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/copy-gcp-icons) |
 | [Google Cloud Run](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-run) | 244 | Commands for Google Cloud Run | bhavya_muni | macOS | [store](https://www.raycast.com/bhavya_muni/google-cloud-run) |
@@ -94,17 +94,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 9,808 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
-| [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,398 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
+| [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 9,809 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
+| [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,400 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
 | [Terraform Doc](https://github.com/raycast/extensions/tree/main/extensions/terraform-doc) | 871 | Quickly access Terraform resources | shopping-jaws | macOS | [store](https://www.raycast.com/shopping-jaws/terraform-doc) |
-| [DigitalOcean](https://github.com/raycast/extensions/tree/main/extensions/digitalocean) | 601 | Quickly find resources in your DigitalOcean team | shukantpal | macOS | [store](https://www.raycast.com/shukantpal/digitalocean) |
+| [DigitalOcean](https://github.com/raycast/extensions/tree/main/extensions/digitalocean) | 603 | Quickly find resources in your DigitalOcean team | shukantpal | macOS | [store](https://www.raycast.com/shukantpal/digitalocean) |
 
 ## Docker ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,918 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,930 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 45,935 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,933 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
 | [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 804 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
 | [Laravel Shift for Docker](https://github.com/raycast/extensions/tree/main/extensions/laravel-shift) | 123 | Run any of the Shifts for Laravel, Lumen, PHP, Django, and Tailwind completely locally using Raycast. | denniseilander | macOS | [store](https://www.raycast.com/denniseilander/laravel-shift) |
 
@@ -113,14 +113,14 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,805 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
-| [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,183 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
+| [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,184 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
 | [Kubernetes](https://github.com/raycast/extensions/tree/main/extensions/kubernetes) | 972 | Kubernetes Client in Raycast | justin0u0 | macOS | [store](https://www.raycast.com/justin0u0/kubernetes) |
 | [kubens](https://github.com/raycast/extensions/tree/main/extensions/kubens) | 768 | Switch between Kubernetes namespaces | ChrisKohler | macOS | [store](https://www.raycast.com/ChrisKohler/kubens) |
 | [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 515 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
-| [Railway Project Search](https://github.com/raycast/extensions/tree/main/extensions/railway) | 505 | Search and navigate to your Railway projects | coffee-cup | macOS | [store](https://www.raycast.com/coffee-cup/railway) |
+| [Railway Project Search](https://github.com/raycast/extensions/tree/main/extensions/railway) | 506 | Search and navigate to your Railway projects | coffee-cup | macOS | [store](https://www.raycast.com/coffee-cup/railway) |
 | [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 486 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
 | [Fly.io](https://github.com/raycast/extensions/tree/main/extensions/raycast-fly) | 321 | View and modify your Fly.io applications | devuo | macOS | [store](https://www.raycast.com/devuo/raycast-fly) |
-| [v0 by Vercel](https://github.com/raycast/extensions/tree/main/extensions/v0-by-vercel) | 281 | Create, view and manage your v0 chats within Raycast | vercel (org) | macOS | [store](https://www.raycast.com/vercel/v0-by-vercel) |
+| [v0 by Vercel](https://github.com/raycast/extensions/tree/main/extensions/v0-by-vercel) | 282 | Create, view and manage your v0 chats within Raycast | vercel (org) | macOS | [store](https://www.raycast.com/vercel/v0-by-vercel) |
 | [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) | 270 | Interact with teleport, the open infrastructure access platform | lamberttraccard | macOS | [store](https://www.raycast.com/lamberttraccard/teleport) |
 | [Manage Firebase Firestore Collections](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) | 187 | Extension to export and import Firestore Collections (backup and restore). Including using Spark (free) subscription. | mguyard | macOS | [store](https://www.raycast.com/mguyard/firebase-import-export) |
 | [Cloudflare R2 File Uploader](https://github.com/raycast/extensions/tree/main/extensions/r2-uploader) | 149 | Upload any files to Cloudflare R2 with optional AVIF conversion for images. After upload, the URL or Markdown link will be copied to clipboard. | Silas | macOS | [store](https://www.raycast.com/silas/r2-uploader) |

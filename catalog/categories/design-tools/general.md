@@ -4,15 +4,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,722 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 36,930 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
-| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,479 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
-| [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,062 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
-| [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,127 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,659 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
-| [Converter](https://github.com/raycast/extensions/tree/main/extensions/converter) | 4,247 | Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/converter) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 95,767 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 36,958 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,489 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
+| [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,063 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
+| [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,133 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,662 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [Converter](https://github.com/raycast/extensions/tree/main/extensions/converter) | 4,249 | Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/converter) |
 | [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,381 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
-| [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,770 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
+| [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,771 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
 | [Apple Devices](https://github.com/raycast/extensions/tree/main/extensions/apple-devices) | 2,747 | Quickly look up Apple Devices and control Simulators | madza | macOS | [store](https://www.raycast.com/madza/apple-devices) |
 | [Typographer: Make Text Pretty](https://github.com/raycast/extensions/tree/main/extensions/typographer) | 1,913 | Make the typography of your text pretty: fix quotes, dashes, and spaces. Works offline. | mikeozornin | macOS | [store](https://www.raycast.com/mikeozornin/typographer) |
 | [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,427 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
@@ -24,7 +24,7 @@
 | [Paper](https://github.com/raycast/extensions/tree/main/extensions/paper) | 503 | Create and organize your ideas, work, etc., in Markdown files by category. | luctst | macOS | [store](https://www.raycast.com/luctst/paper) |
 | [Popicons](https://github.com/raycast/extensions/tree/main/extensions/popicons) | 288 | Browse and copy Popicons | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/popicons) |
 | [Hipster Ipsum](https://github.com/raycast/extensions/tree/main/extensions/hipster-ipsum) | 210 | Generate placeholder content using the official Hipster Ipsum API | plev | macOS | [store](https://www.raycast.com/plev/hipster-ipsum) |
-| [Thingiverse](https://github.com/raycast/extensions/tree/main/extensions/thingiverse) | 191 | Browse Thingiverse | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/thingiverse) |
+| [Thingiverse](https://github.com/raycast/extensions/tree/main/extensions/thingiverse) | 192 | Browse Thingiverse | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/thingiverse) |
 | [Smallpdf](https://github.com/raycast/extensions/tree/main/extensions/smallpdf) | 161 | Quick access to all the Smallpdf tools | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/smallpdf) |
 | [SVGA Player](https://github.com/raycast/extensions/tree/main/extensions/svga-player) | 117 | Play SVGA animations with ease | liaoyuan_ju | macOS | [store](https://www.raycast.com/liaoyuan_ju/svga-player) |
 | [Japanese Lorem Ipsum Generator](https://github.com/raycast/extensions/tree/main/extensions/lipsum) | 113 | Generate Japanese / English dummy text | seita1996 | macOS | [store](https://www.raycast.com/seita1996/lipsum) |

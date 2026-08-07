@@ -15,13 +15,13 @@
 | [PHP Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/php-docs) | 1,901 | Quickly search through official PHP documentation | comes | macOS | [store](https://www.raycast.com/comes/php-docs) |
 | [Search Astro Documentation](https://github.com/raycast/extensions/tree/main/extensions/search-astro-docs) | 750 | Search the Astro Documentation right from Raycast | ElianCodes | macOS | [store](https://www.raycast.com/ElianCodes/search-astro-docs) |
 | [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 645 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
-| [MUI Documentation](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) | 534 | Search the online MUI documentation. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/mui-documentation) |
+| [MUI Documentation](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) | 535 | Search the online MUI documentation. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/mui-documentation) |
 | [Spatie Documentation](https://github.com/raycast/extensions/tree/main/extensions/spatie-documentation) | 497 | Spatie Documentation Search | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/spatie-documentation) |
 | [Filament](https://github.com/raycast/extensions/tree/main/extensions/filamentphp-doc-seach) | 409 | Documentation Search | aurawindsurfing | macOS | [store](https://www.raycast.com/aurawindsurfing/filament) |
 | [Pest Documentation](https://github.com/raycast/extensions/tree/main/extensions/pestphp-documentation) | 378 | Pest Documentation Search | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/pestphp-documentation) |
 | [Helm Documentation](https://github.com/raycast/extensions/tree/main/extensions/helm-docs) | 366 | Quickly search through the Helm docs directly from Raycast. | tiagomichaelsousa | macOS | [store](https://www.raycast.com/tiagomichaelsousa/helm-docs) |
 | [Shopify Liquid Documentation](https://github.com/raycast/extensions/tree/main/extensions/search-shopify-liquid-documentation) | 364 | Search Shopify's Liquid Documentation Directly From Raycast | maximedaraize | macOS | [store](https://www.raycast.com/maximedaraize/search-shopify-liquid-documentation) |
-| [Discord.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/discordjs-documentation) | 330 | Quickly search through discord.js documentation. | mah51 | macOS | [store](https://www.raycast.com/mah51/discordjs-documentation) |
+| [Discord.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/discordjs-documentation) | 332 | Quickly search through discord.js documentation. | mah51 | macOS | [store](https://www.raycast.com/mah51/discordjs-documentation) |
 | [Framer Motion](https://github.com/raycast/extensions/tree/main/extensions/framer-motion) | 329 | Documentation for Framer Motion | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/framer-motion) |
 | [InertiaJS Documentation](https://github.com/raycast/extensions/tree/main/extensions/inertiajs-documentation) | 319 | InertiaJS Documentation Search | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/inertiajs-documentation) |
 | [CrawlDoc - Documentations Search Engine](https://github.com/raycast/extensions/tree/main/extensions/crawldoc) | 297 | Allow searching through multiple documentations platforms | johan-perso | macOS | [store](https://www.raycast.com/johan-perso/crawldoc) |
@@ -51,7 +51,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 18,163 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
+| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 18,169 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
 | [Laravel Nova](https://github.com/raycast/extensions/tree/main/extensions/laravel-nova) | 341 | Laravel Nova Docs | plank-dev | macOS | [store](https://www.raycast.com/plank-dev/laravel-nova) |
 | [Pinia Docs](https://github.com/raycast/extensions/tree/main/extensions/pinia-docs) | 53 | Quickly search Pinia docs from Raycast | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/pinia-docs) |
 | [Roblox Creator Docs](https://github.com/raycast/extensions/tree/main/extensions/roblox-creator-docs) | 40 | Fast look-up for Roblox Creator Docs | ben_rowlands | macOS, Windows | [store](https://www.raycast.com/ben_rowlands/roblox-creator-docs) |
@@ -61,8 +61,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 12,369 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
-| [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 4,592 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
+| [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 12,373 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
+| [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 4,594 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
 | [Opera](https://github.com/raycast/extensions/tree/main/extensions/opera) | 929 | Search open tabs, bookmarks and history in Opera. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/opera) |
 | [Mozeidon](https://github.com/raycast/extensions/tree/main/extensions/mozeidon) | 764 | Search, open tabs and bookmarks in Firefox via Mozeidon add-on | egovelox | macOS | [store](https://www.raycast.com/egovelox/mozeidon) |
 | [Iridium](https://github.com/raycast/extensions/tree/main/extensions/iridium) | 55 | Search open tabs, bookmarks and history in Iridium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/iridium) |
@@ -71,9 +71,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 38,550 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
-| [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 9,894 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
-| [Cheatsheets Remastered](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets-remastered) | 1,095 | A remastered Cheatsheets extension with enhanced functionality, custom sheet creation, and an improved browsing experience. | smcnab1 | macOS | [store](https://www.raycast.com/smcnab1/cheatsheets-remastered) |
+| [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 38,562 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
+| [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 9,896 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
+| [Cheatsheets Remastered](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets-remastered) | 1,096 | A remastered Cheatsheets extension with enhanced functionality, custom sheet creation, and an improved browsing experience. | smcnab1 | macOS | [store](https://www.raycast.com/smcnab1/cheatsheets-remastered) |
 | [Big-O](https://github.com/raycast/extensions/tree/main/extensions/big-o) | 139 | A cheatsheet for Big-O notation | shayneo | macOS | [store](https://www.raycast.com/shayneo/big-o) |
 | [Strftime Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/strftime-cheatsheet) | 116 | Search strftime codes, meanings and examples | antonengelhardt | macOS | [store](https://www.raycast.com/antonengelhardt/strftime-cheatsheet) |
 
@@ -81,8 +81,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 13,319 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
-| [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity) | 3,249 | Control Antigravity directly from Raycast - Search and open recent projects, handle extensions and commands. | meshal | macOS | [store](https://www.raycast.com/meshal/antigravity) |
+| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 13,337 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
+| [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity) | 3,252 | Control Antigravity directly from Raycast - Search and open recent projects, handle extensions and commands. | meshal | macOS | [store](https://www.raycast.com/meshal/antigravity) |
 | [Kiro](https://github.com/raycast/extensions/tree/main/extensions/kiro) | 451 | Control Kiro directly from Raycast - Search and open recent projects, handle extensions and commands. | jyothish-ram | macOS | [store](https://www.raycast.com/jyothish-ram/kiro) |
 | [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) | 144 | Search for envoyer projects, start new deploys and view recent deployments | thijsdewitt | macOS | [store](https://www.raycast.com/thijsdewitt/envoyer) |
 | [IBM Bob](https://github.com/raycast/extensions/tree/main/extensions/ibm-bob-recent-projects) | 3 | Control IBM Bob directly from Raycast - Search and open recent projects, handle extensions and commands. | fbuetler | macOS | [store](https://www.raycast.com/fbuetler/ibm-bob-recent-projects) |
@@ -91,7 +91,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) | 881 | Analyze disk space usage and identify large files and folders in your home directory | easymikey | macOS | [store](https://www.raycast.com/easymikey/disk-usage) |
+| [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) | 882 | Analyze disk space usage and identify large files and folders in your home directory | easymikey | macOS | [store](https://www.raycast.com/easymikey/disk-usage) |
 | [WordPress Plugins](https://github.com/raycast/extensions/tree/main/extensions/wordpress-plugins) | 598 | Search and download plugins from the WordPress Plugin Directory. | edmundcwm | macOS | [store](https://www.raycast.com/edmundcwm/wordpress-plugins) |
 | [Open in Trae](https://github.com/raycast/extensions/tree/main/extensions/open-in-trae) | 250 | Open current Finder directory, selected folder or file in Trae. | haroldao | macOS | [store](https://www.raycast.com/haroldao/open-in-trae) |
 | [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) | 93 | Search APIs Guru, the largest public directory of APIs. | zebapy | macOS, Windows | [store](https://www.raycast.com/zebapy/apis-guru-search) |
@@ -100,7 +100,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [OpenCode Sessions](https://github.com/raycast/extensions/tree/main/extensions/opencode-sessions) | 834 | Browse, search, and manage your OpenCode sessions | mike182uk | macOS | [store](https://www.raycast.com/mike182uk/opencode-sessions) |
+| [OpenCode Sessions](https://github.com/raycast/extensions/tree/main/extensions/opencode-sessions) | 837 | Browse, search, and manage your OpenCode sessions | mike182uk | macOS | [store](https://www.raycast.com/mike182uk/opencode-sessions) |
 | [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 25 | Browse and call contacts, control your active call, and search transcripts from your Tuple pair programming sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
 | [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | 2 | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | [store](https://www.raycast.com/THEN00P/heidisql-sessions) |
 | [PuTTY Sessions](https://github.com/raycast/extensions/tree/main/extensions/putty-sessions) | 0 | Search and launch your saved PuTTY sessions from Raycast. | THEN00P | Windows | [store](https://www.raycast.com/THEN00P/putty-sessions) |
@@ -109,22 +109,22 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) | 28,929 | Fuzzy search files in the mounted Google Drive | vishaltelangre | macOS | [store](https://www.raycast.com/vishaltelangre/google-drive) |
-| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 26,514 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
-| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,479 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
-| [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,127 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |
-| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,651 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) | 28,939 | Fuzzy search files in the mounted Google Drive | vishaltelangre | macOS | [store](https://www.raycast.com/vishaltelangre/google-drive) |
+| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 26,527 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
+| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,489 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
+| [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,133 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,652 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [LateX Math Symbols](https://github.com/raycast/extensions/tree/main/extensions/latex-math-symbols) | 4,296 | Search and copy LateX Math Symbols | JeffersonDing | macOS | [store](https://www.raycast.com/JeffersonDing/latex-math-symbols) |
-| [Heroicons](https://github.com/raycast/extensions/tree/main/extensions/heroicons) | 4,080 | Search and preview Heroicons | johndoe123789 | macOS | [store](https://www.raycast.com/johndoe123789/heroicons) |
+| [Heroicons](https://github.com/raycast/extensions/tree/main/extensions/heroicons) | 4,082 | Search and preview Heroicons | johndoe123789 | macOS | [store](https://www.raycast.com/johndoe123789/heroicons) |
 | [Search Linux Commands](https://github.com/raycast/extensions/tree/main/extensions/linux-command) | 3,669 | Search through linux commands and get detailed information in Chinese. | jaywcjlove | macOS | [store](https://www.raycast.com/jaywcjlove/linux-command) |
-| [NixPkgs Search](https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search) | 3,051 | Query NixPkgs like search.nixos.org | aiotter | macOS, Windows | [store](https://www.raycast.com/aiotter/nixpkgs-search) |
-| [Man Pages](https://github.com/raycast/extensions/tree/main/extensions/man-pages) | 2,463 | Search through the macOS man pages | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/man-pages) |
-| [Fork Repositories](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) | 2,011 | Search and open Fork repositories | sxn | macOS, Windows | [store](https://www.raycast.com/sxn/fork-repositories) |
+| [NixPkgs Search](https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search) | 3,052 | Query NixPkgs like search.nixos.org | aiotter | macOS, Windows | [store](https://www.raycast.com/aiotter/nixpkgs-search) |
+| [Man Pages](https://github.com/raycast/extensions/tree/main/extensions/man-pages) | 2,464 | Search through the macOS man pages | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/man-pages) |
+| [Fork Repositories](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) | 2,012 | Search and open Fork repositories | sxn | macOS, Windows | [store](https://www.raycast.com/sxn/fork-repositories) |
 | [Font Search](https://github.com/raycast/extensions/tree/main/extensions/font-search) | 1,845 | Search locally installed fonts, as displayed in font book. | tnixc | macOS | [store](https://www.raycast.com/tnixc/font-search) |
 | [Awesome Mac](https://github.com/raycast/extensions/tree/main/extensions/awesome-mac) | 1,439 | Search Awesome Mac Things | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/awesome-mac) |
-| [Semantic Scholar](https://github.com/raycast/extensions/tree/main/extensions/semantic-scholar) | 1,146 | Search research papers on semantic scholar (semanticscholar.org) | blainerothrock | macOS | [store](https://www.raycast.com/blainerothrock/semantic-scholar) |
+| [Semantic Scholar](https://github.com/raycast/extensions/tree/main/extensions/semantic-scholar) | 1,148 | Search research papers on semantic scholar (semanticscholar.org) | blainerothrock | macOS | [store](https://www.raycast.com/blainerothrock/semantic-scholar) |
 | [Laravel Artisan](https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan) | 1,000 | View and search Laravel Artisan commands. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-artisan) |
-| [Search RubyGems](https://github.com/raycast/extensions/tree/main/extensions/search-rubygems) | 832 | A Raycast extension that enables you to quickly look up gem information from RubyGems.org. | aleks | macOS | [store](https://www.raycast.com/aleks/search-rubygems) |
+| [Search RubyGems](https://github.com/raycast/extensions/tree/main/extensions/search-rubygems) | 834 | A Raycast extension that enables you to quickly look up gem information from RubyGems.org. | aleks | macOS | [store](https://www.raycast.com/aleks/search-rubygems) |
 | [Specify](https://github.com/raycast/extensions/tree/main/extensions/specify) | 728 | Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc. | AllanM | macOS | [store](https://www.raycast.com/AllanM/specify) |
 | [VueUse Functions](https://github.com/raycast/extensions/tree/main/extensions/vueuse-functions) | 551 | Search VueUse functions | noopurphalak | macOS | [store](https://www.raycast.com/noopurphalak/vueuse-functions) |
 | [BetterDiscord Store](https://github.com/raycast/extensions/tree/main/extensions/betterdiscord-search) | 529 | Allows you to search and view BetterDiscord addons inside Raycast | TheCommieAxolotl | macOS | [store](https://www.raycast.com/TheCommieAxolotl/betterdiscord-store) |

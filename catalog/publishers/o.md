@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [o1y](https://www.raycast.com/o1y) | 1 | 19,547 | **Productivity:** [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) |
+| [o1y](https://www.raycast.com/o1y) | 1 | 19,559 | **Productivity:** [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) |
 | [obahareth](https://www.raycast.com/obahareth) | 1 | 344 | **Developer Tools:** [Ruby Evaluate](https://github.com/raycast/extensions/tree/main/extensions/ruby-evaluate) |
 | [ofalvai](https://www.raycast.com/ofalvai) | 1 | 429 | **Developer Tools:** [Bitrise](https://github.com/raycast/extensions/tree/main/extensions/bitrise) |
 | [oh-dear](https://www.raycast.com/oh-dear) | 1 | 173 | **Web:** [Oh Dear](https://github.com/raycast/extensions/tree/main/extensions/ohdear) |
@@ -43,7 +43,7 @@
 | [osteele](https://www.raycast.com/osteele) | 1 | 451 | **Uncategorized:** [Obsidian Link Opener](https://github.com/raycast/extensions/tree/main/extensions/obsidian-link-opener) |
 | [otter](https://www.raycast.com/otter) | 1 | 12 | **Finance:** [Mollie](https://github.com/raycast/extensions/tree/main/extensions/mollie-for-raycast) |
 | [ourongxing](https://www.raycast.com/ourongxing) | 1 | 812 | **Applications:** [MarginNote](https://github.com/raycast/extensions/tree/main/extensions/marginnote) |
-| [owanesh](https://www.raycast.com/owanesh) | 1 | 55 | **Developer Tools:** [Shodan](https://github.com/raycast/extensions/tree/main/extensions/shodan) |
+| [owanesh](https://www.raycast.com/owanesh) | 1 | 56 | **Developer Tools:** [Shodan](https://github.com/raycast/extensions/tree/main/extensions/shodan) |
 | [oward](https://www.raycast.com/oward) | 1 | 6 | **Productivity:** [English Irregular Verbs](https://github.com/raycast/extensions/tree/main/extensions/english-irregular-verbs) |
 | [owen_wang](https://www.raycast.com/owen_wang) | 1 | 44 | **Productivity:** [WeRead Sync](https://github.com/raycast/extensions/tree/main/extensions/weread-sync) |
-| [ozencb](https://www.raycast.com/ozencb) | 1 | 3,742 | **Productivity:** [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) |
+| [ozencb](https://www.raycast.com/ozencb) | 1 | 3,746 | **Productivity:** [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) |

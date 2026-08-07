@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 238,376 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,659 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 238,429 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,662 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,452 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,425 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
-| [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) | 1,424 | Controls TradingView from within Raycast | skaj | macOS | [store](https://www.raycast.com/skaj/tradingview-controls) |
-| [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) | 1,358 | View and manage your YNAB Budgets directly from Raycast | CodetaroMiura | macOS | [store](https://www.raycast.com/CodetaroMiura/raynab) |
+| [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) | 1,425 | Controls TradingView from within Raycast | skaj | macOS | [store](https://www.raycast.com/skaj/tradingview-controls) |
+| [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) | 1,360 | View and manage your YNAB Budgets directly from Raycast | CodetaroMiura | macOS | [store](https://www.raycast.com/CodetaroMiura/raynab) |
 | [Charming ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/charming-chatgpt) | 670 | Make chatGPT x charming x Raycast all together | KittenYang | macOS | [store](https://www.raycast.com/KittenYang/charming-chatgpt) |
 | [Fake Financial Data](https://github.com/raycast/extensions/tree/main/extensions/fake-financial-data) | 386 | Generate fake financial data | andre-rd-rodrigues | macOS | [store](https://www.raycast.com/andre-rd-rodrigues/fake-financial-data) |
 | [debank](https://github.com/raycast/extensions/tree/main/extensions/debank) | 202 | A Raycast Extension to query DeBank data with its OpenAPI | Yukai | macOS | [store](https://www.raycast.com/Yukai/debank) |
@@ -20,7 +20,7 @@
 | [Wave](https://github.com/raycast/extensions/tree/main/extensions/wave) | 50 | Manage your Wave Businesses | xmok | macOS | [store](https://www.raycast.com/xmok/wave) |
 | [WhiteBIT Exchange](https://github.com/raycast/extensions/tree/main/extensions/whitebit) | 34 | WhiteBIT exchange Raycast extension | whitebit-exchange (org) | macOS | [store](https://www.raycast.com/whitebit-exchange/whitebit) |
 | [Rollup.wtf](https://github.com/raycast/extensions/tree/main/extensions/rollup-wtf) | 30 | Raycast Version of Rollup.wtf | Osprey | macOS | [store](https://www.raycast.com/Osprey/rollup-wtf) |
-| [Recurly](https://github.com/raycast/extensions/tree/main/extensions/recurly) | 25 | A smallish client for the Recurly API | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/recurly) |
+| [Recurly](https://github.com/raycast/extensions/tree/main/extensions/recurly) | 26 | A smallish client for the Recurly API | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/recurly) |
 | [Security Search](https://github.com/raycast/extensions/tree/main/extensions/security-search) | 25 | Searches for securities via name to get the ISIN or via ISIN to get the name | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/security-search) |
 | [TV2 - Denmark](https://github.com/raycast/extensions/tree/main/extensions/tv2---denmark) | 25 | Get the latest news from TV2 Denmark | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/tv2---denmark) |
 | [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 22 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |

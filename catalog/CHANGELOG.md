@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-07 — upstream `5a7b508575`
+
+**Updated (1):** [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions)
+
 ## 2026-08-06 — upstream `9441354746`
 
 **Updated (1):** [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash)

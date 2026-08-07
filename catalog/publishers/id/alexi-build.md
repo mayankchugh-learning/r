@@ -1,6 +1,6 @@
 # alexi.build
 
-16 extensions · 1,730 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+16 extensions · 1,731 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -52,7 +52,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 55 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
+| [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 56 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
 
 ## Documentation (1)
 

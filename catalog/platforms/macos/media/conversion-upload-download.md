@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,375 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
-| [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 5,995 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,383 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 5,998 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
 | [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,381 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
 | [Paperless-ngx](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) | 885 | Search Paperless-ngx for documents and upload | damdam | macOS | [store](https://www.raycast.com/damdam/paperless-ngx) |
 | [put.io](https://github.com/raycast/extensions/tree/main/extensions/putio) | 573 | Raycast extension for managing files, transfers, and history events in your put.io account. | putio (org) | macOS | [store](https://www.raycast.com/putio/putio) |
-| [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 426 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
+| [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 427 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
 | [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 342 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/radarr) |
 | [Prowlarr](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) | 301 | Search and add to download clients with Prowlarr | elcaten | macOS | [store](https://www.raycast.com/elcaten/prowlarr) |
 | [Cloudinary](https://github.com/raycast/extensions/tree/main/extensions/cloudinary) | 228 | Search assets and upload your clipboard to your Cloudinary account | colbyfayock | macOS | [store](https://www.raycast.com/colbyfayock/cloudinary) |

@@ -1,6 +1,6 @@
 # xmok
 
-111 extensions · 11,256 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+111 extensions · 11,259 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -81,7 +81,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 244 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
+| [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 245 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
 | [FreeDNS](https://github.com/raycast/extensions/tree/main/extensions/freedns) | 199 | View and Change your DNS in freedns.afraid.org | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/freedns) |
 | [Oracle Cloud](https://github.com/raycast/extensions/tree/main/extensions/oci) | 97 | Manage Oracle Cloud Infrastructure | xmok | macOS | [store](https://www.raycast.com/xmok/oci) |
 | [Appwrite](https://github.com/raycast/extensions/tree/main/extensions/appwrite) | 55 | Add Projects and View Services | xmok | macOS | [store](https://www.raycast.com/xmok/appwrite) |
@@ -99,7 +99,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 557 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
-| [Neon](https://github.com/raycast/extensions/tree/main/extensions/neon) | 160 | Manage Neon Projects and API Keys | xmok | macOS | [store](https://www.raycast.com/xmok/neon) |
+| [Neon](https://github.com/raycast/extensions/tree/main/extensions/neon) | 161 | Manage Neon Projects and API Keys | xmok | macOS | [store](https://www.raycast.com/xmok/neon) |
 
 ### Monitoring & Logs
 
@@ -232,7 +232,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 343 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
+| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 344 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
 
 ## Media (1)
 

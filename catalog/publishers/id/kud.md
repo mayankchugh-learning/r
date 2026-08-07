@@ -1,6 +1,6 @@
 # kud
 
-12 extensions · 5,920 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+12 extensions · 5,922 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,392 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
+| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,393 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
 
 ## Design Tools (1)
 
@@ -47,4 +47,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 5 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
+| [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 6 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |

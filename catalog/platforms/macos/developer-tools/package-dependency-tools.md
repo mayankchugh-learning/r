@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 253,938 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 31,931 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,609 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,024 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
-| [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 7,646 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 254,038 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 31,940 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,614 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,031 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 7,654 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
 | [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,253 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
 | [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) | 1,247 | Quickly search packages on https://pkg.go.dev | bstncartwright | macOS | [store](https://www.raycast.com/bstncartwright/go-package-search) |
 | [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,125 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
@@ -22,7 +22,7 @@
 | [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 266 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
 | [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 241 | Search Context7 libraries and browse documentation context from Raycast | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 231 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
-| [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) | 229 | Change the NPM registry address | lihzsky | macOS | [store](https://www.raycast.com/lihzsky/raycast-nrm) |
+| [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) | 230 | Change the NPM registry address | lihzsky | macOS | [store](https://www.raycast.com/lihzsky/raycast-nrm) |
 | [NuGet](https://github.com/raycast/extensions/tree/main/extensions/nuget) | 211 | Simple extension to search for NuGet packages and copy command to install them to clipboard | lbergantin | macOS | [store](https://www.raycast.com/lbergantin/nuget) |
 | [Manage Monorepo Projects/Workspaces](https://github.com/raycast/extensions/tree/main/extensions/monorepo-manager) | 192 | A Raycast extension helps to manage monorepo projects/workspaces in your machine. It also list all packages in each monorepo project/workspace | tung-dang | macOS | [store](https://www.raycast.com/tung-dang/monorepo-manager) |
 | [Search R Packages](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) | 188 | Search and lookup information about R packages using r-pkg.org. | grrrck | macOS | [store](https://www.raycast.com/grrrck/r-pkg-search) |

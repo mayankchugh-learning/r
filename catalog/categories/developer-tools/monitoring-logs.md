@@ -20,7 +20,7 @@
 | [Prusa Printer Control](https://github.com/raycast/extensions/tree/main/extensions/prusa) | 71 | Monitor and control your Prusa 3D printer directly from Raycast. View temperatures, manage files, and control prints with keyboard shortcuts. Supports Prusa XL… | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/prusa) |
 | [OpenStatus](https://github.com/raycast/extensions/tree/main/extensions/openstatus) | 55 | Manage your OpenStatus monitors, Incidents and status page | thibaultleouay | macOS | [store](https://www.raycast.com/thibaultleouay/openstatus) |
 | [HetrixTools](https://github.com/raycast/extensions/tree/main/extensions/hetrixtools) | 43 | Uptime Monitor & Blacklist Monitor | xmok | macOS | [store](https://www.raycast.com/xmok/hetrixtools) |
-| [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) | 31 | Monitor status pages and check if your favorite services are operational. | alerix | macOS, Windows | [store](https://www.raycast.com/alerix/is-it-alive) |
+| [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) | 32 | Monitor status pages and check if your favorite services are operational. | alerix | macOS, Windows | [store](https://www.raycast.com/alerix/is-it-alive) |
 | [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | 15 | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 
 ## Logs ✦
@@ -36,9 +36,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,069 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
-| [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,434 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
-| [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,302 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
+| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,070 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
+| [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,435 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
+| [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,303 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 398 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
 | [ChangeDetection.io](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) | 214 | Website Change Detection For Clever People | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/changedetection-io) |
 | [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) | 138 | A Raycast extension to browse your website analytics coming from Fathom. | yannglt | macOS | [store](https://www.raycast.com/yannglt/fathom-analytics-stats) |
