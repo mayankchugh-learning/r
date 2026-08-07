@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cf2a86f9629c3e17755d9ef717b44ac6938edcc5",
-  "generatedAt": "2026-08-07T06:21:25.210Z",
-  "downloadsRefreshedAt": "2026-08-07T06:21:24.936Z",
+  "commit": "8d891bcab00dbe326eac446a80fd775dd0bdbe93",
+  "generatedAt": "2026-08-07T06:27:25.047Z",
+  "downloadsRefreshedAt": "2026-08-07T06:27:24.073Z",
   "count": 3157,
   "extensions": [
     {
@@ -9534,7 +9534,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 500768
+      "downloads": 500769
     },
     {
       "dir": "color-shades",
@@ -21530,7 +21530,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 489486
+      "downloads": 489487
     },
     {
       "dir": "google-chrome-profiles",
@@ -27766,7 +27766,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 658001
+      "downloads": 658002
     },
     {
       "dir": "kimai",
@@ -59514,7 +59514,7 @@
       "description": "Quickly access your two-factor authentication codes.",
       "author": "cjdenio",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Security",
         "Productivity"
@@ -59525,7 +59525,7 @@
       ],
       "store": "https://www.raycast.com/cjdenio/two-factor-authentication-code-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator",
-      "treeSha": "8f16224b7ead263936aa136819835b9d8716a230",
+      "treeSha": "fdf5eb74b7ac2fd8f4beb8090a577d41e5c7dffd",
       "downloads": 6106
     },
     {

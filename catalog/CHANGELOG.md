@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-07 — upstream `8d891bcab0`
+
+**Updated (1):** [Two-Factor Authentication Code Generator](https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator)
+
 ## 2026-08-07 — upstream `cf2a86f962`
 
 **Updated (1):** [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully)
