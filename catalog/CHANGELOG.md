@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-08 — upstream `38c0e1983e`
+
+**Updated (1):** [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges)
+
 ## 2026-08-08 — upstream `59fdbaa216`
 
 **Updated (1):** [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller)
