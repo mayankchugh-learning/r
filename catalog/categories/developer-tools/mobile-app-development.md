@@ -12,8 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,758 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
 | [Android](https://github.com/raycast/extensions/tree/main/extensions/android) | 1,276 | Useful Android commands to list projects and emulators | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android) |
-| [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) | 1,205 | Mirror android device screen with scrcpy | zcfan | macOS | [store](https://www.raycast.com/zcfan/scrcpy) |
-| [Android Debug Bridge (Adb) Commands](https://github.com/raycast/extensions/tree/main/extensions/adb) | 1,030 | Run useful adb commands | Quentin23Soleil | macOS | [store](https://www.raycast.com/Quentin23Soleil/adb) |
+| [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) | 1,206 | Mirror android device screen with scrcpy | zcfan | macOS | [store](https://www.raycast.com/zcfan/scrcpy) |
+| [Android Debug Bridge (Adb) Commands](https://github.com/raycast/extensions/tree/main/extensions/adb) | 1,031 | Run useful adb commands | Quentin23Soleil | macOS | [store](https://www.raycast.com/Quentin23Soleil/adb) |
 | [Simulator Manager](https://github.com/raycast/extensions/tree/main/extensions/simulator-manager) | 952 | Manage iOS simulators and Android emulators with ease. Boot, shutdown, and open simulators directly from Raycast. | pauloedurezende | macOS | [store](https://www.raycast.com/pauloedurezende/simulator-manager) |
 | [Android ADB Input](https://github.com/raycast/extensions/tree/main/extensions/android-adb-input) | 764 | Run Android `adb shell input text` command. | star_zero | macOS | [store](https://www.raycast.com/star_zero/android-adb-input) |
 | [Open in Android Studio](https://github.com/raycast/extensions/tree/main/extensions/open-in-android-studio) | 355 | Open current Finder directory, selected folder in Android Studio, Add your favorite projects for quick access. | 3llomi | macOS | [store](https://www.raycast.com/3llomi/open-in-android-studio) |
@@ -33,8 +33,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,060 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
-| [Swift Package Index](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) | 815 | Search for Swift Packages via https://swiftpackageindex.com | maximkrouk | macOS | [store](https://www.raycast.com/maximkrouk/swift-package-index) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,071 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [Swift Package Index](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) | 816 | Search for Swift Packages via https://swiftpackageindex.com | maximkrouk | macOS | [store](https://www.raycast.com/maximkrouk/swift-package-index) |
 | [Hephaestus - JSON Tools](https://github.com/raycast/extensions/tree/main/extensions/hephaestus) | 214 | A collection of useful developer tools and utilities, including JSON to Swift, Objective-C, TypeScript, and more. | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/hephaestus) |
 | [Swift REPL](https://github.com/raycast/extensions/tree/main/extensions/swift-repl) | 206 | Run lil swift snippets | nakajima | macOS | [store](https://www.raycast.com/nakajima/swift-repl) |
 
@@ -42,16 +42,16 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,431 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
+| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,440 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
 | [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) | 2,715 | Airport is the best place to discover new TestFlight apps from developers. | siddharthsharma94 | macOS | [store](https://www.raycast.com/siddharthsharma94/airport) |
-| [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) | 1,602 | Adds commands to control the Alacritty terminal emulator. | jose-elias-alvarez | macOS | [store](https://www.raycast.com/jose-elias-alvarez/alacritty) |
-| [Simulator Control](https://github.com/raycast/extensions/tree/main/extensions/simctl) | 1,392 | Control Apple Simulator devices | noppefoxwolf | macOS | [store](https://www.raycast.com/noppefoxwolf/simulator-control) |
+| [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) | 1,604 | Adds commands to control the Alacritty terminal emulator. | jose-elias-alvarez | macOS | [store](https://www.raycast.com/jose-elias-alvarez/alacritty) |
+| [Simulator Control](https://github.com/raycast/extensions/tree/main/extensions/simctl) | 1,393 | Control Apple Simulator devices | noppefoxwolf | macOS | [store](https://www.raycast.com/noppefoxwolf/simulator-control) |
 | [iOS Human Interface Guidelines](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) | 1,051 | Shows you the iOS HIG's info for quick reference | eliperkins | macOS | [store](https://www.raycast.com/eliperkins/raycast-ios-hig) |
-| [Xcodes](https://github.com/raycast/extensions/tree/main/extensions/xcodes) | 621 | Manage several versions of Xcode | pacadil | macOS | [store](https://www.raycast.com/adil.dev/xcodes) |
+| [Xcodes](https://github.com/raycast/extensions/tree/main/extensions/xcodes) | 622 | Manage several versions of Xcode | pacadil | macOS | [store](https://www.raycast.com/adil.dev/xcodes) |
 | [Xcode Cloud](https://github.com/raycast/extensions/tree/main/extensions/xcode-cloud) | 567 | Check your Xcode Cloud builds and start new ones. | yuta24 | macOS | [store](https://www.raycast.com/yuta24/xcode-cloud) |
 | [App Store Connect](https://github.com/raycast/extensions/tree/main/extensions/app-store-connect) | 509 | Perform tasks from App Store Connect | johanthorell | macOS | [store](https://www.raycast.com/johanthorell/app-store-connect) |
-| [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates) | 429 | Check for available updates of your installed macOS apps via Sparkle, Homebrew Cask, and Mac App Store | Undolog | macOS | [store](https://www.raycast.com/Undolog/app-updates) |
+| [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates) | 432 | Check for available updates of your installed macOS apps via Sparkle, Homebrew Cask, and Mac App Store | Undolog | macOS | [store](https://www.raycast.com/Undolog/app-updates) |
 | [React Native Directory](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) | 311 | A searchable and filterable directory of React Native libraries. | shubh_porwal | macOS | [store](https://www.raycast.com/shubh_porwal/react-native-directory) |
 | [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 154 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 | [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | 108 | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |
-| [RayTerm](https://github.com/raycast/extensions/tree/main/extensions/rayterm) | 47 | The Raycast Terminal Emulator | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/rayterm) |
+| [RayTerm](https://github.com/raycast/extensions/tree/main/extensions/rayterm) | 48 | The Raycast Terminal Emulator | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/rayterm) |

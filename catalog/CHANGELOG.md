@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-08 — upstream `ce438fb7e2`
+
+**Updated (1):** [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker)
+
 ## 2026-08-07 — upstream `e875fd18fc`
 
 **Updated (1):** [TickTick+](https://github.com/raycast/extensions/tree/main/extensions/ticktick-plus)
