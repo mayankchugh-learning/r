@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "fa77196485f7b4b940a1b7c314b438e2d7eda8ee",
-  "generatedAt": "2026-08-08T16:45:51.221Z",
-  "downloadsRefreshedAt": "2026-08-08T16:45:50.949Z",
+  "commit": "59fdbaa216688299155416ca9db07f00602e8a36",
+  "generatedAt": "2026-08-08T16:46:25.980Z",
+  "downloadsRefreshedAt": "2026-08-08T16:46:25.589Z",
   "count": 3157,
   "extensions": [
     {
@@ -4034,7 +4034,7 @@
       ],
       "store": "https://www.raycast.com/sansaxena789/bcuninstaller",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller",
-      "treeSha": "2b56d259f6de4ee46d20c1102a7ceb8f36e6692b",
+      "treeSha": "3e1488cf5ad47359ebfb7a3c8f847fcf10c90a1c",
       "downloads": 1
     },
     {
@@ -9534,7 +9534,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 501554
+      "downloads": 501555
     },
     {
       "dir": "color-shades",
@@ -27766,7 +27766,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 658944
+      "downloads": 658945
     },
     {
       "dir": "kimai",

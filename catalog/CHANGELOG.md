@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-08 — upstream `59fdbaa216`
+
+**Updated (1):** [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller)
+
 ## 2026-08-08 — upstream `fa77196485`
 
 **Updated (1):** [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy)
