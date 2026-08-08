@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-08 — upstream `04e823bafc`
+
+**Updated (1):** [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit)
+
 ## 2026-08-08 — upstream `2c6670fa4b`
 
 **Updated (1):** [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path)

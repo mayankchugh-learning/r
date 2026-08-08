@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2c6670fa4b6c4802cce54155f86a020957816308",
-  "generatedAt": "2026-08-08T06:20:42.292Z",
-  "downloadsRefreshedAt": "2026-08-08T06:20:41.604Z",
+  "commit": "04e823bafc018cc935212db9a9773363bc1cd12f",
+  "generatedAt": "2026-08-08T06:24:36.606Z",
+  "downloadsRefreshedAt": "2026-08-08T06:24:35.867Z",
   "count": 3157,
   "extensions": [
     {
@@ -9534,7 +9534,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 501316
+      "downloads": 501317
     },
     {
       "dir": "color-shades",
@@ -27512,7 +27512,7 @@
       ],
       "store": "https://www.raycast.com/drakulavich/kesha-voice-kit",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit",
-      "treeSha": "2ee83fc1cb6f931a2b309b23561480be8bdb4f44",
+      "treeSha": "13dbbb4a09bdff87daca9581eb4188f301ac884e",
       "downloads": 4
     },
     {
@@ -27766,7 +27766,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 658664
+      "downloads": 658665
     },
     {
       "dir": "kimai",
