@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-08 — upstream `fa77196485`
+
+**Updated (1):** [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy)
+
 ## 2026-08-08 — upstream `04e823bafc`
 
 **Updated (1):** [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit)

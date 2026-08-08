@@ -1,6 +1,6 @@
 # 0xdhrv
 
-11 extensions · 1,252 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+11 extensions · 1,254 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -14,7 +14,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Drug Search](https://github.com/raycast/extensions/tree/main/extensions/drug-search) | 300 | Search the FDA drug database with ease | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/drug-search) |
+| [Drug Search](https://github.com/raycast/extensions/tree/main/extensions/drug-search) | 301 | Search the FDA drug database with ease | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/drug-search) |
 
 ## Developer Tools (4)
 
@@ -29,6 +29,6 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | 28 | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
+| [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | 29 | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
 | [Word Research](https://github.com/raycast/extensions/tree/main/extensions/word-research) | 19 | Research words and discover whether they have been searched before on wordresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/word-research) |
 | [Number Research](https://github.com/raycast/extensions/tree/main/extensions/number-research) | 13 | Research numbers and discover if they have been searched before on numberresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/number-research) |
