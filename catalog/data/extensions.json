@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "46b2b7bd1b9b729847d9877fe37e1c39d97d4b31",
-  "generatedAt": "2026-08-08T06:05:44.314Z",
-  "downloadsRefreshedAt": "2026-08-08T06:05:44.026Z",
+  "commit": "2c6670fa4b6c4802cce54155f86a020957816308",
+  "generatedAt": "2026-08-08T06:20:42.292Z",
+  "downloadsRefreshedAt": "2026-08-08T06:20:41.604Z",
   "count": 3157,
   "extensions": [
     {
@@ -9534,7 +9534,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 501309
+      "downloads": 501316
     },
     {
       "dir": "color-shades",
@@ -10412,7 +10412,7 @@
       "description": "Copy the path of the open folder, selected file or the URL of the current browser tab.",
       "author": "koinzhang",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Developer Tools",
         "Productivity",
@@ -10424,7 +10424,7 @@
       ],
       "store": "https://www.raycast.com/koinzhang/copy-path",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/copy-path",
-      "treeSha": "c631ec8c98c87b49861a091f11f5e7687e7140e2",
+      "treeSha": "d3c069a91262b957db6615c67dda23b1cfdcc640",
       "downloads": 19469
     },
     {
@@ -21530,7 +21530,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 490082
+      "downloads": 490088
     },
     {
       "dir": "google-chrome-profiles",
@@ -27766,7 +27766,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 658657
+      "downloads": 658664
     },
     {
       "dir": "kimai",

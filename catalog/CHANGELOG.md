@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-08 — upstream `2c6670fa4b`
+
+**Updated (1):** [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path)
+
 ## 2026-08-08 — upstream `46b2b7bd1b`
 
 **Updated (1):** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep)
