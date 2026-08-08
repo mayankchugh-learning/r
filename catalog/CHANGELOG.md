@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-08 — upstream `46b2b7bd1b`
+
+**Updated (1):** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep)
+
 ## 2026-08-08 — upstream `ce438fb7e2`
 
 **Updated (1):** [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ce438fb7e2411b40f00f072fce9366875ecbfa40",
-  "generatedAt": "2026-08-08T06:04:57.866Z",
-  "downloadsRefreshedAt": "2026-08-08T06:04:57.057Z",
+  "commit": "46b2b7bd1b9b729847d9877fe37e1c39d97d4b31",
+  "generatedAt": "2026-08-08T06:05:44.314Z",
+  "downloadsRefreshedAt": "2026-08-08T06:05:44.026Z",
   "count": 3157,
   "extensions": [
     {
@@ -21530,7 +21530,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 490081
+      "downloads": 490082
     },
     {
       "dir": "google-chrome-profiles",
@@ -27345,7 +27345,7 @@
       ],
       "store": "https://www.raycast.com/luolei/karakeep",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/karakeep",
-      "treeSha": "9a22ec5ec5fe10ac89b9390723725c7712cd68c5",
+      "treeSha": "98c06b564f5388c4275b71faf4584fb1534c5243",
       "downloads": 2101
     },
     {
@@ -27766,7 +27766,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 658656
+      "downloads": 658657
     },
     {
       "dir": "kimai",
