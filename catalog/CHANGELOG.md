@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-09 — upstream `2a6261db7b`
+
+**Updated (1):** [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail)
+
 ## 2026-08-08 — upstream `38c0e1983e`
 
 **Updated (1):** [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges)

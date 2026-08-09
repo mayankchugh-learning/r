@@ -10,19 +10,19 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) | 207,968 | Search, open or edit your 1Password passwords from Raycast | khasbilegt | macOS, Windows | [store](https://www.raycast.com/khasbilegt/1password) |
-| [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 57,758 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
-| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,455 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
-| [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,409 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
-| [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,069 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
-| [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) | 1,399 | Access Dashlane Vault. Requires installing the Dashlane CLI. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/dashlane-vault) |
-| [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 570 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
+| [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) | 208,110 | Search, open or edit your 1Password passwords from Raycast | khasbilegt | macOS, Windows | [store](https://www.raycast.com/khasbilegt/1password) |
+| [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 57,771 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
+| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,458 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
+| [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,412 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
+| [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,072 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
+| [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) | 1,402 | Access Dashlane Vault. Requires installing the Dashlane CLI. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/dashlane-vault) |
+| [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 572 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
 | [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 181 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |
 | [XKCD Password Generator](https://github.com/raycast/extensions/tree/main/extensions/xkcd-password-generator) | 141 | Generate strong passwords according to the "xkcd" style: https://xkcd.com/936/ | nkcmr | macOS, Windows | [store](https://www.raycast.com/nkcmr/xkcd-password-generator) |
 | [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 121 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
 | [Have I Been Pwned](https://github.com/raycast/extensions/tree/main/extensions/have-i-been-pwned) | 111 | Check if your email or password has been exposed in a data breach | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/have-i-been-pwned) |
-| [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) | 88 | Store and retrieve secrets with biometric authentication (Touch ID, Apple Watch, or Windows Hello) | etheirystech | macOS, Windows | [store](https://www.raycast.com/etheirystech/watchkey) |
-| [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) | 81 | Share passwords, API keys, and private notes securely. Whisper creates encrypted links that expire or self-destruct after viewing. | quentinved | macOS, Windows | [store](https://www.raycast.com/quentinved/whisper) |
+| [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) | 89 | Store and retrieve secrets with biometric authentication (Touch ID, Apple Watch, or Windows Hello) | etheirystech | macOS, Windows | [store](https://www.raycast.com/etheirystech/watchkey) |
+| [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) | 82 | Share passwords, API keys, and private notes securely. Whisper creates encrypted links that expire or self-destruct after viewing. | quentinved | macOS, Windows | [store](https://www.raycast.com/quentinved/whisper) |
 | [Passbolt](https://github.com/raycast/extensions/tree/main/extensions/passbolt) | 80 | Manage your Passbolt passwords from Raycast | adreatik_dedej | macOS, Windows | [store](https://www.raycast.com/adreatik_dedej/passbolt) |
 | [Shelve](https://github.com/raycast/extensions/tree/main/extensions/shelve) | 74 | Share secrets securely without an account. Set expiration time, control number of reads, and ensure encrypted transmission. | xulobeats | Windows, macOS | [store](https://www.raycast.com/xulobeats/shelve) |
 | [DinoPass](https://github.com/raycast/extensions/tree/main/extensions/dinopass) | 5 | Generate passwords from dinopass.com | campo | macOS, Windows | [store](https://www.raycast.com/campo/dinopass) |
@@ -32,10 +32,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ente Auth](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) | 2,680 | Get TOTP Codes from Ente Auth | chkpwd | macOS, Windows | [store](https://www.raycast.com/chkpwd/ente-auth) |
-| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 926 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
+| [Ente Auth](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) | 2,682 | Get TOTP Codes from Ente Auth | chkpwd | macOS, Windows | [store](https://www.raycast.com/chkpwd/ente-auth) |
+| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 928 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 | [Aegis Authenticator](https://github.com/raycast/extensions/tree/main/extensions/aegis) | 324 | Search, sync and use your Aegis 2FA database with Raycast | bfayers | Windows, macOS | [store](https://www.raycast.com/bfayers/aegis) |
-| [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 157 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
+| [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 158 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 
 ## Protect & Encrypt
 
@@ -49,8 +49,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Mullvad VPN](https://github.com/raycast/extensions/tree/main/extensions/mullvad) | 1,721 | Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. | 0x46616c6b | macOS, Windows | [store](https://www.raycast.com/0x46616c6b/mullvad) |
-| [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | 783 | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |
+| [Mullvad VPN](https://github.com/raycast/extensions/tree/main/extensions/mullvad) | 1,724 | Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. | 0x46616c6b | macOS, Windows | [store](https://www.raycast.com/0x46616c6b/mullvad) |
+| [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | 784 | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |
 
 ### General
 

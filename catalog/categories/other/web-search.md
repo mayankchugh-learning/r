@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,081 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
-| [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 2,851 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
+| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,088 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
+| [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 2,852 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
 | [HubSpot](https://github.com/raycast/extensions/tree/main/extensions/hubspot) | 1,576 | Search Hubspot Contacts, Companies and Deals | harisvsulaiman | macOS | [store](https://www.raycast.com/harisvsulaiman/hubspot) |
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 834 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 714 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |
@@ -26,7 +26,7 @@
 | [Search LaraJobs](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) | 54 | Search jobs on Larajobs | Treblle | macOS | [store](https://www.raycast.com/Treblle/larajobs-search) |
 | [Valorant Esports](https://github.com/raycast/extensions/tree/main/extensions/valorant-esports) | 47 | Search Valorant esports schedules and standings. | vimtor | macOS | [store](https://www.raycast.com/vimtor/valorant-esports) |
 | [Linkace](https://github.com/raycast/extensions/tree/main/extensions/linkace) | 30 | Adds link to Linkace | jaspermayone | macOS, Windows | [store](https://www.raycast.com/jaspermayone/linkace) |
+| [Scrycast](https://github.com/raycast/extensions/tree/main/extensions/scrycast) | 29 | Search for Magic: The Gathering cards on Scryfall or your collection | aayushpi | macOS | [store](https://www.raycast.com/aayushpi/scrycast) |
 | [xQc](https://github.com/raycast/extensions/tree/main/extensions/xqc) | 29 | Search and Explore Vods for twitch.tv/xqc | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/xqc) |
 | [Brawl Stars Search](https://github.com/raycast/extensions/tree/main/extensions/brawlstars) | 28 | Extension to search for Brawl Stars players, clubs and brawlers | Maxime_GUILIANI | macOS | [store](https://www.raycast.com/Maxime_GUILIANI/brawlstars) |
-| [Scrycast](https://github.com/raycast/extensions/tree/main/extensions/scrycast) | 28 | Search for Magic: The Gathering cards on Scryfall or your collection | aayushpi | macOS | [store](https://www.raycast.com/aayushpi/scrycast) |
 | [dpm.lol](https://github.com/raycast/extensions/tree/main/extensions/dpm-lol) | 19 | Easily search and access data on dpm.lol. | azizouichni | macOS | [store](https://www.raycast.com/azizouichni/dpm-lol) |

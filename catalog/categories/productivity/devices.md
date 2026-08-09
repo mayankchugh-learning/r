@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 64,421 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
-| [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) | 9,683 | Disable notifications on your Apple devices | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/do-not-disturb) |
+| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 64,463 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
+| [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) | 9,686 | Disable notifications on your Apple devices | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/do-not-disturb) |
 | [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) | 466 | Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. S… | guelug | macOS | [store](https://www.raycast.com/guelug/seo-lighthouse) |
 | [Tapo Smart Devices](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices) | 414 | Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes | timrogers | macOS, Windows | [store](https://www.raycast.com/timrogers/raycast-tapo-smart-devices) |
-| [Homey](https://github.com/raycast/extensions/tree/main/extensions/homey) | 400 | Homey Flows & Devices | DominicVonk | macOS, Windows | [store](https://www.raycast.com/DominicVonk/homey) |
-| [Control D](https://github.com/raycast/extensions/tree/main/extensions/control-d) | 232 | Quickly view and make changes to your Control D profiles, devices, and more from Raycast. | http.james | macOS | [store](https://www.raycast.com/http.james/control-d) |
+| [Homey](https://github.com/raycast/extensions/tree/main/extensions/homey) | 401 | Homey Flows & Devices | DominicVonk | macOS, Windows | [store](https://www.raycast.com/DominicVonk/homey) |
+| [Control D](https://github.com/raycast/extensions/tree/main/extensions/control-d) | 233 | Quickly view and make changes to your Control D profiles, devices, and more from Raycast. | http.james | macOS | [store](https://www.raycast.com/http.james/control-d) |
 | [Ntfy](https://github.com/raycast/extensions/tree/main/extensions/ntfy) | 186 | Send notifications to your devices using ntfy.sh | wesleycoder | macOS | [store](https://www.raycast.com/wesleycoder/ntfy) |
 | [Send to E-Reader](https://github.com/raycast/extensions/tree/main/extensions/send-to-e-reader) | 167 | Send ebooks to Kobo/Kindle devices through https://send.djazz.se/ | AlanHuang | macOS | [store](https://www.raycast.com/AlanHuang/send-to-e-reader) |
 | [WLED Controller](https://github.com/raycast/extensions/tree/main/extensions/wled-controller) | 97 | Control your WLED devices - manage devices, set colors, effects, and brightness directly from Raycast | creative-koda-lab | macOS, Windows | [store](https://www.raycast.com/creative-koda-lab/wled-controller) |

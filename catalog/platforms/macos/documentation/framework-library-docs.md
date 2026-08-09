@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,417 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
+| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,441 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
 | [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 5,686 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
-| [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,182 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
+| [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,183 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
 | [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 2,770 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
 | [Searching Vue.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/vuejs-documentation) | 2,043 | Search VueJS documentation (v3) | DavidPascaud | macOS | [store](https://www.raycast.com/DavidPascaud/vuejs-documentation) |
 | [Laravel Livewire](https://github.com/raycast/extensions/tree/main/extensions/laravel-livewire) | 1,316 | Quickly search through Laravel Livewire documentation and open it in the browser | tafhyseni | macOS | [store](https://www.raycast.com/tafhyseni/laravel-livewire) |

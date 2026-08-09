@@ -1,12 +1,12 @@
 # alexi.build
 
-16 extensions · 1,741 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+16 extensions · 1,744 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 442 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
+| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 443 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
 | [Fifteen Million Merits](https://github.com/raycast/extensions/tree/main/extensions/fifteen-million-merits) | 25 | A persistent counter that triggers Raycast Focus mode when activity exceeds a specific threshold. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/fifteen-million-merits) |
 
 ## Productivity (3)
@@ -14,7 +14,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Leader Key](https://github.com/raycast/extensions/tree/main/extensions/leader-key) | 182 | Search and trigger Leader Key shortcuts by alias, label, or value. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/leader-key) |
-| [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 103 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
+| [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 104 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 38 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 
 ## Communication (1)
@@ -27,7 +27,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 150 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
+| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 151 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
 
 ## Developer Tools (1)
 
