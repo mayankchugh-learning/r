@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-09 — upstream `5f3f7dab22`
+
+**Updated (1):** [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy)
+
 ## 2026-08-09 — upstream `2a6261db7b`
 
 **Updated (1):** [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail)

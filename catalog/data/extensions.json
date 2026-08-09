@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2a6261db7b6c9f2b3640ea81b3b83e2611d5e3ea",
-  "generatedAt": "2026-08-09T19:23:32.243Z",
-  "downloadsRefreshedAt": "2026-08-09T19:23:31.417Z",
+  "commit": "5f3f7dab2239fe5409791d6380e558f9caa05cc8",
+  "generatedAt": "2026-08-09T19:24:21.619Z",
+  "downloadsRefreshedAt": "2026-08-09T19:24:21.242Z",
   "count": 3157,
   "extensions": [
     {
@@ -17721,7 +17721,7 @@
       ],
       "store": "https://www.raycast.com/fhf1121/file-tidy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/file-tidy",
-      "treeSha": "d717f83dd60f791514076b41d5f25df1ac257de5",
+      "treeSha": "791581af601fdaa15de4a864abbe09ec2b464549",
       "downloads": 13
     },
     {
