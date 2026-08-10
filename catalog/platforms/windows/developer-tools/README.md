@@ -1,6 +1,6 @@
 # Windows · Developer Tools
 
-286 extensions · [← Windows](../README.md)
+287 extensions · [← Windows](../README.md)
 
 ## Code & Collaboration
 
@@ -37,6 +37,6 @@
 | [Package & Dependency Tools](./package-dependency-tools.md) | 14 |
 | [Automation & Scripting](./automation-scripting.md) | 4 |
 | [Files & Transfer](./files-transfer.md) | 8 |
-| [Design & Assets](./design-assets.md) | 12 |
+| [Design & Assets](./design-assets.md) | 13 |
 
 Plus [General](./general.md) — 55 extensions that don't fit a topic yet.

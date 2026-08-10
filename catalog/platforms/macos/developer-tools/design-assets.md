@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · **Design & Assets** · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-37 of 1072 extensions · [← macOS · Developer Tools](./README.md)
+38 of 1073 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -43,3 +43,4 @@
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 13 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Image Hash Rename](https://github.com/raycast/extensions/tree/main/extensions/image-hash-rename) | 9 | Rename images in a folder by appending a content-based MD5 hash to the filename. | saury | macOS | [store](https://www.raycast.com/saury/image-hash-rename) |
 | [UploadKit Image Uploader](https://github.com/raycast/extensions/tree/main/extensions/uploadkit) | 1 | Upload images to UploadKit and copy their CDN URL | drumst0ck | macOS, Windows | [store](https://www.raycast.com/drumst0ck/uploadkit) |
+| [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) | — | Search, preview, and copy Chinese traditional colors and harmony palettes. | RaffeYang | macOS, Windows | — |

@@ -1,6 +1,6 @@
 # Publishers
 
-2102 publishers · [← catalog index](../README.md)
+2103 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,094,080 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,094,083 |
 | 2 | [raycast](./id/raycast.md) | 11 | 781,308 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 659,999 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,258 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,001 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,261 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 435,972 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 430,619 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,211 |
@@ -2109,4 +2109,5 @@
 | 2099 | github-next | 2 | — |
 | 2100 | buffer | 1 | — |
 | 2101 | multi | 1 | — |
-| 2102 | sharat_visweswara | 1 | — |
+| 2102 | RaffeYang | 1 | — |
+| 2103 | sharat_visweswara | 1 | — |

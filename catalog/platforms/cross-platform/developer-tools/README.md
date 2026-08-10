@@ -1,6 +1,6 @@
 # Cross-platform · Developer Tools
 
-275 extensions · [← Cross-platform](../README.md)
+276 extensions · [← Cross-platform](../README.md)
 
 ## Code & Collaboration
 
@@ -37,6 +37,6 @@
 | [Package & Dependency Tools](./package-dependency-tools.md) | 13 |
 | [Automation & Scripting](./automation-scripting.md) | 4 |
 | [Files & Transfer](./files-transfer.md) | 8 |
-| [Design & Assets](./design-assets.md) | 12 |
+| [Design & Assets](./design-assets.md) | 13 |
 
 Plus [General](./general.md) — 52 extensions that don't fit a topic yet.

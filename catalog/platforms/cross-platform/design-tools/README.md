@@ -1,8 +1,8 @@
 # Cross-platform · Design Tools
 
-42 extensions · [← Cross-platform](../README.md)
+43 extensions · [← Cross-platform](../README.md)
 
-[AI Generation](#ai-generation) (3) · [Colors & Palettes](#colors-palettes) (5) · [Icons & Assets](#icons-assets) (13) · [Fonts & Typography](#fonts-typography) (2) · [Design Apps & Whiteboards](#design-apps-whiteboards) (2) · [Screenshots & Mockups](#screenshots-mockups) (3) · [Art & Wallpapers](#art-wallpapers) (3) · [General](#general) (11)
+[AI Generation](#ai-generation) (3) · [Colors & Palettes](#colors-palettes) (6) · [Icons & Assets](#icons-assets) (13) · [Fonts & Typography](#fonts-typography) (2) · [Design Apps & Whiteboards](#design-apps-whiteboards) (2) · [Screenshots & Mockups](#screenshots-mockups) (3) · [Art & Wallpapers](#art-wallpapers) (3) · [General](#general) (11)
 
 ## Visual Elements
 
@@ -10,11 +10,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 502,432 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 502,435 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,217 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 667 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 29 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
 | [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 7 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |
+| [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) | — | Search, preview, and copy Chinese traditional colors and harmony palettes. | RaffeYang | macOS, Windows | — |
 
 ### Icons & Assets
 

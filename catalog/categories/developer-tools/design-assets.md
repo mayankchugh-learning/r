@@ -1,10 +1,27 @@
 # Design & Assets
 
-37 extensions · [← Developer Tools](./README.md)
+38 extensions · [← Developer Tools](./README.md)
 
-[Images ✦](#images) (12) · [Color ✦](#color) (11) · [Icons ✦](#icons) (10) · [General](#general) (4)
+[Color ✦](#color) (12) · [Images ✦](#images) (12) · [Icons ✦](#icons) (10) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
+
+## Color ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,113 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
+| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,439 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
+| [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 4,960 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
+| [Color Shades](https://github.com/raycast/extensions/tree/main/extensions/color-shades) | 2,333 | Generate color shades from a base color and manage your generated color shades palettes. | qeude | macOS | [store](https://www.raycast.com/qeude/color-shades) |
+| [Palette Colors](https://github.com/raycast/extensions/tree/main/extensions/palette-colors) | 2,275 | Pick nice palette colors directly from Raycast | douglas-pires | macOS | [store](https://www.raycast.com/douglas-pires/palette-colors) |
+| [Convert Color](https://github.com/raycast/extensions/tree/main/extensions/covert-color) | 2,152 | hsl, rgb, hexadecimal, convert to each other | yf_zhang | macOS | [store](https://www.raycast.com/yf_zhang/covert-color) |
+| [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) | 971 | Quickly view the Catppuccin color palette, userstyles, ports, and documentation. | dvhsh | macOS | [store](https://www.raycast.com/dvhsh/catppuccin) |
+| [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) | 363 | Just a color picker | ZooHero | macOS | [store](https://www.raycast.com/ZooHero/justcolorpicker-raycast) |
+| [Random Color](https://github.com/raycast/extensions/tree/main/extensions/random-color) | 246 | Pick a random color. | srcrip | macOS | [store](https://www.raycast.com/srcrip/random-color) |
+| [WLED Controller](https://github.com/raycast/extensions/tree/main/extensions/wled-controller) | 97 | Control your WLED devices - manage devices, set colors, effects, and brightness directly from Raycast | creative-koda-lab | macOS, Windows | [store](https://www.raycast.com/creative-koda-lab/wled-controller) |
+| [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) | 80 | View and copy Minecraft chat color codes. | lafkpages | macOS | [store](https://www.raycast.com/luisafk/minecraft-color-codes) |
+| [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) | — | Search, preview, and copy Chinese traditional colors and harmony palettes. | RaffeYang | macOS, Windows | — |
 
 ## Images ✦
 
@@ -22,22 +39,6 @@
 | [LGTMeow](https://github.com/raycast/extensions/tree/main/extensions/lgtmeow) | 171 | Selecting and pasting LGTM images from LGTMeow in Markdown format. | snaka | macOS | [store](https://www.raycast.com/snaka/lgtmeow) |
 | [Image Hash Rename](https://github.com/raycast/extensions/tree/main/extensions/image-hash-rename) | 9 | Rename images in a folder by appending a content-based MD5 hash to the filename. | saury | macOS | [store](https://www.raycast.com/saury/image-hash-rename) |
 | [UploadKit Image Uploader](https://github.com/raycast/extensions/tree/main/extensions/uploadkit) | 1 | Upload images to UploadKit and copy their CDN URL | drumst0ck | macOS, Windows | [store](https://www.raycast.com/drumst0ck/uploadkit) |
-
-## Color ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,113 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
-| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,439 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
-| [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 4,960 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
-| [Color Shades](https://github.com/raycast/extensions/tree/main/extensions/color-shades) | 2,333 | Generate color shades from a base color and manage your generated color shades palettes. | qeude | macOS | [store](https://www.raycast.com/qeude/color-shades) |
-| [Palette Colors](https://github.com/raycast/extensions/tree/main/extensions/palette-colors) | 2,275 | Pick nice palette colors directly from Raycast | douglas-pires | macOS | [store](https://www.raycast.com/douglas-pires/palette-colors) |
-| [Convert Color](https://github.com/raycast/extensions/tree/main/extensions/covert-color) | 2,152 | hsl, rgb, hexadecimal, convert to each other | yf_zhang | macOS | [store](https://www.raycast.com/yf_zhang/covert-color) |
-| [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) | 971 | Quickly view the Catppuccin color palette, userstyles, ports, and documentation. | dvhsh | macOS | [store](https://www.raycast.com/dvhsh/catppuccin) |
-| [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) | 363 | Just a color picker | ZooHero | macOS | [store](https://www.raycast.com/ZooHero/justcolorpicker-raycast) |
-| [Random Color](https://github.com/raycast/extensions/tree/main/extensions/random-color) | 246 | Pick a random color. | srcrip | macOS | [store](https://www.raycast.com/srcrip/random-color) |
-| [WLED Controller](https://github.com/raycast/extensions/tree/main/extensions/wled-controller) | 97 | Control your WLED devices - manage devices, set colors, effects, and brightness directly from Raycast | creative-koda-lab | macOS, Windows | [store](https://www.raycast.com/creative-koda-lab/wled-controller) |
-| [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) | 80 | View and copy Minecraft chat color codes. | lafkpages | macOS | [store](https://www.raycast.com/luisafk/minecraft-color-codes) |
 
 ## Icons ✦
 

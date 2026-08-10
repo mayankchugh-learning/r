@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "47470c935ba6ce822d6d1faf2bd7dd8a2fd8c4ef",
-  "generatedAt": "2026-08-10T08:53:20.810Z",
-  "downloadsRefreshedAt": "2026-08-10T08:53:20.397Z",
-  "count": 3157,
+  "commit": "6d68787e50a41421fac969135c137a9c50408dff",
+  "generatedAt": "2026-08-10T08:56:18.674Z",
+  "downloadsRefreshedAt": "2026-08-10T08:56:18.044Z",
+  "count": 3158,
   "extensions": [
     {
       "dir": "0x0",
@@ -7539,6 +7539,28 @@
       "downloads": 354
     },
     {
+      "dir": "chinese-traditional-colors",
+      "name": "chinese-traditional-colors",
+      "title": "Chinese Traditional Colors",
+      "description": "Search, preview, and copy Chinese traditional colors and harmony palettes.",
+      "author": "RaffeYang",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Design Tools",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors",
+      "treeSha": "ce6539a754805b572ce39b8bdc0579ee73394192",
+      "downloads": null
+    },
+    {
       "dir": "chmod-lookup",
       "name": "chmod-lookup",
       "title": "Chmod Lookup",
@@ -9534,7 +9556,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502432
+      "downloads": 502435
     },
     {
       "dir": "color-shades",
@@ -21530,7 +21552,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491258
+      "downloads": 491261
     },
     {
       "dir": "google-chrome-profiles",
@@ -27766,7 +27788,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 659999
+      "downloads": 660001
     },
     {
       "dir": "kimai",
