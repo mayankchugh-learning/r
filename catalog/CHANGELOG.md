@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `86d05917ca`
+
+**Updated (1):** [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming)
+
 ## 2026-08-10 — upstream `f79212b50d`
 
 **Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)
