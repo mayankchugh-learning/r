@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `567dedc992`
+
+**Updated (1):** [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts)
+
 ## 2026-08-10 — upstream `1fca62b5b4`
 
 **Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
