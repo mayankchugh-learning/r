@@ -22,7 +22,7 @@
 | [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 262 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
 | [MXroute](https://github.com/raycast/extensions/tree/main/extensions/mxroute) | 22 | Email hosting for your domains | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/mxroute) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 2 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
-| [Microsoft Tenant ID](https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id) | — | Find the Microsoft Entra (Azure AD) tenant ID for a domain, email, or URL — or reverse-look up the organization behind a tenant ID. | Rediwed | macOS, Windows | — |
+| [Microsoft Tenant ID](https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id) | 0 | Find the Microsoft Entra (Azure AD) tenant ID for a domain, email, or URL — or reverse-look up the organization behind a tenant ID. | Rediwed | macOS, Windows | [store](https://www.raycast.com/Rediwed/microsoft-tenant-id) |
 
 ## General
 

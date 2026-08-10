@@ -38,7 +38,7 @@
 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 30,601 | **Productivity:** [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion), [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)<br>**Web:** [Search Stack Exchange Sites](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow)<br>**Developer Tools:** [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) |
 | [reclaim-ai](https://www.raycast.com/reclaim-ai) | 1 | 13,065 | **Productivity:** [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) |
 | [red.avtovo](https://www.raycast.com/red.avtovo) | 1 | 654 | **Productivity:** [Punto Switcher](https://github.com/raycast/extensions/tree/main/extensions/punto) |
-| Rediwed | 1 | — | **Developer Tools:** [Microsoft Tenant ID](https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id) |
+| [Rediwed](https://www.raycast.com/Rediwed) | 1 | 0 | **Developer Tools:** [Microsoft Tenant ID](https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id) |
 | [relevantsam](https://www.raycast.com/relevantsam) | 1 | 77 | **Fun:** [Luna Search](https://github.com/raycast/extensions/tree/main/extensions/luna-search) |
 | [rembridge](https://www.raycast.com/rembridge) | 1 | 98 | **Uncategorized:** [Text Rewrap](https://github.com/raycast/extensions/tree/main/extensions/text-rewrap) |
 | [RemiBonnet](https://www.raycast.com/remibonnet) | 1 | 10 | **Developer Tools:** [Qovery](https://github.com/raycast/extensions/tree/main/extensions/qovery) |
@@ -85,7 +85,7 @@
 | [roelvan](https://www.raycast.com/roelvan) | 1 | 718 | **Developer Tools:** [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 751 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 633 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,270 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,273 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 11 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 572 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 4 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |

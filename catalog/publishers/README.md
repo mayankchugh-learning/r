@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,094,307 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,094,309 |
 | 2 | [raycast](./id/raycast.md) | 11 | 781,344 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,270 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,514 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,273 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,518 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 435,972 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 430,619 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,212 |
@@ -2107,11 +2107,11 @@
 | 2097 | [luke_lin](https://www.raycast.com/luke_lin) | 1 | 0 |
 | 2098 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
 | 2099 | [RaffeYang](https://www.raycast.com/raffeyang) | 1 | 0 |
-| 2100 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2101 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2102 | [will_thresher](https://www.raycast.com/will_thresher) | 1 | 0 |
-| 2103 | github-next | 2 | — |
-| 2104 | buffer | 1 | — |
-| 2105 | multi | 1 | — |
-| 2106 | Rediwed | 1 | — |
+| 2100 | [Rediwed](https://www.raycast.com/Rediwed) | 1 | 0 |
+| 2101 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2102 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2103 | [will_thresher](https://www.raycast.com/will_thresher) | 1 | 0 |
+| 2104 | github-next | 2 | — |
+| 2105 | buffer | 1 | — |
+| 2106 | multi | 1 | — |
 | 2107 | sharat_visweswara | 1 | — |

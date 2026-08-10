@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "625a30bbd719c5a3bbf4c8668e85d8ad85cecc32",
-  "generatedAt": "2026-08-10T15:18:25.714Z",
-  "downloadsRefreshedAt": "2026-08-10T15:18:25.057Z",
+  "commit": "b0841385097dde5f8f874cd391c0a299c1d12661",
+  "generatedAt": "2026-08-10T15:20:39.104Z",
+  "downloadsRefreshedAt": "2026-08-10T15:20:38.266Z",
   "count": 3163,
   "extensions": [
     {
@@ -1844,7 +1844,7 @@
       ],
       "store": "https://www.raycast.com/sc0/antinote",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/antinote",
-      "treeSha": "551d73810c505dc17b8f36de95cc81960a899ed9",
+      "treeSha": "4f50602cd8f7e7b5460840d02014bb3064e02b39",
       "downloads": 3031
     },
     {
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502659
+      "downloads": 502661
     },
     {
       "dir": "color-shades",
@@ -21572,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491514
+      "downloads": 491518
     },
     {
       "dir": "google-chrome-profiles",
@@ -27849,7 +27849,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660270
+      "downloads": 660273
     },
     {
       "dir": "kimai",
@@ -33316,10 +33316,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/Rediwed/microsoft-tenant-id",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id",
       "treeSha": "d9f80604e1ce754ae3c4818c7d84155fffcbaa75",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "midas",
