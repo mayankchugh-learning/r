@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f1f712e9ef59a01c4742a3781d0d901620164b6d",
-  "generatedAt": "2026-08-10T09:42:34.899Z",
-  "downloadsRefreshedAt": "2026-08-10T09:42:34.102Z",
+  "commit": "26cdd54f8f9ed53606d4a0e52144f89d77a229c7",
+  "generatedAt": "2026-08-10T09:53:52.372Z",
+  "downloadsRefreshedAt": "2026-08-10T09:53:51.519Z",
   "count": 3159,
   "extensions": [
     {
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502468
+      "downloads": 502477
     },
     {
       "dir": "color-shades",
@@ -21572,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491291
+      "downloads": 491300
     },
     {
       "dir": "google-chrome-profiles",
@@ -23179,7 +23179,7 @@
       "store": "https://www.raycast.com/islamtayeb/helium",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/helium",
       "treeSha": "590dee5dbc822f6d978408f4a40498e6940b55b4",
-      "downloads": 1405
+      "downloads": 1407
     },
     {
       "dir": "helldivers2",
@@ -27809,7 +27809,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660037
+      "downloads": 660050
     },
     {
       "dir": "kimai",
@@ -53693,11 +53693,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/daniyal_master/sportssync",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sportssync",
-      "treeSha": "d96161db9aef07eb12af0a518eacaf2438d72501",
+      "treeSha": "2158976bd8ec0b35c43d994f37faab7680f5c71a",
       "downloads": 1328
     },
     {

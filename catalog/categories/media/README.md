@@ -2,7 +2,7 @@
 
 289 extensions · [← all categories](../README.md)
 
-macOS: 283 · Windows: 81
+macOS: 283 · Windows: 82
 
 ## Listen & Watch
 

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,094,116 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,094,125 |
 | 2 | [raycast](./id/raycast.md) | 11 | 781,323 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,037 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,291 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,050 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,300 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 435,972 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 430,619 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,211 |
@@ -527,8 +527,8 @@
 | 517 | [smcnab1](https://www.raycast.com/smcnab1) | 3 | 1,417 |
 | 518 | [LightQuantum](https://www.raycast.com/LightQuantum) | 1 | 1,408 |
 | 519 | [omBratteng](https://www.raycast.com/omBratteng) | 1 | 1,408 |
-| 520 | [prasadsunny1](https://www.raycast.com/prasadsunny1) | 1 | 1,407 |
-| 521 | [islamtayeb](https://www.raycast.com/islamtayeb) | 1 | 1,405 |
+| 520 | [islamtayeb](https://www.raycast.com/islamtayeb) | 1 | 1,407 |
+| 521 | [prasadsunny1](https://www.raycast.com/prasadsunny1) | 1 | 1,407 |
 | 522 | [karolusd](https://www.raycast.com/karolusd) | 1 | 1,405 |
 | 523 | [noppefoxwolf](https://www.raycast.com/noppefoxwolf) | 1 | 1,393 |
 | 524 | [JulienLacr0ix](https://www.raycast.com/JulienLacr0ix) | 1 | 1,388 |

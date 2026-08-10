@@ -1,8 +1,8 @@
 # Windows · News
 
-30 extensions · [← Windows](../README.md)
+31 extensions · [← Windows](../README.md)
 
-[Tech & Startup News](#tech-startup-news) (3) · [Feeds & Readers](#feeds-readers) (7) · [Sports & Esports News](#sports-esports-news) (5) · [Communities & Forums](#communities-forums) (2) · [Markets & Predictions](#markets-predictions) (1) · [World & Business](#world-business) (4) · [General](#general) (8)
+[Tech & Startup News](#tech-startup-news) (3) · [Feeds & Readers](#feeds-readers) (7) · [Sports & Esports News](#sports-esports-news) (6) · [Communities & Forums](#communities-forums) (2) · [Markets & Predictions](#markets-predictions) (1) · [World & Business](#world-business) (4) · [General](#general) (8)
 
 ## Topics
 
@@ -20,6 +20,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,541 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
 | [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,459 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
+| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,328 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 321 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 309 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 166 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |

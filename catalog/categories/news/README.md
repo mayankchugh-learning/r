@@ -2,7 +2,7 @@
 
 95 extensions · [← all categories](../README.md)
 
-macOS: 95 · Windows: 30
+macOS: 95 · Windows: 31
 
 ## Topics
 

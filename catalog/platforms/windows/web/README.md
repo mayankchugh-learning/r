@@ -67,7 +67,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,405 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
+| [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,407 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
 | [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) | 9 | Access your FAVORO bookmarks directly from Raycast, even faster | andworksGmbH | macOS, Windows | [store](https://www.raycast.com/andworksGmbH/favoro) |
 
 ## Sites & Domains

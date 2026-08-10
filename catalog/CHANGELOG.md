@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `26cdd54f8f`
+
+**Updated (1):** [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync)
+
 ## 2026-08-10 — upstream `f1f712e9ef`
 
 **Updated (1):** [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind)
