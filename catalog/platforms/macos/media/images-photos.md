@@ -2,7 +2,7 @@
 
 [Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · **Images & Photos** · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
 
-48 of 282 extensions · [← macOS · Media](./README.md)
+49 of 283 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -54,3 +54,4 @@
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 7 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
 | [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) | 5 | Upload copied screenshots or copied image files to a configurable ImgBed endpoint. | andy | macOS | [store](https://www.raycast.com/andy/imgbed-uploader) |
 | [UploadKit Image Uploader](https://github.com/raycast/extensions/tree/main/extensions/uploadkit) | 1 | Upload images to UploadKit and copy their CDN URL | drumst0ck | macOS, Windows | [store](https://www.raycast.com/drumst0ck/uploadkit) |
+| [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) | — | Search and copy dialogue screenshots from MyGO!!!!! and Ave Mujica. | luke_lin | macOS | — |

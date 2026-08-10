@@ -1,8 +1,8 @@
 # Images & Photos
 
-48 extensions · [← Media](./README.md)
+49 extensions · [← Media](./README.md)
 
-[Image ✦](#image) (35) · [Icons ✦](#icons) (5) · [General](#general) (8)
+[Image ✦](#image) (35) · [Icons ✦](#icons) (5) · [General](#general) (9)
 
 *✦ auto-discovered topic group*
 
@@ -68,3 +68,4 @@
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 525 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) | 151 | Publish the picture in your clipboard to Aliyun oss, and return the URL. | yangxy | macOS | [store](https://www.raycast.com/yangxy/oss) |
 | [Swipe Photo Cleaner](https://github.com/raycast/extensions/tree/main/extensions/swipe-photo-cleaner) | 42 | Clean your photo library with fast swipe decisions | nazarlysyi | macOS | [store](https://www.raycast.com/nazarlysyi/swipe-photo-cleaner) |
+| [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) | — | Search and copy dialogue screenshots from MyGO!!!!! and Ave Mujica. | luke_lin | macOS | — |

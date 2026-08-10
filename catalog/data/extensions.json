@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6d68787e50a41421fac969135c137a9c50408dff",
-  "generatedAt": "2026-08-10T08:56:18.674Z",
-  "downloadsRefreshedAt": "2026-08-10T08:56:18.044Z",
-  "count": 3158,
+  "commit": "6662c1e0e7054e07b92ae4751a8d478a1393cee1",
+  "generatedAt": "2026-08-10T09:12:39.651Z",
+  "downloadsRefreshedAt": "2026-08-10T09:12:39.025Z",
+  "count": 3159,
   "extensions": [
     {
       "dir": "0x0",
@@ -3677,6 +3677,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/banca-d-italia-currency-converter",
       "treeSha": "0aa92183832c0dbc1c0e6eeabd907faffff2b7c5",
       "downloads": 531
+    },
+    {
+      "dir": "bang-dream-screenshot-search",
+      "name": "bang-dream-screenshot-search",
+      "title": "BanG Dream! Screenshot Search",
+      "description": "Search and copy dialogue screenshots from MyGO!!!!! and Ave Mujica.",
+      "author": "luke_lin",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Media"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search",
+      "treeSha": "829b772f39ed931ebabe83706143d576b742aa25",
+      "downloads": null
     },
     {
       "dir": "bangumi",
@@ -9556,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502435
+      "downloads": 502444
     },
     {
       "dir": "color-shades",
@@ -20634,7 +20654,7 @@
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
       "treeSha": "c278181339426922bb41a8420c67bfbe5242495e",
-      "downloads": 180237
+      "downloads": 180245
     },
     {
       "dir": "github-cli-manual",
@@ -21552,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491261
+      "downloads": 491273
     },
     {
       "dir": "google-chrome-profiles",
@@ -27788,7 +27808,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660001
+      "downloads": 660016
     },
     {
       "dir": "kimai",

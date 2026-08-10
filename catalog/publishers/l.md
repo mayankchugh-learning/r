@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-74 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+75 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -76,6 +76,7 @@
 | [luizkc](https://www.raycast.com/luizkc) | 1 | 74 | **Productivity:** [OSRS Wiki](https://github.com/raycast/extensions/tree/main/extensions/osrs-wiki) |
 | [lukashornych](https://www.raycast.com/lukashornych) | 1 | 7 | **Developer Tools:** [Hole Sandbox Launcher](https://github.com/raycast/extensions/tree/main/extensions/hole-sandbox-launcher) |
 | [luke_esterhuizen](https://www.raycast.com/luke_esterhuizen) | 1 | 245 | **Developer Tools:** [WSL Manager](https://github.com/raycast/extensions/tree/main/extensions/wsl-manager) |
+| luke_lin | 1 | — | **Media:** [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) |
 | [luknl](https://www.raycast.com/luknl) | 1 | 531 | **Web:** [Myanimelist Search](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) |
 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,782 | **Developer Tools:** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) |
 | [luolei](https://www.raycast.com/luolei) | 2 | 2,354 | **Web:** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep), [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) |
