@@ -354,7 +354,6 @@
 | [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly) | 6 | Manage your desk.ly desk-sharing bookings | skroll | macOS, Windows | [store](https://www.raycast.com/skroll/raycast-deskly) |
 | [BetterStack Utils](https://github.com/raycast/extensions/tree/main/extensions/betterstack-utils) | 5 | View your BetterStack Primary on-call schedule | doktor500 | macOS | [store](https://www.raycast.com/doktor500/betterstack-utils) |
 | [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh) | 5 | Quickly add vocabulary cards to your Inoh decks | tai | macOS | [store](https://www.raycast.com/tai/inoh) |
-| [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | 5 | Quickly add vocabulary cards to your Joey decks | tai | macOS | [store](https://www.raycast.com/tai/joey-vocab) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [Timely](https://github.com/raycast/extensions/tree/main/extensions/timely) | 5 | List and create Timely projects from Raycast. | Dohm | macOS, Windows | [store](https://www.raycast.com/Dohm/timely) |
 | [WishApp](https://github.com/raycast/extensions/tree/main/extensions/wishapp) | 5 | Add products to your WishApp wishlists and browse them from Raycast. | bilal_k | macOS, Windows | [store](https://www.raycast.com/bilal_k/wishapp) |
@@ -373,3 +372,4 @@
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 1 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | — | Quickly add vocabulary cards to your Joey decks | tai | macOS | — |

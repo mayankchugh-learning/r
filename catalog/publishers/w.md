@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · **W** · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-31 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+32 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | [whitebit-exchange](https://www.raycast.com/whitebit-exchange) | 1 | 34 | **Applications:** [WhiteBIT Exchange](https://github.com/raycast/extensions/tree/main/extensions/whitebit) |
 | [Whitespace](https://www.raycast.com/Whitespace) | 3 | 153 | **Web:** [gg.deals](https://github.com/raycast/extensions/tree/main/extensions/gg-deals), [Aimlab Tracker](https://github.com/raycast/extensions/tree/main/extensions/aimlab)<br>**News:** [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) |
 | [whosmadeer](https://www.raycast.com/whosmadeer) | 1 | 254 | **System:** [Shutdown Timer](https://github.com/raycast/extensions/tree/main/extensions/shutdown-timer) |
+| will_thresher | 1 | — | **Design Tools:** [Install Fonts](https://github.com/raycast/extensions/tree/main/extensions/install-fonts) |
 | [willem_van_lent](https://www.raycast.com/willem_van_lent) | 1 | 697 | **Developer Tools:** [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) |
 | [williamwelsh](https://www.raycast.com/williamwelsh) | 1 | 1,110 | **Data:** [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) |
 | [willian](https://www.raycast.com/willian) | 1 | 102 | **Fun:** [Brasileirão Série A](https://github.com/raycast/extensions/tree/main/extensions/brasileirao-serie-a) |

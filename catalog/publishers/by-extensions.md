@@ -1,6 +1,6 @@
 # Publishers
 
-2105 publishers · [← catalog index](../README.md)
+2106 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 149,316 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,450 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,744 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,094,228 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,094,303 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 297,611 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,932 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 404,212 |
@@ -382,12 +382,12 @@
 | 372 | [tcelestino](https://www.raycast.com/tcelestino) | 2 | 27 |
 | 373 | [esteban03](https://www.raycast.com/esteban03) | 2 | 22 |
 | 374 | [dominikdev](https://www.raycast.com/dominikdev) | 2 | 19 |
-| 375 | [tai](https://www.raycast.com/tai) | 2 | 10 |
-| 376 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
+| 375 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 8 |
+| 376 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 377 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 378 | github-next | 2 | — |
-| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,160 |
-| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 491,416 |
+| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,266 |
+| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 491,508 |
 | 381 | [linear](https://www.raycast.com/linear) | 1 | 340,457 |
 | 382 | [mommertf](https://www.raycast.com/mommertf) | 1 | 284,390 |
 | 383 | [nhojb](https://www.raycast.com/nhojb) | 1 | 254,483 |
@@ -2113,3 +2113,4 @@
 | 2103 | buffer | 1 | — |
 | 2104 | multi | 1 | — |
 | 2105 | sharat_visweswara | 1 | — |
+| 2106 | will_thresher | 1 | — |

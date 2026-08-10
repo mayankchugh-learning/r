@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ae4cfc9bcbd927c4d701b51dc9d728d143d062d7",
-  "generatedAt": "2026-08-10T13:09:54.966Z",
-  "downloadsRefreshedAt": "2026-08-10T13:09:54.132Z",
-  "count": 3161,
+  "commit": "6b1e9709be8b3c6e2e94a3e8f67ccf859b647b15",
+  "generatedAt": "2026-08-10T15:11:55.776Z",
+  "downloadsRefreshedAt": "2026-08-10T15:11:55.548Z",
+  "count": 3162,
   "extensions": [
     {
       "dir": "0x0",
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502580
+      "downloads": 502655
     },
     {
       "dir": "color-shades",
@@ -21572,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491416
+      "downloads": 491508
     },
     {
       "dir": "google-chrome-profiles",
@@ -25621,6 +25621,26 @@
       "downloads": 6406
     },
     {
+      "dir": "install-fonts",
+      "name": "install-fonts",
+      "title": "Install Fonts",
+      "description": "Install fonts from Finder selections, folders, or zip files.",
+      "author": "will_thresher",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Design Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/install-fonts",
+      "treeSha": "1dd74aed0588fe6627c50b3fbff7511cf9524e77",
+      "downloads": null
+    },
+    {
       "dir": "installed-extensions",
       "name": "installed-extensions",
       "title": "Installed Extensions",
@@ -26626,10 +26646,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": "https://www.raycast.com/tai/joey-vocab",
+      "store": null,
       "source": "https://github.com/raycast/extensions/tree/main/extensions/joey-vocab",
       "treeSha": "a726ce81db80e3648bf4c34e9874a63e222a5bf9",
-      "downloads": 5
+      "downloads": null
     },
     {
       "dir": "johnny-decimal",
@@ -27829,7 +27849,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660160
+      "downloads": 660266
     },
     {
       "dir": "kimai",

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `6b1e9709be`
+
+**Added (1):** [Install Fonts](https://github.com/raycast/extensions/tree/main/extensions/install-fonts)
+
 ## 2026-08-10 — upstream `ae4cfc9bcb`
 
 **Added (1):** [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh)
