@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `96363ab9cd`
+
+**Updated (1):** [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate)
+
 ## 2026-08-09 — upstream `5f3f7dab22`
 
 **Updated (1):** [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy)
