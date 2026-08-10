@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 502,511 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 502,513 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 238,659 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 123,797 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 105,937 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -46,7 +46,7 @@
 | [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,177 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
 | [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) | 3,573 | Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. | joshtemple | macOS | [store](https://www.raycast.com/joshtemple/clipboard-formatter) |
 | [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,355 | Convert cron expressions into human readable descriptions | niall-maloney | macOS | [store](https://www.raycast.com/niall-maloney/cron-description) |
-| [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 3,316 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
+| [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 3,317 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
 | [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,282 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
 | [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,243 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |
 | [Compresto](https://github.com/raycast/extensions/tree/main/extensions/compressx) | 3,169 | Compress files easily, with up to 90% file size reduction | hieudinh | macOS | [store](https://www.raycast.com/hieudinh/compressx) |

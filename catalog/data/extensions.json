@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3c12fb89f240a646025440fe458c4cb73d6a26f9",
-  "generatedAt": "2026-08-10T11:01:36.151Z",
-  "downloadsRefreshedAt": "2026-08-10T11:01:35.237Z",
+  "commit": "d65efcc72a103786412c9463d6f84be99da45d03",
+  "generatedAt": "2026-08-10T11:08:43.058Z",
+  "downloadsRefreshedAt": "2026-08-10T11:08:42.132Z",
   "count": 3160,
   "extensions": [
     {
@@ -8000,7 +8000,7 @@
       "description": "Quickly open Claude Code in any directory with your preferred terminal.",
       "author": "stephendolan",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Developer Tools",
         "Productivity"
@@ -8011,8 +8011,8 @@
       ],
       "store": "https://www.raycast.com/stephendolan/claude-code-launcher",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher",
-      "treeSha": "fd29d4e171e7ea7bec5e235a7190674ca0444e9d",
-      "downloads": 3316
+      "treeSha": "880e495545857f8b07cef540bf8e5def379a8bbc",
+      "downloads": 3317
     },
     {
       "dir": "claude-session-bookmarks",
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502511
+      "downloads": 502513
     },
     {
       "dir": "color-shades",
@@ -21572,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491342
+      "downloads": 491347
     },
     {
       "dir": "google-chrome-profiles",
@@ -23830,7 +23830,7 @@
       "store": "https://www.raycast.com/tonka3000/homeassistant",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/homeassistant",
       "treeSha": "75fc76dbd802bc36e1a4e594f98f1c1ea9f1624b",
-      "downloads": 25983
+      "downloads": 25984
     },
     {
       "dir": "homebox",
@@ -27809,7 +27809,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660086
+      "downloads": 660089
     },
     {
       "dir": "kimai",
@@ -56539,10 +56539,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/jaymcc/ten-four",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ten-four",
       "treeSha": "4fe5e933ec164e3659a2f79d14d83814fb478e9b",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "tennis-standings",

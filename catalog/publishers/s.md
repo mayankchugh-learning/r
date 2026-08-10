@@ -140,7 +140,7 @@
 | [steffenble](https://www.raycast.com/steffenble) | 1 | 6,154 | **Productivity:** [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) |
 | [stelo](https://www.raycast.com/stelo) | 2 | 1,145 | **Developer Tools:** [Disk Utility](https://github.com/raycast/extensions/tree/main/extensions/diskutil)<br>**Finance:** [Alpaca Trading](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) |
 | [stephen_lau](https://www.raycast.com/stephen_lau) | 1 | 81 | **Applications:** [Firefox Tabs](https://github.com/raycast/extensions/tree/main/extensions/firefox-tabs) |
-| [stephendolan](https://www.raycast.com/stephendolan) | 2 | 3,341 | **Developer Tools:** [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher), [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) |
+| [stephendolan](https://www.raycast.com/stephendolan) | 2 | 3,342 | **Developer Tools:** [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher), [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) |
 | [StereoPT](https://www.raycast.com/StereoPT) | 1 | 766 | **System:** [Folder Cleaner](https://github.com/raycast/extensions/tree/main/extensions/folder-cleaner) |
 | [steve_occhipinti](https://www.raycast.com/steve_occhipinti) | 1 | 646 | **Developer Tools:** [cmux](https://github.com/raycast/extensions/tree/main/extensions/cmux) |
 | [stevedylandev](https://www.raycast.com/stevedylandev) | 2 | 192 | **Web:** [Raycaster](https://github.com/raycast/extensions/tree/main/extensions/raycaster)<br>**Data:** [Jupiter Aggregator](https://github.com/raycast/extensions/tree/main/extensions/jupiter-aggregator) |

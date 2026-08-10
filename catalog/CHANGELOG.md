@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `d65efcc72a`
+
+**Updated (1):** [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher)
+
 ## 2026-08-10 — upstream `3c12fb89f2`
 
 **Added (1):** [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four)

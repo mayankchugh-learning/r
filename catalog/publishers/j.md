@@ -27,7 +27,7 @@
 | [jaspermayone](https://www.raycast.com/jaspermayone) | 1 | 30 | **Other:** [Linkace](https://github.com/raycast/extensions/tree/main/extensions/linkace) |
 | [javierarce](https://www.raycast.com/javierarce) | 2 | 470 | **Design Tools:** [WordPress Icon Finder](https://github.com/raycast/extensions/tree/main/extensions/wordpress-icon-finder)<br>**Documentation:** [Glossary](https://github.com/raycast/extensions/tree/main/extensions/glossary) |
 | [jaykmody](https://www.raycast.com/applepie) | 1 | 980 | **Productivity:** [UniTex - LaTeX Math to Unicode Text.](https://github.com/raycast/extensions/tree/main/extensions/unitex) |
-| jaymcc | 1 | — | **Productivity:** [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four) |
+| [jaymcc](https://www.raycast.com/jaymcc) | 1 | 0 | **Productivity:** [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four) |
 | [jaywcjlove](https://www.raycast.com/jaywcjlove) | 1 | 3,674 | **Developer Tools:** [Search Linux Commands](https://github.com/raycast/extensions/tree/main/extensions/linux-command) |
 | [jberrebi](https://www.raycast.com/jberrebi) | 1 | 9 | **Productivity:** [Align RTL](https://github.com/raycast/extensions/tree/main/extensions/align-rtl) |
 | [jbharwood](https://www.raycast.com/jbharwood) | 1 | 24 | **Productivity:** [Job Dojo](https://github.com/raycast/extensions/tree/main/extensions/job-dojo) |
