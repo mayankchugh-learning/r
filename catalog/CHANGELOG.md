@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `f1f712e9ef`
+
+**Updated (1):** [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind)
+
 ## 2026-08-10 — upstream `bfe9f609bb`
 
 **Updated (1):** [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium)

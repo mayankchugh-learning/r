@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "bfe9f609bbe605dd75331ecc425a2840d4c0e642",
-  "generatedAt": "2026-08-10T09:40:21.047Z",
-  "downloadsRefreshedAt": "2026-08-10T09:40:20.773Z",
+  "commit": "f1f712e9ef59a01c4742a3781d0d901620164b6d",
+  "generatedAt": "2026-08-10T09:42:34.899Z",
+  "downloadsRefreshedAt": "2026-08-10T09:42:34.102Z",
   "count": 3159,
   "extensions": [
     {
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502465
+      "downloads": 502468
     },
     {
       "dir": "color-shades",
@@ -21572,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491290
+      "downloads": 491291
     },
     {
       "dir": "google-chrome-profiles",
@@ -27809,7 +27809,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660035
+      "downloads": 660037
     },
     {
       "dir": "kimai",
@@ -35151,7 +35151,7 @@
       "description": "Search, save, upload, and organize your mymind library with the official API",
       "author": "arian",
       "owner": "mymind",
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Applications",
         "Productivity"
@@ -35163,7 +35163,7 @@
       ],
       "store": "https://www.raycast.com/mymind/mymind",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mymind",
-      "treeSha": "4727e3f0b38a6519fc4ef5b0680789827e014b54",
+      "treeSha": "7262f3612de774939de7c2c968952ab06516eb81",
       "downloads": 1255
     },
     {
