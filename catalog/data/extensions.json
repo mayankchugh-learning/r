@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "86d05917ca781c91019bd9c3b4381024658d6a6d",
-  "generatedAt": "2026-08-10T09:36:40.578Z",
-  "downloadsRefreshedAt": "2026-08-10T09:36:39.969Z",
+  "commit": "bfe9f609bbe605dd75331ecc425a2840d4c0e642",
+  "generatedAt": "2026-08-10T09:40:21.047Z",
+  "downloadsRefreshedAt": "2026-08-10T09:40:20.773Z",
   "count": 3159,
   "extensions": [
     {
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502461
+      "downloads": 502465
     },
     {
       "dir": "color-shades",
@@ -21572,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491288
+      "downloads": 491290
     },
     {
       "dir": "google-chrome-profiles",
@@ -23173,11 +23173,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/islamtayeb/helium",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/helium",
-      "treeSha": "49683aa93d97c3452c8cf1833c09eafcf93a0ce7",
+      "treeSha": "590dee5dbc822f6d978408f4a40498e6940b55b4",
       "downloads": 1405
     },
     {
@@ -27808,7 +27809,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660031
+      "downloads": 660035
     },
     {
       "dir": "kimai",

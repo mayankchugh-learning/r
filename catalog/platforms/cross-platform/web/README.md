@@ -1,8 +1,8 @@
 # Cross-platform · Web
 
-129 extensions · [← Cross-platform](../README.md)
+130 extensions · [← Cross-platform](../README.md)
 
-[AI Services](#ai-services) (12) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (46) · [Bookmarks & Read Later](#bookmarks-read-later) (1) · [URL & Domain Tools](#url-domain-tools) (18) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
+[AI Services](#ai-services) (12) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (46) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (18) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
 
 ## Browse & Search
 
@@ -67,6 +67,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,405 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
 | [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) | 9 | Access your FAVORO bookmarks directly from Raycast, even faster | andworksGmbH | macOS, Windows | [store](https://www.raycast.com/andworksGmbH/favoro) |
 
 ## Sites & Domains

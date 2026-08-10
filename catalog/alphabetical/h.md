@@ -21,7 +21,7 @@
 | [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,092 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
 | [HubSpot](https://github.com/raycast/extensions/tree/main/extensions/hubspot) | 1,576 | Search Hubspot Contacts, Companies and Deals | harisvsulaiman | macOS | [store](https://www.raycast.com/harisvsulaiman/hubspot) |
 | [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,439 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
-| [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,405 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS | [store](https://www.raycast.com/islamtayeb/helium) |
+| [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,405 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
 | [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) | 1,399 | Use Huggingface models for summarization, translation, ... | ragnor | macOS | [store](https://www.raycast.com/ragnor/huggingcast) |
 | [Hexlify](https://github.com/raycast/extensions/tree/main/extensions/hexlify) | 1,360 | Convert between hex and binary representations | gkpln3 | macOS | [store](https://www.raycast.com/gkpln3/hexlify) |
 | [Hellonext Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/hellonext-wallpapers) | 1,345 | Download and set Hellonext's exclusive wallpapers. | karthik | macOS | [store](https://www.raycast.com/karthik/hellonext-wallpapers) |

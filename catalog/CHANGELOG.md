@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `bfe9f609bb`
+
+**Updated (1):** [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium)
+
 ## 2026-08-10 — upstream `86d05917ca`
 
 **Updated (1):** [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming)
