@@ -76,7 +76,7 @@
 | [luizkc](https://www.raycast.com/luizkc) | 1 | 74 | **Productivity:** [OSRS Wiki](https://github.com/raycast/extensions/tree/main/extensions/osrs-wiki) |
 | [lukashornych](https://www.raycast.com/lukashornych) | 1 | 7 | **Developer Tools:** [Hole Sandbox Launcher](https://github.com/raycast/extensions/tree/main/extensions/hole-sandbox-launcher) |
 | [luke_esterhuizen](https://www.raycast.com/luke_esterhuizen) | 1 | 245 | **Developer Tools:** [WSL Manager](https://github.com/raycast/extensions/tree/main/extensions/wsl-manager) |
-| luke_lin | 1 | — | **Media:** [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) |
+| [luke_lin](https://www.raycast.com/luke_lin) | 1 | 0 | **Media:** [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) |
 | [luknl](https://www.raycast.com/luknl) | 1 | 531 | **Web:** [Myanimelist Search](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) |
 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,782 | **Developer Tools:** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) |
 | [luolei](https://www.raycast.com/luolei) | 2 | 2,354 | **Web:** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep), [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) |

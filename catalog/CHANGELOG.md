@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `f79212b50d`
+
+**Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)
+
 ## 2026-08-10 — upstream `6662c1e0e7`
 
 **Added (1):** [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search)

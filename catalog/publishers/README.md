@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,094,092 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,094,098 |
 | 2 | [raycast](./id/raycast.md) | 11 | 781,316 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,016 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,273 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 660,022 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,276 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 435,972 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 430,619 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,211 |
@@ -2103,12 +2103,12 @@
 | 2093 | [drew_levinson](https://www.raycast.com/drew_levinson) | 1 | 0 |
 | 2094 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2095 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2096 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
-| 2097 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2098 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
-| 2099 | github-next | 2 | — |
-| 2100 | buffer | 1 | — |
-| 2101 | luke_lin | 1 | — |
+| 2096 | [luke_lin](https://www.raycast.com/luke_lin) | 1 | 0 |
+| 2097 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
+| 2098 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2099 | [Shpigford](https://www.raycast.com/Shpigford) | 1 | 0 |
+| 2100 | github-next | 2 | — |
+| 2101 | buffer | 1 | — |
 | 2102 | multi | 1 | — |
 | 2103 | RaffeYang | 1 | — |
 | 2104 | sharat_visweswara | 1 | — |
