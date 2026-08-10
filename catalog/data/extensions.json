@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "96363ab9cda24fb79a36153c7e61e4b54d9b47f8",
-  "generatedAt": "2026-08-10T08:23:35.223Z",
-  "downloadsRefreshedAt": "2026-08-10T08:23:34.284Z",
+  "commit": "1fca62b5b488656f3fd2a4b72452eae3f017bd04",
+  "generatedAt": "2026-08-10T08:35:31.756Z",
+  "downloadsRefreshedAt": "2026-08-10T08:35:31.546Z",
   "count": 3157,
   "extensions": [
     {
@@ -677,10 +677,10 @@
       "dir": "agent-usage",
       "name": "agent-usage",
       "title": "Agent Usage",
-      "description": "Monitor AI coding agent usage across Amp, Claude, Codex, Copilot, Cursor, Droid, Gemini, Grok, Kimi, Synthetic, Antigravity, z.ai, MiniMax, and OpenCode Go",
+      "description": "Monitor AI coding agent usage across Amp, Antigravity, Claude, ClinePass, Codex, Copilot, Cursor, Droid, Gemini, Grok, Kimi, MiniMax, OpenCode Go, Synthetic and z.ai",
       "author": "thuggyduck",
       "owner": null,
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "Productivity"
       ],
@@ -691,7 +691,7 @@
       ],
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
-      "treeSha": "6ac9cec5e46c9428a47d1a90674799c4958eeaa5",
+      "treeSha": "784c64aa18660ac067093e680ae06337559474be",
       "downloads": 2483
     },
     {
@@ -9534,7 +9534,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502414
+      "downloads": 502422
     },
     {
       "dir": "color-shades",
@@ -21530,7 +21530,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491233
+      "downloads": 491247
     },
     {
       "dir": "google-chrome-profiles",
@@ -27766,7 +27766,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 659971
+      "downloads": 659983
     },
     {
       "dir": "kimai",
