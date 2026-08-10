@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ae7dc4e6633c2749f1d56f7447ec456034869032",
-  "generatedAt": "2026-08-10T11:00:33.307Z",
-  "downloadsRefreshedAt": "2026-08-10T11:00:32.809Z",
-  "count": 3159,
+  "commit": "3c12fb89f240a646025440fe458c4cb73d6a26f9",
+  "generatedAt": "2026-08-10T11:01:36.151Z",
+  "downloadsRefreshedAt": "2026-08-10T11:01:35.237Z",
+  "count": 3160,
   "extensions": [
     {
       "dir": "0x0",
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502510
+      "downloads": 502511
     },
     {
       "dir": "color-shades",
@@ -21572,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491341
+      "downloads": 491342
     },
     {
       "dir": "google-chrome-profiles",
@@ -27809,7 +27809,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660085
+      "downloads": 660086
     },
     {
       "dir": "kimai",
@@ -56522,6 +56522,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/temporary-email",
       "treeSha": "f71b400209ad2ac4eaf65f9091da5589986eb963",
       "downloads": 11069
+    },
+    {
+      "dir": "ten-four",
+      "name": "ten-four",
+      "title": "Ten Four",
+      "description": "A shelf of clean, copyable snippets pushed from your terminal or Claude Code. \"10-4, copy that\": copy them out of Raycast with pristine formatting, no mangled line breaks.",
+      "author": "jaymcc",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ten-four",
+      "treeSha": "4fe5e933ec164e3659a2f79d14d83814fb478e9b",
+      "downloads": null
     },
     {
       "dir": "tennis-standings",

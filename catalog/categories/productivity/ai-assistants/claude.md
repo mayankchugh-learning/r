@@ -1,6 +1,6 @@
 # Claude ✦
 
-8 extensions · [← AI & Assistants](./README.md)
+9 extensions · [← AI & Assistants](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -14,3 +14,4 @@
 | [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 29 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
 | [Claude Session Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/claude-session-bookmarks) | 13 | Save and quickly open your Claude Code session links without keeping a pile of browser tabs around. | eaescob | macOS | [store](https://www.raycast.com/eaescob/claude-session-bookmarks) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |
+| [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four) | — | A shelf of clean, copyable snippets pushed from your terminal or Claude Code. "10-4, copy that": copy them out of Raycast with pristine formatting, no mangled… | jaymcc | macOS | — |

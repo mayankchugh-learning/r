@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `3c12fb89f2`
+
+**Added (1):** [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four)
+
 ## 2026-08-10 — upstream `ae7dc4e663`
 
 **Updated (1):** [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant)

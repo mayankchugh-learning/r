@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · **T** · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-206 extensions · [← catalog index](../README.md)
+207 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -212,3 +212,4 @@
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 1 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) | 1 | Helper tools for Tibia including NPC prices, Rashid location, and imbuement guides | kjbakke | macOS | [store](https://www.raycast.com/kjbakke/tibia-helper) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
+| [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four) | — | A shelf of clean, copyable snippets pushed from your terminal or Claude Code. "10-4, copy that": copy them out of Raycast with pristine formatting, no mangled… | jaymcc | macOS | — |

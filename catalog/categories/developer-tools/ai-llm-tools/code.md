@@ -1,6 +1,6 @@
 # Code ✦
 
-12 extensions · [← AI & LLM Tools](./README.md)
+13 extensions · [← AI & LLM Tools](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -18,3 +18,4 @@
 | [Threadlens](https://github.com/raycast/extensions/tree/main/extensions/threadlens) | 7 | Search local coding-agent sessions across Codex, Claude Code, Cursor, and more. | moinulmoin | macOS | [store](https://www.raycast.com/moinulmoin/threadlens) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |
 | [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) | — | Take an idea from anywhere and turn it into code with Copilot Workspace | github-next (org) | macOS | — |
+| [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four) | — | A shelf of clean, copyable snippets pushed from your terminal or Claude Code. "10-4, copy that": copy them out of Raycast with pristine formatting, no mangled… | jaymcc | macOS | — |
