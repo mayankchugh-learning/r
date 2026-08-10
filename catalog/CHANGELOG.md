@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `47470c935b`
+
+**Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)
+
 ## 2026-08-10 — upstream `de274806bd`
 
 **Updated (1):** [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant)

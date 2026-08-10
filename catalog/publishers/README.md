@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,094,074 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,094,080 |
 | 2 | [raycast](./id/raycast.md) | 11 | 781,308 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 659,989 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,249 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 659,999 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 491,258 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 435,972 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 430,619 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,211 |
@@ -412,7 +412,7 @@
 | 402 | [adelowo](https://www.raycast.com/adelowo) | 1 | 2,187 |
 | 403 | [yf_zhang](https://www.raycast.com/yf_zhang) | 1 | 2,152 |
 | 404 | [zkondor](https://www.raycast.com/zkondor) | 1 | 2,134 |
-| 405 | [lachie_james](https://www.raycast.com/lachie_james) | 1 | 2,132 |
+| 405 | [lachie_james](https://www.raycast.com/lachie_james) | 1 | 2,133 |
 | 406 | [kennonb](https://www.raycast.com/kennonb) | 1 | 2,127 |
 | 407 | [magneto](https://www.raycast.com/magneto) | 1 | 2,120 |
 | 408 | [matt](https://www.raycast.com/matt) | 1 | 2,120 |
