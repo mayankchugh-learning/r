@@ -21,7 +21,7 @@
 | [Random Color](https://github.com/raycast/extensions/tree/main/extensions/random-color) | 246 | Pick a random color. | srcrip | macOS | [store](https://www.raycast.com/srcrip/random-color) |
 | [WLED Controller](https://github.com/raycast/extensions/tree/main/extensions/wled-controller) | 97 | Control your WLED devices - manage devices, set colors, effects, and brightness directly from Raycast | creative-koda-lab | macOS, Windows | [store](https://www.raycast.com/creative-koda-lab/wled-controller) |
 | [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) | 80 | View and copy Minecraft chat color codes. | lafkpages | macOS | [store](https://www.raycast.com/luisafk/minecraft-color-codes) |
-| [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) | — | Search, preview, and copy Chinese traditional colors and harmony palettes. | RaffeYang | macOS, Windows | — |
+| [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) | 0 | Search, preview, and copy Chinese traditional colors and harmony palettes. | RaffeYang | macOS, Windows | [store](https://www.raycast.com/raffeyang/chinese-traditional-colors) |
 
 ## Images ✦
 

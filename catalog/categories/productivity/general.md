@@ -1,6 +1,6 @@
 # General
 
-368 extensions · [← Productivity](./README.md)
+369 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -353,6 +353,7 @@
 | [Next Up](https://github.com/raycast/extensions/tree/main/extensions/next-up) | 8 | A simple all-in-one scheduler and quick glance to manage custom weekly schedules for class and more! | adrianbonpin | macOS | [store](https://www.raycast.com/adrianbonpin/next-up) |
 | [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly) | 6 | Manage your desk.ly desk-sharing bookings | skroll | macOS, Windows | [store](https://www.raycast.com/skroll/raycast-deskly) |
 | [BetterStack Utils](https://github.com/raycast/extensions/tree/main/extensions/betterstack-utils) | 5 | View your BetterStack Primary on-call schedule | doktor500 | macOS | [store](https://www.raycast.com/doktor500/betterstack-utils) |
+| [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh) | 5 | Quickly add vocabulary cards to your Inoh decks | tai | macOS | [store](https://www.raycast.com/tai/inoh) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | 5 | Quickly add vocabulary cards to your Joey decks | tai | macOS | [store](https://www.raycast.com/tai/joey-vocab) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [Timely](https://github.com/raycast/extensions/tree/main/extensions/timely) | 5 | List and create Timely projects from Raycast. | Dohm | macOS, Windows | [store](https://www.raycast.com/Dohm/timely) |

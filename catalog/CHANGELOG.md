@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `ae4cfc9bcb`
+
+**Added (1):** [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh)
+
 ## 2026-08-10 — upstream `4e975dd8bd`
 
 **Updated (1):** [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom)

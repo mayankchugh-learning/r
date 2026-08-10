@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4e975dd8bdfa98916df96b2d00219c75b66de595",
-  "generatedAt": "2026-08-10T12:47:42.788Z",
-  "downloadsRefreshedAt": "2026-08-10T12:47:42.427Z",
-  "count": 3160,
+  "commit": "ae4cfc9bcbd927c4d701b51dc9d728d143d062d7",
+  "generatedAt": "2026-08-10T13:09:54.966Z",
+  "downloadsRefreshedAt": "2026-08-10T13:09:54.132Z",
+  "count": 3161,
   "extensions": [
     {
       "dir": "0x0",
@@ -7575,10 +7575,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/raffeyang/chinese-traditional-colors",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors",
       "treeSha": "ce6539a754805b572ce39b8bdc0579ee73394192",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "chmod-lookup",
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502560
+      "downloads": 502580
     },
     {
       "dir": "color-shades",
@@ -21572,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491405
+      "downloads": 491416
     },
     {
       "dir": "google-chrome-profiles",
@@ -25496,6 +25496,26 @@
       "downloads": 90
     },
     {
+      "dir": "inoh",
+      "name": "inoh",
+      "title": "Inoh",
+      "description": "Quickly add vocabulary cards to your Inoh decks",
+      "author": "tai",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/tai/inoh",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/inoh",
+      "treeSha": "65f8d3cb8884b686b6323b54fbb16643a197c729",
+      "downloads": 5
+    },
+    {
       "dir": "inoreader",
       "name": "inoreader",
       "title": "Inoreader",
@@ -27809,7 +27829,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660143
+      "downloads": 660160
     },
     {
       "dir": "kimai",
@@ -66281,7 +66301,7 @@
       "store": "https://www.raycast.com/raycast/zoom",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zoom",
       "treeSha": "08da761dd7a5d751ef708d45329c356e2ffae842",
-      "downloads": 100446
+      "downloads": 100467
     },
     {
       "dir": "zoom-control",

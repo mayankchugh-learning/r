@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-498 of 1416 extensions · [← macOS · Productivity](./README.md)
+499 of 1417 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -485,6 +485,7 @@
 | [India Toolkit](https://github.com/raycast/extensions/tree/main/extensions/india-toolkit) | 7 | Quick India utilities — GST calculator, IFSC code lookup, and pincode lookup. | kur_ankur | macOS, Windows | [store](https://www.raycast.com/kur_ankur/india-toolkit) |
 | [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly) | 6 | Manage your desk.ly desk-sharing bookings | skroll | macOS, Windows | [store](https://www.raycast.com/skroll/raycast-deskly) |
 | [BetterStack Utils](https://github.com/raycast/extensions/tree/main/extensions/betterstack-utils) | 5 | View your BetterStack Primary on-call schedule | doktor500 | macOS | [store](https://www.raycast.com/doktor500/betterstack-utils) |
+| [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh) | 5 | Quickly add vocabulary cards to your Inoh decks | tai | macOS | [store](https://www.raycast.com/tai/inoh) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | 5 | Quickly add vocabulary cards to your Joey decks | tai | macOS | [store](https://www.raycast.com/tai/joey-vocab) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [Timely](https://github.com/raycast/extensions/tree/main/extensions/timely) | 5 | List and create Timely projects from Raycast. | Dohm | macOS, Windows | [store](https://www.raycast.com/Dohm/timely) |
