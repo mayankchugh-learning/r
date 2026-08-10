@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-10 — upstream `625a30bbd7`
+
+**Added (1):** [Microsoft Tenant ID](https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id)
+
 ## 2026-08-10 — upstream `6b1e9709be`
 
 **Added (1):** [Install Fonts](https://github.com/raycast/extensions/tree/main/extensions/install-fonts)

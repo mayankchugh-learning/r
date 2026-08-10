@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6b1e9709be8b3c6e2e94a3e8f67ccf859b647b15",
-  "generatedAt": "2026-08-10T15:11:55.776Z",
-  "downloadsRefreshedAt": "2026-08-10T15:11:55.548Z",
-  "count": 3162,
+  "commit": "625a30bbd719c5a3bbf4c8668e85d8ad85cecc32",
+  "generatedAt": "2026-08-10T15:18:25.714Z",
+  "downloadsRefreshedAt": "2026-08-10T15:18:25.057Z",
+  "count": 3163,
   "extensions": [
     {
       "dir": "0x0",
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 502655
+      "downloads": 502659
     },
     {
       "dir": "color-shades",
@@ -21572,7 +21572,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 491508
+      "downloads": 491514
     },
     {
       "dir": "google-chrome-profiles",
@@ -25635,10 +25635,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/will_thresher/install-fonts",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/install-fonts",
       "treeSha": "1dd74aed0588fe6627c50b3fbff7511cf9524e77",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "installed-extensions",
@@ -27849,7 +27849,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 660266
+      "downloads": 660270
     },
     {
       "dir": "kimai",
@@ -33298,6 +33298,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling",
       "treeSha": "32dd53ad09d8c856ce9d3c354f2f162a28417f5f",
       "downloads": 8980
+    },
+    {
+      "dir": "microsoft-tenant-id",
+      "name": "microsoft-tenant-id",
+      "title": "Microsoft Tenant ID",
+      "description": "Find the Microsoft Entra (Azure AD) tenant ID for a domain, email, or URL — or reverse-look up the organization behind a tenant ID.",
+      "author": "Rediwed",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id",
+      "treeSha": "d9f80604e1ce754ae3c4818c7d84155fffcbaa75",
+      "downloads": null
     },
     {
       "dir": "midas",

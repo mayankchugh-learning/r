@@ -1,4 +1,4 @@
-# Domains ✦
+# Domain ✦
 
 8 extensions · [← URL & Domain Tools](./README.md)
 

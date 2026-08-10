@@ -1,8 +1,8 @@
 # URL ✦
 
-24 extensions · [← URL & Domain Tools](./README.md)
+25 extensions · [← URL & Domain Tools](./README.md)
 
-[URL Shortener ✦](#url-shortener) (6) · [Clipboard ✦](#clipboard) (5) · [General](#general) (13)
+[URL Shortener ✦](#url-shortener) (6) · [Clipboard ✦](#clipboard) (5) · [General](#general) (14)
 
 *✦ auto-discovered topic group*
 
@@ -44,3 +44,4 @@
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 7 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 2 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
 | [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | 0 | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | [store](https://www.raycast.com/meslva/cl1p) |
+| [Microsoft Tenant ID](https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id) | — | Find the Microsoft Entra (Azure AD) tenant ID for a domain, email, or URL — or reverse-look up the organization behind a tenant ID. | Rediwed | macOS, Windows | — |
