@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,828 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
-| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,203 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
-| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 9,973 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
-| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 3,835 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,836 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,206 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
+| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 9,978 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
+| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 3,836 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
 | [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,605 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
 | [VirusTotal](https://github.com/raycast/extensions/tree/main/extensions/virustotal) | 1,434 | Check files, IP addresses, URLs, and hashes for malware using VirusTotal | sadv1r | macOS, Windows | [store](https://www.raycast.com/sadv1r/virustotal) |
 | [Email Verifier](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) | 930 | A tool for email verification without sending any emails | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/email-verifier) |
@@ -19,7 +19,7 @@
 | [Greip](https://github.com/raycast/extensions/tree/main/extensions/greip) | 72 | Use endpoint from greip.io directly from Raycast | ghadeer | macOS | [store](https://www.raycast.com/ghadeer/greip) |
 | [Resmo](https://github.com/raycast/extensions/tree/main/extensions/resmo) | 68 | Search all resources across Cloud and SaaS | resmo (org) | macOS | [store](https://www.raycast.com/resmo/resmo) |
 | [Shodan](https://github.com/raycast/extensions/tree/main/extensions/shodan) | 58 | Search the Shodan database for internet-connected devices, view host details, and manage saved queries | owanesh | macOS | [store](https://www.raycast.com/owanesh/shodan) |
-| [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 7 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
+| [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 9 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
 | [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) | 4 | Create zero-knowledge, ephemeral p00f links from Raycast. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/p00f) |
 | [Starline](https://github.com/raycast/extensions/tree/main/extensions/starline) | 1 | Manage your Starline devices. Requires developer account. | sfominx | macOS | [store](https://www.raycast.com/sfominx/starline) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 0 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |

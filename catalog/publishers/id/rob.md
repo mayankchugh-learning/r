@@ -1,6 +1,6 @@
 # Rob
 
-11 extensions · 10,452 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
+11 extensions · 10,453 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
 
 ## Productivity (2)
 
@@ -13,7 +13,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 606 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
+| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 607 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
 | [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 511 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
 | [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 348 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 321 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |

@@ -1,6 +1,6 @@
 # xmok
 
-111 extensions · 11,293 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+111 extensions · 11,294 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -261,7 +261,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 121 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
+| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 122 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
 
 ## Other (1)
 

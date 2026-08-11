@@ -1,12 +1,12 @@
 # chrismessina
 
-14 extensions · 6,177 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+14 extensions · 6,179 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,070 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
+| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,071 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
 | [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 196 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
 | [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap) | 83 | Wrap and unwrap text using Markdown-aware reflow. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/wrap-unwrap) |
 | [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 32 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
@@ -23,7 +23,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 790 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
-| [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 156 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
+| [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 157 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 
 ## Web (1)
 

@@ -10,13 +10,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 61,071 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
-| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 33,881 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
-| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,360 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
-| [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) | 9,865 | Remove background from image with the Mac Vision API | xmorse | macOS | [store](https://www.raycast.com/xmorse/remove-background-powered-by-mac) |
-| [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,323 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
+| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 61,086 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
+| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 33,883 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
+| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,362 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
+| [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) | 9,866 | Remove background from image with the Mac Vision API | xmorse | macOS | [store](https://www.raycast.com/xmorse/remove-background-powered-by-mac) |
+| [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,324 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
 | [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,834 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
-| [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu) | 3,029 | Easy retrieval of web emoji and GIF images while chatting. | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/doutu) |
+| [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu) | 3,030 | Easy retrieval of web emoji and GIF images while chatting. | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/doutu) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,583 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,515 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) | 1,452 | Store and retrieve images quickly from Raycast! | ibll | macOS | [store](https://www.raycast.com/ibll/image-wallet) |
@@ -50,9 +50,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,094 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
+| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,096 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [IconPark](https://github.com/raycast/extensions/tree/main/extensions/iconpark) | 2,018 | IconPark gives access to more than 2000 high-quality icons without API key and network. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/iconpark) |
-| [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 156 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
+| [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 157 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 | [Remix Icon](https://github.com/raycast/extensions/tree/main/extensions/remix-icon) | 116 | Search and browse icons from Remix Icon library | tristan_heinig | macOS | [store](https://www.raycast.com/tristan_heinig/remix-icon) |
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 7 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
 
@@ -60,9 +60,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 89,984 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
+| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 90,007 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
 | [Pika](https://github.com/raycast/extensions/tree/main/extensions/pika) | 891 | Beautify screenshots quickly using pika.style | rishi | macOS | [store](https://www.raycast.com/rishi/pika) |
-| [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 884 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
+| [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 885 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
 | [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos) | 834 | Browse your recent Apple Photos in a grid and paste the latest photo directly into any app. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/apple-photos) |
 | [Capture Raycast Metadata](https://github.com/raycast/extensions/tree/main/extensions/capture-raycast-metadata) | 832 | Capture a screenshot for Raycast extension's metadata. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/capture-raycast-metadata) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 529 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |

@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman) | 2,100 | Boost your email workflow with powerful contextual Superhuman integration. Draft emails with context and search your inbox using Superhuman's advanced operator… | jlokos | macOS | [store](https://www.raycast.com/jlokos/superhuman) |
-| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 931 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
+| [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman) | 2,101 | Boost your email workflow with powerful contextual Superhuman integration. Draft emails with context and search your inbox using Superhuman's advanced operator… | jlokos | macOS | [store](https://www.raycast.com/jlokos/superhuman) |
+| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 932 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 | [Workflowy Inbox](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) | 657 | Quickly add items to your Workflowy inbox. (This is an independent extension and is not created by Workflowy.) | cameron_pak | macOS, Windows | [store](https://www.raycast.com/cameron_pak/workflowy-inbox) |
 | [Universal Inbox](https://github.com/raycast/extensions/tree/main/extensions/universal-inbox) | 253 | Manage your notifications in a single Universal Inbox | dax42 | macOS | [store](https://www.raycast.com/dax42/universal-inbox) |
 | [Kinopio Inbox](https://github.com/raycast/extensions/tree/main/extensions/kinopio-inbox) | 179 | Add cards to your Kinopio inbox | pirijan | macOS | [store](https://www.raycast.com/pirijan/kinopio-inbox) |
@@ -32,9 +32,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) | 34,595 | View 2FA codes from iMessage and Email | yuercl | macOS | [store](https://www.raycast.com/yuercl/imessage-2fa) |
-| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,072 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
-| [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 3,897 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS | [store](https://www.raycast.com/svenhofman/hidemyemail) |
+| [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) | 34,606 | View 2FA codes from iMessage and Email | yuercl | macOS | [store](https://www.raycast.com/yuercl/imessage-2fa) |
+| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,074 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
+| [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 3,899 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS | [store](https://www.raycast.com/svenhofman/hidemyemail) |
 | [Gmail Accounts](https://github.com/raycast/extensions/tree/main/extensions/gmail-accounts) | 1,625 | Quickly access your Gmail accounts in Chrome (requires Google Chrome) | lachero | macOS | [store](https://www.raycast.com/lachero/gmail-accounts) |
 | [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) | 1,408 | Manage masked emails with Fastmail | LightQuantum | macOS | [store](https://www.raycast.com/LightQuantum/fastmail-masked-email) |
 | [Dash Off](https://github.com/raycast/extensions/tree/main/extensions/dash-off) | 1,065 | The fastest way to dash off a quick email to yourself and others | peduarte | macOS | [store](https://www.raycast.com/peduarte/dash-off) |

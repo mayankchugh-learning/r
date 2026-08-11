@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-11 — upstream `22efd400e0`
+
+**Updated (1):** [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons)
+
 ## 2026-08-11 — upstream `a3b02f1f27`
 
 **Updated (2):** [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere), [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons)

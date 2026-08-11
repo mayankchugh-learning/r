@@ -1,6 +1,6 @@
 # j3lte
 
-13 extensions · 9,721 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
+13 extensions · 9,723 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
 
 ## Media (2)
 
@@ -16,7 +16,7 @@
 | [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,211 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
 | [CSS Tricks](https://github.com/raycast/extensions/tree/main/extensions/css-tricks) | 826 | Search on CSS Tricks | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/css-tricks) |
 | [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 806 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
-| [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 231 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
+| [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 233 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [Deno Deploy](https://github.com/raycast/extensions/tree/main/extensions/deno-deploy) | 129 | View and modify your Deno Deploy projects | j3lte | macOS | [store](https://www.raycast.com/j3lte/deno-deploy) |
 | [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 84 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
 

@@ -32,7 +32,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 17,730 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
+| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 17,732 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
 | [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) | 166 | View currency rates and all your accounts in monobank. | danulqua | macOS, Windows | [store](https://www.raycast.com/danulqua/monobank) |
 | [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) | 13 | Convert currencies and look up exchange rates for any date back to 1999, powered by UniRateAPI. | rob_brown96cc | Windows, macOS | [store](https://www.raycast.com/rob_brown96cc/unirate-currency) |
 | [Chinese Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-converter) | 6 | Convert number input into Chinese formatted text, including uppercase RMB amount text. | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/chinese-converter) |
@@ -65,7 +65,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,248 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
+| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,249 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Gumroad Sales](https://github.com/raycast/extensions/tree/main/extensions/gumroad) | 81 | View your sales and products from Gumroad | eddiesigner | macOS, Windows | [store](https://www.raycast.com/eddiesigner/gumroad) |
 | [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | 69 | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |
 | [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 61 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
@@ -87,8 +87,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 238,736 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,680 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 238,758 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,682 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,133 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 22 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |
 | [Sadaqah Box](https://github.com/raycast/extensions/tree/main/extensions/sadaqah-box) | 7 | Manage your charity boxes and sadaqahs | emircanerkul | macOS, Windows | [store](https://www.raycast.com/emircanerkul/sadaqah-box) |

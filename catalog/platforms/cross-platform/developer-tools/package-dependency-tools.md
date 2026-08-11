@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 31,987 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,640 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 31,990 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,644 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
 | [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,262 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
 | [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 245 | Search Context7 libraries and browse documentation context from Raycast | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
-| [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 231 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
+| [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 233 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [Repology Search](https://github.com/raycast/extensions/tree/main/extensions/repology-search) | 91 | Search packages from repology.org | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/repology-search) |
 | [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 91 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
 | [npm Claimer](https://github.com/raycast/extensions/tree/main/extensions/npm-claimer) | 56 | Instantly claim npm package names in one click | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/npm-claimer) |

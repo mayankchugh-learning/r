@@ -10,22 +10,22 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) | 208,418 | Search, open or edit your 1Password passwords from Raycast | khasbilegt | macOS, Windows | [store](https://www.raycast.com/khasbilegt/1password) |
-| [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 57,820 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
-| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,462 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
+| [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) | 208,460 | Search, open or edit your 1Password passwords from Raycast | khasbilegt | macOS, Windows | [store](https://www.raycast.com/khasbilegt/1password) |
+| [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 57,825 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
+| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,463 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
 | [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,415 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [LastPass Credentials Search](https://github.com/raycast/extensions/tree/main/extensions/lastpass) | 2,567 | Search, view, and copy credentials from LastPass | alex-popov-tech | macOS | [store](https://www.raycast.com/alex-popov-tech/lastpass) |
-| [Dashlane](https://github.com/raycast/extensions/tree/main/extensions/dashlane) | 2,357 | Access your Dashlane vault directly from Raycast | dpnick | macOS | [store](https://www.raycast.com/dpnick/dashlane) |
+| [Dashlane](https://github.com/raycast/extensions/tree/main/extensions/dashlane) | 2,358 | Access your Dashlane vault directly from Raycast | dpnick | macOS | [store](https://www.raycast.com/dpnick/dashlane) |
 | [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,073 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
 | [Doppler Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) | 1,763 | Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets | thomas | macOS | [store](https://www.raycast.com/thomas/doppler-share-secrets) |
 | [Apple-Like Password](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) | 1,521 | Copies a generated Apple Keychain-Like password directly to the clipboard in one step | breadone | macOS | [store](https://www.raycast.com/breadone/keychain-password-gen) |
 | [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) | 1,408 | Generates a set of random passwords using different generators. | omBratteng | macOS | [store](https://www.raycast.com/omBratteng/passphrase-generator) |
-| [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) | 1,404 | Access Dashlane Vault. Requires installing the Dashlane CLI. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/dashlane-vault) |
-| [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) | 1,195 | Search and manage your Proton Pass items, generate passwords, and get TOTP codes. | izyuumi | macOS | [store](https://www.raycast.com/izyuumi/proton-pass) |
-| [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 992 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
-| [Password Store](https://github.com/raycast/extensions/tree/main/extensions/password-store) | 767 | A Raycast Extension for managing passwordstore.org passwords | afok | macOS | [store](https://www.raycast.com/afok/password-store) |
+| [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) | 1,405 | Access Dashlane Vault. Requires installing the Dashlane CLI. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/dashlane-vault) |
+| [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) | 1,196 | Search and manage your Proton Pass items, generate passwords, and get TOTP codes. | izyuumi | macOS | [store](https://www.raycast.com/izyuumi/proton-pass) |
+| [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 994 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
+| [Password Store](https://github.com/raycast/extensions/tree/main/extensions/password-store) | 768 | A Raycast Extension for managing passwordstore.org passwords | afok | macOS | [store](https://www.raycast.com/afok/password-store) |
 | [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 573 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
-| [Pass](https://github.com/raycast/extensions/tree/main/extensions/pass) | 508 | An extension to handle the standard unix password manager in a convenient way using Raycast | capipo | macOS | [store](https://www.raycast.com/capipo/pass) |
+| [Pass](https://github.com/raycast/extensions/tree/main/extensions/pass) | 509 | An extension to handle the standard unix password manager in a convenient way using Raycast | capipo | macOS | [store](https://www.raycast.com/capipo/pass) |
 | [Gopass](https://github.com/raycast/extensions/tree/main/extensions/gopass) | 501 | Search and copy passwords from gopass password manager | bake | macOS | [store](https://www.raycast.com/bake/gopass) |
 | [Apple Password](https://github.com/raycast/extensions/tree/main/extensions/apple-passwords) | 391 | Search Apple Passwords and copy passwords or one-time codes from your local vault. | alec-harmon | macOS | [store](https://www.raycast.com/alec-harmon/apple-passwords) |
 | [Keeper Security](https://github.com/raycast/extensions/tree/main/extensions/keeper-security) | 325 | Access your Keeper Security secrets directly from Raycast. | keepersecurity | macOS | [store](https://www.raycast.com/keepersecurity/keeper-security) |
@@ -35,10 +35,10 @@
 | [Yopass](https://github.com/raycast/extensions/tree/main/extensions/yopass) | 143 | Secure sharing of secrets and passwords via Yopass | ricoberger | macOS | [store](https://www.raycast.com/ricoberger/yopass) |
 | [XKCD Password Generator](https://github.com/raycast/extensions/tree/main/extensions/xkcd-password-generator) | 141 | Generate strong passwords according to the "xkcd" style: https://xkcd.com/936/ | nkcmr | macOS, Windows | [store](https://www.raycast.com/nkcmr/xkcd-password-generator) |
 | [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) | 130 | Tool to generate passwords from master password | evilhex | macOS | [store](https://www.raycast.com/evilhex/supergenpass) |
-| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 121 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
+| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 122 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
 | [Have I Been Pwned](https://github.com/raycast/extensions/tree/main/extensions/have-i-been-pwned) | 113 | Check if your email or password has been exposed in a data breach | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/have-i-been-pwned) |
 | [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) | 89 | Store and retrieve secrets with biometric authentication (Touch ID, Apple Watch, or Windows Hello) | etheirystech | macOS, Windows | [store](https://www.raycast.com/etheirystech/watchkey) |
-| [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) | 83 | Share passwords, API keys, and private notes securely. Whisper creates encrypted links that expire or self-destruct after viewing. | quentinved | macOS, Windows | [store](https://www.raycast.com/quentinved/whisper) |
+| [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) | 84 | Share passwords, API keys, and private notes securely. Whisper creates encrypted links that expire or self-destruct after viewing. | quentinved | macOS, Windows | [store](https://www.raycast.com/quentinved/whisper) |
 | [Password.link](https://github.com/raycast/extensions/tree/main/extensions/password-link) | 81 | Create and manage encrypted one-time secrets with client-side encryption using password.link | taylor_drayson | macOS | [store](https://www.raycast.com/taylor_drayson/password-link) |
 | [Passbolt](https://github.com/raycast/extensions/tree/main/extensions/passbolt) | 80 | Manage your Passbolt passwords from Raycast | adreatik_dedej | macOS, Windows | [store](https://www.raycast.com/adreatik_dedej/passbolt) |
 | [Shelve](https://github.com/raycast/extensions/tree/main/extensions/shelve) | 74 | Share secrets securely without an account. Set expiration time, control number of reads, and ensure encrypted transmission. | xulobeats | Windows, macOS | [store](https://www.raycast.com/xulobeats/shelve) |
@@ -51,9 +51,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ente Auth](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) | 2,684 | Get TOTP Codes from Ente Auth | chkpwd | macOS, Windows | [store](https://www.raycast.com/chkpwd/ente-auth) |
+| [Ente Auth](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) | 2,685 | Get TOTP Codes from Ente Auth | chkpwd | macOS, Windows | [store](https://www.raycast.com/chkpwd/ente-auth) |
 | [YubiKey Code](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) | 1,002 | Easily get a OTP from your YubiKey | yoyoyeti | macOS | [store](https://www.raycast.com/yoyoyeti/yubikey-code) |
-| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 931 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
+| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 932 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 | [Proton Authenticator](https://github.com/raycast/extensions/tree/main/extensions/proton-authenticator) | 830 | Quick access to TOTP entries from Proton Authenticator | Fared | macOS | [store](https://www.raycast.com/Fared/proton-authenticator) |
 | [Aegis Authenticator](https://github.com/raycast/extensions/tree/main/extensions/aegis) | 324 | Search, sync and use your Aegis 2FA database with Raycast | bfayers | Windows, macOS | [store](https://www.raycast.com/bfayers/aegis) |
 | [2FA Directory](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) | 270 | View a list of 2FA enabled sites. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/2fa-directory) |
@@ -64,7 +64,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Two-Factor Authentication Code Generator](https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator) | 6,123 | Quickly access your two-factor authentication codes. | cjdenio | macOS | [store](https://www.raycast.com/cjdenio/two-factor-authentication-code-generator) |
+| [Two-Factor Authentication Code Generator](https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator) | 6,127 | Quickly access your two-factor authentication codes. | cjdenio | macOS | [store](https://www.raycast.com/cjdenio/two-factor-authentication-code-generator) |
 | [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) | 610 | Private Internet Access VPN Controls | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/pia-controls) |
 | [Privileges](https://github.com/raycast/extensions/tree/main/extensions/privileges) | 293 | Grant and revoke admin permission with SAP Privileges (https://github.com/SAP/macOS-enterprise-privileges). Not affiliated with SAP. | ph00lt0 | macOS | [store](https://www.raycast.com/ph00lt0/privileges) |
 | [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) | 270 | Interact with teleport, the open infrastructure access platform | lamberttraccard | macOS | [store](https://www.raycast.com/lamberttraccard/teleport) |
@@ -85,10 +85,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,381 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
+| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,383 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
 | [Tunnelblick](https://github.com/raycast/extensions/tree/main/extensions/tunnelblick) | 4,161 | Quickly enable and disable vpn connections | SamuelNitsche | macOS | [store](https://www.raycast.com/SamuelNitsche/tunnelblick) |
-| [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 2,628 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
-| [Mullvad VPN](https://github.com/raycast/extensions/tree/main/extensions/mullvad) | 1,727 | Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. | 0x46616c6b | macOS, Windows | [store](https://www.raycast.com/0x46616c6b/mullvad) |
+| [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 2,629 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
+| [Mullvad VPN](https://github.com/raycast/extensions/tree/main/extensions/mullvad) | 1,729 | Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. | 0x46616c6b | macOS, Windows | [store](https://www.raycast.com/0x46616c6b/mullvad) |
 | [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,156 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
 | [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | 785 | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |
 | [NextDNS](https://github.com/raycast/extensions/tree/main/extensions/nextdns) | 776 | Viewing and controlling NextDNS settings | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/nextdns) |
@@ -102,10 +102,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,828 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
-| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,203 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
-| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 9,973 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
-| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 3,835 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,836 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,206 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
+| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 9,978 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
+| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 3,836 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
 | [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,605 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
 | [VirusTotal](https://github.com/raycast/extensions/tree/main/extensions/virustotal) | 1,434 | Check files, IP addresses, URLs, and hashes for malware using VirusTotal | sadv1r | macOS, Windows | [store](https://www.raycast.com/sadv1r/virustotal) |
 | [Email Verifier](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) | 930 | A tool for email verification without sending any emails | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/email-verifier) |
@@ -117,7 +117,7 @@
 | [Greip](https://github.com/raycast/extensions/tree/main/extensions/greip) | 72 | Use endpoint from greip.io directly from Raycast | ghadeer | macOS | [store](https://www.raycast.com/ghadeer/greip) |
 | [Resmo](https://github.com/raycast/extensions/tree/main/extensions/resmo) | 68 | Search all resources across Cloud and SaaS | resmo (org) | macOS | [store](https://www.raycast.com/resmo/resmo) |
 | [Shodan](https://github.com/raycast/extensions/tree/main/extensions/shodan) | 58 | Search the Shodan database for internet-connected devices, view host details, and manage saved queries | owanesh | macOS | [store](https://www.raycast.com/owanesh/shodan) |
-| [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 7 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
+| [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 9 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
 | [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) | 4 | Create zero-knowledge, ephemeral p00f links from Raycast. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/p00f) |
 | [Starline](https://github.com/raycast/extensions/tree/main/extensions/starline) | 1 | Manage your Starline devices. Requires developer account. | sfominx | macOS | [store](https://www.raycast.com/sfominx/starline) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 0 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |

@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 20,784 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
-| [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,197 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
-| [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 8,089 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
-| [Display Modes](https://github.com/raycast/extensions/tree/main/extensions/display-modes) | 6,139 | Manage displays modes (resolution, refresh rate...). | agustin.prats | macOS | [store](https://www.raycast.com/agustin.prats/display-modes) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 20,788 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,198 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
+| [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 8,091 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
+| [Display Modes](https://github.com/raycast/extensions/tree/main/extensions/display-modes) | 6,142 | Manage displays modes (resolution, refresh rate...). | agustin.prats | macOS | [store](https://www.raycast.com/agustin.prats/display-modes) |
 | [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,828 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
-| [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) | 5,514 | Quickly controls the brightness levels of your display | cali | macOS, Windows | [store](https://www.raycast.com/cali/brightness-control) |
+| [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) | 5,516 | Quickly controls the brightness levels of your display | cali | macOS, Windows | [store](https://www.raycast.com/cali/brightness-control) |
 | [Bing Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/bing-wallpaper) | 2,084 | Get, set, auto-switch Bing wallpapers to explore the world. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bing-wallpaper) |
 | [Pick Your Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/pick-your-wallpaper) | 1,595 | Lets you pick a wallpaper from a folder of finder. | hugomarfani | macOS | [store](https://www.raycast.com/hugomarfani/pick-your-wallpaper) |
 | [Hellonext Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/hellonext-wallpapers) | 1,347 | Download and set Hellonext's exclusive wallpapers. | karthik | macOS | [store](https://www.raycast.com/karthik/hellonext-wallpapers) |
@@ -20,5 +20,5 @@
 | [Display Input Switcher](https://github.com/raycast/extensions/tree/main/extensions/display-input-switcher) | 148 | Switches your monitor's input source using Raycast and m1ddc | clins1994 | macOS | [store](https://www.raycast.com/clins1994/display-input-switcher) |
 | [Extend Display](https://github.com/raycast/extensions/tree/main/extensions/extend-display) | 132 | Connect to remote displays and preserve audio output | pavzagor | macOS | [store](https://www.raycast.com/pavzagor/extend-display) |
 | [macOS Appearance Changer](https://github.com/raycast/extensions/tree/main/extensions/macos-appearance-changer) | 79 | Create and apply custom macOS appearance profiles with wallpaper, icon style, and dark mode | huzef44 | macOS | [store](https://www.raycast.com/huzef44/macos-appearance-changer) |
-| [Blackr](https://github.com/raycast/extensions/tree/main/extensions/blackr) | 67 | Turn your main display black for quick screen cleaning. | li_jin | macOS, Windows | [store](https://www.raycast.com/li_jin/blackr) |
+| [Blackr](https://github.com/raycast/extensions/tree/main/extensions/blackr) | 68 | Turn your main display black for quick screen cleaning. | li_jin | macOS, Windows | [store](https://www.raycast.com/li_jin/blackr) |
 | [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper) | 13 | Browse and set Arcane wallpapers. | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/arcane-wallpaper) |
