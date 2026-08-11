@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-11 — upstream `a3b02f1f27`
+
+**Updated (2):** [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere), [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons)
+
 ## 2026-08-11 — upstream `4a9ac1bc0d`
 
 **Updated (1):** [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger)

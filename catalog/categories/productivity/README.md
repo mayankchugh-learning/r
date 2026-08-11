@@ -28,7 +28,7 @@ macOS: 1417 · Windows: 340
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 27 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 67 |
-| [Window & Workspace Management](./window-workspace-management.md) | 48 |
+| [Window & Workspace Management](./window-workspace-management.md) | 47 |
 | [Search & Bookmarks](./search-bookmarks/README.md) | 221 |
 
 ## Learn & Collaborate
@@ -59,6 +59,6 @@ macOS: 1417 · Windows: 340
 | [Password ✦](./password.md) | 8 |
 | [Website ✦](./website.md) | 6 |
 
-Plus [General](./general.md) — 369 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 370 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

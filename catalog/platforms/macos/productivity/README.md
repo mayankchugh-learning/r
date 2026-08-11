@@ -26,7 +26,7 @@
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 27 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 66 |
-| [Window & Workspace Management](./window-workspace-management.md) | 41 |
+| [Window & Workspace Management](./window-workspace-management.md) | 40 |
 | [Search & Bookmarks](./search-bookmarks.md) | 219 |
 
 ## Learn & Collaborate
@@ -37,4 +37,4 @@
 | [Team & Business Tools](./team-business-tools.md) | 15 |
 | [Trackers & Monitors](./trackers-monitors.md) | 36 |
 
-Plus [General](./general.md) — 499 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 500 extensions that don't fit a topic yet.
