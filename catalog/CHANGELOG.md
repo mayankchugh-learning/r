@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-11 — upstream `5f4763ec23`
+
+**Updated (1):** [Open Browsers Profiles](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles)
+
 ## 2026-08-11 — upstream `c64209c723`
 
 **Updated (2):** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict), [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow)
