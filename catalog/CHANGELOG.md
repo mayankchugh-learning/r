@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-11 — upstream `c64209c723`
+
+**Updated (2):** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict), [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow)
+
 ## 2026-08-11 — upstream `22efd400e0`
 
 **Updated (1):** [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons)
