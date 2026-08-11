@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-11 — upstream `1a16f1521e`
+
+**Updated (1):** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs)
+
 ## 2026-08-11 — upstream `5f4763ec23`
 
 **Updated (1):** [Open Browsers Profiles](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles)
