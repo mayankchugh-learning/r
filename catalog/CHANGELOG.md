@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-11 — upstream `4a9ac1bc0d`
+
+**Updated (1):** [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger)
+
 ## 2026-08-11 — upstream `f3368e503b`
 
 **Updated (1):** [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot)
