@@ -7,6 +7,6 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,159 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
-| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 927 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
+| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 928 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
 | [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | 18 | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
 | [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | 18 | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |

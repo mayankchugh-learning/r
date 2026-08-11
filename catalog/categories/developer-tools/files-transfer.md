@@ -23,24 +23,24 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,049 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
-| [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,171 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
+| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,055 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
+| [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,172 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,618 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
-| [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) | 67 | Open selected Finder file or folder in TextMate | fannarfreyr | macOS | [store](https://www.raycast.com/fannarfreyr/open-in-textmate) |
+| [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) | 68 | Open selected Finder file or folder in TextMate | fannarfreyr | macOS | [store](https://www.raycast.com/fannarfreyr/open-in-textmate) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 3,770 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
-| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,383 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
-| [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) | 3,326 | Upload files in a single click | pingdotgg (org) | Windows, macOS | [store](https://www.raycast.com/pingdotgg/uploadthing) |
-| [Disk Utility](https://github.com/raycast/extensions/tree/main/extensions/diskutil) | 1,099 | Create, list and delete Apple File System (APFS) disk volumes | stelo | macOS | [store](https://www.raycast.com/stelo/diskutil) |
+| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,387 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
+| [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) | 3,328 | Upload files in a single click | pingdotgg (org) | Windows, macOS | [store](https://www.raycast.com/pingdotgg/uploadthing) |
+| [Disk Utility](https://github.com/raycast/extensions/tree/main/extensions/diskutil) | 1,101 | Create, list and delete Apple File System (APFS) disk volumes | stelo | macOS | [store](https://www.raycast.com/stelo/diskutil) |
 | [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 583 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
-| [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) | 522 | Quick Raycast actions for Windsurf: open files/folders in Windsurf and manage Windsurf projects. | vikas-bansal | macOS | [store](https://www.raycast.com/vikas-bansal/windsurf) |
+| [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) | 523 | Quick Raycast actions for Windsurf: open files/folders in Windsurf and manage Windsurf projects. | vikas-bansal | macOS | [store](https://www.raycast.com/vikas-bansal/windsurf) |
 | [Asset Catalog Extractor](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) | 200 | Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/asset-catalog-extractor) |
 | [Streamshare Uploader](https://github.com/raycast/extensions/tree/main/extensions/to-streamshare) | 173 | Upload files to streamshare | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/streamshare-uploader) |
-| [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) | 145 | Inspect extended attributes on macOS files, apps, and folders, then select which quarantined items to clear — individually or in bulk — removing the com.apple.… | nurkamol | macOS | [store](https://www.raycast.com/nurkamol/quarantine-manager) |
+| [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) | 146 | Inspect extended attributes on macOS files, apps, and folders, then select which quarantined items to clear — individually or in bulk — removing the com.apple.… | nurkamol | macOS | [store](https://www.raycast.com/nurkamol/quarantine-manager) |
 | [Minio Manager](https://github.com/raycast/extensions/tree/main/extensions/minio-manager) | 72 | Manage files in MinIO object storage | 2214372851 | macOS | [store](https://www.raycast.com/2214372851/minio-manager) |
 | [Figma Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/figma-link-cleaner) | 48 | Clean and shorten Figma URLs instantly. Removes tracking parameters, file slugs, and creates ultra-short fgma.cc links with one hotkey. | iamshubhransh | macOS | [store](https://www.raycast.com/iamshubhransh/figma-link-cleaner) |
 | [Manifest Viewer](https://github.com/raycast/extensions/tree/main/extensions/manifest-viewer) | 44 | View and navigate HLS/DASH manifest files with keyboard navigation to child variant playlists | stonko1994 | macOS, Windows | [store](https://www.raycast.com/stonko1994/manifest-viewer) |

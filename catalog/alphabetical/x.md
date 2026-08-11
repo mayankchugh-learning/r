@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,083 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
-| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,319 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
-| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,168 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,089 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,321 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
+| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,170 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,122 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
 | [Xcodes](https://github.com/raycast/extensions/tree/main/extensions/xcodes) | 624 | Manage several versions of Xcode | pacadil | macOS | [store](https://www.raycast.com/adil.dev/xcodes) |
-| [Xcode Cloud](https://github.com/raycast/extensions/tree/main/extensions/xcode-cloud) | 567 | Check your Xcode Cloud builds and start new ones. | yuta24 | macOS | [store](https://www.raycast.com/yuta24/xcode-cloud) |
+| [Xcode Cloud](https://github.com/raycast/extensions/tree/main/extensions/xcode-cloud) | 568 | Check your Xcode Cloud builds and start new ones. | yuta24 | macOS | [store](https://www.raycast.com/yuta24/xcode-cloud) |
 | [XKCD Password Generator](https://github.com/raycast/extensions/tree/main/extensions/xkcd-password-generator) | 141 | Generate strong passwords according to the "xkcd" style: https://xkcd.com/936/ | nkcmr | macOS, Windows | [store](https://www.raycast.com/nkcmr/xkcd-password-generator) |
 | [xid](https://github.com/raycast/extensions/tree/main/extensions/xid) | 60 | Quickly create an xid from Raycast. | rosszurowski | macOS | [store](https://www.raycast.com/rosszurowski/xid) |
 | [xQc](https://github.com/raycast/extensions/tree/main/extensions/xqc) | 29 | Search and Explore Vods for twitch.tv/xqc | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/xqc) |
