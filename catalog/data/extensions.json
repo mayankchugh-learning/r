@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b0dabd94d89e693acc9053f558f94c04f74d77fb",
-  "generatedAt": "2026-08-12T07:42:36.611Z",
-  "downloadsRefreshedAt": "2026-08-12T07:42:35.748Z",
+  "commit": "de773e2ccc77d1ca229e4cc214b623cf35ba437d",
+  "generatedAt": "2026-08-12T08:10:37.491Z",
+  "downloadsRefreshedAt": "2026-08-12T08:10:37.215Z",
   "count": 3163,
   "extensions": [
     {
@@ -5894,7 +5894,7 @@
       "store": "https://www.raycast.com/koinzhang/browser-tabs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-tabs",
       "treeSha": "ab059cb4f15e4903ed6d218c33bbcc7d84b52f51",
-      "downloads": 8286
+      "downloads": 8287
     },
     {
       "dir": "browsers-profiles",
@@ -9577,7 +9577,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 503700
+      "downloads": 503718
     },
     {
       "dir": "color-shades",
@@ -13647,7 +13647,7 @@
       ],
       "store": "https://www.raycast.com/xmok/directadmin-reseller",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/directadmin-reseller",
-      "treeSha": "5102568acd4ee7de36bef40c99252979480dd755",
+      "treeSha": "92a0843ba276b835c52d7f941cecd3baa6bb96f3",
       "downloads": 26
     },
     {
@@ -21574,7 +21574,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492640
+      "downloads": 492662
     },
     {
       "dir": "google-chrome-profiles",
@@ -27851,7 +27851,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 661528
+      "downloads": 661545
     },
     {
       "dir": "kimai",
@@ -35085,10 +35085,10 @@
       "dir": "mutedeck",
       "name": "mutedeck",
       "title": "MuteDeck",
-      "description": "Control MuteDeck from Raycast",
+      "description": "Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid.",
       "author": "chad_walters",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Applications",
         "Communication",
@@ -35100,7 +35100,7 @@
       ],
       "store": "https://www.raycast.com/chad_walters/mutedeck",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mutedeck",
-      "treeSha": "5e63b90849a35051fe5ac23b1f887cb8308cc3ba",
+      "treeSha": "5bf512404638e64005e78f387823a9944f395598",
       "downloads": 159
     },
     {
@@ -49037,7 +49037,7 @@
       "store": "https://www.raycast.com/loris/safari",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/safari",
       "treeSha": "d72b712ea181c8705064b16112a22e793b35a681",
-      "downloads": 53403
+      "downloads": 53410
     },
     {
       "dir": "safe-secret",

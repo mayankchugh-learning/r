@@ -9,13 +9,13 @@
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
 | 1 | [xmok](./id/xmok.md) | 111 | 11,300 |
-| 2 | [koinzhang](./id/koinzhang.md) | 50 | 252,832 |
+| 2 | [koinzhang](./id/koinzhang.md) | 50 | 252,833 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 90,242 |
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 164,113 |
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 149,527 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,482 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,748 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,096,303 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,096,321 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 297,935 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,965 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 404,678 |
@@ -42,7 +42,7 @@
 | 32 | [samuelkraft](https://www.raycast.com/samuelkraft) | 7 | 2,552 |
 | 33 | [khlebobul](https://www.raycast.com/khlebobul) | 7 | 1,852 |
 | 34 | [lemikeone](https://www.raycast.com/lemikeone) | 7 | 844 |
-| 35 | [loris](https://www.raycast.com/loris) | 6 | 123,202 |
+| 35 | [loris](https://www.raycast.com/loris) | 6 | 123,209 |
 | 36 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 90,045 |
 | 37 | [huzef44](https://www.raycast.com/huzef44) | 6 | 72,163 |
 | 38 | [1weiho](https://www.raycast.com/1weiho) | 6 | 39,727 |
@@ -386,8 +386,8 @@
 | 376 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 377 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 378 | github-next | 2 | — |
-| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,528 |
-| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 492,640 |
+| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,545 |
+| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 492,662 |
 | 381 | [linear](https://www.raycast.com/linear) | 1 | 341,428 |
 | 382 | [mommertf](https://www.raycast.com/mommertf) | 1 | 285,057 |
 | 383 | [nhojb](https://www.raycast.com/nhojb) | 1 | 254,760 |

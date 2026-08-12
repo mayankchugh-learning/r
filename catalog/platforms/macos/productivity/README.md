@@ -7,7 +7,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Tasks & To-Dos](./tasks-to-dos.md) | 48 |
-| [Calendar & Scheduling](./calendar-scheduling.md) | 21 |
+| [Calendar & Scheduling](./calendar-scheduling.md) | 22 |
 | [Notes & Knowledge](./notes-knowledge.md) | 62 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 25 |
 
@@ -37,4 +37,4 @@
 | [Team & Business Tools](./team-business-tools.md) | 15 |
 | [Trackers & Monitors](./trackers-monitors.md) | 36 |
 
-Plus [General](./general.md) — 500 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 499 extensions that don't fit a topic yet.

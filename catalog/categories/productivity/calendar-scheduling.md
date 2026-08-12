@@ -1,8 +1,8 @@
 # Calendar & Scheduling
 
-21 extensions · [← Productivity](./README.md)
+22 extensions · [← Productivity](./README.md)
 
-[Calendar ✦](#calendar) (11) · [Meeting ✦](#meeting) (7) · [General](#general) (3)
+[Calendar ✦](#calendar) (11) · [Meeting ✦](#meeting) (8) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -31,6 +31,7 @@
 | [Speed Dial](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) | 336 | Stop asking for meeting URLs and add them to Speed Dial to open with one click | osama_aamer | macOS | [store](https://www.raycast.com/osama_aamer/speed-dial) |
 | [Circleback](https://github.com/raycast/extensions/tree/main/extensions/circleback) | 224 | Record, view, and search meetings in Circleback | circleback (org) | macOS | [store](https://www.raycast.com/circleback/circleback) |
 | [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 196 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
+| [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 159 | Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid. | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/mutedeck) |
 | [Tldv Meetings](https://github.com/raycast/extensions/tree/main/extensions/tldv) | 17 | Browse and view your tl;dv meeting recordings | keito4 | macOS | [store](https://www.raycast.com/keito4/tldv) |
 | [Meeting Room Check](https://github.com/raycast/extensions/tree/main/extensions/meeting-room-check) | 2 | See which meeting rooms are free right now and block one instantly. | Ticsi | macOS, Windows | [store](https://www.raycast.com/Ticsi/meeting-room-check) |
 

@@ -19,7 +19,7 @@ macOS: 359 · Windows: 82
 | Topic | Extensions |
 | --- | --- |
 | [Music & Audio Apps](./music-audio-apps.md) | 10 |
-| [Media & Photo Apps](./media-photo-apps.md) | 20 |
+| [Media & Photo Apps](./media-photo-apps.md) | 21 |
 
 ## Developer & Power-User Apps
 
@@ -39,7 +39,7 @@ macOS: 359 · Windows: 82
 | [Apple & Built-in Apps](./apple-built-in-apps.md) | 15 |
 | [Files, Sync & Upload](./files-sync-upload.md) | 16 |
 | [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
-| [Launchers & App Control](./launchers-app-control.md) | 50 |
+| [Launchers & App Control](./launchers-app-control.md) | 49 |
 
 ## Discovered topics ✦
 

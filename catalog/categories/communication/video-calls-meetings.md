@@ -1,8 +1,8 @@
 # Video Calls & Meetings
 
-14 extensions · [← Communication](./README.md)
+15 extensions · [← Communication](./README.md)
 
-[Meeting ✦](#meeting) (7) · [Call ✦](#call) (4) · [General](#general) (3)
+[Meeting ✦](#meeting) (8) · [Call ✦](#call) (4) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -16,6 +16,7 @@
 | [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,283 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
 | [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 2,650 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
 | [Speed Dial](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) | 336 | Stop asking for meeting URLs and add them to Speed Dial to open with one click | osama_aamer | macOS | [store](https://www.raycast.com/osama_aamer/speed-dial) |
+| [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 159 | Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid. | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/mutedeck) |
 | [Yandex Telemost](https://github.com/raycast/extensions/tree/main/extensions/yandex-telemost) | 14 | Create and join Yandex Telemost meetings directly from Raycast. Requires macOS — uses AppleScript to automate your browser. | egor_chuzhin | macOS | [store](https://www.raycast.com/egor_chuzhin/yandex-telemost) |
 
 ## Call ✦

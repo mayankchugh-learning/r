@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `de773e2ccc`
+
+**Updated (2):** [DirectAdmin Reseller](https://github.com/raycast/extensions/tree/main/extensions/directadmin-reseller), [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck)
+
 ## 2026-08-12 — upstream `b0dabd94d8`
 
 **Updated (1):** [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs)

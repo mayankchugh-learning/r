@@ -9,7 +9,7 @@ macOS: 1417 · Windows: 342
 | Topic | Extensions |
 | --- | --- |
 | [Tasks & To-Dos](./tasks-to-dos.md) | 48 |
-| [Calendar & Scheduling](./calendar-scheduling.md) | 21 |
+| [Calendar & Scheduling](./calendar-scheduling.md) | 22 |
 | [Notes & Knowledge](./notes-knowledge/README.md) | 62 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 25 |
 
@@ -59,6 +59,6 @@ macOS: 1417 · Windows: 342
 | [Password ✦](./password.md) | 8 |
 | [Website ✦](./website.md) | 6 |
 
-Plus [General](./general.md) — 370 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 369 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

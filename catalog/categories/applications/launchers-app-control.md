@@ -1,6 +1,6 @@
 # Launchers & App Control
 
-50 extensions · [← Applications](./README.md)
+49 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -32,7 +32,6 @@
 | [React DevTools](https://github.com/raycast/extensions/tree/main/extensions/react-devtools) | 231 | Launch React DevTools command-line application | gutenye | macOS | [store](https://www.raycast.com/gutenye/react-devtools) |
 | [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 205 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
 | [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) | 199 | Control your AirSync app directly from Raycast | sameerasw | macOS | [store](https://www.raycast.com/sameerasw/airsync) |
-| [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 159 | Control MuteDeck from Raycast | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/mutedeck) |
 | [WinSCP](https://github.com/raycast/extensions/tree/main/extensions/winscp) | 149 | Launch WinSCP sessions quickly from Raycast. | bossdaily | Windows | [store](https://www.raycast.com/bossdaily/winscp) |
 | [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 142 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
 | [Leafcast](https://github.com/raycast/extensions/tree/main/extensions/leafcast) | 133 | Control your Nanoleaf panels with Raycast! Toggle power, set the current scene, and more. | syropian | macOS | [store](https://www.raycast.com/syropian/leafcast) |

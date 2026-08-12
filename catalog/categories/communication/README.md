@@ -9,7 +9,7 @@ macOS: 149 · Windows: 52
 | Topic | Extensions |
 | --- | --- |
 | [Messaging & Chat](./messaging-chat.md) | 28 |
-| [Video Calls & Meetings](./video-calls-meetings.md) | 14 |
+| [Video Calls & Meetings](./video-calls-meetings.md) | 15 |
 | [Email](./email.md) | 22 |
 
 ## Social & Sharing
@@ -35,6 +35,6 @@ macOS: 149 · Windows: 52
 | [Domains ✦](./domains.md) | 5 |
 | [Phonetic ✦](./phonetic.md) | 4 |
 
-Plus [General](./general.md) — 47 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 46 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

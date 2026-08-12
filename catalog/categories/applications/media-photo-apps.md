@@ -1,8 +1,8 @@
 # Media & Photo Apps
 
-20 extensions · [← Applications](./README.md)
+21 extensions · [← Applications](./README.md)
 
-[Capture ✦](#capture) (7) · [Image ✦](#image) (6) · [Video ✦](#video) (4) · [General](#general) (3)
+[Capture ✦](#capture) (7) · [Image ✦](#image) (6) · [Video ✦](#video) (4) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
@@ -45,3 +45,4 @@
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 8,989 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
 | [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 1,939 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
 | [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,381 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
+| [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 159 | Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid. | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/mutedeck) |

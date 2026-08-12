@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-500 of 1417 extensions · [← macOS · Productivity](./README.md)
+499 of 1417 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -309,7 +309,6 @@
 | [Smallpdf](https://github.com/raycast/extensions/tree/main/extensions/smallpdf) | 161 | Quick access to all the Smallpdf tools | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/smallpdf) |
 | [Azure Icons](https://github.com/raycast/extensions/tree/main/extensions/azure-icons) | 160 | Access hundreds of Azure Resource icons to build your architecture diagrams | tiago_duarte | macOS | [store](https://www.raycast.com/tiago_duarte/azure-icons) |
 | [Oblique Strategies](https://github.com/raycast/extensions/tree/main/extensions/oblique-strategies) | 160 | Over One Hundred Worthwhile Dilemmas by Brian Eno and Peter Schmidt | dnnsmnstrr | macOS | [store](https://www.raycast.com/dnnsmnstrr/oblique-strategies) |
-| [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 159 | Control MuteDeck from Raycast | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/mutedeck) |
 | [Position Size Calculator](https://github.com/raycast/extensions/tree/main/extensions/position-size-calculator) | 158 | The Position Size Calculator is a Raycast extension designed to help traders quickly and accurately determine the appropriate position size for their trades. I… | akhilesh_dalvi | macOS | [store](https://www.raycast.com/akhilesh_dalvi/position-size-calculator) |
 | [Screenpipe](https://github.com/raycast/extensions/tree/main/extensions/screenpipe) | 158 | Interact with Screenpipe | huzef44 | macOS | [store](https://www.raycast.com/huzef44/screenpipe) |
 | [Invoice Generator](https://github.com/raycast/extensions/tree/main/extensions/invoice-generator) | 156 | Create invoices using the Invoice Generator API. | alexs | macOS | [store](https://www.raycast.com/alexs/invoice-generator) |
