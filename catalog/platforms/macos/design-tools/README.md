@@ -1,8 +1,8 @@
 # macOS · Design Tools
 
-155 extensions · [← macOS](../README.md)
+156 extensions · [← macOS](../README.md)
 
-[AI Generation](#ai-generation) (13) · [Colors & Palettes](#colors-palettes) (23) · [Icons & Assets](#icons-assets) (34) · [Fonts & Typography](#fonts-typography) (6) · [Design Apps & Whiteboards](#design-apps-whiteboards) (10) · [Screenshots & Mockups](#screenshots-mockups) (11) · [3D & Motion](#3d-motion) (2) · [Calculators & Ratios](#calculators-ratios) (6) · [Art & Wallpapers](#art-wallpapers) (4) · [Inspiration & Galleries](#inspiration-galleries) (5) · [General](#general) (41)
+[AI Generation](#ai-generation) (13) · [Colors & Palettes](#colors-palettes) (23) · [Icons & Assets](#icons-assets) (35) · [Fonts & Typography](#fonts-typography) (6) · [Design Apps & Whiteboards](#design-apps-whiteboards) (10) · [Screenshots & Mockups](#screenshots-mockups) (11) · [3D & Motion](#3d-motion) (2) · [Calculators & Ratios](#calculators-ratios) (6) · [Art & Wallpapers](#art-wallpapers) (4) · [Inspiration & Galleries](#inspiration-galleries) (5) · [General](#general) (41)
 
 ## Visual Elements
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 503,779 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 503,806 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,122 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,443 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 4,964 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -72,6 +72,7 @@
 | [Remix Icon](https://github.com/raycast/extensions/tree/main/extensions/remix-icon) | 117 | Search and browse icons from Remix Icon library | tristan_heinig | macOS | [store](https://www.raycast.com/tristan_heinig/remix-icon) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 13 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 7 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
+| [Central Icons](https://github.com/raycast/extensions/tree/main/extensions/central-icons) | — | Browse, search and export all Central icons — copy or paste SVG, code snippets, or export SVG files. | tamino-martinius | macOS | — |
 
 ### Fonts & Typography
 

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d9275ebed2bc83ed554738a4c71b58401f9c254b",
-  "generatedAt": "2026-08-12T10:09:42.018Z",
-  "downloadsRefreshedAt": "2026-08-12T10:09:41.687Z",
-  "count": 3163,
+  "commit": "2f43452aeeb8811d707214469f345ab7a09befab",
+  "generatedAt": "2026-08-12T10:46:46.753Z",
+  "downloadsRefreshedAt": "2026-08-12T10:46:45.946Z",
+  "count": 3164,
   "extensions": [
     {
       "dir": "0x0",
@@ -6835,6 +6835,27 @@
       "downloads": 58
     },
     {
+      "dir": "central-icons",
+      "name": "central-icons",
+      "title": "Central Icons",
+      "description": "Browse, search and export all Central icons — copy or paste SVG, code snippets, or export SVG files.",
+      "author": "tamino-martinius",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Design Tools",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/central-icons",
+      "treeSha": "c9134064fd959d29b1239f7b139f847026b3f40b",
+      "downloads": null
+    },
+    {
       "dir": "cerebras",
       "name": "cerebras",
       "title": "Cerebras",
@@ -9577,7 +9598,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 503779
+      "downloads": 503806
     },
     {
       "dir": "color-shades",
@@ -21574,7 +21595,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492718
+      "downloads": 492747
     },
     {
       "dir": "google-chrome-profiles",
@@ -27851,7 +27872,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 661611
+      "downloads": 661638
     },
     {
       "dir": "kimai",
@@ -49037,7 +49058,7 @@
       "store": "https://www.raycast.com/loris/safari",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/safari",
       "treeSha": "db69dd46cfacce9b00c40fadc4222792829a7cd1",
-      "downloads": 53417
+      "downloads": 53420
     },
     {
       "dir": "safe-secret",

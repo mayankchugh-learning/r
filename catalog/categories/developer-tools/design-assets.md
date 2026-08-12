@@ -1,8 +1,8 @@
 # Design & Assets
 
-38 extensions · [← Developer Tools](./README.md)
+39 extensions · [← Developer Tools](./README.md)
 
-[Color ✦](#color) (12) · [Images ✦](#images) (12) · [Icons ✦](#icons) (10) · [General](#general) (4)
+[Color ✦](#color) (12) · [Images ✦](#images) (12) · [Icons ✦](#icons) (11) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
@@ -54,6 +54,7 @@
 | [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg) | 312 | Search, preview, and copy 5,600+ brand SVG icons from thesvg.org | thegdsks | macOS | [store](https://www.raycast.com/thegdsks/thesvg) |
 | [Lucide Animated](https://github.com/raycast/extensions/tree/main/extensions/lucide-animated) | 71 | Browse, search, and copy animated Lucide icons for your projects. | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/lucide-animated) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 13 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
+| [Central Icons](https://github.com/raycast/extensions/tree/main/extensions/central-icons) | — | Browse, search and export all Central icons — copy or paste SVG, code snippets, or export SVG files. | tamino-martinius | macOS | — |
 
 ## General
 

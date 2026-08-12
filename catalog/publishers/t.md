@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · **T** · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-118 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+119 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | [tailscale](https://www.raycast.com/tailscale) | 1 | 13,860 | **Developer Tools:** [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) |
 | [talha_balaj](https://www.raycast.com/talha_balaj) | 1 | 1,066 | **Uncategorized:** [Image Web Search](https://github.com/raycast/extensions/tree/main/extensions/image-search) |
 | [tamag0tcha](https://www.raycast.com/tamag0tcha) | 1 | 396 | **Productivity:** [Stagehand](https://github.com/raycast/extensions/tree/main/extensions/stagehand) |
+| tamino-martinius | 1 | — | **Design Tools:** [Central Icons](https://github.com/raycast/extensions/tree/main/extensions/central-icons) |
 | [tanb](https://www.raycast.com/tanb) | 1 | 863 | **Productivity:** [Pin](https://github.com/raycast/extensions/tree/main/extensions/pin-raycast) |
 | [tarikkavaz](https://www.raycast.com/tarikkavaz) | 2 | 627 | **Productivity:** [Slugify File / Folder Names](https://github.com/raycast/extensions/tree/main/extensions/slugify-file-folder-names), [Regex Batch Renamer](https://github.com/raycast/extensions/tree/main/extensions/regex-batch-renamer) |
 | [tarikyildizci](https://www.raycast.com/tarikyildizci) | 1 | 5,428 | **Applications:** [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) |
@@ -64,7 +65,7 @@
 | [thijsdewitt](https://www.raycast.com/thijsdewitt) | 1 | 145 | **Developer Tools:** [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) |
 | [third774](https://www.raycast.com/third774) | 3 | 61,086 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,462 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,096,499 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,096,526 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 36 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 55,900 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,447 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |

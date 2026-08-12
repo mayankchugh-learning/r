@@ -1,6 +1,6 @@
 # Publishers
 
-2107 publishers · [← catalog index](../README.md)
+2108 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,096,499 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,096,526 |
 | 2 | [raycast](./id/raycast.md) | 11 | 782,705 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,611 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 492,718 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,638 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 492,747 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 436,912 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,467 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,721 |
@@ -31,7 +31,7 @@
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 164,137 |
 | 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 150,343 |
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 149,541 |
-| 24 | [loris](https://www.raycast.com/loris) | 6 | 123,223 |
+| 24 | [loris](https://www.raycast.com/loris) | 6 | 123,226 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 106,450 |
 | 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 104,379 |
 | 27 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 101,112 |
@@ -2115,3 +2115,4 @@
 | 2105 | buffer | 1 | — |
 | 2106 | multi | 1 | — |
 | 2107 | sharat_visweswara | 1 | — |
+| 2108 | tamino-martinius | 1 | — |

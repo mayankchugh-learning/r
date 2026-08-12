@@ -1,6 +1,6 @@
 # Publishers
 
-2107 publishers · [← catalog index](../README.md)
+2108 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 149,541 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,487 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,748 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,096,499 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,096,526 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 297,977 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,971 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 404,721 |
@@ -42,7 +42,7 @@
 | 32 | [samuelkraft](https://www.raycast.com/samuelkraft) | 7 | 2,552 |
 | 33 | [khlebobul](https://www.raycast.com/khlebobul) | 7 | 1,852 |
 | 34 | [lemikeone](https://www.raycast.com/lemikeone) | 7 | 845 |
-| 35 | [loris](https://www.raycast.com/loris) | 6 | 123,223 |
+| 35 | [loris](https://www.raycast.com/loris) | 6 | 123,226 |
 | 36 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 90,058 |
 | 37 | [huzef44](https://www.raycast.com/huzef44) | 6 | 72,185 |
 | 38 | [1weiho](https://www.raycast.com/1weiho) | 6 | 39,733 |
@@ -386,8 +386,8 @@
 | 376 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 377 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 378 | github-next | 2 | — |
-| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,611 |
-| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 492,718 |
+| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,638 |
+| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 492,747 |
 | 381 | [linear](https://www.raycast.com/linear) | 1 | 341,533 |
 | 382 | [mommertf](https://www.raycast.com/mommertf) | 1 | 285,152 |
 | 383 | [nhojb](https://www.raycast.com/nhojb) | 1 | 254,799 |
@@ -2115,3 +2115,4 @@
 | 2105 | buffer | 1 | — |
 | 2106 | multi | 1 | — |
 | 2107 | sharat_visweswara | 1 | — |
+| 2108 | tamino-martinius | 1 | — |
