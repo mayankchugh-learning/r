@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `99d04ed356`
+
+**Added (1):** [Bit Parser](https://github.com/raycast/extensions/tree/main/extensions/bit-parser)
+
 ## 2026-08-12 — upstream `afbd9b7fee`
 
 **Updated (1):** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep)

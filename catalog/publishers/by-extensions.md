@@ -1,6 +1,6 @@
 # Publishers
 
-2110 publishers · [← catalog index](../README.md)
+2111 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -386,8 +386,8 @@
 | 376 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 377 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 378 | github-next | 2 | — |
-| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,891 |
-| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 492,966 |
+| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,892 |
+| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 492,967 |
 | 381 | [linear](https://www.raycast.com/linear) | 1 | 341,691 |
 | 382 | [mommertf](https://www.raycast.com/mommertf) | 1 | 285,253 |
 | 383 | [nhojb](https://www.raycast.com/nhojb) | 1 | 254,871 |
@@ -2118,3 +2118,4 @@
 | 2108 | buffer | 1 | — |
 | 2109 | multi | 1 | — |
 | 2110 | sharat_visweswara | 1 | — |
+| 2111 | TwoMental | 1 | — |

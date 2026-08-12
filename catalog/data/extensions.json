@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "afbd9b7feef366c8bd1f56c7b1b874d828bf3887",
-  "generatedAt": "2026-08-12T17:02:34.847Z",
-  "downloadsRefreshedAt": "2026-08-12T17:02:33.673Z",
-  "count": 3166,
+  "commit": "99d04ed3563e1d9fe7c34b7069236a6a60a8813a",
+  "generatedAt": "2026-08-12T17:04:44.466Z",
+  "downloadsRefreshedAt": "2026-08-12T17:04:44.236Z",
+  "count": 3167,
   "extensions": [
     {
       "dir": "0x0",
@@ -4950,6 +4950,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bird",
       "treeSha": "55af567173a9eeefe6058f7b41c724ea7c4efde0",
       "downloads": 97
+    },
+    {
+      "dir": "bit-parser",
+      "name": "bit-parser",
+      "title": "Bit Parser",
+      "description": "Inspect individual bits in fault codes, status words, and flags",
+      "author": "TwoMental",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/bit-parser",
+      "treeSha": "f82f7ef66381ff744eac5b9955302b07f4bc09cc",
+      "downloads": null
     },
     {
       "dir": "bitaxe",
@@ -21595,7 +21616,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492966
+      "downloads": 492967
     },
     {
       "dir": "google-chrome-profiles",
@@ -27872,7 +27893,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 661891
+      "downloads": 661892
     },
     {
       "dir": "kimai",

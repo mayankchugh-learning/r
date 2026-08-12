@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · **T** · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-119 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+120 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -121,6 +121,7 @@
 | [TuorTheBlessed](https://www.raycast.com/TuorTheBlessed) | 1 | 508 | **Productivity:** [RescueTime](https://github.com/raycast/extensions/tree/main/extensions/rescuetime-focus-session-trigger) |
 | [TurboCoder13](https://www.raycast.com/TurboCoder13) | 3 | 1,394 | **Developer Tools:** [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)<br>**Finance:** [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq)<br>**Media:** [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) |
 | [twirl](https://www.raycast.com/twirl) | 1 | 5 | **Developer Tools:** [Reka UI](https://github.com/raycast/extensions/tree/main/extensions/reka-ui) |
+| TwoMental | 1 | — | **Developer Tools:** [Bit Parser](https://github.com/raycast/extensions/tree/main/extensions/bit-parser) |
 | [txemaleon](https://www.raycast.com/txemaleon) | 1 | 109 | **Web:** [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) |
 | [tykid](https://www.raycast.com/tykid) | 1 | 189 | **Productivity:** [Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/desktop-manager) |
 | [tynanpurdy](https://www.raycast.com/tynanpurdy) | 1 | 57 | **Uncategorized:** [Micro.blog](https://github.com/raycast/extensions/tree/main/extensions/microblog) |

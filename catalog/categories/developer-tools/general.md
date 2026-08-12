@@ -1,10 +1,10 @@
 # General
 
-169 extensions · [← Developer Tools](./README.md)
+170 extensions · [← Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 661,891 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 661,892 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,225 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,100 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,656 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -173,3 +173,4 @@
 | [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 2 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |
 | [Clerk](https://github.com/raycast/extensions/tree/main/extensions/clerk) | 1 | Interface with Clerk | filiph | macOS, Windows | [store](https://www.raycast.com/filiph/clerk) |
 | [Mule Secure Properties](https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties) | 1 | Encrypt and decrypt MuleSoft secure property values with the official Secure Properties Tool. | stiven_gonzalez | macOS, Windows | [store](https://www.raycast.com/stiven_gonzalez/mule-secure-properties) |
+| [Bit Parser](https://github.com/raycast/extensions/tree/main/extensions/bit-parser) | — | Inspect individual bits in fault codes, status words, and flags | TwoMental | macOS, Windows | — |
