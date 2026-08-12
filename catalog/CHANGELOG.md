@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `43398a9a41`
+
+**Updated (2):** [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions), [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai)
+
 ## 2026-08-12 — upstream `d19057719d`
 
 **Updated (1):** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)
