@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,096,526 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,096,538 |
 | 2 | [raycast](./id/raycast.md) | 11 | 782,705 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,638 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 492,747 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,648 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 492,761 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 436,912 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,467 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,721 |
@@ -2111,8 +2111,8 @@
 | 2101 | [meslva](https://www.raycast.com/meslva) | 1 | 0 |
 | 2102 | [Rediwed](https://www.raycast.com/Rediwed) | 1 | 0 |
 | 2103 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2104 | github-next | 2 | — |
-| 2105 | buffer | 1 | — |
-| 2106 | multi | 1 | — |
-| 2107 | sharat_visweswara | 1 | — |
-| 2108 | tamino-martinius | 1 | — |
+| 2104 | [tamino-martinius](https://www.raycast.com/tamino-martinius) | 1 | 0 |
+| 2105 | github-next | 2 | — |
+| 2106 | buffer | 1 | — |
+| 2107 | multi | 1 | — |
+| 2108 | sharat_visweswara | 1 | — |

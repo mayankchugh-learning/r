@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `5bef3b6846`
+
+**Updated (1):** [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns)
+
 ## 2026-08-12 — upstream `2f43452aee`
 
 **Added (1):** [Central Icons](https://github.com/raycast/extensions/tree/main/extensions/central-icons)
