@@ -10,12 +10,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 427,221 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
-| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 23,860 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,621 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 427,294 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
+| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 23,866 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,623 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 | [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,307 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
 | [Genius Lyrics](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) | 2,362 | Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API. | tkdkid1000 | macOS, Windows | [store](https://www.raycast.com/tkdkid1000/genius-lyrics) |
-| [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,122 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
+| [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,123 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
 | [Odesli](https://github.com/raycast/extensions/tree/main/extensions/odesli) | 457 | Convert song/album links to Odesli links. Odesli is a service that provides smart music links. These links show a list of platforms you can hear the song/album… | annedouwe | macOS, Windows | [store](https://www.raycast.com/annedouwe/odesli) |
 | [Discogs Database Search](https://github.com/raycast/extensions/tree/main/extensions/discogs) | 335 | It will search discogs.com for a music release information specified by Label ID, Barcode, Artist or Album name | vigosan | Windows, macOS | [store](https://www.raycast.com/vigosan/discogs) |
 | [Music Assistant Controls](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) | 332 | Control music assistant and displays current song in the menu bar | yoerivd | macOS, Windows | [store](https://www.raycast.com/yoerivd/music-assistant-controls) |
@@ -28,15 +28,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,639 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,652 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,178 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
-| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,582 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
-| [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) | 2,445 | Download videos from YouTube and other services through yt-dlp using MeTube. | dot | macOS, Windows | [store](https://www.raycast.com/dot/metube) |
+| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,583 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
+| [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) | 2,447 | Download videos from YouTube and other services through yt-dlp using MeTube. | dot | macOS, Windows | [store](https://www.raycast.com/dot/metube) |
 | [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,381 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
 | [ShareX](https://github.com/raycast/extensions/tree/main/extensions/sharex) | 572 | Browse and create ShareX screenshots, videos, and GIFs from Raycast | the_revolution | Windows | [store](https://www.raycast.com/the_revolution/sharex) |
 | [SteamGridDB](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) | 511 | Download and share custom video game assets and personalize your gaming library. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/steamgriddb) |
 | [Immich](https://github.com/raycast/extensions/tree/main/extensions/immich) | 291 | Self-hosted photo and video management solution | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/immich) |
-| [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 105 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
+| [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 106 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 86 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 9 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |
 
@@ -46,11 +46,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 90,100 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
-| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 33,902 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
+| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 90,116 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
+| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 33,904 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
 | [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,327 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
-| [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,839 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
-| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,100 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
+| [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,840 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
+| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,103 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,583 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,518 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 806 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
@@ -66,7 +66,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 20,804 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
-| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 13,232 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
+| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 13,233 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
 | [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) | 292 | Another boring piece. Daily. | yevgen_glukhov | macOS, Windows | [store](https://www.raycast.com/yevgen_glukhov/another-boring-piece) |
 | [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers) | 177 | Easily change between the default Windows wallpapers without changing full themes | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windows-default-wallpapers) |
 | [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper) | 13 | Browse and set Arcane wallpapers. | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/arcane-wallpaper) |
@@ -90,7 +90,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,424 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,425 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 428 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
 | [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 225 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
 

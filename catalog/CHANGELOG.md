@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `56d073f3ca`
+
+**Updated (1):** [VoiceInk](https://github.com/raycast/extensions/tree/main/extensions/voiceink)
+
 ## 2026-08-12 — upstream `ebb31e5160`
 
 **Added (1):** [Mise Workspace](https://github.com/raycast/extensions/tree/main/extensions/mise-workspace)

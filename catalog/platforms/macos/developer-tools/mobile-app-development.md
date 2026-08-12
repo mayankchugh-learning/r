@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,102 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
-| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,481 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,103 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,482 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
 | [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) | 2,716 | Airport is the best place to discover new TestFlight apps from developers. | siddharthsharma94 | macOS | [store](https://www.raycast.com/siddharthsharma94/airport) |
 | [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,764 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
 | [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) | 1,605 | Adds commands to control the Alacritty terminal emulator. | jose-elias-alvarez | macOS | [store](https://www.raycast.com/jose-elias-alvarez/alacritty) |
@@ -31,7 +31,7 @@
 | [Hephaestus - JSON Tools](https://github.com/raycast/extensions/tree/main/extensions/hephaestus) | 215 | A collection of useful developer tools and utilities, including JSON to Swift, Objective-C, TypeScript, and more. | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/hephaestus) |
 | [Android Screen Capture](https://github.com/raycast/extensions/tree/main/extensions/android-screen-capture) | 213 | Screenshot & screenrecords of Android via ADB | chenhuazhao | macOS | [store](https://www.raycast.com/chenhuazhao/android-screen-capture) |
 | [Swift REPL](https://github.com/raycast/extensions/tree/main/extensions/swift-repl) | 206 | Run lil swift snippets | nakajima | macOS | [store](https://www.raycast.com/nakajima/swift-repl) |
-| [FVM](https://github.com/raycast/extensions/tree/main/extensions/fvm) | 198 | Easily manage Flutter SDK versions with FVM. | leoafarias | macOS | [store](https://www.raycast.com/leoafarias/fvm) |
+| [FVM](https://github.com/raycast/extensions/tree/main/extensions/fvm) | 199 | Easily manage Flutter SDK versions with FVM. | leoafarias | macOS | [store](https://www.raycast.com/leoafarias/fvm) |
 | [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 157 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 | [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | 109 | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |
 | [RayTerm](https://github.com/raycast/extensions/tree/main/extensions/rayterm) | 54 | The Raycast Terminal Emulator | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/rayterm) |

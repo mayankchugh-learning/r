@@ -26,14 +26,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 5,343 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
+| [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 5,346 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
 
 ### Web & Search
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 6,279 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
-| [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,693 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
+| [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 6,280 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
+| [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,694 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
 | [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 998 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
 | [Plexus - Localhost Search](https://github.com/raycast/extensions/tree/main/extensions/plexus) | 164 | Discover and manage all running localhost web servers (Node, PHP, Python, and more) with smart project detection, framework identification, WSL support, and qu… | RensHoogendam | macOS, Windows | [store](https://www.raycast.com/RensHoogendam/plexus) |
 | [RG AdGuard Links](https://github.com/raycast/extensions/tree/main/extensions/rg-adguard-links) | 66 | Convert Microsoft Store URLs to rg-adguard.net download links | jergensturdley | macOS, Windows | [store](https://www.raycast.com/jergensturdley/rg-adguard-links) |

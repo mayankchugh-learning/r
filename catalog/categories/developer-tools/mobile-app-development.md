@@ -26,14 +26,14 @@
 | --- | --- | --- | --- | --- | --- |
 | [pub.dev](https://github.com/raycast/extensions/tree/main/extensions/flutter-pub-dev-search) | 1,408 | Search pub.dev for Dart and Flutter packages and copy the install commands | prasadsunny1 | macOS | [store](https://www.raycast.com/prasadsunny1/pub-dev) |
 | [Flutter Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/flutter-documentation-search) | 1,031 | Search in Flutter documentation | MattisBrizard | macOS | [store](https://www.raycast.com/MattisBrizard/flutter-documentation-search) |
-| [FVM](https://github.com/raycast/extensions/tree/main/extensions/fvm) | 198 | Easily manage Flutter SDK versions with FVM. | leoafarias | macOS | [store](https://www.raycast.com/leoafarias/fvm) |
+| [FVM](https://github.com/raycast/extensions/tree/main/extensions/fvm) | 199 | Easily manage Flutter SDK versions with FVM. | leoafarias | macOS | [store](https://www.raycast.com/leoafarias/fvm) |
 | [Flutter Utils](https://github.com/raycast/extensions/tree/main/extensions/flutter-utils) | 20 | Quick commands for Flutter: run, pub get, clean, analyze, test, build, doctor | ymunsch8 | macOS | [store](https://www.raycast.com/ymunsch8/flutter-utils) |
 
 ## Swift ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,102 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,103 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
 | [Swift Package Index](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) | 819 | Search for Swift Packages via https://swiftpackageindex.com | maximkrouk | macOS | [store](https://www.raycast.com/maximkrouk/swift-package-index) |
 | [Hephaestus - JSON Tools](https://github.com/raycast/extensions/tree/main/extensions/hephaestus) | 215 | A collection of useful developer tools and utilities, including JSON to Swift, Objective-C, TypeScript, and more. | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/hephaestus) |
 | [Swift REPL](https://github.com/raycast/extensions/tree/main/extensions/swift-repl) | 206 | Run lil swift snippets | nakajima | macOS | [store](https://www.raycast.com/nakajima/swift-repl) |
@@ -42,7 +42,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,481 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
+| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,482 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
 | [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) | 2,716 | Airport is the best place to discover new TestFlight apps from developers. | siddharthsharma94 | macOS | [store](https://www.raycast.com/siddharthsharma94/airport) |
 | [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) | 1,605 | Adds commands to control the Alacritty terminal emulator. | jose-elias-alvarez | macOS | [store](https://www.raycast.com/jose-elias-alvarez/alacritty) |
 | [Simulator Control](https://github.com/raycast/extensions/tree/main/extensions/simctl) | 1,396 | Control Apple Simulator devices | noppefoxwolf | macOS | [store](https://www.raycast.com/noppefoxwolf/simulator-control) |

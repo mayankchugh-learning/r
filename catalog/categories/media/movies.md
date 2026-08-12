@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 3,926 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
+| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 3,928 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
 | [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,005 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |
 | [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) | 1,545 | Search for movies on Letterboxd | rafael_garcia | macOS, Windows | [store](https://www.raycast.com/rafael_garcia/letterboxd) |
 | [Jellyfin](https://github.com/raycast/extensions/tree/main/extensions/jellyfin) | 738 | Find Movies and Shows on your Jellyfin Instance | d2a | macOS, Windows | [store](https://www.raycast.com/d2a/jellyfin) |
@@ -14,5 +14,5 @@
 | [Kinopoisk](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) | 437 | Search for movies using kinopoisk.ru | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/kinopoisk) |
 | [Must](https://github.com/raycast/extensions/tree/main/extensions/must) | 289 | Display your Want to Watch list on Must Movie Tracking app directly on Raycast! | eggsy | macOS | [store](https://www.raycast.com/eggsy/must) |
 | [Torr Manager](https://github.com/raycast/extensions/tree/main/extensions/torr-manager) | 193 | Allows connect to selfhosted TorrServer, browse available torrents, select and watch movies directly from Raycast. | dannius | macOS | [store](https://www.raycast.com/danniuz/torr-manager) |
-| [ČSFD](https://github.com/raycast/extensions/tree/main/extensions/csfd) | 61 | Search for movies/tv shows and other in Czech-Slovak Movie Database | adam_vyborny | macOS | [store](https://www.raycast.com/adam_vyborny/csfd) |
+| [ČSFD](https://github.com/raycast/extensions/tree/main/extensions/csfd) | 62 | Search for movies/tv shows and other in Czech-Slovak Movie Database | adam_vyborny | macOS | [store](https://www.raycast.com/adam_vyborny/csfd) |
 | [BetaSeries](https://github.com/raycast/extensions/tree/main/extensions/betaseries) | 11 | Manage your TV shows and movies with BetaSeries | lemikeone | macOS | [store](https://www.raycast.com/lemikeone/betaseries) |

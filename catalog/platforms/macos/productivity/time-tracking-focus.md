@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 106,450 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
-| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,655 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
-| [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,658 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
+| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 106,470 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
+| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,671 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
+| [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,659 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
 | [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,139 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
-| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,013 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
+| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,014 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Work Time Countdown](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) | 2,774 | A simple timer to help you keep productive during work time. | thomas | macOS | [store](https://www.raycast.com/thomas/work-time-countdown) |
 | [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,373 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
 | [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,093 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
@@ -26,7 +26,7 @@
 | [Hyper Focus](https://github.com/raycast/extensions/tree/main/extensions/hyper-focus) | 260 | Controls the hyper-focus command line daemon which blocks distracting websites and apps. | iloveitaly | macOS | [store](https://www.raycast.com/iloveitaly/hyper-focus) |
 | [Comodoro](https://github.com/raycast/extensions/tree/main/extensions/comodoro) | 233 | Control Comodoro, a Pomodor timer | jns | macOS | [store](https://www.raycast.com/jns/comodoro) |
 | [Pomo](https://github.com/raycast/extensions/tree/main/extensions/pomo) | 162 | Control Pomo, a minimal Pomodoro timer for your macOS menu bar | claud | macOS | [store](https://www.raycast.com/claud/pomo) |
-| [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist) | 95 | Ambient sound mixer for focus and relaxation. Layer multiple sounds, save presets, and control from your menu bar. | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/moodist) |
+| [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist) | 96 | Ambient sound mixer for focus and relaxation. Layer multiple sounds, save presets, and control from your menu bar. | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/moodist) |
 | [42 Api Tools](https://github.com/raycast/extensions/tree/main/extensions/42-api) | 35 | Track your logtime and find peers in 42 school clusters directly from Raycast | maujogue | macOS, Windows | [store](https://www.raycast.com/maujogue/42-api) |
 | [Leave Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/leave-time-calculator) | 30 | Calculate your leave time based on start time and break duration | harunonsystem | macOS | [store](https://www.raycast.com/harunonsystem/leave-time-calculator) |
 | [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 6 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |

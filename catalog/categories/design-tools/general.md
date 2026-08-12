@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,073 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 37,124 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
-| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,547 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,087 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 37,140 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,548 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,077 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
-| [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,165 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |
+| [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,166 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,686 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Converter](https://github.com/raycast/extensions/tree/main/extensions/converter) | 4,254 | Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/converter) |
 | [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,391 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |

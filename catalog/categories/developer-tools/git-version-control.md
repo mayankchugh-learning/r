@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 25,957 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
+| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 25,962 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
 | [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,025 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [Code Stash](https://github.com/raycast/extensions/tree/main/extensions/code-stash) | 2,027 | Searching git.. now you have two problems. Store chunks of code and retrieve them later | ben-greenwood | macOS | [store](https://www.raycast.com/ben-greenwood/code-stash) |
 | [Oh My Zsh Git Alias](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) | 1,229 | Quick search git alias. | yufeikang | macOS | [store](https://www.raycast.com/yufeikang/oh-my-zsh-git-alias) |
@@ -35,17 +35,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 180,589 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
+| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 180,616 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [GitHub Repository Search](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) | 15,551 | Search repositories on GitHub and open previously visited ones faster. | thomas | macOS | [store](https://www.raycast.com/thomas/github-repository-search) |
-| [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 8,462 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
-| [GitHub Gist](https://github.com/raycast/extensions/tree/main/extensions/github-gist) | 5,303 | Create, search and display GitHub gists. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/github-gist) |
+| [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 8,463 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
+| [GitHub Gist](https://github.com/raycast/extensions/tree/main/extensions/github-gist) | 5,304 | Create, search and display GitHub gists. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/github-gist) |
 | [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,308 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
 | [GitHub Status](https://github.com/raycast/extensions/tree/main/extensions/github-status) | 942 | Quickly check why GitHub is down today | FezVrasta | macOS, Windows | [store](https://www.raycast.com/FezVrasta/github-status) |
 | [GitHub Codespaces](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) | 924 | Manage and launch codespaces | michael.wang | macOS | [store](https://www.raycast.com/michael.wang/github-codespaces) |
 | [Swift Evolution](https://github.com/raycast/extensions/tree/main/extensions/swift-evolution) | 866 | Search and see details for the Swift language proposals from swift evolution web page https://apple.github.io/swift-evolution/ | BProg | macOS | [store](https://www.raycast.com/BProg/swift-evolution) |
 | [GitHub Search](https://github.com/raycast/extensions/tree/main/extensions/github-search) | 822 | Open the GitHub Search web UI with pre-defined filters | webpro | macOS | [store](https://www.raycast.com/webpro/github-search) |
 | [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) | 554 | Search, open, and crawl DeepWiki pages for GitHub repositories. | vivek | macOS | [store](https://www.raycast.com/vivek/deepwiki) |
-| [GitHub Profile](https://github.com/raycast/extensions/tree/main/extensions/github-profile) | 430 | View GitHub profiles directly in Raycast | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/github-profile) |
+| [GitHub Profile](https://github.com/raycast/extensions/tree/main/extensions/github-profile) | 431 | View GitHub profiles directly in Raycast | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/github-profile) |
 | [Repo Launcher](https://github.com/raycast/extensions/tree/main/extensions/repo-launcher) | 410 | Launch code repositories in various applications and on GitHub.com, targeted primarily at developers. | gksander | macOS | [store](https://www.raycast.com/gksander/repo-launcher) |
 | [Primer](https://github.com/raycast/extensions/tree/main/extensions/primer) | 199 | Search and navigate GitHub's Primer Design System | cole | macOS | [store](https://www.raycast.com/cole/primer) |
 | [Pretty PR Link](https://github.com/raycast/extensions/tree/main/extensions/pretty-pr-link) | 115 | Quickly copy the link of a GitHub Pull Request in a formatted way so you can share with your team and ask for reviews. | jopcmelo | macOS, Windows | [store](https://www.raycast.com/jopcmelo/pretty-pr-link) |
@@ -60,14 +60,14 @@
 | --- | --- | --- | --- | --- | --- |
 | [Gitmoji Search](https://github.com/raycast/extensions/tree/main/extensions/gitmoji) | 4,950 | Gitmoji is an emoji guide for your commit messages | ricoberger | macOS, Windows | [store](https://www.raycast.com/ricoberger/gitmoji) |
 | [Conventional Commits](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) | 1,571 | Provides a list of conventional commits prefixes and descriptions that can be inserted into your active window as well as example of how messages should be str… | niemtec | macOS | [store](https://www.raycast.com/niemtec/conventional-commits) |
-| [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator) | 554 | Must have extension for any developer! | rokartur | macOS | [store](https://www.raycast.com/rokartur/commit-message-generator) |
+| [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator) | 555 | Must have extension for any developer! | rokartur | macOS | [store](https://www.raycast.com/rokartur/commit-message-generator) |
 | [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) | 68 | Explore your Grafbase projects, branches, deployments, and commit history. | grafbase (org) | macOS | [store](https://www.raycast.com/grafbase/grafbase) |
 
 ## Requests ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab) | 20,560 | Create, search and modify issues, manage merge requests, projects and more. | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gitlab) |
+| [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab) | 20,563 | Create, search and modify issues, manage merge requests, projects and more. | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gitlab) |
 | [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket) | 3,829 | The extension allow you to quickly access repositories, pipelines and pull-requests in Bitbucket | Francois | macOS, Windows | [store](https://www.raycast.com/Francois/bitbucket) |
 | [Bitbucket Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/bitbucket-search-self-hosted) | 528 | The extension allow you to quickly access repositories and pull-requests in Bitbucket Server (Self-Hosted) | yuercl | macOS | [store](https://www.raycast.com/yuercl/bitbucket-search-self-hosted) |
 | [Gitea](https://github.com/raycast/extensions/tree/main/extensions/gitea) | 28 | Check your notifications and manage issues and pull requests. | mitsimi | macOS, Windows | [store](https://www.raycast.com/mitsimi/gitea) |

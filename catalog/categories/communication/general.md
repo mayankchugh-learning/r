@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,741 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,621 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,744 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,623 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,686 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
-| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,978 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
+| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,980 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
 | [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,430 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
 | [Grammarix](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) | 1,349 | Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription,… | hakob_nersesian | macOS | [store](https://www.raycast.com/hakob_nersesian/grammari-x) |
 | [Time Zone Converter](https://github.com/raycast/extensions/tree/main/extensions/time-converter) | 1,053 | Convert times between different time zones and paste the results | alex_jones | macOS | [store](https://www.raycast.com/alex_jones/time-converter) |
@@ -22,7 +22,7 @@
 | [GitHub Users Search](https://github.com/raycast/extensions/tree/main/extensions/github-users) | 359 | Search GitHub users | luisFilipePT | macOS | [store](https://www.raycast.com/luisFilipePT/github-users) |
 | [Ask Notis](https://github.com/raycast/extensions/tree/main/extensions/notis) | 281 | Capture, organize, and find anything for you in your Notion workspace. | mindtheflo | macOS | [store](https://www.raycast.com/mindtheflo/notis) |
 | [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya) | 281 | Manage emails through Himalaya CLI | jns | macOS | [store](https://www.raycast.com/jns/himalaya) |
-| [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 271 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |
+| [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 272 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 216 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [omg.lol](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) | 206 | Create, read, and update data in your omg.lol account. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/omg-lol) |
 | [Control Viscosity](https://github.com/raycast/extensions/tree/main/extensions/control-viscosity) | 200 | Allows you to control Viscosity VPN client and connect to or disconnect from your VPN connections. | dionisis_lialios | macOS | [store](https://www.raycast.com/dionisis_lialios/control-viscosity) |
@@ -32,10 +32,10 @@
 | [Personio](https://github.com/raycast/extensions/tree/main/extensions/personio) | 133 | Track your time with Personio. | boosteblume | macOS | [store](https://www.raycast.com/boosteblume/personio) |
 | [Logtail](https://github.com/raycast/extensions/tree/main/extensions/logtail) | 128 | Search and View your Logtail logs at any time | Cavallando | macOS | [store](https://www.raycast.com/Cavallando/logtail) |
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 127 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
+| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 107 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [Migadu](https://github.com/raycast/extensions/tree/main/extensions/migadu) | 106 | Mailboxes, Identities, Aliases, Rewrites in Migadu | xmok | macOS | [store](https://www.raycast.com/xmok/migadu) |
-| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 106 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 94 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
-| [TFL](https://github.com/raycast/extensions/tree/main/extensions/tfl) | 92 | Viewing public transport departures in London | haneenmahdin | macOS | [store](https://www.raycast.com/haneenmahdin/tfl) |
+| [TFL](https://github.com/raycast/extensions/tree/main/extensions/tfl) | 93 | Viewing public transport departures in London | haneenmahdin | macOS | [store](https://www.raycast.com/haneenmahdin/tfl) |
 | [Lacinka](https://github.com/raycast/extensions/tree/main/extensions/lacinka) | 79 | Use belarussian lacinka on the go | colorage | macOS | [store](https://www.raycast.com/colorage/lacinka) |
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 78 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |
 | [MailerLite Stats](https://github.com/raycast/extensions/tree/main/extensions/mailerlite-stats) | 59 | MailerLite Stats Raycast extension | nkl | macOS | [store](https://www.raycast.com/nkl/mailerlite-stats) |

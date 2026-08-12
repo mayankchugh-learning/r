@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 238,825 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 238,845 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 833 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 238 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 | [Bhagavad Gita Quotes](https://github.com/raycast/extensions/tree/main/extensions/bhagavad-gita-quotes) | 8 | Read and search Bhagavad Gita quotes (AI features require Raycast AI). | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/bhagavad-gita-quotes) |
@@ -19,7 +19,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,475 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
+| [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,476 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
 | [Spell](https://github.com/raycast/extensions/tree/main/extensions/spell) | 3,321 | Struggling to spell a word? With this extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API. | Gorzog | macOS, Windows | [store](https://www.raycast.com/Gorzog/spell) |
 
 ### Productivity & Tasks
@@ -43,7 +43,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 63,785 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 63,803 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
 
 ## Life & World
 
@@ -51,7 +51,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 39,596 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 39,597 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 202 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Transit Departures (Catenary for Raycast)](https://github.com/raycast/extensions/tree/main/extensions/catenary-raycast) | 54 | View real-time transit departures for any stop from anywhere using Catenary. | quacksire | macOS, Windows | [store](https://www.raycast.com/quacksire/catenary-raycast) |
 | [Bikeshare Station Status](https://github.com/raycast/extensions/tree/main/extensions/bikeshare-station-status) | 6 | Check bike availability at Lyft bikeshare stations, including Citibike (NYC), Bay Wheels (Bay Area), Capital Bikeshare (DC), Biketown (Portland), and Divvy (Ch… | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/bikeshare-station-status) |
@@ -60,8 +60,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,024 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
-| [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,222 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
+| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,027 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
+| [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,228 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
 
 ## Media, Money & Words
 
@@ -69,13 +69,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 934 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
+| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 935 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 
 ### Language & Translation
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/thesaurus) | 7,973 | Search Merrian-Webster's Thesaurus | ABukSwienty | macOS, Windows | [store](https://www.raycast.com/ABukSwienty/thesaurus) |
+| [Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/thesaurus) | 7,977 | Search Merrian-Webster's Thesaurus | ABukSwienty | macOS, Windows | [store](https://www.raycast.com/ABukSwienty/thesaurus) |
 | [Finnish Dictionary](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) | 200 | MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. | albertoxamin | macOS, Windows | [store](https://www.raycast.com/albertoxamin/finnish-dictionary) |
 
 ### General
@@ -83,7 +83,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,780 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
-| [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,122 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
+| [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,123 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 629 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [Kill Node Modules](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) | 536 | Remove selected node_modules | NicolasMontone | macOS, Windows | [store](https://www.raycast.com/NicolasMontone/kill-node-modules) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 529 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |

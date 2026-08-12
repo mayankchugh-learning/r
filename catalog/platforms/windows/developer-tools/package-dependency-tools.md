@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,007 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,655 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,009 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,657 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
 | [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,266 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
-| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 463 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
+| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 465 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
 | [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 246 | Search Context7 libraries and browse documentation context from Raycast | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 233 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 92 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |

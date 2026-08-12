@@ -5,8 +5,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 8,654 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,945 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
-| [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,880 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,946 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,882 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,780 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,286 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,627 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
@@ -37,7 +37,7 @@
 | [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman) | 111 | View your Ultrahuman Ring data | joshmillgate | macOS | [store](https://www.raycast.com/joshmillgate/ultrahuman) |
 | [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) | 103 | Discover ENS, Farcaster, Lens and Web3 universal profiles | web3bio | macOS | [store](https://www.raycast.com/web3bio/web3bio) |
 | [PrivateBin](https://github.com/raycast/extensions/tree/main/extensions/privatebin) | 101 | Share sensitive data using a PrivateBin web service | sedlacek-martin | macOS | [store](https://www.raycast.com/sedlacek-martin/privatebin) |
-| [TFL](https://github.com/raycast/extensions/tree/main/extensions/tfl) | 92 | Viewing public transport departures in London | haneenmahdin | macOS | [store](https://www.raycast.com/haneenmahdin/tfl) |
+| [TFL](https://github.com/raycast/extensions/tree/main/extensions/tfl) | 93 | Viewing public transport departures in London | haneenmahdin | macOS | [store](https://www.raycast.com/haneenmahdin/tfl) |
 | [PlanetScale](https://github.com/raycast/extensions/tree/main/extensions/planetscale) | 91 | Manage PlanetScale from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/planetscale) |
 | [TeslaMate](https://github.com/raycast/extensions/tree/main/extensions/teslamate) | 86 | View your TeslaMate data in Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/teslamate) |
 | [Turkish Identification Number Generator](https://github.com/raycast/extensions/tree/main/extensions/tc-no-generator) | 82 | Generate Turkish Identification Number and copy to clipboard | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/tc-no-generator) |

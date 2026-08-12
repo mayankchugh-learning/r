@@ -1,6 +1,6 @@
 # kud
 
-12 extensions · 5,968 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+12 extensions · 5,969 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,400 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
+| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,401 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
 
 ## Design Tools (1)
 
