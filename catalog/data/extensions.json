@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b6719d52cac3571fb09097527c6c0f09975832e1",
-  "generatedAt": "2026-08-12T06:56:50.497Z",
-  "downloadsRefreshedAt": "2026-08-12T06:56:49.790Z",
+  "commit": "e82519a8295f62866f7d78189f4126543cbf3ab6",
+  "generatedAt": "2026-08-12T07:40:56.307Z",
+  "downloadsRefreshedAt": "2026-08-12T07:40:55.387Z",
   "count": 3163,
   "extensions": [
     {
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 503670
+      "downloads": 503697
     },
     {
       "dir": "color-shades",
@@ -21573,7 +21573,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492616
+      "downloads": 492639
     },
     {
       "dir": "google-chrome-profiles",
@@ -27850,7 +27850,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 661501
+      "downloads": 661528
     },
     {
       "dir": "kimai",
@@ -49024,7 +49024,7 @@
       "description": "Manage your Safari Tabs, History and Reading List",
       "author": "loris",
       "owner": null,
-      "contributors": 10,
+      "contributors": 11,
       "categories": [
         "Applications",
         "Web"
@@ -49035,7 +49035,7 @@
       ],
       "store": "https://www.raycast.com/loris/safari",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/safari",
-      "treeSha": "65f6cf016fb68cf64dbb161025efed6cd4ba805d",
+      "treeSha": "d72b712ea181c8705064b16112a22e793b35a681",
       "downloads": 53403
     },
     {
