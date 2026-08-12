@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `d19057719d`
+
+**Updated (1):** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)
+
 ## 2026-08-12 — upstream `eaef9c2050`
 
 **Added (1):** [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop)

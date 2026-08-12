@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "eaef9c20505a10407930bb4b5022423ecd1e9e44",
-  "generatedAt": "2026-08-12T15:52:35.245Z",
-  "downloadsRefreshedAt": "2026-08-12T15:52:34.372Z",
+  "commit": "d19057719d24853d5129f85cce7aeb954a87b0bc",
+  "generatedAt": "2026-08-12T16:53:52.836Z",
+  "downloadsRefreshedAt": "2026-08-12T16:53:52.151Z",
   "count": 3166,
   "extensions": [
     {
@@ -9598,7 +9598,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 503971
+      "downloads": 504005
     },
     {
       "dir": "color-shades",
@@ -15554,8 +15554,8 @@
       ],
       "store": "https://www.raycast.com/isfeng/easydict",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easydict",
-      "treeSha": "49bd063d6eaf829a0c7336ed6c9d176865eaa2b7",
-      "downloads": 34781
+      "treeSha": "0b0db95e0dd56aacc9c6bc6c9b448da1e29baf51",
+      "downloads": 34782
     },
     {
       "dir": "easyvariable",
@@ -21595,7 +21595,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492923
+      "downloads": 492963
     },
     {
       "dir": "google-chrome-profiles",
@@ -27872,7 +27872,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 661852
+      "downloads": 661889
     },
     {
       "dir": "kimai",
