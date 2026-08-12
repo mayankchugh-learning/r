@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5bef3b6846ca228803d69599bf3c88a57642ab0e",
-  "generatedAt": "2026-08-12T11:14:40.375Z",
-  "downloadsRefreshedAt": "2026-08-12T11:14:40.093Z",
+  "commit": "db4864006e4c45f8689729c9caee99ed6b2e22ce",
+  "generatedAt": "2026-08-12T12:17:06.935Z",
+  "downloadsRefreshedAt": "2026-08-12T12:17:06.517Z",
   "count": 3164,
   "extensions": [
     {
@@ -6853,7 +6853,7 @@
       "store": "https://www.raycast.com/tamino-martinius/central-icons",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/central-icons",
       "treeSha": "c9134064fd959d29b1239f7b139f847026b3f40b",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "cerebras",
@@ -9598,7 +9598,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 503818
+      "downloads": 503837
     },
     {
       "dir": "color-shades",
@@ -18582,7 +18582,7 @@
       "store": "https://www.raycast.com/rasmusbe/flush-dns",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/flush-dns",
       "treeSha": "2321d8c0900cd7c742af1adfe673ec7c39942fee",
-      "downloads": 12776
+      "downloads": 12778
     },
     {
       "dir": "flutter-documentation-search",
@@ -21595,7 +21595,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492761
+      "downloads": 492795
     },
     {
       "dir": "google-chrome-profiles",
@@ -27872,7 +27872,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 661648
+      "downloads": 661688
     },
     {
       "dir": "kimai",
@@ -52335,7 +52335,7 @@
       ],
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
-      "treeSha": "4e8378b3a765b9facfde976310b158409a91827a",
+      "treeSha": "256cc1b7e35b9ed0713d54c2352508d12dc063cc",
       "downloads": 285152
     },
     {

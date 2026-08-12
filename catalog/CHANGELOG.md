@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `db4864006e`
+
+**Updated (1):** [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack)
+
 ## 2026-08-12 — upstream `5bef3b6846`
 
 **Updated (1):** [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns)
