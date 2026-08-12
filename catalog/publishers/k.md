@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · **K** · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-78 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+79 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -33,6 +33,7 @@
 | [kcole93](https://www.raycast.com/kcole93) | 2 | 93 | **Other:** [NYC Train Tracker - Realtime Train Departures](https://github.com/raycast/extensions/tree/main/extensions/nyc-train-tracker), [Check Citi Bike Availability](https://github.com/raycast/extensions/tree/main/extensions/check-citi-bike-availability) |
 | [keepersecurity](https://www.raycast.com/keepersecurity) | 1 | 327 | **Security:** [Keeper Security](https://github.com/raycast/extensions/tree/main/extensions/keeper-security) |
 | [keito4](https://www.raycast.com/keito4) | 4 | 7,430 | **Developer Tools:** [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills), [Supabase](https://github.com/raycast/extensions/tree/main/extensions/supabase), [DevContainer Features](https://github.com/raycast/extensions/tree/main/extensions/devcontainer-features)<br>**Productivity:** [Tldv Meetings](https://github.com/raycast/extensions/tree/main/extensions/tldv) |
+| kelant | 1 | — | **Developer Tools:** [QuickForce - Salesforce Toolkit](https://github.com/raycast/extensions/tree/main/extensions/quickforce-salesforce-toolkit) |
 | [keleus](https://www.raycast.com/keleus) | 1 | 236 | **Developer Tools:** [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) |
 | [kemiljk](https://www.raycast.com/kemiljk) | 2 | 1,541 | **Developer Tools:** [Tailwind Size Conversion](https://github.com/raycast/extensions/tree/main/extensions/px-to-tailwind)<br>**Productivity:** [Cosmic Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/cosmic-bookmarks) |
 | [kenanbendz](https://www.raycast.com/kenanbendz) | 1 | 43 | **News:** [DR News](https://github.com/raycast/extensions/tree/main/extensions/dr-news) |

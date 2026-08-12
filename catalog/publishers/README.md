@@ -1,6 +1,6 @@
 # Publishers
 
-2111 publishers · [← catalog index](../README.md)
+2112 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,096,958 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,096,988 |
 | 2 | [raycast](./id/raycast.md) | 11 | 782,933 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,900 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 492,971 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,931 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,005 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 437,068 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,607 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,820 |
@@ -2084,38 +2084,39 @@
 | 2074 | [tamino-martinius](https://www.raycast.com/tamino-martinius) | 1 | 2 |
 | 2075 | [tessak22](https://www.raycast.com/tessak22) | 1 | 2 |
 | 2076 | [Ticsi](https://www.raycast.com/Ticsi) | 1 | 2 |
-| 2077 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 1 |
-| 2078 | [bitski](https://www.raycast.com/bitski) | 1 | 1 |
-| 2079 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 |
-| 2080 | [disinfeqt](https://www.raycast.com/disinfeqt) | 1 | 1 |
-| 2081 | [drew_levinson](https://www.raycast.com/drew_levinson) | 1 | 1 |
-| 2082 | [drumst0ck](https://www.raycast.com/drumst0ck) | 1 | 1 |
-| 2083 | [figa](https://www.raycast.com/figa) | 1 | 1 |
-| 2084 | [filiph](https://www.raycast.com/filiph) | 1 | 1 |
-| 2085 | [garon](https://www.raycast.com/garon) | 1 | 1 |
-| 2086 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 1 |
-| 2087 | [insuline](https://www.raycast.com/Insuline) | 1 | 1 |
-| 2088 | [jaymcc](https://www.raycast.com/jaymcc) | 1 | 1 |
-| 2089 | [jrl](https://www.raycast.com/jrl) | 1 | 1 |
-| 2090 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
-| 2091 | [meslva](https://www.raycast.com/meslva) | 1 | 1 |
-| 2092 | [petar_yovkov](https://www.raycast.com/petar_yovkov) | 1 | 1 |
-| 2093 | [Rediwed](https://www.raycast.com/Rediwed) | 1 | 1 |
-| 2094 | [ruslan-korneev](https://www.raycast.com/ruslan-korneev) | 1 | 1 |
-| 2095 | [sansaxena789](https://www.raycast.com/sansaxena789) | 1 | 1 |
-| 2096 | [sfominx](https://www.raycast.com/sfominx) | 1 | 1 |
-| 2097 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
-| 2098 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
-| 2099 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
-| 2100 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2101 | [abstyle](https://www.raycast.com/abstyle) | 1 | 0 |
-| 2102 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
-| 2103 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2104 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2105 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2106 | [wjsong](https://www.raycast.com/wjsong) | 1 | 0 |
+| 2077 | [wjsong](https://www.raycast.com/wjsong) | 1 | 2 |
+| 2078 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 1 |
+| 2079 | [bitski](https://www.raycast.com/bitski) | 1 | 1 |
+| 2080 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 |
+| 2081 | [disinfeqt](https://www.raycast.com/disinfeqt) | 1 | 1 |
+| 2082 | [drew_levinson](https://www.raycast.com/drew_levinson) | 1 | 1 |
+| 2083 | [drumst0ck](https://www.raycast.com/drumst0ck) | 1 | 1 |
+| 2084 | [figa](https://www.raycast.com/figa) | 1 | 1 |
+| 2085 | [filiph](https://www.raycast.com/filiph) | 1 | 1 |
+| 2086 | [garon](https://www.raycast.com/garon) | 1 | 1 |
+| 2087 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 1 |
+| 2088 | [insuline](https://www.raycast.com/Insuline) | 1 | 1 |
+| 2089 | [jaymcc](https://www.raycast.com/jaymcc) | 1 | 1 |
+| 2090 | [jrl](https://www.raycast.com/jrl) | 1 | 1 |
+| 2091 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
+| 2092 | [meslva](https://www.raycast.com/meslva) | 1 | 1 |
+| 2093 | [petar_yovkov](https://www.raycast.com/petar_yovkov) | 1 | 1 |
+| 2094 | [Rediwed](https://www.raycast.com/Rediwed) | 1 | 1 |
+| 2095 | [ruslan-korneev](https://www.raycast.com/ruslan-korneev) | 1 | 1 |
+| 2096 | [sansaxena789](https://www.raycast.com/sansaxena789) | 1 | 1 |
+| 2097 | [sfominx](https://www.raycast.com/sfominx) | 1 | 1 |
+| 2098 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
+| 2099 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
+| 2100 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
+| 2101 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
+| 2102 | [abstyle](https://www.raycast.com/abstyle) | 1 | 0 |
+| 2103 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
+| 2104 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2105 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2106 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2107 | github-next | 2 | — |
 | 2108 | buffer | 1 | — |
-| 2109 | multi | 1 | — |
-| 2110 | sharat_visweswara | 1 | — |
-| 2111 | TwoMental | 1 | — |
+| 2109 | kelant | 1 | — |
+| 2110 | multi | 1 | — |
+| 2111 | sharat_visweswara | 1 | — |
+| 2112 | TwoMental | 1 | — |

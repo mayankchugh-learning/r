@@ -1,6 +1,6 @@
 # Team & Business Tools
 
-15 extensions · [← Productivity](./README.md)
+16 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -19,3 +19,4 @@
 | [Retrac](https://github.com/raycast/extensions/tree/main/extensions/retrac) | 35 | Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast. | adi_amar | macOS | [store](https://www.raycast.com/adi_amar/retrac) |
 | [Sage HR](https://github.com/raycast/extensions/tree/main/extensions/sage-hr) | 16 | Integration with Sage HR to get a searchable list on who is out today | cyxn | macOS | [store](https://www.raycast.com/cyxn/sage-hr) |
 | [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup) | 5 | Look up Finnish businesses by name or Business ID using PRH YTJ open data | eljn | macOS | [store](https://www.raycast.com/eljn/finnish-business-lookup) |
+| [QuickForce - Salesforce Toolkit](https://github.com/raycast/extensions/tree/main/extensions/quickforce-salesforce-toolkit) | — | Keyboard-driven Salesforce toolkit for developers and admins: switch orgs instantly, run SOQL queries, jump to any Setup page, and manage users, all from Rayca… | kelant | macOS, Windows | — |

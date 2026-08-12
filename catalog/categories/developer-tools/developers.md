@@ -1,6 +1,6 @@
 # Developers ✦
 
-9 extensions · [← Developer Tools](./README.md)
+10 extensions · [← Developer Tools](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -15,3 +15,4 @@
 | [Shopify Developer Changelog](https://github.com/raycast/extensions/tree/main/extensions/shopify-developer-changelog) | 285 | Most recent changes to Shopify's developer platform | sandypockets | macOS | [store](https://www.raycast.com/sandypockets/shopify-developer-changelog) |
 | [Lyne](https://github.com/raycast/extensions/tree/main/extensions/lyne) | 158 | Lyne empowers designers and developers to achieve pixel perfection. Create and organize on-screen Guides for precise design and coding. | ruiaureliano | macOS | [store](https://www.raycast.com/ruiaureliano/lyne) |
 | [Anvil](https://github.com/raycast/extensions/tree/main/extensions/anvil) | 5 | Navigate Anvil's native developer toolbox from Raycast. | alexminator1999 | macOS | [store](https://www.raycast.com/alexminator1999/anvil) |
+| [QuickForce - Salesforce Toolkit](https://github.com/raycast/extensions/tree/main/extensions/quickforce-salesforce-toolkit) | — | Keyboard-driven Salesforce toolkit for developers and admins: switch orgs instantly, run SOQL queries, jump to any Setup page, and manage users, all from Rayca… | kelant | macOS, Windows | — |

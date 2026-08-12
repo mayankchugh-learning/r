@@ -30,7 +30,7 @@
 | [winann](https://www.raycast.com/winann) | 1 | 525 | **Other:** [Paste from Apple Books](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) |
 | [wisdom-plus](https://www.raycast.com/wisdom-plus) | 1 | 706 | **Applications:** [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) |
 | [wizenheimer](https://www.raycast.com/wizenheimer) | 1 | 3 | **Developer Tools:** [Userplane](https://github.com/raycast/extensions/tree/main/extensions/userplane) |
-| [wjsong](https://www.raycast.com/wjsong) | 1 | 0 | **Developer Tools:** [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop) |
+| [wjsong](https://www.raycast.com/wjsong) | 1 | 2 | **Developer Tools:** [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop) |
 | [wong2](https://www.raycast.com/wong2) | 1 | 108 | **Applications:** [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) |
 | [wp-lai](https://www.raycast.com/wp-lai) | 1 | 337 | **Productivity:** [DEX Screener](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) |
 | [wrick17](https://www.raycast.com/wrick17) | 1 | 691 | **Productivity:** [Open Multiple Links](https://github.com/raycast/extensions/tree/main/extensions/multi-links) |

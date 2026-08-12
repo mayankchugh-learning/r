@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "538edb196091b54e9b46d326e764b4e2baf12de2",
-  "generatedAt": "2026-08-12T17:15:33.591Z",
-  "downloadsRefreshedAt": "2026-08-12T17:15:32.999Z",
-  "count": 3167,
+  "commit": "2cb36095f82e99ec7aacefee3ba35a6e0e2ef046",
+  "generatedAt": "2026-08-12T18:23:57.100Z",
+  "downloadsRefreshedAt": "2026-08-12T18:23:56.201Z",
+  "count": 3168,
   "extensions": [
     {
       "dir": "0x0",
@@ -9619,7 +9619,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 504014
+      "downloads": 504044
     },
     {
       "dir": "color-shades",
@@ -21616,7 +21616,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492971
+      "downloads": 493005
     },
     {
       "dir": "google-chrome-profiles",
@@ -27893,7 +27893,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 661900
+      "downloads": 661931
     },
     {
       "dir": "kimai",
@@ -44805,6 +44805,28 @@
       "downloads": 62
     },
     {
+      "dir": "quickforce-salesforce-toolkit",
+      "name": "quickforce-salesforce-toolkit",
+      "title": "QuickForce - Salesforce Toolkit",
+      "description": "Keyboard-driven Salesforce toolkit for developers and admins: switch orgs instantly, run SOQL queries, jump to any Setup page, and manage users, all from Raycast.",
+      "author": "kelant",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/quickforce-salesforce-toolkit",
+      "treeSha": "03d52f0572f6194f9c82d43d4ef6f0065950037d",
+      "downloads": null
+    },
+    {
       "dir": "quicklinker",
       "name": "quicklinker",
       "title": "QuickLinker",
@@ -54014,7 +54036,7 @@
       "store": "https://www.raycast.com/wjsong/ssh-image-drop",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop",
       "treeSha": "ae36c89b6c6fd766f9bf60630d4a3dd5ea2f7c39",
-      "downloads": 0
+      "downloads": 2
     },
     {
       "dir": "ssh-manager",

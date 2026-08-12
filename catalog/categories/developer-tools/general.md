@@ -1,10 +1,10 @@
 # General
 
-170 extensions · [← Developer Tools](./README.md)
+171 extensions · [← Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 661,900 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 661,931 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,233 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,105 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,659 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -36,6 +36,7 @@
 | [SwitchHosts](https://github.com/raycast/extensions/tree/main/extensions/switchhosts) | 1,274 | An extension for hosts management & switching | tiancheng92 | macOS | [store](https://www.raycast.com/tiancheng92/switchhosts) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,249 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Vault Manager](https://github.com/raycast/extensions/tree/main/extensions/vault) | 1,223 | Vault extension for Raycast | fonimus | macOS | [store](https://www.raycast.com/fonimus/vault-manager) |
+| [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) | 1,195 | Runs configurable application shortcut depending on the frontmost application. | cyxn | macOS | [store](https://www.raycast.com/cyxn/universal-commands) |
 | [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,184 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
 | [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) | 1,171 | Raycast extension for MiniSim | okwasniewski | macOS | [store](https://www.raycast.com/okwasniewski/minisim) |
 | [Wakatime](https://github.com/raycast/extensions/tree/main/extensions/wakatime) | 1,099 | Show your Wakatime Activity Stats, Projects and Leaderboards | iammola | macOS | [store](https://www.raycast.com/iammola/wakatime) |
@@ -77,6 +78,7 @@
 | [OSS Insight](https://github.com/raycast/extensions/tree/main/extensions/ossinsight) | 265 | OSS Insight extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/ossinsight) |
 | [Saved Items](https://github.com/raycast/extensions/tree/main/extensions/saved-items) | 263 | Save some items (eg. quick replies) and insert or copy them. | guoxudong | macOS | [store](https://www.raycast.com/guoxudong/saved-items) |
 | [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 261 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
+| [Bazinga Tools](https://github.com/raycast/extensions/tree/main/extensions/bazinga-tools) | 244 | A shortcut to open tools on Bazinga.tools | luin | macOS | [store](https://www.raycast.com/luin/bazinga-tools) |
 | [Motion Preview](https://github.com/raycast/extensions/tree/main/extensions/raycast-motion-preview) | 242 | Preview Lottie and Rive Animations in Raycast | ayarse | macOS | [store](https://www.raycast.com/ayarse/raycast-motion-preview) |
 | [Evaluate Math Expression](https://github.com/raycast/extensions/tree/main/extensions/evaluate-math-expression) | 225 | Reads current selection, evaluates the math expression, and shows it in a desired way | Dervex | macOS | [store](https://www.raycast.com/Dervex/evaluate-math-expression) |
 | [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) | 222 | Generate Minion Ipsum like: Minions ipsum hahaha wiiiii gelatooo poopayee aaaaaah. | vigosan | macOS | [store](https://www.raycast.com/vigosan/minion-ipsum) |
@@ -97,6 +99,7 @@
 | [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | 153 | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |
 | [Websocket Debugging](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) | 152 | Allows you to debug Pusher | RhysLees | macOS | [store](https://www.raycast.com/RhysLees/websocket-debugging) |
 | [Multipass](https://github.com/raycast/extensions/tree/main/extensions/multipass) | 147 | Manage Multipass instances | davibe | macOS | [store](https://www.raycast.com/davibe/multipass) |
+| [Backstage](https://github.com/raycast/extensions/tree/main/extensions/backstage) | 141 | Shortcuts for Backstage | yukukotani | macOS | [store](https://www.raycast.com/yukukotani/backstage) |
 | [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly) | 137 | A Raycast extension integrating with LaunchDarkly | luarmr | macOS | [store](https://www.raycast.com/luarmr/launchdarkly) |
 | [Pastefy](https://github.com/raycast/extensions/tree/main/extensions/pastefy) | 125 | Use Pastefy in Raycast to create, list and delete pastes | interaapps (org) | macOS, Windows | [store](https://www.raycast.com/interaapps/pastefy) |
 | [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 121 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
@@ -116,7 +119,6 @@
 | [Positron](https://github.com/raycast/extensions/tree/main/extensions/positron) | 88 | Manage Positron projects | rrmaximiliano | macOS | [store](https://www.raycast.com/rrmaximiliano/positron) |
 | [Unkey](https://github.com/raycast/extensions/tree/main/extensions/unkey) | 88 | Create, Verify, Update and Revoke Keys through Unkey | xmok | macOS | [store](https://www.raycast.com/xmok/unkey) |
 | [Drupal.org](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) | 82 | Get information from drupal.org | hussainweb | macOS | [store](https://www.raycast.com/hussainweb/drupal-org) |
-| [Buddy](https://github.com/raycast/extensions/tree/main/extensions/buddy) | 81 | Control Buddy with your keyboard. | lamalamaMark | macOS | [store](https://www.raycast.com/lamalamaMark/buddy) |
 | [Rails Routes](https://github.com/raycast/extensions/tree/main/extensions/rails-routes) | 77 | Inspect your Rails routes in development mode directly from Raycast | renzo | macOS | [store](https://www.raycast.com/renzo/rails-routes) |
 | [Shelve](https://github.com/raycast/extensions/tree/main/extensions/shelve) | 74 | Share secrets securely without an account. Set expiration time, control number of reads, and ensure encrypted transmission. | xulobeats | Windows, macOS | [store](https://www.raycast.com/xulobeats/shelve) |
 | [Kimi for Coding](https://github.com/raycast/extensions/tree/main/extensions/kimi-for-coding) | 68 | Retrieve usage information and when the usage resets. | geekdada | macOS, Windows | [store](https://www.raycast.com/geekdada/kimi-for-coding) |
@@ -138,7 +140,6 @@
 | [WPPB](https://github.com/raycast/extensions/tree/main/extensions/wppb) | 42 | WordPress Plugin Boilerplate | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/wppb) |
 | [Radicle](https://github.com/raycast/extensions/tree/main/extensions/radicle) | 40 | Interact with your Radicle storage. | sebastinez_rhizoma | macOS | [store](https://www.raycast.com/sebastinez_rhizoma/radicle) |
 | [Unleash Feature Toggle](https://github.com/raycast/extensions/tree/main/extensions/unleash-feature-toggle) | 39 | List all projects and feature toggles from Unleash | firhan_ramadhan | macOS | [store](https://www.raycast.com/firhan_ramadhan/unleash-feature-toggle) |
-| [Dodo Payments](https://github.com/raycast/extensions/tree/main/extensions/dodo-payments) | 35 | Manage all your Dodo Payments orders, payments, subscriptions, discounts, license keys, disputes, refunds and payouts, right from your keyboard. | dodopayments | macOS | [store](https://www.raycast.com/dodopayments/dodo-payments) |
 | [Retrac](https://github.com/raycast/extensions/tree/main/extensions/retrac) | 35 | Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast. | adi_amar | macOS | [store](https://www.raycast.com/adi_amar/retrac) |
 | [Vultr](https://github.com/raycast/extensions/tree/main/extensions/vultr) | 34 | Manage Users, View Account Information and Billing History | xmok | macOS | [store](https://www.raycast.com/xmok/vultr) |
 | [Onbo: New Grad & Internship Tracker](https://github.com/raycast/extensions/tree/main/extensions/onbo) | 32 | Browse and save student and entry-level roles from leading tech companies. | soradotwav | macOS | [store](https://www.raycast.com/soradotwav/onbo) |

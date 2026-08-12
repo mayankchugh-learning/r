@@ -1,6 +1,6 @@
 # Web ✦
 
-6 extensions · [← Developer Tools](./README.md)
+5 extensions · [← Developer Tools](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -11,4 +11,3 @@
 | [Web Page Design Mode](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode) | 352 | Toggle the document.designMode property on your web page to control whether the entire document is editable. | danulqua | macOS | [store](https://www.raycast.com/danulqua/web-page-design-mode) |
 | [PrivateBin](https://github.com/raycast/extensions/tree/main/extensions/privatebin) | 101 | Share sensitive data using a PrivateBin web service | sedlacek-martin | macOS | [store](https://www.raycast.com/sedlacek-martin/privatebin) |
 | [Create Remix](https://github.com/raycast/extensions/tree/main/extensions/raycast-create-remix) | 62 | Create Remix Run Web App using create-remix | nuno_costa | macOS | [store](https://www.raycast.com/nuno_costa/create-remix) |
-| [Tabstack](https://github.com/raycast/extensions/tree/main/extensions/tabstack) | 2 | Read, research, and act on the web from your keyboard. Powered by Tabstack. | tessak22 | macOS, Windows | [store](https://www.raycast.com/tessak22/tabstack) |
