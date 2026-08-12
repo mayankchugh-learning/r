@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,955 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
-| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 8,800 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
+| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,956 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
+| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 8,801 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
 | [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,739 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
 | [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 2,868 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
 | [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,582 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
@@ -24,7 +24,7 @@
 | [itch.io](https://github.com/raycast/extensions/tree/main/extensions/itch-io) | 398 | Raycast Extension for itch.io, browse through milions of games made by indie developers! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/itch-io) |
 | [BTTV Emote](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) | 373 | Browse Through Thousands of BTTV Emote | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/bttv-emote) |
 | [Hidden Icons](https://github.com/raycast/extensions/tree/main/extensions/hidden-icons) | 368 | A casual game to find a hidden icon. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/hidden-icons) |
-| [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 348 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
+| [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 349 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 321 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [Ray Clicker](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker) | 300 | Idle clicker game for Raycast with upgrades, prestige, and fun events. | JonathanRReed | macOS | [store](https://www.raycast.com/JonathanRReed/ray-clicker) |
 | [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox-games) | 239 | Searches for & launches Roblox places | TaylorRobinson | macOS | [store](https://www.raycast.com/TaylorRobinson/roblox-games) |
@@ -43,7 +43,7 @@
 | [Playtester](https://github.com/raycast/extensions/tree/main/extensions/playtester) | 75 | Discover alphas, betas, demos for upcoming indie games on Steam, Playstation, Xbox | playtesterhq (org) | macOS | [store](https://www.raycast.com/playtesterhq/playtester) |
 | [Helldivers 2](https://github.com/raycast/extensions/tree/main/extensions/helldivers2) | 67 | View Galactic War Status from Helldivers II | alexstrnik | macOS, Windows | [store](https://www.raycast.com/alexstrnik/helldivers2) |
 | [Custom Wordle](https://github.com/raycast/extensions/tree/main/extensions/custom-wordle) | 56 | Get a link to play wordle with your own word | pallav_agarwal | macOS | [store](https://www.raycast.com/pallav_agarwal/custom-wordle) |
-| [Game Scout](https://github.com/raycast/extensions/tree/main/extensions/game-scout) | 26 | The ultimate gaming companion to track prices, deals, and free giveaways. | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/game-scout) |
+| [Game Scout](https://github.com/raycast/extensions/tree/main/extensions/game-scout) | 28 | The ultimate gaming companion to track prices, deals, and free giveaways. | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/game-scout) |
 | [Decentraland](https://github.com/raycast/extensions/tree/main/extensions/decentraland) | 16 | Search and go directly to events and places in Decentraland | fmiras | macOS | [store](https://www.raycast.com/fmiras/decentraland) |
 | [Geoguesser](https://github.com/raycast/extensions/tree/main/extensions/geoguesser) | 14 | Allow you to check your profile, ranking and show you the current daily mission | boosteblume | macOS | [store](https://www.raycast.com/boosteblume/geoguesser) |
 | [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 2 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
