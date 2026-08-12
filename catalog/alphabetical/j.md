@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,651 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
+| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,658 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
 | [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 30,362 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
-| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 15,646 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
-| [Jira Search](https://github.com/raycast/extensions/tree/main/extensions/jira-search) | 7,947 | Search for Jira issues (more tolerant and powerful than built-in), projects, boards and filters. | sven | macOS | [store](https://www.raycast.com/sven/jira-search) |
+| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 15,647 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
+| [Jira Search](https://github.com/raycast/extensions/tree/main/extensions/jira-search) | 7,948 | Search for Jira issues (more tolerant and powerful than built-in), projects, boards and filters. | sven | macOS | [store](https://www.raycast.com/sven/jira-search) |
 | [Jira Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-search-self-hosted) | 4,577 | Search for Jira issues (more tolerant and powerful than built-in), projects, and boards on Jira Server instances. | emanguy | macOS | [store](https://www.raycast.com/emanguy/jira-search-self-hosted) |
 | [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor) | 4,500 | All JSON operations in one editor. | HerbertLu | macOS, Windows | [store](https://www.raycast.com/HerbertLu/json-editor) |
 | [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 3,975 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
@@ -28,7 +28,7 @@
 | [Jotoba — Japanese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/jotoba) | 408 | Search Jotoba.de from the comfort of Raycast. | clnhs | macOS | [store](https://www.raycast.com/clnhs/jotoba) |
 | [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) | 363 | Just a color picker | ZooHero | macOS | [store](https://www.raycast.com/ZooHero/justcolorpicker-raycast) |
 | [Johnny.Decimal](https://github.com/raycast/extensions/tree/main/extensions/johnny-decimal) | 259 | Search and manage Johnny.Decimal system. | x0ba | macOS | [store](https://www.raycast.com/x0ba/johnny-decimal) |
-| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 252 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
+| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 253 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 233 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [Jetpack Commands](https://github.com/raycast/extensions/tree/main/extensions/jetpack-commands) | 220 | Manage your Jetpack-connected WordPress sites. | Automattic_Inc | macOS | [store](https://www.raycast.com/Automattic_Inc/jetpack-commands) |
 | [James Webb Space Telescope](https://github.com/raycast/extensions/tree/main/extensions/james-webb-space-telescope) | 219 | List data from James Webb Space Telescope's observations, including images, csv, jsons and fits files. | Infonautica | macOS | [store](https://www.raycast.com/Infonautica/james-webb-space-telescope) |

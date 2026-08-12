@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 254,849 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,071 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
-| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,806 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 254,871 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,074 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,807 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Toggle Fn](https://github.com/raycast/extensions/tree/main/extensions/toggle-fn) | 1,548 | Toggle the "Use all F1, F2, etc. keys as standard function keys" option in macOS System Preferences. | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/toggle-fn) |
 | [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 915 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
 | [Toggle Grayscale](https://github.com/raycast/extensions/tree/main/extensions/toggle-grayscale) | 881 | Instantly toggle your Mac's Color Filters accessibility feature on/off without opening System Settings. Switch between color modes with a single command. | zcsabbagh | macOS | [store](https://www.raycast.com/zcsabbagh/toggle-grayscale) |

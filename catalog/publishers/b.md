@@ -6,12 +6,12 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [b-per](https://www.raycast.com/b-per) | 2 | 263 | **Documentation:** [dbt Documentation](https://github.com/raycast/extensions/tree/main/extensions/dbt-documentation)<br>**Developer Tools:** [Dagster](https://github.com/raycast/extensions/tree/main/extensions/dagster) |
+| [b-per](https://www.raycast.com/b-per) | 2 | 264 | **Documentation:** [dbt Documentation](https://github.com/raycast/extensions/tree/main/extensions/dbt-documentation)<br>**Developer Tools:** [Dagster](https://github.com/raycast/extensions/tree/main/extensions/dagster) |
 | [b6pzeusbc54tvhw5jgpyw8pwz2x6gs](https://www.raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs) | 1 | 344 | **Productivity:** [YouTube Shorts to Normal Video Page](https://github.com/raycast/extensions/tree/main/extensions/youtube-shorts-to-normal-video-page) |
 | [B9O2](https://www.raycast.com/b9o2) | 1 | 140 | **Developer Tools:** [Ideate](https://github.com/raycast/extensions/tree/main/extensions/ideate) |
 | [bake](https://www.raycast.com/bake) | 1 | 502 | **Productivity:** [Gopass](https://github.com/raycast/extensions/tree/main/extensions/gopass) |
 | [Baldy](https://www.raycast.com/Baldy) | 1 | 17 | **Productivity:** [Kaneo](https://github.com/raycast/extensions/tree/main/extensions/kaneo-for-raycast) |
-| [BalliAsghar](https://www.raycast.com/BalliAsghar) | 3 | 7,449 | **Communication:** [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy)<br>**Applications:** [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur)<br>**Media:** [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) |
+| [BalliAsghar](https://www.raycast.com/BalliAsghar) | 3 | 7,450 | **Communication:** [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy)<br>**Applications:** [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur)<br>**Media:** [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) |
 | [baptiste-jn](https://www.raycast.com/baptiste-jn) | 1 | 221 | **Developer Tools:** [Kill MCP Servers](https://github.com/raycast/extensions/tree/main/extensions/kill-mcp) |
 | [baradusov](https://www.raycast.com/baradusov) | 1 | 92 | **Media:** [TorBox](https://github.com/raycast/extensions/tree/main/extensions/torbox) |
 | [barlow](https://www.raycast.com/barlow) | 2 | 40 | **Data:** [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail)<br>**Productivity:** [Transport NSW](https://github.com/raycast/extensions/tree/main/extensions/transport-nsw) |
@@ -28,13 +28,13 @@
 | [bengt](https://www.raycast.com/bengt) | 1 | 95 | **Productivity:** [Untis](https://github.com/raycast/extensions/tree/main/extensions/untis) |
 | [benkates](https://www.raycast.com/benkates) | 1 | 94 | **Applications:** [Datawrapper](https://github.com/raycast/extensions/tree/main/extensions/datawrapper) |
 | [bennettsh](https://www.raycast.com/bennettsh) | 1 | 581 | **Media:** [Playnite Launcher](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) |
-| [benostein](https://www.raycast.com/benostein) | 1 | 184 | **Productivity:** [KeyRaycast](https://github.com/raycast/extensions/tree/main/extensions/keyraycast) |
+| [benostein](https://www.raycast.com/benostein) | 1 | 185 | **Productivity:** [KeyRaycast](https://github.com/raycast/extensions/tree/main/extensions/keyraycast) |
 | [bensomething](https://www.raycast.com/bensomething) | 3 | 1,111 | **Media:** [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail)<br>**Documentation:** [Craft CMS](https://github.com/raycast/extensions/tree/main/extensions/craft-cms-docs)<br>**Data:** [Beardtown](https://github.com/raycast/extensions/tree/main/extensions/beardtown) |
-| [benvp](https://www.raycast.com/benvp) | 1 | 64,595 | **System:** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) |
+| [benvp](https://www.raycast.com/benvp) | 1 | 64,603 | **System:** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) |
 | [berkaydigital](https://www.raycast.com/berkaydigital) | 1 | 11 | **Productivity:** [Fakecrime Upload](https://github.com/raycast/extensions/tree/main/extensions/fakecrime-upload) |
 | [bert](https://www.raycast.com/bert) | 1 | 214 | **Applications:** [Esse Actions](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) |
 | [betty_van_aken](https://www.raycast.com/betty_van_aken) | 1 | 170 | **Fun:** [Learning Snacks](https://github.com/raycast/extensions/tree/main/extensions/learning-snacks) |
-| [beyond-code](https://www.raycast.com/beyond-code) | 1 | 1,358 | **Developer Tools:** [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) |
+| [beyond-code](https://www.raycast.com/beyond-code) | 1 | 1,359 | **Developer Tools:** [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) |
 | [bfayers](https://www.raycast.com/bfayers) | 1 | 325 | **Security:** [Aegis Authenticator](https://github.com/raycast/extensions/tree/main/extensions/aegis) |
 | [bgiovand](https://www.raycast.com/bgiovand) | 1 | 442 | **Other:** [Homepage](https://github.com/raycast/extensions/tree/main/extensions/homepage) |
 | [bgnfu7re](https://www.raycast.com/bgnfu7re) | 5 | 9,605 | **Productivity:** [DEVONthink](https://github.com/raycast/extensions/tree/main/extensions/devonthink), [Timeular](https://github.com/raycast/extensions/tree/main/extensions/timeular)<br>**Design Tools:** [Flaticon — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/flaticon)<br>**Developer Tools:** [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog)<br>**Finance:** [Recurly](https://github.com/raycast/extensions/tree/main/extensions/recurly) |
@@ -62,16 +62,16 @@
 | [boradatti](https://www.raycast.com/boradatti) | 2 | 39 | **Uncategorized:** [Farrago](https://github.com/raycast/extensions/tree/main/extensions/farrago)<br>**Applications:** [IVPN](https://github.com/raycast/extensions/tree/main/extensions/ivpn) |
 | [borzov](https://www.raycast.com/borzov) | 1 | 318 | **Developer Tools:** [Project Code to Text](https://github.com/raycast/extensions/tree/main/extensions/project-code-to-text) |
 | [bossdaily](https://www.raycast.com/bossdaily) | 1 | 149 | **Developer Tools:** [WinSCP](https://github.com/raycast/extensions/tree/main/extensions/winscp) |
-| [BossElijah](https://www.raycast.com/BossElijah) | 5 | 1,110 | **Fun:** [IPA Translator](https://github.com/raycast/extensions/tree/main/extensions/ipa-translator), [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts), [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images), [Bored](https://github.com/raycast/extensions/tree/main/extensions/bored)<br>**Other:** [Chords and Tabs](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) |
-| [BProg](https://www.raycast.com/BProg) | 1 | 866 | **Developer Tools:** [Swift Evolution](https://github.com/raycast/extensions/tree/main/extensions/swift-evolution) |
+| [BossElijah](https://www.raycast.com/BossElijah) | 5 | 1,112 | **Fun:** [IPA Translator](https://github.com/raycast/extensions/tree/main/extensions/ipa-translator), [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts), [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images), [Bored](https://github.com/raycast/extensions/tree/main/extensions/bored)<br>**Other:** [Chords and Tabs](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) |
+| [BProg](https://www.raycast.com/BProg) | 1 | 867 | **Developer Tools:** [Swift Evolution](https://github.com/raycast/extensions/tree/main/extensions/swift-evolution) |
 | [BrandonGiesing](https://www.raycast.com/BrandonGiesing) | 1 | 271 | **Media:** [SauceNAO - Reverse Image Search](https://github.com/raycast/extensions/tree/main/extensions/saucenao) |
 | [braydoncoyer](https://www.raycast.com/braydoncoyer) | 1 | 577 | **Fun:** [Office Quotes](https://github.com/raycast/extensions/tree/main/extensions/office-quotes) |
-| [breadone](https://www.raycast.com/breadone) | 1 | 1,521 | **Security:** [Apple-Like Password](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) |
+| [breadone](https://www.raycast.com/breadone) | 1 | 1,522 | **Security:** [Apple-Like Password](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) |
 | [brian_j_decoder22](https://www.raycast.com/brian_j_decoder22) | 1 | 173 | **Developer Tools:** [MultiForce](https://github.com/raycast/extensions/tree/main/extensions/multi-force) |
 | [brian_wang](https://www.raycast.com/brian_wang) | 1 | 798 | **Productivity:** [Harpoon](https://github.com/raycast/extensions/tree/main/extensions/harpoon) |
 | [brianfakhoury](https://www.raycast.com/brianfakhoury) | 1 | 1,178 | **Productivity:** [Mem](https://github.com/raycast/extensions/tree/main/extensions/mem) |
 | [brittany_carusone](https://www.raycast.com/brittany_carusone) | 1 | 429 | **Productivity:** [RapidCap](https://github.com/raycast/extensions/tree/main/extensions/rapidcap) |
-| [broc-dev](https://www.raycast.com/broc-dev) | 1 | 1,537 | **Media:** [Tidal Controller](https://github.com/raycast/extensions/tree/main/extensions/tidal-controller) |
+| [broc-dev](https://www.raycast.com/broc-dev) | 1 | 1,538 | **Media:** [Tidal Controller](https://github.com/raycast/extensions/tree/main/extensions/tidal-controller) |
 | [bruce3x](https://www.raycast.com/bruce3x) | 1 | 224 | **Developer Tools:** [Android Versions](https://github.com/raycast/extensions/tree/main/extensions/android-versions) |
 | [bruno_caruso](https://www.raycast.com/bruno_caruso) | 1 | 16 | **Productivity:** [Magic Home](https://github.com/raycast/extensions/tree/main/extensions/magic-home) |
 | [BrunoMonteiro](https://www.raycast.com/BrunoMonteiro) | 1 | 64 | **Applications:** [Calibre Library](https://github.com/raycast/extensions/tree/main/extensions/calibre-search) |

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,765 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
+| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,766 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) | 2,785 | Search the bible | josmithua | macOS, Windows | [store](https://www.raycast.com/josmithua/bible) |
 | [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,380 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
 | [Web Dictionaries](https://github.com/raycast/extensions/tree/main/extensions/dictionary) | 2,086 | Search any word with multiple online dictionaries or translation engines in one place—lightweight, zero dependencies. | DrChai | macOS | [store](https://www.raycast.com/DrChai/dictionary) |
@@ -38,7 +38,7 @@
 | [Analog Film Library](https://github.com/raycast/extensions/tree/main/extensions/analog-film-library) | 52 | Browse analog films by name, brand, ISO, process, and more | samuelkraft | macOS | [store](https://www.raycast.com/samuelkraft/analog-film-library) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 41 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
 | [Datahub Utility](https://github.com/raycast/extensions/tree/main/extensions/datahub) | 38 | Search and explore datasets in your DataHub data catalog | nickrotondo | macOS | [store](https://www.raycast.com/nickrotondo/datahub) |
-| [Ordbøkene - Norwegian Dictionary](https://github.com/raycast/extensions/tree/main/extensions/raycast-ordbokene) | 35 | Search the official Norwegian dictionary for both bokmål and nynorsk definitions. | theherk | macOS | [store](https://www.raycast.com/theherk/raycast-ordbokene) |
+| [Ordbøkene - Norwegian Dictionary](https://github.com/raycast/extensions/tree/main/extensions/raycast-ordbokene) | 36 | Search the official Norwegian dictionary for both bokmål and nynorsk definitions. | theherk | macOS | [store](https://www.raycast.com/theherk/raycast-ordbokene) |
 | [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail) | 27 | Search for data in your Dovetail workspace from wherever you are. | barlow | macOS | [store](https://www.raycast.com/barlow/dovetail) |
 | [Chinese Lottery](https://github.com/raycast/extensions/tree/main/extensions/chinese-lottery) | 26 | Check the results of China Welfare Lottery and Sports Lottery | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/chinese-lottery) |
 | [Security Search](https://github.com/raycast/extensions/tree/main/extensions/security-search) | 25 | Searches for securities via name to get the ISIN or via ISIN to get the name | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/security-search) |

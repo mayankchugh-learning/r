@@ -40,8 +40,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 135,869 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
-| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,430 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
+| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 135,876 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
+| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,431 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,497 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,744 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote) | 3,779 | Search Microsoft OneNote notes | alewandowski | macOS | [store](https://www.raycast.com/alewandowski/onenote) |
@@ -52,7 +52,7 @@
 | [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 706 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
 | [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) | 535 | Take notes through Raycast in UpNote. | ujjwal1998 | macOS | [store](https://www.raycast.com/ujjwal1998/upnote) |
 | [Ingredients Lister](https://github.com/raycast/extensions/tree/main/extensions/ingredients-lister) | 490 | After getting the contents of an entire website using selected text, you will receive a list of every single ingredient necessary in your recipe from online fo… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/ingredients-lister) |
-| [cryptgeon](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) | 217 | Create and share encrypted notes | cupcakearmy | macOS | [store](https://www.raycast.com/cupcakearmy/cryptgeon) |
+| [cryptgeon](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) | 218 | Create and share encrypted notes | cupcakearmy | macOS | [store](https://www.raycast.com/cupcakearmy/cryptgeon) |
 | [Typora Note Creator](https://github.com/raycast/extensions/tree/main/extensions/typora-note-creator) | 144 | This extension allows you to create folders and notes for Typora from templates. | mynameisny | macOS | [store](https://www.raycast.com/mynameisny/typora-note-creator) |
 | [Harmonic](https://github.com/raycast/extensions/tree/main/extensions/harmonic) | 42 | Search notes and chords, see their frequencies, and play them as tones | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/harmonic) |
 | [Essay](https://github.com/raycast/extensions/tree/main/extensions/essay) | 34 | Use Essay Raycast extension for instant essay publishing and streamlined notes management. | Ironben | macOS | [store](https://www.raycast.com/Ironben/essay) |

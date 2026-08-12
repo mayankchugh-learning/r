@@ -4,13 +4,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 10,883 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
+| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 10,887 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
 | [8 Ball](https://github.com/raycast/extensions/tree/main/extensions/8ball) | 1,983 | Returns an 8 ball like answer to questions | rocksack | macOS | [store](https://www.raycast.com/rocksack/8-ball) |
 | [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,810 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses) | 1,770 | Use Ulysses with Raycast | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/ulysses) |
 | [Easings](https://github.com/raycast/extensions/tree/main/extensions/easings) | 1,760 | Quickly find and grab your favorite easings. | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/easings) |
 | [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) | 1,681 | PDF Compression using native PDFKit | birkhoff | macOS | [store](https://www.raycast.com/birkhoff/pdf-compression) |
-| [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) | 1,631 | A Raycast Extension that instantly pastes rich text or HTML content into Markdown. | weicodes | macOS | [store](https://www.raycast.com/weicodes/paste-to-markdown) |
+| [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) | 1,632 | A Raycast Extension that instantly pastes rich text or HTML content into Markdown. | weicodes | macOS | [store](https://www.raycast.com/weicodes/paste-to-markdown) |
 | [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,248 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
 | [Feedly](https://github.com/raycast/extensions/tree/main/extensions/feedly) | 1,204 | Browse Feedly through Raycast | shubham | macOS | [store](https://www.raycast.com/shubham/feedly) |
 | [Simple Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) | 1,169 | This is a Youdao translation extension with simple interaction | xeric | macOS | [store](https://www.raycast.com/xeric/simple-youdao) |
@@ -28,7 +28,7 @@
 | [Usememos](https://github.com/raycast/extensions/tree/main/extensions/usememos) | 108 | Usememos is an extension for usememos/memos | zrr1999 | macOS | [store](https://www.raycast.com/zrr1999/usememos) |
 | [Text Rewrap](https://github.com/raycast/extensions/tree/main/extensions/text-rewrap) | 98 | Rewraps Text at a given width | rembridge | macOS, Windows | [store](https://www.raycast.com/rembridge/text-rewrap) |
 | [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) | 97 | Powerful SVG previewer and editor with dark mode and PNG export. | gaosunhao | macOS | [store](https://www.raycast.com/gaosunhao/svg-studio) |
-| [Ping Menu](https://github.com/raycast/extensions/tree/main/extensions/ping-menu) | 89 | Monitor ping latency in the menu bar | domonkos_nagy | macOS | [store](https://www.raycast.com/domonkos_nagy/ping-menu) |
+| [Ping Menu](https://github.com/raycast/extensions/tree/main/extensions/ping-menu) | 90 | Monitor ping latency in the menu bar | domonkos_nagy | macOS | [store](https://www.raycast.com/domonkos_nagy/ping-menu) |
 | [Upstash](https://github.com/raycast/extensions/tree/main/extensions/upstash) | 63 | Manage Redis Databases and Vector Indices | xmok | macOS | [store](https://www.raycast.com/xmok/upstash) |
 | [Micro.blog](https://github.com/raycast/extensions/tree/main/extensions/microblog) | 57 | Post to Micro.blog and your connected crossposting accounts | tynanpurdy | macOS | [store](https://www.raycast.com/tynanpurdy/microblog) |
 | [Yap](https://github.com/raycast/extensions/tree/main/extensions/yap) | 53 | Post on socials in a single click | chaseonraycast | macOS | [store](https://www.raycast.com/chaseonraycast/yap) |

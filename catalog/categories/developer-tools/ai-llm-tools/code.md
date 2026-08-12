@@ -1,12 +1,12 @@
 # Code ✦
 
-13 extensions · [← AI & LLM Tools](./README.md)
+14 extensions · [← AI & LLM Tools](./README.md)
 
 *✦ auto-discovered topic group*
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) | 11,493 | Monitor Claude Code usage with real-time tracking | nyatinte | macOS | [store](https://www.raycast.com/nyatinte/ccusage) |
+| [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) | 11,496 | Monitor Claude Code usage with real-time tracking | nyatinte | macOS | [store](https://www.raycast.com/nyatinte/ccusage) |
 | [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 3,340 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
 | [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 1,907 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS | [store](https://www.raycast.com/qazi0/claudecast) |
 | [Diff View](https://github.com/raycast/extensions/tree/main/extensions/diff-view) | 623 | Compare the last two entries of your clipboard, or two selected files, in VS Code, Cursor, or VSCodium | kalaschnik | macOS | [store](https://www.raycast.com/kalaschnik/diff-view) |
@@ -17,5 +17,6 @@
 | [Claude Session Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/claude-session-bookmarks) | 13 | Save and quickly open your Claude Code session links without keeping a pile of browser tabs around. | eaescob | macOS | [store](https://www.raycast.com/eaescob/claude-session-bookmarks) |
 | [Threadlens](https://github.com/raycast/extensions/tree/main/extensions/threadlens) | 7 | Search local coding-agent sessions across Codex, Claude Code, Cursor, and more. | moinulmoin | macOS | [store](https://www.raycast.com/moinulmoin/threadlens) |
 | [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four) | 1 | A shelf of clean, copyable snippets pushed from your terminal or Claude Code. "10-4, copy that": copy them out of Raycast with pristine formatting, no mangled… | jaymcc | macOS | [store](https://www.raycast.com/jaymcc/ten-four) |
+| [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop) | 0 | Send files, folders, and clipboard images over SSH with a single hotkey, and pull them back — no path typing, the remote path lands on your clipboard. Handy fo… | wjsong | macOS, Windows | [store](https://www.raycast.com/wjsong/ssh-image-drop) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |
 | [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) | — | Take an idea from anywhere and turn it into code with Copilot Workspace | github-next (org) | macOS | — |

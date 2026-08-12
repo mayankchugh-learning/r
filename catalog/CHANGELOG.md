@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `eaef9c2050`
+
+**Added (1):** [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop)
+
 ## 2026-08-12 — upstream `56d073f3ca`
 
 **Updated (1):** [VoiceInk](https://github.com/raycast/extensions/tree/main/extensions/voiceink)
