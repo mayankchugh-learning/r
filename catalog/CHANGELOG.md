@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `b6719d52ca`
+
+**Updated (1):** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles)
+
 ## 2026-08-12 — upstream `e6af241697`
 
 **Updated (1):** [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp)

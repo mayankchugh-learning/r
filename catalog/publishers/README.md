@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,096,235 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,096,273 |
 | 2 | [raycast](./id/raycast.md) | 11 | 782,575 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,454 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 492,576 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 661,501 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 492,616 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 436,829 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,385 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,678 |
@@ -142,7 +142,7 @@
 | 132 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 13,523 |
 | 133 | [louishuyng](https://www.raycast.com/louishuyng) | 4 | 13,384 |
 | 134 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 13,378 |
-| 135 | [frouo](https://www.raycast.com/frouo) | 1 | 13,292 |
+| 135 | [frouo](https://www.raycast.com/frouo) | 1 | 13,294 |
 | 136 | [ryan](https://www.raycast.com/ryan) | 1 | 13,231 |
 | 137 | [reclaim-ai](https://www.raycast.com/reclaim-ai) | 1 | 13,074 |
 | 138 | [KartikKumarSahoo](https://www.raycast.com/KartikKumarSahoo) | 1 | 12,980 |
