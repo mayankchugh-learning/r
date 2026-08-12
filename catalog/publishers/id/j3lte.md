@@ -1,6 +1,6 @@
 # j3lte
 
-13 extensions · 9,737 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
+13 extensions · 9,738 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
 
 ## Media (2)
 
@@ -24,7 +24,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Govee](https://github.com/raycast/extensions/tree/main/extensions/govee) | 590 | Control your Govee Lights | j3lte | macOS | [store](https://www.raycast.com/j3lte/govee) |
+| [Govee](https://github.com/raycast/extensions/tree/main/extensions/govee) | 591 | Control your Govee Lights | j3lte | macOS | [store](https://www.raycast.com/j3lte/govee) |
 | [Evil Insult](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) | 297 | Generate Evil Insults | j3lte | macOS | [store](https://www.raycast.com/j3lte/evil-insult) |
 
 ## Web (2)

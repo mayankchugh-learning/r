@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 254,871 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 254,882 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
 | [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,013 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
 | [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,658 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,074 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,077 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
 | [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 7,683 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
-| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,266 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
+| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,267 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
 | [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) | 1,249 | Quickly search packages on https://pkg.go.dev | bstncartwright | macOS | [store](https://www.raycast.com/bstncartwright/go-package-search) |
 | [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,126 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
 | [Search Composer Packagist](https://github.com/raycast/extensions/tree/main/extensions/search-composer-packagist) | 1,028 | Search Composer Packagist For PHP Packages | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/search-composer-packagist) |
@@ -20,7 +20,7 @@
 | [Bundlephobia Search](https://github.com/raycast/extensions/tree/main/extensions/bundlephobia-search) | 600 | Find package and check its size on Bundlephobia | dgrzedzielski | macOS | [store](https://www.raycast.com/dgrzedzielski/bundlephobia-search) |
 | [Search Hex](https://github.com/raycast/extensions/tree/main/extensions/search-hexpm) | 433 | A Raycast extension that enables you to quickly look up package information from Hex | jordelver | macOS | [store](https://www.raycast.com/jordelver/search-hex) |
 | [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 266 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
-| [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 246 | Search Context7 libraries and browse documentation context from Raycast | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
+| [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 247 | Search Context7 libraries and browse documentation context from Raycast | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 233 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) | 230 | Change the NPM registry address | lihzsky | macOS | [store](https://www.raycast.com/lihzsky/raycast-nrm) |
 | [NuGet](https://github.com/raycast/extensions/tree/main/extensions/nuget) | 211 | Simple extension to search for NuGet packages and copy command to install them to clipboard | lbergantin | macOS | [store](https://www.raycast.com/lbergantin/nuget) |
@@ -40,7 +40,7 @@
 | [npm Claimer](https://github.com/raycast/extensions/tree/main/extensions/npm-claimer) | 56 | Instantly claim npm package names in one click | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/npm-claimer) |
 | [Django Packages](https://github.com/raycast/extensions/tree/main/extensions/djangopackages) | 51 | Search and explore djangopackages.org without leaving Raycast. | saadmk11 | macOS, Windows | [store](https://www.raycast.com/saadmk11/djangopackages) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 41 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
-| [FHIR](https://github.com/raycast/extensions/tree/main/extensions/fhir) | 38 | Search FHIR packages and browse documentation | loris | macOS | [store](https://www.raycast.com/loris/fhir) |
+| [FHIR](https://github.com/raycast/extensions/tree/main/extensions/fhir) | 39 | Search FHIR packages and browse documentation | loris | macOS | [store](https://www.raycast.com/loris/fhir) |
 | [DevContainer Features](https://github.com/raycast/extensions/tree/main/extensions/devcontainer-features) | 34 | Search and browse devcontainer features from the official registry | keito4 | macOS | [store](https://www.raycast.com/keito4/devcontainer-features) |
 | [DefinitelyTyped](https://github.com/raycast/extensions/tree/main/extensions/definitelytyped) | 11 | Search and install @types packages from DefinitelyTyped | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/definitelytyped) |
 | [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 8 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |

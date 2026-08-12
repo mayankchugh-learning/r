@@ -1,6 +1,6 @@
 # ridemountainpig
 
-15 extensions · 14,977 downloads · [store](https://www.raycast.com/ridemountainpig) · [← publishers](../README.md)
+15 extensions · 14,978 downloads · [store](https://www.raycast.com/ridemountainpig) · [← publishers](../README.md)
 
 ## Applications (10)
 
@@ -27,7 +27,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Manual](https://github.com/raycast/extensions/tree/main/extensions/raycast-manual) | 143 | Browse and search the Raycast Manual without leaving Raycast. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/raycast-manual) |
+| [Raycast Manual](https://github.com/raycast/extensions/tree/main/extensions/raycast-manual) | 144 | Browse and search the Raycast Manual without leaving Raycast. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/raycast-manual) |
 | [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 121 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
 
 ## Design Tools (1)

@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 12,121 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
-| [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 8,949 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
+| [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 8,950 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
 | [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 8,654 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
 | [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,425 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
 | [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,946 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
@@ -16,7 +16,7 @@
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,780 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,286 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,627 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
-| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,569 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
+| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,571 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
 | [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub) | 1,520 | Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Ra… | dubinc (org) | macOS | [store](https://www.raycast.com/dubinc/dub) |
 | [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,440 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
 | [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,309 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
@@ -59,7 +59,7 @@
 | [xid](https://github.com/raycast/extensions/tree/main/extensions/xid) | 60 | Quickly create an xid from Raycast. | rosszurowski | macOS | [store](https://www.raycast.com/rosszurowski/xid) |
 | [Umami](https://github.com/raycast/extensions/tree/main/extensions/umami) | 58 | The modern analytics platform for effortless insights | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/umami) |
 | [Mixpanel](https://github.com/raycast/extensions/tree/main/extensions/mixpanel) | 54 | Collection of handful handles for Mixpanel | iamsmaso | macOS | [store](https://www.raycast.com/iamsmaso/mixpanel) |
-| [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) | 51 | A Raycast extension that looks up companies in the Swiss national trade register | cmdr | macOS | [store](https://www.raycast.com/cmdr/zefix) |
+| [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) | 52 | A Raycast extension that looks up companies in the Swiss national trade register | cmdr | macOS | [store](https://www.raycast.com/cmdr/zefix) |
 | [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) | 45 | Run qalc calculator with Raycast | vlad2305m | macOS | [store](https://www.raycast.com/vlad2305m/qalc) |
 | [Open Targets](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) | 39 | An (unofficial) entry point to the Open Targets ecosystem. | ireneisdoomed | macOS | [store](https://www.raycast.com/ireneisdoomed/open_targets) |
 | [Retrac](https://github.com/raycast/extensions/tree/main/extensions/retrac) | 35 | Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast. | adi_amar | macOS | [store](https://www.raycast.com/adi_amar/retrac) |

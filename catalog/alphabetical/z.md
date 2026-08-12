@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,707 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,716 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
 | [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,182 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
-| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 13,434 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
+| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 13,436 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
 | [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,564 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
 | [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 2,650 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
-| [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,340 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
+| [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,342 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
 | [Zen Mode](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) | 1,701 | Hide Everything. Mute Everything. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/zen-mode) |
 | [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager) | 1,382 | View and manage your ~/.zshrc from Raycast | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/zshrc-manager) |
 | [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) | 1,064 | Manage zsh aliases | espenbye | macOS | [store](https://www.raycast.com/espenbye/zsh-aliases) |
@@ -28,8 +28,8 @@
 | [Zendesk — Admin](https://github.com/raycast/extensions/tree/main/extensions/zendesk-admin) | 67 | Perform Zendesk Admin functions and access quickly any entity in Zendesk from Raycast. | miguelcorderocollar | macOS, Windows | [store](https://www.raycast.com/miguelcorderocollar/zendesk-admin) |
 | [Zo](https://github.com/raycast/extensions/tree/main/extensions/zo-raycast) | 58 | Chat with Zo models, manage defaults, and review activity | skeletorjs | macOS | [store](https://www.raycast.com/skeletorjs/zo-raycast) |
 | [Zipline](https://github.com/raycast/extensions/tree/main/extensions/zipline) | 54 | Manage your Zipline uploads - browse, upload, and share files | treyg | macOS | [store](https://www.raycast.com/treyg/zipline) |
+| [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) | 52 | A Raycast extension that looks up companies in the Swiss national trade register | cmdr | macOS | [store](https://www.raycast.com/cmdr/zefix) |
 | [Zread.ai](https://github.com/raycast/extensions/tree/main/extensions/zread-ai) | 52 | Open zread.ai pages for GitHub repositories and browse trending repositories. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/zread-ai) |
-| [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) | 51 | A Raycast extension that looks up companies in the Swiss national trade register | cmdr | macOS | [store](https://www.raycast.com/cmdr/zefix) |
 | [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | 49 | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
 | [Zeitraum](https://github.com/raycast/extensions/tree/main/extensions/zeitraum) | 30 | Track time with tags to Zeitraum server | tensor | macOS | [store](https://www.raycast.com/tensor/zeitraum) |
 | [Zodme](https://github.com/raycast/extensions/tree/main/extensions/zodme) | 24 | Look up a zodiac sign from a birthday | camib0b | macOS, Windows | [store](https://www.raycast.com/camib0b/zodme) |
