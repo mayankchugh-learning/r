@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `0047132dba`
+
+**Updated (1):** [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab)
+
 ## 2026-08-12 — upstream `de773e2ccc`
 
 **Updated (2):** [DirectAdmin Reseller](https://github.com/raycast/extensions/tree/main/extensions/directadmin-reseller), [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck)

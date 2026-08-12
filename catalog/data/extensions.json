@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "de773e2ccc77d1ca229e4cc214b623cf35ba437d",
-  "generatedAt": "2026-08-12T08:10:37.491Z",
-  "downloadsRefreshedAt": "2026-08-12T08:10:37.215Z",
+  "commit": "0047132dba07bd555370d692131be8d898ac7dbe",
+  "generatedAt": "2026-08-12T08:11:37.885Z",
+  "downloadsRefreshedAt": "2026-08-12T08:11:37.263Z",
   "count": 3163,
   "extensions": [
     {
@@ -21010,7 +21010,7 @@
       ],
       "store": "https://www.raycast.com/tonka3000/gitlab",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gitlab",
-      "treeSha": "1dc0ee690a0e3405012cd059ecddd8eac59ddda0",
+      "treeSha": "2a7748194f61f31102dbd8d9a3820bfef58f6f24",
       "downloads": 20558
     },
     {
