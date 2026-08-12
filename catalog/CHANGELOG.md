@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `ebb31e5160`
+
+**Added (1):** [Mise Workspace](https://github.com/raycast/extensions/tree/main/extensions/mise-workspace)
+
 ## 2026-08-12 — upstream `db4864006e`
 
 **Updated (1):** [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack)

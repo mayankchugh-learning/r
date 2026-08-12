@@ -1,8 +1,8 @@
 # Window & Workspace Management
 
-47 extensions · [← Productivity](./README.md)
+48 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (20) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (7) · [General](#general) (11)
+[Windows ✦](#windows) (20) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (7) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -72,3 +72,4 @@
 | [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail) | 27 | Search for data in your Dovetail workspace from wherever you are. | barlow | macOS | [store](https://www.raycast.com/barlow/dovetail) |
 | [Razuna - Add and Browse Files in Razuna](https://github.com/raycast/extensions/tree/main/extensions/razuna) | 17 | Upload, search, and browse files in your Razuna workspace directly from Raycast. | TheNitai | macOS | [store](https://www.raycast.com/TheNitai/razuna) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
+| [Mise Workspace](https://github.com/raycast/extensions/tree/main/extensions/mise-workspace) | — | Manage your Mise workspace from Raycast | disinfeqt | macOS | — |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-144 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+145 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -105,6 +105,7 @@
 | [diogo_ferrer](https://www.raycast.com/diogo_ferrer) | 2 | 202 | **Developer Tools:** [VirtualBox Power Switch](https://github.com/raycast/extensions/tree/main/extensions/virtualbox-power-switch)<br>**Fun:** [Cinemas NOS](https://github.com/raycast/extensions/tree/main/extensions/cinemas-nos) |
 | [dionisis_lialios](https://www.raycast.com/dionisis_lialios) | 1 | 200 | **Other:** [Control Viscosity](https://github.com/raycast/extensions/tree/main/extensions/control-viscosity) |
 | [discuss.site](https://www.raycast.com/discuss.site) | 1 | 2 | **Web:** [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) |
+| disinfeqt | 1 | — | **Productivity:** [Mise Workspace](https://github.com/raycast/extensions/tree/main/extensions/mise-workspace) |
 | [dj_z](https://www.raycast.com/dj_z) | 1 | 46 | **Productivity:** [Make.com Scenarios](https://github.com/raycast/extensions/tree/main/extensions/make-dot-com) |
 | [djabarovgeorge](https://www.raycast.com/djabarovgeorge) | 1 | 210 | **Documentation:** [Novu](https://github.com/raycast/extensions/tree/main/extensions/novu) |
 | [djpowers](https://www.raycast.com/djpowers) | 4 | 25,712 | **Applications:** [Apple Maps Search](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search)<br>**Documentation:** [DevDocs](https://github.com/raycast/extensions/tree/main/extensions/devdocs)<br>**Developer Tools:** [Libraries.io](https://github.com/raycast/extensions/tree/main/extensions/libraries-io)<br>**Productivity:** [MBTA Tracker](https://github.com/raycast/extensions/tree/main/extensions/mbta-tracker) |
