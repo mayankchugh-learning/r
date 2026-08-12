@@ -1,6 +1,6 @@
 # raycast
 
-11 extensions · 782,703 downloads · [store](https://www.raycast.com/raycast) · [← publishers](../README.md)
+11 extensions · 782,705 downloads · [store](https://www.raycast.com/raycast) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -22,7 +22,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,679 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,681 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
 
 ## Web (1)
 

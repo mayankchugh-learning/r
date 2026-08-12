@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 285,146 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 285,152 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 48,064 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
 | [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,810 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
 | [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 17,970 | Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams) |
@@ -43,7 +43,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,679 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,681 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
 | [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 32,058 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
 | [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 14,340 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 8,991 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |

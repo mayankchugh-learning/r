@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "079c3727ad4c09a00d2d180cfdb364dea6a8e30c",
-  "generatedAt": "2026-08-12T09:42:33.464Z",
-  "downloadsRefreshedAt": "2026-08-12T09:42:32.467Z",
+  "commit": "d9275ebed2bc83ed554738a4c71b58401f9c254b",
+  "generatedAt": "2026-08-12T10:09:42.018Z",
+  "downloadsRefreshedAt": "2026-08-12T10:09:41.687Z",
   "count": 3163,
   "extensions": [
     {
@@ -9577,7 +9577,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 503769
+      "downloads": 503779
     },
     {
       "dir": "color-shades",
@@ -21574,7 +21574,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492706
+      "downloads": 492718
     },
     {
       "dir": "google-chrome-profiles",
@@ -27851,7 +27851,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 661596
+      "downloads": 661611
     },
     {
       "dir": "kimai",
@@ -49036,7 +49036,7 @@
       ],
       "store": "https://www.raycast.com/loris/safari",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/safari",
-      "treeSha": "d72b712ea181c8705064b16112a22e793b35a681",
+      "treeSha": "db69dd46cfacce9b00c40fadc4222792829a7cd1",
       "downloads": 53417
     },
     {
@@ -52315,7 +52315,7 @@
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
       "treeSha": "4e8378b3a765b9facfde976310b158409a91827a",
-      "downloads": 285146
+      "downloads": 285152
     },
     {
       "dir": "slack-status",
@@ -66345,7 +66345,7 @@
       "store": "https://www.raycast.com/raycast/zoom",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zoom",
       "treeSha": "575db8441a398d0bdc593b290375c1bd382c4734",
-      "downloads": 100679
+      "downloads": 100681
     },
     {
       "dir": "zoom-control",
