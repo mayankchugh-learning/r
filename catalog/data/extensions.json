@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c5463bbaf4268c100931a3a186af456355c7cae6",
-  "generatedAt": "2026-08-12T04:38:19.564Z",
-  "downloadsRefreshedAt": "2026-08-12T04:38:18.663Z",
+  "commit": "861058a0bf949d58b94dca7837492f4797273cd1",
+  "generatedAt": "2026-08-12T04:39:27.816Z",
+  "downloadsRefreshedAt": "2026-08-12T04:39:27.223Z",
   "count": 3163,
   "extensions": [
     {
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 503615
+      "downloads": 503616
     },
     {
       "dir": "color-shades",
@@ -52313,7 +52313,7 @@
       ],
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
-      "treeSha": "2beb51ebca548b1b52e311c6546af08f178642eb",
+      "treeSha": "ff3783135046d0d16ccf2893891cf5520dc082db",
       "downloads": 285047
     },
     {

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `861058a0bf`
+
+**Updated (1):** [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack)
+
 ## 2026-08-12 — upstream `c5463bbaf4`
 
 **Updated (2):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project)
