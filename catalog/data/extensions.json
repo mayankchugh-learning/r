@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "861058a0bf949d58b94dca7837492f4797273cd1",
-  "generatedAt": "2026-08-12T04:39:27.816Z",
-  "downloadsRefreshedAt": "2026-08-12T04:39:27.223Z",
+  "commit": "e6af241697b4f14b1e7cef1f21b6623312680efa",
+  "generatedAt": "2026-08-12T05:35:32.826Z",
+  "downloadsRefreshedAt": "2026-08-12T05:35:32.066Z",
   "count": 3163,
   "extensions": [
     {
@@ -9576,7 +9576,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 503616
+      "downloads": 503632
     },
     {
       "dir": "color-shades",
@@ -21573,7 +21573,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492563
+      "downloads": 492576
     },
     {
       "dir": "google-chrome-profiles",
@@ -27850,7 +27850,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 661435
+      "downloads": 661454
     },
     {
       "dir": "kimai",
@@ -44295,7 +44295,7 @@
       "description": "Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast.",
       "author": "yohann84l",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Productivity",
         "Media"
@@ -44307,7 +44307,7 @@
       ],
       "store": "https://www.raycast.com/yohann84l/qrcp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qrcp",
-      "treeSha": "a0767a73eddd64e7fa0fd19e3be492e7f8faf3c4",
+      "treeSha": "95149ddbf115f8918285ee34f920bd9ac9d970b0",
       "downloads": 428
     },
     {
@@ -52314,7 +52314,7 @@
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
       "treeSha": "ff3783135046d0d16ccf2893891cf5520dc082db",
-      "downloads": 285047
+      "downloads": 285057
     },
     {
       "dir": "slack-status",
