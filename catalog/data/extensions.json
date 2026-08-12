@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e82519a8295f62866f7d78189f4126543cbf3ab6",
-  "generatedAt": "2026-08-12T07:40:56.307Z",
-  "downloadsRefreshedAt": "2026-08-12T07:40:55.387Z",
+  "commit": "b0dabd94d89e693acc9053f558f94c04f74d77fb",
+  "generatedAt": "2026-08-12T07:42:36.611Z",
+  "downloadsRefreshedAt": "2026-08-12T07:42:35.748Z",
   "count": 3163,
   "extensions": [
     {
@@ -5881,18 +5881,19 @@
       "description": "Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc.",
       "author": "koinzhang",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Productivity",
         "Web"
       ],
       "manifestCategorized": false,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/koinzhang/browser-tabs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-tabs",
-      "treeSha": "8c13584a109b8ff19bdaabd31b12e3834cb08dec",
+      "treeSha": "ab059cb4f15e4903ed6d218c33bbcc7d84b52f51",
       "downloads": 8286
     },
     {
@@ -9576,7 +9577,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 503697
+      "downloads": 503700
     },
     {
       "dir": "color-shades",
@@ -21573,7 +21574,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492639
+      "downloads": 492640
     },
     {
       "dir": "google-chrome-profiles",

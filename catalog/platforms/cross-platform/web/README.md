@@ -1,8 +1,8 @@
 # Cross-platform · Web
 
-132 extensions · [← Cross-platform](../README.md)
+133 extensions · [← Cross-platform](../README.md)
 
-[AI Services](#ai-services) (13) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (46) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (19) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
+[AI Services](#ai-services) (13) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (47) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (19) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
 
 ## Browse & Search
 
@@ -20,6 +20,7 @@
 | [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 26,590 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
 | [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 18,191 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
 | [Amazon Search](https://github.com/raycast/extensions/tree/main/extensions/amazon-search) | 9,972 | Amazon search with autosuggestions | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/amazon-search) |
+| [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) | 8,286 | Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/browser-tabs) |
 | [Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/thesaurus) | 7,973 | Search Merrian-Webster's Thesaurus | ABukSwienty | macOS, Windows | [store](https://www.raycast.com/ABukSwienty/thesaurus) |
 | [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,136 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
 | [Urban Dictionary Search](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) | 4,989 | Search on Urban Dictionary | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/urban-dictionary) |
