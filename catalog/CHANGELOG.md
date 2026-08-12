@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `464bf5ccff`
+
+**Updated (1):** [TorBox](https://github.com/raycast/extensions/tree/main/extensions/torbox)
+
 ## 2026-08-12 — upstream `2cb36095f8`
 
 **Added (1):** [QuickForce - Salesforce Toolkit](https://github.com/raycast/extensions/tree/main/extensions/quickforce-salesforce-toolkit)
