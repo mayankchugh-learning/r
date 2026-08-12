@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `bbb8782b19`
+
+**Updated (1):** [Convex](https://github.com/raycast/extensions/tree/main/extensions/convex)
+
 ## 2026-08-12 — upstream `0047132dba`
 
 **Updated (1):** [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab)
