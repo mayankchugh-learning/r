@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-12 — upstream `afbd9b7fee`
+
+**Updated (1):** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep)
+
 ## 2026-08-12 — upstream `43398a9a41`
 
 **Updated (2):** [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions), [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai)

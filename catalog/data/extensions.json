@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "43398a9a41238e4d50705b82494c8a4743b3b43b",
-  "generatedAt": "2026-08-12T17:00:39.089Z",
-  "downloadsRefreshedAt": "2026-08-12T17:00:38.112Z",
+  "commit": "afbd9b7feef366c8bd1f56c7b1b874d828bf3887",
+  "generatedAt": "2026-08-12T17:02:34.847Z",
+  "downloadsRefreshedAt": "2026-08-12T17:02:33.673Z",
   "count": 3166,
   "extensions": [
     {
@@ -9598,7 +9598,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 504006
+      "downloads": 504007
     },
     {
       "dir": "color-shades",
@@ -21595,7 +21595,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 492965
+      "downloads": 492966
     },
     {
       "dir": "google-chrome-profiles",
@@ -27451,7 +27451,7 @@
       ],
       "store": "https://www.raycast.com/luolei/karakeep",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/karakeep",
-      "treeSha": "98c06b564f5388c4275b71faf4584fb1534c5243",
+      "treeSha": "4ba91a4f9d14f8776f0c7fa9612a690b4d88bb05",
       "downloads": 2113
     },
     {
