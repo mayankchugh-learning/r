@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Background Sounds](https://github.com/raycast/extensions/tree/main/extensions/background-sounds) | 2,340 | Toggle macOS background sounds on and off. | sebdanielsson | macOS | [store](https://www.raycast.com/sebdanielsson/background-sounds) |
+| [Background Sounds](https://github.com/raycast/extensions/tree/main/extensions/background-sounds) | 2,341 | Toggle macOS background sounds on and off. | sebdanielsson | macOS | [store](https://www.raycast.com/sebdanielsson/background-sounds) |
 | [Colorify - Generate Themes From Images](https://github.com/raycast/extensions/tree/main/extensions/colorify) | 2,288 | Takes an image (such as your wallpaper) and generates a Raycast Theme out of it! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/colorify) |
 | [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard) | 1,257 | Use Raycast as a soundboard and bind sounds to hotkeys | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/soundboard) |
 | [Metronome](https://github.com/raycast/extensions/tree/main/extensions/metronome) | 1,035 | Based on an input (integer argument) BPM, you can get a metronome that plays a sound after a certain amount of time. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/metronome) |
