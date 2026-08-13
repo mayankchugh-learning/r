@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 662,449 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 662,457 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,782 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,290 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 771 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
@@ -81,7 +81,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 72,965 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 51,804 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 51,822 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 46,067 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,706 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,602 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |

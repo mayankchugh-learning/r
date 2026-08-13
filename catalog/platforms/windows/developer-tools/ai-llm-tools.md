@@ -2,7 +2,7 @@
 
 **AI & LLM Tools** · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-28 of 293 extensions · [← Windows · Developer Tools](./README.md)
+29 of 294 extensions · [← Windows · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -34,3 +34,4 @@
 | [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 9 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
 | [JSON to GCF Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-gcf-converter) | 6 | Convert JSON data into GCF (Graph Compact Format) instantly. 53-71% fewer tokens than JSON, 90.7% LLM comprehension accuracy. | blackwell-systems | macOS, Windows | [store](https://www.raycast.com/blackwell-systems/json-to-gcf-converter) |
 | [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop) | 4 | Send files, folders, and clipboard images over SSH with a single hotkey, and pull them back — no path typing, the remote path lands on your clipboard. Handy fo… | wjsong | macOS, Windows | [store](https://www.raycast.com/wjsong/ssh-image-drop) |
+| [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 0 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |

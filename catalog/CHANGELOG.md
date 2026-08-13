@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `d7941e5267`
+
+**Added (1):** [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l)
+
 ## 2026-08-13 — upstream `a6faca32d6`
 
 **Updated (1):** [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager)

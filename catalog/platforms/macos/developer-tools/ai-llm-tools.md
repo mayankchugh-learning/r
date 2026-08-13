@@ -2,7 +2,7 @@
 
 **AI & LLM Tools** · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-116 of 1079 extensions · [← macOS · Developer Tools](./README.md)
+117 of 1080 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -120,5 +120,6 @@
 | [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop) | 4 | Send files, folders, and clipboard images over SSH with a single hotkey, and pull them back — no path typing, the remote path lands on your clipboard. Handy fo… | wjsong | macOS, Windows | [store](https://www.raycast.com/wjsong/ssh-image-drop) |
 | [Pixtuoid](https://github.com/raycast/extensions/tree/main/extensions/pixtuoid) | 2 | Manage which AI coding-agent CLIs feed your Pixtuoid office, and launch the floating window — without leaving Raycast. | IvanWng97 | macOS | [store](https://www.raycast.com/IvanWng97/pixtuoid) |
 | [Ten Four](https://github.com/raycast/extensions/tree/main/extensions/ten-four) | 1 | A shelf of clean, copyable snippets pushed from your terminal or Claude Code. "10-4, copy that": copy them out of Raycast with pristine formatting, no mangled… | jaymcc | macOS | [store](https://www.raycast.com/jaymcc/ten-four) |
+| [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 0 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |
 | [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) | — | Take an idea from anywhere and turn it into code with Copilot Workspace | github-next (org) | macOS | — |

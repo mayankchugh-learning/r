@@ -1,8 +1,8 @@
 # AI ✦
 
-71 extensions · [← AI & LLM Tools](./README.md)
+72 extensions · [← AI & LLM Tools](./README.md)
 
-[Model ✦](#model) (12) · [Agent ✦](#agent) (10) · [Code ✦](#code) (8) · [AI Powered ✦](#ai-powered) (7) · [Chat ✦](#chat) (4) · [Prompts ✦](#prompts) (4) · [General](#general) (26)
+[Model ✦](#model) (12) · [Agent ✦](#agent) (10) · [Code ✦](#code) (8) · [AI Powered ✦](#ai-powered) (7) · [Chat ✦](#chat) (4) · [Prompts ✦](#prompts) (4) · [General](#general) (27)
 
 *✦ auto-discovered topic group*
 
@@ -111,3 +111,4 @@
 | [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 26 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
 | [ZenMux Manager](https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager) | 13 | Monitor ZenMux usage, manage account links, and ask Raycast AI about ZenMux. | abnershang | macOS, Windows | [store](https://www.raycast.com/abnershang/zenmux-manager) |
 | [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 9 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
+| [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 0 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |

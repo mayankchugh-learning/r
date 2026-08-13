@@ -1,6 +1,6 @@
 # Publishers
 
-2115 publishers · [← catalog index](../README.md)
+2116 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,8 +15,8 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 149,629 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,504 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,748 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,097,608 |
-| 9 | [vimtor](./id/vimtor.md) | 15 | 298,146 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,097,615 |
+| 9 | [vimtor](./id/vimtor.md) | 15 | 298,151 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 14,990 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 404,938 |
 | 12 | [peduarte](./id/peduarte.md) | 14 | 25,805 |
@@ -70,7 +70,7 @@
 | 60 | [BossElijah](https://www.raycast.com/BossElijah) | 5 | 1,112 |
 | 61 | [Osprey](https://www.raycast.com/Osprey) | 5 | 509 |
 | 62 | [FariaF22](https://www.raycast.com/FariaF22) | 5 | 333 |
-| 63 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 58,167 |
+| 63 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 58,185 |
 | 64 | [yug2005](https://www.raycast.com/yug2005) | 4 | 46,471 |
 | 65 | [kawamataryo](https://www.raycast.com/kawamataryo) | 4 | 41,748 |
 | 66 | [degouville](https://www.raycast.com/degouville) | 4 | 41,517 |
@@ -386,8 +386,8 @@
 | 376 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 377 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 378 | github-next | 2 | — |
-| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,449 |
-| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 493,475 |
+| 379 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,457 |
+| 380 | [Codely](https://www.raycast.com/Codely) | 1 | 493,483 |
 | 381 | [linear](https://www.raycast.com/linear) | 1 | 341,930 |
 | 382 | [mommertf](https://www.raycast.com/mommertf) | 1 | 285,421 |
 | 383 | [nhojb](https://www.raycast.com/nhojb) | 1 | 254,946 |
@@ -2120,6 +2120,7 @@
 | 2110 | [kumail_changezi](https://www.raycast.com/kumail_changezi) | 1 | 0 |
 | 2111 | [Popo](https://www.raycast.com/Popo) | 1 | 0 |
 | 2112 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2113 | buffer | 1 | — |
-| 2114 | multi | 1 | — |
-| 2115 | sharat_visweswara | 1 | — |
+| 2113 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2114 | buffer | 1 | — |
+| 2115 | multi | 1 | — |
+| 2116 | sharat_visweswara | 1 | — |

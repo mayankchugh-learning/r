@@ -65,7 +65,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 41,818 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 41,823 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
 | [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,995 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,810 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Adhan Time](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) | 1,056 | This extension helps you to search prayer time for the user location | mzaien | macOS, Windows | [store](https://www.raycast.com/mzaien/adhan-time) |

@@ -2,11 +2,12 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · **U** · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-18 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+19 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [u-ran](https://www.raycast.com/u-ran) | 1 | 903 | **Applications:** [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) |
+| [u2l](https://www.raycast.com/u2l) | 1 | 0 | **Productivity:** [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) |
 | [ubergraham](https://www.raycast.com/ubergraham) | 1 | 85 | **Other:** [ICD10 Lookup](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) |
 | [ubinatus](https://www.raycast.com/ubinatus) | 1 | 1,005 | **Developer Tools:** [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) |
 | [ubuntudroid](https://www.raycast.com/ubuntudroid) | 1 | 392 | **Developer Tools:** [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) |

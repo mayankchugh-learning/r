@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-29 of 344 extensions · [← Windows · Productivity](./README.md)
+30 of 345 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -35,3 +35,4 @@
 | [Bhagavad Gita Quotes](https://github.com/raycast/extensions/tree/main/extensions/bhagavad-gita-quotes) | 8 | Read and search Bhagavad Gita quotes (AI features require Raycast AI). | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/bhagavad-gita-quotes) |
 | [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup) | 7 | Look up book contents from Deutsche Nationalbibliothek by ISBN with optional AI-generated Klappentext | wdeu | macOS, Windows | [store](https://www.raycast.com/wdeu/dnb-book-lookup) |
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 2 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
+| [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 0 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |

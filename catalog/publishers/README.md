@@ -1,6 +1,6 @@
 # Publishers
 
-2115 publishers · [← catalog index](../README.md)
+2116 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,15 +8,15 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,097,608 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,097,615 |
 | 2 | [raycast](./id/raycast.md) | 11 | 783,249 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,449 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,475 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,457 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,483 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 437,237 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,796 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,938 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 341,930 |
-| 9 | [vimtor](./id/vimtor.md) | 15 | 298,146 |
+| 9 | [vimtor](./id/vimtor.md) | 15 | 298,151 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 285,421 |
 | 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 254,946 |
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 253,039 |
@@ -52,7 +52,7 @@
 | 42 | [third774](https://www.raycast.com/third774) | 3 | 61,103 |
 | 43 | [Kang](https://www.raycast.com/Kang) | 3 | 58,742 |
 | 44 | [simicvm](https://www.raycast.com/simicvm) | 1 | 58,246 |
-| 45 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 58,167 |
+| 45 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 58,185 |
 | 46 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 57,897 |
 | 47 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 55,945 |
 | 48 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 50,901 |
@@ -2119,7 +2119,8 @@
 | 2109 | [kumail_changezi](https://www.raycast.com/kumail_changezi) | 1 | 0 |
 | 2110 | [Popo](https://www.raycast.com/Popo) | 1 | 0 |
 | 2111 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2112 | github-next | 2 | — |
-| 2113 | buffer | 1 | — |
-| 2114 | multi | 1 | — |
-| 2115 | sharat_visweswara | 1 | — |
+| 2112 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2113 | github-next | 2 | — |
+| 2114 | buffer | 1 | — |
+| 2115 | multi | 1 | — |
+| 2116 | sharat_visweswara | 1 | — |

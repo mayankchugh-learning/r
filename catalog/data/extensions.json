@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a6faca32d6e243f35c3b3eeb881139aaad105d90",
-  "generatedAt": "2026-08-13T11:52:26.897Z",
-  "downloadsRefreshedAt": "2026-08-13T11:52:25.037Z",
-  "count": 3171,
+  "commit": "d7941e52671ba66b79948fb7a19b5823817d449f",
+  "generatedAt": "2026-08-13T12:06:58.966Z",
+  "downloadsRefreshedAt": "2026-08-13T12:06:58.066Z",
+  "count": 3172,
   "extensions": [
     {
       "dir": "0x0",
@@ -9640,7 +9640,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 504462
+      "downloads": 504469
     },
     {
       "dir": "color-shades",
@@ -21657,7 +21657,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 493475
+      "downloads": 493483
     },
     {
       "dir": "google-chrome-profiles",
@@ -27935,7 +27935,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 662449
+      "downloads": 662457
     },
     {
       "dir": "kimai",
@@ -42756,7 +42756,7 @@
       "store": "https://www.raycast.com/lucaschultz/port-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/port-manager",
       "treeSha": "2caa28eae5c6582ef7a2384726c2d42af0f00389",
-      "downloads": 51804
+      "downloads": 51822
     },
     {
       "dir": "portal-wholesale",
@@ -60184,6 +60184,28 @@
       "downloads": 29
     },
     {
+      "dir": "u2l",
+      "name": "u2l",
+      "title": "U2L Link Shortener",
+      "description": "Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats.",
+      "author": "u2l",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/u2l/u2l",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/u2l",
+      "treeSha": "f4ae60b9f91c023f7bd8051007aa4d6930ff9c26",
+      "downloads": 0
+    },
+    {
       "dir": "u301-url-shortener",
       "name": "u301-url-shortener",
       "title": "U301 URL Shortener",
@@ -63814,7 +63836,7 @@
       "store": "https://www.raycast.com/vimtor/wikipedia",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wikipedia",
       "treeSha": "d87511cc7b5ebc5f2f0dabba9042646ee375af78",
-      "downloads": 41818
+      "downloads": 41823
     },
     {
       "dir": "windmill",
