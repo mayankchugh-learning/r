@@ -2,7 +2,7 @@
 
 1437 extensions · [← all categories](../README.md)
 
-macOS: 1422 · Windows: 343
+macOS: 1422 · Windows: 344
 
 ## Organize & Plan
 

@@ -2,7 +2,7 @@
 
 1090 extensions · [← all categories](../README.md)
 
-macOS: 1079 · Windows: 292
+macOS: 1079 · Windows: 293
 
 ## Code & Collaboration
 

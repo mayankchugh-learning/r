@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `a6faca32d6`
+
+**Updated (1):** [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager)
+
 ## 2026-08-13 — upstream `cac5816345`
 
 **Updated (1):** [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia)
