@@ -1,8 +1,8 @@
 # Cross-platform · Fun
 
-87 extensions · [← Cross-platform](../README.md)
+88 extensions · [← Cross-platform](../README.md)
 
-[Games & Gaming](#games-gaming) (22) · [AI & Generative Fun](#ai-generative-fun) (3) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (2) · [Jokes & Randomness](#jokes-randomness) (7) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (1) · [Food & Drink](#food-drink) (2) · [General](#general) (32)
+[Games & Gaming](#games-gaming) (22) · [AI & Generative Fun](#ai-generative-fun) (3) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (2) · [Jokes & Randomness](#jokes-randomness) (7) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (2) · [Food & Drink](#food-drink) (2) · [General](#general) (32)
 
 ## Play
 
@@ -110,6 +110,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard) | 1,259 | Use Raycast as a soundboard and bind sounds to hotkeys | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/soundboard) |
 | [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper) | 14 | Browse and set Arcane wallpapers. | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/arcane-wallpaper) |
 
 ### Nature & Exploration

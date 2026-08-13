@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,098,095 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,098,164 |
 | 2 | [raycast](./id/raycast.md) | 11 | 783,558 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,690 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,646 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,768 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,717 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 437,432 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,998 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 405,072 |
@@ -262,7 +262,7 @@
 | 252 | [pablopunk](https://www.raycast.com/pablopunk) | 1 | 4,724 |
 | 253 | [sjdonado](https://www.raycast.com/sjdonado) | 1 | 4,706 |
 | 254 | [screen-studio](https://www.raycast.com/screen-studio) | 1 | 4,658 |
-| 255 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 4,652 |
+| 255 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 4,653 |
 | 256 | [cal](https://www.raycast.com/cal) | 1 | 4,622 |
 | 257 | [teemu_suvinen](https://www.raycast.com/teemu_suvinen) | 1 | 4,582 |
 | 258 | [emanguy](https://www.raycast.com/emanguy) | 1 | 4,578 |

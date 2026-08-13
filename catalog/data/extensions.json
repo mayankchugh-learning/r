@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "49c0c75e3532047cf7f06c6e67b98a9f994bc53a",
-  "generatedAt": "2026-08-13T17:53:27.533Z",
-  "downloadsRefreshedAt": "2026-08-13T17:53:26.677Z",
+  "commit": "8104714e025068291a4e123e49bf10ff6cc9d04e",
+  "generatedAt": "2026-08-13T20:36:52.265Z",
+  "downloadsRefreshedAt": "2026-08-13T20:36:51.887Z",
   "count": 3175,
   "extensions": [
     {
@@ -9640,7 +9640,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 504646
+      "downloads": 504715
     },
     {
       "dir": "color-shades",
@@ -20465,7 +20465,7 @@
       "store": "https://www.raycast.com/ernest0n/git",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/git",
       "treeSha": "cd4516aae8180729825e6054679b190e00a181c6",
-      "downloads": 1082
+      "downloads": 1083
     },
     {
       "dir": "git-assistant",
@@ -21678,7 +21678,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 493646
+      "downloads": 493717
     },
     {
       "dir": "google-chrome-profiles",
@@ -27956,7 +27956,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 662690
+      "downloads": 662768
     },
     {
       "dir": "kimai",
@@ -53330,17 +53330,18 @@
       "description": "Use Raycast as a soundboard and bind sounds to hotkeys",
       "author": "pernielsentikaer",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Fun"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/pernielsentikaer/soundboard",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/soundboard",
-      "treeSha": "c3b2bf698b8b23511045714339d5e7ec0e352a94",
+      "treeSha": "81e6821f3016b5ceed29e81f62bce8493992bf27",
       "downloads": 1259
     },
     {

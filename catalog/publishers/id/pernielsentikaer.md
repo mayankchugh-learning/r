@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 42,054 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
 | [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 4,617 | Get a random dad joke | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
-| [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard) | 1,259 | Use Raycast as a soundboard and bind sounds to hotkeys | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/soundboard) |
+| [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard) | 1,259 | Use Raycast as a soundboard and bind sounds to hotkeys | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/soundboard) |
 | [FIGlet](https://github.com/raycast/extensions/tree/main/extensions/figlet) | 193 | Generate a FIGlet | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/figlet) |
 | [Advice Slip](https://github.com/raycast/extensions/tree/main/extensions/advice-slip) | 164 | Get a random advice slip | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/advice-slip) |
 | [HIIT](https://github.com/raycast/extensions/tree/main/extensions/hiit) | 103 | High Intensity Interval Training directly from Raycast | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/hiit) |

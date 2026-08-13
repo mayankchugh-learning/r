@@ -1,6 +1,6 @@
 # Cross-platform extensions
 
-815 extensions · [← all platforms](../README.md)
+816 extensions · [← all platforms](../README.md)
 
 ### Work & Productivity
 
@@ -46,7 +46,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Fun](./fun/README.md) | 87 |
+| [Fun](./fun/README.md) | 88 |
 
 ### Uncategorized
 

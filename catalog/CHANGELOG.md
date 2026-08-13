@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `8104714e02`
+
+**Updated (1):** [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard)
+
 ## 2026-08-13 — upstream `49c0c75e35`
 
 **Updated (1):** [Git](https://github.com/raycast/extensions/tree/main/extensions/git)
