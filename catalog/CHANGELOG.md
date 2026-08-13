@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `22d64eb97c`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-08-13 — upstream `1a507ab117`
 
 **Added (3):** [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window), [Cook](https://github.com/raycast/extensions/tree/main/extensions/cook), [Text Scramble](https://github.com/raycast/extensions/tree/main/extensions/text-scramble)
