@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `5543fe4a37`
+
+**Added (1):** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage)
+
 ## 2026-08-13 — upstream `d7941e5267`
 
 **Added (1):** [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l)

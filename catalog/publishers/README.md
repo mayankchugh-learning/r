@@ -1,6 +1,6 @@
 # Publishers
 
-2116 publishers · [← catalog index](../README.md)
+2117 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,9 +8,9 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,097,615 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,097,616 |
 | 2 | [raycast](./id/raycast.md) | 11 | 783,249 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,457 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,458 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,483 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 437,237 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,796 |
@@ -2122,5 +2122,6 @@
 | 2112 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
 | 2113 | github-next | 2 | — |
 | 2114 | buffer | 1 | — |
-| 2115 | multi | 1 | — |
-| 2116 | sharat_visweswara | 1 | — |
+| 2115 | jonas_list | 1 | — |
+| 2116 | multi | 1 | — |
+| 2117 | sharat_visweswara | 1 | — |

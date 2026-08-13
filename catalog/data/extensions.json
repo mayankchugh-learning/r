@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d7941e52671ba66b79948fb7a19b5823817d449f",
-  "generatedAt": "2026-08-13T12:06:58.966Z",
-  "downloadsRefreshedAt": "2026-08-13T12:06:58.066Z",
-  "count": 3172,
+  "commit": "5543fe4a3781b35ba53c39b74339dbf293cb119a",
+  "generatedAt": "2026-08-13T12:07:33.442Z",
+  "downloadsRefreshedAt": "2026-08-13T12:07:32.551Z",
+  "count": 3173,
   "extensions": [
     {
       "dir": "0x0",
@@ -9640,7 +9640,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 504469
+      "downloads": 504470
     },
     {
       "dir": "color-shades",
@@ -27935,7 +27935,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 662457
+      "downloads": 662458
     },
     {
       "dir": "kimai",
@@ -38912,6 +38912,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/opencode-sessions",
       "treeSha": "330c92a838eabc1fe93f12b41d3617c5554cf6fa",
       "downloads": 861
+    },
+    {
+      "dir": "opencodex-usage",
+      "name": "opencodex-usage",
+      "title": "OpenCodex Usage",
+      "description": "Shows the usage of all the connected OpenCodex model providers",
+      "author": "jonas_list",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage",
+      "treeSha": "f1cd982fe69c1ef5f78103cd5e629936cd368cfa",
+      "downloads": null
     },
     {
       "dir": "openfortivpn",
