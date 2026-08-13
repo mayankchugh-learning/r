@@ -1,8 +1,8 @@
 # Cross-platform · Finance
 
-44 extensions · [← Cross-platform](../README.md)
+45 extensions · [← Cross-platform](../README.md)
 
-[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (5) · [Currency & Exchange](#currency-exchange) (4) · [Business, Billing & Sales](#business-billing-sales) (10) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (2) · [Personal Finance & Budgeting](#personal-finance-budgeting) (7) · [General](#general) (6)
+[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (5) · [Currency & Exchange](#currency-exchange) (4) · [Business, Billing & Sales](#business-billing-sales) (10) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (2) · [Personal Finance & Budgeting](#personal-finance-budgeting) (8) · [General](#general) (6)
 
 ## Markets & Investing
 
@@ -50,6 +50,7 @@
 | [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) | 7 | Add transactions to your Ducat account | rahulchowdhury | macOS, Windows | [store](https://www.raycast.com/rahulchowdhury/ducat) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) | 2 | Search BC Assessment properties by address. | martins | macOS, Windows | [store](https://www.raycast.com/martins/bcassessment) |
+| [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy) | 0 | See your net worth, day and month change, and allocation from your wlthy wealth account — read-only, without leaving your keyboard. | alirbaba | macOS, Windows | [store](https://www.raycast.com/alirbaba/wlthy) |
 
 ### Banking & Payments
 

@@ -1,8 +1,8 @@
 # Finance
 
-148 extensions · [← all categories](../README.md)
+149 extensions · [← all categories](../README.md)
 
-macOS: 148 · Windows: 44
+macOS: 149 · Windows: 45
 
 ## Markets & Investing
 
@@ -16,7 +16,7 @@ macOS: 148 · Windows: 44
 
 | Topic | Extensions |
 | --- | --- |
-| [Personal Finance & Budgeting](./personal-finance-budgeting.md) | 19 |
+| [Personal Finance & Budgeting](./personal-finance-budgeting.md) | 20 |
 | [Banking & Payments](./banking-payments.md) | 8 |
 
 ## Business & Reference

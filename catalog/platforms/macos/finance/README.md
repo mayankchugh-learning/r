@@ -1,8 +1,8 @@
 # macOS · Finance
 
-148 extensions · [← macOS](../README.md)
+149 extensions · [← macOS](../README.md)
 
-[Crypto & Web3](#crypto-web3) (30) · [Stocks & Trading](#stocks-trading) (16) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (6) · [Personal Finance & Budgeting](#personal-finance-budgeting) (19) · [General](#general) (31)
+[Crypto & Web3](#crypto-web3) (30) · [Stocks & Trading](#stocks-trading) (16) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (6) · [Personal Finance & Budgeting](#personal-finance-budgeting) (20) · [General](#general) (31)
 
 ## Markets & Investing
 
@@ -102,6 +102,7 @@
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [Cobalt Finance](https://github.com/raycast/extensions/tree/main/extensions/cobalt-finance) | 3 | Access your Cobalt finances from Raycast. | sriket_komali | macOS | [store](https://www.raycast.com/sriket_komali/cobalt-finance) |
 | [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) | 2 | Search BC Assessment properties by address. | martins | macOS, Windows | [store](https://www.raycast.com/martins/bcassessment) |
+| [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy) | 0 | See your net worth, day and month change, and allocation from your wlthy wealth account — read-only, without leaving your keyboard. | alirbaba | macOS, Windows | [store](https://www.raycast.com/alirbaba/wlthy) |
 
 ### Banking & Payments
 

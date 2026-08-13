@@ -1,6 +1,6 @@
 # Publishers
 
-2117 publishers · [← catalog index](../README.md)
+2118 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,097,635 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,097,666 |
 | 2 | [raycast](./id/raycast.md) | 11 | 783,249 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,495 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,501 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,529 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,525 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 437,237 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,796 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,938 |
@@ -2113,15 +2113,16 @@
 | 2103 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2104 | [abstyle](https://www.raycast.com/abstyle) | 1 | 0 |
 | 2105 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
-| 2106 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
-| 2107 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2108 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2109 | [jonas_list](https://www.raycast.com/jonas_list) | 1 | 0 |
-| 2110 | [kumail_changezi](https://www.raycast.com/kumail_changezi) | 1 | 0 |
-| 2111 | [Popo](https://www.raycast.com/Popo) | 1 | 0 |
-| 2112 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2113 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2114 | github-next | 2 | — |
-| 2115 | buffer | 1 | — |
-| 2116 | multi | 1 | — |
-| 2117 | sharat_visweswara | 1 | — |
+| 2106 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
+| 2107 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
+| 2108 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2109 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2110 | [jonas_list](https://www.raycast.com/jonas_list) | 1 | 0 |
+| 2111 | [kumail_changezi](https://www.raycast.com/kumail_changezi) | 1 | 0 |
+| 2112 | [Popo](https://www.raycast.com/Popo) | 1 | 0 |
+| 2113 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2114 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2115 | github-next | 2 | — |
+| 2116 | buffer | 1 | — |
+| 2117 | multi | 1 | — |
+| 2118 | sharat_visweswara | 1 | — |

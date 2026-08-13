@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `15aead0c59`
+
+**Added (1):** [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy)
+
 ## 2026-08-13 — upstream `e35f16e272`
 
 **Added (1):** [fxCodex](https://github.com/raycast/extensions/tree/main/extensions/fxcodex)

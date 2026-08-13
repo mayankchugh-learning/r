@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-189 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+190 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -95,6 +95,7 @@
 | [alikhatibak](https://www.raycast.com/alikhatibak) | 1 | 1,950 | **Developer Tools:** [Tmux Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet) |
 | [alikhil](https://www.raycast.com/alikhil) | 1 | 27 | **Productivity:** [SingularityApp](https://github.com/raycast/extensions/tree/main/extensions/singularityapp) |
 | [alin](https://www.raycast.com/alin) | 1 | 223 | **Applications:** [Cling File Search](https://github.com/raycast/extensions/tree/main/extensions/cling) |
+| [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 | **Finance:** [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy) |
 | [AllanM](https://www.raycast.com/AllanM) | 1 | 729 | **Design Tools:** [Specify](https://github.com/raycast/extensions/tree/main/extensions/specify) |
 | [allejo](https://www.raycast.com/allejo) | 1 | 240 | **Productivity:** [F.lux Control](https://github.com/raycast/extensions/tree/main/extensions/flux) |
 | [allenan](https://www.raycast.com/allenan) | 1 | 11,921 | **Developer Tools:** [Regex Tester](https://github.com/raycast/extensions/tree/main/extensions/regex-tester) |

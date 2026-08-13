@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · **W** · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-107 extensions · [← catalog index](../README.md)
+108 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -113,3 +113,4 @@
 | [WooCommerce Quicker](https://github.com/raycast/extensions/tree/main/extensions/woocommerce-quicker) | 3 | Browse and search WooCommerce orders, customers, and products across multiple stores from Raycast | g-mai | macOS, Windows | [store](https://www.raycast.com/g-mai/woocommerce-quicker) |
 | [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 0 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 0 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
+| [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy) | 0 | See your net worth, day and month change, and allocation from your wlthy wealth account — read-only, without leaving your keyboard. | alirbaba | macOS, Windows | [store](https://www.raycast.com/alirbaba/wlthy) |

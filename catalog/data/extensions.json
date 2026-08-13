@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e35f16e2726042963f69e0f25acca1e6a3fda6b3",
-  "generatedAt": "2026-08-13T13:06:50.712Z",
-  "downloadsRefreshedAt": "2026-08-13T13:06:49.871Z",
-  "count": 3174,
+  "commit": "15aead0c59aa7fdff022e2f8c8a614acf5efe3cd",
+  "generatedAt": "2026-08-13T13:54:38.056Z",
+  "downloadsRefreshedAt": "2026-08-13T13:54:37.775Z",
+  "count": 3175,
   "extensions": [
     {
       "dir": "0x0",
@@ -9640,7 +9640,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 504489
+      "downloads": 504520
     },
     {
       "dir": "color-shades",
@@ -21678,7 +21678,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 493501
+      "downloads": 493525
     },
     {
       "dir": "google-chrome-profiles",
@@ -27956,7 +27956,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 662495
+      "downloads": 662529
     },
     {
       "dir": "kimai",
@@ -64402,6 +64402,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wled-controller",
       "treeSha": "04902a7a37baeda7e33273ba2e34bec69cf4836f",
       "downloads": 98
+    },
+    {
+      "dir": "wlthy",
+      "name": "wlthy",
+      "title": "Wlthy",
+      "description": "See your net worth, day and month change, and allocation from your wlthy wealth account — read-only, without leaving your keyboard.",
+      "author": "alirbaba",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Finance"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/alirbaba/wlthy",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/wlthy",
+      "treeSha": "9193d2c4e917831ee698ff745bfa7451d143c974",
+      "downloads": 0
     },
     {
       "dir": "wojak-picker",
