@@ -1,6 +1,6 @@
 # General
 
-13 extensions · [← AI & LLM Tools](./README.md)
+14 extensions · [← AI & LLM Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -17,3 +17,4 @@
 | [Markprompt](https://github.com/raycast/extensions/tree/main/extensions/markprompt) | 95 | Prompt your Markprompt project from Raycast | markprompt (org) | macOS | [store](https://www.raycast.com/markprompt/markprompt) |
 | [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 52 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
 | [JSON to GCF Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-gcf-converter) | 6 | Convert JSON data into GCF (Graph Compact Format) instantly. 53-71% fewer tokens than JSON, 90.7% LLM comprehension accuracy. | blackwell-systems | macOS, Windows | [store](https://www.raycast.com/blackwell-systems/json-to-gcf-converter) |
+| [fxCodex](https://github.com/raycast/extensions/tree/main/extensions/fxcodex) | 0 | Manage custom Codex workspaces from Raycast | maximkrouk | macOS | [store](https://www.raycast.com/maximkrouk/fxcodex) |

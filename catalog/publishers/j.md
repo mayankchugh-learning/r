@@ -74,7 +74,7 @@
 | [johnwick](https://www.raycast.com/johnwick) | 1 | 78 | **System:** [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) |
 | [jokull](https://www.raycast.com/jokull) | 1 | 35 | **Productivity:** [Ensk.is](https://github.com/raycast/extensions/tree/main/extensions/ensk-is) |
 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 57,897 | **Security:** [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) |
-| jonas_list | 1 | — | **Developer Tools:** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) |
+| [jonas_list](https://www.raycast.com/jonas_list) | 1 | 0 | **Developer Tools:** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) |
 | [jonathan_ochocki](https://www.raycast.com/jonathan_ochocki) | 1 | 14 | **Productivity:** [CTA - Chicago Transit Authority](https://github.com/raycast/extensions/tree/main/extensions/cta) |
 | [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 25,461 | **Productivity:** [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl)<br>**Developer Tools:** [Next Run](https://github.com/raycast/extensions/tree/main/extensions/next-run) |
 | [JonathanRReed](https://www.raycast.com/JonathanRReed) | 2 | 442 | **Fun:** [Ray Clicker](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker)<br>**Developer Tools:** [AI Stats](https://github.com/raycast/extensions/tree/main/extensions/ai-stats) |

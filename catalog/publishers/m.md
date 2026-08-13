@@ -77,7 +77,7 @@
 | [maxim_novak](https://www.raycast.com/maxim_novak) | 1 | 7 | **Security:** [Vaulted — Secure Secret Sharing](https://github.com/raycast/extensions/tree/main/extensions/vaulted) |
 | [Maxime_GUILIANI](https://www.raycast.com/Maxime_GUILIANI) | 1 | 28 | **Other:** [Brawl Stars Search](https://github.com/raycast/extensions/tree/main/extensions/brawlstars) |
 | [maximedaraize](https://www.raycast.com/maximedaraize) | 2 | 697 | **Documentation:** [Shopify Liquid Documentation](https://github.com/raycast/extensions/tree/main/extensions/search-shopify-liquid-documentation)<br>**Developer Tools:** [Project Companion](https://github.com/raycast/extensions/tree/main/extensions/project-companion) |
-| [maximkrouk](https://www.raycast.com/maximkrouk) | 1 | 821 | **Developer Tools:** [Swift Package Index](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) |
+| [maximkrouk](https://www.raycast.com/maximkrouk) | 2 | 821 | **Developer Tools:** [Swift Package Index](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index), [fxCodex](https://github.com/raycast/extensions/tree/main/extensions/fxcodex) |
 | [maxnyby](https://www.raycast.com/maxnyby) | 1 | 2,754 | **Developer Tools:** [Raycast Notification](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) |
 | [maxpaolucci](https://www.raycast.com/MaxPaolucci) | 1 | 12 | **Fun:** [Xbox Friends](https://github.com/raycast/extensions/tree/main/extensions/xbox-friends) |
 | [maxplee8](https://www.raycast.com/maxplee8) | 1 | 25 | **Uncategorized:** [Maxly.chat](https://github.com/raycast/extensions/tree/main/extensions/maxly-chat) |

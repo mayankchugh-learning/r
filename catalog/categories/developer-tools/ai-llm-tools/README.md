@@ -1,6 +1,6 @@
 # AI & LLM Tools
 
-118 extensions · [← Developer Tools](../README.md)
+119 extensions · [← Developer Tools](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
@@ -10,6 +10,6 @@
 | [Model ✦](./model.md) | 4 |
 | [Cursor ✦](./cursor.md) | 6 |
 | [Chatgpt ✦](./chatgpt.md) | 4 |
-| [General](./general.md) | 13 |
+| [General](./general.md) | 14 |
 
 *✦ auto-discovered topic group*

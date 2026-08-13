@@ -114,4 +114,4 @@
 | [OlaCV](https://github.com/raycast/extensions/tree/main/extensions/olacv) | 7 | Manage Domains and Contacts in our OlaCV account | xmok | macOS | [store](https://www.raycast.com/xmok/olacv) |
 | [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | 7 | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | [store](https://www.raycast.com/Ethan_Cao/otty) |
 | [Oh-Shoot](https://github.com/raycast/extensions/tree/main/extensions/oh-shoot) | 6 | Search your oh-shoot screenshots by their OCR text and jump straight back into the oh-shoot app. | nico_pergande | macOS | [store](https://www.raycast.com/nico_pergande/oh-shoot) |
-| [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) | — | Shows the usage of all the connected OpenCodex model providers | jonas_list | macOS | — |
+| [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) | 0 | Shows the usage of all the connected OpenCodex model providers | jonas_list | macOS | [store](https://www.raycast.com/jonas_list/opencodex-usage) |

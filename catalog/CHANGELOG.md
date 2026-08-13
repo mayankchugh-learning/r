@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `e35f16e272`
+
+**Added (1):** [fxCodex](https://github.com/raycast/extensions/tree/main/extensions/fxcodex)
+
 ## 2026-08-13 — upstream `5543fe4a37`
 
 **Added (1):** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage)

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,097,616 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,097,635 |
 | 2 | [raycast](./id/raycast.md) | 11 | 783,249 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,458 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,483 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,495 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,501 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 437,237 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,796 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 404,938 |
@@ -698,7 +698,7 @@
 | 688 | [elyse](https://www.raycast.com/elyse) | 1 | 831 |
 | 689 | [krsntn](https://www.raycast.com/krsntn) | 1 | 826 |
 | 690 | [webpro](https://www.raycast.com/webpro) | 1 | 822 |
-| 691 | [maximkrouk](https://www.raycast.com/maximkrouk) | 1 | 821 |
+| 691 | [maximkrouk](https://www.raycast.com/maximkrouk) | 2 | 821 |
 | 692 | [ourongxing](https://www.raycast.com/ourongxing) | 1 | 812 |
 | 693 | [johannes_lohmeier](https://www.raycast.com/johannes_lohmeier) | 1 | 810 |
 | 694 | [bjrmatos](https://www.raycast.com/bjrmatos) | 1 | 806 |
@@ -2116,12 +2116,12 @@
 | 2106 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
 | 2107 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2108 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2109 | [kumail_changezi](https://www.raycast.com/kumail_changezi) | 1 | 0 |
-| 2110 | [Popo](https://www.raycast.com/Popo) | 1 | 0 |
-| 2111 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2112 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2113 | github-next | 2 | — |
-| 2114 | buffer | 1 | — |
-| 2115 | jonas_list | 1 | — |
+| 2109 | [jonas_list](https://www.raycast.com/jonas_list) | 1 | 0 |
+| 2110 | [kumail_changezi](https://www.raycast.com/kumail_changezi) | 1 | 0 |
+| 2111 | [Popo](https://www.raycast.com/Popo) | 1 | 0 |
+| 2112 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2113 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2114 | github-next | 2 | — |
+| 2115 | buffer | 1 | — |
 | 2116 | multi | 1 | — |
 | 2117 | sharat_visweswara | 1 | — |
