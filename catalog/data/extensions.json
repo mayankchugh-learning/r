@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "22d64eb97c47ca6ddf9d53444e7ee4375a0b2134",
-  "generatedAt": "2026-08-13T09:00:47.896Z",
-  "downloadsRefreshedAt": "2026-08-13T09:00:47.063Z",
+  "commit": "ef8a31621a64281c3b2c49fbf481c078a43afd6e",
+  "generatedAt": "2026-08-13T11:39:30.868Z",
+  "downloadsRefreshedAt": "2026-08-13T11:39:30.467Z",
   "count": 3171,
   "extensions": [
     {
@@ -9640,7 +9640,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 504380
+      "downloads": 504455
     },
     {
       "dir": "color-shades",
@@ -20726,7 +20726,7 @@
       "description": "Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications",
       "author": "thomaslombart",
       "owner": "raycast",
-      "contributors": 38,
+      "contributors": 39,
       "categories": [
         "Developer Tools",
         "Productivity"
@@ -20738,7 +20738,7 @@
       ],
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
-      "treeSha": "0788212121f886da8682ad928ad1b58f821ea4e8",
+      "treeSha": "e5e8498c3be8a23b6aa955dd30168b49a6626b68",
       "downloads": 180695
     },
     {
@@ -21657,7 +21657,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 493387
+      "downloads": 493468
     },
     {
       "dir": "google-chrome-profiles",
@@ -27935,7 +27935,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 662352
+      "downloads": 662443
     },
     {
       "dir": "kimai",
