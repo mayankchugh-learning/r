@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ef8a31621a64281c3b2c49fbf481c078a43afd6e",
-  "generatedAt": "2026-08-13T11:39:30.868Z",
-  "downloadsRefreshedAt": "2026-08-13T11:39:30.467Z",
+  "commit": "cac581634590c9c7c3ef44518564ea066682f985",
+  "generatedAt": "2026-08-13T11:48:46.083Z",
+  "downloadsRefreshedAt": "2026-08-13T11:48:45.840Z",
   "count": 3171,
   "extensions": [
     {
@@ -9640,7 +9640,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 504455
+      "downloads": 504460
     },
     {
       "dir": "color-shades",
@@ -20739,7 +20739,7 @@
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
       "treeSha": "e5e8498c3be8a23b6aa955dd30168b49a6626b68",
-      "downloads": 180695
+      "downloads": 180753
     },
     {
       "dir": "github-cli-manual",
@@ -21657,7 +21657,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 493468
+      "downloads": 493473
     },
     {
       "dir": "google-chrome-profiles",
@@ -27935,7 +27935,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 662443
+      "downloads": 662448
     },
     {
       "dir": "kimai",
@@ -63800,7 +63800,7 @@
       "description": "Search Wikipedia from Raycast",
       "author": "vimtor",
       "owner": null,
-      "contributors": 9,
+      "contributors": 10,
       "categories": [
         "Web",
         "News"
@@ -63812,7 +63812,7 @@
       ],
       "store": "https://www.raycast.com/vimtor/wikipedia",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/wikipedia",
-      "treeSha": "2eb4e7273268974a0d21f5dbcf77e3a88ec149a4",
+      "treeSha": "d87511cc7b5ebc5f2f0dabba9042646ee375af78",
       "downloads": 41818
     },
     {

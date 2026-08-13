@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `cac5816345`
+
+**Updated (1):** [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia)
+
 ## 2026-08-13 — upstream `ef8a31621a`
 
 **Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)
