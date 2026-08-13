@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,098,093 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,098,095 |
 | 2 | [raycast](./id/raycast.md) | 11 | 783,558 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,682 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,642 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,690 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,646 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 437,432 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 431,998 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 405,072 |
@@ -23,7 +23,7 @@
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 246,315 |
 | 14 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 239,060 |
 | 15 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 237,679 |
-| 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 208,941 |
+| 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 208,962 |
 | 17 | [destiner](https://www.raycast.com/destiner) | 9 | 207,701 |
 | 18 | [mblode](https://www.raycast.com/mblode) | 5 | 182,444 |
 | 19 | [mooxl](https://www.raycast.com/mooxl) | 2 | 182,178 |

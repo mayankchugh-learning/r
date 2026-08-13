@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `49c0c75e35`
+
+**Updated (1):** [Git](https://github.com/raycast/extensions/tree/main/extensions/git)
+
 ## 2026-08-13 — upstream `0ac9595e9d`
 
 **Updated (1):** [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password)
