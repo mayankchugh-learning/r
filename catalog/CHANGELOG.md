@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-13 — upstream `1a507ab117`
+
+**Added (3):** [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window), [Cook](https://github.com/raycast/extensions/tree/main/extensions/cook), [Text Scramble](https://github.com/raycast/extensions/tree/main/extensions/text-scramble)
+
+**Updated (4):** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr), [Keeper Security](https://github.com/raycast/extensions/tree/main/extensions/keeper-security), [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop), [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity)
+
 ## 2026-08-12 — upstream `464bf5ccff`
 
 **Updated (1):** [TorBox](https://github.com/raycast/extensions/tree/main/extensions/torbox)

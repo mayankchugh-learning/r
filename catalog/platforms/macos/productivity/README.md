@@ -1,6 +1,6 @@
 # macOS · Productivity
 
-1419 extensions · [← macOS](../README.md)
+1422 extensions · [← macOS](../README.md)
 
 ## Organize & Plan
 
@@ -16,7 +16,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [AI & Assistants](./ai-assistants.md) | 121 |
-| [Writing & Text Tools](./writing-text-tools.md) | 71 |
+| [Writing & Text Tools](./writing-text-tools.md) | 72 |
 | [Documents & Files](./documents-files.md) | 123 |
 | [Email](./email.md) | 22 |
 
@@ -26,7 +26,7 @@
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 27 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 66 |
-| [Window & Workspace Management](./window-workspace-management.md) | 41 |
+| [Window & Workspace Management](./window-workspace-management.md) | 42 |
 | [Search & Bookmarks](./search-bookmarks.md) | 219 |
 
 ## Learn & Collaborate
@@ -37,4 +37,4 @@
 | [Team & Business Tools](./team-business-tools.md) | 16 |
 | [Trackers & Monitors](./trackers-monitors.md) | 36 |
 
-Plus [General](./general.md) — 499 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 500 extensions that don't fit a topic yet.

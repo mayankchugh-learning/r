@@ -1,8 +1,8 @@
 # Productivity
 
-1434 extensions · [← all categories](../README.md)
+1437 extensions · [← all categories](../README.md)
 
-macOS: 1419 · Windows: 343
+macOS: 1422 · Windows: 343
 
 ## Organize & Plan
 
@@ -18,7 +18,7 @@ macOS: 1419 · Windows: 343
 | Topic | Extensions |
 | --- | --- |
 | [AI & Assistants](./ai-assistants/README.md) | 122 |
-| [Writing & Text Tools](./writing-text-tools.md) | 71 |
+| [Writing & Text Tools](./writing-text-tools.md) | 72 |
 | [Documents & Files](./documents-files.md) | 123 |
 | [Email](./email.md) | 22 |
 
@@ -28,7 +28,7 @@ macOS: 1419 · Windows: 343
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 27 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 67 |
-| [Window & Workspace Management](./window-workspace-management.md) | 48 |
+| [Window & Workspace Management](./window-workspace-management.md) | 49 |
 | [Search & Bookmarks](./search-bookmarks/README.md) | 221 |
 
 ## Learn & Collaborate
@@ -59,6 +59,6 @@ macOS: 1419 · Windows: 343
 | [Password ✦](./password.md) | 8 |
 | [Website ✦](./website.md) | 6 |
 
-Plus [General](./general.md) — 369 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 370 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*
