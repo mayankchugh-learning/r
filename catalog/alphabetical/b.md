@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-129 extensions · [← catalog index](../README.md)
+130 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -134,4 +134,5 @@
 | [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) | 2 | Extension to manage BetterCapture | qlaffont | macOS | [store](https://www.raycast.com/qlaffont/bettercapture) |
 | [Bit Parser](https://github.com/raycast/extensions/tree/main/extensions/bit-parser) | 2 | Inspect individual bits in fault codes, status words, and flags | TwoMental | macOS, Windows | [store](https://www.raycast.com/twomental/bit-parser) |
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 1 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
+| [BART Departures](https://github.com/raycast/extensions/tree/main/extensions/bart-departures) | 0 | View real-time BART departures for a selected station | drewkiimon | macOS | [store](https://www.raycast.com/drewkiimon/bart-departures) |
 | [Buffer](https://github.com/raycast/extensions/tree/main/extensions/buffer) | — | Create posts and ideas in Buffer | buffer (org) | macOS | — |

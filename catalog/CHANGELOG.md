@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-14 — upstream `c767d3af3d`
+
+**Added (1):** [BART Departures](https://github.com/raycast/extensions/tree/main/extensions/bart-departures)
+
 ## 2026-08-14 — upstream `a0dd8b6672`
 
 **Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)

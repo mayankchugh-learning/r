@@ -1,6 +1,6 @@
 # Publishers
 
-2118 publishers · [← catalog index](../README.md)
+2119 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,098,569 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,098,621 |
 | 2 | [raycast](./id/raycast.md) | 11 | 783,883 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,008 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,918 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,066 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,974 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 437,626 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 432,194 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 405,191 |
@@ -311,7 +311,7 @@
 | 301 | [okooo5km](https://www.raycast.com/okooo5km) | 1 | 3,567 |
 | 302 | [yonbergman](https://www.raycast.com/yonbergman) | 2 | 3,520 |
 | 303 | [Theon](https://www.raycast.com/Theon) | 1 | 3,493 |
-| 304 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,477 |
+| 304 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,479 |
 | 305 | [praveenjuge](https://www.raycast.com/praveenjuge) | 4 | 3,465 |
 | 306 | [niemtec](https://www.raycast.com/niemtec) | 2 | 3,455 |
 | 307 | [RenderCoder](https://www.raycast.com/RenderCoder) | 1 | 3,395 |
@@ -2118,11 +2118,12 @@
 | 2108 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
 | 2109 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
 | 2110 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
-| 2111 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2112 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2113 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2114 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2115 | github-next | 2 | — |
-| 2116 | buffer | 1 | — |
-| 2117 | multi | 1 | — |
-| 2118 | sharat_visweswara | 1 | — |
+| 2111 | [drewkiimon](https://www.raycast.com/drewkiimon) | 1 | 0 |
+| 2112 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2113 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2114 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2115 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2116 | github-next | 2 | — |
+| 2117 | buffer | 1 | — |
+| 2118 | multi | 1 | — |
+| 2119 | sharat_visweswara | 1 | — |

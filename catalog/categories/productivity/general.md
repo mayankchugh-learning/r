@@ -1,6 +1,6 @@
 # General
 
-370 extensions · [← Productivity](./README.md)
+371 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -372,5 +372,6 @@
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 1 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [BART Departures](https://github.com/raycast/extensions/tree/main/extensions/bart-departures) | 0 | View real-time BART departures for a selected station | drewkiimon | macOS | [store](https://www.raycast.com/drewkiimon/bart-departures) |
 | [Cook](https://github.com/raycast/extensions/tree/main/extensions/cook) | 0 | Browse, view, and generate shopping lists from your Cooklang recipe collection | chizitere_david | macOS | [store](https://www.raycast.com/chizitere_david/cook) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | — | Quickly add vocabulary cards to your Joey decks | tai | macOS | — |

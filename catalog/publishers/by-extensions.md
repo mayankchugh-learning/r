@@ -1,6 +1,6 @@
 # Publishers
 
-2118 publishers · [← catalog index](../README.md)
+2119 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 149,737 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,526 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,748 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,098,569 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,098,621 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 298,437 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,006 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 405,191 |
@@ -228,7 +228,7 @@
 | 218 | [astrit](https://www.raycast.com/astrit) | 2 | 3,715 |
 | 219 | [AbhinavPalacharla](https://www.raycast.com/AbhinavPalacharla) | 2 | 3,696 |
 | 220 | [yonbergman](https://www.raycast.com/yonbergman) | 2 | 3,520 |
-| 221 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,477 |
+| 221 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,479 |
 | 222 | [niemtec](https://www.raycast.com/niemtec) | 2 | 3,455 |
 | 223 | [stephendolan](https://www.raycast.com/stephendolan) | 2 | 3,376 |
 | 224 | [Fatpandac](https://www.raycast.com/Fatpandac) | 2 | 3,259 |
@@ -387,8 +387,8 @@
 | 377 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 378 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 379 | github-next | 2 | — |
-| 380 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,008 |
-| 381 | [Codely](https://www.raycast.com/Codely) | 1 | 493,918 |
+| 380 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,066 |
+| 381 | [Codely](https://www.raycast.com/Codely) | 1 | 493,974 |
 | 382 | [linear](https://www.raycast.com/linear) | 1 | 342,385 |
 | 383 | [mommertf](https://www.raycast.com/mommertf) | 1 | 285,728 |
 | 384 | [nhojb](https://www.raycast.com/nhojb) | 1 | 255,119 |
@@ -2119,10 +2119,11 @@
 | 2109 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
 | 2110 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
 | 2111 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
-| 2112 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2113 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2114 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2115 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2116 | buffer | 1 | — |
-| 2117 | multi | 1 | — |
-| 2118 | sharat_visweswara | 1 | — |
+| 2112 | [drewkiimon](https://www.raycast.com/drewkiimon) | 1 | 0 |
+| 2113 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2114 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2115 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2116 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2117 | buffer | 1 | — |
+| 2118 | multi | 1 | — |
+| 2119 | sharat_visweswara | 1 | — |

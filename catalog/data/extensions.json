@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a0dd8b6672b2e686c622a102504974c07c1fdb5d",
-  "generatedAt": "2026-08-14T06:51:42.812Z",
-  "downloadsRefreshedAt": "2026-08-14T06:51:41.928Z",
-  "count": 3175,
+  "commit": "c767d3af3d034986c6fe93aff468c3ef5f6b6fe4",
+  "generatedAt": "2026-08-14T08:40:30.559Z",
+  "downloadsRefreshedAt": "2026-08-14T08:40:29.882Z",
+  "count": 3176,
   "extensions": [
     {
       "dir": "0x0",
@@ -692,7 +692,7 @@
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
       "treeSha": "8eb203df97d2c4718dae8b7ad0cfc163cb9ebb01",
-      "downloads": 2534
+      "downloads": 2536
     },
     {
       "dir": "ai-agency",
@@ -3784,6 +3784,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bark",
       "treeSha": "4d0f05e53acba14ecae64b131aada1e7c7eb23df",
       "downloads": 197
+    },
+    {
+      "dir": "bart-departures",
+      "name": "bart-departures",
+      "title": "BART Departures",
+      "description": "View real-time BART departures for a selected station",
+      "author": "drewkiimon",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/drewkiimon/bart-departures",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/bart-departures",
+      "treeSha": "9095ef3e553ccd9e5c365ea29d6231a77d1e1b09",
+      "downloads": 0
     },
     {
       "dir": "bartender",
@@ -9640,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 504892
+      "downloads": 504944
     },
     {
       "dir": "color-shades",
@@ -21678,7 +21698,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 493918
+      "downloads": 493974
     },
     {
       "dir": "google-chrome-profiles",
@@ -27956,7 +27976,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 663008
+      "downloads": 663066
     },
     {
       "dir": "kimai",
