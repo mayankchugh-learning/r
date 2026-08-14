@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [e2b](https://www.raycast.com/e2b) | 1 | 734 | **Developer Tools:** [E2B Code Interpreter](https://github.com/raycast/extensions/tree/main/extensions/e2b) |
+| [e2b](https://www.raycast.com/e2b) | 1 | 736 | **Developer Tools:** [E2B Code Interpreter](https://github.com/raycast/extensions/tree/main/extensions/e2b) |
 | [eaescob](https://www.raycast.com/eaescob) | 1 | 13 | **Productivity:** [Claude Session Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/claude-session-bookmarks) |
 | [earthpyy](https://www.raycast.com/earthpyy) | 1 | 359 | **Data:** [Air Quality](https://github.com/raycast/extensions/tree/main/extensions/air-quality) |
 | [easymikey](https://www.raycast.com/easymikey) | 1 | 902 | **Developer Tools:** [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) |

@@ -33,7 +33,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 20,249 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,036 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,037 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [Conventional Commits](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) | 1,571 | Provides a list of conventional commits prefixes and descriptions that can be inserted into your active window as well as example of how messages should be str… | niemtec | macOS | [store](https://www.raycast.com/niemtec/conventional-commits) |
 | [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) | 759 | Raycast Commands for Searching Different ML APIs | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/mldocs) |
 | [SiteSpeakAI](https://github.com/raycast/extensions/tree/main/extensions/sitespeakai) | 223 | Train a chatbot on any website or documentation, then get answers in your command bar. | hermanschutte | macOS | [store](https://www.raycast.com/hermanschutte/sitespeakai) |

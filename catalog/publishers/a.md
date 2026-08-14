@@ -119,7 +119,7 @@
 | [andrei_ciobotar](https://www.raycast.com/andrei_ciobotar) | 1 | 2,337 | **Productivity:** [Grok AI](https://github.com/raycast/extensions/tree/main/extensions/grok-ai) |
 | [andrei_hudalla](https://www.raycast.com/andrei_hudalla) | 1 | 11 | **Uncategorized:** [Chhoto](https://github.com/raycast/extensions/tree/main/extensions/chhoto) |
 | [andresmorelos](https://www.raycast.com/andresmorelos) | 3 | 9,689 | **Productivity:** [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi), [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart)<br>**Developer Tools:** [Node Version Manager](https://github.com/raycast/extensions/tree/main/extensions/node-version-manager) |
-| [andrewcincotta](https://www.raycast.com/andrewcincotta) | 1 | 1,284 | **Productivity:** [CopyQ Clipboard Manager](https://github.com/raycast/extensions/tree/main/extensions/copyq-clipboard-manager) |
+| [andrewcincotta](https://www.raycast.com/andrewcincotta) | 1 | 1,286 | **Productivity:** [CopyQ Clipboard Manager](https://github.com/raycast/extensions/tree/main/extensions/copyq-clipboard-manager) |
 | [andrewjazbec](https://www.raycast.com/andrewjazbec) | 2 | 2,926 | **Media:** [Lyrics](https://github.com/raycast/extensions/tree/main/extensions/lyrics)<br>**Applications:** [LocalCan](https://github.com/raycast/extensions/tree/main/extensions/localcan) |
 | [AndrewUsher](https://www.raycast.com/AndrewUsher) | 1 | 502 | **Documentation:** [Playwright Documentation](https://github.com/raycast/extensions/tree/main/extensions/playwright-docs) |
 | [andworksGmbH](https://www.raycast.com/andworksGmbH) | 1 | 9 | **Productivity:** [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) |
@@ -144,10 +144,10 @@
 | [anyerqi](https://www.raycast.com/anyerqi) | 1 | 19 | **Productivity:** [Wubi Code](https://github.com/raycast/extensions/tree/main/extensions/wu-bi-bian-ma) |
 | [anysphere](https://www.raycast.com/anysphere) | 1 | 6,029 | **Developer Tools:** [Cursor Agents](https://github.com/raycast/extensions/tree/main/extensions/cursor-agents) |
 | [aone](https://www.raycast.com/aone) | 1 | 849 | **Applications:** [Keka](https://github.com/raycast/extensions/tree/main/extensions/keka) |
-| [aparandeh](https://www.raycast.com/aparandeh) | 2 | 9,185 | **Productivity:** [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup)<br>**Data:** [Google Books](https://github.com/raycast/extensions/tree/main/extensions/google-books) |
+| [aparandeh](https://www.raycast.com/aparandeh) | 2 | 9,187 | **Productivity:** [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup)<br>**Data:** [Google Books](https://github.com/raycast/extensions/tree/main/extensions/google-books) |
 | [apiaget](https://www.raycast.com/apiaget) | 1 | 3 | **Productivity:** [Quick Access Infomaniak](https://github.com/raycast/extensions/tree/main/extensions/quick-access-infomaniak) |
 | [apoorv](https://www.raycast.com/apoorv) | 1 | 203 | **Developer Tools:** [Charged: Starknet Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/charged) |
-| [apoorv_khandelwal](https://www.raycast.com/apoorv_khandelwal) | 1 | 3,611 | **Media:** [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) |
+| [apoorv_khandelwal](https://www.raycast.com/apoorv_khandelwal) | 1 | 3,612 | **Media:** [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) |
 | [ApopeOS](https://www.raycast.com/ApopeOS) | 2 | 91 | **Fun:** [Yu-Gi-Oh! Card Lookup](https://github.com/raycast/extensions/tree/main/extensions/yu-gi-oh-card-lookup)<br>**Developer Tools:** [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) |
 | [appest](https://www.raycast.com/appest) | 1 | 21,941 | **Productivity:** [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) |
 | [applauselab](https://www.raycast.com/applauselab) | 1 | 8 | **Developer Tools:** [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) |

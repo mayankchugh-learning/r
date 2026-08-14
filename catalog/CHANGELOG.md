@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-14 — upstream `bd0d2972c3`
+
+**Updated (1):** [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window)
+
 ## 2026-08-14 — upstream `c767d3af3d`
 
 **Added (1):** [BART Departures](https://github.com/raycast/extensions/tree/main/extensions/bart-departures)

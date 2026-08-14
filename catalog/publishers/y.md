@@ -19,7 +19,7 @@
 | [yasuhiroyamamoto](https://www.raycast.com/yasuhiroyamamoto) | 1 | 220 | **Developer Tools:** [Image Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) |
 | [yaya12085](https://www.raycast.com/yaya12085) | 1 | 162 | **Productivity:** [Rule of Three](https://github.com/raycast/extensions/tree/main/extensions/rule-of-three) |
 | [yazanzaid00](https://www.raycast.com/yazanzaid00) | 2 | 1,847 | **System:** [Sequoia Window Tiling](https://github.com/raycast/extensions/tree/main/extensions/sequoia-tiling)<br>**Communication:** [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) |
-| [yedongze](https://www.raycast.com/yedongze) | 1 | 22,060 | **Developer Tools:** [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) |
+| [yedongze](https://www.raycast.com/yedongze) | 1 | 22,062 | **Developer Tools:** [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) |
 | [yemilgr](https://www.raycast.com/yemilgr) | 1 | 177 | **Documentation:** [Serverless Framework Docs](https://github.com/raycast/extensions/tree/main/extensions/serverless-framework-docs) |
 | [yeskunall](https://www.raycast.com/yeskunall) | 1 | 197 | **Fun:** [Anilist Airing Schedule](https://github.com/raycast/extensions/tree/main/extensions/anilist-airing-schedule) |
 | [yevgen_glukhov](https://www.raycast.com/yevgen_glukhov) | 1 | 295 | **Design Tools:** [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) |
