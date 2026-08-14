@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0e7bd7c743c17f15d3352b63c102b1e6fe8f78ab",
-  "generatedAt": "2026-08-14T02:46:06.143Z",
-  "downloadsRefreshedAt": "2026-08-14T02:46:05.301Z",
+  "commit": "891551c873b91f7d5b94fb5f1631eff3a2edfb6b",
+  "generatedAt": "2026-08-14T02:49:22.914Z",
+  "downloadsRefreshedAt": "2026-08-14T02:49:22.352Z",
   "count": 3175,
   "extensions": [
     {
@@ -21678,7 +21678,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 493838
+      "downloads": 493839
     },
     {
       "dir": "google-chrome-profiles",
@@ -27956,7 +27956,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 662901
+      "downloads": 662903
     },
     {
       "dir": "kimai",
@@ -41792,7 +41792,7 @@
       "description": "Create pins for paths and URLs and display them in the menu bar",
       "author": "HelloImSteven",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Productivity",
         "Web",
@@ -41804,7 +41804,7 @@
       ],
       "store": "https://www.raycast.com/HelloImSteven/pins",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/pins",
-      "treeSha": "7ed060c13e816f56893026d1d20a064fde7f81ef",
+      "treeSha": "4ae4547e774f7d59a1bc6eb5beadb6611d0f8191",
       "downloads": 4220
     },
     {

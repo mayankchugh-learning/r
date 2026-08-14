@@ -10,8 +10,8 @@
 | --- | --- | --- | --- |
 | 1 | [thomas](./id/thomas.md) | 15 | 1,098,417 |
 | 2 | [raycast](./id/raycast.md) | 11 | 783,766 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,901 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,838 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 662,903 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 493,839 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 437,567 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 432,143 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 405,158 |
