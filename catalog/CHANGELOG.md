@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-14 — upstream `7abcceef85`
+
+**Updated (1):** [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)
+
 ## 2026-08-14 — upstream `b2d3777220`
 
 **Updated (1):** [YouTrack](https://github.com/raycast/extensions/tree/main/extensions/youtrack)

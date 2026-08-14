@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 149,761 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,531 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,748 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,098,881 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,098,882 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 298,486 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,009 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 405,245 |
