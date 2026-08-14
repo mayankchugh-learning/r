@@ -1,6 +1,6 @@
 # Publishers
 
-2120 publishers · [← catalog index](../README.md)
+2121 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 149,761 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,531 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,748 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,098,829 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,098,839 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 298,486 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,009 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 405,245 |
@@ -387,8 +387,8 @@
 | 377 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 378 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 2 |
 | 379 | github-next | 2 | — |
-| 380 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,152 |
-| 381 | [Codely](https://www.raycast.com/Codely) | 1 | 494,040 |
+| 380 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,163 |
+| 381 | [Codely](https://www.raycast.com/Codely) | 1 | 494,050 |
 | 382 | [linear](https://www.raycast.com/linear) | 1 | 342,506 |
 | 383 | [mommertf](https://www.raycast.com/mommertf) | 1 | 285,799 |
 | 384 | [nhojb](https://www.raycast.com/nhojb) | 1 | 255,158 |
@@ -2123,8 +2123,9 @@
 | 2113 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2114 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
 | 2115 | [jonah_tweed](https://www.raycast.com/jonah_tweed) | 1 | 0 |
-| 2116 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2117 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2118 | buffer | 1 | — |
-| 2119 | multi | 1 | — |
-| 2120 | sharat_visweswara | 1 | — |
+| 2116 | [miklw](https://www.raycast.com/miklw) | 1 | 0 |
+| 2117 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2118 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2119 | buffer | 1 | — |
+| 2120 | multi | 1 | — |
+| 2121 | sharat_visweswara | 1 | — |

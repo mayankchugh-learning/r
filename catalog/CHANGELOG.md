@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-14 — upstream `5a1be83acd`
+
+**Added (1):** [Oneko](https://github.com/raycast/extensions/tree/main/extensions/oneko)
+
 ## 2026-08-14 — upstream `1dc4430cdf`
 
 **Added (1):** [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub)

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-164 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+165 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -118,6 +118,7 @@
 | [mike182uk](https://www.raycast.com/mike182uk) | 3 | 1,038 | **Developer Tools:** [OpenCode Sessions](https://github.com/raycast/extensions/tree/main/extensions/opencode-sessions)<br>**Media:** [MusicBrainz](https://github.com/raycast/extensions/tree/main/extensions/musicbrainz)<br>**Data:** [Octopus Energy](https://github.com/raycast/extensions/tree/main/extensions/octopus-energy) |
 | [mikeozornin](https://www.raycast.com/mikeozornin) | 1 | 1,918 | **Design Tools:** [Typographer: Make Text Pretty](https://github.com/raycast/extensions/tree/main/extensions/typographer) |
 | [MikeWhob](https://www.raycast.com/mikewhob) | 1 | 3 | **Productivity:** [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) |
+| [miklw](https://www.raycast.com/miklw) | 1 | 0 | **Fun:** [Oneko](https://github.com/raycast/extensions/tree/main/extensions/oneko) |
 | [mikqi](https://www.raycast.com/mikqi) | 1 | 3,316 | **Developer Tools:** [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) |
 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 13,574 | **Productivity:** [Obsidian Smart Capture](https://github.com/raycast/extensions/tree/main/extensions/obsidian-smart-capture) |
 | [MinatoHikari](https://www.raycast.com/MinatoHikari) | 1 | 1,246 | **System:** [SSH Tunnel Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-tunnel-manager) |

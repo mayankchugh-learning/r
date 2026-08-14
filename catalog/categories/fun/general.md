@@ -1,6 +1,6 @@
 # General
 
-98 extensions · [← Fun](./README.md)
+99 extensions · [← Fun](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -101,4 +101,5 @@
 | [Tategaki](https://github.com/raycast/extensions/tree/main/extensions/tategaki) | 11 | Convert text to Japanese vertical writing | haruka_odenkun | macOS, Windows | [store](https://www.raycast.com/haruka_odenkun/tategaki) |
 | [AtomTick](https://github.com/raycast/extensions/tree/main/extensions/atomtick) | 4 | NTP-synchronized atomic reference time as a live analog clock face, with a digital readout underneath. | IngoJ | macOS, Windows | [store](https://www.raycast.com/IngoJ/atomtick) |
 | [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) | 1 | Helper tools for Tibia including NPC prices, Rashid location, and imbuement guides | kjbakke | macOS | [store](https://www.raycast.com/kjbakke/tibia-helper) |
+| [Oneko](https://github.com/raycast/extensions/tree/main/extensions/oneko) | 0 | Control Oneko, the desktop cat that chases your cursor. | miklw | macOS | [store](https://www.raycast.com/miklw/oneko) |
 | [GitHub Spark](https://github.com/raycast/extensions/tree/main/extensions/github-spark) | — | Turn your ideas into personalized apps with GitHub Spark. | github-next (org) | macOS | — |

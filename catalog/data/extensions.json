@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1dc4430cdf92001f6841f1c5267c719a239767b7",
-  "generatedAt": "2026-08-14T11:20:47.988Z",
-  "downloadsRefreshedAt": "2026-08-14T11:20:47.139Z",
-  "count": 3177,
+  "commit": "5a1be83acdb2059dc1f7025b55e0d30d64135730",
+  "generatedAt": "2026-08-14T11:48:49.203Z",
+  "downloadsRefreshedAt": "2026-08-14T11:48:48.891Z",
+  "count": 3178,
   "extensions": [
     {
       "dir": "0x0",
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 505010
+      "downloads": 505020
     },
     {
       "dir": "color-shades",
@@ -21698,7 +21698,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 494040
+      "downloads": 494050
     },
     {
       "dir": "google-chrome-profiles",
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 663152
+      "downloads": 663163
     },
     {
       "dir": "kimai",
@@ -38382,6 +38382,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/one-time-secret",
       "treeSha": "4aa2c61bad608b802131ac8f6412bb10d398e148",
       "downloads": 573
+    },
+    {
+      "dir": "oneko",
+      "name": "oneko",
+      "title": "Oneko",
+      "description": "Control Oneko, the desktop cat that chases your cursor.",
+      "author": "miklw",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Fun"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/miklw/oneko",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/oneko",
+      "treeSha": "81fa677c0e87cf6a29f8f3552b01fb8a2209a57d",
+      "downloads": 0
     },
     {
       "dir": "onelook-thesaurus",
