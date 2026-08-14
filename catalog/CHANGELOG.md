@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-14 — upstream `5d69275a0c`
+
+**Updated (1):** [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password)
+
 ## 2026-08-14 — upstream `7abcceef85`
 
 **Updated (1):** [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)
