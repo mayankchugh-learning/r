@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 436,644 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 355,691 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
-| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 124,510 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
+| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 124,534 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
 | [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 64,691 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
 | [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 63,942 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
 | [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 61,265 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |

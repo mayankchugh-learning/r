@@ -146,7 +146,7 @@
 | [monvelasquez](https://www.raycast.com/monvelasquez) | 1 | 554 | **Finance:** [Summation - Sum Calculator](https://github.com/raycast/extensions/tree/main/extensions/summation) |
 | [moored](https://www.raycast.com/moored) | 1 | 25,990 | **Developer Tools:** [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) |
 | [moose_zhang](https://www.raycast.com/moose_zhang) | 1 | 4 | **Productivity:** [MEMO to flomo](https://github.com/raycast/extensions/tree/main/extensions/memo-to-flomo) |
-| [mooxl](https://www.raycast.com/mooxl) | 2 | 182,327 | **System:** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)<br>**Productivity:** [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) |
+| [mooxl](https://www.raycast.com/mooxl) | 2 | 182,351 | **System:** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)<br>**Productivity:** [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) |
 | [morrissimons](https://www.raycast.com/morrissimons) | 1 | 19 | **Productivity:** [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) |
 | [mozzius](https://www.raycast.com/mozzius) | 1 | 197 | **Developer Tools:** [Create T3 App](https://github.com/raycast/extensions/tree/main/extensions/create-t3-app) |
 | [MrMage](https://www.raycast.com/MrMage) | 1 | 97 | **Productivity:** [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) |

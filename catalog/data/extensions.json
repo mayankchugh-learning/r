@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cb5403f23f3475671400e5374201419f10bca1d9",
-  "generatedAt": "2026-08-14T13:03:44.243Z",
-  "downloadsRefreshedAt": "2026-08-14T13:03:44.007Z",
+  "commit": "ba7b9bd0cf07585cd226d62b1842e9de336a7847",
+  "generatedAt": "2026-08-14T13:19:51.568Z",
+  "downloadsRefreshedAt": "2026-08-14T13:19:51.281Z",
   "count": 3178,
   "extensions": [
     {
@@ -9409,7 +9409,7 @@
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
       "treeSha": "6b04201332c3c6c08ded8fdb8eb0a501dad00e99",
-      "downloads": 124510
+      "downloads": 124534
     },
     {
       "dir": "cognimemo",
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 505054
+      "downloads": 505059
     },
     {
       "dir": "color-shades",
@@ -20767,7 +20767,7 @@
       "description": "Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications",
       "author": "thomaslombart",
       "owner": "raycast",
-      "contributors": 39,
+      "contributors": 40,
       "categories": [
         "Developer Tools",
         "Productivity"
@@ -20779,8 +20779,8 @@
       ],
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
-      "treeSha": "e5e8498c3be8a23b6aa955dd30168b49a6626b68",
-      "downloads": 180892
+      "treeSha": "47a8888f7921913d581b456585c0ff52ea59e98c",
+      "downloads": 180907
     },
     {
       "dir": "github-cli-manual",
@@ -21698,7 +21698,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 494086
+      "downloads": 494089
     },
     {
       "dir": "google-chrome-profiles",
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 663208
+      "downloads": 663213
     },
     {
       "dir": "kimai",
