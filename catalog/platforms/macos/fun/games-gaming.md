@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,963 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
-| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 8,810 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
+| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,964 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
+| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 8,812 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
 | [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,750 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
 | [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 2,872 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
 | [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,585 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
@@ -15,7 +15,7 @@
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,120 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
 | [Wordle](https://github.com/raycast/extensions/tree/main/extensions/wordle) | 852 | Play Wordle locally once a day. | chrisalxlng | macOS | [store](https://www.raycast.com/chrisalxlng/wordle) |
 | [Rollcast](https://github.com/raycast/extensions/tree/main/extensions/rollcast) | 700 | Roll dice for your D&D games from Raycast! | troalexis | macOS, Windows | [store](https://www.raycast.com/troalexis/rollcast) |
-| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 609 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
+| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 610 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
 | [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 587 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
 | [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox) | 585 | Raycast Extension for finding games, users & more on Roblox | iamEvan | macOS, Windows | [store](https://www.raycast.com/iamEvan/roblox) |
 | [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 516 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
@@ -34,7 +34,7 @@
 | [Pokémon Tcg Pocket Binder](https://github.com/raycast/extensions/tree/main/extensions/pokemon-tcg-pocket-binder) | 133 | Browse the complete collection of Pokémon TCG Pocket Cards | azyz | macOS | [store](https://www.raycast.com/azyz/pokemon-tcg-pocket-binder) |
 | [Lichess.org](https://github.com/raycast/extensions/tree/main/extensions/lichess-org) | 132 | Quickly start games on Lichess.org | ftonato | macOS | [store](https://www.raycast.com/ftonato/lichess-org) |
 | [Board Game Geek](https://github.com/raycast/extensions/tree/main/extensions/board-game-geek) | 119 | Search and view details about board games on BoardGameGeek.com | graham_hall | macOS | [store](https://www.raycast.com/graham_hall/board-game-geek) |
-| [FrankerFaceZ Emotes](https://github.com/raycast/extensions/tree/main/extensions/frankerfacez) | 105 | Search for your favorite FrankerFaceZ emotes. | davidchalifoux | macOS | [store](https://www.raycast.com/davidchalifoux/frankerfacez) |
+| [FrankerFaceZ Emotes](https://github.com/raycast/extensions/tree/main/extensions/frankerfacez) | 106 | Search for your favorite FrankerFaceZ emotes. | davidchalifoux | macOS | [store](https://www.raycast.com/davidchalifoux/frankerfacez) |
 | [Twitch Logs](https://github.com/raycast/extensions/tree/main/extensions/twitch-logs) | 100 | See what messages a user has sent on a paticular twitch channel on a paticular month. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/twitch-logs) |
 | [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 89 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
 | [Dota 2](https://github.com/raycast/extensions/tree/main/extensions/dota-2) | 86 | View various data about Dota 2, like heroes and their stats. | FlorianWendelborn | macOS | [store](https://www.raycast.com/FlorianWendelborn/dota-2) |

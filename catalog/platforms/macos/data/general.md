@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 12,133 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
+| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 12,134 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
 | [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 8,953 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
 | [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 8,656 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
-| [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,428 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
+| [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,429 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
 | [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,950 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
-| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 3,406 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
+| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 3,407 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
 | [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,883 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,783 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,287 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
@@ -39,7 +39,7 @@
 | [Lightshot Gallery](https://github.com/raycast/extensions/tree/main/extensions/lightshot-gallery) | 142 | Easily access your Lightshot gallery | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/lightshot-gallery) |
 | [M3O](https://github.com/raycast/extensions/tree/main/extensions/m3o) | 138 | Explore, discover and consume public APIs as simpler programmable building blocks. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/m3o) |
 | [Mound](https://github.com/raycast/extensions/tree/main/extensions/mound-for-pile) | 137 | A Raycast extension for the Pile journaling app | desmondsofua | macOS | [store](https://www.raycast.com/desmondsofua/mound-for-pile) |
-| [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 121 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
+| [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 122 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
 | [BMW](https://github.com/raycast/extensions/tree/main/extensions/bmw) | 116 | Control and view your BMW | aesign | macOS | [store](https://www.raycast.com/aesign/bmw) |
 | [Subwatch](https://github.com/raycast/extensions/tree/main/extensions/subwatch) | 113 | Turn subscription chaos into financial harmony | nirgn | macOS | [store](https://www.raycast.com/nirgn/subwatch) |
 | [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman) | 111 | View your Ultrahuman Ring data | joshmillgate | macOS | [store](https://www.raycast.com/joshmillgate/ultrahuman) |

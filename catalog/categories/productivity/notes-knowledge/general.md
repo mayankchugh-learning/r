@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,091 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
+| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,092 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
 | [Roam Research](https://github.com/raycast/extensions/tree/main/extensions/roam-research) | 1,043 | Your Roam graphs at your fingertips! Quickly search, capture and navigate your Roam graphs. | roamresearch | macOS, Windows | [store](https://www.raycast.com/roamresearch/roam-research) |
 | [SupaHabits](https://github.com/raycast/extensions/tree/main/extensions/supahabits) | 309 | Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries | gbarba | macOS | [store](https://www.raycast.com/gbarba/habits) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 109 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |

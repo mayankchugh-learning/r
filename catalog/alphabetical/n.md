@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 246,371 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
-| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,882 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
-| [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,428 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 246,399 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,883 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
+| [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,429 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,362 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,846 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
 | [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,077 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
@@ -20,7 +20,7 @@
 | [Node.js Evaluate](https://github.com/raycast/extensions/tree/main/extensions/node-js-evaluate) | 2,567 | Evaluate Javascript (Node.js) code on-the-fly | Selfish | macOS | [store](https://www.raycast.com/Selfish/node-js-evaluate) |
 | [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,420 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,391 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
-| [Naver Search](https://github.com/raycast/extensions/tree/main/extensions/naver-search) | 2,126 | Naver search extension for Raycast | magneto | macOS | [store](https://www.raycast.com/magneto/naver-search) |
+| [Naver Search](https://github.com/raycast/extensions/tree/main/extensions/naver-search) | 2,127 | Naver search extension for Raycast | magneto | macOS | [store](https://www.raycast.com/magneto/naver-search) |
 | [NeteaseMusic](https://github.com/raycast/extensions/tree/main/extensions/netease-music) | 2,104 | Control the NeteaseMusic app with your keyboard | chyroc | macOS | [store](https://www.raycast.com/chyroc/netease-music) |
 | [Node Version Manager](https://github.com/raycast/extensions/tree/main/extensions/node-version-manager) | 1,637 | Control your node versions with ease | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/node-version-manager) |
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,387 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |
@@ -33,7 +33,7 @@
 | [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) | 1,005 | Serve Web Apps with one command ngrok is a simplified API-first ingress-as-a-service that adds connectivity, security, and observability to your apps in one li… | ubinatus | macOS | [store](https://www.raycast.com/ubinatus/ngrok) |
 | [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 929 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
 | [NATO Phonetic Alphabet](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet) | 878 | For knowing and conveniently using the NATO phonetic alphabet. | jns | macOS | [store](https://www.raycast.com/jns/nato-phonetic-alphabet) |
-| [NextDNS](https://github.com/raycast/extensions/tree/main/extensions/nextdns) | 777 | Viewing and controlling NextDNS settings | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/nextdns) |
+| [NextDNS](https://github.com/raycast/extensions/tree/main/extensions/nextdns) | 778 | Viewing and controlling NextDNS settings | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/nextdns) |
 | [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) | 711 | Checkout all NYT posts | Antonwy | macOS | [store](https://www.raycast.com/Antonwy/new-york-times) |
 | [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) | 584 | It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features | yusuf_akdeniz | macOS | [store](https://www.raycast.com/yusuf_akdeniz/nowplaying-cli) |
 | [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 553 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |

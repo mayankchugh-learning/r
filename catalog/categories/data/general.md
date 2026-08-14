@@ -31,7 +31,7 @@
 | [Lightshot Gallery](https://github.com/raycast/extensions/tree/main/extensions/lightshot-gallery) | 142 | Easily access your Lightshot gallery | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/lightshot-gallery) |
 | [M3O](https://github.com/raycast/extensions/tree/main/extensions/m3o) | 138 | Explore, discover and consume public APIs as simpler programmable building blocks. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/m3o) |
 | [Mound](https://github.com/raycast/extensions/tree/main/extensions/mound-for-pile) | 137 | A Raycast extension for the Pile journaling app | desmondsofua | macOS | [store](https://www.raycast.com/desmondsofua/mound-for-pile) |
-| [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 121 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
+| [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 122 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
 | [BMW](https://github.com/raycast/extensions/tree/main/extensions/bmw) | 116 | Control and view your BMW | aesign | macOS | [store](https://www.raycast.com/aesign/bmw) |
 | [Subwatch](https://github.com/raycast/extensions/tree/main/extensions/subwatch) | 113 | Turn subscription chaos into financial harmony | nirgn | macOS | [store](https://www.raycast.com/nirgn/subwatch) |
 | [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman) | 111 | View your Ultrahuman Ring data | joshmillgate | macOS | [store](https://www.raycast.com/joshmillgate/ultrahuman) |
