@@ -27,7 +27,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Logtail](https://github.com/raycast/extensions/tree/main/extensions/logtail) | 128 | Search and View your Logtail logs at any time | Cavallando | macOS | [store](https://www.raycast.com/Cavallando/logtail) |
+| [Logtail](https://github.com/raycast/extensions/tree/main/extensions/logtail) | 129 | Search and View your Logtail logs at any time | Cavallando | macOS | [store](https://www.raycast.com/Cavallando/logtail) |
 | [Micro Snitch Logs](https://github.com/raycast/extensions/tree/main/extensions/micro-snitch-logs) | 65 | Visualize Micro Snitch logs with beautiful formatting | jorgetoh | macOS | [store](https://www.raycast.com/jorgetoh/micro-snitch-logs) |
 | [Aliyun Flow](https://github.com/raycast/extensions/tree/main/extensions/aliyun-flow) | 29 | Raycast extension to list Aliyun Flow pipelines and logs | yggdrasil | macOS | [store](https://www.raycast.com/yggdrasil/aliyun-flow) |
 | [Laravel Cloud](https://github.com/raycast/extensions/tree/main/extensions/laravel-cloud) | 23 | Manage your Laravel Cloud applications, deployments, logs, and more directly from Raycast. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/laravel-cloud) |
@@ -36,7 +36,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,078 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
+| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,079 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
 | [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,441 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
 | [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,311 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 400 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |

@@ -5,8 +5,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 8,657 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,950 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
-| [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,885 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 5,951 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,886 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,784 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,287 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,630 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
