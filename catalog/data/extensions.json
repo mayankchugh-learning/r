@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ba7b9bd0cf07585cd226d62b1842e9de336a7847",
-  "generatedAt": "2026-08-14T13:19:51.568Z",
-  "downloadsRefreshedAt": "2026-08-14T13:19:51.281Z",
+  "commit": "b2d3777220b89b54a93fe2e2046ec61c00256404",
+  "generatedAt": "2026-08-14T13:21:39.256Z",
+  "downloadsRefreshedAt": "2026-08-14T13:21:38.465Z",
   "count": 3178,
   "extensions": [
     {
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 505059
+      "downloads": 505062
     },
     {
       "dir": "color-shades",
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 663213
+      "downloads": 663216
     },
     {
       "dir": "kimai",
@@ -65815,7 +65815,7 @@
       ],
       "store": "https://www.raycast.com/tiulpin/youtrack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/youtrack",
-      "treeSha": "3e650ae3e70f1b85cb5548337baceb1c1b1ab0e3",
+      "treeSha": "ebef25a9ebe59f1a5e307c826dd6295f9ee1b01e",
       "downloads": 867
     },
     {
