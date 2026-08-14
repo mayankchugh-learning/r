@@ -1,8 +1,8 @@
 # Finance
 
-149 extensions · [← all categories](../README.md)
+150 extensions · [← all categories](../README.md)
 
-macOS: 149 · Windows: 45
+macOS: 150 · Windows: 46
 
 ## Markets & Investing
 
@@ -33,6 +33,6 @@ macOS: 149 · Windows: 45
 | --- | --- |
 | [Calculator ✦](./calculator.md) | 5 |
 
-Plus [General](./general.md) — 26 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 27 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

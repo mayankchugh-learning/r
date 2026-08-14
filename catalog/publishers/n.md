@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · **N** · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-75 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+76 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -71,6 +71,7 @@
 | [noamefergan](https://www.raycast.com/NoamEfergan) | 1 | 55 | **Developer Tools:** [Lazygit Keybindings](https://github.com/raycast/extensions/tree/main/extensions/lazygit-keybindings) |
 | [Noamko](https://www.raycast.com/Noamko) | 1 | 1,431 | **Design Tools:** [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) |
 | [nocal](https://www.raycast.com/nocal) | 1 | 11 | **Productivity:** [nocal](https://github.com/raycast/extensions/tree/main/extensions/nocal) |
+| [noice_anas](https://www.raycast.com/noice_anas) | 1 | 0 | **Finance:** [Metals Prices](https://github.com/raycast/extensions/tree/main/extensions/metals-prices) |
 | [noopurphalak](https://www.raycast.com/noopurphalak) | 1 | 552 | **Developer Tools:** [VueUse Functions](https://github.com/raycast/extensions/tree/main/extensions/vueuse-functions) |
 | [noppefoxwolf](https://www.raycast.com/noppefoxwolf) | 1 | 1,397 | **Developer Tools:** [Simulator Control](https://github.com/raycast/extensions/tree/main/extensions/simctl) |
 | [NormC](https://www.raycast.com/NormC) | 3 | 781 | **System:** [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail)<br>**Uncategorized:** [Parse Logs](https://github.com/raycast/extensions/tree/main/extensions/parse-logs)<br>**Applications:** [Finicky Rule Manager](https://github.com/raycast/extensions/tree/main/extensions/finicky-rule-manager) |

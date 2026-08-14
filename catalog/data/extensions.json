@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3ee21ae551631deec70dec760d5c7232c2344e17",
-  "generatedAt": "2026-08-14T16:50:02.843Z",
-  "downloadsRefreshedAt": "2026-08-14T16:50:01.371Z",
-  "count": 3178,
+  "commit": "a369ca9784463f7eb9a009bba1aff37477b6fe50",
+  "generatedAt": "2026-08-14T17:41:56.504Z",
+  "downloadsRefreshedAt": "2026-08-14T17:41:55.432Z",
+  "count": 3179,
   "extensions": [
     {
       "dir": "0x0",
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 505161
+      "downloads": 505185
     },
     {
       "dir": "color-shades",
@@ -21698,7 +21698,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 494196
+      "downloads": 494234
     },
     {
       "dir": "google-chrome-profiles",
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 663337
+      "downloads": 663377
     },
     {
       "dir": "kimai",
@@ -33172,6 +33172,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/metacritic",
       "treeSha": "4ba57047961bff0bc910e80069b4e6fbe771a6d6",
       "downloads": 349
+    },
+    {
+      "dir": "metals-prices",
+      "name": "metals-prices",
+      "title": "Metals Prices",
+      "description": "Daily gold, silver, platinum and palladium prices per gram by purity, with 1, 3, 6, and 12-month averages.",
+      "author": "noice_anas",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Finance"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/noice_anas/metals-prices",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/metals-prices",
+      "treeSha": "f3ba92a261cd6dc26f85bfaa45115249dc98933d",
+      "downloads": 0
     },
     {
       "dir": "metaphor",

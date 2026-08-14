@@ -1,8 +1,8 @@
 # Windows · Finance
 
-45 extensions · [← Windows](../README.md)
+46 extensions · [← Windows](../README.md)
 
-[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (5) · [Currency & Exchange](#currency-exchange) (4) · [Business, Billing & Sales](#business-billing-sales) (10) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (2) · [Personal Finance & Budgeting](#personal-finance-budgeting) (8) · [General](#general) (6)
+[Crypto & Web3](#crypto-web3) (7) · [Stocks & Trading](#stocks-trading) (5) · [Currency & Exchange](#currency-exchange) (4) · [Business, Billing & Sales](#business-billing-sales) (10) · [Banking & Payments](#banking-payments) (3) · [Regional & Company Lookups](#regional-company-lookups) (2) · [Personal Finance & Budgeting](#personal-finance-budgeting) (8) · [General](#general) (7)
 
 ## Markets & Investing
 
@@ -94,3 +94,4 @@
 | [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 22 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |
 | [Sadaqah Box](https://github.com/raycast/extensions/tree/main/extensions/sadaqah-box) | 7 | Manage your charity boxes and sadaqahs | emircanerkul | macOS, Windows | [store](https://www.raycast.com/emircanerkul/sadaqah-box) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
+| [Metals Prices](https://github.com/raycast/extensions/tree/main/extensions/metals-prices) | 0 | Daily gold, silver, platinum and palladium prices per gram by purity, with 1, 3, 6, and 12-month averages. | noice_anas | macOS, Windows | [store](https://www.raycast.com/noice_anas/metals-prices) |
