@@ -1,6 +1,6 @@
 # xmok
 
-111 extensions · 11,314 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+111 extensions · 11,316 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -173,7 +173,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 377 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
 | [Migadu](https://github.com/raycast/extensions/tree/main/extensions/migadu) | 106 | Mailboxes, Identities, Aliases, Rewrites in Migadu | xmok | macOS | [store](https://www.raycast.com/xmok/migadu) |
-| [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 94 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
+| [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 95 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
 | [Name.com](https://github.com/raycast/extensions/tree/main/extensions/name-com) | 76 | View your Domains, DNS Records and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/name-com) |
 | [Purelymail](https://github.com/raycast/extensions/tree/main/extensions/purelymail) | 64 | Manage Purelymail - Domains, Users, Routing Rules and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/purelymail) |
 | [MailerSend](https://github.com/raycast/extensions/tree/main/extensions/mailersend) | 40 | View Domains, Users, Templates in MailerSend Account | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/mailersend) |
@@ -255,7 +255,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IndieHackers](https://github.com/raycast/extensions/tree/main/extensions/indiehackers) | 145 | Browse IndieHackers | xmok | macOS | [store](https://www.raycast.com/xmok/indiehackers) |
+| [IndieHackers](https://github.com/raycast/extensions/tree/main/extensions/indiehackers) | 146 | Browse IndieHackers | xmok | macOS | [store](https://www.raycast.com/xmok/indiehackers) |
 
 ## Security (1)
 

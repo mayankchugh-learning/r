@@ -4,14 +4,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,753 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,631 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,755 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,633 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,688 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,981 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
 | [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,432 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
-| [Grammarix](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) | 1,349 | Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription,… | hakob_nersesian | macOS | [store](https://www.raycast.com/hakob_nersesian/grammari-x) |
+| [Grammarix](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) | 1,350 | Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription,… | hakob_nersesian | macOS | [store](https://www.raycast.com/hakob_nersesian/grammari-x) |
 | [Time Zone Converter](https://github.com/raycast/extensions/tree/main/extensions/time-converter) | 1,054 | Convert times between different time zones and paste the results | alex_jones | macOS | [store](https://www.raycast.com/alex_jones/time-converter) |
-| [CanvasCast](https://github.com/raycast/extensions/tree/main/extensions/canvascast) | 1,026 | Access the Canvas LMS from Raycast | Yoda | macOS | [store](https://www.raycast.com/Yoda/canvascast) |
+| [CanvasCast](https://github.com/raycast/extensions/tree/main/extensions/canvascast) | 1,027 | Access the Canvas LMS from Raycast | Yoda | macOS | [store](https://www.raycast.com/Yoda/canvascast) |
 | [Pastebin](https://github.com/raycast/extensions/tree/main/extensions/pastebin) | 871 | Create and manage Pastebin pastes | vimtor | macOS | [store](https://www.raycast.com/vimtor/pastebin) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 772 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 | [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 573 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
@@ -34,7 +34,7 @@
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 127 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 107 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [Migadu](https://github.com/raycast/extensions/tree/main/extensions/migadu) | 106 | Mailboxes, Identities, Aliases, Rewrites in Migadu | xmok | macOS | [store](https://www.raycast.com/xmok/migadu) |
-| [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 94 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
+| [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 95 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
 | [TFL](https://github.com/raycast/extensions/tree/main/extensions/tfl) | 93 | Viewing public transport departures in London | haneenmahdin | macOS | [store](https://www.raycast.com/haneenmahdin/tfl) |
 | [Lacinka](https://github.com/raycast/extensions/tree/main/extensions/lacinka) | 79 | Use belarussian lacinka on the go | colorage | macOS | [store](https://www.raycast.com/colorage/lacinka) |
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 78 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |

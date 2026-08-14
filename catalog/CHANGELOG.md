@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-14 — upstream `0e7bd7c743`
+
+**Updated (1):** [2FAS Authenticator](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator)
+
 ## 2026-08-13 — upstream `8104714e02`
 
 **Updated (1):** [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard)

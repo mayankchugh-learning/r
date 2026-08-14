@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) | 5,752 | Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. | hmarr | macOS | [store](https://www.raycast.com/hmarr/stock-tracker) |
+| [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) | 5,756 | Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. | hmarr | macOS | [store](https://www.raycast.com/hmarr/stock-tracker) |
 | [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) | 1,966 | Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alp… | jones-sam | macOS | [store](https://www.raycast.com/jones-sam/stock-lookup) |
 | [Apple Stocks Search](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) | 1,065 | Apple Stocks Extension for Raycast with Autosuggestions | hayden_barnes | macOS | [store](https://www.raycast.com/hayden_barnes/apple-stocks-search) |
 | [Google Finance](https://github.com/raycast/extensions/tree/main/extensions/google-finance) | 153 | Track stock prices powered by Google Finance | kyle_samani | macOS | [store](https://www.raycast.com/kyle_samani/google-finance) |
@@ -35,4 +35,4 @@
 | [Finary](https://github.com/raycast/extensions/tree/main/extensions/finary) | 126 | Fastest way to explore your Finary Portfolio & Investments. | jetaix | macOS | [store](https://www.raycast.com/jetaix/finary) |
 | [Midas](https://github.com/raycast/extensions/tree/main/extensions/midas) | 48 | Midas is an AI Agent that manages on-chain trading, voting and more for you. | sunosuporno | macOS | [store](https://www.raycast.com/sunosuporno/midas) |
 | [Alpaca Trading](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) | 47 | Interact with your Alpaca trading account | stelo | macOS | [store](https://www.raycast.com/stelo/alpaca-trading) |
-| [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) | 1 | View your Charles Schwab brokerage accounts, positions, and charts | drew_levinson | macOS, Windows | [store](https://www.raycast.com/drew_levinson/schwab-portfolio) |
+| [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) | 2 | View your Charles Schwab brokerage accounts, positions, and charts | drew_levinson | macOS, Windows | [store](https://www.raycast.com/drew_levinson/schwab-portfolio) |

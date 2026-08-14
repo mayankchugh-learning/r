@@ -1,15 +1,15 @@
 # Yukai
 
-11 extensions · 9,377 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
+11 extensions · 9,381 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,586 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
-| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 1,857 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
-| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,518 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
-| [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 615 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
+| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 1,858 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
+| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,519 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
+| [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 616 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [Curator Bio](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) | 56 | Control your curator.bio account from Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/curator-bio) |
 
 ## Security (1)
@@ -23,7 +23,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 517 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
-| [Agent Client Protocol](https://github.com/raycast/extensions/tree/main/extensions/agent-client-protocol) | 465 | Connect to AI agents via Agent Client Protocol for coding assistance | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/agent-client-protocol) |
+| [Agent Client Protocol](https://github.com/raycast/extensions/tree/main/extensions/agent-client-protocol) | 466 | Connect to AI agents via Agent Client Protocol for coding assistance | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/agent-client-protocol) |
 
 ## Uncategorized (1)
 

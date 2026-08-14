@@ -26,7 +26,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Coinpaprika](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) | 773 | Cryptocurrency Prices & Statistics | gumbleliks | macOS | [store](https://www.raycast.com/gumbleliks/coinpaprika) |
-| [NFT Search](https://github.com/raycast/extensions/tree/main/extensions/nft-search) | 123 | Seraching NFT real-time floor price and info by NFT collection name | Glaze | macOS | [store](https://www.raycast.com/Glaze/nft-search) |
+| [NFT Search](https://github.com/raycast/extensions/tree/main/extensions/nft-search) | 124 | Seraching NFT real-time floor price and info by NFT collection name | Glaze | macOS | [store](https://www.raycast.com/Glaze/nft-search) |
 | [Base Stats](https://github.com/raycast/extensions/tree/main/extensions/base-stats) | 42 | View current gas price and stats for Base | Osprey | macOS | [store](https://www.raycast.com/Osprey/base-stats) |
 | [BONK Price](https://github.com/raycast/extensions/tree/main/extensions/bonk-price) | 22 | Shows the price of the BONK token on your macOS menu bar | AnishDe12020 | macOS | [store](https://www.raycast.com/AnishDe12020/bonk-price) |
 

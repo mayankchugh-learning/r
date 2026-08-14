@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) | 8,055 | Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. | chrahe | macOS | [store](https://www.raycast.com/chrahe/airpods-noise-control) |
+| [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) | 8,056 | Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. | chrahe | macOS | [store](https://www.raycast.com/chrahe/airpods-noise-control) |
 | [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) | 1,434 | Lookup chord diagrams for guitar | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/guitar-chords) |
 | [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,195 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
 | [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,123 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
@@ -16,4 +16,4 @@
 | [Voice-to-Text for Windows](https://github.com/raycast/extensions/tree/main/extensions/voice-to-text-windows) | 67 | Record speech from your microphone, transcribe it with OpenAI Whisper, and clean it up with AI | rennesis | Windows | [store](https://www.raycast.com/rennesis/voice-to-text-windows) |
 | [Sound Search](https://github.com/raycast/extensions/tree/main/extensions/sound-search) | 65 | Search for sounds across multiple services | soundraw (org) | macOS | [store](https://www.raycast.com/soundraw/sound-search) |
 | [Harmonic](https://github.com/raycast/extensions/tree/main/extensions/harmonic) | 43 | Search notes and chords, see their frequencies, and play them as tones | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/harmonic) |
-| [AI Voice Studio](https://github.com/raycast/extensions/tree/main/extensions/ai-voice-studio) | 22 | Read and generate speech from Raycast with Alibaba Cloud Qwen-TTS, Xiaomi MiMo, and OpenAI voices, speed control, and focused provider defaults. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/ai-voice-studio) |
+| [AI Voice Studio](https://github.com/raycast/extensions/tree/main/extensions/ai-voice-studio) | 23 | Read and generate speech from Raycast with Alibaba Cloud Qwen-TTS, Xiaomi MiMo, and OpenAI voices, speed control, and focused provider defaults. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/ai-voice-studio) |

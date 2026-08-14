@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,610 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
+| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,624 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
 | [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 5,690 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
 | [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,194 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
 | [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 2,775 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
@@ -17,7 +17,7 @@
 | [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 929 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
 | [Chakra UI Documentation](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) | 676 | Provide quick links to the Chakra UI component documentation. | pgvr | macOS | [store](https://www.raycast.com/pgvr/chakra-ui-docs) |
 | [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 661 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
-| [Supernova](https://github.com/raycast/extensions/tree/main/extensions/supernova) | 613 | Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in yo… | JiriTrecak | macOS | [store](https://www.raycast.com/JiriTrecak/supernova) |
+| [Supernova](https://github.com/raycast/extensions/tree/main/extensions/supernova) | 614 | Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in yo… | JiriTrecak | macOS | [store](https://www.raycast.com/JiriTrecak/supernova) |
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 591 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [Laravel Nova](https://github.com/raycast/extensions/tree/main/extensions/laravel-nova) | 343 | Laravel Nova Docs | plank-dev | macOS | [store](https://www.raycast.com/plank-dev/laravel-nova) |
 | [React Native Directory](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) | 311 | A searchable and filterable directory of React Native libraries. | shubh_porwal | macOS | [store](https://www.raycast.com/shubh_porwal/react-native-directory) |
