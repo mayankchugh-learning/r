@@ -6,13 +6,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 246,399 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 246,442 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
 | [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,883 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
-| [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,429 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
+| [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,431 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,362 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
-| [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,846 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
+| [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,847 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
 | [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,077 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
-| [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) | 3,565 | View diagnostic information about your network to help figure out why it's playing up. | hmarr | macOS | [store](https://www.raycast.com/hmarr/network-diagnostics) |
+| [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) | 3,567 | View diagnostic information about your network to help figure out why it's playing up. | hmarr | macOS | [store](https://www.raycast.com/hmarr/network-diagnostics) |
 | [NixPkgs Search](https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search) | 3,070 | Query NixPkgs like search.nixos.org | aiotter | macOS, Windows | [store](https://www.raycast.com/aiotter/nixpkgs-search) |
 | [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,037 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 2,872 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
@@ -20,7 +20,7 @@
 | [Node.js Evaluate](https://github.com/raycast/extensions/tree/main/extensions/node-js-evaluate) | 2,567 | Evaluate Javascript (Node.js) code on-the-fly | Selfish | macOS | [store](https://www.raycast.com/Selfish/node-js-evaluate) |
 | [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,420 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,391 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
-| [Naver Search](https://github.com/raycast/extensions/tree/main/extensions/naver-search) | 2,127 | Naver search extension for Raycast | magneto | macOS | [store](https://www.raycast.com/magneto/naver-search) |
+| [Naver Search](https://github.com/raycast/extensions/tree/main/extensions/naver-search) | 2,128 | Naver search extension for Raycast | magneto | macOS | [store](https://www.raycast.com/magneto/naver-search) |
 | [NeteaseMusic](https://github.com/raycast/extensions/tree/main/extensions/netease-music) | 2,104 | Control the NeteaseMusic app with your keyboard | chyroc | macOS | [store](https://www.raycast.com/chyroc/netease-music) |
 | [Node Version Manager](https://github.com/raycast/extensions/tree/main/extensions/node-version-manager) | 1,637 | Control your node versions with ease | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/node-version-manager) |
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,387 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |

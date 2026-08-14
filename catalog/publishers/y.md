@@ -7,8 +7,8 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [yaeda](https://www.raycast.com/yaeda) | 1 | 277 | **Productivity:** [Inkdrop](https://github.com/raycast/extensions/tree/main/extensions/inkdrop) |
-| [yakitrak](https://www.raycast.com/yakitrak) | 2 | 10,333 | **Productivity:** [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb)<br>**Security:** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) |
-| [yalishanda](https://www.raycast.com/yalishanda) | 1 | 5,395 | **Uncategorized:** [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) |
+| [yakitrak](https://www.raycast.com/yakitrak) | 2 | 10,336 | **Productivity:** [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb)<br>**Security:** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) |
+| [yalishanda](https://www.raycast.com/yalishanda) | 1 | 5,404 | **Uncategorized:** [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) |
 | [Yamen](https://www.raycast.com/Yamen) | 2 | 867 | **Media:** [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager)<br>**Communication:** [Sort Mentions](https://github.com/raycast/extensions/tree/main/extensions/sort-mentions) |
 | [yang_monch](https://www.raycast.com/yang_monch) | 1 | 348 | **Design Tools:** [Golden Ratio](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) |
 | [yangxy](https://www.raycast.com/yangxy) | 2 | 8,252 | **Developer Tools:** [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter), [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) |
@@ -29,7 +29,7 @@
 | [yigitefe](https://www.raycast.com/yigitefe) | 1 | 26 | **Applications:** [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) |
 | [ymunsch8](https://www.raycast.com/ymunsch8) | 1 | 20 | **Developer Tools:** [Flutter Utils](https://github.com/raycast/extensions/tree/main/extensions/flutter-utils) |
 | [Yoda](https://www.raycast.com/Yoda) | 1 | 1,027 | **Productivity:** [CanvasCast](https://github.com/raycast/extensions/tree/main/extensions/canvascast) |
-| [yoerivd](https://www.raycast.com/yoerivd) | 1 | 332 | **Media:** [Music Assistant Controls](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) |
+| [yoerivd](https://www.raycast.com/yoerivd) | 1 | 334 | **Media:** [Music Assistant Controls](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) |
 | [yohann84l](https://www.raycast.com/yohann84l) | 1 | 428 | **Productivity:** [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) |
 | [yonbergman](https://www.raycast.com/yonbergman) | 2 | 3,520 | **Data:** [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin)<br>**Productivity:** [Mirror Displays](https://github.com/raycast/extensions/tree/main/extensions/mirror-displays) |
 | [yosy2010](https://www.raycast.com/yosy2010) | 1 | 556 | **Productivity:** [Taskwarrior](https://github.com/raycast/extensions/tree/main/extensions/raytaskwarrior) |
@@ -38,15 +38,15 @@
 | [yoyoyeti](https://www.raycast.com/yoyoyeti) | 1 | 1,003 | **Productivity:** [YubiKey Code](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) |
 | [yshalsager](https://www.raycast.com/yshalsager) | 1 | 6 | **Productivity:** [Quran Quick Insert](https://github.com/raycast/extensions/tree/main/extensions/quran-quick-insert) |
 | [ysrazsingh](https://www.raycast.com/ysrazsingh) | 1 | 17 | **Productivity:** [TickTick+](https://github.com/raycast/extensions/tree/main/extensions/ticktick-plus) |
-| [yuercl](https://www.raycast.com/yuercl) | 2 | 35,210 | **Productivity:** [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa)<br>**Developer Tools:** [Bitbucket Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/bitbucket-search-self-hosted) |
+| [yuercl](https://www.raycast.com/yuercl) | 2 | 35,219 | **Productivity:** [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa)<br>**Developer Tools:** [Bitbucket Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/bitbucket-search-self-hosted) |
 | [yufeikang](https://www.raycast.com/yufeikang) | 1 | 1,232 | **Developer Tools:** [Oh My Zsh Git Alias](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) |
-| [yug2005](https://www.raycast.com/yug2005) | 4 | 46,511 | **Applications:** [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail)<br>**Design Tools:** [Icons8](https://github.com/raycast/extensions/tree/main/extensions/icons8), [React Icons](https://github.com/raycast/extensions/tree/main/extensions/react-icons)<br>**Productivity:** [Random US Phone Number](https://github.com/raycast/extensions/tree/main/extensions/random-us-phone-number) |
+| [yug2005](https://www.raycast.com/yug2005) | 4 | 46,515 | **Applications:** [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail)<br>**Design Tools:** [Icons8](https://github.com/raycast/extensions/tree/main/extensions/icons8), [React Icons](https://github.com/raycast/extensions/tree/main/extensions/react-icons)<br>**Productivity:** [Random US Phone Number](https://github.com/raycast/extensions/tree/main/extensions/random-us-phone-number) |
 | [yugveer28](https://www.raycast.com/yugveer28) | 1 | 3 | **Applications:** [ETS2/ATS Profiles](https://github.com/raycast/extensions/tree/main/extensions/ets2-ats-profiles) |
-| [Yukai](./id/yukai.md) | 11 | 9,381 | [see all 11 →](./id/yukai.md) |
+| [Yukai](./id/yukai.md) | 11 | 9,383 | [see all 11 →](./id/yukai.md) |
 | [yukukotani](https://www.raycast.com/yukukotani) | 1 | 141 | **Documentation:** [Backstage](https://github.com/raycast/extensions/tree/main/extensions/backstage) |
 | [yuri](https://www.raycast.com/yuri) | 1 | 70 | **Developer Tools:** [Paperspace](https://github.com/raycast/extensions/tree/main/extensions/paperspace) |
 | [yusifaliyevpro](https://www.raycast.com/yusifaliyevpro) | 1 | 9 | **Web:** [AzTU LMS](https://github.com/raycast/extensions/tree/main/extensions/aztu-lms) |
 | [yusoufu](https://www.raycast.com/yusoufu) | 1 | 5 | **Design Tools:** [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) |
 | [yusuf_akdeniz](https://www.raycast.com/yusuf_akdeniz) | 1 | 584 | **Media:** [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) |
 | [yuta24](https://www.raycast.com/yuta24) | 1 | 571 | **Developer Tools:** [Xcode Cloud](https://github.com/raycast/extensions/tree/main/extensions/xcode-cloud) |
-| [yz3440](https://www.raycast.com/yz3440) | 1 | 9,069 | **Web:** [Library Genesis](https://github.com/raycast/extensions/tree/main/extensions/library-genesis) |
+| [yz3440](https://www.raycast.com/yz3440) | 1 | 9,071 | **Web:** [Library Genesis](https://github.com/raycast/extensions/tree/main/extensions/library-genesis) |

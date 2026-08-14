@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-14 — upstream `1dc4430cdf`
+
+**Added (1):** [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub)
+
 ## 2026-08-14 — upstream `bd0d2972c3`
 
 **Updated (1):** [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window)

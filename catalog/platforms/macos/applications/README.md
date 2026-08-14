@@ -1,6 +1,6 @@
 # macOS · Applications
 
-360 extensions · [← macOS](../README.md)
+361 extensions · [← macOS](../README.md)
 
 ## Work & Knowledge Apps
 
@@ -27,7 +27,7 @@
 | [Automation & Input Apps](./automation-input-apps.md) | 10 |
 | [Network & Connection Apps](./network-connection-apps.md) | 10 |
 | [Analytics & Stats Apps](./analytics-stats-apps.md) | 4 |
-| [Window Managers & Utilities](./window-managers-utilities.md) | 9 |
+| [Window Managers & Utilities](./window-managers-utilities.md) | 10 |
 
 ## Everyday Apps
 

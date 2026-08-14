@@ -1,8 +1,8 @@
 # Applications
 
-371 extensions · [← all categories](../README.md)
+372 extensions · [← all categories](../README.md)
 
-macOS: 360 · Windows: 82
+macOS: 361 · Windows: 82
 
 ## Work & Knowledge Apps
 
@@ -29,7 +29,7 @@ macOS: 360 · Windows: 82
 | [Automation & Input Apps](./automation-input-apps.md) | 10 |
 | [Network & Connection Apps](./network-connection-apps.md) | 11 |
 | [Analytics & Stats Apps](./analytics-stats-apps.md) | 4 |
-| [Window Managers & Utilities](./window-managers-utilities.md) | 10 |
+| [Window Managers & Utilities](./window-managers-utilities.md) | 11 |
 
 ## Everyday Apps
 
