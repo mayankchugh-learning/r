@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,099,516 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,099,521 |
 | 2 | [raycast](./id/raycast.md) | 11 | 784,433 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,620 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 494,429 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,623 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 494,435 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 438,014 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 432,551 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 405,421 |
@@ -311,7 +311,7 @@
 | 301 | [okooo5km](https://www.raycast.com/okooo5km) | 1 | 3,569 |
 | 302 | [yonbergman](https://www.raycast.com/yonbergman) | 2 | 3,521 |
 | 303 | [Theon](https://www.raycast.com/Theon) | 1 | 3,493 |
-| 304 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,484 |
+| 304 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,486 |
 | 305 | [praveenjuge](https://www.raycast.com/praveenjuge) | 4 | 3,465 |
 | 306 | [niemtec](https://www.raycast.com/niemtec) | 2 | 3,457 |
 | 307 | [RenderCoder](https://www.raycast.com/RenderCoder) | 1 | 3,397 |

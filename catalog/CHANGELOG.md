@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-15 — upstream `929997e61c`
+
+**Updated (1):** [Twos](https://github.com/raycast/extensions/tree/main/extensions/twos)
+
 ## 2026-08-15 — upstream `b4b74217a3`
 
 **Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
