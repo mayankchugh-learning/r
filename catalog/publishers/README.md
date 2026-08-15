@@ -135,7 +135,7 @@
 | 125 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 14,345 |
 | 126 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 14,037 |
 | 127 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 13,932 |
-| 128 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 13,913 |
+| 128 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 13,914 |
 | 129 | [tailscale](https://www.raycast.com/tailscale) | 1 | 13,910 |
 | 130 | [tbrown](https://www.raycast.com/tbrown) | 1 | 13,624 |
 | 131 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 13,589 |

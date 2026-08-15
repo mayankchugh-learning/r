@@ -109,7 +109,7 @@
 | 99 | [isfeng](https://www.raycast.com/isfeng) | 3 | 35,710 |
 | 100 | [hmarr](https://www.raycast.com/hmarr) | 3 | 22,778 |
 | 101 | [ilian](https://www.raycast.com/ilian) | 3 | 15,973 |
-| 102 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 13,913 |
+| 102 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 13,914 |
 | 103 | [fernando_barrios](https://www.raycast.com/fernando_barrios) | 3 | 12,225 |
 | 104 | [Quentin23Soleil](https://www.raycast.com/Quentin23Soleil) | 3 | 10,276 |
 | 105 | [andresmorelos](https://www.raycast.com/andresmorelos) | 3 | 9,691 |

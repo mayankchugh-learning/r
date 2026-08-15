@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "50a73d4e40a2987de157b6e307cf3b962e1ddd06",
-  "generatedAt": "2026-08-15T05:26:40.046Z",
-  "downloadsRefreshedAt": "2026-08-15T05:26:39.057Z",
+  "commit": "b4b74217a3504221f0868712bcde48921d908955",
+  "generatedAt": "2026-08-15T05:28:34.410Z",
+  "downloadsRefreshedAt": "2026-08-15T05:28:33.296Z",
   "count": 3179,
   "extensions": [
     {
@@ -680,7 +680,7 @@
       "description": "Monitor AI coding agent usage across Amp, Antigravity, Claude, ClinePass, Codex, Copilot, Cursor, DeepSeek, Droid, Gemini, Grok, Kimi, MiniMax, OpenCode Go, Synthetic and z.ai",
       "author": "thuggyduck",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Productivity"
       ],
@@ -691,7 +691,7 @@
       ],
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
-      "treeSha": "8eb203df97d2c4718dae8b7ad0cfc163cb9ebb01",
+      "treeSha": "dc4f0e63fb6427ef2a59c833e4a0e157015fe2f0",
       "downloads": 2540
     },
     {
@@ -66193,7 +66193,7 @@
       "store": "https://www.raycast.com/ewgenius/zed-recent-projects",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects",
       "treeSha": "692de8f691b03c8e1ca846eb2ba5bf66a47cf2bd",
-      "downloads": 13474
+      "downloads": 13475
     },
     {
       "dir": "zefix",
