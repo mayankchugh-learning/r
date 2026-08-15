@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover) | 24,091 | Add selected files or clipboard content to Dropover | jag-k | macOS | [store](https://www.raycast.com/jag-k/dropover) |
+| [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover) | 24,096 | Add selected files or clipboard content to Dropover | jag-k | macOS | [store](https://www.raycast.com/jag-k/dropover) |
 | [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) | 880 | Compare or open content from Raycast in Kaleidoscope. | leitmotif (org) | macOS | [store](https://www.raycast.com/leitmotif/kaleidoscope) |
 | [Lark AppLink](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) | 663 | Open Lark AppLink | chyroc | macOS | [store](https://www.raycast.com/chyroc/lark-applink) |
-| [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) | 635 | Create Feishu/Lark online document quickly using native Feishu/Lark URLs. | rokcso | macOS | [store](https://www.raycast.com/rokcso/feishu-document-creator) |
+| [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) | 636 | Create Feishu/Lark online document quickly using native Feishu/Lark URLs. | rokcso | macOS | [store](https://www.raycast.com/rokcso/feishu-document-creator) |
 | [Searchcaster](https://github.com/raycast/extensions/tree/main/extensions/searchcaster) | 251 | Search for content on Farcaster, a sufficiently decentralized social network. | gregskril | macOS | [store](https://www.raycast.com/gregskril/searchcaster) |
 | [Quick AirDrop](https://github.com/raycast/extensions/tree/main/extensions/quick-airdrop) | 170 | Trigger the macOS AirDrop sheet for files, URLs, and clipboard contents — straight from Raycast | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/quick-airdrop) |
 | [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) | 107 | Browse and search Contentful content and assets library | ewgenius | macOS | [store](https://www.raycast.com/ewgenius/contentful) |

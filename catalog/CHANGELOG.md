@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-15 — upstream `d38f0bb162`
+
+**Updated (1):** [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music)
+
 ## 2026-08-14 — upstream `a369ca9784`
 
 **Added (1):** [Metals Prices](https://github.com/raycast/extensions/tree/main/extensions/metals-prices)

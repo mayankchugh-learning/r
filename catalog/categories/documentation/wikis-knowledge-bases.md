@@ -74,7 +74,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,885 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
+| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,886 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,624 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
 | [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,082 | A simple emoji legend to help convey intention and added meaning in code review comments. | rus64 | macOS | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
 | [GitHub CLI Manual](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) | 954 | Raycast extension to search GitHub CLI Manual. | demartini | macOS | [store](https://www.raycast.com/demartini/github-cli-manual) |

@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,828 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,524 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,834 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,526 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 10,997 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
-| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,748 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
-| [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,494 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
+| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,754 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
+| [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,495 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
 | [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,874 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
 | [Transmission](https://github.com/raycast/extensions/tree/main/extensions/transmission) | 3,187 | View and manage torrents directly from Raycast. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/transmission) |
 | [Elgato Key Light](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) | 2,983 | Control your Elgato Key Lights with ease | thomas | macOS | [store](https://www.raycast.com/thomas/elgato-key-light) |
@@ -19,9 +19,9 @@
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,872 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
 | [Slackmojis](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) | 1,309 | An unofficial directory of the best custom Slack emojis from slackmojis.com | timoransky | macOS | [store](https://www.raycast.com/timoransky/slackmojis) |
 | [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,127 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
-| [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 975 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
+| [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 976 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
 | [IPTV](https://github.com/raycast/extensions/tree/main/extensions/iptv) | 938 | Search online IPTV channels | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/iptv) |
-| [Matter](https://github.com/raycast/extensions/tree/main/extensions/matter) | 772 | View your saved for later articles in your Matter account. | zan | macOS | [store](https://www.raycast.com/zan/matter) |
+| [Matter](https://github.com/raycast/extensions/tree/main/extensions/matter) | 773 | View your saved for later articles in your Matter account. | zan | macOS | [store](https://www.raycast.com/zan/matter) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 747 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) | 714 | Real-Debrid client for Raycast NOT AN OFFICIAL CLIENT | Yamen | macOS | [store](https://www.raycast.com/Yamen/real-debrid-manager) |
 | [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 714 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,439 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,442 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 6,038 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
 | [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,397 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
 | [Paperless-ngx](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) | 891 | Search Paperless-ngx for documents and upload | damdam | macOS | [store](https://www.raycast.com/damdam/paperless-ngx) |
@@ -16,5 +16,5 @@
 | [Prowlarr](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) | 303 | Search and add to download clients with Prowlarr | elcaten | macOS | [store](https://www.raycast.com/elcaten/prowlarr) |
 | [Cloudinary](https://github.com/raycast/extensions/tree/main/extensions/cloudinary) | 229 | Search assets and upload your clipboard to your Cloudinary account | colbyfayock | macOS | [store](https://www.raycast.com/colbyfayock/cloudinary) |
 | [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 225 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
-| [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | 134 | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |
+| [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | 135 | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |
 | [Razuna - Add and Browse Files in Razuna](https://github.com/raycast/extensions/tree/main/extensions/razuna) | 17 | Upload, search, and browse files in your Razuna workspace directly from Raycast. | TheNitai | macOS | [store](https://www.raycast.com/TheNitai/razuna) |

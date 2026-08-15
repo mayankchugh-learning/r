@@ -88,8 +88,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 239,025 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,690 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 239,040 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,691 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,135 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 22 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |
 | [Sadaqah Box](https://github.com/raycast/extensions/tree/main/extensions/sadaqah-box) | 7 | Manage your charity boxes and sadaqahs | emircanerkul | macOS, Windows | [store](https://www.raycast.com/emircanerkul/sadaqah-box) |

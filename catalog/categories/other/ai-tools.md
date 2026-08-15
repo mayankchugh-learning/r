@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 239,025 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 239,040 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts) | 2,149 | Convert selected or copied text to lifelike speech using ElevenLabs' premium AI voices | lachie_james | macOS | [store](https://www.raycast.com/lachie_james/elevenlabs-tts) |
 | [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,046 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,584 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
@@ -13,7 +13,7 @@
 | [OpenAI Speak](https://github.com/raycast/extensions/tree/main/extensions/openai-speak) | 1,282 | Uses the OpenAI TTS API to speak the selected text. | jian_chao_man | macOS | [store](https://www.raycast.com/jian_chao_man/openai-speak) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 837 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 727 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |
-| [Charming ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/charming-chatgpt) | 671 | Make chatGPT x charming x Raycast all together | KittenYang | macOS | [store](https://www.raycast.com/KittenYang/charming-chatgpt) |
+| [Charming ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/charming-chatgpt) | 672 | Make chatGPT x charming x Raycast all together | KittenYang | macOS | [store](https://www.raycast.com/KittenYang/charming-chatgpt) |
 | [Corcel AI](https://github.com/raycast/extensions/tree/main/extensions/corcel) | 448 | Use AI Chat and Image Generation | corcel.io | macOS | [store](https://www.raycast.com/corcel.io/corcel) |
 | [Mood Tracker](https://github.com/raycast/extensions/tree/main/extensions/mood) | 435 | Track your mood, view glanceable charts and get insights with Raycast AI | vyacheslav | macOS | [store](https://www.raycast.com/vyacheslav/mood) |
 | [Time Teller](https://github.com/raycast/extensions/tree/main/extensions/time-teller) | 299 | The Time Teller extension uses AI to transcribe human-friendly language into a start and end date and then converts the time frame into different units. | ickas | macOS | [store](https://www.raycast.com/ickas/time-teller) |

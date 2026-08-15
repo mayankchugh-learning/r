@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) | 6,849 | List, search and run shortcuts for different applications | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/shortcuts-search) |
-| [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 5,584 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
+| [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 5,585 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
 | [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,520 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
 | [Screen Sharing Recents](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) | 1,261 | Adds shortcuts to recent screen sharing locations | bix | macOS | [store](https://www.raycast.com/bix/screen-sharing-recents) |
 | [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) | 1,197 | Runs configurable application shortcut depending on the frontmost application. | cyxn | macOS | [store](https://www.raycast.com/cyxn/universal-commands) |
@@ -30,7 +30,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) | 2,064 | An extension for the lazy typer. Add any text you type on a regular basis into commands. Give each command an alias and a hotkey, and save time on typing. | yaronschwimmer | macOS, Windows | [store](https://www.raycast.com/yaronschwimmer/typer) |
+| [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) | 2,065 | An extension for the lazy typer. Add any text you type on a regular basis into commands. Give each command an alias and a hotkey, and save time on typing. | yaronschwimmer | macOS, Windows | [store](https://www.raycast.com/yaronschwimmer/typer) |
 | [Morning Coffee](https://github.com/raycast/extensions/tree/main/extensions/morning-coffee) | 888 | Morning Coffee is your Raycast extension with which you can easily organize routine web readings. Organize the websites you want to open simultaneously in your… | oliverjanssen | macOS | [store](https://www.raycast.com/oliverjanssen/morning-coffee) |
 | [Quick Quit](https://github.com/raycast/extensions/tree/main/extensions/quick-quit) | 447 | A Raycast extension to instantly quit custom groups of applications. Create custom categories and quit them with a quicklink or a dedicated hotkey. | sriramHQ | macOS | [store](https://www.raycast.com/sriramHQ/quick-quit) |
 | [Figma Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/figma-link-cleaner) | 48 | Clean and shorten Figma URLs instantly. Removes tracking parameters, file slugs, and creates ultra-short fgma.cc links with one hotkey. | iamshubhransh | macOS | [store](https://www.raycast.com/iamshubhransh/figma-link-cleaner) |
@@ -39,7 +39,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 180,933 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
+| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 180,953 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,177 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
 | [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 8,584 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
 | [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 8,474 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |

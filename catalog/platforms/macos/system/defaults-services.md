@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 255,207 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,103 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 255,233 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,105 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
 | [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,821 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Toggle Fn](https://github.com/raycast/extensions/tree/main/extensions/toggle-fn) | 1,555 | Toggle the "Use all F1, F2, etc. keys as standard function keys" option in macOS System Preferences. | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/toggle-fn) |
 | [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 919 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |

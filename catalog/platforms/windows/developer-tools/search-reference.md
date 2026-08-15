@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 38,649 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
-| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 26,619 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
-| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 18,205 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
-| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,579 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
-| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 13,468 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
+| [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 38,653 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
+| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 26,622 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
+| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 18,206 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
+| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,581 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
+| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 13,471 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
 | [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr) | 9,933 | Search TLDR command cheatsheets. | pomdtr | macOS, Windows | [store](https://www.raycast.com/pomdtr/tldr) |
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,658 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [NixPkgs Search](https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search) | 3,070 | Query NixPkgs like search.nixos.org | aiotter | macOS, Windows | [store](https://www.raycast.com/aiotter/nixpkgs-search) |

@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 106,269 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
-| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 11,270 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
+| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 106,285 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
+| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 11,272 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
 | [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) | 512 | Quickly create records in Capture with Raycast. | syhchen | macOS | [store](https://www.raycast.com/syhchen/capture) |
-| [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 59 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
+| [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 60 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 35 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [Better Screenshoot](https://github.com/raycast/extensions/tree/main/extensions/better-screenshoot) | 22 | Capture your screen with a built-in editor from Raycast. | sriverogalan | macOS | [store](https://www.raycast.com/sriverogalan/better-screenshoot) |
 | [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) | 3 | Capture, translate, and manage screenshots with ScreenLex. | chunkithwang | macOS | [store](https://www.raycast.com/chunkithwang/screenlex) |
@@ -33,9 +33,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,232 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
-| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 4,731 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
-| [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 870 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,250 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 4,732 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
+| [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 871 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
 | [Threads Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/threads-video-downloader) | 317 | Download videos from Threads with ease | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/threads-video-downloader) |
 
 ## General

@@ -35,8 +35,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 180,933 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
-| [GitHub Repository Search](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) | 15,572 | Search repositories on GitHub and open previously visited ones faster. | thomas | macOS | [store](https://www.raycast.com/thomas/github-repository-search) |
+| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 180,953 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
+| [GitHub Repository Search](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) | 15,573 | Search repositories on GitHub and open previously visited ones faster. | thomas | macOS | [store](https://www.raycast.com/thomas/github-repository-search) |
 | [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 8,474 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
 | [GitHub Gist](https://github.com/raycast/extensions/tree/main/extensions/github-gist) | 5,313 | Create, search and display GitHub gists. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/github-gist) |
 | [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,316 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
@@ -59,7 +59,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Gitmoji Search](https://github.com/raycast/extensions/tree/main/extensions/gitmoji) | 4,952 | Gitmoji is an emoji guide for your commit messages | ricoberger | macOS, Windows | [store](https://www.raycast.com/ricoberger/gitmoji) |
-| [Conventional Commits](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) | 1,571 | Provides a list of conventional commits prefixes and descriptions that can be inserted into your active window as well as example of how messages should be str… | niemtec | macOS | [store](https://www.raycast.com/niemtec/conventional-commits) |
+| [Conventional Commits](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) | 1,572 | Provides a list of conventional commits prefixes and descriptions that can be inserted into your active window as well as example of how messages should be str… | niemtec | macOS | [store](https://www.raycast.com/niemtec/conventional-commits) |
 | [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator) | 555 | Must have extension for any developer! | rokartur | macOS | [store](https://www.raycast.com/rokartur/commit-message-generator) |
 | [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) | 68 | Explore your Grafbase projects, branches, deployments, and commit history. | grafbase (org) | macOS | [store](https://www.raycast.com/grafbase/grafbase) |
 

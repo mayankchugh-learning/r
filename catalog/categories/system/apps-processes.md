@@ -20,8 +20,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 663,377 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 104,557 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 663,551 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 104,564 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 363 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) | 61 | See what's burning your CPU and spinning your fan | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/heatcheck) |
 
@@ -29,9 +29,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 44,442 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
-| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 30,301 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
-| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,035 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
+| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 44,452 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
+| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 30,314 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
+| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,036 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
 | [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,560 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 | [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp) | 4,104 | Search Setapp apps | lardissone | macOS | [store](https://www.raycast.com/lardissone/setapp) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,629 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
@@ -55,5 +55,5 @@
 | [App Tag Manager](https://github.com/raycast/extensions/tree/main/extensions/app-tag-manager) | 139 | Organize and search macOS applications with tags | zaincheung | macOS | [store](https://www.raycast.com/zaincheung/app-tag-manager) |
 | [Pivot](https://github.com/raycast/extensions/tree/main/extensions/pivot) | 41 | Bulk-change the default macOS app for many file extensions at once. | codythatsmee | macOS | [store](https://www.raycast.com/codythatsmee/pivot) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 38 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
+| [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller) | 3 | List installed software and batch uninstall it through BC Uninstaller from Raycast | sansaxena789 | Windows | [store](https://www.raycast.com/sansaxena789/bcuninstaller) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 3 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |
-| [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller) | 2 | List installed software and batch uninstall it through BC Uninstaller from Raycast | sansaxena789 | Windows | [store](https://www.raycast.com/sansaxena789/bcuninstaller) |

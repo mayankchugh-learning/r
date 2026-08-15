@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,374 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,375 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,773 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,878 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
 | [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,613 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
@@ -17,7 +17,7 @@
 | [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 426 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 336 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 | [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) | 167 | Search and manage books and lists. | hazelhedmine | macOS | [store](https://www.raycast.com/hazelhedmine/hardcover) |
-| [Gemini TTS](https://github.com/raycast/extensions/tree/main/extensions/gemini-tts) | 54 | Read selected text aloud with Gemini TTS. Supports Gemini 3.1 Flash TTS Preview plus Gemini 2.5 Flash and Pro Preview TTS. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/gemini-tts) |
+| [Gemini TTS](https://github.com/raycast/extensions/tree/main/extensions/gemini-tts) | 55 | Read selected text aloud with Gemini TTS. Supports Gemini 3.1 Flash TTS Preview plus Gemini 2.5 Flash and Pro Preview TTS. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/gemini-tts) |
 | [Doubao TTS](https://github.com/raycast/extensions/tree/main/extensions/doubao-tts) | 46 | Read selected text aloud using Volcengine Doubao TTS with 160+ Chinese and English voices | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/doubao-tts) |
 | [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) | 38 | Read the latest news of Thrasher Magazine | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/thrasher-magazine) |
 | [CC0-LIB - Browse CC0 Content](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) | 29 | Browse library of CC0 content | 0xN1 | macOS | [store](https://www.raycast.com/0xN1/cc0-lib) |

@@ -10,17 +10,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 436,771 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
-| [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 134,344 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
-| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 90,297 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
-| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,724 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
-| [Google Maps Search](https://github.com/raycast/extensions/tree/main/extensions/google-maps-search) | 45,791 | Quickly search Google Maps or get directions. | ratoru | macOS, Windows | [store](https://www.raycast.com/ratoru/google-maps-search) |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 41,936 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) | 35,896 | Search your Raindrop.io bookmarks | lardissone | macOS, Windows | [store](https://www.raycast.com/lardissone/raindrop-io) |
-| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 26,619 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
-| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 18,205 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
+| [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 436,825 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
+| [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 134,351 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
+| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 90,310 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
+| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,729 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
+| [Google Maps Search](https://github.com/raycast/extensions/tree/main/extensions/google-maps-search) | 45,799 | Quickly search Google Maps or get directions. | ratoru | macOS, Windows | [store](https://www.raycast.com/ratoru/google-maps-search) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 41,945 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) | 35,902 | Search your Raindrop.io bookmarks | lardissone | macOS, Windows | [store](https://www.raycast.com/lardissone/raindrop-io) |
+| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 26,622 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
+| [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 18,206 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
 | [Amazon Search](https://github.com/raycast/extensions/tree/main/extensions/amazon-search) | 9,987 | Amazon search with autosuggestions | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/amazon-search) |
-| [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) | 8,321 | Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/browser-tabs) |
+| [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) | 8,323 | Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/browser-tabs) |
 | [Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/thesaurus) | 7,983 | Search Merrian-Webster's Thesaurus | ABukSwienty | macOS, Windows | [store](https://www.raycast.com/ABukSwienty/thesaurus) |
 | [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,146 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
 | [Urban Dictionary Search](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) | 4,994 | Search on Urban Dictionary | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/urban-dictionary) |
@@ -31,7 +31,7 @@
 | [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,878 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
 | [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,383 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
 | [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router) | 1,260 | Local-first search with Kagi's !Bangs (similar to unduck.link with DuckDuckGo's !Bangs) | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/search-router) |
-| [Country Lookup](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) | 1,231 | Search and explore detailed data for every country: flags, capitals, languages, currencies, regions and more, powered by the REST Countries API. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/country-lookup) |
+| [Country Lookup](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) | 1,232 | Search and explore detailed data for every country: flags, capitals, languages, currencies, regions and more, powered by the REST Countries API. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/country-lookup) |
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,229 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 848 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
 | [CSS Tricks](https://github.com/raycast/extensions/tree/main/extensions/css-tricks) | 827 | Search on CSS Tricks | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/css-tricks) |
@@ -62,7 +62,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) | 5,668 | Identify and download fonts from any website. Disclaimer: FontSniper detects loaded browser fonts for testing/research only. Read more in README | riomadeit | macOS, Windows | [store](https://www.raycast.com/riomadeit/font-sniper) |
+| [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) | 5,671 | Identify and download fonts from any website. Disclaimer: FontSniper detects loaded browser fonts for testing/research only. Read more in README | riomadeit | macOS, Windows | [store](https://www.raycast.com/riomadeit/font-sniper) |
 
 ### Bookmarks & Read Later
 
@@ -77,11 +77,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 74,082 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
-| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,917 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,370 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
-| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,375 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
-| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 5,873 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
+| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 74,092 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
+| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,921 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,377 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,376 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
+| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 5,875 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,594 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 1,855 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,523 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
@@ -101,7 +101,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,333 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
+| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,334 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,291 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | 831 | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |
 | [Game Scout](https://github.com/raycast/extensions/tree/main/extensions/game-scout) | 28 | The ultimate gaming companion to track prices, deals, and free giveaways. | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/game-scout) |
@@ -136,8 +136,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,862 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
-| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,188 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,864 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,190 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) | 1,748 | Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon. | typefully (org) | macOS, Windows | [store](https://www.raycast.com/typefully/typefully) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 635 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 621 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
@@ -147,11 +147,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 239,025 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | 57,233 | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
-| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,859 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 239,040 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | 57,239 | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
+| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,861 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
 | [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) | 15,035 | Summarize any YouTube Video with AI. Choose between Raycast, OpenAI or Anthropic. You have to either be a Raycast Pro Member or have an OpenAI/Anthropic API Ke… | kom | Windows, macOS | [store](https://www.raycast.com/kom/summarize-youtube-video-with-ai) |
-| [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | 4,490 | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
+| [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | 4,491 | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
 | [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep) | 2,120 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | luolei | macOS, Windows | [store](https://www.raycast.com/luolei/karakeep) |
 | [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,511 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
 | [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,286 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
@@ -171,19 +171,19 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,245 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,358 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,240 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,255 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,363 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,241 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 15,664 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
-| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,748 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
-| [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) | 7,659 | Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl, hsla, oklch and shows the closest Tailwind CSS color. | nielsvanrijn | macOS, Windows | [store](https://www.raycast.com/nielsvanrijn/web-converter) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,690 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,754 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
+| [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) | 7,660 | Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl, hsla, oklch and shows the closest Tailwind CSS color. | nielsvanrijn | macOS, Windows | [store](https://www.raycast.com/nielsvanrijn/web-converter) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,691 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,611 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
 | [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) | 5,070 | Collection of scripts to improve YouTube browsing experience | sasivarnan | macOS, Windows | [store](https://www.raycast.com/sasivarnan/youtube-companion) |
 | [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,028 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
 | [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | 2,418 | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,408 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
-| [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) | 2,297 | Discover how many hours you need to beat a game. | Cronos87 | macOS, Windows | [store](https://www.raycast.com/Cronos87/howlongtobeat) |
+| [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) | 2,298 | Discover how many hours you need to beat a game. | Cronos87 | macOS, Windows | [store](https://www.raycast.com/Cronos87/howlongtobeat) |
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,120 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
 | [WordReference Dictionary Translation](https://github.com/raycast/extensions/tree/main/extensions/wordreference) | 1,066 | Quickly find a word translation using WordReference | Katatsu | macOS, Windows | [store](https://www.raycast.com/Katatsu/wordreference) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 747 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |

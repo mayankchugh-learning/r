@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,909 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
-| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,209 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
-| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 13,468 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 100,919 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,212 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
+| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 13,471 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
 | [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,569 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
 | [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 2,653 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
 | [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,351 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
@@ -18,7 +18,7 @@
 | [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 428 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
 | [Zeplin Project Search](https://github.com/raycast/extensions/tree/main/extensions/zeplin-project-search) | 276 | List and Search Zeplin Projects | dorukgunes | macOS | [store](https://www.raycast.com/dorukgunes/zeplin-project-raycast-extension) |
 | [Zoxide Git Projects](https://github.com/raycast/extensions/tree/main/extensions/zoxide-git-projects) | 250 | Allows the user to select git repositories found by filtering a zoxide query, then open them in an application of choice. | theherk | macOS | [store](https://www.raycast.com/theherk/zoxide-git-projects) |
-| [Zendesk — Search Support Center](https://github.com/raycast/extensions/tree/main/extensions/zendesk) | 244 | Search Zendesk support center for articles. | cpenned | macOS | [store](https://www.raycast.com/cpenned/zendesk) |
+| [Zendesk — Search Support Center](https://github.com/raycast/extensions/tree/main/extensions/zendesk) | 245 | Search Zendesk support center for articles. | cpenned | macOS | [store](https://www.raycast.com/cpenned/zendesk) |
 | [Zalgo Text Generator](https://github.com/raycast/extensions/tree/main/extensions/zalgo-text) | 234 | Translates given text to Zalgo text | petermiles | macOS | [store](https://www.raycast.com/petermiles/zalgo-text) |
 | [Zoo - Ask AIs with Your Prompt Library](https://github.com/raycast/extensions/tree/main/extensions/zoo) | 230 | Interact with AIs with your own Github Gist prompt library with ease | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/zoo) |
 | [Zero](https://github.com/raycast/extensions/tree/main/extensions/zero) | 217 | 0.email extension for Raycast | jlokos | macOS | [store](https://www.raycast.com/jlokos/zero) |
@@ -26,7 +26,7 @@
 | [Zerion](https://github.com/raycast/extensions/tree/main/extensions/zerion) | 148 | Browse Zerion from Raycast | imqdee | macOS | [store](https://www.raycast.com/imqdee/zerion) |
 | [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 122 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
 | [Zendesk — Admin](https://github.com/raycast/extensions/tree/main/extensions/zendesk-admin) | 67 | Perform Zendesk Admin functions and access quickly any entity in Zendesk from Raycast. | miguelcorderocollar | macOS, Windows | [store](https://www.raycast.com/miguelcorderocollar/zendesk-admin) |
-| [Zo](https://github.com/raycast/extensions/tree/main/extensions/zo-raycast) | 58 | Chat with Zo models, manage defaults, and review activity | skeletorjs | macOS | [store](https://www.raycast.com/skeletorjs/zo-raycast) |
+| [Zo](https://github.com/raycast/extensions/tree/main/extensions/zo-raycast) | 59 | Chat with Zo models, manage defaults, and review activity | skeletorjs | macOS | [store](https://www.raycast.com/skeletorjs/zo-raycast) |
 | [Zipline](https://github.com/raycast/extensions/tree/main/extensions/zipline) | 54 | Manage your Zipline uploads - browse, upload, and share files | treyg | macOS | [store](https://www.raycast.com/treyg/zipline) |
 | [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) | 52 | A Raycast extension that looks up companies in the Swiss national trade register | cmdr | macOS | [store](https://www.raycast.com/cmdr/zefix) |
 | [Zread.ai](https://github.com/raycast/extensions/tree/main/extensions/zread-ai) | 52 | Open zread.ai pages for GitHub repositories and browse trending repositories. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/zread-ai) |

@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,358 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
-| [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 15,853 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,831 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
-| [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,363 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,363 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 15,856 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,834 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,364 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [Refresh WiFi](https://github.com/raycast/extensions/tree/main/extensions/refresh-wifi) | 3,899 | Quickly turn your WiFi off and on again. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/refresh-wifi) |
-| [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) | 3,567 | View diagnostic information about your network to help figure out why it's playing up. | hmarr | macOS | [store](https://www.raycast.com/hmarr/network-diagnostics) |
+| [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) | 3,569 | View diagnostic information about your network to help figure out why it's playing up. | hmarr | macOS | [store](https://www.raycast.com/hmarr/network-diagnostics) |
 | [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,504 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
 | [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour) | 410 | Manage Bonjour services | that70schris | macOS | [store](https://www.raycast.com/that70schris/bonjour) |
 | [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer) | 265 | Lists and changes current network location on Mac. | rcouto | macOS | [store](https://www.raycast.com/rcouto/mac-network-location-changer) |

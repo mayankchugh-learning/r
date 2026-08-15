@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 51,946 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 51,949 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,194 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,240 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,901 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
-| [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,492 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
-| [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,363 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,241 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,905 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,493 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
+| [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,364 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,434 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
 | [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) | 3,615 | This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) | meguoe | macOS, Windows | [store](https://www.raycast.com/meguoe/ip-tools) |
 | [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,125 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |
