@@ -14,7 +14,7 @@
 | [Windmill](https://github.com/raycast/extensions/tree/main/extensions/windmill) | 144 | Windmill Extension to run workflows directly from Raycast | emiliobool | macOS | [store](https://www.raycast.com/emiliobool/windmill) |
 | [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | 18 | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
 | [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | 18 | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |
-| [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) | 8 | Search, view, and manage Temporal workflows from Raycast | applauselab | macOS | [store](https://www.raycast.com/applauselab/temporal) |
+| [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) | 9 | Search, view, and manage Temporal workflows from Raycast | applauselab | macOS | [store](https://www.raycast.com/applauselab/temporal) |
 
 ## Scripts ✦
 

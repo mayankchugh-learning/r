@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) | 34,704 | View 2FA codes from iMessage and Email | yuercl | macOS | [store](https://www.raycast.com/yuercl/imessage-2fa) |
-| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,102 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
+| [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) | 34,709 | View 2FA codes from iMessage and Email | yuercl | macOS | [store](https://www.raycast.com/yuercl/imessage-2fa) |
+| [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,103 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
 | [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 3,914 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS | [store](https://www.raycast.com/svenhofman/hidemyemail) |
 | [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman) | 2,112 | Boost your email workflow with powerful contextual Superhuman integration. Draft emails with context and search your inbox using Superhuman's advanced operator… | jlokos | macOS | [store](https://www.raycast.com/jlokos/superhuman) |
 | [Gmail Accounts](https://github.com/raycast/extensions/tree/main/extensions/gmail-accounts) | 1,639 | Quickly access your Gmail accounts in Chrome (requires Google Chrome) | lachero | macOS | [store](https://www.raycast.com/lachero/gmail-accounts) |

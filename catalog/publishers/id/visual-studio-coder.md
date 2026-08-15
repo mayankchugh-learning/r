@@ -1,6 +1,6 @@
 # Visual-Studio-Coder
 
-16 extensions · 25,539 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
+16 extensions · 25,542 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
 
 ## Productivity (1)
 
@@ -12,7 +12,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 7,368 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
+| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 7,369 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 | [Markdown Table Generator](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) | 1,517 | Specify your width and height, and receive a markdown table that you can input your own values into. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/markdown-table-generator) |
 
 ## Uncategorized (1)
@@ -29,7 +29,7 @@
 | [Type the Alphabet](https://github.com/raycast/extensions/tree/main/extensions/type-the-alphabet) | 486 | "Type the Alphabet" is a typing game that measures how long it takes you to type the entire alphabet. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/type-the-alphabet) |
 | [Perchance Generator](https://github.com/raycast/extensions/tree/main/extensions/perchance-generator) | 258 | Input the generator name and receive the generated text. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/perchance-generator) |
 | [Discord Spoiler Spammer](https://github.com/raycast/extensions/tree/main/extensions/spoiler-converter) | 203 | Discord Spoiler Spammer converts every character of the selected text into it's own spoiler. Laugh at your friends on Discord as they continue clicking to reve… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/spoiler-converter) |
-| [Donut](https://github.com/raycast/extensions/tree/main/extensions/donut) | 125 | Show an animation of a donut | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/donut) |
+| [Donut](https://github.com/raycast/extensions/tree/main/extensions/donut) | 126 | Show an animation of a donut | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/donut) |
 
 ## Other (2)
 
@@ -49,7 +49,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Department of Government Efficiency Tracker](https://github.com/raycast/extensions/tree/main/extensions/doge-tracker) | 110 | View information about the work done by the Department of Government Efficiency. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/doge-tracker) |
+| [Department of Government Efficiency Tracker](https://github.com/raycast/extensions/tree/main/extensions/doge-tracker) | 111 | View information about the work done by the Department of Government Efficiency. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/doge-tracker) |
 | [Tip Calculator](https://github.com/raycast/extensions/tree/main/extensions/tip-calculator) | 94 | Calculate the total per person based on the Bill, Tip %, and Number of People. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tip-calculator) |
 
 ## Design Tools (1)
