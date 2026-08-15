@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-15 — upstream `50a73d4e40`
+
+**Updated (1):** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects)
+
 ## 2026-08-15 — upstream `9dfafde3e5`
 
 **Updated (1):** [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool)

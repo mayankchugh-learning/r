@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9dfafde3e5b6d6db1e0077c120667a27da62b807",
-  "generatedAt": "2026-08-15T05:23:54.171Z",
-  "downloadsRefreshedAt": "2026-08-15T05:23:53.876Z",
+  "commit": "50a73d4e40a2987de157b6e307cf3b962e1ddd06",
+  "generatedAt": "2026-08-15T05:26:40.046Z",
+  "downloadsRefreshedAt": "2026-08-15T05:26:39.057Z",
   "count": 3179,
   "extensions": [
     {
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 505407
+      "downloads": 505409
     },
     {
       "dir": "color-shades",
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 663619
+      "downloads": 663620
     },
     {
       "dir": "kimai",
@@ -66192,7 +66192,7 @@
       ],
       "store": "https://www.raycast.com/ewgenius/zed-recent-projects",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects",
-      "treeSha": "9c2b9a68fca2ff1f8dbc486fc7df0af2763fb2bf",
+      "treeSha": "692de8f691b03c8e1ca846eb2ba5bf66a47cf2bd",
       "downloads": 13474
     },
     {
