@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "929997e61cea9c695d0363f4081051986172735e",
-  "generatedAt": "2026-08-15T05:45:37.921Z",
-  "downloadsRefreshedAt": "2026-08-15T05:45:37.648Z",
+  "commit": "838bcc56d1c1b58fa4ab49c028044b2bcdaedca8",
+  "generatedAt": "2026-08-15T06:35:31.980Z",
+  "downloadsRefreshedAt": "2026-08-15T06:35:31.587Z",
   "count": 3179,
   "extensions": [
     {
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 505414
+      "downloads": 505431
     },
     {
       "dir": "color-shades",
@@ -21698,7 +21698,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 494435
+      "downloads": 494450
     },
     {
       "dir": "google-chrome-profiles",
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 663623
+      "downloads": 663646
     },
     {
       "dir": "kimai",
@@ -37720,7 +37720,7 @@
       "description": "Control Obsidian with Raycast",
       "author": "marcjulian",
       "owner": null,
-      "contributors": 16,
+      "contributors": 17,
       "categories": [
         "Productivity"
       ],
@@ -37731,7 +37731,7 @@
       ],
       "store": "https://www.raycast.com/marcjulian/obsidian",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian",
-      "treeSha": "4608027ab524b2e00a4150131f1505fb6d90dc3e",
+      "treeSha": "6e32715dc43769211e3c83519fe9396301815e9b",
       "downloads": 150418
     },
     {
