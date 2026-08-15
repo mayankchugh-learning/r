@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-146 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+147 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -21,6 +21,7 @@
 | [daniel_schoeman](https://www.raycast.com/daniel_schoeman) | 1 | 52 | **Developer Tools:** [Quick References](https://github.com/raycast/extensions/tree/main/extensions/quick-references) |
 | [daniel-stoneuk](https://www.raycast.com/daniel-stoneuk) | 1 | 3,778 | **Developer Tools:** [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) |
 | [danielbahl](https://www.raycast.com/danielbahl) | 1 | 4,033 | **Developer Tools:** [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) |
+| [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 | **Developer Tools:** [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) |
 | [danieldbird](https://www.raycast.com/danieldbird) | 2 | 21,703 | **Media:** [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music), [Rain Radars](https://github.com/raycast/extensions/tree/main/extensions/rain-radars) |
 | [danieldeichfuss](https://www.raycast.com/danieldeichfuss) | 3 | 539 | **Productivity:** [Distraction Tracker](https://github.com/raycast/extensions/tree/main/extensions/distraction-tracker)<br>**Documentation:** [Zod Docs](https://github.com/raycast/extensions/tree/main/extensions/zod-documentation)<br>**Developer Tools:** [mittwald](https://github.com/raycast/extensions/tree/main/extensions/mittwald) |
 | [danielferguson](https://www.raycast.com/danielferguson) | 1 | 225 | **Web:** [Fathom Analytics](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics) |

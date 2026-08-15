@@ -1,8 +1,8 @@
 # AI ✦
 
-72 extensions · [← AI & LLM Tools](./README.md)
+73 extensions · [← AI & LLM Tools](./README.md)
 
-[Model ✦](#model) (12) · [Agent ✦](#agent) (10) · [Code ✦](#code) (8) · [AI Powered ✦](#ai-powered) (7) · [Chat ✦](#chat) (4) · [Prompts ✦](#prompts) (4) · [General](#general) (27)
+[Model ✦](#model) (13) · [Agent ✦](#agent) (10) · [Code ✦](#code) (8) · [AI Powered ✦](#ai-powered) (7) · [Chat ✦](#chat) (4) · [Prompts ✦](#prompts) (4) · [General](#general) (27)
 
 *✦ auto-discovered topic group*
 
@@ -22,6 +22,7 @@
 | [CometAPI](https://github.com/raycast/extensions/tree/main/extensions/cometapi) | 84 | AI-powered text processing tools using CometAPI. Summarize, translate, rephrase, proofread text with advanced language models. | mutewinter | macOS | [store](https://www.raycast.com/mutewinter/cometapi) |
 | [LobeHub Icons](https://github.com/raycast/extensions/tree/main/extensions/lobehub-icons) | 62 | Popular AI / LLM Model Brand SVG Logo and Icon Collection | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/lobehub-icons) |
 | [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 6 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
+| [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 0 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
 
 ## Agent ✦
 

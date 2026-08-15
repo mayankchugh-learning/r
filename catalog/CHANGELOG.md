@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-15 — upstream `3b2c9356aa`
+
+**Added (1):** [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo)
+
 ## 2026-08-15 — upstream `838bcc56d1`
 
 **Updated (1):** [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian)

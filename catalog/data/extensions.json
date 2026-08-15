@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "838bcc56d1c1b58fa4ab49c028044b2bcdaedca8",
-  "generatedAt": "2026-08-15T06:35:31.980Z",
-  "downloadsRefreshedAt": "2026-08-15T06:35:31.587Z",
-  "count": 3179,
+  "commit": "3b2c9356aa4ac687f768c97fbf5cd418d6a2c795",
+  "generatedAt": "2026-08-15T07:21:33.708Z",
+  "downloadsRefreshedAt": "2026-08-15T07:21:33.335Z",
+  "count": 3180,
   "extensions": [
     {
       "dir": "0x0",
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 505431
+      "downloads": 505442
     },
     {
       "dir": "color-shades",
@@ -21698,7 +21698,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 494450
+      "downloads": 494465
     },
     {
       "dir": "google-chrome-profiles",
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 663646
+      "downloads": 663661
     },
     {
       "dir": "kimai",
@@ -37732,7 +37732,7 @@
       "store": "https://www.raycast.com/marcjulian/obsidian",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian",
       "treeSha": "6e32715dc43769211e3c83519fe9396301815e9b",
-      "downloads": 150418
+      "downloads": 150429
     },
     {
       "dir": "obsidian-bookmarks",
@@ -41335,6 +41335,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime",
       "treeSha": "f88d0d41c6d0295b4ad93904321315fface61043",
       "downloads": 3
+    },
+    {
+      "dir": "phaseo",
+      "name": "phaseo",
+      "title": "Phaseo",
+      "description": "Explore Phaseo's AI model catalogue from Raycast",
+      "author": "danielbutler1",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Data"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/danielbutler1/phaseo",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/phaseo",
+      "treeSha": "50bdab733e2343fea106c12607a8f0faca7f33c3",
+      "downloads": 0
     },
     {
       "dir": "phind-search",

@@ -1,6 +1,6 @@
 # Windows · Developer Tools
 
-294 extensions · [← Windows](../README.md)
+295 extensions · [← Windows](../README.md)
 
 ## Code & Collaboration
 
@@ -24,7 +24,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools.md) | 29 |
+| [AI & LLM Tools](./ai-llm-tools.md) | 30 |
 | [Web & Frontend](./web-frontend.md) | 17 |
 | [Mobile & App Development](./mobile-app-development.md) | 1 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 3 |

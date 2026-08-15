@@ -1,6 +1,6 @@
 # Publishers
 
-2122 publishers · [← catalog index](../README.md)
+2123 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,099,538 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,099,549 |
 | 2 | [raycast](./id/raycast.md) | 11 | 784,433 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,646 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 494,450 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 663,661 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 494,465 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 438,014 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 432,551 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 405,421 |
@@ -29,7 +29,7 @@
 | 19 | [mooxl](https://www.raycast.com/mooxl) | 2 | 182,494 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 166,784 |
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 164,457 |
-| 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 150,628 |
+| 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 150,639 |
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 149,841 |
 | 24 | [loris](https://www.raycast.com/loris) | 6 | 123,425 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 106,708 |
@@ -2121,12 +2121,13 @@
 | 2111 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 0 |
 | 2112 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
 | 2113 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
-| 2114 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2115 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2116 | [jonah_tweed](https://www.raycast.com/jonah_tweed) | 1 | 0 |
-| 2117 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2118 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2119 | github-next | 2 | — |
-| 2120 | buffer | 1 | — |
-| 2121 | multi | 1 | — |
-| 2122 | sharat_visweswara | 1 | — |
+| 2114 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
+| 2115 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2116 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2117 | [jonah_tweed](https://www.raycast.com/jonah_tweed) | 1 | 0 |
+| 2118 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2119 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2120 | github-next | 2 | — |
+| 2121 | buffer | 1 | — |
+| 2122 | multi | 1 | — |
+| 2123 | sharat_visweswara | 1 | — |
