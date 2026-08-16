@@ -1,6 +1,6 @@
 # Notion ✦
 
-11 extensions · [← Notes & Knowledge](./README.md)
+10 extensions · [← Notes & Knowledge](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -12,7 +12,6 @@
 | [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) | 1,047 | An extension to supercharge your research workflow with Notion | raz_gaon | macOS | [store](https://www.raycast.com/raz_gaon/notion_researcher) |
 | [Specify](https://github.com/raycast/extensions/tree/main/extensions/specify) | 732 | Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc. | AllanM | macOS | [store](https://www.raycast.com/AllanM/specify) |
 | [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) | 576 | Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. \| Set your Owledge workspace at: https://search.owledge.app \| Documentat… | Romain | macOS | [store](https://www.raycast.com/Romain/owledge-raycast) |
-| [Ask Notis](https://github.com/raycast/extensions/tree/main/extensions/notis) | 283 | Capture, organize, and find anything for you in your Notion workspace. | mindtheflo | macOS | [store](https://www.raycast.com/mindtheflo/notis) |
 | [Copy Notion Markdown Link](https://github.com/raycast/extensions/tree/main/extensions/copy-notion-markdown-link) | 116 | Copy the current Notion page as a Markdown link. Works with Notion desktop app only. | atsushi_kawamura | macOS | [store](https://www.raycast.com/atsushi_kawamura/copy-notion-markdown-link) |
 | [Make with Notion 2024](https://github.com/raycast/extensions/tree/main/extensions/make-with-notion-2024) | 95 | Quickly check the schedule for Make with Notion, in your local timezone. | alexs | macOS | [store](https://www.raycast.com/alexs/make-with-notion-2024) |
 | [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) | 51 | Extract, save, and organize Notion page and database IDs from the focused browser tab or clipboard. | sam.dsgn | macOS | [store](https://www.raycast.com/Sam.Dsgn/notion-url-to-id) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a0fbca34f41fb77a122db71c76ff48d539aa8d42",
-  "generatedAt": "2026-08-16T20:25:30.569Z",
-  "downloadsRefreshedAt": "2026-08-16T20:25:30.137Z",
+  "commit": "fe94ef6544d84f17fa0b88cea4136b92d227a09f",
+  "generatedAt": "2026-08-16T20:31:40.831Z",
+  "downloadsRefreshedAt": "2026-08-16T20:31:40.173Z",
   "count": 3180,
   "extensions": [
     {
@@ -14598,7 +14598,7 @@
       "dir": "done-bear",
       "name": "done-bear",
       "title": "Done Bear",
-      "description": "Search and manage your Done Bear tasks from Raycast",
+      "description": "A local-first GTD task manager for Raycast: capture, search, and complete tasks, plan your Today list, and manage projects — synced with the Done Bear web, desktop, iOS, and CLI apps.",
       "author": "mblode",
       "owner": null,
       "contributors": 0,
@@ -14611,7 +14611,7 @@
       ],
       "store": "https://www.raycast.com/mblode/done-bear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/done-bear",
-      "treeSha": "c58f4890bce763dffb768bde1afc43b8f7f469e8",
+      "treeSha": "81e6375b2ff118e57726df23f3550422a97626c4",
       "downloads": 7
     },
     {
@@ -21699,7 +21699,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 495301
+      "downloads": 495303
     },
     {
       "dir": "google-chrome-profiles",
@@ -27998,7 +27998,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 664456
+      "downloads": 664458
     },
     {
       "dir": "kimai",

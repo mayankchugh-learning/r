@@ -5,9 +5,9 @@
 | Topic | Extensions |
 | --- | --- |
 | [Notes ✦](./notes.md) | 33 |
-| [Notion ✦](./notion.md) | 11 |
-| [Obsidian ✦](./obsidian.md) | 5 |
-| [Highlights ✦](./highlights.md) | 4 |
-| [General](./general.md) | 9 |
+| [Capture ✦](./capture.md) | 5 |
+| [Notion ✦](./notion.md) | 10 |
+| [Obsidian ✦](./obsidian.md) | 4 |
+| [General](./general.md) | 10 |
 
 *✦ auto-discovered topic group*

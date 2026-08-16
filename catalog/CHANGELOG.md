@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `fe94ef6544`
+
+**Updated (1):** [Done Bear](https://github.com/raycast/extensions/tree/main/extensions/done-bear)
+
 ## 2026-08-16 — upstream `a0fbca34f4`
 
 **Updated (1):** [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player)
