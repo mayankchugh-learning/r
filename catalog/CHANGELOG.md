@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `7e43f3054b`
+
+**Updated (1):** [Mailwip](https://github.com/raycast/extensions/tree/main/extensions/mailwip)
+
 ## 2026-08-16 — upstream `a6ab70cc5d`
 
 **Updated (1):** [Gram](https://github.com/raycast/extensions/tree/main/extensions/gram)
