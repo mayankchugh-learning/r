@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7e43f3054bb4d9697a99947e029c6fe3edb5aaf8",
-  "generatedAt": "2026-08-16T03:37:21.639Z",
-  "downloadsRefreshedAt": "2026-08-16T03:37:20.635Z",
+  "commit": "c04a1f011d81194db5a73052ef200023c7853633",
+  "generatedAt": "2026-08-16T03:42:47.305Z",
+  "downloadsRefreshedAt": "2026-08-16T03:42:46.475Z",
   "count": 3180,
   "extensions": [
     {
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 505819
+      "downloads": 505820
     },
     {
       "dir": "color-shades",
@@ -21698,7 +21698,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 494834
+      "downloads": 494835
     },
     {
       "dir": "google-chrome-profiles",
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 664075
+      "downloads": 664076
     },
     {
       "dir": "kimai",
@@ -31211,7 +31211,7 @@
       "description": "Search for apps in the Mac App Store from Raycast!",
       "author": "say4n",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Productivity",
         "Developer Tools"
@@ -31222,7 +31222,7 @@
       ],
       "store": "https://www.raycast.com/say4n/mac-app-store-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search",
-      "treeSha": "4fdd66daa18cfaefbfced58e8bd45ce1e203957b",
+      "treeSha": "a7ae5c75b73691218bf7dd55c782729d86bb119c",
       "downloads": 8504
     },
     {
