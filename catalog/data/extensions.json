@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c6e1d5874f0cd11c794f5e1cd849ee117804acbc",
-  "generatedAt": "2026-08-16T23:38:32.215Z",
-  "downloadsRefreshedAt": "2026-08-16T23:38:31.458Z",
+  "commit": "87d87e83e48d68fcc892eb38e94ead369ebb8d55",
+  "generatedAt": "2026-08-16T23:40:35.872Z",
+  "downloadsRefreshedAt": "2026-08-16T23:40:35.459Z",
   "count": 3182,
   "extensions": [
     {
@@ -11146,11 +11146,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/niall-maloney/cron-description",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cron-description",
-      "treeSha": "4cadd6d793097880885349832106fb75db5f438a",
+      "treeSha": "2da683d85b55cff98c2d21e15c8e2547eb0bf910",
       "downloads": 3372
     },
     {

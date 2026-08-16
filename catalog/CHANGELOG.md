@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `87d87e83e4`
+
+**Updated (1):** [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description)
+
 ## 2026-08-16 — upstream `c6e1d5874f`
 
 **Updated (1):** [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript)
