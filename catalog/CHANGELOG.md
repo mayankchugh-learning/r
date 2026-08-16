@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `ef2ecd3c42`
+
+**Updated (1):** [gg.deals](https://github.com/raycast/extensions/tree/main/extensions/gg-deals)
+
 ## 2026-08-15 — upstream `3b2c9356aa`
 
 **Added (1):** [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo)

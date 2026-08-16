@@ -20,14 +20,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,177 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
-| [Raycast Notification](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) | 2,763 | This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast inter… | maxnyby | macOS | [store](https://www.raycast.com/maxnyby/raycast-notification) |
-| [Pipe Commands](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) | 2,186 | Pipe your selection or clipboard to custom scripts defined in any language. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/pipe-commands) |
-| [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit) | 1,375 | Run Script Kit Command from Raycast | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/script-kit) |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,178 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [Raycast Notification](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) | 2,765 | This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast inter… | maxnyby | macOS | [store](https://www.raycast.com/maxnyby/raycast-notification) |
+| [Pipe Commands](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) | 2,187 | Pipe your selection or clipboard to custom scripts defined in any language. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/pipe-commands) |
+| [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit) | 1,376 | Run Script Kit Command from Raycast | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/script-kit) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,368 | Convert cron expressions into human readable descriptions | niall-maloney | macOS | [store](https://www.raycast.com/niall-maloney/cron-description) |
+| [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,370 | Convert cron expressions into human readable descriptions | niall-maloney | macOS | [store](https://www.raycast.com/niall-maloney/cron-description) |
 | [Cron Manager](https://github.com/raycast/extensions/tree/main/extensions/cron-manager) | 176 | Manage your local cron jobs directly from Raycast. | tahazahit | macOS | [store](https://www.raycast.com/tahazahit/cron-manager) |
