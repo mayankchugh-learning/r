@@ -155,7 +155,7 @@
 | 145 | [nyatinte](https://www.raycast.com/nyatinte) | 1 | 11,559 |
 | 146 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 11,457 |
 | 147 | [xmorse](https://www.raycast.com/xmorse) | 5 | 11,435 |
-| 148 | [xmok](./id/xmok.md) | 112 | 11,342 |
+| 148 | [xmok](./id/xmok.md) | 113 | 11,342 |
 | 149 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,207 |
 | 150 | [reboot](https://www.raycast.com/reboot) | 1 | 11,088 |
 | 151 | [crickford](https://www.raycast.com/crickford) | 1 | 11,076 |

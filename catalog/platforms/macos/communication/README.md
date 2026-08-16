@@ -1,8 +1,8 @@
 # macOS · Communication
 
-149 extensions · [← macOS](../README.md)
+150 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (28) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (21) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (54)
+[Messaging & Chat](#messaging-chat) (28) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (22) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (54)
 
 ## Conversations
 
@@ -84,6 +84,7 @@
 | [SendPortal](https://github.com/raycast/extensions/tree/main/extensions/sendportal) | 13 | Open Source Email Marketing Software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendportal) |
 | [QQ Mail](https://github.com/raycast/extensions/tree/main/extensions/qq-mail) | 7 | View and manage your QQ Mail inbox | ariesly15 | macOS, Windows | [store](https://www.raycast.com/ariesly15/qq-mail) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 3 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
+| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | — | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | — |
 
 ## Social & Sharing
 

@@ -1,8 +1,8 @@
 # Windows · Communication
 
-52 extensions · [← Windows](../README.md)
+53 extensions · [← Windows](../README.md)
 
-[Messaging & Chat](#messaging-chat) (10) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (13) · [Social & Fediverse](#social-fediverse) (3) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (2) · [General](#general) (17)
+[Messaging & Chat](#messaging-chat) (10) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (14) · [Social & Fediverse](#social-fediverse) (3) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (2) · [General](#general) (17)
 
 ## Conversations
 
@@ -45,6 +45,7 @@
 | [QQ Mail](https://github.com/raycast/extensions/tree/main/extensions/qq-mail) | 7 | View and manage your QQ Mail inbox | ariesly15 | macOS, Windows | [store](https://www.raycast.com/ariesly15/qq-mail) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 3 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
 | [NetEase Mail](https://github.com/raycast/extensions/tree/main/extensions/netease-mail) | 0 | Read, search, verify codes, and send NetEase Mail from Raycast. | ctacta621 | Windows | [store](https://www.raycast.com/ctacta621/netease-mail) |
+| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | — | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | — |
 
 ## Social & Sharing
 

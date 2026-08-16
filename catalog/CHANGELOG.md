@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `06ccfb02e8`
+
+**Added (1):** [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail)
+
 ## 2026-08-16 — upstream `f4837c9c7f`
 
 **Added (1):** [Fabulous](https://github.com/raycast/extensions/tree/main/extensions/fabulous)

@@ -1,8 +1,8 @@
 # Communication
 
-151 extensions · [← all categories](../README.md)
+152 extensions · [← all categories](../README.md)
 
-macOS: 149 · Windows: 52
+macOS: 150 · Windows: 53
 
 ## Conversations
 
@@ -10,7 +10,7 @@ macOS: 149 · Windows: 52
 | --- | --- |
 | [Messaging & Chat](./messaging-chat.md) | 28 |
 | [Video Calls & Meetings](./video-calls-meetings.md) | 15 |
-| [Email](./email.md) | 22 |
+| [Email](./email.md) | 23 |
 
 ## Social & Sharing
 

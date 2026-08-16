@@ -1,6 +1,6 @@
 # Email
 
-22 extensions · [← Communication](./README.md)
+23 extensions · [← Communication](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,4 @@
 | [QQ Mail](https://github.com/raycast/extensions/tree/main/extensions/qq-mail) | 7 | View and manage your QQ Mail inbox | ariesly15 | macOS, Windows | [store](https://www.raycast.com/ariesly15/qq-mail) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 3 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
 | [NetEase Mail](https://github.com/raycast/extensions/tree/main/extensions/netease-mail) | 0 | Read, search, verify codes, and send NetEase Mail from Raycast. | ctacta621 | Windows | [store](https://www.raycast.com/ctacta621/netease-mail) |
+| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | — | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | — |

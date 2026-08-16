@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f4837c9c7f6bb0e6745d78ea7f3895eb593cf1bf",
-  "generatedAt": "2026-08-16T20:34:45.768Z",
-  "downloadsRefreshedAt": "2026-08-16T20:34:45.434Z",
-  "count": 3181,
+  "commit": "06ccfb02e8cc2aafebd276fcfcaf3fa5c3c3410e",
+  "generatedAt": "2026-08-16T20:35:23.799Z",
+  "downloadsRefreshedAt": "2026-08-16T20:35:22.933Z",
+  "count": 3182,
   "extensions": [
     {
       "dir": "0x0",
@@ -66683,6 +66683,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zodme",
       "treeSha": "86cbafb57b95f6ebf13bf9bfb66e7c7f98e7ba26",
       "downloads": 24
+    },
+    {
+      "dir": "zoho-mail",
+      "name": "zoho-mail",
+      "title": "Zoho Mail",
+      "description": "Manage Zoho Mail - View Domains, Accounts, Emails and Content",
+      "author": "xmok",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Communication"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/zoho-mail",
+      "treeSha": "e6c465e4a853993cd645bbe75f8d0725c06cfe06",
+      "downloads": null
     },
     {
       "dir": "zoo",

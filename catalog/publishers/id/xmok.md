@@ -1,6 +1,6 @@
 # xmok
 
-112 extensions · 11,342 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+113 extensions · 11,342 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -131,7 +131,7 @@
 | [ZeroSSL](https://github.com/raycast/extensions/tree/main/extensions/zerossl) | 8 | Manage ZeroSSL Certificates | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zerossl) |
 | [OlaCV](https://github.com/raycast/extensions/tree/main/extensions/olacv) | 7 | Manage Domains and Contacts in our OlaCV account | xmok | macOS | [store](https://www.raycast.com/xmok/olacv) |
 
-## Communication (18)
+## Communication (19)
 
 ### Video Calls & Meetings
 
@@ -148,6 +148,7 @@
 | [MXroute](https://github.com/raycast/extensions/tree/main/extensions/mxroute) | 22 | Email hosting for your domains | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/mxroute) |
 | [Inbound](https://github.com/raycast/extensions/tree/main/extensions/inbound) | 18 | Email API for Developers - Send, Receive & Reply | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/inbound) |
 | [SendPortal](https://github.com/raycast/extensions/tree/main/extensions/sendportal) | 13 | Open Source Email Marketing Software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendportal) |
+| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | — | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | — |
 
 ### Social & Fediverse
 

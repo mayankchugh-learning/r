@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · **Z**
 
-33 extensions · [← catalog index](../README.md)
+34 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -39,3 +39,4 @@
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | 6 | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |
 | [Zenblog](https://github.com/raycast/extensions/tree/main/extensions/zenblog) | 4 | A tiny blogging CMS | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zenblog) |
 | [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix) | 0 | Manage Zabbix Problems, Hosts, Triggers and Latest Data directly from Raycast. Perform common monitoring and maintenance tasks without opening a browser. | massimiliano_pasquini | Windows, macOS | [store](https://www.raycast.com/massimiliano_pasquini/raycast-zabbix) |
+| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | — | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | — |
