@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7a21df70205c9ac4183562340fc08b80c9abd664",
-  "generatedAt": "2026-08-16T15:18:38.717Z",
-  "downloadsRefreshedAt": "2026-08-16T15:18:38.332Z",
+  "commit": "a3ab31f3eb1edbd07c2deac3f5034e5c7a4fa74a",
+  "generatedAt": "2026-08-16T15:19:41.002Z",
+  "downloadsRefreshedAt": "2026-08-16T15:19:40.298Z",
   "count": 3180,
   "extensions": [
     {
@@ -5723,7 +5723,7 @@
       ],
       "store": "https://www.raycast.com/ron-myers/brave",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brave",
-      "treeSha": "9f06cc605a122a13f10cab36bdf5d12148ed4017",
+      "treeSha": "60741a28fc89e407579c4aff06f559796f9aa695",
       "downloads": 14717
     },
     {
@@ -27998,7 +27998,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 664334
+      "downloads": 664335
     },
     {
       "dir": "kimai",
