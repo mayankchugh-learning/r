@@ -1,6 +1,6 @@
 # xmok
 
-111 extensions · 11,331 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+111 extensions · 11,336 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -60,7 +60,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 428 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
+| [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 429 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
 | [Cocktail DB](https://github.com/raycast/extensions/tree/main/extensions/cocktail-db) | 136 | Search Drinks by Name or Ingredient via TheCocktailDB | xmok | macOS | [store](https://www.raycast.com/xmok/cocktail-db) |
 | [FBI](https://github.com/raycast/extensions/tree/main/extensions/fbi) | 90 | Get listing of wanted people and art crimes | xmok | macOS | [store](https://www.raycast.com/xmok/fbi) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 41 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
@@ -98,7 +98,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 560 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
+| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 561 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
 | [Neon](https://github.com/raycast/extensions/tree/main/extensions/neon) | 161 | Manage Neon Projects and API Keys | xmok | macOS | [store](https://www.raycast.com/xmok/neon) |
 
 ### Monitoring & Logs
@@ -171,7 +171,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 379 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
+| [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 380 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
 | [Migadu](https://github.com/raycast/extensions/tree/main/extensions/migadu) | 106 | Mailboxes, Identities, Aliases, Rewrites in Migadu | xmok | macOS | [store](https://www.raycast.com/xmok/migadu) |
 | [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 95 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
 | [Name.com](https://github.com/raycast/extensions/tree/main/extensions/name-com) | 76 | View your Domains, DNS Records and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/name-com) |
@@ -186,7 +186,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 520 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
 | [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 262 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
-| [UptimeRobot](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) | 156 | View Monitors and Account Details | xmok | macOS | [store](https://www.raycast.com/xmok/uptime-robot) |
+| [UptimeRobot](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) | 157 | View Monitors and Account Details | xmok | macOS | [store](https://www.raycast.com/xmok/uptime-robot) |
 | [NameSilo](https://github.com/raycast/extensions/tree/main/extensions/namesilo) | 85 | View your Domains, Orders, Whois Info and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/namesilo) |
 | [Umami](https://github.com/raycast/extensions/tree/main/extensions/umami) | 58 | The modern analytics platform for effortless insights | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/umami) |
 | [Daminik](https://github.com/raycast/extensions/tree/main/extensions/daminik) | 25 | Manage your Digital Assets | xmok | macOS | [store](https://www.raycast.com/xmok/daminik) |
@@ -245,7 +245,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Firefly III](https://github.com/raycast/extensions/tree/main/extensions/firefly-iii) | 101 | A free and open source personal finance manager | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/firefly-iii) |
-| [Wave](https://github.com/raycast/extensions/tree/main/extensions/wave) | 51 | Manage your Wave Businesses | xmok | macOS | [store](https://www.raycast.com/xmok/wave) |
+| [Wave](https://github.com/raycast/extensions/tree/main/extensions/wave) | 52 | Manage your Wave Businesses | xmok | macOS | [store](https://www.raycast.com/xmok/wave) |
 | [Lemon Squeezy](https://github.com/raycast/extensions/tree/main/extensions/lemon-squeezy) | 22 | Orders and Products in all your Stores | xmok | macOS | [store](https://www.raycast.com/xmok/lemon-squeezy) |
 | [Maybe](https://github.com/raycast/extensions/tree/main/extensions/maybe) | 22 | The personal finance app for everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/maybe) |
 | [Creem](https://github.com/raycast/extensions/tree/main/extensions/creem) | 15 | The all-in-one platform for software companies | xmok | macOS | [store](https://www.raycast.com/xmok/creem) |

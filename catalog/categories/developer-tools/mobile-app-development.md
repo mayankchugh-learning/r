@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,771 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
+| [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,772 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
 | [Android](https://github.com/raycast/extensions/tree/main/extensions/android) | 1,279 | Useful Android commands to list projects and emulators | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android) |
 | [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) | 1,221 | Mirror android device screen with scrcpy | zcfan | macOS | [store](https://www.raycast.com/zcfan/scrcpy) |
 | [Android Debug Bridge (Adb) Commands](https://github.com/raycast/extensions/tree/main/extensions/adb) | 1,039 | Run useful adb commands | Quentin23Soleil | macOS | [store](https://www.raycast.com/Quentin23Soleil/adb) |
@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,128 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,130 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
 | [Swift Package Index](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) | 822 | Search for Swift Packages via https://swiftpackageindex.com | maximkrouk | macOS | [store](https://www.raycast.com/maximkrouk/swift-package-index) |
 | [Hephaestus - JSON Tools](https://github.com/raycast/extensions/tree/main/extensions/hephaestus) | 215 | A collection of useful developer tools and utilities, including JSON to Swift, Objective-C, TypeScript, and more. | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/hephaestus) |
 | [Swift REPL](https://github.com/raycast/extensions/tree/main/extensions/swift-repl) | 206 | Run lil swift snippets | nakajima | macOS | [store](https://www.raycast.com/nakajima/swift-repl) |
@@ -42,7 +42,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,504 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
+| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,513 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
 | [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) | 2,718 | Airport is the best place to discover new TestFlight apps from developers. | siddharthsharma94 | macOS | [store](https://www.raycast.com/siddharthsharma94/airport) |
 | [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) | 1,606 | Adds commands to control the Alacritty terminal emulator. | jose-elias-alvarez | macOS | [store](https://www.raycast.com/jose-elias-alvarez/alacritty) |
 | [Simulator Control](https://github.com/raycast/extensions/tree/main/extensions/simctl) | 1,397 | Control Apple Simulator devices | noppefoxwolf | macOS | [store](https://www.raycast.com/noppefoxwolf/simulator-control) |

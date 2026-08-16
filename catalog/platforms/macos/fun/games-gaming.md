@@ -6,14 +6,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,971 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
+| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,977 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
 | [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 8,821 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
 | [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,757 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
 | [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 2,875 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
-| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,587 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
+| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,588 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,339 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,120 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
-| [Wordle](https://github.com/raycast/extensions/tree/main/extensions/wordle) | 852 | Play Wordle locally once a day. | chrisalxlng | macOS | [store](https://www.raycast.com/chrisalxlng/wordle) |
+| [Wordle](https://github.com/raycast/extensions/tree/main/extensions/wordle) | 853 | Play Wordle locally once a day. | chrisalxlng | macOS | [store](https://www.raycast.com/chrisalxlng/wordle) |
 | [Rollcast](https://github.com/raycast/extensions/tree/main/extensions/rollcast) | 702 | Roll dice for your D&D games from Raycast! | troalexis | macOS, Windows | [store](https://www.raycast.com/troalexis/rollcast) |
 | [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 611 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
 | [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 587 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
@@ -25,7 +25,7 @@
 | [BTTV Emote](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) | 374 | Browse Through Thousands of BTTV Emote | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/bttv-emote) |
 | [Hidden Icons](https://github.com/raycast/extensions/tree/main/extensions/hidden-icons) | 368 | A casual game to find a hidden icon. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/hidden-icons) |
 | [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 350 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
-| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 321 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
+| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 322 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [Ray Clicker](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker) | 301 | Idle clicker game for Raycast with upgrades, prestige, and fun events. | JonathanRReed | macOS | [store](https://www.raycast.com/JonathanRReed/ray-clicker) |
 | [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox-games) | 239 | Searches for & launches Roblox places | TaylorRobinson | macOS | [store](https://www.raycast.com/TaylorRobinson/roblox-games) |
 | [Switch Game Play History](https://github.com/raycast/extensions/tree/main/extensions/switch-game-play-history) | 231 | Browse your Nintendo Switch gameplay history. Including information such as first played time, last played time, and total playtime for each game. | kvdo2 | macOS | [store](https://www.raycast.com/kvdo2/switch-game-play-history) |

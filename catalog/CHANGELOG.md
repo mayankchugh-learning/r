@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `5d16858863`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-08-16 — upstream `c04a1f011d`
 
 **Updated (1):** [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search)

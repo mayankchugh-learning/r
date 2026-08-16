@@ -1,25 +1,25 @@
 # Visual-Studio-Coder
 
-16 extensions · 25,549 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
+16 extensions · 25,561 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
 
 ## Productivity (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 10,805 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
+| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 10,808 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
 
 ## Developer Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 7,370 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
+| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 7,375 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 | [Markdown Table Generator](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) | 1,519 | Specify your width and height, and receive a markdown table that you can input your own values into. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/markdown-table-generator) |
 
 ## Uncategorized (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dia Skills](https://github.com/raycast/extensions/tree/main/extensions/dia-skills) | 1,885 | Import your favorite Dia skills into Raycast, so you can have the freedom to use whatever LLM you want, wherever you want, however you want. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/dia-skills) |
+| [Dia Skills](https://github.com/raycast/extensions/tree/main/extensions/dia-skills) | 1,888 | Import your favorite Dia skills into Raycast, so you can have the freedom to use whatever LLM you want, wherever you want, however you want. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/dia-skills) |
 
 ## Fun (5)
 
@@ -49,7 +49,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Department of Government Efficiency Tracker](https://github.com/raycast/extensions/tree/main/extensions/doge-tracker) | 111 | View information about the work done by the Department of Government Efficiency. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/doge-tracker) |
+| [Department of Government Efficiency Tracker](https://github.com/raycast/extensions/tree/main/extensions/doge-tracker) | 112 | View information about the work done by the Department of Government Efficiency. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/doge-tracker) |
 | [Tip Calculator](https://github.com/raycast/extensions/tree/main/extensions/tip-calculator) | 94 | Calculate the total per person based on the Bill, Tip %, and Number of People. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tip-calculator) |
 
 ## Design Tools (1)

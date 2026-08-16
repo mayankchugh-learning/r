@@ -6,14 +6,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 106,740 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
-| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,853 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
+| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 106,772 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
+| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,868 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
 | [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,674 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
-| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,148 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
-| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,027 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
-| [Work Time Countdown](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) | 2,779 | A simple timer to help you keep productive during work time. | thomas | macOS | [store](https://www.raycast.com/thomas/work-time-countdown) |
+| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,150 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
+| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,029 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
+| [Work Time Countdown](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) | 2,780 | A simple timer to help you keep productive during work time. | thomas | macOS | [store](https://www.raycast.com/thomas/work-time-countdown) |
 | [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,383 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
-| [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,096 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
+| [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,097 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
 | [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,420 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
 | [Music Timer](https://github.com/raycast/extensions/tree/main/extensions/music-timer) | 1,389 | Music Timer is the ultimate productivity app that fuses the Pomodoro Technique with your favorite tracks from Spotify and Apple Music! | JulienLacr0ix | macOS | [store](https://www.raycast.com/JulienLacr0ix/music-timer) |
 | [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 961 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
