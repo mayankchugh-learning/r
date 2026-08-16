@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `7a21df7020`
+
+**Updated (1):** [Cron](https://github.com/raycast/extensions/tree/main/extensions/cron)
+
 ## 2026-08-16 — upstream `0d6b5b10c5`
 
 **Updated (1):** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome)
