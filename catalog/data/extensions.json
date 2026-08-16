@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a3ab31f3eb1edbd07c2deac3f5034e5c7a4fa74a",
-  "generatedAt": "2026-08-16T15:19:41.002Z",
-  "downloadsRefreshedAt": "2026-08-16T15:19:40.298Z",
+  "commit": "421f6ca89585205907b896fd57068132cee8f512",
+  "generatedAt": "2026-08-16T15:21:28.169Z",
+  "downloadsRefreshedAt": "2026-08-16T15:21:27.879Z",
   "count": 3180,
   "extensions": [
     {
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 506028
+      "downloads": 506029
     },
     {
       "dir": "color-shades",
@@ -21699,7 +21699,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 495139
+      "downloads": 495140
     },
     {
       "dir": "google-chrome-profiles",
@@ -59991,7 +59991,7 @@
       ],
       "store": "https://www.raycast.com/parker_klein/twos",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/twos",
-      "treeSha": "5640b70d1eabf8879e07f6ae5b7b449d800b3446",
+      "treeSha": "e5d9a90b4d687709a258b069b3df1f00009e65d0",
       "downloads": 588
     },
     {
