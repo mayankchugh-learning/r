@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `7c6e592518`
+
+**Updated (1):** [Vanguard Backup](https://github.com/raycast/extensions/tree/main/extensions/vanguard-backup)
+
 ## 2026-08-16 — upstream `77ffdc4ffb`
 
 **Updated (1):** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router)
