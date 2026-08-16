@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `0d6b5b10c5`
+
+**Updated (1):** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome)
+
 ## 2026-08-16 — upstream `7c6e592518`
 
 **Updated (1):** [Vanguard Backup](https://github.com/raycast/extensions/tree/main/extensions/vanguard-backup)
