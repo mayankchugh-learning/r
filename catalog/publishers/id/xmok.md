@@ -1,6 +1,6 @@
 # xmok
 
-111 extensions · 11,342 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+112 extensions · 11,342 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -75,7 +75,7 @@
 | [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | 18 | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |
 | [NicNames](https://github.com/raycast/extensions/tree/main/extensions/nicnames) | 10 | Transparency with no surprises. Web3-friendly. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/nicnames) |
 
-## Developer Tools (33)
+## Developer Tools (34)
 
 ### Cloud, Hosting & Infrastructure
 
@@ -93,6 +93,7 @@
 | [SolusVM 1 Client](https://github.com/raycast/extensions/tree/main/extensions/solusvm-1-client) | 15 | Fetch Information and Manage SolusVM 1 Virtual Server | xmok | macOS | [store](https://www.raycast.com/xmok/solusvm-1-client) |
 | [DreamHost](https://github.com/raycast/extensions/tree/main/extensions/dreamhost) | 9 | Manage DreamHost DNS Records | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/dreamhost) |
 | [deSEC](https://github.com/raycast/extensions/tree/main/extensions/desec) | 5 | Modern DNS Hosting for Everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/desec) |
+| [Fabulous](https://github.com/raycast/extensions/tree/main/extensions/fabulous) | 0 | List Domains and their DNS Records | xmok | macOS | [store](https://www.raycast.com/xmok/fabulous) |
 
 ### APIs & Networking
 

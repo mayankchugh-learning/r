@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `f4837c9c7f`
+
+**Added (1):** [Fabulous](https://github.com/raycast/extensions/tree/main/extensions/fabulous)
+
 ## 2026-08-16 — upstream `fe94ef6544`
 
 **Updated (1):** [Done Bear](https://github.com/raycast/extensions/tree/main/extensions/done-bear)

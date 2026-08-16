@@ -8,7 +8,7 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [xmok](./id/xmok.md) | 111 | 11,342 |
+| 1 | [xmok](./id/xmok.md) | 112 | 11,342 |
 | 2 | [koinzhang](./id/koinzhang.md) | 50 | 253,597 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 90,486 |
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 164,592 |
@@ -97,7 +97,7 @@
 | 87 | [narghev](https://www.raycast.com/narghev) | 4 | 977 |
 | 88 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 936 |
 | 89 | [gebeto](https://www.raycast.com/gebeto) | 3 | 438,511 |
-| 90 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 432,985 |
+| 90 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 433,049 |
 | 91 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 101,398 |
 | 92 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 93,660 |
 | 93 | [erics118](https://www.raycast.com/erics118) | 3 | 93,368 |

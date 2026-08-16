@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "fe94ef6544d84f17fa0b88cea4136b92d227a09f",
-  "generatedAt": "2026-08-16T20:31:40.831Z",
-  "downloadsRefreshedAt": "2026-08-16T20:31:40.173Z",
-  "count": 3180,
+  "commit": "f4837c9c7f6bb0e6745d78ea7f3895eb593cf1bf",
+  "generatedAt": "2026-08-16T20:34:45.768Z",
+  "downloadsRefreshedAt": "2026-08-16T20:34:45.434Z",
+  "count": 3181,
   "extensions": [
     {
       "dir": "0x0",
@@ -17030,6 +17030,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fabric",
       "treeSha": "80998563aee81c82466d74ba2f9dacae3b8985a7",
       "downloads": 1991
+    },
+    {
+      "dir": "fabulous",
+      "name": "fabulous",
+      "title": "Fabulous",
+      "description": "List Domains and their DNS Records",
+      "author": "xmok",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/xmok/fabulous",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/fabulous",
+      "treeSha": "514dbe6d21d575c2b5794c110a9c299b685a612d",
+      "downloads": 0
     },
     {
       "dir": "facetime",
@@ -54100,7 +54120,7 @@
       "store": "https://www.raycast.com/mattisssa/spotify-player",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spotify-player",
       "treeSha": "1a4991549b53b4e746a1963df94dd7ac6e6e6a45",
-      "downloads": 428735
+      "downloads": 428799
     },
     {
       "dir": "spring-initializr",

@@ -1,8 +1,8 @@
 # Domains ✦
 
-19 extensions · [← Cloud, Hosting & Infrastructure](./README.md)
+20 extensions · [← Cloud, Hosting & Infrastructure](./README.md)
 
-[Availability ✦](#availability) (4) · [Email ✦](#email) (4) · [General](#general) (11)
+[Availability ✦](#availability) (4) · [Email ✦](#email) (4) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -39,3 +39,4 @@
 | [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 86 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
 | [Host.io](https://github.com/raycast/extensions/tree/main/extensions/host-io) | 45 | A Powerful and Fast Domain Name Data API | xmok | macOS | [store](https://www.raycast.com/xmok/host-io) |
 | [HestiaCP Admin](https://github.com/raycast/extensions/tree/main/extensions/hestiacp-admin) | 22 | Manage Users, Domains, Mail Domains, Databases, and more, in your HestiaCP instance | xmok | macOS | [store](https://www.raycast.com/xmok/hestiacp-admin) |
+| [Fabulous](https://github.com/raycast/extensions/tree/main/extensions/fabulous) | 0 | List Domains and their DNS Records | xmok | macOS | [store](https://www.raycast.com/xmok/fabulous) |

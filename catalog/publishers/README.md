@@ -13,7 +13,7 @@
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 664,458 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 495,303 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 438,511 |
-| 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 432,985 |
+| 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 433,049 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 405,711 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 343,412 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 298,837 |
@@ -155,7 +155,7 @@
 | 145 | [nyatinte](https://www.raycast.com/nyatinte) | 1 | 11,559 |
 | 146 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 11,457 |
 | 147 | [xmorse](https://www.raycast.com/xmorse) | 5 | 11,435 |
-| 148 | [xmok](./id/xmok.md) | 111 | 11,342 |
+| 148 | [xmok](./id/xmok.md) | 112 | 11,342 |
 | 149 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,207 |
 | 150 | [reboot](https://www.raycast.com/reboot) | 1 | 11,088 |
 | 151 | [crickford](https://www.raycast.com/crickford) | 1 | 11,076 |
