@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `a0fbca34f4`
+
+**Updated (1):** [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player)
+
 ## 2026-08-16 — upstream `421f6ca895`
 
 **Updated (1):** [Twos](https://github.com/raycast/extensions/tree/main/extensions/twos)
