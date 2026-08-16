@@ -1,12 +1,12 @@
 # alexi.build
 
-16 extensions · 1,755 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+16 extensions · 1,756 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 448 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
+| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 449 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
 | [Fifteen Million Merits](https://github.com/raycast/extensions/tree/main/extensions/fifteen-million-merits) | 26 | A persistent counter that triggers Raycast Focus mode when activity exceeds a specific threshold. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/fifteen-million-merits) |
 
 ## Productivity (3)

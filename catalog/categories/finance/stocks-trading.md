@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) | 5,766 | Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. | hmarr | macOS | [store](https://www.raycast.com/hmarr/stock-tracker) |
+| [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) | 5,767 | Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. | hmarr | macOS | [store](https://www.raycast.com/hmarr/stock-tracker) |
 | [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) | 1,967 | Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alp… | jones-sam | macOS | [store](https://www.raycast.com/jones-sam/stock-lookup) |
 | [Apple Stocks Search](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) | 1,065 | Apple Stocks Extension for Raycast with Autosuggestions | hayden_barnes | macOS | [store](https://www.raycast.com/hayden_barnes/apple-stocks-search) |
 | [Google Finance](https://github.com/raycast/extensions/tree/main/extensions/google-finance) | 153 | Track stock prices powered by Google Finance | kyle_samani | macOS | [store](https://www.raycast.com/kyle_samani/google-finance) |

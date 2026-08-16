@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,412 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
+| [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,413 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,785 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
-| [Pin](https://github.com/raycast/extensions/tree/main/extensions/pin-raycast) | 875 | Extension for Pin.app. Pin any window to stay always on top using a mirror overlay. | tanb | macOS | [store](https://www.raycast.com/tanb/pin) |
+| [Pin](https://github.com/raycast/extensions/tree/main/extensions/pin-raycast) | 876 | Extension for Pin.app. Pin any window to stay always on top using a mirror overlay. | tanb | macOS | [store](https://www.raycast.com/tanb/pin) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 771 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
 | [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 8 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
 
@@ -20,8 +20,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 664,458 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 104,655 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 664,515 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 104,666 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 364 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) | 63 | See what's burning your CPU and spinning your fan | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/heatcheck) |
 
@@ -29,11 +29,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 44,507 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
-| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 30,363 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
-| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,048 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
+| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 44,512 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
+| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 30,371 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
+| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,054 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
 | [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,573 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
-| [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp) | 4,111 | Search Setapp apps | lardissone | macOS | [store](https://www.raycast.com/lardissone/setapp) |
+| [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp) | 4,112 | Search Setapp apps | lardissone | macOS | [store](https://www.raycast.com/lardissone/setapp) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,633 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,613 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
 | [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,464 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
@@ -45,8 +45,8 @@
 | [Metal Performance HUD](https://github.com/raycast/extensions/tree/main/extensions/performance-hud) | 962 | Toggle macOS's built-in Metal performance HUD | say4n | macOS | [store](https://www.raycast.com/say4n/performance-hud) |
 | [Launchpad+](https://github.com/raycast/extensions/tree/main/extensions/launchpad-plus) | 745 | A powerful and beautiful Launchpad for macOS that lets you organize and launch your apps with custom color-coded tags. | kbysiec | macOS | [store](https://www.raycast.com/kbysiec/launchpad-plus) |
 | [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | 599 | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
+| [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates) | 450 | Check for available updates of your installed macOS apps via Sparkle, Homebrew Cask, and Mac App Store | Undolog | macOS | [store](https://www.raycast.com/Undolog/app-updates) |
 | [Quick Quit](https://github.com/raycast/extensions/tree/main/extensions/quick-quit) | 450 | A Raycast extension to instantly quit custom groups of applications. Create custom categories and quit them with a quicklink or a dedicated hotkey. | sriramHQ | macOS | [store](https://www.raycast.com/sriramHQ/quick-quit) |
-| [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates) | 449 | Check for available updates of your installed macOS apps via Sparkle, Homebrew Cask, and Mac App Store | Undolog | macOS | [store](https://www.raycast.com/Undolog/app-updates) |
 | [Bundles](https://github.com/raycast/extensions/tree/main/extensions/bundles) | 237 | Organize applications, websites, and nested collections in custom bundles | Jace | macOS | [store](https://www.raycast.com/Jace/bundles) |
 | [Kill MCP Servers](https://github.com/raycast/extensions/tree/main/extensions/kill-mcp) | 222 | View and manage MCP (Model Context Protocol) servers running on your Mac. See RAM usage and kill processes. | baptiste-jn | macOS | [store](https://www.raycast.com/baptiste-jn/kill-mcp) |
 | [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) | 210 | Control BetterAudio from Raycast — per-app volume, EQ, device routing, media controls, and more. | rokartur | macOS | [store](https://www.raycast.com/rokartur/betteraudio) |

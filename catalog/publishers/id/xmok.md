@@ -1,6 +1,6 @@
 # xmok
 
-113 extensions · 11,342 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+113 extensions · 11,343 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -60,7 +60,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 430 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
+| [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 431 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
 | [Cocktail DB](https://github.com/raycast/extensions/tree/main/extensions/cocktail-db) | 136 | Search Drinks by Name or Ingredient via TheCocktailDB | xmok | macOS | [store](https://www.raycast.com/xmok/cocktail-db) |
 | [FBI](https://github.com/raycast/extensions/tree/main/extensions/fbi) | 90 | Get listing of wanted people and art crimes | xmok | macOS | [store](https://www.raycast.com/xmok/fbi) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 41 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
@@ -148,7 +148,7 @@
 | [MXroute](https://github.com/raycast/extensions/tree/main/extensions/mxroute) | 22 | Email hosting for your domains | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/mxroute) |
 | [Inbound](https://github.com/raycast/extensions/tree/main/extensions/inbound) | 18 | Email API for Developers - Send, Receive & Reply | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/inbound) |
 | [SendPortal](https://github.com/raycast/extensions/tree/main/extensions/sendportal) | 13 | Open Source Email Marketing Software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendportal) |
-| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | — | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | — |
+| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 0 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 
 ### Social & Fediverse
 

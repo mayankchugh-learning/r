@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 286,159 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,246 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 286,188 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,247 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
 | [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,235 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
 | [Airtable](https://github.com/raycast/extensions/tree/main/extensions/airtable) | 2,417 | List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. | marks | macOS | [store](https://www.raycast.com/marks/raycast-airtable-extension) |
 | [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,497 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |

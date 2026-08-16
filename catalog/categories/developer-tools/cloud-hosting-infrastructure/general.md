@@ -8,7 +8,7 @@
 | [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,189 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
 | [Kubernetes](https://github.com/raycast/extensions/tree/main/extensions/kubernetes) | 981 | Kubernetes Client in Raycast | justin0u0 | macOS | [store](https://www.raycast.com/justin0u0/kubernetes) |
 | [kubens](https://github.com/raycast/extensions/tree/main/extensions/kubens) | 769 | Switch between Kubernetes namespaces | ChrisKohler | macOS | [store](https://www.raycast.com/ChrisKohler/kubens) |
-| [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 518 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
+| [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 519 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
 | [Railway Project Search](https://github.com/raycast/extensions/tree/main/extensions/railway) | 508 | Search and navigate to your Railway projects | coffee-cup | macOS | [store](https://www.raycast.com/coffee-cup/railway) |
 | [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 490 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
 | [Fly.io](https://github.com/raycast/extensions/tree/main/extensions/raycast-fly) | 323 | View and modify your Fly.io applications | devuo | macOS | [store](https://www.raycast.com/devuo/raycast-fly) |

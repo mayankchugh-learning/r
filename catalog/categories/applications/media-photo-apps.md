@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 106,401 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
-| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 11,296 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
+| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 106,419 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
+| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 11,298 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
 | [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) | 512 | Quickly create records in Capture with Raycast. | syhchen | macOS | [store](https://www.raycast.com/syhchen/capture) |
 | [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 62 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 36 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
@@ -26,15 +26,15 @@
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,590 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
 | [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 808 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
 | [CLIPPyX](https://github.com/raycast/extensions/tree/main/extensions/clippyx) | 301 | CLIPPyX provides an OS-wide image search that supports semantic search in both image content and text on images | 0ssamaak0 | macOS | [store](https://www.raycast.com/0ssamaak0/clippyx) |
-| [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 91 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
+| [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 92 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 51 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
 
 ## Video ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,364 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
-| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 4,735 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,388 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 4,738 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
 | [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 871 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
 | [Threads Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/threads-video-downloader) | 317 | Download videos from Threads with ease | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/threads-video-downloader) |
 

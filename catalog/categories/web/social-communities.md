@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,344 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
+| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,347 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
 | [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 880 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 622 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
 | [Link Bundles](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) | 570 | Efficiently manage and launch groups of links in specific Chrome profiles. | toni_birka | macOS | [store](https://www.raycast.com/toni_birka/link-bundles) |
@@ -43,8 +43,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,882 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
-| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,195 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,887 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,197 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 635 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Mastodon Search](https://github.com/raycast/extensions/tree/main/extensions/mastodon-search) | 338 | Search for People or Hashtags on Mastodon. | daveverwer | macOS | [store](https://www.raycast.com/daveverwer/mastodon-search) |
 | [Copy Skeet Link](https://github.com/raycast/extensions/tree/main/extensions/copy-skeet-link) | 36 | Create a rich Bluesky skeet link using skeeet.xyz. | justinw | macOS | [store](https://www.raycast.com/justinw/copy-skeet-link) |

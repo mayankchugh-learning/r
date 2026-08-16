@@ -29,8 +29,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,987 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,044 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 44,995 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,045 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 6,010 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,407 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 391 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |

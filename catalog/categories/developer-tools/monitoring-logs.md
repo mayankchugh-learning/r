@@ -16,7 +16,7 @@
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 305 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
 | [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension) | 262 | Monitor and configure your systems managed by Beszel. | wyattjoh | macOS | [store](https://www.raycast.com/wyattjoh/beszel) |
 | [UptimeRobot](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) | 157 | View Monitors and Account Details | xmok | macOS | [store](https://www.raycast.com/xmok/uptime-robot) |
-| [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 91 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
+| [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 92 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
 | [Prusa Printer Control](https://github.com/raycast/extensions/tree/main/extensions/prusa) | 71 | Monitor and control your Prusa 3D printer directly from Raycast. View temperatures, manage files, and control prints with keyboard shortcuts. Supports Prusa XL… | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/prusa) |
 | [OpenStatus](https://github.com/raycast/extensions/tree/main/extensions/openstatus) | 55 | Manage your OpenStatus monitors, Incidents and status page | thibaultleouay | macOS | [store](https://www.raycast.com/thibaultleouay/openstatus) |
 | [HetrixTools](https://github.com/raycast/extensions/tree/main/extensions/hetrixtools) | 43 | Uptime Monitor & Blacklist Monitor | xmok | macOS | [store](https://www.raycast.com/xmok/hetrixtools) |
@@ -36,7 +36,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,079 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
+| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,080 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
 | [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,442 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
 | [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,312 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 400 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |

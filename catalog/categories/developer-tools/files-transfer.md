@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,115 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
+| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,119 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
 | [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,187 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,633 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) | 68 | Open selected Finder file or folder in TextMate | fannarfreyr | macOS | [store](https://www.raycast.com/fannarfreyr/open-in-textmate) |
@@ -36,7 +36,7 @@
 | [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,400 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
 | [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) | 3,341 | Upload files in a single click | pingdotgg (org) | Windows, macOS | [store](https://www.raycast.com/pingdotgg/uploadthing) |
 | [Disk Utility](https://github.com/raycast/extensions/tree/main/extensions/diskutil) | 1,108 | Create, list and delete Apple File System (APFS) disk volumes | stelo | macOS | [store](https://www.raycast.com/stelo/diskutil) |
-| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 594 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
+| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 595 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
 | [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) | 527 | Quick Raycast actions for Windsurf: open files/folders in Windsurf and manage Windsurf projects. | vikas-bansal | macOS | [store](https://www.raycast.com/vikas-bansal/windsurf) |
 | [Asset Catalog Extractor](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) | 200 | Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/asset-catalog-extractor) |
 | [Streamshare Uploader](https://github.com/raycast/extensions/tree/main/extensions/to-streamshare) | 174 | Upload files to streamshare | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/streamshare-uploader) |

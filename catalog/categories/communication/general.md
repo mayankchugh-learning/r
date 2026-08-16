@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,777 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,781 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,640 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,697 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,985 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
-| [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,433 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
+| [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,435 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
 | [Grammarix](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) | 1,351 | Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription,… | hakob_nersesian | macOS | [store](https://www.raycast.com/hakob_nersesian/grammari-x) |
 | [Time Zone Converter](https://github.com/raycast/extensions/tree/main/extensions/time-converter) | 1,058 | Convert times between different time zones and paste the results | alex_jones | macOS | [store](https://www.raycast.com/alex_jones/time-converter) |
 | [CanvasCast](https://github.com/raycast/extensions/tree/main/extensions/canvascast) | 1,030 | Access the Canvas LMS from Raycast | Yoda | macOS | [store](https://www.raycast.com/Yoda/canvascast) |
@@ -18,10 +18,10 @@
 | [BetterDiscord Store](https://github.com/raycast/extensions/tree/main/extensions/betterdiscord-search) | 529 | Allows you to search and view BetterDiscord addons inside Raycast | TheCommieAxolotl | macOS | [store](https://www.raycast.com/TheCommieAxolotl/betterdiscord-store) |
 | [Redmine](https://github.com/raycast/extensions/tree/main/extensions/redmine) | 418 | Integrate with the Redmine issue system (https://www.redmine.org/) | jwickers | macOS | [store](https://www.raycast.com/jwickers/redmine) |
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 380 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
-| [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) | 365 | Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing. | valenradovich | macOS | [store](https://www.raycast.com/valenradovich/grammaring) |
+| [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) | 366 | Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing. | valenradovich | macOS | [store](https://www.raycast.com/valenradovich/grammaring) |
 | [GitHub Users Search](https://github.com/raycast/extensions/tree/main/extensions/github-users) | 359 | Search GitHub users | luisFilipePT | macOS | [store](https://www.raycast.com/luisFilipePT/github-users) |
 | [Ask Notis](https://github.com/raycast/extensions/tree/main/extensions/notis) | 283 | Capture, organize, and find anything for you in your Notion workspace. | mindtheflo | macOS | [store](https://www.raycast.com/mindtheflo/notis) |
-| [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya) | 281 | Manage emails through Himalaya CLI | jns | macOS | [store](https://www.raycast.com/jns/himalaya) |
+| [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya) | 282 | Manage emails through Himalaya CLI | jns | macOS | [store](https://www.raycast.com/jns/himalaya) |
 | [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 274 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 216 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [omg.lol](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) | 206 | Create, read, and update data in your omg.lol account. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/omg-lol) |

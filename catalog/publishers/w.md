@@ -7,7 +7,7 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [waj](https://www.raycast.com/waj) | 1 | 172 | **Developer Tools:** [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) |
-| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 99,004 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
+| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 99,017 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
 | [wdeu](https://www.raycast.com/wdeu) | 3 | 25 | **Developer Tools:** [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync)<br>**Documentation:** [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup)<br>**Finance:** [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) |
 | [web3bio](https://www.raycast.com/web3bio) | 1 | 103 | **Developer Tools:** [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) |
 | [webdiego](https://www.raycast.com/webdiego) | 1 | 2,539 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
@@ -15,7 +15,7 @@
 | [weicodes](https://www.raycast.com/weicodes) | 1 | 1,641 | **Uncategorized:** [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) |
 | [wellsgz](https://www.raycast.com/wellsgz) | 1 | 142 | **System:** [Handoff Toggle](https://github.com/raycast/extensions/tree/main/extensions/handoff-toggle) |
 | [WerrySs](https://www.raycast.com/WerrySs) | 1 | 50 | **Developer Tools:** [PromptCast for Claude & Codex](https://github.com/raycast/extensions/tree/main/extensions/codex-claude-cli) |
-| [wesbaker](https://www.raycast.com/wesbaker) | 2 | 951 | **Media:** [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos)<br>**Developer Tools:** [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) |
+| [wesbaker](https://www.raycast.com/wesbaker) | 2 | 955 | **Media:** [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos)<br>**Developer Tools:** [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) |
 | [wesleycoder](https://www.raycast.com/wesleycoder) | 1 | 188 | **Productivity:** [Ntfy](https://github.com/raycast/extensions/tree/main/extensions/ntfy) |
 | [wesseljt](https://www.raycast.com/wesseljt) | 1 | 31 | **Productivity:** [Letta Agents](https://github.com/raycast/extensions/tree/main/extensions/letta) |
 | [wey-gu](https://www.raycast.com/wey-gu) | 1 | 189 | **Productivity:** [Nowledge Mem](https://github.com/raycast/extensions/tree/main/extensions/nowledge-mem) |

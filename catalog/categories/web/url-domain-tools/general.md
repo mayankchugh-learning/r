@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,524 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,525 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub) | 1,522 | Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Ra… | dubinc (org) | macOS | [store](https://www.raycast.com/dubinc/dub) |
 | [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,161 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
-| [Create Link](https://github.com/raycast/extensions/tree/main/extensions/create-link) | 701 | Create a link to the currently open browser tab in various formats (plain text, HTML, Markdown). | sinsky | macOS | [store](https://www.raycast.com/sinsky/create-link) |
+| [Create Link](https://github.com/raycast/extensions/tree/main/extensions/create-link) | 702 | Create a link to the currently open browser tab in various formats (plain text, HTML, Markdown). | sinsky | macOS | [store](https://www.raycast.com/sinsky/create-link) |
 | [Chakra UI Documentation](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) | 676 | Provide quick links to the Chakra UI component documentation. | pgvr | macOS | [store](https://www.raycast.com/pgvr/chakra-ui-docs) |
 | [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) | 291 | Check DNS propagation instantly. | valentin_denis | macOS, Windows | [store](https://www.raycast.com/valentin_denis/dns-lookup) |
 | [Pretty PR Link](https://github.com/raycast/extensions/tree/main/extensions/pretty-pr-link) | 115 | Quickly copy the link of a GitHub Pull Request in a formatted way so you can share with your team and ask for reviews. | jopcmelo | macOS, Windows | [store](https://www.raycast.com/jopcmelo/pretty-pr-link) |

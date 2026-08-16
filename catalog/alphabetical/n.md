@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 246,751 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
-| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,892 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 246,779 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,893 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,436 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,374 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,857 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
@@ -51,7 +51,7 @@
 | [Network Proxy](https://github.com/raycast/extensions/tree/main/extensions/network-proxy) | 262 | View and manage network proxy settings on macOS | wuyuxiangX | macOS | [store](https://www.raycast.com/wuyuxiangX/network-proxy) |
 | [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 246 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
 | [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) | 232 | Change the NPM registry address | lihzsky | macOS | [store](https://www.raycast.com/lihzsky/raycast-nrm) |
-| [Navidrome](https://github.com/raycast/extensions/tree/main/extensions/navidrome) | 218 | Search and browse your Navidrome music library. Find artists, albums, songs, and playlists, then open them directly in your browser. | alexandervarney | macOS | [store](https://www.raycast.com/alexandervarney/navidrome) |
+| [Navidrome](https://github.com/raycast/extensions/tree/main/extensions/navidrome) | 219 | Search and browse your Navidrome music library. Find artists, albums, songs, and playlists, then open them directly in your browser. | alexandervarney | macOS | [store](https://www.raycast.com/alexandervarney/navidrome) |
 | [NuGet](https://github.com/raycast/extensions/tree/main/extensions/nuget) | 212 | Simple extension to search for NuGet packages and copy command to install them to clipboard | lbergantin | macOS | [store](https://www.raycast.com/lbergantin/nuget) |
 | [Novu](https://github.com/raycast/extensions/tree/main/extensions/novu) | 210 | List all the useful sites, trigger notification, and more | djabarovgeorge | macOS | [store](https://www.raycast.com/djabarovgeorge/novu) |
 | [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts) | 200 | Get facts about numbers, dates, and years | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/number-facts) |

@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 246,751 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
-| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,892 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 246,779 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,893 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,088 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) | 1,047 | An extension to supercharge your research workflow with Notion | raz_gaon | macOS | [store](https://www.raycast.com/raz_gaon/notion_researcher) |
 | [Specify](https://github.com/raycast/extensions/tree/main/extensions/specify) | 732 | Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc. | AllanM | macOS | [store](https://www.raycast.com/AllanM/specify) |

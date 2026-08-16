@@ -6,15 +6,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 46,552 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
-| [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 40,979 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS | [store](https://www.raycast.com/kawamataryo/tinypng) |
-| [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 37,033 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
-| [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 25,307 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
+| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 46,554 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
+| [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 40,988 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS | [store](https://www.raycast.com/kawamataryo/tinypng) |
+| [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 37,036 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
+| [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 25,310 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
 | [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 10,379 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |
 | [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 8,599 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,130 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
-| [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 7,726 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
-| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,453 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
+| [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 7,727 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
+| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,454 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 4,970 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
 | [SVGO](https://github.com/raycast/extensions/tree/main/extensions/svgo) | 3,296 | Optimize SVG vector graphics files. | kaichi | macOS | [store](https://www.raycast.com/kaichi/raycast-svgo) |
 | [Color Shades](https://github.com/raycast/extensions/tree/main/extensions/color-shades) | 2,347 | Generate color shades from a base color and manage your generated color shades palettes. | qeude | macOS | [store](https://www.raycast.com/qeude/color-shades) |
@@ -23,8 +23,8 @@
 | [Convert Color](https://github.com/raycast/extensions/tree/main/extensions/covert-color) | 2,162 | hsl, rgb, hexadecimal, convert to each other | yf_zhang | macOS | [store](https://www.raycast.com/yf_zhang/covert-color) |
 | [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 2,006 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |
 | [CodeSnap](https://github.com/raycast/extensions/tree/main/extensions/codesnap) | 1,707 | Creates a beautiful image of your code snippet | Mokkapps | macOS | [store](https://www.raycast.com/Mokkapps/codesnap) |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,524 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
-| [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,383 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,525 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,384 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
 | [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,215 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
 | [MynaUI Icons](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons) | 1,045 | Search and Copy MynaUI Icons. | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/mynaui-icons) |
 | [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) | 977 | Quickly view the Catppuccin color palette, userstyles, ports, and documentation. | dvhsh | macOS | [store](https://www.raycast.com/dvhsh/catppuccin) |

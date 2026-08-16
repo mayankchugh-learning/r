@@ -37,7 +37,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,711 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
+| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,718 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
 | [Laravel Artisan](https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan) | 1,002 | View and search Laravel Artisan commands. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-artisan) |
 | [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 929 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
 | [React Native Directory](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) | 311 | A searchable and filterable directory of React Native libraries. | shubh_porwal | macOS | [store](https://www.raycast.com/shubh_porwal/react-native-directory) |

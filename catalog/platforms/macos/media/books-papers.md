@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,378 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,379 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,783 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,878 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
 | [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,614 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |

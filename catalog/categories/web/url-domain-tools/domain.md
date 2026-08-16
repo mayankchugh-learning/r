@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,386 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
-| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,386 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
-| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 5,882 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,389 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,389 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
+| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 5,883 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,598 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Render](https://github.com/raycast/extensions/tree/main/extensions/render) | 415 | View your Render services, deploys, and custom domains | destiner | macOS | [store](https://www.raycast.com/destiner/render) |
 | [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 86 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |

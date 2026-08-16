@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `c6e1d5874f`
+
+**Updated (1):** [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript)
+
 ## 2026-08-16 — upstream `06ccfb02e8`
 
 **Added (1):** [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail)
