@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `77ffdc4ffb`
+
+**Updated (1):** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router)
+
 ## 2026-08-16 — upstream `5d16858863`
 
 **Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)

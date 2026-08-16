@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5d168588639898b581c29e02a44ef66c6659c75c",
-  "generatedAt": "2026-08-16T05:48:31.479Z",
-  "downloadsRefreshedAt": "2026-08-16T05:48:30.672Z",
+  "commit": "77ffdc4ffbc6e3269d8f15f044105dc7abf3be56",
+  "generatedAt": "2026-08-16T05:56:37.473Z",
+  "downloadsRefreshedAt": "2026-08-16T05:56:36.064Z",
   "count": 3180,
   "extensions": [
     {
@@ -21698,7 +21698,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "fe80dbe88457618cfbba18695bd0bcb82407d90e",
-      "downloads": 494866
+      "downloads": 494869
     },
     {
       "dir": "google-chrome-profiles",
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 664117
+      "downloads": 664118
     },
     {
       "dir": "kimai",
@@ -50503,7 +50503,7 @@
       ],
       "store": "https://www.raycast.com/franzwilhelm/search-router",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/search-router",
-      "treeSha": "36e5039e42d10d9a6f0e2aa7d1e94c60f91132ff",
+      "treeSha": "4854a4d89201525e77ade08bc81734d4e73a87c8",
       "downloads": 1261
     },
     {

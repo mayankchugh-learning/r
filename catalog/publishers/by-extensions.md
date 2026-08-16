@@ -387,8 +387,8 @@
 | 377 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 378 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 3 |
 | 379 | github-next | 2 | — |
-| 380 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 664,117 |
-| 381 | [Codely](https://www.raycast.com/Codely) | 1 | 494,866 |
+| 380 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 664,118 |
+| 381 | [Codely](https://www.raycast.com/Codely) | 1 | 494,869 |
 | 382 | [linear](https://www.raycast.com/linear) | 1 | 343,208 |
 | 383 | [mommertf](https://www.raycast.com/mommertf) | 1 | 286,082 |
 | 384 | [nhojb](https://www.raycast.com/nhojb) | 1 | 255,370 |
