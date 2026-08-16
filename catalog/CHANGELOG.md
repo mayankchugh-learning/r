@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-16 — upstream `a6ab70cc5d`
+
+**Updated (1):** [Gram](https://github.com/raycast/extensions/tree/main/extensions/gram)
+
 ## 2026-08-16 — upstream `ef2ecd3c42`
 
 **Updated (1):** [gg.deals](https://github.com/raycast/extensions/tree/main/extensions/gg-deals)

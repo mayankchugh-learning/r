@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ef2ecd3c4219a916c78493258fedc0dc1d1893d1",
-  "generatedAt": "2026-08-16T03:31:51.748Z",
-  "downloadsRefreshedAt": "2026-08-16T03:31:50.875Z",
+  "commit": "a6ab70cc5d8c3f11ebbac860d765693709c82482",
+  "generatedAt": "2026-08-16T03:32:19.556Z",
+  "downloadsRefreshedAt": "2026-08-16T03:32:18.608Z",
   "count": 3180,
   "extensions": [
     {
@@ -22270,7 +22270,7 @@
       ],
       "store": "https://www.raycast.com/justyt65/gram",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gram",
-      "treeSha": "18d08277aa0dccdd754d106dce5f0295a11fd255",
+      "treeSha": "251b8e35fbbf0a18554a3d00eb972553453b6790",
       "downloads": 18
     },
     {
@@ -27997,7 +27997,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 664073
+      "downloads": 664074
     },
     {
       "dir": "kimai",
