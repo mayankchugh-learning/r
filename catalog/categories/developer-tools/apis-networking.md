@@ -40,7 +40,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,375 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
-| [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing) | 1,853 | Show All Your IPs, from Local Network and Multiple Sources | jason5ng32 | macOS | [store](https://www.raycast.com/jason5ng32/ipcheck-ing) |
+| [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing) | 1,853 | Show your local and external IPs from multiple sources, look up the location and network behind any IP address, and keep your current IP in the menu bar | jason5ng32 | macOS, Windows | [store](https://www.raycast.com/jason5ng32/ipcheck-ing) |
 | [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,454 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,393 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |
 | [Wifi Share QR-Code](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) | 1,388 | Share any saved wifi qr code to other devices to join the network | abul_kalam_robin | macOS | [store](https://www.raycast.com/abul_kalam_robin/wifi-share) |

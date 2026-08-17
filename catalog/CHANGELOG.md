@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-17 — upstream `261dbf2373`
+
+**Updated (1):** [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing)
+
 ## 2026-08-17 — upstream `b776fc2cb2`
 
 **Updated (1):** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep)
