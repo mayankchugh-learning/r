@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [qazi0](https://www.raycast.com/qazi0) | 1 | 1,930 | **Developer Tools:** [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) |
+| [qazi0](https://www.raycast.com/qazi0) | 1 | 1,931 | **Developer Tools:** [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) |
 | [qcrao](https://www.raycast.com/qcrao) | 1 | 179 | **Productivity:** [Markdown Styler](https://github.com/raycast/extensions/tree/main/extensions/markdown-styler) |
 | [qdequele](https://www.raycast.com/qdequele) | 1 | 510 | **Fun:** [Crunchbase](https://github.com/raycast/extensions/tree/main/extensions/crunchbase) |
 | [Qetesh](https://www.raycast.com/Qetesh) | 1 | 3,071 | **System:** [Battery Optimizer](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) |
@@ -14,7 +14,7 @@
 | [QIanGua](https://www.raycast.com/QIanGua) | 2 | 2,482 | **Applications:** [Hookmark Search](https://github.com/raycast/extensions/tree/main/extensions/search-hookmark)<br>**Productivity:** [Metaphor](https://github.com/raycast/extensions/tree/main/extensions/metaphor) |
 | [qlaffont](https://www.raycast.com/qlaffont) | 1 | 2 | **Applications:** [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) |
 | [quacksire](https://www.raycast.com/quacksire) | 1 | 54 | **Other:** [Transit Departures (Catenary for Raycast)](https://github.com/raycast/extensions/tree/main/extensions/catenary-raycast) |
-| [Quentin23Soleil](https://www.raycast.com/Quentin23Soleil) | 3 | 10,286 | **Communication:** [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone)<br>**Media:** [Music Link Converter](https://github.com/raycast/extensions/tree/main/extensions/music-link-converter)<br>**Developer Tools:** [Android Debug Bridge (Adb) Commands](https://github.com/raycast/extensions/tree/main/extensions/adb) |
+| [Quentin23Soleil](https://www.raycast.com/Quentin23Soleil) | 3 | 10,287 | **Communication:** [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone)<br>**Media:** [Music Link Converter](https://github.com/raycast/extensions/tree/main/extensions/music-link-converter)<br>**Developer Tools:** [Android Debug Bridge (Adb) Commands](https://github.com/raycast/extensions/tree/main/extensions/adb) |
 | [quentinved](https://www.raycast.com/quentinved) | 1 | 84 | **Security:** [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) |
 | [quiknull](https://www.raycast.com/quiknull) | 1 | 422 | **Productivity:** [Alice AI - Your Daily AI Actions Companion](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) |
 | [quuu](https://www.raycast.com/quuu) | 1 | 239 | **Data:** [List Randomizer](https://github.com/raycast/extensions/tree/main/extensions/list-randomizer) |

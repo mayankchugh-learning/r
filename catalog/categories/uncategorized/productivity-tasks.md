@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 495,563 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
-| [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 5,458 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
-| [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,183 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 495,715 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 5,460 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
+| [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,184 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
 | [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,250 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |
 | [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud) | 1,297 | Search files, deck, notes, favorites and activity in Nextcloud. | uetchy | macOS | [store](https://www.raycast.com/uetchy/nextcloud) |
 | [AppGrid](https://github.com/raycast/extensions/tree/main/extensions/appgrid) | 453 | Smart app launcher with grid view and category grouping | jungwoon | macOS | [store](https://www.raycast.com/Jungwoon/appgrid) |

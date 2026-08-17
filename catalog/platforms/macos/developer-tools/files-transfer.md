@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,124 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
+| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,127 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
 | [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | 4,873 | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
 | [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,187 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
 | [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 3,783 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |

@@ -6,14 +6,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) | 35,957 | Search your Raindrop.io bookmarks | lardissone | macOS, Windows | [store](https://www.raycast.com/lardissone/raindrop-io) |
+| [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) | 35,960 | Search your Raindrop.io bookmarks | lardissone | macOS, Windows | [store](https://www.raycast.com/lardissone/raindrop-io) |
 | [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,240 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
-| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,354 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
-| [Microsoft Edge](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) | 13,014 | Search open tabs, bookmarks, collections and history in Microsoft Edge. | KartikKumarSahoo | macOS | [store](https://www.raycast.com/KartikKumarSahoo/microsoft-edge) |
-| [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 12,440 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
+| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,356 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
+| [Microsoft Edge](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) | 13,016 | Search open tabs, bookmarks, collections and history in Microsoft Edge. | KartikKumarSahoo | macOS | [store](https://www.raycast.com/KartikKumarSahoo/microsoft-edge) |
+| [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 12,441 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
 | [Vivaldi](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) | 4,639 | Search open tabs, bookmarks and history in Vivaldi. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/vivaldi) |
-| [Comet](https://github.com/raycast/extensions/tree/main/extensions/comet) | 4,332 | Search open tabs, bookmarks and history in Comet. | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/comet) |
-| [Pocket](https://github.com/raycast/extensions/tree/main/extensions/pocket) | 3,553 | Manage Pocket bookmarks from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/pocket) |
+| [Comet](https://github.com/raycast/extensions/tree/main/extensions/comet) | 4,333 | Search open tabs, bookmarks and history in Comet. | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/comet) |
+| [Pocket](https://github.com/raycast/extensions/tree/main/extensions/pocket) | 3,555 | Manage Pocket bookmarks from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/pocket) |
 | [(Basic) Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/bmrks) | 1,726 | Companion bookmarking utility for bmrks.com | rauno | macOS | [store](https://www.raycast.com/rauno/bmrks) |
 | [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,433 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
 | [Opera](https://github.com/raycast/extensions/tree/main/extensions/opera) | 933 | Search open tabs, bookmarks and history in Opera. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/opera) |

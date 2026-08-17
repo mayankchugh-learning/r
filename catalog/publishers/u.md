@@ -10,7 +10,7 @@
 | [u2l](https://www.raycast.com/u2l) | 1 | 0 | **Productivity:** [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) |
 | [ubergraham](https://www.raycast.com/ubergraham) | 1 | 85 | **Other:** [ICD10 Lookup](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) |
 | [ubinatus](https://www.raycast.com/ubinatus) | 1 | 1,009 | **Developer Tools:** [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) |
-| [ubuntudroid](https://www.raycast.com/ubuntudroid) | 1 | 396 | **Developer Tools:** [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) |
+| [ubuntudroid](https://www.raycast.com/ubuntudroid) | 1 | 397 | **Developer Tools:** [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) |
 | [udus](https://www.raycast.com/udus) | 1 | 79 | **Media:** [Gyazo Uploader](https://github.com/raycast/extensions/tree/main/extensions/gyazo-uploader) |
 | [uetchy](https://www.raycast.com/uetchy) | 3 | 1,533 | **Uncategorized:** [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud)<br>**Web:** [Holodex](https://github.com/raycast/extensions/tree/main/extensions/holodex)<br>**Applications:** [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) |
 | [uixmat](https://www.raycast.com/uixmat) | 1 | 14 | **Web:** [Bklit Analytics](https://github.com/raycast/extensions/tree/main/extensions/bklit-analytics) |

@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,773 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
-| [Android](https://github.com/raycast/extensions/tree/main/extensions/android) | 1,280 | Useful Android commands to list projects and emulators | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android) |
+| [Android](https://github.com/raycast/extensions/tree/main/extensions/android) | 1,281 | Useful Android commands to list projects and emulators | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android) |
 | [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) | 1,223 | Mirror android device screen with scrcpy | zcfan | macOS | [store](https://www.raycast.com/zcfan/scrcpy) |
 | [Android Debug Bridge (Adb) Commands](https://github.com/raycast/extensions/tree/main/extensions/adb) | 1,041 | Run useful adb commands | Quentin23Soleil | macOS | [store](https://www.raycast.com/Quentin23Soleil/adb) |
 | [Simulator Manager](https://github.com/raycast/extensions/tree/main/extensions/simulator-manager) | 959 | Manage iOS simulators and Android emulators with ease. Boot, shutdown, and open simulators directly from Raycast. | pauloedurezende | macOS | [store](https://www.raycast.com/pauloedurezende/simulator-manager) |
@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,139 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,140 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
 | [Swift Package Index](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) | 823 | Search for Swift Packages via https://swiftpackageindex.com | maximkrouk | macOS | [store](https://www.raycast.com/maximkrouk/swift-package-index) |
 | [Hephaestus - JSON Tools](https://github.com/raycast/extensions/tree/main/extensions/hephaestus) | 215 | A collection of useful developer tools and utilities, including JSON to Swift, Objective-C, TypeScript, and more. | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/hephaestus) |
 | [Swift REPL](https://github.com/raycast/extensions/tree/main/extensions/swift-repl) | 207 | Run lil swift snippets | nakajima | macOS | [store](https://www.raycast.com/nakajima/swift-repl) |

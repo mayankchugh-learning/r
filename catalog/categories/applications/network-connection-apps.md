@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,663 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,677 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,118 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
 | [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 3,855 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
 | [Cloudflare WARP](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) | 1,789 | Manage Cloudflare WARP | anandubajith | macOS | [store](https://www.raycast.com/anandubajith/cloudflare-warp) |

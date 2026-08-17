@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 37,042 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
+| [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 37,049 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
 | [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 25,316 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
-| [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 10,385 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |
+| [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 10,386 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |
 | [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 8,601 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
-| [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 7,727 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
+| [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 7,730 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
 | [Material Icons](https://github.com/raycast/extensions/tree/main/extensions/material-icons) | 4,949 | Search and preview Material Icons | creasty | macOS, Windows | [store](https://www.raycast.com/creasty/material-icons) |
 | [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,123 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [Icons8](https://github.com/raycast/extensions/tree/main/extensions/icons8) | 4,119 | Search and download icons using Icons8 large library. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/icons8) |
@@ -23,7 +23,7 @@
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,231 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [MynaUI Icons](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons) | 1,046 | Search and Copy MynaUI Icons. | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/mynaui-icons) |
 | [Specify](https://github.com/raycast/extensions/tree/main/extensions/specify) | 732 | Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc. | AllanM | macOS | [store](https://www.raycast.com/AllanM/specify) |
-| [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler) | 727 | Copy & Paste Tabler Icons | zavbala | macOS | [store](https://www.raycast.com/zavbala/tabler) |
+| [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler) | 728 | Copy & Paste Tabler Icons | zavbala | macOS | [store](https://www.raycast.com/zavbala/tabler) |
 | [Supernova](https://github.com/raycast/extensions/tree/main/extensions/supernova) | 614 | Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in yo… | JiriTrecak | macOS | [store](https://www.raycast.com/JiriTrecak/supernova) |
 | [Cursors](https://github.com/raycast/extensions/tree/main/extensions/cursors) | 548 | All macOS cursors at your fingertips | storm | macOS | [store](https://www.raycast.com/storm/cursors) |
 | [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 491 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |

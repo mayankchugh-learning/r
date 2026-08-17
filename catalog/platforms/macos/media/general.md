@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,895 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
+| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,899 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
 | [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,540 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,004 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,985 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
-| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,763 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
+| [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,765 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,500 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
 | [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 3,937 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
 | [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,884 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
@@ -43,7 +43,7 @@
 | [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 557 | Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/replicate) |
 | [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 536 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
 | [RatingsDB](https://github.com/raycast/extensions/tree/main/extensions/ratingsdb) | 493 | Seamlessly search movie and tv show ratings and find where you can watch them! | krod12 | macOS | [store](https://www.raycast.com/krod12/ratingsdb) |
-| [Text Wiggle](https://github.com/raycast/extensions/tree/main/extensions/wiggle-text) | 465 | Create wiggly text walls for spamming. Satisfying to scroll through... | PineappleRind | macOS | [store](https://www.raycast.com/PineappleRind/wiggle-text) |
+| [Text Wiggle](https://github.com/raycast/extensions/tree/main/extensions/wiggle-text) | 466 | Create wiggly text walls for spamming. Satisfying to scroll through... | PineappleRind | macOS | [store](https://www.raycast.com/PineappleRind/wiggle-text) |
 | [Kinopoisk](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) | 437 | Search for movies using kinopoisk.ru | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/kinopoisk) |
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 309 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Openverse](https://github.com/raycast/extensions/tree/main/extensions/openverse) | 299 | Openverse is a search engine for openly-licensed media. | openverse (org) | macOS | [store](https://www.raycast.com/openverse/openverse) |
@@ -106,7 +106,7 @@
 | [AniMe](https://github.com/raycast/extensions/tree/main/extensions/raycast-anime) | 20 | Discover anime, current season releases, today's episodes, and a local watchlist powered by AniList. | esteban03 | macOS, Windows | [store](https://www.raycast.com/esteban03/raycast-anime) |
 | [TransistorFM](https://github.com/raycast/extensions/tree/main/extensions/raycast-transistorfm) | 20 | Get TransistorFM stats directly from your command bar | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/raycast-transistorfm) |
 | [Valheim Wiki Search](https://github.com/raycast/extensions/tree/main/extensions/valheim-wiki) | 16 | Search the Valheim Wiki, display a preview and open the full article in your browser. | constantin_prum | macOS | [store](https://www.raycast.com/constantin_prum/valheim-wiki) |
-| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 14 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
+| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 15 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
 | [7TV Emotes Search](https://github.com/raycast/extensions/tree/main/extensions/seventv-search) | 13 | Search, preview, copy, and paste 7TV emotes from Raycast. | Paranjayy | macOS, Windows | [store](https://www.raycast.com/Paranjayy/seventv-search) |
 | [Tuneblade](https://github.com/raycast/extensions/tree/main/extensions/tuneblade) | 12 | Control and manage Tuneblade devices | kibbewater | macOS, Windows | [store](https://www.raycast.com/kibbewater/tuneblade) |
 | [BetaSeries](https://github.com/raycast/extensions/tree/main/extensions/betaseries) | 11 | Manage your TV shows and movies with BetaSeries | lemikeone | macOS | [store](https://www.raycast.com/lemikeone/betaseries) |

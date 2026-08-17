@@ -1,6 +1,6 @@
 # kud
 
-12 extensions · 6,007 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+12 extensions · 6,009 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -14,7 +14,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [1 LOC - JavaScript Utilities in Single Line of Code](https://github.com/raycast/extensions/tree/main/extensions/1loc) | 1,494 | Browse JavaScript Utilities from 1loc.dev | kud | macOS | [store](https://www.raycast.com/kud/1loc) |
-| [Nerd Font Picker](https://github.com/raycast/extensions/tree/main/extensions/nerd-font-picker) | 105 | Browse and copy Nerd Font glyphs from your installed fonts | kud | macOS | [store](https://www.raycast.com/kud/nerd-font-picker) |
+| [Nerd Font Picker](https://github.com/raycast/extensions/tree/main/extensions/nerd-font-picker) | 106 | Browse and copy Nerd Font glyphs from your installed fonts | kud | macOS | [store](https://www.raycast.com/kud/nerd-font-picker) |
 | [ThermoConvert](https://github.com/raycast/extensions/tree/main/extensions/thermo-convert) | 56 | Instantly convert between all major temperature scales | kud | macOS, Windows | [store](https://www.raycast.com/kud/thermoconvert) |
 | [Gandi](https://github.com/raycast/extensions/tree/main/extensions/gandi) | 37 | Manage your Gandi domains, DNS records, and check domain availability | kud | macOS | [store](https://www.raycast.com/kud/gandi) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |
@@ -41,7 +41,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 14 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
+| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 15 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
 
 ## Productivity (1)
 

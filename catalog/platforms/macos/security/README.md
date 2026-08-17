@@ -10,18 +10,18 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) | 209,513 | Search, open or edit your 1Password passwords from Raycast | khasbilegt | macOS, Windows | [store](https://www.raycast.com/khasbilegt/1password) |
-| [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 58,009 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
-| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,478 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
+| [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) | 209,548 | Search, open or edit your 1Password passwords from Raycast | khasbilegt | macOS, Windows | [store](https://www.raycast.com/khasbilegt/1password) |
+| [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 58,010 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
+| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,480 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
 | [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,424 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [LastPass Credentials Search](https://github.com/raycast/extensions/tree/main/extensions/lastpass) | 2,575 | Search, view, and copy credentials from LastPass | alex-popov-tech | macOS | [store](https://www.raycast.com/alex-popov-tech/lastpass) |
-| [Dashlane](https://github.com/raycast/extensions/tree/main/extensions/dashlane) | 2,362 | Access your Dashlane vault directly from Raycast | dpnick | macOS | [store](https://www.raycast.com/dpnick/dashlane) |
-| [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,083 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
+| [Dashlane](https://github.com/raycast/extensions/tree/main/extensions/dashlane) | 2,363 | Access your Dashlane vault directly from Raycast | dpnick | macOS | [store](https://www.raycast.com/dpnick/dashlane) |
+| [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,085 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
 | [Doppler Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) | 1,775 | Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets | thomas | macOS | [store](https://www.raycast.com/thomas/doppler-share-secrets) |
-| [Apple-Like Password](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) | 1,526 | Copies a generated Apple Keychain-Like password directly to the clipboard in one step | breadone | macOS | [store](https://www.raycast.com/breadone/keychain-password-gen) |
-| [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) | 1,411 | Access Dashlane Vault. Requires installing the Dashlane CLI. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/dashlane-vault) |
+| [Apple-Like Password](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) | 1,528 | Copies a generated Apple Keychain-Like password directly to the clipboard in one step | breadone | macOS | [store](https://www.raycast.com/breadone/keychain-password-gen) |
+| [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) | 1,412 | Access Dashlane Vault. Requires installing the Dashlane CLI. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/dashlane-vault) |
 | [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) | 1,409 | Generates a set of random passwords using different generators. | omBratteng | macOS | [store](https://www.raycast.com/omBratteng/passphrase-generator) |
-| [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) | 1,227 | Search and manage your Proton Pass items, generate passwords, and get TOTP codes. | izyuumi | macOS | [store](https://www.raycast.com/izyuumi/proton-pass) |
+| [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) | 1,228 | Search and manage your Proton Pass items, generate passwords, and get TOTP codes. | izyuumi | macOS | [store](https://www.raycast.com/izyuumi/proton-pass) |
 | [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 995 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
 | [Password Store](https://github.com/raycast/extensions/tree/main/extensions/password-store) | 773 | A Raycast Extension for managing passwordstore.org passwords | afok | macOS | [store](https://www.raycast.com/afok/password-store) |
 | [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 578 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
@@ -85,13 +85,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,421 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
-| [Tunnelblick](https://github.com/raycast/extensions/tree/main/extensions/tunnelblick) | 4,164 | Quickly enable and disable vpn connections | SamuelNitsche | macOS | [store](https://www.raycast.com/SamuelNitsche/tunnelblick) |
+| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,423 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
+| [Tunnelblick](https://github.com/raycast/extensions/tree/main/extensions/tunnelblick) | 4,165 | Quickly enable and disable vpn connections | SamuelNitsche | macOS | [store](https://www.raycast.com/SamuelNitsche/tunnelblick) |
 | [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 2,636 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
 | [Mullvad VPN](https://github.com/raycast/extensions/tree/main/extensions/mullvad) | 1,743 | Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. | 0x46616c6b | macOS, Windows | [store](https://www.raycast.com/0x46616c6b/mullvad) |
 | [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,161 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
 | [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | 788 | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |
-| [NextDNS](https://github.com/raycast/extensions/tree/main/extensions/nextdns) | 781 | Viewing and controlling NextDNS settings | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/nextdns) |
+| [NextDNS](https://github.com/raycast/extensions/tree/main/extensions/nextdns) | 782 | Viewing and controlling NextDNS settings | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/nextdns) |
 | [AdGuard Home](https://github.com/raycast/extensions/tree/main/extensions/adguard-home) | 405 | Control your AdGuard Home instance | theplgeek | macOS | [store](https://www.raycast.com/theplgeek/adguard-home) |
 | [Mozilla VPN Connect](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) | 154 | Interact with the Mozilla VPN from Raycast. | natew | macOS | [store](https://www.raycast.com/natew/mozilla-vpn) |
 | [VivaPB](https://github.com/raycast/extensions/tree/main/extensions/vivapb) | 75 | Browse the web in privacy with the Vivaldi Browser. | Codrkoaz | macOS | [store](https://www.raycast.com/Codrkoaz/vivapb) |
@@ -102,9 +102,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,949 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
-| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,238 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
-| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 10,021 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,956 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,239 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
+| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 10,022 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
 | [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 3,855 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
 | [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,606 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
 | [VirusTotal](https://github.com/raycast/extensions/tree/main/extensions/virustotal) | 1,445 | Check files, IP addresses, URLs, and hashes for malware using VirusTotal | sadv1r | macOS, Windows | [store](https://www.raycast.com/sadv1r/virustotal) |

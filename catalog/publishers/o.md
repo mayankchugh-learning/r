@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [o1y](https://www.raycast.com/o1y) | 1 | 19,669 | **Productivity:** [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) |
+| [o1y](https://www.raycast.com/o1y) | 1 | 19,671 | **Productivity:** [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) |
 | [obahareth](https://www.raycast.com/obahareth) | 1 | 345 | **Developer Tools:** [Ruby Evaluate](https://github.com/raycast/extensions/tree/main/extensions/ruby-evaluate) |
 | [ofalvai](https://www.raycast.com/ofalvai) | 1 | 431 | **Developer Tools:** [Bitrise](https://github.com/raycast/extensions/tree/main/extensions/bitrise) |
 | [oh-dear](https://www.raycast.com/oh-dear) | 1 | 173 | **Web:** [Oh Dear](https://github.com/raycast/extensions/tree/main/extensions/ohdear) |

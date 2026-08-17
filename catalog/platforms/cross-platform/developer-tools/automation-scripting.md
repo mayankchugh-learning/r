@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,183 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
-| [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,377 | Convert cron expressions into human readable descriptions | niall-maloney | macOS, Windows | [store](https://www.raycast.com/niall-maloney/cron-description) |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,184 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,378 | Convert cron expressions into human readable descriptions | niall-maloney | macOS, Windows | [store](https://www.raycast.com/niall-maloney/cron-description) |
 | [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 929 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
 | [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | 18 | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
 | [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | 18 | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |

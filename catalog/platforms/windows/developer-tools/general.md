@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 664,730 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,663 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,367 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,768 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 664,902 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,677 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,389 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,773 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
 | [WiFi Password Reveal](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal) | 5,629 | Reveal any saved WiFi Password on macOS or Windows | louishuyng | macOS, Windows | [store](https://www.raycast.com/louishuyng/wifi-password-reveal) |
 | [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,424 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,040 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |

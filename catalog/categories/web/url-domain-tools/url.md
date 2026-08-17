@@ -21,9 +21,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 74,194 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
-| [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 12,121 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
-| [URL Unshortener](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) | 1,509 | Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/url-unshortener) |
+| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 74,202 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
+| [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 12,123 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
+| [URL Unshortener](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) | 1,510 | Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/url-unshortener) |
 | [Masked Link Generator](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) | 271 | Input a destination URL and the title of the link and receive a masked link in your clipboard. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/masked-link-generator) |
 | [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) | 108 | Instantly annotate images from your clipboard, Finder selection, or web URLs with Annotely. | codiini | macOS, Windows | [store](https://www.raycast.com/codiini/annotely) |
 
@@ -31,8 +31,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,971 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
-| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,226 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
+| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,975 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
+| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,227 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
 | [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,127 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
 | [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 1,857 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
 | [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,415 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
@@ -42,6 +42,6 @@
 | [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch) | 332 | Quickly switch between hosts while preserving the url path | ewgenius | macOS | [store](https://www.raycast.com/ewgenius/host-switch) |
 | [S.EE](https://github.com/raycast/extensions/tree/main/extensions/sdotee) | 9 | Create short URLs, share text, and upload files with S.EE | missuo | macOS | [store](https://www.raycast.com/missuo/sdotee) |
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 8 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
+| [Microsoft Tenant ID](https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id) | 3 | Find the Microsoft Entra (Azure AD) tenant ID for a domain, email, or URL — or reverse-look up the organization behind a tenant ID. | Rediwed | macOS, Windows | [store](https://www.raycast.com/Rediwed/microsoft-tenant-id) |
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 2 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
-| [Microsoft Tenant ID](https://github.com/raycast/extensions/tree/main/extensions/microsoft-tenant-id) | 2 | Find the Microsoft Entra (Azure AD) tenant ID for a domain, email, or URL — or reverse-look up the organization behind a tenant ID. | Rediwed | macOS, Windows | [store](https://www.raycast.com/Rediwed/microsoft-tenant-id) |
 | [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | 1 | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | [store](https://www.raycast.com/meslva/cl1p) |

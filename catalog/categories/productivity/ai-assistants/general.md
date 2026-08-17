@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 75,074 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
+| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 75,079 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
 | [Google Bard](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai) | 12,280 | Perform Actions with Google Bard | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-bard-ai) |
 | [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | 9,573 | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,614 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |

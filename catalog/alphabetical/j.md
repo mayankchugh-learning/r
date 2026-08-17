@@ -6,13 +6,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,828 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
-| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 30,406 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
+| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,834 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
+| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 30,409 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
 | [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 15,674 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
 | [Jira Search](https://github.com/raycast/extensions/tree/main/extensions/jira-search) | 7,960 | Search for Jira issues (more tolerant and powerful than built-in), projects, boards and filters. | sven | macOS | [store](https://www.raycast.com/sven/jira-search) |
 | [Jira Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-search-self-hosted) | 4,579 | Search for Jira issues (more tolerant and powerful than built-in), projects, and boards on Jira Server instances. | emanguy | macOS | [store](https://www.raycast.com/emanguy/jira-search-self-hosted) |
 | [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor) | 4,508 | All JSON operations in one editor. | HerbertLu | macOS, Windows | [store](https://www.raycast.com/HerbertLu/json-editor) |
-| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 3,982 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
+| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 3,983 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 3,937 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
 | [Jump](https://github.com/raycast/extensions/tree/main/extensions/jump) | 1,703 | Jump to websites, folders, or files | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/jump) |
 | [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,421 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |

@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) | 6,863 | List, search and run shortcuts for different applications | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/shortcuts-search) |
+| [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) | 6,864 | List, search and run shortcuts for different applications | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/shortcuts-search) |
 | [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 5,600 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
 | [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,521 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
 | [Screen Sharing Recents](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) | 1,267 | Adds shortcuts to recent screen sharing locations | bix | macOS | [store](https://www.raycast.com/bix/screen-sharing-recents) |
@@ -39,9 +39,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 181,200 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,183 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
-| [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 8,598 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
+| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 181,218 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,184 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 8,600 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
 | [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 8,486 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
 | [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,613 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
 | [ChartMogul](https://github.com/raycast/extensions/tree/main/extensions/chartmogul) | 52 | A Raycast extension that gives you quick access to key business metrics from ChartMogul right from your command bar. Instantly view MRR, ARR, churn, customer c… | mattdelliott | macOS | [store](https://www.raycast.com/mattdelliott/chartmogul) |

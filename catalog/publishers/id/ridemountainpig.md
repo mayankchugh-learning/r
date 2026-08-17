@@ -1,12 +1,12 @@
 # ridemountainpig
 
-15 extensions · 15,049 downloads · [store](https://www.raycast.com/ridemountainpig) · [← publishers](../README.md)
+15 extensions · 15,051 downloads · [store](https://www.raycast.com/ridemountainpig) · [← publishers](../README.md)
 
 ## Applications (10)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,458 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,459 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [Raycast MonkeyType Theme Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-monkeytype-theme) | 869 | This "Raycast MonkeyType Theme" extension provides MonkeyType themes for Raycast. | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/raycast-monkeytype-theme) |
 | [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 808 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 667 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
@@ -21,7 +21,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,863 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
+| [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,864 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
 
 ## Documentation (2)
 

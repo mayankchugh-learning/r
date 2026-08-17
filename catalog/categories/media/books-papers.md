@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,380 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
-| [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,064 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
+| [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,066 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 848 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 337 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 | [CC0-LIB - Browse CC0 Content](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) | 29 | Browse library of CC0 content | 0xN1 | macOS | [store](https://www.raycast.com/0xN1/cc0-lib) |

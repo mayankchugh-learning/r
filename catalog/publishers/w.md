@@ -7,7 +7,7 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [waj](https://www.raycast.com/waj) | 1 | 172 | **Developer Tools:** [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) |
-| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 99,041 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
+| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 99,048 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
 | [wdeu](https://www.raycast.com/wdeu) | 3 | 25 | **Developer Tools:** [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync)<br>**Documentation:** [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup)<br>**Finance:** [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) |
 | [web3bio](https://www.raycast.com/web3bio) | 1 | 103 | **Developer Tools:** [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) |
 | [webdiego](https://www.raycast.com/webdiego) | 1 | 2,539 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
@@ -35,7 +35,7 @@
 | [wp-lai](https://www.raycast.com/wp-lai) | 1 | 337 | **Productivity:** [DEX Screener](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) |
 | [wrick17](https://www.raycast.com/wrick17) | 1 | 693 | **Productivity:** [Open Multiple Links](https://github.com/raycast/extensions/tree/main/extensions/multi-links) |
 | [wu.eth](https://www.raycast.com/wu.eth) | 1 | 676 | **Productivity:** [Markdown Table to Excel](https://github.com/raycast/extensions/tree/main/extensions/md-to-excel) |
-| [wuyax](https://www.raycast.com/wuyax) | 1 | 582 | **Media:** [TinyIMG](https://github.com/raycast/extensions/tree/main/extensions/tinyimg) |
+| [wuyax](https://www.raycast.com/wuyax) | 1 | 583 | **Media:** [TinyIMG](https://github.com/raycast/extensions/tree/main/extensions/tinyimg) |
 | [wuyuxiangX](https://www.raycast.com/wuyuxiangX) | 2 | 316 | **Uncategorized:** [Network Proxy](https://github.com/raycast/extensions/tree/main/extensions/network-proxy)<br>**Developer Tools:** [Try](https://github.com/raycast/extensions/tree/main/extensions/try) |
 | [wxiaoyun](https://www.raycast.com/wxiaoyun) | 1 | 25 | **Data:** [NUSMods](https://github.com/raycast/extensions/tree/main/extensions/nusmods) |
 | [wyattjoh](https://www.raycast.com/wyattjoh) | 2 | 342 | **Developer Tools:** [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension)<br>**Media:** [NZBGet](https://github.com/raycast/extensions/tree/main/extensions/nzbget) |

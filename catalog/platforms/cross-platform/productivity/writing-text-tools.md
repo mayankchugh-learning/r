@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) | 57,869 | Translate words, or entire sentences, into 27 different languages using DeepL. | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/deepcast) |
-| [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count) | 35,746 | Count characters, words, sentences, and paragraphs in text. | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/word-count) |
-| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,971 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
-| [Word Search](https://github.com/raycast/extensions/tree/main/extensions/word-search) | 24,691 | Search for synonyms, antonyms, spellings, rhymes and more | rishabswift | macOS, Windows | [store](https://www.raycast.com/rishabswift/word-search) |
+| [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) | 57,880 | Translate words, or entire sentences, into 27 different languages using DeepL. | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/deepcast) |
+| [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count) | 35,750 | Count characters, words, sentences, and paragraphs in text. | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/word-count) |
+| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 31,975 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
+| [Word Search](https://github.com/raycast/extensions/tree/main/extensions/word-search) | 24,692 | Search for synonyms, antonyms, spellings, rhymes and more | rishabswift | macOS, Windows | [store](https://www.raycast.com/rishabswift/word-search) |
 | [Regex Tester](https://github.com/raycast/extensions/tree/main/extensions/regex-tester) | 11,937 | Preview and test regular expressions | allenan | macOS, Windows | [store](https://www.raycast.com/allenan/regex-tester) |
 | [Webpage to Markdown](https://github.com/raycast/extensions/tree/main/extensions/webpage-to-markdown) | 5,141 | Convert any webpage to markdown just by providing the url. | treyg | macOS, Windows | [store](https://www.raycast.com/treyg/webpage-to-markdown) |
 | [Spell](https://github.com/raycast/extensions/tree/main/extensions/spell) | 3,333 | Struggling to spell a word? With this extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API. | Gorzog | macOS, Windows | [store](https://www.raycast.com/Gorzog/spell) |

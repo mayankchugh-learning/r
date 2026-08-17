@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 106,851 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
-| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,926 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
-| [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,680 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
-| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,156 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
+| [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 106,863 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
+| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 100,937 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
+| [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track) | 12,681 | Start and stop time entries with Toggl Track | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/toggl-track) |
+| [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,157 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
 | [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,033 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Work Time Countdown](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) | 2,781 | A simple timer to help you keep productive during work time. | thomas | macOS | [store](https://www.raycast.com/thomas/work-time-countdown) |
 | [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,387 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |

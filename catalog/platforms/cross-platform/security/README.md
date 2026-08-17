@@ -10,12 +10,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) | 209,513 | Search, open or edit your 1Password passwords from Raycast | khasbilegt | macOS, Windows | [store](https://www.raycast.com/khasbilegt/1password) |
-| [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 58,009 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
-| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,478 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
+| [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) | 209,548 | Search, open or edit your 1Password passwords from Raycast | khasbilegt | macOS, Windows | [store](https://www.raycast.com/khasbilegt/1password) |
+| [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 58,010 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
+| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,480 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
 | [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,424 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
-| [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,083 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
-| [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) | 1,411 | Access Dashlane Vault. Requires installing the Dashlane CLI. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/dashlane-vault) |
+| [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,085 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
+| [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) | 1,412 | Access Dashlane Vault. Requires installing the Dashlane CLI. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/dashlane-vault) |
 | [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 578 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
 | [Keeper Security](https://github.com/raycast/extensions/tree/main/extensions/keeper-security) | 332 | Access your Keeper Security secrets directly from Raycast. | keepersecurity | macOS, Windows | [store](https://www.raycast.com/keepersecurity/keeper-security) |
 | [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 182 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |

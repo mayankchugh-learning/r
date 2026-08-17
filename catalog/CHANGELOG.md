@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-17 — upstream `60f65bc933`
+
+**Updated (1):** [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco)
+
 ## 2026-08-17 — upstream `4498925883`
 
 **Added (1):** [Promptty](https://github.com/raycast/extensions/tree/main/extensions/promptty)

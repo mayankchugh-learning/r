@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 22,087 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
-| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,788 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 22,090 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
+| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,790 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,662 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
-| [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | 4,603 | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |
+| [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | 4,604 | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |
 | [Sequoia Window Tiling](https://github.com/raycast/extensions/tree/main/extensions/sequoia-tiling) | 978 | Map macOS Sequoia tiling commands to Raycast actions with friendly shortcuts. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/sequoia-tiling) |
 | [Scoop](https://github.com/raycast/extensions/tree/main/extensions/scoop) | 599 | Manage Scoop, the command-line installer for Windows. | zsombor_biro | Windows | [store](https://www.raycast.com/zsombor_biro/scoop) |
 | [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 595 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
@@ -29,13 +29,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | 10,370 | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
+| [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | 10,374 | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
 | [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 9,490 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
 | [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) | 7,764 | Show current weather on the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-weather) |
 | [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,454 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
-| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,226 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
+| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,227 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
 | [Battery Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/battery-menubar) | 1,986 | Battery capacity and power-draw information in the Menu Bar | panrafal | macOS | [store](https://www.raycast.com/panrafal/battery-menubar) |
-| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 523 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
+| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 526 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
 | [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 92 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
 
 ## Space ✦
@@ -46,7 +46,7 @@
 | [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) | 908 | Analyze disk space usage and identify large files and folders in your home directory | easymikey | macOS | [store](https://www.raycast.com/easymikey/disk-usage) |
 | [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner) | 136 | Scan and clean developer caches, build artifacts, and orphaned dependencies to reclaim disk space | Undolog | macOS | [store](https://www.raycast.com/Undolog/dev-cache-cleaner) |
 | [Spacer](https://github.com/raycast/extensions/tree/main/extensions/spacer) | 118 | Name your spaces & more... | jd-solanki | macOS | [store](https://www.raycast.com/jd-solanki/spacer) |
-| [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | 31 | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |
+| [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | 32 | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |
 | [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 2 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |
 
 ## Dock ✦

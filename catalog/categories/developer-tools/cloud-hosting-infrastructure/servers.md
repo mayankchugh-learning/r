@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,143 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
+| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,144 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
 | [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,378 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
 | [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,341 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
 | [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,129 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
