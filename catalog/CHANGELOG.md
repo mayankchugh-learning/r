@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-17 — upstream `eff60e4ecd`
+
+**Updated (1):** [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts)
+
 ## 2026-08-17 — upstream `760aaeaa4a`
 
 **Updated (1):** [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes)

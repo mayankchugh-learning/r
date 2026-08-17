@@ -16,8 +16,8 @@
 | [NYC Train Tracker - Realtime Train Departures](https://github.com/raycast/extensions/tree/main/extensions/nyc-train-tracker) | 61 | Look up train departures and service alerts for MTA, LIRR and MNR. | kcole93 | macOS | [store](https://www.raycast.com/kcole93/nyc-train-tracker) |
 | [Transit Departures (Catenary for Raycast)](https://github.com/raycast/extensions/tree/main/extensions/catenary-raycast) | 54 | View real-time transit departures for any stop from anywhere using Catenary. | quacksire | macOS, Windows | [store](https://www.raycast.com/quacksire/catenary-raycast) |
 | [Irish Rail](https://github.com/raycast/extensions/tree/main/extensions/irish-rail) | 29 | Irish Rail departure information | dave-kav | macOS | [store](https://www.raycast.com/dave-kav/irish-rail) |
+| [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) | 28 | Gets departure times at train and bus stations in Switzerland. | etienne_gobeli | macOS | [store](https://www.raycast.com/etienne_gobeli/swiss-train-times) |
 | [Trenit](https://github.com/raycast/extensions/tree/main/extensions/trenit) | 28 | Italian Rail departure information | gianpiero_spinelli | macOS | [store](https://www.raycast.com/gianpiero_spinelli/trenit) |
-| [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) | 27 | Gets departure times at train and bus stations in Switzerland. | etienne_gobeli | macOS | [store](https://www.raycast.com/etienne_gobeli/swiss-train-times) |
 | [Transport NSW](https://github.com/raycast/extensions/tree/main/extensions/transport-nsw) | 13 | View real-time departures for Sydney trains, metro, and light rail | barlow | macOS | [store](https://www.raycast.com/barlow/transport-nsw) |
 
 ## Train ✦
@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 39,695 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 39,702 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 202 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Check Citi Bike Availability](https://github.com/raycast/extensions/tree/main/extensions/check-citi-bike-availability) | 32 | Check the availability of bikes/e-bikes at CitiBike NYC stations. | kcole93 | macOS | [store](https://www.raycast.com/kcole93/check-citi-bike-availability) |
 | [Active Mississaugua](https://github.com/raycast/extensions/tree/main/extensions/active-mississaugua) | 20 | Explore activities for the city of Mississaugua in Ontario, Canada. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/active-mississaugua) |
