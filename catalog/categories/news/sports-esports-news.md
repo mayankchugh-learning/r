@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,543 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
+| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,544 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
 | [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,463 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,340 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [CricketCast](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) | 688 | Check the cricket score and news through Raycast! | sampoder | macOS | [store](https://www.raycast.com/sampoder/cricketcast) |

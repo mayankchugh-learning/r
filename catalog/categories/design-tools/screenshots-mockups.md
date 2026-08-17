@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 61,367 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
-| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 23,966 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
-| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,390 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
+| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 61,378 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
+| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 23,971 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
+| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,393 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
 | [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,342 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,525 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,432 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |

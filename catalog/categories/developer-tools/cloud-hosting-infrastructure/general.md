@@ -10,7 +10,7 @@
 | [kubens](https://github.com/raycast/extensions/tree/main/extensions/kubens) | 769 | Switch between Kubernetes namespaces | ChrisKohler | macOS | [store](https://www.raycast.com/ChrisKohler/kubens) |
 | [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 519 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
 | [Railway Project Search](https://github.com/raycast/extensions/tree/main/extensions/railway) | 508 | Search and navigate to your Railway projects | coffee-cup | macOS | [store](https://www.raycast.com/coffee-cup/railway) |
-| [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 490 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
+| [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 491 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
 | [Fly.io](https://github.com/raycast/extensions/tree/main/extensions/raycast-fly) | 323 | View and modify your Fly.io applications | devuo | macOS | [store](https://www.raycast.com/devuo/raycast-fly) |
 | [v0 by Vercel](https://github.com/raycast/extensions/tree/main/extensions/v0-by-vercel) | 285 | Create, view and manage your v0 chats within Raycast | vercel (org) | macOS | [store](https://www.raycast.com/vercel/v0-by-vercel) |
 | [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) | 270 | Interact with teleport, the open infrastructure access platform | lamberttraccard | macOS | [store](https://www.raycast.com/lamberttraccard/teleport) |

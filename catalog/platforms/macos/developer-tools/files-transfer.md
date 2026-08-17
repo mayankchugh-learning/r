@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,119 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
+| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,121 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
 | [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | 4,873 | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
 | [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,187 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
-| [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 3,780 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
-| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,400 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
+| [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 3,781 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
+| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,401 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
 | [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) | 3,341 | Upload files in a single click | pingdotgg (org) | Windows, macOS | [store](https://www.raycast.com/pingdotgg/uploadthing) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,633 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Disk Utility](https://github.com/raycast/extensions/tree/main/extensions/diskutil) | 1,108 | Create, list and delete Apple File System (APFS) disk volumes | stelo | macOS | [store](https://www.raycast.com/stelo/diskutil) |

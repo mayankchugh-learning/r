@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 255,467 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,118 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
-| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,828 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
-| [Toggle Fn](https://github.com/raycast/extensions/tree/main/extensions/toggle-fn) | 1,558 | Toggle the "Use all F1, F2, etc. keys as standard function keys" option in macOS System Preferences. | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/toggle-fn) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 255,495 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,121 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,831 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
+| [Toggle Fn](https://github.com/raycast/extensions/tree/main/extensions/toggle-fn) | 1,559 | Toggle the "Use all F1, F2, etc. keys as standard function keys" option in macOS System Preferences. | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/toggle-fn) |
 | [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 920 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
 | [Toggle Grayscale](https://github.com/raycast/extensions/tree/main/extensions/toggle-grayscale) | 887 | Instantly toggle your Mac's Color Filters accessibility feature on/off without opening System Settings. Switch between color modes with a single command. | zcsabbagh | macOS | [store](https://www.raycast.com/zcsabbagh/toggle-grayscale) |
 | [Default Web Browser Manager](https://github.com/raycast/extensions/tree/main/extensions/default-web-browser-manager) | 589 | Conveniently set your default browser via Raycast commands | clins1994 | macOS | [store](https://www.raycast.com/clins1994/default-web-browser-manager) |

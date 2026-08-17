@@ -10,14 +10,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 22,085 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
-| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,780 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
-| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,661 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
-| [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | 4,599 | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |
+| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 22,086 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
+| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,784 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,662 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | 4,603 | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |
 | [Sequoia Window Tiling](https://github.com/raycast/extensions/tree/main/extensions/sequoia-tiling) | 978 | Map macOS Sequoia tiling commands to Raycast actions with friendly shortcuts. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/sequoia-tiling) |
 | [Scoop](https://github.com/raycast/extensions/tree/main/extensions/scoop) | 599 | Manage Scoop, the command-line installer for Windows. | zsombor_biro | Windows | [store](https://www.raycast.com/zsombor_biro/scoop) |
 | [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 595 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
-| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 473 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
+| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 474 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
 | [Keyboard Win Mac Switch](https://github.com/raycast/extensions/tree/main/extensions/keyboard-win-mac-switch) | 302 | This extension allow you to switch alt and window keys | fab_uleuh | macOS | [store](https://www.raycast.com/fab_uleuh/keyboard-win-mac-switch) |
 | [Virtual Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/virtual-desktop-manager) | 199 | Manage Windows virtual desktops directly from Raycast using AutoHotkey. Brings hyprland like experience to windows. | sameed_majgaonkar | Windows | [store](https://www.raycast.com/sameed_majgaonkar/virtual-desktop-manager) |
 | [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers) | 177 | Easily change between the default Windows wallpapers without changing full themes | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windows-default-wallpapers) |
@@ -29,13 +29,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | 10,365 | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
-| [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 9,489 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
+| [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) | 10,369 | Switch between show/hide menu bar options | iamyeizi | macOS | [store](https://www.raycast.com/iamyeizi/toggle-menu-bar) |
+| [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 9,490 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |
 | [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) | 7,764 | Show current weather on the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-weather) |
-| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,453 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
-| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,224 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
+| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,454 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
+| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,226 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
 | [Battery Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/battery-menubar) | 1,986 | Battery capacity and power-draw information in the Menu Bar | panrafal | macOS | [store](https://www.raycast.com/panrafal/battery-menubar) |
-| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 521 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
+| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 523 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
 | [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 92 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
 
 ## Space ✦
@@ -53,7 +53,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | 6,325 | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |
+| [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | 6,326 | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |
 | [Dock](https://github.com/raycast/extensions/tree/main/extensions/dock) | 1,918 | Change the dock's position to the left, right, or bottom edge of the screen. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/dock) |
 | [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks) | 977 | Discover and toggle hidden macOS settings without the Terminal. Browse a curated catalog of defaults write tweaks for Finder, Dock, Screenshots, Animations, an… | Undolog | macOS | [store](https://www.raycast.com/Undolog/macos-tweaks) |
 | [Lockdock](https://github.com/raycast/extensions/tree/main/extensions/lockdock) | 29 | Lock the macOS Dock to a specific display | mishamyrt | macOS | [store](https://www.raycast.com/mishamyrt/lockdock) |
@@ -64,5 +64,5 @@
 | --- | --- | --- | --- | --- | --- |
 | [Toggle Desktop Visibility](https://github.com/raycast/extensions/tree/main/extensions/toggle-desktop-visibility) | 4,135 | Toggle Desktop file or folder visible and hidden | Haojen | macOS | [store](https://www.raycast.com/Haojen/toggle-desktop-visibility) |
 | [Hide Files](https://github.com/raycast/extensions/tree/main/extensions/hide-files) | 2,431 | Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/hide-files) |
-| [Network Menubar Monitor](https://github.com/raycast/extensions/tree/main/extensions/network-menubar-monitor) | 1,149 | Show current network bandwith | iaroslav_naiden | macOS | [store](https://www.raycast.com/iaroslav_naiden/network-menubar-monitor) |
+| [Network Menubar Monitor](https://github.com/raycast/extensions/tree/main/extensions/network-menubar-monitor) | 1,150 | Show current network bandwith | iaroslav_naiden | macOS | [store](https://www.raycast.com/iaroslav_naiden/network-menubar-monitor) |
 | [Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/desktop-manager) | 191 | Search and organize your desktop files | tykid | macOS | [store](https://www.raycast.com/tykid/desktop-manager) |

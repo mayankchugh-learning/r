@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) | 1,416 | Manage masked emails with Fastmail | LightQuantum | macOS | [store](https://www.raycast.com/LightQuantum/fastmail-masked-email) |
-| [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) | 1,007 | Serve Web Apps with one command ngrok is a simplified API-first ingress-as-a-service that adds connectivity, security, and observability to your apps in one li… | ubinatus | macOS | [store](https://www.raycast.com/ubinatus/ngrok) |
+| [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) | 1,417 | Manage masked emails with Fastmail | LightQuantum | macOS | [store](https://www.raycast.com/LightQuantum/fastmail-masked-email) |
+| [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) | 1,008 | Serve Web Apps with one command ngrok is a simplified API-first ingress-as-a-service that adds connectivity, security, and observability to your apps in one li… | ubinatus | macOS | [store](https://www.raycast.com/ubinatus/ngrok) |
 | [Pastebin](https://github.com/raycast/extensions/tree/main/extensions/pastebin) | 872 | Create and manage Pastebin pastes | vimtor | macOS | [store](https://www.raycast.com/vimtor/pastebin) |
 | [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) | 828 | Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API | krsntn | macOS | [store](https://www.raycast.com/krsntn/guerrilla-mail) |
 | [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 799 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS | [store](https://www.raycast.com/Flatroy/hide-mail) |

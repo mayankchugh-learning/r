@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,982 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
-| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,758 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
-| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,589 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
+| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,984 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
+| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,760 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
+| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,590 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,340 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
-| [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,120 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
+| [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,122 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
 | [Rollcast](https://github.com/raycast/extensions/tree/main/extensions/rollcast) | 702 | Roll dice for your D&D games from Raycast! | troalexis | macOS, Windows | [store](https://www.raycast.com/troalexis/rollcast) |
 | [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 611 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
 | [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 588 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
@@ -38,7 +38,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,538 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,540 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) | 2,133 | Quickly and easily make random decisions or generate a random number | yonbergman | macOS, Windows | [store](https://www.raycast.com/yonbergman/dice-and-coin) |
 | [KnowYourMeme](https://github.com/raycast/extensions/tree/main/extensions/knowyourmeme) | 681 | Search KnowYourMeme.com memes directly from Raycast and get details! | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/knowyourmeme) |
 | [No as a Service](https://github.com/raycast/extensions/tree/main/extensions/no-as-a-service) | 391 | Get a random reason to say no. Inspired by https://github.com/hotheadhacker/no-as-a-service | nedini | macOS, Windows | [store](https://www.raycast.com/nedini/no-as-a-service) |
@@ -58,7 +58,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 239,160 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 239,173 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 238 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 | [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) | 3 | Set a funny status on Slack, GitLab and GitHub at once — pick services, roll a random one, or generate with AI. | jan_werner | macOS, Windows | [store](https://www.raycast.com/jan_werner/status-nerd) |
 
@@ -68,7 +68,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 13,272 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
+| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 13,275 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
 | [Anilist Airing Schedule](https://github.com/raycast/extensions/tree/main/extensions/anilist-airing-schedule) | 198 | Get airing schedule of anime from Anilist.co | yeskunall | Windows, macOS | [store](https://www.raycast.com/yeskunall/anilist-airing-schedule) |
 | [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs) | 84 | Search for TV show ratings and get individual episode ratings, straight from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/series-rating-graphs) |
 
@@ -104,7 +104,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 90,432 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
+| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 90,449 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
 | [Emoji Mashups](https://github.com/raycast/extensions/tree/main/extensions/emoji-kitchen) | 207 | Discover and copy Google Emoji Kitchen mashups fast. Browse unique emoji combinations and use them as fun, expressive images in messages and posts. Copy/paste… | corey_o_neal | macOS, Windows | [store](https://www.raycast.com/corey_o_neal/emoji-kitchen) |
 
 ### Wallpapers & Effects
@@ -131,18 +131,18 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,869 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
-| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 42,162 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,887 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,251 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,882 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 42,166 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,894 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,253 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Urban Dictionary Search](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) | 5,001 | Search on Urban Dictionary | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/urban-dictionary) |
 | [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,338 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
-| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,197 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
+| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,198 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Party Parrot](https://github.com/raycast/extensions/tree/main/extensions/party-parrot) | 3,776 | Celebrating the good times with some dancing party parrot in Raycast. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/party-parrot) |
-| [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,787 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
+| [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,788 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,614 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
-| [Timezone Buddy](https://github.com/raycast/extensions/tree/main/extensions/timezone-buddy) | 2,288 | Show friends in other timezones | andrebreia | macOS, Windows | [store](https://www.raycast.com/andrebreia/timezone-buddy) |
-| [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,873 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
+| [Timezone Buddy](https://github.com/raycast/extensions/tree/main/extensions/timezone-buddy) | 2,289 | Show friends in other timezones | andrebreia | macOS, Windows | [store](https://www.raycast.com/andrebreia/timezone-buddy) |
+| [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,874 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 775 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 747 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 267 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
@@ -156,7 +156,7 @@
 | [Minecast](https://github.com/raycast/extensions/tree/main/extensions/minecast) | 47 | Quickly view the status of Minecraft servers! | Dori7os | Windows, macOS | [store](https://www.raycast.com/Dori7os/minecast) |
 | [I Ching Divination](https://github.com/raycast/extensions/tree/main/extensions/iching-divination) | 36 | Consult the Book of Changes for divination and life guidance | gkVkJzQEErnBzmm | macOS, Windows | [store](https://www.raycast.com/gkVkJzQEErnBzmm/iching-divination) |
 | [Zodme](https://github.com/raycast/extensions/tree/main/extensions/zodme) | 24 | Look up a zodiac sign from a birthday | camib0b | macOS, Windows | [store](https://www.raycast.com/camib0b/zodme) |
-| [Wojak Picker](https://github.com/raycast/extensions/tree/main/extensions/wojak-picker) | 21 | Browse, search, and copy Wojaks straight into any chat from Raycast. | itsmeonli | macOS, Windows | [store](https://www.raycast.com/itsmeonli/wojak-picker) |
+| [Wojak Picker](https://github.com/raycast/extensions/tree/main/extensions/wojak-picker) | 22 | Browse, search, and copy Wojaks straight into any chat from Raycast. | itsmeonli | macOS, Windows | [store](https://www.raycast.com/itsmeonli/wojak-picker) |
 | [Word Research](https://github.com/raycast/extensions/tree/main/extensions/word-research) | 19 | Research words and discover whether they have been searched before on wordresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/word-research) |
 | [Your Name in Landsat](https://github.com/raycast/extensions/tree/main/extensions/your-name-in-landsat) | 16 | Generate your name in Landsat using Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/your-name-in-landsat) |
 | [Number Research](https://github.com/raycast/extensions/tree/main/extensions/number-research) | 13 | Research numbers and discover if they have been searched before on numberresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/number-research) |

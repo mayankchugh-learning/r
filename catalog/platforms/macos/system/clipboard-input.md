@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 22,883 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
-| [Open Path](https://github.com/raycast/extensions/tree/main/extensions/open-path) | 3,750 | Open path and link from selection or clipboard in Finder, browsers, terminal, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-path) |
-| [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) | 3,595 | Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. | joshtemple | macOS | [store](https://www.raycast.com/joshtemple/clipboard-formatter) |
+| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 22,887 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
+| [Open Path](https://github.com/raycast/extensions/tree/main/extensions/open-path) | 3,751 | Open path and link from selection or clipboard in Finder, browsers, terminal, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-path) |
+| [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) | 3,596 | Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. | joshtemple | macOS | [store](https://www.raycast.com/joshtemple/clipboard-formatter) |
 | [Append Clipboard](https://github.com/raycast/extensions/tree/main/extensions/append-clipboard) | 2,893 | Append or prepend selected text to your clipboard with different separators | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/append-clipboard) |
 | [Yoink](https://github.com/raycast/extensions/tree/main/extensions/yoink) | 1,080 | Add selected or clipboard files to Yoink. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/yoink) |
 | [Android ADB Input](https://github.com/raycast/extensions/tree/main/extensions/android-adb-input) | 765 | Run Android `adb shell input text` command. | star_zero | macOS | [store](https://www.raycast.com/star_zero/android-adb-input) |

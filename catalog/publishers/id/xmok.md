@@ -1,6 +1,6 @@
 # xmok
 
-113 extensions · 11,343 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+113 extensions · 11,347 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -173,7 +173,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 380 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
+| [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 381 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
 | [Migadu](https://github.com/raycast/extensions/tree/main/extensions/migadu) | 106 | Mailboxes, Identities, Aliases, Rewrites in Migadu | xmok | macOS | [store](https://www.raycast.com/xmok/migadu) |
 | [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 95 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
 | [Name.com](https://github.com/raycast/extensions/tree/main/extensions/name-com) | 76 | View your Domains, DNS Records and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/name-com) |
@@ -211,7 +211,7 @@
 | [Apify](https://github.com/raycast/extensions/tree/main/extensions/apify) | 135 | Your full-stack platform for web scraping | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/apify) |
 | [Tally](https://github.com/raycast/extensions/tree/main/extensions/tally) | 133 | Tally is the simplest way to create forms, for free. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/tally) |
 | [Keygen](https://github.com/raycast/extensions/tree/main/extensions/keygen) | 95 | Manage API Tokens, Licenses, Policies, Products and Users | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/keygen) |
-| [Upstash](https://github.com/raycast/extensions/tree/main/extensions/upstash) | 63 | Manage Redis Databases and Vector Indices | xmok | macOS | [store](https://www.raycast.com/xmok/upstash) |
+| [Upstash](https://github.com/raycast/extensions/tree/main/extensions/upstash) | 64 | Manage Redis Databases and Vector Indices | xmok | macOS | [store](https://www.raycast.com/xmok/upstash) |
 | [Postiz](https://github.com/raycast/extensions/tree/main/extensions/postiz) | 55 | The All-in-One Social Media Management Tool | xmok | macOS | [store](https://www.raycast.com/xmok/postiz) |
 | [HomeBox](https://github.com/raycast/extensions/tree/main/extensions/homebox) | 52 | A simple home inventory management software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/homebox) |
 | [Autumn](https://github.com/raycast/extensions/tree/main/extensions/autumn) | 42 | Stripe made easy for AI Startups | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/autumn) |
@@ -222,7 +222,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 182 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |
+| [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 183 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |
 | [Papra](https://github.com/raycast/extensions/tree/main/extensions/papra) | 45 | Simple & Secure Document Archiving for Long-Term Storage | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/papra) |
 | [Pastery](https://github.com/raycast/extensions/tree/main/extensions/pastery) | 43 | Pastery is the sweetest pastebin in the world. | xmok | macOS | [store](https://www.raycast.com/xmok/pastery) |
 | [Featurebase](https://github.com/raycast/extensions/tree/main/extensions/featurebase) | 37 | The next-gen support & feedback platform for modern teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/featurebase) |
@@ -234,7 +234,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 351 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
+| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 352 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
 
 ## Media (1)
 

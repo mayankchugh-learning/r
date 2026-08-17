@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,869 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
-| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,197 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
-| [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,618 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,882 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,198 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
+| [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,624 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
 | [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,781 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
-| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,589 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
+| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,590 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
 | [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) | 2,455 | Download videos from YouTube and other services through yt-dlp using MeTube. | dot | macOS, Windows | [store](https://www.raycast.com/dot/metube) |
 | [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,106 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
 | [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,381 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
@@ -26,5 +26,5 @@
 | [YouTube Highlights](https://github.com/raycast/extensions/tree/main/extensions/youtube-highlights) | 47 | Capture and manage highlights from YouTube videos with timestamps | itskofio | macOS | [store](https://www.raycast.com/itskofio/youtube-highlights) |
 | [Tella](https://github.com/raycast/extensions/tree/main/extensions/tella) | 34 | Browse videos, view transcripts, and manage playlists with Tella | jackmsvaughan | macOS | [store](https://www.raycast.com/jackmsvaughan/tella) |
 | [xQc](https://github.com/raycast/extensions/tree/main/extensions/xqc) | 29 | Search and Explore Vods for twitch.tv/xqc | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/xqc) |
-| [Magic Ingest](https://github.com/raycast/extensions/tree/main/extensions/magic-ingest) | 14 | Fast, background photo & video ingest from memory cards with date filtering, SHA-256 verification, and Photo Mechanic integration | dustintchambers | macOS | [store](https://www.raycast.com/dustintchambers/magic-ingest) |
+| [Magic Ingest](https://github.com/raycast/extensions/tree/main/extensions/magic-ingest) | 15 | Fast, background photo & video ingest from memory cards with date filtering, SHA-256 verification, and Photo Mechanic integration | dustintchambers | macOS | [store](https://www.raycast.com/dustintchambers/magic-ingest) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 9 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |

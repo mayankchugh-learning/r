@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,269 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
-| [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,172 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,274 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,173 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
 | [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,318 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
-| [MacRumors](https://github.com/raycast/extensions/tree/main/extensions/macrumors) | 562 | Browse MacRumors headlines from the comfort of Raycast. | hughmcmillanv | macOS | [store](https://www.raycast.com/hughmcmillanv/macrumors) |
+| [MacRumors](https://github.com/raycast/extensions/tree/main/extensions/macrumors) | 563 | Browse MacRumors headlines from the comfort of Raycast. | hughmcmillanv | macOS | [store](https://www.raycast.com/hughmcmillanv/macrumors) |
 | [Recent News](https://github.com/raycast/extensions/tree/main/extensions/the-verge) | 533 | Check top articles on The Verge | klkvsky | macOS | [store](https://www.raycast.com/klkvsky/the-verge) |
 | [TechCrunch](https://github.com/raycast/extensions/tree/main/extensions/techcrunch) | 532 | Read the best news from TechCrunch | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/techcrunch) |
 | [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 427 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
@@ -25,7 +25,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,543 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
+| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,544 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
 | [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,463 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,340 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [CricketCast](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) | 688 | Check the cricket score and news through Raycast! | sampoder | macOS | [store](https://www.raycast.com/sampoder/cricketcast) |
@@ -87,7 +87,7 @@
 | [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 391 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 | [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | 304 | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 271 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
-| [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | 194 | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
+| [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | 195 | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
 | [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 119 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 107 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) | 57 | Show posts on theinitium.com | unpopular | macOS | [store](https://www.raycast.com/unpopular/initium) |
@@ -99,7 +99,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,887 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,894 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
 | [IndieHackers](https://github.com/raycast/extensions/tree/main/extensions/indiehackers) | 146 | Browse IndieHackers | xmok | macOS | [store](https://www.raycast.com/xmok/indiehackers) |
 | [Raycafé](https://github.com/raycast/extensions/tree/main/extensions/raycafe) | 63 | Browse upcoming Raycast Community meetups and open event pages. | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/raycafe) |
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 1 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
@@ -108,9 +108,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 41,997 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,003 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
-| [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,274 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 42,001 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,004 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,275 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,813 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,196 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
 | [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,128 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |

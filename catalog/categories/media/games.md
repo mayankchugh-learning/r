@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,982 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
+| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,984 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,340 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [Playnite Launcher](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) | 582 | Launch your favorite games using Playnite. | bennettsh | Windows | [store](https://www.raycast.com/bennettsh/playnite-launcher) |
 | [Switch Game Play History](https://github.com/raycast/extensions/tree/main/extensions/switch-game-play-history) | 231 | Browse your Nintendo Switch gameplay history. Including information such as first played time, last played time, and total playtime for each game. | kvdo2 | macOS | [store](https://www.raycast.com/kvdo2/switch-game-play-history) |

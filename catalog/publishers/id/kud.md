@@ -1,19 +1,19 @@
 # kud
 
-12 extensions · 6,002 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+12 extensions · 6,005 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,822 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
-| [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 451 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,823 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 452 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
 
 ## Developer Tools (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [1 LOC - JavaScript Utilities in Single Line of Code](https://github.com/raycast/extensions/tree/main/extensions/1loc) | 1,493 | Browse JavaScript Utilities from 1loc.dev | kud | macOS | [store](https://www.raycast.com/kud/1loc) |
+| [1 LOC - JavaScript Utilities in Single Line of Code](https://github.com/raycast/extensions/tree/main/extensions/1loc) | 1,494 | Browse JavaScript Utilities from 1loc.dev | kud | macOS | [store](https://www.raycast.com/kud/1loc) |
 | [Nerd Font Picker](https://github.com/raycast/extensions/tree/main/extensions/nerd-font-picker) | 105 | Browse and copy Nerd Font glyphs from your installed fonts | kud | macOS | [store](https://www.raycast.com/kud/nerd-font-picker) |
 | [ThermoConvert](https://github.com/raycast/extensions/tree/main/extensions/thermo-convert) | 56 | Instantly convert between all major temperature scales | kud | macOS, Windows | [store](https://www.raycast.com/kud/thermoconvert) |
 | [Gandi](https://github.com/raycast/extensions/tree/main/extensions/gandi) | 37 | Manage your Gandi domains, DNS records, and check domain availability | kud | macOS | [store](https://www.raycast.com/kud/gandi) |

@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 88,534 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
-| [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 36,750 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
-| [Unix Timestamp](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp) | 27,675 | Convert between unix timestamp and human readable form date | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/unix-timestamp) |
-| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 15,673 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
-| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 3,981 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
+| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 88,541 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
+| [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 36,751 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
+| [Unix Timestamp](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp) | 27,677 | Convert between unix timestamp and human readable form date | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/unix-timestamp) |
+| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 15,674 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
+| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 3,982 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) | 237 | Convert Any Language Text into an English Variable Name | keleus | macOS, Windows | [store](https://www.raycast.com/keleus/easyvariable) |
 | [Visitor Queue](https://github.com/raycast/extensions/tree/main/extensions/visitor-queue) | 19 | Identify, personalize, convert | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/visitor-queue) |
 
@@ -22,9 +22,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,351 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,062 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,422 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,361 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,064 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,424 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) | 2,133 | Quickly and easily make random decisions or generate a random number | yonbergman | macOS, Windows | [store](https://www.raycast.com/yonbergman/dice-and-coin) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,525 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 
@@ -32,7 +32,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) | 18,967 | Compare content of two texts | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/diff-checker) |
+| [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) | 18,968 | Compare content of two texts | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/diff-checker) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,697 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 148 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
 
@@ -40,10 +40,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,388 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,379 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
-| [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,703 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
-| [DuckDuckGo Image Search](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-image-search) | 628 | Search Images inside Raycast by DuckDuckGo Image! | jag-k | macOS, Windows | [store](https://www.raycast.com/jag-k/duckduckgo-image-search) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,400 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,380 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,704 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
+| [DuckDuckGo Image Search](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-image-search) | 629 | Search Images inside Raycast by DuckDuckGo Image! | jag-k | macOS, Windows | [store](https://www.raycast.com/jag-k/duckduckgo-image-search) |
 | [Seafile](https://github.com/raycast/extensions/tree/main/extensions/seafile) | 35 | Open Source File Sync and Share Software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/seafile) |
 | [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) | 10 | Upload files and manage your EdgeStore account. | ravi_s | macOS, Windows | [store](https://www.raycast.com/ravi_s/edgestore-raycast) |
 
@@ -53,7 +53,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 380 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
+| [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 381 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
 
 ### Time & Dates
 
@@ -103,7 +103,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Workouts](https://github.com/raycast/extensions/tree/main/extensions/workouts) | 1,870 | Stay on top of your workouts from Strava | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/workouts) |
+| [Workouts](https://github.com/raycast/extensions/tree/main/extensions/workouts) | 1,871 | Stay on top of your workouts from Strava | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/workouts) |
 | [Hevy](https://github.com/raycast/extensions/tree/main/extensions/hevy) | 89 | Your Hevy workout data at your fingertips via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/hevy) |
 
 ### Business & Databases
@@ -135,7 +135,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,251 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,253 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 850 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
 | [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 477 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
 | [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger) | 242 | Like dig but for the web. Comprehensive website intelligence and metadata extraction. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/digger) |
@@ -156,9 +156,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 8,963 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
-| [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,787 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
-| [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,631 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
+| [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 8,965 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
+| [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,788 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
+| [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,632 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
 | [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,135 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 630 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 531 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
@@ -166,7 +166,7 @@
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | 149 | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
 | [Lightshot Gallery](https://github.com/raycast/extensions/tree/main/extensions/lightshot-gallery) | 142 | Easily access your Lightshot gallery | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/lightshot-gallery) |
 | [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 122 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
-| [LobeHub Icons](https://github.com/raycast/extensions/tree/main/extensions/lobehub-icons) | 62 | Popular AI / LLM Model Brand SVG Logo and Icon Collection | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/lobehub-icons) |
+| [LobeHub Icons](https://github.com/raycast/extensions/tree/main/extensions/lobehub-icons) | 63 | Popular AI / LLM Model Brand SVG Logo and Icon Collection | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/lobehub-icons) |
 | [Umami](https://github.com/raycast/extensions/tree/main/extensions/umami) | 58 | The modern analytics platform for effortless insights | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/umami) |
 | [Moneytree](https://github.com/raycast/extensions/tree/main/extensions/moneytree) | 26 | View and manage your finances from Moneytree via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/moneytree) |
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 19 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |

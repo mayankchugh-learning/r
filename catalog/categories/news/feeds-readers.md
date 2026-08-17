@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 747 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) | 536 | Read and explore Kagi News articles and sources seamlessly in Raycast | mickaphd | macOS, Windows | [store](https://www.raycast.com/mickaphd/kagi-news) |
-| [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | 194 | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
+| [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | 195 | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
 | [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | 40 | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
 | [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) | 24 | Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/jue-jin) |
 

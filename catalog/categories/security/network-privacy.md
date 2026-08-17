@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,418 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
+| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,420 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
 | [Tunnelblick](https://github.com/raycast/extensions/tree/main/extensions/tunnelblick) | 4,164 | Quickly enable and disable vpn connections | SamuelNitsche | macOS | [store](https://www.raycast.com/SamuelNitsche/tunnelblick) |
 | [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 2,636 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
 | [Mullvad VPN](https://github.com/raycast/extensions/tree/main/extensions/mullvad) | 1,743 | Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. | 0x46616c6b | macOS, Windows | [store](https://www.raycast.com/0x46616c6b/mullvad) |
@@ -14,5 +14,5 @@
 | [AdGuard Home](https://github.com/raycast/extensions/tree/main/extensions/adguard-home) | 405 | Control your AdGuard Home instance | theplgeek | macOS | [store](https://www.raycast.com/theplgeek/adguard-home) |
 | [Mozilla VPN Connect](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) | 154 | Interact with the Mozilla VPN from Raycast. | natew | macOS | [store](https://www.raycast.com/natew/mozilla-vpn) |
 | [VivaPB](https://github.com/raycast/extensions/tree/main/extensions/vivapb) | 75 | Browse the web in privacy with the Vivaldi Browser. | Codrkoaz | macOS | [store](https://www.raycast.com/Codrkoaz/vivapb) |
-| [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | 26 | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
+| [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | 27 | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
 | [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager) | 1 | Manage the xkeen (Xray) proxy client on Keenetic routers over SSH: status, server profiles, routing rules, backups and health checks | vbrs | macOS | [store](https://www.raycast.com/vbrs/xkeen-manager) |
