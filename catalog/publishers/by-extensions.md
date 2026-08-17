@@ -15,7 +15,7 @@
 | 5 | [Aayush9029](./id/aayush9029.md) | 16 | 150,065 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,587 |
 | 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,757 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,101,447 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,101,472 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 298,954 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,051 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 405,896 |
@@ -388,8 +388,8 @@
 | 378 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 379 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 3 |
 | 380 | github-next | 2 | — |
-| 381 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 664,902 |
-| 382 | [Codely](https://www.raycast.com/Codely) | 1 | 495,715 |
+| 381 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 664,924 |
+| 382 | [Codely](https://www.raycast.com/Codely) | 1 | 495,735 |
 | 383 | [linear](https://www.raycast.com/linear) | 1 | 343,727 |
 | 384 | [mommertf](https://www.raycast.com/mommertf) | 1 | 286,368 |
 | 385 | [nhojb](https://www.raycast.com/nhojb) | 1 | 255,538 |

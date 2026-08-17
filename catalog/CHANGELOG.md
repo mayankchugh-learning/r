@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-17 — upstream `760aaeaa4a`
+
+**Updated (1):** [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes)
+
 ## 2026-08-17 — upstream `60f65bc933`
 
 **Updated (1):** [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco)
