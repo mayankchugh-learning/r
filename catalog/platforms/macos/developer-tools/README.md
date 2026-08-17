@@ -1,6 +1,6 @@
 # macOS · Developer Tools
 
-1084 extensions · [← macOS](../README.md)
+1085 extensions · [← macOS](../README.md)
 
 ## Code & Collaboration
 
@@ -40,4 +40,4 @@
 | [Files & Transfer](./files-transfer.md) | 26 |
 | [Design & Assets](./design-assets.md) | 39 |
 
-Plus [General](./general.md) — 241 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 242 extensions that don't fit a topic yet.

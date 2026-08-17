@@ -1,8 +1,8 @@
 # Developer Tools
 
-1095 extensions · [← all categories](../README.md)
+1096 extensions · [← all categories](../README.md)
 
-macOS: 1084 · Windows: 297
+macOS: 1085 · Windows: 297
 
 ## Code & Collaboration
 
@@ -47,17 +47,17 @@ macOS: 1084 · Windows: 297
 | Topic | Extensions |
 | --- | --- |
 | [Developers ✦](./developers.md) | 10 |
-| [Sites ✦](./sites.md) | 7 |
+| [Sites ✦](./sites.md) | 8 |
 | [Domains ✦](./domains.md) | 6 |
 | [Keyboard ✦](./keyboard.md) | 4 |
 | [Machines ✦](./machines.md) | 6 |
 | [Navigate ✦](./navigate.md) | 4 |
 | [Password ✦](./password.md) | 6 |
-| [Web ✦](./web.md) | 5 |
+| [Service ✦](./service.md) | 5 |
+| [Web ✦](./web.md) | 4 |
 | [Apple ✦](./apple.md) | 4 |
 | [Between ✦](./between.md) | 4 |
 | [Email ✦](./email.md) | 4 |
-| [Service ✦](./service.md) | 4 |
 | [Sessions ✦](./sessions.md) | 5 |
 | [Ease ✦](./ease.md) | 4 |
 

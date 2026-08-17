@@ -1,6 +1,6 @@
 # Publishers
 
-2123 publishers · [← catalog index](../README.md)
+2124 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,101,089 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,101,090 |
 | 2 | [raycast](./id/raycast.md) | 11 | 785,376 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 664,651 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 495,493 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 664,653 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 495,494 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 438,654 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 433,183 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 405,847 |
@@ -2129,5 +2129,6 @@
 | 2119 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
 | 2120 | github-next | 2 | — |
 | 2121 | buffer | 1 | — |
-| 2122 | multi | 1 | — |
-| 2123 | sharat_visweswara | 1 | — |
+| 2122 | kylekanderson | 1 | — |
+| 2123 | multi | 1 | — |
+| 2124 | sharat_visweswara | 1 | — |

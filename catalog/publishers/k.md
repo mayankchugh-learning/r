@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · **K** · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-80 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+81 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -84,5 +84,6 @@
 | [kvdo2](https://www.raycast.com/kvdo2) | 1 | 231 | **Fun:** [Switch Game Play History](https://github.com/raycast/extensions/tree/main/extensions/switch-game-play-history) |
 | [kyle_samani](https://www.raycast.com/kyle_samani) | 1 | 153 | **Finance:** [Google Finance](https://github.com/raycast/extensions/tree/main/extensions/google-finance) |
 | [kyleawayan](https://www.raycast.com/kyleawayan) | 1 | 6 | **Applications:** [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) |
+| kylekanderson | 1 | — | **Developer Tools:** [Yerd](https://github.com/raycast/extensions/tree/main/extensions/yerd) |
 | [kylinwowo](https://www.raycast.com/kylinwowo) | 3 | 382 | **Finance:** [Loan Calculator](https://github.com/raycast/extensions/tree/main/extensions/loan-calculator)<br>**Media:** [PSN](https://github.com/raycast/extensions/tree/main/extensions/psn)<br>**Developer Tools:** [Coordinate Converter](https://github.com/raycast/extensions/tree/main/extensions/geoconverter) |
 | [kyungw00k](https://www.raycast.com/kyungw00k) | 1 | 45 | **Productivity:** [Kozip](https://github.com/raycast/extensions/tree/main/extensions/raycast-kozip-extension) |

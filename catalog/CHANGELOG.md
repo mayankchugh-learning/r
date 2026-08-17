@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-17 — upstream `a7d97bec7e`
+
+**Added (1):** [Yerd](https://github.com/raycast/extensions/tree/main/extensions/yerd)
+
 ## 2026-08-17 — upstream `261dbf2373`
 
 **Updated (1):** [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing)
