@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f5276ebf7db0bce7e9471baf9e63a6ccac6ec092",
-  "generatedAt": "2026-08-17T04:29:38.120Z",
-  "downloadsRefreshedAt": "2026-08-17T04:29:37.719Z",
+  "commit": "b776fc2cb27f25cdbf54644bbd41d4a5b1eaf84d",
+  "generatedAt": "2026-08-17T04:30:26.931Z",
+  "downloadsRefreshedAt": "2026-08-17T04:30:26.066Z",
   "count": 3182,
   "extensions": [
     {
@@ -27597,7 +27597,7 @@
       ],
       "store": "https://www.raycast.com/luolei/karakeep",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/karakeep",
-      "treeSha": "04e0964c71fefb44337e2f5b9edb095f86757e1d",
+      "treeSha": "43748b440c234252c793300f7bb54bfffb5569ac",
       "downloads": 2131
     },
     {

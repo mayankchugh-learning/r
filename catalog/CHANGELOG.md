@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-17 — upstream `b776fc2cb2`
+
+**Updated (1):** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep)
+
 ## 2026-08-17 — upstream `f5276ebf7d`
 
 **Updated (1):** [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast)
