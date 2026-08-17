@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · **Web & Frontend** · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-17 of 298 extensions · [← Windows · Developer Tools](./README.md)
+18 of 299 extensions · [← Windows · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,4 @@
 | [Next Lens](https://github.com/raycast/extensions/tree/main/extensions/next-lens) | 44 | Scans Next.js routes and provides quick insights in the extension. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/next-lens) |
 | [Open Props](https://github.com/raycast/extensions/tree/main/extensions/open-props) | 13 | Search and copy CSS custom properties from the Open Props design system. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/open-props) |
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 8 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | — | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | — |

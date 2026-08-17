@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "eff60e4ecdad0324c59f86338003840ec33666a7",
-  "generatedAt": "2026-08-17T19:17:32.683Z",
-  "downloadsRefreshedAt": "2026-08-17T19:17:31.771Z",
-  "count": 3185,
+  "commit": "917b89c31ed070de96fb77dcbd9326f5cf1eccd0",
+  "generatedAt": "2026-08-17T19:18:36.298Z",
+  "downloadsRefreshedAt": "2026-08-17T19:18:35.908Z",
+  "count": 3186,
   "extensions": [
     {
       "dir": "0x0",
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 506747
+      "downloads": 506748
     },
     {
       "dir": "color-shades",
@@ -52526,6 +52526,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/siri",
       "treeSha": "ae299f72334c0e17eef1d66213235853256e7198",
       "downloads": 9108
+    },
+    {
+      "dir": "sitemap",
+      "name": "sitemap",
+      "title": "Sitemap",
+      "description": "Search any website's sitemap and quickly open or copy its pages.",
+      "author": "alexi.build",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/sitemap",
+      "treeSha": "df27e0e2bc6570df52b6737ac772c423eedbe63d",
+      "downloads": null
     },
     {
       "dir": "sitespeakai",

@@ -1,6 +1,6 @@
 # alexi.build
 
-16 extensions · 1,759 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+17 extensions · 1,759 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -29,11 +29,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 151 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
 
-## Developer Tools (1)
+## Developer Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 149 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | — | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | — |
 
 ## Fun (2)
 

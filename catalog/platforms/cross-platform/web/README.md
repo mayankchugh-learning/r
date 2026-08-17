@@ -1,8 +1,8 @@
 # Cross-platform · Web
 
-134 extensions · [← Cross-platform](../README.md)
+135 extensions · [← Cross-platform](../README.md)
 
-[AI Services](#ai-services) (14) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (47) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (19) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
+[AI Services](#ai-services) (14) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (48) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (19) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (4) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
 
 ## Browse & Search
 
@@ -57,6 +57,7 @@
 | [Shopify Shop](https://github.com/raycast/extensions/tree/main/extensions/shopify-shop) | 8 | Browse and search products from a Shopify store. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shopify-shop) |
 | [TinyFish Search](https://github.com/raycast/extensions/tree/main/extensions/tinyfish-search) | 7 | Search the web with TinyFish, open result URLs, and fetch clean page content. | pranav_janakiraman | macOS, Windows | [store](https://www.raycast.com/pranav_janakiraman/tinyfish-search) |
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 6 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | — | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | — |
 
 ### Browsers & Tabs
 

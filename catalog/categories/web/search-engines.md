@@ -1,8 +1,8 @@
 # Search Engines
 
-159 extensions · [← Web](./README.md)
+160 extensions · [← Web](./README.md)
 
-[Bookmarks ✦](#bookmarks) (16) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Explore ✦](#explore) (4) · [Public ✦](#public) (4) · [General](#general) (92)
+[Bookmarks ✦](#bookmarks) (16) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Explore ✦](#explore) (4) · [Public ✦](#public) (4) · [General](#general) (93)
 
 *✦ auto-discovered topic group*
 
@@ -219,3 +219,4 @@
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 6 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
 | [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) | 4 | Search, filter, and open links from your LinkAce instance | zisoft | macOS | [store](https://www.raycast.com/zisoft/linkace-search) |
 | [Portal Wholesale](https://github.com/raycast/extensions/tree/main/extensions/portal-wholesale) | 4 | Search and manage Portal Wholesale brands | nickdichev | macOS | [store](https://www.raycast.com/nickdichev/portal-wholesale) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | — | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | — |

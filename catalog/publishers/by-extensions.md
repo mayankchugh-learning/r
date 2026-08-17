@@ -12,10 +12,10 @@
 | 2 | [koinzhang](./id/koinzhang.md) | 50 | 253,794 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 90,552 |
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 164,719 |
-| 5 | [Aayush9029](./id/aayush9029.md) | 16 | 150,133 |
-| 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,599 |
-| 7 | [alexi.build](./id/alexi-build.md) | 16 | 1,759 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,101,922 |
+| 5 | [alexi.build](./id/alexi-build.md) | 17 | 1,759 |
+| 6 | [Aayush9029](./id/aayush9029.md) | 16 | 150,133 |
+| 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,599 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,101,923 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 299,033 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,059 |
 | 11 | [tonka3000](./id/tonka3000.md) | 14 | 406,002 |

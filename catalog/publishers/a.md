@@ -85,7 +85,7 @@
 | [alexander_sattler](https://www.raycast.com/alexander_sattler) | 1 | 9 | **Productivity:** [Notaday](https://github.com/raycast/extensions/tree/main/extensions/notaday) |
 | [alexandervarney](https://www.raycast.com/alexandervarney) | 2 | 220 | **Media:** [Navidrome](https://github.com/raycast/extensions/tree/main/extensions/navidrome)<br>**Applications:** [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) |
 | [alexandremt](https://www.raycast.com/alexandremt) | 1 | 4 | **Web:** [BJ-Share](https://github.com/raycast/extensions/tree/main/extensions/bj-share) |
-| [alexi.build](./id/alexi-build.md) | 16 | 1,759 | [see all 16 →](./id/alexi-build.md) |
+| [alexi.build](./id/alexi-build.md) | 17 | 1,759 | [see all 17 →](./id/alexi-build.md) |
 | [alexian853](https://www.raycast.com/alexian853) | 1 | 144 | **Productivity:** [Apply Inline Code](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) |
 | [alexminator1999](https://www.raycast.com/alexminator1999) | 1 | 5 | **Developer Tools:** [Anvil](https://github.com/raycast/extensions/tree/main/extensions/anvil) |
 | [alexs](https://www.raycast.com/alexs) | 3 | 271 | **Finance:** [Invoice Generator](https://github.com/raycast/extensions/tree/main/extensions/invoice-generator), [Rewardful](https://github.com/raycast/extensions/tree/main/extensions/rewardful)<br>**Productivity:** [Make with Notion 2024](https://github.com/raycast/extensions/tree/main/extensions/make-with-notion-2024) |

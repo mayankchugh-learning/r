@@ -8,7 +8,7 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,101,922 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,101,923 |
 | 2 | [raycast](./id/raycast.md) | 11 | 785,822 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 665,256 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 495,986 |
@@ -467,7 +467,7 @@
 | 457 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,786 |
 | 458 | [koayon](https://www.raycast.com/koayon) | 2 | 1,772 |
 | 459 | [developerlover](https://www.raycast.com/developerlover) | 1 | 1,761 |
-| 460 | [alexi.build](./id/alexi-build.md) | 16 | 1,759 |
+| 460 | [alexi.build](./id/alexi-build.md) | 17 | 1,759 |
 | 461 | [typefully](https://www.raycast.com/typefully) | 1 | 1,751 |
 | 462 | [0x46616c6b](https://www.raycast.com/0x46616c6b) | 1 | 1,743 |
 | 463 | [frugoman](https://www.raycast.com/frugoman) | 1 | 1,742 |

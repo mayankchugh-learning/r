@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-328 extensions · [← catalog index](../README.md)
+329 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -334,3 +334,4 @@
 | [Sir.golf](https://github.com/raycast/extensions/tree/main/extensions/sir-golf) | 0 | Live golf leaderboards (PGA Tour, LPGA, DP World Tour), the full tour schedule with every major badged and one-tap Add to Calendar, plus season rankings — by s… | julianpaul | macOS, Windows | [store](https://www.raycast.com/julianpaul/sir-golf) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
 | [Search Blockchain](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) | — | Search Bitcoin (BTC), Cardano (ADA), EOS, Ethereum (ETH), Monero (XMR), NEO, Ontology (ONT), Polygon (DOT), Solana (SOL), Stellar (XLM), Tron (TRX), XRP and mo… | gutenye | macOS | — |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | — | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | — |

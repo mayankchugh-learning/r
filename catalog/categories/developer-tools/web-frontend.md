@@ -1,8 +1,8 @@
 # Web & Frontend
 
-60 extensions · [← Developer Tools](./README.md)
+61 extensions · [← Developer Tools](./README.md)
 
-[Components ✦](#components) (13) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (8) · [Tabs ✦](#tabs) (4) · [General](#general) (21)
+[Components ✦](#components) (13) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (9) · [Tabs ✦](#tabs) (4) · [General](#general) (21)
 
 *✦ auto-discovered topic group*
 
@@ -60,6 +60,7 @@
 | [Apply Inline Code](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) | 144 | Apply inline code style in common apps and websites | alexian853 | macOS | [store](https://www.raycast.com/alexian853/apply-inline-code) |
 | [Forgejo](https://github.com/raycast/extensions/tree/main/extensions/forgejo) | 120 | Using on websites built through Forgejo. Work with search repositories and get notifications. | shichen437 | macOS | [store](https://www.raycast.com/shichen437/forgejo) |
 | [Drupal Toolbox](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) | 104 | Valuable tools and shortcuts for your Drupal Websites | emircanerkul | macOS | [store](https://www.raycast.com/emircanerkul/drupal-toolbox) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | — | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | — |
 
 ## Tabs ✦
 
