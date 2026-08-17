@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 64,093 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 64,105 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
 | [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,266 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
 | [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,216 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) | 5,675 | Control the Podcasts app for macOS with your keyboard. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/podcasts) |

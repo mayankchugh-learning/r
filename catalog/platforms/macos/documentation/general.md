@@ -6,14 +6,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,262 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
+| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,276 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,468 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
-| [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,507 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
+| [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,508 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
 | [Oh My Zsh Plugins](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) | 6,786 | Oh My Zsh Plugins | k8scat | macOS | [store](https://www.raycast.com/k8scat/ohmyzsh-plugins) |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,782 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,783 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) | 4,895 | List, Search and Download Files using the Raycast Extension for Dropbox. | chyroc | macOS | [store](https://www.raycast.com/chyroc/the-blue-cloud) |
 | [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,380 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
-| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,209 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
+| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,210 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Heroicons](https://github.com/raycast/extensions/tree/main/extensions/heroicons) | 4,103 | Search and preview Heroicons | johndoe123789 | macOS | [store](https://www.raycast.com/johndoe123789/heroicons) |
 | [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,042 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 2,991 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
@@ -39,7 +39,7 @@
 | [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 710 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
 | [Readwise to Tana](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) | 699 | Copy Readwise highlights to Tana | believer | macOS | [store](https://www.raycast.com/believer/readwise-to-tana) |
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 645 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
-| [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) | 616 | A simple way to preview markdown content | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/markdown-preview) |
+| [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) | 617 | A simple way to preview markdown content | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/markdown-preview) |
 | [Figma Learn Companion](https://github.com/raycast/extensions/tree/main/extensions/figma-learn-companion) | 499 | Your companion for the Figma Learn help center that helps you quickly search for topics and updates. | madmaxmckinney | macOS | [store](https://www.raycast.com/madmaxmckinney/figma-learn-companion) |
 | [Emojify](https://github.com/raycast/extensions/tree/main/extensions/emojify) | 438 | Improve your text with emojis properly within the context | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/emojify) |
 | [SnapJot](https://github.com/raycast/extensions/tree/main/extensions/snap-jot) | 383 | Create a memo with a timestamp | k41531 | macOS | [store](https://www.raycast.com/k41531/snap-jot) |
@@ -47,7 +47,7 @@
 | [Chords and Tabs](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) | 369 | Find chords and tabs for your favorite songs and musical pieces! | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/chords-and-tabs) |
 | [Markdown Navigator](https://github.com/raycast/extensions/tree/main/extensions/markdown-navigator) | 348 | Efficiently manage and navigate your Markdown files. | chihkang | macOS | [store](https://www.raycast.com/chihkang/markdown-navigator) |
 | [CrawlDoc - Documentations Search Engine](https://github.com/raycast/extensions/tree/main/extensions/crawldoc) | 297 | Allow searching through multiple documentations platforms | johan-perso | macOS | [store](https://www.raycast.com/johan-perso/crawldoc) |
-| [Simple Memo](https://github.com/raycast/extensions/tree/main/extensions/simple-memo) | 288 | A lightweight local memo extension for Raycast. | hyokwonkim | macOS | [store](https://www.raycast.com/hyokwonkim/simple-memo) |
+| [Simple Memo](https://github.com/raycast/extensions/tree/main/extensions/simple-memo) | 289 | A lightweight local memo extension for Raycast. | hyokwonkim | macOS | [store](https://www.raycast.com/hyokwonkim/simple-memo) |
 | [WCAG](https://github.com/raycast/extensions/tree/main/extensions/wcag) | 275 | Search the Web Content Accessibility Guidelines (WCAG) 2.2 | fgeierst | macOS | [store](https://www.raycast.com/fgeierst/wcag) |
 | [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 266 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
 | [Glossary](https://github.com/raycast/extensions/tree/main/extensions/glossary) | 219 | Allows you to create a personal glossary | javierarce | macOS | [store](https://www.raycast.com/javierarce/glossary) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-17 — upstream `4498925883`
+
+**Added (1):** [Promptty](https://github.com/raycast/extensions/tree/main/extensions/promptty)
+
 ## 2026-08-17 — upstream `82d3bc890e`
 
 **Updated (1):** [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh)

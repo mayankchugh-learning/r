@@ -1,26 +1,26 @@
 # General
 
-113 extensions · [← Applications](./README.md)
+114 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 37,322 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 37,325 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 23,580 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,945 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,949 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime) | 13,845 | Start screen recording, movie recording and sound recording instantly. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/quicktime) |
-| [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 11,077 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
-| [OpenAI Translator](https://github.com/raycast/extensions/tree/main/extensions/openai-translator) | 9,629 | Translation based on Multiple LLMs. | douo | macOS | [store](https://www.raycast.com/douo/openai-translator) |
-| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,455 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
+| [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 11,078 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
+| [OpenAI Translator](https://github.com/raycast/extensions/tree/main/extensions/openai-translator) | 9,630 | Translation based on Multiple LLMs. | douo | macOS | [store](https://www.raycast.com/douo/openai-translator) |
+| [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,456 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,442 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
 | [Firecrawl](https://github.com/raycast/extensions/tree/main/extensions/firecrawl) | 5,008 | Scrape, search, and conduct in-depth research with Firecrawl | firecrawl (org) | macOS | [store](https://www.raycast.com/firecrawl/firecrawl) |
-| [Screen Studio](https://github.com/raycast/extensions/tree/main/extensions/screen-studio) | 4,662 | Raycast extension that allows controlling the Screen Studio app easily | screen-studio (org) | macOS | [store](https://www.raycast.com/screen-studio/screen-studio) |
+| [Screen Studio](https://github.com/raycast/extensions/tree/main/extensions/screen-studio) | 4,663 | Raycast extension that allows controlling the Screen Studio app easily | screen-studio (org) | macOS | [store](https://www.raycast.com/screen-studio/screen-studio) |
 | [MacUpdater](https://github.com/raycast/extensions/tree/main/extensions/macupdater) | 3,726 | Get app updates and popular apps from macupdater.net | kall | macOS | [store](https://www.raycast.com/kall/macupdater) |
 | [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | 3,047 | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
 | [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 2,991 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
 | [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel) | 2,893 | Allow Parcel users to see upcoming and active deliveries | marcmagn1 | macOS, Windows | [store](https://www.raycast.com/marcmagn1/parcel) |
 | [Lyrics](https://github.com/raycast/extensions/tree/main/extensions/lyrics) | 2,757 | Search for lyrics to the current playing song | andrewjazbec | macOS | [store](https://www.raycast.com/andrewjazbec/lyrics) |
 | [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper) | 2,710 | Voice dictation, transcription history, and profile management for TypeWhisper | SeoFood | macOS, Windows | [store](https://www.raycast.com/SeoFood/typewhisper) |
-| [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,598 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
+| [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,599 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,412 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
 | [Hookmark Search](https://github.com/raycast/extensions/tree/main/extensions/search-hookmark) | 2,373 | Hookmark Search UI in Raycast | QIanGua | macOS | [store](https://www.raycast.com/QIanGua/search-hookmark) |
 | [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 1,991 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
@@ -49,7 +49,7 @@
 | [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) | 560 | Run queries on Json data using jq | vladimir-kotikov | macOS | [store](https://www.raycast.com/vladimir-kotikov/raycast-jq) |
 | [Tyme 3 Time Tracker](https://github.com/raycast/extensions/tree/main/extensions/tyme-3-time-tracker) | 557 | Interact with Tyme 3 to track your time | melkstam | macOS | [store](https://www.raycast.com/melkstam/tyme-3-time-tracker) |
 | [Instapaper](https://github.com/raycast/extensions/tree/main/extensions/instapaper) | 552 | Quick add links from your clipboard to Instapaper. | suv | macOS | [store](https://www.raycast.com/suv/instapaper) |
-| [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 521 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
+| [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 522 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
 | [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) | 473 | The Libaro powered URL shortener Shorten your URL in seconds | libaro | macOS | [store](https://www.raycast.com/libaro/liba-ro_shortener) |
 | [Tim](https://github.com/raycast/extensions/tree/main/extensions/tim) | 427 | Manage your timers for Tim from Raycast | tm.wrnr | macOS | [store](https://www.raycast.com/tm.wrnr/tim) |
 | [Tana Paste](https://github.com/raycast/extensions/tree/main/extensions/tana-paste) | 419 | Converts text between Markdown and Tana Paste formats. | 3mdistal | macOS | [store](https://www.raycast.com/3mdistal/tana-paste) |
@@ -115,5 +115,6 @@
 | [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) | 6 | Fast access to SayIntentions via keyboard shortcuts. Great for flight sim sessions where you don't want to speak but still want quick ATC communication. | kyleawayan | Windows, macOS | [store](https://www.raycast.com/kyleawayan/sayintentions) |
 | [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) | 2 | Extension to manage BetterCapture | qlaffont | macOS | [store](https://www.raycast.com/qlaffont/bettercapture) |
 | [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game) | 2 | What to Play Next - Smart Game Picker | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/next-game) |
+| [Promptty](https://github.com/raycast/extensions/tree/main/extensions/promptty) | 0 | Search, paste, and copy prompts from your Promptty library | michalkos | macOS | [store](https://www.raycast.com/michalkos/promptty) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
 | [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 0 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |
