@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-17 — upstream `82d3bc890e`
+
+**Updated (1):** [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh)
+
 ## 2026-08-17 — upstream `9b35ba6b74`
 
 **Added (1):** [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re)

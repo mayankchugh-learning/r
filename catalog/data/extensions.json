@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9b35ba6b74105964562143a84048fde7ee97264c",
-  "generatedAt": "2026-08-17T05:20:36.184Z",
-  "downloadsRefreshedAt": "2026-08-17T05:20:35.568Z",
+  "commit": "82d3bc890e977725a4b07d6ee69161d738ee18d6",
+  "generatedAt": "2026-08-17T05:39:48.485Z",
+  "downloadsRefreshedAt": "2026-08-17T05:39:48.100Z",
   "count": 3184,
   "extensions": [
     {
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 506289
+      "downloads": 506299
     },
     {
       "dir": "color-shades",
@@ -21720,7 +21720,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 495494
+      "downloads": 495501
     },
     {
       "dir": "google-chrome-profiles",
@@ -25681,7 +25681,7 @@
       ],
       "store": "https://www.raycast.com/tai/inoh",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/inoh",
-      "treeSha": "65f8d3cb8884b686b6323b54fbb16643a197c729",
+      "treeSha": "45dbf19dce509af27df31155d67319ae26fbec88",
       "downloads": 5
     },
     {
@@ -28020,7 +28020,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 664653
+      "downloads": 664662
     },
     {
       "dir": "kimai",
@@ -52585,10 +52585,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/escwxyz/skills-re",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/skills-re",
       "treeSha": "4b59038b830e2bf72ae121f5c87c817a45658c30",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "skyscanner-flights",

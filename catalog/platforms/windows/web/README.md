@@ -160,7 +160,7 @@
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 107 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [CogniMemo](https://github.com/raycast/extensions/tree/main/extensions/cognimemo) | 54 | Add and search memories with your personal AI-powered knowledge base | sami_ullah_tufail | macOS, Windows | [store](https://www.raycast.com/sami_ullah_tufail/cognimemo) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 9 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
-| [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | — | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | — |
+| [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 0 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |
 
 ### Crypto & Markets
 
