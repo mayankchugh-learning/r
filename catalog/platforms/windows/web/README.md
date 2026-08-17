@@ -1,8 +1,8 @@
 # Windows · Web
 
-134 extensions · [← Windows](../README.md)
+135 extensions · [← Windows](../README.md)
 
-[AI Services](#ai-services) (13) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (47) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (19) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
+[AI Services](#ai-services) (14) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (47) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (19) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
 
 ## Browse & Search
 
@@ -160,6 +160,7 @@
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 107 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [CogniMemo](https://github.com/raycast/extensions/tree/main/extensions/cognimemo) | 54 | Add and search memories with your personal AI-powered knowledge base | sami_ullah_tufail | macOS, Windows | [store](https://www.raycast.com/sami_ullah_tufail/cognimemo) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 9 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
+| [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | — | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | — |
 
 ### Crypto & Markets
 

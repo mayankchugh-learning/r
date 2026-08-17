@@ -2,7 +2,7 @@
 
 **AI Services** · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-31 of 458 extensions · [← macOS · Web](./README.md)
+32 of 459 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -37,3 +37,4 @@
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 37 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
 | [Polidict](https://github.com/raycast/extensions/tree/main/extensions/polidict) | 28 | Master new vocabulary with spaced repetition, AI-powered definitions, and curated word collections | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/polidict) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 9 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
+| [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | — | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | — |

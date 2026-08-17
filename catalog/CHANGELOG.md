@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-17 — upstream `9b35ba6b74`
+
+**Added (1):** [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re)
+
 ## 2026-08-17 — upstream `a7d97bec7e`
 
 **Added (1):** [Yerd](https://github.com/raycast/extensions/tree/main/extensions/yerd)

@@ -84,6 +84,6 @@
 | [kvdo2](https://www.raycast.com/kvdo2) | 1 | 231 | **Fun:** [Switch Game Play History](https://github.com/raycast/extensions/tree/main/extensions/switch-game-play-history) |
 | [kyle_samani](https://www.raycast.com/kyle_samani) | 1 | 153 | **Finance:** [Google Finance](https://github.com/raycast/extensions/tree/main/extensions/google-finance) |
 | [kyleawayan](https://www.raycast.com/kyleawayan) | 1 | 6 | **Applications:** [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) |
-| kylekanderson | 1 | — | **Developer Tools:** [Yerd](https://github.com/raycast/extensions/tree/main/extensions/yerd) |
+| [kylekanderson](https://www.raycast.com/kylekanderson) | 1 | 0 | **Developer Tools:** [Yerd](https://github.com/raycast/extensions/tree/main/extensions/yerd) |
 | [kylinwowo](https://www.raycast.com/kylinwowo) | 3 | 382 | **Finance:** [Loan Calculator](https://github.com/raycast/extensions/tree/main/extensions/loan-calculator)<br>**Media:** [PSN](https://github.com/raycast/extensions/tree/main/extensions/psn)<br>**Developer Tools:** [Coordinate Converter](https://github.com/raycast/extensions/tree/main/extensions/geoconverter) |
 | [kyungw00k](https://www.raycast.com/kyungw00k) | 1 | 45 | **Productivity:** [Kozip](https://github.com/raycast/extensions/tree/main/extensions/raycast-kozip-extension) |

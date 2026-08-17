@@ -1,6 +1,6 @@
 # Agent ✦
 
-5 extensions · [← AI & LLM Tools](./README.md)
+6 extensions · [← AI & LLM Tools](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -11,3 +11,4 @@
 | [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent) | 130 | Parses the User-Agent of the selected text | third774 | macOS | [store](https://www.raycast.com/third774/user-agent) |
 | [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | 125 | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/JSONbored/heyclaude) |
 | [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) | 23 | Discover, triage, and manage papers from your local Paper Agent workflow in Raycast. | marvel940804836 | macOS | [store](https://www.raycast.com/marvel940804836/paper-agent) |
+| [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | — | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | — |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a7d97bec7e75119ffd375e2c6fa54d59499aa8f7",
-  "generatedAt": "2026-08-17T05:15:40.673Z",
-  "downloadsRefreshedAt": "2026-08-17T05:15:40.402Z",
-  "count": 3183,
+  "commit": "9b35ba6b74105964562143a84048fde7ee97264c",
+  "generatedAt": "2026-08-17T05:20:36.184Z",
+  "downloadsRefreshedAt": "2026-08-17T05:20:35.568Z",
+  "count": 3184,
   "extensions": [
     {
       "dir": "0x0",
@@ -52569,6 +52569,28 @@
       "downloads": 7307
     },
     {
+      "dir": "skills-re",
+      "name": "skills-re",
+      "title": "Skills.re",
+      "description": "Search and manage agent skills from skills.re.",
+      "author": "escwxyz",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/skills-re",
+      "treeSha": "4b59038b830e2bf72ae121f5c87c817a45658c30",
+      "downloads": null
+    },
+    {
       "dir": "skyscanner-flights",
       "name": "skyscanner-flights",
       "title": "Flight Search",
@@ -65695,10 +65717,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/kylekanderson/yerd",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/yerd",
       "treeSha": "1ca35d48bff6acb735af948dd387d5877680854b",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "yield-calculator",

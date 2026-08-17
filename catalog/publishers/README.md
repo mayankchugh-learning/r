@@ -168,7 +168,7 @@
 | 158 | [yakitrak](https://www.raycast.com/yakitrak) | 2 | 10,359 |
 | 159 | [Quentin23Soleil](https://www.raycast.com/Quentin23Soleil) | 3 | 10,286 |
 | 160 | [jffrykkn](https://www.raycast.com/jffrykkn) | 1 | 10,191 |
-| 161 | [escwxyz](https://www.raycast.com/escwxyz) | 1 | 10,126 |
+| 161 | [escwxyz](https://www.raycast.com/escwxyz) | 2 | 10,126 |
 | 162 | [MisakiCoca](https://www.raycast.com/MisakiCoca) | 1 | 10,021 |
 | 163 | [elliotdes](https://www.raycast.com/elliotdes) | 1 | 10,005 |
 | 164 | [Falcon](https://www.raycast.com/Falcon) | 2 | 9,985 |
@@ -2125,10 +2125,10 @@
 | 2115 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
 | 2116 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2117 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2118 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2119 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2120 | github-next | 2 | — |
-| 2121 | buffer | 1 | — |
-| 2122 | kylekanderson | 1 | — |
+| 2118 | [kylekanderson](https://www.raycast.com/kylekanderson) | 1 | 0 |
+| 2119 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2120 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2121 | github-next | 2 | — |
+| 2122 | buffer | 1 | — |
 | 2123 | multi | 1 | — |
 | 2124 | sharat_visweswara | 1 | — |
