@@ -27,7 +27,7 @@ macOS: 1087 · Windows: 299
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools/README.md) | 121 |
+| [AI & LLM Tools](./ai-llm-tools/README.md) | 122 |
 | [Web & Frontend](./web-frontend.md) | 61 |
 | [Mobile & App Development](./mobile-app-development.md) | 30 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 15 |
@@ -37,7 +37,7 @@ macOS: 1087 · Windows: 299
 | Topic | Extensions |
 | --- | --- |
 | [Terminal & Editors](./terminal-editors.md) | 45 |
-| [Package & Dependency Tools](./package-dependency-tools.md) | 40 |
+| [Package & Dependency Tools](./package-dependency-tools.md) | 39 |
 | [Automation & Scripting](./automation-scripting.md) | 11 |
 | [Files & Transfer](./files-transfer.md) | 26 |
 | [Design & Assets](./design-assets.md) | 39 |

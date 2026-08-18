@@ -1,8 +1,8 @@
 # Package & Dependency Tools
 
-40 extensions · [← Developer Tools](./README.md)
+39 extensions · [← Developer Tools](./README.md)
 
-[Packages ✦](#packages) (24) · [Library ✦](#library) (7) · [General](#general) (9)
+[Packages ✦](#packages) (24) · [Library ✦](#library) (7) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -55,7 +55,6 @@
 | [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,128 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
 | [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,127 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
 | [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 266 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
-| [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 248 | Search Context7 libraries and browse documentation context from Raycast | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
 | [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) | 233 | Change the NPM registry address | lihzsky | macOS | [store](https://www.raycast.com/lihzsky/raycast-nrm) |
 | [Gradle Plugins](https://github.com/raycast/extensions/tree/main/extensions/gradle-plugins) | 144 | Search for gradle plugins | alex-w0 | macOS | [store](https://www.raycast.com/alex-w0/gradle-plugins) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 41 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |

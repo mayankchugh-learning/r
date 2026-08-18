@@ -24,7 +24,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools.md) | 31 |
+| [AI & LLM Tools](./ai-llm-tools.md) | 32 |
 | [Web & Frontend](./web-frontend.md) | 18 |
 | [Mobile & App Development](./mobile-app-development.md) | 1 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 3 |
@@ -34,7 +34,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Terminal & Editors](./terminal-editors.md) | 12 |
-| [Package & Dependency Tools](./package-dependency-tools.md) | 14 |
+| [Package & Dependency Tools](./package-dependency-tools.md) | 13 |
 | [Automation & Scripting](./automation-scripting.md) | 5 |
 | [Files & Transfer](./files-transfer.md) | 8 |
 | [Design & Assets](./design-assets.md) | 13 |

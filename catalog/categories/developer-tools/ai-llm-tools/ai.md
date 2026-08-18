@@ -1,8 +1,8 @@
 # AI ✦
 
-73 extensions · [← AI & LLM Tools](./README.md)
+74 extensions · [← AI & LLM Tools](./README.md)
 
-[Model ✦](#model) (13) · [Agent ✦](#agent) (10) · [Code ✦](#code) (8) · [AI Powered ✦](#ai-powered) (7) · [Chat ✦](#chat) (4) · [Prompts ✦](#prompts) (4) · [General](#general) (27)
+[Model ✦](#model) (13) · [Agent ✦](#agent) (10) · [Code ✦](#code) (8) · [AI Powered ✦](#ai-powered) (7) · [Chat ✦](#chat) (4) · [Prompts ✦](#prompts) (4) · [General](#general) (28)
 
 *✦ auto-discovered topic group*
 
@@ -101,6 +101,7 @@
 | [Chatwith](https://github.com/raycast/extensions/tree/main/extensions/chatwith) | 377 | AI chatbot trained on your data and with access to automations. | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/chatwith) |
 | [Cerebras](https://github.com/raycast/extensions/tree/main/extensions/cerebras) | 306 | Bring Instant AI Inference to Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/cerebras) |
 | [Time Teller](https://github.com/raycast/extensions/tree/main/extensions/time-teller) | 299 | The Time Teller extension uses AI to transcribe human-friendly language into a start and end date and then converts the time frame into different units. | ickas | macOS | [store](https://www.raycast.com/ickas/time-teller) |
+| [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 248 | Search up-to-date documentation for any library, framework, or SDK — keep the ones you use offline, and ask Raycast AI about them | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
 | [Kimi](https://github.com/raycast/extensions/tree/main/extensions/kimi) | 229 | Interact with Moonshot AI's Kimi LLM directly from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/kimi) |
 | [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask) | 186 | Get instant AI answers for your questions. | renzo | macOS | [store](https://www.raycast.com/renzo/snapask) |
 | [Penflow AI](https://github.com/raycast/extensions/tree/main/extensions/penflow-ai) | 140 | Think & Write in English, Not your First Language (for Chinese now) | Fchen | macOS | [store](https://www.raycast.com/Fchen/penflow-ai) |
