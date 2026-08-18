@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-18 — upstream `7220b31ea4`
+
+**Updated (1):** [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge)
+
 ## 2026-08-18 — upstream `3cadc09db6`
 
 **Added (1):** [Teamwork](https://github.com/raycast/extensions/tree/main/extensions/teamwork)

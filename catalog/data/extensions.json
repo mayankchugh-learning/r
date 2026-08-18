@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3cadc09db660a84f3e843bf81d9e43e12f36426a",
-  "generatedAt": "2026-08-18T11:05:42.855Z",
-  "downloadsRefreshedAt": "2026-08-18T11:05:42.081Z",
+  "commit": "7220b31ea4f0dc77751d3a00d7d05201555fe5c6",
+  "generatedAt": "2026-08-18T11:06:19.754Z",
+  "downloadsRefreshedAt": "2026-08-18T11:06:19.148Z",
   "count": 3189,
   "extensions": [
     {
@@ -28845,7 +28845,7 @@
       ],
       "store": "https://www.raycast.com/KevinBatdorf/laravel-forge",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/laravel-forge",
-      "treeSha": "b495984a57b5bc80cdb9a42e14e9708fbdc386a2",
+      "treeSha": "1bfcb9d2773abed37e2d54c3aa69fe4d54872063",
       "downloads": 1378
     },
     {
