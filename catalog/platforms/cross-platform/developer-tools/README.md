@@ -1,12 +1,12 @@
 # Cross-platform · Developer Tools
 
-288 extensions · [← Cross-platform](../README.md)
+289 extensions · [← Cross-platform](../README.md)
 
 ## Code & Collaboration
 
 | Topic | Extensions |
 | --- | --- |
-| [Git & Version Control](./git-version-control.md) | 14 |
+| [Git & Version Control](./git-version-control.md) | 15 |
 | [Issue Tracking & Projects](./issue-tracking-projects.md) | 4 |
 | [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 32 |
 | [Search & Reference](./search-reference.md) | 24 |

@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 64,190 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
-| [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,281 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
-| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,227 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 64,194 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,282 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
+| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,229 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) | 5,678 | Control the Podcasts app for macOS with your keyboard. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/podcasts) |
 | [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,456 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |
 | [NeteaseMusic](https://github.com/raycast/extensions/tree/main/extensions/netease-music) | 2,107 | Control the NeteaseMusic app with your keyboard | chyroc | macOS | [store](https://www.raycast.com/chyroc/netease-music) |

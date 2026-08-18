@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-18 — upstream `2179be1c95`
+
+**Added (1):** [Commit Sounds](https://github.com/raycast/extensions/tree/main/extensions/commit-sound-controls)
+
 ## 2026-08-18 — upstream `7220b31ea4`
 
 **Updated (1):** [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge)

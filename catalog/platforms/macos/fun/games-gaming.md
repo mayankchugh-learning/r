@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,988 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
+| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,989 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
 | [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 8,832 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
 | [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,761 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
 | [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 2,875 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
@@ -36,7 +36,7 @@
 | [Board Game Geek](https://github.com/raycast/extensions/tree/main/extensions/board-game-geek) | 119 | Search and view details about board games on BoardGameGeek.com | graham_hall | macOS | [store](https://www.raycast.com/graham_hall/board-game-geek) |
 | [FrankerFaceZ Emotes](https://github.com/raycast/extensions/tree/main/extensions/frankerfacez) | 108 | Search for your favorite FrankerFaceZ emotes. | davidchalifoux | macOS | [store](https://www.raycast.com/davidchalifoux/frankerfacez) |
 | [Twitch Logs](https://github.com/raycast/extensions/tree/main/extensions/twitch-logs) | 103 | See what messages a user has sent on a paticular twitch channel on a paticular month. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/twitch-logs) |
-| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 89 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
+| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 90 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
 | [Dota 2](https://github.com/raycast/extensions/tree/main/extensions/dota-2) | 86 | View various data about Dota 2, like heroes and their stats. | FlorianWendelborn | macOS | [store](https://www.raycast.com/FlorianWendelborn/dota-2) |
 | [Dice Tiles](https://github.com/raycast/extensions/tree/main/extensions/dice-tiles) | 83 | A minimalist dice-and-tiles elimination game. Roll dice, eliminate tiles matching their sum, and climb through reward tiers while tracking victories and defeat… | julien_minniti | macOS, Windows | [store](https://www.raycast.com/julien_minniti/dice-tiles) |
 | [Luna Search](https://github.com/raycast/extensions/tree/main/extensions/luna-search) | 77 | Quickly find and open Luna Games | relevantsam | macOS, Windows | [store](https://www.raycast.com/relevantsam/luna-search) |

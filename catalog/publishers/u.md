@@ -22,6 +22,6 @@
 | [unitech](https://www.raycast.com/ordin) | 1 | 53 | **Other:** [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) |
 | [unpopular](https://www.raycast.com/unpopular) | 1 | 57 | **News:** [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) |
 | [unreadablename](https://www.raycast.com/unreadablename) | 1 | 1,113 | **Developer Tools:** [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) |
-| [untitledpng](https://www.raycast.com/untitledpng) | 1 | 74 | **Productivity:** [Save Clipboard](https://github.com/raycast/extensions/tree/main/extensions/save-clipboard) |
+| [untitledpng](https://www.raycast.com/untitledpng) | 1 | 75 | **Productivity:** [Save Clipboard](https://github.com/raycast/extensions/tree/main/extensions/save-clipboard) |
 | [uranium](https://www.raycast.com/uranium) | 1 | 16 | **Media:** [NFT Primitive Tools](https://github.com/raycast/extensions/tree/main/extensions/uranium-raycast-plugin) |
 | [user_c640ee8bc38faa8cdb2f](https://www.raycast.com/user_c640ee8bc38faa8cdb2f) | 1 | 78 | **Web:** [Recap](https://github.com/raycast/extensions/tree/main/extensions/recap) |
