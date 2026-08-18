@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 45,145 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
-| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,705 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
+| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 45,147 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
+| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,706 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
 | [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 18,167 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |
 | [Open in Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) | 12,021 | Open current File Manager directory, selected folder or file in Visual Studio Code. | shubzkothekar | macOS, Windows | [store](https://www.raycast.com/shubzkothekar/open-in-visual-studio-code) |
 | [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 6,053 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
@@ -77,7 +77,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,274 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
+| [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,275 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
 | [Dropshare](https://github.com/raycast/extensions/tree/main/extensions/dropshare) | 732 | Create screen captures and upload files with Dropshare | tjosten | macOS | [store](https://www.raycast.com/tjosten/dropshare) |
 | [SM.MS](https://github.com/raycast/extensions/tree/main/extensions/sm-ms) | 221 | SM.MS image hosting service to upload and share images. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/sm-ms) |
 | [Streamshare Uploader](https://github.com/raycast/extensions/tree/main/extensions/to-streamshare) | 174 | Upload files to streamshare | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/streamshare-uploader) |
@@ -95,7 +95,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,484 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,486 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
 | [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 33,990 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
 | [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,351 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
 | [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) | 4,897 | List, Search and Download Files using the Raycast Extension for Dropbox. | chyroc | macOS | [store](https://www.raycast.com/chyroc/the-blue-cloud) |
@@ -140,10 +140,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 45,355 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
-| [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 29,475 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
-| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 23,996 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
-| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,072 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
+| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 45,357 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
+| [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 29,476 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
+| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 23,998 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
+| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,073 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
 | [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,404 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
 | [Archiver](https://github.com/raycast/extensions/tree/main/extensions/archiver) | 2,743 | An archive tool for compressing or extracting, supporting multiple formats. | JinShi | macOS | [store](https://www.raycast.com/JinShi/archiver) |
 | [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,708 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |

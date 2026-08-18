@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,938 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,940 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
 | [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,548 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
 | [Year in Progress](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) | 10,277 | Stay motivated by see the progress of the year. | thomas | macOS | [store](https://www.raycast.com/thomas/year-in-progress) |
-| [YouTube Search](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) | 9,267 | YouTube search with autosuggestions | muhammetakay | macOS | [store](https://www.raycast.com/muhammetakay/youtube-search) |
+| [YouTube Search](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) | 9,268 | YouTube search with autosuggestions | muhammetakay | macOS | [store](https://www.raycast.com/muhammetakay/youtube-search) |
 | [Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/youdao-translate) | 7,366 | Translate text using Youdao | tiancheng92 | macOS | [store](https://www.raycast.com/tiancheng92/youdao-translate) |
 | [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) | 5,081 | Collection of scripts to improve YouTube browsing experience | sasivarnan | macOS, Windows | [store](https://www.raycast.com/sasivarnan/youtube-companion) |
 | [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 4,749 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |

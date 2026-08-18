@@ -40,13 +40,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,378 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
+| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,384 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,478 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,510 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,795 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote) | 3,796 | Search Microsoft OneNote notes | alewandowski | macOS | [store](https://www.raycast.com/alewandowski/onenote) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,796 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote) | 3,797 | Search Microsoft OneNote notes | alewandowski | macOS | [store](https://www.raycast.com/alewandowski/onenote) |
 | [Antinote](https://github.com/raycast/extensions/tree/main/extensions/antinote) | 3,059 | Extension to control Antinote app. Create new notes, search notes and pin/unpin Antinote with Raycast. | sc0 | macOS | [store](https://www.raycast.com/sc0/antinote) |
-| [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) | 1,041 | Search your Evernote notes instantly using the local database of the official Evernote client. | artpi | macOS, Windows | [store](https://www.raycast.com/artpi/evernote) |
+| [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) | 1,042 | Search your Evernote notes instantly using the local database of the official Evernote client. | artpi | macOS, Windows | [store](https://www.raycast.com/artpi/evernote) |
 | [iA Writer](https://github.com/raycast/extensions/tree/main/extensions/raycast-ia-writer) | 804 | Create or search notes with Raycast | xvvhang | macOS | [store](https://www.raycast.com/xvvhang/raycast-ia-writer) |
 | [Memo](https://github.com/raycast/extensions/tree/main/extensions/memo) | 756 | All your bookmarks and notes in 1 Notion | mt40 | macOS | [store](https://www.raycast.com/mt40/memo) |
 | [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 711 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |

@@ -32,10 +32,10 @@
 | [paulovictor237](https://www.raycast.com/paulovictor237) | 1 | 302 | **Productivity:** [NumPad](https://github.com/raycast/extensions/tree/main/extensions/numpad) |
 | [pavzagor](https://www.raycast.com/pavzagor) | 1 | 138 | **System:** [Extend Display](https://github.com/raycast/extensions/tree/main/extensions/extend-display) |
 | [pcho](https://www.raycast.com/pcho) | 1 | 143 | **Fun:** [Arc Helper](https://github.com/raycast/extensions/tree/main/extensions/arc-helper) |
-| [peduarte](./id/peduarte.md) | 14 | 25,878 | [see all 14 →](./id/peduarte.md) |
+| [peduarte](./id/peduarte.md) | 14 | 25,879 | [see all 14 →](./id/peduarte.md) |
 | [peeks](https://www.raycast.com/peeks) | 1 | 1,083 | **Productivity:** [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) |
 | [pejman_yaghmaie](https://www.raycast.com/pejman_yaghmaie) | 1 | 26 | **Productivity:** [Who Is off Today?](https://github.com/raycast/extensions/tree/main/extensions/who-is-off-today) |
-| [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 90,579 | [see all 21 →](./id/pernielsentikaer.md) |
+| [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 90,587 | [see all 21 →](./id/pernielsentikaer.md) |
 | [petar_yovkov](https://www.raycast.com/petar_yovkov) | 1 | 1 | **Productivity:** [Kofa](https://github.com/raycast/extensions/tree/main/extensions/kofa) |
 | [petermiles](https://www.raycast.com/petermiles) | 1 | 235 | **Fun:** [Zalgo Text Generator](https://github.com/raycast/extensions/tree/main/extensions/zalgo-text) |
 | [petersamokhin](https://www.raycast.com/petersamokhin) | 1 | 92 | **Productivity:** [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) |
@@ -63,7 +63,7 @@
 | [playtesterhq](https://www.raycast.com/playtesterhq) | 1 | 76 | **Fun:** [Playtester](https://github.com/raycast/extensions/tree/main/extensions/playtester) |
 | [plev](https://www.raycast.com/plev) | 1 | 213 | **Productivity:** [Hipster Ipsum](https://github.com/raycast/extensions/tree/main/extensions/hipster-ipsum) |
 | [ploi](https://www.raycast.com/ploi) | 1 | 471 | **Developer Tools:** [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi) |
-| [plonq](https://www.raycast.com/plonq) | 1 | 3,362 | **Web:** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion) |
+| [plonq](https://www.raycast.com/plonq) | 1 | 3,363 | **Web:** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion) |
 | [pmzi](https://www.raycast.com/pmzi) | 1 | 24 | **Productivity:** [Stashit](https://github.com/raycast/extensions/tree/main/extensions/stashit) |
 | [poiuj](https://www.raycast.com/poiuj) | 1 | 33 | **Documentation:** [Valkey Commands Search](https://github.com/raycast/extensions/tree/main/extensions/valkey-commands-search) |
 | [pokie](https://www.raycast.com/pokie) | 1 | 82 | **Fun:** [Stardew Vally Character Search](https://github.com/raycast/extensions/tree/main/extensions/stardew-valley-wiki) |
@@ -82,7 +82,7 @@
 | [prasadsunny1](https://www.raycast.com/prasadsunny1) | 1 | 1,408 | **Developer Tools:** [pub.dev](https://github.com/raycast/extensions/tree/main/extensions/flutter-pub-dev-search) |
 | [prashantv](https://www.raycast.com/prashantv) | 1 | 2,657 | **Communication:** [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) |
 | [praveenjuge](https://www.raycast.com/praveenjuge) | 4 | 3,469 | **Uncategorized:** [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses)<br>**Design Tools:** [MynaUI Icons](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons)<br>**Developer Tools:** [Outline Page](https://github.com/raycast/extensions/tree/main/extensions/outline-page)<br>**Productivity:** [Teak](https://github.com/raycast/extensions/tree/main/extensions/teak-raycast) |
-| [priithaamer](https://www.raycast.com/priithaamer) | 1 | 46,184 | **Developer Tools:** [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) |
+| [priithaamer](https://www.raycast.com/priithaamer) | 1 | 46,187 | **Developer Tools:** [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) |
 | [pryley](https://www.raycast.com/pryley) | 1 | 16 | **Developer Tools:** [Fillerama](https://github.com/raycast/extensions/tree/main/extensions/fillerama) |
 | [pseudobun](https://www.raycast.com/pseudobun) | 1 | 225 | **Applications:** [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) |
 | [puneeth](https://www.raycast.com/puneeth) | 1 | 1,879 | **Media:** [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) |

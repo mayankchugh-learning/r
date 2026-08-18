@@ -9,7 +9,7 @@
 | [e2b](https://www.raycast.com/e2b) | 1 | 738 | **Developer Tools:** [E2B Code Interpreter](https://github.com/raycast/extensions/tree/main/extensions/e2b) |
 | [eaescob](https://www.raycast.com/eaescob) | 1 | 15 | **Productivity:** [Claude Session Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/claude-session-bookmarks) |
 | [earthpyy](https://www.raycast.com/earthpyy) | 1 | 359 | **Data:** [Air Quality](https://github.com/raycast/extensions/tree/main/extensions/air-quality) |
-| [easymikey](https://www.raycast.com/easymikey) | 1 | 909 | **Developer Tools:** [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) |
+| [easymikey](https://www.raycast.com/easymikey) | 1 | 910 | **Developer Tools:** [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) |
 | [eddiesigner](https://www.raycast.com/eddiesigner) | 1 | 81 | **Finance:** [Gumroad Sales](https://github.com/raycast/extensions/tree/main/extensions/gumroad) |
 | [edith](https://www.raycast.com/edith) | 1 | 1,430 | **System:** [App Keeper Manager](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) |
 | [edmundcwm](https://www.raycast.com/edmundcwm) | 1 | 603 | **Developer Tools:** [WordPress Plugins](https://github.com/raycast/extensions/tree/main/extensions/wordpress-plugins) |
@@ -31,7 +31,7 @@
 | [elias_ruiz_monserrat](https://www.raycast.com/elias_ruiz_monserrat) | 1 | 134 | **Productivity:** [WebBites](https://github.com/raycast/extensions/tree/main/extensions/webbites) |
 | [eliperkins](https://www.raycast.com/eliperkins) | 1 | 1,059 | **Developer Tools:** [iOS Human Interface Guidelines](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) |
 | [eljn](https://www.raycast.com/eljn) | 1 | 5 | **Productivity:** [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup) |
-| [elliotdes](https://www.raycast.com/elliotdes) | 1 | 10,020 | **Productivity:** [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) |
+| [elliotdes](https://www.raycast.com/elliotdes) | 1 | 10,021 | **Productivity:** [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) |
 | [elonwoo](https://www.raycast.com/elonwoo) | 4 | 2,005 | **Productivity:** [Toggle Fn](https://github.com/raycast/extensions/tree/main/extensions/toggle-fn)<br>**Data:** [iCloud+ Global Pricing Comparison](https://github.com/raycast/extensions/tree/main/extensions/icloud-global-pricing-comparison), [Chinese Lottery](https://github.com/raycast/extensions/tree/main/extensions/chinese-lottery)<br>**News:** [Olympic Games](https://github.com/raycast/extensions/tree/main/extensions/olympic-games) |
 | [eluce2](https://www.raycast.com/eluce2) | 6 | 22,866 | **Productivity:** [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro), [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer), [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly), [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest), [FileMaker Snippets](https://github.com/raycast/extensions/tree/main/extensions/filemaker-snippets)<br>**Developer Tools:** [Ottomatic](https://github.com/raycast/extensions/tree/main/extensions/ottomatic) |
 | [elyse](https://www.raycast.com/elyse) | 1 | 832 | **Productivity:** [Tomito Controls](https://github.com/raycast/extensions/tree/main/extensions/tomito-controls) |
@@ -52,7 +52,7 @@
 | [erbilnas](https://www.raycast.com/erbilnas) | 1 | 68 | **Productivity:** [Read My Screen](https://github.com/raycast/extensions/tree/main/extensions/read-my-screen) |
 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 | **Productivity:** [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) |
 | [ericostholmm](https://www.raycast.com/ericostholmm) | 1 | 90 | **Other:** [Stockholm Public Transport](https://github.com/raycast/extensions/tree/main/extensions/stockholm-public-transport) |
-| [erics118](https://www.raycast.com/erics118) | 3 | 93,476 | **Developer Tools:** [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case), [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services)<br>**Productivity:** [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) |
+| [erics118](https://www.raycast.com/erics118) | 3 | 93,483 | **Developer Tools:** [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case), [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services)<br>**Productivity:** [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) |
 | [ErikFisher](https://www.raycast.com/ErikFisher) | 1 | 486 | **Applications:** [Text Differ](https://github.com/raycast/extensions/tree/main/extensions/text-differ) |
 | [ErlichLiu](https://www.raycast.com/ErlichLiu) | 1 | 132 | **Applications:** [China IP Address](https://github.com/raycast/extensions/tree/main/extensions/china-ip-address) |
 | [ermek_barmashev](https://www.raycast.com/ermek_barmashev) | 1 | 29 | **Uncategorized:** [Botpress](https://github.com/raycast/extensions/tree/main/extensions/botpress) |
@@ -70,14 +70,14 @@
 | [etheirystech](https://www.raycast.com/etheirystech) | 1 | 91 | **Developer Tools:** [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) |
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 28 | **Other:** [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |
 | [eunchurn](https://www.raycast.com/eunchurn) | 1 | 189 | **Developer Tools:** [Helm Chart](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) |
-| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 164,784 | [see all 19 →](./id/evanzhoudev.md) |
+| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 164,793 | [see all 19 →](./id/evanzhoudev.md) |
 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 21 | **Productivity:** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) |
 | [evilhex](https://www.raycast.com/evilhex) | 1 | 131 | **Security:** [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) |
 | [eviscares](https://www.raycast.com/eviscares) | 1 | 166 | **Productivity:** [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco) |
 | [evnm](https://www.raycast.com/evnm) | 1 | 3 | **Media:** [The Lot Radio](https://github.com/raycast/extensions/tree/main/extensions/the-lot-radio) |
-| [ewgenius](https://www.raycast.com/ewgenius) | 3 | 13,967 | **Developer Tools:** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects), [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch)<br>**Applications:** [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) |
+| [ewgenius](https://www.raycast.com/ewgenius) | 3 | 13,968 | **Developer Tools:** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects), [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch)<br>**Applications:** [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) |
 | [ewilderj](https://www.raycast.com/ewilderj) | 1 | 703 | **Developer Tools:** [Markdown Converter](https://github.com/raycast/extensions/tree/main/extensions/markdown-converter) |
 | [ewlcheng](https://www.raycast.com/ewlcheng) | 1 | 21,913 | **Fun:** [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) |
-| [exa_ai](https://www.raycast.com/exa_ai) | 1 | 4,500 | **Developer Tools:** [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) |
+| [exa_ai](https://www.raycast.com/exa_ai) | 1 | 4,503 | **Developer Tools:** [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) |
 | [ezreal09](https://www.raycast.com/ezreal09) | 1 | 74 | **Uncategorized:** [Qoder](https://github.com/raycast/extensions/tree/main/extensions/qoder) |
 | [ezzylan](https://www.raycast.com/ezzylan) | 1 | 368 | **Fun:** [Random Text Picker](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) |

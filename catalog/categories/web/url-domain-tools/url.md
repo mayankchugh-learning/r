@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 10,829 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
+| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 10,830 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
 | [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) | 473 | The Libaro powered URL shortener Shorten your URL in seconds | libaro | macOS | [store](https://www.raycast.com/libaro/liba-ro_shortener) |
 | [Tynyfy - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/tynyfy) | 153 | Shortens your boring long URLs | kusthi | macOS | [store](https://www.raycast.com/kusthi/tynyfy) |
 | [curto.io URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/curto-io-url-shortener) | 109 | Quickly shorten the current clipboard URL with curto.io | birobirobiro | macOS | [store](https://www.raycast.com/birobirobiro/curto-io-url-shortener) |
@@ -21,7 +21,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 74,255 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
+| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 74,257 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
 | [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 12,131 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
 | [URL Unshortener](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) | 1,510 | Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/url-unshortener) |
 | [Masked Link Generator](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) | 272 | Input a destination URL and the title of the link and receive a masked link in your clipboard. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/masked-link-generator) |

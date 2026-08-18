@@ -30,15 +30,15 @@
 | --- | --- | --- | --- | --- | --- |
 | [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 2,777 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
 | [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) | 2,541 | Quick links to the new React documentation | webdiego | macOS, Windows | [store](https://www.raycast.com/webdiego/react-docs) |
-| [Laravel Livewire](https://github.com/raycast/extensions/tree/main/extensions/laravel-livewire) | 1,318 | Quickly search through Laravel Livewire documentation and open it in the browser | tafhyseni | macOS | [store](https://www.raycast.com/tafhyseni/laravel-livewire) |
+| [Laravel Livewire](https://github.com/raycast/extensions/tree/main/extensions/laravel-livewire) | 1,319 | Quickly search through Laravel Livewire documentation and open it in the browser | tafhyseni | macOS | [store](https://www.raycast.com/tafhyseni/laravel-livewire) |
 | [Rubygem Documentation Browser](https://github.com/raycast/extensions/tree/main/extensions/open-gem-documentation) | 52 | Search and open Rubygem Documentations in your Browser. | remo_fritzsche | macOS | [store](https://www.raycast.com/remo_fritzsche/open-gem-documentation) |
 
 ## CSS ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,779 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
-| [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) | 7,668 | Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl, hsla, oklch and shows the closest Tailwind CSS color. | nielsvanrijn | macOS, Windows | [store](https://www.raycast.com/nielsvanrijn/web-converter) |
+| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 71,783 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
+| [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) | 7,669 | Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl, hsla, oklch and shows the closest Tailwind CSS color. | nielsvanrijn | macOS, Windows | [store](https://www.raycast.com/nielsvanrijn/web-converter) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,229 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Color Palette Picker](https://github.com/raycast/extensions/tree/main/extensions/palette-picker) | 1,454 | A simple color picker for Tailwind CSS and Radix UI color palettes. | juliusmarminge | macOS | [store](https://www.raycast.com/juliusmarminge/palette-picker) |
 | [Dynamic Font Size](https://github.com/raycast/extensions/tree/main/extensions/dynamic-font-size) | 1,007 | Create dynamic font sizes using the 'clamp' CSS function | nils_hoenson | macOS | [store](https://www.raycast.com/nils_hoenson/dynamic-font-size) |
@@ -60,14 +60,14 @@
 | [Apply Inline Code](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) | 145 | Apply inline code style in common apps and websites | alexian853 | macOS | [store](https://www.raycast.com/alexian853/apply-inline-code) |
 | [Forgejo](https://github.com/raycast/extensions/tree/main/extensions/forgejo) | 120 | Using on websites built through Forgejo. Work with search repositories and get notifications. | shichen437 | macOS | [store](https://www.raycast.com/shichen437/forgejo) |
 | [Drupal Toolbox](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) | 104 | Valuable tools and shortcuts for your Drupal Websites | emircanerkul | macOS | [store](https://www.raycast.com/emircanerkul/drupal-toolbox) |
-| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 7 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 8 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
 
 ## Tabs ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,257 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
-| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,705 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
+| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,259 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
+| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,706 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
 | [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,835 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Refresh Browsers](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) | 325 | Refresh all browser tabs | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/refresh-browsers) |
 
@@ -75,7 +75,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) | 30,818 | A quick way to generate UUIDs without opening the browser | jmaeso | macOS, Windows | [store](https://www.raycast.com/jmaeso/uuid-generator) |
+| [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) | 30,820 | A quick way to generate UUIDs without opening the browser | jmaeso | macOS, Windows | [store](https://www.raycast.com/jmaeso/uuid-generator) |
 | [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) | 11,164 | Can I Use provides up-to-date browser support for front-end web technologies on desktop and mobile web browsers. | thomaslombart | macOS, Windows | [store](https://www.raycast.com/thomaslombart/can-i-use) |
 | [Open Link in Specific Browser](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) | 5,069 | Open link or search text in specific browser. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-link-in-specific-browser) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,288 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |

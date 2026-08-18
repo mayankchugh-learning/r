@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Whisper Dictation](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) | 4,770 | A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. | finjo | macOS | [store](https://www.raycast.com/finjo/whisper-dictation) |
+| [Whisper Dictation](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) | 4,772 | A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. | finjo | macOS | [store](https://www.raycast.com/finjo/whisper-dictation) |
 | [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research) | 3,501 | Iterative Deep Research powered by Raycast AI Extensions. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/research) |
 | [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,288 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
 | [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,248 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
@@ -31,7 +31,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 7,789 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
+| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 7,791 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
 | [Grok AI](https://github.com/raycast/extensions/tree/main/extensions/grok-ai) | 2,354 | Query xAI's Grok directly from Raycast with streaming responses, conversation history, and custom model management | andrei_ciobotar | macOS | [store](https://www.raycast.com/andrei_ciobotar/grok-ai) |
 | [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,051 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 843 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
@@ -86,7 +86,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 37,072 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
+| [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 37,073 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
 | [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 13,103 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
 | [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 12,156 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
 | [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 4,386 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
@@ -107,7 +107,7 @@
 | [GetSound](https://github.com/raycast/extensions/tree/main/extensions/getsound) | 685 | Get focused with GetSound.AI | getsound-ai (org) | macOS | [store](https://www.raycast.com/getsound-ai/getsound) |
 | [Whimsical](https://github.com/raycast/extensions/tree/main/extensions/whimsical) | 481 | Transform ideas into beautiful diagrams using AI. Automatically generates flowcharts, mindmaps, and sequence diagrams from natural language descriptions. | kud | macOS | [store](https://www.raycast.com/kud/whimsical) |
 | [Inbox AI](https://github.com/raycast/extensions/tree/main/extensions/inbox-ai) | 396 | Trigger Inbox AI Actions | dreetje | macOS | [store](https://www.raycast.com/dreetje/inbox-ai) |
-| [Spiceblow - Sql Database Management](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) | 382 | Search, update, insert and delete rows in your Sql database, deeply integrated with AI | xmorse | macOS | [store](https://www.raycast.com/xmorse/spiceblow-database) |
+| [Spiceblow - Sql Database Management](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) | 383 | Search, update, insert and delete rows in your Sql database, deeply integrated with AI | xmorse | macOS | [store](https://www.raycast.com/xmorse/spiceblow-database) |
 | [Chatwith](https://github.com/raycast/extensions/tree/main/extensions/chatwith) | 377 | AI chatbot trained on your data and with access to automations. | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/chatwith) |
 | [BibiGPT AI Summarize Audio and Video](https://github.com/raycast/extensions/tree/main/extensions/bibigpt-summarize-audiovideo-with-ai) | 346 | Simplify media summarization with the BibiGPT-Summarize-AudioVideo-with-AI plugin for Raycast. Effortlessly create summaries via BibiGPT API, enhancing efficie… | skyline-123 | macOS | [store](https://www.raycast.com/skyline-123/bibigpt-summarize-audiovideo-with-ai) |
 | [Project Code to Text](https://github.com/raycast/extensions/tree/main/extensions/project-code-to-text) | 319 | Consolidates project source code, structure, and metadata into a single text file optimized for AI analysis or archiving. | borzov | macOS | [store](https://www.raycast.com/borzov/project-code-to-text) |

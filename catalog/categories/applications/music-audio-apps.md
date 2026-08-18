@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,548 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
 | [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,351 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
-| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,886 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
+| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,887 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
 | [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,435 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
 | [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,172 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
 | [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) | 1,041 | Search and open recent Ableton Live Projects | dch09 | macOS | [store](https://www.raycast.com/dch09/ableton-live) |

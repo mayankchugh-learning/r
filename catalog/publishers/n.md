@@ -31,7 +31,7 @@
 | [nazif_ishrak](https://www.raycast.com/nazif_ishrak) | 1 | 313 | **Developer Tools:** [Sendme File Share](https://github.com/raycast/extensions/tree/main/extensions/sendme) |
 | [nazzy_wazzy_lu](https://www.raycast.com/nazzy_wazzy_lu) | 3 | 797 | **Productivity:** [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker)<br>**Developer Tools:** [ArchiSteamFarm](https://github.com/raycast/extensions/tree/main/extensions/archisteamfarm)<br>**Applications:** [LIFX Advanced Controller](https://github.com/raycast/extensions/tree/main/extensions/lifx-controller) |
 | [nbaglivo](https://www.raycast.com/nbaglivo) | 1 | 32 | **Productivity:** [Portless Active Routes](https://github.com/raycast/extensions/tree/main/extensions/portless) |
-| [nchudleigh](https://www.raycast.com/nchudleigh) | 1 | 8,924 | **Productivity:** [Superwhisper - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) |
+| [nchudleigh](https://www.raycast.com/nchudleigh) | 1 | 8,925 | **Productivity:** [Superwhisper - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) |
 | [nedini](https://www.raycast.com/nedini) | 1 | 391 | **Productivity:** [No as a Service](https://github.com/raycast/extensions/tree/main/extensions/no-as-a-service) |
 | [NeonArray](https://www.raycast.com/NeonArray) | 1 | 7 | **Web:** [Icy Veins Quicklinks](https://github.com/raycast/extensions/tree/main/extensions/icy-veins-quicklinks) |
 | [netcookies](https://www.raycast.com/netcookies) | 1 | 254 | **Developer Tools:** [Copy Text Files](https://github.com/raycast/extensions/tree/main/extensions/copy-text-files) |
@@ -41,11 +41,11 @@
 | [nextwalkerovo](https://www.raycast.com/nextwalkerovo) | 1 | 78 | **Data:** [Query.Domains](https://github.com/raycast/extensions/tree/main/extensions/query-domains) |
 | [nghia_luong](https://www.raycast.com/nghia_luong) | 1 | 46 | **Productivity:** [ShiftPlus](https://github.com/raycast/extensions/tree/main/extensions/shiftplus) |
 | [ngoquocdat](https://www.raycast.com/ngoquocdat) | 1 | 64 | **Developer Tools:** [TablePro](https://github.com/raycast/extensions/tree/main/extensions/tablepro) |
-| [nhojb](https://www.raycast.com/nhojb) | 1 | 255,689 | **Developer Tools:** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) |
+| [nhojb](https://www.raycast.com/nhojb) | 1 | 255,710 | **Developer Tools:** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) |
 | [niall-maloney](https://www.raycast.com/niall-maloney) | 1 | 3,383 | **Developer Tools:** [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) |
 | [niallpaterson](https://www.raycast.com/niallpaterson) | 1 | 1,075 | **Productivity:** [Jira Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/jira-time-tracking) |
 | [nicholas_ferguson](https://www.raycast.com/nicholas_ferguson) | 1 | 42 | **Developer Tools:** [Backlog.md Manager](https://github.com/raycast/extensions/tree/main/extensions/backlog-md-manager) |
-| [nicholasq](https://www.raycast.com/nicholasq) | 2 | 637 | **Developer Tools:** [OrbStack](https://github.com/raycast/extensions/tree/main/extensions/orbstack), [DevPod](https://github.com/raycast/extensions/tree/main/extensions/devpod) |
+| [nicholasq](https://www.raycast.com/nicholasq) | 2 | 638 | **Developer Tools:** [OrbStack](https://github.com/raycast/extensions/tree/main/extensions/orbstack), [DevPod](https://github.com/raycast/extensions/tree/main/extensions/devpod) |
 | [nickdichev](https://www.raycast.com/nickdichev) | 1 | 4 | **Productivity:** [Portal Wholesale](https://github.com/raycast/extensions/tree/main/extensions/portal-wholesale) |
 | [nickradford](https://www.raycast.com/nickradford) | 1 | 133 | **Developer Tools:** [Git Co-Authors](https://github.com/raycast/extensions/tree/main/extensions/git-co-authors) |
 | [nickrotondo](https://www.raycast.com/nickrotondo) | 1 | 38 | **Data:** [Datahub Utility](https://github.com/raycast/extensions/tree/main/extensions/datahub) |
@@ -54,7 +54,7 @@
 | [nicolas-marien](https://www.raycast.com/nicolas-marien) | 3 | 2,652 | **Productivity:** [OmniFocus](https://github.com/raycast/extensions/tree/main/extensions/omnifocus)<br>**Applications:** [GoodLinks](https://github.com/raycast/extensions/tree/main/extensions/goodlinks)<br>**News:** [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) |
 | [NicolasMontone](https://www.raycast.com/NicolasMontone) | 2 | 695 | **Developer Tools:** [Kill Node Modules](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules), [Cookie String](https://github.com/raycast/extensions/tree/main/extensions/cookie-string-parser) |
 | [nicoverbruggen](https://www.raycast.com/nicoverbruggen) | 1 | 1,464 | **Developer Tools:** [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) |
-| [nielsvanrijn](https://www.raycast.com/nielsvanrijn) | 1 | 7,668 | **Developer Tools:** [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) |
+| [nielsvanrijn](https://www.raycast.com/nielsvanrijn) | 1 | 7,669 | **Developer Tools:** [Web Converter](https://github.com/raycast/extensions/tree/main/extensions/convert) |
 | [niemtec](https://www.raycast.com/niemtec) | 2 | 3,469 | **Fun:** [Developer Excuses](https://github.com/raycast/extensions/tree/main/extensions/developer-excuse)<br>**Developer Tools:** [Conventional Commits](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) |
 | [night_coder](https://www.raycast.com/night_coder) | 1 | 950 | **Uncategorized:** [Sniffer](https://github.com/raycast/extensions/tree/main/extensions/sniffer) |
 | [nikhil_tiwari](https://www.raycast.com/nikhil_tiwari) | 1 | 351 | **Uncategorized:** [What Happened Today](https://github.com/raycast/extensions/tree/main/extensions/what-happened-today) |
@@ -76,9 +76,9 @@
 | [noppefoxwolf](https://www.raycast.com/noppefoxwolf) | 1 | 1,399 | **Developer Tools:** [Simulator Control](https://github.com/raycast/extensions/tree/main/extensions/simctl) |
 | [NormC](https://www.raycast.com/NormC) | 3 | 789 | **System:** [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail)<br>**Uncategorized:** [Parse Logs](https://github.com/raycast/extensions/tree/main/extensions/parse-logs)<br>**Applications:** [Finicky Rule Manager](https://github.com/raycast/extensions/tree/main/extensions/finicky-rule-manager) |
 | [noss](https://www.raycast.com/noss) | 1 | 13 | **Design Tools:** [Mobbin Search](https://github.com/raycast/extensions/tree/main/extensions/mobbin) |
-| [notion](https://www.raycast.com/notion) | 1 | 247,067 | **Applications:** [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) |
+| [notion](https://www.raycast.com/notion) | 1 | 247,082 | **Applications:** [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) |
 | [nuno_costa](https://www.raycast.com/nuno_costa) | 1 | 62 | **Developer Tools:** [Create Remix](https://github.com/raycast/extensions/tree/main/extensions/raycast-create-remix) |
 | [nunotomas](https://www.raycast.com/nunotomas) | 1 | 198 | **Developer Tools:** [IsDown](https://github.com/raycast/extensions/tree/main/extensions/isdown) |
 | [nurkamol](https://www.raycast.com/nurkamol) | 2 | 360 | **Developer Tools:** [Redirect Trace](https://github.com/raycast/extensions/tree/main/extensions/redirect-trace), [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) |
 | [NvIte0o0](https://www.raycast.com/NvIte0o0) | 1 | 5 | **Fun:** [GeForce NOW](https://github.com/raycast/extensions/tree/main/extensions/geforce-now) |
-| [nyatinte](https://www.raycast.com/nyatinte) | 1 | 11,588 | **Developer Tools:** [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) |
+| [nyatinte](https://www.raycast.com/nyatinte) | 1 | 11,593 | **Developer Tools:** [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) |

@@ -1,6 +1,6 @@
 # chrismessina
 
-15 extensions · 6,238 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+15 extensions · 6,239 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -9,7 +9,7 @@
 | [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,096 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
 | [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 197 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
 | [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap) | 83 | Wrap and unwrap text using Markdown-aware reflow. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/wrap-unwrap) |
-| [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 40 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
+| [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 41 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 1 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
 
 ## Uncategorized (1)

@@ -41,7 +41,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,382 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing) | 1,865 | Show your local and external IPs from multiple sources, look up the location and network behind any IP address, and keep your current IP in the menu bar | jason5ng32 | macOS, Windows | [store](https://www.raycast.com/jason5ng32/ipcheck-ing) |
-| [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,457 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
+| [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,458 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,397 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |
 | [Wifi Share QR-Code](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) | 1,388 | Share any saved wifi qr code to other devices to join the network | abul_kalam_robin | macOS | [store](https://www.raycast.com/abul_kalam_robin/wifi-share) |
 | [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer) | 268 | Lists and changes current network location on Mac. | rcouto | macOS | [store](https://www.raycast.com/rcouto/mac-network-location-changer) |
@@ -52,8 +52,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,226 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,267 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,227 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,270 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) | 705 | Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats | lucasmezencio | macOS | [store](https://www.raycast.com/lucasmezencio/http-dot-cat) |
 | [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | 296 | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |
 | [rhttp](https://github.com/raycast/extensions/tree/main/extensions/rhttp) | 235 | Full-featured HTTP client with environments, variables, and request chaining | SebastianJarsve | macOS | [store](https://www.raycast.com/SebastianJarsve/rhttp) |
@@ -63,7 +63,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 52,092 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 52,097 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,295 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 972 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
 | [Ray Boop](https://github.com/raycast/extensions/tree/main/extensions/ray-boop) | 551 | Port of Boop to Raycast. Run any Boop script on clipboard content. | nathan_schwermann | macOS | [store](https://www.raycast.com/nathan_schwermann/ray-boop) |
@@ -74,9 +74,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,973 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,975 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,443 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
-| [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) | 3,625 | This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) | meguoe | macOS, Windows | [store](https://www.raycast.com/meguoe/ip-tools) |
+| [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) | 3,626 | This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) | meguoe | macOS, Windows | [store](https://www.raycast.com/meguoe/ip-tools) |
 | [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,506 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
 | [CIDR Conversion](https://github.com/raycast/extensions/tree/main/extensions/cidr) | 698 | CIDR to IPv4 Conversion | Gnosnay | macOS | [store](https://www.raycast.com/Gnosnay/cidr) |
 | [Format GraphQL](https://github.com/raycast/extensions/tree/main/extensions/format-graphql) | 513 | Formats a GraphQL document | tngranados | macOS | [store](https://www.raycast.com/tngranados/format-graphql) |

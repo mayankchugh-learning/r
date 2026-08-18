@@ -7,13 +7,13 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,925 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,549 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,552 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,008 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,988 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
 | [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,768 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,500 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
 | [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 3,940 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
-| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,886 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
+| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,887 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
 | [Transmission](https://github.com/raycast/extensions/tree/main/extensions/transmission) | 3,192 | View and manage torrents directly from Raycast. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/transmission) |
 | [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | 3,047 | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
 | [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,020 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |

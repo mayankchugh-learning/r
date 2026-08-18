@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,795 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,796 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,650 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,703 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,986 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
@@ -18,7 +18,7 @@
 | [BetterDiscord Store](https://github.com/raycast/extensions/tree/main/extensions/betterdiscord-search) | 531 | Allows you to search and view BetterDiscord addons inside Raycast | TheCommieAxolotl | macOS | [store](https://www.raycast.com/TheCommieAxolotl/betterdiscord-store) |
 | [Redmine](https://github.com/raycast/extensions/tree/main/extensions/redmine) | 418 | Integrate with the Redmine issue system (https://www.redmine.org/) | jwickers | macOS | [store](https://www.raycast.com/jwickers/redmine) |
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 381 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
-| [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) | 367 | Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing. | valenradovich | macOS | [store](https://www.raycast.com/valenradovich/grammaring) |
+| [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) | 368 | Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing. | valenradovich | macOS | [store](https://www.raycast.com/valenradovich/grammaring) |
 | [GitHub Users Search](https://github.com/raycast/extensions/tree/main/extensions/github-users) | 359 | Search GitHub users | luisFilipePT | macOS | [store](https://www.raycast.com/luisFilipePT/github-users) |
 | [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya) | 286 | Manage emails through Himalaya CLI | jns | macOS | [store](https://www.raycast.com/jns/himalaya) |
 | [Ask Notis](https://github.com/raycast/extensions/tree/main/extensions/notis) | 283 | Capture, organize, and find anything for you in your Notion workspace. | mindtheflo | macOS | [store](https://www.raycast.com/mindtheflo/notis) |

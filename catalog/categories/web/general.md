@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,453 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,437 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,461 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,439 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,117 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
 | [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,768 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,703 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
@@ -14,7 +14,7 @@
 | [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) | 5,081 | Collection of scripts to improve YouTube browsing experience | sasivarnan | macOS, Windows | [store](https://www.raycast.com/sasivarnan/youtube-companion) |
 | [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,043 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
 | [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | 2,421 | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
-| [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,416 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
+| [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,417 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
 | [Dashlane](https://github.com/raycast/extensions/tree/main/extensions/dashlane) | 2,365 | Access your Dashlane vault directly from Raycast | dpnick | macOS | [store](https://www.raycast.com/dpnick/dashlane) |
 | [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) | 2,299 | Discover how many hours you need to beat a game. | Cronos87 | macOS, Windows | [store](https://www.raycast.com/Cronos87/howlongtobeat) |
 | [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,146 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
@@ -38,7 +38,7 @@
 | [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) | 619 | A simple way to preview markdown content | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/markdown-preview) |
 | [Vocabulary.com](https://github.com/raycast/extensions/tree/main/extensions/vocab-search) | 526 | Retrieve Word definitions from vocab.com | datadeer | macOS | [store](https://www.raycast.com/datadeer/vocab) |
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 381 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
-| [Color Studio Picker](https://github.com/raycast/extensions/tree/main/extensions/color-studio-picker) | 365 | Helps you identify and pick colors from Automattic's Color Studio | Automattic_Inc | macOS | [store](https://www.raycast.com/Automattic_Inc/color-studio-picker) |
+| [Color Studio Picker](https://github.com/raycast/extensions/tree/main/extensions/color-studio-picker) | 366 | Helps you identify and pick colors from Automattic's Color Studio | Automattic_Inc | macOS | [store](https://www.raycast.com/Automattic_Inc/color-studio-picker) |
 | [Pixels to Viewport Width or Height](https://github.com/raycast/extensions/tree/main/extensions/convert-px-to-vw-vh) | 317 | Fast conversion of pixels to vw or vh depending on the size of your viewport. | Atiipik | macOS | [store](https://www.raycast.com/Atiipik/convert-px-to-vw-vh) |
 | [React Native Directory](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) | 312 | A searchable and filterable directory of React Native libraries. | shubh_porwal | macOS | [store](https://www.raycast.com/shubh_porwal/react-native-directory) |
 | [SupaHabits](https://github.com/raycast/extensions/tree/main/extensions/supahabits) | 309 | Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries | gbarba | macOS | [store](https://www.raycast.com/gbarba/habits) |

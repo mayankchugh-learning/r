@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,142 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,288 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,267 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,144 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,291 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,270 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,091 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,578 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,257 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
@@ -21,7 +21,7 @@
 | [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,097 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
 | [HubSpot](https://github.com/raycast/extensions/tree/main/extensions/hubspot) | 1,581 | Search Hubspot Contacts, Companies and Deals | harisvsulaiman | macOS | [store](https://www.raycast.com/harisvsulaiman/hubspot) |
 | [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,445 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
-| [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,439 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
+| [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,441 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
 | [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) | 1,403 | Use Huggingface models for summarization, translation, ... | ragnor | macOS | [store](https://www.raycast.com/ragnor/huggingcast) |
 | [Hexlify](https://github.com/raycast/extensions/tree/main/extensions/hexlify) | 1,365 | Convert between hex and binary representations | gkpln3 | macOS | [store](https://www.raycast.com/gkpln3/hexlify) |
 | [Hellonext Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/hellonext-wallpapers) | 1,353 | Download and set Hellonext's exclusive wallpapers. | karthik | macOS | [store](https://www.raycast.com/karthik/hellonext-wallpapers) |
@@ -62,7 +62,7 @@
 | [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) | 172 | Search Haskell documentation in Hoogle | waj | macOS | [store](https://www.raycast.com/waj/hoogle) |
 | [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) | 167 | Search and manage books and lists. | hazelhedmine | macOS | [store](https://www.raycast.com/hazelhedmine/hardcover) |
 | [Handoff Toggle](https://github.com/raycast/extensions/tree/main/extensions/handoff-toggle) | 142 | Toggle macOS Handoff feature on/off | wellsgz | macOS | [store](https://www.raycast.com/wellsgz/handoff-toggle) |
-| [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | 127 | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/JSONbored/heyclaude) |
+| [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | 128 | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/JSONbored/heyclaude) |
 | [Hop](https://github.com/raycast/extensions/tree/main/extensions/hop) | 119 | Fast, elegant SSH connection manager. Fuzzy search and connect to servers from your hop config. | danmartuszewski | macOS | [store](https://www.raycast.com/danmartuszewski/hop) |
 | [Have I Been Pwned](https://github.com/raycast/extensions/tree/main/extensions/have-i-been-pwned) | 117 | Check if your email or password has been exposed in a data breach | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/have-i-been-pwned) |
 | [Holopin](https://github.com/raycast/extensions/tree/main/extensions/holopin) | 117 | Show Holopin stickers and board | timoransky | macOS | [store](https://www.raycast.com/timoransky/holopin) |

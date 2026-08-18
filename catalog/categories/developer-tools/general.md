@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 665,705 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,802 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,453 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,793 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
-| [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) | 13,652 | Control Ghostty with Raycast | jarry_chung | macOS | [store](https://www.raycast.com/jarry_chung/ghostty) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 665,740 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,805 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,461 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,794 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
+| [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) | 13,656 | Control Ghostty with Raycast | jarry_chung | macOS | [store](https://www.raycast.com/jarry_chung/ghostty) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,091 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [iTranslate](https://github.com/raycast/extensions/tree/main/extensions/itranslate) | 10,708 | Translate words or sentences, support 36 languages, OCR, history record and translating into multiple languages at the same time. | JinShi | macOS | [store](https://www.raycast.com/JinShi/itranslate) |
 | [Deepseek Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/deepseeker) | 10,529 | Performs one-shot actions with DeepSeek and more | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/deepseeker) |
@@ -32,7 +32,7 @@
 | [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub) | 1,523 | Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Ra… | dubinc (org) | macOS | [store](https://www.raycast.com/dubinc/dub) |
 | [SimpleTexOCR](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) | 1,513 | A LaTeX OCR by Simpletex | Arthals | macOS | [store](https://www.raycast.com/Arthals/simpletexocr) |
 | [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager) | 1,397 | View and manage your ~/.zshrc from Raycast | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/zshrc-manager) |
-| [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) | 1,362 | Provides quick access to Laravel Herd features and settings. | beyond-code (org) | macOS | [store](https://www.raycast.com/beyond-code/laravel-herd) |
+| [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) | 1,363 | Provides quick access to Laravel Herd features and settings. | beyond-code (org) | macOS | [store](https://www.raycast.com/beyond-code/laravel-herd) |
 | [SwitchHosts](https://github.com/raycast/extensions/tree/main/extensions/switchhosts) | 1,278 | An extension for hosts management & switching | tiancheng92 | macOS | [store](https://www.raycast.com/tiancheng92/switchhosts) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,252 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Vault Manager](https://github.com/raycast/extensions/tree/main/extensions/vault) | 1,226 | Vault extension for Raycast | fonimus | macOS | [store](https://www.raycast.com/fonimus/vault-manager) |
@@ -58,7 +58,7 @@
 | [Scoop](https://github.com/raycast/extensions/tree/main/extensions/scoop) | 599 | Manage Scoop, the command-line installer for Windows. | zsombor_biro | Windows | [store](https://www.raycast.com/zsombor_biro/scoop) |
 | [Pagespeed](https://github.com/raycast/extensions/tree/main/extensions/pagespeed) | 572 | A simple extension that reports page speed insights based on page-speed.dev | vorillaz | macOS | [store](https://www.raycast.com/vorillaz/pagespeed) |
 | [Kill Node Modules](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) | 539 | Remove selected node_modules | NicolasMontone | macOS, Windows | [store](https://www.raycast.com/NicolasMontone/kill-node-modules) |
-| [OrbStack](https://github.com/raycast/extensions/tree/main/extensions/orbstack) | 529 | Manage OrbStack with Raycast | nicholasq | macOS | [store](https://www.raycast.com/nicholasq/orbstack) |
+| [OrbStack](https://github.com/raycast/extensions/tree/main/extensions/orbstack) | 530 | Manage OrbStack with Raycast | nicholasq | macOS | [store](https://www.raycast.com/nicholasq/orbstack) |
 | [SABnzbd](https://github.com/raycast/extensions/tree/main/extensions/sabnzbd) | 514 | Manage SABnzbd locally | jns | macOS | [store](https://www.raycast.com/jns/sabnzbd) |
 | [Gitpod](https://github.com/raycast/extensions/tree/main/extensions/gitpod) | 466 | A blazingly fast way to work with Gitpod | Henit-Palani | macOS | [store](https://www.raycast.com/Henit-Palani/gitpod) |
 | [Opsgenie](https://github.com/raycast/extensions/tree/main/extensions/opsgenie) | 404 | Manage Opsgenie alerts and incidents. | ricoberger | macOS | [store](https://www.raycast.com/ricoberger/opsgenie) |

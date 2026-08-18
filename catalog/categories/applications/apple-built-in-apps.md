@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 40,698 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
-| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,966 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
+| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 40,703 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
+| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,967 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
 | [Apple Maps Search](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) | 16,655 | Quickly search Apple Maps or find directions. | djpowers | macOS, Windows | [store](https://www.raycast.com/djpowers/apple-maps-search) |
 | [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,086 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
-| [Bob - Control Bob Translate](https://github.com/raycast/extensions/tree/main/extensions/bob) | 4,033 | Control the Bob Translate app for macOS with your keyboard. | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/bobcontrol) |
-| [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,170 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
+| [Bob - Control Bob Translate](https://github.com/raycast/extensions/tree/main/extensions/bob) | 4,034 | Control the Bob Translate app for macOS with your keyboard. | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/bobcontrol) |
+| [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,171 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
 | [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) | 2,719 | Airport is the best place to discover new TestFlight apps from developers. | siddharthsharma94 | macOS | [store](https://www.raycast.com/siddharthsharma94/airport) |
 | [Klack](https://github.com/raycast/extensions/tree/main/extensions/klack) | 2,693 | Control Klack for macOS with Raycast | henrikruscon | macOS | [store](https://www.raycast.com/henrikruscon/klack) |
 | [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,128 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |

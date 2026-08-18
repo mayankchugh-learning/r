@@ -1,6 +1,6 @@
 # xmok
 
-113 extensions · 11,383 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+113 extensions · 11,385 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (21)
 
@@ -93,7 +93,7 @@
 | [SolusVM 1 Client](https://github.com/raycast/extensions/tree/main/extensions/solusvm-1-client) | 15 | Fetch Information and Manage SolusVM 1 Virtual Server | xmok | macOS | [store](https://www.raycast.com/xmok/solusvm-1-client) |
 | [DreamHost](https://github.com/raycast/extensions/tree/main/extensions/dreamhost) | 9 | Manage DreamHost DNS Records | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/dreamhost) |
 | [deSEC](https://github.com/raycast/extensions/tree/main/extensions/desec) | 6 | Modern DNS Hosting for Everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/desec) |
-| [Fabulous](https://github.com/raycast/extensions/tree/main/extensions/fabulous) | 0 | List Domains and their DNS Records | xmok | macOS | [store](https://www.raycast.com/xmok/fabulous) |
+| [Fabulous](https://github.com/raycast/extensions/tree/main/extensions/fabulous) | 1 | List Domains and their DNS Records | xmok | macOS | [store](https://www.raycast.com/xmok/fabulous) |
 
 ### APIs & Networking
 
@@ -197,7 +197,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Useless Facts](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) | 576 | Get useless, but true facts | xmok | macOS | [store](https://www.raycast.com/xmok/useless-facts) |
+| [Useless Facts](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) | 577 | Get useless, but true facts | xmok | macOS | [store](https://www.raycast.com/xmok/useless-facts) |
 | [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 253 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
 | [Rick and Morty](https://github.com/raycast/extensions/tree/main/extensions/rick-and-morty) | 100 | Access characters, images, locations and episodes from the television show "Rick and Morty" | xmok | macOS | [store](https://www.raycast.com/xmok/rick-and-morty) |
 | [The Lord of the Rings](https://github.com/raycast/extensions/tree/main/extensions/lotr) | 90 | Books, Characters, Movies and Quotes via The One API | xmok | macOS | [store](https://www.raycast.com/xmok/lotr) |

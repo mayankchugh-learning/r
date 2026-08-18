@@ -2,14 +2,14 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · **Tasks & To-Dos** · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-17 of 331 extensions · [← Cross-platform · Productivity](./README.md)
+18 of 332 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 85,382 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,267 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
-| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,020 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
-| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,453 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
+| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 85,386 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,270 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,021 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,454 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 726 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 108 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 88 | Search for tasks & projects and log time in awork. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
@@ -22,4 +22,5 @@
 | [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) | 7 | Manage Habitify habits from Raycast. | razz13 | macOS, Windows | [store](https://www.raycast.com/razz13/habitify-raycast) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 6 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |
 | [Kofa](https://github.com/raycast/extensions/tree/main/extensions/kofa) | 1 | Quickly capture tasks into Kofa, the minimalist todo and day planner. | petar_yovkov | macOS, Windows | [store](https://www.raycast.com/petar_yovkov/kofa) |
+| [Teamwork](https://github.com/raycast/extensions/tree/main/extensions/teamwork) | 0 | Search Teamwork tasks and control your Teamwork timer from Raycast | defaced | macOS, Windows | [store](https://www.raycast.com/defaced/teamwork) |
 | [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix) | 0 | Manage Zabbix Problems, Hosts, Triggers and Latest Data directly from Raycast. Perform common monitoring and maintenance tasks without opening a browser. | massimiliano_pasquini | Windows, macOS | [store](https://www.raycast.com/massimiliano_pasquini/raycast-zabbix) |
