@@ -2,11 +2,11 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · **N** · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-106 extensions · [← catalog index](../README.md)
+107 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 247,102 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 247,113 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
 | [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,904 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi) | 7,445 | Query Numi from Raycast | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/numi) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,382 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
@@ -26,7 +26,7 @@
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,397 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |
 | [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud) | 1,300 | Search files, deck, notes, favorites and activity in Nextcloud. | uetchy | macOS | [store](https://www.raycast.com/uetchy/nextcloud) |
 | [Notes in Google Docs](https://github.com/raycast/extensions/tree/main/extensions/note-in-google-doc) | 1,243 | Effortlessly capture your ideas and store them instantly in Google Docs | tatermohit | macOS | [store](https://www.raycast.com/tatermohit/note-in-google-doc) |
-| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,234 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
+| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,235 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [Network Menubar Monitor](https://github.com/raycast/extensions/tree/main/extensions/network-menubar-monitor) | 1,150 | Show current network bandwith | iaroslav_naiden | macOS | [store](https://www.raycast.com/iaroslav_naiden/network-menubar-monitor) |
 | [New Instance](https://github.com/raycast/extensions/tree/main/extensions/raycast-new-instance) | 1,072 | Launch a new instance of any installed application on your Mac | Caramel | macOS | [store](https://www.raycast.com/Caramel/raycast-new-instance) |
 | [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) | 1,048 | An extension to supercharge your research workflow with Notion | raz_gaon | macOS | [store](https://www.raycast.com/raz_gaon/notion_researcher) |
@@ -66,8 +66,8 @@
 | [Numpy Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/numpy-documentation-search) | 122 | Quickly search through official NumPy documentation | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/numpy-documentation-search) |
 | [Namuwiki](https://github.com/raycast/extensions/tree/main/extensions/namuwiki) | 120 | Search Korean documents in Namuwiki | 123period | macOS | [store](https://www.raycast.com/123period/namuwiki) |
 | [Norwegian Public Transport](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) | 115 | Real-time departures for Norwegian public transport. Data made available by Entur. | rosvik | macOS | [store](https://www.raycast.com/rosvik/raycast-norwegian-public-transport) |
+| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 109 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [Nerd Font Picker](https://github.com/raycast/extensions/tree/main/extensions/nerd-font-picker) | 108 | Browse and copy Nerd Font glyphs from your installed fonts | kud | macOS | [store](https://www.raycast.com/kud/nerd-font-picker) |
-| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 108 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) | 97 | Local NuGet package explorer | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/nuget-package-explorer) |
 | [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 90 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
 | [NameSilo](https://github.com/raycast/extensions/tree/main/extensions/namesilo) | 85 | View your Domains, Orders, Whois Info and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/namesilo) |
@@ -111,4 +111,5 @@
 | [Nibit](https://github.com/raycast/extensions/tree/main/extensions/nibit) | 2 | Push to and from your Android phone with Nibit, a Raycast-style productivity layer. | jfox | macOS | [store](https://www.raycast.com/jfox/nibit) |
 | [Noteman](https://github.com/raycast/extensions/tree/main/extensions/noteman) | 2 | Fast, local Markdown note-taking in Raycast | samuel_oldmark_se | macOS | [store](https://www.raycast.com/samuel_oldmark_se/noteman) |
 | [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 1 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
+| [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
 | [NetEase Mail](https://github.com/raycast/extensions/tree/main/extensions/netease-mail) | 0 | Read, search, verify codes, and send NetEase Mail from Raycast. | ctacta621 | Windows | [store](https://www.raycast.com/ctacta621/netease-mail) |

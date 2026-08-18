@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover) | 24,167 | Add selected files or clipboard content to Dropover | jag-k | macOS | [store](https://www.raycast.com/jag-k/dropover) |
 | [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) | 884 | Compare or open content from Raycast in Kaleidoscope. | leitmotif (org) | macOS | [store](https://www.raycast.com/leitmotif/kaleidoscope) |
-| [Lark AppLink](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) | 664 | Open Lark AppLink | chyroc | macOS | [store](https://www.raycast.com/chyroc/lark-applink) |
+| [Lark AppLink](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) | 665 | Open Lark AppLink | chyroc | macOS | [store](https://www.raycast.com/chyroc/lark-applink) |
 | [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) | 637 | Create Feishu/Lark online document quickly using native Feishu/Lark URLs. | rokcso | macOS | [store](https://www.raycast.com/rokcso/feishu-document-creator) |
 | [Searchcaster](https://github.com/raycast/extensions/tree/main/extensions/searchcaster) | 251 | Search for content on Farcaster, a sufficiently decentralized social network. | gregskril | macOS | [store](https://www.raycast.com/gregskril/searchcaster) |
 | [Quick AirDrop](https://github.com/raycast/extensions/tree/main/extensions/quick-airdrop) | 173 | Trigger the macOS AirDrop sheet for files, URLs, and clipboard contents — straight from Raycast | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/quick-airdrop) |

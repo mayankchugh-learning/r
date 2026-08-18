@@ -55,7 +55,7 @@
 | [blazej_kustra](https://www.raycast.com/blazej_kustra) | 1 | 104 | **Productivity:** [Diki Translate](https://github.com/raycast/extensions/tree/main/extensions/raycast-diki) |
 | [blessanm86](https://www.raycast.com/blessanm86) | 1 | 8,330 | **Communication:** [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) |
 | [bobbymannino](https://www.raycast.com/bobbymannino) | 1 | 103 | **Design Tools:** [Penpot](https://github.com/raycast/extensions/tree/main/extensions/penpot) |
-| [bobheadxi](https://www.raycast.com/bobheadxi) | 1 | 2,467 | **Developer Tools:** [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) |
+| [bobheadxi](https://www.raycast.com/bobheadxi) | 1 | 2,468 | **Developer Tools:** [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) |
 | [bobringer](https://www.raycast.com/bobringer) | 1 | 36 | **Fun:** [Sonu](https://github.com/raycast/extensions/tree/main/extensions/sonu-stream) |
 | [boj](https://www.raycast.com/boj) | 1 | 84 | **Productivity:** [Go Links](https://github.com/raycast/extensions/tree/main/extensions/go-links) |
 | [boosteblume](https://www.raycast.com/boosteblume) | 2 | 148 | **Productivity:** [Personio](https://github.com/raycast/extensions/tree/main/extensions/personio)<br>**Fun:** [Geoguesser](https://github.com/raycast/extensions/tree/main/extensions/geoguesser) |
@@ -67,7 +67,7 @@
 | [BrandonGiesing](https://www.raycast.com/BrandonGiesing) | 1 | 272 | **Media:** [SauceNAO - Reverse Image Search](https://github.com/raycast/extensions/tree/main/extensions/saucenao) |
 | [braydoncoyer](https://www.raycast.com/braydoncoyer) | 1 | 580 | **Fun:** [Office Quotes](https://github.com/raycast/extensions/tree/main/extensions/office-quotes) |
 | [breadone](https://www.raycast.com/breadone) | 1 | 1,529 | **Security:** [Apple-Like Password](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) |
-| [brian_j_decoder22](https://www.raycast.com/brian_j_decoder22) | 1 | 173 | **Developer Tools:** [MultiForce](https://github.com/raycast/extensions/tree/main/extensions/multi-force) |
+| [brian_j_decoder22](https://www.raycast.com/brian_j_decoder22) | 1 | 174 | **Developer Tools:** [MultiForce](https://github.com/raycast/extensions/tree/main/extensions/multi-force) |
 | [brian_wang](https://www.raycast.com/brian_wang) | 1 | 798 | **Productivity:** [Harpoon](https://github.com/raycast/extensions/tree/main/extensions/harpoon) |
 | [brianfakhoury](https://www.raycast.com/brianfakhoury) | 1 | 1,179 | **Productivity:** [Mem](https://github.com/raycast/extensions/tree/main/extensions/mem) |
 | [brittany_carusone](https://www.raycast.com/brittany_carusone) | 1 | 430 | **Productivity:** [RapidCap](https://github.com/raycast/extensions/tree/main/extensions/rapidcap) |

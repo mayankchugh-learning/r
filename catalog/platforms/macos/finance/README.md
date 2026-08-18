@@ -32,7 +32,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,159 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
-| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,598 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
+| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,599 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
 | [Binance Portfolio](https://github.com/raycast/extensions/tree/main/extensions/binance) | 1,098 | Track your Binance portfolio | grzegorzkrukowski | macOS | [store](https://www.raycast.com/grzegorzkrukowski/binance) |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,009 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
 | [Coinpaprika](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) | 776 | Cryptocurrency Prices & Statistics | gumbleliks | macOS | [store](https://www.raycast.com/gumbleliks/coinpaprika) |
@@ -97,8 +97,8 @@
 | [Maybe](https://github.com/raycast/extensions/tree/main/extensions/maybe) | 22 | The personal finance app for everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/maybe) |
 | [Rewiser](https://github.com/raycast/extensions/tree/main/extensions/rewiser) | 16 | Track and manage your Rewiser transactions directly from Raycast | rewiser_io | macOS | [store](https://www.raycast.com/rewiser_io/rewiser) |
 | [Portuguese Tax Number](https://github.com/raycast/extensions/tree/main/extensions/nif-fresquinho) | 11 | Copy a new Portuguese Tax Number to the clipboard | poor666 | macOS | [store](https://www.raycast.com/poor666/nif-fresquinho) |
+| [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) | 8 | Add transactions to your Ducat account | rahulchowdhury | macOS, Windows | [store](https://www.raycast.com/rahulchowdhury/ducat) |
 | [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) | 7 | Calculate the real cost of your camper van per day – track expenses, residual value, and yearly breakdown. | wdeu | macOS | [store](https://www.raycast.com/wdeu/camper-calc) |
-| [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) | 7 | Add transactions to your Ducat account | rahulchowdhury | macOS, Windows | [store](https://www.raycast.com/rahulchowdhury/ducat) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [Cobalt Finance](https://github.com/raycast/extensions/tree/main/extensions/cobalt-finance) | 3 | Access your Cobalt finances from Raycast. | sriket_komali | macOS | [store](https://www.raycast.com/sriket_komali/cobalt-finance) |
 | [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) | 2 | Search BC Assessment properties by address. | martins | macOS, Windows | [store](https://www.raycast.com/martins/bcassessment) |

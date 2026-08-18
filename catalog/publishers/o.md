@@ -16,7 +16,7 @@
 | [okgloor](https://www.raycast.com/okgloor) | 1 | 113 | **Other:** [Steam Player Counts](https://github.com/raycast/extensions/tree/main/extensions/steam-player-counts) |
 | [okooo5km](https://www.raycast.com/okooo5km) | 1 | 3,573 | **Applications:** [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) |
 | [oktay](https://www.raycast.com/oktay) | 1 | 1,495 | **Developer Tools:** [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) |
-| [okwasniewski](https://www.raycast.com/okwasniewski) | 1 | 1,181 | **Developer Tools:** [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) |
+| [okwasniewski](https://www.raycast.com/okwasniewski) | 1 | 1,182 | **Developer Tools:** [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) |
 | [olafhartong](https://www.raycast.com/olafhartong) | 1 | 23 | **Developer Tools:** [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) |
 | [olavgjerde](https://www.raycast.com/olavgjerde) | 1 | 263 | **System:** [LookSee - A MAC, OUI, IAB Lookup](https://github.com/raycast/extensions/tree/main/extensions/looksee) |
 | [oleksandr_oliynyk](https://www.raycast.com/oleksandr_oliynyk) | 1 | 97 | **Web:** [Lingorep - Translate, Repeat, Memorize](https://github.com/raycast/extensions/tree/main/extensions/lingo-rep-raycast) |

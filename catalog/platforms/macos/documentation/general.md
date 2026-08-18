@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,392 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
+| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,396 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,479 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,510 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,796 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
@@ -17,10 +17,10 @@
 | [Heroicons](https://github.com/raycast/extensions/tree/main/extensions/heroicons) | 4,105 | Search and preview Heroicons | johndoe123789 | macOS | [store](https://www.raycast.com/johndoe123789/heroicons) |
 | [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,044 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 2,994 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
-| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,987 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
-| [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) | 2,467 | Search your code and public repositories with Sourcegraph. | bobheadxi | macOS | [store](https://www.raycast.com/bobheadxi/sourcegraph) |
+| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,988 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
+| [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) | 2,468 | Search your code and public repositories with Sourcegraph. | bobheadxi | macOS | [store](https://www.raycast.com/bobheadxi/sourcegraph) |
 | [Send to flomo](https://github.com/raycast/extensions/tree/main/extensions/send-to-flomo) | 1,942 | Send your MEMOs to flomo | ahonn | macOS | [store](https://www.raycast.com/ahonn/send-to-flomo) |
-| [DocSearch](https://github.com/raycast/extensions/tree/main/extensions/docsearch) | 1,882 | Link all DocSearch into Raycast | Fatpandac | macOS | [store](https://www.raycast.com/Fatpandac/docsearch) |
+| [DocSearch](https://github.com/raycast/extensions/tree/main/extensions/docsearch) | 1,883 | Link all DocSearch into Raycast | Fatpandac | macOS | [store](https://www.raycast.com/Fatpandac/docsearch) |
 | [DLmoji](https://github.com/raycast/extensions/tree/main/extensions/dlmoji) | 1,562 | Semantic search for Emojis, powered by Deep Learning and intelligent APIs | Hydrapse | macOS | [store](https://www.raycast.com/Hydrapse/dlmoji) |
 | [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,520 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
 | [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) | 1,438 | Lookup chord diagrams for guitar | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/guitar-chords) |

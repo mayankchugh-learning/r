@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 99,151 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 99,156 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 48,211 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 42,044 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 42,045 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
 | [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 39,710 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
-| [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count) | 35,793 | Count characters, words, sentences, and paragraphs in text. | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/word-count) |
+| [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count) | 35,794 | Count characters, words, sentences, and paragraphs in text. | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/word-count) |
 | [Word Search](https://github.com/raycast/extensions/tree/main/extensions/word-search) | 24,704 | Search for synonyms, antonyms, spellings, rhymes and more | rishabswift | macOS, Windows | [store](https://www.raycast.com/rishabswift/word-search) |
 | [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 15,884 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
 | [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 8,972 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
@@ -33,7 +33,7 @@
 | [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) | 1,730 | Resize the focused window to pixel-perfect presets. | the3ash | macOS | [store](https://www.raycast.com/the3ash/window-sizer) |
 | [Wifi Share QR-Code](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) | 1,388 | Share any saved wifi qr code to other devices to join the network | abul_kalam_robin | macOS | [store](https://www.raycast.com/abul_kalam_robin/wifi-share) |
 | [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,183 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
-| [Wakatime](https://github.com/raycast/extensions/tree/main/extensions/wakatime) | 1,099 | Show your Wakatime Activity Stats, Projects and Leaderboards | iammola | macOS | [store](https://www.raycast.com/iammola/wakatime) |
+| [Wakatime](https://github.com/raycast/extensions/tree/main/extensions/wakatime) | 1,100 | Show your Wakatime Activity Stats, Projects and Leaderboards | iammola | macOS | [store](https://www.raycast.com/iammola/wakatime) |
 | [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) | 1,083 | Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. | peeks | macOS | [store](https://www.raycast.com/peeks/webflow-sites) |
 | [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,073 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
 | [WordReference Dictionary Translation](https://github.com/raycast/extensions/tree/main/extensions/wordreference) | 1,073 | Quickly find a word translation using WordReference | Katatsu | macOS, Windows | [store](https://www.raycast.com/Katatsu/wordreference) |

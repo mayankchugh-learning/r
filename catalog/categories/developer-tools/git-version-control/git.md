@@ -24,7 +24,7 @@
 | [GitHub Commits Menu](https://github.com/raycast/extensions/tree/main/extensions/github-menu-bar) | 768 | Show new Git commits in the macOS menu bar. | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/github-menu-bar) |
 | [Git Co-Authors](https://github.com/raycast/extensions/tree/main/extensions/git-co-authors) | 133 | Manage and copy co-authors for git commits | nickradford | macOS, Windows | [store](https://www.raycast.com/nickradford/git-co-authors) |
 | [Commit Issue Parser](https://github.com/raycast/extensions/tree/main/extensions/commit-issue-parser) | 26 | Easily parse issue URLs to generate commit names and descriptions for use with Git | julesjuul | macOS | [store](https://www.raycast.com/julesjuul/commit-issue-parser) |
-| [Commit Sounds](https://github.com/raycast/extensions/tree/main/extensions/commit-sound-controls) | 0 | Play custom sounds after Git commits to selected GitHub users or organizations. | koushik | macOS, Windows | [store](https://www.raycast.com/koushik/commit-sound-controls) |
+| [Commit Sounds](https://github.com/raycast/extensions/tree/main/extensions/commit-sound-controls) | 1 | Play custom sounds after Git commits to selected GitHub users or organizations. | koushik | macOS, Windows | [store](https://www.raycast.com/koushik/commit-sound-controls) |
 
 ## General
 

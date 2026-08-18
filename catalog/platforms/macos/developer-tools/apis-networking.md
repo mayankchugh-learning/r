@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 52,098 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 52,102 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,229 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,270 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 13,975 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
@@ -43,7 +43,7 @@
 | [Neon](https://github.com/raycast/extensions/tree/main/extensions/neon) | 162 | Manage Neon Projects and API Keys | xmok | macOS | [store](https://www.raycast.com/xmok/neon) |
 | [Cookie String](https://github.com/raycast/extensions/tree/main/extensions/cookie-string-parser) | 156 | Parses your cookie string | NicolasMontone | macOS | [store](https://www.raycast.com/NicolasMontone/cookie-string-parser) |
 | [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) | 122 | V2RayA Control is a Raycast extension that allows you to easily manage and control V2RayA, a powerful network proxy tool. Quickly toggle proxy modes, and check… | masoud_hamidzadeh | macOS | [store](https://www.raycast.com/masoud_hamidzadeh/v2raya-control) |
-| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 108 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
+| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 109 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [vatlayer](https://github.com/raycast/extensions/tree/main/extensions/vatlayer) | 99 | Validate VAT numbers, retrieve all or single EU VAT rates based on IP address or country code, convert prices in compliance with EU VAT rates and types, and mo… | xmok | macOS | [store](https://www.raycast.com/xmok/vatlayer) |
 | [Laravel Vapor](https://github.com/raycast/extensions/tree/main/extensions/laravel-vapor) | 94 | Interacts with Laravel Vapor API | tcampbPPU | macOS | [store](https://www.raycast.com/tcampbPPU/laravel-vapor) |
 | [Pinata](https://github.com/raycast/extensions/tree/main/extensions/pinata) | 72 | An extension to interact with the Pianta API | pinata (org) | macOS | [store](https://www.raycast.com/pinata/pinata) |

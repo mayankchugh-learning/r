@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,944 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
-| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 42,206 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,945 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 42,207 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
 | [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 21,915 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,270 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Year in Progress](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) | 10,277 | Stay motivated by see the progress of the year. | thomas | macOS | [store](https://www.raycast.com/thomas/year-in-progress) |
@@ -18,7 +18,7 @@
 | [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 3,888 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
 | [Party Parrot](https://github.com/raycast/extensions/tree/main/extensions/party-parrot) | 3,778 | Celebrating the good times with some dancing party parrot in Raycast. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/party-parrot) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,789 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
-| [Klack](https://github.com/raycast/extensions/tree/main/extensions/klack) | 2,694 | Control Klack for macOS with Raycast | henrikruscon | macOS | [store](https://www.raycast.com/henrikruscon/klack) |
+| [Klack](https://github.com/raycast/extensions/tree/main/extensions/klack) | 2,695 | Control Klack for macOS with Raycast | henrikruscon | macOS | [store](https://www.raycast.com/henrikruscon/klack) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,617 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Timezone Buddy](https://github.com/raycast/extensions/tree/main/extensions/timezone-buddy) | 2,291 | Show friends in other timezones | andrebreia | macOS, Windows | [store](https://www.raycast.com/andrebreia/timezone-buddy) |
 | [Life Progress](https://github.com/raycast/extensions/tree/main/extensions/life-progress) | 2,220 | View life progress and custom Countdown Date. See how much time is left. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/life-progress) |
@@ -27,7 +27,7 @@
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,875 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
 | [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) | 1,456 | Store and retrieve images quickly from Raycast! | ibll | macOS | [store](https://www.raycast.com/ibll/image-wallet) |
 | [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,199 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
-| [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) | 1,120 | Control and view your Tesla | williamwelsh | macOS | [store](https://www.raycast.com/williamwelsh/tesla) |
+| [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) | 1,121 | Control and view your Tesla | williamwelsh | macOS | [store](https://www.raycast.com/williamwelsh/tesla) |
 | [Dribbble](https://github.com/raycast/extensions/tree/main/extensions/dribbble) | 1,004 | List Dribbble Shots | gebeto | macOS | [store](https://www.raycast.com/gebeto/dribbble) |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 972 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
 | [Say No to Notch](https://github.com/raycast/extensions/tree/main/extensions/say-no-to-notch) | 890 | Control MacBook Notch via Say No to Notch | honghao | macOS | [store](https://www.raycast.com/honghao/say-no-to-notch) |

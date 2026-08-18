@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 45,147 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
-| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,707 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
+| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 45,148 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
+| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 19,708 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
 | [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 18,167 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |
 | [Open in Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) | 12,021 | Open current File Manager directory, selected folder or file in Visual Studio Code. | shubzkothekar | macOS, Windows | [store](https://www.raycast.com/shubzkothekar/open-in-visual-studio-code) |
 | [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 6,053 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
@@ -37,13 +37,13 @@
 | [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) | 68 | Open selected Finder file or folder in TextMate | fannarfreyr | macOS | [store](https://www.raycast.com/fannarfreyr/open-in-textmate) |
 | [ownCloud](https://github.com/raycast/extensions/tree/main/extensions/owncloud) | 32 | share files and folders, easy and secure | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/owncloud) |
 | [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy) | 22 | Organize folders into prefixed category archives with byte-level dedup, near-duplicate and similar-image detection, and one-step undo | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/file-tidy) |
-| [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) | 10 | Browse link folders and open all links at once, like a browser favorites bar. | Francescoparadiso | macOS, Windows | [store](https://www.raycast.com/Francescoparadiso/links-folder) |
+| [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) | 11 | Browse link folders and open all links at once, like a browser favorites bar. | Francescoparadiso | macOS, Windows | [store](https://www.raycast.com/Francescoparadiso/links-folder) |
 
 ## Documents ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,987 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
+| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,988 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
 | [Paperless-ngx](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) | 896 | Search Paperless-ngx for documents and upload | damdam | macOS | [store](https://www.raycast.com/damdam/paperless-ngx) |
 | [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) | 637 | Create Feishu/Lark online document quickly using native Feishu/Lark URLs. | rokcso | macOS | [store](https://www.raycast.com/rokcso/feishu-document-creator) |
 | [Format GraphQL](https://github.com/raycast/extensions/tree/main/extensions/format-graphql) | 513 | Formats a GraphQL document | tngranados | macOS | [store](https://www.raycast.com/tngranados/format-graphql) |
@@ -65,7 +65,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Finder Utilities](https://github.com/raycast/extensions/tree/main/extensions/finderutils) | 3,600 | Utilities for finder | edrf | macOS | [store](https://www.raycast.com/edrf/finderutils) |
+| [Finder Utilities](https://github.com/raycast/extensions/tree/main/extensions/finderutils) | 3,601 | Utilities for finder | edrf | macOS | [store](https://www.raycast.com/edrf/finderutils) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,634 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Close Finder](https://github.com/raycast/extensions/tree/main/extensions/close-finder) | 2,303 | Utils to close Finder from Raycast. | qeude | macOS | [store](https://www.raycast.com/qeude/close-finder) |
 | [Common Directory](https://github.com/raycast/extensions/tree/main/extensions/common-directory) | 1,922 | Quickly open or show common directory in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/common-directory) |
@@ -95,15 +95,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,492 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,494 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
 | [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 33,991 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
 | [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,352 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
 | [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) | 4,897 | List, Search and Download Files using the Raycast Extension for Dropbox. | chyroc | macOS | [store](https://www.raycast.com/chyroc/the-blue-cloud) |
 | [Icons8](https://github.com/raycast/extensions/tree/main/extensions/icons8) | 4,120 | Search and download icons using Icons8 large library. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/icons8) |
-| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,234 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
+| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,235 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [WordPress Plugins](https://github.com/raycast/extensions/tree/main/extensions/wordpress-plugins) | 603 | Search and download plugins from the WordPress Plugin Directory. | edmundcwm | macOS | [store](https://www.raycast.com/edmundcwm/wordpress-plugins) |
 | [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 107 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
-| [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 7 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
+| [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 8 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
 
 ## PDF ✦
 
@@ -140,7 +140,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 45,359 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
+| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 45,362 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
 | [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 29,477 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
 | [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 23,999 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
 | [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,076 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |

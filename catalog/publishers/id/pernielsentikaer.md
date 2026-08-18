@@ -1,12 +1,12 @@
 # pernielsentikaer
 
-21 extensions · 90,594 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
+21 extensions · 90,595 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
 
 ## Fun (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 42,206 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
+| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 42,207 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
 | [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 4,628 | Get a random dad joke | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
 | [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard) | 1,264 | Use Raycast as a soundboard and bind sounds to hotkeys | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/soundboard) |
 | [FIGlet](https://github.com/raycast/extensions/tree/main/extensions/figlet) | 193 | Generate a FIGlet | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/figlet) |

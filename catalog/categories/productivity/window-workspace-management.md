@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 99,151 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 99,156 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
 | [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 22,111 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
-| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,799 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,800 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
 | [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,142 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,665 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | 4,614 | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |
@@ -28,8 +28,8 @@
 | [Windows Domain](https://github.com/raycast/extensions/tree/main/extensions/windows-domain) | 77 | Get Information from your current Windows Domain | tonka3000 | Windows | [store](https://www.raycast.com/tonka3000/windows-domain) |
 | [ShiftPlus](https://github.com/raycast/extensions/tree/main/extensions/shiftplus) | 46 | Switch your full project context — browser profiles, apps, terminal, windows — from Raycast. | nghia_luong | macOS | [store](https://www.raycast.com/nghia_luong/shiftplus) |
 | [Figma Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/figma-shortcuts) | 35 | Search and copy Figma keyboard shortcuts for macOS and Windows | arturdz | macOS, Windows | [store](https://www.raycast.com/arturdz/figma-shortcuts) |
+| [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 14 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
 | [Tabbit](https://github.com/raycast/extensions/tree/main/extensions/tabbit) | 14 | Open Tabbit Browser windows and URLs from Raycast | AkaChou | macOS | [store](https://www.raycast.com/AkaChou/tabbit) |
-| [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 13 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 1 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 
 ## Desktop ✦
@@ -62,9 +62,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 53,388 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
+| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 53,391 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
 | [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 4,566 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
-| [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 1,992 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
+| [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 1,993 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
 | [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch) | 915 | Frictionless Workspace Browsing | aesign | macOS | [store](https://www.raycast.com/aesign/sketch) |
 | [Punto Switcher](https://github.com/raycast/extensions/tree/main/extensions/punto) | 656 | Changes the layout of selected text. Requires Accessibility access | red.avtovo | macOS | [store](https://www.raycast.com/red.avtovo/punto) |
 | [Respace](https://github.com/raycast/extensions/tree/main/extensions/respace) | 219 | Open apps, files, folders, URLs, and terminal commands in organized workspace bundles | royal-lobster | macOS | [store](https://www.raycast.com/Royal-lobster/respace) |

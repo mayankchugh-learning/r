@@ -10,12 +10,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 61,458 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
+| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 61,459 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
 | [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 33,991 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
-| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,398 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
+| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,399 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
 | [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) | 9,906 | Remove background from image with the Mac Vision API | xmorse | macOS | [store](https://www.raycast.com/xmorse/remove-background-powered-by-mac) |
 | [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,346 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
-| [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,867 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
+| [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,868 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
 | [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu) | 3,045 | Easy retrieval of web emoji and GIF images while chatting. | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/doutu) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,590 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,526 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
@@ -60,7 +60,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 90,553 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
+| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 90,555 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
 | [Pika](https://github.com/raycast/extensions/tree/main/extensions/pika) | 892 | Beautify screenshots quickly using pika.style | rishi | macOS | [store](https://www.raycast.com/rishi/pika) |
 | [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 887 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
 | [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos) | 866 | Browse your recent Apple Photos in a grid and paste the latest photo directly into any app. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/apple-photos) |

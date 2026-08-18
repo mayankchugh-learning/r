@@ -14,14 +14,14 @@
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,786 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Pin](https://github.com/raycast/extensions/tree/main/extensions/pin-raycast) | 883 | Extension for Pin.app. Pin any window to stay always on top using a mirror overlay. | tanb | macOS | [store](https://www.raycast.com/tanb/pin) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 772 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
-| [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 13 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
+| [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 14 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
 
 ## Cpu ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 665,809 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 104,763 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 665,878 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 104,766 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 364 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) | 66 | See what's burning your CPU and spinning your fan | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/heatcheck) |
 
@@ -29,10 +29,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 44,563 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
-| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 30,422 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
+| [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 44,565 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
+| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 30,425 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
 | [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,076 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
-| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,578 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
+| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 7,579 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 | [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp) | 4,118 | Search Setapp apps | lardissone | macOS | [store](https://www.raycast.com/lardissone/setapp) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,634 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,613 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |

@@ -1,8 +1,8 @@
 # Productivity
 
-1443 extensions · [← all categories](../README.md)
+1444 extensions · [← all categories](../README.md)
 
-macOS: 1428 · Windows: 347
+macOS: 1429 · Windows: 348
 
 ## Organize & Plan
 
@@ -53,11 +53,11 @@ macOS: 1428 · Windows: 347
 | [Between ✦](./between.md) | 7 |
 | [Https ✦](./https.md) | 6 |
 | [Web ✦](./web.md) | 5 |
+| [Calculator ✦](./calculator.md) | 7 |
 | [Date ✦](./date.md) | 5 |
 | [Git ✦](./git.md) | 7 |
 | [Mode ✦](./mode.md) | 4 |
 | [Password ✦](./password.md) | 8 |
-| [Website ✦](./website.md) | 6 |
 
 Plus [General](./general.md) — 371 extensions that don't fit a topic yet.
 

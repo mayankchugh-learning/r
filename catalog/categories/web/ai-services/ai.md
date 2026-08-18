@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) | 4,504 | AI-powered search for precise, context-aware results | exa_ai (org) | macOS, Windows | [store](https://www.raycast.com/exa_ai/exa-search) |
 | [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research) | 3,501 | Iterative Deep Research powered by Raycast AI Extensions. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/research) |
-| [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,288 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
+| [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,289 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
 | [Scira](https://github.com/raycast/extensions/tree/main/extensions/scira) | 877 | AI-powered search engine | zaidmukaddam | macOS | [store](https://www.raycast.com/zaidmukaddam/scira) |
 | [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 647 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 107 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |

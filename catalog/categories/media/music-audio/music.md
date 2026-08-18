@@ -21,8 +21,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 88,938 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
-| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,549 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 88,940 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,550 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
 | [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,435 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
 | [QQ Music Controls](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) | 1,306 | Control the QQ Music app for macOS with your keyboard. | jwickers | macOS | [store](https://www.raycast.com/jwickers/qq-music-controls) |
 
@@ -39,7 +39,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 429,531 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
+| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 429,556 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
 | [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) | 4,724 | Effortlessly convert music links between streaming services | sjdonado | macOS | [store](https://www.raycast.com/sjdonado/idonthavespotify) |
 | [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) | 585 | It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features | yusuf_akdeniz | macOS | [store](https://www.raycast.com/yusuf_akdeniz/nowplaying-cli) |
 | [Meta Music](https://github.com/raycast/extensions/tree/main/extensions/meta-music) | 346 | Manage the ID3 tags of audio files directly in Raycast! | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/meta-music) |

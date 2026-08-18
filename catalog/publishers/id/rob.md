@@ -1,6 +1,6 @@
 # Rob
 
-11 extensions · 10,539 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
+11 extensions · 10,540 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
 
 ## Productivity (2)
 
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,234 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
+| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,235 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 299 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
 
 ## Communication (1)

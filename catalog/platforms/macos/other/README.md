@@ -86,7 +86,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 64,194 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 64,197 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
 | [Custom Folder](https://github.com/raycast/extensions/tree/main/extensions/custom-folder) | 2,785 | Customize MacOS folder icons. | phlo | macOS | [store](https://www.raycast.com/phlo/custom-folder) |
 | [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,172 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
 | [Paste from Apple Books](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) | 525 | When copy and paste from Apple Books into other App, it always comes with citations 'Excerpt from...' with quotation marks around the copy text. This Extension… | winann | macOS | [store](https://www.raycast.com/winann/paste-from-apple-books) |
@@ -104,7 +104,7 @@
 | [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 513 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
 | [Waktu Solat](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat) | 67 | Check Malaysia Prayer Time (JAKIM) | msms | macOS | [store](https://www.raycast.com/msms/waktu-solat) |
 | [Airsy](https://github.com/raycast/extensions/tree/main/extensions/airsy) | 55 | Check air pollution in Poland | piotrzaborow | macOS | [store](https://www.raycast.com/piotrzaborow/airsy) |
-| [Dexcom Reader](https://github.com/raycast/extensions/tree/main/extensions/dexcom-reader) | 29 | Get your glucose readings from Dexcom | pablo_medina | macOS | [store](https://www.raycast.com/pablo_medina/dexcom-reader) |
+| [Dexcom Reader](https://github.com/raycast/extensions/tree/main/extensions/dexcom-reader) | 30 | Get your glucose readings from Dexcom | pablo_medina | macOS | [store](https://www.raycast.com/pablo_medina/dexcom-reader) |
 
 ### Travel & Transport
 
@@ -133,7 +133,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,149 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
+| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,151 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,257 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
 | [Govee](https://github.com/raycast/extensions/tree/main/extensions/govee) | 592 | Control your Govee Lights | j3lte | macOS | [store](https://www.raycast.com/j3lte/govee) |
 | [LIFX](https://github.com/raycast/extensions/tree/main/extensions/lifx) | 428 | Control your LIFX lights directly from Raycast | felixb1010 | macOS | [store](https://www.raycast.com/felixb1010/lifx) |
@@ -177,7 +177,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/thesaurus) | 7,994 | Search Merrian-Webster's Thesaurus | ABukSwienty | macOS, Windows | [store](https://www.raycast.com/ABukSwienty/thesaurus) |
+| [Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/thesaurus) | 7,995 | Search Merrian-Webster's Thesaurus | ABukSwienty | macOS, Windows | [store](https://www.raycast.com/ABukSwienty/thesaurus) |
 | [Oxford Collocation Dictionary](https://github.com/raycast/extensions/tree/main/extensions/oxford-collocation-dictionary) | 755 | Query the Online Oxford Colocation Dictionary and display it's data | guilhermevictor | macOS | [store](https://www.raycast.com/guilhermevictor/oxford-collocation-dictionary) |
 | [Fix Language](https://github.com/raycast/extensions/tree/main/extensions/fix-language) | 618 | Switch the language input source of the text when you type and forget to change the language. | tin5451 | macOS | [store](https://www.raycast.com/tin5451/fix-language) |
 | [Korean Spell Checker](https://github.com/raycast/extensions/tree/main/extensions/korean-spell-checker) | 530 | Provides grammar/spelling suggestions for Korean language | jcha0713 | macOS | [store](https://www.raycast.com/jcha0713/korean-spell-checker) |
@@ -198,7 +198,7 @@
 | [Unifi](https://github.com/raycast/extensions/tree/main/extensions/unifi) | 1,125 | Manage Unifi Controllers | lewj | macOS | [store](https://www.raycast.com/lewj/unifi) |
 | [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,124 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
 | [Metronome](https://github.com/raycast/extensions/tree/main/extensions/metronome) | 1,043 | Based on an input (integer argument) BPM, you can get a metronome that plays a sound after a certain amount of time. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/metronome) |
-| [Element](https://github.com/raycast/extensions/tree/main/extensions/element) | 1,026 | Show information about an element of the periodic table. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/element) |
+| [Element](https://github.com/raycast/extensions/tree/main/extensions/element) | 1,027 | Show information about an element of the periodic table. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/element) |
 | [Raycast MonkeyType Theme Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-monkeytype-theme) | 869 | This "Raycast MonkeyType Theme" extension provides MonkeyType themes for Raycast. | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/raycast-monkeytype-theme) |
 | [Clean Text](https://github.com/raycast/extensions/tree/main/extensions/clean-text) | 723 | Clean and format text with various text modification operations | GenuineCheddar | macOS | [store](https://www.raycast.com/GenuineCheddar/clean-text) |
 | [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) | 719 | Real-Debrid client for Raycast NOT AN OFFICIAL CLIENT | Yamen | macOS | [store](https://www.raycast.com/Yamen/real-debrid-manager) |
@@ -224,7 +224,7 @@
 | [Linak Desk Controller](https://github.com/raycast/extensions/tree/main/extensions/linak-controller) | 192 | Control the height of standing desks manufactured by Linak, for example the Ikea Idasen desk. | samuelkraft | macOS | [store](https://www.raycast.com/samuelkraft/linak-desk-controller) |
 | [Linak Desk Controller](https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller) | 192 | Control the height of standing desks manufactured by Linak, for example the Ikea Idasen desk. | samuelkraft | macOS | [store](https://www.raycast.com/samuelkraft/linak-desk-controller) |
 | [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 176 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
-| [Guitar Tools](https://github.com/raycast/extensions/tree/main/extensions/guitar-tools) | 170 | A collection of tools for guitarists including a chromatic tuner. | narghev | macOS | [store](https://www.raycast.com/narghev/guitar-tools) |
+| [Guitar Tools](https://github.com/raycast/extensions/tree/main/extensions/guitar-tools) | 171 | A collection of tools for guitarists including a chromatic tuner. | narghev | macOS | [store](https://www.raycast.com/narghev/guitar-tools) |
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 166 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
 | [Silent Mode](https://github.com/raycast/extensions/tree/main/extensions/silent-mode) | 163 | Mute notifications without turning on DND, Just like on iPhone! | matan | macOS | [store](https://www.raycast.com/matan/silent-mode) |
 | [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 150 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 46,189 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 46,190 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,412 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
 | [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,876 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 | [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,399 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
@@ -46,7 +46,7 @@
 | [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) | 292 | Check DNS propagation instantly. | valentin_denis | macOS, Windows | [store](https://www.raycast.com/valentin_denis/dns-lookup) |
 | [v0 by Vercel](https://github.com/raycast/extensions/tree/main/extensions/v0-by-vercel) | 286 | Create, view and manage your v0 chats within Raycast | vercel (org) | macOS | [store](https://www.raycast.com/vercel/v0-by-vercel) |
 | [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) | 270 | Interact with teleport, the open infrastructure access platform | lamberttraccard | macOS | [store](https://www.raycast.com/lamberttraccard/teleport) |
-| [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 262 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
+| [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 263 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
 | [Google Cloud Run](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-run) | 246 | Commands for Google Cloud Run | bhavya_muni | macOS | [store](https://www.raycast.com/bhavya_muni/google-cloud-run) |
 | [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 246 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
 | [Cloud CLI Login Statuses](https://github.com/raycast/extensions/tree/main/extensions/cloud-cli-login-statuses) | 206 | Check if you are logged in AWS, Google Cloud and Azure CLIs | adam_vyborny | macOS | [store](https://www.raycast.com/adam_vyborny/cloud-cli-login-statuses) |

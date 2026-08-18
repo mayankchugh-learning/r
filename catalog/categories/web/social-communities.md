@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,368 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
+| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,369 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
 | [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 880 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 622 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
 | [Link Bundles](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) | 571 | Efficiently manage and launch groups of links in specific Chrome profiles. | toni_birka | macOS | [store](https://www.raycast.com/toni_birka/link-bundles) |
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) | 1,752 | Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon. | typefully (org) | macOS, Windows | [store](https://www.raycast.com/typefully/typefully) |
+| [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) | 1,753 | Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon. | typefully (org) | macOS, Windows | [store](https://www.raycast.com/typefully/typefully) |
 | [AntiSocials](https://github.com/raycast/extensions/tree/main/extensions/antisocials) | 110 | Open social media URLs via privacy-friendly frontends (X, Instagram) | danny_vogel | macOS, Windows | [store](https://www.raycast.com/danny_vogel/antisocials) |
 | [Lenscast](https://github.com/raycast/extensions/tree/main/extensions/lenscast) | 102 | Web3 Social Raycast Extension built with Lens Protocol | peduarte | macOS | [store](https://www.raycast.com/peduarte/lenscast) |
 | [Publora](https://github.com/raycast/extensions/tree/main/extensions/publora) | 19 | Manage your social media with Publora | anton_shvein | macOS | [store](https://www.raycast.com/anton_shvein/publora) |

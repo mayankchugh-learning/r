@@ -2,16 +2,16 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · **Tasks & To-Dos** · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-49 of 1428 extensions · [← macOS · Productivity](./README.md)
+49 of 1429 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 103,584 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
-| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 85,393 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
-| [Things](https://github.com/raycast/extensions/tree/main/extensions/things) | 37,486 | Search and manage your Things to-dos from Raycast | loris | macOS | [store](https://www.raycast.com/loris/things) |
+| [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 103,588 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
+| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 85,396 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
+| [Things](https://github.com/raycast/extensions/tree/main/extensions/things) | 37,487 | Search and manage your Things to-dos from Raycast | loris | macOS | [store](https://www.raycast.com/loris/things) |
 | [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) | 22,001 | Check and search tasks in TickTick via Raycast | appest | macOS | [store](https://www.raycast.com/appest/ticktick) |
 | [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) | 19,465 | Create Fantastical events and reminders using Fantastical's natural language processing. | devahschaefers | macOS | [store](https://www.raycast.com/devahschaefers/fantastical) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,270 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,271 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
 | [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,021 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
 | [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,455 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup) | 8,420 | Browse ClickUp tasks and docs from Raycast | aparandeh | macOS | [store](https://www.raycast.com/aparandeh/manage-clickup-tasks) |
@@ -37,7 +37,7 @@
 | [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) | 70 | View your daily goals and calories in Yazio, and log food directly from Raycast. | zsombor_biro | Windows, macOS | [store](https://www.raycast.com/zsombor_biro/yazio-tracker) |
 | [TimeCamp](https://github.com/raycast/extensions/tree/main/extensions/timecamp) | 46 | Start and stop TimeCamp tasks. | iAmKevinCruz | macOS | [store](https://www.raycast.com/iAmKevinCruz/timecamp) |
 | [Backlog.md Manager](https://github.com/raycast/extensions/tree/main/extensions/backlog-md-manager) | 42 | Manage Backlog.md tasks from Raycast — create, browse, search, edit, and change status across multiple projects using the backlog CLI. | nicholas_ferguson | macOS, Windows | [store](https://www.raycast.com/nicholas_ferguson/backlog-md-manager) |
-| [Vikunja Task Manager](https://github.com/raycast/extensions/tree/main/extensions/vikunja) | 41 | Create and manage tasks in your self-hosted Vikunja instance | flexorflex | macOS | [store](https://www.raycast.com/flexorflex/vikunja) |
+| [Vikunja Task Manager](https://github.com/raycast/extensions/tree/main/extensions/vikunja) | 42 | Create and manage tasks in your self-hosted Vikunja instance | flexorflex | macOS | [store](https://www.raycast.com/flexorflex/vikunja) |
 | [TeamGantt](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) | 29 | Finding and creating tasks in TeamGantt | knownasilya | macOS | [store](https://www.raycast.com/knownasilya/teamgantt) |
 | [SingularityApp](https://github.com/raycast/extensions/tree/main/extensions/singularityapp) | 27 | Check your SingularityApp tasks and add new ones quickly | alikhil | macOS, Windows | [store](https://www.raycast.com/alikhil/singularityapp) |
 | [TXTodo](https://github.com/raycast/extensions/tree/main/extensions/txtodo) | 27 | Manage tasks in todo.txt plain-text format from Raycast | lacasa | macOS | [store](https://www.raycast.com/lacasa/txtodo) |

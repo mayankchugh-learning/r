@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-18 — upstream `a4c013cf1e`
+
+**Added (1):** [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator)
+
 ## 2026-08-18 — upstream `5aa049ceaf`
 
 **Updated (1):** [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia)

@@ -6,13 +6,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,944 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
-| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,549 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 100,945 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,550 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
 | [Year in Progress](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) | 10,277 | Stay motivated by see the progress of the year. | thomas | macOS | [store](https://www.raycast.com/thomas/year-in-progress) |
 | [YouTube Search](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) | 9,268 | YouTube search with autosuggestions | muhammetakay | macOS | [store](https://www.raycast.com/muhammetakay/youtube-search) |
 | [Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/youdao-translate) | 7,366 | Translate text using Youdao | tiancheng92 | macOS | [store](https://www.raycast.com/tiancheng92/youdao-translate) |
 | [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) | 5,081 | Collection of scripts to improve YouTube browsing experience | sasivarnan | macOS, Windows | [store](https://www.raycast.com/sasivarnan/youtube-companion) |
-| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 4,749 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
+| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 4,750 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
 | [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) | 2,641 | Control Yabai using Raycast. Requires yabai to be installed. | krzysztoff1 | macOS | [store](https://www.raycast.com/krzysztoff1/yabai) |
 | [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,435 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
 | [YouVersion Bible Suggest](https://github.com/raycast/extensions/tree/main/extensions/youversion-suggest) | 1,131 | Allows you to search the YouVersion Bible quickly and easily | caleb531 | macOS | [store](https://www.raycast.com/caleb531/youversion-suggest) |
@@ -38,4 +38,4 @@
 | [Yandex Telemost](https://github.com/raycast/extensions/tree/main/extensions/yandex-telemost) | 18 | Create and join Yandex Telemost meetings directly from Raycast. Requires macOS — uses AppleScript to automate your browser. | egor_chuzhin | macOS | [store](https://www.raycast.com/egor_chuzhin/yandex-telemost) |
 | [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | 18 | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |
 | [Your Name in Landsat](https://github.com/raycast/extensions/tree/main/extensions/your-name-in-landsat) | 16 | Generate your name in Landsat using Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/your-name-in-landsat) |
-| [Yerd](https://github.com/raycast/extensions/tree/main/extensions/yerd) | 1 | Manage Yerd sites, PHP versions, services, databases, mail and diagnostics from Raycast. | kylekanderson | macOS | [store](https://www.raycast.com/kylekanderson/yerd) |
+| [Yerd](https://github.com/raycast/extensions/tree/main/extensions/yerd) | 2 | Manage Yerd sites, PHP versions, services, databases, mail and diagnostics from Raycast. | kylekanderson | macOS | [store](https://www.raycast.com/kylekanderson/yerd) |

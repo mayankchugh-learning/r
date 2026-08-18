@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 39,851 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
+| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 39,853 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
 | [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,163 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
 | [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,036 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,257 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
-| [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox) | 5,056 | Control Anybox with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/anybox) |
+| [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox) | 5,057 | Control Anybox with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/anybox) |
 | [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity) | 3,304 | Control Antigravity directly from Raycast - Search and open recent projects, handle extensions and commands. | meshal | macOS | [store](https://www.raycast.com/meshal/antigravity) |
 | [OK JSON](https://github.com/raycast/extensions/tree/main/extensions/ok-json) | 2,747 | Control OK JSON with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/ok-json) |
 | [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn) | 2,640 | This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/openvpn) |
@@ -36,7 +36,7 @@
 | [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 146 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
 | [Leafcast](https://github.com/raycast/extensions/tree/main/extensions/leafcast) | 133 | Control your Nanoleaf panels with Raycast! Toggle power, set the current scene, and more. | syropian | macOS | [store](https://www.raycast.com/syropian/leafcast) |
 | [OctoPrint](https://github.com/raycast/extensions/tree/main/extensions/octoprint) | 112 | Control your OctoPrint printer from Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/octoprint) |
-| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 108 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
+| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 109 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [Surge Outbound Switcher](https://github.com/raycast/extensions/tree/main/extensions/surge-outbound-switcher) | 74 | Instantly switch Surge's outbound mode without using HTTP API | the3ash | macOS | [store](https://www.raycast.com/the3ash/surge-outbound-switcher) |
 | [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) | 55 | Control Nature Remo right from Raycast. | uetchy | macOS | [store](https://www.raycast.com/uetchy/nature-remo) |
 | [Wemo](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) | 55 | Control your Wemo devices from Raycast | iamnatch | macOS | [store](https://www.raycast.com/iamnatch/raycast-wemo) |

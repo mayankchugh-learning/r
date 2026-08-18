@@ -7,7 +7,7 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [waj](https://www.raycast.com/waj) | 1 | 172 | **Developer Tools:** [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) |
-| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 99,151 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
+| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 99,156 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
 | [wdeu](https://www.raycast.com/wdeu) | 3 | 25 | **Developer Tools:** [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync)<br>**Documentation:** [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup)<br>**Finance:** [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) |
 | [web3bio](https://www.raycast.com/web3bio) | 1 | 103 | **Developer Tools:** [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) |
 | [webdiego](https://www.raycast.com/webdiego) | 1 | 2,541 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
@@ -24,7 +24,7 @@
 | [whosmadeer](https://www.raycast.com/whosmadeer) | 1 | 256 | **System:** [Shutdown Timer](https://github.com/raycast/extensions/tree/main/extensions/shutdown-timer) |
 | [will_thresher](https://www.raycast.com/will_thresher) | 1 | 11 | **Design Tools:** [Install Fonts](https://github.com/raycast/extensions/tree/main/extensions/install-fonts) |
 | [willem_van_lent](https://www.raycast.com/willem_van_lent) | 1 | 704 | **Developer Tools:** [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) |
-| [williamwelsh](https://www.raycast.com/williamwelsh) | 1 | 1,120 | **Data:** [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) |
+| [williamwelsh](https://www.raycast.com/williamwelsh) | 1 | 1,121 | **Data:** [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) |
 | [willian](https://www.raycast.com/willian) | 1 | 102 | **Fun:** [Brasileirão Série A](https://github.com/raycast/extensions/tree/main/extensions/brasileirao-serie-a) |
 | [wilton](https://www.raycast.com/wilton) | 1 | 12 | **Productivity:** [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) |
 | [winann](https://www.raycast.com/winann) | 1 | 525 | **Other:** [Paste from Apple Books](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) |

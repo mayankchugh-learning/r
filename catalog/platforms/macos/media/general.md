@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 64,926 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,552 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,553 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,008 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 10,989 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
 | [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,769 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
@@ -20,7 +20,7 @@
 | [Elgato Key Light](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) | 2,999 | Control your Elgato Key Lights with ease | thomas | macOS | [store](https://www.raycast.com/thomas/elgato-key-light) |
 | [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 2,886 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
 | [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,713 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
-| [Klack](https://github.com/raycast/extensions/tree/main/extensions/klack) | 2,694 | Control Klack for macOS with Raycast | henrikruscon | macOS | [store](https://www.raycast.com/henrikruscon/klack) |
+| [Klack](https://github.com/raycast/extensions/tree/main/extensions/klack) | 2,695 | Control Klack for macOS with Raycast | henrikruscon | macOS | [store](https://www.raycast.com/henrikruscon/klack) |
 | [Background Sounds](https://github.com/raycast/extensions/tree/main/extensions/background-sounds) | 2,351 | Toggle macOS background sounds on and off. | sebdanielsson | macOS | [store](https://www.raycast.com/sebdanielsson/background-sounds) |
 | [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 1,946 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,875 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
@@ -30,7 +30,7 @@
 | [Slackmojis](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) | 1,317 | An unofficial directory of the best custom Slack emojis from slackmojis.com | timoransky | macOS | [store](https://www.raycast.com/timoransky/slackmojis) |
 | [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,128 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
 | [Media Key Emulate](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) | 1,088 | Emulate keyboard media keys press. Reassign hotkey for media keys. | douo | macOS | [store](https://www.raycast.com/douo/global-media-key) |
-| [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 978 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
+| [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 979 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
 | [IPTV](https://github.com/raycast/extensions/tree/main/extensions/iptv) | 939 | Search online IPTV channels | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/iptv) |
 | [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 795 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
 | [Matter](https://github.com/raycast/extensions/tree/main/extensions/matter) | 773 | View your saved for later articles in your Matter account. | zan | macOS | [store](https://www.raycast.com/zan/matter) |
