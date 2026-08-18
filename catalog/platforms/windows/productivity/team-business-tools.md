@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 286,507 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,235 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
-| [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,500 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 286,633 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,236 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
+| [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,501 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |
 | [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 183 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |
 | [Pretty PR Link](https://github.com/raycast/extensions/tree/main/extensions/pretty-pr-link) | 115 | Quickly copy the link of a GitHub Pull Request in a formatted way so you can share with your team and ask for reviews. | jopcmelo | macOS, Windows | [store](https://www.raycast.com/jopcmelo/pretty-pr-link) |
 | [QuickForce - Salesforce Toolkit](https://github.com/raycast/extensions/tree/main/extensions/quickforce-salesforce-toolkit) | 2 | Keyboard-driven Salesforce toolkit for developers and admins: switch orgs instantly, run SOQL queries, jump to any Setup page, and manage users, all from Rayca… | kelant | macOS, Windows | [store](https://www.raycast.com/Kelant/quickforce-salesforce-toolkit) |

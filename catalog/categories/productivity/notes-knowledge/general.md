@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,100 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
+| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,101 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
 | [Readwise to Tana](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) | 699 | Copy Readwise highlights to Tana | believer | macOS | [store](https://www.raycast.com/believer/readwise-to-tana) |
 | [RescueTime](https://github.com/raycast/extensions/tree/main/extensions/rescuetime-focus-session-trigger) | 509 | Commands to get the most out of RescueTime. Start and stop Focus Sessions, get your daily highlights, goals, alerts, log offline time, and more. | TuorTheBlessed | macOS | [store](https://www.raycast.com/TuorTheBlessed/rescuetime-focus-session-trigger) |
 | [SupaHabits](https://github.com/raycast/extensions/tree/main/extensions/supahabits) | 309 | Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries | gbarba | macOS | [store](https://www.raycast.com/gbarba/habits) |
@@ -13,4 +13,4 @@
 | [OSRS Wiki](https://github.com/raycast/extensions/tree/main/extensions/osrs-wiki) | 74 | Queries the OSRS Wiki and returns links to relevant articles. | luizkc | macOS | [store](https://www.raycast.com/luizkc/osrs-wiki) |
 | [WeRead Sync](https://github.com/raycast/extensions/tree/main/extensions/weread-sync) | 44 | Sync your highlights from WeRead to Readwise automatically | owen_wang | macOS | [store](https://www.raycast.com/owen_wang/weread-sync) |
 | [Glean Search](https://github.com/raycast/extensions/tree/main/extensions/glean-search) | 14 | Search your company's knowledge base via Glean | faizhasim | macOS | [store](https://www.raycast.com/faizhasim/glean-search) |
-| [Vaulted — Secure Secret Sharing](https://github.com/raycast/extensions/tree/main/extensions/vaulted) | 8 | Zero-knowledge encrypted, self-destructing secret links from your launcher. | maxim_novak | macOS | [store](https://www.raycast.com/maxim_novak/vaulted) |
+| [Vaulted — Secure Secret Sharing](https://github.com/raycast/extensions/tree/main/extensions/vaulted) | 9 | Zero-knowledge encrypted, self-destructing secret links from your launcher. | maxim_novak | macOS | [store](https://www.raycast.com/maxim_novak/vaulted) |

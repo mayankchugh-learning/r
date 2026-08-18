@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-18 — upstream `8ae025ada9`
+
+**Updated (1):** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr)
+
 ## 2026-08-18 — upstream `0687bd7dc5`
 
 **Added (1):** [Swinsian Player](https://github.com/raycast/extensions/tree/main/extensions/swinsian-player)

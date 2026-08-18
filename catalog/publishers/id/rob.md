@@ -1,19 +1,19 @@
 # Rob
 
-11 extensions · 10,530 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
+11 extensions · 10,537 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
 
 ## Productivity (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,790 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,795 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 109 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 
 ## Fun (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 611 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
+| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 612 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
 | [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 513 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
 | [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 350 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 322 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,232 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
+| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,233 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 299 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
 
 ## Communication (1)

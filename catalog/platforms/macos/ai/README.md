@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,444 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
-| [CodeGeex](https://github.com/raycast/extensions/tree/main/extensions/codegeex) | 472 | CodeGeex AI code tools | MBearo | macOS | [store](https://www.raycast.com/MBearo/codegeex) |
+| [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,445 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
+| [CodeGeex](https://github.com/raycast/extensions/tree/main/extensions/codegeex) | 473 | CodeGeex AI code tools | MBearo | macOS | [store](https://www.raycast.com/MBearo/codegeex) |
 | [Klu](https://github.com/raycast/extensions/tree/main/extensions/klu-ai) | 125 | Klu AI extension for Raycast | abielzulio | macOS | [store](https://www.raycast.com/abielzulio/klu-ai) |
 
 ### Developer Utilities
@@ -24,11 +24,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Semantic Scholar](https://github.com/raycast/extensions/tree/main/extensions/semantic-scholar) | 1,157 | Search research papers on semantic scholar (semanticscholar.org) | blainerothrock | macOS | [store](https://www.raycast.com/blainerothrock/semantic-scholar) |
+| [Semantic Scholar](https://github.com/raycast/extensions/tree/main/extensions/semantic-scholar) | 1,158 | Search research papers on semantic scholar (semanticscholar.org) | blainerothrock | macOS | [store](https://www.raycast.com/blainerothrock/semantic-scholar) |
 
 ### General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 8,970 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
-| [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) | 1,402 | Use Huggingface models for summarization, translation, ... | ragnor | macOS | [store](https://www.raycast.com/ragnor/huggingcast) |
+| [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 8,972 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
+| [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) | 1,403 | Use Huggingface models for summarization, translation, ... | ragnor | macOS | [store](https://www.raycast.com/ragnor/huggingcast) |

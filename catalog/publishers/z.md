@@ -6,19 +6,19 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [zach](https://www.raycast.com/zach) | 2 | 8,304 | **Productivity:** [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)<br>**Media:** [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) |
+| [zach](https://www.raycast.com/zach) | 2 | 8,305 | **Productivity:** [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)<br>**Media:** [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) |
 | [zachsea](https://www.raycast.com/zachsea) | 1 | 22 | **Other:** [Nightscout](https://github.com/raycast/extensions/tree/main/extensions/nightscout) |
 | [zaidmukaddam](https://www.raycast.com/zaidmukaddam) | 1 | 877 | **Web:** [Scira](https://github.com/raycast/extensions/tree/main/extensions/scira) |
 | [zaincheung](https://www.raycast.com/zaincheung) | 1 | 139 | **System:** [App Tag Manager](https://github.com/raycast/extensions/tree/main/extensions/app-tag-manager) |
 | [Zalgo_123](https://www.raycast.com/Zalgo_123) | 1 | 143 | **Fun:** [Tennis Standings](https://github.com/raycast/extensions/tree/main/extensions/tennis-standings) |
 | [zan](https://www.raycast.com/zan) | 1 | 773 | **Media:** [Matter](https://github.com/raycast/extensions/tree/main/extensions/matter) |
-| [zavbala](https://www.raycast.com/zavbala) | 3 | 9,497 | **Web:** [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois), [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler)<br>**Productivity:** [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) |
+| [zavbala](https://www.raycast.com/zavbala) | 3 | 9,501 | **Web:** [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois), [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler)<br>**Productivity:** [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) |
 | [zayn_harris_dev](https://www.raycast.com/zayn_harris_dev) | 1 | 65 | **Applications:** [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) |
-| [zcfan](https://www.raycast.com/zcfan) | 1 | 1,224 | **Developer Tools:** [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) |
+| [zcfan](https://www.raycast.com/zcfan) | 1 | 1,226 | **Developer Tools:** [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) |
 | [zcsabbagh](https://www.raycast.com/zcsabbagh) | 1 | 887 | **System:** [Toggle Grayscale](https://github.com/raycast/extensions/tree/main/extensions/toggle-grayscale) |
-| [zebapy](https://www.raycast.com/zebapy) | 1 | 94 | **Developer Tools:** [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) |
+| [zebapy](https://www.raycast.com/zebapy) | 1 | 95 | **Developer Tools:** [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) |
 | [zeekrey](https://www.raycast.com/zeekrey) | 1 | 1,231 | **Productivity:** [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) |
-| [zengtianli](https://www.raycast.com/zengtianli) | 1 | 47 | **Productivity:** [DocKit - Document Toolkit](https://github.com/raycast/extensions/tree/main/extensions/dockit) |
+| [zengtianli](https://www.raycast.com/zengtianli) | 1 | 48 | **Productivity:** [DocKit - Document Toolkit](https://github.com/raycast/extensions/tree/main/extensions/dockit) |
 | [zephraph](https://www.raycast.com/zephraph) | 1 | 367 | **Other:** [tldraw](https://github.com/raycast/extensions/tree/main/extensions/tldraw) |
 | [zeroheight](https://www.raycast.com/zeroheight) | 1 | 13 | **Documentation:** [Quick Access for zeroheight](https://github.com/raycast/extensions/tree/main/extensions/quick-access-for-zeroheight) |
 | [zeromana](https://www.raycast.com/zeromana) | 1 | 24 | **Developer Tools:** [Bento Email](https://github.com/raycast/extensions/tree/main/extensions/bento) |

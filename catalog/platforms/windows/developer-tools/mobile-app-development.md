@@ -6,4 +6,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | 109 | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |
+| [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | 110 | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |

@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,107 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
+| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,109 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
 | [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 2,857 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
 | [HubSpot](https://github.com/raycast/extensions/tree/main/extensions/hubspot) | 1,580 | Search Hubspot Contacts, Companies and Deals | harisvsulaiman | macOS | [store](https://www.raycast.com/harisvsulaiman/hubspot) |
-| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 849 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
-| [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 721 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |
+| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 850 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
+| [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 722 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |
 | [Y Combinator](https://github.com/raycast/extensions/tree/main/extensions/y-combinator) | 700 | Search all Y Combinator companies and get a countdown until demo day | thomas | macOS | [store](https://www.raycast.com/thomas/y-combinator) |
 | [Save to Cubox](https://github.com/raycast/extensions/tree/main/extensions/save-to-cubox) | 505 | Save url or memo to your cubox | xyxc0673 | macOS | [store](https://www.raycast.com/xyxc0673/save-to-cubox) |
 | [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) | 468 | Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. S… | guelug | macOS | [store](https://www.raycast.com/guelug/seo-lighthouse) |
@@ -25,7 +25,7 @@
 | [Sound Search](https://github.com/raycast/extensions/tree/main/extensions/sound-search) | 65 | Search for sounds across multiple services | soundraw (org) | macOS | [store](https://www.raycast.com/soundraw/sound-search) |
 | [Search LaraJobs](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) | 54 | Search jobs on Larajobs | Treblle | macOS | [store](https://www.raycast.com/Treblle/larajobs-search) |
 | [Valorant Esports](https://github.com/raycast/extensions/tree/main/extensions/valorant-esports) | 47 | Search Valorant esports schedules and standings. | vimtor | macOS | [store](https://www.raycast.com/vimtor/valorant-esports) |
-| [Scrycast](https://github.com/raycast/extensions/tree/main/extensions/scrycast) | 31 | Search for Magic: The Gathering cards on Scryfall or your collection | aayushpi | macOS | [store](https://www.raycast.com/aayushpi/scrycast) |
+| [Scrycast](https://github.com/raycast/extensions/tree/main/extensions/scrycast) | 32 | Search for Magic: The Gathering cards on Scryfall or your collection | aayushpi | macOS | [store](https://www.raycast.com/aayushpi/scrycast) |
 | [Linkace](https://github.com/raycast/extensions/tree/main/extensions/linkace) | 30 | Adds link to Linkace | jaspermayone | macOS, Windows | [store](https://www.raycast.com/jaspermayone/linkace) |
 | [xQc](https://github.com/raycast/extensions/tree/main/extensions/xqc) | 29 | Search and Explore Vods for twitch.tv/xqc | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/xqc) |
 | [Brawl Stars Search](https://github.com/raycast/extensions/tree/main/extensions/brawlstars) | 28 | Extension to search for Brawl Stars players, clubs and brawlers | Maxime_GUILIANI | macOS | [store](https://www.raycast.com/Maxime_GUILIANI/brawlstars) |

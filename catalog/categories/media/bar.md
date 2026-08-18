@@ -10,5 +10,5 @@
 | [Literal](https://github.com/raycast/extensions/tree/main/extensions/literal) | 146 | Track and edit your reading progress from your command bar | OkanBilal | macOS | [store](https://www.raycast.com/OkanBilal/literal) |
 | [Now Playing](https://github.com/raycast/extensions/tree/main/extensions/now-playing) | 129 | Show the currently playing track and artist in the Raycast menu bar. | kendaniels | macOS | [store](https://www.raycast.com/kendaniels/now-playing) |
 | [Center](https://github.com/raycast/extensions/tree/main/extensions/center) | 58 | Interact with NFTs in any blockchain, right in your command bar. | enesozturk | macOS | [store](https://www.raycast.com/enesozturk/center) |
-| [Bar Assistant](https://github.com/raycast/extensions/tree/main/extensions/barassistant) | 22 | Search self-hosted BarAssistant API | stupifier | macOS | [store](https://www.raycast.com/stupifier/barassistant) |
+| [Bar Assistant](https://github.com/raycast/extensions/tree/main/extensions/barassistant) | 23 | Search self-hosted BarAssistant API | stupifier | macOS | [store](https://www.raycast.com/stupifier/barassistant) |
 | [TransistorFM](https://github.com/raycast/extensions/tree/main/extensions/raycast-transistorfm) | 20 | Get TransistorFM stats directly from your command bar | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/raycast-transistorfm) |

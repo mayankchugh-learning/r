@@ -1,12 +1,12 @@
 # alexi.build
 
-17 extensions · 1,759 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+17 extensions · 1,768 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 450 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
+| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 451 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
 | [Fifteen Million Merits](https://github.com/raycast/extensions/tree/main/extensions/fifteen-million-merits) | 26 | A persistent counter that triggers Raycast Focus mode when activity exceeds a specific threshold. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/fifteen-million-merits) |
 
 ## Productivity (3)
@@ -14,27 +14,27 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Leader Key](https://github.com/raycast/extensions/tree/main/extensions/leader-key) | 183 | Search and trigger Leader Key shortcuts by alias, label, or value. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/leader-key) |
-| [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 104 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
+| [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 105 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 38 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 
 ## Communication (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 271 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 272 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+
+## Developer Tools (2)
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 150 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 5 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 151 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
-
-## Developer Tools (2)
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 149 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
-| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 0 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
 
 ## Fun (2)
 

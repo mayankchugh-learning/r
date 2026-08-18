@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 701 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
-| [Web Page Design Mode](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode) | 354 | Toggle the document.designMode property on your web page to control whether the entire document is editable. | danulqua | macOS | [store](https://www.raycast.com/danulqua/web-page-design-mode) |
+| [Web Page Design Mode](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode) | 355 | Toggle the document.designMode property on your web page to control whether the entire document is editable. | danulqua | macOS | [store](https://www.raycast.com/danulqua/web-page-design-mode) |
 | [Re-mind](https://github.com/raycast/extensions/tree/main/extensions/re-mind) | 284 | Re-mind is a curated collection of design-related links compiled by Danilo Campos. | daniloc | macOS | [store](https://www.raycast.com/daniloc/re-mind) |
 | [Penpot](https://github.com/raycast/extensions/tree/main/extensions/penpot) | 103 | See and quickly access your Penpot design boards | bobbymannino | macOS, Windows | [store](https://www.raycast.com/bobbymannino/penpot) |
 | [Delphitools](https://github.com/raycast/extensions/tree/main/extensions/delphi-tools-raycast-extension) | 12 | Run local design and text utilities from delphitools in Raycast | abeldebruijn | Windows, macOS | [store](https://www.raycast.com/abeldebruijn/delphi-tools-raycast-extension) |

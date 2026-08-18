@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 665,429 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 665,493 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,786 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,295 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 772 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
-| [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | 600 | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
+| [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | 601 | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 364 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 38 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 | [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller) | 3 | List installed software and batch uninstall it through BC Uninstaller from Raycast | sansaxena789 | Windows | [store](https://www.raycast.com/sansaxena789/bcuninstaller) |
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,663 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,664 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Scoop](https://github.com/raycast/extensions/tree/main/extensions/scoop) | 599 | Manage Scoop, the command-line installer for Windows. | zsombor_biro | Windows | [store](https://www.raycast.com/zsombor_biro/scoop) |
 | [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 595 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
 | [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 474 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
@@ -39,17 +39,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 64,849 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 64,141 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,646 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 64,867 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 64,171 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,648 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 
 ### Display & Appearance
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 20,882 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
-| [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) | 5,546 | Quickly controls the brightness levels of your display | cali | macOS, Windows | [store](https://www.raycast.com/cali/brightness-control) |
-| [Blackr](https://github.com/raycast/extensions/tree/main/extensions/blackr) | 70 | Turn your main display black for quick screen cleaning. | li_jin | macOS, Windows | [store](https://www.raycast.com/li_jin/blackr) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 20,888 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) | 5,548 | Quickly controls the brightness levels of your display | cali | macOS, Windows | [store](https://www.raycast.com/cali/brightness-control) |
+| [Blackr](https://github.com/raycast/extensions/tree/main/extensions/blackr) | 71 | Turn your main display black for quick screen cleaning. | li_jin | macOS, Windows | [store](https://www.raycast.com/li_jin/blackr) |
 | [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper) | 14 | Browse and set Arcane wallpapers. | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/arcane-wallpaper) |
 
 ## Files & Input
@@ -58,14 +58,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) | 8,453 | List and choose a single disk to eject. | johndturn | Windows, macOS | [store](https://www.raycast.com/johndturn/single-disk-eject) |
-| [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,456 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
+| [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) | 8,456 | List and choose a single disk to eject. | johndturn | Windows, macOS | [store](https://www.raycast.com/johndturn/single-disk-eject) |
+| [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,457 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
 
 ### Clipboard & Input
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 22,901 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
+| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 22,905 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
 
 ## Power, Network & Settings
 
@@ -73,26 +73,26 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,424 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,869 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,432 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 12,872 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 
 ### General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 73,216 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 52,069 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 46,170 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 73,232 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 52,084 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 46,178 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,712 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
-| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,614 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
+| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,616 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project) | 1,847 | Find and open projects on your system | zerowidth | macOS, Windows | [store](https://www.raycast.com/zerowidth/quick-open-project) |
-| [Command Scheduler](https://github.com/raycast/extensions/tree/main/extensions/scheduler) | 1,826 | Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. | cps | macOS, Windows | [store](https://www.raycast.com/cps/scheduler) |
-| [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 776 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
+| [Command Scheduler](https://github.com/raycast/extensions/tree/main/extensions/scheduler) | 1,827 | Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. | cps | macOS, Windows | [store](https://www.raycast.com/cps/scheduler) |
+| [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 777 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | 707 | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
-| [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 381 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
+| [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 382 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 239 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
-| [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | 156 | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |
-| [OpenHue](https://github.com/raycast/extensions/tree/main/extensions/openhue) | 106 | Control your Philips Hue lightning system from Raycast | thibauult | macOS, Windows | [store](https://www.raycast.com/thibauult/openhue) |
+| [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | 157 | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |
+| [OpenHue](https://github.com/raycast/extensions/tree/main/extensions/openhue) | 107 | Control your Philips Hue lightning system from Raycast | thibauult | macOS, Windows | [store](https://www.raycast.com/thibauult/openhue) |
 | [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) | 99 | Control Tabby terminal with Raycast | chupi | macOS, Windows | [store](https://www.raycast.com/chupi/tabby) |
 | [Voicemeeter Control](https://github.com/raycast/extensions/tree/main/extensions/voicemeeter-raycast) | 16 | Control Voicemeeter strips and buses from Raycast. | Vorm-- | Windows | [store](https://www.raycast.com/Vorm--/voicemeeter-raycast) |
 | [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 0 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |
