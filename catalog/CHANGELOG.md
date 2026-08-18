@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-18 — upstream `853d6f4e97`
+
+**Updated (1):** [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly)
+
 ## 2026-08-18 — upstream `7c6c15990c`
 
 **Added (1):** [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy)

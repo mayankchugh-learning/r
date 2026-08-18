@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 286,633 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,256 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
-| [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,236 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 286,721 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,257 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
+| [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,237 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
 | [Airtable](https://github.com/raycast/extensions/tree/main/extensions/airtable) | 2,418 | List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. | marks | macOS | [store](https://www.raycast.com/marks/raycast-airtable-extension) |
 | [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,501 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |
 | [Salesforce Search](https://github.com/raycast/extensions/tree/main/extensions/salesforce-search) | 1,084 | Search for Salesforce records like accounts and contacts and dashboards and reports. | sven | macOS | [store](https://www.raycast.com/sven/salesforce) |

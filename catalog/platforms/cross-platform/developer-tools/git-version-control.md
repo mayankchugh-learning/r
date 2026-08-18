@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 181,341 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
-| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 26,038 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
-| [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab) | 20,616 | Create, search and modify issues, manage merge requests, projects and more. | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gitlab) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,048 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 181,381 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
+| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 26,040 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
+| [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab) | 20,621 | Create, search and modify issues, manage merge requests, projects and more. | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gitlab) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,049 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [Gitmoji Search](https://github.com/raycast/extensions/tree/main/extensions/gitmoji) | 4,958 | Gitmoji is an emoji guide for your commit messages | ricoberger | macOS, Windows | [store](https://www.raycast.com/ricoberger/gitmoji) |
 | [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket) | 3,835 | The extension allow you to quickly access repositories, pipelines and pull-requests in Bitbucket | Francois | macOS, Windows | [store](https://www.raycast.com/Francois/bitbucket) |
 | [GitHub Status](https://github.com/raycast/extensions/tree/main/extensions/github-status) | 947 | Quickly check why GitHub is down today | FezVrasta | macOS, Windows | [store](https://www.raycast.com/FezVrasta/github-status) |

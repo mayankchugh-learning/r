@@ -1,6 +1,6 @@
 # 0xdhrv
 
-11 extensions · 1,281 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+11 extensions · 1,283 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -14,7 +14,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Drug Search](https://github.com/raycast/extensions/tree/main/extensions/drug-search) | 302 | Search the FDA drug database with ease | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/drug-search) |
+| [Drug Search](https://github.com/raycast/extensions/tree/main/extensions/drug-search) | 304 | Search the FDA drug database with ease | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/drug-search) |
 
 ## Developer Tools (4)
 

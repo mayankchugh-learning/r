@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,872 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
-| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 30,423 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
+| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,876 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
+| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 30,425 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
 | [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 15,681 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
 | [Jira Search](https://github.com/raycast/extensions/tree/main/extensions/jira-search) | 7,963 | Search for Jira issues (more tolerant and powerful than built-in), projects, boards and filters. | sven | macOS | [store](https://www.raycast.com/sven/jira-search) |
 | [Jira Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-search-self-hosted) | 4,580 | Search for Jira issues (more tolerant and powerful than built-in), projects, and boards on Jira Server instances. | emanguy | macOS | [store](https://www.raycast.com/emanguy/jira-search-self-hosted) |
@@ -42,7 +42,7 @@
 | [Jalali Date Convertor](https://github.com/raycast/extensions/tree/main/extensions/jalali-date-convertor) | 55 | Converts Shamsi (Jalali) calendar dates to/from Gregorian calendar | amin_saedi | macOS | [store](https://www.raycast.com/amin_saedi/jalali-date-convertor) |
 | [Jotform](https://github.com/raycast/extensions/tree/main/extensions/jotform) | 45 | View Forms and their Submissions | xmok | macOS | [store](https://www.raycast.com/xmok/jotform) |
 | [jsrepo](https://github.com/raycast/extensions/tree/main/extensions/jsrepo) | 45 | Interact with jsrepo registries all without leaving Raycast. | ieedan | macOS | [store](https://www.raycast.com/ieedan/jsrepo) |
-| [Jira (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-self-hosted) | 42 | Create, access, and modify issues and sprints. | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/jira-self-hosted) |
+| [Jira (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-self-hosted) | 43 | Create, access, and modify issues and sprints. | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/jira-self-hosted) |
 | [Jellyamp](https://github.com/raycast/extensions/tree/main/extensions/jellyamp) | 31 | Search and play music from your Jellyfin server | opkelde | macOS, Windows | [store](https://www.raycast.com/opkelde/jellyamp) |
 | [Job Dojo](https://github.com/raycast/extensions/tree/main/extensions/job-dojo) | 26 | AI-powered interview assistant - ask questions, generate recruiter messages, and create LinkedIn connection templates | jbharwood | macOS | [store](https://www.raycast.com/jbharwood/job-dojo) |
 | [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) | 24 | Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/jue-jin) |

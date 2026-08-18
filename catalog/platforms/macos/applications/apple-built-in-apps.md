@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 40,694 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
-| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,949 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
-| [Apple Maps Search](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) | 16,653 | Quickly search Apple Maps or find directions. | djpowers | macOS, Windows | [store](https://www.raycast.com/djpowers/apple-maps-search) |
+| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 40,698 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
+| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 34,966 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
+| [Apple Maps Search](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) | 16,655 | Quickly search Apple Maps or find directions. | djpowers | macOS, Windows | [store](https://www.raycast.com/djpowers/apple-maps-search) |
 | [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,086 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
 | [Bob - Control Bob Translate](https://github.com/raycast/extensions/tree/main/extensions/bob) | 4,033 | Control the Bob Translate app for macOS with your keyboard. | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/bobcontrol) |
 | [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,170 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
@@ -19,5 +19,5 @@
 | [BetterZip](https://github.com/raycast/extensions/tree/main/extensions/betterzip) | 1,107 | Compress and extract selected items in Finder with BetterZip via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/betterzip) |
 | [Keka](https://github.com/raycast/extensions/tree/main/extensions/keka) | 855 | Compress and extract files using Keka, the macOS file archiver | aone | macOS | [store](https://www.raycast.com/aone/keka) |
 | [Launchpad+](https://github.com/raycast/extensions/tree/main/extensions/launchpad-plus) | 746 | A powerful and beautiful Launchpad for macOS that lets you organize and launch your apps with custom color-coded tags. | kbysiec | macOS | [store](https://www.raycast.com/kbysiec/launchpad-plus) |
-| [Monocle](https://github.com/raycast/extensions/tree/main/extensions/monocle) | 540 | Extension to control Monocle for macOS Noise-cancelling for your screen with cursor shake | emlez | macOS | [store](https://www.raycast.com/emlez/monocle) |
+| [Monocle](https://github.com/raycast/extensions/tree/main/extensions/monocle) | 541 | Extension to control Monocle for macOS Noise-cancelling for your screen with cursor shake | emlez | macOS | [store](https://www.raycast.com/emlez/monocle) |
 | [pCloud](https://github.com/raycast/extensions/tree/main/extensions/pcloud) | 335 | Search your pCloud through API and use pCloud Drive to open files and folders in Finder | xela92 | macOS | [store](https://www.raycast.com/xela92/pcloud) |

@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,175 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
-| [Tana](https://github.com/raycast/extensions/tree/main/extensions/tana) | 3,369 | Write notes in Raycast, and capture them in Tana. | cheslip | macOS | [store](https://www.raycast.com/cheslip/tana) |
+| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,177 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
+| [Tana](https://github.com/raycast/extensions/tree/main/extensions/tana) | 3,370 | Write notes in Raycast, and capture them in Tana. | cheslip | macOS | [store](https://www.raycast.com/cheslip/tana) |
 | [Notes in Google Docs](https://github.com/raycast/extensions/tree/main/extensions/note-in-google-doc) | 1,243 | Effortlessly capture your ideas and store them instantly in Google Docs | tatermohit | macOS | [store](https://www.raycast.com/tatermohit/note-in-google-doc) |
 | [Twos](https://github.com/raycast/extensions/tree/main/extensions/twos) | 588 | Capture and organize your lists, to-dos, notes, and reminders in Twos. | parker_klein | macOS, Windows | [store](https://www.raycast.com/parker_klein/twos) |
 | [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) | 65 | Quick capture for Minttr - save notes and links instantly | zayn_harris_dev | macOS | [store](https://www.raycast.com/zayn_harris_dev/minttr) |
@@ -22,7 +22,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 13,430 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
+| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 13,431 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
 | [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,044 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) | 2,111 | Navigate within Reflect and quickly append to your daily notes. | ryon | macOS | [store](https://www.raycast.com/ryon/reflect) |
 | [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 18 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
@@ -40,8 +40,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,361 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
-| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,476 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
+| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,378 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
+| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,478 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,510 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,795 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote) | 3,796 | Search Microsoft OneNote notes | alewandowski | macOS | [store](https://www.raycast.com/alewandowski/onenote) |

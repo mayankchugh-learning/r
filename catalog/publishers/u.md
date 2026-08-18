@@ -12,7 +12,7 @@
 | [ubinatus](https://www.raycast.com/ubinatus) | 1 | 1,010 | **Developer Tools:** [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) |
 | [ubuntudroid](https://www.raycast.com/ubuntudroid) | 1 | 397 | **Developer Tools:** [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) |
 | [udus](https://www.raycast.com/udus) | 1 | 79 | **Media:** [Gyazo Uploader](https://github.com/raycast/extensions/tree/main/extensions/gyazo-uploader) |
-| [uetchy](https://www.raycast.com/uetchy) | 3 | 1,534 | **Uncategorized:** [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud)<br>**Web:** [Holodex](https://github.com/raycast/extensions/tree/main/extensions/holodex)<br>**Applications:** [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) |
+| [uetchy](https://www.raycast.com/uetchy) | 3 | 1,535 | **Uncategorized:** [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud)<br>**Web:** [Holodex](https://github.com/raycast/extensions/tree/main/extensions/holodex)<br>**Applications:** [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) |
 | [uixmat](https://www.raycast.com/uixmat) | 1 | 14 | **Web:** [Bklit Analytics](https://github.com/raycast/extensions/tree/main/extensions/bklit-analytics) |
 | [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 538 | **Productivity:** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) |
 | [uladkaminski](https://www.raycast.com/uladkaminski) | 1 | 51 | **Finance:** [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) |
