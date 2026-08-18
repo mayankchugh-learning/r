@@ -1,6 +1,6 @@
 # Launchers & App Control
 
-49 extensions · [← Applications](./README.md)
+50 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -52,4 +52,5 @@
 | [GeForce NOW](https://github.com/raycast/extensions/tree/main/extensions/geforce-now) | 5 | Launch your GeForce NOW games instantly | NvIte0o0 | Windows | [store](https://www.raycast.com/NvIte0o0/geforce-now) |
 | [IBM Bob](https://github.com/raycast/extensions/tree/main/extensions/ibm-bob-recent-projects) | 3 | Control IBM Bob directly from Raycast - Search and open recent projects, handle extensions and commands. | fbuetler | macOS | [store](https://www.raycast.com/fbuetler/ibm-bob-recent-projects) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
+| [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy) | 0 | Control AirBuddy from Raycast | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/airbuddy) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

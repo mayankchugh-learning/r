@@ -1,6 +1,6 @@
 # General
 
-69 extensions · [← System](./README.md)
+70 extensions · [← System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -72,4 +72,5 @@
 | [Voicemeeter Control](https://github.com/raycast/extensions/tree/main/extensions/voicemeeter-raycast) | 16 | Control Voicemeeter strips and buses from Raycast. | Vorm-- | Windows | [store](https://www.raycast.com/Vorm--/voicemeeter-raycast) |
 | [MirAIe AC Control](https://github.com/raycast/extensions/tree/main/extensions/miraie-ac-control) | 9 | Control Panasonic MirAIe air conditioners from Raycast. | ayush_saini | macOS | [store](https://www.raycast.com/ayush_saini/miraie-ac-control) |
 | [Slurm](https://github.com/raycast/extensions/tree/main/extensions/slurm) | 4 | Manage Slurm jobs across multiple clusters and inspect utilization from Raycast | p-koenig | macOS | [store](https://www.raycast.com/p-koenig/slurm) |
+| [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy) | 0 | Control AirBuddy from Raycast | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/airbuddy) |
 | [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 0 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |

@@ -2,7 +2,7 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · **Launchers & App Control** · [General](./general.md)
 
-45 of 362 extensions · [← macOS · Applications](./README.md)
+46 of 363 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -50,4 +50,5 @@
 | [NotiLight Controller](https://github.com/raycast/extensions/tree/main/extensions/notilight-controller) | 7 | Control NotiLight app via deep links | shail_antani | macOS | [store](https://www.raycast.com/shail_antani/notilight-controller) |
 | [IBM Bob](https://github.com/raycast/extensions/tree/main/extensions/ibm-bob-recent-projects) | 3 | Control IBM Bob directly from Raycast - Search and open recent projects, handle extensions and commands. | fbuetler | macOS | [store](https://www.raycast.com/fbuetler/ibm-bob-recent-projects) |
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 1 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
+| [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy) | 0 | Control AirBuddy from Raycast | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/airbuddy) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

@@ -51,7 +51,7 @@
 | [chrisalxlng](https://www.raycast.com/chrisalxlng) | 1 | 855 | **Fun:** [Wordle](https://github.com/raycast/extensions/tree/main/extensions/wordle) |
 | [ChrisChinchilla](https://www.raycast.com/ChrisChinchilla) | 1 | 6,236 | **Productivity:** [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) |
 | [ChrisKohler](https://www.raycast.com/ChrisKohler) | 1 | 769 | **Developer Tools:** [kubens](https://github.com/raycast/extensions/tree/main/extensions/kubens) |
-| [chrismessina](./id/chrismessina.md) | 14 | 6,237 | [see all 14 →](./id/chrismessina.md) |
+| [chrismessina](./id/chrismessina.md) | 15 | 6,237 | [see all 15 →](./id/chrismessina.md) |
 | [chriso](https://www.raycast.com/chriso) | 1 | 461 | **Productivity:** [HubSpot Portal Launcher](https://github.com/raycast/extensions/tree/main/extensions/hubspot-portal-launcher) |
 | [christoribeiro](https://www.raycast.com/christoribeiro) | 1 | 53 | **Finance:** [Qonto](https://github.com/raycast/extensions/tree/main/extensions/qonto) |
 | [chroxify](https://www.raycast.com/chroxify) | 1 | 939 | **Productivity:** [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) |
@@ -76,7 +76,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 52 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,217 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 496,304 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 496,306 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,364 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 108 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 693 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |

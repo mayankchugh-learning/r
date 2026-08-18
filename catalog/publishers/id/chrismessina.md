@@ -1,6 +1,6 @@
 # chrismessina
 
-14 extensions · 6,237 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+15 extensions · 6,237 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -50,3 +50,9 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Tesla Energy](https://github.com/raycast/extensions/tree/main/extensions/tesla-energy) | 11 | Monitor your Tesla solar panels and Powerwalls. View real-time solar production, battery charge, grid usage, and energy history. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/tesla-energy) |
+
+## Applications (1)
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy) | 0 | Control AirBuddy from Raycast | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/airbuddy) |

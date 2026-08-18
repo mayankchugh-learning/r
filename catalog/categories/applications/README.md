@@ -1,8 +1,8 @@
 # Applications
 
-373 extensions · [← all categories](../README.md)
+374 extensions · [← all categories](../README.md)
 
-macOS: 362 · Windows: 82
+macOS: 363 · Windows: 82
 
 ## Work & Knowledge Apps
 
@@ -39,7 +39,7 @@ macOS: 362 · Windows: 82
 | [Apple & Built-in Apps](./apple-built-in-apps.md) | 15 |
 | [Files, Sync & Upload](./files-sync-upload.md) | 16 |
 | [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
-| [Launchers & App Control](./launchers-app-control.md) | 49 |
+| [Launchers & App Control](./launchers-app-control.md) | 50 |
 
 ## Discovered topics ✦
 

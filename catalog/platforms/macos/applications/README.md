@@ -1,6 +1,6 @@
 # macOS · Applications
 
-362 extensions · [← macOS](../README.md)
+363 extensions · [← macOS](../README.md)
 
 ## Work & Knowledge Apps
 
@@ -37,6 +37,6 @@
 | [Apple & Built-in Apps](./apple-built-in-apps.md) | 15 |
 | [Files, Sync & Upload](./files-sync-upload.md) | 16 |
 | [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
-| [Launchers & App Control](./launchers-app-control.md) | 45 |
+| [Launchers & App Control](./launchers-app-control.md) | 46 |
 
 Plus [General](./general.md) — 124 extensions that don't fit a topic yet.

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-18 — upstream `7c6c15990c`
+
+**Added (1):** [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy)
+
 ## 2026-08-18 — upstream `02e621bc3e`
 
 **Updated (1):** [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7)

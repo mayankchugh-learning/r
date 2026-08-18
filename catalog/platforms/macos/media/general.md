@@ -2,7 +2,7 @@
 
 [Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · **General**
 
-109 of 284 extensions · [← macOS · Media](./README.md)
+110 of 285 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -114,4 +114,5 @@
 | [Pitchcast - Pitchfork Reviews Search](https://github.com/raycast/extensions/tree/main/extensions/pitchcast) | 8 | Search Pitchfork.com Reviews | stuartromanek | macOS | [store](https://www.raycast.com/stuartromanek/pitchcast) |
 | [BJ-Share](https://github.com/raycast/extensions/tree/main/extensions/bj-share) | 4 | This extension can provide quick access to BJ-Share torrents using RSS feed | alexandremt | macOS, Windows | [store](https://www.raycast.com/alexandremt/bj-share) |
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 1 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
+| [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy) | 0 | Control AirBuddy from Raycast | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/airbuddy) |
 | [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) | 0 | Control your AudioCast device using Raycast | RomiC | macOS, Windows | [store](https://www.raycast.com/RomiC/audiocast-control) |
