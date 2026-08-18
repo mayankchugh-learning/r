@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-18 — upstream `65c77ce363`
+
+**Updated (2):** [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro), [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills)
+
 ## 2026-08-18 — upstream `853d6f4e97`
 
 **Updated (1):** [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly)
