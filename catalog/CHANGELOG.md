@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-18 — upstream `d57a545af1`
+
+**Updated (1):** [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy)
+
 ## 2026-08-17 — upstream `917b89c31e`
 
 **Added (1):** [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap)
