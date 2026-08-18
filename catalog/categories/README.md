@@ -32,7 +32,7 @@
 | Category | Extensions |
 | --- | --- |
 | [Web](./web/README.md) | 461 |
-| [Finance](./finance/README.md) | 150 |
+| [Finance](./finance/README.md) | 151 |
 | [News](./news/README.md) | 95 |
 
 ### System & Utilities

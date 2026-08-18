@@ -1,8 +1,8 @@
 # Crypto & Web3
 
-30 extensions · [← Finance](./README.md)
+31 extensions · [← Finance](./README.md)
 
-[Crypto ✦](#crypto) (10) · [Price ✦](#price) (4) · [Solana ✦](#solana) (4) · [General](#general) (12)
+[Crypto ✦](#crypto) (11) · [Price ✦](#price) (4) · [Solana ✦](#solana) (4) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -20,6 +20,7 @@
 | [Hashrate](https://github.com/raycast/extensions/tree/main/extensions/hashrate-no) | 49 | Crypto mining resources via Hashrate.no | xmok | macOS | [store](https://www.raycast.com/xmok/hashrate-no) |
 | [Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/crypto-search) | 19 | Quick search for crypto addresses and transactions across multiple chains | fernando_jacob | macOS | [store](https://www.raycast.com/fernando_jacob/crypto-search) |
 | [Kurslog](https://github.com/raycast/extensions/tree/main/extensions/kurslog) | 9 | Compare crypto exchange rates from 100+ exchangers in Ukraine and 100+ countries with best rates for USDT, BTC, ETH to fiat, cash, Payoneer, and more. | kurslog | macOS, Windows | [store](https://www.raycast.com/kurslog/kurslog) |
+| [Ticker Bar](https://github.com/raycast/extensions/tree/main/extensions/ticker-bar) | 0 | Track stocks, crypto, tokens, perpetual futures, and prediction markets from the menu bar. | kays0x | macOS | [store](https://www.raycast.com/kays0x/ticker-bar) |
 
 ## Price ✦
 

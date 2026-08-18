@@ -1,6 +1,6 @@
 # Publishers
 
-2129 publishers · [← catalog index](../README.md)
+2130 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,102,796 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,102,811 |
 | 2 | [raycast](./id/raycast.md) | 11 | 786,335 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 665,878 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,502 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 665,898 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,518 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 439,200 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 433,809 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 406,178 |
@@ -2130,10 +2130,11 @@
 | 2120 | [defaced](https://www.raycast.com/defaced) | 1 | 0 |
 | 2121 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2122 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2123 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2124 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2125 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2126 | github-next | 2 | — |
-| 2127 | buffer | 1 | — |
-| 2128 | multi | 1 | — |
-| 2129 | sharat_visweswara | 1 | — |
+| 2123 | [kays0x](https://www.raycast.com/kays0x) | 1 | 0 |
+| 2124 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2125 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2126 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2127 | github-next | 2 | — |
+| 2128 | buffer | 1 | — |
+| 2129 | multi | 1 | — |
+| 2130 | sharat_visweswara | 1 | — |

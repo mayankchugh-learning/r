@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · **K** · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-82 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+83 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -26,6 +26,7 @@
 | [Katatsu](https://www.raycast.com/Katatsu) | 1 | 1,073 | **Productivity:** [WordReference Dictionary Translation](https://github.com/raycast/extensions/tree/main/extensions/wordreference) |
 | [kawamataryo](https://www.raycast.com/kawamataryo) | 4 | 41,920 | **Developer Tools:** [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng)<br>**Productivity:** [Smart Reply - AI-Powered Multilingual Response Ge…](https://github.com/raycast/extensions/tree/main/extensions/smart-reply), [Mochi](https://github.com/raycast/extensions/tree/main/extensions/mochi), [esa Search](https://github.com/raycast/extensions/tree/main/extensions/esa-search) |
 | [kayla](https://www.raycast.com/kayla) | 1 | 372 | **Fun:** [Roll D20](https://github.com/raycast/extensions/tree/main/extensions/roll-d20) |
+| [kays0x](https://www.raycast.com/kays0x) | 1 | 0 | **Finance:** [Ticker Bar](https://github.com/raycast/extensions/tree/main/extensions/ticker-bar) |
 | [kazzart](https://www.raycast.com/kazzart) | 1 | 45 | **Developer Tools:** [GPU Fleet Monitor](https://github.com/raycast/extensions/tree/main/extensions/gpu-fleet-monitor) |
 | [kbysiec](https://www.raycast.com/kbysiec) | 1 | 746 | **Productivity:** [Launchpad+](https://github.com/raycast/extensions/tree/main/extensions/launchpad-plus) |
 | [kciarnie](https://www.raycast.com/kciarnie) | 1 | 554 | **Fun:** [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) |

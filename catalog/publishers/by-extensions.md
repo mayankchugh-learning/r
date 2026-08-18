@@ -1,6 +1,6 @@
 # Publishers
 
-2129 publishers · [← catalog index](../README.md)
+2130 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [alexi.build](./id/alexi-build.md) | 17 | 1,774 |
 | 6 | [Aayush9029](./id/aayush9029.md) | 16 | 150,215 |
 | 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,613 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,102,796 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,102,811 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 299,153 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,069 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,239 |
@@ -388,8 +388,8 @@
 | 378 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 379 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 3 |
 | 380 | github-next | 2 | — |
-| 381 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 665,878 |
-| 382 | [Codely](https://www.raycast.com/Codely) | 1 | 496,502 |
+| 381 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 665,898 |
+| 382 | [Codely](https://www.raycast.com/Codely) | 1 | 496,518 |
 | 383 | [linear](https://www.raycast.com/linear) | 1 | 344,348 |
 | 384 | [mommertf](https://www.raycast.com/mommertf) | 1 | 286,793 |
 | 385 | [nhojb](https://www.raycast.com/nhojb) | 1 | 255,723 |
@@ -2131,9 +2131,10 @@
 | 2121 | [defaced](https://www.raycast.com/defaced) | 1 | 0 |
 | 2122 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2123 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2124 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2125 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2126 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2127 | buffer | 1 | — |
-| 2128 | multi | 1 | — |
-| 2129 | sharat_visweswara | 1 | — |
+| 2124 | [kays0x](https://www.raycast.com/kays0x) | 1 | 0 |
+| 2125 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2126 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2127 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2128 | buffer | 1 | — |
+| 2129 | multi | 1 | — |
+| 2130 | sharat_visweswara | 1 | — |
