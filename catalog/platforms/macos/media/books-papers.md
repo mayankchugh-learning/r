@@ -2,7 +2,7 @@
 
 [Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · **Books & Papers** · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
 
-17 of 283 extensions · [← macOS · Media](./README.md)
+18 of 284 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,4 @@
 | [CC0-LIB - Browse CC0 Content](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) | 29 | Browse library of CC0 content | 0xN1 | macOS | [store](https://www.raycast.com/0xN1/cc0-lib) |
 | [MiniMax TTS](https://github.com/raycast/extensions/tree/main/extensions/minimax-tts) | 19 | Read selected text aloud with MiniMax TTS. Supports Chinese, English, and your own cloned voices. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/minimax-tts) |
 | [MiMo TTS](https://github.com/raycast/extensions/tree/main/extensions/raycast-mimo-tts) | 7 | Read selected or clipboard text aloud with Xiaomi MiMo TTS — Chinese and English voices, fine-grained style controls, and chunked long-text playback. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/raycast-mimo-tts) |
+| [Swinsian Player](https://github.com/raycast/extensions/tree/main/extensions/swinsian-player) | 0 | Control Swinsian from Raycast. Play, pause, skip tracks, set ratings, search your library, and see what's playing in your menu bar. | deathrashed | macOS | [store](https://www.raycast.com/deathrashed/swinsian-player) |

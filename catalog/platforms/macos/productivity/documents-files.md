@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-123 of 1426 extensions · [← macOS · Productivity](./README.md)
+123 of 1427 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -112,8 +112,8 @@
 | [PDF Expert](https://github.com/raycast/extensions/tree/main/extensions/pdf-expert) | 36 | Navigate open tabs and recent documents in PDF Expert | mattiacolombomc | macOS | [store](https://www.raycast.com/mattiacolombomc/pdf-expert) |
 | [Knowwa](https://github.com/raycast/extensions/tree/main/extensions/knowwa) | 33 | Generate and list documents in Knowwa directly from Raycast | knowwa | macOS | [store](https://www.raycast.com/knowwa/knowwa) |
 | [ownCloud](https://github.com/raycast/extensions/tree/main/extensions/owncloud) | 31 | share files and folders, easy and secure | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/owncloud) |
+| [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy) | 22 | Organize folders into prefixed category archives with byte-level dedup, near-duplicate and similar-image detection, and one-step undo | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/file-tidy) |
 | [Easy Invoice](https://github.com/raycast/extensions/tree/main/extensions/easy-invoice) | 21 | Create and manage professional PDF invoices in seconds. Track clients, export records, and get paid faster. | davidosull | macOS | [store](https://www.raycast.com/davidosull/easy-invoice) |
-| [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy) | 21 | Organize folders into prefixed category archives with byte-level dedup, near-duplicate and similar-image detection, and one-step undo | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/file-tidy) |
 | [French Company Search](https://github.com/raycast/extensions/tree/main/extensions/french-company-search) | 20 | Search French company information using SIREN/SIRET numbers via INPI API. Get formatted legal details ready for contracts and documents. | fma16 | macOS | [store](https://www.raycast.com/fma16/french-company-search) |
 | [NFT Primitive Tools](https://github.com/raycast/extensions/tree/main/extensions/uranium-raycast-plugin) | 16 | Mint, list, manage, Conversion of any media: images, videos, audio, or documents. Permaweb storage. | uranium | macOS | [store](https://www.raycast.com/uranium/uranium-raycast-plugin) |
 | [Lumen](https://github.com/raycast/extensions/tree/main/extensions/lumen) | 15 | Scoped fuzzy file search across your favorite workspaces, with filters and sorting. | kumare_agape | macOS | [store](https://www.raycast.com/kumare_agape/lumen) |

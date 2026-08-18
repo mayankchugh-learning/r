@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-147 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+148 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -61,6 +61,7 @@
 | [dax42](https://www.raycast.com/dax42) | 1 | 253 | **Productivity:** [Universal Inbox](https://github.com/raycast/extensions/tree/main/extensions/universal-inbox) |
 | [dch09](https://www.raycast.com/dch09) | 1 | 1,041 | **Applications:** [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) |
 | [DDDDesign](https://www.raycast.com/DDDDesign) | 1 | 727 | **Developer Tools:** [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) |
+| [deathrashed](https://www.raycast.com/deathrashed) | 1 | 0 | **Media:** [Swinsian Player](https://github.com/raycast/extensions/tree/main/extensions/swinsian-player) |
 | [Decrypt](https://www.raycast.com/Decrypt) | 1 | 198 | **Finance:** [Yield Calculator](https://github.com/raycast/extensions/tree/main/extensions/yield-calculator) |
 | [degouville](https://www.raycast.com/degouville) | 4 | 41,619 | **Applications:** [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects), [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor)<br>**Productivity:** [Kimi](https://github.com/raycast/extensions/tree/main/extensions/kimi)<br>**Developer Tools:** [Biome](https://github.com/raycast/extensions/tree/main/extensions/biome) |
 | [dejuknow](https://www.raycast.com/dejuknow) | 1 | 166 | **System:** [Sidecar Connect](https://github.com/raycast/extensions/tree/main/extensions/sidecar-connect) |

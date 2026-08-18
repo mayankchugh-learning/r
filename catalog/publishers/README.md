@@ -1,6 +1,6 @@
 # Publishers
 
-2125 publishers · [← catalog index](../README.md)
+2126 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,102,045 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,102,065 |
 | 2 | [raycast](./id/raycast.md) | 11 | 785,822 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 665,400 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,110 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 665,429 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,131 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 438,902 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 433,473 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 406,002 |
@@ -1834,20 +1834,20 @@
 | 1824 | [tgrecojs](https://www.raycast.com/tgrecojs) | 1 | 23 |
 | 1825 | [visual_eugen](https://www.raycast.com/visual_eugen) | 1 | 23 |
 | 1826 | [AnishDe12020](https://www.raycast.com/AnishDe12020) | 1 | 22 |
-| 1827 | [heytommy](https://www.raycast.com/heytommy) | 1 | 22 |
-| 1828 | [itsmeonli](https://www.raycast.com/itsmeonli) | 1 | 22 |
-| 1829 | [manuel_de_la_torre](https://www.raycast.com/manuel_de_la_torre) | 1 | 22 |
-| 1830 | [omennia](https://www.raycast.com/omennia) | 1 | 22 |
-| 1831 | [SimonJ](https://www.raycast.com/SimonJ) | 1 | 22 |
-| 1832 | [sriverogalan](https://www.raycast.com/sriverogalan) | 1 | 22 |
-| 1833 | [stupifier](https://www.raycast.com/stupifier) | 1 | 22 |
-| 1834 | [tianwg](https://www.raycast.com/tianwg) | 1 | 22 |
-| 1835 | [zachsea](https://www.raycast.com/zachsea) | 1 | 22 |
-| 1836 | [alfredmouelle](https://www.raycast.com/alfredmouelle) | 1 | 21 |
-| 1837 | [AngryBeaver](https://www.raycast.com/AngryBeaver) | 1 | 21 |
-| 1838 | [davidosull](https://www.raycast.com/davidosull) | 1 | 21 |
-| 1839 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 21 |
-| 1840 | [fhf1121](https://www.raycast.com/fhf1121) | 1 | 21 |
+| 1827 | [fhf1121](https://www.raycast.com/fhf1121) | 1 | 22 |
+| 1828 | [heytommy](https://www.raycast.com/heytommy) | 1 | 22 |
+| 1829 | [itsmeonli](https://www.raycast.com/itsmeonli) | 1 | 22 |
+| 1830 | [manuel_de_la_torre](https://www.raycast.com/manuel_de_la_torre) | 1 | 22 |
+| 1831 | [omennia](https://www.raycast.com/omennia) | 1 | 22 |
+| 1832 | [SimonJ](https://www.raycast.com/SimonJ) | 1 | 22 |
+| 1833 | [sriverogalan](https://www.raycast.com/sriverogalan) | 1 | 22 |
+| 1834 | [stupifier](https://www.raycast.com/stupifier) | 1 | 22 |
+| 1835 | [tianwg](https://www.raycast.com/tianwg) | 1 | 22 |
+| 1836 | [zachsea](https://www.raycast.com/zachsea) | 1 | 22 |
+| 1837 | [alfredmouelle](https://www.raycast.com/alfredmouelle) | 1 | 21 |
+| 1838 | [AngryBeaver](https://www.raycast.com/AngryBeaver) | 1 | 21 |
+| 1839 | [davidosull](https://www.raycast.com/davidosull) | 1 | 21 |
+| 1840 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 21 |
 | 1841 | [isra](https://www.raycast.com/isra) | 1 | 21 |
 | 1842 | [zygimantas_magelinskas](https://www.raycast.com/zygimantas_magelinskas) | 1 | 21 |
 | 1843 | [55b](https://www.raycast.com/55b) | 1 | 20 |
@@ -2124,12 +2124,13 @@
 | 2114 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
 | 2115 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
 | 2116 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
-| 2117 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2118 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2119 | [kylekanderson](https://www.raycast.com/kylekanderson) | 1 | 0 |
-| 2120 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2121 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2122 | github-next | 2 | — |
-| 2123 | buffer | 1 | — |
-| 2124 | multi | 1 | — |
-| 2125 | sharat_visweswara | 1 | — |
+| 2117 | [deathrashed](https://www.raycast.com/deathrashed) | 1 | 0 |
+| 2118 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2119 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2120 | [kylekanderson](https://www.raycast.com/kylekanderson) | 1 | 0 |
+| 2121 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2122 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2123 | github-next | 2 | — |
+| 2124 | buffer | 1 | — |
+| 2125 | multi | 1 | — |
+| 2126 | sharat_visweswara | 1 | — |

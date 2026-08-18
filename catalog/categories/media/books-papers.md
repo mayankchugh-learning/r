@@ -1,8 +1,8 @@
 # Books & Papers
 
-17 extensions · [← Media](./README.md)
+18 extensions · [← Media](./README.md)
 
-[Library ✦](#library) (5) · [Aloud ✦](#aloud) (4) · [General](#general) (8)
+[Library ✦](#library) (6) · [Aloud ✦](#aloud) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -15,6 +15,7 @@
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 849 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 337 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 | [CC0-LIB - Browse CC0 Content](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) | 29 | Browse library of CC0 content | 0xN1 | macOS | [store](https://www.raycast.com/0xN1/cc0-lib) |
+| [Swinsian Player](https://github.com/raycast/extensions/tree/main/extensions/swinsian-player) | 0 | Control Swinsian from Raycast. Play, pause, skip tracks, set ratings, search your library, and see what's playing in your menu bar. | deathrashed | macOS | [store](https://www.raycast.com/deathrashed/swinsian-player) |
 
 ## Aloud ✦
 

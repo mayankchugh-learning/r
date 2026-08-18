@@ -1,6 +1,6 @@
 # Search & Bookmarks
 
-222 extensions · [← Productivity](../README.md)
+223 extensions · [← Productivity](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
@@ -12,9 +12,9 @@
 | [Repositories ✦](./repositories.md) | 9 |
 | [Code ✦](./code.md) | 4 |
 | [Sites ✦](./sites.md) | 6 |
+| [Library ✦](./library.md) | 6 |
 | [Across ✦](./across.md) | 5 |
 | [Chats ✦](./chats.md) | 5 |
-| [Library ✦](./library.md) | 5 |
 | [Store ✦](./store.md) | 4 |
 | [Issues ✦](./issues.md) | 4 |
 | [System ✦](./system.md) | 4 |
