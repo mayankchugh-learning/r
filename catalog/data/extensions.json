@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8ae025ada97c7ebe12c7b4048cf8c67449a8cc8f",
-  "generatedAt": "2026-08-18T04:56:36.141Z",
-  "downloadsRefreshedAt": "2026-08-18T04:56:35.286Z",
+  "commit": "6f880076f43e1230e9aa398e6117574dd31d0734",
+  "generatedAt": "2026-08-18T04:58:37.326Z",
+  "downloadsRefreshedAt": "2026-08-18T04:58:37.046Z",
   "count": 3187,
   "extensions": [
     {
@@ -9660,7 +9660,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 506938
+      "downloads": 506941
     },
     {
       "dir": "color-shades",
@@ -28021,7 +28021,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 665493
+      "downloads": 665496
     },
     {
       "dir": "kimai",
@@ -57009,7 +57009,7 @@
       ],
       "store": "https://www.raycast.com/jaymcc/ten-four",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ten-four",
-      "treeSha": "4fe5e933ec164e3659a2f79d14d83814fb478e9b",
+      "treeSha": "ef773e30640f3f9142cd675f9203b2acc3f81b72",
       "downloads": 3
     },
     {
