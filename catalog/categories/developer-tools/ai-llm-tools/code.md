@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) | 11,596 | Monitor Claude Code usage with real-time tracking | nyatinte | macOS | [store](https://www.raycast.com/nyatinte/ccusage) |
+| [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) | 11,598 | Monitor Claude Code usage with real-time tracking | nyatinte | macOS | [store](https://www.raycast.com/nyatinte/ccusage) |
 | [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 3,367 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
 | [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 1,939 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS | [store](https://www.raycast.com/qazi0/claudecast) |
 | [Diff View](https://github.com/raycast/extensions/tree/main/extensions/diff-view) | 631 | Compare the last two entries of your clipboard, or two selected files, in VS Code, Cursor, or VSCodium | kalaschnik | macOS | [store](https://www.raycast.com/kalaschnik/diff-view) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `cfd2e7a795`
+
+**Updated (1):** [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget)
+
 ## 2026-08-18 — upstream `f38af60302`
 
 **Added (1):** [Ticker Bar](https://github.com/raycast/extensions/tree/main/extensions/ticker-bar)

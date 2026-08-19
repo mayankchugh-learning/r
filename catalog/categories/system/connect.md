@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,428 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
+| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,430 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
 | [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,247 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
 | [Openfortivpn](https://github.com/raycast/extensions/tree/main/extensions/openfortivpn) | 223 | Connect to openfortivpn | rafalpetryka | macOS | [store](https://www.raycast.com/rafalpetryka/openfortivpn) |
 | [Connect Pritunl Vpn Tunnel](https://github.com/raycast/extensions/tree/main/extensions/pritunl) | 120 | Connects to VPN using Pritunl client | maksym_prokopov | macOS | [store](https://www.raycast.com/maksym_prokopov/pritunl) |

@@ -20,22 +20,22 @@
 | [ViGeng](https://www.raycast.com/ViGeng) | 9 | 17,456 | **Productivity:** [Deepseek Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/deepseeker), [Emojify](https://github.com/raycast/extensions/tree/main/extensions/emojify)<br>**Applications:** [Bob - Control Bob Translate](https://github.com/raycast/extensions/tree/main/extensions/bob), [Awesome Mac](https://github.com/raycast/extensions/tree/main/extensions/awesome-mac), [Pumble](https://github.com/raycast/extensions/tree/main/extensions/pumble)<br>**Developer Tools:** [GitHub Profile](https://github.com/raycast/extensions/tree/main/extensions/github-profile), [Zoo - Ask AIs with Your Prompt Library](https://github.com/raycast/extensions/tree/main/extensions/zoo)<br>**Uncategorized:** [Save Link](https://github.com/raycast/extensions/tree/main/extensions/save-link)<br>**Web:** [CCF Conference](https://github.com/raycast/extensions/tree/main/extensions/ccfddl) |
 | [vigosan](https://www.raycast.com/vigosan) | 2 | 562 | **Media:** [Discogs Database Search](https://github.com/raycast/extensions/tree/main/extensions/discogs)<br>**Data:** [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) |
 | [vikas-bansal](https://www.raycast.com/vikas-bansal) | 1 | 527 | **Developer Tools:** [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) |
-| [vimtor](./id/vimtor.md) | 15 | 299,153 | [see all 15 →](./id/vimtor.md) |
+| [vimtor](./id/vimtor.md) | 15 | 299,194 | [see all 15 →](./id/vimtor.md) |
 | [vincent_perrot](https://www.raycast.com/vincent_perrot) | 1 | 5 | **Finance:** [XPF to EUR Converter](https://github.com/raycast/extensions/tree/main/extensions/xpf-converter) |
 | [vinch](https://www.raycast.com/vinch) | 1 | 267 | **Web:** [Ethereum Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/ethereum-gas-tracker) |
 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 | **Productivity:** [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) |
-| [vishaltelangre](https://www.raycast.com/vishaltelangre) | 1 | 29,148 | **Developer Tools:** [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) |
-| [VishwasShashidhar](https://www.raycast.com/VishwasShashidhar) | 1 | 3,643 | **Web:** [Brave Search](https://github.com/raycast/extensions/tree/main/extensions/brave-search) |
+| [vishaltelangre](https://www.raycast.com/vishaltelangre) | 1 | 29,152 | **Developer Tools:** [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) |
+| [VishwasShashidhar](https://www.raycast.com/VishwasShashidhar) | 1 | 3,644 | **Web:** [Brave Search](https://github.com/raycast/extensions/tree/main/extensions/brave-search) |
 | [visual_eugen](https://www.raycast.com/visual_eugen) | 1 | 23 | **Developer Tools:** [Find OpenGL Enum](https://github.com/raycast/extensions/tree/main/extensions/find-opengl-enum) |
-| [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,613 | [see all 16 →](./id/visual-studio-coder.md) |
-| [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 32,162 | **Communication:** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) |
-| [vitorlostada](https://www.raycast.com/vitorlostada) | 1 | 940 | **Developer Tools:** [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) |
+| [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,616 | [see all 16 →](./id/visual-studio-coder.md) |
+| [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 32,170 | **Communication:** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) |
+| [vitorlostada](https://www.raycast.com/vitorlostada) | 1 | 941 | **Developer Tools:** [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) |
 | [vivek](https://www.raycast.com/vivek) | 1 | 560 | **Documentation:** [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) |
 | [vivgui](https://www.raycast.com/vivgui) | 1 | 110 | **Productivity:** [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) |
 | [vixaidev](https://www.raycast.com/vixaidev) | 1 | 12 | **Uncategorized:** [Vixai](https://github.com/raycast/extensions/tree/main/extensions/vixai) |
 | [vkhitrin](https://www.raycast.com/vkhitrin) | 1 | 81 | **Developer Tools:** [Gerrit Code Review](https://github.com/raycast/extensions/tree/main/extensions/gerrit-code-review) |
 | [vlad2305m](https://www.raycast.com/vlad2305m) | 1 | 46 | **Data:** [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) |
-| [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 51,062 | **Productivity:** [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) |
+| [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 51,067 | **Productivity:** [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) |
 | [vlades](https://www.raycast.com/vlades) | 1 | 316 | **Developer Tools:** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) |
 | [vladimir-kotikov](https://www.raycast.com/vladimir-kotikov) | 1 | 560 | **Applications:** [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) |
 | [VladYevt](https://www.raycast.com/VladYevt) | 1 | 88 | **Web:** [Flibusta Search](https://github.com/raycast/extensions/tree/main/extensions/flibusta-search) |
