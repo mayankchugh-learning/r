@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `40299ba993`
+
+**Updated (1):** [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian)
+
 ## 2026-08-19 — upstream `5f817e5b71`
 
 **Updated (1):** [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5f817e5b710c739afe92c926b33c4976d85f2e07",
-  "generatedAt": "2026-08-19T06:59:31.373Z",
-  "downloadsRefreshedAt": "2026-08-19T06:59:30.987Z",
+  "commit": "40299ba9939d813b9acbbb113d6c961167e0f2ee",
+  "generatedAt": "2026-08-19T07:00:39.817Z",
+  "downloadsRefreshedAt": "2026-08-19T07:00:39.415Z",
   "count": 3192,
   "extensions": [
     {
@@ -37809,7 +37809,7 @@
       "description": "Control Obsidian with Raycast",
       "author": "marcjulian",
       "owner": null,
-      "contributors": 17,
+      "contributors": 18,
       "categories": [
         "Productivity"
       ],
@@ -37820,7 +37820,7 @@
       ],
       "store": "https://www.raycast.com/marcjulian/obsidian",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian",
-      "treeSha": "6e32715dc43769211e3c83519fe9396301815e9b",
+      "treeSha": "69789edc7a7ca5ee36bbf65643d467844232e444",
       "downloads": 150844
     },
     {
