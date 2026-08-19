@@ -60,7 +60,7 @@
 | [knownasilya](https://www.raycast.com/knownasilya) | 1 | 29 | **Productivity:** [TeamGantt](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) |
 | [knowwa](https://www.raycast.com/knowwa) | 1 | 33 | **Productivity:** [Knowwa](https://github.com/raycast/extensions/tree/main/extensions/knowwa) |
 | [koala1206](https://www.raycast.com/koala1206) | 2 | 2,793 | **Productivity:** [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder)<br>**Developer Tools:** [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) |
-| [koayon](https://www.raycast.com/koayon) | 2 | 1,777 | **Productivity:** [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv)<br>**News:** [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) |
+| [koayon](https://www.raycast.com/koayon) | 2 | 1,778 | **Productivity:** [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv)<br>**News:** [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) |
 | [koh-sh](https://www.raycast.com/koh-sh) | 1 | 292 | **Developer Tools:** [Slack Templated Message](https://github.com/raycast/extensions/tree/main/extensions/slack-templated-message) |
 | [koinzhang](./id/koinzhang.md) | 50 | 254,020 | [see all 50 →](./id/koinzhang.md) |
 | [kom](https://www.raycast.com/kom) | 1 | 15,078 | **Productivity:** [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8a4409d03a593ea0b69b825b525c80753102a379",
-  "generatedAt": "2026-08-19T04:39:19.961Z",
-  "downloadsRefreshedAt": "2026-08-19T04:39:19.305Z",
+  "commit": "3516075410e961df9c090dfaa8ba1f4485b6fc5a",
+  "generatedAt": "2026-08-19T04:47:47.512Z",
+  "downloadsRefreshedAt": "2026-08-19T04:47:46.675Z",
   "count": 3192,
   "extensions": [
     {
@@ -2599,7 +2599,7 @@
       "store": "https://www.raycast.com/the-browser-company/arc",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/arc",
       "treeSha": "eb07bcb8755ad37bf28f8295be4e0e56f549cb56",
-      "downloads": 225930
+      "downloads": 225935
     },
     {
       "dir": "arc-helper",
@@ -2830,7 +2830,7 @@
       "store": "https://www.raycast.com/koayon/arxiv",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/arxiv",
       "treeSha": "823a4c329669e2ef4f18f057338b67f9bfa98563",
-      "downloads": 1619
+      "downloads": 1620
     },
     {
       "dir": "asafamos-accessibility-scanner",
@@ -4139,7 +4139,7 @@
       "store": "https://www.raycast.com/hmarr/bear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bear",
       "treeSha": "963997cc0c28ea6da475f9420d150363bcdfd2b5",
-      "downloads": 13486
+      "downloads": 13487
     },
     {
       "dir": "beardtown",
@@ -5826,7 +5826,7 @@
       ],
       "store": "https://www.raycast.com/nhojb/brew",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brew",
-      "treeSha": "bd324c3bacb2f5cfbdba62db25b2d999eb4efe9e",
+      "treeSha": "3d9b8c1562cadd17b608e85a890c126ef65b5a06",
       "downloads": 255832
     },
     {
@@ -9682,7 +9682,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 507567
+      "downloads": 507571
     },
     {
       "dir": "color-shades",
@@ -21764,7 +21764,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 496843
+      "downloads": 496846
     },
     {
       "dir": "google-chrome-profiles",
@@ -28064,7 +28064,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 666322
+      "downloads": 666326
     },
     {
       "dir": "kimai",

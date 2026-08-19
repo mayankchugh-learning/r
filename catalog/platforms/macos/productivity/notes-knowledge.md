@@ -11,7 +11,7 @@
 | [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,451 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,904 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Obsidian Smart Capture](https://github.com/raycast/extensions/tree/main/extensions/obsidian-smart-capture) | 13,636 | Smart capture anything into Obsidian | millin_gabani | macOS | [store](https://www.raycast.com/millin_gabani/obsidian-smart-capture) |
-| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,486 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
+| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,487 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
 | [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 13,437 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,095 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,512 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
