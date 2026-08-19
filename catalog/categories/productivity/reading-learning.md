@@ -22,22 +22,22 @@
 | --- | --- | --- | --- | --- | --- |
 | [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,786 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
 | [Distraction Tracker](https://github.com/raycast/extensions/tree/main/extensions/distraction-tracker) | 292 | Track your distractions and get indistractable. This extension is inspired by Nir Eyal's book indistractable. | danieldeichfuss | macOS | [store](https://www.raycast.com/danieldeichfuss/distraction-tracker) |
-| [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) | 252 | Opens books, verses or resources in Logos Bible Software | michael_marvive | macOS, Windows | [store](https://www.raycast.com/michael_marvive/logos-launcher) |
+| [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) | 253 | Opens books, verses or resources in Logos Bible Software | michael_marvive | macOS, Windows | [store](https://www.raycast.com/michael_marvive/logos-launcher) |
 | [Teamup Rooms](https://github.com/raycast/extensions/tree/main/extensions/teamup-rooms) | 18 | Check for open rooms and book using Teamup | drewwatkins11 | macOS | [store](https://www.raycast.com/drewwatkins11/teamup-rooms) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 45,074 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,050 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
-| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 6,014 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 45,092 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,051 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 6,016 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,407 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
-| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 393 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
+| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 394 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 | [Read Later](https://github.com/raycast/extensions/tree/main/extensions/later) | 382 | Read your tabs later | jimluo | macOS | [store](https://www.raycast.com/jimluo/later) |
 | [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 302 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 217 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [Nowledge Mem](https://github.com/raycast/extensions/tree/main/extensions/nowledge-mem) | 189 | Search memories, add a quick memory, and read Working Memory from Raycast. | wey-gu | macOS | [store](https://www.raycast.com/wey-gu/nowledge-mem) |
 | [Cosmic Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/cosmic-bookmarks) | 84 | Read, visit and save Bookmarks to and from Cosmic CMS | kemiljk | macOS | [store](https://www.raycast.com/kemiljk/cosmic-bookmarks) |
 | [Letta Agents](https://github.com/raycast/extensions/tree/main/extensions/letta) | 31 | Chat with Letta stateful agents that remember and learn over time | wesseljt | macOS | [store](https://www.raycast.com/wesseljt/letta) |
-| [Research Sync](https://github.com/raycast/extensions/tree/main/extensions/read-this-later) | 15 | Browse and read your saved articles, and save the current browser tab. | shearm | macOS | [store](https://www.raycast.com/shearm/read-this-later) |
+| [Research Sync](https://github.com/raycast/extensions/tree/main/extensions/read-this-later) | 16 | Browse and read your saved articles, and save the current browser tab. | shearm | macOS | [store](https://www.raycast.com/shearm/read-this-later) |
