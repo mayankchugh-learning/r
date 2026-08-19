@@ -1,8 +1,8 @@
 # Window & Workspace Management
 
-50 extensions · [← Productivity](./README.md)
+51 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (21) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (8) · [General](#general) (12)
+[Windows ✦](#windows) (21) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (9) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -57,7 +57,8 @@
 | [Pangu for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pangu-for-raycast) | 105 | Add spaces between Chinese and English, number or symbols. | avengerbevis | macOS | [store](https://www.raycast.com/avengerbevis/pangu-for-raycast) |
 | [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 71 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
 | [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 2 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |
-| [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) | — | Search and control live Phi Spaces and tabs. | phibrowser | macOS | — |
+| [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) | 1 | Search and control live Phi Spaces and tabs. | phibrowser | macOS | [store](https://www.raycast.com/phibrowser/phi) |
+| [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) | 0 | Turn unused application menu space into your current focus | dans_huang | macOS | [store](https://www.raycast.com/dans_huang/menucloak) |
 
 ## General
 

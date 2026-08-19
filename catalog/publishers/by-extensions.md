@@ -1,6 +1,6 @@
 # Publishers
 
-2131 publishers · [← catalog index](../README.md)
+2132 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [alexi.build](./id/alexi-build.md) | 17 | 1,782 |
 | 6 | [Aayush9029](./id/aayush9029.md) | 16 | 150,286 |
 | 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,632 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,103,581 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,103,589 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 299,262 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,078 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,259 |
@@ -389,8 +389,8 @@
 | 379 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 380 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 3 |
 | 381 | github-next | 2 | — |
-| 382 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,458 |
-| 383 | [Codely](https://www.raycast.com/Codely) | 1 | 496,976 |
+| 382 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,466 |
+| 383 | [Codely](https://www.raycast.com/Codely) | 1 | 496,984 |
 | 384 | [linear](https://www.raycast.com/linear) | 1 | 344,647 |
 | 385 | [mommertf](https://www.raycast.com/mommertf) | 1 | 287,018 |
 | 386 | [nhojb](https://www.raycast.com/nhojb) | 1 | 255,834 |
@@ -2118,24 +2118,25 @@
 | 2108 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
 | 2109 | [meslva](https://www.raycast.com/meslva) | 1 | 1 |
 | 2110 | [petar_yovkov](https://www.raycast.com/petar_yovkov) | 1 | 1 |
-| 2111 | [ruslan-korneev](https://www.raycast.com/ruslan-korneev) | 1 | 1 |
-| 2112 | [sfominx](https://www.raycast.com/sfominx) | 1 | 1 |
-| 2113 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
-| 2114 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
-| 2115 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
-| 2116 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2117 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
-| 2118 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
-| 2119 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
-| 2120 | [defaced](https://www.raycast.com/defaced) | 1 | 0 |
-| 2121 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2122 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2123 | [kays0x](https://www.raycast.com/kays0x) | 1 | 0 |
-| 2124 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2125 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
-| 2126 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2127 | [sharat_visweswara](https://www.raycast.com/sharat_visweswara) | 1 | 0 |
-| 2128 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2129 | buffer | 1 | — |
-| 2130 | multi | 1 | — |
-| 2131 | phibrowser | 1 | — |
+| 2111 | [phibrowser](https://www.raycast.com/phibrowser) | 1 | 1 |
+| 2112 | [ruslan-korneev](https://www.raycast.com/ruslan-korneev) | 1 | 1 |
+| 2113 | [sfominx](https://www.raycast.com/sfominx) | 1 | 1 |
+| 2114 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
+| 2115 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
+| 2116 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
+| 2117 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
+| 2118 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
+| 2119 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
+| 2120 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
+| 2121 | [dans_huang](https://www.raycast.com/dans_huang) | 1 | 0 |
+| 2122 | [defaced](https://www.raycast.com/defaced) | 1 | 0 |
+| 2123 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2124 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2125 | [kays0x](https://www.raycast.com/kays0x) | 1 | 0 |
+| 2126 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2127 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
+| 2128 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2129 | [sharat_visweswara](https://www.raycast.com/sharat_visweswara) | 1 | 0 |
+| 2130 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2131 | buffer | 1 | — |
+| 2132 | multi | 1 | — |

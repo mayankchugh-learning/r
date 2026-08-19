@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-149 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+150 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -37,6 +37,7 @@
 | [danny_vogel](https://www.raycast.com/danny_vogel) | 1 | 111 | **Web:** [AntiSocials](https://github.com/raycast/extensions/tree/main/extensions/antisocials) |
 | [DannySeidel](https://www.raycast.com/DannySeidel) | 1 | 128 | **Data:** [Flight Miles Calculator](https://github.com/raycast/extensions/tree/main/extensions/flight-miles-calculator) |
 | [danpalmer](https://www.raycast.com/danpalmer) | 3 | 3,974 | **Productivity:** [Parallels Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines)<br>**Finance:** [Monzo](https://github.com/raycast/extensions/tree/main/extensions/monzo)<br>**Communication:** [omg.lol](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) |
+| [dans_huang](https://www.raycast.com/dans_huang) | 1 | 0 | **Applications:** [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) |
 | [danulqua](https://www.raycast.com/danulqua) | 5 | 2,200 | **System:** [Dot Underscore Files Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dot-underscore-files-cleaner), [Toggle Scroll Bars Visibility](https://github.com/raycast/extensions/tree/main/extensions/toggle-scroll-bars-visibility)<br>**Productivity:** [Input Source Switcher](https://github.com/raycast/extensions/tree/main/extensions/input-source-switcher)<br>**Web:** [Web Page Design Mode](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode)<br>**Finance:** [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) |
 | [danvega](https://www.raycast.com/danvega) | 1 | 120 | **Developer Tools:** [Spring Initializr](https://github.com/raycast/extensions/tree/main/extensions/spring-initializr) |
 | [danyelkeddah](https://www.raycast.com/danyelkeddah) | 5 | 2,539 | **Developer Tools:** [Search Composer Packagist](https://github.com/raycast/extensions/tree/main/extensions/search-composer-packagist), [Spatie Documentation](https://github.com/raycast/extensions/tree/main/extensions/spatie-documentation), [Pest Documentation](https://github.com/raycast/extensions/tree/main/extensions/pestphp-documentation), [InertiaJS Documentation](https://github.com/raycast/extensions/tree/main/extensions/inertiajs-documentation), [Laracasts](https://github.com/raycast/extensions/tree/main/extensions/laracasts) |

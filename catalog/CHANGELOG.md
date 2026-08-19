@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `0c8d1043eb`
+
+**Added (1):** [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak)
+
 ## 2026-08-19 — upstream `0c3464f83b`
 
 **Added (1):** [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi)

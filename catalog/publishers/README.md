@@ -1,6 +1,6 @@
 # Publishers
 
-2131 publishers · [← catalog index](../README.md)
+2132 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,103,581 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,103,589 |
 | 2 | [raycast](./id/raycast.md) | 11 | 786,734 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,458 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,976 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,466 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,984 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 439,435 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 434,068 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 406,331 |
@@ -2117,25 +2117,26 @@
 | 2107 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
 | 2108 | [meslva](https://www.raycast.com/meslva) | 1 | 1 |
 | 2109 | [petar_yovkov](https://www.raycast.com/petar_yovkov) | 1 | 1 |
-| 2110 | [ruslan-korneev](https://www.raycast.com/ruslan-korneev) | 1 | 1 |
-| 2111 | [sfominx](https://www.raycast.com/sfominx) | 1 | 1 |
-| 2112 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
-| 2113 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
-| 2114 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
-| 2115 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2116 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
-| 2117 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
-| 2118 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
-| 2119 | [defaced](https://www.raycast.com/defaced) | 1 | 0 |
-| 2120 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2121 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2122 | [kays0x](https://www.raycast.com/kays0x) | 1 | 0 |
-| 2123 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2124 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
-| 2125 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2126 | [sharat_visweswara](https://www.raycast.com/sharat_visweswara) | 1 | 0 |
-| 2127 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2128 | github-next | 2 | — |
-| 2129 | buffer | 1 | — |
-| 2130 | multi | 1 | — |
-| 2131 | phibrowser | 1 | — |
+| 2110 | [phibrowser](https://www.raycast.com/phibrowser) | 1 | 1 |
+| 2111 | [ruslan-korneev](https://www.raycast.com/ruslan-korneev) | 1 | 1 |
+| 2112 | [sfominx](https://www.raycast.com/sfominx) | 1 | 1 |
+| 2113 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
+| 2114 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
+| 2115 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
+| 2116 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
+| 2117 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
+| 2118 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
+| 2119 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
+| 2120 | [dans_huang](https://www.raycast.com/dans_huang) | 1 | 0 |
+| 2121 | [defaced](https://www.raycast.com/defaced) | 1 | 0 |
+| 2122 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2123 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
+| 2124 | [kays0x](https://www.raycast.com/kays0x) | 1 | 0 |
+| 2125 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2126 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
+| 2127 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2128 | [sharat_visweswara](https://www.raycast.com/sharat_visweswara) | 1 | 0 |
+| 2129 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2130 | github-next | 2 | — |
+| 2131 | buffer | 1 | — |
+| 2132 | multi | 1 | — |
