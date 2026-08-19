@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `ca1a2e95c2`
+
+**Added (1):** [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey)
+
 ## 2026-08-19 — upstream `1df4e626a4`
 
 **Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)

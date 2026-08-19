@@ -8,14 +8,14 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [xmok](./id/xmok.md) | 113 | 11,412 |
+| 1 | [xmok](./id/xmok.md) | 114 | 11,412 |
 | 2 | [koinzhang](./id/koinzhang.md) | 50 | 254,170 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 90,650 |
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 164,986 |
 | 5 | [alexi.build](./id/alexi-build.md) | 17 | 1,782 |
 | 6 | [Aayush9029](./id/aayush9029.md) | 16 | 150,322 |
 | 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,634 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,103,809 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,103,810 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 299,310 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,080 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,262 |
@@ -390,7 +390,7 @@
 | 380 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 3 |
 | 381 | github-next | 2 | — |
 | 382 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,532 |
-| 383 | [Codely](https://www.raycast.com/Codely) | 1 | 497,036 |
+| 383 | [Codely](https://www.raycast.com/Codely) | 1 | 497,038 |
 | 384 | [linear](https://www.raycast.com/linear) | 1 | 344,815 |
 | 385 | [mommertf](https://www.raycast.com/mommertf) | 1 | 287,101 |
 | 386 | [nhojb](https://www.raycast.com/nhojb) | 1 | 255,891 |

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,103,809 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,103,810 |
 | 2 | [raycast](./id/raycast.md) | 11 | 786,913 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,532 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 497,036 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 497,038 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 439,553 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 434,172 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 406,486 |
@@ -155,7 +155,7 @@
 | 145 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 11,777 |
 | 146 | [nyatinte](https://www.raycast.com/nyatinte) | 1 | 11,608 |
 | 147 | [xmorse](https://www.raycast.com/xmorse) | 5 | 11,451 |
-| 148 | [xmok](./id/xmok.md) | 113 | 11,412 |
+| 148 | [xmok](./id/xmok.md) | 114 | 11,412 |
 | 149 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,225 |
 | 150 | [crickford](https://www.raycast.com/crickford) | 1 | 11,097 |
 | 151 | [reboot](https://www.raycast.com/reboot) | 1 | 11,095 |

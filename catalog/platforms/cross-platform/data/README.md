@@ -1,8 +1,8 @@
 # Cross-platform · Data
 
-85 extensions · [← Cross-platform](../README.md)
+86 extensions · [← Cross-platform](../README.md)
 
-[Converters & Encoders](#converters-encoders) (7) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (1) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (3) · [Trackers & Monitors](#trackers-monitors) (4) · [Text Processing](#text-processing) (3) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (6) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (10) · [General](#general) (20)
+[Converters & Encoders](#converters-encoders) (7) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (1) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (3) · [Trackers & Monitors](#trackers-monitors) (4) · [Text Processing](#text-processing) (3) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (6) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (10) · [General](#general) (21)
 
 ## Transform & Generate
 
@@ -176,3 +176,4 @@
 | [Tabstack](https://github.com/raycast/extensions/tree/main/extensions/tabstack) | 3 | Read, research, and act on the web from your keyboard. Powered by Tabstack. | tessak22 | macOS, Windows | [store](https://www.raycast.com/tessak22/tabstack) |
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 2 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 0 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
+| [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | — | Get product details from DigiKey | xmok | macOS, Windows | — |

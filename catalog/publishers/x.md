@@ -15,7 +15,7 @@
 | [xiaoluoboding](https://www.raycast.com/xiaoluoboding) | 1 | 474 | **Productivity:** [One Tab Group](https://github.com/raycast/extensions/tree/main/extensions/one-tab-group) |
 | [xilopaint](./id/xilopaint.md) | 10 | 19,793 | [see all 10 →](./id/xilopaint.md) |
 | [xjo_nd](https://www.raycast.com/xjo_nd) | 3 | 5,315 | **Web:** [Comet](https://github.com/raycast/extensions/tree/main/extensions/comet)<br>**Productivity:** [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview)<br>**Media:** [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) |
-| [xmok](./id/xmok.md) | 113 | 11,412 | [see all 113 →](./id/xmok.md) |
+| [xmok](./id/xmok.md) | 114 | 11,412 | [see all 114 →](./id/xmok.md) |
 | [xmorse](https://www.raycast.com/xmorse) | 5 | 11,451 | **System:** [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac)<br>**Productivity:** [Synonyms](https://github.com/raycast/extensions/tree/main/extensions/synonyms), [Split Video Scenes](https://github.com/raycast/extensions/tree/main/extensions/split-video-scenes), [Crisp](https://github.com/raycast/extensions/tree/main/extensions/crisp)<br>**Developer Tools:** [Spiceblow - Sql Database Management](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) |
 | [xoshbin](https://www.raycast.com/xoshbin) | 1 | 34 | **Other:** [RTL Reader](https://github.com/raycast/extensions/tree/main/extensions/rtl-reader) |
 | [xulobeats](https://www.raycast.com/xulobeats) | 1 | 75 | **Developer Tools:** [Shelve](https://github.com/raycast/extensions/tree/main/extensions/shelve) |
