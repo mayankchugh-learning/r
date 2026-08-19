@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,160 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
+| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,161 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
 | [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,600 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,009 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
 | [Coin Caster](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) | 158 | Get the price for any crypto asset in Raycast | chase_manning | macOS | [store](https://www.raycast.com/chase_manning/coin-caster) |
@@ -48,7 +48,7 @@
 | [DEX Screener](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) | 337 | Search token pair in dexscreener.com | wp-lai | macOS | [store](https://www.raycast.com/wp-lai/dex-screener) |
 | [Blockchain Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) | 315 | Track and caculate blockchain gas fees right in your Raycast! | Vonernue | macOS | [store](https://www.raycast.com/Vonernue/blockchain-gas-tracker) |
 | [Mempool](https://github.com/raycast/extensions/tree/main/extensions/mempool) | 155 | Get current bitcoin mempool information | dillionverma | macOS | [store](https://www.raycast.com/dillionverma/mempool) |
-| [Vortex](https://github.com/raycast/extensions/tree/main/extensions/vortex) | 121 | The fastest way to use bitcoin on macOS | saunter | macOS | [store](https://www.raycast.com/saunter/vortex) |
+| [Vortex](https://github.com/raycast/extensions/tree/main/extensions/vortex) | 122 | The fastest way to use bitcoin on macOS | saunter | macOS | [store](https://www.raycast.com/saunter/vortex) |
 | [Aave Contract Search](https://github.com/raycast/extensions/tree/main/extensions/aave-search) | 30 | Quickly search and access official Aave ecosystem smart contract addresses across multiple networks | smbdy | macOS | [store](https://www.raycast.com/smbdy/aave-search) |
 | [DolarCripto AR](https://github.com/raycast/extensions/tree/main/extensions/dolar-cripto-ar) | 22 | DolarCripto AR es una extensión para Raycast que te permite visualizar en tiempo real las cotizaciones de los diferentes dólares en Argentina (CCL, MEP y Blue)… | manuel_de_la_torre | macOS, Windows | [store](https://www.raycast.com/manuel_de_la_torre/dolar-cripto-ar) |
 | [Pera Algorand Explorer](https://github.com/raycast/extensions/tree/main/extensions/pera-explorer) | 18 | Search any ASA or NFT in Algorand (ALGO) Blockchain | akgunberk | macOS | [store](https://www.raycast.com/akgunberk/pera-explorer) |

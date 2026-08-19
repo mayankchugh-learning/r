@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,545 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
-| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 106,621 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
-| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 11,341 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,568 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 106,644 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
+| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 11,348 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 9,037 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
-| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 4,754 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
-| [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,573 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
+| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 4,759 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
+| [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,575 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
 | [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 1,946 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,590 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
 | [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,381 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
@@ -25,5 +25,5 @@
 | [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 63 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 51 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 36 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
-| [Better Screenshoot](https://github.com/raycast/extensions/tree/main/extensions/better-screenshoot) | 22 | Capture your screen with a built-in editor from Raycast. | sriverogalan | macOS | [store](https://www.raycast.com/sriverogalan/better-screenshoot) |
+| [Better Screenshoot](https://github.com/raycast/extensions/tree/main/extensions/better-screenshoot) | 23 | Capture your screen with a built-in editor from Raycast. | sriverogalan | macOS | [store](https://www.raycast.com/sriverogalan/better-screenshoot) |
 | [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) | 3 | Capture, translate, and manage screenshots with ScreenLex. | chunkithwang | macOS | [store](https://www.raycast.com/chunkithwang/screenlex) |

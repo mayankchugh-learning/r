@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,114 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
-| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 5,890 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
+| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,115 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
+| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 5,892 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
 | [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,277 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
 | [Remember This](https://github.com/raycast/extensions/tree/main/extensions/remember-this) | 1,726 | Remember This is an app designed to help you stay motivated and focused on completing your work by its due date. Simply enter any information, such as tasks, n… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/remember-this) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 202 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |

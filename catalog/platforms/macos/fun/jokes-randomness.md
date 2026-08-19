@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,561 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,564 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 4,629 | Get a random dad joke | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
 | [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) | 2,134 | Quickly and easily make random decisions or generate a random number | yonbergman | macOS, Windows | [store](https://www.raycast.com/yonbergman/dice-and-coin) |
 | [Developer Excuses](https://github.com/raycast/extensions/tree/main/extensions/developer-excuse) | 1,893 | Insert a random developer excuse for not doing your work. | niemtec | macOS | [store](https://www.raycast.com/niemtec/developer-excuse) |
@@ -21,16 +21,16 @@
 | [Roll D20](https://github.com/raycast/extensions/tree/main/extensions/roll-d20) | 372 | Rolls a d20, in other words, displays a random number between 1 and 20. | kayla | macOS | [store](https://www.raycast.com/kayla/roll-d20) |
 | [Random Text Picker](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) | 368 | Pick a random item from a list by entering multiple text inputs, ala Wheel of Names | ezzylan | macOS | [store](https://www.raycast.com/ezzylan/random-text-picker) |
 | [Evil Insult](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) | 299 | Generate Evil Insults | j3lte | macOS | [store](https://www.raycast.com/j3lte/evil-insult) |
-| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 253 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
+| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 254 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
 | [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts) | 200 | Get facts about numbers, dates, and years | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/number-facts) |
 | [Chuck Norris Facts](https://github.com/raycast/extensions/tree/main/extensions/chuck-norris-facts) | 177 | This extension uses the chucknorris.io site which is a free JSON API for hand curated Chuck Norris facts. | jorgecortesdev | macOS | [store](https://www.raycast.com/jorgecortesdev/chuck-norris-facts) |
 | [Advice Slip](https://github.com/raycast/extensions/tree/main/extensions/advice-slip) | 164 | Get a random advice slip | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/advice-slip) |
 | [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images) | 161 | Get a random photo of a dog. | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/dog-images) |
 | [Designer Excuses](https://github.com/raycast/extensions/tree/main/extensions/designer-excuses) | 160 | Designer Excuses is a playful Raycast extension that generates lighthearted, witty excuses for designers | shreeram | macOS | [store](https://www.raycast.com/shreeram/designer-excuses) |
-| [Bored](https://github.com/raycast/extensions/tree/main/extensions/bored) | 148 | Let's find you something to do! | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/bored) |
+| [Bored](https://github.com/raycast/extensions/tree/main/extensions/bored) | 149 | Let's find you something to do! | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/bored) |
 | [Duck Facts](https://github.com/raycast/extensions/tree/main/extensions/duck-facts) | 97 | Displays interesting facts about ducks. | validate | macOS | [store](https://www.raycast.com/validate/duck-facts) |
 | [Cat Images](https://github.com/raycast/extensions/tree/main/extensions/get-cat-images) | 92 | Fetch random cat images | luiggircardoso | macOS | [store](https://www.raycast.com/luiggircardoso/get-cat-images) |
-| [The Lord of the Rings](https://github.com/raycast/extensions/tree/main/extensions/lotr) | 90 | Books, Characters, Movies and Quotes via The One API | xmok | macOS | [store](https://www.raycast.com/xmok/lotr) |
+| [The Lord of the Rings](https://github.com/raycast/extensions/tree/main/extensions/lotr) | 91 | Books, Characters, Movies and Quotes via The One API | xmok | macOS | [store](https://www.raycast.com/xmok/lotr) |
 | [40 Questions - Yearly Reflection](https://github.com/raycast/extensions/tree/main/extensions/40-questions) | 73 | Questions to ask yourself at the end of each year | dnnsmnstrr | macOS, Windows | [store](https://www.raycast.com/dnnsmnstrr/40-questions) |
 | [Tabletop Dice Roller](https://github.com/raycast/extensions/tree/main/extensions/tabletop-dice-roller) | 49 | Quickly roll a set of dice. | sam_duemler | macOS, Windows | [store](https://www.raycast.com/sam_duemler/tabletop-dice-roller) |
 | [Metaphorpsum](https://github.com/raycast/extensions/tree/main/extensions/metaphorpsum) | 41 | An extension for generating random text from the metaphorpsum API. | jsumnersmith | macOS | [store](https://www.raycast.com/jsumnersmith/metaphorpsum) |

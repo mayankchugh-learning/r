@@ -29,11 +29,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 45,092 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,051 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 45,101 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,054 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 6,016 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,407 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
-| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 394 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
+| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 395 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 | [Read Later](https://github.com/raycast/extensions/tree/main/extensions/later) | 382 | Read your tabs later | jimluo | macOS | [store](https://www.raycast.com/jimluo/later) |
 | [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) | 302 | Get instant access to 1000+ premium Udemy courses for FREE with verified coupons. Updated hourly. Learn programming, design, business, marketing & more. Save $… | dharmendra | macOS, Windows | [store](https://www.raycast.com/dharmendra/udemy-coupons) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 217 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |

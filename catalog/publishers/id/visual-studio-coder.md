@@ -1,6 +1,6 @@
 # Visual-Studio-Coder
 
-16 extensions · 25,632 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
+16 extensions · 25,634 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
 
 ## Productivity (1)
 
@@ -13,7 +13,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 7,394 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
-| [Markdown Table Generator](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) | 1,525 | Specify your width and height, and receive a markdown table that you can input your own values into. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/markdown-table-generator) |
+| [Markdown Table Generator](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) | 1,526 | Specify your width and height, and receive a markdown table that you can input your own values into. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/markdown-table-generator) |
 
 ## Uncategorized (1)
 
@@ -35,7 +35,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Metronome](https://github.com/raycast/extensions/tree/main/extensions/metronome) | 1,043 | Based on an input (integer argument) BPM, you can get a metronome that plays a sound after a certain amount of time. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/metronome) |
+| [Metronome](https://github.com/raycast/extensions/tree/main/extensions/metronome) | 1,044 | Based on an input (integer argument) BPM, you can get a metronome that plays a sound after a certain amount of time. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/metronome) |
 | [Schoology - Grade Viewer](https://github.com/raycast/extensions/tree/main/extensions/schoology) | 105 | View your courselists, grades, graphs, and individual assignments quickly using Raycast. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/schoology) |
 
 ## Web (2)

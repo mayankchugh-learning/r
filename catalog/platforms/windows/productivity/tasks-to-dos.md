@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 85,447 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,273 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
-| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,026 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
-| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,460 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
+| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 85,469 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,279 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,027 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,461 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 726 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 109 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) | 89 | Search for tasks & projects and log time in awork. | hypercode (org) | macOS, Windows | [store](https://www.raycast.com/hypercode/awork) |
@@ -17,7 +17,7 @@
 | [Backlog.md Manager](https://github.com/raycast/extensions/tree/main/extensions/backlog-md-manager) | 42 | Manage Backlog.md tasks from Raycast — create, browse, search, edit, and change status across multiple projects using the backlog CLI. | nicholas_ferguson | macOS, Windows | [store](https://www.raycast.com/nicholas_ferguson/backlog-md-manager) |
 | [SingularityApp](https://github.com/raycast/extensions/tree/main/extensions/singularityapp) | 28 | Check your SingularityApp tasks and add new ones quickly | alikhil | macOS, Windows | [store](https://www.raycast.com/alikhil/singularityapp) |
 | [Habitica ToDos](https://github.com/raycast/extensions/tree/main/extensions/habitica-todos) | 24 | Unofficial extension to view and create ToDo's for Habitica | Sacrachan | Windows, macOS | [store](https://www.raycast.com/Sacrachan/habitica-todos) |
-| [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 14 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |
+| [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 15 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |
 | [Dida365](https://github.com/raycast/extensions/tree/main/extensions/dida365) | 9 | Control Dida365 tasks from Raycast on Windows. | ctacta621 | macOS, Windows | [store](https://www.raycast.com/ctacta621/dida365) |
 | [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) | 7 | Manage Habitify habits from Raycast. | razz13 | macOS, Windows | [store](https://www.raycast.com/razz13/habitify-raycast) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 6 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |

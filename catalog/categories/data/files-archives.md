@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,545 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
-| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,356 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 117,568 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,358 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
 | [Compress PDF](https://github.com/raycast/extensions/tree/main/extensions/compress-pdf) | 5,704 | Compress PDF files | felixhaeberle | macOS | [store](https://www.raycast.com/felixhaeberle/compress-pdf) |
 | [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) | 4,898 | List, Search and Download Files using the Raycast Extension for Dropbox. | chyroc | macOS | [store](https://www.raycast.com/chyroc/the-blue-cloud) |
 | [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,384 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
-| [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,710 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
+| [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,712 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
 | [DuckDuckGo Image Search](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-image-search) | 634 | Search Images inside Raycast by DuckDuckGo Image! | jag-k | macOS, Windows | [store](https://www.raycast.com/jag-k/duckduckgo-image-search) |
 | [Dot Underscore Files Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dot-underscore-files-cleaner) | 574 | Delete ._ files in the selected folder and its subfolders. | danulqua | macOS | [store](https://www.raycast.com/danulqua/dot-underscore-files-cleaner) |
 | [pCloud](https://github.com/raycast/extensions/tree/main/extensions/pcloud) | 335 | Search your pCloud through API and use pCloud Drive to open files and folders in Finder | xela92 | macOS | [store](https://www.raycast.com/xela92/pcloud) |
