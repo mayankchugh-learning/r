@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,103,556 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,103,570 |
 | 2 | [raycast](./id/raycast.md) | 11 | 786,734 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,431 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,949 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,447 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,959 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 439,435 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 434,068 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 406,331 |
@@ -22,7 +22,7 @@
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 254,020 |
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 247,234 |
 | 14 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 239,449 |
-| 15 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 238,287 |
+| 15 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 238,289 |
 | 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 209,997 |
 | 17 | [destiner](https://www.raycast.com/destiner) | 9 | 208,227 |
 | 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 183,190 |
@@ -225,7 +225,7 @@
 | 215 | [lin](https://www.raycast.com/lin) | 3 | 6,273 |
 | 216 | [chrismessina](./id/chrismessina.md) | 15 | 6,259 |
 | 217 | [ChrisChinchilla](https://www.raycast.com/ChrisChinchilla) | 1 | 6,241 |
-| 218 | [theo_daguier](https://www.raycast.com/theo_daguier) | 2 | 6,208 |
+| 218 | [theo_daguier](https://www.raycast.com/theo_daguier) | 2 | 6,209 |
 | 219 | [agustin.prats](https://www.raycast.com/agustin.prats) | 1 | 6,193 |
 | 220 | [steffenble](https://www.raycast.com/steffenble) | 1 | 6,182 |
 | 221 | [HerbertLu](https://www.raycast.com/HerbertLu) | 4 | 6,147 |

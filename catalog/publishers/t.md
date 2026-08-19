@@ -42,7 +42,7 @@
 | [that70schris](https://www.raycast.com/that70schris) | 1 | 412 | **System:** [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour) |
 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 107,029 | **Productivity:** [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) |
 | [the_revolution](https://www.raycast.com/the_revolution) | 1 | 573 | **Media:** [ShareX](https://github.com/raycast/extensions/tree/main/extensions/sharex) |
-| [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 238,287 | **Web:** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)<br>**Productivity:** [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) |
+| [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 238,289 | **Web:** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)<br>**Productivity:** [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) |
 | [the3ash](https://www.raycast.com/the3ash) | 2 | 1,805 | **Applications:** [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer)<br>**Web:** [Surge Outbound Switcher](https://github.com/raycast/extensions/tree/main/extensions/surge-outbound-switcher) |
 | [theapache64](https://www.raycast.com/theapache64) | 1 | 715 | **Developer Tools:** [Percentage Calculator](https://github.com/raycast/extensions/tree/main/extensions/percentage-calculator) |
 | [thebrokenfinger](https://www.raycast.com/thebrokenfinger) | 1 | 257 | **Web:** [Plausible Analytics](https://github.com/raycast/extensions/tree/main/extensions/plausible-analytics) |
@@ -54,7 +54,7 @@
 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 3 | **Developer Tools:** [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions), [PuTTY Sessions](https://github.com/raycast/extensions/tree/main/extensions/putty-sessions) |
 | [TheNitai](https://www.raycast.com/TheNitai) | 1 | 17 | **Media:** [Razuna - Add and Browse Files in Razuna](https://github.com/raycast/extensions/tree/main/extensions/razuna) |
 | [theo_brlle](https://www.raycast.com/theo_brlle) | 1 | 720 | **Documentation:** [Markdown to Jira](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-jira) |
-| [theo_daguier](https://www.raycast.com/theo_daguier) | 2 | 6,208 | **Productivity:** [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming)<br>**Fun:** [ASCII Art Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/ascii-art-wallpaper) |
+| [theo_daguier](https://www.raycast.com/theo_daguier) | 2 | 6,209 | **Productivity:** [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming)<br>**Fun:** [ASCII Art Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/ascii-art-wallpaper) |
 | [theo_marin](https://www.raycast.com/theo_marin) | 1 | 94 | **Applications:** [Stashpad Docs](https://github.com/raycast/extensions/tree/main/extensions/stashpad-docs) |
 | [Theon](https://www.raycast.com/Theon) | 1 | 3,503 | **Developer Tools:** [Get SSH Key](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) |
 | [theplgeek](https://www.raycast.com/theplgeek) | 1 | 405 | **Security:** [AdGuard Home](https://github.com/raycast/extensions/tree/main/extensions/adguard-home) |
@@ -65,7 +65,7 @@
 | [thijsdewitt](https://www.raycast.com/thijsdewitt) | 1 | 146 | **Developer Tools:** [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) |
 | [third774](https://www.raycast.com/third774) | 3 | 61,245 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,500 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,103,556 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,103,570 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 36 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 56,264 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,542 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
