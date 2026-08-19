@@ -1,6 +1,6 @@
 # andreaselia
 
-10 extensions · 3,803 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
+10 extensions · 3,805 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
 
 ## Data (7)
 
@@ -18,11 +18,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 517 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
+| [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 518 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
 | [Disney](https://github.com/raycast/extensions/tree/main/extensions/disney) | 125 | Explore information about your beloved Disney characters by searching for them. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/disney) |
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [2FA Directory](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) | 273 | View a list of 2FA enabled sites. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/2fa-directory) |
+| [2FA Directory](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) | 274 | View a list of 2FA enabled sites. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/2fa-directory) |
