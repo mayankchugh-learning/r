@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,774 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
+| [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,774 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS, Windows | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
 | [Android](https://github.com/raycast/extensions/tree/main/extensions/android) | 1,284 | Useful Android commands to list projects and emulators | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android) |
 | [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) | 1,227 | Mirror android device screen with scrcpy | zcfan | macOS | [store](https://www.raycast.com/zcfan/scrcpy) |
 | [Android Debug Bridge (Adb) Commands](https://github.com/raycast/extensions/tree/main/extensions/adb) | 1,045 | Run useful adb commands | Quentin23Soleil | macOS | [store](https://www.raycast.com/Quentin23Soleil/adb) |
