@@ -74,7 +74,7 @@
 | [Groundhog Day](https://github.com/raycast/extensions/tree/main/extensions/groundhog-day) | 22 | Free, accurate, and portable data on prognosticating groundhogs and their yearly predictions | xmok | macOS | [store](https://www.raycast.com/xmok/groundhog-day) |
 | [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | 18 | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |
 | [NicNames](https://github.com/raycast/extensions/tree/main/extensions/nicnames) | 10 | Transparency with no surprises. Web3-friendly. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/nicnames) |
-| [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | — | Get product details from DigiKey | xmok | macOS, Windows | — |
+| [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | 0 | Get product details from DigiKey | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/digikey) |
 
 ## Developer Tools (34)
 

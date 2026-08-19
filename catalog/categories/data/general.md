@@ -70,4 +70,4 @@
 | [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) | 3 | Inspect Kobbe analytics from Raycast. | michael_Andreuzza | macOS, Windows | [store](https://www.raycast.com/michael_andreuzza/kobbe) |
 | [Tabstack](https://github.com/raycast/extensions/tree/main/extensions/tabstack) | 3 | Read, research, and act on the web from your keyboard. Powered by Tabstack. | tessak22 | macOS, Windows | [store](https://www.raycast.com/tessak22/tabstack) |
 | [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) | 1 | Helper tools for Tibia including NPC prices, Rashid location, and imbuement guides | kjbakke | macOS | [store](https://www.raycast.com/kjbakke/tibia-helper) |
-| [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | — | Get product details from DigiKey | xmok | macOS, Windows | — |
+| [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | 0 | Get product details from DigiKey | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/digikey) |

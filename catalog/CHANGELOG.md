@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `8a3933e600`
+
+**Updated (1):** [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion)
+
 ## 2026-08-19 — upstream `ca1a2e95c2`
 
 **Added (1):** [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey)

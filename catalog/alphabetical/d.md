@@ -175,4 +175,4 @@
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 2 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 2 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
 | [Dondori](https://github.com/raycast/extensions/tree/main/extensions/dondori) | 1 | Control Dondori: today's tasks, quick add, timers, and window shortcuts. | ruslan-korneev | macOS | [store](https://www.raycast.com/ruslan-korneev/dondori) |
-| [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | — | Get product details from DigiKey | xmok | macOS, Windows | — |
+| [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | 0 | Get product details from DigiKey | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/digikey) |
