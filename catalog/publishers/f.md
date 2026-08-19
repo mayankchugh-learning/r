@@ -56,7 +56,7 @@
 | [flexorflex](https://www.raycast.com/flexorflex) | 1 | 42 | **Productivity:** [Vikunja Task Manager](https://github.com/raycast/extensions/tree/main/extensions/vikunja) |
 | [FlohGro](https://www.raycast.com/FlohGro) | 1 | 7,256 | **Applications:** [Drafts](https://github.com/raycast/extensions/tree/main/extensions/drafts) |
 | [FlorianWendelborn](https://www.raycast.com/FlorianWendelborn) | 1 | 86 | **Data:** [Dota 2](https://github.com/raycast/extensions/tree/main/extensions/dota-2) |
-| [florisdobber](https://www.raycast.com/florisdobber) | 1 | 32,308 | **Productivity:** [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) |
+| [florisdobber](https://www.raycast.com/florisdobber) | 1 | 32,311 | **Productivity:** [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) |
 | [flornkm](https://www.raycast.com/flornkm) | 1 | 2,288 | **Developer Tools:** [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) |
 | [fma16](https://www.raycast.com/fma16) | 1 | 20 | **Finance:** [French Company Search](https://github.com/raycast/extensions/tree/main/extensions/french-company-search) |
 | [fmiras](https://www.raycast.com/fmiras) | 1 | 17 | **Applications:** [Decentraland](https://github.com/raycast/extensions/tree/main/extensions/decentraland) |

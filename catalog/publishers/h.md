@@ -62,7 +62,7 @@
 | [humanfriend22](https://www.raycast.com/humanfriend22) | 1 | 4 | **Productivity:** [Thermostats](https://github.com/raycast/extensions/tree/main/extensions/thermostats) |
 | [Humber](https://www.raycast.com/Humber) | 1 | 941 | **Applications:** [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) |
 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 | **Applications:** [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) |
-| [HunterJi](https://www.raycast.com/HunterJi) | 2 | 2,319 | **Design Tools:** [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator)<br>**Developer Tools:** [AI Code Namer](https://github.com/raycast/extensions/tree/main/extensions/ai-code-namer) |
+| [HunterJi](https://www.raycast.com/HunterJi) | 2 | 2,320 | **Design Tools:** [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator)<br>**Developer Tools:** [AI Code Namer](https://github.com/raycast/extensions/tree/main/extensions/ai-code-namer) |
 | [huseyint](https://www.raycast.com/huseyint) | 1 | 327 | **Documentation:** [.NET Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) |
 | [huskii](https://www.raycast.com/huskii) | 1 | 173 | **Documentation:** [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack) |
 | [husnainfareed](https://www.raycast.com/husnainfareed) | 1 | 1,102 | **Productivity:** [Rename Images with AI](https://github.com/raycast/extensions/tree/main/extensions/rename-images-with-ai) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9fd1748c20bd0c26f856440f1452cf12e0342ef5",
-  "generatedAt": "2026-08-19T07:02:24.839Z",
-  "downloadsRefreshedAt": "2026-08-19T07:02:24.146Z",
+  "commit": "556e91f64f49860a695c5006630a0ccf0ad3c004",
+  "generatedAt": "2026-08-19T07:41:59.430Z",
+  "downloadsRefreshedAt": "2026-08-19T07:41:58.594Z",
   "count": 3192,
   "extensions": [
     {
@@ -2102,7 +2102,7 @@
       "store": "https://www.raycast.com/HunterJi/app-icon-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator",
       "treeSha": "3a3efa46ee0cfa67896a8cf3c8f5d60962cda24a",
-      "downloads": 1774
+      "downloads": 1775
     },
     {
       "dir": "app-keeper-manager",
@@ -8037,7 +8037,7 @@
       "store": "https://www.raycast.com/florisdobber/claude",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/claude",
       "treeSha": "c8fbaab3f542864c06e8dc3aabd36d7071b34f3c",
-      "downloads": 32308
+      "downloads": 32311
     },
     {
       "dir": "claude-artifacts",
@@ -9683,7 +9683,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 507642
+      "downloads": 507678
     },
     {
       "dir": "color-shades",
@@ -21765,7 +21765,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 496915
+      "downloads": 496949
     },
     {
       "dir": "google-chrome-profiles",
@@ -28065,7 +28065,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 666392
+      "downloads": 666431
     },
     {
       "dir": "kimai",
@@ -37821,7 +37821,7 @@
       "store": "https://www.raycast.com/marcjulian/obsidian",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian",
       "treeSha": "69789edc7a7ca5ee36bbf65643d467844232e444",
-      "downloads": 150844
+      "downloads": 150856
     },
     {
       "dir": "obsidian-bookmarks",
@@ -48325,7 +48325,7 @@
       ],
       "store": "https://www.raycast.com/theo_daguier/renaming",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/renaming",
-      "treeSha": "d751db3e1f49345d07b4287750d2e3b3441e66eb",
+      "treeSha": "924f4fc86c45d01cb69df490a89f59c8567df8e6",
       "downloads": 6058
     },
     {
@@ -65471,10 +65471,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": "https://www.raycast.com/adil.dev/xcodes",
+      "store": "https://www.raycast.com/pacadil/xcodes",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/xcodes",
       "treeSha": "8b89fc32d48601b90e38ac1bc533c5a10207b4f2",
-      "downloads": 629
+      "downloads": 0
     },
     {
       "dir": "xecutor",
