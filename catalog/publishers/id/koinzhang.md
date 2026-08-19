@@ -15,7 +15,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,419 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
-| [Short.io](https://github.com/raycast/extensions/tree/main/extensions/short-io) | 1,170 | Shorten and search links with your own domain via Short.io | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/short-io) |
+| [Short.io](https://github.com/raycast/extensions/tree/main/extensions/short-io) | 1,170 | Shorten and search links with your own domain via Short.io | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/short-io) |
 
 ### APIs & Networking
 

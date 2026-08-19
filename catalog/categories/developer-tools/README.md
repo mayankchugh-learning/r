@@ -2,7 +2,7 @@
 
 1099 extensions · [← all categories](../README.md)
 
-macOS: 1088 · Windows: 301
+macOS: 1088 · Windows: 302
 
 ## Code & Collaboration
 
