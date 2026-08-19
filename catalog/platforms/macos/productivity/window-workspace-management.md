@@ -49,4 +49,4 @@
 | [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 2 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
 | [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) | 1 | Search and control live Phi Spaces and tabs. | phibrowser | macOS | [store](https://www.raycast.com/phibrowser/phi) |
-| [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) | 0 | Turn unused application menu space into your current focus | dans_huang | macOS | [store](https://www.raycast.com/dans_huang/menucloak) |
+| [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) | — | Turn unused application menu space into your current focus | dans_huang | macOS | — |

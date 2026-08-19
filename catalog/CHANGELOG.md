@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `da03411168`
+
+**Updated (1):** [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders)
+
 ## 2026-08-19 — upstream `0c8d1043eb`
 
 **Added (1):** [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak)
