@@ -41,7 +41,7 @@
 | [nextwalkerovo](https://www.raycast.com/nextwalkerovo) | 1 | 78 | **Data:** [Query.Domains](https://github.com/raycast/extensions/tree/main/extensions/query-domains) |
 | [nghia_luong](https://www.raycast.com/nghia_luong) | 1 | 46 | **Productivity:** [ShiftPlus](https://github.com/raycast/extensions/tree/main/extensions/shiftplus) |
 | [ngoquocdat](https://www.raycast.com/ngoquocdat) | 1 | 64 | **Developer Tools:** [TablePro](https://github.com/raycast/extensions/tree/main/extensions/tablepro) |
-| [nhojb](https://www.raycast.com/nhojb) | 1 | 255,832 | **Developer Tools:** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) |
+| [nhojb](https://www.raycast.com/nhojb) | 1 | 255,834 | **Developer Tools:** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) |
 | [niall-maloney](https://www.raycast.com/niall-maloney) | 1 | 3,385 | **Developer Tools:** [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) |
 | [niallpaterson](https://www.raycast.com/niallpaterson) | 1 | 1,075 | **Productivity:** [Jira Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/jira-time-tracking) |
 | [nicholas_ferguson](https://www.raycast.com/nicholas_ferguson) | 1 | 42 | **Developer Tools:** [Backlog.md Manager](https://github.com/raycast/extensions/tree/main/extensions/backlog-md-manager) |
@@ -76,7 +76,7 @@
 | [noppefoxwolf](https://www.raycast.com/noppefoxwolf) | 1 | 1,399 | **Developer Tools:** [Simulator Control](https://github.com/raycast/extensions/tree/main/extensions/simctl) |
 | [NormC](https://www.raycast.com/NormC) | 3 | 789 | **System:** [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail)<br>**Uncategorized:** [Parse Logs](https://github.com/raycast/extensions/tree/main/extensions/parse-logs)<br>**Applications:** [Finicky Rule Manager](https://github.com/raycast/extensions/tree/main/extensions/finicky-rule-manager) |
 | [noss](https://www.raycast.com/noss) | 1 | 14 | **Design Tools:** [Mobbin Search](https://github.com/raycast/extensions/tree/main/extensions/mobbin) |
-| [notion](https://www.raycast.com/notion) | 1 | 247,221 | **Applications:** [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) |
+| [notion](https://www.raycast.com/notion) | 1 | 247,234 | **Applications:** [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) |
 | [nuno_costa](https://www.raycast.com/nuno_costa) | 1 | 62 | **Developer Tools:** [Create Remix](https://github.com/raycast/extensions/tree/main/extensions/raycast-create-remix) |
 | [nunotomas](https://www.raycast.com/nunotomas) | 1 | 198 | **Developer Tools:** [IsDown](https://github.com/raycast/extensions/tree/main/extensions/isdown) |
 | [nurkamol](https://www.raycast.com/nurkamol) | 2 | 362 | **Developer Tools:** [Redirect Trace](https://github.com/raycast/extensions/tree/main/extensions/redirect-trace), [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) |

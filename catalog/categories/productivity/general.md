@@ -5,12 +5,12 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 438,364 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
-| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 125,266 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
+| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 125,270 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,810 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
-| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,911 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
+| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,913 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
 | [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 51,079 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
 | [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 44,588 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
-| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 40,719 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
+| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 40,720 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 39,724 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 38,675 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 33,812 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
@@ -52,7 +52,7 @@
 | [Elgato Key Light](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) | 3,000 | Control your Elgato Key Lights with ease | thomas | macOS | [store](https://www.raycast.com/thomas/elgato-key-light) |
 | [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel) | 2,901 | Allow Parcel users to see upcoming and active deliveries | marcmagn1 | macOS, Windows | [store](https://www.raycast.com/marcmagn1/parcel) |
 | [Time-Traveling World Clock](https://github.com/raycast/extensions/tree/main/extensions/time-traveling-world-clock) | 2,783 | A world clock that enables you to scrub across time and see the corresponding time across various cities. | marky | macOS, Windows | [store](https://www.raycast.com/marky/world-clock) |
-| [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) | 2,642 | Control Yabai using Raycast. Requires yabai to be installed. | krzysztoff1 | macOS | [store](https://www.raycast.com/krzysztoff1/yabai) |
+| [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) | 2,643 | Control Yabai using Raycast. Requires yabai to be installed. | krzysztoff1 | macOS | [store](https://www.raycast.com/krzysztoff1/yabai) |
 | [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,599 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
 | [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh) | 2,599 | Smart, instant terminal session management. | joshmedeski | macOS | [store](https://www.raycast.com/joshmedeski/sesh) |
 | [dict.cc](https://github.com/raycast/extensions/tree/main/extensions/dict-cc) | 2,509 | Simple translation using dict.cc | natterstefan | macOS, Windows | [store](https://www.raycast.com/natterstefan/dict-cc) |
@@ -62,7 +62,7 @@
 | [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,363 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
 | [ImageOptim](https://github.com/raycast/extensions/tree/main/extensions/imageoptim) | 2,340 | Compress images with ImageOptim | marckohlbrugge | macOS | [store](https://www.raycast.com/marckohlbrugge/imageoptim) |
 | [Palette Colors](https://github.com/raycast/extensions/tree/main/extensions/palette-colors) | 2,279 | Pick nice palette colors directly from Raycast | douglas-pires | macOS | [store](https://www.raycast.com/douglas-pires/palette-colors) |
-| [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) | 2,151 | Visibility control of your macbook's notch | zkondor | macOS | [store](https://www.raycast.com/zkondor/znotch) |
+| [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) | 2,152 | Visibility control of your macbook's notch | zkondor | macOS | [store](https://www.raycast.com/zkondor/znotch) |
 | [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,099 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
 | [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,081 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
 | [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 2,015 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |

@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 666,326 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,886 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 666,388 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 159,892 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,501 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 60,810 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
 | [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 23,602 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
@@ -32,7 +32,7 @@
 | [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq) | 3,075 | Use the powerful models via Groq from the comfort of Raycast. | ilian | macOS | [store](https://www.raycast.com/ilian/groq) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,815 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Apple Devices](https://github.com/raycast/extensions/tree/main/extensions/apple-devices) | 2,770 | Quickly look up Apple Devices and control Simulators | madza | macOS | [store](https://www.raycast.com/madza/apple-devices) |
-| [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) | 2,642 | Control Yabai using Raycast. Requires yabai to be installed. | krzysztoff1 | macOS | [store](https://www.raycast.com/krzysztoff1/yabai) |
+| [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) | 2,643 | Control Yabai using Raycast. Requires yabai to be installed. | krzysztoff1 | macOS | [store](https://www.raycast.com/krzysztoff1/yabai) |
 | [Tower Repositories](https://github.com/raycast/extensions/tree/main/extensions/tower) | 2,389 | Navigate and open your repositories in Tower. | tdwesten | macOS | [store](https://www.raycast.com/tdwesten/tower) |
 | [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,363 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
 | [Binary Tools](https://github.com/raycast/extensions/tree/main/extensions/bintools) | 1,905 | A calculator for binary, decimal, hex and octal numbers. | frostplexx | macOS | [store](https://www.raycast.com/frostplexx/bintools) |
@@ -246,5 +246,5 @@
 | [Yerd](https://github.com/raycast/extensions/tree/main/extensions/yerd) | 2 | Manage Yerd sites, PHP versions, services, databases, mail and diagnostics from Raycast. | kylekanderson | macOS | [store](https://www.raycast.com/kylekanderson/yerd) |
 | [Clerk](https://github.com/raycast/extensions/tree/main/extensions/clerk) | 1 | Interface with Clerk | filiph | macOS, Windows | [store](https://www.raycast.com/filiph/clerk) |
 | [Mule Secure Properties](https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties) | 1 | Encrypt and decrypt MuleSoft secure property values with the official Secure Properties Tool. | stiven_gonzalez | macOS, Windows | [store](https://www.raycast.com/stiven_gonzalez/mule-secure-properties) |
-| [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) | — | Manage Lume virtual machines on Apple Silicon | sharat_visweswara | macOS | — |
+| [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) | 0 | Manage Lume virtual machines on Apple Silicon | sharat_visweswara | macOS | [store](https://www.raycast.com/sharat_visweswara/lume) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

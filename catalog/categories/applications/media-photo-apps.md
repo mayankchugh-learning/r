@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 106,621 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
-| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 11,340 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
+| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 11,341 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
 | [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) | 513 | Quickly create records in Capture with Raycast. | syhchen | macOS | [store](https://www.raycast.com/syhchen/capture) |
 | [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 63 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 36 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |

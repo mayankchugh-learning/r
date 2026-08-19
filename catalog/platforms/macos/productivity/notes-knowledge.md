@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 247,221 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 247,234 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
 | [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 150,844 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
 | [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,451 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 15,904 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
@@ -35,7 +35,7 @@
 | [Specify](https://github.com/raycast/extensions/tree/main/extensions/specify) | 734 | Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc. | AllanM | macOS | [store](https://www.raycast.com/AllanM/specify) |
 | [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 711 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
 | [Readwise to Tana](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) | 699 | Copy Readwise highlights to Tana | believer | macOS | [store](https://www.raycast.com/believer/readwise-to-tana) |
-| [Twos](https://github.com/raycast/extensions/tree/main/extensions/twos) | 589 | Capture and organize your lists, to-dos, notes, and reminders in Twos. | parker_klein | macOS, Windows | [store](https://www.raycast.com/parker_klein/twos) |
+| [Twos](https://github.com/raycast/extensions/tree/main/extensions/twos) | 590 | Capture and organize your lists, to-dos, notes, and reminders in Twos. | parker_klein | macOS, Windows | [store](https://www.raycast.com/parker_klein/twos) |
 | [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) | 577 | Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. \| Set your Owledge workspace at: https://search.owledge.app \| Documentat… | Romain | macOS | [store](https://www.raycast.com/Romain/owledge-raycast) |
 | [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) | 539 | Take notes through Raycast in UpNote. | ujjwal1998 | macOS | [store](https://www.raycast.com/ujjwal1998/upnote) |
 | [RescueTime](https://github.com/raycast/extensions/tree/main/extensions/rescuetime-focus-session-trigger) | 509 | Commands to get the most out of RescueTime. Start and stop Focus Sessions, get your daily highlights, goals, alerts, log offline time, and more. | TuorTheBlessed | macOS | [store](https://www.raycast.com/TuorTheBlessed/rescuetime-focus-session-trigger) |

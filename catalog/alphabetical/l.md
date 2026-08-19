@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 344,621 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
+| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 344,647 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 96,501 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 10,035 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
 | [Library Genesis](https://github.com/raycast/extensions/tree/main/extensions/library-genesis) | 9,089 | Search books on Library Genesis and directly download them. | yz3440 | macOS | [store](https://www.raycast.com/yz3440/library-genesis) |
@@ -41,7 +41,7 @@
 | [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 679 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
 | [Lark AppLink](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) | 665 | Open Lark AppLink | chyroc | macOS | [store](https://www.raycast.com/chyroc/lark-applink) |
 | [LetMeGoogleThat](https://github.com/raycast/extensions/tree/main/extensions/let-me-google-that) | 665 | LetMeGoogleThat is a Raycast extension that generates links to the popular 'Let Me Google That For You' website. With just a few clicks, you can create a custo… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/let-me-google-that) |
-| [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 647 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
+| [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 648 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 630 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [Linkding](https://github.com/raycast/extensions/tree/main/extensions/linkding) | 610 | Manage Linkding through Raycast | InteractiveNinja | macOS | [store](https://www.raycast.com/InteractiveNinja/linkding) |
 | [Link Bundles](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) | 571 | Efficiently manage and launch groups of links in specific Chrome profiles. | toni_birka | macOS | [store](https://www.raycast.com/toni_birka/link-bundles) |
@@ -127,4 +127,4 @@
 | [List by FullForms](https://github.com/raycast/extensions/tree/main/extensions/list-by-fullforms) | 7 | Search, add, and edit abbreviations, full forms, and glossary terms from Raycast. | mithunmathew | macOS, Windows | [store](https://www.raycast.com/mithunmathew/list-by-fullforms) |
 | [Lattice Scholar Extension](https://github.com/raycast/extensions/tree/main/extensions/lattice-scholar-extension) | 5 | Search your Lattice literature library from Raycast | frank-miao | macOS | [store](https://www.raycast.com/frank-miao/lattice-scholar-extension) |
 | [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) | 4 | Search, filter, and open links from your LinkAce instance | zisoft | macOS | [store](https://www.raycast.com/zisoft/linkace-search) |
-| [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) | — | Manage Lume virtual machines on Apple Silicon | sharat_visweswara | macOS | — |
+| [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) | 0 | Manage Lume virtual machines on Apple Silicon | sharat_visweswara | macOS | [store](https://www.raycast.com/sharat_visweswara/lume) |

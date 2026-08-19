@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `6d79f274f5`
+
+**Updated (1):** [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude)
+
 ## 2026-08-19 — upstream `1dbb00dd40`
 
 **Updated (1):** [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy)

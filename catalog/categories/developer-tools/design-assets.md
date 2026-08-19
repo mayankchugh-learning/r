@@ -27,7 +27,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 46,590 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
+| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 46,593 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
 | [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 41,055 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS | [store](https://www.raycast.com/kawamataryo/tinypng) |
 | [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 2,015 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |
 | [CodeSnap](https://github.com/raycast/extensions/tree/main/extensions/codesnap) | 1,711 | Creates a beautiful image of your code snippet | Mokkapps | macOS | [store](https://www.raycast.com/Mokkapps/codesnap) |

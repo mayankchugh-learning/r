@@ -14,7 +14,7 @@
 | [Apple Developer Docs](https://github.com/raycast/extensions/tree/main/extensions/apple-developer-docs) | 2,166 | Search from the Apple Developer documentations | cali | macOS | [store](https://www.raycast.com/cali/apple-developer-docs) |
 | [PHP Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/php-docs) | 1,906 | Quickly search through official PHP documentation | comes | macOS | [store](https://www.raycast.com/comes/php-docs) |
 | [Search Astro Documentation](https://github.com/raycast/extensions/tree/main/extensions/search-astro-docs) | 754 | Search the Astro Documentation right from Raycast | ElianCodes | macOS | [store](https://www.raycast.com/ElianCodes/search-astro-docs) |
-| [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 647 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
+| [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 648 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
 | [MUI Documentation](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) | 539 | Search the online MUI documentation. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/mui-documentation) |
 | [Spatie Documentation](https://github.com/raycast/extensions/tree/main/extensions/spatie-documentation) | 498 | Spatie Documentation Search | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/spatie-documentation) |
 | [Filament](https://github.com/raycast/extensions/tree/main/extensions/filamentphp-doc-seach) | 410 | Documentation Search | aurawindsurfing | macOS | [store](https://www.raycast.com/aurawindsurfing/filament) |

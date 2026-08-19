@@ -55,7 +55,7 @@
 | [jiri_krystof_jedlicka](https://www.raycast.com/jiri_krystof_jedlicka) | 1 | 67 | **Fun:** [Pi Drill](https://github.com/raycast/extensions/tree/main/extensions/pi-drill) |
 | [JiriTrecak](https://www.raycast.com/JiriTrecak) | 1 | 614 | **Design Tools:** [Supernova](https://github.com/raycast/extensions/tree/main/extensions/supernova) |
 | [jlokos](https://www.raycast.com/jlokos) | 2 | 2,340 | **Communication:** [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman), [Zero](https://github.com/raycast/extensions/tree/main/extensions/zero) |
-| [jlrochin](https://www.raycast.com/jlrochin) | 1 | 11,715 | **System:** [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) |
+| [jlrochin](https://www.raycast.com/jlrochin) | 1 | 11,727 | **System:** [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) |
 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 30,834 | **Developer Tools:** [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) |
 | [jns](https://www.raycast.com/jns) | 4 | 1,915 | **Communication:** [NATO Phonetic Alphabet](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet), [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya)<br>**System:** [SABnzbd](https://github.com/raycast/extensions/tree/main/extensions/sabnzbd)<br>**Productivity:** [Comodoro](https://github.com/raycast/extensions/tree/main/extensions/comodoro) |
 | [joao.mainka](https://www.raycast.com/joao.mainka) | 1 | 18,928 | **Productivity:** [Timezone Converter](https://github.com/raycast/extensions/tree/main/extensions/timezone-converter) |

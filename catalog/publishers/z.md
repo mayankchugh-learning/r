@@ -26,7 +26,7 @@
 | [zett-8](https://www.raycast.com/zett-8) | 1 | 134 | **Documentation:** [Scrapbox Search](https://github.com/raycast/extensions/tree/main/extensions/scrapbox-search) |
 | [zhassulan_abdrakhmanov](https://www.raycast.com/zhassulan_abdrakhmanov) | 1 | 364 | **Developer Tools:** [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) |
 | [zisoft](https://www.raycast.com/zisoft) | 1 | 4 | **Web:** [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) |
-| [zkondor](https://www.raycast.com/zkondor) | 1 | 2,151 | **System:** [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) |
+| [zkondor](https://www.raycast.com/zkondor) | 1 | 2,152 | **System:** [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) |
 | [zoffyzhang](https://www.raycast.com/zoffyzhang) | 1 | 70 | **Finance:** [Fluctuation](https://github.com/raycast/extensions/tree/main/extensions/fluctuation) |
 | [ZooHero](https://www.raycast.com/ZooHero) | 1 | 365 | **Developer Tools:** [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) |
 | [zrr1999](https://www.raycast.com/zrr1999) | 2 | 258 | **Uncategorized:** [Commit Message Formatter](https://github.com/raycast/extensions/tree/main/extensions/commit-message-formatter), [Usememos](https://github.com/raycast/extensions/tree/main/extensions/usememos) |

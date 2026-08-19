@@ -1,6 +1,6 @@
 # raycast
 
-11 extensions · 786,732 downloads · [store](https://www.raycast.com/raycast) · [← publishers](../README.md)
+11 extensions · 786,734 downloads · [store](https://www.raycast.com/raycast) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 136,451 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 103,640 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
-| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,911 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
+| [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 59,913 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
 | [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 53,423 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
 | [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,460 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 

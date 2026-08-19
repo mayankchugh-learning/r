@@ -179,7 +179,7 @@
 | [astroboii47](https://www.raycast.com/astroboii47) | 1 | 242 | **Productivity:** [Blip](https://github.com/raycast/extensions/tree/main/extensions/blip-raycast) |
 | [astronight](https://www.raycast.com/astronight) | 1 | 1,441 | **Developer Tools:** [Snippet Surfer](https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer) |
 | [astroon](https://www.raycast.com/astroon) | 1 | 95 | **Finance:** [Envato Sales, Purchases and Search](https://github.com/raycast/extensions/tree/main/extensions/envato) |
-| [asubbotin](https://www.raycast.com/asubbotin) | 2 | 167,159 | **Productivity:** [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro)<br>**Developer Tools:** [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) |
+| [asubbotin](https://www.raycast.com/asubbotin) | 2 | 167,163 | **Productivity:** [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro)<br>**Developer Tools:** [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) |
 | [Atiipik](https://www.raycast.com/Atiipik) | 1 | 317 | **Developer Tools:** [Pixels to Viewport Width or Height](https://github.com/raycast/extensions/tree/main/extensions/convert-px-to-vw-vh) |
 | [atkinsmatt101](https://www.raycast.com/atkinsmatt101) | 1 | 257 | **Finance:** [Mercury](https://github.com/raycast/extensions/tree/main/extensions/mercury) |
 | [atsushi_kawamura](https://www.raycast.com/atsushi_kawamura) | 2 | 183 | **Productivity:** [Copy Notion Markdown Link](https://github.com/raycast/extensions/tree/main/extensions/copy-notion-markdown-link), [No More Caffeine](https://github.com/raycast/extensions/tree/main/extensions/no-more-caffeine) |

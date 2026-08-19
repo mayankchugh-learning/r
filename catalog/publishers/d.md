@@ -113,7 +113,7 @@
 | [djabarovgeorge](https://www.raycast.com/djabarovgeorge) | 1 | 211 | **Documentation:** [Novu](https://github.com/raycast/extensions/tree/main/extensions/novu) |
 | [djpowers](https://www.raycast.com/djpowers) | 4 | 25,841 | **Applications:** [Apple Maps Search](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search)<br>**Documentation:** [DevDocs](https://github.com/raycast/extensions/tree/main/extensions/devdocs)<br>**Developer Tools:** [Libraries.io](https://github.com/raycast/extensions/tree/main/extensions/libraries-io)<br>**Productivity:** [MBTA Tracker](https://github.com/raycast/extensions/tree/main/extensions/mbta-tracker) |
 | [dleteliers_](https://www.raycast.com/dleteliers_) | 1 | 1,297 | **Developer Tools:** [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) |
-| [dmacdermott](https://www.raycast.com/dmacdermott) | 1 | 1,241 | **Productivity:** [Jisho - Japanese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/jisho) |
+| [dmacdermott](https://www.raycast.com/dmacdermott) | 1 | 1,242 | **Productivity:** [Jisho - Japanese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/jisho) |
 | [dmitry_fisenko](https://www.raycast.com/dmitry_fisenko) | 1 | 144 | **Fun:** [Quoterism](https://github.com/raycast/extensions/tree/main/extensions/quoterism) |
 | [dmytro_sheleh](https://www.raycast.com/dmytro_sheleh) | 1 | 8 | **Applications:** [Near Rewards](https://github.com/raycast/extensions/tree/main/extensions/near-rewards) |
 | [dnlfrst](https://www.raycast.com/dnlfrst) | 1 | 265 | **Productivity:** [Outline Document Search](https://github.com/raycast/extensions/tree/main/extensions/outline-document-search) |

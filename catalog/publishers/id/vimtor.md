@@ -1,6 +1,6 @@
 # vimtor
 
-15 extensions · 299,261 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
+15 extensions · 299,262 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
 
 ## Applications (5)
 
@@ -41,7 +41,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 647 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
+| [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 648 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
 
 ## Data (3)
 

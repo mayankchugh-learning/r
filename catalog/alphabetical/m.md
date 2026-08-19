@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 88,981 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 88,982 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
 | [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 45,092 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
 | [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,450 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry) | 36,657 | Find and install MCP servers in Raycast and other MCP clients like Claude or Cursor. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/model-context-protocol-registry) |
@@ -16,7 +16,7 @@
 | [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,561 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Microsoft Edge](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) | 13,035 | Search open tabs, bookmarks, collections and history in Microsoft Edge. | KartikKumarSahoo | macOS | [store](https://www.raycast.com/KartikKumarSahoo/microsoft-edge) |
 | [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) | 12,460 | Search and open tabs from bookmarks and history in Mozilla Firefox. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/mozilla-firefox) |
-| [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | 11,715 | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |
+| [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | 11,727 | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |
 | [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) | 11,222 | Markdown documentation at your fingertips | codedbyjordan | macOS, Windows | [store](https://www.raycast.com/codedbyjordan/markdown-reference) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 9,037 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
 | [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,565 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
@@ -35,7 +35,7 @@
 | [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) | 2,459 | Download videos from YouTube and other services through yt-dlp using MeTube. | dot | macOS, Windows | [store](https://www.raycast.com/dot/metube) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,418 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
 | [Markdown to Plain Text](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-plain-text) | 2,162 | Convert Markdown-formatted text to plain text format for quick viewing and editing. | skyline-123 | macOS, Windows | [store](https://www.raycast.com/skyline-123/markdown-to-plain-text) |
-| [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) | 2,151 | Visibility control of your macbook's notch | zkondor | macOS | [store](https://www.raycast.com/zkondor/znotch) |
+| [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) | 2,152 | Visibility control of your macbook's notch | zkondor | macOS | [store](https://www.raycast.com/zkondor/znotch) |
 | [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 2,015 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |
 | [macOSIcons.com](https://github.com/raycast/extensions/tree/main/extensions/macosicons) | 2,003 | Raycast extension for browsing and applying icons from macOSicons.com | shldk | macOS | [store](https://www.raycast.com/shldk/macosicons) |
 | [Multilinks](https://github.com/raycast/extensions/tree/main/extensions/multilinks) | 1,890 | Open multiple links at once | abhisheksatre | macOS | [store](https://www.raycast.com/abhisheksatre/multilinks) |

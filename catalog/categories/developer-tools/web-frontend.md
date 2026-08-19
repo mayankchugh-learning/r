@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,199 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
-| [SVGR](https://github.com/raycast/extensions/tree/main/extensions/svgr) | 2,421 | Paste in SVG code. Get a react component. | rickMcGavin | macOS | [store](https://www.raycast.com/rickMcGavin/svgr) |
+| [SVGR](https://github.com/raycast/extensions/tree/main/extensions/svgr) | 2,422 | Paste in SVG code. Get a react component. | rickMcGavin | macOS | [store](https://www.raycast.com/rickMcGavin/svgr) |
 | [Antd](https://github.com/raycast/extensions/tree/main/extensions/antd-open-browser) | 728 | Quickly open Antd components | crazyair | macOS | [store](https://www.raycast.com/crazyair/antd-open-browser) |
 | [Chakra UI Documentation](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) | 676 | Provide quick links to the Chakra UI component documentation. | pgvr | macOS | [store](https://www.raycast.com/pgvr/chakra-ui-docs) |
 | [Supernova](https://github.com/raycast/extensions/tree/main/extensions/supernova) | 614 | Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in yo… | JiriTrecak | macOS | [store](https://www.raycast.com/JiriTrecak/supernova) |

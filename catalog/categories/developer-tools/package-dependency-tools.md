@@ -51,7 +51,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 255,832 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 255,834 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
 | [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,138 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
 | [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,127 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
 | [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 266 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |

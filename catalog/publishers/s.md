@@ -67,7 +67,7 @@
 | [shak](https://www.raycast.com/shak) | 1 | 91 | **Productivity:** [Unpackr](https://github.com/raycast/extensions/tree/main/extensions/unpackr) |
 | [shakedlokits](https://www.raycast.com/shakedlokits) | 1 | 3,045 | **Productivity:** [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) |
 | [shameemreza](https://www.raycast.com/shameemreza) | 1 | 15 | **Developer Tools:** [Woo Marketplace Search](https://github.com/raycast/extensions/tree/main/extensions/woo-marketplace-search) |
-| sharat_visweswara | 1 | — | **Developer Tools:** [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) |
+| [sharat_visweswara](https://www.raycast.com/sharat_visweswara) | 1 | 0 | **Developer Tools:** [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) |
 | [sharker_alice_sharker](https://www.raycast.com/sharker_alice_sharker) | 2 | 239 | **Developer Tools:** [Hephaestus - JSON Tools](https://github.com/raycast/extensions/tree/main/extensions/hephaestus)<br>**News:** [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) |
 | [ShawYoungTang](https://www.raycast.com/ShawYoungTang) | 1 | 491 | **Productivity:** [Quick Web](https://github.com/raycast/extensions/tree/main/extensions/quick-web) |
 | [shayneo](https://www.raycast.com/shayneo) | 1 | 140 | **Developer Tools:** [Big-O](https://github.com/raycast/extensions/tree/main/extensions/big-o) |
@@ -164,7 +164,7 @@
 | [suv](https://www.raycast.com/suv) | 1 | 553 | **Applications:** [Instapaper](https://github.com/raycast/extensions/tree/main/extensions/instapaper) |
 | [sven](https://www.raycast.com/sven) | 4 | 36,145 | **Applications:** [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams), [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling), [Salesforce Search](https://github.com/raycast/extensions/tree/main/extensions/salesforce-search)<br>**Productivity:** [Jira Search](https://github.com/raycast/extensions/tree/main/extensions/jira-search) |
 | [svenhofman](https://www.raycast.com/svenhofman) | 1 | 3,929 | **Productivity:** [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) |
-| [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 15,158 | **Developer Tools:** [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) |
+| [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 15,159 | **Developer Tools:** [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) |
 | [swayam_mehta](https://www.raycast.com/swayam_mehta) | 2 | 1,467 | **Developer Tools:** [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder)<br>**Other:** [Bhagavad Gita Quotes](https://github.com/raycast/extensions/tree/main/extensions/bhagavad-gita-quotes) |
 | [sxn](https://www.raycast.com/sxn) | 1 | 2,024 | **Productivity:** [Fork Repositories](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) |
 | [syhchen](https://www.raycast.com/syhchen) | 1 | 513 | **Applications:** [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) |
