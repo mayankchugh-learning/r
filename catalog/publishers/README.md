@@ -1,6 +1,6 @@
 # Publishers
 
-2130 publishers · [← catalog index](../README.md)
+2131 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -2138,3 +2138,4 @@
 | 2128 | github-next | 2 | — |
 | 2129 | buffer | 1 | — |
 | 2130 | multi | 1 | — |
+| 2131 | phibrowser | 1 | — |

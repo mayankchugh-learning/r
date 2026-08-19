@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-85 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+86 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -44,6 +44,7 @@
 | [pgvr](https://www.raycast.com/pgvr) | 1 | 676 | **Developer Tools:** [Chakra UI Documentation](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) |
 | [pgyogesh](https://www.raycast.com/pgyogesh) | 2 | 66 | **Communication:** [Phonetic Typing](https://github.com/raycast/extensions/tree/main/extensions/phonetic-typing)<br>**Uncategorized:** [Standing Desk Tracker](https://github.com/raycast/extensions/tree/main/extensions/standing-desk-tracker) |
 | [ph00lt0](https://www.raycast.com/ph00lt0) | 1 | 293 | **Security:** [Privileges](https://github.com/raycast/extensions/tree/main/extensions/privileges) |
+| phibrowser | 1 | — | **Applications:** [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) |
 | [philibea](https://www.raycast.com/philibea) | 1 | 165 | **Developer Tools:** [Scaleway](https://github.com/raycast/extensions/tree/main/extensions/scaleway) |
 | [philip_chen](https://www.raycast.com/philip_chen) | 1 | 1,157 | **Uncategorized:** [Sidecar](https://github.com/raycast/extensions/tree/main/extensions/sidecar) |
 | [philipbrembeck](https://www.raycast.com/philipbrembeck) | 1 | 44 | **Other:** [Veganify](https://github.com/raycast/extensions/tree/main/extensions/veganify-application) |

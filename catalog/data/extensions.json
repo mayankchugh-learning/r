@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "512a018aa2e7e04f2bbfb84232604c5065b62519",
-  "generatedAt": "2026-08-19T08:15:53.872Z",
-  "downloadsRefreshedAt": "2026-08-19T08:15:53.583Z",
-  "count": 3193,
+  "commit": "0c3464f83be030a4b38c5506fbd4b5cc93125467",
+  "generatedAt": "2026-08-19T08:17:24.510Z",
+  "downloadsRefreshedAt": "2026-08-19T08:17:23.686Z",
+  "count": 3194,
   "extensions": [
     {
       "dir": "0x0",
@@ -41468,6 +41468,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/phaseo",
       "treeSha": "50bdab733e2343fea106c12607a8f0faca7f33c3",
       "downloads": 0
+    },
+    {
+      "dir": "phi",
+      "name": "phi",
+      "title": "Phi",
+      "description": "Search and control live Phi Spaces and tabs.",
+      "author": "phibrowser",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications",
+        "Productivity",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/phi",
+      "treeSha": "3045ef6ed798b63385a9539a9a9c48dadc7c8ffb",
+      "downloads": null
     },
     {
       "dir": "phind-search",
