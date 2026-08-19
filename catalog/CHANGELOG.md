@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `08f72c3ca1`
+
+**Updated (1):** [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects)
+
 ## 2026-08-19 — upstream `cfd2e7a795`
 
 **Updated (1):** [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cfd2e7a79585d1db37309608ecfc96b43b311234",
-  "generatedAt": "2026-08-19T01:28:33.403Z",
-  "downloadsRefreshedAt": "2026-08-19T01:28:33.008Z",
+  "commit": "08f72c3ca1dae6e7122eb18f45c8ed34d2baf5d0",
+  "generatedAt": "2026-08-19T01:30:45.332Z",
+  "downloadsRefreshedAt": "2026-08-19T01:30:45.102Z",
   "count": 3192,
   "extensions": [
     {
@@ -9682,7 +9682,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 507490
+      "downloads": 507491
     },
     {
       "dir": "color-shades",
@@ -62663,7 +62663,7 @@
       "description": "Control VS Code and compatible editors directly from Raycast",
       "author": "thomas",
       "owner": null,
-      "contributors": 29,
+      "contributors": 30,
       "categories": [
         "Developer Tools",
         "Productivity"
@@ -62675,7 +62675,7 @@
       ],
       "store": "https://www.raycast.com/thomas/visual-studio-code",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects",
-      "treeSha": "a054678d1e82dfea68b1ef3e4ddab0adabb08354",
+      "treeSha": "ebd50f96cd5a5621709ae8301934b210e3f93abf",
       "downloads": 356910
     },
     {
