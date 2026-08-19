@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `0bf8cb52b4`
+
+**Updated (1):** [Raycast Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer)
+
 ## 2026-08-19 — upstream `d765ce0721`
 
 **Updated (1):** [awork](https://github.com/raycast/extensions/tree/main/extensions/awork)

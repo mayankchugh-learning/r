@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 74,411 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
 | [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 46,711 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
-| [Raycast Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer) | 40,740 | Explore snippets, prompts, and custom themes from within Raycast. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/raycast-explorer) |
+| [Raycast Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer) | 40,768 | Explore snippets, prompts, and custom themes from within Raycast. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/raycast-explorer) |
 | [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 37,476 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) | 36,041 | Search your Raindrop.io bookmarks | lardissone | macOS, Windows | [store](https://www.raycast.com/lardissone/raindrop-io) |
 | [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,120 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
