@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3516075410e961df9c090dfaa8ba1f4485b6fc5a",
-  "generatedAt": "2026-08-19T04:47:47.512Z",
-  "downloadsRefreshedAt": "2026-08-19T04:47:46.675Z",
+  "commit": "1dbb00dd40f7a90e895b1746f07201dc87023272",
+  "generatedAt": "2026-08-19T04:48:31.234Z",
+  "downloadsRefreshedAt": "2026-08-19T04:48:30.869Z",
   "count": 3192,
   "extensions": [
     {
@@ -1005,7 +1005,7 @@
       ],
       "store": "https://www.raycast.com/chrismessina/airbuddy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/airbuddy",
-      "treeSha": "2c0132ce8082e890e628a25e6304146f6225146b",
+      "treeSha": "23a381bbbf5039e8151a27d89d6632ac10db14d6",
       "downloads": 8
     },
     {
