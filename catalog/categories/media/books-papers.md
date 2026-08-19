@@ -31,10 +31,10 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,786 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
-| [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,881 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
-| [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,622 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
-| [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,407 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
+| [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,882 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
+| [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,623 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
+| [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,408 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | 482 | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |
 | [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 428 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
-| [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) | 167 | Search and manage books and lists. | hazelhedmine | macOS | [store](https://www.raycast.com/hazelhedmine/hardcover) |
+| [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) | 168 | Search and manage books and lists. | hazelhedmine | macOS | [store](https://www.raycast.com/hazelhedmine/hardcover) |
 | [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) | 38 | Read the latest news of Thrasher Magazine | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/thrasher-magazine) |

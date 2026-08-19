@@ -1,6 +1,6 @@
 # alexi.build
 
-17 extensions · 1,782 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+17 extensions · 1,784 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -21,7 +21,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 274 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 275 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 
 ## Developer Tools (2)
 
@@ -34,7 +34,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 151 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
+| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 152 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
 
 ## Fun (2)
 

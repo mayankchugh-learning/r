@@ -1,15 +1,15 @@
 # ridemountainpig
 
-15 extensions · 15,080 downloads · [store](https://www.raycast.com/ridemountainpig) · [← publishers](../README.md)
+15 extensions · 15,092 downloads · [store](https://www.raycast.com/ridemountainpig) · [← publishers](../README.md)
 
 ## Applications (10)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,473 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,477 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [Raycast MonkeyType Theme Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-monkeytype-theme) | 870 | This "Raycast MonkeyType Theme" extension provides MonkeyType themes for Raycast. | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/raycast-monkeytype-theme) |
-| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 809 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
-| [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 668 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
+| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 810 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
+| [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 669 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [Threads Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/threads-video-downloader) | 317 | Download videos from Threads with ease | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/threads-video-downloader) |
 | [AI by Vercel](https://github.com/raycast/extensions/tree/main/extensions/ai-by-vercel) | 225 | Vercel AI within Raycast | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/ai-by-vercel) |
 | [Quick AirDrop](https://github.com/raycast/extensions/tree/main/extensions/quick-airdrop) | 173 | Trigger the macOS AirDrop sheet for files, URLs, and clipboard contents — straight from Raycast | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/quick-airdrop) |
@@ -21,13 +21,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,868 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
+| [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 4,872 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
 
 ## Documentation (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Manual](https://github.com/raycast/extensions/tree/main/extensions/raycast-manual) | 147 | Browse and search the Raycast Manual without leaving Raycast. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/raycast-manual) |
+| [Raycast Manual](https://github.com/raycast/extensions/tree/main/extensions/raycast-manual) | 149 | Browse and search the Raycast Manual without leaving Raycast. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/raycast-manual) |
 | [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 122 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
 
 ## Design Tools (1)

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,716 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,717 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 364 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [ChangeDetection.io](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) | 217 | Website Change Detection For Clever People | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/changedetection-io) |
 | [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) | 35 | Monitor status pages and check if your favorite services are operational. | alerix | macOS, Windows | [store](https://www.raycast.com/alerix/is-it-alive) |

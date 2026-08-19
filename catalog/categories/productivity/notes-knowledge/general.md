@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,102 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
+| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,105 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
 | [Readwise to Tana](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) | 699 | Copy Readwise highlights to Tana | believer | macOS | [store](https://www.raycast.com/believer/readwise-to-tana) |
 | [RescueTime](https://github.com/raycast/extensions/tree/main/extensions/rescuetime-focus-session-trigger) | 509 | Commands to get the most out of RescueTime. Start and stop Focus Sessions, get your daily highlights, goals, alerts, log offline time, and more. | TuorTheBlessed | macOS | [store](https://www.raycast.com/TuorTheBlessed/rescuetime-focus-session-trigger) |
-| [SupaHabits](https://github.com/raycast/extensions/tree/main/extensions/supahabits) | 309 | Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries | gbarba | macOS | [store](https://www.raycast.com/gbarba/habits) |
+| [SupaHabits](https://github.com/raycast/extensions/tree/main/extensions/supahabits) | 311 | Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries | gbarba | macOS | [store](https://www.raycast.com/gbarba/habits) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 109 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
-| [Heptabase](https://github.com/raycast/extensions/tree/main/extensions/heptabase) | 103 | Connect to Heptabase via MCP to manage your knowledge base | ARui | macOS | [store](https://www.raycast.com/ARui/heptabase) |
+| [Heptabase](https://github.com/raycast/extensions/tree/main/extensions/heptabase) | 104 | Connect to Heptabase via MCP to manage your knowledge base | ARui | macOS | [store](https://www.raycast.com/ARui/heptabase) |
 | [OSRS Wiki](https://github.com/raycast/extensions/tree/main/extensions/osrs-wiki) | 74 | Queries the OSRS Wiki and returns links to relevant articles. | luizkc | macOS | [store](https://www.raycast.com/luizkc/osrs-wiki) |
 | [WeRead Sync](https://github.com/raycast/extensions/tree/main/extensions/weread-sync) | 44 | Sync your highlights from WeRead to Readwise automatically | owen_wang | macOS | [store](https://www.raycast.com/owen_wang/weread-sync) |
 | [Glean Search](https://github.com/raycast/extensions/tree/main/extensions/glean-search) | 15 | Search your company's knowledge base via Glean | faizhasim | macOS | [store](https://www.raycast.com/faizhasim/glean-search) |
