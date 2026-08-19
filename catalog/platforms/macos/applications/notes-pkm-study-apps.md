@@ -2,7 +2,7 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · **Notes, PKM & Study Apps** · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
 
-29 of 363 extensions · [← macOS · Applications](./README.md)
+30 of 364 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -35,3 +35,4 @@
 | [Iridium](https://github.com/raycast/extensions/tree/main/extensions/iridium) | 55 | Search open tabs, bookmarks and history in Iridium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/iridium) |
 | [Accordance](https://github.com/raycast/extensions/tree/main/extensions/accordance) | 25 | Access verses and search Accordance Bible modules from Raycast | entupo | macOS | [store](https://www.raycast.com/entupo/accordance) |
 | [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 18 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
+| [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside) | 0 | Search and control open tabs, bookmarks, and browser history in Aside | asifk | macOS | [store](https://www.raycast.com/asifk/aside) |

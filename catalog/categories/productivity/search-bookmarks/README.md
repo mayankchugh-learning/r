@@ -1,10 +1,10 @@
 # Search & Bookmarks
 
-223 extensions · [← Productivity](../README.md)
+224 extensions · [← Productivity](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
-| [Bookmarks ✦](./bookmarks.md) | 25 |
+| [Bookmarks ✦](./bookmarks.md) | 26 |
 | [History ✦](./history.md) | 12 |
 | [Tabs ✦](./tabs.md) | 5 |
 | [Documentation ✦](./documentation.md) | 15 |

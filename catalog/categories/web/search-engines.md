@@ -1,8 +1,8 @@
 # Search Engines
 
-160 extensions · [← Web](./README.md)
+161 extensions · [← Web](./README.md)
 
-[Bookmarks ✦](#bookmarks) (16) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Explore ✦](#explore) (4) · [Public ✦](#public) (4) · [General](#general) (93)
+[Bookmarks ✦](#bookmarks) (17) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Explore ✦](#explore) (4) · [Public ✦](#public) (4) · [General](#general) (93)
 
 *✦ auto-discovered topic group*
 
@@ -26,6 +26,7 @@
 | [Raycall](https://github.com/raycast/extensions/tree/main/extensions/raycall) | 29 | Semantic bookmark search - save any URL and find it later in natural language. | rithmic | macOS, Windows | [store](https://www.raycast.com/rithmic/raycall) |
 | [TabStash](https://github.com/raycast/extensions/tree/main/extensions/tabstash) | 24 | Search, browse, and capture bookmarks with TabStash | mkhnsn | macOS | [store](https://www.raycast.com/mkhnsn/tabstash) |
 | [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) | 11 | Search, browse, and manage your Keeply bookmarks | rolfkoenders | macOS, Windows | [store](https://www.raycast.com/RolfKoenders/keeply) |
+| [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside) | 0 | Search and control open tabs, bookmarks, and browser history in Aside | asifk | macOS | [store](https://www.raycast.com/asifk/aside) |
 
 ## Google ✦
 

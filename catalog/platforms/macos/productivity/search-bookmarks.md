@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · **Search & Bookmarks** · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-221 of 1429 extensions · [← macOS · Productivity](./README.md)
+222 of 1430 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -226,4 +226,5 @@
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 1 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
 | [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) | 1 | Search CoCart API documentation quickly, copy URLs, or open them in your browser. | cocart_headless | macOS, Windows | [store](https://www.raycast.com/cocart_headless/cocart-docs) |
 | [Swinsian Player](https://github.com/raycast/extensions/tree/main/extensions/swinsian-player) | 1 | Control Swinsian from Raycast. Play, pause, skip tracks, set ratings, search your library, and see what's playing in your menu bar. | deathrashed | macOS | [store](https://www.raycast.com/deathrashed/swinsian-player) |
+| [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside) | 0 | Search and control open tabs, bookmarks, and browser history in Aside | asifk | macOS | [store](https://www.raycast.com/asifk/aside) |
 | [Search Blockchain](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) | — | Search Bitcoin (BTC), Cardano (ADA), EOS, Ethereum (ETH), Monero (XMR), NEO, Ontology (ONT), Polygon (DOT), Solana (SOL), Stellar (XLM), Tron (TRX), XRP and mo… | gutenye | macOS | — |

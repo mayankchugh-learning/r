@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,103,570 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,103,581 |
 | 2 | [raycast](./id/raycast.md) | 11 | 786,734 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,447 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,959 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 666,458 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 496,976 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 439,435 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 434,068 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 406,331 |
@@ -1146,7 +1146,7 @@
 | 1136 | [rafalpetryka](https://www.raycast.com/rafalpetryka) | 1 | 223 |
 | 1137 | [jasonjiong](https://www.raycast.com/jasonjiong) | 1 | 222 |
 | 1138 | [entwine7250](https://www.raycast.com/entwine7250) | 1 | 221 |
-| 1139 | [asifk](https://www.raycast.com/asifk) | 1 | 220 |
+| 1139 | [asifk](https://www.raycast.com/asifk) | 2 | 220 |
 | 1140 | [Infonautica](https://www.raycast.com/Infonautica) | 1 | 220 |
 | 1141 | [yasuhiroyamamoto](https://www.raycast.com/yasuhiroyamamoto) | 1 | 220 |
 | 1142 | [royal-lobster](https://www.raycast.com/Royal-lobster) | 1 | 219 |

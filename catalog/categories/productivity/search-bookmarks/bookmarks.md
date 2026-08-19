@@ -1,6 +1,6 @@
 # Bookmarks ✦
 
-25 extensions · [← Search & Bookmarks](./README.md)
+26 extensions · [← Search & Bookmarks](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -31,3 +31,4 @@
 | [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) | 11 | Search, browse, and manage your Keeply bookmarks | rolfkoenders | macOS, Windows | [store](https://www.raycast.com/RolfKoenders/keeply) |
 | [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) | 9 | Access your FAVORO bookmarks directly from Raycast, even faster | andworksGmbH | macOS, Windows | [store](https://www.raycast.com/andworksGmbH/favoro) |
 | [Sleevy - Manage Your Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/sleevy) | 4 | Add, view, and delete items from Sleevy | onnokh | Windows, macOS | [store](https://www.raycast.com/onnokh/sleevy) |
+| [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside) | 0 | Search and control open tabs, bookmarks, and browser history in Aside | asifk | macOS | [store](https://www.raycast.com/asifk/aside) |

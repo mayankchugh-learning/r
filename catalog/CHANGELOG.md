@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-19 — upstream `512a018aa2`
+
+**Added (1):** [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside)
+
 ## 2026-08-19 — upstream `072bc6809e`
 
 **Updated (1):** [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia)

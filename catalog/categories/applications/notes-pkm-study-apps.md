@@ -1,8 +1,8 @@
 # Notes, PKM & Study Apps
 
-29 extensions · [← Applications](./README.md)
+30 extensions · [← Applications](./README.md)
 
-[Bookmarks ✦](#bookmarks) (15) · [Notes ✦](#notes) (8) · [General](#general) (6)
+[Bookmarks ✦](#bookmarks) (16) · [Notes ✦](#notes) (8) · [General](#general) (6)
 
 *✦ auto-discovered topic group*
 
@@ -25,6 +25,7 @@
 | [Bird](https://github.com/raycast/extensions/tree/main/extensions/bird) | 99 | View your X/Twitter bookmarks and likes using the bird CLI | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/bird) |
 | [Otter Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/otter) | 67 | Companion bookmarking utility for Otter bookmarks | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/otter) |
 | [Iridium](https://github.com/raycast/extensions/tree/main/extensions/iridium) | 55 | Search open tabs, bookmarks and history in Iridium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/iridium) |
+| [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside) | 0 | Search and control open tabs, bookmarks, and browser history in Aside | asifk | macOS | [store](https://www.raycast.com/asifk/aside) |
 
 ## Notes ✦
 

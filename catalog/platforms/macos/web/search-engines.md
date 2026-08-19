@@ -2,7 +2,7 @@
 
 [AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · **Search Engines** · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-160 of 460 extensions · [← macOS · Web](./README.md)
+161 of 461 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -166,3 +166,4 @@
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 6 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
 | [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) | 4 | Search, filter, and open links from your LinkAce instance | zisoft | macOS | [store](https://www.raycast.com/zisoft/linkace-search) |
 | [Portal Wholesale](https://github.com/raycast/extensions/tree/main/extensions/portal-wholesale) | 4 | Search and manage Portal Wholesale brands | nickdichev | macOS | [store](https://www.raycast.com/nickdichev/portal-wholesale) |
+| [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside) | 0 | Search and control open tabs, bookmarks, and browser history in Aside | asifk | macOS | [store](https://www.raycast.com/asifk/aside) |
