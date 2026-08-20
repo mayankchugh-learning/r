@@ -1,12 +1,12 @@
 # Windows extensions
 
-865 extensions · [← all platforms](../README.md)
+866 extensions · [← all platforms](../README.md)
 
 ### Work & Productivity
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 350 |
+| [Productivity](./productivity/README.md) | 351 |
 | [Applications](./applications/README.md) | 82 |
 | [Communication](./communication/README.md) | 53 |
 

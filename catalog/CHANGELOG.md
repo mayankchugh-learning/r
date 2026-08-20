@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-20 — upstream `121e7e7480`
+
+**Updated (1):** [Cook](https://github.com/raycast/extensions/tree/main/extensions/cook)
+
 ## 2026-08-20 — upstream `424cad97f6`
 
 **Updated (1):** [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw)
