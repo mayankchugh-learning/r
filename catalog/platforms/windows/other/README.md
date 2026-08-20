@@ -1,8 +1,8 @@
 # Windows · Other
 
-37 extensions · [← Windows](../README.md)
+38 extensions · [← Windows](../README.md)
 
-[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (3) · [Productivity & Tasks](#productivity-tasks) (1) · [Media & Entertainment](#media-entertainment) (1) · [Language & Translation](#language-translation) (2) · [Travel & Transport](#travel-transport) (4) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (6) · [Communication & Social](#communication-social) (1) · [General](#general) (12)
+[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (3) · [Productivity & Tasks](#productivity-tasks) (1) · [Media & Entertainment](#media-entertainment) (2) · [Language & Translation](#language-translation) (2) · [Travel & Transport](#travel-transport) (4) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (6) · [Communication & Social](#communication-social) (1) · [General](#general) (12)
 
 ## Digital Tools
 
@@ -70,6 +70,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 349 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
 | [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers) | 177 | Easily change between the default Windows wallpapers without changing full themes | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windows-default-wallpapers) |
 
 ### Communication & Social

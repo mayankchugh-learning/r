@@ -1,8 +1,8 @@
 # Cross-platform · Other
 
-35 extensions · [← Cross-platform](../README.md)
+36 extensions · [← Cross-platform](../README.md)
 
-[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Language & Translation](#language-translation) (2) · [Travel & Transport](#travel-transport) (4) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (6) · [Communication & Social](#communication-social) (1) · [General](#general) (12)
+[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Media & Entertainment](#media-entertainment) (1) · [Language & Translation](#language-translation) (2) · [Travel & Transport](#travel-transport) (4) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (6) · [Communication & Social](#communication-social) (1) · [General](#general) (12)
 
 ## Digital Tools
 
@@ -64,6 +64,12 @@
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,267 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
 
 ## Media, Money & Words
+
+### Media & Entertainment
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 349 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
 
 ### Communication & Social
 

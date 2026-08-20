@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,105,324 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,105,648 |
 | 2 | [raycast](./id/raycast.md) | 11 | 787,813 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 667,497 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 497,754 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 667,841 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 498,026 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 439,916 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 434,553 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 406,905 |
@@ -246,7 +246,7 @@
 | 236 | [asportnoy](https://www.raycast.com/asportnoy) | 1 | 5,458 |
 | 237 | [tarikyildizci](https://www.raycast.com/tarikyildizci) | 1 | 5,451 |
 | 238 | [karbassi](https://www.raycast.com/karbassi) | 1 | 5,342 |
-| 239 | [xjo_nd](https://www.raycast.com/xjo_nd) | 3 | 5,323 |
+| 239 | [xjo_nd](https://www.raycast.com/xjo_nd) | 3 | 5,324 |
 | 240 | [treyg](https://www.raycast.com/treyg) | 2 | 5,207 |
 | 241 | [SonicSpark](https://www.raycast.com/SonicSpark) | 1 | 5,163 |
 | 242 | [Francois](https://www.raycast.com/Francois) | 2 | 5,155 |

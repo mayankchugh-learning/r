@@ -1,8 +1,8 @@
 # Windows · Media
 
-82 extensions · [← Windows](../README.md)
+83 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (5) · [Books & Papers](#books-papers) (2) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (3) · [General](#general) (33)
+[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (5) · [Books & Papers](#books-papers) (2) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (33)
 
 ## Listen & Watch
 
@@ -92,6 +92,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,480 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 430 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
+| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 349 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
 | [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 225 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
 
 ### General
