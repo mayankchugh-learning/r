@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 125,662 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
+| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 125,763 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
 | [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) | 28,219 | Control Amphetamine sleep sessions from Raycast | gstvds | macOS | [store](https://www.raycast.com/gstvds/amphetamine) |
 | [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,392 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
 | [Power Management](https://github.com/raycast/extensions/tree/main/extensions/power-management) | 2,334 | Change Power Management Settings of the system | sasivarnan | macOS | [store](https://www.raycast.com/sasivarnan/power-management) |

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,106,424 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,106,491 |
 | 2 | [raycast](./id/raycast.md) | 11 | 788,637 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 668,125 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 498,241 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 668,205 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 498,293 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 440,212 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 434,888 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 407,251 |
@@ -25,7 +25,7 @@
 | 15 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 238,687 |
 | 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 210,756 |
 | 17 | [destiner](https://www.raycast.com/destiner) | 9 | 208,568 |
-| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 183,635 |
+| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 183,736 |
 | 19 | [mblode](https://www.raycast.com/mblode) | 5 | 183,274 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 167,525 |
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 165,291 |

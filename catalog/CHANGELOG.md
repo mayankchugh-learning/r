@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-20 — upstream `361bdb868b`
+
+**Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)
+
 ## 2026-08-20 — upstream `ecebf676f2`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

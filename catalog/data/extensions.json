@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ecebf676f2f96dc325f67434721025ee7f97dde1",
-  "generatedAt": "2026-08-20T07:43:37.185Z",
-  "downloadsRefreshedAt": "2026-08-20T07:43:36.269Z",
+  "commit": "361bdb868bc1098d96a224df20b13b051f05c125",
+  "generatedAt": "2026-08-20T08:23:42.583Z",
+  "downloadsRefreshedAt": "2026-08-20T08:23:40.839Z",
   "count": 3196,
   "extensions": [
     {
@@ -9442,7 +9442,7 @@
       "description": "Prevent the sleep function on your mac",
       "author": "mooxl",
       "owner": null,
-      "contributors": 12,
+      "contributors": 13,
       "categories": [
         "System",
         "Productivity"
@@ -9453,8 +9453,8 @@
       ],
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
-      "treeSha": "f5ac76bb4c5b5a22889e38036708a726163b080d",
-      "downloads": 125662
+      "treeSha": "ecfbd6dcf345e5cc607c1c97e51b1ebf9d30ffca",
+      "downloads": 125763
     },
     {
       "dir": "cognimemo",
@@ -9705,7 +9705,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 509358
+      "downloads": 509425
     },
     {
       "dir": "color-shades",
@@ -21808,7 +21808,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 498241
+      "downloads": 498293
     },
     {
       "dir": "google-chrome-profiles",
@@ -28108,7 +28108,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 668125
+      "downloads": 668205
     },
     {
       "dir": "kimai",
