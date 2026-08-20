@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-72 extensions · [← catalog index](../README.md)
+73 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -78,3 +78,4 @@
 | [e18e Module Replacements](https://github.com/raycast/extensions/tree/main/extensions/e18e-module-replacements) | 7 | Search and browse e18e's curated list of modern npm package replacements. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/e18e-module-replacements) |
 | [English Irregular Verbs](https://github.com/raycast/extensions/tree/main/extensions/english-irregular-verbs) | 7 | Quickly look up English irregular verbs (base, past simple, past participle) with fuzzy search, UK/US variants and optional translations in 16 languages. | oward | macOS, Windows | [store](https://www.raycast.com/oward/english-irregular-verbs) |
 | [ETS2/ATS Profiles](https://github.com/raycast/extensions/tree/main/extensions/ets2-ats-profiles) | 3 | Manage Euro Truck Simulator 2 and American Truck Simulator Profiles directly from Raycast! | yugveer28 | Windows | [store](https://www.raycast.com/yugveer28/ets2-ats-profiles) |
+| [Ego Lite](https://github.com/raycast/extensions/tree/main/extensions/ego-lite) | 0 | Create tabs and search local bookmarks and history in Ego Lite. | luobin | macOS | [store](https://www.raycast.com/luobin/ego-lite) |

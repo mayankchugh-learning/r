@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "64ef671008da880cfc578dca3cf4d46331ed44e0",
-  "generatedAt": "2026-08-20T13:00:25.407Z",
-  "downloadsRefreshedAt": "2026-08-20T13:00:24.754Z",
-  "count": 3196,
+  "commit": "3270667be658afd3ee3c882ac32a696b442a9fba",
+  "generatedAt": "2026-08-20T13:38:57.182Z",
+  "downloadsRefreshedAt": "2026-08-20T13:38:56.384Z",
+  "count": 3197,
   "extensions": [
     {
       "dir": "0x0",
@@ -9705,7 +9705,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 509822
+      "downloads": 509866
     },
     {
       "dir": "color-shades",
@@ -15837,6 +15837,26 @@
       "downloads": 12
     },
     {
+      "dir": "ego-lite",
+      "name": "ego-lite",
+      "title": "Ego Lite",
+      "description": "Create tabs and search local bookmarks and history in Ego Lite.",
+      "author": "luobin",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/luobin/ego-lite",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ego-lite",
+      "treeSha": "7547836893199b7b80dfbb116cb6b3ca25e14e70",
+      "downloads": 0
+    },
+    {
       "dir": "ekstraklasa",
       "name": "ekstraklasa",
       "title": "Ekstraklasa",
@@ -21808,7 +21828,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 498586
+      "downloads": 498617
     },
     {
       "dir": "google-chrome-profiles",
@@ -28108,7 +28128,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 668591
+      "downloads": 668643
     },
     {
       "dir": "kimai",
@@ -62358,7 +62378,7 @@
       "store": "https://www.raycast.com/leyang/vibelet-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/vibelet-search",
       "treeSha": "62cf09775cc360625e58ea7090a4cbce3da3b5d6",
-      "downloads": 27
+      "downloads": 28
     },
     {
       "dir": "video-call-reactions",

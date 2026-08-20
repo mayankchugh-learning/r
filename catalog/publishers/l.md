@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-75 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+76 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -35,7 +35,7 @@
 | [leveragedrobot](https://www.raycast.com/leveragedrobot) | 1 | 1,145 | **Productivity:** [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) |
 | [lewj](https://www.raycast.com/lewj) | 1 | 1,127 | **Other:** [Unifi](https://github.com/raycast/extensions/tree/main/extensions/unifi) |
 | [lex-unix](https://www.raycast.com/lex-unix) | 1 | 314 | **Developer Tools:** [Nix Flake Templates](https://github.com/raycast/extensions/tree/main/extensions/nix-flake-templates) |
-| [leyang](https://www.raycast.com/leyang) | 1 | 27 | **Developer Tools:** [Vibelet Search](https://github.com/raycast/extensions/tree/main/extensions/vibelet-search) |
+| [leyang](https://www.raycast.com/leyang) | 1 | 28 | **Developer Tools:** [Vibelet Search](https://github.com/raycast/extensions/tree/main/extensions/vibelet-search) |
 | [li_jin](https://www.raycast.com/li_jin) | 1 | 74 | **System:** [Blackr](https://github.com/raycast/extensions/tree/main/extensions/blackr) |
 | [liaoyuan_ju](https://www.raycast.com/liaoyuan_ju) | 1 | 118 | **Developer Tools:** [SVGA Player](https://github.com/raycast/extensions/tree/main/extensions/svga-player) |
 | [libaro](https://www.raycast.com/libaro) | 1 | 474 | **Applications:** [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) |
@@ -79,5 +79,6 @@
 | [luke_lin](https://www.raycast.com/luke_lin) | 1 | 4 | **Media:** [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) |
 | [luknl](https://www.raycast.com/luknl) | 1 | 533 | **Web:** [Myanimelist Search](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) |
 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,788 | **Developer Tools:** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) |
+| [luobin](https://www.raycast.com/luobin) | 1 | 0 | **Productivity:** [Ego Lite](https://github.com/raycast/extensions/tree/main/extensions/ego-lite) |
 | [luolei](https://www.raycast.com/luolei) | 2 | 2,397 | **Web:** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep), [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) |
 | [lzybiasia](https://www.raycast.com/lzybiasia) | 1 | 106 | **Uncategorized:** [Expand Video Canvas](https://github.com/raycast/extensions/tree/main/extensions/expand-video-canvas) |

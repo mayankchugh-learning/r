@@ -1,6 +1,6 @@
 # Bookmarks ✦
 
-26 extensions · [← Search & Bookmarks](./README.md)
+27 extensions · [← Search & Bookmarks](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -32,3 +32,4 @@
 | [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) | 9 | Access your FAVORO bookmarks directly from Raycast, even faster | andworksGmbH | macOS, Windows | [store](https://www.raycast.com/andworksGmbH/favoro) |
 | [Sleevy - Manage Your Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/sleevy) | 4 | Add, view, and delete items from Sleevy | onnokh | Windows, macOS | [store](https://www.raycast.com/onnokh/sleevy) |
 | [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside) | 3 | Search and control open tabs, bookmarks, and browser history in Aside | asifk | macOS | [store](https://www.raycast.com/asifk/aside) |
+| [Ego Lite](https://github.com/raycast/extensions/tree/main/extensions/ego-lite) | 0 | Create tabs and search local bookmarks and history in Ego Lite. | luobin | macOS | [store](https://www.raycast.com/luobin/ego-lite) |

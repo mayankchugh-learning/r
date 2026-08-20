@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-20 — upstream `3270667be6`
+
+**Added (1):** [Ego Lite](https://github.com/raycast/extensions/tree/main/extensions/ego-lite)
+
 ## 2026-08-20 — upstream `64ef671008`
 
 **Updated (1):** [Vibelet Search](https://github.com/raycast/extensions/tree/main/extensions/vibelet-search)

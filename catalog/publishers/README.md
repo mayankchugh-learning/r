@@ -1,6 +1,6 @@
 # Publishers
 
-2132 publishers · [← catalog index](../README.md)
+2133 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,107,438 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,107,482 |
 | 2 | [raycast](./id/raycast.md) | 11 | 789,383 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 668,591 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 498,586 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 668,643 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 498,617 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 440,516 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 435,258 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 407,551 |
@@ -1787,16 +1787,16 @@
 | 1777 | [alikhil](https://www.raycast.com/alikhil) | 1 | 28 |
 | 1778 | [david_leibovych](https://www.raycast.com/david_leibovych) | 1 | 28 |
 | 1779 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 28 |
-| 1780 | [Maxime_GUILIANI](https://www.raycast.com/Maxime_GUILIANI) | 1 | 28 |
-| 1781 | [robinradx](https://www.raycast.com/robinradx) | 1 | 28 |
-| 1782 | [tmarice](https://www.raycast.com/tmarice) | 1 | 28 |
-| 1783 | [esteban03](https://www.raycast.com/esteban03) | 2 | 27 |
-| 1784 | [beedhan](https://www.raycast.com/beedhan) | 1 | 27 |
-| 1785 | [davireisvieira](https://www.raycast.com/davireisvieira) | 1 | 27 |
-| 1786 | [dominuskelvin](https://www.raycast.com/dominuskelvin) | 1 | 27 |
-| 1787 | [itsmeonli](https://www.raycast.com/itsmeonli) | 1 | 27 |
-| 1788 | [jbharwood](https://www.raycast.com/jbharwood) | 1 | 27 |
-| 1789 | [leyang](https://www.raycast.com/leyang) | 1 | 27 |
+| 1780 | [leyang](https://www.raycast.com/leyang) | 1 | 28 |
+| 1781 | [Maxime_GUILIANI](https://www.raycast.com/Maxime_GUILIANI) | 1 | 28 |
+| 1782 | [robinradx](https://www.raycast.com/robinradx) | 1 | 28 |
+| 1783 | [tmarice](https://www.raycast.com/tmarice) | 1 | 28 |
+| 1784 | [esteban03](https://www.raycast.com/esteban03) | 2 | 27 |
+| 1785 | [beedhan](https://www.raycast.com/beedhan) | 1 | 27 |
+| 1786 | [davireisvieira](https://www.raycast.com/davireisvieira) | 1 | 27 |
+| 1787 | [dominuskelvin](https://www.raycast.com/dominuskelvin) | 1 | 27 |
+| 1788 | [itsmeonli](https://www.raycast.com/itsmeonli) | 1 | 27 |
+| 1789 | [jbharwood](https://www.raycast.com/jbharwood) | 1 | 27 |
 | 1790 | [tim_gailey](https://www.raycast.com/tim_gailey) | 1 | 27 |
 | 1791 | [yigitefe](https://www.raycast.com/yigitefe) | 1 | 27 |
 | 1792 | [ysrazsingh](https://www.raycast.com/ysrazsingh) | 1 | 27 |
@@ -2133,10 +2133,11 @@
 | 2123 | [defaced](https://www.raycast.com/defaced) | 1 | 0 |
 | 2124 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2125 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 0 |
-| 2126 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2127 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
-| 2128 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2129 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2130 | github-next | 2 | — |
-| 2131 | buffer | 1 | — |
-| 2132 | multi | 1 | — |
+| 2126 | [luobin](https://www.raycast.com/luobin) | 1 | 0 |
+| 2127 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2128 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
+| 2129 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2130 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2131 | github-next | 2 | — |
+| 2132 | buffer | 1 | — |
+| 2133 | multi | 1 | — |
