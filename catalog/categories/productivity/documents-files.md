@@ -1,8 +1,8 @@
 # Documents & Files
 
-123 extensions · [← Productivity](./README.md)
+124 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (28) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Upload ✦](#upload) (13) · [Download ✦](#download) (9) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (5) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (33)
+[Folder ✦](#folder) (28) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Upload ✦](#upload) (13) · [Download ✦](#download) (9) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (33)
 
 *✦ auto-discovered topic group*
 
@@ -126,6 +126,7 @@
 | [Markdown Blog Manager](https://github.com/raycast/extensions/tree/main/extensions/markdown-blog-manager) | 326 | Create, browse and edit your file based Markdown blog. | pyronaur | macOS | [store](https://www.raycast.com/pyronaur/markdown-blog) |
 | [Markdown Image to HTML](https://github.com/raycast/extensions/tree/main/extensions/markdown-image-to-html) | 282 | Transform a Markdown Image to HTML. This allows us to fix image size in Markdown base files. | qeude | macOS | [store](https://www.raycast.com/qeude/markdown-image-to-html) |
 | [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) | 114 | Manage bookmarks using a markdown file as persistence layer | rmartins | macOS | [store](https://www.raycast.com/rmartins/markmarks) |
+| [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 0 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
 
 ## Fuzzy ✦
 

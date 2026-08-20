@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-22 of 349 extensions · [← Windows · Productivity](./README.md)
+23 of 350 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,4 @@
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 9 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
 | [Subnoto - Confidential Electronic Signature](https://github.com/raycast/extensions/tree/main/extensions/subnoto) | 3 | Send and manage documents for electronic signature in Subnoto from Raycast | corentin_mors | macOS, Windows | [store](https://www.raycast.com/corentin_mors/subnoto) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 2 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
+| [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 0 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |

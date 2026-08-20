@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · **Web & Frontend** · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-18 of 302 extensions · [← Windows · Developer Tools](./README.md)
+19 of 303 extensions · [← Windows · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,4 @@
 | [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 19 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
 | [Open Props](https://github.com/raycast/extensions/tree/main/extensions/open-props) | 14 | Search and copy CSS custom properties from the Open Props design system. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/open-props) |
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 8 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
+| [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 0 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |

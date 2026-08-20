@@ -1,8 +1,8 @@
 # Web & Frontend
 
-61 extensions · [← Developer Tools](./README.md)
+62 extensions · [← Developer Tools](./README.md)
 
-[Components ✦](#components) (13) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (9) · [Tabs ✦](#tabs) (4) · [General](#general) (21)
+[Components ✦](#components) (13) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (9) · [Tabs ✦](#tabs) (4) · [General](#general) (22)
 
 *✦ auto-discovered topic group*
 
@@ -96,3 +96,4 @@
 | [Vue Router Docs](https://github.com/raycast/extensions/tree/main/extensions/vue-router-docs) | 58 | Quickly search Vue Router docs from Raycast | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vue-router-docs) |
 | [Next Lens](https://github.com/raycast/extensions/tree/main/extensions/next-lens) | 46 | Scans Next.js routes and provides quick insights in the extension. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/next-lens) |
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 8 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
+| [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 0 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
