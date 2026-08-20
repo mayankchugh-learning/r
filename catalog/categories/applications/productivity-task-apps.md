@@ -1,6 +1,6 @@
 # Productivity & Task Apps
 
-15 extensions · [← Applications](./README.md)
+16 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -19,3 +19,4 @@
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 109 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Pinwork](https://github.com/raycast/extensions/tree/main/extensions/pinwork) | 14 | Manage your tasks with Pinwork - a GTD-inspired task management app | adapting.tech | macOS | [store](https://www.raycast.com/adapting.tech/pinwork) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 6 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |
+| [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) | 0 | Control MenuCloak focus, cloak, and Google Calendar settings | dans_huang | macOS | [store](https://www.raycast.com/dans_huang/menucloak) |

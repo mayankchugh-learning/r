@@ -7,7 +7,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 30 |
-| [Productivity & Task Apps](./productivity-task-apps.md) | 15 |
+| [Productivity & Task Apps](./productivity-task-apps.md) | 16 |
 | [AI & Chat Apps](./ai-chat-apps.md) | 20 |
 | [Reading & Library Apps](./reading-library-apps.md) | 4 |
 | [Content & CMS Apps](./content-cms-apps.md) | 11 |
@@ -39,4 +39,4 @@
 | [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
 | [Launchers & App Control](./launchers-app-control.md) | 46 |
 
-Plus [General](./general.md) — 125 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 124 extensions that don't fit a topic yet.

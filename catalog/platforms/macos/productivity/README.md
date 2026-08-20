@@ -7,7 +7,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Tasks & To-Dos](./tasks-to-dos.md) | 49 |
-| [Calendar & Scheduling](./calendar-scheduling.md) | 22 |
+| [Calendar & Scheduling](./calendar-scheduling.md) | 23 |
 | [Notes & Knowledge](./notes-knowledge.md) | 62 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 25 |
 
@@ -26,7 +26,7 @@
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 27 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 67 |
-| [Window & Workspace Management](./window-workspace-management.md) | 44 |
+| [Window & Workspace Management](./window-workspace-management.md) | 43 |
 | [Search & Bookmarks](./search-bookmarks.md) | 223 |
 
 ## Learn & Collaborate

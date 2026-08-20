@@ -9,7 +9,7 @@ macOS: 1434 · Windows: 351
 | Topic | Extensions |
 | --- | --- |
 | [Tasks & To-Dos](./tasks-to-dos.md) | 49 |
-| [Calendar & Scheduling](./calendar-scheduling.md) | 22 |
+| [Calendar & Scheduling](./calendar-scheduling.md) | 23 |
 | [Notes & Knowledge](./notes-knowledge/README.md) | 62 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 25 |
 
@@ -28,7 +28,7 @@ macOS: 1434 · Windows: 351
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 27 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 68 |
-| [Window & Workspace Management](./window-workspace-management.md) | 51 |
+| [Window & Workspace Management](./window-workspace-management.md) | 50 |
 | [Search & Bookmarks](./search-bookmarks/README.md) | 225 |
 
 ## Learn & Collaborate

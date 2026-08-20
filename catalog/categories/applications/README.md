@@ -9,7 +9,7 @@ macOS: 366 · Windows: 82
 | Topic | Extensions |
 | --- | --- |
 | [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 30 |
-| [Productivity & Task Apps](./productivity-task-apps.md) | 15 |
+| [Productivity & Task Apps](./productivity-task-apps.md) | 16 |
 | [AI & Chat Apps](./ai-chat-apps.md) | 20 |
 | [Reading & Library Apps](./reading-library-apps.md) | 4 |
 | [Content & CMS Apps](./content-cms-apps.md) | 12 |
@@ -49,6 +49,6 @@ macOS: 366 · Windows: 82
 | [API ✦](./api.md) | 4 |
 | [Monitor ✦](./monitor.md) | 4 |
 
-Plus [General](./general.md) — 115 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 114 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

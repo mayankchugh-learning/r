@@ -1,8 +1,8 @@
 # Calendar & Scheduling
 
-22 extensions · [← Productivity](./README.md)
+23 extensions · [← Productivity](./README.md)
 
-[Calendar ✦](#calendar) (11) · [Meeting ✦](#meeting) (8) · [General](#general) (3)
+[Calendar ✦](#calendar) (12) · [Meeting ✦](#meeting) (8) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -21,6 +21,7 @@
 | [Vietnamese Calendar](https://github.com/raycast/extensions/tree/main/extensions/vietnamese-calendar) | 27 | A comprehensive Vietnamese Lunar Calendar for Raycast. View Solar and Lunar dates, check holidays with anniversary counts, and navigate easily with shortcuts. | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/vietnamese-calendar) |
 | [Shape Calendar](https://github.com/raycast/extensions/tree/main/extensions/shape-calendar) | 21 | Plan your active life with Shape Calendar — search, create, and manage your training activities | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/shape-calendar) |
 | [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation) | 8 | Automate Raycast Focus sessions from your calendar. | p2m | macOS | [store](https://www.raycast.com/p2m/focus-automation) |
+| [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) | 0 | Control MenuCloak focus, cloak, and Google Calendar settings | dans_huang | macOS | [store](https://www.raycast.com/dans_huang/menucloak) |
 
 ## Meeting ✦
 
