@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 65,060 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
-| [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) | 9,776 | Disable notifications on your Apple devices | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/do-not-disturb) |
-| [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) | 470 | Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. S… | guelug | macOS | [store](https://www.raycast.com/guelug/seo-lighthouse) |
+| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 65,094 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
+| [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) | 9,784 | Disable notifications on your Apple devices | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/do-not-disturb) |
+| [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) | 471 | Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. S… | guelug | macOS | [store](https://www.raycast.com/guelug/seo-lighthouse) |
 | [Tapo Smart Devices](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices) | 418 | Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes | timrogers | macOS, Windows | [store](https://www.raycast.com/timrogers/raycast-tapo-smart-devices) |
-| [Homey](https://github.com/raycast/extensions/tree/main/extensions/homey) | 407 | Homey Flows & Devices | DominicVonk | macOS, Windows | [store](https://www.raycast.com/DominicVonk/homey) |
+| [Homey](https://github.com/raycast/extensions/tree/main/extensions/homey) | 409 | Homey Flows & Devices | DominicVonk | macOS, Windows | [store](https://www.raycast.com/DominicVonk/homey) |
 | [Control D](https://github.com/raycast/extensions/tree/main/extensions/control-d) | 234 | Quickly view and make changes to your Control D profiles, devices, and more from Raycast. | http.james | macOS | [store](https://www.raycast.com/http.james/control-d) |
 | [Ntfy](https://github.com/raycast/extensions/tree/main/extensions/ntfy) | 190 | Send notifications to your devices using ntfy.sh | wesleycoder | macOS | [store](https://www.raycast.com/wesleycoder/ntfy) |
 | [Send to E-Reader](https://github.com/raycast/extensions/tree/main/extensions/send-to-e-reader) | 168 | Send ebooks to Kobo/Kindle devices through https://send.djazz.se/ | AlanHuang | macOS | [store](https://www.raycast.com/AlanHuang/send-to-e-reader) |

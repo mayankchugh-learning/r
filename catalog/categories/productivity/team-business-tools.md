@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 287,769 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,292 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
-| [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,245 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 288,018 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,296 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
+| [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,246 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
 | [Airtable](https://github.com/raycast/extensions/tree/main/extensions/airtable) | 2,426 | List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. | marks | macOS | [store](https://www.raycast.com/marks/raycast-airtable-extension) |
-| [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,508 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |
-| [Salesforce Search](https://github.com/raycast/extensions/tree/main/extensions/salesforce-search) | 1,089 | Search for Salesforce records like accounts and contacts and dashboards and reports. | sven | macOS | [store](https://www.raycast.com/sven/salesforce) |
+| [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,511 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |
+| [Salesforce Search](https://github.com/raycast/extensions/tree/main/extensions/salesforce-search) | 1,107 | Search for Salesforce records like accounts and contacts and dashboards and reports. | sven | macOS | [store](https://www.raycast.com/sven/salesforce) |
 | [Cacher - Code Snippet Organizer](https://github.com/raycast/extensions/tree/main/extensions/cacher) | 664 | Create and insert personal and team code snippets from anywhere. | cacherapp | macOS | [store](https://www.raycast.com/cacherapp/cacher) |
 | [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 184 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |
 | [Quick Jump](https://github.com/raycast/extensions/tree/main/extensions/quick-jump) | 145 | Quick access to your team's Git repositories, dashboards, databases, and internal tools. | akadir | macOS | [store](https://www.raycast.com/akadir/quick-jump) |
