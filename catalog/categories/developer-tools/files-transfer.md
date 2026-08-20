@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | 4,885 | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
-| [Pick Random](https://github.com/raycast/extensions/tree/main/extensions/pick-random) | 1,073 | Sometimes you need a random character / emojis / number, here is an extension that pick a random something and copy it in the clipboard | MatteoGauthier | macOS | [store](https://www.raycast.com/MatteoGauthier/pick-random-raycast-extension) |
+| [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | 4,891 | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
+| [Pick Random](https://github.com/raycast/extensions/tree/main/extensions/pick-random) | 1,075 | Sometimes you need a random character / emojis / number, here is an extension that pick a random something and copy it in the clipboard | MatteoGauthier | macOS | [store](https://www.raycast.com/MatteoGauthier/pick-random-raycast-extension) |
 | [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) | 151 | Publish the picture in your clipboard to Aliyun oss, and return the URL. | yangxy | macOS | [store](https://www.raycast.com/yangxy/oss) |
 | [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 148 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
 | [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | 111 | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |
@@ -23,24 +23,24 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,168 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
-| [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,193 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
-| [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,636 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
+| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,181 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
+| [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,196 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
+| [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,639 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) | 68 | Open selected Finder file or folder in TextMate | fannarfreyr | macOS | [store](https://www.raycast.com/fannarfreyr/open-in-textmate) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 3,792 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
-| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,421 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
-| [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) | 3,347 | Upload files in a single click | pingdotgg (org) | Windows, macOS | [store](https://www.raycast.com/pingdotgg/uploadthing) |
+| [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 3,796 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
+| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,424 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
+| [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) | 3,350 | Upload files in a single click | pingdotgg (org) | Windows, macOS | [store](https://www.raycast.com/pingdotgg/uploadthing) |
 | [Disk Utility](https://github.com/raycast/extensions/tree/main/extensions/diskutil) | 1,111 | Create, list and delete Apple File System (APFS) disk volumes | stelo | macOS | [store](https://www.raycast.com/stelo/diskutil) |
-| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 595 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
-| [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) | 527 | Quick Raycast actions for Windsurf: open files/folders in Windsurf and manage Windsurf projects. | vikas-bansal | macOS | [store](https://www.raycast.com/vikas-bansal/windsurf) |
+| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 596 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
+| [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) | 528 | Quick Raycast actions for Windsurf: open files/folders in Windsurf and manage Windsurf projects. | vikas-bansal | macOS | [store](https://www.raycast.com/vikas-bansal/windsurf) |
 | [Asset Catalog Extractor](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) | 201 | Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/asset-catalog-extractor) |
 | [Streamshare Uploader](https://github.com/raycast/extensions/tree/main/extensions/to-streamshare) | 174 | Upload files to streamshare | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/streamshare-uploader) |
-| [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) | 151 | Inspect extended attributes on macOS files, apps, and folders, then select which quarantined items to clear — individually or in bulk — removing the com.apple.… | nurkamol | macOS | [store](https://www.raycast.com/nurkamol/quarantine-manager) |
+| [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) | 152 | Inspect extended attributes on macOS files, apps, and folders, then select which quarantined items to clear — individually or in bulk — removing the com.apple.… | nurkamol | macOS | [store](https://www.raycast.com/nurkamol/quarantine-manager) |
 | [Minio Manager](https://github.com/raycast/extensions/tree/main/extensions/minio-manager) | 74 | Manage files in MinIO object storage | 2214372851 | macOS | [store](https://www.raycast.com/2214372851/minio-manager) |
 | [Figma Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/figma-link-cleaner) | 49 | Clean and shorten Figma URLs instantly. Removes tracking parameters, file slugs, and creates ultra-short fgma.cc links with one hotkey. | iamshubhransh | macOS | [store](https://www.raycast.com/iamshubhransh/figma-link-cleaner) |
 | [Manifest Viewer](https://github.com/raycast/extensions/tree/main/extensions/manifest-viewer) | 44 | View and navigate HLS/DASH manifest files with keyboard navigation to child variant playlists | stonko1994 | macOS, Windows | [store](https://www.raycast.com/stonko1994/manifest-viewer) |

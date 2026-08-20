@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) | 3,905 | Interact with Bartender and menu bar icon apps | kmusick | macOS | [store](https://www.raycast.com/kmusick/bartender) |
-| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 539 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
+| [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) | 3,916 | Interact with Bartender and menu bar icon apps | kmusick | macOS | [store](https://www.raycast.com/kmusick/bartender) |
+| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 542 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
 | [Pomo](https://github.com/raycast/extensions/tree/main/extensions/pomo) | 167 | Control Pomo, a minimal Pomodoro timer for your macOS menu bar | claud | macOS | [store](https://www.raycast.com/claud/pomo) |
 | [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) | 63 | Integrate beehiiv with Raycast, allowing you to search for posts, check statistics, show subscribers count in the menu bar, and more. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/beehiiv) |
 | [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub) | 2 | Open Google Find Hub from Raycast or the macOS menu bar for quick access to locating, ringing, securing, or erasing Android devices. | jonah_tweed | macOS | [store](https://www.raycast.com/jonah_tweed/google-find-hub) |
@@ -20,14 +20,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,826 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
-| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,671 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
-| [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,419 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
-| [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) | 1,734 | Resize the focused window to pixel-perfect presets. | the3ash | macOS | [store](https://www.raycast.com/the3ash/window-sizer) |
+| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 14,836 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,674 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [Auto Quit App](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) | 4,422 | Automatically quit the application after all windows are closed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/auto-quit-app) |
+| [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) | 1,740 | Resize the focused window to pixel-perfect presets. | the3ash | macOS | [store](https://www.raycast.com/the3ash/window-sizer) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 30,506 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
-| [App Keeper Manager](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) | 1,432 | This extention offers users the ability to manage currently running applications, with options to choose which apps to keep open and which to close during clea… | edith | macOS | [store](https://www.raycast.com/edith/app-keeper-manager) |
+| [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 30,543 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
+| [App Keeper Manager](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) | 1,433 | This extention offers users the ability to manage currently running applications, with options to choose which apps to keep open and which to close during clea… | edith | macOS | [store](https://www.raycast.com/edith/app-keeper-manager) |

@@ -6,16 +6,16 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,386 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
-| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,788 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
-| [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,882 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,389 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,793 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
+| [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,886 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
 | [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,623 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,410 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
-| [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,068 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
-| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 855 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
-| [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | 482 | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |
-| [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 428 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
-| [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 337 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
+| [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,069 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
+| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 856 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
+| [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | 483 | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |
+| [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 429 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
+| [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 338 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 | [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) | 168 | Search and manage books and lists. | hazelhedmine | macOS | [store](https://www.raycast.com/hazelhedmine/hardcover) |
 | [Gemini TTS](https://github.com/raycast/extensions/tree/main/extensions/gemini-tts) | 58 | Read selected text aloud with Gemini TTS. Supports Gemini 3.1 Flash TTS Preview plus Gemini 2.5 Flash and Pro Preview TTS. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/gemini-tts) |
 | [Doubao TTS](https://github.com/raycast/extensions/tree/main/extensions/doubao-tts) | 48 | Read selected text aloud using Volcengine Doubao TTS with 160+ Chinese and English voices | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/doubao-tts) |

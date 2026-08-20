@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,163 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
-| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,601 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
+| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,169 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
+| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,604 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,010 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
 | [Coin Caster](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) | 159 | Get the price for any crypto asset in Raycast | chase_manning | macOS | [store](https://www.raycast.com/chase_manning/coin-caster) |
 | [Binance](https://github.com/raycast/extensions/tree/main/extensions/binance-exchange) | 79 | Stay on top of the crypto market and your Binance portfolio | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/binance-exchange) |
@@ -20,7 +20,7 @@
 | [Hashrate](https://github.com/raycast/extensions/tree/main/extensions/hashrate-no) | 49 | Crypto mining resources via Hashrate.no | xmok | macOS | [store](https://www.raycast.com/xmok/hashrate-no) |
 | [Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/crypto-search) | 19 | Quick search for crypto addresses and transactions across multiple chains | fernando_jacob | macOS | [store](https://www.raycast.com/fernando_jacob/crypto-search) |
 | [Kurslog](https://github.com/raycast/extensions/tree/main/extensions/kurslog) | 9 | Compare crypto exchange rates from 100+ exchangers in Ukraine and 100+ countries with best rates for USDT, BTC, ETH to fiat, cash, Payoneer, and more. | kurslog | macOS, Windows | [store](https://www.raycast.com/kurslog/kurslog) |
-| [Ticker Bar](https://github.com/raycast/extensions/tree/main/extensions/ticker-bar) | 0 | Track stocks, crypto, tokens, perpetual futures, and prediction markets from the menu bar. | kays0x | macOS | [store](https://www.raycast.com/kays0x/ticker-bar) |
+| [Ticker Bar](https://github.com/raycast/extensions/tree/main/extensions/ticker-bar) | 1 | Track stocks, crypto, tokens, perpetual futures, and prediction markets from the menu bar. | kays0x | macOS | [store](https://www.raycast.com/kays0x/ticker-bar) |
 
 ## Price ✦
 
@@ -35,7 +35,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Solana Explorer](https://github.com/raycast/extensions/tree/main/extensions/solana-explorer) | 218 | Look up transactions and accounts on the various Solana clusters. | darklong | macOS | [store](https://www.raycast.com/darklong/solana-explorer) |
+| [Solana Explorer](https://github.com/raycast/extensions/tree/main/extensions/solana-explorer) | 220 | Look up transactions and accounts on the various Solana clusters. | darklong | macOS | [store](https://www.raycast.com/darklong/solana-explorer) |
 | [SendAI](https://github.com/raycast/extensions/tree/main/extensions/send-ai) | 153 | Your shortcut to everything Solana. At your command bar. | sendai (org) | macOS | [store](https://www.raycast.com/sendai/send-ai) |
 | [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) | 51 | Introducing the Solana Wallet Generator, a powerful Raycast extension designed for developers and cryptocurrency enthusiasts seeking to efficiently create mult… | uladkaminski | macOS | [store](https://www.raycast.com/uladkaminski/solana-wallets-generation) |
 | [Quikwallet](https://github.com/raycast/extensions/tree/main/extensions/quikwallet) | 20 | View Solana wallet balances and prepare transactions | devsargam | macOS | [store](https://www.raycast.com/devsargam/quikwallet) |

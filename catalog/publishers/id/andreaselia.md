@@ -1,6 +1,6 @@
 # andreaselia
 
-10 extensions · 3,805 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
+10 extensions · 3,807 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
 
 ## Data (7)
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,163 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
 | [Better Uptime](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) | 730 | Check on your Better Uptime monitors, incidents and heartbeats. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/better-uptime) |
-| [StoryTime](https://github.com/raycast/extensions/tree/main/extensions/storytime) | 373 | Generate a story using OpenAI and Upstash. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/storytime) |
+| [StoryTime](https://github.com/raycast/extensions/tree/main/extensions/storytime) | 374 | Generate a story using OpenAI and Upstash. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/storytime) |
 | [Abstract API](https://github.com/raycast/extensions/tree/main/extensions/abstract-api) | 310 | Automate routine dev work with Abstract's suite of APIs | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/abstract-api) |
 | [M3O](https://github.com/raycast/extensions/tree/main/extensions/m3o) | 140 | Explore, discover and consume public APIs as simpler programmable building blocks. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/m3o) |
 | [Liveblocks](https://github.com/raycast/extensions/tree/main/extensions/liveblocks) | 87 | Exposes the Liveblocks API via a pleasant and easy to use UI. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/liveblocks) |
@@ -19,7 +19,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 518 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
-| [Disney](https://github.com/raycast/extensions/tree/main/extensions/disney) | 125 | Explore information about your beloved Disney characters by searching for them. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/disney) |
+| [Disney](https://github.com/raycast/extensions/tree/main/extensions/disney) | 126 | Explore information about your beloved Disney characters by searching for them. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/disney) |
 
 ## Applications (1)
 

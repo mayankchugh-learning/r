@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-20 — upstream `28bd341599`
+
+**Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)
+
 ## 2026-08-20 — upstream `40b3a1f1c2`
 
 **Updated (1):** [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr)
