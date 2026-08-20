@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a6ccfda97312db3847eddd09a0b2614255c4e473",
-  "generatedAt": "2026-08-20T13:50:34.244Z",
-  "downloadsRefreshedAt": "2026-08-20T13:50:33.652Z",
+  "commit": "424cad97f6722971301bb5f4783accbd4f5b9ef1",
+  "generatedAt": "2026-08-20T13:59:40.754Z",
+  "downloadsRefreshedAt": "2026-08-20T13:59:40.252Z",
   "count": 3198,
   "extensions": [
     {
@@ -9705,7 +9705,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 509891
+      "downloads": 509903
     },
     {
       "dir": "color-shades",
@@ -21828,7 +21828,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 498635
+      "downloads": 498649
     },
     {
       "dir": "google-chrome-profiles",
@@ -28128,7 +28128,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 668666
+      "downloads": 668688
     },
     {
       "dir": "kimai",
@@ -39152,10 +39152,10 @@
       "dir": "openclaw",
       "name": "openclaw",
       "title": "OpenClaw",
-      "description": "Chat with your local OpenClaw AI assistant",
+      "description": "Chat with your OpenClaw AI assistant (local or remote gateway)",
       "author": "leveragedrobot",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Productivity",
         "Developer Tools"
@@ -39166,7 +39166,7 @@
       ],
       "store": "https://www.raycast.com/leveragedrobot/openclaw",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/openclaw",
-      "treeSha": "89d19ae27ea9fe50895302b9281da21ac0819d6e",
+      "treeSha": "b06452ddc2a434590e1f8676d2359c283b267f08",
       "downloads": 1145
     },
     {
