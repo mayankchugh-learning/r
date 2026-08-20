@@ -1,24 +1,24 @@
 # Aayush9029
 
-16 extensions · 150,661 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
+16 extensions · 150,712 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 106,889 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
+| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 106,921 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
 
 ## Productivity (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 27,329 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
+| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 27,342 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
 
 ## Communication (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 7,968 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
+| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 7,969 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
 
 ## Media (4)
 
@@ -44,13 +44,13 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [itch.io](https://github.com/raycast/extensions/tree/main/extensions/itch-io) | 400 | Raycast Extension for itch.io, browse through milions of games made by indie developers! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/itch-io) |
-| [BTTV Emote](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) | 376 | Browse Through Thousands of BTTV Emote | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/bttv-emote) |
+| [BTTV Emote](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) | 378 | Browse Through Thousands of BTTV Emote | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/bttv-emote) |
 
 ## Developer Tools (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quicktype](https://github.com/raycast/extensions/tree/main/extensions/quicktype) | 646 | Generate Models and Serializers from JSON | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/quicktype) |
+| [Quicktype](https://github.com/raycast/extensions/tree/main/extensions/quicktype) | 649 | Generate Models and Serializers from JSON | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/quicktype) |
 
 ## News (1)
 

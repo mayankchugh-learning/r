@@ -26,7 +26,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 5,551 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
+| [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 5,557 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
 
 ### Web & Search
 
@@ -45,7 +45,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bambu Lab Controller](https://github.com/raycast/extensions/tree/main/extensions/bambu-lab) | 121 | Control your Bambulab 3D printer | johancvl | macOS, Windows | [store](https://www.raycast.com/johancvl/bambu-lab) |
+| [Bambu Lab Controller](https://github.com/raycast/extensions/tree/main/extensions/bambu-lab) | 122 | Control your Bambulab 3D printer | johancvl | macOS, Windows | [store](https://www.raycast.com/johancvl/bambu-lab) |
 
 ## Media, Money & Words
 

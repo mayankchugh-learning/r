@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-20 — upstream `64ef671008`
+
+**Updated (1):** [Vibelet Search](https://github.com/raycast/extensions/tree/main/extensions/vibelet-search)
+
 ## 2026-08-20 — upstream `0511abf823`
 
 **Updated (1):** [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge)

@@ -7,10 +7,10 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [waj](https://www.raycast.com/waj) | 1 | 174 | **Developer Tools:** [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) |
-| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 99,547 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
+| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 99,598 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
 | [wdeu](https://www.raycast.com/wdeu) | 3 | 26 | **Developer Tools:** [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync)<br>**Documentation:** [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup)<br>**Finance:** [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) |
 | [web3bio](https://www.raycast.com/web3bio) | 1 | 103 | **Developer Tools:** [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) |
-| [webdiego](https://www.raycast.com/webdiego) | 1 | 2,547 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
+| [webdiego](https://www.raycast.com/webdiego) | 1 | 2,548 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
 | [webpro](https://www.raycast.com/webpro) | 1 | 827 | **Developer Tools:** [GitHub Search](https://github.com/raycast/extensions/tree/main/extensions/github-search) |
 | [weicodes](https://www.raycast.com/weicodes) | 1 | 1,657 | **Uncategorized:** [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) |
 | [wellsgz](https://www.raycast.com/wellsgz) | 1 | 143 | **System:** [Handoff Toggle](https://github.com/raycast/extensions/tree/main/extensions/handoff-toggle) |
@@ -24,7 +24,7 @@
 | [whosmadeer](https://www.raycast.com/whosmadeer) | 1 | 258 | **System:** [Shutdown Timer](https://github.com/raycast/extensions/tree/main/extensions/shutdown-timer) |
 | [will_thresher](https://www.raycast.com/will_thresher) | 1 | 13 | **Design Tools:** [Install Fonts](https://github.com/raycast/extensions/tree/main/extensions/install-fonts) |
 | [willem_van_lent](https://www.raycast.com/willem_van_lent) | 1 | 705 | **Developer Tools:** [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) |
-| [williamwelsh](https://www.raycast.com/williamwelsh) | 1 | 1,126 | **Data:** [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) |
+| [williamwelsh](https://www.raycast.com/williamwelsh) | 1 | 1,128 | **Data:** [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) |
 | [willian](https://www.raycast.com/willian) | 1 | 102 | **Fun:** [Brasileirão Série A](https://github.com/raycast/extensions/tree/main/extensions/brasileirao-serie-a) |
 | [wilton](https://www.raycast.com/wilton) | 1 | 12 | **Productivity:** [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) |
 | [winann](https://www.raycast.com/winann) | 1 | 525 | **Other:** [Paste from Apple Books](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) |
@@ -38,4 +38,4 @@
 | [wuyax](https://www.raycast.com/wuyax) | 1 | 591 | **Media:** [TinyIMG](https://github.com/raycast/extensions/tree/main/extensions/tinyimg) |
 | [wuyuxiangX](https://www.raycast.com/wuyuxiangX) | 2 | 318 | **Uncategorized:** [Network Proxy](https://github.com/raycast/extensions/tree/main/extensions/network-proxy)<br>**Developer Tools:** [Try](https://github.com/raycast/extensions/tree/main/extensions/try) |
 | [wxiaoyun](https://www.raycast.com/wxiaoyun) | 1 | 25 | **Data:** [NUSMods](https://github.com/raycast/extensions/tree/main/extensions/nusmods) |
-| [wyattjoh](https://www.raycast.com/wyattjoh) | 2 | 343 | **Developer Tools:** [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension)<br>**Media:** [NZBGet](https://github.com/raycast/extensions/tree/main/extensions/nzbget) |
+| [wyattjoh](https://www.raycast.com/wyattjoh) | 2 | 344 | **Developer Tools:** [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension)<br>**Media:** [NZBGet](https://github.com/raycast/extensions/tree/main/extensions/nzbget) |
