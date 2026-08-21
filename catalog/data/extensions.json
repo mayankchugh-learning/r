@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8987799e4a00b52473749c306a0f01e196f84ce7",
-  "generatedAt": "2026-08-21T17:31:34.923Z",
-  "downloadsRefreshedAt": "2026-08-21T17:31:34.042Z",
+  "commit": "86e60d252b199f438f63869cf585b0f4b17bcd93",
+  "generatedAt": "2026-08-21T18:02:39.550Z",
+  "downloadsRefreshedAt": "2026-08-21T18:02:38.469Z",
   "count": 3206,
   "extensions": [
     {
@@ -677,7 +677,7 @@
       "dir": "agent-usage",
       "name": "agent-usage",
       "title": "Agent Usage",
-      "description": "Monitor AI coding agent usage across Amp, Antigravity, Claude, ClinePass, Codex, Copilot, Cursor, DeepSeek, Droid, Gemini, Grok, Kimi, MiniMax, OpenCode Go, Synthetic and z.ai",
+      "description": "Monitor AI coding agent usage across Amp, Antigravity, Claude, ClinePass, Codex, Copilot, Cursor, DeepSeek, Droid, Gemini, Grok, Kimi, MiniMax, MinimaxCN, OpenCode Go, Synthetic and z.ai",
       "author": "thuggyduck",
       "owner": null,
       "contributors": 5,
@@ -691,8 +691,8 @@
       ],
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
-      "treeSha": "cadf0476a74a1a9cccf2cb56ea431c054bd47963",
-      "downloads": 2669
+      "treeSha": "66b355173566da6f98500188ba7187d109a3c6d2",
+      "downloads": 2675
     },
     {
       "dir": "ai-agency",
@@ -2269,7 +2269,7 @@
       "store": "https://www.raycast.com/changxu_song/appfreezer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/appfreezer",
       "treeSha": "a52d275ea7fc3eed92ee79c9a28b51b0c5702962",
-      "downloads": 0
+      "downloads": 2
     },
     {
       "dir": "appgrid",
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 512946
+      "downloads": 512993
     },
     {
       "dir": "color-shades",
@@ -21914,7 +21914,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 500739
+      "downloads": 500764
     },
     {
       "dir": "google-chrome-profiles",
@@ -28214,7 +28214,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 671483
+      "downloads": 671532
     },
     {
       "dir": "kimai",
@@ -30825,7 +30825,7 @@
       "store": "https://www.raycast.com/rushi_gandhi/logbook",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/logbook",
       "treeSha": "4c6d4ba2a78a22e6274d4d7a8cea745198aabf9c",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "logitech-litra",

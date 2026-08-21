@@ -34,7 +34,7 @@
 | [chad_walters](https://www.raycast.com/chad_walters) | 2 | 238 | **Applications:** [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck)<br>**Developer Tools:** [Prusa Printer Control](https://github.com/raycast/extensions/tree/main/extensions/prusa) |
 | [chanceaclark](https://www.raycast.com/chanceaclark) | 1 | 480 | **System:** [Empty Screenshot Folder](https://github.com/raycast/extensions/tree/main/extensions/empty-screenshots) |
 | [chandlervdw](https://www.raycast.com/chandlervdw) | 2 | 151 | **Productivity:** [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist)<br>**Media:** [Harmonic](https://github.com/raycast/extensions/tree/main/extensions/harmonic) |
-| [changxu_song](https://www.raycast.com/changxu_song) | 1 | 0 | **System:** [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) |
+| [changxu_song](https://www.raycast.com/changxu_song) | 1 | 2 | **System:** [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) |
 | [chase_manning](https://www.raycast.com/chase_manning) | 1 | 159 | **Finance:** [Coin Caster](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) |
 | [chaseonraycast](https://www.raycast.com/chaseonraycast) | 1 | 57 | **Uncategorized:** [Yap](https://github.com/raycast/extensions/tree/main/extensions/yap) |
 | [chenhuazhao](https://www.raycast.com/chenhuazhao) | 1 | 214 | **Developer Tools:** [Android Screen Capture](https://github.com/raycast/extensions/tree/main/extensions/android-screen-capture) |
@@ -77,7 +77,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 54 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,289 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 500,739 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 500,764 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,378 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 109 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 699 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |

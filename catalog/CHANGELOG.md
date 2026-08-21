@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `86e60d252b`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-08-21 — upstream `8987799e4a`
 
 **Added (1):** [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer)
