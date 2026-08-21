@@ -1,8 +1,8 @@
 # Automation & Workflows
 
-27 extensions · [← Productivity](./README.md)
+28 extensions · [← Productivity](./README.md)
 
-[Shortcuts ✦](#shortcuts) (15) · [Hotkey ✦](#hotkey) (4) · [General](#general) (8)
+[Shortcuts ✦](#shortcuts) (15) · [Hotkey ✦](#hotkey) (4) · [Script ✦](#script) (4) · [General](#general) (5)
 
 *✦ auto-discovered topic group*
 
@@ -35,15 +35,21 @@
 | [Quick Quit](https://github.com/raycast/extensions/tree/main/extensions/quick-quit) | 454 | A Raycast extension to instantly quit custom groups of applications. Create custom categories and quit them with a quicklink or a dedicated hotkey. | sriramHQ | macOS | [store](https://www.raycast.com/sriramHQ/quick-quit) |
 | [Figma Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/figma-link-cleaner) | 49 | Clean and shorten Figma URLs instantly. Removes tracking parameters, file slugs, and creates ultra-short fgma.cc links with one hotkey. | iamshubhransh | macOS | [store](https://www.raycast.com/iamshubhransh/figma-link-cleaner) |
 
+## Script ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,229 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 8,536 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
+| [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,624 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
+| [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 0 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
+
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 182,470 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,229 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
 | [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 8,652 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
-| [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 8,536 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
-| [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,624 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
 | [ChartMogul](https://github.com/raycast/extensions/tree/main/extensions/chartmogul) | 54 | A Raycast extension that gives you quick access to key business metrics from ChartMogul right from your command bar. Instantly view MRR, ARR, churn, customer c… | mattdelliott | macOS | [store](https://www.raycast.com/mattdelliott/chartmogul) |
 | [Make.com Scenarios](https://github.com/raycast/extensions/tree/main/extensions/make-dot-com) | 46 | Interact with Make.com scenarios from Raycast. | dj_z | macOS | [store](https://www.raycast.com/dj_z/make-dot-com) |
 | [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) | 23 | Discover, triage, and manage papers from your local Paper Agent workflow in Raycast. | marvel940804836 | macOS | [store](https://www.raycast.com/marvel940804836/paper-agent) |

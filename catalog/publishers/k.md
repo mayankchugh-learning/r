@@ -75,7 +75,7 @@
 | [krzysztoff1](https://www.raycast.com/krzysztoff1) | 1 | 2,657 | **Developer Tools:** [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) |
 | [krzysztofzuraw](https://www.raycast.com/krzysztofzuraw) | 2 | 19,483 | **Productivity:** [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn)<br>**Developer Tools:** [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) |
 | [KthKuang](https://www.raycast.com/KthKuang) | 1 | 161 | **Productivity:** [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) |
-| [kud](./id/kud.md) | 12 | 6,079 | [see all 12 →](./id/kud.md) |
+| [kud](./id/kud.md) | 13 | 6,079 | [see all 13 →](./id/kud.md) |
 | [kumail_changezi](https://www.raycast.com/kumail_changezi) | 1 | 6 | **Design Tools:** [Text Scramble](https://github.com/raycast/extensions/tree/main/extensions/text-scramble) |
 | [kumamaki](https://www.raycast.com/kumamaki) | 2 | 740 | **Productivity:** [CopyMoveTo](https://github.com/raycast/extensions/tree/main/extensions/copymoveto)<br>**System:** [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) |
 | [kumare_agape](https://www.raycast.com/kumare_agape) | 1 | 16 | **Productivity:** [Lumen](https://github.com/raycast/extensions/tree/main/extensions/lumen) |

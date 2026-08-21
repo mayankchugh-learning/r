@@ -1,6 +1,6 @@
 # kud
 
-12 extensions · 6,079 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+13 extensions · 6,079 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -43,8 +43,9 @@
 | --- | --- | --- | --- | --- | --- |
 | [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 16 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
 
-## Productivity (1)
+## Productivity (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 6 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
+| [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 0 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |

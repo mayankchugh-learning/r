@@ -1,8 +1,8 @@
 # Productivity
 
-1449 extensions · [← all categories](../README.md)
+1450 extensions · [← all categories](../README.md)
 
-macOS: 1434 · Windows: 351
+macOS: 1435 · Windows: 351
 
 ## Organize & Plan
 
@@ -26,7 +26,7 @@ macOS: 1434 · Windows: 351
 
 | Topic | Extensions |
 | --- | --- |
-| [Automation & Workflows](./automation-workflows.md) | 27 |
+| [Automation & Workflows](./automation-workflows.md) | 28 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 68 |
 | [Window & Workspace Management](./window-workspace-management.md) | 50 |
 | [Search & Bookmarks](./search-bookmarks/README.md) | 225 |

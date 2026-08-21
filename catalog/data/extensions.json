@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "55aa6217cc3d16c9ad6cf0585afe062946e07398",
-  "generatedAt": "2026-08-21T06:10:50.146Z",
-  "downloadsRefreshedAt": "2026-08-21T06:10:49.475Z",
-  "count": 3199,
+  "commit": "1355b6b10a598fd6e265ef7f91b3ead50c72c86d",
+  "generatedAt": "2026-08-21T06:12:31.177Z",
+  "downloadsRefreshedAt": "2026-08-21T06:12:30.787Z",
+  "count": 3200,
   "extensions": [
     {
       "dir": "0x0",
@@ -9705,7 +9705,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 511734
+      "downloads": 511740
     },
     {
       "dir": "color-shades",
@@ -21829,7 +21829,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 499925
+      "downloads": 499927
     },
     {
       "dir": "google-chrome-profiles",
@@ -28129,7 +28129,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 670316
+      "downloads": 670319
     },
     {
       "dir": "kimai",
@@ -30172,6 +30172,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/link-cleaner",
       "treeSha": "da7108d0295ff38671c382fafce83a239ecc7929",
       "downloads": 10094
+    },
+    {
+      "dir": "link-commands",
+      "name": "link-commands",
+      "title": "Link Commands",
+      "description": "Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand and category.",
+      "author": "kud",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/kud/link-commands",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/link-commands",
+      "treeSha": "093469dea358053fbfb148cb49beddedd934b2d2",
+      "downloads": 0
     },
     {
       "dir": "link-transformer",

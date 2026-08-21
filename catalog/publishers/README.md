@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,110,573 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,110,579 |
 | 2 | [raycast](./id/raycast.md) | 11 | 791,043 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,316 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 499,925 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,319 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 499,927 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 441,191 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 436,130 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 408,239 |
@@ -231,7 +231,7 @@
 | 221 | [HerbertLu](https://www.raycast.com/HerbertLu) | 4 | 6,167 |
 | 222 | [cjdenio](https://www.raycast.com/cjdenio) | 1 | 6,155 |
 | 223 | [anysphere](https://www.raycast.com/anysphere) | 1 | 6,091 |
-| 224 | [kud](./id/kud.md) | 12 | 6,079 |
+| 224 | [kud](./id/kud.md) | 13 | 6,079 |
 | 225 | [anton-suprun](https://www.raycast.com/anton-suprun) | 1 | 6,038 |
 | 226 | [qeude](https://www.raycast.com/qeude) | 4 | 5,887 |
 | 227 | [devmoath](https://www.raycast.com/devmoath) | 1 | 5,886 |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `1355b6b10a`
+
+**Added (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
+
 ## 2026-08-21 — upstream `55aa6217cc`
 
 **Added (1):** [Zoomer](https://github.com/raycast/extensions/tree/main/extensions/zoomer)

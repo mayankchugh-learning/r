@@ -1,8 +1,8 @@
 # Design & Assets
 
-39 extensions · [← Developer Tools](./README.md)
+40 extensions · [← Developer Tools](./README.md)
 
-[Color ✦](#color) (12) · [Images ✦](#images) (12) · [Icons ✦](#icons) (11) · [General](#general) (4)
+[Color ✦](#color) (12) · [Images ✦](#images) (12) · [Icons ✦](#icons) (11) · [General](#general) (5)
 
 *✦ auto-discovered topic group*
 
@@ -64,3 +64,4 @@
 | [SVGO](https://github.com/raycast/extensions/tree/main/extensions/svgo) | 3,315 | Optimize SVG vector graphics files. | kaichi | macOS | [store](https://www.raycast.com/kaichi/raycast-svgo) |
 | [Carbon Screenshot for Raycast](https://github.com/raycast/extensions/tree/main/extensions/carbon-raycast) | 2,206 | Uses the carbon.now.sh to create beautiful screenshot you can share online or with your team | adelowo | macOS | [store](https://www.raycast.com/adelowo/carbon-code-screenshot-for-raycast) |
 | [SVG64 - Convert SVGs to Base64 Strings](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) | 539 | Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-svg64) |
+| [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 0 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
