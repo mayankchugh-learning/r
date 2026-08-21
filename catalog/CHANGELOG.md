@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `4fa469ee9c`
+
+**Updated (1):** [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league)
+
 ## 2026-08-21 — upstream `b970c1db52`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
