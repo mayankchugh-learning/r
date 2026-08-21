@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "86e60d252b199f438f63869cf585b0f4b17bcd93",
-  "generatedAt": "2026-08-21T18:02:39.550Z",
-  "downloadsRefreshedAt": "2026-08-21T18:02:38.469Z",
+  "commit": "7899e82855bf241aabdb4514575045e4c2bac049",
+  "generatedAt": "2026-08-21T18:09:19.962Z",
+  "downloadsRefreshedAt": "2026-08-21T18:09:19.561Z",
   "count": 3206,
   "extensions": [
     {
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 512993
+      "downloads": 513003
     },
     {
       "dir": "color-shades",
@@ -21914,7 +21914,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 500764
+      "downloads": 500773
     },
     {
       "dir": "google-chrome-profiles",
@@ -26489,7 +26489,7 @@
       ],
       "store": "https://www.raycast.com/alerix/is-it-alive",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/is-it-alive",
-      "treeSha": "1585401e0e215388a2a422e13b863c23f2a352e3",
+      "treeSha": "89071e1bc8695fa39f977c51d7d855acafe57dde",
       "downloads": 38
     },
     {
@@ -28214,7 +28214,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 671532
+      "downloads": 671541
     },
     {
       "dir": "kimai",
