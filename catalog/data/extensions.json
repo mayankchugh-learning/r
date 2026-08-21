@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4fa469ee9cd7a1b7936cedb7cb0ffd4a48913684",
-  "generatedAt": "2026-08-21T06:07:31.567Z",
-  "downloadsRefreshedAt": "2026-08-21T06:07:31.173Z",
-  "count": 3198,
+  "commit": "55aa6217cc3d16c9ad6cf0585afe062946e07398",
+  "generatedAt": "2026-08-21T06:10:50.146Z",
+  "downloadsRefreshedAt": "2026-08-21T06:10:49.475Z",
+  "count": 3199,
   "extensions": [
     {
       "dir": "0x0",
@@ -9705,7 +9705,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 511729
+      "downloads": 511734
     },
     {
       "dir": "color-shades",
@@ -21829,7 +21829,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 499923
+      "downloads": 499925
     },
     {
       "dir": "google-chrome-profiles",
@@ -28129,7 +28129,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 670314
+      "downloads": 670316
     },
     {
       "dir": "kimai",
@@ -67112,6 +67112,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zoom-control",
       "treeSha": "c4be99755e503c0e67c0afa0d0e6fb15e6925287",
       "downloads": 2669
+    },
+    {
+      "dir": "zoomer",
+      "name": "zoomer",
+      "title": "Zoomer",
+      "description": "Capture screenshots, control recordings, and open Zoomer from Raycast.",
+      "author": "colindotfun",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/colindotfun/zoomer",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/zoomer",
+      "treeSha": "158188ee69617693164a6cc8ffb064b6007b4bef",
+      "downloads": 0
     },
     {
       "dir": "zotero",

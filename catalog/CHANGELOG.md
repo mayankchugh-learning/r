@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `55aa6217cc`
+
+**Added (1):** [Zoomer](https://github.com/raycast/extensions/tree/main/extensions/zoomer)
+
 ## 2026-08-21 — upstream `4fa469ee9c`
 
 **Updated (1):** [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league)

@@ -1,6 +1,6 @@
 # Publishers
 
-2134 publishers · [← catalog index](../README.md)
+2135 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,110,568 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,110,573 |
 | 2 | [raycast](./id/raycast.md) | 11 | 791,043 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,314 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 499,923 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,316 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 499,925 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 441,191 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 436,130 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 408,239 |
@@ -2132,13 +2132,14 @@
 | 2122 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2123 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
 | 2124 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
-| 2125 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
-| 2126 | [dans_huang](https://www.raycast.com/dans_huang) | 1 | 0 |
-| 2127 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2128 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2129 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
-| 2130 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2131 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2132 | github-next | 2 | — |
-| 2133 | buffer | 1 | — |
-| 2134 | multi | 1 | — |
+| 2125 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2126 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
+| 2127 | [dans_huang](https://www.raycast.com/dans_huang) | 1 | 0 |
+| 2128 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2129 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2130 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
+| 2131 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2132 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2133 | github-next | 2 | — |
+| 2134 | buffer | 1 | — |
+| 2135 | multi | 1 | — |

@@ -1,6 +1,6 @@
 # Publishers
 
-2134 publishers · [← catalog index](../README.md)
+2135 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [alexi.build](./id/alexi-build.md) | 17 | 1,816 |
 | 6 | [Aayush9029](./id/aayush9029.md) | 16 | 150,971 |
 | 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,806 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,110,568 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,110,573 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 300,427 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,211 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,345 |
@@ -389,8 +389,8 @@
 | 379 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 380 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 3 |
 | 381 | github-next | 2 | — |
-| 382 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,314 |
-| 383 | [Codely](https://www.raycast.com/Codely) | 1 | 499,923 |
+| 382 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,316 |
+| 383 | [Codely](https://www.raycast.com/Codely) | 1 | 499,925 |
 | 384 | [linear](https://www.raycast.com/linear) | 1 | 347,018 |
 | 385 | [mommertf](https://www.raycast.com/mommertf) | 1 | 289,111 |
 | 386 | [nhojb](https://www.raycast.com/nhojb) | 1 | 256,850 |
@@ -2133,12 +2133,13 @@
 | 2123 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2124 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
 | 2125 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
-| 2126 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
-| 2127 | [dans_huang](https://www.raycast.com/dans_huang) | 1 | 0 |
-| 2128 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2129 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2130 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
-| 2131 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2132 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
-| 2133 | buffer | 1 | — |
-| 2134 | multi | 1 | — |
+| 2126 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2127 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
+| 2128 | [dans_huang](https://www.raycast.com/dans_huang) | 1 | 0 |
+| 2129 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2130 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2131 | [pacadil](https://www.raycast.com/pacadil) | 1 | 0 |
+| 2132 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2133 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
+| 2134 | buffer | 1 | — |
+| 2135 | multi | 1 | — |
