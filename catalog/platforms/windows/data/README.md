@@ -130,7 +130,7 @@
 | [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | 69 | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
 | [Dutch License Plate Search](https://github.com/raycast/extensions/tree/main/extensions/rdw-kentekencheck) | 66 | Shows details about Dutch cars by their license plate | jeffreyvanhees | macOS, Windows | [store](https://www.raycast.com/jeffreyvanhees/rdw-kentekencheck) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 41 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
-| [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 0 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
+| [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 1 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
 
 ### Web & Network Intelligence
 

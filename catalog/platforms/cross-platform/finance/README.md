@@ -83,7 +83,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [NIF - Portugal Tax Number Lookup](https://github.com/raycast/extensions/tree/main/extensions/nif) | 10 | Search and verify Tax Identification Number (NIF) for Portuguese companies. | rgllm | macOS, Windows | [store](https://www.raycast.com/rgllm/nif) |
 | [India Toolkit](https://github.com/raycast/extensions/tree/main/extensions/india-toolkit) | 7 | Quick India utilities — GST calculator, IFSC code lookup, and pincode lookup. | kur_ankur | macOS, Windows | [store](https://www.raycast.com/kur_ankur/india-toolkit) |
-| [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 0 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
+| [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 1 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
 
 ### General
 

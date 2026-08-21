@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `d132a8323b`
+
+**Updated (1):** [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture)
+
 ## 2026-08-21 — upstream `13a685a927`
 
 **Added (1):** [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house)

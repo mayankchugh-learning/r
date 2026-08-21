@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,111,612 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,111,648 |
 | 2 | [raycast](./id/raycast.md) | 11 | 791,596 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,811 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 500,338 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,842 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 500,359 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 441,441 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 436,442 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 408,439 |
@@ -985,8 +985,8 @@
 | 975 | [gianpiero_spinelli](https://www.raycast.com/gianpiero_spinelli) | 2 | 355 |
 | 976 | [ashleyhindle](https://www.raycast.com/ashleyhindle) | 1 | 353 |
 | 977 | [nikhil_tiwari](https://www.raycast.com/nikhil_tiwari) | 1 | 352 |
-| 978 | [b6pzeusbc54tvhw5jgpyw8pwz2x6gs](https://www.raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs) | 1 | 351 |
-| 979 | [aic](https://www.raycast.com/aic) | 2 | 350 |
+| 978 | [aic](https://www.raycast.com/aic) | 2 | 351 |
+| 979 | [b6pzeusbc54tvhw5jgpyw8pwz2x6gs](https://www.raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs) | 1 | 351 |
 | 980 | [jorges](https://www.raycast.com/jorges) | 1 | 350 |
 | 981 | [junhyukjin](https://www.raycast.com/junhyukjin) | 1 | 350 |
 | 982 | [FariaF22](https://www.raycast.com/FariaF22) | 5 | 346 |
@@ -2140,7 +2140,7 @@
 | 2130 | [Dhaiwat10](https://www.raycast.com/Dhaiwat10) | 1 | 0 |
 | 2131 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2132 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
-| 2133 | [jan](https://www.raycast.com/Jan) | 1 | 0 |
+| 2133 | [janjezek](https://www.raycast.com/janjezek) | 1 | 0 |
 | 2134 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2135 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2136 | github-next | 2 | — |

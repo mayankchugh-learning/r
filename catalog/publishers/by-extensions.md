@@ -15,7 +15,7 @@
 | 5 | [alexi.build](./id/alexi-build.md) | 17 | 1,826 |
 | 6 | [Aayush9029](./id/aayush9029.md) | 16 | 151,063 |
 | 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,835 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,111,612 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,111,648 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 300,556 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,235 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,357 |
@@ -327,7 +327,7 @@
 | 317 | [nurkamol](https://www.raycast.com/nurkamol) | 2 | 371 |
 | 318 | [kakaoduft](https://www.raycast.com/kakaoduft) | 2 | 356 |
 | 319 | [gianpiero_spinelli](https://www.raycast.com/gianpiero_spinelli) | 2 | 355 |
-| 320 | [aic](https://www.raycast.com/aic) | 2 | 350 |
+| 320 | [aic](https://www.raycast.com/aic) | 2 | 351 |
 | 321 | [wyattjoh](https://www.raycast.com/wyattjoh) | 2 | 345 |
 | 322 | [cupcakearmy](https://www.raycast.com/cupcakearmy) | 2 | 329 |
 | 323 | [soradotwav](https://www.raycast.com/soradotwav) | 2 | 327 |
@@ -390,8 +390,8 @@
 | 380 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 381 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 382 | github-next | 2 | — |
-| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,811 |
-| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 500,338 |
+| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,842 |
+| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 500,359 |
 | 385 | [linear](https://www.raycast.com/linear) | 1 | 347,380 |
 | 386 | [mommertf](https://www.raycast.com/mommertf) | 1 | 289,482 |
 | 387 | [nhojb](https://www.raycast.com/nhojb) | 1 | 256,983 |
@@ -2141,7 +2141,7 @@
 | 2131 | [Dhaiwat10](https://www.raycast.com/Dhaiwat10) | 1 | 0 |
 | 2132 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2133 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
-| 2134 | [jan](https://www.raycast.com/Jan) | 1 | 0 |
+| 2134 | [janjezek](https://www.raycast.com/janjezek) | 1 | 0 |
 | 2135 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2136 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2137 | buffer | 1 | — |

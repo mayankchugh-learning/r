@@ -17,8 +17,8 @@
 | [JakeYu](https://www.raycast.com/JakeYu) | 2 | 1,603 | **Productivity:** [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos)<br>**Applications:** [Update Clash Subscription](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) |
 | [jameslyons](https://www.raycast.com/jameslyons) | 2 | 11,028 | **Applications:** [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session)<br>**Design Tools:** [Sip](https://github.com/raycast/extensions/tree/main/extensions/sip) |
 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 | **Productivity:** [Capd](https://github.com/raycast/extensions/tree/main/extensions/capd) |
-| [jan](https://www.raycast.com/Jan) | 1 | 0 | **Productivity:** [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) |
 | [jan_werner](https://www.raycast.com/jan_werner) | 1 | 7 | **Communication:** [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) |
+| [janjezek](https://www.raycast.com/janjezek) | 1 | 0 | **Productivity:** [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) |
 | [janyk](https://www.raycast.com/janyk) | 1 | 33 | **Finance:** [Moneybird](https://github.com/raycast/extensions/tree/main/extensions/moneybird) |
 | [jaredliu233](https://www.raycast.com/jaredliu233) | 2 | 1,973 | **Productivity:** [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading)<br>**Data:** [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) |
 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 13,835 | **Productivity:** [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) |
