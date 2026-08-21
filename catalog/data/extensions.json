@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4deaf33bf36801a2cab9644ccde236ed94648c43",
-  "generatedAt": "2026-08-21T20:40:25.262Z",
-  "downloadsRefreshedAt": "2026-08-21T20:40:24.353Z",
+  "commit": "3b5b54d06829bffa2c1d0b3b5e7ad8d23689e23f",
+  "generatedAt": "2026-08-21T20:41:36.013Z",
+  "downloadsRefreshedAt": "2026-08-21T20:41:33.907Z",
   "count": 3208,
   "extensions": [
     {
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 513204
+      "downloads": 513207
     },
     {
       "dir": "color-shades",
@@ -21936,7 +21936,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 500899
+      "downloads": 500902
     },
     {
       "dir": "google-chrome-profiles",
@@ -23761,7 +23761,7 @@
       "description": "Chat with your local Hermes AI assistant",
       "author": "dailin4321",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Productivity",
         "Developer Tools"
@@ -23772,7 +23772,7 @@
       ],
       "store": "https://www.raycast.com/dailin4321/hermes-agent",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hermes-agent",
-      "treeSha": "0a5ebac07144dba5dd4229f2fef78343750b60d6",
+      "treeSha": "d3ac0f47fff24042ff7b6c8d428b22af664f5372",
       "downloads": 774
     },
     {
@@ -28236,7 +28236,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 671764
+      "downloads": 671766
     },
     {
       "dir": "kimai",
