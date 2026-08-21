@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `4deaf33bf3`
+
+**Added (1):** [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name)
+
 ## 2026-08-21 — upstream `f0662096ae`
 
 **Updated (1):** [DuckDuckGo Email](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email)

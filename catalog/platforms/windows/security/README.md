@@ -1,8 +1,8 @@
 # Windows · Security
 
-29 extensions · [← Windows](../README.md)
+30 extensions · [← Windows](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (18) · [2FA & Authentication](#2fa-authentication) (4) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (2) · [General](#general) (4)
+[Passwords & Secrets](#passwords-secrets) (18) · [2FA & Authentication](#2fa-authentication) (4) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (2) · [General](#general) (5)
 
 ## Credentials & Access
 
@@ -61,3 +61,4 @@
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 449 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |
 | [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 12 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 2 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
+| [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 0 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |

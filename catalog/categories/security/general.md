@@ -1,6 +1,6 @@
 # General
 
-19 extensions · [← Security](./README.md)
+20 extensions · [← Security](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,4 @@
 | [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) | 4 | Create zero-knowledge, ephemeral p00f links from Raycast. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/p00f) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 2 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
 | [Starline](https://github.com/raycast/extensions/tree/main/extensions/starline) | 1 | Manage your Starline devices. Requires developer account. | sfominx | macOS | [store](https://www.raycast.com/sfominx/starline) |
+| [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 0 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |

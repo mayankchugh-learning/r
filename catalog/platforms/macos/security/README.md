@@ -1,8 +1,8 @@
 # macOS · Security
 
-84 extensions · [← macOS](../README.md)
+85 extensions · [← macOS](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (36) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (2) · [Network & Privacy](#network-privacy) (12) · [General](#general) (19)
+[Passwords & Secrets](#passwords-secrets) (36) · [2FA & Authentication](#2fa-authentication) (8) · [Access & Identity](#access-identity) (7) · [Encryption & Hashing](#encryption-hashing) (2) · [Network & Privacy](#network-privacy) (12) · [General](#general) (20)
 
 ## Credentials & Access
 
@@ -121,3 +121,4 @@
 | [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) | 4 | Create zero-knowledge, ephemeral p00f links from Raycast. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/p00f) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 2 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
 | [Starline](https://github.com/raycast/extensions/tree/main/extensions/starline) | 1 | Manage your Starline devices. Requires developer account. | sfominx | macOS | [store](https://www.raycast.com/sfominx/starline) |
+| [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 0 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |

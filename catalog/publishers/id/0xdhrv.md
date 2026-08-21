@@ -1,6 +1,6 @@
 # 0xdhrv
 
-11 extensions · 1,320 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+12 extensions · 1,320 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -16,7 +16,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Drug Search](https://github.com/raycast/extensions/tree/main/extensions/drug-search) | 306 | Search the FDA drug database with ease | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/drug-search) |
 
-## Developer Tools (4)
+## Developer Tools (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -24,6 +24,7 @@
 | [Defuddle](https://github.com/raycast/extensions/tree/main/extensions/defuddle) | 45 | Extract readable web pages to Markdown with Defuddle | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/defuddle) |
 | [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | 42 | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
 | [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 8 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
+| [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 0 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |
 
 ## Fun (3)
 

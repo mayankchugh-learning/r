@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,113,229 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,113,230 |
 | 2 | [raycast](./id/raycast.md) | 11 | 792,645 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 671,761 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 500,898 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 671,764 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 500,899 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 441,871 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 436,897 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 408,878 |
@@ -548,7 +548,7 @@
 | 538 | [crazyczy](https://www.raycast.com/crazyczy) | 1 | 1,337 |
 | 539 | [tafhyseni](https://www.raycast.com/tafhyseni) | 1 | 1,328 |
 | 540 | [roele](https://www.raycast.com/roele) | 3 | 1,322 |
-| 541 | [0xdhrv](./id/0xdhrv.md) | 11 | 1,320 |
+| 541 | [0xdhrv](./id/0xdhrv.md) | 12 | 1,320 |
 | 542 | [dleteliers_](https://www.raycast.com/dleteliers_) | 1 | 1,314 |
 | 543 | [rrajath](https://www.raycast.com/rrajath) | 1 | 1,314 |
 | 544 | [supermemory](https://www.raycast.com/supermemory) | 1 | 1,302 |
