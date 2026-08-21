@@ -1,6 +1,6 @@
 # Password ✦
 
-8 extensions · [← Productivity](./README.md)
+9 extensions · [← Productivity](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -14,3 +14,4 @@
 | [Link Lock - Password Locked Links](https://github.com/raycast/extensions/tree/main/extensions/raycast-link-lock) | 236 | Using shrtcode, protect any link with a password! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-link-lock) |
 | [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) | 132 | Tool to generate passwords from master password | evilhex | macOS | [store](https://www.raycast.com/evilhex/supergenpass) |
 | [Passbolt](https://github.com/raycast/extensions/tree/main/extensions/passbolt) | 81 | Manage your Passbolt passwords from Raycast | adreatik_dedej | macOS, Windows | [store](https://www.raycast.com/adreatik_dedej/passbolt) |
+| [PwPush](https://github.com/raycast/extensions/tree/main/extensions/pwpush) | 0 | Create secure, expiring password pushes with PwPush. Supports the public service and self-hosted instances. | mouxy | macOS | [store](https://www.raycast.com/mouxy/pwpush) |

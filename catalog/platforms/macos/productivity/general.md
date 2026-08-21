@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-503 of 1439 extensions · [← macOS · Productivity](./README.md)
+504 of 1440 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -507,5 +507,6 @@
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 | [Cook](https://github.com/raycast/extensions/tree/main/extensions/cook) | 0 | Browse, view, and generate shopping lists from your Cooklang recipe collection | chizitere_david | macOS, Windows | [store](https://www.raycast.com/chizitere_david/cook) |
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
+| [PwPush](https://github.com/raycast/extensions/tree/main/extensions/pwpush) | 0 | Create secure, expiring password pushes with PwPush. Supports the public service and self-hosted instances. | mouxy | macOS | [store](https://www.raycast.com/mouxy/pwpush) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | — | Quickly add vocabulary cards to your Joey decks | tai | macOS | — |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

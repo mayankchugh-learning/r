@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-167 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+168 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -150,6 +150,7 @@
 | [moose_zhang](https://www.raycast.com/moose_zhang) | 1 | 7 | **Productivity:** [MEMO to flomo](https://github.com/raycast/extensions/tree/main/extensions/memo-to-flomo) |
 | [mooxl](https://www.raycast.com/mooxl) | 2 | 184,493 | **System:** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)<br>**Productivity:** [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) |
 | [morrissimons](https://www.raycast.com/morrissimons) | 1 | 21 | **Productivity:** [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) |
+| [mouxy](https://www.raycast.com/mouxy) | 1 | 0 | **Productivity:** [PwPush](https://github.com/raycast/extensions/tree/main/extensions/pwpush) |
 | [mozzius](https://www.raycast.com/mozzius) | 1 | 202 | **Developer Tools:** [Create T3 App](https://github.com/raycast/extensions/tree/main/extensions/create-t3-app) |
 | [MrMage](https://www.raycast.com/MrMage) | 1 | 98 | **Productivity:** [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) |
 | [mrmartineau](https://www.raycast.com/mrmartineau) | 4 | 25,817 | **Developer Tools:** [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm)<br>**Uncategorized:** [GitHub Stars](https://github.com/raycast/extensions/tree/main/extensions/github-stars)<br>**Applications:** [Bird](https://github.com/raycast/extensions/tree/main/extensions/bird), [Otter Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/otter) |

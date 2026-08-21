@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-210 extensions · [← catalog index](../README.md)
+211 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -216,3 +216,4 @@
 | [Pixtuoid](https://github.com/raycast/extensions/tree/main/extensions/pixtuoid) | 3 | Manage which AI coding-agent CLIs feed your Pixtuoid office, and launch the floating window — without leaving Raycast. | IvanWng97 | macOS | [store](https://www.raycast.com/IvanWng97/pixtuoid) |
 | [PuTTY Sessions](https://github.com/raycast/extensions/tree/main/extensions/putty-sessions) | 2 | Search and launch your saved PuTTY sessions from Raycast. | THEN00P | Windows | [store](https://www.raycast.com/THEN00P/putty-sessions) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 0 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
+| [PwPush](https://github.com/raycast/extensions/tree/main/extensions/pwpush) | 0 | Create secure, expiring password pushes with PwPush. Supports the public service and self-hosted instances. | mouxy | macOS | [store](https://www.raycast.com/mouxy/pwpush) |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7899e82855bf241aabdb4514575045e4c2bac049",
-  "generatedAt": "2026-08-21T18:09:19.962Z",
-  "downloadsRefreshedAt": "2026-08-21T18:09:19.561Z",
-  "count": 3206,
+  "commit": "7cace8138d97424196752395da2b0a9a057cfd29",
+  "generatedAt": "2026-08-21T18:20:39.448Z",
+  "downloadsRefreshedAt": "2026-08-21T18:20:38.550Z",
+  "count": 3207,
   "extensions": [
     {
       "dir": "0x0",
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 513003
+      "downloads": 513020
     },
     {
       "dir": "color-shades",
@@ -21914,7 +21914,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 500773
+      "downloads": 500787
     },
     {
       "dir": "google-chrome-profiles",
@@ -28214,7 +28214,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 671541
+      "downloads": 671571
     },
     {
       "dir": "kimai",
@@ -44586,6 +44586,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/putty-sessions",
       "treeSha": "eff4f551279c30f3bde6ae6b3ed6d0b570f5cb8c",
       "downloads": 2
+    },
+    {
+      "dir": "pwpush",
+      "name": "pwpush",
+      "title": "PwPush",
+      "description": "Create secure, expiring password pushes with PwPush. Supports the public service and self-hosted instances.",
+      "author": "mouxy",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/mouxy/pwpush",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/pwpush",
+      "treeSha": "e40908a59354034b1f0eae707f876bb377b63aa7",
+      "downloads": 0
     },
     {
       "dir": "px-to-rem-converter",

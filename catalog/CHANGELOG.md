@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `7cace8138d`
+
+**Added (1):** [PwPush](https://github.com/raycast/extensions/tree/main/extensions/pwpush)
+
 ## 2026-08-21 — upstream `7899e82855`
 
 **Updated (1):** [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive)
