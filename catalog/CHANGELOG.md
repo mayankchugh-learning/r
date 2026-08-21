@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `d312304c86`
+
+**Added (1):** [Logbook](https://github.com/raycast/extensions/tree/main/extensions/logbook)
+
 ## 2026-08-21 — upstream `09a5152c7c`
 
 **Updated (1):** [Apple Passwords](https://github.com/raycast/extensions/tree/main/extensions/apple-passwords)

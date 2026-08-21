@@ -1,6 +1,6 @@
 # Publishers
 
-2138 publishers · [← catalog index](../README.md)
+2139 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,112,683 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,112,690 |
 | 2 | [raycast](./id/raycast.md) | 11 | 792,233 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 671,478 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 500,738 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 671,482 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 500,739 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 441,712 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 436,710 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 408,702 |
@@ -2143,6 +2143,7 @@
 | 2133 | [janjezek](https://www.raycast.com/janjezek) | 1 | 0 |
 | 2134 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2135 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2136 | github-next | 2 | — |
-| 2137 | buffer | 1 | — |
-| 2138 | multi | 1 | — |
+| 2136 | [rushi_gandhi](https://www.raycast.com/rushi_gandhi) | 1 | 0 |
+| 2137 | github-next | 2 | — |
+| 2138 | buffer | 1 | — |
+| 2139 | multi | 1 | — |

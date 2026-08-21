@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-123 extensions · [← catalog index](../README.md)
+124 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -129,3 +129,4 @@
 | [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 4 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
 | [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) | 4 | Search, filter, and open links from your LinkAce instance | zisoft | macOS | [store](https://www.raycast.com/zisoft/linkace-search) |
 | [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) | 4 | Manage Lume virtual machines on Apple Silicon | sharat_visweswara | macOS | [store](https://www.raycast.com/sharat_visweswara/lume) |
+| [Logbook](https://github.com/raycast/extensions/tree/main/extensions/logbook) | 0 | Capture and complete your Logbook tasks without leaving Raycast. | rushi_gandhi | macOS, Windows | [store](https://www.raycast.com/rushi_gandhi/logbook) |
