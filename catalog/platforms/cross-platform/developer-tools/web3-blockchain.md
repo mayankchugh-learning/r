@@ -8,4 +8,4 @@
 | --- | --- | --- | --- | --- | --- |
 | [PDSls](https://github.com/raycast/extensions/tree/main/extensions/pdsls) | 138 | Browse the public data on atproto. | juliet_philippe | macOS, Windows | [store](https://www.raycast.com/juliet_philippe/pdsls) |
 | [EVM Toolkit](https://github.com/raycast/extensions/tree/main/extensions/evm-toolkit) | 14 | A toolkit for Ethereum power users: explore addresses, transactions, and blocks across EVM chains | imqdee | macOS, Windows | [store](https://www.raycast.com/imqdee/evm-toolkit) |
-| [Algorand](https://github.com/raycast/extensions/tree/main/extensions/algorand) | 11 | Perform all of Algorand operations from your toolbar | raihan_khan | macOS, Windows | [store](https://www.raycast.com/raihan_khan/algorand) |
+| [Algorand](https://github.com/raycast/extensions/tree/main/extensions/algorand) | 12 | Perform all of Algorand operations from your toolbar | raihan_khan | macOS, Windows | [store](https://www.raycast.com/raihan_khan/algorand) |

@@ -2,13 +2,13 @@
 
 [Converters & Encoders](./converters-encoders.md) · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · **Time & Dates** · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · [APIs & Scraping](./apis-scraping.md) · [Lookups & References](./lookups-references.md) · [General](./general.md)
 
-14 of 267 extensions · [← macOS · Data](./README.md)
+14 of 268 extensions · [← macOS · Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,142 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
-| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 5,918 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
-| [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,296 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
+| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,147 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
+| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 5,924 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
+| [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,299 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
 | [Remember This](https://github.com/raycast/extensions/tree/main/extensions/remember-this) | 1,730 | Remember This is an app designed to help you stay motivated and focused on completing your work by its due date. Simply enter any information, such as tasks, n… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/remember-this) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 203 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts) | 203 | Get facts about numbers, dates, and years | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/number-facts) |

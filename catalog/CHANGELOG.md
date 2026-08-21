@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `13a685a927`
+
+**Added (1):** [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house)
+
 ## 2026-08-21 — upstream `ddd92c860e`
 
 **Added (1):** [Capd](https://github.com/raycast/extensions/tree/main/extensions/capd)

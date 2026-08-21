@@ -1,8 +1,8 @@
 # Data
 
-267 extensions · [← all categories](../README.md)
+268 extensions · [← all categories](../README.md)
 
-macOS: 267 · Windows: 86
+macOS: 268 · Windows: 87
 
 ## Transform & Generate
 
@@ -36,7 +36,7 @@ macOS: 267 · Windows: 86
 
 | Topic | Extensions |
 | --- | --- |
-| [Lookups & References](./lookups-references.md) | 36 |
+| [Lookups & References](./lookups-references.md) | 37 |
 | [Web & Network Intelligence](./web-network-intelligence.md) | 18 |
 | [APIs & Scraping](./apis-scraping.md) | 8 |
 
