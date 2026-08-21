@@ -21,8 +21,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 89,500 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
-| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,697 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 89,550 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,708 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
 | [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,439 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
 | [QQ Music Controls](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) | 1,314 | Control the QQ Music app for macOS with your keyboard. | jwickers | macOS | [store](https://www.raycast.com/jwickers/qq-music-controls) |
 
@@ -39,9 +39,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 432,296 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
-| [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) | 4,762 | Effortlessly convert music links between streaming services | sjdonado | macOS | [store](https://www.raycast.com/sjdonado/idonthavespotify) |
-| [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) | 586 | It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features | yusuf_akdeniz | macOS | [store](https://www.raycast.com/yusuf_akdeniz/nowplaying-cli) |
+| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 432,444 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
+| [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) | 4,764 | Effortlessly convert music links between streaming services | sjdonado | macOS | [store](https://www.raycast.com/sjdonado/idonthavespotify) |
+| [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) | 587 | It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features | yusuf_akdeniz | macOS | [store](https://www.raycast.com/yusuf_akdeniz/nowplaying-cli) |
 | [Meta Music](https://github.com/raycast/extensions/tree/main/extensions/meta-music) | 353 | Manage the ID3 tags of audio files directly in Raycast! | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/meta-music) |
 | [Discogs Database Search](https://github.com/raycast/extensions/tree/main/extensions/discogs) | 341 | It will search discogs.com for a music release information specified by Label ID, Barcode, Artist or Album name | vigosan | Windows, macOS | [store](https://www.raycast.com/vigosan/discogs) |
 | [Kaset Control](https://github.com/raycast/extensions/tree/main/extensions/kaset-control) | 153 | Control Kaset - YouTube Music client for macOS | endiruslan | macOS | [store](https://www.raycast.com/endiruslan/kaset-control) |

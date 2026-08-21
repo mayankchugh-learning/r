@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,410 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,414 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,075 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 862 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 341 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
@@ -30,10 +30,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,809 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
-| [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,891 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
-| [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,628 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
-| [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,411 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
+| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 3,811 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
+| [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,892 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
+| [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv) | 1,629 | Search arXiv papers, access multiple formats (PDF, TeX, HTML), and export citations in various academic styles. | koayon | macOS | [store](https://www.raycast.com/koayon/arxiv) |
+| [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,412 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) | 483 | Search and create articles to DEV Community. Read saved article list | lin | macOS | [store](https://www.raycast.com/lin/dev-to) |
 | [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) | 429 | Read the latest stories of lobste.rs | dev99problems | macOS | [store](https://www.raycast.com/dev99problems/lobsters) |
 | [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) | 170 | Search and manage books and lists. | hazelhedmine | macOS | [store](https://www.raycast.com/hazelhedmine/hardcover) |

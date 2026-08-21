@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,044 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
-| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,240 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,045 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,242 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
 | [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,129 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 641 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Mastodon Search](https://github.com/raycast/extensions/tree/main/extensions/mastodon-search) | 344 | Search for People or Hashtags on Mastodon. | daveverwer | macOS | [store](https://www.raycast.com/daveverwer/mastodon-search) |

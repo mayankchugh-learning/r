@@ -28,14 +28,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,556 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
-| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,465 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
-| [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,209 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
-| [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,632 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
-| [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,437 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,572 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,470 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
+| [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,217 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
+| [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,637 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
+| [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,439 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
 | [Short.io](https://github.com/raycast/extensions/tree/main/extensions/short-io) | 1,181 | Shorten and search links with your own domain via Short.io | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/short-io) |
-| [Render](https://github.com/raycast/extensions/tree/main/extensions/render) | 416 | View your Render services, deploys, and custom domains | destiner | macOS | [store](https://www.raycast.com/destiner/render) |
-| [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 248 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
+| [Render](https://github.com/raycast/extensions/tree/main/extensions/render) | 417 | View your Render services, deploys, and custom domains | destiner | macOS | [store](https://www.raycast.com/destiner/render) |
+| [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 249 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
 | [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 88 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
 | [Host.io](https://github.com/raycast/extensions/tree/main/extensions/host-io) | 45 | A Powerful and Fast Domain Name Data API | xmok | macOS | [store](https://www.raycast.com/xmok/host-io) |
 | [HestiaCP Admin](https://github.com/raycast/extensions/tree/main/extensions/hestiacp-admin) | 22 | Manage Users, Domains, Mail Domains, Databases, and more, in your HestiaCP instance | xmok | macOS | [store](https://www.raycast.com/xmok/hestiacp-admin) |

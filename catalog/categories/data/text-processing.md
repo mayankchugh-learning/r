@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) | 19,095 | Compare content of two texts | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/diff-checker) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,742 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) | 19,110 | Compare content of two texts | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/diff-checker) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,746 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,441 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
-| [Advanced Replace](https://github.com/raycast/extensions/tree/main/extensions/advanced-replace) | 627 | Extract and replace text using custom regex. | rocksack | macOS | [store](https://www.raycast.com/rocksack/advanced-replace) |
+| [Advanced Replace](https://github.com/raycast/extensions/tree/main/extensions/advanced-replace) | 628 | Extract and replace text using custom regex. | rocksack | macOS | [store](https://www.raycast.com/rocksack/advanced-replace) |
 | [Deduplicator](https://github.com/raycast/extensions/tree/main/extensions/deduplicator) | 497 | A text tool for de-duplicating text content. | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/deduplicator) |
 | [ESV Bible](https://github.com/raycast/extensions/tree/main/extensions/esv-bible) | 450 | Search the ESV using the ESV A and return Bible text for any valid passage. | cpenned | macOS | [store](https://www.raycast.com/cpenned/esv-bible) |
 | [Copee](https://github.com/raycast/extensions/tree/main/extensions/copee) | 326 | Copies text as txt file. | gianpiero_spinelli | macOS | [store](https://www.raycast.com/gianpiero_spinelli/copee) |

@@ -36,11 +36,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,091 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
+| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,092 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
 | [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,454 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
 | [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,324 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 402 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
-| [ChangeDetection.io](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) | 219 | Website Change Detection For Clever People | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/changedetection-io) |
+| [ChangeDetection.io](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) | 220 | Website Change Detection For Clever People | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/changedetection-io) |
 | [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) | 139 | A Raycast extension to browse your website analytics coming from Fathom. | yannglt | macOS | [store](https://www.raycast.com/yannglt/fathom-analytics-stats) |
 | [Incident.io](https://github.com/raycast/extensions/tree/main/extensions/incident-io) | 100 | Gets the incidents from Incident.io | nkl | macOS | [store](https://www.raycast.com/nkl/incident-io) |
 | [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 21 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |

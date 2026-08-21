@@ -11,4 +11,4 @@
 | [Colima](https://github.com/raycast/extensions/tree/main/extensions/colima) | 122 | Manage Colima virtual machine instances and Docker environments directly from Raycast | MiskaMyasa | macOS | [store](https://www.raycast.com/MiskaMyasa/colima) |
 | [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 54 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |
 | [Virtualizor Enduser](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) | 20 | Manage Virtualizor Enduser instance | xmok | macOS | [store](https://www.raycast.com/xmok/virtualizor-enduser) |
-| [ArchiSteamFarm](https://github.com/raycast/extensions/tree/main/extensions/archisteamfarm) | 18 | Interact with your locally hosted ASF instance via Raycast! | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/archisteamfarm) |
+| [ArchiSteamFarm](https://github.com/raycast/extensions/tree/main/extensions/archisteamfarm) | 19 | Interact with your locally hosted ASF instance via Raycast! | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/archisteamfarm) |

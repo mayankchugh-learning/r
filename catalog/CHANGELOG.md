@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `1296554605`
+
+**Updated (1):** [Migadu](https://github.com/raycast/extensions/tree/main/extensions/migadu)
+
 ## 2026-08-21 — upstream `0d2c26c76b`
 
 **Updated (11):** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device), [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee), [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer), [Everhour Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/everhour), [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd), [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist), [Music](https://github.com/raycast/extensions/tree/main/extensions/music), [Shutdown Timer](https://github.com/raycast/extensions/tree/main/extensions/shutdown-timer), [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos), [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale), [WIP](https://github.com/raycast/extensions/tree/main/extensions/wip)
