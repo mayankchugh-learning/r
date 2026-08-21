@@ -1,8 +1,8 @@
 # System
 
-256 extensions · [← all categories](../README.md)
+257 extensions · [← all categories](../README.md)
 
-macOS: 242 · Windows: 45
+macOS: 243 · Windows: 45
 
 ## Apps & Windows
 
@@ -15,7 +15,7 @@ macOS: 242 · Windows: 45
 
 | Topic | Extensions |
 | --- | --- |
-| [Hardware & Devices](./hardware-devices.md) | 18 |
+| [Hardware & Devices](./hardware-devices.md) | 19 |
 | [Display & Appearance](./display-appearance.md) | 16 |
 | [Audio Control](./audio-control.md) | 1 |
 

@@ -2,7 +2,7 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · **Hardware & Devices** · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-18 of 242 extensions · [← macOS · System](./README.md)
+19 of 243 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -24,3 +24,4 @@
 | [Sidecar Connect](https://github.com/raycast/extensions/tree/main/extensions/sidecar-connect) | 172 | Connect and manage Sidecar devices directly from Raycast. | dejuknow | macOS | [store](https://www.raycast.com/dejuknow/sidecar-connect) |
 | [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) | 97 | Move the macOS mouse cursor between displays with relative-position and center modes. | johnwick | macOS | [store](https://www.raycast.com/johnwick/move-cursor-next-display) |
 | [Mobile Provisions](https://github.com/raycast/extensions/tree/main/extensions/mobile-provisions) | 23 | Manage and inspect Apple mobile provisioning profiles with detailed information about certificates, entitlements, and provisioned devices | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mobile-provisions) |
+| [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | — | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | — |

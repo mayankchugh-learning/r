@@ -1,8 +1,8 @@
 # Hardware & Devices
 
-18 extensions · [← System](./README.md)
+19 extensions · [← System](./README.md)
 
-[Keyboard ✦](#keyboard) (6) · [Devices ✦](#devices) (4) · [General](#general) (8)
+[Keyboard ✦](#keyboard) (6) · [Devices ✦](#devices) (4) · [Mouse ✦](#mouse) (4) · [General](#general) (5)
 
 *✦ auto-discovered topic group*
 
@@ -26,6 +26,15 @@
 | [Sidecar Connect](https://github.com/raycast/extensions/tree/main/extensions/sidecar-connect) | 172 | Connect and manage Sidecar devices directly from Raycast. | dejuknow | macOS | [store](https://www.raycast.com/dejuknow/sidecar-connect) |
 | [Mobile Provisions](https://github.com/raycast/extensions/tree/main/extensions/mobile-provisions) | 23 | Manage and inspect Apple mobile provisioning profiles with detailed information about certificates, entitlements, and provisioned devices | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mobile-provisions) |
 
+## Mouse ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 214 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
+| [Mouse Jiggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-jiggle) | 182 | Continuously jiggle the mouse cursor with dramatic zigzag movements to prevent sleep | stevefrost | macOS | [store](https://www.raycast.com/stevefrost/mouse-jiggle) |
+| [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) | 97 | Move the macOS mouse cursor between displays with relative-position and center modes. | johnwick | macOS | [store](https://www.raycast.com/johnwick/move-cursor-next-display) |
+| [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | — | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | — |
+
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -35,6 +44,3 @@
 | [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) | 8,128 | Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. | chrahe | macOS | [store](https://www.raycast.com/chrahe/airpods-noise-control) |
 | [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,699 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 | [Battery Optimizer](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) | 3,075 | Keep the battery healthy by limiting the charging capacity. | Qetesh | macOS | [store](https://www.raycast.com/Qetesh/battery-optimizer) |
-| [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 214 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
-| [Mouse Jiggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-jiggle) | 182 | Continuously jiggle the mouse cursor with dramatic zigzag movements to prevent sleep | stevefrost | macOS | [store](https://www.raycast.com/stevefrost/mouse-jiggle) |
-| [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) | 97 | Move the macOS mouse cursor between displays with relative-position and center modes. | johnwick | macOS | [store](https://www.raycast.com/johnwick/move-cursor-next-display) |

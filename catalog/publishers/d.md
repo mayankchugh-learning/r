@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-150 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+151 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -92,6 +92,7 @@
 | [dfrancour](https://www.raycast.com/dfrancour) | 1 | 19 | **Developer Tools:** [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) |
 | [dgrcode](https://www.raycast.com/dgrcode) | 1 | 389 | **Developer Tools:** [CUID Generator](https://github.com/raycast/extensions/tree/main/extensions/cuid-generator) |
 | [dgrzedzielski](https://www.raycast.com/dgrzedzielski) | 1 | 602 | **Developer Tools:** [Bundlephobia Search](https://github.com/raycast/extensions/tree/main/extensions/bundlephobia-search) |
+| Dhaiwat10 | 1 | — | **System:** [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) |
 | [dharamkapila](https://www.raycast.com/dharamkapila) | 1 | 2,238 | **Communication:** [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) |
 | [dharmendra](https://www.raycast.com/dharmendra) | 1 | 309 | **Web:** [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) |
 | [dharmin_nagar](https://www.raycast.com/dharmin_nagar) | 1 | 85 | **Productivity:** [Cloudflare Workers AI](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-ai) |

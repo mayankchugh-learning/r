@@ -1,6 +1,6 @@
 # Publishers
 
-2136 publishers · [← catalog index](../README.md)
+2137 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,110,633 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,110,653 |
 | 2 | [raycast](./id/raycast.md) | 11 | 791,043 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,364 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 499,969 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 670,377 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 499,978 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 441,191 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 436,130 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 408,239 |
@@ -2142,5 +2142,6 @@
 | 2132 | [u2l](https://www.raycast.com/u2l) | 1 | 0 |
 | 2133 | github-next | 2 | — |
 | 2134 | buffer | 1 | — |
-| 2135 | jan | 1 | — |
-| 2136 | multi | 1 | — |
+| 2135 | Dhaiwat10 | 1 | — |
+| 2136 | jan | 1 | — |
+| 2137 | multi | 1 | — |
