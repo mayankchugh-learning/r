@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Oxford Collocation Dictionary](https://github.com/raycast/extensions/tree/main/extensions/oxford-collocation-dictionary) | 761 | Query the Online Oxford Colocation Dictionary and display it's data | guilhermevictor | macOS | [store](https://www.raycast.com/guilhermevictor/oxford-collocation-dictionary) |
+| [Oxford Collocation Dictionary](https://github.com/raycast/extensions/tree/main/extensions/oxford-collocation-dictionary) | 762 | Query the Online Oxford Colocation Dictionary and display it's data | guilhermevictor | macOS | [store](https://www.raycast.com/guilhermevictor/oxford-collocation-dictionary) |
 | [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | 558 | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
 | [Mandarin Chinese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) | 151 | Mandarin Chinese Dictionary | CofCat | macOS | [store](https://www.raycast.com/IlyaL/mandarin-chinese-dictionary) |
 | [Duden](https://github.com/raycast/extensions/tree/main/extensions/duden) | 73 | Search German words on Duden.de dictionary | c76b7srxxm | macOS, Windows | [store](https://www.raycast.com/c76b7srxxm/duden) |

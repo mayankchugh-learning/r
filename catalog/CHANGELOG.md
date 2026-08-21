@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `f60428a36d`
+
+**Updated (1):** [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso)
+
 ## 2026-08-21 — upstream `7cace8138d`
 
 **Added (1):** [PwPush](https://github.com/raycast/extensions/tree/main/extensions/pwpush)

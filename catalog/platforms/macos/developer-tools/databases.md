@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 952 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
-| [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 659 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
+| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 953 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
+| [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 660 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
 | [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) | 188 | Quickly search and use Prisma CLI Commands along with command details. | raj_asha | macOS | [store](https://www.raycast.com/raj_asha/prisma-cli-commands) |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 151 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
 | [MongoDB ObjectId](https://github.com/raycast/extensions/tree/main/extensions/mongodb-objectid) | 108 | A Raycast extension that transform between MongoDB ObjectId and timestamps. | tssujt | macOS | [store](https://www.raycast.com/tssujt/mongodb-objectid) |
@@ -18,5 +18,5 @@
 | [Shodan](https://github.com/raycast/extensions/tree/main/extensions/shodan) | 63 | Search the Shodan database for internet-connected devices, view host details, and manage saved queries | owanesh | macOS | [store](https://www.raycast.com/owanesh/shodan) |
 | [Perry](https://github.com/raycast/extensions/tree/main/extensions/perry) | 56 | Execute SQL queries on PostgreSQL databases | vmotta8 | macOS | [store](https://www.raycast.com/vmotta8/perry) |
 | [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) | 51 | Extract, save, and organize Notion page and database IDs from the focused browser tab or clipboard. | sam.dsgn | macOS | [store](https://www.raycast.com/Sam.Dsgn/notion-url-to-id) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 36 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
 | [Shopinfo.app](https://github.com/raycast/extensions/tree/main/extensions/shopinfo-app) | 36 | Identify Shopify themes from your current browser tab using shopinfo.app's database | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopinfo-app) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 35 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
