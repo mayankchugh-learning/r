@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `09a5152c7c`
+
+**Updated (1):** [Apple Passwords](https://github.com/raycast/extensions/tree/main/extensions/apple-passwords)
+
 ## 2026-08-21 — upstream `1296554605`
 
 **Updated (1):** [Migadu](https://github.com/raycast/extensions/tree/main/extensions/migadu)

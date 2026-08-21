@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,112,560 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,112,683 |
 | 2 | [raycast](./id/raycast.md) | 11 | 792,233 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 671,361 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 500,663 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 671,478 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 500,738 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 441,712 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 436,710 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 408,702 |
@@ -930,7 +930,7 @@
 | 920 | [valentindotxyz](https://www.raycast.com/valentindotxyz) | 1 | 434 |
 | 921 | [ofalvai](https://www.raycast.com/ofalvai) | 1 | 433 |
 | 922 | [hugo_gresse](https://www.raycast.com/hugo_gresse) | 1 | 432 |
-| 923 | [alec-harmon](https://www.raycast.com/alec-harmon) | 1 | 431 |
+| 923 | [bendews](https://www.raycast.com/alec-harmon) | 1 | 431 |
 | 924 | [brittany_carusone](https://www.raycast.com/brittany_carusone) | 1 | 431 |
 | 925 | [dev99problems](https://www.raycast.com/dev99problems) | 1 | 429 |
 | 926 | [felixb1010](https://www.raycast.com/felixb1010) | 1 | 428 |

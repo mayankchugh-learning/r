@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-190 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+189 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -74,7 +74,6 @@
 | [albertogalca](https://www.raycast.com/albertogalca) | 1 | 43 | **Media:** [Picmal](https://github.com/raycast/extensions/tree/main/extensions/picmal) |
 | [albertoxamin](https://www.raycast.com/albertoxamin) | 1 | 200 | **Other:** [Finnish Dictionary](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) |
 | [albingroen](https://www.raycast.com/albingroen) | 1 | 440 | **Productivity:** [Taskplane](https://github.com/raycast/extensions/tree/main/extensions/taskplane) |
-| [alec-harmon](https://www.raycast.com/alec-harmon) | 1 | 431 | **Security:** [Apple Password](https://github.com/raycast/extensions/tree/main/extensions/apple-passwords) |
 | [aleks](https://www.raycast.com/aleks) | 1 | 843 | **Developer Tools:** [Search RubyGems](https://github.com/raycast/extensions/tree/main/extensions/search-rubygems) |
 | [alerix](https://www.raycast.com/alerix) | 1 | 38 | **Developer Tools:** [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) |
 | [alewandowski](https://www.raycast.com/alewandowski) | 2 | 3,960 | **Productivity:** [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote)<br>**Other:** [Universities](https://github.com/raycast/extensions/tree/main/extensions/universities) |
