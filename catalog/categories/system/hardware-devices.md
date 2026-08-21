@@ -33,7 +33,7 @@
 | [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 214 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
 | [Mouse Jiggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-jiggle) | 182 | Continuously jiggle the mouse cursor with dramatic zigzag movements to prevent sleep | stevefrost | macOS | [store](https://www.raycast.com/stevefrost/mouse-jiggle) |
 | [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) | 97 | Move the macOS mouse cursor between displays with relative-position and center modes. | johnwick | macOS | [store](https://www.raycast.com/johnwick/move-cursor-next-display) |
-| [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | — | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | — |
+| [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | 0 | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | [store](https://www.raycast.com/Dhaiwat10/mouse-cursor-toggle) |
 
 ## General
 

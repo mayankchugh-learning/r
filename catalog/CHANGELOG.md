@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `ddd92c860e`
+
+**Added (1):** [Capd](https://github.com/raycast/extensions/tree/main/extensions/capd)
+
 ## 2026-08-21 — upstream `0d49c02f72`
 
 **Added (1):** [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle)

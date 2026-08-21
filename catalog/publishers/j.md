@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-128 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+129 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -16,7 +16,8 @@
 | [jairaume](https://www.raycast.com/jairaume) | 1 | 326 | **Developer Tools:** [Share My Code](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) |
 | [JakeYu](https://www.raycast.com/JakeYu) | 2 | 1,601 | **Productivity:** [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos)<br>**Applications:** [Update Clash Subscription](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) |
 | [jameslyons](https://www.raycast.com/jameslyons) | 2 | 11,023 | **Applications:** [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session)<br>**Design Tools:** [Sip](https://github.com/raycast/extensions/tree/main/extensions/sip) |
-| jan | 1 | — | **Productivity:** [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) |
+| [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 | **Productivity:** [Capd](https://github.com/raycast/extensions/tree/main/extensions/capd) |
+| [jan](https://www.raycast.com/Jan) | 1 | 0 | **Productivity:** [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) |
 | [jan_werner](https://www.raycast.com/jan_werner) | 1 | 6 | **Communication:** [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) |
 | [janyk](https://www.raycast.com/janyk) | 1 | 33 | **Finance:** [Moneybird](https://github.com/raycast/extensions/tree/main/extensions/moneybird) |
 | [jaredliu233](https://www.raycast.com/jaredliu233) | 2 | 1,971 | **Productivity:** [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading)<br>**Data:** [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) |
