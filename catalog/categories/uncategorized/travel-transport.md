@@ -4,4 +4,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Swiss ÖV](https://github.com/raycast/extensions/tree/main/extensions/swiss-ov) | 108 | Search for public transport connections in Switzerland. This Extension uses transport.opendata.ch | Smoca | macOS | [store](https://www.raycast.com/Smoca/swiss-ov) |
+| [Swiss ÖV](https://github.com/raycast/extensions/tree/main/extensions/swiss-ov) | 109 | Search for public transport connections in Switzerland. This Extension uses transport.opendata.ch | Smoca | macOS | [store](https://www.raycast.com/Smoca/swiss-ov) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `b970c1db52`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-08-20 — upstream `62513897f5`
 
 **Updated (1):** [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak)

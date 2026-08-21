@@ -10,23 +10,23 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,769 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
-| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,297 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
-| [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) | 1,260 | Quickly search packages on https://pkg.go.dev | bstncartwright | macOS | [store](https://www.raycast.com/bstncartwright/go-package-search) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 21,792 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,306 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
+| [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) | 1,264 | Quickly search packages on https://pkg.go.dev | bstncartwright | macOS | [store](https://www.raycast.com/bstncartwright/go-package-search) |
 | [Search Composer Packagist](https://github.com/raycast/extensions/tree/main/extensions/search-composer-packagist) | 1,031 | Search Composer Packagist For PHP Packages | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/search-composer-packagist) |
-| [Libraries.io](https://github.com/raycast/extensions/tree/main/extensions/libraries-io) | 940 | Look up packages and dependency information via Libraries.io | djpowers | macOS | [store](https://www.raycast.com/djpowers/libraries-io) |
+| [Libraries.io](https://github.com/raycast/extensions/tree/main/extensions/libraries-io) | 941 | Look up packages and dependency information via Libraries.io | djpowers | macOS | [store](https://www.raycast.com/djpowers/libraries-io) |
 | [Bundlephobia Search](https://github.com/raycast/extensions/tree/main/extensions/bundlephobia-search) | 602 | Find package and check its size on Bundlephobia | dgrzedzielski | macOS | [store](https://www.raycast.com/dgrzedzielski/bundlephobia-search) |
-| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 482 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
-| [Search Hex](https://github.com/raycast/extensions/tree/main/extensions/search-hexpm) | 437 | A Raycast extension that enables you to quickly look up package information from Hex | jordelver | macOS | [store](https://www.raycast.com/jordelver/search-hex) |
-| [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 236 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
-| [NuGet](https://github.com/raycast/extensions/tree/main/extensions/nuget) | 212 | Simple extension to search for NuGet packages and copy command to install them to clipboard | lbergantin | macOS | [store](https://www.raycast.com/lbergantin/nuget) |
+| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 485 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
+| [Search Hex](https://github.com/raycast/extensions/tree/main/extensions/search-hexpm) | 438 | A Raycast extension that enables you to quickly look up package information from Hex | jordelver | macOS | [store](https://www.raycast.com/jordelver/search-hex) |
+| [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 238 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
+| [NuGet](https://github.com/raycast/extensions/tree/main/extensions/nuget) | 213 | Simple extension to search for NuGet packages and copy command to install them to clipboard | lbergantin | macOS | [store](https://www.raycast.com/lbergantin/nuget) |
 | [Manage Monorepo Projects/Workspaces](https://github.com/raycast/extensions/tree/main/extensions/monorepo-manager) | 197 | A Raycast extension helps to manage monorepo projects/workspaces in your machine. It also list all packages in each monorepo project/workspace | tung-dang | macOS | [store](https://www.raycast.com/tung-dang/monorepo-manager) |
-| [Search R Packages](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) | 188 | Search and lookup information about R packages using r-pkg.org. | grrrck | macOS | [store](https://www.raycast.com/grrrck/r-pkg-search) |
-| [Private npm Packages Search](https://github.com/raycast/extensions/tree/main/extensions/search-private-npm-packages) | 167 | Search private npm packages. | HCJackyLee | macOS | [store](https://www.raycast.com/HCJackyLee/search-private-npm-packages) |
+| [Search R Packages](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) | 189 | Search and lookup information about R packages using r-pkg.org. | grrrck | macOS | [store](https://www.raycast.com/grrrck/r-pkg-search) |
+| [Private npm Packages Search](https://github.com/raycast/extensions/tree/main/extensions/search-private-npm-packages) | 168 | Search private npm packages. | HCJackyLee | macOS | [store](https://www.raycast.com/HCJackyLee/search-private-npm-packages) |
 | [Elm Search](https://github.com/raycast/extensions/tree/main/extensions/elm-search) | 113 | Search Elm packages by name, type, author or module | HenriqueBuss | macOS | [store](https://www.raycast.com/HenriqueBuss/elm-search) |
 | [Pkg Swap](https://github.com/raycast/extensions/tree/main/extensions/pkg-swap) | 98 | Quickly convert and paste copied npm commands to your preferred package manager | neversitdull | macOS | [store](https://www.raycast.com/neversitdull/pkg-swap) |
 | [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) | 97 | Local NuGet package explorer | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/nuget-package-explorer) |
-| [Repology Search](https://github.com/raycast/extensions/tree/main/extensions/repology-search) | 92 | Search packages from repology.org | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/repology-search) |
+| [Repology Search](https://github.com/raycast/extensions/tree/main/extensions/repology-search) | 93 | Search packages from repology.org | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/repology-search) |
 | [Gleam Packages](https://github.com/raycast/extensions/tree/main/extensions/gleam-packages) | 87 | search for Gleam packages | ryanmiville | macOS | [store](https://www.raycast.com/ryanmiville/gleam-packages) |
 | [CRAN/E Search](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) | 62 | Search for R-code packages & authors hosted on CRAN via the CRAN/E search engine. | flaming-codes | macOS | [store](https://www.raycast.com/flaming-codes/cran-e-search) |
 | [npm Claimer](https://github.com/raycast/extensions/tree/main/extensions/npm-claimer) | 56 | Instantly claim npm package names in one click | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/npm-claimer) |
@@ -39,11 +39,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,214 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 7,746 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
-| [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 889 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,254 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 7,755 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
+| [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 891 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
 | [Remix Icon](https://github.com/raycast/extensions/tree/main/extensions/remix-icon) | 119 | Search and browse icons from Remix Icon library | tristan_heinig | macOS | [store](https://www.raycast.com/tristan_heinig/remix-icon) |
-| [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 95 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
+| [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 96 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
 | [Typst Math Symbols](https://github.com/raycast/extensions/tree/main/extensions/typst-symbols) | 89 | Search through a library of typst math symbols and emojis | JeffersonDing | macOS | [store](https://www.raycast.com/JeffersonDing/typst-symbols) |
 | [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 12 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |
 
@@ -51,8 +51,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 256,609 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,179 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 256,850 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,199 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
 | [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,127 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
 | [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 266 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
 | [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) | 233 | Change the NPM registry address | lihzsky | macOS | [store](https://www.raycast.com/lihzsky/raycast-nrm) |

@@ -1,14 +1,14 @@
 # Yukai
 
-11 extensions · 9,460 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
+11 extensions · 9,477 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,613 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
-| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 1,871 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
-| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,528 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
+| [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,619 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
+| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 1,874 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
+| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,532 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 624 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [Curator Bio](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) | 56 | Control your curator.bio account from Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/curator-bio) |
 
@@ -17,19 +17,19 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 527 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
-| [Agent Client Protocol](https://github.com/raycast/extensions/tree/main/extensions/agent-client-protocol) | 472 | Connect to AI agents via Agent Client Protocol for coding assistance | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/agent-client-protocol) |
+| [Agent Client Protocol](https://github.com/raycast/extensions/tree/main/extensions/agent-client-protocol) | 474 | Connect to AI agents via Agent Client Protocol for coding assistance | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/agent-client-protocol) |
 
 ## Security (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 998 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
+| [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 999 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
 
 ## Uncategorized (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 556 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
+| [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 557 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
 
 ## Finance (2)
 
