@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d312304c86eb684259d2a6444118b831db109f14",
-  "generatedAt": "2026-08-21T17:30:35.700Z",
-  "downloadsRefreshedAt": "2026-08-21T17:30:34.952Z",
-  "count": 3205,
+  "commit": "8987799e4a00b52473749c306a0f01e196f84ce7",
+  "generatedAt": "2026-08-21T17:31:34.923Z",
+  "downloadsRefreshedAt": "2026-08-21T17:31:34.042Z",
+  "count": 3206,
   "extensions": [
     {
       "dir": "0x0",
@@ -2249,6 +2249,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/append-to-file",
       "treeSha": "4583e56a55f887f35a5f0497de93c37b08423bfb",
       "downloads": 83
+    },
+    {
+      "dir": "appfreezer",
+      "name": "appfreezer",
+      "title": "App Freezer",
+      "description": "Pause and resume macOS applications through the App Freezer native agent.",
+      "author": "changxu_song",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/changxu_song/appfreezer",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/appfreezer",
+      "treeSha": "a52d275ea7fc3eed92ee79c9a28b51b0c5702962",
+      "downloads": 0
     },
     {
       "dir": "appgrid",
@@ -28193,7 +28214,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 671482
+      "downloads": 671483
     },
     {
       "dir": "kimai",

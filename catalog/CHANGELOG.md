@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-21 — upstream `8987799e4a`
+
+**Added (1):** [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer)
+
 ## 2026-08-21 — upstream `d312304c86`
 
 **Added (1):** [Logbook](https://github.com/raycast/extensions/tree/main/extensions/logbook)

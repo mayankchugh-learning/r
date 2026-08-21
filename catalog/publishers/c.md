@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · **C** · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-115 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+116 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -34,6 +34,7 @@
 | [chad_walters](https://www.raycast.com/chad_walters) | 2 | 238 | **Applications:** [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck)<br>**Developer Tools:** [Prusa Printer Control](https://github.com/raycast/extensions/tree/main/extensions/prusa) |
 | [chanceaclark](https://www.raycast.com/chanceaclark) | 1 | 480 | **System:** [Empty Screenshot Folder](https://github.com/raycast/extensions/tree/main/extensions/empty-screenshots) |
 | [chandlervdw](https://www.raycast.com/chandlervdw) | 2 | 151 | **Productivity:** [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist)<br>**Media:** [Harmonic](https://github.com/raycast/extensions/tree/main/extensions/harmonic) |
+| [changxu_song](https://www.raycast.com/changxu_song) | 1 | 0 | **System:** [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) |
 | [chase_manning](https://www.raycast.com/chase_manning) | 1 | 159 | **Finance:** [Coin Caster](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) |
 | [chaseonraycast](https://www.raycast.com/chaseonraycast) | 1 | 57 | **Uncategorized:** [Yap](https://github.com/raycast/extensions/tree/main/extensions/yap) |
 | [chenhuazhao](https://www.raycast.com/chenhuazhao) | 1 | 214 | **Developer Tools:** [Android Screen Capture](https://github.com/raycast/extensions/tree/main/extensions/android-screen-capture) |

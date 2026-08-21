@@ -2,11 +2,11 @@
 
 **Apps & Processes** · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-33 of 243 extensions · [← macOS · System](./README.md)
+34 of 244 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 671,482 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 671,483 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 105,440 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 44,867 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
 | [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 30,729 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
@@ -39,3 +39,4 @@
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 41 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 | [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 20 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 3 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |
+| [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) | 0 | Pause and resume macOS applications through the App Freezer native agent. | changxu_song | macOS | [store](https://www.raycast.com/changxu_song/appfreezer) |

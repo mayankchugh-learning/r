@@ -1,6 +1,6 @@
 # Publishers
 
-2139 publishers · [← catalog index](../README.md)
+2140 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -390,7 +390,7 @@
 | 380 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 381 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 382 | github-next | 2 | — |
-| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 671,482 |
+| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 671,483 |
 | 384 | [Codely](https://www.raycast.com/Codely) | 1 | 500,739 |
 | 385 | [linear](https://www.raycast.com/linear) | 1 | 347,619 |
 | 386 | [mommertf](https://www.raycast.com/mommertf) | 1 | 289,717 |
@@ -2135,15 +2135,16 @@
 | 2125 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2126 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2127 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
-| 2128 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
-| 2129 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2130 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
-| 2131 | [Dhaiwat10](https://www.raycast.com/Dhaiwat10) | 1 | 0 |
-| 2132 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2133 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
-| 2134 | [janjezek](https://www.raycast.com/janjezek) | 1 | 0 |
-| 2135 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2136 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2137 | [rushi_gandhi](https://www.raycast.com/rushi_gandhi) | 1 | 0 |
-| 2138 | buffer | 1 | — |
-| 2139 | multi | 1 | — |
+| 2128 | [changxu_song](https://www.raycast.com/changxu_song) | 1 | 0 |
+| 2129 | [chizitere_david](https://www.raycast.com/chizitere_david) | 1 | 0 |
+| 2130 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2131 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 0 |
+| 2132 | [Dhaiwat10](https://www.raycast.com/Dhaiwat10) | 1 | 0 |
+| 2133 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2134 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
+| 2135 | [janjezek](https://www.raycast.com/janjezek) | 1 | 0 |
+| 2136 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2137 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2138 | [rushi_gandhi](https://www.raycast.com/rushi_gandhi) | 1 | 0 |
+| 2139 | buffer | 1 | — |
+| 2140 | multi | 1 | — |

@@ -1,8 +1,8 @@
 # Apps & Processes
 
-37 extensions · [← System](./README.md)
+38 extensions · [← System](./README.md)
 
-[Window ✦](#window) (5) · [Cpu ✦](#cpu) (4) · [General](#general) (28)
+[Window ✦](#window) (5) · [Cpu ✦](#cpu) (4) · [General](#general) (29)
 
 *✦ auto-discovered topic group*
 
@@ -20,7 +20,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 671,482 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 671,483 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 105,440 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 366 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Heat Check](https://github.com/raycast/extensions/tree/main/extensions/heatcheck) | 69 | See what's burning your CPU and spinning your fan | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/heatcheck) |
@@ -57,3 +57,4 @@
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 41 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 | [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller) | 6 | List installed software and batch uninstall it through BC Uninstaller from Raycast | sansaxena789 | Windows | [store](https://www.raycast.com/sansaxena789/bcuninstaller) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 3 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |
+| [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) | 0 | Pause and resume macOS applications through the App Freezer native agent. | changxu_song | macOS | [store](https://www.raycast.com/changxu_song/appfreezer) |
