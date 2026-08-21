@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) | 8,136 | Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. | chrahe | macOS | [store](https://www.raycast.com/chrahe/airpods-noise-control) |
+| [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) | 8,137 | Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. | chrahe | macOS | [store](https://www.raycast.com/chrahe/airpods-noise-control) |
 | [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) | 1,443 | Lookup chord diagrams for guitar | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/guitar-chords) |
 | [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,211 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
-| [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,135 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
+| [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,136 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,067 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
 | [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) | 1,046 | Search and open recent Ableton Live Projects | dch09 | macOS | [store](https://www.raycast.com/dch09/ableton-live) |
 | [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) | 231 | Control BetterAudio from Raycast — per-app volume, EQ, device routing, media controls, and more. | rokartur | macOS | [store](https://www.raycast.com/rokartur/betteraudio) |

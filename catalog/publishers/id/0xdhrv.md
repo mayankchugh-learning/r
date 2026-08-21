@@ -1,6 +1,6 @@
 # 0xdhrv
 
-11 extensions · 1,312 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+11 extensions · 1,313 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -22,7 +22,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 62 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
 | [Defuddle](https://github.com/raycast/extensions/tree/main/extensions/defuddle) | 45 | Extract readable web pages to Markdown with Defuddle | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/defuddle) |
-| [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | 40 | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
+| [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | 41 | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
 | [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 8 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
 
 ## Fun (3)

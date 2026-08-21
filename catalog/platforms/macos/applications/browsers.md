@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 226,992 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
-| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 53,978 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
-| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,894 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
+| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 227,022 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 53,991 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 9,901 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,424 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
 | [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 926 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
 | [OSS Browser](https://github.com/raycast/extensions/tree/main/extensions/oss-browser) | 169 | Browse and manage Aliyun Object Storage Service | JinShi | macOS | [store](https://www.raycast.com/JinShi/oss-browser) |

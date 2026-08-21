@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search) | 5,594 | Quickly search selected text or clipboard text via Google or Github or DeepL etc. | iwfan | macOS | [store](https://www.raycast.com/iwfan/quick-search) |
-| [GitHub Enterprise](https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise) | 4,143 | Visualize and manage your issues and pull requests | Kinbaum | macOS | [store](https://www.raycast.com/Kinbaum/github-for-enterprise) |
+| [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search) | 5,595 | Quickly search selected text or clipboard text via Google or Github or DeepL etc. | iwfan | macOS | [store](https://www.raycast.com/iwfan/quick-search) |
+| [GitHub Enterprise](https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise) | 4,144 | Visualize and manage your issues and pull requests | Kinbaum | macOS | [store](https://www.raycast.com/Kinbaum/github-for-enterprise) |
 | [GitHub Stars](https://github.com/raycast/extensions/tree/main/extensions/github-stars) | 3,809 | Display and filter your recent GitHub stars | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/search-github-stars) |
 | [Clash](https://github.com/raycast/extensions/tree/main/extensions/clash) | 2,826 | Monitor your Clash with Raycast. Including Proxies, Connections, Rules and Logs data, and support backends switch. | Go2SheeP | macOS | [store](https://www.raycast.com/Go2SheeP/clash) |
 | [Popcorn - Explore Stremio Streams](https://github.com/raycast/extensions/tree/main/extensions/popcorn) | 1,250 | A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. IINA is highly rec… | martipops | macOS | [store](https://www.raycast.com/martipops/popcorn) |

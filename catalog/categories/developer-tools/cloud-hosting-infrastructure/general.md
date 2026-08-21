@@ -4,13 +4,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,829 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
+| [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,830 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
 | [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,199 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
 | [Kubernetes](https://github.com/raycast/extensions/tree/main/extensions/kubernetes) | 987 | Kubernetes Client in Raycast | justin0u0 | macOS | [store](https://www.raycast.com/justin0u0/kubernetes) |
 | [kubens](https://github.com/raycast/extensions/tree/main/extensions/kubens) | 772 | Switch between Kubernetes namespaces | ChrisKohler | macOS | [store](https://www.raycast.com/ChrisKohler/kubens) |
 | [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 527 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
 | [Railway Project Search](https://github.com/raycast/extensions/tree/main/extensions/railway) | 509 | Search and navigate to your Railway projects | coffee-cup | macOS | [store](https://www.raycast.com/coffee-cup/railway) |
-| [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 501 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
+| [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 502 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
 | [Fly.io](https://github.com/raycast/extensions/tree/main/extensions/raycast-fly) | 324 | View and modify your Fly.io applications | devuo | macOS | [store](https://www.raycast.com/devuo/raycast-fly) |
 | [v0 by Vercel](https://github.com/raycast/extensions/tree/main/extensions/v0-by-vercel) | 286 | Create, view and manage your v0 chats within Raycast | vercel (org) | macOS | [store](https://www.raycast.com/vercel/v0-by-vercel) |
 | [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) | 280 | Interact with teleport, the open infrastructure access platform | lamberttraccard | macOS | [store](https://www.raycast.com/lamberttraccard/teleport) |
@@ -20,7 +20,7 @@
 | [Deno Deploy](https://github.com/raycast/extensions/tree/main/extensions/deno-deploy) | 130 | View and modify your Deno Deploy projects | j3lte | macOS | [store](https://www.raycast.com/j3lte/deno-deploy) |
 | [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) | 59 | Browse, upload, download, and manage files on your VPS via Raycast! | Abdullah-Dev115 | macOS | [store](https://www.raycast.com/Abdullah-Dev115/vps-explorer) |
 | [Appwrite](https://github.com/raycast/extensions/tree/main/extensions/appwrite) | 57 | Add Projects and View Services | xmok | macOS | [store](https://www.raycast.com/xmok/appwrite) |
-| [Firebase - Remote Config](https://github.com/raycast/extensions/tree/main/extensions/firebase-remote-config-admin) | 39 | Inspect, compare, edit, publish, delete, and roll back Firebase Remote Config across multiple projects | danilorequena | macOS, Windows | [store](https://www.raycast.com/danilorequena/firebase-remote-config-admin) |
+| [Firebase - Remote Config](https://github.com/raycast/extensions/tree/main/extensions/firebase-remote-config-admin) | 41 | Inspect, compare, edit, publish, delete, and roll back Firebase Remote Config across multiple projects | danilorequena | macOS, Windows | [store](https://www.raycast.com/danilorequena/firebase-remote-config-admin) |
 | [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) | 29 | Manage containers, images, and volumes created by Apple's open-source container CLI. | davireisvieira | macOS | [store](https://www.raycast.com/davireisvieira/apple-container) |
 | [Aiven](https://github.com/raycast/extensions/tree/main/extensions/aiven) | 23 | Manage Aiven Projects and Services | xmok | macOS | [store](https://www.raycast.com/xmok/aiven) |
 | [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) | 23 | Monitor Supabase pg_cron jobs and run history. | adrianmarten | macOS | [store](https://www.raycast.com/adrianmarten/supabase-cron-monitor) |

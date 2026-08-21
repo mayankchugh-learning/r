@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,877 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,703 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,739 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
-| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 2,998 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,878 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,708 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,742 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 3,001 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
 | [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,445 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
 | [Grammarix](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) | 1,360 | Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription,… | hakob_nersesian | macOS | [store](https://www.raycast.com/hakob_nersesian/grammari-x) |
 | [Time Zone Converter](https://github.com/raycast/extensions/tree/main/extensions/time-converter) | 1,064 | Convert times between different time zones and paste the results | alex_jones | macOS | [store](https://www.raycast.com/alex_jones/time-converter) |

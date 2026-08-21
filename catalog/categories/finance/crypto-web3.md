@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,181 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
-| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,612 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
+| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,182 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
+| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,613 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,013 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
 | [Coin Caster](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) | 159 | Get the price for any crypto asset in Raycast | chase_manning | macOS | [store](https://www.raycast.com/chase_manning/coin-caster) |
 | [Crypto Portfolio Tracker](https://github.com/raycast/extensions/tree/main/extensions/crypto-portfolio-tracker) | 81 | Add crypto wallets by their addresses and track your entire portfolio. | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/crypto-portfolio-tracker) |

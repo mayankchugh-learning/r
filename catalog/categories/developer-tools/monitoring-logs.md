@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,734 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,736 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,473 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 366 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 308 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
@@ -21,7 +21,7 @@
 | [OpenStatus](https://github.com/raycast/extensions/tree/main/extensions/openstatus) | 56 | Manage your OpenStatus monitors, Incidents and status page | thibaultleouay | macOS | [store](https://www.raycast.com/thibaultleouay/openstatus) |
 | [HetrixTools](https://github.com/raycast/extensions/tree/main/extensions/hetrixtools) | 43 | Uptime Monitor & Blacklist Monitor | xmok | macOS | [store](https://www.raycast.com/xmok/hetrixtools) |
 | [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) | 38 | Monitor status pages and check if your favorite services are operational. | alerix | macOS, Windows | [store](https://www.raycast.com/alerix/is-it-alive) |
-| [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | 25 | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
+| [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | 26 | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 
 ## Logs ✦
 

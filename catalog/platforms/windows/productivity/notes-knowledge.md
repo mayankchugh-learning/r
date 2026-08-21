@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 248,598 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
-| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 151,601 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 248,660 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 151,641 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
 | [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,530 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
-| [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) | 6,917 | Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! | biknandy | Windows, macOS | [store](https://www.raycast.com/biknandy/quick-notes) |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,877 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,226 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
+| [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) | 6,919 | Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! | biknandy | Windows, macOS | [store](https://www.raycast.com/biknandy/quick-notes) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,878 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,227 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
 | [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,122 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
 | [Roam Research](https://github.com/raycast/extensions/tree/main/extensions/roam-research) | 1,051 | Your Roam graphs at your fingertips! Quickly search, capture and navigate your Roam graphs. | roamresearch | macOS, Windows | [store](https://www.raycast.com/roamresearch/roam-research) |
 | [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) | 1,050 | Search your Evernote notes instantly using the local database of the official Evernote client. | artpi | macOS, Windows | [store](https://www.raycast.com/artpi/evernote) |

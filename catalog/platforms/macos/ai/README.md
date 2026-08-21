@@ -18,13 +18,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) | 760 | Raycast Commands for Searching Different ML APIs | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/mldocs) |
+| [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) | 761 | Raycast Commands for Searching Different ML APIs | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/mldocs) |
 
 ### Web & Search
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Semantic Scholar](https://github.com/raycast/extensions/tree/main/extensions/semantic-scholar) | 1,165 | Search research papers on semantic scholar (semanticscholar.org) | blainerothrock | macOS | [store](https://www.raycast.com/blainerothrock/semantic-scholar) |
+| [Semantic Scholar](https://github.com/raycast/extensions/tree/main/extensions/semantic-scholar) | 1,166 | Search research papers on semantic scholar (semanticscholar.org) | blainerothrock | macOS | [store](https://www.raycast.com/blainerothrock/semantic-scholar) |
 
 ### General
 

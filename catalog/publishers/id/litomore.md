@@ -1,12 +1,12 @@
 # litomore
 
-13 extensions · 12,641 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
+13 extensions · 12,645 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
 
 ## Design Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,164 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
+| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,166 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [TourBox](https://github.com/raycast/extensions/tree/main/extensions/tourbox) | 62 | Find Your Desired TourBox Preset | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/tourbox) |
 
 ## Communication (2)
@@ -20,7 +20,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,510 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
+| [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,512 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 976 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
 | [PM2](https://github.com/raycast/extensions/tree/main/extensions/pm2) | 288 | Advanced, production process manager for Node.js. | litomore | macOS | [store](https://www.raycast.com/litomore/pm2) |
 

@@ -1,14 +1,14 @@
 # Yukai
 
-11 extensions · 9,487 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
+11 extensions · 9,490 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,623 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
-| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 1,876 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
-| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,532 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
+| [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,624 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
+| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 1,877 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
+| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,533 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 625 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [Curator Bio](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) | 56 | Control your curator.bio account from Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/curator-bio) |
 

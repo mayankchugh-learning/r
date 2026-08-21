@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,409 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
+| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,410 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
 | [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq) | 3,089 | Use the powerful models via Groq from the comfort of Raycast. | ilian | macOS | [store](https://www.raycast.com/ilian/groq) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,809 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) | 1,443 | Lookup chord diagrams for guitar | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/guitar-chords) |
 | [Stoic Quotes](https://github.com/raycast/extensions/tree/main/extensions/stoicquotes) | 1,312 | Gives a random quote from one of the stoic philosophers - Marcus Aurelius, Seneca or Epictetus | rrajath | macOS | [store](https://www.raycast.com/rrajath/stoicquotes) |
-| [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,135 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
+| [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,136 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
 | [Unifi](https://github.com/raycast/extensions/tree/main/extensions/unifi) | 1,133 | Manage Unifi Controllers | lewj | macOS | [store](https://www.raycast.com/lewj/unifi) |
 | [Metronome](https://github.com/raycast/extensions/tree/main/extensions/metronome) | 1,054 | Based on an input (integer argument) BPM, you can get a metronome that plays a sound after a certain amount of time. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/metronome) |
 | [Element](https://github.com/raycast/extensions/tree/main/extensions/element) | 1,033 | Show information about an element of the periodic table. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/element) |
@@ -18,7 +18,7 @@
 | [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) | 723 | Real-Debrid client for Raycast NOT AN OFFICIAL CLIENT | Yamen | macOS | [store](https://www.raycast.com/Yamen/real-debrid-manager) |
 | [Recent Excel - Show Recent Excel Files](https://github.com/raycast/extensions/tree/main/extensions/recent-excel) | 693 | Shows recent excel files | aradbm | macOS | [store](https://www.raycast.com/aradbm/recent-excel) |
 | [V2EX](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer) | 638 | View V2EX in Raycast. | daikaiyu | macOS | [store](https://www.raycast.com/kvdo2/v2ex-viewer) |
-| [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart) | 625 | Home automation with Tuya Smart | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/tuya-smart) |
+| [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart) | 626 | Home automation with Tuya Smart | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/tuya-smart) |
 | [Kill Node Modules](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) | 543 | Remove selected node_modules | NicolasMontone | macOS, Windows | [store](https://www.raycast.com/NicolasMontone/kill-node-modules) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 539 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [Is It Toxic To?](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) | 529 | Check if a plant is toxic to an animal | chesterhow | macOS | [store](https://www.raycast.com/chesterhow/is-it-toxic-to) |
