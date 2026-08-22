@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) | 1,267 | Search and manage your Proton Pass items, generate passwords, and get TOTP codes. | izyuumi | macOS | [store](https://www.raycast.com/izyuumi/proton-pass) |
-| [Gopass](https://github.com/raycast/extensions/tree/main/extensions/gopass) | 504 | Search and copy passwords from gopass password manager | bake | macOS | [store](https://www.raycast.com/bake/gopass) |
+| [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) | 1,269 | Search and manage your Proton Pass items, generate passwords, and get TOTP codes. | izyuumi | macOS | [store](https://www.raycast.com/izyuumi/proton-pass) |
+| [Gopass](https://github.com/raycast/extensions/tree/main/extensions/gopass) | 505 | Search and copy passwords from gopass password manager | bake | macOS | [store](https://www.raycast.com/bake/gopass) |
 | [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 6 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
-| [Apple Passwords](https://github.com/raycast/extensions/tree/main/extensions/apple-passwords) | 1 | Search and manage Apple Passwords from Raycast using the APW CLI. | bendews | macOS | [store](https://www.raycast.com/bendews/apple-passwords) |
+| [Apple Passwords](https://github.com/raycast/extensions/tree/main/extensions/apple-passwords) | 4 | Search and manage Apple Passwords from Raycast using the APW CLI. | bendews | macOS | [store](https://www.raycast.com/bendews/apple-passwords) |

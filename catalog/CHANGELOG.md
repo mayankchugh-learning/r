@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-22 — upstream `6d26104b8f`
+
+**Updated (1):** [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh)
+
 ## 2026-08-21 — upstream `3b5b54d068`
 
 **Updated (1):** [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent)

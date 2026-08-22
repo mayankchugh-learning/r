@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,416 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
-| [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) | 5,714 | Control the Podcasts app for macOS with your keyboard. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/podcasts) |
-| [NeteaseMusic](https://github.com/raycast/extensions/tree/main/extensions/netease-music) | 2,114 | Control the NeteaseMusic app with your keyboard | chyroc | macOS | [store](https://www.raycast.com/chyroc/netease-music) |
-| [Tidal Controller](https://github.com/raycast/extensions/tree/main/extensions/tidal-controller) | 1,555 | Control your local Tidal client with your keyboard. Note: You **must** enable Accessibility permissions for Raycast in order for this extension to work. | broc-dev | macOS | [store](https://www.raycast.com/broc-dev/tidal-controller) |
+| [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,431 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
+| [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) | 5,721 | Control the Podcasts app for macOS with your keyboard. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/podcasts) |
+| [NeteaseMusic](https://github.com/raycast/extensions/tree/main/extensions/netease-music) | 2,115 | Control the NeteaseMusic app with your keyboard | chyroc | macOS | [store](https://www.raycast.com/chyroc/netease-music) |
+| [Tidal Controller](https://github.com/raycast/extensions/tree/main/extensions/tidal-controller) | 1,556 | Control your local Tidal client with your keyboard. Note: You **must** enable Accessibility permissions for Raycast in order for this extension to work. | broc-dev | macOS | [store](https://www.raycast.com/broc-dev/tidal-controller) |
