@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-22 — upstream `5f41880ecd`
+
+**Updated (1):** [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket)
+
 ## 2026-08-22 — upstream `6d26104b8f`
 
 **Updated (1):** [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh)

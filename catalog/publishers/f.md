@@ -64,7 +64,7 @@
 | [forrestzh](https://www.raycast.com/forrestzh) | 1 | 450 | **Data:** [Base64 to File](https://github.com/raycast/extensions/tree/main/extensions/base64-to-file) |
 | [francesco_mecchi](https://www.raycast.com/francesco_mecchi) | 1 | 991 | **Productivity:** [Repository Manager](https://github.com/raycast/extensions/tree/main/extensions/repository-manager) |
 | [Francescoparadiso](https://www.raycast.com/Francescoparadiso) | 1 | 14 | **Productivity:** [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) |
-| [Francois](https://www.raycast.com/Francois) | 2 | 5,171 | **Developer Tools:** [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket), [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) |
+| [Francois](https://www.raycast.com/Francois) | 2 | 5,172 | **Developer Tools:** [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket), [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) |
 | [frank-miao](https://www.raycast.com/frank-miao) | 1 | 5 | **Documentation:** [Lattice Scholar Extension](https://github.com/raycast/extensions/tree/main/extensions/lattice-scholar-extension) |
 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 14,050 | **Productivity:** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)<br>**Web:** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router) |
 | [fratoro](https://www.raycast.com/fratoro) | 1 | 48 | **Web:** [Hakuna](https://github.com/raycast/extensions/tree/main/extensions/hakuna) |

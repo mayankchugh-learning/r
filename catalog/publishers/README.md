@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,114,172 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,114,205 |
 | 2 | [raycast](./id/raycast.md) | 11 | 793,373 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 672,257 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 501,211 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 672,293 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 501,235 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 442,174 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 437,193 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 409,220 |
@@ -249,7 +249,7 @@
 | 239 | [karbassi](https://www.raycast.com/karbassi) | 1 | 5,376 |
 | 240 | [treyg](https://www.raycast.com/treyg) | 2 | 5,263 |
 | 241 | [SonicSpark](https://www.raycast.com/SonicSpark) | 1 | 5,187 |
-| 242 | [Francois](https://www.raycast.com/Francois) | 2 | 5,171 |
+| 242 | [Francois](https://www.raycast.com/Francois) | 2 | 5,172 |
 | 243 | [harumeri](https://www.raycast.com/harumeri) | 1 | 5,164 |
 | 244 | [firecrawl](https://www.raycast.com/firecrawl) | 1 | 5,064 |
 | 245 | [Haojen](https://www.raycast.com/Haojen) | 2 | 5,034 |
