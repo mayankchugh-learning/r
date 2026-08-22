@@ -28,7 +28,7 @@
 | [willian](https://www.raycast.com/willian) | 1 | 103 | **Fun:** [Brasileirão Série A](https://github.com/raycast/extensions/tree/main/extensions/brasileirao-serie-a) |
 | [wilton](https://www.raycast.com/wilton) | 1 | 12 | **Productivity:** [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) |
 | [winann](https://www.raycast.com/winann) | 1 | 531 | **Other:** [Paste from Apple Books](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) |
-| [wisdom-plus](https://www.raycast.com/wisdom-plus) | 1 | 717 | **Applications:** [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) |
+| [wisdom-plus](https://www.raycast.com/wisdom-plus) | 1 | 718 | **Applications:** [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) |
 | [wizenheimer](https://www.raycast.com/wizenheimer) | 1 | 3 | **Developer Tools:** [Userplane](https://github.com/raycast/extensions/tree/main/extensions/userplane) |
 | [wjsong](https://www.raycast.com/wjsong) | 1 | 22 | **Developer Tools:** [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop) |
 | [wong2](https://www.raycast.com/wong2) | 1 | 109 | **Applications:** [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) |

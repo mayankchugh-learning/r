@@ -15,7 +15,7 @@
 | 5 | [alexi.build](./id/alexi-build.md) | 17 | 1,840 |
 | 6 | [Aayush9029](./id/aayush9029.md) | 16 | 151,401 |
 | 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 25,928 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,114,308 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,114,757 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 301,121 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,300 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,386 |
@@ -390,8 +390,8 @@
 | 380 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 381 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 382 | github-next | 2 | — |
-| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 672,406 |
-| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 501,307 |
+| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 672,884 |
+| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 501,593 |
 | 385 | [linear](https://www.raycast.com/linear) | 1 | 348,099 |
 | 386 | [mommertf](https://www.raycast.com/mommertf) | 1 | 290,038 |
 | 387 | [nhojb](https://www.raycast.com/nhojb) | 1 | 257,550 |
@@ -862,7 +862,7 @@
 | 852 | [diana_scharf](https://www.raycast.com/diana_scharf) | 1 | 726 |
 | 853 | [theapache64](https://www.raycast.com/theapache64) | 1 | 725 |
 | 854 | [theo_brlle](https://www.raycast.com/theo_brlle) | 1 | 725 |
-| 855 | [wisdom-plus](https://www.raycast.com/wisdom-plus) | 1 | 717 |
+| 855 | [wisdom-plus](https://www.raycast.com/wisdom-plus) | 1 | 718 |
 | 856 | [Antonwy](https://www.raycast.com/Antonwy) | 1 | 716 |
 | 857 | [stablecog](https://www.raycast.com/stablecog) | 1 | 716 |
 | 858 | [tillkruss](https://www.raycast.com/tillkruss) | 1 | 715 |
@@ -1019,7 +1019,7 @@
 | 1009 | [felixb1010](https://www.raycast.com/felixb1010) | 1 | 428 |
 | 1010 | [3mdistal](https://www.raycast.com/3mdistal) | 1 | 424 |
 | 1011 | [quiknull](https://www.raycast.com/quiknull) | 1 | 423 |
-| 1012 | [that70schris](https://www.raycast.com/that70schris) | 1 | 418 |
+| 1012 | [that70schris](https://www.raycast.com/that70schris) | 1 | 419 |
 | 1013 | [clnhs](https://www.raycast.com/clnhs) | 1 | 414 |
 | 1014 | [DominicVonk](https://www.raycast.com/DominicVonk) | 1 | 414 |
 | 1015 | [theplgeek](https://www.raycast.com/theplgeek) | 1 | 414 |

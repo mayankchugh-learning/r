@@ -39,7 +39,7 @@
 | [teziovsky](https://www.raycast.com/teziovsky) | 5 | 4,789 | **Documentation:** [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs)<br>**Applications:** [Height](https://github.com/raycast/extensions/tree/main/extensions/height)<br>**Developer Tools:** [CSS Calculations](https://github.com/raycast/extensions/tree/main/extensions/css-calculations)<br>**Media:** [Meta Music](https://github.com/raycast/extensions/tree/main/extensions/meta-music)<br>**Finance:** [InFakt](https://github.com/raycast/extensions/tree/main/extensions/infakt) |
 | [tflink-tmpfile](https://www.raycast.com/tflink-tmpfile) | 1 | 21 | **Productivity:** [Tflink Tmpfile](https://github.com/raycast/extensions/tree/main/extensions/tflink-tmpfile) |
 | [tgrecojs](https://www.raycast.com/tgrecojs) | 1 | 27 | **Developer Tools:** [Gist Rocket](https://github.com/raycast/extensions/tree/main/extensions/gist-rocket) |
-| [that70schris](https://www.raycast.com/that70schris) | 1 | 418 | **System:** [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour) |
+| [that70schris](https://www.raycast.com/that70schris) | 1 | 419 | **System:** [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour) |
 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 107,761 | **Productivity:** [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) |
 | [the_revolution](https://www.raycast.com/the_revolution) | 1 | 587 | **Media:** [ShareX](https://github.com/raycast/extensions/tree/main/extensions/sharex) |
 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 239,744 | **Web:** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)<br>**Productivity:** [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) |
@@ -65,7 +65,7 @@
 | [thijsdewitt](https://www.raycast.com/thijsdewitt) | 1 | 149 | **Developer Tools:** [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) |
 | [third774](https://www.raycast.com/third774) | 3 | 61,574 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,576 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,114,308 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,114,757 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 36 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 56,780 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,647 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |

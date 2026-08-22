@@ -56,7 +56,7 @@
 | [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 460 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
 | [Base64 to File](https://github.com/raycast/extensions/tree/main/extensions/base64-to-file) | 450 | convert base64 to file | forrestzh | macOS | [store](https://www.raycast.com/forrestzh/base64-to-file) |
 | [Bitrise](https://github.com/raycast/extensions/tree/main/extensions/bitrise) | 435 | Check your Bitrise CI builds and start new ones. | ofalvai | macOS | [store](https://www.raycast.com/ofalvai/bitrise) |
-| [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour) | 418 | Manage Bonjour services | that70schris | macOS | [store](https://www.raycast.com/that70schris/bonjour) |
+| [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour) | 419 | Manage Bonjour services | that70schris | macOS | [store](https://www.raycast.com/that70schris/bonjour) |
 | [Bring!](https://github.com/raycast/extensions/tree/main/extensions/bring) | 404 | Add items to your Bring! shopping lists | amuelli | macOS, Windows | [store](https://www.raycast.com/amuelli/bring) |
 | [Buildkite](https://github.com/raycast/extensions/tree/main/extensions/buildkite) | 393 | Search Buildkite pipelines and builds | mskelton | macOS | [store](https://www.raycast.com/mskelton/buildkite) |
 | [BTTV Emote](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) | 379 | Browse Through Thousands of BTTV Emote | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/bttv-emote) |

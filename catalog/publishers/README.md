@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,114,308 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,114,757 |
 | 2 | [raycast](./id/raycast.md) | 11 | 793,400 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 672,406 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 501,307 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 672,884 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 501,593 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 442,174 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 437,193 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 409,220 |
@@ -753,7 +753,7 @@
 | 743 | [diana_scharf](https://www.raycast.com/diana_scharf) | 1 | 726 |
 | 744 | [theapache64](https://www.raycast.com/theapache64) | 1 | 725 |
 | 745 | [theo_brlle](https://www.raycast.com/theo_brlle) | 1 | 725 |
-| 746 | [wisdom-plus](https://www.raycast.com/wisdom-plus) | 1 | 717 |
+| 746 | [wisdom-plus](https://www.raycast.com/wisdom-plus) | 1 | 718 |
 | 747 | [Antonwy](https://www.raycast.com/Antonwy) | 1 | 716 |
 | 748 | [stablecog](https://www.raycast.com/stablecog) | 1 | 716 |
 | 749 | [tillkruss](https://www.raycast.com/tillkruss) | 1 | 715 |
@@ -936,7 +936,7 @@
 | 926 | [3mdistal](https://www.raycast.com/3mdistal) | 1 | 424 |
 | 927 | [quiknull](https://www.raycast.com/quiknull) | 1 | 423 |
 | 928 | [amuelli](https://www.raycast.com/amuelli) | 2 | 420 |
-| 929 | [that70schris](https://www.raycast.com/that70schris) | 1 | 418 |
+| 929 | [that70schris](https://www.raycast.com/that70schris) | 1 | 419 |
 | 930 | [lafkpages](https://www.raycast.com/luisafk) | 2 | 417 |
 | 931 | [selemondev](https://www.raycast.com/selemondev) | 2 | 416 |
 | 932 | [clnhs](https://www.raycast.com/clnhs) | 1 | 414 |

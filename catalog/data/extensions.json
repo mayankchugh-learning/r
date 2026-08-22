@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "60029d44ec1e1fec69a485786b550c78c98d41ab",
-  "generatedAt": "2026-08-22T07:22:44.745Z",
-  "downloadsRefreshedAt": "2026-08-22T07:22:44.074Z",
+  "commit": "a93d8f9b7145424aef8ef54cd4d7b14cd6836bd6",
+  "generatedAt": "2026-08-22T14:23:52.441Z",
+  "downloadsRefreshedAt": "2026-08-22T14:23:51.791Z",
   "count": 3208,
   "extensions": [
     {
@@ -5513,8 +5513,8 @@
       ],
       "store": "https://www.raycast.com/that70schris/bonjour",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bonjour",
-      "treeSha": "986f1ed974d79c73271a858971d4908d10d19bb3",
-      "downloads": 418
+      "treeSha": "6eaae1269dd2bab918151f2b093c4b2f17fbed5e",
+      "downloads": 419
     },
     {
       "dir": "bonk-price",
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 513791
+      "downloads": 514240
     },
     {
       "dir": "color-shades",
@@ -21936,7 +21936,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 501307
+      "downloads": 501593
     },
     {
       "dir": "google-chrome-profiles",
@@ -28236,7 +28236,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 672406
+      "downloads": 672884
     },
     {
       "dir": "kimai",
@@ -50760,7 +50760,7 @@
       "store": "https://www.raycast.com/wisdom-plus/search-joplin-notes",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes",
       "treeSha": "a8d1ae870d310d7ccc1084883691e6775914b15d",
-      "downloads": 717
+      "downloads": 718
     },
     {
       "dir": "search-mdn",
