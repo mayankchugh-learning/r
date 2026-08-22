@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "af2aaa97e27a20367f2928df854ddc1493485b86",
-  "generatedAt": "2026-08-22T18:46:37.621Z",
-  "downloadsRefreshedAt": "2026-08-22T18:46:37.233Z",
+  "commit": "514d94b36b039954d340d5f852b91d25812cb739",
+  "generatedAt": "2026-08-22T18:47:37.307Z",
+  "downloadsRefreshedAt": "2026-08-22T18:47:36.936Z",
   "count": 3208,
   "extensions": [
     {
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 514556
+      "downloads": 514558
     },
     {
       "dir": "color-shades",
@@ -53807,11 +53807,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/Aayush9029/sonarr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sonarr",
-      "treeSha": "b8bf491d7d7e910538513dbaced1bb22734bb199",
+      "treeSha": "b1f5ccb8b635c29f3cf6ea626259836714a6b6c7",
       "downloads": 868
     },
     {

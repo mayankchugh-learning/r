@@ -1,8 +1,8 @@
 # Cross-platform · Media
 
-77 extensions · [← Cross-platform](../README.md)
+78 extensions · [← Cross-platform](../README.md)
 
-[Music & Audio](#music-audio) (12) · [Video & Streaming](#video-streaming) (10) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (4) · [Books & Papers](#books-papers) (2) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (30)
+[Music & Audio](#music-audio) (12) · [Video & Streaming](#video-streaming) (10) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (4) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (30)
 
 ## Listen & Watch
 
@@ -74,6 +74,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,433 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 1,899 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
+| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 868 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/sonarr) |
 
 ## Create & Convert
 

@@ -1,8 +1,8 @@
 # Cross-platform · Other
 
-36 extensions · [← Cross-platform](../README.md)
+37 extensions · [← Cross-platform](../README.md)
 
-[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Media & Entertainment](#media-entertainment) (1) · [Language & Translation](#language-translation) (2) · [Travel & Transport](#travel-transport) (4) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (6) · [Communication & Social](#communication-social) (1) · [General](#general) (12)
+[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Media & Entertainment](#media-entertainment) (1) · [Language & Translation](#language-translation) (2) · [Travel & Transport](#travel-transport) (4) · [Smart Home & IoT](#smart-home-iot) (2) · [System & Hardware](#system-hardware) (1) · [Web & Search](#web-search) (7) · [Communication & Social](#communication-social) (1) · [General](#general) (12)
 
 ## Digital Tools
 
@@ -34,6 +34,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,181 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
 | [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 2,895 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
+| [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 868 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 742 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 310 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Drug Search](https://github.com/raycast/extensions/tree/main/extensions/drug-search) | 306 | Search the FDA drug database with ease | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/drug-search) |
