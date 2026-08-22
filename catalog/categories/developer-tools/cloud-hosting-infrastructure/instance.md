@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 357 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
+| [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 358 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
 | [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 151 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |
 | [Colima](https://github.com/raycast/extensions/tree/main/extensions/colima) | 122 | Manage Colima virtual machine instances and Docker environments directly from Raycast | MiskaMyasa | macOS | [store](https://www.raycast.com/MiskaMyasa/colima) |
 | [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 54 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |

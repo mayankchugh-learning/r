@@ -1,6 +1,6 @@
 # macOS · Fun
 
-276 extensions · [← macOS](../README.md)
+275 extensions · [← macOS](../README.md)
 
 ## Play
 
@@ -29,4 +29,4 @@
 | [Nature & Exploration](./nature-exploration.md) | 5 |
 | [Food & Drink](./food-drink.md) | 7 |
 
-Plus [General](./general.md) — 107 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 106 extensions that don't fit a topic yet.

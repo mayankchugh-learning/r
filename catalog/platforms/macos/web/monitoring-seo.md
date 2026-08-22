@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,384 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
-| [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | 3,390 | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |
-| [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,298 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
-| [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | 841 | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |
+| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,387 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
+| [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | 3,391 | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |
+| [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,299 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
+| [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | 842 | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |
 | [Better Uptime](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) | 735 | Check on your Better Uptime monitors, incidents and heartbeats. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/better-uptime) |
-| [Proton Version](https://github.com/raycast/extensions/tree/main/extensions/proton-version) | 654 | Keep track of the lastest version of Proton products | flavien.bonvin | macOS | [store](https://www.raycast.com/flavien.bonvin/proton-version) |
+| [Proton Version](https://github.com/raycast/extensions/tree/main/extensions/proton-version) | 656 | Keep track of the lastest version of Proton products | flavien.bonvin | macOS | [store](https://www.raycast.com/flavien.bonvin/proton-version) |
 | [Pagespeed](https://github.com/raycast/extensions/tree/main/extensions/pagespeed) | 575 | A simple extension that reports page speed insights based on page-speed.dev | vorillaz | macOS | [store](https://www.raycast.com/vorillaz/pagespeed) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 308 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
 | [Plausible Analytics](https://github.com/raycast/extensions/tree/main/extensions/plausible-analytics) | 258 | Get a quick, brief overview of your Plausible Analytics data. | thebrokenfinger | macOS | [store](https://www.raycast.com/thebrokenfinger/plausible-analytics) |

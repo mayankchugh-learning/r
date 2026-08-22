@@ -6,7 +6,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [Search Engines](./search-engines.md) | 162 |
+| [Search Engines](./search-engines.md) | 161 |
 | [Browsers & Tabs](./browsers-tabs.md) | 8 |
 | [Bookmarks & Read Later](./bookmarks-read-later.md) | 6 |
 
@@ -25,7 +25,7 @@
 | --- | --- |
 | [Web Apps & Services](./web-apps-services.md) | 32 |
 | [Social & Communities](./social-communities.md) | 25 |
-| [AI Services](./ai-services.md) | 32 |
+| [AI Services](./ai-services.md) | 33 |
 | [Crypto & Markets](./crypto-markets.md) | 6 |
 
 Plus [General](./general.md) — 127 extensions that don't fit a topic yet.

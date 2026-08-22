@@ -26,7 +26,7 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 | Creative & Media | Design Tools, Media | 422 |
 | Web, Finance & News | Web, Finance, News | 667 |
 | System & Utilities | System, Other | 437 |
-| Fun & Entertainment | Fun | 277 |
+| Fun & Entertainment | Fun | 276 |
 | Uncategorized | Uncategorized | 114 |
 
 ## How this stays up to date

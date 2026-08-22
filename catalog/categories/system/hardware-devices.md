@@ -10,20 +10,20 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 64,900 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
-| [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 8,686 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
-| [Keyboard Brightness](https://github.com/raycast/extensions/tree/main/extensions/keyboard-brightness) | 7,898 | Easily Control Keyboard Brightness on your Apple Silicon MacBook | huzef44 | macOS | [store](https://www.raycast.com/huzef44/keyboard-brightness) |
-| [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 5,655 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
-| [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 4,608 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 65,012 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 8,699 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
+| [Keyboard Brightness](https://github.com/raycast/extensions/tree/main/extensions/keyboard-brightness) | 7,907 | Easily Control Keyboard Brightness on your Apple Silicon MacBook | huzef44 | macOS | [store](https://www.raycast.com/huzef44/keyboard-brightness) |
+| [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 5,660 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
+| [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 4,612 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
 | [Media Key Emulate](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) | 1,098 | Emulate keyboard media keys press. Reassign hotkey for media keys. | douo | macOS | [store](https://www.raycast.com/douo/global-media-key) |
 
 ## Devices ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 65,496 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,195 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
-| [Sidecar Connect](https://github.com/raycast/extensions/tree/main/extensions/sidecar-connect) | 173 | Connect and manage Sidecar devices directly from Raycast. | dejuknow | macOS | [store](https://www.raycast.com/dejuknow/sidecar-connect) |
+| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 65,581 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,223 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Sidecar Connect](https://github.com/raycast/extensions/tree/main/extensions/sidecar-connect) | 175 | Connect and manage Sidecar devices directly from Raycast. | dejuknow | macOS | [store](https://www.raycast.com/dejuknow/sidecar-connect) |
 | [Mobile Provisions](https://github.com/raycast/extensions/tree/main/extensions/mobile-provisions) | 23 | Manage and inspect Apple mobile provisioning profiles with detailed information about certificates, entitlements, and provisioned devices | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mobile-provisions) |
 
 ## Mouse ✦
@@ -31,7 +31,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 214 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
-| [Mouse Jiggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-jiggle) | 186 | Continuously jiggle the mouse cursor with dramatic zigzag movements to prevent sleep | stevefrost | macOS | [store](https://www.raycast.com/stevefrost/mouse-jiggle) |
+| [Mouse Jiggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-jiggle) | 187 | Continuously jiggle the mouse cursor with dramatic zigzag movements to prevent sleep | stevefrost | macOS | [store](https://www.raycast.com/stevefrost/mouse-jiggle) |
 | [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) | 98 | Move the macOS mouse cursor between displays with relative-position and center modes. | johnwick | macOS | [store](https://www.raycast.com/johnwick/move-cursor-next-display) |
 | [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | 0 | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | [store](https://www.raycast.com/Dhaiwat10/mouse-cursor-toggle) |
 
@@ -39,8 +39,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 51,470 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
-| [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) | 19,818 | Shows live information about the battery in your Mac! | o1y | macOS | [store](https://www.raycast.com/o1y/battery-health) |
-| [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) | 8,147 | Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. | chrahe | macOS | [store](https://www.raycast.com/chrahe/airpods-noise-control) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,724 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
-| [Battery Optimizer](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) | 3,079 | Keep the battery healthy by limiting the charging capacity. | Qetesh | macOS | [store](https://www.raycast.com/Qetesh/battery-optimizer) |
+| [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 51,533 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
+| [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) | 19,839 | Shows live information about the battery in your Mac! | o1y | macOS | [store](https://www.raycast.com/o1y/battery-health) |
+| [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) | 8,156 | Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. | chrahe | macOS | [store](https://www.raycast.com/chrahe/airpods-noise-control) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,735 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Battery Optimizer](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) | 3,081 | Keep the battery healthy by limiting the charging capacity. | Qetesh | macOS | [store](https://www.raycast.com/Qetesh/battery-optimizer) |

@@ -15,7 +15,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants.md) | 122 |
+| [AI & Assistants](./ai-assistants.md) | 123 |
 | [Writing & Text Tools](./writing-text-tools.md) | 73 |
 | [Documents & Files](./documents-files.md) | 124 |
 | [Email](./email.md) | 22 |
@@ -27,7 +27,7 @@
 | [Automation & Workflows](./automation-workflows.md) | 28 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 67 |
 | [Window & Workspace Management](./window-workspace-management.md) | 43 |
-| [Search & Bookmarks](./search-bookmarks.md) | 224 |
+| [Search & Bookmarks](./search-bookmarks.md) | 223 |
 
 ## Learn & Collaborate
 

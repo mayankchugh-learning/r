@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-22 — upstream `0390b6a162`
+
+**Updated (1):** [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town)
+
 ## 2026-08-22 — upstream `83af2c1f09`
 
 **Updated (1):** [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner)

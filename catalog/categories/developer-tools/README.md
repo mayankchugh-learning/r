@@ -11,7 +11,7 @@ macOS: 1091 · Windows: 304
 | [Git & Version Control](./git-version-control/README.md) | 49 |
 | [Issue Tracking & Projects](./issue-tracking-projects.md) | 11 |
 | [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 97 |
-| [Search & Reference](./search-reference.md) | 118 |
+| [Search & Reference](./search-reference.md) | 117 |
 
 ## Build, Ship & Operate
 
@@ -27,7 +27,7 @@ macOS: 1091 · Windows: 304
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools/README.md) | 122 |
+| [AI & LLM Tools](./ai-llm-tools/README.md) | 123 |
 | [Web & Frontend](./web-frontend.md) | 62 |
 | [Mobile & App Development](./mobile-app-development.md) | 30 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 15 |

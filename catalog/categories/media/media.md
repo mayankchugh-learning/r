@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 1,974 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
+| [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 1,976 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
 | [Media Key Emulate](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) | 1,098 | Emulate keyboard media keys press. Reassign hotkey for media keys. | douo | macOS | [store](https://www.raycast.com/douo/global-media-key) |
 | [Openverse](https://github.com/raycast/extensions/tree/main/extensions/openverse) | 301 | Openverse is a search engine for openly-licensed media. | openverse (org) | macOS | [store](https://www.raycast.com/openverse/openverse) |
 | [Wistia](https://github.com/raycast/extensions/tree/main/extensions/wistia) | 44 | Search Wistia Medias and Projects | darin | macOS | [store](https://www.raycast.com/darin/wistia) |

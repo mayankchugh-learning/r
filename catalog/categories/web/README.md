@@ -8,7 +8,7 @@ macOS: 462 · Windows: 136
 
 | Topic | Extensions |
 | --- | --- |
-| [Search Engines](./search-engines.md) | 162 |
+| [Search Engines](./search-engines.md) | 161 |
 | [Browsers & Tabs](./browsers-tabs.md) | 8 |
 | [Bookmarks & Read Later](./bookmarks-read-later.md) | 6 |
 
@@ -27,7 +27,7 @@ macOS: 462 · Windows: 136
 | --- | --- |
 | [Web Apps & Services](./web-apps-services.md) | 32 |
 | [Social & Communities](./social-communities.md) | 25 |
-| [AI Services](./ai-services/README.md) | 32 |
+| [AI Services](./ai-services/README.md) | 33 |
 | [Crypto & Markets](./crypto-markets.md) | 6 |
 
 ## Discovered topics ✦
