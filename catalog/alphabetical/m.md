@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 89,679 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 89,710 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
 | [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 45,500 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
 | [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 44,779 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry) | 37,154 | Find and install MCP servers in Raycast and other MCP clients like Claude or Cursor. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/model-context-protocol-registry) |

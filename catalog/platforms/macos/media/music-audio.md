@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 432,926 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
-| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 89,679 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 89,710 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
 | [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,431 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
 | [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 24,273 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
 | [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 21,731 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
