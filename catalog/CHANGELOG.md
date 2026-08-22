@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-22 — upstream `d95cab2f5c`
+
+**Updated (2):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github), [Tududi](https://github.com/raycast/extensions/tree/main/extensions/tududi)
+
 ## 2026-08-22 — upstream `5f41880ecd`
 
 **Updated (1):** [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket)
