@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-22 — upstream `fe46ab9bc5`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-08-22 — upstream `a2d19c948c`
 
 **Updated (1):** [Logbook](https://github.com/raycast/extensions/tree/main/extensions/logbook)

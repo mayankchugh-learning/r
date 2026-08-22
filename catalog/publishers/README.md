@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,114,280 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,114,295 |
 | 2 | [raycast](./id/raycast.md) | 11 | 793,400 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 672,374 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 501,285 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 672,388 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 501,295 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 442,174 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 437,193 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 409,220 |
@@ -304,7 +304,7 @@
 | 294 | [apoorv_khandelwal](https://www.raycast.com/apoorv_khandelwal) | 1 | 3,673 |
 | 295 | [meguoe](https://www.raycast.com/meguoe) | 1 | 3,671 |
 | 296 | [VishwasShashidhar](https://www.raycast.com/VishwasShashidhar) | 1 | 3,669 |
-| 297 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,644 |
+| 297 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,647 |
 | 298 | [meshal](https://www.raycast.com/meshal) | 3 | 3,643 |
 | 299 | [edrf](https://www.raycast.com/edrf) | 1 | 3,634 |
 | 300 | [joshtemple](https://www.raycast.com/joshtemple) | 1 | 3,628 |
