@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `ae19453cbf`
+
+**Updated (1):** [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search)
+
 ## 2026-08-23 — upstream `ce28496c75`
 
 **Updated (1):** [Mirror Displays](https://github.com/raycast/extensions/tree/main/extensions/mirror-displays)
