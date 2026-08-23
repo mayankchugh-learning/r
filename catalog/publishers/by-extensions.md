@@ -1,6 +1,6 @@
 # Publishers
 
-2144 publishers · [← catalog index](../README.md)
+2145 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 26,005 |
 | 6 | [alexi.build](./id/alexi-build.md) | 17 | 1,851 |
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 151,671 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,116,826 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,116,844 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 301,693 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,352 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,424 |
@@ -390,8 +390,8 @@
 | 380 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 381 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 382 | github-next | 2 | — |
-| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,803 |
-| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 502,262 |
+| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,814 |
+| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 502,274 |
 | 385 | [linear](https://www.raycast.com/linear) | 1 | 348,921 |
 | 386 | [mommertf](https://www.raycast.com/mommertf) | 1 | 290,417 |
 | 387 | [nhojb](https://www.raycast.com/nhojb) | 1 | 258,093 |
@@ -2128,19 +2128,19 @@
 | 2118 | [abstyle](https://www.raycast.com/abstyle) | 1 | 1 |
 | 2119 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 1 |
 | 2120 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 1 |
-| 2121 | [chiptoma](https://www.raycast.com/chiptoma) | 1 | 1 |
-| 2122 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 |
-| 2123 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 1 |
-| 2124 | [figa](https://www.raycast.com/figa) | 1 | 1 |
-| 2125 | [filiph](https://www.raycast.com/filiph) | 1 | 1 |
-| 2126 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 1 |
-| 2127 | [insuline](https://www.raycast.com/Insuline) | 1 | 1 |
-| 2128 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
-| 2129 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
-| 2130 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
-| 2131 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
-| 2132 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2133 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
+| 2121 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 |
+| 2122 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 1 |
+| 2123 | [figa](https://www.raycast.com/figa) | 1 | 1 |
+| 2124 | [filiph](https://www.raycast.com/filiph) | 1 | 1 |
+| 2125 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 1 |
+| 2126 | [insuline](https://www.raycast.com/Insuline) | 1 | 1 |
+| 2127 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
+| 2128 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
+| 2129 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
+| 2130 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
+| 2131 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
+| 2132 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
+| 2133 | [chiptoma](https://www.raycast.com/chiptoma) | 1 | 0 |
 | 2134 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2135 | [Dhaiwat10](https://www.raycast.com/Dhaiwat10) | 1 | 0 |
 | 2136 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
@@ -2151,4 +2151,5 @@
 | 2141 | [ramysamy](https://www.raycast.com/ramysamy) | 1 | 0 |
 | 2142 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2143 | buffer | 1 | — |
-| 2144 | multi | 1 | — |
+| 2144 | invm | 1 | — |
+| 2145 | multi | 1 | — |

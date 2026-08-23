@@ -1,6 +1,6 @@
 # Publishers
 
-2144 publishers · [← catalog index](../README.md)
+2145 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,116,826 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,116,844 |
 | 2 | [raycast](./id/raycast.md) | 11 | 795,050 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,803 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,262 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,814 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,274 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 442,939 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 437,899 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 409,986 |
@@ -2127,19 +2127,19 @@
 | 2117 | [abstyle](https://www.raycast.com/abstyle) | 1 | 1 |
 | 2118 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 1 |
 | 2119 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 1 |
-| 2120 | [chiptoma](https://www.raycast.com/chiptoma) | 1 | 1 |
-| 2121 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 |
-| 2122 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 1 |
-| 2123 | [figa](https://www.raycast.com/figa) | 1 | 1 |
-| 2124 | [filiph](https://www.raycast.com/filiph) | 1 | 1 |
-| 2125 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 1 |
-| 2126 | [insuline](https://www.raycast.com/Insuline) | 1 | 1 |
-| 2127 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
-| 2128 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
-| 2129 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
-| 2130 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
-| 2131 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2132 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
+| 2120 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 |
+| 2121 | [danielbutler1](https://www.raycast.com/danielbutler1) | 1 | 1 |
+| 2122 | [figa](https://www.raycast.com/figa) | 1 | 1 |
+| 2123 | [filiph](https://www.raycast.com/filiph) | 1 | 1 |
+| 2124 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 1 |
+| 2125 | [insuline](https://www.raycast.com/Insuline) | 1 | 1 |
+| 2126 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
+| 2127 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
+| 2128 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
+| 2129 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
+| 2130 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
+| 2131 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 0 |
+| 2132 | [chiptoma](https://www.raycast.com/chiptoma) | 1 | 0 |
 | 2133 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2134 | [Dhaiwat10](https://www.raycast.com/Dhaiwat10) | 1 | 0 |
 | 2135 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
@@ -2151,4 +2151,5 @@
 | 2141 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2142 | github-next | 2 | — |
 | 2143 | buffer | 1 | — |
-| 2144 | multi | 1 | — |
+| 2144 | invm | 1 | — |
+| 2145 | multi | 1 | — |

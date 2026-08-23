@@ -2,7 +2,7 @@
 
 [Language References](./language-references.md) · [Framework & Library Docs](./framework-library-docs.md) · [Cheatsheets & Snippets](./cheatsheets-snippets.md) · [Developer References](./developer-references.md) · [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) · [Communities & Blogs](./communities-blogs.md) · [Dictionaries & Language](./dictionaries-language.md) · **General**
 
-71 of 210 extensions · [← macOS · Documentation](./README.md)
+72 of 211 extensions · [← macOS · Documentation](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -77,3 +77,4 @@
 | [e18e Module Replacements](https://github.com/raycast/extensions/tree/main/extensions/e18e-module-replacements) | 7 | Search and browse e18e's curated list of modern npm package replacements. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/e18e-module-replacements) |
 | [Lattice Scholar Extension](https://github.com/raycast/extensions/tree/main/extensions/lattice-scholar-extension) | 5 | Search your Lattice literature library from Raycast | frank-miao | macOS | [store](https://www.raycast.com/frank-miao/lattice-scholar-extension) |
 | [Granite](https://github.com/raycast/extensions/tree/main/extensions/granite) | 3 | Search, browse, and ask your Granite document vault. | Shpigford | macOS | [store](https://www.raycast.com/Shpigford/granite) |
+| [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) | — | Offline thesaurus: synonyms, antonyms and definitions | invm | macOS, Windows | — |

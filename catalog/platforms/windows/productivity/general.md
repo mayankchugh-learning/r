@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-112 of 353 extensions · [← Windows · Productivity](./README.md)
+113 of 354 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -118,3 +118,4 @@
 | [Quick Access Infomaniak](https://github.com/raycast/extensions/tree/main/extensions/quick-access-infomaniak) | 3 | Quick access to Infomaniak's manager pages | apiaget | macOS, Windows | [store](https://www.raycast.com/apiaget/quick-access-infomaniak) |
 | [Cook](https://github.com/raycast/extensions/tree/main/extensions/cook) | 2 | Browse, view, and generate shopping lists from your Cooklang recipe collection | chizitere_david | macOS, Windows | [store](https://www.raycast.com/chizitere_david/cook) |
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
+| [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) | — | Offline thesaurus: synonyms, antonyms and definitions | invm | macOS, Windows | — |

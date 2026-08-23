@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6e3029545c1a29cf51b52634fc6e3de9597a74a3",
-  "generatedAt": "2026-08-23T06:53:59.422Z",
-  "downloadsRefreshedAt": "2026-08-23T06:53:58.633Z",
-  "count": 3213,
+  "commit": "b56f65d1d49996a2b0390dcf43e9a5b7c85a3c07",
+  "generatedAt": "2026-08-23T07:10:33.046Z",
+  "downloadsRefreshedAt": "2026-08-23T07:10:32.167Z",
+  "count": 3214,
   "extensions": [
     {
       "dir": "0x0",
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 515194
+      "downloads": 515212
     },
     {
       "dir": "color-shades",
@@ -21999,7 +21999,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 502262
+      "downloads": 502274
     },
     {
       "dir": "google-chrome-profiles",
@@ -28299,7 +28299,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 673803
+      "downloads": 673814
     },
     {
       "dir": "kimai",
@@ -52468,7 +52468,7 @@
       "store": "https://www.raycast.com/chiptoma/sidecar-display",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sidecar-display",
       "treeSha": "0f6d58b1c7352e38c842b785e8e3f4a01c96faf0",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "signal",
@@ -58261,6 +58261,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/thesaurus",
       "treeSha": "279dd9780270b2b862d245fd688dcb4fe18b7b02",
       "downloads": 8079
+    },
+    {
+      "dir": "thesaurus-rex",
+      "name": "thesaurus-rex",
+      "title": "Thesaurus Rex",
+      "description": "Offline thesaurus: synonyms, antonyms and definitions",
+      "author": "invm",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Documentation"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex",
+      "treeSha": "e83ac77e81ec2e3f2a979c6e9ea2d36199108575",
+      "downloads": null
     },
     {
       "dir": "thesvg",

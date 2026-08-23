@@ -1,8 +1,8 @@
 # Documentation
 
-210 extensions · [← all categories](../README.md)
+211 extensions · [← all categories](../README.md)
 
-macOS: 210 · Windows: 63
+macOS: 211 · Windows: 64
 
 ## Programming Docs
 
@@ -34,6 +34,6 @@ macOS: 210 · Windows: 63
 | [AI ✦](./ai.md) | 4 |
 | [Preview ✦](./preview.md) | 4 |
 
-Plus [General](./general.md) — 57 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 58 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

@@ -1,8 +1,8 @@
 # Windows · Documentation
 
-63 extensions · [← Windows](../README.md)
+64 extensions · [← Windows](../README.md)
 
-[Language References](#language-references) (3) · [Framework & Library Docs](#framework-library-docs) (8) · [Cheatsheets & Snippets](#cheatsheets-snippets) (6) · [Developer References](#developer-references) (8) · [Wikis & Knowledge Bases](#wikis-knowledge-bases) (17) · [Communities & Blogs](#communities-blogs) (1) · [Dictionaries & Language](#dictionaries-language) (1) · [General](#general) (19)
+[Language References](#language-references) (3) · [Framework & Library Docs](#framework-library-docs) (8) · [Cheatsheets & Snippets](#cheatsheets-snippets) (6) · [Developer References](#developer-references) (8) · [Wikis & Knowledge Bases](#wikis-knowledge-bases) (17) · [Communities & Blogs](#communities-blogs) (1) · [Dictionaries & Language](#dictionaries-language) (1) · [General](#general) (20)
 
 ## Programming Docs
 
@@ -112,3 +112,4 @@
 | [List by FullForms](https://github.com/raycast/extensions/tree/main/extensions/list-by-fullforms) | 9 | Search, add, and edit abbreviations, full forms, and glossary terms from Raycast. | mithunmathew | macOS, Windows | [store](https://www.raycast.com/mithunmathew/list-by-fullforms) |
 | [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup) | 8 | Look up book contents from Deutsche Nationalbibliothek by ISBN with optional AI-generated Klappentext | wdeu | macOS, Windows | [store](https://www.raycast.com/wdeu/dnb-book-lookup) |
 | [e18e Module Replacements](https://github.com/raycast/extensions/tree/main/extensions/e18e-module-replacements) | 7 | Search and browse e18e's curated list of modern npm package replacements. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/e18e-module-replacements) |
+| [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) | — | Offline thesaurus: synonyms, antonyms and definitions | invm | macOS, Windows | — |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · **I** · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-60 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+61 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -45,6 +45,7 @@
 | [insv23](https://www.raycast.com/insv23) | 1 | 58 | **Productivity:** [Duan: Shorten and Manage Links](https://github.com/raycast/extensions/tree/main/extensions/duan-raycast-extension) |
 | [interaapps](https://www.raycast.com/interaapps) | 1 | 128 | **Developer Tools:** [Pastefy](https://github.com/raycast/extensions/tree/main/extensions/pastefy) |
 | [InteractiveNinja](https://www.raycast.com/InteractiveNinja) | 1 | 619 | **Web:** [Linkding](https://github.com/raycast/extensions/tree/main/extensions/linkding) |
+| invm | 1 | — | **Productivity:** [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) |
 | [inxilpro](https://www.raycast.com/inxilpro) | 1 | 456 | **Developer Tools:** [PHP Toolbox](https://github.com/raycast/extensions/tree/main/extensions/php-toolbox) |
 | [ipiranhaa](https://www.raycast.com/ipiranhaa) | 1 | 413 | **Developer Tools:** [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) |
 | [ireneisdoomed](https://www.raycast.com/ireneisdoomed) | 1 | 43 | **Data:** [Open Targets](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) |

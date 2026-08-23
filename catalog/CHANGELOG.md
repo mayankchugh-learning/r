@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `b56f65d1d4`
+
+**Added (1):** [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex)
+
 ## 2026-08-23 — upstream `6e3029545c`
 
 **Added (1):** [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices)

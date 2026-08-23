@@ -1,6 +1,6 @@
 # macOS · Documentation
 
-210 extensions · [← macOS](../README.md)
+211 extensions · [← macOS](../README.md)
 
 ## Programming Docs
 
@@ -24,4 +24,4 @@
 | [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) | 60 |
 | [Communities & Blogs](./communities-blogs.md) | 3 |
 
-Plus [General](./general.md) — 71 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 72 extensions that don't fit a topic yet.
