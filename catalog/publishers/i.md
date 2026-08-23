@@ -45,7 +45,7 @@
 | [insv23](https://www.raycast.com/insv23) | 1 | 58 | **Productivity:** [Duan: Shorten and Manage Links](https://github.com/raycast/extensions/tree/main/extensions/duan-raycast-extension) |
 | [interaapps](https://www.raycast.com/interaapps) | 1 | 128 | **Developer Tools:** [Pastefy](https://github.com/raycast/extensions/tree/main/extensions/pastefy) |
 | [InteractiveNinja](https://www.raycast.com/InteractiveNinja) | 1 | 619 | **Web:** [Linkding](https://github.com/raycast/extensions/tree/main/extensions/linkding) |
-| invm | 1 | — | **Productivity:** [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) |
+| [invm](https://www.raycast.com/invm) | 1 | 0 | **Productivity:** [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) |
 | [inxilpro](https://www.raycast.com/inxilpro) | 1 | 456 | **Developer Tools:** [PHP Toolbox](https://github.com/raycast/extensions/tree/main/extensions/php-toolbox) |
 | [ipiranhaa](https://www.raycast.com/ipiranhaa) | 1 | 413 | **Developer Tools:** [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) |
 | [ireneisdoomed](https://www.raycast.com/ireneisdoomed) | 1 | 43 | **Data:** [Open Targets](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) |

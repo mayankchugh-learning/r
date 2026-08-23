@@ -508,6 +508,6 @@
 | [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices) | 0 | List your Apple Find My devices and play a sound on one device. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/find-my-devices) |
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
 | [PwPush](https://github.com/raycast/extensions/tree/main/extensions/pwpush) | 0 | Create secure, expiring password pushes with PwPush. Supports the public service and self-hosted instances. | mouxy | macOS | [store](https://www.raycast.com/mouxy/pwpush) |
+| [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) | 0 | Offline thesaurus: synonyms, antonyms and definitions | invm | macOS, Windows | [store](https://www.raycast.com/invm/thesaurus-rex) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | — | Quickly add vocabulary cards to your Joey decks | tai | macOS | — |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
-| [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) | — | Offline thesaurus: synonyms, antonyms and definitions | invm | macOS, Windows | — |

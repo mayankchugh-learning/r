@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b56f65d1d49996a2b0390dcf43e9a5b7c85a3c07",
-  "generatedAt": "2026-08-23T07:10:33.046Z",
-  "downloadsRefreshedAt": "2026-08-23T07:10:32.167Z",
+  "commit": "ce28496c75e1316135f69d284a6f33ab5fdec5d0",
+  "generatedAt": "2026-08-23T07:20:32.561Z",
+  "downloadsRefreshedAt": "2026-08-23T07:20:31.854Z",
   "count": 3214,
   "extensions": [
     {
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 515212
+      "downloads": 515224
     },
     {
       "dir": "color-shades",
@@ -21999,7 +21999,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 502274
+      "downloads": 502289
     },
     {
       "dir": "google-chrome-profiles",
@@ -28299,7 +28299,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 673814
+      "downloads": 673828
     },
     {
       "dir": "kimai",
@@ -34244,7 +34244,7 @@
       "description": "Toggles mirroring of external displays quickly",
       "author": "yonbergman",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Productivity"
       ],
@@ -34254,7 +34254,7 @@
       ],
       "store": "https://www.raycast.com/yonbergman/mirror-displays",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mirror-displays",
-      "treeSha": "3f94eacc91dd1af6b4de0b952c864bcd76d2c7b2",
+      "treeSha": "02549769c14540fba4b18fca94ebfd3bc9bc6f46",
       "downloads": 1414
     },
     {
@@ -58279,10 +58279,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/invm/thesaurus-rex",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex",
       "treeSha": "e83ac77e81ec2e3f2a979c6e9ea2d36199108575",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "thesvg",

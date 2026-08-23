@@ -216,4 +216,4 @@
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 2 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 1 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) | 1 | Helper tools for Tibia including NPC prices, Rashid location, and imbuement guides | kjbakke | macOS | [store](https://www.raycast.com/kjbakke/tibia-helper) |
-| [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) | — | Offline thesaurus: synonyms, antonyms and definitions | invm | macOS, Windows | — |
+| [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) | 0 | Offline thesaurus: synonyms, antonyms and definitions | invm | macOS, Windows | [store](https://www.raycast.com/invm/thesaurus-rex) |

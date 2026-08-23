@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,116,844 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,116,856 |
 | 2 | [raycast](./id/raycast.md) | 11 | 795,050 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,814 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,274 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,828 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,289 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 442,939 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 437,899 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 409,986 |
@@ -2143,13 +2143,13 @@
 | 2133 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2134 | [Dhaiwat10](https://www.raycast.com/Dhaiwat10) | 1 | 0 |
 | 2135 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2136 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
-| 2137 | [louay.md](https://www.raycast.com/louay.md) | 1 | 0 |
-| 2138 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2139 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
-| 2140 | [ramysamy](https://www.raycast.com/ramysamy) | 1 | 0 |
-| 2141 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2142 | github-next | 2 | — |
-| 2143 | buffer | 1 | — |
-| 2144 | invm | 1 | — |
+| 2136 | [invm](https://www.raycast.com/invm) | 1 | 0 |
+| 2137 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
+| 2138 | [louay.md](https://www.raycast.com/louay.md) | 1 | 0 |
+| 2139 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2140 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
+| 2141 | [ramysamy](https://www.raycast.com/ramysamy) | 1 | 0 |
+| 2142 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2143 | github-next | 2 | — |
+| 2144 | buffer | 1 | — |
 | 2145 | multi | 1 | — |
