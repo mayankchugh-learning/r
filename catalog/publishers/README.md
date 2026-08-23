@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,118,494 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,118,497 |
 | 2 | [raycast](./id/raycast.md) | 11 | 795,806 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,851 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,955 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,857 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,958 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 443,351 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 438,303 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 410,317 |
@@ -546,7 +546,7 @@
 | 536 | [scottaglia](https://www.raycast.com/scottaglia) | 1 | 1,361 |
 | 537 | [naqet](https://www.raycast.com/naqet) | 1 | 1,352 |
 | 538 | [crazyczy](https://www.raycast.com/crazyczy) | 1 | 1,349 |
-| 539 | [0xdhrv](./id/0xdhrv.md) | 13 | 1,344 |
+| 539 | [0xdhrv](./id/0xdhrv.md) | 14 | 1,344 |
 | 540 | [roele](https://www.raycast.com/roele) | 3 | 1,341 |
 | 541 | [tafhyseni](https://www.raycast.com/tafhyseni) | 1 | 1,328 |
 | 542 | [rrajath](https://www.raycast.com/rrajath) | 1 | 1,318 |

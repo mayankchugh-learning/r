@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `0e1cd895e7`
+
+**Added (1):** [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic)
+
 ## 2026-08-23 — upstream `376661eacf`
 
 **Added (1):** [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link)

@@ -1,6 +1,6 @@
 # 0xdhrv
 
-13 extensions · 1,344 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+14 extensions · 1,344 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -16,7 +16,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Drug Search](https://github.com/raycast/extensions/tree/main/extensions/drug-search) | 306 | Search the FDA drug database with ease | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/drug-search) |
 
-## Developer Tools (5)
+## Developer Tools (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | 43 | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
 | [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 8 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
 | [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 7 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |
+| [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic) | 0 | Check how ready a website is for AI agents | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/is-agentic) |
 
 ## Fun (3)
 
@@ -38,4 +39,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | — | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | — |
+| [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | 0 | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/the-forest-link) |
