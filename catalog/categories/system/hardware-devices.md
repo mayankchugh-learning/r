@@ -1,8 +1,8 @@
 # Hardware & Devices
 
-19 extensions · [← System](./README.md)
+20 extensions · [← System](./README.md)
 
-[Keyboard ✦](#keyboard) (6) · [Devices ✦](#devices) (4) · [Mouse ✦](#mouse) (4) · [General](#general) (5)
+[Keyboard ✦](#keyboard) (6) · [Devices ✦](#devices) (5) · [Mouse ✦](#mouse) (4) · [General](#general) (5)
 
 *✦ auto-discovered topic group*
 
@@ -25,6 +25,7 @@
 | [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,254 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Sidecar Connect](https://github.com/raycast/extensions/tree/main/extensions/sidecar-connect) | 179 | Connect and manage Sidecar devices directly from Raycast. | dejuknow | macOS | [store](https://www.raycast.com/dejuknow/sidecar-connect) |
 | [Mobile Provisions](https://github.com/raycast/extensions/tree/main/extensions/mobile-provisions) | 23 | Manage and inspect Apple mobile provisioning profiles with detailed information about certificates, entitlements, and provisioned devices | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mobile-provisions) |
+| [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices) | 0 | List your Apple Find My devices and play a sound on one device. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/find-my-devices) |
 
 ## Mouse ✦
 

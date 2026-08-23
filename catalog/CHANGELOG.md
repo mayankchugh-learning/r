@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `6e3029545c`
+
+**Added (1):** [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices)
+
 ## 2026-08-23 — upstream `02aff674b4`
 
 **Added (1):** [Don't Break the Chain](https://github.com/raycast/extensions/tree/main/extensions/don-t-break-the-chain)
