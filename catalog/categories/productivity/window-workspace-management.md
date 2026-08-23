@@ -1,8 +1,8 @@
 # Window & Workspace Management
 
-50 extensions · [← Productivity](./README.md)
+51 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (21) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (8) · [General](#general) (12)
+[Windows ✦](#windows) (21) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (9) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -58,6 +58,7 @@
 | [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 71 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
 | [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) | 7 | Search and control live Phi Spaces and tabs. | phibrowser | macOS | [store](https://www.raycast.com/phibrowser/phi) |
 | [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 4 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |
+| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 0 | Inspect Mac storage trends, scan reclaimable space, and explain file activity through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 
 ## General
 

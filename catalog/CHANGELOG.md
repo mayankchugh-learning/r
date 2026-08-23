@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `85b3c35274`
+
+**Added (1):** [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care)
+
 ## 2026-08-23 — upstream `34c57280fb`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

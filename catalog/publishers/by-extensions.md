@@ -1,6 +1,6 @@
 # Publishers
 
-2145 publishers · [← catalog index](../README.md)
+2146 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 26,033 |
 | 6 | [alexi.build](./id/alexi-build.md) | 17 | 1,860 |
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 151,787 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,118,505 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,118,550 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 301,935 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,375 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,442 |
@@ -25,7 +25,7 @@
 | 15 | [litomore](./id/litomore.md) | 13 | 12,750 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 9,920 |
 | 17 | [kud](./id/kud.md) | 13 | 6,171 |
-| 18 | [raycast](./id/raycast.md) | 11 | 795,806 |
+| 18 | [raycast](./id/raycast.md) | 11 | 795,830 |
 | 19 | [Rob](./id/rob.md) | 11 | 10,705 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 9,533 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 20,103 |
@@ -390,8 +390,8 @@
 | 380 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 381 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 382 | github-next | 2 | — |
-| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,866 |
-| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 502,965 |
+| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,916 |
+| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 502,996 |
 | 385 | [linear](https://www.raycast.com/linear) | 1 | 349,401 |
 | 386 | [mommertf](https://www.raycast.com/mommertf) | 1 | 290,651 |
 | 387 | [nhojb](https://www.raycast.com/nhojb) | 1 | 258,329 |
@@ -2146,10 +2146,11 @@
 | 2136 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2137 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2138 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2139 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2140 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
-| 2141 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2142 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
-| 2143 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2144 | buffer | 1 | — |
-| 2145 | multi | 1 | — |
+| 2139 | [dzg-studio](https://www.raycast.com/dzg-studio) | 1 | 0 |
+| 2140 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2141 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
+| 2142 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2143 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
+| 2144 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2145 | buffer | 1 | — |
+| 2146 | multi | 1 | — |

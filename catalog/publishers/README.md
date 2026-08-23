@@ -1,6 +1,6 @@
 # Publishers
 
-2145 publishers · [← catalog index](../README.md)
+2146 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,118,505 |
-| 2 | [raycast](./id/raycast.md) | 11 | 795,806 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,866 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,965 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,118,550 |
+| 2 | [raycast](./id/raycast.md) | 11 | 795,830 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,916 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,996 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 443,351 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 438,303 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 410,317 |
@@ -2145,11 +2145,12 @@
 | 2135 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2136 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2137 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2138 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2139 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
-| 2140 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2141 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
-| 2142 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2143 | github-next | 2 | — |
-| 2144 | buffer | 1 | — |
-| 2145 | multi | 1 | — |
+| 2138 | [dzg-studio](https://www.raycast.com/dzg-studio) | 1 | 0 |
+| 2139 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2140 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
+| 2141 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2142 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
+| 2143 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2144 | github-next | 2 | — |
+| 2145 | buffer | 1 | — |
+| 2146 | multi | 1 | — |
