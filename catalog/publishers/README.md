@@ -1,6 +1,6 @@
 # Publishers
 
-2141 publishers · [← catalog index](../README.md)
+2142 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,115,682 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,116,137 |
 | 2 | [raycast](./id/raycast.md) | 11 | 794,270 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,208 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 501,805 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,643 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,136 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 442,555 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 437,520 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 409,630 |
@@ -2148,4 +2148,5 @@
 | 2138 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2139 | github-next | 2 | — |
 | 2140 | buffer | 1 | — |
-| 2141 | multi | 1 | — |
+| 2141 | chiptoma | 1 | — |
+| 2142 | multi | 1 | — |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "514d94b36b039954d340d5f852b91d25812cb739",
-  "generatedAt": "2026-08-22T18:47:37.307Z",
-  "downloadsRefreshedAt": "2026-08-22T18:47:36.936Z",
-  "count": 3208,
+  "commit": "8447151de525b5da3c632ac9d3cea60bfc639bc1",
+  "generatedAt": "2026-08-23T03:33:49.649Z",
+  "downloadsRefreshedAt": "2026-08-23T03:33:48.897Z",
+  "count": 3209,
   "extensions": [
     {
       "dir": "0x0",
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 514558
+      "downloads": 515013
     },
     {
       "dir": "color-shades",
@@ -21936,7 +21936,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 501805
+      "downloads": 502136
     },
     {
       "dir": "google-chrome-profiles",
@@ -28236,7 +28236,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 673208
+      "downloads": 673643
     },
     {
       "dir": "kimai",
@@ -52365,6 +52365,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sidecar-connect",
       "treeSha": "1b7cd254986cd577d323d5a9cb047ff0fca06d20",
       "downloads": 175
+    },
+    {
+      "dir": "sidecar-display",
+      "name": "sidecar-display",
+      "title": "Sidecar Display",
+      "description": "Connect your iPad over Sidecar and force it to extend instead of mirror, without touching your main display.",
+      "author": "chiptoma",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/sidecar-display",
+      "treeSha": "0f6d58b1c7352e38c842b785e8e3f4a01c96faf0",
+      "downloads": null
     },
     {
       "dir": "signal",
