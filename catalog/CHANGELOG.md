@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `376661eacf`
+
+**Added (1):** [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link)
+
 ## 2026-08-23 — upstream `8d46284f4a`
 
 **Updated (1):** [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd)

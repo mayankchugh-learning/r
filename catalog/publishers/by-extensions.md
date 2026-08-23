@@ -24,7 +24,7 @@
 | 14 | [litomore](./id/litomore.md) | 13 | 12,750 |
 | 15 | [j3lte](./id/j3lte.md) | 13 | 9,920 |
 | 16 | [kud](./id/kud.md) | 13 | 6,171 |
-| 17 | [0xdhrv](./id/0xdhrv.md) | 12 | 1,344 |
+| 17 | [0xdhrv](./id/0xdhrv.md) | 13 | 1,344 |
 | 18 | [raycast](./id/raycast.md) | 11 | 795,806 |
 | 19 | [Rob](./id/rob.md) | 11 | 10,705 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 9,533 |

@@ -546,7 +546,7 @@
 | 536 | [scottaglia](https://www.raycast.com/scottaglia) | 1 | 1,361 |
 | 537 | [naqet](https://www.raycast.com/naqet) | 1 | 1,352 |
 | 538 | [crazyczy](https://www.raycast.com/crazyczy) | 1 | 1,349 |
-| 539 | [0xdhrv](./id/0xdhrv.md) | 12 | 1,344 |
+| 539 | [0xdhrv](./id/0xdhrv.md) | 13 | 1,344 |
 | 540 | [roele](https://www.raycast.com/roele) | 3 | 1,341 |
 | 541 | [tafhyseni](https://www.raycast.com/tafhyseni) | 1 | 1,328 |
 | 542 | [rrajath](https://www.raycast.com/rrajath) | 1 | 1,318 |

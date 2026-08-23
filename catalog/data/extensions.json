@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8d46284f4a433d53d5ee4ad0a9a7df1e6490af0d",
-  "generatedAt": "2026-08-23T20:15:54.591Z",
-  "downloadsRefreshedAt": "2026-08-23T20:15:54.019Z",
-  "count": 3214,
+  "commit": "376661eacf3e29ad79a2a4889b30c5961e7735dc",
+  "generatedAt": "2026-08-23T20:16:22.969Z",
+  "downloadsRefreshedAt": "2026-08-23T20:16:22.344Z",
+  "count": 3215,
   "extensions": [
     {
       "dir": "0x0",
@@ -58073,6 +58073,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud",
       "treeSha": "5d9800e73696282b9949ec1d375cd97890f1f36e",
       "downloads": 4935
+    },
+    {
+      "dir": "the-forest-link",
+      "name": "the-forest-link",
+      "title": "The Forest",
+      "description": "Rediscover the joy of getting lost on the web with theforest.link",
+      "author": "0xdhrv",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/the-forest-link",
+      "treeSha": "c1957c398d413d4d9660ac820f260ab1fbcbaa10",
+      "downloads": null
     },
     {
       "dir": "the-lot-radio",

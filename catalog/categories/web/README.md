@@ -1,8 +1,8 @@
 # Web
 
-463 extensions · [← all categories](../README.md)
+464 extensions · [← all categories](../README.md)
 
-macOS: 462 · Windows: 137
+macOS: 463 · Windows: 138
 
 ## Browse & Search
 
@@ -16,7 +16,7 @@ macOS: 462 · Windows: 137
 
 | Topic | Extensions |
 | --- | --- |
-| [URL & Domain Tools](./url-domain-tools/README.md) | 43 |
+| [URL & Domain Tools](./url-domain-tools/README.md) | 44 |
 | [Monitoring & SEO](./monitoring-seo.md) | 16 |
 | [Screenshots & Capture](./screenshots-capture.md) | 4 |
 | [Downloads & Torrents](./downloads-torrents.md) | 2 |

@@ -1,6 +1,6 @@
 # 0xdhrv
 
-12 extensions · 1,344 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+13 extensions · 1,344 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -33,3 +33,9 @@
 | [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | 30 | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
 | [Word Research](https://github.com/raycast/extensions/tree/main/extensions/word-research) | 22 | Research words and discover whether they have been searched before on wordresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/word-research) |
 | [Number Research](https://github.com/raycast/extensions/tree/main/extensions/number-research) | 13 | Research numbers and discover if they have been searched before on numberresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/number-research) |
+
+## Web (1)
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | — | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | — |

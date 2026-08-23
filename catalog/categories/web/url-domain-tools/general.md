@@ -1,6 +1,6 @@
 # General
 
-10 extensions · [← URL & Domain Tools](./README.md)
+11 extensions · [← URL & Domain Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -14,3 +14,4 @@
 | [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 106 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
 | [Vanishlink](https://github.com/raycast/extensions/tree/main/extensions/vanishlink) | 41 | Temporary link manager that vanishes links after inactivity | n_seiji | macOS | [store](https://www.raycast.com/n_seiji/vanishlink) |
 | [Cloudstash](https://github.com/raycast/extensions/tree/main/extensions/cloudstash) | 6 | Save links to Cloudstash | birdie | macOS | [store](https://www.raycast.com/birdie/cloudstash) |
+| [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | — | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | — |

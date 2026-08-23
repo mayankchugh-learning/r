@@ -31,7 +31,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Web](./web/README.md) | 463 |
+| [Web](./web/README.md) | 464 |
 | [Finance](./finance/README.md) | 152 |
 | [News](./news/README.md) | 95 |
 
