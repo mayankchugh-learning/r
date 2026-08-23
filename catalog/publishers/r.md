@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [r0hin](https://www.raycast.com/r0hin) | 1 | 270 | **Fun:** [Urban Dictionary Word of the Day](https://github.com/raycast/extensions/tree/main/extensions/raycast-urbandictionary-word-of-the-day) |
 | [radouane-tamouss](https://www.raycast.com/radouane-tamouss) | 1 | 1,398 | **Productivity:** [Monkeytype](https://github.com/raycast/extensions/tree/main/extensions/monkeytype) |
-| [rafael_garcia](https://www.raycast.com/rafael_garcia) | 1 | 1,584 | **Media:** [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) |
+| [rafael_garcia](https://www.raycast.com/rafael_garcia) | 1 | 1,585 | **Media:** [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) |
 | [rafaelvicio](https://www.raycast.com/rafaelvicio) | 1 | 166 | **Data:** [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) |
 | [rafal_zawadzki](https://www.raycast.com/rafal_zawadzki) | 2 | 1,377 | **Productivity:** [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly), [Chatwith](https://github.com/raycast/extensions/tree/main/extensions/chatwith) |
 | [rafalpetryka](https://www.raycast.com/rafalpetryka) | 1 | 226 | **System:** [Openfortivpn](https://github.com/raycast/extensions/tree/main/extensions/openfortivpn) |
@@ -86,7 +86,7 @@
 | [roelvan](https://www.raycast.com/roelvan) | 1 | 731 | **Developer Tools:** [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 803 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 642 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,557 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,851 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 15 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 582 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 4 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |

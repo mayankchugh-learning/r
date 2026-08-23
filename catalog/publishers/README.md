@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,118,177 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,118,494 |
 | 2 | [raycast](./id/raycast.md) | 11 | 795,806 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,557 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,775 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,851 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,955 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 443,351 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 438,303 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 410,317 |
@@ -489,7 +489,7 @@
 | 479 | [ickas](https://www.raycast.com/ickas) | 2 | 1,606 |
 | 480 | [kevin-pek](https://www.raycast.com/kevin-pek) | 1 | 1,604 |
 | 481 | [harisvsulaiman](https://www.raycast.com/harisvsulaiman) | 1 | 1,597 |
-| 482 | [rafael_garcia](https://www.raycast.com/rafael_garcia) | 1 | 1,584 |
+| 482 | [rafael_garcia](https://www.raycast.com/rafael_garcia) | 1 | 1,585 |
 | 483 | [theshadowdev](https://www.raycast.com/theshadowdev) | 1 | 1,582 |
 | 484 | [Hydrapse](https://www.raycast.com/Hydrapse) | 1 | 1,575 |
 | 485 | [iamlas](https://www.raycast.com/iamlas) | 1 | 1,571 |
