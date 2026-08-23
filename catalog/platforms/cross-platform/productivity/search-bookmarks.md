@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · **Search & Bookmarks** · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-59 of 337 extensions · [← Cross-platform · Productivity](./README.md)
+60 of 338 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -65,3 +65,4 @@
 | [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | 3 | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | [store](https://www.raycast.com/THEN00P/heidisql-sessions) |
 | [WooCommerce Quicker](https://github.com/raycast/extensions/tree/main/extensions/woocommerce-quicker) | 3 | Browse and search WooCommerce orders, customers, and products across multiple stores from Raycast | g-mai | macOS, Windows | [store](https://www.raycast.com/g-mai/woocommerce-quicker) |
 | [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) | 1 | Search CoCart API documentation quickly, copy URLs, or open them in your browser. | cocart_headless | macOS, Windows | [store](https://www.raycast.com/cocart_headless/cocart-docs) |
+| [Cover Art Search](https://github.com/raycast/extensions/tree/main/extensions/cover-art-search) | 0 | Search IMDb for movie, TV, anime, and game cover art, copy it, or send it straight to Capacities | louay.md | macOS, Windows | [store](https://www.raycast.com/louay.md/cover-art-search) |

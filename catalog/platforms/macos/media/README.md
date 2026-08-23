@@ -1,6 +1,6 @@
 # macOS · Media
 
-285 extensions · [← macOS](../README.md)
+286 extensions · [← macOS](../README.md)
 
 ## Listen & Watch
 
@@ -14,7 +14,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Images & Photos](./images-photos.md) | 49 |
-| [Wallpapers & Art](./wallpapers-art.md) | 8 |
+| [Wallpapers & Art](./wallpapers-art.md) | 9 |
 | [Books & Papers](./books-papers.md) | 18 |
 
 ## Create & Convert

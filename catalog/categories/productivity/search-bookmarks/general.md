@@ -1,6 +1,6 @@
 # General
 
-109 extensions · [← Search & Bookmarks](./README.md)
+110 extensions · [← Search & Bookmarks](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -112,4 +112,5 @@
 | [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | 3 | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | [store](https://www.raycast.com/THEN00P/heidisql-sessions) |
 | [Userplane](https://github.com/raycast/extensions/tree/main/extensions/userplane) | 3 | Create Userplane recording links, browse recordings and recording links, and open the Userplane dashboard — all from Raycast. | wizenheimer | macOS | [store](https://www.raycast.com/wizenheimer/userplane) |
 | [PuTTY Sessions](https://github.com/raycast/extensions/tree/main/extensions/putty-sessions) | 2 | Search and launch your saved PuTTY sessions from Raycast. | THEN00P | Windows | [store](https://www.raycast.com/THEN00P/putty-sessions) |
+| [Cover Art Search](https://github.com/raycast/extensions/tree/main/extensions/cover-art-search) | 0 | Search IMDb for movie, TV, anime, and game cover art, copy it, or send it straight to Capacities | louay.md | macOS, Windows | [store](https://www.raycast.com/louay.md/cover-art-search) |
 | [Search Blockchain](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) | — | Search Bitcoin (BTC), Cardano (ADA), EOS, Ethereum (ETH), Monero (XMR), NEO, Ontology (ONT), Polygon (DOT), Solana (SOL), Stellar (XLM), Tron (TRX), XRP and mo… | gutenye | macOS | — |

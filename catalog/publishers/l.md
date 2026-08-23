@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-77 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+78 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -60,6 +60,7 @@
 | [loqa-s](https://www.raycast.com/loqa-s) | 1 | 22 | **Developer Tools:** [gRPC UI](https://github.com/raycast/extensions/tree/main/extensions/grpcui) |
 | [loris](https://www.raycast.com/loris) | 6 | 124,844 | **Applications:** [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari), [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station)<br>**Productivity:** [Things](https://github.com/raycast/extensions/tree/main/extensions/things)<br>**Data:** [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator)<br>**Developer Tools:** [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7)<br>**Documentation:** [FHIR](https://github.com/raycast/extensions/tree/main/extensions/fhir) |
 | [LostViking09](https://www.raycast.com/LostViking09) | 1 | 1,888 | **Applications:** [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) |
+| [louay.md](https://www.raycast.com/louay.md) | 1 | 0 | **Media:** [Cover Art Search](https://github.com/raycast/extensions/tree/main/extensions/cover-art-search) |
 | [louishuyng](https://www.raycast.com/louishuyng) | 4 | 13,571 | **Developer Tools:** [WiFi Password Reveal](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal), [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping), [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner), [WezTerm Navigator](https://github.com/raycast/extensions/tree/main/extensions/wezterm-navigator) |
 | [louison](https://www.raycast.com/louison) | 1 | 191 | **Media:** [Fip](https://github.com/raycast/extensions/tree/main/extensions/fip) |
 | [luarmr](https://www.raycast.com/luarmr) | 2 | 154 | **Applications:** [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly)<br>**Media:** [Descript](https://github.com/raycast/extensions/tree/main/extensions/descript) |

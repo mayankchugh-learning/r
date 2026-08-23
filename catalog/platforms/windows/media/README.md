@@ -1,8 +1,8 @@
 # Windows · Media
 
-84 extensions · [← Windows](../README.md)
+85 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (5) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (33)
+[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (33)
 
 ## Listen & Watch
 
@@ -70,6 +70,7 @@
 | [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) | 307 | Another boring piece. Daily. | yevgen_glukhov | macOS, Windows | [store](https://www.raycast.com/yevgen_glukhov/another-boring-piece) |
 | [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers) | 178 | Easily change between the default Windows wallpapers without changing full themes | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windows-default-wallpapers) |
 | [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper) | 16 | Browse and set Arcane wallpapers. | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/arcane-wallpaper) |
+| [Cover Art Search](https://github.com/raycast/extensions/tree/main/extensions/cover-art-search) | 0 | Search IMDb for movie, TV, anime, and game cover art, copy it, or send it straight to Capacities | louay.md | macOS, Windows | [store](https://www.raycast.com/louay.md/cover-art-search) |
 
 ### Books & Papers
 

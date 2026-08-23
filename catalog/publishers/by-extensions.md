@@ -1,6 +1,6 @@
 # Publishers
 
-2142 publishers · [← catalog index](../README.md)
+2143 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [alexi.build](./id/alexi-build.md) | 17 | 1,851 |
 | 6 | [Aayush9029](./id/aayush9029.md) | 16 | 151,671 |
 | 7 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 16 | 26,005 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,116,720 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,116,762 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 301,693 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,352 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,424 |
@@ -390,8 +390,8 @@
 | 380 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 381 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 382 | github-next | 2 | — |
-| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,709 |
-| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 502,186 |
+| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 673,745 |
+| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 502,213 |
 | 385 | [linear](https://www.raycast.com/linear) | 1 | 348,921 |
 | 386 | [mommertf](https://www.raycast.com/mommertf) | 1 | 290,417 |
 | 387 | [nhojb](https://www.raycast.com/nhojb) | 1 | 258,093 |
@@ -2145,8 +2145,9 @@
 | 2135 | [Dhaiwat10](https://www.raycast.com/Dhaiwat10) | 1 | 0 |
 | 2136 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2137 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
-| 2138 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2139 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
-| 2140 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2141 | buffer | 1 | — |
-| 2142 | multi | 1 | — |
+| 2138 | [louay.md](https://www.raycast.com/louay.md) | 1 | 0 |
+| 2139 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2140 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
+| 2141 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2142 | buffer | 1 | — |
+| 2143 | multi | 1 | — |

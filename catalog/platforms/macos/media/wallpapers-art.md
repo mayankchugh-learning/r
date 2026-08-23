@@ -2,7 +2,7 @@
 
 [Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · **Wallpapers & Art** · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
 
-8 of 285 extensions · [← macOS · Media](./README.md)
+9 of 286 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -14,3 +14,4 @@
 | [Frame Crop - Discover Art for Your TV](https://github.com/raycast/extensions/tree/main/extensions/frame-crop) | 121 | Discover & download amazing artwork curated by Frame Crop | jsheffers | macOS | [store](https://www.raycast.com/jsheffers/frame-crop-art) |
 | [Analog Film Library](https://github.com/raycast/extensions/tree/main/extensions/analog-film-library) | 57 | Browse analog films by name, brand, ISO, process, and more | samuelkraft | macOS | [store](https://www.raycast.com/samuelkraft/analog-film-library) |
 | [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper) | 16 | Browse and set Arcane wallpapers. | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/arcane-wallpaper) |
+| [Cover Art Search](https://github.com/raycast/extensions/tree/main/extensions/cover-art-search) | 0 | Search IMDb for movie, TV, anime, and game cover art, copy it, or send it straight to Capacities | louay.md | macOS, Windows | [store](https://www.raycast.com/louay.md/cover-art-search) |
