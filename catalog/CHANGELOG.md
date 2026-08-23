@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `2de62c0fc3`
+
+**Updated (1):** [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion)
+
 ## 2026-08-23 — upstream `0e1cd895e7`
 
 **Added (1):** [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic)
