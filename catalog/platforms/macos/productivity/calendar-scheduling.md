@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · **Calendar & Scheduling** · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-23 of 1442 extensions · [← macOS · Productivity](./README.md)
+24 of 1443 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -29,3 +29,4 @@
 | [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) | 9 | Companion extension for PlanWell - the markdown-native teacher planning app. View today's classes, upcoming events, and todos. Requires a PlanWell vault (planw… | Raynold | macOS | [store](https://www.raycast.com/Raynold/planwell) |
 | [Meeting Room Check](https://github.com/raycast/extensions/tree/main/extensions/meeting-room-check) | 2 | See which meeting rooms are free right now and block one instantly. | Ticsi | macOS, Windows | [store](https://www.raycast.com/Ticsi/meeting-room-check) |
 | [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) | 2 | Control MenuCloak focus, cloak, and Google Calendar settings | dans_huang | macOS | [store](https://www.raycast.com/dans_huang/menucloak) |
+| [Don't Break the Chain](https://github.com/raycast/extensions/tree/main/extensions/don-t-break-the-chain) | 0 | Keep a mini calendar in your menu bar and cross off every day you show up, so you don't break the chain. | ramysamy | macOS | [store](https://www.raycast.com/ramysamy/don-t-break-the-chain) |

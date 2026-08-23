@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `02aff674b4`
+
+**Added (1):** [Don't Break the Chain](https://github.com/raycast/extensions/tree/main/extensions/don-t-break-the-chain)
+
 ## 2026-08-23 — upstream `8d5b7c21fd`
 
 **Added (1):** [Cover Art Search](https://github.com/raycast/extensions/tree/main/extensions/cover-art-search)

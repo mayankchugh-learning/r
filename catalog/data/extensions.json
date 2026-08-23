@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8d5b7c21fdca7762e7a3161d0f0dee09b9cc5657",
-  "generatedAt": "2026-08-23T05:49:48.130Z",
-  "downloadsRefreshedAt": "2026-08-23T05:49:47.468Z",
-  "count": 3211,
+  "commit": "02aff674b4ec56bd9443317dd12d55f1c859c807",
+  "generatedAt": "2026-08-23T06:23:21.367Z",
+  "downloadsRefreshedAt": "2026-08-23T06:23:20.610Z",
+  "count": 3212,
   "extensions": [
     {
       "dir": "0x0",
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 515130
+      "downloads": 515162
     },
     {
       "dir": "color-shades",
@@ -14771,6 +14771,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/domainr",
       "treeSha": "5f8b0266dbce70957ff8ab4e5f2564d305d1f2c8",
       "downloads": 2033
+    },
+    {
+      "dir": "don-t-break-the-chain",
+      "name": "don-t-break-the-chain",
+      "title": "Don't Break the Chain",
+      "description": "Keep a mini calendar in your menu bar and cross off every day you show up, so you don't break the chain.",
+      "author": "ramysamy",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/ramysamy/don-t-break-the-chain",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/don-t-break-the-chain",
+      "treeSha": "64c5c74122eac5781a18d549799dbbc6df51a809",
+      "downloads": 0
     },
     {
       "dir": "dondori",
@@ -21958,7 +21978,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 502213
+      "downloads": 502239
     },
     {
       "dir": "google-chrome-profiles",
@@ -28258,7 +28278,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 673745
+      "downloads": 673771
     },
     {
       "dir": "kimai",
