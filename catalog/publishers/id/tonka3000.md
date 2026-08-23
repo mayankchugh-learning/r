@@ -1,31 +1,31 @@
 # tonka3000
 
-14 extensions · 409,986 downloads · [store](https://www.raycast.com/tonka3000) · [← publishers](../README.md)
+14 extensions · 410,317 downloads · [store](https://www.raycast.com/tonka3000) · [← publishers](../README.md)
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 161,583 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 161,728 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 
 ## Media (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 101,609 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 101,671 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
 
 ## Communication (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 36,081 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,067 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 36,115 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,071 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 
 ## Productivity (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 40,122 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 40,160 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [OpenWeatherMap](https://github.com/raycast/extensions/tree/main/extensions/openweathermap) | 1,372 | Get Weather via https://openweathermap.com | tonka3000 | macOS | [store](https://www.raycast.com/tonka3000/openweathermap) |
 | [Microsoft Office](https://github.com/raycast/extensions/tree/main/extensions/microsoft-office) | 391 | Command for Office Products | tonka3000 | Windows | [store](https://www.raycast.com/tonka3000/microsoft-office) |
 | [Remote Desktop](https://github.com/raycast/extensions/tree/main/extensions/remote-desktop) | 178 | Manage Remote Desktop connections | tonka3000 | Windows | [store](https://www.raycast.com/tonka3000/remote-desktop) |
@@ -36,19 +36,19 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,440 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
+| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,475 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
 
 ## Developer Tools (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab) | 20,785 | Create, search and modify issues, manage merge requests, projects and more. | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gitlab) |
+| [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab) | 20,795 | Create, search and modify issues, manage merge requests, projects and more. | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gitlab) |
 
 ## Fun (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,812 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
+| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,815 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
 
 ## Design Tools (1)
 

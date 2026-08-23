@@ -1,12 +1,12 @@
 # andreaselia
 
-10 extensions · 3,837 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
+10 extensions · 3,838 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
 
 ## Data (7)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,174 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
+| [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,175 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
 | [Better Uptime](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) | 735 | Check on your Better Uptime monitors, incidents and heartbeats. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/better-uptime) |
 | [StoryTime](https://github.com/raycast/extensions/tree/main/extensions/storytime) | 377 | Generate a story using OpenAI and Upstash. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/storytime) |
 | [Abstract API](https://github.com/raycast/extensions/tree/main/extensions/abstract-api) | 310 | Automate routine dev work with Abstract's suite of APIs | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/abstract-api) |

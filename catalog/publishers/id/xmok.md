@@ -1,6 +1,6 @@
 # xmok
 
-114 extensions · 11,601 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+114 extensions · 11,612 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (22)
 
@@ -34,7 +34,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Grist](https://github.com/raycast/extensions/tree/main/extensions/grist) | 58 | Spreadsheet Software to End Data Chaos | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/grist) |
+| [Grist](https://github.com/raycast/extensions/tree/main/extensions/grist) | 59 | Spreadsheet Software to End Data Chaos | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/grist) |
 | [Jotform](https://github.com/raycast/extensions/tree/main/extensions/jotform) | 45 | View Forms and their Submissions | xmok | macOS | [store](https://www.raycast.com/xmok/jotform) |
 | [Formizee](https://github.com/raycast/extensions/tree/main/extensions/formizee) | 32 | The Open-Source Forms Platform | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/formizee) |
 
@@ -82,7 +82,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 250 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
+| [Namecheap](https://github.com/raycast/extensions/tree/main/extensions/namecheap) | 251 | View your Namecheap Domains and their DNS | xmok | macOS | [store](https://www.raycast.com/xmok/namecheap) |
 | [FreeDNS](https://github.com/raycast/extensions/tree/main/extensions/freedns) | 201 | View and Change your DNS in freedns.afraid.org | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/freedns) |
 | [Oracle Cloud](https://github.com/raycast/extensions/tree/main/extensions/oci) | 106 | Manage Oracle Cloud Infrastructure | xmok | macOS | [store](https://www.raycast.com/xmok/oci) |
 | [Appwrite](https://github.com/raycast/extensions/tree/main/extensions/appwrite) | 57 | Add Projects and View Services | xmok | macOS | [store](https://www.raycast.com/xmok/appwrite) |
@@ -100,7 +100,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 569 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
+| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 570 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
 | [Neon](https://github.com/raycast/extensions/tree/main/extensions/neon) | 165 | Manage Neon Projects and API Keys | xmok | macOS | [store](https://www.raycast.com/xmok/neon) |
 
 ### Monitoring & Logs
@@ -187,7 +187,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 534 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
+| [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 535 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
 | [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 266 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
 | [UptimeRobot](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) | 160 | View Monitors and Account Details | xmok | macOS | [store](https://www.raycast.com/xmok/uptime-robot) |
 | [NameSilo](https://github.com/raycast/extensions/tree/main/extensions/namesilo) | 86 | View your Domains, Orders, Whois Info and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/namesilo) |
@@ -208,7 +208,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy) | 159 | Deploy Anywhere with Total Freedom and Ease. | xmok | macOS | [store](https://www.raycast.com/xmok/dokploy) |
-| [NetNewsWire](https://github.com/raycast/extensions/tree/main/extensions/netnewswire) | 149 | NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad | xmok | macOS | [store](https://www.raycast.com/xmok/netnewswire) |
+| [NetNewsWire](https://github.com/raycast/extensions/tree/main/extensions/netnewswire) | 150 | NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad | xmok | macOS | [store](https://www.raycast.com/xmok/netnewswire) |
 | [Apify](https://github.com/raycast/extensions/tree/main/extensions/apify) | 138 | Your full-stack platform for web scraping | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/apify) |
 | [Tally](https://github.com/raycast/extensions/tree/main/extensions/tally) | 137 | Tally is the simplest way to create forms, for free. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/tally) |
 | [Keygen](https://github.com/raycast/extensions/tree/main/extensions/keygen) | 97 | Manage API Tokens, Licenses, Policies, Products and Users | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/keygen) |
@@ -223,7 +223,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 190 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |
+| [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 191 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |
 | [Papra](https://github.com/raycast/extensions/tree/main/extensions/papra) | 47 | Simple & Secure Document Archiving for Long-Term Storage | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/papra) |
 | [Pastery](https://github.com/raycast/extensions/tree/main/extensions/pastery) | 43 | Pastery is the sweetest pastebin in the world. | xmok | macOS | [store](https://www.raycast.com/xmok/pastery) |
 | [Featurebase](https://github.com/raycast/extensions/tree/main/extensions/featurebase) | 37 | The next-gen support & feedback platform for modern teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/featurebase) |
@@ -235,13 +235,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 365 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
+| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 366 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
 
 ## Media (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Immich](https://github.com/raycast/extensions/tree/main/extensions/immich) | 301 | Self-hosted photo and video management solution | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/immich) |
+| [Immich](https://github.com/raycast/extensions/tree/main/extensions/immich) | 302 | Self-hosted photo and video management solution | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/immich) |
 
 ## Finance (6)
 
@@ -264,7 +264,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 132 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
+| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 135 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
 
 ## Other (1)
 

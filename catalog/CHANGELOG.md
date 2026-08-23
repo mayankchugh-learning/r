@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `9b105d0642`
+
+**Updated (1):** [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town)
+
 ## 2026-08-23 — upstream `ae19453cbf`
 
 **Updated (1):** [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search)

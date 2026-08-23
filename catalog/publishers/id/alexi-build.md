@@ -1,13 +1,13 @@
 # alexi.build
 
-17 extensions · 1,851 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+17 extensions · 1,860 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 460 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
-| [Fifteen Million Merits](https://github.com/raycast/extensions/tree/main/extensions/fifteen-million-merits) | 26 | A persistent counter that triggers Raycast Focus mode when activity exceeds a specific threshold. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/fifteen-million-merits) |
+| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 461 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
+| [Fifteen Million Merits](https://github.com/raycast/extensions/tree/main/extensions/fifteen-million-merits) | 27 | A persistent counter that triggers Raycast Focus mode when activity exceeds a specific threshold. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/fifteen-million-merits) |
 
 ## Productivity (3)
 
@@ -21,20 +21,20 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 280 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 281 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 
 ## Developer Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 152 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
-| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 31 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
+| [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 153 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 33 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 156 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
+| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 157 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
 
 ## Fun (2)
 
@@ -53,7 +53,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 66 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
+| [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 67 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
 
 ## Documentation (1)
 
@@ -65,7 +65,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Time Awareness](https://github.com/raycast/extensions/tree/main/extensions/time-awareness) | 54 | Track your activity sessions and intervals | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/time-awareness) |
+| [Time Awareness](https://github.com/raycast/extensions/tree/main/extensions/time-awareness) | 55 | Track your activity sessions and intervals | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/time-awareness) |
 
 ## Data (2)
 

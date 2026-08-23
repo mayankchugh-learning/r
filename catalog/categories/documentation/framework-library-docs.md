@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,253 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
-| [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 2,803 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
+| [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) | 4,258 | Browse shadcn/ui documentation, components and examples | luisFilipePT | macOS, Windows | [store](https://www.raycast.com/luisFilipePT/shadcn-ui) |
+| [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 2,804 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
 | [Searching Vue.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/vuejs-documentation) | 2,055 | Search VueJS documentation (v3) | DavidPascaud | macOS | [store](https://www.raycast.com/DavidPascaud/vuejs-documentation) |
 | [Laravel Livewire](https://github.com/raycast/extensions/tree/main/extensions/laravel-livewire) | 1,328 | Quickly search through Laravel Livewire documentation and open it in the browser | tafhyseni | macOS | [store](https://www.raycast.com/tafhyseni/laravel-livewire) |
-| [Flutter Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/flutter-documentation-search) | 1,034 | Search in Flutter documentation | MattisBrizard | macOS | [store](https://www.raycast.com/MattisBrizard/flutter-documentation-search) |
+| [Flutter Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/flutter-documentation-search) | 1,035 | Search in Flutter documentation | MattisBrizard | macOS | [store](https://www.raycast.com/MattisBrizard/flutter-documentation-search) |
 | [Chakra UI Documentation](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) | 677 | Provide quick links to the Chakra UI component documentation. | pgvr | macOS | [store](https://www.raycast.com/pgvr/chakra-ui-docs) |
 | [Supernova](https://github.com/raycast/extensions/tree/main/extensions/supernova) | 617 | Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in yo… | JiriTrecak | macOS | [store](https://www.raycast.com/JiriTrecak/supernova) |
 | [Shadcn/Svelte](https://github.com/raycast/extensions/tree/main/extensions/shadcn-svelte) | 222 | Browses shadcn/svelte documentation, components, and commands. | selemondev | macOS | [store](https://www.raycast.com/selemondev/shadcn-svelte) |
@@ -27,8 +27,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 5,730 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
-| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 671 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
+| [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 5,733 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
+| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 672 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 602 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [Laravel Nova](https://github.com/raycast/extensions/tree/main/extensions/laravel-nova) | 344 | Laravel Nova Docs | plank-dev | macOS | [store](https://www.raycast.com/plank-dev/laravel-nova) |
 | [Vue Router Docs](https://github.com/raycast/extensions/tree/main/extensions/vue-router-docs) | 60 | Quickly search Vue Router docs from Raycast | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vue-router-docs) |
@@ -37,7 +37,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 72,292 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
+| [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 72,340 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
 | [Laravel Artisan](https://github.com/raycast/extensions/tree/main/extensions/laravel-artisan) | 1,007 | View and search Laravel Artisan commands. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-artisan) |
 | [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 947 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
 | [React Native Directory](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) | 317 | A searchable and filterable directory of React Native libraries. | shubh_porwal | macOS | [store](https://www.raycast.com/shubh_porwal/react-native-directory) |

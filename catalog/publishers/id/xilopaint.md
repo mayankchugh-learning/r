@@ -1,12 +1,12 @@
 # xilopaint
 
-10 extensions · 20,077 downloads · [store](https://www.raycast.com/xilopaint) · [← publishers](../README.md)
+10 extensions · 20,103 downloads · [store](https://www.raycast.com/xilopaint) · [← publishers](../README.md)
 
 ## Web (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Amazon Search](https://github.com/raycast/extensions/tree/main/extensions/amazon-search) | 10,162 | Amazon search with autosuggestions | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/amazon-search) |
+| [Amazon Search](https://github.com/raycast/extensions/tree/main/extensions/amazon-search) | 10,173 | Amazon search with autosuggestions | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/amazon-search) |
 | [ViaCEP](https://github.com/raycast/extensions/tree/main/extensions/viacep) | 96 | Find Brazilian addresses and postal codes | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/viacep) |
 | [Mercado Libre](https://github.com/raycast/extensions/tree/main/extensions/mercado-libre) | 65 | Search Mercado Libre listings | xilopaint | macOS | [store](https://www.raycast.com/xilopaint/mercado-libre) |
 
@@ -14,8 +14,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [PDF Tools](https://github.com/raycast/extensions/tree/main/extensions/pdf-tools) | 7,692 | Your all-in-one PDF toolkit | xilopaint | macOS | [store](https://www.raycast.com/xilopaint/pdf-tools) |
-| [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,752 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
+| [PDF Tools](https://github.com/raycast/extensions/tree/main/extensions/pdf-tools) | 7,703 | Your all-in-one PDF toolkit | xilopaint | macOS | [store](https://www.raycast.com/xilopaint/pdf-tools) |
+| [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,755 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
 | [Origami](https://github.com/raycast/extensions/tree/main/extensions/origami) | 46 | Access and control your Origami workspace | xilopaint | macOS | [store](https://www.raycast.com/xilopaint/origami) |
 | [Vade Mecum](https://github.com/raycast/extensions/tree/main/extensions/vade-mecum) | 27 | Quickly access and navigate relevant Brazilian legislation | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/vade-mecum) |
 
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Binance](https://github.com/raycast/extensions/tree/main/extensions/binance-exchange) | 80 | Stay on top of the crypto market and your Binance portfolio | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/binance-exchange) |
+| [Binance](https://github.com/raycast/extensions/tree/main/extensions/binance-exchange) | 81 | Stay on top of the crypto market and your Binance portfolio | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/binance-exchange) |
 | [Real Calc](https://github.com/raycast/extensions/tree/main/extensions/real-calc) | 48 | Update financial values based on various Brazilian price indices | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/real-calc) |
 
 ## Data (1)
