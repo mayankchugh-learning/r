@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2de62c0fc3a278387a845ef1f0406dc6c495afbc",
-  "generatedAt": "2026-08-23T20:30:50.702Z",
-  "downloadsRefreshedAt": "2026-08-23T20:30:50.328Z",
+  "commit": "34c57280fbbf8fd7ea485fc95573391ba4aad039",
+  "generatedAt": "2026-08-23T20:31:32.536Z",
+  "downloadsRefreshedAt": "2026-08-23T20:31:31.655Z",
   "count": 3216,
   "extensions": [
     {
@@ -21999,7 +21999,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 502964
+      "downloads": 502965
     },
     {
       "dir": "google-chrome-profiles",
@@ -28320,7 +28320,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 674865
+      "downloads": 674866
     },
     {
       "dir": "kimai",
@@ -34565,7 +34565,7 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "6418d2e3313d1f87caeaea860ac4600770231b2d",
+      "treeSha": "95e9d2ee64e15747ce08668efb97c717f406e226",
       "downloads": 37318
     },
     {
