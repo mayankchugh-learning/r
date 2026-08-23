@@ -1,6 +1,6 @@
 # Design ✦
 
-6 extensions · [← Design Tools](./README.md)
+7 extensions · [← Design Tools](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -12,3 +12,4 @@
 | [Penpot](https://github.com/raycast/extensions/tree/main/extensions/penpot) | 107 | See and quickly access your Penpot design boards | bobbymannino | macOS, Windows | [store](https://www.raycast.com/bobbymannino/penpot) |
 | [Delphitools](https://github.com/raycast/extensions/tree/main/extensions/delphi-tools-raycast-extension) | 15 | Run local design and text utilities from delphitools in Raycast | abeldebruijn | Windows, macOS | [store](https://www.raycast.com/abeldebruijn/delphi-tools-raycast-extension) |
 | [Gather](https://github.com/raycast/extensions/tree/main/extensions/gatherit) | 4 | Search, copy, and save your Gather design references without leaving the keyboard. | samuel_monteiro | macOS | [store](https://www.raycast.com/samuel_monteiro/gatherit) |
+| [Paper Design](https://github.com/raycast/extensions/tree/main/extensions/paper-design) | 0 | Browse recent Paper designs, create new files, and manage design tokens directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/paper-design) |

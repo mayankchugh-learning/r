@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-23 — upstream `8d5dc7b57b`
+
+**Added (1):** [Paper Design](https://github.com/raycast/extensions/tree/main/extensions/paper-design)
+
 ## 2026-08-23 — upstream `8447151de5`
 
 **Added (1):** [Sidecar Display](https://github.com/raycast/extensions/tree/main/extensions/sidecar-display)
