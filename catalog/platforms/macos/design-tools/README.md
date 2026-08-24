@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 518,543 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 518,678 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,202 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,525 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,022 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -150,7 +150,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Antd](https://github.com/raycast/extensions/tree/main/extensions/antd-open-browser) | 735 | Quickly open Antd components | crazyair | macOS | [store](https://www.raycast.com/crazyair/antd-open-browser) |
-| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 674 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
+| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 676 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
 | [Primer](https://github.com/raycast/extensions/tree/main/extensions/primer) | 202 | Search and navigate GitHub's Primer Design System | cole | macOS | [store](https://www.raycast.com/cole/primer) |
 | [Braid Design System](https://github.com/raycast/extensions/tree/main/extensions/braid) | 189 | Search and use Braid Components and Iconography from Raycast | felixhabib | macOS | [store](https://www.raycast.com/felixhabib/braid) |
 | [Geist UI Components & Hooks](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) | 74 | This extension provides links to components & hooks in Geist UI Documentation | RahulatRaycast | macOS | [store](https://www.raycast.com/RahulatRaycast/geist-ui-components) |

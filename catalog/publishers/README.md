@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,122,682 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,122,817 |
 | 2 | [raycast](./id/raycast.md) | 11 | 798,343 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 677,167 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 504,534 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 677,309 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 504,623 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 444,513 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 439,440 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 411,404 |
@@ -789,7 +789,7 @@
 | 779 | [gersomvg](https://www.raycast.com/gersomvg) | 1 | 678 |
 | 780 | [pgvr](https://www.raycast.com/pgvr) | 1 | 677 |
 | 781 | [zsombor_biro](https://www.raycast.com/zsombor_biro) | 2 | 676 |
-| 782 | [saschaeggi](https://www.raycast.com/saschaeggi) | 1 | 674 |
+| 782 | [saschaeggi](https://www.raycast.com/saschaeggi) | 1 | 676 |
 | 783 | [fahl](https://www.raycast.com/fahl) | 1 | 672 |
 | 784 | [cacherapp](https://www.raycast.com/cacherapp) | 1 | 671 |
 | 785 | [red.avtovo](https://www.raycast.com/red.avtovo) | 1 | 665 |

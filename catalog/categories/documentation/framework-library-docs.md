@@ -28,7 +28,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) | 5,739 | This extension allows you to search through the Laravel docs directly from Raycast. | indykoning | macOS, Windows | [store](https://www.raycast.com/indykoning/laravel-docs) |
-| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 674 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
+| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 676 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 608 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [Laravel Nova](https://github.com/raycast/extensions/tree/main/extensions/laravel-nova) | 344 | Laravel Nova Docs | plank-dev | macOS | [store](https://www.raycast.com/plank-dev/laravel-nova) |
 | [Vue Router Docs](https://github.com/raycast/extensions/tree/main/extensions/vue-router-docs) | 62 | Quickly search Vue Router docs from Raycast | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vue-router-docs) |

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 677,167 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 677,309 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,285 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,268 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 73 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |

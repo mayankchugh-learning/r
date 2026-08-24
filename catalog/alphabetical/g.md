@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 504,534 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 504,623 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 443,436 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 184,123 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 136,176 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
@@ -72,7 +72,7 @@
 | [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) | 733 | A tiny, secure, URL friendly, unique string ID generator for JavaScript | roelvan | macOS | [store](https://www.raycast.com/roelvan/nanoid) |
 | [GetSound](https://github.com/raycast/extensions/tree/main/extensions/getsound) | 694 | Get focused with GetSound.AI | getsound-ai (org) | macOS | [store](https://www.raycast.com/getsound-ai/getsound) |
 | [GoodLinks](https://github.com/raycast/extensions/tree/main/extensions/goodlinks) | 690 | Save, list, and open articles in GoodLinks | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/goodlinks) |
-| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 674 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
+| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 676 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
 | [Gather](https://github.com/raycast/extensions/tree/main/extensions/gather) | 626 | Control Gather from Raycast | yannglt | macOS | [store](https://www.raycast.com/yannglt/gather) |
 | [Govee](https://github.com/raycast/extensions/tree/main/extensions/govee) | 603 | Control your Govee Lights | j3lte | macOS | [store](https://www.raycast.com/j3lte/govee) |
 | [Git Branch Name Generator](https://github.com/raycast/extensions/tree/main/extensions/git-branch-name-generator) | 534 | Convert a string into a branch name | mbonner | macOS | [store](https://www.raycast.com/mbonner/git-branch-name-generator) |

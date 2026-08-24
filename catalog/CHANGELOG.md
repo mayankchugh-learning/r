@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `7f02433f2e`
+
+**Updated (2):** [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs), [MXroute](https://github.com/raycast/extensions/tree/main/extensions/mxroute)
+
 ## 2026-08-24 — upstream `21ac1b21cb`
 
 **Updated (1):** [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills)
