@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3f0fb35f0dc94697f495350fe9bc87a1529baa20",
-  "generatedAt": "2026-08-24T04:57:42.287Z",
-  "downloadsRefreshedAt": "2026-08-24T04:57:41.653Z",
+  "commit": "a5090e97075f2e65e331127456797d9561b5e2b0",
+  "generatedAt": "2026-08-24T04:59:27.348Z",
+  "downloadsRefreshedAt": "2026-08-24T04:59:26.925Z",
   "count": 3217,
   "extensions": [
     {
@@ -9747,7 +9747,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 516846
+      "downloads": 516847
     },
     {
       "dir": "color-shades",
@@ -22339,7 +22339,7 @@
       ],
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
-      "treeSha": "e29d849aedca265366f8f98535fadd7cfa6c8192",
+      "treeSha": "0e64923f8986c908ce2d89c4dfd8968895f5ade3",
       "downloads": 442739
     },
     {
@@ -28320,7 +28320,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 675451
+      "downloads": 675453
     },
     {
       "dir": "kimai",
