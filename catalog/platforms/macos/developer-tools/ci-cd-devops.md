@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Jenkins](https://github.com/raycast/extensions/tree/main/extensions/jenkins) | 861 | Manage your Jenkins directly from Raycast. | k8scat | macOS | [store](https://www.raycast.com/k8scat/jenkins) |
+| [Jenkins](https://github.com/raycast/extensions/tree/main/extensions/jenkins) | 862 | Manage your Jenkins directly from Raycast. | k8scat | macOS | [store](https://www.raycast.com/k8scat/jenkins) |
 | [Bitrise](https://github.com/raycast/extensions/tree/main/extensions/bitrise) | 436 | Check your Bitrise CI builds and start new ones. | ofalvai | macOS | [store](https://www.raycast.com/ofalvai/bitrise) |
 | [Buildkite](https://github.com/raycast/extensions/tree/main/extensions/buildkite) | 393 | Search Buildkite pipelines and builds | mskelton | macOS | [store](https://www.raycast.com/mskelton/buildkite) |
 | [Cache-Control Builder](https://github.com/raycast/extensions/tree/main/extensions/cache-control-builder) | 303 | Build a HTTP Cache-Control response header | rkusa | macOS | [store](https://www.raycast.com/rkusa/cache-control-builder) |

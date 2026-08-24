@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `3f0fb35f0d`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-08-24 — upstream `c27079d8f8`
 
 **Updated (1):** [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions)
