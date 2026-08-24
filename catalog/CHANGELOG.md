@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `c27079d8f8`
+
+**Updated (1):** [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions)
+
 ## 2026-08-23 — upstream `85b3c35274`
 
 **Added (1):** [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care)

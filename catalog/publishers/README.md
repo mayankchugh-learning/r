@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,118,550 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,118,965 |
 | 2 | [raycast](./id/raycast.md) | 11 | 795,830 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 674,916 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 502,996 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 675,326 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 503,308 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 443,351 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 438,303 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 410,317 |
@@ -39,7 +39,7 @@
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 100,652 |
 | 30 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 94,788 |
 | 31 | [erics118](https://www.raycast.com/erics118) | 3 | 94,606 |
-| 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 91,746 |
+| 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 91,799 |
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 91,721 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 91,336 |
 | 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 87,426 |
