@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `cb14004f1a`
+
+**Updated (1):** [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast)
+
 ## 2026-08-24 — upstream `a5090e9707`
 
 **Updated (1):** [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate)
