@@ -151,7 +151,7 @@
 | [appest](https://www.raycast.com/appest) | 1 | 22,220 | **Productivity:** [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) |
 | [applauselab](https://www.raycast.com/applauselab) | 1 | 10 | **Developer Tools:** [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) |
 | [approxhuman](https://www.raycast.com/approxhuman) | 2 | 208 | **Productivity:** [Open in Shopify Admin](https://github.com/raycast/extensions/tree/main/extensions/open-in-shopify-admin)<br>**Documentation:** [Shopify Polaris Docs](https://github.com/raycast/extensions/tree/main/extensions/shopify-polaris-docs) |
-| [apptiary_com](https://www.raycast.com/apptiary_com) | 1 | 0 | **Productivity:** [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) |
+| [apptiary_com](https://www.raycast.com/apptiary_com) | 1 | 2 | **Productivity:** [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) |
 | [aradbm](https://www.raycast.com/aradbm) | 1 | 695 | **Other:** [Recent Excel - Show Recent Excel Files](https://github.com/raycast/extensions/tree/main/extensions/recent-excel) |
 | [aramikuto](https://www.raycast.com/aramikuto) | 1 | 405 | **Productivity:** [Google Calendar Epic Time Logger](https://github.com/raycast/extensions/tree/main/extensions/time-logger) |
 | [aravindballa](https://www.raycast.com/aravindballa) | 1 | 1,545 | **Developer Tools:** [Markdown This](https://github.com/raycast/extensions/tree/main/extensions/markdown-this) |

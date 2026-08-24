@@ -130,4 +130,4 @@
 | [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) | 4 | Search, filter, and open links from your LinkAce instance | zisoft | macOS | [store](https://www.raycast.com/zisoft/linkace-search) |
 | [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) | 4 | Manage Lume virtual machines on Apple Silicon | sharat_visweswara | macOS | [store](https://www.raycast.com/sharat_visweswara/lume) |
 | [Logbook](https://github.com/raycast/extensions/tree/main/extensions/logbook) | 3 | Capture and complete your Logbook tasks without leaving Raycast. | rushi_gandhi | macOS | [store](https://www.raycast.com/rushi_gandhi/logbook) |
-| [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | 0 | LiteLLM directly from Raycast commands | Francois | Windows, macOS | [store](https://www.raycast.com/Francois/litellm) |
+| [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | 2 | LiteLLM directly from Raycast commands | Francois | Windows, macOS | [store](https://www.raycast.com/Francois/litellm) |

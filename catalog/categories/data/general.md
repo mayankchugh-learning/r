@@ -69,6 +69,6 @@
 | [NicNames](https://github.com/raycast/extensions/tree/main/extensions/nicnames) | 10 | Transparency with no surprises. Web3-friendly. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/nicnames) |
 | [Tabstack](https://github.com/raycast/extensions/tree/main/extensions/tabstack) | 8 | Read, research, and act on the web from your keyboard. Powered by Tabstack. | tessak22 | macOS, Windows | [store](https://www.raycast.com/tessak22/tabstack) |
 | [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) | 3 | Inspect Kobbe analytics from Raycast. | michael_Andreuzza | macOS, Windows | [store](https://www.raycast.com/michael_andreuzza/kobbe) |
+| [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | 2 | LiteLLM directly from Raycast commands | Francois | Windows, macOS | [store](https://www.raycast.com/Francois/litellm) |
 | [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | 1 | Get product details from DigiKey | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/digikey) |
 | [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) | 1 | Helper tools for Tibia including NPC prices, Rashid location, and imbuement guides | kjbakke | macOS | [store](https://www.raycast.com/kjbakke/tibia-helper) |
-| [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | 0 | LiteLLM directly from Raycast commands | Francois | Windows, macOS | [store](https://www.raycast.com/Francois/litellm) |

@@ -81,7 +81,7 @@
 | [json-to-go](https://github.com/raycast/extensions/tree/main/extensions/json-to-go) | 857 | Translate JSON from clipboard into a Go type definition | chyroc | macOS | [store](https://www.raycast.com/chyroc/json-to-go) |
 | [Tflink Tmpfile](https://github.com/raycast/extensions/tree/main/extensions/tflink-tmpfile) | 21 | Upload clipboard text or files to tmpfile.link anonymously and get a shareable link. | tflink-tmpfile | macOS | [store](https://www.raycast.com/tflink-tmpfile/tflink-tmpfile) |
 | [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 8 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
-| [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) | 0 | 540+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machin… | apptiary_com | macOS, Windows | [store](https://www.raycast.com/apptiary_com/textarray) |
+| [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) | 2 | 540+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machin… | apptiary_com | macOS, Windows | [store](https://www.raycast.com/apptiary_com/textarray) |
 
 ## Json ✦
 

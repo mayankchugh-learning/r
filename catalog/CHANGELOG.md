@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `1107ee56b6`
+
+**Updated (1):** [MediaFlow](https://github.com/raycast/extensions/tree/main/extensions/media-flow)
+
 ## 2026-08-24 — upstream `4aa31394b2`
 
 **Added (1):** [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray)
