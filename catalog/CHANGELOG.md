@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `21ac1b21cb`
+
+**Updated (1):** [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills)
+
 ## 2026-08-24 — upstream `1107ee56b6`
 
 **Updated (1):** [MediaFlow](https://github.com/raycast/extensions/tree/main/extensions/media-flow)

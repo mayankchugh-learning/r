@@ -1,35 +1,35 @@
 # chrismessina
 
-15 extensions · 6,454 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+15 extensions · 6,478 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,187 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
-| [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 202 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
-| [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap) | 90 | Wrap and unwrap text using Markdown-aware reflow. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/wrap-unwrap) |
-| [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 51 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
+| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,191 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
+| [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 203 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
+| [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap) | 91 | Wrap and unwrap text using Markdown-aware reflow. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/wrap-unwrap) |
+| [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 52 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 1 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
 
 ## Uncategorized (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,018 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
+| [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,022 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
 
 ## Media (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 807 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
+| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 808 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
 | [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 170 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 
 ## Web (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 892 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
+| [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 898 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
 
 ## Developer Tools (3)
 
@@ -43,13 +43,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 409 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
+| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 412 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy) | 20 | Control AirBuddy from Raycast | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/airbuddy) |
+| [AirBuddy](https://github.com/raycast/extensions/tree/main/extensions/airbuddy) | 23 | Control AirBuddy from Raycast | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/airbuddy) |
 
 ## Data (1)
 

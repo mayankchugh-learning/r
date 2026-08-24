@@ -4,5 +4,5 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Sourcetree](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) | 1,133 | Search and open Sourcetree repositories | i906 | macOS | [store](https://www.raycast.com/i906/sourcetree) |
-| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 672 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
+| [Sourcetree](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) | 1,136 | Search and open Sourcetree repositories | i906 | macOS | [store](https://www.raycast.com/i906/sourcetree) |
+| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 674 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |

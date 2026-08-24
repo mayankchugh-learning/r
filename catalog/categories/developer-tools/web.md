@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CyberChef](https://github.com/raycast/extensions/tree/main/extensions/cyberchef) | 9,325 | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis | mblode | macOS | [store](https://www.raycast.com/mblode/cyberchef) |
-| [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | 807 | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |
-| [Web Page Design Mode](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode) | 360 | Toggle the document.designMode property on your web page to control whether the entire document is editable. | danulqua | macOS | [store](https://www.raycast.com/danulqua/web-page-design-mode) |
+| [CyberChef](https://github.com/raycast/extensions/tree/main/extensions/cyberchef) | 9,345 | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis | mblode | macOS | [store](https://www.raycast.com/mblode/cyberchef) |
+| [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | 809 | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |
+| [Web Page Design Mode](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode) | 362 | Toggle the document.designMode property on your web page to control whether the entire document is editable. | danulqua | macOS | [store](https://www.raycast.com/danulqua/web-page-design-mode) |
 | [Create Remix](https://github.com/raycast/extensions/tree/main/extensions/raycast-create-remix) | 62 | Create Remix Run Web App using create-remix | nuno_costa | macOS | [store](https://www.raycast.com/nuno_costa/create-remix) |

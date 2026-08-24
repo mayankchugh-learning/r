@@ -4,4 +4,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zen Mode](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) | 1,718 | Hide Everything. Mute Everything. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/zen-mode) |
+| [Zen Mode](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) | 1,721 | Hide Everything. Mute Everything. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/zen-mode) |
