@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `e3a29667e8`
+
+**Updated (1):** [List by FullForms](https://github.com/raycast/extensions/tree/main/extensions/list-by-fullforms)
+
 ## 2026-08-24 — upstream `cb14004f1a`
 
 **Updated (1):** [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast)
