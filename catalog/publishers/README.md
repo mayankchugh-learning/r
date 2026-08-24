@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,122,817 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,122,819 |
 | 2 | [raycast](./id/raycast.md) | 11 | 798,343 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 677,309 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 504,623 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 677,318 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 504,627 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 444,513 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 439,440 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 411,404 |
@@ -541,7 +541,7 @@
 | 531 | [rafal_zawadzki](https://www.raycast.com/rafal_zawadzki) | 2 | 1,381 |
 | 532 | [daniyal_master](https://www.raycast.com/daniyal_master) | 1 | 1,373 |
 | 533 | [gkpln3](https://www.raycast.com/gkpln3) | 1 | 1,373 |
-| 534 | [0xdhrv](./id/0xdhrv.md) | 14 | 1,372 |
+| 534 | [0xdhrv](./id/0xdhrv.md) | 15 | 1,372 |
 | 535 | [hakob_nersesian](https://www.raycast.com/hakob_nersesian) | 1 | 1,369 |
 | 536 | [karthik](https://www.raycast.com/karthik) | 1 | 1,366 |
 | 537 | [scottaglia](https://www.raycast.com/scottaglia) | 1 | 1,363 |

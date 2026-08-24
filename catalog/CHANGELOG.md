@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `7661d44d85`
+
+**Added (1):** [Fx Coding Agent](https://github.com/raycast/extensions/tree/main/extensions/fx-coding-agent)
+
 ## 2026-08-24 — upstream `7f02433f2e`
 
 **Updated (2):** [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs), [MXroute](https://github.com/raycast/extensions/tree/main/extensions/mxroute)
