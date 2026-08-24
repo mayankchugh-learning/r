@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [qazi0](https://www.raycast.com/qazi0) | 1 | 2,014 | **Developer Tools:** [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) |
+| [qazi0](https://www.raycast.com/qazi0) | 1 | 2,015 | **Developer Tools:** [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) |
 | [qcrao](https://www.raycast.com/qcrao) | 1 | 183 | **Productivity:** [Markdown Styler](https://github.com/raycast/extensions/tree/main/extensions/markdown-styler) |
 | [qdequele](https://www.raycast.com/qdequele) | 1 | 513 | **Fun:** [Crunchbase](https://github.com/raycast/extensions/tree/main/extensions/crunchbase) |
 | [Qetesh](https://www.raycast.com/Qetesh) | 1 | 3,089 | **System:** [Battery Optimizer](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) |

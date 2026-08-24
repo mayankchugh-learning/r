@@ -1,8 +1,8 @@
 # Windows · Data
 
-87 extensions · [← Windows](../README.md)
+88 extensions · [← Windows](../README.md)
 
-[Converters & Encoders](#converters-encoders) (7) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (1) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (3) · [Trackers & Monitors](#trackers-monitors) (4) · [Text Processing](#text-processing) (3) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (6) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (11) · [General](#general) (21)
+[Converters & Encoders](#converters-encoders) (7) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (1) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (3) · [Trackers & Monitors](#trackers-monitors) (4) · [Text Processing](#text-processing) (3) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (6) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (11) · [General](#general) (22)
 
 ## Transform & Generate
 
@@ -178,3 +178,4 @@
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 3 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
 | [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | 1 | Get product details from DigiKey | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/digikey) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 1 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
+| [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | — | LiteLLM directly from Raycast commands | Francois | Windows, macOS | — |

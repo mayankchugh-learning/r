@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e3a29667e8e9a4ffc068c50067a9ee99cf8d041b",
-  "generatedAt": "2026-08-24T05:02:21.979Z",
-  "downloadsRefreshedAt": "2026-08-24T05:02:21.034Z",
-  "count": 3217,
+  "commit": "8df81940b5e4d55aea29852dda206fdf8838bd30",
+  "generatedAt": "2026-08-24T10:49:37.525Z",
+  "downloadsRefreshedAt": "2026-08-24T10:49:36.879Z",
+  "count": 3218,
   "extensions": [
     {
       "dir": "0x0",
@@ -8247,7 +8247,7 @@
       "store": "https://www.raycast.com/qazi0/claudecast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/claudecast",
       "treeSha": "8409a001f0cb97f2c18fa9d792eba5fe4c25d4a3",
-      "downloads": 2014
+      "downloads": 2015
     },
     {
       "dir": "clean-agent-text",
@@ -9748,7 +9748,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 516849
+      "downloads": 517625
     },
     {
       "dir": "color-shades",
@@ -22000,7 +22000,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 503418
+      "downloads": 503940
     },
     {
       "dir": "google-chrome-profiles",
@@ -22341,7 +22341,7 @@
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
       "treeSha": "0e64923f8986c908ce2d89c4dfd8968895f5ade3",
-      "downloads": 442739
+      "downloads": 442786
     },
     {
       "dir": "google-trends",
@@ -28321,7 +28321,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 675455
+      "downloads": 676239
     },
     {
       "dir": "kimai",
@@ -30635,6 +30635,29 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/list-randomizer",
       "treeSha": "c598358a03e2e0c550da149a7acf4fbefeb3ac61",
       "downloads": 247
+    },
+    {
+      "dir": "litellm",
+      "name": "litellm",
+      "title": "LiteLLM",
+      "description": "LiteLLM directly from Raycast commands",
+      "author": "Francois",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications",
+        "Data",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/litellm",
+      "treeSha": "c0ba55a098fcac23ba9af7236ad1300ca634b9cf",
+      "downloads": null
     },
     {
       "dir": "literal",
@@ -34588,7 +34611,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "3d1afcb09a3925456553facae3df9419db72ceee",
-      "downloads": 37364
+      "downloads": 37368
     },
     {
       "dir": "models-dev",

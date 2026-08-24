@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 516,849 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 517,625 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 240,725 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 127,291 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 107,771 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -65,7 +65,7 @@
 | [crates.io Search](https://github.com/raycast/extensions/tree/main/extensions/cratecast) | 2,147 | Explore crates.io | matt | macOS | [store](https://www.raycast.com/matt/cratecast) |
 | [Code Stash](https://github.com/raycast/extensions/tree/main/extensions/code-stash) | 2,049 | Searching git.. now you have two problems. Store chunks of code and retrieve them later | ben-greenwood | macOS | [store](https://www.raycast.com/ben-greenwood/code-stash) |
 | [ChatGPT Atlas](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-atlas) | 2,030 | Search your history of ChatGPT Atlas, OpenAI's new browser. | thomas | macOS | [store](https://www.raycast.com/thomas/chatgpt-atlas) |
-| [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 2,014 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS, Windows | [store](https://www.raycast.com/qazi0/claudecast) |
+| [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 2,015 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS, Windows | [store](https://www.raycast.com/qazi0/claudecast) |
 | [Common Directory](https://github.com/raycast/extensions/tree/main/extensions/common-directory) | 1,942 | Quickly open or show common directory in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/common-directory) |
 | [Contexts](https://github.com/raycast/extensions/tree/main/extensions/contexts) | 1,931 | Contexts lets you manage and access large text repositories for AI interactions. Create, edit, and organize contextual information about companies, products, o… | marcmagn1 | macOS | [store](https://www.raycast.com/marcmagn1/contexts) |
 | [Command Scheduler](https://github.com/raycast/extensions/tree/main/extensions/scheduler) | 1,886 | Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. | cps | macOS, Windows | [store](https://www.raycast.com/cps/scheduler) |

@@ -1,6 +1,6 @@
 # macOS · Data
 
-268 extensions · [← macOS](../README.md)
+269 extensions · [← macOS](../README.md)
 
 ## Transform & Generate
 
@@ -38,4 +38,4 @@
 | [Web & Network Intelligence](./web-network-intelligence.md) | 18 |
 | [APIs & Scraping](./apis-scraping.md) | 8 |
 
-Plus [General](./general.md) — 77 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 78 extensions that don't fit a topic yet.

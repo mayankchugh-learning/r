@@ -2,7 +2,7 @@
 
 [Converters & Encoders](./converters-encoders.md) · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · [APIs & Scraping](./apis-scraping.md) · [Lookups & References](./lookups-references.md) · **General**
 
-77 of 268 extensions · [← macOS · Data](./README.md)
+78 of 269 extensions · [← macOS · Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -83,3 +83,4 @@
 | [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | 1 | Get product details from DigiKey | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/digikey) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 1 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
 | [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) | 1 | Helper tools for Tibia including NPC prices, Rashid location, and imbuement guides | kjbakke | macOS | [store](https://www.raycast.com/kjbakke/tibia-helper) |
+| [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | — | LiteLLM directly from Raycast commands | Francois | Windows, macOS | — |

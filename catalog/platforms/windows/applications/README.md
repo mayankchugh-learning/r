@@ -1,8 +1,8 @@
 # Windows · Applications
 
-82 extensions · [← Windows](../README.md)
+83 extensions · [← Windows](../README.md)
 
-[AI & Chat Apps](#ai-chat-apps) (5) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (5) · [Productivity & Task Apps](#productivity-task-apps) (4) · [Music & Audio Apps](#music-audio-apps) (1) · [Media & Photo Apps](#media-photo-apps) (7) · [Automation & Input Apps](#automation-input-apps) (2) · [Content & CMS Apps](#content-cms-apps) (1) · [Network & Connection Apps](#network-connection-apps) (3) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (2) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (9) · [General](#general) (33)
+[AI & Chat Apps](#ai-chat-apps) (5) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (5) · [Productivity & Task Apps](#productivity-task-apps) (4) · [Music & Audio Apps](#music-audio-apps) (1) · [Media & Photo Apps](#media-photo-apps) (7) · [Automation & Input Apps](#automation-input-apps) (2) · [Content & CMS Apps](#content-cms-apps) (1) · [Network & Connection Apps](#network-connection-apps) (3) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (2) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (9) · [General](#general) (34)
 
 ## Work & Knowledge Apps
 
@@ -173,3 +173,4 @@
 | [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 5 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |
 | [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game) | 2 | What to Play Next - Smart Game Picker | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/next-game) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
+| [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | — | LiteLLM directly from Raycast commands | Francois | Windows, macOS | — |

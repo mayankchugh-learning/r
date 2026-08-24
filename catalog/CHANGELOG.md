@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `8df81940b5`
+
+**Added (1):** [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm)
+
 ## 2026-08-24 — upstream `e3a29667e8`
 
 **Updated (1):** [List by FullForms](https://github.com/raycast/extensions/tree/main/extensions/list-by-fullforms)

@@ -1,6 +1,6 @@
 # macOS · Applications
 
-368 extensions · [← macOS](../README.md)
+369 extensions · [← macOS](../README.md)
 
 ## Work & Knowledge Apps
 
@@ -39,4 +39,4 @@
 | [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) | 1 |
 | [Launchers & App Control](./launchers-app-control.md) | 46 |
 
-Plus [General](./general.md) — 124 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 125 extensions that don't fit a topic yet.

@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-123 of 1446 extensions · [← macOS · Productivity](./README.md)
+123 of 1447 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -35,7 +35,7 @@
 | [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts) | 2,196 | Convert selected or copied text to lifelike speech using ElevenLabs' premium AI voices | lachie_james | macOS | [store](https://www.raycast.com/lachie_james/elevenlabs-tts) |
 | [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,065 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [ChatGPT Atlas](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-atlas) | 2,030 | Search your history of ChatGPT Atlas, OpenAI's new browser. | thomas | macOS | [store](https://www.raycast.com/thomas/chatgpt-atlas) |
-| [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 2,014 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS, Windows | [store](https://www.raycast.com/qazi0/claudecast) |
+| [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 2,015 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS, Windows | [store](https://www.raycast.com/qazi0/claudecast) |
 | [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 1,959 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
 | [Contexts](https://github.com/raycast/extensions/tree/main/extensions/contexts) | 1,931 | Contexts lets you manage and access large text repositories for AI interactions. Create, edit, and organize contextual information about companies, products, o… | marcmagn1 | macOS | [store](https://www.raycast.com/marcmagn1/contexts) |
 | [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 1,743 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |

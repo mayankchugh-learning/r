@@ -8,11 +8,11 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,119,772 |
-| 2 | [raycast](./id/raycast.md) | 11 | 796,755 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 675,455 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 503,418 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 443,815 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,120,548 |
+| 2 | [raycast](./id/raycast.md) | 11 | 796,759 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 676,239 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 503,940 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 443,862 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 438,723 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 410,724 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 349,904 |
@@ -250,7 +250,7 @@
 | 240 | [treyg](https://www.raycast.com/treyg) | 2 | 5,301 |
 | 241 | [harumeri](https://www.raycast.com/harumeri) | 1 | 5,200 |
 | 242 | [SonicSpark](https://www.raycast.com/SonicSpark) | 1 | 5,197 |
-| 243 | [Francois](https://www.raycast.com/Francois) | 2 | 5,181 |
+| 243 | [Francois](https://www.raycast.com/Francois) | 3 | 5,181 |
 | 244 | [firecrawl](https://www.raycast.com/firecrawl) | 1 | 5,084 |
 | 245 | [Haojen](https://www.raycast.com/Haojen) | 2 | 5,059 |
 | 246 | [creasty](https://www.raycast.com/creasty) | 1 | 5,013 |
@@ -429,7 +429,7 @@
 | 419 | [elonwoo](https://www.raycast.com/elonwoo) | 4 | 2,043 |
 | 420 | [shldk](https://www.raycast.com/shldk) | 1 | 2,042 |
 | 421 | [fbrc](https://www.raycast.com/fbrc) | 1 | 2,027 |
-| 422 | [qazi0](https://www.raycast.com/qazi0) | 1 | 2,014 |
+| 422 | [qazi0](https://www.raycast.com/qazi0) | 1 | 2,015 |
 | 423 | [panrafal](https://www.raycast.com/panrafal) | 1 | 2,012 |
 | 424 | [alikhatibak](https://www.raycast.com/alikhatibak) | 1 | 2,007 |
 | 425 | [jaredliu233](https://www.raycast.com/jaredliu233) | 2 | 1,986 |
