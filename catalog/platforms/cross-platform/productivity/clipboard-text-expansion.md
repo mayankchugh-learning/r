@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · **Clipboard & Text Expansion** · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-15 of 342 extensions · [← Cross-platform · Productivity](./README.md)
+16 of 343 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,4 @@
 | [Reading Time](https://github.com/raycast/extensions/tree/main/extensions/reading-time) | 54 | Estimate clipboard reading time as X min read | fromserg | macOS, Windows | [store](https://www.raycast.com/fromserg/reading-time) |
 | [Unify Path Separator](https://github.com/raycast/extensions/tree/main/extensions/unify-path-separator) | 53 | Unifies path selectors in path copied to clipboard | patrick_dawson | macOS, Windows | [store](https://www.raycast.com/patrick_dawson/unify-path-separator) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 41 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
+| [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) | 0 | 540+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machin… | apptiary_com | macOS, Windows | [store](https://www.raycast.com/apptiary_com/textarray) |

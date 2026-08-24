@@ -1,6 +1,6 @@
 # Windows · Productivity
 
-357 extensions · [← Windows](../README.md)
+358 extensions · [← Windows](../README.md)
 
 ## Organize & Plan
 
@@ -25,7 +25,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 5 |
-| [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 16 |
+| [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 17 |
 | [Window & Workspace Management](./window-workspace-management.md) | 14 |
 | [Search & Bookmarks](./search-bookmarks.md) | 62 |
 

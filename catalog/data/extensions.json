@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8df81940b5e4d55aea29852dda206fdf8838bd30",
-  "generatedAt": "2026-08-24T10:49:37.525Z",
-  "downloadsRefreshedAt": "2026-08-24T10:49:36.879Z",
-  "count": 3218,
+  "commit": "4aa31394b287dc816b594308c2676f5cf08076e3",
+  "generatedAt": "2026-08-24T10:58:53.501Z",
+  "downloadsRefreshedAt": "2026-08-24T10:58:52.637Z",
+  "count": 3219,
   "extensions": [
     {
       "dir": "0x0",
@@ -9748,7 +9748,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 517625
+      "downloads": 517638
     },
     {
       "dir": "color-shades",
@@ -22000,7 +22000,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 503940
+      "downloads": 503949
     },
     {
       "dir": "google-chrome-profiles",
@@ -28321,7 +28321,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 676239
+      "downloads": 676253
     },
     {
       "dir": "kimai",
@@ -30654,10 +30654,10 @@
         "Windows",
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/Francois/litellm",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/litellm",
       "treeSha": "c0ba55a098fcac23ba9af7236ad1300ca634b9cf",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "literal",
@@ -57987,6 +57987,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/text-shortcuts",
       "treeSha": "281fd962e5cb98334ffdd38ff98bea9df73bdefe",
       "downloads": 7278
+    },
+    {
+      "dir": "textarray",
+      "name": "textarray",
+      "title": "TextArray",
+      "description": "540+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machine.",
+      "author": "apptiary_com",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/apptiary_com/textarray",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/textarray",
+      "treeSha": "4735b9b5c4bf13b8d8a517c309a4f626b5e2c1df",
+      "downloads": 0
     },
     {
       "dir": "textlint-rule-aws-service-name",

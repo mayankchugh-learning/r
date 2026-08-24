@@ -1,6 +1,6 @@
 # Publishers
 
-2146 publishers · [← catalog index](../README.md)
+2147 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 26,068 |
 | 6 | [alexi.build](./id/alexi-build.md) | 17 | 1,869 |
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 151,949 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,120,548 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,120,561 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 302,219 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,401 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,454 |
@@ -390,8 +390,8 @@
 | 380 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 381 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 382 | github-next | 2 | — |
-| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 676,239 |
-| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 503,940 |
+| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 676,253 |
+| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 503,949 |
 | 385 | [linear](https://www.raycast.com/linear) | 1 | 349,904 |
 | 386 | [mommertf](https://www.raycast.com/mommertf) | 1 | 290,952 |
 | 387 | [nhojb](https://www.raycast.com/nhojb) | 1 | 258,608 |
@@ -2146,11 +2146,12 @@
 | 2136 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
 | 2137 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2138 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2139 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2140 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2141 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
-| 2142 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2143 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
-| 2144 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2145 | buffer | 1 | — |
-| 2146 | multi | 1 | — |
+| 2139 | [apptiary_com](https://www.raycast.com/apptiary_com) | 1 | 0 |
+| 2140 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2141 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2142 | [jamie_davenport](https://www.raycast.com/jamie_davenport) | 1 | 0 |
+| 2143 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2144 | [mouxy](https://www.raycast.com/mouxy) | 1 | 0 |
+| 2145 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2146 | buffer | 1 | — |
+| 2147 | multi | 1 | — |

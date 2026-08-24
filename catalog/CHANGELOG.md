@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-24 — upstream `4aa31394b2`
+
+**Added (1):** [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray)
+
 ## 2026-08-24 — upstream `8df81940b5`
 
 **Added (1):** [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm)

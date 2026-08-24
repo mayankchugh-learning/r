@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · **Clipboard & Text Expansion** · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-67 of 1447 extensions · [← macOS · Productivity](./README.md)
+68 of 1448 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -73,3 +73,4 @@
 | [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) | 6 | Upload copied screenshots or copied image files to a configurable ImgBed endpoint. | andy | macOS | [store](https://www.raycast.com/andy/imgbed-uploader) |
 | [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit) | 4 | Offline microphone dictation powered by the Kesha Voice Kit CLI. Records locally, transcribes locally, and copies text to your clipboard. | drakulavich | macOS | [store](https://www.raycast.com/drakulavich/kesha-voice-kit) |
 | [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 1 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
+| [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) | 0 | 540+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machin… | apptiary_com | macOS, Windows | [store](https://www.raycast.com/apptiary_com/textarray) |

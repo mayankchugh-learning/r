@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · **Code, Snippets & Text Utilities** · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-32 of 307 extensions · [← Windows · Developer Tools](./README.md)
+33 of 308 extensions · [← Windows · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -38,3 +38,4 @@
 | [Chmod Lookup](https://github.com/raycast/extensions/tree/main/extensions/chmod-lookup) | 13 | Convert Unix permissions between numeric (octal) and symbolic notation | taha_harradi | macOS, Windows | [store](https://www.raycast.com/taha_harradi/chmod-lookup) |
 | [Greptile](https://github.com/raycast/extensions/tree/main/extensions/greptile) | 9 | Browse Greptile pull requests, code reviews, and review comments from Raycast. | clins1994 | Windows, macOS | [store](https://www.raycast.com/clins1994/greptile) |
 | [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 8 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
+| [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) | 0 | 540+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machin… | apptiary_com | macOS, Windows | [store](https://www.raycast.com/apptiary_com/textarray) |
