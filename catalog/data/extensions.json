@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "df714afcb07db89af71bf9cf5d0b068d8bd2836a",
-  "generatedAt": "2026-08-25T10:56:25.374Z",
-  "downloadsRefreshedAt": "2026-08-25T10:56:24.964Z",
-  "count": 3222,
+  "commit": "729ed56eea4bb3d2ee5bfa946111ca57339e89d1",
+  "generatedAt": "2026-08-25T10:58:23.868Z",
+  "downloadsRefreshedAt": "2026-08-25T10:58:22.257Z",
+  "count": 3223,
   "extensions": [
     {
       "dir": "0x0",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 519733
+      "downloads": 519734
     },
     {
       "dir": "color-shades",
@@ -20736,10 +20736,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/tristan_gabl/gif-maker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gif-maker",
       "treeSha": "03caf22863e910f1b3fad3c92e0ca0117a36bda1",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "gif-search",
@@ -22060,7 +22060,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 505445
+      "downloads": 505446
     },
     {
       "dir": "google-chrome-profiles",
@@ -28381,7 +28381,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 678452
+      "downloads": 678454
     },
     {
       "dir": "kimai",
@@ -36966,6 +36966,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nibit",
       "treeSha": "94d0fe2b883d54647cd1c8a136c761e397ed88d4",
       "downloads": 2
+    },
+    {
+      "dir": "nichefund-business-ideas",
+      "name": "nichefund-business-ideas",
+      "title": "NicheFund Business Ideas",
+      "description": "Discover why MicroSaaS ideas fail and find validated ideas worth building.",
+      "author": "backlooplabs",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/nichefund-business-ideas",
+      "treeSha": "4954833f4ecca4190350da27dad6727b8416c2de",
+      "downloads": null
     },
     {
       "dir": "nicnames",

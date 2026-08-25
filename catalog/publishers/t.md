@@ -65,7 +65,7 @@
 | [thijsdewitt](https://www.raycast.com/thijsdewitt) | 1 | 149 | **Developer Tools:** [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) |
 | [third774](https://www.raycast.com/third774) | 3 | 61,928 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,630 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,124,532 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,124,533 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 36 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 57,228 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,719 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
@@ -108,7 +108,7 @@
 | [Treblle](https://www.raycast.com/Treblle) | 1 | 54 | **Other:** [Search LaraJobs](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) |
 | [trevware](https://www.raycast.com/trevware) | 1 | 2,785 | **Productivity:** [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) |
 | [treyg](https://www.raycast.com/treyg) | 2 | 5,330 | **Productivity:** [Webpage to Markdown](https://github.com/raycast/extensions/tree/main/extensions/webpage-to-markdown)<br>**Applications:** [Zipline](https://github.com/raycast/extensions/tree/main/extensions/zipline) |
-| tristan_gabl | 1 | — | **Media:** [GIF Maker](https://github.com/raycast/extensions/tree/main/extensions/gif-maker) |
+| [tristan_gabl](https://www.raycast.com/tristan_gabl) | 1 | 0 | **Media:** [GIF Maker](https://github.com/raycast/extensions/tree/main/extensions/gif-maker) |
 | [tristan_heinig](https://www.raycast.com/tristan_heinig) | 1 | 121 | **Design Tools:** [Remix Icon](https://github.com/raycast/extensions/tree/main/extensions/remix-icon) |
 | [troalexis](https://www.raycast.com/troalexis) | 1 | 719 | **Fun:** [Rollcast](https://github.com/raycast/extensions/tree/main/extensions/rollcast) |
 | [trpage_dev](https://www.raycast.com/trpage_dev) | 2 | 197 | **Developer Tools:** [Shopify Theme Resources](https://github.com/raycast/extensions/tree/main/extensions/shopify-theme-resources), [Shopinfo.app](https://github.com/raycast/extensions/tree/main/extensions/shopinfo-app) |

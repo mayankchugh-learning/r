@@ -2,13 +2,14 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-78 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+79 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [b-per](https://www.raycast.com/b-per) | 2 | 271 | **Documentation:** [dbt Documentation](https://github.com/raycast/extensions/tree/main/extensions/dbt-documentation)<br>**Developer Tools:** [Dagster](https://github.com/raycast/extensions/tree/main/extensions/dagster) |
 | [b6pzeusbc54tvhw5jgpyw8pwz2x6gs](https://www.raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs) | 1 | 353 | **Productivity:** [YouTube Shorts to Normal Video Page](https://github.com/raycast/extensions/tree/main/extensions/youtube-shorts-to-normal-video-page) |
 | [B9O2](https://www.raycast.com/b9o2) | 1 | 146 | **Developer Tools:** [Ideate](https://github.com/raycast/extensions/tree/main/extensions/ideate) |
+| backlooplabs | 1 | — | **Productivity:** [NicheFund Business Ideas](https://github.com/raycast/extensions/tree/main/extensions/nichefund-business-ideas) |
 | [bake](https://www.raycast.com/bake) | 1 | 513 | **Productivity:** [Gopass](https://github.com/raycast/extensions/tree/main/extensions/gopass) |
 | [Baldy](https://www.raycast.com/Baldy) | 1 | 18 | **Productivity:** [Kaneo](https://github.com/raycast/extensions/tree/main/extensions/kaneo-for-raycast) |
 | [BalliAsghar](https://www.raycast.com/BalliAsghar) | 3 | 7,603 | **Communication:** [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy)<br>**Applications:** [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur)<br>**Media:** [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) |

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 505,445 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 505,446 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 443,855 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 184,323 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 136,282 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
@@ -150,5 +150,5 @@
 | [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) | 4 | Compile GLES shader code with MaliOC and get performance stats. | RomanVPX | macOS | [store](https://www.raycast.com/RomanVPX/gles-to-malioc) |
 | [Granite](https://github.com/raycast/extensions/tree/main/extensions/granite) | 3 | Search, browse, and ask your Granite document vault. | Shpigford | macOS | [store](https://www.raycast.com/Shpigford/granite) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 2 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
-| [GIF Maker](https://github.com/raycast/extensions/tree/main/extensions/gif-maker) | — | Convert videos to GIFs with control over size, frame rate, trimming, and compression. Powered by ffmpeg. | tristan_gabl | macOS | — |
+| [GIF Maker](https://github.com/raycast/extensions/tree/main/extensions/gif-maker) | 0 | Convert videos to GIFs with control over size, frame rate, trimming, and compression. Powered by ffmpeg. | tristan_gabl | macOS | [store](https://www.raycast.com/tristan_gabl/gif-maker) |
 | [GitHub Spark](https://github.com/raycast/extensions/tree/main/extensions/github-spark) | — | Turn your ideas into personalized apps with GitHub Spark. | github-next (org) | macOS | — |

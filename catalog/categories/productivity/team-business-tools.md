@@ -1,6 +1,6 @@
 # Team & Business Tools
 
-16 extensions · [← Productivity](./README.md)
+17 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -20,3 +20,4 @@
 | [Sage HR](https://github.com/raycast/extensions/tree/main/extensions/sage-hr) | 16 | Integration with Sage HR to get a searchable list on who is out today | cyxn | macOS | [store](https://www.raycast.com/cyxn/sage-hr) |
 | [FBL - Finnish Business Lookup](https://github.com/raycast/extensions/tree/main/extensions/finnish-business-lookup) | 5 | Look up Finnish businesses by name or Business ID using PRH YTJ open data | eljn | macOS | [store](https://www.raycast.com/eljn/finnish-business-lookup) |
 | [QuickForce - Salesforce Toolkit](https://github.com/raycast/extensions/tree/main/extensions/quickforce-salesforce-toolkit) | 5 | Keyboard-driven Salesforce toolkit for developers and admins: switch orgs instantly, run SOQL queries, jump to any Setup page, and manage users, all from Rayca… | kelant | macOS, Windows | [store](https://www.raycast.com/Kelant/quickforce-salesforce-toolkit) |
+| [NicheFund Business Ideas](https://github.com/raycast/extensions/tree/main/extensions/nichefund-business-ideas) | — | Discover why MicroSaaS ideas fail and find validated ideas worth building. | backlooplabs | macOS, Windows | — |
