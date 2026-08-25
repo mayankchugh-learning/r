@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `8aafb0f0ad`
+
+**Added (1):** [Contrast Lab](https://github.com/raycast/extensions/tree/main/extensions/contrast-lab)
+
 ## 2026-08-25 — upstream `bb4499a5da`
 
 **Added (1):** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector)

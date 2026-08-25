@@ -9,7 +9,7 @@
 | [b-per](https://www.raycast.com/b-per) | 2 | 271 | **Documentation:** [dbt Documentation](https://github.com/raycast/extensions/tree/main/extensions/dbt-documentation)<br>**Developer Tools:** [Dagster](https://github.com/raycast/extensions/tree/main/extensions/dagster) |
 | [b6pzeusbc54tvhw5jgpyw8pwz2x6gs](https://www.raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs) | 1 | 353 | **Productivity:** [YouTube Shorts to Normal Video Page](https://github.com/raycast/extensions/tree/main/extensions/youtube-shorts-to-normal-video-page) |
 | [B9O2](https://www.raycast.com/b9o2) | 1 | 147 | **Developer Tools:** [Ideate](https://github.com/raycast/extensions/tree/main/extensions/ideate) |
-| [backlooplabs](https://www.raycast.com/backlooplabs) | 1 | 0 | **Productivity:** [NicheFund Business Ideas](https://github.com/raycast/extensions/tree/main/extensions/nichefund-business-ideas) |
+| [backlooplabs](https://www.raycast.com/backlooplabs) | 1 | 1 | **Productivity:** [NicheFund Business Ideas](https://github.com/raycast/extensions/tree/main/extensions/nichefund-business-ideas) |
 | [bake](https://www.raycast.com/bake) | 1 | 513 | **Productivity:** [Gopass](https://github.com/raycast/extensions/tree/main/extensions/gopass) |
 | [Baldy](https://www.raycast.com/Baldy) | 1 | 18 | **Productivity:** [Kaneo](https://github.com/raycast/extensions/tree/main/extensions/kaneo-for-raycast) |
 | [BalliAsghar](https://www.raycast.com/BalliAsghar) | 3 | 7,610 | **Communication:** [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy)<br>**Applications:** [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur)<br>**Media:** [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) |

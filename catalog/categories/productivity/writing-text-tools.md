@@ -25,7 +25,7 @@
 | [Gist Rocket](https://github.com/raycast/extensions/tree/main/extensions/gist-rocket) | 29 | Publish HTML or Markdown as a live web page in one keystroke. Powered by GitHub Gists. | tgrecojs | macOS | [store](https://www.raycast.com/tgrecojs/gist-rocket) |
 | [Flashcards](https://github.com/raycast/extensions/tree/main/extensions/flashcards) | 13 | Create and study flashcards with Markdown syntax | Paul12169 | macOS, Windows | [store](https://www.raycast.com/Paul12169/flashcards) |
 | [MEMO to flomo](https://github.com/raycast/extensions/tree/main/extensions/memo-to-flomo) | 7 | Quickly send Markdown memos to flomo with tag history | moose_zhang | macOS, Windows | [store](https://www.raycast.com/moose_zhang/memo-to-flomo) |
-| [Quick Quote](https://github.com/raycast/extensions/tree/main/extensions/quick-quote) | 0 | Quote selected text as a Markdown blockquote. Built for pasting CLI agent output back into a prompt. | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/quick-quote) |
+| [Quick Quote](https://github.com/raycast/extensions/tree/main/extensions/quick-quote) | 2 | Quote selected text as a Markdown blockquote. Built for pasting CLI agent output back into a prompt. | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/quick-quote) |
 
 ## Dictionary ✦
 

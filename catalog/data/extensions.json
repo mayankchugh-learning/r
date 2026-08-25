@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "bb4499a5da7c3443ec56e765ddac3ede3134eff3",
-  "generatedAt": "2026-08-25T12:35:33.971Z",
-  "downloadsRefreshedAt": "2026-08-25T12:35:33.019Z",
-  "count": 3226,
+  "commit": "8aafb0f0ad1b0d33305f4c879bcffb2b1db1e868",
+  "generatedAt": "2026-08-25T12:46:36.961Z",
+  "downloadsRefreshedAt": "2026-08-25T12:46:36.296Z",
+  "count": 3227,
   "extensions": [
     {
       "dir": "0x0",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 519861
+      "downloads": 519880
     },
     {
       "dir": "color-shades",
@@ -10340,6 +10340,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/contra",
       "treeSha": "e0eb38d0c54ae4532496973d4eb11602101e04db",
       "downloads": 1
+    },
+    {
+      "dir": "contrast-lab",
+      "name": "contrast-lab",
+      "title": "Contrast Lab",
+      "description": "Check color contrast with WCAG 2 and APCA. Live preview, a one-tap nearest-passing fix, and HEX, RGB, HSL, and OKLCH input.",
+      "author": "fracazo",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Design Tools",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/fracazo/contrast-lab",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/contrast-lab",
+      "treeSha": "821f002aced9def755532057e95791048d0504bd",
+      "downloads": 0
     },
     {
       "dir": "control-d",
@@ -22060,7 +22081,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 505524
+      "downloads": 505534
     },
     {
       "dir": "google-chrome-profiles",
@@ -28382,7 +28403,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 678576
+      "downloads": 678594
     },
     {
       "dir": "kimai",
@@ -36987,7 +37008,7 @@
       "store": "https://www.raycast.com/backlooplabs/nichefund-business-ideas",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nichefund-business-ideas",
       "treeSha": "4954833f4ecca4190350da27dad6727b8416c2de",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "nicnames",
@@ -45543,7 +45564,7 @@
       "store": "https://www.raycast.com/kumamaki/quick-quote",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-quote",
       "treeSha": "e02ad20a4832308aec0cd69d8f88c11460d7676a",
-      "downloads": 0
+      "downloads": 2
     },
     {
       "dir": "quick-references",
@@ -60123,7 +60144,7 @@
       "store": "https://www.raycast.com/mouxy/transcribe-audio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/transcribe-audio",
       "treeSha": "d45762e07469396dd8b41a4184a0983be58fdd5e",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "transfer-sh_upload",
@@ -62252,7 +62273,7 @@
       "store": "https://www.raycast.com/thilip_lindseth/usb-c-inspector",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector",
       "treeSha": "01378b62f878433e82cd6077565e876e4fb309d5",
-      "downloads": 0
+      "downloads": 2
     },
     {
       "dir": "useless-facts",

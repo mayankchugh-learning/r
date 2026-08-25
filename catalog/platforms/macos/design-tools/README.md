@@ -1,8 +1,8 @@
 # macOS · Design Tools
 
-158 extensions · [← macOS](../README.md)
+159 extensions · [← macOS](../README.md)
 
-[AI Generation](#ai-generation) (13) · [Colors & Palettes](#colors-palettes) (23) · [Icons & Assets](#icons-assets) (35) · [Fonts & Typography](#fonts-typography) (6) · [Design Apps & Whiteboards](#design-apps-whiteboards) (10) · [Screenshots & Mockups](#screenshots-mockups) (11) · [3D & Motion](#3d-motion) (2) · [Calculators & Ratios](#calculators-ratios) (6) · [Art & Wallpapers](#art-wallpapers) (4) · [Inspiration & Galleries](#inspiration-galleries) (5) · [General](#general) (43)
+[AI Generation](#ai-generation) (13) · [Colors & Palettes](#colors-palettes) (24) · [Icons & Assets](#icons-assets) (35) · [Fonts & Typography](#fonts-typography) (6) · [Design Apps & Whiteboards](#design-apps-whiteboards) (10) · [Screenshots & Mockups](#screenshots-mockups) (11) · [3D & Motion](#3d-motion) (2) · [Calculators & Ratios](#calculators-ratios) (6) · [Art & Wallpapers](#art-wallpapers) (4) · [Inspiration & Galleries](#inspiration-galleries) (5) · [General](#general) (43)
 
 ## Visual Elements
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 519,861 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 519,880 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,215 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,533 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,025 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -33,6 +33,7 @@
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 30 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
 | [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 14 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |
 | [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) | 9 | Search, preview, and copy Chinese traditional colors and harmony palettes. | RaffeYang | macOS, Windows | [store](https://www.raycast.com/raffeyang/chinese-traditional-colors) |
+| [Contrast Lab](https://github.com/raycast/extensions/tree/main/extensions/contrast-lab) | 0 | Check color contrast with WCAG 2 and APCA. Live preview, a one-tap nearest-passing fix, and HEX, RGB, HSL, and OKLCH input. | fracazo | macOS | [store](https://www.raycast.com/fracazo/contrast-lab) |
 
 ### Icons & Assets
 

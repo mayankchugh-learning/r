@@ -1,8 +1,8 @@
 # Web & Frontend
 
-62 extensions · [← Developer Tools](./README.md)
+63 extensions · [← Developer Tools](./README.md)
 
-[Components ✦](#components) (13) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (9) · [Tabs ✦](#tabs) (4) · [General](#general) (22)
+[Components ✦](#components) (13) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (9) · [Tabs ✦](#tabs) (4) · [General](#general) (23)
 
 *✦ auto-discovered topic group*
 
@@ -97,3 +97,4 @@
 | [Next Lens](https://github.com/raycast/extensions/tree/main/extensions/next-lens) | 49 | Scans Next.js routes and provides quick insights in the extension. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/next-lens) |
 | [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 10 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
 | [AsafAmos — Accessibility Scanner](https://github.com/raycast/extensions/tree/main/extensions/asafamos-accessibility-scanner) | 8 | Scan any URL for WCAG 2.1 / 2.2 AA accessibility violations and browse axe-core results in Raycast. | asafamos | macOS, Windows | [store](https://www.raycast.com/asafamos/asafamos-accessibility-scanner) |
+| [Contrast Lab](https://github.com/raycast/extensions/tree/main/extensions/contrast-lab) | 0 | Check color contrast with WCAG 2 and APCA. Live preview, a one-tap nearest-passing fix, and HEX, RGB, HSL, and OKLCH input. | fracazo | macOS | [store](https://www.raycast.com/fracazo/contrast-lab) |

@@ -15,7 +15,7 @@
 | [Sidecar Connect](https://github.com/raycast/extensions/tree/main/extensions/sidecar-connect) | 183 | Connect and manage Sidecar devices directly from Raycast. | dejuknow | macOS | [store](https://www.raycast.com/dejuknow/sidecar-connect) |
 | [Mobile Provisions](https://github.com/raycast/extensions/tree/main/extensions/mobile-provisions) | 24 | Manage and inspect Apple mobile provisioning profiles with detailed information about certificates, entitlements, and provisioned devices | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mobile-provisions) |
 | [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices) | 10 | List your Apple Find My devices and play a sound on one device. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/find-my-devices) |
-| [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector) | 0 | See exactly what your USB-C and MagSafe cables can do — charging watts, data speed, Thunderbolt, and connected devices on every port. | thilip_lindseth | macOS | [store](https://www.raycast.com/thilip_lindseth/usb-c-inspector) |
+| [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector) | 2 | See exactly what your USB-C and MagSafe cables can do — charging watts, data speed, Thunderbolt, and connected devices on every port. | thilip_lindseth | macOS | [store](https://www.raycast.com/thilip_lindseth/usb-c-inspector) |
 
 ## Keyboard ✦
 
