@@ -1,6 +1,6 @@
 # Video & Streaming
 
-24 extensions · [← Media](./README.md)
+25 extensions · [← Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,4 @@
 | [xQc](https://github.com/raycast/extensions/tree/main/extensions/xqc) | 29 | Search and Explore Vods for twitch.tv/xqc | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/xqc) |
 | [Magic Ingest](https://github.com/raycast/extensions/tree/main/extensions/magic-ingest) | 17 | Fast, background photo & video ingest from memory cards with date filtering, SHA-256 verification, and Photo Mechanic integration | dustintchambers | macOS | [store](https://www.raycast.com/dustintchambers/magic-ingest) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 11 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |
+| [GIF Maker](https://github.com/raycast/extensions/tree/main/extensions/gif-maker) | — | Convert videos to GIFs with control over size, frame rate, trimming, and compression. Powered by ffmpeg. | tristan_gabl | macOS | — |

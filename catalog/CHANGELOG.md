@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `df714afcb0`
+
+**Added (1):** [GIF Maker](https://github.com/raycast/extensions/tree/main/extensions/gif-maker)
+
 ## 2026-08-25 — upstream `89227210cf`
 
 **Added (1):** [agentcfg](https://github.com/raycast/extensions/tree/main/extensions/agentcfg)
