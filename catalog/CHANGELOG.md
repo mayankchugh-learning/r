@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `c8381d0b34`
+
+**Updated (1):** [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr)
+
 ## 2026-08-25 — upstream `ae89b63eba`
 
 **Updated (1):** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles)
