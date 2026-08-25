@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `efe94d0008`
+
+**Updated (1):** [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira)
+
 ## 2026-08-25 — upstream `9dec647243`
 
 **Updated (1):** [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple)
