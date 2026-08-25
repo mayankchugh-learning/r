@@ -1,6 +1,6 @@
 # Publishers
 
-2150 publishers · [← catalog index](../README.md)
+2151 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,7 +8,7 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,125,248 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,125,249 |
 | 2 | [raycast](./id/raycast.md) | 11 | 800,008 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 678,576 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 505,524 |
@@ -2155,6 +2155,7 @@
 | 2145 | [jorgenosberg](https://www.raycast.com/jorgenosberg) | 1 | 0 |
 | 2146 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2147 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2148 | github-next | 2 | — |
-| 2149 | buffer | 1 | — |
-| 2150 | multi | 1 | — |
+| 2148 | [thilip_lindseth](https://www.raycast.com/thilip_lindseth) | 1 | 0 |
+| 2149 | github-next | 2 | — |
+| 2150 | buffer | 1 | — |
+| 2151 | multi | 1 | — |

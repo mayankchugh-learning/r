@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "65f6cb51dd42953b64bdc35faba09ebb849a95f0",
-  "generatedAt": "2026-08-25T12:33:28.214Z",
-  "downloadsRefreshedAt": "2026-08-25T12:33:27.609Z",
-  "count": 3225,
+  "commit": "bb4499a5da7c3443ec56e765ddac3ede3134eff3",
+  "generatedAt": "2026-08-25T12:35:33.971Z",
+  "downloadsRefreshedAt": "2026-08-25T12:35:33.019Z",
+  "count": 3226,
   "extensions": [
     {
       "dir": "0x0",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 519860
+      "downloads": 519861
     },
     {
       "dir": "color-shades",
@@ -62233,6 +62233,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/url-unshortener",
       "treeSha": "473822571563fd8568fc9f8d572ea903c21aaa80",
       "downloads": 1529
+    },
+    {
+      "dir": "usb-c-inspector",
+      "name": "usb-c-inspector",
+      "title": "USB-C Inspector",
+      "description": "See exactly what your USB-C and MagSafe cables can do — charging watts, data speed, Thunderbolt, and connected devices on every port.",
+      "author": "thilip_lindseth",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/thilip_lindseth/usb-c-inspector",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector",
+      "treeSha": "01378b62f878433e82cd6077565e876e4fb309d5",
+      "downloads": 0
     },
     {
       "dir": "useless-facts",

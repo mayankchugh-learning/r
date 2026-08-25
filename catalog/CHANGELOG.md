@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `bb4499a5da`
+
+**Added (1):** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector)
+
 ## 2026-08-25 — upstream `65f6cb51dd`
 
 **Updated (1):** [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet)

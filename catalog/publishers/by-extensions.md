@@ -1,6 +1,6 @@
 # Publishers
 
-2150 publishers · [← catalog index](../README.md)
+2151 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 26,168 |
 | 6 | [alexi.build](./id/alexi-build.md) | 17 | 1,898 |
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 152,428 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,125,248 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,125,249 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 303,086 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,484 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,496 |
@@ -2156,5 +2156,6 @@
 | 2146 | [jorgenosberg](https://www.raycast.com/jorgenosberg) | 1 | 0 |
 | 2147 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2148 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2149 | buffer | 1 | — |
-| 2150 | multi | 1 | — |
+| 2149 | [thilip_lindseth](https://www.raycast.com/thilip_lindseth) | 1 | 0 |
+| 2150 | buffer | 1 | — |
+| 2151 | multi | 1 | — |
