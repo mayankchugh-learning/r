@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `399820c629`
+
+**Updated (1):** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector)
+
 ## 2026-08-25 — upstream `efe94d0008`
 
 **Updated (1):** [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira)
