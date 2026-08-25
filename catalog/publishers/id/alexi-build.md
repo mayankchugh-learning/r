@@ -1,6 +1,6 @@
 # alexi.build
 
-17 extensions · 1,899 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+17 extensions · 1,900 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -34,7 +34,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 160 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
+| [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 161 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
 
 ## Fun (2)
 

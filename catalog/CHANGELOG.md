@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `9dec647243`
+
+**Updated (1):** [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple)
+
 ## 2026-08-25 — upstream `adcf17a65c`
 
 **Added (1):** [Dimmer](https://github.com/raycast/extensions/tree/main/extensions/dimmer)

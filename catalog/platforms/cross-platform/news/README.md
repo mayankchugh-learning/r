@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,631 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
-| [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,282 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,635 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,283 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
 | [Órbita](https://github.com/raycast/extensions/tree/main/extensions/orbita) | 16 | Follow the posts in the Órbita, the Brazilian hacker news | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/orbita) |
 
 ### Sports & Esports News
@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,578 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
 | [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,488 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
-| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,377 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
+| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,378 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 329 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 310 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 166 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
@@ -58,15 +58,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 22,245 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 22,254 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
 | [Raycafé](https://github.com/raycast/extensions/tree/main/extensions/raycafe) | 66 | Browse upcoming Raycast Community meetups and open event pages. | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/raycafe) |
 
 ### General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 42,705 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,096 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 42,714 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,099 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,837 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Adhan Time](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) | 1,069 | This extension helps you to search prayer time for the user location | mzaien | macOS, Windows | [store](https://www.raycast.com/mzaien/adhan-time) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 647 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |

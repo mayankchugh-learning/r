@@ -5,7 +5,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) | 2,918 | Changes between the two scroll directions „natural“ and „mouse-friendly“. Useful when switching between trackpad and mouse. | gregoralbrecht | macOS | [store](https://www.raycast.com/gregoralbrecht/change-scroll-direction) |
-| [HazeOver Controls](https://github.com/raycast/extensions/tree/main/extensions/hazeover) | 2,791 | Control the HazeOver app. | ratoru | macOS | [store](https://www.raycast.com/ratoru/hazeover) |
+| [HazeOver Controls](https://github.com/raycast/extensions/tree/main/extensions/hazeover) | 2,792 | Control the HazeOver app. | ratoru | macOS | [store](https://www.raycast.com/ratoru/hazeover) |
 | [Flighty](https://github.com/raycast/extensions/tree/main/extensions/flighty) | 1,888 | Interact with the Flighty app. | hrishabhn | macOS | [store](https://www.raycast.com/hrishabhn/flighty) |
 | [Sidecar](https://github.com/raycast/extensions/tree/main/extensions/sidecar) | 1,189 | Quickly connect/disconnect iPad as a second display. | philip_chen | macOS | [store](https://www.raycast.com/philip_chen/sidecar) |
 | [Unix Timestamp Converter](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp-converter) | 988 | Convert Unix timestamps to readable date and time formats for any country or timezone, or generate Unix timestamps from human-readable dates. Supports multiple… | ride-space | macOS | [store](https://www.raycast.com/ride-space/unix-timestamp-converter) |

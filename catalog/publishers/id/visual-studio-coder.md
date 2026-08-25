@@ -1,13 +1,13 @@
 # Visual-Studio-Coder
 
-17 extensions · 26,173 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
+17 extensions · 26,178 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
 
 ## Productivity (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 11,043 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
-| [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices) | 10 | List your Apple Find My devices and play a sound on one device. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/find-my-devices) |
+| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 11,046 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
+| [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices) | 11 | List your Apple Find My devices and play a sound on one device. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/find-my-devices) |
 
 ## Developer Tools (2)
 
@@ -20,7 +20,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dia Skills](https://github.com/raycast/extensions/tree/main/extensions/dia-skills) | 1,930 | Import your favorite Dia skills into Raycast, so you can have the freedom to use whatever LLM you want, wherever you want, however you want. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/dia-skills) |
+| [Dia Skills](https://github.com/raycast/extensions/tree/main/extensions/dia-skills) | 1,931 | Import your favorite Dia skills into Raycast, so you can have the freedom to use whatever LLM you want, wherever you want, however you want. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/dia-skills) |
 
 ## Fun (5)
 

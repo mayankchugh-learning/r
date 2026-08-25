@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 66,091 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
+| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 66,109 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
 | [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) | 9,931 | Disable notifications on your Apple devices | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/do-not-disturb) |
 | [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) | 473 | Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. S… | guelug | macOS | [store](https://www.raycast.com/guelug/seo-lighthouse) |
 | [Tapo Smart Devices](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices) | 423 | Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes | timrogers | macOS, Windows | [store](https://www.raycast.com/timrogers/raycast-tapo-smart-devices) |
@@ -18,6 +18,6 @@
 | [Wemo](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) | 61 | Control your Wemo devices from Raycast | iamnatch | macOS | [store](https://www.raycast.com/iamnatch/raycast-wemo) |
 | [Yandex Smart Home](https://github.com/raycast/extensions/tree/main/extensions/yandex-smart-home) | 58 | Control Yandex Smart Home devices and run scenarios from Raycast. | devall | macOS, Windows | [store](https://www.raycast.com/devall/yandex-smart-home) |
 | [Magic Home](https://github.com/raycast/extensions/tree/main/extensions/magic-home) | 16 | Interacts with Magic Home compatible devices | bruno_caruso | macOS | [store](https://www.raycast.com/bruno_caruso/magic-home) |
+| [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices) | 11 | List your Apple Find My devices and play a sound on one device. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/find-my-devices) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 11 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |
-| [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices) | 10 | List your Apple Find My devices and play a sound on one device. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/find-my-devices) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

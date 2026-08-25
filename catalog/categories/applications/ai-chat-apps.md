@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 13,217 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
-| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 2,788 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
+| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 13,218 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
+| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 2,790 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
 | [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,268 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
 | [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 1,006 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
 | [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) | 953 | Use Baidu OCR API to recognize text. | Humber | macOS | [store](https://www.raycast.com/Humber/baidu-ocr) |

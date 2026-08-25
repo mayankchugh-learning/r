@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,376 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
+| [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,377 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
 | [Lyrics](https://github.com/raycast/extensions/tree/main/extensions/lyrics) | 2,812 | Search for lyrics to the current playing song | andrewjazbec | macOS | [store](https://www.raycast.com/andrewjazbec/lyrics) |
 | [Genius Lyrics](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) | 2,418 | Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API. | tkdkid1000 | macOS, Windows | [store](https://www.raycast.com/tkdkid1000/genius-lyrics) |
 | [Chords and Tabs](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) | 383 | Find chords and tabs for your favorite songs and musical pieces! | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/chords-and-tabs) |

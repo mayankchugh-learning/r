@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 42,705 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,096 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 42,714 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,099 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,328 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,837 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,222 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
@@ -15,11 +15,11 @@
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 647 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Daily Sites - Site Launcher](https://github.com/raycast/extensions/tree/main/extensions/daily-sites) | 326 | Access frequently visited sites with ease. | dubsdotla | macOS | [store](https://www.raycast.com/dubsdotla/daily-sites) |
 | [Shopify Developer Changelog](https://github.com/raycast/extensions/tree/main/extensions/shopify-developer-changelog) | 286 | Most recent changes to Shopify's developer platform | sandypockets | macOS | [store](https://www.raycast.com/sandypockets/shopify-developer-changelog) |
-| [NOS Nieuws](https://github.com/raycast/extensions/tree/main/extensions/nos-news) | 276 | Used to display the latest NOS nieuws from nos.nl | jorandob | macOS | [store](https://www.raycast.com/jorandob/nos-nieuws) |
+| [NOS Nieuws](https://github.com/raycast/extensions/tree/main/extensions/nos-news) | 277 | Used to display the latest NOS nieuws from nos.nl | jorandob | macOS | [store](https://www.raycast.com/jorandob/nos-nieuws) |
 | [Miniflux](https://github.com/raycast/extensions/tree/main/extensions/miniflux) | 247 | A Raycast extension for Miniflux | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/miniflux) |
 | [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) | 161 | See Pitchfork Album Reviews | koayon | macOS | [store](https://www.raycast.com/koayon/pitchfork) |
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | 150 | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
-| [CCF Conference](https://github.com/raycast/extensions/tree/main/extensions/ccfddl) | 131 | Look up CS conference details and DDLs | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/ccfddl) |
+| [CCF Conference](https://github.com/raycast/extensions/tree/main/extensions/ccfddl) | 132 | Look up CS conference details and DDLs | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/ccfddl) |
 | [Vision Directory](https://github.com/raycast/extensions/tree/main/extensions/vision-directory) | 124 | Discover the latest Apple Vision Pro apps | marckohlbrugge | macOS | [store](https://www.raycast.com/marckohlbrugge/vision-directory) |
 | [Department of Government Efficiency Tracker](https://github.com/raycast/extensions/tree/main/extensions/doge-tracker) | 114 | View information about the work done by the Department of Government Efficiency. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/doge-tracker) |
 | [Meteoblue Lookup](https://github.com/raycast/extensions/tree/main/extensions/meteoblue-lookup) | 109 | Check the weather via the Meteoblue API | fcarysnyder | macOS, Windows | [store](https://www.raycast.com/fcarysnyder/meteoblue-lookup) |

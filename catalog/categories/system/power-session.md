@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 127,992 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
-| [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) | 28,696 | Control Amphetamine sleep sessions from Raycast | gstvds | macOS | [store](https://www.raycast.com/gstvds/amphetamine) |
-| [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,429 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
+| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 128,045 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
+| [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) | 28,704 | Control Amphetamine sleep sessions from Raycast | gstvds | macOS | [store](https://www.raycast.com/gstvds/amphetamine) |
+| [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,430 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
 | [Power Management](https://github.com/raycast/extensions/tree/main/extensions/power-management) | 2,375 | Change Power Management Settings of the system | sasivarnan | macOS | [store](https://www.raycast.com/sasivarnan/power-management) |
 | [Uptime](https://github.com/raycast/extensions/tree/main/extensions/uptime) | 1,324 | Show how long ago your mac was turned on | iaroslav_naiden | macOS | [store](https://www.raycast.com/iaroslav_naiden/uptime) |
 | [Doorstopper](https://github.com/raycast/extensions/tree/main/extensions/doorstopper) | 1,175 | Prevent your MacBook from going to sleep when you close the lid | roele | macOS | [store](https://www.raycast.com/roele/doorstopper) |
