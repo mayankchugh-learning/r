@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 11,157 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
-| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,837 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
+| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,838 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
 | [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,618 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,376 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,137 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |

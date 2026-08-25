@@ -14,7 +14,7 @@
 | [ojowwalker77](https://www.raycast.com/ojowwalker77) | 1 | 796 | **Developer Tools:** [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud) |
 | [OkanBilal](https://www.raycast.com/OkanBilal) | 1 | 148 | **Web:** [Literal](https://github.com/raycast/extensions/tree/main/extensions/literal) |
 | [okgloor](https://www.raycast.com/okgloor) | 1 | 114 | **Other:** [Steam Player Counts](https://github.com/raycast/extensions/tree/main/extensions/steam-player-counts) |
-| [okooo5km](https://www.raycast.com/okooo5km) | 1 | 3,642 | **Applications:** [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) |
+| [okooo5km](https://www.raycast.com/okooo5km) | 1 | 3,643 | **Applications:** [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) |
 | [oktay](https://www.raycast.com/oktay) | 1 | 1,513 | **Developer Tools:** [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) |
 | [okwasniewski](https://www.raycast.com/okwasniewski) | 1 | 1,201 | **Developer Tools:** [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) |
 | [olafhartong](https://www.raycast.com/olafhartong) | 1 | 24 | **Developer Tools:** [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) |

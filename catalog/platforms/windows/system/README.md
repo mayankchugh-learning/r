@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 677,877 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 677,977 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,805 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,317 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 780 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
@@ -73,7 +73,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,104 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,107 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 13,178 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 
 ### General

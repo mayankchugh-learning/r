@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,197 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
-| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,560 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
+| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,563 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,600 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,654 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
 | [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) | 3,712 | This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) | meguoe | macOS, Windows | [store](https://www.raycast.com/meguoe/ip-tools) |

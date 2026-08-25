@@ -120,7 +120,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) | 2,827 | Search the bible | josmithua | macOS, Windows | [store](https://www.raycast.com/josmithua/bible) |
+| [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) | 2,828 | Search the bible | josmithua | macOS, Windows | [store](https://www.raycast.com/josmithua/bible) |
 | [Upcoming Holidays](https://github.com/raycast/extensions/tree/main/extensions/upcoming-holidays) | 1,856 | Show upcoming holidays for a country | rodrigouroz | macOS, Windows | [store](https://www.raycast.com/rodrigouroz/upcoming-holidays) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 764 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 609 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |

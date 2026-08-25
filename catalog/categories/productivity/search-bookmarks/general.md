@@ -24,7 +24,7 @@
 | [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,178 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |
 | [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 3,034 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
 | [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 2,931 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
-| [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) | 2,827 | Search the bible | josmithua | macOS, Windows | [store](https://www.raycast.com/josmithua/bible) |
+| [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) | 2,828 | Search the bible | josmithua | macOS, Windows | [store](https://www.raycast.com/josmithua/bible) |
 | [LastPass Credentials Search](https://github.com/raycast/extensions/tree/main/extensions/lastpass) | 2,606 | Search, view, and copy credentials from LastPass | alex-popov-tech | macOS | [store](https://www.raycast.com/alex-popov-tech/lastpass) |
 | [Glyph Search](https://github.com/raycast/extensions/tree/main/extensions/glyph-search) | 2,518 | Like the emoji picker, but for unicode glyphs | gbgk | macOS | [store](https://www.raycast.com/gbgk/glyph-search) |
 | [Hookmark Search](https://github.com/raycast/extensions/tree/main/extensions/search-hookmark) | 2,423 | Hookmark Search UI in Raycast | QIanGua | macOS | [store](https://www.raycast.com/QIanGua/search-hookmark) |

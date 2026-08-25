@@ -70,7 +70,7 @@
 | [etheirystech](https://www.raycast.com/etheirystech) | 1 | 100 | **Developer Tools:** [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) |
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 28 | **Other:** [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |
 | [eunchurn](https://www.raycast.com/eunchurn) | 1 | 193 | **Developer Tools:** [Helm Chart](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) |
-| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 167,290 | [see all 19 →](./id/evanzhoudev.md) |
+| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 167,291 | [see all 19 →](./id/evanzhoudev.md) |
 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 32 | **Productivity:** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) |
 | [evilhex](https://www.raycast.com/evilhex) | 1 | 133 | **Security:** [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) |
 | [eviscares](https://www.raycast.com/eviscares) | 1 | 168 | **Productivity:** [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco) |

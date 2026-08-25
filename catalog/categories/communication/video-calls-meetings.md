@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 102,924 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 102,941 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 9,211 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
 | [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 4,743 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
 | [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,311 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |

@@ -12,7 +12,7 @@
 | [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 45,278 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
 | [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 41,416 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 40,332 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
-| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,129 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
+| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,132 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 34,371 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
 | [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 23,873 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
 | [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 21,211 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |

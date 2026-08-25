@@ -52,7 +52,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,560 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
+| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,563 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,600 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) | 711 | Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats | lucasmezencio | macOS | [store](https://www.raycast.com/lucasmezencio/http-dot-cat) |
 | [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | 302 | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |

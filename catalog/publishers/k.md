@@ -16,7 +16,7 @@
 | [kalaschnik](https://www.raycast.com/kalaschnik) | 1 | 660 | **Developer Tools:** [Diff View](https://github.com/raycast/extensions/tree/main/extensions/diff-view) |
 | [kall](https://www.raycast.com/kall) | 1 | 3,798 | **Applications:** [MacUpdater](https://github.com/raycast/extensions/tree/main/extensions/macupdater) |
 | [Kami](https://www.raycast.com/Kami) | 1 | 101 | **Developer Tools:** [Looped](https://github.com/raycast/extensions/tree/main/extensions/looped) |
-| [Kang](https://www.raycast.com/Kang) | 3 | 59,767 | **System:** [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip)<br>**Developer Tools:** [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox)<br>**Data:** [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) |
+| [Kang](https://www.raycast.com/Kang) | 3 | 59,770 | **System:** [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip)<br>**Developer Tools:** [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox)<br>**Data:** [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) |
 | [karbassi](https://www.raycast.com/karbassi) | 1 | 5,410 | **Communication:** [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) |
 | [karelvuong](https://www.raycast.com/karelvuong) | 1 | 237 | **Developer Tools:** [QMD](https://github.com/raycast/extensions/tree/main/extensions/qmd) |
 | [karolusd](https://www.raycast.com/karolusd) | 1 | 1,415 | **Media:** [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) |

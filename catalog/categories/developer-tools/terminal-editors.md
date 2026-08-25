@@ -62,7 +62,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 101,167 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
 | [Visual Studio Code - Project Manager](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) | 48,151 | Search and open projects from Visual Studio Code Project Manager | MarkusLanger | macOS | [store](https://www.raycast.com/MarkusLanger/vscode-project-manager) |
-| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,129 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
+| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,132 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 30,753 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
 | [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 20,541 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
 | [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,396 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |

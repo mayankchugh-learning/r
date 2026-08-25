@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 292,195 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 292,245 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 48,731 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
 | [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,040 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,695 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
@@ -25,7 +25,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 102,924 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 102,941 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | 7 | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |
 
 ### Email

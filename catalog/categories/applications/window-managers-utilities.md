@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) | 3,995 | Interact with Bartender and menu bar icon apps | kmusick | macOS | [store](https://www.raycast.com/kmusick/bartender) |
-| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 629 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
+| [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 632 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
 | [Pomo](https://github.com/raycast/extensions/tree/main/extensions/pomo) | 175 | Control Pomo, a minimal Pomodoro timer for your macOS menu bar | claud | macOS | [store](https://www.raycast.com/claud/pomo) |
 | [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) | 63 | Integrate beehiiv with Raycast, allowing you to search for posts, check statistics, show subscribers count in the menu bar, and more. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/beehiiv) |
 | [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub) | 6 | Open Google Find Hub from Raycast or the macOS menu bar for quick access to locating, ringing, securing, or erasing Android devices. | jonah_tweed | macOS | [store](https://www.raycast.com/jonah_tweed/google-find-hub) |

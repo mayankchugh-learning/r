@@ -5,7 +5,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 97,893 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,104 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,107 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,234 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
 | [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,915 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,792 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |

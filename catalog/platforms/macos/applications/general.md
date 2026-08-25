@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 48,731 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,027 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,032 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 23,873 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
 | [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 18,290 | Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams) |
 | [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,411 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |

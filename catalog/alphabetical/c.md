@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 519,178 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 519,267 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 241,084 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 127,802 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 108,031 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -15,7 +15,7 @@
 | [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 40,410 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
 | [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 39,094 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
 | [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) | 32,890 | Interact with Anthropic's Claude API directly from Raycast | florisdobber | macOS | [store](https://www.raycast.com/florisdobber/claude) |
-| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,560 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
+| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,563 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 20,091 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
 | [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 18,015 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
 | [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,812 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |

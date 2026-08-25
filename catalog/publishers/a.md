@@ -137,7 +137,7 @@
 | [antonreshetov](https://www.raycast.com/antonreshetov) | 1 | 163 | **Productivity:** [massCode](https://github.com/raycast/extensions/tree/main/extensions/masscode) |
 | [Antonwy](https://www.raycast.com/Antonwy) | 1 | 725 | **News:** [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) |
 | [anu](https://www.raycast.com/anu) | 1 | 1,076 | **Design Tools:** [Tints and Shades](https://github.com/raycast/extensions/tree/main/extensions/tints-and-shades) |
-| [anwarulislam](https://www.raycast.com/anwarulislam) | 1 | 38,027 | **Applications:** [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) |
+| [anwarulislam](https://www.raycast.com/anwarulislam) | 1 | 38,032 | **Applications:** [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) |
 | [any](https://www.raycast.com/any) | 1 | 3,156 | **Applications:** [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) |
 | [anybox](https://www.raycast.com/anybox) | 2 | 7,969 | **Applications:** [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox)<br>**Developer Tools:** [OK JSON](https://github.com/raycast/extensions/tree/main/extensions/ok-json) |
 | [anyerqi](https://www.raycast.com/anyerqi) | 1 | 20 | **Productivity:** [Wubi Code](https://github.com/raycast/extensions/tree/main/extensions/wu-bi-bian-ma) |

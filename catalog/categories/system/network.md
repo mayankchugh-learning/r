@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,104 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,107 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 16,263 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
 | [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 13,178 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,495 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |

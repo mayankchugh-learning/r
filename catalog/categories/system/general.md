@@ -10,7 +10,7 @@
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,197 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 46,878 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 41,416 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
-| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,129 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
+| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,132 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 34,371 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
 | [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 13,377 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
 | [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | 13,085 | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |

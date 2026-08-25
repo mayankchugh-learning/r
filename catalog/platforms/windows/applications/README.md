@@ -141,7 +141,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 48,731 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,027 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,032 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 3,034 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
 | [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel) | 2,989 | Allow Parcel users to see upcoming and active deliveries | marcmagn1 | macOS, Windows | [store](https://www.raycast.com/marcmagn1/parcel) |
 | [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper) | 2,816 | Voice dictation, transcription history, and profile management for TypeWhisper | SeoFood | macOS, Windows | [store](https://www.raycast.com/SeoFood/typewhisper) |

@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 519,178 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 519,267 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,272 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 675 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 30 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
@@ -84,7 +84,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 97,893 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 47,291 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,027 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,032 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,956 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,792 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 666 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |

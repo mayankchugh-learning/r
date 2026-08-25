@@ -5,7 +5,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 97,893 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,027 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,032 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,956 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,148 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,366 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |

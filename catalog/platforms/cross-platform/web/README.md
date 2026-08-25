@@ -175,7 +175,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 97,893 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,104 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,107 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,600 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 15,933 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
 | [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 7,915 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |

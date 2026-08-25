@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,129 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
+| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,132 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,371 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
 | [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 13,377 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
 | [Terminal Shop](https://github.com/raycast/extensions/tree/main/extensions/terminaldotshop) | 1,270 | The finest coffee for the finest people. | terminaldotshop (org) | macOS | [store](https://www.raycast.com/terminaldotshop/terminaldotshop) |

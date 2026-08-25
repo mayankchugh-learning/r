@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 519,178 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 519,267 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,208 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,530 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,024 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -181,7 +181,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 97,893 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 47,291 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,027 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,032 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 17,956 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,148 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,366 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |

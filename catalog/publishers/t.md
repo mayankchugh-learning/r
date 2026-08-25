@@ -65,7 +65,7 @@
 | [thijsdewitt](https://www.raycast.com/thijsdewitt) | 1 | 149 | **Developer Tools:** [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) |
 | [third774](https://www.raycast.com/third774) | 3 | 61,928 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,630 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,123,977 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,124,066 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 36 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 57,228 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,719 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
@@ -102,7 +102,7 @@
 | [tomo_myrman](https://www.raycast.com/tomo_myrman) | 1 | 231 | **Fun:** [Slowed + Reverb](https://github.com/raycast/extensions/tree/main/extensions/slowed-reverb) |
 | [Tomokisan](https://www.raycast.com/tomokisan) | 1 | 13 | **Developer Tools:** [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) |
 | [toni_birka](https://www.raycast.com/toni_birka) | 1 | 581 | **Productivity:** [Link Bundles](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) |
-| [tonka3000](./id/tonka3000.md) | 14 | 411,846 | [see all 14 →](./id/tonka3000.md) |
+| [tonka3000](./id/tonka3000.md) | 14 | 411,847 | [see all 14 →](./id/tonka3000.md) |
 | [tonngw](https://www.raycast.com/tonngw) | 1 | 970 | **Data:** [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) |
 | [traf](https://www.raycast.com/traf) | 1 | 1,200 | **Productivity:** [Parse - Speed Reader](https://github.com/raycast/extensions/tree/main/extensions/parse) |
 | [Treblle](https://www.raycast.com/Treblle) | 1 | 54 | **Other:** [Search LaraJobs](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) |

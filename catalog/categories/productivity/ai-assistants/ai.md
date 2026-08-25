@@ -31,7 +31,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 7,994 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
+| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 7,995 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
 | [Grok AI](https://github.com/raycast/extensions/tree/main/extensions/grok-ai) | 2,413 | Query xAI's Grok directly from Raycast with streaming responses, conversation history, and custom model management | andrei_ciobotar | macOS | [store](https://www.raycast.com/andrei_ciobotar/grok-ai) |
 | [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,068 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 872 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |

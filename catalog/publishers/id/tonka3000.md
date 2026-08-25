@@ -1,6 +1,6 @@
 # tonka3000
 
-14 extensions · 411,846 downloads · [store](https://www.raycast.com/tonka3000) · [← publishers](../README.md)
+14 extensions · 411,847 downloads · [store](https://www.raycast.com/tonka3000) · [← publishers](../README.md)
 
 ## Applications (1)
 
@@ -48,7 +48,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,837 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
+| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,838 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
 
 ## Design Tools (1)
 

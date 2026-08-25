@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 677,877 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 677,977 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | 631 | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 376 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 41 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
@@ -61,7 +61,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,104 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 45,107 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 13,178 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 
 ### General

@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 292,195 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 292,245 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
 | [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,436 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
 | [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,294 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
 | [Airtable](https://github.com/raycast/extensions/tree/main/extensions/airtable) | 2,455 | List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. | marks | macOS | [store](https://www.raycast.com/marks/raycast-airtable-extension) |

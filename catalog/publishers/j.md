@@ -79,7 +79,7 @@
 | [jonah_tweed](https://www.raycast.com/jonah_tweed) | 1 | 6 | **Applications:** [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub) |
 | [jonas_list](https://www.raycast.com/jonas_list) | 1 | 16 | **Developer Tools:** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) |
 | [jonathan_ochocki](https://www.raycast.com/jonathan_ochocki) | 1 | 16 | **Productivity:** [CTA - Chicago Transit Authority](https://github.com/raycast/extensions/tree/main/extensions/cta) |
-| [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 25,848 | **Productivity:** [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl)<br>**Developer Tools:** [Next Run](https://github.com/raycast/extensions/tree/main/extensions/next-run) |
+| [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 25,851 | **Productivity:** [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl)<br>**Developer Tools:** [Next Run](https://github.com/raycast/extensions/tree/main/extensions/next-run) |
 | [JonathanRReed](https://www.raycast.com/JonathanRReed) | 2 | 450 | **Fun:** [Ray Clicker](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker)<br>**Developer Tools:** [AI Stats](https://github.com/raycast/extensions/tree/main/extensions/ai-stats) |
 | [JonathanSpeek](https://www.raycast.com/JonathanSpeek) | 1 | 54 | **Developer Tools:** [Fastly](https://github.com/raycast/extensions/tree/main/extensions/fastly) |
 | [jones-sam](https://www.raycast.com/jones-sam) | 1 | 1,988 | **Data:** [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) |
@@ -104,7 +104,7 @@
 | [joshmillgate](https://www.raycast.com/joshmillgate) | 3 | 181 | **Data:** [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman), [Datafast](https://github.com/raycast/extensions/tree/main/extensions/datafast)<br>**Finance:** [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) |
 | [joshtemple](https://www.raycast.com/joshtemple) | 1 | 3,654 | **Productivity:** [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) |
 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 37,152 | **Productivity:** [Password Generator](https://github.com/raycast/extensions/tree/main/extensions/password-generator) |
-| [josmithua](https://www.raycast.com/josmithua) | 1 | 2,827 | **Data:** [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) |
+| [josmithua](https://www.raycast.com/josmithua) | 1 | 2,828 | **Data:** [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) |
 | [JosNun](https://www.raycast.com/JosNun) | 1 | 173 | **System:** [Display Reinitializer](https://github.com/raycast/extensions/tree/main/extensions/display-reinitializer) |
 | [JReinhold](https://www.raycast.com/JReinhold) | 1 | 105 | **Developer Tools:** [Storybook Sandboxes](https://github.com/raycast/extensions/tree/main/extensions/storybook-sandboxes) |
 | [jrl](https://www.raycast.com/jrl) | 1 | 3 | **Applications:** [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) |

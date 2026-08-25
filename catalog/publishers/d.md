@@ -97,7 +97,7 @@
 | [dharmendra](https://www.raycast.com/dharmendra) | 1 | 312 | **Web:** [Udemy Coupons](https://github.com/raycast/extensions/tree/main/extensions/udemy-coupons) |
 | [dharmin_nagar](https://www.raycast.com/dharmin_nagar) | 1 | 92 | **Productivity:** [Cloudflare Workers AI](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-ai) |
 | [diana_scharf](https://www.raycast.com/diana_scharf) | 1 | 733 | **Developer Tools:** [Can I PHP?](https://github.com/raycast/extensions/tree/main/extensions/can-i-php) |
-| [diazdesandi](https://www.raycast.com/diazdesandi) | 1 | 629 | **Applications:** [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) |
+| [diazdesandi](https://www.raycast.com/diazdesandi) | 1 | 632 | **Applications:** [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) |
 | [dieserRobin](https://www.raycast.com/dieserRobin) | 1 | 2,618 | **Media:** [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) |
 | [dillionverma](https://www.raycast.com/dillionverma) | 1 | 159 | **Finance:** [Mempool](https://github.com/raycast/extensions/tree/main/extensions/mempool) |
 | [dillon-mccardell](https://www.raycast.com/dillon-mccardell) | 1 | 71 | **Productivity:** [Raylog - Markdown Tasks](https://github.com/raycast/extensions/tree/main/extensions/raylog-markdown-tasks) |
