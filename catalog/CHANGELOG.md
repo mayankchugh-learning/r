@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `253dc5de53`
+
+**Added (1):** [Quick Quote](https://github.com/raycast/extensions/tree/main/extensions/quick-quote)
+
 ## 2026-08-25 — upstream `c4fecb60f1`
 
 **Added (1):** [Transcribe Audio](https://github.com/raycast/extensions/tree/main/extensions/transcribe-audio)

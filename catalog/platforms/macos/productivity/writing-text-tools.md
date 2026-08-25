@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · **Writing & Text Tools** · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-73 of 1449 extensions · [← macOS · Productivity](./README.md)
+74 of 1450 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -79,3 +79,4 @@
 | [Xiaohe Query](https://github.com/raycast/extensions/tree/main/extensions/xiaohe-query) | 4 | Query Xiaohe (Flypy) codes and decomposition for a single Chinese character. | dongqing | macOS | [store](https://www.raycast.com/dongqing/xiaohe-query) |
 | [VN Textify](https://github.com/raycast/extensions/tree/main/extensions/vn-textify) | 3 | Transform Vietnam's Telex text to Vietnamese text | locnguyen1842 | macOS, Windows | [store](https://www.raycast.com/locnguyen1842/vn-textify) |
 | [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | 2 | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | [store](https://www.raycast.com/meslva/cl1p) |
+| [Quick Quote](https://github.com/raycast/extensions/tree/main/extensions/quick-quote) | — | Quote selected text as a Markdown blockquote. Built for pasting CLI agent output back into a prompt. | kumamaki | macOS | — |

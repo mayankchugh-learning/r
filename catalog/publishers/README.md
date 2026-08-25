@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,125,232 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,125,234 |
 | 2 | [raycast](./id/raycast.md) | 11 | 800,008 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 678,556 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 505,512 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 678,559 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 505,514 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 445,248 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 440,283 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 412,149 |
@@ -735,7 +735,7 @@
 | 725 | [d2a](https://www.raycast.com/d2a) | 1 | 761 |
 | 726 | [ElianCodes](https://www.raycast.com/ElianCodes) | 1 | 761 |
 | 727 | [ewilderj](https://www.raycast.com/ewilderj) | 1 | 755 |
-| 728 | [kumamaki](https://www.raycast.com/kumamaki) | 2 | 751 |
+| 728 | [kumamaki](https://www.raycast.com/kumamaki) | 3 | 751 |
 | 729 | [e2b](https://www.raycast.com/e2b) | 1 | 750 |
 | 730 | [inakitajes](https://www.raycast.com/inakitajes) | 1 | 750 |
 | 731 | [thesobercoder](https://www.raycast.com/thesobercoder) | 1 | 747 |

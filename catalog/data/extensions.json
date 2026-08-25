@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c4fecb60f1e26884e1ed068a6acd9732fd324573",
-  "generatedAt": "2026-08-25T12:18:26.668Z",
-  "downloadsRefreshedAt": "2026-08-25T12:18:26.062Z",
-  "count": 3224,
+  "commit": "253dc5de53cd9ae0e93a8f079305da664ca66907",
+  "generatedAt": "2026-08-25T12:19:33.251Z",
+  "downloadsRefreshedAt": "2026-08-25T12:19:32.635Z",
+  "count": 3225,
   "extensions": [
     {
       "dir": "0x0",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 519844
+      "downloads": 519846
     },
     {
       "dir": "color-shades",
@@ -22060,7 +22060,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 505512
+      "downloads": 505514
     },
     {
       "dir": "google-chrome-profiles",
@@ -28381,7 +28381,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 678556
+      "downloads": 678559
     },
     {
       "dir": "kimai",
@@ -45524,6 +45524,27 @@
       "downloads": 459
     },
     {
+      "dir": "quick-quote",
+      "name": "quick-quote",
+      "title": "Quick Quote",
+      "description": "Quote selected text as a Markdown blockquote. Built for pasting CLI agent output back into a prompt.",
+      "author": "kumamaki",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-quote",
+      "treeSha": "e02ad20a4832308aec0cd69d8f88c11460d7676a",
+      "downloads": null
+    },
+    {
       "dir": "quick-references",
       "name": "quick-references",
       "title": "Quick References",
@@ -60098,10 +60119,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/mouxy/transcribe-audio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/transcribe-audio",
       "treeSha": "d45762e07469396dd8b41a4184a0983be58fdd5e",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "transfer-sh_upload",

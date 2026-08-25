@@ -1,6 +1,6 @@
 # Agent ✦
 
-6 extensions · [← AI & LLM Tools](./README.md)
+7 extensions · [← AI & LLM Tools](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -12,3 +12,4 @@
 | [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent) | 137 | Parses the User-Agent of the selected text | third774 | macOS | [store](https://www.raycast.com/third774/user-agent) |
 | [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 25 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |
 | [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) | 23 | Discover, triage, and manage papers from your local Paper Agent workflow in Raycast. | marvel940804836 | macOS | [store](https://www.raycast.com/marvel940804836/paper-agent) |
+| [Quick Quote](https://github.com/raycast/extensions/tree/main/extensions/quick-quote) | — | Quote selected text as a Markdown blockquote. Built for pasting CLI agent output back into a prompt. | kumamaki | macOS | — |
