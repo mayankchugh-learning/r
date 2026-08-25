@@ -2,7 +2,7 @@
 
 276 extensions · [← all categories](../README.md)
 
-macOS: 275 · Windows: 90
+macOS: 275 · Windows: 91
 
 ## Play
 

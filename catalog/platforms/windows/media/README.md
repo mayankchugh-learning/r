@@ -1,8 +1,8 @@
 # Windows · Media
 
-85 extensions · [← Windows](../README.md)
+86 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (14) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (33)
+[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (15) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (33)
 
 ## Listen & Watch
 
@@ -53,6 +53,7 @@
 | [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,237 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,623 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,553 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) | 1,480 | Store and retrieve images quickly from Raycast! | ibll | macOS, Windows | [store](https://www.raycast.com/ibll/image-wallet) |
 | [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 829 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
 | [DuckDuckGo Image Search](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-image-search) | 658 | Search Images inside Raycast by DuckDuckGo Image! | jag-k | macOS, Windows | [store](https://www.raycast.com/jag-k/duckduckgo-image-search) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 544 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |

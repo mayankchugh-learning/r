@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "253dc5de53cd9ae0e93a8f079305da664ca66907",
-  "generatedAt": "2026-08-25T12:19:33.251Z",
-  "downloadsRefreshedAt": "2026-08-25T12:19:32.635Z",
+  "commit": "65f6cb51dd42953b64bdc35faba09ebb849a95f0",
+  "generatedAt": "2026-08-25T12:33:28.214Z",
+  "downloadsRefreshedAt": "2026-08-25T12:33:27.609Z",
   "count": 3225,
   "extensions": [
     {
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 519846
+      "downloads": 519860
     },
     {
       "dir": "color-shades",
@@ -22060,7 +22060,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 505514
+      "downloads": 505524
     },
     {
       "dir": "google-chrome-profiles",
@@ -25513,11 +25513,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/ibll/image-wallet",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/image-wallet",
-      "treeSha": "cef2bf09cb8bd55824c1e9f3f8339d8644b291e6",
+      "treeSha": "a095ef95747405a1b6253ada61b23767ae096efd",
       "downloads": 1480
     },
     {
@@ -28381,7 +28382,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 678559
+      "downloads": 678576
     },
     {
       "dir": "kimai",
@@ -45539,10 +45540,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/kumamaki/quick-quote",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-quote",
       "treeSha": "e02ad20a4832308aec0cd69d8f88c11460d7676a",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "quick-references",

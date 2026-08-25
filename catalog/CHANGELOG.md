@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `65f6cb51dd`
+
+**Updated (1):** [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet)
+
 ## 2026-08-25 — upstream `253dc5de53`
 
 **Added (1):** [Quick Quote](https://github.com/raycast/extensions/tree/main/extensions/quick-quote)

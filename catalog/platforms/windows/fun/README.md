@@ -1,8 +1,8 @@
 # Windows · Fun
 
-90 extensions · [← Windows](../README.md)
+91 extensions · [← Windows](../README.md)
 
-[Games & Gaming](#games-gaming) (23) · [AI & Generative Fun](#ai-generative-fun) (3) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (2) · [Jokes & Randomness](#jokes-randomness) (8) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (2) · [Food & Drink](#food-drink) (2) · [General](#general) (32)
+[Games & Gaming](#games-gaming) (23) · [AI & Generative Fun](#ai-generative-fun) (3) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (2) · [Jokes & Randomness](#jokes-randomness) (8) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (2) · [Food & Drink](#food-drink) (2) · [General](#general) (33)
 
 ## Play
 
@@ -144,6 +144,7 @@
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,696 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Timezone Buddy](https://github.com/raycast/extensions/tree/main/extensions/timezone-buddy) | 2,322 | Show friends in other timezones | andrebreia | macOS, Windows | [store](https://www.raycast.com/andrebreia/timezone-buddy) |
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,910 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
+| [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) | 1,480 | Store and retrieve images quickly from Raycast! | ibll | macOS, Windows | [store](https://www.raycast.com/ibll/image-wallet) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 807 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 765 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 270 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
