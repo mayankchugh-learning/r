@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `11cfba7bde`
+
+**Updated (1):** [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7)
+
 ## 2026-08-25 — upstream `40a25946f0`
 
 **Updated (1):** [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer)
