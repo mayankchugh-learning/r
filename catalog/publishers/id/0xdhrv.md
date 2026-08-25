@@ -1,12 +1,12 @@
 # 0xdhrv
 
-15 extensions · 1,372 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+15 extensions · 1,381 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 668 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
+| [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 670 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 130 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
 | [Shopify Shop](https://github.com/raycast/extensions/tree/main/extensions/shopify-shop) | 10 | Browse and search products from a Shopify store. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shopify-shop) |
 
@@ -20,13 +20,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 73 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
+| [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 74 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
 | [Defuddle](https://github.com/raycast/extensions/tree/main/extensions/defuddle) | 49 | Extract readable web pages to Markdown with Defuddle | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/defuddle) |
 | [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | 43 | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
+| [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 11 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
 | [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 9 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |
-| [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 9 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
-| [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic) | 5 | Check how ready a website is for AI agents | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/is-agentic) |
-| [Fx Coding Agent](https://github.com/raycast/extensions/tree/main/extensions/fx-coding-agent) | 0 | Run fx coding agent commands, inspect sessions, and delegate work from Raycast AI | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/fx-coding-agent) |
+| [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic) | 7 | Check how ready a website is for AI agents | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/is-agentic) |
+| [Fx Coding Agent](https://github.com/raycast/extensions/tree/main/extensions/fx-coding-agent) | 1 | Run fx coding agent commands, inspect sessions, and delegate work from Raycast AI | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/fx-coding-agent) |
 
 ## Fun (3)
 
@@ -40,4 +40,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | 3 | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/the-forest-link) |
+| [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | 4 | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/the-forest-link) |
