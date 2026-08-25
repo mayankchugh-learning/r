@@ -1,8 +1,8 @@
 # Window & Desktop Management
 
-37 extensions · [← System](./README.md)
+38 extensions · [← System](./README.md)
 
-[Windows ✦](#windows) (14) · [Bar ✦](#bar) (8) · [Space ✦](#space) (7) · [Dock ✦](#dock) (4) · [General](#general) (4)
+[Windows ✦](#windows) (15) · [Bar ✦](#bar) (8) · [Space ✦](#space) (7) · [Dock ✦](#dock) (4) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
@@ -24,6 +24,7 @@
 | [Windows Environment Variables](https://github.com/raycast/extensions/tree/main/extensions/windows-environment-variables) | 152 | View, search, edit and manage Windows environment variables and PATH entries. A keyboard-first alternative to the Windows Environment Variables dialog. | ohmycodedev | Windows | [store](https://www.raycast.com/ohmycodedev/windows-environment-variables) |
 | [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) | 11 | Toggle Windows HDR on individual monitors instead of all displays at once. | abdullah_shabib | Windows | [store](https://www.raycast.com/abdullah_shabib/hdr-toggle) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 2 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
+| [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | — | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | — |
 
 ## Bar ✦
 

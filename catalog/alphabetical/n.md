@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · **N** · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-108 extensions · [← catalog index](../README.md)
+109 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -114,3 +114,4 @@
 | [NicheFund Business Ideas](https://github.com/raycast/extensions/tree/main/extensions/nichefund-business-ideas) | 1 | Discover why MicroSaaS ideas fail and find validated ideas worth building. | backlooplabs | macOS, Windows | [store](https://www.raycast.com/backlooplabs/nichefund-business-ideas) |
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
 | [NetEase Mail](https://github.com/raycast/extensions/tree/main/extensions/netease-mail) | 0 | Read, search, verify codes, and send NetEase Mail from Raycast. | ctacta621 | Windows | [store](https://www.raycast.com/ctacta621/netease-mail) |
+| [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | — | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | — |

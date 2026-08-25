@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8aafb0f0ad1b0d33305f4c879bcffb2b1db1e868",
-  "generatedAt": "2026-08-25T12:46:36.961Z",
-  "downloadsRefreshedAt": "2026-08-25T12:46:36.296Z",
-  "count": 3227,
+  "commit": "e97fbc320c4365ddb89a02bce7e80edd763f4f5e",
+  "generatedAt": "2026-08-25T12:51:37.988Z",
+  "downloadsRefreshedAt": "2026-08-25T12:51:37.530Z",
+  "count": 3228,
   "extensions": [
     {
       "dir": "0x0",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 519880
+      "downloads": 519886
     },
     {
       "dir": "color-shades",
@@ -22081,7 +22081,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 505534
+      "downloads": 505539
     },
     {
       "dir": "google-chrome-profiles",
@@ -28403,7 +28403,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 678594
+      "downloads": 678602
     },
     {
       "dir": "kimai",
@@ -36673,6 +36673,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/neurooo-translate",
       "treeSha": "69eb9e4341331827040adfd32dd848b65e30945f",
       "downloads": 45
+    },
+    {
+      "dir": "new-finder-window",
+      "name": "new-finder-window",
+      "title": "New Finder Window",
+      "description": "Open a new Finder window on the current macOS Space without switching Spaces.",
+      "author": "tickmao",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/new-finder-window",
+      "treeSha": "8ad44bbd27589ff790c54f8356b167e6f2efeb64",
+      "downloads": null
     },
     {
       "dir": "new-relic",

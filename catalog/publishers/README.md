@@ -1,6 +1,6 @@
 # Publishers
 
-2152 publishers · [← catalog index](../README.md)
+2153 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,125,268 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,125,274 |
 | 2 | [raycast](./id/raycast.md) | 11 | 800,008 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 678,594 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 505,534 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 678,602 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 505,539 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 445,248 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 440,283 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 412,149 |
@@ -2160,3 +2160,4 @@
 | 2150 | github-next | 2 | — |
 | 2151 | buffer | 1 | — |
 | 2152 | multi | 1 | — |
+| 2153 | tickmao | 1 | — |

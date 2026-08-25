@@ -1,8 +1,8 @@
 # Window & Workspace Management
 
-51 extensions · [← Productivity](./README.md)
+52 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (21) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (9) · [General](#general) (12)
+[Windows ✦](#windows) (22) · [Spaces ✦](#spaces) (10) · [Desktop ✦](#desktop) (8) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -31,6 +31,22 @@
 | [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 24 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
 | [Tabbit](https://github.com/raycast/extensions/tree/main/extensions/tabbit) | 20 | Open Tabbit Browser windows and URLs from Raycast | AkaChou | macOS | [store](https://www.raycast.com/AkaChou/tabbit) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 2 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
+| [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | — | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | — |
+
+## Spaces ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,437 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
+| [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,127 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
+| [Typographer: Make Text Pretty](https://github.com/raycast/extensions/tree/main/extensions/typographer) | 1,940 | Make the typography of your text pretty: fix quotes, dashes, and spaces. Works offline. | mikeozornin | macOS | [store](https://www.raycast.com/mikeozornin/typographer) |
+| [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | 561 | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
+| [Pangu for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pangu-for-raycast) | 106 | Add spaces between Chinese and English, number or symbols. | avengerbevis | macOS | [store](https://www.raycast.com/avengerbevis/pangu-for-raycast) |
+| [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 71 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
+| [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | 41 | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |
+| [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) | 8 | Search and control live Phi Spaces and tabs. | phibrowser | macOS | [store](https://www.raycast.com/phibrowser/phi) |
+| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 5 | Inspect Mac storage trends, scan reclaimable space, and explain file activity through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
+| [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 4 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |
 
 ## Desktop ✦
 
@@ -43,22 +59,7 @@
 | [Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/desktop-manager) | 202 | Search and organize your desktop files | tykid | macOS | [store](https://www.raycast.com/tykid/desktop-manager) |
 | [Remote Desktop](https://github.com/raycast/extensions/tree/main/extensions/remote-desktop) | 181 | Manage Remote Desktop connections | tonka3000 | Windows | [store](https://www.raycast.com/tonka3000/remote-desktop) |
 | [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack) | 176 | Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop. | huskii | macOS | [store](https://www.raycast.com/huskii/bookstack) |
-| [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | 41 | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |
 | [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 3 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
-
-## Spaces ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,437 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
-| [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,127 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
-| [Typographer: Make Text Pretty](https://github.com/raycast/extensions/tree/main/extensions/typographer) | 1,940 | Make the typography of your text pretty: fix quotes, dashes, and spaces. Works offline. | mikeozornin | macOS | [store](https://www.raycast.com/mikeozornin/typographer) |
-| [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) | 561 | Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) wit… | alice.ellis | macOS | [store](https://www.raycast.com/alice.ellis/text-format-improver) |
-| [Pangu for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pangu-for-raycast) | 106 | Add spaces between Chinese and English, number or symbols. | avengerbevis | macOS | [store](https://www.raycast.com/avengerbevis/pangu-for-raycast) |
-| [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 71 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
-| [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) | 8 | Search and control live Phi Spaces and tabs. | phibrowser | macOS | [store](https://www.raycast.com/phibrowser/phi) |
-| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 5 | Inspect Mac storage trends, scan reclaimable space, and explain file activity through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
-| [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 4 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |
 
 ## General
 

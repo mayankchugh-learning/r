@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · **T** · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-122 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+123 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -66,7 +66,7 @@
 | [thilip_lindseth](https://www.raycast.com/thilip_lindseth) | 1 | 2 | **System:** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector) |
 | [third774](https://www.raycast.com/third774) | 3 | 61,964 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,635 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,125,268 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,125,274 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 36 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 57,270 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 3,731 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
@@ -75,6 +75,7 @@
 | [tiagomichaelsousa](https://www.raycast.com/tiagomichaelsousa) | 1 | 370 | **Developer Tools:** [Helm Documentation](https://github.com/raycast/extensions/tree/main/extensions/helm-docs) |
 | [tiancheng92](https://www.raycast.com/tiancheng92) | 2 | 8,693 | **Productivity:** [Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/youdao-translate)<br>**Developer Tools:** [SwitchHosts](https://github.com/raycast/extensions/tree/main/extensions/switchhosts) |
 | [tianwg](https://www.raycast.com/tianwg) | 1 | 23 | **Developer Tools:** [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) |
+| tickmao | 1 | — | **Productivity:** [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) |
 | [Ticsi](https://www.raycast.com/Ticsi) | 1 | 2 | **Productivity:** [Meeting Room Check](https://github.com/raycast/extensions/tree/main/extensions/meeting-room-check) |
 | [Tien-Lam](https://www.raycast.com/Tien-Lam) | 2 | 91 | **Applications:** [Macshot](https://github.com/raycast/extensions/tree/main/extensions/macshot)<br>**News:** [Techmeme](https://github.com/raycast/extensions/tree/main/extensions/techmeme) |
 | [Tigeredgar](https://www.raycast.com/Tigeredgar) | 1 | 41 | **Productivity:** [Okta Manager](https://github.com/raycast/extensions/tree/main/extensions/okta-app-manager) |
