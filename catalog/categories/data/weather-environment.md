@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Sun/Moon Times](https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times) | 893 | Show times for sun and moon for any city in the World. | danny_seidel | macOS | [store](https://www.raycast.com/DannySeidel/sun-moon-times) |
+| [Sun/Moon Times](https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times) | 894 | Show times for sun and moon for any city in the World. | danny_seidel | macOS | [store](https://www.raycast.com/DannySeidel/sun-moon-times) |
 | [Air Quality](https://github.com/raycast/extensions/tree/main/extensions/air-quality) | 366 | An air quality information extension | earthpyy | macOS | [store](https://www.raycast.com/earthpyy/air-quality) |
 | [Pollen Count](https://github.com/raycast/extensions/tree/main/extensions/pollen-count) | 83 | Show current pollen data by the Deutscher Wetterdienst API (German Weather Services) | H16nning | macOS | [store](https://www.raycast.com/H16nning/pollen-count) |
 | [FlyCheck](https://github.com/raycast/extensions/tree/main/extensions/flycheck-raycast) | 39 | Quickly lookup raw METAR weather data by ICAO code. | Sotong | macOS, Windows | [store](https://www.raycast.com/Sotong/flycheck-raycast) |

@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats) | 1,192 | The largest collection of high-quality evaluations for every AI modality—language, vision, code, reasoning, and beyond | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/llm-stats) |
+| [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats) | 1,194 | The largest collection of high-quality evaluations for every AI modality—language, vision, code, reasoning, and beyond | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/llm-stats) |
 | [Better Uptime](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) | 736 | Check on your Better Uptime monitors, incidents and heartbeats. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/better-uptime) |
 | [Proton Version](https://github.com/raycast/extensions/tree/main/extensions/proton-version) | 657 | Keep track of the lastest version of Proton products | flavien.bonvin | macOS | [store](https://www.raycast.com/flavien.bonvin/proton-version) |
-| [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 526 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
+| [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 528 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
 | [PulseMCP](https://github.com/raycast/extensions/tree/main/extensions/pulsemcp) | 238 | Search and discover MCP servers from the PulseMCP registry. Find Model Context Protocol servers with stats, connection options, and more. | ismi | macOS | [store](https://www.raycast.com/ismi/pulsemcp) |
 | [Footy Report](https://github.com/raycast/extensions/tree/main/extensions/footy-report) | 161 | Raycast extension to find your essential football match day info and stats | thuoe | macOS | [store](https://www.raycast.com/thuoe/footy-report) |
 | [AI Stats](https://github.com/raycast/extensions/tree/main/extensions/ai-stats) | 146 | AI model stats via Supabase | JonathanRReed | macOS | [store](https://www.raycast.com/JonathanRReed/ai-stats) |
