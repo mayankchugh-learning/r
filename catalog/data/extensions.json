@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c8381d0b34018147c96c27b116b8fee2391e32b5",
-  "generatedAt": "2026-08-25T09:38:36.334Z",
-  "downloadsRefreshedAt": "2026-08-25T09:38:35.776Z",
+  "commit": "92a5b4b57f08da1956bf7da20aa071db056559a8",
+  "generatedAt": "2026-08-25T09:39:32.732Z",
+  "downloadsRefreshedAt": "2026-08-25T09:39:32.111Z",
   "count": 3220,
   "extensions": [
     {
@@ -9482,21 +9482,21 @@
       "dir": "coffee",
       "name": "coffee",
       "title": "Coffee",
-      "description": "Prevent the sleep function on your mac",
+      "description": "Prevent the sleep function on your computer",
       "author": "mooxl",
       "owner": null,
-      "contributors": 13,
+      "contributors": 14,
       "categories": [
-        "System",
-        "Productivity"
+        "System"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
-      "treeSha": "6d39c28e77159595078ec7c0ed98efe1b45d4ac1",
+      "treeSha": "672bfeafe5d911ba921ccc1eaafb29c317bdd259",
       "downloads": 127802
     },
     {
@@ -22020,7 +22020,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 505366
+      "downloads": 505368
     },
     {
       "dir": "google-chrome-profiles",
@@ -22041,7 +22041,7 @@
       "store": "https://www.raycast.com/frouo/google-chrome-profiles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles",
       "treeSha": "9c1ad993d847e23870aedec1700b0116b6d498a7",
-      "downloads": 13554
+      "downloads": 13563
     },
     {
       "dir": "google-cloud-platform-search",
@@ -28341,7 +28341,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 678351
+      "downloads": 678352
     },
     {
       "dir": "kimai",
@@ -54003,7 +54003,7 @@
       "store": "https://www.raycast.com/Aayush9029/sonarr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sonarr",
       "treeSha": "de50a1fcd0408ab0747cbed5b37f0da4701271d6",
-      "downloads": 878
+      "downloads": 880
     },
     {
       "dir": "sonos",

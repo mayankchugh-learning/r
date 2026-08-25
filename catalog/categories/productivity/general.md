@@ -1,11 +1,10 @@
 # General
 
-373 extensions · [← Productivity](./README.md)
+372 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 443,855 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
-| [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 127,802 | Prevent the sleep function on your mac | mooxl | macOS | [store](https://www.raycast.com/mooxl/coffee) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 61,479 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
 | [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 60,614 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
 | [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 51,809 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
