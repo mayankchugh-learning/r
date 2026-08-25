@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · **N** · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-76 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+77 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -11,6 +11,7 @@
 | [nabecite](https://www.raycast.com/nabecite) | 1 | 7 | **Productivity:** [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) |
 | [NabhagMotivaras](https://www.raycast.com/NabhagMotivaras) | 1 | 148 | **Productivity:** [Twenty](https://github.com/raycast/extensions/tree/main/extensions/twenty) |
 | [nac-39](https://www.raycast.com/nac-39) | 1 | 62 | **Developer Tools:** [Tex2Typst](https://github.com/raycast/extensions/tree/main/extensions/tex2typst) |
+| nachotafalla | 1 | — | **System:** [Dimmer](https://github.com/raycast/extensions/tree/main/extensions/dimmer) |
 | [nagauta](https://www.raycast.com/nagauta) | 3 | 697 | **Productivity:** [Sequel Ace](https://github.com/raycast/extensions/tree/main/extensions/sequel-ace)<br>**Applications:** [Nippon Colors](https://github.com/raycast/extensions/tree/main/extensions/nippon-colors)<br>**Communication:** [Chatwork Search](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) |
 | [nahuel_andreoli](https://www.raycast.com/nahuel_andreoli) | 1 | 374 | **Productivity:** [Find Website](https://github.com/raycast/extensions/tree/main/extensions/find-website) |
 | [nakaakist](https://www.raycast.com/nakaakist) | 1 | 201 | **Developer Tools:** [Storybook Search](https://github.com/raycast/extensions/tree/main/extensions/storybook-search) |

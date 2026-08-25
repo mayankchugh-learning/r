@@ -1,6 +1,6 @@
 # Display & Appearance
 
-17 extensions · [← System](./README.md)
+18 extensions · [← System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,4 @@
 | [Blackr](https://github.com/raycast/extensions/tree/main/extensions/blackr) | 82 | Turn your main display black for quick screen cleaning. | li_jin | macOS, Windows | [store](https://www.raycast.com/li_jin/blackr) |
 | [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper) | 17 | Browse and set Arcane wallpapers. | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/arcane-wallpaper) |
 | [Sidecar Display](https://github.com/raycast/extensions/tree/main/extensions/sidecar-display) | 10 | Connect your iPad over Sidecar and force it to extend instead of mirror, without touching your main display. | chiptoma | macOS | [store](https://www.raycast.com/chiptoma/sidecar-display) |
+| [Dimmer](https://github.com/raycast/extensions/tree/main/extensions/dimmer) | — | Dim every Mac display beyond its minimum brightness. | nachotafalla | macOS | — |
