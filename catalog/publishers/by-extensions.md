@@ -1,6 +1,6 @@
 # Publishers
 
-2147 publishers · [← catalog index](../README.md)
+2148 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -15,7 +15,7 @@
 | 5 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 26,154 |
 | 6 | [alexi.build](./id/alexi-build.md) | 17 | 1,894 |
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 152,340 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,124,429 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,124,447 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 302,891 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,467 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,489 |
@@ -167,7 +167,7 @@
 | 157 | [wdeu](https://www.raycast.com/wdeu) | 3 | 27 |
 | 158 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 241,209 |
 | 159 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 240,918 |
-| 160 | [mooxl](https://www.raycast.com/mooxl) | 2 | 186,163 |
+| 160 | [mooxl](https://www.raycast.com/mooxl) | 2 | 186,280 |
 | 161 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 169,325 |
 | 162 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 153,292 |
 | 163 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 103,047 |
@@ -390,8 +390,8 @@
 | 380 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 381 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 382 | github-next | 2 | — |
-| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 678,352 |
-| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 505,368 |
+| 383 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 678,363 |
+| 384 | [Codely](https://www.raycast.com/Codely) | 1 | 505,380 |
 | 385 | [linear](https://www.raycast.com/linear) | 1 | 351,174 |
 | 386 | [mommertf](https://www.raycast.com/mommertf) | 1 | 292,245 |
 | 387 | [nhojb](https://www.raycast.com/nhojb) | 1 | 259,430 |
@@ -2151,7 +2151,8 @@
 | 2141 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2142 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2143 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2144 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2145 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2146 | buffer | 1 | — |
-| 2147 | multi | 1 | — |
+| 2144 | [jorgenosberg](https://www.raycast.com/jorgenosberg) | 1 | 0 |
+| 2145 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2146 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2147 | buffer | 1 | — |
+| 2148 | multi | 1 | — |

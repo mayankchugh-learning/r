@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-129 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+130 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -90,6 +90,7 @@
 | [jordelver](https://www.raycast.com/jordelver) | 1 | 443 | **Developer Tools:** [Search Hex](https://github.com/raycast/extensions/tree/main/extensions/search-hexpm) |
 | [Joren-Thijs](https://www.raycast.com/Joren-Thijs) | 1 | 1,109 | **Productivity:** [Clipboard Sequential Paste](https://github.com/raycast/extensions/tree/main/extensions/clipboard-sequential-paste) |
 | [jorgecortesdev](https://www.raycast.com/jorgecortesdev) | 1 | 182 | **Fun:** [Chuck Norris Facts](https://github.com/raycast/extensions/tree/main/extensions/chuck-norris-facts) |
+| [jorgenosberg](https://www.raycast.com/jorgenosberg) | 1 | 0 | **Developer Tools:** [agentcfg](https://github.com/raycast/extensions/tree/main/extensions/agentcfg) |
 | [jorges](https://www.raycast.com/jorges) | 1 | 355 | **Web:** [Trovu - Web Search Command Line](https://github.com/raycast/extensions/tree/main/extensions/trovu) |
 | [jorgetoh](https://www.raycast.com/jorgetoh) | 2 | 85 | **Developer Tools:** [Micro Snitch Logs](https://github.com/raycast/extensions/tree/main/extensions/micro-snitch-logs)<br>**Finance:** [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) |
 | [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 281 | **Developer Tools:** [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) |

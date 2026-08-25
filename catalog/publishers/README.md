@@ -1,6 +1,6 @@
 # Publishers
 
-2147 publishers · [← catalog index](../README.md)
+2148 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,124,429 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,124,447 |
 | 2 | [raycast](./id/raycast.md) | 11 | 799,304 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 678,352 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 505,368 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 678,363 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 505,380 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 444,933 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 439,906 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 411,847 |
@@ -25,7 +25,7 @@
 | 15 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 240,918 |
 | 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 215,223 |
 | 17 | [destiner](https://www.raycast.com/destiner) | 9 | 210,794 |
-| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 186,163 |
+| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 186,280 |
 | 19 | [mblode](https://www.raycast.com/mblode) | 5 | 185,165 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 169,325 |
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 167,291 |
@@ -2150,8 +2150,9 @@
 | 2140 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2141 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2142 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2143 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2144 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2145 | github-next | 2 | — |
-| 2146 | buffer | 1 | — |
-| 2147 | multi | 1 | — |
+| 2143 | [jorgenosberg](https://www.raycast.com/jorgenosberg) | 1 | 0 |
+| 2144 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2145 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2146 | github-next | 2 | — |
+| 2147 | buffer | 1 | — |
+| 2148 | multi | 1 | — |
