@@ -1,24 +1,24 @@
 # Window & Workspace Management
 
-52 extensions · [← Productivity](./README.md)
+53 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (22) · [Spaces ✦](#spaces) (10) · [Desktop ✦](#desktop) (8) · [General](#general) (12)
+[Window ✦](#window) (23) · [Spaces ✦](#spaces) (10) · [Desktop ✦](#desktop) (8) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
-## Windows ✦
+## Window ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 101,271 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
-| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 22,486 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
-| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 15,078 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
-| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,385 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
-| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,752 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
-| [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | 4,716 | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |
-| [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,807 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 101,291 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 22,488 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
+| [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 15,081 | Aerospace Tiling Window Manager Extension for Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,391 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,758 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | 4,719 | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |
+| [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,808 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) | 1,798 | Resize the focused window to pixel-perfect presets. | the3ash | macOS | [store](https://www.raycast.com/the3ash/window-sizer) |
-| [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,441 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
+| [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,443 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
 | [Floaty](https://github.com/raycast/extensions/tree/main/extensions/floaty) | 1,066 | Control Floaty from Raycast to list, pin, and manage windows. | fayecat | macOS | [store](https://www.raycast.com/fayecat/floaty) |
 | [Pin](https://github.com/raycast/extensions/tree/main/extensions/pin-raycast) | 911 | Extension for Pin.app. Pin any window to stay always on top using a mirror overlay. | tanb | macOS | [store](https://www.raycast.com/tanb/pin) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 780 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
@@ -31,6 +31,7 @@
 | [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 24 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
 | [Tabbit](https://github.com/raycast/extensions/tree/main/extensions/tabbit) | 20 | Open Tabbit Browser windows and URLs from Raycast | AkaChou | macOS | [store](https://www.raycast.com/AkaChou/tabbit) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 2 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
+| [LayoutLock](https://github.com/raycast/extensions/tree/main/extensions/layoutlock) | 0 | Save and restore LayoutLock window layouts from Raycast. | brkgng | macOS | [store](https://www.raycast.com/brkgng/layoutlock) |
 | [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | 0 | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | [store](https://www.raycast.com/tickmao/new-finder-window) |
 
 ## Spaces ✦
@@ -55,7 +56,7 @@
 | [Capture Fullpage of Website](https://github.com/raycast/extensions/tree/main/extensions/capture-fullpage-of-website) | 4,412 | This extension allows you to quickly make a screenshot of the entire page of the site and save it to your desktop just by writing the address of the site. | Coun1er | macOS | [store](https://www.raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Parallels Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines) | 3,542 | Launch and control virtual machines in Parallels Desktop. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/parallels-virtual-machines) |
 | [Hide Files](https://github.com/raycast/extensions/tree/main/extensions/hide-files) | 2,468 | Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/hide-files) |
-| [Google Advanced Search](https://github.com/raycast/extensions/tree/main/extensions/google-advanced-search) | 1,791 | Enhance your desktop with this Raycast extension that simplifies Google's advanced search, bringing features like exact matches and domain filtration directly… | developerlover | macOS | [store](https://www.raycast.com/developerlover/google-advanced-search) |
+| [Google Advanced Search](https://github.com/raycast/extensions/tree/main/extensions/google-advanced-search) | 1,792 | Enhance your desktop with this Raycast extension that simplifies Google's advanced search, bringing features like exact matches and domain filtration directly… | developerlover | macOS | [store](https://www.raycast.com/developerlover/google-advanced-search) |
 | [Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/desktop-manager) | 202 | Search and organize your desktop files | tykid | macOS | [store](https://www.raycast.com/tykid/desktop-manager) |
 | [Remote Desktop](https://github.com/raycast/extensions/tree/main/extensions/remote-desktop) | 181 | Manage Remote Desktop connections | tonka3000 | Windows | [store](https://www.raycast.com/tonka3000/remote-desktop) |
 | [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack) | 176 | Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop. | huskii | macOS | [store](https://www.raycast.com/huskii/bookstack) |
@@ -65,8 +66,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 54,231 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
-| [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 4,641 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
+| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 54,238 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
+| [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 4,642 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
 | [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 2,032 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
 | [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch) | 925 | Frictionless Workspace Browsing | aesign | macOS | [store](https://www.raycast.com/aesign/sketch) |
 | [Punto Switcher](https://github.com/raycast/extensions/tree/main/extensions/punto) | 666 | Changes the layout of selected text. Requires Accessibility access | red.avtovo | macOS | [store](https://www.raycast.com/red.avtovo/punto) |

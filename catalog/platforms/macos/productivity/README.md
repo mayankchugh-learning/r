@@ -1,6 +1,6 @@
 # macOS · Productivity
 
-1451 extensions · [← macOS](../README.md)
+1452 extensions · [← macOS](../README.md)
 
 ## Organize & Plan
 
@@ -26,7 +26,7 @@
 | --- | --- |
 | [Automation & Workflows](./automation-workflows.md) | 28 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 68 |
-| [Window & Workspace Management](./window-workspace-management.md) | 45 |
+| [Window & Workspace Management](./window-workspace-management.md) | 46 |
 | [Search & Bookmarks](./search-bookmarks.md) | 224 |
 
 ## Learn & Collaborate

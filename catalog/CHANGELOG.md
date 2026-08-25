@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `99245ff18d`
+
+**Added (1):** [LayoutLock](https://github.com/raycast/extensions/tree/main/extensions/layoutlock)
+
 ## 2026-08-25 — upstream `3c550eca3e`
 
 **Updated (1):** [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager)

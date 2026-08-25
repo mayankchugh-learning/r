@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 259,672 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,581 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 22,010 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,392 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 259,719 | Search and install Homebrew formulae | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,586 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 22,015 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 17,397 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
 | [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 7,861 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
-| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,358 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
+| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,359 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
 | [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) | 1,276 | Quickly search packages on https://pkg.go.dev | bstncartwright | macOS | [store](https://www.raycast.com/bstncartwright/go-package-search) |
 | [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,138 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
 | [Search Composer Packagist](https://github.com/raycast/extensions/tree/main/extensions/search-composer-packagist) | 1,043 | Search Composer Packagist For PHP Packages | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/search-composer-packagist) |
@@ -33,7 +33,7 @@
 | [Pkg Swap](https://github.com/raycast/extensions/tree/main/extensions/pkg-swap) | 100 | Quickly convert and paste copied npm commands to your preferred package manager | neversitdull | macOS | [store](https://www.raycast.com/neversitdull/pkg-swap) |
 | [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) | 98 | Local NuGet package explorer | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/nuget-package-explorer) |
 | [Repology Search](https://github.com/raycast/extensions/tree/main/extensions/repology-search) | 95 | Search packages from repology.org | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/repology-search) |
-| [Typst Math Symbols](https://github.com/raycast/extensions/tree/main/extensions/typst-symbols) | 92 | Search through a library of typst math symbols and emojis | JeffersonDing | macOS | [store](https://www.raycast.com/JeffersonDing/typst-symbols) |
+| [Typst Math Symbols](https://github.com/raycast/extensions/tree/main/extensions/typst-symbols) | 93 | Search through a library of typst math symbols and emojis | JeffersonDing | macOS | [store](https://www.raycast.com/JeffersonDing/typst-symbols) |
 | [Gleam Packages](https://github.com/raycast/extensions/tree/main/extensions/gleam-packages) | 90 | search for Gleam packages | ryanmiville | macOS | [store](https://www.raycast.com/ryanmiville/gleam-packages) |
 | [CRAN/E Search](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) | 62 | Search for R-code packages & authors hosted on CRAN via the CRAN/E search engine. | flaming-codes | macOS | [store](https://www.raycast.com/flaming-codes/cran-e-search) |
 | [npm Claimer](https://github.com/raycast/extensions/tree/main/extensions/npm-claimer) | 59 | Instantly claim npm package names in one click | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/npm-claimer) |

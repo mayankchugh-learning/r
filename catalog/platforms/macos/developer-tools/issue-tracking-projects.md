@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 351,565 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
+| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 351,623 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
 | [Jira Search](https://github.com/raycast/extensions/tree/main/extensions/jira-search) | 8,018 | Search for Jira issues (more tolerant and powerful than built-in), projects, boards and filters. | sven | macOS | [store](https://www.raycast.com/sven/jira-search) |
 | [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,420 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
 | [Jira Search (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-search-self-hosted) | 4,616 | Search for Jira issues (more tolerant and powerful than built-in), projects, and boards on Jira Server instances. | emanguy | macOS | [store](https://www.raycast.com/emanguy/jira-search-self-hosted) |

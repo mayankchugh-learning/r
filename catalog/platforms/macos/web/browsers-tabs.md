@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 54,518 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 54,525 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
 | [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) | 5,802 | Identify and download fonts from any website. Disclaimer: FontSniper detects loaded browser fonts for testing/research only. Read more in README | riomadeit | macOS, Windows | [store](https://www.raycast.com/riomadeit/font-sniper) |
 | [Refresh Browsers](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) | 335 | Refresh all browser tabs | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/refresh-browsers) |
 | [Fathom Analytics](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics) | 230 | Gain quick insights into your Fathom Analytics sites, check stats and open a browser directly to the dashboard or site. | danielferguson | macOS | [store](https://www.raycast.com/danielferguson/fathom-analytics) |

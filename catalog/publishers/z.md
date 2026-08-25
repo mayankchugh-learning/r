@@ -9,10 +9,10 @@
 | [zach](https://www.raycast.com/zach) | 2 | 8,478 | **Productivity:** [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)<br>**Media:** [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) |
 | [zachsea](https://www.raycast.com/zachsea) | 1 | 22 | **Other:** [Nightscout](https://github.com/raycast/extensions/tree/main/extensions/nightscout) |
 | [zaidmukaddam](https://www.raycast.com/zaidmukaddam) | 1 | 902 | **Web:** [Scira](https://github.com/raycast/extensions/tree/main/extensions/scira) |
-| [zaincheung](https://www.raycast.com/zaincheung) | 1 | 149 | **System:** [App Tag Manager](https://github.com/raycast/extensions/tree/main/extensions/app-tag-manager) |
+| [zaincheung](https://www.raycast.com/zaincheung) | 1 | 150 | **System:** [App Tag Manager](https://github.com/raycast/extensions/tree/main/extensions/app-tag-manager) |
 | [Zalgo_123](https://www.raycast.com/Zalgo_123) | 1 | 143 | **Fun:** [Tennis Standings](https://github.com/raycast/extensions/tree/main/extensions/tennis-standings) |
-| [zan](https://www.raycast.com/zan) | 1 | 783 | **Media:** [Matter](https://github.com/raycast/extensions/tree/main/extensions/matter) |
-| [zavbala](https://www.raycast.com/zavbala) | 3 | 9,686 | **Web:** [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois), [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler)<br>**Productivity:** [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) |
+| [zan](https://www.raycast.com/zan) | 1 | 784 | **Media:** [Matter](https://github.com/raycast/extensions/tree/main/extensions/matter) |
+| [zavbala](https://www.raycast.com/zavbala) | 3 | 9,691 | **Web:** [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois), [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler)<br>**Productivity:** [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) |
 | [zayn_harris_dev](https://www.raycast.com/zayn_harris_dev) | 1 | 69 | **Applications:** [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) |
 | [zcfan](https://www.raycast.com/zcfan) | 1 | 1,255 | **Developer Tools:** [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) |
 | [zcsabbagh](https://www.raycast.com/zcsabbagh) | 1 | 903 | **System:** [Toggle Grayscale](https://github.com/raycast/extensions/tree/main/extensions/toggle-grayscale) |
