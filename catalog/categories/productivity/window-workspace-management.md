@@ -31,7 +31,7 @@
 | [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 24 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
 | [Tabbit](https://github.com/raycast/extensions/tree/main/extensions/tabbit) | 20 | Open Tabbit Browser windows and URLs from Raycast | AkaChou | macOS | [store](https://www.raycast.com/AkaChou/tabbit) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 2 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
-| [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | — | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | — |
+| [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | 0 | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | [store](https://www.raycast.com/tickmao/new-finder-window) |
 
 ## Spaces ✦
 

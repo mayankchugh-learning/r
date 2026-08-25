@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-25 — upstream `3c550eca3e`
+
+**Updated (1):** [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager)
+
 ## 2026-08-25 — upstream `e97fbc320c`
 
 **Added (1):** [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window)

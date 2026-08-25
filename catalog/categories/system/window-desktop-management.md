@@ -24,7 +24,7 @@
 | [Windows Environment Variables](https://github.com/raycast/extensions/tree/main/extensions/windows-environment-variables) | 152 | View, search, edit and manage Windows environment variables and PATH entries. A keyboard-first alternative to the Windows Environment Variables dialog. | ohmycodedev | Windows | [store](https://www.raycast.com/ohmycodedev/windows-environment-variables) |
 | [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) | 11 | Toggle Windows HDR on individual monitors instead of all displays at once. | abdullah_shabib | Windows | [store](https://www.raycast.com/abdullah_shabib/hdr-toggle) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 2 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
-| [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | — | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | — |
+| [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | 0 | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | [store](https://www.raycast.com/tickmao/new-finder-window) |
 
 ## Bar ✦
 
