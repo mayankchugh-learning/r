@@ -1,12 +1,12 @@
 # thomas
 
-15 extensions · 1,127,816 downloads · [store](https://www.raycast.com/thomas) · [← publishers](../README.md)
+15 extensions · 1,127,974 downloads · [store](https://www.raycast.com/thomas) · [← publishers](../README.md)
 
 ## Design Tools (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 521,296 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 521,454 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 
 ## Developer Tools (4)
 
