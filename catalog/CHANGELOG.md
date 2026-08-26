@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-26 — upstream `892fb916e3`
+
+**Updated (1):** [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league)
+
 ## 2026-08-26 — upstream `48c8035e7f`
 
 **Updated (1):** [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool)
