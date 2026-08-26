@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Berlin Public Transportation](https://github.com/raycast/extensions/tree/main/extensions/berlin-public-transportation) | 119 | Departures for Berlin public transport stations using BVG (Berliner Verkehrsbetriebe) real-time traffic data | arjanski | macOS | [store](https://www.raycast.com/arjanski/berlin-public-transportation) |
+| [Berlin Public Transportation](https://github.com/raycast/extensions/tree/main/extensions/berlin-public-transportation) | 120 | Departures for Berlin public transport stations using BVG (Berliner Verkehrsbetriebe) real-time traffic data | arjanski | macOS | [store](https://www.raycast.com/arjanski/berlin-public-transportation) |
 | [Norwegian Public Transport](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) | 116 | Real-time departures for Norwegian public transport. Data made available by Entur. | rosvik | macOS | [store](https://www.raycast.com/rosvik/raycast-norwegian-public-transport) |
 | [Stockholm Public Transport](https://github.com/raycast/extensions/tree/main/extensions/stockholm-public-transport) | 92 | Departures for public transport in Stockholm | ericostholmm | macOS | [store](https://www.raycast.com/ericostholmm/stockholm-public-transport) |
 | [NYC Train Tracker - Realtime Train Departures](https://github.com/raycast/extensions/tree/main/extensions/nyc-train-tracker) | 61 | Look up train departures and service alerts for MTA, LIRR and MNR. | kcole93 | macOS | [store](https://www.raycast.com/kcole93/nyc-train-tracker) |
@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 40,422 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 40,437 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 203 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Check Citi Bike Availability](https://github.com/raycast/extensions/tree/main/extensions/check-citi-bike-availability) | 32 | Check the availability of bikes/e-bikes at CitiBike NYC stations. | kcole93 | macOS | [store](https://www.raycast.com/kcole93/check-citi-bike-availability) |
 | [Active Mississaugua](https://github.com/raycast/extensions/tree/main/extensions/active-mississaugua) | 20 | Explore activities for the city of Mississaugua in Ontario, Canada. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/active-mississaugua) |

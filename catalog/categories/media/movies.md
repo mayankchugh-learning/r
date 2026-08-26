@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 4,016 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
+| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 4,018 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
 | [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,077 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |
 | [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) | 1,597 | Search for movies on Letterboxd | rafael_garcia | macOS, Windows | [store](https://www.raycast.com/rafael_garcia/letterboxd) |
 | [Jellyfin](https://github.com/raycast/extensions/tree/main/extensions/jellyfin) | 762 | Find Movies and Shows on your Jellyfin Instance | d2a | macOS, Windows | [store](https://www.raycast.com/d2a/jellyfin) |

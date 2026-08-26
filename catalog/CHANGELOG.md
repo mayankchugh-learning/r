@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-26 — upstream `0d0068e88c`
+
+**Updated (1):** [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace)
+
 ## 2026-08-26 — upstream `0483dbecdd`
 
 **Updated (1):** [(Basic) Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/bmrks)

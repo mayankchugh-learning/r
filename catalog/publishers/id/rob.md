@@ -1,13 +1,13 @@
 # Rob
 
-11 extensions · 10,790 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
+11 extensions · 10,799 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
 
 ## Productivity (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,969 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 111 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,976 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 112 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 
 ## Fun (5)
 
@@ -30,7 +30,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [BambooHR](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) | 233 | Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. | Rob | Windows, macOS | [store](https://www.raycast.com/Rob/bamboohr) |
+| [BambooHR](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) | 234 | Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. | Rob | Windows, macOS | [store](https://www.raycast.com/Rob/bamboohr) |
 
 ## Data (1)
 

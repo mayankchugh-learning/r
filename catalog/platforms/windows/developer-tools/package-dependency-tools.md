@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,618 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 22,034 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
-| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,361 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
-| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 526 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,640 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 22,045 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,363 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
+| [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 530 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 241 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 108 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
 | [Repology Search](https://github.com/raycast/extensions/tree/main/extensions/repology-search) | 95 | Search packages from repology.org | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/repology-search) |
@@ -18,4 +18,4 @@
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 42 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
 | [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 14 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |
 | [DefinitelyTyped](https://github.com/raycast/extensions/tree/main/extensions/definitelytyped) | 13 | Search and install @types packages from DefinitelyTyped | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/definitelytyped) |
-| [e18e Module Replacements](https://github.com/raycast/extensions/tree/main/extensions/e18e-module-replacements) | 8 | Search and browse e18e's curated list of modern npm package replacements. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/e18e-module-replacements) |
+| [e18e Module Replacements](https://github.com/raycast/extensions/tree/main/extensions/e18e-module-replacements) | 10 | Search and browse e18e's curated list of modern npm package replacements. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/e18e-module-replacements) |

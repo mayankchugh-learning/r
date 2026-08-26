@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 898 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
+| [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 899 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
 | [LEGO Bricks](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) | 235 | Look up LEGO sets, colors, bricks etc. | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/lego-bricks) |
 | [Discord Spoiler Spammer](https://github.com/raycast/extensions/tree/main/extensions/spoiler-converter) | 206 | Discord Spoiler Spammer converts every character of the selected text into it's own spoiler. Laugh at your friends on Discord as they continue clicking to reve… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/spoiler-converter) |
 | [Disney](https://github.com/raycast/extensions/tree/main/extensions/disney) | 130 | Explore information about your beloved Disney characters by searching for them. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/disney) |

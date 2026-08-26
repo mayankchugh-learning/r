@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,168 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
-| [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,396 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
-| [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,359 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
-| [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,152 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
+| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,173 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
+| [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,398 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
+| [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,360 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
+| [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,153 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
 | [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 538 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
 | [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi) | 473 | View and manage your ploi.io servers and sites | ploi (org) | macOS | [store](https://www.raycast.com/ploi/ploi) |
 | [Sendme File Share](https://github.com/raycast/extensions/tree/main/extensions/sendme) | 323 | Send and receive files peer-to-peer directly from Raycast with no intermediary servers or accounts required | nazif_ishrak | macOS | [store](https://www.raycast.com/nazif_ishrak/sendme) |
