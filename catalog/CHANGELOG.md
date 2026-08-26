@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-26 — upstream `b09203f08b`
+
+**Updated (1):** [Nerd Font Picker](https://github.com/raycast/extensions/tree/main/extensions/nerd-font-picker)
+
 ## 2026-08-26 — upstream `0f87879927`
 
 **Updated (1):** [Standing Desk Tracker](https://github.com/raycast/extensions/tree/main/extensions/standing-desk-tracker)
