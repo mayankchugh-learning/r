@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 24,558 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,798 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
-| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,429 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
-| [Video Converter](https://github.com/raycast/extensions/tree/main/extensions/video-converter) | 1,869 | Converts video and audio to different formats | grosst | macOS | [store](https://www.raycast.com/grosst/video-converter) |
+| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 24,570 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,801 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,431 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
+| [Video Converter](https://github.com/raycast/extensions/tree/main/extensions/video-converter) | 1,873 | Converts video and audio to different formats | grosst | macOS | [store](https://www.raycast.com/grosst/video-converter) |
 | [AG AudioFlow](https://github.com/raycast/extensions/tree/main/extensions/ag-audioflow) | 247 | Professional audio editing and processing suite with advanced features | adigold1 | macOS | [store](https://www.raycast.com/adigold1/ag-audioflow) |
 | [Playback Duration Calculator](https://github.com/raycast/extensions/tree/main/extensions/playback-duration-calculator) | 127 | Find out how long your video or audio will take to finish based on your playback speed. | nathanwijaya | macOS | [store](https://www.raycast.com/nathanwijaya/playback-duration-calculator) |
 | [Picmal](https://github.com/raycast/extensions/tree/main/extensions/picmal) | 48 | Convert and compress images, audio, and video with Picmal — straight from Raycast. | albertogalca | macOS | [store](https://www.raycast.com/albertogalca/picmal) |

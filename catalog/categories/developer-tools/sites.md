@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) | 1,094 | Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. | peeks | macOS | [store](https://www.raycast.com/peeks/webflow-sites) |
+| [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) | 1,095 | Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. | peeks | macOS | [store](https://www.raycast.com/peeks/webflow-sites) |
 | [Jetpack Commands](https://github.com/raycast/extensions/tree/main/extensions/jetpack-commands) | 221 | Manage your Jetpack-connected WordPress sites. | Automattic_Inc | macOS | [store](https://www.raycast.com/Automattic_Inc/jetpack-commands) |
 | [Novu](https://github.com/raycast/extensions/tree/main/extensions/novu) | 214 | List all the useful sites, trigger notification, and more | djabarovgeorge | macOS | [store](https://www.raycast.com/djabarovgeorge/novu) |
 | [Oh Dear](https://github.com/raycast/extensions/tree/main/extensions/ohdear) | 176 | Manage your Oh Dear sites easy directly from Raycast | oh-dear (org) | macOS | [store](https://www.raycast.com/oh-dear/ohdear) |

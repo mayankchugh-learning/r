@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 86,687 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,504 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
-| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,170 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 86,726 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,510 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,174 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
 | [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,552 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 739 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 111 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
@@ -18,8 +18,8 @@
 | [SingularityApp](https://github.com/raycast/extensions/tree/main/extensions/singularityapp) | 30 | Check your SingularityApp tasks and add new ones quickly | alikhil | macOS, Windows | [store](https://www.raycast.com/alikhil/singularityapp) |
 | [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 26 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |
 | [Habitica ToDos](https://github.com/raycast/extensions/tree/main/extensions/habitica-todos) | 25 | Unofficial extension to view and create ToDo's for Habitica | Sacrachan | Windows, macOS | [store](https://www.raycast.com/Sacrachan/habitica-todos) |
+| [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) | 12 | Manage Habitify habits from Raycast. | razz13 | macOS, Windows | [store](https://www.raycast.com/razz13/habitify-raycast) |
 | [Dida365](https://github.com/raycast/extensions/tree/main/extensions/dida365) | 11 | Control Dida365 tasks from Raycast on Windows. | ctacta621 | macOS, Windows | [store](https://www.raycast.com/ctacta621/dida365) |
-| [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) | 11 | Manage Habitify habits from Raycast. | razz13 | macOS, Windows | [store](https://www.raycast.com/razz13/habitify-raycast) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 8 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |
 | [Teamwork](https://github.com/raycast/extensions/tree/main/extensions/teamwork) | 3 | Search Teamwork tasks and control your Teamwork timer from Raycast | defaced | macOS, Windows | [store](https://www.raycast.com/defaced/teamwork) |
 | [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) | 2 | Quickly capture tasks in any Fibery database | janjezek | macOS, Windows | [store](https://www.raycast.com/janjezek/fibery-quick-capture) |

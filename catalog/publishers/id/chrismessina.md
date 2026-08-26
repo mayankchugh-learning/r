@@ -1,15 +1,15 @@
 # chrismessina
 
-15 extensions · 6,525 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+15 extensions · 6,529 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,210 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
+| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,212 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
 | [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 204 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
 | [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap) | 91 | Wrap and unwrap text using Markdown-aware reflow. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/wrap-unwrap) |
-| [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 53 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
+| [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 54 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 1 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
 
 ## Uncategorized (1)
@@ -23,7 +23,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 811 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
-| [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 171 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
+| [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 172 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 
 ## Web (1)
 

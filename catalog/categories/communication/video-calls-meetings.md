@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 103,146 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
-| [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 9,234 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
-| [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 4,757 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 103,195 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 9,242 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
+| [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 4,760 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
 | [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,313 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
 | [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 2,699 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
 | [Speed Dial](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) | 343 | Stop asking for meeting URLs and add them to Speed Dial to open with one click | osama_aamer | macOS | [store](https://www.raycast.com/osama_aamer/speed-dial) |
@@ -23,8 +23,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 14,558 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
-| [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 5,418 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
+| [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 14,562 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
+| [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 5,419 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
 | [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 896 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
 | [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 35 | Browse and call contacts, control your active call, and search transcripts from your Tuple pair programming sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
 
@@ -32,6 +32,6 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 32,735 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
+| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 32,752 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
 | [Gather](https://github.com/raycast/extensions/tree/main/extensions/gather) | 626 | Control Gather from Raycast | yannglt | macOS | [store](https://www.raycast.com/yannglt/gather) |
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | 7 | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |

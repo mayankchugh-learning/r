@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-26 — upstream `48c8035e7f`
+
+**Updated (1):** [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool)
+
 ## 2026-08-26 — upstream `41baddf044`
 
 **Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)

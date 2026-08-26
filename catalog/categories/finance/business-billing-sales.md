@@ -22,7 +22,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Subwatch](https://github.com/raycast/extensions/tree/main/extensions/subwatch) | 115 | Turn subscription chaos into financial harmony | nirgn | macOS | [store](https://www.raycast.com/nirgn/subwatch) |
 | [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | 76 | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |
-| [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 75 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
+| [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 76 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
 | [Dodo Payments](https://github.com/raycast/extensions/tree/main/extensions/dodo-payments) | 36 | Manage all your Dodo Payments orders, payments, subscriptions, discounts, license keys, disputes, refunds and payouts, right from your keyboard. | dodopayments | macOS | [store](https://www.raycast.com/dodopayments/dodo-payments) |
 
 ## General

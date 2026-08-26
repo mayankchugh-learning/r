@@ -1,12 +1,12 @@
 # 0xdhrv
 
-15 extensions · 1,401 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+15 extensions · 1,404 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 674 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
+| [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 675 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 131 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
 | [Shopify Shop](https://github.com/raycast/extensions/tree/main/extensions/shopify-shop) | 10 | Browse and search products from a Shopify store. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shopify-shop) |
 
@@ -20,8 +20,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 77 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
-| [Defuddle](https://github.com/raycast/extensions/tree/main/extensions/defuddle) | 49 | Extract readable web pages to Markdown with Defuddle | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/defuddle) |
+| [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 78 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
+| [Defuddle](https://github.com/raycast/extensions/tree/main/extensions/defuddle) | 50 | Extract readable web pages to Markdown with Defuddle | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/defuddle) |
 | [Litterbox](https://github.com/raycast/extensions/tree/main/extensions/litterbox) | 44 | Upload files to Litterbox from Raycast with a file picker, set expiry (1h, 12h, 24h, or 72h), and get shareable links. Recent uploads are listed until they exp… | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/litterbox) |
 | [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 13 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
 | [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 10 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |

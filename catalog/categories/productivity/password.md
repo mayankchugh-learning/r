@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Password Generator](https://github.com/raycast/extensions/tree/main/extensions/password-generator) | 37,222 | Generates a password from 5–64 characters with options for case, special characters, and more | joshuaiz | macOS, Windows | [store](https://www.raycast.com/joshuaiz/password-generator) |
-| [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,497 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
+| [Password Generator](https://github.com/raycast/extensions/tree/main/extensions/password-generator) | 37,237 | Generates a password from 5–64 characters with options for case, special characters, and more | joshuaiz | macOS, Windows | [store](https://www.raycast.com/joshuaiz/password-generator) |
+| [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,498 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,127 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
 | [Memorable Password Generator](https://github.com/raycast/extensions/tree/main/extensions/memorable-generate-password) | 1,526 | Generate a set of passwords that are easy to remember and use | gandli | macOS | [store](https://www.raycast.com/gandli/memorable-generate-password) |
 | [Pass](https://github.com/raycast/extensions/tree/main/extensions/pass) | 536 | An extension to handle the standard unix password manager in a convenient way using Raycast | capipo | macOS | [store](https://www.raycast.com/capipo/pass) |

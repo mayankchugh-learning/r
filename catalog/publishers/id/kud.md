@@ -1,12 +1,12 @@
 # kud
 
-13 extensions · 6,252 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+13 extensions · 6,258 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,915 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,918 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 483 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
 
 ## Developer Tools (5)
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,437 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
+| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,438 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
 
 ## Design Tools (1)
 
@@ -41,11 +41,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 23 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
+| [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz) | 24 | Search Qobuz, see what's playing, and manage your favourites and playlists — open anything straight in the Qobuz app. | kud | macOS | [store](https://www.raycast.com/kud/qobuz) |
 
 ## Productivity (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 14 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
+| [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 15 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
 | [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 7 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |

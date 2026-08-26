@@ -11,7 +11,7 @@
 | [Headlines](https://github.com/raycast/extensions/tree/main/extensions/headlines) | 417 | Super breif news extension. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/headlines) |
 | [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 337 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 218 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
-| [early.tools news](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) | 174 | Long-form updates from 80+ of the greatest entrepreneurs on the web. | julianpaul | macOS | [store](https://www.raycast.com/julianpaul/early-tools-news) |
+| [early.tools news](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) | 175 | Long-form updates from 80+ of the greatest entrepreneurs on the web. | julianpaul | macOS | [store](https://www.raycast.com/julianpaul/early-tools-news) |
 | [ifanr](https://github.com/raycast/extensions/tree/main/extensions/ifanr) | 100 | Read the latest news from ifanr | madcodelife | macOS | [store](https://www.raycast.com/madcodelife/ifanr) |
 | [Habr News](https://github.com/raycast/extensions/tree/main/extensions/habr-media) | 70 | Best News From Habr | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/habr-media) |
 | [VC.ru Popular News](https://github.com/raycast/extensions/tree/main/extensions/vc-ru-news) | 65 | List popular news from VC.ru | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/vc-ru-news) |
