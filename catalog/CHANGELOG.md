@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-26 — upstream `41baddf044`
+
+**Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)
+
 ## 2026-08-25 — upstream `399820c629`
 
 **Updated (1):** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector)
