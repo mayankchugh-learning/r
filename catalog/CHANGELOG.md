@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-26 — upstream `0f87879927`
+
+**Updated (1):** [Standing Desk Tracker](https://github.com/raycast/extensions/tree/main/extensions/standing-desk-tracker)
+
 ## 2026-08-26 — upstream `892fb916e3`
 
 **Updated (1):** [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league)
