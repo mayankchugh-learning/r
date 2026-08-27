@@ -15,7 +15,7 @@
 | 5 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 26,305 |
 | 6 | [alexi.build](./id/alexi-build.md) | 17 | 1,918 |
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 152,960 |
-| 8 | [thomas](./id/thomas.md) | 15 | 1,131,127 |
+| 8 | [thomas](./id/thomas.md) | 15 | 1,131,138 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 304,022 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,579 |
 | 11 | [chrismessina](./id/chrismessina.md) | 15 | 6,566 |
@@ -107,7 +107,7 @@
 | 97 | [lardissone](https://www.raycast.com/lardissone) | 3 | 42,750 |
 | 98 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 38,194 |
 | 99 | [isfeng](https://www.raycast.com/isfeng) | 3 | 36,519 |
-| 100 | [hmarr](https://www.raycast.com/hmarr) | 3 | 23,261 |
+| 100 | [hmarr](https://www.raycast.com/hmarr) | 3 | 23,262 |
 | 101 | [ilian](https://www.raycast.com/ilian) | 3 | 16,247 |
 | 102 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 14,496 |
 | 103 | [fernando_barrios](https://www.raycast.com/fernando_barrios) | 3 | 12,769 |
@@ -391,8 +391,8 @@
 | 381 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 382 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 383 | github-next | 2 | — |
-| 384 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 681,903 |
-| 385 | [Codely](https://www.raycast.com/Codely) | 1 | 507,797 |
+| 384 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 681,913 |
+| 385 | [Codely](https://www.raycast.com/Codely) | 1 | 507,803 |
 | 386 | [linear](https://www.raycast.com/linear) | 1 | 353,316 |
 | 387 | [mommertf](https://www.raycast.com/mommertf) | 1 | 294,059 |
 | 388 | [nhojb](https://www.raycast.com/nhojb) | 1 | 260,651 |

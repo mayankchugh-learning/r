@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,131,127 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,131,138 |
 | 2 | [raycast](./id/raycast.md) | 11 | 803,306 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 681,903 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 507,797 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 681,913 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 507,803 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 446,840 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 441,989 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 413,568 |
@@ -101,7 +101,7 @@
 | 91 | [rasmusbe](https://www.raycast.com/rasmusbe) | 2 | 24,864 |
 | 92 | [devutils](https://www.raycast.com/devutils) | 1 | 23,951 |
 | 93 | [natterstefan](https://www.raycast.com/natterstefan) | 5 | 23,449 |
-| 94 | [hmarr](https://www.raycast.com/hmarr) | 3 | 23,261 |
+| 94 | [hmarr](https://www.raycast.com/hmarr) | 3 | 23,262 |
 | 95 | [eluce2](https://www.raycast.com/eluce2) | 6 | 23,260 |
 | 96 | [RSO](https://www.raycast.com/RSO) | 1 | 22,785 |
 | 97 | [yedongze](https://www.raycast.com/yedongze) | 1 | 22,568 |
