@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `3256a093a2`
+
+**Updated (1):** [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates)
+
 ## 2026-08-27 — upstream `8c9d4534b5`
 
 **Updated (1):** [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian)
