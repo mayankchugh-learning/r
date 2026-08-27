@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `e70deb13d6`
+
+**Updated (1):** [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar)
+
 ## 2026-08-27 — upstream `da35ac62c4`
 
 **Updated (1):** [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi)
