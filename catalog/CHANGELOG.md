@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `2fbcaa1fe2`
+
+**Updated (1):** [Clipsign](https://github.com/raycast/extensions/tree/main/extensions/clipsign)
+
 ## 2026-08-26 — upstream `0d0068e88c`
 
 **Updated (1):** [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace)

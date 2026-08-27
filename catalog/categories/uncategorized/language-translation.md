@@ -4,4 +4,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Yomicast – Offline Japanese-English Dictionary](https://github.com/raycast/extensions/tree/main/extensions/yomicast) | 131 | Offline Japanese-English dictionary. Instant search for kanji, kana, and English terms. | matchai | macOS | [store](https://www.raycast.com/matchai/yomicast) |
+| [Yomicast – Offline Japanese-English Dictionary](https://github.com/raycast/extensions/tree/main/extensions/yomicast) | 132 | Offline Japanese-English dictionary. Instant search for kanji, kana, and English terms. | matchai | macOS | [store](https://www.raycast.com/matchai/yomicast) |
