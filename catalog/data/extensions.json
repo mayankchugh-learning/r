@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6d156582f7ea3a22ca9dee17461e4b8103d34e03",
-  "generatedAt": "2026-08-27T17:21:45.298Z",
-  "downloadsRefreshedAt": "2026-08-27T17:21:44.130Z",
+  "commit": "8c08f699398a83e136bca96835e2aa9a2761bdd7",
+  "generatedAt": "2026-08-27T17:23:38.002Z",
+  "downloadsRefreshedAt": "2026-08-27T17:23:37.120Z",
   "count": 3231,
   "extensions": [
     {
@@ -28443,7 +28443,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 681884
+      "downloads": 681886
     },
     {
       "dir": "kimai",
@@ -31857,7 +31857,7 @@
       ],
       "store": "https://www.raycast.com/Undolog/macos-tweaks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks",
-      "treeSha": "1b8724406897a3f117374dc927a9c8efb32b1743",
+      "treeSha": "750f2a2a9b3ca23403167e6d3807fc1c909d866c",
       "downloads": 1068
     },
     {

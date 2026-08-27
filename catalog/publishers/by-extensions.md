@@ -391,7 +391,7 @@
 | 381 | [tai](https://www.raycast.com/tai) | 2 | 5 |
 | 382 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 5 |
 | 383 | github-next | 2 | — |
-| 384 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 681,884 |
+| 384 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 681,886 |
 | 385 | [Codely](https://www.raycast.com/Codely) | 1 | 507,786 |
 | 386 | [linear](https://www.raycast.com/linear) | 1 | 353,316 |
 | 387 | [mommertf](https://www.raycast.com/mommertf) | 1 | 294,059 |
