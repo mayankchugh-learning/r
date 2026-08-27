@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `43cac41533`
+
+**Updated (1):** [Quick AirDrop](https://github.com/raycast/extensions/tree/main/extensions/quick-airdrop)
+
 ## 2026-08-27 — upstream `cc6586dfda`
 
 **Updated (1):** [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders)

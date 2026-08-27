@@ -21,7 +21,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,687 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,693 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) | 1,991 | Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alp… | jones-sam | macOS | [store](https://www.raycast.com/jones-sam/stock-lookup) |
 | [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) | 713 | Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats | lucasmezencio | macOS | [store](https://www.raycast.com/lucasmezencio/http-dot-cat) |
 | [PubMe Search](https://github.com/raycast/extensions/tree/main/extensions/pubme) | 464 | Search PubMed (https://pubmed.ncbi.nlm.nih.gov/) | spacedog | macOS | [store](https://www.raycast.com/spacedog/pubme) |
@@ -32,9 +32,9 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,209 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
-| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,257 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
+| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,259 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
 | [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 879 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
 | [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 493 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
-| [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 362 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
+| [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 363 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
 | [Query.Domains](https://github.com/raycast/extensions/tree/main/extensions/query-domains) | 83 | Check domain WHOIS, availability, traffic, and tech stack in one place | nextwalkerovo | macOS, Windows | [store](https://www.raycast.com/nextwalkerovo/query-domains) |
 | [Host.io](https://github.com/raycast/extensions/tree/main/extensions/host-io) | 45 | A Powerful and Fast Domain Name Data API | xmok | macOS | [store](https://www.raycast.com/xmok/host-io) |

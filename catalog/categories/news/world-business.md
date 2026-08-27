@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 706 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
-| [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 685 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
+| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 708 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
+| [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 687 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
 | [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 562 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 547 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
-| [Headlines](https://github.com/raycast/extensions/tree/main/extensions/headlines) | 417 | Super breif news extension. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/headlines) |
-| [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 337 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
+| [Headlines](https://github.com/raycast/extensions/tree/main/extensions/headlines) | 419 | Super breif news extension. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/headlines) |
+| [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 338 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 219 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [early.tools news](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) | 175 | Long-form updates from 80+ of the greatest entrepreneurs on the web. | julianpaul | macOS | [store](https://www.raycast.com/julianpaul/early-tools-news) |
 | [ifanr](https://github.com/raycast/extensions/tree/main/extensions/ifanr) | 100 | Read the latest news from ifanr | madcodelife | macOS | [store](https://www.raycast.com/madcodelife/ifanr) |

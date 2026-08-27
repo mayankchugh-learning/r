@@ -10,14 +10,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 293,803 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 48,858 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,059 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
-| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,717 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 293,887 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 48,869 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
+| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,061 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
+| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,718 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram) | 2,433 | Browse chats, view messages, and send messages to your Telegram contacts and groups | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/telegram) |
 | [Discord Timestamps](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) | 1,601 | Generate a Discord timestamp | theshadowdev | macOS, Windows | [store](https://www.raycast.com/theshadowdev/discord-timestamps) |
-| [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool) | 967 | Raycast extension that provides instant spelling and grammar correction using LanguageTool. Type any text, get real-time suggestions, and copy the improved ver… | lucastaonline | macOS, Windows | [store](https://www.raycast.com/lucastaonline/raycast-language-tool) |
-| [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 815 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
+| [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool) | 969 | Raycast extension that provides instant spelling and grammar correction using LanguageTool. Type any text, get real-time suggestions, and copy the improved ver… | lucastaonline | macOS, Windows | [store](https://www.raycast.com/lucastaonline/raycast-language-tool) |
+| [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 817 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
 | [Gotify](https://github.com/raycast/extensions/tree/main/extensions/gotify) | 99 | Load all Gotify messages | Lemon | macOS, Windows | [store](https://www.raycast.com/Lemon/gotify) |
 | [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) | 7 | Set a funny status on Slack, GitLab and GitHub at once — pick services, roll a random one, or generate with AI. | jan_werner | macOS, Windows | [store](https://www.raycast.com/jan_werner/status-nerd) |
 
@@ -25,16 +25,16 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 103,405 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 103,440 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | 7 | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |
 
 ### Email
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 36,412 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
-| [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,727 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
-| [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,665 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
+| [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 36,419 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
+| [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,729 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
+| [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,666 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | 757 | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 286 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 167 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
@@ -43,8 +43,8 @@
 | [Inbound](https://github.com/raycast/extensions/tree/main/extensions/inbound) | 20 | Email API for Developers - Send, Receive & Reply | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/inbound) |
 | [SendPortal](https://github.com/raycast/extensions/tree/main/extensions/sendportal) | 13 | Open Source Email Marketing Software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendportal) |
 | [QQ Mail](https://github.com/raycast/extensions/tree/main/extensions/qq-mail) | 8 | View and manage your QQ Mail inbox | ariesly15 | macOS, Windows | [store](https://www.raycast.com/ariesly15/qq-mail) |
+| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 8 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 7 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
-| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 6 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 
 ## Social & Sharing
 
@@ -52,7 +52,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,124 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,126 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 648 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | 0 | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
 
@@ -60,7 +60,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) | 8,429 | Quickly shorten the selected URL or current clipboard URL with Bitly | blessanm86 | macOS, Windows | [store](https://www.raycast.com/blessanm86/bitly-url-shortener) |
+| [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) | 8,433 | Quickly shorten the selected URL or current clipboard URL with Bitly | blessanm86 | macOS, Windows | [store](https://www.raycast.com/blessanm86/bitly-url-shortener) |
 | [Kutt](https://github.com/raycast/extensions/tree/main/extensions/kutt) | 74 | Free & Open Source Modern URL Shortener | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/kutt) |
 
 ## People & Support
@@ -89,11 +89,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,984 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,819 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,811 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 6,988 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,821 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,812 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,675 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
-| [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,459 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
+| [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,460 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
 | [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,161 | Manage API Keys and Domains, and Send Emails using Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 809 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 | [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 596 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |

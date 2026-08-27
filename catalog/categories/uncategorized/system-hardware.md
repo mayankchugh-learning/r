@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) | 2,927 | Changes between the two scroll directions „natural“ and „mouse-friendly“. Useful when switching between trackpad and mouse. | gregoralbrecht | macOS | [store](https://www.raycast.com/gregoralbrecht/change-scroll-direction) |
+| [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) | 2,928 | Changes between the two scroll directions „natural“ and „mouse-friendly“. Useful when switching between trackpad and mouse. | gregoralbrecht | macOS | [store](https://www.raycast.com/gregoralbrecht/change-scroll-direction) |
 | [HazeOver Controls](https://github.com/raycast/extensions/tree/main/extensions/hazeover) | 2,799 | Control the HazeOver app. | ratoru | macOS | [store](https://www.raycast.com/ratoru/hazeover) |
 | [Flighty](https://github.com/raycast/extensions/tree/main/extensions/flighty) | 1,896 | Interact with the Flighty app. | hrishabhn | macOS | [store](https://www.raycast.com/hrishabhn/flighty) |
 | [Sidecar](https://github.com/raycast/extensions/tree/main/extensions/sidecar) | 1,196 | Quickly connect/disconnect iPad as a second display. | philip_chen | macOS | [store](https://www.raycast.com/philip_chen/sidecar) |

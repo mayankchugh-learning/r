@@ -1,6 +1,6 @@
 # xmok
 
-114 extensions · 11,729 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+114 extensions · 11,736 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (22)
 
@@ -118,7 +118,7 @@
 | [Unkey](https://github.com/raycast/extensions/tree/main/extensions/unkey) | 90 | Create, Verify, Update and Revoke Keys through Unkey | xmok | macOS | [store](https://www.raycast.com/xmok/unkey) |
 | [PocketBase](https://github.com/raycast/extensions/tree/main/extensions/pocketbase) | 59 | Manage PocketBase | xmok | macOS | [store](https://www.raycast.com/xmok/pocketbase) |
 | [CyberPanel](https://github.com/raycast/extensions/tree/main/extensions/cyberpanel) | 57 | Interact with CyberPanel | xmok | macOS | [store](https://www.raycast.com/xmok/cyberpanel) |
-| [Mailwip](https://github.com/raycast/extensions/tree/main/extensions/mailwip) | 38 | Delete Domains, Manage Aliases, and View MailLog | xmok | macOS | [store](https://www.raycast.com/xmok/mailwip) |
+| [Mailwip](https://github.com/raycast/extensions/tree/main/extensions/mailwip) | 40 | Delete Domains, Manage Aliases, and View MailLog | xmok | macOS | [store](https://www.raycast.com/xmok/mailwip) |
 | [Vultr](https://github.com/raycast/extensions/tree/main/extensions/vultr) | 36 | Manage Users, View Account Information and Billing History | xmok | macOS | [store](https://www.raycast.com/xmok/vultr) |
 | [OVHcloud](https://github.com/raycast/extensions/tree/main/extensions/ovh) | 29 | Manage Domains in OVHCloud | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ovhcloud) |
 | [DirectAdmin Reseller](https://github.com/raycast/extensions/tree/main/extensions/directadmin-reseller) | 26 | Interact with DirectAdmin as a Reseller | xmok | macOS | [store](https://www.raycast.com/xmok/directadmin-reseller) |
@@ -149,7 +149,7 @@
 | [MXroute](https://github.com/raycast/extensions/tree/main/extensions/mxroute) | 23 | Email hosting for your domains | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/mxroute) |
 | [Inbound](https://github.com/raycast/extensions/tree/main/extensions/inbound) | 20 | Email API for Developers - Send, Receive & Reply | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/inbound) |
 | [SendPortal](https://github.com/raycast/extensions/tree/main/extensions/sendportal) | 13 | Open Source Email Marketing Software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendportal) |
-| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 6 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
+| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 8 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 
 ### Social & Fediverse
 
@@ -199,7 +199,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Useless Facts](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) | 586 | Get useless, but true facts | xmok | macOS | [store](https://www.raycast.com/xmok/useless-facts) |
-| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 258 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
+| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 260 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
 | [Rick and Morty](https://github.com/raycast/extensions/tree/main/extensions/rick-and-morty) | 107 | Access characters, images, locations and episodes from the television show "Rick and Morty" | xmok | macOS | [store](https://www.raycast.com/xmok/rick-and-morty) |
 | [The Lord of the Rings](https://github.com/raycast/extensions/tree/main/extensions/lotr) | 92 | Books, Characters, Movies and Quotes via The One API | xmok | macOS | [store](https://www.raycast.com/xmok/lotr) |
 
@@ -235,7 +235,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 370 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
+| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 371 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
 
 ## Media (1)
 

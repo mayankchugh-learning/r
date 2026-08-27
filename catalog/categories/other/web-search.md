@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,261 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
+| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,263 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
 | [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 2,927 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
 | [HubSpot](https://github.com/raycast/extensions/tree/main/extensions/hubspot) | 1,611 | Search Hubspot Contacts, Companies and Deals | harisvsulaiman | macOS | [store](https://www.raycast.com/harisvsulaiman/hubspot) |
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 886 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/sonarr) |
@@ -21,8 +21,8 @@
 | [Flibusta Search](https://github.com/raycast/extensions/tree/main/extensions/flibusta-search) | 88 | Search for books on Flibusta site | VladYevt | macOS | [store](https://www.raycast.com/VladYevt/flibusta-search) |
 | [VivaPB](https://github.com/raycast/extensions/tree/main/extensions/vivapb) | 77 | Browse the web in privacy with the Vivaldi Browser. | Codrkoaz | macOS | [store](https://www.raycast.com/Codrkoaz/vivapb) |
 | [VueJobs](https://github.com/raycast/extensions/tree/main/extensions/vuejobs) | 72 | Browse through our list of Vue.js jobs, find your perfect match and apply.Use the filter or search for more accurate results! | abusiraj84 | macOS | [store](https://www.raycast.com/abusiraj84/vuejobs) |
+| [Resmo](https://github.com/raycast/extensions/tree/main/extensions/resmo) | 70 | Search all resources across Cloud and SaaS | resmo (org) | macOS | [store](https://www.raycast.com/resmo/resmo) |
 | [Sound Search](https://github.com/raycast/extensions/tree/main/extensions/sound-search) | 70 | Search for sounds across multiple services | soundraw (org) | macOS | [store](https://www.raycast.com/soundraw/sound-search) |
-| [Resmo](https://github.com/raycast/extensions/tree/main/extensions/resmo) | 68 | Search all resources across Cloud and SaaS | resmo (org) | macOS | [store](https://www.raycast.com/resmo/resmo) |
 | [Search LaraJobs](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) | 54 | Search jobs on Larajobs | Treblle | macOS | [store](https://www.raycast.com/Treblle/larajobs-search) |
 | [Valorant Esports](https://github.com/raycast/extensions/tree/main/extensions/valorant-esports) | 47 | Search Valorant esports schedules and standings. | vimtor | macOS | [store](https://www.raycast.com/vimtor/valorant-esports) |
 | [Scrycast](https://github.com/raycast/extensions/tree/main/extensions/scrycast) | 36 | Search for Magic: The Gathering cards on Scryfall or your collection | aayushpi | macOS | [store](https://www.raycast.com/aayushpi/scrycast) |

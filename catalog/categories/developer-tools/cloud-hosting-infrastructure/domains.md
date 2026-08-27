@@ -28,9 +28,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,934 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
-| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,608 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
-| [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,304 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 23,940 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast) | 12,610 | View and modify your Vercel projects, deployments and domains. | vercel (org) | macOS, Windows | [store](https://www.raycast.com/vercel/vercast) |
+| [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) | 5,308 | Search and view your Cloudflare sites, pages, domains, and more | destiner | Windows, macOS | [store](https://www.raycast.com/destiner/cloudflare) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,675 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,453 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
 | [Short.io](https://github.com/raycast/extensions/tree/main/extensions/short-io) | 1,190 | Shorten and search links with your own domain via Short.io | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/short-io) |

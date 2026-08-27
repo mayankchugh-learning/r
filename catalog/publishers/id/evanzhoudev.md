@@ -1,14 +1,14 @@
 # EvanZhouDev
 
-19 extensions · 167,939 downloads · [store](https://www.raycast.com/EvanZhouDev) · [← publishers](../README.md)
+19 extensions · 167,978 downloads · [store](https://www.raycast.com/EvanZhouDev) · [← publishers](../README.md)
 
 ## Productivity (10)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 76,439 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
-| [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 34,503 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
-| [Google Bard](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai) | 12,331 | Perform Actions with Google Bard | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-bard-ai) |
+| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 76,456 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
+| [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 34,511 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
+| [Google Bard](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai) | 12,333 | Perform Actions with Google Bard | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-bard-ai) |
 | [Memory](https://github.com/raycast/extensions/tree/main/extensions/memory) | 4,044 | Knowledge Graph Memory for Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/memory) |
 | [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research) | 3,572 | Iterative Deep Research powered by Raycast AI Extensions. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/research) |
 | [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,061 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
@@ -21,7 +21,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 8,031 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
+| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 8,032 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
 | [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 4,497 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
 | [Cerebras](https://github.com/raycast/extensions/tree/main/extensions/cerebras) | 309 | Bring Instant AI Inference to Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/cerebras) |
 | [RayTerm](https://github.com/raycast/extensions/tree/main/extensions/rayterm) | 76 | The Raycast Terminal Emulator | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/rayterm) |
@@ -30,15 +30,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 8,966 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
-| [Colorify - Generate Themes From Images](https://github.com/raycast/extensions/tree/main/extensions/colorify) | 2,319 | Takes an image (such as your wallpaper) and generates a Raycast Theme out of it! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/colorify) |
+| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 8,970 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
+| [Colorify - Generate Themes From Images](https://github.com/raycast/extensions/tree/main/extensions/colorify) | 2,321 | Takes an image (such as your wallpaper) and generates a Raycast Theme out of it! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/colorify) |
 | [WCA](https://github.com/raycast/extensions/tree/main/extensions/raycast-wca) | 42 | Shows you the WCA profile for a name or WCA ID | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-wca) |
 
 ## System (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 9,420 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
+| [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 9,425 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
 
 ## Other (1)
 

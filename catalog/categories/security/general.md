@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,515 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
-| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,438 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
-| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 10,287 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
-| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 3,956 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
-| [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,625 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,516 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,440 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
+| [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 10,290 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
+| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 3,957 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
+| [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,627 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
 | [VirusTotal](https://github.com/raycast/extensions/tree/main/extensions/virustotal) | 1,501 | Check files, IP addresses, URLs, and hashes for malware using VirusTotal | sadv1r | macOS, Windows | [store](https://www.raycast.com/sadv1r/virustotal) |
 | [Email Verifier](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) | 947 | A tool for email verification without sending any emails | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/email-verifier) |
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 453 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |
@@ -17,7 +17,7 @@
 | [PrivateBin](https://github.com/raycast/extensions/tree/main/extensions/privatebin) | 108 | Share sensitive data using a PrivateBin web service | sedlacek-martin | macOS | [store](https://www.raycast.com/sedlacek-martin/privatebin) |
 | [Image Shield](https://github.com/raycast/extensions/tree/main/extensions/image-shield) | 78 | Protect images with advanced encryption and fragmentation. | tuki0918 | macOS | [store](https://www.raycast.com/tuki0918/image-shield) |
 | [Greip](https://github.com/raycast/extensions/tree/main/extensions/greip) | 75 | Use endpoint from greip.io directly from Raycast | ghadeer | macOS | [store](https://www.raycast.com/ghadeer/greip) |
-| [Resmo](https://github.com/raycast/extensions/tree/main/extensions/resmo) | 68 | Search all resources across Cloud and SaaS | resmo (org) | macOS | [store](https://www.raycast.com/resmo/resmo) |
+| [Resmo](https://github.com/raycast/extensions/tree/main/extensions/resmo) | 70 | Search all resources across Cloud and SaaS | resmo (org) | macOS | [store](https://www.raycast.com/resmo/resmo) |
 | [Shodan](https://github.com/raycast/extensions/tree/main/extensions/shodan) | 68 | Search the Shodan database for internet-connected devices, view host details, and manage saved queries | owanesh | macOS | [store](https://www.raycast.com/owanesh/shodan) |
 | [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 14 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
 | [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 10 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |
