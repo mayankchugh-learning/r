@@ -2,7 +2,7 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · **Hardware & Devices** · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-21 of 250 extensions · [← macOS · System](./README.md)
+22 of 251 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +27,4 @@
 | [Mobile Provisions](https://github.com/raycast/extensions/tree/main/extensions/mobile-provisions) | 26 | Manage and inspect Apple mobile provisioning profiles with detailed information about certificates, entitlements, and provisioned devices | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mobile-provisions) |
 | [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices) | 18 | List your Apple Find My devices and play a sound on one device. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/find-my-devices) |
 | [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | 6 | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | [store](https://www.raycast.com/Dhaiwat10/mouse-cursor-toggle) |
+| [Fan Control](https://github.com/raycast/extensions/tree/main/extensions/fan-control) | 0 | View and control your Mac's fan RPM (Apple Silicon) via smctl. | samuelbelo | macOS | [store](https://www.raycast.com/samuelbelo/fan-control) |

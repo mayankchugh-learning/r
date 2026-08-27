@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every extension in [raycast/extensions](https://github.com/raycast/extensions).
 
-**3230** extensions · **17** categories · **2155** publishers
+**3231** extensions · **17** categories · **2156** publishers
 
 ## Browse
 
@@ -10,8 +10,8 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 | --- | --- |
 | [By downloads](./ranked/README.md) | every extension ranked by installs |
 | [By category](./categories/README.md) | 17 categories → curated subcategories → auto-discovered topic groups (✦), nested as deep as the data supports |
-| [By platform](./platforms/README.md) | macOS (3198) · Windows (881) · cross-platform (849), each by category |
-| [By publisher](./publishers/README.md) | 2155 publishers, sortable by downloads or extension count; big publishers get their own page |
+| [By platform](./platforms/README.md) | macOS (3199) · Windows (881) · cross-platform (849), each by category |
+| [By publisher](./publishers/README.md) | 2156 publishers, sortable by downloads or extension count; big publishers get their own page |
 | [Alphabetical](./alphabetical/0-9.md) | every extension, A–Z |
 | [Changelog](./CHANGELOG.md) | upstream additions, updates, removals per sync |
 
@@ -25,7 +25,7 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 | Development | Developer Tools, AI, Documentation, Data, Security | 1,424 |
 | Creative & Media | Design Tools, Media | 426 |
 | Web, Finance & News | Web, Finance, News | 668 |
-| System & Utilities | System, Other | 443 |
+| System & Utilities | System, Other | 444 |
 | Fun & Entertainment | Fun | 276 |
 | Uncategorized | Uncategorized | 114 |
 

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-166 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+167 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -24,6 +24,7 @@
 | [samuel_monteiro](https://www.raycast.com/samuel_monteiro) | 1 | 6 | **Design Tools:** [Gather](https://github.com/raycast/extensions/tree/main/extensions/gatherit) |
 | [samuel_oldmark_se](https://www.raycast.com/samuel_oldmark_se) | 1 | 2 | **Productivity:** [Noteman](https://github.com/raycast/extensions/tree/main/extensions/noteman) |
 | [Samuel3865](https://www.raycast.com/Samuel3865) | 1 | 31 | **Other:** [NMBS Planner](https://github.com/raycast/extensions/tree/main/extensions/nmbs-planner) |
+| [samuelbelo](https://www.raycast.com/samuelbelo) | 1 | 0 | **System:** [Fan Control](https://github.com/raycast/extensions/tree/main/extensions/fan-control) |
 | [samuelkraft](https://www.raycast.com/samuelkraft) | 7 | 2,632 | **Data:** [Workouts](https://github.com/raycast/extensions/tree/main/extensions/workouts), [Analog Film Library](https://github.com/raycast/extensions/tree/main/extensions/analog-film-library), [Lavinprognoser](https://github.com/raycast/extensions/tree/main/extensions/lavinprognoser)<br>**Other:** [Linak Desk Controller](https://github.com/raycast/extensions/tree/main/extensions/linak-controller), [Linak Desk Controller](https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller)<br>**Fun:** [Speedcubing](https://github.com/raycast/extensions/tree/main/extensions/speedcubing)<br>**Productivity:** [Shape Calendar](https://github.com/raycast/extensions/tree/main/extensions/shape-calendar) |
 | [SamuelNitsche](https://www.raycast.com/SamuelNitsche) | 1 | 4,217 | **Productivity:** [Tunnelblick](https://github.com/raycast/extensions/tree/main/extensions/tunnelblick) |
 | [SandeepBaskaran](https://www.raycast.com/SandeepBaskaran) | 3 | 573 | **Developer Tools:** [Gemini CLI](https://github.com/raycast/extensions/tree/main/extensions/gemini-cli)<br>**Fun:** [Pronounce the Word](https://github.com/raycast/extensions/tree/main/extensions/pronounce-the-word)<br>**Finance:** [Zerodha Portfolio (Kite+Coin)](https://github.com/raycast/extensions/tree/main/extensions/zerodha-portfolio-kite-coin) |

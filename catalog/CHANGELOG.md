@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `fc6dd000f7`
+
+**Added (1):** [Fan Control](https://github.com/raycast/extensions/tree/main/extensions/fan-control)
+
 ## 2026-08-27 — upstream `bca73307f1`
 
 **Updated (1):** [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine)

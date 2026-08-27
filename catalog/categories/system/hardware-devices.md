@@ -1,8 +1,8 @@
 # Hardware & Devices
 
-21 extensions · [← System](./README.md)
+22 extensions · [← System](./README.md)
 
-[Keyboard ✦](#keyboard) (6) · [Devices ✦](#devices) (5) · [Mouse ✦](#mouse) (4) · [General](#general) (6)
+[Keyboard ✦](#keyboard) (6) · [Devices ✦](#devices) (5) · [Mouse ✦](#mouse) (4) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -46,3 +46,4 @@
 | [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,818 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 | [Battery Optimizer](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) | 3,100 | Keep the battery healthy by limiting the charging capacity. | Qetesh | macOS | [store](https://www.raycast.com/Qetesh/battery-optimizer) |
 | [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector) | 39 | See exactly what your plugged-in USB-C cables can do. | thilip_lindseth | macOS | [store](https://www.raycast.com/thilip_lindseth/usb-c-inspector) |
+| [Fan Control](https://github.com/raycast/extensions/tree/main/extensions/fan-control) | 0 | View and control your Mac's fan RPM (Apple Silicon) via smctl. | samuelbelo | macOS | [store](https://www.raycast.com/samuelbelo/fan-control) |
