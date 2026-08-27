@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `74bc530001`
+
+**Updated (1):** [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist)
+
 ## 2026-08-27 — upstream `e70deb13d6`
 
 **Updated (1):** [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar)
