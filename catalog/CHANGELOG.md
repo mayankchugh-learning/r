@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `0fa4aacb31`
+
+**Updated (1):** [WP Bones](https://github.com/raycast/extensions/tree/main/extensions/wp-bones)
+
 ## 2026-08-27 — upstream `8c08f69939`
 
 **Updated (1):** [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks)
