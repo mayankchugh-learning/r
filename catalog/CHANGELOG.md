@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `6d156582f7`
+
+**Updated (1):** [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner)
+
 ## 2026-08-27 — upstream `3256a093a2`
 
 **Updated (1):** [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates)
