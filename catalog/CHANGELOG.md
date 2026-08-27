@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `da35ac62c4`
+
+**Updated (1):** [Numi](https://github.com/raycast/extensions/tree/main/extensions/numi)
+
 ## 2026-08-27 — upstream `5865539308`
 
 **Updated (2):** [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts), [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm)
