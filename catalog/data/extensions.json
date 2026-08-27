@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "43cac4153393f62c70da979cdda648bfde68e1b9",
-  "generatedAt": "2026-08-27T10:12:29.377Z",
-  "downloadsRefreshedAt": "2026-08-27T10:12:28.527Z",
+  "commit": "06664dfb78391303ed3f336bcc69cf4756232762",
+  "generatedAt": "2026-08-27T10:13:21.038Z",
+  "downloadsRefreshedAt": "2026-08-27T10:13:20.330Z",
   "count": 3231,
   "extensions": [
     {
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 522609
+      "downloads": 522610
     },
     {
       "dir": "color-shades",
@@ -22141,7 +22141,7 @@
       ],
       "store": "https://www.raycast.com/frouo/google-chrome-profiles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles",
-      "treeSha": "9c1ad993d847e23870aedec1700b0116b6d498a7",
+      "treeSha": "151ab077c5b9252666eebf5618d5f07118bbdf7c",
       "downloads": 13617
     },
     {

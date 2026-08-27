@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `06664dfb78`
+
+**Updated (1):** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles)
+
 ## 2026-08-27 — upstream `43cac41533`
 
 **Updated (1):** [Quick AirDrop](https://github.com/raycast/extensions/tree/main/extensions/quick-airdrop)
