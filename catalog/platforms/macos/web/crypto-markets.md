@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,631 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
+| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,632 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
 | [Bitcoin Price](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-price) | 836 | See the current price of Bitcoin in various currencies. | futantan | macOS | [store](https://www.raycast.com/futantan/bitcoin-price) |
 | [Ethereum Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/ethereum-gas-tracker) | 270 | See the current gas price of Ethereum. | vinch | macOS | [store](https://www.raycast.com/vinch/ethereum-gas-tracker) |
 | [Ethereum Price](https://github.com/raycast/extensions/tree/main/extensions/ethereum-price) | 267 | See the current price of Ethereum in various currencies. | peduarte | macOS | [store](https://www.raycast.com/peduarte/ethereum-price) |

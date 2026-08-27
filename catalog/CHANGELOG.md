@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `cc6586dfda`
+
+**Updated (1):** [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders)
+
 ## 2026-08-27 — upstream `fc6dd000f7`
 
 **Added (1):** [Fan Control](https://github.com/raycast/extensions/tree/main/extensions/fan-control)
