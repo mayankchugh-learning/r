@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "588bdbf7b5d104b510ef6b5e480699db51930b6c",
-  "generatedAt": "2026-08-27T17:56:54.063Z",
-  "downloadsRefreshedAt": "2026-08-27T17:56:52.765Z",
+  "commit": "d4aae99c5e1d7ec19b2341f1058c20adfd3fdc91",
+  "generatedAt": "2026-08-27T20:53:41.465Z",
+  "downloadsRefreshedAt": "2026-08-27T20:53:40.506Z",
   "count": 3231,
   "extensions": [
     {
@@ -692,7 +692,7 @@
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
       "treeSha": "6eccf69de68bc5aeab97a692f78aa241423b957f",
-      "downloads": 2825
+      "downloads": 2827
     },
     {
       "dir": "agentcfg",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 523110
+      "downloads": 523268
     },
     {
       "dir": "color-shades",
@@ -22121,7 +22121,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 507804
+      "downloads": 507903
     },
     {
       "dir": "google-chrome-profiles",
@@ -28443,7 +28443,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 681916
+      "downloads": 682082
     },
     {
       "dir": "kimai",
@@ -38387,7 +38387,7 @@
       "store": "https://www.raycast.com/marcjulian/obsidian",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian",
       "treeSha": "69a2754e04df76353da1a435837e7356d637f458",
-      "downloads": 153890
+      "downloads": 153902
     },
     {
       "dir": "obsidian-bookmarks",
@@ -45915,7 +45915,7 @@
       ],
       "store": "https://www.raycast.com/mackopes/quit-applications",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quit-applications",
-      "treeSha": "698b4e29f8595a058b9c097f3d3489084b4a00a5",
+      "treeSha": "9c9a6f05921d19e13d049287b6df88314f900951",
       "downloads": 45494
     },
     {
