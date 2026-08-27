@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `3c92d2e35b`
+
+**Updated (1):** [Sync Folders](https://github.com/raycast/extensions/tree/main/extensions/sync-folders)
+
 ## 2026-08-27 — upstream `0fa4aacb31`
 
 **Updated (1):** [WP Bones](https://github.com/raycast/extensions/tree/main/extensions/wp-bones)

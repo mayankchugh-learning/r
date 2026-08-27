@@ -57,7 +57,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | 6,440 | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |
 | [Dock](https://github.com/raycast/extensions/tree/main/extensions/dock) | 1,962 | Change the dock's position to the left, right, or bottom edge of the screen. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/dock) |
-| [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks) | 1,068 | Discover and toggle hidden macOS settings without the Terminal. Browse a curated catalog of defaults write tweaks for Finder, Dock, Screenshots, Animations, an… | Undolog | macOS | [store](https://www.raycast.com/Undolog/macos-tweaks) |
+| [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks) | 1,069 | Discover and toggle hidden macOS settings without the Terminal. Browse a curated catalog of defaults write tweaks for Finder, Dock, Screenshots, Animations, an… | Undolog | macOS | [store](https://www.raycast.com/Undolog/macos-tweaks) |
 | [Lockdock](https://github.com/raycast/extensions/tree/main/extensions/lockdock) | 35 | Lock the macOS Dock to a specific display | mishamyrt | macOS | [store](https://www.raycast.com/mishamyrt/lockdock) |
 
 ## General

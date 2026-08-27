@@ -70,7 +70,7 @@
 | [Close Finder](https://github.com/raycast/extensions/tree/main/extensions/close-finder) | 2,358 | Utils to close Finder from Raycast. | qeude | macOS | [store](https://www.raycast.com/qeude/close-finder) |
 | [Common Directory](https://github.com/raycast/extensions/tree/main/extensions/common-directory) | 1,956 | Quickly open or show common directory in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/common-directory) |
 | [BetterZip](https://github.com/raycast/extensions/tree/main/extensions/betterzip) | 1,129 | Compress and extract selected items in Finder with BetterZip via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/betterzip) |
-| [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks) | 1,068 | Discover and toggle hidden macOS settings without the Terminal. Browse a curated catalog of defaults write tweaks for Finder, Dock, Screenshots, Animations, an… | Undolog | macOS | [store](https://www.raycast.com/Undolog/macos-tweaks) |
+| [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks) | 1,069 | Discover and toggle hidden macOS settings without the Terminal. Browse a curated catalog of defaults write tweaks for Finder, Dock, Screenshots, Animations, an… | Undolog | macOS | [store](https://www.raycast.com/Undolog/macos-tweaks) |
 | [Open Laravel Herd Site](https://github.com/raycast/extensions/tree/main/extensions/open-laravel-herd-site) | 326 | Lists all your Laravel Herd sites and allows you to open them in Visual Studio Code, Finder or your browser. | medienbaecker | macOS | [store](https://www.raycast.com/medienbaecker/open-laravel-herd-site) |
 
 ## Upload ✦
