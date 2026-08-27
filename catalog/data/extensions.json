@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2f3bcc52fb0b637ecfea462910f465ac74d5c20c",
-  "generatedAt": "2026-08-27T17:44:24.627Z",
-  "downloadsRefreshedAt": "2026-08-27T17:44:23.818Z",
+  "commit": "281b239cdfbc88bec9a9f28dbb2db9736292e62d",
+  "generatedAt": "2026-08-27T17:47:31.252Z",
+  "downloadsRefreshedAt": "2026-08-27T17:47:30.351Z",
   "count": 3231,
   "extensions": [
     {
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 523093
+      "downloads": 523094
     },
     {
       "dir": "color-shades",
@@ -22121,7 +22121,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 507796
+      "downloads": 507797
     },
     {
       "dir": "google-chrome-profiles",
@@ -28443,7 +28443,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 681901
+      "downloads": 681903
     },
     {
       "dir": "kimai",
@@ -36618,7 +36618,7 @@
       "description": "View diagnostic information about your network to help figure out why it's playing up.",
       "author": "hmarr",
       "owner": null,
-      "contributors": 1,
+      "contributors": 0,
       "categories": [
         "System"
       ],
@@ -36628,7 +36628,7 @@
       ],
       "store": "https://www.raycast.com/hmarr/network-diagnostics",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics",
-      "treeSha": "73f64c698a2ebc108c687d4c859c0d1937307609",
+      "treeSha": "8576dc7ac471f4c475fcd8d1af5329a80a457222",
       "downloads": 3673
     },
     {

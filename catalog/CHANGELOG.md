@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-27 — upstream `281b239cdf`
+
+**Updated (1):** [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics)
+
 ## 2026-08-27 — upstream `2f3bcc52fb`
 
 **Updated (1):** [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates)
