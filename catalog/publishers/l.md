@@ -46,7 +46,7 @@
 | [LightQuantum](https://www.raycast.com/LightQuantum) | 1 | 1,449 | **Productivity:** [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) |
 | [lihzsky](https://www.raycast.com/lihzsky) | 1 | 235 | **Developer Tools:** [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) |
 | [liluo](https://www.raycast.com/liluo) | 1 | 112 | **Developer Tools:** [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) |
-| [limonkufu](https://www.raycast.com/limonkufu) | 1 | 15,166 | **Productivity:** [Aerospace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) |
+| [limonkufu](https://www.raycast.com/limonkufu) | 1 | 15,171 | **Productivity:** [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) |
 | [lin](https://www.raycast.com/lin) | 3 | 6,384 | **Developer Tools:** [Prettier Code](https://github.com/raycast/extensions/tree/main/extensions/prettier)<br>**Productivity:** [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai)<br>**Documentation:** [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) |
 | [linear](https://www.raycast.com/linear) | 1 | 353,316 | **Developer Tools:** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) |
 | [linkinize](https://www.raycast.com/linkinize) | 1 | 8 | **Productivity:** [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize) |

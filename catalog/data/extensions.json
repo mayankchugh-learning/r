@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3c92d2e35b2c336f3afdafa9e2f3f06d2a3ccacd",
-  "generatedAt": "2026-08-27T17:29:37.127Z",
-  "downloadsRefreshedAt": "2026-08-27T17:29:36.201Z",
+  "commit": "c7979bb87f7e0138419b128f92c55ee99488ed0b",
+  "generatedAt": "2026-08-27T17:40:28.773Z",
+  "downloadsRefreshedAt": "2026-08-27T17:40:27.710Z",
   "count": 3231,
   "extensions": [
     {
@@ -571,8 +571,8 @@
     {
       "dir": "aerospace",
       "name": "aerospace",
-      "title": "Aerospace Tiling Window Manager",
-      "description": "Aerospace Tiling Window Manager Extension for Raycast",
+      "title": "AeroSpace Tiling Window Manager",
+      "description": "Control AeroSpace workspaces, windows, shortcuts, and configuration from Raycast",
       "author": "limonkufu",
       "owner": null,
       "contributors": 7,
@@ -587,8 +587,8 @@
       ],
       "store": "https://www.raycast.com/limonkufu/aerospace",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/aerospace",
-      "treeSha": "616bdf58efe57c9bf34ceee3ebce8b0bd08aeff3",
-      "downloads": 15166
+      "treeSha": "8229a91aab81a8682ba75f0ea074276a519231ba",
+      "downloads": 15171
     },
     {
       "dir": "affine-raycast",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 523080
+      "downloads": 523090
     },
     {
       "dir": "color-shades",
@@ -22121,7 +22121,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 507788
+      "downloads": 507795
     },
     {
       "dir": "google-chrome-profiles",
@@ -28443,7 +28443,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 681888
+      "downloads": 681897
     },
     {
       "dir": "kimai",
