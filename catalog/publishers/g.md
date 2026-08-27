@@ -62,7 +62,7 @@
 | [grosst](https://www.raycast.com/grosst) | 1 | 1,879 | **Media:** [Video Converter](https://github.com/raycast/extensions/tree/main/extensions/video-converter) |
 | [grrrck](https://www.raycast.com/grrrck) | 1 | 193 | **Developer Tools:** [Search R Packages](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) |
 | [grzegorzkrukowski](https://www.raycast.com/grzegorzkrukowski) | 1 | 1,107 | **Finance:** [Binance Portfolio](https://github.com/raycast/extensions/tree/main/extensions/binance) |
-| [gstvds](https://www.raycast.com/gstvds) | 2 | 29,431 | **System:** [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine)<br>**Developer Tools:** [CPF/CNPJ Generator](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) |
+| [gstvds](https://www.raycast.com/gstvds) | 2 | 29,432 | **System:** [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine)<br>**Developer Tools:** [CPF/CNPJ Generator](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) |
 | [guelug](https://www.raycast.com/guelug) | 1 | 476 | **Productivity:** [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) |
 | [guide](https://www.raycast.com/guide) | 2 | 1,889 | **Productivity:** [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps)<br>**Developer Tools:** [MacPorts](https://github.com/raycast/extensions/tree/main/extensions/macports) |
 | [guilhermevictor](https://www.raycast.com/guilhermevictor) | 1 | 773 | **Web:** [Oxford Collocation Dictionary](https://github.com/raycast/extensions/tree/main/extensions/oxford-collocation-dictionary) |
