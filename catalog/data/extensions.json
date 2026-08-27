@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "06664dfb78391303ed3f336bcc69cf4756232762",
-  "generatedAt": "2026-08-27T10:13:21.038Z",
-  "downloadsRefreshedAt": "2026-08-27T10:13:20.330Z",
+  "commit": "4b4da7b2cdf53e61789fb5f7a3ddd92c68e5f8fa",
+  "generatedAt": "2026-08-27T12:53:51.091Z",
+  "downloadsRefreshedAt": "2026-08-27T12:53:50.027Z",
   "count": 3231,
   "extensions": [
     {
@@ -5890,8 +5890,8 @@
       ],
       "store": "https://www.raycast.com/nhojb/brew",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brew",
-      "treeSha": "3d9b8c1562cadd17b608e85a890c126ef65b5a06",
-      "downloads": 260516
+      "treeSha": "3843962d55050058e01d0a1a7479eff1d7d6ad66",
+      "downloads": 260559
     },
     {
       "dir": "brew-services",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 522610
+      "downloads": 522762
     },
     {
       "dir": "color-shades",
@@ -17493,7 +17493,7 @@
       "store": "https://www.raycast.com/samuelbelo/fan-control",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fan-control",
       "treeSha": "3b53fa9da1bf2253ec90a01dc03e503fc9776cf6",
-      "downloads": 2
+      "downloads": 4
     },
     {
       "dir": "fancy-text",
@@ -22121,7 +22121,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 507465
+      "downloads": 507580
     },
     {
       "dir": "google-chrome-profiles",
@@ -28443,7 +28443,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 681420
+      "downloads": 681571
     },
     {
       "dir": "kimai",
