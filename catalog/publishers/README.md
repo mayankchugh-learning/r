@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,132,556 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,132,575 |
 | 2 | [raycast](./id/raycast.md) | 11 | 804,247 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 682,681 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 508,313 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 682,695 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 508,323 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 447,312 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 442,458 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 413,943 |
@@ -130,7 +130,7 @@
 | 120 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,608 |
 | 121 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 15,448 |
 | 122 | [kom](https://www.raycast.com/kom) | 1 | 15,347 |
-| 123 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 15,184 |
+| 123 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 15,185 |
 | 124 | [k8scat](https://www.raycast.com/k8scat) | 6 | 14,843 |
 | 125 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 14,672 |
 | 126 | [tailscale](https://www.raycast.com/tailscale) | 1 | 14,569 |
