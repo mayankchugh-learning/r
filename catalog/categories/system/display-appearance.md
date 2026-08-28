@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 21,306 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 21,307 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
 | [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,496 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
-| [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 8,251 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
+| [Display Placer](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) | 8,252 | Manage favorite display configurations | eluce2 | macOS | [store](https://www.raycast.com/eluce2/displayplacer) |
 | [Display Modes](https://github.com/raycast/extensions/tree/main/extensions/display-modes) | 6,338 | Manage displays modes (resolution, refresh rate...). | agustin.prats | macOS | [store](https://www.raycast.com/agustin.prats/display-modes) |
 | [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) | 5,970 | Manage Night Shift System Settings | devmoath | macOS | [store](https://www.raycast.com/devmoath/night-light) |
 | [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) | 5,670 | Quickly controls the brightness levels of your display | cali | macOS, Windows | [store](https://www.raycast.com/cali/brightness-control) |
@@ -19,6 +19,6 @@
 | [Extend Display](https://github.com/raycast/extensions/tree/main/extensions/extend-display) | 150 | Connect to remote displays and preserve audio output | pavzagor | macOS | [store](https://www.raycast.com/pavzagor/extend-display) |
 | [macOS Appearance Changer](https://github.com/raycast/extensions/tree/main/extensions/macos-appearance-changer) | 98 | Create and apply custom macOS appearance profiles with wallpaper, icon style, and dark mode | huzef44 | macOS | [store](https://www.raycast.com/huzef44/macos-appearance-changer) |
 | [Blackr](https://github.com/raycast/extensions/tree/main/extensions/blackr) | 83 | Turn your main display black for quick screen cleaning. | li_jin | macOS, Windows | [store](https://www.raycast.com/li_jin/blackr) |
-| [Sidecar Display](https://github.com/raycast/extensions/tree/main/extensions/sidecar-display) | 21 | Connect your iPad over Sidecar and force it to extend instead of mirror, without touching your main display. | chiptoma | macOS | [store](https://www.raycast.com/chiptoma/sidecar-display) |
+| [Sidecar Display](https://github.com/raycast/extensions/tree/main/extensions/sidecar-display) | 22 | Connect your iPad over Sidecar and force it to extend instead of mirror, without touching your main display. | chiptoma | macOS | [store](https://www.raycast.com/chiptoma/sidecar-display) |
 | [Arcane Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/arcane-wallpaper) | 19 | Browse and set Arcane wallpapers. | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/arcane-wallpaper) |
 | [Dimmer](https://github.com/raycast/extensions/tree/main/extensions/dimmer) | 6 | Dim every Mac display beyond its minimum brightness. | nachotafalla | macOS | [store](https://www.raycast.com/nachotafalla/dimmer) |

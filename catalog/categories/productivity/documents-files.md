@@ -1,8 +1,8 @@
 # Documents & Files
 
-125 extensions · [← Productivity](./README.md)
+126 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (28) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Upload ✦](#upload) (13) · [Download ✦](#download) (9) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (34)
+[Folder ✦](#folder) (28) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Upload ✦](#upload) (13) · [Download ✦](#download) (9) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
 
 *✦ auto-discovered topic group*
 
@@ -10,14 +10,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 45,947 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
-| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 20,220 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
-| [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 18,556 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |
+| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 45,949 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
+| [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 20,221 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
+| [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 18,557 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |
 | [Open in Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) | 12,195 | Open current File Manager directory, selected folder or file in Visual Studio Code. | shubzkothekar | macOS, Windows | [store](https://www.raycast.com/shubzkothekar/open-in-visual-studio-code) |
-| [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 6,214 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
+| [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 6,216 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
 | [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,240 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
 | [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,735 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
-| [Open in Cursor](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) | 3,112 | Open current Finder directory, selected folder or file in Cursor. | mjoosuf | macOS | [store](https://www.raycast.com/mjoosuf/open-in-cursor) |
+| [Open in Cursor](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) | 3,113 | Open current Finder directory, selected folder or file in Cursor. | mjoosuf | macOS | [store](https://www.raycast.com/mjoosuf/open-in-cursor) |
 | [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) | 2,767 | Perform actions (move, copy, create) on selected Finder files and folders | pa1ar | macOS | [store](https://www.raycast.com/pa1ar/finder-file-actions) |
 | [Open in Sublime Text](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) | 1,937 | Open current Finder directory, selected folder or file in Sublime Text. | anfalas | macOS | [store](https://www.raycast.com/anfalas/open-in-sublime-text) |
 | [Jump](https://github.com/raycast/extensions/tree/main/extensions/jump) | 1,730 | Jump to websites, folders, or files | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/jump) |
@@ -51,7 +51,7 @@
 | [Sensible - Document Data Extraction](https://github.com/raycast/extensions/tree/main/extensions/sensible) | 115 | Extract structured data from documents using Sensible.so | michaelschultz | macOS | [store](https://www.raycast.com/michaelschultz/sensible) |
 | [Affine](https://github.com/raycast/extensions/tree/main/extensions/affine-raycast) | 61 | Search and open AFFiNE workspaces and documents from Raycast. Uses AFFiNE GraphQL API. | yassine_souilmi | macOS | [store](https://www.raycast.com/yassine_souilmi/affine) |
 | [DocKit - Document Toolkit](https://github.com/raycast/extensions/tree/main/extensions/dockit) | 59 | Fix formatting in Word, PowerPoint, and Excel files | zengtianli | macOS | [store](https://www.raycast.com/zengtianli/dockit) |
-| [Papra](https://github.com/raycast/extensions/tree/main/extensions/papra) | 47 | Simple & Secure Document Archiving for Long-Term Storage | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/papra) |
+| [Papra](https://github.com/raycast/extensions/tree/main/extensions/papra) | 48 | Simple & Secure Document Archiving for Long-Term Storage | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/papra) |
 | [PDF Expert](https://github.com/raycast/extensions/tree/main/extensions/pdf-expert) | 40 | Navigate open tabs and recent documents in PDF Expert | mattiacolombomc | macOS | [store](https://www.raycast.com/mattiacolombomc/pdf-expert) |
 | [Knowwa](https://github.com/raycast/extensions/tree/main/extensions/knowwa) | 33 | Generate and list documents in Knowwa directly from Raycast | knowwa | macOS | [store](https://www.raycast.com/knowwa/knowwa) |
 | [French Company Search](https://github.com/raycast/extensions/tree/main/extensions/french-company-search) | 24 | Search French company information using SIREN/SIRET numbers via INPI API. Get formatted legal details ready for contracts and documents. | fma16 | macOS | [store](https://www.raycast.com/fma16/french-company-search) |
@@ -77,14 +77,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,377 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
+| [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,378 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
 | [Dropshare](https://github.com/raycast/extensions/tree/main/extensions/dropshare) | 742 | Create screen captures and upload files with Dropshare | tjosten | macOS | [store](https://www.raycast.com/tjosten/dropshare) |
 | [SM.MS](https://github.com/raycast/extensions/tree/main/extensions/sm-ms) | 224 | SM.MS image hosting service to upload and share images. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/sm-ms) |
 | [Streamshare Uploader](https://github.com/raycast/extensions/tree/main/extensions/to-streamshare) | 184 | Upload files to streamshare | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/streamshare-uploader) |
 | [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 151 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |
 | [UploaderX](https://github.com/raycast/extensions/tree/main/extensions/uploaderx) | 97 | UploaderX lets you instantly upload files to your favorite cloud storage providers—directly from Raycast. Supports S3-compatible storage (AWS S3, Cloudflare R2… | scisaif | macOS | [store](https://www.raycast.com/scisaif/uploaderx) |
 | [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) | 64 | Browse, upload, download, and manage files on your VPS via Raycast! | Abdullah-Dev115 | macOS | [store](https://www.raycast.com/Abdullah-Dev115/vps-explorer) |
-| [File Provider Progress](https://github.com/raycast/extensions/tree/main/extensions/file-provider-progress) | 60 | Show macOS File Provider upload, download, indexing, and health status. | finite | macOS | [store](https://www.raycast.com/finite/file-provider-progress) |
+| [File Provider Progress](https://github.com/raycast/extensions/tree/main/extensions/file-provider-progress) | 61 | Show macOS File Provider upload, download, indexing, and health status. | finite | macOS | [store](https://www.raycast.com/finite/file-provider-progress) |
 | [Zipline](https://github.com/raycast/extensions/tree/main/extensions/zipline) | 55 | Manage your Zipline uploads - browse, upload, and share files | treyg | macOS | [store](https://www.raycast.com/treyg/zipline) |
 | [Fakecrime Upload](https://github.com/raycast/extensions/tree/main/extensions/fakecrime-upload) | 13 | Upload an image to the Fakecrime server and get a short URL in return. | berkaydigital | macOS | [store](https://www.raycast.com/berkaydigital/fakecrime-upload) |
 | [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) | 11 | Upload files and manage your EdgeStore account. | ravi_s | macOS, Windows | [store](https://www.raycast.com/ravi_s/edgestore-raycast) |
@@ -95,9 +95,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 119,784 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
-| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 34,465 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
-| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,451 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 119,792 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 34,467 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,452 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
 | [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) | 4,953 | List, Search and Download Files using the Raycast Extension for Dropbox. | chyroc | macOS | [store](https://www.raycast.com/chyroc/the-blue-cloud) |
 | [Icons8](https://github.com/raycast/extensions/tree/main/extensions/icons8) | 4,189 | Search and download icons using Icons8 large library. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/icons8) |
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,258 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
@@ -126,13 +126,13 @@
 | [Markdown Blog Manager](https://github.com/raycast/extensions/tree/main/extensions/markdown-blog-manager) | 330 | Create, browse and edit your file based Markdown blog. | pyronaur | macOS | [store](https://www.raycast.com/pyronaur/markdown-blog) |
 | [Markdown Image to HTML](https://github.com/raycast/extensions/tree/main/extensions/markdown-image-to-html) | 288 | Transform a Markdown Image to HTML. This allows us to fix image size in Markdown base files. | qeude | macOS | [store](https://www.raycast.com/qeude/markdown-image-to-html) |
 | [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) | 124 | Manage bookmarks using a markdown file as persistence layer | rmartins | macOS | [store](https://www.raycast.com/rmartins/markmarks) |
-| [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 14 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
+| [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 15 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
 
 ## Fuzzy ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) | 29,602 | Fuzzy search files in the mounted Google Drive | vishaltelangre | macOS | [store](https://www.raycast.com/vishaltelangre/google-drive) |
+| [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) | 29,604 | Fuzzy search files in the mounted Google Drive | vishaltelangre | macOS | [store](https://www.raycast.com/vishaltelangre/google-drive) |
 | [Fuzzy File Search](https://github.com/raycast/extensions/tree/main/extensions/fuzzy-file-search) | 2,494 | Fuzzy-search files by full path to reach the right item instantly. | erykksc | macOS | [store](https://www.raycast.com/erykksc/fuzzy-file-search) |
 | [Cling File Search](https://github.com/raycast/extensions/tree/main/extensions/cling) | 281 | Instant fuzzy search over the whole filesystem using the Cling app | alin | macOS | [store](https://www.raycast.com/alin/cling) |
 | [Lumen](https://github.com/raycast/extensions/tree/main/extensions/lumen) | 20 | Scoped fuzzy file search across your favorite workspaces, with filters and sorting. | kumare_agape | macOS | [store](https://www.raycast.com/kumare_agape/lumen) |
@@ -141,13 +141,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 46,047 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
-| [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 30,009 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
-| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 24,669 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
-| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,368 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
+| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 46,049 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
+| [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 30,012 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
+| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 24,671 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
+| [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,369 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
 | [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,488 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
 | [Archiver](https://github.com/raycast/extensions/tree/main/extensions/archiver) | 2,782 | An archive tool for compressing or extracting, supporting multiple formats. | JinShi | macOS | [store](https://www.raycast.com/JinShi/archiver) |
-| [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,819 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
+| [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,820 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
 | [Disk Utility](https://github.com/raycast/extensions/tree/main/extensions/diskutil) | 1,137 | Create, list and delete Apple File System (APFS) disk volumes | stelo | macOS | [store](https://www.raycast.com/stelo/diskutil) |
 | [File Organizer](https://github.com/raycast/extensions/tree/main/extensions/file-organizer) | 894 | Automatically find where a file should go | felix_wortmann | macOS | [store](https://www.raycast.com/felix_wortmann/file-organizer) |
 | [Get Direct Link](https://github.com/raycast/extensions/tree/main/extensions/get-direct-link) | 894 | Get a direct link from a shareable link of Dropbox, Google Drive, and Imgur service. | trungnghiatn | macOS | [store](https://www.raycast.com/trungnghiatn/get-direct-link) |
@@ -175,3 +175,4 @@
 | [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) | 14 | Send and receive files securely using croc | wilton | macOS | [store](https://www.raycast.com/wilton/croc-transfer) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 2 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
 | [Paper Design](https://github.com/raycast/extensions/tree/main/extensions/paper-design) | 2 | Browse recent Paper designs, create new files, and manage design tokens directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/paper-design) |
+| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 0 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |

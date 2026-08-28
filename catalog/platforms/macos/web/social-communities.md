@@ -2,15 +2,15 @@
 
 [AI Services](./ai-services.md) · **Social & Communities** · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-25 of 463 extensions · [← macOS · Web](./README.md)
+25 of 464 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 22,353 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
-| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,636 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 22,357 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 13,637 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,313 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
 | [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,268 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
-| [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) | 1,790 | Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon. | typefully (org) | macOS, Windows | [store](https://www.raycast.com/typefully/typefully) |
+| [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) | 1,791 | Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon. | typefully (org) | macOS, Windows | [store](https://www.raycast.com/typefully/typefully) |
 | [Pinboard](https://github.com/raycast/extensions/tree/main/extensions/pinboard) | 1,528 | Post new bookmarks to Pinboard and search through your Pinboard bookmarks. Tip: Assign a global shortcut to the "Add Bookmark" command, select a URL, and then… | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/pinboard) |
 | [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 905 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
 | [v2ex](https://github.com/raycast/extensions/tree/main/extensions/v2ex) | 792 | You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your… | leo | macOS | [store](https://www.raycast.com/leo/v2ex) |

@@ -2,11 +2,11 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · **Monitoring & Logs** · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-25 of 1097 extensions · [← macOS · Developer Tools](./README.md)
+26 of 1098 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,790 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,791 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,120 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
 | [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,485 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
 | [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,468 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
@@ -31,3 +31,4 @@
 | [Laravel Cloud](https://github.com/raycast/extensions/tree/main/extensions/laravel-cloud) | 23 | Manage your Laravel Cloud applications, deployments, logs, and more directly from Raycast. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/laravel-cloud) |
 | [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 21 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
 | [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) | 3 | Manages and shows uptime status for services using Phare.io | ApopeOS | macOS | [store](https://www.raycast.com/ApopeOS/phare-io-uptime) |
+| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 0 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |

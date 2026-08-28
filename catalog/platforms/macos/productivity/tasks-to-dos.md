@@ -2,17 +2,17 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · **Tasks & To-Dos** · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-51 of 1452 extensions · [← macOS · Productivity](./README.md)
+51 of 1453 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 106,143 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
-| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 86,987 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
-| [Things](https://github.com/raycast/extensions/tree/main/extensions/things) | 38,099 | Search and manage your Things to-dos from Raycast | loris | macOS | [store](https://www.raycast.com/loris/things) |
-| [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) | 22,366 | Check and search tasks in TickTick via Raycast | appest | macOS | [store](https://www.raycast.com/appest/ticktick) |
-| [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) | 19,827 | Create Fantastical events and reminders using Fantastical's natural language processing. | devahschaefers | macOS | [store](https://www.raycast.com/devahschaefers/fantastical) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,555 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
-| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,204 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 106,155 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
+| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 86,990 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
+| [Things](https://github.com/raycast/extensions/tree/main/extensions/things) | 38,101 | Search and manage your Things to-dos from Raycast | loris | macOS | [store](https://www.raycast.com/loris/things) |
+| [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) | 22,367 | Check and search tasks in TickTick via Raycast | appest | macOS | [store](https://www.raycast.com/appest/ticktick) |
+| [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) | 19,828 | Create Fantastical events and reminders using Fantastical's natural language processing. | devahschaefers | macOS | [store](https://www.raycast.com/devahschaefers/fantastical) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,557 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,205 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
 | [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,570 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup) | 8,510 | Browse ClickUp tasks and docs from Raycast | aparandeh | macOS | [store](https://www.raycast.com/aparandeh/manage-clickup-tasks) |
 | [Simple Reminder](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) | 5,746 | Set your reminders in natural language without the need to have any application installed. | comoser | macOS | [store](https://www.raycast.com/comoser/simple-reminder) |
@@ -28,7 +28,7 @@
 | [Charged: Starknet Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/charged) | 204 | Shorcuts for common web3 tasks | apoorv | macOS | [store](https://www.raycast.com/apoorv/charged) |
 | [Tembo](https://github.com/raycast/extensions/tree/main/extensions/tembo) | 178 | Tembo Raycast Extension for task management and creation | tembo | macOS | [store](https://www.raycast.com/tembo/tembo) |
 | [FocusTask](https://github.com/raycast/extensions/tree/main/extensions/focustask) | 176 | Manage and search for tasks in FocusTask | vojto | macOS | [store](https://www.raycast.com/vojto/focustask) |
-| [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | 137 | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |
+| [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | 138 | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |
 | [BusyCal](https://github.com/raycast/extensions/tree/main/extensions/busycal) | 130 | Create BusyCal events and tasks, search your schedule, and find the next free slot. | beehive | macOS | [store](https://www.raycast.com/beehive/busycal) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 113 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) | 112 | Manage your Beeminder goals from Raycast | vivgui | macOS | [store](https://www.raycast.com/vivgui/beeminder) |
@@ -40,7 +40,7 @@
 | [Vikunja Task Manager](https://github.com/raycast/extensions/tree/main/extensions/vikunja) | 48 | Create and manage tasks in your self-hosted Vikunja instance | flexorflex | macOS | [store](https://www.raycast.com/flexorflex/vikunja) |
 | [TimeCamp](https://github.com/raycast/extensions/tree/main/extensions/timecamp) | 46 | Start and stop TimeCamp tasks. | iAmKevinCruz | macOS | [store](https://www.raycast.com/iAmKevinCruz/timecamp) |
 | [TXTodo](https://github.com/raycast/extensions/tree/main/extensions/txtodo) | 36 | Manage tasks in todo.txt plain-text format from Raycast | lacasa | macOS | [store](https://www.raycast.com/lacasa/txtodo) |
-| [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 33 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |
+| [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 34 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |
 | [SingularityApp](https://github.com/raycast/extensions/tree/main/extensions/singularityapp) | 30 | Check your SingularityApp tasks and add new ones quickly | alikhil | macOS, Windows | [store](https://www.raycast.com/alikhil/singularityapp) |
 | [TeamGantt](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) | 29 | Finding and creating tasks in TeamGantt | knownasilya | macOS | [store](https://www.raycast.com/knownasilya/teamgantt) |
 | [Stashit](https://github.com/raycast/extensions/tree/main/extensions/stashit) | 28 | A priority queue for managing tasks with priorities | pmzi | macOS | [store](https://www.raycast.com/pmzi/stashit) |

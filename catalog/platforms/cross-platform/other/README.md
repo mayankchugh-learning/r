@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 241,876 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 876 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 241,887 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 877 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 241 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 | [Bhagavad Gita Quotes](https://github.com/raycast/extensions/tree/main/extensions/bhagavad-gita-quotes) | 8 | Read and search Bhagavad Gita quotes (AI features require Raycast AI). | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/bhagavad-gita-quotes) |
 
@@ -32,7 +32,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,271 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
+| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,272 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
 | [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 2,931 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 886 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 751 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |
@@ -44,7 +44,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 66,120 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 66,126 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
 
 ## Life & World
 
@@ -61,7 +61,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,748 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
+| [Home Assistant](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) | 26,751 | Manage your smart home with Raycast | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/homeassistant) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,404 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
 
 ## Media, Money & Words
@@ -76,7 +76,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 963 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
+| [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 967 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 
 ### Language & Translation
 
@@ -98,6 +98,6 @@
 | [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 177 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 166 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
 | [Twenty](https://github.com/raycast/extensions/tree/main/extensions/twenty) | 150 | Create Object Record Instantly | NabhagMotivaras | macOS, Windows | [store](https://www.raycast.com/NabhagMotivaras/twenty) |
-| [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | 69 | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
+| [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | 70 | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
 | [Yandex Smart Home](https://github.com/raycast/extensions/tree/main/extensions/yandex-smart-home) | 58 | Control Yandex Smart Home devices and run scenarios from Raycast. | devall | macOS, Windows | [store](https://www.raycast.com/devall/yandex-smart-home) |
 | [NMBS Planner](https://github.com/raycast/extensions/tree/main/extensions/nmbs-planner) | 31 | Plan your trainrides with NMBS | Samuel3865 | macOS, Windows | [store](https://www.raycast.com/Samuel3865/nmbs-planner) |

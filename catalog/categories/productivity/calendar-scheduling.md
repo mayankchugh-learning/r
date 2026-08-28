@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 61,537 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
-| [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 39,618 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 61,540 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 39,621 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
 | [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 22,711 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
 | [Google Calendar Epic Time Logger](https://github.com/raycast/extensions/tree/main/extensions/time-logger) | 411 | Helps you register your work to Google Calendar | aramikuto | macOS | [store](https://www.raycast.com/aramikuto/time-logger) |
 | [Nepali Calendar](https://github.com/raycast/extensions/tree/main/extensions/nepali-calendar) | 73 | View and navigate the Nepali calendar (Bikram Sambat) with support for both English and Nepali languages. Customize your view by setting the first day of the w… | adarshdoesntcode | macOS, Windows | [store](https://www.raycast.com/adarshdoesntcode/nepali-calendar) |

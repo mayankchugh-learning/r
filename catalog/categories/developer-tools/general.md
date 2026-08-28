@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 682,618 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 163,317 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 98,433 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 61,740 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
-| [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) | 14,316 | Control Ghostty with Raycast | jarry_chung | macOS | [store](https://www.raycast.com/jarry_chung/ghostty) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 682,681 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 163,332 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 98,442 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 61,743 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
+| [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) | 14,319 | Control Ghostty with Raycast | jarry_chung | macOS | [store](https://www.raycast.com/jarry_chung/ghostty) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,178 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [iTranslate](https://github.com/raycast/extensions/tree/main/extensions/itranslate) | 10,811 | Translate words or sentences, support 36 languages, OCR, history record and translating into multiple languages at the same time. | JinShi | macOS | [store](https://www.raycast.com/JinShi/itranslate) |
 | [Deepseek Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/deepseeker) | 10,662 | Performs one-shot actions with DeepSeek and more | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/deepseeker) |
@@ -17,7 +17,7 @@
 | [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 7,649 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 | [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | 6,443 | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |
 | [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,552 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
-| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,213 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
+| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,214 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
 | [Tunnelblick](https://github.com/raycast/extensions/tree/main/extensions/tunnelblick) | 4,220 | Quickly enable and disable vpn connections | SamuelNitsche | macOS | [store](https://www.raycast.com/SamuelNitsche/tunnelblick) |
 | [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq) | 3,134 | Use the powerful models via Groq from the comfort of Raycast. | ilian | macOS | [store](https://www.raycast.com/ilian/groq) |
 | [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) | 2,699 | Control Yabai using Raycast. Requires yabai to be installed. | krzysztoff1 | macOS | [store](https://www.raycast.com/krzysztoff1/yabai) |
@@ -61,7 +61,7 @@
 | [Kill Node Modules](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) | 551 | Remove selected node_modules | NicolasMontone | macOS, Windows | [store](https://www.raycast.com/NicolasMontone/kill-node-modules) |
 | [SABnzbd](https://github.com/raycast/extensions/tree/main/extensions/sabnzbd) | 532 | Manage SABnzbd locally | jns | macOS | [store](https://www.raycast.com/jns/sabnzbd) |
 | [Gitpod](https://github.com/raycast/extensions/tree/main/extensions/gitpod) | 468 | A blazingly fast way to work with Gitpod | Henit-Palani | macOS | [store](https://www.raycast.com/Henit-Palani/gitpod) |
-| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 459 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
+| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 461 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [Opsgenie](https://github.com/raycast/extensions/tree/main/extensions/opsgenie) | 414 | Manage Opsgenie alerts and incidents. | ricoberger | macOS | [store](https://www.raycast.com/ricoberger/opsgenie) |
 | [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 401 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
 | [CUID Generator](https://github.com/raycast/extensions/tree/main/extensions/cuid-generator) | 394 | A quick way to generate CUIDs | dgrcode | macOS | [store](https://www.raycast.com/dgrcode/cuid-generator) |

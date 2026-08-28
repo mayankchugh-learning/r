@@ -2,13 +2,13 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · **Trackers & Monitors** · [General](./general.md)
 
-36 of 1452 extensions · [← macOS · Productivity](./README.md)
+36 of 1453 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 682,618 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
-| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 106,908 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
-| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,321 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 682,681 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 106,917 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
+| [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,323 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | 3,424 | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |
 | [Monkeytype](https://github.com/raycast/extensions/tree/main/extensions/monkeytype) | 1,425 | Quick access to Monkeytype sections - typing tests, stats, leaderboards, and settings | radouane-tamouss | macOS | [store](https://www.raycast.com/radouane-tamouss/monkeytype) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,279 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |

@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 364,949 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
-| [QR Code Scanner](https://github.com/raycast/extensions/tree/main/extensions/qr-code-scanner) | 15,861 | Simple on-screen QR code scanner. ("Screen recording" permission is required) | StevenRCE0 | macOS | [store](https://www.raycast.com/StevenRCE0/qr-code-scanner) |
+| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 364,995 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
+| [QR Code Scanner](https://github.com/raycast/extensions/tree/main/extensions/qr-code-scanner) | 15,862 | Simple on-screen QR code scanner. ("Screen recording" permission is required) | StevenRCE0 | macOS | [store](https://www.raycast.com/StevenRCE0/qr-code-scanner) |
 | [Two-Factor Authentication Code Generator](https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator) | 6,217 | Quickly access your two-factor authentication codes. | cjdenio | macOS | [store](https://www.raycast.com/cjdenio/two-factor-authentication-code-generator) |
 | [Converter](https://github.com/raycast/extensions/tree/main/extensions/converter) | 4,350 | Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/converter) |
 | [YubiKey Code](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) | 1,030 | Easily get a OTP from your YubiKey | yoyoyeti | macOS | [store](https://www.raycast.com/yoyoyeti/yubikey-code) |

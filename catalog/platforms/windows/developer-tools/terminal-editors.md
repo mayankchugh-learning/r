@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 364,949 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 101,835 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
-| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 67,717 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
-| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 20,655 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
+| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 364,995 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 101,843 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 67,727 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
+| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 20,657 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
 | [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor) | 4,600 | All JSON operations in one editor. | HerbertLu | macOS, Windows | [store](https://www.raycast.com/HerbertLu/json-editor) |
 | [Get SSH Key](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) | 3,608 | Get your local SSH key in a split of a second. | Theon | macOS, Windows | [store](https://www.raycast.com/Theon/get-ssh-key) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,817 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |

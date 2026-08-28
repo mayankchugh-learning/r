@@ -2,7 +2,7 @@
 
 [Converters & Encoders](./converters-encoders.md) · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · [APIs & Scraping](./apis-scraping.md) · **Lookups & References** · [General](./general.md)
 
-37 of 269 extensions · [← macOS · Data](./README.md)
+37 of 270 extensions · [← macOS · Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,7 @@
 | [Atomic Data](https://github.com/raycast/extensions/tree/main/extensions/atomic) | 87 | Search inside your Atomic-Server data | joepio | macOS | [store](https://www.raycast.com/joepio/atomic) |
 | [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs) | 86 | Search for TV show ratings and get individual episode ratings, straight from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/series-rating-graphs) |
 | [Search Lightning Nodes](https://github.com/raycast/extensions/tree/main/extensions/raycast-lighting-node-search) | 75 | A Raycast extension for searching Lightning Nodes | bufo24 | macOS | [store](https://www.raycast.com/bufo24/raycast-lighting-node-search) |
-| [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | 69 | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
+| [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | 70 | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
 | [Dutch License Plate Search](https://github.com/raycast/extensions/tree/main/extensions/rdw-kentekencheck) | 68 | Shows details about Dutch cars by their license plate | jeffreyvanhees | macOS, Windows | [store](https://www.raycast.com/jeffreyvanhees/rdw-kentekencheck) |
 | [Analog Film Library](https://github.com/raycast/extensions/tree/main/extensions/analog-film-library) | 57 | Browse analog films by name, brand, ISO, process, and more | samuelkraft | macOS | [store](https://www.raycast.com/samuelkraft/analog-film-library) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 42 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |

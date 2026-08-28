@@ -1,12 +1,12 @@
 # pernielsentikaer
 
-21 extensions · 92,657 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
+21 extensions · 92,665 downloads · [store](https://www.raycast.com/pernielsentikaer) · [← publishers](../README.md)
 
 ## Fun (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 43,387 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
+| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 43,391 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
 | [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 4,702 | Get a random dad joke | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
 | [Soundboard](https://github.com/raycast/extensions/tree/main/extensions/soundboard) | 1,290 | Use Raycast as a soundboard and bind sounds to hotkeys | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/soundboard) |
 | [FIGlet](https://github.com/raycast/extensions/tree/main/extensions/figlet) | 201 | Generate a FIGlet | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/figlet) |
@@ -26,7 +26,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Urban Dictionary Search](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) | 5,113 | Search on Urban Dictionary | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/urban-dictionary) |
+| [Urban Dictionary Search](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) | 5,115 | Search on Urban Dictionary | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/urban-dictionary) |
 | [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,153 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
 
 ## Uncategorized (1)
@@ -40,7 +40,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,393 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
-| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,790 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,791 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [forScore](https://github.com/raycast/extensions/tree/main/extensions/forscore) | 26 | Manage forScore directly from Raycast | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/forscore) |
 
 ## Data (1)
@@ -61,4 +61,4 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Intermittent Fasting](https://github.com/raycast/extensions/tree/main/extensions/intermittent-fasting) | 66 | Tracks intermittent fasting | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/intermittent-fasting) |
-| [Danish Tax Calculator](https://github.com/raycast/extensions/tree/main/extensions/danish-tax-calculator) | 27 | Calculate your payment after taxes | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/danish-tax-calculator) |
+| [Danish Tax Calculator](https://github.com/raycast/extensions/tree/main/extensions/danish-tax-calculator) | 28 | Calculate your payment after taxes | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/danish-tax-calculator) |

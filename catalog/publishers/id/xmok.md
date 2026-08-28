@@ -1,6 +1,6 @@
 # xmok
 
-114 extensions · 11,749 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+114 extensions · 11,752 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (22)
 
@@ -161,7 +161,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Chatbase](https://github.com/raycast/extensions/tree/main/extensions/chatbase) | 94 | AI agents for magical customer experiences | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/chatbase) |
+| [Chatbase](https://github.com/raycast/extensions/tree/main/extensions/chatbase) | 95 | AI agents for magical customer experiences | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/chatbase) |
 | [Chatwoot](https://github.com/raycast/extensions/tree/main/extensions/chatwoot) | 25 | The modern, open source, self-hosted customer support platform | xmok | macOS | [store](https://www.raycast.com/xmok/chatwoot) |
 
 ### Links & Sharing
@@ -207,7 +207,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy) | 161 | Deploy Anywhere with Total Freedom and Ease. | xmok | macOS | [store](https://www.raycast.com/xmok/dokploy) |
+| [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy) | 162 | Deploy Anywhere with Total Freedom and Ease. | xmok | macOS | [store](https://www.raycast.com/xmok/dokploy) |
 | [NetNewsWire](https://github.com/raycast/extensions/tree/main/extensions/netnewswire) | 153 | NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad | xmok | macOS | [store](https://www.raycast.com/xmok/netnewswire) |
 | [Apify](https://github.com/raycast/extensions/tree/main/extensions/apify) | 139 | Your full-stack platform for web scraping | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/apify) |
 | [Tally](https://github.com/raycast/extensions/tree/main/extensions/tally) | 137 | Tally is the simplest way to create forms, for free. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/tally) |
@@ -224,7 +224,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 195 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |
-| [Papra](https://github.com/raycast/extensions/tree/main/extensions/papra) | 47 | Simple & Secure Document Archiving for Long-Term Storage | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/papra) |
+| [Papra](https://github.com/raycast/extensions/tree/main/extensions/papra) | 48 | Simple & Secure Document Archiving for Long-Term Storage | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/papra) |
 | [Pastery](https://github.com/raycast/extensions/tree/main/extensions/pastery) | 43 | Pastery is the sweetest pastebin in the world. | xmok | macOS | [store](https://www.raycast.com/xmok/pastery) |
 | [Featurebase](https://github.com/raycast/extensions/tree/main/extensions/featurebase) | 37 | The next-gen support & feedback platform for modern teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/featurebase) |
 | [ownCloud](https://github.com/raycast/extensions/tree/main/extensions/owncloud) | 33 | share files and folders, easy and secure | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/owncloud) |

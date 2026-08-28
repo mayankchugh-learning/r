@@ -24,7 +24,7 @@
 | [ben_rowlands](https://www.raycast.com/ben_rowlands) | 1 | 45 | **Developer Tools:** [Roblox Creator Docs](https://github.com/raycast/extensions/tree/main/extensions/roblox-creator-docs) |
 | [ben-greenwood](https://www.raycast.com/ben-greenwood) | 1 | 2,061 | **Developer Tools:** [Code Stash](https://github.com/raycast/extensions/tree/main/extensions/code-stash) |
 | [benbenbang](https://www.raycast.com/benbenbang) | 1 | 74 | **Productivity:** [Clip - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/clip) |
-| [bendews](https://www.raycast.com/bendews) | 1 | 37 | **Security:** [Apple Passwords](https://github.com/raycast/extensions/tree/main/extensions/apple-passwords) |
+| [bendews](https://www.raycast.com/bendews) | 1 | 38 | **Security:** [Apple Passwords](https://github.com/raycast/extensions/tree/main/extensions/apple-passwords) |
 | [benekuehn](https://www.raycast.com/benekuehn) | 2 | 2,720 | **Security:** [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn)<br>**Finance:** [Security Search](https://github.com/raycast/extensions/tree/main/extensions/security-search) |
 | [bengry](https://www.raycast.com/bengry) | 1 | 398 | **Developer Tools:** [Convert TypeScript to JavaScript](https://github.com/raycast/extensions/tree/main/extensions/convert-typescript-to-javascript) |
 | [bengt](https://www.raycast.com/bengt) | 1 | 95 | **Productivity:** [Untis](https://github.com/raycast/extensions/tree/main/extensions/untis) |
@@ -32,7 +32,7 @@
 | [bennettsh](https://www.raycast.com/bennettsh) | 1 | 593 | **Media:** [Playnite Launcher](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) |
 | [benostein](https://www.raycast.com/benostein) | 1 | 215 | **Productivity:** [KeyRaycast](https://github.com/raycast/extensions/tree/main/extensions/keyraycast) |
 | [bensomething](https://www.raycast.com/bensomething) | 3 | 1,141 | **Media:** [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail)<br>**Documentation:** [Craft CMS](https://github.com/raycast/extensions/tree/main/extensions/craft-cms-docs)<br>**Data:** [Beardtown](https://github.com/raycast/extensions/tree/main/extensions/beardtown) |
-| [benvp](https://www.raycast.com/benvp) | 1 | 66,459 | **System:** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) |
+| [benvp](https://www.raycast.com/benvp) | 1 | 66,464 | **System:** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) |
 | [berkaydigital](https://www.raycast.com/berkaydigital) | 1 | 13 | **Productivity:** [Fakecrime Upload](https://github.com/raycast/extensions/tree/main/extensions/fakecrime-upload) |
 | [bert](https://www.raycast.com/bert) | 1 | 215 | **Applications:** [Esse Actions](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) |
 | [betty_van_aken](https://www.raycast.com/betty_van_aken) | 1 | 177 | **Fun:** [Learning Snacks](https://github.com/raycast/extensions/tree/main/extensions/learning-snacks) |
@@ -71,15 +71,15 @@
 | [breadone](https://www.raycast.com/breadone) | 1 | 1,559 | **Security:** [Apple-Like Password](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) |
 | [brian_j_decoder22](https://www.raycast.com/brian_j_decoder22) | 1 | 175 | **Developer Tools:** [MultiForce](https://github.com/raycast/extensions/tree/main/extensions/multi-force) |
 | [brian_wang](https://www.raycast.com/brian_wang) | 1 | 809 | **Productivity:** [Harpoon](https://github.com/raycast/extensions/tree/main/extensions/harpoon) |
-| [brianfakhoury](https://www.raycast.com/brianfakhoury) | 1 | 1,197 | **Productivity:** [Mem](https://github.com/raycast/extensions/tree/main/extensions/mem) |
+| [brianfakhoury](https://www.raycast.com/brianfakhoury) | 1 | 1,198 | **Productivity:** [Mem](https://github.com/raycast/extensions/tree/main/extensions/mem) |
 | [brittany_carusone](https://www.raycast.com/brittany_carusone) | 1 | 438 | **Productivity:** [RapidCap](https://github.com/raycast/extensions/tree/main/extensions/rapidcap) |
 | [brkgng](https://www.raycast.com/brkgng) | 1 | 7 | **Productivity:** [LayoutLock](https://github.com/raycast/extensions/tree/main/extensions/layoutlock) |
-| [broc-dev](https://www.raycast.com/broc-dev) | 1 | 1,572 | **Media:** [Tidal Controller](https://github.com/raycast/extensions/tree/main/extensions/tidal-controller) |
+| [broc-dev](https://www.raycast.com/broc-dev) | 1 | 1,573 | **Media:** [Tidal Controller](https://github.com/raycast/extensions/tree/main/extensions/tidal-controller) |
 | [bruce3x](https://www.raycast.com/bruce3x) | 1 | 230 | **Developer Tools:** [Android Versions](https://github.com/raycast/extensions/tree/main/extensions/android-versions) |
 | [bruno_caruso](https://www.raycast.com/bruno_caruso) | 1 | 16 | **Productivity:** [Magic Home](https://github.com/raycast/extensions/tree/main/extensions/magic-home) |
 | [BrunoMonteiro](https://www.raycast.com/BrunoMonteiro) | 1 | 81 | **Applications:** [Calibre Library](https://github.com/raycast/extensions/tree/main/extensions/calibre-search) |
 | [brunopicinin](https://www.raycast.com/brunopicinin) | 1 | 55 | **Other:** [Swap Commas & Dots](https://github.com/raycast/extensions/tree/main/extensions/swap-commas-dots) |
-| [brusik](https://www.raycast.com/brusik) | 1 | 93 | **Productivity:** [Append Text to File](https://github.com/raycast/extensions/tree/main/extensions/append-to-file) |
+| [brusik](https://www.raycast.com/brusik) | 1 | 94 | **Productivity:** [Append Text to File](https://github.com/raycast/extensions/tree/main/extensions/append-to-file) |
 | [bryantgillespie](https://www.raycast.com/bryantgillespie) | 1 | 152 | **Documentation:** [Directus](https://github.com/raycast/extensions/tree/main/extensions/directus) |
 | [bstncartwright](https://www.raycast.com/bstncartwright) | 1 | 1,284 | **Developer Tools:** [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) |
 | [bucketfish](https://www.raycast.com/bucketfish) | 1 | 537 | **Other:** [Moon Phrase](https://github.com/raycast/extensions/tree/main/extensions/moon-phrase) |

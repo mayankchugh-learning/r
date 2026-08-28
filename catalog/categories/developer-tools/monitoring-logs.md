@@ -1,8 +1,8 @@
 # Monitoring & Logs
 
-25 extensions · [← Developer Tools](./README.md)
+26 extensions · [← Developer Tools](./README.md)
 
-[Monitor ✦](#monitor) (12) · [Logs ✦](#logs) (4) · [General](#general) (9)
+[Monitor ✦](#monitor) (12) · [Logs ✦](#logs) (4) · [General](#general) (10)
 
 *✦ auto-discovered topic group*
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,790 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,791 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,485 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 378 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 311 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
@@ -45,3 +45,4 @@
 | [Incident.io](https://github.com/raycast/extensions/tree/main/extensions/incident-io) | 105 | Gets the incidents from Incident.io | nkl | macOS | [store](https://www.raycast.com/nkl/incident-io) |
 | [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 21 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
 | [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) | 3 | Manages and shows uptime status for services using Phare.io | ApopeOS | macOS | [store](https://www.raycast.com/ApopeOS/phare-io-uptime) |
+| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 0 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |

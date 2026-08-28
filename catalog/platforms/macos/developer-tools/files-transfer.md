@@ -2,11 +2,11 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · **Files & Transfer** · [General](./general.md)
 
-26 of 1097 extensions · [← macOS · Developer Tools](./README.md)
+26 of 1098 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,453 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
+| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,455 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
 | [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | 4,975 | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
 | [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,240 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
 | [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 3,880 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
@@ -22,7 +22,7 @@
 | [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) | 164 | Inspect extended attributes on macOS files, apps, and folders, then select which quarantined items to clear — individually or in bulk — removing the com.apple.… | nurkamol | macOS | [store](https://www.raycast.com/nurkamol/quarantine-manager) |
 | [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 154 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
 | [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) | 151 | Publish the picture in your clipboard to Aliyun oss, and return the URL. | yangxy | macOS | [store](https://www.raycast.com/yangxy/oss) |
-| [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | 120 | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |
+| [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | 121 | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |
 | [Minio Manager](https://github.com/raycast/extensions/tree/main/extensions/minio-manager) | 81 | Manage files in MinIO object storage | 2214372851 | macOS | [store](https://www.raycast.com/2214372851/minio-manager) |
 | [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) | 70 | Open selected Finder file or folder in TextMate | fannarfreyr | macOS | [store](https://www.raycast.com/fannarfreyr/open-in-textmate) |
 | [Figma Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/figma-link-cleaner) | 50 | Clean and shorten Figma URLs instantly. Removes tracking parameters, file slugs, and creates ultra-short fgma.cc links with one hotkey. | iamshubhransh | macOS | [store](https://www.raycast.com/iamshubhransh/figma-link-cleaner) |

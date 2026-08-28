@@ -20,7 +20,7 @@
 | [IP Info](https://github.com/raycast/extensions/tree/main/extensions/ipinfo) | 648 | An extension to use ipinfo.io's API to get information about IP addresses | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/ipinfo) |
 | [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 576 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
 | [Clipboard Type](https://github.com/raycast/extensions/tree/main/extensions/clipboard-type) | 570 | Clipboard Type allows you to paste values of your clipboard, in the places where direct pasting is not allowed, like many web forms or RDP where clipboard is n… | krishna_bhanushali | macOS | [store](https://www.raycast.com/krishna_bhanushali/clipboard-type) |
-| [OpenRouter Manager](https://github.com/raycast/extensions/tree/main/extensions/openrouter-manager) | 304 | View your OpenRouter credits and manage your API keys | ClaPalo | macOS, Windows | [store](https://www.raycast.com/ClaPalo/openrouter-manager) |
+| [OpenRouter Manager](https://github.com/raycast/extensions/tree/main/extensions/openrouter-manager) | 305 | View your OpenRouter credits and manage your API keys | ClaPalo | macOS, Windows | [store](https://www.raycast.com/ClaPalo/openrouter-manager) |
 | [Hipster Ipsum](https://github.com/raycast/extensions/tree/main/extensions/hipster-ipsum) | 220 | Generate placeholder content using the official Hipster Ipsum API | plev | macOS | [store](https://www.raycast.com/plev/hipster-ipsum) |
 | [.NET API Browser](https://github.com/raycast/extensions/tree/main/extensions/dotnet-api-browser) | 173 | Quickly search the .NET API catalog. | vcsjones | macOS | [store](https://www.raycast.com/vcsjones/dotnet-api-browser) |
 | [Neon](https://github.com/raycast/extensions/tree/main/extensions/neon) | 165 | Manage Neon Projects and API Keys | xmok | macOS | [store](https://www.raycast.com/xmok/neon) |
@@ -53,7 +53,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,694 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,719 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,720 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) | 715 | Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats | lucasmezencio | macOS | [store](https://www.raycast.com/lucasmezencio/http-dot-cat) |
 | [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | 305 | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |
 | [rhttp](https://github.com/raycast/extensions/tree/main/extensions/rhttp) | 246 | Full-featured HTTP client with environments, variables, and request chaining | SebastianJarsve | macOS | [store](https://www.raycast.com/SebastianJarsve/rhttp) |
@@ -63,7 +63,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,588 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,592 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,327 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 992 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
 | [Ray Boop](https://github.com/raycast/extensions/tree/main/extensions/ray-boop) | 585 | Port of Boop to Raycast. Run any Boop script on clipboard content. | nathan_schwermann | macOS | [store](https://www.raycast.com/nathan_schwermann/ray-boop) |
@@ -74,7 +74,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,568 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,569 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,523 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
 | [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) | 3,746 | This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) | meguoe | macOS, Windows | [store](https://www.raycast.com/meguoe/ip-tools) |
 | [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,534 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |

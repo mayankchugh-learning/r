@@ -1,6 +1,6 @@
 # Yukai
 
-11 extensions · 9,611 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
+11 extensions · 9,612 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -17,7 +17,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 532 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
-| [Agent Client Protocol](https://github.com/raycast/extensions/tree/main/extensions/agent-client-protocol) | 494 | Connect to AI agents via Agent Client Protocol for coding assistance | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/agent-client-protocol) |
+| [Agent Client Protocol](https://github.com/raycast/extensions/tree/main/extensions/agent-client-protocol) | 495 | Connect to AI agents via Agent Client Protocol for coding assistance | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/agent-client-protocol) |
 
 ## Security (1)
 

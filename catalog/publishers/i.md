@@ -7,7 +7,7 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [i_idz](https://www.raycast.com/i_idz) | 1 | 125 | **Productivity:** [In the Timezone](https://github.com/raycast/extensions/tree/main/extensions/in-the-time-zone) |
-| [i906](https://www.raycast.com/i906) | 1 | 1,141 | **Developer Tools:** [Sourcetree](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) |
+| [i906](https://www.raycast.com/i906) | 1 | 1,142 | **Developer Tools:** [Sourcetree](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) |
 | [iambtshft](https://www.raycast.com/iambtshft) | 1 | 119 | **Media:** [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) |
 | [iamEvan](https://www.raycast.com/iamEvan) | 1 | 601 | **Productivity:** [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox) |
 | [iAmKevinCruz](https://www.raycast.com/iAmKevinCruz) | 1 | 46 | **Productivity:** [TimeCamp](https://github.com/raycast/extensions/tree/main/extensions/timecamp) |
@@ -19,7 +19,7 @@
 | [iamyeizi](https://www.raycast.com/iamyeizi) | 1 | 10,613 | **System:** [Toggle Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) |
 | [iaroslav_naiden](https://www.raycast.com/iaroslav_naiden) | 2 | 2,499 | **System:** [Uptime](https://github.com/raycast/extensions/tree/main/extensions/uptime), [Network Menubar Monitor](https://github.com/raycast/extensions/tree/main/extensions/network-menubar-monitor) |
 | [ibll](https://www.raycast.com/ibll) | 1 | 1,493 | **Media:** [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) |
-| [ickas](https://www.raycast.com/ickas) | 2 | 1,620 | **Design Tools:** [Aspect Raytio](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio)<br>**Developer Tools:** [Time Teller](https://github.com/raycast/extensions/tree/main/extensions/time-teller) |
+| [ickas](https://www.raycast.com/ickas) | 2 | 1,621 | **Design Tools:** [Aspect Raytio](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio)<br>**Developer Tools:** [Time Teller](https://github.com/raycast/extensions/tree/main/extensions/time-teller) |
 | [IdeaBridge](https://www.raycast.com/IdeaBridge) | 1 | 47 | **Productivity:** [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) |
 | [Idered](https://www.raycast.com/Idered) | 1 | 3,827 | **Developer Tools:** [Transform](https://github.com/raycast/extensions/tree/main/extensions/transform) |
 | [idleberg](https://www.raycast.com/idleberg) | 1 | 11 | **Documentation:** [NSIS Reference](https://github.com/raycast/extensions/tree/main/extensions/nsis-reference) |
@@ -27,8 +27,8 @@
 | [IGHOR](https://www.raycast.com/IGHOR) | 1 | 184 | **Uncategorized:** [DockLock Plus](https://github.com/raycast/extensions/tree/main/extensions/docklock-plus) |
 | [ihildy](https://www.raycast.com/iHildy) | 1 | 187 | **Developer Tools:** [Jules Agents](https://github.com/raycast/extensions/tree/main/extensions/jules-agents) |
 | [iisweetheartii](https://www.raycast.com/iisweetheartii) | 1 | 81 | **Developer Tools:** [Terminal Image Paste](https://github.com/raycast/extensions/tree/main/extensions/terminal-image-paste) |
-| [ike-gg](https://www.raycast.com/ike-gg) | 1 | 66,120 | **Productivity:** [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) |
-| [ikupenov](https://www.raycast.com/ikupenov) | 2 | 2,464 | **Communication:** [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram)<br>**Developer Tools:** [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) |
+| [ike-gg](https://www.raycast.com/ike-gg) | 1 | 66,126 | **Productivity:** [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) |
+| [ikupenov](https://www.raycast.com/ikupenov) | 2 | 2,465 | **Communication:** [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram)<br>**Developer Tools:** [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) |
 | [ilian](https://www.raycast.com/ilian) | 3 | 16,254 | **Productivity:** [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api), [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq)<br>**Finance:** [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) |
 | [iloveitaly](https://www.raycast.com/iloveitaly) | 1 | 260 | **Productivity:** [Hyper Focus](https://github.com/raycast/extensions/tree/main/extensions/hyper-focus) |
 | [iman_neo](https://www.raycast.com/iman_neo) | 1 | 251 | **Media:** [YouTube Subscriber Count](https://github.com/raycast/extensions/tree/main/extensions/youtube-subscriber-count) |
@@ -50,7 +50,7 @@
 | [ipiranhaa](https://www.raycast.com/ipiranhaa) | 1 | 415 | **Developer Tools:** [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) |
 | [ireneisdoomed](https://www.raycast.com/ireneisdoomed) | 1 | 43 | **Data:** [Open Targets](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) |
 | [Ironben](https://www.raycast.com/Ironben) | 2 | 84 | **Productivity:** [Seedsnote](https://github.com/raycast/extensions/tree/main/extensions/seedsnote), [Essay](https://github.com/raycast/extensions/tree/main/extensions/essay) |
-| [isfeng](https://www.raycast.com/isfeng) | 3 | 36,551 | **Applications:** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)<br>**Developer Tools:** [CodeBlocks](https://github.com/raycast/extensions/tree/main/extensions/CodeBlocks), [Modify Hash](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) |
+| [isfeng](https://www.raycast.com/isfeng) | 3 | 36,556 | **Applications:** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)<br>**Developer Tools:** [CodeBlocks](https://github.com/raycast/extensions/tree/main/extensions/CodeBlocks), [Modify Hash](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) |
 | [islamessam](https://www.raycast.com/islamessam) | 1 | 61 | **Developer Tools:** [SimpleBackups](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) |
 | [islamtayeb](https://www.raycast.com/islamtayeb) | 1 | 1,574 | **Applications:** [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) |
 | [isma](https://www.raycast.com/isma) | 2 | 5,723 | **Uncategorized:** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)<br>**News:** [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) |
@@ -60,8 +60,8 @@
 | [itsjustxan](https://www.raycast.com/itsjustxan) | 1 | 71 | **Developer Tools:** [RunCloud](https://github.com/raycast/extensions/tree/main/extensions/runcloud) |
 | [itskofio](https://www.raycast.com/itskofio) | 1 | 51 | **Productivity:** [YouTube Highlights](https://github.com/raycast/extensions/tree/main/extensions/youtube-highlights) |
 | [itsmeonli](https://www.raycast.com/itsmeonli) | 1 | 29 | **Fun:** [Wojak Picker](https://github.com/raycast/extensions/tree/main/extensions/wojak-picker) |
-| [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 36,600 | **Productivity:** [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count)<br>**Other:** [Bikeshare Station Status](https://github.com/raycast/extensions/tree/main/extensions/bikeshare-station-status) |
-| [itsnwa](https://www.raycast.com/itsnwa) | 1 | 708 | **Design Tools:** [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) |
+| [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 36,605 | **Productivity:** [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count)<br>**Other:** [Bikeshare Station Status](https://github.com/raycast/extensions/tree/main/extensions/bikeshare-station-status) |
+| [itsnwa](https://www.raycast.com/itsnwa) | 1 | 709 | **Design Tools:** [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) |
 | [IvanWng97](https://www.raycast.com/IvanWng97) | 1 | 4 | **Developer Tools:** [Pixtuoid](https://github.com/raycast/extensions/tree/main/extensions/pixtuoid) |
 | [iwfan](https://www.raycast.com/iwfan) | 2 | 5,670 | **Uncategorized:** [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search)<br>**Finance:** [Beancount Meta](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) |
 | [izadoesdev](https://www.raycast.com/izadoesdev) | 1 | 21 | **Developer Tools:** [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) |

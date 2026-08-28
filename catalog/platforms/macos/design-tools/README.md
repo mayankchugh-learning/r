@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 523,797 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 523,862 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,244 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,556 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
-| [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,044 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
+| [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,045 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,289 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Sip](https://github.com/raycast/extensions/tree/main/extensions/sip) | 2,880 | Access these Sip color management app features from Raycast: show color picker, open contrast checker, open settings, check contrast between two hex values, an… | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/sip) |
 | [Color Shades](https://github.com/raycast/extensions/tree/main/extensions/color-shades) | 2,398 | Generate color shades from a base color and manage your generated color shades palettes. | qeude | macOS | [store](https://www.raycast.com/qeude/color-shades) |
@@ -39,11 +39,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 37,875 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
+| [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 37,877 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
 | [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 25,867 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
 | [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 10,645 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |
-| [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 8,746 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
-| [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 7,937 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
+| [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 8,747 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
+| [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 7,938 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
 | [Material Icons](https://github.com/raycast/extensions/tree/main/extensions/material-icons) | 5,059 | Search and preview Material Icons | creasty | macOS, Windows | [store](https://www.raycast.com/creasty/material-icons) |
 | [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,266 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [Icons8](https://github.com/raycast/extensions/tree/main/extensions/icons8) | 4,189 | Search and download icons using Icons8 large library. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/icons8) |
@@ -56,7 +56,7 @@
 | [React Icons](https://github.com/raycast/extensions/tree/main/extensions/react-icons) | 1,461 | Browse and search react icons. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/react-icons) |
 | [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,422 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,258 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
-| [MynaUI Icons](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons) | 1,068 | Search and Copy MynaUI Icons. | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/mynaui-icons) |
+| [MynaUI Icons](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons) | 1,069 | Search and Copy MynaUI Icons. | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/mynaui-icons) |
 | [Specify](https://github.com/raycast/extensions/tree/main/extensions/specify) | 747 | Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc. | AllanM | macOS | [store](https://www.raycast.com/AllanM/specify) |
 | [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler) | 739 | Copy & Paste Tabler Icons | zavbala | macOS | [store](https://www.raycast.com/zavbala/tabler) |
 | [Supernova](https://github.com/raycast/extensions/tree/main/extensions/supernova) | 620 | Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in yo… | JiriTrecak | macOS | [store](https://www.raycast.com/JiriTrecak/supernova) |
@@ -79,9 +79,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 27,123 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
+| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 27,125 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
 | [Text Decorator](https://github.com/raycast/extensions/tree/main/extensions/text-decorator) | 3,357 | Super cool unicode text magic. Use 𝐛𝐨𝐥𝐝, 𝒊𝒕𝒂𝒍𝒊𝒄𝒔, and 🅜🅞🅡🅔 🄲🅁🄰🅉🅈 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 fonts on Facebook, Twitter, and everywhere else. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/text-decorator) |
-| [Font Search](https://github.com/raycast/extensions/tree/main/extensions/font-search) | 1,923 | Search locally installed fonts, as displayed in font book. | tnixc | macOS | [store](https://www.raycast.com/tnixc/font-search) |
+| [Font Search](https://github.com/raycast/extensions/tree/main/extensions/font-search) | 1,924 | Search locally installed fonts, as displayed in font book. | tnixc | macOS | [store](https://www.raycast.com/tnixc/font-search) |
 | [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter) | 171 | Convert fonts to TTF, WOFF, WOFF2, and EOT formats directly from Raycast | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/font-converter) |
 | [Nerd Font Picker](https://github.com/raycast/extensions/tree/main/extensions/nerd-font-picker) | 138 | Browse and copy Nerd Font glyphs from your installed fonts | kud | macOS | [store](https://www.raycast.com/kud/nerd-font-picker) |
 | [Install Fonts](https://github.com/raycast/extensions/tree/main/extensions/install-fonts) | 16 | Install fonts from Finder selections, folders, or zip files. | will_thresher | macOS | [store](https://www.raycast.com/will_thresher/install-fonts) |
@@ -92,7 +92,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 46,047 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
+| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 46,049 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
 | [Excalidraw](https://github.com/raycast/extensions/tree/main/extensions/excalidraw) | 1,557 | allow easy access to your excalidraw boards from Raycast! | slyguy5646 | macOS | [store](https://www.raycast.com/slyguy5646/excalidraw) |
 | [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch) | 928 | Frictionless Workspace Browsing | aesign | macOS | [store](https://www.raycast.com/aesign/sketch) |
 | [Figma Variables](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) | 740 | Access Figma variables in Raycast | martin_molcrette | macOS | [store](https://www.raycast.com/martin_molcrette/figma-variables) |
@@ -107,9 +107,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 62,752 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
-| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 24,669 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
-| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,562 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
+| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 62,758 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
+| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 24,671 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
+| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,563 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
 | [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,449 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,562 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,474 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
@@ -151,7 +151,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Antd](https://github.com/raycast/extensions/tree/main/extensions/antd-open-browser) | 737 | Quickly open Antd components | crazyair | macOS | [store](https://www.raycast.com/crazyair/antd-open-browser) |
-| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 681 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
+| [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) | 682 | Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. | saschaeggi | macOS | [store](https://www.raycast.com/saschaeggi/gitlab-docs) |
 | [Primer](https://github.com/raycast/extensions/tree/main/extensions/primer) | 202 | Search and navigate GitHub's Primer Design System | cole | macOS | [store](https://www.raycast.com/cole/primer) |
 | [Braid Design System](https://github.com/raycast/extensions/tree/main/extensions/braid) | 199 | Search and use Braid Components and Iconography from Raycast | felixhabib | macOS | [store](https://www.raycast.com/felixhabib/braid) |
 | [Geist UI Components & Hooks](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) | 74 | This extension provides links to components & hooks in Geist UI Documentation | RahulatRaycast | macOS | [store](https://www.raycast.com/RahulatRaycast/geist-ui-components) |
@@ -160,7 +160,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 34,465 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
+| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 34,467 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
 | [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) | 311 | Another boring piece. Daily. | yevgen_glukhov | macOS, Windows | [store](https://www.raycast.com/yevgen_glukhov/another-boring-piece) |
 | [iShader](https://github.com/raycast/extensions/tree/main/extensions/ishader) | 179 | Apply artistic shader effects to images including dithering, ASCII art, and brick-style transformations with real-time preview | egirlevadniy | Windows, macOS | [store](https://www.raycast.com/egirlevadniy/ishader) |
 | [ASCII Art Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/ascii-art-wallpaper) | 158 | Browse artworks from the Metropolitan Museum of Art and generate ASCII art wallpapers | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/ascii-art-wallpaper) |
@@ -170,7 +170,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Tailwind Size Conversion](https://github.com/raycast/extensions/tree/main/extensions/px-to-tailwind) | 1,474 | Converts pixels to Tailwind class values and vice versa | kemiljk | macOS | [store](https://www.raycast.com/kemiljk/tailwind-size-conversion) |
-| [Aspect Raytio](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio) | 1,311 | Calculate easily the aspect ratio for different sizes based on a width or height. | ickas | macOS | [store](https://www.raycast.com/ickas/aspect-raytio) |
+| [Aspect Raytio](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio) | 1,312 | Calculate easily the aspect ratio for different sizes based on a width or height. | ickas | macOS | [store](https://www.raycast.com/ickas/aspect-raytio) |
 | [Golden Ratio](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) | 358 | Gold ratio and silver ratio calculation tool | yang_monch | macOS | [store](https://www.raycast.com/yang_monch/golden-ratio) |
 | [Pixels to Viewport Width or Height](https://github.com/raycast/extensions/tree/main/extensions/convert-px-to-vw-vh) | 325 | Fast conversion of pixels to vw or vh depending on the size of your viewport. | Atiipik | macOS | [store](https://www.raycast.com/Atiipik/convert-px-to-vw-vh) |
 | [Paper Search](https://github.com/raycast/extensions/tree/main/extensions/papersize) | 213 | Search international paper sizes in metric and imperial units | mihaeltomic | macOS | [store](https://www.raycast.com/mihaeltomic/papersize) |
@@ -180,10 +180,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 98,433 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
-| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 47,511 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,261 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
-| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 18,074 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 98,442 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 47,514 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,265 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 18,075 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,178 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
 | [SF Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) | 10,414 | Search and copy SF Symbols | jffrykkn | macOS | [store](https://www.raycast.com/jffrykkn/sf-symbols-search) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,817 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
@@ -198,7 +198,7 @@
 | [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) | 1,102 | Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. | peeks | macOS | [store](https://www.raycast.com/peeks/webflow-sites) |
 | [iOS Human Interface Guidelines](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) | 1,084 | Shows you the iOS HIG's info for quick reference | eliperkins | macOS | [store](https://www.raycast.com/eliperkins/raycast-ios-hig) |
 | [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 900 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
-| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 708 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
+| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 709 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 675 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [Outline Page](https://github.com/raycast/extensions/tree/main/extensions/outline-page) | 650 | Check for CSS bugs by outlining all the elements in your web page. | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/outline-page) |
 | [Paper](https://github.com/raycast/extensions/tree/main/extensions/paper) | 520 | Create and organize your ideas, work, etc., in Markdown files by category. | luctst | macOS | [store](https://www.raycast.com/luctst/paper) |

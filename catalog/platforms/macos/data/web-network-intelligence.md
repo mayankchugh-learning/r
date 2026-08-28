@@ -2,14 +2,14 @@
 
 [Converters & Encoders](./converters-encoders.md) · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · **Web & Network Intelligence** · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · [APIs & Scraping](./apis-scraping.md) · [Lookups & References](./lookups-references.md) · [General](./general.md)
 
-18 of 269 extensions · [← macOS · Data](./README.md)
+19 of 270 extensions · [← macOS · Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,719 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
-| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,213 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,720 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,214 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
 | [Stock Lookup](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) | 1,993 | Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alp… | jones-sam | macOS | [store](https://www.raycast.com/jones-sam/stock-lookup) |
-| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,263 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
+| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,264 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
 | [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 880 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
 | [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 805 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) | 715 | Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats | lucasmezencio | macOS | [store](https://www.raycast.com/lucasmezencio/http-dot-cat) |
@@ -24,3 +24,4 @@
 | [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | 55 | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
 | [Host.io](https://github.com/raycast/extensions/tree/main/extensions/host-io) | 45 | A Powerful and Fast Domain Name Data API | xmok | macOS | [store](https://www.raycast.com/xmok/host-io) |
 | [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 21 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
+| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 0 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |

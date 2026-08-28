@@ -2,11 +2,11 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · **Team & Business Tools** · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-17 of 1452 extensions · [← macOS · Productivity](./README.md)
+17 of 1453 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 294,421 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 294,452 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
 | [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 17,493 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
 | [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,308 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
 | [Airtable](https://github.com/raycast/extensions/tree/main/extensions/airtable) | 2,462 | List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. | marks | macOS | [store](https://www.raycast.com/marks/raycast-airtable-extension) |

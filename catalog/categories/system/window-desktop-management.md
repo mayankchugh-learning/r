@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 22,584 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
-| [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 15,181 | Control AeroSpace workspaces, windows, shortcuts, and configuration from Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
+| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 22,585 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
+| [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) | 15,184 | Control AeroSpace workspaces, windows, shortcuts, and configuration from Raycast | limonkufu | macOS | [store](https://www.raycast.com/limonkufu/aerospace) |
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,804 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) | 4,753 | Tile open windows into layouts | teemu_suvinen | macOS | [store](https://www.raycast.com/teemu_suvinen/window-layouts) |
 | [Sequoia Window Tiling](https://github.com/raycast/extensions/tree/main/extensions/sequoia-tiling) | 1,012 | Map macOS Sequoia tiling commands to Raycast actions with friendly shortcuts. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/sequoia-tiling) |
@@ -44,7 +44,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [NameSpaces](https://github.com/raycast/extensions/tree/main/extensions/namespaces) | 4,146 | Create named aliases for your macOS Spaces and easily switch between them from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/namespaces) |
-| [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) | 975 | Analyze disk space usage and identify large files and folders in your home directory | easymikey | macOS | [store](https://www.raycast.com/easymikey/disk-usage) |
+| [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) | 976 | Analyze disk space usage and identify large files and folders in your home directory | easymikey | macOS | [store](https://www.raycast.com/easymikey/disk-usage) |
 | [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner) | 173 | Scan and clean developer caches, build artifacts, and orphaned dependencies to reclaim disk space | Undolog | macOS | [store](https://www.raycast.com/Undolog/dev-cache-cleaner) |
 | [Spacer](https://github.com/raycast/extensions/tree/main/extensions/spacer) | 127 | Name your spaces & more... | jd-solanki | macOS | [store](https://www.raycast.com/jd-solanki/spacer) |
 | [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | 47 | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |

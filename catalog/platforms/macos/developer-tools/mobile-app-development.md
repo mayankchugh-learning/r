@@ -2,12 +2,12 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · **Mobile & App Development** · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-30 of 1097 extensions · [← macOS · Developer Tools](./README.md)
+30 of 1098 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,447 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
-| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,820 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,448 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) | 8,822 | Search for apps in the Mac App Store from Raycast! | say4n | macOS | [store](https://www.raycast.com/say4n/mac-app-store-search) |
 | [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) | 2,744 | Airport is the best place to discover new TestFlight apps from developers. | siddharthsharma94 | macOS | [store](https://www.raycast.com/siddharthsharma94/airport) |
 | [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,825 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS, Windows | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
 | [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) | 1,625 | Adds commands to control the Alacritty terminal emulator. | jose-elias-alvarez | macOS | [store](https://www.raycast.com/jose-elias-alvarez/alacritty) |

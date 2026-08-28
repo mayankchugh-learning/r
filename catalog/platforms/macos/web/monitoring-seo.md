@@ -2,11 +2,11 @@
 
 [AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · **Monitoring & SEO** · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-15 of 463 extensions · [← macOS · Web](./README.md)
+15 of 464 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,452 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
+| [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,454 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
 | [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | 3,424 | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,316 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
 | [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | 848 | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |

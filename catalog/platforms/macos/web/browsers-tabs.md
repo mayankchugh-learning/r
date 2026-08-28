@@ -2,11 +2,11 @@
 
 [AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · **Browsers & Tabs** · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-8 of 463 extensions · [← macOS · Web](./README.md)
+8 of 464 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 54,743 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 54,747 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
 | [Font Sniper](https://github.com/raycast/extensions/tree/main/extensions/font-sniper) | 5,827 | Identify and download fonts from any website. Disclaimer: FontSniper detects loaded browser fonts for testing/research only. Read more in README | riomadeit | macOS, Windows | [store](https://www.raycast.com/riomadeit/font-sniper) |
 | [Refresh Browsers](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) | 336 | Refresh all browser tabs | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/refresh-browsers) |
 | [Fathom Analytics](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics) | 234 | Gain quick insights into your Fathom Analytics sites, check stats and open a browser directly to the dashboard or site. | danielferguson | macOS | [store](https://www.raycast.com/danielferguson/fathom-analytics) |

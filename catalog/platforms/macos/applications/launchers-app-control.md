@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 40,645 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
+| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 40,650 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
 | [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,229 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
 | [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,111 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,404 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
@@ -17,7 +17,7 @@
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,477 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
 | [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,521 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
 | [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,436 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
-| [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,341 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
+| [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,342 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
 | [New Instance](https://github.com/raycast/extensions/tree/main/extensions/raycast-new-instance) | 1,122 | Launch a new instance of any installed application on your Mac | Caramel | macOS | [store](https://www.raycast.com/Caramel/raycast-new-instance) |
 | [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 999 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
 | [Say No to Notch](https://github.com/raycast/extensions/tree/main/extensions/say-no-to-notch) | 909 | Control MacBook Notch via Say No to Notch | honghao | macOS | [store](https://www.raycast.com/honghao/say-no-to-notch) |
@@ -31,7 +31,7 @@
 | [Modrinth](https://github.com/raycast/extensions/tree/main/extensions/modrinth) | 300 | Your Minecraft modding companion - find mods, resource packs, and more | soradotwav | macOS, Windows | [store](https://www.raycast.com/soradotwav/modrinth) |
 | [F.lux Control](https://github.com/raycast/extensions/tree/main/extensions/flux) | 261 | Control f.lux from Raycast. | allejo | macOS | [store](https://www.raycast.com/allejo/flux) |
 | [React DevTools](https://github.com/raycast/extensions/tree/main/extensions/react-devtools) | 237 | Launch React DevTools command-line application | gutenye | macOS | [store](https://www.raycast.com/gutenye/react-devtools) |
-| [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 223 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
+| [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 224 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
 | [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) | 208 | Control your AirSync app directly from Raycast | sameerasw | macOS | [store](https://www.raycast.com/sameerasw/airsync) |
 | [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 156 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
 | [Leafcast](https://github.com/raycast/extensions/tree/main/extensions/leafcast) | 133 | Control your Nanoleaf panels with Raycast! Toggle power, set the current scene, and more. | syropian | macOS | [store](https://www.raycast.com/syropian/leafcast) |

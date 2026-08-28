@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,457 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
+| [Spaces](https://github.com/raycast/extensions/tree/main/extensions/spaces) | 5,458 | Declutter and organize your workspace in 1-click | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/spaces) |
 | [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq) | 3,134 | Use the powerful models via Groq from the comfort of Raycast. | ilian | macOS | [store](https://www.raycast.com/ilian/groq) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,867 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Guitar Chords](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) | 1,466 | Lookup chord diagrams for guitar | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/guitar-chords) |
@@ -47,7 +47,7 @@
 | [Lacinka](https://github.com/raycast/extensions/tree/main/extensions/lacinka) | 80 | Use belarussian lacinka on the go | colorage | macOS | [store](https://www.raycast.com/colorage/lacinka) |
 | [Greip](https://github.com/raycast/extensions/tree/main/extensions/greip) | 75 | Use endpoint from greip.io directly from Raycast | ghadeer | macOS | [store](https://www.raycast.com/ghadeer/greip) |
 | [Lift Calculator](https://github.com/raycast/extensions/tree/main/extensions/lift-calculator) | 73 | Calculate various lifting numbers including 1RM, warmup sets, and training volumes. | marianbreitmeyer | macOS | [store](https://www.raycast.com/marianbreitmeyer/lift-calculator) |
-| [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | 69 | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
+| [DICOM](https://github.com/raycast/extensions/tree/main/extensions/dicom) | 70 | DICOM tag lookup | sedghi | macOS, Windows | [store](https://www.raycast.com/sedghi/dicom) |
 | [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) | 68 | Explore your Grafbase projects, branches, deployments, and commit history. | grafbase (org) | macOS | [store](https://www.raycast.com/grafbase/grafbase) |
 | [Intermittent Fasting](https://github.com/raycast/extensions/tree/main/extensions/intermittent-fasting) | 66 | Tracks intermittent fasting | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/intermittent-fasting) |
 | [Wemo](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) | 61 | Control your Wemo devices from Raycast | iamnatch | macOS | [store](https://www.raycast.com/iamnatch/raycast-wemo) |
@@ -60,7 +60,7 @@
 | [MouseHunt Helper](https://github.com/raycast/extensions/tree/main/extensions/mousehunt-helper) | 36 | Find the best attraction rates for different mice | chesterhow | macOS | [store](https://www.raycast.com/chesterhow/mousehunt-helper) |
 | [Nordic Energy Prices](https://github.com/raycast/extensions/tree/main/extensions/nordic-energy-prices) | 33 | Get today's energy prices in the Nordic countries (Denmark, Sweden, Norway, Finland) | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/nordic-energy-prices) |
 | [NMBS Planner](https://github.com/raycast/extensions/tree/main/extensions/nmbs-planner) | 31 | Plan your trainrides with NMBS | Samuel3865 | macOS, Windows | [store](https://www.raycast.com/Samuel3865/nmbs-planner) |
-| [Danish Tax Calculator](https://github.com/raycast/extensions/tree/main/extensions/danish-tax-calculator) | 27 | Calculate your payment after taxes | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/danish-tax-calculator) |
+| [Danish Tax Calculator](https://github.com/raycast/extensions/tree/main/extensions/danish-tax-calculator) | 28 | Calculate your payment after taxes | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/danish-tax-calculator) |
 | [Nepali Date Converter](https://github.com/raycast/extensions/tree/main/extensions/nepali-date-converter) | 27 | It converts current, provided date to Nepali date | beedhan | macOS | [store](https://www.raycast.com/beedhan/nepali-date-converter) |
 | [Who Is off Today?](https://github.com/raycast/extensions/tree/main/extensions/who-is-off-today) | 26 | See who is off today from remote.com | pejman_yaghmaie | macOS | [store](https://www.raycast.com/pejman_yaghmaie/who-is-off-today) |
 | [Nightscout](https://github.com/raycast/extensions/tree/main/extensions/nightscout) | 22 | View statistics and trends from your Nightscout instance directly in Raycast. | zachsea | macOS | [store](https://www.raycast.com/zachsea/nightscout) |

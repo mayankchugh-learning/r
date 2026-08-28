@@ -1,6 +1,6 @@
 # General
 
-11 extensions · [← URL & Domain Tools](./README.md)
+12 extensions · [← URL & Domain Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -15,3 +15,4 @@
 | [Vanishlink](https://github.com/raycast/extensions/tree/main/extensions/vanishlink) | 42 | Temporary link manager that vanishes links after inactivity | n_seiji | macOS | [store](https://www.raycast.com/n_seiji/vanishlink) |
 | [Cloudstash](https://github.com/raycast/extensions/tree/main/extensions/cloudstash) | 6 | Save links to Cloudstash | birdie | macOS | [store](https://www.raycast.com/birdie/cloudstash) |
 | [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | 6 | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/the-forest-link) |
+| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 0 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |

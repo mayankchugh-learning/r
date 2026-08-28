@@ -10,17 +10,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 62,752 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
-| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 34,465 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
-| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,562 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
+| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 62,758 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
+| [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 34,467 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
+| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background) | 15,563 | Removes the background from an image with remove.bg | maantje | macOS | [store](https://www.raycast.com/maantje/remove-background) |
 | [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) | 10,100 | Remove background from image with the Mac Vision API | xmorse | macOS | [store](https://www.raycast.com/xmorse/remove-background-powered-by-mac) |
 | [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,449 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
 | [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 5,011 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
-| [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu) | 3,111 | Easy retrieval of web emoji and GIF images while chatting. | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/doutu) |
+| [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu) | 3,112 | Easy retrieval of web emoji and GIF images while chatting. | gaoyang | macOS | [store](https://www.raycast.com/gaoyang/doutu) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,635 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,562 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) | 1,493 | Store and retrieve images quickly from Raycast! | ibll | macOS, Windows | [store](https://www.raycast.com/ibll/image-wallet) |
-| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,263 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
+| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,264 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
 | [Rename Images with AI](https://github.com/raycast/extensions/tree/main/extensions/rename-images-with-ai) | 1,137 | AI-powered images and screenshots renaming extension that intelligently names files based on their content | husnainfareed | macOS | [store](https://www.raycast.com/husnainfareed/rename-images-with-ai) |
 | [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 833 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
 | [DuckDuckGo Image Search](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-image-search) | 662 | Search Images inside Raycast by DuckDuckGo Image! | jag-k | macOS, Windows | [store](https://www.raycast.com/jag-k/duckduckgo-image-search) |
@@ -60,7 +60,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 92,891 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
+| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 92,895 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
 | [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos) | 954 | Browse your recent Apple Photos in a grid and paste the latest photo directly into any app. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/apple-photos) |
 | [Pika](https://github.com/raycast/extensions/tree/main/extensions/pika) | 919 | Beautify screenshots quickly using pika.style | rishi | macOS | [store](https://www.raycast.com/rishi/pika) |
 | [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 900 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |

@@ -2,14 +2,14 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · **APIs & Networking** · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-54 of 1097 extensions · [← macOS · Developer Tools](./README.md)
+54 of 1098 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,588 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,592 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,694 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,719 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,568 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,720 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,569 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,695 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
 | [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 7,541 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 5,523 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
@@ -34,7 +34,7 @@
 | [Clipboard Type](https://github.com/raycast/extensions/tree/main/extensions/clipboard-type) | 570 | Clipboard Type allows you to paste values of your clipboard, in the places where direct pasting is not allowed, like many web forms or RDP where clipboard is n… | krishna_bhanushali | macOS | [store](https://www.raycast.com/krishna_bhanushali/clipboard-type) |
 | [Format GraphQL](https://github.com/raycast/extensions/tree/main/extensions/format-graphql) | 525 | Formats a GraphQL document | tngranados | macOS | [store](https://www.raycast.com/tngranados/format-graphql) |
 | [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | 305 | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |
-| [OpenRouter Manager](https://github.com/raycast/extensions/tree/main/extensions/openrouter-manager) | 304 | View your OpenRouter credits and manage your API keys | ClaPalo | macOS, Windows | [store](https://www.raycast.com/ClaPalo/openrouter-manager) |
+| [OpenRouter Manager](https://github.com/raycast/extensions/tree/main/extensions/openrouter-manager) | 305 | View your OpenRouter credits and manage your API keys | ClaPalo | macOS, Windows | [store](https://www.raycast.com/ClaPalo/openrouter-manager) |
 | [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer) | 281 | Lists and changes current network location on Mac. | rcouto | macOS | [store](https://www.raycast.com/rcouto/mac-network-location-changer) |
 | [rhttp](https://github.com/raycast/extensions/tree/main/extensions/rhttp) | 246 | Full-featured HTTP client with environments, variables, and request chaining | SebastianJarsve | macOS | [store](https://www.raycast.com/SebastianJarsve/rhttp) |
 | [Hipster Ipsum](https://github.com/raycast/extensions/tree/main/extensions/hipster-ipsum) | 220 | Generate placeholder content using the official Hipster Ipsum API | plev | macOS | [store](https://www.raycast.com/plev/hipster-ipsum) |

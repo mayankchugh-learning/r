@@ -34,7 +34,7 @@
 | [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,217 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
 | [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,633 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
 | [Binance Portfolio](https://github.com/raycast/extensions/tree/main/extensions/binance) | 1,107 | Track your Binance portfolio | grzegorzkrukowski | macOS | [store](https://www.raycast.com/grzegorzkrukowski/binance) |
-| [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,036 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
+| [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,037 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
 | [Coinpaprika](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) | 784 | Cryptocurrency Prices & Statistics | gumbleliks | macOS | [store](https://www.raycast.com/gumbleliks/coinpaprika) |
 | [DEX Screener](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) | 339 | Search token pair in dexscreener.com | wp-lai | macOS | [store](https://www.raycast.com/wp-lai/dex-screener) |
 | [Blockchain Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) | 320 | Track and caculate blockchain gas fees right in your Raycast! | Vonernue | macOS | [store](https://www.raycast.com/Vonernue/blockchain-gas-tracker) |
@@ -67,10 +67,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 18,078 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
+| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 18,082 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
 | [Wise Quotes](https://github.com/raycast/extensions/tree/main/extensions/wise-quotes) | 688 | Effortlessly calculate international money transfers between USD and any target currency using the Wise API. Instantly generate quotes, access exchange rates,… | hugoliconv | macOS | [store](https://www.raycast.com/hugoliconv/wise-quotes) |
 | [Banca d'Italia Currency Converter](https://github.com/raycast/extensions/tree/main/extensions/banca-d-italia-currency-converter) | 537 | Convert currencies based on the Banca d'Italia exchange rates. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/banca-d-italia-currency-converter) |
-| [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) | 167 | View currency rates and all your accounts in monobank. | danulqua | macOS, Windows | [store](https://www.raycast.com/danulqua/monobank) |
+| [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) | 168 | View currency rates and all your accounts in monobank. | danulqua | macOS, Windows | [store](https://www.raycast.com/danulqua/monobank) |
 | [Dollar Blue](https://github.com/raycast/extensions/tree/main/extensions/dollar-blue) | 54 | Gives you the exchange rate of the "Parallel" US Dollar against Argentine Peso | agus | macOS | [store](https://www.raycast.com/agus/dollar-blue) |
 | [Dolar Hoy Argentina](https://github.com/raycast/extensions/tree/main/extensions/dolar-hoy) | 34 | US Dollars conversion to Argentine Pesos | Gusta | macOS | [store](https://www.raycast.com/Gusta/dolar-hoy) |
 | [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) | 16 | Convert currencies and look up exchange rates for any date back to 1999, powered by UniRateAPI. | rob_brown96cc | Windows, macOS | [store](https://www.raycast.com/rob_brown96cc/unirate-currency) |
@@ -174,7 +174,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 241,876 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 241,887 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,817 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,474 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,471 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |

@@ -7,10 +7,10 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [waj](https://www.raycast.com/waj) | 1 | 176 | **Developer Tools:** [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) |
-| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 101,835 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
+| [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 101,843 | **Developer Tools:** [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) |
 | [wdeu](https://www.raycast.com/wdeu) | 3 | 27 | **Developer Tools:** [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync)<br>**Documentation:** [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup)<br>**Finance:** [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) |
 | [web3bio](https://www.raycast.com/web3bio) | 1 | 104 | **Developer Tools:** [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) |
-| [webdiego](https://www.raycast.com/webdiego) | 1 | 2,581 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
+| [webdiego](https://www.raycast.com/webdiego) | 1 | 2,582 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
 | [webpro](https://www.raycast.com/webpro) | 1 | 844 | **Developer Tools:** [GitHub Search](https://github.com/raycast/extensions/tree/main/extensions/github-search) |
 | [weicodes](https://www.raycast.com/weicodes) | 1 | 1,713 | **Uncategorized:** [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) |
 | [wellsgz](https://www.raycast.com/wellsgz) | 1 | 150 | **System:** [Handoff Toggle](https://github.com/raycast/extensions/tree/main/extensions/handoff-toggle) |

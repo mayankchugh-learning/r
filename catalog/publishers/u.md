@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [u-ran](https://www.raycast.com/u-ran) | 1 | 922 | **Applications:** [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) |
 | [u2l](https://www.raycast.com/u2l) | 1 | 2 | **Productivity:** [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) |
-| [ubergraham](https://www.raycast.com/ubergraham) | 1 | 85 | **Other:** [ICD10 Lookup](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) |
+| [ubergraham](https://www.raycast.com/ubergraham) | 1 | 86 | **Other:** [ICD10 Lookup](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) |
 | [ubinatus](https://www.raycast.com/ubinatus) | 1 | 1,062 | **Developer Tools:** [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) |
 | [ubuntudroid](https://www.raycast.com/ubuntudroid) | 1 | 406 | **Developer Tools:** [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) |
 | [udus](https://www.raycast.com/udus) | 1 | 80 | **Media:** [Gyazo Uploader](https://github.com/raycast/extensions/tree/main/extensions/gyazo-uploader) |
@@ -21,7 +21,7 @@
 | [Undolog](https://www.raycast.com/Undolog) | 5 | 2,583 | **System:** [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks), [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates)<br>**Productivity:** [Sync Folders](https://github.com/raycast/extensions/tree/main/extensions/sync-folders)<br>**Developer Tools:** [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner), [WP Bones](https://github.com/raycast/extensions/tree/main/extensions/wp-bones) |
 | [unitech](https://www.raycast.com/ordin) | 1 | 56 | **Other:** [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) |
 | [unpopular](https://www.raycast.com/unpopular) | 1 | 60 | **News:** [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) |
-| [unreadablename](https://www.raycast.com/unreadablename) | 1 | 1,143 | **Developer Tools:** [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) |
+| [unreadablename](https://www.raycast.com/unreadablename) | 1 | 1,144 | **Developer Tools:** [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) |
 | [untitledpng](https://www.raycast.com/untitledpng) | 1 | 89 | **Productivity:** [Save Clipboard](https://github.com/raycast/extensions/tree/main/extensions/save-clipboard) |
 | [uranium](https://www.raycast.com/uranium) | 1 | 17 | **Media:** [NFT Primitive Tools](https://github.com/raycast/extensions/tree/main/extensions/uranium-raycast-plugin) |
 | [user_c640ee8bc38faa8cdb2f](https://www.raycast.com/user_c640ee8bc38faa8cdb2f) | 1 | 79 | **Web:** [Recap](https://github.com/raycast/extensions/tree/main/extensions/recap) |
