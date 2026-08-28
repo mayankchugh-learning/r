@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 241,887 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,817 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 241,962 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,819 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [LaTeX to Image](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) | 1,474 | Converts LaTeX text to image. Copy the image to the Clipboard. | Noamko | macOS | [store](https://www.raycast.com/Noamko/quick-latex) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,471 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [TradingView Controls](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) | 1,461 | Controls TradingView from within Raycast | skaj | macOS | [store](https://www.raycast.com/skaj/tradingview-controls) |
@@ -23,7 +23,7 @@
 | [Recurly](https://github.com/raycast/extensions/tree/main/extensions/recurly) | 28 | A smallish client for the Recurly API | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/recurly) |
 | [Security Search](https://github.com/raycast/extensions/tree/main/extensions/security-search) | 26 | Searches for securities via name to get the ISIN or via ISIN to get the name | benekuehn | macOS | [store](https://www.raycast.com/benekuehn/security-search) |
 | [TV2 - Denmark](https://github.com/raycast/extensions/tree/main/extensions/tv2---denmark) | 26 | Get the latest news from TV2 Denmark | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/tv2---denmark) |
-| [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 23 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |
+| [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 24 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |
 | [Rewardful](https://github.com/raycast/extensions/tree/main/extensions/rewardful) | 21 | Unofficial Rewardful extension | alexs | macOS | [store](https://www.raycast.com/alexs/rewardful) |
 | [Defichain Dobby](https://github.com/raycast/extensions/tree/main/extensions/defichain-dobby) | 17 | Show your current Defichain vaults, setup in https://defichain-dobby.com/ | adrian-schnell | macOS | [store](https://www.raycast.com/adrian-schnell/defichain-dobby) |
 | [Bitfinex](https://github.com/raycast/extensions/tree/main/extensions/bitfinex) | 15 | A Raycast extension built for Bitfinex margin funding | Yukai | macOS | [store](https://www.raycast.com/Yukai/bitfinex) |

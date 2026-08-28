@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 22,796 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
-| [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,443 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
+| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 22,799 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
+| [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,444 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
 | [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,854 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
 | [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor) | 1,563 | Search the Cursor Documentation right from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/cursor) |
 | [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,215 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
@@ -37,7 +37,7 @@
 | [Retool Documentation](https://github.com/raycast/extensions/tree/main/extensions/retool) | 199 | Search the Retool documentation from Raycast | andre347 | macOS | [store](https://www.raycast.com/andre347/retool-documentation) |
 | [Node Release Notes](https://github.com/raycast/extensions/tree/main/extensions/node-release-notes) | 183 | Quickly browse and access detailed information of Node.js versions. Find release notes, publication dates, and documentation links for any Node.js version. Ide… | fil | macOS | [store](https://www.raycast.com/fil/node-release-notes) |
 | [Serverless Framework Docs](https://github.com/raycast/extensions/tree/main/extensions/serverless-framework-docs) | 182 | Quickly search through serverless framework documentation and open it in the browser | yemilgr | macOS | [store](https://www.raycast.com/yemilgr/serverless-framework-docs) |
-| [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack) | 176 | Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop. | huskii | macOS | [store](https://www.raycast.com/huskii/bookstack) |
+| [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack) | 177 | Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop. | huskii | macOS | [store](https://www.raycast.com/huskii/bookstack) |
 | [WebKit Developer Documentation](https://github.com/raycast/extensions/tree/main/extensions/webkit-developer-docs) | 166 | Search and view WebKit docs | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/webkit-developer-docs) |
 | [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 161 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
 | [Directus](https://github.com/raycast/extensions/tree/main/extensions/directus) | 152 | Search the documentation for Directus – the world's leading Open Data Platform. | bryantgillespie | macOS | [store](https://www.raycast.com/bryantgillespie/directus) |
@@ -74,8 +74,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 16,067 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
-| [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,890 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
+| [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 16,071 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
+| [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,895 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
 | [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,114 | A simple emoji legend to help convey intention and added meaning in code review comments. | rus64 | macOS | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
 | [GitHub CLI Manual](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) | 983 | Raycast extension to search GitHub CLI Manual. | demartini | macOS | [store](https://www.raycast.com/demartini/github-cli-manual) |
 | [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) | 579 | Search, open, and crawl DeepWiki pages for GitHub repositories. | vivek | macOS | [store](https://www.raycast.com/vivek/deepwiki) |

@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 102,376 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
+| [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 102,406 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,313 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
-| [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,735 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
+| [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,738 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
 | [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,813 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
 | [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,636 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
-| [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) | 2,505 | Download videos from YouTube and other services through yt-dlp using MeTube. | dot | macOS, Windows | [store](https://www.raycast.com/dot/metube) |
+| [MeTube](https://github.com/raycast/extensions/tree/main/extensions/metube) | 2,507 | Download videos from YouTube and other services through yt-dlp using MeTube. | dot | macOS, Windows | [store](https://www.raycast.com/dot/metube) |
 | [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,191 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
 | [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,391 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
 | [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail) | 1,029 | View a YouTube video's thumbnail variants, then download the images or copy their URLs. | bensomething | macOS | [store](https://www.raycast.com/bensomething/youtube-thumbnail) |
@@ -28,5 +28,5 @@
 | [Tella](https://github.com/raycast/extensions/tree/main/extensions/tella) | 36 | Browse videos, view transcripts, and manage playlists with Tella | jackmsvaughan | macOS | [store](https://www.raycast.com/jackmsvaughan/tella) |
 | [xQc](https://github.com/raycast/extensions/tree/main/extensions/xqc) | 29 | Search and Explore Vods for twitch.tv/xqc | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/xqc) |
 | [Magic Ingest](https://github.com/raycast/extensions/tree/main/extensions/magic-ingest) | 19 | Fast, background photo & video ingest from memory cards with date filtering, SHA-256 verification, and Photo Mechanic integration | dustintchambers | macOS | [store](https://www.raycast.com/dustintchambers/magic-ingest) |
-| [GIF Maker](https://github.com/raycast/extensions/tree/main/extensions/gif-maker) | 14 | Convert videos to GIFs with control over size, frame rate, trimming, and compression. Powered by ffmpeg. | tristan_gabl | macOS | [store](https://www.raycast.com/tristan_gabl/gif-maker) |
+| [GIF Maker](https://github.com/raycast/extensions/tree/main/extensions/gif-maker) | 15 | Convert videos to GIFs with control over size, frame rate, trimming, and compression. Powered by ffmpeg. | tristan_gabl | macOS | [store](https://www.raycast.com/tristan_gabl/gif-maker) |
 | [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) | 11 | Control your WiiM device | roele | macOS, Windows | [store](https://www.raycast.com/roele/wiim-remote) |

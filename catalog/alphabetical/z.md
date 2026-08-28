@@ -6,15 +6,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 103,585 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
-| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,785 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
-| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 14,078 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
-| [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,665 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 103,641 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,802 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
+| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 14,096 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
+| [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,666 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
 | [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 2,705 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
-| [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,444 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
+| [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,445 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
 | [Zen Mode](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) | 1,727 | Hide Everything. Mute Everything. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/zen-mode) |
 | [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager) | 1,499 | View and manage your ~/.zshrc from Raycast | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/zshrc-manager) |
-| [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) | 1,136 | Manage zsh aliases | espenbye | macOS | [store](https://www.raycast.com/espenbye/zsh-aliases) |
+| [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) | 1,137 | Manage zsh aliases | espenbye | macOS | [store](https://www.raycast.com/espenbye/zsh-aliases) |
 | [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 437 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
 | [Zeplin Project Search](https://github.com/raycast/extensions/tree/main/extensions/zeplin-project-search) | 278 | List and Search Zeplin Projects | dorukgunes | macOS | [store](https://www.raycast.com/dorukgunes/zeplin-project-raycast-extension) |
 | [Zoxide Git Projects](https://github.com/raycast/extensions/tree/main/extensions/zoxide-git-projects) | 263 | Allows the user to select git repositories found by filtering a zoxide query, then open them in an application of choice. | theherk | macOS | [store](https://www.raycast.com/theherk/zoxide-git-projects) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-28 — upstream `0f2f3b2423`
+
+**Updated (1):** [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion)
+
 ## 2026-08-28 — upstream `fdef3f3781`
 
 **Updated (1):** [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail)
