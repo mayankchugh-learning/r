@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9776c92c8d96f78a2d91cc2b2c573c6041d1e12f",
-  "generatedAt": "2026-08-28T10:13:28.194Z",
-  "downloadsRefreshedAt": "2026-08-28T10:13:27.251Z",
+  "commit": "fdef3f3781e76b0b65dbe09e593e5cbfbc35ded7",
+  "generatedAt": "2026-08-28T10:15:35.472Z",
+  "downloadsRefreshedAt": "2026-08-28T10:15:34.880Z",
   "count": 3232,
   "extensions": [
     {
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "1c86106cc193c49d08dba44b9dce5ed67897e130",
-      "downloads": 523881
+      "downloads": 523882
     },
     {
       "dir": "color-shades",
@@ -15167,7 +15167,7 @@
       "dir": "dovetail",
       "name": "dovetail",
       "title": "Dovetail",
-      "description": "Search for data in your Dovetail workspace from wherever you are.",
+      "description": "Search, browse, and create content across your Dovetail workspace.",
       "author": "barlow",
       "owner": null,
       "contributors": 0,
@@ -15181,7 +15181,7 @@
       ],
       "store": "https://www.raycast.com/barlow/dovetail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dovetail",
-      "treeSha": "69a8883e41ddc84e38844918fe0aea6d1d90cc66",
+      "treeSha": "f3ea31993466699e14a51aae2ea785f0e916e784",
       "downloads": 27
     },
     {
@@ -22121,7 +22121,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 508323
+      "downloads": 508324
     },
     {
       "dir": "google-chrome-profiles",
@@ -28443,7 +28443,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 682695
+      "downloads": 682696
     },
     {
       "dir": "kimai",

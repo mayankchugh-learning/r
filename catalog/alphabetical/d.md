@@ -142,7 +142,7 @@
 | [Dexcom Reader](https://github.com/raycast/extensions/tree/main/extensions/dexcom-reader) | 30 | Get your glucose readings from Dexcom | pablo_medina | macOS | [store](https://www.raycast.com/pablo_medina/dexcom-reader) |
 | [Danish Tax Calculator](https://github.com/raycast/extensions/tree/main/extensions/danish-tax-calculator) | 28 | Calculate your payment after taxes | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/danish-tax-calculator) |
 | [Daminik](https://github.com/raycast/extensions/tree/main/extensions/daminik) | 27 | Manage your Digital Assets | xmok | macOS | [store](https://www.raycast.com/xmok/daminik) |
-| [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail) | 27 | Search for data in your Dovetail workspace from wherever you are. | barlow | macOS | [store](https://www.raycast.com/barlow/dovetail) |
+| [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail) | 27 | Search, browse, and create content across your Dovetail workspace. | barlow | macOS | [store](https://www.raycast.com/barlow/dovetail) |
 | [DirectAdmin Reseller](https://github.com/raycast/extensions/tree/main/extensions/directadmin-reseller) | 26 | Interact with DirectAdmin as a Reseller | xmok | macOS | [store](https://www.raycast.com/xmok/directadmin-reseller) |
 | [Decimal 2 Time](https://github.com/raycast/extensions/tree/main/extensions/decimal-2-time) | 25 | Converts between decimal time and HH:MM:SS format | rhuk | macOS | [store](https://www.raycast.com/rhuk/decimal-2-time) |
 | [Dagster](https://github.com/raycast/extensions/tree/main/extensions/dagster) | 23 | Browse Dagster assets, materializations, and runs | b-per | macOS | [store](https://www.raycast.com/b-per/dagster) |
