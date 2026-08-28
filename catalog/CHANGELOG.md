@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-28 — upstream `e3b995625b`
+
+**Updated (1):** [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes)
+
 ## 2026-08-27 — upstream `d4aae99c5e`
 
 **Updated (1):** [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications)

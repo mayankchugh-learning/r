@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,276 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
-| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,433 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
-| [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 13,442 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
+| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,306 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
+| [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode) | 15,447 | Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcod… | SvenTiigi | macOS | [store](https://www.raycast.com/SvenTiigi/xcode) |
+| [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 13,457 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
 | [Terminal Shop](https://github.com/raycast/extensions/tree/main/extensions/terminaldotshop) | 1,274 | The finest coffee for the finest people. | terminaldotshop (org) | macOS | [store](https://www.raycast.com/terminaldotshop/terminaldotshop) |
-| [Simulator Manager](https://github.com/raycast/extensions/tree/main/extensions/simulator-manager) | 988 | Manage iOS simulators and Android emulators with ease. Boot, shutdown, and open simulators directly from Raycast. | pauloedurezende | macOS | [store](https://www.raycast.com/pauloedurezende/simulator-manager) |
-| [Kitty](https://github.com/raycast/extensions/tree/main/extensions/kitty) | 257 | Control Kitty terminal via its remote control protocol | jerome_soyer | macOS | [store](https://www.raycast.com/jerome_soyer/kitty) |
-| [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) | 106 | Control Tabby terminal with Raycast | chupi | macOS, Windows | [store](https://www.raycast.com/chupi/tabby) |
+| [Simulator Manager](https://github.com/raycast/extensions/tree/main/extensions/simulator-manager) | 990 | Manage iOS simulators and Android emulators with ease. Boot, shutdown, and open simulators directly from Raycast. | pauloedurezende | macOS | [store](https://www.raycast.com/pauloedurezende/simulator-manager) |
+| [Kitty](https://github.com/raycast/extensions/tree/main/extensions/kitty) | 259 | Control Kitty terminal via its remote control protocol | jerome_soyer | macOS | [store](https://www.raycast.com/jerome_soyer/kitty) |
+| [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) | 107 | Control Tabby terminal with Raycast | chupi | macOS, Windows | [store](https://www.raycast.com/chupi/tabby) |

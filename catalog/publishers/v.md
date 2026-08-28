@@ -7,36 +7,36 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [vaibhav_sisodiya](https://www.raycast.com/Vaib215) | 1 | 338 | **Productivity:** [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) |
-| [valenradovich](https://www.raycast.com/valenradovich) | 1 | 376 | **Productivity:** [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) |
+| [valenradovich](https://www.raycast.com/valenradovich) | 1 | 377 | **Productivity:** [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) |
 | [valentin_denis](https://www.raycast.com/valentin_denis) | 1 | 323 | **Developer Tools:** [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) |
 | [valentindotxyz](https://www.raycast.com/valentindotxyz) | 1 | 437 | **Developer Tools:** [Search with Algolia](https://github.com/raycast/extensions/tree/main/extensions/algolia) |
 | [validate](https://www.raycast.com/validate) | 2 | 2,114 | **Developer Tools:** [Git Assistant](https://github.com/raycast/extensions/tree/main/extensions/git-assistant)<br>**Fun:** [Duck Facts](https://github.com/raycast/extensions/tree/main/extensions/duck-facts) |
 | [vanish2000](https://www.raycast.com/vanish2000) | 1 | 30 | **System:** [V2BOX VPN](https://github.com/raycast/extensions/tree/main/extensions/v2box-control) |
 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 | **System:** [XKeen Manager](https://github.com/raycast/extensions/tree/main/extensions/xkeen-manager) |
 | [vcsjones](https://www.raycast.com/vcsjones) | 1 | 173 | **Developer Tools:** [.NET API Browser](https://github.com/raycast/extensions/tree/main/extensions/dotnet-api-browser) |
-| [vercel](https://www.raycast.com/vercel) | 2 | 12,909 | **Developer Tools:** [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast), [v0 by Vercel](https://github.com/raycast/extensions/tree/main/extensions/v0-by-vercel) |
+| [vercel](https://www.raycast.com/vercel) | 2 | 12,924 | **Developer Tools:** [Vercel](https://github.com/raycast/extensions/tree/main/extensions/vercast), [v0 by Vercel](https://github.com/raycast/extensions/tree/main/extensions/v0-by-vercel) |
 | [vibsthebot](https://www.raycast.com/vibsthebot) | 1 | 40 | **Uncategorized:** [Raycast FRC](https://github.com/raycast/extensions/tree/main/extensions/raycast-frc) |
 | [VictoRD11](https://www.raycast.com/VictoRD11) | 1 | 814 | **Applications:** [Convert CSV to Excel](https://github.com/raycast/extensions/tree/main/extensions/csv-to-excel) |
-| [ViGeng](https://www.raycast.com/ViGeng) | 9 | 17,775 | **Productivity:** [Deepseek Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/deepseeker), [Emojify](https://github.com/raycast/extensions/tree/main/extensions/emojify)<br>**Applications:** [Bob - Control Bob Translate](https://github.com/raycast/extensions/tree/main/extensions/bob), [Awesome Mac](https://github.com/raycast/extensions/tree/main/extensions/awesome-mac), [Pumble](https://github.com/raycast/extensions/tree/main/extensions/pumble)<br>**Developer Tools:** [GitHub Profile](https://github.com/raycast/extensions/tree/main/extensions/github-profile), [Zoo - Ask AIs with Your Prompt Library](https://github.com/raycast/extensions/tree/main/extensions/zoo)<br>**Uncategorized:** [Save Link](https://github.com/raycast/extensions/tree/main/extensions/save-link)<br>**Web:** [CCF Conference](https://github.com/raycast/extensions/tree/main/extensions/ccfddl) |
+| [ViGeng](https://www.raycast.com/ViGeng) | 9 | 17,796 | **Productivity:** [Deepseek Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/deepseeker), [Emojify](https://github.com/raycast/extensions/tree/main/extensions/emojify)<br>**Applications:** [Bob - Control Bob Translate](https://github.com/raycast/extensions/tree/main/extensions/bob), [Awesome Mac](https://github.com/raycast/extensions/tree/main/extensions/awesome-mac), [Pumble](https://github.com/raycast/extensions/tree/main/extensions/pumble)<br>**Developer Tools:** [GitHub Profile](https://github.com/raycast/extensions/tree/main/extensions/github-profile), [Zoo - Ask AIs with Your Prompt Library](https://github.com/raycast/extensions/tree/main/extensions/zoo)<br>**Uncategorized:** [Save Link](https://github.com/raycast/extensions/tree/main/extensions/save-link)<br>**Web:** [CCF Conference](https://github.com/raycast/extensions/tree/main/extensions/ccfddl) |
 | [vigosan](https://www.raycast.com/vigosan) | 2 | 573 | **Media:** [Discogs Database Search](https://github.com/raycast/extensions/tree/main/extensions/discogs)<br>**Data:** [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) |
 | [vikas-bansal](https://www.raycast.com/vikas-bansal) | 1 | 531 | **Developer Tools:** [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) |
-| [vimtor](./id/vimtor.md) | 15 | 304,022 | [see all 15 →](./id/vimtor.md) |
+| [vimtor](./id/vimtor.md) | 15 | 304,292 | [see all 15 →](./id/vimtor.md) |
 | [vincent_perrot](https://www.raycast.com/vincent_perrot) | 1 | 6 | **Finance:** [XPF to EUR Converter](https://github.com/raycast/extensions/tree/main/extensions/xpf-converter) |
 | [vinch](https://www.raycast.com/vinch) | 1 | 270 | **Web:** [Ethereum Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/ethereum-gas-tracker) |
 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 | **Productivity:** [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) |
-| [vishaltelangre](https://www.raycast.com/vishaltelangre) | 1 | 29,582 | **Developer Tools:** [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) |
-| [VishwasShashidhar](https://www.raycast.com/VishwasShashidhar) | 1 | 3,713 | **Web:** [Brave Search](https://github.com/raycast/extensions/tree/main/extensions/brave-search) |
+| [vishaltelangre](https://www.raycast.com/vishaltelangre) | 1 | 29,602 | **Developer Tools:** [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) |
+| [VishwasShashidhar](https://www.raycast.com/VishwasShashidhar) | 1 | 3,715 | **Web:** [Brave Search](https://github.com/raycast/extensions/tree/main/extensions/brave-search) |
 | [visual_eugen](https://www.raycast.com/visual_eugen) | 1 | 23 | **Developer Tools:** [Find OpenGL Enum](https://github.com/raycast/extensions/tree/main/extensions/find-opengl-enum) |
-| [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 26,305 | [see all 17 →](./id/visual-studio-coder.md) |
-| [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 32,836 | **Communication:** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) |
-| [vitorlostada](https://www.raycast.com/vitorlostada) | 1 | 970 | **Developer Tools:** [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) |
-| [vivek](https://www.raycast.com/vivek) | 1 | 578 | **Documentation:** [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) |
+| [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 26,339 | [see all 17 →](./id/visual-studio-coder.md) |
+| [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 32,867 | **Communication:** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) |
+| [vitorlostada](https://www.raycast.com/vitorlostada) | 1 | 973 | **Developer Tools:** [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) |
+| [vivek](https://www.raycast.com/vivek) | 1 | 579 | **Documentation:** [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) |
 | [vivgui](https://www.raycast.com/vivgui) | 1 | 112 | **Productivity:** [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) |
 | [vixaidev](https://www.raycast.com/vixaidev) | 1 | 15 | **Uncategorized:** [Vixai](https://github.com/raycast/extensions/tree/main/extensions/vixai) |
 | [vkhitrin](https://www.raycast.com/vkhitrin) | 1 | 84 | **Developer Tools:** [Gerrit Code Review](https://github.com/raycast/extensions/tree/main/extensions/gerrit-code-review) |
 | [vlad2305m](https://www.raycast.com/vlad2305m) | 1 | 51 | **Data:** [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) |
-| [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 52,033 | **Productivity:** [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) |
-| [vlades](https://www.raycast.com/vlades) | 1 | 448 | **Developer Tools:** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) |
+| [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 52,089 | **Productivity:** [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) |
+| [vlades](https://www.raycast.com/vlades) | 1 | 459 | **Developer Tools:** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) |
 | [vladimir-kotikov](https://www.raycast.com/vladimir-kotikov) | 1 | 577 | **Applications:** [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) |
 | [VladYevt](https://www.raycast.com/VladYevt) | 1 | 88 | **Web:** [Flibusta Search](https://github.com/raycast/extensions/tree/main/extensions/flibusta-search) |
 | [vmotta8](https://www.raycast.com/vmotta8) | 1 | 57 | **Developer Tools:** [Perry](https://github.com/raycast/extensions/tree/main/extensions/perry) |

@@ -7,6 +7,6 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Zen Mode](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) | 1,726 | Hide Everything. Mute Everything. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/zen-mode) |
-| [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,532 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
+| [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,534 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
 | [Silent Mode](https://github.com/raycast/extensions/tree/main/extensions/silent-mode) | 181 | Mute notifications without turning on DND, Just like on iPhone! | matan | macOS | [store](https://www.raycast.com/matan/silent-mode) |
 | [Amp Dash X](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph-amp-dash-x) | 91 | Organize and execute Amp prompts with execute mode (-x flag) | jdorfman | macOS | [store](https://www.raycast.com/jdorfman/sourcegraph-amp-dash-x) |
