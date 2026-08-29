@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `e0fd99c23f`
+
+**Updated (1):** [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker)
+
 ## 2026-08-29 — upstream `0a51bb9230`
 
 **Updated (1):** [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge)
