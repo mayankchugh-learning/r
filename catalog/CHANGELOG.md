@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `78639ab147`
+
+**Added (1):** [Ejection Seat](https://github.com/raycast/extensions/tree/main/extensions/ejection-seat)
+
 ## 2026-08-29 — upstream `4d463d4b61`
 
 **Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)

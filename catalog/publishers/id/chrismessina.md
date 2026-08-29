@@ -1,6 +1,6 @@
 # chrismessina
 
-15 extensions · 6,590 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+16 extensions · 6,590 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -56,3 +56,9 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Tesla Energy](https://github.com/raycast/extensions/tree/main/extensions/tesla-energy) | 13 | Monitor your Tesla solar panels and Powerwalls. View real-time solar production, battery charge, grid usage, and energy history. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/tesla-energy) |
+
+## System (1)
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Ejection Seat](https://github.com/raycast/extensions/tree/main/extensions/ejection-seat) | — | Find the processes and files that may be preventing a disk from ejecting. | chrismessina | macOS | — |

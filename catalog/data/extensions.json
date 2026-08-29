@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4d463d4b612d9d6a6e3ac7449b0699ad0a7d23d3",
-  "generatedAt": "2026-08-29T17:36:19.713Z",
-  "downloadsRefreshedAt": "2026-08-29T17:36:18.817Z",
-  "count": 3232,
+  "commit": "78639ab147c3007ab13270a4bfa03a6c3ac41efa",
+  "generatedAt": "2026-08-29T18:07:34.930Z",
+  "downloadsRefreshedAt": "2026-08-29T18:07:34.299Z",
+  "count": 3233,
   "extensions": [
     {
       "dir": "0x0",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 525312
+      "downloads": 525353
     },
     {
       "dir": "color-shades",
@@ -16048,6 +16048,26 @@
       "downloads": 5
     },
     {
+      "dir": "ejection-seat",
+      "name": "ejection-seat",
+      "title": "Ejection Seat",
+      "description": "Find the processes and files that may be preventing a disk from ejecting.",
+      "author": "chrismessina",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ejection-seat",
+      "treeSha": "3961e5e57d7de28dda062cdaa5d7e907a9c87c6f",
+      "downloads": null
+    },
+    {
       "dir": "ekstraklasa",
       "name": "ekstraklasa",
       "title": "Ekstraklasa",
@@ -21203,7 +21223,7 @@
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
       "treeSha": "1ed899ba86d04d660f1b4fd1a9a11c7727abd22f",
-      "downloads": 185853
+      "downloads": 185869
     },
     {
       "dir": "github-cli-manual",
@@ -22121,7 +22141,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 509315
+      "downloads": 509328
     },
     {
       "dir": "google-chrome-profiles",
@@ -24400,7 +24420,7 @@
       "store": "https://www.raycast.com/tonka3000/homeassistant",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/homeassistant",
       "treeSha": "3aff6f9fa357c4bf988327a06c31f5703947c16e",
-      "downloads": 26797
+      "downloads": 26800
     },
     {
       "dir": "homebox",
@@ -28443,7 +28463,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 684086
+      "downloads": 684108
     },
     {
       "dir": "kimai",

@@ -8,13 +8,13 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,135,067 |
-| 2 | [raycast](./id/raycast.md) | 11 | 805,670 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 684,086 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 509,315 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,135,108 |
+| 2 | [raycast](./id/raycast.md) | 11 | 805,686 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 684,108 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 509,328 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 448,157 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 443,259 |
-| 7 | [tonka3000](./id/tonka3000.md) | 14 | 414,610 |
+| 7 | [tonka3000](./id/tonka3000.md) | 14 | 414,613 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 354,686 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 304,770 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 294,925 |
@@ -217,7 +217,7 @@
 | 207 | [solomkinmv](https://www.raycast.com/solomkinmv) | 2 | 7,108 |
 | 208 | [biknandy](https://www.raycast.com/biknandy) | 1 | 7,047 |
 | 209 | [anastasiy_safari](https://www.raycast.com/anastasiy_safari) | 1 | 6,818 |
-| 210 | [chrismessina](./id/chrismessina.md) | 15 | 6,590 |
+| 210 | [chrismessina](./id/chrismessina.md) | 16 | 6,590 |
 | 211 | [Jordan-Ellis](https://www.raycast.com/Jordan-Ellis) | 1 | 6,566 |
 | 212 | [comoser](https://www.raycast.com/comoser) | 3 | 6,530 |
 | 213 | [fearoffish](https://www.raycast.com/fearoffish) | 1 | 6,529 |
