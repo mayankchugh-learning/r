@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `148282865b`
+
+**Updated (1):** [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive)
+
 ## 2026-08-29 — upstream `2313171549`
 
 **Updated (1):** [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe)
