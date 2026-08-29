@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `ab60f2ac85`
+
+**Updated (1):** [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack)
+
 ## 2026-08-29 — upstream `e05418ebde`
 
 **Updated (1):** [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search)
