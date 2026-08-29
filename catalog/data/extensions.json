@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e0fd99c23f26aad45e735b65c8ac495bf371e9c5",
-  "generatedAt": "2026-08-29T16:38:20.240Z",
-  "downloadsRefreshedAt": "2026-08-29T16:38:19.551Z",
+  "commit": "99cb3282f3b8017aa1e049ab6fbfaf8dcb08dbc0",
+  "generatedAt": "2026-08-29T16:40:28.324Z",
+  "downloadsRefreshedAt": "2026-08-29T16:40:26.875Z",
   "count": 3232,
   "extensions": [
     {
@@ -680,7 +680,7 @@
       "description": "Monitor AI coding agent usage across AIHubMix, Amp, Antigravity, Claude, ClinePass, Codex, Copilot, Cursor, DeepSeek, Droid, Gemini, Grok, Kimi, MiniMax, MinimaxCN, OpenCode Go, Synthetic and z.ai",
       "author": "thuggyduck",
       "owner": null,
-      "contributors": 6,
+      "contributors": 7,
       "categories": [
         "Productivity"
       ],
@@ -691,7 +691,7 @@
       ],
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
-      "treeSha": "6eccf69de68bc5aeab97a692f78aa241423b957f",
+      "treeSha": "183f78012a708d70798a4978a7b9d20184ddbfcb",
       "downloads": 2889
     },
     {
@@ -22121,7 +22121,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 509287
+      "downloads": 509288
     },
     {
       "dir": "google-chrome-profiles",
@@ -28443,7 +28443,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 684047
+      "downloads": 684048
     },
     {
       "dir": "kimai",

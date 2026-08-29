@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `99cb3282f3`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-08-29 — upstream `e0fd99c23f`
 
 **Updated (1):** [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker)
