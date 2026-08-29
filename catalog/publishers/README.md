@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,135,028 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,135,065 |
 | 2 | [raycast](./id/raycast.md) | 11 | 805,670 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 684,065 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 509,298 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 684,085 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 509,313 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 448,157 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 443,259 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 414,610 |
@@ -903,7 +903,7 @@
 | 893 | [xiaoluoboding](https://www.raycast.com/xiaoluoboding) | 1 | 482 |
 | 894 | [jungwoon](https://www.raycast.com/Jungwoon) | 1 | 481 |
 | 895 | [PineappleRind](https://www.raycast.com/PineappleRind) | 1 | 481 |
-| 896 | [vlades](https://www.raycast.com/vlades) | 1 | 479 |
+| 896 | [vlades](https://www.raycast.com/vlades) | 1 | 481 |
 | 897 | [libaro](https://www.raycast.com/libaro) | 1 | 477 |
 | 898 | [MBearo](https://www.raycast.com/MBearo) | 1 | 477 |
 | 899 | [ploi](https://www.raycast.com/ploi) | 1 | 477 |

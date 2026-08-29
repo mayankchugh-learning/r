@@ -141,7 +141,7 @@
 | [Time](https://github.com/raycast/extensions/tree/main/extensions/time) | 519 | Show the current time. | g0d | macOS | [store](https://www.raycast.com/g0d/time) |
 | [Fix Link Embeds](https://github.com/raycast/extensions/tree/main/extensions/fix-link-embeds) | 515 | Fix Instagram, Twitter, Reddit and TikTok embeds by using proxy services (e.g. ddinstagram, fxtwitter). | eggsy | macOS | [store](https://www.raycast.com/eggsy/fix-link-embeds) |
 | [Bike](https://github.com/raycast/extensions/tree/main/extensions/bike) | 495 | Control Bike with Raycast | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/bike) |
-| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 479 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
+| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 481 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [Gitpod](https://github.com/raycast/extensions/tree/main/extensions/gitpod) | 469 | A blazingly fast way to work with Gitpod | Henit-Palani | macOS | [store](https://www.raycast.com/Henit-Palani/gitpod) |
 | [5Devs](https://github.com/raycast/extensions/tree/main/extensions/5devs) | 462 | Get realistic data for testing purposes. | gustavofior | macOS | [store](https://www.raycast.com/gustavofior/5devs) |
 | [Logitech Litra](https://github.com/raycast/extensions/tree/main/extensions/logitech-litra) | 455 | Manage USB-connected Logitech Litra Glow, Litra Beam and Litra Beam LX lights from Raycast | timrogers | macOS | [store](https://www.raycast.com/timrogers/logitech-litra) |

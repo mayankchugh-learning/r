@@ -38,7 +38,7 @@
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 633 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [HotCorner](https://github.com/raycast/extensions/tree/main/extensions/hotcorner) | 549 | macOS Hot Corners quick settings | mmmarcus | macOS | [store](https://www.raycast.com/mmmarcus/hotcorner) |
 | [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 532 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
-| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 479 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
+| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 481 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [HubSpot Portal Launcher](https://github.com/raycast/extensions/tree/main/extensions/hubspot-portal-launcher) | 472 | A simple Raycast extension that allows you to quickly launch and navigate to different objects in your HubSpot portals | chriso | macOS | [store](https://www.raycast.com/chriso/hubspot-portal-launcher) |
 | [Homepage](https://github.com/raycast/extensions/tree/main/extensions/homepage) | 460 | Homepage services and bookmarks in Raycast | bgiovand | macOS | [store](https://www.raycast.com/bgiovand/homepage) |
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 453 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |
