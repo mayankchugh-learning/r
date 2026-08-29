@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `1bd5215cb9`
+
+**Updated (1):** [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel)
+
 ## 2026-08-29 — upstream `a30bdf5755`
 
 **Updated (1):** [Things](https://github.com/raycast/extensions/tree/main/extensions/things)
