@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 23,982 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
-| [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,523 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |
+| [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 23,988 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
+| [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,524 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,843 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
-| [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) | 1,737 | Pieces for Developers Raycast Extension | pieces (org) | macOS | [store](https://www.raycast.com/pieces/pieces-raycast) |
+| [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) | 1,738 | Pieces for Developers Raycast Extension | pieces (org) | macOS | [store](https://www.raycast.com/pieces/pieces-raycast) |
 | [CPF/CNPJ Generator](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) | 622 | Generate CPF (Cadastro de Pessoa Físca) number or CNPJ (Cadastro Nacional de Pessoa Jurídica) number data for developers | gstvds | macOS | [store](https://www.raycast.com/gstvds/cpf-cnpj-generator) |
 | [PHP Toolbox](https://github.com/raycast/extensions/tree/main/extensions/php-toolbox) | 457 | A suite of useful commands for PHP developers | inxilpro | macOS | [store](https://www.raycast.com/inxilpro/php-toolbox) |
 | [Shopify Developer Changelog](https://github.com/raycast/extensions/tree/main/extensions/shopify-developer-changelog) | 287 | Most recent changes to Shopify's developer platform | sandypockets | macOS | [store](https://www.raycast.com/sandypockets/shopify-developer-changelog) |

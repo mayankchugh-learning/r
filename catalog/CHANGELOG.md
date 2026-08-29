@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `c4a51ea4b7`
+
+**Updated (1):** [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard)
+
 ## 2026-08-29 — upstream `3b93e7e39c`
 
 **Updated (1):** [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts)
