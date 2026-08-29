@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 524,781 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 525,198 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 242,043 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 129,037 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 108,678 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -21,7 +21,7 @@
 | [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 13,899 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
 | [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 13,670 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
 | [ChatGPT Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) | 12,692 | Performs one-shot actions with ChatGPT | alanzchen | macOS | [store](https://www.raycast.com/alanzchen/chatgpt-quick-actions) |
-| [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) | 12,023 | Monitor Claude Code usage with real-time tracking | nyatinte | macOS | [store](https://www.raycast.com/nyatinte/ccusage) |
+| [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) | 12,025 | Monitor Claude Code usage with real-time tracking | nyatinte | macOS | [store](https://www.raycast.com/nyatinte/ccusage) |
 | [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 11,621 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
 | [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) | 11,497 | Can I Use provides up-to-date browser support for front-end web technologies on desktop and mobile web browsers. | thomaslombart | macOS, Windows | [store](https://www.raycast.com/thomaslombart/can-i-use) |
 | [Cursor Directory](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) | 10,210 | Your cursor.directory in Raycast | escwxyz | macOS | [store](https://www.raycast.com/escwxyz/cursor-directory) |
