@@ -2,11 +2,12 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · **Design & Assets** · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-13 of 298 extensions · [← Cross-platform · Developer Tools](./README.md)
+14 of 299 extensions · [← Cross-platform · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 47,581 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
+| [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 41,800 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS, Windows | [store](https://www.raycast.com/kawamataryo/tinypng) |
 | [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 37,943 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
 | [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 25,912 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
 | [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 10,666 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |

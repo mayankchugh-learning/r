@@ -28,7 +28,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 47,581 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
-| [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 41,800 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS | [store](https://www.raycast.com/kawamataryo/tinypng) |
+| [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 41,800 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS, Windows | [store](https://www.raycast.com/kawamataryo/tinypng) |
 | [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 2,074 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |
 | [CodeSnap](https://github.com/raycast/extensions/tree/main/extensions/codesnap) | 1,744 | Creates a beautiful image of your code snippet | Mokkapps | macOS | [store](https://www.raycast.com/Mokkapps/codesnap) |
 | [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,564 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |

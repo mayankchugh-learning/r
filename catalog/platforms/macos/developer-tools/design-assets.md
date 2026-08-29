@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 47,581 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
-| [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 41,800 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS | [store](https://www.raycast.com/kawamataryo/tinypng) |
+| [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 41,800 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS, Windows | [store](https://www.raycast.com/kawamataryo/tinypng) |
 | [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 37,943 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
 | [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 25,912 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
 | [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 10,666 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |
