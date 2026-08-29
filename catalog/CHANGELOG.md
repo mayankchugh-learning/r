@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `2313171549`
+
+**Updated (1):** [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe)
+
 ## 2026-08-29 — upstream `1f985b9dad`
 
 **Updated (1):** [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack)
