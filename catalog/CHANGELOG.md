@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `4d463d4b61`
+
+**Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)
+
 ## 2026-08-29 — upstream `bd71bd4d84`
 
 **Updated (1):** [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "bd71bd4d844c719bd9abccb0d698eee7ee40323b",
-  "generatedAt": "2026-08-29T17:34:35.875Z",
-  "downloadsRefreshedAt": "2026-08-29T17:34:35.475Z",
+  "commit": "4d463d4b612d9d6a6e3ac7449b0699ad0a7d23d3",
+  "generatedAt": "2026-08-29T17:36:19.713Z",
+  "downloadsRefreshedAt": "2026-08-29T17:36:18.817Z",
   "count": 3232,
   "extensions": [
     {
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 525311
+      "downloads": 525312
     },
     {
       "dir": "color-shades",
@@ -21202,7 +21202,7 @@
       ],
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
-      "treeSha": "8aeebc16205d15ec806074d285db33daa2e703ea",
+      "treeSha": "1ed899ba86d04d660f1b4fd1a9a11c7727abd22f",
       "downloads": 185853
     },
     {
