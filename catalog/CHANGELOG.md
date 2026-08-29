@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `2ced52432f`
+
+**Updated (1):** [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify)
+
 ## 2026-08-29 — upstream `691412cc56`
 
 **Updated (1):** [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity)
