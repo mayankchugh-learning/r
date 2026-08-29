@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c4a51ea4b7c3eb3fd9266f45dde8b8cec7c83757",
-  "generatedAt": "2026-08-29T15:50:27.268Z",
-  "downloadsRefreshedAt": "2026-08-29T15:50:26.227Z",
+  "commit": "6315932f75ea71f711a702487d7ff4d54af47de4",
+  "generatedAt": "2026-08-29T15:52:23.640Z",
+  "downloadsRefreshedAt": "2026-08-29T15:52:22.959Z",
   "count": 3232,
   "extensions": [
     {
@@ -28021,7 +28021,7 @@
       ],
       "store": "https://www.raycast.com/luolei/karakeep",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/karakeep",
-      "treeSha": "43748b440c234252c793300f7bb54bfffb5569ac",
+      "treeSha": "13e51fc50b913209ae8f8e9b0cbbfd70b4c18fad",
       "downloads": 2245
     },
     {
@@ -28443,7 +28443,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 684010
+      "downloads": 684011
     },
     {
       "dir": "kimai",

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-29 — upstream `6315932f75`
+
+**Updated (1):** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep)
+
 ## 2026-08-29 — upstream `c4a51ea4b7`
 
 **Updated (1):** [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard)
