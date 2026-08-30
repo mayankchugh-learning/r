@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-30 — upstream `9e76ade08f`
+
+**Updated (1):** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass)
+
 ## 2026-08-30 — upstream `a1dad33e91`
 
 **Updated (1):** [Pinwork](https://github.com/raycast/extensions/tree/main/extensions/pinwork)

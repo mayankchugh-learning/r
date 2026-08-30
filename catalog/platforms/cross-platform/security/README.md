@@ -1,8 +1,8 @@
 # Cross-platform · Security
 
-30 extensions · [← Cross-platform](../README.md)
+31 extensions · [← Cross-platform](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (18) · [2FA & Authentication](#2fa-authentication) (4) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (2) · [General](#general) (5)
+[Passwords & Secrets](#passwords-secrets) (19) · [2FA & Authentication](#2fa-authentication) (4) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (2) · [General](#general) (5)
 
 ## Credentials & Access
 
@@ -16,6 +16,7 @@
 | [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,532 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [One Time Password](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) | 2,144 | Generate time-based one-time passwords | lachero | macOS, Windows | [store](https://www.raycast.com/lachero/one-time-password) |
 | [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) | 1,442 | Access Dashlane Vault. Requires installing the Dashlane CLI. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/dashlane-vault) |
+| [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) | 1,357 | Search and manage your Proton Pass items, generate passwords, and get TOTP codes. | izyuumi | macOS, Windows | [store](https://www.raycast.com/izyuumi/proton-pass) |
 | [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 600 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
 | [Keeper Security](https://github.com/raycast/extensions/tree/main/extensions/keeper-security) | 359 | Access your Keeper Security secrets directly from Raycast. | keepersecurity | macOS, Windows | [store](https://www.raycast.com/keepersecurity/keeper-security) |
 | [Password Strength](https://github.com/raycast/extensions/tree/main/extensions/password-strength) | 188 | Check your passwords | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/password-strength) |
