@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-30 — upstream `a1dad33e91`
+
+**Updated (1):** [Pinwork](https://github.com/raycast/extensions/tree/main/extensions/pinwork)
+
 ## 2026-08-30 — upstream `032bd208e3`
 
 **Updated (1):** [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league)
