@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5ae78719944106f4c95b2f42c5db488645abb11f",
-  "generatedAt": "2026-08-30T12:38:25.886Z",
-  "downloadsRefreshedAt": "2026-08-30T12:38:25.499Z",
+  "commit": "241e08f7f5f822719c0b4e284c71e8926b46e050",
+  "generatedAt": "2026-08-30T13:10:40.440Z",
+  "downloadsRefreshedAt": "2026-08-30T13:10:40.109Z",
   "count": 3235,
   "extensions": [
     {
@@ -2977,7 +2977,7 @@
       ],
       "store": "https://www.raycast.com/asifk/aside",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/aside",
-      "treeSha": "00eedf62a19ca0553b78972f7d0aa738a1b378e2",
+      "treeSha": "06ac677185d66e9c976f2f1d31f90ef151bf914a",
       "downloads": 33
     },
     {
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 526102
+      "downloads": 526135
     },
     {
       "dir": "color-shades",
@@ -22163,7 +22163,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 509799
+      "downloads": 509818
     },
     {
       "dir": "google-chrome-profiles",
@@ -28485,7 +28485,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 684777
+      "downloads": 684811
     },
     {
       "dir": "kimai",
@@ -67907,7 +67907,7 @@
       "store": "https://www.raycast.com/reckoning-dev/zotero",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zotero",
       "treeSha": "717370b73850f4da292e268ae5811b3c39ef2711",
-      "downloads": 7433
+      "downloads": 7436
     },
     {
       "dir": "zoxide-git-projects",
