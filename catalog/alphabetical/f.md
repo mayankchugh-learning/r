@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 90,311 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
 | [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 46,106 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
-| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 46,055 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
+| [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 46,066 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
 | [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 30,057 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
 | [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) | 19,861 | Create Fantastical events and reminders using Fantastical's natural language processing. | devahschaefers | macOS | [store](https://www.raycast.com/devahschaefers/fantastical) |
 | [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 14,615 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |

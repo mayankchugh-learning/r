@@ -1,12 +1,12 @@
 # xilopaint
 
-10 extensions · 20,445 downloads · [store](https://www.raycast.com/xilopaint) · [← publishers](../README.md)
+10 extensions · 20,446 downloads · [store](https://www.raycast.com/xilopaint) · [← publishers](../README.md)
 
 ## Web (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Amazon Search](https://github.com/raycast/extensions/tree/main/extensions/amazon-search) | 10,320 | Amazon search with autosuggestions | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/amazon-search) |
+| [Amazon Search](https://github.com/raycast/extensions/tree/main/extensions/amazon-search) | 10,321 | Amazon search with autosuggestions | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/amazon-search) |
 | [ViaCEP](https://github.com/raycast/extensions/tree/main/extensions/viacep) | 97 | Find Brazilian addresses and postal codes | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/viacep) |
 | [Mercado Libre](https://github.com/raycast/extensions/tree/main/extensions/mercado-libre) | 66 | Search Mercado Libre listings | xilopaint | macOS | [store](https://www.raycast.com/xilopaint/mercado-libre) |
 

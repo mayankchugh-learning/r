@@ -46,9 +46,9 @@
 | [LightQuantum](https://www.raycast.com/LightQuantum) | 1 | 1,453 | **Productivity:** [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) |
 | [lihzsky](https://www.raycast.com/lihzsky) | 1 | 235 | **Developer Tools:** [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) |
 | [liluo](https://www.raycast.com/liluo) | 1 | 112 | **Developer Tools:** [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) |
-| [limonkufu](https://www.raycast.com/limonkufu) | 1 | 15,215 | **Productivity:** [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) |
+| [limonkufu](https://www.raycast.com/limonkufu) | 1 | 15,218 | **Productivity:** [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) |
 | [lin](https://www.raycast.com/lin) | 3 | 6,401 | **Developer Tools:** [Prettier Code](https://github.com/raycast/extensions/tree/main/extensions/prettier)<br>**Productivity:** [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai)<br>**Documentation:** [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) |
-| [linear](https://www.raycast.com/linear) | 1 | 354,962 | **Developer Tools:** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) |
+| [linear](https://www.raycast.com/linear) | 1 | 355,054 | **Developer Tools:** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) |
 | [linkinize](https://www.raycast.com/linkinize) | 1 | 8 | **Productivity:** [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize) |
 | [litomore](./id/litomore.md) | 13 | 12,964 | [see all 13 →](./id/litomore.md) |
 | [liualexiang](https://www.raycast.com/liualexiang) | 1 | 149 | **Productivity:** [Azure Speech TTS](https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension) |

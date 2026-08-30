@@ -52,7 +52,7 @@
 | [erbilnas](https://www.raycast.com/erbilnas) | 1 | 88 | **Productivity:** [Read My Screen](https://github.com/raycast/extensions/tree/main/extensions/read-my-screen) |
 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 | **Productivity:** [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) |
 | [ericostholmm](https://www.raycast.com/ericostholmm) | 1 | 92 | **Other:** [Stockholm Public Transport](https://github.com/raycast/extensions/tree/main/extensions/stockholm-public-transport) |
-| [erics118](https://www.raycast.com/erics118) | 3 | 95,799 | **Developer Tools:** [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case), [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services)<br>**Productivity:** [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) |
+| [erics118](https://www.raycast.com/erics118) | 3 | 95,809 | **Developer Tools:** [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case), [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services)<br>**Productivity:** [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) |
 | [ErikFisher](https://www.raycast.com/ErikFisher) | 1 | 496 | **Applications:** [Text Differ](https://github.com/raycast/extensions/tree/main/extensions/text-differ) |
 | [ErlichLiu](https://www.raycast.com/ErlichLiu) | 1 | 133 | **Applications:** [China IP Address](https://github.com/raycast/extensions/tree/main/extensions/china-ip-address) |
 | [ermek_barmashev](https://www.raycast.com/ermek_barmashev) | 1 | 32 | **Uncategorized:** [Botpress](https://github.com/raycast/extensions/tree/main/extensions/botpress) |
@@ -70,7 +70,7 @@
 | [etheirystech](https://www.raycast.com/etheirystech) | 1 | 105 | **Developer Tools:** [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) |
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 28 | **Other:** [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |
 | [eunchurn](https://www.raycast.com/eunchurn) | 1 | 193 | **Developer Tools:** [Helm Chart](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) |
-| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 168,599 | [see all 19 →](./id/evanzhoudev.md) |
+| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 168,602 | [see all 19 →](./id/evanzhoudev.md) |
 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 39 | **Productivity:** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) |
 | [evilhex](https://www.raycast.com/evilhex) | 1 | 134 | **Security:** [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) |
 | [eviscares](https://www.raycast.com/eviscares) | 1 | 169 | **Productivity:** [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco) |
