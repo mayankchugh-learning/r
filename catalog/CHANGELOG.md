@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-30 — upstream `244b4a9145`
+
+**Updated (1):** [VirusTotal](https://github.com/raycast/extensions/tree/main/extensions/virustotal)
+
 ## 2026-08-30 — upstream `577fc511ca`
 
 **Added (1):** [Toggle Trackpad](https://github.com/raycast/extensions/tree/main/extensions/toggle-trackpad)
