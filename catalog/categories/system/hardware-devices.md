@@ -1,8 +1,8 @@
 # Hardware & Devices
 
-22 extensions · [← System](./README.md)
+23 extensions · [← System](./README.md)
 
-[Keyboard ✦](#keyboard) (6) · [Devices ✦](#devices) (5) · [Mouse ✦](#mouse) (4) · [General](#general) (7)
+[Keyboard ✦](#keyboard) (6) · [Devices ✦](#devices) (5) · [Mouse ✦](#mouse) (5) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -35,6 +35,7 @@
 | [Mouse Jiggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-jiggle) | 214 | Continuously jiggle the mouse cursor with dramatic zigzag movements to prevent sleep | stevefrost | macOS | [store](https://www.raycast.com/stevefrost/mouse-jiggle) |
 | [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) | 110 | Move the macOS mouse cursor between displays with relative-position and center modes. | johnwick | macOS | [store](https://www.raycast.com/johnwick/move-cursor-next-display) |
 | [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | 9 | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | [store](https://www.raycast.com/Dhaiwat10/mouse-cursor-toggle) |
+| [Toggle Trackpad](https://github.com/raycast/extensions/tree/main/extensions/toggle-trackpad) | 0 | Quickly toggle the built-in trackpad behavior when an external mouse or wireless trackpad is connected. | ksc73450056 | macOS | [store](https://www.raycast.com/ksc73450056/toggle-trackpad) |
 
 ## General
 

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "58f16c75e957eabcb483d66e41682521e944ad28",
-  "generatedAt": "2026-08-30T05:26:25.435Z",
-  "downloadsRefreshedAt": "2026-08-30T05:26:25.041Z",
-  "count": 3234,
+  "commit": "577fc511cadf63622a8856f46f75843d208b70fc",
+  "generatedAt": "2026-08-30T06:09:50.561Z",
+  "downloadsRefreshedAt": "2026-08-30T06:09:50.179Z",
+  "count": 3235,
   "extensions": [
     {
       "dir": "0x0",
@@ -9768,7 +9768,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 525808
+      "downloads": 525832
     },
     {
       "dir": "color-shades",
@@ -22163,7 +22163,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 509598
+      "downloads": 509616
     },
     {
       "dir": "google-chrome-profiles",
@@ -28485,7 +28485,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 684461
+      "downloads": 684490
     },
     {
       "dir": "kimai",
@@ -59956,6 +59956,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/toggle-scroll-bars-visibility",
       "treeSha": "ce0d06fc33ab0be10b4e9810e0835b319a36741c",
       "downloads": 447
+    },
+    {
+      "dir": "toggle-trackpad",
+      "name": "toggle-trackpad",
+      "title": "Toggle Trackpad",
+      "description": "Quickly toggle the built-in trackpad behavior when an external mouse or wireless trackpad is connected.",
+      "author": "ksc73450056",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/ksc73450056/toggle-trackpad",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/toggle-trackpad",
+      "treeSha": "b5ed9e3d2b94f8e11f4d6a50b86bf1b3304d5322",
+      "downloads": 0
     },
     {
       "dir": "tokenizer",

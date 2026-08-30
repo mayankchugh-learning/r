@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · **K** · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-83 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+84 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -74,6 +74,7 @@
 | [krsntn](https://www.raycast.com/krsntn) | 1 | 857 | **Productivity:** [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) |
 | [krzysztoff1](https://www.raycast.com/krzysztoff1) | 1 | 2,704 | **Developer Tools:** [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) |
 | [krzysztofzuraw](https://www.raycast.com/krzysztofzuraw) | 2 | 19,697 | **Productivity:** [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn)<br>**Developer Tools:** [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) |
+| [ksc73450056](https://www.raycast.com/ksc73450056) | 1 | 0 | **System:** [Toggle Trackpad](https://github.com/raycast/extensions/tree/main/extensions/toggle-trackpad) |
 | [KthKuang](https://www.raycast.com/KthKuang) | 1 | 171 | **Productivity:** [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) |
 | [kud](./id/kud.md) | 13 | 6,340 | [see all 13 →](./id/kud.md) |
 | [kumail_changezi](https://www.raycast.com/kumail_changezi) | 1 | 9 | **Design Tools:** [Text Scramble](https://github.com/raycast/extensions/tree/main/extensions/text-scramble) |
