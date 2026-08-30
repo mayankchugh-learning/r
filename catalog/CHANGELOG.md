@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-30 — upstream `032bd208e3`
+
+**Updated (1):** [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league)
+
 ## 2026-08-30 — upstream `241e08f7f5`
 
 **Updated (1):** [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside)

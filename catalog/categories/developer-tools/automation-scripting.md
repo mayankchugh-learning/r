@@ -10,24 +10,24 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 954 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
-| [Windmill](https://github.com/raycast/extensions/tree/main/extensions/windmill) | 145 | Windmill Extension to run workflows directly from Raycast | emiliobool | macOS | [store](https://www.raycast.com/emiliobool/windmill) |
+| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 957 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
+| [Windmill](https://github.com/raycast/extensions/tree/main/extensions/windmill) | 146 | Windmill Extension to run workflows directly from Raycast | emiliobool | macOS | [store](https://www.raycast.com/emiliobool/windmill) |
 | [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | 22 | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |
-| [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | 18 | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
+| [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | 19 | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
 | [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) | 11 | Search, view, and manage Temporal workflows from Raycast | applauselab | macOS | [store](https://www.raycast.com/applauselab/temporal) |
 
 ## Scripts ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,393 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
-| [Raycast Notification](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) | 2,835 | This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast inter… | maxnyby | macOS | [store](https://www.raycast.com/maxnyby/raycast-notification) |
-| [Pipe Commands](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) | 2,222 | Pipe your selection or clipboard to custom scripts defined in any language. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/pipe-commands) |
-| [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit) | 1,398 | Run Script Kit Command from Raycast | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/script-kit) |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 9,399 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [Raycast Notification](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) | 2,838 | This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast inter… | maxnyby | macOS | [store](https://www.raycast.com/maxnyby/raycast-notification) |
+| [Pipe Commands](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) | 2,223 | Pipe your selection or clipboard to custom scripts defined in any language. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/pipe-commands) |
+| [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit) | 1,399 | Run Script Kit Command from Raycast | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/script-kit) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,505 | Convert cron expressions into human readable descriptions | niall-maloney | macOS, Windows | [store](https://www.raycast.com/niall-maloney/cron-description) |
+| [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,508 | Convert cron expressions into human readable descriptions | niall-maloney | macOS, Windows | [store](https://www.raycast.com/niall-maloney/cron-description) |
 | [Cron Manager](https://github.com/raycast/extensions/tree/main/extensions/cron-manager) | 194 | Manage your local cron jobs directly from Raycast. | tahazahit | macOS | [store](https://www.raycast.com/tahazahit/cron-manager) |
