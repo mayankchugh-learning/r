@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-30 — upstream `fba2f50899`
+
+**Updated (1):** [1Bookmark](https://github.com/raycast/extensions/tree/main/extensions/1bookmark)
+
 ## 2026-08-30 — upstream `9e76ade08f`
 
 **Updated (1):** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass)
