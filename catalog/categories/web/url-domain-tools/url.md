@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 11,122 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
+| [URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) | 11,127 | Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for a… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/url-shortener) |
 | [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) | 477 | The Libaro powered URL shortener Shorten your URL in seconds | libaro | macOS | [store](https://www.raycast.com/libaro/liba-ro_shortener) |
 | [Tynyfy - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/tynyfy) | 158 | Shortens your boring long URLs | kusthi | macOS | [store](https://www.raycast.com/kusthi/tynyfy) |
 | [curto.io URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/curto-io-url-shortener) | 110 | Quickly shorten the current clipboard URL with curto.io | birobirobiro | macOS | [store](https://www.raycast.com/birobirobiro/curto-io-url-shortener) |
@@ -21,9 +21,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 76,170 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
-| [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 12,428 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
-| [URL Unshortener](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) | 1,535 | Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/url-unshortener) |
+| [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) | 76,228 | Remove the paywall from the selected or clipboard URL. | tegola | macOS, Windows | [store](https://www.raycast.com/tegola/remove-paywall) |
+| [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 12,436 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
+| [URL Unshortener](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) | 1,537 | Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/url-unshortener) |
 | [Masked Link Generator](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) | 279 | Input a destination URL and the title of the link and receive a masked link in your clipboard. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/masked-link-generator) |
 | [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) | 110 | Instantly annotate images from your clipboard, Finder selection, or web URLs with Annotely. | codiini | macOS, Windows | [store](https://www.raycast.com/codiini/annotely) |
 
@@ -31,10 +31,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 32,867 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
-| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,317 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
-| [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,170 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
-| [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 1,894 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
+| [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 32,888 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
+| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,319 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
+| [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,171 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
+| [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 1,895 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
 | [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,457 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
 | [YouTube Thumbnail](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail) | 1,032 | View a YouTube video's thumbnail variants, then download the images or copy their URLs. | bensomething | macOS | [store](https://www.raycast.com/bensomething/youtube-thumbnail) |
 | [UTM Campaign Builder](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) | 395 | Create a campaign URL with UTM attributes | vimtor | macOS | [store](https://www.raycast.com/vimtor/utm-campaign-builder) |

@@ -2,17 +2,17 @@
 
 [Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · **Conversion, Upload & Download** · [General](./general.md)
 
-12 of 287 extensions · [← macOS · Media](./README.md)
+12 of 288 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,729 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,734 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 6,229 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
-| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,491 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
-| [Paperless-ngx](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) | 934 | Search Paperless-ngx for documents and upload | damdam | macOS | [store](https://www.raycast.com/damdam/paperless-ngx) |
-| [put.io](https://github.com/raycast/extensions/tree/main/extensions/putio) | 583 | Raycast extension for managing files, transfers, and history events in your put.io account. | putio (org) | macOS | [store](https://www.raycast.com/putio/putio) |
+| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,493 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
+| [Paperless-ngx](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) | 938 | Search Paperless-ngx for documents and upload | damdam | macOS | [store](https://www.raycast.com/damdam/paperless-ngx) |
+| [put.io](https://github.com/raycast/extensions/tree/main/extensions/putio) | 584 | Raycast extension for managing files, transfers, and history events in your put.io account. | putio (org) | macOS | [store](https://www.raycast.com/putio/putio) |
 | [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 447 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
-| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 377 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
+| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 378 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
 | [Prowlarr](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) | 320 | Search and add to download clients with Prowlarr | elcaten | macOS | [store](https://www.raycast.com/elcaten/prowlarr) |
 | [Cloudinary](https://github.com/raycast/extensions/tree/main/extensions/cloudinary) | 233 | Search assets and upload your clipboard to your Cloudinary account | colbyfayock | macOS | [store](https://www.raycast.com/colbyfayock/cloudinary) |
 | [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 230 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |

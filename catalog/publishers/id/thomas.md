@@ -1,44 +1,44 @@
 # thomas
 
-15 extensions · 1,135,108 downloads · [store](https://www.raycast.com/thomas) · [← publishers](../README.md)
+15 extensions · 1,135,873 downloads · [store](https://www.raycast.com/thomas) · [← publishers](../README.md)
 
 ## Design Tools (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 525,353 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 525,808 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 
 ## Developer Tools (4)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 365,639 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
-| [GitHub Repository Search](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) | 15,864 | Search repositories on GitHub and open previously visited ones faster. | thomas | macOS | [store](https://www.raycast.com/thomas/github-repository-search) |
-| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,121 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
+| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 365,825 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
+| [GitHub Repository Search](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) | 15,870 | Search repositories on GitHub and open previously visited ones faster. | thomas | macOS | [store](https://www.raycast.com/thomas/github-repository-search) |
+| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,122 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
 | [Doppler Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) | 1,803 | Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets | thomas | macOS | [store](https://www.raycast.com/thomas/doppler-share-secrets) |
 
 ## Productivity (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 75,244 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 61,675 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
-| [Year in Progress](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) | 10,488 | Stay motivated by see the progress of the year. | thomas | macOS | [store](https://www.raycast.com/thomas/year-in-progress) |
-| [Elgato Key Light](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) | 3,076 | Control your Elgato Key Lights with ease | thomas | macOS | [store](https://www.raycast.com/thomas/elgato-key-light) |
+| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 75,292 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 61,720 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Year in Progress](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) | 10,491 | Stay motivated by see the progress of the year. | thomas | macOS | [store](https://www.raycast.com/thomas/year-in-progress) |
+| [Elgato Key Light](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) | 3,078 | Control your Elgato Key Lights with ease | thomas | macOS | [store](https://www.raycast.com/thomas/elgato-key-light) |
 | [Work Time Countdown](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) | 2,812 | A simple timer to help you keep productive during work time. | thomas | macOS | [store](https://www.raycast.com/thomas/work-time-countdown) |
-| [ChatGPT Atlas](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-atlas) | 2,050 | Search your history of ChatGPT Atlas, OpenAI's new browser. | thomas | macOS | [store](https://www.raycast.com/thomas/chatgpt-atlas) |
+| [ChatGPT Atlas](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-atlas) | 2,053 | Search your history of ChatGPT Atlas, OpenAI's new browser. | thomas | macOS | [store](https://www.raycast.com/thomas/chatgpt-atlas) |
 
 ## Media (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,689 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
+| [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,697 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
 
 ## News (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,762 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 21,770 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
 
 ## Fun (1)
 

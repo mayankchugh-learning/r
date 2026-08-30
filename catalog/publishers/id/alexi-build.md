@@ -1,6 +1,6 @@
 # alexi.build
 
-17 extensions · 1,927 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+17 extensions · 1,931 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -21,7 +21,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 286 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 288 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 
 ## Developer Tools (2)
 
@@ -40,7 +40,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 100 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
+| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 101 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
 | [TV Remote](https://github.com/raycast/extensions/tree/main/extensions/tv-remote) | 19 | Control Sony BRAVIA TV picture settings | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/tv-remote) |
 
 ## Finance (1)
@@ -65,7 +65,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zread.ai](https://github.com/raycast/extensions/tree/main/extensions/zread-ai) | 57 | Open zread.ai pages for GitHub repositories and browse trending repositories. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/zread-ai) |
+| [Zread.ai](https://github.com/raycast/extensions/tree/main/extensions/zread-ai) | 58 | Open zread.ai pages for GitHub repositories and browse trending repositories. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/zread-ai) |
 
 ## Data (2)
 

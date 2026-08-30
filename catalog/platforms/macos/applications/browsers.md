@@ -2,13 +2,13 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · **Browsers** · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
 
-11 of 369 extensions · [← macOS · Applications](./README.md)
+11 of 370 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 229,374 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
-| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 54,821 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
-| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 10,072 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
+| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 229,437 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 54,842 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 10,076 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,457 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
 | [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 945 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
 | [OSS Browser](https://github.com/raycast/extensions/tree/main/extensions/oss-browser) | 171 | Browse and manage Aliyun Object Storage Service | JinShi | macOS | [store](https://www.raycast.com/JinShi/oss-browser) |
