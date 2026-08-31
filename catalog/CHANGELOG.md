@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `480d47133f`
+
+**Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)
+
 ## 2026-08-31 — upstream `9ddd4b1129`
 
 **Added (1):** [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search)
