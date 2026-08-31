@@ -1,8 +1,8 @@
 # Terminal & Editors
 
-45 extensions · [← Developer Tools](./README.md)
+46 extensions · [← Developer Tools](./README.md)
 
-[Terminal ✦](#terminal) (12) · [Editor ✦](#editor) (7) · [CLI ✦](#cli) (6) · [Shell ✦](#shell) (5) · [General](#general) (15)
+[Terminal ✦](#terminal) (12) · [CLI ✦](#cli) (7) · [Editor ✦](#editor) (7) · [Shell ✦](#shell) (5) · [General](#general) (15)
 
 *✦ auto-discovered topic group*
 
@@ -23,6 +23,18 @@
 | [ShiftPlus](https://github.com/raycast/extensions/tree/main/extensions/shiftplus) | 60 | Switch your full project context — browser profiles, apps, terminal, windows — from Raycast. | nghia_luong | macOS | [store](https://www.raycast.com/nghia_luong/shiftplus) |
 | [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | 26 | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | [store](https://www.raycast.com/Ethan_Cao/otty) |
 
+## CLI ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Foundry Cast CLI](https://github.com/raycast/extensions/tree/main/extensions/foundry-cast-cli) | 136 | Use the Cast CLI directly inside Raycast | merklefruit | macOS | [store](https://www.raycast.com/merklefruit/foundry-cast-cli) |
+| [WordPress WP-CLI Commands Explorer](https://github.com/raycast/extensions/tree/main/extensions/wp-cli-command-explorer) | 131 | Browse and search WP-CLI commands with their descriptions and subcommands | aslamdoctor | macOS | [store](https://www.raycast.com/aslamdoctor/wp-cli-command-explorer) |
+| [Apfel](https://github.com/raycast/extensions/tree/main/extensions/apfel) | 113 | Interact with Apfel CLI from Raycast! | eggsy | macOS | [store](https://www.raycast.com/eggsy/apfel) |
+| [WeChat DevTool](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool) | 39 | Quickly open WeChat mini program project via official CLI. | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/wechat-devtool) |
+| [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit) | 4 | Offline microphone dictation powered by the Kesha Voice Kit CLI. Records locally, transcribes locally, and copies text to your clipboard. | drakulavich | macOS | [store](https://www.raycast.com/drakulavich/kesha-voice-kit) |
+| [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) | 0 | Search the Aqua Registry for CLI tools and copy commands to add them to aqua.yaml | raycast_0ukl | macOS, Windows | [store](https://www.raycast.com/raycast_0ukl/aqua-registry-search) |
+
 ## Editor ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -34,17 +46,6 @@
 | [Scratchpad](https://github.com/raycast/extensions/tree/main/extensions/scratchpad) | 237 | Creates a scratchpad file and opens it in an editor | asnimansari | macOS | [store](https://www.raycast.com/asnimansari/scratchpad) |
 | [URL Editor Pro](https://github.com/raycast/extensions/tree/main/extensions/url-editor-pro) | 196 | Parses any URL—including custom schemes—into its components, lets you edit each part. Easily copy the modified URL, save to history or generate a QR code for q… | CoyoteWaltz | macOS | [store](https://www.raycast.com/CoyoteWaltz/url-editor-pro) |
 | [Momentum](https://github.com/raycast/extensions/tree/main/extensions/momentum) | 117 | Create a new project and open it in your favourite editor | leondaz | macOS | [store](https://www.raycast.com/leondaz/momentum) |
-
-## CLI ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Foundry Cast CLI](https://github.com/raycast/extensions/tree/main/extensions/foundry-cast-cli) | 136 | Use the Cast CLI directly inside Raycast | merklefruit | macOS | [store](https://www.raycast.com/merklefruit/foundry-cast-cli) |
-| [WordPress WP-CLI Commands Explorer](https://github.com/raycast/extensions/tree/main/extensions/wp-cli-command-explorer) | 131 | Browse and search WP-CLI commands with their descriptions and subcommands | aslamdoctor | macOS | [store](https://www.raycast.com/aslamdoctor/wp-cli-command-explorer) |
-| [Apfel](https://github.com/raycast/extensions/tree/main/extensions/apfel) | 113 | Interact with Apfel CLI from Raycast! | eggsy | macOS | [store](https://www.raycast.com/eggsy/apfel) |
-| [WeChat DevTool](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool) | 39 | Quickly open WeChat mini program project via official CLI. | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/wechat-devtool) |
-| [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit) | 4 | Offline microphone dictation powered by the Kesha Voice Kit CLI. Records locally, transcribes locally, and copies text to your clipboard. | drakulavich | macOS | [store](https://www.raycast.com/drakulavich/kesha-voice-kit) |
-| [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 
 ## Shell ✦
 

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `9ddd4b1129`
+
+**Added (1):** [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search)
+
 ## 2026-08-31 — upstream `3c042be8a3`
 
 **Updated (1):** [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher)
