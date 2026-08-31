@@ -2,11 +2,11 @@
 
 **Apps & Processes** · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-35 of 253 extensions · [← macOS · System](./README.md)
+36 of 254 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 685,785 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 685,973 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 107,256 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 45,702 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
 | [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 31,532 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
@@ -41,3 +41,4 @@
 | [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) | 16 | Pause and resume macOS applications through the App Freezer native agent. | changxu_song | macOS | [store](https://www.raycast.com/changxu_song/appfreezer) |
 | [Ejection Seat](https://github.com/raycast/extensions/tree/main/extensions/ejection-seat) | 6 | Find the processes and files that may be preventing a disk from ejecting. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/ejection-seat) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 3 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |
+| [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper) | 0 | Find and kill orphaned dev-server processes — the same classification engine as the Portreaper desktop app. | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/portreaper) |

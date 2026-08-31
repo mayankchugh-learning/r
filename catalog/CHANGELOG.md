@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `135f470af1`
+
+**Added (1):** [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper)
+
 ## 2026-08-31 — upstream `dcc4bfcca5`
 
 **Updated (1):** [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league)

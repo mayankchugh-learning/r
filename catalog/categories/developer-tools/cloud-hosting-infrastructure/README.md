@@ -1,11 +1,11 @@
 # Cloud, Hosting & Infrastructure
 
-91 extensions · [← Developer Tools](../README.md)
+92 extensions · [← Developer Tools](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
 | [Domains ✦](./domains.md) | 20 |
-| [Servers ✦](./servers.md) | 18 |
+| [Servers ✦](./servers.md) | 19 |
 | [DNS ✦](./dns.md) | 8 |
 | [Cloud ✦](./cloud.md) | 9 |
 | [Instance ✦](./instance.md) | 6 |

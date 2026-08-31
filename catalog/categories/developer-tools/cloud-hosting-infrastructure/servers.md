@@ -1,6 +1,6 @@
 # Servers ✦
 
-18 extensions · [← Cloud, Hosting & Infrastructure](./README.md)
+19 extensions · [← Cloud, Hosting & Infrastructure](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -24,3 +24,4 @@
 | [VirtFusion](https://github.com/raycast/extensions/tree/main/extensions/virtfusion) | 35 | Manage Servers, SSH Keys | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/virtfusion) |
 | [SpinupWP](https://github.com/raycast/extensions/tree/main/extensions/spinupwp) | 29 | Quickly manage your SpinupWP servers and websites. | damiengorin | macOS, Windows | [store](https://www.raycast.com/damiengorin/spinupwp) |
 | [SolusVM 1 Client](https://github.com/raycast/extensions/tree/main/extensions/solusvm-1-client) | 16 | Fetch Information and Manage SolusVM 1 Virtual Server | xmok | macOS | [store](https://www.raycast.com/xmok/solusvm-1-client) |
+| [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper) | 0 | Find and kill orphaned dev-server processes — the same classification engine as the Portreaper desktop app. | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/portreaper) |

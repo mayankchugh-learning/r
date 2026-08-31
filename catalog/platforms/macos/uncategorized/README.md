@@ -22,7 +22,7 @@
 | [DB Schema Explorer](https://github.com/raycast/extensions/tree/main/extensions/db-schema-explorer) | 80 | Get database schema (tables, columns, relations) from PostgreSQL and MongoDB for AI reference and context | scisaif | macOS, Windows | [store](https://www.raycast.com/scisaif/db-schema-explorer) |
 | [Qoder](https://github.com/raycast/extensions/tree/main/extensions/qoder) | 80 | Quick access to Qoder AI Editor | ezreal09 | macOS | [store](https://www.raycast.com/ezreal09/qoder) |
 | [Autumn](https://github.com/raycast/extensions/tree/main/extensions/autumn) | 43 | Stripe made easy for AI Startups | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/autumn) |
-| [FuelX](https://github.com/raycast/extensions/tree/main/extensions/fuelx) | 35 | FUEL AI Agent in Raycast | naz3eh | macOS | [store](https://www.raycast.com/naz3eh/fuelx) |
+| [FuelX](https://github.com/raycast/extensions/tree/main/extensions/fuelx) | 36 | FUEL AI Agent in Raycast | naz3eh | macOS | [store](https://www.raycast.com/naz3eh/fuelx) |
 | [Botpress](https://github.com/raycast/extensions/tree/main/extensions/botpress) | 32 | Manage your Botpress chatbots | ermek_barmashev | macOS, Windows | [store](https://www.raycast.com/ermek_barmashev/botpress) |
 
 ### Developer Utilities
@@ -49,7 +49,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 510,509 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 510,626 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 6,055 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
 | [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,235 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
 | [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,319 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |

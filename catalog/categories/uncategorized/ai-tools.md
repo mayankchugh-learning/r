@@ -16,5 +16,5 @@
 | [DB Schema Explorer](https://github.com/raycast/extensions/tree/main/extensions/db-schema-explorer) | 80 | Get database schema (tables, columns, relations) from PostgreSQL and MongoDB for AI reference and context | scisaif | macOS, Windows | [store](https://www.raycast.com/scisaif/db-schema-explorer) |
 | [Qoder](https://github.com/raycast/extensions/tree/main/extensions/qoder) | 80 | Quick access to Qoder AI Editor | ezreal09 | macOS | [store](https://www.raycast.com/ezreal09/qoder) |
 | [Autumn](https://github.com/raycast/extensions/tree/main/extensions/autumn) | 43 | Stripe made easy for AI Startups | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/autumn) |
-| [FuelX](https://github.com/raycast/extensions/tree/main/extensions/fuelx) | 35 | FUEL AI Agent in Raycast | naz3eh | macOS | [store](https://www.raycast.com/naz3eh/fuelx) |
+| [FuelX](https://github.com/raycast/extensions/tree/main/extensions/fuelx) | 36 | FUEL AI Agent in Raycast | naz3eh | macOS | [store](https://www.raycast.com/naz3eh/fuelx) |
 | [Botpress](https://github.com/raycast/extensions/tree/main/extensions/botpress) | 32 | Manage your Botpress chatbots | ermek_barmashev | macOS, Windows | [store](https://www.raycast.com/ermek_barmashev/botpress) |

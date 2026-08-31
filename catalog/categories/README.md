@@ -14,7 +14,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 1110 |
+| [Developer Tools](./developer-tools/README.md) | 1111 |
 | [Data](./data/README.md) | 270 |
 | [Documentation](./documentation/README.md) | 211 |
 | [Security](./security/README.md) | 85 |
@@ -39,7 +39,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [System](./system/README.md) | 267 |
+| [System](./system/README.md) | 268 |
 | [Other](./other/README.md) | 187 |
 
 ### Fun & Entertainment

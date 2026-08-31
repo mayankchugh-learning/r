@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-213 extensions · [← catalog index](../README.md)
+214 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -219,3 +219,4 @@
 | [PuTTY Sessions](https://github.com/raycast/extensions/tree/main/extensions/putty-sessions) | 4 | Search and launch your saved PuTTY sessions from Raycast. | THEN00P | Windows | [store](https://www.raycast.com/THEN00P/putty-sessions) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 2 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
 | [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 0 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |
+| [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper) | 0 | Find and kill orphaned dev-server processes — the same classification engine as the Portreaper desktop app. | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/portreaper) |

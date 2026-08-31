@@ -164,7 +164,7 @@
 | [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town) | 58 | Browse your vals, read their logs and traces, and allow Raycast AI to run the ones you choose | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/val-town) |
 | [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 34 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 10 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
-| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 0 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
+| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 1 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
 
 ### Crypto & Markets
 
