@@ -1,6 +1,6 @@
 # Developers ✦
 
-10 extensions · [← Developer Tools](./README.md)
+11 extensions · [← Developer Tools](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -10,6 +10,7 @@
 | [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,532 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,846 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) | 1,741 | Pieces for Developers Raycast Extension | pieces (org) | macOS | [store](https://www.raycast.com/pieces/pieces-raycast) |
+| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,177 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [CPF/CNPJ Generator](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) | 622 | Generate CPF (Cadastro de Pessoa Físca) number or CNPJ (Cadastro Nacional de Pessoa Jurídica) number data for developers | gstvds | macOS | [store](https://www.raycast.com/gstvds/cpf-cnpj-generator) |
 | [PHP Toolbox](https://github.com/raycast/extensions/tree/main/extensions/php-toolbox) | 459 | A suite of useful commands for PHP developers | inxilpro | macOS | [store](https://www.raycast.com/inxilpro/php-toolbox) |
 | [Shopify Developer Changelog](https://github.com/raycast/extensions/tree/main/extensions/shopify-developer-changelog) | 287 | Most recent changes to Shopify's developer platform | sandypockets | macOS | [store](https://www.raycast.com/sandypockets/shopify-developer-changelog) |

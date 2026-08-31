@@ -17,7 +17,7 @@
 | --- | --- |
 | [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 33 |
 | [Databases](./databases.md) | 3 |
-| [APIs & Networking](./apis-networking.md) | 17 |
+| [APIs & Networking](./apis-networking.md) | 16 |
 | [Monitoring & Logs](./monitoring-logs.md) | 7 |
 
 ## Platforms & Ecosystems
@@ -39,4 +39,4 @@
 | [Files & Transfer](./files-transfer.md) | 8 |
 | [Design & Assets](./design-assets.md) | 14 |
 
-Plus [General](./general.md) — 55 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 56 extensions that don't fit a topic yet.

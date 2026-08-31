@@ -1,8 +1,8 @@
 # APIs & Networking
 
-55 extensions · [← Developer Tools](./README.md)
+54 extensions · [← Developer Tools](./README.md)
 
-[API ✦](#api) (24) · [Network ✦](#network) (8) · [Http ✦](#http) (6) · [Port ✦](#port) (6) · [General](#general) (11)
+[API ✦](#api) (23) · [Network ✦](#network) (8) · [Http ✦](#http) (6) · [Port ✦](#port) (6) · [General](#general) (11)
 
 *✦ auto-discovered topic group*
 
@@ -13,7 +13,6 @@
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,728 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |
 | [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,205 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |
 | [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,727 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
-| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,175 | Manage API Keys and Domains, and Send Emails using Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,083 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
 | [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) | 1,066 | Serve Web Apps with one command ngrok is a simplified API-first ingress-as-a-service that adds connectivity, security, and observability to your apps in one li… | ubinatus | macOS | [store](https://www.raycast.com/ubinatus/ngrok) |
 | [Google PaLM](https://github.com/raycast/extensions/tree/main/extensions/raycast-google-palm) | 839 | Use the Google PaLM 2 API in Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-google-palm) |

@@ -2,11 +2,11 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · **General**
 
-58 of 311 extensions · [← Windows · Developer Tools](./README.md)
+59 of 311 extensions · [← Windows · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 685,973 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 686,092 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 163,958 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 98,762 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 61,918 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -19,6 +19,7 @@
 | [Discord Timestamps](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) | 1,610 | Generate a Discord timestamp | theshadowdev | macOS, Windows | [store](https://www.raycast.com/theshadowdev/discord-timestamps) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,283 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,198 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
+| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,177 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | 825 | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |
 | [Can I PHP?](https://github.com/raycast/extensions/tree/main/extensions/can-i-php) | 736 | Check if a certain function or method is available in different versions of PHP. | diana_scharf | macOS, Windows | [store](https://www.raycast.com/diana_scharf/can-i-php) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 680 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |

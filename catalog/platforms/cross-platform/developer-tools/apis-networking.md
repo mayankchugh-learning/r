@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · **APIs & Networking** · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-17 of 300 extensions · [← Cross-platform · Developer Tools](./README.md)
+16 of 300 extensions · [← Cross-platform · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,6 @@
 | [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,727 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
 | [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing) | 1,969 | Show your local and external IPs from multiple sources, look up the location and network behind any IP address, and keep your current IP in the menu bar | jason5ng32 | macOS, Windows | [store](https://www.raycast.com/jason5ng32/ipcheck-ing) |
 | [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,504 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
-| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,175 | Manage API Keys and Domains, and Send Emails using Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [IP Info](https://github.com/raycast/extensions/tree/main/extensions/ipinfo) | 651 | An extension to use ipinfo.io's API to get information about IP addresses | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/ipinfo) |
 | [OpenRouter Manager](https://github.com/raycast/extensions/tree/main/extensions/openrouter-manager) | 312 | View your OpenRouter credits and manage your API keys | ClaPalo | macOS, Windows | [store](https://www.raycast.com/ClaPalo/openrouter-manager) |
 | [Port from Project Name](https://github.com/raycast/extensions/tree/main/extensions/port-from-project-name) | 69 | A tool that can generate a unique 4 digit port for a given project name | sopheakvethya_syna | Windows, macOS | [store](https://www.raycast.com/sopheakvethya_syna/port-from-project-name) |

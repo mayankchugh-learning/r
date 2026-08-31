@@ -10,7 +10,7 @@ macOS: 150 · Windows: 54
 | --- | --- |
 | [Messaging & Chat](./messaging-chat.md) | 28 |
 | [Video Calls & Meetings](./video-calls-meetings.md) | 15 |
-| [Email](./email.md) | 23 |
+| [Email](./email.md) | 24 |
 
 ## Social & Sharing
 
@@ -32,7 +32,7 @@ macOS: 150 · Windows: 54
 
 | Topic | Extensions |
 | --- | --- |
-| [Domains ✦](./domains.md) | 5 |
+| [Domains ✦](./domains.md) | 4 |
 | [Phonetic ✦](./phonetic.md) | 4 |
 
 Plus [General](./general.md) — 46 extensions that don't fit a topic yet.

@@ -2,11 +2,11 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · **General**
 
-244 of 1100 extensions · [← macOS · Developer Tools](./README.md)
+245 of 1100 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 685,973 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 686,092 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 163,958 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 98,762 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 61,918 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -60,6 +60,7 @@
 | [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) | 1,228 | Runs configurable application shortcut depending on the frontmost application. | cyxn | macOS | [store](https://www.raycast.com/cyxn/universal-commands) |
 | [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) | 1,212 | Raycast extension for MiniSim | okwasniewski | macOS | [store](https://www.raycast.com/okwasniewski/minisim) |
 | [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) | 1,198 | Paste conventional comment into your foremost application | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/conventional-comments) |
+| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,177 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) | 1,162 | Launch and control virtual machines in UTM. | alaidriel | macOS | [store](https://www.raycast.com/cecelot/utm-virtual-machines) |
 | [Diskutil](https://github.com/raycast/extensions/tree/main/extensions/diskutil-mac) | 1,159 | View your disks and volumes. An implementation of the macOS 'diskutil' command with quicker access to functionality, providing a better overview and a more use… | Globolo | macOS | [store](https://www.raycast.com/Globolo/diskutil-mac) |
 | [Wakatime](https://github.com/raycast/extensions/tree/main/extensions/wakatime) | 1,125 | Show your Wakatime Activity Stats, Projects and Leaderboards | iammola | macOS | [store](https://www.raycast.com/iammola/wakatime) |

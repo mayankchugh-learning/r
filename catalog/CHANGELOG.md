@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `bad8519198`
+
+**Updated (1):** [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend)
+
 ## 2026-08-31 — upstream `135f470af1`
 
 **Added (1):** [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper)

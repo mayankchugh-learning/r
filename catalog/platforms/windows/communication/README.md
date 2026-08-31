@@ -2,7 +2,7 @@
 
 54 extensions · [← Windows](../README.md)
 
-[Messaging & Chat](#messaging-chat) (11) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (14) · [Social & Fediverse](#social-fediverse) (3) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (2) · [General](#general) (17)
+[Messaging & Chat](#messaging-chat) (11) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (15) · [Social & Fediverse](#social-fediverse) (3) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (2) · [General](#general) (16)
 
 ## Conversations
 
@@ -36,6 +36,7 @@
 | [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 36,636 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
 | [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,750 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
 | [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,687 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
+| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,177 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | 777 | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 291 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 170 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
@@ -96,7 +97,6 @@
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 5,846 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,695 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,467 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
-| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,175 | Manage API Keys and Domains, and Send Emails using Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 818 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 | [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 602 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 133 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |

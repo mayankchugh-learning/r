@@ -2,7 +2,7 @@
 
 150 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (28) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (22) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (54)
+[Messaging & Chat](#messaging-chat) (28) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (23) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (53)
 
 ## Conversations
 
@@ -67,6 +67,7 @@
 | [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,750 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
 | [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,687 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman) | 2,183 | Boost your email workflow with powerful contextual Superhuman integration. Draft emails with context and search your inbox using Superhuman's advanced operator… | jlokos | macOS | [store](https://www.raycast.com/jlokos/superhuman) |
+| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,177 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) | 860 | Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API | krsntn | macOS | [store](https://www.raycast.com/krsntn/guerrilla-mail) |
 | [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 809 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | 777 | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
@@ -162,7 +163,6 @@
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,695 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
 | [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,467 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
 | [Grammarix](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) | 1,377 | Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription,… | hakob_nersesian | macOS | [store](https://www.raycast.com/hakob_nersesian/grammari-x) |
-| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,175 | Manage API Keys and Domains, and Send Emails using Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Time Zone Converter](https://github.com/raycast/extensions/tree/main/extensions/time-converter) | 1,083 | Convert times between different time zones and paste the results | alex_jones | macOS | [store](https://www.raycast.com/alex_jones/time-converter) |
 | [CanvasCast](https://github.com/raycast/extensions/tree/main/extensions/canvascast) | 1,050 | Access the Canvas LMS from Raycast | Yoda | macOS | [store](https://www.raycast.com/Yoda/canvascast) |
 | [NATO Phonetic Alphabet](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet) | 907 | For knowing and conveniently using the NATO phonetic alphabet. | jns | macOS | [store](https://www.raycast.com/jns/nato-phonetic-alphabet) |

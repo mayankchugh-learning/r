@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · **APIs & Networking** · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-54 of 1100 extensions · [← macOS · Developer Tools](./README.md)
+53 of 1100 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,6 @@
 | [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,504 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,432 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |
 | [Wifi Share QR-Code](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) | 1,430 | Share any saved wifi qr code to other devices to join the network | abul_kalam_robin | macOS | [store](https://www.raycast.com/abul_kalam_robin/wifi-share) |
-| [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,175 | Manage API Keys and Domains, and Send Emails using Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,083 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
 | [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) | 1,066 | Serve Web Apps with one command ngrok is a simplified API-first ingress-as-a-service that adds connectivity, security, and observability to your apps in one li… | ubinatus | macOS | [store](https://www.raycast.com/ubinatus/ngrok) |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 997 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |

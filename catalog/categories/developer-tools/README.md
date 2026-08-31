@@ -20,7 +20,7 @@ macOS: 1100 · Windows: 311
 | [CI/CD & DevOps](./ci-cd-devops.md) | 6 |
 | [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure/README.md) | 92 |
 | [Databases](./databases.md) | 14 |
-| [APIs & Networking](./apis-networking.md) | 55 |
+| [APIs & Networking](./apis-networking.md) | 54 |
 | [Monitoring & Logs](./monitoring-logs.md) | 26 |
 
 ## Platforms & Ecosystems
@@ -46,18 +46,18 @@ macOS: 1100 · Windows: 311
 
 | Topic | Extensions |
 | --- | --- |
-| [Developers ✦](./developers.md) | 10 |
+| [Developers ✦](./developers.md) | 11 |
 | [Sites ✦](./sites.md) | 8 |
 | [Domains ✦](./domains.md) | 6 |
+| [Email ✦](./email.md) | 5 |
 | [Keyboard ✦](./keyboard.md) | 4 |
 | [Machines ✦](./machines.md) | 6 |
 | [Navigate ✦](./navigate.md) | 4 |
-| [Password ✦](./password.md) | 6 |
+| [Password ✦](./password.md) | 5 |
 | [Service ✦](./service.md) | 5 |
 | [Web ✦](./web.md) | 4 |
 | [Apple ✦](./apple.md) | 4 |
 | [Between ✦](./between.md) | 4 |
-| [Email ✦](./email.md) | 4 |
 | [Sessions ✦](./sessions.md) | 5 |
 | [Ease ✦](./ease.md) | 4 |
 

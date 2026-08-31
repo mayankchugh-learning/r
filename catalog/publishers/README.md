@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,138,295 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,138,399 |
 | 2 | [raycast](./id/raycast.md) | 11 | 807,417 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 685,973 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 510,626 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 686,092 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 510,711 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 449,126 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 444,251 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 415,305 |
@@ -525,7 +525,7 @@
 | 515 | [astronight](https://www.raycast.com/astronight) | 1 | 1,471 |
 | 516 | [frolik](https://www.raycast.com/frolik) | 1 | 1,471 |
 | 517 | [edith](https://www.raycast.com/edith) | 1 | 1,467 |
-| 518 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,466 |
+| 518 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,465 |
 | 519 | [fonimus](https://www.raycast.com/fonimus) | 2 | 1,465 |
 | 520 | [skaj](https://www.raycast.com/skaj) | 1 | 1,462 |
 | 521 | [LightQuantum](https://www.raycast.com/LightQuantum) | 1 | 1,457 |
@@ -588,7 +588,7 @@
 | 578 | [stelo](https://www.raycast.com/stelo) | 2 | 1,192 |
 | 579 | [blainerothrock](https://www.raycast.com/blainerothrock) | 1 | 1,181 |
 | 580 | [caleb531](https://www.raycast.com/caleb531) | 2 | 1,177 |
-| 581 | [resend](https://www.raycast.com/resend) | 1 | 1,175 |
+| 581 | [resend](https://www.raycast.com/resend) | 1 | 1,177 |
 | 582 | [juhamust](https://www.raycast.com/juhamust) | 2 | 1,174 |
 | 583 | [Mmehdi06](https://www.raycast.com/Mmehdi06) | 1 | 1,172 |
 | 584 | [lewj](https://www.raycast.com/lewj) | 1 | 1,169 |
