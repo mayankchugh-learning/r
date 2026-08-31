@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2d58cffc00db67dfdcf605a20cd7577fcb961f63",
-  "generatedAt": "2026-08-31T08:15:40.072Z",
-  "downloadsRefreshedAt": "2026-08-31T08:15:39.298Z",
+  "commit": "44bd371b54fa59900de67d3afb4b3c5c347d4736",
+  "generatedAt": "2026-08-31T08:36:26.746Z",
+  "downloadsRefreshedAt": "2026-08-31T08:36:25.832Z",
   "count": 3237,
   "extensions": [
     {
@@ -649,10 +649,10 @@
         "Windows",
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/0xdhrv/agent-browser",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-browser",
       "treeSha": "ec535b71caee7712dd7d2c1c310e338971fa4988",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "agent-client-protocol",
@@ -9790,7 +9790,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 527042
+      "downloads": 527076
     },
     {
       "dir": "color-shades",
@@ -22185,7 +22185,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 510463
+      "downloads": 510493
     },
     {
       "dir": "google-chrome-profiles",
@@ -28507,7 +28507,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 685726
+      "downloads": 685764
     },
     {
       "dir": "kimai",
@@ -33709,7 +33709,7 @@
       "description": "Quickly read your latest messages, open your chats, or send messages to your contacts.",
       "author": "thomaslombart",
       "owner": null,
-      "contributors": 8,
+      "contributors": 9,
       "categories": [
         "Productivity",
         "Communication"
@@ -33720,7 +33720,7 @@
       ],
       "store": "https://www.raycast.com/thomaslombart/messages",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/messages",
-      "treeSha": "3729dd3dda528d8140f3b1db75cdc15cb33a181b",
+      "treeSha": "8777d5b9e15abb89e7d068cd8720f6a5f9be72d5",
       "downloads": 46317
     },
     {
