@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `c5dc5e22be`
+
+**Added (1):** [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud)
+
 ## 2026-08-31 — upstream `6e613caffd`
 
 **Updated (1):** [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail)

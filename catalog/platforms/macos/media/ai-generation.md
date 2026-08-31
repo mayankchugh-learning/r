@@ -2,7 +2,7 @@
 
 [Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · **AI Generation** · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
 
-4 of 288 extensions · [← macOS · Media](./README.md)
+5 of 289 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -10,3 +10,4 @@
 | [GetSound](https://github.com/raycast/extensions/tree/main/extensions/getsound) | 698 | Get focused with GetSound.AI | getsound-ai (org) | macOS | [store](https://www.raycast.com/getsound-ai/getsound) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 243 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 | [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 10 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
+| [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 0 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |
