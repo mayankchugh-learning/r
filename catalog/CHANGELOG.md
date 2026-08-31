@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `2d58cffc00`
+
+**Added (1):** [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser)
+
 ## 2026-08-31 — upstream `ffe5f1b80e`
 
 **Updated (1):** [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams)

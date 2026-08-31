@@ -1,8 +1,8 @@
 # Agent ✦
 
-12 extensions · [← AI](./README.md)
+13 extensions · [← AI](./README.md)
 
-[Coding ✦](#coding) (6) · [AI Agent ✦](#ai-agent) (4) · [General](#general) (2)
+[Coding ✦](#coding) (6) · [AI Agent ✦](#ai-agent) (4) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -32,3 +32,4 @@
 | --- | --- | --- | --- | --- | --- |
 | [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 879 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
 | [AI Agency](https://github.com/raycast/extensions/tree/main/extensions/ai-agency) | 163 | Browse AI Agency agents by division, view specialties and copy prompts. | marcin-91 | macOS | [store](https://www.raycast.com/marcin-91/ai-agency) |
+| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | — | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | — |

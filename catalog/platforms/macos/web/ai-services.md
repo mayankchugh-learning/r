@@ -2,7 +2,7 @@
 
 **AI Services** · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-33 of 464 extensions · [← macOS · Web](./README.md)
+34 of 465 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -39,3 +39,4 @@
 | [Polidict](https://github.com/raycast/extensions/tree/main/extensions/polidict) | 33 | Master new vocabulary with spaced repetition, AI-powered definitions, and curated word collections | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/polidict) |
 | [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 32 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 10 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
+| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | — | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | — |

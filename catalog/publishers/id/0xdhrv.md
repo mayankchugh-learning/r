@@ -1,6 +1,6 @@
 # 0xdhrv
 
-15 extensions · 1,463 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+16 extensions · 1,463 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -16,7 +16,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Drug Search](https://github.com/raycast/extensions/tree/main/extensions/drug-search) | 313 | Search the FDA drug database with ease | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/drug-search) |
 
-## Developer Tools (7)
+## Developer Tools (8)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -27,6 +27,7 @@
 | [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 15 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
 | [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 12 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |
 | [Fx Coding Agent](https://github.com/raycast/extensions/tree/main/extensions/fx-coding-agent) | 11 | Run fx coding agent commands, inspect sessions, and delegate work from Raycast AI | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/fx-coding-agent) |
+| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | — | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | — |
 
 ## Fun (3)
 

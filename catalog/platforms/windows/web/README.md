@@ -1,8 +1,8 @@
 # Windows · Web
 
-138 extensions · [← Windows](../README.md)
+139 extensions · [← Windows](../README.md)
 
-[AI Services](#ai-services) (15) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (48) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (20) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
+[AI Services](#ai-services) (16) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (48) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (20) · [Browsers & Tabs](#browsers-tabs) (1) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
 
 ## Browse & Search
 
@@ -164,6 +164,7 @@
 | [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town) | 58 | Browse your vals, read their logs and traces, and allow Raycast AI to run the ones you choose | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/val-town) |
 | [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 32 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 10 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
+| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | — | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | — |
 
 ### Crypto & Markets
 
