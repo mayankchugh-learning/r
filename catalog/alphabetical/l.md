@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-126 extensions · [← catalog index](../README.md)
+127 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -132,3 +132,4 @@
 | [Lattice Scholar Extension](https://github.com/raycast/extensions/tree/main/extensions/lattice-scholar-extension) | 5 | Search your Lattice literature library from Raycast | frank-miao | macOS | [store](https://www.raycast.com/frank-miao/lattice-scholar-extension) |
 | [Logbook](https://github.com/raycast/extensions/tree/main/extensions/logbook) | 5 | Capture and complete your Logbook tasks without leaving Raycast. | rushi_gandhi | macOS | [store](https://www.raycast.com/rushi_gandhi/logbook) |
 | [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) | 4 | Search, filter, and open links from your LinkAce instance | zisoft | macOS | [store](https://www.raycast.com/zisoft/linkace-search) |
+| [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | — | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | — |

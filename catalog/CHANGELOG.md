@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `c35ebcbfe9`
+
+**Added (1):** [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio)
+
 ## 2026-08-31 — upstream `480d47133f`
 
 **Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)

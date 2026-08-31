@@ -1,6 +1,6 @@
 # Publishers
 
-2160 publishers · [← catalog index](../README.md)
+2161 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 153,676 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,673 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,482 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,138,782 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,138,818 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 305,402 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,739 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 415,458 |
@@ -25,7 +25,7 @@
 | 15 | [litomore](./id/litomore.md) | 13 | 13,029 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 10,112 |
 | 17 | [kud](./id/kud.md) | 13 | 6,384 |
-| 18 | [raycast](./id/raycast.md) | 11 | 807,756 |
+| 18 | [raycast](./id/raycast.md) | 11 | 807,777 |
 | 19 | [Rob](./id/rob.md) | 11 | 10,890 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 9,650 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 20,499 |
@@ -392,8 +392,8 @@
 | 382 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 7 |
 | 383 | [tai](https://www.raycast.com/tai) | 2 | 6 |
 | 384 | github-next | 2 | — |
-| 385 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 686,190 |
-| 386 | [Codely](https://www.raycast.com/Codely) | 1 | 510,783 |
+| 385 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 686,228 |
+| 386 | [Codely](https://www.raycast.com/Codely) | 1 | 510,802 |
 | 387 | [linear](https://www.raycast.com/linear) | 1 | 355,977 |
 | 388 | [mommertf](https://www.raycast.com/mommertf) | 1 | 295,643 |
 | 389 | [nhojb](https://www.raycast.com/nhojb) | 1 | 261,947 |
@@ -2168,3 +2168,4 @@
 | 2158 | [raycast_0ukl](https://www.raycast.com/raycast_0ukl) | 1 | 0 |
 | 2159 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2160 | multi | 1 | — |
+| 2161 | vineeth_sai_narajala | 1 | — |
