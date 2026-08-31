@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,138,818 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,138,880 |
 | 2 | [raycast](./id/raycast.md) | 11 | 807,777 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 686,228 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 510,802 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 686,296 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 510,854 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 449,293 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 444,437 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 415,458 |
@@ -2166,6 +2166,6 @@
 | 2156 | [patricklenz](https://www.raycast.com/patricklenz) | 1 | 0 |
 | 2157 | [raycast_0ukl](https://www.raycast.com/raycast_0ukl) | 1 | 0 |
 | 2158 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2159 | github-next | 2 | — |
-| 2160 | multi | 1 | — |
-| 2161 | vineeth_sai_narajala | 1 | — |
+| 2159 | [vineeth_sai_narajala](https://www.raycast.com/vineeth_sai_narajala) | 1 | 0 |
+| 2160 | github-next | 2 | — |
+| 2161 | multi | 1 | — |

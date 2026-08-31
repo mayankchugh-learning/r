@@ -19,4 +19,4 @@
 | [LobeHub Icons](https://github.com/raycast/extensions/tree/main/extensions/lobehub-icons) | 77 | Popular AI / LLM Model Brand SVG Logo and Icon Collection | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/lobehub-icons) |
 | [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 10 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 2 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
-| [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | — | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | — |
+| [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 0 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |

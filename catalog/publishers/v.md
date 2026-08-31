@@ -23,7 +23,7 @@
 | [vimtor](./id/vimtor.md) | 15 | 305,402 | [see all 15 →](./id/vimtor.md) |
 | [vincent_perrot](https://www.raycast.com/vincent_perrot) | 1 | 6 | **Finance:** [XPF to EUR Converter](https://github.com/raycast/extensions/tree/main/extensions/xpf-converter) |
 | [vinch](https://www.raycast.com/vinch) | 1 | 270 | **Web:** [Ethereum Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/ethereum-gas-tracker) |
-| vineeth_sai_narajala | 1 | — | **Productivity:** [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) |
+| [vineeth_sai_narajala](https://www.raycast.com/vineeth_sai_narajala) | 1 | 0 | **Productivity:** [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) |
 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 | **Productivity:** [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) |
 | [vishaltelangre](https://www.raycast.com/vishaltelangre) | 1 | 29,701 | **Developer Tools:** [Google Drive](https://github.com/raycast/extensions/tree/main/extensions/google-drive) |
 | [VishwasShashidhar](https://www.raycast.com/VishwasShashidhar) | 1 | 3,726 | **Web:** [Brave Search](https://github.com/raycast/extensions/tree/main/extensions/brave-search) |

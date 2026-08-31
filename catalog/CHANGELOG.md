@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `414e251d62`
+
+**Updated (1):** [In the Timezone](https://github.com/raycast/extensions/tree/main/extensions/in-the-time-zone)
+
 ## 2026-08-31 — upstream `c35ebcbfe9`
 
 **Added (1):** [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio)

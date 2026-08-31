@@ -39,7 +39,7 @@
 | [Alice AI - Your Daily AI Actions Companion](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) | 433 | Alice helps with your daily tasks by providing quick access to reusable AI actions across OpenAI and Gemini models. | quiknull | macOS | [store](https://www.raycast.com/quiknull/alice-ai) |
 | [Not Diamond](https://github.com/raycast/extensions/tree/main/extensions/not-diamond) | 389 | Not Diamond is an AI model router that automatically determines which LLM is best-suited to respond to any query, improving LLM output quality by combining mul… | dragos_nedelcu | macOS | [store](https://www.raycast.com/dragos_nedelcu/not-diamond) |
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 87 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |
-| [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | — | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | — |
+| [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 0 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |
 
 ## Openai ✦
 
