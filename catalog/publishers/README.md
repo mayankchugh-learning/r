@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,137,702 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,137,820 |
 | 2 | [raycast](./id/raycast.md) | 11 | 807,132 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 685,597 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 510,390 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 685,721 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 510,461 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 448,972 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 444,089 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 415,213 |
@@ -73,7 +73,7 @@
 | 63 | [DanielSinclair](https://www.raycast.com/DanielSinclair) | 1 | 37,584 |
 | 64 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 37,479 |
 | 65 | [eggsy](https://www.raycast.com/eggsy) | 5 | 37,397 |
-| 66 | [sven](https://www.raycast.com/sven) | 4 | 36,986 |
+| 66 | [sven](https://www.raycast.com/sven) | 4 | 36,993 |
 | 67 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 36,723 |
 | 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 36,672 |
 | 69 | [yuercl](https://www.raycast.com/yuercl) | 2 | 36,167 |
