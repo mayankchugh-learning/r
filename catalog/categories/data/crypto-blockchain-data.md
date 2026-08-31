@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,227 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
+| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,228 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
 | [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 661 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS | [store](https://www.raycast.com/destiner/ethereum-utils) |
 | [Blockchain Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) | 320 | Track and caculate blockchain gas fees right in your Raycast! | Vonernue | macOS | [store](https://www.raycast.com/Vonernue/blockchain-gas-tracker) |
 | [Coin Caster](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) | 163 | Get the price for any crypto asset in Raycast | chase_manning | macOS | [store](https://www.raycast.com/chase_manning/coin-caster) |

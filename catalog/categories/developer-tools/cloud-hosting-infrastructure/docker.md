@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 47,314 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,075 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
-| [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 837 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 47,336 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,082 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 838 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
 | [Laravel Shift for Docker](https://github.com/raycast/extensions/tree/main/extensions/laravel-shift) | 124 | Run any of the Shifts for Laravel, Lumen, PHP, Django, and Tailwind completely locally using Raycast. | denniseilander | macOS | [store](https://www.raycast.com/denniseilander/laravel-shift) |

@@ -1,6 +1,6 @@
 # chrismessina
 
-16 extensions · 6,643 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+16 extensions · 6,645 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -16,13 +16,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,034 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
+| [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,035 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
 
 ## Media (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 815 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
+| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 816 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
 | [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 175 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 
 ## Web (1)

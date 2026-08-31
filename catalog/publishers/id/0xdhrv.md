@@ -1,6 +1,6 @@
 # 0xdhrv
 
-16 extensions · 1,463 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+16 extensions · 1,465 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -26,7 +26,7 @@
 | [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic) | 20 | Check how ready a website is for AI agents | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/is-agentic) |
 | [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 15 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
 | [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 12 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |
-| [Fx Coding Agent](https://github.com/raycast/extensions/tree/main/extensions/fx-coding-agent) | 11 | Run fx coding agent commands, inspect sessions, and delegate work from Raycast AI | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/fx-coding-agent) |
+| [Fx Coding Agent](https://github.com/raycast/extensions/tree/main/extensions/fx-coding-agent) | 12 | Run fx coding agent commands, inspect sessions, and delegate work from Raycast AI | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/fx-coding-agent) |
 | [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 0 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
 
 ## Fun (3)
@@ -34,7 +34,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | 32 | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
-| [Word Research](https://github.com/raycast/extensions/tree/main/extensions/word-research) | 23 | Research words and discover whether they have been searched before on wordresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/word-research) |
+| [Word Research](https://github.com/raycast/extensions/tree/main/extensions/word-research) | 24 | Research words and discover whether they have been searched before on wordresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/word-research) |
 | [Number Research](https://github.com/raycast/extensions/tree/main/extensions/number-research) | 15 | Research numbers and discover if they have been searched before on numberresearch.xyz | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/number-research) |
 
 ## Web (1)

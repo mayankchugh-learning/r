@@ -1,6 +1,6 @@
 # alexi.build
 
-17 extensions · 1,950 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+17 extensions · 1,951 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -47,7 +47,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | 103 | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
+| [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | 104 | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
 
 ## Web (1)
 

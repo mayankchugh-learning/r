@@ -1,6 +1,6 @@
 # xmok
 
-114 extensions · 11,837 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+114 extensions · 11,848 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (22)
 
@@ -60,7 +60,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 437 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
+| [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 438 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
 | [Cocktail DB](https://github.com/raycast/extensions/tree/main/extensions/cocktail-db) | 141 | Search Drinks by Name or Ingredient via TheCocktailDB | xmok | macOS | [store](https://www.raycast.com/xmok/cocktail-db) |
 | [FBI](https://github.com/raycast/extensions/tree/main/extensions/fbi) | 94 | Get listing of wanted people and art crimes | xmok | macOS | [store](https://www.raycast.com/xmok/fbi) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 42 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
@@ -72,7 +72,7 @@
 | [The Nobel Prize](https://github.com/raycast/extensions/tree/main/extensions/the-nobel-prize) | 75 | Information about the Nobel Prizes and the Nobel Prize Laureates | xmok | macOS | [store](https://www.raycast.com/xmok/the-nobel-prize) |
 | [Potter DB](https://github.com/raycast/extensions/tree/main/extensions/potter-db) | 74 | Dive into the magical world of Harry Potter via Potter DB. | xmok | macOS | [store](https://www.raycast.com/xmok/potter-db) |
 | [Groundhog Day](https://github.com/raycast/extensions/tree/main/extensions/groundhog-day) | 23 | Free, accurate, and portable data on prognosticating groundhogs and their yearly predictions | xmok | macOS | [store](https://www.raycast.com/xmok/groundhog-day) |
-| [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | 20 | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |
+| [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | 21 | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |
 | [NicNames](https://github.com/raycast/extensions/tree/main/extensions/nicnames) | 12 | Transparency with no surprises. Web3-friendly. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/nicnames) |
 | [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | 1 | Get product details from DigiKey | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/digikey) |
 
@@ -86,8 +86,8 @@
 | [FreeDNS](https://github.com/raycast/extensions/tree/main/extensions/freedns) | 203 | View and Change your DNS in freedns.afraid.org | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/freedns) |
 | [Oracle Cloud](https://github.com/raycast/extensions/tree/main/extensions/oci) | 108 | Manage Oracle Cloud Infrastructure | xmok | macOS | [store](https://www.raycast.com/xmok/oci) |
 | [Appwrite](https://github.com/raycast/extensions/tree/main/extensions/appwrite) | 59 | Add Projects and View Services | xmok | macOS | [store](https://www.raycast.com/xmok/appwrite) |
-| [VirtFusion](https://github.com/raycast/extensions/tree/main/extensions/virtfusion) | 34 | Manage Servers, SSH Keys | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/virtfusion) |
-| [Sevalla](https://github.com/raycast/extensions/tree/main/extensions/sevalla) | 30 | Cloud Application Platform. Deploy Apps in Minutes. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sevalla) |
+| [VirtFusion](https://github.com/raycast/extensions/tree/main/extensions/virtfusion) | 35 | Manage Servers, SSH Keys | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/virtfusion) |
+| [Sevalla](https://github.com/raycast/extensions/tree/main/extensions/sevalla) | 31 | Cloud Application Platform. Deploy Apps in Minutes. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sevalla) |
 | [Aiven](https://github.com/raycast/extensions/tree/main/extensions/aiven) | 23 | Manage Aiven Projects and Services | xmok | macOS | [store](https://www.raycast.com/xmok/aiven) |
 | [HestiaCP Admin](https://github.com/raycast/extensions/tree/main/extensions/hestiacp-admin) | 22 | Manage Users, Domains, Mail Domains, Databases, and more, in your HestiaCP instance | xmok | macOS | [store](https://www.raycast.com/xmok/hestiacp-admin) |
 | [Virtualizor Enduser](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) | 21 | Manage Virtualizor Enduser instance | xmok | macOS | [store](https://www.raycast.com/xmok/virtualizor-enduser) |
@@ -100,7 +100,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 578 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
+| [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 579 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
 | [Neon](https://github.com/raycast/extensions/tree/main/extensions/neon) | 165 | Manage Neon Projects and API Keys | xmok | macOS | [store](https://www.raycast.com/xmok/neon) |
 
 ### Monitoring & Logs
@@ -176,8 +176,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 397 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
 | [Migadu](https://github.com/raycast/extensions/tree/main/extensions/migadu) | 108 | Mailboxes, Identities, Aliases, Rewrites in Migadu | xmok | macOS | [store](https://www.raycast.com/xmok/migadu) |
-| [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 103 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
-| [Name.com](https://github.com/raycast/extensions/tree/main/extensions/name-com) | 78 | View your Domains, DNS Records and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/name-com) |
+| [Fizzy](https://github.com/raycast/extensions/tree/main/extensions/fizzy) | 104 | Kanban as it should be. Not as it has been. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/fizzy) |
+| [Name.com](https://github.com/raycast/extensions/tree/main/extensions/name-com) | 79 | View your Domains, DNS Records and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/name-com) |
 | [Purelymail](https://github.com/raycast/extensions/tree/main/extensions/purelymail) | 73 | Manage Purelymail - Domains, Users, Routing Rules and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/purelymail) |
 | [Infomaniak](https://github.com/raycast/extensions/tree/main/extensions/infomaniak) | 45 | Sovereign Cloud Service Provider | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infomaniak) |
 | [MailerSend](https://github.com/raycast/extensions/tree/main/extensions/mailersend) | 42 | View Domains, Users, Templates in MailerSend Account | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/mailersend) |
@@ -198,8 +198,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Useless Facts](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) | 588 | Get useless, but true facts | xmok | macOS | [store](https://www.raycast.com/xmok/useless-facts) |
-| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 261 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
+| [Useless Facts](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) | 590 | Get useless, but true facts | xmok | macOS | [store](https://www.raycast.com/xmok/useless-facts) |
+| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 262 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
 | [Rick and Morty](https://github.com/raycast/extensions/tree/main/extensions/rick-and-morty) | 109 | Access characters, images, locations and episodes from the television show "Rick and Morty" | xmok | macOS | [store](https://www.raycast.com/xmok/rick-and-morty) |
 | [The Lord of the Rings](https://github.com/raycast/extensions/tree/main/extensions/lotr) | 92 | Books, Characters, Movies and Quotes via The One API | xmok | macOS | [store](https://www.raycast.com/xmok/lotr) |
 
@@ -235,7 +235,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 376 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
+| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 377 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
 
 ## Media (1)
 

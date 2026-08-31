@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 21,374 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
-| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 13,673 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
+| [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 21,379 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
+| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 13,677 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
 | [Bing Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/bing-wallpaper) | 2,111 | Get, set, auto-switch Bing wallpapers to explore the world. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bing-wallpaper) |
-| [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) | 317 | Another boring piece. Daily. | yevgen_glukhov | macOS, Windows | [store](https://www.raycast.com/yevgen_glukhov/another-boring-piece) |
+| [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) | 318 | Another boring piece. Daily. | yevgen_glukhov | macOS, Windows | [store](https://www.raycast.com/yevgen_glukhov/another-boring-piece) |
 | [Wallhaven](https://github.com/raycast/extensions/tree/main/extensions/wallhaven) | 230 | Browse and download desktop wallpapers from Wallhaven. | devadathanmb | macOS | [store](https://www.raycast.com/devadathanmb/wallhaven) |
 | [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers) | 180 | Easily change between the default Windows wallpapers without changing full themes | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/windows-default-wallpapers) |
 | [Frame Crop - Discover Art for Your TV](https://github.com/raycast/extensions/tree/main/extensions/frame-crop) | 123 | Discover & download amazing artwork curated by Frame Crop | jsheffers | macOS | [store](https://www.raycast.com/jsheffers/frame-crop-art) |
