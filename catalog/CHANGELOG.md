@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `6e613caffd`
+
+**Updated (1):** [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail)
+
 ## 2026-08-30 — upstream `4faafec12b`
 
 **Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)
