@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | 1,170 | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
-| [Repository Manager](https://github.com/raycast/extensions/tree/main/extensions/repository-manager) | 1,005 | Project Manager for local git repositories | francesco_mecchi | macOS | [store](https://www.raycast.com/francesco_mecchi/repository-manager) |
-| [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 818 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
-| [GitHub Commits Menu](https://github.com/raycast/extensions/tree/main/extensions/github-menu-bar) | 780 | Show new Git commits in the macOS menu bar. | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/github-menu-bar) |
-| [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) | 416 | The tool for making Jira and Git work together smoothly as silk for a better development experience. | ipiranhaa | macOS | [store](https://www.raycast.com/ipiranhaa/jira2git) |
-| [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) | 340 | Quickly run git commands through Raycast | joshdales | macOS | [store](https://www.raycast.com/joshdales/quick-git) |
-| [Git Co-Authors](https://github.com/raycast/extensions/tree/main/extensions/git-co-authors) | 135 | Manage and copy co-authors for git commits | nickradford | macOS, Windows | [store](https://www.raycast.com/nickradford/git-co-authors) |
+| [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | 1,171 | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
+| [Repository Manager](https://github.com/raycast/extensions/tree/main/extensions/repository-manager) | 1,007 | Project Manager for local git repositories | francesco_mecchi | macOS | [store](https://www.raycast.com/francesco_mecchi/repository-manager) |
+| [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 820 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
+| [GitHub Commits Menu](https://github.com/raycast/extensions/tree/main/extensions/github-menu-bar) | 781 | Show new Git commits in the macOS menu bar. | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/github-menu-bar) |
+| [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) | 417 | The tool for making Jira and Git work together smoothly as silk for a better development experience. | ipiranhaa | macOS | [store](https://www.raycast.com/ipiranhaa/jira2git) |
+| [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) | 342 | Quickly run git commands through Raycast | joshdales | macOS | [store](https://www.raycast.com/joshdales/quick-git) |
+| [Git Co-Authors](https://github.com/raycast/extensions/tree/main/extensions/git-co-authors) | 136 | Manage and copy co-authors for git commits | nickradford | macOS, Windows | [store](https://www.raycast.com/nickradford/git-co-authors) |

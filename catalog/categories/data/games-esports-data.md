@@ -12,4 +12,4 @@
 | [Olympic Games](https://github.com/raycast/extensions/tree/main/extensions/olympic-games) | 100 | Paris 2024 Olympic Medal Table | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/olympic-games) |
 | [Valorant Esports](https://github.com/raycast/extensions/tree/main/extensions/valorant-esports) | 47 | Search Valorant esports schedules and standings. | vimtor | macOS | [store](https://www.raycast.com/vimtor/valorant-esports) |
 | [Aimlab Tracker](https://github.com/raycast/extensions/tree/main/extensions/aimlab) | 10 | Track player profiles and leaderboards on Aimlab | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/aimlab) |
-| [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 4 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
+| [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 6 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |

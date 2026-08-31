@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-08-31 — upstream `3c042be8a3`
+
+**Updated (1):** [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher)
+
 ## 2026-08-31 — upstream `bad8519198`
 
 **Updated (1):** [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend)
