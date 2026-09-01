@@ -1,12 +1,12 @@
 # kud
 
-13 extensions · 6,402 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+13 extensions · 6,409 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,979 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 1,984 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 494 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
 
 ## Developer Tools (5)
@@ -47,5 +47,5 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 19 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
+| [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 21 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
 | [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 7 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |

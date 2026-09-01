@@ -1,6 +1,6 @@
 # 0xdhrv
 
-16 extensions · 1,492 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+16 extensions · 1,493 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
@@ -26,8 +26,8 @@
 | [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic) | 20 | Check how ready a website is for AI agents | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/is-agentic) |
 | [Fx Coding Agent](https://github.com/raycast/extensions/tree/main/extensions/fx-coding-agent) | 15 | Run fx coding agent commands, inspect sessions, and delegate work from Raycast AI | 0xdhrv | macOS | [store](https://www.raycast.com/0xdhrv/fx-coding-agent) |
 | [paste.rs - Quick Pastes](https://github.com/raycast/extensions/tree/main/extensions/paste-rs) | 15 | Create anonymous paste.rs links from typed text or your clipboard, and browse recent pastes. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/paste-rs) |
+| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 12 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
 | [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 12 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |
-| [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 11 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |
 
 ## Fun (3)
 

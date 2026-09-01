@@ -1,14 +1,14 @@
 # peduarte
 
-14 extensions · 26,458 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
+14 extensions · 26,460 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
 
 ## Fun (4)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [1-Click Confetti](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) | 5,461 | Confetti Gun with just 1 click. | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/1-click-confetti) |
+| [1-Click Confetti](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) | 5,462 | Confetti Gun with just 1 click. | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/1-click-confetti) |
 | [Fancy Text](https://github.com/raycast/extensions/tree/main/extensions/fancy-text) | 5,354 | A fancy text generator to turn your normal text into fancy text | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/fancy-text) |
-| [Open Camera Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/open-camera-menu-bar) | 1,772 | Open the camera command from the menu bar | peduarte | macOS | [store](https://www.raycast.com/peduarte/open-camera-menu-bar) |
+| [Open Camera Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/open-camera-menu-bar) | 1,773 | Open the camera command from the menu bar | peduarte | macOS | [store](https://www.raycast.com/peduarte/open-camera-menu-bar) |
 | [Restore Photos](https://github.com/raycast/extensions/tree/main/extensions/restore-photo) | 765 | Restore old photos using AI. Powered by https://restorephotos.io. | peduarte | macOS | [store](https://www.raycast.com/peduarte/restore-photos) |
 
 ## System (1)

@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,877 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,886 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 4,727 | Get a random dad joke | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
 | [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) | 2,200 | Quickly and easily make random decisions or generate a random number | yonbergman | macOS, Windows | [store](https://www.raycast.com/yonbergman/dice-and-coin) |
 | [Developer Excuses](https://github.com/raycast/extensions/tree/main/extensions/developer-excuse) | 1,935 | Insert a random developer excuse for not doing your work. | niemtec | macOS | [store](https://www.raycast.com/niemtec/developer-excuse) |
@@ -21,7 +21,7 @@
 | [Random Text Picker](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) | 381 | Pick a random item from a list by entering multiple text inputs, ala Wheel of Names | ezzylan | macOS | [store](https://www.raycast.com/ezzylan/random-text-picker) |
 | [Roll D20](https://github.com/raycast/extensions/tree/main/extensions/roll-d20) | 381 | Rolls a d20, in other words, displays a random number between 1 and 20. | kayla | macOS | [store](https://www.raycast.com/kayla/roll-d20) |
 | [Evil Insult](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) | 303 | Generate Evil Insults | j3lte | macOS | [store](https://www.raycast.com/j3lte/evil-insult) |
-| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 262 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
+| [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 263 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
 | [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts) | 209 | Get facts about numbers, dates, and years | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/number-facts) |
 | [Chuck Norris Facts](https://github.com/raycast/extensions/tree/main/extensions/chuck-norris-facts) | 184 | This extension uses the chucknorris.io site which is a free JSON API for hand curated Chuck Norris facts. | jorgecortesdev | macOS | [store](https://www.raycast.com/jorgecortesdev/chuck-norris-facts) |
 | [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images) | 171 | Get a random photo of a dog. | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/dog-images) |
@@ -34,4 +34,4 @@
 | [40 Questions - Yearly Reflection](https://github.com/raycast/extensions/tree/main/extensions/40-questions) | 79 | Questions to ask yourself at the end of each year | dnnsmnstrr | macOS, Windows | [store](https://www.raycast.com/dnnsmnstrr/40-questions) |
 | [Tabletop Dice Roller](https://github.com/raycast/extensions/tree/main/extensions/tabletop-dice-roller) | 56 | Quickly roll a set of dice. | sam_duemler | macOS, Windows | [store](https://www.raycast.com/sam_duemler/tabletop-dice-roller) |
 | [Metaphorpsum](https://github.com/raycast/extensions/tree/main/extensions/metaphorpsum) | 42 | An extension for generating random text from the metaphorpsum API. | jsumnersmith | macOS | [store](https://www.raycast.com/jsumnersmith/metaphorpsum) |
-| [Kind Words](https://github.com/raycast/extensions/tree/main/extensions/kind-words) | 38 | Random compliments and gratitude prompts to lift the mood. | tim_gailey | macOS, Windows | [store](https://www.raycast.com/tim_gailey/kind-words) |
+| [Kind Words](https://github.com/raycast/extensions/tree/main/extensions/kind-words) | 39 | Random compliments and gratitude prompts to lift the mood. | tim_gailey | macOS, Windows | [store](https://www.raycast.com/tim_gailey/kind-words) |

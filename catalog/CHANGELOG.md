@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `ae4623a3a2`
+
+**Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
+
 ## 2026-09-01 — upstream `581e47175d`
 
 **Updated (1):** [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart)

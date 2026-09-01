@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 76,998 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
+| [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 77,021 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
 | [Google Bard](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai) | 12,356 | Perform Actions with Google Bard | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-bard-ai) |
-| [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | 9,948 | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
+| [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | 9,951 | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
 | [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,750 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,083 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
 | [Ollama Mind Map Generator](https://github.com/raycast/extensions/tree/main/extensions/ollama-mind-map-generator) | 1,003 | Generate interactive mind maps from clipboard content using local LLMs via Ollama | vojay | macOS | [store](https://www.raycast.com/vojay/ollama-mind-map-generator) |

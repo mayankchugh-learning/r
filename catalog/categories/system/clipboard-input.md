@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 23,609 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
+| [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 23,619 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
 | [Open Path](https://github.com/raycast/extensions/tree/main/extensions/open-path) | 3,829 | Open path and link from selection or clipboard in Finder, browsers, terminal, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-path) |
-| [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) | 3,701 | Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. | joshtemple | macOS | [store](https://www.raycast.com/joshtemple/clipboard-formatter) |
+| [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) | 3,703 | Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. | joshtemple | macOS | [store](https://www.raycast.com/joshtemple/clipboard-formatter) |
 | [Append Clipboard](https://github.com/raycast/extensions/tree/main/extensions/append-clipboard) | 2,971 | Append or prepend selected text to your clipboard with different separators | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/append-clipboard) |
 | [Yoink](https://github.com/raycast/extensions/tree/main/extensions/yoink) | 1,136 | Add selected or clipboard files to Yoink. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/yoink) |
 | [Android ADB Input](https://github.com/raycast/extensions/tree/main/extensions/android-adb-input) | 778 | Run Android `adb shell input text` command. | star_zero | macOS | [store](https://www.raycast.com/star_zero/android-adb-input) |

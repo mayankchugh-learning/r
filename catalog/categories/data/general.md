@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 8,740 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
-| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,093 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
-| [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,952 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
+| [ChatGPT3 Prompt](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) | 8,742 | Prompt list for interacting with ChatGPT3 | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/chatgpt3-prompt) |
+| [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) | 6,096 | Docker Hub extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/dockerhub) |
+| [iLovePDF](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) | 2,953 | Set of commands to interact with iLovePDF | mohamedk1 | macOS | [store](https://www.raycast.com/mohamedk1/ilovepdf) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,895 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,319 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,656 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
@@ -57,8 +57,8 @@
 | [Nordic Energy Prices](https://github.com/raycast/extensions/tree/main/extensions/nordic-energy-prices) | 33 | Get today's energy prices in the Nordic countries (Denmark, Sweden, Norway, Finland) | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/nordic-energy-prices) |
 | [Irish Rail](https://github.com/raycast/extensions/tree/main/extensions/irish-rail) | 30 | Irish Rail departure information | dave-kav | macOS | [store](https://www.raycast.com/dave-kav/irish-rail) |
 | [Moneytree](https://github.com/raycast/extensions/tree/main/extensions/moneytree) | 27 | View and manage your finances from Moneytree via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/moneytree) |
+| [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | 25 | LiteLLM directly from Raycast commands | Francois | Windows, macOS | [store](https://www.raycast.com/Francois/litellm) |
 | [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) | 24 | Look up KQL commands | olafhartong | macOS | [store](https://www.raycast.com/olafhartong/kusto-reference) |
-| [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | 24 | LiteLLM directly from Raycast commands | Francois | Windows, macOS | [store](https://www.raycast.com/Francois/litellm) |
 | [Groundhog Day](https://github.com/raycast/extensions/tree/main/extensions/groundhog-day) | 23 | Free, accurate, and portable data on prognosticating groundhogs and their yearly predictions | xmok | macOS | [store](https://www.raycast.com/xmok/groundhog-day) |
 | [Rewardful](https://github.com/raycast/extensions/tree/main/extensions/rewardful) | 21 | Unofficial Rewardful extension | alexs | macOS | [store](https://www.raycast.com/alexs/rewardful) |
 | [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | 21 | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |

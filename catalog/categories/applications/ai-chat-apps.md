@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 13,303 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
-| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 2,811 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
+| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 13,306 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
+| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 2,812 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
 | [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,280 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
 | [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 1,020 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
 | [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) | 960 | Use Baidu OCR API to recognize text. | Humber | macOS | [store](https://www.raycast.com/Humber/baidu-ocr) |
@@ -13,7 +13,7 @@
 | [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 737 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |
 | [Charming ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/charming-chatgpt) | 687 | Make chatGPT x charming x Raycast all together | KittenYang | macOS | [store](https://www.raycast.com/KittenYang/charming-chatgpt) |
 | [PostHog](https://github.com/raycast/extensions/tree/main/extensions/posthog) | 472 | Open the web app, search PostHog resources, and run read-only analytics with AI tools. | posthog (org) | macOS, Windows | [store](https://www.raycast.com/posthog/posthog) |
-| [Inbox AI](https://github.com/raycast/extensions/tree/main/extensions/inbox-ai) | 407 | Trigger Inbox AI Actions | dreetje | macOS | [store](https://www.raycast.com/dreetje/inbox-ai) |
+| [Inbox AI](https://github.com/raycast/extensions/tree/main/extensions/inbox-ai) | 408 | Trigger Inbox AI Actions | dreetje | macOS | [store](https://www.raycast.com/dreetje/inbox-ai) |
 | [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) | 342 | Get quick answers to your quick questions with the power of AI with this free extension. | vaibhav_sisodiya | macOS | [store](https://www.raycast.com/Vaib215/vaib) |
 | [AI by Vercel](https://github.com/raycast/extensions/tree/main/extensions/ai-by-vercel) | 236 | Vercel AI within Raycast | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/ai-by-vercel) |
 | [Go to Rewind Timestamp](https://github.com/raycast/extensions/tree/main/extensions/go-to-rewind-timestamp) | 173 | Open Rewind AI at a specific timestamp | haseab_ | macOS | [store](https://www.raycast.com/haseab_/go-to-rewind-timestamp) |
