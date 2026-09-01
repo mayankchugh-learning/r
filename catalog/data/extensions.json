@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ce4ee034c4cb8a965ec226d803675485118e73f0",
-  "generatedAt": "2026-09-01T05:58:22.484Z",
-  "downloadsRefreshedAt": "2026-09-01T05:58:22.088Z",
+  "commit": "6de6e6a31f53138674d84a918bc3c1bb20224dc7",
+  "generatedAt": "2026-09-01T05:59:26.978Z",
+  "downloadsRefreshedAt": "2026-09-01T05:59:24.642Z",
   "count": 3242,
   "extensions": [
     {
@@ -23457,7 +23457,7 @@
       ],
       "store": "https://www.raycast.com/mattiacolombomc/handy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/handy",
-      "treeSha": "44ced5f518b2bf3544ca7a29ac8ae90465c32af0",
+      "treeSha": "81c92fda0c0b0355e11d36045b791382f0ffe9c6",
       "downloads": 1172
     },
     {
@@ -52789,10 +52789,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/rhrabun/shortcut-library",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shortcut-library",
       "treeSha": "6591255ffd6b1fe645daf26ecfe584dc3565b6f8",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "shortcuts-search",

@@ -55,7 +55,7 @@
 | [resmo](https://www.raycast.com/resmo) | 1 | 70 | **Security:** [Resmo](https://github.com/raycast/extensions/tree/main/extensions/resmo) |
 | [rewiser_io](https://www.raycast.com/rewiser_io) | 1 | 18 | **Finance:** [Rewiser](https://github.com/raycast/extensions/tree/main/extensions/rewiser) |
 | [rgllm](https://www.raycast.com/rgllm) | 1 | 10 | **Finance:** [NIF - Portugal Tax Number Lookup](https://github.com/raycast/extensions/tree/main/extensions/nif) |
-| rhrabun | 1 | — | **Productivity:** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library) |
+| [rhrabun](https://www.raycast.com/rhrabun) | 1 | 0 | **Productivity:** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library) |
 | [rhuk](https://www.raycast.com/rhuk) | 2 | 229 | **Developer Tools:** [Clean Agent Text](https://github.com/raycast/extensions/tree/main/extensions/clean-agent-text), [Decimal 2 Time](https://github.com/raycast/extensions/tree/main/extensions/decimal-2-time) |
 | [RhysLees](https://www.raycast.com/RhysLees) | 1 | 156 | **Developer Tools:** [Websocket Debugging](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) |
 | [rickMcGavin](https://www.raycast.com/rickMcGavin) | 1 | 2,519 | **Developer Tools:** [SVGR](https://github.com/raycast/extensions/tree/main/extensions/svgr) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `6de6e6a31f`
+
+**Updated (1):** [Handy](https://github.com/raycast/extensions/tree/main/extensions/handy)
+
 ## 2026-09-01 — upstream `ce4ee034c4`
 
 **Added (1):** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library)

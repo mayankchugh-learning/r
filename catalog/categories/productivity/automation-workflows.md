@@ -25,7 +25,7 @@
 | [Parabol](https://github.com/raycast/extensions/tree/main/extensions/parabol) | 60 | Provide shortcuts to Parabol application | parabol | macOS | [store](https://www.raycast.com/parabol/parabol) |
 | [QuickLinker](https://github.com/raycast/extensions/tree/main/extensions/quicklinker) | 13 | Resolve your QuickLinker shortcuts directly from Raycast | n-winspear | macOS | [store](https://www.raycast.com/n-winspear/quicklinker) |
 | [Wip.et](https://github.com/raycast/extensions/tree/main/extensions/wipet) | 6 | Ship every day. Log done's and todos to your wip.et feed without leaving the keyboard. Pick projects with #-autocomplete, attach screenshots, post in one short… | robimez | macOS, Windows | [store](https://www.raycast.com/robimez/wipet) |
-| [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library) | — | Your own custom keyboard shortcuts, grouped and fuzzy-searchable | rhrabun | macOS, Windows | — |
+| [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library) | 0 | Your own custom keyboard shortcuts, grouped and fuzzy-searchable | rhrabun | macOS, Windows | [store](https://www.raycast.com/rhrabun/shortcut-library) |
 
 ## Hotkey ✦
 
