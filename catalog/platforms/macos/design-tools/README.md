@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 528,794 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 528,804 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,279 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,583 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,064 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -136,7 +136,7 @@
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 40 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
 | [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) | 13 | Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives. | yusoufu | macOS | [store](https://www.raycast.com/yusoufu/design-file-finder) |
 | [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 10 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
-| [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 1 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |
+| [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 0 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |
 
 ### 3D & Motion
 

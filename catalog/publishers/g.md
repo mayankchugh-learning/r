@@ -72,6 +72,6 @@
 | [Gusta](https://www.raycast.com/Gusta) | 1 | 35 | **Finance:** [Dolar Hoy Argentina](https://github.com/raycast/extensions/tree/main/extensions/dolar-hoy) |
 | [gustavofior](https://www.raycast.com/gustavofior) | 1 | 463 | **Data:** [5Devs](https://github.com/raycast/extensions/tree/main/extensions/5devs) |
 | [gutenye](https://www.raycast.com/gutenye) | 3 | 1,285 | **Finance:** [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price)<br>**Applications:** [React DevTools](https://github.com/raycast/extensions/tree/main/extensions/react-devtools)<br>**Productivity:** [Search Blockchain](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) |
-| [guus](https://www.raycast.com/guus) | 1 | 1 | **Design Tools:** [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) |
+| [guus](https://www.raycast.com/guus) | 1 | 0 | **Design Tools:** [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) |
 | [guy_scher](https://www.raycast.com/guy_scher) | 1 | 198 | **Developer Tools:** [Twingate](https://github.com/raycast/extensions/tree/main/extensions/twingate) |
 | [gzyannick](https://www.raycast.com/gzyannick) | 1 | 113 | **Applications:** [Leitner Box](https://github.com/raycast/extensions/tree/main/extensions/leitnerbox) |
