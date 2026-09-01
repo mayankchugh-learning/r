@@ -1,6 +1,6 @@
 # Github ✦
 
-18 extensions · [← Git & Version Control](./README.md)
+19 extensions · [← Git & Version Control](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -24,3 +24,4 @@
 | [Gist Rocket](https://github.com/raycast/extensions/tree/main/extensions/gist-rocket) | 33 | Publish HTML or Markdown as a live web page in one keystroke. Powered by GitHub Gists. | tgrecojs | macOS | [store](https://www.raycast.com/tgrecojs/gist-rocket) |
 | [Commit Streak](https://github.com/raycast/extensions/tree/main/extensions/commit-streak) | 7 | Track your GitHub contribution streak in the menu bar. Stay motivated or get reminded. | aundu | macOS | [store](https://www.raycast.com/aundu/commit-streak) |
 | [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 3 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
+| [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool) | 0 | Manage on-demand self-hosted GitHub Actions runner pools on your Mac | aic | macOS | [store](https://www.raycast.com/aic/runpool) |

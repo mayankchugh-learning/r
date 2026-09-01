@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 687,566 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 687,569 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 107,450 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,352 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | 3,434 | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |

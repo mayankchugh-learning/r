@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · **Git & Version Control** · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-49 of 1102 extensions · [← macOS · Developer Tools](./README.md)
+50 of 1103 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -55,3 +55,4 @@
 | [Commit Streak](https://github.com/raycast/extensions/tree/main/extensions/commit-streak) | 7 | Track your GitHub contribution streak in the menu bar. Stay motivated or get reminded. | aundu | macOS | [store](https://www.raycast.com/aundu/commit-streak) |
 | [Commit Sounds](https://github.com/raycast/extensions/tree/main/extensions/commit-sound-controls) | 6 | Play custom sounds after Git commits to selected GitHub users or organizations. | koushik | macOS, Windows | [store](https://www.raycast.com/koushik/commit-sound-controls) |
 | [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 3 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
+| [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool) | 0 | Manage on-demand self-hosted GitHub Actions runner pools on your Mac | aic | macOS | [store](https://www.raycast.com/aic/runpool) |

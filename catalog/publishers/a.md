@@ -55,7 +55,7 @@
 | [ahmeed83](https://www.raycast.com/ahmeed83) | 1 | 8 | **Communication:** [Dutch Article (Het of De)](https://github.com/raycast/extensions/tree/main/extensions/dutch-article) |
 | [ahonn](https://www.raycast.com/ahonn) | 1 | 1,981 | **Productivity:** [Send to flomo](https://github.com/raycast/extensions/tree/main/extensions/send-to-flomo) |
 | [ahp](https://www.raycast.com/ahp) | 1 | 494 | **Productivity:** [Pipedrive Search](https://github.com/raycast/extensions/tree/main/extensions/pipedrive) |
-| [aic](https://www.raycast.com/aic) | 2 | 391 | **Productivity:** [Google Contacts](https://github.com/raycast/extensions/tree/main/extensions/google-contacts)<br>**Data:** [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) |
+| [aic](https://www.raycast.com/aic) | 3 | 391 | **Productivity:** [Google Contacts](https://github.com/raycast/extensions/tree/main/extensions/google-contacts)<br>**Data:** [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house)<br>**Developer Tools:** [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool) |
 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 2 | **Productivity:** [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) |
 | [aimebertrand](https://www.raycast.com/aimebertrand) | 1 | 84 | **Productivity:** [Entra PIM Role](https://github.com/raycast/extensions/tree/main/extensions/epim) |
 | [aiotter](https://www.raycast.com/aiotter) | 1 | 3,182 | **Developer Tools:** [NixPkgs Search](https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search) |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "951034d14146e1dfb7ca68a29896539f6cb8e72b",
-  "generatedAt": "2026-09-01T12:54:41.461Z",
-  "downloadsRefreshedAt": "2026-09-01T12:54:41.048Z",
-  "count": 3243,
+  "commit": "e4ca65bd4d249e43f09606a7e6a28d19818557bc",
+  "generatedAt": "2026-09-01T12:56:27.720Z",
+  "downloadsRefreshedAt": "2026-09-01T12:56:27.036Z",
+  "count": 3244,
   "extensions": [
     {
       "dir": "0x0",
@@ -9832,7 +9832,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 528791
+      "downloads": 528794
     },
     {
       "dir": "color-shades",
@@ -22227,7 +22227,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 511793
+      "downloads": 511794
     },
     {
       "dir": "google-chrome-profiles",
@@ -28549,7 +28549,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 687566
+      "downloads": 687569
     },
     {
       "dir": "kimai",
@@ -50139,6 +50139,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/running-page",
       "treeSha": "1edb154d2eef22f546039fa9f0a791ee1b588c7b",
       "downloads": 82
+    },
+    {
+      "dir": "runpool",
+      "name": "runpool",
+      "title": "RunPool",
+      "description": "Manage on-demand self-hosted GitHub Actions runner pools on your Mac",
+      "author": "aic",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/aic/runpool",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/runpool",
+      "treeSha": "9e75f576d27642793867ad978ef0a00d48af9579",
+      "downloads": 0
     },
     {
       "dir": "rusbase",

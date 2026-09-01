@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `e4ca65bd4d`
+
+**Added (1):** [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool)
+
 ## 2026-09-01 — upstream `951034d141`
 
 **Updated (1):** [Spike](https://github.com/raycast/extensions/tree/main/extensions/spike)

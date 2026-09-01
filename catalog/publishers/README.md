@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,141,039 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,141,042 |
 | 2 | [raycast](./id/raycast.md) | 11 | 809,215 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,566 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,793 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,569 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,794 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 449,974 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 445,145 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 416,017 |
@@ -967,7 +967,7 @@
 | 957 | [mskelton](https://www.raycast.com/mskelton) | 1 | 395 |
 | 958 | [carlesandres](https://www.raycast.com/carlesandres) | 1 | 394 |
 | 959 | [Synacek](https://www.raycast.com/Synacek) | 1 | 393 |
-| 960 | [aic](https://www.raycast.com/aic) | 2 | 391 |
+| 960 | [aic](https://www.raycast.com/aic) | 3 | 391 |
 | 961 | [dragos_nedelcu](https://www.raycast.com/dragos_nedelcu) | 1 | 389 |
 | 962 | [umit_gul](https://www.raycast.com/umit_gul) | 1 | 387 |
 | 963 | [zhassulan_abdrakhmanov](https://www.raycast.com/zhassulan_abdrakhmanov) | 1 | 384 |
