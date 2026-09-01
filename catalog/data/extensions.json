@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f6df64268aeaf913fb57332ba3ad1bc811af7fd9",
-  "generatedAt": "2026-09-01T05:41:21.919Z",
-  "downloadsRefreshedAt": "2026-09-01T05:41:21.068Z",
+  "commit": "613ae1fcb8e68680c6509dfa897341dd61b25c89",
+  "generatedAt": "2026-09-01T05:42:28.064Z",
+  "downloadsRefreshedAt": "2026-09-01T05:42:26.245Z",
   "count": 3240,
   "extensions": [
     {
@@ -9811,7 +9811,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 528249
+      "downloads": 528252
     },
     {
       "dir": "color-shades",
@@ -28528,7 +28528,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 687009
+      "downloads": 687011
     },
     {
       "dir": "kimai",
@@ -33491,7 +33491,7 @@
       ],
       "store": "https://www.raycast.com/timoransky/meme-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/meme-generator",
-      "treeSha": "2d87fca6f3443fc894c86ba74014a56a59c8eefd",
+      "treeSha": "8b5d862ea68bd57e7bf864dbebc47d7fcba46159",
       "downloads": 13874
     },
     {
