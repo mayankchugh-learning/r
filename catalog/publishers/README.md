@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,140,122 |
-| 2 | [raycast](./id/raycast.md) | 11 | 808,610 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,026 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,400 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,140,267 |
+| 2 | [raycast](./id/raycast.md) | 11 | 808,620 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,175 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,516 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 449,693 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 444,853 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 415,808 |
@@ -173,7 +173,7 @@
 | 163 | [elliotdes](https://www.raycast.com/elliotdes) | 1 | 10,256 |
 | 164 | [Falcon](https://www.raycast.com/Falcon) | 2 | 10,161 |
 | 165 | [j3lte](./id/j3lte.md) | 13 | 10,133 |
-| 166 | [andresmorelos](https://www.raycast.com/andresmorelos) | 3 | 9,969 |
+| 166 | [andresmorelos](https://www.raycast.com/andresmorelos) | 3 | 9,970 |
 | 167 | [github](https://www.raycast.com/github) | 1 | 9,948 |
 | 168 | [say4n](https://www.raycast.com/say4n) | 2 | 9,867 |
 | 169 | [bgnfu7re](https://www.raycast.com/bgnfu7re) | 5 | 9,853 |

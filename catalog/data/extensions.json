@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6de6e6a31f53138674d84a918bc3c1bb20224dc7",
-  "generatedAt": "2026-09-01T05:59:26.978Z",
-  "downloadsRefreshedAt": "2026-09-01T05:59:24.642Z",
+  "commit": "581e47175d0f55319e5b96a607c5d92d86e176eb",
+  "generatedAt": "2026-09-01T08:03:29.412Z",
+  "downloadsRefreshedAt": "2026-09-01T08:03:29.113Z",
   "count": 3242,
   "extensions": [
     {
@@ -2456,7 +2456,7 @@
       "store": "https://www.raycast.com/raycast/apple-notes",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-notes",
       "treeSha": "4728a145da661d453db65468e088d9b853f087db",
-      "downloads": 139617
+      "downloads": 139627
     },
     {
       "dir": "apple-passwords",
@@ -9811,7 +9811,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 528267
+      "downloads": 528412
     },
     {
       "dir": "color-shades",
@@ -22206,7 +22206,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 511400
+      "downloads": 511516
     },
     {
       "dir": "google-chrome-profiles",
@@ -28528,7 +28528,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 687026
+      "downloads": 687175
     },
     {
       "dir": "kimai",
@@ -60940,8 +60940,8 @@
       ],
       "store": "https://www.raycast.com/andresmorelos/tuya-smart",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tuya-smart",
-      "treeSha": "08a416b8fc60c5ec190bf6eaca213719941985bc",
-      "downloads": 645
+      "treeSha": "787ce105fc70c7baa0106465c6723d04301c8662",
+      "downloads": 646
     },
     {
       "dir": "tv-remote",

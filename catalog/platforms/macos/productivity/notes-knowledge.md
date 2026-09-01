@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 252,941 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
 | [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 155,019 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
-| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 139,617 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
+| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 139,627 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion) | 16,110 | Search Notion pages and open visited ones faster. No admin access required. | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/search-notion) |
 | [Obsidian Smart Capture](https://github.com/raycast/extensions/tree/main/extensions/obsidian-smart-capture) | 14,055 | Smart capture anything into Obsidian | millin_gabani | macOS | [store](https://www.raycast.com/millin_gabani/obsidian-smart-capture) |
 | [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 13,758 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |

@@ -122,7 +122,7 @@
 | [Counter](https://github.com/raycast/extensions/tree/main/extensions/counter) | 694 | A simple counter, in the comfort of Raycast root! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/counter) |
 | [Rsync Commands](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) | 690 | Save your commonly used rsync commands in one place and run them with ease. | fahl | macOS | [store](https://www.raycast.com/fahl/rsync-commands) |
 | [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 670 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
-| [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart) | 645 | Home automation with Tuya Smart | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/tuya-smart) |
+| [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart) | 646 | Home automation with Tuya Smart | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/tuya-smart) |
 | [Typescript Mock Generator](https://github.com/raycast/extensions/tree/main/extensions/typescript-mock-generator) | 641 | Generate mock/fake data from your typescript interfaces easily | comoser | macOS | [store](https://www.raycast.com/comoser/typescript-mock-generator) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 637 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [Gather](https://github.com/raycast/extensions/tree/main/extensions/gather) | 633 | Control Gather from Raycast | yannglt | macOS | [store](https://www.raycast.com/yannglt/gather) |

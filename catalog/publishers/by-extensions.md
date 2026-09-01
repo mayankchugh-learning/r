@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 153,806 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,687 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,492 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,140,122 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,140,267 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 305,640 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,766 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 415,808 |
@@ -25,7 +25,7 @@
 | 15 | [litomore](./id/litomore.md) | 13 | 13,051 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 10,133 |
 | 17 | [kud](./id/kud.md) | 13 | 6,402 |
-| 18 | [raycast](./id/raycast.md) | 11 | 808,610 |
+| 18 | [raycast](./id/raycast.md) | 11 | 808,620 |
 | 19 | [Rob](./id/rob.md) | 11 | 10,903 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 9,660 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 20,531 |
@@ -113,7 +113,7 @@
 | 103 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 14,652 |
 | 104 | [fernando_barrios](https://www.raycast.com/fernando_barrios) | 3 | 12,899 |
 | 105 | [Quentin23Soleil](https://www.raycast.com/Quentin23Soleil) | 3 | 10,653 |
-| 106 | [andresmorelos](https://www.raycast.com/andresmorelos) | 3 | 9,969 |
+| 106 | [andresmorelos](https://www.raycast.com/andresmorelos) | 3 | 9,970 |
 | 107 | [zavbala](https://www.raycast.com/zavbala) | 3 | 9,823 |
 | 108 | [denizyoldas](https://www.raycast.com/denizyoldas) | 3 | 8,968 |
 | 109 | [gbarba](https://www.raycast.com/gbarba) | 3 | 8,081 |
@@ -392,8 +392,8 @@
 | 382 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 9 |
 | 383 | [tai](https://www.raycast.com/tai) | 2 | 6 |
 | 384 | github-next | 2 | — |
-| 385 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,026 |
-| 386 | [Codely](https://www.raycast.com/Codely) | 1 | 511,400 |
+| 385 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,175 |
+| 386 | [Codely](https://www.raycast.com/Codely) | 1 | 511,516 |
 | 387 | [linear](https://www.raycast.com/linear) | 1 | 356,453 |
 | 388 | [mommertf](https://www.raycast.com/mommertf) | 1 | 295,990 |
 | 389 | [nhojb](https://www.raycast.com/nhojb) | 1 | 262,163 |
