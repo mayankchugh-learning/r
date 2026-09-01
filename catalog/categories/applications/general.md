@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,511 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
-| [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 24,054 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,517 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 24,057 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
 | [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,752 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime) | 14,259 | Start screen recording, movie recording and sound recording instantly. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/quicktime) |
 | [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 11,417 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
@@ -16,8 +16,8 @@
 | [Screen Studio](https://github.com/raycast/extensions/tree/main/extensions/screen-studio) | 4,754 | Raycast extension that allows controlling the Screen Studio app easily | screen-studio (org) | macOS | [store](https://www.raycast.com/screen-studio/screen-studio) |
 | [MacUpdater](https://github.com/raycast/extensions/tree/main/extensions/macupdater) | 3,835 | Get app updates and popular apps from macupdater.net | kall | macOS | [store](https://www.raycast.com/kall/macupdater) |
 | [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | 3,092 | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
-| [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 3,065 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
-| [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel) | 3,049 | Allow Parcel users to see upcoming and active deliveries | marcmagn1 | macOS, Windows | [store](https://www.raycast.com/marcmagn1/parcel) |
+| [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 3,067 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
+| [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel) | 3,050 | Allow Parcel users to see upcoming and active deliveries | marcmagn1 | macOS, Windows | [store](https://www.raycast.com/marcmagn1/parcel) |
 | [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper) | 2,917 | Voice dictation, transcription history, and profile management for TypeWhisper | SeoFood | macOS, Windows | [store](https://www.raycast.com/SeoFood/typewhisper) |
 | [Lyrics](https://github.com/raycast/extensions/tree/main/extensions/lyrics) | 2,830 | Search for lyrics to the current playing song | andrewjazbec | macOS | [store](https://www.raycast.com/andrewjazbec/lyrics) |
 | [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,704 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
@@ -67,7 +67,7 @@
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | 201 | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
 | [Metabase](https://github.com/raycast/extensions/tree/main/extensions/metabase) | 192 | Search Metabase questions faster | vimtor | macOS | [store](https://www.raycast.com/vimtor/metabase) |
 | [LocalCan](https://github.com/raycast/extensions/tree/main/extensions/localcan) | 174 | List LocalCan domains | andrewjazbec | macOS | [store](https://www.raycast.com/andrewjazbec/localcan) |
-| [Printer Status](https://github.com/raycast/extensions/tree/main/extensions/printer-status) | 167 | Check printer status (page counts, ink levels, device info) via SNMP | davidyannick | macOS, Windows | [store](https://www.raycast.com/davidyannick/printer-status) |
+| [Printer Status](https://github.com/raycast/extensions/tree/main/extensions/printer-status) | 168 | Check printer status (page counts, ink levels, device info) via SNMP | davidyannick | macOS, Windows | [store](https://www.raycast.com/davidyannick/printer-status) |
 | [Safe Secret](https://github.com/raycast/extensions/tree/main/extensions/safe-secret) | 166 | Safely share text over the web | melonamin | macOS | [store](https://www.raycast.com/melonamin/safe-secret) |
 | [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 163 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
 | [Update Clash Subscription](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) | 159 | Update clash subscription & insert custom rules | JakeYu | macOS | [store](https://www.raycast.com/JakeYu/update-clash-subscription) |

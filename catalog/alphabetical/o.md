@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 155,120 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
+| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 155,130 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
 | [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) | 58,796 | Interact with OpenAI GPT AI | simicvm | macOS | [store](https://www.raycast.com/simicvm/openai-gpt) |
-| [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 38,079 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
+| [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 38,080 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
 | [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 18,676 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |
 | [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) | 14,429 | Choose an application to open the items selected in your file manager. | fturcheti | macOS | [store](https://www.raycast.com/fturcheti/open-with-app) |
 | [Obsidian Smart Capture](https://github.com/raycast/extensions/tree/main/extensions/obsidian-smart-capture) | 14,064 | Smart capture anything into Obsidian | millin_gabani | macOS | [store](https://www.raycast.com/millin_gabani/obsidian-smart-capture) |
@@ -45,7 +45,7 @@
 | [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 977 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 | [OpenCode Sessions](https://github.com/raycast/extensions/tree/main/extensions/opencode-sessions) | 969 | Browse, search, and manage your OpenCode sessions | mike182uk | macOS | [store](https://www.raycast.com/mike182uk/opencode-sessions) |
 | [Opera](https://github.com/raycast/extensions/tree/main/extensions/opera) | 959 | Search open tabs, bookmarks and history in Opera. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/opera) |
-| [OneLook Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/onelook-thesaurus) | 945 | A powerful English thesaurus and brainstorming tool that lets you describe what you're looking for in plain terms. | FelipeCortez | macOS | [store](https://www.raycast.com/FelipeCortez/onelook-thesaurus) |
+| [OneLook Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/onelook-thesaurus) | 946 | A powerful English thesaurus and brainstorming tool that lets you describe what you're looking for in plain terms. | FelipeCortez | macOS | [store](https://www.raycast.com/FelipeCortez/onelook-thesaurus) |
 | [OKLCH Color Converter](https://github.com/raycast/extensions/tree/main/extensions/oklch-color-converter) | 929 | Convert colors between formats with wide gamut support | strongeron | macOS | [store](https://www.raycast.com/strongeron/oklch-color-converter) |
 | [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | 852 | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |
 | [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | 828 | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |

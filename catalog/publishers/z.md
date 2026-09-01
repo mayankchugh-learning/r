@@ -24,7 +24,7 @@
 | [zeromana](https://www.raycast.com/zeromana) | 1 | 24 | **Developer Tools:** [Bento Email](https://github.com/raycast/extensions/tree/main/extensions/bento) |
 | [zerowidth](https://www.raycast.com/zerowidth) | 1 | 1,877 | **Productivity:** [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project) |
 | [zett-8](https://www.raycast.com/zett-8) | 1 | 134 | **Documentation:** [Scrapbox Search](https://github.com/raycast/extensions/tree/main/extensions/scrapbox-search) |
-| [zhassulan_abdrakhmanov](https://www.raycast.com/zhassulan_abdrakhmanov) | 1 | 384 | **Developer Tools:** [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) |
+| [zhassulan_abdrakhmanov](https://www.raycast.com/zhassulan_abdrakhmanov) | 1 | 385 | **Developer Tools:** [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) |
 | [zisoft](https://www.raycast.com/zisoft) | 1 | 4 | **Web:** [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) |
 | [zkondor](https://www.raycast.com/zkondor) | 1 | 2,226 | **System:** [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) |
 | [zoffyzhang](https://www.raycast.com/zoffyzhang) | 1 | 74 | **Finance:** [Fluctuation](https://github.com/raycast/extensions/tree/main/extensions/fluctuation) |

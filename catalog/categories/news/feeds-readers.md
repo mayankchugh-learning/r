@@ -23,7 +23,7 @@
 | [v2ex](https://github.com/raycast/extensions/tree/main/extensions/v2ex) | 798 | You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your… | leo | macOS | [store](https://www.raycast.com/leo/v2ex) |
 | [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) | 730 | Checkout all NYT posts | Antonwy | macOS | [store](https://www.raycast.com/Antonwy/new-york-times) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 110 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
-| [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) | 61 | Show posts on theinitium.com | unpopular | macOS | [store](https://www.raycast.com/unpopular/initium) |
+| [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) | 62 | Show posts on theinitium.com | unpopular | macOS | [store](https://www.raycast.com/unpopular/initium) |
 
 ## General
 

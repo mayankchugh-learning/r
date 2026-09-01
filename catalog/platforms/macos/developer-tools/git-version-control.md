@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 186,663 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
+| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 186,676 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 26,794 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
 | [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab) | 21,045 | Create, search and modify issues, manage merge requests, projects and more. | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gitlab) |
 | [GitHub Repository Search](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) | 15,916 | Search repositories on GitHub and open previously visited ones faster. | thomas | macOS | [store](https://www.raycast.com/thomas/github-repository-search) |
@@ -55,4 +55,4 @@
 | [Commit Streak](https://github.com/raycast/extensions/tree/main/extensions/commit-streak) | 7 | Track your GitHub contribution streak in the menu bar. Stay motivated or get reminded. | aundu | macOS | [store](https://www.raycast.com/aundu/commit-streak) |
 | [Commit Sounds](https://github.com/raycast/extensions/tree/main/extensions/commit-sound-controls) | 6 | Play custom sounds after Git commits to selected GitHub users or organizations. | koushik | macOS, Windows | [store](https://www.raycast.com/koushik/commit-sound-controls) |
 | [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 3 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
-| [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool) | 0 | Manage on-demand self-hosted GitHub Actions runner pools on your Mac | aic | macOS | [store](https://www.raycast.com/aic/runpool) |
+| [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool) | 1 | Manage on-demand self-hosted GitHub Actions runner pools on your Mac | aic | macOS | [store](https://www.raycast.com/aic/runpool) |

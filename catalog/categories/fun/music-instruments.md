@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 91,157 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 91,163 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
 | [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,096 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
 | [Music Recognition](https://github.com/raycast/extensions/tree/main/extensions/music-recognition) | 365 | Recognize music via a macOS Shortcuts proxy (Shazam) | lemikeone | macOS | [store](https://www.raycast.com/lemikeone/music-recognition) |
 | [Slowed + Reverb](https://github.com/raycast/extensions/tree/main/extensions/slowed-reverb) | 233 | Turn any song into a Slowed + Reverb version | tomo_myrman | macOS | [store](https://www.raycast.com/tomo_myrman/slowed-reverb) |
