@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `25bc59033a`
+
+**Added (1):** [OneCal Unified Calendar](https://github.com/raycast/extensions/tree/main/extensions/onecal-unified-calendar)
+
 ## 2026-09-01 — upstream `613ae1fcb8`
 
 **Updated (1):** [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator)

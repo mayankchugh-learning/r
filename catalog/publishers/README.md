@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,140,107 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,140,109 |
 | 2 | [raycast](./id/raycast.md) | 11 | 808,610 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,011 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,389 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,013 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,392 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 449,693 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 444,853 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 415,808 |
@@ -202,7 +202,7 @@
 | 192 | [ABukSwienty](https://www.raycast.com/ABukSwienty) | 1 | 8,206 |
 | 193 | [gbarba](https://www.raycast.com/gbarba) | 3 | 8,081 |
 | 194 | [anybox](https://www.raycast.com/anybox) | 2 | 8,054 |
-| 195 | [keito4](https://www.raycast.com/keito4) | 4 | 8,035 |
+| 195 | [keito4](https://www.raycast.com/keito4) | 5 | 8,035 |
 | 196 | [Sn0wye](https://www.raycast.com/Sn0wye) | 1 | 7,996 |
 | 197 | [renfei_song](https://www.raycast.com/renfei_song) | 1 | 7,960 |
 | 198 | [cali](https://www.raycast.com/cali) | 2 | 7,926 |

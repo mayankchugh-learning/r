@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · **O** · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-111 extensions · [← catalog index](../README.md)
+112 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -117,3 +117,4 @@
 | [Oneko](https://github.com/raycast/extensions/tree/main/extensions/oneko) | 12 | Control Oneko, the desktop cat that chases your cursor. | miklw | macOS | [store](https://www.raycast.com/miklw/oneko) |
 | [Oh-Shoot](https://github.com/raycast/extensions/tree/main/extensions/oh-shoot) | 7 | Search your oh-shoot screenshots by their OCR text and jump straight back into the oh-shoot app. | nico_pergande | macOS | [store](https://www.raycast.com/nico_pergande/oh-shoot) |
 | [OlaCV](https://github.com/raycast/extensions/tree/main/extensions/olacv) | 7 | Manage Domains and Contacts in our OlaCV account | xmok | macOS | [store](https://www.raycast.com/xmok/olacv) |
+| [OneCal Unified Calendar](https://github.com/raycast/extensions/tree/main/extensions/onecal-unified-calendar) | 0 | View your OneCal unified calendar in Raycast - all events across synced calendars, with clone events hidden | keito4 | macOS | [store](https://www.raycast.com/keito4/onecal-unified-calendar) |

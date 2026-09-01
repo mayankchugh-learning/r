@@ -1,8 +1,8 @@
 # Calendar & Scheduling
 
-24 extensions · [← Productivity](./README.md)
+25 extensions · [← Productivity](./README.md)
 
-[Calendar ✦](#calendar) (13) · [Meeting ✦](#meeting) (8) · [General](#general) (3)
+[Calendar ✦](#calendar) (14) · [Meeting ✦](#meeting) (8) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -23,6 +23,7 @@
 | [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation) | 14 | Automate Raycast Focus sessions from your calendar. | p2m | macOS | [store](https://www.raycast.com/p2m/focus-automation) |
 | [Don't Break the Chain](https://github.com/raycast/extensions/tree/main/extensions/don-t-break-the-chain) | 11 | Keep a mini calendar in your menu bar and cross off every day you show up, so you don't break the chain. | ramysamy | macOS | [store](https://www.raycast.com/ramysamy/don-t-break-the-chain) |
 | [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) | 2 | Control MenuCloak focus, cloak, and Google Calendar settings | dans_huang | macOS | [store](https://www.raycast.com/dans_huang/menucloak) |
+| [OneCal Unified Calendar](https://github.com/raycast/extensions/tree/main/extensions/onecal-unified-calendar) | 0 | View your OneCal unified calendar in Raycast - all events across synced calendars, with clone events hidden | keito4 | macOS | [store](https://www.raycast.com/keito4/onecal-unified-calendar) |
 
 ## Meeting ✦
 

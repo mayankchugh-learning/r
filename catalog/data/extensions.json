@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "613ae1fcb8e68680c6509dfa897341dd61b25c89",
-  "generatedAt": "2026-09-01T05:42:28.064Z",
-  "downloadsRefreshedAt": "2026-09-01T05:42:26.245Z",
-  "count": 3240,
+  "commit": "25bc59033a8fb0dbcba2fe10c3c38882a1c2c625",
+  "generatedAt": "2026-09-01T05:44:37.355Z",
+  "downloadsRefreshedAt": "2026-09-01T05:44:36.976Z",
+  "count": 3241,
   "extensions": [
     {
       "dir": "0x0",
@@ -9811,7 +9811,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 528252
+      "downloads": 528254
     },
     {
       "dir": "color-shades",
@@ -22206,7 +22206,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 511389
+      "downloads": 511392
     },
     {
       "dir": "google-chrome-profiles",
@@ -28528,7 +28528,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 687011
+      "downloads": 687013
     },
     {
       "dir": "kimai",
@@ -39166,6 +39166,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/one-time-secret",
       "treeSha": "4aa2c61bad608b802131ac8f6412bb10d398e148",
       "downloads": 602
+    },
+    {
+      "dir": "onecal-unified-calendar",
+      "name": "onecal-unified-calendar",
+      "title": "OneCal Unified Calendar",
+      "description": "View your OneCal unified calendar in Raycast - all events across synced calendars, with clone events hidden",
+      "author": "keito4",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/keito4/onecal-unified-calendar",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/onecal-unified-calendar",
+      "treeSha": "0151344948b770cba79712448271b02721f3847d",
+      "downloads": 0
     },
     {
       "dir": "oneko",

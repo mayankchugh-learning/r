@@ -1,13 +1,13 @@
 # macOS · Productivity
 
-1455 extensions · [← macOS](../README.md)
+1456 extensions · [← macOS](../README.md)
 
 ## Organize & Plan
 
 | Topic | Extensions |
 | --- | --- |
 | [Tasks & To-Dos](./tasks-to-dos.md) | 51 |
-| [Calendar & Scheduling](./calendar-scheduling.md) | 24 |
+| [Calendar & Scheduling](./calendar-scheduling.md) | 25 |
 | [Notes & Knowledge](./notes-knowledge.md) | 62 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 25 |
 
