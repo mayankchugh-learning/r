@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `951034d141`
+
+**Updated (1):** [Spike](https://github.com/raycast/extensions/tree/main/extensions/spike)
+
 ## 2026-09-01 — upstream `2c34587082`
 
 **Updated (1):** [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode)

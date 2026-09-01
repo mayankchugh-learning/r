@@ -9,4 +9,4 @@
 | [NTS Radio](https://github.com/raycast/extensions/tree/main/extensions/nts-radio) | 461 | Stream & Search NTS Radio | arjanski | macOS | [store](https://www.raycast.com/arjanski/nts-radio) |
 | [Fip](https://github.com/raycast/extensions/tree/main/extensions/fip) | 200 | Start and explore the fip radio directly from Raycast | louison | macOS | [store](https://www.raycast.com/louison/fip) |
 | [SomaFM](https://github.com/raycast/extensions/tree/main/extensions/somafm) | 126 | Browse and play SomaFM internet radio stations with smart player detection, favorites, and now playing information | mwarger | macOS | [store](https://www.raycast.com/mwarger/somafm) |
-| [NTS Radio](https://github.com/raycast/extensions/tree/main/extensions/nts) | 46 | Shows the currently playing NTS Radio shows | tiktuk | macOS | [store](https://www.raycast.com/tiktuk/nts) |
+| [NTS Radio](https://github.com/raycast/extensions/tree/main/extensions/nts) | 47 | Shows the currently playing NTS Radio shows | tiktuk | macOS | [store](https://www.raycast.com/tiktuk/nts) |

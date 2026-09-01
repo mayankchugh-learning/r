@@ -6,14 +6,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 66,215 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,899 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 66,216 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 13,901 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 11,318 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
 | [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,157 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 8,014 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
-| [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,595 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
-| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 4,045 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
-| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 4,026 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
+| [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) | 4,596 | Browse latest news from your favourite sources | fuksman | macOS | [store](https://www.raycast.com/fuksman/rss-reader) |
+| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 4,046 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
+| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 4,027 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
 | [Transmission](https://github.com/raycast/extensions/tree/main/extensions/transmission) | 3,247 | View and manage torrents directly from Raycast. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/transmission) |
 | [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,109 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |
 | [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | 3,092 | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
@@ -48,7 +48,7 @@
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 313 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Openverse](https://github.com/raycast/extensions/tree/main/extensions/openverse) | 311 | Openverse is a search engine for openly-licensed media. | openverse (org) | macOS | [store](https://www.raycast.com/openverse/openverse) |
 | [Must](https://github.com/raycast/extensions/tree/main/extensions/must) | 292 | Display your Want to Watch list on Must Movie Tracking app directly on Raycast! | eggsy | macOS | [store](https://www.raycast.com/eggsy/must) |
-| [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 286 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |
+| [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 287 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |
 | [Deutscher Wetterdienst](https://github.com/raycast/extensions/tree/main/extensions/deutscherwetterdienst) | 282 | Shows current rain radar by the Deutscher Wetter Dienst | nicolai | macOS | [store](https://www.raycast.com/nicolai/deutscherwetterdienst) |
 | [NOS Nieuws](https://github.com/raycast/extensions/tree/main/extensions/nos-news) | 280 | Used to display the latest NOS nieuws from nos.nl | jorandob | macOS | [store](https://www.raycast.com/jorandob/nos-nieuws) |
 | [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 275 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
@@ -63,7 +63,7 @@
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 166 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
 | [Tautulli](https://github.com/raycast/extensions/tree/main/extensions/tautulli) | 163 | View the current Plex streams using the Tautulli API | joshandromidas | macOS | [store](https://www.raycast.com/joshandromidas/tautulli) |
 | [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) | 162 | See Pitchfork Album Reviews | koayon | macOS | [store](https://www.raycast.com/koayon/pitchfork) |
-| [Quoterism](https://github.com/raycast/extensions/tree/main/extensions/quoterism) | 152 | Get access to the Web's largest collection of human inspiration | dmitry_fisenko | macOS | [store](https://www.raycast.com/dmitry_fisenko/quoterism-raycast) |
+| [Quoterism](https://github.com/raycast/extensions/tree/main/extensions/quoterism) | 153 | Get access to the Web's largest collection of human inspiration | dmitry_fisenko | macOS | [store](https://www.raycast.com/dmitry_fisenko/quoterism-raycast) |
 | [Literal](https://github.com/raycast/extensions/tree/main/extensions/literal) | 151 | Track and edit your reading progress from your command bar | OkanBilal | macOS | [store](https://www.raycast.com/OkanBilal/literal) |
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | 151 | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
 | [setlist.fm](https://github.com/raycast/extensions/tree/main/extensions/setlist-fm) | 145 | Look up setlists on setlist.fm | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/setlist-fm) |

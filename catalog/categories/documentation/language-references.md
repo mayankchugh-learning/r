@@ -10,4 +10,4 @@
 | [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) | 178 | Search Haskell documentation in Hoogle | waj | macOS | [store](https://www.raycast.com/waj/hoogle) |
 | [Elixir](https://github.com/raycast/extensions/tree/main/extensions/elixir) | 174 | Navigate Elixir's documentation without leaving Raycast. | dinocosta | macOS | [store](https://www.raycast.com/dinocosta/elixir) |
 | [Rust Documentation](https://github.com/raycast/extensions/tree/main/extensions/rust-docs) | 116 | Search Rust Standard Library documentation | patrick-ehimen | macOS, Windows | [store](https://www.raycast.com/patrick-ehimen/rust-docs) |
-| [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 109 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
+| [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 110 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
