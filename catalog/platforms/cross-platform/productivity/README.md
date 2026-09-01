@@ -1,6 +1,6 @@
 # Cross-platform · Productivity
 
-346 extensions · [← Cross-platform](../README.md)
+347 extensions · [← Cross-platform](../README.md)
 
 ## Organize & Plan
 
@@ -24,7 +24,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [Automation & Workflows](./automation-workflows.md) | 5 |
+| [Automation & Workflows](./automation-workflows.md) | 6 |
 | [Clipboard & Text Expansion](./clipboard-text-expansion.md) | 16 |
 | [Window & Workspace Management](./window-workspace-management.md) | 7 |
 | [Search & Bookmarks](./search-bookmarks.md) | 61 |

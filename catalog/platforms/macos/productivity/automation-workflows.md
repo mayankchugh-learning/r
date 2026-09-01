@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · **Automation & Workflows** · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-28 of 1456 extensions · [← macOS · Productivity](./README.md)
+29 of 1457 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -34,3 +34,4 @@
 | [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 19 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
 | [QuickLinker](https://github.com/raycast/extensions/tree/main/extensions/quicklinker) | 13 | Resolve your QuickLinker shortcuts directly from Raycast | n-winspear | macOS | [store](https://www.raycast.com/n-winspear/quicklinker) |
 | [Wip.et](https://github.com/raycast/extensions/tree/main/extensions/wipet) | 6 | Ship every day. Log done's and todos to your wip.et feed without leaving the keyboard. Pick projects with #-autocomplete, attach screenshots, post in one short… | robimez | macOS, Windows | [store](https://www.raycast.com/robimez/wipet) |
+| [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library) | — | Your own custom keyboard shortcuts, grouped and fuzzy-searchable | rhrabun | macOS, Windows | — |

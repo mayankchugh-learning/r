@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `ce4ee034c4`
+
+**Added (1):** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library)
+
 ## 2026-09-01 — upstream `4466d32b2e`
 
 **Updated (1):** [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes)

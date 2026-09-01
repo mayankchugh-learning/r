@@ -1,6 +1,6 @@
 # Publishers
 
-2161 publishers · [← catalog index](../README.md)
+2162 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,140,121 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,140,122 |
 | 2 | [raycast](./id/raycast.md) | 11 | 808,610 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,025 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,398 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,026 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,400 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 449,693 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 444,853 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 415,808 |
@@ -2169,3 +2169,4 @@
 | 2159 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2160 | github-next | 2 | — |
 | 2161 | multi | 1 | — |
+| 2162 | rhrabun | 1 | — |
