@@ -1,8 +1,8 @@
 # Design Tools
 
-159 extensions · [← all categories](../README.md)
+160 extensions · [← all categories](../README.md)
 
-macOS: 159 · Windows: 44
+macOS: 160 · Windows: 44
 
 ## Visual Elements
 
@@ -18,7 +18,7 @@ macOS: 159 · Windows: 44
 | --- | --- |
 | [Design Apps & Whiteboards](./design-apps-whiteboards.md) | 10 |
 | [Screenshots & Mockups](./screenshots-mockups.md) | 11 |
-| [AI Generation](./ai-generation.md) | 13 |
+| [AI Generation](./ai-generation.md) | 14 |
 | [3D & Motion](./3d-motion.md) | 2 |
 
 ## Reference & Inspiration

@@ -1,6 +1,6 @@
 # Publishers
 
-2162 publishers · [← catalog index](../README.md)
+2163 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 153,848 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,687 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,493 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,140,512 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,140,611 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 305,706 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,772 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 415,916 |
@@ -71,7 +71,7 @@
 | 61 | [BossElijah](https://www.raycast.com/BossElijah) | 5 | 1,168 |
 | 62 | [Osprey](https://www.raycast.com/Osprey) | 5 | 534 |
 | 63 | [FariaF22](https://www.raycast.com/FariaF22) | 5 | 377 |
-| 64 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 60,547 |
+| 64 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 60,560 |
 | 65 | [yug2005](https://www.raycast.com/yug2005) | 4 | 47,948 |
 | 66 | [kawamataryo](https://www.raycast.com/kawamataryo) | 4 | 42,806 |
 | 67 | [degouville](https://www.raycast.com/degouville) | 4 | 42,724 |
@@ -392,8 +392,8 @@
 | 382 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 9 |
 | 383 | [tai](https://www.raycast.com/tai) | 2 | 6 |
 | 384 | github-next | 2 | — |
-| 385 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,237 |
-| 386 | [Codely](https://www.raycast.com/Codely) | 1 | 511,563 |
+| 385 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,327 |
+| 386 | [Codely](https://www.raycast.com/Codely) | 1 | 511,647 |
 | 387 | [linear](https://www.raycast.com/linear) | 1 | 356,605 |
 | 388 | [mommertf](https://www.raycast.com/mommertf) | 1 | 296,102 |
 | 389 | [nhojb](https://www.raycast.com/nhojb) | 1 | 262,249 |
@@ -2167,6 +2167,7 @@
 | 2157 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2158 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2159 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2160 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2161 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2162 | multi | 1 | — |
+| 2160 | [guus](https://www.raycast.com/guus) | 1 | 0 |
+| 2161 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2162 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2163 | multi | 1 | — |

@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 102,861 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 61,982 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,973 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,986 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Password Generator](https://github.com/raycast/extensions/tree/main/extensions/password-generator) | 37,542 | Generates a password from 5–64 characters with options for case, special characters, and more | joshuaiz | macOS, Windows | [store](https://www.raycast.com/joshuaiz/password-generator) |
 | [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 23,619 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
 | [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) | 12,742 | Use the powerful models via Perplexity API from the comfort of Raycast. | ilian | macOS, Windows | [store](https://www.raycast.com/ilian/perplexity-api) |

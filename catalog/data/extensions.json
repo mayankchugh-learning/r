@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1f1750f1719097dd6d13270617ff1a738b935782",
-  "generatedAt": "2026-09-01T08:47:41.752Z",
-  "downloadsRefreshedAt": "2026-09-01T08:47:41.027Z",
-  "count": 3242,
+  "commit": "9d7bf39b27b3f98a396668d4d6f10d4dfe923150",
+  "generatedAt": "2026-09-01T09:53:46.564Z",
+  "downloadsRefreshedAt": "2026-09-01T09:53:45.220Z",
+  "count": 3243,
   "extensions": [
     {
       "dir": "0x0",
@@ -923,6 +923,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar",
       "treeSha": "fdf204afbf332cda0bef17634acef20fb2e8861e",
       "downloads": 565
+    },
+    {
+      "dir": "ai-to-pdf",
+      "name": "ai-to-pdf",
+      "title": "AI to PDF",
+      "description": "Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export.",
+      "author": "guus",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Design Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/guus/ai-to-pdf",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf",
+      "treeSha": "4bf350baefd5ed2d61bd5ce70fa3408bf19e41d9",
+      "downloads": 0
     },
     {
       "dir": "ai-usage-tracker",
@@ -9811,7 +9832,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 528477
+      "downloads": 528576
     },
     {
       "dir": "color-shades",
@@ -22206,7 +22227,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 511563
+      "downloads": 511647
     },
     {
       "dir": "google-chrome-profiles",
@@ -28528,7 +28549,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 687237
+      "downloads": 687327
     },
     {
       "dir": "kimai",
@@ -43757,7 +43778,7 @@
       "description": "Find open ports and close them",
       "author": "lucaschultz",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Developer Tools",
         "Productivity",
@@ -43770,8 +43791,8 @@
       ],
       "store": "https://www.raycast.com/lucaschultz/port-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/port-manager",
-      "treeSha": "2caa28eae5c6582ef7a2384726c2d42af0f00389",
-      "downloads": 53973
+      "treeSha": "52677bc6f3f156246c42702af109494fceb9cb6d",
+      "downloads": 53986
     },
     {
       "dir": "portal-wholesale",

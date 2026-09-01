@@ -1,6 +1,6 @@
 # AI Generation
 
-13 extensions · [← Design Tools](./README.md)
+14 extensions · [← Design Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -17,3 +17,4 @@
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 40 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
 | [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) | 13 | Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives. | yusoufu | macOS | [store](https://www.raycast.com/yusoufu/design-file-finder) |
 | [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 10 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
+| [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 0 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |

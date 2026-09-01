@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,973 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,986 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,790 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 18,823 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 14,743 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |

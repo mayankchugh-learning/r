@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-157 extensions · [← catalog index](../README.md)
+158 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -161,5 +161,6 @@
 | [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy) | 2 | Browse, launch, and monitor AWX job templates and running jobs. | hmims | macOS, Windows | [store](https://www.raycast.com/hmims/awx-deploy) |
 | [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) | 1 | Search the Aqua Registry for CLI tools and copy commands to add them to aqua.yaml | raycast_0ukl | macOS, Windows | [store](https://www.raycast.com/raycast_0ukl/aqua-registry-search) |
 | [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) | 1 | Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast. | uluumbch | macOS, Windows | [store](https://www.raycast.com/uluumbch/average-saham-indonesia) |
+| [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 0 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 | [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) | 0 | Control your AudioCast device using Raycast | RomiC | macOS, Windows | [store](https://www.raycast.com/RomiC/audiocast-control) |

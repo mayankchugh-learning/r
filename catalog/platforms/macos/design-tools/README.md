@@ -1,8 +1,8 @@
 # macOS · Design Tools
 
-159 extensions · [← macOS](../README.md)
+160 extensions · [← macOS](../README.md)
 
-[AI Generation](#ai-generation) (13) · [Colors & Palettes](#colors-palettes) (24) · [Icons & Assets](#icons-assets) (35) · [Fonts & Typography](#fonts-typography) (6) · [Design Apps & Whiteboards](#design-apps-whiteboards) (10) · [Screenshots & Mockups](#screenshots-mockups) (11) · [3D & Motion](#3d-motion) (2) · [Calculators & Ratios](#calculators-ratios) (6) · [Art & Wallpapers](#art-wallpapers) (4) · [Inspiration & Galleries](#inspiration-galleries) (5) · [General](#general) (43)
+[AI Generation](#ai-generation) (14) · [Colors & Palettes](#colors-palettes) (24) · [Icons & Assets](#icons-assets) (35) · [Fonts & Typography](#fonts-typography) (6) · [Design Apps & Whiteboards](#design-apps-whiteboards) (10) · [Screenshots & Mockups](#screenshots-mockups) (11) · [3D & Motion](#3d-motion) (2) · [Calculators & Ratios](#calculators-ratios) (6) · [Art & Wallpapers](#art-wallpapers) (4) · [Inspiration & Galleries](#inspiration-galleries) (5) · [General](#general) (43)
 
 ## Visual Elements
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 528,477 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 528,576 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,278 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,583 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,063 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -136,6 +136,7 @@
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 40 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
 | [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) | 13 | Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives. | yusoufu | macOS | [store](https://www.raycast.com/yusoufu/design-file-finder) |
 | [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 10 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
+| [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 0 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |
 
 ### 3D & Motion
 

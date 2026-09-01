@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 356,605 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 75,574 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,973 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,986 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 39,356 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
 | [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 20,753 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
 | [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 18,537 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |

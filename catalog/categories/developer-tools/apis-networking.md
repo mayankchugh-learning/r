@@ -62,7 +62,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,973 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 53,986 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,334 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Raycast Port](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) | 1,001 | This allows you to use Raycast features out of Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-port) |
 | [Ray Boop](https://github.com/raycast/extensions/tree/main/extensions/ray-boop) | 591 | Port of Boop to Raycast. Run any Boop script on clipboard content. | nathan_schwermann | macOS | [store](https://www.raycast.com/nathan_schwermann/ray-boop) |

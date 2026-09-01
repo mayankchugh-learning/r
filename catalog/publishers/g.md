@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · **G** · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-68 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+69 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -72,5 +72,6 @@
 | [Gusta](https://www.raycast.com/Gusta) | 1 | 35 | **Finance:** [Dolar Hoy Argentina](https://github.com/raycast/extensions/tree/main/extensions/dolar-hoy) |
 | [gustavofior](https://www.raycast.com/gustavofior) | 1 | 463 | **Data:** [5Devs](https://github.com/raycast/extensions/tree/main/extensions/5devs) |
 | [gutenye](https://www.raycast.com/gutenye) | 3 | 1,285 | **Finance:** [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price)<br>**Applications:** [React DevTools](https://github.com/raycast/extensions/tree/main/extensions/react-devtools)<br>**Productivity:** [Search Blockchain](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) |
+| [guus](https://www.raycast.com/guus) | 1 | 0 | **Design Tools:** [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) |
 | [guy_scher](https://www.raycast.com/guy_scher) | 1 | 198 | **Developer Tools:** [Twingate](https://github.com/raycast/extensions/tree/main/extensions/twingate) |
 | [gzyannick](https://www.raycast.com/gzyannick) | 1 | 113 | **Applications:** [Leitner Box](https://github.com/raycast/extensions/tree/main/extensions/leitnerbox) |

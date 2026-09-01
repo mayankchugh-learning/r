@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `9d7bf39b27`
+
+**Added (1):** [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf)
+
+**Updated (1):** [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager)
+
 ## 2026-09-01 — upstream `1f1750f171`
 
 **Updated (1):** [App Store Connect](https://github.com/raycast/extensions/tree/main/extensions/app-store-connect)

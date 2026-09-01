@@ -1,6 +1,6 @@
 # Publishers
 
-2162 publishers · [← catalog index](../README.md)
+2163 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,140,512 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,140,611 |
 | 2 | [raycast](./id/raycast.md) | 11 | 808,887 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,237 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,563 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,327 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,647 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 449,814 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 444,965 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 415,916 |
@@ -50,7 +50,7 @@
 | 40 | [benvp](https://www.raycast.com/benvp) | 1 | 66,875 |
 | 41 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 66,813 |
 | 42 | [third774](https://www.raycast.com/third774) | 3 | 62,440 |
-| 43 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 60,547 |
+| 43 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 60,560 |
 | 44 | [Kang](https://www.raycast.com/Kang) | 3 | 60,349 |
 | 45 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 59,479 |
 | 46 | [simicvm](https://www.raycast.com/simicvm) | 1 | 58,793 |
@@ -2166,7 +2166,8 @@
 | 2156 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2157 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2158 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2159 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2160 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2161 | github-next | 2 | — |
-| 2162 | multi | 1 | — |
+| 2159 | [guus](https://www.raycast.com/guus) | 1 | 0 |
+| 2160 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2161 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2162 | github-next | 2 | — |
+| 2163 | multi | 1 | — |
