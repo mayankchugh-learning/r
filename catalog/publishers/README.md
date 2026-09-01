@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,140,109 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,140,121 |
 | 2 | [raycast](./id/raycast.md) | 11 | 808,610 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,013 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,392 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 687,025 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 511,398 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 449,693 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 444,853 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 415,808 |
@@ -126,7 +126,7 @@
 | 116 | [maantje](https://www.raycast.com/maantje) | 2 | 16,427 |
 | 117 | [ilian](https://www.raycast.com/ilian) | 3 | 16,316 |
 | 118 | [StevenRCE0](https://www.raycast.com/StevenRCE0) | 2 | 16,212 |
-| 119 | [timoransky](https://www.raycast.com/timoransky) | 4 | 15,854 |
+| 119 | [timoransky](https://www.raycast.com/timoransky) | 4 | 15,857 |
 | 120 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,766 |
 | 121 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 15,512 |
 | 122 | [kom](https://www.raycast.com/kom) | 1 | 15,411 |

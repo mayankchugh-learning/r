@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `4466d32b2e`
+
+**Updated (1):** [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes)
+
 ## 2026-09-01 — upstream `25bc59033a`
 
 **Added (1):** [OneCal Unified Calendar](https://github.com/raycast/extensions/tree/main/extensions/onecal-unified-calendar)
