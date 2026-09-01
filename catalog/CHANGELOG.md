@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `1f1750f171`
+
+**Updated (1):** [App Store Connect](https://github.com/raycast/extensions/tree/main/extensions/app-store-connect)
+
 ## 2026-09-01 — upstream `ae4623a3a2`
 
 **Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
