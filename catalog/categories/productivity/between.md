@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 63,026 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
-| [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case) | 48,340 | Transform a string between camelCase, snake_case, CONSTANT_CASE, and more | erics118 | macOS, Windows | [store](https://www.raycast.com/erics118/change-case) |
-| [Harpoon](https://github.com/raycast/extensions/tree/main/extensions/harpoon) | 815 | Tag frequently used applications and quickly switch between them. Inspired by The Primeagen's Harpoon plugin. | brian_wang | macOS | [store](https://www.raycast.com/brian_wang/harpoon) |
+| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 63,082 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
+| [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case) | 48,392 | Transform a string between camelCase, snake_case, CONSTANT_CASE, and more | erics118 | macOS, Windows | [store](https://www.raycast.com/erics118/change-case) |
+| [Harpoon](https://github.com/raycast/extensions/tree/main/extensions/harpoon) | 816 | Tag frequently used applications and quickly switch between them. Inspired by The Primeagen's Harpoon plugin. | brian_wang | macOS | [store](https://www.raycast.com/brian_wang/harpoon) |
 | [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) | 113 | Move the macOS mouse cursor between displays with relative-position and center modes. | johnwick | macOS | [store](https://www.raycast.com/johnwick/move-cursor-next-display) |
 | [ThermoConvert](https://github.com/raycast/extensions/tree/main/extensions/thermo-convert) | 58 | Instantly convert between all major temperature scales | kud | macOS, Windows | [store](https://www.raycast.com/kud/thermoconvert) |
 | [TON Address](https://github.com/raycast/extensions/tree/main/extensions/ton-address) | 25 | Convert TON blockchain addresses between different formats and resolve .ton domain names | drankou | macOS | [store](https://www.raycast.com/drankou/ton-address) |
