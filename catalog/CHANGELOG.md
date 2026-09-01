@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-01 — upstream `2c34587082`
+
+**Updated (1):** [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode)
+
 ## 2026-09-01 — upstream `9d7bf39b27`
 
 **Added (1):** [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf)

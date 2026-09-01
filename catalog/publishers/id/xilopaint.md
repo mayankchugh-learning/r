@@ -1,6 +1,6 @@
 # xilopaint
 
-10 extensions · 20,540 downloads · [store](https://www.raycast.com/xilopaint) · [← publishers](../README.md)
+10 extensions · 20,542 downloads · [store](https://www.raycast.com/xilopaint) · [← publishers](../README.md)
 
 ## Web (3)
 
@@ -14,7 +14,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [PDF Tools](https://github.com/raycast/extensions/tree/main/extensions/pdf-tools) | 7,847 | Your all-in-one PDF toolkit | xilopaint | macOS | [store](https://www.raycast.com/xilopaint/pdf-tools) |
+| [PDF Tools](https://github.com/raycast/extensions/tree/main/extensions/pdf-tools) | 7,849 | Your all-in-one PDF toolkit | xilopaint | macOS | [store](https://www.raycast.com/xilopaint/pdf-tools) |
 | [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,850 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
 | [Origami](https://github.com/raycast/extensions/tree/main/extensions/origami) | 46 | Access and control your Origami workspace | xilopaint | macOS | [store](https://www.raycast.com/xilopaint/origami) |
 | [Vade Mecum](https://github.com/raycast/extensions/tree/main/extensions/vade-mecum) | 28 | Quickly access and navigate relevant Brazilian legislation | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/vade-mecum) |
