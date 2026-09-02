@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `66d074c178`
+
+**Updated (1):** [Contrast Lab](https://github.com/raycast/extensions/tree/main/extensions/contrast-lab)
+
 ## 2026-09-02 — upstream `e28d00cdce`
 
 **Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)
