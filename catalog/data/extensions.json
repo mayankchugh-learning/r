@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "79232df4c4ecc41f0ef89a4011a24cb4f6c947a5",
-  "generatedAt": "2026-09-02T13:33:38.372Z",
-  "downloadsRefreshedAt": "2026-09-02T13:33:37.948Z",
+  "commit": "7a57233a9fe10785fed2ab538aaa1de5b521989d",
+  "generatedAt": "2026-09-02T13:35:43.586Z",
+  "downloadsRefreshedAt": "2026-09-02T13:35:42.809Z",
   "count": 3248,
   "extensions": [
     {
@@ -22269,7 +22269,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 512847
+      "downloads": 512848
     },
     {
       "dir": "google-chrome-profiles",
@@ -28612,7 +28612,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 689084
+      "downloads": 689086
     },
     {
       "dir": "kimai",
@@ -48308,7 +48308,7 @@
     {
       "dir": "read-this-later",
       "name": "read-this-later",
-      "title": "Research Sync",
+      "title": "Clipfile",
       "description": "Browse and read your saved articles, and save the current browser tab.",
       "author": "shearm",
       "owner": null,
@@ -48323,7 +48323,7 @@
       ],
       "store": "https://www.raycast.com/shearm/read-this-later",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/read-this-later",
-      "treeSha": "e23a0d04d90326ab0eccac6ef7c6d9f050322103",
+      "treeSha": "82040a167d27109e235b0f98d10fe86f23a67ad2",
       "downloads": 26
     },
     {

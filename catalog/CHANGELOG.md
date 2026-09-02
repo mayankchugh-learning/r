@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `7a57233a9f`
+
+**Updated (1):** [Clipfile](https://github.com/raycast/extensions/tree/main/extensions/read-this-later)
+
 ## 2026-09-02 — upstream `79232df4c4`
 
 **Updated (1):** [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail)

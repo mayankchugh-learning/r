@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · **R** · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-162 extensions · [← catalog index](../README.md)
+161 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -153,7 +153,6 @@
 | [Rollup.wtf](https://github.com/raycast/extensions/tree/main/extensions/rollup-wtf) | 32 | Raycast Version of Rollup.wtf | Osprey | macOS | [store](https://www.raycast.com/Osprey/rollup-wtf) |
 | [Recurly](https://github.com/raycast/extensions/tree/main/extensions/recurly) | 28 | A smallish client for the Recurly API | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/recurly) |
 | [Rounding Number](https://github.com/raycast/extensions/tree/main/extensions/rounding-number) | 28 | Quickly round any number to the nearest value you choose. Simply enter a number and the place you want to round to (such as 10, 100, or 1000), and get your rou… | hackettlai | macOS | [store](https://www.raycast.com/hackettlai/rounding-number) |
-| [Research Sync](https://github.com/raycast/extensions/tree/main/extensions/read-this-later) | 26 | Browse and read your saved articles, and save the current browser tab. | shearm | macOS | [store](https://www.raycast.com/shearm/read-this-later) |
 | [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 25 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
 | [Remo](https://github.com/raycast/extensions/tree/main/extensions/remo-notes) | 22 | Remo is a simple, fast AI note-taking app. Capture ideas instantly, stay organized, and use AI to turn notes into action — on web and Raycast. | alfredmouelle | macOS | [store](https://www.raycast.com/alfredmouelle/remo-notes) |
 | [Rewardful](https://github.com/raycast/extensions/tree/main/extensions/rewardful) | 21 | Unofficial Rewardful extension | alexs | macOS | [store](https://www.raycast.com/alexs/rewardful) |

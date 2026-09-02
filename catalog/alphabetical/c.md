@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · **C** · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-278 extensions · [← catalog index](../README.md)
+279 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -245,6 +245,7 @@
 | [Chainscout](https://github.com/raycast/extensions/tree/main/extensions/chainscout) | 27 | Find information about blockchains (powered by Blockscout) | tom_goriunov | macOS | [store](https://www.raycast.com/tom_goriunov/chainscout) |
 | [Chinese Lottery](https://github.com/raycast/extensions/tree/main/extensions/chinese-lottery) | 27 | Check the results of China Welfare Lottery and Sports Lottery | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/chinese-lottery) |
 | [Climbing Grade Converter](https://github.com/raycast/extensions/tree/main/extensions/climbing-grade-converter) | 27 | This extension converts any climbing grade (Font e. 7b+, V-scale e. V8, and YDS e. 5.14a) into a selected one, using natural language. | mrtartuf0 | macOS | [store](https://www.raycast.com/mrtartuf0/climbing-grade-converter) |
+| [Clipfile](https://github.com/raycast/extensions/tree/main/extensions/read-this-later) | 26 | Browse and read your saved articles, and save the current browser tab. | shearm | macOS | [store](https://www.raycast.com/shearm/read-this-later) |
 | [Chatwoot](https://github.com/raycast/extensions/tree/main/extensions/chatwoot) | 25 | The modern, open source, self-hosted customer support platform | xmok | macOS | [store](https://www.raycast.com/xmok/chatwoot) |
 | [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) | 25 | Latest important cyber security news, ranked by severity. | goran_breivik | macOS, Windows | [store](https://www.raycast.com/goran_breivik/cyber-security-pulse) |
 | [Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/crypto-search) | 22 | Quick search for crypto addresses and transactions across multiple chains | fernando_jacob | macOS | [store](https://www.raycast.com/fernando_jacob/crypto-search) |
