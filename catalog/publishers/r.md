@@ -89,7 +89,7 @@
 | [roelvan](https://www.raycast.com/roelvan) | 1 | 743 | **Developer Tools:** [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 853 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 658 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,947 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,948 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 17 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 594 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 4 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |
