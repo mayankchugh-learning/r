@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "66d074c1788e138f5200bf1889876ec5d6d16b5e",
-  "generatedAt": "2026-09-02T09:21:38.319Z",
-  "downloadsRefreshedAt": "2026-09-02T09:21:37.693Z",
+  "commit": "f273e43bacdfa9b9a7b1aaf25e48dfa6635467bd",
+  "generatedAt": "2026-09-02T09:23:20.725Z",
+  "downloadsRefreshedAt": "2026-09-02T09:23:20.339Z",
   "count": 3246,
   "extensions": [
     {
@@ -4733,7 +4733,7 @@
       "description": "Run BTT actions from Raycast",
       "author": "dnnsmnstrr",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Applications",
         "Productivity"
@@ -4744,7 +4744,7 @@
       ],
       "store": "https://www.raycast.com/dnnsmnstrr/bettertouchtool",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool",
-      "treeSha": "73b5f62c319472c44fd791615fd9c872c77da4c3",
+      "treeSha": "417296cb8d66bd42bcff10c082d4b0bf4f0372af",
       "downloads": 3724
     },
     {
@@ -9853,7 +9853,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 529887
+      "downloads": 529888
     },
     {
       "dir": "color-shades",
@@ -22248,7 +22248,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 512638
+      "downloads": 512640
     },
     {
       "dir": "google-chrome-profiles",
@@ -28570,7 +28570,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 688759
+      "downloads": 688760
     },
     {
       "dir": "kimai",
@@ -30550,7 +30550,7 @@
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
       "treeSha": "27232a0110c812184496554b2661049c29954145",
-      "downloads": 357335
+      "downloads": 357533
     },
     {
       "dir": "lingo-rep-raycast",

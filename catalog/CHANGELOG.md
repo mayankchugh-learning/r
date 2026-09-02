@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `f273e43bac`
+
+**Updated (1):** [BetterTouchTool](https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool)
+
 ## 2026-09-02 — upstream `66d074c178`
 
 **Updated (1):** [Contrast Lab](https://github.com/raycast/extensions/tree/main/extensions/contrast-lab)
