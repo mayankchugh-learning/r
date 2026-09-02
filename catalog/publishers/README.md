@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,143,500 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,143,512 |
 | 2 | [raycast](./id/raycast.md) | 11 | 810,633 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 689,086 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,848 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 689,099 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,858 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 450,680 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 445,854 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 416,619 |
@@ -1714,11 +1714,11 @@
 | 1704 | [semyon_surkov](https://www.raycast.com/semyon_surkov) | 1 | 45 |
 | 1705 | [stonko1994](https://www.raycast.com/stonko1994) | 1 | 45 |
 | 1706 | [barlow](https://www.raycast.com/barlow) | 2 | 44 |
-| 1707 | [n_seiji](https://www.raycast.com/n_seiji) | 1 | 44 |
-| 1708 | [rithmic](https://www.raycast.com/rithmic) | 1 | 44 |
-| 1709 | [robinradx](https://www.raycast.com/robinradx) | 1 | 44 |
-| 1710 | [Tigeredgar](https://www.raycast.com/Tigeredgar) | 1 | 44 |
-| 1711 | [fhf1121](https://www.raycast.com/fhf1121) | 2 | 43 |
+| 1707 | [fhf1121](https://www.raycast.com/fhf1121) | 2 | 44 |
+| 1708 | [n_seiji](https://www.raycast.com/n_seiji) | 1 | 44 |
+| 1709 | [rithmic](https://www.raycast.com/rithmic) | 1 | 44 |
+| 1710 | [robinradx](https://www.raycast.com/robinradx) | 1 | 44 |
+| 1711 | [Tigeredgar](https://www.raycast.com/Tigeredgar) | 1 | 44 |
 | 1712 | [alloyprototyping](https://www.raycast.com/alloyprototyping) | 1 | 43 |
 | 1713 | [ireneisdoomed](https://www.raycast.com/ireneisdoomed) | 1 | 43 |
 | 1714 | [nbaglivo](https://www.raycast.com/nbaglivo) | 1 | 43 |

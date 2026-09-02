@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 689,086 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 689,099 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 107,620 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 45,863 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
 | [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 31,673 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
@@ -40,5 +40,5 @@
 | [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) | 31 | Tile multiple windows of the same app into a bento-box grid. The grid auto-adapts to the window count (2×2, 3×3, 5×2, etc.). | Popo | macOS | [store](https://www.raycast.com/Popo/bento-window) |
 | [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) | 22 | Pause and resume macOS applications through the App Freezer native agent. | changxu_song | macOS | [store](https://www.raycast.com/changxu_song/appfreezer) |
 | [Ejection Seat](https://github.com/raycast/extensions/tree/main/extensions/ejection-seat) | 13 | Find the processes and files that may be preventing a disk from ejecting. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/ejection-seat) |
-| [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper) | 4 | Find and kill orphaned dev-server processes — the same classification engine as the Portreaper desktop app. | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/portreaper) |
+| [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper) | 5 | Find and kill orphaned dev-server processes — the same classification engine as the Portreaper desktop app. | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/portreaper) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 3 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |

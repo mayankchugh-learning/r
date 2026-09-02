@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `b07595f893`
+
+**Updated (1):** [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper)
+
 ## 2026-09-02 — upstream `7a57233a9f`
 
 **Updated (1):** [Clipfile](https://github.com/raycast/extensions/tree/main/extensions/read-this-later)

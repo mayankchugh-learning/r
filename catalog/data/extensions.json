@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7a57233a9fe10785fed2ab538aaa1de5b521989d",
-  "generatedAt": "2026-09-02T13:35:43.586Z",
-  "downloadsRefreshedAt": "2026-09-02T13:35:42.809Z",
+  "commit": "b07595f8931f8b85ed415681bf113c36667921bb",
+  "generatedAt": "2026-09-02T13:49:43.662Z",
+  "downloadsRefreshedAt": "2026-09-02T13:49:42.789Z",
   "count": 3248,
   "extensions": [
     {
@@ -9853,7 +9853,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 530156
+      "downloads": 530168
     },
     {
       "dir": "color-shades",
@@ -22269,7 +22269,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 512848
+      "downloads": 512858
     },
     {
       "dir": "google-chrome-profiles",
@@ -28612,7 +28612,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 689086
+      "downloads": 689099
     },
     {
       "dir": "kimai",
@@ -43957,8 +43957,8 @@
       ],
       "store": "https://www.raycast.com/fhf1121/portreaper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/portreaper",
-      "treeSha": "453d29254a706ffd43e8f6473109748f44f07ef5",
-      "downloads": 4
+      "treeSha": "2e529a8f247430f7a2bcc426645483be0fef2184",
+      "downloads": 5
     },
     {
       "dir": "ports",
