@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `4a9d5f34f4`
+
+**Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
+
 ## 2026-09-01 — upstream `7b8979276d`
 
 **Updated (1):** [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks)

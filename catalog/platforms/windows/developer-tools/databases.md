@@ -7,5 +7,5 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 166 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 112 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
 | [Prisma Postgres](https://github.com/raycast/extensions/tree/main/extensions/prisma-postgres) | 106 | Create and manage Prisma Postgres databases instantly with zero setup | amanvarshney01 | macOS, Windows | [store](https://www.raycast.com/amanvarshney01/prisma-postgres) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 92 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |

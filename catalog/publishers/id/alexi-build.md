@@ -1,6 +1,6 @@
 # alexi.build
 
-17 extensions · 1,974 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+17 extensions · 1,976 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -53,7 +53,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 72 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
+| [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 73 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
 
 ## Documentation (1)
 
@@ -72,4 +72,4 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 20 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
-| [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 7 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
+| [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 8 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |

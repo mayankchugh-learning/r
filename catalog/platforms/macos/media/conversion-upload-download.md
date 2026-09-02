@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,779 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
-| [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 6,268 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
-| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,509 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,795 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Renaming](https://github.com/raycast/extensions/tree/main/extensions/renaming) | 6,275 | Renaming is a simple tool to rename files and folders in a batch. | theo_daguier | macOS | [store](https://www.raycast.com/theo_daguier/renaming) |
+| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,510 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
 | [Paperless-ngx](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) | 943 | Search Paperless-ngx for documents and upload | damdam | macOS | [store](https://www.raycast.com/damdam/paperless-ngx) |
-| [put.io](https://github.com/raycast/extensions/tree/main/extensions/putio) | 588 | Raycast extension for managing files, transfers, and history events in your put.io account. | putio (org) | macOS | [store](https://www.raycast.com/putio/putio) |
+| [put.io](https://github.com/raycast/extensions/tree/main/extensions/putio) | 589 | Raycast extension for managing files, transfers, and history events in your put.io account. | putio (org) | macOS | [store](https://www.raycast.com/putio/putio) |
 | [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 450 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
 | [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 382 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
 | [Prowlarr](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) | 320 | Search and add to download clients with Prowlarr | elcaten | macOS | [store](https://www.raycast.com/elcaten/prowlarr) |

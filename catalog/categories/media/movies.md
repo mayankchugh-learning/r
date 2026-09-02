@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 4,046 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
-| [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,110 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |
-| [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) | 1,612 | Search for movies on Letterboxd | rafael_garcia | macOS, Windows | [store](https://www.raycast.com/rafael_garcia/letterboxd) |
+| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 4,047 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
+| [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,112 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |
+| [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) | 1,613 | Search for movies on Letterboxd | rafael_garcia | macOS, Windows | [store](https://www.raycast.com/rafael_garcia/letterboxd) |
 | [Jellyfin](https://github.com/raycast/extensions/tree/main/extensions/jellyfin) | 778 | Find Movies and Shows on your Jellyfin Instance | d2a | macOS, Windows | [store](https://www.raycast.com/d2a/jellyfin) |
 | [RatingsDB](https://github.com/raycast/extensions/tree/main/extensions/ratingsdb) | 513 | Seamlessly search movie and tv show ratings and find where you can watch them! | krod12 | macOS | [store](https://www.raycast.com/krod12/ratingsdb) |
 | [Kinopoisk](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) | 446 | Search for movies using kinopoisk.ru | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/kinopoisk) |

@@ -1,12 +1,12 @@
 # chrismessina
 
-16 extensions · 6,695 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+16 extensions · 6,709 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,278 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
+| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,285 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
 | [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 204 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
 | [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap) | 95 | Wrap and unwrap text using Markdown-aware reflow. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/wrap-unwrap) |
 | [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 60 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
@@ -29,7 +29,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 911 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
+| [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 913 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
 
 ## Developer Tools (3)
 
@@ -37,13 +37,13 @@
 | --- | --- | --- | --- | --- | --- |
 | [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger) | 257 | Like dig but for the web. Comprehensive website intelligence and metadata extraction. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/digger) |
 | [Asset Catalog Extractor](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) | 214 | Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/asset-catalog-extractor) |
-| [Trimmy](https://github.com/raycast/extensions/tree/main/extensions/trimmy) | 154 | "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/trimmy) |
+| [Trimmy](https://github.com/raycast/extensions/tree/main/extensions/trimmy) | 155 | "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/trimmy) |
 
 ## News (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 433 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
+| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 435 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 
 ## Applications (1)
 
@@ -61,4 +61,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ejection Seat](https://github.com/raycast/extensions/tree/main/extensions/ejection-seat) | 10 | Find the processes and files that may be preventing a disk from ejecting. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/ejection-seat) |
+| [Ejection Seat](https://github.com/raycast/extensions/tree/main/extensions/ejection-seat) | 12 | Find the processes and files that may be preventing a disk from ejecting. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/ejection-seat) |

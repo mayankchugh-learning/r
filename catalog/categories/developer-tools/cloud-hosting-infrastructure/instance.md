@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 367 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
+| [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 368 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
 | [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 153 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |
-| [Colima](https://github.com/raycast/extensions/tree/main/extensions/colima) | 139 | Manage Colima virtual machine instances and Docker environments directly from Raycast | MiskaMyasa | macOS | [store](https://www.raycast.com/MiskaMyasa/colima) |
+| [Colima](https://github.com/raycast/extensions/tree/main/extensions/colima) | 140 | Manage Colima virtual machine instances and Docker environments directly from Raycast | MiskaMyasa | macOS | [store](https://www.raycast.com/MiskaMyasa/colima) |
 | [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 56 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |
 | [Virtualizor Enduser](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) | 23 | Manage Virtualizor Enduser instance | xmok | macOS | [store](https://www.raycast.com/xmok/virtualizor-enduser) |
 | [ArchiSteamFarm](https://github.com/raycast/extensions/tree/main/extensions/archisteamfarm) | 20 | Interact with your locally hosted ASF instance via Raycast! | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/archisteamfarm) |

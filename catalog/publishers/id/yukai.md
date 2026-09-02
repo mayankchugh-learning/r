@@ -1,15 +1,15 @@
 # Yukai
 
-11 extensions · 9,668 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
+11 extensions · 9,674 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,673 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
-| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 1,915 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
+| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 1,918 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
 | [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,565 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
-| [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 638 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
+| [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 639 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [Curator Bio](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) | 56 | Control your curator.bio account from Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/curator-bio) |
 
 ## Developer Tools (2)
@@ -29,7 +29,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 559 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
+| [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 561 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
 
 ## Finance (2)
 
