@@ -17,7 +17,7 @@
 | [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 561 | **Productivity:** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) |
 | [uladkaminski](https://www.raycast.com/uladkaminski) | 1 | 52 | **Finance:** [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) |
 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 | **Finance:** [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) |
-| [umit_gul](https://www.raycast.com/umit_gul) | 1 | 391 | **Productivity:** [Kommand](https://github.com/raycast/extensions/tree/main/extensions/kommand) |
+| [umit_gul](https://www.raycast.com/umit_gul) | 1 | 392 | **Productivity:** [Kommand](https://github.com/raycast/extensions/tree/main/extensions/kommand) |
 | [Undolog](https://www.raycast.com/Undolog) | 5 | 2,671 | **System:** [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks), [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates)<br>**Productivity:** [Sync Folders](https://github.com/raycast/extensions/tree/main/extensions/sync-folders)<br>**Developer Tools:** [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner), [WP Bones](https://github.com/raycast/extensions/tree/main/extensions/wp-bones) |
 | [unitech](https://www.raycast.com/ordin) | 1 | 56 | **Other:** [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) |
 | [unpopular](https://www.raycast.com/unpopular) | 1 | 62 | **News:** [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) |

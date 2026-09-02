@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `a6fb0bae62`
+
+**Updated (1):** [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud)
+
 ## 2026-09-02 — upstream `b07595f893`
 
 **Updated (1):** [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper)

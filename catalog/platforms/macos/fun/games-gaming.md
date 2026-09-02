@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 11,335 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
-| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 9,030 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
-| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,894 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
+| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 11,337 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
+| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 9,032 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
+| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 8,895 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
 | [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 2,922 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
 | [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,641 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,411 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
@@ -24,7 +24,7 @@
 | [itch.io](https://github.com/raycast/extensions/tree/main/extensions/itch-io) | 409 | Raycast Extension for itch.io, browse through milions of games made by indie developers! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/itch-io) |
 | [BTTV Emote](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) | 383 | Browse Through Thousands of BTTV Emote | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/bttv-emote) |
 | [Hidden Icons](https://github.com/raycast/extensions/tree/main/extensions/hidden-icons) | 380 | A casual game to find a hidden icon. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/hidden-icons) |
-| [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 362 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
+| [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 363 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 332 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [Ray Clicker](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker) | 313 | Idle clicker game for Raycast with upgrades, prestige, and fun events. | JonathanRReed | macOS | [store](https://www.raycast.com/JonathanRReed/ray-clicker) |
 | [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox-games) | 243 | Searches for & launches Roblox places | TaylorRobinson | macOS | [store](https://www.raycast.com/TaylorRobinson/roblox-games) |

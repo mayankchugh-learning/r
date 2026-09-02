@@ -4,13 +4,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 43,117 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,167 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 43,128 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,168 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,358 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,851 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,235 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
 | [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,150 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
-| [Adhan Time](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) | 1,080 | This extension helps you to search prayer time for the user location | mzaien | macOS, Windows | [store](https://www.raycast.com/mzaien/adhan-time) |
+| [Adhan Time](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) | 1,081 | This extension helps you to search prayer time for the user location | mzaien | macOS, Windows | [store](https://www.raycast.com/mzaien/adhan-time) |
 | [Social Network Trends](https://github.com/raycast/extensions/tree/main/extensions/social-network-trends) | 819 | Show trends on WeiBo, ZhiHu, DouYin，BaiDu, TouTiao, BiliBili. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/social-network-trends) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 651 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Daily Sites - Site Launcher](https://github.com/raycast/extensions/tree/main/extensions/daily-sites) | 333 | Access frequently visited sites with ease. | dubsdotla | macOS | [store](https://www.raycast.com/dubsdotla/daily-sites) |
@@ -26,7 +26,7 @@
 | [Syntax.fm](https://github.com/raycast/extensions/tree/main/extensions/syntax-fm) | 110 | Syntax.fm at your fingertips. | msmps | macOS | [store](https://www.raycast.com/msmps/syntax-fm) |
 | [TabNews](https://github.com/raycast/extensions/tree/main/extensions/tabnews) | 109 | Content for those who work with Programming and Technology | juniorodilton | macOS | [store](https://www.raycast.com/juniorodilton/tabnews) |
 | [Olympic Games](https://github.com/raycast/extensions/tree/main/extensions/olympic-games) | 100 | Paris 2024 Olympic Medal Table | elonwoo | macOS | [store](https://www.raycast.com/elonwoo/olympic-games) |
-| [TFL](https://github.com/raycast/extensions/tree/main/extensions/tfl) | 95 | Viewing public transport departures in London | haneenmahdin | macOS | [store](https://www.raycast.com/haneenmahdin/tfl) |
+| [TFL](https://github.com/raycast/extensions/tree/main/extensions/tfl) | 96 | Viewing public transport departures in London | haneenmahdin | macOS | [store](https://www.raycast.com/haneenmahdin/tfl) |
 | [Curator Bio](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) | 56 | Control your curator.bio account from Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/curator-bio) |
 | [ODIN](https://github.com/raycast/extensions/tree/main/extensions/odin) | 27 | Retrieves emergency alarms from Online Dataregistrerings- og Indberetningssystem (ODIN), a system by The Danish Emergency Management Agency (DEMA), through 'ww… | aamoussa97 | macOS | [store](https://www.raycast.com/aamoussa97/odin) |
 | [Akkoma](https://github.com/raycast/extensions/tree/main/extensions/akkoma) | 17 | Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/akkoma) |

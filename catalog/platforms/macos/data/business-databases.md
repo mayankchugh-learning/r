@@ -13,4 +13,4 @@
 | [Grist](https://github.com/raycast/extensions/tree/main/extensions/grist) | 64 | Spreadsheet Software to End Data Chaos | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/grist) |
 | [MapleStory.gg](https://github.com/raycast/extensions/tree/main/extensions/maplestory-gg) | 49 | MapleStory's Definitive Database. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/maplestory-gg) |
 | [Jotform](https://github.com/raycast/extensions/tree/main/extensions/jotform) | 45 | View Forms and their Submissions | xmok | macOS | [store](https://www.raycast.com/xmok/jotform) |
-| [Formizee](https://github.com/raycast/extensions/tree/main/extensions/formizee) | 36 | The Open-Source Forms Platform | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/formizee) |
+| [Formizee](https://github.com/raycast/extensions/tree/main/extensions/formizee) | 37 | The Open-Source Forms Platform | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/formizee) |

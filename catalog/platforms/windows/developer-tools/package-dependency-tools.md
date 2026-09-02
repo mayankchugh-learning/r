@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,912 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 22,227 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 32,920 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 22,230 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
 | [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,401 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
 | [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) | 578 | Search, install, and manage Windows packages with WinGet | eray_ercan | Windows | [store](https://www.raycast.com/eray_ercan/winget) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 246 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
@@ -16,6 +16,6 @@
 | [npm Claimer](https://github.com/raycast/extensions/tree/main/extensions/npm-claimer) | 63 | Instantly claim npm package names in one click | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/npm-claimer) |
 | [Django Packages](https://github.com/raycast/extensions/tree/main/extensions/djangopackages) | 56 | Search and explore djangopackages.org without leaving Raycast. | saadmk11 | macOS, Windows | [store](https://www.raycast.com/saadmk11/djangopackages) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 43 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
-| [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 19 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |
+| [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 20 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |
 | [DefinitelyTyped](https://github.com/raycast/extensions/tree/main/extensions/definitelytyped) | 13 | Search and install @types packages from DefinitelyTyped | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/definitelytyped) |
 | [e18e Module Replacements](https://github.com/raycast/extensions/tree/main/extensions/e18e-module-replacements) | 10 | Search and browse e18e's curated list of modern npm package replacements. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/e18e-module-replacements) |

@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) | 33,448 | Interact with Anthropic's Claude API directly from Raycast | florisdobber | macOS | [store](https://www.raycast.com/florisdobber/claude) |
-| [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 3,545 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
+| [Claude](https://github.com/raycast/extensions/tree/main/extensions/claude) | 33,462 | Interact with Anthropic's Claude API directly from Raycast | florisdobber | macOS | [store](https://www.raycast.com/florisdobber/claude) |
+| [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 3,548 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
 | [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) | 2,196 | Discover, resume, and automate Claude Code sessions: deep full-text search, one-keystroke resume, agentic loops, usage analytics, and quick prompts | qazi0 | macOS, Windows | [store](https://www.raycast.com/qazi0/claudecast) |
 | [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) | 581 | Quickly switch between different Claude Code configurations and manage provider profiles | lavatorywang | macOS | [store](https://www.raycast.com/lavatorywang/claude-code-config-switcher) |
 | [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | 162 | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/JSONbored/heyclaude) |

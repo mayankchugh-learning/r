@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 155,399 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
-| [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 6,474 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
+| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 155,445 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
+| [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 6,475 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
 | [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) | 3,999 | Manage your Obsidian Tasks through Raycast | ozencb | macOS | [store](https://www.raycast.com/ozencb/obsidian-tasks) |
-| [TaskNotes](https://github.com/raycast/extensions/tree/main/extensions/tasknotes) | 44 | Manage TaskNotes tasks in Obsidian from Raycast. | robinradx | macOS | [store](https://www.raycast.com/robinradx/tasknotes) |
+| [TaskNotes](https://github.com/raycast/extensions/tree/main/extensions/tasknotes) | 45 | Manage TaskNotes tasks in Obsidian from Raycast. | robinradx | macOS | [store](https://www.raycast.com/robinradx/tasknotes) |

@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 26,831 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
+| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 26,839 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
 | [Git](https://github.com/raycast/extensions/tree/main/extensions/git) | 1,179 | Full-fledged Git Client for managing local repositories | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/git) |
 | [Repository Manager](https://github.com/raycast/extensions/tree/main/extensions/repository-manager) | 1,011 | Project Manager for local git repositories | francesco_mecchi | macOS | [store](https://www.raycast.com/francesco_mecchi/repository-manager) |
-| [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) | 736 | Search through Azure DevOps git repositories and find open Pull Requests | willem_van_lent | macOS, Windows | [store](https://www.raycast.com/willem_van_lent/ado-search) |
+| [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) | 737 | Search through Azure DevOps git repositories and find open Pull Requests | willem_van_lent | macOS, Windows | [store](https://www.raycast.com/willem_van_lent/ado-search) |
 | [Zoxide Git Projects](https://github.com/raycast/extensions/tree/main/extensions/zoxide-git-projects) | 267 | Allows the user to select git repositories found by filtering a zoxide query, then open them in an application of choice. | theherk | macOS | [store](https://www.raycast.com/theherk/zoxide-git-projects) |
 | [Quick Jump](https://github.com/raycast/extensions/tree/main/extensions/quick-jump) | 154 | Quick access to your team's Git repositories, dashboards, databases, and internal tools. | akadir | macOS | [store](https://www.raycast.com/akadir/quick-jump) |
 
@@ -36,7 +36,7 @@
 | [Git Branch Name Generator](https://github.com/raycast/extensions/tree/main/extensions/git-branch-name-generator) | 547 | Convert a string into a branch name | mbonner | macOS | [store](https://www.raycast.com/mbonner/git-branch-name-generator) |
 | [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) | 417 | The tool for making Jira and Git work together smoothly as silk for a better development experience. | ipiranhaa | macOS | [store](https://www.raycast.com/ipiranhaa/jira2git) |
 | [Git Worktrees](https://github.com/raycast/extensions/tree/main/extensions/worktrees) | 357 | View, add, and remove git worktrees. | canac | macOS | [store](https://www.raycast.com/canac/worktrees) |
-| [Cheetah](https://github.com/raycast/extensions/tree/main/extensions/cheetah) | 346 | Search for a local Git project and open it with the specified application. | ronglecat | macOS | [store](https://www.raycast.com/ronglecat/cheetah) |
+| [Cheetah](https://github.com/raycast/extensions/tree/main/extensions/cheetah) | 347 | Search for a local Git project and open it with the specified application. | ronglecat | macOS | [store](https://www.raycast.com/ronglecat/cheetah) |
 | [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) | 344 | Quickly run git commands through Raycast | joshdales | macOS | [store](https://www.raycast.com/joshdales/quick-git) |
 | [Git Worktrees](https://github.com/raycast/extensions/tree/main/extensions/git-worktrees) | 342 | Efficiently managing Git worktrees with actions for cloning, listing, adding, renaming and removing worktrees within projects | philstainer | macOS | [store](https://www.raycast.com/philstainer/git-worktrees) |
 | [Git Batch Tools](https://github.com/raycast/extensions/tree/main/extensions/git-batch-tools) | 54 | Batch git operations (pull, status) across multiple project groups | Logan-8f | macOS, Windows | [store](https://www.raycast.com/Logan-8f/git-batch-tools) |
