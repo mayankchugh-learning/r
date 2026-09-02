@@ -1,6 +1,6 @@
 # Publishers
 
-2163 publishers · [← catalog index](../README.md)
+2164 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 154,060 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,709 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,503 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,142,630 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,142,704 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 306,059 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,816 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 416,414 |
@@ -25,7 +25,7 @@
 | 15 | [litomore](./id/litomore.md) | 13 | 13,068 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 10,148 |
 | 17 | [kud](./id/kud.md) | 13 | 6,419 |
-| 18 | [raycast](./id/raycast.md) | 11 | 810,127 |
+| 18 | [raycast](./id/raycast.md) | 11 | 810,138 |
 | 19 | [Rob](./id/rob.md) | 11 | 10,938 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 9,674 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 20,579 |
@@ -393,8 +393,8 @@
 | 383 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 9 |
 | 384 | [tai](https://www.raycast.com/tai) | 2 | 6 |
 | 385 | github-next | 2 | — |
-| 386 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,600 |
-| 387 | [Codely](https://www.raycast.com/Codely) | 1 | 512,522 |
+| 386 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,674 |
+| 387 | [Codely](https://www.raycast.com/Codely) | 1 | 512,583 |
 | 388 | [linear](https://www.raycast.com/linear) | 1 | 357,335 |
 | 389 | [mommertf](https://www.raycast.com/mommertf) | 1 | 296,796 |
 | 390 | [nhojb](https://www.raycast.com/nhojb) | 1 | 262,560 |
@@ -2169,5 +2169,6 @@
 | 2159 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2160 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2161 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2162 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2163 | multi | 1 | — |
+| 2162 | [RG-IL](https://www.raycast.com/RG-IL) | 1 | 0 |
+| 2163 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2164 | multi | 1 | — |

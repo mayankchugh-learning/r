@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `98ab764e8b`
+
+**Added (1):** [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim)
+
 ## 2026-09-02 — upstream `9792921920`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

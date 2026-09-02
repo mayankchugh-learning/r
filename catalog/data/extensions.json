@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9792921920e5e9c762c9d97767deaac6814dc6a3",
-  "generatedAt": "2026-09-02T07:22:50.336Z",
-  "downloadsRefreshedAt": "2026-09-02T07:22:49.396Z",
-  "count": 3245,
+  "commit": "98ab764e8beab326e74d7937972e5e83ea92a496",
+  "generatedAt": "2026-09-02T08:17:41.178Z",
+  "downloadsRefreshedAt": "2026-09-02T08:17:40.494Z",
+  "count": 3246,
   "extensions": [
     {
       "dir": "0x0",
@@ -9853,7 +9853,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 529727
+      "downloads": 529801
     },
     {
       "dir": "color-shades",
@@ -22248,7 +22248,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 512522
+      "downloads": 512583
     },
     {
       "dir": "google-chrome-profiles",
@@ -28570,7 +28570,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 688600
+      "downloads": 688674
     },
     {
       "dir": "kimai",
@@ -34903,7 +34903,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "58533e35d91e358022a5c8bc2f9c3b1ea22764a9",
-      "downloads": 38137
+      "downloads": 38148
     },
     {
       "dir": "models-dev",
@@ -36573,6 +36573,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/neon",
       "treeSha": "5c6b9eacd086ca0a8aa105cb84e714afc4ae01bf",
       "downloads": 168
+    },
+    {
+      "dir": "neovim",
+      "name": "neovim",
+      "title": "Neovim",
+      "description": "Manage Neovim sessions, plugins, and keymaps from Raycast",
+      "author": "RG-IL",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/RG-IL/neovim",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/neovim",
+      "treeSha": "1abdafd1d438f6f9bc35d443c300fa0890712e55",
+      "downloads": 0
     },
     {
       "dir": "nepali-calendar",
