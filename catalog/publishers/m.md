@@ -100,7 +100,7 @@
 | [meshal](https://www.raycast.com/meshal) | 3 | 3,762 | **Applications:** [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity)<br>**Developer Tools:** [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter), [JSON to TOON Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-toon-converter) |
 | [meslva](https://www.raycast.com/meslva) | 1 | 2 | **Productivity:** [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) |
 | [metakirby5](https://www.raycast.com/metakirby5) | 1 | 60 | **Developer Tools:** [DOTween Eases](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) |
-| [metrovoc](https://www.raycast.com/metrovoc) | 1 | 143 | **Productivity:** [VoiceInk](https://github.com/raycast/extensions/tree/main/extensions/voiceink) |
+| [metrovoc](https://www.raycast.com/metrovoc) | 2 | 143 | **Productivity:** [VoiceInk](https://github.com/raycast/extensions/tree/main/extensions/voiceink)<br>**Applications:** [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) |
 | [mguyard](https://www.raycast.com/mguyard) | 1 | 199 | **Data:** [Manage Firebase Firestore Collections](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) |
 | [mi7chal](https://www.raycast.com/mi7chal) | 1 | 135 | **Developer Tools:** [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) |
 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 1 | 1,317 | **Developer Tools:** [Android](https://github.com/raycast/extensions/tree/main/extensions/android) |

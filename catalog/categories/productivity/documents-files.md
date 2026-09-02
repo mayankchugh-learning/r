@@ -1,8 +1,8 @@
 # Documents & Files
 
-126 extensions · [← Productivity](./README.md)
+127 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (28) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Upload ✦](#upload) (13) · [Download ✦](#download) (9) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
+[Folder ✦](#folder) (28) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Upload ✦](#upload) (13) · [Download ✦](#download) (9) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (32)
 
 *✦ auto-discovered topic group*
 
@@ -128,6 +128,15 @@
 | [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) | 130 | Manage bookmarks using a markdown file as persistence layer | rmartins | macOS | [store](https://www.raycast.com/rmartins/markmarks) |
 | [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 18 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
 
+## Transfer ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 450 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
+| [Rsync File Transfer](https://github.com/raycast/extensions/tree/main/extensions/raycast-rsync-extension) | 117 | Transfer files between local and remote servers using rsync with SSH config integration | dytsou | macOS | [store](https://www.raycast.com/dytsou/raycast-rsync-extension) |
+| [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) | 14 | Send and receive files securely using croc | wilton | macOS | [store](https://www.raycast.com/wilton/croc-transfer) |
+| [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) | — | Browse, transfer files, and capture the screen of BOOX devices over your local network | metrovoc | macOS | — |
+
 ## Fuzzy ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -154,7 +163,6 @@
 | [Get Direct Link](https://github.com/raycast/extensions/tree/main/extensions/get-direct-link) | 898 | Get a direct link from a shareable link of Dropbox, Google Drive, and Imgur service. | trungnghiatn | macOS | [store](https://www.raycast.com/trungnghiatn/get-direct-link) |
 | [File Tree Generator](https://github.com/raycast/extensions/tree/main/extensions/file-tree-generator) | 704 | Generates file tree from text | csharp | macOS | [store](https://www.raycast.com/csharp/file-tree-generator) |
 | [Website Blocker](https://github.com/raycast/extensions/tree/main/extensions/website-blocker) | 689 | Block websites by changing your hosts file automatically, directly from Raycast | gersomvg | macOS | [store](https://www.raycast.com/gersomvg/website-blocker) |
-| [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 450 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
 | [Descript to YouTube Chapters](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) | 397 | Convert Descript's transcript file into YouTube Chapters | peduarte | macOS | [store](https://www.raycast.com/peduarte/descript-to-youtube-chapters) |
 | [Meta Music](https://github.com/raycast/extensions/tree/main/extensions/meta-music) | 363 | Manage the ID3 tags of audio files directly in Raycast! | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/meta-music) |
 | [Copee](https://github.com/raycast/extensions/tree/main/extensions/copee) | 340 | Copies text as txt file. | gianpiero_spinelli | macOS | [store](https://www.raycast.com/gianpiero_spinelli/copee) |
@@ -164,7 +172,6 @@
 | [Scratchpad](https://github.com/raycast/extensions/tree/main/extensions/scratchpad) | 239 | Creates a scratchpad file and opens it in an editor | asnimansari | macOS | [store](https://www.raycast.com/asnimansari/scratchpad) |
 | [Split Video Scenes](https://github.com/raycast/extensions/tree/main/extensions/split-video-scenes) | 231 | Select a video file and split it into scenes | xmorse | macOS | [store](https://www.raycast.com/xmorse/split-video-scenes) |
 | [Asset Catalog Extractor](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) | 214 | Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/asset-catalog-extractor) |
-| [Rsync File Transfer](https://github.com/raycast/extensions/tree/main/extensions/raycast-rsync-extension) | 117 | Transfer files between local and remote servers using rsync with SSH config integration | dytsou | macOS | [store](https://www.raycast.com/dytsou/raycast-rsync-extension) |
 | [Unpackr](https://github.com/raycast/extensions/tree/main/extensions/unpackr) | 103 | Intelligently merges and organizes ZIP files with automatic deduplication. Works with Google Takeout or any ZIP files. | shak | macOS | [store](https://www.raycast.com/shak/unpackr) |
 | [Minio Manager](https://github.com/raycast/extensions/tree/main/extensions/minio-manager) | 82 | Manage files in MinIO object storage | 2214372851 | macOS | [store](https://www.raycast.com/2214372851/minio-manager) |
 | [Rebaptize - Rename](https://github.com/raycast/extensions/tree/main/extensions/rebaptize) | 74 | Give your files a new name. Bulk rename, smart episode organizing, sort by date or GPS location | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/rebaptize) |
@@ -172,7 +179,6 @@
 | [Pivot](https://github.com/raycast/extensions/tree/main/extensions/pivot) | 56 | Bulk-change the default macOS app for many file extensions at once. | codythatsmee | macOS | [store](https://www.raycast.com/codythatsmee/pivot) |
 | [Manifest Viewer](https://github.com/raycast/extensions/tree/main/extensions/manifest-viewer) | 45 | View and navigate HLS/DASH manifest files with keyboard navigation to child variant playlists | stonko1994 | macOS, Windows | [store](https://www.raycast.com/stonko1994/manifest-viewer) |
 | [Smultron](https://github.com/raycast/extensions/tree/main/extensions/smultron) | 40 | Creates a new Smultron File with Selection | felixthehat | macOS | [store](https://www.raycast.com/felixthehat/smultron) |
-| [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) | 14 | Send and receive files securely using croc | wilton | macOS | [store](https://www.raycast.com/wilton/croc-transfer) |
 | [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 13 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |
 | [Paper Design](https://github.com/raycast/extensions/tree/main/extensions/paper-design) | 9 | Browse recent Paper designs, create new files, and manage design tokens directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/paper-design) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 2 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |

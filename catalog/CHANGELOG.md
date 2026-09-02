@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `4729d8b39b`
+
+**Added (1):** [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion)
+
 ## 2026-09-02 — upstream `4a9d5f34f4`
 
 **Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)

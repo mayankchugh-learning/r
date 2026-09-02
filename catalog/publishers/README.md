@@ -8,17 +8,17 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,142,519 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,142,591 |
 | 2 | [raycast](./id/raycast.md) | 11 | 810,127 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,480 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,437 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,552 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,485 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 450,412 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 445,609 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 416,414 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 357,335 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 306,059 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 296,796 |
-| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 262,543 |
+| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 262,560 |
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 261,353 |
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 253,340 |
 | 14 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 243,139 |
@@ -1334,9 +1334,9 @@
 | 1324 | [yukukotani](https://www.raycast.com/yukukotani) | 1 | 147 |
 | 1325 | [beehive](https://www.raycast.com/beehive) | 1 | 145 |
 | 1326 | [juliet_philippe](https://www.raycast.com/juliet_philippe) | 1 | 144 |
-| 1327 | [Binary-Bytes](https://www.raycast.com/Binary-Bytes) | 1 | 143 |
-| 1328 | [desmondsofua](https://www.raycast.com/desmondsofua) | 1 | 143 |
-| 1329 | [metrovoc](https://www.raycast.com/metrovoc) | 1 | 143 |
+| 1327 | [metrovoc](https://www.raycast.com/metrovoc) | 2 | 143 |
+| 1328 | [Binary-Bytes](https://www.raycast.com/Binary-Bytes) | 1 | 143 |
+| 1329 | [desmondsofua](https://www.raycast.com/desmondsofua) | 1 | 143 |
 | 1330 | [Zalgo_123](https://www.raycast.com/Zalgo_123) | 1 | 143 |
 | 1331 | [danblancas](https://www.raycast.com/danblancas) | 1 | 141 |
 | 1332 | [skroll](https://www.raycast.com/skroll) | 3 | 140 |
