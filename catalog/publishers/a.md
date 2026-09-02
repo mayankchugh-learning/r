@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-190 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+191 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -69,6 +69,7 @@
 | [alaidriel](https://www.raycast.com/cecelot) | 1 | 1,169 | **Developer Tools:** [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) |
 | [AlanHuang](https://www.raycast.com/AlanHuang) | 1 | 176 | **Productivity:** [Send to E-Reader](https://github.com/raycast/extensions/tree/main/extensions/send-to-e-reader) |
 | [alanzchen](https://www.raycast.com/alanzchen) | 1 | 12,739 | **Productivity:** [ChatGPT Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) |
+| [alastairsounds](https://www.raycast.com/alastairsounds) | 1 | 0 | **Developer Tools:** [Just](https://github.com/raycast/extensions/tree/main/extensions/just) |
 | [albandum](https://www.raycast.com/albandum) | 1 | 825 | **Productivity:** [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) |
 | [alberto_lezaun](https://www.raycast.com/alberto_lezaun) | 1 | 3 | **Productivity:** [From](https://github.com/raycast/extensions/tree/main/extensions/from) |
 | [albertogalca](https://www.raycast.com/albertogalca) | 1 | 60 | **Media:** [Picmal](https://github.com/raycast/extensions/tree/main/extensions/picmal) |

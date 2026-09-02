@@ -1,6 +1,6 @@
 # Publishers
 
-2164 publishers · [← catalog index](../README.md)
+2165 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 154,060 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,709 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,503 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,142,886 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,142,931 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 306,059 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,816 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 416,414 |
@@ -393,8 +393,8 @@
 | 383 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 9 |
 | 384 | [tai](https://www.raycast.com/tai) | 2 | 6 |
 | 385 | github-next | 2 | — |
-| 386 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,892 |
-| 387 | [Codely](https://www.raycast.com/Codely) | 1 | 512,713 |
+| 386 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,940 |
+| 387 | [Codely](https://www.raycast.com/Codely) | 1 | 512,744 |
 | 388 | [linear](https://www.raycast.com/linear) | 1 | 357,533 |
 | 389 | [mommertf](https://www.raycast.com/mommertf) | 1 | 296,796 |
 | 390 | [nhojb](https://www.raycast.com/nhojb) | 1 | 262,560 |
@@ -2167,8 +2167,9 @@
 | 2157 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
 | 2158 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2159 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2160 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2161 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2162 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2163 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2164 | multi | 1 | — |
+| 2160 | [alastairsounds](https://www.raycast.com/alastairsounds) | 1 | 0 |
+| 2161 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2162 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2163 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2164 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2165 | multi | 1 | — |

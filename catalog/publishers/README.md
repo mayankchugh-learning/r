@@ -1,6 +1,6 @@
 # Publishers
 
-2164 publishers · [← catalog index](../README.md)
+2165 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,142,886 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,142,931 |
 | 2 | [raycast](./id/raycast.md) | 11 | 810,138 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,892 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,713 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,940 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,744 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 450,412 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 445,609 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 416,414 |
@@ -2166,9 +2166,10 @@
 | 2156 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
 | 2157 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2158 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2159 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2160 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2161 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2162 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2163 | github-next | 2 | — |
-| 2164 | multi | 1 | — |
+| 2159 | [alastairsounds](https://www.raycast.com/alastairsounds) | 1 | 0 |
+| 2160 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2161 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2162 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2163 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2164 | github-next | 2 | — |
+| 2165 | multi | 1 | — |

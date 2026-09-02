@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `782eb3e229`
+
+**Added (1):** [Just](https://github.com/raycast/extensions/tree/main/extensions/just)
+
 ## 2026-09-02 — upstream `75cb74d0b8`
 
 **Updated (1):** [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim)
