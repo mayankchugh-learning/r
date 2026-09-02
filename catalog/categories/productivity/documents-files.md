@@ -135,7 +135,7 @@
 | [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 450 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
 | [Rsync File Transfer](https://github.com/raycast/extensions/tree/main/extensions/raycast-rsync-extension) | 117 | Transfer files between local and remote servers using rsync with SSH config integration | dytsou | macOS | [store](https://www.raycast.com/dytsou/raycast-rsync-extension) |
 | [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) | 14 | Send and receive files securely using croc | wilton | macOS | [store](https://www.raycast.com/wilton/croc-transfer) |
-| [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) | — | Browse, transfer files, and capture the screen of BOOX devices over your local network | metrovoc | macOS | — |
+| [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) | 0 | Browse, transfer files, and capture the screen of BOOX devices over your local network | metrovoc | macOS | [store](https://www.raycast.com/metrovoc/boox-companion) |
 
 ## Fuzzy ✦
 
