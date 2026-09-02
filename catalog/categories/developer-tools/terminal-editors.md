@@ -76,4 +76,4 @@
 | [MultiForce](https://github.com/raycast/extensions/tree/main/extensions/multi-force) | 175 | Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools. | brian_j_decoder22 | macOS | [store](https://www.raycast.com/brian_j_decoder22/multi-force) |
 | [Ideate](https://github.com/raycast/extensions/tree/main/extensions/ideate) | 152 | Create a project folder, initialize it, and open with your IDE. | B9O2 | macOS | [store](https://www.raycast.com/b9o2/ideate) |
 | [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 112 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
-| [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) | 0 | Manage Neovim sessions, plugins, and keymaps from Raycast | RG-IL | macOS | [store](https://www.raycast.com/RG-IL/neovim) |
+| [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) | 1 | Manage Neovim sessions, plugins, and keymaps from Raycast | RG-IL | macOS | [store](https://www.raycast.com/RG-IL/neovim) |

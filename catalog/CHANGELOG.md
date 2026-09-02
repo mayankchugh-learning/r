@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `e28d00cdce`
+
+**Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)
+
 ## 2026-09-02 — upstream `98ab764e8b`
 
 **Added (1):** [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim)

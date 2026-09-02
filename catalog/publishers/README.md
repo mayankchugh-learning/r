@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,142,704 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,142,780 |
 | 2 | [raycast](./id/raycast.md) | 11 | 810,138 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,674 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,583 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,750 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,630 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 450,412 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 445,609 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 416,414 |
@@ -2161,14 +2161,14 @@
 | 2151 | [garyhtou](https://www.raycast.com/garyhtou) | 1 | 1 |
 | 2152 | [insuline](https://www.raycast.com/Insuline) | 1 | 1 |
 | 2153 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 1 |
-| 2154 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
-| 2155 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
-| 2156 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
-| 2157 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2158 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2159 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2160 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2161 | [RG-IL](https://www.raycast.com/RG-IL) | 1 | 0 |
+| 2154 | [RG-IL](https://www.raycast.com/RG-IL) | 1 | 1 |
+| 2155 | [stiven_gonzalez](https://www.raycast.com/stiven_gonzalez) | 1 | 1 |
+| 2156 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
+| 2157 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
+| 2158 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
+| 2159 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2160 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2161 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2162 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2163 | github-next | 2 | — |
 | 2164 | multi | 1 | — |

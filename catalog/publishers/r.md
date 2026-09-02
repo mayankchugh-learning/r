@@ -54,7 +54,7 @@
 | [resessh](https://www.raycast.com/resessh) | 1 | 2,012 | **Productivity:** [GitHub Review Requests](https://github.com/raycast/extensions/tree/main/extensions/github-review-requests) |
 | [resmo](https://www.raycast.com/resmo) | 1 | 70 | **Security:** [Resmo](https://github.com/raycast/extensions/tree/main/extensions/resmo) |
 | [rewiser_io](https://www.raycast.com/rewiser_io) | 1 | 18 | **Finance:** [Rewiser](https://github.com/raycast/extensions/tree/main/extensions/rewiser) |
-| [RG-IL](https://www.raycast.com/RG-IL) | 1 | 0 | **Developer Tools:** [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) |
+| [RG-IL](https://www.raycast.com/RG-IL) | 1 | 1 | **Developer Tools:** [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) |
 | [rgllm](https://www.raycast.com/rgllm) | 1 | 10 | **Finance:** [NIF - Portugal Tax Number Lookup](https://github.com/raycast/extensions/tree/main/extensions/nif) |
 | [rhrabun](https://www.raycast.com/rhrabun) | 1 | 15 | **Productivity:** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library) |
 | [rhuk](https://www.raycast.com/rhuk) | 2 | 229 | **Developer Tools:** [Clean Agent Text](https://github.com/raycast/extensions/tree/main/extensions/clean-agent-text), [Decimal 2 Time](https://github.com/raycast/extensions/tree/main/extensions/decimal-2-time) |
@@ -89,7 +89,7 @@
 | [roelvan](https://www.raycast.com/roelvan) | 1 | 743 | **Developer Tools:** [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 853 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 658 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,674 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,750 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 17 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 594 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 4 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |
