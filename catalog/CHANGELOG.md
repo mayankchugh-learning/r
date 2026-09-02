@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `79232df4c4`
+
+**Updated (1):** [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail)
+
 ## 2026-09-02 — upstream `dfbad4a720`
 
 **Added (1):** [CourtListener Search](https://github.com/raycast/extensions/tree/main/extensions/courtlistener-search)
