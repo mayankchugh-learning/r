@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 91,225 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
-| [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,096 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
-| [Music Recognition](https://github.com/raycast/extensions/tree/main/extensions/music-recognition) | 368 | Recognize music via a macOS Shortcuts proxy (Shazam) | lemikeone | macOS | [store](https://www.raycast.com/lemikeone/music-recognition) |
+| [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 91,271 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
+| [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,097 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
+| [Music Recognition](https://github.com/raycast/extensions/tree/main/extensions/music-recognition) | 370 | Recognize music via a macOS Shortcuts proxy (Shazam) | lemikeone | macOS | [store](https://www.raycast.com/lemikeone/music-recognition) |
 | [Slowed + Reverb](https://github.com/raycast/extensions/tree/main/extensions/slowed-reverb) | 234 | Turn any song into a Slowed + Reverb version | tomo_myrman | macOS | [store](https://www.raycast.com/tomo_myrman/slowed-reverb) |
 | [Guitar Tools](https://github.com/raycast/extensions/tree/main/extensions/guitar-tools) | 178 | A collection of tools for guitarists including a chromatic tuner. | narghev | macOS | [store](https://www.raycast.com/narghev/guitar-tools) |
 | [A Song of Ice and Fire](https://github.com/raycast/extensions/tree/main/extensions/asoiaf) | 64 | Explore Books, Characters and Houses in the ASOIAF/GoT Universe | xmok | macOS | [store](https://www.raycast.com/xmok/asoiaf) |

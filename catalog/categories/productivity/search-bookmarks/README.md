@@ -1,6 +1,6 @@
 # Search & Bookmarks
 
-226 extensions · [← Productivity](../README.md)
+227 extensions · [← Productivity](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
@@ -15,9 +15,10 @@
 | [Across ✦](./across.md) | 5 |
 | [Chats ✦](./chats.md) | 5 |
 | [Store ✦](./store.md) | 4 |
+| [Database ✦](./database.md) | 4 |
 | [Hosted ✦](./hosted.md) | 4 |
 | [Passwords ✦](./passwords.md) | 4 |
 | [System ✦](./system.md) | 4 |
-| [General](./general.md) | 110 |
+| [General](./general.md) | 107 |
 
 *✦ auto-discovered topic group*

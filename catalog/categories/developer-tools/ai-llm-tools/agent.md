@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | 9,966 | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
-| [Cursor Agents](https://github.com/raycast/extensions/tree/main/extensions/cursor-agents) | 6,284 | Create and manage background agents that work on your repositories | anysphere (org) | macOS, Windows | [store](https://www.raycast.com/anysphere/cursor-agents) |
+| [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) | 9,979 | Delegate tasks to GitHub Copilot coding agent | github (org) | macOS, Windows | [store](https://www.raycast.com/github/github-copilot) |
+| [Cursor Agents](https://github.com/raycast/extensions/tree/main/extensions/cursor-agents) | 6,286 | Create and manage background agents that work on your repositories | anysphere (org) | macOS, Windows | [store](https://www.raycast.com/anysphere/cursor-agents) |
 | [HeyClaude](https://github.com/raycast/extensions/tree/main/extensions/heyclaude) | 162 | Search and copy Claude agents, MCP servers, skills, hooks, rules, commands, guides, and statuslines from HeyClaude. | jsonbored | macOS | [store](https://www.raycast.com/JSONbored/heyclaude) |
-| [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent) | 142 | Parses the User-Agent of the selected text | third774 | macOS | [store](https://www.raycast.com/third774/user-agent) |
+| [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent) | 143 | Parses the User-Agent of the selected text | third774 | macOS | [store](https://www.raycast.com/third774/user-agent) |
 | [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 36 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |
 | [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) | 26 | Discover, triage, and manage papers from your local Paper Agent workflow in Raycast. | marvel940804836 | macOS | [store](https://www.raycast.com/marvel940804836/paper-agent) |
 | [Quick Quote](https://github.com/raycast/extensions/tree/main/extensions/quick-quote) | 9 | Quote selected text as a Markdown blockquote. Built for pasting CLI agent output back into a prompt. | kumamaki | macOS | [store](https://www.raycast.com/kumamaki/quick-quote) |
