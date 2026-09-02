@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,142,791 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,142,882 |
 | 2 | [raycast](./id/raycast.md) | 11 | 810,138 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,760 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,640 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,889 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 512,710 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 450,412 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 445,609 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 416,414 |
@@ -277,7 +277,7 @@
 | 267 | [EinLinuus](https://www.raycast.com/EinLinuus) | 1 | 4,360 |
 | 268 | [kaanrkaraman](https://www.raycast.com/kaanrkaraman) | 1 | 4,339 |
 | 269 | [magicjaqk](https://www.raycast.com/magicjaqk) | 1 | 4,315 |
-| 270 | [dnnsmnstrr](https://www.raycast.com/dnnsmnstrr) | 5 | 4,279 |
+| 270 | [dnnsmnstrr](https://www.raycast.com/dnnsmnstrr) | 5 | 4,281 |
 | 271 | [SamuelNitsche](https://www.raycast.com/SamuelNitsche) | 1 | 4,239 |
 | 272 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,184 |
 | 273 | [johndoe123789](https://www.raycast.com/johndoe123789) | 1 | 4,177 |
@@ -959,7 +959,7 @@
 | 949 | [bengry](https://www.raycast.com/bengry) | 1 | 406 |
 | 950 | [andre-rd-rodrigues](https://www.raycast.com/andre-rd-rodrigues) | 1 | 405 |
 | 951 | [kylinwowo](https://www.raycast.com/kylinwowo) | 3 | 404 |
-| 952 | [aic](https://www.raycast.com/aic) | 3 | 398 |
+| 952 | [aic](https://www.raycast.com/aic) | 3 | 399 |
 | 953 | [k41531](https://www.raycast.com/k41531) | 1 | 398 |
 | 954 | [tofrankie](https://www.raycast.com/tofrankie) | 3 | 396 |
 | 955 | [nurkamol](https://www.raycast.com/nurkamol) | 2 | 396 |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `94b9a750c9`
+
+**Updated (1):** [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool)
+
 ## 2026-09-02 — upstream `f273e43bac`
 
 **Updated (1):** [BetterTouchTool](https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool)

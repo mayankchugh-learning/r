@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Raycast Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer) | 42,395 | Explore snippets, prompts, and custom themes from within Raycast. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/raycast-explorer) |
 | [Drafts](https://github.com/raycast/extensions/tree/main/extensions/drafts) | 7,483 | integrate Raycast with Drafts app | FlohGro | macOS | [store](https://www.raycast.com/FlohGro/drafts) |
-| [BetterTouchTool](https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool) | 3,724 | Run BTT actions from Raycast | dnnsmnstrr | macOS | [store](https://www.raycast.com/dnnsmnstrr/bettertouchtool) |
+| [BetterTouchTool](https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool) | 3,726 | Run BTT actions from Raycast | dnnsmnstrr | macOS | [store](https://www.raycast.com/dnnsmnstrr/bettertouchtool) |
 | [Proxyman](https://github.com/raycast/extensions/tree/main/extensions/proxyman) | 1,954 | Navigate and perform common actions in Proxyman faster | noah_tran | macOS | [store](https://www.raycast.com/noah_tran/proxyman) |
 | [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,464 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 456 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |

@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 154,060 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,709 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,503 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,142,791 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,142,882 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 306,059 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,816 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 416,414 |
@@ -61,7 +61,7 @@
 | 51 | [chyroc](https://www.raycast.com/chyroc) | 5 | 8,885 |
 | 52 | [keito4](https://www.raycast.com/keito4) | 5 | 8,071 |
 | 53 | [teziovsky](https://www.raycast.com/teziovsky) | 5 | 4,880 |
-| 54 | [dnnsmnstrr](https://www.raycast.com/dnnsmnstrr) | 5 | 4,279 |
+| 54 | [dnnsmnstrr](https://www.raycast.com/dnnsmnstrr) | 5 | 4,281 |
 | 55 | [SuoweiHu](https://www.raycast.com/SuoweiHu) | 5 | 3,944 |
 | 56 | [Ek217](https://www.raycast.com/Ek217) | 5 | 3,717 |
 | 57 | [Undolog](https://www.raycast.com/Undolog) | 5 | 2,666 |
@@ -155,7 +155,7 @@
 | 145 | [danieldeichfuss](https://www.raycast.com/danieldeichfuss) | 3 | 554 |
 | 146 | [asifk](https://www.raycast.com/asifk) | 3 | 410 |
 | 147 | [kylinwowo](https://www.raycast.com/kylinwowo) | 3 | 404 |
-| 148 | [aic](https://www.raycast.com/aic) | 3 | 398 |
+| 148 | [aic](https://www.raycast.com/aic) | 3 | 399 |
 | 149 | [tofrankie](https://www.raycast.com/tofrankie) | 3 | 396 |
 | 150 | [shivraj-roy](https://www.raycast.com/shivraj-roy) | 3 | 322 |
 | 151 | [alexs](https://www.raycast.com/alexs) | 3 | 278 |
@@ -393,8 +393,8 @@
 | 383 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 9 |
 | 384 | [tai](https://www.raycast.com/tai) | 2 | 6 |
 | 385 | github-next | 2 | — |
-| 386 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,760 |
-| 387 | [Codely](https://www.raycast.com/Codely) | 1 | 512,640 |
+| 386 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 688,889 |
+| 387 | [Codely](https://www.raycast.com/Codely) | 1 | 512,710 |
 | 388 | [linear](https://www.raycast.com/linear) | 1 | 357,533 |
 | 389 | [mommertf](https://www.raycast.com/mommertf) | 1 | 296,796 |
 | 390 | [nhojb](https://www.raycast.com/nhojb) | 1 | 262,560 |
