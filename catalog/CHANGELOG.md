@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-02 — upstream `75cb74d0b8`
+
+**Updated (1):** [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim)
+
 ## 2026-09-02 — upstream `94b9a750c9`
 
 **Updated (1):** [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool)
