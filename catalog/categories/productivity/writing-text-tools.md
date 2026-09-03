@@ -46,7 +46,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) | 58,823 | Translate words, or entire sentences, into 27 different languages using DeepL. | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/deepcast) |
+| [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) | 58,828 | Translate words, or entire sentences, into 27 different languages using DeepL. | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/deepcast) |
 | [iTranslate](https://github.com/raycast/extensions/tree/main/extensions/itranslate) | 10,872 | Translate words or sentences, support 36 languages, OCR, history record and translating into multiple languages at the same time. | JinShi | macOS | [store](https://www.raycast.com/JinShi/itranslate) |
 | [Fix Language](https://github.com/raycast/extensions/tree/main/extensions/fix-language) | 629 | Switch the language input source of the text when you type and forget to change the language. | tin5451 | macOS | [store](https://www.raycast.com/tin5451/fix-language) |
 | [Korean Spell Checker](https://github.com/raycast/extensions/tree/main/extensions/korean-spell-checker) | 557 | Provides grammar/spelling suggestions for Korean language | jcha0713 | macOS | [store](https://www.raycast.com/jcha0713/korean-spell-checker) |

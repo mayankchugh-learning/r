@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `a1e8a8c8fe`
+
+**Updated (1):** [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player)
+
 ## 2026-09-03 — upstream `542b9e4a6c`
 
 **Updated (1):** [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects)

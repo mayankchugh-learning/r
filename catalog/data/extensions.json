@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "542b9e4a6cec430812b543ab840a518615f246ce",
-  "generatedAt": "2026-09-03T19:58:41.175Z",
-  "downloadsRefreshedAt": "2026-09-03T19:58:40.508Z",
+  "commit": "a1e8a8c8fe6f728312174a24b7184076094a5bf0",
+  "generatedAt": "2026-09-03T20:01:39.115Z",
+  "downloadsRefreshedAt": "2026-09-03T20:01:38.707Z",
   "count": 3249,
   "extensions": [
     {
@@ -9873,7 +9873,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 531783
+      "downloads": 531786
     },
     {
       "dir": "color-shades",
@@ -12922,7 +12922,7 @@
       "store": "https://www.raycast.com/mooxl/deepcast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/deepcast",
       "treeSha": "9dcb997d42b9c8308273d6d924e5754a44147fd1",
-      "downloads": 58823
+      "downloads": 58828
     },
     {
       "dir": "deepl-api-usage",
@@ -22289,7 +22289,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 514034
+      "downloads": 514036
     },
     {
       "dir": "google-chrome-profiles",
@@ -28632,7 +28632,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 690777
+      "downloads": 690778
     },
     {
       "dir": "kimai",
@@ -55294,7 +55294,7 @@
       "description": "Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar.",
       "author": "mattisssa",
       "owner": null,
-      "contributors": 36,
+      "contributors": 37,
       "categories": [
         "Media",
         "Productivity"
@@ -55306,7 +55306,7 @@
       ],
       "store": "https://www.raycast.com/mattisssa/spotify-player",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spotify-player",
-      "treeSha": "1a4991549b53b4e746a1963df94dd7ac6e6e6a45",
+      "treeSha": "c3d5ed23f72d0d600fdb437116c5ec0944570911",
       "downloads": 442313
     },
     {
@@ -63857,7 +63857,7 @@
       "store": "https://www.raycast.com/thomas/visual-studio-code",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects",
       "treeSha": "97ebc1fb2cad5dfa2c8f610ab0b39f8373982b45",
-      "downloads": 368575
+      "downloads": 368681
     },
     {
       "dir": "vivaldi",

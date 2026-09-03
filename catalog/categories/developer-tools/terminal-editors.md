@@ -39,7 +39,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 368,575 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
+| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 368,681 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
 | [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor) | 4,642 | All JSON operations in one editor. | HerbertLu | macOS, Windows | [store](https://www.raycast.com/HerbertLu/json-editor) |
 | [Projects](https://github.com/raycast/extensions/tree/main/extensions/projects) | 782 | Quickly access your local projects and open them in your favorite editor or any app. | ajaypremshankar | macOS | [store](https://www.raycast.com/ajaypremshankar/projects) |
 | [WSL Manager](https://github.com/raycast/extensions/tree/main/extensions/wsl-manager) | 265 | Seamlessly manage WSL distributions and open projects in your preferred editor directly from Raycast. | luke_esterhuizen | Windows | [store](https://www.raycast.com/luke_esterhuizen/wsl-manager) |

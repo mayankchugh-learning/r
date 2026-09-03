@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) | 58,823 | Translate words, or entire sentences, into 27 different languages using DeepL. | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/deepcast) |
+| [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) | 58,828 | Translate words, or entire sentences, into 27 different languages using DeepL. | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/deepcast) |
 | [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count) | 36,934 | Count characters, words, sentences, and paragraphs in text. | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/word-count) |
 | [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 33,144 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
 | [Word Search](https://github.com/raycast/extensions/tree/main/extensions/word-search) | 25,267 | Search for synonyms, antonyms, spellings, rhymes and more | rishabswift | macOS, Windows | [store](https://www.raycast.com/rishabswift/word-search) |
