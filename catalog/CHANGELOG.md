@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `c6b4f3e170`
+
+**Updated (1):** [Portless Active Routes](https://github.com/raycast/extensions/tree/main/extensions/portless)
+
 ## 2026-09-03 — upstream `a1e8a8c8fe`
 
 **Updated (1):** [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player)
