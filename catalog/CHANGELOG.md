@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `54d1b3eac9`
+
+**Updated (1):** [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger)
+
 ## 2026-09-03 — upstream `90e719b7c9`
 
 **Updated (1):** [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge)
