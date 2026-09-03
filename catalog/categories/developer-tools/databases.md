@@ -1,6 +1,6 @@
 # Databases
 
-14 extensions · [← Developer Tools](./README.md)
+15 extensions · [← Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -18,3 +18,4 @@
 | [Perry](https://github.com/raycast/extensions/tree/main/extensions/perry) | 61 | Execute SQL queries on PostgreSQL databases | vmotta8 | macOS | [store](https://www.raycast.com/vmotta8/perry) |
 | [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) | 59 | Extract, save, and organize Notion page and database IDs from the focused browser tab or clipboard. | sam.dsgn | macOS | [store](https://www.raycast.com/Sam.Dsgn/notion-url-to-id) |
 | [Shopinfo.app](https://github.com/raycast/extensions/tree/main/extensions/shopinfo-app) | 39 | Identify Shopify themes from your current browser tab using shopinfo.app's database | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopinfo-app) |
+| [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) | 0 | Connect to MySQL databases — run queries, browse schema, and manage multiple connection profiles. | itggood2420 | macOS, Windows | [store](https://www.raycast.com/itggood2420/mysql) |

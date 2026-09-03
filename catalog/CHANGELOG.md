@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `1cc40188b6`
+
+**Added (1):** [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql)
+
 ## 2026-09-03 — upstream `c49c9665ac`
 
 **Updated (1):** [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow)

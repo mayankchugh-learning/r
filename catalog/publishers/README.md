@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,146,383 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,146,393 |
 | 2 | [raycast](./id/raycast.md) | 11 | 812,052 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 690,798 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 514,048 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 690,814 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 514,059 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 451,400 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 446,747 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 417,227 |
@@ -1926,13 +1926,13 @@
 | 1916 | [marruje](https://www.raycast.com/marruje) | 1 | 19 |
 | 1917 | [moisesrj97](https://www.raycast.com/moisesrj97) | 1 | 19 |
 | 1918 | [sansaxena789](https://www.raycast.com/sansaxena789) | 1 | 19 |
-| 1919 | [abdullah_shabib](https://www.raycast.com/abdullah_shabib) | 1 | 18 |
-| 1920 | [akgunberk](https://www.raycast.com/akgunberk) | 1 | 18 |
-| 1921 | [constantin_prum](https://www.raycast.com/constantin_prum) | 1 | 18 |
-| 1922 | [drewwatkins11](https://www.raycast.com/drewwatkins11) | 1 | 18 |
-| 1923 | [friantom](https://www.raycast.com/friantom) | 1 | 18 |
-| 1924 | [invm](https://www.raycast.com/invm) | 1 | 18 |
-| 1925 | [itggood2420](https://www.raycast.com/itggood2420) | 1 | 18 |
+| 1919 | [itggood2420](https://www.raycast.com/itggood2420) | 2 | 18 |
+| 1920 | [abdullah_shabib](https://www.raycast.com/abdullah_shabib) | 1 | 18 |
+| 1921 | [akgunberk](https://www.raycast.com/akgunberk) | 1 | 18 |
+| 1922 | [constantin_prum](https://www.raycast.com/constantin_prum) | 1 | 18 |
+| 1923 | [drewwatkins11](https://www.raycast.com/drewwatkins11) | 1 | 18 |
+| 1924 | [friantom](https://www.raycast.com/friantom) | 1 | 18 |
+| 1925 | [invm](https://www.raycast.com/invm) | 1 | 18 |
 | 1926 | [jurajstefanic](https://www.raycast.com/jurajstefanic) | 1 | 18 |
 | 1927 | [parterburn](https://www.raycast.com/parterburn) | 1 | 18 |
 | 1928 | [rewiser_io](https://www.raycast.com/rewiser_io) | 1 | 18 |

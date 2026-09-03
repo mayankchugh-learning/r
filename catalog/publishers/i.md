@@ -56,7 +56,7 @@
 | [isma](https://www.raycast.com/isma) | 2 | 5,762 | **Uncategorized:** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)<br>**News:** [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) |
 | [ismi](https://www.raycast.com/ismi) | 1 | 249 | **Developer Tools:** [PulseMCP](https://github.com/raycast/extensions/tree/main/extensions/pulsemcp) |
 | [isra](https://www.raycast.com/isra) | 1 | 21 | **Web:** [Defly.io](https://github.com/raycast/extensions/tree/main/extensions/defly-io) |
-| [itggood2420](https://www.raycast.com/itggood2420) | 1 | 18 | **Developer Tools:** [OpenSearch DevTools](https://github.com/raycast/extensions/tree/main/extensions/opensearch) |
+| [itggood2420](https://www.raycast.com/itggood2420) | 2 | 18 | **Developer Tools:** [OpenSearch DevTools](https://github.com/raycast/extensions/tree/main/extensions/opensearch), [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) |
 | [itsjustxan](https://www.raycast.com/itsjustxan) | 1 | 72 | **Developer Tools:** [RunCloud](https://github.com/raycast/extensions/tree/main/extensions/runcloud) |
 | [itskofio](https://www.raycast.com/itskofio) | 1 | 53 | **Productivity:** [YouTube Highlights](https://github.com/raycast/extensions/tree/main/extensions/youtube-highlights) |
 | [itsmeonli](https://www.raycast.com/itsmeonli) | 1 | 31 | **Fun:** [Wojak Picker](https://github.com/raycast/extensions/tree/main/extensions/wojak-picker) |

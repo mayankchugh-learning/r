@@ -1,6 +1,6 @@
 # Cross-platform · Developer Tools
 
-301 extensions · [← Cross-platform](../README.md)
+302 extensions · [← Cross-platform](../README.md)
 
 ## Code & Collaboration
 
@@ -16,7 +16,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 33 |
-| [Databases](./databases.md) | 3 |
+| [Databases](./databases.md) | 4 |
 | [APIs & Networking](./apis-networking.md) | 16 |
 | [Monitoring & Logs](./monitoring-logs.md) | 8 |
 
