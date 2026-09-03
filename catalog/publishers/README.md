@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,146,363 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,146,383 |
 | 2 | [raycast](./id/raycast.md) | 11 | 812,052 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 690,780 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 514,037 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 690,798 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 514,048 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 451,400 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 446,747 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 417,227 |
@@ -535,7 +535,7 @@
 | 525 | [raulanatol](https://www.raycast.com/raulanatol) | 1 | 1,450 |
 | 526 | [radouane-tamouss](https://www.raycast.com/radouane-tamouss) | 1 | 1,445 |
 | 527 | [abul_kalam_robin](https://www.raycast.com/abul_kalam_robin) | 1 | 1,439 |
-| 528 | [carterm](https://www.raycast.com/carterm) | 1 | 1,426 |
+| 528 | [carterm](https://www.raycast.com/carterm) | 1 | 1,430 |
 | 529 | [prasadsunny1](https://www.raycast.com/prasadsunny1) | 1 | 1,425 |
 | 530 | [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,424 |
 | 531 | [mymind](https://www.raycast.com/mymind) | 1 | 1,422 |

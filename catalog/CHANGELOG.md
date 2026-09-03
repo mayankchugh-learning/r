@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `c49c9665ac`
+
+**Updated (1):** [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow)
+
 ## 2026-09-03 — upstream `c6b4f3e170`
 
 **Updated (1):** [Portless Active Routes](https://github.com/raycast/extensions/tree/main/extensions/portless)

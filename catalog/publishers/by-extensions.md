@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 154,363 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,745 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,519 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,146,363 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,146,383 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 306,651 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,877 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 417,227 |
@@ -393,8 +393,8 @@
 | 383 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 9 |
 | 384 | [tai](https://www.raycast.com/tai) | 2 | 6 |
 | 385 | github-next | 2 | — |
-| 386 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 690,780 |
-| 387 | [Codely](https://www.raycast.com/Codely) | 1 | 514,037 |
+| 386 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 690,798 |
+| 387 | [Codely](https://www.raycast.com/Codely) | 1 | 514,048 |
 | 388 | [linear](https://www.raycast.com/linear) | 1 | 358,546 |
 | 389 | [mommertf](https://www.raycast.com/mommertf) | 1 | 297,773 |
 | 390 | [nhojb](https://www.raycast.com/nhojb) | 1 | 263,098 |
@@ -691,7 +691,7 @@
 | 681 | [raulanatol](https://www.raycast.com/raulanatol) | 1 | 1,450 |
 | 682 | [radouane-tamouss](https://www.raycast.com/radouane-tamouss) | 1 | 1,445 |
 | 683 | [abul_kalam_robin](https://www.raycast.com/abul_kalam_robin) | 1 | 1,439 |
-| 684 | [carterm](https://www.raycast.com/carterm) | 1 | 1,426 |
+| 684 | [carterm](https://www.raycast.com/carterm) | 1 | 1,430 |
 | 685 | [prasadsunny1](https://www.raycast.com/prasadsunny1) | 1 | 1,425 |
 | 686 | [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,424 |
 | 687 | [mymind](https://www.raycast.com/mymind) | 1 | 1,422 |

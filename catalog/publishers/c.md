@@ -25,7 +25,7 @@
 | [carceneaux](https://www.raycast.com/carceneaux) | 1 | 15 | **Productivity:** [Royal TSX](https://github.com/raycast/extensions/tree/main/extensions/royal-tsx) |
 | [carlesandres](https://www.raycast.com/carlesandres) | 1 | 400 | **Developer Tools:** [Models.dev](https://github.com/raycast/extensions/tree/main/extensions/models-dev) |
 | [carter](https://www.raycast.com/carter) | 1 | 3,098 | **Applications:** [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) |
-| [carterm](https://www.raycast.com/carterm) | 1 | 1,426 | **Productivity:** [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) |
+| [carterm](https://www.raycast.com/carterm) | 1 | 1,430 | **Productivity:** [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) |
 | [castletaste](https://www.raycast.com/castletaste) | 1 | 51 | **News:** [Meduza](https://github.com/raycast/extensions/tree/main/extensions/meduza) |
 | [Cavallando](https://www.raycast.com/Cavallando) | 1 | 132 | **Developer Tools:** [Logtail](https://github.com/raycast/extensions/tree/main/extensions/logtail) |
 | [cdeligny](https://www.raycast.com/cdeligny) | 1 | 94 | **Productivity:** [AI Usage Tracker](https://github.com/raycast/extensions/tree/main/extensions/ai-usage-tracker) |
@@ -78,7 +78,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 55 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,557 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 514,037 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 514,048 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,395 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 114 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 711 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |
