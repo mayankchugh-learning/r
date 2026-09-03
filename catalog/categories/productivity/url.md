@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,345 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
-| [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,187 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
-| [Quick Web](https://github.com/raycast/extensions/tree/main/extensions/quick-web) | 502 | Quick Web is a configurable URL autocompletion tool | ShawYoungTang | macOS | [store](https://www.raycast.com/ShawYoungTang/quick-web) |
+| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,347 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
+| [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,189 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
+| [Quick Web](https://github.com/raycast/extensions/tree/main/extensions/quick-web) | 504 | Quick Web is a configurable URL autocompletion tool | ShawYoungTang | macOS | [store](https://www.raycast.com/ShawYoungTang/quick-web) |
 | [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) | 479 | The Libaro powered URL shortener Shorten your URL in seconds | libaro | macOS | [store](https://www.raycast.com/libaro/liba-ro_shortener) |
 | [UTM Campaign Builder](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) | 399 | Create a campaign URL with UTM attributes | vimtor | macOS | [store](https://www.raycast.com/vimtor/utm-campaign-builder) |
 | [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 368 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
