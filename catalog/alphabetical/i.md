@@ -61,7 +61,7 @@
 | [Invoice Generator](https://github.com/raycast/extensions/tree/main/extensions/invoice-generator) | 159 | Create invoices using the Invoice Generator API. | alexs | macOS | [store](https://www.raycast.com/alexs/invoice-generator) |
 | [IndieHackers](https://github.com/raycast/extensions/tree/main/extensions/indiehackers) | 154 | Browse IndieHackers | xmok | macOS | [store](https://www.raycast.com/xmok/indiehackers) |
 | [Ideate](https://github.com/raycast/extensions/tree/main/extensions/ideate) | 152 | Create a project folder, initialize it, and open with your IDE. | B9O2 | macOS | [store](https://www.raycast.com/b9o2/ideate) |
-| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 143 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
+| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 145 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
 | [In the Timezone](https://github.com/raycast/extensions/tree/main/extensions/in-the-time-zone) | 134 | Visualize and scrub time across multiple time zones | i_idz | macOS | [store](https://www.raycast.com/i_idz/in-the-time-zone) |
 | [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 127 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
 | [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | 119 | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |

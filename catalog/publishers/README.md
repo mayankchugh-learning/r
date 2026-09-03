@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,146,050 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,146,219 |
 | 2 | [raycast](./id/raycast.md) | 11 | 812,052 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 690,610 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 513,919 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 690,771 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 514,028 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 451,400 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 446,611 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 417,227 |
@@ -154,7 +154,7 @@
 | 144 | [shubzkothekar](https://www.raycast.com/shubzkothekar) | 1 | 12,275 |
 | 145 | [allenan](https://www.raycast.com/allenan) | 1 | 12,243 |
 | 146 | [nyatinte](https://www.raycast.com/nyatinte) | 1 | 12,165 |
-| 147 | [xmok](./id/xmok.md) | 114 | 11,996 |
+| 147 | [xmok](./id/xmok.md) | 114 | 11,998 |
 | 148 | [xmorse](https://www.raycast.com/xmorse) | 5 | 11,783 |
 | 149 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,557 |
 | 150 | [crickford](https://www.raycast.com/crickford) | 1 | 11,463 |

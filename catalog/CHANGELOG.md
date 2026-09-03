@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `10d1dbeba8`
+
+**Updated (1):** [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical)
+
 ## 2026-09-03 — upstream `1ade8c5d6e`
 
 **Added (1):** [Capture - Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/capture-quick-notes)
