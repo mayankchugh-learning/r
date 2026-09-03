@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "10d1dbeba866b82517957de832ef9ddcb2fa2f3a",
-  "generatedAt": "2026-09-03T19:50:25.803Z",
-  "downloadsRefreshedAt": "2026-09-03T19:50:23.944Z",
+  "commit": "8c19083900d6cb52031cc552809bc2120bd303ec",
+  "generatedAt": "2026-09-03T19:51:39.556Z",
+  "downloadsRefreshedAt": "2026-09-03T19:51:38.433Z",
   "count": 3249,
   "extensions": [
     {
@@ -9873,7 +9873,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 531775
+      "downloads": 531776
     },
     {
       "dir": "color-shades",
@@ -22248,7 +22248,7 @@
       ],
       "store": "https://www.raycast.com/thomas/google-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-calendar",
-      "treeSha": "4be066ceb4f4d64197c94c3e9be0e9fa7d7b57cb",
+      "treeSha": "bd48c50de2fdcebef97a4b688bc2ebaa632932b7",
       "downloads": 62286
     },
     {
@@ -22289,7 +22289,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 514028
+      "downloads": 514029
     },
     {
       "dir": "google-chrome-profiles",
@@ -28632,7 +28632,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 690771
+      "downloads": 690772
     },
     {
       "dir": "kimai",
