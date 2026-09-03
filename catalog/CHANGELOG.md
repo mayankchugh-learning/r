@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `9a0e715611`
+
+**Updated (1):** [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers)
+
 ## 2026-09-03 — upstream `2696e990c8`
 
 **Updated (1):** [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical)
