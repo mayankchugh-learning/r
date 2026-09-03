@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `f1ec91538a`
+
+**Updated (1):** [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini)
+
 ## 2026-09-03 — upstream `0c2fdac568`
 
 **Updated (1):** [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra)

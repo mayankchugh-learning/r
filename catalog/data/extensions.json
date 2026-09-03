@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0c2fdac56820d8710a74fc0014ed9ef28b78cf7b",
-  "generatedAt": "2026-09-03T09:54:25.197Z",
-  "downloadsRefreshedAt": "2026-09-03T09:54:24.824Z",
+  "commit": "f1ec91538a038f6d127a104dae8478430291c11b",
+  "generatedAt": "2026-09-03T10:13:29.552Z",
+  "downloadsRefreshedAt": "2026-09-03T10:13:28.642Z",
   "count": 3248,
   "extensions": [
     {
@@ -9853,7 +9853,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 531148
+      "downloads": 531168
     },
     {
       "dir": "color-shades",
@@ -22269,7 +22269,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 513592
+      "downloads": 513606
     },
     {
       "dir": "google-chrome-profiles",
@@ -28612,7 +28612,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 690130
+      "downloads": 690152
     },
     {
       "dir": "kimai",
@@ -47222,8 +47222,8 @@
       ],
       "store": "https://www.raycast.com/EvanZhouDev/raycast-gemini",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini",
-      "treeSha": "4d0ec04db5f50d12755d082451130d4807130b6f",
-      "downloads": 77226
+      "treeSha": "f9bfeaedce1cabd23fc0c2896266480b155fe21b",
+      "downloads": 77256
     },
     {
       "dir": "raycast-google-palm",
