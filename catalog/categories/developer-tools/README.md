@@ -21,7 +21,7 @@ macOS: 1105 · Windows: 312
 | [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure/README.md) | 92 |
 | [Databases](./databases.md) | 14 |
 | [APIs & Networking](./apis-networking.md) | 54 |
-| [Monitoring & Logs](./monitoring-logs.md) | 26 |
+| [Monitoring & Logs](./monitoring-logs.md) | 27 |
 
 ## Platforms & Ecosystems
 
@@ -61,6 +61,6 @@ macOS: 1105 · Windows: 312
 | [Sessions ✦](./sessions.md) | 5 |
 | [Ease ✦](./ease.md) | 4 |
 
-Plus [General](./general.md) — 174 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 173 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

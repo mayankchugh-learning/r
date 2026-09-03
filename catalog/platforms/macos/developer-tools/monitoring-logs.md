@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · **Monitoring & Logs** · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-26 of 1105 extensions · [← macOS · Developer Tools](./README.md)
+27 of 1105 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -31,4 +31,5 @@
 | [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 24 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
 | [Laravel Cloud](https://github.com/raycast/extensions/tree/main/extensions/laravel-cloud) | 24 | Manage your Laravel Cloud applications, deployments, logs, and more directly from Raycast. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/laravel-cloud) |
 | [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 14 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |
+| [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra) | 11 | Explore GEO analytics and manage Notra content directly from Raycast. | dominikdev | macOS, Windows | [store](https://www.raycast.com/dominikdev/notra) |
 | [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) | 4 | Manages and shows uptime status for services using Phare.io | ApopeOS | macOS | [store](https://www.raycast.com/ApopeOS/phare-io-uptime) |

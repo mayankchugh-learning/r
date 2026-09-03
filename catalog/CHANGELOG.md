@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `0c2fdac568`
+
+**Updated (1):** [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra)
+
 ## 2026-09-03 — upstream `54d1b3eac9`
 
 **Updated (1):** [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger)

@@ -2,11 +2,11 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · **General**
 
-56 of 301 extensions · [← Cross-platform · Developer Tools](./README.md)
+55 of 301 extensions · [← Cross-platform · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 690,105 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 690,130 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 164,716 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 99,190 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 62,088 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -51,7 +51,6 @@
 | [ZeroSSL](https://github.com/raycast/extensions/tree/main/extensions/zerossl) | 13 | Manage ZeroSSL Certificates | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zerossl) |
 | [Bit Parser](https://github.com/raycast/extensions/tree/main/extensions/bit-parser) | 12 | Inspect individual bits in fault codes, status words, and flags | TwoMental | macOS, Windows | [store](https://www.raycast.com/twomental/bit-parser) |
 | [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 12 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |
-| [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra) | 11 | View, manage, and create content with Notra directly from Raycast. | dominikdev | macOS, Windows | [store](https://www.raycast.com/dominikdev/notra) |
 | [Paynow.gg](https://github.com/raycast/extensions/tree/main/extensions/paynow) | 11 | Unofficial PayNow.gg extension | maxijonson | macOS, Windows | [store](https://www.raycast.com/maxijonson/paynow) |
 | [Manotori](https://github.com/raycast/extensions/tree/main/extensions/manotori) | 9 | Manage Domains in Manotori | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/manotori) |
 | [Tabstack](https://github.com/raycast/extensions/tree/main/extensions/tabstack) | 9 | Read, research, and act on the web from your keyboard. Powered by Tabstack. | tessak22 | macOS, Windows | [store](https://www.raycast.com/tessak22/tabstack) |

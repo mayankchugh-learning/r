@@ -1,8 +1,8 @@
 # Monitoring & Logs
 
-26 extensions · [← Developer Tools](./README.md)
+27 extensions · [← Developer Tools](./README.md)
 
-[Monitor ✦](#monitor) (12) · [Logs ✦](#logs) (4) · [General](#general) (10)
+[Monitor ✦](#monitor) (12) · [Analytics ✦](#analytics) (4) · [Logs ✦](#logs) (4) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -23,6 +23,15 @@
 | [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) | 47 | Monitor status pages and check if your favorite services are operational. | alerix | macOS, Windows | [store](https://www.raycast.com/alerix/is-it-alive) |
 | [HetrixTools](https://github.com/raycast/extensions/tree/main/extensions/hetrixtools) | 45 | Uptime Monitor & Blacklist Monitor | xmok | macOS | [store](https://www.raycast.com/xmok/hetrixtools) |
 
+## Analytics ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) | 141 | A Raycast extension to browse your website analytics coming from Fathom. | yannglt | macOS | [store](https://www.raycast.com/yannglt/fathom-analytics-stats) |
+| [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 24 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
+| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 14 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |
+| [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra) | 11 | Explore GEO analytics and manage Notra content directly from Raycast. | dominikdev | macOS, Windows | [store](https://www.raycast.com/dominikdev/notra) |
+
 ## Logs ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -41,8 +50,5 @@
 | [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,350 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 408 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
 | [ChangeDetection.io](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) | 230 | Website Change Detection For Clever People | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/changedetection-io) |
-| [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) | 141 | A Raycast extension to browse your website analytics coming from Fathom. | yannglt | macOS | [store](https://www.raycast.com/yannglt/fathom-analytics-stats) |
 | [Incident.io](https://github.com/raycast/extensions/tree/main/extensions/incident-io) | 105 | Gets the incidents from Incident.io | nkl | macOS | [store](https://www.raycast.com/nkl/incident-io) |
-| [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 24 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
-| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 14 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |
 | [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) | 4 | Manages and shows uptime status for services using Phare.io | ApopeOS | macOS | [store](https://www.raycast.com/ApopeOS/phare-io-uptime) |
