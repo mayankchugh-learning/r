@@ -10,18 +10,18 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 253,545 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
-| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 20,985 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
-| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,376 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
-| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,206 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
-| [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,638 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
+| [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 253,676 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
+| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 21,006 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
+| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,383 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
+| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,209 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
+| [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,641 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
 
 ### Productivity & Task Apps
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 62,171 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,659 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 62,225 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,668 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 116 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 9 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |
 
@@ -29,7 +29,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 13,326 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
+| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 13,330 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
 | [PostHog](https://github.com/raycast/extensions/tree/main/extensions/posthog) | 474 | Open the web app, search PostHog resources, and run read-only analytics with AI tools. | posthog (org) | macOS, Windows | [store](https://www.raycast.com/posthog/posthog) |
 | [AI by Vercel](https://github.com/raycast/extensions/tree/main/extensions/ai-by-vercel) | 238 | Vercel AI within Raycast | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/ai-by-vercel) |
 | [Napkin](https://github.com/raycast/extensions/tree/main/extensions/napkin) | 161 | Use Napkin AI to transform text into visual diagrams and illustrations | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/napkin) |
@@ -53,14 +53,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 120,739 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 120,826 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,652 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
-| [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,397 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
-| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 839 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
+| [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,398 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
+| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 840 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 127 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 57 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 53 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
-| [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 5 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
+| [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 6 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
 
 ## Developer & Power-User Apps
 
@@ -75,14 +75,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer) | 42,438 | Explore snippets, prompts, and custom themes from within Raycast. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/raycast-explorer) |
+| [Raycast Explorer](https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer) | 42,485 | Explore snippets, prompts, and custom themes from within Raycast. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/raycast-explorer) |
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 456 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |
 
 ### Network & Connection Apps
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 164,600 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 164,716 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 273 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 3 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 
@@ -98,7 +98,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,871 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,877 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 
 ## Everyday Apps
 
@@ -106,15 +106,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 35,979 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
-| [Apple Maps Search](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) | 17,140 | Quickly search Apple Maps or find directions. | djpowers | macOS, Windows | [store](https://www.raycast.com/djpowers/apple-maps-search) |
+| [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 36,005 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
+| [Apple Maps Search](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) | 17,151 | Quickly search Apple Maps or find directions. | djpowers | macOS, Windows | [store](https://www.raycast.com/djpowers/apple-maps-search) |
 
 ### Files, Sync & Upload
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,807 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
-| [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,417 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 6,812 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,419 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
 | [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 233 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
 
 ### Faith & Lifestyle Apps
@@ -127,10 +127,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,451 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
-| [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,414 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
+| [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 7,458 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
+| [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,417 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
 | [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) | 732 | Launch and manage your Minecraft Prism Launcher instances straight from Raycast. | lockieluke3389 | Windows, macOS | [store](https://www.raycast.com/lockieluke3389/prism-launcher) |
-| [Playnite Launcher](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) | 596 | Launch your favorite games using Playnite. | bennettsh | Windows | [store](https://www.raycast.com/bennettsh/playnite-launcher) |
+| [Playnite Launcher](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) | 598 | Launch your favorite games using Playnite. | bennettsh | Windows | [store](https://www.raycast.com/bennettsh/playnite-launcher) |
 | [Modrinth](https://github.com/raycast/extensions/tree/main/extensions/modrinth) | 301 | Your Minecraft modding companion - find mods, resource packs, and more | soradotwav | macOS, Windows | [store](https://www.raycast.com/soradotwav/modrinth) |
 | [WinSCP](https://github.com/raycast/extensions/tree/main/extensions/winscp) | 157 | Launch WinSCP sessions quickly from Raycast. | bossdaily | Windows | [store](https://www.raycast.com/bossdaily/winscp) |
 | [Gomander](https://github.com/raycast/extensions/tree/main/extensions/gomander) | 19 | Control your gomander experience from Raycast | moisesrj97 | macOS, Windows | [store](https://www.raycast.com/moisesrj97/gomander) |
@@ -141,38 +141,38 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 49,225 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,589 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
-| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 18,558 | Manage your Microsoft Teams presence and status message. Search for people and chats, open conversations, and start calls. | sven | macOS, Windows | [store](https://www.raycast.com/sven/microsoft-teams) |
+| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 49,244 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
+| [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 38,623 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
+| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 18,575 | Manage your Microsoft Teams presence and status message. Search for people and chats, open conversations, and start calls. | sven | macOS, Windows | [store](https://www.raycast.com/sven/microsoft-teams) |
 | [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 3,074 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
-| [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel) | 3,056 | Allow Parcel users to see upcoming and active deliveries | marcmagn1 | macOS, Windows | [store](https://www.raycast.com/marcmagn1/parcel) |
-| [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper) | 2,926 | Voice dictation, transcription history, and profile management for TypeWhisper | SeoFood | macOS, Windows | [store](https://www.raycast.com/SeoFood/typewhisper) |
-| [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,709 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
-| [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,701 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
+| [Parcel](https://github.com/raycast/extensions/tree/main/extensions/parcel) | 3,061 | Allow Parcel users to see upcoming and active deliveries | marcmagn1 | macOS, Windows | [store](https://www.raycast.com/marcmagn1/parcel) |
+| [TypeWhisper](https://github.com/raycast/extensions/tree/main/extensions/typewhisper) | 2,931 | Voice dictation, transcription history, and profile management for TypeWhisper | SeoFood | macOS, Windows | [store](https://www.raycast.com/SeoFood/typewhisper) |
+| [Ping](https://github.com/raycast/extensions/tree/main/extensions/ping) | 2,710 | Pings a domain to see if it is alive | stevensd2m | macOS, Windows | [store](https://www.raycast.com/stevensd2m/ping) |
+| [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,702 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,495 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
-| [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | 2,477 | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
+| [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) | 2,478 | Query T3 Chat directly from Raycast | Lermatroid | macOS, Windows | [store](https://www.raycast.com/Lermatroid/t3-chat) |
 | [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 2,063 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
-| [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) | 1,945 | Quickly open PowerToys tools | LostViking09 | Windows | [store](https://www.raycast.com/LostViking09/powertoys-tool-runner) |
+| [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) | 1,948 | Quickly open PowerToys tools | LostViking09 | Windows | [store](https://www.raycast.com/LostViking09/powertoys-tool-runner) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,657 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
 | [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,605 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
-| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,174 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
-| [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 681 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
+| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,177 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
+| [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 682 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [IP Info](https://github.com/raycast/extensions/tree/main/extensions/ipinfo) | 653 | An extension to use ipinfo.io's API to get information about IP addresses | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/ipinfo) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 640 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 548 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
-| [Printer Status](https://github.com/raycast/extensions/tree/main/extensions/printer-status) | 170 | Check printer status (page counts, ink levels, device info) via SNMP | davidyannick | macOS, Windows | [store](https://www.raycast.com/davidyannick/printer-status) |
+| [Printer Status](https://github.com/raycast/extensions/tree/main/extensions/printer-status) | 171 | Check printer status (page counts, ink levels, device info) via SNMP | davidyannick | macOS, Windows | [store](https://www.raycast.com/davidyannick/printer-status) |
 | [YASB](https://github.com/raycast/extensions/tree/main/extensions/yasb) | 140 | Raycast interface for the yasbc (YASB CLI) application | Deviljin112 | Windows | [store](https://www.raycast.com/Deviljin112/yasb) |
 | [Leitner Box](https://github.com/raycast/extensions/tree/main/extensions/leitnerbox) | 113 | This is a simple extension that use the concept of a learning process called leitner box | gzyannick | macOS, Windows | [store](https://www.raycast.com/gzyannick/leitnerbox) |
 | [Luma](https://github.com/raycast/extensions/tree/main/extensions/luma) | 112 | Discover Luma event | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/luma) |
 | [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | 78 | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |
-| [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) | 77 | View your daily goals and calories in Yazio, and log food directly from Raycast. | zsombor_biro | Windows, macOS | [store](https://www.raycast.com/zsombor_biro/yazio-tracker) |
+| [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) | 78 | View your daily goals and calories in Yazio, and log food directly from Raycast. | zsombor_biro | Windows, macOS | [store](https://www.raycast.com/zsombor_biro/yazio-tracker) |
 | [Helldivers 2](https://github.com/raycast/extensions/tree/main/extensions/helldivers2) | 68 | View Galactic War Status from Helldivers II | alexstrnik | macOS, Windows | [store](https://www.raycast.com/alexstrnik/helldivers2) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 43 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 | [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) | 27 | LiteLLM directly from Raycast commands | Francois | Windows, macOS | [store](https://www.raycast.com/Francois/litellm) |
 | [Mouseless](https://github.com/raycast/extensions/tree/main/extensions/mouseless) | 22 | Controls the Mouseless app. Only works when using Mouseless v1.0 or later. | NextMerge | macOS, Windows | [store](https://www.raycast.com/NextMerge/mouseless) |
 | [Kaneo](https://github.com/raycast/extensions/tree/main/extensions/kaneo-for-raycast) | 20 | Quickly check and manage your Kaneo projects | Baldy | Windows, macOS | [store](https://www.raycast.com/Baldy/kaneo-for-raycast) |
-| [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 10 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |
+| [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 11 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |
 | [Near Rewards](https://github.com/raycast/extensions/tree/main/extensions/near-rewards) | 9 | Checks balance of NEAR account and its reward from staking | dmytro_sheleh | macOS, Windows | [store](https://www.raycast.com/dmytro_sheleh/near-rewards) |
 | [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) | 6 | Fast access to SayIntentions via keyboard shortcuts. Great for flight sim sessions where you don't want to speak but still want quick ATC communication. | kyleawayan | Windows, macOS | [store](https://www.raycast.com/kyleawayan/sayintentions) |
-| [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game) | 4 | What to Play Next - Smart Game Picker | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/next-game) |
+| [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game) | 5 | What to Play Next - Smart Game Picker | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/next-game) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |

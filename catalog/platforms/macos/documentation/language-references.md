@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,072 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
+| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,073 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [TypeScript Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/typescript-documentation-search) | 2,991 | Search in TypeScript Documentation | chezhe | macOS | [store](https://www.raycast.com/chezhe/typescript-documentation-search) |
 | [PHP Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/php-docs) | 1,943 | Quickly search through official PHP documentation | comes | macOS | [store](https://www.raycast.com/comes/php-docs) |
 | [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) | 178 | Search Haskell documentation in Hoogle | waj | macOS | [store](https://www.raycast.com/waj/hoogle) |

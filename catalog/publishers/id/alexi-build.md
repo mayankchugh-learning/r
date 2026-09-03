@@ -1,6 +1,6 @@
 # alexi.build
 
-17 extensions · 1,982 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+17 extensions · 1,987 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -21,14 +21,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 293 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 294 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 
 ## Developer Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 169 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
-| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 47 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
+| [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 170 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 48 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
 
 ## Applications (1)
 
@@ -40,7 +40,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 102 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
+| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 103 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
 | [TV Remote](https://github.com/raycast/extensions/tree/main/extensions/tv-remote) | 20 | Control Sony BRAVIA TV picture settings | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/tv-remote) |
 
 ## Finance (1)
@@ -55,17 +55,17 @@
 | --- | --- | --- | --- | --- | --- |
 | [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 75 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
 
+## Documentation (1)
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Zread.ai](https://github.com/raycast/extensions/tree/main/extensions/zread-ai) | 62 | Open zread.ai pages for GitHub repositories and browse trending repositories. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/zread-ai) |
+
 ## Other (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Time Awareness](https://github.com/raycast/extensions/tree/main/extensions/time-awareness) | 62 | Track your activity sessions and intervals | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/time-awareness) |
-
-## Documentation (1)
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Zread.ai](https://github.com/raycast/extensions/tree/main/extensions/zread-ai) | 61 | Open zread.ai pages for GitHub repositories and browse trending repositories. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/zread-ai) |
 
 ## Data (2)
 

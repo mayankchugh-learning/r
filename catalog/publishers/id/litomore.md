@@ -1,19 +1,19 @@
 # litomore
 
-13 extensions · 13,090 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
+13 extensions · 13,098 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
 
 ## Design Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,319 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
+| [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,321 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [TourBox](https://github.com/raycast/extensions/tree/main/extensions/tourbox) | 63 | Find Your Desired TourBox Preset | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/tourbox) |
 
 ## Communication (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,762 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
+| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 2,764 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 825 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 
 ## Developer Tools (3)
@@ -28,7 +28,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 615 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
+| [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 617 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | 151 | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
 | [MapleStory.gg](https://github.com/raycast/extensions/tree/main/extensions/maplestory-gg) | 49 | MapleStory's Definitive Database. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/maplestory-gg) |
 
@@ -36,11 +36,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [SteamGridDB](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) | 535 | Download and share custom video game assets and personalize your gaming library. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/steamgriddb) |
+| [SteamGridDB](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) | 536 | Download and share custom video game assets and personalize your gaming library. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/steamgriddb) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 246 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 
 ## Documentation (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 684 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
+| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 685 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
