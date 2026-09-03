@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8b0b8d67a8b534eb4f391eb1aef895f47585c025",
-  "generatedAt": "2026-09-03T19:53:42.899Z",
-  "downloadsRefreshedAt": "2026-09-03T19:53:42.020Z",
+  "commit": "17c0e82c852602b1f6dd566851f4a9914ef348d9",
+  "generatedAt": "2026-09-03T19:56:35.797Z",
+  "downloadsRefreshedAt": "2026-09-03T19:56:35.123Z",
   "count": 3249,
   "extensions": [
     {
@@ -9873,7 +9873,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 531778
+      "downloads": 531779
     },
     {
       "dir": "color-shades",
@@ -12921,7 +12921,7 @@
       ],
       "store": "https://www.raycast.com/mooxl/deepcast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/deepcast",
-      "treeSha": "f544f4960165c0af41841a912fae93599c5a57c4",
+      "treeSha": "9dcb997d42b9c8308273d6d924e5754a44147fd1",
       "downloads": 58823
     },
     {
@@ -22249,7 +22249,7 @@
       "store": "https://www.raycast.com/thomas/google-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-calendar",
       "treeSha": "bd48c50de2fdcebef97a4b688bc2ebaa632932b7",
-      "downloads": 62312
+      "downloads": 62286
     },
     {
       "dir": "google-calendar-quickadd",
@@ -28632,7 +28632,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 690775
+      "downloads": 690776
     },
     {
       "dir": "kimai",
