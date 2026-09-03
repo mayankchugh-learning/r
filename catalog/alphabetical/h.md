@@ -37,7 +37,7 @@
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 682 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 640 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [HotCorner](https://github.com/raycast/extensions/tree/main/extensions/hotcorner) | 558 | macOS Hot Corners quick settings | mmmarcus | macOS | [store](https://www.raycast.com/mmmarcus/hotcorner) |
-| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 537 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
+| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 549 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [Heroku](https://github.com/raycast/extensions/tree/main/extensions/heroku) | 532 | Heroku extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/heroku) |
 | [HubSpot Portal Launcher](https://github.com/raycast/extensions/tree/main/extensions/hubspot-portal-launcher) | 476 | A simple Raycast extension that allows you to quickly launch and navigate to different objects in your HubSpot portals | chriso | macOS | [store](https://www.raycast.com/chriso/hubspot-portal-launcher) |
 | [Homepage](https://github.com/raycast/extensions/tree/main/extensions/homepage) | 464 | Homepage services and bookmarks in Raycast | bgiovand | macOS | [store](https://www.raycast.com/bgiovand/homepage) |

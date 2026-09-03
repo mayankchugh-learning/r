@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 690,200 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 690,230 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 164,716 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 99,190 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 62,088 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -59,8 +59,8 @@
 | [OrbStack](https://github.com/raycast/extensions/tree/main/extensions/orbstack) | 595 | Manage OrbStack with Raycast | nicholasq | macOS | [store](https://www.raycast.com/nicholasq/orbstack) |
 | [Pagespeed](https://github.com/raycast/extensions/tree/main/extensions/pagespeed) | 582 | A simple extension that reports page speed insights based on page-speed.dev | vorillaz | macOS | [store](https://www.raycast.com/vorillaz/pagespeed) |
 | [Kill Node Modules](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) | 561 | Remove selected node_modules | NicolasMontone | macOS, Windows | [store](https://www.raycast.com/NicolasMontone/kill-node-modules) |
+| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 549 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [SABnzbd](https://github.com/raycast/extensions/tree/main/extensions/sabnzbd) | 541 | Manage SABnzbd locally | jns | macOS | [store](https://www.raycast.com/jns/sabnzbd) |
-| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 537 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [Gitpod](https://github.com/raycast/extensions/tree/main/extensions/gitpod) | 472 | A blazingly fast way to work with Gitpod | Henit-Palani | macOS | [store](https://www.raycast.com/Henit-Palani/gitpod) |
 | [Opsgenie](https://github.com/raycast/extensions/tree/main/extensions/opsgenie) | 414 | Manage Opsgenie alerts and incidents. | ricoberger | macOS | [store](https://www.raycast.com/ricoberger/opsgenie) |
 | [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 412 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |

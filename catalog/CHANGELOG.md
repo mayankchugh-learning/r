@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-03 — upstream `afbba4ecf2`
+
+**Updated (1):** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr)
+
 ## 2026-09-03 — upstream `de2b27a92a`
 
 **Updated (1):** [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities)
