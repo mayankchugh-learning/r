@@ -1,6 +1,6 @@
 # General
 
-10 extensions · [← AI & Assistants](./README.md)
+11 extensions · [← AI & Assistants](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -14,3 +14,4 @@
 | [QMD](https://github.com/raycast/extensions/tree/main/extensions/qmd) | 245 | Search your markdown files with QMD (Query Markup Documents) - fast BM25 keyword search, semantic vector search, and hybrid search with LLM reranking | karelvuong | macOS | [store](https://www.raycast.com/karelvuong/qmd) |
 | [SendAI](https://github.com/raycast/extensions/tree/main/extensions/send-ai) | 161 | Your shortcut to everything Solana. At your command bar. | sendai (org) | macOS | [store](https://www.raycast.com/sendai/send-ai) |
 | [Azure Speech TTS](https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension) | 154 | Convert selected text to speech using Azure Speech Services with customizable voices and languages | liualexiang | macOS, Windows | [store](https://www.raycast.com/liualexiang/azure-tts-raycast) |
+| [Arandu](https://github.com/raycast/extensions/tree/main/extensions/arandu) | — | Manage your day in Arandu — today's plan, agenda, habits, tasks, reminders, and your assistant. | luiz_vi | macOS | — |

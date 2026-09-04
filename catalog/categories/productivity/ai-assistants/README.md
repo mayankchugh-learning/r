@@ -1,6 +1,6 @@
 # AI & Assistants
 
-128 extensions · [← Productivity](../README.md)
+129 extensions · [← Productivity](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
@@ -8,6 +8,6 @@
 | [Openai ✦](./openai.md) | 7 |
 | [Claude ✦](./claude.md) | 9 |
 | [Chatgpt ✦](./chatgpt.md) | 4 |
-| [General](./general.md) | 10 |
+| [General](./general.md) | 11 |
 
 *✦ auto-discovered topic group*

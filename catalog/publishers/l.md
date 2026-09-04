@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-78 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+79 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -75,6 +75,7 @@
 | [luiggircardoso](https://www.raycast.com/luiggircardoso) | 1 | 97 | **Fun:** [Cat Images](https://github.com/raycast/extensions/tree/main/extensions/get-cat-images) |
 | [luin](https://www.raycast.com/luin) | 1 | 249 | **Developer Tools:** [Bazinga Tools](https://github.com/raycast/extensions/tree/main/extensions/bazinga-tools) |
 | [luisFilipePT](https://www.raycast.com/luisFilipePT) | 2 | 4,704 | **Documentation:** [shadcn/ui](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui)<br>**Other:** [GitHub Users Search](https://github.com/raycast/extensions/tree/main/extensions/github-users) |
+| luiz_vi | 1 | — | **Productivity:** [Arandu](https://github.com/raycast/extensions/tree/main/extensions/arandu) |
 | [luizkc](https://www.raycast.com/luizkc) | 1 | 78 | **Productivity:** [OSRS Wiki](https://github.com/raycast/extensions/tree/main/extensions/osrs-wiki) |
 | [lukashornych](https://www.raycast.com/lukashornych) | 1 | 7 | **Developer Tools:** [Hole Sandbox Launcher](https://github.com/raycast/extensions/tree/main/extensions/hole-sandbox-launcher) |
 | [luke_esterhuizen](https://www.raycast.com/luke_esterhuizen) | 1 | 265 | **Developer Tools:** [WSL Manager](https://github.com/raycast/extensions/tree/main/extensions/wsl-manager) |

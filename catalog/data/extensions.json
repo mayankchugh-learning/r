@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1cc40188b6aa474f0b1beb26d4c80f53f15f506e",
-  "generatedAt": "2026-09-03T20:52:29.082Z",
-  "downloadsRefreshedAt": "2026-09-03T20:52:28.678Z",
-  "count": 3250,
+  "commit": "91be5b616ab66484b082ddd939d95905db3921da",
+  "generatedAt": "2026-09-04T00:48:35.817Z",
+  "downloadsRefreshedAt": "2026-09-04T00:48:34.757Z",
+  "count": 3251,
   "extensions": [
     {
       "dir": "0x0",
@@ -2664,6 +2664,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/arabic-keyboard",
       "treeSha": "ef44e3d6b79ca26059a0717145a08cedb89a04b8",
       "downloads": 118
+    },
+    {
+      "dir": "arandu",
+      "name": "arandu",
+      "title": "Arandu",
+      "description": "Manage your day in Arandu — today's plan, agenda, habits, tasks, reminders, and your assistant.",
+      "author": "luiz_vi",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/arandu",
+      "treeSha": "540de32b30d159cc51cb62b8f8076d0c51e36aa4",
+      "downloads": null
     },
     {
       "dir": "aranet-co2-monitor",
@@ -9873,7 +9893,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 531817
+      "downloads": 531969
     },
     {
       "dir": "color-shades",
@@ -22289,7 +22309,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 514059
+      "downloads": 514165
     },
     {
       "dir": "google-chrome-profiles",
@@ -28632,7 +28652,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 690814
+      "downloads": 690963
     },
     {
       "dir": "kimai",
