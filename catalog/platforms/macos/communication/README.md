@@ -1,8 +1,8 @@
 # macOS · Communication
 
-150 extensions · [← macOS](../README.md)
+151 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (28) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (23) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (53)
+[Messaging & Chat](#messaging-chat) (28) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (23) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (54)
 
 ## Conversations
 
@@ -208,4 +208,5 @@
 | [Zenblog](https://github.com/raycast/extensions/tree/main/extensions/zenblog) | 4 | A tiny blogging CMS | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zenblog) |
 | [Manglish Keyboard](https://github.com/raycast/extensions/tree/main/extensions/manglish-keyboard) | 3 | Write in Manglish — transliterate English phonetics to Malayalam script. | mohammed_sherin_mohammed | macOS, Windows | [store](https://www.raycast.com/mohammed_sherin_mohammed/manglish-keyboard) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 2 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
+| [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay) | 0 | Send real-time updates to your PushToDisplay boards | pushtodisplay | macOS | [store](https://www.raycast.com/pushtodisplay/pushtodisplay) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

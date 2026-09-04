@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-214 extensions · [← catalog index](../README.md)
+215 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -220,3 +220,4 @@
 | [Portal Wholesale](https://github.com/raycast/extensions/tree/main/extensions/portal-wholesale) | 4 | Search and manage Portal Wholesale brands | nickdichev | macOS | [store](https://www.raycast.com/nickdichev/portal-wholesale) |
 | [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 3 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 2 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
+| [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay) | 0 | Send real-time updates to your PushToDisplay boards | pushtodisplay | macOS | [store](https://www.raycast.com/pushtodisplay/pushtodisplay) |

@@ -1,6 +1,6 @@
 # General
 
-372 extensions · [← Productivity](./README.md)
+373 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -375,4 +375,5 @@
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 3 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 2 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay) | 0 | Send real-time updates to your PushToDisplay boards | pushtodisplay | macOS | [store](https://www.raycast.com/pushtodisplay/pushtodisplay) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | — | Quickly add vocabulary cards to your Joey decks | tai | macOS | — |

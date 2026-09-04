@@ -1,6 +1,6 @@
 # General
 
-46 extensions · [← Communication](./README.md)
+47 extensions · [← Communication](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -49,4 +49,5 @@
 | [Buffer](https://github.com/raycast/extensions/tree/main/extensions/buffer) | 7 | Create posts and ideas in Buffer | buffer (org) | macOS | [store](https://www.raycast.com/buffer/buffer) |
 | [Zenblog](https://github.com/raycast/extensions/tree/main/extensions/zenblog) | 4 | A tiny blogging CMS | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zenblog) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 2 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
+| [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay) | 0 | Send real-time updates to your PushToDisplay boards | pushtodisplay | macOS | [store](https://www.raycast.com/pushtodisplay/pushtodisplay) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
