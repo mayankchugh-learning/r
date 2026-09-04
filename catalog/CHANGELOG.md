@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-04 — upstream `6b7c1bd3c5`
+
+**Updated (1):** [KnowYourMeme](https://github.com/raycast/extensions/tree/main/extensions/knowyourmeme)
+
 ## 2026-09-04 — upstream `613c30f00d`
 
 **Updated (1):** [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool)

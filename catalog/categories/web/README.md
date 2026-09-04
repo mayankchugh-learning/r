@@ -1,14 +1,14 @@
 # Web
 
-467 extensions · [← all categories](../README.md)
+468 extensions · [← all categories](../README.md)
 
-macOS: 466 · Windows: 139
+macOS: 467 · Windows: 140
 
 ## Browse & Search
 
 | Topic | Extensions |
 | --- | --- |
-| [Search Engines](./search-engines.md) | 162 |
+| [Search Engines](./search-engines.md) | 163 |
 | [Browsers & Tabs](./browsers-tabs.md) | 8 |
 | [Bookmarks & Read Later](./bookmarks-read-later.md) | 6 |
 

@@ -1,8 +1,8 @@
 # Search Engines
 
-162 extensions · [← Web](./README.md)
+163 extensions · [← Web](./README.md)
 
-[Bookmarks ✦](#bookmarks) (17) · [Tabs ✦](#tabs) (4) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Explore ✦](#explore) (4) · [Public ✦](#public) (4) · [General](#general) (90)
+[Bookmarks ✦](#bookmarks) (17) · [Tabs ✦](#tabs) (4) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Explore ✦](#explore) (4) · [Public ✦](#public) (4) · [General](#general) (91)
 
 *✦ auto-discovered topic group*
 
@@ -165,6 +165,7 @@
 | [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 895 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
 | [CSS Tricks](https://github.com/raycast/extensions/tree/main/extensions/css-tricks) | 867 | Search on CSS Tricks | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/css-tricks) |
 | [Search RubyGems](https://github.com/raycast/extensions/tree/main/extensions/search-rubygems) | 859 | A Raycast extension that enables you to quickly look up gem information from RubyGems.org. | aleks | macOS | [store](https://www.raycast.com/aleks/search-rubygems) |
+| [KnowYourMeme](https://github.com/raycast/extensions/tree/main/extensions/knowyourmeme) | 726 | Search KnowYourMeme.com and view meme details from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/knowyourmeme) |
 | [DuckDuckGo Image Search](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-image-search) | 676 | Search Images inside Raycast by DuckDuckGo Image! | jag-k | macOS, Windows | [store](https://www.raycast.com/jag-k/duckduckgo-image-search) |
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 616 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [VueUse Functions](https://github.com/raycast/extensions/tree/main/extensions/vueuse-functions) | 557 | Search VueUse functions | noopurphalak | macOS | [store](https://www.raycast.com/noopurphalak/vueuse-functions) |

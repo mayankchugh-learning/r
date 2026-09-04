@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "613c30f00d1136f5dd56e9aed4d1a10dd16568e7",
-  "generatedAt": "2026-09-04T05:25:40.621Z",
-  "downloadsRefreshedAt": "2026-09-04T05:25:40.299Z",
+  "commit": "6b7c1bd3c5a4da68d63fe8599fcda9695ae4cdd8",
+  "generatedAt": "2026-09-04T05:58:36.778Z",
+  "downloadsRefreshedAt": "2026-09-04T05:58:35.824Z",
   "count": 3251,
   "extensions": [
     {
@@ -9893,7 +9893,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 532160
+      "downloads": 532185
     },
     {
       "dir": "color-shades",
@@ -22309,7 +22309,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 514315
+      "downloads": 514330
     },
     {
       "dir": "google-chrome-profiles",
@@ -28652,7 +28652,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 691142
+      "downloads": 691167
     },
     {
       "dir": "kimai",
@@ -28891,12 +28891,13 @@
       "dir": "knowyourmeme",
       "name": "knowyourmeme",
       "title": "KnowYourMeme",
-      "description": "Search KnowYourMeme.com memes directly from Raycast and get details!",
+      "description": "Search KnowYourMeme.com and view meme details from Raycast",
       "author": "muhammadrizo",
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Fun"
+        "Fun",
+        "Web"
       ],
       "manifestCategorized": true,
       "platforms": [
@@ -28905,7 +28906,7 @@
       ],
       "store": "https://www.raycast.com/muhammadrizo/knowyourmeme",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/knowyourmeme",
-      "treeSha": "86c2a73c15696758eb242160233e4eadc769e089",
+      "treeSha": "01d7eb37ece4b9672bd0a533126795b5ae3842ec",
       "downloads": 726
     },
     {
