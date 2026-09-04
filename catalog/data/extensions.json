@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e654790081785bf9e8d2ff2e97eed3ca7b30938c",
-  "generatedAt": "2026-09-04T08:31:40.511Z",
-  "downloadsRefreshedAt": "2026-09-04T08:31:40.126Z",
+  "commit": "b7472bfd39cadede0ea32805043d379d2d627fbb",
+  "generatedAt": "2026-09-04T15:29:39.853Z",
+  "downloadsRefreshedAt": "2026-09-04T15:29:39.459Z",
   "count": 3253,
   "extensions": [
     {
@@ -9893,7 +9893,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 532307
+      "downloads": 532807
     },
     {
       "dir": "color-shades",
@@ -22309,7 +22309,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 514438
+      "downloads": 514778
     },
     {
       "dir": "google-chrome-profiles",
@@ -26272,7 +26272,7 @@
       ],
       "store": "https://www.raycast.com/tai/inoh",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/inoh",
-      "treeSha": "d3ca5eb5ffefdbabf0f961071a32c4e2c549182a",
+      "treeSha": "1de890b959ffd3f734116eeecafc8650f1c6d849",
       "downloads": 6
     },
     {
@@ -28652,7 +28652,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 691302
+      "downloads": 691800
     },
     {
       "dir": "kimai",
@@ -47641,7 +47641,7 @@
       "store": "https://www.raycast.com/massimiliano_pasquini/raycast-ollama",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama",
       "treeSha": "032d1e3b5894c4b9ca1fa4a563d4549ca71fee2c",
-      "downloads": 38233
+      "downloads": 38243
     },
     {
       "dir": "raycast-ordbokene",
@@ -51201,10 +51201,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/bendrucker/screens",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/screens",
       "treeSha": "efa27a3234387f1c70ab1f789610fbb8f8a5c782",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "screenshot",

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,147,183 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,147,683 |
 | 2 | [raycast](./id/raycast.md) | 11 | 812,689 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 691,302 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 514,438 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 691,800 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 514,778 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 451,691 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 446,945 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 417,505 |
@@ -69,7 +69,7 @@
 | 59 | [degouville](https://www.raycast.com/degouville) | 4 | 42,924 |
 | 60 | [1weiho](https://www.raycast.com/1weiho) | 6 | 41,200 |
 | 61 | [anwarulislam](https://www.raycast.com/anwarulislam) | 1 | 38,689 |
-| 62 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 38,611 |
+| 62 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 38,621 |
 | 63 | [DanielSinclair](https://www.raycast.com/DanielSinclair) | 1 | 37,793 |
 | 64 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 37,717 |
 | 65 | [eggsy](https://www.raycast.com/eggsy) | 5 | 37,536 |
@@ -2170,11 +2170,11 @@
 | 2160 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
 | 2161 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2162 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2163 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2164 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2165 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2166 | [pushtodisplay](https://www.raycast.com/pushtodisplay) | 1 | 0 |
-| 2167 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2168 | github-next | 2 | — |
-| 2169 | bendrucker | 1 | — |
+| 2163 | [bendrucker](https://www.raycast.com/bendrucker) | 1 | 0 |
+| 2164 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2165 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2166 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2167 | [pushtodisplay](https://www.raycast.com/pushtodisplay) | 1 | 0 |
+| 2168 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2169 | github-next | 2 | — |
 | 2170 | multi | 1 | — |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-04 — upstream `b7472bfd39`
+
+**Updated (1):** [Inoh](https://github.com/raycast/extensions/tree/main/extensions/inoh)
+
 ## 2026-09-04 — upstream `e654790081`
 
 **Updated (1):** [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama)

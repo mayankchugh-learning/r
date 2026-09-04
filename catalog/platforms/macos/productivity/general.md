@@ -510,6 +510,6 @@
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
 | [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay) | 0 | Send real-time updates to your PushToDisplay boards | pushtodisplay | macOS | [store](https://www.raycast.com/pushtodisplay/pushtodisplay) |
+| [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) | 0 | Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections | bendrucker | macOS | [store](https://www.raycast.com/bendrucker/screens) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | — | Quickly add vocabulary cards to your Joey decks | tai | macOS | — |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
-| [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) | — | Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections | bendrucker | macOS | — |
