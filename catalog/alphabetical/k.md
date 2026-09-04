@@ -2,11 +2,11 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · **K** · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-58 extensions · [← catalog index](../README.md)
+59 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 692,131 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 692,135 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 8,880 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
 | [Keyboard Brightness](https://github.com/raycast/extensions/tree/main/extensions/keyboard-brightness) | 8,144 | Easily Control Keyboard Brightness on your Apple Silicon MacBook | huzef44 | macOS | [store](https://www.raycast.com/huzef44/keyboard-brightness) |
 | [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 6,611 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
@@ -64,3 +64,4 @@
 | [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit) | 4 | Offline microphone dictation powered by the Kesha Voice Kit CLI. Records locally, transcribes locally, and copies text to your clipboard. | drakulavich | macOS | [store](https://www.raycast.com/drakulavich/kesha-voice-kit) |
 | [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) | 3 | Inspect Kobbe analytics from Raycast. | michael_Andreuzza | macOS, Windows | [store](https://www.raycast.com/michael_andreuzza/kobbe) |
 | [Kofa](https://github.com/raycast/extensions/tree/main/extensions/kofa) | 2 | Quickly capture tasks into Kofa, the minimalist todo and day planner. | petar_yovkov | macOS, Windows | [store](https://www.raycast.com/petar_yovkov/kofa) |
+| [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub) | 0 | Control your Kuando Busylight through the kuandoHUB HTTP API | lyager | macOS | [store](https://www.raycast.com/lyager/kuandohub) |

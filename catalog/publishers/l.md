@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-79 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+80 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -84,4 +84,5 @@
 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,835 | **Developer Tools:** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) |
 | [luobin](https://www.raycast.com/luobin) | 1 | 7 | **Productivity:** [Ego Lite](https://github.com/raycast/extensions/tree/main/extensions/ego-lite) |
 | [luolei](https://www.raycast.com/luolei) | 2 | 2,543 | **Web:** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep), [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) |
+| [lyager](https://www.raycast.com/lyager) | 1 | 0 | **Communication:** [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub) |
 | [lzybiasia](https://www.raycast.com/lzybiasia) | 1 | 108 | **Uncategorized:** [Expand Video Canvas](https://github.com/raycast/extensions/tree/main/extensions/expand-video-canvas) |

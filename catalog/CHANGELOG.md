@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-04 — upstream `83e2392ae0`
+
+**Added (1):** [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub)
+
 ## 2026-09-04 — upstream `72679e20fa`
 
 **Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
