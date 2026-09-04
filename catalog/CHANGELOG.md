@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-04 — upstream `e654790081`
+
+**Updated (1):** [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama)
+
 ## 2026-09-04 — upstream `684a7cfe41`
 
 **Added (1):** [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens)
