@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1c477d15667b5e5aa19421338c671718a0a5ae81",
-  "generatedAt": "2026-09-04T16:34:31.337Z",
-  "downloadsRefreshedAt": "2026-09-04T16:34:30.400Z",
+  "commit": "8a9cc335875faac463995b510564e5a7053b6885",
+  "generatedAt": "2026-09-04T19:52:37.789Z",
+  "downloadsRefreshedAt": "2026-09-04T19:52:36.815Z",
   "count": 3253,
   "extensions": [
     {
@@ -9893,7 +9893,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 532905
+      "downloads": 533110
     },
     {
       "dir": "color-shades",
@@ -22309,7 +22309,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 514838
+      "downloads": 514979
     },
     {
       "dir": "google-chrome-profiles",
@@ -28652,7 +28652,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 691893
+      "downloads": 692082
     },
     {
       "dir": "kimai",
@@ -39350,7 +39350,7 @@
       ],
       "store": "https://www.raycast.com/keito4/onecal-unified-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/onecal-unified-calendar",
-      "treeSha": "0151344948b770cba79712448271b02721f3847d",
+      "treeSha": "b6fad75dd1d6d35e8bd279025da1020524d6ea71",
       "downloads": 5
     },
     {
