@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 67,218 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
-| [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) | 10,085 | Disable notifications on your Apple devices | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/do-not-disturb) |
+| [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 67,311 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
+| [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) | 10,095 | Disable notifications on your Apple devices | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/do-not-disturb) |
 | [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) | 479 | Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. S… | guelug | macOS | [store](https://www.raycast.com/guelug/seo-lighthouse) |
 | [Tapo Smart Devices](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices) | 437 | Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes | timrogers | macOS, Windows | [store](https://www.raycast.com/timrogers/raycast-tapo-smart-devices) |
 | [Homey](https://github.com/raycast/extensions/tree/main/extensions/homey) | 429 | Homey Flows & Devices | DominicVonk | macOS, Windows | [store](https://www.raycast.com/DominicVonk/homey) |

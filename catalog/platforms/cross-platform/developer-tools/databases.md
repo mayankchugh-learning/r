@@ -7,6 +7,6 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 167 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 150 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 156 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
 | [Prisma Postgres](https://github.com/raycast/extensions/tree/main/extensions/prisma-postgres) | 106 | Create and manage Prisma Postgres databases instantly with zero setup | amanvarshney01 | macOS, Windows | [store](https://www.raycast.com/amanvarshney01/prisma-postgres) |
-| [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) | 1 | Connect to MySQL databases — run queries, browse schema, and manage multiple connection profiles. | itggood2420 | macOS, Windows | [store](https://www.raycast.com/itggood2420/mysql) |
+| [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) | 6 | Connect to MySQL databases — run queries, browse schema, and manage multiple connection profiles. | itggood2420 | macOS, Windows | [store](https://www.raycast.com/itggood2420/mysql) |

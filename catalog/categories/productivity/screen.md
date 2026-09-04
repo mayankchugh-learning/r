@@ -6,13 +6,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 28,100 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
-| [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime) | 14,322 | Start screen recording, movie recording and sound recording instantly. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/quicktime) |
-| [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,597 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
-| [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,208 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
+| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 28,124 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
+| [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime) | 14,335 | Start screen recording, movie recording and sound recording instantly. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/quicktime) |
+| [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,609 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
+| [PiP](https://github.com/raycast/extensions/tree/main/extensions/pip) | 2,210 | Watch video in Picture in Picture or Full Screen mode | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pip) |
 | [Dock](https://github.com/raycast/extensions/tree/main/extensions/dock) | 1,983 | Change the dock's position to the left, right, or bottom edge of the screen. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/dock) |
-| [Screen Math](https://github.com/raycast/extensions/tree/main/extensions/screen-math) | 752 | Perform rapid calculations using numbers on your screen | hcancelik | macOS | [store](https://www.raycast.com/hcancelik/screen-math) |
+| [Screen Math](https://github.com/raycast/extensions/tree/main/extensions/screen-math) | 754 | Perform rapid calculations using numbers on your screen | hcancelik | macOS | [store](https://www.raycast.com/hcancelik/screen-math) |
 | [KeyRaycast](https://github.com/raycast/extensions/tree/main/extensions/keyraycast) | 226 | Show keystrokes on screen — a modern KeyCastr alternative as a Raycast extension | benostein | macOS | [store](https://www.raycast.com/benostein/keyraycast) |
-| [Android Screen Capture](https://github.com/raycast/extensions/tree/main/extensions/android-screen-capture) | 220 | Screenshot & screenrecords of Android via ADB | chenhuazhao | macOS | [store](https://www.raycast.com/chenhuazhao/android-screen-capture) |
-| [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 108 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
-| [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) | 0 | Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections | bendrucker | macOS | [store](https://www.raycast.com/bendrucker/screens) |
+| [Android Screen Capture](https://github.com/raycast/extensions/tree/main/extensions/android-screen-capture) | 222 | Screenshot & screenrecords of Android via ADB | chenhuazhao | macOS | [store](https://www.raycast.com/chenhuazhao/android-screen-capture) |
+| [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 113 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
+| [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) | 2 | Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections | bendrucker | macOS | [store](https://www.raycast.com/bendrucker/screens) |

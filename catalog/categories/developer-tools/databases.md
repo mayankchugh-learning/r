@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 992 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
+| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 995 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
 | [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 674 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
 | [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) | 194 | Quickly search and use Prisma CLI Commands along with command details. | raj_asha | macOS | [store](https://www.raycast.com/raj_asha/prisma-cli-commands) |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 167 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 150 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 156 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
 | [MongoDB ObjectId](https://github.com/raycast/extensions/tree/main/extensions/mongodb-objectid) | 112 | A Raycast extension that transform between MongoDB ObjectId and timestamps. | tssujt | macOS | [store](https://www.raycast.com/tssujt/mongodb-objectid) |
 | [Convex](https://github.com/raycast/extensions/tree/main/extensions/convex) | 110 | Interact with your Convex projects directly from Raycast | devwithbobby | macOS | [store](https://www.raycast.com/devwithbobby/convex) |
 | [Prisma Postgres](https://github.com/raycast/extensions/tree/main/extensions/prisma-postgres) | 106 | Create and manage Prisma Postgres databases instantly with zero setup | amanvarshney01 | macOS, Windows | [store](https://www.raycast.com/amanvarshney01/prisma-postgres) |
@@ -18,4 +18,4 @@
 | [Perry](https://github.com/raycast/extensions/tree/main/extensions/perry) | 61 | Execute SQL queries on PostgreSQL databases | vmotta8 | macOS | [store](https://www.raycast.com/vmotta8/perry) |
 | [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) | 59 | Extract, save, and organize Notion page and database IDs from the focused browser tab or clipboard. | sam.dsgn | macOS | [store](https://www.raycast.com/Sam.Dsgn/notion-url-to-id) |
 | [Shopinfo.app](https://github.com/raycast/extensions/tree/main/extensions/shopinfo-app) | 39 | Identify Shopify themes from your current browser tab using shopinfo.app's database | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopinfo-app) |
-| [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) | 1 | Connect to MySQL databases — run queries, browse schema, and manage multiple connection profiles. | itggood2420 | macOS, Windows | [store](https://www.raycast.com/itggood2420/mysql) |
+| [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) | 6 | Connect to MySQL databases — run queries, browse schema, and manage multiple connection profiles. | itggood2420 | macOS, Windows | [store](https://www.raycast.com/itggood2420/mysql) |
