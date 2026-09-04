@@ -2,7 +2,7 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · **General**
 
-78 of 254 extensions · [← macOS · System](./README.md)
+79 of 255 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -84,3 +84,4 @@
 | [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | 29 | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
 | [MirAIe AC Control](https://github.com/raycast/extensions/tree/main/extensions/miraie-ac-control) | 11 | Control Panasonic MirAIe air conditioners from Raycast. | ayush_saini | macOS | [store](https://www.raycast.com/ayush_saini/miraie-ac-control) |
 | [Slurm](https://github.com/raycast/extensions/tree/main/extensions/slurm) | 5 | Manage Slurm jobs across multiple clusters and inspect utilization from Raycast | p-koenig | macOS | [store](https://www.raycast.com/p-koenig/slurm) |
+| [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) | — | Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections | bendrucker | macOS | — |

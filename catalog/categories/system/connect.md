@@ -1,6 +1,6 @@
 # Connect ✦
 
-6 extensions · [← System](./README.md)
+7 extensions · [← System](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -12,3 +12,4 @@
 | [Connect Pritunl Vpn Tunnel](https://github.com/raycast/extensions/tree/main/extensions/pritunl) | 127 | Connects to VPN using Pritunl client | maksym_prokopov | macOS | [store](https://www.raycast.com/maksym_prokopov/pritunl) |
 | [V2BOX VPN](https://github.com/raycast/extensions/tree/main/extensions/v2box-control) | 34 | Connect, disconnect, and check the status of your V2BOX VPN connection. | vanish2000 | macOS | [store](https://www.raycast.com/vanish2000/v2box-control) |
 | [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) | 29 | Manage your Viscosity VPN connections directly from Raycast: list, connect, and disconnect with ease. | yigitefe | macOS | [store](https://www.raycast.com/yigitefe/viscosity) |
+| [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) | — | Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections | bendrucker | macOS | — |

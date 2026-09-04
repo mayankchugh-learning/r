@@ -1,6 +1,6 @@
 # macOS · Productivity
 
-1463 extensions · [← macOS](../README.md)
+1464 extensions · [← macOS](../README.md)
 
 ## Organize & Plan
 
@@ -37,4 +37,4 @@
 | [Team & Business Tools](./team-business-tools.md) | 17 |
 | [Trackers & Monitors](./trackers-monitors.md) | 36 |
 
-Plus [General](./general.md) — 506 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 507 extensions that don't fit a topic yet.

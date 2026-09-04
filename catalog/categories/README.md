@@ -6,7 +6,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 1478 |
+| [Productivity](./productivity/README.md) | 1479 |
 | [Applications](./applications/README.md) | 382 |
 | [Communication](./communication/README.md) | 153 |
 
@@ -39,7 +39,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [System](./system/README.md) | 268 |
+| [System](./system/README.md) | 269 |
 | [Other](./other/README.md) | 187 |
 
 ### Fun & Entertainment

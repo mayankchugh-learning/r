@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-04 — upstream `684a7cfe41`
+
+**Added (1):** [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens)
+
 ## 2026-09-04 — upstream `849a5fc0b9`
 
 **Added (1):** [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay)

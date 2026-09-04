@@ -1,6 +1,6 @@
 # Screen ✦
 
-9 extensions · [← Productivity](./README.md)
+10 extensions · [← Productivity](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -15,3 +15,4 @@
 | [KeyRaycast](https://github.com/raycast/extensions/tree/main/extensions/keyraycast) | 226 | Show keystrokes on screen — a modern KeyCastr alternative as a Raycast extension | benostein | macOS | [store](https://www.raycast.com/benostein/keyraycast) |
 | [Android Screen Capture](https://github.com/raycast/extensions/tree/main/extensions/android-screen-capture) | 220 | Screenshot & screenrecords of Android via ADB | chenhuazhao | macOS | [store](https://www.raycast.com/chenhuazhao/android-screen-capture) |
 | [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 108 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
+| [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) | — | Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections | bendrucker | macOS | — |

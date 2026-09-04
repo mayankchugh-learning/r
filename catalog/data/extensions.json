@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "849a5fc0b9a42dfc549b1cf2cb3848cd50065929",
-  "generatedAt": "2026-09-04T08:04:45.252Z",
-  "downloadsRefreshedAt": "2026-09-04T08:04:44.859Z",
-  "count": 3252,
+  "commit": "684a7cfe41c9d191d8f97b454a760e09d67c3dc1",
+  "generatedAt": "2026-09-04T08:28:21.826Z",
+  "downloadsRefreshedAt": "2026-09-04T08:28:20.950Z",
+  "count": 3253,
   "extensions": [
     {
       "dir": "0x0",
@@ -9893,7 +9893,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 532288
+      "downloads": 532304
     },
     {
       "dir": "color-shades",
@@ -22309,7 +22309,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 514422
+      "downloads": 514436
     },
     {
       "dir": "google-chrome-profiles",
@@ -28652,7 +28652,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 691281
+      "downloads": 691299
     },
     {
       "dir": "kimai",
@@ -51184,6 +51184,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/screenpipe",
       "treeSha": "3046b0f25237de2da5e96cb63f6fb761178669dc",
       "downloads": 164
+    },
+    {
+      "dir": "screens",
+      "name": "screens",
+      "title": "Screens",
+      "description": "Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections",
+      "author": "bendrucker",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/screens",
+      "treeSha": "efa27a3234387f1c70ab1f789610fbb8f8a5c782",
+      "downloads": null
     },
     {
       "dir": "screenshot",
