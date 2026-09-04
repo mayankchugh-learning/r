@@ -1,6 +1,6 @@
 # xmok
 
-114 extensions · 11,998 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+114 extensions · 12,006 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (22)
 
@@ -21,14 +21,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 503 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
+| [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 504 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
 | [Host.io](https://github.com/raycast/extensions/tree/main/extensions/host-io) | 46 | A Powerful and Fast Domain Name Data API | xmok | macOS | [store](https://www.raycast.com/xmok/host-io) |
 
 ### Health, Nature & Science
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Horoscope](https://github.com/raycast/extensions/tree/main/extensions/horoscope) | 295 | Get Daily, Weekly or Monthly Horoscope by Sign | xmok | macOS | [store](https://www.raycast.com/xmok/horoscope) |
+| [Horoscope](https://github.com/raycast/extensions/tree/main/extensions/horoscope) | 296 | Get Daily, Weekly or Monthly Horoscope by Sign | xmok | macOS | [store](https://www.raycast.com/xmok/horoscope) |
 
 ### Business & Databases
 
@@ -42,7 +42,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [A Song of Ice and Fire](https://github.com/raycast/extensions/tree/main/extensions/asoiaf) | 64 | Explore Books, Characters and Houses in the ASOIAF/GoT Universe | xmok | macOS | [store](https://www.raycast.com/xmok/asoiaf) |
+| [A Song of Ice and Fire](https://github.com/raycast/extensions/tree/main/extensions/asoiaf) | 65 | Explore Books, Characters and Houses in the ASOIAF/GoT Universe | xmok | macOS | [store](https://www.raycast.com/xmok/asoiaf) |
 
 ### Files & Archives
 
@@ -61,7 +61,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 444 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
-| [Cocktail DB](https://github.com/raycast/extensions/tree/main/extensions/cocktail-db) | 143 | Search Drinks by Name or Ingredient via TheCocktailDB | xmok | macOS | [store](https://www.raycast.com/xmok/cocktail-db) |
+| [Cocktail DB](https://github.com/raycast/extensions/tree/main/extensions/cocktail-db) | 144 | Search Drinks by Name or Ingredient via TheCocktailDB | xmok | macOS | [store](https://www.raycast.com/xmok/cocktail-db) |
 | [FBI](https://github.com/raycast/extensions/tree/main/extensions/fbi) | 94 | Get listing of wanted people and art crimes | xmok | macOS | [store](https://www.raycast.com/xmok/fbi) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 43 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |
 
@@ -69,7 +69,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [The Nobel Prize](https://github.com/raycast/extensions/tree/main/extensions/the-nobel-prize) | 75 | Information about the Nobel Prizes and the Nobel Prize Laureates | xmok | macOS | [store](https://www.raycast.com/xmok/the-nobel-prize) |
+| [The Nobel Prize](https://github.com/raycast/extensions/tree/main/extensions/the-nobel-prize) | 76 | Information about the Nobel Prizes and the Nobel Prize Laureates | xmok | macOS | [store](https://www.raycast.com/xmok/the-nobel-prize) |
 | [Potter DB](https://github.com/raycast/extensions/tree/main/extensions/potter-db) | 74 | Dive into the magical world of Harry Potter via Potter DB. | xmok | macOS | [store](https://www.raycast.com/xmok/potter-db) |
 | [Groundhog Day](https://github.com/raycast/extensions/tree/main/extensions/groundhog-day) | 23 | Free, accurate, and portable data on prognosticating groundhogs and their yearly predictions | xmok | macOS | [store](https://www.raycast.com/xmok/groundhog-day) |
 | [Youform](https://github.com/raycast/extensions/tree/main/extensions/youform) | 21 | The most affordable Typeform alternative | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/youform) |
@@ -149,7 +149,7 @@
 | [MXroute](https://github.com/raycast/extensions/tree/main/extensions/mxroute) | 23 | Email hosting for your domains | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/mxroute) |
 | [Inbound](https://github.com/raycast/extensions/tree/main/extensions/inbound) | 20 | Email API for Developers - Send, Receive & Reply | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/inbound) |
 | [SendPortal](https://github.com/raycast/extensions/tree/main/extensions/sendportal) | 13 | Open Source Email Marketing Software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendportal) |
-| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 9 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
+| [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 10 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 
 ### Social & Fediverse
 
@@ -198,7 +198,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Useless Facts](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) | 594 | Get useless, but true facts | xmok | macOS | [store](https://www.raycast.com/xmok/useless-facts) |
+| [Useless Facts](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) | 595 | Get useless, but true facts | xmok | macOS | [store](https://www.raycast.com/xmok/useless-facts) |
 | [Jokes](https://github.com/raycast/extensions/tree/main/extensions/jokes) | 267 | Get up to 10 jokes at a time from a variety of categories. | xmok | macOS | [store](https://www.raycast.com/xmok/jokes) |
 | [Rick and Morty](https://github.com/raycast/extensions/tree/main/extensions/rick-and-morty) | 109 | Access characters, images, locations and episodes from the television show "Rick and Morty" | xmok | macOS | [store](https://www.raycast.com/xmok/rick-and-morty) |
 | [The Lord of the Rings](https://github.com/raycast/extensions/tree/main/extensions/lotr) | 92 | Books, Characters, Movies and Quotes via The One API | xmok | macOS | [store](https://www.raycast.com/xmok/lotr) |
@@ -235,7 +235,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 380 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
+| [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 381 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
 
 ## Media (1)
 

@@ -20,8 +20,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Subwatch](https://github.com/raycast/extensions/tree/main/extensions/subwatch) | 117 | Turn subscription chaos into financial harmony | nirgn | macOS | [store](https://www.raycast.com/nirgn/subwatch) |
-| [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 84 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
+| [Subwatch](https://github.com/raycast/extensions/tree/main/extensions/subwatch) | 118 | Turn subscription chaos into financial harmony | nirgn | macOS | [store](https://www.raycast.com/nirgn/subwatch) |
+| [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 87 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
 | [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | 79 | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |
 | [Dodo Payments](https://github.com/raycast/extensions/tree/main/extensions/dodo-payments) | 37 | Manage all your Dodo Payments orders, payments, subscriptions, discounts, license keys, disputes, refunds and payouts, right from your keyboard. | dodopayments | macOS | [store](https://www.raycast.com/dodopayments/dodo-payments) |
 
@@ -29,7 +29,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,292 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
+| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,294 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Mercury](https://github.com/raycast/extensions/tree/main/extensions/mercury) | 270 | Quickly see your Mercury accounts and transactions directly in Raycast | atkinsmatt101 | macOS | [store](https://www.raycast.com/atkinsmatt101/mercury) |
 | [Polar](https://github.com/raycast/extensions/tree/main/extensions/polar) | 168 | Manage all your Polar products, sales & analytics | emilwidlund | macOS | [store](https://www.raycast.com/emilwidlund/polar) |
 | [Envato Sales, Purchases and Search](https://github.com/raycast/extensions/tree/main/extensions/envato) | 95 | Tracking New Sales For Envato Author, View Purchases and Search Catalog | astroon | macOS | [store](https://www.raycast.com/astroon/envato) |

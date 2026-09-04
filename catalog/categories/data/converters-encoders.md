@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 90,815 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
-| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 16,180 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
-| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,073 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
+| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 90,881 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
+| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 16,192 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
+| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,075 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [json-to-go](https://github.com/raycast/extensions/tree/main/extensions/json-to-go) | 871 | Translate JSON from clipboard into a Go type definition | chyroc | macOS | [store](https://www.raycast.com/chyroc/json-to-go) |
 | [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) | 583 | Run queries on Json data using jq | vladimir-kotikov | macOS | [store](https://www.raycast.com/vladimir-kotikov/raycast-jq) |
 | [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 579 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |
@@ -22,17 +22,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter) | 8,353 | Convert timestamps and datetime strings into various formats. | yangxy | macOS | [store](https://www.raycast.com/yangxy/date-format-converter) |
-| [Archiver](https://github.com/raycast/extensions/tree/main/extensions/archiver) | 2,810 | An archive tool for compressing or extracting, supporting multiple formats. | JinShi | macOS | [store](https://www.raycast.com/JinShi/archiver) |
-| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 990 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
-| [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) | 572 | Format list of items into an array. | matheus_de_paula_domingos | macOS | [store](https://www.raycast.com/matheus_de_paula_domingos/array-this) |
+| [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter) | 8,358 | Convert timestamps and datetime strings into various formats. | yangxy | macOS | [store](https://www.raycast.com/yangxy/date-format-converter) |
+| [Archiver](https://github.com/raycast/extensions/tree/main/extensions/archiver) | 2,811 | An archive tool for compressing or extracting, supporting multiple formats. | JinShi | macOS | [store](https://www.raycast.com/JinShi/archiver) |
+| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 992 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
+| [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) | 573 | Format list of items into an array. | matheus_de_paula_domingos | macOS | [store](https://www.raycast.com/matheus_de_paula_domingos/array-this) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 37,776 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
-| [Unix Timestamp](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp) | 28,383 | Convert between unix timestamp and human readable form date | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/unix-timestamp) |
+| [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 37,793 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
+| [Unix Timestamp](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp) | 28,399 | Convert between unix timestamp and human readable form date | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/unix-timestamp) |
 | [Hexlify](https://github.com/raycast/extensions/tree/main/extensions/hexlify) | 1,396 | Convert between hex and binary representations | gkpln3 | macOS | [store](https://www.raycast.com/gkpln3/hexlify) |
 | [Base64 to File](https://github.com/raycast/extensions/tree/main/extensions/base64-to-file) | 458 | convert base64 to file | forrestzh | macOS | [store](https://www.raycast.com/forrestzh/base64-to-file) |
 | [Geohash](https://github.com/raycast/extensions/tree/main/extensions/geohash-encode-decode) | 326 | Encode coordinates as geohash, or decode a geohash and get useful info | alrico88 | macOS | [store](https://www.raycast.com/alrico88/geohash-encode-decode) |

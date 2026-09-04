@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 13,452 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
-| [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) | 4,177 | DNS lookup and nameserver query using the built-in host command | danielbahl | macOS | [store](https://www.raycast.com/danielbahl/dig) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 13,462 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [Dig - DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dig) | 4,181 | DNS lookup and nameserver query using the built-in host command | danielbahl | macOS | [store](https://www.raycast.com/danielbahl/dig) |
 | [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) | 336 | Check DNS propagation instantly. | valentin_denis | macOS, Windows | [store](https://www.raycast.com/valentin_denis/dns-lookup) |
 | [FreeDNS](https://github.com/raycast/extensions/tree/main/extensions/freedns) | 205 | View and Change your DNS in freedns.afraid.org | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/freedns) |
 | [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) | 115 | Analyze and visualize HTTP/HTTPS request performance metrics including DNS lookup, TCP connection, TLS handshake, and content transfer times | liluo | macOS | [store](https://www.raycast.com/liluo/httpperf) |
