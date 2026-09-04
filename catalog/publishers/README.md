@@ -8,7 +8,7 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,146,545 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,146,546 |
 | 2 | [raycast](./id/raycast.md) | 11 | 812,052 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 690,963 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 514,165 |
@@ -2171,8 +2171,8 @@
 | 2161 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2162 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2163 | [furkansimsir](https://www.raycast.com/furkansimsir) | 1 | 0 |
-| 2164 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2165 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2166 | github-next | 2 | — |
-| 2167 | luiz_vi | 1 | — |
+| 2164 | [luiz_vi](https://www.raycast.com/luiz_vi) | 1 | 0 |
+| 2165 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2166 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2167 | github-next | 2 | — |
 | 2168 | multi | 1 | — |

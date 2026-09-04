@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 154,363 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,745 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,519 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,146,545 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,146,546 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 306,651 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,877 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 417,227 |
@@ -2172,7 +2172,7 @@
 | 2162 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2163 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2164 | [furkansimsir](https://www.raycast.com/furkansimsir) | 1 | 0 |
-| 2165 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2166 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2167 | luiz_vi | 1 | — |
+| 2165 | [luiz_vi](https://www.raycast.com/luiz_vi) | 1 | 0 |
+| 2166 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2167 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2168 | multi | 1 | — |

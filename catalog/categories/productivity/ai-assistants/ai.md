@@ -1,8 +1,8 @@
 # AI ✦
 
-98 extensions · [← AI & Assistants](./README.md)
+99 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (9) · [Openai ✦](#openai) (7) · [Chat ✦](#chat) (6) · [Prompts ✦](#prompts) (4) · [Questions ✦](#questions) (5) · [General](#general) (51)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (9) · [Openai ✦](#openai) (7) · [Chat ✦](#chat) (6) · [Prompts ✦](#prompts) (4) · [Questions ✦](#questions) (5) · [General](#general) (52)
 
 *✦ auto-discovered topic group*
 
@@ -133,6 +133,7 @@
 | [Bhagavad Gita Quotes](https://github.com/raycast/extensions/tree/main/extensions/bhagavad-gita-quotes) | 8 | Read and search Bhagavad Gita quotes (AI features require Raycast AI). | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/bhagavad-gita-quotes) |
 | [Caaals Food Tracker](https://github.com/raycast/extensions/tree/main/extensions/caaals) | 8 | Log food with AI and browse your diary | chuck-38 | macOS | [store](https://www.raycast.com/chuck-38/caaals) |
 | [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize) | 8 | AI Bookmark Manager For Teams | linkinize (org) | macOS | [store](https://www.raycast.com/linkinize/linkinize) |
+| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 6 | Review AI-tool storage, clean disk space, release memory, uninstall apps, redact files, and undo through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 4 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |
 | [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 3 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 3 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |

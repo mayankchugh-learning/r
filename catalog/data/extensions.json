@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "91be5b616ab66484b082ddd939d95905db3921da",
-  "generatedAt": "2026-09-04T00:48:35.817Z",
-  "downloadsRefreshedAt": "2026-09-04T00:48:34.757Z",
+  "commit": "c267cb7017a4accda412cf24332817f605c172dc",
+  "generatedAt": "2026-09-04T00:49:40.944Z",
+  "downloadsRefreshedAt": "2026-09-04T00:49:40.540Z",
   "count": 3251,
   "extensions": [
     {
@@ -2680,10 +2680,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/luiz_vi/arandu",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/arandu",
       "treeSha": "540de32b30d159cc51cb62b8f8076d0c51e36aa4",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "aranet-co2-monitor",
@@ -9893,7 +9893,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 531969
+      "downloads": 531970
     },
     {
       "dir": "color-shades",
@@ -34595,7 +34595,7 @@
       "dir": "mint-mac-care",
       "name": "mint-mac-care",
       "title": "Mint",
-      "description": "Inspect Mac storage trends, scan reclaimable space, and explain file activity through Mint",
+      "description": "Review AI-tool storage, clean disk space, release memory, uninstall apps, redact files, and undo through Mint",
       "author": "dzg-studio",
       "owner": null,
       "contributors": 0,
@@ -34609,7 +34609,7 @@
       ],
       "store": "https://www.raycast.com/dzg-studio/mint-mac-care",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care",
-      "treeSha": "1d7c283e2e83737a79d17c8729f546d0c8f43f71",
+      "treeSha": "2667f9ae44853efb772c1f4bf0e5d5649a900c67",
       "downloads": 6
     },
     {

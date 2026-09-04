@@ -2,7 +2,7 @@
 
 **Apps & Processes** · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-36 of 254 extensions · [← macOS · System](./README.md)
+37 of 254 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -41,4 +41,5 @@
 | [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) | 22 | Pause and resume macOS applications through the App Freezer native agent. | changxu_song | macOS | [store](https://www.raycast.com/changxu_song/appfreezer) |
 | [Ejection Seat](https://github.com/raycast/extensions/tree/main/extensions/ejection-seat) | 13 | Find the processes and files that may be preventing a disk from ejecting. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/ejection-seat) |
 | [Portreaper](https://github.com/raycast/extensions/tree/main/extensions/portreaper) | 7 | Find and kill orphaned dev-server processes — the same classification engine as the Portreaper desktop app. | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/portreaper) |
+| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 6 | Review AI-tool storage, clean disk space, release memory, uninstall apps, redact files, and undo through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 4 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |

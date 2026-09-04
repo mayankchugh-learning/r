@@ -8,8 +8,8 @@ macOS: 254 · Windows: 46
 
 | Topic | Extensions |
 | --- | --- |
-| [Apps & Processes](./apps-processes.md) | 40 |
-| [Window & Desktop Management](./window-desktop-management.md) | 38 |
+| [Apps & Processes](./apps-processes.md) | 41 |
+| [Window & Desktop Management](./window-desktop-management.md) | 37 |
 
 ## Hardware & Output
 

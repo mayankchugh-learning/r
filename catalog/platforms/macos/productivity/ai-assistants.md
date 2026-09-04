@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-128 of 1462 extensions · [← macOS · Productivity](./README.md)
+129 of 1462 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -127,10 +127,11 @@
 | [Caaals Food Tracker](https://github.com/raycast/extensions/tree/main/extensions/caaals) | 8 | Log food with AI and browse your diary | chuck-38 | macOS | [store](https://www.raycast.com/chuck-38/caaals) |
 | [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize) | 8 | AI Bookmark Manager For Teams | linkinize (org) | macOS | [store](https://www.raycast.com/linkinize/linkinize) |
 | [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 7 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
+| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 6 | Review AI-tool storage, clean disk space, release memory, uninstall apps, redact files, and undo through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 4 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |
 | [Plaud](https://github.com/raycast/extensions/tree/main/extensions/plaud) | 3 | Browse your Plaud AI recorder notes and copy links to them | patricklenz | macOS | [store](https://www.raycast.com/patricklenz/plaud) |
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 3 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
 | [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 2 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 2 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
-| [Arandu](https://github.com/raycast/extensions/tree/main/extensions/arandu) | — | Manage your day in Arandu — today's plan, agenda, habits, tasks, reminders, and your assistant. | luiz_vi | macOS | — |
+| [Arandu](https://github.com/raycast/extensions/tree/main/extensions/arandu) | 0 | Manage your day in Arandu — today's plan, agenda, habits, tasks, reminders, and your assistant. | luiz_vi | macOS | [store](https://www.raycast.com/luiz_vi/arandu) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |

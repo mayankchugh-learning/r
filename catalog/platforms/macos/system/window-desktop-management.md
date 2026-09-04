@@ -2,7 +2,7 @@
 
 [Apps & Processes](./apps-processes.md) · **Window & Desktop Management** · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-30 of 254 extensions · [← macOS · System](./README.md)
+29 of 254 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -34,5 +34,4 @@
 | [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | 56 | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |
 | [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | 43 | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | [store](https://www.raycast.com/tickmao/new-finder-window) |
 | [Lockdock](https://github.com/raycast/extensions/tree/main/extensions/lockdock) | 42 | Lock the macOS Dock to a specific display | mishamyrt | macOS | [store](https://www.raycast.com/mishamyrt/lockdock) |
-| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 6 | Inspect Mac storage trends, scan reclaimable space, and explain file activity through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 6 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |

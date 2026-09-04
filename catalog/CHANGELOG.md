@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-04 — upstream `c267cb7017`
+
+**Updated (1):** [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care)
+
 ## 2026-09-04 — upstream `91be5b616a`
 
 **Added (1):** [Arandu](https://github.com/raycast/extensions/tree/main/extensions/arandu)

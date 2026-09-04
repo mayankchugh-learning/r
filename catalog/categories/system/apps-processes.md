@@ -1,8 +1,8 @@
 # Apps & Processes
 
-40 extensions · [← System](./README.md)
+41 extensions · [← System](./README.md)
 
-[Processes ✦](#processes) (6) · [Window ✦](#window) (5) · [General](#general) (29)
+[Processes ✦](#processes) (6) · [Window ✦](#window) (5) · [General](#general) (30)
 
 *✦ auto-discovered topic group*
 
@@ -59,4 +59,5 @@
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 43 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 | [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) | 22 | Pause and resume macOS applications through the App Freezer native agent. | changxu_song | macOS | [store](https://www.raycast.com/changxu_song/appfreezer) |
 | [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller) | 19 | List installed software and batch uninstall it through BC Uninstaller from Raycast | sansaxena789 | Windows | [store](https://www.raycast.com/sansaxena789/bcuninstaller) |
+| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 6 | Review AI-tool storage, clean disk space, release memory, uninstall apps, redact files, and undo through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 4 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |

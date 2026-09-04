@@ -1,8 +1,8 @@
 # Window & Desktop Management
 
-38 extensions · [← System](./README.md)
+37 extensions · [← System](./README.md)
 
-[Windows ✦](#windows) (15) · [Bar ✦](#bar) (8) · [Space ✦](#space) (7) · [Dock ✦](#dock) (4) · [General](#general) (4)
+[Windows ✦](#windows) (15) · [Bar ✦](#bar) (8) · [Space ✦](#space) (6) · [Dock ✦](#dock) (4) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
@@ -48,7 +48,6 @@
 | [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner) | 181 | Scan and clean developer caches, build artifacts, and orphaned dependencies to reclaim disk space | Undolog | macOS | [store](https://www.raycast.com/Undolog/dev-cache-cleaner) |
 | [Spacer](https://github.com/raycast/extensions/tree/main/extensions/spacer) | 134 | Name your spaces & more... | jd-solanki | macOS | [store](https://www.raycast.com/jd-solanki/spacer) |
 | [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | 56 | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |
-| [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 6 | Inspect Mac storage trends, scan reclaimable space, and explain file activity through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) | 6 | Track how much time you spend in each macOS space, with inactivity detection and CSV export. | olivier_bossel | macOS | [store](https://www.raycast.com/olivier_bossel/spacetime-tracking) |
 
 ## Dock ✦

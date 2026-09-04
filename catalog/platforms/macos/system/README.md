@@ -6,8 +6,8 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [Apps & Processes](./apps-processes.md) | 36 |
-| [Window & Desktop Management](./window-desktop-management.md) | 30 |
+| [Apps & Processes](./apps-processes.md) | 37 |
+| [Window & Desktop Management](./window-desktop-management.md) | 29 |
 
 ## Hardware & Output
 
