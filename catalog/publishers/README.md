@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,148,552 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,148,605 |
 | 2 | [raycast](./id/raycast.md) | 11 | 813,510 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 692,082 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 514,979 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 692,131 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 515,015 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 452,054 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 447,323 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 417,902 |
@@ -289,8 +289,8 @@
 | 279 | [alewandowski](https://www.raycast.com/alewandowski) | 2 | 4,044 |
 | 280 | [sbugzhu](https://www.raycast.com/sbugzhu) | 1 | 4,037 |
 | 281 | [stevensd2m](https://www.raycast.com/stevensd2m) | 2 | 4,031 |
-| 282 | [ozencb](https://www.raycast.com/ozencb) | 1 | 4,017 |
-| 283 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,012 |
+| 282 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,018 |
+| 283 | [ozencb](https://www.raycast.com/ozencb) | 1 | 4,017 |
 | 284 | [skydiver](https://www.raycast.com/skydiver) | 1 | 3,972 |
 | 285 | [SuoweiHu](https://www.raycast.com/SuoweiHu) | 5 | 3,967 |
 | 286 | [andreaselia](./id/andreaselia.md) | 10 | 3,926 |
