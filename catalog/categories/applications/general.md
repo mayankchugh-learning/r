@@ -1,6 +1,6 @@
 # General
 
-115 extensions · [← Applications](./README.md)
+116 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -119,3 +119,4 @@
 | [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) | 6 | Fast access to SayIntentions via keyboard shortcuts. Great for flight sim sessions where you don't want to speak but still want quick ATC communication. | kyleawayan | Windows, macOS | [store](https://www.raycast.com/kyleawayan/sayintentions) |
 | [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) | 5 | Extension to manage BetterCapture | qlaffont | macOS | [store](https://www.raycast.com/qlaffont/bettercapture) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
+| [AndroMeld](https://github.com/raycast/extensions/tree/main/extensions/andromeld) | — | Search the apps on your Android device and open them on the Mac. Requires AndroMeld for Mac (https://andromeld.catchingnow.com) with a connected device. | catchingnow | macOS | — |

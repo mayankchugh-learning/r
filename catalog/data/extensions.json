@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "334f5b8876fd6d3977a1b72aaddc5fb0c38f19f6",
-  "generatedAt": "2026-09-05T19:45:10.184Z",
-  "downloadsRefreshedAt": "2026-09-05T19:45:09.772Z",
-  "count": 3257,
+  "commit": "59b12b0b1bf82de9fdbb00dd9b48a3b5c54e1b77",
+  "generatedAt": "2026-09-05T20:11:26.297Z",
+  "downloadsRefreshedAt": "2026-09-05T20:11:25.892Z",
+  "count": 3258,
   "extensions": [
     {
       "dir": "0x0",
@@ -1698,6 +1698,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/android-versions",
       "treeSha": "ecfa63e9002c49abc8366916c368a6e3b277b69d",
       "downloads": 231
+    },
+    {
+      "dir": "andromeld",
+      "name": "andromeld",
+      "title": "AndroMeld",
+      "description": "Search the apps on your Android device and open them on the Mac. Requires AndroMeld for Mac (https://andromeld.catchingnow.com) with a connected device.",
+      "author": "catchingnow",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/andromeld",
+      "treeSha": "61295567f6dc2c65c3a966e1d598a8928b4f5889",
+      "downloads": null
     },
     {
       "dir": "anilist-airing-schedule",
@@ -9894,7 +9914,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 534094
+      "downloads": 534113
     },
     {
       "dir": "color-shades",
@@ -22310,7 +22330,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 515684
+      "downloads": 515697
     },
     {
       "dir": "google-chrome-profiles",
@@ -28653,7 +28673,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 693041
+      "downloads": 693061
     },
     {
       "dir": "kimai",
