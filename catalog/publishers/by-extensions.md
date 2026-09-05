@@ -1,6 +1,6 @@
 # Publishers
 
-2172 publishers · [← catalog index](../README.md)
+2173 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 154,840 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,804 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,543 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,150,368 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,150,376 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 307,550 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,949 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 418,527 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 10 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 8 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 692,983 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 515,637 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 692,990 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 515,643 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 359,971 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 298,745 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 263,802 |
@@ -2175,8 +2175,9 @@
 | 2165 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2166 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2167 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2168 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
-| 2169 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2170 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2171 | Holiney | 1 | — |
-| 2172 | multi | 1 | — |
+| 2168 | [Holiney](https://www.raycast.com/Holiney) | 1 | 0 |
+| 2169 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
+| 2170 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2171 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2172 | artistro08 | 1 | — |
+| 2173 | multi | 1 | — |

@@ -1,12 +1,12 @@
 # Cross-platform · Productivity
 
-348 extensions · [← Cross-platform](../README.md)
+349 extensions · [← Cross-platform](../README.md)
 
 ## Organize & Plan
 
 | Topic | Extensions |
 | --- | --- |
-| [Tasks & To-Dos](./tasks-to-dos.md) | 19 |
+| [Tasks & To-Dos](./tasks-to-dos.md) | 20 |
 | [Calendar & Scheduling](./calendar-scheduling.md) | 7 |
 | [Notes & Knowledge](./notes-knowledge.md) | 12 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 4 |

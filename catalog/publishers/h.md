@@ -44,7 +44,7 @@
 | [hmims](https://www.raycast.com/hmims) | 1 | 2 | **Developer Tools:** [AWX Deploy](https://github.com/raycast/extensions/tree/main/extensions/awx-deploy) |
 | [ho991217](https://www.raycast.com/ho991217) | 1 | 53 | **Productivity:** [Control Kef](https://github.com/raycast/extensions/tree/main/extensions/kef-control) |
 | [hoando](https://www.raycast.com/hoando) | 2 | 34 | **Productivity:** [Vietnamese Calendar](https://github.com/raycast/extensions/tree/main/extensions/vietnamese-calendar), [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) |
-| Holiney | 1 | — | **Applications:** [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) |
+| [Holiney](https://www.raycast.com/Holiney) | 1 | 0 | **Applications:** [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) |
 | [honghao](https://www.raycast.com/honghao) | 1 | 922 | **Applications:** [Say No to Notch](https://github.com/raycast/extensions/tree/main/extensions/say-no-to-notch) |
 | [hongkiulam](https://www.raycast.com/hongkiulam) | 1 | 1,898 | **Developer Tools:** [RegEx REPL](https://github.com/raycast/extensions/tree/main/extensions/regex-repl) |
 | [honzatmn](https://www.raycast.com/honzatmn) | 1 | 327 | **Productivity:** [Productboard](https://github.com/raycast/extensions/tree/main/extensions/productboard) |

@@ -34,7 +34,7 @@
 | [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) | 963 | Use Baidu OCR API to recognize text. | Humber | macOS | [store](https://www.raycast.com/Humber/baidu-ocr) |
 | [SnapOCR Via Paddle](https://github.com/raycast/extensions/tree/main/extensions/snapocr-via-paddle) | 60 | Layout-aware multilingual OCR for complex documents, tables, and formulas with structured Markdown export via Baidu PaddleOCR | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/snapocr-via-paddle) |
 | [Oh-Shoot](https://github.com/raycast/extensions/tree/main/extensions/oh-shoot) | 7 | Search your oh-shoot screenshots by their OCR text and jump straight back into the oh-shoot app. | nico_pergande | macOS | [store](https://www.raycast.com/nico_pergande/oh-shoot) |
-| [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | — | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | — |
+| [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | 0 | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | [store](https://www.raycast.com/Holiney/sowiks) |
 
 ## General
 

@@ -2,7 +2,7 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · **Productivity & Task Apps** · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
 
-16 of 372 extensions · [← macOS · Applications](./README.md)
+17 of 373 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -22,3 +22,4 @@
 | [Pinwork](https://github.com/raycast/extensions/tree/main/extensions/pinwork) | 15 | Capture a complete task in one sentence, then manage Today, Inbox, upcoming tasks, and projects from Raycast | adapting.tech | macOS | [store](https://www.raycast.com/adapting.tech/pinwork) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 9 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |
 | [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) | 3 | Control MenuCloak focus, cloak, and Google Calendar settings | dans_huang | macOS | [store](https://www.raycast.com/dans_huang/menucloak) |
+| [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) | — | Create, Edit, View, and Delete Tasks in Sunsama | artistro08 | Windows, macOS | — |

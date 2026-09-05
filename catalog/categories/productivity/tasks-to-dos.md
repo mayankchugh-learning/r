@@ -1,8 +1,8 @@
 # Tasks & To-Dos
 
-51 extensions · [← Productivity](./README.md)
+52 extensions · [← Productivity](./README.md)
 
-[Tasks ✦](#tasks) (38) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
+[Tasks ✦](#tasks) (39) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -48,6 +48,7 @@
 | [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix) | 3 | Manage Zabbix Problems, Hosts, Triggers and Latest Data directly from Raycast. Perform common monitoring and maintenance tasks without opening a browser. | massimiliano_pasquini | Windows, macOS | [store](https://www.raycast.com/massimiliano_pasquini/raycast-zabbix) |
 | [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) | 2 | Quickly capture tasks in any Fibery database | janjezek | macOS, Windows | [store](https://www.raycast.com/janjezek/fibery-quick-capture) |
 | [Kofa](https://github.com/raycast/extensions/tree/main/extensions/kofa) | 2 | Quickly capture tasks into Kofa, the minimalist todo and day planner. | petar_yovkov | macOS, Windows | [store](https://www.raycast.com/petar_yovkov/kofa) |
+| [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) | — | Create, Edit, View, and Delete Tasks in Sunsama | artistro08 | Windows, macOS | — |
 
 ## Reminders ✦
 

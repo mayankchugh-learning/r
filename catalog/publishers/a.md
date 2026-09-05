@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-191 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+192 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -163,6 +163,7 @@
 | [arran-nz](https://www.raycast.com/arran-nz) | 1 | 66 | **Productivity:** [German Train Info](https://github.com/raycast/extensions/tree/main/extensions/bahn-info) |
 | [Arthals](https://www.raycast.com/Arthals) | 1 | 1,555 | **Developer Tools:** [SimpleTexOCR](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) |
 | [arthurn](https://www.raycast.com/arthurn) | 1 | 34 | **Finance:** [Toncoin (TON) Price](https://github.com/raycast/extensions/tree/main/extensions/toncoin-price) |
+| artistro08 | 1 | — | **Applications:** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) |
 | [artivilla](https://www.raycast.com/artivilla) | 1 | 121 | **Web:** [Farcaster](https://github.com/raycast/extensions/tree/main/extensions/farcaster) |
 | [artpi](https://www.raycast.com/artpi) | 1 | 1,104 | **Productivity:** [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) |
 | [arturdz](https://www.raycast.com/arturdz) | 1 | 41 | **Design Tools:** [Figma Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/figma-shortcuts) |

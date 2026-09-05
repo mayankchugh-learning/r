@@ -1,8 +1,8 @@
 # Cross-platform · Applications
 
-74 extensions · [← Cross-platform](../README.md)
+75 extensions · [← Cross-platform](../README.md)
 
-[AI & Chat Apps](#ai-chat-apps) (5) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (5) · [Productivity & Task Apps](#productivity-task-apps) (4) · [Music & Audio Apps](#music-audio-apps) (1) · [Media & Photo Apps](#media-photo-apps) (8) · [Automation & Input Apps](#automation-input-apps) (2) · [Network & Connection Apps](#network-connection-apps) (2) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (5) · [General](#general) (32)
+[AI & Chat Apps](#ai-chat-apps) (5) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (5) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (1) · [Media & Photo Apps](#media-photo-apps) (8) · [Automation & Input Apps](#automation-input-apps) (2) · [Network & Connection Apps](#network-connection-apps) (2) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (5) · [General](#general) (32)
 
 ## Work & Knowledge Apps
 
@@ -24,6 +24,7 @@
 | [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 17,722 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 116 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 9 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |
+| [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) | — | Create, Edit, View, and Delete Tasks in Sunsama | artistro08 | Windows, macOS | — |
 
 ### AI & Chat Apps
 
