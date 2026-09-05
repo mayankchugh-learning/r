@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-05 — upstream `4ada37bbcb`
+
+**Updated (1):** [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare)
+
 ## 2026-09-05 — upstream `59b12b0b1b`
 
 **Added (1):** [AndroMeld](https://github.com/raycast/extensions/tree/main/extensions/andromeld)

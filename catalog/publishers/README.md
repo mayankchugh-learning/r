@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,150,450 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,150,476 |
 | 2 | [raycast](./id/raycast.md) | 11 | 814,808 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 693,061 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 515,697 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 693,088 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 515,710 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 452,687 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 447,904 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 418,527 |
@@ -2173,13 +2173,13 @@
 | 2163 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2164 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2165 | [artistro08](https://www.raycast.com/artistro08) | 1 | 0 |
-| 2166 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2167 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2168 | [Holiney](https://www.raycast.com/Holiney) | 1 | 0 |
-| 2169 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
-| 2170 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
-| 2171 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2172 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2173 | github-next | 2 | — |
-| 2174 | catchingnow | 1 | — |
+| 2166 | [catchingnow](https://www.raycast.com/catchingnow) | 1 | 0 |
+| 2167 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2168 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2169 | [Holiney](https://www.raycast.com/Holiney) | 1 | 0 |
+| 2170 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
+| 2171 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
+| 2172 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2173 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2174 | github-next | 2 | — |
 | 2175 | multi | 1 | — |

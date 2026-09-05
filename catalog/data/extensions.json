@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "59b12b0b1bf82de9fdbb00dd9b48a3b5c54e1b77",
-  "generatedAt": "2026-09-05T20:11:26.297Z",
-  "downloadsRefreshedAt": "2026-09-05T20:11:25.892Z",
+  "commit": "4ada37bbcbc6d4ac162ac270c45010584c179158",
+  "generatedAt": "2026-09-05T20:42:24.501Z",
+  "downloadsRefreshedAt": "2026-09-05T20:42:24.111Z",
   "count": 3258,
   "extensions": [
     {
@@ -1714,10 +1714,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/catchingnow/andromeld",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/andromeld",
       "treeSha": "61295567f6dc2c65c3a966e1d598a8928b4f5889",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "anilist-airing-schedule",
@@ -8979,7 +8979,7 @@
       "description": "Search and view your Cloudflare sites, pages, domains, and more",
       "author": "destiner",
       "owner": null,
-      "contributors": 6,
+      "contributors": 7,
       "categories": [
         "Developer Tools",
         "Web"
@@ -8991,7 +8991,7 @@
       ],
       "store": "https://www.raycast.com/destiner/cloudflare",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cloudflare",
-      "treeSha": "af5719866e4f23cb6078b6a73db5d930c719b6c5",
+      "treeSha": "4a03b9a20010dff41c12755b8c3c8e329ddbc807",
       "downloads": 5391
     },
     {
@@ -9914,7 +9914,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 534113
+      "downloads": 534139
     },
     {
       "dir": "color-shades",
@@ -22330,7 +22330,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 515697
+      "downloads": 515710
     },
     {
       "dir": "google-chrome-profiles",
@@ -28673,7 +28673,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 693061
+      "downloads": 693088
     },
     {
       "dir": "kimai",
