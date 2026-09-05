@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-05 — upstream `036dbae9ee`
+
+**Added (1):** [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks)
+
 ## 2026-09-05 — upstream `232c132de4`
 
 **Updated (1):** [LastPass Credentials Search](https://github.com/raycast/extensions/tree/main/extensions/lastpass)

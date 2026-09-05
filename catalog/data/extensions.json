@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "232c132de4fc329b8eb94b7c6c7102567b7378cd",
-  "generatedAt": "2026-09-05T17:51:19.678Z",
-  "downloadsRefreshedAt": "2026-09-05T17:51:18.998Z",
-  "count": 3254,
+  "commit": "036dbae9ee245bbba19ab5eab516071820ec05c5",
+  "generatedAt": "2026-09-05T18:10:27.851Z",
+  "downloadsRefreshedAt": "2026-09-05T18:10:27.459Z",
+  "count": 3255,
   "extensions": [
     {
       "dir": "0x0",
@@ -9894,7 +9894,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 534017
+      "downloads": 534031
     },
     {
       "dir": "color-shades",
@@ -22310,7 +22310,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 515628
+      "downloads": 515637
     },
     {
       "dir": "google-chrome-profiles",
@@ -28653,7 +28653,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 692970
+      "downloads": 692983
     },
     {
       "dir": "kimai",
@@ -54825,6 +54825,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sourcetree",
       "treeSha": "744bdd297e76f8a5f322ca86f6a5213c6adc0290",
       "downloads": 1147
+    },
+    {
+      "dir": "sowiks",
+      "name": "sowiks",
+      "title": "Sowiks: Screenshot & Recording",
+      "description": "Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sharing, straight from Raycast.",
+      "author": "Holiney",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/sowiks",
+      "treeSha": "e4b62f453e411ef0c1bb1de13333c148aac5ebe4",
+      "downloads": null
     },
     {
       "dir": "spacejump",

@@ -1,8 +1,8 @@
 # Window & Workspace Management
 
-52 extensions · [← Productivity](./README.md)
+53 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (23) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (8) · [General](#general) (12)
+[Windows ✦](#windows) (24) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (8) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -33,6 +33,7 @@
 | [Tabbit](https://github.com/raycast/extensions/tree/main/extensions/tabbit) | 23 | Open Tabbit Browser windows and URLs from Raycast | AkaChou | macOS | [store](https://www.raycast.com/AkaChou/tabbit) |
 | [LayoutLock](https://github.com/raycast/extensions/tree/main/extensions/layoutlock) | 16 | Save and restore LayoutLock window layouts from Raycast. | brkgng | macOS | [store](https://www.raycast.com/brkgng/layoutlock) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 4 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
+| [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | — | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | — |
 
 ## Desktop ✦
 
