@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-05 — upstream `18ac31c753`
+
+**Updated (1):** [Quran Quick Insert](https://github.com/raycast/extensions/tree/main/extensions/quran-quick-insert)
+
 ## 2026-09-05 — upstream `f509d8fa85`
 
 **Updated (1):** [AI Stats](https://github.com/raycast/extensions/tree/main/extensions/ai-stats)
