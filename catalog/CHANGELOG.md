@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-05 — upstream `fe9f927fc7`
+
+**Updated (1):** [Ray Clicker](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker)
+
 ## 2026-09-04 — upstream `83e2392ae0`
 
 **Added (1):** [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub)
