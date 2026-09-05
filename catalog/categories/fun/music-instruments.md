@@ -5,7 +5,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 91,662 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
-| [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,103 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
+| [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,104 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
 | [Music Recognition](https://github.com/raycast/extensions/tree/main/extensions/music-recognition) | 376 | Recognize music via a macOS Shortcuts proxy (Shazam) | lemikeone | macOS | [store](https://www.raycast.com/lemikeone/music-recognition) |
 | [Slowed + Reverb](https://github.com/raycast/extensions/tree/main/extensions/slowed-reverb) | 234 | Turn any song into a Slowed + Reverb version | tomo_myrman | macOS | [store](https://www.raycast.com/tomo_myrman/slowed-reverb) |
 | [Guitar Tools](https://github.com/raycast/extensions/tree/main/extensions/guitar-tools) | 181 | A collection of tools for guitarists including a chromatic tuner. | narghev | macOS | [store](https://www.raycast.com/narghev/guitar-tools) |

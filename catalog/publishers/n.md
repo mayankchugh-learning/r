@@ -35,7 +35,7 @@
 | [nchudleigh](https://www.raycast.com/nchudleigh) | 1 | 9,240 | **Productivity:** [Superwhisper - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) |
 | [nedini](https://www.raycast.com/nedini) | 1 | 414 | **Productivity:** [No as a Service](https://github.com/raycast/extensions/tree/main/extensions/no-as-a-service) |
 | [NeonArray](https://www.raycast.com/NeonArray) | 1 | 10 | **Web:** [Icy Veins Quicklinks](https://github.com/raycast/extensions/tree/main/extensions/icy-veins-quicklinks) |
-| [netcookies](https://www.raycast.com/netcookies) | 1 | 268 | **Developer Tools:** [Copy Text Files](https://github.com/raycast/extensions/tree/main/extensions/copy-text-files) |
+| [netcookies](https://www.raycast.com/netcookies) | 1 | 269 | **Developer Tools:** [Copy Text Files](https://github.com/raycast/extensions/tree/main/extensions/copy-text-files) |
 | [netlify](https://www.raycast.com/netlify) | 1 | 2,465 | **Developer Tools:** [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) |
 | [neversitdull](https://www.raycast.com/neversitdull) | 1 | 104 | **Developer Tools:** [Pkg Swap](https://github.com/raycast/extensions/tree/main/extensions/pkg-swap) |
 | [NextMerge](https://www.raycast.com/NextMerge) | 1 | 23 | **Applications:** [Mouseless](https://github.com/raycast/extensions/tree/main/extensions/mouseless) |
@@ -61,8 +61,8 @@
 | [nikhil_tiwari](https://www.raycast.com/nikhil_tiwari) | 1 | 374 | **Uncategorized:** [What Happened Today](https://github.com/raycast/extensions/tree/main/extensions/what-happened-today) |
 | [niklaswa](https://www.raycast.com/niklaswa) | 1 | 117 | **Data:** [Laby.net](https://github.com/raycast/extensions/tree/main/extensions/laby-net) |
 | [nikolayqwerty](https://www.raycast.com/nikolayqwerty) | 1 | 196 | **Uncategorized:** [DropsTab](https://github.com/raycast/extensions/tree/main/extensions/dropstab) |
-| [nils_hoenson](https://www.raycast.com/nils_hoenson) | 1 | 1,043 | **Developer Tools:** [Dynamic Font Size](https://github.com/raycast/extensions/tree/main/extensions/dynamic-font-size) |
-| [ning_cao_cabeza](https://www.raycast.com/ning_cao_cabeza) | 1 | 3,889 | **Productivity:** [Markdown to Rich Text](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-rich-text) |
+| [nils_hoenson](https://www.raycast.com/nils_hoenson) | 1 | 1,046 | **Developer Tools:** [Dynamic Font Size](https://github.com/raycast/extensions/tree/main/extensions/dynamic-font-size) |
+| [ning_cao_cabeza](https://www.raycast.com/ning_cao_cabeza) | 1 | 3,892 | **Productivity:** [Markdown to Rich Text](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-rich-text) |
 | [nirgn](https://www.raycast.com/nirgn) | 1 | 118 | **Finance:** [Subwatch](https://github.com/raycast/extensions/tree/main/extensions/subwatch) |
 | [NirLevy](https://www.raycast.com/NirLevy) | 1 | 454 | **Productivity:** [Key Value](https://github.com/raycast/extensions/tree/main/extensions/key-value) |
 | [nirrosh](https://www.raycast.com/NirRosh) | 1 | 31 | **Developer Tools:** [Kafka UI](https://github.com/raycast/extensions/tree/main/extensions/kafka-ui) |
@@ -82,4 +82,4 @@
 | [nunotomas](https://www.raycast.com/nunotomas) | 1 | 220 | **Developer Tools:** [IsDown](https://github.com/raycast/extensions/tree/main/extensions/isdown) |
 | [nurkamol](https://www.raycast.com/nurkamol) | 2 | 400 | **Developer Tools:** [Redirect Trace](https://github.com/raycast/extensions/tree/main/extensions/redirect-trace), [Quarantine Manager](https://github.com/raycast/extensions/tree/main/extensions/quarantine-manager) |
 | [NvIte0o0](https://www.raycast.com/NvIte0o0) | 1 | 6 | **Fun:** [GeForce NOW](https://github.com/raycast/extensions/tree/main/extensions/geforce-now) |
-| [nyatinte](https://www.raycast.com/nyatinte) | 1 | 12,231 | **Developer Tools:** [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) |
+| [nyatinte](https://www.raycast.com/nyatinte) | 1 | 12,243 | **Developer Tools:** [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) |

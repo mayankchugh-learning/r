@@ -13,15 +13,15 @@
 | [lafkpages](https://www.raycast.com/luisafk) | 2 | 426 | **Fun:** [Minecraft Crafting Recipes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-crafting-recipes)<br>**Productivity:** [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) |
 | [lamalamaMark](https://www.raycast.com/lamalamaMark) | 1 | 86 | **Developer Tools:** [Buddy](https://github.com/raycast/extensions/tree/main/extensions/buddy) |
 | [lamberttraccard](https://www.raycast.com/lamberttraccard) | 1 | 293 | **Developer Tools:** [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) |
-| [lardissone](https://www.raycast.com/lardissone) | 3 | 43,329 | **Productivity:** [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io)<br>**System:** [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp)<br>**Developer Tools:** [CommitLint](https://github.com/raycast/extensions/tree/main/extensions/commitlint) |
-| [larsasolidor](https://www.raycast.com/larsasolidor) | 1 | 612 | **Communication:** [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) |
+| [lardissone](https://www.raycast.com/lardissone) | 3 | 43,330 | **Productivity:** [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io)<br>**System:** [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp)<br>**Developer Tools:** [CommitLint](https://github.com/raycast/extensions/tree/main/extensions/commitlint) |
+| [larsasolidor](https://www.raycast.com/larsasolidor) | 1 | 614 | **Communication:** [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) |
 | [laurynas](https://www.raycast.com/laurynas) | 1 | 226 | **Productivity:** [SavvyCal](https://github.com/raycast/extensions/tree/main/extensions/savvycal) |
 | [lavatorywang](https://www.raycast.com/lavatorywang) | 1 | 592 | **Developer Tools:** [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) |
 | [lbergantin](https://www.raycast.com/lbergantin) | 1 | 226 | **Developer Tools:** [NuGet](https://github.com/raycast/extensions/tree/main/extensions/nuget) |
-| [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 26,326 | **Productivity:** [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter)<br>**Uncategorized:** [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) |
+| [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 26,357 | **Productivity:** [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter)<br>**Uncategorized:** [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) |
 | [leec-666](https://www.raycast.com/leec-666) | 1 | 10 | **Developer Tools:** [SecureCRT Sessions](https://github.com/raycast/extensions/tree/main/extensions/securecrt-sessions) |
 | [leepyd](https://www.raycast.com/leepyd) | 1 | 196 | **Web:** [Rate Your Music Search](https://github.com/raycast/extensions/tree/main/extensions/rateyourmusic-search) |
-| [leeraymond78](https://www.raycast.com/leeraymond78) | 1 | 2,884 | **Applications:** [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) |
+| [leeraymond78](https://www.raycast.com/leeraymond78) | 1 | 2,885 | **Applications:** [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) |
 | [legenden](https://www.raycast.com/legenden) | 1 | 60 | **Media:** [Modrinth Search](https://github.com/raycast/extensions/tree/main/extensions/modrinth-search) |
 | [leitmotif](https://www.raycast.com/leitmotif) | 1 | 954 | **Applications:** [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) |
 | [lekoarts](https://www.raycast.com/lekoarts) | 1 | 5,083 | **Design Tools:** [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) |
@@ -32,7 +32,7 @@
 | [leodbrs](https://www.raycast.com/leodbrs) | 1 | 524 | **Productivity:** [Linkwarden](https://github.com/raycast/extensions/tree/main/extensions/linkwarden) |
 | [leomelzer](https://www.raycast.com/leomelzer) | 1 | 22 | **Productivity:** [Clockodo](https://github.com/raycast/extensions/tree/main/extensions/clockodo) |
 | [leondaz](https://www.raycast.com/leondaz) | 1 | 117 | **Developer Tools:** [Momentum](https://github.com/raycast/extensions/tree/main/extensions/momentum) |
-| [Lermatroid](https://www.raycast.com/Lermatroid) | 1 | 2,483 | **Productivity:** [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) |
+| [Lermatroid](https://www.raycast.com/Lermatroid) | 1 | 2,485 | **Productivity:** [T3 Chat](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) |
 | [leveragedrobot](https://www.raycast.com/leveragedrobot) | 1 | 1,230 | **Productivity:** [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) |
 | [lewj](https://www.raycast.com/lewj) | 1 | 1,182 | **Other:** [Unifi](https://github.com/raycast/extensions/tree/main/extensions/unifi) |
 | [lex-unix](https://www.raycast.com/lex-unix) | 1 | 327 | **Developer Tools:** [Nix Flake Templates](https://github.com/raycast/extensions/tree/main/extensions/nix-flake-templates) |
@@ -50,7 +50,7 @@
 | [lin](https://www.raycast.com/lin) | 3 | 6,461 | **Developer Tools:** [Prettier Code](https://github.com/raycast/extensions/tree/main/extensions/prettier)<br>**Productivity:** [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai)<br>**Documentation:** [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) |
 | [linear](https://www.raycast.com/linear) | 1 | 359,971 | **Developer Tools:** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) |
 | [linkinize](https://www.raycast.com/linkinize) | 1 | 8 | **Productivity:** [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize) |
-| [litomore](./id/litomore.md) | 13 | 13,160 | [see all 13 →](./id/litomore.md) |
+| [litomore](./id/litomore.md) | 13 | 13,167 | [see all 13 →](./id/litomore.md) |
 | [liualexiang](https://www.raycast.com/liualexiang) | 1 | 155 | **Productivity:** [Azure Speech TTS](https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension) |
 | [Lock](https://www.raycast.com/Lock) | 1 | 32 | **Security:** [2FAS Authenticator](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator) |
 | [lockieluke3389](https://www.raycast.com/lockieluke3389) | 1 | 735 | **Applications:** [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) |
@@ -59,9 +59,9 @@
 | [loic_magnette](https://www.raycast.com/loic_magnette) | 1 | 16 | **Developer Tools:** [Code Quarkus](https://github.com/raycast/extensions/tree/main/extensions/code-quarkus) |
 | [loqa-s](https://www.raycast.com/loqa-s) | 1 | 23 | **Developer Tools:** [gRPC UI](https://github.com/raycast/extensions/tree/main/extensions/grpcui) |
 | [loris](https://www.raycast.com/loris) | 6 | 127,319 | **Applications:** [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari), [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station)<br>**Productivity:** [Things](https://github.com/raycast/extensions/tree/main/extensions/things)<br>**Data:** [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator)<br>**Developer Tools:** [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7)<br>**Documentation:** [FHIR](https://github.com/raycast/extensions/tree/main/extensions/fhir) |
-| [LostViking09](https://www.raycast.com/LostViking09) | 1 | 1,955 | **Applications:** [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) |
+| [LostViking09](https://www.raycast.com/LostViking09) | 1 | 1,956 | **Applications:** [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) |
 | [louay.md](https://www.raycast.com/louay.md) | 1 | 25 | **Media:** [Cover Art Search](https://github.com/raycast/extensions/tree/main/extensions/cover-art-search) |
-| [louishuyng](https://www.raycast.com/louishuyng) | 4 | 13,853 | **Developer Tools:** [WiFi Password Reveal](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal), [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping), [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner), [WezTerm Navigator](https://github.com/raycast/extensions/tree/main/extensions/wezterm-navigator) |
+| [louishuyng](https://www.raycast.com/louishuyng) | 4 | 13,856 | **Developer Tools:** [WiFi Password Reveal](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal), [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping), [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner), [WezTerm Navigator](https://github.com/raycast/extensions/tree/main/extensions/wezterm-navigator) |
 | [louison](https://www.raycast.com/louison) | 1 | 202 | **Media:** [Fip](https://github.com/raycast/extensions/tree/main/extensions/fip) |
 | [luarmr](https://www.raycast.com/luarmr) | 2 | 163 | **Applications:** [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly)<br>**Media:** [Descript](https://github.com/raycast/extensions/tree/main/extensions/descript) |
 | [lucaas](https://www.raycast.com/lucaas) | 1 | 9 | **Productivity:** [ftrack](https://github.com/raycast/extensions/tree/main/extensions/ftrack) |
@@ -83,6 +83,6 @@
 | [luknl](https://www.raycast.com/luknl) | 1 | 546 | **Web:** [Myanimelist Search](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) |
 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,836 | **Developer Tools:** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) |
 | [luobin](https://www.raycast.com/luobin) | 1 | 7 | **Productivity:** [Ego Lite](https://github.com/raycast/extensions/tree/main/extensions/ego-lite) |
-| [luolei](https://www.raycast.com/luolei) | 2 | 2,547 | **Web:** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep), [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) |
+| [luolei](https://www.raycast.com/luolei) | 2 | 2,552 | **Web:** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep), [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) |
 | [lyager](https://www.raycast.com/lyager) | 1 | 0 | **Communication:** [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub) |
 | [lzybiasia](https://www.raycast.com/lzybiasia) | 1 | 108 | **Uncategorized:** [Expand Video Canvas](https://github.com/raycast/extensions/tree/main/extensions/expand-video-canvas) |

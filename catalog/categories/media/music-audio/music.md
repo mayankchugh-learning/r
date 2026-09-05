@@ -11,7 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Music Link Converter](https://github.com/raycast/extensions/tree/main/extensions/music-link-converter) | 2,722 | Convert a music link to another provider, for example you can convert Spotify links to Apple music links (also works with many other providers), using song.lin… | Quentin23Soleil | macOS | [store](https://www.raycast.com/Quentin23Soleil/music-link-converter) |
-| [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,103 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
+| [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,104 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
 | [Odesli](https://github.com/raycast/extensions/tree/main/extensions/odesli) | 481 | Convert song/album links to Odesli links. Odesli is a service that provides smart music links. These links show a list of platforms you can hear the song/album… | annedouwe | macOS, Windows | [store](https://www.raycast.com/annedouwe/odesli) |
 | [Music Assistant Controls](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) | 362 | Control music assistant and displays current song in the menu bar | yoerivd | macOS, Windows | [store](https://www.raycast.com/yoerivd/music-assistant-controls) |
 | [Navidrome](https://github.com/raycast/extensions/tree/main/extensions/navidrome) | 258 | Search and browse your Navidrome music library. Find artists, albums, songs, and playlists, then open them directly in your browser. | alexandervarney | macOS | [store](https://www.raycast.com/alexandervarney/navidrome) |
@@ -24,7 +24,7 @@
 | [Music](https://github.com/raycast/extensions/tree/main/extensions/music) | 91,662 | Control the Apple Music app with your keyboard. | fedevitaledev | macOS | [store](https://www.raycast.com/fedevitaledev/music) |
 | [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 22,167 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
 | [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,450 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
-| [QQ Music Controls](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) | 1,337 | Control the QQ Music app for macOS with your keyboard. | jwickers | macOS | [store](https://www.raycast.com/jwickers/qq-music-controls) |
+| [QQ Music Controls](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) | 1,338 | Control the QQ Music app for macOS with your keyboard. | jwickers | macOS | [store](https://www.raycast.com/jwickers/qq-music-controls) |
 
 ## Play ✦
 

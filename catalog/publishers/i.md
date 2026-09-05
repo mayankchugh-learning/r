@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [i_idz](https://www.raycast.com/i_idz) | 1 | 135 | **Productivity:** [In the Timezone](https://github.com/raycast/extensions/tree/main/extensions/in-the-time-zone) |
+| [i_idz](https://www.raycast.com/i_idz) | 1 | 136 | **Productivity:** [In the Timezone](https://github.com/raycast/extensions/tree/main/extensions/in-the-time-zone) |
 | [i906](https://www.raycast.com/i906) | 1 | 1,147 | **Developer Tools:** [Sourcetree](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) |
 | [iambtshft](https://www.raycast.com/iambtshft) | 1 | 123 | **Media:** [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) |
 | [iamEvan](https://www.raycast.com/iamEvan) | 1 | 605 | **Productivity:** [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox) |
@@ -26,7 +26,7 @@
 | [ieedan](https://www.raycast.com/ieedan) | 1 | 52 | **Developer Tools:** [jsrepo](https://github.com/raycast/extensions/tree/main/extensions/jsrepo) |
 | [IGHOR](https://www.raycast.com/IGHOR) | 1 | 191 | **Uncategorized:** [DockLock Plus](https://github.com/raycast/extensions/tree/main/extensions/docklock-plus) |
 | [ihildy](https://www.raycast.com/iHildy) | 1 | 195 | **Developer Tools:** [Jules Agents](https://github.com/raycast/extensions/tree/main/extensions/jules-agents) |
-| [iisweetheartii](https://www.raycast.com/iisweetheartii) | 1 | 96 | **Developer Tools:** [Terminal Image Paste](https://github.com/raycast/extensions/tree/main/extensions/terminal-image-paste) |
+| [iisweetheartii](https://www.raycast.com/iisweetheartii) | 1 | 97 | **Developer Tools:** [Terminal Image Paste](https://github.com/raycast/extensions/tree/main/extensions/terminal-image-paste) |
 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 67,609 | **Productivity:** [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) |
 | [ikupenov](https://www.raycast.com/ikupenov) | 2 | 2,564 | **Communication:** [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram)<br>**Developer Tools:** [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) |
 | [ilian](https://www.raycast.com/ilian) | 3 | 16,386 | **Productivity:** [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api), [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq)<br>**Finance:** [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) |
@@ -46,7 +46,7 @@
 | [interaapps](https://www.raycast.com/interaapps) | 1 | 132 | **Developer Tools:** [Pastefy](https://github.com/raycast/extensions/tree/main/extensions/pastefy) |
 | [InteractiveNinja](https://www.raycast.com/InteractiveNinja) | 1 | 633 | **Web:** [Linkding](https://github.com/raycast/extensions/tree/main/extensions/linkding) |
 | [invm](https://www.raycast.com/invm) | 1 | 18 | **Productivity:** [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) |
-| [inxilpro](https://www.raycast.com/inxilpro) | 1 | 466 | **Developer Tools:** [PHP Toolbox](https://github.com/raycast/extensions/tree/main/extensions/php-toolbox) |
+| [inxilpro](https://www.raycast.com/inxilpro) | 1 | 467 | **Developer Tools:** [PHP Toolbox](https://github.com/raycast/extensions/tree/main/extensions/php-toolbox) |
 | [ipiranhaa](https://www.raycast.com/ipiranhaa) | 1 | 419 | **Developer Tools:** [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) |
 | [ireneisdoomed](https://www.raycast.com/ireneisdoomed) | 1 | 44 | **Data:** [Open Targets](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) |
 | [Ironben](https://www.raycast.com/Ironben) | 2 | 89 | **Productivity:** [Seedsnote](https://github.com/raycast/extensions/tree/main/extensions/seedsnote), [Essay](https://github.com/raycast/extensions/tree/main/extensions/essay) |
@@ -66,4 +66,4 @@
 | [iwfan](https://www.raycast.com/iwfan) | 2 | 5,699 | **Uncategorized:** [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search)<br>**Finance:** [Beancount Meta](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) |
 | [izadoesdev](https://www.raycast.com/izadoesdev) | 1 | 24 | **Developer Tools:** [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) |
 | [izm51](https://www.raycast.com/izm51) | 1 | 565 | **Productivity:** [AI Text to Calendar](https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar) |
-| [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,446 | **Security:** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) |
+| [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,454 | **Security:** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) |

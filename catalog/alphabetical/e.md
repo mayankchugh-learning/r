@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 66,454 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
+| [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 66,488 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
 | [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 36,161 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
 | [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,636 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
 | [Easy OCR](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) | 10,905 | Use Tesseract OCR to extract text from screenshot | Rafo94 | macOS | [store](https://www.raycast.com/Rafo94/easy-ocr) |
@@ -19,7 +19,7 @@
 | [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,684 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
 | [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts) | 2,263 | Convert selected or copied text to lifelike speech using ElevenLabs' premium AI voices | lachie_james | macOS | [store](https://www.raycast.com/lachie_james/elevenlabs-tts) |
 | [Easings](https://github.com/raycast/extensions/tree/main/extensions/easings) | 1,805 | Quickly find and grab your favorite easings. | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/easings) |
-| [Excalidraw](https://github.com/raycast/extensions/tree/main/extensions/excalidraw) | 1,573 | allow easy access to your excalidraw boards from Raycast! | slyguy5646 | macOS | [store](https://www.raycast.com/slyguy5646/excalidraw) |
+| [Excalidraw](https://github.com/raycast/extensions/tree/main/extensions/excalidraw) | 1,574 | allow easy access to your excalidraw boards from Raycast! | slyguy5646 | macOS | [store](https://www.raycast.com/slyguy5646/excalidraw) |
 | [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,472 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
 | [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,288 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
 | [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) | 1,104 | Search your Evernote notes instantly using the local database of the official Evernote client. | artpi | macOS, Windows | [store](https://www.raycast.com/artpi/evernote) |
@@ -35,7 +35,7 @@
 | [Empty Screenshot Folder](https://github.com/raycast/extensions/tree/main/extensions/empty-screenshots) | 493 | Empties your screenshot folder within a configurable time period. | chanceaclark | macOS | [store](https://www.raycast.com/chanceaclark/empty-screenshots) |
 | [Ecosia Search](https://github.com/raycast/extensions/tree/main/extensions/ecosia-search) | 475 | Ecosia Search with autosuggestion | mcocirio | macOS | [store](https://www.raycast.com/mcocirio/ecosia-search) |
 | [ESV Bible](https://github.com/raycast/extensions/tree/main/extensions/esv-bible) | 462 | Search the ESV using the ESV A and return Bible text for any valid passage. | cpenned | macOS | [store](https://www.raycast.com/cpenned/esv-bible) |
-| [Emojify](https://github.com/raycast/extensions/tree/main/extensions/emojify) | 456 | Improve your text with emojis properly within the context | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/emojify) |
+| [Emojify](https://github.com/raycast/extensions/tree/main/extensions/emojify) | 457 | Improve your text with emojis properly within the context | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/emojify) |
 | [Excel Formula Beautifier](https://github.com/raycast/extensions/tree/main/extensions/excel-formula-beautifier) | 423 | Allows excel formula in clipboard to be beautified. | oliverde8 | macOS, Windows | [store](https://www.raycast.com/oliverde8/excel-formula-beautifier) |
 | [End of Life](https://github.com/raycast/extensions/tree/main/extensions/end-of-life) | 337 | An extension to bring endoflife.date into Raycast. Get End-of-life (EOL) and support information for various products | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/end-of-life) |
 | [Evil Insult](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) | 307 | Generate Evil Insults | j3lte | macOS | [store](https://www.raycast.com/j3lte/evil-insult) |

@@ -12,7 +12,7 @@
 | [backlooplabs](https://www.raycast.com/backlooplabs) | 1 | 8 | **Productivity:** [NicheFund Business Ideas](https://github.com/raycast/extensions/tree/main/extensions/nichefund-business-ideas) |
 | [bake](https://www.raycast.com/bake) | 1 | 517 | **Productivity:** [Gopass](https://github.com/raycast/extensions/tree/main/extensions/gopass) |
 | [Baldy](https://www.raycast.com/Baldy) | 1 | 20 | **Productivity:** [Kaneo](https://github.com/raycast/extensions/tree/main/extensions/kaneo-for-raycast) |
-| [BalliAsghar](https://www.raycast.com/BalliAsghar) | 3 | 7,726 | **Communication:** [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy)<br>**Applications:** [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur)<br>**Media:** [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) |
+| [BalliAsghar](https://www.raycast.com/BalliAsghar) | 3 | 7,730 | **Communication:** [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy)<br>**Applications:** [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur)<br>**Media:** [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) |
 | [baptiste-jn](https://www.raycast.com/baptiste-jn) | 1 | 257 | **Developer Tools:** [Kill MCP Servers](https://github.com/raycast/extensions/tree/main/extensions/kill-mcp) |
 | [baradusov](https://www.raycast.com/baradusov) | 1 | 109 | **Media:** [TorBox](https://github.com/raycast/extensions/tree/main/extensions/torbox) |
 | [barlow](https://www.raycast.com/barlow) | 2 | 45 | **Data:** [Dovetail](https://github.com/raycast/extensions/tree/main/extensions/dovetail)<br>**Productivity:** [Transport NSW](https://github.com/raycast/extensions/tree/main/extensions/transport-nsw) |
@@ -27,7 +27,7 @@
 | [bendews](https://www.raycast.com/bendews) | 1 | 65 | **Security:** [Apple Passwords](https://github.com/raycast/extensions/tree/main/extensions/apple-passwords) |
 | [bendrucker](https://www.raycast.com/bendrucker) | 1 | 10 | **Productivity:** [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) |
 | [benekuehn](https://www.raycast.com/benekuehn) | 2 | 2,766 | **Security:** [OpenVPN](https://github.com/raycast/extensions/tree/main/extensions/openvpn)<br>**Finance:** [Security Search](https://github.com/raycast/extensions/tree/main/extensions/security-search) |
-| [bengry](https://www.raycast.com/bengry) | 1 | 407 | **Developer Tools:** [Convert TypeScript to JavaScript](https://github.com/raycast/extensions/tree/main/extensions/convert-typescript-to-javascript) |
+| [bengry](https://www.raycast.com/bengry) | 1 | 408 | **Developer Tools:** [Convert TypeScript to JavaScript](https://github.com/raycast/extensions/tree/main/extensions/convert-typescript-to-javascript) |
 | [bengt](https://www.raycast.com/bengt) | 1 | 100 | **Productivity:** [Untis](https://github.com/raycast/extensions/tree/main/extensions/untis) |
 | [benkates](https://www.raycast.com/benkates) | 1 | 101 | **Applications:** [Datawrapper](https://github.com/raycast/extensions/tree/main/extensions/datawrapper) |
 | [bennettsh](https://www.raycast.com/bennettsh) | 1 | 598 | **Media:** [Playnite Launcher](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) |
@@ -65,7 +65,7 @@
 | [boradatti](https://www.raycast.com/boradatti) | 2 | 45 | **Uncategorized:** [Farrago](https://github.com/raycast/extensions/tree/main/extensions/farrago)<br>**Applications:** [IVPN](https://github.com/raycast/extensions/tree/main/extensions/ivpn) |
 | [borzov](https://www.raycast.com/borzov) | 1 | 334 | **Developer Tools:** [Project Code to Text](https://github.com/raycast/extensions/tree/main/extensions/project-code-to-text) |
 | [bossdaily](https://www.raycast.com/bossdaily) | 1 | 157 | **Developer Tools:** [WinSCP](https://github.com/raycast/extensions/tree/main/extensions/winscp) |
-| [BossElijah](https://www.raycast.com/BossElijah) | 5 | 1,175 | **Fun:** [IPA Translator](https://github.com/raycast/extensions/tree/main/extensions/ipa-translator), [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts), [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images), [Bored](https://github.com/raycast/extensions/tree/main/extensions/bored)<br>**Other:** [Chords and Tabs](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) |
+| [BossElijah](https://www.raycast.com/BossElijah) | 5 | 1,177 | **Fun:** [IPA Translator](https://github.com/raycast/extensions/tree/main/extensions/ipa-translator), [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts), [Dog Images](https://github.com/raycast/extensions/tree/main/extensions/dog-images), [Bored](https://github.com/raycast/extensions/tree/main/extensions/bored)<br>**Other:** [Chords and Tabs](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) |
 | [BProg](https://www.raycast.com/BProg) | 1 | 895 | **Developer Tools:** [Swift Evolution](https://github.com/raycast/extensions/tree/main/extensions/swift-evolution) |
 | [BrandonGiesing](https://www.raycast.com/BrandonGiesing) | 1 | 277 | **Media:** [SauceNAO - Reverse Image Search](https://github.com/raycast/extensions/tree/main/extensions/saucenao) |
 | [braydoncoyer](https://www.raycast.com/braydoncoyer) | 1 | 584 | **Fun:** [Office Quotes](https://github.com/raycast/extensions/tree/main/extensions/office-quotes) |
@@ -80,7 +80,7 @@
 | [bruno_caruso](https://www.raycast.com/bruno_caruso) | 1 | 19 | **Productivity:** [Magic Home](https://github.com/raycast/extensions/tree/main/extensions/magic-home) |
 | [BrunoMonteiro](https://www.raycast.com/BrunoMonteiro) | 1 | 90 | **Applications:** [Calibre Library](https://github.com/raycast/extensions/tree/main/extensions/calibre-search) |
 | [brunopicinin](https://www.raycast.com/brunopicinin) | 1 | 61 | **Other:** [Swap Commas & Dots](https://github.com/raycast/extensions/tree/main/extensions/swap-commas-dots) |
-| [brusik](https://www.raycast.com/brusik) | 1 | 106 | **Productivity:** [Append Text to File](https://github.com/raycast/extensions/tree/main/extensions/append-to-file) |
+| [brusik](https://www.raycast.com/brusik) | 1 | 107 | **Productivity:** [Append Text to File](https://github.com/raycast/extensions/tree/main/extensions/append-to-file) |
 | [bryantgillespie](https://www.raycast.com/bryantgillespie) | 1 | 155 | **Documentation:** [Directus](https://github.com/raycast/extensions/tree/main/extensions/directus) |
 | [bstncartwright](https://www.raycast.com/bstncartwright) | 1 | 1,300 | **Developer Tools:** [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) |
 | [bucketfish](https://www.raycast.com/bucketfish) | 1 | 543 | **Other:** [Moon Phrase](https://github.com/raycast/extensions/tree/main/extensions/moon-phrase) |

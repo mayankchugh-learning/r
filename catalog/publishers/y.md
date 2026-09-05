@@ -7,11 +7,11 @@
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
 | [yaeda](https://www.raycast.com/yaeda) | 1 | 284 | **Productivity:** [Inkdrop](https://github.com/raycast/extensions/tree/main/extensions/inkdrop) |
-| [yakitrak](https://www.raycast.com/yakitrak) | 2 | 10,745 | **Productivity:** [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb)<br>**Security:** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) |
-| [yalishanda](https://www.raycast.com/yalishanda) | 1 | 6,275 | **Uncategorized:** [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) |
+| [yakitrak](https://www.raycast.com/yakitrak) | 2 | 10,755 | **Productivity:** [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb)<br>**Security:** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) |
+| [yalishanda](https://www.raycast.com/yalishanda) | 1 | 6,288 | **Uncategorized:** [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) |
 | [Yamen](https://www.raycast.com/Yamen) | 2 | 908 | **Media:** [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager)<br>**Communication:** [Sort Mentions](https://github.com/raycast/extensions/tree/main/extensions/sort-mentions) |
 | [yang_monch](https://www.raycast.com/yang_monch) | 1 | 370 | **Design Tools:** [Golden Ratio](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) |
-| [yangxy](https://www.raycast.com/yangxy) | 2 | 8,533 | **Developer Tools:** [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter), [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) |
+| [yangxy](https://www.raycast.com/yangxy) | 2 | 8,540 | **Developer Tools:** [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter), [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) |
 | [yannglt](https://www.raycast.com/yannglt) | 3 | 801 | **Communication:** [Gather](https://github.com/raycast/extensions/tree/main/extensions/gather)<br>**Applications:** [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats), [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere) |
 | [yaronschwimmer](https://www.raycast.com/yaronschwimmer) | 1 | 2,141 | **Productivity:** [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) |
 | [yasinozmeen](https://www.raycast.com/yasinozmeen) | 1 | 11 | **Productivity:** [Random Date Generator](https://github.com/raycast/extensions/tree/main/extensions/random-date-generator) |
