@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "afbd98818a2f2263b7e8ad99abe9fbf31658a370",
-  "generatedAt": "2026-09-05T18:21:21.828Z",
-  "downloadsRefreshedAt": "2026-09-05T18:21:21.039Z",
-  "count": 3256,
+  "commit": "334f5b8876fd6d3977a1b72aaddc5fb0c38f19f6",
+  "generatedAt": "2026-09-05T19:45:10.184Z",
+  "downloadsRefreshedAt": "2026-09-05T19:45:09.772Z",
+  "count": 3257,
   "extensions": [
     {
       "dir": "0x0",
@@ -9894,7 +9894,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 534039
+      "downloads": 534094
     },
     {
       "dir": "color-shades",
@@ -22310,7 +22310,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 515643
+      "downloads": 515684
     },
     {
       "dir": "google-chrome-profiles",
@@ -28653,7 +28653,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 692990
+      "downloads": 693041
     },
     {
       "dir": "kimai",
@@ -33452,6 +33452,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/md-to-excel",
       "treeSha": "11f94e8c739aea3dd9293dea77b80b0e1b1200cd",
       "downloads": 699
+    },
+    {
+      "dir": "mealie",
+      "name": "mealie",
+      "title": "Mealie",
+      "description": "Manage Mealie shopping lists and meal plans, import recipes and search your recipe collection.",
+      "author": "joschka_rick",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/joschka_rick/mealie",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/mealie",
+      "treeSha": "11853b55161cd6abd12638809432de8c948feeb5",
+      "downloads": 0
     },
     {
       "dir": "media-converter",
@@ -56531,10 +56551,10 @@
         "Windows",
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/artistro08/sunsama",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sunsama",
       "treeSha": "e7b5c7b03465b452d70f166bf8eb3a56eba99e67",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "supabase",

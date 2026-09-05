@@ -1,6 +1,6 @@
 # General
 
-107 extensions · [← Search & Bookmarks](./README.md)
+108 extensions · [← Search & Bookmarks](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -110,4 +110,5 @@
 | [WHMCS Client Search](https://github.com/raycast/extensions/tree/main/extensions/whmcs-client-search) | 4 | Search your WHMCS Clients and quickly access the client's profile, billable entries, and more. | mwender | macOS | [store](https://www.raycast.com/mwender/whmcs-client-search) |
 | [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | 3 | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | [store](https://www.raycast.com/THEN00P/heidisql-sessions) |
 | [Userplane](https://github.com/raycast/extensions/tree/main/extensions/userplane) | 3 | Create Userplane recording links, browse recordings and recording links, and open the Userplane dashboard — all from Raycast. | wizenheimer | macOS | [store](https://www.raycast.com/wizenheimer/userplane) |
+| [Mealie](https://github.com/raycast/extensions/tree/main/extensions/mealie) | 0 | Manage Mealie shopping lists and meal plans, import recipes and search your recipe collection. | joschka_rick | macOS | [store](https://www.raycast.com/joschka_rick/mealie) |
 | [Search Blockchain](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) | — | Search Bitcoin (BTC), Cardano (ADA), EOS, Ethereum (ETH), Monero (XMR), NEO, Ontology (ONT), Polygon (DOT), Solana (SOL), Stellar (XLM), Tron (TRX), XRP and mo… | gutenye | macOS | — |

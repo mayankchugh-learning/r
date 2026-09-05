@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-05 — upstream `334f5b8876`
+
+**Added (1):** [Mealie](https://github.com/raycast/extensions/tree/main/extensions/mealie)
+
 ## 2026-09-05 — upstream `afbd98818a`
 
 **Added (1):** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama)

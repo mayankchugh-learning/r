@@ -163,7 +163,7 @@
 | [arran-nz](https://www.raycast.com/arran-nz) | 1 | 66 | **Productivity:** [German Train Info](https://github.com/raycast/extensions/tree/main/extensions/bahn-info) |
 | [Arthals](https://www.raycast.com/Arthals) | 1 | 1,555 | **Developer Tools:** [SimpleTexOCR](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) |
 | [arthurn](https://www.raycast.com/arthurn) | 1 | 34 | **Finance:** [Toncoin (TON) Price](https://github.com/raycast/extensions/tree/main/extensions/toncoin-price) |
-| artistro08 | 1 | — | **Applications:** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) |
+| [artistro08](https://www.raycast.com/artistro08) | 1 | 0 | **Applications:** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) |
 | [artivilla](https://www.raycast.com/artivilla) | 1 | 121 | **Web:** [Farcaster](https://github.com/raycast/extensions/tree/main/extensions/farcaster) |
 | [artpi](https://www.raycast.com/artpi) | 1 | 1,104 | **Productivity:** [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) |
 | [arturdz](https://www.raycast.com/arturdz) | 1 | 41 | **Design Tools:** [Figma Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/figma-shortcuts) |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-130 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+131 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -93,6 +93,7 @@
 | [jorgenosberg](https://www.raycast.com/jorgenosberg) | 1 | 9 | **Developer Tools:** [agentcfg](https://github.com/raycast/extensions/tree/main/extensions/agentcfg) |
 | [jorges](https://www.raycast.com/jorges) | 1 | 366 | **Web:** [Trovu - Web Search Command Line](https://github.com/raycast/extensions/tree/main/extensions/trovu) |
 | [jorgetoh](https://www.raycast.com/jorgetoh) | 2 | 94 | **Developer Tools:** [Micro Snitch Logs](https://github.com/raycast/extensions/tree/main/extensions/micro-snitch-logs)<br>**Finance:** [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) |
+| [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 | **Productivity:** [Mealie](https://github.com/raycast/extensions/tree/main/extensions/mealie) |
 | [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 295 | **Developer Tools:** [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) |
 | [jose-elias-alvarez](https://www.raycast.com/jose-elias-alvarez) | 1 | 1,636 | **Developer Tools:** [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) |
 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 105,312 | **Media:** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search), [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) |

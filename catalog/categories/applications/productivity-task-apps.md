@@ -20,4 +20,4 @@
 | [Pinwork](https://github.com/raycast/extensions/tree/main/extensions/pinwork) | 15 | Capture a complete task in one sentence, then manage Today, Inbox, upcoming tasks, and projects from Raycast | adapting.tech | macOS | [store](https://www.raycast.com/adapting.tech/pinwork) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 9 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |
 | [MenuCloak](https://github.com/raycast/extensions/tree/main/extensions/menucloak) | 3 | Control MenuCloak focus, cloak, and Google Calendar settings | dans_huang | macOS | [store](https://www.raycast.com/dans_huang/menucloak) |
-| [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) | — | Create, Edit, View, and Delete Tasks in Sunsama | artistro08 | Windows, macOS | — |
+| [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) | 0 | Create, Edit, View, and Delete Tasks in Sunsama | artistro08 | Windows, macOS | [store](https://www.raycast.com/artistro08/sunsama) |
