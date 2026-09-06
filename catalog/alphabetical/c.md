@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 534,365 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 534,421 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 243,717 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 131,177 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 109,846 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -31,7 +31,7 @@
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,310 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [Clipboard Editor](https://github.com/raycast/extensions/tree/main/extensions/clipboard-editor) | 7,123 | Edit your clipboard text | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/clipboard-editor) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,603 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
-| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,517 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,518 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
 | [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,417 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
 | [Cursor Agents](https://github.com/raycast/extensions/tree/main/extensions/cursor-agents) | 6,331 | Create and manage background agents that work on your repositories | anysphere (org) | macOS, Windows | [store](https://www.raycast.com/anysphere/cursor-agents) |
 | [Compress PDF](https://github.com/raycast/extensions/tree/main/extensions/compress-pdf) | 5,881 | Compress PDF files | felixhaeberle | macOS | [store](https://www.raycast.com/felixhaeberle/compress-pdf) |

@@ -79,7 +79,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 56 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,604 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 515,887 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 515,933 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,399 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 115 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 713 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |

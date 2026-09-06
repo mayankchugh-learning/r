@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,151,024 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,151,080 |
 | 2 | [raycast](./id/raycast.md) | 11 | 815,294 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 693,324 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 515,887 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 693,387 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 515,933 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 452,930 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 448,120 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 418,810 |
@@ -221,7 +221,7 @@
 | 211 | [fearoffish](https://www.raycast.com/fearoffish) | 1 | 6,627 |
 | 212 | [Jordan-Ellis](https://www.raycast.com/Jordan-Ellis) | 1 | 6,603 |
 | 213 | [comoser](https://www.raycast.com/comoser) | 3 | 6,593 |
-| 214 | [aelew](https://www.raycast.com/aelew) | 1 | 6,517 |
+| 214 | [aelew](https://www.raycast.com/aelew) | 1 | 6,518 |
 | 215 | [dru89](https://www.raycast.com/dru89) | 1 | 6,505 |
 | 216 | [theo_daguier](https://www.raycast.com/theo_daguier) | 2 | 6,495 |
 | 217 | [kud](./id/kud.md) | 13 | 6,493 |

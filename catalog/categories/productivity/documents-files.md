@@ -97,7 +97,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 121,426 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
 | [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 34,766 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
-| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,517 | Download videos and audio from popular social media platforms with ease. | aelew | macOS | [store](https://www.raycast.com/aelew/cobalt) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,518 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
 | [The Blue Cloud](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) | 4,990 | List, Search and Download Files using the Raycast Extension for Dropbox. | chyroc | macOS | [store](https://www.raycast.com/chyroc/the-blue-cloud) |
 | [Icons8](https://github.com/raycast/extensions/tree/main/extensions/icons8) | 4,224 | Search and download icons using Icons8 large library. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/icons8) |
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,275 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |

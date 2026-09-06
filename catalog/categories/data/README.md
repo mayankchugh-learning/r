@@ -2,7 +2,7 @@
 
 270 extensions · [← all categories](../README.md)
 
-macOS: 270 · Windows: 89
+macOS: 270 · Windows: 90
 
 ## Transform & Generate
 

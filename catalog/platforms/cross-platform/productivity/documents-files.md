@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-23 of 349 extensions · [← Cross-platform · Productivity](./README.md)
+24 of 350 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@
 | [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash) | 34,766 | Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/unsplash) |
 | [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 25,149 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
 | [Open in Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) | 12,314 | Open current File Manager directory, selected folder or file in Visual Studio Code. | shubzkothekar | macOS, Windows | [store](https://www.raycast.com/shubzkothekar/open-in-visual-studio-code) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,518 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
 | [Microsoft OneDrive](https://github.com/raycast/extensions/tree/main/extensions/microsoft-onedrive) | 1,900 | Access, search, and manage your OneDrive and SharePoint files | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/microsoft-onedrive) |
 | [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,435 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,275 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |

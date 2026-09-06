@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-06 — upstream `9cf6be8b14`
+
+**Updated (1):** [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt)
+
 ## 2026-09-06 — upstream `1063bfaa34`
 
 **Updated (1):** [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat)

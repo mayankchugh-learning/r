@@ -1,8 +1,8 @@
 # Cross-platform · Media
 
-81 extensions · [← Cross-platform](../README.md)
+82 extensions · [← Cross-platform](../README.md)
 
-[Music & Audio](#music-audio) (12) · [Video & Streaming](#video-streaming) (10) · [Images & Photos](#images-photos) (16) · [Wallpapers & Art](#wallpapers-art) (5) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (30)
+[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (10) · [Images & Photos](#images-photos) (16) · [Wallpapers & Art](#wallpapers-art) (5) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (30)
 
 ## Listen & Watch
 
@@ -13,6 +13,7 @@
 | [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 443,819 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
 | [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 25,149 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
 | [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 6,956 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,518 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
 | [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,458 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
 | [Genius Lyrics](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) | 2,475 | Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API. | tkdkid1000 | macOS, Windows | [store](https://www.raycast.com/tkdkid1000/genius-lyrics) |
 | [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,175 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
