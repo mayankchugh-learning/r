@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e87196b58433ba246416321ea1029aaac3810154",
-  "generatedAt": "2026-09-06T17:31:03.613Z",
-  "downloadsRefreshedAt": "2026-09-06T17:31:02.945Z",
+  "commit": "e233edb859359b688e96d275699398ff27c076fa",
+  "generatedAt": "2026-09-06T17:32:42.487Z",
+  "downloadsRefreshedAt": "2026-09-06T17:32:41.603Z",
   "count": 3258,
   "extensions": [
     {
@@ -9915,7 +9915,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 534869
+      "downloads": 534870
     },
     {
       "dir": "color-shades",
@@ -38722,7 +38722,7 @@
       ],
       "store": "https://www.raycast.com/marcjulian/obsidian",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian",
-      "treeSha": "69a2754e04df76353da1a435837e7356d637f458",
+      "treeSha": "1c930c0d7aa665687e1162688afbf07004c8880f",
       "downloads": 156450
     },
     {
