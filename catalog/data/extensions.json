@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9e862f23d9377bd8811dc1af9b73f32950d5db2a",
-  "generatedAt": "2026-09-06T17:34:33.764Z",
-  "downloadsRefreshedAt": "2026-09-06T17:34:33.312Z",
+  "commit": "a7fb9bce7668c6bda07193e26ff6fbf11abbe3c5",
+  "generatedAt": "2026-09-06T17:40:48.965Z",
+  "downloadsRefreshedAt": "2026-09-06T17:40:48.555Z",
   "count": 3258,
   "extensions": [
     {
@@ -6122,7 +6122,7 @@
       ],
       "store": "https://www.raycast.com/raycast/browser-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks",
-      "treeSha": "48e7c6f497a9f3bb71a887fcb2edfdeeb281fea4",
+      "treeSha": "3ab84dad047940d63266adc79fb89258cdb0fb6e",
       "downloads": 59755
     },
     {
@@ -9915,7 +9915,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 534872
+      "downloads": 534880
     },
     {
       "dir": "color-shades",
@@ -22331,7 +22331,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 516255
+      "downloads": 516258
     },
     {
       "dir": "google-chrome-profiles",
@@ -28674,7 +28674,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 693823
+      "downloads": 693829
     },
     {
       "dir": "kimai",
@@ -38723,7 +38723,7 @@
       "store": "https://www.raycast.com/marcjulian/obsidian",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian",
       "treeSha": "1c930c0d7aa665687e1162688afbf07004c8880f",
-      "downloads": 156450
+      "downloads": 156477
     },
     {
       "dir": "obsidian-bookmarks",
@@ -46761,7 +46761,7 @@
       "store": "https://www.raycast.com/loris/random",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/random-data-generator",
       "treeSha": "ec2ff5c53e47addf78c85374e43e07bd86b41dbf",
-      "downloads": 33115
+      "downloads": 33119
     },
     {
       "dir": "random-date-generator",

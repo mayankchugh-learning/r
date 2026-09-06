@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 155,024 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,834 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,558 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,151,860 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,151,868 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 307,896 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 15,985 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 419,007 |
@@ -42,7 +42,7 @@
 | 32 | [samuelkraft](https://www.raycast.com/samuelkraft) | 7 | 2,678 |
 | 33 | [khlebobul](https://www.raycast.com/khlebobul) | 7 | 1,926 |
 | 34 | [lemikeone](https://www.raycast.com/lemikeone) | 7 | 952 |
-| 35 | [loris](https://www.raycast.com/loris) | 6 | 127,441 |
+| 35 | [loris](https://www.raycast.com/loris) | 6 | 127,445 |
 | 36 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 93,277 |
 | 37 | [huzef44](https://www.raycast.com/huzef44) | 6 | 75,426 |
 | 38 | [1weiho](https://www.raycast.com/1weiho) | 6 | 41,388 |
@@ -171,7 +171,7 @@
 | 161 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 243,917 |
 | 162 | [mooxl](https://www.raycast.com/mooxl) | 2 | 190,218 |
 | 163 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 172,162 |
-| 164 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 156,689 |
+| 164 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 156,716 |
 | 165 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 105,482 |
 | 166 | [tegola](https://www.raycast.com/tegola) | 2 | 82,471 |
 | 167 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 58,512 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 10 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 8 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 693,823 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 516,255 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 693,829 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 516,258 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 360,540 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 299,009 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 264,055 |
