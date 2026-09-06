@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 359,971 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
-| [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,506 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
+| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 360,237 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
+| [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,507 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
 | [Atlassian Data Center (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/atlassian-data-center) | 352 | Search and manage Confluence contents and Jira issues | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/atlassian-data-center) |
 | [Backlog.md Manager](https://github.com/raycast/extensions/tree/main/extensions/backlog-md-manager) | 48 | Manage Backlog.md tasks from Raycast — create, browse, search, edit, and change status across multiple projects using the backlog CLI. | nicholas_ferguson | macOS, Windows | [store](https://www.raycast.com/nicholas_ferguson/backlog-md-manager) |

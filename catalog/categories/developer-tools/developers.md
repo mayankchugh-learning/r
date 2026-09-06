@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 24,158 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
-| [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,551 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |
-| [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,860 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
+| [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 24,166 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
+| [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,554 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |
+| [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,863 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) | 1,749 | Pieces for Developers Raycast Extension | pieces (org) | macOS | [store](https://www.raycast.com/pieces/pieces-raycast) |
 | [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,190 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
 | [CPF/CNPJ Generator](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) | 625 | Generate CPF (Cadastro de Pessoa Físca) number or CNPJ (Cadastro Nacional de Pessoa Jurídica) number data for developers | gstvds | macOS | [store](https://www.raycast.com/gstvds/cpf-cnpj-generator) |

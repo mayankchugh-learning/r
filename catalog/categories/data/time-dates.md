@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 6,185 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
-| [Remember This](https://github.com/raycast/extensions/tree/main/extensions/remember-this) | 1,781 | Remember This is an app designed to help you stay motivated and focused on completing your work by its due date. Simply enter any information, such as tasks, n… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/remember-this) |
+| [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 6,189 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
+| [Remember This](https://github.com/raycast/extensions/tree/main/extensions/remember-this) | 1,782 | Remember This is an app designed to help you stay motivated and focused on completing your work by its due date. Simply enter any information, such as tasks, n… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/remember-this) |
 | [Number Facts](https://github.com/raycast/extensions/tree/main/extensions/number-facts) | 213 | Get facts about numbers, dates, and years | BossElijah | macOS | [store](https://www.raycast.com/BossElijah/number-facts) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 205 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 179 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,366 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
+| [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,368 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
 | [Norwegian Public Transport](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) | 117 | Real-time departures for Norwegian public transport. Data made available by Entur. | rosvik | macOS | [store](https://www.raycast.com/rosvik/raycast-norwegian-public-transport) |
 | [Tesla Energy](https://github.com/raycast/extensions/tree/main/extensions/tesla-energy) | 13 | Monitor your Tesla solar panels and Powerwalls. View real-time solar production, battery charge, grid usage, and energy history. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/tesla-energy) |
 | [Datafast](https://github.com/raycast/extensions/tree/main/extensions/datafast) | 11 | View your Datafast web analytics — visitors, revenue, pages, referrers, campaigns, and real-time data | joshmillgate | macOS | [store](https://www.raycast.com/joshmillgate/datafast) |
@@ -32,5 +32,5 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,373 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
+| [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,378 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
 | [Playback Duration Calculator](https://github.com/raycast/extensions/tree/main/extensions/playback-duration-calculator) | 129 | Find out how long your video or audio will take to finish based on your playback speed. | nathanwijaya | macOS | [store](https://www.raycast.com/nathanwijaya/playback-duration-calculator) |

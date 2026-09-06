@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 26,963 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
-| [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket) | 3,913 | The extension allow you to quickly access repositories, pipelines and pull-requests in Bitbucket | Francois | macOS, Windows | [store](https://www.raycast.com/Francois/bitbucket) |
+| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 26,977 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
+| [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket) | 3,915 | The extension allow you to quickly access repositories, pipelines and pull-requests in Bitbucket | Francois | macOS, Windows | [store](https://www.raycast.com/Francois/bitbucket) |
 | [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) | 2,538 | Search your code and public repositories with Sourcegraph. | bobheadxi | macOS | [store](https://www.raycast.com/bobheadxi/sourcegraph) |
 | [Tower Repositories](https://github.com/raycast/extensions/tree/main/extensions/tower) | 2,459 | Navigate and open your repositories in Tower. | tdwesten | macOS | [store](https://www.raycast.com/tdwesten/tower) |
 | [Fork Repositories](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) | 2,086 | Search and open Fork repositories | sxn | macOS, Windows | [store](https://www.raycast.com/sxn/fork-repositories) |

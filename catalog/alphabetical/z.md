@@ -6,15 +6,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 104,914 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
-| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 21,115 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
-| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 14,391 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
-| [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,702 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
-| [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 2,743 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
-| [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,497 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
-| [Zen Mode](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) | 1,739 | Hide Everything. Mute Everything. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/zen-mode) |
-| [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager) | 1,531 | View and manage your ~/.zshrc from Raycast | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/zshrc-manager) |
-| [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) | 1,167 | Manage zsh aliases | espenbye | macOS | [store](https://www.raycast.com/espenbye/zsh-aliases) |
+| [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 104,979 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
+| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 21,128 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
+| [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) | 14,404 | Search and open recent projects from Zed | ewgenius | macOS, Windows | [store](https://www.raycast.com/ewgenius/zed-recent-projects) |
+| [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,704 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
+| [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 2,745 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
+| [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,498 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
+| [Zen Mode](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) | 1,741 | Hide Everything. Mute Everything. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/zen-mode) |
+| [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager) | 1,536 | View and manage your ~/.zshrc from Raycast | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/zshrc-manager) |
+| [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) | 1,168 | Manage zsh aliases | espenbye | macOS | [store](https://www.raycast.com/espenbye/zsh-aliases) |
 | [Zipcodebase](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) | 444 | Lookup postal codes, calculate distances and much more with Zipcodebase. | xmok | macOS | [store](https://www.raycast.com/xmok/zipcodebase) |
 | [Zeplin Project Search](https://github.com/raycast/extensions/tree/main/extensions/zeplin-project-search) | 281 | List and Search Zeplin Projects | dorukgunes | macOS | [store](https://www.raycast.com/dorukgunes/zeplin-project-raycast-extension) |
 | [Zoxide Git Projects](https://github.com/raycast/extensions/tree/main/extensions/zoxide-git-projects) | 267 | Allows the user to select git repositories found by filtering a zoxide query, then open them in an application of choice. | theherk | macOS | [store](https://www.raycast.com/theherk/zoxide-git-projects) |
@@ -34,7 +34,7 @@
 | [Zeitraum](https://github.com/raycast/extensions/tree/main/extensions/zeitraum) | 30 | Track time with tags to Zeitraum server | tensor | macOS | [store](https://www.raycast.com/tensor/zeitraum) |
 | [Zodme](https://github.com/raycast/extensions/tree/main/extensions/zodme) | 25 | Look up a zodiac sign from a birthday | camib0b | macOS, Windows | [store](https://www.raycast.com/camib0b/zodme) |
 | [ZenMux Manager](https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager) | 17 | Monitor ZenMux usage, manage account links, and ask Raycast AI about ZenMux. | abnershang | macOS, Windows | [store](https://www.raycast.com/abnershang/zenmux-manager) |
-| [ZeroSSL](https://github.com/raycast/extensions/tree/main/extensions/zerossl) | 13 | Manage ZeroSSL Certificates | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zerossl) |
+| [ZeroSSL](https://github.com/raycast/extensions/tree/main/extensions/zerossl) | 14 | Manage ZeroSSL Certificates | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zerossl) |
 | [Zerodha Portfolio (Kite+Coin)](https://github.com/raycast/extensions/tree/main/extensions/zerodha-portfolio-kite-coin) | 10 | View your zerodha kite and zerodha coin portfolio | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/zerodha-portfolio-kite-coin) |
 | [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 10 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | 7 | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |

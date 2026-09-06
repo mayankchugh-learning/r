@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 298,745 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,349 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
-| [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,580 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 298,874 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,354 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
+| [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,584 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |
 | [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 201 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |
 | [Pretty PR Link](https://github.com/raycast/extensions/tree/main/extensions/pretty-pr-link) | 120 | Quickly copy the link of a GitHub Pull Request in a formatted way so you can share with your team and ask for reviews. | jopcmelo | macOS, Windows | [store](https://www.raycast.com/jopcmelo/pretty-pr-link) |
 | [NicheFund Business Ideas](https://github.com/raycast/extensions/tree/main/extensions/nichefund-business-ideas) | 8 | Discover why MicroSaaS ideas fail and find validated ideas worth building. | backlooplabs | macOS, Windows | [store](https://www.raycast.com/backlooplabs/nichefund-business-ideas) |

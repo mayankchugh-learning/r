@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-06 — upstream `1063bfaa34`
+
+**Updated (1):** [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat)
+
 ## 2026-09-05 — upstream `4ada37bbcb`
 
 **Updated (1):** [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare)

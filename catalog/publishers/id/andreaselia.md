@@ -1,12 +1,12 @@
 # andreaselia
 
-10 extensions · 3,931 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
+10 extensions · 3,933 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
 
 ## Data (7)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,218 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
+| [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,219 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
 | [Better Uptime](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) | 744 | Check on your Better Uptime monitors, incidents and heartbeats. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/better-uptime) |
 | [StoryTime](https://github.com/raycast/extensions/tree/main/extensions/storytime) | 381 | Generate a story using OpenAI and Upstash. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/storytime) |
 | [Abstract API](https://github.com/raycast/extensions/tree/main/extensions/abstract-api) | 317 | Automate routine dev work with Abstract's suite of APIs | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/abstract-api) |
@@ -18,7 +18,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 530 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
+| [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 531 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
 | [Disney](https://github.com/raycast/extensions/tree/main/extensions/disney) | 133 | Explore information about your beloved Disney characters by searching for them. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/disney) |
 
 ## Applications (1)
