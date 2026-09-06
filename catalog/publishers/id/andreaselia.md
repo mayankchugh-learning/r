@@ -1,6 +1,6 @@
 # andreaselia
 
-10 extensions · 3,933 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
+10 extensions · 3,936 downloads · [store](https://www.raycast.com/andreaselia) · [← publishers](../README.md)
 
 ## Data (7)
 
@@ -12,14 +12,14 @@
 | [Abstract API](https://github.com/raycast/extensions/tree/main/extensions/abstract-api) | 317 | Automate routine dev work with Abstract's suite of APIs | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/abstract-api) |
 | [M3O](https://github.com/raycast/extensions/tree/main/extensions/m3o) | 145 | Explore, discover and consume public APIs as simpler programmable building blocks. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/m3o) |
 | [Liveblocks](https://github.com/raycast/extensions/tree/main/extensions/liveblocks) | 90 | Exposes the Liveblocks API via a pleasant and easy to use UI. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/liveblocks) |
-| [Emissions Calculator](https://github.com/raycast/extensions/tree/main/extensions/emissions-calculator) | 86 | Calculate the carbon emissions for the given distance and mode of transport. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/emissions-calculator) |
+| [Emissions Calculator](https://github.com/raycast/extensions/tree/main/extensions/emissions-calculator) | 87 | Calculate the carbon emissions for the given distance and mode of transport. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/emissions-calculator) |
 
 ## Fun (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 531 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
-| [Disney](https://github.com/raycast/extensions/tree/main/extensions/disney) | 133 | Explore information about your beloved Disney characters by searching for them. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/disney) |
+| [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 532 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |
+| [Disney](https://github.com/raycast/extensions/tree/main/extensions/disney) | 134 | Explore information about your beloved Disney characters by searching for them. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/disney) |
 
 ## Applications (1)
 

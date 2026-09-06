@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,209 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
+| [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,214 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |
 | [Parallels Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines) | 3,606 | Launch and control virtual machines in Parallels Desktop. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/parallels-virtual-machines) |
 | [UTM Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) | 1,178 | Launch and control virtual machines in UTM. | alaidriel | macOS | [store](https://www.raycast.com/cecelot/utm-virtual-machines) |
 | [Paperspace](https://github.com/raycast/extensions/tree/main/extensions/paperspace) | 71 | Control your Paperspace machines | yuri | macOS | [store](https://www.raycast.com/yuri/paperspace) |

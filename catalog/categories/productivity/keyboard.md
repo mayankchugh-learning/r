@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 67,683 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
-| [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,901 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
-| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,986 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
-| [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) | 5,838 | Control the Podcasts app for macOS with your keyboard. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/podcasts) |
-| [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,554 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 67,761 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 42,907 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
+| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 25,998 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
+| [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) | 5,846 | Control the Podcasts app for macOS with your keyboard. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/podcasts) |
+| [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,556 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |
 | [NeteaseMusic](https://github.com/raycast/extensions/tree/main/extensions/netease-music) | 2,150 | Control the NeteaseMusic app with your keyboard | chyroc | macOS | [store](https://www.raycast.com/chyroc/netease-music) |
 | [NumPad](https://github.com/raycast/extensions/tree/main/extensions/numpad) | 316 | NumPad Keyboard Extension for Raycast | paulovictor237 | macOS | [store](https://www.raycast.com/paulovictor237/numpad) |
 | [Arabic Keyboard](https://github.com/raycast/extensions/tree/main/extensions/arabic-keyboard) | 118 | Arabic Keyboard for Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/arabic-keyboard) |

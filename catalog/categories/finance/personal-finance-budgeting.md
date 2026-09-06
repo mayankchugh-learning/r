@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) | 431 | View the balances and add expenses to Splitwise | ilian | macOS | [store](https://www.raycast.com/ilian/splitwise) |
+| [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) | 433 | View the balances and add expenses to Splitwise | ilian | macOS | [store](https://www.raycast.com/ilian/splitwise) |
 | [Better Deal](https://github.com/raycast/extensions/tree/main/extensions/better-deal) | 304 | Calculates unit costs and tracks purchasing history to help you find the best deals. | juxtdesigncc | macOS | [store](https://www.raycast.com/juxtdesigncc/better-deal) |
 | [MoneyLover](https://github.com/raycast/extensions/tree/main/extensions/moneylover) | 134 | MoneyLover is a personal finance app that helps you manage your money, budget, and track your spending. | lachero | macOS | [store](https://www.raycast.com/lachero/moneylover) |
 | [Firefly III](https://github.com/raycast/extensions/tree/main/extensions/firefly-iii) | 103 | A free and open source personal finance manager | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/firefly-iii) |
@@ -18,8 +18,8 @@
 | [Maybe](https://github.com/raycast/extensions/tree/main/extensions/maybe) | 26 | The personal finance app for everyone | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/maybe) |
 | [Rewiser](https://github.com/raycast/extensions/tree/main/extensions/rewiser) | 18 | Track and manage your Rewiser transactions directly from Raycast | rewiser_io | macOS | [store](https://www.raycast.com/rewiser_io/rewiser) |
 | [Portuguese Tax Number](https://github.com/raycast/extensions/tree/main/extensions/nif-fresquinho) | 11 | Copy a new Portuguese Tax Number to the clipboard | poor666 | macOS | [store](https://www.raycast.com/poor666/nif-fresquinho) |
+| [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) | 8 | Calculate the real cost of your camper van per day – track expenses, residual value, and yearly breakdown. | wdeu | macOS | [store](https://www.raycast.com/wdeu/camper-calc) |
 | [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) | 8 | Add transactions to your Ducat account | rahulchowdhury | macOS, Windows | [store](https://www.raycast.com/rahulchowdhury/ducat) |
-| [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc) | 7 | Calculate the real cost of your camper van per day – track expenses, residual value, and yearly breakdown. | wdeu | macOS | [store](https://www.raycast.com/wdeu/camper-calc) |
 | [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) | 5 | Search BC Assessment properties by address. | martins | macOS, Windows | [store](https://www.raycast.com/martins/bcassessment) |
 | [Quick Toshl](https://github.com/raycast/extensions/tree/main/extensions/quick-toshl) | 5 | Add expense and income to your Toshl account | hoando | macOS, Windows | [store](https://www.raycast.com/hoando/quick-toshl) |
 | [Cobalt Finance](https://github.com/raycast/extensions/tree/main/extensions/cobalt-finance) | 4 | Access your Cobalt finances from Raycast. | sriket_komali | macOS | [store](https://www.raycast.com/sriket_komali/cobalt-finance) |
