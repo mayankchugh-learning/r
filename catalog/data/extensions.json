@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c881fe5e09f807c52b977a57d3581e1014262016",
-  "generatedAt": "2026-09-07T10:35:34.833Z",
+  "commit": "e32b0fb365be39c7db0c312eb463a3072039a837",
+  "generatedAt": "2026-09-07T11:01:21.842Z",
   "downloadsRefreshedAt": "2026-09-07T10:35:33.793Z",
-  "count": 3261,
+  "count": 3262,
   "extensions": [
     {
       "dir": "0x0",
@@ -54344,6 +54344,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/smartthings-connector",
       "treeSha": "e3e75c94b9cd7d018cbc12b68d7d49233967ba81",
       "downloads": 278
+    },
+    {
+      "dir": "smry",
+      "name": "smry",
+      "title": "Smry",
+      "description": "Save browser tabs and links to your smry Inbox or Later list.",
+      "author": "smry",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/smry/smry",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/smry",
+      "treeSha": "4de1fe777a652f6651816b994d47ded95ebe3860",
+      "downloads": null
     },
     {
       "dir": "smultron",

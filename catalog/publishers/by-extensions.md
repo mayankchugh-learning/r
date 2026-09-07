@@ -1,6 +1,6 @@
 # Publishers
 
-2178 publishers · [← catalog index](../README.md)
+2179 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -2186,3 +2186,4 @@
 | 2176 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2177 | [satchmo](https://www.raycast.com/satchmo) | 1 | 0 |
 | 2178 | multi | 1 | — |
+| 2179 | [smry](https://www.raycast.com/smry) | 1 | — |

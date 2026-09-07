@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · **Email** · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-22 of 1468 extensions · [← macOS · Productivity](./README.md)
+23 of 1469 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,4 @@
 | [Bento Email](https://github.com/raycast/extensions/tree/main/extensions/bento) | 25 | Interact with Bento (bentonow.com) to add subscribers, view broadcasts, reports, and other utility features. | zeromana | macOS | [store](https://www.raycast.com/zeromana/bento) |
 | [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) | 22 | Find the verified email address of any professional. | morrissimons | macOS, Windows | [store](https://www.raycast.com/morrissimons/mail-finder) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 7 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
+| [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) | — | Save browser tabs and links to your smry Inbox or Later list. | smry | macOS | [store](https://www.raycast.com/smry/smry) |

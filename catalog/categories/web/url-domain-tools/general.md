@@ -1,6 +1,6 @@
 # General
 
-12 extensions · [← URL & Domain Tools](./README.md)
+13 extensions · [← URL & Domain Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -16,3 +16,4 @@
 | [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 16 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |
 | [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | 10 | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/the-forest-link) |
 | [Cloudstash](https://github.com/raycast/extensions/tree/main/extensions/cloudstash) | 6 | Save links to Cloudstash | birdie | macOS | [store](https://www.raycast.com/birdie/cloudstash) |
+| [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) | — | Save browser tabs and links to your smry Inbox or Later list. | smry | macOS | [store](https://www.raycast.com/smry/smry) |

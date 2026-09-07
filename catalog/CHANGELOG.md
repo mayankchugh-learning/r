@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `e32b0fb365`
+
+**Added (1):** [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry)
+
 ## 2026-09-07 — upstream `c881fe5e09`
 
 **Updated (1):** [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox)
