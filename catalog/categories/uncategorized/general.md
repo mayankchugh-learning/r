@@ -4,15 +4,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 11,381 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,028 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [Recents](https://github.com/raycast/extensions/tree/main/extensions/recents) | 11,386 | Show Recently used files and folders in Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/recents) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,033 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
 | [8 Ball](https://github.com/raycast/extensions/tree/main/extensions/8ball) | 2,010 | Returns an 8 ball like answer to questions | rocksack | macOS | [store](https://www.raycast.com/rocksack/8-ball) |
-| [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses) | 1,822 | Use Ulysses with Raycast | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/ulysses) |
+| [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses) | 1,824 | Use Ulysses with Raycast | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/ulysses) |
 | [Easings](https://github.com/raycast/extensions/tree/main/extensions/easings) | 1,805 | Quickly find and grab your favorite easings. | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/easings) |
-| [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) | 1,800 | PDF Compression using native PDFKit | birkhoff | macOS | [store](https://www.raycast.com/birkhoff/pdf-compression) |
+| [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) | 1,803 | PDF Compression using native PDFKit | birkhoff | macOS | [store](https://www.raycast.com/birkhoff/pdf-compression) |
 | [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) | 1,752 | A Raycast Extension that instantly pastes rich text or HTML content into Markdown. | weicodes | macOS | [store](https://www.raycast.com/weicodes/paste-to-markdown) |
-| [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,312 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
-| [Feedly](https://github.com/raycast/extensions/tree/main/extensions/feedly) | 1,243 | Browse Feedly through Raycast | shubham | macOS | [store](https://www.raycast.com/shubham/feedly) |
+| [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,313 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
+| [Feedly](https://github.com/raycast/extensions/tree/main/extensions/feedly) | 1,244 | Browse Feedly through Raycast | shubham | macOS | [store](https://www.raycast.com/shubham/feedly) |
 | [Simple Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) | 1,185 | This is a Youdao translation extension with simple interaction | xeric | macOS | [store](https://www.raycast.com/xeric/simple-youdao) |
 | [Sniffer](https://github.com/raycast/extensions/tree/main/extensions/sniffer) | 1,016 | FInd who is connected to your network | night_coder | macOS | [store](https://www.raycast.com/night_coder/sniffer) |
 | [Color Hunt](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) | 1,007 | Color Palettes for Designers and Artists | Lemon | macOS | [store](https://www.raycast.com/Lemon/color-hunt) |
@@ -20,9 +20,9 @@
 | [Kaalam](https://github.com/raycast/extensions/tree/main/extensions/kaalam) | 870 | Gives Current Time in all formats | heerthees | macOS | [store](https://www.raycast.com/heerthees/kaalam) |
 | [Squeeze](https://github.com/raycast/extensions/tree/main/extensions/squeeze) | 724 | A simple utility for whitespace and line break removal. | daniel_ac | macOS | [store](https://www.raycast.com/daniel_ac/squeeze) |
 | [ENS Name Lookup](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) | 563 | Lookup ENS name or address | Yukai | macOS | [store](https://www.raycast.com/Yukai/ens-name-lookup) |
-| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 482 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
+| [Better Aliases](https://github.com/raycast/extensions/tree/main/extensions/better-aliases) | 483 | Better Aliases - Create better aliases in Raycast | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/better-aliases) |
 | [What Happened Today](https://github.com/raycast/extensions/tree/main/extensions/what-happened-today) | 376 | Discover historical events, notable birthdays, and milestones on any date. | nikhil_tiwari | macOS | [store](https://www.raycast.com/nikhil_tiwari/what-happened-today) |
-| [Where Is My Cursor?](https://github.com/raycast/extensions/tree/main/extensions/where-is-my-cursor) | 356 | Visual aid to find cursor, specially useful when utilizing more than 1 monitor. | luciodaou | macOS | [store](https://www.raycast.com/luciodaou/where-is-my-cursor) |
+| [Where Is My Cursor?](https://github.com/raycast/extensions/tree/main/extensions/where-is-my-cursor) | 358 | Visual aid to find cursor, specially useful when utilizing more than 1 monitor. | luciodaou | macOS | [store](https://www.raycast.com/luciodaou/where-is-my-cursor) |
 | [NetNewsWire](https://github.com/raycast/extensions/tree/main/extensions/netnewswire) | 161 | NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad | xmok | macOS | [store](https://www.raycast.com/xmok/netnewswire) |
 | [Tally](https://github.com/raycast/extensions/tree/main/extensions/tally) | 141 | Tally is the simplest way to create forms, for free. | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/tally) |
 | [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) | 118 | Powerful SVG previewer and editor with dark mode and PNG export. | gaosunhao | macOS | [store](https://www.raycast.com/gaosunhao/svg-studio) |

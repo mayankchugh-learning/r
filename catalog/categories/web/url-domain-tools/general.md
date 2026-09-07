@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,586 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
-| [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub) | 1,572 | Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Ra… | dubinc (org) | macOS | [store](https://www.raycast.com/dubinc/dub) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,587 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub) | 1,574 | Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Ra… | dubinc (org) | macOS | [store](https://www.raycast.com/dubinc/dub) |
 | [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,219 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
 | [Create Link](https://github.com/raycast/extensions/tree/main/extensions/create-link) | 744 | Create a link to the currently open browser tab in various formats (plain text, HTML, Markdown). | sinsky | macOS | [store](https://www.raycast.com/sinsky/create-link) |
 | [Chakra UI Documentation](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) | 681 | Provide quick links to the Chakra UI component documentation. | pgvr | macOS | [store](https://www.raycast.com/pgvr/chakra-ui-docs) |
@@ -14,5 +14,5 @@
 | [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 117 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
 | [Vanishlink](https://github.com/raycast/extensions/tree/main/extensions/vanishlink) | 44 | Temporary link manager that vanishes links after inactivity | n_seiji | macOS | [store](https://www.raycast.com/n_seiji/vanishlink) |
 | [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 16 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |
-| [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | 9 | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/the-forest-link) |
+| [The Forest](https://github.com/raycast/extensions/tree/main/extensions/the-forest-link) | 10 | Rediscover the joy of getting lost on the web with theforest.link | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/the-forest-link) |
 | [Cloudstash](https://github.com/raycast/extensions/tree/main/extensions/cloudstash) | 6 | Save links to Cloudstash | birdie | macOS | [store](https://www.raycast.com/birdie/cloudstash) |

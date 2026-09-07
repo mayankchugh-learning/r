@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 165,641 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
-| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,274 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
-| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 4,052 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 165,737 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,278 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
+| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 4,055 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
 | [Cloudflare WARP](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) | 1,864 | Manage Cloudflare WARP | anandubajith | macOS | [store](https://www.raycast.com/anandubajith/cloudflare-warp) |
 | [Cyberduck](https://github.com/raycast/extensions/tree/main/extensions/cyberduck) | 1,383 | Quickly open your cyberduck connections | scottaglia | macOS | [store](https://www.raycast.com/scottaglia/cyberduck) |
 | [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,378 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
