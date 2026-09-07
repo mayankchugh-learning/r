@@ -2,7 +2,7 @@
 
 [AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · **URL & Domain Tools** · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-46 of 469 extensions · [← macOS · Web](./README.md)
+47 of 470 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -52,3 +52,4 @@
 | [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | 2 | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | [store](https://www.raycast.com/meslva/cl1p) |
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 2 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
 | [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) | 0 | Save browser tabs and links to your smry Inbox or Later list. | smry | macOS | [store](https://www.raycast.com/smry/smry) |
+| [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer) | 0 | Collect URL patterns and copy them as an implementation prompt. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/url-designer) |

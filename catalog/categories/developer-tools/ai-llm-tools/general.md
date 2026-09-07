@@ -1,6 +1,6 @@
 # General
 
-11 extensions · [← AI & LLM Tools](./README.md)
+12 extensions · [← AI & LLM Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -15,3 +15,4 @@
 | [Integrations.sh](https://github.com/raycast/extensions/tree/main/extensions/integrations-sh) | 109 | Search integrations.sh for MCP, OpenAPI, GraphQL, and CLI integration surfaces, and inspect setup and credentials per domain. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/integrations-sh) |
 | [Markprompt](https://github.com/raycast/extensions/tree/main/extensions/markprompt) | 98 | Prompt your Markprompt project from Raycast | markprompt (org) | macOS | [store](https://www.raycast.com/markprompt/markprompt) |
 | [JSON to GCF Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-gcf-converter) | 13 | Convert JSON data into GCF (Graph Compact Format) instantly. 53-71% fewer tokens than JSON, 90.7% LLM comprehension accuracy. | blackwell-systems | macOS, Windows | [store](https://www.raycast.com/blackwell-systems/json-to-gcf-converter) |
+| [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer) | 0 | Collect URL patterns and copy them as an implementation prompt. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/url-designer) |

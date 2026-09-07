@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,155,103 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,155,142 |
 | 2 | [raycast](./id/raycast.md) | 11 | 817,754 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,755 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 517,556 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,784 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 517,578 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 454,047 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 449,243 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,866 |
@@ -435,7 +435,7 @@
 | 425 | [kgrhartlage](https://www.raycast.com/kgrhartlage) | 2 | 2,035 |
 | 426 | [jaredliu233](https://www.raycast.com/jaredliu233) | 2 | 2,032 |
 | 427 | [resessh](https://www.raycast.com/resessh) | 1 | 2,027 |
-| 428 | [alexi.build](./id/alexi-build.md) | 17 | 2,018 |
+| 428 | [alexi.build](./id/alexi-build.md) | 18 | 2,018 |
 | 429 | [jones-sam](https://www.raycast.com/jones-sam) | 1 | 2,012 |
 | 430 | [jason5ng32](https://www.raycast.com/jason5ng32) | 1 | 2,001 |
 | 431 | [ahonn](https://www.raycast.com/ahonn) | 1 | 1,999 |

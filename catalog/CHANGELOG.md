@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `29632acbd3`
+
+**Added (1):** [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer)
+
 ## 2026-09-07 — upstream `b816b90be3`
 
 **Updated (1):** [Plexamp](https://github.com/raycast/extensions/tree/main/extensions/plexamp)

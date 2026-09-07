@@ -1,6 +1,6 @@
 # alexi.build
 
-17 extensions · 2,018 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+18 extensions · 2,018 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -23,12 +23,13 @@
 | --- | --- | --- | --- | --- | --- |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 297 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 
-## Developer Tools (2)
+## Developer Tools (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 173 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
 | [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 51 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
+| [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer) | 0 | Collect URL patterns and copy them as an implementation prompt. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/url-designer) |
 
 ## Applications (1)
 
