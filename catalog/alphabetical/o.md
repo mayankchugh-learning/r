@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 156,571 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
+| [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian) | 156,662 | Control Obsidian with Raycast | marcjulian | macOS, Windows | [store](https://www.raycast.com/marcjulian/obsidian) |
 | [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) | 58,949 | Interact with OpenAI GPT AI | simicvm | macOS | [store](https://www.raycast.com/simicvm/openai-gpt) |
 | [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 38,377 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
 | [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 18,860 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |

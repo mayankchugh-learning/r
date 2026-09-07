@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `4729145871`
+
+**Updated (1):** [Mirror Displays](https://github.com/raycast/extensions/tree/main/extensions/mirror-displays)
+
 ## 2026-09-07 — upstream `734506e382`
 
 **Updated (5):** [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks), [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt), [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat), [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian), [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator)

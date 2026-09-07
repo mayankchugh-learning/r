@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,153,150 |
-| 2 | [raycast](./id/raycast.md) | 11 | 816,378 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,741 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,914 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,153,198 |
+| 2 | [raycast](./id/raycast.md) | 11 | 816,440 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,782 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,947 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 453,461 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 448,644 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,226 |
@@ -29,9 +29,9 @@
 | 19 | [mblode](https://www.raycast.com/mblode) | 5 | 188,140 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 172,266 |
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 170,643 |
-| 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 156,810 |
+| 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 156,901 |
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 155,111 |
-| 24 | [loris](https://www.raycast.com/loris) | 6 | 127,516 |
+| 24 | [loris](https://www.raycast.com/loris) | 6 | 127,544 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 110,313 |
 | 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 108,277 |
 | 27 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 105,558 |
@@ -221,7 +221,7 @@
 | 211 | [fearoffish](https://www.raycast.com/fearoffish) | 1 | 6,643 |
 | 212 | [Jordan-Ellis](https://www.raycast.com/Jordan-Ellis) | 1 | 6,605 |
 | 213 | [comoser](https://www.raycast.com/comoser) | 3 | 6,601 |
-| 214 | [aelew](https://www.raycast.com/aelew) | 1 | 6,526 |
+| 214 | [aelew](https://www.raycast.com/aelew) | 1 | 6,530 |
 | 215 | [dru89](https://www.raycast.com/dru89) | 1 | 6,512 |
 | 216 | [kud](./id/kud.md) | 13 | 6,510 |
 | 217 | [theo_daguier](https://www.raycast.com/theo_daguier) | 2 | 6,505 |
@@ -403,7 +403,7 @@
 | 393 | [jlokos](https://www.raycast.com/jlokos) | 2 | 2,452 |
 | 394 | [musienkoyuriy](https://www.raycast.com/musienkoyuriy) | 1 | 2,424 |
 | 395 | [HunterJi](https://www.raycast.com/HunterJi) | 2 | 2,423 |
-| 396 | [Cronos87](https://www.raycast.com/Cronos87) | 1 | 2,384 |
+| 396 | [Cronos87](https://www.raycast.com/Cronos87) | 1 | 2,387 |
 | 397 | [douglas-pires](https://www.raycast.com/douglas-pires) | 1 | 2,337 |
 | 398 | [flornkm](https://www.raycast.com/flornkm) | 1 | 2,331 |
 | 399 | [fe9lix](https://www.raycast.com/fe9lix) | 2 | 2,324 |
