@@ -10,7 +10,7 @@
 | [d3caf](https://www.raycast.com/d3caf) | 1 | 3,340 | **Uncategorized:** [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) |
 | [d7mtg](https://www.raycast.com/d7mtg) | 1 | 175 | **Developer Tools:** [Aleph Tools](https://github.com/raycast/extensions/tree/main/extensions/aleph) |
 | [daikaiyu](https://www.raycast.com/kvdo2) | 1 | 644 | **Other:** [V2EX](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer) |
-| [dailin4321](https://www.raycast.com/dailin4321) | 1 | 977 | **Productivity:** [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) |
+| [dailin4321](https://www.raycast.com/dailin4321) | 1 | 978 | **Productivity:** [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) |
 | [damdam](https://www.raycast.com/damdam) | 1 | 959 | **Productivity:** [Paperless-ngx](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) |
 | [damian_zachwieja](https://www.raycast.com/damian_zachwieja) | 2 | 156 | **Security:** [Okta Search](https://github.com/raycast/extensions/tree/main/extensions/oktasearch)<br>**Web:** [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) |
 | [damiengorin](https://www.raycast.com/damiengorin) | 1 | 29 | **Developer Tools:** [SpinupWP](https://github.com/raycast/extensions/tree/main/extensions/spinupwp) |

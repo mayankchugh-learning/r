@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b158df341e6b72133a7d48f7fe84a90e844e2522",
-  "generatedAt": "2026-09-07T06:30:41.590Z",
-  "downloadsRefreshedAt": "2026-09-07T06:30:40.515Z",
-  "count": 3258,
+  "commit": "d252b7ab1351374fae1dae8b39726d93fe521c78",
+  "generatedAt": "2026-09-07T06:41:32.180Z",
+  "downloadsRefreshedAt": "2026-09-07T06:41:31.780Z",
+  "count": 3259,
   "extensions": [
     {
       "dir": "0x0",
@@ -442,6 +442,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/adhan-time",
       "treeSha": "1d8e3610ff268d1547b70caaf9dcf8b9ef52a5c6",
       "downloads": 1084
+    },
+    {
+      "dir": "adjacent",
+      "name": "adjacent",
+      "title": "Adjacent",
+      "description": "Browse, search, and read news on Adjacent prediction markets, indices, and rates.",
+      "author": "Lucas-Kohorst",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Finance",
+        "News",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/adjacent",
+      "treeSha": "befd42471b1eca8d21153c415f636cb70534e5f9",
+      "downloads": null
     },
     {
       "dir": "ado-search",
@@ -9915,7 +9937,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 535387
+      "downloads": 535403
     },
     {
       "dir": "color-shades",
@@ -22331,7 +22353,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 516620
+      "downloads": 516632
     },
     {
       "dir": "google-chrome-profiles",
@@ -24168,7 +24190,7 @@
       "store": "https://www.raycast.com/dailin4321/hermes-agent",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hermes-agent",
       "treeSha": "535aee52fd350c56d66b429ac0e1402561c8a8c4",
-      "downloads": 977
+      "downloads": 978
     },
     {
       "dir": "heroicons",
@@ -28674,7 +28696,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 694350
+      "downloads": 694366
     },
     {
       "dir": "kimai",

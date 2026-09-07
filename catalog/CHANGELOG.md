@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `d252b7ab13`
+
+**Added (1):** [Adjacent](https://github.com/raycast/extensions/tree/main/extensions/adjacent)
+
 ## 2026-09-07 — upstream `b158df341e`
 
 **Updated (1):** [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent)

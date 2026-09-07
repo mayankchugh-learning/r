@@ -1,8 +1,8 @@
 # Search Engines
 
-163 extensions · [← Web](./README.md)
+164 extensions · [← Web](./README.md)
 
-[Bookmarks ✦](#bookmarks) (17) · [Tabs ✦](#tabs) (4) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Explore ✦](#explore) (4) · [Public ✦](#public) (4) · [General](#general) (91)
+[Bookmarks ✦](#bookmarks) (17) · [Tabs ✦](#tabs) (4) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Explore ✦](#explore) (4) · [Public ✦](#public) (4) · [General](#general) (92)
 
 *✦ auto-discovered topic group*
 
@@ -228,3 +228,4 @@
 | [CourtListener Search](https://github.com/raycast/extensions/tree/main/extensions/courtlistener-search) | 5 | Search CourtListener's free database of US court opinions and open, copy, or cite them without leaving Raycast. | cro64 | macOS | [store](https://www.raycast.com/cro64/courtlistener-search) |
 | [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) | 4 | Search, filter, and open links from your LinkAce instance | zisoft | macOS | [store](https://www.raycast.com/zisoft/linkace-search) |
 | [Portal Wholesale](https://github.com/raycast/extensions/tree/main/extensions/portal-wholesale) | 4 | Search and manage Portal Wholesale brands | nickdichev | macOS | [store](https://www.raycast.com/nickdichev/portal-wholesale) |
+| [Adjacent](https://github.com/raycast/extensions/tree/main/extensions/adjacent) | — | Browse, search, and read news on Adjacent prediction markets, indices, and rates. | Lucas-Kohorst | macOS | — |

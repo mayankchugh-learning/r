@@ -1,14 +1,14 @@
 # Finance
 
-152 extensions · [← all categories](../README.md)
+153 extensions · [← all categories](../README.md)
 
-macOS: 152 · Windows: 47
+macOS: 153 · Windows: 47
 
 ## Markets & Investing
 
 | Topic | Extensions |
 | --- | --- |
-| [Stocks & Trading](./stocks-trading.md) | 16 |
+| [Stocks & Trading](./stocks-trading.md) | 17 |
 | [Crypto & Web3](./crypto-web3.md) | 31 |
 | [Currency & Exchange](./currency-exchange.md) | 10 |
 

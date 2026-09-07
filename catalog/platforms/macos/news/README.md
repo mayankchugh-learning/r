@@ -1,8 +1,8 @@
 # macOS · News
 
-95 extensions · [← macOS](../README.md)
+96 extensions · [← macOS](../README.md)
 
-[Tech & Startup News](#tech-startup-news) (10) · [Feeds & Readers](#feeds-readers) (16) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (3) · [World & Business](#world-business) (21) · [General](#general) (29)
+[Tech & Startup News](#tech-startup-news) (10) · [Feeds & Readers](#feeds-readers) (16) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (4) · [World & Business](#world-business) (21) · [General](#general) (29)
 
 ## Topics
 
@@ -71,6 +71,7 @@
 | [Polymarket](https://github.com/raycast/extensions/tree/main/extensions/polymarket) | 308 | Search and view markets on Polymarket | Osprey | macOS | [store](https://www.raycast.com/Osprey/polymarket) |
 | [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | 140 | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
 | [Rusbase](https://github.com/raycast/extensions/tree/main/extensions/rusbase) | 15 | Get sections, markets and companies from Rusbase directly in Raycast | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/rusbase) |
+| [Adjacent](https://github.com/raycast/extensions/tree/main/extensions/adjacent) | — | Browse, search, and read news on Adjacent prediction markets, indices, and rates. | Lucas-Kohorst | macOS | — |
 
 ## Read & Discuss
 

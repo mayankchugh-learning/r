@@ -1,6 +1,6 @@
 # Publishers
 
-2175 publishers · [← catalog index](../README.md)
+2176 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,152,762 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,152,778 |
 | 2 | [raycast](./id/raycast.md) | 11 | 816,327 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,350 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,620 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,366 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,632 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 453,461 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 448,644 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,226 |
@@ -664,7 +664,7 @@
 | 654 | [Godruoyi](https://www.raycast.com/Godruoyi) | 2 | 987 |
 | 655 | [NathanThomassin](https://www.raycast.com/NathanThomassin) | 2 | 987 |
 | 656 | [chroxify](https://www.raycast.com/chroxify) | 1 | 986 |
-| 657 | [dailin4321](https://www.raycast.com/dailin4321) | 1 | 977 |
+| 657 | [dailin4321](https://www.raycast.com/dailin4321) | 1 | 978 |
 | 658 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 976 |
 | 659 | [popalay](https://www.raycast.com/popalay) | 2 | 976 |
 | 660 | [felix_wortmann](https://www.raycast.com/felix_wortmann) | 2 | 974 |
@@ -2182,4 +2182,5 @@
 | 2172 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2173 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2174 | github-next | 2 | — |
-| 2175 | multi | 1 | — |
+| 2175 | Lucas-Kohorst | 1 | — |
+| 2176 | multi | 1 | — |
