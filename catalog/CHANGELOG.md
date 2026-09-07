@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `74a6ddba7e`
+
+**Updated (1):** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)
+
 ## 2026-09-07 — upstream `4729145871`
 
 **Updated (1):** [Mirror Displays](https://github.com/raycast/extensions/tree/main/extensions/mirror-displays)
