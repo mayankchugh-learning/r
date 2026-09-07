@@ -1,8 +1,8 @@
 # Window & Workspace Management
 
-53 extensions · [← Productivity](./README.md)
+54 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (24) · [Desktop ✦](#desktop) (9) · [Spaces ✦](#spaces) (8) · [General](#general) (12)
+[Windows ✦](#windows) (24) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (8) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -48,6 +48,7 @@
 | [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack) | 178 | Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop. | huskii | macOS | [store](https://www.raycast.com/huskii/bookstack) |
 | [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) | 59 | Switch and manage macOS desktop Spaces with SpaceJump | IdeaBridge | macOS | [store](https://www.raycast.com/IdeaBridge/spacejump) |
 | [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 3 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
+| [Codex Sessions](https://github.com/raycast/extensions/tree/main/extensions/codex-sessions) | 0 | Live Working / Done · Unread status for local Codex sessions — fuzzy-find them from Codex's on-disk state, resume in Desktop or the terminal, and jump between… | jomatsu | macOS | [store](https://www.raycast.com/jomatsu/codex-sessions) |
 
 ## Spaces ✦
 

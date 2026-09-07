@@ -1,6 +1,6 @@
 # Publishers
 
-2176 publishers · [← catalog index](../README.md)
+2177 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,153,011 |
-| 2 | [raycast](./id/raycast.md) | 11 | 816,327 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,610 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,818 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,153,040 |
+| 2 | [raycast](./id/raycast.md) | 11 | 816,378 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,639 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,831 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 453,461 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 448,644 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,226 |
@@ -2177,10 +2177,11 @@
 | 2167 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2168 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2169 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2170 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
-| 2171 | [Lucas-Kohorst](https://www.raycast.com/Lucas-Kohorst) | 1 | 0 |
-| 2172 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
-| 2173 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2174 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2175 | github-next | 2 | — |
-| 2176 | multi | 1 | — |
+| 2170 | [jomatsu](https://www.raycast.com/jomatsu) | 1 | 0 |
+| 2171 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
+| 2172 | [Lucas-Kohorst](https://www.raycast.com/Lucas-Kohorst) | 1 | 0 |
+| 2173 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
+| 2174 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2175 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2176 | github-next | 2 | — |
+| 2177 | multi | 1 | — |

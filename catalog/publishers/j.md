@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-131 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+132 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -75,6 +75,7 @@
 | [Johnson](https://www.raycast.com/Johnson) | 1 | 728 | **Developer Tools:** [URL Parse](https://github.com/raycast/extensions/tree/main/extensions/url-parse) |
 | [johnwick](https://www.raycast.com/johnwick) | 1 | 119 | **System:** [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) |
 | [jokull](https://www.raycast.com/jokull) | 1 | 37 | **Productivity:** [Ensk.is](https://github.com/raycast/extensions/tree/main/extensions/ensk-is) |
+| [jomatsu](https://www.raycast.com/jomatsu) | 1 | 0 | **Developer Tools:** [Codex Sessions](https://github.com/raycast/extensions/tree/main/extensions/codex-sessions) |
 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 59,981 | **Security:** [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) |
 | [jonah_tweed](https://www.raycast.com/jonah_tweed) | 1 | 14 | **Applications:** [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub) |
 | [jonas_list](https://www.raycast.com/jonas_list) | 1 | 28 | **Developer Tools:** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) |
