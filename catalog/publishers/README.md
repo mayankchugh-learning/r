@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,152,745 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,152,762 |
 | 2 | [raycast](./id/raycast.md) | 11 | 816,327 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,337 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,611 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,350 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,620 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 453,461 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 448,644 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,226 |
@@ -292,7 +292,7 @@
 | 282 | [stevensd2m](https://www.raycast.com/stevensd2m) | 2 | 4,044 |
 | 283 | [ozencb](https://www.raycast.com/ozencb) | 1 | 4,034 |
 | 284 | [SuoweiHu](https://www.raycast.com/SuoweiHu) | 5 | 3,984 |
-| 285 | [skydiver](https://www.raycast.com/skydiver) | 1 | 3,982 |
+| 285 | [skydiver](https://www.raycast.com/skydiver) | 1 | 3,983 |
 | 286 | [andreaselia](./id/andreaselia.md) | 10 | 3,937 |
 | 287 | [daniel-stoneuk](https://www.raycast.com/daniel-stoneuk) | 1 | 3,911 |
 | 288 | [ning_cao_cabeza](https://www.raycast.com/ning_cao_cabeza) | 1 | 3,901 |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `b158df341e`
+
+**Updated (1):** [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent)
+
 ## 2026-09-07 — upstream `cb4a4eeb22`
 
 **Updated (1):** [Open Browsers Profiles](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles)
