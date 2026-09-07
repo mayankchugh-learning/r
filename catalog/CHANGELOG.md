@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `a396653592`
+
+**Added (1):** [Bitcoin Tools](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-tools)
+
 ## 2026-09-07 — upstream `dde66a21d3`
 
 **Added (1):** [Codex Sessions](https://github.com/raycast/extensions/tree/main/extensions/codex-sessions)

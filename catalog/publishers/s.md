@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-168 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+169 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -33,6 +33,7 @@
 | [sansaxena789](https://www.raycast.com/sansaxena789) | 1 | 20 | **System:** [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller) |
 | [saschaeggi](https://www.raycast.com/saschaeggi) | 1 | 694 | **Documentation:** [GitLab Docs](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) |
 | [sasivarnan](https://www.raycast.com/sasivarnan) | 2 | 7,637 | **Web:** [YouTube Companion](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion)<br>**System:** [Power Management](https://github.com/raycast/extensions/tree/main/extensions/power-management) |
+| [satchmo](https://www.raycast.com/satchmo) | 1 | 0 | **Developer Tools:** [Bitcoin Tools](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-tools) |
 | [saunter](https://www.raycast.com/saunter) | 1 | 124 | **Finance:** [Vortex](https://github.com/raycast/extensions/tree/main/extensions/vortex) |
 | [saury](https://www.raycast.com/saury) | 1 | 16 | **Developer Tools:** [Image Hash Rename](https://github.com/raycast/extensions/tree/main/extensions/image-hash-rename) |
 | [sawyerh](https://www.raycast.com/sawyerh) | 1 | 5,912 | **Data:** [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) |

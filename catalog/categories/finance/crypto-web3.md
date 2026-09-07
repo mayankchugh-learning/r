@@ -1,8 +1,8 @@
 # Crypto & Web3
 
-31 extensions · [← Finance](./README.md)
+32 extensions · [← Finance](./README.md)
 
-[Crypto ✦](#crypto) (11) · [Price ✦](#price) (4) · [Solana ✦](#solana) (4) · [General](#general) (12)
+[Crypto ✦](#crypto) (11) · [Price ✦](#price) (4) · [Solana ✦](#solana) (4) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
@@ -56,3 +56,4 @@
 | [Zerodha Portfolio (Kite+Coin)](https://github.com/raycast/extensions/tree/main/extensions/zerodha-portfolio-kite-coin) | 11 | View your zerodha kite and zerodha coin portfolio | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/zerodha-portfolio-kite-coin) |
 | [Bitaxe Status](https://github.com/raycast/extensions/tree/main/extensions/bitaxe) | 4 | Display the status of one or more Bitaxes | mark_sullivan | macOS | [store](https://www.raycast.com/mark_sullivan/bitaxe-status) |
 | [CoveCast](https://github.com/raycast/extensions/tree/main/extensions/cove-cast) | 4 | Copy a token contract address anywhere, hit a hotkey, auto-detect the chain, pick a USD amount, and open the matching Cove Telegram bot deeplink. | bitski | macOS | [store](https://www.raycast.com/bitski/cove-cast) |
+| [Bitcoin Tools](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-tools) | 0 | Generate, convert, and inspect Bitcoin SV keys, addresses, scripts, transactions, and market data. | satchmo | macOS | [store](https://www.raycast.com/satchmo/bitcoin-tools) |

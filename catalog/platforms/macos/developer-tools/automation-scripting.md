@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · **Automation & Scripting** · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-11 of 1107 extensions · [← macOS · Developer Tools](./README.md)
+12 of 1108 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -17,3 +17,4 @@
 | [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | 22 | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |
 | [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | 21 | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |
 | [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) | 12 | Search, view, and manage Temporal workflows from Raycast | applauselab | macOS | [store](https://www.raycast.com/applauselab/temporal) |
+| [Bitcoin Tools](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-tools) | 0 | Generate, convert, and inspect Bitcoin SV keys, addresses, scripts, transactions, and market data. | satchmo | macOS | [store](https://www.raycast.com/satchmo/bitcoin-tools) |

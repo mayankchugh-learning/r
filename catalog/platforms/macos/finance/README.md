@@ -1,8 +1,8 @@
 # macOS · Finance
 
-153 extensions · [← macOS](../README.md)
+154 extensions · [← macOS](../README.md)
 
-[Crypto & Web3](#crypto-web3) (31) · [Stocks & Trading](#stocks-trading) (17) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (20) · [General](#general) (32)
+[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (17) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (20) · [General](#general) (32)
 
 ## Markets & Investing
 
@@ -63,6 +63,7 @@
 | [Ticker Bar](https://github.com/raycast/extensions/tree/main/extensions/ticker-bar) | 7 | Track stocks, crypto, tokens, perpetual futures, and prediction markets from the menu bar. | kays0x | macOS | [store](https://www.raycast.com/kays0x/ticker-bar) |
 | [Bitaxe Status](https://github.com/raycast/extensions/tree/main/extensions/bitaxe) | 4 | Display the status of one or more Bitaxes | mark_sullivan | macOS | [store](https://www.raycast.com/mark_sullivan/bitaxe-status) |
 | [CoveCast](https://github.com/raycast/extensions/tree/main/extensions/cove-cast) | 4 | Copy a token contract address anywhere, hit a hotkey, auto-detect the chain, pick a USD amount, and open the matching Cove Telegram bot deeplink. | bitski | macOS | [store](https://www.raycast.com/bitski/cove-cast) |
+| [Bitcoin Tools](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-tools) | 0 | Generate, convert, and inspect Bitcoin SV keys, addresses, scripts, transactions, and market data. | satchmo | macOS | [store](https://www.raycast.com/satchmo/bitcoin-tools) |
 
 ### Currency & Exchange
 
