@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `e69f59aa39`
+
+**Added (1):** [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid)
+
 ## 2026-09-07 — upstream `74a6ddba7e`
 
 **Updated (1):** [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc)

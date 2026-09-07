@@ -1,8 +1,8 @@
 # Developer Tools
 
-1119 extensions · [← all categories](../README.md)
+1120 extensions · [← all categories](../README.md)
 
-macOS: 1108 · Windows: 314
+macOS: 1109 · Windows: 314
 
 ## Code & Collaboration
 
@@ -36,7 +36,7 @@ macOS: 1108 · Windows: 314
 
 | Topic | Extensions |
 | --- | --- |
-| [Terminal & Editors](./terminal-editors.md) | 47 |
+| [Terminal & Editors](./terminal-editors.md) | 48 |
 | [Package & Dependency Tools](./package-dependency-tools.md) | 39 |
 | [Automation & Scripting](./automation-scripting.md) | 12 |
 | [Files & Transfer](./files-transfer.md) | 26 |

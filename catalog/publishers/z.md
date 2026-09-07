@@ -6,30 +6,30 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [zach](https://www.raycast.com/zach) | 2 | 8,664 | **Productivity:** [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)<br>**Media:** [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) |
+| [zach](https://www.raycast.com/zach) | 2 | 8,686 | **Productivity:** [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader)<br>**Media:** [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) |
 | [zachsea](https://www.raycast.com/zachsea) | 1 | 23 | **Other:** [Nightscout](https://github.com/raycast/extensions/tree/main/extensions/nightscout) |
-| [zaidmukaddam](https://www.raycast.com/zaidmukaddam) | 1 | 919 | **Web:** [Scira](https://github.com/raycast/extensions/tree/main/extensions/scira) |
+| [zaidmukaddam](https://www.raycast.com/zaidmukaddam) | 1 | 920 | **Web:** [Scira](https://github.com/raycast/extensions/tree/main/extensions/scira) |
 | [zaincheung](https://www.raycast.com/zaincheung) | 1 | 165 | **System:** [App Tag Manager](https://github.com/raycast/extensions/tree/main/extensions/app-tag-manager) |
-| [Zalgo_123](https://www.raycast.com/Zalgo_123) | 1 | 144 | **Fun:** [Tennis Standings](https://github.com/raycast/extensions/tree/main/extensions/tennis-standings) |
+| [Zalgo_123](https://www.raycast.com/Zalgo_123) | 1 | 146 | **Fun:** [Tennis Standings](https://github.com/raycast/extensions/tree/main/extensions/tennis-standings) |
 | [zan](https://www.raycast.com/zan) | 1 | 790 | **Media:** [Matter](https://github.com/raycast/extensions/tree/main/extensions/matter) |
-| [zavbala](https://www.raycast.com/zavbala) | 3 | 9,915 | **Web:** [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois), [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler)<br>**Productivity:** [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) |
+| [zavbala](https://www.raycast.com/zavbala) | 3 | 9,937 | **Web:** [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois), [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler)<br>**Productivity:** [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) |
 | [zayn_harris_dev](https://www.raycast.com/zayn_harris_dev) | 1 | 71 | **Applications:** [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) |
-| [zcfan](https://www.raycast.com/zcfan) | 1 | 1,282 | **Developer Tools:** [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) |
-| [zcsabbagh](https://www.raycast.com/zcsabbagh) | 1 | 926 | **System:** [Toggle Grayscale](https://github.com/raycast/extensions/tree/main/extensions/toggle-grayscale) |
-| [zebapy](https://www.raycast.com/zebapy) | 1 | 107 | **Developer Tools:** [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) |
-| [zeekrey](https://www.raycast.com/zeekrey) | 1 | 1,274 | **Productivity:** [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) |
+| [zcfan](https://www.raycast.com/zcfan) | 1 | 1,283 | **Developer Tools:** [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) |
+| [zcsabbagh](https://www.raycast.com/zcsabbagh) | 1 | 929 | **System:** [Toggle Grayscale](https://github.com/raycast/extensions/tree/main/extensions/toggle-grayscale) |
+| [zebapy](https://www.raycast.com/zebapy) | 1 | 108 | **Developer Tools:** [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) |
+| [zeekrey](https://www.raycast.com/zeekrey) | 1 | 1,276 | **Productivity:** [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) |
 | [zengtianli](https://www.raycast.com/zengtianli) | 1 | 64 | **Productivity:** [DocKit - Document Toolkit](https://github.com/raycast/extensions/tree/main/extensions/dockit) |
 | [zephraph](https://www.raycast.com/zephraph) | 1 | 385 | **Other:** [tldraw](https://github.com/raycast/extensions/tree/main/extensions/tldraw) |
 | [zeroheight](https://www.raycast.com/zeroheight) | 1 | 14 | **Documentation:** [Quick Access for zeroheight](https://github.com/raycast/extensions/tree/main/extensions/quick-access-for-zeroheight) |
 | [zeromana](https://www.raycast.com/zeromana) | 1 | 25 | **Developer Tools:** [Bento Email](https://github.com/raycast/extensions/tree/main/extensions/bento) |
-| [zerowidth](https://www.raycast.com/zerowidth) | 1 | 1,896 | **Productivity:** [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project) |
+| [zerowidth](https://www.raycast.com/zerowidth) | 1 | 1,898 | **Productivity:** [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project) |
 | [zett-8](https://www.raycast.com/zett-8) | 1 | 135 | **Documentation:** [Scrapbox Search](https://github.com/raycast/extensions/tree/main/extensions/scrapbox-search) |
-| [zhassulan_abdrakhmanov](https://www.raycast.com/zhassulan_abdrakhmanov) | 1 | 395 | **Developer Tools:** [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) |
+| [zhassulan_abdrakhmanov](https://www.raycast.com/zhassulan_abdrakhmanov) | 1 | 396 | **Developer Tools:** [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) |
 | [zisoft](https://www.raycast.com/zisoft) | 1 | 4 | **Web:** [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) |
-| [zkondor](https://www.raycast.com/zkondor) | 1 | 2,240 | **System:** [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) |
+| [zkondor](https://www.raycast.com/zkondor) | 1 | 2,245 | **System:** [Manage Macbook's Notch](https://github.com/raycast/extensions/tree/main/extensions/znotch) |
 | [zoffyzhang](https://www.raycast.com/zoffyzhang) | 1 | 75 | **Finance:** [Fluctuation](https://github.com/raycast/extensions/tree/main/extensions/fluctuation) |
-| [ZooHero](https://www.raycast.com/ZooHero) | 1 | 371 | **Developer Tools:** [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) |
+| [ZooHero](https://www.raycast.com/ZooHero) | 1 | 372 | **Developer Tools:** [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) |
 | [zrr1999](https://www.raycast.com/zrr1999) | 2 | 262 | **Uncategorized:** [Commit Message Formatter](https://github.com/raycast/extensions/tree/main/extensions/commit-message-formatter), [Usememos](https://github.com/raycast/extensions/tree/main/extensions/usememos) |
-| [zsombor_biro](https://www.raycast.com/zsombor_biro) | 2 | 697 | **Developer Tools:** [Scoop](https://github.com/raycast/extensions/tree/main/extensions/scoop)<br>**Applications:** [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) |
+| [zsombor_biro](https://www.raycast.com/zsombor_biro) | 2 | 698 | **Developer Tools:** [Scoop](https://github.com/raycast/extensions/tree/main/extensions/scoop)<br>**Applications:** [Yazio Tracker](https://github.com/raycast/extensions/tree/main/extensions/yazio-tracker) |
 | [zsombor-flds](https://www.raycast.com/zsombor-flds) | 1 | 171 | **Data:** [dbt Cloud](https://github.com/raycast/extensions/tree/main/extensions/dbtCloud) |
 | [zygimantas_magelinskas](https://www.raycast.com/zygimantas_magelinskas) | 1 | 22 | **Developer Tools:** [Bech32 Converter](https://github.com/raycast/extensions/tree/main/extensions/bech32-converter) |

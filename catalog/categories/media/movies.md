@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 4,074 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
-| [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,129 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |
-| [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) | 1,624 | Search for movies on Letterboxd | rafael_garcia | macOS, Windows | [store](https://www.raycast.com/rafael_garcia/letterboxd) |
-| [Jellyfin](https://github.com/raycast/extensions/tree/main/extensions/jellyfin) | 790 | Find Movies and Shows on your Jellyfin Instance | d2a | macOS, Windows | [store](https://www.raycast.com/d2a/jellyfin) |
-| [RatingsDB](https://github.com/raycast/extensions/tree/main/extensions/ratingsdb) | 520 | Seamlessly search movie and tv show ratings and find where you can watch them! | krod12 | macOS | [store](https://www.raycast.com/krod12/ratingsdb) |
+| [JustWatch Search](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) | 4,079 | Quickly find where a movie or tv show is streaming. | rishabswift | macOS | [store](https://www.raycast.com/rishabswift/search-justwatch) |
+| [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,134 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |
+| [Letterboxd](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) | 1,626 | Search for movies on Letterboxd | rafael_garcia | macOS, Windows | [store](https://www.raycast.com/rafael_garcia/letterboxd) |
+| [Jellyfin](https://github.com/raycast/extensions/tree/main/extensions/jellyfin) | 791 | Find Movies and Shows on your Jellyfin Instance | d2a | macOS, Windows | [store](https://www.raycast.com/d2a/jellyfin) |
+| [RatingsDB](https://github.com/raycast/extensions/tree/main/extensions/ratingsdb) | 521 | Seamlessly search movie and tv show ratings and find where you can watch them! | krod12 | macOS | [store](https://www.raycast.com/krod12/ratingsdb) |
 | [Kinopoisk](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) | 447 | Search for movies using kinopoisk.ru | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/kinopoisk) |
 | [Must](https://github.com/raycast/extensions/tree/main/extensions/must) | 293 | Display your Want to Watch list on Must Movie Tracking app directly on Raycast! | eggsy | macOS | [store](https://www.raycast.com/eggsy/must) |
 | [Torr Manager](https://github.com/raycast/extensions/tree/main/extensions/torr-manager) | 202 | Allows connect to selfhosted TorrServer, browse available torrents, select and watch movies directly from Raycast. | dannius | macOS | [store](https://www.raycast.com/danniuz/torr-manager) |

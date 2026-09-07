@@ -1,6 +1,6 @@
 # macOS · Developer Tools
 
-1108 extensions · [← macOS](../README.md)
+1109 extensions · [← macOS](../README.md)
 
 ## Code & Collaboration
 
@@ -34,7 +34,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [Terminal & Editors](./terminal-editors.md) | 45 |
+| [Terminal & Editors](./terminal-editors.md) | 46 |
 | [Package & Dependency Tools](./package-dependency-tools.md) | 38 |
 | [Automation & Scripting](./automation-scripting.md) | 12 |
 | [Files & Transfer](./files-transfer.md) | 26 |
