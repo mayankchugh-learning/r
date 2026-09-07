@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4b994f9073b922c5e5936c65be2a47aafe8de3e3",
-  "generatedAt": "2026-09-07T19:53:48.025Z",
-  "downloadsRefreshedAt": "2026-09-07T19:53:47.628Z",
+  "commit": "b816b90be3e0b57b60ff77e015748c20ffef578a",
+  "generatedAt": "2026-09-07T19:54:24.403Z",
+  "downloadsRefreshedAt": "2026-09-07T19:54:23.815Z",
   "count": 3263,
   "extensions": [
     {
@@ -28738,7 +28738,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 695753
+      "downloads": 695755
     },
     {
       "dir": "kimai",
@@ -43544,7 +43544,7 @@
       "description": "Browse Plex music libraries and control Plexamp playback from Raycast.",
       "author": "kendaniels",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Media"
       ],
@@ -43554,7 +43554,7 @@
       ],
       "store": "https://www.raycast.com/kendaniels/plexamp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/plexamp",
-      "treeSha": "886da22f6df6a1936ab1b2d422cded373b8d922c",
+      "treeSha": "257196d16a261172ae7b3b373e7892209796fd7e",
       "downloads": 176
     },
     {

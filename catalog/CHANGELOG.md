@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `b816b90be3`
+
+**Updated (1):** [Plexamp](https://github.com/raycast/extensions/tree/main/extensions/plexamp)
+
 ## 2026-09-07 — upstream `4b994f9073`
 
 **Updated (1):** [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini)
