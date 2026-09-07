@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-44 extensions · [← catalog index](../README.md)
+45 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -49,4 +49,5 @@
 | [JSON to GCF Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-gcf-converter) | 13 | Convert JSON data into GCF (Graph Compact Format) instantly. 53-71% fewer tokens than JSON, 90.7% LLM comprehension accuracy. | blackwell-systems | macOS, Windows | [store](https://www.raycast.com/blackwell-systems/json-to-gcf-converter) |
 | [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 2 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
 | [Just](https://github.com/raycast/extensions/tree/main/extensions/just) | 2 | Quickly access justfile recipes from Raycast | alastairsounds | macOS | [store](https://www.raycast.com/alastairsounds/just) |
+| [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 0 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | — | Quickly add vocabulary cards to your Joey decks | tai | macOS | — |

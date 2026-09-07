@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-81 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+82 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | [leec-666](https://www.raycast.com/leec-666) | 1 | 10 | **Developer Tools:** [SecureCRT Sessions](https://github.com/raycast/extensions/tree/main/extensions/securecrt-sessions) |
 | [leepyd](https://www.raycast.com/leepyd) | 1 | 197 | **Web:** [Rate Your Music Search](https://github.com/raycast/extensions/tree/main/extensions/rateyourmusic-search) |
 | [leeraymond78](https://www.raycast.com/leeraymond78) | 1 | 2,888 | **Applications:** [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) |
+| [leeron](https://www.raycast.com/leeron) | 1 | 0 | **Productivity:** [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) |
 | [legenden](https://www.raycast.com/legenden) | 1 | 60 | **Media:** [Modrinth Search](https://github.com/raycast/extensions/tree/main/extensions/modrinth-search) |
 | [leitmotif](https://www.raycast.com/leitmotif) | 1 | 962 | **Applications:** [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) |
 | [lekoarts](https://www.raycast.com/lekoarts) | 1 | 5,097 | **Design Tools:** [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) |

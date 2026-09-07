@@ -1,6 +1,6 @@
 # Notes ✦
 
-6 extensions · [← Documentation](./README.md)
+7 extensions · [← Documentation](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -12,3 +12,4 @@
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 7,191 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,137 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 748 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
+| [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 0 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |

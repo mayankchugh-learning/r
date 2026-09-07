@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · **Notes & Knowledge** · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-63 of 1470 extensions · [← macOS · Productivity](./README.md)
+64 of 1471 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -69,3 +69,4 @@
 | [Capture - Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/capture-quick-notes) | 4 | Add, search, and manage notes in Capture without leaving Raycast. Requires Capture 2.15 or later. | furkansimsir | macOS | [store](https://www.raycast.com/furkansimsir/capture-quick-notes) |
 | [From](https://github.com/raycast/extensions/tree/main/extensions/from) | 3 | Capture thoughts, search your notes and open your daily note in From — the outliner that understands what you write, so capture stays frictionless and fast. | alberto_lezaun | macOS | [store](https://www.raycast.com/alberto_lezaun/from) |
 | [Noteman](https://github.com/raycast/extensions/tree/main/extensions/noteman) | 2 | Fast, local Markdown note-taking in Raycast | samuel_oldmark_se | macOS | [store](https://www.raycast.com/samuel_oldmark_se/noteman) |
+| [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 0 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |

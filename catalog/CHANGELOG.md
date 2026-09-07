@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `7b89e5b09f`
+
+**Added (1):** [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid)
+
 ## 2026-09-07 — upstream `29632acbd3`
 
 **Added (1):** [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer)

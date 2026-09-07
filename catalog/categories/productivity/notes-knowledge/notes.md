@@ -1,8 +1,8 @@
 # Notes ✦
 
-34 extensions · [← Notes & Knowledge](./README.md)
+35 extensions · [← Notes & Knowledge](./README.md)
 
-[Capture ✦](#capture) (8) · [Daily ✦](#daily) (4) · [Markdown ✦](#markdown) (4) · [General](#general) (18)
+[Capture ✦](#capture) (8) · [Daily ✦](#daily) (4) · [Markdown ✦](#markdown) (4) · [General](#general) (19)
 
 *✦ auto-discovered topic group*
 
@@ -59,3 +59,4 @@
 | [Essay](https://github.com/raycast/extensions/tree/main/extensions/essay) | 39 | Use Essay Raycast extension for instant essay publishing and streamlined notes management. | Ironben | macOS | [store](https://www.raycast.com/Ironben/essay) |
 | [nocal](https://github.com/raycast/extensions/tree/main/extensions/nocal) | 12 | Search notes and manage your day from Raycast with nocal. | nocal (org) | macOS | [store](https://www.raycast.com/nocal/nocal) |
 | [Mnemosyne](https://github.com/raycast/extensions/tree/main/extensions/mnemosyne) | 11 | Quickly save URLs and notes to your Mnemosyne knowledge library | dort | macOS, Windows | [store](https://www.raycast.com/dort/mnemosyne) |
+| [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 0 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |

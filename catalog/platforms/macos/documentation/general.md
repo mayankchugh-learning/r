@@ -2,7 +2,7 @@
 
 [Language References](./language-references.md) · [Framework & Library Docs](./framework-library-docs.md) · [Cheatsheets & Snippets](./cheatsheets-snippets.md) · [Developer References](./developer-references.md) · [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) · [Communities & Blogs](./communities-blogs.md) · [Dictionaries & Language](./dictionaries-language.md) · **General**
 
-72 of 211 extensions · [← macOS · Documentation](./README.md)
+73 of 212 extensions · [← macOS · Documentation](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -78,3 +78,4 @@
 | [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup) | 9 | Look up book contents from Deutsche Nationalbibliothek by ISBN with optional AI-generated Klappentext | wdeu | macOS, Windows | [store](https://www.raycast.com/wdeu/dnb-book-lookup) |
 | [Lattice Scholar Extension](https://github.com/raycast/extensions/tree/main/extensions/lattice-scholar-extension) | 5 | Search your Lattice literature library from Raycast | frank-miao | macOS | [store](https://www.raycast.com/frank-miao/lattice-scholar-extension) |
 | [Granite](https://github.com/raycast/extensions/tree/main/extensions/granite) | 4 | Search, browse, and ask your Granite document vault. | Shpigford | macOS | [store](https://www.raycast.com/Shpigford/granite) |
+| [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 0 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |

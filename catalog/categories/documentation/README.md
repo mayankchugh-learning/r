@@ -1,8 +1,8 @@
 # Documentation
 
-211 extensions · [← all categories](../README.md)
+212 extensions · [← all categories](../README.md)
 
-macOS: 211 · Windows: 64
+macOS: 212 · Windows: 64
 
 ## Programming Docs
 
@@ -30,7 +30,7 @@ macOS: 211 · Windows: 64
 
 | Topic | Extensions |
 | --- | --- |
-| [Notes ✦](./notes.md) | 6 |
+| [Notes ✦](./notes.md) | 7 |
 | [AI ✦](./ai.md) | 4 |
 | [Preview ✦](./preview.md) | 4 |
 

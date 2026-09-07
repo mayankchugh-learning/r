@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "29632acbd3fa7968b275e2e196fdaf2efd83e63e",
-  "generatedAt": "2026-09-07T20:13:47.447Z",
-  "downloadsRefreshedAt": "2026-09-07T20:13:46.808Z",
-  "count": 3264,
+  "commit": "7b89e5b09fd12a6f6a3ef6371998b8b06c56d5c5",
+  "generatedAt": "2026-09-07T20:27:51.388Z",
+  "downloadsRefreshedAt": "2026-09-07T20:27:50.544Z",
+  "count": 3265,
   "extensions": [
     {
       "dir": "0x0",
@@ -9979,7 +9979,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 536845
+      "downloads": 536874
     },
     {
       "dir": "color-shades",
@@ -22395,7 +22395,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 517578
+      "downloads": 517595
     },
     {
       "dir": "google-chrome-profiles",
@@ -27560,6 +27560,27 @@
       "downloads": 270
     },
     {
+      "dir": "jotaid",
+      "name": "jotaid",
+      "title": "Jotaid",
+      "description": "Search your Jotaid notes and send anything you are reading straight to the Inbox.",
+      "author": "leeron",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Documentation"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/leeron/jotaid",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/jotaid",
+      "treeSha": "4706b02a88d836c3fb184ef07ddbc2161d951a98",
+      "downloads": 0
+    },
+    {
       "dir": "jotform",
       "name": "jotform",
       "title": "Jotform",
@@ -28738,7 +28759,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 695784
+      "downloads": 695813
     },
     {
       "dir": "kimai",

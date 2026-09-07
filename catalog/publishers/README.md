@@ -1,6 +1,6 @@
 # Publishers
 
-2180 publishers · [← catalog index](../README.md)
+2181 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,155,142 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,155,171 |
 | 2 | [raycast](./id/raycast.md) | 11 | 817,754 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,784 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 517,578 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,813 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 517,595 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 454,047 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 449,243 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,866 |
@@ -2179,12 +2179,13 @@
 | 2169 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2170 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2171 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
-| 2172 | [Lucas-Kohorst](https://www.raycast.com/Lucas-Kohorst) | 1 | 0 |
-| 2173 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
-| 2174 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2175 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2176 | [satchmo](https://www.raycast.com/satchmo) | 1 | 0 |
-| 2177 | [smry](https://www.raycast.com/smry) | 1 | 0 |
-| 2178 | [visigrid](https://www.raycast.com/visigrid) | 1 | 0 |
-| 2179 | github-next | 2 | — |
-| 2180 | multi | 1 | — |
+| 2172 | [leeron](https://www.raycast.com/leeron) | 1 | 0 |
+| 2173 | [Lucas-Kohorst](https://www.raycast.com/Lucas-Kohorst) | 1 | 0 |
+| 2174 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
+| 2175 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2176 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2177 | [satchmo](https://www.raycast.com/satchmo) | 1 | 0 |
+| 2178 | [smry](https://www.raycast.com/smry) | 1 | 0 |
+| 2179 | [visigrid](https://www.raycast.com/visigrid) | 1 | 0 |
+| 2180 | github-next | 2 | — |
+| 2181 | multi | 1 | — |
