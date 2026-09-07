@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `734506e382`
+
+**Updated (5):** [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks), [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt), [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat), [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian), [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator)
+
 ## 2026-09-07 — upstream `5dc6bcaa69`
 
 **Updated (1):** [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama)
