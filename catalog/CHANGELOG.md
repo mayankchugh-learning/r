@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `cb4a4eeb22`
+
+**Updated (1):** [Open Browsers Profiles](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles)
+
 ## 2026-09-07 — upstream `7a1e8abcf4`
 
 **Updated (1):** [App Store Connect](https://github.com/raycast/extensions/tree/main/extensions/app-store-connect)
