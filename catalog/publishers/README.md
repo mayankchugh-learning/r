@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,155,008 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,155,090 |
 | 2 | [raycast](./id/raycast.md) | 11 | 817,754 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,660 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 517,487 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,738 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 517,547 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 454,047 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 449,243 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,866 |
@@ -160,7 +160,7 @@
 | 150 | [crickford](https://www.raycast.com/crickford) | 1 | 11,554 |
 | 151 | [reboot](https://www.raycast.com/reboot) | 1 | 11,251 |
 | 152 | [jameslyons](https://www.raycast.com/jameslyons) | 2 | 11,227 |
-| 153 | [Rob](./id/rob.md) | 11 | 11,082 |
+| 153 | [Rob](./id/rob.md) | 11 | 11,088 |
 | 154 | [douo](https://www.raycast.com/douo) | 2 | 10,962 |
 | 155 | [Rafo94](https://www.raycast.com/Rafo94) | 1 | 10,940 |
 | 156 | [Quentin23Soleil](https://www.raycast.com/Quentin23Soleil) | 3 | 10,817 |
@@ -286,7 +286,7 @@
 | 276 | [sebdanielsson](https://www.raycast.com/sebdanielsson) | 3 | 4,124 |
 | 277 | [kmusick](https://www.raycast.com/kmusick) | 1 | 4,121 |
 | 278 | [danpalmer](https://www.raycast.com/danpalmer) | 3 | 4,114 |
-| 279 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,092 |
+| 279 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,103 |
 | 280 | [alewandowski](https://www.raycast.com/alewandowski) | 2 | 4,064 |
 | 281 | [sbugzhu](https://www.raycast.com/sbugzhu) | 1 | 4,064 |
 | 282 | [stevensd2m](https://www.raycast.com/stevensd2m) | 2 | 4,055 |

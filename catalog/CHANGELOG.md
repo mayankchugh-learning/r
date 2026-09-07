@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `442af7dd13`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-09-07 — upstream `b5f059b3a7`
 
 **Updated (1):** [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola)

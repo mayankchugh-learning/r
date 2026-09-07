@@ -73,7 +73,7 @@
 | [rkusa](https://www.raycast.com/rkusa) | 1 | 315 | **Developer Tools:** [Cache-Control Builder](https://github.com/raycast/extensions/tree/main/extensions/cache-control-builder) |
 | [rmartins](https://www.raycast.com/rmartins) | 1 | 133 | **Productivity:** [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) |
 | [roamresearch](https://www.raycast.com/roamresearch) | 1 | 1,079 | **Productivity:** [Roam Research](https://github.com/raycast/extensions/tree/main/extensions/roam-research) |
-| [Rob](./id/rob.md) | 11 | 11,082 | [see all 11 →](./id/rob.md) |
+| [Rob](./id/rob.md) | 11 | 11,088 | [see all 11 →](./id/rob.md) |
 | [rob_brown96cc](https://www.raycast.com/rob_brown96cc) | 1 | 18 | **Finance:** [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) |
 | [robertguss](https://www.raycast.com/robertguss) | 1 | 305 | **Documentation:** [Cypress Documentation](https://github.com/raycast/extensions/tree/main/extensions/cypress-docs) |
 | [robertoalvarezalonso](https://www.raycast.com/robertoalvarezalonso) | 1 | 192 | **Productivity:** [ServiceNow](https://github.com/raycast/extensions/tree/main/extensions/servicenow) |
@@ -89,7 +89,7 @@
 | [roelvan](https://www.raycast.com/roelvan) | 1 | 749 | **Developer Tools:** [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 876 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 665 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,660 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,738 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 18 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 599 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 4 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |
