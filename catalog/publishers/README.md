@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,155,090 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,155,103 |
 | 2 | [raycast](./id/raycast.md) | 11 | 817,754 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,738 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 517,547 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 695,753 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 517,556 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 454,047 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 449,243 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,866 |
@@ -28,7 +28,7 @@
 | 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 190,685 |
 | 19 | [mblode](https://www.raycast.com/mblode) | 5 | 188,406 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 172,502 |
-| 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 170,877 |
+| 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 170,914 |
 | 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 157,042 |
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 155,338 |
 | 24 | [loris](https://www.raycast.com/loris) | 6 | 127,722 |
