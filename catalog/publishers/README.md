@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,152,778 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,152,917 |
 | 2 | [raycast](./id/raycast.md) | 11 | 816,327 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,366 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,632 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,519 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,747 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 453,461 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 448,644 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,226 |
@@ -2178,9 +2178,9 @@
 | 2168 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2169 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2170 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
-| 2171 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
-| 2172 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2173 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2174 | github-next | 2 | — |
-| 2175 | Lucas-Kohorst | 1 | — |
+| 2171 | [Lucas-Kohorst](https://www.raycast.com/Lucas-Kohorst) | 1 | 0 |
+| 2172 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
+| 2173 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2174 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2175 | github-next | 2 | — |
 | 2176 | multi | 1 | — |

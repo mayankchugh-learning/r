@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-07 — upstream `2fd5749568`
+
+**Updated (1):** [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage)
+
 ## 2026-09-07 — upstream `d252b7ab13`
 
 **Added (1):** [Adjacent](https://github.com/raycast/extensions/tree/main/extensions/adjacent)

@@ -65,7 +65,7 @@
 | [louison](https://www.raycast.com/louison) | 1 | 202 | **Media:** [Fip](https://github.com/raycast/extensions/tree/main/extensions/fip) |
 | [luarmr](https://www.raycast.com/luarmr) | 2 | 163 | **Applications:** [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly)<br>**Media:** [Descript](https://github.com/raycast/extensions/tree/main/extensions/descript) |
 | [lucaas](https://www.raycast.com/lucaas) | 1 | 9 | **Productivity:** [ftrack](https://github.com/raycast/extensions/tree/main/extensions/ftrack) |
-| Lucas-Kohorst | 1 | — | **Finance:** [Adjacent](https://github.com/raycast/extensions/tree/main/extensions/adjacent) |
+| [Lucas-Kohorst](https://www.raycast.com/Lucas-Kohorst) | 1 | 0 | **Finance:** [Adjacent](https://github.com/raycast/extensions/tree/main/extensions/adjacent) |
 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 61,252 | **Developer Tools:** [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager), [Karabiner Profile Switcher](https://github.com/raycast/extensions/tree/main/extensions/karabiner-profile-switcher), [Popicons](https://github.com/raycast/extensions/tree/main/extensions/popicons)<br>**Productivity:** [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) |
 | [lucasmezencio](https://www.raycast.com/lucasmezencio) | 1 | 724 | **Developer Tools:** [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) |
 | [lucasmotta](https://www.raycast.com/lucasmotta) | 1 | 63 | **Documentation:** [Base UI Components](https://github.com/raycast/extensions/tree/main/extensions/base-ui-docs) |
