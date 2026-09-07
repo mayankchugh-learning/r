@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e32b0fb365be39c7db0c312eb463a3072039a837",
-  "generatedAt": "2026-09-07T11:01:21.842Z",
-  "downloadsRefreshedAt": "2026-09-07T10:35:33.793Z",
+  "commit": "5dc6bcaa699c431ea016d0b9b9ff6af5d1d7877e",
+  "generatedAt": "2026-09-07T11:33:47.887Z",
+  "downloadsRefreshedAt": "2026-09-07T11:33:47.207Z",
   "count": 3262,
   "extensions": [
     {
@@ -9979,7 +9979,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 535698
+      "downloads": 535772
     },
     {
       "dir": "color-shades",
@@ -22395,7 +22395,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 516861
+      "downloads": 516911
     },
     {
       "dir": "google-chrome-profiles",
@@ -28738,7 +28738,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 694672
+      "downloads": 694740
     },
     {
       "dir": "kimai",
@@ -45107,7 +45107,7 @@
       "store": "https://www.raycast.com/CzBiX/proxmox",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proxmox",
       "treeSha": "d68349682724e10a01fb4e6376fe93fa0cc82b20",
-      "downloads": 1186
+      "downloads": 1188
     },
     {
       "dir": "proxyman",
@@ -47756,7 +47756,7 @@
       "description": "Perform Local Inference with Ollama",
       "author": "massimiliano_pasquini",
       "owner": null,
-      "contributors": 1,
+      "contributors": 3,
       "categories": [
         "Productivity"
       ],
@@ -47767,7 +47767,7 @@
       ],
       "store": "https://www.raycast.com/massimiliano_pasquini/raycast-ollama",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama",
-      "treeSha": "032d1e3b5894c4b9ca1fa4a563d4549ca71fee2c",
+      "treeSha": "2e0bd7eaf7662021f99fdffbfeca26a0e65cf42a",
       "downloads": 38360
     },
     {
@@ -54364,7 +54364,7 @@
       "store": "https://www.raycast.com/smry/smry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/smry",
       "treeSha": "4de1fe777a652f6651816b994d47ded95ebe3860",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "smultron",

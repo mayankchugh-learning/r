@@ -17,7 +17,7 @@
 | [Kinopio Inbox](https://github.com/raycast/extensions/tree/main/extensions/kinopio-inbox) | 183 | Add cards to your Kinopio inbox | pirijan | macOS | [store](https://www.raycast.com/pirijan/kinopio-inbox) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 175 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 | [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) | 108 | Send a quick subject + body to your inbox over SMTP without leaving Raycast. | MrMage | macOS | [store](https://www.raycast.com/MrMage/mail-to-self) |
-| [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) | — | Save browser tabs and links to your smry Inbox or Later list. | smry | macOS | [store](https://www.raycast.com/smry/smry) |
+| [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) | 0 | Save browser tabs and links to your smry Inbox or Later list. | smry | macOS | [store](https://www.raycast.com/smry/smry) |
 
 ## Email Address ✦
 

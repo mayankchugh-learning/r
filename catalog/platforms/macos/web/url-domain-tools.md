@@ -51,4 +51,4 @@
 | [Cloudstash](https://github.com/raycast/extensions/tree/main/extensions/cloudstash) | 6 | Save links to Cloudstash | birdie | macOS | [store](https://www.raycast.com/birdie/cloudstash) |
 | [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | 2 | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | [store](https://www.raycast.com/meslva/cl1p) |
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 2 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
-| [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) | — | Save browser tabs and links to your smry Inbox or Later list. | smry | macOS | [store](https://www.raycast.com/smry/smry) |
+| [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) | 0 | Save browser tabs and links to your smry Inbox or Later list. | smry | macOS | [store](https://www.raycast.com/smry/smry) |

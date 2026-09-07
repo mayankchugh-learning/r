@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,153,073 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,153,147 |
 | 2 | [raycast](./id/raycast.md) | 11 | 816,378 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,672 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,861 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 694,740 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 516,911 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 453,461 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 448,644 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 419,226 |
@@ -591,8 +591,8 @@
 | 581 | [resend](https://www.raycast.com/resend) | 1 | 1,195 |
 | 582 | [juhamust](https://www.raycast.com/juhamust) | 2 | 1,191 |
 | 583 | [Globolo](https://www.raycast.com/Globolo) | 1 | 1,189 |
-| 584 | [conner_luzier](https://www.raycast.com/conner_luzier) | 1 | 1,187 |
-| 585 | [CzBiX](https://www.raycast.com/CzBiX) | 1 | 1,186 |
+| 584 | [CzBiX](https://www.raycast.com/CzBiX) | 1 | 1,188 |
+| 585 | [conner_luzier](https://www.raycast.com/conner_luzier) | 1 | 1,187 |
 | 586 | [mike182uk](https://www.raycast.com/mike182uk) | 3 | 1,184 |
 | 587 | [lewj](https://www.raycast.com/lewj) | 1 | 1,183 |
 | 588 | [Mmehdi06](https://www.raycast.com/Mmehdi06) | 1 | 1,182 |
@@ -2184,6 +2184,6 @@
 | 2174 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2175 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2176 | [satchmo](https://www.raycast.com/satchmo) | 1 | 0 |
-| 2177 | github-next | 2 | — |
-| 2178 | multi | 1 | — |
-| 2179 | [smry](https://www.raycast.com/smry) | 1 | — |
+| 2177 | [smry](https://www.raycast.com/smry) | 1 | 0 |
+| 2178 | github-next | 2 | — |
+| 2179 | multi | 1 | — |
