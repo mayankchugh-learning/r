@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `565bff3176`
+
+**Updated (1):** [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer)
+
 ## 2026-09-08 — upstream `9ce2c3f3ef`
 
 **Updated (1):** [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr)

@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 1,007 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
-| [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 676 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 199 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
+| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 1,012 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
+| [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 677 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 203 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
 | [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) | 195 | Quickly search and use Prisma CLI Commands along with command details. | raj_asha | macOS | [store](https://www.raycast.com/raj_asha/prisma-cli-commands) |
-| [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 169 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
+| [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 172 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
 | [MongoDB ObjectId](https://github.com/raycast/extensions/tree/main/extensions/mongodb-objectid) | 113 | A Raycast extension that transform between MongoDB ObjectId and timestamps. | tssujt | macOS | [store](https://www.raycast.com/tssujt/mongodb-objectid) |
 | [Convex](https://github.com/raycast/extensions/tree/main/extensions/convex) | 112 | Interact with your Convex projects directly from Raycast | devwithbobby | macOS | [store](https://www.raycast.com/devwithbobby/convex) |
 | [Prisma Postgres](https://github.com/raycast/extensions/tree/main/extensions/prisma-postgres) | 107 | Create and manage Prisma Postgres databases instantly with zero setup | amanvarshney01 | macOS, Windows | [store](https://www.raycast.com/amanvarshney01/prisma-postgres) |

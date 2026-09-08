@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Codex](https://github.com/raycast/extensions/tree/main/extensions/codex) | 431 | Monitor and manage your Codex tasks directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/codex) |
-| [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) | 301 | Manage Codex MCP servers and skills with safe local operations | jose_de_freitas | macOS | [store](https://www.raycast.com/jose_de_freitas/codex-manager) |
+| [Codex](https://github.com/raycast/extensions/tree/main/extensions/codex) | 441 | Monitor and manage your Codex tasks directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/codex) |
+| [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) | 303 | Manage Codex MCP servers and skills with safe local operations | jose_de_freitas | macOS | [store](https://www.raycast.com/jose_de_freitas/codex-manager) |
 | [fxCodex](https://github.com/raycast/extensions/tree/main/extensions/fxcodex) | 32 | Manage custom Codex workspaces from Raycast | maximkrouk | macOS | [store](https://www.raycast.com/maximkrouk/fxcodex) |
-| [Codex Sessions](https://github.com/raycast/extensions/tree/main/extensions/codex-sessions) | 6 | Live Working / Done · Unread status for local Codex sessions — fuzzy-find them from Codex's on-disk state, resume in Desktop or the terminal, and jump between… | jomatsu | macOS | [store](https://www.raycast.com/jomatsu/codex-sessions) |
+| [Codex Sessions](https://github.com/raycast/extensions/tree/main/extensions/codex-sessions) | 9 | Live Working / Done · Unread status for local Codex sessions — fuzzy-find them from Codex's on-disk state, resume in Desktop or the terminal, and jump between… | jomatsu | macOS | [store](https://www.raycast.com/jomatsu/codex-sessions) |
