@@ -2,7 +2,7 @@
 
 [Language References](./language-references.md) · [Framework & Library Docs](./framework-library-docs.md) · [Cheatsheets & Snippets](./cheatsheets-snippets.md) · [Developer References](./developer-references.md) · [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) · **Communities & Blogs** · [Dictionaries & Language](./dictionaries-language.md) · [General](./general.md)
 
-3 of 212 extensions · [← macOS · Documentation](./README.md)
+3 of 213 extensions · [← macOS · Documentation](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |

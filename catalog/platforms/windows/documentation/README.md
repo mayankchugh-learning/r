@@ -1,8 +1,8 @@
 # Windows · Documentation
 
-64 extensions · [← Windows](../README.md)
+65 extensions · [← Windows](../README.md)
 
-[Language References](#language-references) (3) · [Framework & Library Docs](#framework-library-docs) (8) · [Cheatsheets & Snippets](#cheatsheets-snippets) (6) · [Developer References](#developer-references) (8) · [Wikis & Knowledge Bases](#wikis-knowledge-bases) (17) · [Communities & Blogs](#communities-blogs) (1) · [Dictionaries & Language](#dictionaries-language) (1) · [General](#general) (20)
+[Language References](#language-references) (3) · [Framework & Library Docs](#framework-library-docs) (9) · [Cheatsheets & Snippets](#cheatsheets-snippets) (6) · [Developer References](#developer-references) (8) · [Wikis & Knowledge Bases](#wikis-knowledge-bases) (17) · [Communities & Blogs](#communities-blogs) (1) · [Dictionaries & Language](#dictionaries-language) (1) · [General](#general) (20)
 
 ## Programming Docs
 
@@ -26,6 +26,7 @@
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 625 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) | 45 | Navigate and search through Django documentation | JensAstrup | macOS, Windows | [store](https://www.raycast.com/JensAstrup/django-docs) |
 | [Open Props](https://github.com/raycast/extensions/tree/main/extensions/open-props) | 18 | Search and copy CSS custom properties from the Open Props design system. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/open-props) |
+| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 0 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |
 
 ### Developer References
 

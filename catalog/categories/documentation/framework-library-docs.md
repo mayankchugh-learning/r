@@ -1,8 +1,8 @@
 # Framework & Library Docs
 
-25 extensions · [← Documentation](./README.md)
+26 extensions · [← Documentation](./README.md)
 
-[Documentation ✦](#documentation) (12) · [Docs ✦](#docs) (5) · [General](#general) (8)
+[Documentation ✦](#documentation) (12) · [Docs ✦](#docs) (5) · [General](#general) (9)
 
 *✦ auto-discovered topic group*
 
@@ -45,3 +45,4 @@
 | [Braid Design System](https://github.com/raycast/extensions/tree/main/extensions/braid) | 201 | Search and use Braid Components and Iconography from Raycast | felixhabib | macOS | [store](https://www.raycast.com/felixhabib/braid) |
 | [daisyUI Colors & Components](https://github.com/raycast/extensions/tree/main/extensions/daisyui) | 184 | Access the daisyUI reference material from Raycast. All references are from the v5 beta! | joeynotjoe_2 | macOS | [store](https://www.raycast.com/joeynotjoe_2/daisyui) |
 | [Open Props](https://github.com/raycast/extensions/tree/main/extensions/open-props) | 18 | Search and copy CSS custom properties from the Open Props design system. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/open-props) |
+| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 0 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |

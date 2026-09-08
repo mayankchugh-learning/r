@@ -1,15 +1,15 @@
 # Documentation
 
-212 extensions · [← all categories](../README.md)
+213 extensions · [← all categories](../README.md)
 
-macOS: 212 · Windows: 64
+macOS: 213 · Windows: 65
 
 ## Programming Docs
 
 | Topic | Extensions |
 | --- | --- |
 | [Language References](./language-references.md) | 7 |
-| [Framework & Library Docs](./framework-library-docs.md) | 25 |
+| [Framework & Library Docs](./framework-library-docs.md) | 26 |
 | [Developer References](./developer-references.md) | 16 |
 
 ## Quick Reference

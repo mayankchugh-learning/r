@@ -1,8 +1,8 @@
 # Windows · Design Tools
 
-44 extensions · [← Windows](../README.md)
+45 extensions · [← Windows](../README.md)
 
-[AI Generation](#ai-generation) (3) · [Colors & Palettes](#colors-palettes) (6) · [Icons & Assets](#icons-assets) (14) · [Fonts & Typography](#fonts-typography) (2) · [Design Apps & Whiteboards](#design-apps-whiteboards) (2) · [Screenshots & Mockups](#screenshots-mockups) (3) · [Art & Wallpapers](#art-wallpapers) (3) · [General](#general) (11)
+[AI Generation](#ai-generation) (3) · [Colors & Palettes](#colors-palettes) (6) · [Icons & Assets](#icons-assets) (14) · [Fonts & Typography](#fonts-typography) (2) · [Design Apps & Whiteboards](#design-apps-whiteboards) (2) · [Screenshots & Mockups](#screenshots-mockups) (3) · [Art & Wallpapers](#art-wallpapers) (3) · [Inspiration & Galleries](#inspiration-galleries) (1) · [General](#general) (11)
 
 ## Visual Elements
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 538,231 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 538,264 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,350 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 686 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 32 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
@@ -69,6 +69,12 @@
 | [LobeHub Icons](https://github.com/raycast/extensions/tree/main/extensions/lobehub-icons) | 81 | Popular AI / LLM Model Brand SVG Logo and Icon Collection | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/lobehub-icons) |
 
 ## Reference & Inspiration
+
+### Inspiration & Galleries
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 0 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |
 
 ### Art & Wallpapers
 

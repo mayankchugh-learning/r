@@ -1,13 +1,13 @@
 # macOS · Documentation
 
-212 extensions · [← macOS](../README.md)
+213 extensions · [← macOS](../README.md)
 
 ## Programming Docs
 
 | Topic | Extensions |
 | --- | --- |
 | [Language References](./language-references.md) | 7 |
-| [Framework & Library Docs](./framework-library-docs.md) | 25 |
+| [Framework & Library Docs](./framework-library-docs.md) | 26 |
 | [Developer References](./developer-references.md) | 16 |
 
 ## Quick Reference

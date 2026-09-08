@@ -2,7 +2,7 @@
 
 [Language References](./language-references.md) · **Framework & Library Docs** · [Cheatsheets & Snippets](./cheatsheets-snippets.md) · [Developer References](./developer-references.md) · [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) · [Communities & Blogs](./communities-blogs.md) · [Dictionaries & Language](./dictionaries-language.md) · [General](./general.md)
 
-25 of 212 extensions · [← macOS · Documentation](./README.md)
+26 of 213 extensions · [← macOS · Documentation](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,4 @@
 | [Vuetify Docs](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) | 53 | Search all Vuetify components and open the official documentation directly from Raycast. | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vuetify-docs) |
 | [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) | 45 | Navigate and search through Django documentation | JensAstrup | macOS, Windows | [store](https://www.raycast.com/JensAstrup/django-docs) |
 | [Open Props](https://github.com/raycast/extensions/tree/main/extensions/open-props) | 18 | Search and copy CSS custom properties from the Open Props design system. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/open-props) |
+| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 0 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |

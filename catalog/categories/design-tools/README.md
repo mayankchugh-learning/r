@@ -1,8 +1,8 @@
 # Design Tools
 
-160 extensions · [← all categories](../README.md)
+161 extensions · [← all categories](../README.md)
 
-macOS: 160 · Windows: 44
+macOS: 161 · Windows: 45
 
 ## Visual Elements
 
@@ -25,7 +25,7 @@ macOS: 160 · Windows: 44
 
 | Topic | Extensions |
 | --- | --- |
-| [Inspiration & Galleries](./inspiration-galleries.md) | 5 |
+| [Inspiration & Galleries](./inspiration-galleries.md) | 6 |
 | [Art & Wallpapers](./art-wallpapers.md) | 4 |
 | [Calculators & Ratios](./calculators-ratios.md) | 6 |
 
