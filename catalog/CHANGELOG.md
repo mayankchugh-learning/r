@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `5b20a620d1`
+
+**Updated (1):** [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio)
+
 ## 2026-09-08 — upstream `5df57844c2`
 
 **Updated (1):** [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather)
