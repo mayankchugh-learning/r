@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `17dd4b2371`
+
+**Updated (1):** [In the Timezone](https://github.com/raycast/extensions/tree/main/extensions/in-the-time-zone)
+
 ## 2026-09-08 — upstream `162554d274`
 
 **Added (1):** [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures)
