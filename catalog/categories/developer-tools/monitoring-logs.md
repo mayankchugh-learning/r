@@ -29,7 +29,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) | 142 | A Raycast extension to browse your website analytics coming from Fathom. | yannglt | macOS | [store](https://www.raycast.com/yannglt/fathom-analytics-stats) |
 | [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 24 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
-| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 17 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | sam_moreton | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |
+| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 17 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | openqr (org) | macOS | [store](https://www.raycast.com/sam_moreton/openqr) |
 | [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra) | 11 | Explore GEO analytics and manage Notra content directly from Raycast. | dominikdev | macOS, Windows | [store](https://www.raycast.com/dominikdev/notra) |
 
 ## Logs ✦

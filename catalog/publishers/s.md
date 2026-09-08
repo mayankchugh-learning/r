@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-170 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+169 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -14,7 +14,6 @@
 | [saketh_chandra](https://www.raycast.com/saketh_chandra) | 1 | 55 | **Fun:** [RayDoom](https://github.com/raycast/extensions/tree/main/extensions/raydoom) |
 | [salman_mian](https://www.raycast.com/salman_mian) | 1 | 307 | **Web:** [You.com Search](https://github.com/raycast/extensions/tree/main/extensions/you-com-search) |
 | [sam_duemler](https://www.raycast.com/sam_duemler) | 1 | 57 | **Fun:** [Tabletop Dice Roller](https://github.com/raycast/extensions/tree/main/extensions/tabletop-dice-roller) |
-| [sam_moreton](https://www.raycast.com/sam_moreton) | 1 | 17 | **Data:** [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) |
 | [sam.dsgn](https://www.raycast.com/Sam.Dsgn) | 1 | 62 | **Productivity:** [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) |
 | [samarpit_santoki](https://www.raycast.com/samarpit_santoki) | 1 | 96 | **Productivity:** [Braintick](https://github.com/raycast/extensions/tree/main/extensions/braintick) |
 | [sameed_majgaonkar](https://www.raycast.com/sameed_majgaonkar) | 1 | 219 | **System:** [Virtual Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/virtual-desktop-manager) |

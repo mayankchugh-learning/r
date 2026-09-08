@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · **O** · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-42 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+43 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -31,6 +31,7 @@
 | [onebookmark](https://www.raycast.com/onebookmark) | 1 | 242 | **Productivity:** [1Bookmark](https://github.com/raycast/extensions/tree/main/extensions/1bookmark) |
 | [onnokh](https://www.raycast.com/onnokh) | 1 | 5 | **Productivity:** [Sleevy - Manage Your Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/sleevy) |
 | [OozyGrub](https://www.raycast.com/OozyGrub) | 1 | 70 | **Data:** [eBird](https://github.com/raycast/extensions/tree/main/extensions/ebird) |
+| [openqr](https://www.raycast.com/sam_moreton) | 1 | 17 | **Data:** [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) |
 | [openverse](https://www.raycast.com/openverse) | 1 | 314 | **Media:** [Openverse](https://github.com/raycast/extensions/tree/main/extensions/openverse) |
 | [opkelde](https://www.raycast.com/opkelde) | 1 | 36 | **Media:** [Jellyamp](https://github.com/raycast/extensions/tree/main/extensions/jellyamp) |
 | [oppenheimer](https://www.raycast.com/oppenheimer) | 1 | 81 | **Finance:** [Lunch Money](https://github.com/raycast/extensions/tree/main/extensions/lunchmoney) |

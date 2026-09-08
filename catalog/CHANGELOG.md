@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `9ce2c3f3ef`
+
+**Updated (1):** [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr)
+
 ## 2026-09-08 — upstream `7a2a56d24a`
 
 **Added (1):** [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search)
