@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,160,261 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,160,266 |
 | 2 | [raycast](./id/raycast.md) | 11 | 821,783 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 698,323 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 519,321 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 698,327 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 519,323 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 455,610 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 450,864 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 421,597 |
@@ -894,7 +894,7 @@
 | 884 | [bake](https://www.raycast.com/bake) | 1 | 521 |
 | 885 | [lichinlin](https://www.raycast.com/lichinlin) | 1 | 516 |
 | 886 | [ShawYoungTang](https://www.raycast.com/ShawYoungTang) | 1 | 510 |
-| 887 | [asifk](https://www.raycast.com/asifk) | 3 | 508 |
+| 887 | [asifk](https://www.raycast.com/asifk) | 3 | 509 |
 | 888 | [clement_cloux](https://www.raycast.com/clement_cloux) | 1 | 508 |
 | 889 | [osteele](https://www.raycast.com/osteele) | 1 | 506 |
 | 890 | [javierarce](https://www.raycast.com/javierarce) | 2 | 505 |

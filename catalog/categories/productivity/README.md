@@ -8,7 +8,7 @@ macOS: 1472 · Windows: 366
 
 | Topic | Extensions |
 | --- | --- |
-| [Tasks & To-Dos](./tasks-to-dos.md) | 52 |
+| [Tasks & To-Dos](./tasks-to-dos.md) | 51 |
 | [Calendar & Scheduling](./calendar-scheduling.md) | 25 |
 | [Notes & Knowledge](./notes-knowledge/README.md) | 64 |
 | [Time Tracking & Focus](./time-tracking-focus.md) | 25 |
@@ -37,7 +37,7 @@ macOS: 1472 · Windows: 366
 | --- | --- |
 | [Reading & Learning](./reading-learning.md) | 21 |
 | [Team & Business Tools](./team-business-tools.md) | 17 |
-| [Trackers & Monitors](./trackers-monitors.md) | 36 |
+| [Trackers & Monitors](./trackers-monitors.md) | 37 |
 
 ## Discovered topics ✦
 

@@ -1,8 +1,8 @@
 # Tasks & To-Dos
 
-52 extensions · [← Productivity](./README.md)
+51 extensions · [← Productivity](./README.md)
 
-[Tasks ✦](#tasks) (39) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
+[Tasks ✦](#tasks) (38) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -19,7 +19,6 @@
 | [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 751 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
 | [Time Logs](https://github.com/raycast/extensions/tree/main/extensions/time-logs) | 472 | Track, manage, and export time logs on tasks and projects. | madebydamien | macOS | [store](https://www.raycast.com/madebydamien/time-logs) |
 | [Taskplane](https://github.com/raycast/extensions/tree/main/extensions/taskplane) | 448 | Manage your tasks for Taskplane right in Raycast | albingroen | macOS | [store](https://www.raycast.com/albingroen/taskplane) |
-| [Codex](https://github.com/raycast/extensions/tree/main/extensions/codex) | 441 | Monitor and manage your Codex tasks directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/codex) |
 | [Intention Clarifier](https://github.com/raycast/extensions/tree/main/extensions/intention-clarifier) | 382 | This Raycast extension helps you articulate your intentions, mood, and reasons behind your tasks. It guides you through a simple form to clarify what you want… | skyline-123 | macOS | [store](https://www.raycast.com/skyline-123/intention-clarifier) |
 | [Charged: Starknet Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/charged) | 209 | Shorcuts for common web3 tasks | apoorv | macOS | [store](https://www.raycast.com/apoorv/charged) |
 | [Tembo](https://github.com/raycast/extensions/tree/main/extensions/tembo) | 183 | Tembo Raycast Extension for task management and creation | tembo | macOS | [store](https://www.raycast.com/tembo/tembo) |

@@ -173,7 +173,7 @@
 | [asboy2035](https://www.raycast.com/asboy2035) | 1 | 8 | **Developer Tools:** [SerialCast](https://github.com/raycast/extensions/tree/main/extensions/serialcast) |
 | [ashleyhindle](https://www.raycast.com/ashleyhindle) | 1 | 359 | **Productivity:** [Focus Anchor](https://github.com/raycast/extensions/tree/main/extensions/focus-anchor) |
 | [ashleymavericks](https://www.raycast.com/ashleymavericks) | 1 | 528 | **Developer Tools:** [Tokenizer](https://github.com/raycast/extensions/tree/main/extensions/tokenizer) |
-| [asifk](https://www.raycast.com/asifk) | 3 | 508 | **Applications:** [Codex](https://github.com/raycast/extensions/tree/main/extensions/codex), [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside)<br>**Design Tools:** [Paper Design](https://github.com/raycast/extensions/tree/main/extensions/paper-design) |
+| [asifk](https://www.raycast.com/asifk) | 3 | 509 | **Applications:** [Codex](https://github.com/raycast/extensions/tree/main/extensions/codex), [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside)<br>**Design Tools:** [Paper Design](https://github.com/raycast/extensions/tree/main/extensions/paper-design) |
 | [aslamdoctor](https://www.raycast.com/aslamdoctor) | 1 | 134 | **Developer Tools:** [WordPress WP-CLI Commands Explorer](https://github.com/raycast/extensions/tree/main/extensions/wp-cli-command-explorer) |
 | [asnimansari](https://www.raycast.com/asnimansari) | 1 | 241 | **Productivity:** [Scratchpad](https://github.com/raycast/extensions/tree/main/extensions/scratchpad) |
 | [asportnoy](https://www.raycast.com/asportnoy) | 1 | 5,696 | **Developer Tools:** [Date Converter](https://github.com/raycast/extensions/tree/main/extensions/date-converter) |
