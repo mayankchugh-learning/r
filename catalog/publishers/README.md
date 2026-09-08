@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,156,958 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,157,022 |
 | 2 | [raycast](./id/raycast.md) | 11 | 819,512 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 696,510 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 518,085 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 696,572 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 518,135 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 454,727 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 449,927 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 420,638 |
@@ -240,7 +240,7 @@
 | 230 | [riomadeit](https://www.raycast.com/riomadeit) | 1 | 5,945 |
 | 231 | [sawyerh](https://www.raycast.com/sawyerh) | 1 | 5,943 |
 | 232 | [indykoning](https://www.raycast.com/indykoning) | 1 | 5,819 |
-| 233 | [isma](https://www.raycast.com/isma) | 2 | 5,810 |
+| 233 | [isma](https://www.raycast.com/isma) | 2 | 5,811 |
 | 234 | [iwfan](https://www.raycast.com/iwfan) | 2 | 5,713 |
 | 235 | [ricoberger](https://www.raycast.com/ricoberger) | 3 | 5,683 |
 | 236 | [asportnoy](https://www.raycast.com/asportnoy) | 1 | 5,677 |

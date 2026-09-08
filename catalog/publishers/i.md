@@ -53,7 +53,7 @@
 | [isfeng](https://www.raycast.com/isfeng) | 3 | 37,226 | **Applications:** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)<br>**Developer Tools:** [CodeBlocks](https://github.com/raycast/extensions/tree/main/extensions/CodeBlocks), [Modify Hash](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) |
 | [islamessam](https://www.raycast.com/islamessam) | 1 | 63 | **Developer Tools:** [SimpleBackups](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) |
 | [islamtayeb](https://www.raycast.com/islamtayeb) | 1 | 1,688 | **Applications:** [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) |
-| [isma](https://www.raycast.com/isma) | 2 | 5,810 | **Uncategorized:** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)<br>**News:** [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) |
+| [isma](https://www.raycast.com/isma) | 2 | 5,811 | **Uncategorized:** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)<br>**News:** [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) |
 | [ismi](https://www.raycast.com/ismi) | 1 | 252 | **Developer Tools:** [PulseMCP](https://github.com/raycast/extensions/tree/main/extensions/pulsemcp) |
 | [isra](https://www.raycast.com/isra) | 1 | 23 | **Web:** [Defly.io](https://github.com/raycast/extensions/tree/main/extensions/defly-io) |
 | [itggood2420](https://www.raycast.com/itggood2420) | 2 | 29 | **Developer Tools:** [OpenSearch DevTools](https://github.com/raycast/extensions/tree/main/extensions/opensearch), [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) |
