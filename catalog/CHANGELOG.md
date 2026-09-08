@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `9523cb6755`
+
+**Updated (1):** [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram)
+
 ## 2026-09-08 — upstream `8d151bb007`
 
 **Updated (1):** [Printer Status](https://github.com/raycast/extensions/tree/main/extensions/printer-status)
