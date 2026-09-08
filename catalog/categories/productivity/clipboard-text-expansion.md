@@ -1,6 +1,6 @@
 # Clipboard & Text Expansion
 
-70 extensions · [← Productivity](./README.md)
+71 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -73,4 +73,5 @@
 | [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) | 6 | Upload copied screenshots or copied image files to a configurable ImgBed endpoint. | andy | macOS | [store](https://www.raycast.com/andy/imgbed-uploader) |
 | [Kesha Voice Kit](https://github.com/raycast/extensions/tree/main/extensions/kesha-voice-kit) | 4 | Offline microphone dictation powered by the Kesha Voice Kit CLI. Records locally, transcribes locally, and copies text to your clipboard. | drakulavich | macOS | [store](https://www.raycast.com/drakulavich/kesha-voice-kit) |
 | [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 1 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
+| [Load-Bearing Reply](https://github.com/raycast/extensions/tree/main/extensions/load-bearing-reply) | 0 | Paste a confidently over-engineered reply into the frontmost app. | chris_deeming | macOS, Windows | [store](https://www.raycast.com/chris_deeming/load-bearing-reply) |
 | [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid) | 0 | Spreadsheet powers from your launcher: evaluate Excel formulas against clipboard data, peek inside xlsx/csv/sheet files, and open workbooks — via the VisiGrid… | visigrid | macOS | [store](https://www.raycast.com/visigrid/visigrid) |

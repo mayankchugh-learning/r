@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · **Clipboard & Text Expansion** · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-17 of 365 extensions · [← Windows · Productivity](./README.md)
+18 of 366 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,4 @@
 | [Chinese Character Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-character-converter) | 50 | Auto convert clipboard content between Traditional and Simplified Chinese | simon_lai | Windows | [store](https://www.raycast.com/simon_lai/chinese-character-converter) |
 | [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray) | 50 | 540+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machin… | apptiary_com | macOS, Windows | [store](https://www.raycast.com/apptiary_com/textarray) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 44 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
+| [Load-Bearing Reply](https://github.com/raycast/extensions/tree/main/extensions/load-bearing-reply) | 0 | Paste a confidently over-engineered reply into the frontmost app. | chris_deeming | macOS, Windows | [store](https://www.raycast.com/chris_deeming/load-bearing-reply) |

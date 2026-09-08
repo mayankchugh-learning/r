@@ -1,6 +1,6 @@
 # Publishers
 
-2182 publishers · [← catalog index](../README.md)
+2183 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,17 +8,17 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,157,554 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,157,577 |
 | 2 | [raycast](./id/raycast.md) | 11 | 819,512 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 697,110 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 518,476 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 697,138 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 518,496 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 454,727 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 449,927 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 420,638 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 362,090 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 309,141 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 300,200 |
-| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 265,021 |
+| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 265,291 |
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 264,405 |
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 255,610 |
 | 14 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 244,932 |
@@ -2178,15 +2178,16 @@
 | 2168 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 1 |
 | 2169 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2170 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2171 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2172 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2173 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
-| 2174 | [Lucas-Kohorst](https://www.raycast.com/Lucas-Kohorst) | 1 | 0 |
-| 2175 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
-| 2176 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2177 | [orcdev](https://www.raycast.com/orcdev) | 1 | 0 |
-| 2178 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2179 | [smry](https://www.raycast.com/smry) | 1 | 0 |
-| 2180 | [visigrid](https://www.raycast.com/visigrid) | 1 | 0 |
-| 2181 | github-next | 2 | — |
-| 2182 | multi | 1 | — |
+| 2171 | [chris_deeming](https://www.raycast.com/chris_deeming) | 1 | 0 |
+| 2172 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2173 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2174 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
+| 2175 | [Lucas-Kohorst](https://www.raycast.com/Lucas-Kohorst) | 1 | 0 |
+| 2176 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
+| 2177 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2178 | [orcdev](https://www.raycast.com/orcdev) | 1 | 0 |
+| 2179 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2180 | [smry](https://www.raycast.com/smry) | 1 | 0 |
+| 2181 | [visigrid](https://www.raycast.com/visigrid) | 1 | 0 |
+| 2182 | github-next | 2 | — |
+| 2183 | multi | 1 | — |

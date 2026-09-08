@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `32f2e05ee8`
+
+**Added (1):** [Load-Bearing Reply](https://github.com/raycast/extensions/tree/main/extensions/load-bearing-reply)
+
 ## 2026-09-08 — upstream `79ab1cd6bc`
 
 **Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
