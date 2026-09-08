@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `8d151bb007`
+
+**Updated (1):** [Printer Status](https://github.com/raycast/extensions/tree/main/extensions/printer-status)
+
 ## 2026-09-08 — upstream `3b40ba7e8f`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
