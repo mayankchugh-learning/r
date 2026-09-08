@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `8b5b4895c0`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-09-08 — upstream `549b9031a5`
 
 **Updated (1):** [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly)
