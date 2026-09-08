@@ -1,6 +1,6 @@
 # macOS · Fun
 
-275 extensions · [← macOS](../README.md)
+276 extensions · [← macOS](../README.md)
 
 ## Play
 
@@ -24,7 +24,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) | 10 |
+| [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) | 11 |
 | [Wallpapers & Effects](./wallpapers-effects.md) | 7 |
 | [Nature & Exploration](./nature-exploration.md) | 5 |
 | [Food & Drink](./food-drink.md) | 7 |

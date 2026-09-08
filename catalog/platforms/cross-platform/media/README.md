@@ -1,8 +1,8 @@
 # Cross-platform · Media
 
-82 extensions · [← Cross-platform](../README.md)
+83 extensions · [← Cross-platform](../README.md)
 
-[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (10) · [Images & Photos](#images-photos) (16) · [Wallpapers & Art](#wallpapers-art) (5) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (30)
+[Music & Audio](#music-audio) (13) · [Video & Streaming](#video-streaming) (10) · [Images & Photos](#images-photos) (17) · [Wallpapers & Art](#wallpapers-art) (5) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (30)
 
 ## Listen & Watch
 
@@ -61,6 +61,7 @@
 | [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 14 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 9 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
 | [UploadKit Image Uploader](https://github.com/raycast/extensions/tree/main/extensions/uploadkit) | 2 | Upload images to UploadKit and copy their CDN URL | drumst0ck | macOS, Windows | [store](https://www.raycast.com/drumst0ck/uploadkit) |
+| [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) | 0 | Search orc reaction GIFs and copy the GIF file to the clipboard for X. | orcdev | macOS, Windows | [store](https://www.raycast.com/orcdev/orc-pictures) |
 
 ### Wallpapers & Art
 

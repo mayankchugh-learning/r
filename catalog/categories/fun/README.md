@@ -1,8 +1,8 @@
 # Fun
 
-276 extensions · [← all categories](../README.md)
+277 extensions · [← all categories](../README.md)
 
-macOS: 275 · Windows: 92
+macOS: 276 · Windows: 93
 
 ## Play
 
@@ -26,7 +26,7 @@ macOS: 275 · Windows: 92
 
 | Topic | Extensions |
 | --- | --- |
-| [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) | 10 |
+| [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) | 11 |
 | [Wallpapers & Effects](./wallpapers-effects.md) | 7 |
 | [Nature & Exploration](./nature-exploration.md) | 5 |
 | [Food & Drink](./food-drink.md) | 7 |

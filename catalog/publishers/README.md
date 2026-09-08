@@ -1,6 +1,6 @@
 # Publishers
 
-2181 publishers · [← catalog index](../README.md)
+2182 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,157,022 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,157,105 |
 | 2 | [raycast](./id/raycast.md) | 11 | 819,512 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 696,572 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 518,135 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 696,652 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 518,196 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 454,727 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 449,927 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 420,638 |
@@ -2184,8 +2184,9 @@
 | 2174 | [Lucas-Kohorst](https://www.raycast.com/Lucas-Kohorst) | 1 | 0 |
 | 2175 | [lyager](https://www.raycast.com/lyager) | 1 | 0 |
 | 2176 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2177 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2178 | [smry](https://www.raycast.com/smry) | 1 | 0 |
-| 2179 | [visigrid](https://www.raycast.com/visigrid) | 1 | 0 |
-| 2180 | github-next | 2 | — |
-| 2181 | multi | 1 | — |
+| 2177 | [orcdev](https://www.raycast.com/orcdev) | 1 | 0 |
+| 2178 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2179 | [smry](https://www.raycast.com/smry) | 1 | 0 |
+| 2180 | [visigrid](https://www.raycast.com/visigrid) | 1 | 0 |
+| 2181 | github-next | 2 | — |
+| 2182 | multi | 1 | — |

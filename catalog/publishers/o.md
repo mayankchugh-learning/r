@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · **O** · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-41 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+42 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -37,6 +37,7 @@
 | [opti21](https://www.raycast.com/opti21) | 1 | 223 | **Productivity:** [Trek](https://github.com/raycast/extensions/tree/main/extensions/trek) |
 | [orangebyte](https://www.raycast.com/orangebyte) | 1 | 33 | **Fun:** [Tiny Tycho](https://github.com/raycast/extensions/tree/main/extensions/tiny-tycho) |
 | [orangelckc](https://www.raycast.com/orangelckc) | 1 | 168 | **Fun:** [RedNote Viewer](https://github.com/raycast/extensions/tree/main/extensions/rednote-viewer) |
+| [orcdev](https://www.raycast.com/orcdev) | 1 | 0 | **Fun:** [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) |
 | [osama_aamer](https://www.raycast.com/osama_aamer) | 1 | 349 | **Communication:** [Speed Dial](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) |
 | [oslen](https://www.raycast.com/Oslen) | 1 | 36 | **Developer Tools:** [GitHub Pull Requests](https://github.com/raycast/extensions/tree/main/extensions/gh-pr-tracker) |
 | [Osprey](https://www.raycast.com/Osprey) | 5 | 543 | **News:** [Polymarket](https://github.com/raycast/extensions/tree/main/extensions/polymarket)<br>**Finance:** [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi), [Base Stats](https://github.com/raycast/extensions/tree/main/extensions/base-stats), [Rollup.wtf](https://github.com/raycast/extensions/tree/main/extensions/rollup-wtf)<br>**Data:** [Aranet CO2 Monitor](https://github.com/raycast/extensions/tree/main/extensions/aranet-co2-monitor) |

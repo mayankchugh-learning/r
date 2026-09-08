@@ -1,8 +1,8 @@
 # Cross-platform · Fun
 
-91 extensions · [← Cross-platform](../README.md)
+92 extensions · [← Cross-platform](../README.md)
 
-[Games & Gaming](#games-gaming) (23) · [AI & Generative Fun](#ai-generative-fun) (3) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (2) · [Jokes & Randomness](#jokes-randomness) (8) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (2) · [Food & Drink](#food-drink) (2) · [General](#general) (33)
+[Games & Gaming](#games-gaming) (23) · [AI & Generative Fun](#ai-generative-fun) (3) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (3) · [Jokes & Randomness](#jokes-randomness) (8) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (2) · [Food & Drink](#food-drink) (2) · [General](#general) (33)
 
 ## Play
 
@@ -107,6 +107,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 95,135 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
 | [Emoji Mashups](https://github.com/raycast/extensions/tree/main/extensions/emoji-kitchen) | 246 | Discover and copy Google Emoji Kitchen mashups fast. Browse unique emoji combinations and use them as fun, expressive images in messages and posts. Copy/paste… | corey_o_neal | macOS, Windows | [store](https://www.raycast.com/corey_o_neal/emoji-kitchen) |
+| [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) | 0 | Search orc reaction GIFs and copy the GIF file to the clipboard for X. | orcdev | macOS, Windows | [store](https://www.raycast.com/orcdev/orc-pictures) |
 
 ### Wallpapers & Effects
 

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `162554d274`
+
+**Added (1):** [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures)
+
 ## 2026-09-08 — upstream `643ed84a8e`
 
 **Updated (1):** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)

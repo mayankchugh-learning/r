@@ -1,8 +1,8 @@
 # Images & Photos
 
-50 extensions · [← Media](./README.md)
+51 extensions · [← Media](./README.md)
 
-[Image ✦](#image) (35) · [Screenshots ✦](#screenshots) (4) · [Icons ✦](#icons) (5) · [General](#general) (6)
+[Image ✦](#image) (35) · [Screenshots ✦](#screenshots) (4) · [Icons ✦](#icons) (5) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -75,3 +75,4 @@
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 562 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) | 151 | Publish the picture in your clipboard to Aliyun oss, and return the URL. | yangxy | macOS | [store](https://www.raycast.com/yangxy/oss) |
 | [Swipe Photo Cleaner](https://github.com/raycast/extensions/tree/main/extensions/swipe-photo-cleaner) | 56 | Clean your photo library with fast swipe decisions | nazarlysyi | macOS | [store](https://www.raycast.com/nazarlysyi/swipe-photo-cleaner) |
+| [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) | 0 | Search orc reaction GIFs and copy the GIF file to the clipboard for X. | orcdev | macOS, Windows | [store](https://www.raycast.com/orcdev/orc-pictures) |
