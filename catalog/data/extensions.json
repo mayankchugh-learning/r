@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9523cb6755bef2edb82f441b3bfc00dec9b54a70",
-  "generatedAt": "2026-09-08T20:37:37.467Z",
-  "downloadsRefreshedAt": "2026-09-08T20:37:36.822Z",
+  "commit": "5df57844c22b8a7fc0c1dcf8d97aa7b9baaa19e1",
+  "generatedAt": "2026-09-08T20:45:55.674Z",
+  "downloadsRefreshedAt": "2026-09-08T20:45:54.992Z",
   "count": 3268,
   "extensions": [
     {
@@ -9979,7 +9979,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 539751
+      "downloads": 539766
     },
     {
       "dir": "color-shades",
@@ -22395,7 +22395,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 519588
+      "downloads": 519601
     },
     {
       "dir": "google-chrome-profiles",
@@ -28759,7 +28759,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 698706
+      "downloads": 698718
     },
     {
       "dir": "kimai",
@@ -58320,7 +58320,7 @@
       "store": "https://www.raycast.com/ikupenov/telegram",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/telegram",
       "treeSha": "feaeaa5a33bedaebf10a861fe495b04719e70d6e",
-      "downloads": 2591
+      "downloads": 2592
     },
     {
       "dir": "teleport",
@@ -64942,7 +64942,7 @@
       "description": "Weather forecast via wttr.in",
       "author": "tonka3000",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Productivity",
         "Other"
@@ -64954,8 +64954,8 @@
       ],
       "store": "https://www.raycast.com/tonka3000/weather",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/weather",
-      "treeSha": "b961e8bd4cfe4fc6ea5c4d4fe4b40ac8ea48c505",
-      "downloads": 41201
+      "treeSha": "a882f8476ebbd753211ce4b10420560f89ae6a77",
+      "downloads": 41255
     },
     {
       "dir": "web-audit",

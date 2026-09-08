@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `5df57844c2`
+
+**Updated (1):** [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather)
+
 ## 2026-09-08 — upstream `9523cb6755`
 
 **Updated (1):** [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram)

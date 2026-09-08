@@ -8,13 +8,13 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,160,642 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,160,657 |
 | 2 | [raycast](./id/raycast.md) | 11 | 821,853 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 698,706 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 519,588 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 698,718 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 519,601 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 455,610 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 450,864 |
-| 7 | [tonka3000](./id/tonka3000.md) | 14 | 421,597 |
+| 7 | [tonka3000](./id/tonka3000.md) | 14 | 421,651 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 362,943 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 309,852 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 301,095 |
@@ -378,7 +378,7 @@
 | 368 | [Selfish](https://www.raycast.com/Selfish) | 1 | 2,650 |
 | 369 | [andrebreia](https://www.raycast.com/andrebreia) | 2 | 2,649 |
 | 370 | [dpnick](https://www.raycast.com/dpnick) | 2 | 2,644 |
-| 371 | [ikupenov](https://www.raycast.com/ikupenov) | 2 | 2,612 |
+| 371 | [ikupenov](https://www.raycast.com/ikupenov) | 2 | 2,613 |
 | 372 | [webdiego](https://www.raycast.com/webdiego) | 1 | 2,610 |
 | 373 | [gbgk](https://www.raycast.com/gbgk) | 1 | 2,601 |
 | 374 | [danyelkeddah](https://www.raycast.com/danyelkeddah) | 5 | 2,599 |

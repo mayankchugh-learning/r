@@ -9,7 +9,7 @@
 | [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 104,063 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 49,723 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
 | [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 43,588 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 41,201 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 41,255 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count) | 37,461 | Count characters, words, sentences, and paragraphs in text. | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/word-count) |
 | [Word Search](https://github.com/raycast/extensions/tree/main/extensions/word-search) | 25,557 | Search for synonyms, antonyms, spellings, rhymes and more | rishabswift | macOS, Windows | [store](https://www.raycast.com/rishabswift/word-search) |
 | [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 16,645 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |

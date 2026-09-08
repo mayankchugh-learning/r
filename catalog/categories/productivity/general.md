@@ -10,7 +10,7 @@
 | [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 53,159 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
 | [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 46,505 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
 | [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 42,499 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
-| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 41,201 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 41,255 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 39,970 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 35,263 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
 | [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 24,321 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |

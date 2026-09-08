@@ -53,7 +53,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 41,201 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 41,255 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 205 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Transit Departures (Catenary for Raycast)](https://github.com/raycast/extensions/tree/main/extensions/catenary-raycast) | 56 | View real-time transit departures for any stop from anywhere using Catenary. | quacksire | macOS, Windows | [store](https://www.raycast.com/quacksire/catenary-raycast) |
 | [Bikeshare Station Status](https://github.com/raycast/extensions/tree/main/extensions/bikeshare-station-status) | 6 | Check bike availability at Lyft bikeshare stations, including Citibike (NYC), Bay Wheels (Bay Area), Capital Bikeshare (DC), Biketown (Portland), and Divvy (Ch… | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/bikeshare-station-status) |
