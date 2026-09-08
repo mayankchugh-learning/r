@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,160,266 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,160,594 |
 | 2 | [raycast](./id/raycast.md) | 11 | 821,783 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 698,327 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 519,323 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 698,658 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 519,553 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 455,610 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 450,864 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 421,597 |
@@ -450,7 +450,7 @@
 | 440 | [yazanzaid00](https://www.raycast.com/yazanzaid00) | 2 | 1,969 |
 | 441 | [LostViking09](https://www.raycast.com/LostViking09) | 1 | 1,968 |
 | 442 | [puneeth](https://www.raycast.com/puneeth) | 1 | 1,966 |
-| 443 | [the3ash](https://www.raycast.com/the3ash) | 2 | 1,959 |
+| 443 | [the3ash](https://www.raycast.com/the3ash) | 2 | 1,961 |
 | 444 | [geekdada](https://www.raycast.com/geekdada) | 2 | 1,952 |
 | 445 | [abhisheksatre](https://www.raycast.com/abhisheksatre) | 1 | 1,949 |
 | 446 | [guide](https://www.raycast.com/guide) | 2 | 1,947 |

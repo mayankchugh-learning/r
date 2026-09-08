@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `ef4b87bddd`
+
+**Updated (1):** [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures)
+
 ## 2026-09-08 — upstream `8f35de7203`
 
 **Updated (1):** [Codex](https://github.com/raycast/extensions/tree/main/extensions/codex)
