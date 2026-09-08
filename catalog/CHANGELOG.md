@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `79ab1cd6bc`
+
+**Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
+
 ## 2026-09-08 — upstream `17dd4b2371`
 
 **Updated (1):** [In the Timezone](https://github.com/raycast/extensions/tree/main/extensions/in-the-time-zone)

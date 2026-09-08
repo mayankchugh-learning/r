@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "17dd4b2371dcd65a5f7a30e4476dde24863769a6",
-  "generatedAt": "2026-09-08T08:40:39.505Z",
-  "downloadsRefreshedAt": "2026-09-08T08:40:38.878Z",
+  "commit": "79ab1cd6bc26bbc4e46cf6f5443a7aa3e70b1b77",
+  "generatedAt": "2026-09-08T09:08:51.440Z",
+  "downloadsRefreshedAt": "2026-09-08T09:08:50.603Z",
   "count": 3266,
   "extensions": [
     {
@@ -6045,7 +6045,7 @@
       "dir": "brew",
       "name": "brew",
       "title": "Brew",
-      "description": "Search and install Homebrew formulae",
+      "description": "Search, install and manage Homebrew formulae and casks",
       "author": "nhojb",
       "owner": null,
       "contributors": 15,
@@ -6053,13 +6053,13 @@
         "Developer Tools",
         "System"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/nhojb/brew",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brew",
-      "treeSha": "a8689f0dbab96cbe3d189f5b2a28df01194ce3d1",
+      "treeSha": "d4304b373d31c8d4c119f5325da86d4e01294e82",
       "downloads": 265021
     },
     {
@@ -9979,7 +9979,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 538105
+      "downloads": 538183
     },
     {
       "dir": "color-shades",
@@ -22395,7 +22395,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 518435
+      "downloads": 518476
     },
     {
       "dir": "google-chrome-profiles",
@@ -28759,7 +28759,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 697041
+      "downloads": 697110
     },
     {
       "dir": "kimai",
