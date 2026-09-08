@@ -21,7 +21,7 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 
 | Section | Categories | Extensions |
 | --- | --- | --- |
-| Work & Productivity | Productivity, Applications, Communication | 1,734 |
+| Work & Productivity | Productivity, Applications, Communication | 1,733 |
 | Development | Developer Tools, AI, Documentation, Data, Security | 1,438 |
 | Creative & Media | Design Tools, Media | 430 |
 | Web, Finance & News | Web, Finance, News | 676 |

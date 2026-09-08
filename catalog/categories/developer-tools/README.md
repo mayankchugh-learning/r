@@ -60,7 +60,8 @@ macOS: 1110 · Windows: 315
 | [Between ✦](./between.md) | 4 |
 | [Sessions ✦](./sessions.md) | 5 |
 | [Ease ✦](./ease.md) | 4 |
+| [Flags ✦](./flags.md) | 4 |
 
-Plus [General](./general.md) — 173 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 169 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

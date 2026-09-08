@@ -2,7 +2,7 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · **General**
 
-126 of 374 extensions · [← macOS · Applications](./README.md)
+125 of 373 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -84,7 +84,6 @@
 | [UptimeRobot](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) | 164 | View Monitors and Account Details | xmok | macOS | [store](https://www.raycast.com/xmok/uptime-robot) |
 | [Update Clash Subscription](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) | 162 | Update clash subscription & insert custom rules | JakeYu | macOS | [store](https://www.raycast.com/JakeYu/update-clash-subscription) |
 | [Gradle Plugins](https://github.com/raycast/extensions/tree/main/extensions/gradle-plugins) | 155 | Search for gradle plugins | alex-w0 | macOS | [store](https://www.raycast.com/alex-w0/gradle-plugins) |
-| [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly) | 146 | A Raycast extension integrating with LaunchDarkly | luarmr | macOS | [store](https://www.raycast.com/luarmr/launchdarkly) |
 | [Leitner Box](https://github.com/raycast/extensions/tree/main/extensions/leitnerbox) | 114 | This is a simple extension that use the concept of a learning process called leitner box | gzyannick | macOS, Windows | [store](https://www.raycast.com/gzyannick/leitnerbox) |
 | [Luma](https://github.com/raycast/extensions/tree/main/extensions/luma) | 114 | Discover Luma event | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/luma) |
 | [Voicenotes](https://github.com/raycast/extensions/tree/main/extensions/voicenotes) | 113 | Search and manage your Voicenotes directly from Raycast. | parzival | macOS | [store](https://www.raycast.com/Parzival/voicenotes) |

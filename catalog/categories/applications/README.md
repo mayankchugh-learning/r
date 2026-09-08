@@ -1,8 +1,8 @@
 # Applications
 
-385 extensions · [← all categories](../README.md)
+384 extensions · [← all categories](../README.md)
 
-macOS: 374 · Windows: 87
+macOS: 373 · Windows: 87
 
 ## Work & Knowledge Apps
 
@@ -49,6 +49,6 @@ macOS: 374 · Windows: 87
 | [API ✦](./api.md) | 4 |
 | [Monitor ✦](./monitor.md) | 4 |
 
-Plus [General](./general.md) — 116 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 115 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

@@ -1,10 +1,10 @@
 # General
 
-173 extensions · [← Developer Tools](./README.md)
+169 extensions · [← Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 697,138 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 697,157 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 166,376 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 100,111 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 62,576 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -101,7 +101,6 @@
 | [Multipass](https://github.com/raycast/extensions/tree/main/extensions/multipass) | 155 | Manage Multipass instances | davibe | macOS | [store](https://www.raycast.com/davibe/multipass) |
 | [Nerd Font Picker](https://github.com/raycast/extensions/tree/main/extensions/nerd-font-picker) | 155 | Browse and copy Nerd Font glyphs from your installed fonts | kud | macOS | [store](https://www.raycast.com/kud/nerd-font-picker) |
 | [Backstage](https://github.com/raycast/extensions/tree/main/extensions/backstage) | 147 | Shortcuts for Backstage | yukukotani | macOS | [store](https://www.raycast.com/yukukotani/backstage) |
-| [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly) | 146 | A Raycast extension integrating with LaunchDarkly | luarmr | macOS | [store](https://www.raycast.com/luarmr/launchdarkly) |
 | [Pastefy](https://github.com/raycast/extensions/tree/main/extensions/pastefy) | 136 | Use Pastefy in Raycast to create, list and delete pastes | interaapps (org) | macOS, Windows | [store](https://www.raycast.com/interaapps/pastefy) |
 | [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 128 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
 | [Spring Initializr](https://github.com/raycast/extensions/tree/main/extensions/spring-initializr) | 125 | Spring Initializr is a tool that simplifies the creation of Spring Boot projects. | danvega | macOS | [store](https://www.raycast.com/danvega/spring-initializr) |
@@ -117,7 +116,6 @@
 | [Braintick](https://github.com/raycast/extensions/tree/main/extensions/braintick) | 96 | Manage your tasks, projects, and time tracking with Braintick - your productivity companion | samarpit_santoki | macOS | [store](https://www.raycast.com/samarpit_santoki/braintick) |
 | [Positron](https://github.com/raycast/extensions/tree/main/extensions/positron) | 95 | Manage Positron projects | rrmaximiliano | macOS | [store](https://www.raycast.com/rrmaximiliano/positron) |
 | [Unkey](https://github.com/raycast/extensions/tree/main/extensions/unkey) | 93 | Create, Verify, Update and Revoke Keys through Unkey | xmok | macOS | [store](https://www.raycast.com/xmok/unkey) |
-| [Amp Dash X](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph-amp-dash-x) | 91 | Organize and execute Amp prompts with execute mode (-x flag) | jdorfman | macOS | [store](https://www.raycast.com/jdorfman/sourcegraph-amp-dash-x) |
 | [Drupal.org](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) | 87 | Get information from drupal.org | hussainweb | macOS | [store](https://www.raycast.com/hussainweb/drupal-org) |
 | [Kimi for Coding](https://github.com/raycast/extensions/tree/main/extensions/kimi-for-coding) | 80 | Retrieve usage information and when the usage resets. | geekdada | macOS, Windows | [store](https://www.raycast.com/geekdada/kimi-for-coding) |
 | [Rails Routes](https://github.com/raycast/extensions/tree/main/extensions/rails-routes) | 79 | Inspect your Rails routes in development mode directly from Raycast | renzo | macOS | [store](https://www.raycast.com/renzo/rails-routes) |
@@ -127,7 +125,6 @@
 | [ONES](https://github.com/raycast/extensions/tree/main/extensions/ones) | 63 | Raycast Extension for ONES | k8scat | macOS | [store](https://www.raycast.com/k8scat/ones) |
 | [SimpleBackups](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) | 63 | View and manage your backups from SimpleBackups.com | islamessam | macOS | [store](https://www.raycast.com/islamessam/simplebackups) |
 | [TourBox](https://github.com/raycast/extensions/tree/main/extensions/tourbox) | 63 | Find Your Desired TourBox Preset | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/tourbox) |
-| [Growthbook](https://github.com/raycast/extensions/tree/main/extensions/growthbook) | 61 | View Growthbook feature flags | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/growthbook) |
 | [CyberPanel](https://github.com/raycast/extensions/tree/main/extensions/cyberpanel) | 60 | Interact with CyberPanel | xmok | macOS | [store](https://www.raycast.com/xmok/cyberpanel) |
 | [PocketBase](https://github.com/raycast/extensions/tree/main/extensions/pocketbase) | 60 | Manage PocketBase | xmok | macOS | [store](https://www.raycast.com/xmok/pocketbase) |
 | [Strapi](https://github.com/raycast/extensions/tree/main/extensions/strapi-raycast-extension) | 60 | Strapi extension for Raycast | douwepausma | macOS | [store](https://www.raycast.com/douwepausma/strapi-raycast-extension) |
@@ -160,7 +157,6 @@
 | [CRT Name](https://github.com/raycast/extensions/tree/main/extensions/crt-name) | 15 | Find subdomains indexed by crt.name and see when each one first appeared | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/crt-name) |
 | [ZeroSSL](https://github.com/raycast/extensions/tree/main/extensions/zerossl) | 15 | Manage ZeroSSL Certificates | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zerossl) |
 | [alwaysdata](https://github.com/raycast/extensions/tree/main/extensions/alwaysdata) | 14 | The European Cloud | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/alwaysdata) |
-| [Bit Parser](https://github.com/raycast/extensions/tree/main/extensions/bit-parser) | 13 | Inspect individual bits in fault codes, status words, and flags | TwoMental | macOS, Windows | [store](https://www.raycast.com/twomental/bit-parser) |
 | [MyIdlers](https://github.com/raycast/extensions/tree/main/extensions/my-idlers) | 13 | View Summary and details of your idlers | xmok | macOS | [store](https://www.raycast.com/xmok/myidlers) |
 | [Mikrus](https://github.com/raycast/extensions/tree/main/extensions/mikrus) | 11 | Integration with mikr.us | tkowalski29 | macOS | [store](https://www.raycast.com/tkowalski29/mikrus) |
 | [Paynow.gg](https://github.com/raycast/extensions/tree/main/extensions/paynow) | 11 | Unofficial PayNow.gg extension | maxijonson | macOS, Windows | [store](https://www.raycast.com/maxijonson/paynow) |

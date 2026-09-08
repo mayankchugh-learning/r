@@ -1,6 +1,6 @@
 # General
 
-116 extensions · [← Applications](./README.md)
+115 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -72,7 +72,6 @@
 | [Textream](https://github.com/raycast/extensions/tree/main/extensions/textream) | 165 | Send text to Textream's teleprompter overlay directly from Raycast by using the selected text or clipboard. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/textream) |
 | [Update Clash Subscription](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) | 162 | Update clash subscription & insert custom rules | JakeYu | macOS | [store](https://www.raycast.com/JakeYu/update-clash-subscription) |
 | [Gradle Plugins](https://github.com/raycast/extensions/tree/main/extensions/gradle-plugins) | 155 | Search for gradle plugins | alex-w0 | macOS | [store](https://www.raycast.com/alex-w0/gradle-plugins) |
-| [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly) | 146 | A Raycast extension integrating with LaunchDarkly | luarmr | macOS | [store](https://www.raycast.com/luarmr/launchdarkly) |
 | [YASB](https://github.com/raycast/extensions/tree/main/extensions/yasb) | 141 | Raycast interface for the yasbc (YASB CLI) application | Deviljin112 | Windows | [store](https://www.raycast.com/Deviljin112/yasb) |
 | [Leitner Box](https://github.com/raycast/extensions/tree/main/extensions/leitnerbox) | 114 | This is a simple extension that use the concept of a learning process called leitner box | gzyannick | macOS, Windows | [store](https://www.raycast.com/gzyannick/leitnerbox) |
 | [Luma](https://github.com/raycast/extensions/tree/main/extensions/luma) | 114 | Discover Luma event | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/luma) |
