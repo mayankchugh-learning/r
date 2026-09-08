@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 13,829 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
-| [Kinopoisk](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) | 447 | Search for movies using kinopoisk.ru | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/kinopoisk) |
+| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 13,853 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
+| [Kinopoisk](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) | 448 | Search for movies using kinopoisk.ru | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/kinopoisk) |
 | [Must](https://github.com/raycast/extensions/tree/main/extensions/must) | 293 | Display your Want to Watch list on Must Movie Tracking app directly on Raycast! | eggsy | macOS | [store](https://www.raycast.com/eggsy/must) |
 | [Anilist Airing Schedule](https://github.com/raycast/extensions/tree/main/extensions/anilist-airing-schedule) | 209 | Get airing schedule of anime from Anilist.co | yeskunall | Windows, macOS | [store](https://www.raycast.com/yeskunall/anilist-airing-schedule) |
 | [Torr Manager](https://github.com/raycast/extensions/tree/main/extensions/torr-manager) | 202 | Allows connect to selfhosted TorrServer, browse available torrents, select and watch movies directly from Raycast. | dannius | macOS | [store](https://www.raycast.com/danniuz/torr-manager) |

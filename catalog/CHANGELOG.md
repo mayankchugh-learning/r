@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-08 — upstream `e678dc83e0`
+
+**Updated (1):** [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd)
+
 ## 2026-09-07 — upstream `7b89e5b09f`
 
 **Added (1):** [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid)
