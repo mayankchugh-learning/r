@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3e513c42f480518ca62fbfe1b2030437ee751d0a",
-  "generatedAt": "2026-09-09T14:04:45.262Z",
+  "commit": "2f1d490584611efb29a22cbe32da5cd835f18a60",
+  "generatedAt": "2026-09-09T14:33:41.198Z",
   "downloadsRefreshedAt": "2026-09-09T14:04:44.160Z",
   "count": 3270,
   "extensions": [
@@ -735,8 +735,8 @@
       ],
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
-      "treeSha": "89ab6e26037d07259d89fc69a27ab92b879972bd",
-      "downloads": 3189
+      "treeSha": "14686bd2a843d4bb38f233d9e6db96a6b3d8c7d8",
+      "downloads": null
     },
     {
       "dir": "agentcfg",

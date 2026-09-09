@@ -69,7 +69,7 @@
 | [thomas](./id/thomas.md) | 15 | 1,163,209 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 37 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 59,117 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
-| [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,181 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
+| [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 992 | **Productivity:** [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode), [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage) |
 | [thuoe](https://www.raycast.com/thuoe) | 1 | 163 | **News:** [Footy Report](https://github.com/raycast/extensions/tree/main/extensions/footy-report) |
 | [tiago_duarte](https://www.raycast.com/tiago_duarte) | 1 | 178 | **Productivity:** [Azure Icons](https://github.com/raycast/extensions/tree/main/extensions/azure-icons) |
 | [tiagomichaelsousa](https://www.raycast.com/tiagomichaelsousa) | 1 | 376 | **Developer Tools:** [Helm Documentation](https://github.com/raycast/extensions/tree/main/extensions/helm-docs) |
