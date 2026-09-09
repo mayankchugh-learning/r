@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `c80fd4b5e4`
+
+**Updated (1):** [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager)
+
 ## 2026-09-08 — upstream `5b20a620d1`
 
 **Updated (1):** [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio)

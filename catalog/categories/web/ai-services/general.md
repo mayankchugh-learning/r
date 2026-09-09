@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | 60,326 | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
-| [Query ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/query-chatgpt) | 1,591 | Opens ChatGPT in your browser and executes your query in it | cyxn | macOS | [store](https://www.raycast.com/cyxn/query-chatgpt) |
-| [Charming ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/charming-chatgpt) | 693 | Make chatGPT x charming x Raycast all together | KittenYang | macOS | [store](https://www.raycast.com/KittenYang/charming-chatgpt) |
-| [SendAI](https://github.com/raycast/extensions/tree/main/extensions/send-ai) | 164 | Your shortcut to everything Solana. At your command bar. | sendai (org) | macOS | [store](https://www.raycast.com/sendai/send-ai) |
-| [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 41 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |
+| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | 60,454 | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
+| [Query ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/query-chatgpt) | 1,594 | Opens ChatGPT in your browser and executes your query in it | cyxn | macOS | [store](https://www.raycast.com/cyxn/query-chatgpt) |
+| [Charming ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/charming-chatgpt) | 694 | Make chatGPT x charming x Raycast all together | KittenYang | macOS | [store](https://www.raycast.com/KittenYang/charming-chatgpt) |
+| [SendAI](https://github.com/raycast/extensions/tree/main/extensions/send-ai) | 166 | Your shortcut to everything Solana. At your command bar. | sendai (org) | macOS | [store](https://www.raycast.com/sendai/send-ai) |
+| [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 42 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |

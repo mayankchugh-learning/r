@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | 5,077 | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
-| [Pick Random](https://github.com/raycast/extensions/tree/main/extensions/pick-random) | 1,117 | Sometimes you need a random character / emojis / number, here is an extension that pick a random something and copy it in the clipboard | MatteoGauthier | macOS | [store](https://www.raycast.com/MatteoGauthier/pick-random-raycast-extension) |
+| [Encoding Tools](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) | 5,086 | A toolbox for encoding, decoding, and hashing data in the clipboard. | eth-p | macOS | [store](https://www.raycast.com/eth-p/encoding-tools) |
+| [Pick Random](https://github.com/raycast/extensions/tree/main/extensions/pick-random) | 1,121 | Sometimes you need a random character / emojis / number, here is an extension that pick a random something and copy it in the clipboard | MatteoGauthier | macOS | [store](https://www.raycast.com/MatteoGauthier/pick-random-raycast-extension) |
 | [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 165 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
 | [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) | 153 | Publish the picture in your clipboard to Aliyun oss, and return the URL. | yangxy | macOS | [store](https://www.raycast.com/yangxy/oss) |
-| [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | 133 | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |
+| [Windows to Linux Path](https://github.com/raycast/extensions/tree/main/extensions/windows-to-linux-path) | 134 | Converts a Windows path into a Linux one and copy it to the clipboard. | Showtc | Windows, macOS | [store](https://www.raycast.com/Showtc/windows-to-linux-path) |
 | [South African Fake ID Number Generator](https://github.com/raycast/extensions/tree/main/extensions/za-fake-id-number-generator) | 34 | Quickly generate South African ID numbers for testing, this will create a valid fake ID number and copy it to your clipboard. | runningdeveloper | macOS, Windows | [store](https://www.raycast.com/runningdeveloper/za-fake-id-number-generator) |
 | [BlurHash](https://github.com/raycast/extensions/tree/main/extensions/blurhash) | 12 | Generate blurhash from clipboard content or Finder | Freaktion | macOS | [store](https://www.raycast.com/freaktion/blurhash) |
 | [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) | 6 | Create zero-knowledge, ephemeral p00f links from Raycast. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/p00f) |
@@ -23,20 +23,20 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,750 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
-| [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,324 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
-| [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,818 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
+| [Easy New File](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) | 12,775 | Quickly create file in the open Finder window. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/easy-new-file) |
+| [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,329 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
+| [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,828 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) | 75 | Open selected Finder file or folder in TextMate | fannarfreyr | macOS | [store](https://www.raycast.com/fannarfreyr/open-in-textmate) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 3,945 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
-| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,564 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
-| [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) | 3,441 | Upload files in a single click | pingdotgg (org) | Windows, macOS | [store](https://www.raycast.com/pingdotgg/uploadthing) |
-| [Disk Utility](https://github.com/raycast/extensions/tree/main/extensions/diskutil) | 1,169 | Create, list and delete Apple File System (APFS) disk volumes | stelo | macOS | [store](https://www.raycast.com/stelo/diskutil) |
-| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 664 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
+| [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 3,952 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
+| [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,568 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
+| [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) | 3,447 | Upload files in a single click | pingdotgg (org) | Windows, macOS | [store](https://www.raycast.com/pingdotgg/uploadthing) |
+| [Disk Utility](https://github.com/raycast/extensions/tree/main/extensions/diskutil) | 1,171 | Create, list and delete Apple File System (APFS) disk volumes | stelo | macOS | [store](https://www.raycast.com/stelo/diskutil) |
+| [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 665 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
 | [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) | 542 | Quick Raycast actions for Windsurf: open files/folders in Windsurf and manage Windsurf projects. | vikas-bansal | macOS | [store](https://www.raycast.com/vikas-bansal/windsurf) |
 | [Asset Catalog Extractor](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) | 217 | Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/asset-catalog-extractor) |
 | [Streamshare Uploader](https://github.com/raycast/extensions/tree/main/extensions/to-streamshare) | 185 | Upload files to streamshare | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/streamshare-uploader) |
