@@ -2,6 +2,12 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `588811631e`
+
+**Added (1):** [Capso](https://github.com/raycast/extensions/tree/main/extensions/capso)
+
+**Updated (1):** [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner)
+
 ## 2026-09-09 — upstream `b69329fc17`
 
 **Updated (1):** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)

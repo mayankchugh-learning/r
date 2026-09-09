@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,166,302 |
-| 2 | [raycast](./id/raycast.md) | 11 | 825,666 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 702,021 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 521,744 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,166,374 |
+| 2 | [raycast](./id/raycast.md) | 11 | 826,138 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 702,085 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 521,788 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 457,046 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 452,341 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 423,266 |
@@ -75,7 +75,7 @@
 | 65 | [eggsy](https://www.raycast.com/eggsy) | 5 | 38,032 |
 | 66 | [sven](https://www.raycast.com/sven) | 4 | 37,781 |
 | 67 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 37,706 |
-| 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 37,479 |
+| 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 37,523 |
 | 69 | [yuercl](https://www.raycast.com/yuercl) | 2 | 36,926 |
 | 70 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 34,176 |
 | 71 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 33,725 |
@@ -240,7 +240,7 @@
 | 230 | [sawyerh](https://www.raycast.com/sawyerh) | 1 | 6,009 |
 | 231 | [riomadeit](https://www.raycast.com/riomadeit) | 1 | 5,991 |
 | 232 | [indykoning](https://www.raycast.com/indykoning) | 1 | 5,876 |
-| 233 | [isma](https://www.raycast.com/isma) | 2 | 5,854 |
+| 233 | [isma](https://www.raycast.com/isma) | 2 | 5,863 |
 | 234 | [ricoberger](https://www.raycast.com/ricoberger) | 3 | 5,735 |
 | 235 | [iwfan](https://www.raycast.com/iwfan) | 2 | 5,734 |
 | 236 | [asportnoy](https://www.raycast.com/asportnoy) | 1 | 5,733 |
@@ -1066,7 +1066,7 @@
 | 1056 | [cirne](https://www.raycast.com/cirne) | 1 | 303 |
 | 1057 | [fgeierst](https://www.raycast.com/fgeierst) | 1 | 299 |
 | 1058 | [mindtheflo](https://www.raycast.com/mindtheflo) | 1 | 297 |
-| 1059 | [rcouto](https://www.raycast.com/rcouto) | 1 | 296 |
+| 1059 | [rcouto](https://www.raycast.com/rcouto) | 2 | 296 |
 | 1060 | [siddharth_rastogi](https://www.raycast.com/siddharth_rastogi) | 1 | 296 |
 | 1061 | [daniloc](https://www.raycast.com/daniloc) | 1 | 295 |
 | 1062 | [lamberttraccard](https://www.raycast.com/lamberttraccard) | 1 | 295 |

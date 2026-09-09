@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b69329fc17ae15f4de6f4ab05d1264294a6a8c08",
-  "generatedAt": "2026-09-09T20:47:43.736Z",
-  "downloadsRefreshedAt": "2026-09-09T20:47:43.356Z",
-  "count": 3270,
+  "commit": "588811631e09f895f1194ca1f9ef243b592b51a1",
+  "generatedAt": "2026-09-09T21:03:54.005Z",
+  "downloadsRefreshedAt": "2026-09-09T21:03:52.629Z",
+  "count": 3271,
   "extensions": [
     {
       "dir": "0x0",
@@ -6879,6 +6879,26 @@
       "downloads": 4
     },
     {
+      "dir": "capso",
+      "name": "capso",
+      "title": "Capso",
+      "description": "Trigger Capso captures, OCR, recordings, and history directly from Raycast.",
+      "author": "rcouto",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/rcouto/capso",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/capso",
+      "treeSha": "41f678d6cda1264a108633e4db29384c9cf1cfe7",
+      "downloads": 0
+    },
+    {
       "dir": "capture",
       "name": "capture",
       "title": "Capture",
@@ -8909,7 +8929,7 @@
       "store": "https://www.raycast.com/isma/clockify",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/clockify",
       "treeSha": "35731840241939fea604d2c9e62e8dab2ff90a36",
-      "downloads": 4322
+      "downloads": 4331
     },
     {
       "dir": "clockodo",
@@ -9979,7 +9999,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 543058
+      "downloads": 543130
     },
     {
       "dir": "color-shades",
@@ -16171,7 +16191,7 @@
       "store": "https://www.raycast.com/isfeng/easydict",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easydict",
       "treeSha": "41e82231f92be7bf3d45695f24757c6e015c1fbd",
-      "downloads": 36591
+      "downloads": 36635
     },
     {
       "dir": "easyvariable",
@@ -21498,7 +21518,7 @@
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
       "treeSha": "d13a63c209a3351cf6e7ac73d868d85ea479a150",
-      "downloads": 190268
+      "downloads": 190740
     },
     {
       "dir": "github-cli-manual",
@@ -22416,7 +22436,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 521744
+      "downloads": 521788
     },
     {
       "dir": "google-chrome-profiles",
@@ -28780,7 +28800,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 702021
+      "downloads": 702085
     },
     {
       "dir": "kimai",
@@ -44450,7 +44470,7 @@
       "description": "Quickly open PowerToys tools",
       "author": "LostViking09",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Applications",
         "Developer Tools",
@@ -44462,7 +44482,7 @@
       ],
       "store": "https://www.raycast.com/LostViking09/powertoys-tool-runner",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner",
-      "treeSha": "8d7dbc192be0289599971855045aef134ebca233",
+      "treeSha": "07ee5aa988e23711db819b0504ac617a2066b261",
       "downloads": 1975
     },
     {

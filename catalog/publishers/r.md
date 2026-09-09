@@ -29,13 +29,13 @@
 | [rauno](https://www.raycast.com/rauno) | 1 | 1,786 | **Applications:** [(Basic) Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/bmrks) |
 | [ravi_s](https://www.raycast.com/ravi_s) | 1 | 11 | **Data:** [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) |
 | [ray_tan](https://www.raycast.com/ray_tan) | 1 | 33 | **Developer Tools:** [Auth0 Management](https://github.com/raycast/extensions/tree/main/extensions/auth0-management) |
-| [raycast](./id/raycast.md) | 11 | 825,666 | [see all 11 →](./id/raycast.md) |
+| [raycast](./id/raycast.md) | 11 | 826,138 | [see all 11 →](./id/raycast.md) |
 | [raycast_0ukl](https://www.raycast.com/raycast_0ukl) | 1 | 5 | **Developer Tools:** [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) |
 | [Raynold](https://www.raycast.com/Raynold) | 1 | 9 | **Productivity:** [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) |
 | [raz_gaon](https://www.raycast.com/raz_gaon) | 1 | 1,094 | **Productivity:** [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) |
 | [razz13](https://www.raycast.com/razz13) | 1 | 16 | **Productivity:** [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) |
 | [rclone](https://www.raycast.com/rclone) | 1 | 182 | **Data:** [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) |
-| [rcouto](https://www.raycast.com/rcouto) | 1 | 296 | **System:** [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer) |
+| [rcouto](https://www.raycast.com/rcouto) | 2 | 296 | **System:** [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer)<br>**Applications:** [Capso](https://github.com/raycast/extensions/tree/main/extensions/capso) |
 | [reboot](https://www.raycast.com/reboot) | 1 | 11,321 | **Developer Tools:** [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) |
 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 31,598 | **Productivity:** [Notion Page Search](https://github.com/raycast/extensions/tree/main/extensions/search-notion), [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)<br>**Web:** [Search Stack Exchange Sites](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow)<br>**Developer Tools:** [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) |
 | [reclaim-ai](https://www.raycast.com/reclaim-ai) | 1 | 13,476 | **Productivity:** [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) |
@@ -90,7 +90,7 @@
 | [roelvan](https://www.raycast.com/roelvan) | 1 | 765 | **Developer Tools:** [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 888 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 674 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 702,021 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 702,085 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 18 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 603 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 4 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |

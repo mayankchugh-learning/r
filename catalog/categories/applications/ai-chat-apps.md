@@ -1,8 +1,8 @@
 # AI & Chat Apps
 
-21 extensions · [← Applications](./README.md)
+22 extensions · [← Applications](./README.md)
 
-[AI ✦](#ai) (16) · [OCR ✦](#ocr) (4) · [General](#general) (1)
+[AI ✦](#ai) (16) · [OCR ✦](#ocr) (5) · [General](#general) (1)
 
 *✦ auto-discovered topic group*
 
@@ -35,6 +35,7 @@
 | [SnapOCR Via Paddle](https://github.com/raycast/extensions/tree/main/extensions/snapocr-via-paddle) | 62 | Layout-aware multilingual OCR for complex documents, tables, and formulas with structured Markdown export via Baidu PaddleOCR | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/snapocr-via-paddle) |
 | [Oh-Shoot](https://github.com/raycast/extensions/tree/main/extensions/oh-shoot) | 8 | Search your oh-shoot screenshots by their OCR text and jump straight back into the oh-shoot app. | nico_pergande | macOS | [store](https://www.raycast.com/nico_pergande/oh-shoot) |
 | [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | 4 | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | [store](https://www.raycast.com/Holiney/sowiks) |
+| [Capso](https://github.com/raycast/extensions/tree/main/extensions/capso) | 0 | Trigger Capso captures, OCR, recordings, and history directly from Raycast. | rcouto | macOS | [store](https://www.raycast.com/rcouto/capso) |
 
 ## General
 
