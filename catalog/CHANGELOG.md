@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `17a6a8af5b`
+
+**Updated (1):** [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox)
+
 ## 2026-09-09 — upstream `588811631e`
 
 **Added (1):** [Capso](https://github.com/raycast/extensions/tree/main/extensions/capso)
