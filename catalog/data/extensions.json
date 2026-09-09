@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f7df81cd69b4a0247ad16ab45ae21a276681f4fe",
-  "generatedAt": "2026-09-09T12:06:01.167Z",
-  "downloadsRefreshedAt": "2026-09-09T12:06:00.522Z",
+  "commit": "f00388d5e935133b7ec0099000210963a5923010",
+  "generatedAt": "2026-09-09T12:30:55.002Z",
+  "downloadsRefreshedAt": "2026-09-09T12:30:54.194Z",
   "count": 3269,
   "extensions": [
     {
@@ -9979,7 +9979,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 540956
+      "downloads": 541028
     },
     {
       "dir": "color-shades",
@@ -12766,18 +12766,18 @@
       "description": "Add entries to Day One",
       "author": "AntonNiklasson",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Productivity"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/AntonNiklasson/day-one",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/day-one",
-      "treeSha": "3c48042e315c89a774745dddc4a34a6a58fe2e10",
-      "downloads": 1240
+      "treeSha": "3018bb9d092a51df4b86b46c4bdf34d56b5680a4",
+      "downloads": 1242
     },
     {
       "dir": "days-until-christmas",
@@ -22416,7 +22416,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 520486
+      "downloads": 520521
     },
     {
       "dir": "google-chrome-profiles",
@@ -28780,7 +28780,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 699965
+      "downloads": 700030
     },
     {
       "dir": "kimai",

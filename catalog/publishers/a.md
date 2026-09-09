@@ -134,7 +134,7 @@
 | [anton_shvein](https://www.raycast.com/anton_shvein) | 1 | 19 | **Communication:** [Publora](https://github.com/raycast/extensions/tree/main/extensions/publora) |
 | [anton-suprun](https://www.raycast.com/anton-suprun) | 1 | 6,232 | **Productivity:** [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) |
 | [antonengelhardt](https://www.raycast.com/antonengelhardt) | 1 | 124 | **Developer Tools:** [Strftime Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/strftime-cheatsheet) |
-| [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 105,979 | **Data:** [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum)<br>**Applications:** [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos)<br>**Productivity:** [Day One](https://github.com/raycast/extensions/tree/main/extensions/day-one) |
+| [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 105,981 | **Data:** [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum)<br>**Applications:** [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos)<br>**Productivity:** [Day One](https://github.com/raycast/extensions/tree/main/extensions/day-one) |
 | [antonreshetov](https://www.raycast.com/antonreshetov) | 1 | 175 | **Productivity:** [massCode](https://github.com/raycast/extensions/tree/main/extensions/masscode) |
 | [Antonwy](https://www.raycast.com/Antonwy) | 1 | 739 | **News:** [New York Times](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) |
 | [anu](https://www.raycast.com/anu) | 1 | 1,108 | **Design Tools:** [Tints and Shades](https://github.com/raycast/extensions/tree/main/extensions/tints-and-shades) |

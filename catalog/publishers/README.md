@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,162,822 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,162,894 |
 | 2 | [raycast](./id/raycast.md) | 11 | 823,497 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 699,965 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 520,486 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 700,030 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 520,521 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 456,207 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 451,522 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 422,370 |
@@ -35,7 +35,7 @@
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 111,255 |
 | 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 109,202 |
 | 27 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 106,643 |
-| 28 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 105,979 |
+| 28 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 105,981 |
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 104,274 |
 | 30 | [erics118](https://www.raycast.com/erics118) | 3 | 97,815 |
 | 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 97,453 |
