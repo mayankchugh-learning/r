@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `1b57711aff`
+
+**Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)
+
 ## 2026-09-09 — upstream `326b93791c`
 
 **Updated (1):** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)
