@@ -8,7 +8,7 @@ macOS: 152 · Windows: 54
 
 | Topic | Extensions |
 | --- | --- |
-| [Messaging & Chat](./messaging-chat.md) | 28 |
+| [Messaging & Chat](./messaging-chat.md) | 29 |
 | [Video Calls & Meetings](./video-calls-meetings.md) | 15 |
 | [Email](./email.md) | 24 |
 
@@ -16,7 +16,7 @@ macOS: 152 · Windows: 54
 
 | Topic | Extensions |
 | --- | --- |
-| [Social & Fediverse](./social-fediverse.md) | 11 |
+| [Social & Fediverse](./social-fediverse.md) | 10 |
 | [Links & Sharing](./links-sharing.md) | 6 |
 | [Notifications & Push](./notifications-push.md) | 3 |
 

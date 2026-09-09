@@ -1,8 +1,8 @@
 # Windows · Media
 
-89 extensions · [← Windows](../README.md)
+88 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (14) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (17) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (33)
+[Music & Audio](#music-audio) (14) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (17) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (32)
 
 ## Listen & Watch
 
@@ -107,7 +107,6 @@
 | --- | --- | --- | --- | --- | --- |
 | [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 14,175 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 11,476 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,283 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Readwise Reader](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) | 8,187 | Interact with Readwise Reader | zach | macOS, Windows | [store](https://www.raycast.com/zach/readwise-reader) |
 | [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,843 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 1,984 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |

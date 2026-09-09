@@ -1,8 +1,8 @@
 # Cross-platform · News
 
-31 extensions · [← Cross-platform](../README.md)
+30 extensions · [← Cross-platform](../README.md)
 
-[Tech & Startup News](#tech-startup-news) (3) · [Feeds & Readers](#feeds-readers) (7) · [Sports & Esports News](#sports-esports-news) (6) · [Communities & Forums](#communities-forums) (2) · [Markets & Predictions](#markets-predictions) (1) · [World & Business](#world-business) (4) · [General](#general) (8)
+[Tech & Startup News](#tech-startup-news) (3) · [Feeds & Readers](#feeds-readers) (7) · [Sports & Esports News](#sports-esports-news) (6) · [Communities & Forums](#communities-forums) (2) · [Markets & Predictions](#markets-predictions) (1) · [World & Business](#world-business) (4) · [General](#general) (7)
 
 ## Topics
 
@@ -66,7 +66,6 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 43,659 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,283 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,878 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Adhan Time](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) | 1,094 | This extension helps you to search prayer time for the user location | mzaien | macOS, Windows | [store](https://www.raycast.com/mzaien/adhan-time) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 664 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |

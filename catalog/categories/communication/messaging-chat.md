@@ -1,8 +1,8 @@
 # Messaging & Chat
 
-28 extensions · [← Communication](./README.md)
+29 extensions · [← Communication](./README.md)
 
-[Chats ✦](#chats) (12) · [Messages ✦](#messages) (5) · [Slack ✦](#slack) (4) · [General](#general) (7)
+[Chats ✦](#chats) (12) · [Messages ✦](#messages) (6) · [Slack ✦](#slack) (4) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -27,6 +27,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [X.com](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,285 | Browse, search, publish posts, and send direct messages on X | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,193 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
 | [Slack Summarizer](https://github.com/raycast/extensions/tree/main/extensions/slack-summarizer) | 255 | Summarize Slack channels, threads and messages using OpenAI | hassan_ahmed | macOS | [store](https://www.raycast.com/hassan_ahmed/slack-summarizer) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | 201 | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |

@@ -1,8 +1,8 @@
 # macOS · News
 
-96 extensions · [← macOS](../README.md)
+95 extensions · [← macOS](../README.md)
 
-[Tech & Startup News](#tech-startup-news) (10) · [Feeds & Readers](#feeds-readers) (16) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (4) · [World & Business](#world-business) (21) · [General](#general) (29)
+[Tech & Startup News](#tech-startup-news) (10) · [Feeds & Readers](#feeds-readers) (16) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (4) · [World & Business](#world-business) (21) · [General](#general) (28)
 
 ## Topics
 
@@ -110,7 +110,6 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 43,659 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,283 | Send and search Tweets | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 | [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,401 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,878 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Podcasts Now](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) | 1,248 | Manage, explore, and listen to podcasts all in one place through Raycast. | cloudy9101 | macOS | [store](https://www.raycast.com/cloudy9101/podcasts-now) |
