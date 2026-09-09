@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `ea3f5259da`
+
+**Updated (1):** [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest)
+
 ## 2026-09-09 — upstream `5f9618defc`
 
 **Updated (1):** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama)
