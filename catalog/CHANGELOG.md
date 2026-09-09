@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `d2dc99151c`
+
+**Updated (1):** [Font Search](https://github.com/raycast/extensions/tree/main/extensions/font-search)
+
 ## 2026-09-09 — upstream `460351b268`
 
 **Updated (1):** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)

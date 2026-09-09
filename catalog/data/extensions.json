@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "460351b268964fb843571d722a518ff5b67df180",
-  "generatedAt": "2026-09-09T10:33:52.580Z",
-  "downloadsRefreshedAt": "2026-09-09T10:33:52.187Z",
+  "commit": "d2dc99151c1c36dc284352fc831ed7bda1c1685b",
+  "generatedAt": "2026-09-09T10:36:22.495Z",
+  "downloadsRefreshedAt": "2026-09-09T10:36:22.097Z",
   "count": 3268,
   "extensions": [
     {
@@ -9979,7 +9979,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 540817
+      "downloads": 540818
     },
     {
       "dir": "color-shades",
@@ -19664,7 +19664,7 @@
       "description": "Search locally installed fonts, as displayed in font book.",
       "author": "tnixc",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Design Tools",
         "Developer Tools"
@@ -19675,7 +19675,7 @@
       ],
       "store": "https://www.raycast.com/tnixc/font-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/font-search",
-      "treeSha": "035ed02939da61887244af884b89c30b6e4300ef",
+      "treeSha": "ab2d9b967db395f354563e2b2e914bab8103fa86",
       "downloads": 1988
     },
     {
