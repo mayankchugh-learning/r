@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 111,255 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
-| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 77,062 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
+| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 77,065 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 67,055 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 55,150 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 48,158 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |

@@ -1,12 +1,12 @@
 # thomas
 
-15 extensions · 1,162,132 downloads · [store](https://www.raycast.com/thomas) · [← publishers](../README.md)
+15 extensions · 1,162,169 downloads · [store](https://www.raycast.com/thomas) · [← publishers](../README.md)
 
 ## Design Tools (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 540,269 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 540,303 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 
 ## Developer Tools (4)
 
@@ -21,7 +21,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 77,062 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
+| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 77,065 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 63,294 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
 | [Year in Progress](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) | 10,697 | Stay motivated by see the progress of the year. | thomas | macOS | [store](https://www.raycast.com/thomas/year-in-progress) |
 | [Elgato Key Light](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) | 3,136 | Control your Elgato Key Lights with ease | thomas | macOS | [store](https://www.raycast.com/thomas/elgato-key-light) |

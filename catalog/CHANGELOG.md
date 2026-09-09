@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `5f9618defc`
+
+**Updated (1):** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama)
+
 ## 2026-09-09 — upstream `119c32acd1`
 
 **Updated (1):** [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs)

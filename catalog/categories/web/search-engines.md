@@ -33,7 +33,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 232,460 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
-| [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) | 8,970 | Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/browser-tabs) |
+| [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) | 8,972 | Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/browser-tabs) |
 | [Qutebrowser Tabs](https://github.com/raycast/extensions/tree/main/extensions/qutebrowser-tabs) | 79 | Search and manage qutebrowser tabs | alon.hearter | macOS | [store](https://www.raycast.com/alon.hearter/qutebrowser-tabs) |
 | [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi) | 16 | Search and control live Phi Spaces and tabs. | phibrowser | macOS | [store](https://www.raycast.com/phibrowser/phi) |
 
