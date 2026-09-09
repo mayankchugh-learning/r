@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 156,302 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,921 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,618 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,162,189 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,162,578 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 310,339 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,183 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 422,370 |
@@ -42,7 +42,7 @@
 | 32 | [samuelkraft](https://www.raycast.com/samuelkraft) | 7 | 2,707 |
 | 33 | [khlebobul](https://www.raycast.com/khlebobul) | 7 | 1,947 |
 | 34 | [lemikeone](https://www.raycast.com/lemikeone) | 7 | 969 |
-| 35 | [loris](https://www.raycast.com/loris) | 6 | 128,539 |
+| 35 | [loris](https://www.raycast.com/loris) | 6 | 128,547 |
 | 36 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 94,102 |
 | 37 | [huzef44](https://www.raycast.com/huzef44) | 6 | 76,197 |
 | 38 | [1weiho](https://www.raycast.com/1weiho) | 6 | 41,798 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 11 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 8 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 699,305 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 520,020 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 699,727 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 520,337 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 363,576 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 301,719 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 266,041 |
