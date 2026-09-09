@@ -1,21 +1,21 @@
 # j3lte
 
-13 extensions · 10,333 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
+13 extensions · 10,356 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
 
 ## Media (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,632 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,643 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 353 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 
 ## Developer Tools (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,301 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
-| [CSS Tricks](https://github.com/raycast/extensions/tree/main/extensions/css-tricks) | 880 | Search on CSS Tricks | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/css-tricks) |
-| [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 860 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
+| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,307 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
+| [CSS Tricks](https://github.com/raycast/extensions/tree/main/extensions/css-tricks) | 884 | Search on CSS Tricks | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/css-tricks) |
+| [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 862 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 248 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [Deno Deploy](https://github.com/raycast/extensions/tree/main/extensions/deno-deploy) | 132 | View and modify your Deno Deploy projects | j3lte | macOS | [store](https://www.raycast.com/j3lte/deno-deploy) |
 | [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 95 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |

@@ -10,35 +10,35 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 22,164 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
-| [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,426 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 22,213 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,441 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
 | [Órbita](https://github.com/raycast/extensions/tree/main/extensions/orbita) | 16 | Follow the posts in the Órbita, the Brazilian hacker news | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/orbita) |
 
 ### Sports & Esports News
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,635 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
-| [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,529 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
-| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,437 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
+| [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,640 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
+| [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,532 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
+| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,439 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 336 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
-| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 316 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
+| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 318 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 166 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
 
 ### World & Business
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 562 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
+| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 563 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [Music News](https://github.com/raycast/extensions/tree/main/extensions/music-news) | 28 | Read the latest music news from various sources. | acler | macOS, Windows | [store](https://www.raycast.com/acler/music-news) |
 | [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) | 27 | Latest important cyber security news, ranked by severity. | goran_breivik | macOS, Windows | [store](https://www.raycast.com/goran_breivik/cyber-security-pulse) |
-| [Público](https://github.com/raycast/extensions/tree/main/extensions/publico) | 14 | Browse, search, and read the latest news from Público directly from your command bar. | caasols | macOS, Windows | [store](https://www.raycast.com/caasols/publico) |
+| [Público](https://github.com/raycast/extensions/tree/main/extensions/publico) | 15 | Browse, search, and read the latest news from Público directly from your command bar. | caasols | macOS, Windows | [store](https://www.raycast.com/caasols/publico) |
 
 ### Markets & Predictions
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | 142 | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
+| [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | 143 | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
 
 ## Read & Discuss
 
@@ -46,10 +46,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 793 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
-| [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) | 602 | Read and explore Kagi News articles and sources seamlessly in Raycast | mickaphd | macOS, Windows | [store](https://www.raycast.com/mickaphd/kagi-news) |
-| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 451 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 300 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 795 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
+| [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) | 603 | Read and explore Kagi News articles and sources seamlessly in Raycast | mickaphd | macOS, Windows | [store](https://www.raycast.com/mickaphd/kagi-news) |
+| [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 452 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 301 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 | [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 133 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 111 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | 45 | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
@@ -58,15 +58,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 22,770 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
+| [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 22,808 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
 | [Raycafé](https://github.com/raycast/extensions/tree/main/extensions/raycafe) | 67 | Browse upcoming Raycast Community meetups and open event pages. | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/raycafe) |
 
 ### General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 43,659 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
-| [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,878 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
+| [Wikipedia](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) | 43,736 | Search Wikipedia from Raycast | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/wikipedia) |
+| [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,880 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Adhan Time](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) | 1,094 | This extension helps you to search prayer time for the user location | mzaien | macOS, Windows | [store](https://www.raycast.com/mzaien/adhan-time) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 664 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations) | 153 | Peace, dignity and equality on a healthy planet. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/united-nations) |
