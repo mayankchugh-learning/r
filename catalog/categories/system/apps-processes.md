@@ -1,8 +1,8 @@
 # Apps & Processes
 
-41 extensions · [← System](./README.md)
+42 extensions · [← System](./README.md)
 
-[Processes ✦](#processes) (6) · [Window ✦](#window) (5) · [General](#general) (30)
+[Processes ✦](#processes) (6) · [Window ✦](#window) (5) · [General](#general) (31)
 
 *✦ auto-discovered topic group*
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 700,030 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 700,328 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,828 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,344 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Kill MCP Servers](https://github.com/raycast/extensions/tree/main/extensions/kill-mcp) | 266 | View and manage MCP (Model Context Protocol) servers running on your Mac. See RAM usage and kill processes. | baptiste-jn | macOS | [store](https://www.raycast.com/baptiste-jn/kill-mcp) |
@@ -61,3 +61,4 @@
 | [BCUninstaller](https://github.com/raycast/extensions/tree/main/extensions/bcuninstaller) | 23 | List installed software and batch uninstall it through BC Uninstaller from Raycast | sansaxena789 | Windows | [store](https://www.raycast.com/sansaxena789/bcuninstaller) |
 | [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) | 8 | Review AI-tool storage, clean disk space, release memory, uninstall apps, redact files, and undo through Mint | dzg-studio | macOS | [store](https://www.raycast.com/dzg-studio/mint-mac-care) |
 | [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) | 5 | Manage Hotel apps | yicone | macOS | [store](https://www.raycast.com/yicone/hotel-manager) |
+| [Storage Benchmark](https://github.com/raycast/extensions/tree/main/extensions/storage-benchmark) | — | Benchmark sequential read and write performance for local storage | ricoloic | macOS | — |

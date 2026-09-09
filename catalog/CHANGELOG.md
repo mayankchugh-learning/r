@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `3e513c42f4`
+
+**Added (1):** [Storage Benchmark](https://github.com/raycast/extensions/tree/main/extensions/storage-benchmark)
+
 ## 2026-09-09 — upstream `f00388d5e9`
 
 **Updated (1):** [Day One](https://github.com/raycast/extensions/tree/main/extensions/day-one)

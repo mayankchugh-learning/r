@@ -1,12 +1,12 @@
 # macOS · System
 
-255 extensions · [← macOS](../README.md)
+256 extensions · [← macOS](../README.md)
 
 ## Apps & Windows
 
 | Topic | Extensions |
 | --- | --- |
-| [Apps & Processes](./apps-processes.md) | 37 |
+| [Apps & Processes](./apps-processes.md) | 38 |
 | [Window & Desktop Management](./window-desktop-management.md) | 29 |
 
 ## Hardware & Output

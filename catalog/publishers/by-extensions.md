@@ -1,6 +1,6 @@
 # Publishers
 
-2184 publishers · [← catalog index](../README.md)
+2185 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 156,302 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 6,921 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,618 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,162,894 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,163,209 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 310,339 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,183 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 422,370 |
@@ -165,7 +165,7 @@
 | 155 | [Whitespace](https://www.raycast.com/Whitespace) | 3 | 162 |
 | 156 | [skroll](https://www.raycast.com/skroll) | 3 | 141 |
 | 157 | [miguel_caetano_dias](https://www.raycast.com/miguel_caetano_dias) | 3 | 102 |
-| 158 | [fhf1121](https://www.raycast.com/fhf1121) | 3 | 55 |
+| 158 | [fhf1121](https://www.raycast.com/fhf1121) | 3 | 54 |
 | 159 | [glct26](https://www.raycast.com/glct26) | 3 | 49 |
 | 160 | [wdeu](https://www.raycast.com/wdeu) | 3 | 31 |
 | 161 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 245,744 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 11 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 8 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 700,030 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 520,521 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 700,328 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 520,710 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 363,576 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 301,719 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 266,041 |
@@ -2192,3 +2192,4 @@
 | 2182 | [smry](https://www.raycast.com/smry) | 1 | 0 |
 | 2183 | [visigrid](https://www.raycast.com/visigrid) | 1 | 0 |
 | 2184 | multi | 1 | — |
+| 2185 | ricoloic | 1 | — |
