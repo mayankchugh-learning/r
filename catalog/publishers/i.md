@@ -28,7 +28,7 @@
 | [ihildy](https://www.raycast.com/iHildy) | 1 | 198 | **Developer Tools:** [Jules Agents](https://github.com/raycast/extensions/tree/main/extensions/jules-agents) |
 | [iisweetheartii](https://www.raycast.com/iisweetheartii) | 1 | 102 | **Developer Tools:** [Terminal Image Paste](https://github.com/raycast/extensions/tree/main/extensions/terminal-image-paste) |
 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 68,594 | **Productivity:** [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) |
-| [ikupenov](https://www.raycast.com/ikupenov) | 2 | 2,620 | **Communication:** [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram)<br>**Developer Tools:** [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) |
+| [ikupenov](https://www.raycast.com/ikupenov) | 2 | 2,627 | **Communication:** [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram)<br>**Developer Tools:** [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) |
 | [ilian](https://www.raycast.com/ilian) | 3 | 16,495 | **Productivity:** [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api), [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq)<br>**Finance:** [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) |
 | [iloveitaly](https://www.raycast.com/iloveitaly) | 1 | 266 | **Productivity:** [Hyper Focus](https://github.com/raycast/extensions/tree/main/extensions/hyper-focus) |
 | [iman_neo](https://www.raycast.com/iman_neo) | 1 | 253 | **Media:** [YouTube Subscriber Count](https://github.com/raycast/extensions/tree/main/extensions/youtube-subscriber-count) |
@@ -53,7 +53,7 @@
 | [isfeng](https://www.raycast.com/isfeng) | 3 | 37,397 | **Applications:** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)<br>**Developer Tools:** [CodeBlocks](https://github.com/raycast/extensions/tree/main/extensions/CodeBlocks), [Modify Hash](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) |
 | [islamessam](https://www.raycast.com/islamessam) | 1 | 63 | **Developer Tools:** [SimpleBackups](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) |
 | [islamtayeb](https://www.raycast.com/islamtayeb) | 1 | 1,699 | **Applications:** [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) |
-| [isma](https://www.raycast.com/isma) | 2 | 5,838 | **Uncategorized:** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)<br>**News:** [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) |
+| [isma](https://www.raycast.com/isma) | 2 | 5,839 | **Uncategorized:** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)<br>**News:** [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) |
 | [ismi](https://www.raycast.com/ismi) | 1 | 256 | **Developer Tools:** [PulseMCP](https://github.com/raycast/extensions/tree/main/extensions/pulsemcp) |
 | [isra](https://www.raycast.com/isra) | 1 | 23 | **Web:** [Defly.io](https://github.com/raycast/extensions/tree/main/extensions/defly-io) |
 | [itggood2420](https://www.raycast.com/itggood2420) | 2 | 32 | **Developer Tools:** [OpenSearch DevTools](https://github.com/raycast/extensions/tree/main/extensions/opensearch), [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) |
