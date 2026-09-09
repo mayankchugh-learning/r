@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,162,581 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,162,658 |
 | 2 | [raycast](./id/raycast.md) | 11 | 823,497 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 699,729 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 520,338 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 699,811 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 520,384 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 456,207 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 451,522 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 422,370 |
@@ -856,7 +856,7 @@
 | 846 | [matheus_de_paula_domingos](https://www.raycast.com/matheus_de_paula_domingos) | 1 | 578 |
 | 847 | [yosy2010](https://www.raycast.com/yosy2010) | 1 | 576 |
 | 848 | [chesterhow](https://www.raycast.com/chesterhow) | 2 | 575 |
-| 849 | [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 573 |
+| 849 | [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 574 |
 | 850 | [shail_antani](https://www.raycast.com/shail_antani) | 3 | 571 |
 | 851 | [alice.ellis](https://www.raycast.com/alice.ellis) | 1 | 570 |
 | 852 | [izm51](https://www.raycast.com/izm51) | 1 | 570 |

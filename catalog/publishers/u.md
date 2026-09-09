@@ -14,7 +14,7 @@
 | [udus](https://www.raycast.com/udus) | 1 | 80 | **Media:** [Gyazo Uploader](https://github.com/raycast/extensions/tree/main/extensions/gyazo-uploader) |
 | [uetchy](https://www.raycast.com/uetchy) | 3 | 1,600 | **Uncategorized:** [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud)<br>**Web:** [Holodex](https://github.com/raycast/extensions/tree/main/extensions/holodex)<br>**Applications:** [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) |
 | [uixmat](https://www.raycast.com/uixmat) | 1 | 14 | **Web:** [Bklit Analytics](https://github.com/raycast/extensions/tree/main/extensions/bklit-analytics) |
-| [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 573 | **Productivity:** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) |
+| [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 574 | **Productivity:** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) |
 | [uladkaminski](https://www.raycast.com/uladkaminski) | 1 | 52 | **Finance:** [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) |
 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 2 | **Finance:** [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) |
 | [umit_gul](https://www.raycast.com/umit_gul) | 1 | 404 | **Productivity:** [Kommand](https://github.com/raycast/extensions/tree/main/extensions/kommand) |
