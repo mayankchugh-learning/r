@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `f7df81cd69`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-09-09 — upstream `a6da09213f`
 
 **Added (1):** [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder)

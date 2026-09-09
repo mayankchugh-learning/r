@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,162,780 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,162,822 |
 | 2 | [raycast](./id/raycast.md) | 11 | 823,497 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 699,929 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 520,460 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 699,965 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 520,486 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 456,207 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 451,522 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 422,370 |
@@ -282,7 +282,7 @@
 | 272 | [danielbahl](https://www.raycast.com/danielbahl) | 1 | 4,248 |
 | 273 | [johndoe123789](https://www.raycast.com/johndoe123789) | 1 | 4,237 |
 | 274 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,219 |
-| 275 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,178 |
+| 275 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,181 |
 | 276 | [svenhofman](https://www.raycast.com/svenhofman) | 1 | 4,165 |
 | 277 | [sebdanielsson](https://www.raycast.com/sebdanielsson) | 3 | 4,164 |
 | 278 | [kmusick](https://www.raycast.com/kmusick) | 1 | 4,150 |
@@ -1669,14 +1669,14 @@
 | 1659 | [SteveEdson](https://www.raycast.com/SteveEdson) | 1 | 56 |
 | 1660 | [Treblle](https://www.raycast.com/Treblle) | 1 | 56 |
 | 1661 | [unitech](https://www.raycast.com/ordin) | 1 | 56 |
-| 1662 | [agus](https://www.raycast.com/agus) | 1 | 55 |
-| 1663 | [freepicheep](https://www.raycast.com/freepicheep) | 1 | 55 |
-| 1664 | [gaurav_tiwari](https://www.raycast.com/gaurav_tiwari) | 1 | 55 |
-| 1665 | [Logan-8f](https://www.raycast.com/Logan-8f) | 1 | 55 |
-| 1666 | [piotrzaborow](https://www.raycast.com/piotrzaborow) | 1 | 55 |
-| 1667 | [robinradx](https://www.raycast.com/robinradx) | 1 | 55 |
-| 1668 | [saketh_chandra](https://www.raycast.com/saketh_chandra) | 1 | 55 |
-| 1669 | [fhf1121](https://www.raycast.com/fhf1121) | 3 | 54 |
+| 1662 | [fhf1121](https://www.raycast.com/fhf1121) | 3 | 55 |
+| 1663 | [agus](https://www.raycast.com/agus) | 1 | 55 |
+| 1664 | [freepicheep](https://www.raycast.com/freepicheep) | 1 | 55 |
+| 1665 | [gaurav_tiwari](https://www.raycast.com/gaurav_tiwari) | 1 | 55 |
+| 1666 | [Logan-8f](https://www.raycast.com/Logan-8f) | 1 | 55 |
+| 1667 | [piotrzaborow](https://www.raycast.com/piotrzaborow) | 1 | 55 |
+| 1668 | [robinradx](https://www.raycast.com/robinradx) | 1 | 55 |
+| 1669 | [saketh_chandra](https://www.raycast.com/saketh_chandra) | 1 | 55 |
 | 1670 | [alerix](https://www.raycast.com/alerix) | 1 | 54 |
 | 1671 | [iamsmaso](https://www.raycast.com/iamsmaso) | 1 | 54 |
 | 1672 | [sunosuporno](https://www.raycast.com/sunosuporno) | 1 | 54 |

@@ -178,4 +178,4 @@
 | [Dondori](https://github.com/raycast/extensions/tree/main/extensions/dondori) | 4 | Control Dondori: today's tasks, quick add, timers, and window shortcuts. | ruslan-korneev | macOS | [store](https://www.raycast.com/ruslan-korneev/dondori) |
 | [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | 2 | Get product details from DigiKey | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/digikey) |
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 2 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
-| [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 0 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/dated-folder) |
+| [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 1 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/dated-folder) |
