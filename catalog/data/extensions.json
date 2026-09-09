@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1ac7e74fbb78f0eb9e06b1ca9b759dfa975582bb",
-  "generatedAt": "2026-09-09T10:39:19.446Z",
-  "downloadsRefreshedAt": "2026-09-09T10:39:19.059Z",
-  "count": 3268,
+  "commit": "a6da09213ff02022e00e471a0ff01716abb78856",
+  "generatedAt": "2026-09-09T11:41:45.157Z",
+  "downloadsRefreshedAt": "2026-09-09T11:41:43.908Z",
+  "count": 3269,
   "extensions": [
     {
       "dir": "0x0",
@@ -9979,7 +9979,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "63400ca55daa1c9bf4cf5ec1dc08d75c0f2e3dd5",
-      "downloads": 540822
+      "downloads": 540914
     },
     {
       "dir": "color-shades",
@@ -12694,6 +12694,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/date-converter",
       "treeSha": "9b58401d5e34b03b5b86a311707f7471826aebfa",
       "downloads": 5710
+    },
+    {
+      "dir": "dated-folder",
+      "name": "dated-folder",
+      "title": "Dated Folder",
+      "description": "Create a folder named after today's date and open it in your terminal",
+      "author": "fhf1121",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/fhf1121/dated-folder",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/dated-folder",
+      "treeSha": "23a0dbf7dcc07ac490a39140591e6d7d6d3f3d5e",
+      "downloads": 0
     },
     {
       "dir": "datetime-format-converter",
@@ -20448,7 +20469,7 @@
       "store": "https://www.raycast.com/ojowwalker77/g-cloud",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/g-cloud",
       "treeSha": "6d19538d3795ba5c03c9028d13e7c68c53e4f1ec",
-      "downloads": 847
+      "downloads": 849
     },
     {
       "dir": "game-scout",
@@ -22395,7 +22416,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 520403
+      "downloads": 520460
     },
     {
       "dir": "google-chrome-profiles",
@@ -28759,7 +28780,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 699842
+      "downloads": 699929
     },
     {
       "dir": "kimai",

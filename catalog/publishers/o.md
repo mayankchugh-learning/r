@@ -11,7 +11,7 @@
 | [ofalvai](https://www.raycast.com/ofalvai) | 1 | 448 | **Developer Tools:** [Bitrise](https://github.com/raycast/extensions/tree/main/extensions/bitrise) |
 | [oh-dear](https://www.raycast.com/oh-dear) | 1 | 185 | **Web:** [Oh Dear](https://github.com/raycast/extensions/tree/main/extensions/ohdear) |
 | [ohmycodedev](https://www.raycast.com/ohmycodedev) | 1 | 168 | **Developer Tools:** [Windows Environment Variables](https://github.com/raycast/extensions/tree/main/extensions/windows-environment-variables) |
-| [ojowwalker77](https://www.raycast.com/ojowwalker77) | 1 | 847 | **Developer Tools:** [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud) |
+| [ojowwalker77](https://www.raycast.com/ojowwalker77) | 1 | 849 | **Developer Tools:** [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud) |
 | [OkanBilal](https://www.raycast.com/OkanBilal) | 1 | 152 | **Web:** [Literal](https://github.com/raycast/extensions/tree/main/extensions/literal) |
 | [okgloor](https://www.raycast.com/okgloor) | 1 | 121 | **Other:** [Steam Player Counts](https://github.com/raycast/extensions/tree/main/extensions/steam-player-counts) |
 | [okooo5km](https://www.raycast.com/okooo5km) | 1 | 3,729 | **Applications:** [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) |

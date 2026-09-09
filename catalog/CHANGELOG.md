@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `a6da09213f`
+
+**Added (1):** [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder)
+
 ## 2026-09-09 — upstream `1ac7e74fbb`
 
 **Updated (1):** [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud)

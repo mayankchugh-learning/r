@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-172 extensions · [← catalog index](../README.md)
+173 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -178,3 +178,4 @@
 | [Dondori](https://github.com/raycast/extensions/tree/main/extensions/dondori) | 4 | Control Dondori: today's tasks, quick add, timers, and window shortcuts. | ruslan-korneev | macOS | [store](https://www.raycast.com/ruslan-korneev/dondori) |
 | [DigiKey](https://github.com/raycast/extensions/tree/main/extensions/digikey) | 2 | Get product details from DigiKey | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/digikey) |
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 2 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
+| [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 0 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/dated-folder) |

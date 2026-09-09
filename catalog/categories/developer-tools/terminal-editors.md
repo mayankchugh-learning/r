@@ -1,8 +1,8 @@
 # Terminal & Editors
 
-48 extensions · [← Developer Tools](./README.md)
+49 extensions · [← Developer Tools](./README.md)
 
-[Terminal ✦](#terminal) (12) · [CLI ✦](#cli) (8) · [Editor ✦](#editor) (7) · [Shell ✦](#shell) (5) · [General](#general) (16)
+[Terminal ✦](#terminal) (13) · [CLI ✦](#cli) (8) · [Editor ✦](#editor) (7) · [Shell ✦](#shell) (5) · [General](#general) (16)
 
 *✦ auto-discovered topic group*
 
@@ -22,6 +22,7 @@
 | [Terminal Image Paste](https://github.com/raycast/extensions/tree/main/extensions/terminal-image-paste) | 102 | Paste clipboard image as a file path — works in any terminal, SSH session, or TUI app | iisweetheartii | macOS | [store](https://www.raycast.com/iisweetheartii/terminal-image-paste) |
 | [ShiftPlus](https://github.com/raycast/extensions/tree/main/extensions/shiftplus) | 68 | Switch your full project context — browser profiles, apps, terminal, windows — from Raycast. | nghia_luong | macOS | [store](https://www.raycast.com/nghia_luong/shiftplus) |
 | [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | 33 | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | [store](https://www.raycast.com/Ethan_Cao/otty) |
+| [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 0 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/dated-folder) |
 
 ## CLI ✦
 

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,162,688 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,162,780 |
 | 2 | [raycast](./id/raycast.md) | 11 | 823,497 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 699,842 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 520,403 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 699,929 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 520,460 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 456,207 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 451,522 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 422,370 |
@@ -706,8 +706,8 @@
 | 696 | [elyse](https://www.raycast.com/elyse) | 1 | 862 |
 | 697 | [xvvhang](https://www.raycast.com/xvvhang) | 1 | 852 |
 | 698 | [Hugo-Persson](https://www.raycast.com/Hugo-Persson) | 1 | 849 |
-| 699 | [johannes_lohmeier](https://www.raycast.com/johannes_lohmeier) | 1 | 847 |
-| 700 | [ojowwalker77](https://www.raycast.com/ojowwalker77) | 1 | 847 |
+| 699 | [ojowwalker77](https://www.raycast.com/ojowwalker77) | 1 | 849 |
+| 700 | [johannes_lohmeier](https://www.raycast.com/johannes_lohmeier) | 1 | 847 |
 | 701 | [brian_wang](https://www.raycast.com/brian_wang) | 1 | 836 |
 | 702 | [k4lok](https://www.raycast.com/k4lok) | 1 | 835 |
 | 703 | [albandum](https://www.raycast.com/albandum) | 1 | 834 |
@@ -1676,7 +1676,7 @@
 | 1666 | [piotrzaborow](https://www.raycast.com/piotrzaborow) | 1 | 55 |
 | 1667 | [robinradx](https://www.raycast.com/robinradx) | 1 | 55 |
 | 1668 | [saketh_chandra](https://www.raycast.com/saketh_chandra) | 1 | 55 |
-| 1669 | [fhf1121](https://www.raycast.com/fhf1121) | 2 | 54 |
+| 1669 | [fhf1121](https://www.raycast.com/fhf1121) | 3 | 54 |
 | 1670 | [alerix](https://www.raycast.com/alerix) | 1 | 54 |
 | 1671 | [iamsmaso](https://www.raycast.com/iamsmaso) | 1 | 54 |
 | 1672 | [sunosuporno](https://www.raycast.com/sunosuporno) | 1 | 54 |
