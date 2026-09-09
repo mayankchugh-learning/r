@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `afdcfd0a63`
+
+**Updated (1):** [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari)
+
 ## 2026-09-09 — upstream `a29ccfe259`
 
 **Updated (1):** [X.com](https://github.com/raycast/extensions/tree/main/extensions/twitter)
