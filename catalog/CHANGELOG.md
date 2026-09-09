@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `e6c5e03e1c`
+
+**Updated (1):** [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram)
+
 ## 2026-09-09 — upstream `a2e8e62c88`
 
 **Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
