@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `1ac7e74fbb`
+
+**Updated (1):** [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud)
+
 ## 2026-09-09 — upstream `d2dc99151c`
 
 **Updated (1):** [Font Search](https://github.com/raycast/extensions/tree/main/extensions/font-search)
