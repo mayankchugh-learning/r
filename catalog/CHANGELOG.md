@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-09 — upstream `744fb29e22`
+
+**Updated (1):** [Statamic Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/statamic-docs)
+
 ## 2026-09-09 — upstream `bf725b8801`
 
 **Updated (1):** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote)
