@@ -1,6 +1,6 @@
 # tonka3000
 
-14 extensions · 425,135 downloads · [store](https://www.raycast.com/tonka3000) · [← publishers](../README.md)
+14 extensions · 425,139 downloads · [store](https://www.raycast.com/tonka3000) · [← publishers](../README.md)
 
 ## Applications (1)
 
@@ -19,7 +19,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 37,582 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
-| [X.com](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,360 | Browse, search, publish posts, and send direct messages on X | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [X.com](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,364 | Browse, search, publish posts, and send direct messages on X | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
 
 ## Productivity (6)
 

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `f37ce622bf`
+
+**Updated (1):** [X.com](https://github.com/raycast/extensions/tree/main/extensions/twitter)
+
 ## 2026-09-10 — upstream `9afb4b8e8e`
 
 **Updated (1):** [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt)
