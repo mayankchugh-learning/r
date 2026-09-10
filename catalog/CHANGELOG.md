@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `ff74a1656d`
+
+**Updated (1):** [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search)
+
 ## 2026-09-10 — upstream `fc45c61517`
 
 **Updated (1):** [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox)
