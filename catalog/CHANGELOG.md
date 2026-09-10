@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `c3e6ef0ab5`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-09-10 — upstream `f540ff9de6`
 
 **Added (1):** [MemeStash](https://github.com/raycast/extensions/tree/main/extensions/memestash)
