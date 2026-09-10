@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-507 of 1475 extensions · [← macOS · Productivity](./README.md)
+507 of 1476 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@
 | [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,811 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
 | [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) | 10,456 | Disable notifications on your Apple devices | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/do-not-disturb) |
 | [Cursor Directory](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) | 10,334 | Your cursor.directory in Raycast | escwxyz | macOS | [store](https://www.raycast.com/escwxyz/cursor-directory) |
-| [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 10,290 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
+| [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 10,321 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
 | [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,913 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
 | [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 9,868 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
 | [One Thing](https://github.com/raycast/extensions/tree/main/extensions/one-thing) | 9,841 | Put a thing in your Menu Bar. | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/one-thing) |

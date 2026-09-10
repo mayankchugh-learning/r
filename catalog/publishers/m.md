@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-170 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+171 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -54,6 +54,7 @@
 | [marvel940804836](https://www.raycast.com/marvel940804836) | 1 | 26 | **Developer Tools:** [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) |
 | [masoud_hamidzadeh](https://www.raycast.com/masoud_hamidzadeh) | 1 | 127 | **System:** [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) |
 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 39,455 | **Productivity:** [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama), [VMware VCenter](https://github.com/raycast/extensions/tree/main/extensions/vmware-vcenter), [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix) |
+| [masuipeo](https://www.raycast.com/masuipeo) | 1 | 0 | **Productivity:** [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) |
 | [matan](https://www.raycast.com/matan) | 1 | 195 | **Productivity:** [Silent Mode](https://github.com/raycast/extensions/tree/main/extensions/silent-mode) |
 | [matbrady](https://www.raycast.com/matbrady) | 1 | 5 | **Developer Tools:** [Pantheon Sites](https://github.com/raycast/extensions/tree/main/extensions/pantheon-sites) |
 | [matchai](https://www.raycast.com/matchai) | 1 | 140 | **Uncategorized:** [Yomicast – Offline Japanese-English Dictionary](https://github.com/raycast/extensions/tree/main/extensions/yomicast) |

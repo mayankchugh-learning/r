@@ -2,7 +2,7 @@
 
 [Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · **Images & Photos** · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · [General](./general.md)
 
-51 of 289 extensions · [← macOS · Media](./README.md)
+51 of 290 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |

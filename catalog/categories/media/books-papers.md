@@ -1,8 +1,8 @@
 # Books & Papers
 
-18 extensions · [← Media](./README.md)
+19 extensions · [← Media](./README.md)
 
-[Library ✦](#library) (6) · [Aloud ✦](#aloud) (4) · [General](#general) (8)
+[Library ✦](#library) (7) · [Aloud ✦](#aloud) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -16,6 +16,7 @@
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 360 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 | [CC0-LIB - Browse CC0 Content](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) | 32 | Browse library of CC0 content | 0xN1 | macOS | [store](https://www.raycast.com/0xN1/cc0-lib) |
 | [Swinsian Player](https://github.com/raycast/extensions/tree/main/extensions/swinsian-player) | 4 | Control Swinsian from Raycast. Play, pause, skip tracks, set ratings, search your library, and see what's playing in your menu bar. | deathrashed | macOS | [store](https://www.raycast.com/deathrashed/swinsian-player) |
+| [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) | 0 | Search your Melanite library by file name and tag name, with thumbnail previews. | masuipeo | macOS, Windows | [store](https://www.raycast.com/masuipeo/melanite-search) |
 
 ## Aloud ✦
 

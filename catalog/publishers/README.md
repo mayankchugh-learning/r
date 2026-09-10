@@ -1,6 +1,6 @@
 # Publishers
 
-2189 publishers · [← catalog index](../README.md)
+2190 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,179,334 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,179,347 |
 | 2 | [raycast](./id/raycast.md) | 11 | 835,426 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,762 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 526,064 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,772 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 526,071 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 460,551 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 455,734 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 427,417 |
@@ -171,7 +171,7 @@
 | 161 | [jffrykkn](https://www.raycast.com/jffrykkn) | 1 | 10,747 |
 | 162 | [elliotdes](https://www.raycast.com/elliotdes) | 1 | 10,541 |
 | 163 | [j3lte](./id/j3lte.md) | 13 | 10,480 |
-| 164 | [Falcon](https://www.raycast.com/Falcon) | 2 | 10,441 |
+| 164 | [Falcon](https://www.raycast.com/Falcon) | 2 | 10,472 |
 | 165 | [escwxyz](https://www.raycast.com/escwxyz) | 2 | 10,379 |
 | 166 | [github](https://www.raycast.com/github) | 1 | 10,313 |
 | 167 | [say4n](https://www.raycast.com/say4n) | 2 | 10,227 |
@@ -2193,7 +2193,8 @@
 | 2183 | [joseph_emmanuel](https://www.raycast.com/joseph_emmanuel) | 1 | 0 |
 | 2184 | [LunarRed](https://www.raycast.com/LunarRed) | 1 | 0 |
 | 2185 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2186 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 0 |
-| 2187 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2188 | github-next | 2 | — |
-| 2189 | multi | 1 | — |
+| 2186 | [masuipeo](https://www.raycast.com/masuipeo) | 1 | 0 |
+| 2187 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 0 |
+| 2188 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2189 | github-next | 2 | — |
+| 2190 | multi | 1 | — |

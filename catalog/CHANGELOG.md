@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `b108036e43`
+
+**Added (1):** [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search)
+
 ## 2026-09-10 — upstream `8259b22528`
 
 **Updated (1):** [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws)

@@ -1,8 +1,8 @@
 # Windows · Media
 
-88 extensions · [← Windows](../README.md)
+89 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (14) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (17) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (3) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (32)
+[Music & Audio](#music-audio) (14) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (17) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (4) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (32)
 
 ## Listen & Watch
 
@@ -83,6 +83,7 @@
 | [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,691 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 2,005 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 922 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/sonarr) |
+| [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) | 0 | Search your Melanite library by file name and tag name, with thumbnail previews. | masuipeo | macOS, Windows | [store](https://www.raycast.com/masuipeo/melanite-search) |
 
 ## Create & Convert
 

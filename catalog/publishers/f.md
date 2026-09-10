@@ -11,7 +11,7 @@
 | [fahl](https://www.raycast.com/fahl) | 1 | 706 | **Productivity:** [Rsync Commands](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) |
 | [faizhasim](https://www.raycast.com/faizhasim) | 1 | 29 | **Productivity:** [Glean Search](https://github.com/raycast/extensions/tree/main/extensions/glean-search) |
 | [fakerr](https://www.raycast.com/fakerr) | 1 | 57 | **Media:** [Scrapbook](https://github.com/raycast/extensions/tree/main/extensions/scrapbook) |
-| [Falcon](https://www.raycast.com/Falcon) | 2 | 10,441 | **Developer Tools:** [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws)<br>**Finance:** [Monse - Banking In Raycast](https://github.com/raycast/extensions/tree/main/extensions/monse) |
+| [Falcon](https://www.raycast.com/Falcon) | 2 | 10,472 | **Developer Tools:** [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws)<br>**Finance:** [Monse - Banking In Raycast](https://github.com/raycast/extensions/tree/main/extensions/monse) |
 | [fangbaiyu](https://www.raycast.com/fangbaiyu) | 1 | 21 | **Productivity:** [GetNote](https://github.com/raycast/extensions/tree/main/extensions/get-note) |
 | [fannarfreyr](https://www.raycast.com/fannarfreyr) | 1 | 78 | **Developer Tools:** [Open in TextMate](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) |
 | [Fared](https://www.raycast.com/Fared) | 1 | 951 | **Security:** [Proton Authenticator](https://github.com/raycast/extensions/tree/main/extensions/proton-authenticator) |

@@ -1,8 +1,8 @@
 # Documents & Files
 
-129 extensions · [← Productivity](./README.md)
+130 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (29) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Download ✦](#download) (12) · [Upload ✦](#upload) (11) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (32)
+[Folder ✦](#folder) (29) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Download ✦](#download) (12) · [Upload ✦](#upload) (11) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (33)
 
 *✦ auto-discovered topic group*
 
@@ -184,3 +184,4 @@
 | [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 18 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | openqr (org) | macOS | [store](https://www.raycast.com/openqr/openqr) |
 | [Paper Design](https://github.com/raycast/extensions/tree/main/extensions/paper-design) | 12 | Browse recent Paper designs, create new files, and manage design tokens directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/paper-design) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 2 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
+| [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) | 0 | Search your Melanite library by file name and tag name, with thumbnail previews. | masuipeo | macOS, Windows | [store](https://www.raycast.com/masuipeo/melanite-search) |

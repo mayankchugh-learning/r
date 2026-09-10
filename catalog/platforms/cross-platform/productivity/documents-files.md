@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-24 of 352 extensions · [← Cross-platform · Productivity](./README.md)
+25 of 353 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,4 @@
 | [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) | 11 | Upload files and manage your EdgeStore account. | ravi_s | macOS, Windows | [store](https://www.raycast.com/ravi_s/edgestore-raycast) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 4 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
 | [Subnoto - Confidential Electronic Signature](https://github.com/raycast/extensions/tree/main/extensions/subnoto) | 3 | Send and manage documents for electronic signature in Subnoto from Raycast | corentin_mors | macOS, Windows | [store](https://www.raycast.com/corentin_mors/subnoto) |
+| [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) | 0 | Search your Melanite library by file name and tag name, with thumbnail previews. | masuipeo | macOS, Windows | [store](https://www.raycast.com/masuipeo/melanite-search) |
