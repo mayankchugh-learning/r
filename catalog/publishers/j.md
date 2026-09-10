@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-132 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+133 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -97,6 +97,7 @@
 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 | **Productivity:** [Mealie](https://github.com/raycast/extensions/tree/main/extensions/mealie) |
 | [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 314 | **Developer Tools:** [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) |
 | [jose-elias-alvarez](https://www.raycast.com/jose-elias-alvarez) | 1 | 1,654 | **Developer Tools:** [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) |
+| joseph_emmanuel | 1 | — | **System:** [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) |
 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 108,296 | **Media:** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search), [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) |
 | [josha1len](https://www.raycast.com/josha1len) | 1 | 612 | **Applications:** [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) |
 | [joshandromidas](https://www.raycast.com/joshandromidas) | 1 | 167 | **Media:** [Tautulli](https://github.com/raycast/extensions/tree/main/extensions/tautulli) |

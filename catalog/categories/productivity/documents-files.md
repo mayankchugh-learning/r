@@ -89,7 +89,7 @@
 | [File Provider Progress](https://github.com/raycast/extensions/tree/main/extensions/file-provider-progress) | 73 | Show macOS File Provider upload, download, indexing, and health status. | finite | macOS | [store](https://www.raycast.com/finite/file-provider-progress) |
 | [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) | 67 | Browse, upload, download, and manage files on your VPS via Raycast! | Abdullah-Dev115 | macOS | [store](https://www.raycast.com/Abdullah-Dev115/vps-explorer) |
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 21 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
-| [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) | — | Search Z-Library and download books, powered by the zlib CLI. | materialcritic | macOS | — |
+| [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) | 0 | Search Z-Library and download books, powered by the zlib CLI. | materialcritic | macOS | [store](https://www.raycast.com/materialcritic/zlib-search) |
 
 ## Upload ✦
 

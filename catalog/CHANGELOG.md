@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `b8be5ea6df`
+
+**Added (1):** [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os)
+
 ## 2026-09-10 — upstream `f6d55cce6d`
 
 **Added (1):** [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search)
