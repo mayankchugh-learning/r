@@ -6,5 +6,5 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,888 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS, Windows | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
-| [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | 127 | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |
+| [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,898 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS, Windows | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
+| [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | 129 | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `6deb9d8f8a`
+
+**Updated (1):** [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads)
+
 ## 2026-09-10 — upstream `ff74a1656d`
 
 **Updated (1):** [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search)

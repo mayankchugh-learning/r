@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 10,226 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
-| [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,548 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
-| [Terraform Doc](https://github.com/raycast/extensions/tree/main/extensions/terraform-doc) | 931 | Quickly access Terraform resources | shopping-jaws | macOS | [store](https://www.raycast.com/shopping-jaws/terraform-doc) |
-| [DigitalOcean](https://github.com/raycast/extensions/tree/main/extensions/digitalocean) | 638 | Quickly find resources in your DigitalOcean team | shukantpal | macOS | [store](https://www.raycast.com/shukantpal/digitalocean) |
+| [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) | 10,290 | The best way to interact with your AWS resources | Falcon | macOS | [store](https://www.raycast.com/Falcon/aws) |
+| [Microsoft Azure](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) | 2,564 | Quick access to Microsoft Azure resources | crisboarna | macOS, Windows | [store](https://www.raycast.com/crisboarna/microsoft-azure) |
+| [Terraform Doc](https://github.com/raycast/extensions/tree/main/extensions/terraform-doc) | 938 | Quickly access Terraform resources | shopping-jaws | macOS | [store](https://www.raycast.com/shopping-jaws/terraform-doc) |
+| [DigitalOcean](https://github.com/raycast/extensions/tree/main/extensions/digitalocean) | 643 | Quickly find resources in your DigitalOcean team | shukantpal | macOS | [store](https://www.raycast.com/shukantpal/digitalocean) |

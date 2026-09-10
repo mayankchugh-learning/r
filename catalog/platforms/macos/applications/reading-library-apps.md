@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GoodLinks](https://github.com/raycast/extensions/tree/main/extensions/goodlinks) | 721 | Save, list, and open articles in GoodLinks | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/goodlinks) |
-| [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | 322 | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
+| [GoodLinks](https://github.com/raycast/extensions/tree/main/extensions/goodlinks) | 729 | Save, list, and open articles in GoodLinks | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/goodlinks) |
+| [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) | 324 | Feedbin reader in Raycast | third774 | macOS | [store](https://www.raycast.com/third774/feedbin) |
 | [Bibmanager](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) | 118 | Search Bibmanager Database from Raycast | aaronschneider | macOS | [store](https://www.raycast.com/aaronschneider/bibmanager) |
-| [Calibre Library](https://github.com/raycast/extensions/tree/main/extensions/calibre-search) | 95 | Search your Calibre ebook library by title and author | BrunoMonteiro | macOS | [store](https://www.raycast.com/BrunoMonteiro/calibre-library) |
+| [Calibre Library](https://github.com/raycast/extensions/tree/main/extensions/calibre-search) | 97 | Search your Calibre ebook library by title and author | BrunoMonteiro | macOS | [store](https://www.raycast.com/BrunoMonteiro/calibre-library) |

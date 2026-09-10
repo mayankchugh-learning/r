@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Nippon Colors](https://github.com/raycast/extensions/tree/main/extensions/nippon-colors) | 279 | explore nippon colors! | nagauta | macOS | [store](https://www.raycast.com/nagauta/nippon-colors) |
+| [Nippon Colors](https://github.com/raycast/extensions/tree/main/extensions/nippon-colors) | 280 | explore nippon colors! | nagauta | macOS | [store](https://www.raycast.com/nagauta/nippon-colors) |
 | [Any Coffee](https://github.com/raycast/extensions/tree/main/extensions/anycoffee) | 164 | Explore all the specialty coffee roasters. | aymericio | macOS | [store](https://www.raycast.com/aymericio/anycoffee) |
 | [Nouns](https://github.com/raycast/extensions/tree/main/extensions/nouns) | 77 | Explore the Nouns Ecosystem. | peduarte | macOS | [store](https://www.raycast.com/peduarte/nouns) |
 | [TinyFaces NFT](https://github.com/raycast/extensions/tree/main/extensions/tinyfaces-nft) | 37 | Explore the TinyFaces NFT Collection | peduarte | macOS | [store](https://www.raycast.com/peduarte/tinyfaces-nft) |
