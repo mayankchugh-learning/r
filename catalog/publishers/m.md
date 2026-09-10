@@ -167,7 +167,7 @@
 | [muhammetakay](https://www.raycast.com/muhammetakay) | 1 | 9,805 | **Web:** [YouTube Search](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) |
 | multi | 1 | — | **Applications:** [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) |
 | [musienkoyuriy](https://www.raycast.com/musienkoyuriy) | 1 | 2,464 | **Productivity:** [Regular Expressions Search](https://github.com/raycast/extensions/tree/main/extensions/search-regexp) |
-| [mutedeck](https://www.raycast.com/chad_walters) | 1 | 186 | **Applications:** [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) |
+| [mutedeck](https://www.raycast.com/mutedeck) | 1 | 186 | **Applications:** [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) |
 | [mutewinter](https://www.raycast.com/mutewinter) | 2 | 1,764 | **Developer Tools:** [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search), [CometAPI](https://github.com/raycast/extensions/tree/main/extensions/cometapi) |
 | [muzhen_gaming](https://www.raycast.com/muzhen_gaming) | 2 | 3,118 | **Productivity:** [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes)<br>**Fun:** [Count Numbers](https://github.com/raycast/extensions/tree/main/extensions/count-numbers) |
 | [mwarger](https://www.raycast.com/mwarger) | 1 | 130 | **Media:** [SomaFM](https://github.com/raycast/extensions/tree/main/extensions/somafm) |

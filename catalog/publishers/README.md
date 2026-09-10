@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,171,204 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,172,035 |
 | 2 | [raycast](./id/raycast.md) | 11 | 830,217 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 704,236 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 523,275 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 705,024 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 523,780 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 458,517 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 453,817 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 425,139 |
@@ -1243,7 +1243,7 @@
 | 1233 | [betty_van_aken](https://www.raycast.com/betty_van_aken) | 1 | 186 |
 | 1234 | [egirlevadniy](https://www.raycast.com/egirlevadniy) | 1 | 186 |
 | 1235 | [kyle_samani](https://www.raycast.com/kyle_samani) | 1 | 186 |
-| 1236 | [mutedeck](https://www.raycast.com/chad_walters) | 1 | 186 |
+| 1236 | [mutedeck](https://www.raycast.com/mutedeck) | 1 | 186 |
 | 1237 | [snaka](https://www.raycast.com/snaka) | 1 | 186 |
 | 1238 | [vrn](https://www.raycast.com/vrn) | 1 | 186 |
 | 1239 | [fil](https://www.raycast.com/fil) | 1 | 185 |
