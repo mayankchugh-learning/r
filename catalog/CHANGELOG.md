@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `ab755b76a1`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-09-10 — upstream `9244e1502a`
 
 **Updated (1):** [Google Maps Search](https://github.com/raycast/extensions/tree/main/extensions/google-maps-search)

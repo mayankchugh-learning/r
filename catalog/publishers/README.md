@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,172,110 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,172,492 |
 | 2 | [raycast](./id/raycast.md) | 11 | 830,217 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 705,101 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 523,821 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 705,480 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 524,046 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 458,517 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 453,817 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 425,139 |
@@ -56,7 +56,7 @@
 | 46 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 59,635 |
 | 47 | [simicvm](https://www.raycast.com/simicvm) | 1 | 59,440 |
 | 48 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 53,734 |
-| 49 | [ratoru](https://www.raycast.com/ratoru) | 2 | 51,006 |
+| 49 | [ratoru](https://www.raycast.com/ratoru) | 2 | 51,134 |
 | 50 | [garrett](https://www.raycast.com/garrett) | 2 | 49,470 |
 | 51 | [MarkusLanger](https://www.raycast.com/MarkusLanger) | 1 | 49,117 |
 | 52 | [yug2005](https://www.raycast.com/yug2005) | 4 | 49,067 |
@@ -281,8 +281,8 @@
 | 271 | [SamuelNitsche](https://www.raycast.com/SamuelNitsche) | 1 | 4,302 |
 | 272 | [danielbahl](https://www.raycast.com/danielbahl) | 1 | 4,281 |
 | 273 | [johndoe123789](https://www.raycast.com/johndoe123789) | 1 | 4,271 |
-| 274 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,236 |
-| 275 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,227 |
+| 274 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,250 |
+| 275 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,236 |
 | 276 | [sebdanielsson](https://www.raycast.com/sebdanielsson) | 3 | 4,203 |
 | 277 | [svenhofman](https://www.raycast.com/svenhofman) | 1 | 4,193 |
 | 278 | [kmusick](https://www.raycast.com/kmusick) | 1 | 4,183 |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9244e1502ad70ebe279260aca19fda68d63b67c1",
-  "generatedAt": "2026-09-10T10:15:52.188Z",
-  "downloadsRefreshedAt": "2026-09-10T10:15:51.906Z",
+  "commit": "ab755b76a14ddac299332ec966fbd7a654a0837a",
+  "generatedAt": "2026-09-10T11:54:01.188Z",
+  "downloadsRefreshedAt": "2026-09-10T11:54:00.257Z",
   "count": 3271,
   "extensions": [
     {
@@ -735,8 +735,8 @@
       ],
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
-      "treeSha": "14686bd2a843d4bb38f233d9e6db96a6b3d8c7d8",
-      "downloads": 3230
+      "treeSha": "dab541de299025cdbb937ca50f24722beb9c1426",
+      "downloads": 3253
     },
     {
       "dir": "agentcfg",
@@ -9999,7 +9999,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 546226
+      "downloads": 546608
     },
     {
       "dir": "color-shades",
@@ -22436,7 +22436,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 523821
+      "downloads": 524046
     },
     {
       "dir": "google-chrome-profiles",
@@ -22652,7 +22652,7 @@
       "store": "https://www.raycast.com/ratoru/google-maps-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-maps-search",
       "treeSha": "d6118a8f22b155d445a9329548d56c249d6ce112",
-      "downloads": 48127
+      "downloads": 48255
     },
     {
       "dir": "google-maven-repository",
@@ -28800,7 +28800,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 705101
+      "downloads": 705480
     },
     {
       "dir": "kimai",
