@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,178,914 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,179,104 |
 | 2 | [raycast](./id/raycast.md) | 11 | 835,307 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,343 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 525,800 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,527 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 525,910 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 460,551 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 455,734 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 427,417 |
@@ -83,7 +83,7 @@
 | 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 33,692 |
 | 74 | [dziad](https://www.raycast.com/dziad) | 1 | 32,778 |
 | 75 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 32,707 |
-| 76 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 31,858 |
+| 76 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 31,871 |
 | 77 | [pradeepb28](https://www.raycast.com/pradeepb28) | 9 | 31,214 |
 | 78 | [gstvds](https://www.raycast.com/gstvds) | 2 | 30,742 |
 | 79 | [vishaltelangre](https://www.raycast.com/vishaltelangre) | 1 | 30,542 |
@@ -132,8 +132,8 @@
 | 122 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 15,895 |
 | 123 | [kom](https://www.raycast.com/kom) | 1 | 15,883 |
 | 124 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 15,721 |
-| 125 | [tailscale](https://www.raycast.com/tailscale) | 1 | 15,437 |
-| 126 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 15,379 |
+| 125 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 15,439 |
+| 126 | [tailscale](https://www.raycast.com/tailscale) | 1 | 15,437 |
 | 127 | [k8scat](https://www.raycast.com/k8scat) | 6 | 15,338 |
 | 128 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 15,204 |
 | 129 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 15,135 |
