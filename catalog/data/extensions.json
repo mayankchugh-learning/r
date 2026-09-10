@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c3e6ef0ab5c9fe2471bb10467bd4975291820316",
-  "generatedAt": "2026-09-10T20:45:33.136Z",
-  "downloadsRefreshedAt": "2026-09-10T20:45:32.458Z",
-  "count": 3272,
+  "commit": "f6d55cce6dbc208df6aa0aaeffd387dedc87e110",
+  "generatedAt": "2026-09-10T20:54:37.313Z",
+  "downloadsRefreshedAt": "2026-09-10T20:54:36.859Z",
+  "count": 3273,
   "extensions": [
     {
       "dir": "0x0",
@@ -9999,7 +9999,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 549928
+      "downloads": 549964
     },
     {
       "dir": "color-shades",
@@ -22436,7 +22436,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 526006
+      "downloads": 526030
     },
     {
       "dir": "google-chrome-profiles",
@@ -28800,7 +28800,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 708680
+      "downloads": 708713
     },
     {
       "dir": "kimai",
@@ -68480,6 +68480,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zipper-run",
       "treeSha": "cd8255ef91fbcf7f6134c4b6acc2931e21f502c5",
       "downloads": 57
+    },
+    {
+      "dir": "zlib-search",
+      "name": "zlib-search",
+      "title": "Z-Library",
+      "description": "Search Z-Library and download books, powered by the zlib CLI.",
+      "author": "materialcritic",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/zlib-search",
+      "treeSha": "20146111b2ca536af24abd87209cf3404502d80b",
+      "downloads": null
     },
     {
       "dir": "znotch",

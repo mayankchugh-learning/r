@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `f6d55cce6d`
+
+**Added (1):** [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search)
+
 ## 2026-09-10 — upstream `c3e6ef0ab5`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
