@@ -97,7 +97,7 @@
 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 | **Productivity:** [Mealie](https://github.com/raycast/extensions/tree/main/extensions/mealie) |
 | [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 314 | **Developer Tools:** [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) |
 | [jose-elias-alvarez](https://www.raycast.com/jose-elias-alvarez) | 1 | 1,654 | **Developer Tools:** [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) |
-| joseph_emmanuel | 1 | — | **System:** [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) |
+| [joseph_emmanuel](https://www.raycast.com/joseph_emmanuel) | 1 | 0 | **System:** [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) |
 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 108,296 | **Media:** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search), [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) |
 | [josha1len](https://www.raycast.com/josha1len) | 1 | 612 | **Applications:** [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) |
 | [joshandromidas](https://www.raycast.com/joshandromidas) | 1 | 167 | **Media:** [Tautulli](https://github.com/raycast/extensions/tree/main/extensions/tautulli) |

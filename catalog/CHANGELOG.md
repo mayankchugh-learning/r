@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `8259b22528`
+
+**Updated (1):** [Amazon AWS](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws)
+
 ## 2026-09-10 — upstream `b8be5ea6df`
 
 **Added (1):** [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os)

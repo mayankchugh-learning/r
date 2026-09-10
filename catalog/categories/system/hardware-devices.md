@@ -16,7 +16,7 @@
 | [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 5,923 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
 | [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 4,838 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
 | [Media Key Emulate](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) | 1,169 | Emulate keyboard media keys press. Reassign hotkey for media keys. | douo | macOS | [store](https://www.raycast.com/douo/global-media-key) |
-| [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) | — | Raise, track, and action iPF OS tickets without leaving your keyboard. | joseph_emmanuel | Windows, macOS | — |
+| [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) | 0 | Raise, track, and action iPF OS tickets without leaving your keyboard. | joseph_emmanuel | Windows, macOS | [store](https://www.raycast.com/joseph_emmanuel/ipf-os) |
 
 ## Devices ✦
 

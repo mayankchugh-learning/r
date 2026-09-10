@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,179,301 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,179,334 |
 | 2 | [raycast](./id/raycast.md) | 11 | 835,426 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,724 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 526,038 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,762 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 526,064 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 460,551 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 455,734 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 427,417 |
@@ -2190,10 +2190,10 @@
 | 2180 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2181 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2182 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
-| 2183 | [LunarRed](https://www.raycast.com/LunarRed) | 1 | 0 |
-| 2184 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2185 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 0 |
-| 2186 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2187 | github-next | 2 | — |
-| 2188 | joseph_emmanuel | 1 | — |
+| 2183 | [joseph_emmanuel](https://www.raycast.com/joseph_emmanuel) | 1 | 0 |
+| 2184 | [LunarRed](https://www.raycast.com/LunarRed) | 1 | 0 |
+| 2185 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2186 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 0 |
+| 2187 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2188 | github-next | 2 | — |
 | 2189 | multi | 1 | — |
