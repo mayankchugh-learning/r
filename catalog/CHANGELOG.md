@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `0eae02c4a0`
+
+**Updated (1):** [Yopass](https://github.com/raycast/extensions/tree/main/extensions/yopass)
+
 ## 2026-09-10 — upstream `ecffac2da6`
 
 **Updated (1):** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects)
