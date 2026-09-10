@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 703,616 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 704,231 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 168,408 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 101,442 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 63,223 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -140,7 +140,7 @@
 | [Multipass](https://github.com/raycast/extensions/tree/main/extensions/multipass) | 156 | Manage Multipass instances | davibe | macOS | [store](https://www.raycast.com/davibe/multipass) |
 | [Websocket Debugging](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) | 156 | Allows you to debug Pusher | RhysLees | macOS | [store](https://www.raycast.com/RhysLees/websocket-debugging) |
 | [Backstage](https://github.com/raycast/extensions/tree/main/extensions/backstage) | 148 | Shortcuts for Backstage | yukukotani | macOS | [store](https://www.raycast.com/yukukotani/backstage) |
-| [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly) | 148 | Browse LaunchDarkly feature flags, targeting rules, environments and recent changes without leaving Raycast | luarmr | macOS | [store](https://www.raycast.com/luarmr/launchdarkly) |
+| [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly) | 148 | Browse LaunchDarkly feature flags, targeting rules, environments and recent changes without leaving Raycast | luarmr | macOS, Windows | [store](https://www.raycast.com/luarmr/launchdarkly) |
 | [Have I Been Pwned](https://github.com/raycast/extensions/tree/main/extensions/have-i-been-pwned) | 140 | Check if your email or password has been exposed in a data breach | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/have-i-been-pwned) |
 | [Pastefy](https://github.com/raycast/extensions/tree/main/extensions/pastefy) | 136 | Use Pastefy in Raycast to create, list and delete pastes | interaapps (org) | macOS, Windows | [store](https://www.raycast.com/interaapps/pastefy) |
 | [Zeabur](https://github.com/raycast/extensions/tree/main/extensions/zeabur) | 130 | The Raycast extension for Zeabur. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/zeabur) |
