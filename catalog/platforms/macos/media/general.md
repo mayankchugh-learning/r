@@ -31,7 +31,7 @@
 | [Media Key Emulate](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) | 1,169 | Emulate keyboard media keys press. Reassign hotkey for media keys. | douo | macOS | [store](https://www.raycast.com/douo/global-media-key) |
 | [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 1,025 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
 | [IPTV](https://github.com/raycast/extensions/tree/main/extensions/iptv) | 972 | Search online IPTV channels | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/iptv) |
-| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 850 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
+| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 852 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 806 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Jellyfin](https://github.com/raycast/extensions/tree/main/extensions/jellyfin) | 803 | Find Movies and Shows on your Jellyfin Instance | d2a | macOS, Windows | [store](https://www.raycast.com/d2a/jellyfin) |
 | [Matter](https://github.com/raycast/extensions/tree/main/extensions/matter) | 802 | View your saved for later articles in your Matter account. | zan | macOS | [store](https://www.raycast.com/zan/matter) |

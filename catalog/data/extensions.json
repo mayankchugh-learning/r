@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6deb9d8f8a8e6d003fc761803a5986498ffa6c72",
-  "generatedAt": "2026-09-10T19:40:51.647Z",
-  "downloadsRefreshedAt": "2026-09-10T19:40:51.226Z",
+  "commit": "f7cf892382d20d12754d205db03fe1c38b2d0af3",
+  "generatedAt": "2026-09-10T19:41:28.481Z",
+  "downloadsRefreshedAt": "2026-09-10T19:41:27.861Z",
   "count": 3271,
   "extensions": [
     {
@@ -9999,7 +9999,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 549571
+      "downloads": 549573
     },
     {
       "dir": "color-shades",
@@ -22436,7 +22436,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 525788
+      "downloads": 525789
     },
     {
       "dir": "google-chrome-profiles",
@@ -28800,7 +28800,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 708329
+      "downloads": 708330
     },
     {
       "dir": "kimai",
@@ -54098,7 +54098,7 @@
       "description": "Search for chats, see unread messages, snooze notifications, and set your presence status.",
       "author": "mommertf",
       "owner": null,
-      "contributors": 8,
+      "contributors": 9,
       "categories": [
         "Communication",
         "Productivity"
@@ -54110,7 +54110,7 @@
       ],
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
-      "treeSha": "f62648007c5934a8df8a39b2fbfa825176359ff8",
+      "treeSha": "0bfed9c88b737b3207631e1fc6300e9b76188f58",
       "downloads": 305595
     },
     {
@@ -59504,7 +59504,7 @@
       "store": "https://www.raycast.com/chrismessina/threads",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/threads",
       "treeSha": "afc811a411427445192ee1c681c102cb2b179a3a",
-      "downloads": 850
+      "downloads": 852
     },
     {
       "dir": "threads-video-downloader",
