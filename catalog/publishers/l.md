@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · **L** · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-82 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+83 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -84,6 +84,7 @@
 | [luke_lin](https://www.raycast.com/luke_lin) | 1 | 4 | **Media:** [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) |
 | [luknl](https://www.raycast.com/luknl) | 1 | 559 | **Web:** [Myanimelist Search](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) |
 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,846 | **Developer Tools:** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) |
+| [LunarRed](https://www.raycast.com/LunarRed) | 1 | 0 | **Productivity:** [MemeStash](https://github.com/raycast/extensions/tree/main/extensions/memestash) |
 | [luobin](https://www.raycast.com/luobin) | 1 | 10 | **Productivity:** [Ego Lite](https://github.com/raycast/extensions/tree/main/extensions/ego-lite) |
 | [luolei](https://www.raycast.com/luolei) | 2 | 2,631 | **Web:** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep), [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) |
 | [lyager](https://www.raycast.com/lyager) | 1 | 1 | **Communication:** [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub) |

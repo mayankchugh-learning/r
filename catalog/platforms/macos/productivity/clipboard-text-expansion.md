@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · **Clipboard & Text Expansion** · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-70 of 1473 extensions · [← macOS · Productivity](./README.md)
+71 of 1474 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -76,3 +76,4 @@
 | [Load-Bearing Reply](https://github.com/raycast/extensions/tree/main/extensions/load-bearing-reply) | 3 | Paste a confidently over-engineered reply into the frontmost app. | chris_deeming | macOS, Windows | [store](https://www.raycast.com/chris_deeming/load-bearing-reply) |
 | [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 1 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
 | [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid) | 1 | Spreadsheet powers from your launcher: evaluate Excel formulas against clipboard data, peek inside xlsx/csv/sheet files, and open workbooks — via the VisiGrid… | visigrid | macOS | [store](https://www.raycast.com/visigrid/visigrid) |
+| [MemeStash](https://github.com/raycast/extensions/tree/main/extensions/memestash) | 0 | Search a curated library of images and memes and paste the one you pick into the frontmost app. | LunarRed | macOS | [store](https://www.raycast.com/LunarRed/memestash) |

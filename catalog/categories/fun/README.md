@@ -1,15 +1,15 @@
 # Fun
 
-277 extensions · [← all categories](../README.md)
+278 extensions · [← all categories](../README.md)
 
-macOS: 276 · Windows: 93
+macOS: 277 · Windows: 93
 
 ## Play
 
 | Topic | Extensions |
 | --- | --- |
 | [Games & Gaming](./games-gaming.md) | 43 |
-| [Jokes & Randomness](./jokes-randomness.md) | 29 |
+| [Jokes & Randomness](./jokes-randomness.md) | 30 |
 | [Generators & Toys](./generators-toys.md) | 9 |
 | [AI & Generative Fun](./ai-generative-fun.md) | 17 |
 

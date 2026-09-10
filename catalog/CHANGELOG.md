@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `f540ff9de6`
+
+**Added (1):** [MemeStash](https://github.com/raycast/extensions/tree/main/extensions/memestash)
+
 ## 2026-09-10 — upstream `16b6335222`
 
 **Updated (1):** [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast)

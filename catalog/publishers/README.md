@@ -1,6 +1,6 @@
 # Publishers
 
-2186 publishers · [← catalog index](../README.md)
+2187 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,179,157 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,179,166 |
 | 2 | [raycast](./id/raycast.md) | 11 | 835,307 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,580 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 525,941 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,586 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 525,946 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 460,551 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 455,734 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 427,417 |
@@ -25,7 +25,7 @@
 | 15 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 246,930 |
 | 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 226,745 |
 | 17 | [destiner](https://www.raycast.com/destiner) | 9 | 218,910 |
-| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 194,670 |
+| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 194,742 |
 | 19 | [mblode](https://www.raycast.com/mblode) | 5 | 191,716 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 175,455 |
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 173,949 |
@@ -2190,7 +2190,8 @@
 | 2180 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2181 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2182 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
-| 2183 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2184 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2185 | github-next | 2 | — |
-| 2186 | multi | 1 | — |
+| 2183 | [LunarRed](https://www.raycast.com/LunarRed) | 1 | 0 |
+| 2184 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2185 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2186 | github-next | 2 | — |
+| 2187 | multi | 1 | — |

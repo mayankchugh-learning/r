@@ -1,6 +1,6 @@
 # Publishers
 
-2186 publishers · [← catalog index](../README.md)
+2187 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 158,142 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,029 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,664 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,179,157 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,179,166 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 313,982 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,395 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 427,417 |
@@ -170,7 +170,7 @@
 | 160 | [wdeu](https://www.raycast.com/wdeu) | 3 | 34 |
 | 161 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 248,114 |
 | 162 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 246,930 |
-| 163 | [mooxl](https://www.raycast.com/mooxl) | 2 | 194,670 |
+| 163 | [mooxl](https://www.raycast.com/mooxl) | 2 | 194,742 |
 | 164 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 175,455 |
 | 165 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 160,125 |
 | 166 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 108,296 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 9 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,580 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 525,941 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 708,586 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 525,946 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 367,388 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 306,442 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 269,270 |
@@ -2191,6 +2191,7 @@
 | 2181 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2182 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2183 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 0 |
-| 2184 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2185 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2186 | multi | 1 | — |
+| 2184 | [LunarRed](https://www.raycast.com/LunarRed) | 1 | 0 |
+| 2185 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2186 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2187 | multi | 1 | — |

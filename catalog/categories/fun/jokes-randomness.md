@@ -1,8 +1,8 @@
 # Jokes & Randomness
 
-29 extensions · [← Fun](./README.md)
+30 extensions · [← Fun](./README.md)
 
-[Random ✦](#random) (13) · [Facts ✦](#facts) (4) · [General](#general) (12)
+[Random ✦](#random) (13) · [Facts ✦](#facts) (4) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
@@ -49,3 +49,4 @@
 | [The Lord of the Rings](https://github.com/raycast/extensions/tree/main/extensions/lotr) | 94 | Books, Characters, Movies and Quotes via The One API | xmok | macOS | [store](https://www.raycast.com/xmok/lotr) |
 | [40 Questions - Yearly Reflection](https://github.com/raycast/extensions/tree/main/extensions/40-questions) | 81 | Questions to ask yourself at the end of each year | dnnsmnstrr | macOS, Windows | [store](https://www.raycast.com/dnnsmnstrr/40-questions) |
 | [Tabletop Dice Roller](https://github.com/raycast/extensions/tree/main/extensions/tabletop-dice-roller) | 57 | Quickly roll a set of dice. | sam_duemler | macOS, Windows | [store](https://www.raycast.com/sam_duemler/tabletop-dice-roller) |
+| [MemeStash](https://github.com/raycast/extensions/tree/main/extensions/memestash) | 0 | Search a curated library of images and memes and paste the one you pick into the frontmost app. | LunarRed | macOS | [store](https://www.raycast.com/LunarRed/memestash) |

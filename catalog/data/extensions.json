@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "16b63352224aa1bd0f85f593c127f6fd0ea705b8",
-  "generatedAt": "2026-09-10T20:24:30.679Z",
-  "downloadsRefreshedAt": "2026-09-10T20:24:30.249Z",
-  "count": 3271,
+  "commit": "f540ff9de6d514c55473d79a01b5c357900f5b27",
+  "generatedAt": "2026-09-10T20:26:51.851Z",
+  "downloadsRefreshedAt": "2026-09-10T20:26:51.207Z",
+  "count": 3272,
   "extensions": [
     {
       "dir": "0x0",
@@ -9999,7 +9999,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 549831
+      "downloads": 549840
     },
     {
       "dir": "color-shades",
@@ -13069,7 +13069,7 @@
       "store": "https://www.raycast.com/mooxl/deepcast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/deepcast",
       "treeSha": "9fa2d65e10947c2bd356afba6dd9a6d174daddde",
-      "downloads": 59638
+      "downloads": 59710
     },
     {
       "dir": "deepl-api-usage",
@@ -22436,7 +22436,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 525941
+      "downloads": 525946
     },
     {
       "dir": "google-chrome-profiles",
@@ -28800,7 +28800,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 708580
+      "downloads": 708586
     },
     {
       "dir": "kimai",
@@ -33827,6 +33827,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/meme-generator",
       "treeSha": "8b5d862ea68bd57e7bf864dbebc47d7fcba46159",
       "downloads": 14378
+    },
+    {
+      "dir": "memestash",
+      "name": "memestash",
+      "title": "MemeStash",
+      "description": "Search a curated library of images and memes and paste the one you pick into the frontmost app.",
+      "author": "LunarRed",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Fun"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/LunarRed/memestash",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/memestash",
+      "treeSha": "72f874ae7cce1cbdcb94b1b60c7f0daf57ecde04",
+      "downloads": 0
     },
     {
       "dir": "memo",
