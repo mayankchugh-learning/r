@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `9afb4b8e8e`
+
+**Updated (1):** [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt)
+
 ## 2026-09-09 — upstream `17a6a8af5b`
 
 **Updated (1):** [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox)

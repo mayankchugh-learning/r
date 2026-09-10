@@ -1,21 +1,21 @@
 # kud
 
-13 extensions · 6,622 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
+13 extensions · 6,652 downloads · [store](https://www.raycast.com/kud) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,076 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
-| [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 508 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
+| [LocalSend](https://github.com/raycast/extensions/tree/main/extensions/localsend) | 2,082 | Share files to nearby devices using LocalSend protocol | kud | macOS, Windows | [store](https://www.raycast.com/kud/localsend) |
+| [VLC](https://github.com/raycast/extensions/tree/main/extensions/vlc) | 510 | Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires V… | kud | macOS | [store](https://www.raycast.com/kud/vlc) |
 
 ## Developer Tools (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [1 LOC - JavaScript Utilities in Single Line of Code](https://github.com/raycast/extensions/tree/main/extensions/1loc) | 1,540 | Browse JavaScript Utilities from 1loc.dev | kud | macOS | [store](https://www.raycast.com/kud/1loc) |
-| [Nerd Font Picker](https://github.com/raycast/extensions/tree/main/extensions/nerd-font-picker) | 158 | Browse and copy Nerd Font glyphs from your installed fonts | kud | macOS | [store](https://www.raycast.com/kud/nerd-font-picker) |
-| [ThermoConvert](https://github.com/raycast/extensions/tree/main/extensions/thermo-convert) | 62 | Instantly convert between all major temperature scales | kud | macOS, Windows | [store](https://www.raycast.com/kud/thermoconvert) |
+| [1 LOC - JavaScript Utilities in Single Line of Code](https://github.com/raycast/extensions/tree/main/extensions/1loc) | 1,546 | Browse JavaScript Utilities from 1loc.dev | kud | macOS | [store](https://www.raycast.com/kud/1loc) |
+| [Nerd Font Picker](https://github.com/raycast/extensions/tree/main/extensions/nerd-font-picker) | 160 | Browse and copy Nerd Font glyphs from your installed fonts | kud | macOS | [store](https://www.raycast.com/kud/nerd-font-picker) |
+| [ThermoConvert](https://github.com/raycast/extensions/tree/main/extensions/thermo-convert) | 64 | Instantly convert between all major temperature scales | kud | macOS, Windows | [store](https://www.raycast.com/kud/thermoconvert) |
 | [Gandi](https://github.com/raycast/extensions/tree/main/extensions/gandi) | 41 | Manage your Gandi domains, DNS records, and check domain availability | kud | macOS | [store](https://www.raycast.com/kud/gandi) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |
 
@@ -23,19 +23,19 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,497 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
+| [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,506 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
 
 ## Design Tools (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Whimsical](https://github.com/raycast/extensions/tree/main/extensions/whimsical) | 530 | Transform ideas into beautiful diagrams using AI. Automatically generates flowcharts, mindmaps, and sequence diagrams from natural language descriptions. | kud | macOS | [store](https://www.raycast.com/kud/whimsical) |
+| [Whimsical](https://github.com/raycast/extensions/tree/main/extensions/whimsical) | 532 | Transform ideas into beautiful diagrams using AI. Automatically generates flowcharts, mindmaps, and sequence diagrams from natural language descriptions. | kud | macOS | [store](https://www.raycast.com/kud/whimsical) |
 
 ## Other (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [UK Bank Holidays](https://github.com/raycast/extensions/tree/main/extensions/uk-bank-holidays) | 136 | Display the upcoming bank holiday information for England and Wales. | kud | macOS | [store](https://www.raycast.com/kud/uk-bank-holidays) |
+| [UK Bank Holidays](https://github.com/raycast/extensions/tree/main/extensions/uk-bank-holidays) | 137 | Display the upcoming bank holiday information for England and Wales. | kud | macOS | [store](https://www.raycast.com/kud/uk-bank-holidays) |
 
 ## Media (1)
 
