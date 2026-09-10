@@ -80,7 +80,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 56 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,804 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 524,046 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 524,404 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,421 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 122 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 720 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |
@@ -124,5 +124,5 @@
 | [cupcakearmy](https://www.raycast.com/cupcakearmy) | 2 | 353 | **Security:** [cryptgeon](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon)<br>**Productivity:** [Solidtime](https://github.com/raycast/extensions/tree/main/extensions/solidtime) |
 | [cyberistic](https://www.raycast.com/cyberistic) | 1 | 79 | **System:** [Fake Typing Effect](https://github.com/raycast/extensions/tree/main/extensions/fake-typing-effect) |
 | [cyxn](https://www.raycast.com/cyxn) | 3 | 2,879 | **Productivity:** [Query ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/query-chatgpt), [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands), [Sage HR](https://github.com/raycast/extensions/tree/main/extensions/sage-hr) |
-| [CzBiX](https://www.raycast.com/CzBiX) | 1 | 1,214 | **Developer Tools:** [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) |
+| [CzBiX](https://www.raycast.com/CzBiX) | 1 | 1,218 | **Developer Tools:** [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) |
 | [czottmann](https://www.raycast.com/czottmann) | 1 | 106 | **Applications:** [BarCuts Companion](https://github.com/raycast/extensions/tree/main/extensions/barcuts-companion) |

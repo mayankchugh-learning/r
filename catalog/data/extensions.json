@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4c6dba0d1e05bd17a65616741ce2ce00d2a94c16",
-  "generatedAt": "2026-09-10T12:17:22.479Z",
-  "downloadsRefreshedAt": "2026-09-10T11:54:00.257Z",
+  "commit": "fc45c615171bd2e38f435107dd22c4b0d7073201",
+  "generatedAt": "2026-09-10T13:43:55.223Z",
+  "downloadsRefreshedAt": "2026-09-10T13:43:54.527Z",
   "count": 3271,
   "extensions": [
     {
@@ -9999,7 +9999,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 546608
+      "downloads": 547225
     },
     {
       "dir": "color-shades",
@@ -21075,7 +21075,7 @@
       "store": "https://www.raycast.com/jarry_chung/ghostty",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ghostty",
       "treeSha": "1bd00859b10e220d61570b87fe1c187ee0364907",
-      "downloads": null
+      "downloads": 15155
     },
     {
       "dir": "ghq",
@@ -22436,7 +22436,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 524046
+      "downloads": 524404
     },
     {
       "dir": "google-chrome-profiles",
@@ -28800,7 +28800,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 705480
+      "downloads": 706040
     },
     {
       "dir": "kimai",
@@ -45212,8 +45212,8 @@
       ],
       "store": "https://www.raycast.com/CzBiX/proxmox",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/proxmox",
-      "treeSha": "d68349682724e10a01fb4e6376fe93fa0cc82b20",
-      "downloads": 1214
+      "treeSha": "a5dd2051f22b4cba0ac0e6458c05547907151c52",
+      "downloads": 1218
     },
     {
       "dir": "proxyman",
