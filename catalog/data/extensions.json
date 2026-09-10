@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ab755b76a14ddac299332ec966fbd7a654a0837a",
-  "generatedAt": "2026-09-10T11:54:01.188Z",
+  "commit": "4c6dba0d1e05bd17a65616741ce2ce00d2a94c16",
+  "generatedAt": "2026-09-10T12:17:22.479Z",
   "downloadsRefreshedAt": "2026-09-10T11:54:00.257Z",
   "count": 3271,
   "extensions": [
@@ -21074,8 +21074,8 @@
       ],
       "store": "https://www.raycast.com/jarry_chung/ghostty",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ghostty",
-      "treeSha": "309e824fd74945d2033a0f181ec8ba7442704a98",
-      "downloads": 15078
+      "treeSha": "1bd00859b10e220d61570b87fe1c187ee0364907",
+      "downloads": null
     },
     {
       "dir": "ghq",

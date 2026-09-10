@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `4c6dba0d1e`
+
+**Updated (1):** [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty)
+
 ## 2026-09-10 — upstream `ab755b76a1`
 
 **Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
