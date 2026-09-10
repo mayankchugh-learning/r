@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `16b6335222`
+
+**Updated (1):** [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast)
+
 ## 2026-09-10 — upstream `0eae02c4a0`
 
 **Updated (1):** [Yopass](https://github.com/raycast/extensions/tree/main/extensions/yopass)
