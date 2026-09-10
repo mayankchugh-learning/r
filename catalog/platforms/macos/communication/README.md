@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 305,595 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 306,442 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 50,256 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
 | [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 47,994 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
 | [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 19,063 | Manage your Microsoft Teams presence and status message. Search for people and chats, open conversations, and start calls. | sven | macOS, Windows | [store](https://www.raycast.com/sven/microsoft-teams) |

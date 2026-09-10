@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `94df0dc192`
+
+**Updated (1):** [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)
+
 ## 2026-09-10 — upstream `f7cf892382`
 
 **Updated (1):** [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack)

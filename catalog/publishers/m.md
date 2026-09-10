@@ -143,7 +143,7 @@
 | [moinulmoin](https://www.raycast.com/moinulmoin) | 1 | 33 | **Developer Tools:** [Threadlens](https://github.com/raycast/extensions/tree/main/extensions/threadlens) |
 | [moisesrj97](https://www.raycast.com/moisesrj97) | 1 | 19 | **Applications:** [Gomander](https://github.com/raycast/extensions/tree/main/extensions/gomander) |
 | [Mokkapps](https://www.raycast.com/Mokkapps) | 1 | 1,788 | **Developer Tools:** [CodeSnap](https://github.com/raycast/extensions/tree/main/extensions/codesnap) |
-| [mommertf](https://www.raycast.com/mommertf) | 1 | 305,595 | **Communication:** [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) |
+| [mommertf](https://www.raycast.com/mommertf) | 1 | 306,442 | **Communication:** [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) |
 | [monfortegg](https://www.raycast.com/monfortegg) | 1 | 269 | **Productivity:** [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) |
 | [monvelasquez](https://www.raycast.com/monvelasquez) | 1 | 591 | **Finance:** [Summation - Sum Calculator](https://github.com/raycast/extensions/tree/main/extensions/summation) |
 | [moored](https://www.raycast.com/moored) | 1 | 27,632 | **Developer Tools:** [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) |
