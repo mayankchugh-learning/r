@@ -32,7 +32,7 @@
 | [cdeligny](https://www.raycast.com/cdeligny) | 1 | 103 | **Productivity:** [AI Usage Tracker](https://github.com/raycast/extensions/tree/main/extensions/ai-usage-tracker) |
 | [cfeigenbutz](https://www.raycast.com/cfeigenbutz) | 1 | 36 | **Productivity:** [Ready](https://github.com/raycast/extensions/tree/main/extensions/readymetrics) |
 | [chad_ashley](https://www.raycast.com/chad_ashley) | 2 | 80 | **Design Tools:** [HDRI Library](https://github.com/raycast/extensions/tree/main/extensions/hdri-library), [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) |
-| [chad_walters](https://www.raycast.com/chad_walters) | 2 | 265 | **Applications:** [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck)<br>**Developer Tools:** [Prusa Printer Control](https://github.com/raycast/extensions/tree/main/extensions/prusa) |
+| [chad_walters](https://www.raycast.com/chad_walters) | 1 | 79 | **Developer Tools:** [Prusa Printer Control](https://github.com/raycast/extensions/tree/main/extensions/prusa) |
 | [chanceaclark](https://www.raycast.com/chanceaclark) | 1 | 499 | **System:** [Empty Screenshot Folder](https://github.com/raycast/extensions/tree/main/extensions/empty-screenshots) |
 | [chandlervdw](https://www.raycast.com/chandlervdw) | 2 | 177 | **Productivity:** [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist)<br>**Media:** [Harmonic](https://github.com/raycast/extensions/tree/main/extensions/harmonic) |
 | [changxu_song](https://www.raycast.com/changxu_song) | 1 | 27 | **System:** [App Freezer](https://github.com/raycast/extensions/tree/main/extensions/appfreezer) |
@@ -80,7 +80,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 56 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,804 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 523,273 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 523,275 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,421 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 122 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 720 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |

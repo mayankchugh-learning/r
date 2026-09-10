@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "248327e2e5edf04d38e533f353104eb6fbfc2952",
-  "generatedAt": "2026-09-10T07:31:19.725Z",
-  "downloadsRefreshedAt": "2026-09-10T07:31:18.988Z",
+  "commit": "2ef1d9ef5bc56026112c725eb05c7c76b8c179de",
+  "generatedAt": "2026-09-10T07:32:19.248Z",
+  "downloadsRefreshedAt": "2026-09-10T07:32:18.345Z",
   "count": 3271,
   "extensions": [
     {
@@ -9999,7 +9999,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 545314
+      "downloads": 545320
     },
     {
       "dir": "color-shades",
@@ -22436,7 +22436,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 523273
+      "downloads": 523275
     },
     {
       "dir": "google-chrome-profiles",
@@ -28800,7 +28800,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 704231
+      "downloads": 704236
     },
     {
       "dir": "kimai",
@@ -36308,8 +36308,8 @@
       "name": "mutedeck",
       "title": "MuteDeck",
       "description": "Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid.",
-      "author": "chad_walters",
-      "owner": null,
+      "author": "smitmartijn",
+      "owner": "mutedeck",
       "contributors": 1,
       "categories": [
         "Applications",
@@ -36322,7 +36322,7 @@
       ],
       "store": "https://www.raycast.com/chad_walters/mutedeck",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mutedeck",
-      "treeSha": "5bf512404638e64005e78f387823a9944f395598",
+      "treeSha": "77a619340a72a64cfd0eb4421cdac3bea2e941bc",
       "downloads": 186
     },
     {

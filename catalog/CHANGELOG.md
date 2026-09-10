@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-10 — upstream `2ef1d9ef5b`
+
+**Updated (1):** [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck)
+
 ## 2026-09-10 — upstream `248327e2e5`
 
 **Updated (1):** [LaunchDarkly](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly)
