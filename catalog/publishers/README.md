@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,192,610 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,192,629 |
 | 2 | [raycast](./id/raycast.md) | 11 | 844,386 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 715,685 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 530,312 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 715,700 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 530,328 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 464,692 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 460,144 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 431,354 |
@@ -30,7 +30,7 @@
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 177,112 |
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 175,477 |
 | 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 161,853 |
-| 23 | [Aayush9029](./id/aayush9029.md) | 16 | 159,619 |
+| 23 | [Aayush9029](./id/aayush9029.md) | 16 | 159,745 |
 | 24 | [loris](https://www.raycast.com/loris) | 6 | 131,361 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 114,127 |
 | 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 112,010 |
@@ -138,7 +138,7 @@
 | 128 | [k8scat](https://www.raycast.com/k8scat) | 6 | 15,471 |
 | 129 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 15,247 |
 | 130 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 14,981 |
-| 131 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 14,782 |
+| 131 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 14,800 |
 | 132 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 14,695 |
 | 133 | [tbrown](https://www.raycast.com/tbrown) | 1 | 14,517 |
 | 134 | [frouo](https://www.raycast.com/frouo) | 1 | 14,356 |
@@ -169,7 +169,7 @@
 | 159 | [dimagrossman](https://www.raycast.com/dimagrossman) | 2 | 11,084 |
 | 160 | [MisakiCoca](https://www.raycast.com/MisakiCoca) | 1 | 10,882 |
 | 161 | [jffrykkn](https://www.raycast.com/jffrykkn) | 1 | 10,841 |
-| 162 | [elliotdes](https://www.raycast.com/elliotdes) | 1 | 10,645 |
+| 162 | [elliotdes](https://www.raycast.com/elliotdes) | 1 | 10,655 |
 | 163 | [j3lte](./id/j3lte.md) | 13 | 10,583 |
 | 164 | [Falcon](https://www.raycast.com/Falcon) | 2 | 10,545 |
 | 165 | [github](https://www.raycast.com/github) | 1 | 10,430 |
@@ -2197,16 +2197,16 @@
 | 2187 | [leeron](https://www.raycast.com/leeron) | 1 | 1 |
 | 2188 | [lyager](https://www.raycast.com/lyager) | 1 | 1 |
 | 2189 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 1 |
-| 2190 | [omer_aydemir](https://www.raycast.com/omer_aydemir) | 1 | 1 |
-| 2191 | [rogovk](https://www.raycast.com/rogovk) | 1 | 1 |
-| 2192 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 1 |
-| 2193 | [smry](https://www.raycast.com/smry) | 1 | 1 |
-| 2194 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
-| 2195 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2196 | [carlosaguado04](https://www.raycast.com/carlosaguado04) | 1 | 0 |
-| 2197 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2198 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2199 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2190 | [rogovk](https://www.raycast.com/rogovk) | 1 | 1 |
+| 2191 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 1 |
+| 2192 | [smry](https://www.raycast.com/smry) | 1 | 1 |
+| 2193 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
+| 2194 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
+| 2195 | [carlosaguado04](https://www.raycast.com/carlosaguado04) | 1 | 0 |
+| 2196 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2197 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2198 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2199 | [omer_aydemir](https://www.raycast.com/omer_aydemir) | 1 | 0 |
 | 2200 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2201 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
 | 2202 | github-next | 2 | — |

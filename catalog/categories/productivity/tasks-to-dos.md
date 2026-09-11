@@ -1,8 +1,8 @@
 # Tasks & To-Dos
 
-51 extensions · [← Productivity](./README.md)
+50 extensions · [← Productivity](./README.md)
 
-[Tasks ✦](#tasks) (38) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
+[Tasks ✦](#tasks) (37) · [Reminders ✦](#reminders) (5) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -12,7 +12,6 @@
 | --- | --- | --- | --- | --- | --- |
 | [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 90,587 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
 | [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) | 23,293 | Check and search tasks in TickTick via Raycast | appest | macOS | [store](https://www.raycast.com/appest/ticktick) |
-| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,645 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
 | [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,973 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup) | 8,870 | Browse ClickUp tasks and docs from Raycast | aparandeh | macOS | [store](https://www.raycast.com/aparandeh/manage-clickup-tasks) |
 | [Height](https://github.com/raycast/extensions/tree/main/extensions/height) | 876 | Search, create and manage tasks and lists in Height directly from Raycast. | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/height) |

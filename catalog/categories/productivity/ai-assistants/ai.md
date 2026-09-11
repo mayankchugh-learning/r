@@ -1,8 +1,8 @@
 # AI ✦
 
-99 extensions · [← AI & Assistants](./README.md)
+100 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (9) · [Openai ✦](#openai) (7) · [Chat ✦](#chat) (6) · [Prompts ✦](#prompts) (4) · [Questions ✦](#questions) (5) · [General](#general) (52)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (9) · [Openai ✦](#openai) (7) · [Chat ✦](#chat) (6) · [Ask ✦](#ask) (5) · [Prompts ✦](#prompts) (4) · [General](#general) (53)
 
 *✦ auto-discovered topic group*
 
@@ -64,6 +64,16 @@
 | [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 272 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
 | [Parachord](https://github.com/raycast/extensions/tree/main/extensions/parachord) | 31 | Control Parachord music player - play, pause, skip, search, and chat with the AI DJ | parachord | macOS | [store](https://www.raycast.com/parachord/parachord) |
 
+## Ask ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,655 | Manage Google Tasks from Raycast, and ask Raycast AI about them. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 2,061 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
+| [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 850 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
+| [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 32 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
+| [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 9 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
+
 ## Prompts ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -72,16 +82,6 @@
 | [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder) | 2,933 | Prompt Builder helps you craft clear, consistent AI prompts through a simple form. Define roles, tone, audience, and constraints to get better results faster.… | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/prompt-builder) |
 | [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,533 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
 | [PromptNote](https://github.com/raycast/extensions/tree/main/extensions/promptnote) | 163 | Manage your AI prompts with versioning and cloud sync | dimpurr | macOS | [store](https://www.raycast.com/dimpurr/promptnote) |
-
-## Questions ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 2,061 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
-| [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) | 349 | Get quick answers to your quick questions with the power of AI with this free extension. | vaibhav_sisodiya | macOS | [store](https://www.raycast.com/Vaib215/vaib) |
-| [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask) | 198 | Get instant AI answers for your questions. | renzo | macOS | [store](https://www.raycast.com/renzo/snapask) |
-| [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 32 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
-| [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 9 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
 
 ## General
 
@@ -100,7 +100,6 @@
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,516 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,104 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
 | [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 1,054 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
-| [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 850 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
 | [AI Git Assistant](https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant) | 800 | Your personal AI assistant for Git commit operations such as generating commit messages and PR descriptions | popalay | macOS | [store](https://www.raycast.com/popalay/ai-git-assistant) |
 | [Mistral](https://github.com/raycast/extensions/tree/main/extensions/mistral) | 763 | An unofficial extension to use Mistral AI from Raycast | colinlienard | macOS | [store](https://www.raycast.com/colinlienard/mistral) |
 | [Stablecog](https://github.com/raycast/extensions/tree/main/extensions/stablecog) | 748 | Create amazing art in seconds with AI. Generate and upscale images with Stablecog. | stablecog (org) | macOS | [store](https://www.raycast.com/stablecog/stablecog) |
@@ -111,12 +110,14 @@
 | [Spiceblow - Sql Database Management](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) | 400 | Search, update, insert and delete rows in your Sql database, deeply integrated with AI | xmorse | macOS | [store](https://www.raycast.com/xmorse/spiceblow-database) |
 | [Chatwith](https://github.com/raycast/extensions/tree/main/extensions/chatwith) | 392 | AI chatbot trained on your data and with access to automations. | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/chatwith) |
 | [BibiGPT AI Summarize Audio and Video](https://github.com/raycast/extensions/tree/main/extensions/bibigpt-summarize-audiovideo-with-ai) | 367 | Simplify media summarization with the BibiGPT-Summarize-AudioVideo-with-AI plugin for Raycast. Effortlessly create summaries via BibiGPT API, enhancing efficie… | skyline-123 | macOS | [store](https://www.raycast.com/skyline-123/bibigpt-summarize-audiovideo-with-ai) |
+| [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) | 349 | Get quick answers to your quick questions with the power of AI with this free extension. | vaibhav_sisodiya | macOS | [store](https://www.raycast.com/Vaib215/vaib) |
 | [Project Code to Text](https://github.com/raycast/extensions/tree/main/extensions/project-code-to-text) | 346 | Consolidates project source code, structure, and metadata into a single text file optimized for AI analysis or archiving. | borzov | macOS | [store](https://www.raycast.com/borzov/project-code-to-text) |
 | [Cerebras](https://github.com/raycast/extensions/tree/main/extensions/cerebras) | 326 | Bring Instant AI Inference to Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/cerebras) |
 | [Kimi](https://github.com/raycast/extensions/tree/main/extensions/kimi) | 270 | Interact with Moonshot AI's Kimi LLM directly from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/kimi) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 247 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 | [Translate and Send Webpage to Reader](https://github.com/raycast/extensions/tree/main/extensions/translate-send-webpage-to-reader) | 240 | Fetch the content of the active webpage, translate using Raycast AI, and save to Reader Later. visite https://readwise.io/access_token to get readwise token | jasonjiong | macOS | [store](https://www.raycast.com/jasonjiong/translate-send-webpage-to-reader) |
 | [Coze](https://github.com/raycast/extensions/tree/main/extensions/coze) | 220 | Coze is an AI assistant that can help you with various tasks, including writing, translation, and coding. This extension allows you to use Coze directly in Ray… | chyroc | macOS | [store](https://www.raycast.com/chyroc/coze) |
+| [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask) | 198 | Get instant AI answers for your questions. | renzo | macOS | [store](https://www.raycast.com/renzo/snapask) |
 | [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) | 183 | Search and manage Manus AI tasks | KthKuang | macOS, Windows | [store](https://www.raycast.com/KthKuang/manus) |
 | [Text Enhance](https://github.com/raycast/extensions/tree/main/extensions/text-enhance) | 182 | Enhance drafts with Raycast AI, copy the improved result to the clipboard, and iterate with follow-up corrections. | max13021302 | macOS | [store](https://www.raycast.com/max13021302/text-enhance) |
 | [Penflow AI](https://github.com/raycast/extensions/tree/main/extensions/penflow-ai) | 153 | Think & Write in English, Not your First Language (for Chinese now) | Fchen | macOS | [store](https://www.raycast.com/Fchen/penflow-ai) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `7b9d168e22`
+
+**Updated (1):** [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks)
+
 ## 2026-09-11 — upstream `014d0209b2`
 
 **Updated (1):** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)

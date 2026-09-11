@@ -68,7 +68,7 @@
 | [Francescoparadiso](https://www.raycast.com/Francescoparadiso) | 1 | 32 | **Productivity:** [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) |
 | [Francois](https://www.raycast.com/Francois) | 3 | 5,441 | **Developer Tools:** [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket), [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana)<br>**Applications:** [LiteLLM](https://github.com/raycast/extensions/tree/main/extensions/litellm) |
 | [frank-miao](https://www.raycast.com/frank-miao) | 1 | 5 | **Documentation:** [Lattice Scholar Extension](https://github.com/raycast/extensions/tree/main/extensions/lattice-scholar-extension) |
-| [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 14,782 | **Productivity:** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)<br>**Web:** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router) |
+| [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 14,800 | **Productivity:** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)<br>**Web:** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router) |
 | [fratoro](https://www.raycast.com/fratoro) | 1 | 54 | **Web:** [Hakuna](https://github.com/raycast/extensions/tree/main/extensions/hakuna) |
 | [freak4pc](https://www.raycast.com/freak4pc) | 1 | 1,778 | **Productivity:** [monday.com](https://github.com/raycast/extensions/tree/main/extensions/monday) |
 | [Freaktion](https://www.raycast.com/freaktion) | 1 | 12 | **Developer Tools:** [BlurHash](https://github.com/raycast/extensions/tree/main/extensions/blurhash) |
