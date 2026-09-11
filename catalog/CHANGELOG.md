@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `f68ff74c01`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-09-11 — upstream `fe4fc03eb5`
 
 **Updated (1):** [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder)
