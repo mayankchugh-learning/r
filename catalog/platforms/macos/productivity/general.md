@@ -398,7 +398,7 @@
 | [Wemo](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) | 62 | Control your Wemo devices from Raycast | iamnatch | macOS | [store](https://www.raycast.com/iamnatch/raycast-wemo) |
 | [Growthbook](https://github.com/raycast/extensions/tree/main/extensions/growthbook) | 61 | View Growthbook feature flags | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/growthbook) |
 | [WordPress Manager](https://github.com/raycast/extensions/tree/main/extensions/wordpress-manager) | 61 | Manage your WordPress site directly from Raycast. Create posts, moderate comments, manage plugins, and more. | gaurav_tiwari | macOS | [store](https://www.raycast.com/gaurav_tiwari/wordpress-manager) |
-| [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) | 59 | Run qalc calculator with Raycast | vlad2305m | macOS | [store](https://www.raycast.com/vlad2305m/qalc) |
+| [Qalccast - CLI Calculator](https://github.com/raycast/extensions/tree/main/extensions/qalc) | 59 | Run qalc calculator with Raycast | vlad2305m | macOS, Windows | [store](https://www.raycast.com/vlad2305m/qalc) |
 | [Flypy Code Query](https://github.com/raycast/extensions/tree/main/extensions/flypy-code-query) | 58 | Query Flypy(Xiaohe Double-Pin) Code | absir1949 | macOS | [store](https://www.raycast.com/absir1949/flypy) |
 | [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) | 58 | Control Nature Remo right from Raycast. | uetchy | macOS | [store](https://www.raycast.com/uetchy/nature-remo) |
 | [Curator Bio](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) | 57 | Control your curator.bio account from Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/curator-bio) |

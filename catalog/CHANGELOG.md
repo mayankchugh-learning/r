@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `2e74a594e3`
+
+**Updated (1):** [Qalccast - CLI Calculator](https://github.com/raycast/extensions/tree/main/extensions/qalc)
+
 ## 2026-09-11 — upstream `6d92c5e984`
 
 **Updated (1):** [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx)

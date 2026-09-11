@@ -39,8 +39,8 @@
 | [ownCloud](https://github.com/raycast/extensions/tree/main/extensions/owncloud) | 39 | share files and folders, easy and secure | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/owncloud) |
 | [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) | 32 | Browse link folders and open all links at once, like a browser favorites bar. | Francescoparadiso | macOS, Windows | [store](https://www.raycast.com/Francescoparadiso/links-folder) |
 | [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 7 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/dated-folder) |
-| [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope) | 1 | Search the contents of files in your active Finder folder or any folder you select. | omer_aydemir | macOS | [store](https://www.raycast.com/omer_aydemir/folder-scope) |
 | [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders) | 1 | Browse creative project folders and jump to Asana, Google Drive, and Frame.io links. | hugini | macOS | [store](https://www.raycast.com/hugini/project-folders) |
+| [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope) | 0 | Search the contents of files in your active Finder folder or any folder you select. | omer_aydemir | macOS | [store](https://www.raycast.com/omer_aydemir/folder-scope) |
 
 ## Documents ✦
 

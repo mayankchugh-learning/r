@@ -36,7 +36,7 @@
 | [vivgui](https://www.raycast.com/vivgui) | 1 | 114 | **Productivity:** [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) |
 | [vixaidev](https://www.raycast.com/vixaidev) | 1 | 18 | **Uncategorized:** [Vixai](https://github.com/raycast/extensions/tree/main/extensions/vixai) |
 | [vkhitrin](https://www.raycast.com/vkhitrin) | 1 | 90 | **Developer Tools:** [Gerrit Code Review](https://github.com/raycast/extensions/tree/main/extensions/gerrit-code-review) |
-| [vlad2305m](https://www.raycast.com/vlad2305m) | 1 | 59 | **Data:** [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) |
+| [vlad2305m](https://www.raycast.com/vlad2305m) | 1 | 59 | **Data:** [Qalccast - CLI Calculator](https://github.com/raycast/extensions/tree/main/extensions/qalc) |
 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 54,801 | **Productivity:** [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) |
 | [vlades](https://www.raycast.com/vlades) | 1 | 742 | **Developer Tools:** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) |
 | [vladimir-kotikov](https://www.raycast.com/vladimir-kotikov) | 1 | 608 | **Applications:** [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) |

@@ -48,7 +48,7 @@
 | [xid](https://github.com/raycast/extensions/tree/main/extensions/xid) | 67 | Quickly create an xid from Raycast. | rosszurowski | macOS | [store](https://www.raycast.com/rosszurowski/xid) |
 | [Umami](https://github.com/raycast/extensions/tree/main/extensions/umami) | 64 | The modern analytics platform for effortless insights | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/umami) |
 | [ONES](https://github.com/raycast/extensions/tree/main/extensions/ones) | 63 | Raycast Extension for ONES | k8scat | macOS | [store](https://www.raycast.com/k8scat/ones) |
-| [Qalccast](https://github.com/raycast/extensions/tree/main/extensions/qalc) | 59 | Run qalc calculator with Raycast | vlad2305m | macOS | [store](https://www.raycast.com/vlad2305m/qalc) |
+| [Qalccast - CLI Calculator](https://github.com/raycast/extensions/tree/main/extensions/qalc) | 59 | Run qalc calculator with Raycast | vlad2305m | macOS, Windows | [store](https://www.raycast.com/vlad2305m/qalc) |
 | [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) | 56 | A Raycast extension that looks up companies in the Swiss national trade register | cmdr | macOS | [store](https://www.raycast.com/cmdr/zefix) |
 | [Mixpanel](https://github.com/raycast/extensions/tree/main/extensions/mixpanel) | 54 | Collection of handful handles for Mixpanel | iamsmaso | macOS | [store](https://www.raycast.com/iamsmaso/mixpanel) |
 | [Open Targets](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) | 44 | An (unofficial) entry point to the Open Targets ecosystem. | ireneisdoomed | macOS | [store](https://www.raycast.com/ireneisdoomed/open_targets) |
