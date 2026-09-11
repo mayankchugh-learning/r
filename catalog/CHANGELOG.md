@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `979c010042`
+
+**Updated (1):** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr)
+
 ## 2026-09-11 — upstream `562b6e26e3`
 
 **Added (1):** [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope)
