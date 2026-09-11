@@ -1,6 +1,6 @@
 # Publishers
 
-2195 publishers · [← catalog index](../README.md)
+2196 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 158,808 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,060 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,678 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,185,294 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,185,311 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 315,365 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,469 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 429,250 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 9 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,854 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 528,073 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,869 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 528,084 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 369,093 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 307,300 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 270,557 |
@@ -2202,4 +2202,5 @@
 | 2192 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 0 |
 | 2193 | [rogovk](https://www.raycast.com/rogovk) | 1 | 0 |
 | 2194 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2195 | multi | 1 | — |
+| 2195 | amir01 | 1 | — |
+| 2196 | multi | 1 | — |

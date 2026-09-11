@@ -1,6 +1,6 @@
 # Publishers
 
-2195 publishers · [← catalog index](../README.md)
+2196 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,185,294 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,185,311 |
 | 2 | [raycast](./id/raycast.md) | 11 | 839,739 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,854 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 528,073 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,869 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 528,084 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 462,357 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 457,677 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 429,250 |
@@ -2202,4 +2202,5 @@
 | 2192 | [rogovk](https://www.raycast.com/rogovk) | 1 | 0 |
 | 2193 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2194 | github-next | 2 | — |
-| 2195 | multi | 1 | — |
+| 2195 | amir01 | 1 | — |
+| 2196 | multi | 1 | — |

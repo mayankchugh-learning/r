@@ -1,8 +1,8 @@
 # macOS · Communication
 
-152 extensions · [← macOS](../README.md)
+153 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (23) · [Social & Fediverse](#social-fediverse) (10) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (55)
+[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (16) · [Email](#email) (23) · [Social & Fediverse](#social-fediverse) (10) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (55)
 
 ## Conversations
 
@@ -59,6 +59,7 @@
 | [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 41 | Browse and call contacts, control your active call, and search transcripts from your Tuple pair programming sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
 | [Yandex Telemost](https://github.com/raycast/extensions/tree/main/extensions/yandex-telemost) | 24 | Create and join Yandex Telemost meetings directly from Raycast. Requires macOS — uses AppleScript to automate your browser. | egor_chuzhin | macOS | [store](https://www.raycast.com/egor_chuzhin/yandex-telemost) |
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | 7 | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |
+| [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) | — | Call anyone in your Contacts through your iPhone in two keystrokes via macOS Continuity. | amir01 | macOS | — |
 
 ### Email
 

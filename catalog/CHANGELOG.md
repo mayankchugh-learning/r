@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `e5fe3aae8b`
+
+**Added (1):** [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone)
+
 ## 2026-09-11 — upstream `ec1dae072c`
 
 **Added (1):** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search)

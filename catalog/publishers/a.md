@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-193 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+194 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -107,6 +107,7 @@
 | [alvinkobe](https://www.raycast.com/alvinkobe) | 1 | 274 | **Web:** [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na) |
 | [amanvarshney01](https://www.raycast.com/amanvarshney01) | 1 | 111 | **Developer Tools:** [Prisma Postgres](https://github.com/raycast/extensions/tree/main/extensions/prisma-postgres) |
 | [amin_saedi](https://www.raycast.com/amin_saedi) | 1 | 60 | **Data:** [Jalali Date Convertor](https://github.com/raycast/extensions/tree/main/extensions/jalali-date-convertor) |
+| amir01 | 1 | — | **Communication:** [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) |
 | [amuelli](https://www.raycast.com/amuelli) | 2 | 444 | **Productivity:** [Bring!](https://github.com/raycast/extensions/tree/main/extensions/bring), [Migros](https://github.com/raycast/extensions/tree/main/extensions/migros) |
 | [anandubajith](https://www.raycast.com/anandubajith) | 1 | 1,922 | **Applications:** [Cloudflare WARP](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) |
 | [anastasiy_safari](https://www.raycast.com/anastasiy_safari) | 1 | 6,976 | **Applications:** [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) |
