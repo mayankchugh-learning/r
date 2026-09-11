@@ -18,7 +18,7 @@
 | [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,396 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
 | [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,954 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
 | [Open in Cursor](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) | 3,222 | Open current Finder directory, selected folder or file in Cursor. | mjoosuf | macOS | [store](https://www.raycast.com/mjoosuf/open-in-cursor) |
-| [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) | 2,959 | Perform actions (move, copy, create) on selected Finder files and folders | pa1ar | macOS | [store](https://www.raycast.com/pa1ar/finder-file-actions) |
+| [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) | 2,966 | Perform actions (move, copy, create) on selected Finder files and folders | pa1ar | macOS | [store](https://www.raycast.com/pa1ar/finder-file-actions) |
 | [Open in Sublime Text](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) | 2,048 | Open current Finder directory, selected folder or file in Sublime Text. | anfalas | macOS | [store](https://www.raycast.com/anfalas/open-in-sublime-text) |
 | [Jump](https://github.com/raycast/extensions/tree/main/extensions/jump) | 1,793 | Jump to websites, folders, or files | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/jump) |
 | [Folder Cleaner](https://github.com/raycast/extensions/tree/main/extensions/folder-cleaner) | 848 | Organize files in a folder by moving them to designated locations based on file extensions | StereoPT | macOS | [store](https://www.raycast.com/StereoPT/folder-cleaner) |
@@ -67,7 +67,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Finder Utilities](https://github.com/raycast/extensions/tree/main/extensions/finderutils) | 3,829 | Utilities for finder | edrf | macOS | [store](https://www.raycast.com/edrf/finderutils) |
+| [Finder Utilities](https://github.com/raycast/extensions/tree/main/extensions/finderutils) | 3,845 | Utilities for finder | edrf | macOS | [store](https://www.raycast.com/edrf/finderutils) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,887 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Close Finder](https://github.com/raycast/extensions/tree/main/extensions/close-finder) | 2,457 | Utils to close Finder from Raycast. | qeude | macOS | [store](https://www.raycast.com/qeude/close-finder) |
 | [Common Directory](https://github.com/raycast/extensions/tree/main/extensions/common-directory) | 2,031 | Quickly open or show common directory in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/common-directory) |

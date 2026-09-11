@@ -1,8 +1,8 @@
 # Time Tracking & Focus
 
-25 extensions · [← Productivity](./README.md)
+26 extensions · [← Productivity](./README.md)
 
-[Timer ✦](#timer) (11) · [Focus ✦](#focus) (7) · [Breaks ✦](#breaks) (4) · [General](#general) (3)
+[Timer ✦](#timer) (11) · [Focus ✦](#focus) (7) · [Breaks ✦](#breaks) (5) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -42,6 +42,7 @@
 | [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 967 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |
 | [Leave Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/leave-time-calculator) | 40 | Calculate your leave time based on start time and break duration | harunonsystem | macOS | [store](https://www.raycast.com/harunonsystem/leave-time-calculator) |
 | [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) | 18 | Manage Cold Turkey blocks, create them with optional initial websites and exceptions, and control starts, locks, device schedules, and breaks. | nabecite | macOS, Windows | [store](https://www.raycast.com/nabecite/cold-turkey-blocker) |
+| [Punch Clock](https://github.com/raycast/extensions/tree/main/extensions/punch-clock) | 0 | Track your working hours: set a total work time and break length, then watch a live countdown in the macOS menu bar. | FL0R1AN | macOS | [store](https://www.raycast.com/FL0R1AN/punch-clock) |
 
 ## General
 

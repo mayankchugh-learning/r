@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-131 of 1481 extensions · [← macOS · Productivity](./README.md)
+131 of 1482 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -25,11 +25,11 @@
 | [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access) | 4,396 | Quick access, drag and drop the files or folders pinned in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/quick-access) |
 | [Icons8](https://github.com/raycast/extensions/tree/main/extensions/icons8) | 4,297 | Search and download icons using Icons8 large library. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/icons8) |
 | [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) | 3,954 | Fetches and saves the transcript of a YouTube video in your downloads folder | apoorv_khandelwal | macOS | [store](https://www.raycast.com/apoorv_khandelwal/fetch-youtube-transcript) |
-| [Finder Utilities](https://github.com/raycast/extensions/tree/main/extensions/finderutils) | 3,829 | Utilities for finder | edrf | macOS | [store](https://www.raycast.com/edrf/finderutils) |
+| [Finder Utilities](https://github.com/raycast/extensions/tree/main/extensions/finderutils) | 3,845 | Utilities for finder | edrf | macOS | [store](https://www.raycast.com/edrf/finderutils) |
 | [FFmpeg - View, Analyze and Manipulate](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) | 3,636 | Use FFmpeg to view media file info | RenderCoder | macOS | [store](https://www.raycast.com/RenderCoder/ffmpeg) |
 | [Open in Cursor](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) | 3,222 | Open current Finder directory, selected folder or file in Cursor. | mjoosuf | macOS | [store](https://www.raycast.com/mjoosuf/open-in-cursor) |
 | [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 3,129 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
-| [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) | 2,959 | Perform actions (move, copy, create) on selected Finder files and folders | pa1ar | macOS | [store](https://www.raycast.com/pa1ar/finder-file-actions) |
+| [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) | 2,966 | Perform actions (move, copy, create) on selected Finder files and folders | pa1ar | macOS | [store](https://www.raycast.com/pa1ar/finder-file-actions) |
 | [Archiver](https://github.com/raycast/extensions/tree/main/extensions/archiver) | 2,913 | An archive tool for compressing or extracting, supporting multiple formats. | JinShi | macOS | [store](https://www.raycast.com/JinShi/archiver) |
 | [Restart System Processes](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) | 2,887 | Restart system processes such as Finder, Dock, Menu Bar, Audio and more! | muzhen_gaming | macOS | [store](https://www.raycast.com/muzhen_gaming/restart-system-processes) |
 | [Fuzzy File Search](https://github.com/raycast/extensions/tree/main/extensions/fuzzy-file-search) | 2,682 | Fuzzy-search files by full path to reach the right item instantly. | erykksc | macOS | [store](https://www.raycast.com/erykksc/fuzzy-file-search) |

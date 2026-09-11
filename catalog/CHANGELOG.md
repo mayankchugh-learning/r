@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `b13627904b`
+
+**Added (1):** [Punch Clock](https://github.com/raycast/extensions/tree/main/extensions/punch-clock)
+
 ## 2026-09-11 — upstream `1c77eee269`
 
 **Updated (1):** [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search)

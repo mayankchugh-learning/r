@@ -13,7 +13,7 @@
 | [eddiesigner](https://www.raycast.com/eddiesigner) | 1 | 86 | **Finance:** [Gumroad Sales](https://github.com/raycast/extensions/tree/main/extensions/gumroad) |
 | [edith](https://www.raycast.com/edith) | 1 | 1,518 | **System:** [App Keeper Manager](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) |
 | [edmundcwm](https://www.raycast.com/edmundcwm) | 1 | 638 | **Developer Tools:** [WordPress Plugins](https://github.com/raycast/extensions/tree/main/extensions/wordpress-plugins) |
-| [edrf](https://www.raycast.com/edrf) | 1 | 3,829 | **Productivity:** [Finder Utilities](https://github.com/raycast/extensions/tree/main/extensions/finderutils) |
+| [edrf](https://www.raycast.com/edrf) | 1 | 3,845 | **Productivity:** [Finder Utilities](https://github.com/raycast/extensions/tree/main/extensions/finderutils) |
 | [edwin-dd-ong](https://www.raycast.com/edwin-dd-ong) | 1 | 202 | **News:** [Ars Technica](https://github.com/raycast/extensions/tree/main/extensions/ars-technica) |
 | [eemil_suominen](https://www.raycast.com/eemil_suominen) | 1 | 22 | **News:** [Liquipedia Matches](https://github.com/raycast/extensions/tree/main/extensions/liquipedia-matches) |
 | [efeclk](https://www.raycast.com/efeclk) | 1 | 251 | **Media:** [Image Host](https://github.com/raycast/extensions/tree/main/extensions/image-host) |

@@ -73,7 +73,7 @@
 | [albandum](https://www.raycast.com/albandum) | 1 | 844 | **Productivity:** [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) |
 | [alberto_lezaun](https://www.raycast.com/alberto_lezaun) | 1 | 3 | **Productivity:** [From](https://github.com/raycast/extensions/tree/main/extensions/from) |
 | [albertogalca](https://www.raycast.com/albertogalca) | 1 | 92 | **Media:** [Picmal](https://github.com/raycast/extensions/tree/main/extensions/picmal) |
-| [albertoxamin](https://www.raycast.com/albertoxamin) | 1 | 205 | **Other:** [Finnish Dictionary](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) |
+| [albertoxamin](https://www.raycast.com/albertoxamin) | 1 | 206 | **Other:** [Finnish Dictionary](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) |
 | [albingroen](https://www.raycast.com/albingroen) | 1 | 449 | **Productivity:** [Taskplane](https://github.com/raycast/extensions/tree/main/extensions/taskplane) |
 | [aleks](https://www.raycast.com/aleks) | 1 | 897 | **Developer Tools:** [Search RubyGems](https://github.com/raycast/extensions/tree/main/extensions/search-rubygems) |
 | [alerix](https://www.raycast.com/alerix) | 1 | 56 | **Developer Tools:** [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) |

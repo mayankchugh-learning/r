@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-80 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+81 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -49,6 +49,7 @@
 | [fireice009](https://www.raycast.com/fireice009) | 1 | 217 | **Developer Tools:** [String Formatter](https://github.com/raycast/extensions/tree/main/extensions/string-formatter) |
 | [firhan_ramadhan](https://www.raycast.com/firhan_ramadhan) | 2 | 236 | **Productivity:** [YOURLS Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/yourls)<br>**Developer Tools:** [Unleash Feature Toggle](https://github.com/raycast/extensions/tree/main/extensions/unleash-feature-toggle) |
 | [fka](https://www.raycast.com/fka) | 1 | 699 | **Productivity:** [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) |
+| [FL0R1AN](https://www.raycast.com/FL0R1AN) | 1 | 0 | **Productivity:** [Punch Clock](https://github.com/raycast/extensions/tree/main/extensions/punch-clock) |
 | [flaming-codes](https://www.raycast.com/flaming-codes) | 1 | 69 | **Developer Tools:** [CRAN/E Search](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) |
 | [flaticols](https://www.raycast.com/flaticols) | 1 | 76 | **Other:** [Netherlands Railways Train Search](https://github.com/raycast/extensions/tree/main/extensions/ns-nl-search) |
 | [Flatroy](https://www.raycast.com/Flatroy) | 1 | 841 | **Applications:** [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) |

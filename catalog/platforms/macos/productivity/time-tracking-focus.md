@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · **Time Tracking & Focus** · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-25 of 1481 extensions · [← macOS · Productivity](./README.md)
+26 of 1482 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,4 @@
 | [42 Api Tools](https://github.com/raycast/extensions/tree/main/extensions/42-api) | 39 | Track your logtime and find peers in 42 school clusters directly from Raycast | maujogue | macOS, Windows | [store](https://www.raycast.com/maujogue/42-api) |
 | [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) | 18 | Manage Cold Turkey blocks, create them with optional initial websites and exceptions, and control starts, locks, device schedules, and breaks. | nabecite | macOS, Windows | [store](https://www.raycast.com/nabecite/cold-turkey-blocker) |
 | [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 8 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
+| [Punch Clock](https://github.com/raycast/extensions/tree/main/extensions/punch-clock) | 0 | Track your working hours: set a total work time and break length, then watch a live countdown in the macOS menu bar. | FL0R1AN | macOS | [store](https://www.raycast.com/FL0R1AN/punch-clock) |

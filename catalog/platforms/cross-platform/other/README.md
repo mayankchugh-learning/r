@@ -83,7 +83,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Thesaurus](https://github.com/raycast/extensions/tree/main/extensions/thesaurus) | 8,590 | Search Merrian-Webster's Thesaurus | ABukSwienty | macOS, Windows | [store](https://www.raycast.com/ABukSwienty/thesaurus) |
-| [Finnish Dictionary](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) | 205 | MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. | albertoxamin | macOS, Windows | [store](https://www.raycast.com/albertoxamin/finnish-dictionary) |
+| [Finnish Dictionary](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) | 206 | MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. | albertoxamin | macOS, Windows | [store](https://www.raycast.com/albertoxamin/finnish-dictionary) |
 
 ### General
 

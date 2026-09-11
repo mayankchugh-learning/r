@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [p-koenig](https://www.raycast.com/p-koenig) | 1 | 5 | **Developer Tools:** [Slurm](https://github.com/raycast/extensions/tree/main/extensions/slurm) |
 | [p2m](https://www.raycast.com/p2m) | 1 | 17 | **Productivity:** [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation) |
-| [pa1ar](https://www.raycast.com/pa1ar) | 1 | 2,959 | **Productivity:** [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) |
+| [pa1ar](https://www.raycast.com/pa1ar) | 1 | 2,966 | **Productivity:** [Finder File Actions](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) |
 | [pablo_medina](https://www.raycast.com/pablo_medina) | 1 | 30 | **Other:** [Dexcom Reader](https://github.com/raycast/extensions/tree/main/extensions/dexcom-reader) |
 | [pablopunk](https://www.raycast.com/pablopunk) | 1 | 5,115 | **Productivity:** [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) |
 | [pabroux](https://www.raycast.com/pabroux) | 2 | 4,830 | **Security:** [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc)<br>**Communication:** [Bento](https://github.com/raycast/extensions/tree/main/extensions/bento-me) |

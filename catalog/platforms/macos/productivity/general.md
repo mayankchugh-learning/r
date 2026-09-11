@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-509 of 1481 extensions · [← macOS · Productivity](./README.md)
+509 of 1482 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -226,7 +226,7 @@
 | [SnapJot](https://github.com/raycast/extensions/tree/main/extensions/snap-jot) | 409 | Create a memo with a timestamp | k41531 | macOS | [store](https://www.raycast.com/k41531/snap-jot) |
 | [Random US Phone Number](https://github.com/raycast/extensions/tree/main/extensions/random-us-phone-number) | 405 | Generate a random US phone number. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/random-us-phone-number) |
 | [Color Studio Picker](https://github.com/raycast/extensions/tree/main/extensions/color-studio-picker) | 390 | Helps you identify and pick colors from Automattic's Color Studio | Automattic_Inc | macOS | [store](https://www.raycast.com/Automattic_Inc/color-studio-picker) |
-| [Find Website](https://github.com/raycast/extensions/tree/main/extensions/find-website) | 387 | Quickly find the website you are looking for. | nahuel_andreoli | macOS | [store](https://www.raycast.com/nahuel_andreoli/find-website) |
+| [Find Website](https://github.com/raycast/extensions/tree/main/extensions/find-website) | 388 | Quickly find the website you are looking for. | nahuel_andreoli | macOS | [store](https://www.raycast.com/nahuel_andreoli/find-website) |
 | [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 383 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
 | [Chinese Numbers](https://github.com/raycast/extensions/tree/main/extensions/chinese-numbers) | 382 | Chinese Numbers is a Raycast Extension to convert Arabic numbers to Chinese numbers. | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/chinese-numbers) |
 | [VMware VCenter](https://github.com/raycast/extensions/tree/main/extensions/vmware-vcenter) | 381 | Manage VMware vCenter | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/vmware-vcenter) |
