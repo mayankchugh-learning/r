@@ -1,6 +1,6 @@
 # koinzhang
 
-50 extensions · 270,902 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
+50 extensions · 270,905 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
 
 ## Developer Tools (18)
 
@@ -86,7 +86,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 17,006 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
-| [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) | 8,080 | Show current weather on the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-weather) |
+| [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) | 8,083 | Show current weather on the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-weather) |
 
 ## Productivity (5)
 

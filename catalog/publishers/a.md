@@ -177,7 +177,7 @@
 | [aslamdoctor](https://www.raycast.com/aslamdoctor) | 1 | 135 | **Developer Tools:** [WordPress WP-CLI Commands Explorer](https://github.com/raycast/extensions/tree/main/extensions/wp-cli-command-explorer) |
 | [asnimansari](https://www.raycast.com/asnimansari) | 1 | 249 | **Productivity:** [Scratchpad](https://github.com/raycast/extensions/tree/main/extensions/scratchpad) |
 | [asportnoy](https://www.raycast.com/asportnoy) | 1 | 5,873 | **Developer Tools:** [Date Converter](https://github.com/raycast/extensions/tree/main/extensions/date-converter) |
-| Astatine-213 | 1 | — | **Developer Tools:** [Codex Reset Forecast](https://github.com/raycast/extensions/tree/main/extensions/codex-reset-forecast) |
+| [Astatine-213](https://www.raycast.com/Astatine-213) | 1 | 0 | **Developer Tools:** [Codex Reset Forecast](https://github.com/raycast/extensions/tree/main/extensions/codex-reset-forecast) |
 | [astrit](https://www.raycast.com/astrit) | 2 | 3,940 | **Productivity:** [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg), [Cron](https://github.com/raycast/extensions/tree/main/extensions/cron) |
 | [astroboii47](https://www.raycast.com/astroboii47) | 1 | 341 | **Productivity:** [Blip](https://github.com/raycast/extensions/tree/main/extensions/blip-raycast) |
 | [astronight](https://www.raycast.com/astronight) | 1 | 1,520 | **Developer Tools:** [Snippet Surfer](https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer) |

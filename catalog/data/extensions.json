@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "119d596e710321fa2246154068756783415cf436",
-  "generatedAt": "2026-09-11T06:45:28.301Z",
-  "downloadsRefreshedAt": "2026-09-11T06:45:27.912Z",
+  "commit": "fe4fc03eb50bae132c2504f7396383b949e3ff45",
+  "generatedAt": "2026-09-11T07:39:33.617Z",
+  "downloadsRefreshedAt": "2026-09-11T07:39:32.929Z",
   "count": 3277,
   "extensions": [
     {
@@ -9744,10 +9744,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/Astatine-213/codex-reset-forecast",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/codex-reset-forecast",
       "treeSha": "6252c27fec59254521c56b4bb9eb3c42a1c6914f",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "codex-sessions",
@@ -10040,7 +10040,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 552252
+      "downloads": 552650
     },
     {
       "dir": "color-shades",
@@ -22477,7 +22477,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 527559
+      "downloads": 527805
     },
     {
       "dir": "google-chrome-profiles",
@@ -28862,7 +28862,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 711002
+      "downloads": 711406
     },
     {
       "dir": "kimai",
@@ -34099,7 +34099,7 @@
       "store": "https://www.raycast.com/koinzhang/menubar-weather",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/menubar-weather",
       "treeSha": "851a99ecbbb00e52c8a3e6465aea16535999f97b",
-      "downloads": 8080
+      "downloads": 8083
     },
     {
       "dir": "menucloak",
@@ -58760,8 +58760,8 @@
       ],
       "store": "https://www.raycast.com/yedongze/terminalfinder",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/terminalfinder",
-      "treeSha": "61fb994052730b041dc0f564eedd5476e59449d4",
-      "downloads": 23465
+      "treeSha": "1915cc25d1298ffc5ecb9e76f8e346e6682d9cc2",
+      "downloads": 23496
     },
     {
       "dir": "terraform-doc",
