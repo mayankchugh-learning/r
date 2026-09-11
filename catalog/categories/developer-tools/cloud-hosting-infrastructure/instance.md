@@ -12,4 +12,4 @@
 | [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 56 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |
 | [Virtualizor Enduser](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) | 23 | Manage Virtualizor Enduser instance | xmok | macOS | [store](https://www.raycast.com/xmok/virtualizor-enduser) |
 | [ArchiSteamFarm](https://github.com/raycast/extensions/tree/main/extensions/archisteamfarm) | 20 | Interact with your locally hosted ASF instance via Raycast! | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/archisteamfarm) |
-| [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) | — | View the status of endpoints monitored by your Gatus instance. | romain_lajeunesse | macOS, Windows | — |
+| [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) | 1 | View the status of endpoints monitored by your Gatus instance. | romain_lajeunesse | macOS, Windows | [store](https://www.raycast.com/romain_lajeunesse/gatus-status) |

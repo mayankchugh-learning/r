@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 713,299 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 713,366 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 170,409 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 102,648 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 63,829 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -67,7 +67,7 @@
 | [CUID Generator](https://github.com/raycast/extensions/tree/main/extensions/cuid-generator) | 411 | A quick way to generate CUIDs | dgrcode | macOS | [store](https://www.raycast.com/dgrcode/cuid-generator) |
 | [Golden Ratio](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) | 386 | Gold ratio and silver ratio calculation tool | yang_monch | macOS | [store](https://www.raycast.com/yang_monch/golden-ratio) |
 | [Dotmate](https://github.com/raycast/extensions/tree/main/extensions/dotmate) | 364 | Dotfile Manager for Raycast | knealking | macOS | [store](https://www.raycast.com/knealking/dotmate) |
-| [End of Life](https://github.com/raycast/extensions/tree/main/extensions/end-of-life) | 342 | An extension to bring endoflife.date into Raycast. Get End-of-life (EOL) and support information for various products | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/end-of-life) |
+| [End of Life](https://github.com/raycast/extensions/tree/main/extensions/end-of-life) | 343 | An extension to bring endoflife.date into Raycast. Get End-of-life (EOL) and support information for various products | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/end-of-life) |
 | [Fibonacci Sequence](https://github.com/raycast/extensions/tree/main/extensions/fibonacci-sequence) | 332 | Gives you the fibonacci sequence for using in story points on engineering tickets | adambutler | macOS | [store](https://www.raycast.com/adambutler/fibonacci-sequence) |
 | [Nix Flake Templates](https://github.com/raycast/extensions/tree/main/extensions/nix-flake-templates) | 330 | Dev environments for numerous languages based on Nix flakes | lex-unix | macOS | [store](https://www.raycast.com/lex-unix/nix-flake-templates) |
 | [ghq](https://github.com/raycast/extensions/tree/main/extensions/ghq) | 325 | Raycast Extension for ghq. | konojunya | macOS | [store](https://www.raycast.com/konojunya/ghq) |
@@ -81,7 +81,7 @@
 | [Motion Preview](https://github.com/raycast/extensions/tree/main/extensions/raycast-motion-preview) | 260 | Preview Lottie and Rive Animations in Raycast | ayarse | macOS | [store](https://www.raycast.com/ayarse/raycast-motion-preview) |
 | [Bazinga Tools](https://github.com/raycast/extensions/tree/main/extensions/bazinga-tools) | 253 | A shortcut to open tools on Bazinga.tools | luin | macOS | [store](https://www.raycast.com/luin/bazinga-tools) |
 | [ULID](https://github.com/raycast/extensions/tree/main/extensions/ulid) | 253 | some basic ulid tools | entwine7250 | macOS | [store](https://www.raycast.com/entwine7250/ulid) |
-| [Evaluate Math Expression](https://github.com/raycast/extensions/tree/main/extensions/evaluate-math-expression) | 245 | Reads current selection, evaluates the math expression, and shows it in a desired way | Dervex | macOS | [store](https://www.raycast.com/Dervex/evaluate-math-expression) |
+| [Evaluate Math Expression](https://github.com/raycast/extensions/tree/main/extensions/evaluate-math-expression) | 247 | Reads current selection, evaluates the math expression, and shows it in a desired way | Dervex | macOS | [store](https://www.raycast.com/Dervex/evaluate-math-expression) |
 | [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) | 237 | Generate Minion Ipsum like: Minions ipsum hahaha wiiiii gelatooo poopayee aaaaaah. | vigosan | macOS | [store](https://www.raycast.com/vigosan/minion-ipsum) |
 | [Kafka](https://github.com/raycast/extensions/tree/main/extensions/kafka) | 223 | Kafka extension for Raycast | fonimus | macOS | [store](https://www.raycast.com/fonimus/kafka) |
 | [Thingiverse](https://github.com/raycast/extensions/tree/main/extensions/thingiverse) | 210 | Browse Thingiverse | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/thingiverse) |

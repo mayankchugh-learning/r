@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [j3lte](./id/j3lte.md) | 13 | 10,533 | [see all 13 →](./id/j3lte.md) |
+| [j3lte](./id/j3lte.md) | 13 | 10,536 | [see all 13 →](./id/j3lte.md) |
 | [J3n5en](https://www.raycast.com/J3n5en) | 1 | 64 | **Media:** [hostloc](https://github.com/raycast/extensions/tree/main/extensions/hostloc) |
 | [Jace](https://www.raycast.com/Jace) | 1 | 275 | **Productivity:** [Bundles](https://github.com/raycast/extensions/tree/main/extensions/bundles) |
 | [jack_casica](https://www.raycast.com/jack_casica) | 1 | 683 | **Developer Tools:** [Alt-Text Generator](https://github.com/raycast/extensions/tree/main/extensions/alt-text-generator) |

@@ -44,11 +44,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 713,299 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 713,366 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,524 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,335 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) | 761 | Manage your DeepL API usage with ease. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/deepl-api-usage) |
-| [Everhour Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/everhour) | 592 | Track time against projects | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/everhour) |
+| [Everhour Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/everhour) | 593 | Track time against projects | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/everhour) |
 | [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs) | 472 | Track your Cursor costs in real-time directly from macOS menu bar | shadeov | macOS | [store](https://www.raycast.com/Shadeov/cursor-costs) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 425 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
 | [Timeular](https://github.com/raycast/extensions/tree/main/extensions/timeular) | 413 | Track time with Timeular | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-timeular) |

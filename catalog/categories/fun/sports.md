@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Formula 1](https://github.com/raycast/extensions/tree/main/extensions/f1-standings) | 7,312 | List the current standings in Formula 1 | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/f1-standings) |
+| [Formula 1](https://github.com/raycast/extensions/tree/main/extensions/f1-standings) | 7,333 | List the current standings in Formula 1 | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/f1-standings) |
 | [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 3,051 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
 | [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,555 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 660 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
@@ -17,5 +17,5 @@
 | [Fantasy Premier League](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) | 142 | See where you rank amongst in your league rivals in Fantasy Premier League within Raycast. | hwb | macOS | [store](https://www.raycast.com/hwb/fantasy-premier-league-rankings) |
 | [Brasileirão Série A](https://github.com/raycast/extensions/tree/main/extensions/brasileirao-serie-a) | 103 | View the Brazilian first division upcoming matches, standings and results. | willian | macOS | [store](https://www.raycast.com/willian/brasileirao-serie-a) |
 | [Portuguese Primeira Liga](https://github.com/raycast/extensions/tree/main/extensions/portuguese-primeira-liga) | 61 | View the latest Portuguese Primeira Liga standings. | danielsequeira | macOS | [store](https://www.raycast.com/danielsequeira/portuguese-primeira-liga) |
-| [Ekstraklasa](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) | 28 | Stay up to date with the polish football league | szarbartosz | macOS | [store](https://www.raycast.com/szarbartosz/ekstraklasa) |
+| [Ekstraklasa](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) | 29 | Stay up to date with the polish football league | szarbartosz | macOS | [store](https://www.raycast.com/szarbartosz/ekstraklasa) |
 | [Sir.golf](https://github.com/raycast/extensions/tree/main/extensions/sir-golf) | 1 | Live golf leaderboards (PGA Tour, LPGA, DP World Tour), the full tour schedule with every major badged and one-tap Add to Calendar, plus season rankings — by s… | julianpaul | macOS, Windows | [store](https://www.raycast.com/julianpaul/sir-golf) |

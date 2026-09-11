@@ -34,7 +34,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ente Auth](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) | 2,984 | Get TOTP Codes from Ente Auth | chkpwd | macOS, Windows | [store](https://www.raycast.com/chkpwd/ente-auth) |
+| [Ente Auth](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) | 3,000 | Get TOTP Codes from Ente Auth | chkpwd | macOS, Windows | [store](https://www.raycast.com/chkpwd/ente-auth) |
 | [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 1,023 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 | [Aegis Authenticator](https://github.com/raycast/extensions/tree/main/extensions/aegis) | 351 | Search, sync and use your Aegis 2FA database with Raycast | bfayers | Windows, macOS | [store](https://www.raycast.com/bfayers/aegis) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 182 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |

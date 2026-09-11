@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 528,917 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 528,956 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 461,253 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 193,329 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 141,503 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
@@ -151,5 +151,5 @@
 | [Granite](https://github.com/raycast/extensions/tree/main/extensions/granite) | 5 | Search, browse, and ask your Granite document vault. | Shpigford | macOS | [store](https://www.raycast.com/Shpigford/granite) |
 | [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) | 4 | Compile GLES shader code with MaliOC and get performance stats. | RomanVPX | macOS | [store](https://www.raycast.com/RomanVPX/gles-to-malioc) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 2 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS | [store](https://www.raycast.com/garon/glimpse) |
-| [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) | — | View the status of endpoints monitored by your Gatus instance. | romain_lajeunesse | macOS, Windows | — |
+| [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) | 1 | View the status of endpoints monitored by your Gatus instance. | romain_lajeunesse | macOS, Windows | [store](https://www.raycast.com/romain_lajeunesse/gatus-status) |
 | [GitHub Spark](https://github.com/raycast/extensions/tree/main/extensions/github-spark) | — | Turn your ideas into personalized apps with GitHub Spark. | github-next (org) | macOS | — |

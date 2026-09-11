@@ -1,6 +1,6 @@
 # Aayush9029
 
-16 extensions · 159,108 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
+16 extensions · 159,110 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
 
 ## Applications (1)
 
@@ -33,7 +33,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Element](https://github.com/raycast/extensions/tree/main/extensions/element) | 1,107 | Show information about an element of the periodic table. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/element) |
+| [Element](https://github.com/raycast/extensions/tree/main/extensions/element) | 1,109 | Show information about an element of the periodic table. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/element) |
 | [Binge Clock](https://github.com/raycast/extensions/tree/main/extensions/binge-clock) | 377 | Find out how long it takes to watch every episode in a TV series or every movie in a marathon. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/binge-clock) |
 | [Twitch Chat](https://github.com/raycast/extensions/tree/main/extensions/twitch-chat) | 283 | View twitch.tv's live chat | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/twitch-chat) |
 | [Twitch Logs](https://github.com/raycast/extensions/tree/main/extensions/twitch-logs) | 110 | See what messages a user has sent on a paticular twitch channel on a paticular month. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/twitch-logs) |

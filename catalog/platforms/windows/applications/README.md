@@ -101,7 +101,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,976 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
+| [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,977 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 
 ## Everyday Apps
 

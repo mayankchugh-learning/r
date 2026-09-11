@@ -32,7 +32,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,407 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
-| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,338 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
+| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,341 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
 | [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 925 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
 | [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 524 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
 | [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 383 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |

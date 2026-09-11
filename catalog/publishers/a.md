@@ -11,7 +11,7 @@
 | [aaronschneider](https://www.raycast.com/aaronschneider) | 1 | 118 | **Productivity:** [Bibmanager](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) |
 | [aashwin_patki](https://www.raycast.com/aashwin_patki) | 1 | 16 | **Documentation:** [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) |
 | [aayush9029](https://www.raycast.com/Aayush9029) | 1 | 53 | **Applications:** [Petal - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/petal) |
-| [Aayush9029](./id/aayush9029.md) | 16 | 159,108 | [see all 16 →](./id/aayush9029.md) |
+| [Aayush9029](./id/aayush9029.md) | 16 | 159,110 | [see all 16 →](./id/aayush9029.md) |
 | [aayushpi](https://www.raycast.com/aayushpi) | 1 | 41 | **Fun:** [Scrycast](https://github.com/raycast/extensions/tree/main/extensions/scrycast) |
 | [abdullah_shabib](https://www.raycast.com/abdullah_shabib) | 1 | 25 | **System:** [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) |
 | [Abdullah-Dev115](https://www.raycast.com/Abdullah-Dev115) | 1 | 67 | **System:** [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) |
@@ -110,7 +110,7 @@
 | [amir01](https://www.raycast.com/amir01) | 1 | 5 | **Communication:** [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) |
 | [amuelli](https://www.raycast.com/amuelli) | 2 | 444 | **Productivity:** [Bring!](https://github.com/raycast/extensions/tree/main/extensions/bring), [Migros](https://github.com/raycast/extensions/tree/main/extensions/migros) |
 | [anandubajith](https://www.raycast.com/anandubajith) | 1 | 1,928 | **Applications:** [Cloudflare WARP](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) |
-| [anastasiy_safari](https://www.raycast.com/anastasiy_safari) | 1 | 6,976 | **Applications:** [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) |
+| [anastasiy_safari](https://www.raycast.com/anastasiy_safari) | 1 | 6,977 | **Applications:** [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) |
 | [anders_morille](https://www.raycast.com/anders_morille) | 1 | 286 | **Developer Tools:** [QuickSnip](https://github.com/raycast/extensions/tree/main/extensions/quicksnip) |
 | [andoutenc](https://www.raycast.com/andoutenc) | 1 | 37 | **Developer Tools:** [Leap.new](https://github.com/raycast/extensions/tree/main/extensions/leap-new) |
 | [andre-rd-rodrigues](https://www.raycast.com/andre-rd-rodrigues) | 1 | 420 | **Finance:** [Fake Financial Data](https://github.com/raycast/extensions/tree/main/extensions/fake-financial-data) |
@@ -166,7 +166,7 @@
 | [arthurn](https://www.raycast.com/arthurn) | 1 | 34 | **Finance:** [Toncoin (TON) Price](https://github.com/raycast/extensions/tree/main/extensions/toncoin-price) |
 | [artistro08](https://www.raycast.com/artistro08) | 1 | 19 | **Applications:** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) |
 | [artivilla](https://www.raycast.com/artivilla) | 1 | 124 | **Web:** [Farcaster](https://github.com/raycast/extensions/tree/main/extensions/farcaster) |
-| [artpi](https://www.raycast.com/artpi) | 1 | 1,150 | **Productivity:** [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) |
+| [artpi](https://www.raycast.com/artpi) | 1 | 1,153 | **Productivity:** [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) |
 | [arturdz](https://www.raycast.com/arturdz) | 1 | 46 | **Design Tools:** [Figma Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/figma-shortcuts) |
 | [ARui](https://www.raycast.com/ARui) | 2 | 1,339 | **Productivity:** [Office2PDF](https://github.com/raycast/extensions/tree/main/extensions/office2pdf), [Heptabase](https://github.com/raycast/extensions/tree/main/extensions/heptabase) |
 | [aryan_rustagi](https://www.raycast.com/aryan_rustagi) | 1 | 4 | **Data:** [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) |

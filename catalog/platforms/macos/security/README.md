@@ -51,7 +51,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ente Auth](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) | 2,984 | Get TOTP Codes from Ente Auth | chkpwd | macOS, Windows | [store](https://www.raycast.com/chkpwd/ente-auth) |
+| [Ente Auth](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) | 3,000 | Get TOTP Codes from Ente Auth | chkpwd | macOS, Windows | [store](https://www.raycast.com/chkpwd/ente-auth) |
 | [YubiKey Code](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) | 1,076 | Easily get a OTP from your YubiKey | yoyoyeti | macOS | [store](https://www.raycast.com/yoyoyeti/yubikey-code) |
 | [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 1,023 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 | [Proton Authenticator](https://github.com/raycast/extensions/tree/main/extensions/proton-authenticator) | 963 | Quick access to TOTP entries from Proton Authenticator | Fared | macOS | [store](https://www.raycast.com/Fared/proton-authenticator) |
@@ -108,7 +108,7 @@
 | [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 4,172 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
 | [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,682 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
 | [VirusTotal](https://github.com/raycast/extensions/tree/main/extensions/virustotal) | 1,577 | Check files, IP addresses, URLs, and hashes for malware using VirusTotal | sadv1r | macOS, Windows | [store](https://www.raycast.com/sadv1r/virustotal) |
-| [Email Verifier](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) | 979 | A tool for email verification without sending any emails | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/email-verifier) |
+| [Email Verifier](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) | 982 | A tool for email verification without sending any emails | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/email-verifier) |
 | [Hetzner](https://github.com/raycast/extensions/tree/main/extensions/hetzner) | 477 | Provides different actions via the Hetzner API | alex-w0 | macOS, Windows | [store](https://www.raycast.com/alex-w0/hetzner) |
 | [cryptgeon](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) | 248 | Create and share encrypted notes | cupcakearmy | macOS | [store](https://www.raycast.com/cupcakearmy/cryptgeon) |
 | [Public Bug Bounty and Vulnerability Disclosure Programs](https://github.com/raycast/extensions/tree/main/extensions/public-bug-bounty-and-vulnerability-disclosure-programs) | 119 | Search a community curated list of public bug bounty and vulnerability disclosure programs. | securibee | macOS | [store](https://www.raycast.com/securibee/public-bug-bounty-and-vulnerability-disclosure-programs) |

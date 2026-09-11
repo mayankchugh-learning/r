@@ -34,7 +34,7 @@
 | [Coinpaprika](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) | 804 | Cryptocurrency Prices & Statistics | gumbleliks | macOS | [store](https://www.raycast.com/gumbleliks/coinpaprika) |
 | [Tabler](https://github.com/raycast/extensions/tree/main/extensions/tabler) | 774 | Copy & Paste Tabler Icons | zavbala | macOS | [store](https://www.raycast.com/zavbala/tabler) |
 | [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) | 710 | A simple way to preview markdown content | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/markdown-preview) |
-| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 692 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS | [store](https://www.raycast.com/destiner/ethereum-utils) |
+| [Ethereum Utils — EVM Development](https://github.com/raycast/extensions/tree/main/extensions/ethereum-utils) | 694 | Collection of utils for Ethereum and EVM-compatible chain development | destiner | macOS | [store](https://www.raycast.com/destiner/ethereum-utils) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 652 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [Vocabulary.com](https://github.com/raycast/extensions/tree/main/extensions/vocab-search) | 552 | Retrieve Word definitions from vocab.com | datadeer | macOS | [store](https://www.raycast.com/datadeer/vocab) |
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 412 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
