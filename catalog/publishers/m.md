@@ -42,7 +42,7 @@
 | [marinsokol](https://www.raycast.com/marinsokol) | 2 | 1,657 | **Design Tools:** [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons)<br>**Productivity:** [Kimai](https://github.com/raycast/extensions/tree/main/extensions/kimai) |
 | [mark_sullivan](https://www.raycast.com/mark_sullivan) | 1 | 4 | **Finance:** [Bitaxe Status](https://github.com/raycast/extensions/tree/main/extensions/bitaxe) |
 | [markprompt](https://www.raycast.com/markprompt) | 1 | 98 | **Developer Tools:** [Markprompt](https://github.com/raycast/extensions/tree/main/extensions/markprompt) |
-| [marks](https://www.raycast.com/marks) | 1 | 2,549 | **Productivity:** [Airtable](https://github.com/raycast/extensions/tree/main/extensions/airtable) |
+| [marks](https://www.raycast.com/marks) | 1 | 2,555 | **Productivity:** [Airtable](https://github.com/raycast/extensions/tree/main/extensions/airtable) |
 | [MarkusLanger](https://www.raycast.com/MarkusLanger) | 1 | 49,457 | **Developer Tools:** [Visual Studio Code - Project Manager](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) |
 | [marky](https://www.raycast.com/marky) | 1 | 2,984 | **Productivity:** [Time-Traveling World Clock](https://github.com/raycast/extensions/tree/main/extensions/time-traveling-world-clock) |
 | [MarlburroW](https://www.raycast.com/MarlburroW) | 1 | 702 | **System:** [Uptime Kuma](https://github.com/raycast/extensions/tree/main/extensions/uptime-kuma) |
@@ -176,4 +176,4 @@
 | [mwender](https://www.raycast.com/mwender) | 1 | 4 | **Productivity:** [WHMCS Client Search](https://github.com/raycast/extensions/tree/main/extensions/whmcs-client-search) |
 | [mymind](https://www.raycast.com/mymind) | 1 | 1,471 | **Applications:** [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) |
 | [mynameisny](https://www.raycast.com/mynameisny) | 1 | 173 | **Productivity:** [Typora Note Creator](https://github.com/raycast/extensions/tree/main/extensions/typora-note-creator) |
-| [mzaien](https://www.raycast.com/mzaien) | 1 | 1,110 | **Applications:** [Adhan Time](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) |
+| [mzaien](https://www.raycast.com/mzaien) | 1 | 1,114 | **Applications:** [Adhan Time](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) |

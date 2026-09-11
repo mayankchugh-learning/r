@@ -61,7 +61,7 @@
 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 32,908 | **Developer Tools:** [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) |
 | [jns](https://www.raycast.com/jns) | 4 | 2,041 | **Communication:** [NATO Phonetic Alphabet](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet), [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya)<br>**System:** [SABnzbd](https://github.com/raycast/extensions/tree/main/extensions/sabnzbd)<br>**Productivity:** [Comodoro](https://github.com/raycast/extensions/tree/main/extensions/comodoro) |
 | [joao.mainka](https://www.raycast.com/joao.mainka) | 1 | 20,225 | **Productivity:** [Timezone Converter](https://github.com/raycast/extensions/tree/main/extensions/timezone-converter) |
-| [jochemloedeman](https://www.raycast.com/jochemloedeman) | 1 | 836 | **Design Tools:** [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) |
+| [jochemloedeman](https://www.raycast.com/jochemloedeman) | 1 | 838 | **Design Tools:** [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) |
 | [Joellee](https://www.raycast.com/Joellee) | 1 | 378 | **Productivity:** [French Verb Conjugation](https://github.com/raycast/extensions/tree/main/extensions/french-verb-conjugation) |
 | [joepio](https://www.raycast.com/joepio) | 1 | 90 | **Developer Tools:** [Atomic Data](https://github.com/raycast/extensions/tree/main/extensions/atomic) |
 | [joeynotjoe_2](https://www.raycast.com/joeynotjoe_2) | 1 | 190 | **Developer Tools:** [daisyUI Colors & Components](https://github.com/raycast/extensions/tree/main/extensions/daisyui) |

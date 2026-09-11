@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-32 of 369 extensions · [← Windows · Productivity](./README.md)
+32 of 370 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@
 | [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) | 183 | Search and manage Manus AI tasks | KthKuang | macOS, Windows | [store](https://www.raycast.com/KthKuang/manus) |
 | [Azure Speech TTS](https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension) | 156 | Convert selected text to speech using Azure Speech Services with customizable voices and languages | liualexiang | macOS, Windows | [store](https://www.raycast.com/liualexiang/azure-tts-raycast) |
 | [Word4you](https://github.com/raycast/extensions/tree/main/extensions/word4you) | 118 | AI-Powered English Word Learning/Collecting Tool | gnehz972 | macOS, Windows | [store](https://www.raycast.com/gnehz972/word4you) |
-| [AI Usage Tracker](https://github.com/raycast/extensions/tree/main/extensions/ai-usage-tracker) | 110 | Track your AI premium requests usage and compare it with the remaining % of working days in the current month to see if you are ahead or behind. | cdeligny | macOS, Windows | [store](https://www.raycast.com/cdeligny/ai-usage-tracker) |
+| [AI Usage Tracker](https://github.com/raycast/extensions/tree/main/extensions/ai-usage-tracker) | 111 | Track your AI premium requests usage and compare it with the remaining % of working days in the current month to see if you are ahead or behind. | cdeligny | macOS, Windows | [store](https://www.raycast.com/cdeligny/ai-usage-tracker) |
 | [Cloudflare Workers AI](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-ai) | 107 | Interact with Cloudflare Workers AI directly in your Raycast window | dharmin_nagar | macOS, Windows | [store](https://www.raycast.com/dharmin_nagar/cloudflare-ai) |
 | [Voice-to-Text for Windows](https://github.com/raycast/extensions/tree/main/extensions/voice-to-text-windows) | 76 | Record speech from your microphone, transcribe it with OpenAI Whisper, and clean it up with AI | rennesis | Windows | [store](https://www.raycast.com/rennesis/voice-to-text-windows) |
 | [CogniMemo](https://github.com/raycast/extensions/tree/main/extensions/cognimemo) | 64 | Add and search memories with your personal AI-powered knowledge base | sami_ullah_tufail | macOS, Windows | [store](https://www.raycast.com/sami_ullah_tufail/cognimemo) |

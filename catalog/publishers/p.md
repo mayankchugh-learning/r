@@ -33,7 +33,7 @@
 | [paulovictor237](https://www.raycast.com/paulovictor237) | 1 | 322 | **Productivity:** [NumPad](https://github.com/raycast/extensions/tree/main/extensions/numpad) |
 | [pavzagor](https://www.raycast.com/pavzagor) | 1 | 173 | **System:** [Extend Display](https://github.com/raycast/extensions/tree/main/extensions/extend-display) |
 | [pcho](https://www.raycast.com/pcho) | 1 | 149 | **Fun:** [Arc Helper](https://github.com/raycast/extensions/tree/main/extensions/arc-helper) |
-| [peduarte](./id/peduarte.md) | 14 | 27,289 | [see all 14 →](./id/peduarte.md) |
+| [peduarte](./id/peduarte.md) | 14 | 27,301 | [see all 14 →](./id/peduarte.md) |
 | [peeks](https://www.raycast.com/peeks) | 1 | 1,141 | **Productivity:** [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) |
 | [pejman_yaghmaie](https://www.raycast.com/pejman_yaghmaie) | 1 | 26 | **Productivity:** [Who Is off Today?](https://github.com/raycast/extensions/tree/main/extensions/who-is-off-today) |
 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 96,716 | [see all 21 →](./id/pernielsentikaer.md) |
@@ -72,7 +72,7 @@
 | [pomdtr](https://www.raycast.com/pomdtr) | 6 | 22,271 | **Developer Tools:** [TLDR Pages](https://github.com/raycast/extensions/tree/main/extensions/tldr), [Pipe Commands](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands), [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit), [Copy GCP Icons](https://github.com/raycast/extensions/tree/main/extensions/copy-gcp-icons), [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb)<br>**Productivity:** [Clipboard Editor](https://github.com/raycast/extensions/tree/main/extensions/clipboard-editor) |
 | [pondorasti](https://www.raycast.com/pondorasti) | 1 | 300 | **Fun:** [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) |
 | [poor666](https://www.raycast.com/poor666) | 1 | 11 | **Data:** [Portuguese Tax Number](https://github.com/raycast/extensions/tree/main/extensions/nif-fresquinho) |
-| [popalay](https://www.raycast.com/popalay) | 2 | 995 | **Developer Tools:** [AI Git Assistant](https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant)<br>**Web:** [Lucky Surf](https://github.com/raycast/extensions/tree/main/extensions/lucky-surf) |
+| [popalay](https://www.raycast.com/popalay) | 2 | 996 | **Developer Tools:** [AI Git Assistant](https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant)<br>**Web:** [Lucky Surf](https://github.com/raycast/extensions/tree/main/extensions/lucky-surf) |
 | [Popo](https://www.raycast.com/Popo) | 1 | 35 | **Productivity:** [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window) |
 | [postey](https://www.raycast.com/postey) | 1 | 16 | **Productivity:** [Postey](https://github.com/raycast/extensions/tree/main/extensions/postey) |
 | [posthardcode](https://www.raycast.com/posthardcode) | 1 | 764 | **Productivity:** [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) |

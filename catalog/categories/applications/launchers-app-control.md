@@ -31,7 +31,7 @@
 | [F.lux Control](https://github.com/raycast/extensions/tree/main/extensions/flux) | 294 | Control f.lux from Raycast. | allejo | macOS | [store](https://www.raycast.com/allejo/flux) |
 | [React DevTools](https://github.com/raycast/extensions/tree/main/extensions/react-devtools) | 251 | Launch React DevTools command-line application | gutenye | macOS | [store](https://www.raycast.com/gutenye/react-devtools) |
 | [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 247 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
-| [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) | 222 | Control your AirSync app directly from Raycast | sameerasw | macOS | [store](https://www.raycast.com/sameerasw/airsync) |
+| [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) | 223 | Control your AirSync app directly from Raycast | sameerasw | macOS | [store](https://www.raycast.com/sameerasw/airsync) |
 | [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 174 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
 | [WinSCP](https://github.com/raycast/extensions/tree/main/extensions/winscp) | 160 | Launch WinSCP sessions quickly from Raycast. | bossdaily | Windows | [store](https://www.raycast.com/bossdaily/winscp) |
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 155 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |

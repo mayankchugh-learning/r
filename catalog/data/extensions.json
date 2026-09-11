@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3c654737b0d566d3103fcdf72221a9f34664bdf2",
-  "generatedAt": "2026-09-11T09:50:57.576Z",
-  "downloadsRefreshedAt": "2026-09-11T09:50:57.168Z",
-  "count": 3282,
+  "commit": "d7cc9f5ae9d2efe2f9a30561df97cc49cee96aa0",
+  "generatedAt": "2026-09-11T10:04:59.471Z",
+  "downloadsRefreshedAt": "2026-09-11T10:04:58.557Z",
+  "count": 3283,
   "extensions": [
     {
       "dir": "0x0",
@@ -46,7 +46,7 @@
       "store": "https://www.raycast.com/peduarte/1-click-confetti",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti",
       "treeSha": "eb43458d930e789b3da500db9fa4dd7cf5615b94",
-      "downloads": 5607
+      "downloads": 5619
     },
     {
       "dir": "1bookmark",
@@ -108,7 +108,7 @@
       "store": "https://www.raycast.com/khasbilegt/1password",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/1password",
       "treeSha": "baa73834ca5f8533045554d2ab4b24e472b67ee5",
-      "downloads": 228216
+      "downloads": 228987
     },
     {
       "dir": "2fa-directory",
@@ -150,7 +150,7 @@
       "store": "https://www.raycast.com/Lock/2fas-authenticator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator",
       "treeSha": "d186fbcdf306dd3c4ae68f2ab0db3f0c3e221fcd",
-      "downloads": 36
+      "downloads": 37
     },
     {
       "dir": "40-questions",
@@ -419,7 +419,7 @@
       "store": "https://www.raycast.com/theplgeek/adguard-home",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/adguard-home",
       "treeSha": "adf06784d41465a6ed1e3eafbe2ebb45af33013c",
-      "downloads": 449
+      "downloads": 451
     },
     {
       "dir": "adhan-time",
@@ -441,7 +441,7 @@
       "store": "https://www.raycast.com/mzaien/adhan-time",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/adhan-time",
       "treeSha": "dfa68ffb284cff4fff2606fc0223fe775e2ffc7d",
-      "downloads": 1110
+      "downloads": 1114
     },
     {
       "dir": "adjacent",
@@ -485,7 +485,7 @@
       "store": "https://www.raycast.com/willem_van_lent/ado-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ado-search",
       "treeSha": "deb3a69fb893a2b12f26a3a64ec44134e4340b90",
-      "downloads": 767
+      "downloads": 769
     },
     {
       "dir": "adonisjs-documentation",
@@ -527,7 +527,7 @@
       "store": "https://www.raycast.com/rocksack/advanced-replace",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/advanced-replace",
       "treeSha": "73c3cab67744eee33683425848fd32b132b7d3db",
-      "downloads": 692
+      "downloads": 695
     },
     {
       "dir": "advanced-speech-to-text",
@@ -547,7 +547,7 @@
       "store": "https://www.raycast.com/inakitajes/advanced-speech-to-text",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/advanced-speech-to-text",
       "treeSha": "2938bd960b222db8771e008c52453510897c21ea",
-      "downloads": 780
+      "downloads": 782
     },
     {
       "dir": "advice-slip",
@@ -631,7 +631,7 @@
       "store": "https://www.raycast.com/yassine_souilmi/affine",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/affine-raycast",
       "treeSha": "de8b9d4b39cdb8825bc27ae5e9475c14434f182b",
-      "downloads": 67
+      "downloads": 68
     },
     {
       "dir": "ag-audioflow",
@@ -652,7 +652,7 @@
       "store": "https://www.raycast.com/adigold1/ag-audioflow",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ag-audioflow",
       "treeSha": "3332dd5050a653b88811d0e4d3f3118e403be33e",
-      "downloads": 269
+      "downloads": 270
     },
     {
       "dir": "agent-browser",
@@ -797,7 +797,7 @@
       "store": "https://www.raycast.com/ridemountainpig/ai-by-vercel",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ai-by-vercel",
       "treeSha": "1661b173b2cb050d3cbc39b71519aa61e4edfa77",
-      "downloads": 243
+      "downloads": 244
     },
     {
       "dir": "ai-code-namer",
@@ -860,7 +860,7 @@
       "store": "https://www.raycast.com/popalay/ai-git-assistant",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant",
       "treeSha": "f9a5634dbb5a0bc6c29eec767c9275c24378b5d4",
-      "downloads": 798
+      "downloads": 799
     },
     {
       "dir": "ai-humanizer",
@@ -881,7 +881,7 @@
       "store": "https://www.raycast.com/frolik/ai-humanizer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer",
       "treeSha": "224aff6b63acedb3b7b2c86d0ef04de8ad5b4c34",
-      "downloads": 1514
+      "downloads": 1516
     },
     {
       "dir": "ai-screenshot",
@@ -903,7 +903,7 @@
       "store": "https://www.raycast.com/jochemloedeman/ai-screenshot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot",
       "treeSha": "b4bfe03bbbc580b9ead2298dba9890e253542a83",
-      "downloads": 836
+      "downloads": 838
     },
     {
       "dir": "ai-stats",
@@ -945,7 +945,7 @@
       "store": "https://www.raycast.com/izm51/ai-text-to-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar",
       "treeSha": "bc545b49e35edc7201379149025af487a47526b3",
-      "downloads": 583
+      "downloads": 584
     },
     {
       "dir": "ai-to-pdf",
@@ -987,7 +987,7 @@
       "store": "https://www.raycast.com/cdeligny/ai-usage-tracker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ai-usage-tracker",
       "treeSha": "a019ec266cd145c924e89d116fb04385619481fc",
-      "downloads": 110
+      "downloads": 111
     },
     {
       "dir": "ai-voice-studio",
@@ -1154,7 +1154,7 @@
       "store": "https://www.raycast.com/siddharthsharma94/airport",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/airport",
       "treeSha": "4988de8560e536d1becead432b32ee42c3f9f320",
-      "downloads": 2793
+      "downloads": 2794
     },
     {
       "dir": "airsy",
@@ -1196,7 +1196,7 @@
       "store": "https://www.raycast.com/sameerasw/airsync",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/airsync",
       "treeSha": "c3832793adfce560b7f22cb7600988f9c392f2c5",
-      "downloads": 222
+      "downloads": 223
     },
     {
       "dir": "airtable",
@@ -1216,7 +1216,7 @@
       "store": "https://www.raycast.com/marks/raycast-airtable-extension",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/airtable",
       "treeSha": "1e7434340877fda9941820b1506e66b420c43c3d",
-      "downloads": 2549
+      "downloads": 2555
     },
     {
       "dir": "aiven",
@@ -5039,7 +5039,7 @@
       "store": "https://www.raycast.com/Fatpandac/bilibili",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/Bilibili",
       "treeSha": "33f10f1e8409115ee509ac83448aae402baefb58",
-      "downloads": 1424
+      "downloads": 1428
     },
     {
       "dir": "bilibili-search",
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 553632
+      "downloads": 553727
     },
     {
       "dir": "color-shades",
@@ -22518,7 +22518,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 528405
+      "downloads": 528459
     },
     {
       "dir": "google-chrome-profiles",
@@ -28923,7 +28923,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 712386
+      "downloads": 712472
     },
     {
       "dir": "kimai",
@@ -53080,6 +53080,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shell-alias",
       "treeSha": "d74881d160d56efebb97c01006002faace450796",
       "downloads": 519
+    },
+    {
+      "dir": "shell-apps",
+      "name": "shell-apps",
+      "title": "Shell Apps",
+      "description": "Create and launch your own shell command shortcuts as apps on Windows",
+      "author": "Kxrbx",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/shell-apps",
+      "treeSha": "39be5667098c9824794d70fc1e4ae7367f1366fa",
+      "downloads": null
     },
     {
       "dir": "shell-buddy",

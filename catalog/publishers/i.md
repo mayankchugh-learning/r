@@ -35,7 +35,7 @@
 | [imgkl](https://www.raycast.com/imgkl) | 1 | 106 | **Developer Tools:** [Codemagic](https://github.com/raycast/extensions/tree/main/extensions/codemagic) |
 | [ImprovMX](https://www.raycast.com/ImprovMX) | 1 | 209 | **Communication:** [ImprovMX](https://github.com/raycast/extensions/tree/main/extensions/improvmx) |
 | [imqdee](https://www.raycast.com/imqdee) | 2 | 168 | **Web:** [Zerion](https://github.com/raycast/extensions/tree/main/extensions/zerion)<br>**Developer Tools:** [EVM Toolkit](https://github.com/raycast/extensions/tree/main/extensions/evm-toolkit) |
-| [inakitajes](https://www.raycast.com/inakitajes) | 1 | 780 | **Productivity:** [Advanced Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/advanced-speech-to-text) |
+| [inakitajes](https://www.raycast.com/inakitajes) | 1 | 782 | **Productivity:** [Advanced Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/advanced-speech-to-text) |
 | [inamuu](https://www.raycast.com/inamuu) | 1 | 58 | **News:** [Hatena Bookmark](https://github.com/raycast/extensions/tree/main/extensions/hatena-bookmark) |
 | [indykoning](https://www.raycast.com/indykoning) | 1 | 5,964 | **Documentation:** [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) |
 | [Infonautica](https://www.raycast.com/Infonautica) | 1 | 236 | **Data:** [James Webb Space Telescope](https://github.com/raycast/extensions/tree/main/extensions/james-webb-space-telescope) |
@@ -65,5 +65,5 @@
 | [IvanWng97](https://www.raycast.com/IvanWng97) | 1 | 5 | **Developer Tools:** [Pixtuoid](https://github.com/raycast/extensions/tree/main/extensions/pixtuoid) |
 | [iwfan](https://www.raycast.com/iwfan) | 2 | 5,786 | **Uncategorized:** [Quick Search](https://github.com/raycast/extensions/tree/main/extensions/quick-search)<br>**Finance:** [Beancount Meta](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) |
 | [izadoesdev](https://www.raycast.com/izadoesdev) | 1 | 26 | **Developer Tools:** [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) |
-| [izm51](https://www.raycast.com/izm51) | 1 | 583 | **Productivity:** [AI Text to Calendar](https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar) |
+| [izm51](https://www.raycast.com/izm51) | 1 | 584 | **Productivity:** [AI Text to Calendar](https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar) |
 | [izyuumi](https://www.raycast.com/izyuumi) | 1 | 1,584 | **Security:** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass) |

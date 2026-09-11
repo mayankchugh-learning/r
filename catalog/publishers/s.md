@@ -17,7 +17,7 @@
 | [sam.dsgn](https://www.raycast.com/Sam.Dsgn) | 1 | 64 | **Productivity:** [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) |
 | [samarpit_santoki](https://www.raycast.com/samarpit_santoki) | 1 | 97 | **Productivity:** [Braintick](https://github.com/raycast/extensions/tree/main/extensions/braintick) |
 | [sameed_majgaonkar](https://www.raycast.com/sameed_majgaonkar) | 1 | 221 | **System:** [Virtual Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/virtual-desktop-manager) |
-| [sameerasw](https://www.raycast.com/sameerasw) | 1 | 222 | **Productivity:** [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) |
+| [sameerasw](https://www.raycast.com/sameerasw) | 1 | 223 | **Productivity:** [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) |
 | [sami_ullah_tufail](https://www.raycast.com/sami_ullah_tufail) | 1 | 64 | **Productivity:** [CogniMemo](https://github.com/raycast/extensions/tree/main/extensions/cognimemo) |
 | [samjwillis97](https://www.raycast.com/samjwillis97) | 1 | 103 | **Developer Tools:** [Mailtrap](https://github.com/raycast/extensions/tree/main/extensions/mailtrap) |
 | [sampoder](https://www.raycast.com/sampoder) | 1 | 719 | **News:** [CricketCast](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) |
@@ -87,7 +87,7 @@
 | [shubzkothekar](https://www.raycast.com/shubzkothekar) | 1 | 12,581 | **Developer Tools:** [Open in Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) |
 | [shukantpal](https://www.raycast.com/shukantpal) | 1 | 646 | **Developer Tools:** [DigitalOcean](https://github.com/raycast/extensions/tree/main/extensions/digitalocean) |
 | [siddharth_rastogi](https://www.raycast.com/siddharth_rastogi) | 1 | 298 | **Productivity:** [Comma Separator](https://github.com/raycast/extensions/tree/main/extensions/comma-separator) |
-| [siddharthsharma94](https://www.raycast.com/siddharthsharma94) | 1 | 2,793 | **Developer Tools:** [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) |
+| [siddharthsharma94](https://www.raycast.com/siddharthsharma94) | 1 | 2,794 | **Developer Tools:** [Airport - Discover TestFlight Apps](https://github.com/raycast/extensions/tree/main/extensions/airport) |
 | [Silas](https://www.raycast.com/silas) | 1 | 176 | **Developer Tools:** [Cloudflare R2 File Uploader](https://github.com/raycast/extensions/tree/main/extensions/r2-uploader) |
 | [silencesys](https://www.raycast.com/silencesys) | 1 | 103 | **Web:** [Vocabula.lat](https://github.com/raycast/extensions/tree/main/extensions/vocabula-lat) |
 | [silv](https://www.raycast.com/silv) | 1 | 191 | **Uncategorized:** [Remove Window from Set](https://github.com/raycast/extensions/tree/main/extensions/remove-window-from-set) |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · **K** · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-85 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+86 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -48,7 +48,7 @@
 | [KevinWang0224](https://www.raycast.com/KevinWang0224) | 1 | 19 | **Uncategorized:** [Sharding Tools](https://github.com/raycast/extensions/tree/main/extensions/sharding-tools) |
 | [Keyruu](https://www.raycast.com/Keyruu) | 1 | 21,727 | **Applications:** [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) |
 | [kgrhartlage](https://www.raycast.com/kgrhartlage) | 2 | 2,085 | **Web:** [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone)<br>**Developer Tools:** [MUI Documentation](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) |
-| [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 228,216 | **Security:** [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) |
+| [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 228,987 | **Security:** [1Password](https://github.com/raycast/extensions/tree/main/extensions/1password) |
 | [khlebobul](https://www.raycast.com/khlebobul) | 7 | 1,983 | **Productivity:** [Bed Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/bed-time-calculator), [Just Breathe](https://github.com/raycast/extensions/tree/main/extensions/just-breathe)<br>**News:** [TechCrunch](https://github.com/raycast/extensions/tree/main/extensions/techcrunch), [ESPN News](https://github.com/raycast/extensions/tree/main/extensions/espn), [Habr News](https://github.com/raycast/extensions/tree/main/extensions/habr-media), [VC.ru Popular News](https://github.com/raycast/extensions/tree/main/extensions/vc-ru-news), [Rusbase](https://github.com/raycast/extensions/tree/main/extensions/rusbase) |
 | [kibbewater](https://www.raycast.com/kibbewater) | 1 | 12 | **Media:** [Tuneblade](https://github.com/raycast/extensions/tree/main/extensions/tuneblade) |
 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,263 | **Uncategorized:** [GitHub Enterprise](https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise) |
@@ -86,6 +86,7 @@
 | [kush](https://www.raycast.com/kush) | 1 | 1,060 | **Applications:** [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) |
 | [kusthi](https://www.raycast.com/kusthi) | 1 | 163 | **Web:** [Tynyfy - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/tynyfy) |
 | [kvdo2](https://www.raycast.com/kvdo2) | 1 | 245 | **Fun:** [Switch Game Play History](https://github.com/raycast/extensions/tree/main/extensions/switch-game-play-history) |
+| Kxrbx | 1 | — | **Developer Tools:** [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) |
 | [kyle_samani](https://www.raycast.com/kyle_samani) | 1 | 186 | **Finance:** [Google Finance](https://github.com/raycast/extensions/tree/main/extensions/google-finance) |
 | [kyleawayan](https://www.raycast.com/kyleawayan) | 1 | 6 | **Applications:** [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) |
 | [kylekanderson](https://www.raycast.com/kylekanderson) | 1 | 4 | **Developer Tools:** [Yerd](https://github.com/raycast/extensions/tree/main/extensions/yerd) |

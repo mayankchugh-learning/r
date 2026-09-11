@@ -16,7 +16,7 @@
 | [yannglt](https://www.raycast.com/yannglt) | 3 | 820 | **Communication:** [Gather](https://github.com/raycast/extensions/tree/main/extensions/gather)<br>**Applications:** [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats), [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere) |
 | [yaronschwimmer](https://www.raycast.com/yaronschwimmer) | 1 | 2,186 | **Productivity:** [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) |
 | [yasinozmeen](https://www.raycast.com/yasinozmeen) | 1 | 13 | **Productivity:** [Random Date Generator](https://github.com/raycast/extensions/tree/main/extensions/random-date-generator) |
-| [yassine_souilmi](https://www.raycast.com/yassine_souilmi) | 1 | 67 | **Productivity:** [Affine](https://github.com/raycast/extensions/tree/main/extensions/affine-raycast) |
+| [yassine_souilmi](https://www.raycast.com/yassine_souilmi) | 1 | 68 | **Productivity:** [Affine](https://github.com/raycast/extensions/tree/main/extensions/affine-raycast) |
 | [yasuhiroyamamoto](https://www.raycast.com/yasuhiroyamamoto) | 1 | 237 | **Developer Tools:** [Image Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) |
 | [yaya12085](https://www.raycast.com/yaya12085) | 1 | 172 | **Productivity:** [Rule of Three](https://github.com/raycast/extensions/tree/main/extensions/rule-of-three) |
 | [yazanzaid00](https://www.raycast.com/yazanzaid00) | 2 | 2,010 | **System:** [Sequoia Window Tiling](https://github.com/raycast/extensions/tree/main/extensions/sequoia-tiling)<br>**Communication:** [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) |
