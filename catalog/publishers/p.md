@@ -33,7 +33,7 @@
 | [paulovictor237](https://www.raycast.com/paulovictor237) | 1 | 322 | **Productivity:** [NumPad](https://github.com/raycast/extensions/tree/main/extensions/numpad) |
 | [pavzagor](https://www.raycast.com/pavzagor) | 1 | 174 | **System:** [Extend Display](https://github.com/raycast/extensions/tree/main/extensions/extend-display) |
 | [pcho](https://www.raycast.com/pcho) | 1 | 149 | **Fun:** [Arc Helper](https://github.com/raycast/extensions/tree/main/extensions/arc-helper) |
-| [peduarte](./id/peduarte.md) | 14 | 27,301 | [see all 14 →](./id/peduarte.md) |
+| [peduarte](./id/peduarte.md) | 14 | 27,317 | [see all 14 →](./id/peduarte.md) |
 | [peeks](https://www.raycast.com/peeks) | 1 | 1,141 | **Productivity:** [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) |
 | [pejman_yaghmaie](https://www.raycast.com/pejman_yaghmaie) | 1 | 26 | **Productivity:** [Who Is off Today?](https://github.com/raycast/extensions/tree/main/extensions/who-is-off-today) |
 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 96,749 | [see all 21 →](./id/pernielsentikaer.md) |

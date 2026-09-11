@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3396a2bfe43b2b41346d2f06245c1e5a13831456",
-  "generatedAt": "2026-09-11T12:38:49.172Z",
-  "downloadsRefreshedAt": "2026-09-11T12:38:48.754Z",
+  "commit": "1c77eee269e011215748e488604ea4f73d5ac914",
+  "generatedAt": "2026-09-11T12:54:41.061Z",
+  "downloadsRefreshedAt": "2026-09-11T12:54:40.680Z",
   "count": 3286,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 554605
+      "downloads": 554688
     },
     {
       "dir": "color-shades",
@@ -17744,7 +17744,7 @@
       "store": "https://www.raycast.com/ron-myers/facetime",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/facetime",
       "treeSha": "6db3ae5186ed6415cb36fdd6f0cba5d8456eead5",
-      "downloads": 15028
+      "downloads": 15064
     },
     {
       "dir": "fake-financial-data",
@@ -17889,7 +17889,7 @@
       "store": "https://www.raycast.com/peduarte/fancy-text",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fancy-text",
       "treeSha": "3bada25bce0c9e28fc89d8f45dd9ebc2fc0ed791",
-      "downloads": 5520
+      "downloads": 5536
     },
     {
       "dir": "fantastical",
@@ -17910,7 +17910,7 @@
       "store": "https://www.raycast.com/devahschaefers/fantastical",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fantastical",
       "treeSha": "974419dd7dca4daef04d3818e866cdb3ecd9d2fc",
-      "downloads": 20659
+      "downloads": 20708
     },
     {
       "dir": "fantasy-premier-league-rankings",
@@ -18014,7 +18014,7 @@
       "store": "https://www.raycast.com/LightQuantum/fastmail-masked-email",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email",
       "treeSha": "a6f840652358580d97883cca085141cbd47603f4",
-      "downloads": 1534
+      "downloads": 1539
     },
     {
       "dir": "fathom",
@@ -18078,7 +18078,7 @@
       "store": "https://www.raycast.com/yannglt/fathom-analytics-stats",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats",
       "treeSha": "b9401e40bbc784b670bdc9c512c8e517c4501cd1",
-      "downloads": 144
+      "downloads": 145
     },
     {
       "dir": "favoro",
@@ -18394,7 +18394,7 @@
       "store": "https://www.raycast.com/michaelschultz/figma-files-raycast-extension",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/figma-files",
       "treeSha": "739d9fcbaf4d4523ca6878cb862786ba825e27e6",
-      "downloads": 47417
+      "downloads": 47542
     },
     {
       "dir": "figma-learn-companion",
@@ -18479,7 +18479,7 @@
       "store": "https://www.raycast.com/martin_molcrette/figma-variables",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/figma-variables",
       "treeSha": "1b33c0af48b91ae57f40d986fa5a9ca7294e5ba8",
-      "downloads": 762
+      "downloads": 763
     },
     {
       "dir": "filamentphp-doc-seach",
@@ -18523,7 +18523,7 @@
       "store": "https://www.raycast.com/Envl/file-info",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/file-info",
       "treeSha": "91ec9091948a11f55b86b2bc31ebed35dbb4219d",
-      "downloads": 680
+      "downloads": 684
     },
     {
       "dir": "file-manager",
@@ -18544,7 +18544,7 @@
       "store": "https://www.raycast.com/erics118/file-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/file-manager",
       "treeSha": "4216408c7e34de9be5629f5a800adbc49b688dc3",
-      "downloads": 31052
+      "downloads": 31146
     },
     {
       "dir": "file-organizer",
@@ -18564,7 +18564,7 @@
       "store": "https://www.raycast.com/felix_wortmann/file-organizer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/file-organizer",
       "treeSha": "de95c5fac3885a1f979c0436b9e88fa2245ff753",
-      "downloads": 944
+      "downloads": 946
     },
     {
       "dir": "file-provider-progress",
@@ -18627,7 +18627,7 @@
       "store": "https://www.raycast.com/csharp/file-tree-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/file-tree-generator",
       "treeSha": "9b603fa214578165e6fb0e167dd7fa425c8db07b",
-      "downloads": 729
+      "downloads": 733
     },
     {
       "dir": "filemaker-snippets",
@@ -18690,7 +18690,7 @@
       "store": "https://www.raycast.com/naqet/filezilla",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/filezilla",
       "treeSha": "50a860e5655729a45707f50641ed731d461b3543",
-      "downloads": 1404
+      "downloads": 1408
     },
     {
       "dir": "fillerama",
@@ -22539,7 +22539,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 528956
+      "downloads": 529007
     },
     {
       "dir": "google-chrome-profiles",
@@ -28944,7 +28944,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 713366
+      "downloads": 713449
     },
     {
       "dir": "kimai",
@@ -68769,7 +68769,7 @@
       ],
       "store": "https://www.raycast.com/materialcritic/zlib-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zlib-search",
-      "treeSha": "20146111b2ca536af24abd87209cf3404502d80b",
+      "treeSha": "daeb1978a4900182f4a138d27dd08e9456f9bd8d",
       "downloads": 0
     },
     {

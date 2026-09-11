@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Folder Search](https://github.com/raycast/extensions/tree/main/extensions/folder-search) | 47,811 | Search for folders on your Mac | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/folder-search) |
-| [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 31,052 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
+| [File Manager](https://github.com/raycast/extensions/tree/main/extensions/file-manager) | 31,146 | Manage files from Raycast | erics118 | macOS | [store](https://www.raycast.com/erics118/file-manager) |
 | [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 21,385 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
 | [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders) | 19,439 | Open your common files and folders quickly! | timothy_boye | macOS | [store](https://www.raycast.com/timothy_boye/open-folders) |
 | [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) | 9,117 | List and choose a single disk to eject. | johndturn | Windows, macOS | [store](https://www.raycast.com/johndturn/single-disk-eject) |

@@ -48,7 +48,7 @@
 | [MarlburroW](https://www.raycast.com/MarlburroW) | 1 | 702 | **System:** [Uptime Kuma](https://github.com/raycast/extensions/tree/main/extensions/uptime-kuma) |
 | [marlonr](https://www.raycast.com/marlonr) | 1 | 535 | **System:** [PaperMatch](https://github.com/raycast/extensions/tree/main/extensions/papermatch) |
 | [marruje](https://www.raycast.com/marruje) | 1 | 19 | **Web:** [Search Gule Sider](https://github.com/raycast/extensions/tree/main/extensions/search-gule-sider) |
-| [martin_molcrette](https://www.raycast.com/martin_molcrette) | 1 | 762 | **Design Tools:** [Figma Variables](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) |
+| [martin_molcrette](https://www.raycast.com/martin_molcrette) | 1 | 763 | **Design Tools:** [Figma Variables](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) |
 | [martins](https://www.raycast.com/martins) | 1 | 5 | **Finance:** [BC Assessment](https://github.com/raycast/extensions/tree/main/extensions/bcassessment) |
 | [martipops](https://www.raycast.com/martipops) | 1 | 1,329 | **Uncategorized:** [Popcorn - Explore Stremio Streams](https://github.com/raycast/extensions/tree/main/extensions/popcorn) |
 | [marvel940804836](https://www.raycast.com/marvel940804836) | 1 | 26 | **Developer Tools:** [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) |
@@ -112,7 +112,7 @@
 | [michael.wang](https://www.raycast.com/michael.wang) | 1 | 978 | **Developer Tools:** [GitHub Codespaces](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) |
 | [michaelfarquhar](https://www.raycast.com/michaelfarquhar) | 1 | 1,634 | **Data:** [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) |
 | [michaelheckmann](https://www.raycast.com/michaelheckmann) | 1 | 20 | **Applications:** [Orbit](https://github.com/raycast/extensions/tree/main/extensions/orbit) |
-| [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 47,546 | **Design Tools:** [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files)<br>**Productivity:** [Sensible - Document Data Extraction](https://github.com/raycast/extensions/tree/main/extensions/sensible)<br>**Uncategorized:** [Hemolog](https://github.com/raycast/extensions/tree/main/extensions/hemolog) |
+| [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 47,671 | **Design Tools:** [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files)<br>**Productivity:** [Sensible - Document Data Extraction](https://github.com/raycast/extensions/tree/main/extensions/sensible)<br>**Uncategorized:** [Hemolog](https://github.com/raycast/extensions/tree/main/extensions/hemolog) |
 | [michalkos](https://www.raycast.com/michalkos) | 1 | 27 | **Applications:** [Promptty](https://github.com/raycast/extensions/tree/main/extensions/promptty) |
 | [Michi-2124](https://www.raycast.com/Michi-2124) | 1 | 11 | **Security:** [Exivo](https://github.com/raycast/extensions/tree/main/extensions/exivo) |
 | [mickaphd](https://www.raycast.com/mickaphd) | 1 | 613 | **News:** [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) |

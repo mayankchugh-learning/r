@@ -80,7 +80,7 @@
 | [dev_khant](https://www.raycast.com/dev_khant) | 1 | 628 | **Productivity:** [Mem0](https://github.com/raycast/extensions/tree/main/extensions/mem0) |
 | [dev99problems](https://www.raycast.com/dev99problems) | 1 | 439 | **News:** [Lobste.rs Homepage](https://github.com/raycast/extensions/tree/main/extensions/lobsters) |
 | [devadathanmb](https://www.raycast.com/devadathanmb) | 1 | 246 | **Media:** [Wallhaven](https://github.com/raycast/extensions/tree/main/extensions/wallhaven) |
-| [devahschaefers](https://www.raycast.com/devahschaefers) | 1 | 20,659 | **Applications:** [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) |
+| [devahschaefers](https://www.raycast.com/devahschaefers) | 1 | 20,708 | **Applications:** [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) |
 | [devall](https://www.raycast.com/devall) | 1 | 67 | **Productivity:** [Yandex Smart Home](https://github.com/raycast/extensions/tree/main/extensions/yandex-smart-home) |
 | [developerlover](https://www.raycast.com/developerlover) | 1 | 1,876 | **Productivity:** [Google Advanced Search](https://github.com/raycast/extensions/tree/main/extensions/google-advanced-search) |
 | [Deviljin112](https://www.raycast.com/Deviljin112) | 1 | 144 | **Applications:** [YASB](https://github.com/raycast/extensions/tree/main/extensions/yasb) |

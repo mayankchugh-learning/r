@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,187,092 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,187,175 |
 | 2 | [raycast](./id/raycast.md) | 11 | 840,398 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 713,366 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 528,956 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 713,449 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 529,007 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 462,361 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 457,677 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 429,316 |
@@ -37,12 +37,12 @@
 | 27 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 108,887 |
 | 28 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 108,109 |
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 106,211 |
-| 30 | [erics118](https://www.raycast.com/erics118) | 3 | 100,052 |
+| 30 | [erics118](https://www.raycast.com/erics118) | 3 | 100,146 |
 | 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 99,248 |
 | 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 96,749 |
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 96,396 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 95,868 |
-| 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 91,363 |
+| 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 91,399 |
 | 36 | [doist](https://www.raycast.com/doist) | 1 | 90,146 |
 | 37 | [tegola](https://www.raycast.com/tegola) | 2 | 84,949 |
 | 38 | [huzef44](https://www.raycast.com/huzef44) | 6 | 77,900 |
@@ -62,7 +62,7 @@
 | 52 | [MarkusLanger](https://www.raycast.com/MarkusLanger) | 1 | 49,457 |
 | 53 | [priithaamer](https://www.raycast.com/priithaamer) | 1 | 49,092 |
 | 54 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 48,612 |
-| 55 | [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 47,546 |
+| 55 | [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 47,671 |
 | 56 | [mackopes](https://www.raycast.com/mackopes) | 1 | 47,530 |
 | 57 | [lardissone](https://www.raycast.com/lardissone) | 3 | 44,620 |
 | 58 | [degouville](https://www.raycast.com/degouville) | 4 | 44,472 |
@@ -93,8 +93,8 @@
 | 83 | [moored](https://www.raycast.com/moored) | 1 | 27,760 |
 | 84 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 27,606 |
 | 85 | [djpowers](https://www.raycast.com/djpowers) | 4 | 27,480 |
-| 86 | [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 27,314 |
-| 87 | [peduarte](./id/peduarte.md) | 14 | 27,301 |
+| 86 | [peduarte](./id/peduarte.md) | 14 | 27,317 |
+| 87 | [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 27,314 |
 | 88 | [mrmartineau](https://www.raycast.com/mrmartineau) | 4 | 27,124 |
 | 89 | [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 27,041 |
 | 90 | [jag-k](https://www.raycast.com/jag-k) | 2 | 26,679 |
@@ -114,7 +114,7 @@
 | 104 | [Keyruu](https://www.raycast.com/Keyruu) | 1 | 21,727 |
 | 105 | [xilopaint](./id/xilopaint.md) | 10 | 21,452 |
 | 106 | [o1y](https://www.raycast.com/o1y) | 1 | 20,852 |
-| 107 | [devahschaefers](https://www.raycast.com/devahschaefers) | 1 | 20,659 |
+| 107 | [devahschaefers](https://www.raycast.com/devahschaefers) | 1 | 20,708 |
 | 108 | [krzysztofzuraw](https://www.raycast.com/krzysztofzuraw) | 2 | 20,389 |
 | 109 | [joao.mainka](https://www.raycast.com/joao.mainka) | 1 | 20,225 |
 | 110 | [xeric](https://www.raycast.com/xeric) | 2 | 19,962 |
@@ -414,7 +414,7 @@
 | 404 | [yf_zhang](https://www.raycast.com/yf_zhang) | 1 | 2,327 |
 | 405 | [adelowo](https://www.raycast.com/adelowo) | 1 | 2,322 |
 | 406 | [zkondor](https://www.raycast.com/zkondor) | 1 | 2,310 |
-| 407 | [csharp](https://www.raycast.com/csharp) | 2 | 2,261 |
+| 407 | [csharp](https://www.raycast.com/csharp) | 2 | 2,265 |
 | 408 | [matt](https://www.raycast.com/matt) | 1 | 2,260 |
 | 409 | [kennonb](https://www.raycast.com/kennonb) | 1 | 2,252 |
 | 410 | [DrChai](https://www.raycast.com/DrChai) | 1 | 2,238 |
@@ -458,7 +458,7 @@
 | 448 | [LostViking09](https://www.raycast.com/LostViking09) | 1 | 1,984 |
 | 449 | [khlebobul](https://www.raycast.com/khlebobul) | 7 | 1,983 |
 | 450 | [tm.wrnr](https://www.raycast.com/tm.wrnr) | 4 | 1,977 |
-| 451 | [Envl](https://www.raycast.com/Envl) | 4 | 1,971 |
+| 451 | [Envl](https://www.raycast.com/Envl) | 4 | 1,975 |
 | 452 | [hongkiulam](https://www.raycast.com/hongkiulam) | 1 | 1,966 |
 | 453 | [zerowidth](https://www.raycast.com/zerowidth) | 1 | 1,946 |
 | 454 | [rodrigouroz](https://www.raycast.com/rodrigouroz) | 1 | 1,939 |
@@ -521,8 +521,8 @@
 | 511 | [swayam_mehta](https://www.raycast.com/swayam_mehta) | 2 | 1,568 |
 | 512 | [oktay](https://www.raycast.com/oktay) | 1 | 1,562 |
 | 513 | [Noamko](https://www.raycast.com/Noamko) | 1 | 1,546 |
-| 514 | [alexstrnik](https://www.raycast.com/alexstrnik) | 2 | 1,534 |
-| 515 | [LightQuantum](https://www.raycast.com/LightQuantum) | 1 | 1,534 |
+| 514 | [LightQuantum](https://www.raycast.com/LightQuantum) | 1 | 1,539 |
+| 515 | [alexstrnik](https://www.raycast.com/alexstrnik) | 2 | 1,534 |
 | 516 | [nicoverbruggen](https://www.raycast.com/nicoverbruggen) | 1 | 1,531 |
 | 517 | [jebraat](https://www.raycast.com/jebraat) | 1 | 1,529 |
 | 518 | [juliusmarminge](https://www.raycast.com/juliusmarminge) | 1 | 1,525 |
@@ -551,7 +551,7 @@
 | 541 | [crazyczy](https://www.raycast.com/crazyczy) | 1 | 1,417 |
 | 542 | [supermemory](https://www.raycast.com/supermemory) | 1 | 1,413 |
 | 543 | [scottaglia](https://www.raycast.com/scottaglia) | 1 | 1,410 |
-| 544 | [naqet](https://www.raycast.com/naqet) | 1 | 1,404 |
+| 544 | [naqet](https://www.raycast.com/naqet) | 1 | 1,408 |
 | 545 | [karthik](https://www.raycast.com/karthik) | 1 | 1,401 |
 | 546 | [bix](https://www.raycast.com/bix) | 1 | 1,381 |
 | 547 | [tafhyseni](https://www.raycast.com/tafhyseni) | 1 | 1,376 |
@@ -667,7 +667,7 @@
 | 657 | [lemikeone](https://www.raycast.com/lemikeone) | 7 | 1,011 |
 | 658 | [NathanThomassin](https://www.raycast.com/NathanThomassin) | 2 | 1,005 |
 | 659 | [FelipeCortez](https://www.raycast.com/FelipeCortez) | 1 | 1,005 |
-| 660 | [felix_wortmann](https://www.raycast.com/felix_wortmann) | 2 | 1,001 |
+| 660 | [felix_wortmann](https://www.raycast.com/felix_wortmann) | 2 | 1,003 |
 | 661 | [leitmotif](https://www.raycast.com/leitmotif) | 1 | 999 |
 | 662 | [SevicheCC](https://www.raycast.com/SevicheCC) | 4 | 997 |
 | 663 | [popalay](https://www.raycast.com/popalay) | 2 | 996 |
@@ -726,7 +726,7 @@
 | 716 | [kumamaki](https://www.raycast.com/kumamaki) | 3 | 826 |
 | 717 | [guilhermevictor](https://www.raycast.com/guilhermevictor) | 1 | 825 |
 | 718 | [kbysiec](https://www.raycast.com/kbysiec) | 1 | 823 |
-| 719 | [yannglt](https://www.raycast.com/yannglt) | 3 | 820 |
+| 719 | [yannglt](https://www.raycast.com/yannglt) | 3 | 821 |
 | 720 | [leo](https://www.raycast.com/leo) | 1 | 813 |
 | 721 | [GenuineCheddar](https://www.raycast.com/GenuineCheddar) | 1 | 810 |
 | 722 | [ernest](https://www.raycast.com/ernest) | 2 | 809 |
@@ -757,8 +757,8 @@
 | 747 | [AllanM](https://www.raycast.com/AllanM) | 1 | 768 |
 | 748 | [posthardcode](https://www.raycast.com/posthardcode) | 1 | 764 |
 | 749 | [troalexis](https://www.raycast.com/troalexis) | 1 | 764 |
-| 750 | [lockieluke3389](https://www.raycast.com/lockieluke3389) | 1 | 762 |
-| 751 | [martin_molcrette](https://www.raycast.com/martin_molcrette) | 1 | 762 |
+| 750 | [martin_molcrette](https://www.raycast.com/martin_molcrette) | 1 | 763 |
+| 751 | [lockieluke3389](https://www.raycast.com/lockieluke3389) | 1 | 762 |
 | 752 | [crazyair](https://www.raycast.com/crazyair) | 1 | 761 |
 | 753 | [tillkruss](https://www.raycast.com/tillkruss) | 1 | 760 |
 | 754 | [colinlienard](https://www.raycast.com/colinlienard) | 1 | 759 |

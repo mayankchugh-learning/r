@@ -46,7 +46,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 107,891 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
 | [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 34,269 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
-| [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 15,028 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
+| [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 15,064 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 9,699 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
 | [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 5,665 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
 | [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 5,016 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |

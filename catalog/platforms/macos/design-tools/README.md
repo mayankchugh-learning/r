@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 554,605 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 554,688 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,490 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,747 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,226 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -92,10 +92,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 47,417 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
+| [Figma File Search](https://github.com/raycast/extensions/tree/main/extensions/figma-files) | 47,542 | Lists Figma files allowing you to search and navigate to them. | michaelschultz | macOS, Windows | [store](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) |
 | [Excalidraw](https://github.com/raycast/extensions/tree/main/extensions/excalidraw) | 1,611 | allow easy access to your excalidraw boards from Raycast! | slyguy5646 | macOS | [store](https://www.raycast.com/slyguy5646/excalidraw) |
 | [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch) | 955 | Frictionless Workspace Browsing | aesign | macOS | [store](https://www.raycast.com/aesign/sketch) |
-| [Figma Variables](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) | 762 | Access Figma variables in Raycast | martin_molcrette | macOS | [store](https://www.raycast.com/martin_molcrette/figma-variables) |
+| [Figma Variables](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) | 763 | Access Figma variables in Raycast | martin_molcrette | macOS | [store](https://www.raycast.com/martin_molcrette/figma-variables) |
 | [Canva](https://github.com/raycast/extensions/tree/main/extensions/canva) | 395 | View Designs and Open in Browser | xmok | macOS | [store](https://www.raycast.com/xmok/canva) |
 | [Framer Motion](https://github.com/raycast/extensions/tree/main/extensions/framer-motion) | 348 | Documentation for Framer Motion | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/framer-motion) |
 | [Zeplin Project Search](https://github.com/raycast/extensions/tree/main/extensions/zeplin-project-search) | 288 | List and Search Zeplin Projects | dorukgunes | macOS | [store](https://www.raycast.com/dorukgunes/zeplin-project-raycast-extension) |

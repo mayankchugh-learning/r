@@ -44,7 +44,7 @@
 | [lichinlin](https://www.raycast.com/lichinlin) | 1 | 525 | **Fun:** [Google Maps Explorer](https://github.com/raycast/extensions/tree/main/extensions/findnearby) |
 | [liel_azulay](https://www.raycast.com/liel_azulay) | 1 | 149 | **Developer Tools:** [Token Track](https://github.com/raycast/extensions/tree/main/extensions/tokentrack) |
 | [lifedever](https://www.raycast.com/lifedever) | 1 | 27 | **Productivity:** [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick) |
-| [LightQuantum](https://www.raycast.com/LightQuantum) | 1 | 1,534 | **Productivity:** [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) |
+| [LightQuantum](https://www.raycast.com/LightQuantum) | 1 | 1,539 | **Productivity:** [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) |
 | [lihzsky](https://www.raycast.com/lihzsky) | 1 | 241 | **Developer Tools:** [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) |
 | [liluo](https://www.raycast.com/liluo) | 1 | 118 | **Developer Tools:** [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) |
 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 15,809 | **Productivity:** [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) |

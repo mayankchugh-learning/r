@@ -81,7 +81,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 56 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 11,918 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 528,956 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 529,007 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,433 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 126 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 727 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |
@@ -118,7 +118,7 @@
 | [cro64](https://www.raycast.com/cro64) | 1 | 7 | **Web:** [CourtListener Search](https://github.com/raycast/extensions/tree/main/extensions/courtlistener-search) |
 | [Cronos87](https://www.raycast.com/Cronos87) | 1 | 2,452 | **Data:** [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) |
 | [cscnk52](https://www.raycast.com/cscnk52) | 1 | 38 | **Developer Tools:** [Typst Universe](https://github.com/raycast/extensions/tree/main/extensions/typst-universe) |
-| [csharp](https://www.raycast.com/csharp) | 2 | 2,261 | **Productivity:** [Clipboard Utilities](https://github.com/raycast/extensions/tree/main/extensions/clipboard-utilities)<br>**Developer Tools:** [File Tree Generator](https://github.com/raycast/extensions/tree/main/extensions/file-tree-generator) |
+| [csharp](https://www.raycast.com/csharp) | 2 | 2,265 | **Productivity:** [Clipboard Utilities](https://github.com/raycast/extensions/tree/main/extensions/clipboard-utilities)<br>**Developer Tools:** [File Tree Generator](https://github.com/raycast/extensions/tree/main/extensions/file-tree-generator) |
 | [csigritz](https://www.raycast.com/csigritz) | 3 | 7,824 | **Fun:** [Formula 1](https://github.com/raycast/extensions/tree/main/extensions/f1-standings)<br>**Developer Tools:** [End of Life](https://github.com/raycast/extensions/tree/main/extensions/end-of-life)<br>**Media:** [setlist.fm](https://github.com/raycast/extensions/tree/main/extensions/setlist-fm) |
 | [CT-7567](https://www.raycast.com/CT-7567) | 1 | 1,921 | **Productivity:** [Simple Dictionary](https://github.com/raycast/extensions/tree/main/extensions/simple-dictionary) |
 | [ctacta621](https://www.raycast.com/ctacta621) | 2 | 16 | **Productivity:** [Dida365](https://github.com/raycast/extensions/tree/main/extensions/dida365)<br>**Communication:** [NetEase Mail](https://github.com/raycast/extensions/tree/main/extensions/netease-mail) |
