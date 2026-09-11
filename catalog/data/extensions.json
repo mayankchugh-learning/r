@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "83566551271f5fadf25a79749553c198dfa7a6d2",
-  "generatedAt": "2026-09-11T05:22:39.064Z",
-  "downloadsRefreshedAt": "2026-09-11T05:22:38.620Z",
+  "commit": "e2a3620153bbcedfaca395aed02ccfefaaf0a1c3",
+  "generatedAt": "2026-09-11T05:50:40.140Z",
+  "downloadsRefreshedAt": "2026-09-11T05:50:39.480Z",
   "count": 3276,
   "extensions": [
     {
@@ -7291,10 +7291,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/kasuncfdo/ceypay",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ceypay",
       "treeSha": "dd09ef204eb3841c3418dbe52eb9bf8f5ce72738",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "chainscout",
@@ -10020,7 +10020,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 551794
+      "downloads": 551938
     },
     {
       "dir": "color-shades",
@@ -17336,7 +17336,7 @@
       "description": "Search files using Everything on Windows.",
       "author": "anastasiy_safari",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Applications",
         "Productivity",
@@ -17349,7 +17349,7 @@
       ],
       "store": "https://www.raycast.com/anastasiy_safari/everything-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/everything-search",
-      "treeSha": "5b262a2eebff6f2a06615a678269ba89f0dd0eb2",
+      "treeSha": "7b6b580f0f346d9e225d3987ab05bd504b21f2da",
       "downloads": 6976
     },
     {
@@ -22457,7 +22457,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 527256
+      "downloads": 527346
     },
     {
       "dir": "google-chrome-profiles",
@@ -28842,7 +28842,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 710529
+      "downloads": 710672
     },
     {
       "dir": "kimai",

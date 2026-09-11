@@ -17,7 +17,7 @@
 | [Quick References](https://github.com/raycast/extensions/tree/main/extensions/quick-references) | 70 | Search and browse Fechin/reference cheat sheets with favorites and offline support. | daniel_schoeman | macOS | [store](https://www.raycast.com/daniel_schoeman/quick-references) |
 | [Effect Docs](https://github.com/raycast/extensions/tree/main/extensions/effect-docs) | 15 | Search Effect-TS documentation and API reference from Raycast | rvaccone | macOS | [store](https://www.raycast.com/rvaccone/effect-docs) |
 | [NSIS Reference](https://github.com/raycast/extensions/tree/main/extensions/nsis-reference) | 11 | Search NSIS references | idleberg | macOS | [store](https://www.raycast.com/idleberg/nsis-reference) |
-| [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) | — | Search CeyPay documentation and API reference — accept crypto payments, settle in Sri Lankan Rupees. | kasuncfdo | macOS | — |
+| [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) | 0 | Search CeyPay documentation and API reference — accept crypto payments, settle in Sri Lankan Rupees. | kasuncfdo | macOS | [store](https://www.raycast.com/kasuncfdo/ceypay) |
 
 ## Cheatsheets ✦
 

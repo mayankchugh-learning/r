@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `e2a3620153`
+
+**Updated (1):** [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search)
+
 ## 2026-09-11 — upstream `8356655127`
 
 **Added (1):** [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay)

@@ -23,7 +23,7 @@
 | [karthik](https://www.raycast.com/karthik) | 1 | 1,401 | **System:** [Hellonext Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/hellonext-wallpapers) |
 | [KartikKumarSahoo](https://www.raycast.com/KartikKumarSahoo) | 1 | 13,657 | **Productivity:** [Microsoft Edge](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) |
 | [Kasper](https://www.raycast.com/Kasper) | 1 | 218 | **Productivity:** [Moji Dict Search](https://github.com/raycast/extensions/tree/main/extensions/moji) |
-| kasuncfdo | 1 | — | **Documentation:** [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) |
+| [kasuncfdo](https://www.raycast.com/kasuncfdo) | 1 | 0 | **Documentation:** [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) |
 | [Katatsu](https://www.raycast.com/Katatsu) | 1 | 1,158 | **Productivity:** [WordReference Dictionary Translation](https://github.com/raycast/extensions/tree/main/extensions/wordreference) |
 | [kawamataryo](https://www.raycast.com/kawamataryo) | 4 | 44,147 | **Developer Tools:** [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng)<br>**Productivity:** [Smart Reply - AI-Powered Multilingual Response Ge…](https://github.com/raycast/extensions/tree/main/extensions/smart-reply), [Mochi](https://github.com/raycast/extensions/tree/main/extensions/mochi), [esa Search](https://github.com/raycast/extensions/tree/main/extensions/esa-search) |
 | [kayla](https://www.raycast.com/kayla) | 1 | 395 | **Fun:** [Roll D20](https://github.com/raycast/extensions/tree/main/extensions/roll-d20) |
