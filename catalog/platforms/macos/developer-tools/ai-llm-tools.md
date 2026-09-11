@@ -2,11 +2,11 @@
 
 **AI & LLM Tools** · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-130 of 1113 extensions · [← macOS · Developer Tools](./README.md)
+131 of 1114 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 247,510 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 247,636 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 79,382 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
 | [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 42,531 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
 | [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict) | 37,055 | Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencen… | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/easydict) |
@@ -135,4 +135,5 @@
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 2 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 2 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |
+| [Codex Reset Forecast](https://github.com/raycast/extensions/tree/main/extensions/codex-reset-forecast) | — | See the 24-hour and 48-hour Codex reset likelihood, announcements, and reset history from codexreset.org. Unofficial and not affiliated with OpenAI. | Astatine-213 | macOS | — |
 | [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) | — | Take an idea from anywhere and turn it into code with Copilot Workspace | github-next (org) | macOS | — |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-192 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+193 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -19,7 +19,7 @@
 | [abeldebruijn](https://www.raycast.com/abeldebruijn) | 1 | 28 | **Productivity:** [Delphitools](https://github.com/raycast/extensions/tree/main/extensions/delphi-tools-raycast-extension) |
 | [AbhinavPalacharla](https://www.raycast.com/AbhinavPalacharla) | 2 | 3,884 | **Fun:** [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer)<br>**Productivity:** [Citation Generator](https://github.com/raycast/extensions/tree/main/extensions/citation-generator) |
 | [abhisheksatre](https://www.raycast.com/abhisheksatre) | 1 | 1,995 | **Productivity:** [Multilinks](https://github.com/raycast/extensions/tree/main/extensions/multilinks) |
-| [abielzulio](https://www.raycast.com/abielzulio) | 2 | 247,638 | **Productivity:** [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt)<br>**AI:** [Klu](https://github.com/raycast/extensions/tree/main/extensions/klu-ai) |
+| [abielzulio](https://www.raycast.com/abielzulio) | 2 | 247,764 | **Productivity:** [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt)<br>**AI:** [Klu](https://github.com/raycast/extensions/tree/main/extensions/klu-ai) |
 | [abnershang](https://www.raycast.com/abnershang) | 1 | 18 | **Developer Tools:** [ZenMux Manager](https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager) |
 | [absir1949](https://www.raycast.com/absir1949) | 1 | 58 | **Productivity:** [Flypy Code Query](https://github.com/raycast/extensions/tree/main/extensions/flypy-code-query) |
 | [abstyle](https://www.raycast.com/abstyle) | 1 | 7 | **Applications:** [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) |
@@ -177,6 +177,7 @@
 | [aslamdoctor](https://www.raycast.com/aslamdoctor) | 1 | 135 | **Developer Tools:** [WordPress WP-CLI Commands Explorer](https://github.com/raycast/extensions/tree/main/extensions/wp-cli-command-explorer) |
 | [asnimansari](https://www.raycast.com/asnimansari) | 1 | 249 | **Productivity:** [Scratchpad](https://github.com/raycast/extensions/tree/main/extensions/scratchpad) |
 | [asportnoy](https://www.raycast.com/asportnoy) | 1 | 5,873 | **Developer Tools:** [Date Converter](https://github.com/raycast/extensions/tree/main/extensions/date-converter) |
+| Astatine-213 | 1 | — | **Developer Tools:** [Codex Reset Forecast](https://github.com/raycast/extensions/tree/main/extensions/codex-reset-forecast) |
 | [astrit](https://www.raycast.com/astrit) | 2 | 3,940 | **Productivity:** [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg), [Cron](https://github.com/raycast/extensions/tree/main/extensions/cron) |
 | [astroboii47](https://www.raycast.com/astroboii47) | 1 | 341 | **Productivity:** [Blip](https://github.com/raycast/extensions/tree/main/extensions/blip-raycast) |
 | [astronight](https://www.raycast.com/astronight) | 1 | 1,520 | **Developer Tools:** [Snippet Surfer](https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer) |

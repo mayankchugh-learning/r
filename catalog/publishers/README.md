@@ -1,6 +1,6 @@
 # Publishers
 
-2191 publishers · [← catalog index](../README.md)
+2192 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,184,435 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,184,453 |
 | 2 | [raycast](./id/raycast.md) | 11 | 839,672 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 710,991 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 527,548 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,002 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 527,559 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 462,357 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 457,677 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 429,250 |
@@ -22,7 +22,7 @@
 | 12 | [nhojb](https://www.raycast.com/nhojb) | 1 | 270,557 |
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 260,333 |
 | 14 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 249,107 |
-| 15 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 247,638 |
+| 15 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 247,764 |
 | 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 228,216 |
 | 17 | [destiner](https://www.raycast.com/destiner) | 9 | 219,886 |
 | 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 195,728 |
@@ -2198,4 +2198,5 @@
 | 2188 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 0 |
 | 2189 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2190 | github-next | 2 | — |
-| 2191 | multi | 1 | — |
+| 2191 | Astatine-213 | 1 | — |
+| 2192 | multi | 1 | — |

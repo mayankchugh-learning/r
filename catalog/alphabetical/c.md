@@ -2,12 +2,12 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · **C** · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-283 extensions · [← catalog index](../README.md)
+284 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 552,234 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 247,510 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 552,252 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 247,636 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 135,948 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 112,610 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
 | [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 70,396 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
@@ -288,4 +288,5 @@
 | [Contra](https://github.com/raycast/extensions/tree/main/extensions/contra) | 1 | Track Contra finances, create and send invoices, and manage freelance projects — right from Raycast. | agusdellaquila | macOS, Windows | [store](https://www.raycast.com/agusdellaquila/contra) |
 | [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) | 0 | Search CeyPay documentation and API reference — accept crypto payments, settle in Sri Lankan Rupees. | kasuncfdo | macOS | [store](https://www.raycast.com/kasuncfdo/ceypay) |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |
+| [Codex Reset Forecast](https://github.com/raycast/extensions/tree/main/extensions/codex-reset-forecast) | — | See the 24-hour and 48-hour Codex reset likelihood, announcements, and reset history from codexreset.org. Unofficial and not affiliated with OpenAI. | Astatine-213 | macOS | — |
 | [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) | — | Take an idea from anywhere and turn it into code with Copilot Workspace | github-next (org) | macOS | — |

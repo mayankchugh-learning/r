@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 247,510 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 247,636 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Google Gemini](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) | 79,382 | Use the Google Gemini from the comfort of Raycast. | EvanZhouDev | macOS, Windows | [store](https://www.raycast.com/EvanZhouDev/raycast-gemini) |
 | [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) | 59,753 | Interact with OpenAI GPT AI | simicvm | macOS | [store](https://www.raycast.com/simicvm/openai-gpt) |
 | [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 39,238 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |

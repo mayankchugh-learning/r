@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `119d596e71`
+
+**Added (1):** [Codex Reset Forecast](https://github.com/raycast/extensions/tree/main/extensions/codex-reset-forecast)
+
 ## 2026-09-11 — upstream `e39dd65867`
 
 **Updated (1):** [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt)
