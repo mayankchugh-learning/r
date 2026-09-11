@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "84537464abad48b7f91024ea59987bf70dc34513",
-  "generatedAt": "2026-09-11T08:29:51.563Z",
-  "downloadsRefreshedAt": "2026-09-11T08:29:49.926Z",
-  "count": 3278,
+  "commit": "ec1dae072c5e10b01ccbfa7503f170e35eef4ba9",
+  "generatedAt": "2026-09-11T08:36:26.814Z",
+  "downloadsRefreshedAt": "2026-09-11T08:36:25.719Z",
+  "count": 3279,
   "extensions": [
     {
       "dir": "0x0",
@@ -10061,7 +10061,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 553031
+      "downloads": 553093
     },
     {
       "dir": "color-shades",
@@ -22498,7 +22498,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 528041
+      "downloads": 528073
     },
     {
       "dir": "google-chrome-profiles",
@@ -28673,6 +28673,26 @@
       "downloads": 8495
     },
     {
+      "dir": "keyboard-layout-search",
+      "name": "keyboard-layout-search",
+      "title": "Keyboard Layout Search",
+      "description": "Find apps and search the web after typing a query with the wrong keyboard layout.",
+      "author": "rogovk",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/rogovk/keyboard-layout-search",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search",
+      "treeSha": "0929acbe84affbcf70000868df4067a613eb313f",
+      "downloads": 0
+    },
+    {
       "dir": "keyboard-layout-switcher",
       "name": "input-switcher",
       "title": "Keyboard Layout Switcher",
@@ -28883,7 +28903,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 711791
+      "downloads": 711854
     },
     {
       "dir": "kimai",

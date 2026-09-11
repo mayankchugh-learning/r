@@ -1,8 +1,8 @@
 # Window & Workspace Management
 
-54 extensions · [← Productivity](./README.md)
+55 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (24) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (8) · [General](#general) (12)
+[Windows ✦](#windows) (24) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (8) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
@@ -79,3 +79,4 @@
 | [Razuna - Add and Browse Files in Razuna](https://github.com/raycast/extensions/tree/main/extensions/razuna) | 19 | Upload, search, and browse files in your Razuna workspace directly from Raycast. | TheNitai | macOS | [store](https://www.raycast.com/TheNitai/razuna) |
 | [Mise Workspace](https://github.com/raycast/extensions/tree/main/extensions/mise-workspace) | 5 | Manage your Mise workspace from Raycast | disinfeqt | macOS | [store](https://www.raycast.com/disinfeqt/mise-workspace) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
+| [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) | 0 | Find apps and search the web after typing a query with the wrong keyboard layout. | rogovk | macOS | [store](https://www.raycast.com/rogovk/keyboard-layout-search) |

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · **R** · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-112 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+113 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -88,9 +88,10 @@
 | [rodrigouroz](https://www.raycast.com/rodrigouroz) | 1 | 1,939 | **Data:** [Upcoming Holidays](https://github.com/raycast/extensions/tree/main/extensions/upcoming-holidays) |
 | [roele](https://www.raycast.com/roele) | 3 | 1,576 | **System:** [Doorstopper](https://github.com/raycast/extensions/tree/main/extensions/doorstopper)<br>**Developer Tools:** [Simple Http](https://github.com/raycast/extensions/tree/main/extensions/simple-http)<br>**Media:** [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) |
 | [roelvan](https://www.raycast.com/roelvan) | 1 | 778 | **Developer Tools:** [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) |
+| [rogovk](https://www.raycast.com/rogovk) | 1 | 0 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 915 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 683 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,791 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,854 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 19 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 608 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 4 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |

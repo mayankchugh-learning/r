@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `ec1dae072c`
+
+**Added (1):** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search)
+
 ## 2026-09-11 — upstream `84537464ab`
 
 **Updated (1):** [Done Bear](https://github.com/raycast/extensions/tree/main/extensions/done-bear)
