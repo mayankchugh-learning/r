@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2e74a594e36f06804a92473fe9ac76249af3e678",
-  "generatedAt": "2026-09-11T19:00:35.157Z",
-  "downloadsRefreshedAt": "2026-09-11T19:00:34.445Z",
+  "commit": "014d0209b26516959b5359c0fab4c9ade9ec3385",
+  "generatedAt": "2026-09-11T19:02:31.469Z",
+  "downloadsRefreshedAt": "2026-09-11T19:02:30.948Z",
   "count": 3289,
   "extensions": [
     {
@@ -8622,7 +8622,7 @@
       "store": "https://www.raycast.com/Aayush9029/cleanshotx",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cleanshotx",
       "treeSha": "4d945a33f8a56ea8585625e18611b15fdb1b10eb",
-      "downloads": 113326
+      "downloads": 113200
     },
     {
       "dir": "clear-clipboard",
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 556751
+      "downloads": 556757
     },
     {
       "dir": "color-shades",
@@ -19755,7 +19755,7 @@
       "store": "https://www.raycast.com/omer_aydemir/folder-scope",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/folder-scope",
       "treeSha": "7bd41a815de6879e7361960d11d5cf4c83a3ff15",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "folder-search",
@@ -22559,7 +22559,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 530305
+      "downloads": 530312
     },
     {
       "dir": "google-chrome-profiles",
@@ -28964,7 +28964,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 715672
+      "downloads": 715685
     },
     {
       "dir": "kimai",
@@ -60879,7 +60879,7 @@
       ],
       "store": "https://www.raycast.com/franzwilhelm/toggl-track",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/toggl-track",
-      "treeSha": "9382f6719619341d06b01428ef8ce0684b5aede4",
+      "treeSha": "aaae0cbfe8b7748ec4dbec304b19b80c91442748",
       "downloads": 13398
     },
     {

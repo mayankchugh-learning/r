@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `014d0209b2`
+
+**Updated (1):** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)
+
 ## 2026-09-11 — upstream `2e74a594e3`
 
 **Updated (1):** [Qalccast - CLI Calculator](https://github.com/raycast/extensions/tree/main/extensions/qalc)
