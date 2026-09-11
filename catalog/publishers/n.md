@@ -35,7 +35,7 @@
 | [nchudleigh](https://www.raycast.com/nchudleigh) | 1 | 9,551 | **Productivity:** [Superwhisper - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) |
 | [nedini](https://www.raycast.com/nedini) | 1 | 428 | **Productivity:** [No as a Service](https://github.com/raycast/extensions/tree/main/extensions/no-as-a-service) |
 | [NeonArray](https://www.raycast.com/NeonArray) | 1 | 11 | **Web:** [Icy Veins Quicklinks](https://github.com/raycast/extensions/tree/main/extensions/icy-veins-quicklinks) |
-| [netcookies](https://www.raycast.com/netcookies) | 1 | 276 | **Developer Tools:** [Copy Text Files](https://github.com/raycast/extensions/tree/main/extensions/copy-text-files) |
+| [netcookies](https://www.raycast.com/netcookies) | 1 | 277 | **Developer Tools:** [Copy Text Files](https://github.com/raycast/extensions/tree/main/extensions/copy-text-files) |
 | [netlify](https://www.raycast.com/netlify) | 1 | 2,520 | **Developer Tools:** [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) |
 | [neversitdull](https://www.raycast.com/neversitdull) | 1 | 106 | **Developer Tools:** [Pkg Swap](https://github.com/raycast/extensions/tree/main/extensions/pkg-swap) |
 | [NextMerge](https://www.raycast.com/NextMerge) | 1 | 24 | **Applications:** [Mouseless](https://github.com/raycast/extensions/tree/main/extensions/mouseless) |

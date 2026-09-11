@@ -32,7 +32,7 @@
 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 27,601 | [see all 17 →](./id/visual-studio-coder.md) |
 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 34,269 | **Communication:** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) |
 | [vitorlostada](https://www.raycast.com/vitorlostada) | 1 | 1,025 | **Developer Tools:** [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) |
-| [vivek](https://www.raycast.com/vivek) | 1 | 608 | **Documentation:** [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) |
+| [vivek](https://www.raycast.com/vivek) | 1 | 609 | **Documentation:** [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) |
 | [vivgui](https://www.raycast.com/vivgui) | 1 | 114 | **Productivity:** [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) |
 | [vixaidev](https://www.raycast.com/vixaidev) | 1 | 18 | **Uncategorized:** [Vixai](https://github.com/raycast/extensions/tree/main/extensions/vixai) |
 | [vkhitrin](https://www.raycast.com/vkhitrin) | 1 | 90 | **Developer Tools:** [Gerrit Code Review](https://github.com/raycast/extensions/tree/main/extensions/gerrit-code-review) |

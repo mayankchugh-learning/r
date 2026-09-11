@@ -31,4 +31,4 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,714 | Convert cron expressions into human readable descriptions | niall-maloney | macOS, Windows | [store](https://www.raycast.com/niall-maloney/cron-description) |
-| [Cron Manager](https://github.com/raycast/extensions/tree/main/extensions/cron-manager) | 209 | Manage your local cron jobs directly from Raycast. | tahazahit | macOS | [store](https://www.raycast.com/tahazahit/cron-manager) |
+| [Cron Manager](https://github.com/raycast/extensions/tree/main/extensions/cron-manager) | 210 | Manage your local cron jobs directly from Raycast. | tahazahit | macOS | [store](https://www.raycast.com/tahazahit/cron-manager) |

@@ -1,8 +1,8 @@
 # Window & Desktop Management
 
-37 extensions · [← System](./README.md)
+38 extensions · [← System](./README.md)
 
-[Windows ✦](#windows) (15) · [Bar ✦](#bar) (8) · [Space ✦](#space) (6) · [Dock ✦](#dock) (4) · [General](#general) (4)
+[Windows ✦](#windows) (16) · [Bar ✦](#bar) (8) · [Space ✦](#space) (6) · [Dock ✦](#dock) (4) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
@@ -25,6 +25,7 @@
 | [New Finder Window](https://github.com/raycast/extensions/tree/main/extensions/new-finder-window) | 63 | Open a new Finder window on the current macOS Space without switching Spaces. | tickmao | macOS | [store](https://www.raycast.com/tickmao/new-finder-window) |
 | [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) | 25 | Toggle Windows HDR on individual monitors instead of all displays at once. | abdullah_shabib | Windows | [store](https://www.raycast.com/abdullah_shabib/hdr-toggle) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 7 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
+| [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 0 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
 
 ## Bar ✦
 

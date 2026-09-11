@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · **Notes & Knowledge** · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-64 of 1480 extensions · [← macOS · Productivity](./README.md)
+64 of 1481 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@
 | [Productboard](https://github.com/raycast/extensions/tree/main/extensions/productboard) | 332 | Add and view notes in Productboard quickly. Supports markdown. | honzatmn | macOS | [store](https://www.raycast.com/honzatmn/productboard) |
 | [SupaHabits](https://github.com/raycast/extensions/tree/main/extensions/supahabits) | 323 | Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries | gbarba | macOS | [store](https://www.raycast.com/gbarba/habits) |
 | [Ask Notis](https://github.com/raycast/extensions/tree/main/extensions/notis) | 301 | Capture, organize, and find anything for you in your Notion workspace. | mindtheflo | macOS | [store](https://www.raycast.com/mindtheflo/notis) |
-| [cryptgeon](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) | 245 | Create and share encrypted notes | cupcakearmy | macOS | [store](https://www.raycast.com/cupcakearmy/cryptgeon) |
+| [cryptgeon](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) | 248 | Create and share encrypted notes | cupcakearmy | macOS | [store](https://www.raycast.com/cupcakearmy/cryptgeon) |
 | [Typora Note Creator](https://github.com/raycast/extensions/tree/main/extensions/typora-note-creator) | 173 | This extension allows you to create folders and notes for Typora from templates. | mynameisny | macOS | [store](https://www.raycast.com/mynameisny/typora-note-creator) |
 | [Copy Notion Markdown Link](https://github.com/raycast/extensions/tree/main/extensions/copy-notion-markdown-link) | 131 | Copy the current Notion page as a Markdown link. Works with Notion desktop app only. | atsushi_kawamura | macOS | [store](https://www.raycast.com/atsushi_kawamura/copy-notion-markdown-link) |
 | [Heptabase](https://github.com/raycast/extensions/tree/main/extensions/heptabase) | 120 | Connect to Heptabase via MCP to manage your knowledge base | ARui | macOS | [store](https://www.raycast.com/ARui/heptabase) |

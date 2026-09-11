@@ -2,7 +2,7 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · **General**
 
-79 of 257 extensions · [← macOS · System](./README.md)
+79 of 258 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@
 | [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) | 1,794 | Pieces for Developers Raycast Extension | pieces (org) | macOS | [store](https://www.raycast.com/pieces/pieces-raycast) |
 | [Karabiner Profile Switcher](https://github.com/raycast/extensions/tree/main/extensions/karabiner-profile-switcher) | 1,648 | List Karabiner Elements profiles and switch between them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/karabiner-profile-switcher) |
 | [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) | 1,562 | Switch between clusters from Raycast | oktay | macOS | [store](https://www.raycast.com/oktay/kubectx) |
-| [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,525 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
+| [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,530 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
 | [Espanso](https://github.com/raycast/extensions/tree/main/extensions/espanso) | 1,523 | The Raycast version of Espanso Search Bar | kud | macOS | [store](https://www.raycast.com/kud/espanso) |
 | [Run Script Kit Command](https://github.com/raycast/extensions/tree/main/extensions/script-kit) | 1,424 | Run Script Kit Command from Raycast | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/script-kit) |
 | [OpenWeatherMap](https://github.com/raycast/extensions/tree/main/extensions/openweathermap) | 1,418 | Get Weather via https://openweathermap.com | tonka3000 | macOS | [store](https://www.raycast.com/tonka3000/openweathermap) |

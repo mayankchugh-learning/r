@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 23,497 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
+| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 23,555 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
 | [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) | 2,530 | Browse GCP Products and open them in the browser in the Google Cloud Console, or view the documentation. | klaa97 | macOS | [store](https://www.raycast.com/klaa97/gcp-search) |
 | [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,921 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
 | [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor) | 1,624 | Search the Cursor Documentation right from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/cursor) |
@@ -44,7 +44,7 @@
 | [Axios Docs](https://github.com/raycast/extensions/tree/main/extensions/axios-docs) | 148 | Quickly lookup Axios documentation | denizyoldas | macOS | [store](https://www.raycast.com/denizyoldas/axios-docs) |
 | [Search ClojureDocs Documentation](https://github.com/raycast/extensions/tree/main/extensions/clojuredocs-search) | 144 | Search and browse clojuredocs.org site. | danblancas | macOS | [store](https://www.raycast.com/danblancas/search-clojuredocs) |
 | [Numpy Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/numpy-documentation-search) | 131 | Quickly search through official NumPy documentation | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/numpy-documentation-search) |
-| [Craft CMS](https://github.com/raycast/extensions/tree/main/extensions/craft-cms-docs) | 117 | Search the official Craft CMS documentation, knowledge base, glossary, and plugin store. | bensomething | macOS, Windows | [store](https://www.raycast.com/bensomething/craft-cms-docs) |
+| [Craft CMS](https://github.com/raycast/extensions/tree/main/extensions/craft-cms-docs) | 119 | Search the official Craft CMS documentation, knowledge base, glossary, and plugin store. | bensomething | macOS, Windows | [store](https://www.raycast.com/bensomething/craft-cms-docs) |
 | [Shopify Polaris Docs](https://github.com/raycast/extensions/tree/main/extensions/shopify-polaris-docs) | 80 | Search through Shopify Polaris documentation from Raycast | approxhuman | macOS | [store](https://www.raycast.com/approxhuman/shopify-polaris-docs) |
 | [AdonisJS Documentation](https://github.com/raycast/extensions/tree/main/extensions/adonisjs-documentation) | 78 | Access AdonisJS documentation from within Raycast | craigharman | macOS | [store](https://www.raycast.com/craigharman/adonisjs-documentation) |
 | [NativeBase Documention](https://github.com/raycast/extensions/tree/main/extensions/nativebase-docs) | 62 | Search Nativebase documentation | shubham | macOS | [store](https://www.raycast.com/shubham/nativebase-docs) |
@@ -78,5 +78,5 @@
 | [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) | 14,486 | Quickly navigate, create and search Confluence through Raycast. | tbrown | macOS, Windows | [store](https://www.raycast.com/tbrown/confluence) |
 | [Code Review Emoji Guide](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) | 1,139 | A simple emoji legend to help convey intention and added meaning in code review comments. | rus64 | macOS | [store](https://www.raycast.com/russellyeo/code-review-emojis) |
 | [GitHub CLI Manual](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) | 1,024 | Raycast extension to search GitHub CLI Manual. | demartini | macOS | [store](https://www.raycast.com/demartini/github-cli-manual) |
-| [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) | 608 | Search, open, and crawl DeepWiki pages for GitHub repositories. | vivek | macOS | [store](https://www.raycast.com/vivek/deepwiki) |
+| [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) | 609 | Search, open, and crawl DeepWiki pages for GitHub repositories. | vivek | macOS | [store](https://www.raycast.com/vivek/deepwiki) |
 | [Raycast Manual](https://github.com/raycast/extensions/tree/main/extensions/raycast-manual) | 220 | Browse and search the Raycast Manual without leaving Raycast. | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/raycast-manual) |

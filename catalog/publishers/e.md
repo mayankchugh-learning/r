@@ -60,7 +60,7 @@
 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 5,509 | **Developer Tools:** [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats), [Git](https://github.com/raycast/extensions/tree/main/extensions/git), [Mobile Provisions](https://github.com/raycast/extensions/tree/main/extensions/mobile-provisions)<br>**Productivity:** [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers), [Jira (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-self-hosted)<br>**Communication:** [Mattermost](https://github.com/raycast/extensions/tree/main/extensions/mattermost) |
 | [ertem_biyik](https://www.raycast.com/ertem_biyik) | 1 | 129 | **Developer Tools:** [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) |
 | [erykksc](https://www.raycast.com/erykksc) | 1 | 2,682 | **Productivity:** [Fuzzy File Search](https://github.com/raycast/extensions/tree/main/extensions/fuzzy-file-search) |
-| [escwxyz](https://www.raycast.com/escwxyz) | 2 | 10,392 | **Productivity:** [Cursor Directory](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory)<br>**Developer Tools:** [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) |
+| [escwxyz](https://www.raycast.com/escwxyz) | 2 | 10,404 | **Productivity:** [Cursor Directory](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory)<br>**Developer Tools:** [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) |
 | [espenbye](https://www.raycast.com/espenbye) | 1 | 1,212 | **Productivity:** [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) |
 | [esteban03](https://www.raycast.com/esteban03) | 2 | 45 | **Media:** [AniMe](https://github.com/raycast/extensions/tree/main/extensions/raycast-anime)<br>**Developer Tools:** [RUT Generator](https://github.com/raycast/extensions/tree/main/extensions/rut-generator) |
 | [etay_alony](https://www.raycast.com/etay_alony) | 1 | 32 | **Developer Tools:** [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) |
@@ -70,7 +70,7 @@
 | [etheirystech](https://www.raycast.com/etheirystech) | 1 | 118 | **Developer Tools:** [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) |
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 28 | **Other:** [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |
 | [eunchurn](https://www.raycast.com/eunchurn) | 1 | 198 | **Developer Tools:** [Helm Chart](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) |
-| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 174,710 | [see all 19 →](./id/evanzhoudev.md) |
+| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 174,717 | [see all 19 →](./id/evanzhoudev.md) |
 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 52 | **Productivity:** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) |
 | [evilhex](https://www.raycast.com/evilhex) | 1 | 141 | **Security:** [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) |
 | [eviscares](https://www.raycast.com/eviscares) | 1 | 172 | **Productivity:** [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco) |

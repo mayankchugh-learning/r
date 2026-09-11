@@ -12,7 +12,7 @@
 | [yalishanda](https://www.raycast.com/yalishanda) | 1 | 6,819 | **Uncategorized:** [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) |
 | [Yamen](https://www.raycast.com/Yamen) | 2 | 939 | **Media:** [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager)<br>**Communication:** [Sort Mentions](https://github.com/raycast/extensions/tree/main/extensions/sort-mentions) |
 | [yang_monch](https://www.raycast.com/yang_monch) | 1 | 386 | **Design Tools:** [Golden Ratio](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) |
-| [yangxy](https://www.raycast.com/yangxy) | 2 | 8,863 | **Developer Tools:** [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter), [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) |
+| [yangxy](https://www.raycast.com/yangxy) | 2 | 8,909 | **Developer Tools:** [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter), [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) |
 | [yannglt](https://www.raycast.com/yannglt) | 3 | 820 | **Communication:** [Gather](https://github.com/raycast/extensions/tree/main/extensions/gather)<br>**Applications:** [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats), [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere) |
 | [yaronschwimmer](https://www.raycast.com/yaronschwimmer) | 1 | 2,186 | **Productivity:** [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) |
 | [yasinozmeen](https://www.raycast.com/yasinozmeen) | 1 | 13 | **Productivity:** [Random Date Generator](https://github.com/raycast/extensions/tree/main/extensions/random-date-generator) |
@@ -24,7 +24,7 @@
 | [yemilgr](https://www.raycast.com/yemilgr) | 1 | 190 | **Documentation:** [Serverless Framework Docs](https://github.com/raycast/extensions/tree/main/extensions/serverless-framework-docs) |
 | [yeskunall](https://www.raycast.com/yeskunall) | 1 | 212 | **Fun:** [Anilist Airing Schedule](https://github.com/raycast/extensions/tree/main/extensions/anilist-airing-schedule) |
 | [yevgen_glukhov](https://www.raycast.com/yevgen_glukhov) | 1 | 340 | **Design Tools:** [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) |
-| [yf_zhang](https://www.raycast.com/yf_zhang) | 1 | 2,319 | **Design Tools:** [Convert Color](https://github.com/raycast/extensions/tree/main/extensions/covert-color) |
+| [yf_zhang](https://www.raycast.com/yf_zhang) | 1 | 2,327 | **Design Tools:** [Convert Color](https://github.com/raycast/extensions/tree/main/extensions/covert-color) |
 | [yggdrasil](https://www.raycast.com/yggdrasil) | 1 | 30 | **Developer Tools:** [Aliyun Flow](https://github.com/raycast/extensions/tree/main/extensions/aliyun-flow) |
 | [yicone](https://www.raycast.com/yicone) | 1 | 5 | **Developer Tools:** [Hotel Manager](https://github.com/raycast/extensions/tree/main/extensions/hotel-manager) |
 | [yigitefe](https://www.raycast.com/yigitefe) | 1 | 31 | **Applications:** [Viscosity](https://github.com/raycast/extensions/tree/main/extensions/viscosity) |

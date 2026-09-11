@@ -1,12 +1,12 @@
 # Window & Workspace Management
 
-56 extensions · [← Productivity](./README.md)
+57 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (25) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (8) · [General](#general) (13)
+[Window ✦](#window) (26) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (8) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
-## Windows ✦
+## Window ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -34,6 +34,7 @@
 | [Tabbit](https://github.com/raycast/extensions/tree/main/extensions/tabbit) | 23 | Open Tabbit Browser windows and URLs from Raycast | AkaChou | macOS | [store](https://www.raycast.com/AkaChou/tabbit) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 7 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 | [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | 5 | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | [store](https://www.raycast.com/Holiney/sowiks) |
+| [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 0 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
 | [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | — | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | — |
 
 ## Desktop ✦

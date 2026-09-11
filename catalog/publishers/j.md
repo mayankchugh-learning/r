@@ -6,7 +6,7 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [j3lte](./id/j3lte.md) | 13 | 10,530 | [see all 13 →](./id/j3lte.md) |
+| [j3lte](./id/j3lte.md) | 13 | 10,533 | [see all 13 →](./id/j3lte.md) |
 | [J3n5en](https://www.raycast.com/J3n5en) | 1 | 64 | **Media:** [hostloc](https://github.com/raycast/extensions/tree/main/extensions/hostloc) |
 | [Jace](https://www.raycast.com/Jace) | 1 | 275 | **Productivity:** [Bundles](https://github.com/raycast/extensions/tree/main/extensions/bundles) |
 | [jack_casica](https://www.raycast.com/jack_casica) | 1 | 683 | **Developer Tools:** [Alt-Text Generator](https://github.com/raycast/extensions/tree/main/extensions/alt-text-generator) |
@@ -20,7 +20,7 @@
 | [jan_werner](https://www.raycast.com/jan_werner) | 1 | 10 | **Communication:** [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) |
 | [janjezek](https://www.raycast.com/janjezek) | 1 | 4 | **Productivity:** [Fibery Quick Capture](https://github.com/raycast/extensions/tree/main/extensions/fibery-quick-capture) |
 | [janyk](https://www.raycast.com/janyk) | 1 | 34 | **Finance:** [Moneybird](https://github.com/raycast/extensions/tree/main/extensions/moneybird) |
-| [jaredliu233](https://www.raycast.com/jaredliu233) | 2 | 2,056 | **Productivity:** [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading)<br>**Data:** [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) |
+| [jaredliu233](https://www.raycast.com/jaredliu233) | 2 | 2,058 | **Productivity:** [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading)<br>**Data:** [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) |
 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 15,311 | **Productivity:** [Ghostty](https://github.com/raycast/extensions/tree/main/extensions/ghostty) |
 | [jaseem_ts](https://www.raycast.com/jaseem_ts) | 1 | 28 | **Applications:** [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) |
 | [jason5ng32](https://www.raycast.com/jason5ng32) | 1 | 2,073 | **Developer Tools:** [IPCheck](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing) |
