@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · **Code, Snippets & Text Utilities** · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-33 of 318 extensions · [← Windows · Developer Tools](./README.md)
+34 of 319 extensions · [← Windows · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -39,3 +39,4 @@
 | [Chmod Lookup](https://github.com/raycast/extensions/tree/main/extensions/chmod-lookup) | 21 | Convert Unix permissions between numeric (octal) and symbolic notation | taha_harradi | macOS, Windows | [store](https://www.raycast.com/taha_harradi/chmod-lookup) |
 | [Daytona](https://github.com/raycast/extensions/tree/main/extensions/daytona) | 19 | Create Daytona sandboxes and run code directly from Raycast. | jurajstefanic | macOS, Windows | [store](https://www.raycast.com/jurajstefanic/daytona) |
 | [Greptile](https://github.com/raycast/extensions/tree/main/extensions/greptile) | 10 | Browse Greptile pull requests, code reviews, and review comments from Raycast. | clins1994 | Windows, macOS | [store](https://www.raycast.com/clins1994/greptile) |
+| [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json) | 0 | Browse, search, decode, and extract nested JSON. | xiaodaiguaray | macOS, Windows | [store](https://www.raycast.com/xiaodaiguaray/better-json) |

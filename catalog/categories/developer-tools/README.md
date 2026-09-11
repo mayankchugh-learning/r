@@ -1,8 +1,8 @@
 # Developer Tools
 
-1125 extensions · [← all categories](../README.md)
+1126 extensions · [← all categories](../README.md)
 
-macOS: 1114 · Windows: 318
+macOS: 1115 · Windows: 319
 
 ## Code & Collaboration
 
@@ -10,7 +10,7 @@ macOS: 1114 · Windows: 318
 | --- | --- |
 | [Git & Version Control](./git-version-control/README.md) | 50 |
 | [Issue Tracking & Projects](./issue-tracking-projects.md) | 11 |
-| [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 98 |
+| [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) | 99 |
 | [Search & Reference](./search-reference.md) | 117 |
 
 ## Build, Ship & Operate

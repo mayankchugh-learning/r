@@ -1,8 +1,8 @@
 # Code, Snippets & Text Utilities
 
-98 extensions · [← Developer Tools](./README.md)
+99 extensions · [← Developer Tools](./README.md)
 
-[Code ✦](#code) (28) · [Format ✦](#format) (12) · [Markdown ✦](#markdown) (9) · [Clipboard ✦](#clipboard) (8) · [Json ✦](#json) (6) · [Between ✦](#between) (6) · [General](#general) (29)
+[Code ✦](#code) (28) · [Format ✦](#format) (12) · [Markdown ✦](#markdown) (9) · [Clipboard ✦](#clipboard) (8) · [Json ✦](#json) (7) · [Between ✦](#between) (6) · [General](#general) (29)
 
 *✦ auto-discovered topic group*
 
@@ -93,6 +93,7 @@
 | [Open in JSON Hero](https://github.com/raycast/extensions/tree/main/extensions/open-in-json-hero) | 1,365 | Opens JSON in your pasteboard in JSON Hero | maverickdotdev | macOS | [store](https://www.raycast.com/maverickdotdev/open-in-json-hero) |
 | [Quicktype](https://github.com/raycast/extensions/tree/main/extensions/quicktype) | 696 | Generate Models and Serializers from JSON | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/quicktype) |
 | [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) | 605 | Run queries on Json data using jq | vladimir-kotikov | macOS | [store](https://www.raycast.com/vladimir-kotikov/raycast-jq) |
+| [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json) | 0 | Browse, search, decode, and extract nested JSON. | xiaodaiguaray | macOS, Windows | [store](https://www.raycast.com/xiaodaiguaray/better-json) |
 
 ## Between ✦
 

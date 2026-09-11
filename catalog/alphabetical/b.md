@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-132 extensions · [← catalog index](../README.md)
+133 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -138,3 +138,4 @@
 | [Bitcoin Tools](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-tools) | 3 | Generate, convert, and inspect Bitcoin SV keys, addresses, scripts, transactions, and market data. | satchmo | macOS | [store](https://www.raycast.com/satchmo/bitcoin-tools) |
 | [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) | 3 | Browse, transfer files, and capture the screen of BOOX devices over your local network | metrovoc | macOS | [store](https://www.raycast.com/metrovoc/boox-companion) |
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 2 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
+| [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json) | 0 | Browse, search, decode, and extract nested JSON. | xiaodaiguaray | macOS, Windows | [store](https://www.raycast.com/xiaodaiguaray/better-json) |

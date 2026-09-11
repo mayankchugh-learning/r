@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `9b8092e913`
+
+**Added (1):** [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json)
+
 ## 2026-09-11 — upstream `db4e89fd2b`
 
 **Updated (1):** [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction)
