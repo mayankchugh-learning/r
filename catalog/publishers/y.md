@@ -2,10 +2,11 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · **Y** · [Z](./z.md)
 
-44 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+45 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
+| [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 | **Productivity:** [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday) |
 | [yaeda](https://www.raycast.com/yaeda) | 1 | 287 | **Productivity:** [Inkdrop](https://github.com/raycast/extensions/tree/main/extensions/inkdrop) |
 | [yakitrak](https://www.raycast.com/yakitrak) | 2 | 11,206 | **Productivity:** [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb)<br>**Security:** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) |
 | [yalishanda](https://www.raycast.com/yalishanda) | 1 | 6,819 | **Uncategorized:** [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) |

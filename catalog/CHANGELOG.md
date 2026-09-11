@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `826af8223d`
+
+**Added (1):** [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday)
+
 ## 2026-09-11 — upstream `013855ab06`
 
 **Added (1):** [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher)
