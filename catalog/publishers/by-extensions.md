@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 158,808 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,060 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,678 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,184,972 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,184,982 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 315,365 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,469 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 429,250 |
@@ -183,7 +183,7 @@
 | 173 | [yuercl](https://www.raycast.com/yuercl) | 2 | 37,590 |
 | 174 | [gstvds](https://www.raycast.com/gstvds) | 2 | 30,910 |
 | 175 | [rishabswift](https://www.raycast.com/rishabswift) | 2 | 30,313 |
-| 176 | [petr](https://www.raycast.com/petr) | 2 | 29,124 |
+| 176 | [petr](https://www.raycast.com/petr) | 2 | 29,142 |
 | 177 | [fuksman](https://www.raycast.com/fuksman) | 2 | 28,404 |
 | 178 | [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 27,314 |
 | 179 | [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 27,041 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 9 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,536 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 527,882 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,547 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 527,889 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 369,093 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 307,300 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 270,557 |
@@ -560,7 +560,7 @@
 | 550 | [tmk](https://www.raycast.com/tmk) | 1 | 3,129 |
 | 551 | [SeoFood](https://www.raycast.com/SeoFood) | 1 | 3,111 |
 | 552 | [chezhe](https://www.raycast.com/chezhe) | 1 | 3,087 |
-| 553 | [gregoralbrecht](https://www.raycast.com/gregoralbrecht) | 1 | 3,051 |
+| 553 | [gregoralbrecht](https://www.raycast.com/gregoralbrecht) | 1 | 3,058 |
 | 554 | [mohamedk1](https://www.raycast.com/mohamedk1) | 1 | 3,051 |
 | 555 | [josmithua](https://www.raycast.com/josmithua) | 1 | 2,987 |
 | 556 | [chkpwd](https://www.raycast.com/chkpwd) | 1 | 2,984 |

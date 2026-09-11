@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,184,972 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,184,982 |
 | 2 | [raycast](./id/raycast.md) | 11 | 839,739 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,536 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 527,882 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 711,547 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 527,889 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 462,357 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 457,677 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 429,250 |
@@ -88,7 +88,7 @@
 | 78 | [gstvds](https://www.raycast.com/gstvds) | 2 | 30,910 |
 | 79 | [vishaltelangre](https://www.raycast.com/vishaltelangre) | 1 | 30,680 |
 | 80 | [rishabswift](https://www.raycast.com/rishabswift) | 2 | 30,313 |
-| 81 | [petr](https://www.raycast.com/petr) | 2 | 29,124 |
+| 81 | [petr](https://www.raycast.com/petr) | 2 | 29,142 |
 | 82 | [fuksman](https://www.raycast.com/fuksman) | 2 | 28,404 |
 | 83 | [moored](https://www.raycast.com/moored) | 1 | 27,760 |
 | 84 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 27,601 |
@@ -344,8 +344,8 @@
 | 334 | [skyline-123](https://www.raycast.com/skyline-123) | 3 | 3,090 |
 | 335 | [andrewjazbec](https://www.raycast.com/andrewjazbec) | 2 | 3,090 |
 | 336 | [chezhe](https://www.raycast.com/chezhe) | 1 | 3,087 |
-| 337 | [koala1206](https://www.raycast.com/koala1206) | 2 | 3,056 |
-| 338 | [gregoralbrecht](https://www.raycast.com/gregoralbrecht) | 1 | 3,051 |
+| 337 | [gregoralbrecht](https://www.raycast.com/gregoralbrecht) | 1 | 3,058 |
+| 338 | [koala1206](https://www.raycast.com/koala1206) | 2 | 3,056 |
 | 339 | [mohamedk1](https://www.raycast.com/mohamedk1) | 1 | 3,051 |
 | 340 | [http.james](https://www.raycast.com/http.james) | 4 | 3,014 |
 | 341 | [josmithua](https://www.raycast.com/josmithua) | 1 | 2,987 |

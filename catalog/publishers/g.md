@@ -55,7 +55,7 @@
 | [Gorzog](https://www.raycast.com/Gorzog) | 1 | 3,618 | **Productivity:** [Spell](https://github.com/raycast/extensions/tree/main/extensions/spell) |
 | [grafbase](https://www.raycast.com/grafbase) | 1 | 68 | **Developer Tools:** [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) |
 | [graham_hall](https://www.raycast.com/graham_hall) | 1 | 133 | **Fun:** [Board Game Geek](https://github.com/raycast/extensions/tree/main/extensions/board-game-geek) |
-| [gregoralbrecht](https://www.raycast.com/gregoralbrecht) | 1 | 3,051 | **Uncategorized:** [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) |
+| [gregoralbrecht](https://www.raycast.com/gregoralbrecht) | 1 | 3,058 | **Uncategorized:** [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) |
 | [gregskril](https://www.raycast.com/gregskril) | 1 | 263 | **Applications:** [Searchcaster](https://github.com/raycast/extensions/tree/main/extensions/searchcaster) |
 | [greirson](https://www.raycast.com/greirson) | 1 | 547 | **Design Tools:** [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) |
 | [grikomsn](https://www.raycast.com/grikomsn) | 1 | 285 | **Productivity:** [Rebrandly](https://github.com/raycast/extensions/tree/main/extensions/rebrandly) |

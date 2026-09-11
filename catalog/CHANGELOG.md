@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `db4e89fd2b`
+
+**Updated (1):** [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction)
+
 ## 2026-09-11 — upstream `f690028835`
 
 **Updated (1):** [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons)
