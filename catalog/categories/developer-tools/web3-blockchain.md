@@ -1,6 +1,6 @@
 # Web3 & Blockchain
 
-15 extensions · [← Developer Tools](./README.md)
+16 extensions · [← Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -19,3 +19,4 @@
 | [Bech32 Converter](https://github.com/raycast/extensions/tree/main/extensions/bech32-converter) | 22 | Converts Cosmos Bech32 addresses to a desired prefix | zygimantas_magelinskas | macOS | [store](https://www.raycast.com/zygimantas_magelinskas/bech32-converter) |
 | [EVM Toolkit](https://github.com/raycast/extensions/tree/main/extensions/evm-toolkit) | 16 | A toolkit for Ethereum power users: explore addresses, transactions, and blocks across EVM chains | imqdee | macOS, Windows | [store](https://www.raycast.com/imqdee/evm-toolkit) |
 | [Algorand](https://github.com/raycast/extensions/tree/main/extensions/algorand) | 13 | Perform all of Algorand operations from your toolbar | raihan_khan | macOS, Windows | [store](https://www.raycast.com/raihan_khan/algorand) |
+| [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) | — | Search CeyPay documentation and API reference — accept crypto payments, settle in Sri Lankan Rupees. | kasuncfdo | macOS | — |

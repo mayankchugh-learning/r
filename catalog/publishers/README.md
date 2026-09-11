@@ -1,6 +1,6 @@
 # Publishers
 
-2190 publishers · [← catalog index](../README.md)
+2191 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,183,819 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,183,995 |
 | 2 | [raycast](./id/raycast.md) | 11 | 839,672 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 710,354 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 527,113 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 710,529 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 527,256 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 462,357 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 457,677 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 429,250 |
@@ -2197,4 +2197,5 @@
 | 2187 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 0 |
 | 2188 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2189 | github-next | 2 | — |
-| 2190 | multi | 1 | — |
+| 2190 | kasuncfdo | 1 | — |
+| 2191 | multi | 1 | — |

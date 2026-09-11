@@ -2,7 +2,7 @@
 
 [Language References](./language-references.md) · [Framework & Library Docs](./framework-library-docs.md) · **Cheatsheets & Snippets** · [Developer References](./developer-references.md) · [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) · [Communities & Blogs](./communities-blogs.md) · [Dictionaries & Language](./dictionaries-language.md) · [General](./general.md)
 
-22 of 213 extensions · [← macOS · Documentation](./README.md)
+23 of 214 extensions · [← macOS · Documentation](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,4 @@
 | [Effect Docs](https://github.com/raycast/extensions/tree/main/extensions/effect-docs) | 15 | Search Effect-TS documentation and API reference from Raycast | rvaccone | macOS | [store](https://www.raycast.com/rvaccone/effect-docs) |
 | [NSIS Reference](https://github.com/raycast/extensions/tree/main/extensions/nsis-reference) | 11 | Search NSIS references | idleberg | macOS | [store](https://www.raycast.com/idleberg/nsis-reference) |
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
+| [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) | — | Search CeyPay documentation and API reference — accept crypto payments, settle in Sri Lankan Rupees. | kasuncfdo | macOS | — |

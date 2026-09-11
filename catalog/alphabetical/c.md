@@ -2,11 +2,11 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · **C** · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-282 extensions · [← catalog index](../README.md)
+283 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 551,618 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 551,794 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 247,510 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 135,948 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 112,610 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -286,5 +286,6 @@
 | [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | 3 | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | [store](https://www.raycast.com/meslva/cl1p) |
 | [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) | 1 | Search CoCart API documentation quickly, copy URLs, or open them in your browser. | cocart_headless | macOS, Windows | [store](https://www.raycast.com/cocart_headless/cocart-docs) |
 | [Contra](https://github.com/raycast/extensions/tree/main/extensions/contra) | 1 | Track Contra finances, create and send invoices, and manage freelance projects — right from Raycast. | agusdellaquila | macOS, Windows | [store](https://www.raycast.com/agusdellaquila/contra) |
+| [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) | — | Search CeyPay documentation and API reference — accept crypto payments, settle in Sri Lankan Rupees. | kasuncfdo | macOS | — |
 | [Claude Sessions](https://github.com/raycast/extensions/tree/main/extensions/claude-sessions) | — | Browse and manage Claude Code sessions — auto-discovered from ~/.claude.json, sorted by last activity. | kud | macOS | — |
 | [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) | — | Take an idea from anywhere and turn it into code with Copilot Workspace | github-next (org) | macOS | — |

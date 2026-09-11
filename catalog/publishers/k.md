@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · **K** · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-84 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+85 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -23,6 +23,7 @@
 | [karthik](https://www.raycast.com/karthik) | 1 | 1,401 | **System:** [Hellonext Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/hellonext-wallpapers) |
 | [KartikKumarSahoo](https://www.raycast.com/KartikKumarSahoo) | 1 | 13,657 | **Productivity:** [Microsoft Edge](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) |
 | [Kasper](https://www.raycast.com/Kasper) | 1 | 218 | **Productivity:** [Moji Dict Search](https://github.com/raycast/extensions/tree/main/extensions/moji) |
+| kasuncfdo | 1 | — | **Documentation:** [CeyPay](https://github.com/raycast/extensions/tree/main/extensions/ceypay) |
 | [Katatsu](https://www.raycast.com/Katatsu) | 1 | 1,158 | **Productivity:** [WordReference Dictionary Translation](https://github.com/raycast/extensions/tree/main/extensions/wordreference) |
 | [kawamataryo](https://www.raycast.com/kawamataryo) | 4 | 44,147 | **Developer Tools:** [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng)<br>**Productivity:** [Smart Reply - AI-Powered Multilingual Response Ge…](https://github.com/raycast/extensions/tree/main/extensions/smart-reply), [Mochi](https://github.com/raycast/extensions/tree/main/extensions/mochi), [esa Search](https://github.com/raycast/extensions/tree/main/extensions/esa-search) |
 | [kayla](https://www.raycast.com/kayla) | 1 | 395 | **Fun:** [Roll D20](https://github.com/raycast/extensions/tree/main/extensions/roll-d20) |
