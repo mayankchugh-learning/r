@@ -4,13 +4,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 22,610 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
-| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,680 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
-| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 4,174 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
-| [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,462 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
-| [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,218 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
-| [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) | 1,110 | Search and open recent Ableton Live Projects | dch09 | macOS | [store](https://www.raycast.com/dch09/ableton-live) |
-| [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 1,025 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
-| [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 603 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
-| [Kaset Control](https://github.com/raycast/extensions/tree/main/extensions/kaset-control) | 193 | Control Kaset - YouTube Music client for macOS | endiruslan | macOS | [store](https://www.raycast.com/endiruslan/kaset-control) |
-| [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere) | 26 | Control spatial soundscapes, background music, playback, and volume. | yannglt | macOS | [store](https://www.raycast.com/yannglt/elsewhere) |
+| [YouTube Music](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) | 22,697 | Control the YouTube Music tab in browser with your keyboard. | danieldbird | macOS | [store](https://www.raycast.com/danieldbird/youtube-music) |
+| [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,720 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
+| [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 4,199 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
+| [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,465 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
+| [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,219 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
+| [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) | 1,119 | Search and open recent Ableton Live Projects | dch09 | macOS | [store](https://www.raycast.com/dch09/ableton-live) |
+| [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 1,030 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
+| [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 608 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
+| [Kaset Control](https://github.com/raycast/extensions/tree/main/extensions/kaset-control) | 194 | Control Kaset - YouTube Music client for macOS | endiruslan | macOS | [store](https://www.raycast.com/endiruslan/kaset-control) |
+| [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere) | 27 | Control spatial soundscapes, background music, playback, and volume. | yannglt | macOS | [store](https://www.raycast.com/yannglt/elsewhere) |

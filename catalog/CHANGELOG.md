@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `07996a8764`
+
+**Updated (1):** [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills)
+
 ## 2026-09-10 — upstream `b108036e43`
 
 **Added (1):** [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search)
