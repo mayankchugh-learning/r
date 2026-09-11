@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `96084be777`
+
+**Updated (1):** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama)
+
 ## 2026-09-11 — upstream `e2a3620153`
 
 **Updated (1):** [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search)
