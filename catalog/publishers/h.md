@@ -56,7 +56,7 @@
 | [hughmcmillanv](https://www.raycast.com/hughmcmillanv) | 1 | 616 | **News:** [MacRumors](https://github.com/raycast/extensions/tree/main/extensions/macrumors) |
 | [hugini](https://www.raycast.com/hugini) | 1 | 0 | **Productivity:** [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders) |
 | [hugo_gresse](https://www.raycast.com/hugo_gresse) | 1 | 487 | **Productivity:** [Openrouter Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/openrouter-quick-actions) |
-| [Hugo-Persson](https://www.raycast.com/Hugo-Persson) | 1 | 874 | **Productivity:** [DuckDuckGo Email](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) |
+| [Hugo-Persson](https://www.raycast.com/Hugo-Persson) | 1 | 881 | **Productivity:** [DuckDuckGo Email](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) |
 | [hugoliconv](https://www.raycast.com/hugoliconv) | 1 | 709 | **Finance:** [Wise Quotes](https://github.com/raycast/extensions/tree/main/extensions/wise-quotes) |
 | [hugomarfani](https://www.raycast.com/hugomarfani) | 1 | 1,710 | **System:** [Pick Your Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/pick-your-wallpaper) |
 | [HugoRCD](https://www.raycast.com/HugoRCD) | 2 | 1,066 | **Developer Tools:** [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt), [npm Claimer](https://github.com/raycast/extensions/tree/main/extensions/npm-claimer) |
@@ -68,9 +68,9 @@
 | [huseyint](https://www.raycast.com/huseyint) | 1 | 350 | **Documentation:** [.NET Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) |
 | [huskii](https://www.raycast.com/huskii) | 1 | 183 | **Documentation:** [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack) |
 | [husnainfareed](https://www.raycast.com/husnainfareed) | 1 | 1,189 | **Productivity:** [Rename Images with AI](https://github.com/raycast/extensions/tree/main/extensions/rename-images-with-ai) |
-| [hussainweb](https://www.raycast.com/hussainweb) | 1 | 91 | **Developer Tools:** [Drupal.org](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) |
+| [hussainweb](https://www.raycast.com/hussainweb) | 1 | 92 | **Developer Tools:** [Drupal.org](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) |
 | [huzef44](https://www.raycast.com/huzef44) | 6 | 77,900 | **Productivity:** [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr), [Screenpipe](https://github.com/raycast/extensions/tree/main/extensions/screenpipe)<br>**Developer Tools:** [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools)<br>**System:** [Keyboard Brightness](https://github.com/raycast/extensions/tree/main/extensions/keyboard-brightness), [macOS Appearance Changer](https://github.com/raycast/extensions/tree/main/extensions/macos-appearance-changer)<br>**Uncategorized:** [OTP Auth](https://github.com/raycast/extensions/tree/main/extensions/otp-auth) |
 | [hwb](https://www.raycast.com/hwb) | 1 | 142 | **Fun:** [Fantasy Premier League](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) |
-| [Hydrapse](https://www.raycast.com/Hydrapse) | 1 | 1,631 | **Fun:** [DLmoji](https://github.com/raycast/extensions/tree/main/extensions/dlmoji) |
+| [Hydrapse](https://www.raycast.com/Hydrapse) | 1 | 1,633 | **Fun:** [DLmoji](https://github.com/raycast/extensions/tree/main/extensions/dlmoji) |
 | [hyokwonkim](https://www.raycast.com/hyokwonkim) | 1 | 314 | **Documentation:** [Simple Memo](https://github.com/raycast/extensions/tree/main/extensions/simple-memo) |
 | [hypercode](https://www.raycast.com/hypercode) | 1 | 97 | **Productivity:** [awork](https://github.com/raycast/extensions/tree/main/extensions/awork) |

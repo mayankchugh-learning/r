@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · **R** · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-113 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+114 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -74,7 +74,7 @@
 | [rkusa](https://www.raycast.com/rkusa) | 1 | 316 | **Developer Tools:** [Cache-Control Builder](https://github.com/raycast/extensions/tree/main/extensions/cache-control-builder) |
 | [rmartins](https://www.raycast.com/rmartins) | 1 | 135 | **Productivity:** [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) |
 | [roamresearch](https://www.raycast.com/roamresearch) | 1 | 1,110 | **Productivity:** [Roam Research](https://github.com/raycast/extensions/tree/main/extensions/roam-research) |
-| [Rob](./id/rob.md) | 11 | 11,469 | [see all 11 →](./id/rob.md) |
+| [Rob](./id/rob.md) | 11 | 11,472 | [see all 11 →](./id/rob.md) |
 | [rob_brown96cc](https://www.raycast.com/rob_brown96cc) | 1 | 20 | **Finance:** [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) |
 | [robertguss](https://www.raycast.com/robertguss) | 1 | 315 | **Documentation:** [Cypress Documentation](https://github.com/raycast/extensions/tree/main/extensions/cypress-docs) |
 | [robertoalvarezalonso](https://www.raycast.com/robertoalvarezalonso) | 1 | 198 | **Productivity:** [ServiceNow](https://github.com/raycast/extensions/tree/main/extensions/servicenow) |
@@ -86,14 +86,15 @@
 | [rodrigoarias](https://www.raycast.com/rodrigoarias) | 1 | 316 | **Productivity:** [Project Hub](https://github.com/raycast/extensions/tree/main/extensions/project-hub) |
 | [rodrigoherera](https://www.raycast.com/rodrigoherera) | 1 | 7 | **Finance:** [Chilean Indicators](https://github.com/raycast/extensions/tree/main/extensions/cl-indicators) |
 | [rodrigouroz](https://www.raycast.com/rodrigouroz) | 1 | 1,939 | **Data:** [Upcoming Holidays](https://github.com/raycast/extensions/tree/main/extensions/upcoming-holidays) |
-| [roele](https://www.raycast.com/roele) | 3 | 1,576 | **System:** [Doorstopper](https://github.com/raycast/extensions/tree/main/extensions/doorstopper)<br>**Developer Tools:** [Simple Http](https://github.com/raycast/extensions/tree/main/extensions/simple-http)<br>**Media:** [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) |
+| [roele](https://www.raycast.com/roele) | 3 | 1,583 | **System:** [Doorstopper](https://github.com/raycast/extensions/tree/main/extensions/doorstopper)<br>**Developer Tools:** [Simple Http](https://github.com/raycast/extensions/tree/main/extensions/simple-http)<br>**Media:** [WiiM Remote](https://github.com/raycast/extensions/tree/main/extensions/wiim-remote) |
 | [roelvan](https://www.raycast.com/roelvan) | 1 | 778 | **Developer Tools:** [Generate Nanoid](https://github.com/raycast/extensions/tree/main/extensions/nanoid) |
-| [rogovk](https://www.raycast.com/rogovk) | 1 | 0 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
+| [rogovk](https://www.raycast.com/rogovk) | 1 | 1 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 917 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 683 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 713,086 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 713,299 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 19 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 608 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
+| romain_lajeunesse | 1 | — | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |
 | [RomanVPX](https://www.raycast.com/RomanVPX) | 1 | 4 | **Developer Tools:** [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) |
 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 | **Media:** [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) |
 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 91,363 | **Applications:** [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm), [Brave](https://github.com/raycast/extensions/tree/main/extensions/brave), [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal)<br>**Communication:** [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime)<br>**Media:** [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) |

@@ -13,7 +13,7 @@
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,184 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
 | [Wordle](https://github.com/raycast/extensions/tree/main/extensions/wordle) | 904 | Play Wordle locally once a day. | chrisalxlng | macOS | [store](https://www.raycast.com/chrisalxlng/wordle) |
 | [Rollcast](https://github.com/raycast/extensions/tree/main/extensions/rollcast) | 764 | Roll dice for your D&D games from Raycast! | troalexis | macOS, Windows | [store](https://www.raycast.com/troalexis/rollcast) |
-| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 657 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
+| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 660 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
 | [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 637 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
 | [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox) | 614 | Raycast Extension for finding games, users & more on Roblox | iamEvan | macOS, Windows | [store](https://www.raycast.com/iamEvan/roblox) |
 | [Simon](https://github.com/raycast/extensions/tree/main/extensions/simon) | 550 | Play a game of Simon. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/simon) |

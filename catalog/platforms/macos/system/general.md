@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 113,434 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
-| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 78,566 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
+| [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 78,836 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 68,049 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 56,468 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 49,092 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
@@ -67,7 +67,7 @@
 | [Openfortivpn](https://github.com/raycast/extensions/tree/main/extensions/openfortivpn) | 232 | Connect to openfortivpn | rafalpetryka | macOS | [store](https://www.raycast.com/rafalpetryka/openfortivpn) |
 | [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | 186 | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |
 | [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) | 183 | Manage Fisher plugins for Fish Shell directly from Raycast | matheuschein | macOS | [store](https://www.raycast.com/matheuschein/fisher) |
-| [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 174 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
+| [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 176 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
 | [MAMP Utility](https://github.com/raycast/extensions/tree/main/extensions/mamp-utility) | 171 | Search and organize your MAMP hosted website. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/mamp-utility) |
 | [Handoff Toggle](https://github.com/raycast/extensions/tree/main/extensions/handoff-toggle) | 163 | Toggle macOS Handoff feature on/off | wellsgz | macOS | [store](https://www.raycast.com/wellsgz/handoff-toggle) |
 | [Multipass](https://github.com/raycast/extensions/tree/main/extensions/multipass) | 157 | Manage Multipass instances | davibe | macOS | [store](https://www.raycast.com/davibe/multipass) |

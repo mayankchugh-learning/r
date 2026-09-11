@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 | **Productivity:** [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday) |
 | [yaeda](https://www.raycast.com/yaeda) | 1 | 287 | **Productivity:** [Inkdrop](https://github.com/raycast/extensions/tree/main/extensions/inkdrop) |
-| [yakitrak](https://www.raycast.com/yakitrak) | 2 | 11,206 | **Productivity:** [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb)<br>**Security:** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) |
+| [yakitrak](https://www.raycast.com/yakitrak) | 2 | 11,240 | **Productivity:** [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb)<br>**Security:** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) |
 | [yalishanda](https://www.raycast.com/yalishanda) | 1 | 6,819 | **Uncategorized:** [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) |
 | [Yamen](https://www.raycast.com/Yamen) | 2 | 939 | **Media:** [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager)<br>**Communication:** [Sort Mentions](https://github.com/raycast/extensions/tree/main/extensions/sort-mentions) |
 | [yang_monch](https://www.raycast.com/yang_monch) | 1 | 386 | **Design Tools:** [Golden Ratio](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) |
@@ -32,7 +32,7 @@
 | [Yoda](https://www.raycast.com/Yoda) | 1 | 1,088 | **Productivity:** [CanvasCast](https://github.com/raycast/extensions/tree/main/extensions/canvascast) |
 | [yoerivd](https://www.raycast.com/yoerivd) | 1 | 373 | **Media:** [Music Assistant Controls](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) |
 | [yohann84l](https://www.raycast.com/yohann84l) | 1 | 462 | **Productivity:** [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) |
-| [yonbergman](https://www.raycast.com/yonbergman) | 2 | 3,819 | **Data:** [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin)<br>**Productivity:** [Mirror Displays](https://github.com/raycast/extensions/tree/main/extensions/mirror-displays) |
+| [yonbergman](https://www.raycast.com/yonbergman) | 2 | 3,837 | **Data:** [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin)<br>**Productivity:** [Mirror Displays](https://github.com/raycast/extensions/tree/main/extensions/mirror-displays) |
 | [yosy2010](https://www.raycast.com/yosy2010) | 1 | 592 | **Productivity:** [Taskwarrior](https://github.com/raycast/extensions/tree/main/extensions/raytaskwarrior) |
 | [youngkyo0504](https://www.raycast.com/youngkyo0504) | 1 | 25 | **Productivity:** [Korean Date Converter](https://github.com/raycast/extensions/tree/main/extensions/korean-date-converter) |
 | [YourMCGeek](https://www.raycast.com/YourMCGeek) | 1 | 14 | **Web:** [BuiltByBit](https://github.com/raycast/extensions/tree/main/extensions/builtbybit) |

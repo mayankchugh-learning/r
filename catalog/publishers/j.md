@@ -12,7 +12,7 @@
 | [jack_casica](https://www.raycast.com/jack_casica) | 1 | 683 | **Developer Tools:** [Alt-Text Generator](https://github.com/raycast/extensions/tree/main/extensions/alt-text-generator) |
 | [jackmsvaughan](https://www.raycast.com/jackmsvaughan) | 1 | 38 | **Productivity:** [Tella](https://github.com/raycast/extensions/tree/main/extensions/tella) |
 | [jacpd](https://www.raycast.com/jacpd) | 1 | 44 | **Media:** [Eurovision Song Contest](https://github.com/raycast/extensions/tree/main/extensions/eurovision-song-contest) |
-| [jag-k](https://www.raycast.com/jag-k) | 2 | 26,570 | **Applications:** [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover)<br>**Data:** [DuckDuckGo Image Search](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-image-search) |
+| [jag-k](https://www.raycast.com/jag-k) | 2 | 26,679 | **Applications:** [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover)<br>**Data:** [DuckDuckGo Image Search](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-image-search) |
 | [jairaume](https://www.raycast.com/jairaume) | 1 | 345 | **Developer Tools:** [Share My Code](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) |
 | [JakeYu](https://www.raycast.com/JakeYu) | 2 | 1,669 | **Productivity:** [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos)<br>**Applications:** [Update Clash Subscription](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) |
 | [jameslyons](https://www.raycast.com/jameslyons) | 2 | 11,455 | **Applications:** [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session)<br>**Design Tools:** [Sip](https://github.com/raycast/extensions/tree/main/extensions/sip) |
@@ -109,7 +109,7 @@
 | [joshtemple](https://www.raycast.com/joshtemple) | 1 | 3,854 | **Productivity:** [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) |
 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 39,035 | **Productivity:** [Password Generator](https://github.com/raycast/extensions/tree/main/extensions/password-generator) |
 | [josmithua](https://www.raycast.com/josmithua) | 1 | 2,987 | **Data:** [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) |
-| [JosNun](https://www.raycast.com/JosNun) | 1 | 201 | **System:** [Display Reinitializer](https://github.com/raycast/extensions/tree/main/extensions/display-reinitializer) |
+| [JosNun](https://www.raycast.com/JosNun) | 1 | 203 | **System:** [Display Reinitializer](https://github.com/raycast/extensions/tree/main/extensions/display-reinitializer) |
 | [JReinhold](https://www.raycast.com/JReinhold) | 1 | 106 | **Developer Tools:** [Storybook Sandboxes](https://github.com/raycast/extensions/tree/main/extensions/storybook-sandboxes) |
 | [jrl](https://www.raycast.com/jrl) | 1 | 3 | **Applications:** [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) |
 | [jrodalo](https://www.raycast.com/jrodalo) | 1 | 104 | **Productivity:** [Tasklink](https://github.com/raycast/extensions/tree/main/extensions/tasklink) |

@@ -9,7 +9,7 @@
 | [e2b](https://www.raycast.com/e2b) | 1 | 773 | **Developer Tools:** [E2B Code Interpreter](https://github.com/raycast/extensions/tree/main/extensions/e2b) |
 | [eaescob](https://www.raycast.com/eaescob) | 1 | 37 | **Productivity:** [Claude Session Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/claude-session-bookmarks) |
 | [earthpyy](https://www.raycast.com/earthpyy) | 1 | 379 | **Data:** [Air Quality](https://github.com/raycast/extensions/tree/main/extensions/air-quality) |
-| [easymikey](https://www.raycast.com/easymikey) | 1 | 1,076 | **Developer Tools:** [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) |
+| [easymikey](https://www.raycast.com/easymikey) | 1 | 1,081 | **Developer Tools:** [Disk Usage](https://github.com/raycast/extensions/tree/main/extensions/disk-usage) |
 | [eddiesigner](https://www.raycast.com/eddiesigner) | 1 | 86 | **Finance:** [Gumroad Sales](https://github.com/raycast/extensions/tree/main/extensions/gumroad) |
 | [edith](https://www.raycast.com/edith) | 1 | 1,518 | **System:** [App Keeper Manager](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) |
 | [edmundcwm](https://www.raycast.com/edmundcwm) | 1 | 638 | **Developer Tools:** [WordPress Plugins](https://github.com/raycast/extensions/tree/main/extensions/wordpress-plugins) |
@@ -40,7 +40,7 @@
 | [emiliobool](https://www.raycast.com/emiliobool) | 1 | 153 | **Developer Tools:** [Windmill](https://github.com/raycast/extensions/tree/main/extensions/windmill) |
 | [EmilMalanczak](https://www.raycast.com/EmilMalanczak) | 1 | 297 | **Documentation:** [Mantine UI Documentation](https://github.com/raycast/extensions/tree/main/extensions/mantine) |
 | [emilwidlund](https://www.raycast.com/emilwidlund) | 1 | 177 | **Finance:** [Polar](https://github.com/raycast/extensions/tree/main/extensions/polar) |
-| [emircanerkul](https://www.raycast.com/emircanerkul) | 3 | 624 | **Developer Tools:** [Code Grepper](https://github.com/raycast/extensions/tree/main/extensions/codegrepper), [Drupal Toolbox](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox)<br>**Finance:** [Sadaqah Box](https://github.com/raycast/extensions/tree/main/extensions/sadaqah-box) |
+| [emircanerkul](https://www.raycast.com/emircanerkul) | 3 | 625 | **Developer Tools:** [Code Grepper](https://github.com/raycast/extensions/tree/main/extensions/codegrepper), [Drupal Toolbox](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox)<br>**Finance:** [Sadaqah Box](https://github.com/raycast/extensions/tree/main/extensions/sadaqah-box) |
 | [emlez](https://www.raycast.com/emlez) | 1 | 614 | **Applications:** [Monocle](https://github.com/raycast/extensions/tree/main/extensions/monocle) |
 | [endiruslan](https://www.raycast.com/endiruslan) | 3 | 236 | **Media:** [Kaset Control](https://github.com/raycast/extensions/tree/main/extensions/kaset-control)<br>**Web:** [Tableau Navigator](https://github.com/raycast/extensions/tree/main/extensions/tableau-navigator), [Lightdash Navigator](https://github.com/raycast/extensions/tree/main/extensions/lightdash-navigator) |
 | [enesozturk](https://www.raycast.com/enesozturk) | 1 | 62 | **Media:** [Center](https://github.com/raycast/extensions/tree/main/extensions/center) |

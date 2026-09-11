@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · **Web & Frontend** · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-64 of 1115 extensions · [← macOS · Developer Tools](./README.md)
+64 of 1116 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@
 | [Color Palette Picker](https://github.com/raycast/extensions/tree/main/extensions/palette-picker) | 1,525 | A simple color picker for Tailwind CSS and Radix UI color palettes. | juliusmarminge | macOS | [store](https://www.raycast.com/juliusmarminge/palette-picker) |
 | [Laravel Livewire](https://github.com/raycast/extensions/tree/main/extensions/laravel-livewire) | 1,376 | Quickly search through Laravel Livewire documentation and open it in the browser | tafhyseni | macOS | [store](https://www.raycast.com/tafhyseni/laravel-livewire) |
 | [Brandfetch](https://github.com/raycast/extensions/tree/main/extensions/brand-fetch) | 1,097 | ⚡Get any websites brand logo in seconds (SVG, PNG) | dilutedev | macOS | [store](https://www.raycast.com/dilutedev/brand-fetch) |
-| [Dynamic Font Size](https://github.com/raycast/extensions/tree/main/extensions/dynamic-font-size) | 1,070 | Create dynamic font sizes using the 'clamp' CSS function | nils_hoenson | macOS | [store](https://www.raycast.com/nils_hoenson/dynamic-font-size) |
+| [Dynamic Font Size](https://github.com/raycast/extensions/tree/main/extensions/dynamic-font-size) | 1,071 | Create dynamic font sizes using the 'clamp' CSS function | nils_hoenson | macOS | [store](https://www.raycast.com/nils_hoenson/dynamic-font-size) |
 | [CSS Tricks](https://github.com/raycast/extensions/tree/main/extensions/css-tricks) | 904 | Search on CSS Tricks | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/css-tricks) |
 | [CSS Calculations](https://github.com/raycast/extensions/tree/main/extensions/css-calculations) | 888 | Useful CSS Calculations in Web Development | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/css-calculations) |
 | [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | 872 | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |
@@ -56,7 +56,7 @@
 | [Apply Inline Code](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) | 153 | Apply inline code style in common apps and websites | alexian853 | macOS | [store](https://www.raycast.com/alexian853/apply-inline-code) |
 | [Forgejo](https://github.com/raycast/extensions/tree/main/extensions/forgejo) | 143 | Using on websites built through Forgejo. Work with search repositories and get notifications. | shichen437 | macOS | [store](https://www.raycast.com/shichen437/forgejo) |
 | [SCSS Compile](https://github.com/raycast/extensions/tree/main/extensions/scss-compile) | 115 | Utility that convert SCSS (Sassy Cascading Style Sheets) file into CSS file | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/scss-compile) |
-| [Drupal Toolbox](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) | 109 | Valuable tools and shortcuts for your Drupal Websites | emircanerkul | macOS | [store](https://www.raycast.com/emircanerkul/drupal-toolbox) |
+| [Drupal Toolbox](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) | 110 | Valuable tools and shortcuts for your Drupal Websites | emircanerkul | macOS | [store](https://www.raycast.com/emircanerkul/drupal-toolbox) |
 | [Protobuf2TypeScript](https://github.com/raycast/extensions/tree/main/extensions/protobuf2typescript) | 97 | A script which help front-end devloper to convert *.protobuf file into *.d.ts file. | 7gugu | macOS | [store](https://www.raycast.com/7gugu/protobuf2typescript) |
 | [Geist UI Components & Hooks](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) | 76 | This extension provides links to components & hooks in Geist UI Documentation | RahulatRaycast | macOS | [store](https://www.raycast.com/RahulatRaycast/geist-ui-components) |
 | [Vue Router Docs](https://github.com/raycast/extensions/tree/main/extensions/vue-router-docs) | 66 | Quickly search Vue Router docs from Raycast | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vue-router-docs) |

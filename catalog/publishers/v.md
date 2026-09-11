@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [vaibhav_sisodiya](https://www.raycast.com/Vaib215) | 1 | 349 | **Productivity:** [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) |
 | [valenradovich](https://www.raycast.com/valenradovich) | 1 | 403 | **Productivity:** [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) |
-| [valentin_denis](https://www.raycast.com/valentin_denis) | 1 | 350 | **Developer Tools:** [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) |
+| [valentin_denis](https://www.raycast.com/valentin_denis) | 1 | 351 | **Developer Tools:** [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) |
 | [valentindotxyz](https://www.raycast.com/valentindotxyz) | 1 | 447 | **Developer Tools:** [Search with Algolia](https://github.com/raycast/extensions/tree/main/extensions/algolia) |
 | [validate](https://www.raycast.com/validate) | 2 | 2,203 | **Developer Tools:** [Git Assistant](https://github.com/raycast/extensions/tree/main/extensions/git-assistant)<br>**Fun:** [Duck Facts](https://github.com/raycast/extensions/tree/main/extensions/duck-facts) |
 | [vanish2000](https://www.raycast.com/vanish2000) | 1 | 38 | **System:** [V2BOX VPN](https://github.com/raycast/extensions/tree/main/extensions/v2box-control) |
@@ -18,7 +18,7 @@
 | [vibsthebot](https://www.raycast.com/vibsthebot) | 1 | 42 | **Uncategorized:** [Raycast FRC](https://github.com/raycast/extensions/tree/main/extensions/raycast-frc) |
 | [VictoRD11](https://www.raycast.com/VictoRD11) | 1 | 850 | **Applications:** [Convert CSV to Excel](https://github.com/raycast/extensions/tree/main/extensions/csv-to-excel) |
 | [ViGeng](https://www.raycast.com/ViGeng) | 9 | 18,435 | **Productivity:** [Deepseek Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/deepseeker), [Emojify](https://github.com/raycast/extensions/tree/main/extensions/emojify)<br>**Applications:** [Bob - Control Bob Translate](https://github.com/raycast/extensions/tree/main/extensions/bob), [Awesome Mac](https://github.com/raycast/extensions/tree/main/extensions/awesome-mac), [Pumble](https://github.com/raycast/extensions/tree/main/extensions/pumble)<br>**Developer Tools:** [GitHub Profile](https://github.com/raycast/extensions/tree/main/extensions/github-profile), [Zoo - Ask AIs with Your Prompt Library](https://github.com/raycast/extensions/tree/main/extensions/zoo)<br>**Uncategorized:** [Save Link](https://github.com/raycast/extensions/tree/main/extensions/save-link)<br>**Web:** [CCF Conference](https://github.com/raycast/extensions/tree/main/extensions/ccfddl) |
-| [vigosan](https://www.raycast.com/vigosan) | 2 | 600 | **Media:** [Discogs Database Search](https://github.com/raycast/extensions/tree/main/extensions/discogs)<br>**Data:** [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) |
+| [vigosan](https://www.raycast.com/vigosan) | 2 | 602 | **Media:** [Discogs Database Search](https://github.com/raycast/extensions/tree/main/extensions/discogs)<br>**Data:** [Minion Ipsum](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) |
 | [vikas-bansal](https://www.raycast.com/vikas-bansal) | 1 | 547 | **Developer Tools:** [Windsurf Extension](https://github.com/raycast/extensions/tree/main/extensions/windsurf) |
 | [vimtor](./id/vimtor.md) | 15 | 315,365 | [see all 15 →](./id/vimtor.md) |
 | [vincent_perrot](https://www.raycast.com/vincent_perrot) | 1 | 7 | **Finance:** [XPF to EUR Converter](https://github.com/raycast/extensions/tree/main/extensions/xpf-converter) |
@@ -29,7 +29,7 @@
 | [VishwasShashidhar](https://www.raycast.com/VishwasShashidhar) | 1 | 3,849 | **Web:** [Brave Search](https://github.com/raycast/extensions/tree/main/extensions/brave-search) |
 | [visigrid](https://www.raycast.com/visigrid) | 1 | 1 | **Productivity:** [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid) |
 | [visual_eugen](https://www.raycast.com/visual_eugen) | 1 | 26 | **Developer Tools:** [Find OpenGL Enum](https://github.com/raycast/extensions/tree/main/extensions/find-opengl-enum) |
-| [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 27,601 | [see all 17 →](./id/visual-studio-coder.md) |
+| [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 27,606 | [see all 17 →](./id/visual-studio-coder.md) |
 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 34,269 | **Communication:** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) |
 | [vitorlostada](https://www.raycast.com/vitorlostada) | 1 | 1,025 | **Developer Tools:** [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) |
 | [vivek](https://www.raycast.com/vivek) | 1 | 609 | **Documentation:** [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) |

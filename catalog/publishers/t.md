@@ -19,7 +19,7 @@
 | [tarikkavaz](https://www.raycast.com/tarikkavaz) | 2 | 704 | **Productivity:** [Slugify File / Folder Names](https://github.com/raycast/extensions/tree/main/extensions/slugify-file-folder-names), [Regex Batch Renamer](https://github.com/raycast/extensions/tree/main/extensions/regex-batch-renamer) |
 | [tarikyildizci](https://www.raycast.com/tarikyildizci) | 1 | 5,721 | **Applications:** [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) |
 | [tatermohit](https://www.raycast.com/tatermohit) | 1 | 1,332 | **Productivity:** [Notes in Google Docs](https://github.com/raycast/extensions/tree/main/extensions/note-in-google-doc) |
-| [tavlean](https://www.raycast.com/tavlean) | 1 | 178 | **Developer Tools:** [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers) |
+| [tavlean](https://www.raycast.com/tavlean) | 1 | 181 | **Developer Tools:** [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers) |
 | [taylor_drayson](https://www.raycast.com/taylor_drayson) | 1 | 92 | **Security:** [Password.link](https://github.com/raycast/extensions/tree/main/extensions/password-link) |
 | [TaylorRobinson](https://www.raycast.com/TaylorRobinson) | 1 | 250 | **Fun:** [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox-games) |
 | [tbrown](https://www.raycast.com/tbrown) | 1 | 14,486 | **Productivity:** [Confluence](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) |
@@ -66,7 +66,7 @@
 | [thilip_lindseth](https://www.raycast.com/thilip_lindseth) | 1 | 133 | **System:** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector) |
 | [third774](https://www.raycast.com/third774) | 3 | 64,301 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 8,972 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,186,540 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,187,018 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 40 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 60,410 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,296 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |

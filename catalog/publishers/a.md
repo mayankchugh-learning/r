@@ -48,7 +48,7 @@
 | [afok](https://www.raycast.com/afok) | 1 | 829 | **Security:** [Password Store](https://github.com/raycast/extensions/tree/main/extensions/password-store) |
 | [agus](https://www.raycast.com/agus) | 1 | 57 | **Finance:** [Dollar Blue](https://github.com/raycast/extensions/tree/main/extensions/dollar-blue) |
 | [agusdellaquila](https://www.raycast.com/agusdellaquila) | 1 | 1 | **Finance:** [Contra](https://github.com/raycast/extensions/tree/main/extensions/contra) |
-| [agustin.prats](https://www.raycast.com/agustin.prats) | 1 | 6,664 | **System:** [Display Modes](https://github.com/raycast/extensions/tree/main/extensions/display-modes) |
+| [agustin.prats](https://www.raycast.com/agustin.prats) | 1 | 6,687 | **System:** [Display Modes](https://github.com/raycast/extensions/tree/main/extensions/display-modes) |
 | [ahmad_bulbul](https://www.raycast.com/ahmad_bulbul) | 1 | 137 | **Productivity:** [Web Blocker](https://github.com/raycast/extensions/tree/main/extensions/web-blocker) |
 | [ahmed](https://www.raycast.com/ahmed) | 1 | 588 | **Productivity:** [Stealth AI](https://github.com/raycast/extensions/tree/main/extensions/stealth-ai-tool) |
 | [ahmedivy](https://www.raycast.com/ahmedivy) | 1 | 3,514 | **Developer Tools:** [Python](https://github.com/raycast/extensions/tree/main/extensions/python) |

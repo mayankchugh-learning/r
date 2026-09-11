@@ -1,6 +1,6 @@
 # Visual-Studio-Coder
 
-17 extensions · 27,601 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
+17 extensions · 27,606 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
 
 ## Productivity (2)
 
@@ -20,7 +20,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dia Skills](https://github.com/raycast/extensions/tree/main/extensions/dia-skills) | 2,031 | Import your favorite Dia skills into Raycast, so you can have the freedom to use whatever LLM you want, wherever you want, however you want. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/dia-skills) |
+| [Dia Skills](https://github.com/raycast/extensions/tree/main/extensions/dia-skills) | 2,036 | Import your favorite Dia skills into Raycast, so you can have the freedom to use whatever LLM you want, wherever you want, however you want. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/dia-skills) |
 
 ## Fun (5)
 

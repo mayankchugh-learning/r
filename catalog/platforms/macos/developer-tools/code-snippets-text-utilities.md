@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · **Code, Snippets & Text Utilities** · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-99 of 1115 extensions · [← macOS · Developer Tools](./README.md)
+99 of 1116 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@
 | [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 34,352 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
 | [Unix Timestamp](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp) | 29,378 | Convert between unix timestamp and human readable form date | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/unix-timestamp) |
 | [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 24,602 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
-| [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) | 20,163 | Compare content of two texts | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/diff-checker) |
+| [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) | 20,239 | Compare content of two texts | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/diff-checker) |
 | [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 16,803 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
 | [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 13,085 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
 | [Regex Tester](https://github.com/raycast/extensions/tree/main/extensions/regex-tester) | 12,645 | Preview and test regular expressions | allenan | macOS, Windows | [store](https://www.raycast.com/allenan/regex-tester) |
@@ -73,7 +73,7 @@
 | [Table Converter](https://github.com/raycast/extensions/tree/main/extensions/table-converter) | 279 | Convert tables from Clipboard to Markdown and vice versa. | naserowaimer | macOS | [store](https://www.raycast.com/naserowaimer/table-converter) |
 | [Copy Text Files](https://github.com/raycast/extensions/tree/main/extensions/copy-text-files) | 277 | Copy text files in current finder | netcookies | macOS | [store](https://www.raycast.com/netcookies/copy-text-files) |
 | [Modify Hash](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) | 262 | Batch modify the hash of media files, which can be simply used for uploading online disk to prevent censorship. | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/modify-hash) |
-| [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) | 258 | Convert Any Language Text into an English Variable Name | keleus | macOS, Windows | [store](https://www.raycast.com/keleus/easyvariable) |
+| [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) | 260 | Convert Any Language Text into an English Variable Name | keleus | macOS, Windows | [store](https://www.raycast.com/keleus/easyvariable) |
 | [Escape RegExp Characters](https://github.com/raycast/extensions/tree/main/extensions/escape-regexp-characters) | 225 | Escape RegExp special characters. | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/escape-regexp-characters) |
 | [Esse Actions](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) | 220 | Uses the Esse app, which must already be installed, to perform operations on the passed text | bert | macOS | [store](https://www.raycast.com/bert/esse-actions) |
 | [String Formatter](https://github.com/raycast/extensions/tree/main/extensions/string-formatter) | 217 | Format strings with custom separators and decorators | fireice009 | macOS, Windows | [store](https://www.raycast.com/fireice009/string-formatter) |
@@ -103,5 +103,5 @@
 | [Daytona](https://github.com/raycast/extensions/tree/main/extensions/daytona) | 19 | Create Daytona sandboxes and run code directly from Raycast. | jurajstefanic | macOS, Windows | [store](https://www.raycast.com/jurajstefanic/daytona) |
 | [Code Quarkus](https://github.com/raycast/extensions/tree/main/extensions/code-quarkus) | 17 | Create new Quarkus project | loic_magnette | macOS | [store](https://www.raycast.com/loic_magnette/code-quarkus) |
 | [Greptile](https://github.com/raycast/extensions/tree/main/extensions/greptile) | 10 | Browse Greptile pull requests, code reviews, and review comments from Raycast. | clins1994 | Windows, macOS | [store](https://www.raycast.com/clins1994/greptile) |
+| [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json) | 4 | Browse, search, decode, and extract nested JSON. | xiaodaiguaray | macOS, Windows | [store](https://www.raycast.com/xiaodaiguaray/better-json) |
 | [GLES to MaliOC](https://github.com/raycast/extensions/tree/main/extensions/gles-to-malioc) | 4 | Compile GLES shader code with MaliOC and get performance stats. | RomanVPX | macOS | [store](https://www.raycast.com/RomanVPX/gles-to-malioc) |
-| [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json) | 3 | Browse, search, decode, and extract nested JSON. | xiaodaiguaray | macOS, Windows | [store](https://www.raycast.com/xiaodaiguaray/better-json) |

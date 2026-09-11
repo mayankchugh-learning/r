@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `61d4b3cbbc`
+
+**Added (1):** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status)
+
 ## 2026-09-11 — upstream `07d2220abe`
 
 **Added (1):** [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets)

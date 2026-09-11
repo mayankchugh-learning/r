@@ -22,7 +22,7 @@
 | [gbgk](https://www.raycast.com/gbgk) | 1 | 2,665 | **Productivity:** [Glyph Search](https://github.com/raycast/extensions/tree/main/extensions/glyph-search) |
 | [gdcho](https://www.raycast.com/gdcho) | 1 | 122 | **Productivity:** [Clipsign](https://github.com/raycast/extensions/tree/main/extensions/clipsign) |
 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 48,612 | **Developer Tools:** [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains)<br>**Data:** [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) |
-| [gebeto](https://www.raycast.com/gebeto) | 3 | 462,357 | **Web:** [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate)<br>**Fun:** [Dribbble](https://github.com/raycast/extensions/tree/main/extensions/dribbble), [UpLabs](https://github.com/raycast/extensions/tree/main/extensions/uplabs) |
+| [gebeto](https://www.raycast.com/gebeto) | 3 | 462,361 | **Web:** [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate)<br>**Fun:** [Dribbble](https://github.com/raycast/extensions/tree/main/extensions/dribbble), [UpLabs](https://github.com/raycast/extensions/tree/main/extensions/uplabs) |
 | [geekdada](https://www.raycast.com/geekdada) | 2 | 1,984 | **Productivity:** [Linguee](https://github.com/raycast/extensions/tree/main/extensions/linguee)<br>**Developer Tools:** [Kimi for Coding](https://github.com/raycast/extensions/tree/main/extensions/kimi-for-coding) |
 | [GenuineCheddar](https://www.raycast.com/GenuineCheddar) | 1 | 810 | **Other:** [Clean Text](https://github.com/raycast/extensions/tree/main/extensions/clean-text) |
 | [gerardkeane](https://www.raycast.com/gerardkeane) | 1 | 359 | **News:** [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) |
@@ -44,7 +44,7 @@
 | [Glaze](https://www.raycast.com/Glaze) | 1 | 127 | **Finance:** [NFT Search](https://github.com/raycast/extensions/tree/main/extensions/nft-search) |
 | [glct26](https://www.raycast.com/glct26) | 3 | 51 | **Fun:** [Game Scout](https://github.com/raycast/extensions/tree/main/extensions/game-scout)<br>**Applications:** [ROM Launcher](https://github.com/raycast/extensions/tree/main/extensions/rom-launcher), [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game) |
 | [globalping](https://www.raycast.com/globalping) | 1 | 39 | **Developer Tools:** [Globalping](https://github.com/raycast/extensions/tree/main/extensions/globalping) |
-| [Globolo](https://www.raycast.com/Globolo) | 1 | 1,231 | **Developer Tools:** [Diskutil](https://github.com/raycast/extensions/tree/main/extensions/diskutil-mac) |
+| [Globolo](https://www.raycast.com/Globolo) | 1 | 1,234 | **Developer Tools:** [Diskutil](https://github.com/raycast/extensions/tree/main/extensions/diskutil-mac) |
 | [gnehz972](https://www.raycast.com/gnehz972) | 1 | 118 | **Productivity:** [Word4you](https://github.com/raycast/extensions/tree/main/extensions/word4you) |
 | [Gnosnay](https://www.raycast.com/Gnosnay) | 2 | 1,631 | **Developer Tools:** [Code Saver](https://github.com/raycast/extensions/tree/main/extensions/code-saver), [CIDR Conversion](https://github.com/raycast/extensions/tree/main/extensions/cidr) |
 | [Go2SheeP](https://www.raycast.com/Go2SheeP) | 1 | 2,911 | **Uncategorized:** [Clash](https://github.com/raycast/extensions/tree/main/extensions/clash) |
@@ -69,7 +69,7 @@
 | [gumbleliks](https://www.raycast.com/gumbleliks) | 1 | 804 | **Finance:** [Coinpaprika](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) |
 | [guoxudong](https://www.raycast.com/guoxudong) | 1 | 286 | **Developer Tools:** [Saved Items](https://github.com/raycast/extensions/tree/main/extensions/saved-items) |
 | [gupta_ji](https://www.raycast.com/gupta_ji) | 1 | 21 | **Productivity:** [Atomberg - Smart Home Control](https://github.com/raycast/extensions/tree/main/extensions/atomberg-raycast-extension) |
-| [Gusta](https://www.raycast.com/Gusta) | 1 | 36 | **Finance:** [Dolar Hoy Argentina](https://github.com/raycast/extensions/tree/main/extensions/dolar-hoy) |
+| [Gusta](https://www.raycast.com/Gusta) | 1 | 37 | **Finance:** [Dolar Hoy Argentina](https://github.com/raycast/extensions/tree/main/extensions/dolar-hoy) |
 | [gustavofior](https://www.raycast.com/gustavofior) | 1 | 480 | **Data:** [5Devs](https://github.com/raycast/extensions/tree/main/extensions/5devs) |
 | [gutenye](https://www.raycast.com/gutenye) | 3 | 1,330 | **Finance:** [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price)<br>**Applications:** [React DevTools](https://github.com/raycast/extensions/tree/main/extensions/react-devtools)<br>**Productivity:** [Search Blockchain](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) |
 | [guus](https://www.raycast.com/guus) | 1 | 8 | **Design Tools:** [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) |
