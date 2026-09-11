@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9b8092e913911acd4093c7753145b38f2dc6b87e",
-  "generatedAt": "2026-09-11T08:06:45.402Z",
-  "downloadsRefreshedAt": "2026-09-11T08:06:44.600Z",
+  "commit": "84537464abad48b7f91024ea59987bf70dc34513",
+  "generatedAt": "2026-09-11T08:29:51.563Z",
+  "downloadsRefreshedAt": "2026-09-11T08:29:49.926Z",
   "count": 3278,
   "extensions": [
     {
@@ -4665,7 +4665,7 @@
       "store": "https://www.raycast.com/xiaodaiguaray/better-json",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/better-json",
       "treeSha": "1166acb23cc61282e3d632e8e07888f3a052d8e9",
-      "downloads": 0
+      "downloads": 2
     },
     {
       "dir": "better-screenshoot",
@@ -10061,7 +10061,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "9483de45c05825744760f154a0a13298a962f75d",
-      "downloads": 552841
+      "downloads": 553031
     },
     {
       "dir": "color-shades",
@@ -15215,7 +15215,7 @@
       "title": "Done Bear",
       "description": "A local-first GTD task manager for Raycast: capture, search, and complete tasks, plan your Today list, and manage projects — synced with the Done Bear web, desktop, iOS, and CLI apps.",
       "author": "mblode",
-      "owner": null,
+      "owner": "donebear",
       "contributors": 0,
       "categories": [
         "Productivity"
@@ -15224,9 +15224,9 @@
       "platforms": [
         "macOS"
       ],
-      "store": "https://www.raycast.com/mblode/done-bear",
+      "store": "https://www.raycast.com/donebear/done-bear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/done-bear",
-      "treeSha": "81e6375b2ff118e57726df23f3550422a97626c4",
+      "treeSha": "f80f3a49daebf78bd79a3e0c6e297348b62dbd62",
       "downloads": 10
     },
     {
@@ -22498,7 +22498,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "3c93a10a0fc414cc77e951db4df64b614d36f266",
-      "downloads": 527926
+      "downloads": 528041
     },
     {
       "dir": "google-chrome-profiles",
@@ -28883,7 +28883,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "e60960b16144e566e6d8a71135e381923b052d1f",
-      "downloads": 711595
+      "downloads": 711791
     },
     {
       "dir": "kimai",

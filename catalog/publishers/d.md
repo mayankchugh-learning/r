@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-152 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+153 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -128,6 +128,7 @@
 | [dominikdev](https://www.raycast.com/dominikdev) | 2 | 19 | **Developer Tools:** [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra)<br>**Productivity:** [Marble](https://github.com/raycast/extensions/tree/main/extensions/marble) |
 | [dominuskelvin](https://www.raycast.com/dominuskelvin) | 1 | 28 | **Developer Tools:** [Paystack](https://github.com/raycast/extensions/tree/main/extensions/paystack) |
 | [domonkos_nagy](https://www.raycast.com/domonkos_nagy) | 1 | 94 | **Uncategorized:** [Ping Menu](https://github.com/raycast/extensions/tree/main/extensions/ping-menu) |
+| [donebear](https://www.raycast.com/donebear) | 1 | 10 | **Productivity:** [Done Bear](https://github.com/raycast/extensions/tree/main/extensions/done-bear) |
 | [dongqing](https://www.raycast.com/dongqing) | 1 | 4 | **Productivity:** [Xiaohe Query](https://github.com/raycast/extensions/tree/main/extensions/xiaohe-query) |
 | [Dori7os](https://www.raycast.com/Dori7os) | 1 | 67 | **Fun:** [Minecast](https://github.com/raycast/extensions/tree/main/extensions/minecast) |
 | [dort](https://www.raycast.com/dort) | 1 | 11 | **Productivity:** [Mnemosyne](https://github.com/raycast/extensions/tree/main/extensions/mnemosyne) |

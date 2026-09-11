@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `84537464ab`
+
+**Updated (1):** [Done Bear](https://github.com/raycast/extensions/tree/main/extensions/done-bear)
+
 ## 2026-09-11 — upstream `9b8092e913`
 
 **Added (1):** [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json)

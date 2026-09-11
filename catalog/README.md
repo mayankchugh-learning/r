@@ -2,7 +2,7 @@
 
 An organized, auto-maintained index of every extension in [raycast/extensions](https://github.com/raycast/extensions).
 
-**3278** extensions · **17** categories · **2193** publishers
+**3278** extensions · **17** categories · **2194** publishers
 
 ## Browse
 
@@ -11,7 +11,7 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 | [By downloads](./ranked/README.md) | every extension ranked by installs |
 | [By category](./categories/README.md) | 17 categories → curated subcategories → auto-discovered topic groups (✦), nested as deep as the data supports |
 | [By platform](./platforms/README.md) | macOS (3246) · Windows (904) · cross-platform (872), each by category |
-| [By publisher](./publishers/README.md) | 2193 publishers, sortable by downloads or extension count; big publishers get their own page |
+| [By publisher](./publishers/README.md) | 2194 publishers, sortable by downloads or extension count; big publishers get their own page |
 | [Alphabetical](./alphabetical/0-9.md) | every extension, A–Z |
 | [Changelog](./CHANGELOG.md) | upstream additions, updates, removals per sync |
 
