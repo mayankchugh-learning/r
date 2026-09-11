@@ -1,6 +1,6 @@
 # xmok
 
-114 extensions · 12,371 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+114 extensions · 12,375 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (22)
 
@@ -21,8 +21,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 524 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
-| [Host.io](https://github.com/raycast/extensions/tree/main/extensions/host-io) | 47 | A Powerful and Fast Domain Name Data API | xmok | macOS | [store](https://www.raycast.com/xmok/host-io) |
+| [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 527 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
+| [Host.io](https://github.com/raycast/extensions/tree/main/extensions/host-io) | 48 | A Powerful and Fast Domain Name Data API | xmok | macOS | [store](https://www.raycast.com/xmok/host-io) |
 
 ### Health, Nature & Science
 

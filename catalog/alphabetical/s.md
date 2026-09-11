@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-339 extensions · [← catalog index](../README.md)
+340 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -65,7 +65,7 @@
 | [Send to flomo](https://github.com/raycast/extensions/tree/main/extensions/send-to-flomo) | 2,041 | Send your MEMOs to flomo | ahonn | macOS | [store](https://www.raycast.com/ahonn/send-to-flomo) |
 | [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 1,964 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
 | [Simple Dictionary](https://github.com/raycast/extensions/tree/main/extensions/simple-dictionary) | 1,921 | A simple dictionary to look up words and save your favourites | CT-7567 | macOS, Windows | [store](https://www.raycast.com/CT-7567/simple-dictionary) |
-| [Search HoudahSpot](https://github.com/raycast/extensions/tree/main/extensions/houdahspot-search) | 1,727 | Search with HoudahSpot | felixthehat | macOS | [store](https://www.raycast.com/felixthehat/houdahspot-search) |
+| [Search HoudahSpot](https://github.com/raycast/extensions/tree/main/extensions/houdahspot-search) | 1,731 | Search with HoudahSpot | felixthehat | macOS | [store](https://www.raycast.com/felixthehat/houdahspot-search) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,696 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
 | [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,596 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
 | [SimpleTexOCR](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) | 1,582 | A LaTeX OCR by Simpletex | Arthals | macOS | [store](https://www.raycast.com/Arthals/simpletexocr) |
@@ -268,11 +268,11 @@
 | [Swap Commas & Dots](https://github.com/raycast/extensions/tree/main/extensions/swap-commas-dots) | 62 | Swap commas and dots in selected text. | brunopicinin | macOS | [store](https://www.raycast.com/brunopicinin/swap-commas-dots) |
 | [Strapi](https://github.com/raycast/extensions/tree/main/extensions/strapi-raycast-extension) | 60 | Strapi extension for Raycast | douwepausma | macOS | [store](https://www.raycast.com/douwepausma/strapi-raycast-extension) |
 | [Stacks](https://github.com/raycast/extensions/tree/main/extensions/stacks) | 59 | Search and manage your saved resources from Stacks | sourabh_rathour | macOS | [store](https://www.raycast.com/sourabh_rathour/stacks) |
+| [Search LaraJobs](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) | 58 | Search jobs on Larajobs | Treblle | macOS | [store](https://www.raycast.com/Treblle/larajobs-search) |
 | [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori) | 58 | Interact with Shiori the bookmark manager | namiwang | macOS | [store](https://www.raycast.com/namiwang/shiori) |
 | [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 58 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
 | [Scrapbook](https://github.com/raycast/extensions/tree/main/extensions/scrapbook) | 57 | View hackclub's scrapbook posts and users from raycast. | fakerr | macOS | [store](https://www.raycast.com/fakerr/scrapbook) |
 | [Swipe Photo Cleaner](https://github.com/raycast/extensions/tree/main/extensions/swipe-photo-cleaner) | 57 | Clean your photo library with fast swipe decisions | nazarlysyi | macOS | [store](https://www.raycast.com/nazarlysyi/swipe-photo-cleaner) |
-| [Search LaraJobs](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) | 56 | Search jobs on Larajobs | Treblle | macOS | [store](https://www.raycast.com/Treblle/larajobs-search) |
 | [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 56 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |
 | [Sidecar Display](https://github.com/raycast/extensions/tree/main/extensions/sidecar-display) | 55 | Connect your iPad over Sidecar and force it to extend instead of mirror, without touching your main display. | chiptoma | macOS | [store](https://www.raycast.com/chiptoma/sidecar-display) |
 | [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) | 54 | Introducing the Solana Wallet Generator, a powerful Raycast extension designed for developers and cryptocurrency enthusiasts seeking to efficiently create mult… | uladkaminski | macOS | [store](https://www.raycast.com/uladkaminski/solana-wallets-generation) |
@@ -342,6 +342,7 @@
 | [Sir.golf](https://github.com/raycast/extensions/tree/main/extensions/sir-golf) | 1 | Live golf leaderboards (PGA Tour, LPGA, DP World Tour), the full tour schedule with every major badged and one-tap Add to Calendar, plus season rankings — by s… | julianpaul | macOS, Windows | [store](https://www.raycast.com/julianpaul/sir-golf) |
 | [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) | 1 | Save browser tabs and links to your smry Inbox or Later list. | smry | macOS | [store](https://www.raycast.com/smry/smry) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | 0 | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
+| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | 0 | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | [store](https://www.raycast.com/kxrbx/shell-apps) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
 | [Search Blockchain](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) | — | Search Bitcoin (BTC), Cardano (ADA), EOS, Ethereum (ETH), Monero (XMR), NEO, Ontology (ONT), Polygon (DOT), Solana (SOL), Stellar (XLM), Tron (TRX), XRP and mo… | gutenye | macOS | — |
-| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | — | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | — |
+| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | — | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS | — |

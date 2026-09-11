@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) | 11,918 | Markdown documentation at your fingertips | codedbyjordan | macOS, Windows | [store](https://www.raycast.com/codedbyjordan/markdown-reference) |
+| [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) | 11,955 | Markdown documentation at your fingertips | codedbyjordan | macOS, Windows | [store](https://www.raycast.com/codedbyjordan/markdown-reference) |
 | [WordPress Docs](https://github.com/raycast/extensions/tree/main/extensions/wordpress-docs) | 760 | Search the WordPress code reference. | tillkruss | macOS | [store](https://www.raycast.com/tillkruss/wordpress-docs) |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 176 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
 | [Shopify Theme Resources](https://github.com/raycast/extensions/tree/main/extensions/shopify-theme-resources) | 169 | Quickly reference and search Shopify theme resources, like input settings, fonts, and more for Shopify theme development. | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopify-theme-resources) |
@@ -34,7 +34,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 21,518 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,616 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,651 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
 | [Conventional Commits](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) | 1,694 | Provides a list of conventional commits prefixes and descriptions that can be inserted into your active window as well as example of how messages should be str… | niemtec | macOS | [store](https://www.raycast.com/niemtec/conventional-commits) |
 | [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) | 782 | Raycast Commands for Searching Different ML APIs | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/mldocs) |
 | [Code Smells Search](https://github.com/raycast/extensions/tree/main/extensions/code-smells) | 234 | Discover all code smells and how to solve them based on Code Smells Catalog created by Marcel J. | omorest | macOS | [store](https://www.raycast.com/omorest/code-smells) |

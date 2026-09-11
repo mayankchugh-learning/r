@@ -1,8 +1,8 @@
 # macOS · Communication
 
-153 extensions · [← macOS](../README.md)
+154 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (16) · [Email](#email) (23) · [Social & Fediverse](#social-fediverse) (10) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (55)
+[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (16) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (10) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (55)
 
 ## Conversations
 
@@ -25,10 +25,10 @@
 | [Discord Timestamps](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) | 1,669 | Generate a Discord timestamp | theshadowdev | macOS, Windows | [store](https://www.raycast.com/theshadowdev/discord-timestamps) |
 | [Slackmojis](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) | 1,437 | An unofficial directory of the best custom Slack emojis from slackmojis.com | timoransky | macOS | [store](https://www.raycast.com/timoransky/slackmojis) |
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,132 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
-| [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool) | 1,062 | Raycast extension that provides instant spelling and grammar correction using LanguageTool. Type any text, get real-time suggestions, and copy the improved ver… | lucastaonline | macOS, Windows | [store](https://www.raycast.com/lucastaonline/raycast-language-tool) |
+| [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool) | 1,067 | Raycast extension that provides instant spelling and grammar correction using LanguageTool. Type any text, get real-time suggestions, and copy the improved ver… | lucastaonline | macOS, Windows | [store](https://www.raycast.com/lucastaonline/raycast-language-tool) |
 | [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 947 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
 | [Fast Chat With Phone Number in IM Apps](https://github.com/raycast/extensions/tree/main/extensions/phonenumber-in-im) | 895 | A Raycast extension enables faster chatting with a target phone number in IM apps like WhatsApp and Telegram, eliminating the need to add contacts beforehand. | timonpeng | macOS | [store](https://www.raycast.com/timonpeng/phonenumber-in-im) |
-| [Mattermost](https://github.com/raycast/extensions/tree/main/extensions/mattermost) | 836 | Search for chats, see unread messages, and set your presence status. | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mattermost) |
+| [Mattermost](https://github.com/raycast/extensions/tree/main/extensions/mattermost) | 841 | Search for chats, see unread messages, and set your presence status. | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mattermost) |
 | [Slack Summarizer](https://github.com/raycast/extensions/tree/main/extensions/slack-summarizer) | 263 | Summarize Slack channels, threads and messages using OpenAI | hassan_ahmed | macOS | [store](https://www.raycast.com/hassan_ahmed/slack-summarizer) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | 205 | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
 | [Text Enhance](https://github.com/raycast/extensions/tree/main/extensions/text-enhance) | 180 | Enhance drafts with Raycast AI, copy the improved result to the clipboard, and iterate with follow-up corrections. | max13021302 | macOS | [store](https://www.raycast.com/max13021302/text-enhance) |
@@ -45,7 +45,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 107,891 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
-| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 34,269 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
+| [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) | 34,435 | Start a Google Meet directly from Raycast | vitoorgomes | macOS | [store](https://www.raycast.com/vitoorgomes/google-meet) |
 | [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 15,064 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 9,699 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
 | [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 5,665 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
@@ -59,18 +59,18 @@
 | [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 41 | Browse and call contacts, control your active call, and search transcripts from your Tuple pair programming sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
 | [Yandex Telemost](https://github.com/raycast/extensions/tree/main/extensions/yandex-telemost) | 24 | Create and join Yandex Telemost meetings directly from Raycast. Requires macOS — uses AppleScript to automate your browser. | egor_chuzhin | macOS | [store](https://www.raycast.com/egor_chuzhin/yandex-telemost) |
 | [Zyntra](https://github.com/raycast/extensions/tree/main/extensions/zyntra) | 7 | Unlimited mailboxes for QA teams | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zyntra) |
-| [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) | 5 | Call anyone in your Contacts through your iPhone in two keystrokes via macOS Continuity. | amir01 | macOS | [store](https://www.raycast.com/amir01/phone) |
+| [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) | 0 | Call anyone in your Contacts through your iPhone in two keystrokes via macOS Continuity. | amir01 | macOS | [store](https://www.raycast.com/amir01/phone) |
 
 ### Email
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 37,893 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
-| [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,977 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
+| [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 6,016 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
 | [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,792 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman) | 2,315 | Boost your email workflow with powerful contextual Superhuman integration. Draft emails with context and search your inbox using Superhuman's advanced operator… | jlokos | macOS | [store](https://www.raycast.com/jlokos/superhuman) |
 | [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,223 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
-| [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) | 919 | Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API | krsntn | macOS | [store](https://www.raycast.com/krsntn/guerrilla-mail) |
+| [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) | 921 | Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API | krsntn | macOS | [store](https://www.raycast.com/krsntn/guerrilla-mail) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | 844 | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
 | [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 841 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 304 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
@@ -78,7 +78,7 @@
 | [Cloudflare Email Routing](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-email-routing) | 204 | Create, list, edit, and delete Cloudflare email aliases directly from Raycast. | erayack | macOS | [store](https://www.raycast.com/erayack/cloudflare-email-routing) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 182 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 | [mailboxlayer](https://github.com/raycast/extensions/tree/main/extensions/mailboxlayer) | 118 | Check and Verify email addresses using mailboxlayer | xmok | macOS | [store](https://www.raycast.com/xmok/mailboxlayer) |
-| [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) | 111 | Send a quick subject + body to your inbox over SMTP without leaving Raycast. | MrMage | macOS | [store](https://www.raycast.com/MrMage/mail-to-self) |
+| [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) | 112 | Send a quick subject + body to your inbox over SMTP without leaving Raycast. | MrMage | macOS | [store](https://www.raycast.com/MrMage/mail-to-self) |
 | [Shroud.email](https://github.com/raycast/extensions/tree/main/extensions/shroud-email) | 67 | View Domains and Create or View Aliases in Shroud.email instance | xmok | macOS | [store](https://www.raycast.com/xmok/shroud-email) |
 | [Bento Email](https://github.com/raycast/extensions/tree/main/extensions/bento) | 25 | Interact with Bento (bentonow.com) to add subscribers, view broadcasts, reports, and other utility features. | zeromana | macOS | [store](https://www.raycast.com/zeromana/bento) |
 | [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) | 25 | Find the verified email address of any professional. | morrissimons | macOS, Windows | [store](https://www.raycast.com/morrissimons/mail-finder) |
@@ -88,6 +88,7 @@
 | [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 11 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 9 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
 | [QQ Mail](https://github.com/raycast/extensions/tree/main/extensions/qq-mail) | 9 | View and manage your QQ Mail inbox | ariesly15 | macOS, Windows | [store](https://www.raycast.com/ariesly15/qq-mail) |
+| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | — | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS | — |
 
 ## Social & Sharing
 
@@ -131,7 +132,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [HubSpot](https://github.com/raycast/extensions/tree/main/extensions/hubspot) | 1,691 | Search Hubspot Contacts, Companies and Deals | harisvsulaiman | macOS | [store](https://www.raycast.com/harisvsulaiman/hubspot) |
+| [HubSpot](https://github.com/raycast/extensions/tree/main/extensions/hubspot) | 1,695 | Search Hubspot Contacts, Companies and Deals | harisvsulaiman | macOS | [store](https://www.raycast.com/harisvsulaiman/hubspot) |
 | [Google Contacts](https://github.com/raycast/extensions/tree/main/extensions/google-contacts) | 425 | Browse, search, and manage your Google Contacts directly from Raycast — create, edit, delete, and action contacts without leaving your keyboard. | aic | macOS, Windows | [store](https://www.raycast.com/aic/google-contacts) |
 | [BambooHR](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) | 244 | Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. | Rob | Windows, macOS | [store](https://www.raycast.com/Rob/bamboohr) |
 | [Bento](https://github.com/raycast/extensions/tree/main/extensions/bento-me) | 70 | Access a Bento profile. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/bento-me) |
@@ -173,16 +174,16 @@
 | [BetterDiscord Store](https://github.com/raycast/extensions/tree/main/extensions/betterdiscord-search) | 564 | Allows you to search and view BetterDiscord addons inside Raycast | TheCommieAxolotl | macOS | [store](https://www.raycast.com/TheCommieAxolotl/betterdiscord-store) |
 | [Redmine](https://github.com/raycast/extensions/tree/main/extensions/redmine) | 446 | Integrate with the Redmine issue system (https://www.redmine.org/) | jwickers | macOS | [store](https://www.raycast.com/jwickers/redmine) |
 | [Porkbun](https://github.com/raycast/extensions/tree/main/extensions/porkbun) | 412 | Interact with Porkbun with the help of Raycast | xmok | macOS | [store](https://www.raycast.com/xmok/porkbun) |
-| [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) | 403 | Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing. | valenradovich | macOS | [store](https://www.raycast.com/valenradovich/grammaring) |
+| [Grammaring](https://github.com/raycast/extensions/tree/main/extensions/grammaring) | 405 | Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing. | valenradovich | macOS | [store](https://www.raycast.com/valenradovich/grammaring) |
 | [GitHub Users Search](https://github.com/raycast/extensions/tree/main/extensions/github-users) | 380 | Search GitHub users | luisFilipePT | macOS | [store](https://www.raycast.com/luisFilipePT/github-users) |
-| [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya) | 307 | Manage emails through Himalaya CLI | jns | macOS | [store](https://www.raycast.com/jns/himalaya) |
+| [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya) | 308 | Manage emails through Himalaya CLI | jns | macOS | [store](https://www.raycast.com/jns/himalaya) |
 | [Ask Notis](https://github.com/raycast/extensions/tree/main/extensions/notis) | 301 | Capture, organize, and find anything for you in your Notion workspace. | mindtheflo | macOS | [store](https://www.raycast.com/mindtheflo/notis) |
 | [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 300 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |
 | [Control Viscosity](https://github.com/raycast/extensions/tree/main/extensions/control-viscosity) | 224 | Allows you to control Viscosity VPN client and connect to or disconnect from your VPN connections. | dionisis_lialios | macOS | [store](https://www.raycast.com/dionisis_lialios/control-viscosity) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 224 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) | 223 | Control your AirSync app directly from Raycast | sameerasw | macOS | [store](https://www.raycast.com/sameerasw/airsync) |
 | [omg.lol](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) | 220 | Create, read, and update data in your omg.lol account. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/omg-lol) |
-| [ImprovMX](https://github.com/raycast/extensions/tree/main/extensions/improvmx) | 209 | Interact with ImprovMX with the help of Raycast | ImprovMX | macOS | [store](https://www.raycast.com/ImprovMX/improvmx) |
+| [ImprovMX](https://github.com/raycast/extensions/tree/main/extensions/improvmx) | 210 | Interact with ImprovMX with the help of Raycast | ImprovMX | macOS | [store](https://www.raycast.com/ImprovMX/improvmx) |
 | [Designer Excuses](https://github.com/raycast/extensions/tree/main/extensions/designer-excuses) | 168 | Designer Excuses is a playful Raycast extension that generates lighthearted, witty excuses for designers | shreeram | macOS | [store](https://www.raycast.com/shreeram/designer-excuses) |
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 155 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [Personio](https://github.com/raycast/extensions/tree/main/extensions/personio) | 143 | Track your time with Personio. | boosteblume | macOS | [store](https://www.raycast.com/boosteblume/personio) |

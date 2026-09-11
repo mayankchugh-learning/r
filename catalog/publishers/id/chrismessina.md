@@ -1,6 +1,6 @@
 # chrismessina
 
-16 extensions · 7,060 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+16 extensions · 7,062 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -23,7 +23,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 854 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
-| [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 194 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
+| [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 196 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 
 ## Web (1)
 

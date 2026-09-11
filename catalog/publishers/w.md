@@ -11,7 +11,7 @@
 | [wdeu](https://www.raycast.com/wdeu) | 3 | 34 | **Developer Tools:** [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync)<br>**Finance:** [Camper Van Cost Tracker](https://github.com/raycast/extensions/tree/main/extensions/camper-calc)<br>**Documentation:** [DNB Book Lookup](https://github.com/raycast/extensions/tree/main/extensions/dnb-book-lookup) |
 | [web3bio](https://www.raycast.com/web3bio) | 1 | 107 | **Developer Tools:** [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) |
 | [webdiego](https://www.raycast.com/webdiego) | 1 | 2,674 | **Developer Tools:** [React Documentation](https://github.com/raycast/extensions/tree/main/extensions/react-docs) |
-| [webpro](https://www.raycast.com/webpro) | 1 | 882 | **Developer Tools:** [GitHub Search](https://github.com/raycast/extensions/tree/main/extensions/github-search) |
+| [webpro](https://www.raycast.com/webpro) | 1 | 885 | **Developer Tools:** [GitHub Search](https://github.com/raycast/extensions/tree/main/extensions/github-search) |
 | [weicodes](https://www.raycast.com/weicodes) | 1 | 1,837 | **Uncategorized:** [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) |
 | [wellsgz](https://www.raycast.com/wellsgz) | 1 | 163 | **System:** [Handoff Toggle](https://github.com/raycast/extensions/tree/main/extensions/handoff-toggle) |
 | [WerrySs](https://www.raycast.com/WerrySs) | 1 | 100 | **Developer Tools:** [PromptCast for Claude & Codex](https://github.com/raycast/extensions/tree/main/extensions/codex-claude-cli) |

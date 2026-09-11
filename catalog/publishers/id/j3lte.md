@@ -1,13 +1,13 @@
 # j3lte
 
-13 extensions · 10,536 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
+13 extensions · 10,538 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
 
 ## Media (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,718 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
-| [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 362 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
+| [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 363 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 
 ## Developer Tools (6)
 
@@ -18,7 +18,7 @@
 | [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 871 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 250 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [Deno Deploy](https://github.com/raycast/extensions/tree/main/extensions/deno-deploy) | 132 | View and modify your Deno Deploy projects | j3lte | macOS | [store](https://www.raycast.com/j3lte/deno-deploy) |
-| [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 98 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
+| [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 99 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
 
 ## Fun (2)
 

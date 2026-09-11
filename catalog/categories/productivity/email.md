@@ -1,8 +1,8 @@
 # Email
 
-23 extensions · [← Productivity](./README.md)
+24 extensions · [← Productivity](./README.md)
 
-[Inbox ✦](#inbox) (8) · [Email Address ✦](#email-address) (5) · [General](#general) (10)
+[Inbox ✦](#inbox) (8) · [Mail ✦](#mail) (5) · [General](#general) (11)
 
 *✦ auto-discovered topic group*
 
@@ -16,27 +16,28 @@
 | [Universal Inbox](https://github.com/raycast/extensions/tree/main/extensions/universal-inbox) | 264 | Manage your notifications in a single Universal Inbox | dax42 | macOS | [store](https://www.raycast.com/dax42/universal-inbox) |
 | [Kinopio Inbox](https://github.com/raycast/extensions/tree/main/extensions/kinopio-inbox) | 187 | Add cards to your Kinopio inbox | pirijan | macOS | [store](https://www.raycast.com/pirijan/kinopio-inbox) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 182 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
-| [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) | 111 | Send a quick subject + body to your inbox over SMTP without leaving Raycast. | MrMage | macOS | [store](https://www.raycast.com/MrMage/mail-to-self) |
+| [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) | 112 | Send a quick subject + body to your inbox over SMTP without leaving Raycast. | MrMage | macOS | [store](https://www.raycast.com/MrMage/mail-to-self) |
 | [Smry](https://github.com/raycast/extensions/tree/main/extensions/smry) | 1 | Save browser tabs and links to your smry Inbox or Later list. | smry | macOS | [store](https://www.raycast.com/smry/smry) |
 
-## Email Address ✦
+## Mail ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,682 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
-| [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) | 919 | Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API | krsntn | macOS | [store](https://www.raycast.com/krsntn/guerrilla-mail) |
+| [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) | 921 | Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API | krsntn | macOS | [store](https://www.raycast.com/krsntn/guerrilla-mail) |
 | [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 841 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) | 25 | Find the verified email address of any professional. | morrissimons | macOS, Windows | [store](https://www.raycast.com/morrissimons/mail-finder) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 9 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
+| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | — | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS | — |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) | 37,032 | View 2FA codes from iMessage and Email | yuercl | macOS | [store](https://www.raycast.com/yuercl/imessage-2fa) |
+| [2FA Code Finder](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) | 37,191 | View 2FA codes from iMessage and Email | yuercl | macOS | [store](https://www.raycast.com/yuercl/imessage-2fa) |
 | [Temporary Email](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) | 11,666 | Quickly and easily create a temporary email. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/temporary-email) |
-| [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 4,246 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS, Windows | [store](https://www.raycast.com/svenhofman/hidemyemail) |
-| [Gmail Accounts](https://github.com/raycast/extensions/tree/main/extensions/gmail-accounts) | 1,784 | Quickly access your Gmail accounts in Chrome (requires Google Chrome) | lachero | macOS | [store](https://www.raycast.com/lachero/gmail-accounts) |
+| [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 4,265 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS, Windows | [store](https://www.raycast.com/svenhofman/hidemyemail) |
+| [Gmail Accounts](https://github.com/raycast/extensions/tree/main/extensions/gmail-accounts) | 1,785 | Quickly access your Gmail accounts in Chrome (requires Google Chrome) | lachero | macOS | [store](https://www.raycast.com/lachero/gmail-accounts) |
+| [Random Email](https://github.com/raycast/extensions/tree/main/extensions/random-email) | 1,682 | A quick way to create and copy a random email address | rkjaer | macOS | [store](https://www.raycast.com/rkjaer/random-email) |
 | [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) | 1,539 | Manage masked emails with Fastmail | LightQuantum | macOS | [store](https://www.raycast.com/LightQuantum/fastmail-masked-email) |
 | [Dash Off](https://github.com/raycast/extensions/tree/main/extensions/dash-off) | 1,107 | The fastest way to dash off a quick email to yourself and others | peduarte | macOS | [store](https://www.raycast.com/peduarte/dash-off) |
 | [DuckDuckGo Email](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) | 881 | A simple extension that generate DuckDuckGo email alias | Hugo-Persson | macOS | [store](https://www.raycast.com/Hugo-Persson/duckduckgo-email) |

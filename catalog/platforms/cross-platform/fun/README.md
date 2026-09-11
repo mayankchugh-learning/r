@@ -20,8 +20,8 @@
 | [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 637 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
 | [Roblox](https://github.com/raycast/extensions/tree/main/extensions/roblox) | 614 | Raycast Extension for finding games, users & more on Roblox | iamEvan | macOS, Windows | [store](https://www.raycast.com/iamEvan/roblox) |
 | [SteamGridDB](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) | 545 | Download and share custom video game assets and personalize your gaming library. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/steamgriddb) |
+| [Hidden Icons](https://github.com/raycast/extensions/tree/main/extensions/hidden-icons) | 397 | A casual game to find a hidden icon. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/hidden-icons) |
 | [BTTV Emote](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) | 395 | Browse Through Thousands of BTTV Emote | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/bttv-emote) |
-| [Hidden Icons](https://github.com/raycast/extensions/tree/main/extensions/hidden-icons) | 395 | A casual game to find a hidden icon. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/hidden-icons) |
 | [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 382 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 347 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [Ray Clicker](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker) | 329 | Idle clicker game for Raycast with upgrades, prestige, and fun events. | JonathanRReed | macOS, Windows | [store](https://www.raycast.com/JonathanRReed/ray-clicker) |
@@ -30,7 +30,7 @@
 | [Dice Tiles](https://github.com/raycast/extensions/tree/main/extensions/dice-tiles) | 86 | A minimalist dice-and-tiles elimination game. Roll dice, eliminate tiles matching their sum, and climb through reward tiers while tracking victories and defeat… | julien_minniti | macOS, Windows | [store](https://www.raycast.com/julien_minniti/dice-tiles) |
 | [Luna Search](https://github.com/raycast/extensions/tree/main/extensions/luna-search) | 80 | Quickly find and open Luna Games | relevantsam | macOS, Windows | [store](https://www.raycast.com/relevantsam/luna-search) |
 | [Helldivers 2](https://github.com/raycast/extensions/tree/main/extensions/helldivers2) | 69 | View Galactic War Status from Helldivers II | alexstrnik | macOS, Windows | [store](https://www.raycast.com/alexstrnik/helldivers2) |
-| [Game Scout](https://github.com/raycast/extensions/tree/main/extensions/game-scout) | 33 | The ultimate gaming companion to track prices, deals, and free giveaways. | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/game-scout) |
+| [Game Scout](https://github.com/raycast/extensions/tree/main/extensions/game-scout) | 34 | The ultimate gaming companion to track prices, deals, and free giveaways. | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/game-scout) |
 | [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 9 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
 | [Next Game](https://github.com/raycast/extensions/tree/main/extensions/next-game) | 8 | What to Play Next - Smart Game Picker | glct26 | macOS, Windows | [store](https://www.raycast.com/glct26/next-game) |
 
@@ -38,7 +38,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 14,444 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
+| [Meme Generator](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) | 14,536 | Generate memes with the help of Imgflip or Memegen API | timoransky | macOS, Windows | [store](https://www.raycast.com/timoransky/meme-generator) |
 | [Dad Jokes](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) | 4,906 | Get a random dad joke | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/dad-jokes) |
 | [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) | 2,304 | Quickly and easily make random decisions or generate a random number | yonbergman | macOS, Windows | [store](https://www.raycast.com/yonbergman/dice-and-coin) |
 | [KnowYourMeme](https://github.com/raycast/extensions/tree/main/extensions/knowyourmeme) | 766 | Search KnowYourMeme.com and view meme details from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/knowyourmeme) |
@@ -87,15 +87,15 @@
 | [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 3,051 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
 | [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,555 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 660 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
-| [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 212 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
-| [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 180 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
+| [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 214 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
+| [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 182 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
 | [Sir.golf](https://github.com/raycast/extensions/tree/main/extensions/sir-golf) | 1 | Live golf leaderboards (PGA Tour, LPGA, DP World Tour), the full tour schedule with every major badged and one-tap Add to Calendar, plus season rankings — by s… | julianpaul | macOS, Windows | [store](https://www.raycast.com/julianpaul/sir-golf) |
 
 ### Pop Culture & Fandom
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Gift Stardew Valley](https://github.com/raycast/extensions/tree/main/extensions/gift-stardew-valley) | 87 | A database of gifts for Stardew Valley characters. | naorojas | macOS, Windows | [store](https://www.raycast.com/naorojas/gift-stardew-valley) |
+| [Gift Stardew Valley](https://github.com/raycast/extensions/tree/main/extensions/gift-stardew-valley) | 88 | A database of gifts for Stardew Valley characters. | naorojas | macOS, Windows | [store](https://www.raycast.com/naorojas/gift-stardew-valley) |
 | [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | 36 | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
 | [Lunaris](https://github.com/raycast/extensions/tree/main/extensions/lunaris) | 13 | Check Genshin Impact character, weapon & artifact information via Lunaris | sphygmus | macOS, Windows | [store](https://www.raycast.com/sphygmus/lunaris) |
 
@@ -105,7 +105,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 97,838 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
+| [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 98,329 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
 | [Emoji Mashups](https://github.com/raycast/extensions/tree/main/extensions/emoji-kitchen) | 251 | Discover and copy Google Emoji Kitchen mashups fast. Browse unique emoji combinations and use them as fun, expressive images in messages and posts. Copy/paste… | corey_o_neal | macOS, Windows | [store](https://www.raycast.com/corey_o_neal/emoji-kitchen) |
 | [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) | 4 | Search orc reaction GIFs and copy the GIF file to the clipboard for X. | orcdev | macOS, Windows | [store](https://www.raycast.com/orcdev/orc-pictures) |
 
@@ -134,9 +134,9 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [YouTube](https://github.com/raycast/extensions/tree/main/extensions/youtube) | 105,179 | Search Videos, Channels, and more | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/youtube) |
-| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 45,474 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
+| [Installed Extensions](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) | 45,716 | List your current installed Raycast extensions | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/installed-extensions) |
 | [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) | 23,102 | Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. | ewlcheng | macOS, Windows | [store](https://www.raycast.com/ewlcheng/reddit-search) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 19,699 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 19,790 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
 | [Urban Dictionary Search](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) | 5,336 | Search on Urban Dictionary | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/urban-dictionary) |
 | [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,652 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
 | [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) | 4,509 | Download videos from X/Twitter with ease | kaanrkaraman | macOS, Windows | [store](https://www.raycast.com/kaanrkaraman/twitter-video-downloader) |
@@ -147,7 +147,7 @@
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 2,023 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
 | [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) | 1,577 | Store and retrieve images quickly from Raycast! | ibll | macOS, Windows | [store](https://www.raycast.com/ibll/image-wallet) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 845 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
-| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 813 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
+| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 815 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 287 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |
 | [Pronounce the Word](https://github.com/raycast/extensions/tree/main/extensions/pronounce-the-word) | 285 | Learn to pronounce any word you type | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/pronounce-the-word) |
 | [RedNote Viewer](https://github.com/raycast/extensions/tree/main/extensions/rednote-viewer) | 171 | Easy to view RedNote post in Raycast | orangelckc | macOS, Windows | [store](https://www.raycast.com/orangelckc/rednote-viewer) |

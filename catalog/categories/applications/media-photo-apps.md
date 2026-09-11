@@ -28,7 +28,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,790 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,696 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
-| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 868 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
+| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 869 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
 | [CLIPPyX](https://github.com/raycast/extensions/tree/main/extensions/clippyx) | 321 | CLIPPyX provides an OS-wide image search that supports semantic search in both image content and text on images | 0ssamaak0 | macOS | [store](https://www.raycast.com/0ssamaak0/clippyx) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 158 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 59 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |

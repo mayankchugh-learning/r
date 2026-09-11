@@ -68,7 +68,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,335 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 93 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
-| [Gumroad Sales](https://github.com/raycast/extensions/tree/main/extensions/gumroad) | 86 | View your sales and products from Gumroad | eddiesigner | macOS, Windows | [store](https://www.raycast.com/eddiesigner/gumroad) |
+| [Gumroad Sales](https://github.com/raycast/extensions/tree/main/extensions/gumroad) | 87 | View your sales and products from Gumroad | eddiesigner | macOS, Windows | [store](https://www.raycast.com/eddiesigner/gumroad) |
 | [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | 83 | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |
 | [FreeAgent](https://github.com/raycast/extensions/tree/main/extensions/freeagent) | 56 | Interact with FreeAgent | SteveEdson | macOS, Windows | [store](https://www.raycast.com/SteveEdson/freeagent) |
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 22 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
@@ -81,7 +81,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [India Toolkit](https://github.com/raycast/extensions/tree/main/extensions/india-toolkit) | 10 | Quick India utilities — GST calculator, IFSC code lookup, and pincode lookup. | kur_ankur | macOS, Windows | [store](https://www.raycast.com/kur_ankur/india-toolkit) |
+| [India Toolkit](https://github.com/raycast/extensions/tree/main/extensions/india-toolkit) | 11 | Quick India utilities — GST calculator, IFSC code lookup, and pincode lookup. | kur_ankur | macOS, Windows | [store](https://www.raycast.com/kur_ankur/india-toolkit) |
 | [NIF - Portugal Tax Number Lookup](https://github.com/raycast/extensions/tree/main/extensions/nif) | 10 | Search and verify Tax Identification Number (NIF) for Portuguese companies. | rgllm | macOS, Windows | [store](https://www.raycast.com/rgllm/nif) |
 | [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 6 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
 
@@ -91,7 +91,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 247,935 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,123 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
-| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,219 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
+| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,223 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 27 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |
 | [Metals Prices](https://github.com/raycast/extensions/tree/main/extensions/metals-prices) | 21 | Daily gold, silver, platinum and palladium prices per gram by purity, with 1, 3, 6, and 12-month averages. | noice_anas | macOS, Windows | [store](https://www.raycast.com/noice_anas/metals-prices) |
 | [Sadaqah Box](https://github.com/raycast/extensions/tree/main/extensions/sadaqah-box) | 8 | Manage your charity boxes and sadaqahs | emircanerkul | macOS, Windows | [store](https://www.raycast.com/emircanerkul/sadaqah-box) |

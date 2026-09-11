@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `3265bb4118`
+
+**Added (1):** [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail)
+
 ## 2026-09-11 — upstream `b13627904b`
 
 **Added (1):** [Punch Clock](https://github.com/raycast/extensions/tree/main/extensions/punch-clock)

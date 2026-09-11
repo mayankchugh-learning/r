@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 554,703 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 555,651 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,425 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 695 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 32 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
@@ -22,11 +22,11 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 39,572 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
-| [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 27,004 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
+| [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 27,127 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
 | [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 11,097 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |
-| [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 9,121 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
+| [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 9,157 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
 | [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 8,385 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
-| [Material Icons](https://github.com/raycast/extensions/tree/main/extensions/material-icons) | 5,265 | Search and preview Material Icons | creasty | macOS, Windows | [store](https://www.raycast.com/creasty/material-icons) |
+| [Material Icons](https://github.com/raycast/extensions/tree/main/extensions/material-icons) | 5,296 | Search and preview Material Icons | creasty | macOS, Windows | [store](https://www.raycast.com/creasty/material-icons) |
 | [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) | 4,471 | Browse, Search, and Copy 3400+ popular brand icons from Simple Icons. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/simple-icons) |
 | [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,903 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS, Windows | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
 | [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,502 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
@@ -40,8 +40,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 28,249 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
-| [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter) | 184 | Convert fonts to TTF, WOFF, WOFF2, and EOT formats directly from Raycast | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/font-converter) |
+| [Google Fonts](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) | 28,347 | Search and use fonts from Google Fonts | GastroGeek | macOS, Windows | [store](https://www.raycast.com/GastroGeek/google-fonts) |
+| [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter) | 187 | Convert fonts to TTF, WOFF, WOFF2, and EOT formats directly from Raycast | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/font-converter) |
 
 ## Create & Capture
 
@@ -56,9 +56,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 26,025 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
+| [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 26,198 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
 | [Placeholder](https://github.com/raycast/extensions/tree/main/extensions/placeholder) | 5,679 | Just add your desired image size (width & height), and you'll get a stylish placeholder. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/placeholder) |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,634 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,643 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 
 ### AI Generation
 
@@ -88,7 +88,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 102,648 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 103,288 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 49,420 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
 | [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 39,987 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 19,008 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |

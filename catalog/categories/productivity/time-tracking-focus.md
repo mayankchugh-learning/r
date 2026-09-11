@@ -26,19 +26,19 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,478 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
+| [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,485 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
 | [Raycast Focus Stats](https://github.com/raycast/extensions/tree/main/extensions/raycast-focus-stats) | 934 | View Raycast's Focus session statistics. | dinocosta | macOS | [store](https://www.raycast.com/dinocosta/raycast-focus-stats) |
 | [Focus](https://github.com/raycast/extensions/tree/main/extensions/focus) | 758 | Control Focus App – Website and App Blocker for Mac | ernest | macOS | [store](https://www.raycast.com/ernest/focus) |
 | [Focus Anchor](https://github.com/raycast/extensions/tree/main/extensions/focus-anchor) | 365 | Anchor your focus on the most important thing | ashleyhindle | macOS | [store](https://www.raycast.com/ashleyhindle/focus-anchor) |
 | [Hyper Focus](https://github.com/raycast/extensions/tree/main/extensions/hyper-focus) | 270 | Controls the hyper-focus command line daemon which blocks distracting websites and apps. | iloveitaly | macOS | [store](https://www.raycast.com/iloveitaly/hyper-focus) |
 | [Moodist](https://github.com/raycast/extensions/tree/main/extensions/moodist) | 126 | Ambient sound mixer for focus and relaxation. Layer multiple sounds, save presets, and control from your menu bar. | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/moodist) |
-| [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 8 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
+| [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 9 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
 
 ## Breaks ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 1,060 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
+| [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 1,066 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
 | [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 967 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |
 | [Leave Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/leave-time-calculator) | 40 | Calculate your leave time based on start time and break duration | harunonsystem | macOS | [store](https://www.raycast.com/harunonsystem/leave-time-calculator) |
 | [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) | 18 | Manage Cold Turkey blocks, create them with optional initial websites and exceptions, and control starts, locks, device schedules, and breaks. | nabecite | macOS, Windows | [store](https://www.raycast.com/nabecite/cold-turkey-blocker) |

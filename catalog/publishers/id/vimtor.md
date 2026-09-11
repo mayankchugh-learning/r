@@ -1,6 +1,6 @@
 # vimtor
 
-15 extensions · 315,365 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
+15 extensions · 315,372 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
 
 ## Applications (5)
 
@@ -35,7 +35,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,806 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
+| [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,811 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
 
 ## Developer Tools (1)
 
@@ -47,7 +47,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 320 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
+| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 322 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Metabase](https://github.com/raycast/extensions/tree/main/extensions/metabase) | 196 | Search Metabase questions faster | vimtor | macOS | [store](https://www.raycast.com/vimtor/metabase) |
 | [Valorant Esports](https://github.com/raycast/extensions/tree/main/extensions/valorant-esports) | 48 | Search Valorant esports schedules and standings. | vimtor | macOS | [store](https://www.raycast.com/vimtor/valorant-esports) |
 

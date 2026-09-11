@@ -21,7 +21,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 64,697 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 65,032 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
 | [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 18,092 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 123 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) | 19 | Create, Edit, View, and Delete Tasks in Sunsama | artistro08 | Windows, macOS | [store](https://www.raycast.com/artistro08/sunsama) |
@@ -59,7 +59,7 @@
 | [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 124,768 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,696 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
 | [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,428 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
-| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 868 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
+| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 869 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 158 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 61 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 59 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
@@ -116,7 +116,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 7,052 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 7,073 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,471 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
 | [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 236 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
 
@@ -158,7 +158,7 @@
 | [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) | 1,984 | Quickly open PowerToys tools | LostViking09 | Windows | [store](https://www.raycast.com/LostViking09/powertoys-tool-runner) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,696 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
 | [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,656 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
-| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,219 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
+| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,223 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 695 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [IP Info](https://github.com/raycast/extensions/tree/main/extensions/ipinfo) | 671 | An extension to use ipinfo.io's API to get information about IP addresses | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/ipinfo) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 652 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |

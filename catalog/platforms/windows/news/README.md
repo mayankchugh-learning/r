@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 22,546 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
+| [Hacker News](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) | 22,632 | Read the latest stories of Hacker News. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/hacker-news) |
 | [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt) | 7,520 | View today's featured products on Product Hunt. | ragnor | macOS, Windows | [store](https://www.raycast.com/ragnor/producthunt) |
 | [Órbita](https://github.com/raycast/extensions/tree/main/extensions/orbita) | 17 | Follow the posts in the Órbita, the Brazilian hacker news | tcelestino | macOS, Windows | [store](https://www.raycast.com/tcelestino/orbita) |
 
@@ -22,7 +22,7 @@
 | [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,555 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
 | [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,470 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 347 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
-| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 320 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
+| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 322 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 166 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
 
 ### World & Business
@@ -46,11 +46,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 813 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
+| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 815 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) | 613 | Read and explore Kagi News articles and sources seamlessly in Raycast | mickaphd | macOS, Windows | [store](https://www.raycast.com/mickaphd/kagi-news) |
 | [Reader Mode](https://github.com/raycast/extensions/tree/main/extensions/reader-mode) | 459 | Read the web distraction-free in Raycast. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/reader-mode) |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 304 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
-| [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 135 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
+| [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 137 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 111 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | 46 | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
 

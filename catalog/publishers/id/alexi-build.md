@@ -1,6 +1,6 @@
 # alexi.build
 
-18 extensions · 2,082 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+18 extensions · 2,084 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -13,7 +13,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Leader Key](https://github.com/raycast/extensions/tree/main/extensions/leader-key) | 199 | Search and trigger Leader Key shortcuts by alias, label, or value. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/leader-key) |
+| [Leader Key](https://github.com/raycast/extensions/tree/main/extensions/leader-key) | 201 | Search and trigger Leader Key shortcuts by alias, label, or value. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/leader-key) |
 | [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 118 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 44 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 

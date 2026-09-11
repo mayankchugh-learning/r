@@ -31,12 +31,12 @@
 | [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 43,218 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS, Windows | [store](https://www.raycast.com/kawamataryo/tinypng) |
 | [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 2,198 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |
 | [CodeSnap](https://github.com/raycast/extensions/tree/main/extensions/codesnap) | 1,796 | Creates a beautiful image of your code snippet | Mokkapps | macOS | [store](https://www.raycast.com/Mokkapps/codesnap) |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,634 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,643 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 | [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,341 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
-| [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) | 1,025 | Convert between base64 strings and images easily | vitorlostada | macOS | [store](https://www.raycast.com/vitorlostada/image-base64) |
+| [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) | 1,034 | Convert between base64 strings and images easily | vitorlostada | macOS | [store](https://www.raycast.com/vitorlostada/image-base64) |
 | [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) | 419 | Official Photoroom Raycast extension. Resize images, remove and change the background, add shadows and much more! | ubuntudroid | macOS | [store](https://www.raycast.com/ubuntudroid/photoroom-image-editing) |
 | [Image Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) | 237 | Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF. | yasuhiroyamamoto | macOS | [store](https://www.raycast.com/yasuhiroyamamoto/image-diff-checker) |
-| [LGTMeow](https://github.com/raycast/extensions/tree/main/extensions/lgtmeow) | 188 | Selecting and pasting LGTM images from LGTMeow in Markdown format. | snaka | macOS | [store](https://www.raycast.com/snaka/lgtmeow) |
+| [LGTMeow](https://github.com/raycast/extensions/tree/main/extensions/lgtmeow) | 194 | Selecting and pasting LGTM images from LGTMeow in Markdown format. | snaka | macOS | [store](https://www.raycast.com/snaka/lgtmeow) |
 | [Image Hash Rename](https://github.com/raycast/extensions/tree/main/extensions/image-hash-rename) | 17 | Rename images in a folder by appending a content-based MD5 hash to the filename. | saury | macOS | [store](https://www.raycast.com/saury/image-hash-rename) |
 | [UploadKit Image Uploader](https://github.com/raycast/extensions/tree/main/extensions/uploadkit) | 2 | Upload images to UploadKit and copy their CDN URL | drumst0ck | macOS, Windows | [store](https://www.raycast.com/drumst0ck/uploadkit) |
 
@@ -44,9 +44,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 27,004 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
+| [Iconify — Search Icons](https://github.com/raycast/extensions/tree/main/extensions/iconify) | 27,127 | Search icons via Iconify | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/iconify) |
 | [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) | 11,097 | Browse, copy and modify Raycast icons. | petr | macOS, Windows | [store](https://www.raycast.com/petr/raycast-icons) |
-| [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 9,121 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
+| [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) | 9,157 | Search Font Awesome icons | dutzi | macOS, Windows | [store](https://www.raycast.com/dutzi/font-awesome) |
 | [Lucide Icons Search](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) | 8,385 | Search the Lucide icon set | Sn0wye | macOS, Windows | [store](https://www.raycast.com/Sn0wye/lucide-icons) |
 | [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,502 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
 | [MynaUI Icons](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons) | 1,106 | Search and Copy MynaUI Icons. | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/mynaui-icons) |

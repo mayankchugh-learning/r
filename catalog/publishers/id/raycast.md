@@ -1,6 +1,6 @@
 # raycast
 
-11 extensions · 840,398 downloads · [store](https://www.raycast.com/raycast) · [← publishers](../README.md)
+11 extensions · 841,467 downloads · [store](https://www.raycast.com/raycast) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -9,14 +9,14 @@
 | [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 144,624 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 111,443 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
 | [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 63,331 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
-| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 56,712 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
+| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 56,920 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
 | [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,927 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 
 ## Developer Tools (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 193,329 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
+| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 194,190 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 
 ## Communication (1)
 

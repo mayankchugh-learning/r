@@ -1,6 +1,6 @@
 # Visual-Studio-Coder
 
-17 extensions · 27,606 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
+17 extensions · 27,608 downloads · [store](https://www.raycast.com/Visual-Studio-Coder) · [← publishers](../README.md)
 
 ## Productivity (2)
 
@@ -43,7 +43,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 813 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
+| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 815 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Masked Link Generator](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) | 298 | Input a destination URL and the title of the link and receive a masked link in your clipboard. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/masked-link-generator) |
 
 ## Finance (2)

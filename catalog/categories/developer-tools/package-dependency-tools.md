@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 22,970 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
 | [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,514 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
-| [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) | 1,329 | Quickly search packages on https://pkg.go.dev | bstncartwright | macOS | [store](https://www.raycast.com/bstncartwright/go-package-search) |
+| [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) | 1,335 | Quickly search packages on https://pkg.go.dev | bstncartwright | macOS | [store](https://www.raycast.com/bstncartwright/go-package-search) |
 | [Search Composer Packagist](https://github.com/raycast/extensions/tree/main/extensions/search-composer-packagist) | 1,084 | Search Composer Packagist For PHP Packages | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/search-composer-packagist) |
 | [Libraries.io](https://github.com/raycast/extensions/tree/main/extensions/libraries-io) | 992 | Look up packages and dependency information via Libraries.io | djpowers | macOS | [store](https://www.raycast.com/djpowers/libraries-io) |
 | [Bundlephobia Search](https://github.com/raycast/extensions/tree/main/extensions/bundlephobia-search) | 630 | Find package and check its size on Bundlephobia | dgrzedzielski | macOS | [store](https://www.raycast.com/dgrzedzielski/bundlephobia-search) |
@@ -53,8 +53,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 270,557 | Search, install and manage Homebrew formulae and casks | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
 | [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 18,173 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
-| [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,203 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
-| [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 275 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
+| [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,214 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
+| [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 277 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
 | [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) | 241 | Change the NPM registry address | lihzsky | macOS | [store](https://www.raycast.com/lihzsky/raycast-nrm) |
 | [Gradle Plugins](https://github.com/raycast/extensions/tree/main/extensions/gradle-plugins) | 156 | Search for gradle plugins | alex-w0 | macOS | [store](https://www.raycast.com/alex-w0/gradle-plugins) |
 | [cdnjs](https://github.com/raycast/extensions/tree/main/extensions/cdnjs) | 44 | Search libraries on cdnjs | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cdnjs) |

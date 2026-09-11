@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · **Notes & Knowledge** · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-64 of 1482 extensions · [← macOS · Productivity](./README.md)
+64 of 1483 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -46,7 +46,7 @@
 | [cryptgeon](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) | 248 | Create and share encrypted notes | cupcakearmy | macOS | [store](https://www.raycast.com/cupcakearmy/cryptgeon) |
 | [Typora Note Creator](https://github.com/raycast/extensions/tree/main/extensions/typora-note-creator) | 173 | This extension allows you to create folders and notes for Typora from templates. | mynameisny | macOS | [store](https://www.raycast.com/mynameisny/typora-note-creator) |
 | [Copy Notion Markdown Link](https://github.com/raycast/extensions/tree/main/extensions/copy-notion-markdown-link) | 131 | Copy the current Notion page as a Markdown link. Works with Notion desktop app only. | atsushi_kawamura | macOS | [store](https://www.raycast.com/atsushi_kawamura/copy-notion-markdown-link) |
-| [Heptabase](https://github.com/raycast/extensions/tree/main/extensions/heptabase) | 120 | Connect to Heptabase via MCP to manage your knowledge base | ARui | macOS | [store](https://www.raycast.com/ARui/heptabase) |
+| [Heptabase](https://github.com/raycast/extensions/tree/main/extensions/heptabase) | 121 | Connect to Heptabase via MCP to manage your knowledge base | ARui | macOS | [store](https://www.raycast.com/ARui/heptabase) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 116 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 | [Make with Notion 2024](https://github.com/raycast/extensions/tree/main/extensions/make-with-notion-2024) | 98 | Quickly check the schedule for Make with Notion, in your local timezone. | alexs | macOS | [store](https://www.raycast.com/alexs/make-with-notion-2024) |
 | [Raylog - Markdown Tasks](https://github.com/raycast/extensions/tree/main/extensions/raylog-markdown-tasks) | 86 | Manage focused local tasks from Raycast with a standalone markdown note. | dillon-mccardell | macOS, Windows | [store](https://www.raycast.com/dillon-mccardell/raylog-markdown-tasks) |

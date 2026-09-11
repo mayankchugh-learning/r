@@ -58,7 +58,7 @@
 | [Shell Alias](https://github.com/raycast/extensions/tree/main/extensions/shell-alias) | 519 | Quickly retrieve your shell aliases, paste and manage them directly from Raycast. | clement_cloux | macOS | [store](https://www.raycast.com/clement_cloux/shell-alias) |
 | [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) | 183 | Manage Fisher plugins for Fish Shell directly from Raycast | matheuschein | macOS | [store](https://www.raycast.com/matheuschein/fisher) |
 | [Trimmy](https://github.com/raycast/extensions/tree/main/extensions/trimmy) | 174 | "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/trimmy) |
-| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | — | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | — |
+| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | 0 | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | [store](https://www.raycast.com/kxrbx/shell-apps) |
 
 ## General
 
@@ -67,16 +67,16 @@
 | [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 106,211 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
 | [Visual Studio Code - Project Manager](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) | 49,457 | Search and open projects from Visual Studio Code Project Manager | MarkusLanger | macOS | [store](https://www.raycast.com/MarkusLanger/vscode-project-manager) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 40,731 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
-| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 31,809 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
+| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 31,993 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
 | [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 21,518 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
 | [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 10,847 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
 | [Oh My Zsh Plugins](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) | 7,179 | Oh My Zsh Plugins | k8scat | macOS | [store](https://www.raycast.com/k8scat/ohmyzsh-plugins) |
-| [Get SSH Key](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) | 3,761 | Get your local SSH key in a split of a second. | Theon | macOS, Windows | [store](https://www.raycast.com/Theon/get-ssh-key) |
+| [Get SSH Key](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) | 3,777 | Get your local SSH key in a split of a second. | Theon | macOS, Windows | [store](https://www.raycast.com/Theon/get-ssh-key) |
 | [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner) | 3,450 | Quick Tmux Session Switcher | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/tmux-sessioner) |
 | [Tmux Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet) | 2,189 | Provides easy access to tmux cheatsheet documentation for when you forget a command, or are just learning. | alikhatibak | macOS | [store](https://www.raycast.com/alikhatibak/tmux-cheatsheet) |
 | [SSH Tunnel Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-tunnel-manager) | 1,332 | Manage ssh tunnels | MinatoHikari | macOS | [store](https://www.raycast.com/MinatoHikari/ssh-tunnel-manager) |
 | [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) | 1,212 | Manage zsh aliases | espenbye | macOS | [store](https://www.raycast.com/espenbye/zsh-aliases) |
 | [MultiForce](https://github.com/raycast/extensions/tree/main/extensions/multi-force) | 185 | Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools. | brian_j_decoder22 | macOS | [store](https://www.raycast.com/brian_j_decoder22/multi-force) |
-| [Ideate](https://github.com/raycast/extensions/tree/main/extensions/ideate) | 156 | Create a project folder, initialize it, and open with your IDE. | B9O2 | macOS | [store](https://www.raycast.com/b9o2/ideate) |
+| [Ideate](https://github.com/raycast/extensions/tree/main/extensions/ideate) | 157 | Create a project folder, initialize it, and open with your IDE. | B9O2 | macOS | [store](https://www.raycast.com/b9o2/ideate) |
 | [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 130 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
 | [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) | 16 | Manage Neovim sessions, plugins, and keymaps from Raycast | RG-IL | macOS | [store](https://www.raycast.com/RG-IL/neovim) |

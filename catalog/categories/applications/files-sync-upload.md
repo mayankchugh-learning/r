@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 7,052 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 7,073 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
 | [Compress PDF](https://github.com/raycast/extensions/tree/main/extensions/compress-pdf) | 6,045 | Compress PDF files | felixhaeberle | macOS | [store](https://www.raycast.com/felixhaeberle/compress-pdf) |
 | [Toggle Desktop Visibility](https://github.com/raycast/extensions/tree/main/extensions/toggle-desktop-visibility) | 4,394 | Toggle Desktop file or folder visible and hidden | Haojen | macOS | [store](https://www.raycast.com/Haojen/toggle-desktop-visibility) |
 | [Compresto](https://github.com/raycast/extensions/tree/main/extensions/compressx) | 3,388 | Compress files easily, with up to 90% file size reduction | hieudinh | macOS | [store](https://www.raycast.com/hieudinh/compressx) |

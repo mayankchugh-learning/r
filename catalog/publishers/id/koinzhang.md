@@ -1,6 +1,6 @@
 # koinzhang
 
-50 extensions · 271,133 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
+50 extensions · 271,325 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
 
 ## Developer Tools (18)
 
@@ -8,13 +8,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub Gist](https://github.com/raycast/extensions/tree/main/extensions/github-gist) | 5,649 | Create, search and display GitHub gists. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/github-gist) |
+| [GitHub Gist](https://github.com/raycast/extensions/tree/main/extensions/github-gist) | 5,665 | Create, search and display GitHub gists. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/github-gist) |
 
 ### Cloud, Hosting & Infrastructure
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 25,087 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
+| [IP Geolocation](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) | 25,218 | Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/ip-geolocation) |
 | [Short.io](https://github.com/raycast/extensions/tree/main/extensions/short-io) | 1,233 | Shorten and search links with your own domain via Short.io | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/short-io) |
 
 ### APIs & Networking
@@ -34,8 +34,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,203 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
-| [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 275 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
+| [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,214 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
+| [Google Maven Repository](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) | 277 | Show and search for artifacts in Google's Maven repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/google-maven-repository) |
 
 ### Web & Frontend
 
@@ -94,7 +94,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Screen Saver](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) | 9,985 | Activate screen saver of your Mac. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/screen-saver) |
 | [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) | 9,198 | Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/browser-tabs) |
-| [Hide Files](https://github.com/raycast/extensions/tree/main/extensions/hide-files) | 2,559 | Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/hide-files) |
+| [Hide Files](https://github.com/raycast/extensions/tree/main/extensions/hide-files) | 2,565 | Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/hide-files) |
 | [Common Directory](https://github.com/raycast/extensions/tree/main/extensions/common-directory) | 2,031 | Quickly open or show common directory in Finder. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/common-directory) |
 | [Yoink](https://github.com/raycast/extensions/tree/main/extensions/yoink) | 1,181 | Add selected or clipboard files to Yoink. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/yoink) |
 
@@ -107,7 +107,7 @@
 | [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,404 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
 | [n8n](https://github.com/raycast/extensions/tree/main/extensions/n8n) | 2,581 | Control n8n via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/n8n) |
 | [Bunch](https://github.com/raycast/extensions/tree/main/extensions/bunch) | 1,577 | Control Bunch via Raycast. Bunch is a Mac automation tool. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bunch) |
-| [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,478 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
+| [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,485 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
 | [BetterZip](https://github.com/raycast/extensions/tree/main/extensions/betterzip) | 1,158 | Compress and extract selected items in Finder with BetterZip via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/betterzip) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | 205 | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
 
@@ -119,7 +119,7 @@
 | [Converter](https://github.com/raycast/extensions/tree/main/extensions/converter) | 4,563 | Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/converter) |
 | [Text Decorator](https://github.com/raycast/extensions/tree/main/extensions/text-decorator) | 3,498 | Super cool unicode text magic. Use 𝐛𝐨𝐥𝐝, 𝒊𝒕𝒂𝒍𝒊𝒄𝒔, and 🅜🅞🅡🅔 🄲🅁🄰🅉🅈 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 fonts on Facebook, Twitter, and everywhere else. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/text-decorator) |
 | [Pexels](https://github.com/raycast/extensions/tree/main/extensions/pexels) | 2,876 | Search photos, videos or collections on Pexels. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/pexels) |
-| [IconPark](https://github.com/raycast/extensions/tree/main/extensions/iconpark) | 2,125 | IconPark gives access to more than 2000 high-quality icons without API key and network. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/iconpark) |
+| [IconPark](https://github.com/raycast/extensions/tree/main/extensions/iconpark) | 2,129 | IconPark gives access to more than 2000 high-quality icons without API key and network. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/iconpark) |
 | [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 932 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
 | [SM.MS](https://github.com/raycast/extensions/tree/main/extensions/sm-ms) | 234 | SM.MS image hosting service to upload and share images. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/sm-ms) |
 
@@ -133,9 +133,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Life Progress](https://github.com/raycast/extensions/tree/main/extensions/life-progress) | 2,337 | View life progress and custom Countdown Date. See how much time is left. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/life-progress) |
+| [Life Progress](https://github.com/raycast/extensions/tree/main/extensions/life-progress) | 2,350 | View life progress and custom Countdown Date. See how much time is left. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/life-progress) |
 | [Social Network Trends](https://github.com/raycast/extensions/tree/main/extensions/social-network-trends) | 830 | Show trends on WeiBo, ZhiHu, DouYin，BaiDu, TouTiao, BiliBili. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/social-network-trends) |
-| [Hidden Icons](https://github.com/raycast/extensions/tree/main/extensions/hidden-icons) | 395 | A casual game to find a hidden icon. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/hidden-icons) |
+| [Hidden Icons](https://github.com/raycast/extensions/tree/main/extensions/hidden-icons) | 397 | A casual game to find a hidden icon. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/hidden-icons) |
 
 ## Communication (1)
 

@@ -39,7 +39,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Doppler Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) | 1,871 | Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets | thomas | macOS | [store](https://www.raycast.com/thomas/doppler-share-secrets) |
 | [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) | 639 | Allows secrets to be transmitted using the One-Time Secret website. | larsasolidor | macOS, Windows | [store](https://www.raycast.com/larsasolidor/one-time-secret) |
-| [Keeper Security](https://github.com/raycast/extensions/tree/main/extensions/keeper-security) | 386 | Access your Keeper Security secrets directly from Raycast. | keepersecurity | macOS, Windows | [store](https://www.raycast.com/keepersecurity/keeper-security) |
+| [Keeper Security](https://github.com/raycast/extensions/tree/main/extensions/keeper-security) | 387 | Access your Keeper Security secrets directly from Raycast. | keepersecurity | macOS, Windows | [store](https://www.raycast.com/keepersecurity/keeper-security) |
 | [Safe Secret](https://github.com/raycast/extensions/tree/main/extensions/safe-secret) | 177 | Safely share text over the web | melonamin | macOS | [store](https://www.raycast.com/melonamin/safe-secret) |
 | [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 158 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
 | [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) | 118 | Store and retrieve secrets with biometric authentication (Touch ID, Apple Watch, or Windows Hello) | etheirystech | macOS, Windows | [store](https://www.raycast.com/etheirystech/watchkey) |
@@ -59,5 +59,5 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,760 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
+| [KeePassXC](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) | 4,784 | Access a KeePass database through KeePassXC. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/keepassxc) |
 | [LastPass Credentials Search](https://github.com/raycast/extensions/tree/main/extensions/lastpass) | 2,707 | Search, view, and copy credentials from LastPass | alex-popov-tech | macOS | [store](https://www.raycast.com/alex-popov-tech/lastpass) |

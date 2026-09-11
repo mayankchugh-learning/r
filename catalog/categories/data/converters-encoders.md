@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 93,538 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
-| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 16,803 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
-| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,210 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
+| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 94,022 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
+| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 16,905 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
+| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,229 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [json-to-go](https://github.com/raycast/extensions/tree/main/extensions/json-to-go) | 890 | Translate JSON from clipboard into a Go type definition | chyroc | macOS | [store](https://www.raycast.com/chyroc/json-to-go) |
 | [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) | 605 | Run queries on Json data using jq | vladimir-kotikov | macOS | [store](https://www.raycast.com/vladimir-kotikov/raycast-jq) |
 | [Verify Number](https://github.com/raycast/extensions/tree/main/extensions/verify-number) | 591 | Global Phone Number Validation & Lookup JSON API from APILayer | xmok | macOS | [store](https://www.raycast.com/xmok/verify-number) |

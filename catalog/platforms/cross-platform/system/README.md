@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 713,462 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 714,460 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | 698 | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 408 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 44 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
@@ -48,7 +48,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Single Disk Eject](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) | 9,117 | List and choose a single disk to eject. | johndturn | Windows, macOS | [store](https://www.raycast.com/johndturn/single-disk-eject) |
-| [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,560 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
+| [Ip Finder - Network Scanner](https://github.com/raycast/extensions/tree/main/extensions/ip-finder) | 1,566 | Scan your local network to find assigned IPs and get recommendations for available addresses | swayam_mehta | macOS, Windows | [store](https://www.raycast.com/swayam_mehta/ip-finder) |
 
 ### Clipboard & Input
 
@@ -69,7 +69,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 47,213 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 13,937 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 14,003 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
 
 ### General
 
@@ -84,7 +84,7 @@
 | [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project) | 1,946 | Find and open projects on your system | zerowidth | macOS, Windows | [store](https://www.raycast.com/zerowidth/quick-open-project) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 845 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | 844 | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
-| [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 436 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
+| [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 441 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 247 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 | [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | 186 | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |
 | [OpenHue](https://github.com/raycast/extensions/tree/main/extensions/openhue) | 125 | Control your Philips Hue lightning system from Raycast | thibauult | macOS, Windows | [store](https://www.raycast.com/thibauult/openhue) |

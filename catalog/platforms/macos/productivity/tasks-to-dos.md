@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · **Tasks & To-Dos** · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-51 of 1482 extensions · [← macOS · Productivity](./README.md)
+51 of 1483 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 | [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) | 23,168 | Check and search tasks in TickTick via Raycast | appest | macOS | [store](https://www.raycast.com/appest/ticktick) |
 | [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) | 20,708 | Create Fantastical events and reminders using Fantastical's natural language processing. | devahschaefers | macOS | [store](https://www.raycast.com/devahschaefers/fantastical) |
 | [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 18,092 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
-| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,600 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 10,636 | Manage Google Tasks from Raycast. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
 | [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 9,927 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup) | 8,853 | Browse ClickUp tasks and docs from Raycast | aparandeh | macOS | [store](https://www.raycast.com/aparandeh/manage-clickup-tasks) |
 | [Simple Reminder](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) | 5,953 | Set your reminders in natural language without the need to have any application installed. | comoser | macOS | [store](https://www.raycast.com/comoser/simple-reminder) |
@@ -20,7 +20,7 @@
 | [OmniFocus](https://github.com/raycast/extensions/tree/main/extensions/omnifocus) | 1,973 | Perform basic actions on your OmniFocus database. | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/omnifocus) |
 | [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) | 1,306 | Create and work on checklists. | zeekrey | macOS | [store](https://www.raycast.com/zeekrey/checklist) |
 | [Height](https://github.com/raycast/extensions/tree/main/extensions/height) | 874 | Search, create and manage tasks and lists in Height directly from Raycast. | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/height) |
-| [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 764 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
+| [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 765 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
 | [Time Logs](https://github.com/raycast/extensions/tree/main/extensions/time-logs) | 493 | Track, manage, and export time logs on tasks and projects. | madebydamien | macOS | [store](https://www.raycast.com/madebydamien/time-logs) |
 | [Taskplane](https://github.com/raycast/extensions/tree/main/extensions/taskplane) | 449 | Manage your tasks for Taskplane right in Raycast | albingroen | macOS | [store](https://www.raycast.com/albingroen/taskplane) |
 | [Intention Clarifier](https://github.com/raycast/extensions/tree/main/extensions/intention-clarifier) | 384 | This Raycast extension helps you articulate your intentions, mood, and reasons behind your tasks. It guides you through a simple form to clarify what you want… | skyline-123 | macOS | [store](https://www.raycast.com/skyline-123/intention-clarifier) |

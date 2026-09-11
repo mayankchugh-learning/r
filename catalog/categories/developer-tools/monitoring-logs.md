@@ -47,8 +47,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,231 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
 | [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,530 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
-| [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,382 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
+| [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,390 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 425 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
 | [ChangeDetection.io](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) | 234 | Website Change Detection For Clever People | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/changedetection-io) |
-| [Incident.io](https://github.com/raycast/extensions/tree/main/extensions/incident-io) | 106 | Gets the incidents from Incident.io | nkl | macOS | [store](https://www.raycast.com/nkl/incident-io) |
+| [Incident.io](https://github.com/raycast/extensions/tree/main/extensions/incident-io) | 107 | Gets the incidents from Incident.io | nkl | macOS | [store](https://www.raycast.com/nkl/incident-io) |
 | [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) | 4 | Manages and shows uptime status for services using Phare.io | ApopeOS | macOS | [store](https://www.raycast.com/ApopeOS/phare-io-uptime) |

@@ -11,13 +11,13 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 70,782 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
-| [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 9,170 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
-| [Keyboard Brightness](https://github.com/raycast/extensions/tree/main/extensions/keyboard-brightness) | 8,495 | Easily Control Keyboard Brightness on your Apple Silicon MacBook | huzef44 | macOS | [store](https://www.raycast.com/huzef44/keyboard-brightness) |
+| [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 9,215 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
+| [Keyboard Brightness](https://github.com/raycast/extensions/tree/main/extensions/keyboard-brightness) | 8,555 | Easily Control Keyboard Brightness on your Apple Silicon MacBook | huzef44 | macOS | [store](https://www.raycast.com/huzef44/keyboard-brightness) |
 | [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 5,941 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
 | [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 4,860 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
 | [Media Key Emulate](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) | 1,175 | Emulate keyboard media keys press. Reassign hotkey for media keys. | douo | macOS | [store](https://www.raycast.com/douo/global-media-key) |
-| [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | 1 | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/media-switcher) |
 | [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) | 0 | Raise, track, and action iPF OS tickets without leaving your keyboard. | joseph_emmanuel | Windows, macOS | [store](https://www.raycast.com/joseph_emmanuel/ipf-os) |
+| [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | 0 | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/media-switcher) |
 
 ## Devices ✦
 
@@ -34,7 +34,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Mouse Jiggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-jiggle) | 282 | Continuously jiggle the mouse cursor with dramatic zigzag movements to prevent sleep | stevefrost | macOS | [store](https://www.raycast.com/stevefrost/mouse-jiggle) |
-| [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 247 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
+| [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 248 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
 | [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) | 139 | Move the macOS mouse cursor between displays with relative-position and center modes. | johnwick | macOS | [store](https://www.raycast.com/johnwick/move-cursor-next-display) |
 | [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | 16 | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | [store](https://www.raycast.com/Dhaiwat10/mouse-cursor-toggle) |
 | [Toggle Trackpad](https://github.com/raycast/extensions/tree/main/extensions/toggle-trackpad) | 4 | Quickly toggle the built-in trackpad behavior when an external mouse or wireless trackpad is connected. | ksc73450056 | macOS | [store](https://www.raycast.com/ksc73450056/toggle-trackpad) |

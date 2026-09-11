@@ -18,7 +18,7 @@
 | [oktay](https://www.raycast.com/oktay) | 1 | 1,562 | **Developer Tools:** [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) |
 | [okwasniewski](https://www.raycast.com/okwasniewski) | 1 | 1,258 | **Developer Tools:** [MiniSim](https://github.com/raycast/extensions/tree/main/extensions/minisim) |
 | [olafhartong](https://www.raycast.com/olafhartong) | 1 | 24 | **Developer Tools:** [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) |
-| [olavgjerde](https://www.raycast.com/olavgjerde) | 1 | 284 | **System:** [LookSee - A MAC, OUI, IAB Lookup](https://github.com/raycast/extensions/tree/main/extensions/looksee) |
+| [olavgjerde](https://www.raycast.com/olavgjerde) | 1 | 286 | **System:** [LookSee - A MAC, OUI, IAB Lookup](https://github.com/raycast/extensions/tree/main/extensions/looksee) |
 | [oleksandr_oliynyk](https://www.raycast.com/oleksandr_oliynyk) | 1 | 105 | **Web:** [Lingorep - Translate, Repeat, Memorize](https://github.com/raycast/extensions/tree/main/extensions/lingo-rep-raycast) |
 | [oliverde8](https://www.raycast.com/oliverde8) | 1 | 433 | **Productivity:** [Excel Formula Beautifier](https://github.com/raycast/extensions/tree/main/extensions/excel-formula-beautifier) |
 | [oliverjanssen](https://www.raycast.com/oliverjanssen) | 1 | 944 | **Productivity:** [Morning Coffee](https://github.com/raycast/extensions/tree/main/extensions/morning-coffee) |

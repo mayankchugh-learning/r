@@ -19,7 +19,7 @@
 | [Window Sizer](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) | 1,942 | Resize the focused window to pixel-perfect presets. | the3ash | macOS | [store](https://www.raycast.com/the3ash/window-sizer) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,848 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,513 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
-| [Floaty](https://github.com/raycast/extensions/tree/main/extensions/floaty) | 1,206 | Control Floaty from Raycast to list, pin, and manage windows. | fayecat | macOS | [store](https://www.raycast.com/fayecat/floaty) |
+| [Floaty](https://github.com/raycast/extensions/tree/main/extensions/floaty) | 1,212 | Control Floaty from Raycast to list, pin, and manage windows. | fayecat | macOS | [store](https://www.raycast.com/fayecat/floaty) |
 | [Pin](https://github.com/raycast/extensions/tree/main/extensions/pin-raycast) | 1,036 | Extension for Pin.app. Pin any window to stay always on top using a mirror overlay. | tanb | macOS | [store](https://www.raycast.com/tanb/pin) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 806 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
 | [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info) | 684 | Quickly view or strip metadata (EXIF, GPS, IPTC, etc.) from selected files for privacy and cleaner sharing. Works on macOS and Windows. | Envl | macOS, Windows | [store](https://www.raycast.com/Envl/file-info) |
@@ -35,7 +35,7 @@
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 7 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 | [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | 5 | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | [store](https://www.raycast.com/Holiney/sowiks) |
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 0 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
-| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | — | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | — |
+| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | 0 | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | [store](https://www.raycast.com/kxrbx/shell-apps) |
 
 ## Desktop ✦
 
@@ -43,8 +43,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [Capture Fullpage of Website](https://github.com/raycast/extensions/tree/main/extensions/capture-fullpage-of-website) | 4,570 | This extension allows you to quickly make a screenshot of the entire page of the site and save it to your desktop just by writing the address of the site. | Coun1er | macOS | [store](https://www.raycast.com/Coun1er/capture-fullpage-of-website) |
 | [Parallels Virtual Machines](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines) | 3,701 | Launch and control virtual machines in Parallels Desktop. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/parallels-virtual-machines) |
-| [Hide Files](https://github.com/raycast/extensions/tree/main/extensions/hide-files) | 2,559 | Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/hide-files) |
-| [Google Advanced Search](https://github.com/raycast/extensions/tree/main/extensions/google-advanced-search) | 1,876 | Enhance your desktop with this Raycast extension that simplifies Google's advanced search, bringing features like exact matches and domain filtration directly… | developerlover | macOS | [store](https://www.raycast.com/developerlover/google-advanced-search) |
+| [Hide Files](https://github.com/raycast/extensions/tree/main/extensions/hide-files) | 2,565 | Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/hide-files) |
+| [Google Advanced Search](https://github.com/raycast/extensions/tree/main/extensions/google-advanced-search) | 1,882 | Enhance your desktop with this Raycast extension that simplifies Google's advanced search, bringing features like exact matches and domain filtration directly… | developerlover | macOS | [store](https://www.raycast.com/developerlover/google-advanced-search) |
 | [Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/desktop-manager) | 213 | Search and organize your desktop files | tykid | macOS | [store](https://www.raycast.com/tykid/desktop-manager) |
 | [Remote Desktop](https://github.com/raycast/extensions/tree/main/extensions/remote-desktop) | 186 | Manage Remote Desktop connections | tonka3000 | Windows | [store](https://www.raycast.com/tonka3000/remote-desktop) |
 | [BookStack](https://github.com/raycast/extensions/tree/main/extensions/bookstack) | 183 | Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop. | huskii | macOS | [store](https://www.raycast.com/huskii/bookstack) |
@@ -69,7 +69,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 56,712 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
+| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 56,920 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
 | [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 4,860 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
 | [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 2,136 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
 | [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch) | 955 | Frictionless Workspace Browsing | aesign | macOS | [store](https://www.raycast.com/aesign/sketch) |
@@ -81,4 +81,4 @@
 | [Razuna - Add and Browse Files in Razuna](https://github.com/raycast/extensions/tree/main/extensions/razuna) | 19 | Upload, search, and browse files in your Razuna workspace directly from Raycast. | TheNitai | macOS | [store](https://www.raycast.com/TheNitai/razuna) |
 | [Mise Workspace](https://github.com/raycast/extensions/tree/main/extensions/mise-workspace) | 5 | Manage your Mise workspace from Raycast | disinfeqt | macOS | [store](https://www.raycast.com/disinfeqt/mise-workspace) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
-| [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) | 1 | Find apps and search the web after typing a query with the wrong keyboard layout. | rogovk | macOS | [store](https://www.raycast.com/rogovk/keyboard-layout-search) |
+| [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) | 0 | Find apps and search the web after typing a query with the wrong keyboard layout. | rogovk | macOS | [store](https://www.raycast.com/rogovk/keyboard-layout-search) |

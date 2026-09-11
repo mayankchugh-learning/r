@@ -1,15 +1,15 @@
 # Email
 
-24 extensions · [← Communication](./README.md)
+25 extensions · [← Communication](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Gmail](https://github.com/raycast/extensions/tree/main/extensions/gmail) | 37,893 | Raycast Extension to manage Gmail | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/gmail) |
-| [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 5,977 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
+| [Mailsy](https://github.com/raycast/extensions/tree/main/extensions/mailsy) | 6,016 | Quickly Generate Disposable Email Address and view received mails. | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/mailsy) |
 | [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) | 2,792 | Temporary email mailbox using the mail.gw API | Joshlucpoll | macOS, Windows | [store](https://www.raycast.com/Joshlucpoll/tempmail) |
 | [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman) | 2,315 | Boost your email workflow with powerful contextual Superhuman integration. Draft emails with context and search your inbox using Superhuman's advanced operator… | jlokos | macOS | [store](https://www.raycast.com/jlokos/superhuman) |
 | [Resend](https://github.com/raycast/extensions/tree/main/extensions/resend) | 1,223 | Manage email, contacts, domains, and developer resources with Resend | resend (org) | macOS, Windows | [store](https://www.raycast.com/resend/resend) |
-| [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) | 919 | Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API | krsntn | macOS | [store](https://www.raycast.com/krsntn/guerrilla-mail) |
+| [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) | 921 | Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API | krsntn | macOS | [store](https://www.raycast.com/krsntn/guerrilla-mail) |
 | [Proton Mail](https://github.com/raycast/extensions/tree/main/extensions/proton-mail) | 844 | View and manage your Proton Mail inbox via Proton Mail Bridge | NormC | macOS, Windows | [store](https://www.raycast.com/NormC/proton-mail) |
 | [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 841 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 304 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
@@ -17,7 +17,7 @@
 | [Cloudflare Email Routing](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-email-routing) | 204 | Create, list, edit, and delete Cloudflare email aliases directly from Raycast. | erayack | macOS | [store](https://www.raycast.com/erayack/cloudflare-email-routing) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 182 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
 | [mailboxlayer](https://github.com/raycast/extensions/tree/main/extensions/mailboxlayer) | 118 | Check and Verify email addresses using mailboxlayer | xmok | macOS | [store](https://www.raycast.com/xmok/mailboxlayer) |
-| [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) | 111 | Send a quick subject + body to your inbox over SMTP without leaving Raycast. | MrMage | macOS | [store](https://www.raycast.com/MrMage/mail-to-self) |
+| [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) | 112 | Send a quick subject + body to your inbox over SMTP without leaving Raycast. | MrMage | macOS | [store](https://www.raycast.com/MrMage/mail-to-self) |
 | [Shroud.email](https://github.com/raycast/extensions/tree/main/extensions/shroud-email) | 67 | View Domains and Create or View Aliases in Shroud.email instance | xmok | macOS | [store](https://www.raycast.com/xmok/shroud-email) |
 | [Bento Email](https://github.com/raycast/extensions/tree/main/extensions/bento) | 25 | Interact with Bento (bentonow.com) to add subscribers, view broadcasts, reports, and other utility features. | zeromana | macOS | [store](https://www.raycast.com/zeromana/bento) |
 | [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) | 25 | Find the verified email address of any professional. | morrissimons | macOS, Windows | [store](https://www.raycast.com/morrissimons/mail-finder) |
@@ -28,3 +28,4 @@
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 9 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
 | [QQ Mail](https://github.com/raycast/extensions/tree/main/extensions/qq-mail) | 9 | View and manage your QQ Mail inbox | ariesly15 | macOS, Windows | [store](https://www.raycast.com/ariesly15/qq-mail) |
 | [NetEase Mail](https://github.com/raycast/extensions/tree/main/extensions/netease-mail) | 0 | Read, search, verify codes, and send NetEase Mail from Raycast. | ctacta621 | Windows | [store](https://www.raycast.com/ctacta621/netease-mail) |
+| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | — | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS | — |

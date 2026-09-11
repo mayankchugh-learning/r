@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,921 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
+| [Kubernetes Documenation](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) | 1,926 | Search kubernetes official documentation | rpvsilva | macOS | [store](https://www.raycast.com/rpvsilva/kubernetes-docs) |
 | [Supabase Documentation](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) | 1,268 | Quickly search Supabase documentation and open it in the browser | supabase (org) | macOS, Windows | [store](https://www.raycast.com/supabase/supabase-docs) |
 | [Kubernetes](https://github.com/raycast/extensions/tree/main/extensions/kubernetes) | 1,040 | Kubernetes Client in Raycast | justin0u0 | macOS | [store](https://www.raycast.com/justin0u0/kubernetes) |
 | [kubens](https://github.com/raycast/extensions/tree/main/extensions/kubens) | 806 | Switch between Kubernetes namespaces | ChrisKohler | macOS | [store](https://www.raycast.com/ChrisKohler/kubens) |
@@ -21,7 +21,7 @@
 | [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) | 67 | Browse, upload, download, and manage files on your VPS via Raycast! | Abdullah-Dev115 | macOS | [store](https://www.raycast.com/Abdullah-Dev115/vps-explorer) |
 | [Apple Container](https://github.com/raycast/extensions/tree/main/extensions/apple-container) | 62 | Manage containers, images, and volumes created by Apple's open-source container CLI. | davireisvieira | macOS | [store](https://www.raycast.com/davireisvieira/apple-container) |
 | [Appwrite](https://github.com/raycast/extensions/tree/main/extensions/appwrite) | 62 | Add Projects and View Services | xmok | macOS | [store](https://www.raycast.com/xmok/appwrite) |
-| [Firebase - Remote Config](https://github.com/raycast/extensions/tree/main/extensions/firebase-remote-config-admin) | 49 | Inspect, compare, edit, publish, delete, and roll back Firebase Remote Config across multiple projects | danilorequena | macOS, Windows | [store](https://www.raycast.com/danilorequena/firebase-remote-config-admin) |
+| [Firebase - Remote Config](https://github.com/raycast/extensions/tree/main/extensions/firebase-remote-config-admin) | 51 | Inspect, compare, edit, publish, delete, and roll back Firebase Remote Config across multiple projects | danilorequena | macOS, Windows | [store](https://www.raycast.com/danilorequena/firebase-remote-config-admin) |
 | [Aiven](https://github.com/raycast/extensions/tree/main/extensions/aiven) | 24 | Manage Aiven Projects and Services | xmok | macOS | [store](https://www.raycast.com/xmok/aiven) |
 | [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) | 24 | Monitor Supabase pg_cron jobs and run history. | adrianmarten | macOS | [store](https://www.raycast.com/adrianmarten/supabase-cron-monitor) |
 | [Cloudflare Images](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-images) | 20 | Upload images to Cloudflare Images from your clipboard, Finder, or anywhere on your Mac. Includes a browser for your uploaded images. Unofficial. | miguel_caetano_dias | macOS | [store](https://www.raycast.com/miguel_caetano_dias/cloudflare-images) |

@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · **Time Tracking & Focus** · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-26 of 1482 extensions · [← macOS · Productivity](./README.md)
+26 of 1483 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -14,9 +14,9 @@
 | [Work Time Countdown](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) | 2,887 | A simple timer to help you keep productive during work time. | thomas | macOS | [store](https://www.raycast.com/thomas/work-time-countdown) |
 | [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) | 2,589 | Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. | dtmzr | macOS | [store](https://www.raycast.com/dtmzr/sleep-timer) |
 | [Harvest](https://github.com/raycast/extensions/tree/main/extensions/harvest) | 2,205 | Access Harvest Time Entries | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/harvest) |
-| [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,478 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
+| [Just Focus](https://github.com/raycast/extensions/tree/main/extensions/just-focus) | 1,485 | Control Just Focus via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/just-focus) |
 | [Music Timer](https://github.com/raycast/extensions/tree/main/extensions/music-timer) | 1,453 | Music Timer is the ultimate productivity app that fuses the Pomodoro Technique with your favorite tracks from Spotify and Apple Music! | JulienLacr0ix | macOS | [store](https://www.raycast.com/JulienLacr0ix/music-timer) |
-| [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 1,060 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
+| [Lookaway](https://github.com/raycast/extensions/tree/main/extensions/lookaway) | 1,066 | Control the Lookaway app for managing breaks. | kush | macOS | [store](https://www.raycast.com/kush/lookaway) |
 | [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) | 967 | Fastest way to skip to breaks. | u-ran | macOS | [store](https://www.raycast.com/u-ran/stretchly) |
 | [Raycast Focus Stats](https://github.com/raycast/extensions/tree/main/extensions/raycast-focus-stats) | 934 | View Raycast's Focus session statistics. | dinocosta | macOS | [store](https://www.raycast.com/dinocosta/raycast-focus-stats) |
 | [Tomito Controls](https://github.com/raycast/extensions/tree/main/extensions/tomito-controls) | 877 | Control the Tomito app, a Pomodoro timer for macOS | elyse | macOS | [store](https://www.raycast.com/elyse/tomito-controls) |
@@ -30,5 +30,5 @@
 | [Leave Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/leave-time-calculator) | 40 | Calculate your leave time based on start time and break duration | harunonsystem | macOS | [store](https://www.raycast.com/harunonsystem/leave-time-calculator) |
 | [42 Api Tools](https://github.com/raycast/extensions/tree/main/extensions/42-api) | 39 | Track your logtime and find peers in 42 school clusters directly from Raycast | maujogue | macOS, Windows | [store](https://www.raycast.com/maujogue/42-api) |
 | [Cold Turkey Blocker](https://github.com/raycast/extensions/tree/main/extensions/cold-turkey-blocker) | 18 | Manage Cold Turkey blocks, create them with optional initial websites and exceptions, and control starts, locks, device schedules, and breaks. | nabecite | macOS, Windows | [store](https://www.raycast.com/nabecite/cold-turkey-blocker) |
-| [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 8 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
+| [Fox Hop](https://github.com/raycast/extensions/tree/main/extensions/foxhop) | 9 | Focus a specific Firefox tab from anywhere — manage your tab targets and generate per-tab hotkey scripts. | kud | macOS | [store](https://www.raycast.com/kud/foxhop) |
 | [Punch Clock](https://github.com/raycast/extensions/tree/main/extensions/punch-clock) | 0 | Track your working hours: set a total work time and break length, then watch a live countdown in the macOS menu bar. | FL0R1AN | macOS | [store](https://www.raycast.com/FL0R1AN/punch-clock) |

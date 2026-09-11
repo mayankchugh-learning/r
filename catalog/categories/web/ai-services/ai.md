@@ -27,7 +27,7 @@
 | [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | 11,049 | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |
 | [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,154 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [OpenRouter Model Search](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) | 1,700 | Search OpenRouter's AI model catalog. | mutewinter | macOS, Windows | [store](https://www.raycast.com/mutewinter/openrouter-model-search) |
-| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 920 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
+| [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 923 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Alice AI - Your Daily AI Actions Companion](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) | 441 | Alice helps with your daily tasks by providing quick access to reusable AI actions across OpenAI and Gemini models. | quiknull | macOS | [store](https://www.raycast.com/quiknull/alice-ai) |
 
 ## General

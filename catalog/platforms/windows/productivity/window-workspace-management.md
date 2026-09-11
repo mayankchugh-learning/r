@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 106,211 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
-| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 56,712 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
+| [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 56,920 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
 | [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) | 6,977 | Search files using Everything on Windows. | anastasiy_safari | Windows | [store](https://www.raycast.com/anastasiy_safari/everything-search) |
 | [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 2,136 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,848 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
@@ -20,4 +20,4 @@
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 7 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 | [Mach Triage](https://github.com/raycast/extensions/tree/main/extensions/mach-triage) | 3 | Triage Jira, Linear, and GitHub tickets without leaving Raycast. Search, check your Today board, change status, add comments, and log work — all routed through… | MikeWhob | macOS, Windows | [store](https://www.raycast.com/mikewhob/mach-triage) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
-| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | — | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | — |
+| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | 0 | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | [store](https://www.raycast.com/kxrbx/shell-apps) |

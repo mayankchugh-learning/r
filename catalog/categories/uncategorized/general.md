@@ -11,7 +11,7 @@
 | [Ulysses](https://github.com/raycast/extensions/tree/main/extensions/ulysses) | 1,867 | Use Ulysses with Raycast | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/ulysses) |
 | [Easings](https://github.com/raycast/extensions/tree/main/extensions/easings) | 1,858 | Quickly find and grab your favorite easings. | madebyankur | macOS | [store](https://www.raycast.com/madebyankur/easings) |
 | [Paste to Markdown](https://github.com/raycast/extensions/tree/main/extensions/paste-to-markdown) | 1,837 | A Raycast Extension that instantly pastes rich text or HTML content into Markdown. | weicodes | macOS | [store](https://www.raycast.com/weicodes/paste-to-markdown) |
-| [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,348 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
+| [Launch Agents](https://github.com/raycast/extensions/tree/main/extensions/launch-agents) | 1,354 | Manage Launch Agents | stevensd2m | macOS | [store](https://www.raycast.com/stevensd2m/launch-agents) |
 | [Feedly](https://github.com/raycast/extensions/tree/main/extensions/feedly) | 1,273 | Browse Feedly through Raycast | shubham | macOS | [store](https://www.raycast.com/shubham/feedly) |
 | [Simple Youdao Translate](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) | 1,195 | This is a Youdao translation extension with simple interaction | xeric | macOS | [store](https://www.raycast.com/xeric/simple-youdao) |
 | [Color Hunt](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) | 1,044 | Color Palettes for Designers and Artists | Lemon | macOS | [store](https://www.raycast.com/Lemon/color-hunt) |

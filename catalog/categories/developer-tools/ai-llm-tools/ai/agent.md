@@ -30,6 +30,6 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,073 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
+| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,082 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
 | [AI Agency](https://github.com/raycast/extensions/tree/main/extensions/ai-agency) | 179 | Browse AI Agency agents by division, view specialties and copy prompts. | marcin-91 | macOS | [store](https://www.raycast.com/marcin-91/ai-agency) |
 | [Agent Browser](https://github.com/raycast/extensions/tree/main/extensions/agent-browser) | 63 | Control the agent-browser CLI from Raycast and Raycast AI | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/agent-browser) |

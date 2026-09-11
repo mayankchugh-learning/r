@@ -1,6 +1,6 @@
 # Aayush9029
 
-16 extensions · 159,110 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
+16 extensions · 159,113 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
 
 ## Applications (1)
 
@@ -43,7 +43,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [itch.io](https://github.com/raycast/extensions/tree/main/extensions/itch-io) | 417 | Raycast Extension for itch.io, browse through milions of games made by indie developers! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/itch-io) |
+| [itch.io](https://github.com/raycast/extensions/tree/main/extensions/itch-io) | 420 | Raycast Extension for itch.io, browse through milions of games made by indie developers! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/itch-io) |
 | [BTTV Emote](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) | 395 | Browse Through Thousands of BTTV Emote | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/bttv-emote) |
 
 ## Developer Tools (1)

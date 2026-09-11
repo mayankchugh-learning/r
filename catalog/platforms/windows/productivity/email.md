@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 4,246 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS, Windows | [store](https://www.raycast.com/svenhofman/hidemyemail) |
+| [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 4,265 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS, Windows | [store](https://www.raycast.com/svenhofman/hidemyemail) |
 | [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 1,023 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
 | [Workflowy Inbox](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) | 697 | Quickly add items to your Workflowy inbox. (This is an independent extension and is not created by Workflowy.) | cameron_pak | macOS, Windows | [store](https://www.raycast.com/cameron_pak/workflowy-inbox) |
 | [Addy](https://github.com/raycast/extensions/tree/main/extensions/anonaddy) | 612 | Easily generate and manage your Addy email aliases directly from your keyboard. | http.james | macOS, Windows | [store](https://www.raycast.com/http.james/anonaddy) |

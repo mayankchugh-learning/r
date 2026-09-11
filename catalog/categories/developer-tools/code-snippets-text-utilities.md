@@ -43,16 +43,16 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 93,538 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
+| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 94,022 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
 | [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 24,602 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
 | [Date Format Converter](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter) | 8,755 | Convert timestamps and datetime strings into various formats. | yangxy | macOS | [store](https://www.raycast.com/yangxy/date-format-converter) |
 | [Date Converter](https://github.com/raycast/extensions/tree/main/extensions/date-converter) | 5,915 | Convert a variety of date formats | asportnoy | macOS | [store](https://www.raycast.com/asportnoy/date-converter) |
-| [Markdown Converter](https://github.com/raycast/extensions/tree/main/extensions/markdown-converter) | 866 | Convert rich text from clipboard into Markdown format | ewilderj | macOS | [store](https://www.raycast.com/ewilderj/markdown-converter) |
+| [Markdown Converter](https://github.com/raycast/extensions/tree/main/extensions/markdown-converter) | 874 | Convert rich text from clipboard into Markdown format | ewilderj | macOS | [store](https://www.raycast.com/ewilderj/markdown-converter) |
 | [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) | 590 | Format list of items into an array. | matheus_de_paula_domingos | macOS | [store](https://www.raycast.com/matheus_de_paula_domingos/array-this) |
 | [String Formatter](https://github.com/raycast/extensions/tree/main/extensions/string-formatter) | 217 | Format strings with custom separators and decorators | fireice009 | macOS, Windows | [store](https://www.raycast.com/fireice009/string-formatter) |
-| [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter) | 184 | Convert fonts to TTF, WOFF, WOFF2, and EOT formats directly from Raycast | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/font-converter) |
+| [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter) | 187 | Convert fonts to TTF, WOFF, WOFF2, and EOT formats directly from Raycast | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/font-converter) |
 | [GROQ Tools](https://github.com/raycast/extensions/tree/main/extensions/groq-tools) | 180 | Format GROQ queries and parse Sanity query URLs. | juice49 | macOS | [store](https://www.raycast.com/juice49/groq-tools) |
-| [JSON to TOON Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-toon-converter) | 146 | Convert JSON data into TOON format instantly. | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/json-to-toon-converter) |
+| [JSON to TOON Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-toon-converter) | 147 | Convert JSON data into TOON format instantly. | meshal | macOS, Windows | [store](https://www.raycast.com/meshal/json-to-toon-converter) |
 | [Cocoa Core Data Timestamp Converter](https://github.com/raycast/extensions/tree/main/extensions/cocoa-core-data-timestamp-converter) | 32 | Cocoa Core Data Date Utils. Convert Cocoa Core Data Dates into Human Readable Format or Epoch. | 3llomi | macOS | [store](https://www.raycast.com/3llomi/cocoa-core-data-timestamp-converter) |
 | [Decimal 2 Time](https://github.com/raycast/extensions/tree/main/extensions/decimal-2-time) | 26 | Converts between decimal time and HH:MM:SS format | rhuk | macOS | [store](https://www.raycast.com/rhuk/decimal-2-time) |
 
@@ -60,11 +60,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) | 11,918 | Markdown documentation at your fingertips | codedbyjordan | macOS, Windows | [store](https://www.raycast.com/codedbyjordan/markdown-reference) |
+| [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) | 11,955 | Markdown documentation at your fingertips | codedbyjordan | macOS, Windows | [store](https://www.raycast.com/codedbyjordan/markdown-reference) |
 | [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) | 7,311 | Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! | biknandy | Windows, macOS | [store](https://www.raycast.com/biknandy/quick-notes) |
 | [Webpage to Markdown](https://github.com/raycast/extensions/tree/main/extensions/webpage-to-markdown) | 5,587 | Convert any webpage to markdown just by providing the url. | treyg | macOS, Windows | [store](https://www.raycast.com/treyg/webpage-to-markdown) |
 | [Choose a License](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license) | 725 | Read, copy, and paste Markdown licenses from choosealicense.com | sandypockets | macOS | [store](https://www.raycast.com/sandypockets/choose-a-license) |
-| [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) | 710 | A simple way to preview markdown content | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/markdown-preview) |
+| [Markdown Preview](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) | 716 | A simple way to preview markdown content | xjo_nd | macOS | [store](https://www.raycast.com/xjo_nd/markdown-preview) |
 | [Paper](https://github.com/raycast/extensions/tree/main/extensions/paper) | 537 | Create and organize your ideas, work, etc., in Markdown files by category. | luctst | macOS | [store](https://www.raycast.com/luctst/paper) |
 | [Table Converter](https://github.com/raycast/extensions/tree/main/extensions/table-converter) | 279 | Convert tables from Clipboard to Markdown and vice versa. | naserowaimer | macOS | [store](https://www.raycast.com/naserowaimer/table-converter) |
 | [RICE Score](https://github.com/raycast/extensions/tree/main/extensions/ricescore) | 174 | Calculate RICE Score and output value or markdown table | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/ricescore) |
@@ -87,13 +87,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 16,803 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
-| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,210 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
+| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 16,905 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
+| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,229 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [OK JSON](https://github.com/raycast/extensions/tree/main/extensions/ok-json) | 2,960 | Control OK JSON with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/ok-json) |
 | [Open in JSON Hero](https://github.com/raycast/extensions/tree/main/extensions/open-in-json-hero) | 1,365 | Opens JSON in your pasteboard in JSON Hero | maverickdotdev | macOS | [store](https://www.raycast.com/maverickdotdev/open-in-json-hero) |
 | [Quicktype](https://github.com/raycast/extensions/tree/main/extensions/quicktype) | 696 | Generate Models and Serializers from JSON | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/quicktype) |
 | [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) | 605 | Run queries on Json data using jq | vladimir-kotikov | macOS | [store](https://www.raycast.com/vladimir-kotikov/raycast-jq) |
-| [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json) | 4 | Browse, search, decode, and extract nested JSON. | xiaodaiguaray | macOS, Windows | [store](https://www.raycast.com/xiaodaiguaray/better-json) |
+| [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json) | 0 | Browse, search, decode, and extract nested JSON. | xiaodaiguaray | macOS, Windows | [store](https://www.raycast.com/xiaodaiguaray/better-json) |
 
 ## Between ✦
 
@@ -122,7 +122,7 @@
 | [FileMaker Snippets](https://github.com/raycast/extensions/tree/main/extensions/filemaker-snippets) | 737 | Create and use snippets for FileMaker Pro | eluce2 | macOS | [store](https://www.raycast.com/eluce2/filemaker-snippets) |
 | [File Tree Generator](https://github.com/raycast/extensions/tree/main/extensions/file-tree-generator) | 733 | Generates file tree from text | csharp | macOS | [store](https://www.raycast.com/csharp/file-tree-generator) |
 | [Fix Language](https://github.com/raycast/extensions/tree/main/extensions/fix-language) | 640 | Switch the language input source of the text when you type and forget to change the language. | tin5451 | macOS | [store](https://www.raycast.com/tin5451/fix-language) |
-| [Invisible Text Detector](https://github.com/raycast/extensions/tree/main/extensions/invisible-text-detector) | 557 | Remove all hidden Unicode characters in your text, usually injected by LLMs. | garrett | macOS | [store](https://www.raycast.com/garrett/invisible-text-detector) |
+| [Invisible Text Detector](https://github.com/raycast/extensions/tree/main/extensions/invisible-text-detector) | 559 | Remove all hidden Unicode characters in your text, usually injected by LLMs. | garrett | macOS | [store](https://www.raycast.com/garrett/invisible-text-detector) |
 | [Text Differ](https://github.com/raycast/extensions/tree/main/extensions/text-differ) | 507 | Opens Text Differ from selected files | ErikFisher | macOS | [store](https://www.raycast.com/ErikFisher/text-differ) |
 | [Regex Batch Renamer](https://github.com/raycast/extensions/tree/main/extensions/regex-batch-renamer) | 349 | Create and manage multiple regex-based file/folder renaming jobs with batch processing | tarikkavaz | macOS | [store](https://www.raycast.com/tarikkavaz/regex-batch-renamer) |
 | [Geohash](https://github.com/raycast/extensions/tree/main/extensions/geohash-encode-decode) | 337 | Encode coordinates as geohash, or decode a geohash and get useful info | alrico88 | macOS | [store](https://www.raycast.com/alrico88/geohash-encode-decode) |
@@ -132,8 +132,8 @@
 | [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) | 260 | Convert Any Language Text into an English Variable Name | keleus | macOS, Windows | [store](https://www.raycast.com/keleus/easyvariable) |
 | [Escape RegExp Characters](https://github.com/raycast/extensions/tree/main/extensions/escape-regexp-characters) | 225 | Escape RegExp special characters. | HerbertLu | macOS | [store](https://www.raycast.com/HerbertLu/escape-regexp-characters) |
 | [Esse Actions](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) | 220 | Uses the Esse app, which must already be installed, to perform operations on the passed text | bert | macOS | [store](https://www.raycast.com/bert/esse-actions) |
+| [massCode](https://github.com/raycast/extensions/tree/main/extensions/masscode) | 183 | Fetch snippets from massCode v4 app | antonreshetov | macOS | [store](https://www.raycast.com/antonreshetov/masscode) |
 | [Aleph Tools](https://github.com/raycast/extensions/tree/main/extensions/aleph) | 182 | A set of text tools to work with Hebrew text in Raycast. | d7mtg | macOS | [store](https://www.raycast.com/d7mtg/aleph) |
-| [massCode](https://github.com/raycast/extensions/tree/main/extensions/masscode) | 180 | Fetch snippets from massCode v4 app | antonreshetov | macOS | [store](https://www.raycast.com/antonreshetov/masscode) |
 | [Japanese Lorem Ipsum Generator](https://github.com/raycast/extensions/tree/main/extensions/lipsum) | 128 | Generate Japanese / English dummy text | seita1996 | macOS | [store](https://www.raycast.com/seita1996/lipsum) |
 | [Tiktoken](https://github.com/raycast/extensions/tree/main/extensions/tiktoken) | 120 | do tiktoken encode and decode | Envl | macOS | [store](https://www.raycast.com/Envl/tiktoken) |
 | [Tex2Typst](https://github.com/raycast/extensions/tree/main/extensions/tex2typst) | 63 | Convert TeX to Typst and vice versa | nac-39 | macOS, Windows | [store](https://www.raycast.com/nac-39/tex2typst) |

@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 93,538 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
+| [Format JSON](https://github.com/raycast/extensions/tree/main/extensions/json-format) | 94,022 | Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/json-format) |
 | [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 39,155 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
 | [Unix Timestamp](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp) | 29,378 | Convert between unix timestamp and human readable form date | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/unix-timestamp) |
-| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 16,803 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
-| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,210 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
+| [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) | 16,905 | Decode Your JSON Web Tokens - extract the header and data information from a JWT | gdsmith | macOS, Windows | [store](https://www.raycast.com/gdsmith/jwt-decoder) |
+| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,229 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) | 260 | Convert Any Language Text into an English Variable Name | keleus | macOS, Windows | [store](https://www.raycast.com/keleus/easyvariable) |
 | [Visitor Queue](https://github.com/raycast/extensions/tree/main/extensions/visitor-queue) | 19 | Identify, personalize, convert | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/visitor-queue) |
 
@@ -22,11 +22,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 102,648 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 103,288 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 34,184 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
 | [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,724 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [Dice & Coin](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) | 2,304 | Quickly and easily make random decisions or generate a random number | yonbergman | macOS, Windows | [store](https://www.raycast.com/yonbergman/dice-and-coin) |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,634 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,643 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
 
 ### Text Processing
 
@@ -34,7 +34,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) | 20,239 | Compare content of two texts | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/diff-checker) |
 | [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,123 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
-| [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 168 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
+| [LaTeX Board](https://github.com/raycast/extensions/tree/main/extensions/latex-board) | 170 | A LaTeX-friendly clipboard tool for creating, organizing, and copying equations. | 273 | macOS, Windows | [store](https://www.raycast.com/273/latex-board) |
 
 ### Files & Archives
 
@@ -54,7 +54,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 436 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
+| [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) | 441 | Evaluate mathematical expressions with real-time results. Supports common functions like sum, gcd, lcm, trigonometry, and more. Type expressions and press Ente… | jesper_sjoberg | macOS, Windows | [store](https://www.raycast.com/jesper_sjoberg/math-functions) |
 
 ### Time & Dates
 
@@ -62,15 +62,15 @@
 | --- | --- | --- | --- | --- | --- |
 | [World Clock](https://github.com/raycast/extensions/tree/main/extensions/world-clock) | 8,613 | Query the current time of a region, ip or domain. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/world-clock) |
 | [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois) | 6,390 | Instantly perform WHOIS and RDAP lookups for domains and IP addresses. View registration dates, nameservers, and detailed registrant info. | zavbala | macOS, Windows | [store](https://www.raycast.com/zavbala/whois) |
-| [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 212 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
-| [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 180 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
+| [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 214 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
+| [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 182 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
 | [Tesla Energy](https://github.com/raycast/extensions/tree/main/extensions/tesla-energy) | 13 | Monitor your Tesla solar panels and Powerwalls. View real-time solar production, battery charge, grid usage, and energy history. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/tesla-energy) |
 
 ### Trackers & Monitors
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats) | 1,295 | The largest collection of high-quality evaluations for every AI modality—language, vision, code, reasoning, and beyond | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/llm-stats) |
+| [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats) | 1,298 | The largest collection of high-quality evaluations for every AI modality—language, vision, code, reasoning, and beyond | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/llm-stats) |
 | [AI Stats](https://github.com/raycast/extensions/tree/main/extensions/ai-stats) | 154 | AI model stats via Supabase | JonathanRReed | macOS, Windows | [store](https://www.raycast.com/JonathanRReed/ai-stats) |
 | [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | 110 | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
 | [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) | 56 | Monitor status pages and check if your favorite services are operational. | alerix | macOS, Windows | [store](https://www.raycast.com/alerix/is-it-alive) |
@@ -95,9 +95,9 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 3,051 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
-| [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) | 2,452 | Discover how many hours you need to beat a game. | Cronos87 | macOS, Windows | [store](https://www.raycast.com/Cronos87/howlongtobeat) |
+| [HowLongToBeat](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) | 2,456 | Discover how many hours you need to beat a game. | Cronos87 | macOS, Windows | [store](https://www.raycast.com/Cronos87/howlongtobeat) |
 | [ProtonDB](https://github.com/raycast/extensions/tree/main/extensions/protondb) | 637 | Browse game information for Proton, Linux, Steam Deck, and SteamOS. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/protondb) |
-| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 320 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
+| [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 322 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 166 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
 | [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 9 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
 
@@ -124,7 +124,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) | 2,987 | Search the bible | josmithua | macOS, Windows | [store](https://www.raycast.com/josmithua/bible) |
 | [Upcoming Holidays](https://github.com/raycast/extensions/tree/main/extensions/upcoming-holidays) | 1,939 | Show upcoming holidays for a country | rodrigouroz | macOS, Windows | [store](https://www.raycast.com/rodrigouroz/upcoming-holidays) |
-| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 813 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
+| [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 815 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 640 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [Models.dev](https://github.com/raycast/extensions/tree/main/extensions/models-dev) | 436 | Explore AI model specifications, pricing, and capabilities from models.dev | carlesandres | macOS, Windows | [store](https://www.raycast.com/carlesandres/models-dev) |
 | [CNPJ Lookup](https://github.com/raycast/extensions/tree/main/extensions/cnpj-lookup) | 112 | Instantly access Brazilian CNPJ information | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/cnpj-lookup) |
@@ -138,11 +138,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 19,699 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
-| [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 925 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
-| [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 524 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 19,790 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) | 928 | Find domains, check availability, search popular extensions, and buy premium domains. | instantdomainsearch | macOS, Windows | [store](https://www.raycast.com/instantdomainsearch/instant-domain-search) |
+| [ipapi.is](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) | 527 | Lookup IP or ASN via ipapi.is | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ipapi-is) |
 | [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger) | 270 | Like dig but for the web. Comprehensive website intelligence and metadata extraction. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/digger) |
-| [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 98 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
+| [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 99 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
 | [Query.Domains](https://github.com/raycast/extensions/tree/main/extensions/query-domains) | 86 | Check domain WHOIS, availability, traffic, and tech stack in one place | nextwalkerovo | macOS, Windows | [store](https://www.raycast.com/nextwalkerovo/query-domains) |
 | [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 78 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
 | [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | 58 | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
@@ -162,7 +162,7 @@
 | [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 9,366 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 2,984 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,696 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
-| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,219 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
+| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,223 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 660 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 570 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | 186 | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |

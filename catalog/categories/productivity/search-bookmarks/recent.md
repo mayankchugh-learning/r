@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 42,531 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
-| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 31,809 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
+| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 31,993 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
 | [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity) | 3,662 | Control Antigravity directly from Raycast - Search and open recent projects, handle extensions and commands. | meshal | macOS | [store](https://www.raycast.com/meshal/antigravity) |
 | [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) | 1,119 | Search and open recent Ableton Live Projects | dch09 | macOS | [store](https://www.raycast.com/dch09/ableton-live) |
 | [Kiro](https://github.com/raycast/extensions/tree/main/extensions/kiro) | 517 | Control Kiro directly from Raycast - Search and open recent projects, handle extensions and commands. | jyothish-ram | macOS | [store](https://www.raycast.com/jyothish-ram/kiro) |

@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 554,703 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 555,651 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,490 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,747 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,226 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -18,7 +18,7 @@
 | [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) | 1,076 | Quickly view the Catppuccin color palette, userstyles, ports, and documentation. | dvhsh | macOS | [store](https://www.raycast.com/dvhsh/catppuccin) |
 | [OKLCH Color Converter](https://github.com/raycast/extensions/tree/main/extensions/oklch-color-converter) | 975 | Convert colors between formats with wide gamut support | strongeron | macOS | [store](https://www.raycast.com/strongeron/oklch-color-converter) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 695 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
-| [HTML Colors](https://github.com/raycast/extensions/tree/main/extensions/html-colors) | 409 | Search through pallettes of standard HTML colors. Offers basic + extended set. Search by name or browse by looking at the color itself. | Synacek | macOS | [store](https://www.raycast.com/Synacek/html-colors) |
+| [HTML Colors](https://github.com/raycast/extensions/tree/main/extensions/html-colors) | 410 | Search through pallettes of standard HTML colors. Offers basic + extended set. Search by name or browse by looking at the color itself. | Synacek | macOS | [store](https://www.raycast.com/Synacek/html-colors) |
 | [Color Studio Picker](https://github.com/raycast/extensions/tree/main/extensions/color-studio-picker) | 390 | Helps you identify and pick colors from Automattic's Color Studio | Automattic_Inc | macOS | [store](https://www.raycast.com/Automattic_Inc/color-studio-picker) |
 | [JustColorPicker](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) | 379 | Just a color picker | ZooHero | macOS | [store](https://www.raycast.com/ZooHero/justcolorpicker-raycast) |
 | [Nippon Colors](https://github.com/raycast/extensions/tree/main/extensions/nippon-colors) | 281 | explore nippon colors! | nagauta | macOS | [store](https://www.raycast.com/nagauta/nippon-colors) |

@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 14,271 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
+| [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) | 14,336 | Switch between Chrome profiles and access their bookmarks instantly | frouo | macOS | [store](https://www.raycast.com/frouo/google-chrome-profiles) |
 | [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 934 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 669 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
-| [Link Bundles](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) | 617 | Efficiently manage and launch groups of links in specific Chrome profiles. | toni_birka | macOS | [store](https://www.raycast.com/toni_birka/link-bundles) |
+| [Link Bundles](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) | 619 | Efficiently manage and launch groups of links in specific Chrome profiles. | toni_birka | macOS | [store](https://www.raycast.com/toni_birka/link-bundles) |
 | [Web3 Profile](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) | 429 | Search for ENS names and view its profile — Avatar, description, social URLs and more! | peduarte | macOS | [store](https://www.raycast.com/peduarte/web3-profile) |
 | [Farcaster](https://github.com/raycast/extensions/tree/main/extensions/farcaster) | 124 | Most comprehensive extension for Farcaster. Search for casts, profiles and explore details. | artivilla | macOS | [store](https://www.raycast.com/artivilla/farcaster) |
 | [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) | 107 | Discover ENS, Farcaster, Lens and Web3 universal profiles | web3bio | macOS | [store](https://www.raycast.com/web3bio/web3bio) |

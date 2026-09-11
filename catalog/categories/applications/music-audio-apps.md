@@ -12,5 +12,5 @@
 | [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) | 1,119 | Search and open recent Ableton Live Projects | dch09 | macOS | [store](https://www.raycast.com/dch09/ableton-live) |
 | [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 1,030 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
 | [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 608 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
-| [Kaset Control](https://github.com/raycast/extensions/tree/main/extensions/kaset-control) | 194 | Control Kaset - YouTube Music client for macOS | endiruslan | macOS | [store](https://www.raycast.com/endiruslan/kaset-control) |
+| [Kaset Control](https://github.com/raycast/extensions/tree/main/extensions/kaset-control) | 197 | Control Kaset - YouTube Music client for macOS | endiruslan | macOS | [store](https://www.raycast.com/endiruslan/kaset-control) |
 | [Elsewhere](https://github.com/raycast/extensions/tree/main/extensions/elsewhere) | 27 | Control spatial soundscapes, background music, playback, and volume. | yannglt | macOS | [store](https://www.raycast.com/yannglt/elsewhere) |

@@ -33,18 +33,18 @@
 | [iloveitaly](https://www.raycast.com/iloveitaly) | 1 | 270 | **Productivity:** [Hyper Focus](https://github.com/raycast/extensions/tree/main/extensions/hyper-focus) |
 | [iman_neo](https://www.raycast.com/iman_neo) | 1 | 257 | **Media:** [YouTube Subscriber Count](https://github.com/raycast/extensions/tree/main/extensions/youtube-subscriber-count) |
 | [imgkl](https://www.raycast.com/imgkl) | 1 | 106 | **Developer Tools:** [Codemagic](https://github.com/raycast/extensions/tree/main/extensions/codemagic) |
-| [ImprovMX](https://www.raycast.com/ImprovMX) | 1 | 209 | **Communication:** [ImprovMX](https://github.com/raycast/extensions/tree/main/extensions/improvmx) |
+| [ImprovMX](https://www.raycast.com/ImprovMX) | 1 | 210 | **Communication:** [ImprovMX](https://github.com/raycast/extensions/tree/main/extensions/improvmx) |
 | [imqdee](https://www.raycast.com/imqdee) | 2 | 168 | **Web:** [Zerion](https://github.com/raycast/extensions/tree/main/extensions/zerion)<br>**Developer Tools:** [EVM Toolkit](https://github.com/raycast/extensions/tree/main/extensions/evm-toolkit) |
 | [inakitajes](https://www.raycast.com/inakitajes) | 1 | 782 | **Productivity:** [Advanced Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/advanced-speech-to-text) |
 | [inamuu](https://www.raycast.com/inamuu) | 1 | 58 | **News:** [Hatena Bookmark](https://github.com/raycast/extensions/tree/main/extensions/hatena-bookmark) |
-| [indykoning](https://www.raycast.com/indykoning) | 1 | 5,964 | **Documentation:** [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) |
+| [indykoning](https://www.raycast.com/indykoning) | 1 | 6,000 | **Documentation:** [Laravel Docs](https://github.com/raycast/extensions/tree/main/extensions/laravel-docs) |
 | [Infonautica](https://www.raycast.com/Infonautica) | 1 | 236 | **Data:** [James Webb Space Telescope](https://github.com/raycast/extensions/tree/main/extensions/james-webb-space-telescope) |
 | [IngoJ](https://www.raycast.com/IngoJ) | 2 | 294 | **Other:** [SmartThings Connector](https://github.com/raycast/extensions/tree/main/extensions/smartthings-connector)<br>**Productivity:** [AtomTick](https://github.com/raycast/extensions/tree/main/extensions/atomtick) |
-| [instantdomainsearch](https://www.raycast.com/instantdomainsearch) | 1 | 925 | **Data:** [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) |
+| [instantdomainsearch](https://www.raycast.com/instantdomainsearch) | 1 | 928 | **Data:** [Instant Domain Search](https://github.com/raycast/extensions/tree/main/extensions/instant-domain-search) |
 | [insuline](https://www.raycast.com/Insuline) | 1 | 1 | **Finance:** [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid) |
 | [insv23](https://www.raycast.com/insv23) | 1 | 64 | **Productivity:** [Duan: Shorten and Manage Links](https://github.com/raycast/extensions/tree/main/extensions/duan-raycast-extension) |
 | [interaapps](https://www.raycast.com/interaapps) | 1 | 137 | **Developer Tools:** [Pastefy](https://github.com/raycast/extensions/tree/main/extensions/pastefy) |
-| [InteractiveNinja](https://www.raycast.com/InteractiveNinja) | 1 | 653 | **Web:** [Linkding](https://github.com/raycast/extensions/tree/main/extensions/linkding) |
+| [InteractiveNinja](https://www.raycast.com/InteractiveNinja) | 1 | 657 | **Web:** [Linkding](https://github.com/raycast/extensions/tree/main/extensions/linkding) |
 | [invm](https://www.raycast.com/invm) | 1 | 27 | **Productivity:** [Thesaurus Rex](https://github.com/raycast/extensions/tree/main/extensions/thesaurus-rex) |
 | [inxilpro](https://www.raycast.com/inxilpro) | 1 | 478 | **Developer Tools:** [PHP Toolbox](https://github.com/raycast/extensions/tree/main/extensions/php-toolbox) |
 | [ipiranhaa](https://www.raycast.com/ipiranhaa) | 1 | 425 | **Developer Tools:** [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) |

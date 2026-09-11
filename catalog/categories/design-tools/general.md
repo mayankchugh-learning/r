@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 102,648 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
+| [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 103,288 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 39,987 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 19,008 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |
 | [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) | 11,417 | Fastest Notion to-do app ever | reboot (org) | macOS | [store](https://www.raycast.com/reboot/hypersonic) |
@@ -23,7 +23,7 @@
 | [Outline Page](https://github.com/raycast/extensions/tree/main/extensions/outline-page) | 673 | Check for CSS bugs by outlining all the elements in your web page. | praveenjuge | macOS | [store](https://www.raycast.com/praveenjuge/outline-page) |
 | [Paper](https://github.com/raycast/extensions/tree/main/extensions/paper) | 537 | Create and organize your ideas, work, etc., in Markdown files by category. | luctst | macOS | [store](https://www.raycast.com/luctst/paper) |
 | [Popicons](https://github.com/raycast/extensions/tree/main/extensions/popicons) | 304 | Browse and copy Popicons | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/popicons) |
-| [Hipster Ipsum](https://github.com/raycast/extensions/tree/main/extensions/hipster-ipsum) | 240 | Generate placeholder content using the official Hipster Ipsum API | plev | macOS | [store](https://www.raycast.com/plev/hipster-ipsum) |
+| [Hipster Ipsum](https://github.com/raycast/extensions/tree/main/extensions/hipster-ipsum) | 241 | Generate placeholder content using the official Hipster Ipsum API | plev | macOS | [store](https://www.raycast.com/plev/hipster-ipsum) |
 | [Thingiverse](https://github.com/raycast/extensions/tree/main/extensions/thingiverse) | 210 | Browse Thingiverse | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/thingiverse) |
 | [Smallpdf](https://github.com/raycast/extensions/tree/main/extensions/smallpdf) | 173 | Quick access to all the Smallpdf tools | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/smallpdf) |
 | [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution) | 129 | Display properties of every iPhone, MacBook, iPad, iPod touch and Apple Watch Apple ever made | ertem_biyik | macOS, Windows | [store](https://www.raycast.com/ertem_biyik/ios-resolution) |
