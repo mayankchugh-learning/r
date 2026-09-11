@@ -1,8 +1,8 @@
 # Hardware & Devices
 
-24 extensions · [← System](./README.md)
+25 extensions · [← System](./README.md)
 
-[Keyboard ✦](#keyboard) (7) · [Devices ✦](#devices) (5) · [Mouse ✦](#mouse) (5) · [General](#general) (7)
+[Keyboard ✦](#keyboard) (8) · [Devices ✦](#devices) (5) · [Mouse ✦](#mouse) (5) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -17,6 +17,7 @@
 | [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 4,860 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
 | [Media Key Emulate](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) | 1,175 | Emulate keyboard media keys press. Reassign hotkey for media keys. | douo | macOS | [store](https://www.raycast.com/douo/global-media-key) |
 | [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) | 0 | Raise, track, and action iPF OS tickets without leaving your keyboard. | joseph_emmanuel | Windows, macOS | [store](https://www.raycast.com/joseph_emmanuel/ipf-os) |
+| [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | — | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | — |
 
 ## Devices ✦
 
