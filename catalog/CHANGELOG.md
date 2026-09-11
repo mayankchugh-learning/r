@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `f690028835`
+
+**Updated (1):** [Raycast Icons](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons)
+
 ## 2026-09-11 — upstream `f68ff74c01`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
