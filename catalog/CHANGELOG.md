@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `e39dd65867`
+
+**Updated (1):** [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt)
+
 ## 2026-09-11 — upstream `9c222c3f13`
 
 **Updated (1):** [Menubar Weather](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather)
