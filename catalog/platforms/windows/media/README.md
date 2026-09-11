@@ -24,7 +24,7 @@
 | [Eurovision Song Contest](https://github.com/raycast/extensions/tree/main/extensions/eurovision-song-contest) | 44 | Discover information about the world's largest live music event | jacpd | macOS, Windows | [store](https://www.raycast.com/jacpd/eurovision-song-contest) |
 | [Jellyamp](https://github.com/raycast/extensions/tree/main/extensions/jellyamp) | 37 | Search and play music from your Jellyfin server | opkelde | macOS, Windows | [store](https://www.raycast.com/opkelde/jellyamp) |
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 21 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
-| [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | — | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | — |
+| [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | 0 | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/media-switcher) |
 
 ### Video & Streaming
 

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `df90359f27`
+
+**Updated (1):** [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab)
+
 ## 2026-09-11 — upstream `826af8223d`
 
 **Added (1):** [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday)
