@@ -59,7 +59,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Word Count](https://github.com/raycast/extensions/tree/main/extensions/word-count) | 38,564 | Count characters, words, sentences, and paragraphs in text. | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/word-count) |
 | [Large Type](https://github.com/raycast/extensions/tree/main/extensions/large-type) | 3,864 | Large Type allows you to show text in large characters across your screen | gbarba | macOS | [store](https://www.raycast.com/gbarba/large-type) |
-| [Chinese Character](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) | 2,327 | Chinese character conversion tools. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/chinese-character) |
+| [Chinese Character](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) | 2,334 | Chinese character conversion tools. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/chinese-character) |
 | [Xiaohe Query](https://github.com/raycast/extensions/tree/main/extensions/xiaohe-query) | 4 | Query Xiaohe (Flypy) codes and decomposition for a single Chinese character. | dongqing | macOS | [store](https://www.raycast.com/dongqing/xiaohe-query) |
 
 ## Quote ✦

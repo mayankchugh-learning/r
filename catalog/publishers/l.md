@@ -16,7 +16,7 @@
 | [lardissone](https://www.raycast.com/lardissone) | 3 | 44,620 | **Productivity:** [Raindrop.io](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io)<br>**System:** [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp)<br>**Developer Tools:** [CommitLint](https://github.com/raycast/extensions/tree/main/extensions/commitlint) |
 | [larsasolidor](https://www.raycast.com/larsasolidor) | 1 | 639 | **Communication:** [One-Time Secret](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) |
 | [laurynas](https://www.raycast.com/laurynas) | 1 | 230 | **Productivity:** [SavvyCal](https://github.com/raycast/extensions/tree/main/extensions/savvycal) |
-| [lavatorywang](https://www.raycast.com/lavatorywang) | 1 | 626 | **Developer Tools:** [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) |
+| [lavatorywang](https://www.raycast.com/lavatorywang) | 1 | 629 | **Developer Tools:** [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) |
 | [lbergantin](https://www.raycast.com/lbergantin) | 1 | 233 | **Developer Tools:** [NuGet](https://github.com/raycast/extensions/tree/main/extensions/nuget) |
 | [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 27,314 | **Productivity:** [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter)<br>**Uncategorized:** [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) |
 | [leec-666](https://www.raycast.com/leec-666) | 1 | 10 | **Developer Tools:** [SecureCRT Sessions](https://github.com/raycast/extensions/tree/main/extensions/securecrt-sessions) |
@@ -48,10 +48,10 @@
 | [lihzsky](https://www.raycast.com/lihzsky) | 1 | 241 | **Developer Tools:** [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) |
 | [liluo](https://www.raycast.com/liluo) | 1 | 118 | **Developer Tools:** [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) |
 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 15,809 | **Productivity:** [AeroSpace Tiling Window Manager](https://github.com/raycast/extensions/tree/main/extensions/aerospace) |
-| [lin](https://www.raycast.com/lin) | 3 | 6,651 | **Developer Tools:** [Prettier Code](https://github.com/raycast/extensions/tree/main/extensions/prettier)<br>**Productivity:** [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai)<br>**Documentation:** [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) |
+| [lin](https://www.raycast.com/lin) | 3 | 6,654 | **Developer Tools:** [Prettier Code](https://github.com/raycast/extensions/tree/main/extensions/prettier)<br>**Productivity:** [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai)<br>**Documentation:** [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) |
 | [linear](https://www.raycast.com/linear) | 1 | 369,093 | **Developer Tools:** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) |
 | [linkinize](https://www.raycast.com/linkinize) | 1 | 8 | **Productivity:** [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize) |
-| [litomore](./id/litomore.md) | 13 | 13,534 | [see all 13 →](./id/litomore.md) |
+| [litomore](./id/litomore.md) | 13 | 13,537 | [see all 13 →](./id/litomore.md) |
 | [liualexiang](https://www.raycast.com/liualexiang) | 1 | 156 | **Productivity:** [Azure Speech TTS](https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension) |
 | [Lock](https://www.raycast.com/Lock) | 1 | 37 | **Security:** [2FAS Authenticator](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator) |
 | [lockieluke3389](https://www.raycast.com/lockieluke3389) | 1 | 762 | **Applications:** [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) |

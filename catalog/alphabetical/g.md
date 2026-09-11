@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 528,459 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 528,768 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 461,253 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 193,329 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 141,503 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
@@ -119,7 +119,7 @@
 | [Gemini TTS](https://github.com/raycast/extensions/tree/main/extensions/gemini-tts) | 81 | Read selected text aloud with Gemini TTS. Supports Gemini 3.1 Flash TTS Preview plus Gemini 2.5 Flash and Pro Preview TTS. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/gemini-tts) |
 | [Greip](https://github.com/raycast/extensions/tree/main/extensions/greip) | 79 | Use endpoint from greip.io directly from Raycast | ghadeer | macOS | [store](https://www.raycast.com/ghadeer/greip) |
 | [Geist UI Components & Hooks](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) | 76 | This extension provides links to components & hooks in Geist UI Documentation | RahulatRaycast | macOS | [store](https://www.raycast.com/RahulatRaycast/geist-ui-components) |
-| [German Train Info](https://github.com/raycast/extensions/tree/main/extensions/bahn-info) | 69 | Get real-time information about your Deutsche Bahn ICE journey including next stops, delays, speed, and connection status | arran-nz | macOS | [store](https://www.raycast.com/arran-nz/bahn-info) |
+| [German Train Info](https://github.com/raycast/extensions/tree/main/extensions/bahn-info) | 70 | Get real-time information about your Deutsche Bahn ICE journey including next stops, delays, speed, and connection status | arran-nz | macOS | [store](https://www.raycast.com/arran-nz/bahn-info) |
 | [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) | 68 | Explore your Grafbase projects, branches, deployments, and commit history. | grafbase (org) | macOS | [store](https://www.raycast.com/grafbase/grafbase) |
 | [Grist](https://github.com/raycast/extensions/tree/main/extensions/grist) | 66 | Spreadsheet Software to End Data Chaos | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/grist) |
 | [Growthbook](https://github.com/raycast/extensions/tree/main/extensions/growthbook) | 61 | View Growthbook feature flags | farisaziz12 | macOS | [store](https://www.raycast.com/farisaziz12/growthbook) |

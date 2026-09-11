@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · **H** · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-67 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+68 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -17,12 +17,12 @@
 | [Harry_Huang](https://www.raycast.com/Harry_Huang) | 1 | 20 | **Productivity:** [Main Library in University of St Andrews](https://github.com/raycast/extensions/tree/main/extensions/st-andrews-main-library-occupancy) |
 | [harsh_varshney](https://www.raycast.com/harsh_varshney) | 1 | 112 | **Web:** [Codeforces](https://github.com/raycast/extensions/tree/main/extensions/codeforces-extension) |
 | [haruka_odenkun](https://www.raycast.com/haruka_odenkun) | 1 | 12 | **Fun:** [Tategaki](https://github.com/raycast/extensions/tree/main/extensions/tategaki) |
-| [harumeri](https://www.raycast.com/harumeri) | 1 | 5,640 | **Uncategorized:** [Claude Code Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/claude-code-cheatsheet) |
+| [harumeri](https://www.raycast.com/harumeri) | 1 | 5,660 | **Uncategorized:** [Claude Code Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/claude-code-cheatsheet) |
 | [harunonsystem](https://www.raycast.com/harunonsystem) | 1 | 40 | **Productivity:** [Leave Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/leave-time-calculator) |
 | [hasanakay](https://www.raycast.com/hasanakay) | 1 | 327 | **Productivity:** [Search Domain](https://github.com/raycast/extensions/tree/main/extensions/search-domain) |
 | [haseab_](https://www.raycast.com/haseab_) | 2 | 216 | **Applications:** [Go to Rewind Timestamp](https://github.com/raycast/extensions/tree/main/extensions/go-to-rewind-timestamp), [Retrace Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/retrace) |
 | [hassan_ahmed](https://www.raycast.com/hassan_ahmed) | 1 | 263 | **Communication:** [Slack Summarizer](https://github.com/raycast/extensions/tree/main/extensions/slack-summarizer) |
-| [hayden_barnes](https://www.raycast.com/hayden_barnes) | 1 | 1,141 | **Finance:** [Apple Stocks Search](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) |
+| [hayden_barnes](https://www.raycast.com/hayden_barnes) | 1 | 1,144 | **Finance:** [Apple Stocks Search](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) |
 | [haythem_gataa](https://www.raycast.com/haythem_gataa) | 1 | 256 | **Productivity:** [Files Shelf](https://github.com/raycast/extensions/tree/main/extensions/files-shelf) |
 | [hazelhedmine](https://www.raycast.com/hazelhedmine) | 1 | 180 | **Media:** [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) |
 | [hcancelik](https://www.raycast.com/hcancelik) | 1 | 782 | **Productivity:** [Screen Math](https://github.com/raycast/extensions/tree/main/extensions/screen-math) |
@@ -37,7 +37,7 @@
 | [HerbertLu](https://www.raycast.com/HerbertLu) | 4 | 6,495 | **Productivity:** [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor), [Deduplicator](https://github.com/raycast/extensions/tree/main/extensions/deduplicator), [Escape RegExp Characters](https://github.com/raycast/extensions/tree/main/extensions/escape-regexp-characters)<br>**Security:** [Email Verifier](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) |
 | [hermanschutte](https://www.raycast.com/hermanschutte) | 1 | 229 | **Documentation:** [SiteSpeakAI](https://github.com/raycast/extensions/tree/main/extensions/sitespeakai) |
 | [heytommy](https://www.raycast.com/heytommy) | 1 | 29 | **Uncategorized:** [GitCDN](https://github.com/raycast/extensions/tree/main/extensions/gitcdn) |
-| [hieudinh](https://www.raycast.com/hieudinh) | 1 | 3,380 | **Applications:** [Compresto](https://github.com/raycast/extensions/tree/main/extensions/compressx) |
+| [hieudinh](https://www.raycast.com/hieudinh) | 1 | 3,388 | **Applications:** [Compresto](https://github.com/raycast/extensions/tree/main/extensions/compressx) |
 | [hjm79](https://www.raycast.com/hjm79) | 2 | 48 | **Productivity:** [Korean Add Calendar](https://github.com/raycast/extensions/tree/main/extensions/korean-add-calendar)<br>**Applications:** [Vesslo](https://github.com/raycast/extensions/tree/main/extensions/vesslo) |
 | [hk_raycast](https://www.raycast.com/hk_raycast) | 1 | 12 | **Productivity:** [PomoNotion Raycast Extension](https://github.com/raycast/extensions/tree/main/extensions/raycast-pomodoro-notion) |
 | [hmarr](https://www.raycast.com/hmarr) | 3 | 24,203 | **Productivity:** [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear)<br>**Finance:** [Stock Tracker](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker)<br>**System:** [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) |
@@ -54,6 +54,7 @@
 | [hrishabhn](https://www.raycast.com/hrishabhn) | 1 | 2,006 | **Uncategorized:** [Flighty](https://github.com/raycast/extensions/tree/main/extensions/flighty) |
 | [http.james](https://www.raycast.com/http.james) | 4 | 3,014 | **Productivity:** [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt), [Addy](https://github.com/raycast/extensions/tree/main/extensions/anonaddy), [Control D](https://github.com/raycast/extensions/tree/main/extensions/control-d)<br>**Communication:** [Lemmy](https://github.com/raycast/extensions/tree/main/extensions/lemmy) |
 | [hughmcmillanv](https://www.raycast.com/hughmcmillanv) | 1 | 616 | **News:** [MacRumors](https://github.com/raycast/extensions/tree/main/extensions/macrumors) |
+| [hugini](https://www.raycast.com/hugini) | 1 | 0 | **Productivity:** [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders) |
 | [hugo_gresse](https://www.raycast.com/hugo_gresse) | 1 | 487 | **Productivity:** [Openrouter Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/openrouter-quick-actions) |
 | [Hugo-Persson](https://www.raycast.com/Hugo-Persson) | 1 | 874 | **Productivity:** [DuckDuckGo Email](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) |
 | [hugoliconv](https://www.raycast.com/hugoliconv) | 1 | 709 | **Finance:** [Wise Quotes](https://github.com/raycast/extensions/tree/main/extensions/wise-quotes) |
@@ -61,7 +62,7 @@
 | [HugoRCD](https://www.raycast.com/HugoRCD) | 2 | 1,066 | **Developer Tools:** [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt), [npm Claimer](https://github.com/raycast/extensions/tree/main/extensions/npm-claimer) |
 | [humaans](https://www.raycast.com/humaans) | 1 | 75 | **Productivity:** [Humaans](https://github.com/raycast/extensions/tree/main/extensions/humaans) |
 | [humanfriend22](https://www.raycast.com/humanfriend22) | 1 | 6 | **Productivity:** [Thermostats](https://github.com/raycast/extensions/tree/main/extensions/thermostats) |
-| [Humber](https://www.raycast.com/Humber) | 1 | 975 | **Applications:** [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) |
+| [Humber](https://www.raycast.com/Humber) | 1 | 976 | **Applications:** [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) |
 | [hunter_dermott](https://www.raycast.com/hunter_dermott) | 1 | 15 | **Applications:** [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) |
 | [HunterJi](https://www.raycast.com/HunterJi) | 2 | 2,478 | **Design Tools:** [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator)<br>**Developer Tools:** [AI Code Namer](https://github.com/raycast/extensions/tree/main/extensions/ai-code-namer) |
 | [huseyint](https://www.raycast.com/huseyint) | 1 | 350 | **Documentation:** [.NET Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) |

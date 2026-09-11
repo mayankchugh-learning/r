@@ -23,7 +23,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Commits Menu](https://github.com/raycast/extensions/tree/main/extensions/github-menu-bar) | 797 | Show new Git commits in the macOS menu bar. | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/github-menu-bar) |
 | [Git Co-Authors](https://github.com/raycast/extensions/tree/main/extensions/git-co-authors) | 138 | Manage and copy co-authors for git commits | nickradford | macOS, Windows | [store](https://www.raycast.com/nickradford/git-co-authors) |
-| [Commit Issue Parser](https://github.com/raycast/extensions/tree/main/extensions/commit-issue-parser) | 31 | Easily parse issue URLs to generate commit names and descriptions for use with Git | julesjuul | macOS | [store](https://www.raycast.com/julesjuul/commit-issue-parser) |
+| [Commit Issue Parser](https://github.com/raycast/extensions/tree/main/extensions/commit-issue-parser) | 32 | Easily parse issue URLs to generate commit names and descriptions for use with Git | julesjuul | macOS | [store](https://www.raycast.com/julesjuul/commit-issue-parser) |
 | [Commit Sounds](https://github.com/raycast/extensions/tree/main/extensions/commit-sound-controls) | 7 | Play custom sounds after Git commits to selected GitHub users or organizations. | koushik | macOS, Windows | [store](https://www.raycast.com/koushik/commit-sound-controls) |
 
 ## General
@@ -31,7 +31,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 9,616 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
-| [Code Stash](https://github.com/raycast/extensions/tree/main/extensions/code-stash) | 2,116 | Searching git.. now you have two problems. Store chunks of code and retrieve them later | ben-greenwood | macOS | [store](https://www.raycast.com/ben-greenwood/code-stash) |
+| [Code Stash](https://github.com/raycast/extensions/tree/main/extensions/code-stash) | 2,120 | Searching git.. now you have two problems. Store chunks of code and retrieve them later | ben-greenwood | macOS | [store](https://www.raycast.com/ben-greenwood/code-stash) |
 | [Oh My Zsh Git Alias](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) | 1,323 | Quick search git alias. | yufeikang | macOS | [store](https://www.raycast.com/yufeikang/oh-my-zsh-git-alias) |
 | [Git Branch Name Generator](https://github.com/raycast/extensions/tree/main/extensions/git-branch-name-generator) | 561 | Convert a string into a branch name | mbonner | macOS | [store](https://www.raycast.com/mbonner/git-branch-name-generator) |
 | [Jira2Git](https://github.com/raycast/extensions/tree/main/extensions/jira2git) | 425 | The tool for making Jira and Git work together smoothly as silk for a better development experience. | ipiranhaa | macOS | [store](https://www.raycast.com/ipiranhaa/jira2git) |

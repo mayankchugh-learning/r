@@ -8,7 +8,7 @@
 | [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,720 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
 | [Sonos](https://github.com/raycast/extensions/tree/main/extensions/sonos) | 4,199 | Control your Sonos system | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/sonos) |
 | [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) | 1,465 | Control the Yandex Music tab in browser with your keyboard. | alexstrnik | macOS | [store](https://www.raycast.com/alexstrnik/yandex-music) |
-| [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,219 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
+| [Audio Writer](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) | 1,223 | Transcribe it, refine it and structure it for you ✨ | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/audio-writer) |
 | [Ableton Live](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) | 1,119 | Search and open recent Ableton Live Projects | dch09 | macOS | [store](https://www.raycast.com/dch09/ableton-live) |
 | [Cider](https://github.com/raycast/extensions/tree/main/extensions/cider) | 1,030 | Interact with Cider through Raycast | feyli | macOS, Windows | [store](https://www.raycast.com/feyli/cider) |
 | [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 608 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |

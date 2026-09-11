@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `51173d20fa`
+
+**Added (1):** [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders)
+
 ## 2026-09-11 — upstream `d7cc9f5ae9`
 
 **Added (1):** [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps)

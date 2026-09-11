@@ -44,7 +44,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 712,472 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 713,016 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,524 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,335 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) | 759 | Manage your DeepL API usage with ease. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/deepl-api-usage) |
@@ -55,7 +55,7 @@
 | [Personio](https://github.com/raycast/extensions/tree/main/extensions/personio) | 143 | Track your time with Personio. | boosteblume | macOS | [store](https://www.raycast.com/boosteblume/personio) |
 | [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) | 127 | V2RayA Control is a Raycast extension that allows you to easily manage and control V2RayA, a powerful network proxy tool. Quickly toggle proxy modes, and check… | masoud_hamidzadeh | macOS | [store](https://www.raycast.com/masoud_hamidzadeh/v2raya-control) |
 | [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 93 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
-| [German Train Info](https://github.com/raycast/extensions/tree/main/extensions/bahn-info) | 69 | Get real-time information about your Deutsche Bahn ICE journey including next stops, delays, speed, and connection status | arran-nz | macOS | [store](https://www.raycast.com/arran-nz/bahn-info) |
+| [German Train Info](https://github.com/raycast/extensions/tree/main/extensions/bahn-info) | 70 | Get real-time information about your Deutsche Bahn ICE journey including next stops, delays, speed, and connection status | arran-nz | macOS | [store](https://www.raycast.com/arran-nz/bahn-info) |
 | [Zeitraum](https://github.com/raycast/extensions/tree/main/extensions/zeitraum) | 30 | Track time with tags to Zeitraum server | tensor | macOS | [store](https://www.raycast.com/tensor/zeitraum) |
 | [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 26 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
 | [Rewiser](https://github.com/raycast/extensions/tree/main/extensions/rewiser) | 18 | Track and manage your Rewiser transactions directly from Raycast | rewiser_io | macOS | [store](https://www.raycast.com/rewiser_io/rewiser) |

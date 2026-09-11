@@ -25,7 +25,7 @@
 | [URL Tools](https://github.com/raycast/extensions/tree/main/extensions/url-tools) | 13,085 | Quickly encode or decode URL from the clipboard | huzef44 | macOS | [store](https://www.raycast.com/huzef44/url-tools) |
 | [URL Unshortener](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) | 1,574 | Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. | sebdanielsson | macOS, Windows | [store](https://www.raycast.com/sebdanielsson/url-unshortener) |
 | [Masked Link Generator](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) | 298 | Input a destination URL and the title of the link and receive a masked link in your clipboard. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/masked-link-generator) |
-| [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) | 124 | Instantly annotate images from your clipboard, Finder selection, or web URLs with Annotely. | codiini | macOS, Windows | [store](https://www.raycast.com/codiini/annotely) |
+| [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) | 126 | Instantly annotate images from your clipboard, Finder selection, or web URLs with Annotely. | codiini | macOS, Windows | [store](https://www.raycast.com/codiini/annotely) |
 
 ## General
 

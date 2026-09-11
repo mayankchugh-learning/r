@@ -15,7 +15,7 @@
 | [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,297 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
 | [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 1,049 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
 | [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) | 838 | Modify screen captures using the latest generative AI models. | jochemloedeman | macOS | [store](https://www.raycast.com/jochemloedeman/ai-screenshot) |
-| [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 739 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |
+| [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 740 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |
 | [PostHog](https://github.com/raycast/extensions/tree/main/extensions/posthog) | 496 | Open the web app, search PostHog resources, and run read-only analytics with AI tools. | posthog (org) | macOS, Windows | [store](https://www.raycast.com/posthog/posthog) |
 | [Inbox AI](https://github.com/raycast/extensions/tree/main/extensions/inbox-ai) | 418 | Trigger Inbox AI Actions | dreetje | macOS | [store](https://www.raycast.com/dreetje/inbox-ai) |
 | [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) | 349 | Get quick answers to your quick questions with the power of AI with this free extension. | vaibhav_sisodiya | macOS | [store](https://www.raycast.com/Vaib215/vaib) |
@@ -31,7 +31,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) | 975 | Use Baidu OCR API to recognize text. | Humber | macOS | [store](https://www.raycast.com/Humber/baidu-ocr) |
+| [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) | 976 | Use Baidu OCR API to recognize text. | Humber | macOS | [store](https://www.raycast.com/Humber/baidu-ocr) |
 | [SnapOCR Via Paddle](https://github.com/raycast/extensions/tree/main/extensions/snapocr-via-paddle) | 62 | Layout-aware multilingual OCR for complex documents, tables, and formulas with structured Markdown export via Baidu PaddleOCR | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/snapocr-via-paddle) |
 | [Capso](https://github.com/raycast/extensions/tree/main/extensions/capso) | 10 | Trigger Capso captures, OCR, recordings, and history directly from Raycast. | rcouto | macOS | [store](https://www.raycast.com/rcouto/capso) |
 | [Oh-Shoot](https://github.com/raycast/extensions/tree/main/extensions/oh-shoot) | 8 | Search your oh-shoot screenshots by their OCR text and jump straight back into the oh-shoot app. | nico_pergande | macOS | [store](https://www.raycast.com/nico_pergande/oh-shoot) |

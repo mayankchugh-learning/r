@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · **Automation & Workflows** · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-29 of 1479 extensions · [← macOS · Productivity](./README.md)
+29 of 1480 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@
 | [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) | 7,375 | List, search and run shortcuts for different applications | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/shortcuts-search) |
 | [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 5,941 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
 | [Typer - Custom Text Hotkey](https://github.com/raycast/extensions/tree/main/extensions/typer) | 2,186 | An extension for the lazy typer. Add any text you type on a regular basis into commands. Give each command an alias and a hotkey, and save time on typing. | yaronschwimmer | macOS, Windows | [store](https://www.raycast.com/yaronschwimmer/typer) |
-| [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,733 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
+| [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,735 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
 | [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,596 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
 | [Screen Sharing Recents](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) | 1,381 | Adds shortcuts to recent screen sharing locations | bix | macOS | [store](https://www.raycast.com/bix/screen-sharing-recents) |
 | [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) | 1,277 | Runs configurable application shortcut depending on the frontmost application. | cyxn | macOS | [store](https://www.raycast.com/cyxn/universal-commands) |

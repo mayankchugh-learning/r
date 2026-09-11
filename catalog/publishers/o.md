@@ -23,7 +23,7 @@
 | [oliverde8](https://www.raycast.com/oliverde8) | 1 | 433 | **Productivity:** [Excel Formula Beautifier](https://github.com/raycast/extensions/tree/main/extensions/excel-formula-beautifier) |
 | [oliverjanssen](https://www.raycast.com/oliverjanssen) | 1 | 944 | **Productivity:** [Morning Coffee](https://github.com/raycast/extensions/tree/main/extensions/morning-coffee) |
 | [olivier_bossel](https://www.raycast.com/olivier_bossel) | 1 | 8 | **Productivity:** [Spacetime Tracking](https://github.com/raycast/extensions/tree/main/extensions/spacetime-tracking) |
-| [Olli0103](https://www.raycast.com/Olli0103) | 2 | 176 | **Web:** [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog)<br>**Applications:** [Fronius Inverter](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter) |
+| [Olli0103](https://www.raycast.com/Olli0103) | 2 | 178 | **Web:** [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog)<br>**Applications:** [Fronius Inverter](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter) |
 | [omarshahine](https://www.raycast.com/omarshahine) | 1 | 105 | **Applications:** [PurpleAir](https://github.com/raycast/extensions/tree/main/extensions/purpleair) |
 | [omBratteng](https://www.raycast.com/omBratteng) | 1 | 1,502 | **Developer Tools:** [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) |
 | [omennia](https://www.raycast.com/omennia) | 1 | 23 | **Uncategorized:** [Search OEIS](https://github.com/raycast/extensions/tree/main/extensions/search-oeis) |

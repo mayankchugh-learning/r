@@ -24,14 +24,14 @@
 | [1Bookmark](https://github.com/raycast/extensions/tree/main/extensions/1bookmark) | 247 | One Bookmark Solution for Teams and Personal Use. | onebookmark | macOS | [store](https://www.raycast.com/onebookmark/1bookmark) |
 | [Bird](https://github.com/raycast/extensions/tree/main/extensions/bird) | 113 | View your X/Twitter bookmarks and likes using the bird CLI | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/bird) |
 | [Otter Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/otter) | 71 | Companion bookmarking utility for Otter bookmarks | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/otter) |
-| [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside) | 66 | Search and control open tabs, bookmarks, and browser history in Aside | asifk | macOS | [store](https://www.raycast.com/asifk/aside) |
+| [Aside](https://github.com/raycast/extensions/tree/main/extensions/aside) | 67 | Search and control open tabs, bookmarks, and browser history in Aside | asifk | macOS | [store](https://www.raycast.com/asifk/aside) |
 | [Iridium](https://github.com/raycast/extensions/tree/main/extensions/iridium) | 58 | Search open tabs, bookmarks and history in Iridium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/iridium) |
 
 ## Notes ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,598 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
+| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,618 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
 | [Tana](https://github.com/raycast/extensions/tree/main/extensions/tana) | 3,535 | Write notes in Raycast, and capture them in Tana. | cheslip | macOS | [store](https://www.raycast.com/cheslip/tana) |
 | [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,213 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) | 2,186 | Navigate within Reflect and quickly append to your daily notes. | ryon | macOS | [store](https://www.raycast.com/ryon/reflect) |
@@ -46,7 +46,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion) | 260,333 | The fastest way to search, create and update Notion pages. | notion (org) | Windows, macOS | [store](https://www.raycast.com/notion/notion) |
 | [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 6,329 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
-| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,320 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
+| [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,330 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
 | [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) | 1,098 | An extension to supercharge your research workflow with Notion | raz_gaon | macOS | [store](https://www.raycast.com/raz_gaon/notion_researcher) |
 | [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) | 608 | Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. \| Set your Owledge workspace at: https://search.owledge.app \| Documentat… | Romain | macOS | [store](https://www.raycast.com/Romain/owledge-raycast) |
 | [Accordance](https://github.com/raycast/extensions/tree/main/extensions/accordance) | 29 | Access verses and search Accordance Bible modules from Raycast | entupo | macOS | [store](https://www.raycast.com/entupo/accordance) |

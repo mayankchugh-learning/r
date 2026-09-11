@@ -11,13 +11,13 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [App Icon Generator](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) | 1,903 | Generate icons for multiple platforms: iOS, Android, macOS, and more. | HunterJi | macOS, Windows | [store](https://www.raycast.com/HunterJi/app-icon-generator) |
-| [Android](https://github.com/raycast/extensions/tree/main/extensions/android) | 1,367 | Useful Android commands to list projects and emulators | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android) |
+| [Android](https://github.com/raycast/extensions/tree/main/extensions/android) | 1,374 | Useful Android commands to list projects and emulators | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android) |
 | [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) | 1,325 | Mirror android device screen with scrcpy | zcfan | macOS | [store](https://www.raycast.com/zcfan/scrcpy) |
 | [Android Debug Bridge (Adb) Commands](https://github.com/raycast/extensions/tree/main/extensions/adb) | 1,122 | Run useful adb commands | Quentin23Soleil | macOS | [store](https://www.raycast.com/Quentin23Soleil/adb) |
 | [Simulator Manager](https://github.com/raycast/extensions/tree/main/extensions/simulator-manager) | 1,046 | Manage iOS simulators and Android emulators with ease. Boot, shutdown, and open simulators directly from Raycast. | pauloedurezende | macOS | [store](https://www.raycast.com/pauloedurezende/simulator-manager) |
 | [Android ADB Input](https://github.com/raycast/extensions/tree/main/extensions/android-adb-input) | 794 | Run Android `adb shell input text` command. | star_zero | macOS | [store](https://www.raycast.com/star_zero/android-adb-input) |
 | [Open in Android Studio](https://github.com/raycast/extensions/tree/main/extensions/open-in-android-studio) | 385 | Open current Finder directory, selected folder in Android Studio, Add your favorite projects for quick access. | 3llomi | macOS | [store](https://www.raycast.com/3llomi/open-in-android-studio) |
-| [Android Versions](https://github.com/raycast/extensions/tree/main/extensions/android-versions) | 240 | Search quickly between Android version number, API level, codename. | bruce3x | macOS | [store](https://www.raycast.com/bruce3x/android-versions) |
+| [Android Versions](https://github.com/raycast/extensions/tree/main/extensions/android-versions) | 242 | Search quickly between Android version number, API level, codename. | bruce3x | macOS | [store](https://www.raycast.com/bruce3x/android-versions) |
 | [Android Screen Capture](https://github.com/raycast/extensions/tree/main/extensions/android-screen-capture) | 230 | Screenshot & screenrecords of Android via ADB | chenhuazhao | macOS | [store](https://www.raycast.com/chenhuazhao/android-screen-capture) |
 
 ## Flutter ✦

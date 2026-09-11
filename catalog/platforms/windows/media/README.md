@@ -14,7 +14,7 @@
 | [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter) | 26,025 | This extension converts video, image, and audio files using FFmpeg | leandro.maia | macOS, Windows | [store](https://www.raycast.com/leandro.maia/media-converter) |
 | [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 7,181 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |
 | [Cobalt](https://github.com/raycast/extensions/tree/main/extensions/cobalt) | 6,720 | Download videos and audio from popular social media platforms with ease. | aelew | macOS, Windows | [store](https://www.raycast.com/aelew/cobalt) |
-| [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,598 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
+| [BPM Calculator](https://github.com/raycast/extensions/tree/main/extensions/beat-per-minute) | 4,618 | Calculate BPM for a song by using the enter button on the keyboard | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/beat-per-minute) |
 | [Genius Lyrics](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) | 2,554 | Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API. | tkdkid1000 | macOS, Windows | [store](https://www.raycast.com/tkdkid1000/genius-lyrics) |
 | [Pianoman](https://github.com/raycast/extensions/tree/main/extensions/pianoman) | 1,212 | Show piano chords and scales | juhamust | macOS, Windows | [store](https://www.raycast.com/juhamust/pianoman) |
 | [Odesli](https://github.com/raycast/extensions/tree/main/extensions/odesli) | 491 | Convert song/album links to Odesli links. Odesli is a service that provides smart music links. These links show a list of platforms you can hear the song/album… | annedouwe | macOS, Windows | [store](https://www.raycast.com/annedouwe/odesli) |
@@ -24,7 +24,7 @@
 | [Eurovision Song Contest](https://github.com/raycast/extensions/tree/main/extensions/eurovision-song-contest) | 44 | Discover information about the world's largest live music event | jacpd | macOS, Windows | [store](https://www.raycast.com/jacpd/eurovision-song-contest) |
 | [Jellyamp](https://github.com/raycast/extensions/tree/main/extensions/jellyamp) | 37 | Search and play music from your Jellyfin server | opkelde | macOS, Windows | [store](https://www.raycast.com/opkelde/jellyamp) |
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 21 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
-| [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | 0 | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/media-switcher) |
+| [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | 1 | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/media-switcher) |
 
 ### Video & Streaming
 
@@ -81,7 +81,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,711 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,718 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Goodreads](https://github.com/raycast/extensions/tree/main/extensions/goodreads) | 2,013 | Search Goodreads books, authors and more | puneeth | macOS, Windows | [store](https://www.raycast.com/puneeth/goodreads) |
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 925 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) | 4 | Search your Melanite library by file name and tag name, with thumbnail previews. | masuipeo | macOS, Windows | [store](https://www.raycast.com/masuipeo/melanite-search) |
@@ -119,7 +119,7 @@
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 813 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Jellyfin](https://github.com/raycast/extensions/tree/main/extensions/jellyfin) | 808 | Find Movies and Shows on your Jellyfin Instance | d2a | macOS, Windows | [store](https://www.raycast.com/d2a/jellyfin) |
 | [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 786 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |
-| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 705 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
+| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 708 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [Playnite Launcher](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) | 600 | Launch your favorite games using Playnite. | bennettsh | Windows | [store](https://www.raycast.com/bennettsh/playnite-launcher) |
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 320 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [The Noble Quran](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) | 287 | Explore The Noble Quran | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/the-noble-quran) |

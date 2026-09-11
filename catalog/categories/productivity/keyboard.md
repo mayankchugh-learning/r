@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 70,396 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
+| [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) | 70,782 | Lock your keyboard to clean it easily | ike-gg | macOS, Windows | [store](https://www.raycast.com/ike-gg/clean-keyboard) |
 | [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 43,714 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
 | [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 26,737 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
 | [Podcasts](https://github.com/raycast/extensions/tree/main/extensions/podcasts) | 5,975 | Control the Podcasts app for macOS with your keyboard. | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/podcasts) |
@@ -16,4 +16,4 @@
 | [Arabic Keyboard](https://github.com/raycast/extensions/tree/main/extensions/arabic-keyboard) | 121 | Arabic Keyboard for Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/arabic-keyboard) |
 | [Ozbargain Deals](https://github.com/raycast/extensions/tree/main/extensions/ozbargain-deals) | 42 | Your lightning-fast portal to the latest and hottest deals from OzBargain. Browse new bargains, check their popularity score, and jump straight to the deal or… | 55555 | macOS | [store](https://www.raycast.com/55555/ozbargain-deals) |
 | [Dodo Payments](https://github.com/raycast/extensions/tree/main/extensions/dodo-payments) | 38 | Manage all your Dodo Payments orders, payments, subscriptions, discounts, license keys, disputes, refunds and payouts, right from your keyboard. | dodopayments | macOS | [store](https://www.raycast.com/dodopayments/dodo-payments) |
-| [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | 0 | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/media-switcher) |
+| [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | 1 | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/media-switcher) |

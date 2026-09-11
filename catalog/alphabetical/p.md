@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-216 extensions · [← catalog index](../README.md)
+217 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -219,6 +219,7 @@
 | [Pixtuoid](https://github.com/raycast/extensions/tree/main/extensions/pixtuoid) | 5 | Manage which AI coding-agent CLIs feed your Pixtuoid office, and launch the floating window — without leaving Raycast. | IvanWng97 | macOS | [store](https://www.raycast.com/IvanWng97/pixtuoid) |
 | [Portal Wholesale](https://github.com/raycast/extensions/tree/main/extensions/portal-wholesale) | 5 | Search and manage Portal Wholesale brands | nickdichev | macOS | [store](https://www.raycast.com/nickdichev/portal-wholesale) |
 | [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) | 4 | Manages and shows uptime status for services using Phare.io | ApopeOS | macOS | [store](https://www.raycast.com/ApopeOS/phare-io-uptime) |
+| [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) | 4 | Call anyone in your Contacts through your iPhone in two keystrokes via macOS Continuity. | amir01 | macOS | [store](https://www.raycast.com/amir01/phone) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 2 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
 | [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay) | 2 | Send real-time updates to your PushToDisplay boards | pushtodisplay | macOS | [store](https://www.raycast.com/pushtodisplay/pushtodisplay) |
-| [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) | 1 | Call anyone in your Contacts through your iPhone in two keystrokes via macOS Continuity. | amir01 | macOS | [store](https://www.raycast.com/amir01/phone) |
+| [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders) | 0 | Browse creative project folders and jump to Asana, Google Drive, and Frame.io links. | hugini | macOS | [store](https://www.raycast.com/hugini/project-folders) |

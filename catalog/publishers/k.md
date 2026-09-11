@@ -56,25 +56,25 @@
 | [kjbakke](https://www.raycast.com/kjbakke) | 1 | 2 | **Fun:** [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) |
 | [klaa97](https://www.raycast.com/klaa97) | 1 | 2,530 | **Developer Tools:** [Google Cloud Platform Search](https://github.com/raycast/extensions/tree/main/extensions/google-cloud-platform-search) |
 | [klkvsky](https://www.raycast.com/klkvsky) | 1 | 572 | **News:** [Recent News](https://github.com/raycast/extensions/tree/main/extensions/the-verge) |
-| [kmusick](https://www.raycast.com/kmusick) | 1 | 4,229 | **Applications:** [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) |
+| [kmusick](https://www.raycast.com/kmusick) | 1 | 4,241 | **Applications:** [Bartender](https://github.com/raycast/extensions/tree/main/extensions/bartender) |
 | [knealking](https://www.raycast.com/knealking) | 1 | 364 | **Developer Tools:** [Dotmate](https://github.com/raycast/extensions/tree/main/extensions/dotmate) |
 | [knownasilya](https://www.raycast.com/knownasilya) | 1 | 31 | **Productivity:** [TeamGantt](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) |
 | [knowwa](https://www.raycast.com/knowwa) | 1 | 34 | **Productivity:** [Knowwa](https://github.com/raycast/extensions/tree/main/extensions/knowwa) |
 | [koala1206](https://www.raycast.com/koala1206) | 2 | 3,056 | **Productivity:** [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder)<br>**Developer Tools:** [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) |
 | [koayon](https://www.raycast.com/koayon) | 2 | 1,893 | **Productivity:** [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv)<br>**News:** [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) |
 | [koh-sh](https://www.raycast.com/koh-sh) | 1 | 313 | **Developer Tools:** [Slack Templated Message](https://github.com/raycast/extensions/tree/main/extensions/slack-templated-message) |
-| [koinzhang](./id/koinzhang.md) | 50 | 270,905 | [see all 50 →](./id/koinzhang.md) |
+| [koinzhang](./id/koinzhang.md) | 50 | 270,978 | [see all 50 →](./id/koinzhang.md) |
 | [kom](https://www.raycast.com/kom) | 1 | 15,934 | **Productivity:** [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) |
 | [konojunya](https://www.raycast.com/konojunya) | 1 | 325 | **Developer Tools:** [ghq](https://github.com/raycast/extensions/tree/main/extensions/ghq) |
-| [kopach](https://www.raycast.com/kopach) | 1 | 1,263 | **Uncategorized:** [ChatGPT Search](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-search) |
+| [kopach](https://www.raycast.com/kopach) | 1 | 1,265 | **Uncategorized:** [ChatGPT Search](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-search) |
 | [koushik](https://www.raycast.com/koushik) | 1 | 7 | **Developer Tools:** [Commit Sounds](https://github.com/raycast/extensions/tree/main/extensions/commit-sound-controls) |
 | [krakowiak](https://www.raycast.com/krakowiak) | 1 | 52 | **Web:** [Rdir](https://github.com/raycast/extensions/tree/main/extensions/rdir) |
-| [krishna_bhanushali](https://www.raycast.com/krishna_bhanushali) | 1 | 640 | **Productivity:** [Clipboard Type](https://github.com/raycast/extensions/tree/main/extensions/clipboard-type) |
+| [krishna_bhanushali](https://www.raycast.com/krishna_bhanushali) | 1 | 647 | **Productivity:** [Clipboard Type](https://github.com/raycast/extensions/tree/main/extensions/clipboard-type) |
 | [krmbzds](https://www.raycast.com/krmbzds) | 1 | 141 | **Productivity:** [FlashSpace](https://github.com/raycast/extensions/tree/main/extensions/flashspace) |
 | [krod12](https://www.raycast.com/krod12) | 1 | 534 | **Media:** [RatingsDB](https://github.com/raycast/extensions/tree/main/extensions/ratingsdb) |
 | [krsntn](https://www.raycast.com/krsntn) | 1 | 919 | **Productivity:** [Guerrilla Mail](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) |
 | [krzysztoff1](https://www.raycast.com/krzysztoff1) | 1 | 2,783 | **Developer Tools:** [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) |
-| [krzysztofzuraw](https://www.raycast.com/krzysztofzuraw) | 2 | 20,388 | **Productivity:** [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn)<br>**Developer Tools:** [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) |
+| [krzysztofzuraw](https://www.raycast.com/krzysztofzuraw) | 2 | 20,389 | **Productivity:** [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn)<br>**Developer Tools:** [Conventional Comments](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) |
 | [ksc73450056](https://www.raycast.com/ksc73450056) | 1 | 4 | **System:** [Toggle Trackpad](https://github.com/raycast/extensions/tree/main/extensions/toggle-trackpad) |
 | [KthKuang](https://www.raycast.com/KthKuang) | 1 | 183 | **Productivity:** [Manus](https://github.com/raycast/extensions/tree/main/extensions/manus) |
 | [kud](./id/kud.md) | 13 | 6,726 | [see all 13 →](./id/kud.md) |

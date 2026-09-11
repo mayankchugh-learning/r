@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [g-mai](https://www.raycast.com/g-mai) | 1 | 5 | **Productivity:** [WooCommerce Quicker](https://github.com/raycast/extensions/tree/main/extensions/woocommerce-quicker) |
 | [g0d](https://www.raycast.com/g0d) | 1 | 563 | **Productivity:** [Time](https://github.com/raycast/extensions/tree/main/extensions/time) |
-| [gamerslouis](https://www.raycast.com/gamerslouis) | 1 | 189 | **Developer Tools:** [Certificate Viewer](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) |
+| [gamerslouis](https://www.raycast.com/gamerslouis) | 1 | 190 | **Developer Tools:** [Certificate Viewer](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) |
 | [gandli](https://www.raycast.com/gandli) | 1 | 1,589 | **Productivity:** [Memorable Password Generator](https://github.com/raycast/extensions/tree/main/extensions/memorable-generate-password) |
 | [gaosunhao](https://www.raycast.com/gaosunhao) | 1 | 123 | **Uncategorized:** [SVG Studio](https://github.com/raycast/extensions/tree/main/extensions/svg-studio) |
 | [gaoyang](https://www.raycast.com/gaoyang) | 2 | 3,291 | **Media:** [DouTu](https://github.com/raycast/extensions/tree/main/extensions/doutu)<br>**Developer Tools:** [NuGet Package Explorer](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) |
@@ -24,7 +24,7 @@
 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 48,612 | **Developer Tools:** [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains)<br>**Data:** [JWT Decoder](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) |
 | [gebeto](https://www.raycast.com/gebeto) | 3 | 462,357 | **Web:** [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate)<br>**Fun:** [Dribbble](https://github.com/raycast/extensions/tree/main/extensions/dribbble), [UpLabs](https://github.com/raycast/extensions/tree/main/extensions/uplabs) |
 | [geekdada](https://www.raycast.com/geekdada) | 2 | 1,984 | **Productivity:** [Linguee](https://github.com/raycast/extensions/tree/main/extensions/linguee)<br>**Developer Tools:** [Kimi for Coding](https://github.com/raycast/extensions/tree/main/extensions/kimi-for-coding) |
-| [GenuineCheddar](https://www.raycast.com/GenuineCheddar) | 1 | 808 | **Other:** [Clean Text](https://github.com/raycast/extensions/tree/main/extensions/clean-text) |
+| [GenuineCheddar](https://www.raycast.com/GenuineCheddar) | 1 | 810 | **Other:** [Clean Text](https://github.com/raycast/extensions/tree/main/extensions/clean-text) |
 | [gerardkeane](https://www.raycast.com/gerardkeane) | 1 | 359 | **News:** [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) |
 | [gersomvg](https://www.raycast.com/gersomvg) | 1 | 712 | **Productivity:** [Website Blocker](https://github.com/raycast/extensions/tree/main/extensions/website-blocker) |
 | [getclarify](https://www.raycast.com/getclarify) | 1 | 75 | **Data:** [Clarify](https://github.com/raycast/extensions/tree/main/extensions/clarify) |
@@ -54,7 +54,7 @@
 | [goran_breivik](https://www.raycast.com/goran_breivik) | 1 | 29 | **News:** [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) |
 | [Gorzog](https://www.raycast.com/Gorzog) | 1 | 3,618 | **Productivity:** [Spell](https://github.com/raycast/extensions/tree/main/extensions/spell) |
 | [grafbase](https://www.raycast.com/grafbase) | 1 | 68 | **Developer Tools:** [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) |
-| [graham_hall](https://www.raycast.com/graham_hall) | 1 | 133 | **Fun:** [Board Game Geek](https://github.com/raycast/extensions/tree/main/extensions/board-game-geek) |
+| [graham_hall](https://www.raycast.com/graham_hall) | 1 | 134 | **Fun:** [Board Game Geek](https://github.com/raycast/extensions/tree/main/extensions/board-game-geek) |
 | [gregoralbrecht](https://www.raycast.com/gregoralbrecht) | 1 | 3,058 | **Uncategorized:** [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) |
 | [gregskril](https://www.raycast.com/gregskril) | 1 | 263 | **Applications:** [Searchcaster](https://github.com/raycast/extensions/tree/main/extensions/searchcaster) |
 | [greirson](https://www.raycast.com/greirson) | 1 | 547 | **Design Tools:** [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) |
@@ -62,9 +62,9 @@
 | [grosst](https://www.raycast.com/grosst) | 1 | 1,984 | **Media:** [Video Converter](https://github.com/raycast/extensions/tree/main/extensions/video-converter) |
 | [grrrck](https://www.raycast.com/grrrck) | 1 | 198 | **Developer Tools:** [Search R Packages](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) |
 | [grzegorzkrukowski](https://www.raycast.com/grzegorzkrukowski) | 1 | 1,130 | **Finance:** [Binance Portfolio](https://github.com/raycast/extensions/tree/main/extensions/binance) |
-| [gstvds](https://www.raycast.com/gstvds) | 2 | 30,910 | **System:** [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine)<br>**Developer Tools:** [CPF/CNPJ Generator](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) |
+| [gstvds](https://www.raycast.com/gstvds) | 2 | 31,018 | **System:** [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine)<br>**Developer Tools:** [CPF/CNPJ Generator](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) |
 | [guelug](https://www.raycast.com/guelug) | 1 | 498 | **Productivity:** [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) |
-| [guide](https://www.raycast.com/guide) | 2 | 1,996 | **Productivity:** [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps)<br>**Developer Tools:** [MacPorts](https://github.com/raycast/extensions/tree/main/extensions/macports) |
+| [guide](https://www.raycast.com/guide) | 2 | 1,998 | **Productivity:** [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps)<br>**Developer Tools:** [MacPorts](https://github.com/raycast/extensions/tree/main/extensions/macports) |
 | [guilhermevictor](https://www.raycast.com/guilhermevictor) | 1 | 825 | **Web:** [Oxford Collocation Dictionary](https://github.com/raycast/extensions/tree/main/extensions/oxford-collocation-dictionary) |
 | [gumbleliks](https://www.raycast.com/gumbleliks) | 1 | 804 | **Finance:** [Coinpaprika](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) |
 | [guoxudong](https://www.raycast.com/guoxudong) | 1 | 286 | **Developer Tools:** [Saved Items](https://github.com/raycast/extensions/tree/main/extensions/saved-items) |

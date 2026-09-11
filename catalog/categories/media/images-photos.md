@@ -51,7 +51,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Pika](https://github.com/raycast/extensions/tree/main/extensions/pika) | 946 | Beautify screenshots quickly using pika.style | rishi | macOS | [store](https://www.raycast.com/rishi/pika) |
-| [Capture Raycast Metadata](https://github.com/raycast/extensions/tree/main/extensions/capture-raycast-metadata) | 890 | Capture a screenshot for Raycast extension's metadata. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/capture-raycast-metadata) |
+| [Capture Raycast Metadata](https://github.com/raycast/extensions/tree/main/extensions/capture-raycast-metadata) | 891 | Capture a screenshot for Raycast extension's metadata. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/capture-raycast-metadata) |
 | [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 14 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
 | [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) | 4 | Search and copy dialogue screenshots from MyGO!!!!! and Ave Mujica. | luke_lin | macOS | [store](https://www.raycast.com/luke_lin/bang-dream-screenshot-search) |
 
@@ -70,7 +70,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 97,838 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
-| [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos) | 1,076 | Browse your recent Apple Photos in a grid and paste the latest photo directly into any app. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/apple-photos) |
+| [Apple Photos](https://github.com/raycast/extensions/tree/main/extensions/apple-photos) | 1,079 | Browse your recent Apple Photos in a grid and paste the latest photo directly into any app. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/apple-photos) |
 | [Avatar](https://github.com/raycast/extensions/tree/main/extensions/avatar) | 932 | An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/avatar) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 570 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [OSS](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) | 154 | Publish the picture in your clipboard to Aliyun oss, and return the URL. | yangxy | macOS | [store](https://www.raycast.com/yangxy/oss) |

@@ -16,7 +16,7 @@
 | [zayn_harris_dev](https://www.raycast.com/zayn_harris_dev) | 1 | 75 | **Applications:** [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) |
 | [zcfan](https://www.raycast.com/zcfan) | 1 | 1,325 | **Developer Tools:** [Scrcpy](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) |
 | [zcsabbagh](https://www.raycast.com/zcsabbagh) | 1 | 965 | **System:** [Toggle Grayscale](https://github.com/raycast/extensions/tree/main/extensions/toggle-grayscale) |
-| [zebapy](https://www.raycast.com/zebapy) | 1 | 109 | **Developer Tools:** [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) |
+| [zebapy](https://www.raycast.com/zebapy) | 1 | 110 | **Developer Tools:** [APIs Guru Search](https://github.com/raycast/extensions/tree/main/extensions/apis-guru-search) |
 | [zeekrey](https://www.raycast.com/zeekrey) | 1 | 1,306 | **Productivity:** [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) |
 | [zengtianli](https://www.raycast.com/zengtianli) | 1 | 67 | **Productivity:** [DocKit - Document Toolkit](https://github.com/raycast/extensions/tree/main/extensions/dockit) |
 | [zephraph](https://www.raycast.com/zephraph) | 1 | 390 | **Other:** [tldraw](https://github.com/raycast/extensions/tree/main/extensions/tldraw) |

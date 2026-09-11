@@ -9,7 +9,7 @@
 | [qazi0](https://www.raycast.com/qazi0) | 1 | 2,401 | **Developer Tools:** [ClaudeCast](https://github.com/raycast/extensions/tree/main/extensions/claudecast) |
 | [qcrao](https://www.raycast.com/qcrao) | 1 | 199 | **Productivity:** [Markdown Styler](https://github.com/raycast/extensions/tree/main/extensions/markdown-styler) |
 | [qdequele](https://www.raycast.com/qdequele) | 1 | 537 | **Fun:** [Crunchbase](https://github.com/raycast/extensions/tree/main/extensions/crunchbase) |
-| [Qetesh](https://www.raycast.com/Qetesh) | 1 | 3,162 | **System:** [Battery Optimizer](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) |
+| [Qetesh](https://www.raycast.com/Qetesh) | 1 | 3,164 | **System:** [Battery Optimizer](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) |
 | [qeude](https://www.raycast.com/qeude) | 4 | 6,234 | **Design Tools:** [Color Shades](https://github.com/raycast/extensions/tree/main/extensions/color-shades)<br>**Productivity:** [Close Finder](https://github.com/raycast/extensions/tree/main/extensions/close-finder)<br>**Developer Tools:** [CircleCI Workflows](https://github.com/raycast/extensions/tree/main/extensions/circle-ci), [Markdown Image to HTML](https://github.com/raycast/extensions/tree/main/extensions/markdown-image-to-html) |
 | [QIanGua](https://www.raycast.com/QIanGua) | 2 | 2,664 | **Applications:** [Hookmark Search](https://github.com/raycast/extensions/tree/main/extensions/search-hookmark)<br>**Productivity:** [Metaphor](https://github.com/raycast/extensions/tree/main/extensions/metaphor) |
 | [qlaffont](https://www.raycast.com/qlaffont) | 1 | 5 | **Applications:** [BetterCapture](https://github.com/raycast/extensions/tree/main/extensions/bettercapture) |

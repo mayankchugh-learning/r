@@ -1,6 +1,6 @@
 # litomore
 
-13 extensions · 13,534 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
+13 extensions · 13,537 downloads · [store](https://www.raycast.com/litomore) · [← publishers](../README.md)
 
 ## Design Tools (2)
 
@@ -43,4 +43,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 705 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
+| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 708 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |

@@ -33,10 +33,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,349 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
+| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,351 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
 | [Pinboard](https://github.com/raycast/extensions/tree/main/extensions/pinboard) | 1,572 | Post new bookmarks to Pinboard and search through your Pinboard bookmarks. Tip: Assign a global shortcut to the "Add Bookmark" command, select a URL, and then… | fe9lix | macOS | [store](https://www.raycast.com/fe9lix/pinboard) |
 | [v2ex](https://github.com/raycast/extensions/tree/main/extensions/v2ex) | 813 | You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your… | leo | macOS | [store](https://www.raycast.com/leo/v2ex) |
-| [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) | 65 | Integrate beehiiv with Raycast, allowing you to search for posts, check statistics, show subscribers count in the menu bar, and more. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/beehiiv) |
+| [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) | 66 | Integrate beehiiv with Raycast, allowing you to search for posts, check statistics, show subscribers count in the menu bar, and more. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/beehiiv) |
 | [WordPress Manager](https://github.com/raycast/extensions/tree/main/extensions/wordpress-manager) | 60 | Manage your WordPress site directly from Raycast. Create posts, moderate comments, manage plugins, and more. | gaurav_tiwari | macOS | [store](https://www.raycast.com/gaurav_tiwari/wordpress-manager) |
 
 ## General

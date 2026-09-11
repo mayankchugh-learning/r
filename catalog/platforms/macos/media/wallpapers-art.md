@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Raycast Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) | 22,129 | Get and set Raycast official wallpapers. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/raycast-wallpaper) |
 | [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 14,131 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
-| [Bing Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/bing-wallpaper) | 2,148 | Get, set, auto-switch Bing wallpapers to explore the world. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bing-wallpaper) |
+| [Bing Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/bing-wallpaper) | 2,150 | Get, set, auto-switch Bing wallpapers to explore the world. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bing-wallpaper) |
 | [Art Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/another-boring-piece) | 340 | Another boring piece. Daily. | yevgen_glukhov | macOS, Windows | [store](https://www.raycast.com/yevgen_glukhov/another-boring-piece) |
 | [Wallhaven](https://github.com/raycast/extensions/tree/main/extensions/wallhaven) | 246 | Browse and download desktop wallpapers from Wallhaven. | devadathanmb | macOS | [store](https://www.raycast.com/devadathanmb/wallhaven) |
 | [Frame Crop - Discover Art for Your TV](https://github.com/raycast/extensions/tree/main/extensions/frame-crop) | 129 | Discover & download amazing artwork curated by Frame Crop | jsheffers | macOS | [store](https://www.raycast.com/jsheffers/frame-crop-art) |

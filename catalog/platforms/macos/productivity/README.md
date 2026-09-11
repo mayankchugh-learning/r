@@ -1,6 +1,6 @@
 # macOS · Productivity
 
-1479 extensions · [← macOS](../README.md)
+1480 extensions · [← macOS](../README.md)
 
 ## Organize & Plan
 
@@ -17,7 +17,7 @@
 | --- | --- |
 | [AI & Assistants](./ai-assistants.md) | 129 |
 | [Writing & Text Tools](./writing-text-tools.md) | 74 |
-| [Documents & Files](./documents-files.md) | 130 |
+| [Documents & Files](./documents-files.md) | 131 |
 | [Email](./email.md) | 23 |
 
 ## Workflow & Speed
