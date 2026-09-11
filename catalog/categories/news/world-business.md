@@ -4,15 +4,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 728 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
-| [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 719 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
-| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 594 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
-| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 570 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
+| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 729 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
+| [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 722 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
+| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 597 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
+| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 571 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [Headlines](https://github.com/raycast/extensions/tree/main/extensions/headlines) | 432 | Super breif news extension. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/headlines) |
-| [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 359 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
+| [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 360 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 224 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
-| [early.tools news](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) | 177 | Long-form updates from 80+ of the greatest entrepreneurs on the web. | julianpaul | macOS | [store](https://www.raycast.com/julianpaul/early-tools-news) |
-| [ifanr](https://github.com/raycast/extensions/tree/main/extensions/ifanr) | 103 | Read the latest news from ifanr | madcodelife | macOS | [store](https://www.raycast.com/madcodelife/ifanr) |
+| [early.tools news](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) | 178 | Long-form updates from 80+ of the greatest entrepreneurs on the web. | julianpaul | macOS | [store](https://www.raycast.com/julianpaul/early-tools-news) |
+| [ifanr](https://github.com/raycast/extensions/tree/main/extensions/ifanr) | 104 | Read the latest news from ifanr | madcodelife | macOS | [store](https://www.raycast.com/madcodelife/ifanr) |
 | [Habr News](https://github.com/raycast/extensions/tree/main/extensions/habr-media) | 76 | Best News From Habr | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/habr-media) |
 | [VC.ru Popular News](https://github.com/raycast/extensions/tree/main/extensions/vc-ru-news) | 70 | List popular news from VC.ru | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/vc-ru-news) |
 | [Omni News](https://github.com/raycast/extensions/tree/main/extensions/omni-news) | 64 | Fetching news from omni.se | MacRayCast | macOS | [store](https://www.raycast.com/MacRayCast/omni-news) |

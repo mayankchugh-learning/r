@@ -7,9 +7,9 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 383 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
-| [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 156 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |
+| [Transfer.sh Uploader](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) | 157 | Upload a file directly to a transfer.sh instance | PandaDEV | macOS | [store](https://www.raycast.com/PandaDEV/transfer-sh_upload) |
 | [Colima](https://github.com/raycast/extensions/tree/main/extensions/colima) | 155 | Manage Colima virtual machine instances and Docker environments directly from Raycast | MiskaMyasa | macOS | [store](https://www.raycast.com/MiskaMyasa/colima) |
 | [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 56 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |
 | [Virtualizor Enduser](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) | 23 | Manage Virtualizor Enduser instance | xmok | macOS | [store](https://www.raycast.com/xmok/virtualizor-enduser) |
 | [ArchiSteamFarm](https://github.com/raycast/extensions/tree/main/extensions/archisteamfarm) | 20 | Interact with your locally hosted ASF instance via Raycast! | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/archisteamfarm) |
-| [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) | 0 | View the status of endpoints monitored by your Gatus instance. | romain_lajeunesse | macOS, Windows | [store](https://www.raycast.com/romain_lajeunesse/gatus-status) |
+| [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) | 1 | View the status of endpoints monitored by your Gatus instance. | romain_lajeunesse | macOS, Windows | [store](https://www.raycast.com/romain_lajeunesse/gatus-status) |

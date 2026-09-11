@@ -6,4 +6,4 @@
 | --- | --- | --- | --- | --- | --- |
 | [Chatbase](https://github.com/raycast/extensions/tree/main/extensions/chatbase) | 101 | AI agents for magical customer experiences | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/chatbase) |
 | [Crisp](https://github.com/raycast/extensions/tree/main/extensions/crisp) | 92 | Manage Crisp conversations quickly, all websites conversations in one place | xmorse | macOS | [store](https://www.raycast.com/xmorse/crisp) |
-| [Chatwoot](https://github.com/raycast/extensions/tree/main/extensions/chatwoot) | 25 | The modern, open source, self-hosted customer support platform | xmok | macOS | [store](https://www.raycast.com/xmok/chatwoot) |
+| [Chatwoot](https://github.com/raycast/extensions/tree/main/extensions/chatwoot) | 26 | The modern, open source, self-hosted customer support platform | xmok | macOS | [store](https://www.raycast.com/xmok/chatwoot) |
