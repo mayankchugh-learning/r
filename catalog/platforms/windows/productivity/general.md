@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-116 of 370 extensions · [← Windows · Productivity](./README.md)
+117 of 371 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 70,242 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 63,829 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
 | [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 63,331 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
+| [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 54,788 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS, Windows | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
 | [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case) | 50,827 | Transform a string between camelCase, snake_case, CONSTANT_CASE, and more | erics118 | macOS, Windows | [store](https://www.raycast.com/erics118/change-case) |
 | [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 41,995 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [Password Generator](https://github.com/raycast/extensions/tree/main/extensions/password-generator) | 39,035 | Generates a password from 5–64 characters with options for case, special characters, and more | joshuaiz | macOS, Windows | [store](https://www.raycast.com/joshuaiz/password-generator) |

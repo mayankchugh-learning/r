@@ -9,7 +9,7 @@
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
 | 1 | [xmok](./id/xmok.md) | 114 | 12,375 |
-| 2 | [koinzhang](./id/koinzhang.md) | 50 | 271,325 |
+| 2 | [koinzhang](./id/koinzhang.md) | 50 | 271,356 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 96,991 |
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 174,728 |
 | 5 | [alexi.build](./id/alexi-build.md) | 18 | 2,084 |
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 159,113 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,062 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,680 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,188,613 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,188,692 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 315,372 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,506 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 429,435 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 9 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 714,460 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 529,626 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 714,529 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 529,668 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 369,093 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 307,300 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 270,557 |
@@ -409,7 +409,7 @@
 | 399 | [benvp](https://www.raycast.com/benvp) | 1 | 70,242 |
 | 400 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 61,577 |
 | 401 | [simicvm](https://www.raycast.com/simicvm) | 1 | 59,753 |
-| 402 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 54,429 |
+| 402 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 54,788 |
 | 403 | [MarkusLanger](https://www.raycast.com/MarkusLanger) | 1 | 49,457 |
 | 404 | [priithaamer](https://www.raycast.com/priithaamer) | 1 | 49,092 |
 | 405 | [mackopes](https://www.raycast.com/mackopes) | 1 | 47,530 |

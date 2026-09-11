@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3265bb411805c4717a56728e2dd4b24710d0549d",
-  "generatedAt": "2026-09-11T15:16:40.118Z",
-  "downloadsRefreshedAt": "2026-09-11T15:16:39.052Z",
+  "commit": "f916000ff45ae2d99563820dcbef93ad458780bc",
+  "generatedAt": "2026-09-11T15:27:41.750Z",
+  "downloadsRefreshedAt": "2026-09-11T15:27:41.309Z",
   "count": 3288,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 555651
+      "downloads": 555730
     },
     {
       "dir": "color-shades",
@@ -22539,7 +22539,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 529626
+      "downloads": 529668
     },
     {
       "dir": "google-chrome-profiles",
@@ -28944,7 +28944,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 714460
+      "downloads": 714529
     },
     {
       "dir": "kimai",
@@ -34182,7 +34182,7 @@
       "store": "https://www.raycast.com/koinzhang/menubar-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar",
       "treeSha": "dc0e2c3d714bcc8f774ef0b8c04caddf97d5bd1e",
-      "downloads": 5769
+      "downloads": 5800
     },
     {
       "dir": "menubar-weather",
@@ -55533,10 +55533,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/keito4/spark-mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spark-mail",
       "treeSha": "2f8841c472610d8178a09eef1f7a3f6b2e9bc2f5",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "spatie-documentation",
@@ -61155,19 +61155,20 @@
       "description": "Manage Bluetooth connections in Raycast.",
       "author": "VladCuciureanu",
       "owner": null,
-      "contributors": 10,
+      "contributors": 11,
       "categories": [
         "Productivity",
         "System"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/VladCuciureanu/toothpick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/toothpick",
-      "treeSha": "d7dba0abaea7373dc87b44615772b5b1c79fe19d",
-      "downloads": 54429
+      "treeSha": "b6ebf585d044592e7e4cad6f27a658cefffd9dcc",
+      "downloads": 54788
     },
     {
       "dir": "torbox",

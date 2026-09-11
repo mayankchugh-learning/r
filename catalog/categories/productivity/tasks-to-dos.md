@@ -56,7 +56,7 @@
 | [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 111,443 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
 | [Fantastical](https://github.com/raycast/extensions/tree/main/extensions/fantastical) | 20,708 | Create Fantastical events and reminders using Fantastical's natural language processing. | devahschaefers | macOS | [store](https://www.raycast.com/devahschaefers/fantastical) |
 | [Simple Reminder](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) | 5,953 | Set your reminders in natural language without the need to have any application installed. | comoser | macOS | [store](https://www.raycast.com/comoser/simple-reminder) |
-| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,769 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
+| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,800 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
 | [Korean Add Calendar](https://github.com/raycast/extensions/tree/main/extensions/korean-add-calendar) | 26 | Create Apple Calendar events or reminders from Korean natural language. | hjm79 | macOS | [store](https://www.raycast.com/hjm79/korean-add-calendar) |
 
 ## General

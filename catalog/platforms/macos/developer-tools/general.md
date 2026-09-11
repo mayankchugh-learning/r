@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 714,460 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 714,529 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 170,409 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 103,288 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 63,829 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -22,7 +22,7 @@
 | [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | 6,738 | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |
 | [WiFi Password Reveal](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal) | 5,987 | Reveal any saved WiFi Password on macOS or Windows | louishuyng | macOS, Windows | [store](https://www.raycast.com/louishuyng/wifi-password-reveal) |
 | [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 5,941 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
-| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,769 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
+| [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,800 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
 | [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,407 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
 | [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,724 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [Raytyping](https://github.com/raycast/extensions/tree/main/extensions/raytyping) | 4,665 | This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/raytyping) |

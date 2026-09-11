@@ -43,7 +43,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 54,429 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
+| [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 54,788 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS, Windows | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
 | [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) | 20,852 | Shows live information about the battery in your Mac! | o1y | macOS | [store](https://www.raycast.com/o1y/battery-health) |
 | [AirPods Noise Control](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) | 8,558 | Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. | chrahe | macOS | [store](https://www.raycast.com/chrahe/airpods-noise-control) |
 | [Toggle Audio Input (Microphone)](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) | 7,181 | Extension to mute/unmute audio input (Microphone) | Quentin23Soleil | macOS, Windows | [store](https://www.raycast.com/Quentin23Soleil/mute-microphone) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `f916000ff4`
+
+**Updated (1):** [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick)
+
 ## 2026-09-11 — upstream `3265bb4118`
 
 **Added (1):** [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail)

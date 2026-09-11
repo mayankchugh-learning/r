@@ -27,7 +27,7 @@
 | [HideMail - Email Relay Service](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) | 841 | Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receiv… | Flatroy | macOS | [store](https://www.raycast.com/Flatroy/hide-mail) |
 | [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) | 25 | Find the verified email address of any professional. | morrissimons | macOS, Windows | [store](https://www.raycast.com/morrissimons/mail-finder) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 9 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
-| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | — | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS | — |
+| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | 0 | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS | [store](https://www.raycast.com/keito4/spark-mail) |
 
 ## General
 

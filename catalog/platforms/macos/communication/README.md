@@ -88,7 +88,7 @@
 | [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 11 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 9 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
 | [QQ Mail](https://github.com/raycast/extensions/tree/main/extensions/qq-mail) | 9 | View and manage your QQ Mail inbox | ariesly15 | macOS, Windows | [store](https://www.raycast.com/ariesly15/qq-mail) |
-| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | — | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS | — |
+| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | 0 | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS | [store](https://www.raycast.com/keito4/spark-mail) |
 
 ## Social & Sharing
 

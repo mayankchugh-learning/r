@@ -2,7 +2,7 @@
 
 273 extensions · [← all categories](../README.md)
 
-macOS: 258 · Windows: 48
+macOS: 258 · Windows: 49
 
 ## Apps & Windows
 
