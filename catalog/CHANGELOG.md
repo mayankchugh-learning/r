@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-11 — upstream `562b6e26e3`
+
+**Added (1):** [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope)
+
 ## 2026-09-11 — upstream `11e8b1191f`
 
 **Updated (1):** [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger)

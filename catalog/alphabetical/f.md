@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-143 extensions · [← catalog index](../README.md)
+144 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -149,3 +149,4 @@
 | [FRC Programming](https://github.com/raycast/extensions/tree/main/extensions/frc-programming) | 4 | An all-in-one Raycast extension for FRC developers to instantly access WPILib docs and handle frequent unit conversions. | helloGithub326 | macOS, Windows | [store](https://www.raycast.com/helloGithub326/frc-programming) |
 | [From](https://github.com/raycast/extensions/tree/main/extensions/from) | 3 | Capture thoughts, search your notes and open your daily note in From — the outliner that understands what you write, so capture stays frictionless and fast. | alberto_lezaun | macOS | [store](https://www.raycast.com/alberto_lezaun/from) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
+| [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope) | — | Search the contents of files in your active Finder folder or any folder you select. | omer_aydemir | macOS | — |

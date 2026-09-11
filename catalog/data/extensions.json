@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "11e8b1191f20ca7f1fd62004880de82c448ae852",
-  "generatedAt": "2026-09-11T18:25:44.825Z",
-  "downloadsRefreshedAt": "2026-09-11T18:25:44.268Z",
-  "count": 3288,
+  "commit": "562b6e26e3700a07c8ba4da8591a06058ffb933f",
+  "generatedAt": "2026-09-11T18:28:37.988Z",
+  "downloadsRefreshedAt": "2026-09-11T18:28:37.574Z",
+  "count": 3289,
   "extensions": [
     {
       "dir": "0x0",
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 556626
+      "downloads": 556641
     },
     {
       "dir": "color-shades",
@@ -19738,6 +19738,26 @@
       "downloads": 836
     },
     {
+      "dir": "folder-scope",
+      "name": "folder-scope",
+      "title": "Folder Scope",
+      "description": "Search the contents of files in your active Finder folder or any folder you select.",
+      "author": "omer_aydemir",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/folder-scope",
+      "treeSha": "7bd41a815de6879e7361960d11d5cf4c83a3ff15",
+      "downloads": null
+    },
+    {
       "dir": "folder-search",
       "name": "folder-search",
       "title": "Folder Search",
@@ -22539,7 +22559,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 530226
+      "downloads": 530233
     },
     {
       "dir": "google-chrome-profiles",
@@ -28944,7 +28964,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 715538
+      "downloads": 715555
     },
     {
       "dir": "kimai",

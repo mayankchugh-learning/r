@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-131 of 1483 extensions · [← macOS · Productivity](./README.md)
+132 of 1484 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -137,3 +137,4 @@
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
 | [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders) | 1 | Browse creative project folders and jump to Asana, Google Drive, and Frame.io links. | hugini | macOS | [store](https://www.raycast.com/hugini/project-folders) |
 | [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) | 1 | Search Z-Library and download books, powered by the zlib CLI. | materialcritic | macOS | [store](https://www.raycast.com/materialcritic/zlib-search) |
+| [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope) | — | Search the contents of files in your active Finder folder or any folder you select. | omer_aydemir | macOS | — |

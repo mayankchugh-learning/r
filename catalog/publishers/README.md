@@ -1,6 +1,6 @@
 # Publishers
 
-2202 publishers · [← catalog index](../README.md)
+2203 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,192,479 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,192,494 |
 | 2 | [raycast](./id/raycast.md) | 11 | 844,386 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 715,538 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 530,226 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 715,555 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 530,233 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 464,692 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 460,144 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 431,354 |
@@ -2210,3 +2210,4 @@
 | 2200 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
 | 2201 | github-next | 2 | — |
 | 2202 | multi | 1 | — |
+| 2203 | omer_aydemir | 1 | — |

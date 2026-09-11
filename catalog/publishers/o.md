@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · **O** · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-43 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+44 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -27,6 +27,7 @@
 | [omarshahine](https://www.raycast.com/omarshahine) | 1 | 105 | **Applications:** [PurpleAir](https://github.com/raycast/extensions/tree/main/extensions/purpleair) |
 | [omBratteng](https://www.raycast.com/omBratteng) | 1 | 1,509 | **Developer Tools:** [Passphrase Generator](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) |
 | [omennia](https://www.raycast.com/omennia) | 1 | 24 | **Uncategorized:** [Search OEIS](https://github.com/raycast/extensions/tree/main/extensions/search-oeis) |
+| omer_aydemir | 1 | — | **Productivity:** [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope) |
 | [omorest](https://www.raycast.com/omorest) | 1 | 237 | **Documentation:** [Code Smells Search](https://github.com/raycast/extensions/tree/main/extensions/code-smells) |
 | [onebookmark](https://www.raycast.com/onebookmark) | 1 | 247 | **Productivity:** [1Bookmark](https://github.com/raycast/extensions/tree/main/extensions/1bookmark) |
 | [onnokh](https://www.raycast.com/onnokh) | 1 | 5 | **Productivity:** [Sleevy - Manage Your Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/sleevy) |

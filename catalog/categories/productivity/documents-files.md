@@ -1,8 +1,8 @@
 # Documents & Files
 
-131 extensions · [← Productivity](./README.md)
+132 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (30) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Download ✦](#download) (12) · [Upload ✦](#upload) (11) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (33)
+[Folder ✦](#folder) (31) · [Documents ✦](#documents) (17) · [Finder ✦](#finder) (7) · [Download ✦](#download) (12) · [Upload ✦](#upload) (11) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (33)
 
 *✦ auto-discovered topic group*
 
@@ -40,6 +40,7 @@
 | [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder) | 32 | Browse link folders and open all links at once, like a browser favorites bar. | Francescoparadiso | macOS, Windows | [store](https://www.raycast.com/Francescoparadiso/links-folder) |
 | [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 7 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/dated-folder) |
 | [Project Folders](https://github.com/raycast/extensions/tree/main/extensions/project-folders) | 1 | Browse creative project folders and jump to Asana, Google Drive, and Frame.io links. | hugini | macOS | [store](https://www.raycast.com/hugini/project-folders) |
+| [Folder Scope](https://github.com/raycast/extensions/tree/main/extensions/folder-scope) | — | Search the contents of files in your active Finder folder or any folder you select. | omer_aydemir | macOS | — |
 
 ## Documents ✦
 
