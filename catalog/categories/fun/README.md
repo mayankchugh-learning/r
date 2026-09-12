@@ -1,8 +1,8 @@
 # Fun
 
-278 extensions · [← all categories](../README.md)
+279 extensions · [← all categories](../README.md)
 
-macOS: 277 · Windows: 93
+macOS: 278 · Windows: 94
 
 ## Play
 
@@ -38,6 +38,6 @@ macOS: 277 · Windows: 93
 | [Cards ✦](./cards.md) | 4 |
 | [Discover ✦](./discover.md) | 4 |
 
-Plus [General](./general.md) — 98 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 99 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

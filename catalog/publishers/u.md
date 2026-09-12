@@ -6,22 +6,22 @@
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
-| [u-ran](https://www.raycast.com/u-ran) | 1 | 974 | **Applications:** [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) |
+| [u-ran](https://www.raycast.com/u-ran) | 1 | 977 | **Applications:** [Stretchly](https://github.com/raycast/extensions/tree/main/extensions/stretchly) |
 | [u2l](https://www.raycast.com/u2l) | 1 | 2 | **Productivity:** [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) |
-| [ubergraham](https://www.raycast.com/ubergraham) | 1 | 88 | **Other:** [ICD10 Lookup](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) |
-| [ubinatus](https://www.raycast.com/ubinatus) | 1 | 1,114 | **Developer Tools:** [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) |
+| [ubergraham](https://www.raycast.com/ubergraham) | 1 | 89 | **Other:** [ICD10 Lookup](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) |
+| [ubinatus](https://www.raycast.com/ubinatus) | 1 | 1,116 | **Developer Tools:** [Ngrok](https://github.com/raycast/extensions/tree/main/extensions/ngrok) |
 | [ubuntudroid](https://www.raycast.com/ubuntudroid) | 1 | 420 | **Developer Tools:** [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) |
 | [udus](https://www.raycast.com/udus) | 1 | 83 | **Media:** [Gyazo Uploader](https://github.com/raycast/extensions/tree/main/extensions/gyazo-uploader) |
-| [uetchy](https://www.raycast.com/uetchy) | 3 | 1,634 | **Uncategorized:** [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud)<br>**Web:** [Holodex](https://github.com/raycast/extensions/tree/main/extensions/holodex)<br>**Applications:** [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) |
+| [uetchy](https://www.raycast.com/uetchy) | 3 | 1,637 | **Uncategorized:** [Nextcloud](https://github.com/raycast/extensions/tree/main/extensions/nextcloud)<br>**Web:** [Holodex](https://github.com/raycast/extensions/tree/main/extensions/holodex)<br>**Applications:** [Nature Remo](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) |
 | [uixmat](https://www.raycast.com/uixmat) | 1 | 14 | **Web:** [Bklit Analytics](https://github.com/raycast/extensions/tree/main/extensions/bklit-analytics) |
-| [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 589 | **Productivity:** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) |
+| [ujjwal1998](https://www.raycast.com/ujjwal1998) | 1 | 591 | **Productivity:** [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) |
 | [uladkaminski](https://www.raycast.com/uladkaminski) | 1 | 54 | **Finance:** [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) |
 | [uluumbch](https://www.raycast.com/uluumbch) | 1 | 3 | **Finance:** [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) |
 | [umit_gul](https://www.raycast.com/umit_gul) | 1 | 418 | **Productivity:** [Kommand](https://github.com/raycast/extensions/tree/main/extensions/kommand) |
-| [Undolog](https://www.raycast.com/Undolog) | 5 | 2,879 | **System:** [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks), [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates)<br>**Productivity:** [Sync Folders](https://github.com/raycast/extensions/tree/main/extensions/sync-folders)<br>**Developer Tools:** [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner), [WP Bones](https://github.com/raycast/extensions/tree/main/extensions/wp-bones) |
+| [Undolog](https://www.raycast.com/Undolog) | 5 | 2,897 | **System:** [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks), [App Updates](https://github.com/raycast/extensions/tree/main/extensions/app-updates)<br>**Productivity:** [Sync Folders](https://github.com/raycast/extensions/tree/main/extensions/sync-folders)<br>**Developer Tools:** [Dev Cache Cleaner](https://github.com/raycast/extensions/tree/main/extensions/dev-cache-cleaner), [WP Bones](https://github.com/raycast/extensions/tree/main/extensions/wp-bones) |
 | [unitech](https://www.raycast.com/ordin) | 1 | 56 | **Other:** [The Matrix of Destiny](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) |
 | [unpopular](https://www.raycast.com/unpopular) | 1 | 63 | **News:** [Initium](https://github.com/raycast/extensions/tree/main/extensions/initium) |
-| [unreadablename](https://www.raycast.com/unreadablename) | 1 | 1,235 | **Developer Tools:** [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) |
-| [untitledpng](https://www.raycast.com/untitledpng) | 1 | 102 | **Productivity:** [Save Clipboard](https://github.com/raycast/extensions/tree/main/extensions/save-clipboard) |
+| [unreadablename](https://www.raycast.com/unreadablename) | 1 | 1,240 | **Developer Tools:** [Slugify](https://github.com/raycast/extensions/tree/main/extensions/slugify) |
+| [untitledpng](https://www.raycast.com/untitledpng) | 1 | 103 | **Productivity:** [Save Clipboard](https://github.com/raycast/extensions/tree/main/extensions/save-clipboard) |
 | [uranium](https://www.raycast.com/uranium) | 1 | 20 | **Media:** [NFT Primitive Tools](https://github.com/raycast/extensions/tree/main/extensions/uranium-raycast-plugin) |
 | [user_c640ee8bc38faa8cdb2f](https://www.raycast.com/user_c640ee8bc38faa8cdb2f) | 1 | 84 | **Web:** [Recap](https://github.com/raycast/extensions/tree/main/extensions/recap) |

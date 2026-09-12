@@ -1,6 +1,6 @@
 # Windows extensions
 
-909 extensions · [← all platforms](../README.md)
+910 extensions · [← all platforms](../README.md)
 
 ### Work & Productivity
 
@@ -46,7 +46,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Fun](./fun/README.md) | 93 |
+| [Fun](./fun/README.md) | 94 |
 
 ### Uncategorized
 
