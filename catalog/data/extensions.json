@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "17cc260e1194af3019aae02f4ffd0bbc71eb954d",
-  "generatedAt": "2026-09-12T17:05:38.233Z",
-  "downloadsRefreshedAt": "2026-09-12T17:05:37.209Z",
+  "commit": "d64517e4cdf4fcd6f3ad8753a8da9b3ddbcafda9",
+  "generatedAt": "2026-09-12T17:06:34.200Z",
+  "downloadsRefreshedAt": "2026-09-12T17:06:33.571Z",
   "count": 3290,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 560244
+      "downloads": 560247
     },
     {
       "dir": "color-shades",
@@ -55546,18 +55546,19 @@
       "description": "Search, browse, read, and compose Spark email from Raycast via the Spark CLI.",
       "author": "keito4",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Productivity",
         "Communication"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/keito4/spark-mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spark-mail",
-      "treeSha": "2f8841c472610d8178a09eef1f7a3f6b2e9bc2f5",
+      "treeSha": "a73b75477202f4edd0be3851e241f3365914bf6b",
       "downloads": 5
     },
     {

@@ -1,8 +1,8 @@
 # Cross-platform · Communication
 
-52 extensions · [← Cross-platform](../README.md)
+53 extensions · [← Cross-platform](../README.md)
 
-[Messaging & Chat](#messaging-chat) (12) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (14) · [Social & Fediverse](#social-fediverse) (2) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (2) · [General](#general) (15)
+[Messaging & Chat](#messaging-chat) (12) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (15) · [Social & Fediverse](#social-fediverse) (2) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (2) · [General](#general) (15)
 
 ## Conversations
 
@@ -48,6 +48,7 @@
 | [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 11 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 | [QQ Mail](https://github.com/raycast/extensions/tree/main/extensions/qq-mail) | 10 | View and manage your QQ Mail inbox | ariesly15 | macOS, Windows | [store](https://www.raycast.com/ariesly15/qq-mail) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 9 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
+| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | 5 | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/spark-mail) |
 
 ## Social & Sharing
 

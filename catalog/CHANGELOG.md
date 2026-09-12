@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-12 — upstream `d64517e4cd`
+
+**Updated (1):** [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail)
+
 ## 2026-09-12 — upstream `17cc260e11`
 
 **Updated (1):** [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox)

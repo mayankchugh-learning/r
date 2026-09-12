@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 160,407 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,122 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,715 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,199,540 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,199,543 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 318,580 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,640 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 433,581 |
