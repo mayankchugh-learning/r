@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 14,213 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
+| [IMDb Search](https://github.com/raycast/extensions/tree/main/extensions/imdb) | 14,240 | Easily open your favorite film or TV series on IMDb. | ryan | macOS, Windows | [store](https://www.raycast.com/ryan/imdb) |
 | [Kinopoisk](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) | 452 | Search for movies using kinopoisk.ru | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/kinopoisk) |
 | [Must](https://github.com/raycast/extensions/tree/main/extensions/must) | 299 | Display your Want to Watch list on Must Movie Tracking app directly on Raycast! | eggsy | macOS | [store](https://www.raycast.com/eggsy/must) |
-| [Anilist Airing Schedule](https://github.com/raycast/extensions/tree/main/extensions/anilist-airing-schedule) | 215 | Get airing schedule of anime from Anilist.co | yeskunall | Windows, macOS | [store](https://www.raycast.com/yeskunall/anilist-airing-schedule) |
+| [Anilist Airing Schedule](https://github.com/raycast/extensions/tree/main/extensions/anilist-airing-schedule) | 217 | Get airing schedule of anime from Anilist.co | yeskunall | Windows, macOS | [store](https://www.raycast.com/yeskunall/anilist-airing-schedule) |
 | [Torr Manager](https://github.com/raycast/extensions/tree/main/extensions/torr-manager) | 205 | Allows connect to selfhosted TorrServer, browse available torrents, select and watch movies directly from Raycast. | dannius | macOS | [store](https://www.raycast.com/danniuz/torr-manager) |
 | [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs) | 94 | Search for TV show ratings and get individual episode ratings, straight from Raycast | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/series-rating-graphs) |
 | [Danbooru](https://github.com/raycast/extensions/tree/main/extensions/danbooru) | 77 | Search the anime image board Danbooru! | abel_roinsard | macOS | [store](https://www.raycast.com/abel_roinsard/danbooru) |

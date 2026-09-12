@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-12 — upstream `6d59431bc9`
+
+**Updated (1):** [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz)
+
 ## 2026-09-12 — upstream `47eb39c26e`
 
 **Updated (1):** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls)

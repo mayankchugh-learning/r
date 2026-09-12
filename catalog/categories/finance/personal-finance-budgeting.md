@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) | 456 | View the balances and add expenses to Splitwise | ilian | macOS | [store](https://www.raycast.com/ilian/splitwise) |
+| [Splitwise](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) | 457 | View the balances and add expenses to Splitwise | ilian | macOS | [store](https://www.raycast.com/ilian/splitwise) |
 | [Better Deal](https://github.com/raycast/extensions/tree/main/extensions/better-deal) | 310 | Calculates unit costs and tracks purchasing history to help you find the best deals. | juxtdesigncc | macOS | [store](https://www.raycast.com/juxtdesigncc/better-deal) |
 | [MoneyLover](https://github.com/raycast/extensions/tree/main/extensions/moneylover) | 138 | MoneyLover is a personal finance app that helps you manage your money, budget, and track your spending. | lachero | macOS | [store](https://www.raycast.com/lachero/moneylover) |
 | [Firefly III](https://github.com/raycast/extensions/tree/main/extensions/firefly-iii) | 105 | A free and open source personal finance manager | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/firefly-iii) |
-| [Lunch Money](https://github.com/raycast/extensions/tree/main/extensions/lunchmoney) | 82 | Unofficial Lunch Money extension to manage your personal finances. | oppenheimer | macOS | [store](https://www.raycast.com/oppenheimer/lunchmoney) |
+| [Lunch Money](https://github.com/raycast/extensions/tree/main/extensions/lunchmoney) | 83 | Unofficial Lunch Money extension to manage your personal finances. | oppenheimer | macOS | [store](https://www.raycast.com/oppenheimer/lunchmoney) |
 | [QuickFile](https://github.com/raycast/extensions/tree/main/extensions/quickfile) | 67 | Access your QuickFile account balances. | danielroe | macOS | [store](https://www.raycast.com/danielroe/quickfile) |
 | [Real Calc](https://github.com/raycast/extensions/tree/main/extensions/real-calc) | 49 | Update financial values based on various Brazilian price indices | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/real-calc) |
 | [Ozbargain Deals](https://github.com/raycast/extensions/tree/main/extensions/ozbargain-deals) | 42 | Your lightning-fast portal to the latest and hottest deals from OzBargain. Browse new bargains, check their popularity score, and jump straight to the deal or… | 55555 | macOS | [store](https://www.raycast.com/55555/ozbargain-deals) |
