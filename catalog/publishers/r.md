@@ -29,7 +29,7 @@
 | [rauno](https://www.raycast.com/rauno) | 1 | 1,815 | **Applications:** [(Basic) Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/bmrks) |
 | [ravi_s](https://www.raycast.com/ravi_s) | 1 | 11 | **Data:** [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) |
 | [ray_tan](https://www.raycast.com/ray_tan) | 1 | 34 | **Developer Tools:** [Auth0 Management](https://github.com/raycast/extensions/tree/main/extensions/auth0-management) |
-| [raycast](./id/raycast.md) | 11 | 844,386 | [see all 11 →](./id/raycast.md) |
+| [raycast](./id/raycast.md) | 11 | 844,507 | [see all 11 →](./id/raycast.md) |
 | [raycast_0ukl](https://www.raycast.com/raycast_0ukl) | 1 | 6 | **Developer Tools:** [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) |
 | [Raynold](https://www.raycast.com/Raynold) | 1 | 9 | **Productivity:** [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) |
 | [raz_gaon](https://www.raycast.com/raz_gaon) | 1 | 1,100 | **Productivity:** [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) |
@@ -91,7 +91,7 @@
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 1 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 922 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 688 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 715,700 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 716,989 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 19 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 610 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 1 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |
