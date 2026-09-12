@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-12 — upstream `d11ac24cfc`
+
+**Updated (1):** [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio)
+
 ## 2026-09-12 — upstream `56977f5acb`
 
 **Added (1):** [The Labyrinth](https://github.com/raycast/extensions/tree/main/extensions/the-labyrinth)

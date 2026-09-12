@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,196,066 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,196,211 |
 | 2 | [raycast](./id/raycast.md) | 11 | 847,053 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 717,275 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 531,297 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 717,425 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 531,396 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 465,933 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 461,520 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 432,579 |
@@ -1295,11 +1295,11 @@
 | 1285 | [273](https://www.raycast.com/273) | 1 | 171 |
 | 1286 | [orangelckc](https://www.raycast.com/orangelckc) | 1 | 171 |
 | 1287 | [zaincheung](https://www.raycast.com/zaincheung) | 1 | 171 |
-| 1288 | [ohmycodedev](https://www.raycast.com/ohmycodedev) | 1 | 170 |
-| 1289 | [sendai](https://www.raycast.com/sendai) | 1 | 170 |
-| 1290 | [nkl](https://www.raycast.com/nkl) | 2 | 169 |
-| 1291 | [shreeram](https://www.raycast.com/shreeram) | 1 | 169 |
-| 1292 | [luarmr](https://www.raycast.com/luarmr) | 3 | 168 |
+| 1288 | [luarmr](https://www.raycast.com/luarmr) | 3 | 170 |
+| 1289 | [ohmycodedev](https://www.raycast.com/ohmycodedev) | 1 | 170 |
+| 1290 | [sendai](https://www.raycast.com/sendai) | 1 | 170 |
+| 1291 | [nkl](https://www.raycast.com/nkl) | 2 | 169 |
+| 1292 | [shreeram](https://www.raycast.com/shreeram) | 1 | 169 |
 | 1293 | [imqdee](https://www.raycast.com/imqdee) | 2 | 168 |
 | 1294 | [aymericio](https://www.raycast.com/aymericio) | 1 | 166 |
 | 1295 | [rafaelvicio](https://www.raycast.com/rafaelvicio) | 1 | 166 |

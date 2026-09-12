@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "56977f5acb305b596e49b6f1bfea84c42ef61f2c",
-  "generatedAt": "2026-09-12T05:27:38.570Z",
-  "downloadsRefreshedAt": "2026-09-12T05:27:38.081Z",
+  "commit": "d11ac24cfc282e53fd5e1d60b3a1e111b3933906",
+  "generatedAt": "2026-09-12T06:44:39.963Z",
+  "downloadsRefreshedAt": "2026-09-12T06:44:38.963Z",
   "count": 3290,
   "extensions": [
     {
@@ -3335,7 +3335,7 @@
       ],
       "store": "https://www.raycast.com/xmok/attio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/attio",
-      "treeSha": "ff27053eab25c10166cfc2ad68281dfade7fe67d",
+      "treeSha": "0a71812ca4c1016d46ef6887128367b1097733d3",
       "downloads": 216
     },
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 558293
+      "downloads": 558438
     },
     {
       "dir": "color-shades",
@@ -22559,7 +22559,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 531297
+      "downloads": 531396
     },
     {
       "dir": "google-chrome-profiles",
@@ -28964,7 +28964,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 717275
+      "downloads": 717425
     },
     {
       "dir": "kimai",
@@ -59518,10 +59518,10 @@
         "Windows",
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/luarmr/the-labyrinth",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/the-labyrinth",
       "treeSha": "4d1d7efa1992021c8295b98f46ef6fa217ff07d5",
-      "downloads": null
+      "downloads": 2
     },
     {
       "dir": "the-lot-radio",
