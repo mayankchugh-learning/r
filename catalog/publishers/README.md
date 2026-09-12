@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,196,211 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,196,224 |
 | 2 | [raycast](./id/raycast.md) | 11 | 847,053 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 717,425 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 531,396 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 717,438 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 531,405 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 465,933 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 461,520 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 432,579 |

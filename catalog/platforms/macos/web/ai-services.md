@@ -2,7 +2,7 @@
 
 **AI Services** · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-34 of 470 extensions · [← macOS · Web](./README.md)
+35 of 470 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -30,6 +30,7 @@
 | [Prisma Docs Search](https://github.com/raycast/extensions/tree/main/extensions/prisma-docs-search) | 692 | Quickly access Prisma's AI-powered docs search feature, powered by kapa.ai, right from Raycast. | petra | macOS, Windows | [store](https://www.raycast.com/petra/prisma-docs-search) |
 | [Alice AI - Your Daily AI Actions Companion](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) | 443 | Alice helps with your daily tasks by providing quick access to reusable AI actions across OpenAI and Gemini models. | quiknull | macOS | [store](https://www.raycast.com/quiknull/alice-ai) |
 | [StoryTime](https://github.com/raycast/extensions/tree/main/extensions/storytime) | 389 | Generate a story using OpenAI and Upstash. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/storytime) |
+| [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na) | 275 | Search and browse Are.na, save blocks, manage channels, and connect ideas with Raycast AI. | alvinkobe | macOS | [store](https://www.raycast.com/alvinkobe/are-na) |
 | [SendAI](https://github.com/raycast/extensions/tree/main/extensions/send-ai) | 170 | Your shortcut to everything Solana. At your command bar. | sendai (org) | macOS | [store](https://www.raycast.com/sendai/send-ai) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 112 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [Fingertip](https://github.com/raycast/extensions/tree/main/extensions/fingertip) | 73 | Get online in 60 seconds with our AI powered website builder. Showcase your brand, schedule appointments, and sell products all at your fingertip. | mblode | macOS | [store](https://www.raycast.com/mblode/fingertip) |

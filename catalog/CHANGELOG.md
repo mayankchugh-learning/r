@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-12 — upstream `3f7722fe4b`
+
+**Updated (1):** [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na)
+
 ## 2026-09-12 — upstream `d11ac24cfc`
 
 **Updated (1):** [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio)

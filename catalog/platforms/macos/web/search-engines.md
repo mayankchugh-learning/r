@@ -2,7 +2,7 @@
 
 [AI Services](./ai-services.md) · [Social & Communities](./social-communities.md) · **Search Engines** · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-164 of 470 extensions · [← macOS · Web](./README.md)
+163 of 470 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -97,7 +97,6 @@
 | [Openverse](https://github.com/raycast/extensions/tree/main/extensions/openverse) | 325 | Openverse is a search engine for openly-licensed media. | openverse (org) | macOS | [store](https://www.raycast.com/openverse/openverse) |
 | [You.com Search](https://github.com/raycast/extensions/tree/main/extensions/you-com-search) | 317 | Search You.com directly from Raycast | salman_mian | macOS | [store](https://www.raycast.com/salman_mian/you-com-search) |
 | [SauceNAO - Reverse Image Search](https://github.com/raycast/extensions/tree/main/extensions/saucenao) | 285 | Reverse image search using SauceNAO APIs. | BrandonGiesing | macOS | [store](https://www.raycast.com/BrandonGiesing/saucenao) |
-| [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na) | 275 | Are.na is a platform for connecting ideas and building knowledge through visual blocks and channels. This Raycast extension allows users to search for channels… | alvinkobe | macOS | [store](https://www.raycast.com/alvinkobe/are-na) |
 | [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) | 275 | Create, search, and manage short links using Sink | luolei | macOS, Windows | [store](https://www.raycast.com/luolei/raycast-sink) |
 | [WordPress Icon Finder](https://github.com/raycast/extensions/tree/main/extensions/wordpress-icon-finder) | 272 | It helps you search icons from the WordPress Icons Library. | javierarce | macOS | [store](https://www.raycast.com/javierarce/wordpress-icon-finder) |
 | [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 244 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |

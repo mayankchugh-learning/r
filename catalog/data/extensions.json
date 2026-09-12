@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d11ac24cfc282e53fd5e1d60b3a1e111b3933906",
-  "generatedAt": "2026-09-12T06:44:39.963Z",
-  "downloadsRefreshedAt": "2026-09-12T06:44:38.963Z",
+  "commit": "3f7722fe4b6a5716efe68405d144a92008964f87",
+  "generatedAt": "2026-09-12T06:48:26.028Z",
+  "downloadsRefreshedAt": "2026-09-12T06:48:25.565Z",
   "count": 3290,
   "extensions": [
     {
@@ -2881,10 +2881,10 @@
       "dir": "are-na",
       "name": "are-na",
       "title": "Are.na",
-      "description": "Are.na is a platform for connecting ideas and building knowledge through visual blocks and channels. This Raycast extension allows users to search for channels, blocks, and users on Are.na, as well as create new channels directly from Raycast. Easily discover, explore, and organize content from your Are.na account without leaving your workflow.",
+      "description": "Search and browse Are.na, save blocks, manage channels, and connect ideas with Raycast AI.",
       "author": "alvinkobe",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Web"
       ],
@@ -2894,7 +2894,7 @@
       ],
       "store": "https://www.raycast.com/alvinkobe/are-na",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/are-na",
-      "treeSha": "6128f9d6688c3688b52ffb4f1738b940eb7acdce",
+      "treeSha": "b4054a59dd78c7775daa92f16bcb8ba29ce3a7bb",
       "downloads": 275
     },
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 558438
+      "downloads": 558451
     },
     {
       "dir": "color-shades",
@@ -22559,7 +22559,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 531396
+      "downloads": 531405
     },
     {
       "dir": "google-chrome-profiles",
@@ -28964,7 +28964,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 717425
+      "downloads": 717438
     },
     {
       "dir": "kimai",

@@ -1,8 +1,8 @@
 # Search Engines
 
-164 extensions · [← Web](./README.md)
+163 extensions · [← Web](./README.md)
 
-[Bookmarks ✦](#bookmarks) (17) · [Tabs ✦](#tabs) (4) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Explore ✦](#explore) (4) · [Public ✦](#public) (4) · [General](#general) (92)
+[Bookmarks ✦](#bookmarks) (17) · [Tabs ✦](#tabs) (4) · [Google ✦](#google) (10) · [Documentation ✦](#documentation) (7) · [Web ✦](#web) (7) · [Autosuggestions ✦](#autosuggestions) (6) · [Packages ✦](#packages) (5) · [Results ✦](#results) (4) · [Books ✦](#books) (4) · [Instance ✦](#instance) (4) · [Public ✦](#public) (4) · [General](#general) (91)
 
 *✦ auto-discovered topic group*
 
@@ -115,14 +115,14 @@
 | [Hardcover](https://github.com/raycast/extensions/tree/main/extensions/hardcover) | 181 | Search and manage books and lists. | hazelhedmine | macOS | [store](https://www.raycast.com/hazelhedmine/hardcover) |
 | [Flibusta Search](https://github.com/raycast/extensions/tree/main/extensions/flibusta-search) | 92 | Search for books on Flibusta site | VladYevt | macOS | [store](https://www.raycast.com/VladYevt/flibusta-search) |
 
-## Explore ✦
+## Instance ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Country Lookup](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) | 1,335 | Search and explore detailed data for every country: flags, capitals, languages, currencies, regions and more, powered by the REST Countries API. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/country-lookup) |
-| [Hugging Face](https://github.com/raycast/extensions/tree/main/extensions/hugging-face) | 1,241 | Search and explore the Hugging Face platform | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/hugging-face) |
-| [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na) | 275 | Are.na is a platform for connecting ideas and building knowledge through visual blocks and channels. This Raycast extension allows users to search for channels… | alvinkobe | macOS | [store](https://www.raycast.com/alvinkobe/are-na) |
 | [ServiceNow](https://github.com/raycast/extensions/tree/main/extensions/servicenow) | 204 | Search and explore content across your ServiceNow instances | robertoalvarezalonso | macOS, Windows | [store](https://www.raycast.com/robertoalvarezalonso/servicenow) |
+| [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 56 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |
+| [Odoo Companion](https://github.com/raycast/extensions/tree/main/extensions/odoo-companion) | 46 | Search data into your own Odoo instance directly from Raycast | Taewenn | macOS | [store](https://www.raycast.com/Taewenn/odoo-companion) |
+| [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) | 4 | Search, filter, and open links from your LinkAce instance | zisoft | macOS | [store](https://www.raycast.com/zisoft/linkace-search) |
 
 ## Public ✦
 
@@ -158,7 +158,9 @@
 | [Douban](https://github.com/raycast/extensions/tree/main/extensions/douban) | 1,431 | Search Something on Douban | crazyczy | macOS | [store](https://www.raycast.com/crazyczy/douban) |
 | [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router) | 1,391 | Local-first search with Kagi's !Bangs (similar to unduck.link with DuckDuckGo's !Bangs) | franzwilhelm | macOS, Windows | [store](https://www.raycast.com/franzwilhelm/search-router) |
 | [LeetCode](https://github.com/raycast/extensions/tree/main/extensions/leetcode) | 1,374 | Search LeetCode problem, view LeetCode daily challenge, view LeetCode problem and more. | justin0u0 | macOS | [store](https://www.raycast.com/justin0u0/leetcode) |
+| [Country Lookup](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) | 1,335 | Search and explore detailed data for every country: flags, capitals, languages, currencies, regions and more, powered by the REST Countries API. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/country-lookup) |
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,312 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
+| [Hugging Face](https://github.com/raycast/extensions/tree/main/extensions/hugging-face) | 1,241 | Search and explore the Hugging Face platform | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/hugging-face) |
 | [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,218 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
 | [WhoSampled](https://github.com/raycast/extensions/tree/main/extensions/whosampled) | 1,150 | Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists | truex | macOS | [store](https://www.raycast.com/truex/whosampled) |
 | [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,141 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
@@ -212,9 +214,7 @@
 | [Search LaraJobs](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) | 58 | Search jobs on Larajobs | Treblle | macOS | [store](https://www.raycast.com/Treblle/larajobs-search) |
 | [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 58 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
 | [Link Transformer](https://github.com/raycast/extensions/tree/main/extensions/link-transformer) | 56 | Link Transformer lets you save, search, and transform links using your own javascript custom actions. | dangkhoipro | macOS, Windows | [store](https://www.raycast.com/dangkhoipro/link-transformer) |
-| [Smallweb](https://github.com/raycast/extensions/tree/main/extensions/smallweb) | 56 | Search your smallweb instance | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/smallweb) |
 | [NeoDB](https://github.com/raycast/extensions/tree/main/extensions/neodb) | 53 | Search NeoDB items and view item details | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/neodb) |
-| [Odoo Companion](https://github.com/raycast/extensions/tree/main/extensions/odoo-companion) | 46 | Search data into your own Odoo instance directly from Raycast | Taewenn | macOS | [store](https://www.raycast.com/Taewenn/odoo-companion) |
 | [Tableau Navigator](https://github.com/raycast/extensions/tree/main/extensions/tableau-navigator) | 36 | Search and open Tableau Dashboards and Views quickly. | endiruslan | macOS | [store](https://www.raycast.com/endiruslan/tableau-navigator) |
 | [Glean Search](https://github.com/raycast/extensions/tree/main/extensions/glean-search) | 32 | Search your company's knowledge base via Glean | faizhasim | macOS | [store](https://www.raycast.com/faizhasim/glean-search) |
 | [Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/crypto-search) | 22 | Quick search for crypto addresses and transactions across multiple chains | fernando_jacob | macOS | [store](https://www.raycast.com/fernando_jacob/crypto-search) |
@@ -227,5 +227,4 @@
 | [Pitchcast - Pitchfork Reviews Search](https://github.com/raycast/extensions/tree/main/extensions/pitchcast) | 9 | Search Pitchfork.com Reviews | stuartromanek | macOS | [store](https://www.raycast.com/stuartromanek/pitchcast) |
 | [CourtListener Search](https://github.com/raycast/extensions/tree/main/extensions/courtlistener-search) | 7 | Search CourtListener's free database of US court opinions and open, copy, or cite them without leaving Raycast. | cro64 | macOS | [store](https://www.raycast.com/cro64/courtlistener-search) |
 | [Portal Wholesale](https://github.com/raycast/extensions/tree/main/extensions/portal-wholesale) | 5 | Search and manage Portal Wholesale brands | nickdichev | macOS | [store](https://www.raycast.com/nickdichev/portal-wholesale) |
-| [LinkAce Search](https://github.com/raycast/extensions/tree/main/extensions/linkace-search) | 4 | Search, filter, and open links from your LinkAce instance | zisoft | macOS | [store](https://www.raycast.com/zisoft/linkace-search) |
 | [Adjacent](https://github.com/raycast/extensions/tree/main/extensions/adjacent) | 2 | Browse, search, and read news on Adjacent prediction markets, indices, and rates. | Lucas-Kohorst | macOS | [store](https://www.raycast.com/Lucas-Kohorst/adjacent) |
