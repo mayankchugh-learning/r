@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-12 — upstream `62a09df375`
+
+**Updated (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
+
 ## 2026-09-12 — upstream `6d59431bc9`
 
 **Updated (1):** [Qobuz](https://github.com/raycast/extensions/tree/main/extensions/qobuz)
