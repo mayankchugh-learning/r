@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-153 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+154 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -85,6 +85,7 @@
 | [developerlover](https://www.raycast.com/developerlover) | 1 | 1,898 | **Productivity:** [Google Advanced Search](https://github.com/raycast/extensions/tree/main/extensions/google-advanced-search) |
 | [Deviljin112](https://www.raycast.com/Deviljin112) | 1 | 144 | **Applications:** [YASB](https://github.com/raycast/extensions/tree/main/extensions/yasb) |
 | [devmoath](https://www.raycast.com/devmoath) | 1 | 6,321 | **Productivity:** [Night Light](https://github.com/raycast/extensions/tree/main/extensions/night-light) |
+| [devrecordso](https://www.raycast.com/devrecordso) | 1 | 0 | **Productivity:** [Record](https://github.com/raycast/extensions/tree/main/extensions/record-so) |
 | [devsargam](https://www.raycast.com/devsargam) | 1 | 24 | **Finance:** [Quikwallet](https://github.com/raycast/extensions/tree/main/extensions/quikwallet) |
 | [devuo](https://www.raycast.com/devuo) | 1 | 347 | **Developer Tools:** [Fly.io](https://github.com/raycast/extensions/tree/main/extensions/raycast-fly) |
 | [devutils](https://www.raycast.com/devutils) | 1 | 24,887 | **Applications:** [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) |

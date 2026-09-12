@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-12 — upstream `3b0778d7fe`
+
+**Added (1):** [Record](https://github.com/raycast/extensions/tree/main/extensions/record-so)
+
 ## 2026-09-12 — upstream `d64517e4cd`
 
 **Updated (1):** [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail)

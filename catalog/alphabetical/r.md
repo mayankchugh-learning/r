@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · **R** · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-161 extensions · [← catalog index](../README.md)
+162 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -167,3 +167,4 @@
 | [Reka UI](https://github.com/raycast/extensions/tree/main/extensions/reka-ui) | 7 | Browse Reka UI documentation via Raycast | twirl | macOS, Windows | [store](https://www.raycast.com/twirl/reka-ui) |
 | [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool) | 7 | Manage on-demand self-hosted GitHub Actions runner pools on your Mac | aic | macOS | [store](https://www.raycast.com/aic/runpool) |
 | [RUT Generator](https://github.com/raycast/extensions/tree/main/extensions/rut-generator) | 4 | Generate valid Chilean RUTs for development and testing. | esteban03 | macOS, Windows | [store](https://www.raycast.com/esteban03/rut-generator) |
+| [Record](https://github.com/raycast/extensions/tree/main/extensions/record-so) | 0 | Start screen recordings and take screenshots with Record — the dead-simple screen recorder. No signup, no watermark, unlimited length. | devrecordso | macOS | [store](https://www.raycast.com/devrecordso/record-so) |

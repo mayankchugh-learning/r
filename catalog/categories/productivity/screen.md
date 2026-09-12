@@ -1,6 +1,6 @@
 # Screen ✦
 
-10 extensions · [← Productivity](./README.md)
+11 extensions · [← Productivity](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -16,3 +16,4 @@
 | [Android Screen Capture](https://github.com/raycast/extensions/tree/main/extensions/android-screen-capture) | 233 | Screenshot & screenrecords of Android via ADB | chenhuazhao | macOS | [store](https://www.raycast.com/chenhuazhao/android-screen-capture) |
 | [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 144 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
 | [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) | 18 | Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections | bendrucker | macOS | [store](https://www.raycast.com/bendrucker/screens) |
+| [Record](https://github.com/raycast/extensions/tree/main/extensions/record-so) | 0 | Start screen recordings and take screenshots with Record — the dead-simple screen recorder. No signup, no watermark, unlimited length. | devrecordso | macOS | [store](https://www.raycast.com/devrecordso/record-so) |

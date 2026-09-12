@@ -1,6 +1,6 @@
 # Publishers
 
-2203 publishers · [← catalog index](../README.md)
+2204 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,199,543 |
-| 2 | [raycast](./id/raycast.md) | 11 | 849,162 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 719,185 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 532,529 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,199,582 |
+| 2 | [raycast](./id/raycast.md) | 11 | 849,174 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 719,218 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 532,548 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 467,041 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 462,495 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 433,581 |
@@ -80,7 +80,7 @@
 | 70 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 35,165 |
 | 71 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 34,812 |
 | 72 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 34,661 |
-| 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 34,286 |
+| 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 34,290 |
 | 74 | [dziad](https://www.raycast.com/dziad) | 1 | 33,536 |
 | 75 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 33,386 |
 | 76 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 32,197 |
@@ -2205,9 +2205,10 @@
 | 2195 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2196 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2197 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2198 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2199 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2200 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2201 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2202 | github-next | 2 | — |
-| 2203 | multi | 1 | — |
+| 2198 | [devrecordso](https://www.raycast.com/devrecordso) | 1 | 0 |
+| 2199 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2200 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2201 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2202 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2203 | github-next | 2 | — |
+| 2204 | multi | 1 | — |

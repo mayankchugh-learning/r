@@ -1,8 +1,8 @@
 # Images & Photos
 
-51 extensions · [← Media](./README.md)
+52 extensions · [← Media](./README.md)
 
-[Image ✦](#image) (35) · [Screenshots ✦](#screenshots) (4) · [Icons ✦](#icons) (5) · [General](#general) (7)
+[Image ✦](#image) (35) · [Screenshots ✦](#screenshots) (5) · [Icons ✦](#icons) (5) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -54,6 +54,7 @@
 | [Capture Raycast Metadata](https://github.com/raycast/extensions/tree/main/extensions/capture-raycast-metadata) | 900 | Capture a screenshot for Raycast extension's metadata. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/capture-raycast-metadata) |
 | [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 17 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
 | [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) | 6 | Search and copy dialogue screenshots from MyGO!!!!! and Ave Mujica. | luke_lin | macOS | [store](https://www.raycast.com/luke_lin/bang-dream-screenshot-search) |
+| [Record](https://github.com/raycast/extensions/tree/main/extensions/record-so) | 0 | Start screen recordings and take screenshots with Record — the dead-simple screen recorder. No signup, no watermark, unlimited length. | devrecordso | macOS | [store](https://www.raycast.com/devrecordso/record-so) |
 
 ## Icons ✦
 
