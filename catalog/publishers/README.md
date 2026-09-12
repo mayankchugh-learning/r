@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,196,224 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,196,243 |
 | 2 | [raycast](./id/raycast.md) | 11 | 847,053 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 717,438 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 531,405 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 717,458 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 531,418 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 465,933 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 461,520 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 432,579 |
@@ -161,7 +161,7 @@
 | 151 | [Rob](./id/rob.md) | 11 | 11,572 |
 | 152 | [jameslyons](https://www.raycast.com/jameslyons) | 2 | 11,507 |
 | 153 | [reboot](https://www.raycast.com/reboot) | 1 | 11,457 |
-| 154 | [yakitrak](https://www.raycast.com/yakitrak) | 2 | 11,334 |
+| 154 | [yakitrak](https://www.raycast.com/yakitrak) | 2 | 11,335 |
 | 155 | [Rafo94](https://www.raycast.com/Rafo94) | 1 | 11,282 |
 | 156 | [douo](https://www.raycast.com/douo) | 2 | 11,207 |
 | 157 | [Quentin23Soleil](https://www.raycast.com/Quentin23Soleil) | 3 | 11,194 |
@@ -1101,9 +1101,9 @@
 | 1091 | [netcookies](https://www.raycast.com/netcookies) | 1 | 279 |
 | 1092 | [xianwei_zhang](https://www.raycast.com/xianwei_zhang) | 6 | 277 |
 | 1093 | [Jace](https://www.raycast.com/Jace) | 1 | 277 |
-| 1094 | [haroldao](https://www.raycast.com/haroldao) | 1 | 276 |
-| 1095 | [monfortegg](https://www.raycast.com/monfortegg) | 1 | 276 |
-| 1096 | [alvinkobe](https://www.raycast.com/alvinkobe) | 1 | 275 |
+| 1094 | [alvinkobe](https://www.raycast.com/alvinkobe) | 1 | 276 |
+| 1095 | [haroldao](https://www.raycast.com/haroldao) | 1 | 276 |
+| 1096 | [monfortegg](https://www.raycast.com/monfortegg) | 1 | 276 |
 | 1097 | [patrick-web](https://www.raycast.com/patrick-web) | 1 | 275 |
 | 1098 | [x0ba](https://www.raycast.com/x0ba) | 1 | 275 |
 | 1099 | [vinch](https://www.raycast.com/vinch) | 1 | 273 |

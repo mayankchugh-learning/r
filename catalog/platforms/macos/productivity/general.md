@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-509 of 1484 extensions · [← macOS · Productivity](./README.md)
+510 of 1485 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -178,6 +178,7 @@
 | [Rsync Commands](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) | 710 | Save your commonly used rsync commands in one place and run them with ease. | fahl | macOS | [store](https://www.raycast.com/fahl/rsync-commands) |
 | [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 690 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
 | [IP Info](https://github.com/raycast/extensions/tree/main/extensions/ipinfo) | 673 | An extension to use ipinfo.io's API to get information about IP addresses | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/ipinfo) |
+| [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) | 673 | Control the Private Internet Access VPN: connect, disconnect, browse regions with flags, favorites, port forwarding and settings. | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/pia-controls) |
 | [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart) | 665 | Home automation with Tuya Smart | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/tuya-smart) |
 | [Typescript Mock Generator](https://github.com/raycast/extensions/tree/main/extensions/typescript-mock-generator) | 665 | Generate mock/fake data from your typescript interfaces easily | comoser | macOS | [store](https://www.raycast.com/comoser/typescript-mock-generator) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 654 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |

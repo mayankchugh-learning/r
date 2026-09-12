@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 160,080 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,107 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,707 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,196,224 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,196,243 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 317,831 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,607 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 432,579 |
@@ -200,7 +200,7 @@
 | 190 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 14,830 |
 | 191 | [vercel](https://www.raycast.com/vercel) | 2 | 13,523 |
 | 192 | [jameslyons](https://www.raycast.com/jameslyons) | 2 | 11,507 |
-| 193 | [yakitrak](https://www.raycast.com/yakitrak) | 2 | 11,334 |
+| 193 | [yakitrak](https://www.raycast.com/yakitrak) | 2 | 11,335 |
 | 194 | [douo](https://www.raycast.com/douo) | 2 | 11,207 |
 | 195 | [dimagrossman](https://www.raycast.com/dimagrossman) | 2 | 11,118 |
 | 196 | [Falcon](https://www.raycast.com/Falcon) | 2 | 10,575 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 9 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 717,438 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 531,405 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 717,458 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 531,418 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 372,276 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 310,368 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 273,045 |
@@ -1160,9 +1160,9 @@
 | 1150 | [naserowaimer](https://www.raycast.com/naserowaimer) | 1 | 281 |
 | 1151 | [netcookies](https://www.raycast.com/netcookies) | 1 | 279 |
 | 1152 | [Jace](https://www.raycast.com/Jace) | 1 | 277 |
-| 1153 | [haroldao](https://www.raycast.com/haroldao) | 1 | 276 |
-| 1154 | [monfortegg](https://www.raycast.com/monfortegg) | 1 | 276 |
-| 1155 | [alvinkobe](https://www.raycast.com/alvinkobe) | 1 | 275 |
+| 1153 | [alvinkobe](https://www.raycast.com/alvinkobe) | 1 | 276 |
+| 1154 | [haroldao](https://www.raycast.com/haroldao) | 1 | 276 |
+| 1155 | [monfortegg](https://www.raycast.com/monfortegg) | 1 | 276 |
 | 1156 | [patrick-web](https://www.raycast.com/patrick-web) | 1 | 275 |
 | 1157 | [x0ba](https://www.raycast.com/x0ba) | 1 | 275 |
 | 1158 | [vinch](https://www.raycast.com/vinch) | 1 | 273 |

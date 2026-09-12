@@ -104,7 +104,7 @@
 | [alon.hearter](https://www.raycast.com/alon.hearter) | 1 | 80 | **Web:** [Qutebrowser Tabs](https://github.com/raycast/extensions/tree/main/extensions/qutebrowser-tabs) |
 | [alpacachen](https://www.raycast.com/alpacachen) | 1 | 58 | **Fun:** [Hupu](https://github.com/raycast/extensions/tree/main/extensions/hupu) |
 | [alrico88](https://www.raycast.com/alrico88) | 1 | 338 | **Developer Tools:** [Geohash](https://github.com/raycast/extensions/tree/main/extensions/geohash-encode-decode) |
-| [alvinkobe](https://www.raycast.com/alvinkobe) | 1 | 275 | **Web:** [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na) |
+| [alvinkobe](https://www.raycast.com/alvinkobe) | 1 | 276 | **Web:** [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na) |
 | [amanvarshney01](https://www.raycast.com/amanvarshney01) | 1 | 111 | **Developer Tools:** [Prisma Postgres](https://github.com/raycast/extensions/tree/main/extensions/prisma-postgres) |
 | [amin_saedi](https://www.raycast.com/amin_saedi) | 1 | 62 | **Data:** [Jalali Date Convertor](https://github.com/raycast/extensions/tree/main/extensions/jalali-date-convertor) |
 | [amir01](https://www.raycast.com/amir01) | 1 | 8 | **Communication:** [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) |

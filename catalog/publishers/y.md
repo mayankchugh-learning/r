@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 | **Productivity:** [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday) |
 | [yaeda](https://www.raycast.com/yaeda) | 1 | 288 | **Productivity:** [Inkdrop](https://github.com/raycast/extensions/tree/main/extensions/inkdrop) |
-| [yakitrak](https://www.raycast.com/yakitrak) | 2 | 11,334 | **Productivity:** [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb)<br>**Security:** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) |
+| [yakitrak](https://www.raycast.com/yakitrak) | 2 | 11,335 | **Productivity:** [Do Not Disturb](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb)<br>**Security:** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) |
 | [yalishanda](https://www.raycast.com/yalishanda) | 1 | 6,974 | **Uncategorized:** [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) |
 | [Yamen](https://www.raycast.com/Yamen) | 2 | 945 | **Media:** [Real-Debrid Manager](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager)<br>**Communication:** [Sort Mentions](https://github.com/raycast/extensions/tree/main/extensions/sort-mentions) |
 | [yang_monch](https://www.raycast.com/yang_monch) | 1 | 389 | **Design Tools:** [Golden Ratio](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) |

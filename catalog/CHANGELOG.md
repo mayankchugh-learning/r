@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-12 — upstream `47eb39c26e`
+
+**Updated (1):** [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls)
+
 ## 2026-09-12 — upstream `3f7722fe4b`
 
 **Updated (1):** [Are.na](https://github.com/raycast/extensions/tree/main/extensions/are-na)

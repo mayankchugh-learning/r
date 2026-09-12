@@ -1,6 +1,6 @@
 # General
 
-375 extensions · [← Productivity](./README.md)
+376 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -123,6 +123,7 @@
 | [Counter](https://github.com/raycast/extensions/tree/main/extensions/counter) | 725 | A simple counter, in the comfort of Raycast root! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/counter) |
 | [Rsync Commands](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) | 710 | Save your commonly used rsync commands in one place and run them with ease. | fahl | macOS | [store](https://www.raycast.com/fahl/rsync-commands) |
 | [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 690 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
+| [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) | 673 | Control the Private Internet Access VPN: connect, disconnect, browse regions with flags, favorites, port forwarding and settings. | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/pia-controls) |
 | [Tuya Smart](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart) | 665 | Home automation with Tuya Smart | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/tuya-smart) |
 | [Typescript Mock Generator](https://github.com/raycast/extensions/tree/main/extensions/typescript-mock-generator) | 665 | Generate mock/fake data from your typescript interfaces easily | comoser | macOS | [store](https://www.raycast.com/comoser/typescript-mock-generator) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 654 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
