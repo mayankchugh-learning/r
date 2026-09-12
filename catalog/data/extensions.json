@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1a054ef3615d6ce054766e0962487da610a68568",
-  "generatedAt": "2026-09-12T17:03:33.265Z",
-  "downloadsRefreshedAt": "2026-09-12T17:03:32.257Z",
+  "commit": "17cc260e1194af3019aae02f4ffd0bbc71eb954d",
+  "generatedAt": "2026-09-12T17:05:38.233Z",
+  "downloadsRefreshedAt": "2026-09-12T17:05:37.209Z",
   "count": 3290,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 560234
+      "downloads": 560244
     },
     {
       "dir": "color-shades",
@@ -22559,7 +22559,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 532525
+      "downloads": 532529
     },
     {
       "dir": "google-chrome-profiles",
@@ -28964,7 +28964,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 719175
+      "downloads": 719185
     },
     {
       "dir": "kimai",
@@ -36119,7 +36119,7 @@
       "description": "Search and open tabs from bookmarks and history in Mozilla Firefox.",
       "author": "crisboarna",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Applications",
         "Developer Tools",
@@ -36132,7 +36132,7 @@
       ],
       "store": "https://www.raycast.com/crisboarna/mozilla-firefox",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox",
-      "treeSha": "0a0f19252df009818531daf00c3e88998d48eea4",
+      "treeSha": "7f365dc4343a76ad0aeae5d296031a021339ebc4",
       "downloads": 13385
     },
     {
