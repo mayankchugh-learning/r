@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-12 — upstream `e89c79e169`
+
+**Updated (1):** [Accordance](https://github.com/raycast/extensions/tree/main/extensions/accordance)
+
 ## 2026-09-12 — upstream `c13c16b013`
 
 **Updated (1):** [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills)
