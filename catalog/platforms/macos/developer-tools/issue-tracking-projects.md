@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · **Issue Tracking & Projects** · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-11 of 1116 extensions · [← macOS · Developer Tools](./README.md)
+12 of 1117 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -17,3 +17,4 @@
 | [Backlog.md Manager](https://github.com/raycast/extensions/tree/main/extensions/backlog-md-manager) | 52 | Manage Backlog.md tasks from Raycast — create, browse, search, edit, and change status across multiple projects using the backlog CLI. | nicholas_ferguson | macOS, Windows | [store](https://www.raycast.com/nicholas_ferguson/backlog-md-manager) |
 | [Paystack](https://github.com/raycast/extensions/tree/main/extensions/paystack) | 28 | Manage your Paystack account effortlessly in Raycast—check balances, search transactions, generate links, issue refunds, and track revenue—all from your keyboa… | dominuskelvin | macOS | [store](https://www.raycast.com/dominuskelvin/paystack) |
 | [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync) | 14 | Sync local projects to IONOS web hosting via rsync over SSH — with dry-run preview, push/pull, and project management. | wdeu | macOS | [store](https://www.raycast.com/wdeu/ionos-sync) |
+| [Gadak](https://github.com/raycast/extensions/tree/main/extensions/gadak) | 0 | Search Jira and Confluence from a local mirror — instant, offline, and one Enter from the Gadak app. | midagedev | macOS | [store](https://www.raycast.com/midagedev/gadak) |

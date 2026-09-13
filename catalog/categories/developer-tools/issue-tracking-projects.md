@@ -1,8 +1,8 @@
 # Issue Tracking & Projects
 
-11 extensions · [← Developer Tools](./README.md)
+12 extensions · [← Developer Tools](./README.md)
 
-[Issues ✦](#issues) (5) · [Height ✦](#height) (4) · [General](#general) (2)
+[Issues ✦](#issues) (5) · [Height ✦](#height) (4) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -31,3 +31,4 @@
 | --- | --- | --- | --- | --- | --- |
 | [Backlog.md Manager](https://github.com/raycast/extensions/tree/main/extensions/backlog-md-manager) | 52 | Manage Backlog.md tasks from Raycast — create, browse, search, edit, and change status across multiple projects using the backlog CLI. | nicholas_ferguson | macOS, Windows | [store](https://www.raycast.com/nicholas_ferguson/backlog-md-manager) |
 | [IONOS Sync](https://github.com/raycast/extensions/tree/main/extensions/ionos-sync) | 14 | Sync local projects to IONOS web hosting via rsync over SSH — with dry-run preview, push/pull, and project management. | wdeu | macOS | [store](https://www.raycast.com/wdeu/ionos-sync) |
+| [Gadak](https://github.com/raycast/extensions/tree/main/extensions/gadak) | 0 | Search Jira and Confluence from a local mirror — instant, offline, and one Enter from the Gadak app. | midagedev | macOS | [store](https://www.raycast.com/midagedev/gadak) |

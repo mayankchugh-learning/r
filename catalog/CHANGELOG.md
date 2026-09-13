@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `74c1cc6637`
+
+**Added (1):** [Gadak](https://github.com/raycast/extensions/tree/main/extensions/gadak)
+
 ## 2026-09-13 — upstream `219cacd8cf`
 
 **Updated (1):** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)

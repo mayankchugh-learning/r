@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-171 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+172 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -116,6 +116,7 @@
 | [michalkos](https://www.raycast.com/michalkos) | 1 | 29 | **Applications:** [Promptty](https://github.com/raycast/extensions/tree/main/extensions/promptty) |
 | [Michi-2124](https://www.raycast.com/Michi-2124) | 1 | 11 | **Security:** [Exivo](https://github.com/raycast/extensions/tree/main/extensions/exivo) |
 | [mickaphd](https://www.raycast.com/mickaphd) | 1 | 625 | **News:** [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news) |
+| [midagedev](https://www.raycast.com/midagedev) | 1 | 0 | **Developer Tools:** [Gadak](https://github.com/raycast/extensions/tree/main/extensions/gadak) |
 | [miguel_caetano_dias](https://www.raycast.com/miguel_caetano_dias) | 3 | 107 | **Productivity:** [Rebaptize - Rename](https://github.com/raycast/extensions/tree/main/extensions/rebaptize)<br>**Developer Tools:** [Cloudflare Images](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-images)<br>**Security:** [P00f - Ephemeral Clipboard](https://github.com/raycast/extensions/tree/main/extensions/p00f) |
 | [miguelcorderocollar](https://www.raycast.com/miguelcorderocollar) | 1 | 76 | **Productivity:** [Zendesk — Admin](https://github.com/raycast/extensions/tree/main/extensions/zendesk-admin) |
 | [mihaeltomic](https://www.raycast.com/mihaeltomic) | 1 | 231 | **Design Tools:** [Paper Search](https://github.com/raycast/extensions/tree/main/extensions/papersize) |

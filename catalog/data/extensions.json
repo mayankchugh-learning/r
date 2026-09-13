@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "219cacd8cf40938697a58c5a1d9479ce20896ce1",
-  "generatedAt": "2026-09-13T12:48:32.269Z",
-  "downloadsRefreshedAt": "2026-09-13T12:48:31.074Z",
-  "count": 3291,
+  "commit": "74c1cc66375f5691b6a4f89aa869825cf29a4aaa",
+  "generatedAt": "2026-09-13T13:00:52.542Z",
+  "downloadsRefreshedAt": "2026-09-13T13:00:51.142Z",
+  "count": 3292,
   "extensions": [
     {
       "dir": "0x0",
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 562560
+      "downloads": 562597
     },
     {
       "dir": "color-shades",
@@ -20594,6 +20594,26 @@
       "downloads": 871
     },
     {
+      "dir": "gadak",
+      "name": "gadak",
+      "title": "Gadak",
+      "description": "Search Jira and Confluence from a local mirror — instant, offline, and one Enter from the Gadak app.",
+      "author": "midagedev",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/midagedev/gadak",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/gadak",
+      "treeSha": "7209177b37e6b1e3ed62425a067949edfdc1ae60",
+      "downloads": 0
+    },
+    {
       "dir": "game-scout",
       "name": "game-scout",
       "title": "Game Scout",
@@ -22559,7 +22579,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 533901
+      "downloads": 533924
     },
     {
       "dir": "google-chrome-profiles",
@@ -28964,7 +28984,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 721395
+      "downloads": 721427
     },
     {
       "dir": "kimai",
