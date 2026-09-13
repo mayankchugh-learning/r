@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `b36d357f42`
+
+**Updated (1):** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr)
+
 ## 2026-09-13 — upstream `1ffe7dcd05`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)

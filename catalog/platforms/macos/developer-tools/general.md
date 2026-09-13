@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,448 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,773 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 172,989 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 104,202 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 64,581 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -75,8 +75,8 @@
 | [Percentage Calculator](https://github.com/raycast/extensions/tree/main/extensions/percentage-calculator) | 805 | Calculate percentages, percentage differences, and percentage changes with detailed breakdowns | theapache64 | macOS | [store](https://www.raycast.com/theapache64/percentage-calculator) |
 | [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) | 791 | Raycast Commands for Searching Different ML APIs | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/mldocs) |
 | [Can I PHP?](https://github.com/raycast/extensions/tree/main/extensions/can-i-php) | 785 | Check if a certain function or method is available in different versions of PHP. | diana_scharf | macOS, Windows | [store](https://www.raycast.com/diana_scharf/can-i-php) |
+| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 774 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [Figma Variables](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) | 768 | Access Figma variables in Raycast | martin_molcrette | macOS | [store](https://www.raycast.com/martin_molcrette/figma-variables) |
-| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 764 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 714 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [Rsync Commands](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) | 710 | Save your commonly used rsync commands in one place and run them with ease. | fahl | macOS | [store](https://www.raycast.com/fahl/rsync-commands) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 704 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1ffe7dcd05534ca33416eff79f49cb9a1e88fd74",
-  "generatedAt": "2026-09-13T13:07:31.582Z",
-  "downloadsRefreshedAt": "2026-09-13T13:07:31.159Z",
+  "commit": "b36d357f42c3f0c9bb74f58ac95192b1532d617d",
+  "generatedAt": "2026-09-13T14:56:21.316Z",
+  "downloadsRefreshedAt": "2026-09-13T14:56:20.626Z",
   "count": 3293,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 562623
+      "downloads": 562940
     },
     {
       "dir": "color-shades",
@@ -11538,7 +11538,7 @@
       "store": "https://www.raycast.com/togashi12/create-barcode",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/create-barcode",
       "treeSha": "245bc34f1b1e223f11de6065acfc0e8392127ab7",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "create-link",
@@ -22601,7 +22601,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 533938
+      "downloads": 534151
     },
     {
       "dir": "google-chrome-profiles",
@@ -24405,7 +24405,7 @@
       "description": "Control Herdr workspaces and coding agents from Raycast",
       "author": "vlades",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Developer Tools",
         "Productivity"
@@ -24416,8 +24416,8 @@
       ],
       "store": "https://www.raycast.com/vlades/herdr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/herdr",
-      "treeSha": "d9234b46da88e32904b1adf14afc29076b41725b",
-      "downloads": 764
+      "treeSha": "7539bac714bcef3eb8527bea826dd31a44259a3b",
+      "downloads": 774
     },
     {
       "dir": "hermes-agent",
@@ -29006,7 +29006,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 721448
+      "downloads": 721773
     },
     {
       "dir": "kimai",

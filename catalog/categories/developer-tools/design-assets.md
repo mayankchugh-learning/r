@@ -63,7 +63,7 @@
 | [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 40,158 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
 | [SVGO](https://github.com/raycast/extensions/tree/main/extensions/svgo) | 3,557 | Optimize SVG vector graphics files. | kaichi | macOS | [store](https://www.raycast.com/kaichi/raycast-svgo) |
 | [SVG64 - Convert SVGs to Base64 Strings](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) | 570 | Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-svg64) |
-| [Create Barcode](https://github.com/raycast/extensions/tree/main/extensions/create-barcode) | 0 | Generate EAN-13, ITF, NW-7 (Codabar), CODE39 and CODE128 barcodes as you type, preview them instantly, and export them as PNG or SVG. | togashi12 | macOS, Windows | [store](https://www.raycast.com/togashi12/create-barcode) |
+| [Create Barcode](https://github.com/raycast/extensions/tree/main/extensions/create-barcode) | 1 | Generate EAN-13, ITF, NW-7 (Codabar), CODE39 and CODE128 barcodes as you type, preview them instantly, and export them as PNG or SVG. | togashi12 | macOS, Windows | [store](https://www.raycast.com/togashi12/create-barcode) |
 
 ## General
 
