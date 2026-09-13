@@ -2,14 +2,15 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · **General**
 
-56 of 311 extensions · [← Cross-platform · Developer Tools](./README.md)
+57 of 312 extensions · [← Cross-platform · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,773 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,798 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 172,989 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 104,202 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 64,581 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
+| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 | [WiFi Password Reveal](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal) | 6,048 | Reveal any saved WiFi Password on macOS or Windows | louishuyng | macOS, Windows | [store](https://www.raycast.com/louishuyng/wifi-password-reveal) |
 | [Random Password Generator](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) | 4,775 | Generate random password of different length | textnav | macOS, Windows | [store](https://www.raycast.com/textnav/random-password-generator) |
 | [Wayback Machine](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) | 4,373 | Quickly open and save webpages in Wayback Machine | pernielsentikaer | macOS, Windows | [store](https://www.raycast.com/pernielsentikaer/wayback-machine) |

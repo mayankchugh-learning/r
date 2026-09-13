@@ -1,8 +1,8 @@
 # Windows · System
 
-49 extensions · [← Windows](../README.md)
+50 extensions · [← Windows](../README.md)
 
-[Apps & Processes](#apps-processes) (8) · [Window & Desktop Management](#window-desktop-management) (9) · [Hardware & Devices](#hardware-devices) (6) · [Display & Appearance](#display-appearance) (4) · [Power & Session](#power-session) (1) · [Clipboard & Input](#clipboard-input) (1) · [Files & Storage](#files-storage) (2) · [Network](#network) (2) · [General](#general) (16)
+[Apps & Processes](#apps-processes) (8) · [Window & Desktop Management](#window-desktop-management) (9) · [Hardware & Devices](#hardware-devices) (6) · [Display & Appearance](#display-appearance) (4) · [Power & Session](#power-session) (1) · [Clipboard & Input](#clipboard-input) (1) · [Files & Storage](#files-storage) (2) · [Network](#network) (2) · [Defaults & Services](#defaults-services) (1) · [General](#general) (16)
 
 ## Apps & Windows
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,773 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,798 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,855 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) | 1,350 | Monitor and manage open ports on your system with the ability to kill processes using specific ports. | dleteliers_ | Windows | [store](https://www.raycast.com/dleteliers_/ports) |
 | [Window Walker](https://github.com/raycast/extensions/tree/main/extensions/window-walker) | 807 | Quickly switch between open windows. Search by app name or window title, minimize, close, or bring any window to the front. | nazzy_wazzy_lu | Windows | [store](https://www.raycast.com/nazzy_wazzy_lu/window-walker) |
@@ -84,6 +84,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 47,857 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 14,141 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+
+### Defaults & Services
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 
 ### General
 

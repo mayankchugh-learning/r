@@ -1,6 +1,6 @@
 # General
 
-108 extensions · [← Search & Bookmarks](./README.md)
+111 extensions · [← Search & Bookmarks](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -31,6 +31,7 @@
 | [GitHub Review Requests](https://github.com/raycast/extensions/tree/main/extensions/github-review-requests) | 2,069 | Search review requests on GitHub and listing them. | resessh | macOS | [store](https://www.raycast.com/resessh/github-review-requests) |
 | [Multilinks](https://github.com/raycast/extensions/tree/main/extensions/multilinks) | 2,019 | Open multiple links at once | abhisheksatre | macOS | [store](https://www.raycast.com/abhisheksatre/multilinks) |
 | [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) | 1,996 | Quickly open PowerToys tools | LostViking09 | Windows | [store](https://www.raycast.com/LostViking09/powertoys-tool-runner) |
+| [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project) | 1,963 | Find and open projects on your system | zerowidth | macOS, Windows | [store](https://www.raycast.com/zerowidth/quick-open-project) |
 | [Linguee](https://github.com/raycast/extensions/tree/main/extensions/linguee) | 1,919 | Search Linguee translations for English, Chinese, German, Italian, Spanish, French. | geekdada | macOS | [store](https://www.raycast.com/geekdada/linguee) |
 | [Search HoudahSpot](https://github.com/raycast/extensions/tree/main/extensions/houdahspot-search) | 1,745 | Search with HoudahSpot | felixthehat | macOS | [store](https://www.raycast.com/felixthehat/houdahspot-search) |
 | [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub) | 1,629 | Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Ra… | dubinc (org) | macOS | [store](https://www.raycast.com/dubinc/dub) |
@@ -58,6 +59,7 @@
 | [Laravel Tips](https://github.com/raycast/extensions/tree/main/extensions/laravel-tips) | 338 | Get or search laravel tips in Raycast | Godruoyi | macOS | [store](https://www.raycast.com/Godruoyi/laravel-tips) |
 | [OpenStreetMap Search](https://github.com/raycast/extensions/tree/main/extensions/openstreetmap-search) | 338 | Quickly open OpenStreetMaps directions, for example from your current location to your home. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/openstreetmap-search) |
 | [Search Domain](https://github.com/raycast/extensions/tree/main/extensions/search-domain) | 332 | Search domain names quickly with instant availability check | hasanakay | macOS, Windows | [store](https://www.raycast.com/hasanakay/search-domain) |
+| [Johnny.Decimal](https://github.com/raycast/extensions/tree/main/extensions/johnny-decimal) | 278 | Search and manage Johnny.Decimal system. | x0ba | macOS | [store](https://www.raycast.com/x0ba/johnny-decimal) |
 | [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) | 275 | Create, search, and manage short links using Sink | luolei | macOS, Windows | [store](https://www.raycast.com/luolei/raycast-sink) |
 | [Zendesk — Search Support Center](https://github.com/raycast/extensions/tree/main/extensions/zendesk) | 260 | Search Zendesk support center for articles. | cpenned | macOS | [store](https://www.raycast.com/cpenned/zendesk) |
 | [Android Versions](https://github.com/raycast/extensions/tree/main/extensions/android-versions) | 244 | Search quickly between Android version number, API level, codename. | bruce3x | macOS | [store](https://www.raycast.com/bruce3x/android-versions) |
@@ -65,6 +67,7 @@
 | [Moji Dict Search](https://github.com/raycast/extensions/tree/main/extensions/moji) | 220 | Search mojidict.com | Kasper | macOS | [store](https://www.raycast.com/Kasper/moji) |
 | [SimpRead](https://github.com/raycast/extensions/tree/main/extensions/simpread) | 213 | Search and Open SimpRead Unreader | kenshin | macOS | [store](https://www.raycast.com/kenshin/simpread) |
 | [SEC Filings Search](https://github.com/raycast/extensions/tree/main/extensions/sec-filings-search) | 207 | An extension to search company SEC Filings and open in browser. Currently only 8-K and 10-K forms. | chewhx | macOS | [store](https://www.raycast.com/chewhx/sec-filings-search) |
+| [Braid Design System](https://github.com/raycast/extensions/tree/main/extensions/braid) | 202 | Search and use Braid Components and Iconography from Raycast | felixhabib | macOS | [store](https://www.raycast.com/felixhabib/braid) |
 | [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) | 201 | Quickly search and use Prisma CLI Commands along with command details. | raj_asha | macOS | [store](https://www.raycast.com/raj_asha/prisma-cli-commands) |
 | [Lucky Surf](https://github.com/raycast/extensions/tree/main/extensions/lucky-surf) | 199 | Say goodbye to scrolling through endless search results – simply trust your intuition and let serendipity guide you to the information you need, swiftly and ef… | popalay | macOS | [store](https://www.raycast.com/popalay/lucky-surf) |
 | [Metabase](https://github.com/raycast/extensions/tree/main/extensions/metabase) | 198 | Search Metabase questions faster | vimtor | macOS | [store](https://www.raycast.com/vimtor/metabase) |

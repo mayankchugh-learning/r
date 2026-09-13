@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `dcc8de6681`
+
+**Updated (1):** [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information)
+
 ## 2026-09-13 — upstream `b36d357f42`
 
 **Updated (1):** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr)

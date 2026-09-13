@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,773 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,798 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 172,989 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 104,202 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 64,581 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -18,7 +18,7 @@
 | [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 10,979 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
 | [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 10,034 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
 | [CyberChef](https://github.com/raycast/extensions/tree/main/extensions/cyberchef) | 9,936 | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis | mblode | macOS | [store](https://www.raycast.com/mblode/cyberchef) |
-| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
+| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 | [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | 6,793 | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |
 | [WiFi Password Reveal](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal) | 6,048 | Reveal any saved WiFi Password on macOS or Windows | louishuyng | macOS, Windows | [store](https://www.raycast.com/louishuyng/wifi-password-reveal) |
 | [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 6,011 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |

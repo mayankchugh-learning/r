@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,773 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,798 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 172,989 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 104,202 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 64,581 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -14,7 +14,7 @@
 | [Deepseek Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/deepseeker) | 11,061 | Performs one-shot actions with DeepSeek and more | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/deepseeker) |
 | [Link Cleaner](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) | 10,979 | Remove tracking parameters from URL links. | MisakiCoca | macOS | [store](https://www.raycast.com/MisakiCoca/link-cleaner) |
 | [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 10,034 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
-| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
+| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 | [Dock Tinker](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) | 6,793 | Custom hidden preferences of Dock. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/dock-tinker) |
 | [Menubar Calendar](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) | 5,840 | Show calendar and reminders in the menu bar. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/menubar-calendar) |
 | [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,470 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |

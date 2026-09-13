@@ -1,8 +1,8 @@
 # Cross-platform · System
 
-34 extensions · [← Cross-platform](../README.md)
+35 extensions · [← Cross-platform](../README.md)
 
-[Apps & Processes](#apps-processes) (4) · [Window & Desktop Management](#window-desktop-management) (1) · [Hardware & Devices](#hardware-devices) (5) · [Display & Appearance](#display-appearance) (4) · [Power & Session](#power-session) (1) · [Clipboard & Input](#clipboard-input) (1) · [Files & Storage](#files-storage) (2) · [Network](#network) (2) · [General](#general) (14)
+[Apps & Processes](#apps-processes) (4) · [Window & Desktop Management](#window-desktop-management) (1) · [Hardware & Devices](#hardware-devices) (5) · [Display & Appearance](#display-appearance) (4) · [Power & Session](#power-session) (1) · [Clipboard & Input](#clipboard-input) (1) · [Files & Storage](#files-storage) (2) · [Network](#network) (2) · [Defaults & Services](#defaults-services) (1) · [General](#general) (14)
 
 ## Apps & Windows
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,773 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 721,798 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | 706 | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 411 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 44 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
@@ -71,6 +71,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 47,857 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
 | [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 14,141 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+
+### Defaults & Services
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 
 ### General
 

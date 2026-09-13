@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · **Search & Bookmarks** · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-226 of 1487 extensions · [← macOS · Productivity](./README.md)
+225 of 1486 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -31,7 +31,6 @@
 | [Browser Tabs](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) | 9,308 | Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/browser-tabs) |
 | [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 8,407 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
 | [Jira Search](https://github.com/raycast/extensions/tree/main/extensions/jira-search) | 8,239 | Search for Jira issues (more tolerant and powerful than built-in), projects, boards and filters. | sven | macOS | [store](https://www.raycast.com/sven/jira-search) |
-| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 | [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero) | 7,849 | Search Zotero Database from Raycast | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/zotero) |
 | [Search Stack Exchange Sites](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow) | 7,047 | Search Stack Exchange Sites from Raycast | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/stackoverflow) |
 | [GitHub Gist](https://github.com/raycast/extensions/tree/main/extensions/github-gist) | 5,712 | Create, search and display GitHub gists. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/github-gist) |

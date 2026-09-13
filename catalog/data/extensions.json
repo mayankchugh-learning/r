@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b36d357f42c3f0c9bb74f58ac95192b1532d617d",
-  "generatedAt": "2026-09-13T14:56:21.316Z",
-  "downloadsRefreshedAt": "2026-09-13T14:56:20.626Z",
+  "commit": "dcc8de6681c07a7d123ed55558d4a22cf069353b",
+  "generatedAt": "2026-09-13T15:04:37.493Z",
+  "downloadsRefreshedAt": "2026-09-13T15:04:36.828Z",
   "count": 3293,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 562940
+      "downloads": 562963
     },
     {
       "dir": "color-shades",
@@ -22601,7 +22601,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 534151
+      "downloads": 534160
     },
     {
       "dir": "google-chrome-profiles",
@@ -29006,7 +29006,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 721773
+      "downloads": 721798
     },
     {
       "dir": "kimai",
@@ -58016,18 +58016,19 @@
       "description": "Quick access to your system information so you never have to open System Settings",
       "author": "Visual-Studio-Coder",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Developer Tools",
-        "Productivity"
+        "System"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/Visual-Studio-Coder/system-information",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/system-information",
-      "treeSha": "1937ddfdb7fc6025e0eef53f5656d4f23f37456a",
+      "treeSha": "d8fe6b3b8b0239a85964dd397c3d78ce6e576362",
       "downloads": 8120
     },
     {

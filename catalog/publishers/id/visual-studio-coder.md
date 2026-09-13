@@ -13,7 +13,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
+| [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information) | 8,120 | Quick access to your system information so you never have to open System Settings | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/system-information) |
 | [Markdown Table Generator](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) | 1,657 | Specify your width and height, and receive a markdown table that you can input your own values into. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/markdown-table-generator) |
 
 ## Uncategorized (1)
