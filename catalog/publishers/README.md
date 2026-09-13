@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,203,087 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,203,090 |
 | 2 | [raycast](./id/raycast.md) | 11 | 850,809 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 721,386 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 533,896 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 721,392 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 533,898 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 467,913 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 463,314 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 434,355 |
@@ -138,7 +138,7 @@
 | 128 | [k8scat](https://www.raycast.com/k8scat) | 6 | 15,575 |
 | 129 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 15,337 |
 | 130 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,093 |
-| 131 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 14,879 |
+| 131 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 14,896 |
 | 132 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 14,820 |
 | 133 | [tbrown](https://www.raycast.com/tbrown) | 1 | 14,582 |
 | 134 | [frouo](https://www.raycast.com/frouo) | 1 | 14,458 |
