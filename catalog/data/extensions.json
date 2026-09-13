@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "aa8e4ed1acb75f0670aedec302d3dbee556b21c8",
-  "generatedAt": "2026-09-13T04:19:40.371Z",
-  "downloadsRefreshedAt": "2026-09-13T04:19:39.949Z",
+  "commit": "685fcfb6c5cea439aa0df4e45b964922e30eb780",
+  "generatedAt": "2026-09-13T04:43:48.098Z",
+  "downloadsRefreshedAt": "2026-09-13T04:43:47.699Z",
   "count": 3291,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 561528
+      "downloads": 561562
     },
     {
       "dir": "color-shades",
@@ -22559,7 +22559,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 533279
+      "downloads": 533306
     },
     {
       "dir": "google-chrome-profiles",
@@ -28964,7 +28964,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 720402
+      "downloads": 720433
     },
     {
       "dir": "kimai",
@@ -44313,7 +44313,7 @@
       "store": "https://www.raycast.com/asubbotin/pomodoro",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/pomodoro",
       "treeSha": "1e6b2b2c2947687188c85f07ef82267724b4dbed",
-      "downloads": 106660
+      "downloads": 106665
     },
     {
       "dir": "popcorn",
@@ -65231,13 +65231,12 @@
       "dir": "waktu-solat",
       "name": "waktu-solat",
       "title": "Waktu Solat",
-      "description": "Check Malaysia Prayer Time (JAKIM)",
+      "description": "View Malaysia prayer times by zone in Raycast.",
       "author": "msms",
       "owner": null,
       "contributors": 1,
       "categories": [
-        "Productivity",
-        "Other"
+        "Productivity"
       ],
       "manifestCategorized": true,
       "platforms": [
@@ -65245,7 +65244,7 @@
       ],
       "store": "https://www.raycast.com/msms/waktu-solat",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/waktu-solat",
-      "treeSha": "040f2c805bd9d80be894cd081b1f494fef1e3890",
+      "treeSha": "da28c2d33752514c50b8dc1d9ce705d23e96b9cb",
       "downloads": 69
     },
     {

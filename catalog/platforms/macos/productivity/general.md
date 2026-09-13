@@ -384,7 +384,7 @@
 | [Humaans](https://github.com/raycast/extensions/tree/main/extensions/humaans) | 75 | Interact with the Humaans platform | humaans (org) | macOS | [store](https://www.raycast.com/humaans/humaans) |
 | [QOTP](https://github.com/raycast/extensions/tree/main/extensions/qotp) | 72 | QOTP is a simple tool to generate OTP code | ariesly15 | macOS | [store](https://www.raycast.com/ariesly15/qotp) |
 | [Splix](https://github.com/raycast/extensions/tree/main/extensions/splix) | 71 | Raycast interface for Splix (https://splix.app) to supercharge your productivity. | splix.app | macOS | [store](https://www.raycast.com/splix.app/splix) |
-| [Waktu Solat](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat) | 69 | Check Malaysia Prayer Time (JAKIM) | msms | macOS | [store](https://www.raycast.com/msms/waktu-solat) |
+| [Waktu Solat](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat) | 69 | View Malaysia prayer times by zone in Raycast. | msms | macOS | [store](https://www.raycast.com/msms/waktu-solat) |
 | [Yandex Smart Home](https://github.com/raycast/extensions/tree/main/extensions/yandex-smart-home) | 69 | Control Yandex Smart Home devices and run scenarios from Raycast. | devall | macOS, Windows | [store](https://www.raycast.com/devall/yandex-smart-home) |
 | [QuickFile](https://github.com/raycast/extensions/tree/main/extensions/quickfile) | 67 | Access your QuickFile account balances. | danielroe | macOS | [store](https://www.raycast.com/danielroe/quickfile) |
 | [TourBox](https://github.com/raycast/extensions/tree/main/extensions/tourbox) | 67 | Find Your Desired TourBox Preset | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/tourbox) |

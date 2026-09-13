@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 106,660 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
+| [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) | 106,665 | Pomodoro extension with menu-bar timer | asubbotin | macOS | [store](https://www.raycast.com/asubbotin/pomodoro) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 64,581 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 57,460 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Password Generator](https://github.com/raycast/extensions/tree/main/extensions/password-generator) | 39,661 | Generates a password from 5–64 characters with options for case, special characters, and more | joshuaiz | macOS, Windows | [store](https://www.raycast.com/joshuaiz/password-generator) |

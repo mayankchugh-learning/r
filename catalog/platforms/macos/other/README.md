@@ -1,8 +1,8 @@
 # macOS · Other
 
-185 extensions · [← macOS](../README.md)
+184 extensions · [← macOS](../README.md)
 
-[AI Tools](#ai-tools) (15) · [Developer Utilities](#developer-utilities) (10) · [Productivity & Tasks](#productivity-tasks) (5) · [Media & Entertainment](#media-entertainment) (11) · [Language & Translation](#language-translation) (8) · [Health & Lifestyle](#health-lifestyle) (5) · [Travel & Transport](#travel-transport) (18) · [Smart Home & IoT](#smart-home-iot) (6) · [System & Hardware](#system-hardware) (7) · [Web & Search](#web-search) (26) · [Communication & Social](#communication-social) (3) · [Education & Learning](#education-learning) (2) · [General](#general) (69)
+[AI Tools](#ai-tools) (15) · [Developer Utilities](#developer-utilities) (10) · [Productivity & Tasks](#productivity-tasks) (5) · [Media & Entertainment](#media-entertainment) (11) · [Language & Translation](#language-translation) (8) · [Health & Lifestyle](#health-lifestyle) (4) · [Travel & Transport](#travel-transport) (18) · [Smart Home & IoT](#smart-home-iot) (6) · [System & Hardware](#system-hardware) (7) · [Web & Search](#web-search) (26) · [Communication & Social](#communication-social) (3) · [Education & Learning](#education-learning) (2) · [General](#general) (69)
 
 ## Digital Tools
 
@@ -102,7 +102,6 @@
 | --- | --- | --- | --- | --- | --- |
 | [Acqua](https://github.com/raycast/extensions/tree/main/extensions/acqua) | 878 | Acqua helps you remember to regularly drink water. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/acqua) |
 | [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 551 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
-| [Waktu Solat](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat) | 69 | Check Malaysia Prayer Time (JAKIM) | msms | macOS | [store](https://www.raycast.com/msms/waktu-solat) |
 | [Airsy](https://github.com/raycast/extensions/tree/main/extensions/airsy) | 55 | Check air pollution in Poland | piotrzaborow | macOS | [store](https://www.raycast.com/piotrzaborow/airsy) |
 | [Dexcom Reader](https://github.com/raycast/extensions/tree/main/extensions/dexcom-reader) | 30 | Get your glucose readings from Dexcom | pablo_medina | macOS | [store](https://www.raycast.com/pablo_medina/dexcom-reader) |
 

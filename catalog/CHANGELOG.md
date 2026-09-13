@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `685fcfb6c5`
+
+**Updated (1):** [Waktu Solat](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat)
+
 ## 2026-09-13 — upstream `aa8e4ed1ac`
 
 **Updated (1):** [Pomodoro](https://github.com/raycast/extensions/tree/main/extensions/pomodoro)

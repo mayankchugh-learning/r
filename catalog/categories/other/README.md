@@ -1,8 +1,8 @@
 # Other
 
-187 extensions · [← all categories](../README.md)
+186 extensions · [← all categories](../README.md)
 
-macOS: 185 · Windows: 39
+macOS: 184 · Windows: 39
 
 ## Digital Tools
 
@@ -18,7 +18,7 @@ macOS: 185 · Windows: 39
 
 | Topic | Extensions |
 | --- | --- |
-| [Health & Lifestyle](./health-lifestyle.md) | 5 |
+| [Health & Lifestyle](./health-lifestyle.md) | 4 |
 | [Travel & Transport](./travel-transport.md) | 18 |
 | [Smart Home & IoT](./smart-home-iot.md) | 6 |
 | [Education & Learning](./education-learning.md) | 2 |
