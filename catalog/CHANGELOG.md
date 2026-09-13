@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `a79448785b`
+
+**Updated (1):** [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window)
+
 ## 2026-09-13 — upstream `e115ad9d00`
 
 **Updated (1):** [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e115ad9d003bb8348a33d855f8696528c029e4ca",
-  "generatedAt": "2026-09-13T15:05:43.380Z",
-  "downloadsRefreshedAt": "2026-09-13T15:05:42.686Z",
+  "commit": "a79448785b1bb8c6ccfa0e53e957b5812efab026",
+  "generatedAt": "2026-09-13T15:07:41.730Z",
+  "downloadsRefreshedAt": "2026-09-13T15:07:41.264Z",
   "count": 3293,
   "extensions": [
     {
@@ -4541,7 +4541,7 @@
       ],
       "store": "https://www.raycast.com/Popo/bento-window",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bento-window",
-      "treeSha": "73d44d1a227202f8143e446017ced1b789244766",
+      "treeSha": "a3027f25995b08425bc2883ef7f22243825086bf",
       "downloads": 37
     },
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 562966
+      "downloads": 562974
     },
     {
       "dir": "color-shades",
@@ -22601,7 +22601,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 534162
+      "downloads": 534165
     },
     {
       "dir": "google-chrome-profiles",
@@ -29006,7 +29006,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 721803
+      "downloads": 721813
     },
     {
       "dir": "kimai",
