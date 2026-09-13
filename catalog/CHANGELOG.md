@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `e115ad9d00`
+
+**Updated (1):** [Better JSON Inspector](https://github.com/raycast/extensions/tree/main/extensions/better-json)
+
 ## 2026-09-13 — upstream `dcc8de6681`
 
 **Updated (1):** [System Information](https://github.com/raycast/extensions/tree/main/extensions/system-information)
