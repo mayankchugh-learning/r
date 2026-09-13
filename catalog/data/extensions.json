@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "96ae3a5f27c1fc132cc50f1dc57ed692a12b9664",
-  "generatedAt": "2026-09-13T04:50:37.776Z",
-  "downloadsRefreshedAt": "2026-09-13T04:50:36.946Z",
+  "commit": "e324ec3793617ac1e156e88dbea6417aa9004d59",
+  "generatedAt": "2026-09-13T12:44:52.754Z",
+  "downloadsRefreshedAt": "2026-09-13T12:44:52.246Z",
   "count": 3291,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 561571
+      "downloads": 562555
     },
     {
       "dir": "color-shades",
@@ -22559,7 +22559,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 533314
+      "downloads": 533896
     },
     {
       "dir": "google-chrome-profiles",
@@ -28964,7 +28964,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 720439
+      "downloads": 721386
     },
     {
       "dir": "kimai",
@@ -60925,7 +60925,7 @@
       ],
       "store": "https://www.raycast.com/franzwilhelm/toggl-track",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/toggl-track",
-      "treeSha": "aaae0cbfe8b7748ec4dbec304b19b80c91442748",
+      "treeSha": "1a71c2c84d447f217f164479751f5bf728164e46",
       "downloads": 13479
     },
     {
