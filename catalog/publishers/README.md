@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,199,582 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,200,529 |
 | 2 | [raycast](./id/raycast.md) | 11 | 849,174 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 719,218 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 532,548 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 720,126 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 533,090 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 467,041 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 462,495 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 433,581 |
@@ -595,7 +595,7 @@
 | 585 | [blainerothrock](https://www.raycast.com/blainerothrock) | 1 | 1,239 |
 | 586 | [juhamust](https://www.raycast.com/juhamust) | 2 | 1,238 |
 | 587 | [brianfakhoury](https://www.raycast.com/brianfakhoury) | 1 | 1,238 |
-| 588 | [conner_luzier](https://www.raycast.com/conner_luzier) | 1 | 1,236 |
+| 588 | [conner_luzier](https://www.raycast.com/conner_luzier) | 1 | 1,238 |
 | 589 | [resend](https://www.raycast.com/resend) | 1 | 1,233 |
 | 590 | [fayecat](https://www.raycast.com/fayecat) | 1 | 1,229 |
 | 591 | [bensomething](https://www.raycast.com/bensomething) | 3 | 1,227 |

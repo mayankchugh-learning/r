@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3b0778d7fea4046e60061f8df7a1d6f4bf7cd67d",
-  "generatedAt": "2026-09-12T17:20:53.385Z",
-  "downloadsRefreshedAt": "2026-09-12T17:20:53.078Z",
+  "commit": "9b237a07807c1ea87f990927f11b3384922392ef",
+  "generatedAt": "2026-09-13T01:29:48.095Z",
+  "downloadsRefreshedAt": "2026-09-13T01:29:47.670Z",
   "count": 3291,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 560286
+      "downloads": 561233
     },
     {
       "dir": "color-shades",
@@ -22559,7 +22559,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 532548
+      "downloads": 533090
     },
     {
       "dir": "google-chrome-profiles",
@@ -23239,8 +23239,8 @@
       ],
       "store": "https://www.raycast.com/conner_luzier/graphcalc",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/graphcalc",
-      "treeSha": "991edca5f3c83eaba6ff5fec8847b01990099e43",
-      "downloads": 1236
+      "treeSha": "cbee8d966a491627e6ec41e668d5f7970471beb2",
+      "downloads": 1238
     },
     {
       "dir": "graphcdn",
@@ -28964,7 +28964,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 719218
+      "downloads": 720126
     },
     {
       "dir": "kimai",
