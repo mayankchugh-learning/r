@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `219cacd8cf`
+
+**Updated (1):** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)
+
 ## 2026-09-13 — upstream `d66baa0f32`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
