@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,527 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
-| [CodeGeex](https://github.com/raycast/extensions/tree/main/extensions/codegeex) | 488 | CodeGeex AI code tools | MBearo | macOS | [store](https://www.raycast.com/MBearo/codegeex) |
+| [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,529 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
+| [CodeGeex](https://github.com/raycast/extensions/tree/main/extensions/codegeex) | 489 | CodeGeex AI code tools | MBearo | macOS | [store](https://www.raycast.com/MBearo/codegeex) |
 | [Klu](https://github.com/raycast/extensions/tree/main/extensions/klu-ai) | 128 | Klu AI extension for Raycast | abielzulio | macOS | [store](https://www.raycast.com/abielzulio/klu-ai) |
 
 ### Developer Utilities
@@ -30,5 +30,5 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 9,429 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
-| [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) | 1,458 | Use Huggingface models for summarization, translation, ... | ragnor | macOS | [store](https://www.raycast.com/ragnor/huggingcast) |
+| [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) | 9,444 | Query Wolfram Alpha right from Raycast | mathieudutour | macOS, Windows | [store](https://www.raycast.com/mathieudutour/wolfram-alpha) |
+| [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) | 1,461 | Use Huggingface models for summarization, translation, ... | ragnor | macOS | [store](https://www.raycast.com/ragnor/huggingcast) |

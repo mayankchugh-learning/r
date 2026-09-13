@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,654 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
-| [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub) | 1,623 | Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Ra… | dubinc (org) | macOS | [store](https://www.raycast.com/dubinc/dub) |
-| [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,244 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,659 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub) | 1,629 | Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Ra… | dubinc (org) | macOS | [store](https://www.raycast.com/dubinc/dub) |
+| [Just Delete Me](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) | 1,246 | A directory of direct links to delete your account from web services. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/just-delete-me) |
 | [Create Link](https://github.com/raycast/extensions/tree/main/extensions/create-link) | 780 | Create a link to the currently open browser tab in various formats (plain text, HTML, Markdown). | sinsky | macOS | [store](https://www.raycast.com/sinsky/create-link) |
 | [Chakra UI Documentation](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) | 697 | Provide quick links to the Chakra UI component documentation. | pgvr | macOS | [store](https://www.raycast.com/pgvr/chakra-ui-docs) |
 | [DNS Lookup](https://github.com/raycast/extensions/tree/main/extensions/dns-lookup) | 359 | Check DNS propagation instantly. | valentin_denis | macOS, Windows | [store](https://www.raycast.com/valentin_denis/dns-lookup) |

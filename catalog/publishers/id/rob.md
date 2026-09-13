@@ -1,22 +1,22 @@
 # Rob
 
-11 extensions · 11,590 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
+11 extensions · 11,609 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
 
 ## Productivity (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 7,552 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 116 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 7,566 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 117 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 
 ## Fun (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 666 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
-| [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 550 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
+| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 667 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
+| [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 551 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
 | [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 387 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
-| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 348 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
+| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 350 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [Bump Name Match](https://github.com/raycast/extensions/tree/main/extensions/bumpnamematch) | 5 | Discover name meanings, origins, and more - then match your favorite baby names with your partner | Rob | macOS | [store](https://www.raycast.com/Rob/bump-name-match) |
 
 ## Design Tools (2)
