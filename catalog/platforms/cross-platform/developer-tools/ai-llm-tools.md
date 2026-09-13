@@ -2,7 +2,7 @@
 
 **AI & LLM Tools** · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-38 of 309 extensions · [← Cross-platform · Developer Tools](./README.md)
+39 of 310 extensions · [← Cross-platform · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -37,6 +37,7 @@
 | [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town) | 61 | Browse your vals, read their logs and traces, and allow Raycast AI to run the ones you choose | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/val-town) |
 | [SSH Image Drop](https://github.com/raycast/extensions/tree/main/extensions/ssh-image-drop) | 54 | Send files, folders, and clipboard images over SSH with a single hotkey, and pull them back — no path typing, the remote path lands on your clipboard. Handy fo… | wjsong | macOS, Windows | [store](https://www.raycast.com/wjsong/ssh-image-drop) |
 | [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 51 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |
+| [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) | 37 | Shows the usage of all the connected OpenCodex model providers | jonas_list | macOS, Windows | [store](https://www.raycast.com/jonas_list/opencodex-usage) |
 | [Is Agentic](https://github.com/raycast/extensions/tree/main/extensions/is-agentic) | 33 | Check how ready a website is for AI agents | 0xdhrv | Windows, macOS | [store](https://www.raycast.com/0xdhrv/is-agentic) |
 | [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 18 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
 | [ZenMux Manager](https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager) | 18 | Monitor ZenMux usage, manage account links, and ask Raycast AI about ZenMux. | abnershang | macOS, Windows | [store](https://www.raycast.com/abnershang/zenmux-manager) |

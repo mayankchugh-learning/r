@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `96ae3a5f27`
+
+**Updated (1):** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage)
+
 ## 2026-09-13 — upstream `685fcfb6c5`
 
 **Updated (1):** [Waktu Solat](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat)
