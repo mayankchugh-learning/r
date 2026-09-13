@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `1ffe7dcd05`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-13 — upstream `8c06e08a7a`
 
 **Added (1):** [Create Barcode](https://github.com/raycast/extensions/tree/main/extensions/create-barcode)
