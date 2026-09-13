@@ -1,6 +1,6 @@
 # General
 
-376 extensions · [← Productivity](./README.md)
+377 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -379,4 +379,5 @@
 | [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) | 2 | Manage Tesla dashcam and Sentry clips — merge split recordings or remove merged outputs. | TurboCoder13 | macOS | [store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 | [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday) | 0 | Companion for Calliday, the automatic time tracker for macOS. Requires the Calliday app. | yaanisy | macOS | [store](https://www.raycast.com/yaanisy/calliday) |
+| [Create Barcode](https://github.com/raycast/extensions/tree/main/extensions/create-barcode) | 0 | Generate EAN-13, ITF, NW-7 (Codabar), CODE39 and CODE128 barcodes as you type, preview them instantly, and export them as PNG or SVG. | togashi12 | macOS, Windows | [store](https://www.raycast.com/togashi12/create-barcode) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | 0 | Quickly add vocabulary cards to your Joey decks | tai | macOS | [store](https://www.raycast.com/tai/joey-vocab) |

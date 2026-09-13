@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-13 — upstream `8c06e08a7a`
+
+**Added (1):** [Create Barcode](https://github.com/raycast/extensions/tree/main/extensions/create-barcode)
+
 ## 2026-09-13 — upstream `74c1cc6637`
 
 **Added (1):** [Gadak](https://github.com/raycast/extensions/tree/main/extensions/gadak)

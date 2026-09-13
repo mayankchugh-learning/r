@@ -1,8 +1,8 @@
 # Design & Assets
 
-40 extensions · [← Developer Tools](./README.md)
+41 extensions · [← Developer Tools](./README.md)
 
-[Color ✦](#color) (12) · [Images ✦](#images) (12) · [Icons ✦](#icons) (11) · [General](#general) (5)
+[Color ✦](#color) (12) · [Images ✦](#images) (12) · [Icons ✦](#icons) (11) · [Svg ✦](#svg) (4) · [General](#general) (2)
 
 *✦ auto-discovered topic group*
 
@@ -56,12 +56,18 @@
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 20 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Central Icons](https://github.com/raycast/extensions/tree/main/extensions/central-icons) | 12 | Browse, search and export all Central icons — copy or paste SVG, code snippets, or export SVG files. | tamino-martinius | macOS | [store](https://www.raycast.com/tamino-martinius/central-icons) |
 
-## General
+## Svg ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 40,158 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
 | [SVGO](https://github.com/raycast/extensions/tree/main/extensions/svgo) | 3,557 | Optimize SVG vector graphics files. | kaichi | macOS | [store](https://www.raycast.com/kaichi/raycast-svgo) |
-| [Carbon Screenshot for Raycast](https://github.com/raycast/extensions/tree/main/extensions/carbon-raycast) | 2,342 | Uses the carbon.now.sh to create beautiful screenshot you can share online or with your team | adelowo | macOS | [store](https://www.raycast.com/adelowo/carbon-code-screenshot-for-raycast) |
 | [SVG64 - Convert SVGs to Base64 Strings](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) | 570 | Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-svg64) |
+| [Create Barcode](https://github.com/raycast/extensions/tree/main/extensions/create-barcode) | 0 | Generate EAN-13, ITF, NW-7 (Codabar), CODE39 and CODE128 barcodes as you type, preview them instantly, and export them as PNG or SVG. | togashi12 | macOS, Windows | [store](https://www.raycast.com/togashi12/create-barcode) |
+
+## General
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Carbon Screenshot for Raycast](https://github.com/raycast/extensions/tree/main/extensions/carbon-raycast) | 2,342 | Uses the carbon.now.sh to create beautiful screenshot you can share online or with your team | adelowo | macOS | [store](https://www.raycast.com/adelowo/carbon-code-screenshot-for-raycast) |
 | [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 26 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |

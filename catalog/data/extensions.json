@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "74c1cc66375f5691b6a4f89aa869825cf29a4aaa",
-  "generatedAt": "2026-09-13T13:00:52.542Z",
-  "downloadsRefreshedAt": "2026-09-13T13:00:51.142Z",
-  "count": 3292,
+  "commit": "8c06e08a7a001c345d3516471d65620d527f9095",
+  "generatedAt": "2026-09-13T13:06:30.298Z",
+  "downloadsRefreshedAt": "2026-09-13T13:06:29.895Z",
+  "count": 3293,
   "extensions": [
     {
       "dir": "0x0",
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 562597
+      "downloads": 562616
     },
     {
       "dir": "color-shades",
@@ -11517,6 +11517,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/crawldoc",
       "treeSha": "e591b8a0f6d6e4163db40396832d8e72c88b1b28",
       "downloads": 314
+    },
+    {
+      "dir": "create-barcode",
+      "name": "create-barcode",
+      "title": "Create Barcode",
+      "description": "Generate EAN-13, ITF, NW-7 (Codabar), CODE39 and CODE128 barcodes as you type, preview them instantly, and export them as PNG or SVG.",
+      "author": "togashi12",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/togashi12/create-barcode",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/create-barcode",
+      "treeSha": "245bc34f1b1e223f11de6065acfc0e8392127ab7",
+      "downloads": 0
     },
     {
       "dir": "create-link",
@@ -22579,7 +22601,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 533924
+      "downloads": 533935
     },
     {
       "dir": "google-chrome-profiles",
@@ -28984,7 +29006,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "cc5089d35dc3cb4f321ffebd80da18a513b4115b",
-      "downloads": 721427
+      "downloads": 721444
     },
     {
       "dir": "kimai",
