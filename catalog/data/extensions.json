@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "777189042cfcad935b2bf065217e77b4504e522c",
-  "generatedAt": "2026-09-14T17:40:22.675Z",
-  "downloadsRefreshedAt": "2026-09-14T17:40:21.957Z",
-  "count": 3295,
+  "commit": "bf35039f1e516c39f579d875d71b050e21a2bcf4",
+  "generatedAt": "2026-09-14T19:39:42.272Z",
+  "downloadsRefreshedAt": "2026-09-14T19:39:41.900Z",
+  "count": 3296,
   "extensions": [
     {
       "dir": "0x0",
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 568969
+      "downloads": 569455
     },
     {
       "dir": "color-shades",
@@ -22602,7 +22602,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 538180
+      "downloads": 538472
     },
     {
       "dir": "google-chrome-profiles",
@@ -25457,6 +25457,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/huggingcast",
       "treeSha": "5bdf00c5225b1e3090241dd24cb97e4122a4daf7",
       "downloads": 1466
+    },
+    {
+      "dir": "hule",
+      "name": "hule",
+      "title": "Hule",
+      "description": "Create, find and update Hule tasks without leaving your keyboard.",
+      "author": "tony_hule",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/tony_hule/hule",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/hule",
+      "treeSha": "6fe6d66d6f81c108d9c38d51828cbd4030620938",
+      "downloads": 0
     },
     {
       "dir": "humaans",
@@ -29007,7 +29027,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 727847
+      "downloads": 728350
     },
     {
       "dir": "kimai",

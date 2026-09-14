@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `bf35039f1e`
+
+**Added (1):** [Hule](https://github.com/raycast/extensions/tree/main/extensions/hule)
+
 ## 2026-09-14 — upstream `777189042c`
 
 **Updated (1):** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome)

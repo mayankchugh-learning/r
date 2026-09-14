@@ -1,6 +1,6 @@
 # Publishers
 
-2208 publishers · [← catalog index](../README.md)
+2209 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,215,296 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,215,782 |
 | 2 | [raycast](./id/raycast.md) | 11 | 858,554 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 727,847 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 538,180 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 728,350 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 538,472 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 471,859 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 467,226 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 437,745 |
@@ -2213,6 +2213,7 @@
 | 2203 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2204 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
 | 2205 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2206 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2207 | github-next | 2 | — |
-| 2208 | multi | 1 | — |
+| 2206 | [tony_hule](https://www.raycast.com/tony_hule) | 1 | 0 |
+| 2207 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2208 | github-next | 2 | — |
+| 2209 | multi | 1 | — |
