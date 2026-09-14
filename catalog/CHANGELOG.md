@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `28cd3dcb20`
+
+**Updated (1):** [Git](https://github.com/raycast/extensions/tree/main/extensions/git)
+
 ## 2026-09-14 — upstream `9a7ecf3dd9`
 
 **Updated (1):** [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)
