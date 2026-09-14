@@ -18,14 +18,14 @@
 | [Irish Rail](https://github.com/raycast/extensions/tree/main/extensions/irish-rail) | 32 | Irish Rail departure information | dave-kav | macOS | [store](https://www.raycast.com/dave-kav/irish-rail) |
 | [Trenit](https://github.com/raycast/extensions/tree/main/extensions/trenit) | 32 | Italian Rail departure information | gianpiero_spinelli | macOS | [store](https://www.raycast.com/gianpiero_spinelli/trenit) |
 | [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) | 28 | Gets departure times at train and bus stations in Switzerland. | etienne_gobeli | macOS | [store](https://www.raycast.com/etienne_gobeli/swiss-train-times) |
-| [Transport NSW](https://github.com/raycast/extensions/tree/main/extensions/transport-nsw) | 17 | View real-time departures for Sydney trains, metro, and light rail | barlow | macOS | [store](https://www.raycast.com/barlow/transport-nsw) |
+| [Transport NSW](https://github.com/raycast/extensions/tree/main/extensions/transport-nsw) | 18 | View real-time departures for Sydney trains, metro, and light rail | barlow | macOS | [store](https://www.raycast.com/barlow/transport-nsw) |
 
 ## Train ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Netherlands Railways Train Search](https://github.com/raycast/extensions/tree/main/extensions/ns-nl-search) | 77 | With the Raycast extension for Netherlands Railways, you can easily find train schedules, routes, and real-time updates for the Dutch railway system. This exte… | flaticols | macOS | [store](https://www.raycast.com/flaticols/ns-nl-search) |
-| [SncfTrainTimes](https://github.com/raycast/extensions/tree/main/extensions/sncftraintimes) | 73 | Fetch train times for SNCF train lines | Pierrad | macOS | [store](https://www.raycast.com/Pierrad/sncftraintimes) |
+| [SncfTrainTimes](https://github.com/raycast/extensions/tree/main/extensions/sncftraintimes) | 74 | Fetch train times for SNCF train lines | Pierrad | macOS | [store](https://www.raycast.com/Pierrad/sncftraintimes) |
 | [Elron Train Times](https://github.com/raycast/extensions/tree/main/extensions/elron) | 29 | Fetch train times for Elron train times | raimond | macOS | [store](https://www.raycast.com/raimond/elron) |
 | [CTA - Chicago Transit Authority](https://github.com/raycast/extensions/tree/main/extensions/cta) | 16 | Track and view estimated times for buses and trains provided by the Chicago Transit Authority. | jonathan_ochocki | macOS | [store](https://www.raycast.com/jonathan_ochocki/cta) |
 
@@ -33,8 +33,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 42,466 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
-| [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 216 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
+| [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 42,601 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
+| [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 217 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Check Citi Bike Availability](https://github.com/raycast/extensions/tree/main/extensions/check-citi-bike-availability) | 34 | Check the availability of bikes/e-bikes at CitiBike NYC stations. | kcole93 | macOS | [store](https://www.raycast.com/kcole93/check-citi-bike-availability) |
 | [Active Mississaugua](https://github.com/raycast/extensions/tree/main/extensions/active-mississaugua) | 22 | Explore activities for the city of Mississaugua in Ontario, Canada. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/active-mississaugua) |
 | [Bikeshare Station Status](https://github.com/raycast/extensions/tree/main/extensions/bikeshare-station-status) | 6 | Check bike availability at Lyft bikeshare stations, including Citibike (NYC), Bay Wheels (Bay Area), Capital Bikeshare (DC), Biketown (Portland), and Divvy (Ch… | itsmingjie | macOS, Windows | [store](https://www.raycast.com/itsmingjie/bikeshare-station-status) |

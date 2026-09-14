@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `527984bb80`
+
+**Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
+
 ## 2026-09-13 — upstream `a79448785b`
 
 **Updated (1):** [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window)
