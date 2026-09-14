@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 161,321 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,163 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,728 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,210,781 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,210,788 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 320,550 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,746 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 436,090 |
@@ -394,8 +394,8 @@
 | 384 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 9 |
 | 386 | github-next | 2 | — |
-| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 726,249 |
-| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 537,138 |
+| 387 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 726,257 |
+| 388 | [Codely](https://www.raycast.com/Codely) | 1 | 537,141 |
 | 389 | [linear](https://www.raycast.com/linear) | 1 | 375,789 |
 | 390 | [mommertf](https://www.raycast.com/mommertf) | 1 | 312,560 |
 | 391 | [nhojb](https://www.raycast.com/nhojb) | 1 | 275,659 |
@@ -2209,10 +2209,10 @@
 | 2199 | [vbrs](https://www.raycast.com/vbrs) | 1 | 1 |
 | 2200 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2201 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2202 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2203 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2204 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2205 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2206 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2207 | dmitrysereda | 1 | — |
+| 2202 | [dmitrysereda](https://www.raycast.com/dmitrysereda) | 1 | 0 |
+| 2203 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2204 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2205 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2206 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2207 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
 | 2208 | multi | 1 | — |

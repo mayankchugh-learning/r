@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f5f43f9d1502198560b214e142cf8522731fc177",
-  "generatedAt": "2026-09-14T12:23:32.140Z",
-  "downloadsRefreshedAt": "2026-09-14T12:23:31.714Z",
+  "commit": "d2edae5a5babf0f8f714071f9cab9cc8e5e590bb",
+  "generatedAt": "2026-09-14T12:25:23.076Z",
+  "downloadsRefreshedAt": "2026-09-14T12:25:22.376Z",
   "count": 3295,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 567394
+      "downloads": 567401
     },
     {
       "dir": "color-shades",
@@ -22601,7 +22601,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 537138
+      "downloads": 537141
     },
     {
       "dir": "google-chrome-profiles",
@@ -29006,7 +29006,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 726249
+      "downloads": 726257
     },
     {
       "dir": "kimai",
@@ -44754,10 +44754,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/dmitrysereda/postproxy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/postproxy",
       "treeSha": "328df00b40af30b9680c3eb4aaa0671338d828e0",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "potter-db",
@@ -46823,7 +46823,7 @@
       ],
       "store": "https://www.raycast.com/pradeepb28/quicktime",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quicktime",
-      "treeSha": "5715b453ccd5d983b959200f5b06594462a9d36a",
+      "treeSha": "88e1c40ed2494775f2a1cf5c55eac711c2c3d82b",
       "downloads": 15097
     },
     {

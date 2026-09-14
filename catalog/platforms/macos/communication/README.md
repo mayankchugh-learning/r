@@ -105,8 +105,8 @@
 | [Nostr](https://github.com/raycast/extensions/tree/main/extensions/nostr) | 22 | Publish notes to Nostr | saadel | macOS | [store](https://www.raycast.com/saadel/nostr) |
 | [Publora](https://github.com/raycast/extensions/tree/main/extensions/publora) | 19 | Manage your social media with Publora | anton_shvein | macOS | [store](https://www.raycast.com/anton_shvein/publora) |
 | [Akkoma](https://github.com/raycast/extensions/tree/main/extensions/akkoma) | 17 | Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/akkoma) |
+| [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | 0 | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | [store](https://www.raycast.com/dmitrysereda/postproxy) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | 0 | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
-| [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | — | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | — |
 
 ### Links & Sharing
 

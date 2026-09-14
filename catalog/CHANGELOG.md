@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `d2edae5a5b`
+
+**Updated (1):** [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime)
+
 ## 2026-09-14 — upstream `f5f43f9d15`
 
 **Added (1):** [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy)
