@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `cf327b607c`
+
+**Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)
+
 ## 2026-09-14 — upstream `5b4bbb8ed0`
 
 **Updated (1):** [OmniFocus](https://github.com/raycast/extensions/tree/main/extensions/omnifocus)

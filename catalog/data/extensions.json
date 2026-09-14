@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5b4bbb8ed0e5e2a59944381cddb06a61a04b7803",
-  "generatedAt": "2026-09-14T20:00:47.298Z",
-  "downloadsRefreshedAt": "2026-09-14T20:00:46.885Z",
+  "commit": "cf327b607c92c996d072f5a73cfba5b7360d70a9",
+  "generatedAt": "2026-09-14T20:26:29.218Z",
+  "downloadsRefreshedAt": "2026-09-14T20:26:27.988Z",
   "count": 3296,
   "extensions": [
     {
@@ -9829,7 +9829,7 @@
       ],
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
-      "treeSha": "91527078a476a52ee8dc2017549acf93844969f1",
+      "treeSha": "8c8e32509a65a5d5a754f9c062123982324f405b",
       "downloads": 140100
     },
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 569555
+      "downloads": 569656
     },
     {
       "dir": "color-shades",
@@ -22602,7 +22602,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 538531
+      "downloads": 538596
     },
     {
       "dir": "google-chrome-profiles",
@@ -29027,7 +29027,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 728449
+      "downloads": 728544
     },
     {
       "dir": "kimai",
@@ -39725,7 +39725,7 @@
       "store": "https://www.raycast.com/nicolas-marien/omnifocus",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/omnifocus",
       "treeSha": "95e73618d67e66324c4939251b77a83d9bea459a",
-      "downloads": 2031
+      "downloads": 2039
     },
     {
       "dir": "omnivore",
