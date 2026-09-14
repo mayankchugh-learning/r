@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `db0d3c9f23`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-14 — upstream `d2edae5a5b`
 
 **Updated (1):** [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime)

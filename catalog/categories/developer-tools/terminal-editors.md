@@ -10,18 +10,18 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 23,866 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
-| [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 14,221 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
-| [Open Path](https://github.com/raycast/extensions/tree/main/extensions/open-path) | 4,058 | Open path and link from selection or clipboard in Finder, browsers, terminal, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-path) |
-| [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh) | 2,871 | Smart, instant terminal session management. | joshmedeski | macOS | [store](https://www.raycast.com/joshmedeski/sesh) |
-| [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,858 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
-| [cmux](https://github.com/raycast/extensions/tree/main/extensions/cmux) | 895 | Interacts with the cmux terminal app for Mac | steve_occhipinti | macOS | [store](https://www.raycast.com/steve_occhipinti/cmux) |
-| [Kitty](https://github.com/raycast/extensions/tree/main/extensions/kitty) | 313 | Control Kitty terminal via its remote control protocol | jerome_soyer | macOS | [store](https://www.raycast.com/jerome_soyer/kitty) |
-| [Respace](https://github.com/raycast/extensions/tree/main/extensions/respace) | 251 | Open apps, files, folders, URLs, and terminal commands in organized workspace bundles | royal-lobster | macOS | [store](https://www.raycast.com/Royal-lobster/respace) |
+| [Terminal Finder](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) | 23,951 | Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm, cmux) and vice versa | yedongze | macOS | [store](https://www.raycast.com/yedongze/terminalfinder) |
+| [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 14,270 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
+| [Open Path](https://github.com/raycast/extensions/tree/main/extensions/open-path) | 4,072 | Open path and link from selection or clipboard in Finder, browsers, terminal, etc. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/open-path) |
+| [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh) | 2,891 | Smart, instant terminal session management. | joshmedeski | macOS | [store](https://www.raycast.com/joshmedeski/sesh) |
+| [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) | 1,860 | Launch and manage Windows Terminal instances | lunaris | Windows | [store](https://www.raycast.com/lunaris/windows-terminal) |
+| [cmux](https://github.com/raycast/extensions/tree/main/extensions/cmux) | 908 | Interacts with the cmux terminal app for Mac | steve_occhipinti | macOS | [store](https://www.raycast.com/steve_occhipinti/cmux) |
+| [Kitty](https://github.com/raycast/extensions/tree/main/extensions/kitty) | 317 | Control Kitty terminal via its remote control protocol | jerome_soyer | macOS | [store](https://www.raycast.com/jerome_soyer/kitty) |
+| [Respace](https://github.com/raycast/extensions/tree/main/extensions/respace) | 253 | Open apps, files, folders, URLs, and terminal commands in organized workspace bundles | royal-lobster | macOS | [store](https://www.raycast.com/Royal-lobster/respace) |
 | [Tabby](https://github.com/raycast/extensions/tree/main/extensions/tabby) | 127 | Control Tabby terminal with Raycast | chupi | macOS, Windows | [store](https://www.raycast.com/chupi/tabby) |
-| [Terminal Image Paste](https://github.com/raycast/extensions/tree/main/extensions/terminal-image-paste) | 112 | Paste clipboard image as a file path — works in any terminal, SSH session, or TUI app | iisweetheartii | macOS | [store](https://www.raycast.com/iisweetheartii/terminal-image-paste) |
-| [ShiftPlus](https://github.com/raycast/extensions/tree/main/extensions/shiftplus) | 72 | Switch your full project context — browser profiles, apps, terminal, windows — from Raycast. | nghia_luong | macOS | [store](https://www.raycast.com/nghia_luong/shiftplus) |
-| [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | 38 | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | [store](https://www.raycast.com/Ethan_Cao/otty) |
+| [Terminal Image Paste](https://github.com/raycast/extensions/tree/main/extensions/terminal-image-paste) | 113 | Paste clipboard image as a file path — works in any terminal, SSH session, or TUI app | iisweetheartii | macOS | [store](https://www.raycast.com/iisweetheartii/terminal-image-paste) |
+| [ShiftPlus](https://github.com/raycast/extensions/tree/main/extensions/shiftplus) | 73 | Switch your full project context — browser profiles, apps, terminal, windows — from Raycast. | nghia_luong | macOS | [store](https://www.raycast.com/nghia_luong/shiftplus) |
+| [Otty](https://github.com/raycast/extensions/tree/main/extensions/otty) | 39 | Control the Otty terminal from Raycast. | Ethan_Cao | macOS | [store](https://www.raycast.com/Ethan_Cao/otty) |
 | [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 7 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS | [store](https://www.raycast.com/fhf1121/dated-folder) |
 
 ## CLI ✦
@@ -29,7 +29,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Foundry Cast CLI](https://github.com/raycast/extensions/tree/main/extensions/foundry-cast-cli) | 141 | Use the Cast CLI directly inside Raycast | merklefruit | macOS | [store](https://www.raycast.com/merklefruit/foundry-cast-cli) |
-| [WordPress WP-CLI Commands Explorer](https://github.com/raycast/extensions/tree/main/extensions/wp-cli-command-explorer) | 136 | Browse and search WP-CLI commands with their descriptions and subcommands | aslamdoctor | macOS | [store](https://www.raycast.com/aslamdoctor/wp-cli-command-explorer) |
+| [WordPress WP-CLI Commands Explorer](https://github.com/raycast/extensions/tree/main/extensions/wp-cli-command-explorer) | 139 | Browse and search WP-CLI commands with their descriptions and subcommands | aslamdoctor | macOS | [store](https://www.raycast.com/aslamdoctor/wp-cli-command-explorer) |
 | [Apfel](https://github.com/raycast/extensions/tree/main/extensions/apfel) | 129 | Interact with Apfel CLI from Raycast! | eggsy | macOS | [store](https://www.raycast.com/eggsy/apfel) |
 | [WeChat DevTool](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool) | 41 | Quickly open WeChat mini program project via official CLI. | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/wechat-devtool) |
 | [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) | 6 | Search the Aqua Registry for CLI tools and copy commands to add them to aqua.yaml | raycast_0ukl | macOS, Windows | [store](https://www.raycast.com/raycast_0ukl/aqua-registry-search) |
@@ -41,42 +41,42 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 385,422 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
-| [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor) | 4,824 | All JSON operations in one editor. | HerbertLu | macOS, Windows | [store](https://www.raycast.com/HerbertLu/json-editor) |
-| [Projects](https://github.com/raycast/extensions/tree/main/extensions/projects) | 796 | Quickly access your local projects and open them in your favorite editor or any app. | ajaypremshankar | macOS | [store](https://www.raycast.com/ajaypremshankar/projects) |
-| [WSL Manager](https://github.com/raycast/extensions/tree/main/extensions/wsl-manager) | 271 | Seamlessly manage WSL distributions and open projects in your preferred editor directly from Raycast. | luke_esterhuizen | Windows | [store](https://www.raycast.com/luke_esterhuizen/wsl-manager) |
-| [Scratchpad](https://github.com/raycast/extensions/tree/main/extensions/scratchpad) | 258 | Creates a scratchpad file and opens it in an editor | asnimansari | macOS | [store](https://www.raycast.com/asnimansari/scratchpad) |
-| [URL Editor Pro](https://github.com/raycast/extensions/tree/main/extensions/url-editor-pro) | 212 | Parses any URL—including custom schemes—into its components, lets you edit each part. Easily copy the modified URL, save to history or generate a QR code for q… | CoyoteWaltz | macOS | [store](https://www.raycast.com/CoyoteWaltz/url-editor-pro) |
+| [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) | 387,321 | Control VS Code and compatible editors directly from Raycast | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/visual-studio-code) |
+| [JSON Editor](https://github.com/raycast/extensions/tree/main/extensions/json-editor) | 4,845 | All JSON operations in one editor. | HerbertLu | macOS, Windows | [store](https://www.raycast.com/HerbertLu/json-editor) |
+| [Projects](https://github.com/raycast/extensions/tree/main/extensions/projects) | 797 | Quickly access your local projects and open them in your favorite editor or any app. | ajaypremshankar | macOS | [store](https://www.raycast.com/ajaypremshankar/projects) |
+| [WSL Manager](https://github.com/raycast/extensions/tree/main/extensions/wsl-manager) | 272 | Seamlessly manage WSL distributions and open projects in your preferred editor directly from Raycast. | luke_esterhuizen | Windows | [store](https://www.raycast.com/luke_esterhuizen/wsl-manager) |
+| [Scratchpad](https://github.com/raycast/extensions/tree/main/extensions/scratchpad) | 259 | Creates a scratchpad file and opens it in an editor | asnimansari | macOS | [store](https://www.raycast.com/asnimansari/scratchpad) |
+| [URL Editor Pro](https://github.com/raycast/extensions/tree/main/extensions/url-editor-pro) | 214 | Parses any URL—including custom schemes—into its components, lets you edit each part. Easily copy the modified URL, save to history or generate a QR code for q… | CoyoteWaltz | macOS | [store](https://www.raycast.com/CoyoteWaltz/url-editor-pro) |
 | [Momentum](https://github.com/raycast/extensions/tree/main/extensions/momentum) | 119 | Create a new project and open it in your favourite editor | leondaz | macOS | [store](https://www.raycast.com/leondaz/momentum) |
 
 ## Shell ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 71,937 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
-| [Shell History](https://github.com/raycast/extensions/tree/main/extensions/shell-history) | 5,336 | Search shell command history from zsh, bash, and fish. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/shell-history) |
-| [Shell Alias](https://github.com/raycast/extensions/tree/main/extensions/shell-alias) | 525 | Quickly retrieve your shell aliases, paste and manage them directly from Raycast. | clement_cloux | macOS | [store](https://www.raycast.com/clement_cloux/shell-alias) |
-| [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) | 184 | Manage Fisher plugins for Fish Shell directly from Raycast | matheuschein | macOS | [store](https://www.raycast.com/matheuschein/fisher) |
+| [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 72,242 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
+| [Shell History](https://github.com/raycast/extensions/tree/main/extensions/shell-history) | 5,359 | Search shell command history from zsh, bash, and fish. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/shell-history) |
+| [Shell Alias](https://github.com/raycast/extensions/tree/main/extensions/shell-alias) | 529 | Quickly retrieve your shell aliases, paste and manage them directly from Raycast. | clement_cloux | macOS | [store](https://www.raycast.com/clement_cloux/shell-alias) |
+| [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) | 185 | Manage Fisher plugins for Fish Shell directly from Raycast | matheuschein | macOS | [store](https://www.raycast.com/matheuschein/fisher) |
 | [Trimmy](https://github.com/raycast/extensions/tree/main/extensions/trimmy) | 179 | "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/trimmy) |
-| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | 8 | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | [store](https://www.raycast.com/kxrbx/shell-apps) |
+| [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | 10 | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | [store](https://www.raycast.com/kxrbx/shell-apps) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 108,250 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
-| [Visual Studio Code - Project Manager](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) | 50,020 | Search and open projects from Visual Studio Code Project Manager | MarkusLanger | macOS | [store](https://www.raycast.com/MarkusLanger/vscode-project-manager) |
-| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 41,394 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
-| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 32,278 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
-| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 21,882 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
-| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 11,022 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
-| [Oh My Zsh Plugins](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) | 7,290 | Oh My Zsh Plugins | k8scat | macOS | [store](https://www.raycast.com/k8scat/ohmyzsh-plugins) |
-| [Get SSH Key](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) | 3,836 | Get your local SSH key in a split of a second. | Theon | macOS, Windows | [store](https://www.raycast.com/Theon/get-ssh-key) |
-| [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner) | 3,505 | Quick Tmux Session Switcher | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/tmux-sessioner) |
-| [Tmux Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet) | 2,224 | Provides easy access to tmux cheatsheet documentation for when you forget a command, or are just learning. | alikhatibak | macOS | [store](https://www.raycast.com/alikhatibak/tmux-cheatsheet) |
-| [SSH Tunnel Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-tunnel-manager) | 1,353 | Manage ssh tunnels | MinatoHikari | macOS | [store](https://www.raycast.com/MinatoHikari/ssh-tunnel-manager) |
-| [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) | 1,229 | Manage zsh aliases | espenbye | macOS | [store](https://www.raycast.com/espenbye/zsh-aliases) |
-| [MultiForce](https://github.com/raycast/extensions/tree/main/extensions/multi-force) | 189 | Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools. | brian_j_decoder22 | macOS | [store](https://www.raycast.com/brian_j_decoder22/multi-force) |
+| [Warp](https://github.com/raycast/extensions/tree/main/extensions/warp) | 108,813 | Open Warp tabs, windows, and Tab Configs. | warpdotdev (org) | macOS, Windows | [store](https://www.raycast.com/warpdotdev/warp) |
+| [Visual Studio Code - Project Manager](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) | 50,182 | Search and open projects from Visual Studio Code Project Manager | MarkusLanger | macOS | [store](https://www.raycast.com/MarkusLanger/vscode-project-manager) |
+| [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 41,596 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
+| [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains) | 32,484 | Search and open JetBrains Toolbox projects | gdsmith | macOS | [store](https://www.raycast.com/gdsmith/jetbrains) |
+| [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) | 21,987 | Search Vim commands | ajaypremshankar | macOS, Windows | [store](https://www.raycast.com/ajaypremshankar/vim-bro) |
+| [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 11,066 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
+| [Oh My Zsh Plugins](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) | 7,320 | Oh My Zsh Plugins | k8scat | macOS | [store](https://www.raycast.com/k8scat/ohmyzsh-plugins) |
+| [Get SSH Key](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) | 3,850 | Get your local SSH key in a split of a second. | Theon | macOS, Windows | [store](https://www.raycast.com/Theon/get-ssh-key) |
+| [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner) | 3,522 | Quick Tmux Session Switcher | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/tmux-sessioner) |
+| [Tmux Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet) | 2,238 | Provides easy access to tmux cheatsheet documentation for when you forget a command, or are just learning. | alikhatibak | macOS | [store](https://www.raycast.com/alikhatibak/tmux-cheatsheet) |
+| [SSH Tunnel Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-tunnel-manager) | 1,356 | Manage ssh tunnels | MinatoHikari | macOS | [store](https://www.raycast.com/MinatoHikari/ssh-tunnel-manager) |
+| [Zsh Aliases](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) | 1,236 | Manage zsh aliases | espenbye | macOS | [store](https://www.raycast.com/espenbye/zsh-aliases) |
+| [MultiForce](https://github.com/raycast/extensions/tree/main/extensions/multi-force) | 190 | Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools. | brian_j_decoder22 | macOS | [store](https://www.raycast.com/brian_j_decoder22/multi-force) |
 | [Ideate](https://github.com/raycast/extensions/tree/main/extensions/ideate) | 159 | Create a project folder, initialize it, and open with your IDE. | B9O2 | macOS | [store](https://www.raycast.com/b9o2/ideate) |
-| [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 134 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
+| [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) | 135 | A quick reference for bash commands with search, and categories. | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/bash-commands) |
 | [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) | 19 | Manage Neovim sessions, plugins, and keymaps from Raycast | RG-IL | macOS | [store](https://www.raycast.com/RG-IL/neovim) |
