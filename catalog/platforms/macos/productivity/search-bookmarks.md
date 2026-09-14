@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 462,840 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
-| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 377,477 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
+| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 377,711 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
 | [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 239,913 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 80,306 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 58,187 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |

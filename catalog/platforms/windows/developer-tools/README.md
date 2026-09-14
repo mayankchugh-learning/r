@@ -1,6 +1,6 @@
 # Windows · Developer Tools
 
-324 extensions · [← Windows](../README.md)
+325 extensions · [← Windows](../README.md)
 
 ## Code & Collaboration
 
@@ -33,7 +33,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [Terminal & Editors](./terminal-editors.md) | 14 |
+| [Terminal & Editors](./terminal-editors.md) | 15 |
 | [Package & Dependency Tools](./package-dependency-tools.md) | 13 |
 | [Automation & Scripting](./automation-scripting.md) | 5 |
 | [Files & Transfer](./files-transfer.md) | 8 |

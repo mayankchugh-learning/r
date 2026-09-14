@@ -2,7 +2,7 @@
 
 1130 extensions · [← all categories](../README.md)
 
-macOS: 1118 · Windows: 324
+macOS: 1118 · Windows: 325
 
 ## Code & Collaboration
 

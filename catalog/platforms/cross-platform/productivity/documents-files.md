@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-25 of 357 extensions · [← Cross-platform · Productivity](./README.md)
+26 of 358 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -28,6 +28,7 @@
 | [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 32 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 22 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
 | [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) | 11 | Upload files and manage your EdgeStore account. | ravi_s | macOS, Windows | [store](https://www.raycast.com/ravi_s/edgestore-raycast) |
+| [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder) | 7 | Create a folder named after today's date and open it in your terminal | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/dated-folder) |
 | [DocuSeal](https://github.com/raycast/extensions/tree/main/extensions/docuseal) | 4 | Open Source Document Signing | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/docuseal) |
 | [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) | 4 | Search your Melanite library by file name and tag name, with thumbnail previews. | masuipeo | macOS, Windows | [store](https://www.raycast.com/masuipeo/melanite-search) |
 | [Subnoto - Confidential Electronic Signature](https://github.com/raycast/extensions/tree/main/extensions/subnoto) | 3 | Send and manage documents for electronic signature in Subnoto from Raycast | corentin_mors | macOS, Windows | [store](https://www.raycast.com/corentin_mors/subnoto) |

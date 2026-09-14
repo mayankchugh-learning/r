@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `2137b47b9c`
+
+**Updated (2):** [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder), [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-09-14 — upstream `f17b443ed4`
 
 **Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)

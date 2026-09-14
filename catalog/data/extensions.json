@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f17b443ed4508f5a8b7780dbf7b10b598f7e9f62",
-  "generatedAt": "2026-09-14T17:34:41.035Z",
-  "downloadsRefreshedAt": "2026-09-14T17:34:40.347Z",
+  "commit": "2137b47b9c6c580d16faa4259e74d537c8380f76",
+  "generatedAt": "2026-09-14T17:36:15.867Z",
+  "downloadsRefreshedAt": "2026-09-14T17:36:15.472Z",
   "count": 3295,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 568944
+      "downloads": 568950
     },
     {
       "dir": "color-shades",
@@ -12833,11 +12833,12 @@
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/fhf1121/dated-folder",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dated-folder",
-      "treeSha": "23a0dbf7dcc07ac490a39140591e6d7d6d3f3d5e",
+      "treeSha": "f6bf9c614723b12112c34ee3f6b814080bf17eb3",
       "downloads": 7
     },
     {
@@ -22601,7 +22602,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 538167
+      "downloads": 538171
     },
     {
       "dir": "google-chrome-profiles",
@@ -29006,7 +29007,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 727827
+      "downloads": 727830
     },
     {
       "dir": "kimai",
@@ -31007,7 +31008,7 @@
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
       "treeSha": "96a14dcfd88263c4bca4be03df1c4f345a0bba1b",
-      "downloads": 377477
+      "downloads": 377711
     },
     {
       "dir": "lingo-rep-raycast",
@@ -35486,8 +35487,8 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "3e2eef78e45573f77e50c4ef33b9bbfc185d623c",
-      "downloads": 40935
+      "treeSha": "aed2c1ef2b4c2e28634daaea0c51a1ffab5d4c06",
+      "downloads": 40957
     },
     {
       "dir": "models-dev",
