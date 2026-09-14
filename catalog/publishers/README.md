@@ -1,6 +1,6 @@
 # Publishers
 
-2206 publishers · [← catalog index](../README.md)
+2207 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,210,152 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,210,727 |
 | 2 | [raycast](./id/raycast.md) | 11 | 854,605 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 725,587 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 536,715 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 726,193 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 537,100 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 469,890 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 465,208 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 436,090 |
@@ -249,7 +249,7 @@
 | 239 | [harumeri](https://www.raycast.com/harumeri) | 1 | 5,778 |
 | 240 | [karbassi](https://www.raycast.com/karbassi) | 1 | 5,772 |
 | 241 | [treyg](https://www.raycast.com/treyg) | 2 | 5,716 |
-| 242 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 5,634 |
+| 242 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 5,636 |
 | 243 | [Francois](https://www.raycast.com/Francois) | 3 | 5,487 |
 | 244 | [SonicSpark](https://www.raycast.com/SonicSpark) | 1 | 5,415 |
 | 245 | [firecrawl](https://www.raycast.com/firecrawl) | 1 | 5,373 |
@@ -2214,3 +2214,4 @@
 | 2204 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
 | 2205 | github-next | 2 | — |
 | 2206 | multi | 1 | — |
+| 2207 | pedro_pt_thomaz | 1 | — |

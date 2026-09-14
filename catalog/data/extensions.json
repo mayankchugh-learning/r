@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "28cd3dcb20beae9c112108e413813af51905dfe1",
-  "generatedAt": "2026-09-14T10:02:25.357Z",
-  "downloadsRefreshedAt": "2026-09-14T10:02:24.967Z",
-  "count": 3293,
+  "commit": "d09e6c2c9af47c5fbc995e2207c1a9f24527d49e",
+  "generatedAt": "2026-09-14T12:13:28.870Z",
+  "downloadsRefreshedAt": "2026-09-14T12:13:27.344Z",
+  "count": 3294,
   "extensions": [
     {
       "dir": "0x0",
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 566765
+      "downloads": 567340
     },
     {
       "dir": "color-shades",
@@ -21388,7 +21388,7 @@
       "store": "https://www.raycast.com/ernest0n/git",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/git",
       "treeSha": "9669aaa86d6147471939dd4b861543bba264ebc0",
-      "downloads": 1241
+      "downloads": 1243
     },
     {
       "dir": "git-assistant",
@@ -22601,7 +22601,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 536715
+      "downloads": 537100
     },
     {
       "dir": "google-chrome-profiles",
@@ -29006,7 +29006,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 725587
+      "downloads": 726193
     },
     {
       "dir": "kimai",
@@ -64767,6 +64767,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects",
       "treeSha": "97ebc1fb2cad5dfa2c8f610ab0b39f8373982b45",
       "downloads": 385422
+    },
+    {
+      "dir": "vitra",
+      "name": "vitra",
+      "title": "Vitra",
+      "description": "Requires the Vitra desktop app. Reads Vitra's local snapshot to show today's readiness, sleep and recovery from your Oura ring — no Oura credentials or setup in Raycast, and no network calls.",
+      "author": "pedro_pt_thomaz",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Data"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/vitra",
+      "treeSha": "6afe923b1444bc21269b2f7d7541bb9ca856e382",
+      "downloads": null
     },
     {
       "dir": "vivaldi",
