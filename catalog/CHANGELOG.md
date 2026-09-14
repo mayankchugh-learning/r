@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `b95276d618`
+
+**Updated (1):** [Git](https://github.com/raycast/extensions/tree/main/extensions/git)
+
 ## 2026-09-14 — upstream `871750cdff`
 
 **Updated (1):** [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc)

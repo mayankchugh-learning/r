@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,209,300 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,209,440 |
 | 2 | [raycast](./id/raycast.md) | 11 | 854,605 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 724,718 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 536,168 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 724,873 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 536,272 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 469,890 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 465,208 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 436,090 |
@@ -593,10 +593,10 @@
 | 583 | [stelo](https://www.raycast.com/stelo) | 2 | 1,249 |
 | 584 | [unreadablename](https://www.raycast.com/unreadablename) | 1 | 1,249 |
 | 585 | [blainerothrock](https://www.raycast.com/blainerothrock) | 1 | 1,246 |
-| 586 | [juhamust](https://www.raycast.com/juhamust) | 2 | 1,243 |
-| 587 | [brianfakhoury](https://www.raycast.com/brianfakhoury) | 1 | 1,242 |
-| 588 | [fayecat](https://www.raycast.com/fayecat) | 1 | 1,242 |
-| 589 | [conner_luzier](https://www.raycast.com/conner_luzier) | 1 | 1,241 |
+| 586 | [conner_luzier](https://www.raycast.com/conner_luzier) | 1 | 1,244 |
+| 587 | [juhamust](https://www.raycast.com/juhamust) | 2 | 1,243 |
+| 588 | [brianfakhoury](https://www.raycast.com/brianfakhoury) | 1 | 1,242 |
+| 589 | [fayecat](https://www.raycast.com/fayecat) | 1 | 1,242 |
 | 590 | [resend](https://www.raycast.com/resend) | 1 | 1,239 |
 | 591 | [bensomething](https://www.raycast.com/bensomething) | 3 | 1,234 |
 | 592 | [espenbye](https://www.raycast.com/espenbye) | 1 | 1,229 |
