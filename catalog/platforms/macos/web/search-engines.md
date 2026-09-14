@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 470,740 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
-| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 239,913 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
+| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 240,196 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 144,128 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
 | [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search) | 100,560 | Search the Internet for animated GIFs | josephschmitt | macOS, Windows | [store](https://www.raycast.com/josephschmitt/gif-search) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 65,070 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |

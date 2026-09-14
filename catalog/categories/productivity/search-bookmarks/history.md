@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 239,913 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
+| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 240,196 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
 | [Dia](https://github.com/raycast/extensions/tree/main/extensions/dia) | 13,992 | Search your open tabs and browsing history in Dia | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/dia) |
 | [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 10,677 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Shell History](https://github.com/raycast/extensions/tree/main/extensions/shell-history) | 5,359 | Search shell command history from zsh, bash, and fish. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/shell-history) |

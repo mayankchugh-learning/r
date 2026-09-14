@@ -91,7 +91,7 @@
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 3 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 951 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 691 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 728,404 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 728,449 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 19 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 620 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 2 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `5b4bbb8ed0`
+
+**Updated (1):** [OmniFocus](https://github.com/raycast/extensions/tree/main/extensions/omnifocus)
+
 ## 2026-09-14 — upstream `d63352e9f1`
 
 **Updated (1):** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager)

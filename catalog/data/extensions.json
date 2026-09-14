@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d63352e9f183cbefad1fa40f67abf767855bbbdb",
-  "generatedAt": "2026-09-14T19:52:22.137Z",
-  "downloadsRefreshedAt": "2026-09-14T19:52:21.734Z",
+  "commit": "5b4bbb8ed0e5e2a59944381cddb06a61a04b7803",
+  "generatedAt": "2026-09-14T20:00:47.298Z",
+  "downloadsRefreshedAt": "2026-09-14T20:00:46.885Z",
   "count": 3296,
   "extensions": [
     {
@@ -2768,7 +2768,7 @@
       "store": "https://www.raycast.com/the-browser-company/arc",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/arc",
       "treeSha": "3cb49e147404ffea07306bcbedfced51a8cb9a87",
-      "downloads": 239913
+      "downloads": 240196
     },
     {
       "dir": "arc-helper",
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 569511
+      "downloads": 569555
     },
     {
       "dir": "color-shades",
@@ -22602,7 +22602,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 538509
+      "downloads": 538531
     },
     {
       "dir": "google-chrome-profiles",
@@ -29027,7 +29027,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 728404
+      "downloads": 728449
     },
     {
       "dir": "kimai",
@@ -39713,7 +39713,7 @@
       "description": "Perform basic actions on your OmniFocus database.",
       "author": "nicolas-marien",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "Productivity",
         "Applications"
@@ -39724,7 +39724,7 @@
       ],
       "store": "https://www.raycast.com/nicolas-marien/omnifocus",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/omnifocus",
-      "treeSha": "397ad82f1e1b4cc911551c469ad70e1f5703acf2",
+      "treeSha": "95e73618d67e66324c4939251b77a83d9bea459a",
       "downloads": 2031
     },
     {
