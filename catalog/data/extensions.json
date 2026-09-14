@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cf327b607c92c996d072f5a73cfba5b7360d70a9",
-  "generatedAt": "2026-09-14T20:26:29.218Z",
-  "downloadsRefreshedAt": "2026-09-14T20:26:27.988Z",
-  "count": 3296,
+  "commit": "ba0cea0854834de6206f4fe13e4f85221f776a64",
+  "generatedAt": "2026-09-14T20:29:28.068Z",
+  "downloadsRefreshedAt": "2026-09-14T20:29:26.982Z",
+  "count": 3297,
   "extensions": [
     {
       "dir": "0x0",
@@ -1720,6 +1720,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/android-versions",
       "treeSha": "7c844eb8bf844a62fd10fb3f57063eebc9fa8bd8",
       "downloads": 245
+    },
+    {
+      "dir": "android-weekly",
+      "name": "android-weekly",
+      "title": "Android Weekly",
+      "description": "Browse Android Weekly issues and read the latest articles",
+      "author": "mibrahimdev",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "News"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/android-weekly",
+      "treeSha": "45ef09b17546a25a6a273387b7d6cce77d8869bc",
+      "downloads": null
     },
     {
       "dir": "andromeld",
@@ -9830,7 +9850,7 @@
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
       "treeSha": "8c8e32509a65a5d5a754f9c062123982324f405b",
-      "downloads": 140100
+      "downloads": 140448
     },
     {
       "dir": "cognimemo",
@@ -10081,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 569656
+      "downloads": 569669
     },
     {
       "dir": "color-shades",
@@ -22602,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 538596
+      "downloads": 538603
     },
     {
       "dir": "google-chrome-profiles",
@@ -29027,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 728544
+      "downloads": 728556
     },
     {
       "dir": "kimai",

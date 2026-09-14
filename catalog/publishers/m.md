@@ -105,7 +105,7 @@
 | [metrovoc](https://www.raycast.com/metrovoc) | 2 | 163 | **Productivity:** [VoiceInk](https://github.com/raycast/extensions/tree/main/extensions/voiceink)<br>**Applications:** [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) |
 | [mguyard](https://www.raycast.com/mguyard) | 1 | 209 | **Data:** [Manage Firebase Firestore Collections](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) |
 | [mi7chal](https://www.raycast.com/mi7chal) | 1 | 163 | **Developer Tools:** [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) |
-| [mibrahimdev](https://www.raycast.com/mibrahimdev) | 1 | 1,401 | **Developer Tools:** [Android](https://github.com/raycast/extensions/tree/main/extensions/android) |
+| [mibrahimdev](https://www.raycast.com/mibrahimdev) | 2 | 1,401 | **Developer Tools:** [Android](https://github.com/raycast/extensions/tree/main/extensions/android)<br>**News:** [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) |
 | [michael_Andreuzza](https://www.raycast.com/michael_andreuzza) | 1 | 5 | **Data:** [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) |
 | [michael_marvive](https://www.raycast.com/michael_marvive) | 1 | 294 | **Productivity:** [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) |
 | [michael_qiu](https://www.raycast.com/michael_qiu) | 2 | 223 | **Applications:** [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer)<br>**Media:** [Lyric Fever Control](https://github.com/raycast/extensions/tree/main/extensions/lyric-fever-control) |
@@ -151,7 +151,7 @@
 | [monvelasquez](https://www.raycast.com/monvelasquez) | 1 | 608 | **Finance:** [Summation - Sum Calculator](https://github.com/raycast/extensions/tree/main/extensions/summation) |
 | [moored](https://www.raycast.com/moored) | 1 | 28,375 | **Developer Tools:** [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) |
 | [moose_zhang](https://www.raycast.com/moose_zhang) | 1 | 7 | **Productivity:** [MEMO to flomo](https://github.com/raycast/extensions/tree/main/extensions/memo-to-flomo) |
-| [mooxl](https://www.raycast.com/mooxl) | 2 | 200,715 | **System:** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)<br>**Productivity:** [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) |
+| [mooxl](https://www.raycast.com/mooxl) | 2 | 201,063 | **System:** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)<br>**Productivity:** [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) |
 | [morrissimons](https://www.raycast.com/morrissimons) | 1 | 25 | **Productivity:** [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) |
 | [mouxy](https://www.raycast.com/mouxy) | 2 | 41 | **Productivity:** [Transcribe Audio](https://github.com/raycast/extensions/tree/main/extensions/transcribe-audio), [PwPush](https://github.com/raycast/extensions/tree/main/extensions/pwpush) |
 | [mozzius](https://www.raycast.com/mozzius) | 1 | 215 | **Developer Tools:** [Create T3 App](https://github.com/raycast/extensions/tree/main/extensions/create-t3-app) |

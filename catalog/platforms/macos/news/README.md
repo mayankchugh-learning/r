@@ -1,8 +1,8 @@
 # macOS · News
 
-95 extensions · [← macOS](../README.md)
+96 extensions · [← macOS](../README.md)
 
-[Tech & Startup News](#tech-startup-news) (10) · [Feeds & Readers](#feeds-readers) (16) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (4) · [World & Business](#world-business) (21) · [General](#general) (28)
+[Tech & Startup News](#tech-startup-news) (10) · [Feeds & Readers](#feeds-readers) (17) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (4) · [World & Business](#world-business) (21) · [General](#general) (28)
 
 ## Topics
 
@@ -95,6 +95,7 @@
 | [Hatena Bookmark](https://github.com/raycast/extensions/tree/main/extensions/hatena-bookmark) | 61 | Read the hotentry of hatena bookmark. | inamuu | macOS | [store](https://www.raycast.com/inamuu/hatena-bookmark) |
 | [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | 48 | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
 | [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) | 27 | Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/jue-jin) |
+| [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) | — | Browse Android Weekly issues and read the latest articles | mibrahimdev | macOS | — |
 
 ### Communities & Forums
 

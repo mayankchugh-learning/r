@@ -33,7 +33,7 @@
 | --- | --- |
 | [Web](./web/README.md) | 471 |
 | [Finance](./finance/README.md) | 154 |
-| [News](./news/README.md) | 95 |
+| [News](./news/README.md) | 96 |
 
 ### System & Utilities
 

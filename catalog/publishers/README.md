@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,215,983 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,215,996 |
 | 2 | [raycast](./id/raycast.md) | 11 | 858,554 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 728,544 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 538,596 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 728,556 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 538,603 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 471,859 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 467,226 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 437,745 |
@@ -25,7 +25,7 @@
 | 15 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 250,904 |
 | 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 234,307 |
 | 17 | [destiner](https://www.raycast.com/destiner) | 9 | 224,717 |
-| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 200,715 |
+| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 201,063 |
 | 19 | [mblode](https://www.raycast.com/mblode) | 4 | 196,240 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 179,702 |
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 178,020 |
@@ -555,7 +555,7 @@
 | 545 | [karthik](https://www.raycast.com/karthik) | 1 | 1,421 |
 | 546 | [bix](https://www.raycast.com/bix) | 1 | 1,405 |
 | 547 | [tafhyseni](https://www.raycast.com/tafhyseni) | 1 | 1,405 |
-| 548 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 1 | 1,401 |
+| 548 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 2 | 1,401 |
 | 549 | [rrajath](https://www.raycast.com/rrajath) | 1 | 1,396 |
 | 550 | [maverickdotdev](https://www.raycast.com/maverickdotdev) | 1 | 1,388 |
 | 551 | [jian_chao_man](https://www.raycast.com/jian_chao_man) | 1 | 1,375 |
