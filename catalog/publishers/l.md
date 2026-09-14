@@ -83,7 +83,7 @@
 | [luke_esterhuizen](https://www.raycast.com/luke_esterhuizen) | 1 | 271 | **Developer Tools:** [WSL Manager](https://github.com/raycast/extensions/tree/main/extensions/wsl-manager) |
 | [luke_lin](https://www.raycast.com/luke_lin) | 1 | 6 | **Media:** [BanG Dream! Screenshot Search](https://github.com/raycast/extensions/tree/main/extensions/bang-dream-screenshot-search) |
 | [luknl](https://www.raycast.com/luknl) | 1 | 579 | **Web:** [Myanimelist Search](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) |
-| [lunaris](https://www.raycast.com/lunaris) | 1 | 1,857 | **Developer Tools:** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) |
+| [lunaris](https://www.raycast.com/lunaris) | 1 | 1,858 | **Developer Tools:** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal) |
 | [LunarRed](https://www.raycast.com/LunarRed) | 1 | 6 | **Productivity:** [MemeStash](https://github.com/raycast/extensions/tree/main/extensions/memestash) |
 | [luobin](https://www.raycast.com/luobin) | 1 | 11 | **Productivity:** [Ego Lite](https://github.com/raycast/extensions/tree/main/extensions/ego-lite) |
 | [luolei](https://www.raycast.com/luolei) | 2 | 2,710 | **Web:** [Karakeep](https://github.com/raycast/extensions/tree/main/extensions/karakeep), [Sink Short Links Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) |

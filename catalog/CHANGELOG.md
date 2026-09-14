@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `9258260f6c`
+
+**Updated (1):** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal)
+
 ## 2026-09-14 — upstream `527984bb80`
 
 **Updated (1):** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage)
