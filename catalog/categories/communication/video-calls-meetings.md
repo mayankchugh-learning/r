@@ -26,7 +26,7 @@
 | [FaceTime](https://github.com/raycast/extensions/tree/main/extensions/facetime) | 15,264 | Make FaceTime calls with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/facetime) |
 | [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 5,796 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
 | [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 966 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
-| [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 46 | Browse and call contacts, control your active call, and search transcripts from your Tuple pair programming sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
+| [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 46 | Call contacts and connected machines, control active calls, and search captured Tuple sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
 | [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) | 16 | Call anyone in your Contacts through your iPhone in two keystrokes via macOS Continuity. | amir01 | macOS | [store](https://www.raycast.com/amir01/phone) |
 
 ## General

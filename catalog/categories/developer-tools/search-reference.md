@@ -101,7 +101,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [OpenCode Sessions](https://github.com/raycast/extensions/tree/main/extensions/opencode-sessions) | 1,075 | Browse, search, and manage your OpenCode sessions | mike182uk | macOS | [store](https://www.raycast.com/mike182uk/opencode-sessions) |
-| [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 46 | Browse and call contacts, control your active call, and search transcripts from your Tuple pair programming sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
+| [Tuple](https://github.com/raycast/extensions/tree/main/extensions/tuple) | 46 | Call contacts and connected machines, control active calls, and search captured Tuple sessions. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/tuple) |
 | [PuTTY Sessions](https://github.com/raycast/extensions/tree/main/extensions/putty-sessions) | 9 | Search and launch your saved PuTTY sessions from Raycast. | THEN00P | Windows | [store](https://www.raycast.com/THEN00P/putty-sessions) |
 | [HeidiSQL Sessions](https://github.com/raycast/extensions/tree/main/extensions/heidisql-sessions) | 3 | Search and launch your HeidiSQL sessions from Raycast. | THEN00P | Windows, macOS | [store](https://www.raycast.com/THEN00P/heidisql-sessions) |
 
