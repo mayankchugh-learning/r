@@ -1,6 +1,6 @@
 # Publishers
 
-2209 publishers · [← catalog index](../README.md)
+2210 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 161,911 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,189 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,734 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,215,996 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,216,568 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 321,741 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,795 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 437,745 |
@@ -279,7 +279,7 @@
 | 269 | [alexstrnik](https://www.raycast.com/alexstrnik) | 2 | 1,546 |
 | 270 | [fonimus](https://www.raycast.com/fonimus) | 2 | 1,526 |
 | 271 | [rafal_zawadzki](https://www.raycast.com/rafal_zawadzki) | 2 | 1,457 |
-| 272 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 2 | 1,401 |
+| 272 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 2 | 1,402 |
 | 273 | [ARui](https://www.raycast.com/ARui) | 2 | 1,365 |
 | 274 | [shubham](https://www.raycast.com/shubham) | 2 | 1,348 |
 | 275 | [gksander](https://www.raycast.com/gksander) | 2 | 1,332 |
@@ -395,8 +395,8 @@
 | 385 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 386 | [tai](https://www.raycast.com/tai) | 2 | 9 |
 | 387 | github-next | 2 | — |
-| 388 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 728,556 |
-| 389 | [Codely](https://www.raycast.com/Codely) | 1 | 538,603 |
+| 388 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 729,123 |
+| 389 | [Codely](https://www.raycast.com/Codely) | 1 | 538,950 |
 | 390 | [linear](https://www.raycast.com/linear) | 1 | 377,711 |
 | 391 | [mommertf](https://www.raycast.com/mommertf) | 1 | 314,474 |
 | 392 | [nhojb](https://www.raycast.com/nhojb) | 1 | 277,024 |
@@ -2216,4 +2216,5 @@
 | 2206 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2207 | [tony_hule](https://www.raycast.com/tony_hule) | 1 | 0 |
 | 2208 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2209 | multi | 1 | — |
+| 2209 | bitforger | 1 | — |
+| 2210 | multi | 1 | — |

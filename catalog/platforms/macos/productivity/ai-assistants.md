@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-130 of 1488 extensions · [← macOS · Productivity](./README.md)
+131 of 1489 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -136,3 +136,4 @@
 | [Arandu](https://github.com/raycast/extensions/tree/main/extensions/arandu) | 3 | Manage your day in Arandu — today's plan, agenda, habits, tasks, reminders, and your assistant. | luiz_vi | macOS | [store](https://www.raycast.com/luiz_vi/arandu) |
 | [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 2 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 2 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
+| [Soulver](https://github.com/raycast/extensions/tree/main/extensions/soulver) | — | Leverage the Soulver CLI to solve expressions and manage your Soulver sheetbooks using Raycast and Raycast AI. | bitforger | macOS | — |

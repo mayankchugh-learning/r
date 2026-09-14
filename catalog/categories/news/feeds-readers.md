@@ -15,7 +15,7 @@
 | [MacStories](https://github.com/raycast/extensions/tree/main/extensions/macstories) | 217 | Browse articles from MacStories | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/macstories) |
 | [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | 48 | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
 | [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) | 27 | Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/jue-jin) |
-| [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) | — | Browse Android Weekly issues and read the latest articles | mibrahimdev | macOS | — |
+| [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) | 1 | Browse Android Weekly issues and read the latest articles | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android-weekly) |
 
 ## Posts ✦
 

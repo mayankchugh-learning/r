@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `df2a031bea`
+
+**Added (1):** [Soulver](https://github.com/raycast/extensions/tree/main/extensions/soulver)
+
 ## 2026-09-14 — upstream `ba0cea0854`
 
 **Added (1):** [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly)

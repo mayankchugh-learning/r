@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ba0cea0854834de6206f4fe13e4f85221f776a64",
-  "generatedAt": "2026-09-14T20:29:28.068Z",
-  "downloadsRefreshedAt": "2026-09-14T20:29:26.982Z",
-  "count": 3297,
+  "commit": "df2a031bea90700dbed2cf138e97b0f0ba08cb91",
+  "generatedAt": "2026-09-14T23:29:23.597Z",
+  "downloadsRefreshedAt": "2026-09-14T23:29:23.195Z",
+  "count": 3298,
   "extensions": [
     {
       "dir": "0x0",
@@ -1736,10 +1736,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/mibrahimdev/android-weekly",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/android-weekly",
       "treeSha": "45ef09b17546a25a6a273387b7d6cce77d8869bc",
-      "downloads": null
+      "downloads": 1
     },
     {
       "dir": "andromeld",
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 569669
+      "downloads": 570241
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 538603
+      "downloads": 538950
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 728556
+      "downloads": 729123
     },
     {
       "dir": "kimai",
@@ -55410,6 +55410,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sort-mentions",
       "treeSha": "6d196c3ca3b49280b409e897b621e2dc0f280a7d",
       "downloads": 163
+    },
+    {
+      "dir": "soulver",
+      "name": "soulver",
+      "title": "Soulver",
+      "description": "Leverage the Soulver CLI to solve expressions and manage your Soulver sheetbooks using Raycast and Raycast AI.",
+      "author": "bitforger",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/soulver",
+      "treeSha": "d2e53a3cafa4c2b041116f415dc9d107b0c9399b",
+      "downloads": null
     },
     {
       "dir": "sound-search",

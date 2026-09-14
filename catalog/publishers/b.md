@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-81 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+82 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -50,6 +50,7 @@
 | [birdie](https://www.raycast.com/birdie) | 1 | 6 | **Productivity:** [Cloudstash](https://github.com/raycast/extensions/tree/main/extensions/cloudstash) |
 | [birkhoff](https://www.raycast.com/birkhoff) | 1 | 1,940 | **Uncategorized:** [PDF Compression](https://github.com/raycast/extensions/tree/main/extensions/pdf-compression) |
 | [birobirobiro](https://www.raycast.com/birobirobiro) | 1 | 113 | **Productivity:** [curto.io URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/curto-io-url-shortener) |
+| bitforger | 1 | — | **Productivity:** [Soulver](https://github.com/raycast/extensions/tree/main/extensions/soulver) |
 | [bitski](https://www.raycast.com/bitski) | 1 | 5 | **Finance:** [CoveCast](https://github.com/raycast/extensions/tree/main/extensions/cove-cast) |
 | [bix](https://www.raycast.com/bix) | 1 | 1,405 | **Productivity:** [Screen Sharing Recents](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) |
 | [bjrmatos](https://www.raycast.com/bjrmatos) | 1 | 949 | **Productivity:** [Hammerspoon](https://github.com/raycast/extensions/tree/main/extensions/hammerspoon) |

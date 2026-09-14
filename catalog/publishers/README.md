@@ -1,6 +1,6 @@
 # Publishers
 
-2209 publishers · [← catalog index](../README.md)
+2210 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,215,996 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,216,568 |
 | 2 | [raycast](./id/raycast.md) | 11 | 858,554 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 728,556 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 538,603 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 729,123 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 538,950 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 471,859 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 467,226 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 437,745 |
@@ -555,7 +555,7 @@
 | 545 | [karthik](https://www.raycast.com/karthik) | 1 | 1,421 |
 | 546 | [bix](https://www.raycast.com/bix) | 1 | 1,405 |
 | 547 | [tafhyseni](https://www.raycast.com/tafhyseni) | 1 | 1,405 |
-| 548 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 2 | 1,401 |
+| 548 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 2 | 1,402 |
 | 549 | [rrajath](https://www.raycast.com/rrajath) | 1 | 1,396 |
 | 550 | [maverickdotdev](https://www.raycast.com/maverickdotdev) | 1 | 1,388 |
 | 551 | [jian_chao_man](https://www.raycast.com/jian_chao_man) | 1 | 1,375 |
@@ -2216,4 +2216,5 @@
 | 2206 | [tony_hule](https://www.raycast.com/tony_hule) | 1 | 0 |
 | 2207 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
 | 2208 | github-next | 2 | — |
-| 2209 | multi | 1 | — |
+| 2209 | bitforger | 1 | — |
+| 2210 | multi | 1 | — |
