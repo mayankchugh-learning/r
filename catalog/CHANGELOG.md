@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `9a7ecf3dd9`
+
+**Updated (1):** [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)
+
 ## 2026-09-14 — upstream `2039d957db`
 
 **Updated (1):** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process)
