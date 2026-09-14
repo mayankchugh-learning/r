@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `f2d9d310d2`
+
+**Updated (1):** [Quick Jump](https://github.com/raycast/extensions/tree/main/extensions/quick-jump)
+
 ## 2026-09-14 — upstream `9258260f6c`
 
 **Updated (1):** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal)
