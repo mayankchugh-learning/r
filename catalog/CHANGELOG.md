@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `a092848c9d`
+
+**Updated (1):** [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks)
+
 ## 2026-09-14 — upstream `d09e6c2c9a`
 
 **Added (1):** [Vitra](https://github.com/raycast/extensions/tree/main/extensions/vitra)

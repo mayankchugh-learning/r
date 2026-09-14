@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d09e6c2c9af47c5fbc995e2207c1a9f24527d49e",
-  "generatedAt": "2026-09-14T12:13:28.870Z",
-  "downloadsRefreshedAt": "2026-09-14T12:13:27.344Z",
+  "commit": "a092848c9debd1a08cb79b45276720acf4aeffe2",
+  "generatedAt": "2026-09-14T12:16:36.400Z",
+  "downloadsRefreshedAt": "2026-09-14T12:16:35.533Z",
   "count": 3294,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 567340
+      "downloads": 567354
     },
     {
       "dir": "color-shades",
@@ -22601,7 +22601,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 537100
+      "downloads": 537113
     },
     {
       "dir": "google-chrome-profiles",
@@ -29006,7 +29006,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 726193
+      "downloads": 726209
     },
     {
       "dir": "kimai",
@@ -33475,7 +33475,7 @@
       "description": "Manage bookmarks using a markdown file as persistence layer",
       "author": "rmartins",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Productivity",
         "Web"
@@ -33486,7 +33486,7 @@
       ],
       "store": "https://www.raycast.com/rmartins/markmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/markmarks",
-      "treeSha": "1a1c42ff7e9237c2bb9ab8c0f72d2f37c944e9be",
+      "treeSha": "1dfdc8ed92f35874ea9293cf3a2b280ff663bbdc",
       "downloads": 160
     },
     {
@@ -64784,10 +64784,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/pedro_pt_thomaz/vitra",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/vitra",
       "treeSha": "6afe923b1444bc21269b2f7d7541bb9ca856e382",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "vivaldi",

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,210,727 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,210,741 |
 | 2 | [raycast](./id/raycast.md) | 11 | 854,605 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 726,193 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 537,100 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 726,209 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 537,113 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 469,890 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 465,208 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 436,090 |
@@ -2210,8 +2210,8 @@
 | 2200 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2201 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2202 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2203 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2204 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2205 | github-next | 2 | — |
-| 2206 | multi | 1 | — |
-| 2207 | pedro_pt_thomaz | 1 | — |
+| 2203 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2204 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2205 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2206 | github-next | 2 | — |
+| 2207 | multi | 1 | — |
