@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2137b47b9c6c580d16faa4259e74d537c8380f76",
-  "generatedAt": "2026-09-14T17:36:15.867Z",
-  "downloadsRefreshedAt": "2026-09-14T17:36:15.472Z",
+  "commit": "777189042cfcad935b2bf065217e77b4504e522c",
+  "generatedAt": "2026-09-14T17:40:22.675Z",
+  "downloadsRefreshedAt": "2026-09-14T17:40:21.957Z",
   "count": 3295,
   "extensions": [
     {
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 568950
+      "downloads": 568969
     },
     {
       "dir": "color-shades",
@@ -22591,7 +22591,7 @@
       "description": "Search open tabs, bookmarks and history in Google Chrome.",
       "author": "Codely",
       "owner": null,
-      "contributors": 20,
+      "contributors": 21,
       "categories": [
         "Uncategorized"
       ],
@@ -22601,8 +22601,8 @@
       ],
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
-      "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 538171
+      "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
+      "downloads": 538180
     },
     {
       "dir": "google-chrome-profiles",
@@ -29007,7 +29007,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 727830
+      "downloads": 727847
     },
     {
       "dir": "kimai",
