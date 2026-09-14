@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-14 — upstream `871750cdff`
+
+**Updated (1):** [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc)
+
 ## 2026-09-14 — upstream `f2d9d310d2`
 
 **Updated (1):** [Quick Jump](https://github.com/raycast/extensions/tree/main/extensions/quick-jump)
