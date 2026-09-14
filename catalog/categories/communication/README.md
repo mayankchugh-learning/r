@@ -1,8 +1,8 @@
 # Communication
 
-157 extensions · [← all categories](../README.md)
+158 extensions · [← all categories](../README.md)
 
-macOS: 155 · Windows: 55
+macOS: 156 · Windows: 55
 
 ## Conversations
 
@@ -16,7 +16,7 @@ macOS: 155 · Windows: 55
 
 | Topic | Extensions |
 | --- | --- |
-| [Social & Fediverse](./social-fediverse.md) | 10 |
+| [Social & Fediverse](./social-fediverse.md) | 11 |
 | [Links & Sharing](./links-sharing.md) | 6 |
 | [Notifications & Push](./notifications-push.md) | 3 |
 

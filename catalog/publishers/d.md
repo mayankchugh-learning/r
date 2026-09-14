@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-154 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+155 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -118,6 +118,7 @@
 | [dleteliers_](https://www.raycast.com/dleteliers_) | 1 | 1,350 | **Developer Tools:** [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/ports) |
 | [dmacdermott](https://www.raycast.com/dmacdermott) | 1 | 1,357 | **Productivity:** [Jisho - Japanese Dictionary](https://github.com/raycast/extensions/tree/main/extensions/jisho) |
 | [dmitry_fisenko](https://www.raycast.com/dmitry_fisenko) | 1 | 164 | **Fun:** [Quoterism](https://github.com/raycast/extensions/tree/main/extensions/quoterism) |
+| dmitrysereda | 1 | — | **Productivity:** [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) |
 | [dmytro_sheleh](https://www.raycast.com/dmytro_sheleh) | 1 | 9 | **Applications:** [Near Rewards](https://github.com/raycast/extensions/tree/main/extensions/near-rewards) |
 | [dnlfrst](https://www.raycast.com/dnlfrst) | 1 | 296 | **Productivity:** [Outline Document Search](https://github.com/raycast/extensions/tree/main/extensions/outline-document-search) |
 | [dnnsmnstrr](https://www.raycast.com/dnnsmnstrr) | 5 | 4,535 | **Applications:** [BetterTouchTool](https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool)<br>**Productivity:** [Markdown Slides](https://github.com/raycast/extensions/tree/main/extensions/markdown-slides), [Oblique Strategies](https://github.com/raycast/extensions/tree/main/extensions/oblique-strategies)<br>**Fun:** [40 Questions - Yearly Reflection](https://github.com/raycast/extensions/tree/main/extensions/40-questions)<br>**Communication:** [Tscheck.In](https://github.com/raycast/extensions/tree/main/extensions/tscheck-in) |

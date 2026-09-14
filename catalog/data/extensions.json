@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a092848c9debd1a08cb79b45276720acf4aeffe2",
-  "generatedAt": "2026-09-14T12:16:36.400Z",
-  "downloadsRefreshedAt": "2026-09-14T12:16:35.533Z",
-  "count": 3294,
+  "commit": "f5f43f9d1502198560b214e142cf8522731fc177",
+  "generatedAt": "2026-09-14T12:23:32.140Z",
+  "downloadsRefreshedAt": "2026-09-14T12:23:31.714Z",
+  "count": 3295,
   "extensions": [
     {
       "dir": "0x0",
@@ -10081,7 +10081,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 567354
+      "downloads": 567394
     },
     {
       "dir": "color-shades",
@@ -22601,7 +22601,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "f9a4bd61023a2097f9ed0c984de04c04e29bc1ab",
-      "downloads": 537113
+      "downloads": 537138
     },
     {
       "dir": "google-chrome-profiles",
@@ -29006,7 +29006,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 726209
+      "downloads": 726249
     },
     {
       "dir": "kimai",
@@ -33487,7 +33487,7 @@
       "store": "https://www.raycast.com/rmartins/markmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/markmarks",
       "treeSha": "1dfdc8ed92f35874ea9293cf3a2b280ff663bbdc",
-      "downloads": 160
+      "downloads": 170
     },
     {
       "dir": "markprompt",
@@ -44737,6 +44737,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/postman",
       "treeSha": "538ef84af814bd4813929b8e227d056fc3cc1fb5",
       "downloads": 5799
+    },
+    {
+      "dir": "postproxy",
+      "name": "postproxy",
+      "title": "Postproxy",
+      "description": "Publish posts, manage comments, and answer DMs across your social profiles with Postproxy.",
+      "author": "dmitrysereda",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Communication"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/postproxy",
+      "treeSha": "328df00b40af30b9680c3eb4aaa0671338d828e0",
+      "downloads": null
     },
     {
       "dir": "potter-db",

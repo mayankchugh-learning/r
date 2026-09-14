@@ -1,6 +1,6 @@
 # General
 
-377 extensions · [← Productivity](./README.md)
+378 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -381,3 +381,4 @@
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 | [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday) | 0 | Companion for Calliday, the automatic time tracker for macOS. Requires the Calliday app. | yaanisy | macOS | [store](https://www.raycast.com/yaanisy/calliday) |
 | [Joey Vocab](https://github.com/raycast/extensions/tree/main/extensions/joey-vocab) | 0 | Quickly add vocabulary cards to your Joey decks | tai | macOS | [store](https://www.raycast.com/tai/joey-vocab) |
+| [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | — | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | — |

@@ -1,8 +1,8 @@
 # macOS · Communication
 
-155 extensions · [← macOS](../README.md)
+156 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (16) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (10) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (56)
+[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (16) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (56)
 
 ## Conversations
 
@@ -106,6 +106,7 @@
 | [Publora](https://github.com/raycast/extensions/tree/main/extensions/publora) | 19 | Manage your social media with Publora | anton_shvein | macOS | [store](https://www.raycast.com/anton_shvein/publora) |
 | [Akkoma](https://github.com/raycast/extensions/tree/main/extensions/akkoma) | 17 | Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/akkoma) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | 0 | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
+| [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | — | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | — |
 
 ### Links & Sharing
 

@@ -1,6 +1,6 @@
 # Social & Fediverse
 
-10 extensions · [← Communication](./README.md)
+11 extensions · [← Communication](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -14,3 +14,4 @@
 | [Publora](https://github.com/raycast/extensions/tree/main/extensions/publora) | 19 | Manage your social media with Publora | anton_shvein | macOS | [store](https://www.raycast.com/anton_shvein/publora) |
 | [Akkoma](https://github.com/raycast/extensions/tree/main/extensions/akkoma) | 17 | Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status | SevicheCC | macOS | [store](https://www.raycast.com/SevicheCC/akkoma) |
 | [Sendy](https://github.com/raycast/extensions/tree/main/extensions/sendy) | 0 | View Brands, Lists; Check Subscriber Status | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendy) |
+| [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | — | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | — |
