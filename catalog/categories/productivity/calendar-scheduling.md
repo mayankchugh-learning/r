@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 66,378 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
-| [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 42,004 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
-| [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 24,192 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
-| [Google Calendar Epic Time Logger](https://github.com/raycast/extensions/tree/main/extensions/time-logger) | 429 | Helps you register your work to Google Calendar | aramikuto | macOS | [store](https://www.raycast.com/aramikuto/time-logger) |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 66,653 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 42,146 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
+| [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 24,255 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
+| [Google Calendar Epic Time Logger](https://github.com/raycast/extensions/tree/main/extensions/time-logger) | 430 | Helps you register your work to Google Calendar | aramikuto | macOS | [store](https://www.raycast.com/aramikuto/time-logger) |
 | [Nepali Calendar](https://github.com/raycast/extensions/tree/main/extensions/nepali-calendar) | 75 | View and navigate the Nepali calendar (Bikram Sambat) with support for both English and Nepali languages. Customize your view by setting the first day of the w… | adarshdoesntcode | macOS, Windows | [store](https://www.raycast.com/adarshdoesntcode/nepali-calendar) |
 | [Jalali Date Convertor](https://github.com/raycast/extensions/tree/main/extensions/jalali-date-convertor) | 65 | Converts Shamsi (Jalali) calendar dates to/from Gregorian calendar | amin_saedi | macOS | [store](https://www.raycast.com/amin_saedi/jalali-date-convertor) |
 | [Hijri Converter](https://github.com/raycast/extensions/tree/main/extensions/hijri-converter) | 48 | Convert dates between Hijri (Islamic) and Gregorian calendars with live preview, calendar view, and menu bar access. | adel_enazi | macOS | [store](https://www.raycast.com/adel_enazi/hijri-converter) |
@@ -29,12 +29,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 5,093 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
-| [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,494 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
+| [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 5,114 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
+| [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,509 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
 | [Speed Dial](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) | 360 | Stop asking for meeting URLs and add them to Speed Dial to open with one click | osama_aamer | macOS | [store](https://www.raycast.com/osama_aamer/speed-dial) |
-| [Circleback](https://github.com/raycast/extensions/tree/main/extensions/circleback) | 302 | Record, view, and search meetings in Circleback | circleback (org) | macOS | [store](https://www.raycast.com/circleback/circleback) |
-| [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 219 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
-| [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 202 | Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid. | mutedeck (org) | macOS | [store](https://www.raycast.com/mutedeck/mutedeck) |
+| [Circleback](https://github.com/raycast/extensions/tree/main/extensions/circleback) | 304 | Record, view, and search meetings in Circleback | circleback (org) | macOS | [store](https://www.raycast.com/circleback/circleback) |
+| [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 220 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
+| [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 212 | Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid. | mutedeck (org) | macOS | [store](https://www.raycast.com/mutedeck/mutedeck) |
 | [Tldv Meetings](https://github.com/raycast/extensions/tree/main/extensions/tldv) | 19 | Browse and view your tl;dv meeting recordings | keito4 | macOS | [store](https://www.raycast.com/keito4/tldv) |
 | [Meeting Room Check](https://github.com/raycast/extensions/tree/main/extensions/meeting-room-check) | 3 | See which meeting rooms are free right now and block one instantly. | Ticsi | macOS, Windows | [store](https://www.raycast.com/Ticsi/meeting-room-check) |
 
@@ -42,6 +42,6 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Time Until I Do](https://github.com/raycast/extensions/tree/main/extensions/time-until-i-do) | 1,509 | Time Until 'The Big Day' is a customizable Raycast extension that helps you keep track of the time left until your upcoming event. Whether you're counting down… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/time-until-i-do) |
+| [Time Until I Do](https://github.com/raycast/extensions/tree/main/extensions/time-until-i-do) | 1,514 | Time Until 'The Big Day' is a customizable Raycast extension that helps you keep track of the time left until your upcoming event. Whether you're counting down… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/time-until-i-do) |
 | [WhenToMeet](https://github.com/raycast/extensions/tree/main/extensions/whentomeet) | 59 | Create WhenToMeet scheduling events using natural language. Describe your event and get a pre-filled WhenToMeet URL instantly. | felix_wortmann | macOS | [store](https://www.raycast.com/felix_wortmann/whentomeet) |
 | [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) | 9 | Companion extension for PlanWell - the markdown-native teacher planning app. View today's classes, upcoming events, and todos. Requires a PlanWell vault (planw… | Raynold | macOS | [store](https://www.raycast.com/Raynold/planwell) |

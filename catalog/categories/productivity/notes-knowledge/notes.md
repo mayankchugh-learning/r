@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,734 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
-| [Tana](https://github.com/raycast/extensions/tree/main/extensions/tana) | 3,586 | Write notes in Raycast, and capture them in Tana. | cheslip | macOS | [store](https://www.raycast.com/cheslip/tana) |
-| [Notes in Google Docs](https://github.com/raycast/extensions/tree/main/extensions/note-in-google-doc) | 1,360 | Effortlessly capture your ideas and store them instantly in Google Docs | tatermohit | macOS | [store](https://www.raycast.com/tatermohit/note-in-google-doc) |
-| [Twos](https://github.com/raycast/extensions/tree/main/extensions/twos) | 624 | Capture and organize your lists, to-dos, notes, and reminders in Twos. | parker_klein | macOS, Windows | [store](https://www.raycast.com/parker_klein/twos) |
+| [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,758 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
+| [Tana](https://github.com/raycast/extensions/tree/main/extensions/tana) | 3,600 | Write notes in Raycast, and capture them in Tana. | cheslip | macOS | [store](https://www.raycast.com/cheslip/tana) |
+| [Notes in Google Docs](https://github.com/raycast/extensions/tree/main/extensions/note-in-google-doc) | 1,365 | Effortlessly capture your ideas and store them instantly in Google Docs | tatermohit | macOS | [store](https://www.raycast.com/tatermohit/note-in-google-doc) |
+| [Twos](https://github.com/raycast/extensions/tree/main/extensions/twos) | 630 | Capture and organize your lists, to-dos, notes, and reminders in Twos. | parker_klein | macOS, Windows | [store](https://www.raycast.com/parker_klein/twos) |
 | [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) | 76 | Quick capture for Minttr - save notes and links instantly | zayn_harris_dev | macOS | [store](https://www.raycast.com/zayn_harris_dev/minttr) |
 | [Stik](https://github.com/raycast/extensions/tree/main/extensions/stik) | 19 | Quick capture and browse your Stik notes. Create, search, organize, and manage markdown notes stored locally on your machine. | 0xMassi | macOS | [store](https://www.raycast.com/0xMassi/stik) |
 | [Capture - Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/capture-quick-notes) | 16 | Add, search, and manage notes in Capture without leaving Raycast. Requires Capture 2.15 or later. | furkansimsir | macOS | [store](https://www.raycast.com/furkansimsir/capture-quick-notes) |
@@ -23,38 +23,38 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 14,312 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
-| [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,276 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
-| [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) | 2,206 | Navigate within Reflect and quickly append to your daily notes. | ryon | macOS | [store](https://www.raycast.com/ryon/reflect) |
+| [Craft](https://github.com/raycast/extensions/tree/main/extensions/craftdocs) | 14,350 | Search Blocks, browse and add to Daily Notes, and manage Spaces in Craft | sfkmk | macOS | [store](https://www.raycast.com/sfkmk/craftdocs) |
+| [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,286 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
+| [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) | 2,211 | Navigate within Reflect and quickly append to your daily notes. | ryon | macOS | [store](https://www.raycast.com/ryon/reflect) |
 | [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 32 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
 
 ## Markdown ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) | 7,452 | Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! | biknandy | Windows, macOS | [store](https://www.raycast.com/biknandy/quick-notes) |
+| [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) | 7,472 | Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! | biknandy | Windows, macOS | [store](https://www.raycast.com/biknandy/quick-notes) |
 | [Productboard](https://github.com/raycast/extensions/tree/main/extensions/productboard) | 333 | Add and view notes in Productboard quickly. Supports markdown. | honzatmn | macOS | [store](https://www.raycast.com/honzatmn/productboard) |
-| [Raylog - Markdown Tasks](https://github.com/raycast/extensions/tree/main/extensions/raylog-markdown-tasks) | 86 | Manage focused local tasks from Raycast with a standalone markdown note. | dillon-mccardell | macOS, Windows | [store](https://www.raycast.com/dillon-mccardell/raylog-markdown-tasks) |
+| [Raylog - Markdown Tasks](https://github.com/raycast/extensions/tree/main/extensions/raylog-markdown-tasks) | 87 | Manage focused local tasks from Raycast with a standalone markdown note. | dillon-mccardell | macOS, Windows | [store](https://www.raycast.com/dillon-mccardell/raylog-markdown-tasks) |
 | [Noteman](https://github.com/raycast/extensions/tree/main/extensions/noteman) | 2 | Fast, local Markdown note-taking in Raycast | samuel_oldmark_se | macOS | [store](https://www.raycast.com/samuel_oldmark_se/noteman) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 147,274 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
-| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 14,356 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
-| [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,927 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 7,627 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
-| [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote) | 4,107 | Search Microsoft OneNote notes | alewandowski | macOS | [store](https://www.raycast.com/alewandowski/onenote) |
-| [Antinote](https://github.com/raycast/extensions/tree/main/extensions/antinote) | 3,509 | Extension to control Antinote app. Create new notes, search notes and pin/unpin Antinote with Raycast. | sc0 | macOS | [store](https://www.raycast.com/sc0/antinote) |
-| [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) | 1,166 | Search your Evernote notes instantly using the local database of the official Evernote client. | artpi | macOS, Windows | [store](https://www.raycast.com/artpi/evernote) |
-| [iA Writer](https://github.com/raycast/extensions/tree/main/extensions/raycast-ia-writer) | 878 | Create or search notes with Raycast | xvvhang | macOS | [store](https://www.raycast.com/xvvhang/raycast-ia-writer) |
-| [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 794 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
-| [Memo](https://github.com/raycast/extensions/tree/main/extensions/memo) | 792 | All your bookmarks and notes in 1 Notion | mt40 | macOS | [store](https://www.raycast.com/mt40/memo) |
-| [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) | 600 | Take notes through Raycast in UpNote. | ujjwal1998 | macOS | [store](https://www.raycast.com/ujjwal1998/upnote) |
+| [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 147,810 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
+| [Bear Notes](https://github.com/raycast/extensions/tree/main/extensions/bear) | 14,396 | Control Bear with Raycast | hmarr | macOS | [store](https://www.raycast.com/hmarr/bear) |
+| [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq) | 7,948 | Add notes quickly in Logseq | futantan | macOS, Windows | [store](https://www.raycast.com/futantan/logseq) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 7,653 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote) | 4,120 | Search Microsoft OneNote notes | alewandowski | macOS | [store](https://www.raycast.com/alewandowski/onenote) |
+| [Antinote](https://github.com/raycast/extensions/tree/main/extensions/antinote) | 3,524 | Extension to control Antinote app. Create new notes, search notes and pin/unpin Antinote with Raycast. | sc0 | macOS | [store](https://www.raycast.com/sc0/antinote) |
+| [Evernote Instant Search](https://github.com/raycast/extensions/tree/main/extensions/evernote) | 1,175 | Search your Evernote notes instantly using the local database of the official Evernote client. | artpi | macOS, Windows | [store](https://www.raycast.com/artpi/evernote) |
+| [iA Writer](https://github.com/raycast/extensions/tree/main/extensions/raycast-ia-writer) | 879 | Create or search notes with Raycast | xvvhang | macOS | [store](https://www.raycast.com/xvvhang/raycast-ia-writer) |
+| [Search Joplin Notes](https://github.com/raycast/extensions/tree/main/extensions/search-joplin-notes) | 795 | Search and view in your joplin notes | wisdom-plus | macOS | [store](https://www.raycast.com/wisdom-plus/search-joplin-notes) |
+| [Memo](https://github.com/raycast/extensions/tree/main/extensions/memo) | 793 | All your bookmarks and notes in 1 Notion | mt40 | macOS | [store](https://www.raycast.com/mt40/memo) |
+| [UpNote](https://github.com/raycast/extensions/tree/main/extensions/upnote) | 602 | Take notes through Raycast in UpNote. | ujjwal1998 | macOS | [store](https://www.raycast.com/ujjwal1998/upnote) |
 | [Ingredients Lister](https://github.com/raycast/extensions/tree/main/extensions/ingredients-lister) | 525 | After getting the contents of an entire website using selected text, you will receive a list of every single ingredient necessary in your recipe from online fo… | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/ingredients-lister) |
 | [cryptgeon](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) | 252 | Create and share encrypted notes | cupcakearmy | macOS | [store](https://www.raycast.com/cupcakearmy/cryptgeon) |
-| [Typora Note Creator](https://github.com/raycast/extensions/tree/main/extensions/typora-note-creator) | 175 | This extension allows you to create folders and notes for Typora from templates. | mynameisny | macOS | [store](https://www.raycast.com/mynameisny/typora-note-creator) |
+| [Typora Note Creator](https://github.com/raycast/extensions/tree/main/extensions/typora-note-creator) | 176 | This extension allows you to create folders and notes for Typora from templates. | mynameisny | macOS | [store](https://www.raycast.com/mynameisny/typora-note-creator) |
 | [Harmonic](https://github.com/raycast/extensions/tree/main/extensions/harmonic) | 56 | Search notes and chords, see their frequencies, and play them as tones | chandlervdw | macOS | [store](https://www.raycast.com/chandlervdw/harmonic) |
 | [Essay](https://github.com/raycast/extensions/tree/main/extensions/essay) | 40 | Use Essay Raycast extension for instant essay publishing and streamlined notes management. | Ironben | macOS | [store](https://www.raycast.com/Ironben/essay) |
 | [Mnemosyne](https://github.com/raycast/extensions/tree/main/extensions/mnemosyne) | 12 | Quickly save URLs and notes to your Mnemosyne knowledge library | dort | macOS, Windows | [store](https://www.raycast.com/dort/mnemosyne) |

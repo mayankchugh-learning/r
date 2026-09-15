@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-15 — upstream `2e0f10fca1`
+
+**Updated (1):** [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt)
+
 ## 2026-09-14 — upstream `df2a031bea`
 
 **Added (1):** [Soulver](https://github.com/raycast/extensions/tree/main/extensions/soulver)
