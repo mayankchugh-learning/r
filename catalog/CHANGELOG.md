@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-15 — upstream `995b2d0b0e`
+
+**Updated (1):** [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands)
+
 ## 2026-09-15 — upstream `95436d5709`
 
 **Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)

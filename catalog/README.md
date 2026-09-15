@@ -22,12 +22,12 @@ An organized, auto-maintained index of every extension in [raycast/extensions](h
 | Section | Categories | Extensions |
 | --- | --- | --- |
 | Work & Productivity | Productivity, Applications, Communication | 1,753 |
-| Development | Developer Tools, AI, Documentation, Data, Security | 1,448 |
+| Development | Developer Tools, AI, Documentation, Data, Security | 1,449 |
 | Creative & Media | Design Tools, Media | 433 |
-| Web, Finance & News | Web, Finance, News | 676 |
+| Web, Finance & News | Web, Finance, News | 677 |
 | System & Utilities | System, Other | 452 |
 | Fun & Entertainment | Fun | 279 |
-| Uncategorized | Uncategorized | 114 |
+| Uncategorized | Uncategorized | 113 |
 
 ## How this stays up to date
 

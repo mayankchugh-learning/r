@@ -1,8 +1,8 @@
 # macOS · Uncategorized
 
-114 extensions · [← macOS](../README.md)
+113 extensions · [← macOS](../README.md)
 
-[AI Tools](#ai-tools) (14) · [Crypto & Trading](#crypto-trading) (1) · [Developer Utilities](#developer-utilities) (15) · [Productivity & Tasks](#productivity-tasks) (10) · [Media & Entertainment](#media-entertainment) (3) · [Language & Translation](#language-translation) (1) · [Travel & Transport](#travel-transport) (1) · [Smart Home & IoT](#smart-home-iot) (1) · [System & Hardware](#system-hardware) (10) · [Web & Search](#web-search) (17) · [Communication & Social](#communication-social) (2) · [General](#general) (39)
+[AI Tools](#ai-tools) (14) · [Crypto & Trading](#crypto-trading) (1) · [Developer Utilities](#developer-utilities) (15) · [Productivity & Tasks](#productivity-tasks) (10) · [Media & Entertainment](#media-entertainment) (3) · [Language & Translation](#language-translation) (1) · [Travel & Transport](#travel-transport) (1) · [Smart Home & IoT](#smart-home-iot) (1) · [System & Hardware](#system-hardware) (10) · [Web & Search](#web-search) (16) · [Communication & Social](#communication-social) (2) · [General](#general) (39)
 
 ## Digital Tools
 
@@ -49,7 +49,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 539,770 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 540,005 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 7,279 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
 | [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,498 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
 | [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,501 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |
@@ -70,7 +70,6 @@
 | [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,836 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
 | [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) | 1,332 | Search Google Scholar for academic articles, papers, and research. | leandro.maia | macOS | [store](https://www.raycast.com/leandro.maia/google-scholar) |
 | [Radix](https://github.com/raycast/extensions/tree/main/extensions/radix) | 1,125 | Search and open Radix content directly from Raycast. | peduarte | macOS | [store](https://www.raycast.com/peduarte/radix) |
-| [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,095 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
 | [Phind Search](https://github.com/raycast/extensions/tree/main/extensions/phind-search) | 1,068 | Search anything with Phind | Chuck | macOS | [store](https://www.raycast.com/Chuck/phind-search) |
 | [Obsidian Link Opener](https://github.com/raycast/extensions/tree/main/extensions/obsidian-link-opener) | 531 | Open URLs from Obsidian markdown files' frontmatter | osteele | macOS | [store](https://www.raycast.com/osteele/obsidian-link-opener) |
 | [OTP Auth](https://github.com/raycast/extensions/tree/main/extensions/otp-auth) | 268 | Search OTPs in your OTP Auth database | huzef44 | macOS | [store](https://www.raycast.com/huzef44/otp-auth) |

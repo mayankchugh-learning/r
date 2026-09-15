@@ -1,8 +1,8 @@
 # Web & Frontend
 
-64 extensions · [← Developer Tools](./README.md)
+65 extensions · [← Developer Tools](./README.md)
 
-[Components ✦](#components) (14) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (9) · [Tabs ✦](#tabs) (4) · [General](#general) (23)
+[Components ✦](#components) (14) · [Documentation ✦](#documentation) (4) · [CSS ✦](#css) (10) · [Website ✦](#website) (9) · [Tabs ✦](#tabs) (4) · [General](#general) (24)
 
 *✦ auto-discovered topic group*
 
@@ -82,6 +82,7 @@
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,444 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
 | [Markdown This](https://github.com/raycast/extensions/tree/main/extensions/markdown-this) | 1,685 | Convert Markdown text in clipboard to HTML | aravindballa | macOS | [store](https://www.raycast.com/aravindballa/markdown-this) |
 | [Tailwind Size Conversion](https://github.com/raycast/extensions/tree/main/extensions/px-to-tailwind) | 1,573 | Converts pixels to Tailwind class values and vice versa | kemiljk | macOS | [store](https://www.raycast.com/kemiljk/tailwind-size-conversion) |
+| [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,095 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
 | [Search Svelte Docs](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) | 661 | Search the svelte docs directly in Raycast | paolo_ricciuti | macOS, Windows | [store](https://www.raycast.com/paolo_ricciuti/svelte-docs) |
 | [HTML Colors](https://github.com/raycast/extensions/tree/main/extensions/html-colors) | 418 | Search through pallettes of standard HTML colors. Offers basic + extended set. Search by name or browse by looking at the color itself. | Synacek | macOS | [store](https://www.raycast.com/Synacek/html-colors) |
 | [Open Laravel Herd Site](https://github.com/raycast/extensions/tree/main/extensions/open-laravel-herd-site) | 348 | Lists all your Laravel Herd sites and allows you to open them in Visual Studio Code, Finder or your browser. | medienbaecker | macOS | [store](https://www.raycast.com/medienbaecker/open-laravel-herd-site) |

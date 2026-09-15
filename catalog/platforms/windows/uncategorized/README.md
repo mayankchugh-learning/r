@@ -1,8 +1,8 @@
 # Windows · Uncategorized
 
-22 extensions · [← Windows](../README.md)
+21 extensions · [← Windows](../README.md)
 
-[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Smart Home & IoT](#smart-home-iot) (1) · [Web & Search](#web-search) (6) · [Communication & Social](#communication-social) (1) · [General](#general) (7)
+[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Smart Home & IoT](#smart-home-iot) (1) · [Web & Search](#web-search) (5) · [Communication & Social](#communication-social) (1) · [General](#general) (7)
 
 ## Digital Tools
 
@@ -34,7 +34,6 @@
 | --- | --- | --- | --- | --- | --- |
 | [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 7,008 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
 | [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,836 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
-| [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,095 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
 | [Plexus - Localhost Search](https://github.com/raycast/extensions/tree/main/extensions/plexus) | 199 | Discover and manage all running localhost web servers (Node, PHP, Python, and more) with smart project detection, framework identification, WSL support, and qu… | RensHoogendam | macOS, Windows | [store](https://www.raycast.com/RensHoogendam/plexus) |
 | [RG AdGuard Links](https://github.com/raycast/extensions/tree/main/extensions/rg-adguard-links) | 73 | Convert Microsoft Store URLs to rg-adguard.net download links | jergensturdley | macOS, Windows | [store](https://www.raycast.com/jergensturdley/rg-adguard-links) |
 | [DeployHQ](https://github.com/raycast/extensions/tree/main/extensions/deployhq) | 11 | Search and navigate to your DeployHQ projects | MelvinBrem | macOS, Windows | [store](https://www.raycast.com/MelvinBrem/deployhq) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "95436d570942ea1a33f006772155638961bd2e97",
-  "generatedAt": "2026-09-15T05:42:18.977Z",
-  "downloadsRefreshedAt": "2026-09-15T05:42:18.285Z",
+  "commit": "995b2d0b0e105a6562e2664d0bf6903f65b616c4",
+  "generatedAt": "2026-09-15T06:57:41.724Z",
+  "downloadsRefreshedAt": "2026-09-15T06:57:41.342Z",
   "count": 3298,
   "extensions": [
     {
@@ -7601,7 +7601,7 @@
       "store": "https://www.raycast.com/abielzulio/chatgpt",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/chatgpt",
       "treeSha": "6cadde94f93cd6880b4ef4aac1b279891aea41c7",
-      "downloads": 251283
+      "downloads": 251338
     },
     {
       "dir": "chatgpt-atlas",
@@ -9850,7 +9850,7 @@
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
       "treeSha": "1feed71d465ca94d00cee334db5a72fc0f3743a1",
-      "downloads": 140815
+      "downloads": 140911
     },
     {
       "dir": "cognimemo",
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 571433
+      "downloads": 571778
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 539770
+      "downloads": 540005
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 730256
+      "downloads": 730592
     },
     {
       "dir": "kimai",
@@ -52456,16 +52456,17 @@
       "owner": null,
       "contributors": 0,
       "categories": [
-        "Uncategorized"
+        "Developer Tools",
+        "Web"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
         "macOS",
         "Windows"
       ],
       "store": "https://www.raycast.com/chrismessina/secret-browser-commands",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands",
-      "treeSha": "8ddd342185ad6e4169d6188a46c567d4548f12cd",
+      "treeSha": "b6c9594aa5357eca830ca8acf6398cd778483a6d",
       "downloads": 1095
     },
     {

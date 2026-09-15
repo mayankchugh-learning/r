@@ -1,8 +1,8 @@
 # Uncategorized
 
-114 extensions · [← all categories](../README.md)
+113 extensions · [← all categories](../README.md)
 
-macOS: 114 · Windows: 22
+macOS: 113 · Windows: 21
 
 ## Digital Tools
 
@@ -11,7 +11,7 @@ macOS: 114 · Windows: 22
 | [AI Tools](./ai-tools.md) | 14 |
 | [Developer Utilities](./developer-utilities.md) | 15 |
 | [Productivity & Tasks](./productivity-tasks.md) | 10 |
-| [Web & Search](./web-search.md) | 17 |
+| [Web & Search](./web-search.md) | 16 |
 | [System & Hardware](./system-hardware.md) | 10 |
 
 ## Life & World
