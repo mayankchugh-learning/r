@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "dc49591a4b526f70929720e656ec1d8aacc029cd",
-  "generatedAt": "2026-09-15T07:20:18.291Z",
-  "downloadsRefreshedAt": "2026-09-15T07:20:17.246Z",
+  "commit": "3062caa45157616006ae726677156594200cc90a",
+  "generatedAt": "2026-09-15T11:44:38.924Z",
+  "downloadsRefreshedAt": "2026-09-15T11:44:38.321Z",
   "count": 3298,
   "extensions": [
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 571913
+      "downloads": 573224
     },
     {
       "dir": "color-shades",
@@ -21876,10 +21876,10 @@
       "dir": "github-review-requests",
       "name": "github-review-requests",
       "title": "GitHub Review Requests",
-      "description": "Search review requests on GitHub and listing them.",
+      "description": "Search GitHub review requests, track replies and activity, and see actionable pull requests in the menu bar.",
       "author": "resessh",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Productivity"
       ],
@@ -21889,8 +21889,8 @@
       ],
       "store": "https://www.raycast.com/resessh/github-review-requests",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github-review-requests",
-      "treeSha": "41aaee0fe80503c8d16cc7c8b485e4226d4fd5ad",
-      "downloads": 2084
+      "treeSha": "f439782b4dcce350219fe1c52e993444b5d8f583",
+      "downloads": 2089
     },
     {
       "dir": "github-search",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 540094
+      "downloads": 540929
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 730733
+      "downloads": 732082
     },
     {
       "dir": "kimai",

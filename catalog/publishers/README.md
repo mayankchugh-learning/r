@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,220,466 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,221,777 |
 | 2 | [raycast](./id/raycast.md) | 11 | 861,667 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 730,733 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 540,094 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 732,082 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 540,929 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 473,321 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 468,669 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 439,108 |
@@ -439,9 +439,9 @@
 | 429 | [anfalas](https://www.raycast.com/anfalas) | 1 | 2,100 |
 | 430 | [frostplexx](https://www.raycast.com/frostplexx) | 1 | 2,097 |
 | 431 | [jones-sam](https://www.raycast.com/jones-sam) | 1 | 2,095 |
-| 432 | [jns](https://www.raycast.com/jns) | 4 | 2,084 |
-| 433 | [comes](https://www.raycast.com/comes) | 1 | 2,084 |
-| 434 | [resessh](https://www.raycast.com/resessh) | 1 | 2,084 |
+| 432 | [resessh](https://www.raycast.com/resessh) | 1 | 2,089 |
+| 433 | [jns](https://www.raycast.com/jns) | 4 | 2,084 |
+| 434 | [comes](https://www.raycast.com/comes) | 1 | 2,084 |
 | 435 | [puneeth](https://www.raycast.com/puneeth) | 1 | 2,082 |
 | 436 | [jaredliu233](https://www.raycast.com/jaredliu233) | 2 | 2,079 |
 | 437 | [cps](https://www.raycast.com/cps) | 1 | 2,079 |

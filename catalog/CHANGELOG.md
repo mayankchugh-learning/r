@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-15 — upstream `3062caa451`
+
+**Updated (1):** [GitHub Review Requests](https://github.com/raycast/extensions/tree/main/extensions/github-review-requests)
+
 ## 2026-09-15 — upstream `dc49591a4b`
 
 **Updated (1):** [Dated Folder](https://github.com/raycast/extensions/tree/main/extensions/dated-folder)
