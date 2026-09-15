@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Karabiner Profile Switcher](https://github.com/raycast/extensions/tree/main/extensions/karabiner-profile-switcher) | 1,679 | List Karabiner Elements profiles and switch between them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/karabiner-profile-switcher) |
-| [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) | 1,590 | Switch between clusters from Raycast | oktay | macOS | [store](https://www.raycast.com/oktay/kubectx) |
-| [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,528 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
-| [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch) | 356 | Quickly switch between hosts while preserving the url path | ewgenius | macOS | [store](https://www.raycast.com/ewgenius/host-switch) |
+| [Karabiner Profile Switcher](https://github.com/raycast/extensions/tree/main/extensions/karabiner-profile-switcher) | 1,689 | List Karabiner Elements profiles and switch between them | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/karabiner-profile-switcher) |
+| [kubectx](https://github.com/raycast/extensions/tree/main/extensions/kubectx) | 1,595 | Switch between clusters from Raycast | oktay | macOS | [store](https://www.raycast.com/oktay/kubectx) |
+| [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,534 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
+| [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch) | 357 | Quickly switch between hosts while preserving the url path | ewgenius | macOS | [store](https://www.raycast.com/ewgenius/host-switch) |

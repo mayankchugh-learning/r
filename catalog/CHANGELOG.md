@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-15 — upstream `4b152898b7`
+
+**Updated (1):** [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands)
+
 ## 2026-09-15 — upstream `3062caa451`
 
 **Updated (1):** [GitHub Review Requests](https://github.com/raycast/extensions/tree/main/extensions/github-review-requests)
