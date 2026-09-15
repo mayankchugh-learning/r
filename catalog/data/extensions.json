@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2e0f10fca1054dc981bfc85615e4b24316455da9",
-  "generatedAt": "2026-09-15T05:35:23.101Z",
-  "downloadsRefreshedAt": "2026-09-15T05:35:22.650Z",
+  "commit": "95436d570942ea1a33f006772155638961bd2e97",
+  "generatedAt": "2026-09-15T05:42:18.977Z",
+  "downloadsRefreshedAt": "2026-09-15T05:42:18.285Z",
   "count": 3298,
   "extensions": [
     {
@@ -9838,7 +9838,7 @@
       "description": "Prevent the sleep function on your computer",
       "author": "mooxl",
       "owner": null,
-      "contributors": 14,
+      "contributors": 15,
       "categories": [
         "System"
       ],
@@ -9849,7 +9849,7 @@
       ],
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
-      "treeSha": "8c8e32509a65a5d5a754f9c062123982324f405b",
+      "treeSha": "1feed71d465ca94d00cee334db5a72fc0f3743a1",
       "downloads": 140815
     },
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 571407
+      "downloads": 571433
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 539749
+      "downloads": 539770
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 730232
+      "downloads": 730256
     },
     {
       "dir": "kimai",
