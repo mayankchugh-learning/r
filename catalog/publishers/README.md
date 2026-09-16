@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,231,124 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,231,154 |
 | 2 | [raycast](./id/raycast.md) | 11 | 867,266 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 736,720 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 543,947 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 736,759 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 543,967 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 476,276 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 471,676 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 441,661 |
@@ -352,7 +352,7 @@
 | 342 | [http.james](https://www.raycast.com/http.james) | 4 | 3,082 |
 | 343 | [josmithua](https://www.raycast.com/josmithua) | 1 | 3,062 |
 | 344 | [pa1ar](https://www.raycast.com/pa1ar) | 1 | 3,059 |
-| 345 | [nicolas-marien](https://www.raycast.com/nicolas-marien) | 3 | 3,046 |
+| 345 | [nicolas-marien](https://www.raycast.com/nicolas-marien) | 3 | 3,047 |
 | 346 | [maxnyby](https://www.raycast.com/maxnyby) | 1 | 3,033 |
 | 347 | [madza](https://www.raycast.com/madza) | 1 | 3,019 |
 | 348 | [leeraymond78](https://www.raycast.com/leeraymond78) | 1 | 3,008 |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `32fa939c52`
+
+**Updated (1):** [Fronius Inverter](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter)
+
 ## 2026-09-16 — upstream `c7a9c52c1a`
 
 **Updated (1):** [GoodLinks](https://github.com/raycast/extensions/tree/main/extensions/goodlinks)
