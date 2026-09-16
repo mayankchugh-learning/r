@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `6c81c46085`
+
+**Updated (1):** [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper)
+
 ## 2026-09-16 — upstream `50e111b28c`
 
 **Updated (1):** [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour)
