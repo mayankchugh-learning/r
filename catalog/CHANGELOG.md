@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `c7a9c52c1a`
+
+**Updated (1):** [GoodLinks](https://github.com/raycast/extensions/tree/main/extensions/goodlinks)
+
 ## 2026-09-16 — upstream `081f60f7ae`
 
 **Updated (1):** [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects)
