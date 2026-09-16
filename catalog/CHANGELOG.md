@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `a9b57cb440`
+
+**Updated (1):** [UniFi](https://github.com/raycast/extensions/tree/main/extensions/unifi)
+
 ## 2026-09-16 — upstream `5fe54c04f5`
 
 **Added (1):** [Open Slide](https://github.com/raycast/extensions/tree/main/extensions/open-slide)

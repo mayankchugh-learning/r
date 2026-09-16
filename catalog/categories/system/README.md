@@ -31,7 +31,7 @@ macOS: 259 · Windows: 50
 | Topic | Extensions |
 | --- | --- |
 | [Power & Session](./power-session.md) | 10 |
-| [Network](./network.md) | 14 |
+| [Network](./network.md) | 15 |
 | [Defaults & Services](./defaults-services.md) | 9 |
 
 ## Discovered topics ✦
@@ -41,6 +41,6 @@ macOS: 259 · Windows: 50
 | [Connect ✦](./connect.md) | 7 |
 | [System ✦](./system.md) | 4 |
 
-Plus [General](./general.md) — 70 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 69 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

@@ -29,7 +29,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Power & Session](./power-session.md) | 10 |
-| [Network](./network.md) | 14 |
+| [Network](./network.md) | 15 |
 | [Defaults & Services](./defaults-services.md) | 9 |
 
-Plus [General](./general.md) — 79 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 78 extensions that don't fit a topic yet.
