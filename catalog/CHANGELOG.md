@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `2582fe6544`
+
+**Updated (1):** [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons)
+
 ## 2026-09-16 — upstream `ec13527532`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
