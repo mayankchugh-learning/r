@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,231,567 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,231,652 |
 | 2 | [raycast](./id/raycast.md) | 11 | 867,266 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,169 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,225 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,251 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,279 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 476,276 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 471,676 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 441,661 |
@@ -31,7 +31,7 @@
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 179,554 |
 | 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 166,499 |
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 163,339 |
-| 24 | [loris](https://www.raycast.com/loris) | 6 | 134,476 |
+| 24 | [loris](https://www.raycast.com/loris) | 6 | 134,581 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 117,327 |
 | 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 115,335 |
 | 27 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 112,993 |
@@ -138,7 +138,7 @@
 | 128 | [k8scat](https://www.raycast.com/k8scat) | 6 | 15,833 |
 | 129 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 15,525 |
 | 130 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,323 |
-| 131 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 15,124 |
+| 131 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 15,151 |
 | 132 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,081 |
 | 133 | [tbrown](https://www.raycast.com/tbrown) | 1 | 14,805 |
 | 134 | [frouo](https://www.raycast.com/frouo) | 1 | 14,745 |

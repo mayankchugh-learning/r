@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "aab10b2ba9156c45133c0659e39186042eca143a",
-  "generatedAt": "2026-09-16T13:03:15.409Z",
-  "downloadsRefreshedAt": "2026-09-16T13:03:14.986Z",
+  "commit": "3a5a559d085c3e0dbf1dbe18fa4380030aa06793",
+  "generatedAt": "2026-09-16T13:24:32.554Z",
+  "downloadsRefreshedAt": "2026-09-16T13:24:31.745Z",
   "count": 3298,
   "extensions": [
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 578313
+      "downloads": 578398
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 544225
+      "downloads": 544279
     },
     {
       "dir": "google-chrome-profiles",
@@ -22962,7 +22962,7 @@
       ],
       "store": "https://www.raycast.com/gebeto/translate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-translate",
-      "treeSha": "5f46a7f607e2ce491346e23bc6139fbaccd485b4",
+      "treeSha": "c391da96234095ea8f0268d2b99258f87dad70ed",
       "downloads": 475151
     },
     {
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 737169
+      "downloads": 737251
     },
     {
       "dir": "kimai",
@@ -51144,7 +51144,7 @@
       "store": "https://www.raycast.com/loris/safari",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/safari",
       "treeSha": "36527181f53dba2686813de0c07d0b49cf8cbedc",
-      "downloads": 58333
+      "downloads": 58438
     },
     {
       "dir": "safe-secret",
@@ -61052,7 +61052,7 @@
       "store": "https://www.raycast.com/franzwilhelm/toggl-track",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/toggl-track",
       "treeSha": "6aa0f8dfb4c21f95f07c0cd217a8dd15b6924f38",
-      "downloads": 13702
+      "downloads": 13729
     },
     {
       "dir": "toggle-desktop-visibility",
