@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 578,302 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 578,313 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,691 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 6,896 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,368 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -156,7 +156,7 @@
 | [Primer](https://github.com/raycast/extensions/tree/main/extensions/primer) | 209 | Search and navigate GitHub's Primer Design System | cole | macOS | [store](https://www.raycast.com/cole/primer) |
 | [Braid Design System](https://github.com/raycast/extensions/tree/main/extensions/braid) | 205 | Search and use Braid Components and Iconography from Raycast | felixhabib | macOS | [store](https://www.raycast.com/felixhabib/braid) |
 | [Geist UI Components & Hooks](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) | 76 | This extension provides links to components & hooks in Geist UI Documentation | RahulatRaycast | macOS | [store](https://www.raycast.com/RahulatRaycast/geist-ui-components) |
-| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 13 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |
+| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 14 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |
 
 ### Art & Wallpapers
 

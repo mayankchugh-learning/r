@@ -23,7 +23,7 @@
 | [Geist UI Components & Hooks](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) | 76 | This extension provides links to components & hooks in Geist UI Documentation | RahulatRaycast | macOS | [store](https://www.raycast.com/RahulatRaycast/geist-ui-components) |
 | [Base UI Components](https://github.com/raycast/extensions/tree/main/extensions/base-ui-docs) | 67 | Browse Base UI component documentation | lucasmotta | macOS | [store](https://www.raycast.com/lucasmotta/base-ui-docs) |
 | [Vuetify Docs](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) | 56 | Search all Vuetify components and open the official documentation directly from Raycast. | jeffnawroth | macOS | [store](https://www.raycast.com/jeffnawroth/vuetify-docs) |
-| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 13 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |
+| [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search) | 14 | Search and browse components across shadcn/ui, PrimeNG, Angular Material, spartan/ui, Taiga UI, Mantine, React Spectrum, and Chakra UI | tomer_meirov | Windows, macOS | [store](https://www.raycast.com/tomer_meirov/ui-component-search) |
 
 ## Documentation ✦
 

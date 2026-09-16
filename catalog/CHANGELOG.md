@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `aab10b2ba9`
+
+**Updated (2):** [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari), [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)
+
 ## 2026-09-16 — upstream `69f2a1023f`
 
 **Updated (1):** [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search)
