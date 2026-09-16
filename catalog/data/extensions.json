@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8f9c61f7887ff73babc90aec352d0315de337214",
-  "generatedAt": "2026-09-16T16:59:23.418Z",
-  "downloadsRefreshedAt": "2026-09-16T16:59:22.593Z",
+  "commit": "d716d809fb6b231e35761d4d43d3b3c65c8e872b",
+  "generatedAt": "2026-09-16T17:01:20.092Z",
+  "downloadsRefreshedAt": "2026-09-16T17:01:19.682Z",
   "count": 3299,
   "extensions": [
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 579211
+      "downloads": 579220
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 544802
+      "downloads": 544805
     },
     {
       "dir": "google-chrome-profiles",
@@ -29033,7 +29033,7 @@
       "description": "Terminate processes sorted by CPU or memory usage",
       "author": "rolandleth",
       "owner": null,
-      "contributors": 10,
+      "contributors": 11,
       "categories": [
         "Developer Tools",
         "System",
@@ -29046,8 +29046,8 @@
       ],
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
-      "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 738044
+      "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
+      "downloads": 738048
     },
     {
       "dir": "kimai",

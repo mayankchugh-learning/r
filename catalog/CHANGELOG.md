@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `d716d809fb`
+
+**Updated (1):** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process)
+
 ## 2026-09-16 — upstream `8f9c61f788`
 
 **Updated (1):** [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher)
