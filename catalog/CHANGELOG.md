@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `081f60f7ae`
+
+**Updated (1):** [Visual Studio Code](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects)
+
 ## 2026-09-16 — upstream `05c4d7440e`
 
 **Updated (1):** [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi)
