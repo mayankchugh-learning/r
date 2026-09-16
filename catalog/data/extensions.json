@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6c81c46085b89a0c60dfd0f21b19aee70dbd04ed",
-  "generatedAt": "2026-09-16T11:15:19.634Z",
-  "downloadsRefreshedAt": "2026-09-16T11:15:19.240Z",
+  "commit": "c511abce91d0702abde865e90e5174f28ac26ebe",
+  "generatedAt": "2026-09-16T12:29:43.533Z",
+  "downloadsRefreshedAt": "2026-09-16T12:29:43.164Z",
   "count": 3298,
   "extensions": [
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 577924
+      "downloads": 578193
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 543988
+      "downloads": 544161
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 736785
+      "downloads": 737048
     },
     {
       "dir": "kimai",
@@ -58662,7 +58662,7 @@
       "store": "https://www.raycast.com/lifedever/tasktick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tasktick",
       "treeSha": "916de768653b5644c52424081d8e9344eb381454",
-      "downloads": 29
+      "downloads": 30
     },
     {
       "dir": "tategaki",
@@ -58887,8 +58887,8 @@
       ],
       "store": "https://www.raycast.com/ikupenov/telegram",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/telegram",
-      "treeSha": "10825a9fe621ecd810a76166698b3ce3aabf3e57",
-      "downloads": 2791
+      "treeSha": "9c63c25686af865e7f4c3a23beb58bed7c01ce71",
+      "downloads": 2799
     },
     {
       "dir": "teleport",

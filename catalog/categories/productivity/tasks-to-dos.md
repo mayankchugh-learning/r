@@ -37,7 +37,7 @@
 | [Stashit](https://github.com/raycast/extensions/tree/main/extensions/stashit) | 31 | A priority queue for managing tasks with priorities | pmzi | macOS | [store](https://www.raycast.com/pmzi/stashit) |
 | [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama) | 31 | Create, Edit, View, and Delete Tasks in Sunsama | artistro08 | Windows, macOS | [store](https://www.raycast.com/artistro08/sunsama) |
 | [TeamGantt](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) | 31 | Finding and creating tasks in TeamGantt | knownasilya | macOS | [store](https://www.raycast.com/knownasilya/teamgantt) |
-| [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick) | 29 | Quick launcher for TaskTick scheduled tasks | lifedever | macOS | [store](https://www.raycast.com/lifedever/tasktick) |
+| [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick) | 30 | Quick launcher for TaskTick scheduled tasks | lifedever | macOS | [store](https://www.raycast.com/lifedever/tasktick) |
 | [Dida365](https://github.com/raycast/extensions/tree/main/extensions/dida365) | 18 | Control Dida365 tasks from Raycast on Windows. | ctacta621 | macOS, Windows | [store](https://www.raycast.com/ctacta621/dida365) |
 | [Pinwork](https://github.com/raycast/extensions/tree/main/extensions/pinwork) | 18 | Capture a complete task in one sentence, then manage Today, Inbox, upcoming tasks, and projects from Raycast | adapting.tech | macOS | [store](https://www.raycast.com/adapting.tech/pinwork) |
 | [Arca](https://github.com/raycast/extensions/tree/main/extensions/arca) | 10 | Task management where simplicity meets capability | ghadeer | macOS, Windows | [store](https://www.raycast.com/ghadeer/arca) |

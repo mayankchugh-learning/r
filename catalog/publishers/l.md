@@ -43,7 +43,7 @@
 | [libaro](https://www.raycast.com/libaro) | 1 | 497 | **Applications:** [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) |
 | [lichinlin](https://www.raycast.com/lichinlin) | 1 | 535 | **Fun:** [Google Maps Explorer](https://github.com/raycast/extensions/tree/main/extensions/findnearby) |
 | [liel_azulay](https://www.raycast.com/liel_azulay) | 1 | 161 | **Developer Tools:** [Token Track](https://github.com/raycast/extensions/tree/main/extensions/tokentrack) |
-| [lifedever](https://www.raycast.com/lifedever) | 1 | 29 | **Productivity:** [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick) |
+| [lifedever](https://www.raycast.com/lifedever) | 1 | 30 | **Productivity:** [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick) |
 | [LightQuantum](https://www.raycast.com/LightQuantum) | 1 | 1,573 | **Productivity:** [Fastmail Masked Email](https://github.com/raycast/extensions/tree/main/extensions/fastmail-masked-email) |
 | [lihzsky](https://www.raycast.com/lihzsky) | 1 | 246 | **Developer Tools:** [NPM Registry Manager](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) |
 | [liluo](https://www.raycast.com/liluo) | 1 | 121 | **Developer Tools:** [HTTP Performance Analyzer](https://github.com/raycast/extensions/tree/main/extensions/httpperf) |

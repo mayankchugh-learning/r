@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 736,785 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 737,048 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 176,630 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 106,392 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 65,624 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -207,8 +207,8 @@
 | [Kafka UI](https://github.com/raycast/extensions/tree/main/extensions/kafka-ui) | 32 | Inspect Kafka consumer group lag, browse topics, and open Kafka UI dashboards. Powered by the Kafka UI open-source project. | nirrosh | macOS | [store](https://www.raycast.com/NirRosh/kafka-ui) |
 | [OVHcloud](https://github.com/raycast/extensions/tree/main/extensions/ovh) | 32 | Manage Domains in OVHCloud | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/ovhcloud) |
 | [Gram](https://github.com/raycast/extensions/tree/main/extensions/gram) | 31 | The easiest way to use Gram on Mac. Access projects and manage extensions from the comfort of Raycast. | justyt65 | macOS | [store](https://www.raycast.com/justyt65/gram) |
+| [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick) | 30 | Quick launcher for TaskTick scheduled tasks | lifedever | macOS | [store](https://www.raycast.com/lifedever/tasktick) |
 | [Dagster](https://github.com/raycast/extensions/tree/main/extensions/dagster) | 29 | Browse Dagster assets, materializations, and runs | b-per | macOS | [store](https://www.raycast.com/b-per/dagster) |
-| [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick) | 29 | Quick launcher for TaskTick scheduled tasks | lifedever | macOS | [store](https://www.raycast.com/lifedever/tasktick) |
 | [DirectAdmin Reseller](https://github.com/raycast/extensions/tree/main/extensions/directadmin-reseller) | 26 | Interact with DirectAdmin as a Reseller | xmok | macOS | [store](https://www.raycast.com/xmok/directadmin-reseller) |
 | [LogSnag](https://github.com/raycast/extensions/tree/main/extensions/logsnag) | 26 | Publish Events and Insights to LogSnag | xmok | macOS | [store](https://www.raycast.com/xmok/logsnag) |
 | [Bento Email](https://github.com/raycast/extensions/tree/main/extensions/bento) | 25 | Interact with Bento (bentonow.com) to add subscribers, view broadcasts, reports, and other utility features. | zeromana | macOS | [store](https://www.raycast.com/zeromana/bento) |
