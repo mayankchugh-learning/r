@@ -1,8 +1,8 @@
 # Cross-platform · Applications
 
-77 extensions · [← Cross-platform](../README.md)
+78 extensions · [← Cross-platform](../README.md)
 
-[AI & Chat Apps](#ai-chat-apps) (5) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (6) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (8) · [Automation & Input Apps](#automation-input-apps) (2) · [Network & Connection Apps](#network-connection-apps) (2) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (5) · [General](#general) (32)
+[AI & Chat Apps](#ai-chat-apps) (5) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (7) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (8) · [Automation & Input Apps](#automation-input-apps) (2) · [Network & Connection Apps](#network-connection-apps) (2) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (5) · [General](#general) (32)
 
 ## Work & Knowledge Apps
 
@@ -16,6 +16,7 @@
 | [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 6,781 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
 | [Anytype](https://github.com/raycast/extensions/tree/main/extensions/anytype) | 3,444 | Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. | any (org) | macOS, Windows | [store](https://www.raycast.com/any/anytype) |
 | [Helium](https://github.com/raycast/extensions/tree/main/extensions/helium) | 1,873 | Navigate open tabs, bookmarks, and the web in Helium browser | islamtayeb | macOS, Windows | [store](https://www.raycast.com/islamtayeb/helium) |
+| [Open Slide](https://github.com/raycast/extensions/tree/main/extensions/open-slide) | — | Search every slide across your deployed open-slide sites, speaker notes and page copy included | ridemountainpig | Windows, macOS | — |
 
 ### Productivity & Task Apps
 

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `5fe54c04f5`
+
+**Added (1):** [Open Slide](https://github.com/raycast/extensions/tree/main/extensions/open-slide)
+
 ## 2026-09-16 — upstream `f56d4830e7`
 
 **Updated (1):** [Teak](https://github.com/raycast/extensions/tree/main/extensions/teak-raycast)

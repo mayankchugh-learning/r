@@ -1,8 +1,8 @@
 # Notes, PKM & Study Apps
 
-30 extensions · [← Applications](./README.md)
+31 extensions · [← Applications](./README.md)
 
-[Bookmarks ✦](#bookmarks) (16) · [Notes ✦](#notes) (8) · [General](#general) (6)
+[Bookmarks ✦](#bookmarks) (16) · [Notes ✦](#notes) (9) · [General](#general) (6)
 
 *✦ auto-discovered topic group*
 
@@ -39,6 +39,7 @@
 | [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) | 116 | Manage your Collected Notes blog | txemaleon | macOS | [store](https://www.raycast.com/txemaleon/collected-notes) |
 | [Minttr](https://github.com/raycast/extensions/tree/main/extensions/minttr) | 76 | Quick capture for Minttr - save notes and links instantly | zayn_harris_dev | macOS | [store](https://www.raycast.com/zayn_harris_dev/minttr) |
 | [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 33 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
+| [Open Slide](https://github.com/raycast/extensions/tree/main/extensions/open-slide) | — | Search every slide across your deployed open-slide sites, speaker notes and page copy included | ridemountainpig | Windows, macOS | — |
 
 ## General
 

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · **O** · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-113 extensions · [← catalog index](../README.md)
+114 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -119,3 +119,4 @@
 | [Oh-Shoot](https://github.com/raycast/extensions/tree/main/extensions/oh-shoot) | 8 | Search your oh-shoot screenshots by their OCR text and jump straight back into the oh-shoot app. | nico_pergande | macOS | [store](https://www.raycast.com/nico_pergande/oh-shoot) |
 | [OlaCV](https://github.com/raycast/extensions/tree/main/extensions/olacv) | 7 | Manage Domains and Contacts in our OlaCV account | xmok | macOS | [store](https://www.raycast.com/xmok/olacv) |
 | [Orc Pictures](https://github.com/raycast/extensions/tree/main/extensions/orc-pictures) | 4 | Search orc reaction GIFs and copy the GIF file to the clipboard for X. | orcdev | macOS, Windows | [store](https://www.raycast.com/orcdev/orc-pictures) |
+| [Open Slide](https://github.com/raycast/extensions/tree/main/extensions/open-slide) | — | Search every slide across your deployed open-slide sites, speaker notes and page copy included | ridemountainpig | Windows, macOS | — |

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,231,784 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,231,879 |
 | 2 | [raycast](./id/raycast.md) | 11 | 867,266 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,375 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,347 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,476 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,417 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 477,297 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 471,676 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 441,661 |
@@ -128,7 +128,7 @@
 | 118 | [maantje](https://www.raycast.com/maantje) | 2 | 17,180 |
 | 119 | [ilian](https://www.raycast.com/ilian) | 3 | 17,123 |
 | 120 | [timoransky](https://www.raycast.com/timoransky) | 4 | 17,003 |
-| 121 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,925 |
+| 121 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 16,925 |
 | 122 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 16,368 |
 | 123 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,351 |
 | 124 | [kom](https://www.raycast.com/kom) | 1 | 16,276 |

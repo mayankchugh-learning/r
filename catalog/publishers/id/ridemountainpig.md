@@ -1,8 +1,8 @@
 # ridemountainpig
 
-15 extensions · 16,925 downloads · [store](https://www.raycast.com/ridemountainpig) · [← publishers](../README.md)
+16 extensions · 16,925 downloads · [store](https://www.raycast.com/ridemountainpig) · [← publishers](../README.md)
 
-## Applications (10)
+## Applications (11)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@
 | [Napkin](https://github.com/raycast/extensions/tree/main/extensions/napkin) | 170 | Use Napkin AI to transform text into visual diagrams and illustrations | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/napkin) |
 | [Luma](https://github.com/raycast/extensions/tree/main/extensions/luma) | 121 | Discover Luma event | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/luma) |
 | [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | 83 | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |
+| [Open Slide](https://github.com/raycast/extensions/tree/main/extensions/open-slide) | — | Search every slide across your deployed open-slide sites, speaker notes and page copy included | ridemountainpig | Windows, macOS | — |
 
 ## Productivity (1)
 

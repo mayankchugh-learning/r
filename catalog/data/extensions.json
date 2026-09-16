@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f56d4830e75c71d82cf73956318de5edd6136ea7",
-  "generatedAt": "2026-09-16T13:51:39.980Z",
-  "downloadsRefreshedAt": "2026-09-16T13:51:39.203Z",
-  "count": 3298,
+  "commit": "5fe54c04f59ad7176756621ae4d265d6d610c072",
+  "generatedAt": "2026-09-16T14:13:24.988Z",
+  "downloadsRefreshedAt": "2026-09-16T14:13:24.125Z",
+  "count": 3299,
   "extensions": [
     {
       "dir": "0x0",
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 578530
+      "downloads": 578625
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 544347
+      "downloads": 544417
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 737375
+      "downloads": 737476
     },
     {
       "dir": "kimai",
@@ -40360,6 +40360,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/open-props",
       "treeSha": "cd6964b1949f86405f1821eb89ea6de695dd660e",
       "downloads": 18
+    },
+    {
+      "dir": "open-slide",
+      "name": "open-slide",
+      "title": "Open Slide",
+      "description": "Search every slide across your deployed open-slide sites, speaker notes and page copy included",
+      "author": "ridemountainpig",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/open-slide",
+      "treeSha": "dc98ee73ae44f80c0050891120262c3528064f44",
+      "downloads": null
     },
     {
       "dir": "open-targets-raycast",

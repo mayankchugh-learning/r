@@ -2,7 +2,7 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · **Notes, PKM & Study Apps** · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · [Apple & Built-in Apps](./apple-built-in-apps.md) · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
 
-30 of 374 extensions · [← macOS · Applications](./README.md)
+31 of 375 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -36,3 +36,4 @@
 | [Iridium](https://github.com/raycast/extensions/tree/main/extensions/iridium) | 58 | Search open tabs, bookmarks and history in Iridium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/iridium) |
 | [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 33 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
 | [Accordance](https://github.com/raycast/extensions/tree/main/extensions/accordance) | 31 | Access verses and search Accordance Bible modules from Raycast | entupo | macOS | [store](https://www.raycast.com/entupo/accordance) |
+| [Open Slide](https://github.com/raycast/extensions/tree/main/extensions/open-slide) | — | Search every slide across your deployed open-slide sites, speaker notes and page copy included | ridemountainpig | Windows, macOS | — |
