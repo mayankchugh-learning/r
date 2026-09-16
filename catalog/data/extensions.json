@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f3b78605f8f842d332d643728f9ba4993f271623",
-  "generatedAt": "2026-09-16T12:42:44.380Z",
-  "downloadsRefreshedAt": "2026-09-16T12:42:44.023Z",
+  "commit": "01f9ad5edf08b73a4154bf9fa640df637d382879",
+  "generatedAt": "2026-09-16T12:44:20.621Z",
+  "downloadsRefreshedAt": "2026-09-16T12:44:19.818Z",
   "count": 3298,
   "extensions": [
     {
@@ -5307,7 +5307,7 @@
       "store": "https://www.raycast.com/Francois/bitbucket",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bitbucket",
       "treeSha": "757d42d6aeaf343bc1ce1d1c595e56cf8b2acfff",
-      "downloads": 4085
+      "downloads": 4080
     },
     {
       "dir": "bitbucket-search-self-hosted",
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 578246
+      "downloads": 578256
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 544187
+      "downloads": 544188
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 737105
+      "downloads": 737107
     },
     {
       "dir": "kimai",
@@ -51897,7 +51897,7 @@
       "store": "https://www.raycast.com/Aayush9029/screenshot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/screenshot",
       "treeSha": "ff8feebdc55ccf94aa23d4833ec27f6752726685",
-      "downloads": 29933
+      "downloads": 29871
     },
     {
       "dir": "script-commands",
@@ -62994,7 +62994,7 @@
       ],
       "store": "https://www.raycast.com/litomore/united-nations",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/united-nations",
-      "treeSha": "e22b9961c070c021322cf35563f4c50fff261baa",
+      "treeSha": "e75b563b71f39a47c8ad689634a983bf761c8486",
       "downloads": 158
     },
     {

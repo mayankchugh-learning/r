@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `01f9ad5edf`
+
+**Updated (1):** [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations)
+
 ## 2026-09-16 — upstream `f3b78605f8`
 
 **Updated (1):** [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket)

@@ -14,10 +14,10 @@
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 179,554 |
 | 5 | [alexi.build](./id/alexi-build.md) | 18 | 2,143 |
 | 6 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 28,565 |
-| 7 | [Aayush9029](./id/aayush9029.md) | 16 | 163,339 |
+| 7 | [Aayush9029](./id/aayush9029.md) | 16 | 163,277 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,249 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,759 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,231,500 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,231,510 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 324,647 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,925 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 441,661 |
@@ -124,7 +124,7 @@
 | 114 | [pascal_burkhard](https://www.raycast.com/pascal_burkhard) | 3 | 6,686 |
 | 115 | [xjo_nd](https://www.raycast.com/xjo_nd) | 3 | 6,026 |
 | 116 | [ricoberger](https://www.raycast.com/ricoberger) | 3 | 6,008 |
-| 117 | [Francois](https://www.raycast.com/Francois) | 3 | 5,549 |
+| 117 | [Francois](https://www.raycast.com/Francois) | 3 | 5,544 |
 | 118 | [sebdanielsson](https://www.raycast.com/sebdanielsson) | 3 | 4,384 |
 | 119 | [danpalmer](https://www.raycast.com/danpalmer) | 3 | 4,333 |
 | 120 | [meshal](https://www.raycast.com/meshal) | 3 | 4,153 |
@@ -395,8 +395,8 @@
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 13 |
 | 386 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 387 | github-next | 2 | — |
-| 388 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,105 |
-| 389 | [Codely](https://www.raycast.com/Codely) | 1 | 544,187 |
+| 388 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,107 |
+| 389 | [Codely](https://www.raycast.com/Codely) | 1 | 544,188 |
 | 390 | [linear](https://www.raycast.com/linear) | 1 | 381,601 |
 | 391 | [mommertf](https://www.raycast.com/mommertf) | 1 | 318,185 |
 | 392 | [nhojb](https://www.raycast.com/nhojb) | 1 | 279,957 |
