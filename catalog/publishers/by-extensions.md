@@ -17,7 +17,7 @@
 | 7 | [Aayush9029](./id/aayush9029.md) | 16 | 163,339 |
 | 8 | [chrismessina](./id/chrismessina.md) | 16 | 7,249 |
 | 9 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,759 |
-| 10 | [thomas](./id/thomas.md) | 15 | 1,231,514 |
+| 10 | [thomas](./id/thomas.md) | 15 | 1,231,532 |
 | 11 | [vimtor](./id/vimtor.md) | 15 | 324,647 |
 | 12 | [ridemountainpig](./id/ridemountainpig.md) | 15 | 16,925 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 441,661 |
@@ -50,7 +50,7 @@
 | 40 | [pomdtr](https://www.raycast.com/pomdtr) | 6 | 22,897 |
 | 41 | [k8scat](https://www.raycast.com/k8scat) | 6 | 15,833 |
 | 42 | [keito4](https://www.raycast.com/keito4) | 6 | 9,005 |
-| 43 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 5,743 |
+| 43 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 5,744 |
 | 44 | [xianwei_zhang](https://www.raycast.com/xianwei_zhang) | 6 | 293 |
 | 45 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 94,032 |
 | 46 | [FezVrasta](https://www.raycast.com/FezVrasta) | 5 | 75,677 |
@@ -395,8 +395,8 @@
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 13 |
 | 386 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 387 | github-next | 2 | — |
-| 388 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,114 |
-| 389 | [Codely](https://www.raycast.com/Codely) | 1 | 544,191 |
+| 388 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,128 |
+| 389 | [Codely](https://www.raycast.com/Codely) | 1 | 544,206 |
 | 390 | [linear](https://www.raycast.com/linear) | 1 | 381,601 |
 | 391 | [mommertf](https://www.raycast.com/mommertf) | 1 | 318,185 |
 | 392 | [nhojb](https://www.raycast.com/nhojb) | 1 | 279,957 |
@@ -1415,12 +1415,12 @@
 | 1405 | [Cavallando](https://www.raycast.com/Cavallando) | 1 | 135 |
 | 1406 | [li_jin](https://www.raycast.com/li_jin) | 1 | 135 |
 | 1407 | [codiini](https://www.raycast.com/codiini) | 1 | 134 |
-| 1408 | [iambtshft](https://www.raycast.com/iambtshft) | 1 | 134 |
-| 1409 | [maksym_prokopov](https://www.raycast.com/maksym_prokopov) | 1 | 134 |
-| 1410 | [SimpleOptional](https://www.raycast.com/SimpleOptional) | 1 | 134 |
-| 1411 | [Smoca](https://www.raycast.com/Smoca) | 1 | 134 |
-| 1412 | [danvega](https://www.raycast.com/danvega) | 1 | 133 |
-| 1413 | [ertem_biyik](https://www.raycast.com/ertem_biyik) | 1 | 133 |
+| 1408 | [ertem_biyik](https://www.raycast.com/ertem_biyik) | 1 | 134 |
+| 1409 | [iambtshft](https://www.raycast.com/iambtshft) | 1 | 134 |
+| 1410 | [maksym_prokopov](https://www.raycast.com/maksym_prokopov) | 1 | 134 |
+| 1411 | [SimpleOptional](https://www.raycast.com/SimpleOptional) | 1 | 134 |
+| 1412 | [Smoca](https://www.raycast.com/Smoca) | 1 | 134 |
+| 1413 | [danvega](https://www.raycast.com/danvega) | 1 | 133 |
 | 1414 | [mohitkyadav](https://www.raycast.com/mohitkyadav) | 1 | 133 |
 | 1415 | [mwarger](https://www.raycast.com/mwarger) | 1 | 133 |
 | 1416 | [nathanwijaya](https://www.raycast.com/nathanwijaya) | 1 | 133 |

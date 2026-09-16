@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4309742fe0ec009baae00509ba181accceec8b58",
-  "generatedAt": "2026-09-16T12:45:19.624Z",
-  "downloadsRefreshedAt": "2026-09-16T12:45:19.208Z",
+  "commit": "11085d0bafa16f973b62f7a7f676001fdbdad7ba",
+  "generatedAt": "2026-09-16T12:51:26.499Z",
+  "downloadsRefreshedAt": "2026-09-16T12:51:25.552Z",
   "count": 3298,
   "extensions": [
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 578260
+      "downloads": 578278
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 544191
+      "downloads": 544206
     },
     {
       "dir": "google-chrome-profiles",
@@ -26982,7 +26982,7 @@
       "store": "https://www.raycast.com/ertem_biyik/ios-resolution",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ios-resolution",
       "treeSha": "f8b099a3c9458ae88449d6f590ae3e26ef37ba44",
-      "downloads": 133
+      "downloads": 134
     },
     {
       "dir": "ip-finder",
@@ -27651,7 +27651,7 @@
       "description": "Create, access, and modify issues and sprints.",
       "author": "ernest0n",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Productivity"
       ],
@@ -27662,8 +27662,8 @@
       ],
       "store": "https://www.raycast.com/ernest0n/jira-self-hosted",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jira-self-hosted",
-      "treeSha": "5615251b9d7f50730bf2af569be25cfe2c13e70c",
-      "downloads": 67
+      "treeSha": "536085b5b468a27cf28ddb92cd0b07520d59785e",
+      "downloads": 68
     },
     {
       "dir": "jira-time-tracking",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 737114
+      "downloads": 737128
     },
     {
       "dir": "kimai",

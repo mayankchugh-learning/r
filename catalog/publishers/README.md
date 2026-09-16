@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,231,514 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,231,532 |
 | 2 | [raycast](./id/raycast.md) | 11 | 867,266 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,114 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,191 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,128 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,206 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 476,276 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 471,676 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 441,661 |
@@ -249,7 +249,7 @@
 | 239 | [tarikyildizci](https://www.raycast.com/tarikyildizci) | 1 | 5,865 |
 | 240 | [karbassi](https://www.raycast.com/karbassi) | 1 | 5,847 |
 | 241 | [treyg](https://www.raycast.com/treyg) | 2 | 5,784 |
-| 242 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 5,743 |
+| 242 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 5,744 |
 | 243 | [Francois](https://www.raycast.com/Francois) | 3 | 5,549 |
 | 244 | [SonicSpark](https://www.raycast.com/SonicSpark) | 1 | 5,462 |
 | 245 | [firecrawl](https://www.raycast.com/firecrawl) | 1 | 5,424 |
@@ -1386,12 +1386,12 @@
 | 1376 | [Cavallando](https://www.raycast.com/Cavallando) | 1 | 135 |
 | 1377 | [li_jin](https://www.raycast.com/li_jin) | 1 | 135 |
 | 1378 | [codiini](https://www.raycast.com/codiini) | 1 | 134 |
-| 1379 | [iambtshft](https://www.raycast.com/iambtshft) | 1 | 134 |
-| 1380 | [maksym_prokopov](https://www.raycast.com/maksym_prokopov) | 1 | 134 |
-| 1381 | [SimpleOptional](https://www.raycast.com/SimpleOptional) | 1 | 134 |
-| 1382 | [Smoca](https://www.raycast.com/Smoca) | 1 | 134 |
-| 1383 | [danvega](https://www.raycast.com/danvega) | 1 | 133 |
-| 1384 | [ertem_biyik](https://www.raycast.com/ertem_biyik) | 1 | 133 |
+| 1379 | [ertem_biyik](https://www.raycast.com/ertem_biyik) | 1 | 134 |
+| 1380 | [iambtshft](https://www.raycast.com/iambtshft) | 1 | 134 |
+| 1381 | [maksym_prokopov](https://www.raycast.com/maksym_prokopov) | 1 | 134 |
+| 1382 | [SimpleOptional](https://www.raycast.com/SimpleOptional) | 1 | 134 |
+| 1383 | [Smoca](https://www.raycast.com/Smoca) | 1 | 134 |
+| 1384 | [danvega](https://www.raycast.com/danvega) | 1 | 133 |
 | 1385 | [mohitkyadav](https://www.raycast.com/mohitkyadav) | 1 | 133 |
 | 1386 | [mwarger](https://www.raycast.com/mwarger) | 1 | 133 |
 | 1387 | [nathanwijaya](https://www.raycast.com/nathanwijaya) | 1 | 133 |

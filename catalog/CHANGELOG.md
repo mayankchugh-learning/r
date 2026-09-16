@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `11085d0baf`
+
+**Updated (1):** [Jira (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-self-hosted)
+
 ## 2026-09-16 — upstream `4309742fe0`
 
 **Updated (1):** [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution)
