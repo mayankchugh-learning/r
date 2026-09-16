@@ -8,11 +8,11 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,231,652 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,231,784 |
 | 2 | [raycast](./id/raycast.md) | 11 | 867,266 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,251 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,279 |
-| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 476,276 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,375 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,347 |
+| 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 477,297 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 471,676 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 441,661 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 381,601 |
@@ -315,7 +315,7 @@
 | 305 | [okooo5km](https://www.raycast.com/okooo5km) | 1 | 3,877 |
 | 306 | [niall-maloney](https://www.raycast.com/niall-maloney) | 1 | 3,849 |
 | 307 | [niemtec](https://www.raycast.com/niemtec) | 2 | 3,808 |
-| 308 | [praveenjuge](https://www.raycast.com/praveenjuge) | 4 | 3,739 |
+| 308 | [praveenjuge](https://www.raycast.com/praveenjuge) | 4 | 3,740 |
 | 309 | [Gorzog](https://www.raycast.com/Gorzog) | 1 | 3,738 |
 | 310 | [RenderCoder](https://www.raycast.com/RenderCoder) | 1 | 3,722 |
 | 311 | [kaichi](https://www.raycast.com/kaichi) | 1 | 3,634 |
