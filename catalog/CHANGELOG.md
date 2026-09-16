@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `13b7a45319`
+
+**Updated (1):** [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird)
+
 ## 2026-09-16 — upstream `2582fe6544`
 
 **Updated (1):** [Brand Icons - simpleicons.org](https://github.com/raycast/extensions/tree/main/extensions/simple-icons)

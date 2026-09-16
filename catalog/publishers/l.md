@@ -51,7 +51,7 @@
 | [lin](https://www.raycast.com/lin) | 3 | 6,823 | **Developer Tools:** [Prettier Code](https://github.com/raycast/extensions/tree/main/extensions/prettier)<br>**Productivity:** [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai)<br>**Documentation:** [DEV Community](https://github.com/raycast/extensions/tree/main/extensions/dev-to) |
 | [linear](https://www.raycast.com/linear) | 1 | 382,866 | **Developer Tools:** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) |
 | [linkinize](https://www.raycast.com/linkinize) | 1 | 8 | **Productivity:** [Linkinize](https://github.com/raycast/extensions/tree/main/extensions/linkinize) |
-| [litomore](./id/litomore.md) | 13 | 13,915 | [see all 13 →](./id/litomore.md) |
+| [litomore](./id/litomore.md) | 13 | 13,921 | [see all 13 →](./id/litomore.md) |
 | [liualexiang](https://www.raycast.com/liualexiang) | 1 | 162 | **Productivity:** [Azure Speech TTS](https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension) |
 | [Lock](https://www.raycast.com/Lock) | 1 | 46 | **Security:** [2FAS Authenticator](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator) |
 | [lockieluke3389](https://www.raycast.com/lockieluke3389) | 1 | 780 | **Applications:** [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) |

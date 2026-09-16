@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2582fe65441fb46302fc9d3dad9ed9e73b51e2c1",
-  "generatedAt": "2026-09-16T18:08:24.572Z",
-  "downloadsRefreshedAt": "2026-09-16T18:08:23.870Z",
+  "commit": "13b7a4531935d412e80a421239379192dad9b8af",
+  "generatedAt": "2026-09-16T19:35:39.254Z",
+  "downloadsRefreshedAt": "2026-09-16T19:35:38.850Z",
   "count": 3299,
   "extensions": [
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 579417
+      "downloads": 579648
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 544932
+      "downloads": 545084
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 738250
+      "downloads": 738482
     },
     {
       "dir": "kimai",
@@ -37343,7 +37343,7 @@
       ],
       "store": "https://www.raycast.com/mi7chal/netbird",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/netbird",
-      "treeSha": "1257645c1227b8f561ac5786c1a1abfdf9923e7e",
+      "treeSha": "7f18f8074990b41fd1a2f7af9ed128b16e151fe1",
       "downloads": 170
     },
     {
@@ -54107,7 +54107,7 @@
       "store": "https://www.raycast.com/litomore/simple-icons",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/simple-icons",
       "treeSha": "c49bdbd39df0ec4d0ddd193a7462d0e75531de87",
-      "downloads": 4629
+      "downloads": 4635
     },
     {
       "dir": "simple-login",
