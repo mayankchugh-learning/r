@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `68c67cec43`
+
+**Updated (1):** [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi)
+
 ## 2026-09-16 — upstream `11085d0baf`
 
 **Updated (1):** [Jira (Self-Hosted)](https://github.com/raycast/extensions/tree/main/extensions/jira-self-hosted)

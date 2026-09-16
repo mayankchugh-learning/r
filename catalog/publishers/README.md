@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,231,532 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,231,541 |
 | 2 | [raycast](./id/raycast.md) | 11 | 867,266 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,128 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,206 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,139 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,213 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 476,276 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 471,676 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 441,661 |
@@ -901,9 +901,9 @@
 | 891 | [jungwoon](https://www.raycast.com/Jungwoon) | 1 | 530 |
 | 892 | [ShawYoungTang](https://www.raycast.com/ShawYoungTang) | 1 | 525 |
 | 893 | [PineappleRind](https://www.raycast.com/PineappleRind) | 1 | 519 |
-| 894 | [chanceaclark](https://www.raycast.com/chanceaclark) | 1 | 516 |
-| 895 | [ErikFisher](https://www.raycast.com/ErikFisher) | 1 | 515 |
-| 896 | [ploi](https://www.raycast.com/ploi) | 1 | 513 |
+| 894 | [ploi](https://www.raycast.com/ploi) | 1 | 517 |
+| 895 | [chanceaclark](https://www.raycast.com/chanceaclark) | 1 | 516 |
+| 896 | [ErikFisher](https://www.raycast.com/ErikFisher) | 1 | 515 |
 | 897 | [ahp](https://www.raycast.com/ahp) | 1 | 512 |
 | 898 | [madebydamien](https://www.raycast.com/madebydamien) | 1 | 511 |
 | 899 | [mcocirio](https://www.raycast.com/mcocirio) | 1 | 511 |
