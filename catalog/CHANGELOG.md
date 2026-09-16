@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `2433d0b5ea`
+
+**Updated (1):** [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash)
+
 ## 2026-09-16 — upstream `13b7a45319`
 
 **Updated (1):** [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird)
