@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `50e111b28c`
+
+**Updated (1):** [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour)
+
 ## 2026-09-16 — upstream `805ed02954`
 
 **Updated (1):** [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick)
