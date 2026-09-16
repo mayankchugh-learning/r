@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 43,882 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
-| [Cursor Directory](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) | 10,425 | Your cursor.directory in Raycast | escwxyz | macOS | [store](https://www.raycast.com/escwxyz/cursor-directory) |
-| [Open in Cursor](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) | 3,295 | Open current Finder directory, selected folder or file in Cursor. | mjoosuf | macOS | [store](https://www.raycast.com/mjoosuf/open-in-cursor) |
-| [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor) | 1,657 | Search the Cursor Documentation right from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/cursor) |
-| [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs) | 488 | Track your Cursor costs in real-time directly from macOS menu bar | shadeov | macOS | [store](https://www.raycast.com/Shadeov/cursor-costs) |
-| [GPU Fleet Monitor](https://github.com/raycast/extensions/tree/main/extensions/gpu-fleet-monitor) | 64 | Monitor GPU/CPU usage across SSH hosts. Connect via Ghostty, Cursor, or tmux. | kazzart | macOS | [store](https://www.raycast.com/kazzart/gpu-fleet-monitor) |
+| [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 44,005 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
+| [Cursor Directory](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) | 10,434 | Your cursor.directory in Raycast | escwxyz | macOS | [store](https://www.raycast.com/escwxyz/cursor-directory) |
+| [Open in Cursor](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) | 3,301 | Open current Finder directory, selected folder or file in Cursor. | mjoosuf | macOS | [store](https://www.raycast.com/mjoosuf/open-in-cursor) |
+| [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor) | 1,664 | Search the Cursor Documentation right from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/cursor) |
+| [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs) | 489 | Track your Cursor costs in real-time directly from macOS menu bar | shadeov | macOS | [store](https://www.raycast.com/Shadeov/cursor-costs) |
+| [GPU Fleet Monitor](https://github.com/raycast/extensions/tree/main/extensions/gpu-fleet-monitor) | 65 | Monitor GPU/CPU usage across SSH hosts. Connect via Ghostty, Cursor, or tmux. | kazzart | macOS | [store](https://www.raycast.com/kazzart/gpu-fleet-monitor) |

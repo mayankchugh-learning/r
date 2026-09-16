@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `05c4d7440e`
+
+**Updated (1):** [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi)
+
 ## 2026-09-15 — upstream `4b152898b7`
 
 **Updated (1):** [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands)

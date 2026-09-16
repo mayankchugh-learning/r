@@ -1,30 +1,30 @@
 # Rob
 
-11 extensions · 11,776 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
+11 extensions · 11,827 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
 
 ## Productivity (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 7,682 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 7,711 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 118 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 
 ## Fun (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 683 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
-| [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 555 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
-| [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 391 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
-| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 354 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
+| [Dungeons & Dragons](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) | 687 | All things DND 5e | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/dungeons-dragons) |
+| [Oura](https://github.com/raycast/extensions/tree/main/extensions/oura) | 556 | Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/oura) |
+| [Metacritic](https://github.com/raycast/extensions/tree/main/extensions/metacritic) | 394 | Search Metacritic aggregate reviews for movies, video games, and tv shows. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/metacritic) |
+| [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 356 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [Bump Name Match](https://github.com/raycast/extensions/tree/main/extensions/bumpnamematch) | 6 | Discover name meanings, origins, and more - then match your favorite baby names with your partner | Rob | macOS | [store](https://www.raycast.com/Rob/bump-name-match) |
 
 ## Design Tools (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,332 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
-| [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 333 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
+| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,340 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
+| [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 336 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
 
 ## Communication (1)
 
@@ -36,4 +36,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 75 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
+| [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 76 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
