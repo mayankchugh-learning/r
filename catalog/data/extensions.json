@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "01f9ad5edf08b73a4154bf9fa640df637d382879",
-  "generatedAt": "2026-09-16T12:44:20.621Z",
-  "downloadsRefreshedAt": "2026-09-16T12:44:19.818Z",
+  "commit": "4309742fe0ec009baae00509ba181accceec8b58",
+  "generatedAt": "2026-09-16T12:45:19.624Z",
+  "downloadsRefreshedAt": "2026-09-16T12:45:19.208Z",
   "count": 3298,
   "extensions": [
     {
@@ -5307,7 +5307,7 @@
       "store": "https://www.raycast.com/Francois/bitbucket",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bitbucket",
       "treeSha": "757d42d6aeaf343bc1ce1d1c595e56cf8b2acfff",
-      "downloads": 4080
+      "downloads": 4085
     },
     {
       "dir": "bitbucket-search-self-hosted",
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 578256
+      "downloads": 578260
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 544188
+      "downloads": 544191
     },
     {
       "dir": "google-chrome-profiles",
@@ -26981,7 +26981,7 @@
       ],
       "store": "https://www.raycast.com/ertem_biyik/ios-resolution",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ios-resolution",
-      "treeSha": "6d81e4b5b094d51672080eec6ba63e6eb0ede9ef",
+      "treeSha": "f8b099a3c9458ae88449d6f590ae3e26ef37ba44",
       "downloads": 133
     },
     {
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 737107
+      "downloads": 737114
     },
     {
       "dir": "kimai",
@@ -51897,7 +51897,7 @@
       "store": "https://www.raycast.com/Aayush9029/screenshot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/screenshot",
       "treeSha": "ff8feebdc55ccf94aa23d4833ec27f6752726685",
-      "downloads": 29871
+      "downloads": 29933
     },
     {
       "dir": "script-commands",

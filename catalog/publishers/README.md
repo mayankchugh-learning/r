@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,231,510 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,231,514 |
 | 2 | [raycast](./id/raycast.md) | 11 | 867,266 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,107 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,188 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 737,114 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,191 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 476,276 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 471,676 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 441,661 |
@@ -30,7 +30,7 @@
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 181,271 |
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 179,554 |
 | 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 166,499 |
-| 23 | [Aayush9029](./id/aayush9029.md) | 16 | 163,277 |
+| 23 | [Aayush9029](./id/aayush9029.md) | 16 | 163,339 |
 | 24 | [loris](https://www.raycast.com/loris) | 6 | 134,476 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 117,327 |
 | 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 115,335 |
@@ -250,7 +250,7 @@
 | 240 | [karbassi](https://www.raycast.com/karbassi) | 1 | 5,847 |
 | 241 | [treyg](https://www.raycast.com/treyg) | 2 | 5,784 |
 | 242 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 5,743 |
-| 243 | [Francois](https://www.raycast.com/Francois) | 3 | 5,544 |
+| 243 | [Francois](https://www.raycast.com/Francois) | 3 | 5,549 |
 | 244 | [SonicSpark](https://www.raycast.com/SonicSpark) | 1 | 5,462 |
 | 245 | [firecrawl](https://www.raycast.com/firecrawl) | 1 | 5,424 |
 | 246 | [Haojen](https://www.raycast.com/Haojen) | 2 | 5,412 |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `4309742fe0`
+
+**Updated (1):** [iOS Resolution](https://github.com/raycast/extensions/tree/main/extensions/ios-resolution)
+
 ## 2026-09-16 — upstream `01f9ad5edf`
 
 **Updated (1):** [United Nations](https://github.com/raycast/extensions/tree/main/extensions/united-nations)
