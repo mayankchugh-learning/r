@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "68c67cec43edb8a07a3d0549a4d15409203cf60a",
-  "generatedAt": "2026-09-16T12:53:37.934Z",
-  "downloadsRefreshedAt": "2026-09-16T12:53:37.497Z",
+  "commit": "e38b5c9977c572fa5553ec5097693db4d2cc9c14",
+  "generatedAt": "2026-09-16T12:54:37.142Z",
+  "downloadsRefreshedAt": "2026-09-16T12:54:36.749Z",
   "count": 3298,
   "extensions": [
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 578287
+      "downloads": 578291
     },
     {
       "dir": "color-shades",
@@ -15146,7 +15146,7 @@
       ],
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
-      "treeSha": "e700a50ccda4fd1075e3126dd573c00be9a0d79a",
+      "treeSha": "b0d94f2c3dac3e22076679e30e9e0ee6cbd171a9",
       "downloads": 185
     },
     {
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 737139
+      "downloads": 737142
     },
     {
       "dir": "kimai",
@@ -44058,7 +44058,7 @@
       "store": "https://www.raycast.com/ploi/ploi",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ploi",
       "treeSha": "4481122c401ed911ec72d62f644fda3b98ad2994",
-      "downloads": 517
+      "downloads": 513
     },
     {
       "dir": "pm2",

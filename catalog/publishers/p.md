@@ -65,7 +65,7 @@
 | [plank-dev](https://www.raycast.com/plank-dev) | 1 | 375 | **Developer Tools:** [Laravel Nova](https://github.com/raycast/extensions/tree/main/extensions/laravel-nova) |
 | [playtesterhq](https://www.raycast.com/playtesterhq) | 1 | 88 | **Fun:** [Playtester](https://github.com/raycast/extensions/tree/main/extensions/playtester) |
 | [plev](https://www.raycast.com/plev) | 1 | 247 | **Productivity:** [Hipster Ipsum](https://github.com/raycast/extensions/tree/main/extensions/hipster-ipsum) |
-| [ploi](https://www.raycast.com/ploi) | 1 | 517 | **Developer Tools:** [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi) |
+| [ploi](https://www.raycast.com/ploi) | 1 | 513 | **Developer Tools:** [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi) |
 | [plonq](https://www.raycast.com/plonq) | 1 | 3,604 | **Web:** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion) |
 | [pmzi](https://www.raycast.com/pmzi) | 1 | 31 | **Productivity:** [Stashit](https://github.com/raycast/extensions/tree/main/extensions/stashit) |
 | [poiuj](https://www.raycast.com/poiuj) | 1 | 41 | **Documentation:** [Valkey Commands Search](https://github.com/raycast/extensions/tree/main/extensions/valkey-commands-search) |
