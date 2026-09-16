@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,234,135 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,234,145 |
 | 2 | [raycast](./id/raycast.md) | 11 | 869,754 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 738,034 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,795 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 738,044 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 544,802 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 477,601 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 473,110 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 442,715 |
@@ -142,7 +142,7 @@
 | 132 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,122 |
 | 133 | [tbrown](https://www.raycast.com/tbrown) | 1 | 14,843 |
 | 134 | [frouo](https://www.raycast.com/frouo) | 1 | 14,792 |
-| 135 | [louishuyng](https://www.raycast.com/louishuyng) | 4 | 14,673 |
+| 135 | [louishuyng](https://www.raycast.com/louishuyng) | 4 | 14,674 |
 | 136 | [ryan](https://www.raycast.com/ryan) | 1 | 14,503 |
 | 137 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,443 |
 | 138 | [fernando_barrios](https://www.raycast.com/fernando_barrios) | 3 | 14,202 |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `8f9c61f788`
+
+**Updated (1):** [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher)
+
 ## 2026-09-16 — upstream `8145b8ec6c`
 
 **Updated (1):** [Tmux Sessioner](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner)
