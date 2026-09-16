@@ -39,7 +39,7 @@
 | [Open Docker](https://github.com/raycast/extensions/tree/main/extensions/open-docker) | 906 | A reliable fix to open the Docker Desktop dashboard, especially when it's already running but the window is hidden. | k4lok | macOS | [store](https://www.raycast.com/k4lok/open-docker) |
 | [Network Proxy](https://github.com/raycast/extensions/tree/main/extensions/network-proxy) | 297 | View and manage network proxy settings on macOS | wuyuxiangX | macOS | [store](https://www.raycast.com/wuyuxiangX/network-proxy) |
 | [Tidal](https://github.com/raycast/extensions/tree/main/extensions/tidal) | 209 | Control Tidal playback and view track info directly from Raycast with seamless integration. PLEASE NOTE 🚨: This extension may be VERY confusing to use if you… | Ek217 | macOS | [store](https://www.raycast.com/Ek217/tidal) |
-| [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy) | 185 | Deploy Anywhere with Total Freedom and Ease. | xmok | macOS | [store](https://www.raycast.com/xmok/dokploy) |
+| [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy) | 186 | Deploy Anywhere with Total Freedom and Ease. | xmok | macOS | [store](https://www.raycast.com/xmok/dokploy) |
 | [Keygen](https://github.com/raycast/extensions/tree/main/extensions/keygen) | 106 | Manage API Tokens, Licenses, Policies, Products and Users | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/keygen) |
 | [Search Shopify Dev Documentation](https://github.com/raycast/extensions/tree/main/extensions/shopify-dev-docs-search) | 105 | Quickly search the Shopify developer and GraphQL documentation. | daniel_beck | macOS | [store](https://www.raycast.com/daniel_beck/shopify-dev-docs-search) |
 | [GitCDN](https://github.com/raycast/extensions/tree/main/extensions/gitcdn) | 29 | View files from git repositories using CDN URLs | heytommy | macOS, Windows | [store](https://www.raycast.com/heytommy/gitcdn) |
@@ -49,7 +49,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 544,213 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 544,215 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Kaomoji Search](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) | 7,388 | Search and copy to the clipboard different kaomoji (ascii/unicode emotes). | yalishanda | macOS, Windows | [store](https://www.raycast.com/yalishanda/kaomoji-search) |
 | [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify) | 4,527 | Control Clockify time tracking from Raycast | isma | macOS | [store](https://www.raycast.com/isma/clockify) |
 | [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,514 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |

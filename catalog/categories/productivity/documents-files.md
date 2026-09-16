@@ -129,7 +129,7 @@
 | [Markdown Navigator](https://github.com/raycast/extensions/tree/main/extensions/markdown-navigator) | 401 | Efficiently manage and navigate your Markdown files. | chihkang | macOS | [store](https://www.raycast.com/chihkang/markdown-navigator) |
 | [Markdown Blog Manager](https://github.com/raycast/extensions/tree/main/extensions/markdown-blog-manager) | 345 | Create, browse and edit your file based Markdown blog. | pyronaur | macOS | [store](https://www.raycast.com/pyronaur/markdown-blog) |
 | [Markdown Image to HTML](https://github.com/raycast/extensions/tree/main/extensions/markdown-image-to-html) | 311 | Transform a Markdown Image to HTML. This allows us to fix image size in Markdown base files. | qeude | macOS | [store](https://www.raycast.com/qeude/markdown-image-to-html) |
-| [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) | 189 | Manage bookmarks using a markdown file as persistence layer | rmartins | macOS | [store](https://www.raycast.com/rmartins/markmarks) |
+| [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) | 191 | Manage bookmarks using a markdown file as persistence layer | rmartins | macOS | [store](https://www.raycast.com/rmartins/markmarks) |
 | [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 32 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
 
 ## Transfer ✦

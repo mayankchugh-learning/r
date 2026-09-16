@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `96ab8b46fa`
+
+**Updated (1):** [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks)
+
 ## 2026-09-16 — upstream `e38b5c9977`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)

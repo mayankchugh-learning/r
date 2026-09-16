@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e38b5c9977c572fa5553ec5097693db4d2cc9c14",
-  "generatedAt": "2026-09-16T12:54:37.142Z",
-  "downloadsRefreshedAt": "2026-09-16T12:54:36.749Z",
+  "commit": "96ab8b46fa105ffcaf991c454e61f123705f5318",
+  "generatedAt": "2026-09-16T12:56:22.742Z",
+  "downloadsRefreshedAt": "2026-09-16T12:56:21.968Z",
   "count": 3298,
   "extensions": [
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 578291
+      "downloads": 578295
     },
     {
       "dir": "color-shades",
@@ -15147,7 +15147,7 @@
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
       "treeSha": "b0d94f2c3dac3e22076679e30e9e0ee6cbd171a9",
-      "downloads": 185
+      "downloads": 186
     },
     {
       "dir": "dolar-cripto-ar",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 544213
+      "downloads": 544215
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 737142
+      "downloads": 737144
     },
     {
       "dir": "kimai",
@@ -33527,8 +33527,8 @@
       ],
       "store": "https://www.raycast.com/rmartins/markmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/markmarks",
-      "treeSha": "1dfdc8ed92f35874ea9293cf3a2b280ff663bbdc",
-      "downloads": 189
+      "treeSha": "c0124df17040d67c576d7025dbd0a44275f6d402",
+      "downloads": 191
     },
     {
       "dir": "markprompt",
@@ -44058,7 +44058,7 @@
       "store": "https://www.raycast.com/ploi/ploi",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ploi",
       "treeSha": "4481122c401ed911ec72d62f644fda3b98ad2994",
-      "downloads": 513
+      "downloads": 517
     },
     {
       "dir": "pm2",
