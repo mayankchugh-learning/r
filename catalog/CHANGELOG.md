@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `7e561431c6`
+
+**Updated (1):** [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog)
+
 ## 2026-09-16 — upstream `32fa939c52`
 
 **Updated (1):** [Fronius Inverter](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter)
