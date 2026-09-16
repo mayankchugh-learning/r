@@ -16,7 +16,7 @@
 | [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 57,825 | Extract text from screen captures locally via OCR | huzef44 | macOS | [store](https://www.raycast.com/huzef44/screenocr) |
 | [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 44,631 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
 | [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 41,026 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
-| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 29,871 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
+| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 29,933 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
 | [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 23,616 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
 | [Search MDN](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) | 19,664 | Search MDN Web Docs | krzysztofzuraw | macOS, Windows | [store](https://www.raycast.com/krzysztofzuraw/search-mdn) |
 | [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 18,429 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
