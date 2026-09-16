@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `69f2a1023f`
+
+**Updated (1):** [UI Component Search](https://github.com/raycast/extensions/tree/main/extensions/ui-component-search)
+
 ## 2026-09-16 — upstream `96ab8b46fa`
 
 **Updated (1):** [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks)
