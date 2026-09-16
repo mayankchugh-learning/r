@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `ec13527532`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-16 — upstream `d716d809fb`
 
 **Updated (1):** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process)
