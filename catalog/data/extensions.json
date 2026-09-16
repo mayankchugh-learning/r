@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7e561431c679835469828ff5c9efe3c0a2b06a0d",
-  "generatedAt": "2026-09-16T11:10:38.104Z",
-  "downloadsRefreshedAt": "2026-09-16T11:10:37.397Z",
+  "commit": "805ed029549a614dcb49b552fb5729046576a973",
+  "generatedAt": "2026-09-16T11:11:31.306Z",
+  "downloadsRefreshedAt": "2026-09-16T11:11:30.726Z",
   "count": 3298,
   "extensions": [
     {
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 543978
+      "downloads": 543980
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "b1ea2ba57255ed17b5b256c92b4dcba9b3cffe46",
-      "downloads": 736772
+      "downloads": 736776
     },
     {
       "dir": "kimai",
@@ -58661,7 +58661,7 @@
       ],
       "store": "https://www.raycast.com/lifedever/tasktick",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tasktick",
-      "treeSha": "aaf067a108b161d1ab11560429bf6c74d0a700f4",
+      "treeSha": "916de768653b5644c52424081d8e9344eb381454",
       "downloads": 29
     },
     {

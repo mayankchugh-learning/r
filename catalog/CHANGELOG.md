@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-16 — upstream `805ed02954`
+
+**Updated (1):** [TaskTick](https://github.com/raycast/extensions/tree/main/extensions/tasktick)
+
 ## 2026-09-16 — upstream `7e561431c6`
 
 **Updated (1):** [Caschys Blog](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog)
