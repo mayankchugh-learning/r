@@ -2,7 +2,7 @@
 
 85 extensions · [← all categories](../README.md)
 
-macOS: 85 · Windows: 31
+macOS: 85 · Windows: 32
 
 ## Credentials & Access
 

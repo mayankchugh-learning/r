@@ -1,8 +1,8 @@
 # Cross-platform · Security
 
-31 extensions · [← Cross-platform](../README.md)
+32 extensions · [← Cross-platform](../README.md)
 
-[Passwords & Secrets](#passwords-secrets) (19) · [2FA & Authentication](#2fa-authentication) (4) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (2) · [General](#general) (5)
+[Passwords & Secrets](#passwords-secrets) (20) · [2FA & Authentication](#2fa-authentication) (4) · [Encryption & Hashing](#encryption-hashing) (1) · [Network & Privacy](#network-privacy) (2) · [General](#general) (5)
 
 ## Credentials & Access
 
@@ -27,6 +27,7 @@
 | [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper) | 111 | Share passwords, API keys, and private notes securely. Whisper creates encrypted links that expire or self-destruct after viewing. | quentinved | macOS, Windows | [store](https://www.raycast.com/quentinved/whisper) |
 | [Passbolt](https://github.com/raycast/extensions/tree/main/extensions/passbolt) | 93 | Manage your Passbolt passwords from Raycast | adreatik_dedej | macOS, Windows | [store](https://www.raycast.com/adreatik_dedej/passbolt) |
 | [Shelve](https://github.com/raycast/extensions/tree/main/extensions/shelve) | 81 | Share secrets securely without an account. Set expiration time, control number of reads, and ensure encrypted transmission. | xulobeats | Windows, macOS | [store](https://www.raycast.com/xulobeats/shelve) |
+| [2FAS Authenticator](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator) | 46 | Search and copy TOTP codes from 2FAS exports with an encrypted local vault | Lock | macOS, Windows | [store](https://www.raycast.com/Lock/2fas-authenticator) |
 | [RPass](https://github.com/raycast/extensions/tree/main/extensions/rpass) | 14 | Search, edit, generate, and sync your pass-compatible passwords from Raycast. | rxtsel | Windows, macOS | [store](https://www.raycast.com/rxtsel/rpass) |
 | [DinoPass](https://github.com/raycast/extensions/tree/main/extensions/dinopass) | 9 | Generate passwords from dinopass.com | campo | macOS, Windows | [store](https://www.raycast.com/campo/dinopass) |
 

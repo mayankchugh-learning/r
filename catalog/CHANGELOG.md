@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-17 — upstream `5d74eb44e0`
+
+**Updated (1):** [2FAS Authenticator](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator)
+
 ## 2026-09-17 — upstream `863695067f`
 
 **Updated (1):** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager)

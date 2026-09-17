@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "863695067fa458aa5fd3f722270190dee080ebf0",
-  "generatedAt": "2026-09-17T08:49:44.146Z",
-  "downloadsRefreshedAt": "2026-09-17T08:49:43.746Z",
+  "commit": "5d74eb44e07023a059d5982fd60eb44e5001a0d5",
+  "generatedAt": "2026-09-17T11:16:24.980Z",
+  "downloadsRefreshedAt": "2026-09-17T11:16:24.337Z",
   "count": 3299,
   "extensions": [
     {
@@ -136,20 +136,21 @@
       "dir": "2fas-authenticator",
       "name": "2fas-authenticator",
       "title": "2FAS Authenticator",
-      "description": "Search and copy TOTP codes from 2FAS exports with a Keychain-encrypted local vault",
+      "description": "Search and copy TOTP codes from 2FAS exports with an encrypted local vault",
       "author": "Lock",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Security"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/Lock/2fas-authenticator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator",
-      "treeSha": "d186fbcdf306dd3c4ae68f2ab0db3f0c3e221fcd",
+      "treeSha": "e95f34ddafbd55a80e015e2bb3846cfff638f879",
       "downloads": 46
     },
     {
@@ -10101,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 581380
+      "downloads": 581827
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 546253
+      "downloads": 546538
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 740139
+      "downloads": 740570
     },
     {
       "dir": "kimai",
