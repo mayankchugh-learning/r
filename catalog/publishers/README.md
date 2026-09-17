@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,237,469 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,237,584 |
 | 2 | [raycast](./id/raycast.md) | 11 | 871,533 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 740,029 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 546,178 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 740,139 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 546,253 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 478,458 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 473,988 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 443,478 |
@@ -459,7 +459,7 @@
 | 449 | [Envl](https://www.raycast.com/Envl) | 4 | 2,044 |
 | 450 | [geekdada](https://www.raycast.com/geekdada) | 2 | 2,038 |
 | 451 | [hongkiulam](https://www.raycast.com/hongkiulam) | 1 | 2,026 |
-| 452 | [LostViking09](https://www.raycast.com/LostViking09) | 1 | 2,015 |
+| 452 | [LostViking09](https://www.raycast.com/LostViking09) | 1 | 2,016 |
 | 453 | [anandubajith](https://www.raycast.com/anandubajith) | 1 | 2,011 |
 | 454 | [zerowidth](https://www.raycast.com/zerowidth) | 1 | 2,007 |
 | 455 | [rodrigouroz](https://www.raycast.com/rodrigouroz) | 1 | 1,990 |

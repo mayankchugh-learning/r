@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-17 — upstream `863695067f`
+
+**Updated (1):** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager)
+
 ## 2026-09-17 — upstream `4d8e285864`
 
 **Updated (1):** [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner)

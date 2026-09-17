@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 740,029 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 740,139 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 177,500 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 106,943 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 65,889 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -23,7 +23,7 @@
 | [Yabai](https://github.com/raycast/extensions/tree/main/extensions/yabai) | 2,872 | Control Yabai using Raycast. Requires yabai to be installed. | krzysztoff1 | macOS | [store](https://www.raycast.com/krzysztoff1/yabai) |
 | [Zoxide](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) | 2,777 | Raycast integration with the zoxide command-line tool by Ajeet D'Souza. | mrpunkin | macOS | [store](https://www.raycast.com/mrpunkin/raycast-zoxide) |
 | [Binary Tools](https://github.com/raycast/extensions/tree/main/extensions/bintools) | 2,132 | A calculator for binary, decimal, hex and octal numbers. | frostplexx | macOS | [store](https://www.raycast.com/frostplexx/bintools) |
-| [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) | 2,015 | Quickly open PowerToys tools | LostViking09 | Windows | [store](https://www.raycast.com/LostViking09/powertoys-tool-runner) |
+| [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner) | 2,016 | Quickly open PowerToys tools | LostViking09 | Windows | [store](https://www.raycast.com/LostViking09/powertoys-tool-runner) |
 | [Quick Open Project](https://github.com/raycast/extensions/tree/main/extensions/quick-open-project) | 2,007 | Find and open projects on your system | zerowidth | macOS, Windows | [store](https://www.raycast.com/zerowidth/quick-open-project) |
 | [Doppler Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) | 1,910 | Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets | thomas | macOS | [store](https://www.raycast.com/thomas/doppler-share-secrets) |
 | [CommitLint](https://github.com/raycast/extensions/tree/main/extensions/commitlint) | 1,824 | Generate commitlint message. Based on commitlint.io tool. | lardissone | macOS | [store](https://www.raycast.com/lardissone/commitlint) |
