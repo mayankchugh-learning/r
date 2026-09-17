@@ -1,8 +1,8 @@
 # AI ✦
 
-101 extensions · [← AI & Assistants](./README.md)
+100 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (9) · [Openai ✦](#openai) (7) · [Chat ✦](#chat) (6) · [Ask ✦](#ask) (5) · [Prompts ✦](#prompts) (4) · [General](#general) (54)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (9) · [Openai ✦](#openai) (7) · [Ask ✦](#ask) (5) · [Chat ✦](#chat) (5) · [Prompts ✦](#prompts) (4) · [General](#general) (54)
 
 *✦ auto-discovered topic group*
 
@@ -53,17 +53,6 @@
 | [Voice-to-Text for Windows](https://github.com/raycast/extensions/tree/main/extensions/voice-to-text-windows) | 77 | Record speech from your microphone, transcribe it with OpenAI Whisper, and clean it up with AI | rennesis | Windows | [store](https://www.raycast.com/rennesis/voice-to-text-windows) |
 | [AI Voice Studio](https://github.com/raycast/extensions/tree/main/extensions/ai-voice-studio) | 42 | Read and generate speech from Raycast with Alibaba Cloud Qwen-TTS, Xiaomi MiMo, and OpenAI voices, speed control, and focused provider defaults. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/ai-voice-studio) |
 
-## Chat ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,349 | Chat with your OpenClaw AI assistant (local or remote gateway) | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
-| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,187 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
-| [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) | 726 | Search, browse, and copy AI prompts from prompts.chat - the community platform for ChatGPT and AI prompts | fka | macOS | [store](https://www.raycast.com/fka/prompts-chat) |
-| [Corcel AI](https://github.com/raycast/extensions/tree/main/extensions/corcel) | 471 | Use AI Chat and Image Generation | corcel.io | macOS | [store](https://www.raycast.com/corcel.io/corcel) |
-| [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 289 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
-| [Parachord](https://github.com/raycast/extensions/tree/main/extensions/parachord) | 35 | Control Parachord music player - play, pause, skip, search, and chat with the AI DJ | parachord | macOS | [store](https://www.raycast.com/parachord/parachord) |
-
 ## Ask ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -73,6 +62,16 @@
 | [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 870 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
 | [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 32 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
 | [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 9 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
+
+## Chat ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,187 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
+| [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) | 726 | Search, browse, and copy AI prompts from prompts.chat - the community platform for ChatGPT and AI prompts | fka | macOS | [store](https://www.raycast.com/fka/prompts-chat) |
+| [Corcel AI](https://github.com/raycast/extensions/tree/main/extensions/corcel) | 471 | Use AI Chat and Image Generation | corcel.io | macOS | [store](https://www.raycast.com/corcel.io/corcel) |
+| [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 289 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
+| [Parachord](https://github.com/raycast/extensions/tree/main/extensions/parachord) | 35 | Control Parachord music player - play, pause, skip, search, and chat with the AI DJ | parachord | macOS | [store](https://www.raycast.com/parachord/parachord) |
 
 ## Prompts ✦
 

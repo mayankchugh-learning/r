@@ -1,8 +1,8 @@
 # Monitoring & Logs
 
-27 extensions · [← Developer Tools](./README.md)
+28 extensions · [← Developer Tools](./README.md)
 
-[Monitor ✦](#monitor) (12) · [Analytics ✦](#analytics) (4) · [Logs ✦](#logs) (4) · [General](#general) (7)
+[Monitor ✦](#monitor) (13) · [Analytics ✦](#analytics) (4) · [Logs ✦](#logs) (4) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -12,6 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,938 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
 | [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,568 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
+| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,349 | Monitor and chat with your OpenClaw Gateway from Raycast | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 428 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 324 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
 | [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension) | 288 | Monitor and configure your systems managed by Beszel. | wyattjoh | macOS | [store](https://www.raycast.com/wyattjoh/beszel) |

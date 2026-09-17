@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-131 of 1489 extensions · [← macOS · Productivity](./README.md)
+130 of 1489 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -44,7 +44,6 @@
 | [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,562 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,543 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,453 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
-| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,349 | Chat with your OpenClaw AI assistant (local or remote gateway) | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
 | [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,316 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
 | [Rename Images with AI](https://github.com/raycast/extensions/tree/main/extensions/rename-images-with-ai) | 1,222 | AI-powered images and screenshots renaming extension that intelligently names files based on their content | husnainfareed | macOS | [store](https://www.raycast.com/husnainfareed/rename-images-with-ai) |
 | [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,187 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |

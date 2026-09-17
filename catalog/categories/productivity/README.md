@@ -17,7 +17,7 @@ macOS: 1489 · Windows: 375
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants/README.md) | 132 |
+| [AI & Assistants](./ai-assistants/README.md) | 131 |
 | [Writing & Text Tools](./writing-text-tools.md) | 74 |
 | [Documents & Files](./documents-files.md) | 132 |
 | [Email](./email.md) | 24 |
@@ -37,7 +37,7 @@ macOS: 1489 · Windows: 375
 | --- | --- |
 | [Reading & Learning](./reading-learning.md) | 21 |
 | [Team & Business Tools](./team-business-tools.md) | 17 |
-| [Trackers & Monitors](./trackers-monitors.md) | 37 |
+| [Trackers & Monitors](./trackers-monitors.md) | 38 |
 
 ## Discovered topics ✦
 

@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · **Monitoring & Logs** · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-27 of 1119 extensions · [← macOS · Developer Tools](./README.md)
+28 of 1119 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@
 | [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,569 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
 | [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,568 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
 | [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,431 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
+| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,349 | Monitor and chat with your OpenClaw Gateway from Raycast | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 435 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 428 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 324 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |

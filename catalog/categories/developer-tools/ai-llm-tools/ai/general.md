@@ -1,6 +1,6 @@
 # General
 
-29 extensions · [← AI](./README.md)
+31 extensions · [← AI](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -15,11 +15,13 @@
 | [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 744 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |
 | [Whimsical](https://github.com/raycast/extensions/tree/main/extensions/whimsical) | 554 | Transform ideas into beautiful diagrams using AI. Automatically generates flowcharts, mindmaps, and sequence diagrams from natural language descriptions. | kud | macOS | [store](https://www.raycast.com/kud/whimsical) |
 | [PostHog](https://github.com/raycast/extensions/tree/main/extensions/posthog) | 506 | Open the web app, search PostHog resources, and run read-only analytics with AI tools. | posthog (org) | macOS, Windows | [store](https://www.raycast.com/posthog/posthog) |
+| [Corcel AI](https://github.com/raycast/extensions/tree/main/extensions/corcel) | 471 | Use AI Chat and Image Generation | corcel.io | macOS | [store](https://www.raycast.com/corcel.io/corcel) |
 | [Spiceblow - Sql Database Management](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) | 408 | Search, update, insert and delete rows in your Sql database, deeply integrated with AI | xmorse | macOS | [store](https://www.raycast.com/xmorse/spiceblow-database) |
 | [Chatwith](https://github.com/raycast/extensions/tree/main/extensions/chatwith) | 399 | AI chatbot trained on your data and with access to automations. | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/chatwith) |
 | [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 342 | Search up-to-date documentation for any library, framework, or SDK — keep the ones you use offline, and ask Raycast AI about them | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
 | [Cerebras](https://github.com/raycast/extensions/tree/main/extensions/cerebras) | 336 | Bring Instant AI Inference to Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/cerebras) |
 | [Time Teller](https://github.com/raycast/extensions/tree/main/extensions/time-teller) | 329 | The Time Teller extension uses AI to transcribe human-friendly language into a start and end date and then converts the time frame into different units. | ickas | macOS | [store](https://www.raycast.com/ickas/time-teller) |
+| [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 289 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
 | [Kimi](https://github.com/raycast/extensions/tree/main/extensions/kimi) | 280 | Interact with Moonshot AI's Kimi LLM directly from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/kimi) |
 | [SnapAsk](https://github.com/raycast/extensions/tree/main/extensions/snapask) | 201 | Get instant AI answers for your questions. | renzo | macOS | [store](https://www.raycast.com/renzo/snapask) |
 | [Penflow AI](https://github.com/raycast/extensions/tree/main/extensions/penflow-ai) | 153 | Think & Write in English, Not your First Language (for Chinese now) | Fchen | macOS | [store](https://www.raycast.com/Fchen/penflow-ai) |

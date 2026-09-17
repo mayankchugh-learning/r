@@ -15,7 +15,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants.md) | 131 |
+| [AI & Assistants](./ai-assistants.md) | 130 |
 | [Writing & Text Tools](./writing-text-tools.md) | 74 |
 | [Documents & Files](./documents-files.md) | 132 |
 | [Email](./email.md) | 24 |
@@ -35,6 +35,6 @@
 | --- | --- |
 | [Reading & Learning](./reading-learning.md) | 21 |
 | [Team & Business Tools](./team-business-tools.md) | 17 |
-| [Trackers & Monitors](./trackers-monitors.md) | 37 |
+| [Trackers & Monitors](./trackers-monitors.md) | 38 |
 
 Plus [General](./general.md) — 513 extensions that don't fit a topic yet.

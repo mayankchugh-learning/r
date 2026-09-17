@@ -1,10 +1,10 @@
 # AI & LLM Tools
 
-131 extensions · [← Developer Tools](../README.md)
+130 extensions · [← Developer Tools](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
-| [AI ✦](./ai/README.md) | 79 |
+| [AI ✦](./ai/README.md) | 78 |
 | [Code ✦](./code.md) | 14 |
 | [Agent ✦](./agent.md) | 7 |
 | [Model ✦](./model.md) | 4 |

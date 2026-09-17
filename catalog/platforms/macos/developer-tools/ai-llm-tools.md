@@ -2,7 +2,7 @@
 
 **AI & LLM Tools** · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-131 of 1119 extensions · [← macOS · Developer Tools](./README.md)
+130 of 1119 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -35,7 +35,6 @@
 | [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,555 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
 | [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,543 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
 | [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) | 1,471 | Use Huggingface models for summarization, translation, ... | ragnor | macOS | [store](https://www.raycast.com/ragnor/huggingcast) |
-| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,349 | Chat with your OpenClaw AI assistant (local or remote gateway) | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
 | [LLM Stats](https://github.com/raycast/extensions/tree/main/extensions/llm-stats) | 1,340 | The largest collection of high-quality evaluations for every AI modality—language, vision, code, reasoning, and beyond | ernest0n | macOS, Windows | [store](https://www.raycast.com/ernest0n/llm-stats) |
 | [Hugging Face](https://github.com/raycast/extensions/tree/main/extensions/hugging-face) | 1,266 | Search and explore the Hugging Face platform | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/hugging-face) |
 | [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,187 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |

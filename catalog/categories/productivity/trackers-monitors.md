@@ -1,8 +1,8 @@
 # Trackers & Monitors
 
-37 extensions · [← Productivity](./README.md)
+38 extensions · [← Productivity](./README.md)
 
-[Monitor ✦](#monitor) (9) · [Tracker ✦](#tracker) (6) · [Stats ✦](#stats) (4) · [General](#general) (18)
+[Monitor ✦](#monitor) (10) · [Tracker ✦](#tracker) (6) · [Stats ✦](#stats) (4) · [General](#general) (18)
 
 *✦ auto-discovered topic group*
 
@@ -11,6 +11,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 115,967 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
+| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,349 | Monitor and chat with your OpenClaw Gateway from Raycast | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
 | [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) | 629 | Your WHOOP data, now at your fingertips. Monitor your recovery, sleep, strain, workouts and more! Favourite the Overview command for quick access to your WHOOP… | josha1len | macOS | [store](https://www.raycast.com/josha1len/whoop) |
 | [Codex](https://github.com/raycast/extensions/tree/main/extensions/codex) | 606 | Monitor and manage your Codex threads, MCPs, projects, and usage directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/codex) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 324 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
@@ -44,7 +45,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 739,642 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 739,647 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,687 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,370 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) | 773 | Manage your DeepL API usage with ease. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/deepl-api-usage) |

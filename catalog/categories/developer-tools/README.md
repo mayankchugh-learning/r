@@ -21,13 +21,13 @@ macOS: 1119 · Windows: 326
 | [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure/README.md) | 93 |
 | [Databases](./databases.md) | 15 |
 | [APIs & Networking](./apis-networking.md) | 54 |
-| [Monitoring & Logs](./monitoring-logs.md) | 27 |
+| [Monitoring & Logs](./monitoring-logs.md) | 28 |
 
 ## Platforms & Ecosystems
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools/README.md) | 131 |
+| [AI & LLM Tools](./ai-llm-tools/README.md) | 130 |
 | [Web & Frontend](./web-frontend.md) | 65 |
 | [Mobile & App Development](./mobile-app-development.md) | 30 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 16 |

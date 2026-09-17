@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-17 — upstream `acdf633bd0`
+
+**Updated (1):** [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw)
+
 ## 2026-09-17 — upstream `5226fb3349`
 
 **Updated (1):** [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari)
