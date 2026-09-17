@@ -12,7 +12,7 @@
 | [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) | 115,967 | Show information and usage related to CPU, memory, power, network and temperature | hossammourad | macOS | [store](https://www.raycast.com/hossammourad/raycast-system-monitor) |
 | [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 73,275 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
 | [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 73,145 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
-| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 58,590 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 58,608 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
 | [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 58,156 | Extract text from screen captures locally via OCR | huzef44 | macOS | [store](https://www.raycast.com/huzef44/screenocr) |
 | [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 44,769 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
 | [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 41,230 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |

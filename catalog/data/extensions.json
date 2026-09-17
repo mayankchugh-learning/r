@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "acdf633bd004659d57dd50c8767b0c23e8d384a7",
-  "generatedAt": "2026-09-17T06:20:21.765Z",
-  "downloadsRefreshedAt": "2026-09-17T06:20:21.363Z",
+  "commit": "704e1a8988b8998debfbd29903d63310a0d8c15d",
+  "generatedAt": "2026-09-17T06:30:37.165Z",
+  "downloadsRefreshedAt": "2026-09-17T06:30:36.808Z",
   "count": 3299,
   "extensions": [
     {
@@ -7600,7 +7600,7 @@
       ],
       "store": "https://www.raycast.com/abielzulio/chatgpt",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/chatgpt",
-      "treeSha": "6cadde94f93cd6880b4ef4aac1b279891aea41c7",
+      "treeSha": "6691faf69c678a63d430850b6df34c3fe89baa95",
       "downloads": 253188
     },
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 580855
+      "downloads": 580886
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 545903
+      "downloads": 545919
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 739647
+      "downloads": 739673
     },
     {
       "dir": "kimai",
@@ -51165,7 +51165,7 @@
       "store": "https://www.raycast.com/loris/safari",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/safari",
       "treeSha": "07583959e137a054cb26693cb4d346fe7c47a4cd",
-      "downloads": 58590
+      "downloads": 58608
     },
     {
       "dir": "safe-secret",
