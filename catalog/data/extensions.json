@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0e2b8eb7e5ac3eaa5ff3eff2867370fc9d78fd72",
-  "generatedAt": "2026-09-17T08:14:27.551Z",
-  "downloadsRefreshedAt": "2026-09-17T08:14:26.743Z",
+  "commit": "4d8e285864583735d6a0556b97f6efe37e63ccbb",
+  "generatedAt": "2026-09-17T08:17:41.965Z",
+  "downloadsRefreshedAt": "2026-09-17T08:17:40.516Z",
   "count": 3299,
   "extensions": [
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 581252
+      "downloads": 581265
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 546170
+      "downloads": 546178
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 740019
+      "downloads": 740029
     },
     {
       "dir": "kimai",
@@ -44882,7 +44882,7 @@
       ],
       "store": "https://www.raycast.com/LostViking09/powertoys-tool-runner",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner",
-      "treeSha": "5a16a10dfb884a051ecf75591d101660d5135f1e",
+      "treeSha": "02528a3a7c1e3e454db759e7401d94bb7833903c",
       "downloads": 2015
     },
     {
@@ -48700,7 +48700,7 @@
       "store": "https://www.raycast.com/teziovsky/raydocs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raydocs",
       "treeSha": "3bdb9a04bcdbdf76700bf3c1eb1c6b2fafbad0cb",
-      "downloads": 2875
+      "downloads": 2877
     },
     {
       "dir": "raydoom",

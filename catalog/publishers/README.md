@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,237,456 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,237,469 |
 | 2 | [raycast](./id/raycast.md) | 11 | 871,533 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 740,019 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 546,170 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 740,029 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 546,178 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 478,458 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 473,988 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 443,478 |
@@ -262,7 +262,7 @@
 | 252 | [marcmagn1](https://www.raycast.com/marcmagn1) | 2 | 5,352 |
 | 253 | [sjdonado](https://www.raycast.com/sjdonado) | 1 | 5,235 |
 | 254 | [cal](https://www.raycast.com/cal) | 1 | 5,160 |
-| 255 | [teziovsky](https://www.raycast.com/teziovsky) | 5 | 5,107 |
+| 255 | [teziovsky](https://www.raycast.com/teziovsky) | 5 | 5,109 |
 | 256 | [teemu_suvinen](https://www.raycast.com/teemu_suvinen) | 1 | 5,085 |
 | 257 | [screen-studio](https://www.raycast.com/screen-studio) | 1 | 5,037 |
 | 258 | [pabroux](https://www.raycast.com/pabroux) | 2 | 5,008 |

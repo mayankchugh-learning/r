@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-17 — upstream `4d8e285864`
+
+**Updated (1):** [PowerToys Tool Runner](https://github.com/raycast/extensions/tree/main/extensions/powertoys-tool-runner)
+
 ## 2026-09-17 — upstream `0e2b8eb7e5`
 
 **Updated (1):** [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs)

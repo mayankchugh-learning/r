@@ -56,7 +56,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,875 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
+| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,877 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
 | [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) | 2,595 | Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. | netlify (org) | macOS | [store](https://www.raycast.com/netlify/netlify) |
 | [Laravel Livewire](https://github.com/raycast/extensions/tree/main/extensions/laravel-livewire) | 1,423 | Quickly search through Laravel Livewire documentation and open it in the browser | tafhyseni | macOS | [store](https://www.raycast.com/tafhyseni/laravel-livewire) |
 | [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) | 623 | Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. \| Set your Owledge workspace at: https://search.owledge.app \| Documentat… | Romain | macOS | [store](https://www.raycast.com/Romain/owledge-raycast) |
