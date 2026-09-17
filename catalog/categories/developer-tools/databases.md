@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 1,074 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
-| [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 711 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 277 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
+| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 1,075 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
+| [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 712 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 280 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
 | [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) | 204 | Quickly search and use Prisma CLI Commands along with command details. | raj_asha | macOS | [store](https://www.raycast.com/raj_asha/prisma-cli-commands) |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 183 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
 | [MongoDB ObjectId](https://github.com/raycast/extensions/tree/main/extensions/mongodb-objectid) | 120 | A Raycast extension that transform between MongoDB ObjectId and timestamps. | tssujt | macOS | [store](https://www.raycast.com/tssujt/mongodb-objectid) |
@@ -15,7 +15,7 @@
 | [TablePro](https://github.com/raycast/extensions/tree/main/extensions/tablepro) | 105 | Search TablePro connections, browse schemas and tables, and run SQL from Raycast. | ngoquocdat | macOS | [store](https://www.raycast.com/ngoquocdat/tablepro) |
 | [PlanetScale](https://github.com/raycast/extensions/tree/main/extensions/planetscale) | 95 | Manage PlanetScale from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/planetscale) |
 | [Shodan](https://github.com/raycast/extensions/tree/main/extensions/shodan) | 78 | Search the Shodan database for internet-connected devices, view host details, and manage saved queries | owanesh | macOS | [store](https://www.raycast.com/owanesh/shodan) |
-| [Perry](https://github.com/raycast/extensions/tree/main/extensions/perry) | 65 | Execute SQL queries on PostgreSQL databases | vmotta8 | macOS | [store](https://www.raycast.com/vmotta8/perry) |
+| [Perry](https://github.com/raycast/extensions/tree/main/extensions/perry) | 66 | Execute SQL queries on PostgreSQL databases | vmotta8 | macOS | [store](https://www.raycast.com/vmotta8/perry) |
 | [Notion URL to ID](https://github.com/raycast/extensions/tree/main/extensions/notion-url-to-id) | 64 | Extract, save, and organize Notion page and database IDs from the focused browser tab or clipboard. | sam.dsgn | macOS | [store](https://www.raycast.com/Sam.Dsgn/notion-url-to-id) |
 | [Shopinfo.app](https://github.com/raycast/extensions/tree/main/extensions/shopinfo-app) | 40 | Identify Shopify themes from your current browser tab using shopinfo.app's database | trpage_dev | macOS | [store](https://www.raycast.com/trpage_dev/shopinfo-app) |
 | [MySQL Client](https://github.com/raycast/extensions/tree/main/extensions/mysql) | 17 | Connect to MySQL databases — run queries, browse schema, and manage multiple connection profiles. | itggood2420 | macOS, Windows | [store](https://www.raycast.com/itggood2420/mysql) |

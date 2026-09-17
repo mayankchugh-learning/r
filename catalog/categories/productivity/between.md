@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 67,967 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
-| [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case) | 52,692 | Transform a string between camelCase, snake_case, CONSTANT_CASE, and more | erics118 | macOS, Windows | [store](https://www.raycast.com/erics118/change-case) |
-| [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,547 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
+| [Image Modification](https://github.com/raycast/extensions/tree/main/extensions/sips) | 68,141 | Apply filters and transformations to various image formats, and convert between them. | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/sips) |
+| [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case) | 52,830 | Transform a string between camelCase, snake_case, CONSTANT_CASE, and more | erics118 | macOS, Windows | [store](https://www.raycast.com/erics118/change-case) |
+| [PX to Rem Converter](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) | 1,549 | Conversions between PX and REM | raulanatol | macOS | [store](https://www.raycast.com/raulanatol/px-to-rem-converter) |
 | [Harpoon](https://github.com/raycast/extensions/tree/main/extensions/harpoon) | 868 | Tag frequently used applications and quickly switch between them. Inspired by The Primeagen's Harpoon plugin. | brian_wang | macOS | [store](https://www.raycast.com/brian_wang/harpoon) |
 | [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) | 156 | Move the macOS mouse cursor between displays with relative-position and center modes. | johnwick | macOS | [store](https://www.raycast.com/johnwick/move-cursor-next-display) |
 | [ThermoConvert](https://github.com/raycast/extensions/tree/main/extensions/thermo-convert) | 68 | Instantly convert between all major temperature scales | kud | macOS, Windows | [store](https://www.raycast.com/kud/thermoconvert) |

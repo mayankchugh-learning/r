@@ -1,6 +1,6 @@
 # alexi.build
 
-18 extensions · 2,150 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+18 extensions · 2,158 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -14,21 +14,21 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Leader Key](https://github.com/raycast/extensions/tree/main/extensions/leader-key) | 209 | Search and trigger Leader Key shortcuts by alias, label, or value. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/leader-key) |
-| [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 119 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
+| [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 120 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
 | [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 44 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 
 ## Communication (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 306 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 307 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 
 ## Developer Tools (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 184 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
-| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 63 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
+| [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 185 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 65 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
 | [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer) | 8 | Collect URL patterns and copy them as an implementation prompt. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/url-designer) |
 
 ## Applications (1)
@@ -41,7 +41,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 113 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
+| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 115 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
 | [TV Remote](https://github.com/raycast/extensions/tree/main/extensions/tv-remote) | 20 | Control Sony BRAVIA TV picture settings | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/tv-remote) |
 
 ## Finance (1)
@@ -72,5 +72,5 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 23 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
+| [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 24 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
 | [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 9 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |

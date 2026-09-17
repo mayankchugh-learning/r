@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-17 — upstream `63ab836444`
+
+**Updated (1):** [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette)
+
 ## 2026-09-17 — upstream `304b001115`
 
 **Updated (1):** [Background Sounds](https://github.com/raycast/extensions/tree/main/extensions/background-sounds)

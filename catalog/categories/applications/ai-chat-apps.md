@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 13,943 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
-| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 2,978 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
+| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 13,958 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
+| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 2,980 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
 | [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,316 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
 | [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 1,069 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
 | [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) | 851 | Modify screen captures using the latest generative AI models. | jochemloedeman | macOS | [store](https://www.raycast.com/jochemloedeman/ai-screenshot) |
@@ -19,9 +19,9 @@
 | [PostHog](https://github.com/raycast/extensions/tree/main/extensions/posthog) | 506 | Open the web app, search PostHog resources, and run read-only analytics with AI tools. | posthog (org) | macOS, Windows | [store](https://www.raycast.com/posthog/posthog) |
 | [Inbox AI](https://github.com/raycast/extensions/tree/main/extensions/inbox-ai) | 425 | Trigger Inbox AI Actions | dreetje | macOS | [store](https://www.raycast.com/dreetje/inbox-ai) |
 | [vAIb - Your AI Companion](https://github.com/raycast/extensions/tree/main/extensions/vaib) | 353 | Get quick answers to your quick questions with the power of AI with this free extension. | vaibhav_sisodiya | macOS | [store](https://www.raycast.com/Vaib215/vaib) |
-| [AI by Vercel](https://github.com/raycast/extensions/tree/main/extensions/ai-by-vercel) | 248 | Vercel AI within Raycast | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/ai-by-vercel) |
+| [AI by Vercel](https://github.com/raycast/extensions/tree/main/extensions/ai-by-vercel) | 249 | Vercel AI within Raycast | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/ai-by-vercel) |
 | [Go to Rewind Timestamp](https://github.com/raycast/extensions/tree/main/extensions/go-to-rewind-timestamp) | 185 | Open Rewind AI at a specific timestamp | haseab_ | macOS | [store](https://www.raycast.com/haseab_/go-to-rewind-timestamp) |
-| [Napkin](https://github.com/raycast/extensions/tree/main/extensions/napkin) | 172 | Use Napkin AI to transform text into visual diagrams and illustrations | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/napkin) |
+| [Napkin](https://github.com/raycast/extensions/tree/main/extensions/napkin) | 173 | Use Napkin AI to transform text into visual diagrams and illustrations | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/napkin) |
 | [Apple TV Remote](https://github.com/raycast/extensions/tree/main/extensions/apple-tv-remote) | 156 | Control your Apple TV from Raycast with a visual remote, app launcher, deep links, and AI commands. No external installs required. | camschroedes | macOS | [store](https://www.raycast.com/camschroedes/apple-tv-remote) |
 | [Penflow AI](https://github.com/raycast/extensions/tree/main/extensions/penflow-ai) | 153 | Think & Write in English, Not your First Language (for Chinese now) | Fchen | macOS | [store](https://www.raycast.com/Fchen/penflow-ai) |
 | [Alloy](https://github.com/raycast/extensions/tree/main/extensions/alloy) | 43 | AI Prototyping for Product Management | alloyprototyping | macOS | [store](https://www.raycast.com/alloyprototyping/alloy) |
@@ -31,9 +31,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) | 988 | Use Baidu OCR API to recognize text. | Humber | macOS | [store](https://www.raycast.com/Humber/baidu-ocr) |
+| [Baidu OCR](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) | 990 | Use Baidu OCR API to recognize text. | Humber | macOS | [store](https://www.raycast.com/Humber/baidu-ocr) |
 | [SnapOCR Via Paddle](https://github.com/raycast/extensions/tree/main/extensions/snapocr-via-paddle) | 66 | Layout-aware multilingual OCR for complex documents, tables, and formulas with structured Markdown export via Baidu PaddleOCR | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/snapocr-via-paddle) |
-| [Capso](https://github.com/raycast/extensions/tree/main/extensions/capso) | 14 | Trigger Capso captures, OCR, recordings, and history directly from Raycast. | rcouto | macOS | [store](https://www.raycast.com/rcouto/capso) |
+| [Capso](https://github.com/raycast/extensions/tree/main/extensions/capso) | 15 | Trigger Capso captures, OCR, recordings, and history directly from Raycast. | rcouto | macOS | [store](https://www.raycast.com/rcouto/capso) |
 | [Oh-Shoot](https://github.com/raycast/extensions/tree/main/extensions/oh-shoot) | 8 | Search your oh-shoot screenshots by their OCR text and jump straight back into the oh-shoot app. | nico_pergande | macOS | [store](https://www.raycast.com/nico_pergande/oh-shoot) |
 | [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | 8 | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | [store](https://www.raycast.com/Holiney/sowiks) |
 

@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Two-Factor Authentication Code Generator](https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator) | 6,714 | Quickly access your two-factor authentication codes. | cjdenio | macOS | [store](https://www.raycast.com/cjdenio/two-factor-authentication-code-generator) |
+| [Two-Factor Authentication Code Generator](https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator) | 6,741 | Quickly access your two-factor authentication codes. | cjdenio | macOS | [store](https://www.raycast.com/cjdenio/two-factor-authentication-code-generator) |
 | [Private Internet Access Controls](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) | 697 | Control the Private Internet Access VPN: connect, disconnect, browse regions with flags, favorites, port forwarding and settings. | yakitrak | macOS | [store](https://www.raycast.com/yakitrak/pia-controls) |
 | [Privileges](https://github.com/raycast/extensions/tree/main/extensions/privileges) | 321 | Grant and revoke admin permission with SAP Privileges (https://github.com/SAP/macOS-enterprise-privileges). Not affiliated with SAP. | ph00lt0 | macOS | [store](https://www.raycast.com/ph00lt0/privileges) |
 | [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) | 303 | Interact with teleport, the open infrastructure access platform | lamberttraccard | macOS | [store](https://www.raycast.com/lamberttraccard/teleport) |
-| [Okta Search](https://github.com/raycast/extensions/tree/main/extensions/oktasearch) | 93 | Serach Okta users and groups by name. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/oktasearch) |
-| [Entra PIM Role](https://github.com/raycast/extensions/tree/main/extensions/epim) | 90 | Activate Entra Role via PIM with Graph | aimebertrand | macOS | [store](https://www.raycast.com/aimebertrand/epim) |
+| [Okta Search](https://github.com/raycast/extensions/tree/main/extensions/oktasearch) | 94 | Serach Okta users and groups by name. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/oktasearch) |
+| [Entra PIM Role](https://github.com/raycast/extensions/tree/main/extensions/epim) | 91 | Activate Entra Role via PIM with Graph | aimebertrand | macOS | [store](https://www.raycast.com/aimebertrand/epim) |
 | [Exivo](https://github.com/raycast/extensions/tree/main/extensions/exivo) | 12 | Use dormakaba exivo api to unlock doors. | Michi-2124 | macOS | [store](https://www.raycast.com/Michi-2124/exivo) |
