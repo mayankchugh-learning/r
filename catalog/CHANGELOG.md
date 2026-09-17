@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-17 — upstream `0e2b8eb7e5`
+
+**Updated (1):** [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs)
+
 ## 2026-09-17 — upstream `7f316aafbe`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
