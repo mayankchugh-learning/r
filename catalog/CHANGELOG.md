@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-17 — upstream `2801380b5f`
+
+**Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)
+
 ## 2026-09-16 — upstream `2433d0b5ea`
 
 **Updated (1):** [Unsplash](https://github.com/raycast/extensions/tree/main/extensions/unsplash)

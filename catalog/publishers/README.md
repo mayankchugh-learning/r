@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,234,795 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,235,152 |
 | 2 | [raycast](./id/raycast.md) | 11 | 869,754 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 738,681 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 545,198 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 739,009 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 545,445 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 477,601 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 473,110 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 442,715 |
@@ -73,7 +73,7 @@
 | 63 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 40,694 |
 | 64 | [DanielSinclair](https://www.raycast.com/DanielSinclair) | 1 | 40,524 |
 | 65 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 40,259 |
-| 66 | [eggsy](https://www.raycast.com/eggsy) | 5 | 39,508 |
+| 66 | [eggsy](https://www.raycast.com/eggsy) | 5 | 39,535 |
 | 67 | [sven](https://www.raycast.com/sven) | 4 | 39,316 |
 | 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 39,174 |
 | 69 | [yuercl](https://www.raycast.com/yuercl) | 2 | 38,941 |

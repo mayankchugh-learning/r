@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2433d0b5eaf54704cfb1ff2472d9954f32828da0",
-  "generatedAt": "2026-09-16T21:07:28.977Z",
-  "downloadsRefreshedAt": "2026-09-16T21:07:28.263Z",
+  "commit": "2801380b5f250a8666c085b66ab890c620eb15ad",
+  "generatedAt": "2026-09-17T00:41:44.520Z",
+  "downloadsRefreshedAt": "2026-09-17T00:41:43.330Z",
   "count": 3299,
   "extensions": [
     {
@@ -9849,7 +9849,7 @@
       ],
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
-      "treeSha": "1feed71d465ca94d00cee334db5a72fc0f3743a1",
+      "treeSha": "3c465dfd369bc2d152143a724a1bcbe27171e486",
       "downloads": 142684
     },
     {
@@ -10101,7 +10101,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 579861
+      "downloads": 580218
     },
     {
       "dir": "color-shades",
@@ -22622,7 +22622,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 545198
+      "downloads": 545445
     },
     {
       "dir": "google-chrome-profiles",
@@ -29047,7 +29047,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 738681
+      "downloads": 739009
     },
     {
       "dir": "kimai",
@@ -63245,7 +63245,7 @@
       "store": "https://www.raycast.com/eggsy/unsplash",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/unsplash",
       "treeSha": "d63e6adb366101deb9c0a88644915fc15bc6c37d",
-      "downloads": 36452
+      "downloads": 36479
     },
     {
       "dir": "unsure-calc",
