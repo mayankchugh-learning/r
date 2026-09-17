@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,238,031 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,238,850 |
 | 2 | [raycast](./id/raycast.md) | 11 | 871,533 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 740,570 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 546,538 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 741,340 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 547,081 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 478,458 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 473,988 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 443,478 |
@@ -282,8 +282,8 @@
 | 272 | [SamuelNitsche](https://www.raycast.com/SamuelNitsche) | 1 | 4,512 |
 | 273 | [danielbahl](https://www.raycast.com/danielbahl) | 1 | 4,478 |
 | 274 | [johndoe123789](https://www.raycast.com/johndoe123789) | 1 | 4,466 |
-| 275 | [svenhofman](https://www.raycast.com/svenhofman) | 1 | 4,406 |
-| 276 | [sebdanielsson](https://www.raycast.com/sebdanielsson) | 3 | 4,403 |
+| 275 | [sebdanielsson](https://www.raycast.com/sebdanielsson) | 3 | 4,407 |
+| 276 | [svenhofman](https://www.raycast.com/svenhofman) | 1 | 4,406 |
 | 277 | [sbugzhu](https://www.raycast.com/sbugzhu) | 1 | 4,401 |
 | 278 | [kmusick](https://www.raycast.com/kmusick) | 1 | 4,370 |
 | 279 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,345 |

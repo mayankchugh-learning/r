@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5d74eb44e07023a059d5982fd60eb44e5001a0d5",
-  "generatedAt": "2026-09-17T11:16:24.980Z",
-  "downloadsRefreshedAt": "2026-09-17T11:16:24.337Z",
+  "commit": "304b00111537d0722bcb7131d92573f6d5072ce8",
+  "generatedAt": "2026-09-17T15:42:37.631Z",
+  "downloadsRefreshedAt": "2026-09-17T15:42:37.188Z",
   "count": 3299,
   "extensions": [
     {
@@ -3698,8 +3698,8 @@
       ],
       "store": "https://www.raycast.com/sebdanielsson/background-sounds",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/background-sounds",
-      "treeSha": "750f4b1ab6f0738cb44399ff74edc66a45291e3b",
-      "downloads": 2695
+      "treeSha": "efbb77fd8baee160168a57a5867f5f38f2129f70",
+      "downloads": 2699
     },
     {
       "dir": "backlog-md-manager",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 581827
+      "downloads": 582646
     },
     {
       "dir": "color-shades",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 546538
+      "downloads": 547081
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 740570
+      "downloads": 741340
     },
     {
       "dir": "kimai",
