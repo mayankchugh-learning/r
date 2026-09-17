@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-17 — upstream `e80d5583fa`
+
+**Updated (1):** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search)
+
 ## 2026-09-17 — upstream `704e1a8988`
 
 **Updated (1):** [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt)

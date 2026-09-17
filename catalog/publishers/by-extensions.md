@@ -18,7 +18,7 @@
 | 8 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 16,996 |
 | 9 | [chrismessina](./id/chrismessina.md) | 16 | 7,278 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,771 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,237,090 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,237,441 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 326,014 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 443,478 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,058 |
@@ -170,11 +170,11 @@
 | 160 | [glct26](https://www.raycast.com/glct26) | 3 | 60 |
 | 161 | [wdeu](https://www.raycast.com/wdeu) | 3 | 34 |
 | 162 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 257,313 |
-| 163 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 253,318 |
+| 163 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 253,386 |
 | 164 | [mooxl](https://www.raycast.com/mooxl) | 2 | 204,197 |
 | 165 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 182,036 |
 | 166 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 167,347 |
-| 167 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 113,590 |
+| 167 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 113,687 |
 | 168 | [tegola](https://www.raycast.com/tegola) | 2 | 88,528 |
 | 169 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 62,833 |
 | 170 | [ratoru](https://www.raycast.com/ratoru) | 2 | 53,261 |
@@ -395,8 +395,8 @@
 | 385 | [tai](https://www.raycast.com/tai) | 2 | 13 |
 | 386 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 12 |
 | 387 | github-next | 2 | — |
-| 388 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 739,673 |
-| 389 | [Codely](https://www.raycast.com/Codely) | 1 | 545,919 |
+| 388 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 740,009 |
+| 389 | [Codely](https://www.raycast.com/Codely) | 1 | 546,158 |
 | 390 | [linear](https://www.raycast.com/linear) | 1 | 383,708 |
 | 391 | [mommertf](https://www.raycast.com/mommertf) | 1 | 320,125 |
 | 392 | [nhojb](https://www.raycast.com/nhojb) | 1 | 281,387 |
