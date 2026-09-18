@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f4b959c64744113664259f3d5d47fba4c9780d9d",
-  "generatedAt": "2026-09-18T11:18:37.490Z",
-  "downloadsRefreshedAt": "2026-09-18T11:18:35.715Z",
+  "commit": "7385d56717d2666708493dae1f9e2fb4a681dc3d",
+  "generatedAt": "2026-09-18T11:19:32.558Z",
+  "downloadsRefreshedAt": "2026-09-18T11:19:31.678Z",
   "count": 3299,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 584947
+      "downloads": 584949
     },
     {
       "dir": "color-shades",
@@ -16077,7 +16077,7 @@
       "description": "Query dust.tt AI agents",
       "author": "albandum",
       "owner": null,
-      "contributors": 5,
+      "contributors": 6,
       "categories": [
         "Productivity"
       ],
@@ -16087,7 +16087,7 @@
       ],
       "store": "https://www.raycast.com/albandum/dust-tt",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dust-tt",
-      "treeSha": "4ede01da9c7188c7455ac38231f7ada74832c8d5",
+      "treeSha": "dd88800bf8e674dbd43d62ef3575ec2be144afa2",
       "downloads": 871
     },
     {
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 548632
+      "downloads": 548633
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 743653
+      "downloads": 743654
     },
     {
       "dir": "kimai",

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-18 — upstream `7385d56717`
+
+**Updated (1):** [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt)
+
 ## 2026-09-18 — upstream `f4b959c647`
 
 **Updated (1):** [Create Link](https://github.com/raycast/extensions/tree/main/extensions/create-link)
