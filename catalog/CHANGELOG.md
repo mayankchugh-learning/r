@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-18 — upstream `b10bab0197`
+
+**Updated (1):** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search)
+
 ## 2026-09-18 — upstream `1ee030e407`
 
 **Updated (1):** [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader)

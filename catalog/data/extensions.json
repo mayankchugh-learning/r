@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1ee030e407525ab1bb70a5028fd95fe99e676d86",
-  "generatedAt": "2026-09-18T08:04:32.900Z",
-  "downloadsRefreshedAt": "2026-09-18T08:04:32.286Z",
+  "commit": "b10bab0197fda4526601d5264d406694fd700d8a",
+  "generatedAt": "2026-09-18T10:34:28.745Z",
+  "downloadsRefreshedAt": "2026-09-18T10:34:27.917Z",
   "count": 3299,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 584493
+      "downloads": 584853
     },
     {
       "dir": "color-shades",
@@ -21311,7 +21311,7 @@
       "description": "Search the Internet for animated GIFs",
       "author": "josephschmitt",
       "owner": null,
-      "contributors": 11,
+      "contributors": 12,
       "categories": [
         "Media",
         "Fun",
@@ -21324,8 +21324,8 @@
       ],
       "store": "https://www.raycast.com/josephschmitt/gif-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gif-search",
-      "treeSha": "88a011706e54e54751dbdd9efec21c7b6ed8aad6",
-      "downloads": 102878
+      "treeSha": "b3ab682f397adaffefab2ff3c987c24bd09373b2",
+      "downloads": 103021
     },
     {
       "dir": "gift-stardew-valley",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 548324
+      "downloads": 548581
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 743180
+      "downloads": 743567
     },
     {
       "dir": "kimai",
@@ -50851,7 +50851,7 @@
       "store": "https://www.raycast.com/fuksman/rss-reader",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/rss-reader",
       "treeSha": "bb37259c8d0a62eb9f1996cfa4c67977de0e57ac",
-      "downloads": 4838
+      "downloads": 4840
     },
     {
       "dir": "rsync-commands",

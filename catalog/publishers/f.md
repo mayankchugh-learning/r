@@ -83,7 +83,7 @@
 | [ftrstk](https://www.raycast.com/ftrstk) | 1 | 49 | **Developer Tools:** [AT Protocol Utilities](https://github.com/raycast/extensions/tree/main/extensions/atproto-utilities) |
 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,433 | **System:** [Open With App](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) |
 | [fujiyamaorange](https://www.raycast.com/fujiyamaorange) | 1 | 106 | **Productivity:** [Surl](https://github.com/raycast/extensions/tree/main/extensions/surl) |
-| [fuksman](https://www.raycast.com/fuksman) | 2 | 29,396 | **Productivity:** [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar)<br>**News:** [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) |
+| [fuksman](https://www.raycast.com/fuksman) | 2 | 29,398 | **Productivity:** [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar)<br>**News:** [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader) |
 | [furkansimsir](https://www.raycast.com/furkansimsir) | 1 | 16 | **Productivity:** [Capture - Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/capture-quick-notes) |
 | [futantan](https://www.raycast.com/futantan) | 2 | 8,883 | **Productivity:** [Logseq](https://github.com/raycast/extensions/tree/main/extensions/logseq)<br>**Web:** [Bitcoin Price](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-price) |
 | [Futos](https://www.raycast.com/Futos) | 1 | 16 | **Productivity:** [BSR Entsorgung](https://github.com/raycast/extensions/tree/main/extensions/bsr-entsorgung) |
