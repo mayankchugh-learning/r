@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-18 — upstream `ff8fa29747`
+
+**Updated (1):** [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii)
+
 ## 2026-09-17 — upstream `63ab836444`
 
 **Updated (1):** [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette)

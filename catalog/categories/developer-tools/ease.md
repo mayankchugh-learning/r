@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Node Version Manager](https://github.com/raycast/extensions/tree/main/extensions/node-version-manager) | 1,807 | Control your node versions with ease | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/node-version-manager) |
-| [Rsync Commands](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) | 729 | Save your commonly used rsync commands in one place and run them with ease. | fahl | macOS | [store](https://www.raycast.com/fahl/rsync-commands) |
+| [Node Version Manager](https://github.com/raycast/extensions/tree/main/extensions/node-version-manager) | 1,808 | Control your node versions with ease | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/node-version-manager) |
+| [Rsync Commands](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) | 731 | Save your commonly used rsync commands in one place and run them with ease. | fahl | macOS | [store](https://www.raycast.com/fahl/rsync-commands) |
 | [SVGA Player](https://github.com/raycast/extensions/tree/main/extensions/svga-player) | 123 | Play SVGA animations with ease | liaoyuan_ju | macOS | [store](https://www.raycast.com/liaoyuan_ju/svga-player) |
 | [DOTween Eases](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) | 65 | Preview DOTween easing options through GIFs. | metakirby5 | macOS | [store](https://www.raycast.com/metakirby5/dotween-eases) |

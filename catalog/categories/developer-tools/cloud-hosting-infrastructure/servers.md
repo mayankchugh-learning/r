@@ -7,10 +7,10 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,326 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
-| [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,535 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
-| [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,447 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
-| [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,272 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
-| [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 578 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
+| [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,538 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
+| [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,449 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
+| [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,273 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
+| [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 580 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
 | [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi) | 519 | View and manage your ploi.io servers and sites | ploi (org) | macOS | [store](https://www.raycast.com/ploi/ploi) |
 | [Sendme File Share](https://github.com/raycast/extensions/tree/main/extensions/sendme) | 349 | Send and receive files peer-to-peer directly from Raycast with no intermediary servers or accounts required | nazif_ishrak | macOS | [store](https://www.raycast.com/nazif_ishrak/sendme) |
 | [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers) | 201 | Project-grouped dashboard for every dev server running on your Mac. Start, restart, and kill them without leaving Raycast, with the framework (Next, Svelte, As… | tavlean | macOS | [store](https://www.raycast.com/tavlean/dev-servers) |
@@ -19,7 +19,7 @@
 | [Geoping](https://github.com/raycast/extensions/tree/main/extensions/geoping) | 151 | Pings servers around the globe | chiroyce | macOS | [store](https://www.raycast.com/chiroyce/geoping) |
 | [Rsync File Transfer](https://github.com/raycast/extensions/tree/main/extensions/raycast-rsync-extension) | 127 | Transfer files between local and remote servers using rsync with SSH config integration | dytsou | macOS | [store](https://www.raycast.com/dytsou/raycast-rsync-extension) |
 | [Atomic Data](https://github.com/raycast/extensions/tree/main/extensions/atomic) | 90 | Search inside your Atomic-Server data | joepio | macOS | [store](https://www.raycast.com/joepio/atomic) |
-| [RunCloud](https://github.com/raycast/extensions/tree/main/extensions/runcloud) | 76 | Search Your RunCloud Servers + Webapps | itsjustxan | macOS | [store](https://www.raycast.com/itsjustxan/runcloud) |
+| [RunCloud](https://github.com/raycast/extensions/tree/main/extensions/runcloud) | 77 | Search Your RunCloud Servers + Webapps | itsjustxan | macOS | [store](https://www.raycast.com/itsjustxan/runcloud) |
 | [Ottomatic](https://github.com/raycast/extensions/tree/main/extensions/ottomatic) | 52 | Manage your Ottomatic servers and projects | eluce2 | macOS | [store](https://www.raycast.com/eluce2/ottomatic) |
 | [VirtFusion](https://github.com/raycast/extensions/tree/main/extensions/virtfusion) | 39 | Manage Servers, SSH Keys | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/virtfusion) |
 | [SpinupWP](https://github.com/raycast/extensions/tree/main/extensions/spinupwp) | 33 | Quickly manage your SpinupWP servers and websites. | damiengorin | macOS, Windows | [store](https://www.raycast.com/damiengorin/spinupwp) |
