@@ -119,7 +119,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 8,020 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
 | [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow) | 1,756 | Search transcription history, manage your custom dictionary, and control voice recording with Wispr Flow | carterm | macOS, Windows | [store](https://www.raycast.com/carterm/wispr-flow) |
-| [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) | 781 | Launch and manage your Minecraft Prism Launcher instances straight from Raycast. | lockieluke3389 | Windows, macOS | [store](https://www.raycast.com/lockieluke3389/prism-launcher) |
+| [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) | 782 | Launch and manage your Minecraft Prism Launcher instances straight from Raycast. | lockieluke3389 | Windows, macOS | [store](https://www.raycast.com/lockieluke3389/prism-launcher) |
 | [Modrinth](https://github.com/raycast/extensions/tree/main/extensions/modrinth) | 315 | Your Minecraft modding companion - find mods, resource packs, and more | soradotwav | macOS, Windows | [store](https://www.raycast.com/soradotwav/modrinth) |
 | [Gomander](https://github.com/raycast/extensions/tree/main/extensions/gomander) | 21 | Control your gomander experience from Raycast | moisesrj97 | macOS, Windows | [store](https://www.raycast.com/moisesrj97/gomander) |
 

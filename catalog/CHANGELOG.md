@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-18 — upstream `0d5742934a`
+
+**Updated (1):** [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher)
+
 ## 2026-09-18 — upstream `a77f2c37cd`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)

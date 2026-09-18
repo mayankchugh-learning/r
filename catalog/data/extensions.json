@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a77f2c37cdc956890c4a65981798d139d0ec4291",
-  "generatedAt": "2026-09-18T10:36:42.458Z",
-  "downloadsRefreshedAt": "2026-09-18T10:36:41.768Z",
+  "commit": "0d5742934a191fa1166d0d76bb686e2f3387f151",
+  "generatedAt": "2026-09-18T10:38:42.530Z",
+  "downloadsRefreshedAt": "2026-09-18T10:38:41.973Z",
   "count": 3299,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 584858
+      "downloads": 584863
     },
     {
       "dir": "color-shades",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 548582
+      "downloads": 548585
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 743572
+      "downloads": 743576
     },
     {
       "dir": "kimai",
@@ -45013,8 +45013,8 @@
       ],
       "store": "https://www.raycast.com/lockieluke3389/prism-launcher",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/prism-launcher",
-      "treeSha": "688e16cacea93409b94ca0f18a050df2e85ecad3",
-      "downloads": 781
+      "treeSha": "a45688b35ff2e9bb4ace483beb0a2e40423d2a0f",
+      "downloads": 782
     },
     {
       "dir": "prisma-cli-commands",

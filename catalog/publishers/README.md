@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,243,864 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,243,869 |
 | 2 | [raycast](./id/raycast.md) | 11 | 875,049 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 743,572 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 548,582 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 743,576 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 548,585 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 480,283 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 475,932 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 445,045 |
@@ -761,7 +761,7 @@
 | 751 | [NicolasMontone](https://www.raycast.com/NicolasMontone) | 2 | 788 |
 | 752 | [e2b](https://www.raycast.com/e2b) | 1 | 788 |
 | 753 | [colinlienard](https://www.raycast.com/colinlienard) | 1 | 784 |
-| 754 | [lockieluke3389](https://www.raycast.com/lockieluke3389) | 1 | 781 |
+| 754 | [lockieluke3389](https://www.raycast.com/lockieluke3389) | 1 | 782 |
 | 755 | [martin_molcrette](https://www.raycast.com/martin_molcrette) | 1 | 781 |
 | 756 | [AllanM](https://www.raycast.com/AllanM) | 1 | 777 |
 | 757 | [madmaxmckinney](https://www.raycast.com/madmaxmckinney) | 2 | 771 |

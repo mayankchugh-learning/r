@@ -54,7 +54,7 @@
 | [litomore](./id/litomore.md) | 13 | 13,977 | [see all 13 →](./id/litomore.md) |
 | [liualexiang](https://www.raycast.com/liualexiang) | 1 | 162 | **Productivity:** [Azure Speech TTS](https://github.com/raycast/extensions/tree/main/extensions/azure-tts-raycast-extension) |
 | [Lock](https://www.raycast.com/Lock) | 1 | 46 | **Security:** [2FAS Authenticator](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator) |
-| [lockieluke3389](https://www.raycast.com/lockieluke3389) | 1 | 781 | **Applications:** [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) |
+| [lockieluke3389](https://www.raycast.com/lockieluke3389) | 1 | 782 | **Applications:** [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) |
 | [locnguyen1842](https://www.raycast.com/locnguyen1842) | 1 | 4 | **Productivity:** [VN Textify](https://github.com/raycast/extensions/tree/main/extensions/vn-textify) |
 | [Logan-8f](https://www.raycast.com/Logan-8f) | 1 | 57 | **Developer Tools:** [Git Batch Tools](https://github.com/raycast/extensions/tree/main/extensions/git-batch-tools) |
 | [loic_magnette](https://www.raycast.com/loic_magnette) | 1 | 17 | **Developer Tools:** [Code Quarkus](https://github.com/raycast/extensions/tree/main/extensions/code-quarkus) |
