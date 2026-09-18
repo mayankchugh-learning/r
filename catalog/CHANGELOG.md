@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-18 — upstream `36a67e1088`
+
+**Updated (1):** [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh)
+
 ## 2026-09-18 — upstream `0d5742934a`
 
 **Updated (1):** [Prism Launcher](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher)

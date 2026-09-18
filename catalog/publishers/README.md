@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,243,869 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,243,950 |
 | 2 | [raycast](./id/raycast.md) | 11 | 875,049 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 743,576 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 548,585 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 743,652 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 548,632 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 480,283 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 475,932 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 445,045 |
@@ -364,9 +364,9 @@
 | 354 | [trevware](https://www.raycast.com/trevware) | 1 | 2,982 |
 | 355 | [cyxn](https://www.raycast.com/cyxn) | 3 | 2,974 |
 | 356 | [prashantv](https://www.raycast.com/prashantv) | 1 | 2,971 |
-| 357 | [JungHoonGhae](https://www.raycast.com/JungHoonGhae) | 1 | 2,952 |
-| 358 | [Go2SheeP](https://www.raycast.com/Go2SheeP) | 1 | 2,950 |
-| 359 | [joshmedeski](https://www.raycast.com/joshmedeski) | 1 | 2,949 |
+| 357 | [joshmedeski](https://www.raycast.com/joshmedeski) | 1 | 2,952 |
+| 358 | [JungHoonGhae](https://www.raycast.com/JungHoonGhae) | 1 | 2,952 |
+| 359 | [Go2SheeP](https://www.raycast.com/Go2SheeP) | 1 | 2,950 |
 | 360 | [Joshlucpoll](https://www.raycast.com/Joshlucpoll) | 1 | 2,926 |
 | 361 | [justin0u0](https://www.raycast.com/justin0u0) | 3 | 2,886 |
 | 362 | [krzysztoff1](https://www.raycast.com/krzysztoff1) | 1 | 2,876 |
