@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-18 — upstream `1ee030e407`
+
+**Updated (1):** [RSS Reader](https://github.com/raycast/extensions/tree/main/extensions/rss-reader)
+
 ## 2026-09-18 — upstream `ff8fa29747`
 
 **Updated (1):** [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii)

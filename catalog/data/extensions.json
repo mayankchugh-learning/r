@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ff8fa29747f0e905dc5e5c4806464f1c098e61a3",
-  "generatedAt": "2026-09-18T08:02:43.922Z",
-  "downloadsRefreshedAt": "2026-09-18T08:02:42.275Z",
+  "commit": "1ee030e407525ab1bb70a5028fd95fe99e676d86",
+  "generatedAt": "2026-09-18T08:04:32.900Z",
+  "downloadsRefreshedAt": "2026-09-18T08:04:32.286Z",
   "count": 3299,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 584490
+      "downloads": 584493
     },
     {
       "dir": "color-shades",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 548322
+      "downloads": 548324
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 743175
+      "downloads": 743180
     },
     {
       "dir": "kimai",
@@ -50838,7 +50838,7 @@
       "description": "Browse latest news from your favourite sources",
       "author": "fuksman",
       "owner": null,
-      "contributors": 5,
+      "contributors": 6,
       "categories": [
         "News",
         "Media",
@@ -50850,7 +50850,7 @@
       ],
       "store": "https://www.raycast.com/fuksman/rss-reader",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/rss-reader",
-      "treeSha": "cf42891eea28d986a083f3cea98669bc158e992a",
+      "treeSha": "bb37259c8d0a62eb9f1996cfa4c67977de0e57ac",
       "downloads": 4838
     },
     {
