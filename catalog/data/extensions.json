@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "36a67e1088eea9bcfdf3473b7a3967c655446b51",
-  "generatedAt": "2026-09-18T11:16:49.780Z",
-  "downloadsRefreshedAt": "2026-09-18T11:16:49.024Z",
+  "commit": "f4b959c64744113664259f3d5d47fba4c9780d9d",
+  "generatedAt": "2026-09-18T11:18:37.490Z",
+  "downloadsRefreshedAt": "2026-09-18T11:18:35.715Z",
   "count": 3299,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 584944
+      "downloads": 584947
     },
     {
       "dir": "color-shades",
@@ -11565,7 +11565,7 @@
       "dir": "create-link",
       "name": "create-link",
       "title": "Create Link",
-      "description": "Create a link to the currently open browser tab in various formats (plain text, HTML, Markdown).",
+      "description": "Copy browser-tab links in various formats or turn a clipboard URL into a rich title hyperlink for Slack.",
       "author": "sinsky",
       "owner": null,
       "contributors": 0,
@@ -11579,7 +11579,7 @@
       ],
       "store": "https://www.raycast.com/sinsky/create-link",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/create-link",
-      "treeSha": "7c3071459ddc45f53732913f03a8358c5499c116",
+      "treeSha": "439632133bd8dd11fbf15d36333acbd05c9eacb8",
       "downloads": 797
     },
     {
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 743652
+      "downloads": 743653
     },
     {
       "dir": "kimai",

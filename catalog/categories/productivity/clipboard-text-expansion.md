@@ -1,6 +1,6 @@
 # Clipboard & Text Expansion
 
-72 extensions · [← Productivity](./README.md)
+73 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -31,6 +31,7 @@
 | [Markdown Converter](https://github.com/raycast/extensions/tree/main/extensions/markdown-converter) | 926 | Convert rich text from clipboard into Markdown format | ewilderj | macOS | [store](https://www.raycast.com/ewilderj/markdown-converter) |
 | [json-to-go](https://github.com/raycast/extensions/tree/main/extensions/json-to-go) | 911 | Translate JSON from clipboard into a Go type definition | chyroc | macOS | [store](https://www.raycast.com/chyroc/json-to-go) |
 | [ClipMenu](https://github.com/raycast/extensions/tree/main/extensions/clipmenu) | 873 | Show Current Clipboard Content on Menu Bar | Envl | macOS | [store](https://www.raycast.com/Envl/clipmenu) |
+| [Create Link](https://github.com/raycast/extensions/tree/main/extensions/create-link) | 797 | Copy browser-tab links in various formats or turn a clipboard URL into a rich title hyperlink for Slack. | sinsky | macOS | [store](https://www.raycast.com/sinsky/create-link) |
 | [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 783 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
 | [Choose a License](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license) | 752 | Read, copy, and paste Markdown licenses from choosealicense.com | sandypockets | macOS | [store](https://www.raycast.com/sandypockets/choose-a-license) |
 | [Diff View](https://github.com/raycast/extensions/tree/main/extensions/diff-view) | 736 | Compare the last two entries of your clipboard, or two selected files, in VS Code, Cursor, or VSCodium | kalaschnik | macOS | [store](https://www.raycast.com/kalaschnik/diff-view) |

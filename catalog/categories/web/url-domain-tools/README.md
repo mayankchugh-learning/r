@@ -4,8 +4,8 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [URL ✦](./url.md) | 26 |
+| [URL ✦](./url.md) | 27 |
 | [Domain ✦](./domain.md) | 8 |
-| [General](./general.md) | 13 |
+| [General](./general.md) | 12 |
 
 *✦ auto-discovered topic group*
