@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c5e88ba6c343f194ed210b225fb963aaaf074f55",
-  "generatedAt": "2026-09-19T06:06:40.362Z",
-  "downloadsRefreshedAt": "2026-09-19T06:06:39.955Z",
+  "commit": "681d1eb99679820b5a2bd3439e3545ad60c67c35",
+  "generatedAt": "2026-09-19T06:18:21.658Z",
+  "downloadsRefreshedAt": "2026-09-19T06:18:21.252Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 586719
+      "downloads": 586729
     },
     {
       "dir": "color-shades",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 549877
+      "downloads": 549884
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 745456
+      "downloads": 745469
     },
     {
       "dir": "kimai",
@@ -35548,7 +35548,7 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "aed2c1ef2b4c2e28634daaea0c51a1ffab5d4c06",
+      "treeSha": "824666fcdbd47305cf902cc7bd3dfc57cf42bae7",
       "downloads": 41749
     },
     {
@@ -44567,7 +44567,7 @@
       "store": "https://www.raycast.com/lucaschultz/port-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/port-manager",
       "treeSha": "e9d8070b6c81456fa5040e2d4a2697b598d988ac",
-      "downloads": 59743
+      "downloads": 59756
     },
     {
       "dir": "portal-wholesale",
