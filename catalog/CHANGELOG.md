@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `fe7308ada1`
+
+**Updated (1):** [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager)
+
 ## 2026-09-19 — upstream `3061280f0c`
 
 **Updated (1):** [Whisper - Share Secrets](https://github.com/raycast/extensions/tree/main/extensions/whisper)

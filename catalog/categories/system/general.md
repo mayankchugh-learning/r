@@ -7,7 +7,7 @@
 | [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 118,771 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 82,068 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Emoji Search](https://github.com/raycast/extensions/tree/main/extensions/emoji) | 70,493 | Finds emojis and inserts or copies them. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/emoji) |
-| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 59,775 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
+| [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 59,779 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 51,338 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 45,185 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 42,491 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
