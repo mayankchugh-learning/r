@@ -40,7 +40,7 @@
 | Category | Extensions |
 | --- | --- |
 | [System](./system/README.md) | 274 |
-| [Other](./other/README.md) | 186 |
+| [Other](./other/README.md) | 185 |
 
 ### Fun & Entertainment
 

@@ -1,8 +1,8 @@
 # macOS · Other
 
-184 extensions · [← macOS](../README.md)
+183 extensions · [← macOS](../README.md)
 
-[AI Tools](#ai-tools) (15) · [Developer Utilities](#developer-utilities) (10) · [Productivity & Tasks](#productivity-tasks) (5) · [Media & Entertainment](#media-entertainment) (11) · [Language & Translation](#language-translation) (8) · [Health & Lifestyle](#health-lifestyle) (4) · [Travel & Transport](#travel-transport) (18) · [Smart Home & IoT](#smart-home-iot) (6) · [System & Hardware](#system-hardware) (7) · [Web & Search](#web-search) (26) · [Communication & Social](#communication-social) (3) · [Education & Learning](#education-learning) (2) · [General](#general) (69)
+[AI Tools](#ai-tools) (15) · [Developer Utilities](#developer-utilities) (10) · [Productivity & Tasks](#productivity-tasks) (5) · [Media & Entertainment](#media-entertainment) (11) · [Language & Translation](#language-translation) (8) · [Health & Lifestyle](#health-lifestyle) (4) · [Travel & Transport](#travel-transport) (18) · [Smart Home & IoT](#smart-home-iot) (6) · [System & Hardware](#system-hardware) (7) · [Web & Search](#web-search) (25) · [Communication & Social](#communication-social) (3) · [Education & Learning](#education-learning) (2) · [General](#general) (69)
 
 ## Digital Tools
 
@@ -62,7 +62,6 @@
 | [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) | 809 | Control your Trakt account directly from Raycast | thesobercoder | macOS, Windows | [store](https://www.raycast.com/thesobercoder/trakt-manager) |
 | [Y Combinator](https://github.com/raycast/extensions/tree/main/extensions/y-combinator) | 761 | Search all Y Combinator companies and get a countdown until demo day | thomas | macOS | [store](https://www.raycast.com/thomas/y-combinator) |
 | [Save to Cubox](https://github.com/raycast/extensions/tree/main/extensions/save-to-cubox) | 552 | Save url or memo to your cubox | xyxc0673 | macOS | [store](https://www.raycast.com/xyxc0673/save-to-cubox) |
-| [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) | 507 | Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. S… | guelug | macOS | [store](https://www.raycast.com/guelug/seo-lighthouse) |
 | [Slugify File / Folder Names](https://github.com/raycast/extensions/tree/main/extensions/slugify-file-folder-names) | 374 | Rename selected files and folders in Finder to URL-friendly slug format with international character support and optional German umlaut transliteration | tarikkavaz | macOS | [store](https://www.raycast.com/tarikkavaz/slugify-file-folder-names) |
 | [Laravel Tips](https://github.com/raycast/extensions/tree/main/extensions/laravel-tips) | 349 | Get or search laravel tips in Raycast | Godruoyi | macOS | [store](https://www.raycast.com/Godruoyi/laravel-tips) |
 | [Drug Search](https://github.com/raycast/extensions/tree/main/extensions/drug-search) | 333 | Search the FDA drug database with ease | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/drug-search) |

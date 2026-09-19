@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `9213abb357`
+
+**Updated (1):** [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse)
+
 ## 2026-09-19 — upstream `2b3f3b68a6`
 
 **Updated (1):** [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path)
