@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,247,913 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,247,938 |
 | 2 | [raycast](./id/raycast.md) | 11 | 877,635 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 745,483 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 549,896 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 745,502 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 549,921 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 481,726 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 477,389 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 446,261 |
@@ -277,7 +277,7 @@
 | 267 | [kaanrkaraman](https://www.raycast.com/kaanrkaraman) | 1 | 4,691 |
 | 268 | [cojmeister](https://www.raycast.com/cojmeister) | 2 | 4,664 |
 | 269 | [dnnsmnstrr](https://www.raycast.com/dnnsmnstrr) | 5 | 4,625 |
-| 270 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,613 |
+| 270 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,617 |
 | 271 | [magicjaqk](https://www.raycast.com/magicjaqk) | 1 | 4,569 |
 | 272 | [SamuelNitsche](https://www.raycast.com/SamuelNitsche) | 1 | 4,544 |
 | 273 | [danielbahl](https://www.raycast.com/danielbahl) | 1 | 4,512 |
