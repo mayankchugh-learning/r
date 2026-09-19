@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `2b3f3b68a6`
+
+**Updated (1):** [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path)
+
 ## 2026-09-19 — upstream `681d1eb996`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
