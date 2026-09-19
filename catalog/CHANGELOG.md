@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `c5e88ba6c3`
+
+**Updated (1):** [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager)
+
 ## 2026-09-19 — upstream `103f154358`
 
 **Updated (1):** [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh)
