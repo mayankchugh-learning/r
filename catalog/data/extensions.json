@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "67d86d04db73b43320e49bd282841037dc701858",
-  "generatedAt": "2026-09-19T20:15:38.784Z",
-  "downloadsRefreshedAt": "2026-09-19T20:15:37.861Z",
+  "commit": "7d98dd1348c2c1fb153c230ec828dfbee27aa0d0",
+  "generatedAt": "2026-09-19T20:17:38.720Z",
+  "downloadsRefreshedAt": "2026-09-19T20:17:37.997Z",
   "count": 3300,
   "extensions": [
     {
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 550684
+      "downloads": 550685
     },
     {
       "dir": "google-chrome-profiles",
@@ -30499,8 +30499,8 @@
       ],
       "store": "https://www.raycast.com/justin0u0/leetcode",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/leetcode",
-      "treeSha": "d9ffa667eedca46afd3b365be115809fbe47ee9f",
-      "downloads": 1427
+      "treeSha": "b953e720a621f50e3ef92c91e81aec4e55493537",
+      "downloads": 1430
     },
     {
       "dir": "lega-serie-a",

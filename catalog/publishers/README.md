@@ -11,7 +11,7 @@
 | 1 | [thomas](./id/thomas.md) | 15 | 1,249,811 |
 | 2 | [raycast](./id/raycast.md) | 11 | 878,573 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 746,580 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 550,684 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 550,685 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 482,296 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 477,903 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 446,727 |
@@ -368,7 +368,7 @@
 | 358 | [JungHoonGhae](https://www.raycast.com/JungHoonGhae) | 1 | 2,960 |
 | 359 | [Go2SheeP](https://www.raycast.com/Go2SheeP) | 1 | 2,958 |
 | 360 | [Joshlucpoll](https://www.raycast.com/Joshlucpoll) | 1 | 2,934 |
-| 361 | [justin0u0](https://www.raycast.com/justin0u0) | 3 | 2,899 |
+| 361 | [justin0u0](https://www.raycast.com/justin0u0) | 3 | 2,902 |
 | 362 | [krzysztoff1](https://www.raycast.com/krzysztoff1) | 1 | 2,888 |
 | 363 | [ikupenov](https://www.raycast.com/ikupenov) | 2 | 2,865 |
 | 364 | [erykksc](https://www.raycast.com/erykksc) | 1 | 2,862 |

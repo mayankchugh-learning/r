@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `7d98dd1348`
+
+**Updated (1):** [LeetCode](https://github.com/raycast/extensions/tree/main/extensions/leetcode)
+
 ## 2026-09-19 — upstream `67d86d04db`
 
 **Updated (1):** [Proton Pass](https://github.com/raycast/extensions/tree/main/extensions/proton-pass)

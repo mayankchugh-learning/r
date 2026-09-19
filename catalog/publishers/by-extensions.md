@@ -133,7 +133,7 @@
 | 123 | [nicolas-marien](https://www.raycast.com/nicolas-marien) | 3 | 3,080 |
 | 124 | [marckohlbrugge](https://www.raycast.com/marckohlbrugge) | 3 | 3,029 |
 | 125 | [cyxn](https://www.raycast.com/cyxn) | 3 | 2,982 |
-| 126 | [justin0u0](https://www.raycast.com/justin0u0) | 3 | 2,899 |
+| 126 | [justin0u0](https://www.raycast.com/justin0u0) | 3 | 2,902 |
 | 127 | [madebyankur](https://www.raycast.com/madebyankur) | 3 | 2,283 |
 | 128 | [roele](https://www.raycast.com/roele) | 3 | 1,732 |
 | 129 | [TurboCoder13](https://www.raycast.com/TurboCoder13) | 3 | 1,724 |
@@ -397,7 +397,7 @@
 | 387 | [TwoMental](https://www.raycast.com/twomental) | 2 | 13 |
 | 388 | github-next | 2 | — |
 | 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 746,580 |
-| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 550,684 |
+| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 550,685 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 387,422 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 323,061 |
 | 393 | [nhojb](https://www.raycast.com/nhojb) | 1 | 283,747 |
