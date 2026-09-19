@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "41816f5347cb9f037df62b764d59214102e3c031",
-  "generatedAt": "2026-09-19T06:24:28.309Z",
-  "downloadsRefreshedAt": "2026-09-19T06:24:27.572Z",
+  "commit": "5f773c8c074df6aac42ecf64bd1450a3e4838a64",
+  "generatedAt": "2026-09-19T06:31:37.434Z",
+  "downloadsRefreshedAt": "2026-09-19T06:31:37.169Z",
   "count": 3300,
   "extensions": [
     {
@@ -736,7 +736,7 @@
       ],
       "store": "https://www.raycast.com/thuggyduck/agent-usage",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/agent-usage",
-      "treeSha": "6057021d9afea40e3373195a258ff9f5392c3e95",
+      "treeSha": "b9a77e012c1f30146ab8cecda7980715e982de46",
       "downloads": 3578
     },
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 586738
+      "downloads": 586748
     },
     {
       "dir": "color-shades",
@@ -16317,7 +16317,7 @@
       "store": "https://www.raycast.com/isfeng/easydict",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easydict",
       "treeSha": "672e4486922a60606cb5372808b167564436f447",
-      "downloads": 38574
+      "downloads": 38582
     },
     {
       "dir": "easyvariable",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 549892
+      "downloads": 549896
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 745476
+      "downloads": 745483
     },
     {
       "dir": "kimai",

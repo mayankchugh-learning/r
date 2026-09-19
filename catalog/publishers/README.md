@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,247,903 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,247,913 |
 | 2 | [raycast](./id/raycast.md) | 11 | 877,635 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 745,476 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 549,892 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 745,483 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 549,896 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 481,726 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 477,389 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 446,261 |
@@ -75,7 +75,7 @@
 | 65 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 40,671 |
 | 66 | [eggsy](https://www.raycast.com/eggsy) | 5 | 39,751 |
 | 67 | [sven](https://www.raycast.com/sven) | 4 | 39,614 |
-| 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 39,486 |
+| 68 | [isfeng](https://www.raycast.com/isfeng) | 3 | 39,494 |
 | 69 | [yuercl](https://www.raycast.com/yuercl) | 2 | 39,278 |
 | 70 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 36,460 |
 | 71 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 36,280 |
