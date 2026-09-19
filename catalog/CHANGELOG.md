@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `41816f5347`
+
+**Updated (1):** [Easy Dictionary](https://github.com/raycast/extensions/tree/main/extensions/easydict)
+
 ## 2026-09-19 — upstream `9213abb357`
 
 **Updated (1):** [SEO Lighthouse](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse)

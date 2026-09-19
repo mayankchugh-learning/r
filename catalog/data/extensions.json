@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9213abb357334d865a8475b5af36fdbb4c9bc259",
-  "generatedAt": "2026-09-19T06:22:25.927Z",
-  "downloadsRefreshedAt": "2026-09-19T06:22:25.526Z",
+  "commit": "41816f5347cb9f037df62b764d59214102e3c031",
+  "generatedAt": "2026-09-19T06:24:28.309Z",
+  "downloadsRefreshedAt": "2026-09-19T06:24:27.572Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 586735
+      "downloads": 586738
     },
     {
       "dir": "color-shades",
@@ -11078,7 +11078,7 @@
       "store": "https://www.raycast.com/koinzhang/copy-path",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/copy-path",
       "treeSha": "9e0b6afe5ad5bce4df340e3419ab37179da5fd9b",
-      "downloads": 22287
+      "downloads": 22291
     },
     {
       "dir": "copy-skeet-link",
@@ -16316,7 +16316,7 @@
       ],
       "store": "https://www.raycast.com/isfeng/easydict",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/easydict",
-      "treeSha": "8733bb661aaa7ed5cec4a1e17ba6d4c7dd263606",
+      "treeSha": "672e4486922a60606cb5372808b167564436f447",
       "downloads": 38574
     },
     {
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 549889
+      "downloads": 549892
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 745473
+      "downloads": 745476
     },
     {
       "dir": "kimai",
@@ -35549,7 +35549,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "824666fcdbd47305cf902cc7bd3dfc57cf42bae7",
-      "downloads": 41749
+      "downloads": 41756
     },
     {
       "dir": "models-dev",
