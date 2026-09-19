@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 741 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
-| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 737 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
-| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 620 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
-| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 583 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
+| [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 743 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
+| [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 738 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
+| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 621 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
+| [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 584 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [Headlines](https://github.com/raycast/extensions/tree/main/extensions/headlines) | 440 | Super breif news extension. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/headlines) |
-| [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 379 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
+| [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 380 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 228 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [early.tools news](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) | 182 | Long-form updates from 80+ of the greatest entrepreneurs on the web. | julianpaul | macOS | [store](https://www.raycast.com/julianpaul/early-tools-news) |
 | [ifanr](https://github.com/raycast/extensions/tree/main/extensions/ifanr) | 105 | Read the latest news from ifanr | madcodelife | macOS | [store](https://www.raycast.com/madcodelife/ifanr) |
@@ -20,7 +20,7 @@
 | [NL News Headlines](https://github.com/raycast/extensions/tree/main/extensions/nl-news-headlines) | 53 | Provides news headlines about the Netherlands from websites reporting in Dutch or English | ernest | macOS | [store](https://www.raycast.com/ernest/nl-news-headlines) |
 | [NU Nieuws](https://github.com/raycast/extensions/tree/main/extensions/nu-nieuws) | 52 | Used to display the latest (Dutch) news from nu.nl | j3lte | macOS | [store](https://www.raycast.com/j3lte/nu-nieuws) |
 | [DR News](https://github.com/raycast/extensions/tree/main/extensions/dr-news) | 47 | Showcases news updates from DR, Denmark's premier broadcaster, categorized by various topics. | kenanbendz | macOS | [store](https://www.raycast.com/kenanbendz/dr-news) |
-| [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) | 40 | Read the latest news of Thrasher Magazine | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/thrasher-magazine) |
+| [Thrasher Magazine](https://github.com/raycast/extensions/tree/main/extensions/thrasher-magazine) | 41 | Read the latest news of Thrasher Magazine | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/thrasher-magazine) |
 | [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) | 30 | Latest important cyber security news, ranked by severity. | goran_breivik | macOS, Windows | [store](https://www.raycast.com/goran_breivik/cyber-security-pulse) |
 | [TV2 - Denmark](https://github.com/raycast/extensions/tree/main/extensions/tv2---denmark) | 30 | Get the latest news from TV2 Denmark | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/tv2---denmark) |
 | [Music News](https://github.com/raycast/extensions/tree/main/extensions/music-news) | 29 | Read the latest music news from various sources. | acler | macOS, Windows | [store](https://www.raycast.com/acler/music-news) |

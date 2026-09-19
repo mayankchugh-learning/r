@@ -10,9 +10,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,497 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
+| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,502 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
 | [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,774 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
-| [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,101 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
+| [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,102 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
 | [Coin Caster](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) | 174 | Get the price for any crypto asset in Raycast | chase_manning | macOS | [store](https://www.raycast.com/chase_manning/coin-caster) |
 | [Binance](https://github.com/raycast/extensions/tree/main/extensions/binance-exchange) | 94 | Stay on top of the crypto market and your Binance portfolio | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/binance-exchange) |
 | [Crypto Portfolio Tracker](https://github.com/raycast/extensions/tree/main/extensions/crypto-portfolio-tracker) | 85 | Add crypto wallets by their addresses and track your entire portfolio. | narghev | macOS, Windows | [store](https://www.raycast.com/narghev/crypto-portfolio-tracker) |
@@ -26,7 +26,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coinpaprika](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) | 826 | Cryptocurrency Prices & Statistics | gumbleliks | macOS | [store](https://www.raycast.com/gumbleliks/coinpaprika) |
+| [Coinpaprika](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) | 828 | Cryptocurrency Prices & Statistics | gumbleliks | macOS | [store](https://www.raycast.com/gumbleliks/coinpaprika) |
 | [NFT Search](https://github.com/raycast/extensions/tree/main/extensions/nft-search) | 127 | Seraching NFT real-time floor price and info by NFT collection name | Glaze | macOS | [store](https://www.raycast.com/Glaze/nft-search) |
 | [Base Stats](https://github.com/raycast/extensions/tree/main/extensions/base-stats) | 45 | View current gas price and stats for Base | Osprey | macOS | [store](https://www.raycast.com/Osprey/base-stats) |
 | [BONK Price](https://github.com/raycast/extensions/tree/main/extensions/bonk-price) | 23 | Shows the price of the BONK token on your macOS menu bar | AnishDe12020 | macOS | [store](https://www.raycast.com/AnishDe12020/bonk-price) |
@@ -36,22 +36,22 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Solana Explorer](https://github.com/raycast/extensions/tree/main/extensions/solana-explorer) | 238 | Look up transactions and accounts on the various Solana clusters. | darklong | macOS | [store](https://www.raycast.com/darklong/solana-explorer) |
-| [SendAI](https://github.com/raycast/extensions/tree/main/extensions/send-ai) | 173 | Your shortcut to everything Solana. At your command bar. | sendai (org) | macOS | [store](https://www.raycast.com/sendai/send-ai) |
-| [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) | 60 | Introducing the Solana Wallet Generator, a powerful Raycast extension designed for developers and cryptocurrency enthusiasts seeking to efficiently create mult… | uladkaminski | macOS | [store](https://www.raycast.com/uladkaminski/solana-wallets-generation) |
+| [SendAI](https://github.com/raycast/extensions/tree/main/extensions/send-ai) | 174 | Your shortcut to everything Solana. At your command bar. | sendai (org) | macOS | [store](https://www.raycast.com/sendai/send-ai) |
+| [Solana Wallets Generation](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) | 61 | Introducing the Solana Wallet Generator, a powerful Raycast extension designed for developers and cryptocurrency enthusiasts seeking to efficiently create mult… | uladkaminski | macOS | [store](https://www.raycast.com/uladkaminski/solana-wallets-generation) |
 | [Quikwallet](https://github.com/raycast/extensions/tree/main/extensions/quikwallet) | 26 | View Solana wallet balances and prepare transactions | devsargam | macOS | [store](https://www.raycast.com/devsargam/quikwallet) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Binance Portfolio](https://github.com/raycast/extensions/tree/main/extensions/binance) | 1,140 | Track your Binance portfolio | grzegorzkrukowski | macOS | [store](https://www.raycast.com/grzegorzkrukowski/binance) |
+| [Binance Portfolio](https://github.com/raycast/extensions/tree/main/extensions/binance) | 1,141 | Track your Binance portfolio | grzegorzkrukowski | macOS | [store](https://www.raycast.com/grzegorzkrukowski/binance) |
 | [DEX Screener](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) | 362 | Search token pair in dexscreener.com | wp-lai | macOS | [store](https://www.raycast.com/wp-lai/dex-screener) |
 | [Blockchain Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) | 341 | Track and caculate blockchain gas fees right in your Raycast! | Vonernue | macOS | [store](https://www.raycast.com/Vonernue/blockchain-gas-tracker) |
 | [Mempool](https://github.com/raycast/extensions/tree/main/extensions/mempool) | 176 | Get current bitcoin mempool information | dillionverma | macOS | [store](https://www.raycast.com/dillionverma/mempool) |
 | [Vortex](https://github.com/raycast/extensions/tree/main/extensions/vortex) | 130 | The fastest way to use bitcoin on macOS | saunter | macOS | [store](https://www.raycast.com/saunter/vortex) |
 | [Aave Contract Search](https://github.com/raycast/extensions/tree/main/extensions/aave-search) | 32 | Quickly search and access official Aave ecosystem smart contract addresses across multiple networks | smbdy | macOS | [store](https://www.raycast.com/smbdy/aave-search) |
 | [DolarCripto AR](https://github.com/raycast/extensions/tree/main/extensions/dolar-cripto-ar) | 23 | DolarCripto AR es una extensión para Raycast que te permite visualizar en tiempo real las cotizaciones de los diferentes dólares en Argentina (CCL, MEP y Blue)… | manuel_de_la_torre | macOS, Windows | [store](https://www.raycast.com/manuel_de_la_torre/dolar-cripto-ar) |
-| [Starling](https://github.com/raycast/extensions/tree/main/extensions/starling) | 22 | Securely manage Starling accounts with your own personal access token | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/starling) |
+| [Starling](https://github.com/raycast/extensions/tree/main/extensions/starling) | 23 | Securely manage Starling accounts with your own personal access token | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/starling) |
 | [Pera Algorand Explorer](https://github.com/raycast/extensions/tree/main/extensions/pera-explorer) | 18 | Search any ASA or NFT in Algorand (ALGO) Blockchain | akgunberk | macOS | [store](https://www.raycast.com/akgunberk/pera-explorer) |
 | [Zerodha Portfolio (Kite+Coin)](https://github.com/raycast/extensions/tree/main/extensions/zerodha-portfolio-kite-coin) | 11 | View your zerodha kite and zerodha coin portfolio | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/zerodha-portfolio-kite-coin) |
 | [CoveCast](https://github.com/raycast/extensions/tree/main/extensions/cove-cast) | 5 | Copy a token contract address anywhere, hit a hotkey, auto-detect the chain, pick a USD amount, and open the matching Cove Telegram bot deeplink. | bitski | macOS | [store](https://www.raycast.com/bitski/cove-cast) |
