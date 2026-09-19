@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `c6d5954b4b`
+
+**Updated (1):** [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser)
+
 ## 2026-09-19 — upstream `c67089ab9f`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
