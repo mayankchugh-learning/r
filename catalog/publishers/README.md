@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,248,021 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,248,052 |
 | 2 | [raycast](./id/raycast.md) | 11 | 877,636 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 745,580 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 549,971 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 745,581 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 549,974 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 481,726 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 477,389 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 446,261 |
@@ -111,7 +111,7 @@
 | 101 | [maggie](https://www.raycast.com/maggie) | 2 | 23,544 |
 | 102 | [ajaypremshankar](https://www.raycast.com/ajaypremshankar) | 2 | 23,215 |
 | 103 | [pomdtr](https://www.raycast.com/pomdtr) | 6 | 23,111 |
-| 104 | [Keyruu](https://www.raycast.com/Keyruu) | 1 | 22,773 |
+| 104 | [Keyruu](https://www.raycast.com/Keyruu) | 1 | 22,782 |
 | 105 | [xilopaint](./id/xilopaint.md) | 10 | 22,444 |
 | 106 | [o1y](https://www.raycast.com/o1y) | 1 | 21,848 |
 | 107 | [devahschaefers](https://www.raycast.com/devahschaefers) | 1 | 21,508 |

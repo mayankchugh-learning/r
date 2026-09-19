@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "07dc3a0d70665cdb4e926466ba2e23e4abb364af",
-  "generatedAt": "2026-09-19T07:51:20.457Z",
-  "downloadsRefreshedAt": "2026-09-19T07:51:20.043Z",
+  "commit": "c4784d41931bbef23bf5e1f961b4fb5d4426b235",
+  "generatedAt": "2026-09-19T07:55:37.131Z",
+  "downloadsRefreshedAt": "2026-09-19T07:55:36.382Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 586856
+      "downloads": 586859
     },
     {
       "dir": "color-shades",
@@ -15147,7 +15147,7 @@
       ],
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
-      "treeSha": "307d7b2ee23e3941b10e4c87e37de5b65b669f25",
+      "treeSha": "9a179e7dbaeb683021b35d0f9822602a3137c773",
       "downloads": 187
     },
     {
@@ -22583,7 +22583,7 @@
       "store": "https://www.raycast.com/thomas/google-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-calendar",
       "treeSha": "6e617d21ba6d8629e2b6406de9f4a16dc4d03c86",
-      "downloads": 68103
+      "downloads": 68131
     },
     {
       "dir": "google-calendar-quickadd",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 549971
+      "downloads": 549974
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 745580
+      "downloads": 745581
     },
     {
       "dir": "kimai",
@@ -68751,7 +68751,7 @@
       "store": "https://www.raycast.com/Keyruu/zen-browser",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zen-browser",
       "treeSha": "b4a8f18f8bd58369e56072c2ba8650a10d97512e",
-      "downloads": 22773
+      "downloads": 22782
     },
     {
       "dir": "zen-mode",
