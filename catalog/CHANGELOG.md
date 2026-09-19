@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `103f154358`
+
+**Updated (1):** [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh)
+
 ## 2026-09-19 — upstream `692c4a927b`
 
 **Updated (1):** [Transmission](https://github.com/raycast/extensions/tree/main/extensions/transmission)
