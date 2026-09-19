@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "14021c7a1a24d1b15e4cd0de2084c526222cad38",
-  "generatedAt": "2026-09-19T06:50:30.543Z",
-  "downloadsRefreshedAt": "2026-09-19T06:50:29.281Z",
+  "commit": "c67089ab9f65cc39602344fb3d7259602eaabbd2",
+  "generatedAt": "2026-09-19T07:06:20.045Z",
+  "downloadsRefreshedAt": "2026-09-19T07:06:19.611Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 586773
+      "downloads": 586787
     },
     {
       "dir": "color-shades",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 549921
+      "downloads": 549933
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 745502
+      "downloads": 745516
     },
     {
       "dir": "kimai",
@@ -35526,10 +35526,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/twomental/modbus-toolkit",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/modbus-toolkit",
       "treeSha": "3d2c0ab8cd59acdfa69ffdc7eafa385391d359fc",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "model-context-protocol-registry",
@@ -35548,8 +35548,8 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "824666fcdbd47305cf902cc7bd3dfc57cf42bae7",
-      "downloads": 41756
+      "treeSha": "0da7164f254013df7f9464d3e1d12e67338e646e",
+      "downloads": 41757
     },
     {
       "dir": "models-dev",
