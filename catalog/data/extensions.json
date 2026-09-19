@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "dacc72c2be380d6320af16d9f58f7c7fe5c5f834",
-  "generatedAt": "2026-09-19T08:55:28.179Z",
-  "downloadsRefreshedAt": "2026-09-19T08:55:27.792Z",
+  "commit": "c4eee4281c0647948ac1955fadd6f7dfc9c16b42",
+  "generatedAt": "2026-09-19T09:08:29.387Z",
+  "downloadsRefreshedAt": "2026-09-19T09:08:28.786Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 586947
+      "downloads": 586959
     },
     {
       "dir": "color-shades",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 550033
+      "downloads": 550041
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 745654
+      "downloads": 745665
     },
     {
       "dir": "kimai",
@@ -44553,7 +44553,7 @@
       "description": "Find open ports and close them",
       "author": "lucaschultz",
       "owner": null,
-      "contributors": 5,
+      "contributors": 6,
       "categories": [
         "Developer Tools",
         "Productivity",
@@ -44566,8 +44566,8 @@
       ],
       "store": "https://www.raycast.com/lucaschultz/port-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/port-manager",
-      "treeSha": "e9d8070b6c81456fa5040e2d4a2697b598d988ac",
-      "downloads": 59756
+      "treeSha": "9e21bae5e26e3a3f615143503c9fd34b828b0033",
+      "downloads": 59775
     },
     {
       "dir": "portal-wholesale",
