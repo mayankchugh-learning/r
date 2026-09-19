@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7b2bae1cd9d004c68932ad7f81089b03e74a9310",
-  "generatedAt": "2026-09-19T05:08:45.742Z",
-  "downloadsRefreshedAt": "2026-09-19T05:08:44.989Z",
+  "commit": "e3b1f9ab1e19686c0bf0c6bd407f81703a23104a",
+  "generatedAt": "2026-09-19T05:31:29.034Z",
+  "downloadsRefreshedAt": "2026-09-19T05:31:28.258Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 586648
+      "downloads": 586670
     },
     {
       "dir": "color-shades",
@@ -12706,8 +12706,8 @@
       ],
       "store": "https://www.raycast.com/tm.wrnr/dashlane-vault",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault",
-      "treeSha": "7d568b7b206d457752642bd95e6a7de78812a3f3",
-      "downloads": 1579
+      "treeSha": "3ab5bbce7ea92e308eeed05598420997e00b1d5f",
+      "downloads": 1580
     },
     {
       "dir": "databuddy",
@@ -22623,7 +22623,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 549829
+      "downloads": 549845
     },
     {
       "dir": "google-chrome-profiles",
@@ -29048,7 +29048,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 745393
+      "downloads": 745416
     },
     {
       "dir": "kimai",

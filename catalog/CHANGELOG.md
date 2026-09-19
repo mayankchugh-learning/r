@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `e3b1f9ab1e`
+
+**Updated (1):** [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault)
+
 ## 2026-09-19 — upstream `7b2bae1cd9`
 
 **Added (1):** [Modbus Toolkit](https://github.com/raycast/extensions/tree/main/extensions/modbus-toolkit)

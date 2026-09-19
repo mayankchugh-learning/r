@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,247,813 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,247,835 |
 | 2 | [raycast](./id/raycast.md) | 11 | 877,628 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 745,393 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 549,829 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 745,416 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 549,845 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 481,726 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 477,389 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 446,261 |
@@ -452,8 +452,8 @@
 | 442 | [noah_tran](https://www.raycast.com/noah_tran) | 1 | 2,091 |
 | 443 | [yazanzaid00](https://www.raycast.com/yazanzaid00) | 2 | 2,083 |
 | 444 | [guide](https://www.raycast.com/guide) | 2 | 2,075 |
-| 445 | [abhisheksatre](https://www.raycast.com/abhisheksatre) | 1 | 2,071 |
-| 446 | [tm.wrnr](https://www.raycast.com/tm.wrnr) | 4 | 2,070 |
+| 445 | [tm.wrnr](https://www.raycast.com/tm.wrnr) | 4 | 2,071 |
+| 446 | [abhisheksatre](https://www.raycast.com/abhisheksatre) | 1 | 2,071 |
 | 447 | [khlebobul](https://www.raycast.com/khlebobul) | 7 | 2,065 |
 | 448 | [mikeozornin](https://www.raycast.com/mikeozornin) | 1 | 2,065 |
 | 449 | [Envl](https://www.raycast.com/Envl) | 4 | 2,058 |
