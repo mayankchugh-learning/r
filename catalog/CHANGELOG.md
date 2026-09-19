@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `692c4a927b`
+
+**Updated (1):** [Transmission](https://github.com/raycast/extensions/tree/main/extensions/transmission)
+
 ## 2026-09-19 — upstream `e3b1f9ab1e`
 
 **Updated (1):** [Dashlane Vault](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault)
