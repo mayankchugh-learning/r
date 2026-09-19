@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-19 — upstream `dacc72c2be`
+
+**Updated (1):** [Links Folder](https://github.com/raycast/extensions/tree/main/extensions/links-folder)
+
 ## 2026-09-19 — upstream `c4784d4193`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
