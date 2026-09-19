@@ -67,7 +67,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 22,782 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
+| [Zen Browser](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) | 22,773 | Search and open tabs from bookmarks and history in Zen Browser. | Keyruu | macOS, Windows | [store](https://www.raycast.com/Keyruu/zen-browser) |
 | [Copy Path](https://github.com/raycast/extensions/tree/main/extensions/copy-path) | 22,291 | Copy the path of the open folder, selected file or the URL of the current browser tab. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/copy-path) |
 | [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 10,866 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
 | [Refresh Browsers](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) | 358 | Refresh all browser tabs | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/refresh-browsers) |

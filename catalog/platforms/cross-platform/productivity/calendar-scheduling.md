@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 68,131 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 68,103 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
 | [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 24,626 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
 | [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 225 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
 | [Nepali Calendar](https://github.com/raycast/extensions/tree/main/extensions/nepali-calendar) | 76 | View and navigate the Nepali calendar (Bikram Sambat) with support for both English and Nepali languages. Customize your view by setting the first day of the w… | adarshdoesntcode | macOS, Windows | [store](https://www.raycast.com/adarshdoesntcode/nepali-calendar) |

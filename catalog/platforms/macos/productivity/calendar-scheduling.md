@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 68,131 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
+| [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar) | 68,103 | Manage your Google calendar easily. Create events, search contacts, and check out your upcoming schedule. | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/google-calendar) |
 | [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event) | 42,816 | Create a calendar event using natural language | mblode | macOS | [store](https://www.raycast.com/mblode/quick-event) |
 | [Quick Calendar](https://github.com/raycast/extensions/tree/main/extensions/calendar) | 24,626 | View calendar month-by-month | fuksman | macOS, Windows | [store](https://www.raycast.com/fuksman/calendar) |
 | [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 5,188 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
