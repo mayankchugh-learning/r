@@ -18,11 +18,11 @@
 | 8 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,188 |
 | 9 | [chrismessina](./id/chrismessina.md) | 16 | 7,357 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,810 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,251,124 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,251,416 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 328,706 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 447,151 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,247 |
-| 15 | [litomore](./id/litomore.md) | 13 | 14,045 |
+| 15 | [litomore](./id/litomore.md) | 13 | 14,048 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 10,952 |
 | 17 | [kud](./id/kud.md) | 13 | 7,052 |
 | 18 | [raycast](./id/raycast.md) | 11 | 879,394 |
@@ -233,7 +233,7 @@
 | 223 | [stevensd2m](https://www.raycast.com/stevensd2m) | 2 | 4,366 |
 | 224 | [alewandowski](https://www.raycast.com/alewandowski) | 2 | 4,363 |
 | 225 | [astrit](https://www.raycast.com/astrit) | 2 | 4,071 |
-| 226 | [AbhinavPalacharla](https://www.raycast.com/AbhinavPalacharla) | 2 | 4,026 |
+| 226 | [AbhinavPalacharla](https://www.raycast.com/AbhinavPalacharla) | 2 | 4,029 |
 | 227 | [stephendolan](https://www.raycast.com/stephendolan) | 2 | 4,019 |
 | 228 | [yonbergman](https://www.raycast.com/yonbergman) | 2 | 4,019 |
 | 229 | [niemtec](https://www.raycast.com/niemtec) | 2 | 3,852 |
@@ -396,8 +396,8 @@
 | 386 | [TwoMental](https://www.raycast.com/twomental) | 2 | 14 |
 | 387 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 13 |
 | 388 | github-next | 2 | — |
-| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 747,237 |
-| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 551,159 |
+| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 747,527 |
+| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 551,365 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 387,892 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 323,284 |
 | 393 | [nhojb](https://www.raycast.com/nhojb) | 1 | 284,023 |

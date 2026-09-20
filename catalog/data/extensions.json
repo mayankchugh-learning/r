@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9914bbd0595774cfcaa2165d817272b299058d57",
-  "generatedAt": "2026-09-20T07:27:39.440Z",
-  "downloadsRefreshedAt": "2026-09-20T07:27:38.402Z",
+  "commit": "d59b7df0746fecc09f2fa5013a37a07a4fd5db6f",
+  "generatedAt": "2026-09-20T11:26:02.472Z",
+  "downloadsRefreshedAt": "2026-09-20T11:26:01.767Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 588578
+      "downloads": 588870
     },
     {
       "dir": "color-shades",
@@ -20014,8 +20014,8 @@
       ],
       "store": "https://www.raycast.com/litomore/forked-extensions",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/forked-extensions",
-      "treeSha": "8a51af6cdfdbeb99d639a9bbc6dace107208d173",
-      "downloads": 868
+      "treeSha": "43244feeb9e9c830dae770fdf7413dfee2d68030",
+      "downloads": 871
     },
     {
       "dir": "format-graphql",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 551159
+      "downloads": 551365
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 747237
+      "downloads": 747527
     },
     {
       "dir": "kimai",
@@ -37178,7 +37178,7 @@
       "store": "https://www.raycast.com/AbhinavPalacharla/nba-game-viewer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer",
       "treeSha": "e3eda6f3e653d2288f1b27f3979f326f6919e78c",
-      "downloads": 3118
+      "downloads": 3121
     },
     {
       "dir": "near-rewards",
