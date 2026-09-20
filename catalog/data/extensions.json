@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "568f3aae234bd4485245eeead72a6ca9da7dad12",
-  "generatedAt": "2026-09-20T17:00:35.178Z",
-  "downloadsRefreshedAt": "2026-09-20T17:00:34.787Z",
+  "commit": "0ea02115449c3ad3fd6a267c40141e4bf6de8e0c",
+  "generatedAt": "2026-09-20T17:06:27.238Z",
+  "downloadsRefreshedAt": "2026-09-20T17:06:25.870Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 589389
+      "downloads": 589397
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 551719
+      "downloads": 551721
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 748020
+      "downloads": 748029
     },
     {
       "dir": "kimai",
@@ -37177,7 +37177,7 @@
       ],
       "store": "https://www.raycast.com/AbhinavPalacharla/nba-game-viewer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer",
-      "treeSha": "e3eda6f3e653d2288f1b27f3979f326f6919e78c",
+      "treeSha": "0607d0ef1be1f343e95f84ed9d3530c3d3b5e4a8",
       "downloads": 3125
     },
     {
