@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-20 — upstream `9914bbd059`
+
+**Updated (1):** [Apple Developer Docs](https://github.com/raycast/extensions/tree/main/extensions/apple-developer-docs)
+
 ## 2026-09-20 — upstream `4144cc0537`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)

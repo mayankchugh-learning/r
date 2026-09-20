@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4144cc0537f431d310b83287655ab59a7fa694b3",
-  "generatedAt": "2026-09-20T07:26:34.916Z",
-  "downloadsRefreshedAt": "2026-09-20T07:26:34.539Z",
+  "commit": "9914bbd0595774cfcaa2165d817272b299058d57",
+  "generatedAt": "2026-09-20T07:27:39.440Z",
+  "downloadsRefreshedAt": "2026-09-20T07:27:38.402Z",
   "count": 3300,
   "extensions": [
     {
@@ -2477,7 +2477,7 @@
       ],
       "store": "https://www.raycast.com/cali/apple-developer-docs",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-developer-docs",
-      "treeSha": "13d62f01512f94e6078e4d220932c84f508a80b0",
+      "treeSha": "f535f58a88d6a26c0f641e51d0ebca2051dc83ab",
       "downloads": 2351
     },
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 588577
+      "downloads": 588578
     },
     {
       "dir": "color-shades",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 747236
+      "downloads": 747237
     },
     {
       "dir": "kimai",
@@ -37178,7 +37178,7 @@
       "store": "https://www.raycast.com/AbhinavPalacharla/nba-game-viewer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer",
       "treeSha": "e3eda6f3e653d2288f1b27f3979f326f6919e78c",
-      "downloads": 3121
+      "downloads": 3118
     },
     {
       "dir": "near-rewards",
