@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-20 — upstream `dc18b8722d`
+
+**Updated (1):** [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync)
+
 ## 2026-09-20 — upstream `05c7cd671b`
 
 **Updated (1):** [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api)
