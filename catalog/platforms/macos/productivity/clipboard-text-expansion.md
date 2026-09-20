@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 58,739 | Extract text from screen captures and clipboard images locally via OCR | huzef44 | macOS, Windows | [store](https://www.raycast.com/huzef44/screenocr) |
+| [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 58,748 | Extract text from screen captures and clipboard images locally via OCR | huzef44 | macOS, Windows | [store](https://www.raycast.com/huzef44/screenocr) |
 | [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 40,967 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
 | [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover) | 27,298 | Add selected files or clipboard content to Dropover | jag-k | macOS | [store](https://www.raycast.com/jag-k/dropover) |
 | [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 25,900 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |

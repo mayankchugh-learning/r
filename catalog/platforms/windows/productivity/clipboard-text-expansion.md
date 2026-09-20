@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 58,739 | Extract text from screen captures and clipboard images locally via OCR | huzef44 | macOS, Windows | [store](https://www.raycast.com/huzef44/screenocr) |
+| [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 58,748 | Extract text from screen captures and clipboard images locally via OCR | huzef44 | macOS, Windows | [store](https://www.raycast.com/huzef44/screenocr) |
 | [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 40,967 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
 | [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) | 25,900 | Paste text from the clipboard as any format. | koinzhang | macOS, Windows | [store](https://www.raycast.com/koinzhang/paste-as-plain-text) |
 | [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) | 20,036 | Browse and copy-paste common Unicode symbols. | mmazzarolo | macOS, Windows | [store](https://www.raycast.com/mmazzarolo/unicode-symbols) |

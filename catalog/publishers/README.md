@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,251,108 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,251,117 |
 | 2 | [raycast](./id/raycast.md) | 11 | 879,394 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 747,218 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 551,144 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 747,231 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 551,155 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 482,737 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 478,351 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 447,151 |
@@ -45,7 +45,7 @@
 | 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 95,236 |
 | 36 | [doist](https://www.raycast.com/doist) | 1 | 93,930 |
 | 37 | [tegola](https://www.raycast.com/tegola) | 2 | 89,442 |
-| 38 | [huzef44](https://www.raycast.com/huzef44) | 6 | 82,056 |
+| 38 | [huzef44](https://www.raycast.com/huzef44) | 6 | 82,065 |
 | 39 | [FezVrasta](https://www.raycast.com/FezVrasta) | 5 | 76,495 |
 | 40 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 75,619 |
 | 41 | [benvp](https://www.raycast.com/benvp) | 1 | 73,853 |
@@ -120,7 +120,7 @@
 | 110 | [Alex_](https://www.raycast.com/Alex_) | 1 | 20,726 |
 | 111 | [xeric](https://www.raycast.com/xeric) | 2 | 20,662 |
 | 112 | [timothy_boye](https://www.raycast.com/timothy_boye) | 1 | 20,463 |
-| 113 | [JinShi](https://www.raycast.com/JinShi) | 4 | 20,194 |
+| 113 | [JinShi](https://www.raycast.com/JinShi) | 4 | 20,195 |
 | 114 | [mmazzarolo](https://www.raycast.com/mmazzarolo) | 1 | 20,036 |
 | 115 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 19,252 |
 | 116 | [ViGeng](https://www.raycast.com/ViGeng) | 9 | 19,036 |

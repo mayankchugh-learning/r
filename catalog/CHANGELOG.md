@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-20 — upstream `dba5687540`
+
+**Updated (2):** [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom), [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer)
+
 ## 2026-09-20 — upstream `c21091c888`
 
 **Updated (1):** [Archiver](https://github.com/raycast/extensions/tree/main/extensions/archiver)
