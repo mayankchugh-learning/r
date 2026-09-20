@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-20 — upstream `c21091c888`
+
+**Updated (1):** [Archiver](https://github.com/raycast/extensions/tree/main/extensions/archiver)
+
 ## 2026-09-20 — upstream `acaa64d1dc`
 
 **Updated (1):** [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr)

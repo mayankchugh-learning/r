@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "acaa64d1dc1be694f05cd65f46b67cae42872797",
-  "generatedAt": "2026-09-20T07:12:19.955Z",
-  "downloadsRefreshedAt": "2026-09-20T07:12:19.561Z",
+  "commit": "c21091c888022a19f7248ac429f86923e6523fce",
+  "generatedAt": "2026-09-20T07:14:19.632Z",
+  "downloadsRefreshedAt": "2026-09-20T07:14:18.820Z",
   "count": 3300,
   "extensions": [
     {
@@ -2884,7 +2884,7 @@
       "description": "An archive tool for compressing or extracting, supporting multiple formats.",
       "author": "JinShi",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Data",
         "Productivity"
@@ -2895,7 +2895,7 @@
       ],
       "store": "https://www.raycast.com/JinShi/archiver",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/archiver",
-      "treeSha": "00fcf705bf7da5c7993bfade79fbe09f9bd33c27",
+      "treeSha": "63edc2d2c6c2b0561744f3b41d8cbaa07594a4d0",
       "downloads": 3037
     },
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 588559
+      "downloads": 588562
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 551143
+      "downloads": 551144
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 747216
+      "downloads": 747218
     },
     {
       "dir": "kimai",
