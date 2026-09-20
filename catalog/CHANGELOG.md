@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-20 — upstream `dba6ebba91`
+
+**Updated (1):** [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse)
+
 ## 2026-09-19 — upstream `7d98dd1348`
 
 **Updated (1):** [LeetCode](https://github.com/raycast/extensions/tree/main/extensions/leetcode)

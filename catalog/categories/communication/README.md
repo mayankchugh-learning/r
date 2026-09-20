@@ -2,7 +2,7 @@
 
 158 extensions · [← all categories](../README.md)
 
-macOS: 156 · Windows: 55
+macOS: 156 · Windows: 56
 
 ## Conversations
 

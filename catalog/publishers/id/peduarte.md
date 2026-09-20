@@ -1,27 +1,27 @@
 # peduarte
 
-14 extensions · 28,227 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
+14 extensions · 28,247 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
 
 ## Fun (4)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [1-Click Confetti](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) | 5,782 | Confetti Gun with just 1 click. | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/1-click-confetti) |
-| [Fancy Text](https://github.com/raycast/extensions/tree/main/extensions/fancy-text) | 5,741 | A fancy text generator to turn your normal text into fancy text | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/fancy-text) |
-| [Open Camera Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/open-camera-menu-bar) | 1,905 | Open the camera command from the menu bar | peduarte | macOS | [store](https://www.raycast.com/peduarte/open-camera-menu-bar) |
-| [Restore Photos](https://github.com/raycast/extensions/tree/main/extensions/restore-photo) | 795 | Restore old photos using AI. Powered by https://restorephotos.io. | peduarte | macOS | [store](https://www.raycast.com/peduarte/restore-photos) |
+| [1-Click Confetti](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) | 5,783 | Confetti Gun with just 1 click. | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/1-click-confetti) |
+| [Fancy Text](https://github.com/raycast/extensions/tree/main/extensions/fancy-text) | 5,747 | A fancy text generator to turn your normal text into fancy text | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/fancy-text) |
+| [Open Camera Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/open-camera-menu-bar) | 1,906 | Open the camera command from the menu bar | peduarte | macOS | [store](https://www.raycast.com/peduarte/open-camera-menu-bar) |
+| [Restore Photos](https://github.com/raycast/extensions/tree/main/extensions/restore-photo) | 796 | Restore old photos using AI. Powered by https://restorephotos.io. | peduarte | macOS | [store](https://www.raycast.com/peduarte/restore-photos) |
 
 ## System (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 8,363 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
+| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 8,368 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 
 ## Web (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 2,014 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
+| [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 2,015 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
 | [Web3 Profile](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) | 440 | Search for ENS names and view its profile — Avatar, description, social URLs and more! | peduarte | macOS | [store](https://www.raycast.com/peduarte/web3-profile) |
 | [Ethereum Price](https://github.com/raycast/extensions/tree/main/extensions/ethereum-price) | 279 | See the current price of Ethereum in various currencies. | peduarte | macOS | [store](https://www.raycast.com/peduarte/ethereum-price) |
 | [Lenscast](https://github.com/raycast/extensions/tree/main/extensions/lenscast) | 110 | Web3 Social Raycast Extension built with Lens Protocol | peduarte | macOS | [store](https://www.raycast.com/peduarte/lenscast) |
@@ -32,11 +32,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dash Off](https://github.com/raycast/extensions/tree/main/extensions/dash-off) | 1,134 | The fastest way to dash off a quick email to yourself and others | peduarte | macOS | [store](https://www.raycast.com/peduarte/dash-off) |
-| [Descript to YouTube Chapters](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) | 415 | Convert Descript's transcript file into YouTube Chapters | peduarte | macOS | [store](https://www.raycast.com/peduarte/descript-to-youtube-chapters) |
+| [Dash Off](https://github.com/raycast/extensions/tree/main/extensions/dash-off) | 1,136 | The fastest way to dash off a quick email to yourself and others | peduarte | macOS | [store](https://www.raycast.com/peduarte/dash-off) |
+| [Descript to YouTube Chapters](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) | 417 | Convert Descript's transcript file into YouTube Chapters | peduarte | macOS | [store](https://www.raycast.com/peduarte/descript-to-youtube-chapters) |
 
 ## Uncategorized (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Radix](https://github.com/raycast/extensions/tree/main/extensions/radix) | 1,133 | Search and open Radix content directly from Raycast. | peduarte | macOS | [store](https://www.raycast.com/peduarte/radix) |
+| [Radix](https://github.com/raycast/extensions/tree/main/extensions/radix) | 1,134 | Search and open Radix content directly from Raycast. | peduarte | macOS | [store](https://www.raycast.com/peduarte/radix) |

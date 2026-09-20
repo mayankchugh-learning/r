@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | 3,242 | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
-| [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,284 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
+| [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | 3,244 | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
+| [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,286 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
 | [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background---replicate-api) | 1,014 | Remove image backgrounds instantly using AI Powered by Replicate | NathanThomassin | macOS, Windows | [store](https://www.raycast.com/NathanThomassin/remove-background---replicate-api) |
-| [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) | 855 | Modify screen captures using the latest generative AI models. | jochemloedeman | macOS | [store](https://www.raycast.com/jochemloedeman/ai-screenshot) |
+| [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) | 856 | Modify screen captures using the latest generative AI models. | jochemloedeman | macOS | [store](https://www.raycast.com/jochemloedeman/ai-screenshot) |
 | [Stablecog](https://github.com/raycast/extensions/tree/main/extensions/stablecog) | 760 | Create amazing art in seconds with AI. Generate and upscale images with Stablecog. | stablecog (org) | macOS | [store](https://www.raycast.com/stablecog/stablecog) |
 | [Whimsical](https://github.com/raycast/extensions/tree/main/extensions/whimsical) | 560 | Transform ideas into beautiful diagrams using AI. Automatically generates flowcharts, mindmaps, and sequence diagrams from natural language descriptions. | kud | macOS | [store](https://www.raycast.com/kud/whimsical) |
 | [Hugeicons UI](https://github.com/raycast/extensions/tree/main/extensions/hugeicons-ui) | 234 | Search, preview, bookmark, and use Hugeicons icons across Raycast and Raycast AI. | adnan_tresnjo | macOS | [store](https://www.raycast.com/adnan_tresnjo/hugeicons-ui) |
@@ -16,5 +16,5 @@
 | [Alloy](https://github.com/raycast/extensions/tree/main/extensions/alloy) | 43 | AI Prototyping for Product Management | alloyprototyping | macOS | [store](https://www.raycast.com/alloyprototyping/alloy) |
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 43 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
 | [Design File Finder](https://github.com/raycast/extensions/tree/main/extensions/design-file-finder) | 22 | Search, sort by recency, and launch design project files (.prproj, .psd, .psb, .ai, .aep) across mounted drives. | yusoufu | macOS | [store](https://www.raycast.com/yusoufu/design-file-finder) |
-| [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 15 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
+| [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 16 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
 | [AI to PDF](https://github.com/raycast/extensions/tree/main/extensions/ai-to-pdf) | 10 | Convert Adobe Illustrator (.ai) files to print-ready PDF, with or without bleed, using Illustrator's own PDF export. | guus | macOS | [store](https://www.raycast.com/guus/ai-to-pdf) |

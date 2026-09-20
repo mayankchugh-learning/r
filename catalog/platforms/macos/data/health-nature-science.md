@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Workouts](https://github.com/raycast/extensions/tree/main/extensions/workouts) | 2,074 | Stay on top of your workouts from Strava | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/workouts) |
-| [Element](https://github.com/raycast/extensions/tree/main/extensions/element) | 1,162 | Show information about an element of the periodic table. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/element) |
+| [Workouts](https://github.com/raycast/extensions/tree/main/extensions/workouts) | 2,076 | Stay on top of your workouts from Strava | samuelkraft | macOS, Windows | [store](https://www.raycast.com/samuelkraft/workouts) |
+| [Element](https://github.com/raycast/extensions/tree/main/extensions/element) | 1,163 | Show information about an element of the periodic table. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/element) |
 | [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) | 631 | Your WHOOP data, now at your fingertips. Monitor your recovery, sleep, strain, workouts and more! Favourite the Overview command for quick access to your WHOOP… | josha1len | macOS | [store](https://www.raycast.com/josha1len/whoop) |
-| [Is It Toxic To?](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) | 566 | Check if a plant is toxic to an animal | chesterhow | macOS | [store](https://www.raycast.com/chesterhow/is-it-toxic-to) |
+| [Is It Toxic To?](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) | 567 | Check if a plant is toxic to an animal | chesterhow | macOS | [store](https://www.raycast.com/chesterhow/is-it-toxic-to) |
 | [Horoscope](https://github.com/raycast/extensions/tree/main/extensions/horoscope) | 303 | Get Daily, Weekly or Monthly Horoscope by Sign | xmok | macOS | [store](https://www.raycast.com/xmok/horoscope) |
 | [Hevy](https://github.com/raycast/extensions/tree/main/extensions/hevy) | 118 | Your Hevy workout data at your fingertips via Raycast | clins1994 | macOS, Windows | [store](https://www.raycast.com/clins1994/hevy) |
 | [Emissions Calculator](https://github.com/raycast/extensions/tree/main/extensions/emissions-calculator) | 90 | Calculate the carbon emissions for the given distance and mode of transport. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/emissions-calculator) |

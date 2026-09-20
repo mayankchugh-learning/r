@@ -2,15 +2,15 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · **Email** · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-8 of 358 extensions · [← Cross-platform · Productivity](./README.md)
+8 of 359 extensions · [← Cross-platform · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 4,446 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS, Windows | [store](https://www.raycast.com/svenhofman/hidemyemail) |
+| [Hide My Email](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) | 4,454 | Quick and easy way to view and manage your Hide My Email addresses. | svenhofman | macOS, Windows | [store](https://www.raycast.com/svenhofman/hidemyemail) |
 | [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) | 1,056 | View your latest email verficiation codes. | chroxify | macOS, Windows | [store](https://www.raycast.com/chroxify/otp-inbox) |
-| [Workflowy Inbox](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) | 712 | Quickly add items to your Workflowy inbox. (This is an independent extension and is not created by Workflowy.) | cameron_pak | macOS, Windows | [store](https://www.raycast.com/cameron_pak/workflowy-inbox) |
+| [Workflowy Inbox](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) | 713 | Quickly add items to your Workflowy inbox. (This is an independent extension and is not created by Workflowy.) | cameron_pak | macOS, Windows | [store](https://www.raycast.com/cameron_pak/workflowy-inbox) |
 | [Addy](https://github.com/raycast/extensions/tree/main/extensions/anonaddy) | 633 | Easily generate and manage your Addy email aliases directly from your keyboard. | http.james | macOS, Windows | [store](https://www.raycast.com/http.james/anonaddy) |
 | [SimpleLogin](https://github.com/raycast/extensions/tree/main/extensions/simple-login) | 188 | Create and manage email aliases with SimpleLogin to protect your inbox from spam and trackers | ciko | macOS, Windows | [store](https://www.raycast.com/ciko/simple-login) |
-| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | 53 | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/spark-mail) |
+| [Spark Mail](https://github.com/raycast/extensions/tree/main/extensions/spark-mail) | 54 | Search, browse, read, and compose Spark email from Raycast via the Spark CLI. | keito4 | macOS, Windows | [store](https://www.raycast.com/keito4/spark-mail) |
 | [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) | 25 | Find the verified email address of any professional. | morrissimons | macOS, Windows | [store](https://www.raycast.com/morrissimons/mail-finder) |
 | [Bouncer Deliverability](https://github.com/raycast/extensions/tree/main/extensions/bouncer-email-verifier) | 9 | Check whether an email address is deliverable, or whether a domain can receive mail, with Bouncer | eKamran | macOS, Windows | [store](https://www.raycast.com/eKamran/bouncer-email-verifier) |
