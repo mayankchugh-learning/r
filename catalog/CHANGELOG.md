@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-20 — upstream `06724cac01`
+
+**Updated (1):** [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira)
+
 ## 2026-09-20 — upstream `dba6ebba91`
 
 **Updated (1):** [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse)
