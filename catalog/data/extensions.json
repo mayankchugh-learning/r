@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d59b7df0746fecc09f2fa5013a37a07a4fd5db6f",
-  "generatedAt": "2026-09-20T11:26:02.472Z",
-  "downloadsRefreshedAt": "2026-09-20T11:26:01.767Z",
+  "commit": "3b83344faef3710c035a722cc2e3bc40df34482f",
+  "generatedAt": "2026-09-20T11:57:37.163Z",
+  "downloadsRefreshedAt": "2026-09-20T11:57:36.552Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 588870
+      "downloads": 588917
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 551365
+      "downloads": 551396
     },
     {
       "dir": "google-chrome-profiles",
@@ -25497,7 +25497,7 @@
       ],
       "store": "https://www.raycast.com/tony_hule/hule",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hule",
-      "treeSha": "6fe6d66d6f81c108d9c38d51828cbd4030620938",
+      "treeSha": "9667f849874fe161fc8269286f60309064f9403c",
       "downloads": 0
     },
     {
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 747527
+      "downloads": 747569
     },
     {
       "dir": "kimai",
