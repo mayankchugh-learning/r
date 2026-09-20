@@ -13,7 +13,7 @@
 | [Shell](https://github.com/raycast/extensions/tree/main/extensions/shell) | 73,900 | Run shell commands from Raycast | asubbotin | macOS, Windows | [store](https://www.raycast.com/asubbotin/shell) |
 | [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 73,853 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
 | [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 59,064 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
-| [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 58,739 | Extract text from screen captures locally via OCR | huzef44 | macOS | [store](https://www.raycast.com/huzef44/screenocr) |
+| [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 58,739 | Extract text from screen captures and clipboard images locally via OCR | huzef44 | macOS, Windows | [store](https://www.raycast.com/huzef44/screenocr) |
 | [Spotify Controls](https://github.com/raycast/extensions/tree/main/extensions/spotify-controls) | 45,040 | Control the Spotify app for macOS with your keyboard. | thomas | macOS | [store](https://www.raycast.com/thomas/spotify-controls) |
 | [Svgl](https://github.com/raycast/extensions/tree/main/extensions/svgl) | 41,610 | Search SVG logos via svgl | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/svgl) |
 | [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 30,331 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |

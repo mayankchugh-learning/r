@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f27d73560a92342afad7620d50014a80a5fce476",
-  "generatedAt": "2026-09-20T07:04:31.078Z",
-  "downloadsRefreshedAt": "2026-09-20T07:04:30.340Z",
+  "commit": "acaa64d1dc1be694f05cd65f46b67cae42872797",
+  "generatedAt": "2026-09-20T07:12:19.955Z",
+  "downloadsRefreshedAt": "2026-09-20T07:12:19.561Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 588547
+      "downloads": 588559
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 551135
+      "downloads": 551143
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 747208
+      "downloads": 747216
     },
     {
       "dir": "kimai",
@@ -51865,20 +51865,21 @@
       "dir": "screenocr",
       "name": "screenocr",
       "title": "ScreenOCR",
-      "description": "Extract text from screen captures locally via OCR",
+      "description": "Extract text from screen captures and clipboard images locally via OCR",
       "author": "huzef44",
       "owner": null,
-      "contributors": 5,
+      "contributors": 6,
       "categories": [
         "Productivity"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/huzef44/screenocr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/screenocr",
-      "treeSha": "acd42d3b1fee6529472b52939ebc0609bc32e64a",
+      "treeSha": "36ba8e651980ed47b5a4c07c5889c55c1d1d4772",
       "downloads": 58739
     },
     {

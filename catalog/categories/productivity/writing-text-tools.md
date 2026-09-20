@@ -1,8 +1,8 @@
 # Writing & Text Tools
 
-73 extensions · [← Productivity](./README.md)
+72 extensions · [← Productivity](./README.md)
 
-[Markdown ✦](#markdown) (15) · [Dictionary ✦](#dictionary) (10) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (34)
+[Markdown ✦](#markdown) (15) · [Dictionary ✦](#dictionary) (10) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (33)
 
 *✦ auto-discovered topic group*
 
@@ -74,7 +74,6 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr) | 58,739 | Extract text from screen captures locally via OCR | huzef44 | macOS | [store](https://www.raycast.com/huzef44/screenocr) |
 | [QR Code Generator](https://github.com/raycast/extensions/tree/main/extensions/qrcode-generator) | 36,386 | Generate QR codes from text or URLs. | Melvynx | macOS, Windows | [store](https://www.raycast.com/Melvynx/qrcode-generator) |
 | [Word Search](https://github.com/raycast/extensions/tree/main/extensions/word-search) | 27,239 | Search for synonyms, antonyms, spellings, rhymes and more | rishabswift | macOS, Windows | [store](https://www.raycast.com/rishabswift/word-search) |
 | [Regex Tester](https://github.com/raycast/extensions/tree/main/extensions/regex-tester) | 13,165 | Preview and test regular expressions | allenan | macOS, Windows | [store](https://www.raycast.com/allenan/regex-tester) |

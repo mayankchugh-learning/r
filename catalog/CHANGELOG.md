@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-20 — upstream `acaa64d1dc`
+
+**Updated (1):** [ScreenOCR](https://github.com/raycast/extensions/tree/main/extensions/screenocr)
+
 ## 2026-09-20 — upstream `f27d73560a`
 
 **Updated (1):** [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions)
