@@ -17,7 +17,7 @@
 | [Abdullah-Dev115](https://www.raycast.com/Abdullah-Dev115) | 1 | 70 | **System:** [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) |
 | [abel_roinsard](https://www.raycast.com/abel_roinsard) | 1 | 79 | **Media:** [Danbooru](https://github.com/raycast/extensions/tree/main/extensions/danbooru) |
 | [abeldebruijn](https://www.raycast.com/abeldebruijn) | 1 | 35 | **Productivity:** [Delphitools](https://github.com/raycast/extensions/tree/main/extensions/delphi-tools-raycast-extension) |
-| [AbhinavPalacharla](https://www.raycast.com/AbhinavPalacharla) | 2 | 4,033 | **Fun:** [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer)<br>**Productivity:** [Citation Generator](https://github.com/raycast/extensions/tree/main/extensions/citation-generator) |
+| [AbhinavPalacharla](https://www.raycast.com/AbhinavPalacharla) | 2 | 4,036 | **Fun:** [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer)<br>**Productivity:** [Citation Generator](https://github.com/raycast/extensions/tree/main/extensions/citation-generator) |
 | [abhisheksatre](https://www.raycast.com/abhisheksatre) | 1 | 2,076 | **Productivity:** [Multilinks](https://github.com/raycast/extensions/tree/main/extensions/multilinks) |
 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 254,999 | **Productivity:** [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt)<br>**AI:** [Klu](https://github.com/raycast/extensions/tree/main/extensions/klu-ai) |
 | [abnershang](https://www.raycast.com/abnershang) | 1 | 19 | **Developer Tools:** [ZenMux Manager](https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager) |

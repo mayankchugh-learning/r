@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-20 — upstream `05c7cd671b`
+
+**Updated (1):** [Perplexity API](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api)
+
 ## 2026-09-20 — upstream `0ea0211544`
 
 **Updated (1):** [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer)

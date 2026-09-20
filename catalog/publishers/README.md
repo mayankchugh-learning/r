@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,252,654 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,252,855 |
 | 2 | [raycast](./id/raycast.md) | 11 | 880,235 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 748,029 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 551,721 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 748,233 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 551,844 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 483,300 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 478,835 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 447,522 |
@@ -303,7 +303,7 @@
 | 293 | [andreaselia](./id/andreaselia.md) | 10 | 4,112 |
 | 294 | [astrit](https://www.raycast.com/astrit) | 2 | 4,076 |
 | 295 | [joshtemple](https://www.raycast.com/joshtemple) | 1 | 4,050 |
-| 296 | [AbhinavPalacharla](https://www.raycast.com/AbhinavPalacharla) | 2 | 4,033 |
+| 296 | [AbhinavPalacharla](https://www.raycast.com/AbhinavPalacharla) | 2 | 4,036 |
 | 297 | [stephendolan](https://www.raycast.com/stephendolan) | 2 | 4,023 |
 | 298 | [yonbergman](https://www.raycast.com/yonbergman) | 2 | 4,022 |
 | 299 | [kall](https://www.raycast.com/kall) | 1 | 4,001 |
