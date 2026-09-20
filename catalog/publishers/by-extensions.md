@@ -18,7 +18,7 @@
 | 8 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,188 |
 | 9 | [chrismessina](./id/chrismessina.md) | 16 | 7,357 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,810 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,251,544 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,251,546 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 328,706 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 447,151 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,247 |
@@ -396,7 +396,7 @@
 | 386 | [TwoMental](https://www.raycast.com/twomental) | 2 | 14 |
 | 387 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 13 |
 | 388 | github-next | 2 | — |
-| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 747,648 |
+| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 747,650 |
 | 390 | [Codely](https://www.raycast.com/Codely) | 1 | 551,459 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 387,892 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 323,284 |
@@ -792,7 +792,7 @@
 | 782 | [FelipeCortez](https://www.raycast.com/FelipeCortez) | 1 | 1,076 |
 | 783 | [vitorlostada](https://www.raycast.com/vitorlostada) | 1 | 1,076 |
 | 784 | [francesco_mecchi](https://www.raycast.com/francesco_mecchi) | 1 | 1,075 |
-| 785 | [automattic](https://www.raycast.com/automattic) | 1 | 1,070 |
+| 785 | [automattic](https://www.raycast.com/automattic) | 1 | 1,071 |
 | 786 | [vojay](https://www.raycast.com/vojay) | 1 | 1,066 |
 | 787 | [night_coder](https://www.raycast.com/night_coder) | 1 | 1,062 |
 | 788 | [chroxify](https://www.raycast.com/chroxify) | 1 | 1,056 |

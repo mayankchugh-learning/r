@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6af4a62a6ff0562eeaaf27955b83281bb72c7dd4",
-  "generatedAt": "2026-09-20T12:49:22.722Z",
-  "downloadsRefreshedAt": "2026-09-20T12:49:21.787Z",
+  "commit": "dff526f0927221e902099561c6a66070c08a1bca",
+  "generatedAt": "2026-09-20T12:50:25.019Z",
+  "downloadsRefreshedAt": "2026-09-20T12:50:24.624Z",
   "count": 3300,
   "extensions": [
     {
@@ -4499,7 +4499,7 @@
       "store": "https://www.raycast.com/automattic/beeper",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/beeper",
       "treeSha": "a4615975ecc8e9f5a0cfa908dbe9957265f5f7e2",
-      "downloads": 1070
+      "downloads": 1071
     },
     {
       "dir": "bento",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 588998
+      "downloads": 589000
     },
     {
       "dir": "color-shades",
@@ -19382,7 +19382,7 @@
       ],
       "store": "https://www.raycast.com/hrishabhn/flighty",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/flighty",
-      "treeSha": "431b29bc16be810102d05976c1da4d56d1ebc2df",
+      "treeSha": "c940532f3b3b094af145c7635c437c600edb526b",
       "downloads": 2121
     },
     {
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 747648
+      "downloads": 747650
     },
     {
       "dir": "kimai",

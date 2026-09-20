@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-20 — upstream `dff526f092`
+
+**Updated (1):** [Flighty](https://github.com/raycast/extensions/tree/main/extensions/flighty)
+
 ## 2026-09-20 — upstream `6af4a62a6f`
 
 **Updated (1):** [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper)

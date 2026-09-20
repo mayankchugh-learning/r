@@ -8,9 +8,9 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,251,544 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,251,546 |
 | 2 | [raycast](./id/raycast.md) | 11 | 879,394 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 747,648 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 747,650 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 551,459 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 482,737 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 478,351 |
@@ -660,7 +660,7 @@
 | 650 | [FelipeCortez](https://www.raycast.com/FelipeCortez) | 1 | 1,076 |
 | 651 | [vitorlostada](https://www.raycast.com/vitorlostada) | 1 | 1,076 |
 | 652 | [francesco_mecchi](https://www.raycast.com/francesco_mecchi) | 1 | 1,075 |
-| 653 | [automattic](https://www.raycast.com/automattic) | 1 | 1,070 |
+| 653 | [automattic](https://www.raycast.com/automattic) | 1 | 1,071 |
 | 654 | [vojay](https://www.raycast.com/vojay) | 1 | 1,066 |
 | 655 | [night_coder](https://www.raycast.com/night_coder) | 1 | 1,062 |
 | 656 | [sandypockets](https://www.raycast.com/sandypockets) | 2 | 1,061 |
