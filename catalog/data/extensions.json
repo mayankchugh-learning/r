@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "dba56875406c6d1ec75a8d71fa0755ca69b81d27",
-  "generatedAt": "2026-09-20T07:24:33.471Z",
-  "downloadsRefreshedAt": "2026-09-20T07:24:32.581Z",
+  "commit": "4144cc0537f431d310b83287655ab59a7fa694b3",
+  "generatedAt": "2026-09-20T07:26:34.916Z",
+  "downloadsRefreshedAt": "2026-09-20T07:26:34.539Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 588571
+      "downloads": 588577
     },
     {
       "dir": "color-shades",
@@ -15147,7 +15147,7 @@
       ],
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
-      "treeSha": "9a179e7dbaeb683021b35d0f9822602a3137c773",
+      "treeSha": "9f45da0a4959daa861bc1d6e3bdcfd6076886923",
       "downloads": 188
     },
     {
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 551155
+      "downloads": 551159
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 747231
+      "downloads": 747236
     },
     {
       "dir": "kimai",
@@ -37178,7 +37178,7 @@
       "store": "https://www.raycast.com/AbhinavPalacharla/nba-game-viewer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer",
       "treeSha": "e3eda6f3e653d2288f1b27f3979f326f6919e78c",
-      "downloads": 3118
+      "downloads": 3121
     },
     {
       "dir": "near-rewards",
