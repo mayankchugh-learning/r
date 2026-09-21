@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `e9d8271885`
+
+**Updated (1):** [Shape Calendar](https://github.com/raycast/extensions/tree/main/extensions/shape-calendar)
+
 ## 2026-09-21 — upstream `571630b52b`
 
 **Updated (1):** [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news)

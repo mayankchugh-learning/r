@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "571630b52b9459fa5f7d242da971693bf4491b01",
-  "generatedAt": "2026-09-21T13:56:37.662Z",
-  "downloadsRefreshedAt": "2026-09-21T13:56:37.051Z",
+  "commit": "e9d8271885ce3ca74d0b90703e2dbf2dcbe76cc3",
+  "generatedAt": "2026-09-21T13:58:44.015Z",
+  "downloadsRefreshedAt": "2026-09-21T13:58:43.600Z",
   "count": 3300,
   "extensions": [
     {
@@ -6208,7 +6208,7 @@
       "store": "https://www.raycast.com/raycast/browser-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks",
       "treeSha": "8740e01022252e392641b8b956beb78819b3abb7",
-      "downloads": 65089
+      "downloads": 65189
     },
     {
       "dir": "browser-history",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 591564
+      "downloads": 591566
     },
     {
       "dir": "color-shades",
@@ -22104,7 +22104,7 @@
       "store": "https://www.raycast.com/ricoberger/gitmoji",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gitmoji",
       "treeSha": "26d11a545dd06737620e7e64dbf47b7436738468",
-      "downloads": 5486
+      "downloads": 5497
     },
     {
       "dir": "gitpod",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 553264
+      "downloads": 553269
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 750198
+      "downloads": 750203
     },
     {
       "dir": "kimai",
@@ -53228,7 +53228,7 @@
       ],
       "store": "https://www.raycast.com/samuelkraft/shape-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shape-calendar",
-      "treeSha": "cda49073a066a9493baef1b906d8f9ae4e638d2a",
+      "treeSha": "e31c44dad768238943512adadb6c2c40bf138423",
       "downloads": 27
     },
     {

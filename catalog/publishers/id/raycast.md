@@ -1,6 +1,6 @@
 # raycast
 
-11 extensions · 881,157 downloads · [store](https://www.raycast.com/raycast) · [← publishers](../README.md)
+11 extensions · 881,257 downloads · [store](https://www.raycast.com/raycast) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -28,7 +28,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | 65,089 | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
+| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | 65,189 | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
 
 ## Applications (1)
 

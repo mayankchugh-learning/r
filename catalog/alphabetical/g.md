@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 553,264 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
+| [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) | 553,269 | Search open tabs, bookmarks and history in Google Chrome. | Codely | macOS | [store](https://www.raycast.com/Codely/google-chrome) |
 | [Google Translate](https://github.com/raycast/extensions/tree/main/extensions/google-translate) | 482,707 | Simple translation using Google Translate | gebeto | macOS, Windows | [store](https://www.raycast.com/gebeto/translate) |
 | [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 203,180 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
 | [Google Search](https://github.com/raycast/extensions/tree/main/extensions/google-search) | 147,314 | Google search with autosuggestions | mblode | macOS, Windows | [store](https://www.raycast.com/mblode/google-search) |
@@ -32,7 +32,7 @@
 | [GitHub Gist](https://github.com/raycast/extensions/tree/main/extensions/github-gist) | 5,849 | Create, search and display GitHub gists. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/github-gist) |
 | [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) | 5,627 | Daily and real-time surge trends in Google trends | Kang | macOS | [store](https://www.raycast.com/Kang/google-trends) |
 | [Google Lens](https://github.com/raycast/extensions/tree/main/extensions/google-lens) | 5,516 | Search images with Google Lens | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/google-lens) |
-| [Gitmoji Search](https://github.com/raycast/extensions/tree/main/extensions/gitmoji) | 5,486 | Gitmoji is an emoji guide for your commit messages | ricoberger | macOS, Windows | [store](https://www.raycast.com/ricoberger/gitmoji) |
+| [Gitmoji Search](https://github.com/raycast/extensions/tree/main/extensions/gitmoji) | 5,497 | Gitmoji is an emoji guide for your commit messages | ricoberger | macOS, Windows | [store](https://www.raycast.com/ricoberger/gitmoji) |
 | [GitHub Enterprise](https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise) | 4,374 | Visualize and manage your issues and pull requests | Kinbaum | macOS | [store](https://www.raycast.com/Kinbaum/github-for-enterprise) |
 | [Gitignore](https://github.com/raycast/extensions/tree/main/extensions/gitignore) | 4,224 | Quickly create a gitignore file for your project. | daniel-stoneuk | macOS, Windows | [store](https://www.raycast.com/daniel-stoneuk/gitignore) |
 | [GitHub Stars](https://github.com/raycast/extensions/tree/main/extensions/github-stars) | 4,116 | Display and filter your recent GitHub stars | mrmartineau | macOS | [store](https://www.raycast.com/mrmartineau/search-github-stars) |

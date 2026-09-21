@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 284,910 | Search, install and manage Homebrew formulae and casks | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | 65,089 | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
+| [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) | 65,189 | Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/browser-bookmarks) |
 | [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) | 64,485 | Access your Bitwarden vault directly from Raycast | jomifepe | macOS, Windows | [store](https://www.raycast.com/jomifepe/bitwarden) |
 | [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) | 41,059 | Quickly encode or decode base64 from the clipboard | DanielSinclair | macOS, Windows | [store](https://www.raycast.com/DanielSinclair/base64) |
 | [Battery Health](https://github.com/raycast/extensions/tree/main/extensions/battery-health) | 21,947 | Shows live information about the battery in your Mac! | o1y | macOS | [store](https://www.raycast.com/o1y/battery-health) |
