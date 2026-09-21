@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "03e19260a0b9830e8f1343d806f9c3e56437301f",
-  "generatedAt": "2026-09-21T04:19:21.274Z",
-  "downloadsRefreshedAt": "2026-09-21T04:19:20.275Z",
+  "commit": "f5233ff7d50a4eb4bb148a5174b2a542e3af1347",
+  "generatedAt": "2026-09-21T04:22:45.692Z",
+  "downloadsRefreshedAt": "2026-09-21T04:22:42.753Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 590247
+      "downloads": 590250
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 552330
+      "downloads": 552333
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 748881
+      "downloads": 748883
     },
     {
       "dir": "kimai",
@@ -41021,7 +41021,7 @@
       "description": "Manage your Orion Bookmarks, History, Tabs, and Reading list",
       "author": "plonq",
       "owner": null,
-      "contributors": 2,
+      "contributors": 3,
       "categories": [
         "Web"
       ],
@@ -41031,7 +41031,7 @@
       ],
       "store": "https://www.raycast.com/plonq/orion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/orion",
-      "treeSha": "f408f635565f413d43b071ee68ba93fe54c943a8",
+      "treeSha": "4a9c4c07ee9c412259c30ab4eea5b529fb3b8068",
       "downloads": 3645
     },
     {
