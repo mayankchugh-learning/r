@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `0ed1f1f50c`
+
+**Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)
+
 ## 2026-09-21 — upstream `9d94c32b76`
 
 **Updated (1):** [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges)

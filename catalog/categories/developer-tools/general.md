@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 751,069 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 751,071 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 180,012 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 108,413 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 66,569 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -52,7 +52,7 @@
 | [Can I PHP?](https://github.com/raycast/extensions/tree/main/extensions/can-i-php) | 810 | Check if a certain function or method is available in different versions of PHP. | diana_scharf | macOS, Windows | [store](https://www.raycast.com/diana_scharf/can-i-php) |
 | [MLDocs](https://github.com/raycast/extensions/tree/main/extensions/mldocs) | 804 | Raycast Commands for Searching Different ML APIs | reckoning-dev | macOS | [store](https://www.raycast.com/reckoning-dev/mldocs) |
 | [Figma Variables](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) | 781 | Access Figma variables in Raycast | martin_molcrette | macOS | [store](https://www.raycast.com/martin_molcrette/figma-variables) |
-| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 737 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
+| [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 736 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 717 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [OrbStack](https://github.com/raycast/extensions/tree/main/extensions/orbstack) | 703 | Manage OrbStack with Raycast | nicholasq | macOS | [store](https://www.raycast.com/nicholasq/orbstack) |
 | [Typescript Mock Generator](https://github.com/raycast/extensions/tree/main/extensions/typescript-mock-generator) | 684 | Generate mock/fake data from your typescript interfaces easily | comoser | macOS | [store](https://www.raycast.com/comoser/typescript-mock-generator) |
