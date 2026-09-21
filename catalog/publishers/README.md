@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,252,856 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,253,245 |
 | 2 | [raycast](./id/raycast.md) | 11 | 880,235 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 748,234 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 551,846 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 748,636 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 552,134 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 483,300 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 478,835 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 447,522 |
@@ -80,7 +80,7 @@
 | 70 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 36,579 |
 | 71 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 36,437 |
 | 72 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 36,050 |
-| 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 35,437 |
+| 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 35,449 |
 | 74 | [dziad](https://www.raycast.com/dziad) | 1 | 35,191 |
 | 75 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 34,734 |
 | 76 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 33,020 |
@@ -126,7 +126,7 @@
 | 116 | [ViGeng](https://www.raycast.com/ViGeng) | 9 | 19,066 |
 | 117 | [StevenRCE0](https://www.raycast.com/StevenRCE0) | 2 | 17,939 |
 | 118 | [maantje](https://www.raycast.com/maantje) | 2 | 17,363 |
-| 119 | [ilian](https://www.raycast.com/ilian) | 3 | 17,301 |
+| 119 | [ilian](https://www.raycast.com/ilian) | 3 | 17,303 |
 | 120 | [timoransky](https://www.raycast.com/timoransky) | 4 | 17,233 |
 | 121 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,207 |
 | 122 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 16,653 |
@@ -538,7 +538,7 @@
 | 528 | [omBratteng](https://www.raycast.com/omBratteng) | 1 | 1,560 |
 | 529 | [chessjoe](https://www.raycast.com/chessjoe) | 1 | 1,554 |
 | 530 | [raulanatol](https://www.raycast.com/raulanatol) | 1 | 1,554 |
-| 531 | [daniyal_master](https://www.raycast.com/daniyal_master) | 1 | 1,550 |
+| 531 | [daniyal_master](https://www.raycast.com/daniyal_master) | 1 | 1,553 |
 | 532 | [fonimus](https://www.raycast.com/fonimus) | 2 | 1,546 |
 | 533 | [mymind](https://www.raycast.com/mymind) | 1 | 1,530 |
 | 534 | [JulienLacr0ix](https://www.raycast.com/JulienLacr0ix) | 1 | 1,503 |

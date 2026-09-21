@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "dc18b8722db4c7357222247b33ab468128875228",
-  "generatedAt": "2026-09-20T19:35:23.672Z",
-  "downloadsRefreshedAt": "2026-09-20T19:35:22.966Z",
+  "commit": "620226576a674c8f8d5b1a0a58e507fc288dc63b",
+  "generatedAt": "2026-09-21T01:27:38.922Z",
+  "downloadsRefreshedAt": "2026-09-21T01:27:38.596Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 589599
+      "downloads": 589988
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 551846
+      "downloads": 552134
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 748234
+      "downloads": 748636
     },
     {
       "dir": "kimai",
@@ -36237,8 +36237,8 @@
       ],
       "store": "https://www.raycast.com/crisboarna/mozilla-firefox",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox",
-      "treeSha": "7f365dc4343a76ad0aeae5d296031a021339ebc4",
-      "downloads": 13861
+      "treeSha": "42a4476ac186f2141e7ab647f3969fb0ef1f52b3",
+      "downloads": 13873
     },
     {
       "dir": "mozilla-vpn",
@@ -42811,7 +42811,7 @@
       "store": "https://www.raycast.com/ilian/perplexity-api",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/perplexity-api",
       "treeSha": "11fcdef24ade011838b00d9bccde9bdf51bddfce",
-      "downloads": 13487
+      "downloads": 13489
     },
     {
       "dir": "perry",
@@ -56150,7 +56150,7 @@
       "store": "https://www.raycast.com/daniyal_master/sportssync",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sportssync",
       "treeSha": "a6b130a2fd5479d402eb5a5a40972bd5934cf5f2",
-      "downloads": 1550
+      "downloads": 1553
     },
     {
       "dir": "spotify-beta",

@@ -30,7 +30,7 @@
 | [DanielSinclair](https://www.raycast.com/DanielSinclair) | 1 | 41,020 | **Developer Tools:** [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) |
 | [daniloc](https://www.raycast.com/daniloc) | 1 | 301 | **Design Tools:** [Re-mind](https://github.com/raycast/extensions/tree/main/extensions/re-mind) |
 | [danilorequena](https://www.raycast.com/danilorequena) | 1 | 54 | **Developer Tools:** [Firebase - Remote Config](https://github.com/raycast/extensions/tree/main/extensions/firebase-remote-config-admin) |
-| [daniyal_master](https://www.raycast.com/daniyal_master) | 1 | 1,550 | **Media:** [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) |
+| [daniyal_master](https://www.raycast.com/daniyal_master) | 1 | 1,553 | **Media:** [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) |
 | [danmartuszewski](https://www.raycast.com/danmartuszewski) | 1 | 154 | **Developer Tools:** [Hop](https://github.com/raycast/extensions/tree/main/extensions/hop) |
 | [dannius](https://www.raycast.com/danniuz) | 1 | 209 | **Media:** [Torr Manager](https://github.com/raycast/extensions/tree/main/extensions/torr-manager) |
 | [danny_seidel](https://www.raycast.com/DannySeidel) | 1 | 984 | **Data:** [Sun/Moon Times](https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times) |

@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Fotmob](https://github.com/raycast/extensions/tree/main/extensions/fotmob) | 1,728 | Football match schedule, result, table | iamlas | macOS, Windows | [store](https://www.raycast.com/iamlas/fotmob) |
 | [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,606 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
-| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,550 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
+| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,553 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [NHL](https://github.com/raycast/extensions/tree/main/extensions/nhl) | 359 | Get today's NHL games, scores, matchups, and statistics. | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/nhl) |
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 332 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [Esports Pass](https://github.com/raycast/extensions/tree/main/extensions/esports-pass) | 167 | An extension for esports. League of Legends, VALORANT, CS and more | rafaelvicio | macOS, Windows | [store](https://www.raycast.com/rafaelvicio/esports-pass) |
