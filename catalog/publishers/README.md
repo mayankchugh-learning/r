@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,254,919 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,254,929 |
 | 2 | [raycast](./id/raycast.md) | 11 | 881,157 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 749,565 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 552,830 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 749,575 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 552,832 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 483,841 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 479,380 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 447,971 |
@@ -33,7 +33,7 @@
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 165,541 |
 | 24 | [loris](https://www.raycast.com/loris) | 6 | 136,307 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 119,267 |
-| 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 117,379 |
+| 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 117,471 |
 | 27 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 115,012 |
 | 28 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 113,866 |
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 112,178 |
