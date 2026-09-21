@@ -1,8 +1,8 @@
 # Windows · Data
 
-92 extensions · [← Windows](../README.md)
+93 extensions · [← Windows](../README.md)
 
-[Converters & Encoders](#converters-encoders) (7) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (1) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (3) · [Trackers & Monitors](#trackers-monitors) (5) · [Text Processing](#text-processing) (3) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (7) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (11) · [General](#general) (24)
+[Converters & Encoders](#converters-encoders) (7) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (1) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (3) · [Trackers & Monitors](#trackers-monitors) (5) · [Text Processing](#text-processing) (3) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (7) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (11) · [General](#general) (25)
 
 ## Transform & Generate
 
@@ -163,6 +163,7 @@
 | [Pokédex](https://github.com/raycast/extensions/tree/main/extensions/pokedex) | 3,106 | Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/pokedex) |
 | [Supernotes](https://github.com/raycast/extensions/tree/main/extensions/supernotes) | 1,737 | Interact with the Supernotes platform in Raycast. | supernotes (org) | macOS, Windows | [store](https://www.raycast.com/supernotes/supernotes) |
 | [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,268 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
+| [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) | 1,252 | Control and view your Tesla | williamwelsh | macOS, Windows | [store](https://www.raycast.com/williamwelsh/tesla) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 682 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 587 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) | 197 | A Raycast extension for rclone | rclone | macOS, Windows | [store](https://www.raycast.com/rclone/rclone-raycast) |

@@ -1,8 +1,8 @@
 # Cross-platform · Fun
 
-93 extensions · [← Cross-platform](../README.md)
+94 extensions · [← Cross-platform](../README.md)
 
-[Games & Gaming](#games-gaming) (23) · [AI & Generative Fun](#ai-generative-fun) (3) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (3) · [Jokes & Randomness](#jokes-randomness) (8) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (2) · [Food & Drink](#food-drink) (2) · [General](#general) (34)
+[Games & Gaming](#games-gaming) (23) · [AI & Generative Fun](#ai-generative-fun) (3) · [Emoji, GIFs & Symbols](#emoji-gifs-symbols) (3) · [Jokes & Randomness](#jokes-randomness) (8) · [Sports](#sports) (7) · [Movies, TV & Anime](#movies-tv-anime) (3) · [Music & Instruments](#music-instruments) (1) · [Pop Culture & Fandom](#pop-culture-fandom) (3) · [Generators & Toys](#generators-toys) (3) · [Nature & Exploration](#nature-exploration) (1) · [Wallpapers & Effects](#wallpapers-effects) (2) · [Food & Drink](#food-drink) (2) · [General](#general) (35)
 
 ## Play
 
@@ -146,6 +146,7 @@
 | [Timezone Buddy](https://github.com/raycast/extensions/tree/main/extensions/timezone-buddy) | 2,563 | Show friends in other timezones | andrebreia | macOS, Windows | [store](https://www.raycast.com/andrebreia/timezone-buddy) |
 | [Last.fm](https://github.com/raycast/extensions/tree/main/extensions/lastfm) | 2,083 | Display your favourite, recently played tracks, your top albums and artists and more from Last.fm on Raycast! | eggsy | macOS, Windows | [store](https://www.raycast.com/eggsy/lastfm) |
 | [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) | 1,656 | Store and retrieve images quickly from Raycast! | ibll | macOS, Windows | [store](https://www.raycast.com/ibll/image-wallet) |
+| [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla) | 1,252 | Control and view your Tesla | williamwelsh | macOS, Windows | [store](https://www.raycast.com/williamwelsh/tesla) |
 | [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) | 873 | Efficiently manage your forked Raycast extensions using Git sparse-checkout. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/forked-extensions) |
 | [Grokipedia](https://github.com/raycast/extensions/tree/main/extensions/grokipedia) | 864 | Find articles of information about a given topic from Grokipedia. | Visual-Studio-Coder | macOS, Windows | [store](https://www.raycast.com/Visual-Studio-Coder/grokipedia) |
 | [Pronounce the Word](https://github.com/raycast/extensions/tree/main/extensions/pronounce-the-word) | 306 | Learn to pronounce any word you type | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/pronounce-the-word) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7c20c1600327b1f6072b965bebf2a108cf98c4a5",
-  "generatedAt": "2026-09-21T04:33:20.725Z",
-  "downloadsRefreshedAt": "2026-09-21T04:33:20.326Z",
+  "commit": "45489fdea9f7bced45f72b6badd41e343883ba95",
+  "generatedAt": "2026-09-21T06:45:45.876Z",
+  "downloadsRefreshedAt": "2026-09-21T06:45:45.109Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 590259
+      "downloads": 590477
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 552341
+      "downloads": 552506
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 748889
+      "downloads": 749083
     },
     {
       "dir": "kimai",
@@ -59235,18 +59235,19 @@
       "description": "Control and view your Tesla",
       "author": "williamwelsh",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Data",
         "Fun"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/williamwelsh/tesla",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tesla",
-      "treeSha": "7a3d17a42c0c5025efb80ee5242bc2d2a57a7adf",
+      "treeSha": "8f7c041343d5f98a0872260f3ce74326bc549adf",
       "downloads": 1252
     },
     {
