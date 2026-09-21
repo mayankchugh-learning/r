@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,255,532 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,255,577 |
 | 2 | [raycast](./id/raycast.md) | 11 | 881,257 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 750,203 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 553,269 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 750,250 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 553,303 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 483,841 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 479,380 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 447,971 |
@@ -83,7 +83,7 @@
 | 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 35,472 |
 | 74 | [dziad](https://www.raycast.com/dziad) | 1 | 35,238 |
 | 75 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 34,768 |
-| 76 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 33,040 |
+| 76 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 33,044 |
 | 77 | [gstvds](https://www.raycast.com/gstvds) | 2 | 32,676 |
 | 78 | [pradeepb28](https://www.raycast.com/pradeepb28) | 9 | 32,624 |
 | 79 | [vishaltelangre](https://www.raycast.com/vishaltelangre) | 1 | 31,900 |

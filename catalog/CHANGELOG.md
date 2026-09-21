@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `f998af21c5`
+
+**Updated (1):** [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)
+
 ## 2026-09-21 — upstream `e9d8271885`
 
 **Updated (1):** [Shape Calendar](https://github.com/raycast/extensions/tree/main/extensions/shape-calendar)
