@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `7c20c16003`
+
+**Updated (1):** [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts)
+
 ## 2026-09-21 — upstream `f5233ff7d5`
 
 **Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)
