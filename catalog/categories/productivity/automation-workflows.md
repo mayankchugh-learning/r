@@ -10,14 +10,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) | 7,668 | List, search and run shortcuts for different applications | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/shortcuts-search) |
-| [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 6,196 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
-| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,647 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
-| [Screen Sharing Recents](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) | 1,446 | Adds shortcuts to recent screen sharing locations | bix | macOS | [store](https://www.raycast.com/bix/screen-sharing-recents) |
-| [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) | 1,324 | Runs configurable application shortcut depending on the frontmost application. | cyxn | macOS | [store](https://www.raycast.com/cyxn/universal-commands) |
-| [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | 730 | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
-| [dot-new](https://github.com/raycast/extensions/tree/main/extensions/dot-new) | 632 | Start something .new! .new links are shortcuts to your favorite actions on the websites you love | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/dot-new) |
-| [Kommand](https://github.com/raycast/extensions/tree/main/extensions/kommand) | 442 | Show keyboard shortcuts for the frontmost app from your Kommand library | umit_gul | macOS | [store](https://www.raycast.com/umit_gul/kommand) |
+| [Shortcuts Search](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) | 7,677 | List, search and run shortcuts for different applications | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/shortcuts-search) |
+| [Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) | 6,207 | Configure, save, and run sequences of keyboard shortcuts | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences) |
+| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,649 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
+| [Screen Sharing Recents](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) | 1,448 | Adds shortcuts to recent screen sharing locations | bix | macOS | [store](https://www.raycast.com/bix/screen-sharing-recents) |
+| [Universal Commands](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) | 1,326 | Runs configurable application shortcut depending on the frontmost application. | cyxn | macOS | [store](https://www.raycast.com/cyxn/universal-commands) |
+| [Vim Leader Key - Keyboard Shortcut Sequences](https://github.com/raycast/extensions/tree/main/extensions/vim-leader-key) | 733 | Vim-style keyboard shortcut sequences for launching apps, running commands, and triggering actions | akshay_k | macOS, Windows | [store](https://www.raycast.com/akshay_k/vim-leader-key) |
+| [dot-new](https://github.com/raycast/extensions/tree/main/extensions/dot-new) | 634 | Start something .new! .new links are shortcuts to your favorite actions on the websites you love | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/dot-new) |
+| [Kommand](https://github.com/raycast/extensions/tree/main/extensions/kommand) | 443 | Show keyboard shortcuts for the frontmost app from your Kommand library | umit_gul | macOS | [store](https://www.raycast.com/umit_gul/kommand) |
 | [Leader Key](https://github.com/raycast/extensions/tree/main/extensions/leader-key) | 212 | Search and trigger Leader Key shortcuts by alias, label, or value. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/leader-key) |
 | [Drupal Toolbox](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) | 115 | Valuable tools and shortcuts for your Drupal Websites | emircanerkul | macOS | [store](https://www.raycast.com/emircanerkul/drupal-toolbox) |
 | [BarCuts Companion](https://github.com/raycast/extensions/tree/main/extensions/barcuts-companion) | 108 | The official companion extension for BarCuts, the contextual macOS Shortcuts workflows launcher (https://actions.work/barcuts). | czottmann | macOS | [store](https://www.raycast.com/czottmann/barcuts-companion) |
@@ -40,17 +40,17 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 10,071 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
-| [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 9,264 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
-| [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,812 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 10,085 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [Script Commands Store – Find and manage your Raycast Script…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) | 9,274 | Your new way to manage Script Commands without having to deal with GitHub. | tholanda | macOS | [store](https://www.raycast.com/tholanda/script-commands) |
+| [Close All Open Apps](https://github.com/raycast/extensions/tree/main/extensions/close-apps) | 1,814 | Script that closes all open apps | guide | macOS | [store](https://www.raycast.com/guide/close-apps) |
 | [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands) | 30 | Quicklinks as real files. Turn any link, folder or search into a Script Command you can version, grep and sync — then browse them grouped by environment, brand… | kud | macOS | [store](https://www.raycast.com/kud/link-commands) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 203,180 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
-| [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 9,545 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
+| [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github) | 203,578 | Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/github) |
+| [Keyboard Maestro - List Macros](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) | 9,558 | List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast | eluce2 | macOS | [store](https://www.raycast.com/eluce2/list-keyboard-maestro-macros) |
 | [ChartMogul](https://github.com/raycast/extensions/tree/main/extensions/chartmogul) | 61 | A Raycast extension that gives you quick access to key business metrics from ChartMogul right from your command bar. Instantly view MRR, ARR, churn, customer c… | mattdelliott | macOS | [store](https://www.raycast.com/mattdelliott/chartmogul) |
 | [Make.com Scenarios](https://github.com/raycast/extensions/tree/main/extensions/make-dot-com) | 61 | Interact with Make.com scenarios from Raycast. | dj_z | macOS | [store](https://www.raycast.com/dj_z/make-dot-com) |
 | [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) | 28 | Discover, triage, and manage papers from your local Paper Agent workflow in Raycast. | marvel940804836 | macOS | [store](https://www.raycast.com/marvel940804836/paper-agent) |

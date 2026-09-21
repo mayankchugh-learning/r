@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,614 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
-| [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,353 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
-| [Quick Web](https://github.com/raycast/extensions/tree/main/extensions/quick-web) | 526 | Quick Web is a configurable URL autocompletion tool | ShawYoungTang | macOS | [store](https://www.raycast.com/ShawYoungTang/quick-web) |
-| [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) | 499 | The Libaro powered URL shortener Shorten your URL in seconds | libaro | macOS | [store](https://www.raycast.com/libaro/liba-ro_shortener) |
+| [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,617 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
+| [Xecutor](https://github.com/raycast/extensions/tree/main/extensions/xecutor) | 2,357 | Create presets to launch multiple macOS applications and/or urls from within Raycast | GastroGeek | macOS | [store](https://www.raycast.com/GastroGeek/xecutor) |
+| [Quick Web](https://github.com/raycast/extensions/tree/main/extensions/quick-web) | 527 | Quick Web is a configurable URL autocompletion tool | ShawYoungTang | macOS | [store](https://www.raycast.com/ShawYoungTang/quick-web) |
+| [Liba.ro - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) | 500 | The Libaro powered URL shortener Shorten your URL in seconds | libaro | macOS | [store](https://www.raycast.com/libaro/liba-ro_shortener) |
 | [UTM Campaign Builder](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) | 433 | Create a campaign URL with UTM attributes | vimtor | macOS | [store](https://www.raycast.com/vimtor/utm-campaign-builder) |
 | [Shlink](https://github.com/raycast/extensions/tree/main/extensions/shlink) | 402 | Shorten and manage URLs using your own Shlink instance. | xeretis | macOS | [store](https://www.raycast.com/xeretis/shlink) |
 | [YouTube Shorts to Normal Video Page](https://github.com/raycast/extensions/tree/main/extensions/youtube-shorts-to-normal-video-page) | 385 | One click to convert YouTube shorts url to regular url | b6pzeusbc54tvhw5jgpyw8pwz2x6gs | macOS | [store](https://www.raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/youtube-shorts-to-normal-video-page) |
