@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `03e19260a0`
+
+**Updated (1):** [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast)
+
 ## 2026-09-21 — upstream `620226576a`
 
 **Updated (1):** [Mozilla Firefox](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox)

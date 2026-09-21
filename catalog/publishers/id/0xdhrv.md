@@ -1,13 +1,13 @@
 # 0xdhrv
 
-16 extensions · 1,813 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
+16 extensions · 1,814 downloads · [store](https://www.raycast.com/0xdhrv) · [← publishers](../README.md)
 
 ## Productivity (3)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Shiori](https://github.com/raycast/extensions/tree/main/extensions/shiori-sh) | 788 | Search, save, and manage your Shiori bookmarks. Mark links as read, delete them, save from clipboard, and track unread count in the menu bar. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shiori-sh) |
-| [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 149 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
+| [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 150 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
 | [Shopify Shop](https://github.com/raycast/extensions/tree/main/extensions/shopify-shop) | 14 | Browse and search products from a Shopify store. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shopify-shop) |
 
 ## Developer Tools (8)

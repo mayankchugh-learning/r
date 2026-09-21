@@ -4,11 +4,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,426 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
-| [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,210 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
+| [Bluesky](https://github.com/raycast/extensions/tree/main/extensions/bluesky) | 2,429 | Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. | dharamkapila | macOS | [store](https://www.raycast.com/dharamkapila/bluesky) |
+| [Show Trends From Twitter](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) | 1,211 | With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/twitter-trendscast) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 689 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [Mastodon Search](https://github.com/raycast/extensions/tree/main/extensions/mastodon-search) | 371 | Search for People or Hashtags on Mastodon. | daveverwer | macOS | [store](https://www.raycast.com/daveverwer/mastodon-search) |
-| [Farcaster](https://github.com/raycast/extensions/tree/main/extensions/farcaster) | 126 | Most comprehensive extension for Farcaster. Search for casts, profiles and explore details. | artivilla | macOS | [store](https://www.raycast.com/artivilla/farcaster) |
+| [Farcaster](https://github.com/raycast/extensions/tree/main/extensions/farcaster) | 127 | Most comprehensive extension for Farcaster. Search for casts, profiles and explore details. | artivilla | macOS | [store](https://www.raycast.com/artivilla/farcaster) |
 | [Raycaster](https://github.com/raycast/extensions/tree/main/extensions/raycaster) | 120 | Send casts to Farcaster from Raycast | stevedylandev | macOS | [store](https://www.raycast.com/stevedylandev/raycaster) |
 | [Nostr](https://github.com/raycast/extensions/tree/main/extensions/nostr) | 24 | Publish notes to Nostr | saadel | macOS | [store](https://www.raycast.com/saadel/nostr) |
 | [Publora](https://github.com/raycast/extensions/tree/main/extensions/publora) | 19 | Manage your social media with Publora | anton_shvein | macOS | [store](https://www.raycast.com/anton_shvein/publora) |

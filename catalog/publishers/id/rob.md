@@ -1,12 +1,12 @@
 # Rob
 
-11 extensions · 11,989 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
+11 extensions · 12,002 downloads · [store](https://www.raycast.com/Rob) · [← publishers](../README.md)
 
 ## Productivity (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 7,831 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
+| [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 7,842 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 119 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 
 ## Fun (5)
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,359 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
+| [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,360 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 338 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
 
 ## Communication (1)
@@ -36,4 +36,4 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 76 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
+| [Storyblok](https://github.com/raycast/extensions/tree/main/extensions/storyblok) | 77 | Query your Storyblok spaces, stories, assets, and more. | Rob | macOS | [store](https://www.raycast.com/Rob/storyblok) |
