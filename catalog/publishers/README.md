@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,255,577 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,255,626 |
 | 2 | [raycast](./id/raycast.md) | 11 | 881,257 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 750,250 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 553,303 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 750,302 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 553,339 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 483,841 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 479,380 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 447,971 |
@@ -90,7 +90,7 @@
 | 80 | [rishabswift](https://www.raycast.com/rishabswift) | 2 | 31,661 |
 | 81 | [petr](https://www.raycast.com/petr) | 2 | 30,032 |
 | 82 | [fuksman](https://www.raycast.com/fuksman) | 2 | 29,598 |
-| 83 | [moored](https://www.raycast.com/moored) | 1 | 29,088 |
+| 83 | [moored](https://www.raycast.com/moored) | 1 | 29,139 |
 | 84 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 29,051 |
 | 85 | [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 28,879 |
 | 86 | [djpowers](https://www.raycast.com/djpowers) | 4 | 28,596 |
