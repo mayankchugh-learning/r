@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `6dfa7e476f`
+
+**Updated (1):** [Gitmoji Search](https://github.com/raycast/extensions/tree/main/extensions/gitmoji)
+
 ## 2026-09-21 — upstream `fec911393c`
 
 **Updated (1):** [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks)
