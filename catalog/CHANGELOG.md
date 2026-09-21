@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `facf881cf2`
+
+**Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
+
 ## 2026-09-21 — upstream `5f11efbe65`
 
 **Updated (1):** [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor)
