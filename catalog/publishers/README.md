@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,254,912 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,254,919 |
 | 2 | [raycast](./id/raycast.md) | 11 | 881,157 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 749,561 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 552,827 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 749,565 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 552,830 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 483,841 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 479,380 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 447,971 |
@@ -98,7 +98,7 @@
 | 88 | [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 28,258 |
 | 89 | [mrmartineau](https://www.raycast.com/mrmartineau) | 4 | 28,209 |
 | 90 | [jag-k](https://www.raycast.com/jag-k) | 2 | 28,117 |
-| 91 | [rasmusbe](https://www.raycast.com/rasmusbe) | 2 | 27,213 |
+| 91 | [rasmusbe](https://www.raycast.com/rasmusbe) | 2 | 27,222 |
 | 92 | [devutils](https://www.raycast.com/devutils) | 1 | 25,616 |
 | 93 | [natterstefan](https://www.raycast.com/natterstefan) | 5 | 25,300 |
 | 94 | [hmarr](https://www.raycast.com/hmarr) | 3 | 25,172 |

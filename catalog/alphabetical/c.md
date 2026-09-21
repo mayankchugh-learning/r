@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 590,946 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 590,953 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 255,059 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 145,213 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 117,357 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -23,7 +23,7 @@
 | [Claude Usage (ccusage)](https://github.com/raycast/extensions/tree/main/extensions/ccusage) | 13,529 | Monitor Claude Code usage with real-time tracking | nyatinte | macOS | [store](https://www.raycast.com/nyatinte/ccusage) |
 | [ChatGPT Quick Actions](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) | 13,334 | Performs one-shot actions with ChatGPT | alanzchen | macOS | [store](https://www.raycast.com/alanzchen/chatgpt-quick-actions) |
 | [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) | 12,843 | Can I Use provides up-to-date browser support for front-end web technologies on desktop and mobile web browsers. | thomaslombart | macOS, Windows | [store](https://www.raycast.com/thomaslombart/can-i-use) |
-| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 12,521 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
+| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 12,530 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
 | [Cursor Directory](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) | 10,465 | Your cursor.directory in Raycast | escwxyz | macOS | [store](https://www.raycast.com/escwxyz/cursor-directory) |
 | [CyberChef](https://github.com/raycast/extensions/tree/main/extensions/cyberchef) | 10,292 | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis | mblode | macOS | [store](https://www.raycast.com/mblode/cyberchef) |
 | [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup) | 9,173 | Browse ClickUp tasks and docs from Raycast | aparandeh | macOS | [store](https://www.raycast.com/aparandeh/manage-clickup-tasks) |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `5644047287`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-21 — upstream `d81d1f4d79`
 
 **Updated (1):** [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn)

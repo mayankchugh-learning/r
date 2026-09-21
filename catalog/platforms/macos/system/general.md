@@ -17,7 +17,7 @@
 | [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | 19,380 | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |
 | [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 14,603 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
 | [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 12,556 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
-| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 12,521 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
+| [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 12,530 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
 | [SSH Connection Manager](https://github.com/raycast/extensions/tree/main/extensions/ssh-manager) | 11,323 | Quickly connect and manage multiple SSH connections | dimagrossman | macOS | [store](https://www.raycast.com/dimagrossman/ssh-manager) |
 | [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) | 11,017 | Remove background from image with the Mac Vision API | xmorse | macOS | [store](https://www.raycast.com/xmorse/remove-background-powered-by-mac) |
 | [Siri](https://github.com/raycast/extensions/tree/main/extensions/siri) | 10,496 | Interact with Siri through Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/siri) |
