@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8b3c343abe989cc5c61fafcc31aa7d3196b8a2a9",
-  "generatedAt": "2026-09-21T20:56:49.552Z",
-  "downloadsRefreshedAt": "2026-09-21T20:56:48.500Z",
+  "commit": "4c796719d8cd02d3c40e4e4b8b1d164e9858dc03",
+  "generatedAt": "2026-09-21T20:59:29.103Z",
+  "downloadsRefreshedAt": "2026-09-21T20:59:28.692Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 592406
+      "downloads": 592411
     },
     {
       "dir": "color-shades",
@@ -20014,7 +20014,7 @@
       ],
       "store": "https://www.raycast.com/litomore/forked-extensions",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/forked-extensions",
-      "treeSha": "43244feeb9e9c830dae770fdf7413dfee2d68030",
+      "treeSha": "80f06bb24aa61f67ae121690cc8c38adb6fa085c",
       "downloads": 874
     },
     {
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 553858
+      "downloads": 553861
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 751064
+      "downloads": 751068
     },
     {
       "dir": "kimai",
@@ -35550,7 +35550,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "cc6ae275db5617d37c16cd596117fc44a82a5008",
-      "downloads": 41977
+      "downloads": 42001
     },
     {
       "dir": "models-dev",
