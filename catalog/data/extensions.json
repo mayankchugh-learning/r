@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4c796719d8cd02d3c40e4e4b8b1d164e9858dc03",
-  "generatedAt": "2026-09-21T20:59:29.103Z",
-  "downloadsRefreshedAt": "2026-09-21T20:59:28.692Z",
+  "commit": "9d94c32b7695c100e8f523d45a50c459d3e4931d",
+  "generatedAt": "2026-09-21T21:00:44.705Z",
+  "downloadsRefreshedAt": "2026-09-21T21:00:44.336Z",
   "count": 3300,
   "extensions": [
     {
@@ -3765,8 +3765,8 @@
       ],
       "store": "https://www.raycast.com/litomore/badges",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/badges",
-      "treeSha": "aa0c25caf5e5c6e4f9937323d3ded87c3d97a5c6",
-      "downloads": 736
+      "treeSha": "827b99c7acbb050bc7c9211b9ea0614d77d4c4bf",
+      "downloads": 737
     },
     {
       "dir": "bahn-info",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 592411
+      "downloads": 592413
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 553861
+      "downloads": 553863
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 751068
+      "downloads": 751069
     },
     {
       "dir": "kimai",

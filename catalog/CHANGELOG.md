@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `9d94c32b76`
+
+**Updated (1):** [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges)
+
 ## 2026-09-21 — upstream `4c796719d8`
 
 **Updated (1):** [Forked Extensions](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions)
