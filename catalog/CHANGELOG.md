@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `fec911393c`
+
+**Updated (1):** [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks)
+
 ## 2026-09-21 — upstream `b0d76ae2e4`
 
 **Updated (1):** [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer)
