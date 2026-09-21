@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `571630b52b`
+
+**Updated (1):** [Kagi News](https://github.com/raycast/extensions/tree/main/extensions/kagi-news)
+
 ## 2026-09-21 — upstream `6dfa7e476f`
 
 **Updated (1):** [Gitmoji Search](https://github.com/raycast/extensions/tree/main/extensions/gitmoji)

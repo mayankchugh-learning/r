@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6dfa7e476f86a54b425632a09c131d272d705d38",
-  "generatedAt": "2026-09-21T13:53:20.330Z",
-  "downloadsRefreshedAt": "2026-09-21T13:53:19.927Z",
+  "commit": "571630b52b9459fa5f7d242da971693bf4491b01",
+  "generatedAt": "2026-09-21T13:56:37.662Z",
+  "downloadsRefreshedAt": "2026-09-21T13:56:37.051Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 591557
+      "downloads": 591564
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 553259
+      "downloads": 553264
     },
     {
       "dir": "google-chrome-profiles",
@@ -28457,7 +28457,7 @@
       ],
       "store": "https://www.raycast.com/mickaphd/kagi-news",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kagi-news",
-      "treeSha": "0ee8e970a5943ca1067c878ececd1d8aabf797ea",
+      "treeSha": "2e7b08829b727541d9af95344ce8fa92798f4ad5",
       "downloads": 652
     },
     {
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 750192
+      "downloads": 750198
     },
     {
       "dir": "kimai",
