@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `d81d1f4d79`
+
+**Updated (1):** [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn)
+
 ## 2026-09-21 — upstream `45489fdea9`
 
 **Updated (1):** [Tesla](https://github.com/raycast/extensions/tree/main/extensions/tesla)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "45489fdea9f7bced45f72b6badd41e343883ba95",
-  "generatedAt": "2026-09-21T06:45:45.876Z",
-  "downloadsRefreshedAt": "2026-09-21T06:45:45.109Z",
+  "commit": "d81d1f4d79ec831ce4cb8045ea3f616e6b1d3ae0",
+  "generatedAt": "2026-09-21T09:38:24.610Z",
+  "downloadsRefreshedAt": "2026-09-21T09:38:24.290Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 590477
+      "downloads": 590946
     },
     {
       "dir": "color-shades",
@@ -10564,7 +10564,7 @@
       ],
       "store": "https://www.raycast.com/rasmusbe/connect-to-vpn",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn",
-      "treeSha": "cc18bffd627a35129f9cd3b0c224231330db18ea",
+      "treeSha": "2c97d67df943c07f014689baad0295cb579294ab",
       "downloads": 12521
     },
     {
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 552506
+      "downloads": 552827
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 749083
+      "downloads": 749561
     },
     {
       "dir": "kimai",
