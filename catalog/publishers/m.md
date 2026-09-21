@@ -108,7 +108,7 @@
 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 2 | 1,438 | **Developer Tools:** [Android](https://github.com/raycast/extensions/tree/main/extensions/android)<br>**News:** [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) |
 | [michael_Andreuzza](https://www.raycast.com/michael_andreuzza) | 1 | 5 | **Data:** [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) |
 | [michael_marvive](https://www.raycast.com/michael_marvive) | 1 | 303 | **Productivity:** [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) |
-| [michael_qiu](https://www.raycast.com/michael_qiu) | 2 | 237 | **Applications:** [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer)<br>**Media:** [Lyric Fever Control](https://github.com/raycast/extensions/tree/main/extensions/lyric-fever-control) |
+| [michael_qiu](https://www.raycast.com/michael_qiu) | 2 | 238 | **Applications:** [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer)<br>**Media:** [Lyric Fever Control](https://github.com/raycast/extensions/tree/main/extensions/lyric-fever-control) |
 | [michael.wang](https://www.raycast.com/michael.wang) | 1 | 1,004 | **Developer Tools:** [GitHub Codespaces](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) |
 | [michaelfarquhar](https://www.raycast.com/michaelfarquhar) | 1 | 1,721 | **Data:** [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) |
 | [michaelheckmann](https://www.raycast.com/michaelheckmann) | 1 | 21 | **Applications:** [Orbit](https://github.com/raycast/extensions/tree/main/extensions/orbit) |

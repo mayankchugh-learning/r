@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-21 — upstream `b0d76ae2e4`
+
+**Updated (1):** [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer)
+
 ## 2026-09-21 — upstream `facf881cf2`
 
 **Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)

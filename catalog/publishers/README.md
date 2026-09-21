@@ -8,17 +8,17 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,254,938 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,255,078 |
 | 2 | [raycast](./id/raycast.md) | 11 | 881,157 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 749,585 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 552,838 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 749,720 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 552,930 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 483,841 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 479,380 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 447,971 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 388,997 |
 | 9 | [vimtor](./id/vimtor.md) | 15 | 329,306 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 323,814 |
-| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 284,660 |
+| 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 284,910 |
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 282,919 |
 | 13 | [notion](https://www.raycast.com/notion) | 1 | 272,275 |
 | 14 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 259,774 |
@@ -1165,8 +1165,8 @@
 | 1155 | [dionisis_lialios](https://www.raycast.com/dionisis_lialios) | 1 | 240 |
 | 1156 | [omorest](https://www.raycast.com/omorest) | 1 | 240 |
 | 1157 | [rafalpetryka](https://www.raycast.com/rafalpetryka) | 1 | 239 |
-| 1158 | [darklong](https://www.raycast.com/darklong) | 1 | 238 |
-| 1159 | [michael_qiu](https://www.raycast.com/michael_qiu) | 2 | 237 |
+| 1158 | [michael_qiu](https://www.raycast.com/michael_qiu) | 2 | 238 |
+| 1159 | [darklong](https://www.raycast.com/darklong) | 1 | 238 |
 | 1160 | [chenhuazhao](https://www.raycast.com/chenhuazhao) | 1 | 237 |
 | 1161 | [laurynas](https://www.raycast.com/laurynas) | 1 | 237 |
 | 1162 | [adnan_tresnjo](https://www.raycast.com/adnan_tresnjo) | 1 | 236 |

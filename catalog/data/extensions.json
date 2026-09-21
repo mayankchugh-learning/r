@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "facf881cf2f2435596834510186fa82162c71aec",
-  "generatedAt": "2026-09-21T09:47:42.964Z",
-  "downloadsRefreshedAt": "2026-09-21T09:47:42.185Z",
+  "commit": "b0d76ae2e49f7dd881d422159f00d02e914a9da3",
+  "generatedAt": "2026-09-21T10:53:30.232Z",
+  "downloadsRefreshedAt": "2026-09-21T10:53:28.872Z",
   "count": 3300,
   "extensions": [
     {
@@ -6102,7 +6102,7 @@
       "store": "https://www.raycast.com/nhojb/brew",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brew",
       "treeSha": "d63093014984968b928eb6e84755a4b1300abf26",
-      "downloads": 284660
+      "downloads": 284910
     },
     {
       "dir": "brew-services",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 590972
+      "downloads": 591112
     },
     {
       "dir": "color-shades",
@@ -13739,8 +13739,8 @@
       ],
       "store": "https://www.raycast.com/michael_qiu/desktoprenamer",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer",
-      "treeSha": "5873fe517cf8c7e08e9253f7863f2315ea636e20",
-      "downloads": 197
+      "treeSha": "d5b612423dec19e0dc9f123b5818550fbc898656",
+      "downloads": 198
     },
     {
       "dir": "deta-space",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 552838
+      "downloads": 552930
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 749585
+      "downloads": 749720
     },
     {
       "dir": "kimai",
