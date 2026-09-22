@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9af4b3a3ddaf10a87824545b594c9b73a722dd3e",
-  "generatedAt": "2026-09-22T05:51:40.316Z",
-  "downloadsRefreshedAt": "2026-09-22T05:51:39.881Z",
+  "commit": "00cbfc17b828edd8a6f267a188f25fa2ef274a65",
+  "generatedAt": "2026-09-22T06:50:40.911Z",
+  "downloadsRefreshedAt": "2026-09-22T06:50:40.064Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 593049
+      "downloads": 593148
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 554360
+      "downloads": 554437
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 751728
+      "downloads": 751827
     },
     {
       "dir": "kimai",
@@ -42203,7 +42203,7 @@
       "description": "Paste text from the clipboard as any format.",
       "author": "koinzhang",
       "owner": null,
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "Developer Tools",
         "Productivity",
@@ -42216,8 +42216,8 @@
       ],
       "store": "https://www.raycast.com/koinzhang/paste-as-plain-text",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text",
-      "treeSha": "f7e4279e69886d1d39a8fb91a6d837fd1f3197ef",
-      "downloads": 26031
+      "treeSha": "65c53f161a1da51c99b3137af32b4fa2c0654fff",
+      "downloads": 26035
     },
     {
       "dir": "paste-from-apple-books",

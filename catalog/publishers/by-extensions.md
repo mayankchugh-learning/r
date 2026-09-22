@@ -9,7 +9,7 @@
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
 | 1 | [xmok](./id/xmok.md) | 114 | 12,829 |
-| 2 | [koinzhang](./id/koinzhang.md) | 50 | 283,628 |
+| 2 | [koinzhang](./id/koinzhang.md) | 50 | 283,632 |
 | 3 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 101,466 |
 | 4 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 182,666 |
 | 5 | [alexi.build](./id/alexi-build.md) | 18 | 2,187 |
@@ -18,7 +18,7 @@
 | 8 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,288 |
 | 9 | [chrismessina](./id/chrismessina.md) | 16 | 7,406 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,828 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,259,174 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,259,273 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 330,159 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 449,203 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,345 |
@@ -396,8 +396,8 @@
 | 386 | [TwoMental](https://www.raycast.com/twomental) | 2 | 14 |
 | 387 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 13 |
 | 388 | github-next | 2 | — |
-| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 751,728 |
-| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 554,360 |
+| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 751,827 |
+| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 554,437 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 390,472 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 325,170 |
 | 393 | [nhojb](https://www.raycast.com/nhojb) | 1 | 285,572 |

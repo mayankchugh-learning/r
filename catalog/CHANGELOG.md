@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-22 — upstream `00cbfc17b8`
+
+**Updated (1):** [Paste as Plain Text](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text)
+
 ## 2026-09-22 — upstream `9af4b3a3dd`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
