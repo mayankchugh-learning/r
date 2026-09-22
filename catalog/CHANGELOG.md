@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-22 — upstream `98a2f74d03`
+
+**Updated (1):** [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh)
+
 ## 2026-09-22 — upstream `982abbe076`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
