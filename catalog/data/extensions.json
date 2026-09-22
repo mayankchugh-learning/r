@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7d0ee1a387ca43e58732ca4e8f153195e6af7db7",
-  "generatedAt": "2026-09-22T07:37:48.034Z",
-  "downloadsRefreshedAt": "2026-09-22T07:37:47.311Z",
+  "commit": "e9b49fec9977e519f74a5c27fdabee406149a727",
+  "generatedAt": "2026-09-22T07:39:26.093Z",
+  "downloadsRefreshedAt": "2026-09-22T07:39:24.618Z",
   "count": 3300,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 593257
+      "downloads": 593260
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 554511
+      "downloads": 554516
     },
     {
       "dir": "google-chrome-profiles",
@@ -24738,7 +24738,7 @@
       ],
       "store": "https://www.raycast.com/svenhofman/hidemyemail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/hidemyemail",
-      "treeSha": "91ea9074ee00b0f6410af164e48fe4db94547ba6",
+      "treeSha": "3a5ff1478ca44cc61f2d47096fa4e5191ddb754b",
       "downloads": 4473
     },
     {
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 751947
+      "downloads": 751948
     },
     {
       "dir": "kimai",
