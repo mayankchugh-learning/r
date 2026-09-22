@@ -1,8 +1,8 @@
 # Data
 
-271 extensions · [← all categories](../README.md)
+272 extensions · [← all categories](../README.md)
 
-macOS: 271 · Windows: 93
+macOS: 272 · Windows: 93
 
 ## Transform & Generate
 
@@ -30,7 +30,7 @@ macOS: 271 · Windows: 93
 | [Games & Esports Data](./games-esports-data.md) | 9 |
 | [Health, Nature & Science](./health-nature-science.md) | 8 |
 | [Travel & Geo Data](./travel-geo-data.md) | 3 |
-| [Business & Databases](./business-databases.md) | 7 |
+| [Business & Databases](./business-databases.md) | 8 |
 
 ## Lookup & Fetch
 

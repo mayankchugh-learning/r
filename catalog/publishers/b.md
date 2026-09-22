@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · **B** · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-82 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+83 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -36,6 +36,7 @@
 | [benvp](https://www.raycast.com/benvp) | 1 | 74,251 | **System:** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) |
 | [berkaydigital](https://www.raycast.com/berkaydigital) | 1 | 15 | **Productivity:** [Fakecrime Upload](https://github.com/raycast/extensions/tree/main/extensions/fakecrime-upload) |
 | [bert](https://www.raycast.com/bert) | 1 | 227 | **Applications:** [Esse Actions](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) |
+| bertro | 1 | — | **Productivity:** [Slides2PDF](https://github.com/raycast/extensions/tree/main/extensions/slides2pdf) |
 | [betty_van_aken](https://www.raycast.com/betty_van_aken) | 1 | 195 | **Fun:** [Learning Snacks](https://github.com/raycast/extensions/tree/main/extensions/learning-snacks) |
 | [beyond-code](https://www.raycast.com/beyond-code) | 1 | 1,617 | **Developer Tools:** [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) |
 | [bfayers](https://www.raycast.com/bfayers) | 1 | 376 | **Security:** [Aegis Authenticator](https://github.com/raycast/extensions/tree/main/extensions/aegis) |

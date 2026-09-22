@@ -2,7 +2,7 @@
 
 [Converters & Encoders](./converters-encoders.md) · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · **Business & Databases** · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · [APIs & Scraping](./apis-scraping.md) · [Lookups & References](./lookups-references.md) · [General](./general.md)
 
-7 of 271 extensions · [← macOS · Data](./README.md)
+8 of 272 extensions · [← macOS · Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -13,3 +13,4 @@
 | [Grist](https://github.com/raycast/extensions/tree/main/extensions/grist) | 66 | Spreadsheet Software to End Data Chaos | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/grist) |
 | [Jotform](https://github.com/raycast/extensions/tree/main/extensions/jotform) | 45 | View Forms and their Submissions | xmok | macOS | [store](https://www.raycast.com/xmok/jotform) |
 | [Formizee](https://github.com/raycast/extensions/tree/main/extensions/formizee) | 38 | The Open-Source Forms Platform | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/formizee) |
+| [Slides2PDF](https://github.com/raycast/extensions/tree/main/extensions/slides2pdf) | — | On-device conversion of slides, documents, spreadsheets, images, and more to PDF. | bertro | macOS | — |
