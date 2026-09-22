@@ -18,14 +18,14 @@
 | 8 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,308 |
 | 9 | [chrismessina](./id/chrismessina.md) | 16 | 7,415 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,831 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,261,873 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,262,151 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 330,595 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 449,758 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,377 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,113 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 11,014 |
 | 17 | [kud](./id/kud.md) | 13 | 7,097 |
-| 18 | [raycast](./id/raycast.md) | 11 | 885,208 |
+| 18 | [raycast](./id/raycast.md) | 11 | 885,256 |
 | 19 | [Rob](./id/rob.md) | 11 | 12,081 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 10,309 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 22,655 |
@@ -106,7 +106,7 @@
 | 96 | [Kang](https://www.raycast.com/Kang) | 3 | 65,404 |
 | 97 | [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 49,204 |
 | 98 | [lardissone](https://www.raycast.com/lardissone) | 3 | 46,754 |
-| 99 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 41,453 |
+| 99 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 41,460 |
 | 100 | [isfeng](https://www.raycast.com/isfeng) | 3 | 39,841 |
 | 101 | [hmarr](https://www.raycast.com/hmarr) | 3 | 25,253 |
 | 102 | [ilian](https://www.raycast.com/ilian) | 3 | 17,382 |
@@ -396,8 +396,8 @@
 | 386 | [tai](https://www.raycast.com/tai) | 2 | 14 |
 | 387 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 388 | github-next | 2 | — |
-| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 753,295 |
-| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 555,415 |
+| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 753,578 |
+| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 555,593 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 391,254 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 325,857 |
 | 393 | [nhojb](https://www.raycast.com/nhojb) | 1 | 286,031 |
@@ -526,7 +526,7 @@
 | 516 | [svenhofman](https://www.raycast.com/svenhofman) | 1 | 4,482 |
 | 517 | [kmusick](https://www.raycast.com/kmusick) | 1 | 4,437 |
 | 518 | [ozencb](https://www.raycast.com/ozencb) | 1 | 4,401 |
-| 519 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,388 |
+| 519 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,389 |
 | 520 | [ning_cao_cabeza](https://www.raycast.com/ning_cao_cabeza) | 1 | 4,327 |
 | 521 | [skydiver](https://www.raycast.com/skydiver) | 1 | 4,274 |
 | 522 | [daniel-stoneuk](https://www.raycast.com/daniel-stoneuk) | 1 | 4,233 |

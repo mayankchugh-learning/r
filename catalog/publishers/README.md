@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,261,873 |
-| 2 | [raycast](./id/raycast.md) | 11 | 885,208 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 753,295 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 555,415 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,262,151 |
+| 2 | [raycast](./id/raycast.md) | 11 | 885,256 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 753,578 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 555,593 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 486,031 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 481,816 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 449,758 |
@@ -69,8 +69,8 @@
 | 59 | [kawamataryo](https://www.raycast.com/kawamataryo) | 4 | 46,090 |
 | 60 | [1weiho](https://www.raycast.com/1weiho) | 6 | 45,069 |
 | 61 | [anwarulislam](https://www.raycast.com/anwarulislam) | 1 | 42,268 |
-| 62 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 41,460 |
-| 63 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 41,453 |
+| 62 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 41,460 |
+| 63 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 41,460 |
 | 64 | [DanielSinclair](https://www.raycast.com/DanielSinclair) | 1 | 41,252 |
 | 65 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 41,102 |
 | 66 | [eggsy](https://www.raycast.com/eggsy) | 5 | 39,984 |
@@ -289,7 +289,7 @@
 | 279 | [stevensd2m](https://www.raycast.com/stevensd2m) | 2 | 4,401 |
 | 280 | [ozencb](https://www.raycast.com/ozencb) | 1 | 4,401 |
 | 281 | [danpalmer](https://www.raycast.com/danpalmer) | 3 | 4,392 |
-| 282 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,388 |
+| 282 | [Kinbaum](https://www.raycast.com/Kinbaum) | 1 | 4,389 |
 | 283 | [alewandowski](https://www.raycast.com/alewandowski) | 2 | 4,385 |
 | 284 | [ning_cao_cabeza](https://www.raycast.com/ning_cao_cabeza) | 1 | 4,327 |
 | 285 | [skydiver](https://www.raycast.com/skydiver) | 1 | 4,274 |
