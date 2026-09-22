@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-22 — upstream `9af4b3a3dd`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-22 — upstream `8c5f368436`
 
 **Updated (1):** [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)
