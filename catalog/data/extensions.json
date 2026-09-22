@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "353e21d9404a329d21bf75a6efea6149f179b75b",
-  "generatedAt": "2026-09-22T09:16:39.684Z",
-  "downloadsRefreshedAt": "2026-09-22T09:16:38.770Z",
+  "commit": "982abbe076c1f4d8cbd1b6bfaca2dcaed9708392",
+  "generatedAt": "2026-09-22T13:17:43.739Z",
+  "downloadsRefreshedAt": "2026-09-22T13:17:42.140Z",
   "count": 3302,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 593517
+      "downloads": 594046
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 554693
+      "downloads": 555058
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 752183
+      "downloads": 752725
     },
     {
       "dir": "kimai",
@@ -35549,8 +35549,8 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "cc6ae275db5617d37c16cd596117fc44a82a5008",
-      "downloads": 42030
+      "treeSha": "4caed70d05213519579069c3d7df804e4ed0efb8",
+      "downloads": 42075
     },
     {
       "dir": "models-dev",
@@ -54784,7 +54784,7 @@
       "store": "https://www.raycast.com/bertro/slides2pdf",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slides2pdf",
       "treeSha": "efa3f8746d3bd8a6713a9ef47da4af1b9c07ca1e",
-      "downloads": 3
+      "downloads": 0
     },
     {
       "dir": "slowed-reverb",
