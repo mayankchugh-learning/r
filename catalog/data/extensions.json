@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "82286f6a0aeb1377f9751d3f22aeecb41ade5ae2",
-  "generatedAt": "2026-09-22T17:30:43.047Z",
-  "downloadsRefreshedAt": "2026-09-22T17:30:42.146Z",
+  "commit": "ba0dcc8f70e9373965708aa858a00c051f11e640",
+  "generatedAt": "2026-09-22T17:31:23.750Z",
+  "downloadsRefreshedAt": "2026-09-22T17:31:23.343Z",
   "count": 3302,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 594593
+      "downloads": 594594
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 555412
+      "downloads": 555413
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 753280
+      "downloads": 753283
     },
     {
       "dir": "kimai",
@@ -48323,7 +48323,7 @@
       "description": "Perform Local Inference with Ollama",
       "author": "massimiliano_pasquini",
       "owner": null,
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "Productivity"
       ],
@@ -48334,7 +48334,7 @@
       ],
       "store": "https://www.raycast.com/massimiliano_pasquini/raycast-ollama",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama",
-      "treeSha": "2e0bd7eaf7662021f99fdffbfeca26a0e65cf42a",
+      "treeSha": "c71f45ea078211cd31f4da6236b40188810fbd7f",
       "downloads": 41056
     },
     {
