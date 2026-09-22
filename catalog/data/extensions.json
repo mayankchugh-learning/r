@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "fb25bf262a73b95b93dd6835593d989c9281089d",
-  "generatedAt": "2026-09-22T05:19:41.447Z",
-  "downloadsRefreshedAt": "2026-09-22T05:19:41.031Z",
+  "commit": "1222e83df8222b14237fea79b1fa3f84f52369de",
+  "generatedAt": "2026-09-22T05:48:52.165Z",
+  "downloadsRefreshedAt": "2026-09-22T05:48:51.630Z",
   "count": 3300,
   "extensions": [
     {
@@ -9011,8 +9011,8 @@
       ],
       "store": "https://www.raycast.com/isma/clockify",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/clockify",
-      "treeSha": "e7478e963efc401e9b2249217c2f800c1a3f5f8c",
-      "downloads": 4594
+      "treeSha": "10ed9d04bb2dca1699f2a19d07e5e65de5ba1594",
+      "downloads": 4595
     },
     {
       "dir": "clockodo",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 593015
+      "downloads": 593045
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 554332
+      "downloads": 554359
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 751680
+      "downloads": 751724
     },
     {
       "dir": "kimai",
