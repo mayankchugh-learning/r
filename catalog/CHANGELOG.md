@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-22 — upstream `0c0fd9c0f5`
+
+**Updated (2):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github), [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)
+
 ## 2026-09-22 — upstream `ba0dcc8f70`
 
 **Updated (1):** [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama)
