@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-22 — upstream `ef7863a766`
+
+**Updated (1):** [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker)
+
 ## 2026-09-22 — upstream `edb8a39863`
 
 **Updated (1):** [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks)

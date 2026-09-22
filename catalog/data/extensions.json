@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "edb8a398635583b958149a43ae8b9ba4c4269a98",
-  "generatedAt": "2026-09-22T05:14:20.105Z",
-  "downloadsRefreshedAt": "2026-09-22T05:14:19.782Z",
+  "commit": "ef7863a766b4dd3ac09f39223bc35da91005c0d1",
+  "generatedAt": "2026-09-22T05:16:40.019Z",
+  "downloadsRefreshedAt": "2026-09-22T05:16:39.714Z",
   "count": 3300,
   "extensions": [
     {
@@ -6208,7 +6208,7 @@
       "store": "https://www.raycast.com/raycast/browser-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks",
       "treeSha": "d68a26f793d92ca88d81ce3e6d40a50a92b18c56",
-      "downloads": 65274
+      "downloads": 65284
     },
     {
       "dir": "browser-history",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 593006
+      "downloads": 593011
     },
     {
       "dir": "color-shades",
@@ -14945,7 +14945,7 @@
       "description": "Manage Docker with Raycast",
       "author": "priithaamer",
       "owner": null,
-      "contributors": 8,
+      "contributors": 9,
       "categories": [
         "Developer Tools",
         "System"
@@ -14957,7 +14957,7 @@
       ],
       "store": "https://www.raycast.com/priithaamer/docker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/docker",
-      "treeSha": "921a2a6fe6bf8140549fca173a5d104837fda7fc",
+      "treeSha": "e861fd2c1715778aaf8559e3a4f9bfcf42496bfe",
       "downloads": 51695
     },
     {
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 554328
+      "downloads": 554330
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 751674
+      "downloads": 751677
     },
     {
       "dir": "kimai",
