@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-22 — upstream `7e0ed84a99`
+
+**Updated (1):** [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control)
+
 ## 2026-09-22 — upstream `0c0fd9c0f5`
 
 **Updated (2):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github), [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)
