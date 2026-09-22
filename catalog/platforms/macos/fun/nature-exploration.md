@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Is It Toxic To?](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) | 567 | Check if a plant is toxic to an animal | chesterhow | macOS | [store](https://www.raycast.com/chesterhow/is-it-toxic-to) |
-| [Google Maps Explorer](https://github.com/raycast/extensions/tree/main/extensions/findnearby) | 542 | Explore new places near you | lichinlin | macOS, Windows | [store](https://www.raycast.com/lichinlin/findnearby) |
+| [Is It Toxic To?](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) | 569 | Check if a plant is toxic to an animal | chesterhow | macOS | [store](https://www.raycast.com/chesterhow/is-it-toxic-to) |
+| [Google Maps Explorer](https://github.com/raycast/extensions/tree/main/extensions/findnearby) | 544 | Explore new places near you | lichinlin | macOS, Windows | [store](https://www.raycast.com/lichinlin/findnearby) |
 | [eBird](https://github.com/raycast/extensions/tree/main/extensions/ebird) | 73 | Exploring bird species from eBird | OozyGrub | macOS | [store](https://www.raycast.com/OozyGrub/ebird) |
 | [Groundhog Day](https://github.com/raycast/extensions/tree/main/extensions/groundhog-day) | 24 | Free, accurate, and portable data on prognosticating groundhogs and their yearly predictions | xmok | macOS | [store](https://www.raycast.com/xmok/groundhog-day) |
 | [Fluent Outdoors](https://github.com/raycast/extensions/tree/main/extensions/fluent-outdoors) | 13 | Show maintenance status for outdoors activity tracks like skiing or skating. Backend system Fluent. | juhamust | macOS | [store](https://www.raycast.com/juhamust/fluent-outdoors) |

@@ -2,7 +2,7 @@
 
 [Games & Gaming](./games-gaming.md) · [AI & Generative Fun](./ai-generative-fun.md) · [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) · [Jokes & Randomness](./jokes-randomness.md) · [Sports](./sports.md) · [Movies, TV & Anime](./movies-tv-anime.md) · [Music & Instruments](./music-instruments.md) · **Pop Culture & Fandom** · [Generators & Toys](./generators-toys.md) · [Nature & Exploration](./nature-exploration.md) · [Wallpapers & Effects](./wallpapers-effects.md) · [Food & Drink](./food-drink.md) · [General](./general.md)
 
-10 of 278 extensions · [← macOS · Fun](./README.md)
+11 of 278 extensions · [← macOS · Fun](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -14,5 +14,6 @@
 | [Stardew Vally Character Search](https://github.com/raycast/extensions/tree/main/extensions/stardew-valley-wiki) | 93 | Search and open Stardew Valley's characters in the wiki | pokie | macOS | [store](https://www.raycast.com/pokie/stardew-valley-wiki) |
 | [Gift Stardew Valley](https://github.com/raycast/extensions/tree/main/extensions/gift-stardew-valley) | 90 | A database of gifts for Stardew Valley characters. | naorojas | macOS, Windows | [store](https://www.raycast.com/naorojas/gift-stardew-valley) |
 | [Potter DB](https://github.com/raycast/extensions/tree/main/extensions/potter-db) | 84 | Dive into the magical world of Harry Potter via Potter DB. | xmok | macOS | [store](https://www.raycast.com/xmok/potter-db) |
+| [MapleStory](https://github.com/raycast/extensions/tree/main/extensions/maplestory-gg) | 52 | Look up Global MapleStory characters using Nexon rankings. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/maplestory-gg) |
 | [Chiikawa Characters](https://github.com/raycast/extensions/tree/main/extensions/chiikawa-character) | 37 | Search and browse Chiikawa characters offline | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/chiikawa-character) |
 | [Lunaris](https://github.com/raycast/extensions/tree/main/extensions/lunaris) | 14 | Check Genshin Impact character, weapon & artifact information via Lunaris | sphygmus | macOS, Windows | [store](https://www.raycast.com/sphygmus/lunaris) |

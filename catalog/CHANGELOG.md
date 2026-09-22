@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-22 — upstream `51c2d39bd9`
+
+**Updated (1):** [MapleStory](https://github.com/raycast/extensions/tree/main/extensions/maplestory-gg)
+
 ## 2026-09-21 — upstream `0ed1f1f50c`
 
 **Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)

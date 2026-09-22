@@ -20,7 +20,7 @@ macOS: 278 · Windows: 95
 | [Movies, TV & Anime](./movies-tv-anime.md) | 10 |
 | [Music & Instruments](./music-instruments.md) | 8 |
 | [Sports](./sports.md) | 15 |
-| [Pop Culture & Fandom](./pop-culture-fandom.md) | 10 |
+| [Pop Culture & Fandom](./pop-culture-fandom.md) | 11 |
 
 ## Express & Explore
 
@@ -38,6 +38,6 @@ macOS: 278 · Windows: 95
 | [Cards ✦](./cards.md) | 4 |
 | [Discover ✦](./discover.md) | 4 |
 
-Plus [General](./general.md) — 99 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 98 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

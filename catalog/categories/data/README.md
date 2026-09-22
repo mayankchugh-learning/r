@@ -10,7 +10,7 @@ macOS: 271 · Windows: 93
 | --- | --- |
 | [Converters & Encoders](./converters-encoders.md) | 22 |
 | [Generators](./generators.md) | 8 |
-| [Text Processing](./text-processing.md) | 10 |
+| [Text Processing](./text-processing.md) | 11 |
 | [Files & Archives](./files-archives.md) | 15 |
 
 ## Calculate & Measure
@@ -30,7 +30,7 @@ macOS: 271 · Windows: 93
 | [Games & Esports Data](./games-esports-data.md) | 9 |
 | [Health, Nature & Science](./health-nature-science.md) | 8 |
 | [Travel & Geo Data](./travel-geo-data.md) | 3 |
-| [Business & Databases](./business-databases.md) | 8 |
+| [Business & Databases](./business-databases.md) | 7 |
 
 ## Lookup & Fetch
 

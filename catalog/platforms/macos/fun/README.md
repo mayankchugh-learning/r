@@ -18,7 +18,7 @@
 | [Movies, TV & Anime](./movies-tv-anime.md) | 10 |
 | [Music & Instruments](./music-instruments.md) | 8 |
 | [Sports](./sports.md) | 15 |
-| [Pop Culture & Fandom](./pop-culture-fandom.md) | 10 |
+| [Pop Culture & Fandom](./pop-culture-fandom.md) | 11 |
 
 ## Express & Explore
 
@@ -29,4 +29,4 @@
 | [Nature & Exploration](./nature-exploration.md) | 5 |
 | [Food & Drink](./food-drink.md) | 7 |
 
-Plus [General](./general.md) — 107 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 106 extensions that don't fit a topic yet.
