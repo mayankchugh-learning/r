@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-22 — upstream `8c5f368436`
+
+**Updated (1):** [Search Zotero](https://github.com/raycast/extensions/tree/main/extensions/zotero)
+
 ## 2026-09-22 — upstream `1222e83df8`
 
 **Updated (1):** [Clockify](https://github.com/raycast/extensions/tree/main/extensions/clockify)

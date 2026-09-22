@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1222e83df8222b14237fea79b1fa3f84f52369de",
-  "generatedAt": "2026-09-22T05:48:52.165Z",
-  "downloadsRefreshedAt": "2026-09-22T05:48:51.630Z",
+  "commit": "8c5f368436557e7c2c792a08897d0d98203529a4",
+  "generatedAt": "2026-09-22T05:49:22.386Z",
+  "downloadsRefreshedAt": "2026-09-22T05:49:21.502Z",
   "count": 3300,
   "extensions": [
     {
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 751724
+      "downloads": 751726
     },
     {
       "dir": "kimai",
@@ -69275,7 +69275,7 @@
       ],
       "store": "https://www.raycast.com/reckoning-dev/zotero",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zotero",
-      "treeSha": "d7e47e0a766ba0710e3871554dbf7a825ee3e83a",
+      "treeSha": "4416bcb08787664a228b36b5b7b4c205d27624fe",
       "downloads": 8175
     },
     {
