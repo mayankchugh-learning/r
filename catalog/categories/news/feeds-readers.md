@@ -1,8 +1,8 @@
 # Feeds & Readers
 
-17 extensions · [← News](./README.md)
+18 extensions · [← News](./README.md)
 
-[Articles ✦](#articles) (6) · [Posts ✦](#posts) (4) · [General](#general) (7)
+[Articles ✦](#articles) (6) · [Posts ✦](#posts) (4) · [General](#general) (8)
 
 *✦ auto-discovered topic group*
 
@@ -37,3 +37,4 @@
 | [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 310 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 | [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 145 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
 | [Hatena Bookmark](https://github.com/raycast/extensions/tree/main/extensions/hatena-bookmark) | 68 | Read the hotentry of hatena bookmark. | inamuu | macOS | [store](https://www.raycast.com/inamuu/hatena-bookmark) |
+| [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) | — | Search the Signal 500 — 500 hand-scored news and expert sources, ranked on editorial quality, ad restraint and independence by feeds.bar. | graeme_chard | macOS, Windows | — |

@@ -1,8 +1,8 @@
 # Cross-platform · News
 
-30 extensions · [← Cross-platform](../README.md)
+31 extensions · [← Cross-platform](../README.md)
 
-[Tech & Startup News](#tech-startup-news) (3) · [Feeds & Readers](#feeds-readers) (7) · [Sports & Esports News](#sports-esports-news) (6) · [Communities & Forums](#communities-forums) (2) · [Markets & Predictions](#markets-predictions) (1) · [World & Business](#world-business) (4) · [General](#general) (7)
+[Tech & Startup News](#tech-startup-news) (3) · [Feeds & Readers](#feeds-readers) (8) · [Sports & Esports News](#sports-esports-news) (6) · [Communities & Forums](#communities-forums) (2) · [Markets & Predictions](#markets-predictions) (1) · [World & Business](#world-business) (4) · [General](#general) (7)
 
 ## Topics
 
@@ -53,6 +53,7 @@
 | [Inoreader](https://github.com/raycast/extensions/tree/main/extensions/inoreader) | 145 | Browse your Inoreader RSS feed | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/inoreader) |
 | [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) | 115 | Browse posts, news, topics, and top blogs from DTF.ru with AI-powered features | shadeov | macOS, Windows | [store](https://www.raycast.com/Shadeov/dtf) |
 | [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | 49 | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
+| [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) | — | Search the Signal 500 — 500 hand-scored news and expert sources, ranked on editorial quality, ad restraint and independence by feeds.bar. | graeme_chard | macOS, Windows | — |
 
 ### Communities & Forums
 

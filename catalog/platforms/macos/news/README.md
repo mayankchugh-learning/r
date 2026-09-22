@@ -1,8 +1,8 @@
 # macOS · News
 
-96 extensions · [← macOS](../README.md)
+97 extensions · [← macOS](../README.md)
 
-[Tech & Startup News](#tech-startup-news) (10) · [Feeds & Readers](#feeds-readers) (17) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (4) · [World & Business](#world-business) (21) · [General](#general) (28)
+[Tech & Startup News](#tech-startup-news) (10) · [Feeds & Readers](#feeds-readers) (18) · [Sports & Esports News](#sports-esports-news) (12) · [Communities & Forums](#communities-forums) (4) · [Markets & Predictions](#markets-predictions) (4) · [World & Business](#world-business) (21) · [General](#general) (28)
 
 ## Topics
 
@@ -96,6 +96,7 @@
 | [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | 49 | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
 | [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) | 27 | Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/jue-jin) |
 | [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) | 4 | Browse Android Weekly issues and read the latest articles | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android-weekly) |
+| [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) | — | Search the Signal 500 — 500 hand-scored news and expert sources, ranked on editorial quality, ad restraint and independence by feeds.bar. | graeme_chard | macOS, Windows | — |
 
 ### Communities & Forums
 

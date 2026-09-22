@@ -1,8 +1,8 @@
 # News
 
-96 extensions · [← all categories](../README.md)
+97 extensions · [← all categories](../README.md)
 
-macOS: 96 · Windows: 30
+macOS: 97 · Windows: 31
 
 ## Topics
 
@@ -17,7 +17,7 @@ macOS: 96 · Windows: 30
 
 | Topic | Extensions |
 | --- | --- |
-| [Feeds & Readers](./feeds-readers.md) | 17 |
+| [Feeds & Readers](./feeds-readers.md) | 18 |
 | [Communities & Forums](./communities-forums.md) | 4 |
 
 Plus [General](./general.md) — 28 extensions that don't fit a topic yet.

@@ -63,7 +63,7 @@
 | [Granite](https://github.com/raycast/extensions/tree/main/extensions/granite) | 6 | Search, browse, and ask your Granite document vault. | Shpigford | macOS | [store](https://www.raycast.com/Shpigford/granite) |
 | [Subnoto - Confidential Electronic Signature](https://github.com/raycast/extensions/tree/main/extensions/subnoto) | 3 | Send and manage documents for electronic signature in Subnoto from Raycast | corentin_mors | macOS, Windows | [store](https://www.raycast.com/corentin_mors/subnoto) |
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
-| [Slides2PDF](https://github.com/raycast/extensions/tree/main/extensions/slides2pdf) | — | On-device conversion of slides, documents, spreadsheets, images, and more to PDF. | bertro | macOS | — |
+| [Slides2PDF](https://github.com/raycast/extensions/tree/main/extensions/slides2pdf) | 0 | On-device conversion of slides, documents, spreadsheets, images, and more to PDF. | bertro | macOS | [store](https://www.raycast.com/bertro/slides2pdf) |
 
 ## Finder ✦
 

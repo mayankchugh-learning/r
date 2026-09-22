@@ -1,6 +1,6 @@
 # Publishers
 
-2211 publishers · [← catalog index](../README.md)
+2212 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,259,404 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,259,436 |
 | 2 | [raycast](./id/raycast.md) | 11 | 883,861 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 751,968 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 554,530 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 751,996 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 554,555 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 485,254 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 481,009 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 449,203 |
@@ -2210,12 +2210,13 @@
 | 2200 | [leeron](https://www.raycast.com/leeron) | 1 | 1 |
 | 2201 | [lyager](https://www.raycast.com/lyager) | 1 | 1 |
 | 2202 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2203 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2204 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2205 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2206 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2207 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2208 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2209 | github-next | 2 | — |
-| 2210 | bertro | 1 | — |
-| 2211 | multi | 1 | — |
+| 2203 | [bertro](https://www.raycast.com/bertro) | 1 | 0 |
+| 2204 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2205 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2206 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2207 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2208 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2209 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2210 | github-next | 2 | — |
+| 2211 | graeme_chard | 1 | — |
+| 2212 | multi | 1 | — |

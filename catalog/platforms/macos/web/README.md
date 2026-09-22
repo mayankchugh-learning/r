@@ -1,12 +1,12 @@
 # macOS · Web
 
-471 extensions · [← macOS](../README.md)
+472 extensions · [← macOS](../README.md)
 
 ## Browse & Search
 
 | Topic | Extensions |
 | --- | --- |
-| [Search Engines](./search-engines.md) | 163 |
+| [Search Engines](./search-engines.md) | 164 |
 | [Browsers & Tabs](./browsers-tabs.md) | 9 |
 | [Bookmarks & Read Later](./bookmarks-read-later.md) | 6 |
 
