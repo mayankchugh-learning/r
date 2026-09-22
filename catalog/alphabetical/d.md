@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 82,661 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Deepcast](https://github.com/raycast/extensions/tree/main/extensions/deepcast) | 61,665 | Translate words, or entire sentences, into 27 different languages using DeepL. | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/deepcast) |
-| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 51,695 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
+| [Docker](https://github.com/raycast/extensions/tree/main/extensions/docker) | 51,701 | Manage Docker with Raycast | priithaamer | macOS, Windows | [store](https://www.raycast.com/priithaamer/docker) |
 | [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover) | 27,460 | Add selected files or clipboard content to Dropover | jag-k | macOS | [store](https://www.raycast.com/jag-k/dropover) |
 | [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 25,674 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
 | [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 24,395 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |

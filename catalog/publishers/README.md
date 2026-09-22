@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,259,136 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,259,140 |
 | 2 | [raycast](./id/raycast.md) | 11 | 883,861 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 751,677 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 554,330 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 751,680 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 554,332 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 485,254 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 481,009 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 449,203 |
@@ -59,7 +59,7 @@
 | 49 | [ratoru](https://www.raycast.com/ratoru) | 2 | 53,969 |
 | 50 | [garrett](https://www.raycast.com/garrett) | 2 | 52,512 |
 | 51 | [yug2005](https://www.raycast.com/yug2005) | 4 | 51,915 |
-| 52 | [priithaamer](https://www.raycast.com/priithaamer) | 1 | 51,695 |
+| 52 | [priithaamer](https://www.raycast.com/priithaamer) | 1 | 51,701 |
 | 53 | [MarkusLanger](https://www.raycast.com/MarkusLanger) | 1 | 51,051 |
 | 54 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 50,990 |
 | 55 | [mackopes](https://www.raycast.com/mackopes) | 1 | 50,098 |
