@@ -96,7 +96,7 @@
 | [FreshRSS](https://github.com/raycast/extensions/tree/main/extensions/freshrss) | 49 | Browse and manage your FreshRSS articles | semyon_surkov | macOS, Windows | [store](https://www.raycast.com/semyon_surkov/freshrss) |
 | [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) | 27 | Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles | sharker_alice_sharker | macOS | [store](https://www.raycast.com/sharker_alice_sharker/jue-jin) |
 | [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) | 4 | Browse Android Weekly issues and read the latest articles | mibrahimdev | macOS | [store](https://www.raycast.com/mibrahimdev/android-weekly) |
-| [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) | — | Search the Signal 500 — 500 hand-scored news and expert sources, ranked on editorial quality, ad restraint and independence by feeds.bar. | graeme_chard | macOS, Windows | — |
+| [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) | 0 | Search the Signal 500 — 500 hand-scored news and expert sources, ranked on editorial quality, ad restraint and independence by feeds.bar. | graeme_chard | macOS, Windows | [store](https://www.raycast.com/graeme_chard/signal-500) |
 
 ### Communities & Forums
 

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e4503058a273d620e22b48806515826a81a45dec",
-  "generatedAt": "2026-09-22T07:58:32.491Z",
-  "downloadsRefreshedAt": "2026-09-22T07:58:31.725Z",
+  "commit": "353e21d9404a329d21bf75a6efea6149f179b75b",
+  "generatedAt": "2026-09-22T09:16:39.684Z",
+  "downloadsRefreshedAt": "2026-09-22T09:16:38.770Z",
   "count": 3302,
   "extensions": [
     {
@@ -9829,7 +9829,7 @@
       ],
       "store": "https://www.raycast.com/jomatsu/codex-sessions",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/codex-sessions",
-      "treeSha": "8aa20c7fa93cc6719eb98c9e4b04f212317bc5a8",
+      "treeSha": "a50d6a04cc458eab9cd4452ec012dbd41d520088",
       "downloads": 43
     },
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 593311
+      "downloads": 593517
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 554555
+      "downloads": 554693
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 751996
+      "downloads": 752183
     },
     {
       "dir": "kimai",
@@ -53961,10 +53961,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/graeme_chard/signal-500",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/signal-500",
       "treeSha": "065c53255a6815bab2c21897f0ce2d3fe9f32c4b",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "silent-mention",
@@ -54784,7 +54784,7 @@
       "store": "https://www.raycast.com/bertro/slides2pdf",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slides2pdf",
       "treeSha": "efa3f8746d3bd8a6713a9ef47da4af1b9c07ca1e",
-      "downloads": 0
+      "downloads": 3
     },
     {
       "dir": "slowed-reverb",

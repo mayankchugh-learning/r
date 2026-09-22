@@ -59,7 +59,7 @@
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 17 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
 | [TinyFish Search](https://github.com/raycast/extensions/tree/main/extensions/tinyfish-search) | 15 | Search the web with TinyFish, open result URLs, and fetch clean page content. | pranav_janakiraman | macOS, Windows | [store](https://www.raycast.com/pranav_janakiraman/tinyfish-search) |
 | [Shopify Shop](https://github.com/raycast/extensions/tree/main/extensions/shopify-shop) | 14 | Browse and search products from a Shopify store. | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/shopify-shop) |
-| [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) | — | Search the Signal 500 — 500 hand-scored news and expert sources, ranked on editorial quality, ad restraint and independence by feeds.bar. | graeme_chard | macOS, Windows | — |
+| [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) | 0 | Search the Signal 500 — 500 hand-scored news and expert sources, ranked on editorial quality, ad restraint and independence by feeds.bar. | graeme_chard | macOS, Windows | [store](https://www.raycast.com/graeme_chard/signal-500) |
 
 ### Browsers & Tabs
 

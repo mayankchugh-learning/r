@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-22 — upstream `353e21d940`
+
+**Updated (1):** [Codex Sessions](https://github.com/raycast/extensions/tree/main/extensions/codex-sessions)
+
 ## 2026-09-22 — upstream `e4503058a2`
 
 **Added (1):** [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500)

@@ -36,7 +36,7 @@
 | [benvp](https://www.raycast.com/benvp) | 1 | 74,251 | **System:** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) |
 | [berkaydigital](https://www.raycast.com/berkaydigital) | 1 | 15 | **Productivity:** [Fakecrime Upload](https://github.com/raycast/extensions/tree/main/extensions/fakecrime-upload) |
 | [bert](https://www.raycast.com/bert) | 1 | 227 | **Applications:** [Esse Actions](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) |
-| [bertro](https://www.raycast.com/bertro) | 1 | 0 | **Productivity:** [Slides2PDF](https://github.com/raycast/extensions/tree/main/extensions/slides2pdf) |
+| [bertro](https://www.raycast.com/bertro) | 1 | 3 | **Productivity:** [Slides2PDF](https://github.com/raycast/extensions/tree/main/extensions/slides2pdf) |
 | [betty_van_aken](https://www.raycast.com/betty_van_aken) | 1 | 195 | **Fun:** [Learning Snacks](https://github.com/raycast/extensions/tree/main/extensions/learning-snacks) |
 | [beyond-code](https://www.raycast.com/beyond-code) | 1 | 1,617 | **Developer Tools:** [Laravel Herd](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) |
 | [bfayers](https://www.raycast.com/bfayers) | 1 | 376 | **Security:** [Aegis Authenticator](https://github.com/raycast/extensions/tree/main/extensions/aegis) |

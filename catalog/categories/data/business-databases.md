@@ -11,4 +11,4 @@
 | [Grist](https://github.com/raycast/extensions/tree/main/extensions/grist) | 66 | Spreadsheet Software to End Data Chaos | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/grist) |
 | [Jotform](https://github.com/raycast/extensions/tree/main/extensions/jotform) | 45 | View Forms and their Submissions | xmok | macOS | [store](https://www.raycast.com/xmok/jotform) |
 | [Formizee](https://github.com/raycast/extensions/tree/main/extensions/formizee) | 38 | The Open-Source Forms Platform | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/formizee) |
-| [Slides2PDF](https://github.com/raycast/extensions/tree/main/extensions/slides2pdf) | 0 | On-device conversion of slides, documents, spreadsheets, images, and more to PDF. | bertro | macOS | [store](https://www.raycast.com/bertro/slides2pdf) |
+| [Slides2PDF](https://github.com/raycast/extensions/tree/main/extensions/slides2pdf) | 3 | On-device conversion of slides, documents, spreadsheets, images, and more to PDF. | bertro | macOS | [store](https://www.raycast.com/bertro/slides2pdf) |

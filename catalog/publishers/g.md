@@ -53,7 +53,7 @@
 | [gongchr](https://www.raycast.com/gongchr) | 1 | 147 | **Developer Tools:** [Code Runway](https://github.com/raycast/extensions/tree/main/extensions/code-runway) |
 | [goran_breivik](https://www.raycast.com/goran_breivik) | 1 | 30 | **News:** [Cyber Security Pulse](https://github.com/raycast/extensions/tree/main/extensions/cyber-security-pulse) |
 | [Gorzog](https://www.raycast.com/Gorzog) | 1 | 3,811 | **Productivity:** [Spell](https://github.com/raycast/extensions/tree/main/extensions/spell) |
-| graeme_chard | 1 | — | **News:** [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) |
+| [graeme_chard](https://www.raycast.com/graeme_chard) | 1 | 0 | **News:** [Signal 500](https://github.com/raycast/extensions/tree/main/extensions/signal-500) |
 | [grafbase](https://www.raycast.com/grafbase) | 1 | 68 | **Developer Tools:** [Grafbase](https://github.com/raycast/extensions/tree/main/extensions/grafbase) |
 | [graham_hall](https://www.raycast.com/graham_hall) | 1 | 144 | **Fun:** [Board Game Geek](https://github.com/raycast/extensions/tree/main/extensions/board-game-geek) |
 | [gregoralbrecht](https://www.raycast.com/gregoralbrecht) | 1 | 3,203 | **Uncategorized:** [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) |
