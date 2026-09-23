@@ -29,7 +29,7 @@
 | [tears330](https://www.raycast.com/tears330) | 1 | 964 | **Productivity:** [Eudic](https://github.com/raycast/extensions/tree/main/extensions/eudic) |
 | [teemu_suvinen](https://www.raycast.com/teemu_suvinen) | 1 | 5,163 | **System:** [Window Layouts](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) |
 | [tegola](https://www.raycast.com/tegola) | 2 | 90,297 | **Web:** [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall), [DuckDuckGo Search](https://github.com/raycast/extensions/tree/main/extensions/duck-duck-go-search) |
-| [tejas911](https://www.raycast.com/tejas911) | 1 | 1 | **System:** [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios) |
+| [tejas911](https://www.raycast.com/tejas911) | 1 | 2 | **System:** [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios) |
 | [tembo](https://www.raycast.com/tembo) | 1 | 188 | **Developer Tools:** [Tembo](https://github.com/raycast/extensions/tree/main/extensions/tembo) |
 | [tensor](https://www.raycast.com/tensor) | 1 | 31 | **Productivity:** [Zeitraum](https://github.com/raycast/extensions/tree/main/extensions/zeitraum) |
 | [teologov](https://www.raycast.com/teologov) | 1 | 16 | **Developer Tools:** [SnipperApp](https://github.com/raycast/extensions/tree/main/extensions/snipperapp) |
@@ -67,7 +67,7 @@
 | [thilip_lindseth](https://www.raycast.com/thilip_lindseth) | 1 | 163 | **System:** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector) |
 | [third774](https://www.raycast.com/third774) | 3 | 67,320 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 9,302 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,265,934 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,265,988 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 41 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 64,057 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,710 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |

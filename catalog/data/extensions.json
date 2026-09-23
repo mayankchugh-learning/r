@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "85d7643e3f423b76a005581abf8ac0229a71e33c",
-  "generatedAt": "2026-09-23T16:21:45.080Z",
-  "downloadsRefreshedAt": "2026-09-23T16:21:44.489Z",
+  "commit": "68f9d11a698666ce08dcae7aa062c045011ddd1e",
+  "generatedAt": "2026-09-23T16:57:41.767Z",
+  "downloadsRefreshedAt": "2026-09-23T16:57:40.824Z",
   "count": 3305,
   "extensions": [
     {
@@ -10123,7 +10123,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 596844
+      "downloads": 596898
     },
     {
       "dir": "color-shades",
@@ -22645,7 +22645,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557036
+      "downloads": 557079
     },
     {
       "dir": "google-chrome-profiles",
@@ -29070,7 +29070,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 755565
+      "downloads": 755620
     },
     {
       "dir": "kimai",
@@ -46781,7 +46781,7 @@
       "store": "https://www.raycast.com/tejas911/quick-radios",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-radios",
       "treeSha": "e87720083d0c7359b020f7e8f6180d40831569ed",
-      "downloads": 1
+      "downloads": 2
     },
     {
       "dir": "quick-references",
@@ -54686,7 +54686,7 @@
       "description": "Search for chats, see unread messages, snooze notifications, and set your presence status.",
       "author": "mommertf",
       "owner": null,
-      "contributors": 9,
+      "contributors": 10,
       "categories": [
         "Communication",
         "Productivity"
@@ -54698,7 +54698,7 @@
       ],
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
-      "treeSha": "0bfed9c88b737b3207631e1fc6300e9b76188f58",
+      "treeSha": "b7d1eb8abddaf5eb267509a2fbf6f1d795976898",
       "downloads": 326956
     },
     {

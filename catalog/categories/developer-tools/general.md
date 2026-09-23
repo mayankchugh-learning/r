@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 755,565 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 755,620 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 180,998 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 109,016 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 66,840 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -173,5 +173,5 @@
 | [RUT Generator](https://github.com/raycast/extensions/tree/main/extensions/rut-generator) | 4 | Generate valid Chilean RUTs for development and testing. | esteban03 | macOS, Windows | [store](https://www.raycast.com/esteban03/rut-generator) |
 | [Userplane](https://github.com/raycast/extensions/tree/main/extensions/userplane) | 3 | Create Userplane recording links, browse recordings and recording links, and open the Userplane dashboard — all from Raycast. | wizenheimer | macOS | [store](https://www.raycast.com/wizenheimer/userplane) |
 | [Mule Secure Properties](https://github.com/raycast/extensions/tree/main/extensions/mule-secure-properties) | 2 | Encrypt and decrypt MuleSoft secure property values with the official Secure Properties Tool. | stiven_gonzalez | macOS, Windows | [store](https://www.raycast.com/stiven_gonzalez/mule-secure-properties) |
-| [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios) | 1 | Manage Windows Wi-Fi from Raycast: scan, connect, share via QR, and inspect connection details. | tejas911 | Windows | [store](https://www.raycast.com/tejas911/quick-radios) |
+| [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios) | 2 | Manage Windows Wi-Fi from Raycast: scan, connect, share via QR, and inspect connection details. | tejas911 | Windows | [store](https://www.raycast.com/tejas911/quick-radios) |
 | [CodexRunway Reset Tracker](https://github.com/raycast/extensions/tree/main/extensions/codexrunway-reset-tracker) | 0 | Track CodexRunway usage reset schedule and completion status right from the menu bar | evilmouth | macOS | [store](https://www.raycast.com/evilmouth/codexrunway-reset-tracker) |
