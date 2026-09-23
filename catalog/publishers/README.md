@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,263,886 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,263,925 |
 | 2 | [raycast](./id/raycast.md) | 11 | 886,407 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,490 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,281 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,528 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,312 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 486,616 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 482,425 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 450,299 |
@@ -710,7 +710,7 @@
 | 700 | [k4lok](https://www.raycast.com/k4lok) | 1 | 926 |
 | 701 | [BProg](https://www.raycast.com/BProg) | 1 | 922 |
 | 702 | [webpro](https://www.raycast.com/webpro) | 1 | 913 |
-| 703 | [ojowwalker77](https://www.raycast.com/ojowwalker77) | 1 | 901 |
+| 703 | [ojowwalker77](https://www.raycast.com/ojowwalker77) | 1 | 902 |
 | 704 | [xvvhang](https://www.raycast.com/xvvhang) | 1 | 898 |
 | 705 | [madushanj](https://www.raycast.com/madushanj) | 1 | 889 |
 | 706 | [StereoPT](https://www.raycast.com/StereoPT) | 1 | 889 |
