@@ -60,14 +60,14 @@
 | [Theon](https://www.raycast.com/Theon) | 1 | 3,973 | **Developer Tools:** [Get SSH Key](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) |
 | [theplgeek](https://www.raycast.com/theplgeek) | 1 | 477 | **Security:** [AdGuard Home](https://github.com/raycast/extensions/tree/main/extensions/adguard-home) |
 | [theshadowdev](https://www.raycast.com/theshadowdev) | 1 | 1,744 | **Communication:** [Discord Timestamps](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) |
-| [thesobercoder](https://www.raycast.com/thesobercoder) | 1 | 820 | **Media:** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) |
+| [thesobercoder](https://www.raycast.com/thesobercoder) | 1 | 821 | **Media:** [Trakt Manager](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) |
 | [thibaultleouay](https://www.raycast.com/thibaultleouay) | 1 | 64 | **Developer Tools:** [OpenStatus](https://github.com/raycast/extensions/tree/main/extensions/openstatus) |
 | [thibauult](https://www.raycast.com/thibauult) | 1 | 132 | **System:** [OpenHue](https://github.com/raycast/extensions/tree/main/extensions/openhue) |
 | [thijsdewitt](https://www.raycast.com/thijsdewitt) | 1 | 170 | **Developer Tools:** [Envoyer](https://github.com/raycast/extensions/tree/main/extensions/envoyer) |
 | [thilip_lindseth](https://www.raycast.com/thilip_lindseth) | 1 | 163 | **System:** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector) |
 | [third774](https://www.raycast.com/third774) | 3 | 67,320 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 9,302 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,266,000 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,266,017 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 41 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 64,057 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,710 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
