@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,263,695 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,263,731 |
 | 2 | [raycast](./id/raycast.md) | 11 | 886,407 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,304 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,151 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,334 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,178 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 486,616 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 482,425 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 450,299 |
@@ -48,7 +48,7 @@
 | 38 | [huzef44](https://www.raycast.com/huzef44) | 6 | 82,804 |
 | 39 | [FezVrasta](https://www.raycast.com/FezVrasta) | 5 | 76,964 |
 | 40 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 76,474 |
-| 41 | [benvp](https://www.raycast.com/benvp) | 1 | 74,490 |
+| 41 | [benvp](https://www.raycast.com/benvp) | 1 | 74,499 |
 | 42 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 67,627 |
 | 43 | [third774](https://www.raycast.com/third774) | 3 | 67,251 |
 | 44 | [Kang](https://www.raycast.com/Kang) | 3 | 65,459 |
