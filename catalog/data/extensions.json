@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f1c7ffc1e94cfa57db8f06aede560a339070a01f",
-  "generatedAt": "2026-09-23T16:59:27.034Z",
-  "downloadsRefreshedAt": "2026-09-23T16:59:26.035Z",
+  "commit": "eabe47ec78a00e0364f98c99951480544d8d4b9e",
+  "generatedAt": "2026-09-23T17:02:28.383Z",
+  "downloadsRefreshedAt": "2026-09-23T17:02:27.726Z",
   "count": 3305,
   "extensions": [
     {
@@ -10123,7 +10123,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 596903
+      "downloads": 596910
     },
     {
       "dir": "color-shades",
@@ -22645,7 +22645,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557082
+      "downloads": 557087
     },
     {
       "dir": "google-chrome-profiles",
@@ -29070,7 +29070,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 755623
+      "downloads": 755631
     },
     {
       "dir": "kimai",
@@ -54699,7 +54699,7 @@
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
       "treeSha": "b7d1eb8abddaf5eb267509a2fbf6f1d795976898",
-      "downloads": 327012
+      "downloads": 326956
     },
     {
       "dir": "slack-status",
@@ -61660,7 +61660,7 @@
       ],
       "store": "https://www.raycast.com/thesobercoder/trakt-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/trakt-manager",
-      "treeSha": "ef1527c582faec533fd0d91e61e86c7e38f1a2af",
+      "treeSha": "7c096f5cba62eedad84f97922ed02ed93952ff52",
       "downloads": 820
     },
     {
