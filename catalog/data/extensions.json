@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "75db91dd68f799667563466667c8947a2b5156ec",
-  "generatedAt": "2026-09-23T08:30:46.991Z",
-  "downloadsRefreshedAt": "2026-09-23T08:30:46.573Z",
+  "commit": "f29c093afe99df8be86c69ca9fb92ad932af8cd6",
+  "generatedAt": "2026-09-23T09:17:45.046Z",
+  "downloadsRefreshedAt": "2026-09-23T09:17:44.640Z",
   "count": 3302,
   "extensions": [
     {
@@ -2603,7 +2603,7 @@
       ],
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
-      "treeSha": "05be570620f8eeefc383d91135a54604940cc435",
+      "treeSha": "e7d793f5a0fc6319fae2e7b78bd3ca4f3ca6b4b5",
       "downloads": 118913
     },
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 595883
+      "downloads": 595984
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 556348
+      "downloads": 556420
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 754578
+      "downloads": 754681
     },
     {
       "dir": "kimai",
@@ -62292,7 +62292,7 @@
       "store": "https://www.raycast.com/tonka3000/twitter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/twitter",
       "treeSha": "9db739ede892fc0206360fcb0e2a7d731ab3baea",
-      "downloads": 11793
+      "downloads": 11796
     },
     {
       "dir": "twitter-trendscast",
