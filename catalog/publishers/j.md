@@ -105,7 +105,7 @@
 | [joshdales](https://www.raycast.com/joshdales) | 1 | 370 | **Developer Tools:** [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) |
 | [joshfarrant](https://www.raycast.com/joshfarrant) | 2 | 1,319 | **Fun:** [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com)<br>**Productivity:** [Clip Swap](https://github.com/raycast/extensions/tree/main/extensions/clip-swap) |
 | [Joshlucpoll](https://www.raycast.com/Joshlucpoll) | 1 | 2,961 | **Applications:** [TempMail](https://github.com/raycast/extensions/tree/main/extensions/tempmail) |
-| [joshmedeski](https://www.raycast.com/joshmedeski) | 1 | 3,000 | **Developer Tools:** [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh) |
+| [joshmedeski](https://www.raycast.com/joshmedeski) | 1 | 3,002 | **Developer Tools:** [Sesh](https://github.com/raycast/extensions/tree/main/extensions/sesh) |
 | [joshmillgate](https://www.raycast.com/joshmillgate) | 3 | 195 | **Data:** [Ultrahuman](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman), [Datafast](https://github.com/raycast/extensions/tree/main/extensions/datafast)<br>**Finance:** [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) |
 | [joshtemple](https://www.raycast.com/joshtemple) | 1 | 4,088 | **Productivity:** [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) |
 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 41,575 | **Productivity:** [Password Generator](https://github.com/raycast/extensions/tree/main/extensions/password-generator) |
