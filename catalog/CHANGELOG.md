@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `2aac8bd72f`
+
+**Updated (1):** [Change Case](https://github.com/raycast/extensions/tree/main/extensions/change-case)
+
 ## 2026-09-23 — upstream `ebbd0a58e1`
 
 **Updated (1):** [YouTrack](https://github.com/raycast/extensions/tree/main/extensions/youtrack)

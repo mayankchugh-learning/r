@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ebbd0a58e1a28903778d903f0a1b0b80e0310c59",
-  "generatedAt": "2026-09-23T04:19:23.399Z",
-  "downloadsRefreshedAt": "2026-09-23T04:19:22.717Z",
+  "commit": "2aac8bd72f2a76d942a5fc78a68cd39786c444d9",
+  "generatedAt": "2026-09-23T04:20:25.841Z",
+  "downloadsRefreshedAt": "2026-09-23T04:20:25.433Z",
   "count": 3302,
   "extensions": [
     {
@@ -7407,7 +7407,7 @@
       "description": "Transform a string between camelCase, snake_case, CONSTANT_CASE, and more",
       "author": "erics118",
       "owner": null,
-      "contributors": 9,
+      "contributors": 10,
       "categories": [
         "Developer Tools",
         "Productivity"
@@ -7419,7 +7419,7 @@
       ],
       "store": "https://www.raycast.com/erics118/change-case",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/change-case",
-      "treeSha": "8162c6d96bce1468362d670a3b4b59ee0ce9b02b",
+      "treeSha": "e5726480d65065bb0bc8911ea0420f91f2179cbc",
       "downloads": 53633
     },
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 595495
+      "downloads": 595498
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 556057
+      "downloads": 556059
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 754186
+      "downloads": 754189
     },
     {
       "dir": "kimai",
