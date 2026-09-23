@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4621de16f0af85d90f4bff9860a423c0e6f11768",
-  "generatedAt": "2026-09-23T14:17:28.892Z",
-  "downloadsRefreshedAt": "2026-09-23T14:17:28.469Z",
+  "commit": "01986ad3192b9673db032200543a5160dc3d9cb1",
+  "generatedAt": "2026-09-23T14:24:31.096Z",
+  "downloadsRefreshedAt": "2026-09-23T14:24:30.373Z",
   "count": 3303,
   "extensions": [
     {
@@ -2592,7 +2592,7 @@
       "description": "Manage Apple Reminders.",
       "author": "thomaslombart",
       "owner": "raycast",
-      "contributors": 13,
+      "contributors": 12,
       "categories": [
         "Productivity",
         "Applications"
@@ -2603,7 +2603,7 @@
       ],
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
-      "treeSha": "e7d793f5a0fc6319fae2e7b78bd3ca4f3ca6b4b5",
+      "treeSha": "b956057e74a51caa6486886f90aff01abbaaf998",
       "downloads": 118935
     },
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 596593
+      "downloads": 596610
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 556840
+      "downloads": 556851
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 755294
+      "downloads": 755308
     },
     {
       "dir": "kimai",
