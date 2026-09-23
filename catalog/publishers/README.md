@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,263,671 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,263,695 |
 | 2 | [raycast](./id/raycast.md) | 11 | 886,407 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,265 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,125 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,304 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,151 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 486,616 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 482,425 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 450,299 |
@@ -52,7 +52,7 @@
 | 42 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 67,627 |
 | 43 | [third774](https://www.raycast.com/third774) | 3 | 67,251 |
 | 44 | [Kang](https://www.raycast.com/Kang) | 3 | 65,459 |
-| 45 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 64,852 |
+| 45 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 64,857 |
 | 46 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 63,979 |
 | 47 | [simicvm](https://www.raycast.com/simicvm) | 1 | 61,173 |
 | 48 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 57,668 |
@@ -322,7 +322,7 @@
 | 312 | [ahmedivy](https://www.raycast.com/ahmedivy) | 1 | 3,689 |
 | 313 | [mSarheed](https://www.raycast.com/mSarheed) | 9 | 3,687 |
 | 314 | [mikqi](https://www.raycast.com/mikqi) | 1 | 3,687 |
-| 315 | [plonq](https://www.raycast.com/plonq) | 1 | 3,662 |
+| 315 | [plonq](https://www.raycast.com/plonq) | 1 | 3,663 |
 | 316 | [pingdotgg](https://www.raycast.com/pingdotgg) | 1 | 3,651 |
 | 317 | [cheslip](https://www.raycast.com/cheslip) | 1 | 3,650 |
 | 318 | [sc0](https://www.raycast.com/sc0) | 1 | 3,640 |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7dc553b54227e50846e324736d350f083d7ef102",
-  "generatedAt": "2026-09-23T05:24:29.752Z",
-  "downloadsRefreshedAt": "2026-09-23T05:24:29.382Z",
+  "commit": "1322a428ee8fe539d691d0633bd3daaf2497d913",
+  "generatedAt": "2026-09-23T05:58:47.967Z",
+  "downloadsRefreshedAt": "2026-09-23T05:58:47.565Z",
   "count": 3302,
   "extensions": [
     {
@@ -5452,7 +5452,7 @@
       "store": "https://www.raycast.com/jomifepe/bitwarden",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bitwarden",
       "treeSha": "f8e543cd24f9a70692a100021766d9c5a35a7e0f",
-      "downloads": 64852
+      "downloads": 64857
     },
     {
       "dir": "bj-share",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 595578
+      "downloads": 595602
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 556125
+      "downloads": 556151
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 754265
+      "downloads": 754304
     },
     {
       "dir": "kimai",
@@ -41031,8 +41031,8 @@
       ],
       "store": "https://www.raycast.com/plonq/orion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/orion",
-      "treeSha": "5cc8b04cb7a1402c28e06d3780eccce805d526d5",
-      "downloads": 3662
+      "treeSha": "822018f82e3759189251dfdda15fbe78d8ed227d",
+      "downloads": 3663
     },
     {
       "dir": "orshot",

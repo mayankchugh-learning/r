@@ -76,7 +76,7 @@
 | [johnwick](https://www.raycast.com/johnwick) | 1 | 160 | **System:** [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) |
 | [jokull](https://www.raycast.com/jokull) | 1 | 40 | **Productivity:** [Ensk.is](https://github.com/raycast/extensions/tree/main/extensions/ensk-is) |
 | [jomatsu](https://www.raycast.com/jomatsu) | 1 | 45 | **Developer Tools:** [Codex Sessions](https://github.com/raycast/extensions/tree/main/extensions/codex-sessions) |
-| [jomifepe](https://www.raycast.com/jomifepe) | 1 | 64,852 | **Security:** [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) |
+| [jomifepe](https://www.raycast.com/jomifepe) | 1 | 64,857 | **Security:** [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) |
 | [jonah_tweed](https://www.raycast.com/jonah_tweed) | 1 | 18 | **Applications:** [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub) |
 | [jonas_list](https://www.raycast.com/jonas_list) | 1 | 41 | **Developer Tools:** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) |
 | [jonathan_ochocki](https://www.raycast.com/jonathan_ochocki) | 1 | 16 | **Productivity:** [CTA - Chicago Transit Authority](https://github.com/raycast/extensions/tree/main/extensions/cta) |
