@@ -1,6 +1,6 @@
 # Publishers
 
-2215 publishers · [← catalog index](../README.md)
+2216 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,266,017 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,266,068 |
 | 2 | [raycast](./id/raycast.md) | 11 | 887,594 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,650 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 557,098 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,702 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 557,132 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 487,350 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 483,154 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 450,812 |
@@ -322,7 +322,7 @@
 | 312 | [ahmedivy](https://www.raycast.com/ahmedivy) | 1 | 3,693 |
 | 313 | [mSarheed](https://www.raycast.com/mSarheed) | 9 | 3,692 |
 | 314 | [mikqi](https://www.raycast.com/mikqi) | 1 | 3,690 |
-| 315 | [plonq](https://www.raycast.com/plonq) | 1 | 3,667 |
+| 315 | [plonq](https://www.raycast.com/plonq) | 1 | 3,668 |
 | 316 | [cheslip](https://www.raycast.com/cheslip) | 1 | 3,654 |
 | 317 | [pingdotgg](https://www.raycast.com/pingdotgg) | 1 | 3,653 |
 | 318 | [sc0](https://www.raycast.com/sc0) | 1 | 3,643 |
@@ -2214,12 +2214,13 @@
 | 2204 | [lyager](https://www.raycast.com/lyager) | 1 | 1 |
 | 2205 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2206 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2207 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2208 | [evilmouth](https://www.raycast.com/evilmouth) | 1 | 0 |
-| 2209 | [frdmn](https://www.raycast.com/frdmn) | 1 | 0 |
-| 2210 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2211 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2212 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2213 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2214 | github-next | 2 | — |
-| 2215 | multi | 1 | — |
+| 2207 | [DanielZHAO](https://www.raycast.com/DanielZHAO) | 1 | 0 |
+| 2208 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2209 | [evilmouth](https://www.raycast.com/evilmouth) | 1 | 0 |
+| 2210 | [frdmn](https://www.raycast.com/frdmn) | 1 | 0 |
+| 2211 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2212 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2213 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2214 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2215 | github-next | 2 | — |
+| 2216 | multi | 1 | — |

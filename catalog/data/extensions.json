@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8ad331403e89bc11a62e3a34a362dfec3fd691e4",
-  "generatedAt": "2026-09-23T17:12:21.851Z",
-  "downloadsRefreshedAt": "2026-09-23T17:12:20.939Z",
-  "count": 3305,
+  "commit": "9d93ede6c86f9e71e8a47089c4bef83e551e1a59",
+  "generatedAt": "2026-09-23T17:44:40.079Z",
+  "downloadsRefreshedAt": "2026-09-23T17:44:39.668Z",
+  "count": 3306,
   "extensions": [
     {
       "dir": "0x0",
@@ -10123,7 +10123,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 596927
+      "downloads": 596978
     },
     {
       "dir": "color-shades",
@@ -20455,6 +20455,26 @@
       "downloads": 17
     },
     {
+      "dir": "frp-client-manager",
+      "name": "frp-client-manager",
+      "title": "Frp Client Manager",
+      "description": "Manage a local frp client (frpc): service control, proxies, logs, config hot-reload, and version upgrades.",
+      "author": "DanielZHAO",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/DanielZHAO/frp-client-manager",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/frp-client-manager",
+      "treeSha": "19220bb3fb99375f613d5df6a77a1f54328fbfdc",
+      "downloads": 0
+    },
+    {
       "dir": "ftrack",
       "name": "ftrack",
       "title": "ftrack",
@@ -22645,7 +22665,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557098
+      "downloads": 557132
     },
     {
       "dir": "google-chrome-profiles",
@@ -29070,7 +29090,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 755650
+      "downloads": 755702
     },
     {
       "dir": "kimai",
@@ -41073,7 +41093,7 @@
       "store": "https://www.raycast.com/plonq/orion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/orion",
       "treeSha": "d4e6059ca5964d8f76084f4af97f1c7b42e1f36d",
-      "downloads": 3667
+      "downloads": 3668
     },
     {
       "dir": "orshot",

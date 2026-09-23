@@ -1,8 +1,8 @@
 # Monitoring & Logs
 
-28 extensions · [← Developer Tools](./README.md)
+29 extensions · [← Developer Tools](./README.md)
 
-[Monitor ✦](#monitor) (13) · [Analytics ✦](#analytics) (4) · [Logs ✦](#logs) (4) · [General](#general) (7)
+[Monitor ✦](#monitor) (13) · [Logs ✦](#logs) (5) · [Analytics ✦](#analytics) (4) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -24,15 +24,6 @@
 | [Is It Alive?](https://github.com/raycast/extensions/tree/main/extensions/is-it-alive) | 59 | Monitor status pages and check if your favorite services are operational. | alerix | macOS, Windows | [store](https://www.raycast.com/alerix/is-it-alive) |
 | [HetrixTools](https://github.com/raycast/extensions/tree/main/extensions/hetrixtools) | 48 | Uptime Monitor & Blacklist Monitor | xmok | macOS | [store](https://www.raycast.com/xmok/hetrixtools) |
 
-## Analytics ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) | 148 | A Raycast extension to browse your website analytics coming from Fathom. | yannglt | macOS | [store](https://www.raycast.com/yannglt/fathom-analytics-stats) |
-| [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 27 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
-| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 25 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | openqr (org) | macOS | [store](https://www.raycast.com/openqr/openqr) |
-| [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra) | 11 | Explore GEO analytics and manage Notra content directly from Raycast. | dominikdev | macOS, Windows | [store](https://www.raycast.com/dominikdev/notra) |
-
 ## Logs ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -41,6 +32,16 @@
 | [Micro Snitch Logs](https://github.com/raycast/extensions/tree/main/extensions/micro-snitch-logs) | 83 | Visualize Micro Snitch logs with beautiful formatting | jorgetoh | macOS | [store](https://www.raycast.com/jorgetoh/micro-snitch-logs) |
 | [Aliyun Flow](https://github.com/raycast/extensions/tree/main/extensions/aliyun-flow) | 32 | Raycast extension to list Aliyun Flow pipelines and logs | yggdrasil | macOS | [store](https://www.raycast.com/yggdrasil/aliyun-flow) |
 | [Laravel Cloud](https://github.com/raycast/extensions/tree/main/extensions/laravel-cloud) | 29 | Manage your Laravel Cloud applications, deployments, logs, and more directly from Raycast. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/laravel-cloud) |
+| [Frp Client Manager](https://github.com/raycast/extensions/tree/main/extensions/frp-client-manager) | 0 | Manage a local frp client (frpc): service control, proxies, logs, config hot-reload, and version upgrades. | DanielZHAO | macOS | [store](https://www.raycast.com/DanielZHAO/frp-client-manager) |
+
+## Analytics ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) | 148 | A Raycast extension to browse your website analytics coming from Fathom. | yannglt | macOS | [store](https://www.raycast.com/yannglt/fathom-analytics-stats) |
+| [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 27 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
+| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 25 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | openqr (org) | macOS | [store](https://www.raycast.com/openqr/openqr) |
+| [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra) | 11 | Explore GEO analytics and manage Notra content directly from Raycast. | dominikdev | macOS, Windows | [store](https://www.raycast.com/dominikdev/notra) |
 
 ## General
 

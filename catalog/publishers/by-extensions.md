@@ -1,6 +1,6 @@
 # Publishers
 
-2215 publishers · [← catalog index](../README.md)
+2216 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -18,7 +18,7 @@
 | 8 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,340 |
 | 9 | [chrismessina](./id/chrismessina.md) | 16 | 7,428 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,836 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,266,017 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,266,068 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 331,392 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 450,812 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,422 |
@@ -396,8 +396,8 @@
 | 386 | [tai](https://www.raycast.com/tai) | 2 | 14 |
 | 387 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 388 | github-next | 2 | — |
-| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,650 |
-| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 557,098 |
+| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,702 |
+| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 557,132 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 392,589 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 327,012 |
 | 393 | [nhojb](https://www.raycast.com/nhojb) | 1 | 286,815 |
@@ -546,7 +546,7 @@
 | 536 | [kaichi](https://www.raycast.com/kaichi) | 1 | 3,698 |
 | 537 | [ahmedivy](https://www.raycast.com/ahmedivy) | 1 | 3,693 |
 | 538 | [mikqi](https://www.raycast.com/mikqi) | 1 | 3,690 |
-| 539 | [plonq](https://www.raycast.com/plonq) | 1 | 3,667 |
+| 539 | [plonq](https://www.raycast.com/plonq) | 1 | 3,668 |
 | 540 | [cheslip](https://www.raycast.com/cheslip) | 1 | 3,654 |
 | 541 | [pingdotgg](https://www.raycast.com/pingdotgg) | 1 | 3,653 |
 | 542 | [sc0](https://www.raycast.com/sc0) | 1 | 3,643 |
@@ -2215,11 +2215,12 @@
 | 2205 | [lyager](https://www.raycast.com/lyager) | 1 | 1 |
 | 2206 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2207 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2208 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2209 | [evilmouth](https://www.raycast.com/evilmouth) | 1 | 0 |
-| 2210 | [frdmn](https://www.raycast.com/frdmn) | 1 | 0 |
-| 2211 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2212 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2213 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2214 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2215 | multi | 1 | — |
+| 2208 | [DanielZHAO](https://www.raycast.com/DanielZHAO) | 1 | 0 |
+| 2209 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2210 | [evilmouth](https://www.raycast.com/evilmouth) | 1 | 0 |
+| 2211 | [frdmn](https://www.raycast.com/frdmn) | 1 | 0 |
+| 2212 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2213 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2214 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2215 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2216 | multi | 1 | — |

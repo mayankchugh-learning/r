@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-155 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+156 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -28,6 +28,7 @@
 | [danielroe](https://www.raycast.com/danielroe) | 1 | 68 | **Finance:** [QuickFile](https://github.com/raycast/extensions/tree/main/extensions/quickfile) |
 | [danielsequeira](https://www.raycast.com/danielsequeira) | 1 | 61 | **Fun:** [Portuguese Primeira Liga](https://github.com/raycast/extensions/tree/main/extensions/portuguese-primeira-liga) |
 | [DanielSinclair](https://www.raycast.com/DanielSinclair) | 1 | 41,356 | **Developer Tools:** [Base64](https://github.com/raycast/extensions/tree/main/extensions/base64) |
+| [DanielZHAO](https://www.raycast.com/DanielZHAO) | 1 | 0 | **Developer Tools:** [Frp Client Manager](https://github.com/raycast/extensions/tree/main/extensions/frp-client-manager) |
 | [daniloc](https://www.raycast.com/daniloc) | 1 | 302 | **Design Tools:** [Re-mind](https://github.com/raycast/extensions/tree/main/extensions/re-mind) |
 | [danilorequena](https://www.raycast.com/danilorequena) | 1 | 54 | **Developer Tools:** [Firebase - Remote Config](https://github.com/raycast/extensions/tree/main/extensions/firebase-remote-config-admin) |
 | [daniyal_master](https://www.raycast.com/daniyal_master) | 1 | 1,565 | **Media:** [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) |
