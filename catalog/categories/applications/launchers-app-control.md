@@ -33,7 +33,7 @@
 | [React DevTools](https://github.com/raycast/extensions/tree/main/extensions/react-devtools) | 260 | Launch React DevTools command-line application | gutenye | macOS | [store](https://www.raycast.com/gutenye/react-devtools) |
 | [AirSync](https://github.com/raycast/extensions/tree/main/extensions/airsync) | 238 | Control your AirSync app directly from Raycast | sameerasw | macOS | [store](https://www.raycast.com/sameerasw/airsync) |
 | [DesktopRenamer](https://github.com/raycast/extensions/tree/main/extensions/desktoprenamer) | 200 | Control DesktopRenamer from Raycast. | michael_qiu | macOS | [store](https://www.raycast.com/michael_qiu/desktoprenamer) |
-| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 182 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
+| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 183 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [WinSCP](https://github.com/raycast/extensions/tree/main/extensions/winscp) | 161 | Launch WinSCP sessions quickly from Raycast. | bossdaily | Windows | [store](https://www.raycast.com/bossdaily/winscp) |
 | [Leafcast](https://github.com/raycast/extensions/tree/main/extensions/leafcast) | 141 | Control your Nanoleaf panels with Raycast! Toggle power, set the current scene, and more. | syropian | macOS | [store](https://www.raycast.com/syropian/leafcast) |
 | [OctoPrint](https://github.com/raycast/extensions/tree/main/extensions/octoprint) | 122 | Control your OctoPrint printer from Raycast | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/octoprint) |

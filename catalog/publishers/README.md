@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,264,685 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,264,686 |
 | 2 | [raycast](./id/raycast.md) | 11 | 886,479 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,290 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,839 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,294 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,840 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 486,616 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 482,425 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 450,302 |
@@ -1287,8 +1287,8 @@
 | 1277 | [stayallive](https://www.raycast.com/stayallive) | 1 | 184 |
 | 1278 | [emilwidlund](https://www.raycast.com/emilwidlund) | 1 | 183 |
 | 1279 | [mattstone](https://www.raycast.com/mattstone) | 1 | 183 |
-| 1280 | [akhilesh_dalvi](https://www.raycast.com/akhilesh_dalvi) | 1 | 182 |
-| 1281 | [mi7chal](https://www.raycast.com/mi7chal) | 1 | 182 |
+| 1280 | [mi7chal](https://www.raycast.com/mi7chal) | 1 | 183 |
+| 1281 | [akhilesh_dalvi](https://www.raycast.com/akhilesh_dalvi) | 1 | 182 |
 | 1282 | [zaincheung](https://www.raycast.com/zaincheung) | 1 | 182 |
 | 1283 | [vojto](https://www.raycast.com/vojto) | 1 | 181 |
 | 1284 | [ohmycodedev](https://www.raycast.com/ohmycodedev) | 1 | 180 |

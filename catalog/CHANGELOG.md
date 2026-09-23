@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `4621de16f0`
+
+**Updated (1):** [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird)
+
 ## 2026-09-23 — upstream `c1d9b9e28f`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)

@@ -186,7 +186,7 @@
 | [Hashnode](https://github.com/raycast/extensions/tree/main/extensions/hashnode) | 229 | Read, search and create stories from Raycast. | dpnick | macOS | [store](https://www.raycast.com/dpnick/hashnode) |
 | [omg.lol](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) | 226 | Create, read, and update data in your omg.lol account. | danpalmer | macOS | [store](https://www.raycast.com/danpalmer/omg-lol) |
 | [ImprovMX](https://github.com/raycast/extensions/tree/main/extensions/improvmx) | 221 | Interact with ImprovMX with the help of Raycast | ImprovMX | macOS | [store](https://www.raycast.com/ImprovMX/improvmx) |
-| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 182 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
+| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 183 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [Designer Excuses](https://github.com/raycast/extensions/tree/main/extensions/designer-excuses) | 176 | Designer Excuses is a playful Raycast extension that generates lighthearted, witty excuses for designers | shreeram | macOS | [store](https://www.raycast.com/shreeram/designer-excuses) |
 | [JSON Resume](https://github.com/raycast/extensions/tree/main/extensions/json-resume) | 150 | Parse JSON Resume | 0xdhrv | macOS, Windows | [store](https://www.raycast.com/0xdhrv/json-resume) |
 | [Personio](https://github.com/raycast/extensions/tree/main/extensions/personio) | 150 | Track your time with Personio. | boosteblume | macOS | [store](https://www.raycast.com/boosteblume/personio) |

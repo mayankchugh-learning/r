@@ -104,7 +104,7 @@
 | [metakirby5](https://www.raycast.com/metakirby5) | 1 | 65 | **Developer Tools:** [DOTween Eases](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) |
 | [metrovoc](https://www.raycast.com/metrovoc) | 2 | 179 | **Productivity:** [VoiceInk](https://github.com/raycast/extensions/tree/main/extensions/voiceink)<br>**Applications:** [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) |
 | [mguyard](https://www.raycast.com/mguyard) | 1 | 210 | **Data:** [Manage Firebase Firestore Collections](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) |
-| [mi7chal](https://www.raycast.com/mi7chal) | 1 | 182 | **Developer Tools:** [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) |
+| [mi7chal](https://www.raycast.com/mi7chal) | 1 | 183 | **Developer Tools:** [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) |
 | [mibrahimdev](https://www.raycast.com/mibrahimdev) | 2 | 1,447 | **Developer Tools:** [Android](https://github.com/raycast/extensions/tree/main/extensions/android)<br>**News:** [Android Weekly](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) |
 | [michael_Andreuzza](https://www.raycast.com/michael_andreuzza) | 1 | 5 | **Data:** [Kobbe](https://github.com/raycast/extensions/tree/main/extensions/kobbe) |
 | [michael_marvive](https://www.raycast.com/michael_marvive) | 1 | 309 | **Productivity:** [Logos Launcher](https://github.com/raycast/extensions/tree/main/extensions/logos-launcher) |

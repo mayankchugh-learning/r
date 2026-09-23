@@ -44,7 +44,7 @@
 | [Wifi Share QR-Code](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) | 1,571 | Share any saved wifi qr code to other devices to join the network | abul_kalam_robin | macOS | [store](https://www.raycast.com/abul_kalam_robin/wifi-share) |
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,543 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |
 | [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer) | 323 | Lists and changes current network location on Mac. | rcouto | macOS | [store](https://www.raycast.com/rcouto/mac-network-location-changer) |
-| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 182 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
+| [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 183 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) | 127 | V2RayA Control is a Raycast extension that allows you to easily manage and control V2RayA, a powerful network proxy tool. Quickly toggle proxy modes, and check… | masoud_hamidzadeh | macOS | [store](https://www.raycast.com/masoud_hamidzadeh/v2raya-control) |
 
 ## Http ✦
