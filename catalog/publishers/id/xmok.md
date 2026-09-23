@@ -1,6 +1,6 @@
 # xmok
 
-114 extensions · 12,857 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
+114 extensions · 12,865 downloads · [store](https://www.raycast.com/xmok) · [← publishers](../README.md)
 
 ## Data (22)
 
@@ -54,7 +54,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,293 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
+| [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,295 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
 
 ### Lookups & References
 
@@ -148,7 +148,7 @@
 | [Shroud.email](https://github.com/raycast/extensions/tree/main/extensions/shroud-email) | 68 | View Domains and Create or View Aliases in Shroud.email instance | xmok | macOS | [store](https://www.raycast.com/xmok/shroud-email) |
 | [MXroute](https://github.com/raycast/extensions/tree/main/extensions/mxroute) | 23 | Email hosting for your domains | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/mxroute) |
 | [Inbound](https://github.com/raycast/extensions/tree/main/extensions/inbound) | 21 | Email API for Developers - Send, Receive & Reply | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/inbound) |
-| [SendPortal](https://github.com/raycast/extensions/tree/main/extensions/sendportal) | 14 | Open Source Email Marketing Software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendportal) |
+| [SendPortal](https://github.com/raycast/extensions/tree/main/extensions/sendportal) | 15 | Open Source Email Marketing Software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/sendportal) |
 | [Zoho Mail](https://github.com/raycast/extensions/tree/main/extensions/zoho-mail) | 13 | Manage Zoho Mail - View Domains, Accounts, Emails and Content | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/zoho-mail) |
 
 ### Social & Fediverse
@@ -161,7 +161,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Chatbase](https://github.com/raycast/extensions/tree/main/extensions/chatbase) | 106 | AI agents for magical customer experiences | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/chatbase) |
+| [Chatbase](https://github.com/raycast/extensions/tree/main/extensions/chatbase) | 107 | AI agents for magical customer experiences | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/chatbase) |
 | [Chatwoot](https://github.com/raycast/extensions/tree/main/extensions/chatwoot) | 26 | The modern, open source, self-hosted customer support platform | xmok | macOS | [store](https://www.raycast.com/xmok/chatwoot) |
 
 ### Links & Sharing
@@ -187,8 +187,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 586 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
-| [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 285 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
+| [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 587 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
+| [cPanel](https://github.com/raycast/extensions/tree/main/extensions/cpanel) | 286 | View Domains, DNS Zones, Email Accounts, Databases, Files and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/cpanel) |
 | [UptimeRobot](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) | 172 | View Monitors and Account Details | xmok | macOS | [store](https://www.raycast.com/xmok/uptime-robot) |
 | [NameSilo](https://github.com/raycast/extensions/tree/main/extensions/namesilo) | 93 | View your Domains, Orders, Whois Info and Account Balance | xmok | macOS | [store](https://www.raycast.com/xmok/namesilo) |
 | [Umami](https://github.com/raycast/extensions/tree/main/extensions/umami) | 72 | The modern analytics platform for effortless insights | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/umami) |
@@ -214,7 +214,7 @@
 | [Keygen](https://github.com/raycast/extensions/tree/main/extensions/keygen) | 106 | Manage API Tokens, Licenses, Policies, Products and Users | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/keygen) |
 | [Upstash](https://github.com/raycast/extensions/tree/main/extensions/upstash) | 70 | Manage Redis Databases and Vector Indices | xmok | macOS | [store](https://www.raycast.com/xmok/upstash) |
 | [Postiz](https://github.com/raycast/extensions/tree/main/extensions/postiz) | 68 | The All-in-One Social Media Management Tool | xmok | macOS | [store](https://www.raycast.com/xmok/postiz) |
-| [HomeBox](https://github.com/raycast/extensions/tree/main/extensions/homebox) | 61 | A simple home inventory management software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/homebox) |
+| [HomeBox](https://github.com/raycast/extensions/tree/main/extensions/homebox) | 62 | A simple home inventory management software | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/homebox) |
 | [Autumn](https://github.com/raycast/extensions/tree/main/extensions/autumn) | 45 | Stripe made easy for AI Startups | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/autumn) |
 | [Vartiq](https://github.com/raycast/extensions/tree/main/extensions/vartiq) | 9 | Webhook Infra for High-Velocity Dev Teams | xmok | macOS | [store](https://www.raycast.com/xmok/vartiq) |
 | [Koyeb](https://github.com/raycast/extensions/tree/main/extensions/koyeb) | 7 | High-performance Infrastructure | xmok | macOS | [store](https://www.raycast.com/xmok/koyeb) |
@@ -258,7 +258,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 170 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
+| [Infisical](https://github.com/raycast/extensions/tree/main/extensions/infisical) | 171 | Secrets management on autopilot | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/infisical) |
 
 ## News (1)
 

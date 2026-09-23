@@ -1,6 +1,6 @@
 # Windows · Developer Tools
 
-326 extensions · [← Windows](../README.md)
+327 extensions · [← Windows](../README.md)
 
 ## Code & Collaboration
 
@@ -39,4 +39,4 @@
 | [Files & Transfer](./files-transfer.md) | 8 |
 | [Design & Assets](./design-assets.md) | 14 |
 
-Plus [General](./general.md) — 61 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 62 extensions that don't fit a topic yet.

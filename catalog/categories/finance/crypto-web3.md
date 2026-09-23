@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,530 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
-| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,789 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
+| [Coinmarketcap Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) | 5,535 | A price crawler to search crypto price from Coinmarketcap. | SonicSpark | macOS | [store](https://www.raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler) |
+| [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,790 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
 | [Crypto Price](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) | 1,113 | Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar | gutenye | macOS, Windows | [store](https://www.raycast.com/gutenye/crypto-price) |
 | [Coin Caster](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) | 175 | Get the price for any crypto asset in Raycast | chase_manning | macOS | [store](https://www.raycast.com/chase_manning/coin-caster) |
 | [Binance](https://github.com/raycast/extensions/tree/main/extensions/binance-exchange) | 94 | Stay on top of the crypto market and your Binance portfolio | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/binance-exchange) |
@@ -19,8 +19,8 @@
 | [Portfolio Tracker](https://github.com/raycast/extensions/tree/main/extensions/portfolio-tracker) | 79 | Track value of your Stocks, ETFs, Properties, Cash, Debt and Crypto with automatic price updates over time to see your net worth | filipawaits | macOS | [store](https://www.raycast.com/filipawaits/portfolio-tracker) |
 | [Hashrate](https://github.com/raycast/extensions/tree/main/extensions/hashrate-no) | 53 | Crypto mining resources via Hashrate.no | xmok | macOS | [store](https://www.raycast.com/xmok/hashrate-no) |
 | [Crypto Search](https://github.com/raycast/extensions/tree/main/extensions/crypto-search) | 23 | Quick search for crypto addresses and transactions across multiple chains | fernando_jacob | macOS | [store](https://www.raycast.com/fernando_jacob/crypto-search) |
+| [Ticker Bar](https://github.com/raycast/extensions/tree/main/extensions/ticker-bar) | 13 | Track stocks, crypto, tokens, perpetual futures, and prediction markets from the menu bar. | kays0x | macOS | [store](https://www.raycast.com/kays0x/ticker-bar) |
 | [Kurslog](https://github.com/raycast/extensions/tree/main/extensions/kurslog) | 12 | Compare crypto exchange rates from 100+ exchangers in Ukraine and 100+ countries with best rates for USDT, BTC, ETH to fiat, cash, Payoneer, and more. | kurslog | macOS, Windows | [store](https://www.raycast.com/kurslog/kurslog) |
-| [Ticker Bar](https://github.com/raycast/extensions/tree/main/extensions/ticker-bar) | 12 | Track stocks, crypto, tokens, perpetual futures, and prediction markets from the menu bar. | kays0x | macOS | [store](https://www.raycast.com/kays0x/ticker-bar) |
 
 ## Price ✦
 
@@ -45,8 +45,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Binance Portfolio](https://github.com/raycast/extensions/tree/main/extensions/binance) | 1,146 | Track your Binance portfolio | grzegorzkrukowski | macOS | [store](https://www.raycast.com/grzegorzkrukowski/binance) |
-| [DEX Screener](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) | 363 | Search token pair in dexscreener.com | wp-lai | macOS | [store](https://www.raycast.com/wp-lai/dex-screener) |
-| [Blockchain Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) | 343 | Track and caculate blockchain gas fees right in your Raycast! | Vonernue | macOS | [store](https://www.raycast.com/Vonernue/blockchain-gas-tracker) |
+| [DEX Screener](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) | 364 | Search token pair in dexscreener.com | wp-lai | macOS | [store](https://www.raycast.com/wp-lai/dex-screener) |
+| [Blockchain Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) | 344 | Track and caculate blockchain gas fees right in your Raycast! | Vonernue | macOS | [store](https://www.raycast.com/Vonernue/blockchain-gas-tracker) |
 | [Mempool](https://github.com/raycast/extensions/tree/main/extensions/mempool) | 179 | Get current bitcoin mempool information | dillionverma | macOS | [store](https://www.raycast.com/dillionverma/mempool) |
 | [Vortex](https://github.com/raycast/extensions/tree/main/extensions/vortex) | 131 | The fastest way to use bitcoin on macOS | saunter | macOS | [store](https://www.raycast.com/saunter/vortex) |
 | [Aave Contract Search](https://github.com/raycast/extensions/tree/main/extensions/aave-search) | 32 | Quickly search and access official Aave ecosystem smart contract addresses across multiple networks | smbdy | macOS | [store](https://www.raycast.com/smbdy/aave-search) |

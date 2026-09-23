@@ -10,10 +10,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 117,931 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
-| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 13,469 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
-| [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) | 553 | Quickly create records in Capture with Raycast. | syhchen | macOS | [store](https://www.raycast.com/syhchen/capture) |
-| [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 176 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
+| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 118,055 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
+| [Shottr](https://github.com/raycast/extensions/tree/main/extensions/shottr) | 13,498 | Capture and record your screen using shottr! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/shottr) |
+| [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) | 554 | Quickly create records in Capture with Raycast. | syhchen | macOS | [store](https://www.raycast.com/syhchen/capture) |
+| [Snapzy](https://github.com/raycast/extensions/tree/main/extensions/snapzy) | 177 | Capture screenshots, record your screen, and manage captures with Snapzy. | chkzz | macOS | [store](https://www.raycast.com/chkzz/snapzy) |
 | [Workflowy](https://github.com/raycast/extensions/tree/main/extensions/workflowy) | 71 | Search, capture, and manage your Workflowy account from Raycast. | rodolfo_lopez | macOS, Windows | [store](https://www.raycast.com/rodolfo_lopez/workflowy) |
 | [Better Screenshoot](https://github.com/raycast/extensions/tree/main/extensions/better-screenshoot) | 39 | Capture your screen with a built-in editor from Raycast. | sriverogalan | macOS | [store](https://www.raycast.com/sriverogalan/better-screenshoot) |
 | [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot) | 19 | Capture screenshots with Flameshot | muhammadrizo | Windows, macOS | [store](https://www.raycast.com/muhammadrizo/flameshot) |
@@ -26,19 +26,19 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,955 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
+| [Zipic](https://github.com/raycast/extensions/tree/main/extensions/zipic) | 3,958 | Compress the selected images in Finder with Zipic. | okooo5km | macOS | [store](https://www.raycast.com/okooo5km/zipic) |
 | [Imgur](https://github.com/raycast/extensions/tree/main/extensions/imgur) | 1,752 | Upload Media & View Images directly from Raycast | BalliAsghar | macOS, Windows | [store](https://www.raycast.com/BalliAsghar/imgur) |
-| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 905 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
+| [Image to Ascii](https://github.com/raycast/extensions/tree/main/extensions/image-to-ascii) | 907 | Convert image to Ascii | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/image-to-ascii) |
 | [CLIPPyX](https://github.com/raycast/extensions/tree/main/extensions/clippyx) | 331 | CLIPPyX provides an OS-wide image search that supports semantic search in both image content and text on images | 0ssamaak0 | macOS | [store](https://www.raycast.com/0ssamaak0/clippyx) |
-| [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 177 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
+| [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 178 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [PicGo](https://github.com/raycast/extensions/tree/main/extensions/picgo) | 61 | Easily use PicGo to upload your images to image hosts in Raycast. | rubisco0211 | macOS, Windows | [store](https://www.raycast.com/rubisco0211/picgo) |
 
 ## Video ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 131,915 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
-| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 5,462 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 132,068 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [YAFW](https://github.com/raycast/extensions/tree/main/extensions/yafw) | 5,467 | Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. | pablopunk | macOS | [store](https://www.raycast.com/pablopunk/yafw) |
 | [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 989 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
 | [Threads Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/threads-video-downloader) | 363 | Download videos from Threads with ease | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/threads-video-downloader) |
 
@@ -46,7 +46,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 10,214 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
-| [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 2,218 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
-| [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,459 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
+| [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 10,231 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
+| [Plex](https://github.com/raycast/extensions/tree/main/extensions/plex) | 2,222 | View the media in your Plex Media Server | mSarheed | macOS | [store](https://www.raycast.com/mSarheed/plex) |
+| [Bilibili](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) | 1,461 | Get notify from bilibili | Fatpandac | macOS, Windows | [store](https://www.raycast.com/Fatpandac/bilibili) |
 | [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 225 | Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid. | mutedeck (org) | macOS | [store](https://www.raycast.com/mutedeck/mutedeck) |

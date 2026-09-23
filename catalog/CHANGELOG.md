@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `1dfc31ccf4`
+
+**Added (1):** [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios)
+
 ## 2026-09-23 — upstream `01986ad319`
 
 **Updated (1):** [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders)

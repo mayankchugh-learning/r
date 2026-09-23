@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Kalshi](https://github.com/raycast/extensions/tree/main/extensions/kalshi) | 154 | Search, filter, and favorite prediction markets on Kalshi | Osprey | macOS, Windows | [store](https://www.raycast.com/Osprey/kalshi) |
 | [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | 114 | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
-| [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | 60 | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
+| [Zacks Stock Ranking](https://github.com/raycast/extensions/tree/main/extensions/zacks-stock-ranking) | 61 | Zacks.com is the website for Zacks Investment Research, an independent investment research firm known for its proprietary Zacks Rank, a stock rating system (1=… | joshmillgate | macOS, Windows | [store](https://www.raycast.com/joshmillgate/zacks-stock-ranking) |
 | [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) | 10 | View your Charles Schwab brokerage accounts, positions, and charts | drew_levinson | macOS, Windows | [store](https://www.raycast.com/drew_levinson/schwab-portfolio) |
 | [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) | 3 | Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast. | uluumbch | macOS, Windows | [store](https://www.raycast.com/uluumbch/average-saham-indonesia) |
 
@@ -32,7 +32,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 19,593 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
+| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 19,610 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
 | [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) | 180 | View currency rates and all your accounts in monobank. | danulqua | macOS, Windows | [store](https://www.raycast.com/danulqua/monobank) |
 | [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) | 23 | Convert currencies and look up exchange rates for any date back to 1999, powered by UniRateAPI. | rob_brown96cc | Windows, macOS | [store](https://www.raycast.com/rob_brown96cc/unirate-currency) |
 | [Chinese Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-converter) | 7 | Convert number input into Chinese formatted text, including uppercase RMB amount text. | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/chinese-converter) |
@@ -57,7 +57,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) | 21 | A clear overview of your Wise balances in Raycast: spending, combined total and live rates. | jorgetoh | macOS, Windows | [store](https://www.raycast.com/jorgetoh/wise-lens) |
-| [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | 11 | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
+| [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq) | 12 | Banking client for bunq - manage accounts, cards, and payments | TurboCoder13 | macOS, Windows | [store](https://www.raycast.com/TurboCoder13/bunq) |
 | [VietQR Transfer Generator](https://github.com/raycast/extensions/tree/main/extensions/vietqr-transfer) | 10 | Quickly generate VietQR payment codes for Vietnamese banks with customizable templates, amounts, and descriptions. | annguyen | macOS, Windows | [store](https://www.raycast.com/annguyen/vietqr-transfer) |
 
 ## Business & Reference
@@ -66,16 +66,16 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,388 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
-| [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 101 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
-| [Gumroad Sales](https://github.com/raycast/extensions/tree/main/extensions/gumroad) | 92 | View your sales and products from Gumroad | eddiesigner | macOS, Windows | [store](https://www.raycast.com/eddiesigner/gumroad) |
+| [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,390 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
+| [Subscription Manager](https://github.com/raycast/extensions/tree/main/extensions/subscription-manager) | 102 | Track and manage all your recurring subscriptions | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/subscription-manager) |
+| [Gumroad Sales](https://github.com/raycast/extensions/tree/main/extensions/gumroad) | 93 | View your sales and products from Gumroad | eddiesigner | macOS, Windows | [store](https://www.raycast.com/eddiesigner/gumroad) |
 | [Subflow](https://github.com/raycast/extensions/tree/main/extensions/subflow) | 84 | Manage your subscriptions with Subflow | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/subflow) |
 | [FreeAgent](https://github.com/raycast/extensions/tree/main/extensions/freeagent) | 59 | Interact with FreeAgent | SteveEdson | macOS, Windows | [store](https://www.raycast.com/SteveEdson/freeagent) |
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 24 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
 | [Paymenter](https://github.com/raycast/extensions/tree/main/extensions/paymenter) | 13 | Open-Source Billing, Built for Hosting | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/paymenter) |
 | [Paynow.gg](https://github.com/raycast/extensions/tree/main/extensions/paynow) | 11 | Unofficial PayNow.gg extension | maxijonson | macOS, Windows | [store](https://www.raycast.com/maxijonson/paynow) |
 | [PayPal Invoices](https://github.com/raycast/extensions/tree/main/extensions/paypal-invoices) | 10 | Create and send PayPal invoices without leaving Raycast. | ethananderstandable | macOS, Windows | [store](https://www.raycast.com/ethananderstandable/paypal-invoices) |
-| [Contra](https://github.com/raycast/extensions/tree/main/extensions/contra) | 2 | Track Contra finances, create and send invoices, and manage freelance projects — right from Raycast. | agusdellaquila | macOS, Windows | [store](https://www.raycast.com/agusdellaquila/contra) |
+| [Contra](https://github.com/raycast/extensions/tree/main/extensions/contra) | 3 | Track Contra finances, create and send invoices, and manage freelance projects — right from Raycast. | agusdellaquila | macOS, Windows | [store](https://www.raycast.com/agusdellaquila/contra) |
 
 ### Regional & Company Lookups
 
@@ -89,9 +89,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 256,051 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,433 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
-| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,273 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 256,284 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,436 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,275 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 27 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |
 | [Metals Prices](https://github.com/raycast/extensions/tree/main/extensions/metals-prices) | 24 | Daily gold, silver, platinum and palladium prices per gram by purity, with 1, 3, 6, and 12-month averages. | noice_anas | macOS, Windows | [store](https://www.raycast.com/noice_anas/metals-prices) |
 | [Sadaqah Box](https://github.com/raycast/extensions/tree/main/extensions/sadaqah-box) | 8 | Manage your charity boxes and sadaqahs | emircanerkul | macOS, Windows | [store](https://www.raycast.com/emircanerkul/sadaqah-box) |
