@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `85d7643e3f`
+
+**Added (1):** [CodexRunway Reset Tracker](https://github.com/raycast/extensions/tree/main/extensions/codexrunway-reset-tracker)
+
 ## 2026-09-23 — upstream `1dfc31ccf4`
 
 **Added (1):** [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios)

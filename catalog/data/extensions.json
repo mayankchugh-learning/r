@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1dfc31ccf4b57662277d4e3f6da6748386deb3fc",
-  "generatedAt": "2026-09-23T15:54:58.974Z",
-  "downloadsRefreshedAt": "2026-09-23T15:54:57.330Z",
-  "count": 3304,
+  "commit": "85d7643e3f423b76a005581abf8ac0229a71e33c",
+  "generatedAt": "2026-09-23T16:21:45.080Z",
+  "downloadsRefreshedAt": "2026-09-23T16:21:44.489Z",
+  "count": 3305,
   "extensions": [
     {
       "dir": "0x0",
@@ -9833,6 +9833,27 @@
       "downloads": 45
     },
     {
+      "dir": "codexrunway-reset-tracker",
+      "name": "codexrunway-reset-tracker",
+      "title": "CodexRunway Reset Tracker",
+      "description": "Track CodexRunway usage reset schedule and completion status right from the menu bar",
+      "author": "evilmouth",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/evilmouth/codexrunway-reset-tracker",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/codexrunway-reset-tracker",
+      "treeSha": "bd47c46b95fdbfff99d1b08b61fed4b9058bf168",
+      "downloads": 0
+    },
+    {
       "dir": "coffee",
       "name": "coffee",
       "title": "Coffee",
@@ -10102,7 +10123,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 596800
+      "downloads": 596844
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22645,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557006
+      "downloads": 557036
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29070,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 755512
+      "downloads": 755565
     },
     {
       "dir": "kimai",
@@ -46757,10 +46778,10 @@
       "platforms": [
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/tejas911/quick-radios",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-radios",
       "treeSha": "e87720083d0c7359b020f7e8f6180d40831569ed",
-      "downloads": null
+      "downloads": 1
     },
     {
       "dir": "quick-references",

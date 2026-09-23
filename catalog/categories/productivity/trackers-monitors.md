@@ -1,8 +1,8 @@
 # Trackers & Monitors
 
-38 extensions · [← Productivity](./README.md)
+39 extensions · [← Productivity](./README.md)
 
-[Monitor ✦](#monitor) (10) · [Tracker ✦](#tracker) (6) · [Stats ✦](#stats) (4) · [General](#general) (18)
+[Monitor ✦](#monitor) (10) · [Tracker ✦](#tracker) (7) · [Stats ✦](#stats) (4) · [General](#general) (18)
 
 *✦ auto-discovered topic group*
 
@@ -31,6 +31,7 @@
 | [Parcel Tracker](https://github.com/raycast/extensions/tree/main/extensions/parcel-tracker) | 367 | Track packages (only available in South Korea) | junhyukjin | macOS | [store](https://www.raycast.com/junhyukjin/parcel-tracker) |
 | [Blockchain Gas Tracker](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) | 344 | Track and caculate blockchain gas fees right in your Raycast! | Vonernue | macOS | [store](https://www.raycast.com/Vonernue/blockchain-gas-tracker) |
 | [TimeCrowd Tracker](https://github.com/raycast/extensions/tree/main/extensions/timecrowd-tracker) | 69 | Track your time with TimeCrowd | machamp0714 | macOS | [store](https://www.raycast.com/machamp0714/timecrowd-tracker) |
+| [CodexRunway Reset Tracker](https://github.com/raycast/extensions/tree/main/extensions/codexrunway-reset-tracker) | 0 | Track CodexRunway usage reset schedule and completion status right from the menu bar | evilmouth | macOS | [store](https://www.raycast.com/evilmouth/codexrunway-reset-tracker) |
 
 ## Stats ✦
 
@@ -45,7 +46,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 755,512 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 755,565 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Time Tracking](https://github.com/raycast/extensions/tree/main/extensions/time-tracking) | 4,777 | Track your working time on a per-project basis | EinLinuus | macOS, Windows | [store](https://www.raycast.com/EinLinuus/time-tracking) |
 | [Stripe](https://github.com/raycast/extensions/tree/main/extensions/stripe) | 1,390 | Quick Stripe dashboard functionality and quick link access | pradeepb28 | macOS, Windows | [store](https://www.raycast.com/pradeepb28/stripe) |
 | [DeepL API Usage](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) | 785 | Manage your DeepL API usage with ease. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/deepl-api-usage) |

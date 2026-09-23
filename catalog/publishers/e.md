@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-75 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+76 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -73,6 +73,7 @@
 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 183,321 | [see all 19 →](./id/evanzhoudev.md) |
 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 64 | **Productivity:** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) |
 | [evilhex](https://www.raycast.com/evilhex) | 1 | 149 | **Security:** [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) |
+| [evilmouth](https://www.raycast.com/evilmouth) | 1 | 0 | **Productivity:** [CodexRunway Reset Tracker](https://github.com/raycast/extensions/tree/main/extensions/codexrunway-reset-tracker) |
 | [eviscares](https://www.raycast.com/eviscares) | 1 | 190 | **Productivity:** [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco) |
 | [evnm](https://www.raycast.com/evnm) | 1 | 7 | **Media:** [The Lot Radio](https://github.com/raycast/extensions/tree/main/extensions/the-lot-radio) |
 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,743 | **Developer Tools:** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects), [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch)<br>**Applications:** [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) |

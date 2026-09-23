@@ -26,7 +26,7 @@
 | [HDR Toggle](https://github.com/raycast/extensions/tree/main/extensions/hdr-toggle) | 29 | Toggle Windows HDR on individual monitors instead of all displays at once. | abdullah_shabib | Windows | [store](https://www.raycast.com/abdullah_shabib/hdr-toggle) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 13 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 1 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
-| [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios) | — | Manage Windows Wi-Fi from Raycast: scan, connect, share via QR, and inspect connection details. | tejas911 | Windows | — |
+| [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios) | 1 | Manage Windows Wi-Fi from Raycast: scan, connect, share via QR, and inspect connection details. | tejas911 | Windows | [store](https://www.raycast.com/tejas911/quick-radios) |
 
 ## Bar ✦
 
