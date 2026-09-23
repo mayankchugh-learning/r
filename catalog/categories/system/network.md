@@ -4,14 +4,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 49,653 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
-| [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 17,772 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
-| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 14,752 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
-| [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 8,243 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
-| [Refresh WiFi](https://github.com/raycast/extensions/tree/main/extensions/refresh-wifi) | 4,313 | Quickly turn your WiFi off and on again. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/refresh-wifi) |
-| [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) | 4,046 | View diagnostic information about your network to help figure out why it's playing up. | hmarr | macOS | [store](https://www.raycast.com/hmarr/network-diagnostics) |
-| [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,621 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
-| [UniFi](https://github.com/raycast/extensions/tree/main/extensions/unifi) | 1,274 | Monitor and control UniFi Network, Protect, and cloud services | lewj | macOS | [store](https://www.raycast.com/lewj/unifi) |
+| [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip) | 49,694 | My IP information | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/myip) |
+| [Wi-Fi](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) | 17,790 | Check and toggle Wi-Fi via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/wi-fi) |
+| [Flush DNS](https://github.com/raycast/extensions/tree/main/extensions/flush-dns) | 14,765 | Flush the DNS cache | rasmusbe | macOS, Windows | [store](https://www.raycast.com/rasmusbe/flush-dns) |
+| [Network Speed](https://github.com/raycast/extensions/tree/main/extensions/network-speed) | 8,250 | Quickly check your internet connection speed | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/network-speed) |
+| [Refresh WiFi](https://github.com/raycast/extensions/tree/main/extensions/refresh-wifi) | 4,316 | Quickly turn your WiFi off and on again. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/refresh-wifi) |
+| [Network Diagnostics](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) | 4,051 | View diagnostic information about your network to help figure out why it's playing up. | hmarr | macOS | [store](https://www.raycast.com/hmarr/network-diagnostics) |
+| [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,623 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |
+| [UniFi](https://github.com/raycast/extensions/tree/main/extensions/unifi) | 1,278 | Monitor and control UniFi Network, Protect, and cloud services | lewj | macOS | [store](https://www.raycast.com/lewj/unifi) |
 | [Bonjour](https://github.com/raycast/extensions/tree/main/extensions/bonjour) | 455 | Manage Bonjour services | that70schris | macOS | [store](https://www.raycast.com/that70schris/bonjour) |
 | [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer) | 323 | Lists and changes current network location on Mac. | rcouto | macOS | [store](https://www.raycast.com/rcouto/mac-network-location-changer) |
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 182 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |

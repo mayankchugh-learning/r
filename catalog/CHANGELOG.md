@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `f3506c92c3`
+
+**Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)
+
 ## 2026-09-22 — upstream `49bb2cf6e5`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
