@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · **F** · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-81 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+82 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -70,6 +70,7 @@
 | [frank-miao](https://www.raycast.com/frank-miao) | 1 | 5 | **Documentation:** [Lattice Scholar Extension](https://github.com/raycast/extensions/tree/main/extensions/lattice-scholar-extension) |
 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 15,400 | **Productivity:** [Toggl Track](https://github.com/raycast/extensions/tree/main/extensions/toggl-track)<br>**Web:** [Search Router](https://github.com/raycast/extensions/tree/main/extensions/search-router) |
 | [fratoro](https://www.raycast.com/fratoro) | 1 | 56 | **Web:** [Hakuna](https://github.com/raycast/extensions/tree/main/extensions/hakuna) |
+| [frdmn](https://www.raycast.com/frdmn) | 1 | 0 | **Communication:** [LDAP Contacts](https://github.com/raycast/extensions/tree/main/extensions/ldap-contacts) |
 | [freak4pc](https://www.raycast.com/freak4pc) | 1 | 1,837 | **Productivity:** [monday.com](https://github.com/raycast/extensions/tree/main/extensions/monday) |
 | [Freaktion](https://www.raycast.com/freaktion) | 1 | 13 | **Developer Tools:** [BlurHash](https://github.com/raycast/extensions/tree/main/extensions/blurhash) |
 | [freepicheep](https://www.raycast.com/freepicheep) | 1 | 57 | **Applications:** [Rainaissance](https://github.com/raycast/extensions/tree/main/extensions/rainaissance) |

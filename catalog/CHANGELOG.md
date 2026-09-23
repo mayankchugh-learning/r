@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `71557290d7`
+
+**Added (1):** [LDAP Contacts](https://github.com/raycast/extensions/tree/main/extensions/ldap-contacts)
+
 ## 2026-09-23 — upstream `f29c093afe`
 
 **Updated (1):** [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders)

@@ -1,8 +1,8 @@
 # macOS · Communication
 
-156 extensions · [← macOS](../README.md)
+157 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (16) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (4) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (56)
+[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (16) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (4) · [Links & Sharing](#links-sharing) (6) · [General](#general) (56)
 
 ## Conversations
 
@@ -137,6 +137,7 @@
 | [Google Contacts](https://github.com/raycast/extensions/tree/main/extensions/google-contacts) | 462 | Browse, search, and manage your Google Contacts directly from Raycast — create, edit, delete, and action contacts without leaving your keyboard. | aic | macOS, Windows | [store](https://www.raycast.com/aic/google-contacts) |
 | [BambooHR](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) | 253 | Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. | Rob | Windows, macOS | [store](https://www.raycast.com/Rob/bamboohr) |
 | [Bento](https://github.com/raycast/extensions/tree/main/extensions/bento-me) | 71 | Access a Bento profile. | pabroux | macOS, Windows | [store](https://www.raycast.com/pabroux/bento-me) |
+| [LDAP Contacts](https://github.com/raycast/extensions/tree/main/extensions/ldap-contacts) | 0 | Lookup names and telephone numbers within an LDAP (AD) directory | frdmn | macOS | [store](https://www.raycast.com/frdmn/ldap-contacts) |
 
 ### Customer Support & CRM
 

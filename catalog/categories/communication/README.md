@@ -1,8 +1,8 @@
 # Communication
 
-158 extensions · [← all categories](../README.md)
+159 extensions · [← all categories](../README.md)
 
-macOS: 156 · Windows: 56
+macOS: 157 · Windows: 56
 
 ## Conversations
 
@@ -24,7 +24,7 @@ macOS: 156 · Windows: 56
 
 | Topic | Extensions |
 | --- | --- |
-| [Contacts & People](./contacts-people.md) | 4 |
+| [Contacts & People](./contacts-people.md) | 5 |
 | [Customer Support & CRM](./customer-support-crm.md) | 3 |
 | [Language & Dictionaries](./language-dictionaries.md) | 4 |
 

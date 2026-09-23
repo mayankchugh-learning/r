@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f29c093afe99df8be86c69ca9fb92ad932af8cd6",
-  "generatedAt": "2026-09-23T09:17:45.046Z",
-  "downloadsRefreshedAt": "2026-09-23T09:17:44.640Z",
-  "count": 3302,
+  "commit": "71557290d79d1fb7ddbad99bbb99c52ce7bfc31c",
+  "generatedAt": "2026-09-23T14:03:52.266Z",
+  "downloadsRefreshedAt": "2026-09-23T14:03:51.822Z",
+  "count": 3303,
   "extensions": [
     {
       "dir": "0x0",
@@ -2604,7 +2604,7 @@
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
       "treeSha": "e7d793f5a0fc6319fae2e7b78bd3ca4f3ca6b4b5",
-      "downloads": 118913
+      "downloads": 118935
     },
     {
       "dir": "apple-stocks-search",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 595984
+      "downloads": 596571
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 556420
+      "downloads": 556826
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 754681
+      "downloads": 755272
     },
     {
       "dir": "kimai",
@@ -30381,6 +30381,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/lazygit-keybindings",
       "treeSha": "6389b49fc3dbc2437e1c40ee7994e5f7e8bf7b4c",
       "downloads": 74
+    },
+    {
+      "dir": "ldap-contacts",
+      "name": "ldap-contacts",
+      "title": "LDAP Contacts",
+      "description": "Lookup names and telephone numbers within an LDAP (AD) directory",
+      "author": "frdmn",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Communication"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/frdmn/ldap-contacts",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/ldap-contacts",
+      "treeSha": "ac25e602fcca80cbae1682a2d1407dfc006680d1",
+      "downloads": 0
     },
     {
       "dir": "leader-key",
