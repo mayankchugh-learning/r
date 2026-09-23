@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "83fe0a30d4579b12fb993fd2e89e0d35f0ca55cd",
-  "generatedAt": "2026-09-23T23:44:48.125Z",
-  "downloadsRefreshedAt": "2026-09-23T23:44:47.581Z",
+  "commit": "ee2977f573c96f15803de3f4407a365653c4ecdd",
+  "generatedAt": "2026-09-23T23:49:26.362Z",
+  "downloadsRefreshedAt": "2026-09-23T23:49:24.581Z",
   "count": 3307,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 597424
+      "downloads": 597426
     },
     {
       "dir": "color-shades",
@@ -22685,7 +22685,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557454
+      "downloads": 557459
     },
     {
       "dir": "google-chrome-profiles",
@@ -26655,7 +26655,7 @@
       "dir": "inoh",
       "name": "inoh",
       "title": "Inoh",
-      "description": "The vocabulary app for the articulate. Add words to your Inoh decks without leaving Raycast",
+      "description": "Collect words anywhere. Turn them into rich vocabulary cards and make them yours.",
       "author": "tai",
       "owner": null,
       "contributors": 0,
@@ -26668,7 +26668,7 @@
       ],
       "store": "https://www.raycast.com/tai/inoh",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/inoh",
-      "treeSha": "7c5dfca4f0564ed223b95a1ee18a1a9b84ccddeb",
+      "treeSha": "5c9a7c61e8c649d20b5c6fbb06c971c35f569297",
       "downloads": 10
     },
     {
@@ -29110,7 +29110,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 756169
+      "downloads": 756173
     },
     {
       "dir": "kimai",
