@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `e44384c747`
+
+**Updated (1):** [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so)
+
 ## 2026-09-23 — upstream `0d356fa3e6`
 
 **Updated (1):** [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace)

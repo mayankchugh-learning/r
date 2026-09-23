@@ -1,8 +1,8 @@
 # Design & Assets
 
-41 extensions · [← Developer Tools](./README.md)
+40 extensions · [← Developer Tools](./README.md)
 
-[Color ✦](#color) (12) · [Images ✦](#images) (12) · [Icons ✦](#icons) (11) · [Svg ✦](#svg) (4) · [General](#general) (2)
+[Color ✦](#color) (12) · [Icons ✦](#icons) (11) · [Image ✦](#image) (11) · [Svg ✦](#svg) (4) · [General](#general) (2)
 
 *✦ auto-discovered topic group*
 
@@ -23,23 +23,6 @@
 | [Minecraft Color Codes](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) | 91 | View and copy Minecraft chat color codes. | lafkpages | macOS | [store](https://www.raycast.com/luisafk/minecraft-color-codes) |
 | [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) | 11 | Search, preview, and copy Chinese traditional colors and harmony palettes. | RaffeYang | macOS, Windows | [store](https://www.raycast.com/raffeyang/chinese-traditional-colors) |
 
-## Images ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [ray.so](https://github.com/raycast/extensions/tree/main/extensions/ray-so) | 52,044 | Create beautiful images of your code using ray.so | garrett | macOS, Windows | [store](https://www.raycast.com/garrett/ray-so) |
-| [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 45,192 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS, Windows | [store](https://www.raycast.com/kawamataryo/tinypng) |
-| [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 2,332 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |
-| [CodeSnap](https://github.com/raycast/extensions/tree/main/extensions/codesnap) | 1,857 | Creates a beautiful image of your code snippet | Mokkapps | macOS | [store](https://www.raycast.com/Mokkapps/codesnap) |
-| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,734 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
-| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,398 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
-| [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) | 1,087 | Convert between base64 strings and images easily | vitorlostada | macOS | [store](https://www.raycast.com/vitorlostada/image-base64) |
-| [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) | 432 | Official Photoroom Raycast extension. Resize images, remove and change the background, add shadows and much more! | ubuntudroid | macOS | [store](https://www.raycast.com/ubuntudroid/photoroom-image-editing) |
-| [Image Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) | 248 | Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF. | yasuhiroyamamoto | macOS | [store](https://www.raycast.com/yasuhiroyamamoto/image-diff-checker) |
-| [LGTMeow](https://github.com/raycast/extensions/tree/main/extensions/lgtmeow) | 207 | Selecting and pasting LGTM images from LGTMeow in Markdown format. | snaka | macOS | [store](https://www.raycast.com/snaka/lgtmeow) |
-| [Image Hash Rename](https://github.com/raycast/extensions/tree/main/extensions/image-hash-rename) | 18 | Rename images in a folder by appending a content-based MD5 hash to the filename. | saury | macOS | [store](https://www.raycast.com/saury/image-hash-rename) |
-| [UploadKit Image Uploader](https://github.com/raycast/extensions/tree/main/extensions/uploadkit) | 2 | Upload images to UploadKit and copy their CDN URL | drumst0ck | macOS, Windows | [store](https://www.raycast.com/drumst0ck/uploadkit) |
-
 ## Icons ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
@@ -55,6 +38,22 @@
 | [Lucide Animated](https://github.com/raycast/extensions/tree/main/extensions/lucide-animated) | 95 | Browse, search, and copy animated Lucide icons for your projects. | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/lucide-animated) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 20 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Central Icons](https://github.com/raycast/extensions/tree/main/extensions/central-icons) | 13 | Browse, search and export all Central icons — copy or paste SVG, code snippets, or export SVG files. | tamino-martinius | macOS | [store](https://www.raycast.com/tamino-martinius/central-icons) |
+
+## Image ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 45,192 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS, Windows | [store](https://www.raycast.com/kawamataryo/tinypng) |
+| [Mermaid to Image](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) | 2,332 | Convert Mermaid diagrams into PNG or SVG images with hybrid rendering | chihkang | macOS | [store](https://www.raycast.com/chihkang/mermaid-to-image) |
+| [CodeSnap](https://github.com/raycast/extensions/tree/main/extensions/codesnap) | 1,857 | Creates a beautiful image of your code snippet | Mokkapps | macOS | [store](https://www.raycast.com/Mokkapps/codesnap) |
+| [Lorem Picsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) | 1,734 | Generate a random image link for given dimensions. | michaelfarquhar | macOS, Windows | [store](https://www.raycast.com/michaelfarquhar/lorem-picsum) |
+| [Exif Viewer](https://github.com/raycast/extensions/tree/main/extensions/exif) | 1,398 | Show metadata (EXIF) for images from clipboard or URL | j3lte | macOS | [store](https://www.raycast.com/j3lte/exif) |
+| [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) | 1,087 | Convert between base64 strings and images easily | vitorlostada | macOS | [store](https://www.raycast.com/vitorlostada/image-base64) |
+| [Photoroom Image Editing](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) | 432 | Official Photoroom Raycast extension. Resize images, remove and change the background, add shadows and much more! | ubuntudroid | macOS | [store](https://www.raycast.com/ubuntudroid/photoroom-image-editing) |
+| [Image Diff Checker](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) | 248 | Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF. | yasuhiroyamamoto | macOS | [store](https://www.raycast.com/yasuhiroyamamoto/image-diff-checker) |
+| [LGTMeow](https://github.com/raycast/extensions/tree/main/extensions/lgtmeow) | 207 | Selecting and pasting LGTM images from LGTMeow in Markdown format. | snaka | macOS | [store](https://www.raycast.com/snaka/lgtmeow) |
+| [Image Hash Rename](https://github.com/raycast/extensions/tree/main/extensions/image-hash-rename) | 18 | Rename images in a folder by appending a content-based MD5 hash to the filename. | saury | macOS | [store](https://www.raycast.com/saury/image-hash-rename) |
+| [UploadKit Image Uploader](https://github.com/raycast/extensions/tree/main/extensions/uploadkit) | 2 | Upload images to UploadKit and copy their CDN URL | drumst0ck | macOS, Windows | [store](https://www.raycast.com/drumst0ck/uploadkit) |
 
 ## Svg ✦
 
