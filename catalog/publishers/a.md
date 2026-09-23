@@ -110,7 +110,7 @@
 | [amir01](https://www.raycast.com/amir01) | 1 | 49 | **Communication:** [Phone](https://github.com/raycast/extensions/tree/main/extensions/phone) |
 | [amuelli](https://www.raycast.com/amuelli) | 2 | 473 | **Productivity:** [Bring!](https://github.com/raycast/extensions/tree/main/extensions/bring), [Migros](https://github.com/raycast/extensions/tree/main/extensions/migros) |
 | [anandubajith](https://www.raycast.com/anandubajith) | 1 | 2,049 | **Applications:** [Cloudflare WARP](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) |
-| [anastasiy_safari](https://www.raycast.com/anastasiy_safari) | 1 | 7,081 | **Applications:** [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) |
+| [anastasiy_safari](https://www.raycast.com/anastasiy_safari) | 1 | 7,084 | **Applications:** [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) |
 | [anders_morille](https://www.raycast.com/anders_morille) | 1 | 294 | **Developer Tools:** [QuickSnip](https://github.com/raycast/extensions/tree/main/extensions/quicksnip) |
 | [andoutenc](https://www.raycast.com/andoutenc) | 1 | 39 | **Developer Tools:** [Leap.new](https://github.com/raycast/extensions/tree/main/extensions/leap-new) |
 | [andre-rd-rodrigues](https://www.raycast.com/andre-rd-rodrigues) | 1 | 433 | **Finance:** [Fake Financial Data](https://github.com/raycast/extensions/tree/main/extensions/fake-financial-data) |

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,264,683 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,264,685 |
 | 2 | [raycast](./id/raycast.md) | 11 | 886,479 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,288 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,838 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,290 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,839 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 486,616 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 482,425 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 450,302 |
@@ -221,7 +221,7 @@
 | 211 | [fearoffish](https://www.raycast.com/fearoffish) | 1 | 7,193 |
 | 212 | [kud](./id/kud.md) | 13 | 7,108 |
 | 213 | [comoser](https://www.raycast.com/comoser) | 3 | 7,094 |
-| 214 | [anastasiy_safari](https://www.raycast.com/anastasiy_safari) | 1 | 7,081 |
+| 214 | [anastasiy_safari](https://www.raycast.com/anastasiy_safari) | 1 | 7,084 |
 | 215 | [agustin.prats](https://www.raycast.com/agustin.prats) | 1 | 7,023 |
 | 216 | [theo_daguier](https://www.raycast.com/theo_daguier) | 2 | 7,022 |
 | 217 | [aelew](https://www.raycast.com/aelew) | 1 | 7,018 |
