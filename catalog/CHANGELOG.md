@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `ebbd0a58e1`
+
+**Updated (1):** [YouTrack](https://github.com/raycast/extensions/tree/main/extensions/youtrack)
+
 ## 2026-09-23 — upstream `f3506c92c3`
 
 **Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)

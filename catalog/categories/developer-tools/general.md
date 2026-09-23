@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 754,184 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 754,186 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 180,750 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 108,844 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 66,771 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -43,7 +43,7 @@
 | [Wakatime](https://github.com/raycast/extensions/tree/main/extensions/wakatime) | 1,224 | Show your Wakatime Activity Stats, Projects and Leaderboards | iammola | macOS | [store](https://www.raycast.com/iammola/wakatime) |
 | [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) | 1,056 | Compare or open content from Raycast in Kaleidoscope. | leitmotif (org) | macOS | [store](https://www.raycast.com/leitmotif/kaleidoscope) |
 | [Metal Performance HUD](https://github.com/raycast/extensions/tree/main/extensions/performance-hud) | 1,055 | Toggle macOS's built-in Metal performance HUD | say4n | macOS | [store](https://www.raycast.com/say4n/performance-hud) |
-| [YouTrack](https://github.com/raycast/extensions/tree/main/extensions/youtrack) | 972 | YouTrack 🔄 Raycast | tiulpin | macOS | [store](https://www.raycast.com/tiulpin/youtrack) |
+| [YouTrack](https://github.com/raycast/extensions/tree/main/extensions/youtrack) | 972 | YouTrack 🔄 Raycast | tiulpin | macOS, Windows | [store](https://www.raycast.com/tiulpin/youtrack) |
 | [Pastebin](https://github.com/raycast/extensions/tree/main/extensions/pastebin) | 946 | Create and manage Pastebin pastes | vimtor | macOS | [store](https://www.raycast.com/vimtor/pastebin) |
 | [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 934 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [Parrot Translate](https://github.com/raycast/extensions/tree/main/extensions/parrot-translate) | 893 | Powerful and Easy to use translation, Support TTS and lowerCamelCase/ALL_UPPERCASE Copy mode, and more | Haojen | macOS | [store](https://www.raycast.com/Haojen/parrot-translate) |

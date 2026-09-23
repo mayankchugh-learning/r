@@ -154,7 +154,7 @@
 | [Say No to Notch](https://github.com/raycast/extensions/tree/main/extensions/say-no-to-notch) | 993 | Control MacBook Notch via Say No to Notch | honghao | macOS | [store](https://www.raycast.com/honghao/say-no-to-notch) |
 | [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 989 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
 | [Hammerspoon](https://github.com/raycast/extensions/tree/main/extensions/hammerspoon) | 982 | Control Hammerspoon from Raycast | bjrmatos | macOS | [store](https://www.raycast.com/bjrmatos/hammerspoon) |
-| [YouTrack](https://github.com/raycast/extensions/tree/main/extensions/youtrack) | 972 | YouTrack 🔄 Raycast | tiulpin | macOS | [store](https://www.raycast.com/tiulpin/youtrack) |
+| [YouTrack](https://github.com/raycast/extensions/tree/main/extensions/youtrack) | 972 | YouTrack 🔄 Raycast | tiulpin | macOS, Windows | [store](https://www.raycast.com/tiulpin/youtrack) |
 | [Pastebin](https://github.com/raycast/extensions/tree/main/extensions/pastebin) | 946 | Create and manage Pastebin pastes | vimtor | macOS | [store](https://www.raycast.com/vimtor/pastebin) |
 | [Jenkins](https://github.com/raycast/extensions/tree/main/extensions/jenkins) | 936 | Manage your Jenkins directly from Raycast. | k8scat | macOS | [store](https://www.raycast.com/k8scat/jenkins) |
 | [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 934 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
