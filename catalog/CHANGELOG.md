@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `f870e0fbe4`
+
+**Updated (1):** [Google Cloud CLI](https://github.com/raycast/extensions/tree/main/extensions/g-cloud)
+
 ## 2026-09-23 — upstream `a9e5806c10`
 
 **Updated (1):** [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader)
