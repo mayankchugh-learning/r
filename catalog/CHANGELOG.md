@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `4cf2660c84`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-23 — upstream `5f8e8b8fa8`
 
 **Updated (1):** [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device)
