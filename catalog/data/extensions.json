@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c7964f2090040f1b88c645d3e02d56f7e6878014",
-  "generatedAt": "2026-09-23T17:10:36.900Z",
-  "downloadsRefreshedAt": "2026-09-23T17:10:36.090Z",
+  "commit": "8ad331403e89bc11a62e3a34a362dfec3fd691e4",
+  "generatedAt": "2026-09-23T17:12:21.851Z",
+  "downloadsRefreshedAt": "2026-09-23T17:12:20.939Z",
   "count": 3305,
   "extensions": [
     {
@@ -22645,7 +22645,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557097
+      "downloads": 557098
     },
     {
       "dir": "google-chrome-profiles",
@@ -29070,7 +29070,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 755649
+      "downloads": 755650
     },
     {
       "dir": "kimai",
@@ -41072,7 +41072,7 @@
       ],
       "store": "https://www.raycast.com/plonq/orion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/orion",
-      "treeSha": "822018f82e3759189251dfdda15fbe78d8ed227d",
+      "treeSha": "d4e6059ca5964d8f76084f4af97f1c7b42e1f36d",
       "downloads": 3667
     },
     {

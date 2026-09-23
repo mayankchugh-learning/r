@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `8ad331403e`
+
+**Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)
+
 ## 2026-09-23 — upstream `c7964f2090`
 
 **Updated (1):** [Desk.ly](https://github.com/raycast/extensions/tree/main/extensions/raycast-deskly)
