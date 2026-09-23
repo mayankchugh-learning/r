@@ -1,12 +1,12 @@
 # vimtor
 
-15 extensions · 330,985 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
+15 extensions · 331,016 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
 
 ## Applications (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 131,884 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
+| [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 131,915 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 52,452 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
 | [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,637 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Pocket](https://github.com/raycast/extensions/tree/main/extensions/pocket) | 3,778 | Manage Pocket bookmarks from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/pocket) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4cf2660c8487470f640c99aa912cba4041deea47",
-  "generatedAt": "2026-09-23T06:26:47.520Z",
-  "downloadsRefreshedAt": "2026-09-23T06:26:47.195Z",
+  "commit": "a9e5806c10f771b1ffc0d7c088052bff13aab672",
+  "generatedAt": "2026-09-23T07:27:00.404Z",
+  "downloadsRefreshedAt": "2026-09-23T07:26:59.762Z",
   "count": 3302,
   "extensions": [
     {
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 595655
+      "downloads": 595755
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 556187
+      "downloads": 556253
     },
     {
       "dir": "google-chrome-profiles",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 754350
+      "downloads": 754455
     },
     {
       "dir": "kimai",
@@ -64576,8 +64576,8 @@
       ],
       "store": "https://www.raycast.com/vimtor/video-downloader",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/video-downloader",
-      "treeSha": "8fe1fd5a7c839e42a615b6d207e5cc4afab81e44",
-      "downloads": 131884
+      "treeSha": "e7f6db17d383f3f0b3f521f47875a5c24fa48e55",
+      "downloads": 131915
     },
     {
       "dir": "vietnamese-calendar",
