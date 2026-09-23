@@ -18,14 +18,14 @@
 | 8 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,319 |
 | 9 | [chrismessina](./id/chrismessina.md) | 16 | 7,424 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,833 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,263,592 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,263,604 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 330,985 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 450,299 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,397 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,122 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 11,024 |
 | 17 | [kud](./id/kud.md) | 13 | 7,108 |
-| 18 | [raycast](./id/raycast.md) | 11 | 886,404 |
+| 18 | [raycast](./id/raycast.md) | 11 | 886,407 |
 | 19 | [Rob](./id/rob.md) | 11 | 12,105 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 10,325 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 22,680 |
@@ -100,7 +100,7 @@
 | 90 | [gebeto](https://www.raycast.com/gebeto) | 3 | 486,616 |
 | 91 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 482,425 |
 | 92 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 114,581 |
-| 93 | [erics118](https://www.raycast.com/erics118) | 3 | 104,918 |
+| 93 | [erics118](https://www.raycast.com/erics118) | 3 | 104,925 |
 | 94 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 104,276 |
 | 95 | [third774](https://www.raycast.com/third774) | 3 | 67,251 |
 | 96 | [Kang](https://www.raycast.com/Kang) | 3 | 65,459 |
@@ -396,8 +396,8 @@
 | 386 | [tai](https://www.raycast.com/tai) | 2 | 14 |
 | 387 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 388 | github-next | 2 | — |
-| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,189 |
-| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 556,061 |
+| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,202 |
+| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 556,072 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 391,884 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 326,340 |
 | 393 | [nhojb](https://www.raycast.com/nhojb) | 1 | 286,399 |

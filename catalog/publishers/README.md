@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,263,592 |
-| 2 | [raycast](./id/raycast.md) | 11 | 886,404 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,189 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,061 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,263,604 |
+| 2 | [raycast](./id/raycast.md) | 11 | 886,407 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 754,202 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 556,072 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 486,616 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 482,425 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 450,299 |
@@ -37,7 +37,7 @@
 | 27 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 115,762 |
 | 28 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 114,581 |
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 112,960 |
-| 30 | [erics118](https://www.raycast.com/erics118) | 3 | 104,918 |
+| 30 | [erics118](https://www.raycast.com/erics118) | 3 | 104,925 |
 | 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 104,276 |
 | 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 101,689 |
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 101,172 |

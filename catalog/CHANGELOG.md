@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `0d356fa3e6`
+
+**Updated (1):** [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace)
+
 ## 2026-09-23 — upstream `44edc2f647`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "44edc2f647a4ba0cb8791fdb9ddb8b68924cd072",
-  "generatedAt": "2026-09-23T04:21:41.165Z",
-  "downloadsRefreshedAt": "2026-09-23T04:21:39.322Z",
+  "commit": "0d356fa3e64341994275a7e6dbb9c6d1fd047165",
+  "generatedAt": "2026-09-23T04:30:14.367Z",
+  "downloadsRefreshedAt": "2026-09-23T04:30:14.015Z",
   "count": 3302,
   "extensions": [
     {
@@ -7420,7 +7420,7 @@
       "store": "https://www.raycast.com/erics118/change-case",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/change-case",
       "treeSha": "e5726480d65065bb0bc8911ea0420f91f2179cbc",
-      "downloads": 53633
+      "downloads": 53640
     },
     {
       "dir": "change-scroll-direction",
@@ -10102,7 +10102,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 595499
+      "downloads": 595511
     },
     {
       "dir": "color-shades",
@@ -22624,7 +22624,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 556061
+      "downloads": 556072
     },
     {
       "dir": "google-chrome-profiles",
@@ -22996,7 +22996,7 @@
       "description": "Access Google Drive files",
       "author": "thomaslombart",
       "owner": "raycast",
-      "contributors": 8,
+      "contributors": 9,
       "categories": [
         "Productivity"
       ],
@@ -23007,8 +23007,8 @@
       ],
       "store": "https://www.raycast.com/raycast/google-workspace",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-workspace",
-      "treeSha": "7207e4abda990a30f633a577af28c8a93deac2ed",
-      "downloads": 59512
+      "treeSha": "7bcf0a5716797bae2586b69ee4bc01f563d06456",
+      "downloads": 59515
     },
     {
       "dir": "gopass",
@@ -29049,7 +29049,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 754189
+      "downloads": 754202
     },
     {
       "dir": "kimai",
