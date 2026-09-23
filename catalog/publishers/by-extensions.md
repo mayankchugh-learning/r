@@ -1,6 +1,6 @@
 # Publishers
 
-2216 publishers · [← catalog index](../README.md)
+2217 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -18,7 +18,7 @@
 | 8 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,340 |
 | 9 | [chrismessina](./id/chrismessina.md) | 16 | 7,428 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,836 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,266,118 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,266,131 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 331,392 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 450,812 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,422 |
@@ -396,8 +396,8 @@
 | 386 | [tai](https://www.raycast.com/tai) | 2 | 14 |
 | 387 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 388 | github-next | 2 | — |
-| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,751 |
-| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 557,166 |
+| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 755,768 |
+| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 557,181 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 392,589 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 327,012 |
 | 393 | [nhojb](https://www.raycast.com/nhojb) | 1 | 286,815 |
@@ -2219,8 +2219,9 @@
 | 2209 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2210 | [evilmouth](https://www.raycast.com/evilmouth) | 1 | 0 |
 | 2211 | [frdmn](https://www.raycast.com/frdmn) | 1 | 0 |
-| 2212 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2213 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2214 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2215 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2216 | multi | 1 | — |
+| 2212 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 1 | 0 |
+| 2213 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2214 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2215 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2216 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2217 | multi | 1 | — |

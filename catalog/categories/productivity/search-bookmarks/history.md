@@ -1,6 +1,6 @@
 # History ✦
 
-12 extensions · [← Search & Bookmarks](./README.md)
+13 extensions · [← Search & Bookmarks](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -18,3 +18,4 @@
 | [Webhook Sender](https://github.com/raycast/extensions/tree/main/extensions/webhook-sender) | 75 | Send HTTP webhooks instantly — with key-value or raw JSON body, automatic history, saved presets, and rich response inspection. | BinaryBlitz10 | macOS, Windows | [store](https://www.raycast.com/BinaryBlitz10/webhook-sender) |
 | [Supabase Cron Monitor](https://github.com/raycast/extensions/tree/main/extensions/supabase-cron-monitor) | 25 | Monitor Supabase pg_cron jobs and run history. | adrianmarten | macOS | [store](https://www.raycast.com/adrianmarten/supabase-cron-monitor) |
 | [Orbit](https://github.com/raycast/extensions/tree/main/extensions/orbit) | 21 | Control the Orbit app. Open the timeline, search your history, and jump to the settings. | michaelheckmann | macOS | [store](https://www.raycast.com/michaelheckmann/orbit) |
+| [Coast](https://github.com/raycast/extensions/tree/main/extensions/coast) | 0 | An independently maintained Raycast integration to search, inspect, and revisit Coast screen history | jerichosequitin | macOS | [store](https://www.raycast.com/jerichosequitin/coast) |

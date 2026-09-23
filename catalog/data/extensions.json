@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "87ccd356dea590a6ac232b9cda7c448c45b4879e",
-  "generatedAt": "2026-09-23T18:06:50.560Z",
-  "downloadsRefreshedAt": "2026-09-23T18:06:49.708Z",
-  "count": 3306,
+  "commit": "e197aab932322315423d732efd7fd4464ba4dbd8",
+  "generatedAt": "2026-09-23T18:20:57.821Z",
+  "downloadsRefreshedAt": "2026-09-23T18:20:57.045Z",
+  "count": 3307,
   "extensions": [
     {
       "dir": "0x0",
@@ -9311,6 +9311,26 @@
       "downloads": 120
     },
     {
+      "dir": "coast",
+      "name": "coast",
+      "title": "Coast",
+      "description": "An independently maintained Raycast integration to search, inspect, and revisit Coast screen history",
+      "author": "jerichosequitin",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/jerichosequitin/coast",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/coast",
+      "treeSha": "375f9c5579812fe2478d0a8a58a815207d373ec9",
+      "downloads": 0
+    },
+    {
       "dir": "cobalt",
       "name": "cobalt",
       "title": "Cobalt",
@@ -10123,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 597028
+      "downloads": 597041
     },
     {
       "dir": "color-shades",
@@ -22665,7 +22685,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557166
+      "downloads": 557181
     },
     {
       "dir": "google-chrome-profiles",
@@ -29090,7 +29110,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 755751
+      "downloads": 755768
     },
     {
       "dir": "kimai",

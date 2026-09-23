@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-133 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+134 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -45,6 +45,7 @@
 | [jeffreyvanhees](https://www.raycast.com/jeffreyvanhees) | 1 | 76 | **Data:** [Dutch License Plate Search](https://github.com/raycast/extensions/tree/main/extensions/rdw-kentekencheck) |
 | [JensAstrup](https://www.raycast.com/JensAstrup) | 1 | 47 | **Documentation:** [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) |
 | [jergensturdley](https://www.raycast.com/jergensturdley) | 1 | 75 | **Uncategorized:** [RG AdGuard Links](https://github.com/raycast/extensions/tree/main/extensions/rg-adguard-links) |
+| [jerichosequitin](https://www.raycast.com/jerichosequitin) | 1 | 0 | **Productivity:** [Coast](https://github.com/raycast/extensions/tree/main/extensions/coast) |
 | [jerome_soyer](https://www.raycast.com/jerome_soyer) | 1 | 343 | **Applications:** [Kitty](https://github.com/raycast/extensions/tree/main/extensions/kitty) |
 | [jesper_sjoberg](https://www.raycast.com/jesper_sjoberg) | 1 | 478 | **Productivity:** [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) |
 | [jetaix](https://www.raycast.com/jetaix) | 1 | 132 | **Finance:** [Finary](https://github.com/raycast/extensions/tree/main/extensions/finary) |

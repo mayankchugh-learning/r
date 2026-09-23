@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-23 — upstream `e197aab932`
+
+**Added (1):** [Coast](https://github.com/raycast/extensions/tree/main/extensions/coast)
+
 ## 2026-09-23 — upstream `87ccd356de`
 
 **Updated (1):** [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios)
