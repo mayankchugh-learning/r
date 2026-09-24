@@ -14,7 +14,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 1134 |
+| [Developer Tools](./developer-tools/README.md) | 1135 |
 | [Data](./data/README.md) | 273 |
 | [Documentation](./documentation/README.md) | 214 |
 | [Security](./security/README.md) | 85 |
@@ -31,7 +31,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Web](./web/README.md) | 473 |
+| [Web](./web/README.md) | 474 |
 | [Finance](./finance/README.md) | 154 |
 | [News](./news/README.md) | 97 |
 

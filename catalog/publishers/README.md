@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,267,907 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,267,958 |
 | 2 | [raycast](./id/raycast.md) | 11 | 888,562 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 756,772 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 557,941 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 756,816 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 557,977 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 487,828 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 483,692 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 451,205 |
@@ -217,7 +217,7 @@
 | 207 | [solomkinmv](https://www.raycast.com/solomkinmv) | 2 | 7,762 |
 | 208 | [biknandy](https://www.raycast.com/biknandy) | 1 | 7,644 |
 | 209 | [raffeyang](https://www.raycast.com/raffeyang) | 2 | 7,572 |
-| 210 | [chrismessina](./id/chrismessina.md) | 16 | 7,435 |
+| 210 | [chrismessina](./id/chrismessina.md) | 17 | 7,435 |
 | 211 | [fearoffish](https://www.raycast.com/fearoffish) | 1 | 7,216 |
 | 212 | [kud](./id/kud.md) | 13 | 7,125 |
 | 213 | [comoser](https://www.raycast.com/comoser) | 3 | 7,111 |

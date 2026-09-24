@@ -1,8 +1,8 @@
 # URL ✦
 
-27 extensions · [← URL & Domain Tools](./README.md)
+28 extensions · [← URL & Domain Tools](./README.md)
 
-[Clipboard ✦](#clipboard) (7) · [URL Shortener ✦](#url-shortener) (5) · [General](#general) (15)
+[Clipboard ✦](#clipboard) (7) · [URL Shortener ✦](#url-shortener) (5) · [General](#general) (16)
 
 *✦ auto-discovered topic group*
 
@@ -47,3 +47,4 @@
 | [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer) | 9 | Collect URL patterns and copy them as an implementation prompt. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/url-designer) |
 | [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) | 4 | Save text to cl1p.net and copy the resulting URL | meslva | macOS, Windows | [store](https://www.raycast.com/meslva/cl1p) |
 | [Discussite](https://github.com/raycast/extensions/tree/main/extensions/discussite) | 3 | Open an HTTPS URL as a Discussite Site | discuss.site | macOS | [store](https://www.raycast.com/discuss.site/discussite) |
+| [Fetch](https://github.com/raycast/extensions/tree/main/extensions/fetch) | 0 | Download one or many files with curl: batch downloads, URL range patterns, and download history. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/fetch) |

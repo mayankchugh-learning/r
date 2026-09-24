@@ -1,6 +1,6 @@
 # chrismessina
 
-16 extensions · 7,435 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+17 extensions · 7,435 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -28,11 +28,12 @@
 | [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 889 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
 | [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 212 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 
-## Web (1)
+## Web (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 962 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
+| [Fetch](https://github.com/raycast/extensions/tree/main/extensions/fetch) | 0 | Download one or many files with curl: batch downloads, URL range patterns, and download history. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/fetch) |
 
 ## News (1)
 

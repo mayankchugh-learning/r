@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "25aa4dcceb4f6dcd0b2694c233571e4e0d0d41b0",
-  "generatedAt": "2026-09-24T08:25:30.479Z",
-  "downloadsRefreshedAt": "2026-09-24T08:25:30.057Z",
-  "count": 3308,
+  "commit": "97d665c13ed4ac932a00671625ee967b83b658a9",
+  "generatedAt": "2026-09-24T08:51:35.194Z",
+  "downloadsRefreshedAt": "2026-09-24T08:51:34.792Z",
+  "count": 3309,
   "extensions": [
     {
       "dir": "0x0",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 598056
+      "downloads": 598107
     },
     {
       "dir": "color-shades",
@@ -18292,6 +18292,27 @@
       "downloads": 718
     },
     {
+      "dir": "fetch",
+      "name": "fetch",
+      "title": "Fetch",
+      "description": "Download one or many files with curl: batch downloads, URL range patterns, and download history.",
+      "author": "chrismessina",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Web",
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/chrismessina/fetch",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/fetch",
+      "treeSha": "6d73d32403bc517945ed7eefef2b2834394aba6e",
+      "downloads": 0
+    },
+    {
       "dir": "fetch-youtube-transcript",
       "name": "fetch-youtube-transcript",
       "title": "Fetch YouTube Transcript",
@@ -22685,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557941
+      "downloads": 557977
     },
     {
       "dir": "google-chrome-profiles",
@@ -29110,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 756772
+      "downloads": 756816
     },
     {
       "dir": "kimai",

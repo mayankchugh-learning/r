@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `97d665c13e`
+
+**Added (1):** [Fetch](https://github.com/raycast/extensions/tree/main/extensions/fetch)
+
 ## 2026-09-24 — upstream `25aa4dcceb`
 
 **Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)
