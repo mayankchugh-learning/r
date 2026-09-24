@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3d02002adc46933bcf9ab20b3d58964727e09921",
-  "generatedAt": "2026-09-24T07:38:36.025Z",
-  "downloadsRefreshedAt": "2026-09-24T07:38:35.067Z",
+  "commit": "1c061f95156228c9c4aee0addccc661e16fe8f93",
+  "generatedAt": "2026-09-24T08:15:45.482Z",
+  "downloadsRefreshedAt": "2026-09-24T08:15:44.739Z",
   "count": 3308,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 597976
+      "downloads": 598039
     },
     {
       "dir": "color-shades",
@@ -15188,7 +15188,7 @@
       ],
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
-      "treeSha": "76e45dd3a6a467a111e825a23180522cc169acef",
+      "treeSha": "6c34b910f4d69d8f060e0a04f8ed6c6b060fbbd8",
       "downloads": 190
     },
     {
@@ -22685,7 +22685,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557882
+      "downloads": 557924
     },
     {
       "dir": "google-chrome-profiles",
@@ -29110,7 +29110,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 756691
+      "downloads": 756754
     },
     {
       "dir": "kimai",
@@ -46685,10 +46685,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/neilbartlett/quick-groups",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-groups",
       "treeSha": "717efc54549b17c43aef87cef49292fea1927fa2",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "quick-jump",

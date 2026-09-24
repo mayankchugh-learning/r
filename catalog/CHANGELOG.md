@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `1c061f9515`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-24 — upstream `3d02002adc`
 
 **Added (1):** [Quick Groups](https://github.com/raycast/extensions/tree/main/extensions/quick-groups)
