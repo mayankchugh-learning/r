@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,269,926 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,269,931 |
 | 2 | [raycast](./id/raycast.md) | 11 | 889,614 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,886 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,676 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,892 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,678 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,450 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,343 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 451,672 |
@@ -133,7 +133,7 @@
 | 123 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,796 |
 | 124 | [tailscale](https://www.raycast.com/tailscale) | 1 | 16,796 |
 | 125 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 16,756 |
-| 126 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,684 |
+| 126 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,692 |
 | 127 | [kom](https://www.raycast.com/kom) | 1 | 16,570 |
 | 128 | [k8scat](https://www.raycast.com/k8scat) | 6 | 16,137 |
 | 129 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 15,827 |

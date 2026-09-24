@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "13e7ba50ec58e997fbaa057d892b4ddf1b81cca3",
-  "generatedAt": "2026-09-24T19:28:34.025Z",
-  "downloadsRefreshedAt": "2026-09-24T19:28:32.775Z",
+  "commit": "c138b6e79ff3e9aa74bb5605659a56221ade7076",
+  "generatedAt": "2026-09-24T19:31:35.176Z",
+  "downloadsRefreshedAt": "2026-09-24T19:31:33.776Z",
   "count": 3311,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599141
+      "downloads": 599146
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558676
+      "downloads": 558678
     },
     {
       "dir": "google-chrome-profiles",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 757886
+      "downloads": 757892
     },
     {
       "dir": "kimai",
@@ -67895,7 +67895,7 @@
       "store": "https://www.raycast.com/SvenTiigi/xcode",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/xcode",
       "treeSha": "685d8789668a7664d4e516cbac291398f7441c6e",
-      "downloads": 16684
+      "downloads": 16692
     },
     {
       "dir": "xcode-cloud",
@@ -69073,7 +69073,7 @@
       "dir": "zenmux-manager",
       "name": "zenmux-manager",
       "title": "ZenMux Manager",
-      "description": "Monitor ZenMux usage, manage account links, and ask Raycast AI about ZenMux.",
+      "description": "Monitor ZenMux usage, manage account links, and use ZenMux models in Raycast AI.",
       "author": "abnershang",
       "owner": null,
       "contributors": 0,
@@ -69087,7 +69087,7 @@
       ],
       "store": "https://www.raycast.com/abnershang/zenmux-manager",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager",
-      "treeSha": "7a370618476fa3e655fae232a1ef5fa7f7a8e56f",
+      "treeSha": "3fdef9df03932a2a50ad5a0e4d71a9655c688398",
       "downloads": 19
     },
     {

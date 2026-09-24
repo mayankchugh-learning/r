@@ -1,6 +1,6 @@
 # General
 
-31 extensions · [← AI](./README.md)
+30 extensions · [← AI](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -33,5 +33,4 @@
 | [Leap.new](https://github.com/raycast/extensions/tree/main/extensions/leap-new) | 39 | Generate production-ready fullstack apps with leap.new AI platform | andoutenc | macOS | [store](https://www.raycast.com/andoutenc/leap-new) |
 | [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 33 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
 | [RedactCast](https://github.com/raycast/extensions/tree/main/extensions/redactcast) | 21 | Reversible PII Masker: Sanitize sensitive data before sending to AI, and restore it locally. | Tomokisan | macOS, Windows | [store](https://www.raycast.com/tomokisan/redactcast) |
-| [ZenMux Manager](https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager) | 19 | Monitor ZenMux usage, manage account links, and ask Raycast AI about ZenMux. | abnershang | macOS, Windows | [store](https://www.raycast.com/abnershang/zenmux-manager) |
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 2 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |

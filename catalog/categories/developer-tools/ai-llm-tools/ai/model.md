@@ -1,6 +1,6 @@
 # Model ✦
 
-14 extensions · [← AI](./README.md)
+15 extensions · [← AI](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -18,5 +18,6 @@
 | [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 117 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |
 | [CometAPI](https://github.com/raycast/extensions/tree/main/extensions/cometapi) | 93 | AI-powered text processing tools using CometAPI. Summarize, translate, rephrase, proofread text with advanced language models. | mutewinter | macOS | [store](https://www.raycast.com/mutewinter/cometapi) |
 | [LobeHub Icons](https://github.com/raycast/extensions/tree/main/extensions/lobehub-icons) | 91 | Popular AI / LLM Model Brand SVG Logo and Icon Collection | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/lobehub-icons) |
+| [ZenMux Manager](https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager) | 19 | Monitor ZenMux usage, manage account links, and use ZenMux models in Raycast AI. | abnershang | macOS, Windows | [store](https://www.raycast.com/abnershang/zenmux-manager) |
 | [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 17 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 3 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
