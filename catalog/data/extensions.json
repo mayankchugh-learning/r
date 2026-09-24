@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f04b7bc9650ac42ca71d27c5c9e3fe8723a11f3c",
-  "generatedAt": "2026-09-24T19:13:36.313Z",
-  "downloadsRefreshedAt": "2026-09-24T19:13:35.489Z",
+  "commit": "4630754845777c9cf8c04b1ca8a6723ed2ddd130",
+  "generatedAt": "2026-09-24T19:25:36.165Z",
+  "downloadsRefreshedAt": "2026-09-24T19:25:35.570Z",
   "count": 3311,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599116
+      "downloads": 599136
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558666
+      "downloads": 558675
     },
     {
       "dir": "google-chrome-profiles",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 757858
+      "downloads": 757880
     },
     {
       "dir": "kimai",
@@ -67883,7 +67883,7 @@
       "description": "Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, create Swift Packages & Playgrounds and quickly clear Xcode cache files.",
       "author": "SvenTiigi",
       "owner": null,
-      "contributors": 5,
+      "contributors": 4,
       "categories": [
         "Developer Tools",
         "Applications"
@@ -67894,7 +67894,7 @@
       ],
       "store": "https://www.raycast.com/SvenTiigi/xcode",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/xcode",
-      "treeSha": "d5d4bbe02b20d116f993ec13b18c7edad480109d",
+      "treeSha": "685d8789668a7664d4e516cbac291398f7441c6e",
       "downloads": 16684
     },
     {

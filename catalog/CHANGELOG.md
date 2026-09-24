@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `4630754845`
+
+**Updated (1):** [Xcode](https://github.com/raycast/extensions/tree/main/extensions/xcode)
+
 ## 2026-09-24 — upstream `f04b7bc965`
 
 **Updated (1):** [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg)
