@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e6acec27ca8eaac7098ac1088840b33f2df301be",
-  "generatedAt": "2026-09-24T09:20:47.979Z",
-  "downloadsRefreshedAt": "2026-09-24T09:20:47.168Z",
+  "commit": "dce21a22a665ccfaace7cf137faf6e6dd3af51cd",
+  "generatedAt": "2026-09-24T09:43:51.416Z",
+  "downloadsRefreshedAt": "2026-09-24T09:43:50.531Z",
   "count": 3310,
   "extensions": [
     {
@@ -797,7 +797,7 @@
       ],
       "store": "https://www.raycast.com/ridemountainpig/ai-by-vercel",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/ai-by-vercel",
-      "treeSha": "1661b173b2cb050d3cbc39b71519aa61e4edfa77",
+      "treeSha": "ab11fcd2c98ab995ae201a2cf1bd5562ecf926ed",
       "downloads": 255
     },
     {
@@ -7313,7 +7313,7 @@
       ],
       "store": "https://www.raycast.com/EvanZhouDev/cerebras",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cerebras",
-      "treeSha": "acc60813d3894c69c28204917a14556e2173d4dc",
+      "treeSha": "94ca808e5a9fd620fb710259e57b833f297a7144",
       "downloads": 340
     },
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 598164
+      "downloads": 598200
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558009
+      "downloads": 558038
     },
     {
       "dir": "google-chrome-profiles",
@@ -23539,7 +23539,7 @@
       ],
       "store": "https://www.raycast.com/ilian/groq",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/groq",
-      "treeSha": "427124479dee05a31863658e187662e35e1e775b",
+      "treeSha": "abf25901b7589e61c9b7b52563d59d3f0f77c8de",
       "downloads": 3363
     },
     {
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 756869
+      "downloads": 756914
     },
     {
       "dir": "kimai",
@@ -31659,7 +31659,7 @@
       ],
       "store": "https://www.raycast.com/vineeth_sai_narajala/lm-studio",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/lm-studio",
-      "treeSha": "5bce519ae941558d17c331a350a1e4870ff69ce5",
+      "treeSha": "85c52e4ebe01188678445d2b457ad4541cbda20d",
       "downloads": 99
     },
     {
@@ -48498,7 +48498,7 @@
       ],
       "store": "https://www.raycast.com/massimiliano_pasquini/raycast-ollama",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama",
-      "treeSha": "c71f45ea078211cd31f4da6236b40188810fbd7f",
+      "treeSha": "5e9f50bd7f6ca94a1cd950ac9de3f43484d17570",
       "downloads": 41151
     },
     {
