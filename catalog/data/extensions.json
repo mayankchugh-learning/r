@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4dee315bb203eaae0a5e7bfdc1718274eb6e2295",
-  "generatedAt": "2026-09-24T13:48:44.641Z",
-  "downloadsRefreshedAt": "2026-09-24T13:48:43.990Z",
+  "commit": "2792b71e896183be6edb09e872b033ba7b1b8e59",
+  "generatedAt": "2026-09-24T14:08:55.044Z",
+  "downloadsRefreshedAt": "2026-09-24T14:08:53.504Z",
   "count": 3311,
   "extensions": [
     {
@@ -2604,7 +2604,7 @@
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
       "treeSha": "760c084a5f1d3ce7a6259f5dc61389f0beffec78",
-      "downloads": 119276
+      "downloads": 119302
     },
     {
       "dir": "apple-stocks-search",
@@ -9138,7 +9138,7 @@
       "store": "https://www.raycast.com/destiner/cloudflare",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/cloudflare",
       "treeSha": "b96dc9e9e6eabb5d0b6ce4bbdb2107847eb16c0d",
-      "downloads": 5850
+      "downloads": 5855
     },
     {
       "dir": "cloudflare-ai",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 598579
+      "downloads": 598614
     },
     {
       "dir": "color-shades",
@@ -17580,7 +17580,7 @@
       "store": "https://www.raycast.com/exa_ai/exa-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/exa",
       "treeSha": "460988f5df5844a174c252d759ae84072bd080d0",
-      "downloads": 5024
+      "downloads": 5028
     },
     {
       "dir": "excalidraw",
@@ -21787,7 +21787,7 @@
       "store": "https://www.raycast.com/raycast/github",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github",
       "treeSha": "2b3e7d782807cbfeb48be442ad1b17a232051a73",
-      "downloads": 205089
+      "downloads": 205143
     },
     {
       "dir": "github-cli-manual",
@@ -22666,7 +22666,7 @@
       "store": "https://www.raycast.com/thomas/google-calendar",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-calendar",
       "treeSha": "489ac5a4275498f0637444bd4fb97bb3b8ffb991",
-      "downloads": 69150
+      "downloads": 69255
     },
     {
       "dir": "google-calendar-quickadd",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558289
+      "downloads": 558324
     },
     {
       "dir": "google-chrome-profiles",
@@ -23364,7 +23364,7 @@
       "store": "https://www.raycast.com/Rob/granola",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/granola",
       "treeSha": "429d0062cbd10256edbbbc443dce015c5cb402b3",
-      "downloads": 7940
+      "downloads": 7951
     },
     {
       "dir": "graphcalc",
@@ -27685,7 +27685,7 @@
       "store": "https://www.raycast.com/raycast/jira",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jira",
       "treeSha": "8422c74a82a962313ea5a92f044caa54dbe2f52b",
-      "downloads": 66609
+      "downloads": 66673
     },
     {
       "dir": "jira-search",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 757311
+      "downloads": 757350
     },
     {
       "dir": "kimai",
@@ -31152,7 +31152,7 @@
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
       "treeSha": "ab6ea0901776f0c092da3247626b738458e69331",
-      "downloads": 393118
+      "downloads": 393633
     },
     {
       "dir": "lingo-rep-raycast",
@@ -35651,8 +35651,8 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "750fd37da3073f1bf289da73ee3efd7ae2fc162e",
-      "downloads": 42241
+      "treeSha": "42f168af3462d4905f46fdffdeab96a63789f41e",
+      "downloads": 42272
     },
     {
       "dir": "models-dev",
@@ -38658,7 +38658,7 @@
       "store": "https://www.raycast.com/notion/notion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/notion",
       "treeSha": "b7eae382bc9e13544bfabdabe77687e9332a9178",
-      "downloads": 274473
+      "downloads": 274760
     },
     {
       "dir": "notion_researcher",
@@ -44921,7 +44921,7 @@
       "store": "https://www.raycast.com/posthog/posthog",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/posthog",
       "treeSha": "aace011d160182659e267d7a51d45fd9c66ab078",
-      "downloads": 513
+      "downloads": 515
     },
     {
       "dir": "postiz",
@@ -54822,7 +54822,7 @@
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
       "treeSha": "91535d7bc1a2a1eabbcaf86ac76a02294fd4b0eb",
-      "downloads": 327387
+      "downloads": 327864
     },
     {
       "dir": "slack-status",

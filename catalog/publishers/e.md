@@ -79,6 +79,6 @@
 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,765 | **Developer Tools:** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects), [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch)<br>**Applications:** [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) |
 | [ewilderj](https://www.raycast.com/ewilderj) | 1 | 959 | **Developer Tools:** [Markdown Converter](https://github.com/raycast/extensions/tree/main/extensions/markdown-converter) |
 | [ewlcheng](https://www.raycast.com/ewlcheng) | 1 | 24,070 | **Fun:** [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) |
-| [exa_ai](https://www.raycast.com/exa_ai) | 1 | 5,024 | **Developer Tools:** [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) |
+| [exa_ai](https://www.raycast.com/exa_ai) | 1 | 5,028 | **Developer Tools:** [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) |
 | [ezreal09](https://www.raycast.com/ezreal09) | 1 | 95 | **Uncategorized:** [Qoder](https://github.com/raycast/extensions/tree/main/extensions/qoder) |
 | [ezzylan](https://www.raycast.com/ezzylan) | 1 | 413 | **Fun:** [Random Text Picker](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) |
