@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2792b71e896183be6edb09e872b033ba7b1b8e59",
-  "generatedAt": "2026-09-24T14:08:55.044Z",
-  "downloadsRefreshedAt": "2026-09-24T14:08:53.504Z",
+  "commit": "35ce506d78e659db4583a56d206d886186d2e729",
+  "generatedAt": "2026-09-24T14:17:36.134Z",
+  "downloadsRefreshedAt": "2026-09-24T14:17:35.163Z",
   "count": 3311,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 598614
+      "downloads": 598633
     },
     {
       "dir": "color-shades",
@@ -15188,7 +15188,7 @@
       ],
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
-      "treeSha": "6c34b910f4d69d8f060e0a04f8ed6c6b060fbbd8",
+      "treeSha": "9577a913f6650a1bb287f9109b9c09cf4af08caa",
       "downloads": 190
     },
     {
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558324
+      "downloads": 558338
     },
     {
       "dir": "google-chrome-profiles",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 757350
+      "downloads": 757374
     },
     {
       "dir": "kimai",
@@ -61302,7 +61302,7 @@
       "store": "https://www.raycast.com/doist/todoist",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/todoist",
       "treeSha": "16c9c2782fdda33c16e3b966882df77c4078506c",
-      "downloads": 94869
+      "downloads": 94973
     },
     {
       "dir": "toggl-track",
@@ -62713,7 +62713,7 @@
       "store": "https://www.raycast.com/typefully/typefully",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/typefully",
       "treeSha": "3600ae4d713416d042dd3f6f71574afef898c8b4",
-      "downloads": 1936
+      "downloads": 1938
     },
     {
       "dir": "typeless-companion",
@@ -69444,7 +69444,7 @@
       "store": "https://www.raycast.com/raycast/zoom",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zoom",
       "treeSha": "1d0e0205f00b9b4cf1d4f142fd9c94ec2b9c17ea",
-      "downloads": 114217
+      "downloads": 114335
     },
     {
       "dir": "zoom-control",

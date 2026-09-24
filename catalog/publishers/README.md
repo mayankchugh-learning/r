@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,268,570 |
-| 2 | [raycast](./id/raycast.md) | 11 | 889,152 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,350 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,324 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,268,589 |
+| 2 | [raycast](./id/raycast.md) | 11 | 889,270 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,374 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,338 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 487,828 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 483,692 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 451,205 |
@@ -43,7 +43,7 @@
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 101,378 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 101,078 |
 | 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 96,133 |
-| 36 | [doist](https://www.raycast.com/doist) | 1 | 94,869 |
+| 36 | [doist](https://www.raycast.com/doist) | 1 | 94,973 |
 | 37 | [tegola](https://www.raycast.com/tegola) | 2 | 90,408 |
 | 38 | [huzef44](https://www.raycast.com/huzef44) | 6 | 83,018 |
 | 39 | [FezVrasta](https://www.raycast.com/FezVrasta) | 5 | 77,108 |
@@ -471,7 +471,7 @@
 | 461 | [weicodes](https://www.raycast.com/weicodes) | 1 | 1,977 |
 | 462 | [developerlover](https://www.raycast.com/developerlover) | 1 | 1,961 |
 | 463 | [islamtayeb](https://www.raycast.com/islamtayeb) | 1 | 1,960 |
-| 464 | [typefully](https://www.raycast.com/typefully) | 1 | 1,936 |
+| 464 | [typefully](https://www.raycast.com/typefully) | 1 | 1,938 |
 | 465 | [frugoman](https://www.raycast.com/frugoman) | 1 | 1,908 |
 | 466 | [mutewinter](https://www.raycast.com/mutewinter) | 2 | 1,896 |
 | 467 | [jwickers](https://www.raycast.com/jwickers) | 2 | 1,894 |

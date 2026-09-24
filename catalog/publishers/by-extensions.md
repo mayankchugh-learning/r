@@ -18,14 +18,14 @@
 | 8 | [Aayush9029](./id/aayush9029.md) | 16 | 166,701 |
 | 9 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,370 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,838 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,268,570 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,268,589 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 331,704 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 451,205 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,439 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,151 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 11,049 |
 | 17 | [kud](./id/kud.md) | 13 | 7,125 |
-| 18 | [raycast](./id/raycast.md) | 11 | 889,152 |
+| 18 | [raycast](./id/raycast.md) | 11 | 889,270 |
 | 19 | [Rob](./id/rob.md) | 11 | 12,148 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 10,340 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 22,731 |
@@ -396,8 +396,8 @@
 | 386 | [TwoMental](https://www.raycast.com/twomental) | 2 | 15 |
 | 387 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 388 | github-next | 2 | — |
-| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,350 |
-| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 558,324 |
+| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,374 |
+| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 558,338 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 393,633 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 327,864 |
 | 393 | [nhojb](https://www.raycast.com/nhojb) | 1 | 287,109 |
@@ -406,7 +406,7 @@
 | 396 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 120,272 |
 | 397 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 118,386 |
 | 398 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 113,301 |
-| 399 | [doist](https://www.raycast.com/doist) | 1 | 94,869 |
+| 399 | [doist](https://www.raycast.com/doist) | 1 | 94,973 |
 | 400 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 76,709 |
 | 401 | [benvp](https://www.raycast.com/benvp) | 1 | 74,680 |
 | 402 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 65,041 |
@@ -649,7 +649,7 @@
 | 639 | [weicodes](https://www.raycast.com/weicodes) | 1 | 1,977 |
 | 640 | [developerlover](https://www.raycast.com/developerlover) | 1 | 1,961 |
 | 641 | [islamtayeb](https://www.raycast.com/islamtayeb) | 1 | 1,960 |
-| 642 | [typefully](https://www.raycast.com/typefully) | 1 | 1,936 |
+| 642 | [typefully](https://www.raycast.com/typefully) | 1 | 1,938 |
 | 643 | [frugoman](https://www.raycast.com/frugoman) | 1 | 1,908 |
 | 644 | [lunaris](https://www.raycast.com/lunaris) | 1 | 1,877 |
 | 645 | [rauno](https://www.raycast.com/rauno) | 1 | 1,868 |
