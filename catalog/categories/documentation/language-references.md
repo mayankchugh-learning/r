@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,428 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
-| [TypeScript Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/typescript-documentation-search) | 3,206 | Search in TypeScript Documentation | chezhe | macOS | [store](https://www.raycast.com/chezhe/typescript-documentation-search) |
+| [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,431 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
+| [TypeScript Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/typescript-documentation-search) | 3,208 | Search in TypeScript Documentation | chezhe | macOS | [store](https://www.raycast.com/chezhe/typescript-documentation-search) |
 | [PHP Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/php-docs) | 2,135 | Quickly search through official PHP documentation | comes | macOS | [store](https://www.raycast.com/comes/php-docs) |
 | [Hoogle](https://github.com/raycast/extensions/tree/main/extensions/hoogle) | 190 | Search Haskell documentation in Hoogle | waj | macOS | [store](https://www.raycast.com/waj/hoogle) |
 | [Elixir](https://github.com/raycast/extensions/tree/main/extensions/elixir) | 186 | Navigate Elixir's documentation without leaving Raycast. | dinocosta | macOS | [store](https://www.raycast.com/dinocosta/elixir) |

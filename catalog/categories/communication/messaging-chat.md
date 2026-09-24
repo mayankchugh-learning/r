@@ -10,14 +10,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 327,012 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
-| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 52,509 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 51,112 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 20,062 | Manage your Microsoft Teams presence and status message. Search for people and chats, open conversations, and start calls. | sven | macOS, Windows | [store](https://www.raycast.com/sven/microsoft-teams) |
-| [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | 7,177 | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
-| [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) | 3,054 | Open Signal chats | leeraymond78 | macOS | [store](https://www.raycast.com/leeraymond78/signal) |
-| [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram) | 2,890 | Browse chats, view messages, and send messages to your Telegram contacts and groups | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/telegram) |
-| [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 1,094 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 327,387 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 52,549 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 51,166 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Microsoft Teams](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) | 20,077 | Manage your Microsoft Teams presence and status message. Search for people and chats, open conversations, and start calls. | sven | macOS, Windows | [store](https://www.raycast.com/sven/microsoft-teams) |
+| [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat) | 7,180 | A Raycast extension for WeChat to quickly search your contacts and chat | raffeyang | macOS | [store](https://www.raycast.com/raffeyang/wechat) |
+| [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) | 3,056 | Open Signal chats | leeraymond78 | macOS | [store](https://www.raycast.com/leeraymond78/signal) |
+| [Telegram](https://github.com/raycast/extensions/tree/main/extensions/telegram) | 2,898 | Browse chats, view messages, and send messages to your Telegram contacts and groups | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/telegram) |
+| [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 1,096 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
 | [Fast Chat With Phone Number in IM Apps](https://github.com/raycast/extensions/tree/main/extensions/phonenumber-in-im) | 932 | A Raycast extension enables faster chatting with a target phone number in IM apps like WhatsApp and Telegram, eliminating the need to add contacts beforehand. | timonpeng | macOS | [store](https://www.raycast.com/timonpeng/phonenumber-in-im) |
 | [Mattermost](https://github.com/raycast/extensions/tree/main/extensions/mattermost) | 886 | Search for chats, see unread messages, and set your presence status. | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mattermost) |
 | [Rocket.Chat](https://github.com/raycast/extensions/tree/main/extensions/rocket-chat) | 146 | Search for teams, channels, users and change your presence status. | alex-w0 | macOS | [store](https://www.raycast.com/alex-w0/rocket-chat) |
@@ -27,8 +27,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [X.com](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,803 | Browse, search, publish posts, and send direct messages on X | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
-| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,602 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
+| [X.com](https://github.com/raycast/extensions/tree/main/extensions/twitter) | 11,810 | Browse, search, publish posts, and send direct messages on X | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/twitter) |
+| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,610 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
 | [Slack Summarizer](https://github.com/raycast/extensions/tree/main/extensions/slack-summarizer) | 272 | Summarize Slack channels, threads and messages using OpenAI | hassan_ahmed | macOS | [store](https://www.raycast.com/hassan_ahmed/slack-summarizer) |
 | [Bark](https://github.com/raycast/extensions/tree/main/extensions/bark) | 217 | Send messages to Bark via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/bark) |
 | [Pushover](https://github.com/raycast/extensions/tree/main/extensions/pushover) | 184 | Send a message via the Pushover API. | mattstone | macOS | [store](https://www.raycast.com/mattstone/pushover) |
@@ -38,8 +38,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 18,693 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
-| [Slackmojis](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) | 1,526 | An unofficial directory of the best custom Slack emojis from slackmojis.com | timoransky | macOS | [store](https://www.raycast.com/timoransky/slackmojis) |
+| [Slack Status](https://github.com/raycast/extensions/tree/main/extensions/slack-status) | 18,704 | Quickly change your Slack status | petr | macOS | [store](https://www.raycast.com/petr/slack-status) |
+| [Slackmojis](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) | 1,527 | An unofficial directory of the best custom Slack emojis from slackmojis.com | timoransky | macOS | [store](https://www.raycast.com/timoransky/slackmojis) |
 | [Sort Mentions](https://github.com/raycast/extensions/tree/main/extensions/sort-mentions) | 166 | Sort usernames alphabetically for mentions in Slack, Twitter and other apps | Yamen | macOS | [store](https://www.raycast.com/Yamen/sort-mentions) |
 | [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) | 10 | Set a funny status on Slack, GitLab and GitHub at once — pick services, roll a random one, or generate with AI. | jan_werner | macOS, Windows | [store](https://www.raycast.com/jan_werner/status-nerd) |
 
@@ -47,8 +47,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 3,120 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
-| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 3,056 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
+| [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 3,121 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
+| [Say - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/say) | 3,059 | Use the built-in text-to-speech engine to say the text you provide. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/say) |
 | [Discord Timestamps](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) | 1,744 | Generate a Discord timestamp | theshadowdev | macOS, Windows | [store](https://www.raycast.com/theshadowdev/discord-timestamps) |
 | [Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) | 1,170 | A simple extension that allows Speech to Text using your own Groq API. | facundo_prieto | macOS | [store](https://www.raycast.com/facundo_prieto/speech-to-text) |
 | [Language Tool - Spell & Grammar Checker](https://github.com/raycast/extensions/tree/main/extensions/language-tool) | 1,156 | Raycast extension that provides instant spelling and grammar correction using LanguageTool. Type any text, get real-time suggestions, and copy the improved ver… | lucastaonline | macOS, Windows | [store](https://www.raycast.com/lucastaonline/raycast-language-tool) |

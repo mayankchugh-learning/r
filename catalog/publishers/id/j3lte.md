@@ -1,12 +1,12 @@
 # j3lte
 
-13 extensions · 11,036 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
+13 extensions · 11,049 downloads · [store](https://www.raycast.com/j3lte) · [← publishers](../README.md)
 
 ## Media (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,959 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
+| [Anna's Archive](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) | 4,969 | Search Anna's Archive, the largest truly open library in human history | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/anna-s-archive) |
 | [Freesound](https://github.com/raycast/extensions/tree/main/extensions/freesound) | 375 | Search the Freesound Library | j3lte | macOS | [store](https://www.raycast.com/j3lte/freesound) |
 
 ## Developer Tools (6)
@@ -18,13 +18,13 @@
 | [Composerize](https://github.com/raycast/extensions/tree/main/extensions/composerize) | 912 | Convert docker commands to docker-compose and vice versa | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/composerize) |
 | [JSR](https://github.com/raycast/extensions/tree/main/extensions/jsr) | 260 | Search through JSR, the Open Source Package Registry for Javascript/Typescript | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/jsr) |
 | [Deno Deploy](https://github.com/raycast/extensions/tree/main/extensions/deno-deploy) | 137 | View and modify your Deno Deploy projects | j3lte | macOS | [store](https://www.raycast.com/j3lte/deno-deploy) |
-| [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 106 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
+| [HTTP Observatory](https://github.com/raycast/extensions/tree/main/extensions/http-observatory) | 107 | Run a HTTP Observatory scan on your domain, provided by MDN | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/http-observatory) |
 
 ## Fun (2)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Govee](https://github.com/raycast/extensions/tree/main/extensions/govee) | 659 | Control your Govee Lights | j3lte | macOS | [store](https://www.raycast.com/j3lte/govee) |
+| [Govee](https://github.com/raycast/extensions/tree/main/extensions/govee) | 661 | Control your Govee Lights | j3lte | macOS | [store](https://www.raycast.com/j3lte/govee) |
 | [Evil Insult](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) | 328 | Generate Evil Insults | j3lte | macOS | [store](https://www.raycast.com/j3lte/evil-insult) |
 
 ## Web (2)

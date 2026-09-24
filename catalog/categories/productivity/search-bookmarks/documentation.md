@@ -6,11 +6,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 24,461 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
-| [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 3,030 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
-| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,944 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
+| [Dash](https://github.com/raycast/extensions/tree/main/extensions/dash) | 24,475 | Interface with the Dash application, allowing users to quickly search through documentation sets. | RSO | macOS | [store](https://www.raycast.com/RSO/dash) |
+| [Next.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) | 3,032 | Efficiently search Next.js documentation | PrasadChinwal | Windows, macOS | [store](https://www.raycast.com/PrasadChinwal/nextjs-docs) |
+| [Raycast API Documentation](https://github.com/raycast/extensions/tree/main/extensions/raydocs) | 2,945 | Search Raycast's documentation quickly, copy the URL, or open it in your browser | teziovsky | macOS, Windows | [store](https://www.raycast.com/teziovsky/raydocs) |
 | [PHP Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/php-docs) | 2,135 | Quickly search through official PHP documentation | comes | macOS | [store](https://www.raycast.com/comes/php-docs) |
-| [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor) | 1,694 | Search the Cursor Documentation right from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/cursor) |
+| [Cursor Documentation](https://github.com/raycast/extensions/tree/main/extensions/cursor) | 1,695 | Search the Cursor Documentation right from Raycast | degouville | macOS | [store](https://www.raycast.com/degouville/cursor) |
 | [Discord.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/discordjs-documentation) | 364 | Quickly search through discord.js documentation. | mah51 | macOS | [store](https://www.raycast.com/mah51/discordjs-documentation) |
 | [CrawlDoc - Documentations Search Engine](https://github.com/raycast/extensions/tree/main/extensions/crawldoc) | 320 | Allow searching through multiple documentations platforms | johan-perso | macOS | [store](https://www.raycast.com/johan-perso/crawldoc) |
 | [WebKit Developer Documentation](https://github.com/raycast/extensions/tree/main/extensions/webkit-developer-docs) | 177 | Search and view WebKit docs | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/webkit-developer-docs) |

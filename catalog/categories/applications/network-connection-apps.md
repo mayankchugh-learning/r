@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 180,998 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
-| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,686 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
-| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 4,495 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
+| [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 181,180 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
+| [iHosts](https://github.com/raycast/extensions/tree/main/extensions/ihosts) | 5,690 | Manage your system hosts | JinShi | macOS | [store](https://www.raycast.com/JinShi/ihosts) |
+| [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) | 4,497 | Control Wireguard connections. | sbugzhu | macOS | [store](https://www.raycast.com/sbugzhu/wireguard) |
 | [Cloudflare WARP](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) | 2,051 | Manage Cloudflare WARP | anandubajith | macOS | [store](https://www.raycast.com/anandubajith/cloudflare-warp) |
 | [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,472 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
 | [Cyberduck](https://github.com/raycast/extensions/tree/main/extensions/cyberduck) | 1,468 | Quickly open your cyberduck connections | scottaglia | macOS | [store](https://www.raycast.com/scottaglia/cyberduck) |

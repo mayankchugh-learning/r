@@ -6,13 +6,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,349 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
-| [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,548 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
+| [Transmit](https://github.com/raycast/extensions/tree/main/extensions/transmit) | 2,350 | Displays a list of servers bookmarked in Transmit for quick connecting. | kennonb | macOS | [store](https://www.raycast.com/kennonb/transmit) |
+| [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,550 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
 | [FileZilla](https://github.com/raycast/extensions/tree/main/extensions/filezilla) | 1,472 | Connect to the FTP/SFTP server via FileZilla by just using your keyboard! | naqet | macOS | [store](https://www.raycast.com/naqet/filezilla) |
-| [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,296 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
+| [Proxmox](https://github.com/raycast/extensions/tree/main/extensions/proxmox) | 1,297 | Manage your Proxmox server from Raycast | CzBiX | Windows, macOS | [store](https://www.raycast.com/CzBiX/proxmox) |
 | [Coolify](https://github.com/raycast/extensions/tree/main/extensions/coolify) | 587 | View Servers, Resources, Teams and more | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/coolify) |
 | [Ploi](https://github.com/raycast/extensions/tree/main/extensions/ploi) | 526 | View and manage your ploi.io servers and sites | ploi (org) | macOS | [store](https://www.raycast.com/ploi/ploi) |
-| [Sendme File Share](https://github.com/raycast/extensions/tree/main/extensions/sendme) | 350 | Send and receive files peer-to-peer directly from Raycast with no intermediary servers or accounts required | nazif_ishrak | macOS | [store](https://www.raycast.com/nazif_ishrak/sendme) |
+| [Sendme File Share](https://github.com/raycast/extensions/tree/main/extensions/sendme) | 351 | Send and receive files peer-to-peer directly from Raycast with no intermediary servers or accounts required | nazif_ishrak | macOS | [store](https://www.raycast.com/nazif_ishrak/sendme) |
 | [Dev Servers](https://github.com/raycast/extensions/tree/main/extensions/dev-servers) | 214 | Project-grouped dashboard for every dev server running on your Mac. Start, restart, and kill them without leaving Raycast, with the framework (Next, Svelte, As… | tavlean | macOS | [store](https://www.raycast.com/tavlean/dev-servers) |
 | [Simple Http](https://github.com/raycast/extensions/tree/main/extensions/simple-http) | 187 | A simplistic local Http server | roele | macOS | [store](https://www.raycast.com/roele/simple-http) |
 | [Hop](https://github.com/raycast/extensions/tree/main/extensions/hop) | 156 | Fast, elegant SSH connection manager. Fuzzy search and connect to servers from your hop config. | danmartuszewski | macOS | [store](https://www.raycast.com/danmartuszewski/hop) |
