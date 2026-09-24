@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "62edd3b73e762db736e010fc32d76860ca8d3fd2",
-  "generatedAt": "2026-09-24T04:56:45.796Z",
-  "downloadsRefreshedAt": "2026-09-24T04:56:45.353Z",
+  "commit": "f07f52b043f300998e5a5e981b1ec09eed545f60",
+  "generatedAt": "2026-09-24T05:00:26.130Z",
+  "downloadsRefreshedAt": "2026-09-24T05:00:24.810Z",
   "count": 3307,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 597750
+      "downloads": 597751
     },
     {
       "dir": "color-shades",
@@ -22685,7 +22685,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557707
+      "downloads": 557708
     },
     {
       "dir": "google-chrome-profiles",
@@ -35630,7 +35630,7 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "3d3773748fb9d33e78182bad88040856ba28c6cc",
+      "treeSha": "fd6751d55939246d6afad46ba61303ef75b63a8f",
       "downloads": 42235
     },
     {
