@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `30cd941914`
+
+**Updated (1):** [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders)
+
 ## 2026-09-24 — upstream `e007658a4f`
 
 **Updated (1):** [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github)
