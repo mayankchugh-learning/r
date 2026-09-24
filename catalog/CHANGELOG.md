@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `b4ad88670c`
+
+**Updated (1):** [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter)
+
 ## 2026-09-24 — upstream `5e47a265b2`
 
 **Updated (1):** [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates)

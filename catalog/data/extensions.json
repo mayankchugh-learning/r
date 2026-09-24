@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5e47a265b2c0c5eedc1409b820217ee3f1fb1110",
-  "generatedAt": "2026-09-24T19:42:24.598Z",
-  "downloadsRefreshedAt": "2026-09-24T19:42:24.136Z",
+  "commit": "b4ad88670cc7feb9ac2fcffc57b6d245503b8b98",
+  "generatedAt": "2026-09-24T20:09:52.932Z",
+  "downloadsRefreshedAt": "2026-09-24T20:09:49.437Z",
   "count": 3311,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599154
+      "downloads": 599183
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558683
+      "downloads": 558709
     },
     {
       "dir": "google-chrome-profiles",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 757903
+      "downloads": 757937
     },
     {
       "dir": "kimai",
@@ -33999,7 +33999,7 @@
       "description": "This extension converts video, image, and audio files using FFmpeg",
       "author": "leandro.maia",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Productivity",
         "Design Tools",
@@ -34012,8 +34012,8 @@
       ],
       "store": "https://www.raycast.com/leandro.maia/media-converter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/media-converter",
-      "treeSha": "9a1d8f7f77518383019e73469450f49ccc6e2bd7",
-      "downloads": 27795
+      "treeSha": "19e27c3498f7a0eeeceb2d485c84d1cb9e02519c",
+      "downloads": 27807
     },
     {
       "dir": "media-flow",
@@ -48647,7 +48647,7 @@
       "store": "https://www.raycast.com/chrismessina/raycast-store-updates",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates",
       "treeSha": "6e2f37293afc05f422db45b542a282fc4d41e5d9",
-      "downloads": 2554
+      "downloads": 2555
     },
     {
       "dir": "raycast-svg64",

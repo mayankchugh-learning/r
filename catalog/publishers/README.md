@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,269,939 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,269,968 |
 | 2 | [raycast](./id/raycast.md) | 11 | 889,614 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,903 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,683 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,937 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,709 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,450 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,343 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 451,672 |
@@ -92,7 +92,7 @@
 | 82 | [fuksman](https://www.raycast.com/fuksman) | 2 | 29,844 |
 | 83 | [moored](https://www.raycast.com/moored) | 1 | 29,351 |
 | 84 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 29,287 |
-| 85 | [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 29,176 |
+| 85 | [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 29,188 |
 | 86 | [djpowers](https://www.raycast.com/djpowers) | 4 | 28,779 |
 | 87 | [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 28,504 |
 | 88 | [peduarte](./id/peduarte.md) | 14 | 28,466 |
@@ -217,7 +217,7 @@
 | 207 | [solomkinmv](https://www.raycast.com/solomkinmv) | 2 | 7,770 |
 | 208 | [biknandy](https://www.raycast.com/biknandy) | 1 | 7,647 |
 | 209 | [raffeyang](https://www.raycast.com/raffeyang) | 2 | 7,573 |
-| 210 | [chrismessina](./id/chrismessina.md) | 17 | 7,450 |
+| 210 | [chrismessina](./id/chrismessina.md) | 17 | 7,451 |
 | 211 | [fearoffish](https://www.raycast.com/fearoffish) | 1 | 7,219 |
 | 212 | [kud](./id/kud.md) | 13 | 7,134 |
 | 213 | [comoser](https://www.raycast.com/comoser) | 3 | 7,122 |

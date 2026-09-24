@@ -18,7 +18,7 @@
 | [laurynas](https://www.raycast.com/laurynas) | 1 | 243 | **Productivity:** [SavvyCal](https://github.com/raycast/extensions/tree/main/extensions/savvycal) |
 | [lavatorywang](https://www.raycast.com/lavatorywang) | 1 | 675 | **Developer Tools:** [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) |
 | [lbergantin](https://www.raycast.com/lbergantin) | 1 | 243 | **Developer Tools:** [NuGet](https://github.com/raycast/extensions/tree/main/extensions/nuget) |
-| [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 29,176 | **Productivity:** [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter)<br>**Uncategorized:** [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) |
+| [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 29,188 | **Productivity:** [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter)<br>**Uncategorized:** [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) |
 | [leec-666](https://www.raycast.com/leec-666) | 1 | 12 | **Developer Tools:** [SecureCRT Sessions](https://github.com/raycast/extensions/tree/main/extensions/securecrt-sessions) |
 | [leepyd](https://www.raycast.com/leepyd) | 1 | 214 | **Web:** [Rate Your Music Search](https://github.com/raycast/extensions/tree/main/extensions/rateyourmusic-search) |
 | [leeraymond78](https://www.raycast.com/leeraymond78) | 1 | 3,058 | **Applications:** [Signal](https://github.com/raycast/extensions/tree/main/extensions/signal) |
