@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `0d4aee559e`
+
+**Updated (1):** [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden)
+
 ## 2026-09-24 — upstream `a72f0c7a45`
 
 **Updated (1):** [Quick Access](https://github.com/raycast/extensions/tree/main/extensions/quick-access)

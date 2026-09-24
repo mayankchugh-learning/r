@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a72f0c7a454e9f1a244232605420b349fff5e35b",
-  "generatedAt": "2026-09-24T10:25:28.453Z",
-  "downloadsRefreshedAt": "2026-09-24T10:25:28.038Z",
+  "commit": "0d4aee559e9cc6fe9299fdbff669a65a7b4565f1",
+  "generatedAt": "2026-09-24T10:59:42.204Z",
+  "downloadsRefreshedAt": "2026-09-24T10:59:39.931Z",
   "count": 3310,
   "extensions": [
     {
@@ -5451,8 +5451,8 @@
       ],
       "store": "https://www.raycast.com/jomifepe/bitwarden",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bitwarden",
-      "treeSha": "f8e543cd24f9a70692a100021766d9c5a35a7e0f",
-      "downloads": 65004
+      "treeSha": "1e07d10b1e439b6f2e7902374bf7805b31947c59",
+      "downloads": 65041
     },
     {
       "dir": "bj-share",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 598253
+      "downloads": 598303
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558083
+      "downloads": 558116
     },
     {
       "dir": "google-chrome-profiles",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 756976
+      "downloads": 757021
     },
     {
       "dir": "kimai",
@@ -36469,7 +36469,7 @@
       "store": "https://www.raycast.com/matheuscoelho3006/multi-ai-chat",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat",
       "treeSha": "61dbca59e6bca762785fbde5794ffce5ca6ae697",
-      "downloads": 1
+      "downloads": 2
     },
     {
       "dir": "multi-force",
@@ -46584,7 +46584,7 @@
       "store": "https://www.raycast.com/koinzhang/quick-access",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-access",
       "treeSha": "dde3477efccb6024199b2014b64cec5f64030731",
-      "downloads": 4570
+      "downloads": 4571
     },
     {
       "dir": "quick-access-for-zeroheight",

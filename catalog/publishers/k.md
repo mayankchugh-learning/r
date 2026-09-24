@@ -63,7 +63,7 @@
 | [koala1206](https://www.raycast.com/koala1206) | 2 | 3,198 | **Productivity:** [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder)<br>**Developer Tools:** [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) |
 | [koayon](https://www.raycast.com/koayon) | 2 | 2,002 | **Productivity:** [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv)<br>**News:** [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) |
 | [koh-sh](https://www.raycast.com/koh-sh) | 1 | 328 | **Developer Tools:** [Slack Templated Message](https://github.com/raycast/extensions/tree/main/extensions/slack-templated-message) |
-| [koinzhang](./id/koinzhang.md) | 50 | 284,940 | [see all 50 →](./id/koinzhang.md) |
+| [koinzhang](./id/koinzhang.md) | 50 | 284,941 | [see all 50 →](./id/koinzhang.md) |
 | [kom](https://www.raycast.com/kom) | 1 | 16,554 | **Productivity:** [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) |
 | [konojunya](https://www.raycast.com/konojunya) | 1 | 522 | **Developer Tools:** [ghq](https://github.com/raycast/extensions/tree/main/extensions/ghq) |
 | [kopach](https://www.raycast.com/kopach) | 1 | 1,337 | **Uncategorized:** [ChatGPT Search](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-search) |
