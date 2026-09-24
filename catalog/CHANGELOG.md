@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `a35042c080`
+
+**Updated (1):** [Large Type](https://github.com/raycast/extensions/tree/main/extensions/large-type)
+
 ## 2026-09-24 — upstream `dce21a22a6`
 
 **Updated (5):** [AI by Vercel](https://github.com/raycast/extensions/tree/main/extensions/ai-by-vercel), [Cerebras](https://github.com/raycast/extensions/tree/main/extensions/cerebras), [Groq](https://github.com/raycast/extensions/tree/main/extensions/groq), [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio), [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama)

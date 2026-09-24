@@ -53,7 +53,7 @@
 | [martipops](https://www.raycast.com/martipops) | 1 | 1,414 | **Uncategorized:** [Popcorn - Explore Stremio Streams](https://github.com/raycast/extensions/tree/main/extensions/popcorn) |
 | [marvel940804836](https://www.raycast.com/marvel940804836) | 1 | 28 | **Developer Tools:** [Paper Agent](https://github.com/raycast/extensions/tree/main/extensions/paper-agent) |
 | [masoud_hamidzadeh](https://www.raycast.com/masoud_hamidzadeh) | 1 | 128 | **System:** [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) |
-| [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 41,548 | **Productivity:** [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama), [VMware VCenter](https://github.com/raycast/extensions/tree/main/extensions/vmware-vcenter), [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix) |
+| [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 41,570 | **Productivity:** [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama), [VMware VCenter](https://github.com/raycast/extensions/tree/main/extensions/vmware-vcenter), [Zabbix](https://github.com/raycast/extensions/tree/main/extensions/raycast-zabbix) |
 | [masuipeo](https://www.raycast.com/masuipeo) | 1 | 4 | **Productivity:** [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) |
 | [matan](https://www.raycast.com/matan) | 1 | 212 | **Productivity:** [Silent Mode](https://github.com/raycast/extensions/tree/main/extensions/silent-mode) |
 | [matbrady](https://www.raycast.com/matbrady) | 1 | 7 | **Developer Tools:** [Pantheon Sites](https://github.com/raycast/extensions/tree/main/extensions/pantheon-sites) |
@@ -61,7 +61,7 @@
 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 62 | **Productivity:** [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) |
 | [matheus_de_paula_domingos](https://www.raycast.com/matheus_de_paula_domingos) | 1 | 624 | **Developer Tools:** [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) |
 | [matheuschein](https://www.raycast.com/matheuschein) | 2 | 709 | **Productivity:** [Animated Window Manager](https://github.com/raycast/extensions/tree/main/extensions/animated-window-manager), [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) |
-| [matheuscoelho3006](https://www.raycast.com/matheuscoelho3006) | 1 | 0 | **Productivity:** [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) |
+| [matheuscoelho3006](https://www.raycast.com/matheuscoelho3006) | 1 | 1 | **Productivity:** [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) |
 | [mathieudutour](https://www.raycast.com/mathieudutour) | 2 | 9,795 | **Productivity:** [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha)<br>**Applications:** [Stellate (formerly GraphCDN)](https://github.com/raycast/extensions/tree/main/extensions/graphcdn) |
 | [matt](https://www.raycast.com/matt) | 1 | 2,368 | **Uncategorized:** [crates.io Search](https://github.com/raycast/extensions/tree/main/extensions/cratecast) |
 | [mattdelliott](https://www.raycast.com/mattdelliott) | 1 | 61 | **Productivity:** [ChartMogul](https://github.com/raycast/extensions/tree/main/extensions/chartmogul) |

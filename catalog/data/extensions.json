@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "dce21a22a665ccfaace7cf137faf6e6dd3af51cd",
-  "generatedAt": "2026-09-24T09:43:51.416Z",
-  "downloadsRefreshedAt": "2026-09-24T09:43:50.531Z",
+  "commit": "a35042c080ddd13503bfe6c51ee41de8205259cb",
+  "generatedAt": "2026-09-24T10:20:34.071Z",
+  "downloadsRefreshedAt": "2026-09-24T10:20:33.400Z",
   "count": 3310,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 598200
+      "downloads": 598247
     },
     {
       "dir": "color-shades",
@@ -18310,7 +18310,7 @@
       "store": "https://www.raycast.com/chrismessina/fetch",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/fetch",
       "treeSha": "6d73d32403bc517945ed7eefef2b2834394aba6e",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "fetch-youtube-transcript",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558038
+      "downloads": 558079
     },
     {
       "dir": "google-chrome-profiles",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 756914
+      "downloads": 756969
     },
     {
       "dir": "kimai",
@@ -30126,8 +30126,8 @@
       ],
       "store": "https://www.raycast.com/gbarba/large-type",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/large-type",
-      "treeSha": "fe0fc4ecaf0abff75bc1cc0c13873d831380a207",
-      "downloads": 4090
+      "treeSha": "266eb360f9e541289b4a412cfdd50e25a13bba20",
+      "downloads": 4092
     },
     {
       "dir": "lark",
@@ -36469,7 +36469,7 @@
       "store": "https://www.raycast.com/matheuscoelho3006/multi-ai-chat",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat",
       "treeSha": "61dbca59e6bca762785fbde5794ffce5ca6ae697",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "multi-force",
@@ -48499,7 +48499,7 @@
       "store": "https://www.raycast.com/massimiliano_pasquini/raycast-ollama",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama",
       "treeSha": "5e9f50bd7f6ca94a1cd950ac9de3f43484d17570",
-      "downloads": 41151
+      "downloads": 41173
     },
     {
       "dir": "raycast-ordbokene",
