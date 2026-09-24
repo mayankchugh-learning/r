@@ -1,8 +1,8 @@
 # Web
 
-474 extensions · [← all categories](../README.md)
+475 extensions · [← all categories](../README.md)
 
-macOS: 473 · Windows: 143
+macOS: 474 · Windows: 143
 
 ## Browse & Search
 
@@ -27,7 +27,7 @@ macOS: 473 · Windows: 143
 | --- | --- |
 | [Web Apps & Services](./web-apps-services.md) | 32 |
 | [Social & Communities](./social-communities.md) | 25 |
-| [AI Services](./ai-services/README.md) | 35 |
+| [AI Services](./ai-services/README.md) | 36 |
 | [Crypto & Markets](./crypto-markets.md) | 6 |
 
 ## Discovered topics ✦

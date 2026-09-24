@@ -1,10 +1,10 @@
 # AI Services
 
-35 extensions · [← Web](../README.md)
+36 extensions · [← Web](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
-| [AI ✦](./ai.md) | 26 |
+| [AI ✦](./ai.md) | 27 |
 | [Openai ✦](./openai.md) | 4 |
 | [General](./general.md) | 5 |
 

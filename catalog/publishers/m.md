@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-172 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+173 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -61,6 +61,7 @@
 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 62 | **Productivity:** [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) |
 | [matheus_de_paula_domingos](https://www.raycast.com/matheus_de_paula_domingos) | 1 | 624 | **Developer Tools:** [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) |
 | [matheuschein](https://www.raycast.com/matheuschein) | 2 | 709 | **Productivity:** [Animated Window Manager](https://github.com/raycast/extensions/tree/main/extensions/animated-window-manager), [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) |
+| [matheuscoelho3006](https://www.raycast.com/matheuscoelho3006) | 1 | 0 | **Productivity:** [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) |
 | [mathieudutour](https://www.raycast.com/mathieudutour) | 2 | 9,795 | **Productivity:** [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha)<br>**Applications:** [Stellate (formerly GraphCDN)](https://github.com/raycast/extensions/tree/main/extensions/graphcdn) |
 | [matt](https://www.raycast.com/matt) | 1 | 2,368 | **Uncategorized:** [crates.io Search](https://github.com/raycast/extensions/tree/main/extensions/cratecast) |
 | [mattdelliott](https://www.raycast.com/mattdelliott) | 1 | 61 | **Productivity:** [ChartMogul](https://github.com/raycast/extensions/tree/main/extensions/chartmogul) |

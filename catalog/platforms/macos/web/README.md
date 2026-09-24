@@ -1,6 +1,6 @@
 # macOS · Web
 
-473 extensions · [← macOS](../README.md)
+474 extensions · [← macOS](../README.md)
 
 ## Browse & Search
 
@@ -25,7 +25,7 @@
 | --- | --- |
 | [Web Apps & Services](./web-apps-services.md) | 32 |
 | [Social & Communities](./social-communities.md) | 25 |
-| [AI Services](./ai-services.md) | 35 |
+| [AI Services](./ai-services.md) | 36 |
 | [Crypto & Markets](./crypto-markets.md) | 6 |
 
 Plus [General](./general.md) — 127 extensions that don't fit a topic yet.

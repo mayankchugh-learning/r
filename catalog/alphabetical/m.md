@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-220 extensions · [← catalog index](../README.md)
+221 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -225,4 +225,5 @@
 | [Mealie](https://github.com/raycast/extensions/tree/main/extensions/mealie) | 1 | Manage Mealie shopping lists and meal plans, import recipes and search your recipe collection. | joschka_rick | macOS | [store](https://www.raycast.com/joschka_rick/mealie) |
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 1 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
 | [Modbus Toolkit](https://github.com/raycast/extensions/tree/main/extensions/modbus-toolkit) | 1 | Parse, build, decode, and validate Modbus RTU, TCP, and ASCII frames | TwoMental | macOS | [store](https://www.raycast.com/twomental/modbus-toolkit) |
+| [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) | 0 | Open or prefill one prompt in ChatGPT, Claude, Grok, and Perplexity using query URLs in your browser. | matheuscoelho3006 | macOS | [store](https://www.raycast.com/matheuscoelho3006/multi-ai-chat) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |

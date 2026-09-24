@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8edadd51125a9953a21d9175a011aa0734aab245",
-  "generatedAt": "2026-09-24T08:56:24.048Z",
-  "downloadsRefreshedAt": "2026-09-24T08:56:23.266Z",
-  "count": 3309,
+  "commit": "e6acec27ca8eaac7098ac1088840b33f2df301be",
+  "generatedAt": "2026-09-24T09:20:47.979Z",
+  "downloadsRefreshedAt": "2026-09-24T09:20:47.168Z",
+  "count": 3310,
   "extensions": [
     {
       "dir": "0x0",
@@ -2604,7 +2604,7 @@
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
       "treeSha": "2ef30cf91924b5d13f7f2ddad06294e5f74d2bc4",
-      "downloads": 119176
+      "downloads": 119242
     },
     {
       "dir": "apple-stocks-search",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 598115
+      "downloads": 598164
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557981
+      "downloads": 558009
     },
     {
       "dir": "google-chrome-profiles",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 756827
+      "downloads": 756869
     },
     {
       "dir": "kimai",
@@ -36449,6 +36449,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/multi",
       "treeSha": "0c4fb662c408004ae44671eb03f191551c0be5d9",
       "downloads": null
+    },
+    {
+      "dir": "multi-ai-chat",
+      "name": "multi-ai-chat",
+      "title": "Multi AI Chat",
+      "description": "Open or prefill one prompt in ChatGPT, Claude, Grok, and Perplexity using query URLs in your browser.",
+      "author": "matheuscoelho3006",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/matheuscoelho3006/multi-ai-chat",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat",
+      "treeSha": "61dbca59e6bca762785fbde5794ffce5ca6ae697",
+      "downloads": 0
     },
     {
       "dir": "multi-force",

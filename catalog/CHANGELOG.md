@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `e6acec27ca`
+
+**Added (1):** [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat)
+
 ## 2026-09-24 — upstream `8edadd5112`
 
 **Updated (1):** [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders)
