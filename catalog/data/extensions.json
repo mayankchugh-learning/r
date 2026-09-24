@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "dba2addbe1d42e15e461ca31efa595061acb4ff2",
-  "generatedAt": "2026-09-24T07:13:23.025Z",
-  "downloadsRefreshedAt": "2026-09-24T07:13:22.077Z",
-  "count": 3307,
+  "commit": "3d02002adc46933bcf9ab20b3d58964727e09921",
+  "generatedAt": "2026-09-24T07:38:36.025Z",
+  "downloadsRefreshedAt": "2026-09-24T07:38:35.067Z",
+  "count": 3308,
   "extensions": [
     {
       "dir": "0x0",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 597920
+      "downloads": 597976
     },
     {
       "dir": "color-shades",
@@ -22685,7 +22685,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 557840
+      "downloads": 557882
     },
     {
       "dir": "google-chrome-profiles",
@@ -29110,7 +29110,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 756640
+      "downloads": 756691
     },
     {
       "dir": "kimai",
@@ -46668,6 +46668,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-git",
       "treeSha": "93958dcab4aa7ac1b49de3300eb79349f1c4e862",
       "downloads": 370
+    },
+    {
+      "dir": "quick-groups",
+      "name": "quick-groups",
+      "title": "Quick Groups",
+      "description": "Search and act on grouped reference data from local YAML files",
+      "author": "neilbartlett",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Data",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-groups",
+      "treeSha": "717efc54549b17c43aef87cef49292fea1927fa2",
+      "downloads": null
     },
     {
       "dir": "quick-jump",

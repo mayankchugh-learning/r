@@ -1,12 +1,12 @@
 # macOS · Data
 
-272 extensions · [← macOS](../README.md)
+273 extensions · [← macOS](../README.md)
 
 ## Transform & Generate
 
 | Topic | Extensions |
 | --- | --- |
-| [Converters & Encoders](./converters-encoders.md) | 22 |
+| [Converters & Encoders](./converters-encoders.md) | 23 |
 | [Generators](./generators.md) | 8 |
 | [Text Processing](./text-processing.md) | 11 |
 | [Files & Archives](./files-archives.md) | 15 |

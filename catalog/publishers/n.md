@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · **N** · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-77 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+78 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -34,6 +34,7 @@
 | [nbaglivo](https://www.raycast.com/nbaglivo) | 1 | 52 | **Productivity:** [Portless Active Routes](https://github.com/raycast/extensions/tree/main/extensions/portless) |
 | [nchudleigh](https://www.raycast.com/nchudleigh) | 1 | 9,990 | **Productivity:** [Superwhisper - Offline Voice to Text](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) |
 | [nedini](https://www.raycast.com/nedini) | 1 | 449 | **Productivity:** [No as a Service](https://github.com/raycast/extensions/tree/main/extensions/no-as-a-service) |
+| neilbartlett | 1 | — | **Data:** [Quick Groups](https://github.com/raycast/extensions/tree/main/extensions/quick-groups) |
 | [NeonArray](https://www.raycast.com/NeonArray) | 1 | 15 | **Web:** [Icy Veins Quicklinks](https://github.com/raycast/extensions/tree/main/extensions/icy-veins-quicklinks) |
 | [netcookies](https://www.raycast.com/netcookies) | 1 | 284 | **Developer Tools:** [Copy Text Files](https://github.com/raycast/extensions/tree/main/extensions/copy-text-files) |
 | [netlify](https://www.raycast.com/netlify) | 1 | 2,628 | **Developer Tools:** [Netlify](https://github.com/raycast/extensions/tree/main/extensions/netlify) |

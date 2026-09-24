@@ -2,7 +2,7 @@
 
 **Converters & Encoders** · [Generators](./generators.md) · [Calculators & Math](./calculators-math.md) · [Time & Dates](./time-dates.md) · [Crypto & Blockchain Data](./crypto-blockchain-data.md) · [Web & Network Intelligence](./web-network-intelligence.md) · [Games & Esports Data](./games-esports-data.md) · [Health, Nature & Science](./health-nature-science.md) · [Travel & Geo Data](./travel-geo-data.md) · [Business & Databases](./business-databases.md) · [Trackers & Monitors](./trackers-monitors.md) · [Text Processing](./text-processing.md) · [Weather & Environment](./weather-environment.md) · [Files & Archives](./files-archives.md) · [APIs & Scraping](./apis-scraping.md) · [Lookups & References](./lookups-references.md) · [General](./general.md)
 
-22 of 272 extensions · [← macOS · Data](./README.md)
+23 of 273 extensions · [← macOS · Data](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -28,3 +28,4 @@
 | [Protobuf2TypeScript](https://github.com/raycast/extensions/tree/main/extensions/protobuf2typescript) | 98 | A script which help front-end devloper to convert *.protobuf file into *.d.ts file. | 7gugu | macOS | [store](https://www.raycast.com/7gugu/protobuf2typescript) |
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 43 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
 | [Visitor Queue](https://github.com/raycast/extensions/tree/main/extensions/visitor-queue) | 19 | Identify, personalize, convert | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/visitor-queue) |
+| [Quick Groups](https://github.com/raycast/extensions/tree/main/extensions/quick-groups) | — | Search and act on grouped reference data from local YAML files | neilbartlett | macOS | — |

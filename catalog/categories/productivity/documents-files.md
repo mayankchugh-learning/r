@@ -1,8 +1,8 @@
 # Documents & Files
 
-133 extensions · [← Productivity](./README.md)
+134 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (31) · [Documents ✦](#documents) (18) · [Finder ✦](#finder) (7) · [Download ✦](#download) (12) · [Upload ✦](#upload) (11) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (33)
+[Folder ✦](#folder) (31) · [Documents ✦](#documents) (18) · [Finder ✦](#finder) (7) · [Download ✦](#download) (12) · [Upload ✦](#upload) (11) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (34)
 
 *✦ auto-discovered topic group*
 
@@ -188,3 +188,4 @@
 | [Paper Design](https://github.com/raycast/extensions/tree/main/extensions/paper-design) | 15 | Browse recent Paper designs, create new files, and manage design tokens directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/paper-design) |
 | [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) | 4 | Search your Melanite library by file name and tag name, with thumbnail previews. | masuipeo | macOS, Windows | [store](https://www.raycast.com/masuipeo/melanite-search) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 3 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS, Windows | [store](https://www.raycast.com/garon/glimpse) |
+| [Quick Groups](https://github.com/raycast/extensions/tree/main/extensions/quick-groups) | — | Search and act on grouped reference data from local YAML files | neilbartlett | macOS | — |
