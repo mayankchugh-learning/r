@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `5e47a265b2`
+
+**Updated (1):** [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates)
+
 ## 2026-09-24 — upstream `017d46003b`
 
 **Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)

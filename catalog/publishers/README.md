@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,269,931 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,269,939 |
 | 2 | [raycast](./id/raycast.md) | 11 | 889,614 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,893 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,679 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,903 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,683 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,450 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,343 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 451,672 |
@@ -322,7 +322,7 @@
 | 312 | [ahmedivy](https://www.raycast.com/ahmedivy) | 1 | 3,700 |
 | 313 | [mSarheed](https://www.raycast.com/mSarheed) | 9 | 3,697 |
 | 314 | [mikqi](https://www.raycast.com/mikqi) | 1 | 3,697 |
-| 315 | [plonq](https://www.raycast.com/plonq) | 1 | 3,675 |
+| 315 | [plonq](https://www.raycast.com/plonq) | 1 | 3,676 |
 | 316 | [pingdotgg](https://www.raycast.com/pingdotgg) | 1 | 3,658 |
 | 317 | [sc0](https://www.raycast.com/sc0) | 1 | 3,656 |
 | 318 | [cheslip](https://www.raycast.com/cheslip) | 1 | 3,655 |
