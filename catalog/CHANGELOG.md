@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `473a066833`
+
+**Updated (1):** [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew)
+
 ## 2026-09-24 — upstream `b4ad88670c`
 
 **Updated (1):** [Media Converter](https://github.com/raycast/extensions/tree/main/extensions/media-converter)
