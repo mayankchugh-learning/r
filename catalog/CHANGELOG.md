@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `f04b7bc965`
+
+**Updated (1):** [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg)
+
 ## 2026-09-24 — upstream `35ce506d78`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
