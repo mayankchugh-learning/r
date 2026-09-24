@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `4dee315bb2`
+
+**Updated (15):** [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes), [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders), [Cloudflare](https://github.com/raycast/extensions/tree/main/extensions/cloudflare), [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa), [GitHub](https://github.com/raycast/extensions/tree/main/extensions/github), [Google Calendar](https://github.com/raycast/extensions/tree/main/extensions/google-calendar), [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola), [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira), [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear), [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion), [PostHog](https://github.com/raycast/extensions/tree/main/extensions/posthog), [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack), [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist), [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully), [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom)
+
 ## 2026-09-24 — upstream `30cd941914`
 
 **Updated (1):** [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders)

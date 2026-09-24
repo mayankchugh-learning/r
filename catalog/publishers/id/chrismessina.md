@@ -1,6 +1,6 @@
 # chrismessina
 
-17 extensions · 7,436 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+17 extensions · 7,435 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
@@ -33,7 +33,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [@ Profile](https://github.com/raycast/extensions/tree/main/extensions/at-profile) | 962 | Quickly open profiles on social apps. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/at-profile) |
-| [Fetch](https://github.com/raycast/extensions/tree/main/extensions/fetch) | 1 | Download one or many files with curl: batch downloads, URL range patterns, and download history. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/fetch) |
+| [Fetch](https://github.com/raycast/extensions/tree/main/extensions/fetch) | 0 | Download one or many files with curl: batch downloads, URL range patterns, and download history. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/fetch) |
 
 ## News (1)
 

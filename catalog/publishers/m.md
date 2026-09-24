@@ -61,7 +61,7 @@
 | [materialcritic](https://www.raycast.com/materialcritic) | 1 | 62 | **Productivity:** [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) |
 | [matheus_de_paula_domingos](https://www.raycast.com/matheus_de_paula_domingos) | 1 | 624 | **Developer Tools:** [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) |
 | [matheuschein](https://www.raycast.com/matheuschein) | 2 | 709 | **Productivity:** [Animated Window Manager](https://github.com/raycast/extensions/tree/main/extensions/animated-window-manager), [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) |
-| [matheuscoelho3006](https://www.raycast.com/matheuscoelho3006) | 1 | 2 | **Productivity:** [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) |
+| [matheuscoelho3006](https://www.raycast.com/matheuscoelho3006) | 1 | 0 | **Productivity:** [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) |
 | [mathieudutour](https://www.raycast.com/mathieudutour) | 2 | 9,795 | **Productivity:** [Wolfram Alpha](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha)<br>**Applications:** [Stellate (formerly GraphCDN)](https://github.com/raycast/extensions/tree/main/extensions/graphcdn) |
 | [matt](https://www.raycast.com/matt) | 1 | 2,368 | **Uncategorized:** [crates.io Search](https://github.com/raycast/extensions/tree/main/extensions/cratecast) |
 | [mattdelliott](https://www.raycast.com/mattdelliott) | 1 | 61 | **Productivity:** [ChartMogul](https://github.com/raycast/extensions/tree/main/extensions/chartmogul) |
