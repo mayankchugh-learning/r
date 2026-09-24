@@ -1,6 +1,6 @@
 # Publishers
 
-2219 publishers · [← catalog index](../README.md)
+2220 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,268,154 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,268,168 |
 | 2 | [raycast](./id/raycast.md) | 11 | 888,628 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,021 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,116 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,043 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,129 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 487,828 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 483,692 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 451,205 |
@@ -2221,9 +2221,10 @@
 | 2211 | [frdmn](https://www.raycast.com/frdmn) | 1 | 0 |
 | 2212 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 1 | 0 |
 | 2213 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2214 | [neilbartlett](https://www.raycast.com/neilbartlett) | 1 | 0 |
-| 2215 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2216 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2217 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2218 | github-next | 2 | — |
-| 2219 | multi | 1 | — |
+| 2214 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2215 | [neilbartlett](https://www.raycast.com/neilbartlett) | 1 | 0 |
+| 2216 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2217 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2218 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2219 | github-next | 2 | — |
+| 2220 | multi | 1 | — |

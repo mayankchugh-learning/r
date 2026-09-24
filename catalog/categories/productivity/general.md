@@ -1,6 +1,6 @@
 # General
 
-378 extensions · [← Productivity](./README.md)
+379 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -382,3 +382,4 @@
 | [Postproxy](https://github.com/raycast/extensions/tree/main/extensions/postproxy) | 2 | Publish posts, manage comments, and answer DMs across your social profiles with Postproxy. | dmitrysereda | macOS | [store](https://www.raycast.com/dmitrysereda/postproxy) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
 | [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday) | 0 | Companion for Calliday, the automatic time tracker for macOS. Requires the Calliday app. | yaanisy | macOS | [store](https://www.raycast.com/yaanisy/calliday) |
+| [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu) | 0 | Today's and this week's NUST hostel mess menu. | muhammadaljoufi | macOS | [store](https://www.raycast.com/muhammadaljoufi/nust-mess-menu) |

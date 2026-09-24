@@ -1,12 +1,12 @@
 # macOS extensions
 
-3275 extensions · [← all platforms](../README.md)
+3276 extensions · [← all platforms](../README.md)
 
 ### Work & Productivity
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 1494 |
+| [Productivity](./productivity/README.md) | 1495 |
 | [Applications](./applications/README.md) | 375 |
 | [Communication](./communication/README.md) | 157 |
 

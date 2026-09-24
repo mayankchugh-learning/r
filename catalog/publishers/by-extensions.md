@@ -1,6 +1,6 @@
 # Publishers
 
-2219 publishers · [← catalog index](../README.md)
+2220 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -18,7 +18,7 @@
 | 8 | [Aayush9029](./id/aayush9029.md) | 16 | 166,701 |
 | 9 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,370 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,838 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,268,154 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,268,168 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 331,704 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 451,205 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,439 |
@@ -396,8 +396,8 @@
 | 386 | [TwoMental](https://www.raycast.com/twomental) | 2 | 15 |
 | 387 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 388 | github-next | 2 | — |
-| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,021 |
-| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 558,116 |
+| 389 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 757,043 |
+| 390 | [Codely](https://www.raycast.com/Codely) | 1 | 558,129 |
 | 391 | [linear](https://www.raycast.com/linear) | 1 | 393,118 |
 | 392 | [mommertf](https://www.raycast.com/mommertf) | 1 | 327,387 |
 | 393 | [nhojb](https://www.raycast.com/nhojb) | 1 | 287,109 |
@@ -2222,8 +2222,9 @@
 | 2212 | [frdmn](https://www.raycast.com/frdmn) | 1 | 0 |
 | 2213 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 1 | 0 |
 | 2214 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2215 | [neilbartlett](https://www.raycast.com/neilbartlett) | 1 | 0 |
-| 2216 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2217 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2218 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2219 | multi | 1 | — |
+| 2215 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2216 | [neilbartlett](https://www.raycast.com/neilbartlett) | 1 | 0 |
+| 2217 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2218 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2219 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2220 | multi | 1 | — |

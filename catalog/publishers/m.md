@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-173 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+174 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -167,6 +167,7 @@
 | [msms](https://www.raycast.com/msms) | 1 | 71 | **Productivity:** [Waktu Solat](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat) |
 | [mt40](https://www.raycast.com/mt40) | 1 | 806 | **Productivity:** [Memo](https://github.com/raycast/extensions/tree/main/extensions/memo) |
 | [MuhaddiMu](https://www.raycast.com/MuhaddiMu) | 2 | 1,879 | **Productivity:** [Time Until I Do](https://github.com/raycast/extensions/tree/main/extensions/time-until-i-do), [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) |
+| [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 | **Productivity:** [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu) |
 | [muhammadrizo](https://www.raycast.com/muhammadrizo) | 5 | 1,127 | **Fun:** [KnowYourMeme](https://github.com/raycast/extensions/tree/main/extensions/knowyourmeme)<br>**System:** [Windows Default Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/windows-default-wallpapers)<br>**Media:** [Series Rating Graphs](https://github.com/raycast/extensions/tree/main/extensions/series-rating-graphs), [Flameshot](https://github.com/raycast/extensions/tree/main/extensions/flameshot), [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) |
 | [muhammetakay](https://www.raycast.com/muhammetakay) | 1 | 10,534 | **Web:** [YouTube Search](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) |
 | multi | 1 | — | **Applications:** [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) |

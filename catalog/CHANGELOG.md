@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `3905e9a005`
+
+**Added (1):** [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu)
+
 ## 2026-09-24 — upstream `0d4aee559e`
 
 **Updated (1):** [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden)

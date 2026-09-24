@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "0d4aee559e9cc6fe9299fdbff669a65a7b4565f1",
-  "generatedAt": "2026-09-24T10:59:42.204Z",
-  "downloadsRefreshedAt": "2026-09-24T10:59:39.931Z",
-  "count": 3310,
+  "commit": "3905e9a00569f6dff2ea5b5a3f0780ccf889f919",
+  "generatedAt": "2026-09-24T11:12:29.689Z",
+  "downloadsRefreshedAt": "2026-09-24T11:12:28.973Z",
+  "count": 3311,
   "extensions": [
     {
       "dir": "0x0",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 598303
+      "downloads": 598317
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558116
+      "downloads": 558129
     },
     {
       "dir": "google-chrome-profiles",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 757021
+      "downloads": 757043
     },
     {
       "dir": "kimai",
@@ -39205,6 +39205,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nusmods",
       "treeSha": "c7abf27d321c3648857075b82b23504295343798",
       "downloads": 29
+    },
+    {
+      "dir": "nust-mess-menu",
+      "name": "nust-mess-menu",
+      "title": "NUST Mess Menu",
+      "description": "Today's and this week's NUST hostel mess menu.",
+      "author": "muhammadaljoufi",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/muhammadaljoufi/nust-mess-menu",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu",
+      "treeSha": "a24d441c5e38661d6630e02ac7bdf00012dc8756",
+      "downloads": 0
     },
     {
       "dir": "nuxt",
