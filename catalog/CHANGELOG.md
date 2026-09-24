@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `8e86ef2f79`
+
+**Updated (1):** [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian)
+
 ## 2026-09-24 — upstream `3905e9a005`
 
 **Added (1):** [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu)
