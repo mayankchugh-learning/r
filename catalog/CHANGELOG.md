@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-24 — upstream `017d46003b`
+
+**Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)
+
 ## 2026-09-24 — upstream `c138b6e79f`
 
 **Updated (1):** [ZenMux Manager](https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager)
