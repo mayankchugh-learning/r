@@ -66,7 +66,7 @@
 | [SGGb0nd](https://www.raycast.com/SGGb0nd) | 1 | 110 | **Web:** [AList Downloder](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) |
 | [shadeov](https://www.raycast.com/Shadeov) | 2 | 621 | **Developer Tools:** [Cursor Costs](https://github.com/raycast/extensions/tree/main/extensions/cursor-costs)<br>**News:** [DTF](https://github.com/raycast/extensions/tree/main/extensions/dtf) |
 | [shail_antani](https://www.raycast.com/shail_antani) | 3 | 618 | **Applications:** [Thock](https://github.com/raycast/extensions/tree/main/extensions/thock), [NotiLight Controller](https://github.com/raycast/extensions/tree/main/extensions/notilight-controller)<br>**System:** [Wiz Controller](https://github.com/raycast/extensions/tree/main/extensions/wiz-controller) |
-| [shak](https://www.raycast.com/shak) | 1 | 115 | **Productivity:** [Unpackr](https://github.com/raycast/extensions/tree/main/extensions/unpackr) |
+| [shak](https://www.raycast.com/shak) | 2 | 115 | **Productivity:** [Unpackr](https://github.com/raycast/extensions/tree/main/extensions/unpackr), [Timeatlas](https://github.com/raycast/extensions/tree/main/extensions/timeatlas) |
 | [shakedlokits](https://www.raycast.com/shakedlokits) | 1 | 3,357 | **Productivity:** [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) |
 | [shameemreza](https://www.raycast.com/shameemreza) | 1 | 17 | **Developer Tools:** [Woo Marketplace Search](https://github.com/raycast/extensions/tree/main/extensions/woo-marketplace-search) |
 | [sharat_visweswara](https://www.raycast.com/sharat_visweswara) | 1 | 17 | **Developer Tools:** [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) |

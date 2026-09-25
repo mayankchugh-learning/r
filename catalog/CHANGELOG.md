@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `16f2f1c3a7`
+
+**Added (1):** [Timeatlas](https://github.com/raycast/extensions/tree/main/extensions/timeatlas)
+
 ## 2026-09-24 — upstream `28dc42b8d7`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,270,171 |
-| 2 | [raycast](./id/raycast.md) | 11 | 889,614 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,153 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,863 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,270,226 |
+| 2 | [raycast](./id/raycast.md) | 11 | 889,636 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,211 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,904 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,450 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,343 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 451,672 |
@@ -1450,11 +1450,11 @@
 | 1440 | [rrmaximiliano](https://www.raycast.com/rrmaximiliano) | 1 | 116 |
 | 1441 | [txemaleon](https://www.raycast.com/txemaleon) | 1 | 116 |
 | 1442 | [zebapy](https://www.raycast.com/zebapy) | 1 | 116 |
-| 1443 | [blazej_kustra](https://www.raycast.com/blazej_kustra) | 1 | 115 |
-| 1444 | [bobbymannino](https://www.raycast.com/bobbymannino) | 1 | 115 |
-| 1445 | [harsh_varshney](https://www.raycast.com/harsh_varshney) | 1 | 115 |
-| 1446 | [rembridge](https://www.raycast.com/rembridge) | 1 | 115 |
-| 1447 | [shak](https://www.raycast.com/shak) | 1 | 115 |
+| 1443 | [shak](https://www.raycast.com/shak) | 2 | 115 |
+| 1444 | [blazej_kustra](https://www.raycast.com/blazej_kustra) | 1 | 115 |
+| 1445 | [bobbymannino](https://www.raycast.com/bobbymannino) | 1 | 115 |
+| 1446 | [harsh_varshney](https://www.raycast.com/harsh_varshney) | 1 | 115 |
+| 1447 | [rembridge](https://www.raycast.com/rembridge) | 1 | 115 |
 | 1448 | [albertogalca](https://www.raycast.com/albertogalca) | 1 | 114 |
 | 1449 | [darchen_gautier](https://www.raycast.com/darchen_gautier) | 1 | 114 |
 | 1450 | [MrMage](https://www.raycast.com/MrMage) | 1 | 114 |

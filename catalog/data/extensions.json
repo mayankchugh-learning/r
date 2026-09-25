@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "28dc42b8d72f75ea20244f92da5e058c332092f2",
-  "generatedAt": "2026-09-24T23:54:35.805Z",
-  "downloadsRefreshedAt": "2026-09-24T23:54:35.400Z",
-  "count": 3311,
+  "commit": "16f2f1c3a71cd63956a07fc317a6f5408d7db4a2",
+  "generatedAt": "2026-09-25T01:11:50.813Z",
+  "downloadsRefreshedAt": "2026-09-25T01:11:48.740Z",
+  "count": 3312,
   "extensions": [
     {
       "dir": "0x0",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599386
+      "downloads": 599441
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558863
+      "downloads": 558904
     },
     {
       "dir": "google-chrome-profiles",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758153
+      "downloads": 758211
     },
     {
       "dir": "kimai",
@@ -35652,7 +35652,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "cc4133c5f1d12a1c498b6d9f1f0b8c6f9e33da0d",
-      "downloads": 42280
+      "downloads": 42302
     },
     {
       "dir": "models-dev",
@@ -60759,6 +60759,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/time-until-i-do",
       "treeSha": "202349c4de06e38894f3c414f6ee292eb7154ef9",
       "downloads": 1550
+    },
+    {
+      "dir": "timeatlas",
+      "name": "timeatlas",
+      "title": "Timeatlas",
+      "description": "Notes and daily glance for Time Atlas.",
+      "author": "shak",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/shak/timeatlas",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/timeatlas",
+      "treeSha": "76302e066174dfe1a79b7d2a5378101e3338b168",
+      "downloads": 0
     },
     {
       "dir": "timecamp",

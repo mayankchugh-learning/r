@@ -1,8 +1,8 @@
 # Notes ✦
 
-35 extensions · [← Notes & Knowledge](./README.md)
+36 extensions · [← Notes & Knowledge](./README.md)
 
-[Capture ✦](#capture) (8) · [Daily ✦](#daily) (4) · [Markdown ✦](#markdown) (4) · [General](#general) (19)
+[Capture ✦](#capture) (8) · [Daily ✦](#daily) (5) · [Markdown ✦](#markdown) (4) · [General](#general) (19)
 
 *✦ auto-discovered topic group*
 
@@ -27,6 +27,7 @@
 | [NotePlan 3](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) | 3,357 | Allows you to see your daily plan, search notes and launch straight into NotePlan. | shakedlokits | macOS | [store](https://www.raycast.com/shakedlokits/noteplan-3) |
 | [Reflect](https://github.com/raycast/extensions/tree/main/extensions/reflect) | 2,255 | Navigate within Reflect and quickly append to your daily notes. | ryon | macOS | [store](https://www.raycast.com/ryon/reflect) |
 | [Reflect Open](https://github.com/raycast/extensions/tree/main/extensions/reflect-open) | 35 | Quickly append thoughts and tasks to your Reflect Open daily note. | jaseem_ts | macOS | [store](https://www.raycast.com/jaseem_ts/reflect-open) |
+| [Timeatlas](https://github.com/raycast/extensions/tree/main/extensions/timeatlas) | 0 | Notes and daily glance for Time Atlas. | shak | macOS | [store](https://www.raycast.com/shak/timeatlas) |
 
 ## Markdown ✦
 
