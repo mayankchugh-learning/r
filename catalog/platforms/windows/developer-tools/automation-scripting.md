@@ -6,8 +6,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 10,148 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
-| [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,946 | Convert cron expressions into human readable descriptions | niall-maloney | macOS, Windows | [store](https://www.raycast.com/niall-maloney/cron-description) |
-| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 1,055 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
-| [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | 28 | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |
+| [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox) | 10,156 | Collection of scripts that process data | Kang | macOS, Windows | [store](https://www.raycast.com/Kang/toolbox) |
+| [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,949 | Convert cron expressions into human readable descriptions | niall-maloney | macOS, Windows | [store](https://www.raycast.com/niall-maloney/cron-description) |
+| [Nuxt](https://github.com/raycast/extensions/tree/main/extensions/nuxt) | 1,057 | Supercharge your Nuxt workflow | HugoRCD | macOS, Windows | [store](https://www.raycast.com/HugoRCD/nuxt) |
+| [UTC Workbench](https://github.com/raycast/extensions/tree/main/extensions/utc-workbench) | 29 | Timestamp interpretation and timeline reconstruction for developer workflows | dfrancour | macOS, Windows | [store](https://www.raycast.com/dfrancour/utc-workbench) |
 | [Lokalise](https://github.com/raycast/extensions/tree/main/extensions/lokalise) | 22 | Manage Lokalise translations directly from Raycast. Add new translation keys, search and browse existing translations, and copy values to clipboard—all without… | ikupenov | macOS, Windows | [store](https://www.raycast.com/ikupenov/lokalise) |

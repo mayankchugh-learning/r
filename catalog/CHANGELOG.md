@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `1cc97cf71e`
+
+**Updated (1):** [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates)
+
 ## 2026-09-25 — upstream `a456ffa90e`
 
 **Updated (1):** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama)
