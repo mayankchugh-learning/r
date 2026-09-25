@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 600,893 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 600,896 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,609 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 720 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 35 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |

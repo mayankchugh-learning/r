@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `afd5146ea4`
+
+**Updated (1):** [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call)
+
 ## 2026-09-25 — upstream `749634ed39`
 
 **Added (1):** [Swift Salamander](https://github.com/raycast/extensions/tree/main/extensions/swift-salamander)
