@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "84f7b2a93bace8eb2927bfcd2983422179092660",
-  "generatedAt": "2026-09-25T08:18:23.459Z",
-  "downloadsRefreshedAt": "2026-09-25T08:18:22.797Z",
+  "commit": "d0b5d083d382391c394a8de4c2ceb0759063ef9d",
+  "generatedAt": "2026-09-25T09:22:39.050Z",
+  "downloadsRefreshedAt": "2026-09-25T09:22:38.038Z",
   "count": 3316,
   "extensions": [
     {
@@ -2604,7 +2604,7 @@
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
       "treeSha": "2f83cc06b0cb91ac26c4ac253bb9fa12295308d2",
-      "downloads": 119449
+      "downloads": 119477
     },
     {
       "dir": "apple-stocks-search",
@@ -4562,7 +4562,7 @@
       ],
       "store": "https://www.raycast.com/Popo/bento-window",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bento-window",
-      "treeSha": "a3027f25995b08425bc2883ef7f22243825086bf",
+      "treeSha": "ce1029392098b42441c9a35aa9282c656ea24238",
       "downloads": 42
     },
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599868
+      "downloads": 599955
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559225
+      "downloads": 559292
     },
     {
       "dir": "google-chrome-profiles",
@@ -29154,7 +29154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758644
+      "downloads": 758742
     },
     {
       "dir": "kimai",
@@ -30150,7 +30150,7 @@
       "store": "https://www.raycast.com/gbarba/large-type",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/large-type",
       "treeSha": "dc1ca18e0b5b787e671e5210fd6ca02a6d9c49ad",
-      "downloads": 4096
+      "downloads": 4097
     },
     {
       "dir": "lark",

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,271,286 |
-| 2 | [raycast](./id/raycast.md) | 11 | 890,442 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,644 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 559,225 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,271,373 |
+| 2 | [raycast](./id/raycast.md) | 11 | 890,470 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,742 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 559,292 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,881 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,826 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 452,073 |
@@ -201,7 +201,7 @@
 | 191 | [blessanm86](https://www.raycast.com/blessanm86) | 1 | 9,007 |
 | 192 | [futantan](https://www.raycast.com/futantan) | 2 | 8,977 |
 | 193 | [Sn0wye](https://www.raycast.com/Sn0wye) | 1 | 8,940 |
-| 194 | [gbarba](https://www.raycast.com/gbarba) | 3 | 8,874 |
+| 194 | [gbarba](https://www.raycast.com/gbarba) | 3 | 8,875 |
 | 195 | [slavarazum](https://www.raycast.com/slavarazum) | 1 | 8,832 |
 | 196 | [renfei_song](https://www.raycast.com/renfei_song) | 1 | 8,791 |
 | 197 | [anybox](https://www.raycast.com/anybox) | 2 | 8,684 |

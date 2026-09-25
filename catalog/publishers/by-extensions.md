@@ -18,14 +18,14 @@
 | 8 | [Aayush9029](./id/aayush9029.md) | 16 | 167,045 |
 | 9 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,434 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,848 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,271,286 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,271,373 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 332,306 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 452,073 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,492 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,188 |
 | 16 | [j3lte](./id/j3lte.md) | 13 | 11,081 |
 | 17 | [kud](./id/kud.md) | 13 | 7,148 |
-| 18 | [raycast](./id/raycast.md) | 11 | 890,442 |
+| 18 | [raycast](./id/raycast.md) | 11 | 890,470 |
 | 19 | [Rob](./id/rob.md) | 11 | 12,174 |
 | 20 | [Yukai](./id/yukai.md) | 11 | 10,364 |
 | 21 | [xilopaint](./id/xilopaint.md) | 10 | 22,778 |
@@ -116,7 +116,7 @@
 | 106 | [zavbala](https://www.raycast.com/zavbala) | 3 | 10,722 |
 | 107 | [andresmorelos](https://www.raycast.com/andresmorelos) | 3 | 10,699 |
 | 108 | [denizyoldas](https://www.raycast.com/denizyoldas) | 3 | 9,354 |
-| 109 | [gbarba](https://www.raycast.com/gbarba) | 3 | 8,874 |
+| 109 | [gbarba](https://www.raycast.com/gbarba) | 3 | 8,875 |
 | 110 | [BalliAsghar](https://www.raycast.com/BalliAsghar) | 3 | 8,392 |
 | 111 | [csigritz](https://www.raycast.com/csigritz) | 3 | 8,222 |
 | 112 | [comoser](https://www.raycast.com/comoser) | 3 | 7,127 |
@@ -398,8 +398,8 @@
 | 388 | [TwoMental](https://www.raycast.com/twomental) | 2 | 15 |
 | 389 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 390 | github-next | 2 | — |
-| 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,644 |
-| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 559,225 |
+| 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,742 |
+| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 559,292 |
 | 393 | [linear](https://www.raycast.com/linear) | 1 | 394,191 |
 | 394 | [mommertf](https://www.raycast.com/mommertf) | 1 | 328,283 |
 | 395 | [nhojb](https://www.raycast.com/nhojb) | 1 | 287,702 |
