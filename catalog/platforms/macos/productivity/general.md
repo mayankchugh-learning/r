@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-515 of 1499 extensions · [← macOS · Productivity](./README.md)
+514 of 1499 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -105,7 +105,6 @@
 | [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 2,096 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
 | [Upcoming Holidays](https://github.com/raycast/extensions/tree/main/extensions/upcoming-holidays) | 2,016 | Show upcoming holidays for a country | rodrigouroz | macOS, Windows | [store](https://www.raycast.com/rodrigouroz/upcoming-holidays) |
 | [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) | 1,940 | Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon. | typefully (org) | macOS, Windows | [store](https://www.raycast.com/typefully/typefully) |
-| [My Daily Log](https://github.com/raycast/extensions/tree/main/extensions/my-daily-log) | 1,911 | Log what you do every day. | frugoman | macOS | [store](https://www.raycast.com/frugoman/my-daily-log) |
 | [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) | 1,860 | Pieces for Developers Raycast Extension | pieces (org) | macOS | [store](https://www.raycast.com/pieces/pieces-raycast) |
 | [monday.com](https://github.com/raycast/extensions/tree/main/extensions/monday) | 1,840 | Quickly navigate to your latest monday.com boards and create items | freak4pc | macOS | [store](https://www.raycast.com/freak4pc/monday-com) |
 | [Node Version Manager](https://github.com/raycast/extensions/tree/main/extensions/node-version-manager) | 1,840 | Control your node versions with ease | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/node-version-manager) |

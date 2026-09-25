@@ -17,7 +17,7 @@ macOS: 1499 · Windows: 382
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants/README.md) | 133 |
+| [AI & Assistants](./ai-assistants/README.md) | 134 |
 | [Writing & Text Tools](./writing-text-tools.md) | 72 |
 | [Documents & Files](./documents-files.md) | 134 |
 | [Email](./email.md) | 24 |
@@ -59,6 +59,6 @@ macOS: 1499 · Windows: 382
 | [Git ✦](./git.md) | 7 |
 | [Mode ✦](./mode.md) | 4 |
 
-Plus [General](./general.md) — 380 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 379 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

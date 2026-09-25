@@ -1,6 +1,6 @@
 # General
 
-380 extensions · [← Productivity](./README.md)
+379 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -70,7 +70,6 @@
 | [Send to flomo](https://github.com/raycast/extensions/tree/main/extensions/send-to-flomo) | 2,110 | Send your MEMOs to flomo | ahonn | macOS | [store](https://www.raycast.com/ahonn/send-to-flomo) |
 | [Upcoming Holidays](https://github.com/raycast/extensions/tree/main/extensions/upcoming-holidays) | 2,016 | Show upcoming holidays for a country | rodrigouroz | macOS, Windows | [store](https://www.raycast.com/rodrigouroz/upcoming-holidays) |
 | [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) | 1,940 | Create and manage social media drafts on Typefully for X, LinkedIn, Threads, Bluesky, and Mastodon. | typefully (org) | macOS, Windows | [store](https://www.raycast.com/typefully/typefully) |
-| [My Daily Log](https://github.com/raycast/extensions/tree/main/extensions/my-daily-log) | 1,911 | Log what you do every day. | frugoman | macOS | [store](https://www.raycast.com/frugoman/my-daily-log) |
 | [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) | 1,860 | Pieces for Developers Raycast Extension | pieces (org) | macOS | [store](https://www.raycast.com/pieces/pieces-raycast) |
 | [monday.com](https://github.com/raycast/extensions/tree/main/extensions/monday) | 1,840 | Quickly navigate to your latest monday.com boards and create items | freak4pc | macOS | [store](https://www.raycast.com/freak4pc/monday-com) |
 | [Node Version Manager](https://github.com/raycast/extensions/tree/main/extensions/node-version-manager) | 1,840 | Control your node versions with ease | andresmorelos | macOS | [store](https://www.raycast.com/andresmorelos/node-version-manager) |

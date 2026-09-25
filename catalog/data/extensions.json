@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ff678517a421538e8533030aa447420631886169",
-  "generatedAt": "2026-09-25T12:07:38.780Z",
-  "downloadsRefreshedAt": "2026-09-25T12:07:38.363Z",
+  "commit": "7b5e82828a07696c56172a538e2053f436a31bcf",
+  "generatedAt": "2026-09-25T12:10:44.157Z",
+  "downloadsRefreshedAt": "2026-09-25T12:10:43.477Z",
   "count": 3319,
   "extensions": [
     {
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 600177
+      "downloads": 600182
     },
     {
       "dir": "color-shades",
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559448
+      "downloads": 559453
     },
     {
       "dir": "google-chrome-profiles",
@@ -29196,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758966
+      "downloads": 758972
     },
     {
       "dir": "kimai",
@@ -36916,20 +36916,20 @@
       "dir": "my-daily-log",
       "name": "my-daily-log",
       "title": "My Daily Log",
-      "description": "Log what you do every day.",
+      "description": "Log what you do every day, get reminded to log, and summarize your days with a local LLM.",
       "author": "frugoman",
       "owner": null,
       "contributors": 0,
       "categories": [
         "Productivity"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/frugoman/my-daily-log",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/my-daily-log",
-      "treeSha": "050b8d15f894fe376bc4ab5793266fafad3350a0",
+      "treeSha": "abede9831dd85d6403e3809fe1268a0888f2975d",
       "downloads": 1911
     },
     {

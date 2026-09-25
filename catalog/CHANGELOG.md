@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `7b5e82828a`
+
+**Updated (1):** [My Daily Log](https://github.com/raycast/extensions/tree/main/extensions/my-daily-log)
+
 ## 2026-09-25 — upstream `ff678517a4`
 
 **Updated (1):** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library)
