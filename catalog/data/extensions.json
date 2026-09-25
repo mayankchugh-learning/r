@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "3543dc5e4d0223b663a60ea259f9077d100cb2ed",
-  "generatedAt": "2026-09-25T01:15:32.040Z",
-  "downloadsRefreshedAt": "2026-09-25T01:15:31.354Z",
-  "count": 3314,
+  "commit": "a02f16669632c1d2ce80febeb16fbaa8b6d1ca38",
+  "generatedAt": "2026-09-25T01:18:56.474Z",
+  "downloadsRefreshedAt": "2026-09-25T01:18:55.394Z",
+  "count": 3315,
   "extensions": [
     {
       "dir": "0x0",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599442
+      "downloads": 599446
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 558905
+      "downloads": 558908
     },
     {
       "dir": "google-chrome-profiles",
@@ -25894,10 +25894,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/iconsearch/iconsearch",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/iconsearch",
       "treeSha": "83b6738829c89c63c8e3e53ace18fe79eb20dbf0",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "icy-veins-quicklinks",
@@ -29154,7 +29154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758213
+      "downloads": 758217
     },
     {
       "dir": "kimai",
@@ -37325,6 +37325,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer",
       "treeSha": "0607d0ef1be1f343e95f84ed9d3530c3d3b5e4a8",
       "downloads": 3151
+    },
+    {
+      "dir": "nbnhhsh",
+      "name": "nbnhhsh",
+      "title": "Nbnhhsh – Chinese Abbreviations",
+      "description": "Decode Chinese pinyin abbreviations and internet slang with 能不能好好说话 (nbnhhsh).",
+      "author": "Astatine-213",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Communication",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/Astatine-213/nbnhhsh",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh",
+      "treeSha": "6c926e30c2b3bc8bfb6a0cd4b90cd964932bdd26",
+      "downloads": 0
     },
     {
       "dir": "near-rewards",

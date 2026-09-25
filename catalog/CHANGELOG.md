@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `a02f166696`
+
+**Added (1):** [Nbnhhsh – Chinese Abbreviations](https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh)
+
 ## 2026-09-25 — upstream `3543dc5e4d`
 
 **Added (1):** [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch)

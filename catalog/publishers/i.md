@@ -20,7 +20,7 @@
 | [iaroslav_naiden](https://www.raycast.com/iaroslav_naiden) | 2 | 2,734 | **System:** [Uptime](https://github.com/raycast/extensions/tree/main/extensions/uptime), [Network Menubar Monitor](https://github.com/raycast/extensions/tree/main/extensions/network-menubar-monitor) |
 | [ibll](https://www.raycast.com/ibll) | 1 | 1,677 | **Media:** [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) |
 | [ickas](https://www.raycast.com/ickas) | 2 | 1,799 | **Design Tools:** [Aspect Raytio](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio)<br>**Developer Tools:** [Time Teller](https://github.com/raycast/extensions/tree/main/extensions/time-teller) |
-| iconsearch | 1 | — | **Design Tools:** [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch) |
+| [iconsearch](https://www.raycast.com/iconsearch) | 1 | 0 | **Design Tools:** [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch) |
 | [IdeaBridge](https://www.raycast.com/IdeaBridge) | 1 | 89 | **Productivity:** [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) |
 | [Idered](https://www.raycast.com/Idered) | 1 | 4,221 | **Developer Tools:** [Transform](https://github.com/raycast/extensions/tree/main/extensions/transform) |
 | [idleberg](https://www.raycast.com/idleberg) | 1 | 11 | **Documentation:** [NSIS Reference](https://github.com/raycast/extensions/tree/main/extensions/nsis-reference) |

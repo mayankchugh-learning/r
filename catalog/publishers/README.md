@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,270,227 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,270,231 |
 | 2 | [raycast](./id/raycast.md) | 11 | 889,636 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,213 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,905 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,217 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,908 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,450 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,343 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 451,672 |
@@ -1855,7 +1855,7 @@
 | 1845 | [szarbartosz](https://www.raycast.com/szarbartosz) | 1 | 32 |
 | 1846 | [thebruge](https://www.raycast.com/thebruge) | 1 | 32 |
 | 1847 | [yggdrasil](https://www.raycast.com/yggdrasil) | 1 | 32 |
-| 1848 | [Astatine-213](https://www.raycast.com/Astatine-213) | 1 | 31 |
+| 1848 | [Astatine-213](https://www.raycast.com/Astatine-213) | 2 | 31 |
 | 1849 | [knownasilya](https://www.raycast.com/knownasilya) | 1 | 31 |
 | 1850 | [pin-yi](https://www.raycast.com/pin-yi) | 1 | 31 |
 | 1851 | [pmzi](https://www.raycast.com/pmzi) | 1 | 31 |
@@ -2221,12 +2221,12 @@
 | 2211 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
 | 2212 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2213 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2214 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2215 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2216 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
-| 2217 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2218 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2219 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2220 | github-next | 2 | — |
-| 2221 | iconsearch | 1 | — |
+| 2214 | [iconsearch](https://www.raycast.com/iconsearch) | 1 | 0 |
+| 2215 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2216 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2217 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
+| 2218 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2219 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2220 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2221 | github-next | 2 | — |
 | 2222 | multi | 1 | — |
