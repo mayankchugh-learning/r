@@ -1,6 +1,6 @@
 # Apple & Built-in Apps
 
-15 extensions · [← Applications](./README.md)
+16 extensions · [← Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -19,3 +19,4 @@
 | [Launchpad+](https://github.com/raycast/extensions/tree/main/extensions/launchpad-plus) | 882 | A powerful and beautiful Launchpad for macOS that lets you organize and launch your apps with custom color-coded tags. | kbysiec | macOS | [store](https://www.raycast.com/kbysiec/launchpad-plus) |
 | [Monocle](https://github.com/raycast/extensions/tree/main/extensions/monocle) | 644 | Extension to control Monocle for macOS Noise-cancelling for your screen with cursor shake | emlez | macOS | [store](https://www.raycast.com/emlez/monocle) |
 | [pCloud](https://github.com/raycast/extensions/tree/main/extensions/pcloud) | 400 | Search your pCloud through API and use pCloud Drive to open files and folders in Finder | xela92 | macOS | [store](https://www.raycast.com/xela92/pcloud) |
+| [Swift Salamander](https://github.com/raycast/extensions/tree/main/extensions/swift-salamander) | 0 | Open paths, Finder selections, and saved workspaces in Swift Salamander. | c0desurfer | macOS | [store](https://www.raycast.com/c0desurfer/swift-salamander) |

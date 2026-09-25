@@ -1,8 +1,8 @@
 # Documents & Files
 
-134 extensions · [← Productivity](./README.md)
+135 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (31) · [Documents ✦](#documents) (18) · [Finder ✦](#finder) (7) · [Download ✦](#download) (12) · [Upload ✦](#upload) (11) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (34)
+[Folder ✦](#folder) (31) · [Documents ✦](#documents) (18) · [Finder ✦](#finder) (8) · [Download ✦](#download) (12) · [Upload ✦](#upload) (11) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (34)
 
 *✦ auto-discovered topic group*
 
@@ -76,6 +76,7 @@
 | [macOS Tweaks](https://github.com/raycast/extensions/tree/main/extensions/macos-tweaks) | 1,353 | Discover and toggle hidden macOS settings without the Terminal. Browse a curated catalog of defaults write tweaks for Finder, Dock, Screenshots, Animations, an… | Undolog | macOS | [store](https://www.raycast.com/Undolog/macos-tweaks) |
 | [BetterZip](https://github.com/raycast/extensions/tree/main/extensions/betterzip) | 1,198 | Compress and extract selected items in Finder with BetterZip via Raycast. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/betterzip) |
 | [Open Laravel Herd Site](https://github.com/raycast/extensions/tree/main/extensions/open-laravel-herd-site) | 354 | Lists all your Laravel Herd sites and allows you to open them in Visual Studio Code, Finder or your browser. | medienbaecker | macOS | [store](https://www.raycast.com/medienbaecker/open-laravel-herd-site) |
+| [Swift Salamander](https://github.com/raycast/extensions/tree/main/extensions/swift-salamander) | 0 | Open paths, Finder selections, and saved workspaces in Swift Salamander. | c0desurfer | macOS | [store](https://www.raycast.com/c0desurfer/swift-salamander) |
 
 ## Download ✦
 

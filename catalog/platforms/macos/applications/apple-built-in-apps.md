@@ -2,7 +2,7 @@
 
 [AI & Chat Apps](./ai-chat-apps.md) · [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) · [Productivity & Task Apps](./productivity-task-apps.md) · [Music & Audio Apps](./music-audio-apps.md) · [Media & Photo Apps](./media-photo-apps.md) · [Reading & Library Apps](./reading-library-apps.md) · [Automation & Input Apps](./automation-input-apps.md) · [Content & CMS Apps](./content-cms-apps.md) · [Network & Connection Apps](./network-connection-apps.md) · [Analytics & Stats Apps](./analytics-stats-apps.md) · [Developer Apps](./developer-apps.md) · [Browsers](./browsers.md) · [Window Managers & Utilities](./window-managers-utilities.md) · **Apple & Built-in Apps** · [Files, Sync & Upload](./files-sync-upload.md) · [Faith & Lifestyle Apps](./faith-lifestyle-apps.md) · [Launchers & App Control](./launchers-app-control.md) · [General](./general.md)
 
-15 of 377 extensions · [← macOS · Applications](./README.md)
+16 of 378 extensions · [← macOS · Applications](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,4 @@
 | [Launchpad+](https://github.com/raycast/extensions/tree/main/extensions/launchpad-plus) | 882 | A powerful and beautiful Launchpad for macOS that lets you organize and launch your apps with custom color-coded tags. | kbysiec | macOS | [store](https://www.raycast.com/kbysiec/launchpad-plus) |
 | [Monocle](https://github.com/raycast/extensions/tree/main/extensions/monocle) | 644 | Extension to control Monocle for macOS Noise-cancelling for your screen with cursor shake | emlez | macOS | [store](https://www.raycast.com/emlez/monocle) |
 | [pCloud](https://github.com/raycast/extensions/tree/main/extensions/pcloud) | 400 | Search your pCloud through API and use pCloud Drive to open files and folders in Finder | xela92 | macOS | [store](https://www.raycast.com/xela92/pcloud) |
+| [Swift Salamander](https://github.com/raycast/extensions/tree/main/extensions/swift-salamander) | 0 | Open paths, Finder selections, and saved workspaces in Swift Salamander. | c0desurfer | macOS | [store](https://www.raycast.com/c0desurfer/swift-salamander) |

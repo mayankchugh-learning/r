@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `749634ed39`
+
+**Added (1):** [Swift Salamander](https://github.com/raycast/extensions/tree/main/extensions/swift-salamander)
+
 ## 2026-09-25 — upstream `2da5cc9136`
 
 **Updated (1):** [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker)
