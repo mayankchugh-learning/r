@@ -51,4 +51,4 @@
 | [Just](https://github.com/raycast/extensions/tree/main/extensions/just) | 5 | Quickly access justfile recipes from Raycast | alastairsounds | macOS | [store](https://www.raycast.com/alastairsounds/just) |
 | [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 2 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
 | [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 1 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |
-| [Jumpseat](https://github.com/raycast/extensions/tree/main/extensions/jumpseat) | — | See your and your friends' upcoming Jumpseat flights at a glance. | chefski | macOS, Windows | — |
+| [Jumpseat](https://github.com/raycast/extensions/tree/main/extensions/jumpseat) | 0 | See your and your friends' upcoming Jumpseat flights at a glance. | chefski | macOS, Windows | [store](https://www.raycast.com/chefski/jumpseat) |

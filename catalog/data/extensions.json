@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b48b1a15c8efbda0746a633734116aa69ce4c57a",
-  "generatedAt": "2026-09-25T09:59:12.946Z",
-  "downloadsRefreshedAt": "2026-09-25T09:59:11.893Z",
+  "commit": "a0ffd142da277fbeb7864d575d375bb36885225d",
+  "generatedAt": "2026-09-25T12:05:49.997Z",
+  "downloadsRefreshedAt": "2026-09-25T12:05:49.286Z",
   "count": 3319,
   "extensions": [
     {
@@ -6252,7 +6252,7 @@
       "store": "https://www.raycast.com/raghavg02/browser-router",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-router",
       "treeSha": "7457aab783186b81a391915d91907288bd955d40",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "browser-tabs",
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 600007
+      "downloads": 600175
     },
     {
       "dir": "color-shades",
@@ -15209,7 +15209,7 @@
       ],
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
-      "treeSha": "5c991a517eb394d8ee17774f8bf8d17c04871a84",
+      "treeSha": "6cdc70f51643a1cef2e2e538a91ad56710881e79",
       "downloads": 190
     },
     {
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559329
+      "downloads": 559447
     },
     {
       "dir": "google-chrome-profiles",
@@ -28308,10 +28308,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/chefski/jumpseat",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jumpseat",
       "treeSha": "86bd9ff003ef0fd70b0189b531e7f08ce8a69039",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "jupiter-aggregator",
@@ -29196,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758796
+      "downloads": 758964
     },
     {
       "dir": "kimai",
@@ -36658,7 +36658,7 @@
       "store": "https://www.raycast.com/alhassanaraouf/muse-ai",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/muse-ai",
       "treeSha": "b549559e63b954814d0994d637892c979bbc8104",
-      "downloads": 1
+      "downloads": 3
     },
     {
       "dir": "music",

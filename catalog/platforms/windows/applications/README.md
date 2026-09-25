@@ -37,7 +37,7 @@
 | [AI by Vercel](https://github.com/raycast/extensions/tree/main/extensions/ai-by-vercel) | 266 | Vercel AI within Raycast | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/ai-by-vercel) |
 | [Napkin](https://github.com/raycast/extensions/tree/main/extensions/napkin) | 174 | Use Napkin AI to transform text into visual diagrams and illustrations | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/napkin) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 18 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
-| [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 1 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
+| [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 3 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
 
 ### Content & CMS Apps
 
@@ -180,5 +180,5 @@
 | [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 17 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |
 | [Near Rewards](https://github.com/raycast/extensions/tree/main/extensions/near-rewards) | 9 | Checks balance of NEAR account and its reward from staking | dmytro_sheleh | macOS, Windows | [store](https://www.raycast.com/dmytro_sheleh/near-rewards) |
 | [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) | 6 | Fast access to SayIntentions via keyboard shortcuts. Great for flight sim sessions where you don't want to speak but still want quick ATC communication. | kyleawayan | Windows, macOS | [store](https://www.raycast.com/kyleawayan/sayintentions) |
+| [Jumpseat](https://github.com/raycast/extensions/tree/main/extensions/jumpseat) | 0 | See your and your friends' upcoming Jumpseat flights at a glance. | chefski | macOS, Windows | [store](https://www.raycast.com/chefski/jumpseat) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
-| [Jumpseat](https://github.com/raycast/extensions/tree/main/extensions/jumpseat) | — | See your and your friends' upcoming Jumpseat flights at a glance. | chefski | macOS, Windows | — |

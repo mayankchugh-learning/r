@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `a0ffd142da`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-25 — upstream `b48b1a15c8`
 
 **Added (1):** [Jumpseat](https://github.com/raycast/extensions/tree/main/extensions/jumpseat)

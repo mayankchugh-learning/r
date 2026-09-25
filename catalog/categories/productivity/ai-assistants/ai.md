@@ -40,7 +40,7 @@
 | [Not Diamond](https://github.com/raycast/extensions/tree/main/extensions/not-diamond) | 404 | Not Diamond is an AI model router that automatically determines which LLM is best-suited to respond to any query, improving LLM output quality by combining mul… | dragos_nedelcu | macOS | [store](https://www.raycast.com/dragos_nedelcu/not-diamond) |
 | [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 126 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 93 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |
-| [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 1 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
+| [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 3 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
 
 ## Chat ✦
 

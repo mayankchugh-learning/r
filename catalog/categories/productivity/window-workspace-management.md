@@ -35,8 +35,8 @@
 | [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | 19 | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | [store](https://www.raycast.com/kxrbx/shell-apps) |
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 13 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 | [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | 9 | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | [store](https://www.raycast.com/Holiney/sowiks) |
+| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 1 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 1 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
-| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 0 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
 
 ## Desktop ✦
 
