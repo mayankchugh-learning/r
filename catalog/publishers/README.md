@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,271,593 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,271,595 |
 | 2 | [raycast](./id/raycast.md) | 11 | 890,470 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,964 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 559,447 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,966 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 559,448 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,881 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,826 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 452,073 |
@@ -154,7 +154,7 @@
 | 144 | [alanzchen](https://www.raycast.com/alanzchen) | 1 | 13,409 |
 | 145 | [allenan](https://www.raycast.com/allenan) | 1 | 13,305 |
 | 146 | [shubzkothekar](https://www.raycast.com/shubzkothekar) | 1 | 13,092 |
-| 147 | [xmok](./id/xmok.md) | 114 | 12,918 |
+| 147 | [xmok](./id/xmok.md) | 114 | 12,921 |
 | 148 | [xmorse](https://www.raycast.com/xmorse) | 5 | 12,853 |
 | 149 | [crickford](https://www.raycast.com/crickford) | 1 | 12,694 |
 | 150 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 12,520 |
@@ -1558,12 +1558,12 @@
 | 1548 | [chad_ashley](https://www.raycast.com/chad_ashley) | 2 | 84 |
 | 1549 | [fannarfreyr](https://www.raycast.com/fannarfreyr) | 1 | 83 |
 | 1550 | [luizkc](https://www.raycast.com/luizkc) | 1 | 83 |
-| 1551 | [xulobeats](https://www.raycast.com/xulobeats) | 1 | 83 |
-| 1552 | [craigharman](https://www.raycast.com/craigharman) | 2 | 82 |
-| 1553 | [Codrkoaz](https://www.raycast.com/Codrkoaz) | 1 | 82 |
-| 1554 | [marianbreitmeyer](https://www.raycast.com/marianbreitmeyer) | 1 | 82 |
-| 1555 | [rennesis](https://www.raycast.com/rennesis) | 1 | 82 |
-| 1556 | [rhrabun](https://www.raycast.com/rhrabun) | 1 | 82 |
+| 1551 | [rhrabun](https://www.raycast.com/rhrabun) | 1 | 83 |
+| 1552 | [xulobeats](https://www.raycast.com/xulobeats) | 1 | 83 |
+| 1553 | [craigharman](https://www.raycast.com/craigharman) | 2 | 82 |
+| 1554 | [Codrkoaz](https://www.raycast.com/Codrkoaz) | 1 | 82 |
+| 1555 | [marianbreitmeyer](https://www.raycast.com/marianbreitmeyer) | 1 | 82 |
+| 1556 | [rennesis](https://www.raycast.com/rennesis) | 1 | 82 |
 | 1557 | [alon.hearter](https://www.raycast.com/alon.hearter) | 1 | 81 |
 | 1558 | [chad_walters](https://www.raycast.com/chad_walters) | 1 | 81 |
 | 1559 | [colorage](https://www.raycast.com/colorage) | 1 | 81 |

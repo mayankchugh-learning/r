@@ -57,7 +57,7 @@
 | [rewiser_io](https://www.raycast.com/rewiser_io) | 1 | 19 | **Finance:** [Rewiser](https://github.com/raycast/extensions/tree/main/extensions/rewiser) |
 | [RG-IL](https://www.raycast.com/RG-IL) | 1 | 38 | **Developer Tools:** [Neovim](https://github.com/raycast/extensions/tree/main/extensions/neovim) |
 | [rgllm](https://www.raycast.com/rgllm) | 1 | 11 | **Finance:** [NIF - Portugal Tax Number Lookup](https://github.com/raycast/extensions/tree/main/extensions/nif) |
-| [rhrabun](https://www.raycast.com/rhrabun) | 1 | 82 | **Productivity:** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library) |
+| [rhrabun](https://www.raycast.com/rhrabun) | 1 | 83 | **Productivity:** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library) |
 | [rhuk](https://www.raycast.com/rhuk) | 2 | 269 | **Developer Tools:** [Clean Agent Text](https://github.com/raycast/extensions/tree/main/extensions/clean-agent-text), [Decimal 2 Time](https://github.com/raycast/extensions/tree/main/extensions/decimal-2-time) |
 | [RhysLees](https://www.raycast.com/RhysLees) | 1 | 162 | **Developer Tools:** [Websocket Debugging](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) |
 | [rickMcGavin](https://www.raycast.com/rickMcGavin) | 1 | 2,760 | **Developer Tools:** [SVGR](https://github.com/raycast/extensions/tree/main/extensions/svgr) |
@@ -92,7 +92,7 @@
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 5 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 998 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 718 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,964 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,966 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 20 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 632 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 4 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |

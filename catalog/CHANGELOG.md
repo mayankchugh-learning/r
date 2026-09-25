@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `ff678517a4`
+
+**Updated (1):** [Shortcut Library](https://github.com/raycast/extensions/tree/main/extensions/shortcut-library)
+
 ## 2026-09-25 — upstream `a0ffd142da`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)

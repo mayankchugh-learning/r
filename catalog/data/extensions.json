@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a0ffd142da277fbeb7864d575d375bb36885225d",
-  "generatedAt": "2026-09-25T12:05:49.997Z",
-  "downloadsRefreshedAt": "2026-09-25T12:05:49.286Z",
+  "commit": "ff678517a421538e8533030aa447420631886169",
+  "generatedAt": "2026-09-25T12:07:38.780Z",
+  "downloadsRefreshedAt": "2026-09-25T12:07:38.363Z",
   "count": 3319,
   "extensions": [
     {
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 600175
+      "downloads": 600177
     },
     {
       "dir": "color-shades",
@@ -15210,7 +15210,7 @@
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
       "treeSha": "6cdc70f51643a1cef2e2e538a91ad56710881e79",
-      "downloads": 190
+      "downloads": 193
     },
     {
       "dir": "dolar-cripto-ar",
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559447
+      "downloads": 559448
     },
     {
       "dir": "google-chrome-profiles",
@@ -29196,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758964
+      "downloads": 758966
     },
     {
       "dir": "kimai",
@@ -54091,8 +54091,8 @@
       ],
       "store": "https://www.raycast.com/rhrabun/shortcut-library",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/shortcut-library",
-      "treeSha": "6591255ffd6b1fe645daf26ecfe584dc3565b6f8",
-      "downloads": 82
+      "treeSha": "a345917e80365a0f40b9ac4ac7525c546eb9de2d",
+      "downloads": 83
     },
     {
       "dir": "shortcuts-search",
