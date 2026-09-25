@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b9c27afad9f9e1cf2531b2ddc9a38c0e6d05ab7d",
-  "generatedAt": "2026-09-25T20:11:39.288Z",
-  "downloadsRefreshedAt": "2026-09-25T20:11:37.270Z",
+  "commit": "d571a194387aa23767a6e043ab6f54df86349f3c",
+  "generatedAt": "2026-09-25T20:13:12.373Z",
+  "downloadsRefreshedAt": "2026-09-25T20:13:11.761Z",
   "count": 3319,
   "extensions": [
     {
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559895
+      "downloads": 559896
     },
     {
       "dir": "google-chrome-profiles",
@@ -29196,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 759631
+      "downloads": 759632
     },
     {
       "dir": "kimai",
@@ -38753,7 +38753,7 @@
       "description": "The fastest way to search, create and update Notion pages.",
       "author": "HenriChabrand",
       "owner": "notion",
-      "contributors": 16,
+      "contributors": 17,
       "categories": [
         "Applications",
         "Productivity"
@@ -38765,7 +38765,7 @@
       ],
       "store": "https://www.raycast.com/notion/notion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/notion",
-      "treeSha": "b7eae382bc9e13544bfabdabe77687e9332a9178",
+      "treeSha": "3960f56b8db0b57d6e35f52290d5bd23e9b9ed38",
       "downloads": 275290
     },
     {

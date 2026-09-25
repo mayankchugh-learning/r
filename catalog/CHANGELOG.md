@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `d571a19438`
+
+**Updated (1):** [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion)
+
 ## 2026-09-25 — upstream `b9c27afad9`
 
 **Updated (1):** [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg)
