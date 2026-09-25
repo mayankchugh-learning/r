@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-27 of 380 extensions · [← Windows · Productivity](./README.md)
+28 of 381 extensions · [← Windows · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@
 | [Modify Hash](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) | 272 | Batch modify the hash of media files, which can be simply used for uploading online disk to prevent censorship. | isfeng | macOS, Windows | [store](https://www.raycast.com/isfeng/modify-hash) |
 | [GetCompress](https://github.com/raycast/extensions/tree/main/extensions/getcompress) | 183 | Compress PDF, videos, images & GIFs in batches: fast, secure, local | petersamokhin | macOS, Windows | [store](https://www.raycast.com/petersamokhin/getcompress) |
 | [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 143 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
+| [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) | 64 | Search Z-Library and download books, powered by the zlib CLI. | materialcritic | macOS, Windows | [store](https://www.raycast.com/materialcritic/zlib-search) |
 | [File Tidy](https://github.com/raycast/extensions/tree/main/extensions/file-tidy) | 59 | Organize folders into prefixed category archives with byte-level dedup, near-duplicate and similar-image detection, and one-step undo | fhf1121 | macOS, Windows | [store](https://www.raycast.com/fhf1121/file-tidy) |
 | [Papra](https://github.com/raycast/extensions/tree/main/extensions/papra) | 50 | Simple & Secure Document Archiving for Long-Term Storage | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/papra) |
 | [Manifest Viewer](https://github.com/raycast/extensions/tree/main/extensions/manifest-viewer) | 49 | View and navigate HLS/DASH manifest files with keyboard navigation to child variant playlists | stonko1994 | macOS, Windows | [store](https://www.raycast.com/stonko1994/manifest-viewer) |

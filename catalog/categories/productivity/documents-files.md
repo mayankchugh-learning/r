@@ -91,7 +91,7 @@
 | [Tails](https://github.com/raycast/extensions/tree/main/extensions/tails) | 143 | Download media from YouTube, Instagram, and more | iambtshft | macOS, Windows | [store](https://www.raycast.com/iambtshft/tails) |
 | [File Provider Progress](https://github.com/raycast/extensions/tree/main/extensions/file-provider-progress) | 79 | Show macOS File Provider upload, download, indexing, and health status. | finite | macOS | [store](https://www.raycast.com/finite/file-provider-progress) |
 | [VPS Explorer](https://github.com/raycast/extensions/tree/main/extensions/vps-explorer) | 72 | Browse, upload, download, and manage files on your VPS via Raycast! | Abdullah-Dev115 | macOS | [store](https://www.raycast.com/Abdullah-Dev115/vps-explorer) |
-| [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) | 64 | Search Z-Library and download books, powered by the zlib CLI. | materialcritic | macOS | [store](https://www.raycast.com/materialcritic/zlib-search) |
+| [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search) | 64 | Search Z-Library and download books, powered by the zlib CLI. | materialcritic | macOS, Windows | [store](https://www.raycast.com/materialcritic/zlib-search) |
 | [Podcast Downloader](https://github.com/raycast/extensions/tree/main/extensions/podcast-downloader) | 25 | Find podcast episodes, copy their audio URLs, and download them. | volkmar_eich | macOS, Windows | [store](https://www.raycast.com/volkmar_eich/podcast-downloader) |
 
 ## Upload ✦

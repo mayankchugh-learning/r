@@ -91,7 +91,7 @@
 | [alexs](https://www.raycast.com/alexs) | 3 | 287 | **Finance:** [Invoice Generator](https://github.com/raycast/extensions/tree/main/extensions/invoice-generator), [Rewardful](https://github.com/raycast/extensions/tree/main/extensions/rewardful)<br>**Productivity:** [Make with Notion 2024](https://github.com/raycast/extensions/tree/main/extensions/make-with-notion-2024) |
 | [alexstrnik](https://www.raycast.com/alexstrnik) | 2 | 1,569 | **Media:** [Yandex Music](https://github.com/raycast/extensions/tree/main/extensions/yandex-music)<br>**Fun:** [Helldivers 2](https://github.com/raycast/extensions/tree/main/extensions/helldivers2) |
 | [alfredmouelle](https://www.raycast.com/alfredmouelle) | 1 | 27 | **Productivity:** [Remo](https://github.com/raycast/extensions/tree/main/extensions/remo-notes) |
-| [alhassanaraouf](https://www.raycast.com/alhassanaraouf) | 1 | 0 | **Productivity:** [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) |
+| [alhassanaraouf](https://www.raycast.com/alhassanaraouf) | 1 | 1 | **Productivity:** [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) |
 | [alice.ellis](https://www.raycast.com/alice.ellis) | 1 | 604 | **Productivity:** [CJK Text Format Improver](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) |
 | [alikhatibak](https://www.raycast.com/alikhatibak) | 1 | 2,361 | **Developer Tools:** [Tmux Cheatsheet](https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet) |
 | [alikhil](https://www.raycast.com/alikhil) | 1 | 38 | **Productivity:** [SingularityApp](https://github.com/raycast/extensions/tree/main/extensions/singularityapp) |
