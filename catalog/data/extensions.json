@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e835ff15884a3763b8a7965bbda116abf4c313ac",
-  "generatedAt": "2026-09-25T14:26:47.204Z",
-  "downloadsRefreshedAt": "2026-09-25T14:26:46.606Z",
+  "commit": "c93abcea94a2087097bb9ba8b80aa7510b9a6e09",
+  "generatedAt": "2026-09-25T14:28:39.586Z",
+  "downloadsRefreshedAt": "2026-09-25T14:28:39.158Z",
   "count": 3319,
   "extensions": [
     {
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 600391
+      "downloads": 600393
     },
     {
       "dir": "color-shades",
@@ -15209,8 +15209,8 @@
       ],
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
-      "treeSha": "6cdc70f51643a1cef2e2e538a91ad56710881e79",
-      "downloads": 193
+      "treeSha": "7bc7a8571a667f034d1942c4fa391c4c63b17c8d",
+      "downloads": 194
     },
     {
       "dir": "dolar-cripto-ar",
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559599
+      "downloads": 559605
     },
     {
       "dir": "google-chrome-profiles",
@@ -29196,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 759174
+      "downloads": 759179
     },
     {
       "dir": "kimai",
