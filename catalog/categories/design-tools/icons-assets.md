@@ -1,6 +1,6 @@
 # Icons & Assets
 
-35 extensions · [← Design Tools](./README.md)
+36 extensions · [← Design Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -39,3 +39,4 @@
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 21 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Central Icons](https://github.com/raycast/extensions/tree/main/extensions/central-icons) | 13 | Browse, search and export all Central icons — copy or paste SVG, code snippets, or export SVG files. | tamino-martinius | macOS | [store](https://www.raycast.com/tamino-martinius/central-icons) |
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 10 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
+| [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch) | — | Search 350,000+ SVG icons from 229 icon sets. Requires a free IconSearch account. | iconsearch | macOS, Windows | — |

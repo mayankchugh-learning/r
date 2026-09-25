@@ -1,6 +1,6 @@
 # Publishers
 
-2221 publishers · [← catalog index](../README.md)
+2222 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,270,226 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,270,227 |
 | 2 | [raycast](./id/raycast.md) | 11 | 889,636 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,212 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,904 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,213 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 558,905 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,450 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,343 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 451,672 |
@@ -2228,4 +2228,5 @@
 | 2218 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
 | 2219 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
 | 2220 | github-next | 2 | — |
-| 2221 | multi | 1 | — |
+| 2221 | iconsearch | 1 | — |
+| 2222 | multi | 1 | — |

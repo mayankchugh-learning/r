@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `3543dc5e4d`
+
+**Added (1):** [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch)
+
 ## 2026-09-25 — upstream `f0dffdddb5`
 
 **Added (1):** [Rubiks Cube Timer](https://github.com/raycast/extensions/tree/main/extensions/rubiks-cube-timer)

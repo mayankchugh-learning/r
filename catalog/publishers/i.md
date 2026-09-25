@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · **I** · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-61 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+62 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -20,6 +20,7 @@
 | [iaroslav_naiden](https://www.raycast.com/iaroslav_naiden) | 2 | 2,734 | **System:** [Uptime](https://github.com/raycast/extensions/tree/main/extensions/uptime), [Network Menubar Monitor](https://github.com/raycast/extensions/tree/main/extensions/network-menubar-monitor) |
 | [ibll](https://www.raycast.com/ibll) | 1 | 1,677 | **Media:** [Image Wallet](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) |
 | [ickas](https://www.raycast.com/ickas) | 2 | 1,799 | **Design Tools:** [Aspect Raytio](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio)<br>**Developer Tools:** [Time Teller](https://github.com/raycast/extensions/tree/main/extensions/time-teller) |
+| iconsearch | 1 | — | **Design Tools:** [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch) |
 | [IdeaBridge](https://www.raycast.com/IdeaBridge) | 1 | 89 | **Productivity:** [SpaceJump](https://github.com/raycast/extensions/tree/main/extensions/spacejump) |
 | [Idered](https://www.raycast.com/Idered) | 1 | 4,221 | **Developer Tools:** [Transform](https://github.com/raycast/extensions/tree/main/extensions/transform) |
 | [idleberg](https://www.raycast.com/idleberg) | 1 | 11 | **Documentation:** [NSIS Reference](https://github.com/raycast/extensions/tree/main/extensions/nsis-reference) |
