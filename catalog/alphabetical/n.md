@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · **N** · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-112 extensions · [← catalog index](../README.md)
+113 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -118,3 +118,4 @@
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
 | [Nbnhhsh – Chinese Abbreviations](https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh) | 0 | Decode Chinese pinyin abbreviations and internet slang with 能不能好好说话 (nbnhhsh). | Astatine-213 | macOS | [store](https://www.raycast.com/Astatine-213/nbnhhsh) |
 | [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu) | 0 | Today's and this week's NUST hostel mess menu. | muhammadaljoufi | macOS | [store](https://www.raycast.com/muhammadaljoufi/nust-mess-menu) |
+| [Number Formatter](https://github.com/raycast/extensions/tree/main/extensions/number-formatter) | — | Quickly understand and copy numbers in familiar, locale-aware formats. | dydent | macOS, Windows | — |

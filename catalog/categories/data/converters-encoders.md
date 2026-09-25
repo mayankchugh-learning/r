@@ -1,8 +1,8 @@
 # Converters & Encoders
 
-23 extensions · [← Data](./README.md)
+24 extensions · [← Data](./README.md)
 
-[Json ✦](#json) (7) · [Format ✦](#format) (4) · [General](#general) (12)
+[Json ✦](#json) (7) · [Format ✦](#format) (5) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -26,6 +26,7 @@
 | [Archiver](https://github.com/raycast/extensions/tree/main/extensions/archiver) | 3,078 | An archive tool for compressing or extracting, supporting multiple formats. | JinShi | macOS | [store](https://www.raycast.com/JinShi/archiver) |
 | [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 1,096 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
 | [Array This](https://github.com/raycast/extensions/tree/main/extensions/array-this) | 629 | Format list of items into an array. | matheus_de_paula_domingos | macOS | [store](https://www.raycast.com/matheus_de_paula_domingos/array-this) |
+| [Number Formatter](https://github.com/raycast/extensions/tree/main/extensions/number-formatter) | — | Quickly understand and copy numbers in familiar, locale-aware formats. | dydent | macOS, Windows | — |
 
 ## General
 

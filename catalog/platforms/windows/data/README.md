@@ -1,8 +1,8 @@
 # Windows · Data
 
-93 extensions · [← Windows](../README.md)
+94 extensions · [← Windows](../README.md)
 
-[Converters & Encoders](#converters-encoders) (7) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (1) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (2) · [Trackers & Monitors](#trackers-monitors) (5) · [Text Processing](#text-processing) (4) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (7) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (11) · [General](#general) (25)
+[Converters & Encoders](#converters-encoders) (8) · [Generators](#generators) (5) · [Calculators & Math](#calculators-math) (1) · [Time & Dates](#time-dates) (5) · [Crypto & Blockchain Data](#crypto-blockchain-data) (1) · [Web & Network Intelligence](#web-network-intelligence) (9) · [Games & Esports Data](#games-esports-data) (6) · [Health, Nature & Science](#health-nature-science) (2) · [Business & Databases](#business-databases) (2) · [Trackers & Monitors](#trackers-monitors) (5) · [Text Processing](#text-processing) (4) · [Weather & Environment](#weather-environment) (1) · [Files & Archives](#files-archives) (7) · [APIs & Scraping](#apis-scraping) (2) · [Lookups & References](#lookups-references) (11) · [General](#general) (25)
 
 ## Transform & Generate
 
@@ -17,6 +17,7 @@
 | [Json2TS](https://github.com/raycast/extensions/tree/main/extensions/json2ts) | 4,439 | Generate TypeScript interfaces from JSON | gbarba | macOS, Windows | [store](https://www.raycast.com/gbarba/json2ts) |
 | [Easy Variable](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) | 266 | Convert Any Language Text into an English Variable Name | keleus | macOS, Windows | [store](https://www.raycast.com/keleus/easyvariable) |
 | [Visitor Queue](https://github.com/raycast/extensions/tree/main/extensions/visitor-queue) | 19 | Identify, personalize, convert | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/visitor-queue) |
+| [Number Formatter](https://github.com/raycast/extensions/tree/main/extensions/number-formatter) | — | Quickly understand and copy numbers in familiar, locale-aware formats. | dydent | macOS, Windows | — |
 
 ### Generators
 

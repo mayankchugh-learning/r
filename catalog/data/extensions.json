@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "57e5d5ca30a01f1312537b6b0a2e2089faea7817",
-  "generatedAt": "2026-09-25T04:52:23.838Z",
-  "downloadsRefreshedAt": "2026-09-25T04:52:22.945Z",
-  "count": 3315,
+  "commit": "22dfb55926aeb62529b6cf6cbc607d33378fe6fc",
+  "generatedAt": "2026-09-25T04:58:21.278Z",
+  "downloadsRefreshedAt": "2026-09-25T04:58:20.659Z",
+  "count": 3316,
   "extensions": [
     {
       "dir": "0x0",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599633
+      "downloads": 599639
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559056
+      "downloads": 559060
     },
     {
       "dir": "google-chrome-profiles",
@@ -29154,7 +29154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758397
+      "downloads": 758405
     },
     {
       "dir": "kimai",
@@ -39142,6 +39142,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/number-facts",
       "treeSha": "9d502c3287987a9a8e040c53e42f434d0a25d290",
       "downloads": 228
+    },
+    {
+      "dir": "number-formatter",
+      "name": "number-formatter",
+      "title": "Number Formatter",
+      "description": "Quickly understand and copy numbers in familiar, locale-aware formats.",
+      "author": "dydent",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Data"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/number-formatter",
+      "treeSha": "c227d6e129bd2d5072e9cccd7ceca120700b72ca",
+      "downloads": null
     },
     {
       "dir": "number-research",

@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · **D** · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-156 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+157 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -159,6 +159,7 @@
 | [dustintchambers](https://www.raycast.com/dustintchambers) | 1 | 25 | **Media:** [Magic Ingest](https://github.com/raycast/extensions/tree/main/extensions/magic-ingest) |
 | [dutzi](https://www.raycast.com/dutzi) | 1 | 9,641 | **Design Tools:** [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) |
 | [dvhsh](https://www.raycast.com/dvhsh) | 1 | 1,144 | **Developer Tools:** [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) |
+| dydent | 1 | — | **Data:** [Number Formatter](https://github.com/raycast/extensions/tree/main/extensions/number-formatter) |
 | [dytsou](https://www.raycast.com/dytsou) | 1 | 128 | **Developer Tools:** [Rsync File Transfer](https://github.com/raycast/extensions/tree/main/extensions/raycast-rsync-extension) |
 | [dzg-studio](https://www.raycast.com/dzg-studio) | 1 | 16 | **Productivity:** [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) |
 | [dziad](https://www.raycast.com/dziad) | 1 | 35,697 | **System:** [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) |
