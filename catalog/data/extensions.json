@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2e27a08f722bdaaed8e4bee75b1ed0514e97fcf4",
-  "generatedAt": "2026-09-25T03:37:37.872Z",
-  "downloadsRefreshedAt": "2026-09-25T03:37:36.998Z",
+  "commit": "2d863c73deed5a3796e7eddea2515c101d483533",
+  "generatedAt": "2026-09-25T03:40:39.962Z",
+  "downloadsRefreshedAt": "2026-09-25T03:40:39.229Z",
   "count": 3315,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599577
+      "downloads": 599581
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559014
+      "downloads": 559015
     },
     {
       "dir": "google-chrome-profiles",
@@ -29154,7 +29154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758341
+      "downloads": 758345
     },
     {
       "dir": "kimai",
@@ -68988,7 +68988,7 @@
       "description": "Search and open recent projects from Zed",
       "author": "ewgenius",
       "owner": null,
-      "contributors": 10,
+      "contributors": 11,
       "categories": [
         "Developer Tools"
       ],
@@ -68999,7 +68999,7 @@
       ],
       "store": "https://www.raycast.com/ewgenius/zed-recent-projects",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects",
-      "treeSha": "dc9f742fa893244d88a28d7a64d00434fbb7c6f1",
+      "treeSha": "547a425966dfc7feaa8ab780aaf09845154d94b6",
       "downloads": 16323
     },
     {
