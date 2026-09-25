@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7b5e82828a07696c56172a538e2053f436a31bcf",
-  "generatedAt": "2026-09-25T12:10:44.157Z",
-  "downloadsRefreshedAt": "2026-09-25T12:10:43.477Z",
+  "commit": "852683b0c8cd08ac24e4d0c2daab555c778ece56",
+  "generatedAt": "2026-09-25T13:12:49.341Z",
+  "downloadsRefreshedAt": "2026-09-25T13:12:48.362Z",
   "count": 3319,
   "extensions": [
     {
@@ -6196,7 +6196,7 @@
       "description": "Integrate bookmarks from Brave, ChatGPT Atlas, Chrome, Dia, Edge, Firefox, Safari, Arc, Vivaldi, Vivaldi Snapshot, Zen, Whale, or Helium.",
       "author": "thomaslombart",
       "owner": "raycast",
-      "contributors": 17,
+      "contributors": 18,
       "categories": [
         "Web"
       ],
@@ -6207,8 +6207,8 @@
       ],
       "store": "https://www.raycast.com/raycast/browser-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks",
-      "treeSha": "d68a26f793d92ca88d81ce3e6d40a50a92b18c56",
-      "downloads": 65788
+      "treeSha": "56e9edf2eadc54f287d580ba1a847ccc9e0b1e29",
+      "downloads": 65847
     },
     {
       "dir": "browser-history",
@@ -6252,7 +6252,7 @@
       "store": "https://www.raycast.com/raghavg02/browser-router",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-router",
       "treeSha": "7457aab783186b81a391915d91907288bd955d40",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "browser-tabs",
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 600182
+      "downloads": 600269
     },
     {
       "dir": "color-shades",
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559453
+      "downloads": 559509
     },
     {
       "dir": "google-chrome-profiles",
@@ -29196,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758972
+      "downloads": 759052
     },
     {
       "dir": "kimai",
@@ -36658,7 +36658,7 @@
       "store": "https://www.raycast.com/alhassanaraouf/muse-ai",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/muse-ai",
       "treeSha": "b549559e63b954814d0994d637892c979bbc8104",
-      "downloads": 3
+      "downloads": 0
     },
     {
       "dir": "music",

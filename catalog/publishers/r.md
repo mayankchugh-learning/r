@@ -15,7 +15,7 @@
 | [raffeyang](https://www.raycast.com/raffeyang) | 2 | 7,576 | **Communication:** [WeChat](https://github.com/raycast/extensions/tree/main/extensions/wechat)<br>**Productivity:** [Chinese Numbers](https://github.com/raycast/extensions/tree/main/extensions/chinese-numbers) |
 | [RaffeYang](https://www.raycast.com/raffeyang) | 1 | 11 | **Design Tools:** [Chinese Traditional Colors](https://github.com/raycast/extensions/tree/main/extensions/chinese-traditional-colors) |
 | [Rafo94](https://www.raycast.com/Rafo94) | 1 | 11,864 | **Productivity:** [Easy OCR](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) |
-| [raghavg02](https://www.raycast.com/raghavg02) | 1 | 1 | **Productivity:** [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) |
+| [raghavg02](https://www.raycast.com/raghavg02) | 1 | 0 | **Productivity:** [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) |
 | [ragnor](https://www.raycast.com/ragnor) | 2 | 9,240 | **News:** [Product Hunt](https://github.com/raycast/extensions/tree/main/extensions/producthunt)<br>**AI:** [Huggingcast](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) |
 | [RahulatRaycast](https://www.raycast.com/RahulatRaycast) | 1 | 78 | **Design Tools:** [Geist UI Components & Hooks](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) |
 | [rahulchowdhury](https://www.raycast.com/rahulchowdhury) | 1 | 11 | **Finance:** [Ducat](https://github.com/raycast/extensions/tree/main/extensions/ducat) |
@@ -30,7 +30,7 @@
 | [rauno](https://www.raycast.com/rauno) | 1 | 1,871 | **Applications:** [(Basic) Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/bmrks) |
 | [ravi_s](https://www.raycast.com/ravi_s) | 1 | 12 | **Data:** [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) |
 | [ray_tan](https://www.raycast.com/ray_tan) | 1 | 34 | **Developer Tools:** [Auth0 Management](https://github.com/raycast/extensions/tree/main/extensions/auth0-management) |
-| [raycast](./id/raycast.md) | 11 | 890,470 | [see all 11 →](./id/raycast.md) |
+| [raycast](./id/raycast.md) | 11 | 890,529 | [see all 11 →](./id/raycast.md) |
 | [raycast_0ukl](https://www.raycast.com/raycast_0ukl) | 1 | 6 | **Developer Tools:** [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) |
 | [Raynold](https://www.raycast.com/Raynold) | 1 | 9 | **Productivity:** [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) |
 | [raz_gaon](https://www.raycast.com/raz_gaon) | 1 | 1,135 | **Productivity:** [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) |
@@ -92,7 +92,7 @@
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 5 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 998 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 718 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,972 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 759,052 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 20 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 632 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 4 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |

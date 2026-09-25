@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `852683b0c8`
+
+**Updated (1):** [Browser Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks)
+
 ## 2026-09-25 — upstream `7b5e82828a`
 
 **Updated (1):** [My Daily Log](https://github.com/raycast/extensions/tree/main/extensions/my-daily-log)
