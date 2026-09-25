@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 328,283 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
+| [Slack](https://github.com/raycast/extensions/tree/main/extensions/slack) | 328,616 | Search for chats, see unread messages, snooze notifications, and set your presence status. | mommertf | macOS, Windows | [store](https://www.raycast.com/mommertf/slack) |
 | [Trello](https://github.com/raycast/extensions/tree/main/extensions/trello) | 6,729 | Manage Trello boards, lists, and cards from Raycast | ChrisChinchilla | macOS, Windows | [store](https://www.raycast.com/ChrisChinchilla/trello) |
 | [Team Time](https://github.com/raycast/extensions/tree/main/extensions/team-time) | 1,742 | Allows you to see what time it is in different cities/countries | david_nakhapetian | macOS, Windows | [store](https://www.raycast.com/david_nakhapetian/team-time) |
 | [Attio](https://github.com/raycast/extensions/tree/main/extensions/attio) | 232 | The next gen of CRM | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/attio) |

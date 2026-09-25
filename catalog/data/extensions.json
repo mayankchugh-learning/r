@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "781bd1c19de9808e5d2c2db164a9e732aabd58b1",
-  "generatedAt": "2026-09-25T13:20:22.762Z",
-  "downloadsRefreshedAt": "2026-09-25T13:20:21.810Z",
+  "commit": "e835ff15884a3763b8a7965bbda116abf4c313ac",
+  "generatedAt": "2026-09-25T14:26:47.204Z",
+  "downloadsRefreshedAt": "2026-09-25T14:26:46.606Z",
   "count": 3319,
   "extensions": [
     {
@@ -2603,7 +2603,7 @@
       ],
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
-      "treeSha": "2f83cc06b0cb91ac26c4ac253bb9fa12295308d2",
+      "treeSha": "40fb7588d44a7353d2d2ede1522ab7ab0eb49eda",
       "downloads": 119477
     },
     {
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 600277
+      "downloads": 600391
     },
     {
       "dir": "color-shades",
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559515
+      "downloads": 559599
     },
     {
       "dir": "google-chrome-profiles",
@@ -29196,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 759064
+      "downloads": 759174
     },
     {
       "dir": "kimai",
@@ -54972,7 +54972,7 @@
       "store": "https://www.raycast.com/mommertf/slack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/slack",
       "treeSha": "887d65b7ddd92d16568672c01d83817312602ea2",
-      "downloads": 328283
+      "downloads": 328616
     },
     {
       "dir": "slack-status",
