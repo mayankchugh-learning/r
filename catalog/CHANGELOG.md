@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `6336df31e3`
+
+**Updated (1):** [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts)
+
 ## 2026-09-25 — upstream `f5e58a0076`
 
 **Updated (1):** [Z-Library](https://github.com/raycast/extensions/tree/main/extensions/zlib-search)
