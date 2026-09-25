@@ -148,7 +148,7 @@
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 700 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 692 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [AntiSocials](https://github.com/raycast/extensions/tree/main/extensions/antisocials) | 130 | Open social media URLs via privacy-friendly frontends (X, Instagram) | danny_vogel | macOS, Windows | [store](https://www.raycast.com/danny_vogel/antisocials) |
-| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | — | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | — |
+| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 0 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
 
 ### AI Services
 

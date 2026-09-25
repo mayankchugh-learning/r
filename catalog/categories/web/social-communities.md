@@ -18,7 +18,7 @@
 | [Farcaster](https://github.com/raycast/extensions/tree/main/extensions/farcaster) | 127 | Most comprehensive extension for Farcaster. Search for casts, profiles and explore details. | artivilla | macOS | [store](https://www.raycast.com/artivilla/farcaster) |
 | [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) | 110 | Discover ENS, Farcaster, Lens and Web3 universal profiles | web3bio | macOS | [store](https://www.raycast.com/web3bio/web3bio) |
 | [Aimlab Tracker](https://github.com/raycast/extensions/tree/main/extensions/aimlab) | 11 | Track player profiles and leaderboards on Aimlab | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/aimlab) |
-| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | — | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | — |
+| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 0 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
 
 ## Social ✦
 

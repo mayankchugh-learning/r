@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f5ddb4c30ab619784bb2834085a35d2588f34ecc",
-  "generatedAt": "2026-09-25T09:57:24.607Z",
-  "downloadsRefreshedAt": "2026-09-25T09:57:24.166Z",
-  "count": 3318,
+  "commit": "b48b1a15c8efbda0746a633734116aa69ce4c57a",
+  "generatedAt": "2026-09-25T09:59:12.946Z",
+  "downloadsRefreshedAt": "2026-09-25T09:59:11.893Z",
+  "count": 3319,
   "extensions": [
     {
       "dir": "0x0",
@@ -6249,10 +6249,10 @@
       "platforms": [
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/raghavg02/browser-router",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/browser-router",
       "treeSha": "7457aab783186b81a391915d91907288bd955d40",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "browser-tabs",
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 600006
+      "downloads": 600007
     },
     {
       "dir": "color-shades",
@@ -16589,7 +16589,7 @@
       "store": "https://www.raycast.com/lachie_james/elevenlabs-tts",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts",
       "treeSha": "5cf43f4a4f54075c9946e7fac613271ba041db32",
-      "downloads": 2476
+      "downloads": 2477
     },
     {
       "dir": "elgato-key-light",
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559328
+      "downloads": 559329
     },
     {
       "dir": "google-chrome-profiles",
@@ -28293,6 +28293,27 @@
       "downloads": 1867
     },
     {
+      "dir": "jumpseat",
+      "name": "jumpseat",
+      "title": "Jumpseat",
+      "description": "See your and your friends' upcoming Jumpseat flights at a glance.",
+      "author": "chefski",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/jumpseat",
+      "treeSha": "86bd9ff003ef0fd70b0189b531e7f08ce8a69039",
+      "downloads": null
+    },
+    {
       "dir": "jupiter-aggregator",
       "name": "jup-agg",
       "title": "Jupiter Aggregator",
@@ -29175,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758795
+      "downloads": 758796
     },
     {
       "dir": "kimai",

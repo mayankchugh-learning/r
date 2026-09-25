@@ -1,6 +1,6 @@
 # Publishers
 
-2225 publishers · [← catalog index](../README.md)
+2226 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -18,7 +18,7 @@
 | 8 | [Aayush9029](./id/aayush9029.md) | 16 | 167,045 |
 | 9 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,434 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,848 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,271,424 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,271,425 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 332,306 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 452,073 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,492 |
@@ -398,8 +398,8 @@
 | 388 | [TwoMental](https://www.raycast.com/twomental) | 2 | 15 |
 | 389 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 390 | github-next | 2 | — |
-| 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,795 |
-| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 559,328 |
+| 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,796 |
+| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 559,329 |
 | 393 | [linear](https://www.raycast.com/linear) | 1 | 394,191 |
 | 394 | [mommertf](https://www.raycast.com/mommertf) | 1 | 328,283 |
 | 395 | [nhojb](https://www.raycast.com/nhojb) | 1 | 287,702 |
@@ -606,7 +606,7 @@
 | 596 | [Cronos87](https://www.raycast.com/Cronos87) | 1 | 2,569 |
 | 597 | [flornkm](https://www.raycast.com/flornkm) | 1 | 2,508 |
 | 598 | [douglas-pires](https://www.raycast.com/douglas-pires) | 1 | 2,479 |
-| 599 | [lachie_james](https://www.raycast.com/lachie_james) | 1 | 2,476 |
+| 599 | [lachie_james](https://www.raycast.com/lachie_james) | 1 | 2,477 |
 | 600 | [yf_zhang](https://www.raycast.com/yf_zhang) | 1 | 2,472 |
 | 601 | [dharamkapila](https://www.raycast.com/dharamkapila) | 1 | 2,444 |
 | 602 | [zkondor](https://www.raycast.com/zkondor) | 1 | 2,436 |
@@ -2229,7 +2229,8 @@
 | 2219 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2220 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
 | 2221 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2222 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2223 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2224 | multi | 1 | — |
-| 2225 | raghavg02 | 1 | — |
+| 2222 | [raghavg02](https://www.raycast.com/raghavg02) | 1 | 0 |
+| 2223 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2224 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2225 | chefski | 1 | — |
+| 2226 | multi | 1 | — |

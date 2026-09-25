@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · **J** · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-45 extensions · [← catalog index](../README.md)
+46 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -51,3 +51,4 @@
 | [Just](https://github.com/raycast/extensions/tree/main/extensions/just) | 5 | Quickly access justfile recipes from Raycast | alastairsounds | macOS | [store](https://www.raycast.com/alastairsounds/just) |
 | [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 2 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
 | [Jotaid](https://github.com/raycast/extensions/tree/main/extensions/jotaid) | 1 | Search your Jotaid notes and send anything you are reading straight to the Inbox. | leeron | macOS | [store](https://www.raycast.com/leeron/jotaid) |
+| [Jumpseat](https://github.com/raycast/extensions/tree/main/extensions/jumpseat) | — | See your and your friends' upcoming Jumpseat flights at a glance. | chefski | macOS, Windows | — |

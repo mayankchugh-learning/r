@@ -1,8 +1,8 @@
 # Windows · Applications
 
-90 extensions · [← Windows](../README.md)
+91 extensions · [← Windows](../README.md)
 
-[AI & Chat Apps](#ai-chat-apps) (6) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (7) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (8) · [Automation & Input Apps](#automation-input-apps) (2) · [Content & CMS Apps](#content-cms-apps) (1) · [Network & Connection Apps](#network-connection-apps) (3) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (2) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (9) · [General](#general) (35)
+[AI & Chat Apps](#ai-chat-apps) (6) · [Notes, PKM & Study Apps](#notes-pkm-study-apps) (7) · [Productivity & Task Apps](#productivity-task-apps) (5) · [Music & Audio Apps](#music-audio-apps) (2) · [Media & Photo Apps](#media-photo-apps) (8) · [Automation & Input Apps](#automation-input-apps) (2) · [Content & CMS Apps](#content-cms-apps) (1) · [Network & Connection Apps](#network-connection-apps) (3) · [Analytics & Stats Apps](#analytics-stats-apps) (3) · [Developer Apps](#developer-apps) (2) · [Window Managers & Utilities](#window-managers-utilities) (1) · [Apple & Built-in Apps](#apple-built-in-apps) (2) · [Files, Sync & Upload](#files-sync-upload) (3) · [Faith & Lifestyle Apps](#faith-lifestyle-apps) (1) · [Launchers & App Control](#launchers-app-control) (9) · [General](#general) (36)
 
 ## Work & Knowledge Apps
 
@@ -181,3 +181,4 @@
 | [Near Rewards](https://github.com/raycast/extensions/tree/main/extensions/near-rewards) | 9 | Checks balance of NEAR account and its reward from staking | dmytro_sheleh | macOS, Windows | [store](https://www.raycast.com/dmytro_sheleh/near-rewards) |
 | [SayIntentions](https://github.com/raycast/extensions/tree/main/extensions/sayintentions) | 6 | Fast access to SayIntentions via keyboard shortcuts. Great for flight sim sessions where you don't want to speak but still want quick ATC communication. | kyleawayan | Windows, macOS | [store](https://www.raycast.com/kyleawayan/sayintentions) |
 | [Spirii Go](https://github.com/raycast/extensions/tree/main/extensions/spirii-go) | 0 | Find nearby Spirii Go chargers, view availability, and see prices for individual chargepoints. | alexandervarney | macOS, Windows | [store](https://www.raycast.com/alexandervarney/spirii-go) |
+| [Jumpseat](https://github.com/raycast/extensions/tree/main/extensions/jumpseat) | — | See your and your friends' upcoming Jumpseat flights at a glance. | chefski | macOS, Windows | — |

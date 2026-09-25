@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `b48b1a15c8`
+
+**Added (1):** [Jumpseat](https://github.com/raycast/extensions/tree/main/extensions/jumpseat)
+
 ## 2026-09-25 — upstream `f5ddb4c30a`
 
 **Added (1):** [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router)
