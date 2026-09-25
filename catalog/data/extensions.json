@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b1c70c75a79b5e438b239614e9e1488bc866b771",
-  "generatedAt": "2026-09-25T20:03:51.434Z",
-  "downloadsRefreshedAt": "2026-09-25T20:03:51.015Z",
+  "commit": "497c1d0fa1560ef6d09217fc35c4f3596bbc76b9",
+  "generatedAt": "2026-09-25T20:05:36.787Z",
+  "downloadsRefreshedAt": "2026-09-25T20:05:36.024Z",
   "count": 3319,
   "extensions": [
     {
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 600829
+      "downloads": 600830
     },
     {
       "dir": "color-shades",
@@ -29196,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 759621
+      "downloads": 759622
     },
     {
       "dir": "kimai",
@@ -57709,7 +57709,7 @@
       ],
       "store": "https://www.raycast.com/artistro08/sunsama",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sunsama",
-      "treeSha": "a87ec5a7f3bda29b39013fefa19282f39ecfaf31",
+      "treeSha": "977bbb19f67c7d1b11763eaa14a96e109e391016",
       "downloads": 40
     },
     {

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `497c1d0fa1`
+
+**Updated (1):** [Sunsama](https://github.com/raycast/extensions/tree/main/extensions/sunsama)
+
 ## 2026-09-25 — upstream `b1c70c75a7`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
