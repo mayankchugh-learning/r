@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tower Repositories](https://github.com/raycast/extensions/tree/main/extensions/tower) | 2,613 | Navigate and open your repositories in Tower. | tdwesten | macOS | [store](https://www.raycast.com/tdwesten/tower) |
-| [Proxyman](https://github.com/raycast/extensions/tree/main/extensions/proxyman) | 2,105 | Navigate and perform common actions in Proxyman faster | noah_tran | macOS | [store](https://www.raycast.com/noah_tran/proxyman) |
+| [Tower Repositories](https://github.com/raycast/extensions/tree/main/extensions/tower) | 2,616 | Navigate and open your repositories in Tower. | tdwesten | macOS | [store](https://www.raycast.com/tdwesten/tower) |
+| [Proxyman](https://github.com/raycast/extensions/tree/main/extensions/proxyman) | 2,107 | Navigate and perform common actions in Proxyman faster | noah_tran | macOS | [store](https://www.raycast.com/noah_tran/proxyman) |
 | [Gitfox Repositories](https://github.com/raycast/extensions/tree/main/extensions/gitfox) | 431 | Navigate and open your repositories in Gitfox. | azlekov | macOS | [store](https://www.raycast.com/azlekov/gitfox) |
-| [WezTerm Navigator](https://github.com/raycast/extensions/tree/main/extensions/wezterm-navigator) | 150 | Navigate, manage, and switch between WezTerm tabs, panes, and workspaces directly from Raycast | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/wezterm-navigator) |
+| [WezTerm Navigator](https://github.com/raycast/extensions/tree/main/extensions/wezterm-navigator) | 151 | Navigate, manage, and switch between WezTerm tabs, panes, and workspaces directly from Raycast | louishuyng | macOS | [store](https://www.raycast.com/louishuyng/wezterm-navigator) |

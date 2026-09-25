@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `8183012059`
+
+**Updated (1):** [Text Enhance](https://github.com/raycast/extensions/tree/main/extensions/text-enhance)
+
 ## 2026-09-25 — upstream `c93abcea94`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
