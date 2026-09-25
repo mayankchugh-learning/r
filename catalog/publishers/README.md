@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,273,053 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,273,070 |
 | 2 | [raycast](./id/raycast.md) | 11 | 891,275 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 759,683 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 559,939 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 759,697 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 559,943 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 489,341 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 485,334 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 452,465 |
@@ -140,7 +140,7 @@
 | 130 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,659 |
 | 131 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,485 |
 | 132 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 15,474 |
-| 133 | [frouo](https://www.raycast.com/frouo) | 1 | 15,165 |
+| 133 | [frouo](https://www.raycast.com/frouo) | 1 | 15,178 |
 | 134 | [tbrown](https://www.raycast.com/tbrown) | 1 | 15,124 |
 | 135 | [louishuyng](https://www.raycast.com/louishuyng) | 4 | 14,993 |
 | 136 | [ryan](https://www.raycast.com/ryan) | 1 | 14,760 |
@@ -245,7 +245,7 @@
 | 235 | [xjo_nd](https://www.raycast.com/xjo_nd) | 3 | 6,197 |
 | 236 | [ricoberger](https://www.raycast.com/ricoberger) | 3 | 6,135 |
 | 237 | [harumeri](https://www.raycast.com/harumeri) | 1 | 6,095 |
-| 238 | [karbassi](https://www.raycast.com/karbassi) | 1 | 6,005 |
+| 238 | [karbassi](https://www.raycast.com/karbassi) | 1 | 6,006 |
 | 239 | [tarikyildizci](https://www.raycast.com/tarikyildizci) | 1 | 5,997 |
 | 240 | [iwfan](https://www.raycast.com/iwfan) | 2 | 5,976 |
 | 241 | [ernest0n](https://www.raycast.com/ernest0n) | 6 | 5,974 |

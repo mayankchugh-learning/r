@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "afd5146ea4ac2e38db3de798142f7f7b88ffeb89",
-  "generatedAt": "2026-09-25T21:07:39.704Z",
-  "downloadsRefreshedAt": "2026-09-25T21:07:39.392Z",
+  "commit": "9d0b6019d9bb9d3582371b65a93a288bc1fce430",
+  "generatedAt": "2026-09-25T21:27:52.379Z",
+  "downloadsRefreshedAt": "2026-09-25T21:27:51.485Z",
   "count": 3320,
   "extensions": [
     {
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "f815d610d7412d6dac89541ab6c00eebe6e5827e",
-      "downloads": 600896
+      "downloads": 600913
     },
     {
       "dir": "color-shades",
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559939
+      "downloads": 559943
     },
     {
       "dir": "google-chrome-profiles",
@@ -22736,19 +22736,18 @@
       "description": "Switch between Chrome profiles and access their bookmarks instantly",
       "author": "frouo",
       "owner": null,
-      "contributors": 6,
+      "contributors": 7,
       "categories": [
-        "Productivity",
         "Web"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
         "macOS"
       ],
       "store": "https://www.raycast.com/frouo/google-chrome-profiles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles",
-      "treeSha": "d87ec0c7741afb089c208bf80a330476b59f129b",
-      "downloads": 15165
+      "treeSha": "97e9a833e1bf01c66a8a9670ab805f70d4abaea3",
+      "downloads": 15178
     },
     {
       "dir": "google-cloud-platform-search",
@@ -29196,7 +29195,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 759683
+      "downloads": 759697
     },
     {
       "dir": "kimai",
@@ -46817,7 +46816,7 @@
       "store": "https://www.raycast.com/karbassi/quick-call",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/quick-call",
       "treeSha": "7d37974c6f5229a6d8dd2f1d7397f5bd48c5a2a8",
-      "downloads": 6005
+      "downloads": 6006
     },
     {
       "dir": "quick-event",

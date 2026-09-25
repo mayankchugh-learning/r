@@ -18,7 +18,7 @@
 | 8 | [Aayush9029](./id/aayush9029.md) | 16 | 167,185 |
 | 9 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,450 |
 | 10 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,849 |
-| 11 | [thomas](./id/thomas.md) | 15 | 1,273,053 |
+| 11 | [thomas](./id/thomas.md) | 15 | 1,273,070 |
 | 12 | [vimtor](./id/vimtor.md) | 15 | 332,577 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 452,465 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,513 |
@@ -398,8 +398,8 @@
 | 388 | [TwoMental](https://www.raycast.com/twomental) | 2 | 15 |
 | 389 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 390 | github-next | 2 | — |
-| 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 759,683 |
-| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 559,939 |
+| 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 759,697 |
+| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 559,943 |
 | 393 | [linear](https://www.raycast.com/linear) | 1 | 394,664 |
 | 394 | [mommertf](https://www.raycast.com/mommertf) | 1 | 328,725 |
 | 395 | [nhojb](https://www.raycast.com/nhojb) | 1 | 287,973 |
@@ -447,7 +447,7 @@
 | 437 | [kom](https://www.raycast.com/kom) | 1 | 16,603 |
 | 438 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,659 |
 | 439 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,485 |
-| 440 | [frouo](https://www.raycast.com/frouo) | 1 | 15,165 |
+| 440 | [frouo](https://www.raycast.com/frouo) | 1 | 15,178 |
 | 441 | [tbrown](https://www.raycast.com/tbrown) | 1 | 15,124 |
 | 442 | [ryan](https://www.raycast.com/ryan) | 1 | 14,760 |
 | 443 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,713 |
@@ -501,7 +501,7 @@
 | 491 | [asportnoy](https://www.raycast.com/asportnoy) | 1 | 6,347 |
 | 492 | [indykoning](https://www.raycast.com/indykoning) | 1 | 6,304 |
 | 493 | [harumeri](https://www.raycast.com/harumeri) | 1 | 6,095 |
-| 494 | [karbassi](https://www.raycast.com/karbassi) | 1 | 6,005 |
+| 494 | [karbassi](https://www.raycast.com/karbassi) | 1 | 6,006 |
 | 495 | [tarikyildizci](https://www.raycast.com/tarikyildizci) | 1 | 5,997 |
 | 496 | [SonicSpark](https://www.raycast.com/SonicSpark) | 1 | 5,546 |
 | 497 | [creasty](https://www.raycast.com/creasty) | 1 | 5,535 |

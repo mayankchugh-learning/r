@@ -17,7 +17,7 @@
 | [kall](https://www.raycast.com/kall) | 1 | 4,018 | **Applications:** [MacUpdater](https://github.com/raycast/extensions/tree/main/extensions/macupdater) |
 | [Kami](https://www.raycast.com/Kami) | 1 | 108 | **Developer Tools:** [Looped](https://github.com/raycast/extensions/tree/main/extensions/looped) |
 | [Kang](https://www.raycast.com/Kang) | 3 | 65,744 | **System:** [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip)<br>**Developer Tools:** [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox)<br>**Data:** [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) |
-| [karbassi](https://www.raycast.com/karbassi) | 1 | 6,005 | **Communication:** [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) |
+| [karbassi](https://www.raycast.com/karbassi) | 1 | 6,006 | **Communication:** [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) |
 | [karelvuong](https://www.raycast.com/karelvuong) | 1 | 277 | **Developer Tools:** [QMD](https://github.com/raycast/extensions/tree/main/extensions/qmd) |
 | [karolusd](https://www.raycast.com/karolusd) | 1 | 1,478 | **Media:** [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) |
 | [karthik](https://www.raycast.com/karthik) | 1 | 1,445 | **System:** [Hellonext Wallpapers](https://github.com/raycast/extensions/tree/main/extensions/hellonext-wallpapers) |
