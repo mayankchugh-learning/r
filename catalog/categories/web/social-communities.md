@@ -1,8 +1,8 @@
 # Social & Communities
 
-25 extensions · [← Web](./README.md)
+26 extensions · [← Web](./README.md)
 
-[Profiles ✦](#profiles) (8) · [Social ✦](#social) (5) · [Posts ✦](#posts) (5) · [General](#general) (7)
+[Profiles ✦](#profiles) (9) · [Social ✦](#social) (5) · [Posts ✦](#posts) (5) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -18,6 +18,7 @@
 | [Farcaster](https://github.com/raycast/extensions/tree/main/extensions/farcaster) | 127 | Most comprehensive extension for Farcaster. Search for casts, profiles and explore details. | artivilla | macOS | [store](https://www.raycast.com/artivilla/farcaster) |
 | [Web3.bio](https://github.com/raycast/extensions/tree/main/extensions/web3bio) | 110 | Discover ENS, Farcaster, Lens and Web3 universal profiles | web3bio | macOS | [store](https://www.raycast.com/web3bio/web3bio) |
 | [Aimlab Tracker](https://github.com/raycast/extensions/tree/main/extensions/aimlab) | 11 | Track player profiles and leaderboards on Aimlab | Whitespace | macOS | [store](https://www.raycast.com/Whitespace/aimlab) |
+| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | — | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | — |
 
 ## Social ✦
 

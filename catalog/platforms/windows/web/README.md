@@ -1,8 +1,8 @@
 # Windows · Web
 
-143 extensions · [← Windows](../README.md)
+144 extensions · [← Windows](../README.md)
 
-[AI Services](#ai-services) (16) · [Social & Communities](#social-communities) (6) · [Search Engines](#search-engines) (50) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (21) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
+[AI Services](#ai-services) (16) · [Social & Communities](#social-communities) (7) · [Search Engines](#search-engines) (50) · [Bookmarks & Read Later](#bookmarks-read-later) (2) · [URL & Domain Tools](#url-domain-tools) (21) · [Browsers & Tabs](#browsers-tabs) (2) · [Crypto & Markets](#crypto-markets) (1) · [Screenshots & Capture](#screenshots-capture) (2) · [Monitoring & SEO](#monitoring-seo) (5) · [Downloads & Torrents](#downloads-torrents) (2) · [Web Apps & Services](#web-apps-services) (4) · [General](#general) (32)
 
 ## Browse & Search
 
@@ -148,6 +148,7 @@
 | [Substack](https://github.com/raycast/extensions/tree/main/extensions/substack) | 700 | Search Substack posts and profiles from Raycast | j3lte | macOS, Windows | [store](https://www.raycast.com/j3lte/substack) |
 | [Mastodon](https://github.com/raycast/extensions/tree/main/extensions/mastodon) | 692 | Publish status from Raycast to Mastodon, and view your bookmarked status | SevicheCC | macOS, Windows | [store](https://www.raycast.com/SevicheCC/mastodon) |
 | [AntiSocials](https://github.com/raycast/extensions/tree/main/extensions/antisocials) | 130 | Open social media URLs via privacy-friendly frontends (X, Instagram) | danny_vogel | macOS, Windows | [store](https://www.raycast.com/danny_vogel/antisocials) |
+| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | — | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | — |
 
 ### AI Services
 

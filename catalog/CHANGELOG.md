@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `f5ddb4c30a`
+
+**Added (1):** [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router)
+
 ## 2026-09-25 — upstream `6336df31e3`
 
 **Updated (1):** [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts)

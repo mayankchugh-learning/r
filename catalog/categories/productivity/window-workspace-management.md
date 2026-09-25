@@ -1,12 +1,12 @@
 # Window & Workspace Management
 
-57 extensions · [← Productivity](./README.md)
+58 extensions · [← Productivity](./README.md)
 
-[Window ✦](#window) (26) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (8) · [General](#general) (13)
+[Windows ✦](#windows) (27) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (8) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
-## Window ✦
+## Windows ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -36,6 +36,7 @@
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 13 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 | [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | 9 | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | [store](https://www.raycast.com/Holiney/sowiks) |
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 1 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
+| [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | — | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | — |
 
 ## Desktop ✦
 
