@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `5ad6fc3398`
+
+**Updated (1):** [Quick Event](https://github.com/raycast/extensions/tree/main/extensions/quick-event)
+
 ## 2026-09-25 — upstream `6a7c51a6e5`
 
 **Updated (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
