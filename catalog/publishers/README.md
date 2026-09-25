@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | 1 | [thomas](./id/thomas.md) | 15 | 1,270,366 |
 | 2 | [raycast](./id/raycast.md) | 11 | 889,636 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,345 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,347 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 559,015 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,450 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,343 |
@@ -130,7 +130,7 @@
 | 120 | [timoransky](https://www.raycast.com/timoransky) | 4 | 17,405 |
 | 121 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,403 |
 | 122 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 16,829 |
-| 123 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,796 |
+| 123 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,825 |
 | 124 | [tailscale](https://www.raycast.com/tailscale) | 1 | 16,796 |
 | 125 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 16,756 |
 | 126 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,692 |
@@ -322,7 +322,7 @@
 | 312 | [ahmedivy](https://www.raycast.com/ahmedivy) | 1 | 3,700 |
 | 313 | [mSarheed](https://www.raycast.com/mSarheed) | 9 | 3,697 |
 | 314 | [mikqi](https://www.raycast.com/mikqi) | 1 | 3,697 |
-| 315 | [plonq](https://www.raycast.com/plonq) | 1 | 3,676 |
+| 315 | [plonq](https://www.raycast.com/plonq) | 1 | 3,677 |
 | 316 | [pingdotgg](https://www.raycast.com/pingdotgg) | 1 | 3,658 |
 | 317 | [sc0](https://www.raycast.com/sc0) | 1 | 3,656 |
 | 318 | [cheslip](https://www.raycast.com/cheslip) | 1 | 3,655 |

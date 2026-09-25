@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `1fc445c9d2`
+
+**Updated (1):** [TextArray](https://github.com/raycast/extensions/tree/main/extensions/textarray)
+
 ## 2026-09-25 — upstream `2d863c73de`
 
 **Updated (1):** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects)

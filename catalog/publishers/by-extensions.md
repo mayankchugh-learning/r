@@ -110,7 +110,7 @@
 | 100 | [isfeng](https://www.raycast.com/isfeng) | 3 | 39,996 |
 | 101 | [hmarr](https://www.raycast.com/hmarr) | 3 | 25,347 |
 | 102 | [ilian](https://www.raycast.com/ilian) | 3 | 17,440 |
-| 103 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,796 |
+| 103 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,825 |
 | 104 | [fernando_barrios](https://www.raycast.com/fernando_barrios) | 3 | 14,626 |
 | 105 | [Quentin23Soleil](https://www.raycast.com/Quentin23Soleil) | 3 | 11,726 |
 | 106 | [zavbala](https://www.raycast.com/zavbala) | 3 | 10,707 |
@@ -398,7 +398,7 @@
 | 388 | [TwoMental](https://www.raycast.com/twomental) | 2 | 15 |
 | 389 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 390 | github-next | 2 | — |
-| 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,345 |
+| 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,347 |
 | 392 | [Codely](https://www.raycast.com/Codely) | 1 | 559,015 |
 | 393 | [linear](https://www.raycast.com/linear) | 1 | 393,731 |
 | 394 | [mommertf](https://www.raycast.com/mommertf) | 1 | 327,940 |
@@ -548,7 +548,7 @@
 | 538 | [kaichi](https://www.raycast.com/kaichi) | 1 | 3,705 |
 | 539 | [ahmedivy](https://www.raycast.com/ahmedivy) | 1 | 3,700 |
 | 540 | [mikqi](https://www.raycast.com/mikqi) | 1 | 3,697 |
-| 541 | [plonq](https://www.raycast.com/plonq) | 1 | 3,676 |
+| 541 | [plonq](https://www.raycast.com/plonq) | 1 | 3,677 |
 | 542 | [pingdotgg](https://www.raycast.com/pingdotgg) | 1 | 3,658 |
 | 543 | [sc0](https://www.raycast.com/sc0) | 1 | 3,656 |
 | 544 | [cheslip](https://www.raycast.com/cheslip) | 1 | 3,655 |

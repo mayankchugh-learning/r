@@ -76,7 +76,7 @@
 | [evilmouth](https://www.raycast.com/evilmouth) | 1 | 1 | **Productivity:** [CodexRunway Reset Tracker](https://github.com/raycast/extensions/tree/main/extensions/codexrunway-reset-tracker) |
 | [eviscares](https://www.raycast.com/eviscares) | 1 | 190 | **Productivity:** [MOCO](https://github.com/raycast/extensions/tree/main/extensions/moco) |
 | [evnm](https://www.raycast.com/evnm) | 1 | 7 | **Media:** [The Lot Radio](https://github.com/raycast/extensions/tree/main/extensions/the-lot-radio) |
-| [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,796 | **Developer Tools:** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects), [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch)<br>**Applications:** [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) |
+| [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,825 | **Developer Tools:** [Zed](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects), [Host Switch](https://github.com/raycast/extensions/tree/main/extensions/host-switch)<br>**Applications:** [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) |
 | [ewilderj](https://www.raycast.com/ewilderj) | 1 | 961 | **Developer Tools:** [Markdown Converter](https://github.com/raycast/extensions/tree/main/extensions/markdown-converter) |
 | [ewlcheng](https://www.raycast.com/ewlcheng) | 1 | 24,096 | **Fun:** [Reddit Search](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) |
 | [exa_ai](https://www.raycast.com/exa_ai) | 1 | 5,028 | **Developer Tools:** [Exa](https://github.com/raycast/extensions/tree/main/extensions/exa) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2d863c73deed5a3796e7eddea2515c101d483533",
-  "generatedAt": "2026-09-25T03:40:39.962Z",
-  "downloadsRefreshedAt": "2026-09-25T03:40:39.229Z",
+  "commit": "1fc445c9d24942ef310fdf9242ec1c2207470217",
+  "generatedAt": "2026-09-25T03:41:58.961Z",
+  "downloadsRefreshedAt": "2026-09-25T03:41:58.259Z",
   "count": 3315,
   "extensions": [
     {
@@ -29154,7 +29154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758345
+      "downloads": 758347
     },
     {
       "dir": "kimai",
@@ -41219,7 +41219,7 @@
       "store": "https://www.raycast.com/plonq/orion",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/orion",
       "treeSha": "f9d2eed16933ff8e5fb030f6b426e9f94e5780f4",
-      "downloads": 3676
+      "downloads": 3677
     },
     {
       "dir": "orshot",
@@ -59798,7 +59798,7 @@
       "dir": "textarray",
       "name": "textarray",
       "title": "TextArray",
-      "description": "540+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machine.",
+      "description": "650+ text tools that run locally — transform the selected text or clipboard: case, encoding, cleaning, formatting, ciphers and more. Nothing leaves your machine.",
       "author": "apptiary_com",
       "owner": null,
       "contributors": 0,
@@ -59813,7 +59813,7 @@
       ],
       "store": "https://www.raycast.com/apptiary_com/textarray",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/textarray",
-      "treeSha": "c34672920197d6527d1ba47d86eaf0a958231b86",
+      "treeSha": "78a222c96a4ca50ab89921198b14d4099d97efcb",
       "downloads": 66
     },
     {
@@ -69000,7 +69000,7 @@
       "store": "https://www.raycast.com/ewgenius/zed-recent-projects",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects",
       "treeSha": "547a425966dfc7feaa8ab780aaf09845154d94b6",
-      "downloads": 16323
+      "downloads": 16352
     },
     {
       "dir": "zefix",
