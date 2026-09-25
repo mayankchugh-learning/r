@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `2e27a08f72`
+
+**Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)
+
 ## 2026-09-25 — upstream `a02f166696`
 
 **Added (1):** [Nbnhhsh – Chinese Abbreviations](https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh)
