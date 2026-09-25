@@ -2,7 +2,7 @@
 
 [Games & Gaming](./games-gaming.md) · [AI & Generative Fun](./ai-generative-fun.md) · [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) · **Jokes & Randomness** · [Sports](./sports.md) · [Movies, TV & Anime](./movies-tv-anime.md) · [Music & Instruments](./music-instruments.md) · [Pop Culture & Fandom](./pop-culture-fandom.md) · [Generators & Toys](./generators-toys.md) · [Nature & Exploration](./nature-exploration.md) · [Wallpapers & Effects](./wallpapers-effects.md) · [Food & Drink](./food-drink.md) · [General](./general.md)
 
-30 of 278 extensions · [← macOS · Fun](./README.md)
+31 of 279 extensions · [← macOS · Fun](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -36,3 +36,4 @@
 | [Kind Words](https://github.com/raycast/extensions/tree/main/extensions/kind-words) | 48 | Random compliments and gratitude prompts to lift the mood. | tim_gailey | macOS, Windows | [store](https://www.raycast.com/tim_gailey/kind-words) |
 | [Metaphorpsum](https://github.com/raycast/extensions/tree/main/extensions/metaphorpsum) | 48 | An extension for generating random text from the metaphorpsum API. | jsumnersmith | macOS | [store](https://www.raycast.com/jsumnersmith/metaphorpsum) |
 | [MemeStash](https://github.com/raycast/extensions/tree/main/extensions/memestash) | 19 | Search a curated library of images and memes and paste the one you pick into the frontmost app. | LunarRed | macOS | [store](https://www.raycast.com/LunarRed/memestash) |
+| [Rubiks Cube Timer](https://github.com/raycast/extensions/tree/main/extensions/rubiks-cube-timer) | 0 | Time your Rubik's Cube solves with random scrambles and csTimer import/export. No account required. | nokoniko | macOS, Windows | [store](https://www.raycast.com/nokoniko/rubiks-cube-timer) |

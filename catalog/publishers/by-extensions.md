@@ -1,6 +1,6 @@
 # Publishers
 
-2220 publishers · [← catalog index](../README.md)
+2221 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -397,7 +397,7 @@
 | 387 | [TwoMental](https://www.raycast.com/twomental) | 2 | 15 |
 | 388 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 389 | github-next | 2 | — |
-| 390 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,211 |
+| 390 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,212 |
 | 391 | [Codely](https://www.raycast.com/Codely) | 1 | 558,904 |
 | 392 | [linear](https://www.raycast.com/linear) | 1 | 393,731 |
 | 393 | [mommertf](https://www.raycast.com/mommertf) | 1 | 327,940 |
@@ -2224,7 +2224,8 @@
 | 2214 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2215 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2216 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2217 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2218 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2219 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2220 | multi | 1 | — |
+| 2217 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
+| 2218 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2219 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2220 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2221 | multi | 1 | — |

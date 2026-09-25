@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `f0dffdddb5`
+
+**Added (1):** [Rubiks Cube Timer](https://github.com/raycast/extensions/tree/main/extensions/rubiks-cube-timer)
+
 ## 2026-09-25 — upstream `16f2f1c3a7`
 
 **Added (1):** [Timeatlas](https://github.com/raycast/extensions/tree/main/extensions/timeatlas)

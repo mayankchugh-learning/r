@@ -1,8 +1,8 @@
 # Jokes & Randomness
 
-30 extensions · [← Fun](./README.md)
+31 extensions · [← Fun](./README.md)
 
-[Random ✦](#random) (13) · [Facts ✦](#facts) (4) · [General](#general) (13)
+[Random ✦](#random) (14) · [Facts ✦](#facts) (4) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
@@ -23,6 +23,7 @@
 | [Cat Images](https://github.com/raycast/extensions/tree/main/extensions/get-cat-images) | 111 | Fetch random cat images | luiggircardoso | macOS | [store](https://www.raycast.com/luiggircardoso/get-cat-images) |
 | [Kind Words](https://github.com/raycast/extensions/tree/main/extensions/kind-words) | 48 | Random compliments and gratitude prompts to lift the mood. | tim_gailey | macOS, Windows | [store](https://www.raycast.com/tim_gailey/kind-words) |
 | [Metaphorpsum](https://github.com/raycast/extensions/tree/main/extensions/metaphorpsum) | 48 | An extension for generating random text from the metaphorpsum API. | jsumnersmith | macOS | [store](https://www.raycast.com/jsumnersmith/metaphorpsum) |
+| [Rubiks Cube Timer](https://github.com/raycast/extensions/tree/main/extensions/rubiks-cube-timer) | 0 | Time your Rubik's Cube solves with random scrambles and csTimer import/export. No account required. | nokoniko | macOS, Windows | [store](https://www.raycast.com/nokoniko/rubiks-cube-timer) |
 
 ## Facts ✦
 

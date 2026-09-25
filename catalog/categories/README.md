@@ -46,7 +46,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Fun](./fun/README.md) | 279 |
+| [Fun](./fun/README.md) | 280 |
 
 ### Uncategorized
 

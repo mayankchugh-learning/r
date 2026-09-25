@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "16f2f1c3a71cd63956a07fc317a6f5408d7db4a2",
-  "generatedAt": "2026-09-25T01:11:50.813Z",
-  "downloadsRefreshedAt": "2026-09-25T01:11:48.740Z",
-  "count": 3312,
+  "commit": "f0dffdddb5d538cce055a68857af3cc57c6924f7",
+  "generatedAt": "2026-09-25T01:13:40.013Z",
+  "downloadsRefreshedAt": "2026-09-25T01:13:39.128Z",
+  "count": 3313,
   "extensions": [
     {
       "dir": "0x0",
@@ -29131,7 +29131,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758211
+      "downloads": 758212
     },
     {
       "dir": "kimai",
@@ -51098,6 +51098,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/rtl-reader",
       "treeSha": "093f3d7a8f573621335e945c64140de97e40354e",
       "downloads": 42
+    },
+    {
+      "dir": "rubiks-cube-timer",
+      "name": "rubiks-cube-timer",
+      "title": "Rubiks Cube Timer",
+      "description": "Time your Rubik's Cube solves with random scrambles and csTimer import/export. No account required.",
+      "author": "nokoniko",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Fun"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": "https://www.raycast.com/nokoniko/rubiks-cube-timer",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/rubiks-cube-timer",
+      "treeSha": "0cc9aede1756d4522b7f6823b05abf111b029c43",
+      "downloads": 0
     },
     {
       "dir": "ruby-evaluate",
