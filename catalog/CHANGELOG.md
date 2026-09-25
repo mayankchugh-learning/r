@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `5da63c68e6`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-25 — upstream `21d2305dc8`
 
 **Added (1):** [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai)
