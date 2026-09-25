@@ -2,7 +2,7 @@
 
 162 extensions · [← all categories](../README.md)
 
-macOS: 162 · Windows: 46
+macOS: 162 · Windows: 47
 
 ## Visual Elements
 

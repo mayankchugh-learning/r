@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 600,830 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 600,839 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Color Casket](https://github.com/raycast/extensions/tree/main/extensions/color-casket) | 8,840 | Handy Color Utilities | slavarazum | macOS | [store](https://www.raycast.com/slavarazum/color-casket) |
 | [ColorSlurp](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) | 7,008 | Pick colors and convert them to different formats with ColorSlurp. | Jordan-Ellis | macOS | [store](https://www.raycast.com/Jordan-Ellis/colorslurp) |
 | [Polished](https://github.com/raycast/extensions/tree/main/extensions/polished) | 5,481 | Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. | lekoarts | macOS | [store](https://www.raycast.com/lekoarts/polished) |
@@ -63,7 +63,7 @@
 | [Cursors](https://github.com/raycast/extensions/tree/main/extensions/cursors) | 621 | All macOS cursors at your fingertips | storm | macOS | [store](https://www.raycast.com/storm/cursors) |
 | [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 576 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
 | [Copy GCP Icons](https://github.com/raycast/extensions/tree/main/extensions/copy-gcp-icons) | 482 | Copy Product Icons from Google Cloud Platform to Clipboard. | pomdtr | macOS | [store](https://www.raycast.com/pomdtr/copy-gcp-icons) |
-| [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg) | 403 | Search, preview, and copy 7,400+ brand SVG icons from thesvg.org | thegdsks | macOS | [store](https://www.raycast.com/thegdsks/thesvg) |
+| [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg) | 403 | Search, preview, and copy 7,400+ brand SVG icons from thesvg.org | thegdsks | macOS, Windows | [store](https://www.raycast.com/thegdsks/thesvg) |
 | [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 343 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
 | [WordPress Icon Finder](https://github.com/raycast/extensions/tree/main/extensions/wordpress-icon-finder) | 290 | It helps you search icons from the WordPress Icons Library. | javierarce | macOS | [store](https://www.raycast.com/javierarce/wordpress-icon-finder) |
 | [Asset Catalog Extractor](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) | 227 | Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/asset-catalog-extractor) |

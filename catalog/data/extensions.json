@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "497c1d0fa1560ef6d09217fc35c4f3596bbc76b9",
-  "generatedAt": "2026-09-25T20:05:36.787Z",
-  "downloadsRefreshedAt": "2026-09-25T20:05:36.024Z",
+  "commit": "b9c27afad9f9e1cf2531b2ddc9a38c0e6d05ab7d",
+  "generatedAt": "2026-09-25T20:11:39.288Z",
+  "downloadsRefreshedAt": "2026-09-25T20:11:37.270Z",
   "count": 3319,
   "extensions": [
     {
@@ -10164,7 +10164,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 600830
+      "downloads": 600839
     },
     {
       "dir": "color-shades",
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559890
+      "downloads": 559895
     },
     {
       "dir": "google-chrome-profiles",
@@ -29196,7 +29196,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 759622
+      "downloads": 759631
     },
     {
       "dir": "kimai",
@@ -35717,7 +35717,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "db13f3a8d1507b38bff4cee6c03fb46486a48061",
-      "downloads": 42341
+      "downloads": 42356
     },
     {
       "dir": "models-dev",
@@ -60312,18 +60312,19 @@
       "description": "Search, preview, and copy 7,400+ brand SVG icons from thesvg.org",
       "author": "thegdsks",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Design Tools",
         "Developer Tools"
       ],
       "manifestCategorized": true,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/thegdsks/thesvg",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/thesvg",
-      "treeSha": "490406c6a8c4b3ef9f4a956334b2e73839f7c574",
+      "treeSha": "b00dfc889b407ef6fc2bef24c5ca8b7c44133ed5",
       "downloads": 403
     },
     {

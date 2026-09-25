@@ -1,8 +1,8 @@
 # Cross-platform · Design Tools
 
-46 extensions · [← Cross-platform](../README.md)
+47 extensions · [← Cross-platform](../README.md)
 
-[AI Generation](#ai-generation) (3) · [Colors & Palettes](#colors-palettes) (6) · [Icons & Assets](#icons-assets) (15) · [Fonts & Typography](#fonts-typography) (2) · [Design Apps & Whiteboards](#design-apps-whiteboards) (2) · [Screenshots & Mockups](#screenshots-mockups) (3) · [Art & Wallpapers](#art-wallpapers) (3) · [Inspiration & Galleries](#inspiration-galleries) (1) · [General](#general) (11)
+[AI Generation](#ai-generation) (3) · [Colors & Palettes](#colors-palettes) (6) · [Icons & Assets](#icons-assets) (16) · [Fonts & Typography](#fonts-typography) (2) · [Design Apps & Whiteboards](#design-apps-whiteboards) (2) · [Screenshots & Mockups](#screenshots-mockups) (3) · [Art & Wallpapers](#art-wallpapers) (3) · [Inspiration & Galleries](#inspiration-galleries) (1) · [General](#general) (11)
 
 ## Visual Elements
 
@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 600,830 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 600,839 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,609 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 720 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [Mozaika — Decode Design Systems](https://github.com/raycast/extensions/tree/main/extensions/mozaika) | 35 | Decode any website's real design system — colors, fonts, type scale and buttons — and search a curated library of shipped product UIs, right from Raycast. | sezai_c | macOS, Windows | [store](https://www.raycast.com/sezai_c/mozaika) |
@@ -32,6 +32,7 @@
 | [Phosphor Icons](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) | 1,608 | Search, preview and copy Phosphor Icons | marinsokol | macOS, Windows | [store](https://www.raycast.com/marinsokol/phosphor-icons) |
 | [Noun Project](https://github.com/raycast/extensions/tree/main/extensions/noun-project) | 1,380 | Search for and download SVG and PNG icons from the Noun Project | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/noun-project) |
 | [Selfh.st Icons](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) | 576 | Find and use self-hosted icons from selfh.st service | greirson | macOS, Windows | [store](https://www.raycast.com/greirson/selfh-st-icons) |
+| [TheSVG](https://github.com/raycast/extensions/tree/main/extensions/thesvg) | 403 | Search, preview, and copy 7,400+ brand SVG icons from thesvg.org | thegdsks | macOS, Windows | [store](https://www.raycast.com/thegdsks/thesvg) |
 | [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 343 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 23 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 10 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
