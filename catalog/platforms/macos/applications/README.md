@@ -1,6 +1,6 @@
 # macOS · Applications
 
-375 extensions · [← macOS](../README.md)
+376 extensions · [← macOS](../README.md)
 
 ## Work & Knowledge Apps
 
@@ -8,7 +8,7 @@
 | --- | --- |
 | [Notes, PKM & Study Apps](./notes-pkm-study-apps.md) | 31 |
 | [Productivity & Task Apps](./productivity-task-apps.md) | 16 |
-| [AI & Chat Apps](./ai-chat-apps.md) | 22 |
+| [AI & Chat Apps](./ai-chat-apps.md) | 23 |
 | [Reading & Library Apps](./reading-library-apps.md) | 4 |
 | [Content & CMS Apps](./content-cms-apps.md) | 11 |
 

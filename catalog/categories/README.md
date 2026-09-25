@@ -6,8 +6,8 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Productivity](./productivity/README.md) | 1515 |
-| [Applications](./applications/README.md) | 386 |
+| [Productivity](./productivity/README.md) | 1516 |
+| [Applications](./applications/README.md) | 387 |
 | [Communication](./communication/README.md) | 160 |
 
 ### Development

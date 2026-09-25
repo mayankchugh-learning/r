@@ -1,6 +1,6 @@
 # Windows · Productivity
 
-379 extensions · [← Windows](../README.md)
+380 extensions · [← Windows](../README.md)
 
 ## Organize & Plan
 
@@ -15,7 +15,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & Assistants](./ai-assistants.md) | 33 |
+| [AI & Assistants](./ai-assistants.md) | 34 |
 | [Writing & Text Tools](./writing-text-tools.md) | 20 |
 | [Documents & Files](./documents-files.md) | 27 |
 | [Email](./email.md) | 8 |

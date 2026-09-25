@@ -1,8 +1,8 @@
 # AI ✦
 
-101 extensions · [← AI & Assistants](./README.md)
+102 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (9) · [Openai ✦](#openai) (7) · [Chat ✦](#chat) (6) · [Prompts ✦](#prompts) (4) · [Ask ✦](#ask) (5) · [General](#general) (54)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (10) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Ask ✦](#ask) (5) · [General](#general) (54)
 
 *✦ auto-discovered topic group*
 
@@ -40,6 +40,18 @@
 | [Not Diamond](https://github.com/raycast/extensions/tree/main/extensions/not-diamond) | 404 | Not Diamond is an AI model router that automatically determines which LLM is best-suited to respond to any query, improving LLM output quality by combining mul… | dragos_nedelcu | macOS | [store](https://www.raycast.com/dragos_nedelcu/not-diamond) |
 | [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 126 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 93 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |
+| [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 0 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
+
+## Chat ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,264 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
+| [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) | 747 | Search, browse, and copy AI prompts from prompts.chat - the community platform for ChatGPT and AI prompts | fka | macOS | [store](https://www.raycast.com/fka/prompts-chat) |
+| [Corcel AI](https://github.com/raycast/extensions/tree/main/extensions/corcel) | 474 | Use AI Chat and Image Generation | corcel.io | macOS | [store](https://www.raycast.com/corcel.io/corcel) |
+| [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 299 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
+| [Parachord](https://github.com/raycast/extensions/tree/main/extensions/parachord) | 35 | Control Parachord music player - play, pause, skip, search, and chat with the AI DJ | parachord | macOS | [store](https://www.raycast.com/parachord/parachord) |
+| [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) | 5 | Open or prefill one prompt in ChatGPT, Claude, Grok, and Perplexity using query URLs in your browser. | matheuscoelho3006 | macOS | [store](https://www.raycast.com/matheuscoelho3006/multi-ai-chat) |
 
 ## Openai ✦
 
@@ -52,17 +64,6 @@
 | [Read My Screen](https://github.com/raycast/extensions/tree/main/extensions/read-my-screen) | 113 | AI screenshot and browser reader: OCR, explain errors, summarize pages, and review UI with GPT-4o, Claude, or Gemini. Use region, window, or full-screen captur… | erbilnas | macOS | [store](https://www.raycast.com/erbilnas/read-my-screen) |
 | [Voice-to-Text for Windows](https://github.com/raycast/extensions/tree/main/extensions/voice-to-text-windows) | 82 | Record speech from your microphone, transcribe it with OpenAI Whisper, and clean it up with AI | rennesis | Windows | [store](https://www.raycast.com/rennesis/voice-to-text-windows) |
 | [AI Voice Studio](https://github.com/raycast/extensions/tree/main/extensions/ai-voice-studio) | 48 | Read and generate speech from Raycast with Alibaba Cloud Qwen-TTS, Xiaomi MiMo, and OpenAI voices, speed control, and focused provider defaults. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/ai-voice-studio) |
-
-## Chat ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,264 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
-| [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) | 747 | Search, browse, and copy AI prompts from prompts.chat - the community platform for ChatGPT and AI prompts | fka | macOS | [store](https://www.raycast.com/fka/prompts-chat) |
-| [Corcel AI](https://github.com/raycast/extensions/tree/main/extensions/corcel) | 474 | Use AI Chat and Image Generation | corcel.io | macOS | [store](https://www.raycast.com/corcel.io/corcel) |
-| [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 299 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
-| [Parachord](https://github.com/raycast/extensions/tree/main/extensions/parachord) | 35 | Control Parachord music player - play, pause, skip, search, and chat with the AI DJ | parachord | macOS | [store](https://www.raycast.com/parachord/parachord) |
-| [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) | 5 | Open or prefill one prompt in ChatGPT, Claude, Grok, and Perplexity using query URLs in your browser. | matheuscoelho3006 | macOS | [store](https://www.raycast.com/matheuscoelho3006/multi-ai-chat) |
 
 ## Prompts ✦
 

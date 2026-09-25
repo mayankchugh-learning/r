@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `21d2305dc8`
+
+**Added (1):** [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai)
+
 ## 2026-09-25 — upstream `d0b5d083d3`
 
 **Updated (1):** [Bento Window](https://github.com/raycast/extensions/tree/main/extensions/bento-window)

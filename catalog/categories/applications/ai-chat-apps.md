@@ -1,8 +1,8 @@
 # AI & Chat Apps
 
-22 extensions · [← Applications](./README.md)
+23 extensions · [← Applications](./README.md)
 
-[AI ✦](#ai) (16) · [OCR ✦](#ocr) (5) · [General](#general) (1)
+[AI ✦](#ai) (17) · [OCR ✦](#ocr) (5) · [General](#general) (1)
 
 *✦ auto-discovered topic group*
 
@@ -26,6 +26,7 @@
 | [Penflow AI](https://github.com/raycast/extensions/tree/main/extensions/penflow-ai) | 153 | Think & Write in English, Not your First Language (for Chinese now) | Fchen | macOS | [store](https://www.raycast.com/Fchen/penflow-ai) |
 | [Alloy](https://github.com/raycast/extensions/tree/main/extensions/alloy) | 43 | AI Prototyping for Product Management | alloyprototyping | macOS | [store](https://www.raycast.com/alloyprototyping/alloy) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 18 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
+| [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 0 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
 
 ## OCR ✦
 

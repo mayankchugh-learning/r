@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d0b5d083d382391c394a8de4c2ceb0759063ef9d",
-  "generatedAt": "2026-09-25T09:22:39.050Z",
-  "downloadsRefreshedAt": "2026-09-25T09:22:38.038Z",
-  "count": 3316,
+  "commit": "21d2305dc82836e366e17897c78e32b9f24c7eb0",
+  "generatedAt": "2026-09-25T09:25:22.986Z",
+  "downloadsRefreshedAt": "2026-09-25T09:25:22.419Z",
+  "count": 3317,
   "extensions": [
     {
       "dir": "0x0",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599955
+      "downloads": 599962
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559292
+      "downloads": 559299
     },
     {
       "dir": "google-chrome-profiles",
@@ -29154,7 +29154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758742
+      "downloads": 758749
     },
     {
       "dir": "kimai",
@@ -36595,6 +36595,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/multiviewer",
       "treeSha": "2bc385c1a9bad9b0b1966317fbf4cbada4c27479",
       "downloads": 112
+    },
+    {
+      "dir": "muse-ai",
+      "name": "muse-ai",
+      "title": "Muse AI",
+      "description": "Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands",
+      "author": "alhassanaraouf",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Applications"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/alhassanaraouf/muse-ai",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/muse-ai",
+      "treeSha": "b549559e63b954814d0994d637892c979bbc8104",
+      "downloads": 0
     },
     {
       "dir": "music",

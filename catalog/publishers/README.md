@@ -1,6 +1,6 @@
 # Publishers
 
-2223 publishers · [← catalog index](../README.md)
+2224 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,271,373 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,271,380 |
 | 2 | [raycast](./id/raycast.md) | 11 | 890,470 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,742 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 559,292 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 758,749 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 559,299 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 488,881 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 484,826 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 452,073 |
@@ -2219,15 +2219,16 @@
 | 2209 | [leeron](https://www.raycast.com/leeron) | 1 | 1 |
 | 2210 | [lyager](https://www.raycast.com/lyager) | 1 | 1 |
 | 2211 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2212 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2213 | [dydent](https://www.raycast.com/Dydent) | 1 | 0 |
-| 2214 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2215 | [iconsearch](https://www.raycast.com/iconsearch) | 1 | 0 |
-| 2216 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2217 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2218 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
-| 2219 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2220 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
-| 2221 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2222 | github-next | 2 | — |
-| 2223 | multi | 1 | — |
+| 2212 | [alhassanaraouf](https://www.raycast.com/alhassanaraouf) | 1 | 0 |
+| 2213 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2214 | [dydent](https://www.raycast.com/Dydent) | 1 | 0 |
+| 2215 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2216 | [iconsearch](https://www.raycast.com/iconsearch) | 1 | 0 |
+| 2217 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2218 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2219 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
+| 2220 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2221 | [RomiC](https://www.raycast.com/RomiC) | 1 | 0 |
+| 2222 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2223 | github-next | 2 | — |
+| 2224 | multi | 1 | — |
