@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `ae86bc4df5`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-09-25 — upstream `22dfb55926`
 
 **Added (1):** [Number Formatter](https://github.com/raycast/extensions/tree/main/extensions/number-formatter)

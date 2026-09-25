@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "22dfb55926aeb62529b6cf6cbc607d33378fe6fc",
-  "generatedAt": "2026-09-25T04:58:21.278Z",
-  "downloadsRefreshedAt": "2026-09-25T04:58:20.659Z",
+  "commit": "ae86bc4df509476b9e64fcafd3fcb6861b2d7dbb",
+  "generatedAt": "2026-09-25T08:01:03.471Z",
+  "downloadsRefreshedAt": "2026-09-25T08:01:02.849Z",
   "count": 3316,
   "extensions": [
     {
@@ -2604,7 +2604,7 @@
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
       "treeSha": "0fb0b094edb7b0cf22534776e6c06457348d276d",
-      "downloads": 119435
+      "downloads": 119449
     },
     {
       "dir": "apple-stocks-search",
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599639
+      "downloads": 599846
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559060
+      "downloads": 559210
     },
     {
       "dir": "google-chrome-profiles",
@@ -25897,7 +25897,7 @@
       "store": "https://www.raycast.com/iconsearch/iconsearch",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/iconsearch",
       "treeSha": "83b6738829c89c63c8e3e53ace18fe79eb20dbf0",
-      "downloads": 1
+      "downloads": 0
     },
     {
       "dir": "icy-veins-quicklinks",
@@ -29154,7 +29154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758405
+      "downloads": 758620
     },
     {
       "dir": "kimai",
@@ -35674,7 +35674,7 @@
       ],
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
-      "treeSha": "cc4133c5f1d12a1c498b6d9f1f0b8c6f9e33da0d",
+      "treeSha": "b4f61cfbbf38f2a9424db4c656a2fcbcbf868cf1",
       "downloads": 42308
     },
     {
@@ -39159,10 +39159,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/Dydent/number-formatter",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/number-formatter",
       "treeSha": "c227d6e129bd2d5072e9cccd7ceca120700b72ca",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "number-research",

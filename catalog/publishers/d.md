@@ -159,7 +159,7 @@
 | [dustintchambers](https://www.raycast.com/dustintchambers) | 1 | 25 | **Media:** [Magic Ingest](https://github.com/raycast/extensions/tree/main/extensions/magic-ingest) |
 | [dutzi](https://www.raycast.com/dutzi) | 1 | 9,641 | **Design Tools:** [Font Awesome](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) |
 | [dvhsh](https://www.raycast.com/dvhsh) | 1 | 1,144 | **Developer Tools:** [Catppuccin](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) |
-| dydent | 1 | — | **Data:** [Number Formatter](https://github.com/raycast/extensions/tree/main/extensions/number-formatter) |
+| [dydent](https://www.raycast.com/Dydent) | 1 | 0 | **Data:** [Number Formatter](https://github.com/raycast/extensions/tree/main/extensions/number-formatter) |
 | [dytsou](https://www.raycast.com/dytsou) | 1 | 128 | **Developer Tools:** [Rsync File Transfer](https://github.com/raycast/extensions/tree/main/extensions/raycast-rsync-extension) |
 | [dzg-studio](https://www.raycast.com/dzg-studio) | 1 | 16 | **Productivity:** [Mint](https://github.com/raycast/extensions/tree/main/extensions/mint-mac-care) |
 | [dziad](https://www.raycast.com/dziad) | 1 | 35,697 | **System:** [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) |

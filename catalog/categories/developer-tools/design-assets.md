@@ -38,7 +38,7 @@
 | [Lucide Animated](https://github.com/raycast/extensions/tree/main/extensions/lucide-animated) | 100 | Browse, search, and copy animated Lucide icons for your projects. | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/lucide-animated) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 22 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Central Icons](https://github.com/raycast/extensions/tree/main/extensions/central-icons) | 13 | Browse, search and export all Central icons — copy or paste SVG, code snippets, or export SVG files. | tamino-martinius | macOS | [store](https://www.raycast.com/tamino-martinius/central-icons) |
-| [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch) | 1 | Search 350,000+ SVG icons from 229 icon sets. Requires a free IconSearch account. | iconsearch | macOS, Windows | [store](https://www.raycast.com/iconsearch/iconsearch) |
+| [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch) | 0 | Search 350,000+ SVG icons from 229 icon sets. Requires a free IconSearch account. | iconsearch | macOS, Windows | [store](https://www.raycast.com/iconsearch/iconsearch) |
 
 ## Image ✦
 

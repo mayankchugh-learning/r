@@ -10,7 +10,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 599,639 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 599,846 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,604 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Hue Palette](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) | 720 | Painting Your World In Vibrant Hues | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/hue-palette) |
 | [PBR Assistant](https://github.com/raycast/extensions/tree/main/extensions/pbr-assistant) | 35 | This extension helps 3D artists find physically accurate PBR diffuse colors as well as IOR values. | chad_ashley | macOS, Windows | [store](https://www.raycast.com/chad_ashley/pbr-assistant) |
@@ -35,7 +35,7 @@
 | [Bootstrap Icons](https://github.com/raycast/extensions/tree/main/extensions/bootstrap-icons) | 343 | Search for Bootstrap icons | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/bootstrap-icons) |
 | [Sanity Icons](https://github.com/raycast/extensions/tree/main/extensions/sanity-icons) | 22 | Browse, copy, and download Sanity Icons | spratch | macOS, Windows | [store](https://www.raycast.com/Spratch/sanity-icons) |
 | [Soaring Symbols](https://github.com/raycast/extensions/tree/main/extensions/soaring-symbols) | 10 | Browse and search a curated collection of airline branding assets — logos, icons, and tails in SVG | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/soaring-symbols) |
-| [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch) | 1 | Search 350,000+ SVG icons from 229 icon sets. Requires a free IconSearch account. | iconsearch | macOS, Windows | [store](https://www.raycast.com/iconsearch/iconsearch) |
+| [IconSearch SVG Icons](https://github.com/raycast/extensions/tree/main/extensions/iconsearch) | 0 | Search 350,000+ SVG icons from 229 icon sets. Requires a free IconSearch account. | iconsearch | macOS, Windows | [store](https://www.raycast.com/iconsearch/iconsearch) |
 
 ### Fonts & Typography
 

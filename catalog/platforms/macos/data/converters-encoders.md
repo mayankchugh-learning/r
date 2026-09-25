@@ -29,4 +29,4 @@
 | [TikZ](https://github.com/raycast/extensions/tree/main/extensions/tikz) | 43 | Convert TikZ code to an image, to be shown in AI chat | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/tikz) |
 | [Visitor Queue](https://github.com/raycast/extensions/tree/main/extensions/visitor-queue) | 19 | Identify, personalize, convert | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/visitor-queue) |
 | [Quick Groups](https://github.com/raycast/extensions/tree/main/extensions/quick-groups) | 5 | Search and act on grouped reference data from local YAML files | neilbartlett | macOS | [store](https://www.raycast.com/neilbartlett/quick-groups) |
-| [Number Formatter](https://github.com/raycast/extensions/tree/main/extensions/number-formatter) | — | Quickly understand and copy numbers in familiar, locale-aware formats. | dydent | macOS, Windows | — |
+| [Number Formatter](https://github.com/raycast/extensions/tree/main/extensions/number-formatter) | 0 | Quickly understand and copy numbers in familiar, locale-aware formats. | dydent | macOS, Windows | [store](https://www.raycast.com/Dydent/number-formatter) |
