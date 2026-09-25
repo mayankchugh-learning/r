@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1cc97cf71e37e519034beb98fb977517a4f59c15",
-  "generatedAt": "2026-09-25T04:50:50.759Z",
-  "downloadsRefreshedAt": "2026-09-25T04:50:50.341Z",
+  "commit": "57e5d5ca30a01f1312537b6b0a2e2089faea7817",
+  "generatedAt": "2026-09-25T04:52:23.838Z",
+  "downloadsRefreshedAt": "2026-09-25T04:52:22.945Z",
   "count": 3315,
   "extensions": [
     {
@@ -2603,7 +2603,7 @@
       ],
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
-      "treeSha": "760c084a5f1d3ce7a6259f5dc61389f0beffec78",
+      "treeSha": "0fb0b094edb7b0cf22534776e6c06457348d276d",
       "downloads": 119435
     },
     {
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559055
+      "downloads": 559056
     },
     {
       "dir": "google-chrome-profiles",
