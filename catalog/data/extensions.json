@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "d571a194387aa23767a6e043ab6f54df86349f3c",
-  "generatedAt": "2026-09-25T20:13:12.373Z",
-  "downloadsRefreshedAt": "2026-09-25T20:13:11.761Z",
+  "commit": "2da5cc91368bc5b5696cace12bf68e6287d40921",
+  "generatedAt": "2026-09-25T20:14:24.707Z",
+  "downloadsRefreshedAt": "2026-09-25T20:14:23.962Z",
   "count": 3319,
   "extensions": [
     {
@@ -10152,7 +10152,7 @@
       "description": "Pick and organize colors, everywhere on your Mac",
       "author": "thomas",
       "owner": null,
-      "contributors": 14,
+      "contributors": 15,
       "categories": [
         "Design Tools"
       ],
@@ -10163,7 +10163,7 @@
       ],
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
-      "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
+      "treeSha": "f815d610d7412d6dac89541ab6c00eebe6e5827e",
       "downloads": 600839
     },
     {
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559896
+      "downloads": 559897
     },
     {
       "dir": "google-chrome-profiles",

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-25 — upstream `2da5cc9136`
+
+**Updated (1):** [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker)
+
 ## 2026-09-25 — upstream `d571a19438`
 
 **Updated (1):** [Notion](https://github.com/raycast/extensions/tree/main/extensions/notion)

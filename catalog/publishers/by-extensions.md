@@ -399,7 +399,7 @@
 | 389 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 390 | github-next | 2 | — |
 | 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 759,632 |
-| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 559,896 |
+| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 559,897 |
 | 393 | [linear](https://www.raycast.com/linear) | 1 | 394,664 |
 | 394 | [mommertf](https://www.raycast.com/mommertf) | 1 | 328,725 |
 | 395 | [nhojb](https://www.raycast.com/nhojb) | 1 | 287,973 |
