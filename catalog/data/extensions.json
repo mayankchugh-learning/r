@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ae86bc4df509476b9e64fcafd3fcb6861b2d7dbb",
-  "generatedAt": "2026-09-25T08:01:03.471Z",
-  "downloadsRefreshedAt": "2026-09-25T08:01:02.849Z",
+  "commit": "6e21698b662b4ab4ca71acafa9b279dbbbc4bf8e",
+  "generatedAt": "2026-09-25T08:15:42.338Z",
+  "downloadsRefreshedAt": "2026-09-25T08:15:41.477Z",
   "count": 3316,
   "extensions": [
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599846
+      "downloads": 599866
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559210
+      "downloads": 559222
     },
     {
       "dir": "google-chrome-profiles",
@@ -24985,8 +24985,8 @@
       ],
       "store": "https://www.raycast.com/tonka3000/homeassistant",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/homeassistant",
-      "treeSha": "225261342e3927aef8cb08b844aa4f394ff467c2",
-      "downloads": 29609
+      "treeSha": "e68ac3e26f32f73a302522b23c12253229c47a4f",
+      "downloads": 29620
     },
     {
       "dir": "homebox",
@@ -29154,7 +29154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758620
+      "downloads": 758640
     },
     {
       "dir": "kimai",
@@ -35675,7 +35675,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "b4f61cfbbf38f2a9424db4c656a2fcbcbf868cf1",
-      "downloads": 42308
+      "downloads": 42319
     },
     {
       "dir": "models-dev",
