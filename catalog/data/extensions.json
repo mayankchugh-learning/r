@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "6e21698b662b4ab4ca71acafa9b279dbbbc4bf8e",
-  "generatedAt": "2026-09-25T08:15:42.338Z",
-  "downloadsRefreshedAt": "2026-09-25T08:15:41.477Z",
+  "commit": "b2412bfe9530eb4a8212f0b3bafac23b61ef3108",
+  "generatedAt": "2026-09-25T08:16:27.761Z",
+  "downloadsRefreshedAt": "2026-09-25T08:16:26.769Z",
   "count": 3316,
   "extensions": [
     {
@@ -2603,7 +2603,7 @@
       ],
       "store": "https://www.raycast.com/raycast/apple-reminders",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/apple-reminders",
-      "treeSha": "0fb0b094edb7b0cf22534776e6c06457348d276d",
+      "treeSha": "2f83cc06b0cb91ac26c4ac253bb9fa12295308d2",
       "downloads": 119449
     },
     {
@@ -10143,7 +10143,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "e283733ad32632c679716a3981de00b0daf27247",
-      "downloads": 599866
+      "downloads": 599867
     },
     {
       "dir": "color-shades",
@@ -22706,7 +22706,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 559222
+      "downloads": 559223
     },
     {
       "dir": "google-chrome-profiles",
@@ -29154,7 +29154,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 758640
+      "downloads": 758642
     },
     {
       "dir": "kimai",
