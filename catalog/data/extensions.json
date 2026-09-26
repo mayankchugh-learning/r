@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e80d55d8a240a13a46371cf753b03834f2f8d575",
-  "generatedAt": "2026-09-26T04:43:22.853Z",
-  "downloadsRefreshedAt": "2026-09-26T04:43:22.445Z",
+  "commit": "3a901964dea4cf7bf71c14066dfc65bbcc6a774c",
+  "generatedAt": "2026-09-26T04:46:35.515Z",
+  "downloadsRefreshedAt": "2026-09-26T04:46:35.099Z",
   "count": 3320,
   "extensions": [
     {
@@ -9913,7 +9913,7 @@
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
       "treeSha": "f2fdd4077bf9bf5a561056cb5fee507b228c0154",
-      "downloads": 147646
+      "downloads": 147653
     },
     {
       "dir": "cognimemo",
@@ -22727,7 +22727,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 560180
+      "downloads": 560182
     },
     {
       "dir": "google-chrome-profiles",
@@ -64827,7 +64827,7 @@
       "dir": "vesslo",
       "name": "vesslo",
       "title": "Vesslo",
-      "description": "Search and manage apps from Vesslo",
+      "description": "Search your Vesslo app library, review updates and findings, and follow Homebrew requests from Raycast.",
       "author": "hjm79",
       "owner": null,
       "contributors": 0,
@@ -64841,7 +64841,7 @@
       ],
       "store": "https://www.raycast.com/hjm79/vesslo",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/vesslo",
-      "treeSha": "5b806358277e9fa9c3bc5c777e01d0c2e298b38d",
+      "treeSha": "db105a04c017784042f54e9b011a50c752c14c3f",
       "downloads": 24
     },
     {

@@ -1,6 +1,6 @@
 # Library ✦
 
-7 extensions · [← Search & Bookmarks](./README.md)
+8 extensions · [← Search & Bookmarks](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -11,5 +11,6 @@
 | [Readwise](https://github.com/raycast/extensions/tree/main/extensions/readwise) | 5,450 | Search and browse your Readwise Library. | natterstefan | macOS | [store](https://www.raycast.com/natterstefan/readwise) |
 | [Sublime](https://github.com/raycast/extensions/tree/main/extensions/sublime) | 1,186 | Search, discover, and add cards to your library. | sublime (org) | macOS | [store](https://www.raycast.com/sublime/sublime) |
 | [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) | 113 | Browse and search Contentful content and assets library | ewgenius | macOS | [store](https://www.raycast.com/ewgenius/contentful) |
+| [Vesslo](https://github.com/raycast/extensions/tree/main/extensions/vesslo) | 24 | Search your Vesslo app library, review updates and findings, and follow Homebrew requests from Raycast. | hjm79 | macOS | [store](https://www.raycast.com/hjm79/vesslo) |
 | [Swinsian Player](https://github.com/raycast/extensions/tree/main/extensions/swinsian-player) | 8 | Control Swinsian from Raycast. Play, pause, skip tracks, set ratings, search your library, and see what's playing in your menu bar. | deathrashed | macOS | [store](https://www.raycast.com/deathrashed/swinsian-player) |
 | [Capd](https://github.com/raycast/extensions/tree/main/extensions/capd) | 5 | Search and capture your Capd library without leaving Raycast. | jamie_davenport | macOS | [store](https://www.raycast.com/jamie_davenport/capd) |

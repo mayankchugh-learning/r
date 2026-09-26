@@ -105,7 +105,7 @@
 | [Promptty](https://github.com/raycast/extensions/tree/main/extensions/promptty) | 30 | Search, paste, and copy prompts from your Promptty library | michalkos | macOS | [store](https://www.raycast.com/michalkos/promptty) |
 | [Quikwallet](https://github.com/raycast/extensions/tree/main/extensions/quikwallet) | 26 | View Solana wallet balances and prepare transactions | devsargam | macOS | [store](https://www.raycast.com/devsargam/quikwallet) |
 | [Mouseless](https://github.com/raycast/extensions/tree/main/extensions/mouseless) | 25 | Controls the Mouseless app. Only works when using Mouseless v1.0 or later. | NextMerge | macOS, Windows | [store](https://www.raycast.com/NextMerge/mouseless) |
-| [Vesslo](https://github.com/raycast/extensions/tree/main/extensions/vesslo) | 24 | Search and manage apps from Vesslo | hjm79 | macOS | [store](https://www.raycast.com/hjm79/vesslo) |
+| [Vesslo](https://github.com/raycast/extensions/tree/main/extensions/vesslo) | 24 | Search your Vesslo app library, review updates and findings, and follow Homebrew requests from Raycast. | hjm79 | macOS | [store](https://www.raycast.com/hjm79/vesslo) |
 | [Kaneo](https://github.com/raycast/extensions/tree/main/extensions/kaneo-for-raycast) | 21 | Quickly check and manage your Kaneo projects | Baldy | Windows, macOS | [store](https://www.raycast.com/Baldy/kaneo-for-raycast) |
 | [Pumble](https://github.com/raycast/extensions/tree/main/extensions/pumble) | 21 | Interact with Pumble within the ease of Raycast. | ViGeng | macOS | [store](https://www.raycast.com/ViGeng/pumble) |
 | [IVPN](https://github.com/raycast/extensions/tree/main/extensions/ivpn) | 18 | Extension for interacting with IVPN. | boradatti | macOS | [store](https://www.raycast.com/boradatti/ivpn) |

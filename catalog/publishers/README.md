@@ -11,7 +11,7 @@
 | 1 | [thomas](./id/thomas.md) | 15 | 1,273,940 |
 | 2 | [raycast](./id/raycast.md) | 11 | 891,899 |
 | 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,024 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,180 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,182 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 489,721 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 485,719 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 452,793 |
@@ -25,7 +25,7 @@
 | 15 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 257,242 |
 | 16 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 246,387 |
 | 17 | [destiner](https://www.raycast.com/destiner) | 9 | 232,594 |
-| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 209,654 |
+| 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 209,661 |
 | 19 | [mblode](https://www.raycast.com/mblode) | 4 | 202,737 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 185,873 |
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 184,166 |

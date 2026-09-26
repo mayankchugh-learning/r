@@ -1,6 +1,6 @@
 # General
 
-112 extensions · [← Search & Bookmarks](./README.md)
+111 extensions · [← Search & Bookmarks](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -97,7 +97,6 @@
 | [Hyrule Compendium Search](https://github.com/raycast/extensions/tree/main/extensions/hyrule-compendium-search) | 33 | This extension allows you to access the Hyrule Compendium in Breath of the Wild. | MackoMaxo | macOS | [store](https://www.raycast.com/MackoMaxo/hyrule-compendium-search) |
 | [Cover Art Search](https://github.com/raycast/extensions/tree/main/extensions/cover-art-search) | 29 | Search IMDb for movie, TV, anime, and game cover art, copy it, or send it straight to Capacities | louay.md | macOS, Windows | [store](https://www.raycast.com/louay.md/cover-art-search) |
 | [Paystack](https://github.com/raycast/extensions/tree/main/extensions/paystack) | 28 | Manage your Paystack account effortlessly in Raycast—check balances, search transactions, generate links, issue refunds, and track revenue—all from your keyboa… | dominuskelvin | macOS | [store](https://www.raycast.com/dominuskelvin/paystack) |
-| [Vesslo](https://github.com/raycast/extensions/tree/main/extensions/vesslo) | 24 | Search and manage apps from Vesslo | hjm79 | macOS | [store](https://www.raycast.com/hjm79/vesslo) |
 | [Quran Quick Insert](https://github.com/raycast/extensions/tree/main/extensions/quran-quick-insert) | 21 | Search, copy, and insert Quran ayahs or ranges. | yshalsager | macOS, Windows | [store](https://www.raycast.com/yshalsager/quran-quick-insert) |
 | [Royal TSX](https://github.com/raycast/extensions/tree/main/extensions/royal-tsx) | 21 | Search and connect to Royal TSX connections | carceneaux | macOS | [store](https://www.raycast.com/carceneaux/royal-tsx) |
 | [Paperform](https://github.com/raycast/extensions/tree/main/extensions/paperform) | 20 | Search forms and view submissions from Paperform | parterburn | macOS, Windows | [store](https://www.raycast.com/parterburn/paperform) |

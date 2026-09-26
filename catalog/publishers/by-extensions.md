@@ -171,7 +171,7 @@
 | 161 | [wdeu](https://www.raycast.com/wdeu) | 3 | 37 |
 | 162 | [the-browser-company](https://www.raycast.com/the-browser-company) | 2 | 262,579 |
 | 163 | [abielzulio](https://www.raycast.com/abielzulio) | 2 | 257,242 |
-| 164 | [mooxl](https://www.raycast.com/mooxl) | 2 | 209,654 |
+| 164 | [mooxl](https://www.raycast.com/mooxl) | 2 | 209,661 |
 | 165 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 185,873 |
 | 166 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 171,643 |
 | 167 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 116,541 |
@@ -399,7 +399,7 @@
 | 389 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 390 | github-next | 2 | — |
 | 391 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,024 |
-| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 560,180 |
+| 392 | [Codely](https://www.raycast.com/Codely) | 1 | 560,182 |
 | 393 | [linear](https://www.raycast.com/linear) | 1 | 395,057 |
 | 394 | [mommertf](https://www.raycast.com/mommertf) | 1 | 328,983 |
 | 395 | [nhojb](https://www.raycast.com/nhojb) | 1 | 288,197 |
