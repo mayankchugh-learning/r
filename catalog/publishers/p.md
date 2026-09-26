@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · **P** · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-89 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+90 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -61,6 +61,7 @@
 | [pingdotgg](https://www.raycast.com/pingdotgg) | 1 | 3,670 | **Developer Tools:** [UploadThing](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) |
 | [piotrzaborow](https://www.raycast.com/piotrzaborow) | 1 | 56 | **Other:** [Airsy](https://github.com/raycast/extensions/tree/main/extensions/airsy) |
 | [pirijan](https://www.raycast.com/pirijan) | 1 | 195 | **Productivity:** [Kinopio Inbox](https://github.com/raycast/extensions/tree/main/extensions/kinopio-inbox) |
+| [pixibixi](https://www.raycast.com/pixibixi) | 1 | 0 | **Developer Tools:** [ArgoCD](https://github.com/raycast/extensions/tree/main/extensions/argocd) |
 | [pkliem](https://www.raycast.com/pkliem) | 1 | 38 | **Design Tools:** [8 Divide](https://github.com/raycast/extensions/tree/main/extensions/8-divide) |
 | [plank-dev](https://www.raycast.com/plank-dev) | 1 | 383 | **Developer Tools:** [Laravel Nova](https://github.com/raycast/extensions/tree/main/extensions/laravel-nova) |
 | [playtesterhq](https://www.raycast.com/playtesterhq) | 1 | 89 | **Fun:** [Playtester](https://github.com/raycast/extensions/tree/main/extensions/playtester) |

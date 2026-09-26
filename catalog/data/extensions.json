@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "edbe8f2eaf93c5a98eb1fd19a5acf5bacc129df5",
-  "generatedAt": "2026-09-26T04:48:19.738Z",
-  "downloadsRefreshedAt": "2026-09-26T04:48:18.867Z",
-  "count": 3320,
+  "commit": "a43759fedd37fd5d043ec621ae90b1a366e23291",
+  "generatedAt": "2026-09-26T04:57:25.366Z",
+  "downloadsRefreshedAt": "2026-09-26T04:57:25.077Z",
+  "count": 3321,
   "extensions": [
     {
       "dir": "0x0",
@@ -2957,6 +2957,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/area-code-search",
       "treeSha": "68e4755feaf426fb23a4dfacce3c036e4db3c50e",
       "downloads": 19
+    },
+    {
+      "dir": "argocd",
+      "name": "argocd",
+      "title": "ArgoCD",
+      "description": "Search applications across several ArgoCD instances, then open, inspect or sync them.",
+      "author": "pixibixi",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/pixibixi/argocd",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/argocd",
+      "treeSha": "b0ca03faecc5589495fe9443cef4bcc052ecff14",
+      "downloads": 0
     },
     {
       "dir": "array-this",
@@ -10164,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "f815d610d7412d6dac89541ab6c00eebe6e5827e",
-      "downloads": 601270
+      "downloads": 601274
     },
     {
       "dir": "color-shades",
@@ -22727,7 +22747,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 560182
+      "downloads": 560184
     },
     {
       "dir": "google-chrome-profiles",
@@ -29195,7 +29215,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 760025
+      "downloads": 760030
     },
     {
       "dir": "kimai",

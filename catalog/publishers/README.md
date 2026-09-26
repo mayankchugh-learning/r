@@ -1,6 +1,6 @@
 # Publishers
 
-2227 publishers · [← catalog index](../README.md)
+2228 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,273,941 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,273,945 |
 | 2 | [raycast](./id/raycast.md) | 11 | 891,899 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,025 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,182 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,030 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,184 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 489,721 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 485,719 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 452,793 |
@@ -2232,6 +2232,7 @@
 | 2222 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2223 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
 | 2224 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2225 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2226 | github-next | 2 | — |
-| 2227 | multi | 1 | — |
+| 2225 | [pixibixi](https://www.raycast.com/pixibixi) | 1 | 0 |
+| 2226 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2227 | github-next | 2 | — |
+| 2228 | multi | 1 | — |

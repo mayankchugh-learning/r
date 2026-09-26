@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `a43759fedd`
+
+**Added (1):** [ArgoCD](https://github.com/raycast/extensions/tree/main/extensions/argocd)
+
 ## 2026-09-26 — upstream `edbe8f2eaf`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

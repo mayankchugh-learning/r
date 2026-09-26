@@ -1,8 +1,8 @@
 # Search & Reference
 
-117 extensions · [← Developer Tools](./README.md)
+118 extensions · [← Developer Tools](./README.md)
 
-[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Recent ✦](#recent) (5) · [Directory ✦](#directory) (4) · [Sessions ✦](#sessions) (4) · [General](#general) (53)
+[Documentation ✦](#documentation) (36) · [Docs ✦](#docs) (5) · [Bookmarks ✦](#bookmarks) (5) · [Cheatsheets ✦](#cheatsheets) (5) · [Recent ✦](#recent) (5) · [Directory ✦](#directory) (4) · [Sessions ✦](#sessions) (4) · [General](#general) (54)
 
 *✦ auto-discovered topic group*
 
@@ -162,3 +162,4 @@
 | [Mobbin Search](https://github.com/raycast/extensions/tree/main/extensions/mobbin) | 30 | Search Mobbin screens, flows, and sections from Raycast. | noss | macOS | [store](https://www.raycast.com/noss/mobbin) |
 | [Kusto Reference](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) | 24 | Look up KQL commands | olafhartong | macOS | [store](https://www.raycast.com/olafhartong/kusto-reference) |
 | [WebGlossary Search](https://github.com/raycast/extensions/tree/main/extensions/webglossary-search) | 17 | Search for a definition on WebGlossary.info | aashwin_patki | macOS, Windows | [store](https://www.raycast.com/aashwin_patki/webglossary-search) |
+| [ArgoCD](https://github.com/raycast/extensions/tree/main/extensions/argocd) | 0 | Search applications across several ArgoCD instances, then open, inspect or sync them. | pixibixi | macOS | [store](https://www.raycast.com/pixibixi/argocd) |
