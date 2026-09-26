@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 601,351 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 601,382 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 257,112 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 147,653 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 118,566 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -80,7 +80,7 @@
 | [Cyberduck](https://github.com/raycast/extensions/tree/main/extensions/cyberduck) | 1,470 | Quickly open your cyberduck connections | scottaglia | macOS | [store](https://www.raycast.com/scottaglia/cyberduck) |
 | [Country Lookup](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) | 1,393 | Search and explore detailed data for every country: flags, capitals, languages, currencies, regions and more, powered by the REST Countries API. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/country-lookup) |
 | [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) | 1,374 | Create and work on checklists. | zeekrey | macOS | [store](https://www.raycast.com/zeekrey/checklist) |
-| [CopyQ Clipboard Manager](https://github.com/raycast/extensions/tree/main/extensions/copyq-clipboard-manager) | 1,370 | Lists CopyQ clipboard entries and allows user to paste them. | andrewcincotta | macOS | [store](https://www.raycast.com/andrewcincotta/copyq-clipboard-manager) |
+| [CopyQ Clipboard Manager](https://github.com/raycast/extensions/tree/main/extensions/copyq-clipboard-manager) | 1,371 | Lists CopyQ clipboard entries and allows user to paste them. | andrewcincotta | macOS | [store](https://www.raycast.com/andrewcincotta/copyq-clipboard-manager) |
 | [ChatGPT Search](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-search) | 1,344 | Initiate ChatGPT Search (aka SearchGPT) from within Raycast. https://openai.com/index/introducing-chatgpt-search/ | kopach | macOS | [store](https://www.raycast.com/kopach/chatgpt-search) |
 | [Cheatsheets Remastered](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets-remastered) | 1,302 | A remastered Cheatsheets extension with enhanced functionality, custom sheet creation, and an improved browsing experience. | smcnab1 | macOS | [store](https://www.raycast.com/smcnab1/cheatsheets-remastered) |
 | [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,302 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |

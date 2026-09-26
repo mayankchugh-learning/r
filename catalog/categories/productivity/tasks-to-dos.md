@@ -64,7 +64,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Things](https://github.com/raycast/extensions/tree/main/extensions/things) | 41,177 | Search and manage your Things to-dos from Raycast | loris | macOS | [store](https://www.raycast.com/loris/things) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 18,936 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 18,934 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
 | [OmniFocus](https://github.com/raycast/extensions/tree/main/extensions/omnifocus) | 2,141 | Perform basic actions on your OmniFocus database. | nicolas-marien | macOS | [store](https://www.raycast.com/nicolas-marien/omnifocus) |
 | [Checklist](https://github.com/raycast/extensions/tree/main/extensions/checklist) | 1,374 | Create and work on checklists. | zeekrey | macOS | [store](https://www.raycast.com/zeekrey/checklist) |
 | [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) | 120 | Manage your Beeminder goals from Raycast | vivgui | macOS | [store](https://www.raycast.com/vivgui/beeminder) |

@@ -174,4 +174,4 @@
 | [Synacek](https://www.raycast.com/Synacek) | 1 | 435 | **Developer Tools:** [HTML Colors](https://github.com/raycast/extensions/tree/main/extensions/html-colors) |
 | [syropian](https://www.raycast.com/syropian) | 1 | 143 | **Applications:** [Leafcast](https://github.com/raycast/extensions/tree/main/extensions/leafcast) |
 | [szarbartosz](https://www.raycast.com/szarbartosz) | 1 | 32 | **Fun:** [Ekstraklasa](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) |
-| [szy.fr](https://www.raycast.com/szy.fr) | 1 | 689 | **Fun:** [Random Fart](https://github.com/raycast/extensions/tree/main/extensions/random-fart) |
+| [szy.fr](https://www.raycast.com/szy.fr) | 1 | 690 | **Fun:** [Random Fart](https://github.com/raycast/extensions/tree/main/extensions/random-fart) |

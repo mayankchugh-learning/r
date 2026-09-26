@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `03c9358e57`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-26 — upstream `601e7d30e5`
 
 **Updated (1):** [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list)

@@ -62,7 +62,7 @@
 | [chriso](https://www.raycast.com/chriso) | 1 | 511 | **Productivity:** [HubSpot Portal Launcher](https://github.com/raycast/extensions/tree/main/extensions/hubspot-portal-launcher) |
 | [christoribeiro](https://www.raycast.com/christoribeiro) | 1 | 67 | **Finance:** [Qonto](https://github.com/raycast/extensions/tree/main/extensions/qonto) |
 | [chroxify](https://www.raycast.com/chroxify) | 1 | 1,067 | **Productivity:** [OTP Inbox](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) |
-| [Chuck](https://www.raycast.com/Chuck) | 1 | 1,091 | **Uncategorized:** [Phind Search](https://github.com/raycast/extensions/tree/main/extensions/phind-search) |
+| [Chuck](https://www.raycast.com/Chuck) | 1 | 1,092 | **Uncategorized:** [Phind Search](https://github.com/raycast/extensions/tree/main/extensions/phind-search) |
 | [chuck-38](https://www.raycast.com/chuck-38) | 1 | 8 | **Productivity:** [Caaals Food Tracker](https://github.com/raycast/extensions/tree/main/extensions/caaals) |
 | [ChucKN0risK](https://www.raycast.com/ChucKN0risK) | 1 | 68 | **Media:** [MusicThread](https://github.com/raycast/extensions/tree/main/extensions/musicthread) |
 | [chunkithwang](https://www.raycast.com/chunkithwang) | 1 | 5 | **Applications:** [ScreenLex](https://github.com/raycast/extensions/tree/main/extensions/screenlex) |
@@ -83,7 +83,7 @@
 | [cmdr](https://www.raycast.com/cmdr) | 1 | 62 | **Data:** [Zefix](https://github.com/raycast/extensions/tree/main/extensions/zefix) |
 | [cocart_headless](https://www.raycast.com/cocart_headless) | 1 | 1 | **Documentation:** [CoCart Docs](https://github.com/raycast/extensions/tree/main/extensions/cocart-docs) |
 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 12,538 | **Developer Tools:** [Markdown Reference](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) |
-| [Codely](https://www.raycast.com/Codely) | 1 | 560,246 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
+| [Codely](https://www.raycast.com/Codely) | 1 | 560,270 | **Uncategorized:** [Google Chrome](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) |
 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,495 | **Finance:** [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) |
 | [codiini](https://www.raycast.com/codiini) | 1 | 139 | **Productivity:** [Annotely](https://github.com/raycast/extensions/tree/main/extensions/annotely) |
 | [coding](https://www.raycast.com/coding) | 1 | 772 | **Fun:** [Truth or Dare](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) |
