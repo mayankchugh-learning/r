@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `e80d55d8a2`
+
+**Updated (1):** [Fastly](https://github.com/raycast/extensions/tree/main/extensions/fastly)
+
 ## 2026-09-26 — upstream `412021cbf2`
 
 **Updated (1):** [Skills](https://github.com/raycast/extensions/tree/main/extensions/skills)
