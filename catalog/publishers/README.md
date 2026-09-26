@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,275,066 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,275,240 |
 | 2 | [raycast](./id/raycast.md) | 11 | 892,468 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,685 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,688 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,860 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,797 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 490,104 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 486,108 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 453,106 |
@@ -119,7 +119,7 @@
 | 109 | [krzysztofzuraw](https://www.raycast.com/krzysztofzuraw) | 2 | 21,375 |
 | 110 | [Alex_](https://www.raycast.com/Alex_) | 1 | 21,017 |
 | 111 | [xeric](https://www.raycast.com/xeric) | 2 | 20,919 |
-| 112 | [timothy_boye](https://www.raycast.com/timothy_boye) | 1 | 20,787 |
+| 112 | [timothy_boye](https://www.raycast.com/timothy_boye) | 1 | 20,788 |
 | 113 | [JinShi](https://www.raycast.com/JinShi) | 4 | 20,390 |
 | 114 | [mmazzarolo](https://www.raycast.com/mmazzarolo) | 1 | 20,356 |
 | 115 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,217 |

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `600df7a515`
+
+**Updated (1):** [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios)
+
 ## 2026-09-26 — upstream `4735f1656f`
 
 **Updated (1):** [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders)
