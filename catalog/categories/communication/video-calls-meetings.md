@@ -1,8 +1,8 @@
 # Video Calls & Meetings
 
-16 extensions · [← Communication](./README.md)
+15 extensions · [← Communication](./README.md)
 
-[Meeting ✦](#meeting) (8) · [Call ✦](#call) (5) · [General](#general) (3)
+[Meeting ✦](#meeting) (7) · [Call ✦](#call) (5) · [General](#general) (3)
 
 *✦ auto-discovered topic group*
 
@@ -13,7 +13,6 @@
 | [Zoom](https://github.com/raycast/extensions/tree/main/extensions/zoom) | 114,690 | Start, schedule and join Zoom meetings. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/zoom) |
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 10,278 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
 | [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 5,242 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
-| [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,596 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
 | [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 3,026 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
 | [Speed Dial](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) | 370 | Stop asking for meeting URLs and add them to Speed Dial to open with one click | osama_aamer | macOS | [store](https://www.raycast.com/osama_aamer/speed-dial) |
 | [MuteDeck](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) | 226 | Control your meetings from Raycast: toggle mute, camera, screen share and recording via MuteDeck, with a live Meeting Deck grid. | mutedeck (org) | macOS | [store](https://www.raycast.com/mutedeck/mutedeck) |

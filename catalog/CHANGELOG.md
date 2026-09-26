@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `b3ddec27ab`
+
+**Updated (1):** [Calendly](https://github.com/raycast/extensions/tree/main/extensions/calendly)
+
 ## 2026-09-26 — upstream `ed801dedb3`
 
 **Added (1):** [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu)

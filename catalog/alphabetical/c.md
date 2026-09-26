@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 601,330 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 601,331 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 257,112 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 147,653 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 118,566 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -47,7 +47,7 @@
 | [Clipboard Formatter](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) | 4,108 | Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. | joshtemple | macOS | [store](https://www.raycast.com/joshtemple/clipboard-formatter) |
 | [Claude Code Launcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) | 4,051 | Quickly open Claude Code in any directory with your preferred terminal. | stephendolan | macOS | [store](https://www.raycast.com/stephendolan/claude-code-launcher) |
 | [Cron Description](https://github.com/raycast/extensions/tree/main/extensions/cron-description) | 3,956 | Convert cron expressions into human readable descriptions | niall-maloney | macOS, Windows | [store](https://www.raycast.com/niall-maloney/cron-description) |
-| [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,596 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
+| [Calendly](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,596 | Share scheduling links, manage meetings, and book invitees with Calendly. | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/calendly) |
 | [Clear Clipboard](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) | 3,585 | Clears your clipboard so you don't accidentally paste things into work chat. | d3caf | macOS | [store](https://www.raycast.com/d3caf/clear-clipboard) |
 | [Compresto](https://github.com/raycast/extensions/tree/main/extensions/compressx) | 3,556 | Compress files easily, with up to 90% file size reduction | hieudinh | macOS | [store](https://www.raycast.com/hieudinh/compressx) |
 | [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,455 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |

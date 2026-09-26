@@ -30,7 +30,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 5,242 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
-| [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,596 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
+| [Calendly](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,596 | Share scheduling links, manage meetings, and book invitees with Calendly. | eluce2 | macOS, Windows | [store](https://www.raycast.com/eluce2/calendly) |
 | [Speed Dial](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) | 370 | Stop asking for meeting URLs and add them to Speed Dial to open with one click | osama_aamer | macOS | [store](https://www.raycast.com/osama_aamer/speed-dial) |
 | [Circleback](https://github.com/raycast/extensions/tree/main/extensions/circleback) | 321 | Record, view, and search meetings in Circleback | circleback (org) | macOS | [store](https://www.raycast.com/circleback/circleback) |
 | [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 230 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |

@@ -1,8 +1,8 @@
 # macOS · Communication
 
-158 extensions · [← macOS](../README.md)
+157 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (16) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (6) · [General](#general) (56)
+[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (6) · [General](#general) (56)
 
 ## Conversations
 
@@ -50,7 +50,6 @@
 | [Microsoft Teams Meeting](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) | 10,278 | Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. | sven | macOS | [store](https://www.raycast.com/sven/microsoft-teams-calling) |
 | [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) | 6,016 | Make a phone call with the default telephone app. | karbassi | macOS | [store](https://www.raycast.com/karbassi/quick-call) |
 | [Cal.com](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) | 5,242 | Manage your Cal.com schedules, bookings, out-of-office, and meeting links from Raycast | cal (org) | macOS | [store](https://www.raycast.com/cal/cal-com-share-meeting-links) |
-| [Calendly Share Meeting Links](https://github.com/raycast/extensions/tree/main/extensions/calendly) | 3,596 | Quickly share your Calendly meeting links | eluce2 | macOS | [store](https://www.raycast.com/eluce2/calendly) |
 | [Zoom Meeting Control](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) | 3,026 | Control current Zoom meeting | prashantv | macOS | [store](https://www.raycast.com/prashantv/zoom-meeting-control) |
 | [Video Call Reactions](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) | 989 | This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. | yazanzaid00 | macOS | [store](https://www.raycast.com/yazanzaid00/video-call-reactions) |
 | [Gather](https://github.com/raycast/extensions/tree/main/extensions/gather) | 673 | Control Gather from Raycast | yannglt | macOS | [store](https://www.raycast.com/yannglt/gather) |
