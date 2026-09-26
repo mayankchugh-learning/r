@@ -2,7 +2,7 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · **Terminal & Editors** · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-47 of 1124 extensions · [← macOS · Developer Tools](./README.md)
+48 of 1125 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -53,3 +53,4 @@
 | [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) | 6 | Search the Aqua Registry for CLI tools and copy commands to add them to aqua.yaml | raycast_0ukl | macOS, Windows | [store](https://www.raycast.com/raycast_0ukl/aqua-registry-search) |
 | [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid) | 5 | Spreadsheet powers from your launcher: evaluate Excel formulas against clipboard data, peek inside xlsx/csv/sheet files, and open workbooks — via the VisiGrid… | visigrid | macOS | [store](https://www.raycast.com/visigrid/visigrid) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu) | 0 | A dmenu-style picker for macOS, powered by a Python CLI and Raycast | 8w8kkr8typ | macOS | [store](https://www.raycast.com/8w8kkr8typ/dmenu) |

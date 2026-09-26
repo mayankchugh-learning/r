@@ -1,6 +1,6 @@
 # Publishers
 
-2228 publishers · [← catalog index](../README.md)
+2229 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,273,945 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,274,001 |
 | 2 | [raycast](./id/raycast.md) | 11 | 891,899 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,030 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,184 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,082 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,231 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 489,721 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 485,719 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 452,793 |
@@ -2224,15 +2224,16 @@
 | 2214 | [lyager](https://www.raycast.com/lyager) | 1 | 1 |
 | 2215 | [RomiC](https://www.raycast.com/RomiC) | 1 | 1 |
 | 2216 | [viper_x](https://www.raycast.com/viper_x) | 1 | 1 |
-| 2217 | [c0desurfer](https://www.raycast.com/c0desurfer) | 1 | 0 |
-| 2218 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
-| 2219 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
-| 2220 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2221 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2222 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2223 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
-| 2224 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2225 | [pixibixi](https://www.raycast.com/pixibixi) | 1 | 0 |
-| 2226 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
-| 2227 | github-next | 2 | — |
-| 2228 | multi | 1 | — |
+| 2217 | [8w8kkr8typ](https://www.raycast.com/8w8kkr8typ) | 1 | 0 |
+| 2218 | [c0desurfer](https://www.raycast.com/c0desurfer) | 1 | 0 |
+| 2219 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
+| 2220 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
+| 2221 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
+| 2222 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2223 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2224 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
+| 2225 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2226 | [pixibixi](https://www.raycast.com/pixibixi) | 1 | 0 |
+| 2227 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
+| 2228 | github-next | 2 | — |
+| 2229 | multi | 1 | — |

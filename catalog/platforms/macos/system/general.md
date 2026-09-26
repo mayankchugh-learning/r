@@ -2,7 +2,7 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · [Hardware & Devices](./hardware-devices.md) · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · **General**
 
-78 of 259 extensions · [← macOS · System](./README.md)
+79 of 260 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -84,3 +84,4 @@
 | [Screens](https://github.com/raycast/extensions/tree/main/extensions/screens) | 20 | Connect to the computers you use in Screens 5, plus ad-hoc VNC and SSH connections | bendrucker | macOS | [store](https://www.raycast.com/bendrucker/screens) |
 | [MirAIe AC Control](https://github.com/raycast/extensions/tree/main/extensions/miraie-ac-control) | 14 | Control Panasonic MirAIe air conditioners from Raycast. | ayush_saini | macOS | [store](https://www.raycast.com/ayush_saini/miraie-ac-control) |
 | [Slurm](https://github.com/raycast/extensions/tree/main/extensions/slurm) | 5 | Manage Slurm jobs across multiple clusters and inspect utilization from Raycast | p-koenig | macOS | [store](https://www.raycast.com/p-koenig/slurm) |
+| [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu) | 0 | A dmenu-style picker for macOS, powered by a Python CLI and Raycast | 8w8kkr8typ | macOS | [store](https://www.raycast.com/8w8kkr8typ/dmenu) |

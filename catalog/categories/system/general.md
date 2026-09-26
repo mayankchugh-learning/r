@@ -1,6 +1,6 @@
 # General
 
-69 extensions · [← System](./README.md)
+70 extensions · [← System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -73,3 +73,4 @@
 | [WallpaperEngine](https://github.com/raycast/extensions/tree/main/extensions/wallpaperengine) | 17 | Raycast Extension for controlling WallpaperEngine | hunter_dermott | Windows | [store](https://www.raycast.com/hunter_dermott/wallpaperengine) |
 | [MirAIe AC Control](https://github.com/raycast/extensions/tree/main/extensions/miraie-ac-control) | 14 | Control Panasonic MirAIe air conditioners from Raycast. | ayush_saini | macOS | [store](https://www.raycast.com/ayush_saini/miraie-ac-control) |
 | [Slurm](https://github.com/raycast/extensions/tree/main/extensions/slurm) | 5 | Manage Slurm jobs across multiple clusters and inspect utilization from Raycast | p-koenig | macOS | [store](https://www.raycast.com/p-koenig/slurm) |
+| [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu) | 0 | A dmenu-style picker for macOS, powered by a Python CLI and Raycast | 8w8kkr8typ | macOS | [store](https://www.raycast.com/8w8kkr8typ/dmenu) |

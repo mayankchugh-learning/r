@@ -1,8 +1,8 @@
 # Terminal & Editors
 
-50 extensions · [← Developer Tools](./README.md)
+51 extensions · [← Developer Tools](./README.md)
 
-[Terminal ✦](#terminal) (13) · [CLI ✦](#cli) (8) · [Editor ✦](#editor) (7) · [Shell ✦](#shell) (6) · [General](#general) (16)
+[Terminal ✦](#terminal) (13) · [CLI ✦](#cli) (9) · [Editor ✦](#editor) (7) · [Shell ✦](#shell) (6) · [General](#general) (16)
 
 *✦ auto-discovered topic group*
 
@@ -36,6 +36,7 @@
 | [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) | 6 | Search the Aqua Registry for CLI tools and copy commands to add them to aqua.yaml | raycast_0ukl | macOS, Windows | [store](https://www.raycast.com/raycast_0ukl/aqua-registry-search) |
 | [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid) | 5 | Spreadsheet powers from your launcher: evaluate Excel formulas against clipboard data, peek inside xlsx/csv/sheet files, and open workbooks — via the VisiGrid… | visigrid | macOS | [store](https://www.raycast.com/visigrid/visigrid) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu) | 0 | A dmenu-style picker for macOS, powered by a Python CLI and Raycast | 8w8kkr8typ | macOS | [store](https://www.raycast.com/8w8kkr8typ/dmenu) |
 
 ## Editor ✦
 

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a43759fedd37fd5d043ec621ae90b1a366e23291",
-  "generatedAt": "2026-09-26T04:57:25.366Z",
-  "downloadsRefreshedAt": "2026-09-26T04:57:25.077Z",
-  "count": 3321,
+  "commit": "ed801dedb3efb7ddbb2d420ac1421377ac519def",
+  "generatedAt": "2026-09-26T06:23:00.839Z",
+  "downloadsRefreshedAt": "2026-09-26T06:23:00.265Z",
+  "count": 3322,
   "extensions": [
     {
       "dir": "0x0",
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "f815d610d7412d6dac89541ab6c00eebe6e5827e",
-      "downloads": 601274
+      "downloads": 601330
     },
     {
       "dir": "color-shades",
@@ -14873,6 +14873,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dlmoji",
       "treeSha": "a2523e0f159f7484ebce76c754c96a018fdead6b",
       "downloads": 1686
+    },
+    {
+      "dir": "dmenu",
+      "name": "dmenu",
+      "title": "Dmenu",
+      "description": "A dmenu-style picker for macOS, powered by a Python CLI and Raycast",
+      "author": "8w8kkr8typ",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Developer Tools",
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/8w8kkr8typ/dmenu",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/dmenu",
+      "treeSha": "352a96384d26415aecbd8f92df153391e47a26f8",
+      "downloads": 0
     },
     {
       "dir": "dnb-book-lookup",
@@ -22747,7 +22769,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 560184
+      "downloads": 560231
     },
     {
       "dir": "google-chrome-profiles",
@@ -29215,7 +29237,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 760030
+      "downloads": 760082
     },
     {
       "dir": "kimai",

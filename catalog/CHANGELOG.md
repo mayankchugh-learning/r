@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `ed801dedb3`
+
+**Added (1):** [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu)
+
 ## 2026-09-26 — upstream `a43759fedd`
 
 **Added (1):** [ArgoCD](https://github.com/raycast/extensions/tree/main/extensions/argocd)
