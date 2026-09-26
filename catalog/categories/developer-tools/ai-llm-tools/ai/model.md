@@ -1,6 +1,6 @@
 # Model ✦
 
-15 extensions · [← AI](./README.md)
+16 extensions · [← AI](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -21,3 +21,4 @@
 | [ZenMux Manager](https://github.com/raycast/extensions/tree/main/extensions/zenmux-manager) | 20 | Monitor ZenMux usage, manage account links, and use ZenMux models in Raycast AI. | abnershang | macOS, Windows | [store](https://www.raycast.com/abnershang/zenmux-manager) |
 | [Fal.ai](https://github.com/raycast/extensions/tree/main/extensions/fal-ai) | 17 | Generate and retrieve media from any fal.ai model. | 0xfreddy | macOS | [store](https://www.raycast.com/0xfreddy/fal-ai) |
 | [Phaseo](https://github.com/raycast/extensions/tree/main/extensions/phaseo) | 3 | Explore Phaseo's AI model catalogue from Raycast | danielbutler1 | macOS, Windows | [store](https://www.raycast.com/danielbutler1/phaseo) |
+| [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 0 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |

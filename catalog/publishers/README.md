@@ -8,15 +8,15 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,275,264 |
-| 2 | [raycast](./id/raycast.md) | 11 | 892,468 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,892 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,818 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,275,268 |
+| 2 | [raycast](./id/raycast.md) | 11 | 892,480 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,895 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,821 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 490,104 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 486,108 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 453,106 |
 | 8 | [linear](https://www.raycast.com/linear) | 1 | 395,450 |
-| 9 | [vimtor](./id/vimtor.md) | 15 | 333,045 |
+| 9 | [vimtor](./id/vimtor.md) | 16 | 333,045 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 329,132 |
 | 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 288,402 |
 | 12 | [koinzhang](./id/koinzhang.md) | 50 | 286,123 |

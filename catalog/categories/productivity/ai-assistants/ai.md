@@ -1,8 +1,8 @@
 # AI ✦
 
-102 extensions · [← AI & Assistants](./README.md)
+103 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (10) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Ask ✦](#ask) (5) · [General](#general) (54)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (11) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Ask ✦](#ask) (5) · [General](#general) (54)
 
 *✦ auto-discovered topic group*
 
@@ -41,6 +41,7 @@
 | [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 138 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 93 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |
 | [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 10 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
+| [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 0 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |
 
 ## Chat ✦
 

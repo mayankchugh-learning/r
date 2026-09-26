@@ -1,6 +1,6 @@
 # Cross-platform · Developer Tools
 
-316 extensions · [← Cross-platform](../README.md)
+317 extensions · [← Cross-platform](../README.md)
 
 ## Code & Collaboration
 
@@ -24,7 +24,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [AI & LLM Tools](./ai-llm-tools.md) | 39 |
+| [AI & LLM Tools](./ai-llm-tools.md) | 40 |
 | [Web & Frontend](./web-frontend.md) | 21 |
 | [Mobile & App Development](./mobile-app-development.md) | 2 |
 | [Web3 & Blockchain](./web3-blockchain.md) | 3 |
