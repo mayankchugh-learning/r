@@ -39,7 +39,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 481,276 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
+| [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) | 481,336 | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currentl… | mattisssa | macOS, Windows | [store](https://www.raycast.com/mattisssa/spotify-player) |
 | [I Don't Have Spotify](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) | 5,352 | Effortlessly convert music links between streaming services | sjdonado | macOS | [store](https://www.raycast.com/sjdonado/idonthavespotify) |
 | [nowplaying-cli](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) | 641 | It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features | yusuf_akdeniz | macOS | [store](https://www.raycast.com/yusuf_akdeniz/nowplaying-cli) |
 | [Meta Music](https://github.com/raycast/extensions/tree/main/extensions/meta-music) | 391 | Manage the ID3 tags of audio files directly in Raycast! | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/meta-music) |
