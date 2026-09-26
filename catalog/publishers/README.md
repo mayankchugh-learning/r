@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,274,079 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,274,136 |
 | 2 | [raycast](./id/raycast.md) | 11 | 891,903 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,150 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,291 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,208 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,329 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 489,721 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 485,779 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 452,793 |
@@ -1335,8 +1335,8 @@
 | 1325 | [johancvl](https://www.raycast.com/johancvl) | 1 | 165 |
 | 1326 | [johnwick](https://www.raycast.com/johnwick) | 1 | 165 |
 | 1327 | [kusthi](https://www.raycast.com/kusthi) | 1 | 165 |
-| 1328 | [davibe](https://www.raycast.com/davibe) | 1 | 164 |
-| 1329 | [tsui_river](https://www.raycast.com/tsui_river) | 1 | 164 |
+| 1328 | [tsui_river](https://www.raycast.com/tsui_river) | 1 | 165 |
+| 1329 | [davibe](https://www.raycast.com/davibe) | 1 | 164 |
 | 1330 | [B9O2](https://www.raycast.com/b9o2) | 1 | 163 |
 | 1331 | [Binary-Bytes](https://www.raycast.com/Binary-Bytes) | 1 | 163 |
 | 1332 | [matchai](https://www.raycast.com/matchai) | 1 | 163 |
@@ -1447,11 +1447,11 @@
 | 1437 | [dharmin_nagar](https://www.raycast.com/dharmin_nagar) | 1 | 117 |
 | 1438 | [duduzeta](https://www.raycast.com/duduzeta) | 1 | 117 |
 | 1439 | [quentinved](https://www.raycast.com/quentinved) | 1 | 117 |
-| 1440 | [txemaleon](https://www.raycast.com/txemaleon) | 1 | 117 |
-| 1441 | [davidchalifoux](https://www.raycast.com/davidchalifoux) | 1 | 116 |
-| 1442 | [devwithbobby](https://www.raycast.com/devwithbobby) | 1 | 116 |
-| 1443 | [rembridge](https://www.raycast.com/rembridge) | 1 | 116 |
-| 1444 | [rrmaximiliano](https://www.raycast.com/rrmaximiliano) | 1 | 116 |
+| 1440 | [davidchalifoux](https://www.raycast.com/davidchalifoux) | 1 | 116 |
+| 1441 | [devwithbobby](https://www.raycast.com/devwithbobby) | 1 | 116 |
+| 1442 | [rembridge](https://www.raycast.com/rembridge) | 1 | 116 |
+| 1443 | [rrmaximiliano](https://www.raycast.com/rrmaximiliano) | 1 | 116 |
+| 1444 | [txemaleon](https://www.raycast.com/txemaleon) | 1 | 116 |
 | 1445 | [zebapy](https://www.raycast.com/zebapy) | 1 | 116 |
 | 1446 | [albertogalca](https://www.raycast.com/albertogalca) | 1 | 115 |
 | 1447 | [blazej_kustra](https://www.raycast.com/blazej_kustra) | 1 | 115 |

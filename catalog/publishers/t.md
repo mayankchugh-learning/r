@@ -67,7 +67,7 @@
 | [thilip_lindseth](https://www.raycast.com/thilip_lindseth) | 1 | 167 | **System:** [USB-C Inspector](https://github.com/raycast/extensions/tree/main/extensions/usb-c-inspector) |
 | [third774](https://www.raycast.com/third774) | 3 | 67,619 | **Developer Tools:** [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity), [User-Agent Parser](https://github.com/raycast/extensions/tree/main/extensions/user-agent)<br>**Applications:** [Feedbin](https://github.com/raycast/extensions/tree/main/extensions/feedbin) |
 | [tholanda](https://www.raycast.com/tholanda) | 1 | 9,331 | **Developer Tools:** [Script Commands Store – Find and manage your Rayc…](https://github.com/raycast/extensions/tree/main/extensions/script-commands) |
-| [thomas](./id/thomas.md) | 15 | 1,274,079 | [see all 15 →](./id/thomas.md) |
+| [thomas](./id/thomas.md) | 15 | 1,274,136 | [see all 15 →](./id/thomas.md) |
 | [thomas.harmond](https://www.raycast.com/thomas.harmond) | 1 | 41 | **Developer Tools:** [Planning Center API Docs](https://github.com/raycast/extensions/tree/main/extensions/planning-center-api-docs) |
 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 64,391 | **Productivity:** [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages)<br>**Developer Tools:** [Can I Use](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) |
 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,765 | **Productivity:** [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage), [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) |
@@ -122,14 +122,14 @@
 | [trungnghiatn](https://www.raycast.com/trungnghiatn) | 1 | 966 | **Productivity:** [Get Direct Link](https://github.com/raycast/extensions/tree/main/extensions/get-direct-link) |
 | [tsibog](https://www.raycast.com/tsibog) | 1 | 92 | **Communication:** [Translit](https://github.com/raycast/extensions/tree/main/extensions/translit) |
 | [tssujt](https://www.raycast.com/tssujt) | 1 | 123 | **Developer Tools:** [MongoDB ObjectId](https://github.com/raycast/extensions/tree/main/extensions/mongodb-objectid) |
-| [tsui_river](https://www.raycast.com/tsui_river) | 1 | 164 | **Fun:** [Tarot](https://github.com/raycast/extensions/tree/main/extensions/tarot) |
+| [tsui_river](https://www.raycast.com/tsui_river) | 1 | 165 | **Fun:** [Tarot](https://github.com/raycast/extensions/tree/main/extensions/tarot) |
 | [tuki0918](https://www.raycast.com/tuki0918) | 2 | 143 | **Security:** [Image Shield](https://github.com/raycast/extensions/tree/main/extensions/image-shield)<br>**Developer Tools:** [Git Profile](https://github.com/raycast/extensions/tree/main/extensions/git-profile) |
 | [tung-dang](https://www.raycast.com/tung-dang) | 1 | 213 | **Productivity:** [Manage Monorepo Projects/Workspaces](https://github.com/raycast/extensions/tree/main/extensions/monorepo-manager) |
 | [TuorTheBlessed](https://www.raycast.com/TuorTheBlessed) | 1 | 564 | **Productivity:** [RescueTime](https://github.com/raycast/extensions/tree/main/extensions/rescuetime-focus-session-trigger) |
 | [TurboCoder13](https://www.raycast.com/TurboCoder13) | 3 | 1,749 | **Developer Tools:** [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager)<br>**Finance:** [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq)<br>**Media:** [Tesla Clips](https://github.com/raycast/extensions/tree/main/extensions/tesla-clips) |
 | [twirl](https://www.raycast.com/twirl) | 1 | 7 | **Developer Tools:** [Reka UI](https://github.com/raycast/extensions/tree/main/extensions/reka-ui) |
 | [TwoMental](https://www.raycast.com/twomental) | 2 | 15 | **Developer Tools:** [Bit Parser](https://github.com/raycast/extensions/tree/main/extensions/bit-parser), [Modbus Toolkit](https://github.com/raycast/extensions/tree/main/extensions/modbus-toolkit) |
-| [txemaleon](https://www.raycast.com/txemaleon) | 1 | 117 | **Web:** [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) |
+| [txemaleon](https://www.raycast.com/txemaleon) | 1 | 116 | **Web:** [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) |
 | [tykid](https://www.raycast.com/tykid) | 1 | 222 | **Productivity:** [Desktop Manager](https://github.com/raycast/extensions/tree/main/extensions/desktop-manager) |
 | [tynanpurdy](https://www.raycast.com/tynanpurdy) | 1 | 74 | **Uncategorized:** [Micro.blog](https://github.com/raycast/extensions/tree/main/extensions/microblog) |
 | [typefully](https://www.raycast.com/typefully) | 1 | 1,944 | **Productivity:** [Typefully](https://github.com/raycast/extensions/tree/main/extensions/typefully) |

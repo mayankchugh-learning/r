@@ -23,7 +23,7 @@
 | [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) | 120 | Manage your Beeminder goals from Raycast | vivgui | macOS | [store](https://www.raycast.com/vivgui/beeminder) |
 | [Rabbit Hole](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) | 119 | Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. | Rob | macOS | [store](https://www.raycast.com/Rob/rabbit-hole) |
 | [Typeform Navigator](https://github.com/raycast/extensions/tree/main/extensions/typeform-navigator) | 118 | Manage your Typeform account | jdvr | macOS | [store](https://www.raycast.com/jdvr/typeform) |
-| [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) | 117 | Manage your Collected Notes blog | txemaleon | macOS | [store](https://www.raycast.com/txemaleon/collected-notes) |
+| [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) | 116 | Manage your Collected Notes blog | txemaleon | macOS | [store](https://www.raycast.com/txemaleon/collected-notes) |
 | [Liveblocks](https://github.com/raycast/extensions/tree/main/extensions/liveblocks) | 92 | Exposes the Liveblocks API via a pleasant and easy to use UI. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/liveblocks) |
 | [Recap](https://github.com/raycast/extensions/tree/main/extensions/recap) | 87 | Manage your reminders in Recap. | user_c640ee8bc38faa8cdb2f | macOS | [store](https://www.raycast.com/user_c640ee8bc38faa8cdb2f/recap) |
 | [Pinata](https://github.com/raycast/extensions/tree/main/extensions/pinata) | 79 | An extension to interact with the Pianta API | pinata (org) | macOS | [store](https://www.raycast.com/pinata/pinata) |

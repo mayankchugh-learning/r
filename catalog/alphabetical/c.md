@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 601,408 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 601,465 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 257,112 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 147,653 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 118,566 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -196,7 +196,7 @@
 | [Craft CMS](https://github.com/raycast/extensions/tree/main/extensions/craft-cms-docs) | 130 | Search the official Craft CMS documentation, knowledge base, glossary, and plugin store. | bensomething | macOS, Windows | [store](https://www.raycast.com/bensomething/craft-cms-docs) |
 | [CNPJ Lookup](https://github.com/raycast/extensions/tree/main/extensions/cnpj-lookup) | 121 | Instantly access Brazilian CNPJ information | xilopaint | macOS, Windows | [store](https://www.raycast.com/xilopaint/cnpj-lookup) |
 | [Cloudflare Workers AI](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-ai) | 117 | Interact with Cloudflare Workers AI directly in your Raycast window | dharmin_nagar | macOS, Windows | [store](https://www.raycast.com/dharmin_nagar/cloudflare-ai) |
-| [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) | 117 | Manage your Collected Notes blog | txemaleon | macOS | [store](https://www.raycast.com/txemaleon/collected-notes) |
+| [Collected Notes](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) | 116 | Manage your Collected Notes blog | txemaleon | macOS | [store](https://www.raycast.com/txemaleon/collected-notes) |
 | [Convex](https://github.com/raycast/extensions/tree/main/extensions/convex) | 116 | Interact with your Convex projects directly from Raycast | devwithbobby | macOS | [store](https://www.raycast.com/devwithbobby/convex) |
 | [Codeforces](https://github.com/raycast/extensions/tree/main/extensions/codeforces-extension) | 115 | Gives details about latest contests and details about any handle | harsh_varshney | macOS | [store](https://www.raycast.com/harsh_varshney/codeforces-extension) |
 | [Contentful](https://github.com/raycast/extensions/tree/main/extensions/contentful) | 113 | Browse and search Contentful content and assets library | ewgenius | macOS | [store](https://www.raycast.com/ewgenius/contentful) |
