@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b3ddec27ab8787414045799730d8f6cd29020e0f",
-  "generatedAt": "2026-09-26T06:24:23.627Z",
-  "downloadsRefreshedAt": "2026-09-26T06:24:22.842Z",
+  "commit": "72f5294e120cc0d6063f368f7ba3342a39b592d1",
+  "generatedAt": "2026-09-26T06:26:25.288Z",
+  "downloadsRefreshedAt": "2026-09-26T06:26:24.904Z",
   "count": 3322,
   "extensions": [
     {
@@ -22769,7 +22769,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 560231
+      "downloads": 560233
     },
     {
       "dir": "google-chrome-profiles",
@@ -29237,7 +29237,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 760083
+      "downloads": 760084
     },
     {
       "dir": "kimai",
@@ -56618,7 +56618,7 @@
       "description": "Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar.",
       "author": "mattisssa",
       "owner": null,
-      "contributors": 37,
+      "contributors": 38,
       "categories": [
         "Media",
         "Productivity"
@@ -56630,7 +56630,7 @@
       ],
       "store": "https://www.raycast.com/mattisssa/spotify-player",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/spotify-player",
-      "treeSha": "e2bb4dce040da78401615f955295c960b507a06e",
+      "treeSha": "a3fd9be8dba68160e71acd171baf2b3df684869a",
       "downloads": 481276
     },
     {

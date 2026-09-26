@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `72f5294e12`
+
+**Updated (1):** [Spotify Player](https://github.com/raycast/extensions/tree/main/extensions/spotify-player)
+
 ## 2026-09-26 — upstream `b3ddec27ab`
 
 **Updated (1):** [Calendly](https://github.com/raycast/extensions/tree/main/extensions/calendly)
