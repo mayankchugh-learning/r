@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `6eb7aa0bde`
+
+**Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)
+
 ## 2026-09-25 — upstream `9d0b6019d9`
 
 **Updated (1):** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles)

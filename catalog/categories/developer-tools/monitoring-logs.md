@@ -10,14 +10,14 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,988 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
-| [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,589 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
-| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,352 | Monitor and chat with your OpenClaw Gateway from Raycast | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
-| [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 442 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
-| [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 332 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
-| [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension) | 291 | Monitor and configure your systems managed by Beszel. | wyattjoh | macOS | [store](https://www.raycast.com/wyattjoh/beszel) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,989 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
+| [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,590 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
+| [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,355 | Monitor and chat with your OpenClaw Gateway from Raycast | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
+| [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 443 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
+| [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 333 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
+| [Beszel](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension) | 292 | Monitor and configure your systems managed by Beszel. | wyattjoh | macOS | [store](https://www.raycast.com/wyattjoh/beszel) |
 | [UptimeRobot](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) | 174 | View Monitors and Account Details | xmok | macOS | [store](https://www.raycast.com/xmok/uptime-robot) |
-| [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 159 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
+| [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 160 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
 | [Prusa Printer Control](https://github.com/raycast/extensions/tree/main/extensions/prusa) | 81 | Monitor and control your Prusa 3D printer directly from Raycast. View temperatures, manage files, and control prints with keyboard shortcuts. Supports Prusa XL… | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/prusa) |
 | [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) | 64 | Use 240+ LLMs through the EveryAPI gateway from Raycast — chat, switch models, and monitor account activity. | everyapi_dev | macOS, Windows | [store](https://www.raycast.com/everyapi_dev/everyapi) |
 | [OpenStatus](https://github.com/raycast/extensions/tree/main/extensions/openstatus) | 64 | Manage your OpenStatus monitors, Incidents and status page | thibaultleouay | macOS | [store](https://www.raycast.com/thibaultleouay/openstatus) |
@@ -32,7 +32,7 @@
 | [Micro Snitch Logs](https://github.com/raycast/extensions/tree/main/extensions/micro-snitch-logs) | 84 | Visualize Micro Snitch logs with beautiful formatting | jorgetoh | macOS | [store](https://www.raycast.com/jorgetoh/micro-snitch-logs) |
 | [Aliyun Flow](https://github.com/raycast/extensions/tree/main/extensions/aliyun-flow) | 32 | Raycast extension to list Aliyun Flow pipelines and logs | yggdrasil | macOS | [store](https://www.raycast.com/yggdrasil/aliyun-flow) |
 | [Laravel Cloud](https://github.com/raycast/extensions/tree/main/extensions/laravel-cloud) | 29 | Manage your Laravel Cloud applications, deployments, logs, and more directly from Raycast. | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/laravel-cloud) |
-| [Frp Client Manager](https://github.com/raycast/extensions/tree/main/extensions/frp-client-manager) | 1 | Manage a local frp client (frpc): service control, proxies, logs, config hot-reload, and version upgrades. | DanielZHAO | macOS | [store](https://www.raycast.com/DanielZHAO/frp-client-manager) |
+| [Frp Client Manager](https://github.com/raycast/extensions/tree/main/extensions/frp-client-manager) | 2 | Manage a local frp client (frpc): service control, proxies, logs, config hot-reload, and version upgrades. | DanielZHAO | macOS | [store](https://www.raycast.com/DanielZHAO/frp-client-manager) |
 
 ## Analytics ✦
 
@@ -40,16 +40,16 @@
 | --- | --- | --- | --- | --- | --- |
 | [Fathom Analytics Stats](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) | 149 | A Raycast extension to browse your website analytics coming from Fathom. | yannglt | macOS | [store](https://www.raycast.com/yannglt/fathom-analytics-stats) |
 | [Databuddy](https://github.com/raycast/extensions/tree/main/extensions/databuddy) | 27 | Privacy-first web analytics and link shortener. View websites, track visitors, and manage short links — all from Raycast. | izadoesdev | macOS, Windows | [store](https://www.raycast.com/izadoesdev/databuddy) |
-| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 25 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | openqr (org) | macOS | [store](https://www.raycast.com/openqr/openqr) |
+| [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 26 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | openqr (org) | macOS | [store](https://www.raycast.com/openqr/openqr) |
 | [Notra](https://github.com/raycast/extensions/tree/main/extensions/notra) | 11 | Explore GEO analytics and manage Notra content directly from Raycast. | dominikdev | macOS, Windows | [store](https://www.raycast.com/dominikdev/notra) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,348 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
-| [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,597 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
-| [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,452 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
+| [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,349 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
+| [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,600 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
+| [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,454 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 438 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
 | [ChangeDetection.io](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) | 243 | Website Change Detection For Clever People | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/changedetection-io) |
 | [Incident.io](https://github.com/raycast/extensions/tree/main/extensions/incident-io) | 113 | Gets the incidents from Incident.io | nkl | macOS | [store](https://www.raycast.com/nkl/incident-io) |
