@@ -1,6 +1,6 @@
 # macOS · Documentation
 
-214 extensions · [← macOS](../README.md)
+215 extensions · [← macOS](../README.md)
 
 ## Programming Docs
 
@@ -15,7 +15,7 @@
 | Topic | Extensions |
 | --- | --- |
 | [Cheatsheets & Snippets](./cheatsheets-snippets.md) | 23 |
-| [Dictionaries & Language](./dictionaries-language.md) | 6 |
+| [Dictionaries & Language](./dictionaries-language.md) | 7 |
 
 ## Knowledge & Community
 

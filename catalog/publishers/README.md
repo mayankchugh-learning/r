@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,275,268 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,275,319 |
 | 2 | [raycast](./id/raycast.md) | 11 | 892,480 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,895 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,821 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,943 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,850 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 490,104 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 486,108 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 453,106 |
@@ -1257,7 +1257,7 @@
 | 1247 | [AlanHuang](https://www.raycast.com/AlanHuang) | 1 | 194 |
 | 1248 | [joeynotjoe_2](https://www.raycast.com/joeynotjoe_2) | 1 | 194 |
 | 1249 | [vrn](https://www.raycast.com/vrn) | 1 | 194 |
-| 1250 | [davidyannick](https://www.raycast.com/davidyannick) | 1 | 193 |
+| 1250 | [davidyannick](https://www.raycast.com/davidyannick) | 2 | 193 |
 | 1251 | [jorgecortesdev](https://www.raycast.com/jorgecortesdev) | 1 | 193 |
 | 1252 | [max13021302](https://www.raycast.com/max13021302) | 1 | 193 |
 | 1253 | [Olli0103](https://www.raycast.com/Olli0103) | 2 | 192 |

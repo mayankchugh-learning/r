@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `a13fc097ae`
+
+**Added (1):** [Gaffiot Latin-French Dictionary](https://github.com/raycast/extensions/tree/main/extensions/gaffiot)
+
 ## 2026-09-26 — upstream `25a0579ffd`
 
 **Added (1):** [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode)

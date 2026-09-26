@@ -1,8 +1,8 @@
 # Writing & Text Tools
 
-72 extensions · [← Productivity](./README.md)
+73 extensions · [← Productivity](./README.md)
 
-[Markdown ✦](#markdown) (15) · [Dictionary ✦](#dictionary) (10) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (33)
+[Markdown ✦](#markdown) (15) · [Dictionary ✦](#dictionary) (11) · [Language ✦](#language) (6) · [Character ✦](#character) (4) · [Quote ✦](#quote) (4) · [General](#general) (33)
 
 *✦ auto-discovered topic group*
 
@@ -40,6 +40,7 @@
 | [Ensk.is](https://github.com/raycast/extensions/tree/main/extensions/ensk-is) | 40 | Search the Ensk.is English to Icelandic dictionary | jokull | macOS | [store](https://www.raycast.com/jokull/ensk-is) |
 | [Ordbøkene - Norwegian Dictionary](https://github.com/raycast/extensions/tree/main/extensions/raycast-ordbokene) | 40 | Search the official Norwegian dictionary for both bokmål and nynorsk definitions. | theherk | macOS | [store](https://www.raycast.com/theherk/raycast-ordbokene) |
 | [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | 39 | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
+| [Gaffiot Latin-French Dictionary](https://github.com/raycast/extensions/tree/main/extensions/gaffiot) | 0 | Look up Latin words in the Gaffiot 2016 Latin-French dictionary (G. Gréco et al.), offline | davidyannick | macOS | [store](https://www.raycast.com/davidyannick/gaffiot) |
 
 ## Language ✦
 

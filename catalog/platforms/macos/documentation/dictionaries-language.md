@@ -2,7 +2,7 @@
 
 [Language References](./language-references.md) · [Framework & Library Docs](./framework-library-docs.md) · [Cheatsheets & Snippets](./cheatsheets-snippets.md) · [Developer References](./developer-references.md) · [Wikis & Knowledge Bases](./wikis-knowledge-bases.md) · [Communities & Blogs](./communities-blogs.md) · **Dictionaries & Language** · [General](./general.md)
 
-6 of 214 extensions · [← macOS · Documentation](./README.md)
+7 of 215 extensions · [← macOS · Documentation](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -12,3 +12,4 @@
 | [Duden](https://github.com/raycast/extensions/tree/main/extensions/duden) | 93 | Search German words on Duden.de dictionary | c76b7srxxm | macOS, Windows | [store](https://www.raycast.com/c76b7srxxm/duden) |
 | [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | 39 | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
 | [Xiaohe Query](https://github.com/raycast/extensions/tree/main/extensions/xiaohe-query) | 5 | Query Xiaohe (Flypy) codes and decomposition for a single Chinese character. | dongqing | macOS | [store](https://www.raycast.com/dongqing/xiaohe-query) |
+| [Gaffiot Latin-French Dictionary](https://github.com/raycast/extensions/tree/main/extensions/gaffiot) | 0 | Look up Latin words in the Gaffiot 2016 Latin-French dictionary (G. Gréco et al.), offline | davidyannick | macOS | [store](https://www.raycast.com/davidyannick/gaffiot) |

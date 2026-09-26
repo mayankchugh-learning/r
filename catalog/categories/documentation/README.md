@@ -1,8 +1,8 @@
 # Documentation
 
-214 extensions · [← all categories](../README.md)
+215 extensions · [← all categories](../README.md)
 
-macOS: 214 · Windows: 65
+macOS: 215 · Windows: 65
 
 ## Programming Docs
 
@@ -17,7 +17,7 @@ macOS: 214 · Windows: 65
 | Topic | Extensions |
 | --- | --- |
 | [Cheatsheets & Snippets](./cheatsheets-snippets.md) | 23 |
-| [Dictionaries & Language](./dictionaries-language.md) | 6 |
+| [Dictionaries & Language](./dictionaries-language.md) | 7 |
 
 ## Knowledge & Community
 
