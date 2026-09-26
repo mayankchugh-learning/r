@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cc13cc2f75cd75899f23041e34d03e66b4360601",
-  "generatedAt": "2026-09-26T06:36:37.857Z",
-  "downloadsRefreshedAt": "2026-09-26T06:36:36.715Z",
+  "commit": "601e7d30e57e86753b3378241e88a92ca2681f77",
+  "generatedAt": "2026-09-26T06:48:06.408Z",
+  "downloadsRefreshedAt": "2026-09-26T06:48:06.001Z",
   "count": 3322,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "f815d610d7412d6dac89541ab6c00eebe6e5827e",
-      "downloads": 601337
+      "downloads": 601351
     },
     {
       "dir": "color-shades",
@@ -22769,7 +22769,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 560237
+      "downloads": 560246
     },
     {
       "dir": "google-chrome-profiles",
@@ -29237,7 +29237,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 760090
+      "downloads": 760100
     },
     {
       "dir": "kimai",
@@ -35758,7 +35758,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "01d53e50923a6b6950e80d9a72a212cd6d4d0689",
-      "downloads": 42375
+      "downloads": 42379
     },
     {
       "dir": "models-dev",
@@ -61501,7 +61501,7 @@
       "description": "Manage your todo list quickly by adding items and marking items as completed.",
       "author": "maggie",
       "owner": null,
-      "contributors": 9,
+      "contributors": 10,
       "categories": [
         "Applications",
         "Productivity"
@@ -61513,8 +61513,8 @@
       ],
       "store": "https://www.raycast.com/maggie/todo-list",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/todo-list",
-      "treeSha": "a47a772fa502aab1f04be78ff37e5dea8e598474",
-      "downloads": 18934
+      "treeSha": "074acd3b4b44627bd486075d1391784ed16b3c4c",
+      "downloads": 18936
     },
     {
       "dir": "todoist",

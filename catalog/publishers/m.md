@@ -18,7 +18,7 @@
 | [madmaxmckinney](https://www.raycast.com/madmaxmckinney) | 2 | 783 | **Documentation:** [Figma Learn Companion](https://github.com/raycast/extensions/tree/main/extensions/figma-learn-companion)<br>**Fun:** [Lotus - MTG Companion](https://github.com/raycast/extensions/tree/main/extensions/lotus-mtg-companion) |
 | [madushanj](https://www.raycast.com/madushanj) | 1 | 898 | **Productivity:** [Folder Organizer](https://github.com/raycast/extensions/tree/main/extensions/folder-organizer) |
 | [madza](https://www.raycast.com/madza) | 1 | 3,076 | **Design Tools:** [Apple Devices](https://github.com/raycast/extensions/tree/main/extensions/apple-devices) |
-| [maggie](https://www.raycast.com/maggie) | 2 | 23,858 | **Applications:** [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list)<br>**Fun:** [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) |
+| [maggie](https://www.raycast.com/maggie) | 2 | 23,860 | **Applications:** [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list)<br>**Fun:** [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) |
 | [magicjaqk](https://www.raycast.com/magicjaqk) | 1 | 4,612 | **Developer Tools:** [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) |
 | [magneto](https://www.raycast.com/magneto) | 1 | 2,374 | **Web:** [Naver Search](https://github.com/raycast/extensions/tree/main/extensions/naver-search) |
 | [mah51](https://www.raycast.com/mah51) | 1 | 366 | **Documentation:** [Discord.js Documentation](https://github.com/raycast/extensions/tree/main/extensions/discordjs-documentation) |

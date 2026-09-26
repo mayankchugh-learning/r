@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `601e7d30e5`
+
+**Updated (1):** [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list)
+
 ## 2026-09-26 — upstream `cc13cc2f75`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)

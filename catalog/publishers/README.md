@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,274,008 |
-| 2 | [raycast](./id/raycast.md) | 11 | 891,899 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,090 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,237 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,274,022 |
+| 2 | [raycast](./id/raycast.md) | 11 | 891,903 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 760,100 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 560,246 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 489,721 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 485,779 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 452,793 |
@@ -108,7 +108,7 @@
 | 98 | [appest](https://www.raycast.com/appest) | 1 | 24,485 |
 | 99 | [ewlcheng](https://www.raycast.com/ewlcheng) | 1 | 24,156 |
 | 100 | [danieldbird](https://www.raycast.com/danieldbird) | 2 | 24,001 |
-| 101 | [maggie](https://www.raycast.com/maggie) | 2 | 23,858 |
+| 101 | [maggie](https://www.raycast.com/maggie) | 2 | 23,860 |
 | 102 | [ajaypremshankar](https://www.raycast.com/ajaypremshankar) | 2 | 23,545 |
 | 103 | [pomdtr](https://www.raycast.com/pomdtr) | 6 | 23,423 |
 | 104 | [Keyruu](https://www.raycast.com/Keyruu) | 1 | 23,206 |
