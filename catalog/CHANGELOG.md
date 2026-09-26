@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-26 — upstream `4735f1656f`
+
+**Updated (1):** [Open Folders](https://github.com/raycast/extensions/tree/main/extensions/open-folders)
+
 ## 2026-09-26 — upstream `0197bea752`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
