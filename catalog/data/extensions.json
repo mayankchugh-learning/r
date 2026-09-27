@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "7854ed807655993a6e742c4c20e1caa5f7f4d7ec",
-  "generatedAt": "2026-09-27T17:39:33.786Z",
-  "downloadsRefreshedAt": "2026-09-27T17:39:33.531Z",
+  "commit": "eb4bed57e3adff8654bb2d3a9ef9c5122b38fc91",
+  "generatedAt": "2026-09-27T17:41:22.114Z",
+  "downloadsRefreshedAt": "2026-09-27T17:41:21.232Z",
   "count": 3325,
   "extensions": [
     {
@@ -15251,7 +15251,7 @@
       ],
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
-      "treeSha": "01debd0b958628529c185043a6c2264a19afd453",
+      "treeSha": "de18a880f54128b9e5e6f7d219923f79f55c2ce5",
       "downloads": 194
     },
     {
@@ -35779,7 +35779,7 @@
       "store": "https://www.raycast.com/raycast/model-context-protocol-registry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry",
       "treeSha": "5373efaeed3576caa7a65919a4e87f28208e246b",
-      "downloads": 42464
+      "downloads": 42468
     },
     {
       "dir": "models-dev",

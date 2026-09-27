@@ -30,7 +30,7 @@
 | [rauno](https://www.raycast.com/rauno) | 1 | 1,875 | **Applications:** [(Basic) Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/bmrks) |
 | [ravi_s](https://www.raycast.com/ravi_s) | 1 | 12 | **Data:** [EdgeStore](https://github.com/raycast/extensions/tree/main/extensions/edgestore-raycast) |
 | [ray_tan](https://www.raycast.com/ray_tan) | 1 | 34 | **Developer Tools:** [Auth0 Management](https://github.com/raycast/extensions/tree/main/extensions/auth0-management) |
-| [raycast](./id/raycast.md) | 11 | 893,630 | [see all 11 →](./id/raycast.md) |
+| [raycast](./id/raycast.md) | 11 | 893,634 | [see all 11 →](./id/raycast.md) |
 | [raycast_0ukl](https://www.raycast.com/raycast_0ukl) | 1 | 7 | **Developer Tools:** [Aqua Registry Search](https://github.com/raycast/extensions/tree/main/extensions/aqua-registry-search) |
 | [Raynold](https://www.raycast.com/Raynold) | 1 | 9 | **Productivity:** [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) |
 | [raz_gaon](https://www.raycast.com/raz_gaon) | 1 | 1,141 | **Productivity:** [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) |
