@@ -1,8 +1,8 @@
 # AI ✦
 
-103 extensions · [← AI & Assistants](./README.md)
+104 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (11) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [Ask ✦](#ask) (5) · [General](#general) (54)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (12) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Ask ✦](#ask) (5) · [Prompts ✦](#prompts) (4) · [General](#general) (54)
 
 *✦ auto-discovered topic group*
 
@@ -10,11 +10,11 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Whisper Dictation](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) | 5,512 | A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. | finjo | macOS | [store](https://www.raycast.com/finjo/whisper-dictation) |
-| [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research) | 3,871 | Iterative Deep Research powered by Raycast AI Extensions. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/research) |
-| [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,489 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
-| [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,336 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
-| [Rename Images with AI](https://github.com/raycast/extensions/tree/main/extensions/rename-images-with-ai) | 1,243 | AI-powered images and screenshots renaming extension that intelligently names files based on their content | husnainfareed | macOS | [store](https://www.raycast.com/husnainfareed/rename-images-with-ai) |
+| [Whisper Dictation](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) | 5,510 | A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. | finjo | macOS | [store](https://www.raycast.com/finjo/whisper-dictation) |
+| [Deep Research](https://github.com/raycast/extensions/tree/main/extensions/deep-research) | 3,868 | Iterative Deep Research powered by Raycast AI Extensions. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/research) |
+| [Supermemory](https://github.com/raycast/extensions/tree/main/extensions/supermemory) | 1,488 | Add and search memories with your personal AI-powered knowledge base | supermemory | macOS, Windows | [store](https://www.raycast.com/supermemory/supermemory) |
+| [TidyRead - Streamline Your Daily Reading](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) | 1,333 | An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. | jaredliu233 | macOS | [store](https://www.raycast.com/jaredliu233/tidyread---streamline-your-daily-reading) |
+| [Rename Images with AI](https://github.com/raycast/extensions/tree/main/extensions/rename-images-with-ai) | 1,242 | AI-powered images and screenshots renaming extension that intelligently names files based on their content | husnainfareed | macOS | [store](https://www.raycast.com/husnainfareed/rename-images-with-ai) |
 | [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background---replicate-api) | 1,026 | Remove image backgrounds instantly using AI Powered by Replicate | NathanThomassin | macOS, Windows | [store](https://www.raycast.com/NathanThomassin/remove-background---replicate-api) |
 | [Scira](https://github.com/raycast/extensions/tree/main/extensions/scira) | 971 | AI-powered search engine | zaidmukaddam | macOS | [store](https://www.raycast.com/zaidmukaddam/scira) |
 | [Smart Calendars AI – Create Events / Reminders Using AI](https://github.com/raycast/extensions/tree/main/extensions/smart-calendars-ai-create-events-using-ai) | 894 | Transform scheduling with AI-powered calendar management: Create events instantly by pasting text/emails/websites. | johannes_lohmeier | macOS | [store](https://www.raycast.com/johannes_lohmeier/smart-calendars-ai-create-events-using-ai) |
@@ -31,23 +31,24 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 8,815 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
-| [Grok AI](https://github.com/raycast/extensions/tree/main/extensions/grok-ai) | 2,679 | Query xAI's Grok directly from Raycast with streaming responses, conversation history, and custom model management | andrei_ciobotar | macOS | [store](https://www.raycast.com/andrei_ciobotar/grok-ai) |
-| [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,236 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
+| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 8,809 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
+| [Grok AI](https://github.com/raycast/extensions/tree/main/extensions/grok-ai) | 2,677 | Query xAI's Grok directly from Raycast with streaming responses, conversation history, and custom model management | andrei_ciobotar | macOS | [store](https://www.raycast.com/andrei_ciobotar/grok-ai) |
+| [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,235 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 964 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Stealth AI](https://github.com/raycast/extensions/tree/main/extensions/stealth-ai-tool) | 621 | In-line AI formatting. Configure your AI provider via the 'Configure AI Model' command. Set custom Hotkey & Alias per action in Settings. | ahmed | macOS, Windows | [store](https://www.raycast.com/ahmed/stealth-ai-tool) |
 | [Alice AI - Your Daily AI Actions Companion](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) | 451 | Alice helps with your daily tasks by providing quick access to reusable AI actions across OpenAI and Gemini models. | quiknull | macOS | [store](https://www.raycast.com/quiknull/alice-ai) |
 | [Not Diamond](https://github.com/raycast/extensions/tree/main/extensions/not-diamond) | 406 | Not Diamond is an AI model router that automatically determines which LLM is best-suited to respond to any query, improving LLM output quality by combining mul… | dragos_nedelcu | macOS | [store](https://www.raycast.com/dragos_nedelcu/not-diamond) |
-| [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 141 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |
+| [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 138 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 94 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |
-| [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 15 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
+| [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 10 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
 | [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 3 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |
+| [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 0 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
 
 ## Chat ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,289 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
+| [Hermes Agent](https://github.com/raycast/extensions/tree/main/extensions/hermes-agent) | 1,280 | Chat with your local Hermes AI assistant | dailin4321 | macOS | [store](https://www.raycast.com/dailin4321/hermes-agent) |
 | [Prompts.chat](https://github.com/raycast/extensions/tree/main/extensions/prompts-chat) | 750 | Search, browse, and copy AI prompts from prompts.chat - the community platform for ChatGPT and AI prompts | fka | macOS | [store](https://www.raycast.com/fka/prompts-chat) |
 | [Corcel AI](https://github.com/raycast/extensions/tree/main/extensions/corcel) | 475 | Use AI Chat and Image Generation | corcel.io | macOS | [store](https://www.raycast.com/corcel.io/corcel) |
 | [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 299 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
@@ -58,52 +59,52 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) | 61,367 | Interact with OpenAI GPT AI | simicvm | macOS | [store](https://www.raycast.com/simicvm/openai-gpt) |
-| [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) | 16,638 | Summarize any YouTube Video with AI. Choose between Raycast, OpenAI or Anthropic. You have to either be a Raycast Pro Member or have an OpenAI/Anthropic API Ke… | kom | Windows, macOS | [store](https://www.raycast.com/kom/summarize-youtube-video-with-ai) |
-| [Read AI - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/read-ai) | 2,999 | Revolutionize your reading with OpenAI's TTS technology—bringing words to your ears, ideal for auditory learners and the visually impaired. | JungHoonGhae | macOS | [store](https://www.raycast.com/JungHoonGhae/read-ai) |
+| [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) | 61,347 | Interact with OpenAI GPT AI | simicvm | macOS | [store](https://www.raycast.com/simicvm/openai-gpt) |
+| [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) | 16,627 | Summarize any YouTube Video with AI. Choose between Raycast, OpenAI or Anthropic. You have to either be a Raycast Pro Member or have an OpenAI/Anthropic API Ke… | kom | Windows, macOS | [store](https://www.raycast.com/kom/summarize-youtube-video-with-ai) |
+| [Read AI - Text to Speech](https://github.com/raycast/extensions/tree/main/extensions/read-ai) | 2,998 | Revolutionize your reading with OpenAI's TTS technology—bringing words to your ears, ideal for auditory learners and the visually impaired. | JungHoonGhae | macOS | [store](https://www.raycast.com/JungHoonGhae/read-ai) |
 | [AI Text to Calendar](https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar) | 609 | Convert selected text to Google Calendar event with OpenAI | izm51 | macOS | [store](https://www.raycast.com/izm51/ai-text-to-calendar) |
 | [Read My Screen](https://github.com/raycast/extensions/tree/main/extensions/read-my-screen) | 114 | AI screenshot and browser reader: OCR, explain errors, summarize pages, and review UI with GPT-4o, Claude, or Gemini. Use region, window, or full-screen captur… | erbilnas | macOS | [store](https://www.raycast.com/erbilnas/read-my-screen) |
 | [Voice-to-Text for Windows](https://github.com/raycast/extensions/tree/main/extensions/voice-to-text-windows) | 83 | Record speech from your microphone, transcribe it with OpenAI Whisper, and clean it up with AI | rennesis | Windows | [store](https://www.raycast.com/rennesis/voice-to-text-windows) |
 | [AI Voice Studio](https://github.com/raycast/extensions/tree/main/extensions/ai-voice-studio) | 50 | Read and generate speech from Raycast with Alibaba Cloud Qwen-TTS, Xiaomi MiMo, and OpenAI voices, speed control, and focused provider defaults. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/ai-voice-studio) |
 
-## Prompts ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 3,954 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
-| [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder) | 3,085 | Prompt Builder helps you craft clear, consistent AI prompts through a simple form. Define roles, tone, audience, and constraints to get better results faster.… | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/prompt-builder) |
-| [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,586 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
-| [PromptNote](https://github.com/raycast/extensions/tree/main/extensions/promptnote) | 175 | Manage your AI prompts with versioning and cloud sync | dimpurr | macOS | [store](https://www.raycast.com/dimpurr/promptnote) |
-
 ## Ask ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 11,186 | Manage Google Tasks from Raycast, and ask Raycast AI about them. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
-| [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 2,148 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
-| [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 888 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
+| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 11,179 | Manage Google Tasks from Raycast, and ask Raycast AI about them. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 2,146 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
+| [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 887 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
 | [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 33 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
 | [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 11 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
+
+## Prompts ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Prompt Stash](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) | 3,951 | Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. | renzo | macOS | [store](https://www.raycast.com/renzo/prompt-stash) |
+| [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder) | 3,078 | Prompt Builder helps you craft clear, consistent AI prompts through a simple form. Define roles, tone, audience, and constraints to get better results faster.… | koala1206 | macOS, Windows | [store](https://www.raycast.com/koala1206/prompt-builder) |
+| [Shell Buddy](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) | 1,585 | Converts natural language prompts to shell commands with AI | jebraat | macOS | [store](https://www.raycast.com/jebraat/shell-buddy) |
+| [PromptNote](https://github.com/raycast/extensions/tree/main/extensions/promptnote) | 175 | Manage your AI prompts with versioning and cloud sync | dimpurr | macOS | [store](https://www.raycast.com/dimpurr/promptnote) |
 
 ## General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 41,379 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
-| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 14,155 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
-| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 13,323 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
-| [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 4,961 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
-| [Memory](https://github.com/raycast/extensions/tree/main/extensions/memory) | 4,368 | Knowledge Graph Memory for Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/memory) |
-| [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage) | 3,738 | Monitor AI coding agent usage across AIHubMix, Amp, Antigravity, Claude, ClinePass, Codex, Copilot, Cursor, DeepSeek, Droid, Gemini, Grok, Kimi, MiniMax, Minim… | thuggyduck | macOS, Windows | [store](https://www.raycast.com/thuggyduck/agent-usage) |
-| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 3,033 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
-| [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts) | 2,486 | Convert selected or copied text to lifelike speech using ElevenLabs' premium AI voices | lachie_james | macOS | [store](https://www.raycast.com/lachie_james/elevenlabs-tts) |
-| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 2,293 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
-| [Contexts](https://github.com/raycast/extensions/tree/main/extensions/contexts) | 2,103 | Contexts lets you manage and access large text repositories for AI interactions. Create, edit, and organize contextual information about companies, products, o… | marcmagn1 | macOS | [store](https://www.raycast.com/marcmagn1/contexts) |
-| [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,567 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
-| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,141 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
-| [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 1,088 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
+| [Ollama AI](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) | 41,353 | Perform Local Inference with Ollama | massimiliano_pasquini | macOS, Windows | [store](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) |
+| [Reclaim](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) | 14,148 | AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar | reclaim-ai (org) | macOS, Windows | [store](https://www.raycast.com/reclaim-ai/reclaim-ai) |
+| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 13,313 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
+| [Code Execution](https://github.com/raycast/extensions/tree/main/extensions/code-execution) | 4,958 | Give Raycast AI the ability to run Python, Bash, and AppleScript | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/code) |
+| [Memory](https://github.com/raycast/extensions/tree/main/extensions/memory) | 4,364 | Knowledge Graph Memory for Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/memory) |
+| [Agent Usage](https://github.com/raycast/extensions/tree/main/extensions/agent-usage) | 3,732 | Monitor AI coding agent usage across AIHubMix, Amp, Antigravity, Claude, ClinePass, Codex, Copilot, Cursor, DeepSeek, Droid, Gemini, Grok, Kimi, MiniMax, Minim… | thuggyduck | macOS, Windows | [store](https://www.raycast.com/thuggyduck/agent-usage) |
+| [Obsidian Clippings](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) | 3,031 | Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary | trevware | macOS | [store](https://www.raycast.com/trevware/obs-clippings) |
+| [ElevenLabs TTS](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts) | 2,481 | Convert selected or copied text to lifelike speech using ElevenLabs' premium AI voices | lachie_james | macOS | [store](https://www.raycast.com/lachie_james/elevenlabs-tts) |
+| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 2,288 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
+| [Contexts](https://github.com/raycast/extensions/tree/main/extensions/contexts) | 2,102 | Contexts lets you manage and access large text repositories for AI interactions. Create, edit, and organize contextual information about companies, products, o… | marcmagn1 | macOS | [store](https://www.raycast.com/marcmagn1/contexts) |
+| [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,568 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
+| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,139 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
+| [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 1,087 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
 | [AI Git Assistant](https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant) | 820 | Your personal AI assistant for Git commit operations such as generating commit messages and PR descriptions | popalay | macOS | [store](https://www.raycast.com/popalay/ai-git-assistant) |
-| [Mistral](https://github.com/raycast/extensions/tree/main/extensions/mistral) | 797 | An unofficial extension to use Mistral AI from Raycast | colinlienard | macOS | [store](https://www.raycast.com/colinlienard/mistral) |
+| [Mistral](https://github.com/raycast/extensions/tree/main/extensions/mistral) | 796 | An unofficial extension to use Mistral AI from Raycast | colinlienard | macOS | [store](https://www.raycast.com/colinlienard/mistral) |
 | [Stablecog](https://github.com/raycast/extensions/tree/main/extensions/stablecog) | 766 | Create amazing art in seconds with AI. Generate and upscale images with Stablecog. | stablecog (org) | macOS | [store](https://www.raycast.com/stablecog/stablecog) |
 | [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 750 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |
 | [GetSound](https://github.com/raycast/extensions/tree/main/extensions/getsound) | 739 | Get focused with GetSound.AI | getsound-ai (org) | macOS | [store](https://www.raycast.com/getsound-ai/getsound) |

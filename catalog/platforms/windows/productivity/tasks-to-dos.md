@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 95,343 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
-| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 18,956 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
-| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 10,396 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
+| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 95,286 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
+| [Todo List](https://github.com/raycast/extensions/tree/main/extensions/todo-list) | 18,944 | Manage your todo list quickly by adding items and marking items as completed. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/todo-list) |
+| [Asana](https://github.com/raycast/extensions/tree/main/extensions/asana) | 10,387 | Create, access, and modify tasks. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/asana) |
 | [Lunatask](https://github.com/raycast/extensions/tree/main/extensions/lunatask) | 802 | Unofficial extension for Lunatask. Create tasks from Raycast. | posthardcode | macOS, Windows | [store](https://www.raycast.com/posthardcode/lunatask) |
 | [Manus Manager](https://github.com/raycast/extensions/tree/main/extensions/manus-manager) | 131 | Manage your Manus tasks | wong2 | macOS, Windows | [store](https://www.raycast.com/wong2/manus-manager) |
 | [Super Productivity](https://github.com/raycast/extensions/tree/main/extensions/super-productivity) | 107 | Manage Super Productivity tasks, projects, tags, and time tracking from Raycast. | pvnkmnk | macOS, Windows | [store](https://www.raycast.com/pvnkmnk/super-productivity) |

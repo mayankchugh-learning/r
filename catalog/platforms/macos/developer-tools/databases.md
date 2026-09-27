@@ -2,13 +2,13 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · **Databases** · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · [Package & Dependency Tools](./package-dependency-tools.md) · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-15 of 1126 extensions · [← macOS · Developer Tools](./README.md)
+15 of 1127 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 1,102 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
+| [Format SQL](https://github.com/raycast/extensions/tree/main/extensions/sql-format) | 1,101 | Format a SQL clause use standard SQL format | tonngw | macOS | [store](https://www.raycast.com/tonngw/sql-format) |
 | [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis) | 720 | Redis extension for Raycast | k8scat | macOS | [store](https://www.raycast.com/k8scat/redis) |
-| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 322 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
+| [FMHY Search](https://github.com/raycast/extensions/tree/main/extensions/fmhy-search) | 317 | Search the FreeMediaHeckYeah database of free resources | akshit_mehta | macOS, Windows | [store](https://www.raycast.com/akshit_mehta/fmhy-search) |
 | [Prisma CLI Commands](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) | 207 | Quickly search and use Prisma CLI Commands along with command details. | raj_asha | macOS | [store](https://www.raycast.com/raj_asha/prisma-cli-commands) |
 | [SQL Reference Search](https://github.com/raycast/extensions/tree/main/extensions/sql-reference-search) | 188 | Dialect-aware SQL reference with syntax, examples, and practical query patterns for PostgreSQL, MySQL, SQLite, and T-SQL. | FariaF22 | macOS, Windows | [store](https://www.raycast.com/FariaF22/sql-reference-search) |
 | [MongoDB ObjectId](https://github.com/raycast/extensions/tree/main/extensions/mongodb-objectid) | 123 | A Raycast extension that transform between MongoDB ObjectId and timestamps. | tssujt | macOS | [store](https://www.raycast.com/tssujt/mongodb-objectid) |

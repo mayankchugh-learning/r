@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `d0588435c8`
+
+**Added (1):** [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus)
+
 ## 2026-09-27 — upstream `7d2c8bc1e1`
 
 **Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)

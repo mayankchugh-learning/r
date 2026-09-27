@@ -2,15 +2,15 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · **Reading & Learning** · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-21 of 1502 extensions · [← macOS · Productivity](./README.md)
+21 of 1503 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 51,447 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
-| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 10,178 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
-| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 6,692 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
-| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 4,175 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
-| [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,711 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
+| [Messages](https://github.com/raycast/extensions/tree/main/extensions/messages) | 51,411 | Quickly read your latest messages, open your chats, or send messages to your contacts. | thomaslombart | macOS | [store](https://www.raycast.com/thomaslombart/messages) |
+| [Git Commands](https://github.com/raycast/extensions/tree/main/extensions/git-commands) | 10,171 | Quickly use and learn Git commands and Oh My Zsh aliases. | manumorante | macOS, Windows | [store](https://www.raycast.com/manumorante/git-commands) |
+| [Anki](https://github.com/raycast/extensions/tree/main/extensions/anki) | 6,691 | Anki extension for Raycast | anton-suprun | macOS | [store](https://www.raycast.com/anton-suprun/anki) |
+| [Apple Books](https://github.com/raycast/extensions/tree/main/extensions/apple-books) | 4,174 | Search Apple Books from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/apple-books) |
+| [GitHub Trending](https://github.com/raycast/extensions/tree/main/extensions/github-trending) | 3,709 | Discover trending GitHub repositories by language and time range, then preview, open, or jump into code from Raycast. | mikqi | macOS | [store](https://www.raycast.com/mikqi/github-trending) |
 | [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) | 1,479 | Interact with Omnivore read-it-later app | karolusd | macOS | [store](https://www.raycast.com/karolusd/omnivore) |
 | [Bed Time Calculator](https://github.com/raycast/extensions/tree/main/extensions/bed-time-calculator) | 579 | Calculate optimal sleep and wake times with color-coded quality indicators and natural language time input. | khlebobul | macOS, Windows | [store](https://www.raycast.com/khlebobul/bed-time-calculator) |
 | [Flight Search](https://github.com/raycast/extensions/tree/main/extensions/skyscanner-flights) | 519 | Search for flights with natural language and open results on Skyscanner.com | ayushtom | macOS, Windows | [store](https://www.raycast.com/ayushtom/skyscanner-flights) |

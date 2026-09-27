@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 257,356 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) | 61,367 | Interact with OpenAI GPT AI | simicvm | macOS | [store](https://www.raycast.com/simicvm/openai-gpt) |
-| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 13,323 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
-| [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | 11,343 | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |
-| [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,567 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
-| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,141 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 257,248 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [OpenAI GPT](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) | 61,347 | Interact with OpenAI GPT AI | simicvm | macOS | [store](https://www.raycast.com/simicvm/openai-gpt) |
+| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 13,313 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
+| [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) | 11,342 | AI generation using OpenAI's GPT-3 and DALL·E AI models | josephschmitt | macOS | [store](https://www.raycast.com/josephschmitt/ai-gen) |
+| [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,568 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
+| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,139 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
 | [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) | 863 | Modify screen captures using the latest generative AI models. | jochemloedeman | macOS | [store](https://www.raycast.com/jochemloedeman/ai-screenshot) |
 | [Restore Photos](https://github.com/raycast/extensions/tree/main/extensions/restore-photo) | 801 | Restore old photos using AI. Powered by https://restorephotos.io. | peduarte | macOS | [store](https://www.raycast.com/peduarte/restore-photos) |
 | [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 750 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |

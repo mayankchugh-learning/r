@@ -6,12 +6,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 12,105 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
-| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 9,981 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
-| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 9,435 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
-| [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 3,162 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
-| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,797 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
-| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,579 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
+| [Steam](https://github.com/raycast/extensions/tree/main/extensions/steam) | 12,099 | Search and view information about any game on steam, as well as games you own. | KevinBatdorf | Windows, macOS | [store](https://www.raycast.com/KevinBatdorf/steam) |
+| [Raycast Arcade](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) | 9,975 | Play simple and fun ASCII games in Raycast! | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-arcade) |
+| [Snake](https://github.com/raycast/extensions/tree/main/extensions/snake) | 9,433 | Play the classic snake game 🐍 | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/snake) |
+| [NBA & WNBA Viewer](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) | 3,160 | View upcoming NBA or WNBA games and team standings. | AbhinavPalacharla | macOS | [store](https://www.raycast.com/AbhinavPalacharla/nba-game-viewer) |
+| [Twitch](https://github.com/raycast/extensions/tree/main/extensions/twitch) | 2,796 | Search for Streams, Channels or Games on Twitch | dieserRobin | Windows, macOS | [store](https://www.raycast.com/dieserRobin/twitch) |
+| [Sportssync](https://github.com/raycast/extensions/tree/main/extensions/sportssync) | 1,577 | View scores, games, standings, news, injuries, and transactions across your favorite sports leagues | daniyal_master | macOS, Windows | [store](https://www.raycast.com/daniyal_master/sportssync) |
 | [Chess.com](https://github.com/raycast/extensions/tree/main/extensions/chess-com) | 1,248 | Quickly start games on Chess.com | joshfarrant | macOS, Windows | [store](https://www.raycast.com/joshfarrant/chess-com) |
 | [Wordle](https://github.com/raycast/extensions/tree/main/extensions/wordle) | 947 | Play Wordle locally once a day. | chrisalxlng | macOS | [store](https://www.raycast.com/chrisalxlng/wordle) |
 | [Rollcast](https://github.com/raycast/extensions/tree/main/extensions/rollcast) | 843 | Roll dice for your D&D games from Raycast! | troalexis | macOS, Windows | [store](https://www.raycast.com/troalexis/rollcast) |

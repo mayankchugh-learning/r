@@ -1,25 +1,26 @@
 # chrismessina
 
-17 extensions · 7,513 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
+18 extensions · 7,506 downloads · [store](https://www.raycast.com/chrismessina) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,580 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
+| [Raycast Store Updates](https://github.com/raycast/extensions/tree/main/extensions/raycast-store-updates) | 2,576 | Never miss new extensions or extension updates ever again! | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/raycast-store-updates) |
 | [Fathom](https://github.com/raycast/extensions/tree/main/extensions/fathom) | 230 | Search Fathom meetings, recordings, and team members | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/fathom) |
-| [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 110 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
+| [Claude Artifacts](https://github.com/raycast/extensions/tree/main/extensions/claude-artifacts) | 109 | Quickly find and open your Claude Artifacts. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/claude-artifacts) |
 | [Wrap Unwrap](https://github.com/raycast/extensions/tree/main/extensions/wrap-unwrap) | 108 | Wrap and unwrap text using Markdown-aware reflow. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/wrap-unwrap) |
 | [Bookface](https://github.com/raycast/extensions/tree/main/extensions/bookface) | 3 | Search Bookface and chat with the YC Agent from Raycast. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/bookface) |
 
-## Developer Tools (4)
+## Developer Tools (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,141 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
+| [Secret Browser Commands](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) | 1,139 | Access hidden Chromium browser features. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/secret-browser-commands) |
 | [Digger](https://github.com/raycast/extensions/tree/main/extensions/digger) | 278 | Like dig but for the web. Comprehensive website intelligence and metadata extraction. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/digger) |
 | [Asset Catalog Extractor](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) | 227 | Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/asset-catalog-extractor) |
 | [Trimmy](https://github.com/raycast/extensions/tree/main/extensions/trimmy) | 189 | "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/trimmy) |
+| [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 0 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
 
 ## Media (2)
 

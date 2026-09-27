@@ -2,16 +2,16 @@
 
 [AI & LLM Tools](./ai-llm-tools.md) · [Git & Version Control](./git-version-control.md) · [Mobile & App Development](./mobile-app-development.md) · [Web3 & Blockchain](./web3-blockchain.md) · [Issue Tracking & Projects](./issue-tracking-projects.md) · [CI/CD & DevOps](./ci-cd-devops.md) · [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) · [Databases](./databases.md) · [APIs & Networking](./apis-networking.md) · [Monitoring & Logs](./monitoring-logs.md) · [Terminal & Editors](./terminal-editors.md) · **Package & Dependency Tools** · [Web & Frontend](./web-frontend.md) · [Design & Assets](./design-assets.md) · [Automation & Scripting](./automation-scripting.md) · [Code, Snippets & Text Utilities](./code-snippets-text-utilities.md) · [Search & Reference](./search-reference.md) · [Files & Transfer](./files-transfer.md) · [General](./general.md)
 
-38 of 1126 extensions · [← macOS · Developer Tools](./README.md)
+38 of 1127 extensions · [← macOS · Developer Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 288,594 | Search, install and manage Homebrew formulae and casks | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
-| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 36,194 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
-| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 24,157 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
-| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 19,005 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
-| [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 8,820 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
-| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,719 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
+| [Brew](https://github.com/raycast/extensions/tree/main/extensions/brew) | 288,402 | Search, install and manage Homebrew formulae and casks | nhojb | macOS | [store](https://www.raycast.com/nhojb/brew) |
+| [Random Data Generator](https://github.com/raycast/extensions/tree/main/extensions/random-data-generator) | 36,175 | Generate random data using Faker library | loris | macOS, Windows | [store](https://www.raycast.com/loris/random) |
+| [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm) | 24,143 | Search for npm package information | mrmartineau | macOS, Windows | [store](https://www.raycast.com/mrmartineau/search-npm) |
+| [Manage Services](https://github.com/raycast/extensions/tree/main/extensions/brew-services) | 18,994 | Manage homebrew services | erics118 | macOS | [store](https://www.raycast.com/erics118/brew-services) |
+| [SnippetsLab](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) | 8,815 | Search and view contents in your SnippetsLab library. | renfei_song | macOS | [store](https://www.raycast.com/renfei_song/snippetslab) |
+| [Python](https://github.com/raycast/extensions/tree/main/extensions/python) | 3,714 | Search Python Packages on PyPi | ahmedivy | macOS, Windows | [store](https://www.raycast.com/ahmedivy/python) |
 | [Go Package Search](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) | 1,388 | Quickly search packages on https://pkg.go.dev | bstncartwright | macOS | [store](https://www.raycast.com/bstncartwright/go-package-search) |
 | [Maven Central Repository](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) | 1,263 | Official search by the maintainers of Maven Central Repository. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/maven-central-repository) |
 | [Search Composer Packagist](https://github.com/raycast/extensions/tree/main/extensions/search-composer-packagist) | 1,137 | Search Composer Packagist For PHP Packages | danyelkeddah | macOS | [store](https://www.raycast.com/danyelkeddah/search-composer-packagist) |

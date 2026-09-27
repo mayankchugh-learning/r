@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | 3,275 | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
-| [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,304 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
+| [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | 3,273 | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
+| [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,303 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
 | [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background---replicate-api) | 1,026 | Remove image backgrounds instantly using AI Powered by Replicate | NathanThomassin | macOS, Windows | [store](https://www.raycast.com/NathanThomassin/remove-background---replicate-api) |
 | [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) | 863 | Modify screen captures using the latest generative AI models. | jochemloedeman | macOS | [store](https://www.raycast.com/jochemloedeman/ai-screenshot) |
 | [Stablecog](https://github.com/raycast/extensions/tree/main/extensions/stablecog) | 766 | Create amazing art in seconds with AI. Generate and upscale images with Stablecog. | stablecog (org) | macOS | [store](https://www.raycast.com/stablecog/stablecog) |
