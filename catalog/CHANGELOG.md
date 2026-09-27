@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `1a430b671d`
+
+**Updated (1):** [GitLab](https://github.com/raycast/extensions/tree/main/extensions/gitlab)
+
 ## 2026-09-27 — upstream `eb4bed57e3`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
