@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b1e28dd363c370dfcfa3e0d2e2aead12a529cca5",
-  "generatedAt": "2026-09-27T08:09:37.070Z",
-  "downloadsRefreshedAt": "2026-09-27T08:09:36.053Z",
+  "commit": "5f87f868278d2eb4fc7476f5b6e2f206e149e487",
+  "generatedAt": "2026-09-27T08:10:32.565Z",
+  "downloadsRefreshedAt": "2026-09-27T08:10:32.120Z",
   "count": 3325,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "f815d610d7412d6dac89541ab6c00eebe6e5827e",
-      "downloads": 602643
+      "downloads": 602644
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 561206
+      "downloads": 561207
     },
     {
       "dir": "google-chrome-profiles",
@@ -58667,7 +58667,7 @@
       "description": "Show information and usage related to CPU, memory, power, network and temperature",
       "author": "hossammourad",
       "owner": null,
-      "contributors": 9,
+      "contributors": 10,
       "categories": [
         "Productivity",
         "System"
@@ -58678,7 +58678,7 @@
       ],
       "store": "https://www.raycast.com/hossammourad/raycast-system-monitor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/system-monitor",
-      "treeSha": "a2bbea20288800609a93a9c4547346d2544118ce",
+      "treeSha": "5882b4aaaa584d66b70e30bd2057cc53c717604c",
       "downloads": 118976
     },
     {
