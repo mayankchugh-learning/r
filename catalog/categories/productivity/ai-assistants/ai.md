@@ -1,8 +1,8 @@
 # AI ✦
 
-104 extensions · [← AI & Assistants](./README.md)
+105 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (12) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Ask ✦](#ask) (5) · [Prompts ✦](#prompts) (4) · [General](#general) (54)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Ask ✦](#ask) (5) · [Prompts ✦](#prompts) (4) · [General](#general) (54)
 
 *✦ auto-discovered topic group*
 
@@ -36,6 +36,7 @@
 | [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,237 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 965 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
 | [Stealth AI](https://github.com/raycast/extensions/tree/main/extensions/stealth-ai-tool) | 621 | In-line AI formatting. Configure your AI provider via the 'Configure AI Model' command. Set custom Hotkey & Alias per action in Settings. | ahmed | macOS, Windows | [store](https://www.raycast.com/ahmed/stealth-ai-tool) |
+| [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 605 | Run Replicate's AI models from Raycast, and use them in Raycast AI chats. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/replicate) |
 | [Alice AI - Your Daily AI Actions Companion](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) | 452 | Alice helps with your daily tasks by providing quick access to reusable AI actions across OpenAI and Gemini models. | quiknull | macOS | [store](https://www.raycast.com/quiknull/alice-ai) |
 | [Not Diamond](https://github.com/raycast/extensions/tree/main/extensions/not-diamond) | 407 | Not Diamond is an AI model router that automatically determines which LLM is best-suited to respond to any query, improving LLM output quality by combining mul… | dragos_nedelcu | macOS | [store](https://www.raycast.com/dragos_nedelcu/not-diamond) |
 | [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 145 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |

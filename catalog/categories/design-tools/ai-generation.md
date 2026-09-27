@@ -1,6 +1,6 @@
 # AI Generation
 
-14 extensions · [← Design Tools](./README.md)
+15 extensions · [← Design Tools](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -9,6 +9,7 @@
 | [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background---replicate-api) | 1,028 | Remove image backgrounds instantly using AI Powered by Replicate | NathanThomassin | macOS, Windows | [store](https://www.raycast.com/NathanThomassin/remove-background---replicate-api) |
 | [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) | 863 | Modify screen captures using the latest generative AI models. | jochemloedeman | macOS | [store](https://www.raycast.com/jochemloedeman/ai-screenshot) |
 | [Stablecog](https://github.com/raycast/extensions/tree/main/extensions/stablecog) | 766 | Create amazing art in seconds with AI. Generate and upscale images with Stablecog. | stablecog (org) | macOS | [store](https://www.raycast.com/stablecog/stablecog) |
+| [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 605 | Run Replicate's AI models from Raycast, and use them in Raycast AI chats. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/replicate) |
 | [Whimsical](https://github.com/raycast/extensions/tree/main/extensions/whimsical) | 571 | Transform ideas into beautiful diagrams using AI. Automatically generates flowcharts, mindmaps, and sequence diagrams from natural language descriptions. | kud | macOS | [store](https://www.raycast.com/kud/whimsical) |
 | [Hugeicons UI](https://github.com/raycast/extensions/tree/main/extensions/hugeicons-ui) | 244 | Search, preview, bookmark, and use Hugeicons icons across Raycast and Raycast AI. | adnan_tresnjo | macOS | [store](https://www.raycast.com/adnan_tresnjo/hugeicons-ui) |
 | [Design Skills](https://github.com/raycast/extensions/tree/main/extensions/design-skills) | 206 | Browse, preview, and install brand design skills for your AI coding agent. | shivraj-roy | macOS, Windows | [store](https://www.raycast.com/shivraj-roy/design-skills) |

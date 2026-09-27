@@ -23,7 +23,7 @@ macOS: 291 · Windows: 90
 
 | Topic | Extensions |
 | --- | --- |
-| [AI Generation](./ai-generation.md) | 5 |
+| [AI Generation](./ai-generation.md) | 6 |
 | [Conversion, Upload & Download](./conversion-upload-download.md) | 12 |
 
 ## Discovered topics ✦
@@ -36,6 +36,6 @@ macOS: 291 · Windows: 90
 | [Media ✦](./media.md) | 5 |
 | [Post ✦](./post.md) | 4 |
 
-Plus [General](./general.md) — 82 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 81 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

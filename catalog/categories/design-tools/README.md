@@ -18,8 +18,8 @@ macOS: 162 · Windows: 47
 | --- | --- |
 | [Design Apps & Whiteboards](./design-apps-whiteboards.md) | 10 |
 | [Screenshots & Mockups](./screenshots-mockups.md) | 11 |
-| [AI Generation](./ai-generation.md) | 14 |
-| [3D & Motion](./3d-motion.md) | 2 |
+| [AI Generation](./ai-generation.md) | 15 |
+| [3D & Motion](./3d-motion.md) | 1 |
 
 ## Reference & Inspiration
 

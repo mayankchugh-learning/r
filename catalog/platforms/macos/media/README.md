@@ -21,7 +21,7 @@
 
 | Topic | Extensions |
 | --- | --- |
-| [AI Generation](./ai-generation.md) | 5 |
+| [AI Generation](./ai-generation.md) | 6 |
 | [Conversion, Upload & Download](./conversion-upload-download.md) | 12 |
 
-Plus [General](./general.md) — 109 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 108 extensions that don't fit a topic yet.

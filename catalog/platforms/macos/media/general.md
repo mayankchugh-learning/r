@@ -2,7 +2,7 @@
 
 [Music & Audio](./music-audio.md) · [Video & Streaming](./video-streaming.md) · [Images & Photos](./images-photos.md) · [Wallpapers & Art](./wallpapers-art.md) · [Books & Papers](./books-papers.md) · [AI Generation](./ai-generation.md) · [Conversion, Upload & Download](./conversion-upload-download.md) · **General**
 
-109 of 291 extensions · [← macOS · Media](./README.md)
+108 of 291 extensions · [← macOS · Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,6 @@
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 745 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 651 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
 | [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) | 636 | Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. \| Set your Owledge workspace at: https://search.owledge.app \| Documentat… | Romain | macOS | [store](https://www.raycast.com/Romain/owledge-raycast) |
-| [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 605 | Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/replicate) |
 | [RatingsDB](https://github.com/raycast/extensions/tree/main/extensions/ratingsdb) | 564 | Seamlessly search movie and tv show ratings and find where you can watch them! | krod12 | macOS | [store](https://www.raycast.com/krod12/ratingsdb) |
 | [Text Wiggle](https://github.com/raycast/extensions/tree/main/extensions/wiggle-text) | 531 | Create wiggly text walls for spamming. Satisfying to scroll through... | PineappleRind | macOS | [store](https://www.raycast.com/PineappleRind/wiggle-text) |
 | [Kinopoisk](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) | 459 | Search for movies using kinopoisk.ru | mattisssa | macOS | [store](https://www.raycast.com/mattisssa/kinopoisk) |

@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-135 of 1503 extensions · [← macOS · Productivity](./README.md)
+136 of 1503 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -70,6 +70,7 @@
 | [Claude Code Switcher](https://github.com/raycast/extensions/tree/main/extensions/claude-code-config-switcher) | 681 | Quickly switch between different Claude Code configurations and manage provider profiles | lavatorywang | macOS | [store](https://www.raycast.com/lavatorywang/claude-code-config-switcher) |
 | [Stealth AI](https://github.com/raycast/extensions/tree/main/extensions/stealth-ai-tool) | 621 | In-line AI formatting. Configure your AI provider via the 'Configure AI Model' command. Set custom Hotkey & Alias per action in Settings. | ahmed | macOS, Windows | [store](https://www.raycast.com/ahmed/stealth-ai-tool) |
 | [AI Text to Calendar](https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar) | 609 | Convert selected text to Google Calendar event with OpenAI | izm51 | macOS | [store](https://www.raycast.com/izm51/ai-text-to-calendar) |
+| [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 605 | Run Replicate's AI models from Raycast, and use them in Raycast AI chats. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/replicate) |
 | [Whimsical](https://github.com/raycast/extensions/tree/main/extensions/whimsical) | 571 | Transform ideas into beautiful diagrams using AI. Automatically generates flowcharts, mindmaps, and sequence diagrams from natural language descriptions. | kud | macOS | [store](https://www.raycast.com/kud/whimsical) |
 | [Corcel AI](https://github.com/raycast/extensions/tree/main/extensions/corcel) | 475 | Use AI Chat and Image Generation | corcel.io | macOS | [store](https://www.raycast.com/corcel.io/corcel) |
 | [Smart Reply - AI-Powered Multilingual Response Generator](https://github.com/raycast/extensions/tree/main/extensions/smart-reply) | 460 | AI-powered multilingual translator and response generator with customizable languages and tones. | kawamataryo | macOS, Windows | [store](https://www.raycast.com/kawamataryo/smart-reply) |

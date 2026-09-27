@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1a430b671d8e3d4185e93a8f6b2dfd150efd4d4b",
-  "generatedAt": "2026-09-27T17:42:20.051Z",
-  "downloadsRefreshedAt": "2026-09-27T17:42:19.390Z",
+  "commit": "04fa75dd5f62886ff11e446029379a096e792e58",
+  "generatedAt": "2026-09-27T20:04:39.238Z",
+  "downloadsRefreshedAt": "2026-09-27T20:04:38.018Z",
   "count": 3325,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 603222
+      "downloads": 603358
     },
     {
       "dir": "color-shades",
@@ -22226,7 +22226,7 @@
       "store": "https://www.raycast.com/tonka3000/gitlab",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gitlab",
       "treeSha": "51ab4bb47ddd921105233d75327a98e872583dcb",
-      "downloads": 22844
+      "downloads": 22846
     },
     {
       "dir": "gitlab-docs",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 561579
+      "downloads": 561671
     },
     {
       "dir": "google-chrome-profiles",
@@ -29258,7 +29258,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 761916
+      "downloads": 762047
     },
     {
       "dir": "kimai",
@@ -50519,7 +50519,7 @@
       "dir": "replicate",
       "name": "replicate",
       "title": "Replicate",
-      "description": "Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast.",
+      "description": "Run Replicate's AI models from Raycast, and use them in Raycast AI chats.",
       "author": "KevinBatdorf",
       "owner": null,
       "contributors": 2,
@@ -50534,7 +50534,7 @@
       ],
       "store": "https://www.raycast.com/KevinBatdorf/replicate",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/replicate",
-      "treeSha": "26183b175219eb47c0deb55a9d6238024547785b",
+      "treeSha": "22405277346745b233c3db706997849e255dbc4e",
       "downloads": 605
     },
     {

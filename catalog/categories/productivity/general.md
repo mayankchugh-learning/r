@@ -1,6 +1,6 @@
 # General
 
-380 extensions · [← Productivity](./README.md)
+379 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -137,7 +137,6 @@
 | [Kill Node Modules](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) | 623 | Remove selected node_modules | NicolasMontone | macOS, Windows | [store](https://www.raycast.com/NicolasMontone/kill-node-modules) |
 | [Pagespeed](https://github.com/raycast/extensions/tree/main/extensions/pagespeed) | 623 | A simple extension that reports page speed insights based on page-speed.dev | vorillaz | macOS | [store](https://www.raycast.com/vorillaz/pagespeed) |
 | [Xcode Cloud](https://github.com/raycast/extensions/tree/main/extensions/xcode-cloud) | 623 | Check your Xcode Cloud builds and start new ones. | yuta24 | macOS | [store](https://www.raycast.com/yuta24/xcode-cloud) |
-| [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 605 | Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/replicate) |
 | [Time](https://github.com/raycast/extensions/tree/main/extensions/time) | 597 | Show the current time. | g0d | macOS | [store](https://www.raycast.com/g0d/time) |
 | [Fix Link Embeds](https://github.com/raycast/extensions/tree/main/extensions/fix-link-embeds) | 561 | Fix Instagram, Twitter, Reddit and TikTok embeds by using proxy services (e.g. ddinstagram, fxtwitter). | eggsy | macOS | [store](https://www.raycast.com/eggsy/fix-link-embeds) |
 | [Capture](https://github.com/raycast/extensions/tree/main/extensions/capture) | 556 | Quickly create records in Capture with Raycast. | syhchen | macOS | [store](https://www.raycast.com/syhchen/capture) |

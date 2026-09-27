@@ -1,6 +1,6 @@
 # General
 
-82 extensions · [← Media](./README.md)
+81 extensions · [← Media](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,6 @@
 | [Badges - Shields.io](https://github.com/raycast/extensions/tree/main/extensions/badges) | 745 | Concise, consistent, and legible badges. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/badges) |
 | [Endel](https://github.com/raycast/extensions/tree/main/extensions/endel) | 651 | Interact with the Endel player. | zach | macOS | [store](https://www.raycast.com/zach/endel) |
 | [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) | 636 | Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. \| Set your Owledge workspace at: https://search.owledge.app \| Documentat… | Romain | macOS | [store](https://www.raycast.com/Romain/owledge-raycast) |
-| [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 605 | Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. | KevinBatdorf | macOS | [store](https://www.raycast.com/KevinBatdorf/replicate) |
 | [Text Wiggle](https://github.com/raycast/extensions/tree/main/extensions/wiggle-text) | 531 | Create wiggly text walls for spamming. Satisfying to scroll through... | PineappleRind | macOS | [store](https://www.raycast.com/PineappleRind/wiggle-text) |
 | [LoL Esports](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) | 335 | Search League of Legends esports schedules and standings. | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/lol-esports) |
 | [emojis.com](https://github.com/raycast/extensions/tree/main/extensions/emojis-com) | 320 | Search emojis on emojis.com | pondorasti | macOS | [store](https://www.raycast.com/pondorasti/emojis-com) |
