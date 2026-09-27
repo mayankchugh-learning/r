@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `3972b698c3`
+
+**Updated (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
+
 ## 2026-09-27 — upstream `9f80c0e1ed`
 
 **Updated (1):** [Windows Terminal](https://github.com/raycast/extensions/tree/main/extensions/windows-terminal)
