@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `8a56644c18`
+
+**Updated (1):** [Remove Paywall](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall)
+
 ## 2026-09-27 — upstream `ab59a3520e`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
