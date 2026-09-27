@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `d03d6e3272`
+
+**Updated (1):** [Leader Key](https://github.com/raycast/extensions/tree/main/extensions/leader-key)
+
 ## 2026-09-27 — upstream `f24378d036`
 
 **Updated (1):** [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest)

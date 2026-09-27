@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f24378d0361e9e4db9940cef5fbb6b0edb6ee422",
-  "generatedAt": "2026-09-27T16:14:22.095Z",
-  "downloadsRefreshedAt": "2026-09-27T16:14:21.606Z",
+  "commit": "d03d6e3272634e77a281d8a8c726d64671c626ad",
+  "generatedAt": "2026-09-27T16:16:26.106Z",
+  "downloadsRefreshedAt": "2026-09-27T16:16:25.678Z",
   "count": 3325,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 603133
+      "downloads": 603134
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 561522
+      "downloads": 561524
     },
     {
       "dir": "google-chrome-profiles",
@@ -29258,7 +29258,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 761834
+      "downloads": 761835
     },
     {
       "dir": "kimai",
@@ -30628,7 +30628,7 @@
       ],
       "store": "https://www.raycast.com/alexi.build/leader-key",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/leader-key",
-      "treeSha": "8ced8216a922730fb729740b3114f111a0ed79f9",
+      "treeSha": "a8804efb6ea2b4243f6fb7275df2d31a0ef64912",
       "downloads": 216
     },
     {
@@ -56361,7 +56361,7 @@
       "store": "https://www.raycast.com/tonka3000/speedtest",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/speedtest",
       "treeSha": "be95bd6b7af371579a69115c6b74de4bd71431c3",
-      "downloads": 182300
+      "downloads": 182310
     },
     {
       "dir": "spell",
