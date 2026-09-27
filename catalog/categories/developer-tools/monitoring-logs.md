@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,991 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
-| [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,590 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
+| [qBittorrent](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) | 2,995 | Manage your qBittorrent client directly from Raycast. Control downloads, add torrents, and monitor progress without leaving your workflow. | pernielsentikaer | Windows, macOS | [store](https://www.raycast.com/pernielsentikaer/qbitorrent) |
+| [PHP Monitor](https://github.com/raycast/extensions/tree/main/extensions/phpmon) | 1,591 | Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by defaul… | nicoverbruggen | macOS | [store](https://www.raycast.com/nicoverbruggen/php-monitor) |
 | [OpenClaw](https://github.com/raycast/extensions/tree/main/extensions/openclaw) | 1,360 | Monitor and chat with your OpenClaw Gateway from Raycast | leveragedrobot | macOS | [store](https://www.raycast.com/leveragedrobot/openclaw) |
 | [Lemniscate \| System Monitor](https://github.com/raycast/extensions/tree/main/extensions/lemniscate-system-monitor) | 443 | Get the basic CPU and memory usage information with process list | zhassulan_abdrakhmanov | macOS, Windows | [store](https://www.raycast.com/zhassulan_abdrakhmanov/lemniscate-system-monitor) |
 | [MonitorMate](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) | 334 | MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check th… | MuhaddiMu | macOS | [store](https://www.raycast.com/MuhaddiMu/monitor-mate) |
@@ -48,8 +48,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Sentry](https://github.com/raycast/extensions/tree/main/extensions/sentry) | 2,350 | Stay on top of your Sentry issues | thomas | macOS | [store](https://www.raycast.com/thomas/sentry) |
-| [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,601 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
-| [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,455 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
+| [Datadog](https://github.com/raycast/extensions/tree/main/extensions/datadog) | 1,603 | Access Datadog resources | bgnfu7re | macOS | [store](https://www.raycast.com/bgnfu7re/raycast-datadog) |
+| [Grafana](https://github.com/raycast/extensions/tree/main/extensions/grafana) | 1,457 | Convenient seach, shortcuts & commands for working with Grafana | Francois | macOS | [store](https://www.raycast.com/Francois/grafana) |
 | [PagerDuty](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) | 438 | Display PagerDuty incidents and helps updating status. | horimislime | macOS | [store](https://www.raycast.com/horimislime/pagerduty) |
 | [ChangeDetection.io](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) | 244 | Website Change Detection For Clever People | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/changedetection-io) |
 | [Incident.io](https://github.com/raycast/extensions/tree/main/extensions/incident-io) | 114 | Gets the incidents from Incident.io | nkl | macOS | [store](https://www.raycast.com/nkl/incident-io) |

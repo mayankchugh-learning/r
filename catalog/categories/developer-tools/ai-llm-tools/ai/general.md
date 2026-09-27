@@ -4,12 +4,12 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 13,313 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
-| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 2,288 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
-| [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,591 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
-| [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,568 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
-| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,139 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
-| [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 1,087 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
+| [PromptLab](https://github.com/raycast/extensions/tree/main/extensions/promptlab) | 13,323 | Create custom AI commands using powerful placeholders | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/promptlab) |
+| [Raycast AI Custom Providers](https://github.com/raycast/extensions/tree/main/extensions/raycast-ai-custom-providers) | 2,293 | Manage custom Raycast AI provider through extension | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/raycast-ai-custom-providers) |
+| [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) | 1,592 | Humanize AI Text | frolik | macOS | [store](https://www.raycast.com/frolik/ai-humanizer) |
+| [TL;DR (Too Long; Didn't Read)](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) | 1,567 | Let AI help you read articles from url. | chessjoe | macOS | [store](https://www.raycast.com/chessjoe/tl-dr-ai-summary-tool) |
+| [App Creator](https://github.com/raycast/extensions/tree/main/extensions/app-creator) | 1,141 | Allow AI to make simple HTML apps | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/app) |
+| [Gistly](https://github.com/raycast/extensions/tree/main/extensions/gistly) | 1,088 | YouTube AI Summaries & Transcripts | rafal_zawadzki | macOS | [store](https://www.raycast.com/rafal_zawadzki/gistly) |
 | [AI Git Assistant](https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant) | 820 | Your personal AI assistant for Git commit operations such as generating commit messages and PR descriptions | popalay | macOS | [store](https://www.raycast.com/popalay/ai-git-assistant) |
 | [Stablecog](https://github.com/raycast/extensions/tree/main/extensions/stablecog) | 766 | Create amazing art in seconds with AI. Generate and upscale images with Stablecog. | stablecog (org) | macOS | [store](https://www.raycast.com/stablecog/stablecog) |
 | [ChatGo](https://github.com/raycast/extensions/tree/main/extensions/chatgo) | 750 | A chatGPT AI Tool | DDDDesign | macOS | [store](https://www.raycast.com/DDDDesign/chatgo) |

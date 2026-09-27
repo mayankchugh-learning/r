@@ -4,8 +4,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover) | 27,712 | Add selected files or clipboard content to Dropover | jag-k | macOS | [store](https://www.raycast.com/jag-k/dropover) |
-| [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) | 1,063 | Compare or open content from Raycast in Kaleidoscope. | leitmotif (org) | macOS | [store](https://www.raycast.com/leitmotif/kaleidoscope) |
+| [Dropover](https://github.com/raycast/extensions/tree/main/extensions/dropover) | 27,730 | Add selected files or clipboard content to Dropover | jag-k | macOS | [store](https://www.raycast.com/jag-k/dropover) |
+| [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) | 1,064 | Compare or open content from Raycast in Kaleidoscope. | leitmotif (org) | macOS | [store](https://www.raycast.com/leitmotif/kaleidoscope) |
 | [Lark AppLink](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) | 725 | Open Lark AppLink | chyroc | macOS | [store](https://www.raycast.com/chyroc/lark-applink) |
 | [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) | 721 | Create Feishu/Lark online document quickly using native Feishu/Lark URLs. | rokcso | macOS | [store](https://www.raycast.com/rokcso/feishu-document-creator) |
 | [Quick AirDrop](https://github.com/raycast/extensions/tree/main/extensions/quick-airdrop) | 285 | Trigger the macOS AirDrop sheet for files, URLs, and clipboard contents — straight from Raycast | ridemountainpig | macOS | [store](https://www.raycast.com/ridemountainpig/quick-airdrop) |

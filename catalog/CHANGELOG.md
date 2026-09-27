@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `ffb07adb86`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-09-27 — upstream `d0588435c8`
 
 **Added (1):** [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus)
