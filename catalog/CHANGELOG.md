@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `b1e28dd363`
+
+**Updated (1):** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search)
+
 ## 2026-09-27 — upstream `802a7b2b81`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
