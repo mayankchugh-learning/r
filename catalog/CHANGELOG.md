@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `802a7b2b81`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-27 — upstream `ffb07adb86`
 
 **Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
