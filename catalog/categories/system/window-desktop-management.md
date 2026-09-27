@@ -1,8 +1,8 @@
 # Window & Desktop Management
 
-39 extensions · [← System](./README.md)
+40 extensions · [← System](./README.md)
 
-[Windows ✦](#windows) (17) · [Bar ✦](#bar) (8) · [Space ✦](#space) (6) · [Dock ✦](#dock) (4) · [General](#general) (4)
+[Windows ✦](#windows) (18) · [Bar ✦](#bar) (8) · [Space ✦](#space) (6) · [Dock ✦](#dock) (4) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
 
@@ -27,6 +27,7 @@
 | [WHost](https://github.com/raycast/extensions/tree/main/extensions/whost) | 15 | Managing hosts under Windows | abstyle | Windows | [store](https://www.raycast.com/abstyle/whost) |
 | [Quick Radios](https://github.com/raycast/extensions/tree/main/extensions/quick-radios) | 6 | Manage Windows Wi-Fi from Raycast: scan, connect, share via QR, and inspect connection details. | tejas911 | Windows | [store](https://www.raycast.com/tejas911/quick-radios) |
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 1 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
+| [Heed](https://github.com/raycast/extensions/tree/main/extensions/heed) | — | Move keyboard focus between windows and turn focus follows mouse on and off: Hyprland's movefocus and follow_mouse for macOS. | rbstp | macOS | — |
 
 ## Bar ✦
 

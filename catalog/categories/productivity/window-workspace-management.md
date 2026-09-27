@@ -1,8 +1,8 @@
 # Window & Workspace Management
 
-58 extensions · [← Productivity](./README.md)
+59 extensions · [← Productivity](./README.md)
 
-[Windows ✦](#windows) (27) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (8) · [General](#general) (13)
+[Windows ✦](#windows) (28) · [Desktop ✦](#desktop) (10) · [Spaces ✦](#spaces) (8) · [General](#general) (13)
 
 *✦ auto-discovered topic group*
 
@@ -37,6 +37,7 @@
 | [Sowiks: Screenshot & Recording](https://github.com/raycast/extensions/tree/main/extensions/sowiks) | 9 | Take screenshots and screen recordings with Sowiks — area, window, fullscreen and scrolling capture, OCR text, video and GIF recording, annotation and cloud sh… | Holiney | macOS | [store](https://www.raycast.com/Holiney/sowiks) |
 | [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router) | 3 | Route search queries and URLs to any installed browser and profile on Windows. | raghavg02 | Windows | [store](https://www.raycast.com/raghavg02/browser-router) |
 | [Mise Window Sets](https://github.com/raycast/extensions/tree/main/extensions/mise-window-sets) | 1 | Apply saved Mise window Sets from Raycast. | carlosaguado04 | macOS | [store](https://www.raycast.com/carlosaguado04/mise-window-sets) |
+| [Heed](https://github.com/raycast/extensions/tree/main/extensions/heed) | — | Move keyboard focus between windows and turn focus follows mouse on and off: Hyprland's movefocus and follow_mouse for macOS. | rbstp | macOS | — |
 
 ## Desktop ✦
 

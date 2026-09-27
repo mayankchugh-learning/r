@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · **R** · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-115 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+116 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -35,6 +35,7 @@
 | [Raynold](https://www.raycast.com/Raynold) | 1 | 9 | **Productivity:** [PlanWell](https://github.com/raycast/extensions/tree/main/extensions/planwell) |
 | [raz_gaon](https://www.raycast.com/raz_gaon) | 1 | 1,141 | **Productivity:** [Notion Researcher](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) |
 | [razz13](https://www.raycast.com/razz13) | 1 | 19 | **Productivity:** [Habitify](https://github.com/raycast/extensions/tree/main/extensions/habitify-raycast) |
+| rbstp | 1 | — | **System:** [Heed](https://github.com/raycast/extensions/tree/main/extensions/heed) |
 | [rclone](https://www.raycast.com/rclone) | 1 | 203 | **Data:** [rclone](https://github.com/raycast/extensions/tree/main/extensions/rclone-raycast) |
 | [rcouto](https://www.raycast.com/rcouto) | 2 | 345 | **System:** [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer)<br>**Applications:** [Capso](https://github.com/raycast/extensions/tree/main/extensions/capso) |
 | [reboot](https://www.raycast.com/reboot) | 1 | 11,760 | **Developer Tools:** [Hypersonic](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) |
@@ -92,7 +93,7 @@
 | [rogovk](https://www.raycast.com/rogovk) | 1 | 5 | **Productivity:** [Keyboard Layout Search](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-search) |
 | [rokartur](https://www.raycast.com/rokartur) | 2 | 1,006 | **Developer Tools:** [Commit Message Generator](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator)<br>**Media:** [BetterAudio](https://github.com/raycast/extensions/tree/main/extensions/betteraudio) |
 | [rokcso](https://www.raycast.com/rokcso) | 1 | 721 | **Applications:** [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) |
-| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 762,072 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
+| [rolandleth](https://www.raycast.com/rolandleth) | 1 | 762,082 | **Developer Tools:** [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) |
 | [rolfkoenders](https://www.raycast.com/RolfKoenders) | 1 | 20 | **Productivity:** [Keeply](https://github.com/raycast/extensions/tree/main/extensions/keeply) |
 | [Romain](https://www.raycast.com/Romain) | 1 | 636 | **Applications:** [Owledge - All Your Tools in One Search](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) |
 | [romain_lajeunesse](https://www.raycast.com/romain_lajeunesse) | 1 | 4 | **Developer Tools:** [Gatus Status](https://github.com/raycast/extensions/tree/main/extensions/gatus-status) |

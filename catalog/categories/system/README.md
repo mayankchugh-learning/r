@@ -1,15 +1,15 @@
 # System
 
-276 extensions · [← all categories](../README.md)
+277 extensions · [← all categories](../README.md)
 
-macOS: 260 · Windows: 51
+macOS: 261 · Windows: 51
 
 ## Apps & Windows
 
 | Topic | Extensions |
 | --- | --- |
 | [Apps & Processes](./apps-processes.md) | 42 |
-| [Window & Desktop Management](./window-desktop-management.md) | 39 |
+| [Window & Desktop Management](./window-desktop-management.md) | 40 |
 
 ## Hardware & Output
 

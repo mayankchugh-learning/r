@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `0c4bec8251`
+
+**Added (1):** [Heed](https://github.com/raycast/extensions/tree/main/extensions/heed)
+
 ## 2026-09-27 — upstream `a3616bad79`
 
 **Updated (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
