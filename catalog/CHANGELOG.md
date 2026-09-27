@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `8ab49071a8`
+
+**Updated (1):** [ShareX](https://github.com/raycast/extensions/tree/main/extensions/sharex)
+
 ## 2026-09-27 — upstream `e2a2adaba3`
 
 **Added (1):** [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds)

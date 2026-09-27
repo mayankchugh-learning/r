@@ -124,7 +124,7 @@
 | [andrewcincotta](https://www.raycast.com/andrewcincotta) | 1 | 1,371 | **Productivity:** [CopyQ Clipboard Manager](https://github.com/raycast/extensions/tree/main/extensions/copyq-clipboard-manager) |
 | [andrewjazbec](https://www.raycast.com/andrewjazbec) | 2 | 3,224 | **Media:** [Lyrics](https://github.com/raycast/extensions/tree/main/extensions/lyrics)<br>**Applications:** [LocalCan](https://github.com/raycast/extensions/tree/main/extensions/localcan) |
 | [AndrewUsher](https://www.raycast.com/AndrewUsher) | 1 | 568 | **Documentation:** [Playwright Documentation](https://github.com/raycast/extensions/tree/main/extensions/playwright-docs) |
-| andrey_tolstikov | 1 | — | **Finance:** [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) |
+| [andrey_tolstikov](https://www.raycast.com/andrey_tolstikov) | 1 | 0 | **Finance:** [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) |
 | [andworksGmbH](https://www.raycast.com/andworksGmbH) | 1 | 10 | **Productivity:** [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) |
 | [andy](https://www.raycast.com/andy) | 1 | 6 | **Media:** [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) |
 | [anfalas](https://www.raycast.com/anfalas) | 1 | 2,175 | **Developer Tools:** [Open in Sublime Text](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e2a2adaba33a0a7efb09e2aef49a279501e6a7df",
-  "generatedAt": "2026-09-27T20:13:18.331Z",
-  "downloadsRefreshedAt": "2026-09-27T20:13:17.930Z",
+  "commit": "8ab49071a87e63d3858ed2ed101054618152aeed",
+  "generatedAt": "2026-09-27T20:20:42.230Z",
+  "downloadsRefreshedAt": "2026-09-27T20:20:41.822Z",
   "count": 3326,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 603366
+      "downloads": 603375
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 561673
+      "downloads": 561679
     },
     {
       "dir": "google-chrome-profiles",
@@ -29258,7 +29258,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 762056
+      "downloads": 762065
     },
     {
       "dir": "kimai",
@@ -35883,10 +35883,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/andrey_tolstikov/moex-bonds",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/moex-bonds",
       "treeSha": "9e1f7e264c86210fbfeefe92ceea8fd31681a774",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "moji",
@@ -53759,7 +53759,7 @@
       "description": "Browse and create ShareX screenshots, videos, and GIFs from Raycast",
       "author": "the_revolution",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Media"
       ],
@@ -53769,7 +53769,7 @@
       ],
       "store": "https://www.raycast.com/the_revolution/sharex",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sharex",
-      "treeSha": "18e91e093b323752374f799d1de9fe1f787a81a7",
+      "treeSha": "94ebcfaf6ef2a58514deeaf85f89f293bdff6e43",
       "downloads": 679
     },
     {
