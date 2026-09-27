@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `fe32ccc64e`
+
+**Updated (1):** [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter)
+
 ## 2026-09-27 — upstream `d03d6e3272`
 
 **Updated (1):** [Leader Key](https://github.com/raycast/extensions/tree/main/extensions/leader-key)
