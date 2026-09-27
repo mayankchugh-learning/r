@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `a3616bad79`
+
+**Updated (1):** [Link Commands](https://github.com/raycast/extensions/tree/main/extensions/link-commands)
+
 ## 2026-09-27 — upstream `2c936f5d47`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
