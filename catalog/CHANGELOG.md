@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `54a2c7d36a`
+
+**Updated (1):** [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr)
+
 ## 2026-09-27 — upstream `fe32ccc64e`
 
 **Updated (1):** [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter)
