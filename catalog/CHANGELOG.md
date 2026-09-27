@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `7d2c8bc1e1`
+
+**Updated (1):** [Orion](https://github.com/raycast/extensions/tree/main/extensions/orion)
+
 ## 2026-09-26 — upstream `a13fc097ae`
 
 **Added (1):** [Gaffiot Latin-French Dictionary](https://github.com/raycast/extensions/tree/main/extensions/gaffiot)
