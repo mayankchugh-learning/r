@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `7854ed8076`
+
+**Updated (1):** [Model Context Protocol Registry](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry)
+
 ## 2026-09-27 — upstream `54a2c7d36a`
 
 **Updated (1):** [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr)
