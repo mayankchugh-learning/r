@@ -1,6 +1,6 @@
 # Publishers
 
-2229 publishers · [← catalog index](../README.md)
+2230 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,9 +8,9 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,277,425 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,277,431 |
 | 2 | [raycast](./id/raycast.md) | 11 | 893,634 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 762,050 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 762,056 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 561,673 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 490,804 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 486,825 |
@@ -2236,4 +2236,5 @@
 | 2226 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
 | 2227 | [yaanisy](https://www.raycast.com/yaanisy) | 1 | 0 |
 | 2228 | github-next | 2 | — |
-| 2229 | multi | 1 | — |
+| 2229 | andrey_tolstikov | 1 | — |
+| 2230 | multi | 1 | — |

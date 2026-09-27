@@ -1,8 +1,8 @@
 # Stocks & Trading
 
-17 extensions · [← Finance](./README.md)
+18 extensions · [← Finance](./README.md)
 
-[Markets ✦](#markets) (6) · [Stock ✦](#stock) (5) · [General](#general) (6)
+[Markets ✦](#markets) (6) · [Stock ✦](#stock) (5) · [General](#general) (7)
 
 *✦ auto-discovered topic group*
 
@@ -37,3 +37,4 @@
 | [Midas](https://github.com/raycast/extensions/tree/main/extensions/midas) | 56 | Midas is an AI Agent that manages on-chain trading, voting and more for you. | sunosuporno | macOS | [store](https://www.raycast.com/sunosuporno/midas) |
 | [Alpaca Trading](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) | 53 | Interact with your Alpaca trading account | stelo | macOS | [store](https://www.raycast.com/stelo/alpaca-trading) |
 | [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) | 10 | View your Charles Schwab brokerage accounts, positions, and charts | drew_levinson | macOS, Windows | [store](https://www.raycast.com/drew_levinson/schwab-portfolio) |
+| [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) | — | Search Russian bonds on the Moscow Exchange by name, ticker or ISIN: price, yield, coupons, offer and maturity. | andrey_tolstikov | macOS | — |

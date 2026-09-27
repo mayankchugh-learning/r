@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-195 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+196 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -124,6 +124,7 @@
 | [andrewcincotta](https://www.raycast.com/andrewcincotta) | 1 | 1,371 | **Productivity:** [CopyQ Clipboard Manager](https://github.com/raycast/extensions/tree/main/extensions/copyq-clipboard-manager) |
 | [andrewjazbec](https://www.raycast.com/andrewjazbec) | 2 | 3,224 | **Media:** [Lyrics](https://github.com/raycast/extensions/tree/main/extensions/lyrics)<br>**Applications:** [LocalCan](https://github.com/raycast/extensions/tree/main/extensions/localcan) |
 | [AndrewUsher](https://www.raycast.com/AndrewUsher) | 1 | 568 | **Documentation:** [Playwright Documentation](https://github.com/raycast/extensions/tree/main/extensions/playwright-docs) |
+| andrey_tolstikov | 1 | — | **Finance:** [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) |
 | [andworksGmbH](https://www.raycast.com/andworksGmbH) | 1 | 10 | **Productivity:** [FAVORO](https://github.com/raycast/extensions/tree/main/extensions/favoro) |
 | [andy](https://www.raycast.com/andy) | 1 | 6 | **Media:** [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) |
 | [anfalas](https://www.raycast.com/anfalas) | 1 | 2,175 | **Developer Tools:** [Open in Sublime Text](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) |

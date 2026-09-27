@@ -1,8 +1,8 @@
 # macOS · Finance
 
-154 extensions · [← macOS](../README.md)
+155 extensions · [← macOS](../README.md)
 
-[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (17) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (20) · [General](#general) (32)
+[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (18) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (20) · [General](#general) (32)
 
 ## Markets & Investing
 
@@ -27,6 +27,7 @@
 | [Adjacent](https://github.com/raycast/extensions/tree/main/extensions/adjacent) | 3 | Browse, search, and read news on Adjacent prediction markets, indices, and rates. | Lucas-Kohorst | macOS | [store](https://www.raycast.com/Lucas-Kohorst/adjacent) |
 | [Average Saham Indonesia](https://github.com/raycast/extensions/tree/main/extensions/average-saham-indonesia) | 3 | Calculate your Indonesian stock average price (Average Up / Average Down) instantly, right from Raycast. | uluumbch | macOS, Windows | [store](https://www.raycast.com/uluumbch/average-saham-indonesia) |
 | [Hyperliquid](https://github.com/raycast/extensions/tree/main/extensions/hyperliquid) | 2 | Browse Hyperliquid perp markets, track your positions and PnL, and pin live prices to your menu bar — all read-only. | insuline | macOS | [store](https://www.raycast.com/Insuline/hyperliquid) |
+| [MOEX Bonds](https://github.com/raycast/extensions/tree/main/extensions/moex-bonds) | — | Search Russian bonds on the Moscow Exchange by name, ticker or ISIN: price, yield, coupons, offer and maturity. | andrey_tolstikov | macOS | — |
 
 ### Crypto & Web3
 
