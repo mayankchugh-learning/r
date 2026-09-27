@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `851c895ce8`
+
+**Updated (1):** [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker)
+
 ## 2026-09-27 — upstream `f884f6b140`
 
 **Updated (1):** [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole)
