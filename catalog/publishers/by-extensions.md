@@ -399,7 +399,7 @@
 | 389 | [TwoMental](https://www.raycast.com/twomental) | 2 | 16 |
 | 390 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 391 | github-next | 2 | — |
-| 392 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 761,833 |
+| 392 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 761,834 |
 | 393 | [Codely](https://www.raycast.com/Codely) | 1 | 561,522 |
 | 394 | [linear](https://www.raycast.com/linear) | 1 | 396,158 |
 | 395 | [mommertf](https://www.raycast.com/mommertf) | 1 | 329,462 |

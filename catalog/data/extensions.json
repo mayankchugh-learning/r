@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "8a56644c18e0f06c947639f5afb3dbe70481c3f1",
-  "generatedAt": "2026-09-27T16:13:25.242Z",
-  "downloadsRefreshedAt": "2026-09-27T16:13:24.811Z",
+  "commit": "f24378d0361e9e4db9940cef5fbb6b0edb6ee422",
+  "generatedAt": "2026-09-27T16:14:22.095Z",
+  "downloadsRefreshedAt": "2026-09-27T16:14:21.606Z",
   "count": 3325,
   "extensions": [
     {
@@ -29258,7 +29258,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 761833
+      "downloads": 761834
     },
     {
       "dir": "kimai",
@@ -56360,7 +56360,7 @@
       ],
       "store": "https://www.raycast.com/tonka3000/speedtest",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/speedtest",
-      "treeSha": "e833dfee3d1e793adc222fc32907bd3536bb9a01",
+      "treeSha": "be95bd6b7af371579a69115c6b74de4bd71431c3",
       "downloads": 182300
     },
     {
