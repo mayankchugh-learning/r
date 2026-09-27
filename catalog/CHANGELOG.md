@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-27 — upstream `f884f6b140`
+
+**Updated (1):** [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole)
+
 ## 2026-09-27 — upstream `5f87f86827`
 
 **Updated (1):** [System Monitor](https://github.com/raycast/extensions/tree/main/extensions/system-monitor)

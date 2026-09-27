@@ -58,7 +58,7 @@
 | [jiri_krystof_jedlicka](https://www.raycast.com/jiri_krystof_jedlicka) | 1 | 76 | **Fun:** [Pi Drill](https://github.com/raycast/extensions/tree/main/extensions/pi-drill) |
 | [JiriTrecak](https://www.raycast.com/JiriTrecak) | 1 | 658 | **Design Tools:** [Supernova](https://github.com/raycast/extensions/tree/main/extensions/supernova) |
 | [jlokos](https://www.raycast.com/jlokos) | 2 | 2,715 | **Communication:** [Superhuman](https://github.com/raycast/extensions/tree/main/extensions/superhuman), [Zero](https://github.com/raycast/extensions/tree/main/extensions/zero) |
-| [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,268 | **System:** [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) |
+| [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,306 | **System:** [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) |
 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 35,201 | **Developer Tools:** [UUID Generator](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) |
 | [jns](https://www.raycast.com/jns) | 4 | 2,153 | **Communication:** [NATO Phonetic Alphabet](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet), [Himalaya](https://github.com/raycast/extensions/tree/main/extensions/himalaya)<br>**System:** [SABnzbd](https://github.com/raycast/extensions/tree/main/extensions/sabnzbd)<br>**Productivity:** [Comodoro](https://github.com/raycast/extensions/tree/main/extensions/comodoro) |
 | [joao.mainka](https://www.raycast.com/joao.mainka) | 1 | 21,674 | **Productivity:** [Timezone Converter](https://github.com/raycast/extensions/tree/main/extensions/timezone-converter) |
@@ -99,7 +99,7 @@
 | [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 336 | **Developer Tools:** [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) |
 | [jose-elias-alvarez](https://www.raycast.com/jose-elias-alvarez) | 1 | 1,715 | **Developer Tools:** [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) |
 | [joseph_emmanuel](https://www.raycast.com/joseph_emmanuel) | 1 | 7 | **System:** [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) |
-| [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 116,708 | **Media:** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search), [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) |
+| [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 116,726 | **Media:** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search), [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) |
 | [josha1len](https://www.raycast.com/josha1len) | 1 | 639 | **Applications:** [WHOOP](https://github.com/raycast/extensions/tree/main/extensions/whoop) |
 | [joshandromidas](https://www.raycast.com/joshandromidas) | 1 | 178 | **Media:** [Tautulli](https://github.com/raycast/extensions/tree/main/extensions/tautulli) |
 | [joshdales](https://www.raycast.com/joshdales) | 1 | 370 | **Developer Tools:** [Quick Git](https://github.com/raycast/extensions/tree/main/extensions/quick-git) |

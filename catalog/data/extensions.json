@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "5f87f868278d2eb4fc7476f5b6e2f206e149e487",
-  "generatedAt": "2026-09-27T08:10:32.565Z",
-  "downloadsRefreshedAt": "2026-09-27T08:10:32.120Z",
+  "commit": "f884f6b140a7a422e8712668e75ee01799c2f388",
+  "generatedAt": "2026-09-27T09:48:52.217Z",
+  "downloadsRefreshedAt": "2026-09-27T09:48:51.679Z",
   "count": 3325,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "f815d610d7412d6dac89541ab6c00eebe6e5827e",
-      "downloads": 602644
+      "downloads": 602712
     },
     {
       "dir": "color-shades",
@@ -21491,7 +21491,7 @@
       "store": "https://www.raycast.com/josephschmitt/gif-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gif-search",
       "treeSha": "f5ccbef57ee3dad00e817df43c2c1d1ab1f93096",
-      "downloads": 105365
+      "downloads": 105383
     },
     {
       "dir": "gift-stardew-valley",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 561207
+      "downloads": 561247
     },
     {
       "dir": "google-chrome-profiles",
@@ -29258,7 +29258,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 761384
+      "downloads": 761448
     },
     {
       "dir": "kimai",
@@ -35895,7 +35895,7 @@
       "description": "Deep clean and optimize your Mac",
       "author": "jlrochin",
       "owner": null,
-      "contributors": 1,
+      "contributors": 2,
       "categories": [
         "System"
       ],
@@ -35905,8 +35905,8 @@
       ],
       "store": "https://www.raycast.com/jlrochin/mole",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mole",
-      "treeSha": "3886eada399fcd58a87bd1216db0065c52c82d0c",
-      "downloads": 20268
+      "treeSha": "4b6d16b25d93a9da75966cf244257691a347b21e",
+      "downloads": 20306
     },
     {
       "dir": "mollie-for-raycast",
@@ -58679,7 +58679,7 @@
       "store": "https://www.raycast.com/hossammourad/raycast-system-monitor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/system-monitor",
       "treeSha": "5882b4aaaa584d66b70e30bd2057cc53c717604c",
-      "downloads": 118976
+      "downloads": 119010
     },
     {
       "dir": "t3-chat",

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,276,213 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,276,281 |
 | 2 | [raycast](./id/raycast.md) | 11 | 893,031 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 761,384 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 561,207 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 761,448 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 561,247 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 490,436 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 486,450 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 453,362 |
@@ -33,8 +33,8 @@
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 167,508 |
 | 24 | [loris](https://www.raycast.com/loris) | 6 | 137,771 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 120,901 |
-| 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 118,976 |
-| 27 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 116,708 |
+| 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 119,010 |
+| 27 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 116,726 |
 | 28 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 115,470 |
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 113,976 |
 | 30 | [erics118](https://www.raycast.com/erics118) | 3 | 105,602 |
@@ -122,7 +122,7 @@
 | 112 | [timothy_boye](https://www.raycast.com/timothy_boye) | 1 | 20,820 |
 | 113 | [JinShi](https://www.raycast.com/JinShi) | 4 | 20,401 |
 | 114 | [mmazzarolo](https://www.raycast.com/mmazzarolo) | 1 | 20,367 |
-| 115 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,268 |
+| 115 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,306 |
 | 116 | [ViGeng](https://www.raycast.com/ViGeng) | 9 | 19,250 |
 | 117 | [StevenRCE0](https://www.raycast.com/StevenRCE0) | 2 | 18,237 |
 | 118 | [maantje](https://www.raycast.com/maantje) | 2 | 17,530 |

@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 167,508 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,510 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,870 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,276,213 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,276,281 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 453,362 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,559 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,238 |
@@ -174,7 +174,7 @@
 | 164 | [mooxl](https://www.raycast.com/mooxl) | 2 | 209,976 |
 | 165 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 186,080 |
 | 166 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 171,908 |
-| 167 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 116,708 |
+| 167 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 116,726 |
 | 168 | [tegola](https://www.raycast.com/tegola) | 2 | 90,914 |
 | 169 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 64,486 |
 | 170 | [ratoru](https://www.raycast.com/ratoru) | 2 | 54,504 |
@@ -399,15 +399,15 @@
 | 389 | [TwoMental](https://www.raycast.com/twomental) | 2 | 15 |
 | 390 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 391 | github-next | 2 | — |
-| 392 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 761,384 |
-| 393 | [Codely](https://www.raycast.com/Codely) | 1 | 561,207 |
+| 392 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 761,448 |
+| 393 | [Codely](https://www.raycast.com/Codely) | 1 | 561,247 |
 | 394 | [linear](https://www.raycast.com/linear) | 1 | 395,797 |
 | 395 | [mommertf](https://www.raycast.com/mommertf) | 1 | 329,283 |
 | 396 | [nhojb](https://www.raycast.com/nhojb) | 1 | 288,594 |
 | 397 | [notion](https://www.raycast.com/notion) | 1 | 275,860 |
 | 398 | [khasbilegt](https://www.raycast.com/khasbilegt) | 1 | 246,780 |
 | 399 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 120,901 |
-| 400 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 118,976 |
+| 400 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 119,010 |
 | 401 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 113,976 |
 | 402 | [doist](https://www.raycast.com/doist) | 1 | 95,343 |
 | 403 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 77,314 |
@@ -440,7 +440,7 @@
 | 430 | [Alex_](https://www.raycast.com/Alex_) | 1 | 21,024 |
 | 431 | [timothy_boye](https://www.raycast.com/timothy_boye) | 1 | 20,820 |
 | 432 | [mmazzarolo](https://www.raycast.com/mmazzarolo) | 1 | 20,367 |
-| 433 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,268 |
+| 433 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,306 |
 | 434 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 16,897 |
 | 435 | [tailscale](https://www.raycast.com/tailscale) | 1 | 16,895 |
 | 436 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 16,848 |

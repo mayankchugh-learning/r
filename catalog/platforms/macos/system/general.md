@@ -14,7 +14,7 @@
 | [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 45,904 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 43,157 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 38,379 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
-| [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | 20,268 | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |
+| [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | 20,306 | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |
 | [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 14,788 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
 | [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 12,727 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
 | [Connect to VPN](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) | 12,558 | Connect to/disconnect from VPN | rasmusbe | macOS | [store](https://www.raycast.com/rasmusbe/connect-to-vpn) |
