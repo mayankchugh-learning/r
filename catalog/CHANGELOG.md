@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `5a39eea389`
+
+**Updated (1):** [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor)
+
 ## 2026-09-28 — upstream `f1f9c597ff`
 
 **Updated (1):** [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation)
