@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `5a00074987`
+
+**Updated (1):** [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control)
+
 ## 2026-09-28 — upstream `35453a6841`
 
 **Updated (1):** [1Bookmark](https://github.com/raycast/extensions/tree/main/extensions/1bookmark)
