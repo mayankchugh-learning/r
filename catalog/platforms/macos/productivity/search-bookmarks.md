@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · **Search & Bookmarks** · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-226 of 1507 extensions · [← macOS · Productivity](./README.md)
+225 of 1506 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -44,7 +44,6 @@
 | [Setapp](https://github.com/raycast/extensions/tree/main/extensions/setapp) | 4,679 | Search Setapp apps | lardissone | macOS | [store](https://www.raycast.com/lardissone/setapp) |
 | [Tailwind CSS Colorpicker](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) | 4,624 | Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. | magicjaqk | macOS, Windows | [store](https://www.raycast.com/magicjaqk/tw-colorpicker) |
 | [Open Browsers Profiles](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles) | 4,302 | Access your browsers profiles from Raycast | skydiver | macOS | [store](https://www.raycast.com/skydiver/browsers-profiles) |
-| [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket) | 4,153 | The extension allow you to quickly access repositories, pipelines and pull-requests in Bitbucket | Francois | macOS, Windows | [store](https://www.raycast.com/Francois/bitbucket) |
 | [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity) | 3,960 | Control Antigravity directly from Raycast - Search and open recent projects, handle extensions and commands. | meshal | macOS | [store](https://www.raycast.com/meshal/antigravity) |
 | [Pocket](https://github.com/raycast/extensions/tree/main/extensions/pocket) | 3,791 | Manage Pocket bookmarks from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/pocket) |
 | [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,627 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |

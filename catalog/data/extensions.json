@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "fb908c530a72dc8e2dde5bcdec4e5d2d3e54a32c",
-  "generatedAt": "2026-09-28T17:22:23.177Z",
-  "downloadsRefreshedAt": "2026-09-28T17:22:22.757Z",
+  "commit": "a4ee21624f47956a2af5e883ebc103795430d319",
+  "generatedAt": "2026-09-28T19:01:59.749Z",
+  "downloadsRefreshedAt": "2026-09-28T19:01:59.083Z",
   "count": 3331,
   "extensions": [
     {
@@ -5339,18 +5339,17 @@
       "owner": null,
       "contributors": 8,
       "categories": [
-        "Developer Tools",
-        "Productivity"
+        "Developer Tools"
       ],
-      "manifestCategorized": false,
+      "manifestCategorized": true,
       "platforms": [
         "macOS",
         "Windows"
       ],
       "store": "https://www.raycast.com/Francois/bitbucket",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/bitbucket",
-      "treeSha": "272c92ceacab93ee9dd608b3c8f0cc69accfbb35",
-      "downloads": 4153
+      "treeSha": "38e6021c183a15c7fdd3615385e33d840e5436e7",
+      "downloads": 4154
     },
     {
       "dir": "bitbucket-search-self-hosted",
@@ -10206,7 +10205,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 605044
+      "downloads": 605183
     },
     {
       "dir": "color-shades",
@@ -22812,7 +22811,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562884
+      "downloads": 562982
     },
     {
       "dir": "google-chrome-profiles",
@@ -29302,7 +29301,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 763776
+      "downloads": 763916
     },
     {
       "dir": "kimai",
@@ -48862,7 +48861,7 @@
       "store": "https://www.raycast.com/massimiliano_pasquini/raycast-ollama",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama",
       "treeSha": "9a7c4627f077504dd2a714b777d1538c3406f385",
-      "downloads": 41493
+      "downloads": 41499
     },
     {
       "dir": "raycast-ordbokene",

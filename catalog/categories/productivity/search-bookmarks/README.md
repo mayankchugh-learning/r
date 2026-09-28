@@ -1,6 +1,6 @@
 # Search & Bookmarks
 
-228 extensions · [← Productivity](../README.md)
+227 extensions · [← Productivity](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
@@ -9,8 +9,8 @@
 | [Tabs ✦](./tabs.md) | 5 |
 | [Documentation ✦](./documentation.md) | 15 |
 | [Recent ✦](./recent.md) | 9 |
-| [Repositories ✦](./repositories.md) | 9 |
 | [Library ✦](./library.md) | 8 |
+| [Repositories ✦](./repositories.md) | 8 |
 | [Sites ✦](./sites.md) | 6 |
 | [Across ✦](./across.md) | 5 |
 | [Chats ✦](./chats.md) | 5 |
