@@ -519,5 +519,5 @@
 | [N-Term Grade Calculator](https://github.com/raycast/extensions/tree/main/extensions/nterm-calculator) | 0 | Calculate Dutch exam grades with the official N-term (CvTE) formula. | maarten_boelens | macOS, Windows | [store](https://www.raycast.com/maarten_boelens/nterm-calculator) |
 | [Nbnhhsh – Chinese Abbreviations](https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh) | 0 | Decode Chinese pinyin abbreviations and internet slang with 能不能好好说话 (nbnhhsh). | Astatine-213 | macOS | [store](https://www.raycast.com/Astatine-213/nbnhhsh) |
 | [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu) | 0 | Today's and this week's NUST hostel mess menu. | muhammadaljoufi | macOS | [store](https://www.raycast.com/muhammadaljoufi/nust-mess-menu) |
+| [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) | 0 | Manage Switcheroo keyboard remapper configuration | mjphayes | macOS | [store](https://www.raycast.com/mjphayes/switcheroo) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
-| [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) | — | Manage Switcheroo keyboard remapper configuration | mjphayes | macOS | — |

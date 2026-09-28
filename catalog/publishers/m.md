@@ -138,7 +138,7 @@
 | [mitsimi](https://www.raycast.com/mitsimi) | 1 | 67 | **Developer Tools:** [Gitea](https://github.com/raycast/extensions/tree/main/extensions/gitea) |
 | [mjking](https://www.raycast.com/mjking) | 1 | 19 | **Communication:** [Area Code Search](https://github.com/raycast/extensions/tree/main/extensions/area-code-search) |
 | [mjoosuf](https://www.raycast.com/mjoosuf) | 1 | 3,376 | **Developer Tools:** [Open in Cursor](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) |
-| mjphayes | 1 | — | **System:** [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) |
+| [mjphayes](https://www.raycast.com/mjphayes) | 1 | 0 | **System:** [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) |
 | [mkhnsn](https://www.raycast.com/mkhnsn) | 1 | 33 | **Web:** [TabStash](https://github.com/raycast/extensions/tree/main/extensions/tabstash) |
 | [mmazzarolo](https://www.raycast.com/mmazzarolo) | 1 | 20,391 | **Productivity:** [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) |
 | [Mmehdi06](https://www.raycast.com/Mmehdi06) | 1 | 1,272 | **System:** [Single Focus](https://github.com/raycast/extensions/tree/main/extensions/single-focus) |

@@ -18,7 +18,7 @@
 | [Media Key Emulate](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) | 1,253 | Emulate keyboard media keys press. Reassign hotkey for media keys. | douo | macOS | [store](https://www.raycast.com/douo/global-media-key) |
 | [Media Switcher](https://github.com/raycast/extensions/tree/main/extensions/media-switcher) | 15 | Quickly switch between media sessions, control playback and adjust volume — all from the keyboard | muhammadrizo | Windows | [store](https://www.raycast.com/muhammadrizo/media-switcher) |
 | [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) | 7 | Raise, track, and action iPF OS tickets without leaving your keyboard. | joseph_emmanuel | Windows, macOS | [store](https://www.raycast.com/joseph_emmanuel/ipf-os) |
-| [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) | — | Manage Switcheroo keyboard remapper configuration | mjphayes | macOS | — |
+| [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) | 0 | Manage Switcheroo keyboard remapper configuration | mjphayes | macOS | [store](https://www.raycast.com/mjphayes/switcheroo) |
 
 ## Devices ✦
 

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `2bd2077808`
+
+**Updated (1):** [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot)
+
 ## 2026-09-28 — upstream `74f306f1ae`
 
 **Added (1):** [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo)

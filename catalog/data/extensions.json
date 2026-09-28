@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "74f306f1ae35841cdd0174b1b875f103bdad2336",
-  "generatedAt": "2026-09-28T12:36:37.487Z",
-  "downloadsRefreshedAt": "2026-09-28T12:36:36.861Z",
+  "commit": "2bd20778083b3f441676814b3959bccef0a27355",
+  "generatedAt": "2026-09-28T12:49:27.251Z",
+  "downloadsRefreshedAt": "2026-09-28T12:49:26.378Z",
   "count": 3329,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 604558
+      "downloads": 604579
     },
     {
       "dir": "color-shades",
@@ -21921,7 +21921,7 @@
       "description": "Delegate tasks to GitHub Copilot coding agent",
       "author": "timrogers",
       "owner": "github",
-      "contributors": 6,
+      "contributors": 7,
       "categories": [
         "Developer Tools",
         "Productivity"
@@ -21933,7 +21933,7 @@
       ],
       "store": "https://www.raycast.com/github/github-copilot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github-copilot",
-      "treeSha": "f1fc56a1929b51914974ee4e76967599613d7189",
+      "treeSha": "fd3cb1d27d1fd61237eb19d21ce3742ffdd64b76",
       "downloads": 11052
     },
     {
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562558
+      "downloads": 562569
     },
     {
       "dir": "google-chrome-profiles",
@@ -29280,7 +29280,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 763293
+      "downloads": 763309
     },
     {
       "dir": "kimai",
@@ -58615,10 +58615,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/mjphayes/switcheroo",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/switcheroo",
       "treeSha": "3edf5a2210c39e295ebc3c5d4d540aeada2d6d10",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "switchhosts",

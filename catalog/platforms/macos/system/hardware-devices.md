@@ -30,4 +30,4 @@
 | [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | 31 | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | [store](https://www.raycast.com/Dhaiwat10/mouse-cursor-toggle) |
 | [Toggle Trackpad](https://github.com/raycast/extensions/tree/main/extensions/toggle-trackpad) | 9 | Quickly toggle the built-in trackpad behavior when an external mouse or wireless trackpad is connected. | ksc73450056 | macOS | [store](https://www.raycast.com/ksc73450056/toggle-trackpad) |
 | [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) | 7 | Raise, track, and action iPF OS tickets without leaving your keyboard. | joseph_emmanuel | Windows, macOS | [store](https://www.raycast.com/joseph_emmanuel/ipf-os) |
-| [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) | — | Manage Switcheroo keyboard remapper configuration | mjphayes | macOS | — |
+| [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) | 0 | Manage Switcheroo keyboard remapper configuration | mjphayes | macOS | [store](https://www.raycast.com/mjphayes/switcheroo) |

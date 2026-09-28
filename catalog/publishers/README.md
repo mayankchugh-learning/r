@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,279,113 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,279,134 |
 | 2 | [raycast](./id/raycast.md) | 11 | 894,292 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,293 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,558 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,309 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,569 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 491,152 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 487,221 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
@@ -2235,9 +2235,9 @@
 | 2225 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
 | 2226 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2227 | [mert_tufekci](https://www.raycast.com/mert_tufekci) | 1 | 0 |
-| 2228 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2229 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
-| 2230 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2231 | github-next | 2 | — |
-| 2232 | mjphayes | 1 | — |
+| 2228 | [mjphayes](https://www.raycast.com/mjphayes) | 1 | 0 |
+| 2229 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2230 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
+| 2231 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2232 | github-next | 2 | — |
 | 2233 | multi | 1 | — |
