@@ -6,9 +6,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 7,522 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
-| [Compress PDF](https://github.com/raycast/extensions/tree/main/extensions/compress-pdf) | 6,353 | Compress PDF files | felixhaeberle | macOS | [store](https://www.raycast.com/felixhaeberle/compress-pdf) |
-| [Toggle Desktop Visibility](https://github.com/raycast/extensions/tree/main/extensions/toggle-desktop-visibility) | 4,622 | Toggle Desktop file or folder visible and hidden | Haojen | macOS | [store](https://www.raycast.com/Haojen/toggle-desktop-visibility) |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 7,531 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Compress PDF](https://github.com/raycast/extensions/tree/main/extensions/compress-pdf) | 6,358 | Compress PDF files | felixhaeberle | macOS | [store](https://www.raycast.com/felixhaeberle/compress-pdf) |
+| [Toggle Desktop Visibility](https://github.com/raycast/extensions/tree/main/extensions/toggle-desktop-visibility) | 4,623 | Toggle Desktop file or folder visible and hidden | Haojen | macOS | [store](https://www.raycast.com/Haojen/toggle-desktop-visibility) |
 | [Compresto](https://github.com/raycast/extensions/tree/main/extensions/compressx) | 3,565 | Compress files easily, with up to 90% file size reduction | hieudinh | macOS | [store](https://www.raycast.com/hieudinh/compressx) |
 | [Transmission](https://github.com/raycast/extensions/tree/main/extensions/transmission) | 3,431 | View and manage torrents directly from Raycast. | FezVrasta | macOS | [store](https://www.raycast.com/FezVrasta/transmission) |
 | [mymind](https://github.com/raycast/extensions/tree/main/extensions/mymind) | 1,586 | Search, save, upload, and organize your mymind library with the official API | mymind (org) | macOS, Windows | [store](https://www.raycast.com/mymind/mymind) |
@@ -17,8 +17,8 @@
 | [put.io](https://github.com/raycast/extensions/tree/main/extensions/putio) | 634 | Raycast extension for managing files, transfers, and history events in your put.io account. | putio (org) | macOS | [store](https://www.raycast.com/putio/putio) |
 | [Text Differ](https://github.com/raycast/extensions/tree/main/extensions/text-differ) | 529 | Opens Text Differ from selected files | ErikFisher | macOS | [store](https://www.raycast.com/ErikFisher/text-differ) |
 | [Base64 to File](https://github.com/raycast/extensions/tree/main/extensions/base64-to-file) | 493 | convert base64 to file | forrestzh | macOS | [store](https://www.raycast.com/forrestzh/base64-to-file) |
-| [Cling File Search](https://github.com/raycast/extensions/tree/main/extensions/cling) | 387 | Instant fuzzy search over the whole filesystem using the Cling app | alin | macOS | [store](https://www.raycast.com/alin/cling) |
-| [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 242 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
+| [Cling File Search](https://github.com/raycast/extensions/tree/main/extensions/cling) | 388 | Instant fuzzy search over the whole filesystem using the Cling app | alin | macOS | [store](https://www.raycast.com/alin/cling) |
+| [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 243 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
 | [Prusa Printer Control](https://github.com/raycast/extensions/tree/main/extensions/prusa) | 81 | Monitor and control your Prusa 3D printer directly from Raycast. View temperatures, manage files, and control prints with keyboard shortcuts. Supports Prusa XL… | chad_walters | macOS | [store](https://www.raycast.com/chad_walters/prusa) |
 | [WebDAV Uploader](https://github.com/raycast/extensions/tree/main/extensions/webdav-uploader) | 81 | File uploader compatible with WebDAV | sevem | macOS | [store](https://www.raycast.com/sevem/webdav-uploader) |
 | [Zipline](https://github.com/raycast/extensions/tree/main/extensions/zipline) | 63 | Manage your Zipline uploads - browse, upload, and share files | treyg | macOS | [store](https://www.raycast.com/treyg/zipline) |

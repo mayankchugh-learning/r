@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `eefb21638c`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-27 — upstream `0c4bec8251`
 
 **Added (1):** [Heed](https://github.com/raycast/extensions/tree/main/extensions/heed)

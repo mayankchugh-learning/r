@@ -4,9 +4,9 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 753 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
+| [Latest Local News](https://github.com/raycast/extensions/tree/main/extensions/latest-news) | 754 | Latest local news served by Microsoft Bing | FilipeCerejo | macOS | [store](https://www.raycast.com/FilipeCerejo/latest-news) |
 | [Designer News](https://github.com/raycast/extensions/tree/main/extensions/designer-news) | 747 | See top design stories | itsnwa | macOS | [store](https://www.raycast.com/itsnwa/designer-news) |
-| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 628 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
+| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 629 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
 | [NASA](https://github.com/raycast/extensions/tree/main/extensions/nasa) | 594 | View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. | mSarheed | macOS, Windows | [store](https://www.raycast.com/mSarheed/nasa) |
 | [Headlines](https://github.com/raycast/extensions/tree/main/extensions/headlines) | 443 | Super breif news extension. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/headlines) |
 | [BBC News Headlines](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) | 388 | Read the latest BBC News headlines | gerardkeane | macOS | [store](https://www.raycast.com/gerardkeane/bbc-news-headlines) |
@@ -16,7 +16,7 @@
 | [Habr News](https://github.com/raycast/extensions/tree/main/extensions/habr-media) | 84 | Best News From Habr | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/habr-media) |
 | [VC.ru Popular News](https://github.com/raycast/extensions/tree/main/extensions/vc-ru-news) | 70 | List popular news from VC.ru | khlebobul | macOS | [store](https://www.raycast.com/khlebobul/vc-ru-news) |
 | [Omni News](https://github.com/raycast/extensions/tree/main/extensions/omni-news) | 67 | Fetching news from omni.se | MacRayCast | macOS | [store](https://www.raycast.com/MacRayCast/omni-news) |
-| [Meduza](https://github.com/raycast/extensions/tree/main/extensions/meduza) | 54 | Every day, we bring you the most important news and feature stories from hundreds of sources in Russia and across the former Soviet Union. Our team includes so… | castletaste | macOS | [store](https://www.raycast.com/castletaste/meduza) |
+| [Meduza](https://github.com/raycast/extensions/tree/main/extensions/meduza) | 55 | Every day, we bring you the most important news and feature stories from hundreds of sources in Russia and across the former Soviet Union. Our team includes so… | castletaste | macOS | [store](https://www.raycast.com/castletaste/meduza) |
 | [NL News Headlines](https://github.com/raycast/extensions/tree/main/extensions/nl-news-headlines) | 53 | Provides news headlines about the Netherlands from websites reporting in Dutch or English | ernest | macOS | [store](https://www.raycast.com/ernest/nl-news-headlines) |
 | [NU Nieuws](https://github.com/raycast/extensions/tree/main/extensions/nu-nieuws) | 52 | Used to display the latest (Dutch) news from nu.nl | j3lte | macOS | [store](https://www.raycast.com/j3lte/nu-nieuws) |
 | [DR News](https://github.com/raycast/extensions/tree/main/extensions/dr-news) | 47 | Showcases news updates from DR, Denmark's premier broadcaster, categorized by various topics. | kenanbendz | macOS | [store](https://www.raycast.com/kenanbendz/dr-news) |
