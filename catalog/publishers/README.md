@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,278,732 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,278,797 |
 | 2 | [raycast](./id/raycast.md) | 11 | 894,292 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 762,863 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,292 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 762,938 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,341 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 491,152 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 487,221 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
@@ -38,7 +38,7 @@
 | 28 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 115,622 |
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 114,162 |
 | 30 | [erics118](https://www.raycast.com/erics118) | 3 | 105,740 |
-| 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 105,077 |
+| 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 105,104 |
 | 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 102,630 |
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 102,049 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 101,663 |
