@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · **General**
 
-514 of 1504 extensions · [← macOS · Productivity](./README.md)
+515 of 1505 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -520,3 +520,4 @@
 | [Nbnhhsh – Chinese Abbreviations](https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh) | 0 | Decode Chinese pinyin abbreviations and internet slang with 能不能好好说话 (nbnhhsh). | Astatine-213 | macOS | [store](https://www.raycast.com/Astatine-213/nbnhhsh) |
 | [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu) | 0 | Today's and this week's NUST hostel mess menu. | muhammadaljoufi | macOS | [store](https://www.raycast.com/muhammadaljoufi/nust-mess-menu) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
+| [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) | — | Manage Switcheroo keyboard remapper configuration | mjphayes | macOS | — |

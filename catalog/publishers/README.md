@@ -1,6 +1,6 @@
 # Publishers
 
-2232 publishers · [← catalog index](../README.md)
+2233 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,278,940 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,279,113 |
 | 2 | [raycast](./id/raycast.md) | 11 | 894,292 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,095 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,440 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,293 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,558 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 491,152 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 487,221 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
@@ -60,7 +60,7 @@
 | 50 | [garrett](https://www.raycast.com/garrett) | 2 | 52,910 |
 | 51 | [yug2005](https://www.raycast.com/yug2005) | 4 | 52,451 |
 | 52 | [priithaamer](https://www.raycast.com/priithaamer) | 1 | 52,241 |
-| 53 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 51,477 |
+| 53 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 51,495 |
 | 54 | [MarkusLanger](https://www.raycast.com/MarkusLanger) | 1 | 51,382 |
 | 55 | [mackopes](https://www.raycast.com/mackopes) | 1 | 50,689 |
 | 56 | [michaelschultz](https://www.raycast.com/michaelschultz) | 3 | 49,590 |
@@ -2239,4 +2239,5 @@
 | 2229 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
 | 2230 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
 | 2231 | github-next | 2 | — |
-| 2232 | multi | 1 | — |
+| 2232 | mjphayes | 1 | — |
+| 2233 | multi | 1 | — |

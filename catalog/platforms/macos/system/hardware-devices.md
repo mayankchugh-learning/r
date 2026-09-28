@@ -2,7 +2,7 @@
 
 [Apps & Processes](./apps-processes.md) · [Window & Desktop Management](./window-desktop-management.md) · **Hardware & Devices** · [Display & Appearance](./display-appearance.md) · [Audio Control](./audio-control.md) · [Power & Session](./power-session.md) · [Clipboard & Input](./clipboard-input.md) · [Files & Storage](./files-storage.md) · [Network](./network.md) · [Defaults & Services](./defaults-services.md) · [General](./general.md)
 
-24 of 261 extensions · [← macOS · System](./README.md)
+25 of 262 extensions · [← macOS · System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -30,3 +30,4 @@
 | [Mouse Cursor Toggle](https://github.com/raycast/extensions/tree/main/extensions/mouse-cursor-toggle) | 31 | Hide or show the macOS mouse cursor from Raycast. | Dhaiwat10 | macOS | [store](https://www.raycast.com/Dhaiwat10/mouse-cursor-toggle) |
 | [Toggle Trackpad](https://github.com/raycast/extensions/tree/main/extensions/toggle-trackpad) | 9 | Quickly toggle the built-in trackpad behavior when an external mouse or wireless trackpad is connected. | ksc73450056 | macOS | [store](https://www.raycast.com/ksc73450056/toggle-trackpad) |
 | [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) | 7 | Raise, track, and action iPF OS tickets without leaving your keyboard. | joseph_emmanuel | Windows, macOS | [store](https://www.raycast.com/joseph_emmanuel/ipf-os) |
+| [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) | — | Manage Switcheroo keyboard remapper configuration | mjphayes | macOS | — |

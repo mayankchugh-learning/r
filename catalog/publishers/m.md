@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-175 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+176 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -138,6 +138,7 @@
 | [mitsimi](https://www.raycast.com/mitsimi) | 1 | 67 | **Developer Tools:** [Gitea](https://github.com/raycast/extensions/tree/main/extensions/gitea) |
 | [mjking](https://www.raycast.com/mjking) | 1 | 19 | **Communication:** [Area Code Search](https://github.com/raycast/extensions/tree/main/extensions/area-code-search) |
 | [mjoosuf](https://www.raycast.com/mjoosuf) | 1 | 3,376 | **Developer Tools:** [Open in Cursor](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) |
+| mjphayes | 1 | — | **System:** [Switcheroo](https://github.com/raycast/extensions/tree/main/extensions/switcheroo) |
 | [mkhnsn](https://www.raycast.com/mkhnsn) | 1 | 33 | **Web:** [TabStash](https://github.com/raycast/extensions/tree/main/extensions/tabstash) |
 | [mmazzarolo](https://www.raycast.com/mmazzarolo) | 1 | 20,391 | **Productivity:** [Unicode Symbols Search](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) |
 | [Mmehdi06](https://www.raycast.com/Mmehdi06) | 1 | 1,272 | **System:** [Single Focus](https://github.com/raycast/extensions/tree/main/extensions/single-focus) |

@@ -1,8 +1,8 @@
 # Productivity
 
-1522 extensions · [← all categories](../README.md)
+1523 extensions · [← all categories](../README.md)
 
-macOS: 1504 · Windows: 385
+macOS: 1505 · Windows: 385
 
 ## Organize & Plan
 
@@ -47,8 +47,8 @@ macOS: 1504 · Windows: 385
 | [Code ✦](./code.md) | 15 |
 | [Devices ✦](./devices.md) | 15 |
 | [URL ✦](./url.md) | 12 |
+| [Keyboard ✦](./keyboard.md) | 12 |
 | [Screen ✦](./screen.md) | 11 |
-| [Keyboard ✦](./keyboard.md) | 11 |
 | [Between ✦](./between.md) | 9 |
 | [Converter ✦](./converter.md) | 7 |
 | [Https ✦](./https.md) | 6 |

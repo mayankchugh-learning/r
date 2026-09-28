@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "00d79cc19b97a3376f5f0ac4a78e478ec3fcb005",
-  "generatedAt": "2026-09-28T10:20:33.166Z",
-  "downloadsRefreshedAt": "2026-09-28T10:20:32.767Z",
-  "count": 3328,
+  "commit": "74f306f1ae35841cdd0174b1b875f103bdad2336",
+  "generatedAt": "2026-09-28T12:36:37.487Z",
+  "downloadsRefreshedAt": "2026-09-28T12:36:36.861Z",
+  "count": 3329,
   "extensions": [
     {
       "dir": "0x0",
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 604385
+      "downloads": 604558
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562440
+      "downloads": 562558
     },
     {
       "dir": "google-chrome-profiles",
@@ -27770,7 +27770,7 @@
       "store": "https://www.raycast.com/gdsmith/jetbrains",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jetbrains",
       "treeSha": "9cc3eeb58dae0bce350f39e6f5d2c0b8f9c855f8",
-      "downloads": 33540
+      "downloads": 33558
     },
     {
       "dir": "jetpack-commands",
@@ -29280,7 +29280,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 763095
+      "downloads": 763293
     },
     {
       "dir": "kimai",
@@ -58598,6 +58598,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/switch-game-play-history",
       "treeSha": "b1068f67f9b63a9f5097c03d506472c783271fb8",
       "downloads": 255
+    },
+    {
+      "dir": "switcheroo",
+      "name": "switcheroo",
+      "title": "Switcheroo",
+      "description": "Manage Switcheroo keyboard remapper configuration",
+      "author": "mjphayes",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/switcheroo",
+      "treeSha": "3edf5a2210c39e295ebc3c5d4d540aeada2d6d10",
+      "downloads": null
     },
     {
       "dir": "switchhosts",
