@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "17f74f993cdc9d64e884c92313758e4dc9f25b5d",
-  "generatedAt": "2026-09-28T07:21:39.080Z",
-  "downloadsRefreshedAt": "2026-09-28T07:21:38.463Z",
-  "count": 3327,
+  "commit": "1f196c557f9272fe5909ce4d295b7f33e1cb1374",
+  "generatedAt": "2026-09-28T08:12:55.027Z",
+  "downloadsRefreshedAt": "2026-09-28T08:12:54.579Z",
+  "count": 3328,
   "extensions": [
     {
       "dir": "0x0",
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 604048
+      "downloads": 604159
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562208
+      "downloads": 562282
     },
     {
       "dir": "google-chrome-profiles",
@@ -29279,7 +29279,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 762745
+      "downloads": 762843
     },
     {
       "dir": "kimai",
@@ -30672,6 +30672,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/leafcast",
       "treeSha": "ab4d697dac8a439afa57261728baff02ffd22f02",
       "downloads": 143
+    },
+    {
+      "dir": "league-stats",
+      "name": "league-stats",
+      "title": "League Stats",
+      "description": "Look up League of Legends players: ranked and recent win rates, recent matches with KDA, champions and items, and full match breakdowns.",
+      "author": "mert_tufekci",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Fun",
+        "Data"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/league-stats",
+      "treeSha": "fc243eed4001f694e420124c48871d97f178c1fe",
+      "downloads": null
     },
     {
       "dir": "leap-new",

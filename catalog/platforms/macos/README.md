@@ -1,6 +1,6 @@
 # macOS extensions
 
-3291 extensions · [← all platforms](../README.md)
+3292 extensions · [← all platforms](../README.md)
 
 ### Work & Productivity
 
@@ -15,7 +15,7 @@
 | Category | Extensions |
 | --- | --- |
 | [Developer Tools](./developer-tools/README.md) | 1127 |
-| [Data](./data/README.md) | 274 |
+| [Data](./data/README.md) | 275 |
 | [Documentation](./documentation/README.md) | 215 |
 | [Security](./security/README.md) | 85 |
 | [AI](./ai/README.md) | 7 |
@@ -46,7 +46,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Fun](./fun/README.md) | 279 |
+| [Fun](./fun/README.md) | 280 |
 
 ### Uncategorized
 

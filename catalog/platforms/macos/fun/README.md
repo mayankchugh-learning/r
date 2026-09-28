@@ -1,6 +1,6 @@
 # macOS · Fun
 
-279 extensions · [← macOS](../README.md)
+280 extensions · [← macOS](../README.md)
 
 ## Play
 
@@ -17,7 +17,7 @@
 | --- | --- |
 | [Movies, TV & Anime](./movies-tv-anime.md) | 10 |
 | [Music & Instruments](./music-instruments.md) | 8 |
-| [Sports](./sports.md) | 15 |
+| [Sports](./sports.md) | 16 |
 | [Pop Culture & Fandom](./pop-culture-fandom.md) | 11 |
 
 ## Express & Explore

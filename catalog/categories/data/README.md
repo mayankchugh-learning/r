@@ -1,8 +1,8 @@
 # Data
 
-274 extensions · [← all categories](../README.md)
+275 extensions · [← all categories](../README.md)
 
-macOS: 274 · Windows: 94
+macOS: 275 · Windows: 94
 
 ## Transform & Generate
 
@@ -27,7 +27,7 @@ macOS: 274 · Windows: 94
 | Topic | Extensions |
 | --- | --- |
 | [Crypto & Blockchain Data](./crypto-blockchain-data.md) | 8 |
-| [Games & Esports Data](./games-esports-data.md) | 9 |
+| [Games & Esports Data](./games-esports-data.md) | 10 |
 | [Health, Nature & Science](./health-nature-science.md) | 8 |
 | [Travel & Geo Data](./travel-geo-data.md) | 3 |
 | [Business & Databases](./business-databases.md) | 8 |

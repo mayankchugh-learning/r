@@ -1,8 +1,8 @@
 # Fun
 
-280 extensions · [← all categories](../README.md)
+281 extensions · [← all categories](../README.md)
 
-macOS: 279 · Windows: 96
+macOS: 280 · Windows: 96
 
 ## Play
 
@@ -19,7 +19,7 @@ macOS: 279 · Windows: 96
 | --- | --- |
 | [Movies, TV & Anime](./movies-tv-anime.md) | 10 |
 | [Music & Instruments](./music-instruments.md) | 8 |
-| [Sports](./sports.md) | 15 |
+| [Sports](./sports.md) | 16 |
 | [Pop Culture & Fandom](./pop-culture-fandom.md) | 11 |
 
 ## Express & Explore

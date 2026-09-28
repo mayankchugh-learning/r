@@ -2,7 +2,7 @@
 
 [Games & Gaming](./games-gaming.md) · [AI & Generative Fun](./ai-generative-fun.md) · [Emoji, GIFs & Symbols](./emoji-gifs-symbols.md) · [Jokes & Randomness](./jokes-randomness.md) · **Sports** · [Movies, TV & Anime](./movies-tv-anime.md) · [Music & Instruments](./music-instruments.md) · [Pop Culture & Fandom](./pop-culture-fandom.md) · [Generators & Toys](./generators-toys.md) · [Nature & Exploration](./nature-exploration.md) · [Wallpapers & Effects](./wallpapers-effects.md) · [Food & Drink](./food-drink.md) · [General](./general.md)
 
-15 of 279 extensions · [← macOS · Fun](./README.md)
+16 of 280 extensions · [← macOS · Fun](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -21,3 +21,4 @@
 | [Portuguese Primeira Liga](https://github.com/raycast/extensions/tree/main/extensions/portuguese-primeira-liga) | 61 | View the latest Portuguese Primeira Liga standings. | danielsequeira | macOS | [store](https://www.raycast.com/danielsequeira/portuguese-primeira-liga) |
 | [Ekstraklasa](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) | 32 | Stay up to date with the polish football league | szarbartosz | macOS | [store](https://www.raycast.com/szarbartosz/ekstraklasa) |
 | [Sir.golf](https://github.com/raycast/extensions/tree/main/extensions/sir-golf) | 2 | Live golf leaderboards (PGA Tour, LPGA, DP World Tour), the full tour schedule with every major badged and one-tap Add to Calendar, plus season rankings — by s… | julianpaul | macOS, Windows | [store](https://www.raycast.com/julianpaul/sir-golf) |
+| [League Stats](https://github.com/raycast/extensions/tree/main/extensions/league-stats) | — | Look up League of Legends players: ranked and recent win rates, recent matches with KDA, champions and items, and full match breakdowns. | mert_tufekci | macOS | — |
