@@ -2,7 +2,7 @@
 
 113 extensions · [← all categories](../README.md)
 
-macOS: 113 · Windows: 21
+macOS: 113 · Windows: 22
 
 ## Digital Tools
 

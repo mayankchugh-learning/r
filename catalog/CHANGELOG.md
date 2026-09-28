@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `cf2e6ba5bc`
+
+**Updated (1):** [Popcorn - Explore Stremio Streams](https://github.com/raycast/extensions/tree/main/extensions/popcorn)
+
 ## 2026-09-28 — upstream `e17ce08cdc`
 
 **Updated (1):** [Obsidian](https://github.com/raycast/extensions/tree/main/extensions/obsidian)

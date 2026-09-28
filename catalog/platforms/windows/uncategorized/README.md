@@ -1,8 +1,8 @@
 # Windows · Uncategorized
 
-21 extensions · [← Windows](../README.md)
+22 extensions · [← Windows](../README.md)
 
-[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (2) · [Productivity & Tasks](#productivity-tasks) (1) · [Smart Home & IoT](#smart-home-iot) (1) · [Web & Search](#web-search) (5) · [Communication & Social](#communication-social) (1) · [General](#general) (7)
+[AI Tools](#ai-tools) (4) · [Developer Utilities](#developer-utilities) (3) · [Productivity & Tasks](#productivity-tasks) (1) · [Smart Home & IoT](#smart-home-iot) (1) · [Web & Search](#web-search) (5) · [Communication & Social](#communication-social) (1) · [General](#general) (7)
 
 ## Digital Tools
 
@@ -19,6 +19,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Popcorn - Explore Stremio Streams](https://github.com/raycast/extensions/tree/main/extensions/popcorn) | 1,420 | A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. IINA is highly rec… | martipops | macOS, Windows | [store](https://www.raycast.com/martipops/popcorn) |
 | [Keygen](https://github.com/raycast/extensions/tree/main/extensions/keygen) | 106 | Manage API Tokens, Licenses, Policies, Products and Users | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/keygen) |
 | [GitCDN](https://github.com/raycast/extensions/tree/main/extensions/gitcdn) | 30 | View files from git repositories using CDN URLs | heytommy | macOS, Windows | [store](https://www.raycast.com/heytommy/gitcdn) |
 
