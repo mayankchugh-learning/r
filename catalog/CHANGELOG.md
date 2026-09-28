@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `707d8974ba`
+
+**Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)
+
 ## 2026-09-28 — upstream `a4ee21624f`
 
 **Updated (1):** [Bitbucket Search](https://github.com/raycast/extensions/tree/main/extensions/bitbucket)
