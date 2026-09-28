@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,279,215 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,279,744 |
 | 2 | [raycast](./id/raycast.md) | 11 | 894,292 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,402 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,638 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,435 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,659 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 491,152 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 487,221 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
@@ -70,7 +70,7 @@
 | 60 | [1weiho](https://www.raycast.com/1weiho) | 6 | 45,545 |
 | 61 | [anwarulislam](https://www.raycast.com/anwarulislam) | 1 | 42,701 |
 | 62 | [joshuaiz](https://www.raycast.com/joshuaiz) | 1 | 41,932 |
-| 63 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 41,845 |
+| 63 | [massimiliano_pasquini](https://www.raycast.com/massimiliano_pasquini) | 3 | 41,881 |
 | 64 | [DanielSinclair](https://www.raycast.com/DanielSinclair) | 1 | 41,606 |
 | 65 | [itsmingjie](https://www.raycast.com/itsmingjie) | 2 | 41,592 |
 | 66 | [eggsy](https://www.raycast.com/eggsy) | 5 | 40,292 |
@@ -154,7 +154,7 @@
 | 144 | [alanzchen](https://www.raycast.com/alanzchen) | 1 | 13,454 |
 | 145 | [allenan](https://www.raycast.com/allenan) | 1 | 13,356 |
 | 146 | [shubzkothekar](https://www.raycast.com/shubzkothekar) | 1 | 13,125 |
-| 147 | [xmok](./id/xmok.md) | 114 | 12,986 |
+| 147 | [xmok](./id/xmok.md) | 114 | 12,987 |
 | 148 | [xmorse](https://www.raycast.com/xmorse) | 5 | 12,892 |
 | 149 | [crickford](https://www.raycast.com/crickford) | 1 | 12,749 |
 | 150 | [codedbyjordan](https://www.raycast.com/codedbyjordan) | 1 | 12,567 |
