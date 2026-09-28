@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `f1f9c597ff`
+
+**Updated (1):** [Focus Automation](https://github.com/raycast/extensions/tree/main/extensions/focus-automation)
+
 ## 2026-09-28 — upstream `fa9cf0716c`
 
 **Added (1):** [QR Code Sharing](https://github.com/raycast/extensions/tree/main/extensions/qr-code-sharing)
