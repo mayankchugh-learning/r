@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `ebb2256dcf`
+
+**Updated (1):** [Browser Router](https://github.com/raycast/extensions/tree/main/extensions/browser-router)
+
 ## 2026-09-28 — upstream `5a00074987`
 
 **Updated (1):** [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control)
