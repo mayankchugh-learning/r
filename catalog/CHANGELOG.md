@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `ed28d0e887`
+
+**Updated (1):** [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist)
+
 ## 2026-09-28 — upstream `1f196c557f`
 
 **Added (1):** [League Stats](https://github.com/raycast/extensions/tree/main/extensions/league-stats)

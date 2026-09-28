@@ -26,7 +26,7 @@
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 222 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
 | [Fantasy Premier League](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) | 152 | See where you rank amongst in your league rivals in Fantasy Premier League within Raycast. | hwb | macOS | [store](https://www.raycast.com/hwb/fantasy-premier-league-rankings) |
 | [Ekstraklasa](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) | 32 | Stay up to date with the polish football league | szarbartosz | macOS | [store](https://www.raycast.com/szarbartosz/ekstraklasa) |
-| [League Stats](https://github.com/raycast/extensions/tree/main/extensions/league-stats) | — | Look up League of Legends players: ranked and recent win rates, recent matches with KDA, champions and items, and full match breakdowns. | mert_tufekci | macOS | — |
+| [League Stats](https://github.com/raycast/extensions/tree/main/extensions/league-stats) | 0 | Look up League of Legends players: ranked and recent win rates, recent matches with KDA, champions and items, and full match breakdowns. | mert_tufekci | macOS | [store](https://www.raycast.com/mert_tufekci/league-stats) |
 
 ## General
 

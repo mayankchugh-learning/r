@@ -100,7 +100,7 @@
 | [mendel_g](https://www.raycast.com/mendel_g) | 1 | 64 | **Productivity:** [Hebrew Date & Zmanim](https://github.com/raycast/extensions/tree/main/extensions/hebrew-date-zmanim) |
 | [menisy](https://www.raycast.com/menisy) | 1 | 77 | **Productivity:** [Yamli](https://github.com/raycast/extensions/tree/main/extensions/yamli) |
 | [merklefruit](https://www.raycast.com/merklefruit) | 1 | 142 | **Developer Tools:** [Foundry Cast CLI](https://github.com/raycast/extensions/tree/main/extensions/foundry-cast-cli) |
-| mert_tufekci | 1 | — | **Fun:** [League Stats](https://github.com/raycast/extensions/tree/main/extensions/league-stats) |
+| [mert_tufekci](https://www.raycast.com/mert_tufekci) | 1 | 0 | **Fun:** [League Stats](https://github.com/raycast/extensions/tree/main/extensions/league-stats) |
 | [meshal](https://www.raycast.com/meshal) | 3 | 4,325 | **Applications:** [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity)<br>**Developer Tools:** [Font Converter](https://github.com/raycast/extensions/tree/main/extensions/font-converter), [JSON to TOON Converter](https://github.com/raycast/extensions/tree/main/extensions/json-to-toon-converter) |
 | [meslva](https://www.raycast.com/meslva) | 1 | 4 | **Productivity:** [cl1p.net](https://github.com/raycast/extensions/tree/main/extensions/cl1p) |
 | [metakirby5](https://www.raycast.com/metakirby5) | 1 | 66 | **Developer Tools:** [DOTween Eases](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) |
