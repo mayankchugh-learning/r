@@ -7,7 +7,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Timers](https://github.com/raycast/extensions/tree/main/extensions/timers) | 121,094 | Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. | ThatNerd | macOS | [store](https://www.raycast.com/ThatNerd/timers) |
-| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 95,484 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
+| [Todoist](https://github.com/raycast/extensions/tree/main/extensions/todoist) | 95,517 | Check your Todoist tasks and quickly create new ones | doist (org) | macOS, Windows | [store](https://www.raycast.com/doist/todoist) |
 | [Tailwind CSS](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) | 79,501 | Utilities to work with Tailwind CSS | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/tailwindcss) |
 | [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 58,173 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS, Windows | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
 | [TinyPNG](https://github.com/raycast/extensions/tree/main/extensions/tinypng) | 45,535 | Compress the selected images in Finder with TinyPNG. | kawamataryo | macOS, Windows | [store](https://www.raycast.com/kawamataryo/tinypng) |

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,278,716 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,278,732 |
 | 2 | [raycast](./id/raycast.md) | 11 | 894,292 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 762,847 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,284 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 762,863 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,292 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 491,152 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 487,221 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
@@ -43,7 +43,7 @@
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 102,049 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 101,663 |
 | 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 96,658 |
-| 36 | [doist](https://www.raycast.com/doist) | 1 | 95,484 |
+| 36 | [doist](https://www.raycast.com/doist) | 1 | 95,517 |
 | 37 | [tegola](https://www.raycast.com/tegola) | 2 | 91,119 |
 | 38 | [huzef44](https://www.raycast.com/huzef44) | 6 | 83,701 |
 | 39 | [FezVrasta](https://www.raycast.com/FezVrasta) | 5 | 77,541 |
