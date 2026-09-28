@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ebb2256dcf5b3bbbb823b1765dcb733ce579a6d3",
-  "generatedAt": "2026-09-28T05:57:23.560Z",
-  "downloadsRefreshedAt": "2026-09-28T05:57:22.935Z",
+  "commit": "d1bb542ccee24cf8f055e54159743f180102f428",
+  "generatedAt": "2026-09-28T06:00:40.855Z",
+  "downloadsRefreshedAt": "2026-09-28T06:00:40.181Z",
   "count": 3327,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 603920
+      "downloads": 603922
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562106
+      "downloads": 562108
     },
     {
       "dir": "google-chrome-profiles",
@@ -29279,7 +29279,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 762610
+      "downloads": 762616
     },
     {
       "dir": "kimai",
@@ -34608,7 +34608,7 @@
       "description": "Quickly see your Mercury accounts and transactions directly in Raycast",
       "author": "atkinsmatt101",
       "owner": null,
-      "contributors": 0,
+      "contributors": 1,
       "categories": [
         "Finance"
       ],
@@ -34618,7 +34618,7 @@
       ],
       "store": "https://www.raycast.com/atkinsmatt101/mercury",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mercury",
-      "treeSha": "c067504e79d80f5e2f1a0f1d1cd2d568d0289cf2",
+      "treeSha": "2dad419b76f6767e4ee4b2b2c03adef494ac9ed2",
       "downloads": 286
     },
     {
