@@ -66,7 +66,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Bitly URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) | 9,032 | Quickly shorten the selected URL or current clipboard URL with Bitly | blessanm86 | macOS, Windows | [store](https://www.raycast.com/blessanm86/bitly-url-shortener) |
 | [Kutt](https://github.com/raycast/extensions/tree/main/extensions/kutt) | 84 | Free & Open Source Modern URL Shortener | xmok | macOS, Windows | [store](https://www.raycast.com/xmok/kutt) |
-| [QR Code Sharing](https://github.com/raycast/extensions/tree/main/extensions/qr-code-sharing) | 0 | Shares information through QR codes and barcodes. | Francescoparadiso | Windows, macOS | [store](https://www.raycast.com/Francescoparadiso/qr-code-sharing) |
+| [QR Code Sharing](https://github.com/raycast/extensions/tree/main/extensions/qr-code-sharing) | 1 | Shares information through QR codes and barcodes. | Francescoparadiso | Windows, macOS | [store](https://www.raycast.com/Francescoparadiso/qr-code-sharing) |
 
 ## People & Support
 

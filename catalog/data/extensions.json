@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "4370d203b659b6def9ea947489da42e5ca452210",
-  "generatedAt": "2026-09-28T13:46:49.762Z",
-  "downloadsRefreshedAt": "2026-09-28T13:46:49.111Z",
+  "commit": "40d7d1b80684fe8135c6ec6ad275a2636330786d",
+  "generatedAt": "2026-09-28T13:48:37.522Z",
+  "downloadsRefreshedAt": "2026-09-28T13:48:36.729Z",
   "count": 3330,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 604697
+      "downloads": 604701
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562659
+      "downloads": 562661
     },
     {
       "dir": "google-chrome-profiles",
@@ -29280,7 +29280,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 763435
+      "downloads": 763442
     },
     {
       "dir": "kimai",
@@ -36529,8 +36529,8 @@
       ],
       "store": "https://www.raycast.com/crisboarna/mozilla-firefox",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox",
-      "treeSha": "42a4476ac186f2141e7ab647f3969fb0ef1f52b3",
-      "downloads": 14084
+      "treeSha": "9a8c957b92dabe51d5cb426c2a61dcb02a8c633b",
+      "downloads": 14096
     },
     {
       "dir": "mozilla-vpn",
@@ -46791,7 +46791,7 @@
       "store": "https://www.raycast.com/Francescoparadiso/qr-code-sharing",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qr-code-sharing",
       "treeSha": "5876bb46532a74e2be2ed26555d820332000b757",
-      "downloads": 0
+      "downloads": 1
     },
     {
       "dir": "qrcode-generator",

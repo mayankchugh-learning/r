@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,279,744 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,279,748 |
 | 2 | [raycast](./id/raycast.md) | 11 | 894,292 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,435 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,659 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,442 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,661 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 491,152 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 487,221 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
@@ -80,7 +80,7 @@
 | 70 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 37,282 |
 | 71 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 37,118 |
 | 72 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 36,646 |
-| 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 35,981 |
+| 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 35,993 |
 | 74 | [dziad](https://www.raycast.com/dziad) | 1 | 35,883 |
 | 75 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 35,245 |
 | 76 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 33,354 |
@@ -1794,11 +1794,11 @@
 | 1784 | [jokull](https://www.raycast.com/jokull) | 1 | 40 |
 | 1785 | [RG-IL](https://www.raycast.com/RG-IL) | 1 | 40 |
 | 1786 | [vanish2000](https://www.raycast.com/vanish2000) | 1 | 40 |
-| 1787 | [adi_amar](https://www.raycast.com/adi_amar) | 1 | 39 |
-| 1788 | [alikhil](https://www.raycast.com/alikhil) | 1 | 39 |
-| 1789 | [Gusta](https://www.raycast.com/Gusta) | 1 | 39 |
-| 1790 | [sriverogalan](https://www.raycast.com/sriverogalan) | 1 | 39 |
-| 1791 | [Francescoparadiso](https://www.raycast.com/Francescoparadiso) | 2 | 38 |
+| 1787 | [Francescoparadiso](https://www.raycast.com/Francescoparadiso) | 2 | 39 |
+| 1788 | [adi_amar](https://www.raycast.com/adi_amar) | 1 | 39 |
+| 1789 | [alikhil](https://www.raycast.com/alikhil) | 1 | 39 |
+| 1790 | [Gusta](https://www.raycast.com/Gusta) | 1 | 39 |
+| 1791 | [sriverogalan](https://www.raycast.com/sriverogalan) | 1 | 39 |
 | 1792 | [brkgng](https://www.raycast.com/brkgng) | 1 | 38 |
 | 1793 | [gkVkJzQEErnBzmm](https://www.raycast.com/gkVkJzQEErnBzmm) | 1 | 38 |
 | 1794 | [invm](https://www.raycast.com/invm) | 1 | 38 |
