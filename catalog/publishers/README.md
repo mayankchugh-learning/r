@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,279,134 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,279,186 |
 | 2 | [raycast](./id/raycast.md) | 11 | 894,292 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,309 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,569 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,368 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,618 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 491,152 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 487,221 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
@@ -171,7 +171,7 @@
 | 161 | [jffrykkn](https://www.raycast.com/jffrykkn) | 1 | 11,332 |
 | 162 | [elliotdes](https://www.raycast.com/elliotdes) | 1 | 11,210 |
 | 163 | [j3lte](./id/j3lte.md) | 13 | 11,139 |
-| 164 | [github](https://www.raycast.com/github) | 1 | 11,052 |
+| 164 | [github](https://www.raycast.com/github) | 1 | 11,066 |
 | 165 | [Falcon](https://www.raycast.com/Falcon) | 2 | 10,966 |
 | 166 | [say4n](https://www.raycast.com/say4n) | 2 | 10,953 |
 | 167 | [zavbala](https://www.raycast.com/zavbala) | 3 | 10,760 |
@@ -1798,8 +1798,8 @@
 | 1788 | [alikhil](https://www.raycast.com/alikhil) | 1 | 39 |
 | 1789 | [Gusta](https://www.raycast.com/Gusta) | 1 | 39 |
 | 1790 | [sriverogalan](https://www.raycast.com/sriverogalan) | 1 | 39 |
-| 1791 | [brkgng](https://www.raycast.com/brkgng) | 1 | 38 |
-| 1792 | [Francescoparadiso](https://www.raycast.com/Francescoparadiso) | 1 | 38 |
+| 1791 | [Francescoparadiso](https://www.raycast.com/Francescoparadiso) | 2 | 38 |
+| 1792 | [brkgng](https://www.raycast.com/brkgng) | 1 | 38 |
 | 1793 | [gkVkJzQEErnBzmm](https://www.raycast.com/gkVkJzQEErnBzmm) | 1 | 38 |
 | 1794 | [invm](https://www.raycast.com/invm) | 1 | 38 |
 | 1795 | [justinw](https://www.raycast.com/justinw) | 1 | 38 |

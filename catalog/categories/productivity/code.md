@@ -1,6 +1,6 @@
 # Code ✦
 
-15 extensions · [← Productivity](./README.md)
+16 extensions · [← Productivity](./README.md)
 
 *✦ auto-discovered topic group*
 
@@ -21,3 +21,4 @@
 | [Wubi Code](https://github.com/raycast/extensions/tree/main/extensions/wu-bi-bian-ma) | 21 | Look up Chinese characters in Wubi 86, 98, and New Century encoding | anyerqi | macOS | [store](https://www.raycast.com/anyerqi/wu-bi-bian-ma) |
 | [India Toolkit](https://github.com/raycast/extensions/tree/main/extensions/india-toolkit) | 19 | Quick India utilities — GST calculator, IFSC code lookup, and pincode lookup. | kur_ankur | macOS, Windows | [store](https://www.raycast.com/kur_ankur/india-toolkit) |
 | [Greptile](https://github.com/raycast/extensions/tree/main/extensions/greptile) | 11 | Browse Greptile pull requests, code reviews, and review comments from Raycast. | clins1994 | Windows, macOS | [store](https://www.raycast.com/clins1994/greptile) |
+| [QR Code Sharing](https://github.com/raycast/extensions/tree/main/extensions/qr-code-sharing) | 0 | Shares information through QR codes and barcodes. | Francescoparadiso | Windows, macOS | [store](https://www.raycast.com/Francescoparadiso/qr-code-sharing) |

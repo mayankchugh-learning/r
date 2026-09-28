@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `fa9cf0716c`
+
+**Added (1):** [QR Code Sharing](https://github.com/raycast/extensions/tree/main/extensions/qr-code-sharing)
+
 ## 2026-09-28 — upstream `2bd2077808`
 
 **Updated (1):** [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot)

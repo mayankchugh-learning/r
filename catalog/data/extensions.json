@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2bd20778083b3f441676814b3959bccef0a27355",
-  "generatedAt": "2026-09-28T12:49:27.251Z",
-  "downloadsRefreshedAt": "2026-09-28T12:49:26.378Z",
-  "count": 3329,
+  "commit": "fa9cf0716c0625d27e63b15cc3c511c83ae84da9",
+  "generatedAt": "2026-09-28T13:19:36.630Z",
+  "downloadsRefreshedAt": "2026-09-28T13:19:36.218Z",
+  "count": 3330,
   "extensions": [
     {
       "dir": "0x0",
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 604579
+      "downloads": 604631
     },
     {
       "dir": "color-shades",
@@ -21934,7 +21934,7 @@
       "store": "https://www.raycast.com/github/github-copilot",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/github-copilot",
       "treeSha": "fd3cb1d27d1fd61237eb19d21ce3742ffdd64b76",
-      "downloads": 11052
+      "downloads": 11066
     },
     {
       "dir": "github-for-enterprise",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562569
+      "downloads": 562618
     },
     {
       "dir": "google-chrome-profiles",
@@ -29280,7 +29280,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 763309
+      "downloads": 763368
     },
     {
       "dir": "kimai",
@@ -46769,6 +46769,29 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/qr-code-scanner",
       "treeSha": "0bbdac3780c824922152f57dbbfe1c062f1096c0",
       "downloads": 17978
+    },
+    {
+      "dir": "qr-code-sharing",
+      "name": "qr-code-sharing",
+      "title": "QR Code Sharing",
+      "description": "Shares information through QR codes and barcodes.",
+      "author": "Francescoparadiso",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity",
+        "Communication",
+        "Data"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/Francescoparadiso/qr-code-sharing",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/qr-code-sharing",
+      "treeSha": "5876bb46532a74e2be2ed26555d820332000b757",
+      "downloads": 0
     },
     {
       "dir": "qrcode-generator",

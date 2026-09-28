@@ -35,7 +35,7 @@
 | [gilbarbara](https://www.raycast.com/gilbarbara) | 1 | 213 | **Developer Tools:** [Cuid2 Generator](https://github.com/raycast/extensions/tree/main/extensions/cuid2-generator) |
 | [ginderellas](https://www.raycast.com/ginderellas) | 1 | 35 | **Productivity:** [SAP GUI Connector](https://github.com/raycast/extensions/tree/main/extensions/sap-logon) |
 | [giokaxo](https://www.raycast.com/giokaxo) | 1 | 127 | **Productivity:** [Translate.ge](https://github.com/raycast/extensions/tree/main/extensions/raycast-translate-ge) |
-| [github](https://www.raycast.com/github) | 1 | 11,052 | **Developer Tools:** [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) |
+| [github](https://www.raycast.com/github) | 1 | 11,066 | **Developer Tools:** [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) |
 | github-next | 2 | — | **Developer Tools:** [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace)<br>**Fun:** [GitHub Spark](https://github.com/raycast/extensions/tree/main/extensions/github-spark) |
 | [gkpln3](https://www.raycast.com/gkpln3) | 1 | 1,505 | **Developer Tools:** [Hexlify](https://github.com/raycast/extensions/tree/main/extensions/hexlify) |
 | [gksander](https://www.raycast.com/gksander) | 2 | 1,386 | **Developer Tools:** [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check)<br>**Productivity:** [Repo Launcher](https://github.com/raycast/extensions/tree/main/extensions/repo-launcher) |

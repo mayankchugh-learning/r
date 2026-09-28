@@ -1,8 +1,8 @@
 # Data
 
-275 extensions · [← all categories](../README.md)
+276 extensions · [← all categories](../README.md)
 
-macOS: 275 · Windows: 94
+macOS: 276 · Windows: 95
 
 ## Transform & Generate
 
@@ -47,6 +47,6 @@ macOS: 275 · Windows: 94
 | [AI ✦](./ai.md) | 6 |
 | [Query ✦](./query.md) | 4 |
 
-Plus [General](./general.md) — 69 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 70 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*
