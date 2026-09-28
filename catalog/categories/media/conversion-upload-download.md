@@ -1,19 +1,10 @@
 # Conversion, Upload & Download
 
-12 extensions · [← Media](./README.md)
+13 extensions · [← Media](./README.md)
 
-[Download ✦](#download) (4) · [Upload ✦](#upload) (4) · [General](#general) (4)
+[Upload ✦](#upload) (5) · [Download ✦](#download) (4) · [General](#general) (4)
 
 *✦ auto-discovered topic group*
-
-## Download ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 7,531 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
-| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 438 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
-| [Prowlarr](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) | 350 | Search and add to download clients with Prowlarr | elcaten | macOS | [store](https://www.raycast.com/elcaten/prowlarr) |
-| [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | 155 | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |
 
 ## Upload ✦
 
@@ -23,6 +14,16 @@
 | [Cloudinary](https://github.com/raycast/extensions/tree/main/extensions/cloudinary) | 252 | Search assets and upload your clipboard to your Cloudinary account | colbyfayock | macOS | [store](https://www.raycast.com/colbyfayock/cloudinary) |
 | [0x0](https://github.com/raycast/extensions/tree/main/extensions/0x0) | 243 | Upload files to https://0x0.st. | pseudobun | macOS, Windows | [store](https://www.raycast.com/pseudobun/0x0) |
 | [Razuna - Add and Browse Files in Razuna](https://github.com/raycast/extensions/tree/main/extensions/razuna) | 19 | Upload, search, and browse files in your Razuna workspace directly from Raycast. | TheNitai | macOS | [store](https://www.raycast.com/TheNitai/razuna) |
+| [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar) | — | Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, and browse your buckets with the Aktar menu bar app. | merttopuz | macOS | — |
+
+## Download ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Instagram Media Downloader](https://github.com/raycast/extensions/tree/main/extensions/instagram-media-downloader) | 7,531 | Download media from Instagram with ease | ridemountainpig | macOS, Windows | [store](https://www.raycast.com/ridemountainpig/instagram-media-downloader) |
+| [Radarr](https://github.com/raycast/extensions/tree/main/extensions/radarr) | 438 | Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities | xjo_nd | macOS, Windows | [store](https://www.raycast.com/xjo_nd/radarr) |
+| [Prowlarr](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) | 350 | Search and add to download clients with Prowlarr | elcaten | macOS | [store](https://www.raycast.com/elcaten/prowlarr) |
+| [Synology Download Station](https://github.com/raycast/extensions/tree/main/extensions/synology-download-station) | 155 | Manage your Synology Download Station tasks directly from Raycast | loris | macOS | [store](https://www.raycast.com/loris/synology-download-station) |
 
 ## General
 

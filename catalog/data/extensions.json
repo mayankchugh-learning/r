@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cd6f83bc23673673f03eec749f27897e02bff8bb",
-  "generatedAt": "2026-09-28T14:12:27.619Z",
-  "downloadsRefreshedAt": "2026-09-28T14:12:27.353Z",
-  "count": 3330,
+  "commit": "89c88ca7b0a3facd334280ae8632988fb85584dc",
+  "generatedAt": "2026-09-28T14:22:33.443Z",
+  "downloadsRefreshedAt": "2026-09-28T14:22:32.992Z",
+  "count": 3331,
   "extensions": [
     {
       "dir": "0x0",
@@ -1260,6 +1260,28 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/akkoma",
       "treeSha": "c4f477bec73a76d8ce0a2a2b042ab892119d4d38",
       "downloads": 18
+    },
+    {
+      "dir": "aktar",
+      "name": "aktar",
+      "title": "Aktar",
+      "description": "Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, and browse your buckets with the Aktar menu bar app.",
+      "author": "merttopuz",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Applications",
+        "Productivity",
+        "Media"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/aktar",
+      "treeSha": "b106a9d124f0b0ca01a184cb56c5286ad3fc2b72",
+      "downloads": null
     },
     {
       "dir": "alacritty",
@@ -6164,7 +6186,7 @@
       "store": "https://www.raycast.com/cali/brightness-control",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brightness-control",
       "treeSha": "290087018e5f512f9d98763d4a35dc38ab2ef22f",
-      "downloads": 6329
+      "downloads": 6336
     },
     {
       "dir": "bring",
@@ -10184,7 +10206,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 604741
+      "downloads": 604757
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22812,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562686
+      "downloads": 562696
     },
     {
       "dir": "google-chrome-profiles",
@@ -29280,7 +29302,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 763480
+      "downloads": 763500
     },
     {
       "dir": "kimai",

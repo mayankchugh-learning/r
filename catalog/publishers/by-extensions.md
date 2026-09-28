@@ -1,6 +1,6 @@
 # Publishers
 
-2233 publishers · [← catalog index](../README.md)
+2234 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 167,753 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,554 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,872 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,279,788 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,279,804 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,586 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,256 |
@@ -215,7 +215,7 @@
 | 205 | [tiancheng92](https://www.raycast.com/tiancheng92) | 2 | 9,069 |
 | 206 | [futantan](https://www.raycast.com/futantan) | 2 | 9,003 |
 | 207 | [anybox](https://www.raycast.com/anybox) | 2 | 8,724 |
-| 208 | [cali](https://www.raycast.com/cali) | 2 | 8,709 |
+| 208 | [cali](https://www.raycast.com/cali) | 2 | 8,716 |
 | 209 | [sasivarnan](https://www.raycast.com/sasivarnan) | 2 | 8,144 |
 | 210 | [solomkinmv](https://www.raycast.com/solomkinmv) | 2 | 7,819 |
 | 211 | [raffeyang](https://www.raycast.com/raffeyang) | 2 | 7,589 |
@@ -400,8 +400,8 @@
 | 390 | [TwoMental](https://www.raycast.com/twomental) | 2 | 17 |
 | 391 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 392 | github-next | 2 | — |
-| 393 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,480 |
-| 394 | [Codely](https://www.raycast.com/Codely) | 1 | 562,686 |
+| 393 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,500 |
+| 394 | [Codely](https://www.raycast.com/Codely) | 1 | 562,696 |
 | 395 | [linear](https://www.raycast.com/linear) | 1 | 396,563 |
 | 396 | [mommertf](https://www.raycast.com/mommertf) | 1 | 329,697 |
 | 397 | [nhojb](https://www.raycast.com/nhojb) | 1 | 289,029 |
@@ -2240,4 +2240,5 @@
 | 2230 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2231 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
 | 2232 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2233 | multi | 1 | — |
+| 2233 | merttopuz | 1 | — |
+| 2234 | multi | 1 | — |

@@ -1,8 +1,8 @@
 # Window Managers & Utilities
 
-11 extensions · [← Applications](./README.md)
+12 extensions · [← Applications](./README.md)
 
-[Bar ✦](#bar) (5) · [Window ✦](#window) (4) · [General](#general) (2)
+[Bar ✦](#bar) (6) · [Window ✦](#window) (4) · [General](#general) (2)
 
 *✦ auto-discovered topic group*
 
@@ -15,6 +15,7 @@
 | [Pomo](https://github.com/raycast/extensions/tree/main/extensions/pomo) | 225 | Control Pomo, a minimal Pomodoro timer for your macOS menu bar | claud | macOS | [store](https://www.raycast.com/claud/pomo) |
 | [Beehiiv](https://github.com/raycast/extensions/tree/main/extensions/beehiiv) | 67 | Integrate beehiiv with Raycast, allowing you to search for posts, check statistics, show subscribers count in the menu bar, and more. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/beehiiv) |
 | [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub) | 18 | Open Google Find Hub from Raycast or the macOS menu bar for quick access to locating, ringing, securing, or erasing Android devices. | jonah_tweed | macOS | [store](https://www.raycast.com/jonah_tweed/google-find-hub) |
+| [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar) | — | Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, and browse your buckets with the Aktar menu bar app. | merttopuz | macOS | — |
 
 ## Window ✦
 

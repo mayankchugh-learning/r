@@ -1,6 +1,6 @@
 # Publishers
 
-2233 publishers · [← catalog index](../README.md)
+2234 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,279,788 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,279,804 |
 | 2 | [raycast](./id/raycast.md) | 11 | 894,292 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,480 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,686 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,500 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,696 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 491,152 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 487,221 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
@@ -205,7 +205,7 @@
 | 195 | [slavarazum](https://www.raycast.com/slavarazum) | 1 | 8,852 |
 | 196 | [renfei_song](https://www.raycast.com/renfei_song) | 1 | 8,831 |
 | 197 | [anybox](https://www.raycast.com/anybox) | 2 | 8,724 |
-| 198 | [cali](https://www.raycast.com/cali) | 2 | 8,709 |
+| 198 | [cali](https://www.raycast.com/cali) | 2 | 8,716 |
 | 199 | [nielsvanrijn](https://www.raycast.com/nielsvanrijn) | 1 | 8,649 |
 | 200 | [BalliAsghar](https://www.raycast.com/BalliAsghar) | 3 | 8,412 |
 | 201 | [csigritz](https://www.raycast.com/csigritz) | 3 | 8,255 |
@@ -2240,4 +2240,5 @@
 | 2230 | [nokoniko](https://www.raycast.com/nokoniko) | 1 | 0 |
 | 2231 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
 | 2232 | github-next | 2 | — |
-| 2233 | multi | 1 | — |
+| 2233 | merttopuz | 1 | — |
+| 2234 | multi | 1 | — |

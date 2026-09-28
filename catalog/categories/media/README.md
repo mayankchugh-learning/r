@@ -1,8 +1,8 @@
 # Media
 
-298 extensions · [← all categories](../README.md)
+299 extensions · [← all categories](../README.md)
 
-macOS: 291 · Windows: 90
+macOS: 292 · Windows: 90
 
 ## Listen & Watch
 
@@ -24,7 +24,7 @@ macOS: 291 · Windows: 90
 | Topic | Extensions |
 | --- | --- |
 | [AI Generation](./ai-generation.md) | 6 |
-| [Conversion, Upload & Download](./conversion-upload-download.md) | 12 |
+| [Conversion, Upload & Download](./conversion-upload-download.md) | 13 |
 
 ## Discovered topics ✦
 

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `89c88ca7b0`
+
+**Added (1):** [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar)
+
 ## 2026-09-28 — upstream `cd6f83bc23`
 
 **Updated (1):** [Brightness Control](https://github.com/raycast/extensions/tree/main/extensions/brightness-control)
