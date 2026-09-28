@@ -1,6 +1,6 @@
 # alexi.build
 
-18 extensions · 2,232 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+18 extensions · 2,236 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -21,7 +21,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 317 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
+| [Raycast Weekly Newsletter](https://github.com/raycast/extensions/tree/main/extensions/raycast-weekly-newsletter) | 319 | Browse and interact with Raycast Weekly Newsletter | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/raycast-weekly-newsletter) |
 
 ## Developer Tools (3)
 
@@ -41,7 +41,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 120 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
+| [Nano Games](https://github.com/raycast/extensions/tree/main/extensions/nano-games) | 121 | Play Snake and other games in the Raycast search bar using braille characters. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/nano-games) |
 | [TV Remote](https://github.com/raycast/extensions/tree/main/extensions/tv-remote) | 21 | Control Sony BRAVIA TV picture settings | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/tv-remote) |
 
 ## Finance (1)
@@ -73,4 +73,4 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 25 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
-| [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 9 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
+| [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 10 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |

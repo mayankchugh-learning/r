@@ -1,14 +1,14 @@
 # Yukai
 
-11 extensions · 10,405 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
+11 extensions · 10,416 downloads · [store](https://www.raycast.com/Yukai) · [← publishers](../README.md)
 
 ## Productivity (5)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,894 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
-| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 2,109 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
-| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,665 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
+| [Eagle](https://github.com/raycast/extensions/tree/main/extensions/eagle) | 2,895 | Eagle Extension for Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/eagle) |
+| [OBS Control](https://github.com/raycast/extensions/tree/main/extensions/obs-control) | 2,115 | Control OBS Studio with websocket API | Yukai | macOS | [store](https://www.raycast.com/Yukai/obs-control) |
+| [Shortcut](https://github.com/raycast/extensions/tree/main/extensions/shortcut) | 1,667 | Raycast extension for Shortcut | Yukai | macOS | [store](https://www.raycast.com/Yukai/shortcut) |
 | [HackMD](https://github.com/raycast/extensions/tree/main/extensions/hackmd) | 678 | HackMD Raycast extension | Yukai | macOS, Windows | [store](https://www.raycast.com/Yukai/hackmd) |
 | [Curator Bio](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) | 57 | Control your curator.bio account from Raycast | Yukai | macOS | [store](https://www.raycast.com/Yukai/curator-bio) |
 
@@ -23,7 +23,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 1,071 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
+| [BugMeNot](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) | 1,072 | Find username/password on BugMeNot | Yukai | macOS | [store](https://www.raycast.com/Yukai/bugmenot) |
 
 ## Uncategorized (1)
 
@@ -35,5 +35,5 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [debank](https://github.com/raycast/extensions/tree/main/extensions/debank) | 211 | A Raycast Extension to query DeBank data with its OpenAPI | Yukai | macOS | [store](https://www.raycast.com/Yukai/debank) |
+| [debank](https://github.com/raycast/extensions/tree/main/extensions/debank) | 212 | A Raycast Extension to query DeBank data with its OpenAPI | Yukai | macOS | [store](https://www.raycast.com/Yukai/debank) |
 | [Bitfinex](https://github.com/raycast/extensions/tree/main/extensions/bitfinex) | 15 | A Raycast extension built for Bitfinex margin funding | Yukai | macOS | [store](https://www.raycast.com/Yukai/bitfinex) |

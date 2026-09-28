@@ -4,13 +4,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [TablePlus](https://github.com/raycast/extensions/tree/main/extensions/tableplus) | 8,761 | Search and open database connections in TablePlus | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/tableplus) |
-| [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 7,258 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
-| [crates.io Search](https://github.com/raycast/extensions/tree/main/extensions/cratecast) | 2,379 | Explore crates.io | matt | macOS | [store](https://www.raycast.com/matt/cratecast) |
-| [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,894 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
-| [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) | 1,390 | Search Google Scholar for academic articles, papers, and research. | leandro.maia | macOS | [store](https://www.raycast.com/leandro.maia/google-scholar) |
-| [Radix](https://github.com/raycast/extensions/tree/main/extensions/radix) | 1,139 | Search and open Radix content directly from Raycast. | peduarte | macOS | [store](https://www.raycast.com/peduarte/radix) |
-| [Phind Search](https://github.com/raycast/extensions/tree/main/extensions/phind-search) | 1,093 | Search anything with Phind | Chuck | macOS | [store](https://www.raycast.com/Chuck/phind-search) |
+| [TablePlus](https://github.com/raycast/extensions/tree/main/extensions/tableplus) | 8,769 | Search and open database connections in TablePlus | pernielsentikaer | macOS | [store](https://www.raycast.com/pernielsentikaer/tableplus) |
+| [Kagi Search](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) | 7,266 | Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT | fearoffish | macOS, Windows | [store](https://www.raycast.com/fearoffish/kagi-search) |
+| [crates.io Search](https://github.com/raycast/extensions/tree/main/extensions/cratecast) | 2,382 | Explore crates.io | matt | macOS | [store](https://www.raycast.com/matt/cratecast) |
+| [Get Favicon](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) | 1,895 | Get favicon from website URL | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/get-favicon) |
+| [Google Scholar](https://github.com/raycast/extensions/tree/main/extensions/google-scholar) | 1,392 | Search Google Scholar for academic articles, papers, and research. | leandro.maia | macOS | [store](https://www.raycast.com/leandro.maia/google-scholar) |
+| [Radix](https://github.com/raycast/extensions/tree/main/extensions/radix) | 1,140 | Search and open Radix content directly from Raycast. | peduarte | macOS | [store](https://www.raycast.com/peduarte/radix) |
+| [Phind Search](https://github.com/raycast/extensions/tree/main/extensions/phind-search) | 1,094 | Search anything with Phind | Chuck | macOS | [store](https://www.raycast.com/Chuck/phind-search) |
 | [Obsidian Link Opener](https://github.com/raycast/extensions/tree/main/extensions/obsidian-link-opener) | 545 | Open URLs from Obsidian markdown files' frontmatter | osteele | macOS | [store](https://www.raycast.com/osteele/obsidian-link-opener) |
 | [OTP Auth](https://github.com/raycast/extensions/tree/main/extensions/otp-auth) | 273 | Search OTPs in your OTP Auth database | huzef44 | macOS | [store](https://www.raycast.com/huzef44/otp-auth) |
 | [Plexus - Localhost Search](https://github.com/raycast/extensions/tree/main/extensions/plexus) | 214 | Discover and manage all running localhost web servers (Node, PHP, Python, and more) with smart project detection, framework identification, WSL support, and qu… | RensHoogendam | macOS, Windows | [store](https://www.raycast.com/RensHoogendam/plexus) |

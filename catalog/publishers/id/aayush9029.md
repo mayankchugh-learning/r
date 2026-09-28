@@ -1,30 +1,30 @@
 # Aayush9029
 
-16 extensions · 167,753 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
+16 extensions · 167,908 downloads · [store](https://www.raycast.com/Aayush9029) · [← publishers](../README.md)
 
 ## Applications (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 118,900 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
+| [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 119,015 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
 
 ## Productivity (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 30,873 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
+| [Screenshot](https://github.com/raycast/extensions/tree/main/extensions/screenshot) | 30,903 | Capture your screen with macOS native tools | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/screenshot) |
 
 ## Communication (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,655 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
+| [Discord](https://github.com/raycast/extensions/tree/main/extensions/discord) | 8,662 | Send message to a specific discord channel using webhook. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/discord) |
 
 ## Media (4)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,314 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |
+| [The Movie Database](https://github.com/raycast/extensions/tree/main/extensions/tmdb) | 3,316 | Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/tmdb) |
 | [IPTV](https://github.com/raycast/extensions/tree/main/extensions/iptv) | 998 | Search online IPTV channels | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/iptv) |
 | [Sonarr](https://github.com/raycast/extensions/tree/main/extensions/sonarr) | 985 | Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. | Aayush9029 | macOS, Windows | [store](https://www.raycast.com/Aayush9029/sonarr) |
 | [xQc](https://github.com/raycast/extensions/tree/main/extensions/xqc) | 30 | Search and Explore Vods for twitch.tv/xqc | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/xqc) |
@@ -50,7 +50,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Quicktype](https://github.com/raycast/extensions/tree/main/extensions/quicktype) | 722 | Generate Models and Serializers from JSON | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/quicktype) |
+| [Quicktype](https://github.com/raycast/extensions/tree/main/extensions/quicktype) | 723 | Generate Models and Serializers from JSON | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/quicktype) |
 
 ## News (1)
 
