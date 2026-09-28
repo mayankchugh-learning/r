@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "2fd6961622b03050cfda3e7255f16c04b973190b",
-  "generatedAt": "2026-09-28T14:07:42.694Z",
-  "downloadsRefreshedAt": "2026-09-28T14:07:42.280Z",
+  "commit": "cd6f83bc23673673f03eec749f27897e02bff8bb",
+  "generatedAt": "2026-09-28T14:12:27.619Z",
+  "downloadsRefreshedAt": "2026-09-28T14:12:27.353Z",
   "count": 3330,
   "extensions": [
     {
@@ -6152,7 +6152,7 @@
       "description": "Quickly controls the brightness levels of your display",
       "author": "cali",
       "owner": null,
-      "contributors": 3,
+      "contributors": 4,
       "categories": [
         "System"
       ],
@@ -6163,7 +6163,7 @@
       ],
       "store": "https://www.raycast.com/cali/brightness-control",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/brightness-control",
-      "treeSha": "cd8519621b3741d51ff1b4b0b3ce6922ec480bb6",
+      "treeSha": "290087018e5f512f9d98763d4a35dc38ab2ef22f",
       "downloads": 6329
     },
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 604738
+      "downloads": 604741
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562685
+      "downloads": 562686
     },
     {
       "dir": "google-chrome-profiles",
@@ -29280,7 +29280,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 763475
+      "downloads": 763480
     },
     {
       "dir": "kimai",
@@ -30105,7 +30105,7 @@
       "store": "https://www.raycast.com/KevinBatdorf/laravel-forge",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/laravel-forge",
       "treeSha": "eab15aa0e443f76c1fcf06a947d9b74f506de0d4",
-      "downloads": 1555
+      "downloads": 1557
     },
     {
       "dir": "laravel-herd",

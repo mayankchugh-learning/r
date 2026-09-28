@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,279,785 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,279,788 |
 | 2 | [raycast](./id/raycast.md) | 11 | 894,292 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,475 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,685 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 763,480 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 562,686 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 491,152 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 487,221 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,042 |
@@ -136,7 +136,7 @@
 | 126 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,754 |
 | 127 | [kom](https://www.raycast.com/kom) | 1 | 16,661 |
 | 128 | [k8scat](https://www.raycast.com/k8scat) | 6 | 16,195 |
-| 129 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 15,897 |
+| 129 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 15,899 |
 | 130 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,703 |
 | 131 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,540 |
 | 132 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 15,500 |
