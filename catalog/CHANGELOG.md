@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `00d79cc19b`
+
+**Updated (1):** [JetBrains Toolbox Recent Projects](https://github.com/raycast/extensions/tree/main/extensions/jetbrains)
+
 ## 2026-09-28 — upstream `cf2e6ba5bc`
 
 **Updated (1):** [Popcorn - Explore Stremio Streams](https://github.com/raycast/extensions/tree/main/extensions/popcorn)

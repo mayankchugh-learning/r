@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "cf2e6ba5bc26d05ebabb08b7911a8802f9e9c5db",
-  "generatedAt": "2026-09-28T10:18:45.263Z",
-  "downloadsRefreshedAt": "2026-09-28T10:18:44.357Z",
+  "commit": "00d79cc19b97a3376f5f0ac4a78e478ec3fcb005",
+  "generatedAt": "2026-09-28T10:20:33.166Z",
+  "downloadsRefreshedAt": "2026-09-28T10:20:32.767Z",
   "count": 3328,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 604383
+      "downloads": 604385
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562439
+      "downloads": 562440
     },
     {
       "dir": "google-chrome-profiles",
@@ -27757,18 +27757,19 @@
       "description": "Search and open JetBrains Toolbox projects",
       "author": "gdsmith",
       "owner": null,
-      "contributors": 6,
+      "contributors": 7,
       "categories": [
         "Developer Tools",
         "Productivity"
       ],
       "manifestCategorized": false,
       "platforms": [
-        "macOS"
+        "macOS",
+        "Windows"
       ],
       "store": "https://www.raycast.com/gdsmith/jetbrains",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/jetbrains",
-      "treeSha": "6752d512d146c30eea20c091b4519f9a2b5ca77e",
+      "treeSha": "9cc3eeb58dae0bce350f39e6f5d2c0b8f9c855f8",
       "downloads": 33540
     },
     {
@@ -29279,7 +29280,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 763093
+      "downloads": 763095
     },
     {
       "dir": "kimai",
