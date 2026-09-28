@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "40d7d1b80684fe8135c6ec6ad275a2636330786d",
-  "generatedAt": "2026-09-28T13:48:37.522Z",
-  "downloadsRefreshedAt": "2026-09-28T13:48:36.729Z",
+  "commit": "2fd6961622b03050cfda3e7255f16c04b973190b",
+  "generatedAt": "2026-09-28T14:07:42.694Z",
+  "downloadsRefreshedAt": "2026-09-28T14:07:42.280Z",
   "count": 3330,
   "extensions": [
     {
@@ -10184,7 +10184,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 604701
+      "downloads": 604738
     },
     {
       "dir": "color-shades",
@@ -22790,7 +22790,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 562661
+      "downloads": 562685
     },
     {
       "dir": "google-chrome-profiles",
@@ -29280,7 +29280,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 763442
+      "downloads": 763475
     },
     {
       "dir": "kimai",
@@ -30104,7 +30104,7 @@
       ],
       "store": "https://www.raycast.com/KevinBatdorf/laravel-forge",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/laravel-forge",
-      "treeSha": "917370aefc0bb6307541d883329784a6ec1f1176",
+      "treeSha": "eab15aa0e443f76c1fcf06a947d9b74f506de0d4",
       "downloads": 1555
     },
     {
