@@ -26,7 +26,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 895 | Quickly post to Threads and see recent updates. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
+| [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads) | 895 | Quickly post to Threads, see recent updates, view raw analytics, and draw giveaway winners. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/threads) |
 | [Get App Icon](https://github.com/raycast/extensions/tree/main/extensions/get-app-icon) | 213 | Quickly save or copy an app's icon in multiple sizes and formats. | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/get-app-icon) |
 
 ## Web (2)

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-28 — upstream `a6de03717d`
+
+**Updated (1):** [Threads](https://github.com/raycast/extensions/tree/main/extensions/threads)
+
 ## 2026-09-28 — upstream `d1bb542cce`
 
 **Updated (1):** [Mercury](https://github.com/raycast/extensions/tree/main/extensions/mercury)
