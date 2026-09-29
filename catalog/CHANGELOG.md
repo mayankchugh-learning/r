@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `06bd84dff1`
+
+**Updated (1):** [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader)
+
 ## 2026-09-29 — upstream `6da015ce1f`
 
 **Updated (1):** [MarkdownOS](https://github.com/raycast/extensions/tree/main/extensions/markdownos)
