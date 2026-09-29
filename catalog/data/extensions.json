@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9e1252ffd82ccd90c09f5e32491e43b1caa36cc2",
-  "generatedAt": "2026-09-29T12:00:36.552Z",
-  "downloadsRefreshedAt": "2026-09-29T12:00:35.565Z",
+  "commit": "54f3f899cb76d83911fdfa0d1e43242a704fd4c9",
+  "generatedAt": "2026-09-29T13:43:59.454Z",
+  "downloadsRefreshedAt": "2026-09-29T13:43:58.881Z",
   "count": 3340,
   "extensions": [
     {
@@ -3272,10 +3272,10 @@
         "macOS",
         "Windows"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/Asyntai/asyntai",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/asyntai",
       "treeSha": "37f3397dcbbb8619e37b8811574322595af9b418",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "at-profile",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606324
+      "downloads": 606479
     },
     {
       "dir": "color-shades",
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563876
+      "downloads": 563994
     },
     {
       "dir": "google-chrome-profiles",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 765137
+      "downloads": 765299
     },
     {
       "dir": "kimai",
@@ -41113,8 +41113,8 @@
       ],
       "store": "https://www.raycast.com/vimtor/opencode",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/opencode",
-      "treeSha": "03698d674fc200598a25aead88d2ec35db4c2575",
-      "downloads": 29
+      "treeSha": "37caf1110aa7631a1b7541e73d85fed6fb598c4a",
+      "downloads": 33
     },
     {
       "dir": "opencode-sessions",

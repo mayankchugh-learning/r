@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `54f3f899cb`
+
+**Updated (1):** [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode)
+
 ## 2026-09-29 — upstream `9e1252ffd8`
 
 **Added (1):** [Folio](https://github.com/raycast/extensions/tree/main/extensions/folio)

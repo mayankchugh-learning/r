@@ -22,7 +22,7 @@
 | [Mattermost](https://github.com/raycast/extensions/tree/main/extensions/mattermost) | 898 | Search for chats, see unread messages, and set your presence status. | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mattermost) |
 | [Rocket.Chat](https://github.com/raycast/extensions/tree/main/extensions/rocket-chat) | 146 | Search for teams, channels, users and change your presence status. | alex-w0 | macOS | [store](https://www.raycast.com/alex-w0/rocket-chat) |
 | [Chatwork Search](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) | 107 | Search chats through all the room | nagauta | macOS | [store](https://www.raycast.com/nagauta/chatwork-search) |
-| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |
+| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | 0 | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | [store](https://www.raycast.com/Asyntai/asyntai) |
 
 ## Messages ✦
 

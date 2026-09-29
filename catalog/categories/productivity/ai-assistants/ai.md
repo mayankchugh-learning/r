@@ -41,7 +41,7 @@
 | [Not Diamond](https://github.com/raycast/extensions/tree/main/extensions/not-diamond) | 407 | Not Diamond is an AI model router that automatically determines which LLM is best-suited to respond to any query, improving LLM output quality by combining mul… | dragos_nedelcu | macOS | [store](https://www.raycast.com/dragos_nedelcu/not-diamond) |
 | [LM Studio](https://github.com/raycast/extensions/tree/main/extensions/lm-studio) | 152 | Chat with, manage, and search local AI models running in LM Studio. | vineeth_sai_narajala | macOS | [store](https://www.raycast.com/vineeth_sai_narajala/lm-studio) |
 | [ToneClone](https://github.com/raycast/extensions/tree/main/extensions/toneclone) | 95 | Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing. To get started, you'll need a Ton… | jfox | macOS | [store](https://www.raycast.com/jfox/toneclone) |
-| [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 29 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |
+| [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 33 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |
 | [Muse AI](https://github.com/raycast/extensions/tree/main/extensions/muse-ai) | 26 | Muse AI (Meta Model API) within Raycast — use Muse Spark in AI Chat, Quick AI and AI Commands | alhassanaraouf | Windows, macOS | [store](https://www.raycast.com/alhassanaraouf/muse-ai) |
 | [Osaurus](https://github.com/raycast/extensions/tree/main/extensions/osaurus) | 3 | Use local Osaurus models in Raycast AI, ask them directly, manage them, and search chat history | chrismessina | macOS | [store](https://www.raycast.com/chrismessina/osaurus) |
 
@@ -55,7 +55,7 @@
 | [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 300 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
 | [Parachord](https://github.com/raycast/extensions/tree/main/extensions/parachord) | 35 | Control Parachord music player - play, pause, skip, search, and chat with the AI DJ | parachord | macOS | [store](https://www.raycast.com/parachord/parachord) |
 | [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) | 9 | Open or prefill one prompt in ChatGPT, Claude, Grok, and Perplexity using query URLs in your browser. | matheuscoelho3006 | macOS | [store](https://www.raycast.com/matheuscoelho3006/multi-ai-chat) |
-| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |
+| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | 0 | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | [store](https://www.raycast.com/Asyntai/asyntai) |
 
 ## Ask ✦
 

@@ -170,7 +170,7 @@
 | [Val Town](https://github.com/raycast/extensions/tree/main/extensions/val-town) | 61 | Browse your vals, read their logs and traces, and allow Raycast AI to run the ones you choose | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/val-town) |
 | [Skills.re](https://github.com/raycast/extensions/tree/main/extensions/skills-re) | 59 | Search and manage agent skills from skills.re. | escwxyz | macOS, Windows | [store](https://www.raycast.com/escwxyz/skills-re) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 18 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
-| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |
+| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | 0 | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | [store](https://www.raycast.com/Asyntai/asyntai) |
 
 ### Crypto & Markets
 

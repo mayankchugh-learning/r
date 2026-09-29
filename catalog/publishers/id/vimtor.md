@@ -1,6 +1,6 @@
 # vimtor
 
-16 extensions · 334,353 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
+16 extensions · 334,357 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
 
 ## Applications (5)
 
@@ -42,7 +42,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Lodash](https://github.com/raycast/extensions/tree/main/extensions/lodash) | 748 | Search Lodash documentation | vimtor | macOS | [store](https://www.raycast.com/vimtor/lodash) |
-| [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 29 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |
+| [OpenCode](https://github.com/raycast/extensions/tree/main/extensions/opencode) | 33 | Use models from your OpenCode Console workspace in Raycast AI | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/opencode) |
 
 ## Data (3)
 

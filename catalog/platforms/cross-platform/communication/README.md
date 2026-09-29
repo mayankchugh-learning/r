@@ -22,7 +22,7 @@
 | [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 1,134 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
 | [Gotify](https://github.com/raycast/extensions/tree/main/extensions/gotify) | 107 | Load all Gotify messages | Lemon | macOS, Windows | [store](https://www.raycast.com/Lemon/gotify) |
 | [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) | 11 | Set a funny status on Slack, GitLab and GitHub at once — pick services, roll a random one, or generate with AI. | jan_werner | macOS, Windows | [store](https://www.raycast.com/jan_werner/status-nerd) |
-| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |
+| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | 0 | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | [store](https://www.raycast.com/Asyntai/asyntai) |
 
 ### Video Calls & Meetings
 
