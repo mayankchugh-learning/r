@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "b73805ad62e77d425f096d209eaebc187fd273a6",
-  "generatedAt": "2026-09-29T10:39:45.279Z",
-  "downloadsRefreshedAt": "2026-09-29T10:39:43.414Z",
+  "commit": "a6bee6212f0304392d727c1fc2775a3dc4f584cb",
+  "generatedAt": "2026-09-29T11:26:40.506Z",
+  "downloadsRefreshedAt": "2026-09-29T11:26:39.744Z",
   "count": 3339,
   "extensions": [
     {
@@ -8778,7 +8778,7 @@
       "description": "Browse ClickUp tasks and docs from Raycast",
       "author": "aparandeh",
       "owner": null,
-      "contributors": 4,
+      "contributors": 5,
       "categories": [
         "Productivity"
       ],
@@ -8788,7 +8788,7 @@
       ],
       "store": "https://www.raycast.com/aparandeh/manage-clickup-tasks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/clickup",
-      "treeSha": "17baf3e033694993ab745ad55ceadabfbb3871a5",
+      "treeSha": "864ace66179d6a8a596be055e3983d69059ac443",
       "downloads": 9274
     },
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606214
+      "downloads": 606280
     },
     {
       "dir": "color-shades",
@@ -17769,10 +17769,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/jerichosequitin/executor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/executor",
       "treeSha": "ce235bb63859292e8c9dda7d5deeabd1a11294c9",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "exif",
@@ -22896,7 +22896,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563795
+      "downloads": 563841
     },
     {
       "dir": "google-chrome-profiles",
@@ -29386,7 +29386,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 765020
+      "downloads": 765082
     },
     {
       "dir": "kimai",

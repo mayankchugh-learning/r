@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `a6bee6212f`
+
+**Updated (1):** [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup)
+
 ## 2026-09-29 — upstream `b73805ad62`
 
 **Added (1):** [Executor](https://github.com/raycast/extensions/tree/main/extensions/executor)
