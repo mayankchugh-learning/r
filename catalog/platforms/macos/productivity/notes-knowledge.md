@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · **Notes & Knowledge** · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-65 of 1511 extensions · [← macOS · Productivity](./README.md)
+65 of 1512 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,7 @@
 | [Granola](https://github.com/raycast/extensions/tree/main/extensions/granola) | 8,022 | Create, manage, and review notes in Granola | Rob | macOS, Windows | [store](https://www.raycast.com/Rob/granola) |
 | [Quick Notes](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) | 7,702 | Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! | biknandy | Windows, macOS | [store](https://www.raycast.com/biknandy/quick-notes) |
 | [Capacities](https://github.com/raycast/extensions/tree/main/extensions/capacities) | 7,007 | Interact with Capacities from your command bar. Search your notes, capture content & more. | steffenble | macOS, Windows | [store](https://www.raycast.com/steffenble/capacities) |
-| [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 6,947 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
+| [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) | 6,953 | Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers | dru89 | macOS | [store](https://www.raycast.com/dru89/obsidian-bookmarks) |
 | [Obsidian Tasks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-tasks) | 4,475 | Manage your Obsidian Tasks through Raycast | ozencb | macOS | [store](https://www.raycast.com/ozencb/obsidian-tasks) |
 | [OneNote](https://github.com/raycast/extensions/tree/main/extensions/onenote) | 4,268 | Search Microsoft OneNote notes | alewandowski | macOS | [store](https://www.raycast.com/alewandowski/onenote) |
 | [Antinote](https://github.com/raycast/extensions/tree/main/extensions/antinote) | 3,697 | Extension to control Antinote app. Create new notes, search notes and pin/unpin Antinote with Raycast. | sc0 | macOS | [store](https://www.raycast.com/sc0/antinote) |

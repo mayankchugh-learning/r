@@ -2,7 +2,7 @@
 
 **AI & Assistants** · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-138 of 1511 extensions · [← macOS · Productivity](./README.md)
+139 of 1512 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -144,3 +144,4 @@
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 2 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
 | [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) | 0 | Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/tinkerer-club) |
 | [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |
+| [Executor](https://github.com/raycast/extensions/tree/main/extensions/executor) | — | Run connected tools, automate with Raycast AI, and manage your Executor workspaces | jerichosequitin | macOS | — |

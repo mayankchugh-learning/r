@@ -1,6 +1,6 @@
 # AI ✦
 
-80 extensions · [← AI & LLM Tools](../README.md)
+81 extensions · [← AI & LLM Tools](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
@@ -9,6 +9,6 @@
 | [Code ✦](./code.md) | 8 |
 | [AI Powered ✦](./ai-powered.md) | 7 |
 | [Prompts ✦](./prompts.md) | 5 |
-| [General](./general.md) | 30 |
+| [General](./general.md) | 31 |
 
 *✦ auto-discovered topic group*

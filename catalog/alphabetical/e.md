@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-75 extensions · [← catalog index](../README.md)
+76 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -81,3 +81,4 @@
 | [e18e Module Replacements](https://github.com/raycast/extensions/tree/main/extensions/e18e-module-replacements) | 10 | Search and browse e18e's curated list of modern npm package replacements. | tm.wrnr | macOS, Windows | [store](https://www.raycast.com/tm.wrnr/e18e-module-replacements) |
 | [ETS2/ATS Profiles](https://github.com/raycast/extensions/tree/main/extensions/ets2-ats-profiles) | 3 | Manage Euro Truck Simulator 2 and American Truck Simulator Profiles directly from Raycast! | yugveer28 | Windows | [store](https://www.raycast.com/yugveer28/ets2-ats-profiles) |
 | [Env Keeper](https://github.com/raycast/extensions/tree/main/extensions/env-keeper) | 0 | Manage all your projects' .env files and global shell config, right from Raycast. Local-only, keyboard-first, free. | Mr-MJ | macOS | [store](https://www.raycast.com/Mr-MJ/env-keeper) |
+| [Executor](https://github.com/raycast/extensions/tree/main/extensions/executor) | — | Run connected tools, automate with Raycast AI, and manage your Executor workspaces | jerichosequitin | macOS | — |

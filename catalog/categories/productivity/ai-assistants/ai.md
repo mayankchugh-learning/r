@@ -1,8 +1,8 @@
 # AI ✦
 
-107 extensions · [← AI & Assistants](./README.md)
+108 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [General](#general) (55)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [General](#general) (56)
 
 *✦ auto-discovered topic group*
 
@@ -147,3 +147,4 @@
 | [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 2 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 2 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
 | [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) | 0 | Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/tinkerer-club) |
+| [Executor](https://github.com/raycast/extensions/tree/main/extensions/executor) | — | Run connected tools, automate with Raycast AI, and manage your Executor workspaces | jerichosequitin | macOS | — |

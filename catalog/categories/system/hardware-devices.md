@@ -25,7 +25,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Set Audio Device](https://github.com/raycast/extensions/tree/main/extensions/audio-device) | 75,396 | Switch the active audio device of your mac. | benvp | macOS, Windows | [store](https://www.raycast.com/benvp/audio-device) |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 16,977 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 16,985 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Sidecar Connect](https://github.com/raycast/extensions/tree/main/extensions/sidecar-connect) | 258 | Connect and manage Sidecar devices directly from Raycast. | dejuknow | macOS | [store](https://www.raycast.com/dejuknow/sidecar-connect) |
 | [Find My Devices](https://github.com/raycast/extensions/tree/main/extensions/find-my-devices) | 81 | List your Apple Find My devices and play a sound on one device. | Visual-Studio-Coder | macOS | [store](https://www.raycast.com/Visual-Studio-Coder/find-my-devices) |
 | [Mobile Provisions](https://github.com/raycast/extensions/tree/main/extensions/mobile-provisions) | 36 | Manage and inspect Apple mobile provisioning profiles with detailed information about certificates, entitlements, and provisioned devices | ernest0n | macOS | [store](https://www.raycast.com/ernest0n/mobile-provisions) |

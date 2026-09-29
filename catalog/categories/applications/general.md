@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Ruler](https://github.com/raycast/extensions/tree/main/extensions/ruler) | 42,802 | Measure Distance Between Two Points | anwarulislam | macOS, Windows | [store](https://www.raycast.com/anwarulislam/ruler) |
 | [DevUtils](https://github.com/raycast/extensions/tree/main/extensions/devutils) | 25,918 | Navigate DevUtils faster with this All-in-one Toolbox for Developers | devutils (org) | macOS | [store](https://www.raycast.com/devutils/devutils) |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 16,977 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 16,985 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [QuickTime Recording](https://github.com/raycast/extensions/tree/main/extensions/quicktime) | 15,911 | Start screen recording, movie recording and sound recording instantly. | pradeepb28 | macOS | [store](https://www.raycast.com/pradeepb28/quicktime) |
 | [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 12,775 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
 | [OpenAI Translator](https://github.com/raycast/extensions/tree/main/extensions/openai-translator) | 10,311 | Translation based on Multiple LLMs. | douo | macOS | [store](https://www.raycast.com/douo/openai-translator) |

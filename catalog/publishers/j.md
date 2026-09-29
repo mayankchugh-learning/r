@@ -45,7 +45,7 @@
 | [jeffreyvanhees](https://www.raycast.com/jeffreyvanhees) | 1 | 76 | **Data:** [Dutch License Plate Search](https://github.com/raycast/extensions/tree/main/extensions/rdw-kentekencheck) |
 | [JensAstrup](https://www.raycast.com/JensAstrup) | 1 | 49 | **Documentation:** [Django Docs](https://github.com/raycast/extensions/tree/main/extensions/django-docs) |
 | [jergensturdley](https://www.raycast.com/jergensturdley) | 1 | 75 | **Uncategorized:** [RG AdGuard Links](https://github.com/raycast/extensions/tree/main/extensions/rg-adguard-links) |
-| [jerichosequitin](https://www.raycast.com/jerichosequitin) | 1 | 5 | **Productivity:** [Coast](https://github.com/raycast/extensions/tree/main/extensions/coast) |
+| [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 5 | **Productivity:** [Coast](https://github.com/raycast/extensions/tree/main/extensions/coast)<br>**Developer Tools:** [Executor](https://github.com/raycast/extensions/tree/main/extensions/executor) |
 | [jerome_soyer](https://www.raycast.com/jerome_soyer) | 1 | 350 | **Applications:** [Kitty](https://github.com/raycast/extensions/tree/main/extensions/kitty) |
 | [jesper_sjoberg](https://www.raycast.com/jesper_sjoberg) | 1 | 493 | **Productivity:** [Math Functions](https://github.com/raycast/extensions/tree/main/extensions/math-functions) |
 | [jetaix](https://www.raycast.com/jetaix) | 1 | 132 | **Finance:** [Finary](https://github.com/raycast/extensions/tree/main/extensions/finary) |

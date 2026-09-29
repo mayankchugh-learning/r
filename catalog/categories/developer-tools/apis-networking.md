@@ -74,7 +74,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 16,977 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
+| [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale) | 16,985 | List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. | tailscale (org) | macOS | [store](https://www.raycast.com/tailscale/tailscale) |
 | [Postman](https://github.com/raycast/extensions/tree/main/extensions/postman) | 6,022 | Send GET requests in your postman collections. | tarikyildizci | macOS | [store](https://www.raycast.com/tarikyildizci/postman) |
 | [IP Tools](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) | 4,255 | This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) | meguoe | macOS, Windows | [store](https://www.raycast.com/meguoe/ip-tools) |
 | [Surge](https://github.com/raycast/extensions/tree/main/extensions/surge) | 1,628 | Switch outbound mode, change proxy tunnel and other Surge settings from Raycast. | litomore | macOS | [store](https://www.raycast.com/litomore/raycast-surge) |

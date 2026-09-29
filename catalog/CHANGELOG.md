@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `b73805ad62`
+
+**Added (1):** [Executor](https://github.com/raycast/extensions/tree/main/extensions/executor)
+
 ## 2026-09-29 — upstream `a42be8a81b`
 
 **Updated (1):** [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale)
