@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · **Clipboard & Text Expansion** · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · [Documents & Files](./documents-files.md) · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-73 of 1509 extensions · [← macOS · Productivity](./README.md)
+74 of 1510 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -79,3 +79,4 @@
 | [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) | 6 | Upload copied screenshots or copied image files to a configurable ImgBed endpoint. | andy | macOS | [store](https://www.raycast.com/andy/imgbed-uploader) |
 | [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid) | 5 | Spreadsheet powers from your launcher: evaluate Excel formulas against clipboard data, peek inside xlsx/csv/sheet files, and open workbooks — via the VisiGrid… | visigrid | macOS | [store](https://www.raycast.com/visigrid/visigrid) |
 | [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 1 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
+| [FlowSpeech TTS](https://github.com/raycast/extensions/tree/main/extensions/flowspeech-tts) | 0 | Turn selected or copied text into natural speech with FlowSpeech | waeckerlinfederowicz66-sketch | macOS | [store](https://www.raycast.com/waeckerlinfederowicz66-sketch/flowspeech-tts) |

@@ -1,6 +1,6 @@
 # Clipboard & Text Expansion
 
-74 extensions · [← Productivity](./README.md)
+75 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -78,3 +78,4 @@
 | [ImgBed Uploader](https://github.com/raycast/extensions/tree/main/extensions/imgbed-uploader) | 6 | Upload copied screenshots or copied image files to a configurable ImgBed endpoint. | andy | macOS | [store](https://www.raycast.com/andy/imgbed-uploader) |
 | [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid) | 5 | Spreadsheet powers from your launcher: evaluate Excel formulas against clipboard data, peek inside xlsx/csv/sheet files, and open workbooks — via the VisiGrid… | visigrid | macOS | [store](https://www.raycast.com/visigrid/visigrid) |
 | [Nepali Typing](https://github.com/raycast/extensions/tree/main/extensions/nepali-typing) | 1 | Convert romanized Nepali to Devanagari and paste it anywhere. | viper_x | macOS | [store](https://www.raycast.com/viper_x/nepali-typing) |
+| [FlowSpeech TTS](https://github.com/raycast/extensions/tree/main/extensions/flowspeech-tts) | 0 | Turn selected or copied text into natural speech with FlowSpeech | waeckerlinfederowicz66-sketch | macOS | [store](https://www.raycast.com/waeckerlinfederowicz66-sketch/flowspeech-tts) |

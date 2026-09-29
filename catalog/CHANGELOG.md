@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `ca5e5a019c`
+
+**Added (1):** [FlowSpeech TTS](https://github.com/raycast/extensions/tree/main/extensions/flowspeech-tts)
+
 ## 2026-09-29 — upstream `30547c1083`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)

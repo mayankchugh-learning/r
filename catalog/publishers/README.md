@@ -1,6 +1,6 @@
 # Publishers
 
-2238 publishers · [← catalog index](../README.md)
+2239 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,9 +8,9 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,282,201 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,282,207 |
 | 2 | [raycast](./id/raycast.md) | 11 | 896,126 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,962 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,968 |
 | 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,759 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,146 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,331 |
@@ -2242,7 +2242,8 @@
 | 2232 | [mjphayes](https://www.raycast.com/mjphayes) | 1 | 0 |
 | 2233 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2234 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2235 | github-next | 2 | — |
-| 2236 | asyntai | 1 | — |
-| 2237 | eugenio | 1 | — |
-| 2238 | multi | 1 | — |
+| 2235 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2236 | github-next | 2 | — |
+| 2237 | asyntai | 1 | — |
+| 2238 | eugenio | 1 | — |
+| 2239 | multi | 1 | — |

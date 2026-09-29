@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "30547c10830f7c2dc29cf43c8a53138ef8a70a6f",
-  "generatedAt": "2026-09-29T09:56:38.169Z",
-  "downloadsRefreshedAt": "2026-09-29T09:56:37.267Z",
-  "count": 3336,
+  "commit": "ca5e5a019c1be43076f5bf25087ab04fd30a36b8",
+  "generatedAt": "2026-09-29T09:58:36.501Z",
+  "downloadsRefreshedAt": "2026-09-29T09:58:35.152Z",
+  "count": 3337,
   "extensions": [
     {
       "dir": "0x0",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606150
+      "downloads": 606156
     },
     {
       "dir": "color-shades",
@@ -19594,6 +19594,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/flow",
       "treeSha": "78a75c376726c79b02f14b302dd3a16ea7b0bd38",
       "downloads": 8689
+    },
+    {
+      "dir": "flowspeech-tts",
+      "name": "flowspeech-tts",
+      "title": "FlowSpeech TTS",
+      "description": "Turn selected or copied text into natural speech with FlowSpeech",
+      "author": "waeckerlinfederowicz66-sketch",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/waeckerlinfederowicz66-sketch/flowspeech-tts",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/flowspeech-tts",
+      "treeSha": "8b46313606782ede9ec15d7cbac31fe4eca2dbdf",
+      "downloads": 0
     },
     {
       "dir": "fluctuation",
@@ -29324,7 +29344,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 764962
+      "downloads": 764968
     },
     {
       "dir": "kimai",
