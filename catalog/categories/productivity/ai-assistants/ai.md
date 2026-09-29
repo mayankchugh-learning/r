@@ -1,8 +1,8 @@
 # AI ✦
 
-105 extensions · [← AI & Assistants](./README.md)
+106 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Ask ✦](#ask) (5) · [Prompts ✦](#prompts) (4) · [General](#general) (54)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Ask ✦](#ask) (5) · [Prompts ✦](#prompts) (4) · [General](#general) (55)
 
 *✦ auto-discovered topic group*
 
@@ -145,3 +145,4 @@
 | [Ultrahuman Insights](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman-insights) | 7 | Smart insights, AI tools, and trend charts for your Ultrahuman Ring AIR. | aryan_rustagi | macOS, Windows | [store](https://www.raycast.com/aryan_rustagi/ultrahuman-insights) |
 | [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) | 2 | Capture and manage your Jovida Daily todos — and let Raycast AI do it for you. | AidenZ | macOS | [store](https://www.raycast.com/AidenZ/jovida-daily) |
 | [U2L Link Shortener](https://github.com/raycast/extensions/tree/main/extensions/u2l) | 2 | Shorten links with U2L AI. Create short links from an argument, selection, or clipboard, search your links, and check click stats. | u2l | macOS, Windows | [store](https://www.raycast.com/u2l/u2l) |
+| [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) | — | Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools. | Olli0103 | macOS | — |

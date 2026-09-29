@@ -1,6 +1,6 @@
 # General
 
-49 extensions · [← Communication](./README.md)
+50 extensions · [← Communication](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -53,3 +53,4 @@
 | [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay) | 3 | Send real-time updates to your PushToDisplay boards | pushtodisplay | macOS | [store](https://www.raycast.com/pushtodisplay/pushtodisplay) |
 | [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub) | 1 | Control your Kuando Busylight through the kuandoHUB HTTP API | lyager | macOS | [store](https://www.raycast.com/lyager/kuandohub) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
+| [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) | — | Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools. | Olli0103 | macOS | — |

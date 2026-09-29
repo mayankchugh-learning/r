@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `80876feb4c`
+
+**Added (1):** [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club)
+
 ## 2026-09-29 — upstream `1b091a57a8`
 
 **Added (1):** [MarkdownOS](https://github.com/raycast/extensions/tree/main/extensions/markdownos)

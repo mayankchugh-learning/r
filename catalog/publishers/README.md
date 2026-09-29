@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,281,896 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,281,897 |
 | 2 | [raycast](./id/raycast.md) | 11 | 896,126 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,611 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,509 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,613 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,510 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,146 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,331 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
@@ -1260,7 +1260,7 @@
 | 1250 | [joeynotjoe_2](https://www.raycast.com/joeynotjoe_2) | 1 | 195 |
 | 1251 | [jorgecortesdev](https://www.raycast.com/jorgecortesdev) | 1 | 195 |
 | 1252 | [pirijan](https://www.raycast.com/pirijan) | 1 | 195 |
-| 1253 | [Olli0103](https://www.raycast.com/Olli0103) | 2 | 194 |
+| 1253 | [Olli0103](https://www.raycast.com/Olli0103) | 3 | 194 |
 | 1254 | [AlanHuang](https://www.raycast.com/AlanHuang) | 1 | 194 |
 | 1255 | [egirlevadniy](https://www.raycast.com/egirlevadniy) | 1 | 194 |
 | 1256 | [eviscares](https://www.raycast.com/eviscares) | 1 | 192 |

@@ -1,8 +1,8 @@
 # macOS · Communication
 
-158 extensions · [← macOS](../README.md)
+159 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (56)
+[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (57)
 
 ## Conversations
 
@@ -217,3 +217,4 @@
 | [PushToDisplay](https://github.com/raycast/extensions/tree/main/extensions/pushtodisplay) | 3 | Send real-time updates to your PushToDisplay boards | pushtodisplay | macOS | [store](https://www.raycast.com/pushtodisplay/pushtodisplay) |
 | [KuandoHUB](https://github.com/raycast/extensions/tree/main/extensions/kuandohub) | 1 | Control your Kuando Busylight through the kuandoHUB HTTP API | lyager | macOS | [store](https://www.raycast.com/lyager/kuandohub) |
 | [Multi](https://github.com/raycast/extensions/tree/main/extensions/multi) | — | See rooms & teammates, join sessions, control devices and more | multi (org) | macOS | — |
+| [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) | — | Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools. | Olli0103 | macOS | — |

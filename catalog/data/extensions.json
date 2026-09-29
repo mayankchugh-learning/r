@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "1b091a57a8d595515e27db4fcb63d3c840bf5e4c",
-  "generatedAt": "2026-09-29T06:36:35.042Z",
-  "downloadsRefreshedAt": "2026-09-29T06:36:34.364Z",
-  "count": 3332,
+  "commit": "80876feb4cb71969eae8e78ec6af5e51df1d0e2a",
+  "generatedAt": "2026-09-29T06:38:23.793Z",
+  "downloadsRefreshedAt": "2026-09-29T06:38:23.067Z",
+  "count": 3333,
   "extensions": [
     {
       "dir": "0x0",
@@ -10205,7 +10205,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 605845
+      "downloads": 605846
     },
     {
       "dir": "color-shades",
@@ -22811,7 +22811,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563509
+      "downloads": 563510
     },
     {
       "dir": "google-chrome-profiles",
@@ -29301,7 +29301,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 764611
+      "downloads": 764613
     },
     {
       "dir": "kimai",
@@ -61370,6 +61370,27 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tinker",
       "treeSha": "1b9a3178139b88457e48d89590ccf82577f61a56",
       "downloads": 3
+    },
+    {
+      "dir": "tinkerer-club",
+      "name": "tinkerer-club",
+      "title": "Tinkerer Club",
+      "description": "Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools.",
+      "author": "Olli0103",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Communication",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club",
+      "treeSha": "a0cce6913698b47290d6614ccab9a212d896b13d",
+      "downloads": null
     },
     {
       "dir": "tints-and-shades",

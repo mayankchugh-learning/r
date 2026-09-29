@@ -1,10 +1,10 @@
 # AI & Assistants
 
-137 extensions · [← Productivity](../README.md)
+138 extensions · [← Productivity](../README.md)
 
 | Topic | Extensions |
 | --- | --- |
-| [AI ✦](./ai.md) | 105 |
+| [AI ✦](./ai.md) | 106 |
 | [Openai ✦](./openai.md) | 7 |
 | [Claude ✦](./claude.md) | 9 |
 | [Chatgpt ✦](./chatgpt.md) | 4 |
