@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,282,628 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,282,663 |
 | 2 | [raycast](./id/raycast.md) | 11 | 896,126 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,386 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,064 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,423 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,101 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,146 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,331 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
@@ -79,7 +79,7 @@
 | 69 | [yuercl](https://www.raycast.com/yuercl) | 2 | 40,061 |
 | 70 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 37,379 |
 | 71 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 37,212 |
-| 72 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 36,724 |
+| 72 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 36,753 |
 | 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 36,055 |
 | 74 | [dziad](https://www.raycast.com/dziad) | 1 | 35,960 |
 | 75 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 35,330 |
@@ -129,7 +129,7 @@
 | 119 | [maantje](https://www.raycast.com/maantje) | 2 | 17,571 |
 | 120 | [timoransky](https://www.raycast.com/timoransky) | 4 | 17,541 |
 | 121 | [ilian](https://www.raycast.com/ilian) | 3 | 17,540 |
-| 122 | [tailscale](https://www.raycast.com/tailscale) | 1 | 16,985 |
+| 122 | [tailscale](https://www.raycast.com/tailscale) | 1 | 16,999 |
 | 123 | [limonkufu](https://www.raycast.com/limonkufu) | 1 | 16,970 |
 | 124 | [ewgenius](https://www.raycast.com/ewgenius) | 3 | 16,967 |
 | 125 | [jarry_chung](https://www.raycast.com/jarry_chung) | 1 | 16,942 |

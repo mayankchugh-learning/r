@@ -30,7 +30,7 @@
 | [visigrid](https://www.raycast.com/visigrid) | 1 | 5 | **Productivity:** [VisiGrid](https://github.com/raycast/extensions/tree/main/extensions/visigrid) |
 | [visual_eugen](https://www.raycast.com/visual_eugen) | 1 | 28 | **Developer Tools:** [Find OpenGL Enum](https://github.com/raycast/extensions/tree/main/extensions/find-opengl-enum) |
 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 29,537 | [see all 17 →](./id/visual-studio-coder.md) |
-| [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 36,724 | **Communication:** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) |
+| [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 36,753 | **Communication:** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet) |
 | [vitorlostada](https://www.raycast.com/vitorlostada) | 1 | 1,098 | **Developer Tools:** [Image Base64 Converter](https://github.com/raycast/extensions/tree/main/extensions/image-base64) |
 | [vivek](https://www.raycast.com/vivek) | 1 | 647 | **Documentation:** [DeepWiki](https://github.com/raycast/extensions/tree/main/extensions/deepwiki) |
 | [vivgui](https://www.raycast.com/vivgui) | 1 | 121 | **Productivity:** [Beeminder](https://github.com/raycast/extensions/tree/main/extensions/beeminder) |

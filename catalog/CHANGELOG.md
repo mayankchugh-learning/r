@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `85a58a5073`
+
+**Updated (1):** [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale)
+
 ## 2026-09-29 — upstream `c5ef716409`
 
 **Updated (1):** [Google Meet](https://github.com/raycast/extensions/tree/main/extensions/google-meet)
