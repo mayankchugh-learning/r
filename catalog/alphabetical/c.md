@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 606,681 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
+| [Color Picker](https://github.com/raycast/extensions/tree/main/extensions/color-picker) | 606,786 | Pick and organize colors, everywhere on your Mac | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/color-picker) |
 | [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 258,139 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
 | [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee) | 148,859 | Prevent the sleep function on your computer | mooxl | macOS, Windows | [store](https://www.raycast.com/mooxl/coffee) |
 | [CleanShot X](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) | 119,224 | Capture and record your screen! | Aayush9029 | macOS | [store](https://www.raycast.com/Aayush9029/cleanshotx) |
@@ -52,7 +52,7 @@
 | [Compresto](https://github.com/raycast/extensions/tree/main/extensions/compressx) | 3,579 | Compress files easily, with up to 90% file size reduction | hieudinh | macOS | [store](https://www.raycast.com/hieudinh/compressx) |
 | [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,472 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |
 | [Change Scroll Direction](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) | 3,250 | Changes between the two scroll directions „natural“ and „mouse-friendly“. Useful when switching between trackpad and mouse. | gregoralbrecht | macOS | [store](https://www.raycast.com/gregoralbrecht/change-scroll-direction) |
-| [Custom Folder](https://github.com/raycast/extensions/tree/main/extensions/custom-folder) | 3,107 | Customize MacOS folder icons. | phlo | macOS | [store](https://www.raycast.com/phlo/custom-folder) |
+| [Custom Folder](https://github.com/raycast/extensions/tree/main/extensions/custom-folder) | 3,108 | Customize MacOS folder icons. | phlo | macOS | [store](https://www.raycast.com/phlo/custom-folder) |
 | [Console Dev](https://github.com/raycast/extensions/tree/main/extensions/consoledev) | 2,999 | An extension to discover the best tools and beta releases for developers (via console.dev) | fedevitaledev | macOS, Windows | [store](https://www.raycast.com/fedevitaledev/consoledev) |
 | [Clash](https://github.com/raycast/extensions/tree/main/extensions/clash) | 2,990 | Monitor your Clash with Raycast. Including Proxies, Connections, Rules and Logs data, and support backends switch. | Go2SheeP | macOS | [store](https://www.raycast.com/Go2SheeP/clash) |
 | [Coingecko](https://github.com/raycast/extensions/tree/main/extensions/coingecko) | 2,805 | Get crypto data from Coingecko (price, ticker, ranking) | destiner | macOS | [store](https://www.raycast.com/destiner/coingecko) |
@@ -149,8 +149,8 @@
 | [Cheetah](https://github.com/raycast/extensions/tree/main/extensions/cheetah) | 361 | Search for a local Git project and open it with the specified application. | ronglecat | macOS | [store](https://www.raycast.com/ronglecat/cheetah) |
 | [Context7](https://github.com/raycast/extensions/tree/main/extensions/context7) | 360 | Search up-to-date documentation for any library, framework, or SDK — keep the ones you use offline, and ask Raycast AI about them | loris | macOS, Windows | [store](https://www.raycast.com/loris/context7) |
 | [Cerebras](https://github.com/raycast/extensions/tree/main/extensions/cerebras) | 353 | Bring Instant AI Inference to Raycast | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/cerebras) |
+| [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) | 341 | Manage Codex MCP servers and skills with safe local operations | jose_de_freitas | macOS | [store](https://www.raycast.com/jose_de_freitas/codex-manager) |
 | [Cypress Documentation](https://github.com/raycast/extensions/tree/main/extensions/cypress-docs) | 341 | Quickly search the Cypress docs and open them in the browser | robertguss | macOS | [store](https://www.raycast.com/robertguss/cypress-docs) |
-| [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) | 340 | Manage Codex MCP servers and skills with safe local operations | jose_de_freitas | macOS | [store](https://www.raycast.com/jose_de_freitas/codex-manager) |
 | [CLIPPyX](https://github.com/raycast/extensions/tree/main/extensions/clippyx) | 333 | CLIPPyX provides an OS-wide image search that supports semantic search in both image content and text on images | 0ssamaak0 | macOS | [store](https://www.raycast.com/0ssamaak0/clippyx) |
 | [Circleback](https://github.com/raycast/extensions/tree/main/extensions/circleback) | 325 | Record, view, and search meetings in Circleback | circleback (org) | macOS | [store](https://www.raycast.com/circleback/circleback) |
 | [CrawlDoc - Documentations Search Engine](https://github.com/raycast/extensions/tree/main/extensions/crawldoc) | 325 | Allow searching through multiple documentations platforms | johan-perso | macOS | [store](https://www.raycast.com/johan-perso/crawldoc) |

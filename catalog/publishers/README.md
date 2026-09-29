@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,283,526 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,283,631 |
 | 2 | [raycast](./id/raycast.md) | 11 | 897,063 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,493 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,152 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,609 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,238 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,655 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,908 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,243 |
@@ -52,7 +52,7 @@
 | 42 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 68,563 |
 | 43 | [third774](https://www.raycast.com/third774) | 3 | 67,936 |
 | 44 | [Kang](https://www.raycast.com/Kang) | 3 | 66,130 |
-| 45 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 65,605 |
+| 45 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 65,612 |
 | 46 | [thomaslombart](https://www.raycast.com/thomaslombart) | 2 | 64,813 |
 | 47 | [simicvm](https://www.raycast.com/simicvm) | 1 | 61,471 |
 | 48 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 58,388 |
@@ -337,7 +337,7 @@
 | 327 | [mjoosuf](https://www.raycast.com/mjoosuf) | 1 | 3,388 |
 | 328 | [shakedlokits](https://www.raycast.com/shakedlokits) | 1 | 3,375 |
 | 329 | [muzhen_gaming](https://www.raycast.com/muzhen_gaming) | 2 | 3,337 |
-| 330 | [phlo](https://www.raycast.com/phlo) | 2 | 3,309 |
+| 330 | [phlo](https://www.raycast.com/phlo) | 2 | 3,310 |
 | 331 | [tmk](https://www.raycast.com/tmk) | 1 | 3,308 |
 | 332 | [carter](https://www.raycast.com/carter) | 1 | 3,279 |
 | 333 | [skyline-123](https://www.raycast.com/skyline-123) | 3 | 3,271 |
@@ -1050,8 +1050,8 @@
 | 1040 | [Vonernue](https://www.raycast.com/Vonernue) | 1 | 346 |
 | 1041 | [dharmendra](https://www.raycast.com/dharmendra) | 1 | 345 |
 | 1042 | [fab_uleuh](https://www.raycast.com/fab_uleuh) | 1 | 342 |
-| 1043 | [robertguss](https://www.raycast.com/robertguss) | 1 | 341 |
-| 1044 | [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 340 |
+| 1043 | [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 341 |
+| 1044 | [robertguss](https://www.raycast.com/robertguss) | 1 | 341 |
 | 1045 | [honzatmn](https://www.raycast.com/honzatmn) | 1 | 338 |
 | 1046 | [paulovictor237](https://www.raycast.com/paulovictor237) | 1 | 338 |
 | 1047 | [openverse](https://www.raycast.com/openverse) | 1 | 336 |

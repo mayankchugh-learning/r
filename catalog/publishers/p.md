@@ -51,7 +51,7 @@
 | [philip_chen](https://www.raycast.com/philip_chen) | 1 | 1,390 | **Uncategorized:** [Sidecar](https://github.com/raycast/extensions/tree/main/extensions/sidecar) |
 | [philipbrembeck](https://www.raycast.com/philipbrembeck) | 1 | 56 | **Other:** [Veganify](https://github.com/raycast/extensions/tree/main/extensions/veganify-application) |
 | [philstainer](https://www.raycast.com/philstainer) | 1 | 375 | **Developer Tools:** [Git Worktrees](https://github.com/raycast/extensions/tree/main/extensions/git-worktrees) |
-| [phlo](https://www.raycast.com/phlo) | 2 | 3,309 | **Other:** [Custom Folder](https://github.com/raycast/extensions/tree/main/extensions/custom-folder), [Custom Icon](https://github.com/raycast/extensions/tree/main/extensions/custom-icon) |
+| [phlo](https://www.raycast.com/phlo) | 2 | 3,310 | **Other:** [Custom Folder](https://github.com/raycast/extensions/tree/main/extensions/custom-folder), [Custom Icon](https://github.com/raycast/extensions/tree/main/extensions/custom-icon) |
 | [pieces](https://www.raycast.com/pieces) | 1 | 1,870 | **Developer Tools:** [Pieces for Raycast](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) |
 | [Pierrad](https://www.raycast.com/Pierrad) | 1 | 76 | **Other:** [SncfTrainTimes](https://github.com/raycast/extensions/tree/main/extensions/sncftraintimes) |
 | [pin-yi](https://www.raycast.com/pin-yi) | 1 | 31 | **Developer Tools:** [Google Cloud Platform IP Search](https://github.com/raycast/extensions/tree/main/extensions/gcp-ip-search) |

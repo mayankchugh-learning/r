@@ -77,7 +77,7 @@
 | [johnwick](https://www.raycast.com/johnwick) | 1 | 170 | **System:** [Move Cursor Displays](https://github.com/raycast/extensions/tree/main/extensions/move-cursor-next-display) |
 | [jokull](https://www.raycast.com/jokull) | 1 | 40 | **Productivity:** [Ensk.is](https://github.com/raycast/extensions/tree/main/extensions/ensk-is) |
 | [jomatsu](https://www.raycast.com/jomatsu) | 1 | 50 | **Developer Tools:** [Codex Sessions](https://github.com/raycast/extensions/tree/main/extensions/codex-sessions) |
-| [jomifepe](https://www.raycast.com/jomifepe) | 1 | 65,605 | **Security:** [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) |
+| [jomifepe](https://www.raycast.com/jomifepe) | 1 | 65,612 | **Security:** [Bitwarden Vault](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) |
 | [jonah_tweed](https://www.raycast.com/jonah_tweed) | 1 | 18 | **Applications:** [Google Find Hub](https://github.com/raycast/extensions/tree/main/extensions/google-find-hub) |
 | [jonas_list](https://www.raycast.com/jonas_list) | 1 | 46 | **Developer Tools:** [OpenCodex Usage](https://github.com/raycast/extensions/tree/main/extensions/opencodex-usage) |
 | [jonathan_ochocki](https://www.raycast.com/jonathan_ochocki) | 1 | 17 | **Productivity:** [CTA - Chicago Transit Authority](https://github.com/raycast/extensions/tree/main/extensions/cta) |
@@ -96,7 +96,7 @@
 | [jorges](https://www.raycast.com/jorges) | 1 | 385 | **Web:** [Trovu - Web Search Command Line](https://github.com/raycast/extensions/tree/main/extensions/trovu) |
 | [jorgetoh](https://www.raycast.com/jorgetoh) | 2 | 105 | **Developer Tools:** [Micro Snitch Logs](https://github.com/raycast/extensions/tree/main/extensions/micro-snitch-logs)<br>**Finance:** [Wise Lens](https://github.com/raycast/extensions/tree/main/extensions/wise-lens) |
 | [joschka_rick](https://www.raycast.com/joschka_rick) | 1 | 1 | **Productivity:** [Mealie](https://github.com/raycast/extensions/tree/main/extensions/mealie) |
-| [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 340 | **Developer Tools:** [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) |
+| [jose_de_freitas](https://www.raycast.com/jose_de_freitas) | 1 | 341 | **Developer Tools:** [Codex Manager](https://github.com/raycast/extensions/tree/main/extensions/codex-manager) |
 | [jose-elias-alvarez](https://www.raycast.com/jose-elias-alvarez) | 1 | 1,719 | **Developer Tools:** [Alacritty](https://github.com/raycast/extensions/tree/main/extensions/alacritty) |
 | [joseph_emmanuel](https://www.raycast.com/joseph_emmanuel) | 1 | 7 | **System:** [iPF OS](https://github.com/raycast/extensions/tree/main/extensions/ipf-os) |
 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 117,292 | **Media:** [GIF Search](https://github.com/raycast/extensions/tree/main/extensions/gif-search), [OpenAI Generator](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) |
