@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `c972765b10`
+
+**Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)
+
 ## 2026-09-29 — upstream `8e9a5706d0`
 
 **Updated (1):** [Rubiks Cube Timer](https://github.com/raycast/extensions/tree/main/extensions/rubiks-cube-timer)
