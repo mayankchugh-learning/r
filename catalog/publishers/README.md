@@ -1,6 +1,6 @@
 # Publishers
 
-2237 publishers · [← catalog index](../README.md)
+2238 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,282,161 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,282,199 |
 | 2 | [raycast](./id/raycast.md) | 11 | 896,126 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,919 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,721 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,960 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,758 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,146 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,331 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
@@ -274,7 +274,7 @@
 | 264 | [lachero](https://www.raycast.com/lachero) | 4 | 4,903 |
 | 265 | [EinLinuus](https://www.raycast.com/EinLinuus) | 1 | 4,839 |
 | 266 | [thuggyduck](https://www.raycast.com/thuggyduck) | 2 | 4,816 |
-| 267 | [kaanrkaraman](https://www.raycast.com/kaanrkaraman) | 1 | 4,787 |
+| 267 | [kaanrkaraman](https://www.raycast.com/kaanrkaraman) | 1 | 4,788 |
 | 268 | [Coun1er](https://www.raycast.com/Coun1er) | 1 | 4,781 |
 | 269 | [cojmeister](https://www.raycast.com/cojmeister) | 2 | 4,725 |
 | 270 | [dnnsmnstrr](https://www.raycast.com/dnnsmnstrr) | 5 | 4,708 |
@@ -2237,11 +2237,12 @@
 | 2227 | [chefski](https://www.raycast.com/chefski) | 1 | 0 |
 | 2228 | [colindotfun](https://www.raycast.com/colindotfun) | 1 | 0 |
 | 2229 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 |
-| 2230 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
-| 2231 | [mjphayes](https://www.raycast.com/mjphayes) | 1 | 0 |
-| 2232 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2233 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2234 | github-next | 2 | — |
-| 2235 | asyntai | 1 | — |
-| 2236 | eugenio | 1 | — |
-| 2237 | multi | 1 | — |
+| 2230 | [imprisonedmind](https://www.raycast.com/imprisonedmind) | 1 | 0 |
+| 2231 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
+| 2232 | [mjphayes](https://www.raycast.com/mjphayes) | 1 | 0 |
+| 2233 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2234 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2235 | github-next | 2 | — |
+| 2236 | asyntai | 1 | — |
+| 2237 | eugenio | 1 | — |
+| 2238 | multi | 1 | — |

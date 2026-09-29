@@ -1,6 +1,6 @@
 # General
 
-70 extensions · [← System](./README.md)
+71 extensions · [← System](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -74,3 +74,4 @@
 | [MirAIe AC Control](https://github.com/raycast/extensions/tree/main/extensions/miraie-ac-control) | 14 | Control Panasonic MirAIe air conditioners from Raycast. | ayush_saini | macOS | [store](https://www.raycast.com/ayush_saini/miraie-ac-control) |
 | [Slurm](https://github.com/raycast/extensions/tree/main/extensions/slurm) | 5 | Manage Slurm jobs across multiple clusters and inspect utilization from Raycast | p-koenig | macOS | [store](https://www.raycast.com/p-koenig/slurm) |
 | [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu) | 1 | A dmenu-style picker for macOS, powered by a Python CLI and Raycast | 8w8kkr8typ | macOS | [store](https://www.raycast.com/8w8kkr8typ/dmenu) |
+| [OmniCast](https://github.com/raycast/extensions/tree/main/extensions/omni-cast) | 0 | Search and run OmniWM commands in plain English. | imprisonedmind | macOS | [store](https://www.raycast.com/imprisonedmind/omni-cast) |

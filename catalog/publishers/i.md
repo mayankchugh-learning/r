@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · **I** · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-62 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+63 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -34,6 +34,7 @@
 | [iloveitaly](https://www.raycast.com/iloveitaly) | 1 | 281 | **Productivity:** [Hyper Focus](https://github.com/raycast/extensions/tree/main/extensions/hyper-focus) |
 | [iman_neo](https://www.raycast.com/iman_neo) | 1 | 270 | **Media:** [YouTube Subscriber Count](https://github.com/raycast/extensions/tree/main/extensions/youtube-subscriber-count) |
 | [imgkl](https://www.raycast.com/imgkl) | 1 | 110 | **Developer Tools:** [Codemagic](https://github.com/raycast/extensions/tree/main/extensions/codemagic) |
+| [imprisonedmind](https://www.raycast.com/imprisonedmind) | 1 | 0 | **System:** [OmniCast](https://github.com/raycast/extensions/tree/main/extensions/omni-cast) |
 | [ImprovMX](https://www.raycast.com/ImprovMX) | 1 | 223 | **Communication:** [ImprovMX](https://github.com/raycast/extensions/tree/main/extensions/improvmx) |
 | [imqdee](https://www.raycast.com/imqdee) | 2 | 173 | **Web:** [Zerion](https://github.com/raycast/extensions/tree/main/extensions/zerion)<br>**Developer Tools:** [EVM Toolkit](https://github.com/raycast/extensions/tree/main/extensions/evm-toolkit) |
 | [inakitajes](https://www.raycast.com/inakitajes) | 1 | 807 | **Productivity:** [Advanced Speech to Text](https://github.com/raycast/extensions/tree/main/extensions/advanced-speech-to-text) |

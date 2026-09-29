@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "06bd84dff1b3fa9613957dab4ffd3deaac51a9ae",
-  "generatedAt": "2026-09-29T09:30:27.094Z",
-  "downloadsRefreshedAt": "2026-09-29T09:30:25.576Z",
-  "count": 3335,
+  "commit": "2eadf1435e5ea8ed21c9d44861aa02d5e2346cbd",
+  "generatedAt": "2026-09-29T09:55:51.539Z",
+  "downloadsRefreshedAt": "2026-09-29T09:55:50.023Z",
+  "count": 3336,
   "extensions": [
     {
       "dir": "0x0",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606110
+      "downloads": 606148
     },
     {
       "dir": "color-shades",
@@ -22834,7 +22834,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563721
+      "downloads": 563758
     },
     {
       "dir": "google-chrome-profiles",
@@ -29324,7 +29324,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 764919
+      "downloads": 764960
     },
     {
       "dir": "kimai",
@@ -40187,6 +40187,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/omg-lol",
       "treeSha": "cdb911b76e5cf45fcedf1c37d602396592dbde25",
       "downloads": 228
+    },
+    {
+      "dir": "omni-cast",
+      "name": "omni-cast",
+      "title": "OmniCast",
+      "description": "Search and run OmniWM commands in plain English.",
+      "author": "imprisonedmind",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/imprisonedmind/omni-cast",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/omni-cast",
+      "treeSha": "f031a4d4c6399931e431606c28a60bc4f1a70879",
+      "downloads": 0
     },
     {
       "dir": "omni-news",
@@ -63034,7 +63054,7 @@
       "store": "https://www.raycast.com/kaanrkaraman/twitter-video-downloader",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader",
       "treeSha": "7ff86a5a83490d28af1bad25876d5037dee10dd6",
-      "downloads": 4787
+      "downloads": 4788
     },
     {
       "dir": "two-factor-authentication-code-generator",

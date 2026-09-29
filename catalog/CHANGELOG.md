@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `2eadf1435e`
+
+**Added (1):** [OmniCast](https://github.com/raycast/extensions/tree/main/extensions/omni-cast)
+
 ## 2026-09-29 — upstream `06bd84dff1`
 
 **Updated (1):** [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader)

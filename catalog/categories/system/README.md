@@ -1,8 +1,8 @@
 # System
 
-279 extensions · [← all categories](../README.md)
+280 extensions · [← all categories](../README.md)
 
-macOS: 263 · Windows: 51
+macOS: 264 · Windows: 51
 
 ## Apps & Windows
 
@@ -41,6 +41,6 @@ macOS: 263 · Windows: 51
 | [Connect ✦](./connect.md) | 7 |
 | [System ✦](./system.md) | 4 |
 
-Plus [General](./general.md) — 70 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 71 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*
