@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `a42be8a81b`
+
+**Updated (1):** [Tailscale](https://github.com/raycast/extensions/tree/main/extensions/tailscale)
+
 ## 2026-09-29 — upstream `9b33acd09f`
 
 **Updated (1):** [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks)

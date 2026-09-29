@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9b33acd09fcc32912485a5268766c74b9de8487d",
-  "generatedAt": "2026-09-29T10:23:40.963Z",
-  "downloadsRefreshedAt": "2026-09-29T10:23:40.285Z",
+  "commit": "a42be8a81b4b48c0e4e6afb7084a7bdf827cb1a0",
+  "generatedAt": "2026-09-29T10:27:26.785Z",
+  "downloadsRefreshedAt": "2026-09-29T10:27:26.273Z",
   "count": 3338,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606197
+      "downloads": 606202
     },
     {
       "dir": "color-shades",
@@ -22875,7 +22875,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563783
+      "downloads": 563788
     },
     {
       "dir": "google-chrome-profiles",
@@ -29365,7 +29365,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 765004
+      "downloads": 765010
     },
     {
       "dir": "kimai",
@@ -59221,7 +59221,7 @@
       "description": "List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard.",
       "author": "samlinville",
       "owner": "tailscale",
-      "contributors": 9,
+      "contributors": 10,
       "categories": [
         "Developer Tools",
         "Applications",
@@ -59234,7 +59234,7 @@
       ],
       "store": "https://www.raycast.com/tailscale/tailscale",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tailscale",
-      "treeSha": "d3a466ee8bd911d11c102c7c2f90b6775cc9f108",
+      "treeSha": "b8f205ca3f673ebb253b08f2e8f3b5f13baaa333",
       "downloads": 16977
     },
     {
