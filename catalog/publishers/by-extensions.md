@@ -401,7 +401,7 @@
 | 391 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 392 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 6 |
 | 393 | github-next | 2 | — |
-| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,694 |
+| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,696 |
 | 395 | [Codely](https://www.raycast.com/Codely) | 1 | 564,306 |
 | 396 | [linear](https://www.raycast.com/linear) | 1 | 398,152 |
 | 397 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,128 |

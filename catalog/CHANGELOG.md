@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `c9c0bd7001`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-29 — upstream `f450451951`
 
 **Updated (1):** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles)

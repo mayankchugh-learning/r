@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "f4504519513e0fb3d7ef794b48a2ff8cff955746",
-  "generatedAt": "2026-09-29T18:50:41.629Z",
-  "downloadsRefreshedAt": "2026-09-29T18:50:40.498Z",
+  "commit": "c9c0bd700100ea7112ae1d2633647a456f8f87c7",
+  "generatedAt": "2026-09-29T18:51:34.456Z",
+  "downloadsRefreshedAt": "2026-09-29T18:51:33.749Z",
   "count": 3340,
   "extensions": [
     {
@@ -15295,7 +15295,7 @@
       ],
       "store": "https://www.raycast.com/xmok/dokploy",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/dokploy",
-      "treeSha": "4d6c9adc23291cb187d802ffcdf820ec9be05724",
+      "treeSha": "93718dcd9f98f5f2db5ae3318058821fd4f176dd",
       "downloads": 196
     },
     {
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 765694
+      "downloads": 765696
     },
     {
       "dir": "kimai",
