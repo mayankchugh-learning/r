@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "54f3f899cb76d83911fdfa0d1e43242a704fd4c9",
-  "generatedAt": "2026-09-29T13:43:59.454Z",
-  "downloadsRefreshedAt": "2026-09-29T13:43:58.881Z",
+  "commit": "c5ef7164093f7a44584a9349026e2c303c02c608",
+  "generatedAt": "2026-09-29T14:31:56.741Z",
+  "downloadsRefreshedAt": "2026-09-29T14:31:56.081Z",
   "count": 3340,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606479
+      "downloads": 606577
     },
     {
       "dir": "color-shades",
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563994
+      "downloads": 564064
     },
     {
       "dir": "google-chrome-profiles",
@@ -23161,7 +23161,7 @@
       "description": "Start a Google Meet directly from Raycast",
       "author": "vitoorgomes",
       "owner": null,
-      "contributors": 5,
+      "contributors": 6,
       "categories": [
         "Communication"
       ],
@@ -23171,7 +23171,7 @@
       ],
       "store": "https://www.raycast.com/vitoorgomes/google-meet",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-meet",
-      "treeSha": "80eea2cd8b16f1828cc5a1755617763b0aa7e306",
+      "treeSha": "a18d124676d490dae47c8f4f1bd2173f0e8f6c35",
       "downloads": 36724
     },
     {
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 765299
+      "downloads": 765386
     },
     {
       "dir": "kimai",
