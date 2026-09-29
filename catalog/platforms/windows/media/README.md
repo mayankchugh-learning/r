@@ -1,8 +1,8 @@
 # Windows · Media
 
-90 extensions · [← Windows](../README.md)
+91 extensions · [← Windows](../README.md)
 
-[Music & Audio](#music-audio) (15) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (17) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (4) · [AI Generation](#ai-generation) (1) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (32)
+[Music & Audio](#music-audio) (15) · [Video & Streaming](#video-streaming) (11) · [Images & Photos](#images-photos) (17) · [Wallpapers & Art](#wallpapers-art) (6) · [Books & Papers](#books-papers) (4) · [AI Generation](#ai-generation) (2) · [Conversion, Upload & Download](#conversion-upload-download) (4) · [General](#general) (32)
 
 ## Listen & Watch
 
@@ -92,6 +92,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
+| [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 606 | Run Replicate's AI models from Raycast, and use them in Raycast AI chats. | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/replicate) |
 | [Language Detector](https://github.com/raycast/extensions/tree/main/extensions/language-detector) | 252 | Detect languages through Raycast AI or third-party language detectors. | litomore | macOS, Windows | [store](https://www.raycast.com/litomore/language-detector) |
 
 ### Conversion, Upload & Download
