@@ -1,6 +1,6 @@
 # Publishers
 
-2235 publishers · [← catalog index](../README.md)
+2236 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,281,897 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,281,899 |
 | 2 | [raycast](./id/raycast.md) | 11 | 896,126 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,613 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,510 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,616 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,513 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,146 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,331 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
@@ -2242,4 +2242,5 @@
 | 2232 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2233 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
 | 2234 | github-next | 2 | — |
-| 2235 | multi | 1 | — |
+| 2235 | eugenio | 1 | — |
+| 2236 | multi | 1 | — |

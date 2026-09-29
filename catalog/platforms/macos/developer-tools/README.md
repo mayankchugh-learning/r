@@ -1,6 +1,6 @@
 # macOS · Developer Tools
 
-1127 extensions · [← macOS](../README.md)
+1128 extensions · [← macOS](../README.md)
 
 ## Code & Collaboration
 
@@ -18,7 +18,7 @@
 | [CI/CD & DevOps](./ci-cd-devops.md) | 7 |
 | [Cloud, Hosting & Infrastructure](./cloud-hosting-infrastructure.md) | 92 |
 | [Databases](./databases.md) | 15 |
-| [APIs & Networking](./apis-networking.md) | 54 |
+| [APIs & Networking](./apis-networking.md) | 55 |
 | [Monitoring & Logs](./monitoring-logs.md) | 29 |
 
 ## Platforms & Ecosystems

@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `475c014cdc`
+
+**Added (1):** [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon)
+
 ## 2026-09-29 — upstream `80876feb4c`
 
 **Added (1):** [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club)

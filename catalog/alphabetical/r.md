@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · **R** · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-163 extensions · [← catalog index](../README.md)
+164 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -169,3 +169,4 @@
 | [Reka UI](https://github.com/raycast/extensions/tree/main/extensions/reka-ui) | 7 | Browse Reka UI documentation via Raycast | twirl | macOS, Windows | [store](https://www.raycast.com/twirl/reka-ui) |
 | [RUT Generator](https://github.com/raycast/extensions/tree/main/extensions/rut-generator) | 5 | Generate valid Chilean RUTs for development and testing. | esteban03 | macOS, Windows | [store](https://www.raycast.com/esteban03/rut-generator) |
 | [Rubiks Cube Timer](https://github.com/raycast/extensions/tree/main/extensions/rubiks-cube-timer) | 1 | Time your Rubik's Cube solves with random scrambles and csTimer import/export. No account required. | nokoniko | macOS, Windows | [store](https://www.raycast.com/nokoniko/rubiks-cube-timer) |
+| [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon) | — | macOS companion toolkit: disk, memory, ports, battery, network and a security audit, powered by the rcc CLI. | eugenio | macOS | — |

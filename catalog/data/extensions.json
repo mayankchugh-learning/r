@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "80876feb4cb71969eae8e78ec6af5e51df1d0e2a",
-  "generatedAt": "2026-09-29T06:38:23.793Z",
-  "downloadsRefreshedAt": "2026-09-29T06:38:23.067Z",
-  "count": 3333,
+  "commit": "475c014cdc98a4d62f0a33d916ea28ad05a02d25",
+  "generatedAt": "2026-09-29T06:41:24.017Z",
+  "downloadsRefreshedAt": "2026-09-29T06:41:23.023Z",
+  "count": 3334,
   "extensions": [
     {
       "dir": "0x0",
@@ -10205,7 +10205,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 605846
+      "downloads": 605848
     },
     {
       "dir": "color-shades",
@@ -22811,7 +22811,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563510
+      "downloads": 563513
     },
     {
       "dir": "google-chrome-profiles",
@@ -29301,7 +29301,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 764613
+      "downloads": 764616
     },
     {
       "dir": "kimai",
@@ -47667,6 +47667,28 @@
       "downloads": 119
     },
     {
+      "dir": "raccoon",
+      "name": "raccoon",
+      "title": "Raccoon",
+      "description": "macOS companion toolkit: disk, memory, ports, battery, network and a security audit, powered by the rcc CLI.",
+      "author": "eugenio",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "System",
+        "Developer Tools",
+        "Security"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/raccoon",
+      "treeSha": "a5343b66d27a7d83cf0e8ee2e5ec41ba04894c72",
+      "downloads": null
+    },
+    {
       "dir": "radarr",
       "name": "radarr",
       "title": "Radarr",
@@ -61387,10 +61409,10 @@
       "platforms": [
         "macOS"
       ],
-      "store": null,
+      "store": "https://www.raycast.com/Olli0103/tinkerer-club",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club",
       "treeSha": "a0cce6913698b47290d6614ccab9a212d896b13d",
-      "downloads": null
+      "downloads": 0
     },
     {
       "dir": "tints-and-shades",

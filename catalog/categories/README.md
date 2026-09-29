@@ -14,10 +14,10 @@
 
 | Category | Extensions |
 | --- | --- |
-| [Developer Tools](./developer-tools/README.md) | 1140 |
+| [Developer Tools](./developer-tools/README.md) | 1141 |
 | [Data](./data/README.md) | 276 |
 | [Documentation](./documentation/README.md) | 215 |
-| [Security](./security/README.md) | 85 |
+| [Security](./security/README.md) | 86 |
 | [AI](./ai/README.md) | 7 |
 
 ### Creative & Media
@@ -39,7 +39,7 @@
 
 | Category | Extensions |
 | --- | --- |
-| [System](./system/README.md) | 278 |
+| [System](./system/README.md) | 279 |
 | [Other](./other/README.md) | 185 |
 
 ### Fun & Entertainment

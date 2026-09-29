@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · **E** · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-76 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+77 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -69,6 +69,7 @@
 | [ethananderstandable](https://www.raycast.com/ethananderstandable) | 1 | 10 | **Finance:** [PayPal Invoices](https://github.com/raycast/extensions/tree/main/extensions/paypal-invoices) |
 | [etheirystech](https://www.raycast.com/etheirystech) | 1 | 129 | **Developer Tools:** [Watchkey](https://github.com/raycast/extensions/tree/main/extensions/watchkey) |
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 28 | **Other:** [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |
+| eugenio | 1 | — | **System:** [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon) |
 | [eunchurn](https://www.raycast.com/eunchurn) | 1 | 214 | **Developer Tools:** [Helm Chart](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) |
 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,017 | [see all 19 →](./id/evanzhoudev.md) |
 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 70 | **Productivity:** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) |

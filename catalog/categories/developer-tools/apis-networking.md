@@ -1,8 +1,8 @@
 # APIs & Networking
 
-55 extensions · [← Developer Tools](./README.md)
+56 extensions · [← Developer Tools](./README.md)
 
-[API ✦](#api) (23) · [Network ✦](#network) (8) · [Http ✦](#http) (6) · [Port ✦](#port) (6) · [General](#general) (12)
+[API ✦](#api) (23) · [Network ✦](#network) (9) · [Port ✦](#port) (6) · [Http ✦](#http) (6) · [General](#general) (12)
 
 *✦ auto-discovered topic group*
 
@@ -46,17 +46,7 @@
 | [Mac Network Location Changer](https://github.com/raycast/extensions/tree/main/extensions/mac-network-location-changer) | 327 | Lists and changes current network location on Mac. | rcouto | macOS | [store](https://www.raycast.com/rcouto/mac-network-location-changer) |
 | [NetBird](https://github.com/raycast/extensions/tree/main/extensions/netbird) | 186 | Control your NetBird mesh network right from Raycast. | mi7chal | macOS | [store](https://www.raycast.com/mi7chal/netbird) |
 | [V2RayA Control](https://github.com/raycast/extensions/tree/main/extensions/v2raya-control) | 128 | V2RayA Control is a Raycast extension that allows you to easily manage and control V2RayA, a powerful network proxy tool. Quickly toggle proxy modes, and check… | masoud_hamidzadeh | macOS | [store](https://www.raycast.com/masoud_hamidzadeh/v2raya-control) |
-
-## Http ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 28,382 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
-| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 21,111 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
-| [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) | 749 | Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats | lucasmezencio | macOS | [store](https://www.raycast.com/lucasmezencio/http-dot-cat) |
-| [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | 353 | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |
-| [rhttp](https://github.com/raycast/extensions/tree/main/extensions/rhttp) | 291 | Full-featured HTTP client with environments, variables, and request chaining | SebastianJarsve | macOS | [store](https://www.raycast.com/SebastianJarsve/rhttp) |
-| [Webhook Sender](https://github.com/raycast/extensions/tree/main/extensions/webhook-sender) | 76 | Send HTTP webhooks instantly — with key-value or raw JSON body, automatic history, saved presets, and rich response inspection. | BinaryBlitz10 | macOS, Windows | [store](https://www.raycast.com/BinaryBlitz10/webhook-sender) |
+| [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon) | — | macOS companion toolkit: disk, memory, ports, battery, network and a security audit, powered by the rcc CLI. | eugenio | macOS | — |
 
 ## Port ✦
 
@@ -68,6 +58,17 @@
 | [Ray Boop](https://github.com/raycast/extensions/tree/main/extensions/ray-boop) | 695 | Port of Boop to Raycast. Run any Boop script on clipboard content. | nathan_schwermann | macOS | [store](https://www.raycast.com/nathan_schwermann/ray-boop) |
 | [Port from Project Name](https://github.com/raycast/extensions/tree/main/extensions/port-from-project-name) | 76 | A tool that can generate a unique 4 digit port for a given project name | sopheakvethya_syna | Windows, macOS | [store](https://www.raycast.com/sopheakvethya_syna/port-from-project-name) |
 | [Try](https://github.com/raycast/extensions/tree/main/extensions/try) | 70 | Manage ephemeral workspace directories for experiments. A Raycast port of tobi/try. | wuyuxiangX | macOS | [store](https://www.raycast.com/wuyuxiangX/try) |
+
+## Http ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [cURL](https://github.com/raycast/extensions/tree/main/extensions/curl) | 28,382 | Keyboard-first HTTP client | jonathangiardino | macOS, Windows | [store](https://www.raycast.com/jonathangiardino/curl) |
+| [HTTP Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) | 21,111 | Quickly look up HTTP status codes | Alex_ | macOS, Windows | [store](https://www.raycast.com/Alex_/http-status-codes) |
+| [HTTP.cat Status Codes](https://github.com/raycast/extensions/tree/main/extensions/http.cat) | 749 | Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats | lucasmezencio | macOS | [store](https://www.raycast.com/lucasmezencio/http-dot-cat) |
+| [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime) | 353 | Search MIME types for HTTP Content-Type | Envl | macOS | [store](https://www.raycast.com/Envl/http-mime) |
+| [rhttp](https://github.com/raycast/extensions/tree/main/extensions/rhttp) | 291 | Full-featured HTTP client with environments, variables, and request chaining | SebastianJarsve | macOS | [store](https://www.raycast.com/SebastianJarsve/rhttp) |
+| [Webhook Sender](https://github.com/raycast/extensions/tree/main/extensions/webhook-sender) | 76 | Send HTTP webhooks instantly — with key-value or raw JSON body, automatic history, saved presets, and rich response inspection. | BinaryBlitz10 | macOS, Windows | [store](https://www.raycast.com/BinaryBlitz10/webhook-sender) |
 
 ## General
 

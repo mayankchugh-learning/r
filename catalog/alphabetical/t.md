@@ -222,4 +222,4 @@
 | [Tinker](https://github.com/raycast/extensions/tree/main/extensions/tinker) | 3 | Control Tinker from Raycast. | jrl | macOS | [store](https://www.raycast.com/jrl/tinker) |
 | [Tibia Helper](https://github.com/raycast/extensions/tree/main/extensions/tibia-helper) | 2 | Helper tools for Tibia including NPC prices, Rashid location, and imbuement guides | kjbakke | macOS | [store](https://www.raycast.com/kjbakke/tibia-helper) |
 | [Timeatlas](https://github.com/raycast/extensions/tree/main/extensions/timeatlas) | 2 | Notes and daily glance for Time Atlas. | shak | macOS | [store](https://www.raycast.com/shak/timeatlas) |
-| [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) | — | Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools. | Olli0103 | macOS | — |
+| [Tinkerer Club](https://github.com/raycast/extensions/tree/main/extensions/tinkerer-club) | 0 | Browse and participate in Tinkerer Club from Raycast, with confirmable AI tools. | Olli0103 | macOS | [store](https://www.raycast.com/Olli0103/tinkerer-club) |
