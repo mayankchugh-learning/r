@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `e9779d5732`
+
+**Updated (19):** [The Brønnøysund Register Centre Search](https://github.com/raycast/extensions/tree/main/extensions/brreg), [Bunq](https://github.com/raycast/extensions/tree/main/extensions/bunq), [Clerk](https://github.com/raycast/extensions/tree/main/extensions/clerk), [Clip - URL Shortener](https://github.com/raycast/extensions/tree/main/extensions/clip), [Creem](https://github.com/raycast/extensions/tree/main/extensions/creem), [Crisp](https://github.com/raycast/extensions/tree/main/extensions/crisp), [ČSFD](https://github.com/raycast/extensions/tree/main/extensions/csfd), [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub), [Gitea](https://github.com/raycast/extensions/tree/main/extensions/gitea), [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr), [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail), [Mayar](https://github.com/raycast/extensions/tree/main/extensions/mayar), [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp), [Nibit](https://github.com/raycast/extensions/tree/main/extensions/nibit), [Phi](https://github.com/raycast/extensions/tree/main/extensions/phi), [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab), [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw), [Whois](https://github.com/raycast/extensions/tree/main/extensions/whois), [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget)
+
 ## 2026-09-29 — upstream `475c014cdc`
 
 **Added (1):** [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon)
