@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "ca5e5a019c1be43076f5bf25087ab04fd30a36b8",
-  "generatedAt": "2026-09-29T09:58:36.501Z",
-  "downloadsRefreshedAt": "2026-09-29T09:58:35.152Z",
+  "commit": "9282cb11da9b3d53dbd45a99278ce816838cb578",
+  "generatedAt": "2026-09-29T10:05:30.394Z",
+  "downloadsRefreshedAt": "2026-09-29T10:05:29.266Z",
   "count": 3337,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606156
+      "downloads": 606167
     },
     {
       "dir": "color-shades",
@@ -22854,7 +22854,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563759
+      "downloads": 563765
     },
     {
       "dir": "google-chrome-profiles",
@@ -22873,7 +22873,7 @@
       ],
       "store": "https://www.raycast.com/frouo/google-chrome-profiles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles",
-      "treeSha": "97e9a833e1bf01c66a8a9670ab805f70d4abaea3",
+      "treeSha": "77d63e078d68e3c3cc9b4fcd25ec8f6bf9df519d",
       "downloads": 15268
     },
     {
@@ -29344,7 +29344,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 764968
+      "downloads": 764982
     },
     {
       "dir": "kimai",
