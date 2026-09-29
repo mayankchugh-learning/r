@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Formula 1](https://github.com/raycast/extensions/tree/main/extensions/f1-standings) | 7,750 | List the current standings in Formula 1 | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/f1-standings) |
-| [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 3,203 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
+| [Formula 1](https://github.com/raycast/extensions/tree/main/extensions/f1-standings) | 7,756 | List the current standings in Formula 1 | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/f1-standings) |
+| [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 3,207 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 690 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [Bundesliga](https://github.com/raycast/extensions/tree/main/extensions/bundesliga) | 384 | Stay up-to-date with the latest news, fixtures, results, and standings from the Bundesliga. | anhthang | macOS | [store](https://www.raycast.com/anhthang/bundesliga) |
 | [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 185 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
@@ -33,6 +33,6 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [FIFA World Cup 2026™](https://github.com/raycast/extensions/tree/main/extensions/world-cup) | 1,635 | See all FIFA World Cup 2026™ matches | isma | macOS, Windows | [store](https://www.raycast.com/isma/world-cup) |
-| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 630 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
+| [NFL](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) | 631 | Fetches the NFL Schedule, News, and Team News | kciarnie | macOS | [store](https://www.raycast.com/kciarnie/nfl-information) |
 | [Footy Report](https://github.com/raycast/extensions/tree/main/extensions/footy-report) | 167 | Raycast extension to find your essential football match day info and stats | thuoe | macOS | [store](https://www.raycast.com/thuoe/footy-report) |
 | [Sir.golf](https://github.com/raycast/extensions/tree/main/extensions/sir-golf) | 2 | Live golf leaderboards (PGA Tour, LPGA, DP World Tour), the full tour schedule with every major badged and one-tap Add to Calendar, plus season rankings — by s… | julianpaul | macOS, Windows | [store](https://www.raycast.com/julianpaul/sir-golf) |
