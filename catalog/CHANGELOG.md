@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `c8c2de05ce`
+
+**Updated (1):** [Resend Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/resend-wallpaper)
+
 ## 2026-09-29 — upstream `aa847a92d6`
 
 **Updated (1):** [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard)
