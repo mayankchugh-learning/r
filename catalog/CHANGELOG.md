@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `c883476471`
+
+**Updated (1):** [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow)
+
 ## 2026-09-28 — upstream `707d8974ba`
 
 **Updated (1):** [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear)
