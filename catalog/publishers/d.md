@@ -149,7 +149,7 @@
 | [drew_levinson](https://www.raycast.com/drew_levinson) | 1 | 10 | **Finance:** [Schwab Portfolio](https://github.com/raycast/extensions/tree/main/extensions/schwab-portfolio) |
 | [drewkiimon](https://www.raycast.com/drewkiimon) | 1 | 4 | **Productivity:** [BART Departures](https://github.com/raycast/extensions/tree/main/extensions/bart-departures) |
 | [drewwatkins11](https://www.raycast.com/drewwatkins11) | 1 | 20 | **Productivity:** [Teamup Rooms](https://github.com/raycast/extensions/tree/main/extensions/teamup-rooms) |
-| [dru89](https://www.raycast.com/dru89) | 1 | 6,967 | **Productivity:** [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) |
+| [dru89](https://www.raycast.com/dru89) | 1 | 6,969 | **Productivity:** [Obsidian Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) |
 | [drumst0ck](https://www.raycast.com/drumst0ck) | 1 | 2 | **Developer Tools:** [UploadKit Image Uploader](https://github.com/raycast/extensions/tree/main/extensions/uploadkit) |
 | [dtmzr](https://www.raycast.com/dtmzr) | 1 | 2,840 | **Productivity:** [Sleep Timer](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) |
 | [dubinc](https://www.raycast.com/dubinc) | 1 | 1,694 | **Productivity:** [Dub](https://github.com/raycast/extensions/tree/main/extensions/dub) |

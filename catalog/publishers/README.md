@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,283,631 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,283,721 |
 | 2 | [raycast](./id/raycast.md) | 11 | 897,063 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,609 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,238 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,694 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,306 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,655 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,908 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,243 |
@@ -31,7 +31,7 @@
 | 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,193 |
 | 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 172,799 |
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 168,214 |
-| 24 | [loris](https://www.raycast.com/loris) | 6 | 138,298 |
+| 24 | [loris](https://www.raycast.com/loris) | 6 | 138,305 |
 | 25 | [ThatNerd](https://www.raycast.com/ThatNerd) | 1 | 121,460 |
 | 26 | [hossammourad](https://www.raycast.com/hossammourad) | 1 | 119,555 |
 | 27 | [josephschmitt](https://www.raycast.com/josephschmitt) | 2 | 117,292 |
@@ -42,7 +42,7 @@
 | 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 102,921 |
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 102,331 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 101,911 |
-| 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 96,929 |
+| 35 | [ron-myers](https://www.raycast.com/ron-myers) | 5 | 96,933 |
 | 36 | [doist](https://www.raycast.com/doist) | 1 | 95,788 |
 | 37 | [tegola](https://www.raycast.com/tegola) | 2 | 91,417 |
 | 38 | [huzef44](https://www.raycast.com/huzef44) | 6 | 83,989 |
@@ -58,7 +58,7 @@
 | 48 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 58,388 |
 | 49 | [ratoru](https://www.raycast.com/ratoru) | 2 | 54,737 |
 | 50 | [garrett](https://www.raycast.com/garrett) | 2 | 53,057 |
-| 51 | [yug2005](https://www.raycast.com/yug2005) | 4 | 52,571 |
+| 51 | [yug2005](https://www.raycast.com/yug2005) | 4 | 52,577 |
 | 52 | [priithaamer](https://www.raycast.com/priithaamer) | 1 | 52,390 |
 | 53 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 51,633 |
 | 54 | [MarkusLanger](https://www.raycast.com/MarkusLanger) | 1 | 51,480 |
@@ -230,7 +230,7 @@
 | 220 | [anysphere](https://www.raycast.com/anysphere) | 1 | 6,997 |
 | 221 | [lin](https://www.raycast.com/lin) | 3 | 6,984 |
 | 222 | [pascal_burkhard](https://www.raycast.com/pascal_burkhard) | 3 | 6,976 |
-| 223 | [dru89](https://www.raycast.com/dru89) | 1 | 6,967 |
+| 223 | [dru89](https://www.raycast.com/dru89) | 1 | 6,969 |
 | 224 | [cjdenio](https://www.raycast.com/cjdenio) | 1 | 6,909 |
 | 225 | [HerbertLu](https://www.raycast.com/HerbertLu) | 4 | 6,797 |
 | 226 | [ChrisChinchilla](https://www.raycast.com/ChrisChinchilla) | 1 | 6,762 |

@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "be1622881d41cce514fc247999546c63d965e70c",
-  "generatedAt": "2026-09-29T17:27:03.178Z",
-  "downloadsRefreshedAt": "2026-09-29T17:27:02.367Z",
+  "commit": "f4504519513e0fb3d7ef794b48a2ff8cff955746",
+  "generatedAt": "2026-09-29T18:50:41.629Z",
+  "downloadsRefreshedAt": "2026-09-29T18:50:40.498Z",
   "count": 3340,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606786
+      "downloads": 606875
     },
     {
       "dir": "color-shades",
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 564238
+      "downloads": 564306
     },
     {
       "dir": "google-chrome-profiles",
@@ -22935,7 +22935,7 @@
       ],
       "store": "https://www.raycast.com/frouo/google-chrome-profiles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles",
-      "treeSha": "77d63e078d68e3c3cc9b4fcd25ec8f6bf9df519d",
+      "treeSha": "b96dd2767e60d200243cdc6804b381fc14f4e99f",
       "downloads": 15280
     },
     {
@@ -27707,7 +27707,7 @@
       "store": "https://www.raycast.com/ron-myers/iterm",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/iterm",
       "treeSha": "4d1c5e7dff8b7567bb4da0011fb64b690857b803",
-      "downloads": 43347
+      "downloads": 43351
     },
     {
       "dir": "itranslate",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 765609
+      "downloads": 765694
     },
     {
       "dir": "kimai",
@@ -33110,7 +33110,7 @@
       "store": "https://www.raycast.com/yug2005/mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mail",
       "treeSha": "7c4d454992ec774054c333410ae9267c58211e63",
-      "downloads": 46084
+      "downloads": 46090
     },
     {
       "dir": "mail-to-self",
@@ -39791,7 +39791,7 @@
       "store": "https://www.raycast.com/dru89/obsidian-bookmarks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks",
       "treeSha": "5abc55f48575be9efd7ff7e8d17452b5522548db",
-      "downloads": 6967
+      "downloads": 6969
     },
     {
       "dir": "obsidian-link-opener",
@@ -51902,7 +51902,7 @@
       "store": "https://www.raycast.com/loris/safari",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/safari",
       "treeSha": "e04744a0b9ecd4491680ed01fddf30ecbaddbd30",
-      "downloads": 60036
+      "downloads": 60043
     },
     {
       "dir": "safe-secret",
@@ -53542,7 +53542,7 @@
       "store": "https://www.raycast.com/thomas/sentry",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/sentry",
       "treeSha": "2a60e7362eaed557b96c354b060e6f36c12429c4",
-      "downloads": 2354
+      "downloads": 2355
     },
     {
       "dir": "seo-lighthouse",
