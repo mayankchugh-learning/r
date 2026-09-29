@@ -1,8 +1,8 @@
 # Productivity
 
-1524 extensions · [← all categories](../README.md)
+1525 extensions · [← all categories](../README.md)
 
-macOS: 1506 · Windows: 385
+macOS: 1507 · Windows: 385
 
 ## Organize & Plan
 
@@ -59,6 +59,6 @@ macOS: 1506 · Windows: 385
 | [Git ✦](./git.md) | 7 |
 | [Mode ✦](./mode.md) | 4 |
 
-Plus [General](./general.md) — 379 extensions that don't fit a topic yet.
+Plus [General](./general.md) — 380 extensions that don't fit a topic yet.
 
 *✦ auto-discovered topic group*

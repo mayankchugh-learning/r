@@ -1,6 +1,6 @@
 # General
 
-379 extensions · [← Productivity](./README.md)
+380 extensions · [← Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -381,5 +381,6 @@
 | [Calliday](https://github.com/raycast/extensions/tree/main/extensions/calliday) | 1 | Companion for Calliday, the automatic time tracker for macOS. Requires the Calliday app. | yaanisy | macOS | [store](https://www.raycast.com/yaanisy/calliday) |
 | [Dmenu](https://github.com/raycast/extensions/tree/main/extensions/dmenu) | 1 | A dmenu-style picker for macOS, powered by a Python CLI and Raycast | 8w8kkr8typ | macOS | [store](https://www.raycast.com/8w8kkr8typ/dmenu) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [MarkdownOS](https://github.com/raycast/extensions/tree/main/extensions/markdownos) | 0 | Quick actions for MarkdownOS, right from Raycast. | azlandotgg | macOS | [store](https://www.raycast.com/azlandotgg/markdownos) |
 | [Nbnhhsh – Chinese Abbreviations](https://github.com/raycast/extensions/tree/main/extensions/nbnhhsh) | 0 | Decode Chinese pinyin abbreviations and internet slang with 能不能好好说话 (nbnhhsh). | Astatine-213 | macOS | [store](https://www.raycast.com/Astatine-213/nbnhhsh) |
 | [NUST Mess Menu](https://github.com/raycast/extensions/tree/main/extensions/nust-mess-menu) | 0 | Today's and this week's NUST hostel mess menu. | muhammadaljoufi | macOS | [store](https://www.raycast.com/muhammadaljoufi/nust-mess-menu) |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "c972765b1025a323a32c505d64e3607a307f4ba0",
-  "generatedAt": "2026-09-29T05:52:21.738Z",
-  "downloadsRefreshedAt": "2026-09-29T05:52:21.034Z",
-  "count": 3331,
+  "commit": "1b091a57a8d595515e27db4fcb63d3c840bf5e4c",
+  "generatedAt": "2026-09-29T06:36:35.042Z",
+  "downloadsRefreshedAt": "2026-09-29T06:36:34.364Z",
+  "count": 3332,
   "extensions": [
     {
       "dir": "0x0",
@@ -9954,7 +9954,7 @@
       "store": "https://www.raycast.com/mooxl/coffee",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/coffee",
       "treeSha": "9b11a36a2566e202203c2fb4ad7797b9e7297ab4",
-      "downloads": 148635
+      "downloads": 148660
     },
     {
       "dir": "cognimemo",
@@ -10205,7 +10205,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 605798
+      "downloads": 605845
     },
     {
       "dir": "color-shades",
@@ -22811,7 +22811,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563468
+      "downloads": 563509
     },
     {
       "dir": "google-chrome-profiles",
@@ -29301,7 +29301,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 764555
+      "downloads": 764611
     },
     {
       "dir": "kimai",
@@ -33803,6 +33803,26 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/markdown-to-rich-text",
       "treeSha": "14a6c13dfcb143f80c9ba1d09036534e7148ffe1",
       "downloads": 4389
+    },
+    {
+      "dir": "markdownos",
+      "name": "markdownos",
+      "title": "MarkdownOS",
+      "description": "Quick actions for MarkdownOS, right from Raycast.",
+      "author": "azlandotgg",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/azlandotgg/markdownos",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/markdownos",
+      "treeSha": "ba59d6505de96fc4b44212888a1bd902fbdbb591",
+      "downloads": 0
     },
     {
       "dir": "markmarks",

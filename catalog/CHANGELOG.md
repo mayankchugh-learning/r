@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `1b091a57a8`
+
+**Added (1):** [MarkdownOS](https://github.com/raycast/extensions/tree/main/extensions/markdownos)
+
 ## 2026-09-29 — upstream `c972765b10`
 
 **Updated (1):** [Coffee](https://github.com/raycast/extensions/tree/main/extensions/coffee)
