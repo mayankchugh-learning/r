@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `8e9a5706d0`
+
+**Updated (1):** [Rubiks Cube Timer](https://github.com/raycast/extensions/tree/main/extensions/rubiks-cube-timer)
+
 ## 2026-09-29 — upstream `c8c2de05ce`
 
 **Updated (1):** [Resend Wallpaper](https://github.com/raycast/extensions/tree/main/extensions/resend-wallpaper)

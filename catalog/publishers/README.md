@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,281,814 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,281,828 |
 | 2 | [raycast](./id/raycast.md) | 11 | 896,126 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,509 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,439 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,530 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,449 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,146 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,331 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
@@ -46,7 +46,7 @@
 | 36 | [doist](https://www.raycast.com/doist) | 1 | 95,687 |
 | 37 | [tegola](https://www.raycast.com/tegola) | 2 | 91,331 |
 | 38 | [huzef44](https://www.raycast.com/huzef44) | 6 | 83,891 |
-| 39 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 77,696 |
+| 39 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 77,706 |
 | 40 | [FezVrasta](https://www.raycast.com/FezVrasta) | 5 | 77,675 |
 | 41 | [benvp](https://www.raycast.com/benvp) | 1 | 75,396 |
 | 42 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 68,490 |
