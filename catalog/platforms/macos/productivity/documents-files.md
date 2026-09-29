@@ -2,7 +2,7 @@
 
 [AI & Assistants](./ai-assistants.md) · [Notes & Knowledge](./notes-knowledge.md) · [Tasks & To-Dos](./tasks-to-dos.md) · [Calendar & Scheduling](./calendar-scheduling.md) · [Clipboard & Text Expansion](./clipboard-text-expansion.md) · [Window & Workspace Management](./window-workspace-management.md) · [Time Tracking & Focus](./time-tracking-focus.md) · [Email](./email.md) · [Automation & Workflows](./automation-workflows.md) · **Documents & Files** · [Writing & Text Tools](./writing-text-tools.md) · [Reading & Learning](./reading-learning.md) · [Team & Business Tools](./team-business-tools.md) · [Search & Bookmarks](./search-bookmarks.md) · [Trackers & Monitors](./trackers-monitors.md) · [General](./general.md)
 
-136 of 1510 extensions · [← macOS · Productivity](./README.md)
+137 of 1511 extensions · [← macOS · Productivity](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -142,3 +142,4 @@
 | [Hack Club CDN](https://github.com/raycast/extensions/tree/main/extensions/hack-club-cdn) | 2 | Upload files to the Hack Club CDN and manage your uploads from Raycast. Requires a Hack Club account (cdn.hackclub.com) and an API token. | garyhtou | macOS | [store](https://www.raycast.com/garyhtou/hack-club-cdn) |
 | [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar) | 1 | Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, and browse your buckets with the Aktar menu bar app. | merttopuz | macOS | [store](https://www.raycast.com/merttopuz/aktar) |
 | [Markdown Documents](https://github.com/raycast/extensions/tree/main/extensions/markdown-docs) | 1 | Manage and search markdown cheatsheets and documents | craigharman | macOS | [store](https://www.raycast.com/craigharman/markdown-docs) |
+| [Env Keeper](https://github.com/raycast/extensions/tree/main/extensions/env-keeper) | 0 | Manage all your projects' .env files and global shell config, right from Raycast. Local-only, keyboard-first, free. | Mr-MJ | macOS | [store](https://www.raycast.com/Mr-MJ/env-keeper) |

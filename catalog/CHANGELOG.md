@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `97796d6cd2`
+
+**Added (1):** [Env Keeper](https://github.com/raycast/extensions/tree/main/extensions/env-keeper)
+
 ## 2026-09-29 — upstream `9282cb11da`
 
 **Updated (1):** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles)

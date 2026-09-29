@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · **M** · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-177 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+178 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -159,6 +159,7 @@
 | [morrissimons](https://www.raycast.com/morrissimons) | 1 | 27 | **Productivity:** [Mail Finder](https://github.com/raycast/extensions/tree/main/extensions/email-finder) |
 | [mouxy](https://www.raycast.com/mouxy) | 2 | 46 | **Productivity:** [Transcribe Audio](https://github.com/raycast/extensions/tree/main/extensions/transcribe-audio), [PwPush](https://github.com/raycast/extensions/tree/main/extensions/pwpush) |
 | [mozzius](https://www.raycast.com/mozzius) | 1 | 219 | **Developer Tools:** [Create T3 App](https://github.com/raycast/extensions/tree/main/extensions/create-t3-app) |
+| [Mr-MJ](https://www.raycast.com/Mr-MJ) | 1 | 0 | **Developer Tools:** [Env Keeper](https://github.com/raycast/extensions/tree/main/extensions/env-keeper) |
 | [MrMage](https://www.raycast.com/MrMage) | 1 | 118 | **Productivity:** [Mail to Self](https://github.com/raycast/extensions/tree/main/extensions/mail-to-self) |
 | [mrmartineau](https://www.raycast.com/mrmartineau) | 4 | 28,574 | **Developer Tools:** [Search npm Packages](https://github.com/raycast/extensions/tree/main/extensions/search-npm)<br>**Uncategorized:** [GitHub Stars](https://github.com/raycast/extensions/tree/main/extensions/github-stars)<br>**Applications:** [Bird](https://github.com/raycast/extensions/tree/main/extensions/bird), [Otter Bookmarks](https://github.com/raycast/extensions/tree/main/extensions/otter) |
 | [mrnoisytiger](https://www.raycast.com/mrnoisytiger) | 1 | 371 | **Design Tools:** [Convert 3D Models](https://github.com/raycast/extensions/tree/main/extensions/convert-3d-models) |

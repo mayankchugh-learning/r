@@ -1,6 +1,6 @@
 # Publishers
 
-2239 publishers · [← catalog index](../README.md)
+2240 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,282,218 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,282,246 |
 | 2 | [raycast](./id/raycast.md) | 11 | 896,126 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,982 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,765 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,002 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,781 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,146 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,331 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
@@ -140,7 +140,7 @@
 | 130 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,734 |
 | 131 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,580 |
 | 132 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 15,527 |
-| 133 | [frouo](https://www.raycast.com/frouo) | 1 | 15,268 |
+| 133 | [frouo](https://www.raycast.com/frouo) | 1 | 15,273 |
 | 134 | [tbrown](https://www.raycast.com/tbrown) | 1 | 15,174 |
 | 135 | [louishuyng](https://www.raycast.com/louishuyng) | 4 | 15,079 |
 | 136 | [ryan](https://www.raycast.com/ryan) | 1 | 14,830 |
@@ -2240,10 +2240,11 @@
 | 2230 | [imprisonedmind](https://www.raycast.com/imprisonedmind) | 1 | 0 |
 | 2231 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2232 | [mjphayes](https://www.raycast.com/mjphayes) | 1 | 0 |
-| 2233 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2234 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2235 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2236 | github-next | 2 | — |
-| 2237 | asyntai | 1 | — |
-| 2238 | eugenio | 1 | — |
-| 2239 | multi | 1 | — |
+| 2233 | [Mr-MJ](https://www.raycast.com/Mr-MJ) | 1 | 0 |
+| 2234 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2235 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2236 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2237 | github-next | 2 | — |
+| 2238 | asyntai | 1 | — |
+| 2239 | eugenio | 1 | — |
+| 2240 | multi | 1 | — |

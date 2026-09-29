@@ -1,8 +1,8 @@
 # Documents & Files
 
-136 extensions · [← Productivity](./README.md)
+137 extensions · [← Productivity](./README.md)
 
-[Folder ✦](#folder) (31) · [Documents ✦](#documents) (18) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (14) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Transfer ✦](#transfer) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (34)
+[Folder ✦](#folder) (31) · [Documents ✦](#documents) (18) · [Finder ✦](#finder) (8) · [Upload ✦](#upload) (14) · [Download ✦](#download) (10) · [PDF ✦](#pdf) (7) · [Markdown ✦](#markdown) (6) · [Local ✦](#local) (4) · [Fuzzy ✦](#fuzzy) (4) · [General](#general) (35)
 
 *✦ auto-discovered topic group*
 
@@ -135,14 +135,14 @@
 | [MarkMarks](https://github.com/raycast/extensions/tree/main/extensions/markmarks) | 233 | Manage bookmarks using a markdown file as persistence layer | rmartins | macOS | [store](https://www.raycast.com/rmartins/markmarks) |
 | [ShowMD](https://github.com/raycast/extensions/tree/main/extensions/showmd) | 50 | Open your markdown files as readable pages in your browser. Edit them right there, and everything stays on your computer. | l0kyurue1 | macOS, Windows | [store](https://www.raycast.com/l0kyurue1/showmd) |
 
-## Transfer ✦
+## Local ✦
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 480 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
 | [Rsync File Transfer](https://github.com/raycast/extensions/tree/main/extensions/raycast-rsync-extension) | 133 | Transfer files between local and remote servers using rsync with SSH config integration | dytsou | macOS | [store](https://www.raycast.com/dytsou/raycast-rsync-extension) |
-| [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) | 17 | Send and receive files securely using croc | wilton | macOS | [store](https://www.raycast.com/wilton/croc-transfer) |
+| [Quick Groups](https://github.com/raycast/extensions/tree/main/extensions/quick-groups) | 7 | Search and act on grouped reference data from local YAML files | neilbartlett | macOS | [store](https://www.raycast.com/neilbartlett/quick-groups) |
 | [BOOX Companion](https://github.com/raycast/extensions/tree/main/extensions/boox-companion) | 5 | Browse, transfer files, and capture the screen of BOOX devices over your local network | metrovoc | macOS | [store](https://www.raycast.com/metrovoc/boox-companion) |
+| [Env Keeper](https://github.com/raycast/extensions/tree/main/extensions/env-keeper) | 0 | Manage all your projects' .env files and global shell config, right from Raycast. Local-only, keyboard-first, free. | Mr-MJ | macOS | [store](https://www.raycast.com/Mr-MJ/env-keeper) |
 
 ## Fuzzy ✦
 
@@ -170,6 +170,7 @@
 | [Get Direct Link](https://github.com/raycast/extensions/tree/main/extensions/get-direct-link) | 971 | Get a direct link from a shareable link of Dropbox, Google Drive, and Imgur service. | trungnghiatn | macOS | [store](https://www.raycast.com/trungnghiatn/get-direct-link) |
 | [File Tree Generator](https://github.com/raycast/extensions/tree/main/extensions/file-tree-generator) | 769 | Generates file tree from text | csharp | macOS | [store](https://www.raycast.com/csharp/file-tree-generator) |
 | [Website Blocker](https://github.com/raycast/extensions/tree/main/extensions/website-blocker) | 756 | Block websites by changing your hosts file automatically, directly from Raycast | gersomvg | macOS | [store](https://www.raycast.com/gersomvg/website-blocker) |
+| [QRCP](https://github.com/raycast/extensions/tree/main/extensions/qrcp) | 480 | Transfer files over Wi-Fi from/to your computer to/from your mobile device by scanning a QR code without leaving Raycast. | yohann84l | macOS, Windows | [store](https://www.raycast.com/yohann84l/qrcp) |
 | [Descript to YouTube Chapters](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) | 425 | Convert Descript's transcript file into YouTube Chapters | peduarte | macOS | [store](https://www.raycast.com/peduarte/descript-to-youtube-chapters) |
 | [Meta Music](https://github.com/raycast/extensions/tree/main/extensions/meta-music) | 393 | Manage the ID3 tags of audio files directly in Raycast! | teziovsky | macOS | [store](https://www.raycast.com/teziovsky/meta-music) |
 | [Copee](https://github.com/raycast/extensions/tree/main/extensions/copee) | 378 | Copies text as txt file. | gianpiero_spinelli | macOS | [store](https://www.raycast.com/gianpiero_spinelli/copee) |
@@ -187,7 +188,7 @@
 | [Manifest Viewer](https://github.com/raycast/extensions/tree/main/extensions/manifest-viewer) | 51 | View and navigate HLS/DASH manifest files with keyboard navigation to child variant playlists | stonko1994 | macOS, Windows | [store](https://www.raycast.com/stonko1994/manifest-viewer) |
 | [Smultron](https://github.com/raycast/extensions/tree/main/extensions/smultron) | 44 | Creates a new Smultron File with Selection | felixthehat | macOS | [store](https://www.raycast.com/felixthehat/smultron) |
 | [OpenQR](https://github.com/raycast/extensions/tree/main/extensions/openqr) | 26 | Generate QR codes and manage dynamic (editable) QR codes with scan analytics, straight from Raycast. | openqr (org) | macOS | [store](https://www.raycast.com/openqr/openqr) |
+| [Croc Transfer](https://github.com/raycast/extensions/tree/main/extensions/croc-transfer) | 17 | Send and receive files securely using croc | wilton | macOS | [store](https://www.raycast.com/wilton/croc-transfer) |
 | [Paper Design](https://github.com/raycast/extensions/tree/main/extensions/paper-design) | 17 | Browse recent Paper designs, create new files, and manage design tokens directly from Raycast. | asifk | macOS | [store](https://www.raycast.com/asifk/paper-design) |
-| [Quick Groups](https://github.com/raycast/extensions/tree/main/extensions/quick-groups) | 7 | Search and act on grouped reference data from local YAML files | neilbartlett | macOS | [store](https://www.raycast.com/neilbartlett/quick-groups) |
 | [Melanite Search](https://github.com/raycast/extensions/tree/main/extensions/melanite-search) | 4 | Search your Melanite library by file name and tag name, with thumbnail previews. | masuipeo | macOS, Windows | [store](https://www.raycast.com/masuipeo/melanite-search) |
 | [Glimpse](https://github.com/raycast/extensions/tree/main/extensions/glimpse) | 3 | Search your dictations, transcribe files, and control Glimpse from Raycast. | garon | macOS, Windows | [store](https://www.raycast.com/garon/glimpse) |

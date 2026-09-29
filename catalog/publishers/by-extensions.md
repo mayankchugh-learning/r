@@ -1,6 +1,6 @@
 # Publishers
 
-2239 publishers · [← catalog index](../README.md)
+2240 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,056 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,606 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,877 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,282,218 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,282,246 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,617 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,279 |
@@ -400,8 +400,8 @@
 | 390 | [TwoMental](https://www.raycast.com/twomental) | 2 | 17 |
 | 391 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 392 | github-next | 2 | — |
-| 393 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,982 |
-| 394 | [Codely](https://www.raycast.com/Codely) | 1 | 563,765 |
+| 393 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,002 |
+| 394 | [Codely](https://www.raycast.com/Codely) | 1 | 563,781 |
 | 395 | [linear](https://www.raycast.com/linear) | 1 | 397,613 |
 | 396 | [mommertf](https://www.raycast.com/mommertf) | 1 | 330,654 |
 | 397 | [nhojb](https://www.raycast.com/nhojb) | 1 | 289,625 |
@@ -449,7 +449,7 @@
 | 439 | [kom](https://www.raycast.com/kom) | 1 | 16,692 |
 | 440 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,734 |
 | 441 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,580 |
-| 442 | [frouo](https://www.raycast.com/frouo) | 1 | 15,268 |
+| 442 | [frouo](https://www.raycast.com/frouo) | 1 | 15,273 |
 | 443 | [tbrown](https://www.raycast.com/tbrown) | 1 | 15,174 |
 | 444 | [ryan](https://www.raycast.com/ryan) | 1 | 14,830 |
 | 445 | [sfkmk](https://www.raycast.com/sfkmk) | 1 | 14,761 |
@@ -2241,9 +2241,10 @@
 | 2231 | [imprisonedmind](https://www.raycast.com/imprisonedmind) | 1 | 0 |
 | 2232 | [maarten_boelens](https://www.raycast.com/maarten_boelens) | 1 | 0 |
 | 2233 | [mjphayes](https://www.raycast.com/mjphayes) | 1 | 0 |
-| 2234 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
-| 2235 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2236 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2237 | asyntai | 1 | — |
-| 2238 | eugenio | 1 | — |
-| 2239 | multi | 1 | — |
+| 2234 | [Mr-MJ](https://www.raycast.com/Mr-MJ) | 1 | 0 |
+| 2235 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
+| 2236 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
+| 2237 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2238 | asyntai | 1 | — |
+| 2239 | eugenio | 1 | — |
+| 2240 | multi | 1 | — |

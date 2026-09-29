@@ -1,8 +1,8 @@
 # Terminal & Editors
 
-51 extensions · [← Developer Tools](./README.md)
+52 extensions · [← Developer Tools](./README.md)
 
-[Terminal ✦](#terminal) (13) · [CLI ✦](#cli) (9) · [Editor ✦](#editor) (7) · [Shell ✦](#shell) (6) · [General](#general) (16)
+[Terminal ✦](#terminal) (13) · [CLI ✦](#cli) (9) · [Editor ✦](#editor) (7) · [Shell ✦](#shell) (7) · [General](#general) (16)
 
 *✦ auto-discovered topic group*
 
@@ -60,6 +60,7 @@
 | [Fisher](https://github.com/raycast/extensions/tree/main/extensions/fisher) | 200 | Manage Fisher plugins for Fish Shell directly from Raycast | matheuschein | macOS | [store](https://www.raycast.com/matheuschein/fisher) |
 | [Trimmy](https://github.com/raycast/extensions/tree/main/extensions/trimmy) | 190 | "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. | chrismessina | macOS, Windows | [store](https://www.raycast.com/chrismessina/trimmy) |
 | [Shell Apps](https://github.com/raycast/extensions/tree/main/extensions/shell-apps) | 22 | Create and launch your own shell command shortcuts as apps on Windows | Kxrbx | Windows | [store](https://www.raycast.com/kxrbx/shell-apps) |
+| [Env Keeper](https://github.com/raycast/extensions/tree/main/extensions/env-keeper) | 0 | Manage all your projects' .env files and global shell config, right from Raycast. Local-only, keyboard-first, free. | Mr-MJ | macOS | [store](https://www.raycast.com/Mr-MJ/env-keeper) |
 
 ## General
 

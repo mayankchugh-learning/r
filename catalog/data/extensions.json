@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "9282cb11da9b3d53dbd45a99278ce816838cb578",
-  "generatedAt": "2026-09-29T10:05:30.394Z",
-  "downloadsRefreshedAt": "2026-09-29T10:05:29.266Z",
-  "count": 3337,
+  "commit": "97796d6cd203f0829bb51a78a79361039bfa06f5",
+  "generatedAt": "2026-09-29T10:22:30.484Z",
+  "downloadsRefreshedAt": "2026-09-29T10:22:29.584Z",
+  "count": 3338,
   "extensions": [
     {
       "dir": "0x0",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606167
+      "downloads": 606195
     },
     {
       "dir": "color-shades",
@@ -17120,6 +17120,27 @@
       "downloads": 3238
     },
     {
+      "dir": "env-keeper",
+      "name": "env-keeper",
+      "title": "Env Keeper",
+      "description": "Manage all your projects' .env files and global shell config, right from Raycast. Local-only, keyboard-first, free.",
+      "author": "Mr-MJ",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/Mr-MJ/env-keeper",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/env-keeper",
+      "treeSha": "84c02315ba34e5e9ead7e76f6c781e80772f4d72",
+      "downloads": 0
+    },
+    {
       "dir": "envato",
       "name": "envato",
       "title": "Envato Sales, Purchases and Search",
@@ -22854,7 +22875,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563765
+      "downloads": 563781
     },
     {
       "dir": "google-chrome-profiles",
@@ -22874,7 +22895,7 @@
       "store": "https://www.raycast.com/frouo/google-chrome-profiles",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles",
       "treeSha": "77d63e078d68e3c3cc9b4fcd25ec8f6bf9df519d",
-      "downloads": 15268
+      "downloads": 15273
     },
     {
       "dir": "google-cloud-platform-search",
@@ -29344,7 +29365,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 764982
+      "downloads": 765002
     },
     {
       "dir": "kimai",

@@ -78,7 +78,7 @@
 | [frolik](https://www.raycast.com/frolik) | 1 | 1,596 | **AI:** [Humanize AI Text](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) |
 | [fromserg](https://www.raycast.com/fromserg) | 1 | 59 | **Productivity:** [Reading Time](https://github.com/raycast/extensions/tree/main/extensions/reading-time) |
 | [frostplexx](https://www.raycast.com/frostplexx) | 1 | 2,188 | **Developer Tools:** [Binary Tools](https://github.com/raycast/extensions/tree/main/extensions/bintools) |
-| [frouo](https://www.raycast.com/frouo) | 1 | 15,268 | **Web:** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) |
+| [frouo](https://www.raycast.com/frouo) | 1 | 15,273 | **Web:** [Google Chrome Profiles](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) |
 | [frugoman](https://www.raycast.com/frugoman) | 1 | 1,927 | **Productivity:** [My Daily Log](https://github.com/raycast/extensions/tree/main/extensions/my-daily-log) |
 | [ftonato](https://www.raycast.com/ftonato) | 1 | 145 | **Fun:** [Lichess.org](https://github.com/raycast/extensions/tree/main/extensions/lichess-org) |
 | [ftrstk](https://www.raycast.com/ftrstk) | 1 | 50 | **Developer Tools:** [AT Protocol Utilities](https://github.com/raycast/extensions/tree/main/extensions/atproto-utilities) |
