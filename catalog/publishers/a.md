@@ -201,6 +201,6 @@
 | [ayush_saini](https://www.raycast.com/ayush_saini) | 1 | 14 | **Productivity:** [MirAIe AC Control](https://github.com/raycast/extensions/tree/main/extensions/miraie-ac-control) |
 | [ayushtom](https://www.raycast.com/ayushtom) | 1 | 519 | **Web:** [Flight Search](https://github.com/raycast/extensions/tree/main/extensions/skyscanner-flights) |
 | [azizouichni](https://www.raycast.com/azizouichni) | 1 | 22 | **Fun:** [dpm.lol](https://github.com/raycast/extensions/tree/main/extensions/dpm-lol) |
-| [azlandotgg](https://www.raycast.com/azlandotgg) | 1 | 0 | **Productivity:** [MarkdownOS](https://github.com/raycast/extensions/tree/main/extensions/markdownos) |
+| [azlandotgg](https://www.raycast.com/azlandotgg) | 1 | 1 | **Productivity:** [MarkdownOS](https://github.com/raycast/extensions/tree/main/extensions/markdownos) |
 | [azlekov](https://www.raycast.com/azlekov) | 1 | 433 | **Applications:** [Gitfox Repositories](https://github.com/raycast/extensions/tree/main/extensions/gitfox) |
 | [azyz](https://www.raycast.com/azyz) | 2 | 310 | **Fun:** [Balatro Compendium](https://github.com/raycast/extensions/tree/main/extensions/balatro-compendium), [Pokémon Tcg Pocket Binder](https://github.com/raycast/extensions/tree/main/extensions/pokemon-tcg-pocket-binder) |

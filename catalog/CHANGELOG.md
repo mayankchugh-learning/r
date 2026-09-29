@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `6da015ce1f`
+
+**Updated (1):** [MarkdownOS](https://github.com/raycast/extensions/tree/main/extensions/markdownos)
+
 ## 2026-09-29 — upstream `5c41b1cb6a`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
