@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a9193969c697a0e5b776d22a4eac3d64dff9c094",
-  "generatedAt": "2026-09-29T05:04:22.587Z",
-  "downloadsRefreshedAt": "2026-09-29T05:04:22.004Z",
+  "commit": "aa847a92d6e3201ac19d7008d39ac5d2b5aad9ad",
+  "generatedAt": "2026-09-29T05:05:34.337Z",
+  "downloadsRefreshedAt": "2026-09-29T05:05:33.888Z",
   "count": 3331,
   "extensions": [
     {
@@ -8651,7 +8651,7 @@
       "description": "Lock your keyboard to clean it easily",
       "author": "ike-gg",
       "owner": null,
-      "contributors": 6,
+      "contributors": 7,
       "categories": [
         "Productivity",
         "Other",
@@ -8664,7 +8664,7 @@
       ],
       "store": "https://www.raycast.com/ike-gg/clean-keyboard",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard",
-      "treeSha": "b11eece7d10aa43fff91c095c795db0bc10f2d28",
+      "treeSha": "818fb2cc86089d01929e6ec6248bf3501fc2ae14",
       "downloads": 77696
     },
     {
@@ -10205,7 +10205,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 605758
+      "downloads": 605761
     },
     {
       "dir": "color-shades",
@@ -22811,7 +22811,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563435
+      "downloads": 563437
     },
     {
       "dir": "google-chrome-profiles",
@@ -29301,7 +29301,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 764503
+      "downloads": 764506
     },
     {
       "dir": "kimai",

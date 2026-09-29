@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `aa847a92d6`
+
+**Updated (1):** [Clean Keyboard](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard)
+
 ## 2026-09-29 — upstream `a9193969c6`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
