@@ -2,14 +2,14 @@
 
 [0-9](./0-9.md) · **A** · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · [S](./s.md) · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-164 extensions · [← catalog index](../README.md)
+165 extensions · [← catalog index](../README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 248,899 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
 | [Apple Notes](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) | 153,324 | Search and create notes within the Apple Notes application. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-notes) |
 | [Apple Reminders](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) | 120,228 | Manage Apple Reminders. | raycast (org) | macOS | [store](https://www.raycast.com/raycast/apple-reminders) |
-| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 46,045 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
+| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 46,052 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 38,501 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
 | [App Cleaner](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) | 35,960 | Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller | dziad | macOS | [store](https://www.raycast.com/dziad/appcleaner) |
 | [Amphetamine](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) | 32,618 | Control Amphetamine sleep sessions from Raycast | gstvds | macOS | [store](https://www.raycast.com/gstvds/amphetamine) |
@@ -170,3 +170,4 @@
 | [AudioCast Control](https://github.com/raycast/extensions/tree/main/extensions/audiocast-control) | 2 | Control your AudioCast device using Raycast | RomiC | macOS, Windows | [store](https://www.raycast.com/RomiC/audiocast-control) |
 | [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar) | 1 | Upload files to your own S3, R2, B2 or MinIO storage, search your upload history, and browse your buckets with the Aktar menu bar app. | merttopuz | macOS | [store](https://www.raycast.com/merttopuz/aktar) |
 | [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) | 0 | Control the AimeFlux CLI from Raycast. | erdiegoant | macOS | [store](https://www.raycast.com/erdiegoant/aimeflux) |
+| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |

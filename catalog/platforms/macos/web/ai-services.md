@@ -2,7 +2,7 @@
 
 **AI Services** · [Social & Communities](./social-communities.md) · [Search Engines](./search-engines.md) · [Bookmarks & Read Later](./bookmarks-read-later.md) · [URL & Domain Tools](./url-domain-tools.md) · [Browsers & Tabs](./browsers-tabs.md) · [Crypto & Markets](./crypto-markets.md) · [Screenshots & Capture](./screenshots-capture.md) · [Monitoring & SEO](./monitoring-seo.md) · [Downloads & Torrents](./downloads-torrents.md) · [Web Apps & Services](./web-apps-services.md) · [General](./general.md)
 
-36 of 474 extensions · [← macOS · Web](./README.md)
+37 of 475 extensions · [← macOS · Web](./README.md)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
@@ -42,3 +42,4 @@
 | [Polidict](https://github.com/raycast/extensions/tree/main/extensions/polidict) | 41 | Master new vocabulary with spaced repetition, AI-powered definitions, and curated word collections | solomkinmv | macOS | [store](https://www.raycast.com/solomkinmv/polidict) |
 | [Bangumi](https://github.com/raycast/extensions/tree/main/extensions/bangumi) | 18 | A full-featured Bangumi client for Raycast. Manage collections, track progress, search subjects and characters, view daily schedules. Includes AI tools for Ray… | maxchang3 | Windows, macOS | [store](https://www.raycast.com/maxchang3/bangumi) |
 | [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) | 9 | Open or prefill one prompt in ChatGPT, Claude, Grok, and Perplexity using query URLs in your browser. | matheuscoelho3006 | macOS | [store](https://www.raycast.com/matheuscoelho3006/multi-ai-chat) |
+| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |

@@ -1,8 +1,8 @@
 # Cross-platform · Communication
 
-55 extensions · [← Cross-platform](../README.md)
+56 extensions · [← Cross-platform](../README.md)
 
-[Messaging & Chat](#messaging-chat) (12) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (15) · [Social & Fediverse](#social-fediverse) (2) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (3) · [General](#general) (16)
+[Messaging & Chat](#messaging-chat) (13) · [Video Calls & Meetings](#video-calls-meetings) (2) · [Email](#email) (15) · [Social & Fediverse](#social-fediverse) (2) · [Customer Support & CRM](#customer-support-crm) (1) · [Contacts & People](#contacts-people) (3) · [Language & Dictionaries](#language-dictionaries) (1) · [Links & Sharing](#links-sharing) (3) · [General](#general) (16)
 
 ## Conversations
 
@@ -22,6 +22,7 @@
 | [Beeper Desktop](https://github.com/raycast/extensions/tree/main/extensions/beeper) | 1,134 | Access your chats from Beeper Desktop (requires Beeper Desktop API to be enabled) | automattic (org) | macOS, Windows | [store](https://www.raycast.com/automattic/beeper) |
 | [Gotify](https://github.com/raycast/extensions/tree/main/extensions/gotify) | 107 | Load all Gotify messages | Lemon | macOS, Windows | [store](https://www.raycast.com/Lemon/gotify) |
 | [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) | 11 | Set a funny status on Slack, GitLab and GitHub at once — pick services, roll a random one, or generate with AI. | jan_werner | macOS, Windows | [store](https://www.raycast.com/jan_werner/status-nerd) |
+| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |
 
 ### Video Calls & Meetings
 

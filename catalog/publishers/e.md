@@ -47,7 +47,7 @@
 | [entupo](https://www.raycast.com/entupo) | 1 | 32 | **Applications:** [Accordance](https://github.com/raycast/extensions/tree/main/extensions/accordance) |
 | [entwine7250](https://www.raycast.com/entwine7250) | 1 | 262 | **Developer Tools:** [ULID](https://github.com/raycast/extensions/tree/main/extensions/ulid) |
 | [Envl](https://www.raycast.com/Envl) | 4 | 2,118 | **Productivity:** [ClipMenu](https://github.com/raycast/extensions/tree/main/extensions/clipmenu), [File Info](https://github.com/raycast/extensions/tree/main/extensions/file-info)<br>**Documentation:** [HTTP MIME Types](https://github.com/raycast/extensions/tree/main/extensions/http-mime)<br>**Developer Tools:** [Tiktoken](https://github.com/raycast/extensions/tree/main/extensions/tiktoken) |
-| [eray_ercan](https://www.raycast.com/eray_ercan) | 1 | 717 | **Developer Tools:** [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) |
+| [eray_ercan](https://www.raycast.com/eray_ercan) | 1 | 718 | **Developer Tools:** [WinGet](https://github.com/raycast/extensions/tree/main/extensions/winget) |
 | [erayack](https://www.raycast.com/erayack) | 1 | 217 | **Productivity:** [Cloudflare Email Routing](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-email-routing) |
 | [erbilnas](https://www.raycast.com/erbilnas) | 1 | 117 | **Productivity:** [Read My Screen](https://github.com/raycast/extensions/tree/main/extensions/read-my-screen) |
 | [erdiegoant](https://www.raycast.com/erdiegoant) | 1 | 0 | **Productivity:** [AimeFlux](https://github.com/raycast/extensions/tree/main/extensions/aimeflux) |
@@ -71,7 +71,7 @@
 | [etienne_gobeli](https://www.raycast.com/etienne_gobeli) | 1 | 28 | **Other:** [Swiss Train Times](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) |
 | eugenio | 1 | — | **System:** [Raccoon](https://github.com/raycast/extensions/tree/main/extensions/raccoon) |
 | [eunchurn](https://www.raycast.com/eunchurn) | 1 | 214 | **Developer Tools:** [Helm Chart](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) |
-| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,017 | [see all 19 →](./id/evanzhoudev.md) |
+| [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,019 | [see all 19 →](./id/evanzhoudev.md) |
 | [everyapi_dev](https://www.raycast.com/everyapi_dev) | 1 | 70 | **Productivity:** [EveryAPI](https://github.com/raycast/extensions/tree/main/extensions/everyapi) |
 | [evilhex](https://www.raycast.com/evilhex) | 1 | 150 | **Security:** [SuperGenPass](https://github.com/raycast/extensions/tree/main/extensions/superpassgen) |
 | [evilmouth](https://www.raycast.com/evilmouth) | 1 | 3 | **Productivity:** [CodexRunway Reset Tracker](https://github.com/raycast/extensions/tree/main/extensions/codexrunway-reset-tracker) |

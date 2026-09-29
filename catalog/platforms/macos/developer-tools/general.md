@@ -6,7 +6,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 764,715 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
+| [Kill Process](https://github.com/raycast/extensions/tree/main/extensions/kill-process) | 764,737 | Terminate processes sorted by CPU or memory usage | rolandleth | macOS, Windows | [store](https://www.raycast.com/rolandleth/kill-process) |
 | [Speedtest](https://github.com/raycast/extensions/tree/main/extensions/speedtest) | 182,839 | Test the performance and quality of your internet connection via speedtest.net | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/speedtest) |
 | [Lorem Ipsum](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) | 110,037 | Generate placeholder content | AntonNiklasson | macOS, Windows | [store](https://www.raycast.com/AntonNiklasson/lorem-ipsum) |
 | [Perplexity](https://github.com/raycast/extensions/tree/main/extensions/perplexity) | 67,401 | Query Perplexity from within Raycast | third774 | macOS, Windows | [store](https://www.raycast.com/third774/perplexity) |
@@ -67,7 +67,7 @@
 | [Webflow](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) | 1,186 | Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. | peeks | macOS | [store](https://www.raycast.com/peeks/webflow-sites) |
 | [Kaleidoscope](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) | 1,068 | Compare or open content from Raycast in Kaleidoscope. | leitmotif (org) | macOS | [store](https://www.raycast.com/leitmotif/kaleidoscope) |
 | [Metal Performance HUD](https://github.com/raycast/extensions/tree/main/extensions/performance-hud) | 1,067 | Toggle macOS's built-in Metal performance HUD | say4n | macOS | [store](https://www.raycast.com/say4n/performance-hud) |
-| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 1,020 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
+| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 1,022 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [YouTrack](https://github.com/raycast/extensions/tree/main/extensions/youtrack) | 985 | YouTrack 🔄 Raycast | tiulpin | macOS, Windows | [store](https://www.raycast.com/tiulpin/youtrack) |
 | [Pastebin](https://github.com/raycast/extensions/tree/main/extensions/pastebin) | 951 | Create and manage Pastebin pastes | vimtor | macOS | [store](https://www.raycast.com/vimtor/pastebin) |
 | [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) | 926 | Raycast extension to perform OSINT web check against a url | gksander | macOS, Windows | [store](https://www.raycast.com/gksander/osint-web-check) |

@@ -38,7 +38,7 @@
 | [vkhitrin](https://www.raycast.com/vkhitrin) | 1 | 92 | **Developer Tools:** [Gerrit Code Review](https://github.com/raycast/extensions/tree/main/extensions/gerrit-code-review) |
 | [vlad2305m](https://www.raycast.com/vlad2305m) | 1 | 71 | **Data:** [Qalccast - CLI Calculator](https://github.com/raycast/extensions/tree/main/extensions/qalc) |
 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 58,311 | **Productivity:** [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) |
-| [vlades](https://www.raycast.com/vlades) | 1 | 1,020 | **Developer Tools:** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) |
+| [vlades](https://www.raycast.com/vlades) | 1 | 1,022 | **Developer Tools:** [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) |
 | [vladimir-kotikov](https://www.raycast.com/vladimir-kotikov) | 1 | 639 | **Applications:** [Jq](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) |
 | [VladYevt](https://www.raycast.com/VladYevt) | 1 | 97 | **Web:** [Flibusta Search](https://github.com/raycast/extensions/tree/main/extensions/flibusta-search) |
 | [vmotta8](https://www.raycast.com/vmotta8) | 1 | 67 | **Developer Tools:** [Perry](https://github.com/raycast/extensions/tree/main/extensions/perry) |

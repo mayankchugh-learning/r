@@ -1,6 +1,6 @@
 # Publishers
 
-2236 publishers · [← catalog index](../README.md)
+2237 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,281,972 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,281,991 |
 | 2 | [raycast](./id/raycast.md) | 11 | 896,126 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,715 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,576 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 764,737 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,584 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,146 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,331 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
@@ -28,7 +28,7 @@
 | 18 | [mooxl](https://www.raycast.com/mooxl) | 2 | 210,855 |
 | 19 | [mblode](https://www.raycast.com/mblode) | 4 | 203,591 |
 | 20 | [asubbotin](https://www.raycast.com/asubbotin) | 2 | 186,642 |
-| 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,017 |
+| 21 | [EvanZhouDev](./id/evanzhoudev.md) | 19 | 185,019 |
 | 22 | [marcjulian](https://www.raycast.com/marcjulian) | 2 | 172,589 |
 | 23 | [Aayush9029](./id/aayush9029.md) | 16 | 168,056 |
 | 24 | [loris](https://www.raycast.com/loris) | 6 | 138,175 |
@@ -58,7 +58,7 @@
 | 48 | [VladCuciureanu](https://www.raycast.com/VladCuciureanu) | 1 | 58,311 |
 | 49 | [ratoru](https://www.raycast.com/ratoru) | 2 | 54,690 |
 | 50 | [garrett](https://www.raycast.com/garrett) | 2 | 53,001 |
-| 51 | [yug2005](https://www.raycast.com/yug2005) | 4 | 52,531 |
+| 51 | [yug2005](https://www.raycast.com/yug2005) | 4 | 52,538 |
 | 52 | [priithaamer](https://www.raycast.com/priithaamer) | 1 | 52,343 |
 | 53 | [gdsmith](https://www.raycast.com/gdsmith) | 2 | 51,564 |
 | 54 | [MarkusLanger](https://www.raycast.com/MarkusLanger) | 1 | 51,454 |
@@ -174,7 +174,7 @@
 | 164 | [github](https://www.raycast.com/github) | 1 | 11,077 |
 | 165 | [say4n](https://www.raycast.com/say4n) | 2 | 10,979 |
 | 166 | [Falcon](https://www.raycast.com/Falcon) | 2 | 10,975 |
-| 167 | [zavbala](https://www.raycast.com/zavbala) | 3 | 10,776 |
+| 167 | [zavbala](https://www.raycast.com/zavbala) | 3 | 10,777 |
 | 168 | [andresmorelos](https://www.raycast.com/andresmorelos) | 3 | 10,742 |
 | 169 | [muhammetakay](https://www.raycast.com/muhammetakay) | 1 | 10,643 |
 | 170 | [bgnfu7re](https://www.raycast.com/bgnfu7re) | 5 | 10,637 |
@@ -545,7 +545,7 @@
 | 535 | [prasadsunny1](https://www.raycast.com/prasadsunny1) | 1 | 1,517 |
 | 536 | [hakob_nersesian](https://www.raycast.com/hakob_nersesian) | 1 | 1,508 |
 | 537 | [gkpln3](https://www.raycast.com/gkpln3) | 1 | 1,506 |
-| 538 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,502 |
+| 538 | [CodetaroMiura](https://www.raycast.com/CodetaroMiura) | 1 | 1,503 |
 | 539 | [supermemory](https://www.raycast.com/supermemory) | 1 | 1,497 |
 | 540 | [rafal_zawadzki](https://www.raycast.com/rafal_zawadzki) | 2 | 1,494 |
 | 541 | [crazyczy](https://www.raycast.com/crazyczy) | 1 | 1,485 |
@@ -680,7 +680,7 @@
 | 670 | [popalay](https://www.raycast.com/popalay) | 2 | 1,029 |
 | 671 | [u-ran](https://www.raycast.com/u-ran) | 1 | 1,024 |
 | 672 | [aurawindsurfing](https://www.raycast.com/aurawindsurfing) | 2 | 1,022 |
-| 673 | [vlades](https://www.raycast.com/vlades) | 1 | 1,020 |
+| 673 | [vlades](https://www.raycast.com/vlades) | 1 | 1,022 |
 | 674 | [michael.wang](https://www.raycast.com/michael.wang) | 1 | 1,019 |
 | 675 | [shopping-jaws](https://www.raycast.com/shopping-jaws) | 1 | 1,014 |
 | 676 | [rokartur](https://www.raycast.com/rokartur) | 2 | 1,013 |
@@ -803,7 +803,7 @@
 | 793 | [rokcso](https://www.raycast.com/rokcso) | 1 | 721 |
 | 794 | [petra](https://www.raycast.com/petra) | 1 | 720 |
 | 795 | [matheuschein](https://www.raycast.com/matheuschein) | 2 | 718 |
-| 796 | [eray_ercan](https://www.raycast.com/eray_ercan) | 1 | 717 |
+| 796 | [eray_ercan](https://www.raycast.com/eray_ercan) | 1 | 718 |
 | 797 | [cacherapp](https://www.raycast.com/cacherapp) | 1 | 716 |
 | 798 | [pgvr](https://www.raycast.com/pgvr) | 1 | 714 |
 | 799 | [flavien.bonvin](https://www.raycast.com/flavien.bonvin) | 1 | 713 |
@@ -2242,5 +2242,6 @@
 | 2232 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2233 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
 | 2234 | github-next | 2 | — |
-| 2235 | eugenio | 1 | — |
-| 2236 | multi | 1 | — |
+| 2235 | asyntai | 1 | — |
+| 2236 | eugenio | 1 | — |
+| 2237 | multi | 1 | — |

@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "e9779d5732e90df795561427ee971225e92677e4",
-  "generatedAt": "2026-09-29T07:36:00.344Z",
-  "downloadsRefreshedAt": "2026-09-29T07:35:59.561Z",
-  "count": 3334,
+  "commit": "6d118065ecdc22d43fce701ba4c69d244e9edb38",
+  "generatedAt": "2026-09-29T07:45:36.069Z",
+  "downloadsRefreshedAt": "2026-09-29T07:45:35.384Z",
+  "count": 3335,
   "extensions": [
     {
       "dir": "0x0",
@@ -3253,6 +3253,29 @@
       "source": "https://github.com/raycast/extensions/tree/main/extensions/asyncapi",
       "treeSha": "71fceb1efd7c1b04fe612b294d6ae8efd05519ce",
       "downloads": 203
+    },
+    {
+      "dir": "asyntai",
+      "name": "asyntai",
+      "title": "Asyntai AI Chatbot",
+      "description": "Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser.",
+      "author": "asyntai",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Communication",
+        "Productivity",
+        "Web"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "store": null,
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/asyntai",
+      "treeSha": "37f3397dcbbb8619e37b8811574322595af9b418",
+      "downloads": null
     },
     {
       "dir": "at-profile",
@@ -10205,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 605921
+      "downloads": 605940
     },
     {
       "dir": "color-shades",
@@ -22811,7 +22834,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563576
+      "downloads": 563584
     },
     {
       "dir": "google-chrome-profiles",
@@ -24647,7 +24670,7 @@
       "store": "https://www.raycast.com/vlades/herdr",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/herdr",
       "treeSha": "97983f1dfd6beca851882cf18a76a1e2ce78253d",
-      "downloads": 1020
+      "downloads": 1022
     },
     {
       "dir": "hermes-agent",
@@ -29301,7 +29324,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 764715
+      "downloads": 764737
     },
     {
       "dir": "kimai",
@@ -33005,7 +33028,7 @@
       "store": "https://www.raycast.com/yug2005/mail",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mail",
       "treeSha": "19cbe0ff83914e09caa831ba7a4bb103713863a3",
-      "downloads": 46045
+      "downloads": 46052
     },
     {
       "dir": "mail-to-self",
@@ -34161,7 +34184,7 @@
       "store": "https://www.raycast.com/EvanZhouDev/mcp",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mcp",
       "treeSha": "fdf30cd854a30e5e9d5ecec84c5f1cc3d3817b18",
-      "downloads": 8852
+      "downloads": 8854
     },
     {
       "dir": "md-to-excel",
@@ -49352,7 +49375,7 @@
       "store": "https://www.raycast.com/CodetaroMiura/raynab",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/raynab",
       "treeSha": "23b34d80e2004348cecc3e31cb89cd08dda50c6a",
-      "downloads": 1502
+      "downloads": 1503
     },
     {
       "dir": "raytaskwarrior",
@@ -66958,7 +66981,7 @@
       "store": "https://www.raycast.com/zavbala/whois",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/whois",
       "treeSha": "cb7a49f623740472d8d66314926bde7a96c7a11f",
-      "downloads": 6809
+      "downloads": 6810
     },
     {
       "dir": "whoop",
@@ -67381,7 +67404,7 @@
       "store": "https://www.raycast.com/eray_ercan/winget",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/winget",
       "treeSha": "64507e49656648e17b13303eeef0d41836f0c038",
-      "downloads": 717
+      "downloads": 718
     },
     {
       "dir": "winscp",

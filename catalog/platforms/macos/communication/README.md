@@ -1,8 +1,8 @@
 # macOS · Communication
 
-159 extensions · [← macOS](../README.md)
+160 extensions · [← macOS](../README.md)
 
-[Messaging & Chat](#messaging-chat) (29) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (57)
+[Messaging & Chat](#messaging-chat) (30) · [Video Calls & Meetings](#video-calls-meetings) (15) · [Email](#email) (24) · [Social & Fediverse](#social-fediverse) (11) · [Customer Support & CRM](#customer-support-crm) (3) · [Notifications & Push](#notifications-push) (3) · [Contacts & People](#contacts-people) (5) · [Language & Dictionaries](#language-dictionaries) (5) · [Links & Sharing](#links-sharing) (7) · [General](#general) (57)
 
 ## Conversations
 
@@ -39,6 +39,7 @@
 | [Gotify](https://github.com/raycast/extensions/tree/main/extensions/gotify) | 107 | Load all Gotify messages | Lemon | macOS, Windows | [store](https://www.raycast.com/Lemon/gotify) |
 | [Cangjie Dictionary](https://github.com/raycast/extensions/tree/main/extensions/cangjie) | 40 | Fast Chinese characters lookup for Cangjie and Sucheng codes. Supports instant search from selected text and provides both English letters and Chinese radicals. | jimmyclchu | macOS | [store](https://www.raycast.com/jimmyclchu/cangjie) |
 | [Status Nerd](https://github.com/raycast/extensions/tree/main/extensions/status-nerd) | 11 | Set a funny status on Slack, GitLab and GitHub at once — pick services, roll a random one, or generate with AI. | jan_werner | macOS, Windows | [store](https://www.raycast.com/jan_werner/status-nerd) |
+| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |
 
 ### Video Calls & Meetings
 

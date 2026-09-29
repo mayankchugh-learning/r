@@ -1,8 +1,8 @@
 # AI ✦
 
-106 extensions · [← AI & Assistants](./README.md)
+107 extensions · [← AI & Assistants](./README.md)
 
-[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (6) · [Openai ✦](#openai) (7) · [Ask ✦](#ask) (5) · [Prompts ✦](#prompts) (4) · [General](#general) (55)
+[Powered ✦](#powered) (16) · [Model ✦](#model) (13) · [Chat ✦](#chat) (7) · [Ask ✦](#ask) (5) · [Openai ✦](#openai) (7) · [Prompts ✦](#prompts) (4) · [General](#general) (55)
 
 *✦ auto-discovered topic group*
 
@@ -31,7 +31,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 8,852 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
+| [Model Context Protocol](https://github.com/raycast/extensions/tree/main/extensions/mcp) | 8,854 | Interact with the Model Context Protocol (MCP) in Raycast AI | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/mcp) |
 | [Grok AI](https://github.com/raycast/extensions/tree/main/extensions/grok-ai) | 2,690 | Query xAI's Grok directly from Raycast with streaming responses, conversation history, and custom model management | andrei_ciobotar | macOS | [store](https://www.raycast.com/andrei_ciobotar/grok-ai) |
 | [Browser AI Companion](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) | 2,239 | Use the best models with Raycast Browser Extension to extend your browsing experience. | lin | macOS | [store](https://www.raycast.com/lin/browser-ai) |
 | [LLMs Txt](https://github.com/raycast/extensions/tree/main/extensions/llms-txt) | 966 | Search and access llms.txt files from various websites. llms.txt is a proposed standard file that defines how AI models and LLMs should interact with website c… | thedaviddias | macOS, Windows | [store](https://www.raycast.com/thedaviddias/llms-txt) |
@@ -55,6 +55,17 @@
 | [MiniMax](https://github.com/raycast/extensions/tree/main/extensions/minimax-ai) | 300 | MiniMax AI Chat for Raycast | monfortegg | macOS, Windows | [store](https://www.raycast.com/monfortegg/minimax-ai) |
 | [Parachord](https://github.com/raycast/extensions/tree/main/extensions/parachord) | 35 | Control Parachord music player - play, pause, skip, search, and chat with the AI DJ | parachord | macOS | [store](https://www.raycast.com/parachord/parachord) |
 | [Multi AI Chat](https://github.com/raycast/extensions/tree/main/extensions/multi-ai-chat) | 9 | Open or prefill one prompt in ChatGPT, Claude, Grok, and Perplexity using query URLs in your browser. | matheuscoelho3006 | macOS | [store](https://www.raycast.com/matheuscoelho3006/multi-ai-chat) |
+| [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai) | — | Read your website chats, leads and support tickets, and ask your own AI chatbot a question, without opening the browser. | asyntai | macOS, Windows | — |
+
+## Ask ✦
+
+| Extension | Downloads | Description | Author | Platforms | Store |
+| --- | --- | --- | --- | --- | --- |
+| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 11,230 | Manage Google Tasks from Raycast, and ask Raycast AI about them. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
+| [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 2,155 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
+| [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 890 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
+| [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 33 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
+| [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 11 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
 
 ## Openai ✦
 
@@ -67,16 +78,6 @@
 | [Read My Screen](https://github.com/raycast/extensions/tree/main/extensions/read-my-screen) | 117 | AI screenshot and browser reader: OCR, explain errors, summarize pages, and review UI with GPT-4o, Claude, or Gemini. Use region, window, or full-screen captur… | erbilnas | macOS | [store](https://www.raycast.com/erbilnas/read-my-screen) |
 | [Voice-to-Text for Windows](https://github.com/raycast/extensions/tree/main/extensions/voice-to-text-windows) | 84 | Record speech from your microphone, transcribe it with OpenAI Whisper, and clean it up with AI | rennesis | Windows | [store](https://www.raycast.com/rennesis/voice-to-text-windows) |
 | [AI Voice Studio](https://github.com/raycast/extensions/tree/main/extensions/ai-voice-studio) | 52 | Read and generate speech from Raycast with Alibaba Cloud Qwen-TTS, Xiaomi MiMo, and OpenAI voices, speed control, and focused provider defaults. | xianwei_zhang | macOS | [store](https://www.raycast.com/xianwei_zhang/ai-voice-studio) |
-
-## Ask ✦
-
-| Extension | Downloads | Description | Author | Platforms | Store |
-| --- | --- | --- | --- | --- | --- |
-| [Google Tasks](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) | 11,230 | Manage Google Tasks from Raycast, and ask Raycast AI about them. | elliotdes | macOS, Windows | [store](https://www.raycast.com/elliotdes/google-tasks) |
-| [Kagi FastGPT](https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt) | 2,155 | Ask questions to Kagi's FastGPT AI engine. | http.james | macOS | [store](https://www.raycast.com/http.james/kagi-fastgpt) |
-| [Ask Dust](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) | 890 | Query dust.tt AI agents | albandum | macOS | [store](https://www.raycast.com/albandum/dust-tt) |
-| [Port.io](https://github.com/raycast/extensions/tree/main/extensions/port) | 33 | Access Port.io dashboards, run self-service actions, and ask Port AI questions | etay_alony | macOS | [store](https://www.raycast.com/etay_alony/port) |
-| [SaaSFlow](https://github.com/raycast/extensions/tree/main/extensions/saasflow) | 11 | Track MRR, browse customers and transactions, and ask AI questions about your SaaSFlow data — without leaving Raycast. | saasflow (org) | macOS | [store](https://www.raycast.com/saasflow/saasflow) |
 
 ## Prompts ✦
 

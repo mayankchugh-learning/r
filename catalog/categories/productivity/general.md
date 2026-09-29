@@ -9,7 +9,7 @@
 | [Jira](https://github.com/raycast/extensions/tree/main/extensions/jira) | 67,108 | Manage Jira issues with customizable views, sprint-aware sections, and quick actions. | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/jira) |
 | [Toothpick](https://github.com/raycast/extensions/tree/main/extensions/toothpick) | 58,311 | Manage Bluetooth connections in Raycast. | VladCuciureanu | macOS, Windows | [store](https://www.raycast.com/VladCuciureanu/toothpick) |
 | [Quit Applications](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) | 50,772 | Quit applications directly from Raycast | mackopes | macOS | [store](https://www.raycast.com/mackopes/quit-applications) |
-| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 46,045 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
+| [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 46,052 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [Weather](https://github.com/raycast/extensions/tree/main/extensions/weather) | 44,154 | Weather forecast via wttr.in | tonka3000 | macOS, Windows | [store](https://www.raycast.com/tonka3000/weather) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 43,295 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 38,501 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
@@ -84,7 +84,7 @@
 | [Memos](https://github.com/raycast/extensions/tree/main/extensions/memos) | 1,573 | Manage Your Memos | JakeYu | macOS, Windows | [store](https://www.raycast.com/JakeYu/memos) |
 | [Laravel Forge](https://github.com/raycast/extensions/tree/main/extensions/laravel-forge) | 1,558 | View and manage your Laravel Forge-managed servers | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/laravel-forge) |
 | [Network Drive](https://github.com/raycast/extensions/tree/main/extensions/network-drive) | 1,552 | List the available drive of a specified IP address (via SMB), mount and unmount those drives. | SuoweiHu | macOS | [store](https://www.raycast.com/SuoweiHu/network-drive) |
-| [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) | 1,502 | View and manage your YNAB Budgets directly from Raycast | CodetaroMiura | macOS | [store](https://www.raycast.com/CodetaroMiura/raynab) |
+| [Raynab — Manage Your Budgets](https://github.com/raycast/extensions/tree/main/extensions/raynab) | 1,503 | View and manage your YNAB Budgets directly from Raycast | CodetaroMiura | macOS | [store](https://www.raycast.com/CodetaroMiura/raynab) |
 | [iWork](https://github.com/raycast/extensions/tree/main/extensions/iwork) | 1,387 | Control Pages, Numbers, and Keynote | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/iwork) |
 | [Vault Manager](https://github.com/raycast/extensions/tree/main/extensions/vault) | 1,331 | Vault extension for Raycast | fonimus | macOS | [store](https://www.raycast.com/fonimus/vault-manager) |
 | [Day One](https://github.com/raycast/extensions/tree/main/extensions/day-one) | 1,330 | Add entries to Day One | AntonNiklasson | macOS | [store](https://www.raycast.com/AntonNiklasson/day-one) |
@@ -103,7 +103,7 @@
 | [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 1,061 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
 | [MindNode](https://github.com/raycast/extensions/tree/main/extensions/mindnode) | 1,051 | Create Mindmap Quickly using Raycast | thuggyduck | macOS | [store](https://www.raycast.com/thuggyduck/mindnode) |
 | [Proton Authenticator](https://github.com/raycast/extensions/tree/main/extensions/proton-authenticator) | 1,050 | Quick access to TOTP entries from Proton Authenticator | Fared | macOS | [store](https://www.raycast.com/Fared/proton-authenticator) |
-| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 1,020 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
+| [Herdr](https://github.com/raycast/extensions/tree/main/extensions/herdr) | 1,022 | Control Herdr workspaces and coding agents from Raycast | vlades | macOS | [store](https://www.raycast.com/vlades/herdr) |
 | [GitHub Codespaces](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) | 1,019 | Manage and launch codespaces | michael.wang | macOS | [store](https://www.raycast.com/michael.wang/github-codespaces) |
 | [Say No to Notch](https://github.com/raycast/extensions/tree/main/extensions/say-no-to-notch) | 1,006 | Control MacBook Notch via Say No to Notch | honghao | macOS | [store](https://www.raycast.com/honghao/say-no-to-notch) |
 | [Hammerspoon](https://github.com/raycast/extensions/tree/main/extensions/hammerspoon) | 1,005 | Control Hammerspoon from Raycast | bjrmatos | macOS | [store](https://www.raycast.com/bjrmatos/hammerspoon) |
