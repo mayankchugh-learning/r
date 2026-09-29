@@ -2,7 +2,7 @@
 
 [0-9](./0-9.md) · [A](./a.md) · [B](./b.md) · [C](./c.md) · [D](./d.md) · [E](./e.md) · [F](./f.md) · [G](./g.md) · [H](./h.md) · [I](./i.md) · [J](./j.md) · [K](./k.md) · [L](./l.md) · [M](./m.md) · [N](./n.md) · [O](./o.md) · [P](./p.md) · [Q](./q.md) · [R](./r.md) · **S** · [T](./t.md) · [U](./u.md) · [V](./v.md) · [W](./w.md) · [X](./x.md) · [Y](./y.md) · [Z](./z.md)
 
-169 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
+170 publishers · A–Z · extensions by primary category, sorted by downloads · [← publisher index](./README.md)
 
 | Publisher | Extensions | Downloads | By category |
 | --- | --- | --- | --- |
@@ -72,6 +72,7 @@
 | [sharat_visweswara](https://www.raycast.com/sharat_visweswara) | 1 | 19 | **Developer Tools:** [Lume](https://github.com/raycast/extensions/tree/main/extensions/lume) |
 | [sharker_alice_sharker](https://www.raycast.com/sharker_alice_sharker) | 2 | 266 | **Developer Tools:** [Hephaestus - JSON Tools](https://github.com/raycast/extensions/tree/main/extensions/hephaestus)<br>**News:** [Juejin](https://github.com/raycast/extensions/tree/main/extensions/juejin) |
 | [ShawYoungTang](https://www.raycast.com/ShawYoungTang) | 1 | 531 | **Productivity:** [Quick Web](https://github.com/raycast/extensions/tree/main/extensions/quick-web) |
+| [shayan_abedi](https://www.raycast.com/shayan_abedi) | 1 | 0 | **Finance:** [Folio](https://github.com/raycast/extensions/tree/main/extensions/folio) |
 | [shayneo](https://www.raycast.com/shayneo) | 1 | 155 | **Developer Tools:** [Big-O](https://github.com/raycast/extensions/tree/main/extensions/big-o) |
 | [shearm](https://www.raycast.com/shearm) | 1 | 32 | **Productivity:** [Clipfile](https://github.com/raycast/extensions/tree/main/extensions/read-this-later) |
 | [shichen437](https://www.raycast.com/shichen437) | 2 | 286 | **Developer Tools:** [Forgejo](https://github.com/raycast/extensions/tree/main/extensions/forgejo)<br>**Productivity:** [Readeck](https://github.com/raycast/extensions/tree/main/extensions/readeck) |

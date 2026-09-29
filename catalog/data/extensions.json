@@ -1,9 +1,9 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "a6bee6212f0304392d727c1fc2775a3dc4f584cb",
-  "generatedAt": "2026-09-29T11:26:40.506Z",
-  "downloadsRefreshedAt": "2026-09-29T11:26:39.744Z",
-  "count": 3339,
+  "commit": "9e1252ffd82ccd90c09f5e32491e43b1caa36cc2",
+  "generatedAt": "2026-09-29T12:00:36.552Z",
+  "downloadsRefreshedAt": "2026-09-29T12:00:35.565Z",
+  "count": 3340,
   "extensions": [
     {
       "dir": "0x0",
@@ -8789,7 +8789,7 @@
       "store": "https://www.raycast.com/aparandeh/manage-clickup-tasks",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/clickup",
       "treeSha": "864ace66179d6a8a596be055e3983d69059ac443",
-      "downloads": 9274
+      "downloads": 9280
     },
     {
       "dir": "climbing-grade-converter",
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 606280
+      "downloads": 606324
     },
     {
       "dir": "color-shades",
@@ -20054,6 +20054,26 @@
       "downloads": 50959
     },
     {
+      "dir": "folio",
+      "name": "folio",
+      "title": "Folio",
+      "description": "Net worth, holdings, activities and idle cash from every brokerage connected to SnapTrade, read-only.",
+      "author": "shayan_abedi",
+      "owner": null,
+      "contributors": 0,
+      "categories": [
+        "Finance"
+      ],
+      "manifestCategorized": true,
+      "platforms": [
+        "macOS"
+      ],
+      "store": "https://www.raycast.com/shayan_abedi/folio",
+      "source": "https://github.com/raycast/extensions/tree/main/extensions/folio",
+      "treeSha": "4ef624a8a96fcb7acc565b3270f07ca854138e85",
+      "downloads": 0
+    },
+    {
       "dir": "font-converter",
       "name": "font-converter",
       "title": "Font Converter",
@@ -22896,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 563841
+      "downloads": 563876
     },
     {
       "dir": "google-chrome-profiles",
@@ -29386,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 765082
+      "downloads": 765137
     },
     {
       "dir": "kimai",

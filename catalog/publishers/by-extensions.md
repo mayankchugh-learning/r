@@ -1,6 +1,6 @@
 # Publishers
 
-2240 publishers · [← catalog index](../README.md)
+2241 publishers · [← catalog index](../README.md)
 
 **Sort:** [Downloads](./README.md) · **Extensions**
 
@@ -19,7 +19,7 @@
 | 9 | [Aayush9029](./id/aayush9029.md) | 16 | 168,056 |
 | 10 | [ridemountainpig](./id/ridemountainpig.md) | 16 | 17,606 |
 | 11 | [0xdhrv](./id/0xdhrv.md) | 16 | 1,877 |
-| 12 | [thomas](./id/thomas.md) | 15 | 1,282,331 |
+| 12 | [thomas](./id/thomas.md) | 15 | 1,282,375 |
 | 13 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
 | 14 | [peduarte](./id/peduarte.md) | 14 | 28,617 |
 | 15 | [litomore](./id/litomore.md) | 13 | 14,279 |
@@ -207,7 +207,7 @@
 | 197 | [say4n](https://www.raycast.com/say4n) | 2 | 10,979 |
 | 198 | [Falcon](https://www.raycast.com/Falcon) | 2 | 10,975 |
 | 199 | [escwxyz](https://www.raycast.com/escwxyz) | 2 | 10,565 |
-| 200 | [aparandeh](https://www.raycast.com/aparandeh) | 2 | 10,132 |
+| 200 | [aparandeh](https://www.raycast.com/aparandeh) | 2 | 10,138 |
 | 201 | [mathieudutour](https://www.raycast.com/mathieudutour) | 2 | 9,859 |
 | 202 | [felixhaeberle](https://www.raycast.com/felixhaeberle) | 2 | 9,689 |
 | 203 | [yangxy](https://www.raycast.com/yangxy) | 2 | 9,447 |
@@ -401,8 +401,8 @@
 | 391 | [THEN00P](https://www.raycast.com/THEN00P) | 2 | 14 |
 | 392 | [jerichosequitin](https://www.raycast.com/jerichosequitin) | 2 | 5 |
 | 393 | github-next | 2 | — |
-| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,082 |
-| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 563,841 |
+| 394 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,137 |
+| 395 | [Codely](https://www.raycast.com/Codely) | 1 | 563,876 |
 | 396 | [linear](https://www.raycast.com/linear) | 1 | 397,613 |
 | 397 | [mommertf](https://www.raycast.com/mommertf) | 1 | 330,654 |
 | 398 | [nhojb](https://www.raycast.com/nhojb) | 1 | 289,625 |
@@ -2244,7 +2244,8 @@
 | 2234 | [Mr-MJ](https://www.raycast.com/Mr-MJ) | 1 | 0 |
 | 2235 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2236 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2237 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2238 | asyntai | 1 | — |
-| 2239 | eugenio | 1 | — |
-| 2240 | multi | 1 | — |
+| 2237 | [shayan_abedi](https://www.raycast.com/shayan_abedi) | 1 | 0 |
+| 2238 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2239 | asyntai | 1 | — |
+| 2240 | eugenio | 1 | — |
+| 2241 | multi | 1 | — |

@@ -1,8 +1,8 @@
 # macOS · Finance
 
-155 extensions · [← macOS](../README.md)
+156 extensions · [← macOS](../README.md)
 
-[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (18) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (20) · [General](#general) (32)
+[Crypto & Web3](#crypto-web3) (32) · [Stocks & Trading](#stocks-trading) (18) · [Currency & Exchange](#currency-exchange) (10) · [Business, Billing & Sales](#business-billing-sales) (26) · [Banking & Payments](#banking-payments) (8) · [Energy & Utility Prices](#energy-utility-prices) (2) · [Regional & Company Lookups](#regional-company-lookups) (7) · [Personal Finance & Budgeting](#personal-finance-budgeting) (20) · [General](#general) (33)
 
 ## Markets & Investing
 
@@ -209,3 +209,4 @@
 | [Defichain Lottery](https://github.com/raycast/extensions/tree/main/extensions/defichain-lottery) | 14 | Stats and your tickets for the Defichain Lottery | adrian-schnell | macOS | [store](https://www.raycast.com/adrian-schnell/defichain-lottery) |
 | [Sadaqah Box](https://github.com/raycast/extensions/tree/main/extensions/sadaqah-box) | 8 | Manage your charity boxes and sadaqahs | emircanerkul | macOS, Windows | [store](https://www.raycast.com/emircanerkul/sadaqah-box) |
 | [Figa](https://github.com/raycast/extensions/tree/main/extensions/figa) | 1 | Access your Figa workspace from Raycast. | figa | macOS, Windows | [store](https://www.raycast.com/figa/figa) |
+| [Folio](https://github.com/raycast/extensions/tree/main/extensions/folio) | 0 | Net worth, holdings, activities and idle cash from every brokerage connected to SnapTrade, read-only. | shayan_abedi | macOS | [store](https://www.raycast.com/shayan_abedi/folio) |

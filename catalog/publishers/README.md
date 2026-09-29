@@ -1,6 +1,6 @@
 # Publishers
 
-2240 publishers · [← catalog index](../README.md)
+2241 publishers · [← catalog index](../README.md)
 
 **Sort:** **Downloads** · [Extensions](./by-extensions.md)
 
@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,282,331 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,282,375 |
 | 2 | [raycast](./id/raycast.md) | 11 | 896,126 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,082 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,841 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,137 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 563,876 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,146 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,331 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 454,807 |
@@ -181,7 +181,7 @@
 | 171 | [escwxyz](https://www.raycast.com/escwxyz) | 2 | 10,565 |
 | 172 | [Yukai](./id/yukai.md) | 11 | 10,426 |
 | 173 | [manumorante](https://www.raycast.com/manumorante) | 1 | 10,208 |
-| 174 | [aparandeh](https://www.raycast.com/aparandeh) | 2 | 10,132 |
+| 174 | [aparandeh](https://www.raycast.com/aparandeh) | 2 | 10,138 |
 | 175 | [nchudleigh](https://www.raycast.com/nchudleigh) | 1 | 10,072 |
 | 176 | [yz3440](https://www.raycast.com/yz3440) | 1 | 9,983 |
 | 177 | [mathieudutour](https://www.raycast.com/mathieudutour) | 2 | 9,859 |
@@ -2243,8 +2243,9 @@
 | 2233 | [Mr-MJ](https://www.raycast.com/Mr-MJ) | 1 | 0 |
 | 2234 | [muhammadaljoufi](https://www.raycast.com/muhammadaljoufi) | 1 | 0 |
 | 2235 | [pedro_pt_thomaz](https://www.raycast.com/pedro_pt_thomaz) | 1 | 0 |
-| 2236 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
-| 2237 | github-next | 2 | — |
-| 2238 | asyntai | 1 | — |
-| 2239 | eugenio | 1 | — |
-| 2240 | multi | 1 | — |
+| 2236 | [shayan_abedi](https://www.raycast.com/shayan_abedi) | 1 | 0 |
+| 2237 | [waeckerlinfederowicz66-sketch](https://www.raycast.com/waeckerlinfederowicz66-sketch) | 1 | 0 |
+| 2238 | github-next | 2 | — |
+| 2239 | asyntai | 1 | — |
+| 2240 | eugenio | 1 | — |
+| 2241 | multi | 1 | — |
