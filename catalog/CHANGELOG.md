@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `a9193969c6`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-29 — upstream `c883476471`
 
 **Updated (1):** [Wispr Flow](https://github.com/raycast/extensions/tree/main/extensions/wispr-flow)
