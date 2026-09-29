@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-29 — upstream `5c41b1cb6a`
+
+**Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)
+
 ## 2026-09-29 — upstream `6d118065ec`
 
 **Added (1):** [Asyntai AI Chatbot](https://github.com/raycast/extensions/tree/main/extensions/asyntai)
