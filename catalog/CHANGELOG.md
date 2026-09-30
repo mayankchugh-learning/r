@@ -2,6 +2,10 @@
 
 Upstream changes detected by each sync run, newest first.
 
+## 2026-09-30 — upstream `2229d26c6c`
+
+**Updated (1):** [Aktar](https://github.com/raycast/extensions/tree/main/extensions/aktar)
+
 ## 2026-09-29 — upstream `c9c0bd7001`
 
 **Updated (1):** [Dokploy](https://github.com/raycast/extensions/tree/main/extensions/dokploy)

@@ -8,10 +8,10 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,283,721 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,284,043 |
 | 2 | [raycast](./id/raycast.md) | 11 | 897,063 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 765,696 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,306 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,024 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,546 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,655 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 488,908 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,243 |
@@ -140,7 +140,7 @@
 | 130 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,749 |
 | 131 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,592 |
 | 132 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 15,542 |
-| 133 | [frouo](https://www.raycast.com/frouo) | 1 | 15,280 |
+| 133 | [frouo](https://www.raycast.com/frouo) | 1 | 15,289 |
 | 134 | [tbrown](https://www.raycast.com/tbrown) | 1 | 15,193 |
 | 135 | [louishuyng](https://www.raycast.com/louishuyng) | 4 | 15,096 |
 | 136 | [ryan](https://www.raycast.com/ryan) | 1 | 14,838 |
