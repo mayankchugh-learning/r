@@ -10,8 +10,8 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Formula 1](https://github.com/raycast/extensions/tree/main/extensions/f1-standings) | 7,759 | List the current standings in Formula 1 | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/f1-standings) |
-| [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 3,211 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
+| [Formula 1](https://github.com/raycast/extensions/tree/main/extensions/f1-standings) | 7,765 | List the current standings in Formula 1 | csigritz | macOS, Windows | [store](https://www.raycast.com/csigritz/f1-standings) |
+| [Premier League](https://github.com/raycast/extensions/tree/main/extensions/premier-league) | 3,214 | Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/premier-league) |
 | [LaLiga](https://github.com/raycast/extensions/tree/main/extensions/laliga) | 690 | A comprehensive extension for tracking La Liga matches, standings, and club information. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/laliga) |
 | [Bundesliga](https://github.com/raycast/extensions/tree/main/extensions/bundesliga) | 384 | Stay up-to-date with the latest news, fixtures, results, and standings from the Bundesliga. | anhthang | macOS | [store](https://www.raycast.com/anhthang/bundesliga) |
 | [Lega Serie A](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) | 186 | Stay up-to-date with the latest scores, and standings from the Italian Serie A football league. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/serie-a) |
@@ -24,7 +24,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Ligue 1](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) | 222 | Staying up-to-date with the latest scores, and fixtures from the French top-flight football league in Raycast. | anhthang | macOS, Windows | [store](https://www.raycast.com/anhthang/ligue-1) |
-| [Fantasy Premier League](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) | 153 | See where you rank amongst in your league rivals in Fantasy Premier League within Raycast. | hwb | macOS | [store](https://www.raycast.com/hwb/fantasy-premier-league-rankings) |
+| [Fantasy Premier League](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) | 154 | See where you rank amongst in your league rivals in Fantasy Premier League within Raycast. | hwb | macOS | [store](https://www.raycast.com/hwb/fantasy-premier-league-rankings) |
 | [Ekstraklasa](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) | 32 | Stay up to date with the polish football league | szarbartosz | macOS | [store](https://www.raycast.com/szarbartosz/ekstraklasa) |
 | [League Stats](https://github.com/raycast/extensions/tree/main/extensions/league-stats) | 1 | Look up League of Legends players: ranked and recent win rates, recent matches with KDA, champions and items, and full match breakdowns. | mert_tufekci | macOS | [store](https://www.raycast.com/mert_tufekci/league-stats) |
 

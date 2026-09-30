@@ -26,13 +26,13 @@
 | [DolarCripto AR](https://github.com/raycast/extensions/tree/main/extensions/dolar-cripto-ar) | 23 | DolarCripto AR es una extensión para Raycast que te permite visualizar en tiempo real las cotizaciones de los diferentes dólares en Argentina (CCL, MEP y Blue)… | manuel_de_la_torre | macOS, Windows | [store](https://www.raycast.com/manuel_de_la_torre/dolar-cripto-ar) |
 | [Starling](https://github.com/raycast/extensions/tree/main/extensions/starling) | 23 | Securely manage Starling accounts with your own personal access token | lemikeone | macOS, Windows | [store](https://www.raycast.com/lemikeone/starling) |
 | [Kurslog](https://github.com/raycast/extensions/tree/main/extensions/kurslog) | 12 | Compare crypto exchange rates from 100+ exchangers in Ukraine and 100+ countries with best rates for USDT, BTC, ETH to fiat, cash, Payoneer, and more. | kurslog | macOS, Windows | [store](https://www.raycast.com/kurslog/kurslog) |
-| [Zerodha Portfolio (Kite+Coin)](https://github.com/raycast/extensions/tree/main/extensions/zerodha-portfolio-kite-coin) | 11 | View your zerodha kite and zerodha coin portfolio | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/zerodha-portfolio-kite-coin) |
+| [Zerodha Portfolio (Kite+Coin)](https://github.com/raycast/extensions/tree/main/extensions/zerodha-portfolio-kite-coin) | 12 | View your zerodha kite and zerodha coin portfolio | SandeepBaskaran | macOS, Windows | [store](https://www.raycast.com/SandeepBaskaran/zerodha-portfolio-kite-coin) |
 
 ### Currency & Exchange
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 19,803 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
+| [Currency Exchange](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) | 19,817 | Simple Currency Exchange with a selectable rate provider (ExchangeRate-API or UniRateAPI) | xeric | Windows, macOS | [store](https://www.raycast.com/xeric/currency-exchange) |
 | [monobank](https://github.com/raycast/extensions/tree/main/extensions/monobank) | 180 | View currency rates and all your accounts in monobank. | danulqua | macOS, Windows | [store](https://www.raycast.com/danulqua/monobank) |
 | [UniRate Currency](https://github.com/raycast/extensions/tree/main/extensions/unirate-currency) | 25 | Convert currencies and look up exchange rates for any date back to 1999, powered by UniRateAPI. | rob_brown96cc | Windows, macOS | [store](https://www.raycast.com/rob_brown96cc/unirate-currency) |
 | [Chinese Converter](https://github.com/raycast/extensions/tree/main/extensions/chinese-converter) | 7 | Convert number input into Chinese formatted text, including uppercase RMB amount text. | tofrankie | macOS, Windows | [store](https://www.raycast.com/tofrankie/chinese-converter) |
@@ -83,14 +83,14 @@
 | --- | --- | --- | --- | --- | --- |
 | [India Toolkit](https://github.com/raycast/extensions/tree/main/extensions/india-toolkit) | 19 | Quick India utilities — GST calculator, IFSC code lookup, and pincode lookup. | kur_ankur | macOS, Windows | [store](https://www.raycast.com/kur_ankur/india-toolkit) |
 | [NIF - Portugal Tax Number Lookup](https://github.com/raycast/extensions/tree/main/extensions/nif) | 11 | Search and verify Tax Identification Number (NIF) for Portuguese companies. | rgllm | macOS, Windows | [store](https://www.raycast.com/rgllm/nif) |
-| [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 7 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
+| [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) | 8 | Search the UK Companies House register — companies, officers, filings and charges. | aic | macOS, Windows | [store](https://www.raycast.com/aic/companies-house) |
 
 ### General
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 258,259 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
-| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,500 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
+| [ChatGPT](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) | 258,388 | Interact with OpenAI's ChatGPT directly from your command bar | abielzulio | macOS, Windows | [store](https://www.raycast.com/abielzulio/chatgpt) |
+| [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) | 6,501 | Copy correct typographic characters, like dashes, quote marks, and other special characters. | sawyerh | macOS, Windows | [store](https://www.raycast.com/sawyerh/type-snob) |
 | [GraphCalc](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) | 1,291 | GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortless… | conner_luzier | macOS, Windows | [store](https://www.raycast.com/conner_luzier/graphcalc) |
 | [FIX Helper](https://github.com/raycast/extensions/tree/main/extensions/fix-helper) | 28 | Quickly parse, analyze, and understand FIX messages with ease. | tianwg | macOS, Windows | [store](https://www.raycast.com/tianwg/fix-helper) |
 | [Metals Prices](https://github.com/raycast/extensions/tree/main/extensions/metals-prices) | 24 | Daily gold, silver, platinum and palladium prices per gram by purity, with 1, 3, 6, and 12-month averages. | noice_anas | macOS, Windows | [store](https://www.raycast.com/noice_anas/metals-prices) |

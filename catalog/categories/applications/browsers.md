@@ -4,10 +4,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 249,271 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
-| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 60,079 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
-| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 11,090 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
-| [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,590 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
+| [Arc](https://github.com/raycast/extensions/tree/main/extensions/arc) | 249,421 | Search and quickly navigate Arc's history and open tabs | the-browser-company (org) | macOS | [store](https://www.raycast.com/the-browser-company/arc) |
+| [Safari](https://github.com/raycast/extensions/tree/main/extensions/safari) | 60,117 | Manage your Safari Tabs, History and Reading List | loris | macOS | [store](https://www.raycast.com/loris/safari) |
+| [Browser History](https://github.com/raycast/extensions/tree/main/extensions/browser-history) | 11,101 | Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion, Sidekick and Helium. | crisboarna | macOS | [store](https://www.raycast.com/crisboarna/browser-history) |
+| [Incognito Clone](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) | 1,591 | Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. | kgrhartlage | macOS | [store](https://www.raycast.com/kgrhartlage/incognito-clone) |
 | [Defbro](https://github.com/raycast/extensions/tree/main/extensions/defbro) | 1,065 | Change the default browser quickly! | fernando_barrios | macOS | [store](https://www.raycast.com/fernando_barrios/defbro) |
 | [OSS Browser](https://github.com/raycast/extensions/tree/main/extensions/oss-browser) | 185 | Browse and manage Aliyun Object Storage Service | JinShi | macOS | [store](https://www.raycast.com/JinShi/oss-browser) |
 | [Firefox Tabs](https://github.com/raycast/extensions/tree/main/extensions/firefox-tabs) | 131 | Search and switch Firefox tabs from Raycast | stephen_lau | macOS | [store](https://www.raycast.com/stephen_lau/firefox-tabs) |

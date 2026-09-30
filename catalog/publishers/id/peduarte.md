@@ -1,13 +1,13 @@
 # peduarte
 
-14 extensions · 28,662 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
+14 extensions · 28,697 downloads · [store](https://www.raycast.com/peduarte) · [← publishers](../README.md)
 
 ## Fun (4)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [1-Click Confetti](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) | 5,871 | Confetti Gun with just 1 click. | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/1-click-confetti) |
-| [Fancy Text](https://github.com/raycast/extensions/tree/main/extensions/fancy-text) | 5,853 | A fancy text generator to turn your normal text into fancy text | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/fancy-text) |
+| [1-Click Confetti](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) | 5,876 | Confetti Gun with just 1 click. | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/1-click-confetti) |
+| [Fancy Text](https://github.com/raycast/extensions/tree/main/extensions/fancy-text) | 5,855 | A fancy text generator to turn your normal text into fancy text | peduarte | macOS, Windows | [store](https://www.raycast.com/peduarte/fancy-text) |
 | [Open Camera Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/open-camera-menu-bar) | 1,936 | Open the camera command from the menu bar | peduarte | macOS | [store](https://www.raycast.com/peduarte/open-camera-menu-bar) |
 | [Restore Photos](https://github.com/raycast/extensions/tree/main/extensions/restore-photo) | 803 | Restore old photos using AI. Powered by https://restorephotos.io. | peduarte | macOS | [store](https://www.raycast.com/peduarte/restore-photos) |
 
@@ -15,15 +15,15 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 8,498 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
+| [Hide All Apps](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) | 8,521 | This extension hides all Applications—including Finder—leaving you with only the Desktop. | peduarte | macOS | [store](https://www.raycast.com/peduarte/hide-all-apps) |
 
 ## Web (6)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 2,035 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
+| [Silent Mention](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) | 2,038 | Silently mention a handle, a URL or a hashtag. | peduarte | Windows, macOS | [store](https://www.raycast.com/peduarte/silent-mention) |
 | [Web3 Profile](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) | 444 | Search for ENS names and view its profile — Avatar, description, social URLs and more! | peduarte | macOS | [store](https://www.raycast.com/peduarte/web3-profile) |
-| [Ethereum Price](https://github.com/raycast/extensions/tree/main/extensions/ethereum-price) | 279 | See the current price of Ethereum in various currencies. | peduarte | macOS | [store](https://www.raycast.com/peduarte/ethereum-price) |
+| [Ethereum Price](https://github.com/raycast/extensions/tree/main/extensions/ethereum-price) | 280 | See the current price of Ethereum in various currencies. | peduarte | macOS | [store](https://www.raycast.com/peduarte/ethereum-price) |
 | [Lenscast](https://github.com/raycast/extensions/tree/main/extensions/lenscast) | 111 | Web3 Social Raycast Extension built with Lens Protocol | peduarte | macOS | [store](https://www.raycast.com/peduarte/lenscast) |
 | [Nouns](https://github.com/raycast/extensions/tree/main/extensions/nouns) | 79 | Explore the Nouns Ecosystem. | peduarte | macOS | [store](https://www.raycast.com/peduarte/nouns) |
 | [TinyFaces NFT](https://github.com/raycast/extensions/tree/main/extensions/tinyfaces-nft) | 37 | Explore the TinyFaces NFT Collection | peduarte | macOS | [store](https://www.raycast.com/peduarte/tinyfaces-nft) |
@@ -33,7 +33,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Dash Off](https://github.com/raycast/extensions/tree/main/extensions/dash-off) | 1,149 | The fastest way to dash off a quick email to yourself and others | peduarte | macOS | [store](https://www.raycast.com/peduarte/dash-off) |
-| [Descript to YouTube Chapters](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) | 426 | Convert Descript's transcript file into YouTube Chapters | peduarte | macOS | [store](https://www.raycast.com/peduarte/descript-to-youtube-chapters) |
+| [Descript to YouTube Chapters](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) | 427 | Convert Descript's transcript file into YouTube Chapters | peduarte | macOS | [store](https://www.raycast.com/peduarte/descript-to-youtube-chapters) |
 
 ## Uncategorized (1)
 
