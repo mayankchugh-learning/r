@@ -1,6 +1,6 @@
 # alexi.build
 
-18 extensions · 2,245 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
+18 extensions · 2,252 downloads · [store](https://www.raycast.com/alexi.build) · [← publishers](../README.md)
 
 ## Uncategorized (2)
 
@@ -14,8 +14,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Leader Key](https://github.com/raycast/extensions/tree/main/extensions/leader-key) | 217 | Search and trigger Leader Key shortcuts by alias, label, or value. | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/leader-key) |
-| [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 123 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
-| [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 46 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
+| [Share a Quote](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) | 124 | Copy selected text as a formatted quote with source link | alexi.build | macOS | [store](https://www.raycast.com/alexi.build/share-a-quote) |
+| [Paste Safely](https://github.com/raycast/extensions/tree/main/extensions/paste-safely) | 47 | Paste with per-app and per-website confirmation policies | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/paste-safely) |
 
 ## Communication (1)
 
@@ -28,8 +28,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Code Wiki](https://github.com/raycast/extensions/tree/main/extensions/code-wiki) | 194 | Code Wiki - A new perspective on development for the agentic era. Gemini-generated documentation, always up-to-date. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/code-wiki) |
-| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 70 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
-| [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer) | 11 | Collect URL patterns and copy them as an implementation prompt. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/url-designer) |
+| [Sitemap](https://github.com/raycast/extensions/tree/main/extensions/sitemap) | 71 | Search any website's sitemap and quickly open or copy its pages. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/sitemap) |
+| [URL Designer](https://github.com/raycast/extensions/tree/main/extensions/url-designer) | 12 | Collect URL patterns and copy them as an implementation prompt. | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/url-designer) |
 
 ## Applications (1)
 
@@ -48,13 +48,13 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | 118 | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
+| [RAM Prices](https://github.com/raycast/extensions/tree/main/extensions/ram-prices) | 119 | Track DDR4 and DDR5 market pricing from RamRadar. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/ram-prices) |
 
 ## Web (1)
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 85 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
+| [Similarweb](https://github.com/raycast/extensions/tree/main/extensions/similarweb) | 86 | Fetch Similarweb-style website insights and browse stored snapshots. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/similarweb) |
 
 ## Documentation (1)
 
@@ -73,4 +73,4 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [TrustMRR](https://github.com/raycast/extensions/tree/main/extensions/trustmrr) | 25 | Browse TrustMRR startups and inspect detailed metrics. | alexi.build | macOS, Windows | [store](https://www.raycast.com/alexi.build/trustmrr) |
-| [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 10 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |
+| [FreeToGame](https://github.com/raycast/extensions/tree/main/extensions/freetogame) | 11 | Discover the best free-to-play PC games! | alexi.build | Windows, macOS | [store](https://www.raycast.com/alexi.build/freetogame) |

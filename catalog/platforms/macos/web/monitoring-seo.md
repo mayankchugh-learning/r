@@ -7,9 +7,9 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [XKCD Comics](https://github.com/raycast/extensions/tree/main/extensions/xkcd) | 4,950 | Browse the xkcd comics and keep track of the ones you've read. | maggie | macOS, Windows | [store](https://www.raycast.com/maggie/xkcd) |
-| [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | 3,742 | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |
+| [Flight Tracker](https://github.com/raycast/extensions/tree/main/extensions/trackflight) | 3,743 | Track your flight with your flight number by using AeroData Box API directly in Raycast. | cojmeister | macOS | [store](https://www.raycast.com/cojmeister/trackflight) |
 | [Web Audit](https://github.com/raycast/extensions/tree/main/extensions/web-audit) | 2,515 | Find SEO related data of any given webpage. | flornkm | macOS | [store](https://www.raycast.com/flornkm/web-audit) |
-| [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | 917 | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |
+| [Open Graph](https://github.com/raycast/extensions/tree/main/extensions/open-graph) | 919 | Preview Open Graph meta tags of a website | 1weiho | macOS, Windows | [store](https://www.raycast.com/1weiho/open-graph) |
 | [Better Uptime](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) | 772 | Check on your Better Uptime monitors, incidents and heartbeats. | andreaselia | macOS | [store](https://www.raycast.com/andreaselia/better-uptime) |
 | [Proton Version](https://github.com/raycast/extensions/tree/main/extensions/proton-version) | 715 | Keep track of the lastest version of Proton products | flavien.bonvin | macOS | [store](https://www.raycast.com/flavien.bonvin/proton-version) |
 | [Pagespeed](https://github.com/raycast/extensions/tree/main/extensions/pagespeed) | 626 | A simple extension that reports page speed insights based on page-speed.dev | vorillaz | macOS | [store](https://www.raycast.com/vorillaz/pagespeed) |

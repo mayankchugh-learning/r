@@ -6,10 +6,10 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 29,612 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
-| [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) | 2,694 | Search your code and public repositories with Sourcegraph. | bobheadxi | macOS | [store](https://www.raycast.com/bobheadxi/sourcegraph) |
-| [Tower Repositories](https://github.com/raycast/extensions/tree/main/extensions/tower) | 2,625 | Navigate and open your repositories in Tower. | tdwesten | macOS | [store](https://www.raycast.com/tdwesten/tower) |
-| [Fork Repositories](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) | 2,257 | Search and open Fork repositories | sxn | macOS, Windows | [store](https://www.raycast.com/sxn/fork-repositories) |
+| [Git Repos](https://github.com/raycast/extensions/tree/main/extensions/git-repos) | 29,629 | Quickly access your local git repositories and open them in your favorite editor or any app | moored | macOS, Windows | [store](https://www.raycast.com/moored/git-repos) |
+| [Sourcegraph](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) | 2,695 | Search your code and public repositories with Sourcegraph. | bobheadxi | macOS | [store](https://www.raycast.com/bobheadxi/sourcegraph) |
+| [Tower Repositories](https://github.com/raycast/extensions/tree/main/extensions/tower) | 2,626 | Navigate and open your repositories in Tower. | tdwesten | macOS | [store](https://www.raycast.com/tdwesten/tower) |
+| [Fork Repositories](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) | 2,258 | Search and open Fork repositories | sxn | macOS, Windows | [store](https://www.raycast.com/sxn/fork-repositories) |
 | [Azure DevOps Repositories Search](https://github.com/raycast/extensions/tree/main/extensions/ado-search) | 813 | Search through Azure DevOps git repositories and find open Pull Requests | willem_van_lent | macOS, Windows | [store](https://www.raycast.com/willem_van_lent/ado-search) |
 | [Repo Launcher](https://github.com/raycast/extensions/tree/main/extensions/repo-launcher) | 466 | Launch code repositories in various applications and on GitHub.com, targeted primarily at developers. | gksander | macOS | [store](https://www.raycast.com/gksander/repo-launcher) |
 | [Gitfox Repositories](https://github.com/raycast/extensions/tree/main/extensions/gitfox) | 433 | Navigate and open your repositories in Gitfox. | azlekov | macOS | [store](https://www.raycast.com/azlekov/gitfox) |

@@ -5,8 +5,8 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Midjourney](https://github.com/raycast/extensions/tree/main/extensions/midjourney) | 3,279 | Interact with Midjourney right from your command bar | carter | macOS | [store](https://www.raycast.com/carter/midjourney) |
-| [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,308 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
-| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background---replicate-api) | 1,030 | Remove image backgrounds instantly using AI Powered by Replicate | NathanThomassin | macOS, Windows | [store](https://www.raycast.com/NathanThomassin/remove-background---replicate-api) |
+| [Context.dev (formerly Brand.dev)](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) | 1,309 | Web Scraping & Crawl API for AI Agents | xmok | macOS | [store](https://www.raycast.com/xmok/brand-dev) |
+| [Remove Background](https://github.com/raycast/extensions/tree/main/extensions/remove-background---replicate-api) | 1,032 | Remove image backgrounds instantly using AI Powered by Replicate | NathanThomassin | macOS, Windows | [store](https://www.raycast.com/NathanThomassin/remove-background---replicate-api) |
 | [AI Screenshot](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) | 866 | Modify screen captures using the latest generative AI models. | jochemloedeman | macOS | [store](https://www.raycast.com/jochemloedeman/ai-screenshot) |
 | [Stablecog](https://github.com/raycast/extensions/tree/main/extensions/stablecog) | 766 | Create amazing art in seconds with AI. Generate and upscale images with Stablecog. | stablecog (org) | macOS | [store](https://www.raycast.com/stablecog/stablecog) |
 | [Replicate](https://github.com/raycast/extensions/tree/main/extensions/replicate) | 606 | Run Replicate's AI models from Raycast, and use them in Raycast AI chats. | KevinBatdorf | macOS, Windows | [store](https://www.raycast.com/KevinBatdorf/replicate) |
