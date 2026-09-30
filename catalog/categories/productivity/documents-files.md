@@ -46,7 +46,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 3,308 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
+| [Lark Documents](https://github.com/raycast/extensions/tree/main/extensions/lark) | 3,310 | Quickly search documents from Feishu/Lark. | tmk | macOS | [store](https://www.raycast.com/tmk/lark) |
 | [Paperless-ngx](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) | 1,080 | Search Paperless-ngx for documents and upload | damdam | macOS | [store](https://www.raycast.com/damdam/paperless-ngx) |
 | [Feishu Document Creator](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) | 722 | Create Feishu/Lark online document quickly using native Feishu/Lark URLs. | rokcso | macOS | [store](https://www.raycast.com/rokcso/feishu-document-creator) |
 | [Format GraphQL](https://github.com/raycast/extensions/tree/main/extensions/format-graphql) | 576 | Formats a GraphQL document | tngranados | macOS | [store](https://www.raycast.com/tngranados/format-graphql) |

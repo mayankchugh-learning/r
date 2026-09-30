@@ -72,7 +72,7 @@
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
 | [Google Workspace](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) | 60,261 | Access Google Drive files | raycast (org) | macOS, Windows | [store](https://www.raycast.com/raycast/google-workspace) |
-| [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 5,187 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
+| [Keyboard Layout Switcher](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) | 5,188 | Extension to switch keyboard layouts | lucaschultz | macOS | [store](https://www.raycast.com/lucaschultz/input-switcher) |
 | [Fabric](https://github.com/raycast/extensions/tree/main/extensions/fabric) | 2,246 | Quickly search and create in Fabric's intelligent workspace. | fbrc (org) | macOS, Windows | [store](https://www.raycast.com/fbrc/fabric) |
 | [Sketch](https://github.com/raycast/extensions/tree/main/extensions/sketch) | 983 | Frictionless Workspace Browsing | aesign | macOS | [store](https://www.raycast.com/aesign/sketch) |
 | [Punto Switcher](https://github.com/raycast/extensions/tree/main/extensions/punto) | 746 | Changes the layout of selected text. Requires Accessibility access | red.avtovo | macOS | [store](https://www.raycast.com/red.avtovo/punto) |

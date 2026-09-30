@@ -12,7 +12,7 @@
 | [Apple Mail](https://github.com/raycast/extensions/tree/main/extensions/mail) | 46,119 | Extension for Apple Mail. | yug2005 | macOS | [store](https://www.raycast.com/yug2005/mail) |
 | [iTerm](https://github.com/raycast/extensions/tree/main/extensions/iterm) | 43,384 | Control iTerm with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/iterm) |
 | [Apple Intelligence](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) | 38,549 | Use Apple Intelligence from the comfort of Raycast. | EvanZhouDev | macOS | [store](https://www.raycast.com/EvanZhouDev/raycast-apple-intelligence) |
-| [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | 20,668 | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |
+| [Mole](https://github.com/raycast/extensions/tree/main/extensions/mole) | 20,692 | Deep clean and optimize your Mac | jlrochin | macOS | [store](https://www.raycast.com/jlrochin/mole) |
 | [Terminal](https://github.com/raycast/extensions/tree/main/extensions/terminal) | 14,860 | Control Terminal with Raycast | ron-myers | macOS | [store](https://www.raycast.com/ron-myers/terminal) |
 | [Rectangle](https://github.com/raycast/extensions/tree/main/extensions/rectangle) | 12,792 | Integration with Rectangle | crickford | macOS | [store](https://www.raycast.com/crickford/rectangle) |
 | [Remove Background - Powered by Mac](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) | 11,178 | Remove background from image with the Mac Vision API | xmorse | macOS | [store](https://www.raycast.com/xmorse/remove-background-powered-by-mac) |

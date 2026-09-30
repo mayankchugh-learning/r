@@ -36,7 +36,7 @@
 | [saunter](https://www.raycast.com/saunter) | 1 | 132 | **Finance:** [Vortex](https://github.com/raycast/extensions/tree/main/extensions/vortex) |
 | [saury](https://www.raycast.com/saury) | 1 | 19 | **Developer Tools:** [Image Hash Rename](https://github.com/raycast/extensions/tree/main/extensions/image-hash-rename) |
 | [sawyerh](https://www.raycast.com/sawyerh) | 1 | 6,500 | **Data:** [Type Snob](https://github.com/raycast/extensions/tree/main/extensions/type-snob) |
-| [say4n](https://www.raycast.com/say4n) | 2 | 10,997 | **Productivity:** [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search)<br>**System:** [Metal Performance HUD](https://github.com/raycast/extensions/tree/main/extensions/performance-hud) |
+| [say4n](https://www.raycast.com/say4n) | 2 | 10,998 | **Productivity:** [Mac App Store Search](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search)<br>**System:** [Metal Performance HUD](https://github.com/raycast/extensions/tree/main/extensions/performance-hud) |
 | [sbugzhu](https://www.raycast.com/sbugzhu) | 1 | 4,537 | **Applications:** [Wireguard](https://github.com/raycast/extensions/tree/main/extensions/wireguard) |
 | [sc0](https://www.raycast.com/sc0) | 1 | 3,708 | **Productivity:** [Antinote](https://github.com/raycast/extensions/tree/main/extensions/antinote) |
 | [scisaif](https://www.raycast.com/scisaif) | 2 | 218 | **Developer Tools:** [UploaderX](https://github.com/raycast/extensions/tree/main/extensions/uploaderx)<br>**Uncategorized:** [DB Schema Explorer](https://github.com/raycast/extensions/tree/main/extensions/db-schema-explorer) |

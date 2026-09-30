@@ -1,8 +1,8 @@
 {
   "upstream": "https://github.com/raycast/extensions",
-  "commit": "30296ed2e3a21b3575567fc1fcfa3c1abd91397b",
-  "generatedAt": "2026-09-30T09:13:57.924Z",
-  "downloadsRefreshedAt": "2026-09-30T09:13:57.458Z",
+  "commit": "f2573362265d7a253e65cd37d8758e8e11d33144",
+  "generatedAt": "2026-09-30T10:01:57.235Z",
+  "downloadsRefreshedAt": "2026-09-30T10:01:56.846Z",
   "count": 3341,
   "extensions": [
     {
@@ -10228,7 +10228,7 @@
       "store": "https://www.raycast.com/thomas/color-picker",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/color-picker",
       "treeSha": "55326586c5eb04d67296662f33d38460c3083800",
-      "downloads": 607588
+      "downloads": 607641
     },
     {
       "dir": "color-shades",
@@ -21616,7 +21616,7 @@
       ],
       "store": "https://www.raycast.com/josephschmitt/gif-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/gif-search",
-      "treeSha": "f5ccbef57ee3dad00e817df43c2c1d1ab1f93096",
+      "treeSha": "fd35dc22321c81d0557687559b81159c2bd86990",
       "downloads": 106025
     },
     {
@@ -22916,7 +22916,7 @@
       "store": "https://www.raycast.com/Codely/google-chrome",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/google-chrome",
       "treeSha": "d852a7dcf30ff3f5066e727846dbf3c2fee900ce",
-      "downloads": 564845
+      "downloads": 564890
     },
     {
       "dir": "google-chrome-profiles",
@@ -28267,7 +28267,7 @@
       "store": "https://www.raycast.com/HerbertLu/json-editor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/json-editor",
       "treeSha": "50a5b98e8993072a47ae44d2185bc639ad58bae7",
-      "downloads": 5001
+      "downloads": 5002
     },
     {
       "dir": "json-format",
@@ -28794,7 +28794,7 @@
       "store": "https://www.raycast.com/http.james/kagi-fastgpt",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kagi-fastgpt",
       "treeSha": "eb6727fcf05d04d4ddec9bfda3a122938036b384",
-      "downloads": 2155
+      "downloads": 2156
     },
     {
       "dir": "kagi-news",
@@ -29214,7 +29214,7 @@
       "store": "https://www.raycast.com/lucaschultz/input-switcher",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher",
       "treeSha": "7c38dbd322059570e83f81ee6fdf72b23509cab4",
-      "downloads": 5187
+      "downloads": 5188
     },
     {
       "dir": "keyboard-maestro",
@@ -29406,7 +29406,7 @@
       "store": "https://www.raycast.com/rolandleth/kill-process",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kill-process",
       "treeSha": "5b82f3c4687c5c7db9a8dc3c8ba37c01e54fd46b",
-      "downloads": 766427
+      "downloads": 766482
     },
     {
       "dir": "kimai",
@@ -29597,7 +29597,7 @@
       "store": "https://www.raycast.com/henrikruscon/klack",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/klack",
       "treeSha": "40bd4e1a30fd40d08ca6d5040532b2d9540b422d",
-      "downloads": 3067
+      "downloads": 3069
     },
     {
       "dir": "klu-ai",
@@ -29866,7 +29866,7 @@
       "store": "https://www.raycast.com/ChrisKohler/kubens",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/kubens",
       "treeSha": "ec187f46a5a063d56e04966faaca0d6d5e01dfde",
-      "downloads": 853
+      "downloads": 854
     },
     {
       "dir": "kubernetes",
@@ -30231,7 +30231,7 @@
       "store": "https://www.raycast.com/KevinBatdorf/laravel-forge",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/laravel-forge",
       "treeSha": "6a7d856924fe9795902efc8633f303bf295d201e",
-      "downloads": 1559
+      "downloads": 1560
     },
     {
       "dir": "laravel-herd",
@@ -30424,7 +30424,7 @@
       "store": "https://www.raycast.com/tmk/lark",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/lark",
       "treeSha": "fb36506372398cb652948b8077eb68d2d912a7c7",
-      "downloads": 3308
+      "downloads": 3310
     },
     {
       "dir": "lark-applink",
@@ -30487,7 +30487,7 @@
       "store": "https://www.raycast.com/alex-popov-tech/lastpass",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/lastpass",
       "treeSha": "ee112cf88400b03a9db5ac251433864e2356ba3e",
-      "downloads": 2848
+      "downloads": 2850
     },
     {
       "dir": "later",
@@ -30634,7 +30634,7 @@
       "store": "https://www.raycast.com/wesbaker/launchd-monitor",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor",
       "treeSha": "403a92f144bae87cf02d4ad77d56509c0d6b8e70",
-      "downloads": 166
+      "downloads": 167
     },
     {
       "dir": "launchdarkly",
@@ -31448,7 +31448,7 @@
       "store": "https://www.raycast.com/linear/linear",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/linear",
       "treeSha": "ce91ff24ec8865fdbdd1c19b3b452dc550edeed7",
-      "downloads": 398493
+      "downloads": 398652
     },
     {
       "dir": "lingo-rep-raycast",
@@ -32227,7 +32227,7 @@
       "store": "https://www.raycast.com/futantan/logseq",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/logseq",
       "treeSha": "1bc7b4a8adc872d5c39173216f56060d4e5751c9",
-      "downloads": 8144
+      "downloads": 8145
     },
     {
       "dir": "logsnag",
@@ -32821,7 +32821,7 @@
       "store": "https://www.raycast.com/say4n/mac-app-store-search",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search",
       "treeSha": "afde74f43aab1f967bdb25783e1895fd84fa10da",
-      "downloads": 9929
+      "downloads": 9930
     },
     {
       "dir": "mac-mouse-fix",
@@ -33507,7 +33507,7 @@
       "store": "https://www.raycast.com/KthKuang/manus",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/manus",
       "treeSha": "560c777193a34d337ca82671837949bc1b9f76e5",
-      "downloads": 192
+      "downloads": 193
     },
     {
       "dir": "manus-manager",
@@ -33825,7 +33825,7 @@
       "store": "https://www.raycast.com/Visual-Studio-Coder/markdown-table-generator",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator",
       "treeSha": "db00ac5772d3228c0ab717aaae9ad8e0870088fd",
-      "downloads": 1739
+      "downloads": 1740
     },
     {
       "dir": "markdown-this",
@@ -34286,7 +34286,7 @@
       "store": "https://www.raycast.com/wu.eth/md-to-excel",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/md-to-excel",
       "treeSha": "9d7dd754d48ab242d0ee4555ec8d8066b76faae1",
-      "downloads": 769
+      "downloads": 770
     },
     {
       "dir": "mealie",
@@ -35106,7 +35106,7 @@
       "store": "https://www.raycast.com/crisboarna/microsoft-azure",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure",
       "treeSha": "312720bca4a222dbba00dff06cde7a82175fbe73",
-      "downloads": 2715
+      "downloads": 2716
     },
     {
       "dir": "microsoft-edge",
@@ -35638,7 +35638,7 @@
       "store": "https://www.raycast.com/felixhaeberle/miro",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/miro",
       "treeSha": "74d1a41a387c4dc9e523d3296f8cb48e37550256",
-      "downloads": 3321
+      "downloads": 3322
     },
     {
       "dir": "mirror-displays",
@@ -36136,7 +36136,7 @@
       "store": "https://www.raycast.com/jlrochin/mole",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/mole",
       "treeSha": "05c27045ec1aab3c2abb383e8058df7bbdcc6528",
-      "downloads": 20668
+      "downloads": 20692
     },
     {
       "dir": "mollie-for-raycast",
@@ -36971,7 +36971,7 @@
       "store": "https://www.raycast.com/fedevitaledev/music",
       "source": "https://github.com/raycast/extensions/tree/main/extensions/music",
       "treeSha": "0e0fc11a407cf0d7e1f82e4b0c47ed8040503cea",
-      "downloads": 100229
+      "downloads": 100251
     },
     {
       "dir": "music-assistant-controls",

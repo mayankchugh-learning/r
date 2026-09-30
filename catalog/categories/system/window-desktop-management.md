@@ -40,7 +40,7 @@
 | [Pins](https://github.com/raycast/extensions/tree/main/extensions/pins) | 4,675 | Create pins for paths and URLs and display them in the menu bar | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/pins) |
 | [Battery Menu Bar](https://github.com/raycast/extensions/tree/main/extensions/battery-menubar) | 2,185 | Battery capacity and power-draw information in the Menu Bar | panrafal | macOS | [store](https://www.raycast.com/panrafal/battery-menubar) |
 | [Thaw](https://github.com/raycast/extensions/tree/main/extensions/thaw) | 1,212 | Thaw menu bar manager for Raycast | diazdesandi | macOS | [store](https://www.raycast.com/diazdesandi/thaw) |
-| [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 166 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
+| [Launchd Monitor](https://github.com/raycast/extensions/tree/main/extensions/launchd-monitor) | 167 | Monitor your macOS launchd jobs from the menu bar. See job status, last run times, failures, and re-run jobs on demand. | wesbaker | macOS | [store](https://www.raycast.com/wesbaker/launchd-monitor) |
 
 ## Space ✦
 

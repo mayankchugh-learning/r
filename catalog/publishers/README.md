@@ -8,14 +8,14 @@
 
 | # | Publisher | Extensions | Downloads |
 | --- | --- | --- | --- |
-| 1 | [thomas](./id/thomas.md) | 15 | 1,284,893 |
+| 1 | [thomas](./id/thomas.md) | 15 | 1,284,946 |
 | 2 | [raycast](./id/raycast.md) | 11 | 897,749 |
-| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,427 |
-| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,845 |
+| 3 | [rolandleth](https://www.raycast.com/rolandleth) | 1 | 766,482 |
+| 4 | [Codely](https://www.raycast.com/Codely) | 1 | 564,890 |
 | 5 | [gebeto](https://www.raycast.com/gebeto) | 3 | 492,967 |
 | 6 | [mattisssa](https://www.raycast.com/mattisssa) | 3 | 489,246 |
 | 7 | [tonka3000](./id/tonka3000.md) | 14 | 455,555 |
-| 8 | [linear](https://www.raycast.com/linear) | 1 | 398,493 |
+| 8 | [linear](https://www.raycast.com/linear) | 1 | 398,652 |
 | 9 | [vimtor](./id/vimtor.md) | 16 | 334,937 |
 | 10 | [mommertf](https://www.raycast.com/mommertf) | 1 | 331,407 |
 | 11 | [nhojb](https://www.raycast.com/nhojb) | 1 | 290,128 |
@@ -38,7 +38,7 @@
 | 28 | [AntonNiklasson](https://www.raycast.com/AntonNiklasson) | 3 | 116,074 |
 | 29 | [warpdotdev](https://www.raycast.com/warpdotdev) | 1 | 114,654 |
 | 30 | [erics118](https://www.raycast.com/erics118) | 3 | 106,112 |
-| 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 105,405 |
+| 31 | [fedevitaledev](https://www.raycast.com/fedevitaledev) | 3 | 105,427 |
 | 32 | [pernielsentikaer](./id/pernielsentikaer.md) | 21 | 102,986 |
 | 33 | [HelloImSteven](https://www.raycast.com/HelloImSteven) | 9 | 102,412 |
 | 34 | [GastroGeek](https://www.raycast.com/GastroGeek) | 6 | 101,979 |
@@ -49,7 +49,7 @@
 | 39 | [ike-gg](https://www.raycast.com/ike-gg) | 1 | 77,888 |
 | 40 | [FezVrasta](https://www.raycast.com/FezVrasta) | 5 | 77,775 |
 | 41 | [benvp](https://www.raycast.com/benvp) | 1 | 75,549 |
-| 42 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 68,612 |
+| 42 | [lucaschultz](https://www.raycast.com/lucaschultz) | 4 | 68,613 |
 | 43 | [third774](https://www.raycast.com/third774) | 3 | 67,978 |
 | 44 | [Kang](https://www.raycast.com/Kang) | 3 | 66,169 |
 | 45 | [jomifepe](https://www.raycast.com/jomifepe) | 1 | 65,650 |
@@ -80,7 +80,7 @@
 | 70 | [florisdobber](https://www.raycast.com/florisdobber) | 1 | 37,467 |
 | 71 | [Melvynx](https://www.raycast.com/Melvynx) | 1 | 37,276 |
 | 72 | [vitoorgomes](https://www.raycast.com/vitoorgomes) | 1 | 36,785 |
-| 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 36,119 |
+| 73 | [crisboarna](https://www.raycast.com/crisboarna) | 8 | 36,120 |
 | 74 | [dziad](https://www.raycast.com/dziad) | 1 | 36,035 |
 | 75 | [jmaeso](https://www.raycast.com/jmaeso) | 1 | 35,390 |
 | 76 | [reckoning-dev](https://www.raycast.com/reckoning-dev) | 4 | 33,427 |
@@ -91,7 +91,7 @@
 | 81 | [petr](https://www.raycast.com/petr) | 2 | 30,403 |
 | 82 | [fuksman](https://www.raycast.com/fuksman) | 2 | 30,106 |
 | 83 | [moored](https://www.raycast.com/moored) | 1 | 29,629 |
-| 84 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 29,580 |
+| 84 | [Visual-Studio-Coder](./id/visual-studio-coder.md) | 17 | 29,581 |
 | 85 | [leandro.maia](https://www.raycast.com/leandro.maia) | 2 | 29,510 |
 | 86 | [djpowers](https://www.raycast.com/djpowers) | 4 | 28,976 |
 | 87 | [jonathangiardino](https://www.raycast.com/jonathangiardino) | 2 | 28,752 |
@@ -120,7 +120,7 @@
 | 110 | [Alex_](https://www.raycast.com/Alex_) | 1 | 21,157 |
 | 111 | [xeric](https://www.raycast.com/xeric) | 2 | 21,025 |
 | 112 | [timothy_boye](https://www.raycast.com/timothy_boye) | 1 | 20,934 |
-| 113 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,668 |
+| 113 | [jlrochin](https://www.raycast.com/jlrochin) | 1 | 20,692 |
 | 114 | [mmazzarolo](https://www.raycast.com/mmazzarolo) | 1 | 20,496 |
 | 115 | [JinShi](https://www.raycast.com/JinShi) | 4 | 20,472 |
 | 116 | [ViGeng](https://www.raycast.com/ViGeng) | 9 | 19,327 |
@@ -136,7 +136,7 @@
 | 126 | [SvenTiigi](https://www.raycast.com/SvenTiigi) | 1 | 16,815 |
 | 127 | [kom](https://www.raycast.com/kom) | 1 | 16,714 |
 | 128 | [k8scat](https://www.raycast.com/k8scat) | 6 | 16,236 |
-| 129 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 15,941 |
+| 129 | [KevinBatdorf](https://www.raycast.com/KevinBatdorf) | 7 | 15,942 |
 | 130 | [fturcheti](https://www.raycast.com/fturcheti) | 1 | 15,758 |
 | 131 | [millin_gabani](https://www.raycast.com/millin_gabani) | 1 | 15,603 |
 | 132 | [franzwilhelm](https://www.raycast.com/franzwilhelm) | 2 | 15,551 |
@@ -172,7 +172,7 @@
 | 162 | [elliotdes](https://www.raycast.com/elliotdes) | 1 | 11,251 |
 | 163 | [j3lte](./id/j3lte.md) | 13 | 11,177 |
 | 164 | [github](https://www.raycast.com/github) | 1 | 11,094 |
-| 165 | [say4n](https://www.raycast.com/say4n) | 2 | 10,997 |
+| 165 | [say4n](https://www.raycast.com/say4n) | 2 | 10,998 |
 | 166 | [Falcon](https://www.raycast.com/Falcon) | 2 | 10,988 |
 | 167 | [zavbala](https://www.raycast.com/zavbala) | 3 | 10,789 |
 | 168 | [andresmorelos](https://www.raycast.com/andresmorelos) | 3 | 10,752 |
@@ -186,7 +186,7 @@
 | 176 | [yz3440](https://www.raycast.com/yz3440) | 1 | 9,996 |
 | 177 | [mathieudutour](https://www.raycast.com/mathieudutour) | 2 | 9,874 |
 | 178 | [johndturn](https://www.raycast.com/johndturn) | 1 | 9,730 |
-| 179 | [felixhaeberle](https://www.raycast.com/felixhaeberle) | 2 | 9,699 |
+| 179 | [felixhaeberle](https://www.raycast.com/felixhaeberle) | 2 | 9,700 |
 | 180 | [dutzi](https://www.raycast.com/dutzi) | 1 | 9,691 |
 | 181 | [keito4](https://www.raycast.com/keito4) | 6 | 9,548 |
 | 182 | [chyroc](https://www.raycast.com/chyroc) | 5 | 9,536 |
@@ -199,7 +199,7 @@
 | 189 | [tiancheng92](https://www.raycast.com/tiancheng92) | 2 | 9,079 |
 | 190 | [chrahe](https://www.raycast.com/chrahe) | 1 | 9,074 |
 | 191 | [blessanm86](https://www.raycast.com/blessanm86) | 1 | 9,057 |
-| 192 | [futantan](https://www.raycast.com/futantan) | 2 | 9,020 |
+| 192 | [futantan](https://www.raycast.com/futantan) | 2 | 9,021 |
 | 193 | [Sn0wye](https://www.raycast.com/Sn0wye) | 1 | 9,015 |
 | 194 | [gbarba](https://www.raycast.com/gbarba) | 3 | 8,935 |
 | 195 | [slavarazum](https://www.raycast.com/slavarazum) | 1 | 8,872 |
@@ -232,7 +232,7 @@
 | 222 | [pascal_burkhard](https://www.raycast.com/pascal_burkhard) | 3 | 6,983 |
 | 223 | [dru89](https://www.raycast.com/dru89) | 1 | 6,972 |
 | 224 | [cjdenio](https://www.raycast.com/cjdenio) | 1 | 6,911 |
-| 225 | [HerbertLu](https://www.raycast.com/HerbertLu) | 4 | 6,798 |
+| 225 | [HerbertLu](https://www.raycast.com/HerbertLu) | 4 | 6,799 |
 | 226 | [ChrisChinchilla](https://www.raycast.com/ChrisChinchilla) | 1 | 6,768 |
 | 227 | [anton-suprun](https://www.raycast.com/anton-suprun) | 1 | 6,742 |
 | 228 | [devmoath](https://www.raycast.com/devmoath) | 1 | 6,671 |
@@ -338,7 +338,7 @@
 | 328 | [shakedlokits](https://www.raycast.com/shakedlokits) | 1 | 3,375 |
 | 329 | [muzhen_gaming](https://www.raycast.com/muzhen_gaming) | 2 | 3,338 |
 | 330 | [phlo](https://www.raycast.com/phlo) | 2 | 3,310 |
-| 331 | [tmk](https://www.raycast.com/tmk) | 1 | 3,308 |
+| 331 | [tmk](https://www.raycast.com/tmk) | 1 | 3,310 |
 | 332 | [carter](https://www.raycast.com/carter) | 1 | 3,279 |
 | 333 | [skyline-123](https://www.raycast.com/skyline-123) | 3 | 3,271 |
 | 334 | [Qetesh](https://www.raycast.com/Qetesh) | 1 | 3,263 |
@@ -352,14 +352,14 @@
 | 342 | [Undolog](https://www.raycast.com/Undolog) | 5 | 3,185 |
 | 343 | [marky](https://www.raycast.com/marky) | 1 | 3,178 |
 | 344 | [nicolas-marien](https://www.raycast.com/nicolas-marien) | 3 | 3,173 |
-| 345 | [http.james](https://www.raycast.com/http.james) | 4 | 3,162 |
+| 345 | [http.james](https://www.raycast.com/http.james) | 4 | 3,163 |
 | 346 | [josmithua](https://www.raycast.com/josmithua) | 1 | 3,152 |
 | 347 | [marckohlbrugge](https://www.raycast.com/marckohlbrugge) | 3 | 3,104 |
 | 348 | [maxnyby](https://www.raycast.com/maxnyby) | 1 | 3,104 |
 | 349 | [madza](https://www.raycast.com/madza) | 1 | 3,097 |
 | 350 | [benekuehn](https://www.raycast.com/benekuehn) | 2 | 3,095 |
 | 351 | [leeraymond78](https://www.raycast.com/leeraymond78) | 1 | 3,084 |
-| 352 | [henrikruscon](https://www.raycast.com/henrikruscon) | 1 | 3,067 |
+| 352 | [henrikruscon](https://www.raycast.com/henrikruscon) | 1 | 3,069 |
 | 353 | [PrasadChinwal](https://www.raycast.com/PrasadChinwal) | 1 | 3,047 |
 | 354 | [prashantv](https://www.raycast.com/prashantv) | 1 | 3,045 |
 | 355 | [trevware](https://www.raycast.com/trevware) | 1 | 3,043 |
@@ -378,7 +378,7 @@
 | 368 | [rocksack](https://www.raycast.com/rocksack) | 2 | 2,868 |
 | 369 | [luolei](https://www.raycast.com/luolei) | 2 | 2,860 |
 | 370 | [siddharthsharma94](https://www.raycast.com/siddharthsharma94) | 1 | 2,860 |
-| 371 | [alex-popov-tech](https://www.raycast.com/alex-popov-tech) | 1 | 2,848 |
+| 371 | [alex-popov-tech](https://www.raycast.com/alex-popov-tech) | 1 | 2,850 |
 | 372 | [dtmzr](https://www.raycast.com/dtmzr) | 1 | 2,842 |
 | 373 | [gbgk](https://www.raycast.com/gbgk) | 1 | 2,839 |
 | 374 | [Selfish](https://www.raycast.com/Selfish) | 1 | 2,825 |
@@ -570,7 +570,7 @@
 | 560 | [fayecat](https://www.raycast.com/fayecat) | 1 | 1,391 |
 | 561 | [philip_chen](https://www.raycast.com/philip_chen) | 1 | 1,390 |
 | 562 | [shubham](https://www.raycast.com/shubham) | 2 | 1,389 |
-| 563 | [wesbaker](https://www.raycast.com/wesbaker) | 2 | 1,385 |
+| 563 | [wesbaker](https://www.raycast.com/wesbaker) | 2 | 1,386 |
 | 564 | [yufeikang](https://www.raycast.com/yufeikang) | 1 | 1,384 |
 | 565 | [gutenye](https://www.raycast.com/gutenye) | 3 | 1,383 |
 | 566 | [zeekrey](https://www.raycast.com/zeekrey) | 1 | 1,380 |
@@ -731,7 +731,7 @@
 | 721 | [guilhermevictor](https://www.raycast.com/guilhermevictor) | 1 | 863 |
 | 722 | [yannglt](https://www.raycast.com/yannglt) | 3 | 861 |
 | 723 | [nazzy_wazzy_lu](https://www.raycast.com/nazzy_wazzy_lu) | 3 | 855 |
-| 724 | [ChrisKohler](https://www.raycast.com/ChrisKohler) | 1 | 853 |
+| 724 | [ChrisKohler](https://www.raycast.com/ChrisKohler) | 1 | 854 |
 | 725 | [ernest](https://www.raycast.com/ernest) | 2 | 851 |
 | 726 | [daniel_ac](https://www.raycast.com/daniel_ac) | 1 | 845 |
 | 727 | [troalexis](https://www.raycast.com/troalexis) | 1 | 845 |
@@ -775,7 +775,7 @@
 | 765 | [coding](https://www.raycast.com/coding) | 1 | 778 |
 | 766 | [crazyair](https://www.raycast.com/crazyair) | 1 | 777 |
 | 767 | [wrick17](https://www.raycast.com/wrick17) | 1 | 776 |
-| 768 | [wu.eth](https://www.raycast.com/wu.eth) | 1 | 769 |
+| 768 | [wu.eth](https://www.raycast.com/wu.eth) | 1 | 770 |
 | 769 | [saschaeggi](https://www.raycast.com/saschaeggi) | 1 | 766 |
 | 770 | [stablecog](https://www.raycast.com/stablecog) | 1 | 766 |
 | 771 | [akshay_k](https://www.raycast.com/akshay_k) | 1 | 761 |
@@ -1264,8 +1264,8 @@
 | 1254 | [AlanHuang](https://www.raycast.com/AlanHuang) | 1 | 194 |
 | 1255 | [egirlevadniy](https://www.raycast.com/egirlevadniy) | 1 | 194 |
 | 1256 | [273](https://www.raycast.com/273) | 1 | 193 |
-| 1257 | [eviscares](https://www.raycast.com/eviscares) | 1 | 192 |
-| 1258 | [KthKuang](https://www.raycast.com/KthKuang) | 1 | 192 |
+| 1257 | [KthKuang](https://www.raycast.com/KthKuang) | 1 | 193 |
+| 1258 | [eviscares](https://www.raycast.com/eviscares) | 1 | 192 |
 | 1259 | [vcsjones](https://www.raycast.com/vcsjones) | 1 | 192 |
 | 1260 | [ciko](https://www.raycast.com/ciko) | 1 | 191 |
 | 1261 | [hazelhedmine](https://www.raycast.com/hazelhedmine) | 1 | 191 |

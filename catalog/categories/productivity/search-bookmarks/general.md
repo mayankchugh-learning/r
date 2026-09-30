@@ -4,7 +4,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 398,493 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
+| [Linear](https://github.com/raycast/extensions/tree/main/extensions/linear) | 398,652 | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | linear (org) | macOS, Windows | [store](https://www.raycast.com/linear/linear) |
 | [Downloads Manager](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) | 84,016 | Search and organize your downloads | thomas | macOS, Windows | [store](https://www.raycast.com/thomas/downloads-manager) |
 | [Port Manager](https://github.com/raycast/extensions/tree/main/extensions/port-manager) | 61,369 | Find open ports and close them | lucaschultz | macOS, Windows | [store](https://www.raycast.com/lucaschultz/port-manager) |
 | [Cheatsheets](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) | 42,550 | Search and view programming cheatsheets | destiner | macOS, Windows | [store](https://www.raycast.com/destiner/cheatsheets) |
@@ -21,10 +21,10 @@
 | [Open Browsers Profiles](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles) | 4,311 | Access your browsers profiles from Raycast | skydiver | macOS | [store](https://www.raycast.com/skydiver/browsers-profiles) |
 | [Stickies](https://github.com/raycast/extensions/tree/main/extensions/stickies) | 3,638 | Search and show macOS's built-in Stickies via Raycast | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/stickies) |
 | [CSS.GG](https://github.com/raycast/extensions/tree/main/extensions/css-gg) | 3,476 | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API | astrit | macOS | [store](https://www.raycast.com/astrit/css-gg) |
-| [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 3,321 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
+| [Miro](https://github.com/raycast/extensions/tree/main/extensions/miro) | 3,322 | Create, search and copy link, open Miro boards and more. | felixhaeberle | macOS, Windows | [store](https://www.raycast.com/felixhaeberle/miro) |
 | [Bible](https://github.com/raycast/extensions/tree/main/extensions/bible) | 3,152 | Search the bible | josmithua | macOS, Windows | [store](https://www.raycast.com/josmithua/bible) |
 | [Texts](https://github.com/raycast/extensions/tree/main/extensions/texts) | 3,139 | Use your messaging applications from Raycast with ease, open a conversation fast. | zavbala | macOS | [store](https://www.raycast.com/zavbala/texts) |
-| [LastPass Credentials Search](https://github.com/raycast/extensions/tree/main/extensions/lastpass) | 2,848 | Search, view, and copy credentials from LastPass | alex-popov-tech | macOS | [store](https://www.raycast.com/alex-popov-tech/lastpass) |
+| [LastPass Credentials Search](https://github.com/raycast/extensions/tree/main/extensions/lastpass) | 2,850 | Search, view, and copy credentials from LastPass | alex-popov-tech | macOS | [store](https://www.raycast.com/alex-popov-tech/lastpass) |
 | [Glyph Search](https://github.com/raycast/extensions/tree/main/extensions/glyph-search) | 2,839 | Like the emoji picker, but for unicode glyphs | gbgk | macOS | [store](https://www.raycast.com/gbgk/glyph-search) |
 | [Hookmark Search](https://github.com/raycast/extensions/tree/main/extensions/search-hookmark) | 2,701 | Hookmark Search UI in Raycast | QIanGua | macOS | [store](https://www.raycast.com/QIanGua/search-hookmark) |
 | [Regular Expressions Search](https://github.com/raycast/extensions/tree/main/extensions/search-regexp) | 2,602 | Quickly find the most common JS regular expressions. | musienkoyuriy | macOS | [store](https://www.raycast.com/musienkoyuriy/search-regexp) |
