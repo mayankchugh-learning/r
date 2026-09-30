@@ -1,6 +1,6 @@
 # vimtor
 
-16 extensions · 334,935 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
+16 extensions · 334,937 downloads · [store](https://www.raycast.com/vimtor) · [← publishers](../README.md)
 
 ## Applications (5)
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) | 133,691 | Download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/video-downloader) |
 | [WhatsApp](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) | 53,039 | Open WhatsApp chats | vimtor | macOS, Windows | [store](https://www.raycast.com/vimtor/whatsapp) |
-| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,703 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
+| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,705 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Pocket](https://github.com/raycast/extensions/tree/main/extensions/pocket) | 3,800 | Manage Pocket bookmarks from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/pocket) |
 | [PlanetScale](https://github.com/raycast/extensions/tree/main/extensions/planetscale) | 97 | Manage PlanetScale from Raycast | vimtor | macOS | [store](https://www.raycast.com/vimtor/planetscale) |
 

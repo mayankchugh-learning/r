@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Cursor](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) | 45,596 | Control Cursor directly from Raycast - Search and open recent projects, handle extensions and commands. | degouville | macOS | [store](https://www.raycast.com/degouville/cursor-recent-projects) |
 | [Session - Pomodoro Focus Timer](https://github.com/raycast/extensions/tree/main/extensions/session) | 8,778 | Control Session pomodoro timers. Requires v2.6.23 or later installed: www.stayinsession.com | jameslyons | macOS | [store](https://www.raycast.com/jameslyons/session) |
-| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,703 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
+| [Flow Timer](https://github.com/raycast/extensions/tree/main/extensions/flow) | 8,705 | Control Flow application timer | vimtor | macOS | [store](https://www.raycast.com/vimtor/flow) |
 | [Hue](https://github.com/raycast/extensions/tree/main/extensions/hue) | 8,234 | Quickly and easily control Philips Hue lights | pindab0ter | macOS, Windows | [store](https://www.raycast.com/pindab0ter/hue) |
 | [Anybox](https://github.com/raycast/extensions/tree/main/extensions/anybox) | 5,612 | Control Anybox with Raycast | anybox | macOS | [store](https://www.raycast.com/anybox/anybox) |
 | [Antigravity](https://github.com/raycast/extensions/tree/main/extensions/antigravity) | 3,975 | Control Antigravity directly from Raycast - Search and open recent projects, handle extensions and commands. | meshal | macOS | [store](https://www.raycast.com/meshal/antigravity) |
@@ -28,7 +28,7 @@
 | [Bike](https://github.com/raycast/extensions/tree/main/extensions/bike) | 529 | Control Bike with Raycast | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/bike) |
 | [HubSpot Portal Launcher](https://github.com/raycast/extensions/tree/main/extensions/hubspot-portal-launcher) | 512 | A simple Raycast extension that allows you to quickly launch and navigate to different objects in your HubSpot portals | chriso | macOS | [store](https://www.raycast.com/chriso/hubspot-portal-launcher) |
 | [LIFX](https://github.com/raycast/extensions/tree/main/extensions/lifx) | 478 | Control your LIFX lights directly from Raycast | felixb1010 | macOS | [store](https://www.raycast.com/felixb1010/lifx) |
-| [F.lux Control](https://github.com/raycast/extensions/tree/main/extensions/flux) | 333 | Control f.lux from Raycast. | allejo | macOS | [store](https://www.raycast.com/allejo/flux) |
+| [F.lux Control](https://github.com/raycast/extensions/tree/main/extensions/flux) | 334 | Control f.lux from Raycast. | allejo | macOS | [store](https://www.raycast.com/allejo/flux) |
 | [Modrinth](https://github.com/raycast/extensions/tree/main/extensions/modrinth) | 325 | Your Minecraft modding companion - find mods, resource packs, and more | soradotwav | macOS, Windows | [store](https://www.raycast.com/soradotwav/modrinth) |
 | [Mac Mouse Fix](https://github.com/raycast/extensions/tree/main/extensions/mac-mouse-fix) | 275 | Control Mac Mouse Fix from Raycast | marcjulian | macOS | [store](https://www.raycast.com/marcjulian/mac-mouse-fix) |
 | [React DevTools](https://github.com/raycast/extensions/tree/main/extensions/react-devtools) | 261 | Launch React DevTools command-line application | gutenye | macOS | [store](https://www.raycast.com/gutenye/react-devtools) |

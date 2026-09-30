@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | [k41531](https://www.raycast.com/k41531) | 1 | 440 | **Productivity:** [SnapJot](https://github.com/raycast/extensions/tree/main/extensions/snap-jot) |
 | [k4lok](https://www.raycast.com/k4lok) | 1 | 942 | **Uncategorized:** [Open Docker](https://github.com/raycast/extensions/tree/main/extensions/open-docker) |
-| [k8scat](https://www.raycast.com/k8scat) | 6 | 16,235 | **Developer Tools:** [Oh My Zsh Plugins](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins), [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub), [Jenkins](https://github.com/raycast/extensions/tree/main/extensions/jenkins), [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis), [OSS Insight](https://github.com/raycast/extensions/tree/main/extensions/ossinsight)<br>**Productivity:** [ONES](https://github.com/raycast/extensions/tree/main/extensions/ones) |
+| [k8scat](https://www.raycast.com/k8scat) | 6 | 16,236 | **Developer Tools:** [Oh My Zsh Plugins](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins), [Docker Hub](https://github.com/raycast/extensions/tree/main/extensions/dockerhub), [Jenkins](https://github.com/raycast/extensions/tree/main/extensions/jenkins), [Redis](https://github.com/raycast/extensions/tree/main/extensions/redis), [OSS Insight](https://github.com/raycast/extensions/tree/main/extensions/ossinsight)<br>**Productivity:** [ONES](https://github.com/raycast/extensions/tree/main/extensions/ones) |
 | [kaanrkaraman](https://www.raycast.com/kaanrkaraman) | 1 | 4,801 | **Media:** [X/Twitter Video Downloader](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) |
 | [kaichi](https://www.raycast.com/kaichi) | 1 | 3,746 | **Developer Tools:** [SVGO](https://github.com/raycast/extensions/tree/main/extensions/svgo) |
 | [kaidstor](https://www.raycast.com/kaidstor) | 1 | 32 | **System:** [Toggle Proxy](https://github.com/raycast/extensions/tree/main/extensions/toggle-proxy) |
@@ -16,7 +16,7 @@
 | [kalaschnik](https://www.raycast.com/kalaschnik) | 1 | 758 | **Developer Tools:** [Diff View](https://github.com/raycast/extensions/tree/main/extensions/diff-view) |
 | [kall](https://www.raycast.com/kall) | 1 | 4,032 | **Applications:** [MacUpdater](https://github.com/raycast/extensions/tree/main/extensions/macupdater) |
 | [Kami](https://www.raycast.com/Kami) | 1 | 108 | **Developer Tools:** [Looped](https://github.com/raycast/extensions/tree/main/extensions/looped) |
-| [Kang](https://www.raycast.com/Kang) | 3 | 66,168 | **System:** [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip)<br>**Developer Tools:** [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox)<br>**Data:** [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) |
+| [Kang](https://www.raycast.com/Kang) | 3 | 66,169 | **System:** [MyIP](https://github.com/raycast/extensions/tree/main/extensions/myip)<br>**Developer Tools:** [ToolBox](https://github.com/raycast/extensions/tree/main/extensions/toolbox)<br>**Data:** [Google Trends](https://github.com/raycast/extensions/tree/main/extensions/google-trends) |
 | [karbassi](https://www.raycast.com/karbassi) | 1 | 6,058 | **Communication:** [Quick Phone Call](https://github.com/raycast/extensions/tree/main/extensions/quick-call) |
 | [karelvuong](https://www.raycast.com/karelvuong) | 1 | 284 | **Developer Tools:** [QMD](https://github.com/raycast/extensions/tree/main/extensions/qmd) |
 | [karolusd](https://www.raycast.com/karolusd) | 1 | 1,485 | **Media:** [Omnivore](https://github.com/raycast/extensions/tree/main/extensions/omnivore) |
@@ -63,7 +63,7 @@
 | [koala1206](https://www.raycast.com/koala1206) | 2 | 3,245 | **Productivity:** [Prompt Builder](https://github.com/raycast/extensions/tree/main/extensions/prompt-builder)<br>**Developer Tools:** [Bash Commands](https://github.com/raycast/extensions/tree/main/extensions/bash-commands) |
 | [koayon](https://www.raycast.com/koayon) | 2 | 2,031 | **Productivity:** [ArXiv Search](https://github.com/raycast/extensions/tree/main/extensions/arxiv)<br>**News:** [Pitchfork](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) |
 | [koh-sh](https://www.raycast.com/koh-sh) | 1 | 334 | **Developer Tools:** [Slack Templated Message](https://github.com/raycast/extensions/tree/main/extensions/slack-templated-message) |
-| [koinzhang](./id/koinzhang.md) | 50 | 287,659 | [see all 50 →](./id/koinzhang.md) |
+| [koinzhang](./id/koinzhang.md) | 50 | 287,660 | [see all 50 →](./id/koinzhang.md) |
 | [kom](https://www.raycast.com/kom) | 1 | 16,714 | **Productivity:** [Summarize YouTube Videos with AI](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) |
 | [konojunya](https://www.raycast.com/konojunya) | 1 | 542 | **Developer Tools:** [ghq](https://github.com/raycast/extensions/tree/main/extensions/ghq) |
 | [kopach](https://www.raycast.com/kopach) | 1 | 1,353 | **Uncategorized:** [ChatGPT Search](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-search) |

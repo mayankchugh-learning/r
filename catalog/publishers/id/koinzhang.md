@@ -1,6 +1,6 @@
 # koinzhang
 
-50 extensions · 287,659 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
+50 extensions · 287,660 downloads · [store](https://www.raycast.com/koinzhang) · [← publishers](../README.md)
 
 ## Developer Tools (18)
 
@@ -57,7 +57,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Gitee](https://github.com/raycast/extensions/tree/main/extensions/gitee) | 197 | Work with issues, search repositories and stay on top of notifications. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/gitee) |
+| [Gitee](https://github.com/raycast/extensions/tree/main/extensions/gitee) | 198 | Work with issues, search repositories and stay on top of notifications. | koinzhang | macOS | [store](https://www.raycast.com/koinzhang/gitee) |
 
 ### Files & Transfer
 

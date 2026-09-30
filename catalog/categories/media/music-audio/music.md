@@ -30,7 +30,7 @@
 
 | Extension | Downloads | Description | Author | Platforms | Store |
 | --- | --- | --- | --- | --- | --- |
-| [Internet Radio](https://github.com/raycast/extensions/tree/main/extensions/internet-radio) | 1,442 | Plays internet radio via the Music app | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/internet-radio) |
+| [Internet Radio](https://github.com/raycast/extensions/tree/main/extensions/internet-radio) | 1,443 | Plays internet radio via the Music app | HelloImSteven | macOS | [store](https://www.raycast.com/HelloImSteven/internet-radio) |
 | [Looma.fm](https://github.com/raycast/extensions/tree/main/extensions/looma-fm) | 79 | Shuffle and play amazing and relaxing music by Adi Goldstein | adigold1 | macOS | [store](https://www.raycast.com/adigold1/looma-fm) |
 | [Jellyamp](https://github.com/raycast/extensions/tree/main/extensions/jellyamp) | 44 | Search and play music from your Jellyfin server | opkelde | macOS, Windows | [store](https://www.raycast.com/opkelde/jellyamp) |
 | [Parachord](https://github.com/raycast/extensions/tree/main/extensions/parachord) | 35 | Control Parachord music player - play, pause, skip, search, and chat with the AI DJ | parachord | macOS | [store](https://www.raycast.com/parachord/parachord) |

@@ -57,7 +57,7 @@
 | [ahp](https://www.raycast.com/ahp) | 1 | 520 | **Productivity:** [Pipedrive Search](https://github.com/raycast/extensions/tree/main/extensions/pipedrive) |
 | [aic](https://www.raycast.com/aic) | 3 | 495 | **Productivity:** [Google Contacts](https://github.com/raycast/extensions/tree/main/extensions/google-contacts)<br>**Developer Tools:** [RunPool](https://github.com/raycast/extensions/tree/main/extensions/runpool)<br>**Data:** [Companies House](https://github.com/raycast/extensions/tree/main/extensions/companies-house) |
 | [AidenZ](https://www.raycast.com/AidenZ) | 1 | 3 | **Productivity:** [Jovida Daily](https://github.com/raycast/extensions/tree/main/extensions/jovida-daily) |
-| [aimebertrand](https://www.raycast.com/aimebertrand) | 1 | 91 | **Productivity:** [Entra PIM Role](https://github.com/raycast/extensions/tree/main/extensions/epim) |
+| [aimebertrand](https://www.raycast.com/aimebertrand) | 1 | 92 | **Productivity:** [Entra PIM Role](https://github.com/raycast/extensions/tree/main/extensions/epim) |
 | [aiotter](https://www.raycast.com/aiotter) | 1 | 3,508 | **Developer Tools:** [NixPkgs Search](https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search) |
 | [ajaypremshankar](https://www.raycast.com/ajaypremshankar) | 2 | 23,677 | **Productivity:** [Vim Bro - Search Vim Commands](https://github.com/raycast/extensions/tree/main/extensions/vim-bro)<br>**Developer Tools:** [Projects](https://github.com/raycast/extensions/tree/main/extensions/projects) |
 | [AkaChou](https://www.raycast.com/AkaChou) | 1 | 24 | **Productivity:** [Tabbit](https://github.com/raycast/extensions/tree/main/extensions/tabbit) |
@@ -98,7 +98,7 @@
 | [alin](https://www.raycast.com/alin) | 1 | 392 | **Applications:** [Cling File Search](https://github.com/raycast/extensions/tree/main/extensions/cling) |
 | [alirbaba](https://www.raycast.com/alirbaba) | 1 | 3 | **Finance:** [Wlthy](https://github.com/raycast/extensions/tree/main/extensions/wlthy) |
 | [AllanM](https://www.raycast.com/AllanM) | 1 | 784 | **Design Tools:** [Specify](https://github.com/raycast/extensions/tree/main/extensions/specify) |
-| [allejo](https://www.raycast.com/allejo) | 1 | 333 | **Productivity:** [F.lux Control](https://github.com/raycast/extensions/tree/main/extensions/flux) |
+| [allejo](https://www.raycast.com/allejo) | 1 | 334 | **Productivity:** [F.lux Control](https://github.com/raycast/extensions/tree/main/extensions/flux) |
 | [allenan](https://www.raycast.com/allenan) | 1 | 13,393 | **Developer Tools:** [Regex Tester](https://github.com/raycast/extensions/tree/main/extensions/regex-tester) |
 | [allienx](https://www.raycast.com/allienx) | 1 | 548 | **Productivity:** [Coda Bookmarks Search](https://github.com/raycast/extensions/tree/main/extensions/coda-bookmarks-search) |
 | [alloyprototyping](https://www.raycast.com/alloyprototyping) | 1 | 44 | **Applications:** [Alloy](https://github.com/raycast/extensions/tree/main/extensions/alloy) |
@@ -114,7 +114,7 @@
 | [anastasiy_safari](https://www.raycast.com/anastasiy_safari) | 1 | 7,139 | **Applications:** [Everything](https://github.com/raycast/extensions/tree/main/extensions/everything-search) |
 | [anders_morille](https://www.raycast.com/anders_morille) | 1 | 297 | **Developer Tools:** [QuickSnip](https://github.com/raycast/extensions/tree/main/extensions/quicksnip) |
 | [andoutenc](https://www.raycast.com/andoutenc) | 1 | 40 | **Developer Tools:** [Leap.new](https://github.com/raycast/extensions/tree/main/extensions/leap-new) |
-| [andre-rd-rodrigues](https://www.raycast.com/andre-rd-rodrigues) | 1 | 435 | **Finance:** [Fake Financial Data](https://github.com/raycast/extensions/tree/main/extensions/fake-financial-data) |
+| [andre-rd-rodrigues](https://www.raycast.com/andre-rd-rodrigues) | 1 | 437 | **Finance:** [Fake Financial Data](https://github.com/raycast/extensions/tree/main/extensions/fake-financial-data) |
 | [andre347](https://www.raycast.com/andre347) | 1 | 208 | **Documentation:** [Retool Documentation](https://github.com/raycast/extensions/tree/main/extensions/retool) |
 | [andreaselia](./id/andreaselia.md) | 10 | 4,160 | [see all 10 →](./id/andreaselia.md) |
 | [andrebreia](https://www.raycast.com/andrebreia) | 2 | 2,884 | **Fun:** [Timezone Buddy](https://github.com/raycast/extensions/tree/main/extensions/timezone-buddy)<br>**Documentation:** [Statamic Documentation Search](https://github.com/raycast/extensions/tree/main/extensions/statamic-docs) |
@@ -150,7 +150,7 @@
 | [aparandeh](https://www.raycast.com/aparandeh) | 2 | 10,147 | **Productivity:** [ClickUp - Tasks & Docs Explorer](https://github.com/raycast/extensions/tree/main/extensions/clickup)<br>**Data:** [Google Books](https://github.com/raycast/extensions/tree/main/extensions/google-books) |
 | [apiaget](https://www.raycast.com/apiaget) | 1 | 4 | **Productivity:** [Quick Access Infomaniak](https://github.com/raycast/extensions/tree/main/extensions/quick-access-infomaniak) |
 | [apoorv](https://www.raycast.com/apoorv) | 1 | 215 | **Developer Tools:** [Charged: Starknet Shortcuts](https://github.com/raycast/extensions/tree/main/extensions/charged) |
-| [apoorv_khandelwal](https://www.raycast.com/apoorv_khandelwal) | 1 | 4,249 | **Media:** [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) |
+| [apoorv_khandelwal](https://www.raycast.com/apoorv_khandelwal) | 1 | 4,253 | **Media:** [Fetch YouTube Transcript](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) |
 | [ApopeOS](https://www.raycast.com/ApopeOS) | 2 | 98 | **Fun:** [Yu-Gi-Oh! Card Lookup](https://github.com/raycast/extensions/tree/main/extensions/yu-gi-oh-card-lookup)<br>**Developer Tools:** [Phare.io Uptime](https://github.com/raycast/extensions/tree/main/extensions/phare-io-uptime) |
 | [appest](https://www.raycast.com/appest) | 1 | 24,630 | **Productivity:** [TickTick](https://github.com/raycast/extensions/tree/main/extensions/ticktick) |
 | [applauselab](https://www.raycast.com/applauselab) | 1 | 17 | **Developer Tools:** [Temporal](https://github.com/raycast/extensions/tree/main/extensions/temporal) |

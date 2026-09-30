@@ -37,7 +37,7 @@
 | [giokaxo](https://www.raycast.com/giokaxo) | 1 | 127 | **Productivity:** [Translate.ge](https://github.com/raycast/extensions/tree/main/extensions/raycast-translate-ge) |
 | [github](https://www.raycast.com/github) | 1 | 11,094 | **Developer Tools:** [GitHub Copilot](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) |
 | github-next | 2 | — | **Developer Tools:** [Copilot Workspace](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace)<br>**Fun:** [GitHub Spark](https://github.com/raycast/extensions/tree/main/extensions/github-spark) |
-| [gkpln3](https://www.raycast.com/gkpln3) | 1 | 1,506 | **Developer Tools:** [Hexlify](https://github.com/raycast/extensions/tree/main/extensions/hexlify) |
+| [gkpln3](https://www.raycast.com/gkpln3) | 1 | 1,507 | **Developer Tools:** [Hexlify](https://github.com/raycast/extensions/tree/main/extensions/hexlify) |
 | [gksander](https://www.raycast.com/gksander) | 2 | 1,393 | **Developer Tools:** [OSINT Web Check](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check)<br>**Productivity:** [Repo Launcher](https://github.com/raycast/extensions/tree/main/extensions/repo-launcher) |
 | [gkVkJzQEErnBzmm](https://www.raycast.com/gkVkJzQEErnBzmm) | 1 | 38 | **Fun:** [I Ching Divination](https://github.com/raycast/extensions/tree/main/extensions/iching-divination) |
 | [GLaDO8](https://www.raycast.com/GLaDO8) | 1 | 869 | **Productivity:** [Pie for Pi-Hole](https://github.com/raycast/extensions/tree/main/extensions/pie-for-pihole) |

@@ -69,7 +69,7 @@
 | [Privileges](https://github.com/raycast/extensions/tree/main/extensions/privileges) | 326 | Grant and revoke admin permission with SAP Privileges (https://github.com/SAP/macOS-enterprise-privileges). Not affiliated with SAP. | ph00lt0 | macOS | [store](https://www.raycast.com/ph00lt0/privileges) |
 | [Teleport](https://github.com/raycast/extensions/tree/main/extensions/teleport) | 306 | Interact with teleport, the open infrastructure access platform | lamberttraccard | macOS | [store](https://www.raycast.com/lamberttraccard/teleport) |
 | [Okta Search](https://github.com/raycast/extensions/tree/main/extensions/oktasearch) | 96 | Serach Okta users and groups by name. | damian_zachwieja | macOS | [store](https://www.raycast.com/damian_zachwieja/oktasearch) |
-| [Entra PIM Role](https://github.com/raycast/extensions/tree/main/extensions/epim) | 91 | Activate Entra Role via PIM with Graph | aimebertrand | macOS | [store](https://www.raycast.com/aimebertrand/epim) |
+| [Entra PIM Role](https://github.com/raycast/extensions/tree/main/extensions/epim) | 92 | Activate Entra Role via PIM with Graph | aimebertrand | macOS | [store](https://www.raycast.com/aimebertrand/epim) |
 | [Exivo](https://github.com/raycast/extensions/tree/main/extensions/exivo) | 14 | Use dormakaba exivo api to unlock doors. | Michi-2124 | macOS | [store](https://www.raycast.com/Michi-2124/exivo) |
 
 ## Protect & Encrypt
